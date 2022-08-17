@@ -1,31 +1,26 @@
 ---
 category: news
 title: "Machine translation could make English-only science accessible to all"
-excerpt: "While still in high school, Xinyi Liu worked briefly in a lab at Beihang University in Beijing and was surprised to see Chinese researchers routinely using Google Translate to generate the first English draft of scientific papers."
-publishedDateTime: 2022-08-17T06:27:00Z
-originalUrl: "https://phys.org/news/2022-08-machine-english-only-science-accessible.html"
-webUrl: "https://phys.org/news/2022-08-machine-english-only-science-accessible.html"
-ampWebUrl: "https://phys.org/news/2022-08-machine-english-only-science-accessible.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-machine-english-only-science-accessible.amp"
+excerpt: "UC Berkeley scientists and students looked at current artificial intelligence translation systems and found that, though flawed, they have become good enough for researchers to broadly translate their work into other languages,"
+publishedDateTime: 2022-08-17T05:31:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/08/220816175107.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/08/220816175107.htm"
 type: article
-quality: 61
-heat: 71
-published: true
+quality: 49
+heat: 49
+published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - Machine Learning
-  - AI
   - Natural Language Processing
-
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/machine-translation-co.jpg"
-    width: 1650
-    height: 1275
-    isCached: true
+  - AI
 
 related:
   - title: "Machine translation could make English-only science accessible to all"
@@ -43,6 +38,6 @@ related:
         height: 232
         isCached: true
 
-secured: "TrksLpsx1F/WqOVeFgo3S0f8PYIXa2Bit9HsD0HjuRwhAzHAWCW6z7FEOU96cXjWxHF5y4el3gSaSK7gjVbHQ2uIW4voAn07UvZl8BLftvNeavsspfjgkE6RJITHv33qMWkFppFpgZPNF7mgQo6x3LrE3XoC8aYdc1twz01KUAYeiRmfOhRXe3JjbOQ9eDEGwvQfiK0qYEwfgzjJoEVmno8Y2JfaFg4lLOEr3eYINfBpnuV+SSTp+L+PCfnfps7uxLMO2GapJQMhQlJaUKMd+KYvLKPemhecZdBBoQTS0oxxCD8qdIiJ/KeZSzCuDKakm8699JP/7Sh+dUosZ7MtljAgQonJnL4X2+dJ8S+uwBk=;x22zl8sdb3f/rH/htP/0Rg=="
+secured: "fbTW315dv5ny0Tmn7MMOZb1N/DxRpUX81ZlqQlIuOxaltAyqqc+A4OJ7qtHO2+r6QuSCNimy3o3E3dYj02+s4J7BbxmYJM2/pGgegtYYr4MH9hhfSFqw6p62I03RtBWxXB1x2dSjZDSiuYH2YXLOMHgjG8EjsyerUYxFbozM72pMTdPKNpw0iH3SrbBmznaumAU3GaPvpa5PBBEtZtLnjx+y2g2MX+TmDvtPMOSm6+6wOER8Bp4vHqH0ldaVtlVS0OOWDPJF2SLSNABbXhIXphYMmfMkX+h9DHp9sdU082a1OvwxhUB8ETT87ZOgmTdCAdwrt/d3TOEPNJneLMUSJiYWJ6yCqvDfnWY+aF51F20=;kpR5tZiYWDqe+Kp7MILm3g=="
 ---
 

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.suasnews.com/2022/08/hyundai-motor-group-launches-boston
 cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2022/08/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics/"
 type: article
 quality: 79
-heat: -1
-published: false
+heat: 129
+published: true
 
 provider:
   name: SUAS News
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hyundai announces $400M AI, robotics institute powered by Boston Dynamics"
-    excerpt: "When Hyundai acquired Boston Dynamics at the end of 2020, there were plenty of open questions. Chief among them was why we should assume this acquisition would be any different than the past few? The 30-year-old bleeding edge robotics form had been an uncomfortable fit for its last two owners,"
-    publishedDateTime: 2022-08-12T15:06:00Z
-    webUrl: "https://techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/"
-    ampWebUrl: "https://techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 118
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2016/09/disrupt_sf16_boston_dynamics-4300.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Hyundai launches $400-million Boston Dynamics AI institute"
     excerpt: "The Hyundai Motor Group bought a controlling share in Boston Dynamics for US$800 million back in 2020, impressed by the potential of its array of world-leading humanoid, quadrupedal and other robots."
     publishedDateTime: 2022-08-16T07:38:00Z
@@ -82,34 +66,6 @@ related:
       name: autoconnectedcar.com
       domain: autoconnectedcar.com
     quality: 49
-  - title: "Hyundai Motor Group launches Boston Dynamics AI Institute"
-    excerpt: "Hyundai Motor Group announced the launch of Boston Dynamics AI Institute (the Institute), with the goal of making advances in artificial intelligence (AI), robotics and intelligent machines. The Group and Boston Dynamics will make an initial investment of more than $400 million in the new Institute,"
-    publishedDateTime: 2022-08-12T15:23:00Z
-    webUrl: "https://www.ept.ca/2022/08/hyundai-motor-group-launches-boston-dynamics-ai-institute/"
-    type: article
-    provider:
-      name: EPT
-      domain: www.ept.ca
-    quality: 39
-    images:
-      - url: "https://www.ept.ca/wp-content/uploads/2022/08/Hyundai-Motor-Boston-Fig-1.jpeg"
-        width: 1512
-        height: 1722
-        isCached: true
-  - title: "Hyundai invests in AI, software research centres"
-    excerpt: "Mr Raibert said in a statement the new institute will “invest resources across the technical areas of cognitive AI, athletic AI and organic hardware design, with each discipline contributing to progress in advanced machine capabilities”."
-    publishedDateTime: 2022-08-15T16:54:00Z
-    webUrl: "https://www.just-auto.com/news/hyundai-invests-in-ai-software-research-centres/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/06/shutterstock_1803136597-1.jpg"
-        width: 500
-        height: 223
-        isCached: true
   - title: "Boston Dynamics, Hyundai to invest $400M in new AI Institute in Kendall Square"
     excerpt: "Robot-dog maker Boston Dynamics and Hyundai plan to invest over $400 million in a Kendall Square institute focusing on robotics, A.I. and intelligent machines research."
     publishedDateTime: 2022-08-12T18:15:00Z

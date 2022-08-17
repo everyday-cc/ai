@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-au
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/?amp=1"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -46,20 +46,6 @@ related:
       - url: "https://images.hindustantimes.com/img/2022/08/13/1600x900/Xiaomi_driverless_car_1660360335290_1660360335451_1660360335451.png"
         width: 1600
         height: 900
-        isCached: true
-  - title: "Xiaomi Is Testing 140 Self-Driving Vehicles In China"
-    excerpt: "Xiaomi Corp., a Chinese designer and manufacturer of consumer electronics, is currently testing autonomous driving capabilities on 140 vehicles in China,"
-    publishedDateTime: 2022-08-12T16:47:00Z
-    webUrl: "https://www.techworm.net/2022/08/xiaomi-testing-self-driving-vehicles-china.html"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 24
-    images:
-      - url: "https://www.techworm.net/wp-content/uploads/2022/08/xiaomi-self-driving.jpg"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "cxbmpoZusKparO4qT3IfXTVGDZHf3hpbTp5OXvZp51L4bwRqU5IX41TPNOqAuU0uJ5kfWAUYJUHp9XCYIMd8/Il/tgPqcK4mjwyo7KwYzgCW2XxLzPT43so51oGLwI1+2YXqvvr+mkSzow6Yu4SB1vUkdoMfCtvHKRf5x8iziT7EHn/zE72hslh8oMVEk8e8Gj/wD5sIZ+N1xlSV8tuc+IS2j3+WBlH/kYuv7MLAXrnJUSwNP1b1k6g6/LdLPXylIjYXxgB/g+HHpHSFl94KH5XEevOtUSc7oJCAZzltntNZ6wsXAV0MM+c1DiKNXVG7yrW2CDcqo3IA6ZA9KJCByBbfg0rLOhPTk15LdBiQ1ospwm7yFMEH33IIPH922k03Fb1tY0BxxI/L8lJaKwTdynwKcn5/GCvLcW92s2JZY0oGdvQQco0JDhCiJYQRH58PNK4NAriA4x7FklN3z7uLdv8pRXqQbeTcl0vDEqWyWiaXtBglc6dW0299IO7mRc1Z+sOw4iIhd975xQWMZtMRMA==;ShVMQN6wmorfQ9P+aUZatw=="

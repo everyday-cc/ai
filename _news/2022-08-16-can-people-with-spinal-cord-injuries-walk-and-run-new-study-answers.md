@@ -51,7 +51,12 @@ related:
     provider:
       name: Big News Network.com
       domain: bignewsnetwork.com
-    quality: 1
+    quality: 21
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1660589526.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "Can a human with a spinal cord injury walk and run? Discovering clues to solving science challenges with neuromorphic technology"
     excerpt: "Provide a ray of hope, engineering clues to biological/medical challenges for spinal cord and nerve damage patients - Reproduction of the leg movement of a nerve-paralyzed rat through the stretchable"
     publishedDateTime: 2022-08-15T00:00:00Z

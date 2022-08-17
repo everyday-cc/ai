@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-15T18:58:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/272654679/can-people-with-spinal-injuries-walk-and-run-researchers-probe-in-new-study"
 webUrl: "https://www.bignewsnetwork.com/news/272654679/can-people-with-spinal-injuries-walk-and-run-researchers-probe-in-new-study"
 type: article
-quality: 1
+quality: 21
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://cdn.bignewsnetwork.com/ani1660589526.jpg"
+    width: 630
+    height: 420
+    isCached: true
 
 related:
   - title: "Can people with spinal cord injuries walk and run? New study answers"
@@ -66,6 +72,6 @@ related:
         height: 258
         isCached: true
 
-secured: "VFslFQa8whVfdEjzUSAHYkMBzq4WeB30Rq4FcGZzzVhyP2o8akZJkb3Hyywj5PkGhsf/GLMoKa+qtli1aTRTlMUVIaUUPDQ/fpU+oqFY22SdP7P0glyhi9yWukEIUoXuAUb2DxdAZQbf23LwDeomBAn8ZeOJVHWysuvAoV0ta/RvYnvhVfOWz6TgUcpA+5hVrOa1ZMfcfM03cEvcudjwmXkSXqyti7q6IDJK5T55VjZJCgmWfabk2p5cNwz0bFqD8VoHVbd9v2vtQ8Ej1BH42U9pxIh5NmKRkPlcnQDvo2TbZ+NqBpwMoolhklQWkm96Kijdprqgu8uyOTYxFh/94Z3ZfrXmNgF0PYP+kBRPjpg=;pu5LiCxhpVCpc9TxLDpAQA=="
+secured: "9cDkn4uWtANPK100XZV/kzZrL2ajydmi7lXa9cWhqrhX/Ls+nfR+qobeVUv+a5M9Yig6CGleHbtT3poZqsCRX+ynt8sJFky0XC9gVLL8m9Iv3PjTeURnd8TXJukXpZeQWJdHUb7x2TZx7MPAfK4Kv1+ezq87UnqarX0eJ/Wa2fnoOSvUhmngSICHHA4Ii3wcEPYh7V+M+RmADE7da6frIXBafqtzUfZtgpXcX7XonrKBThXGyshPhePhTYejuPQw7t3bsXsXplVHcZyF3ybRScQdJQPiISeZfo9CGrzaAXzfvtTukVla1czKf6SMbH8+a9B+K2C9/R7g/+xpWb+GZ5kkHPzn+rmU2R76ua9aSbo=;FMAHjRRJ6URqzx2TbxpwIQ=="
 ---
 

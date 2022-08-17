@@ -25,109 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "Hyundai announces $400M AI, robotics institute powered by Boston Dynamics"
-    excerpt: "When Hyundai acquired Boston Dynamics at the end of 2020, there were plenty of open questions. Chief among them was why we should assume this acquisition would be any different than the past few? The 30-year-old bleeding edge robotics form had been an uncomfortable fit for its last two owners,"
-    publishedDateTime: 2022-08-12T15:06:00Z
-    webUrl: "https://techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/"
-    ampWebUrl: "https://techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/amp/"
+  - title: "In human-centered AI, UX and software roles are evolving"
+    excerpt: "Leaky abstractions' are transforming software design and programming and leading to better, human-focused technology."
+    publishedDateTime: 2022-08-15T20:07:00Z
+    webUrl: "https://venturebeat.com/ai/in-human-centered-ai-ux-and-software-roles-are-evolving/"
+    ampWebUrl: "https://venturebeat.com/ai/in-human-centered-ai-ux-and-software-roles-are-evolving/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/in-human-centered-ai-ux-and-software-roles-are-evolving/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 118
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2016/09/disrupt_sf16_boston_dynamics-4300.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Hyundai Motor Group launches Boston Dynamics AI Institute to spearhead advancements in Artificial Intelligence & robotics"
-    excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new instituteThe Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across the"
-    publishedDateTime: 2022-08-15T15:22:00Z
-    webUrl: "https://www.suasnews.com/2022/08/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics/"
-    ampWebUrl: "https://www.suasnews.com/2022/08/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics/"
-    cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2022/08/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics/"
-    type: article
-    provider:
-      name: SUAS News
-      domain: suasnews.com
-    quality: 79
-    images:
-      - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/12/hyundai-AAM-plans.jpg?fit=1200%2C822&#038;ssl=1"
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/entrepreneurship.jpg?w=1200&strip=all"
         width: 1200
-        height: 822
+        height: 623
         isCached: true
-  - title: "Hyundai launches $400-million Boston Dynamics AI institute"
-    excerpt: "The Hyundai Motor Group bought a controlling share in Boston Dynamics for US$800 million back in 2020, impressed by the potential of its array of world-leading humanoid, quadrupedal and other robots."
-    publishedDateTime: 2022-08-16T07:38:00Z
-    webUrl: "https://newatlas.com/robotics/hyundai-boston-dynamics-artificial-intelligence/"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 69
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/9076b6d/2147483647/strip/true/crop/1060x557+0+2/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F54%2Fcc%2Fd5e646284016bd88c6a89f85ecb1%2Fatlas-mid-step.jpg&na.image_optimisation=0"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Hyundai To Spend $400 Million To Found Boston Dynamics AI Institute In Massachusetts"
-    excerpt: "Hyundai Motor Group today announced that it will invest $400 million to create a new institute whose goal will be to make fundamental advances in artificial intelligence, robotics, and intelligent machines."
-    publishedDateTime: 2022-08-13T00:00:00Z
-    webUrl: "https://www.carscoops.com/2022/08/hyundai-to-spend-400-million-to-found-boston-dynamics-ai-institute-in-massachusetts/"
-    ampWebUrl: "https://www.carscoops.com/2022/08/hyundai-to-spend-400-million-to-found-boston-dynamics-ai-institute-in-massachusetts/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/hyundai-to-spend-400-million-to-found-boston-dynamics-ai-institute-in-massachusetts/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 52
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2022/08/2022-Hyundai-x-Boston-Dynamics-2.jpg"
-        width: 1920
-        height: 1280
-        isCached: true
-  - title: "Boston Dynamics AI Institute to Research AI & Robotics Led By Marc Raibert"
-    excerpt: "Hyundai Motor Group (the Group) today announced the launch of Boston Dynamics AI Institute (the Institute), with the goal of making fundamental advances in artificial intelligence (AI), robotics and intelligent machines."
-    publishedDateTime: 2022-08-14T18:43:00Z
-    webUrl: "https://www.autoconnectedcar.com/2022/08/boston-dynamics-ai-institute-to-research-ai-robotics-led-by-marc-raibert/"
-    type: article
-    provider:
-      name: autoconnectedcar.com
-      domain: autoconnectedcar.com
-    quality: 49
-  - title: "Hyundai Motor Group launches Boston Dynamics AI Institute"
-    excerpt: "Hyundai Motor Group announced the launch of Boston Dynamics AI Institute (the Institute), with the goal of making advances in artificial intelligence (AI), robotics and intelligent machines. The Group and Boston Dynamics will make an initial investment of more than $400 million in the new Institute,"
-    publishedDateTime: 2022-08-12T15:23:00Z
-    webUrl: "https://www.ept.ca/2022/08/hyundai-motor-group-launches-boston-dynamics-ai-institute/"
-    type: article
-    provider:
-      name: EPT
-      domain: www.ept.ca
-    quality: 39
-    images:
-      - url: "https://www.ept.ca/wp-content/uploads/2022/08/Hyundai-Motor-Boston-Fig-1.jpeg"
-        width: 1512
-        height: 1722
-        isCached: true
-  - title: "Boston Dynamics, Hyundai to invest $400M in new AI Institute in Kendall Square"
-    excerpt: "Robot-dog maker Boston Dynamics and Hyundai plan to invest over $400 million in a Kendall Square institute focusing on robotics, A.I. and intelligent machines research."
-    publishedDateTime: 2022-08-12T18:15:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2022/08/12/boston-dynamics-ai-institute-kendall-hyundai.html"
-    type: article
-    provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 15
-  - title: "Hyundai to pour $400 million into artificial-intelligence foundation in Kendall Square"
-    excerpt: "The Boston Dynamics AI Institute, named for the robotics company Hyundai is the majority owner of, has set up shop on Broadway. Read more."
-    publishedDateTime: 2022-08-14T16:09:00Z
-    webUrl: "https://universalhub.com/2022/hyundai-pour-400-million-artificial-intelligence"
-    type: article
-    provider:
-      name: Universal Hub
-      domain: universalhub.com
-    quality: 13
 
 secured: "VSNJw2Bi+UpkElQkPkVHJix4RAWDtpxgCaG1HjunuorXgOMAjHNO68luajSJim2YH18awevLfP9t0Wlxb/3hp2e71G34AmksB6rFaIut2Qhv0vR/6YBEHhC8NzbjRPR3cHLpqoAZd/neFCodwSk4x0saqPLTSzrgzmhyb6EmsYLE+Ne4S5OMI2J2G9EQzWHCleWtchXaHj5cxnKagrFVYWpOMTlMnJeNt01drbqsOOuv9QWnrEV3uyzHfhZ8xR5Udi7GeJTb6umEyxRV4QocaC2MQVSUBj6C5Kb1MmLSyx0sQ7EXNfkq3XRPK3/2Lz3oLQTG3Gmv3+0QFPZyu5GP8vbgXDyzVdnff4D27ba1KU9cTmw6DefiCMAYrf05l4XLXWhHT8jii4cv8OBHYFmnA4Ao1pNxmmSml40nlhNu2O/z5Iyyu4kMjBkaEMCdddG21UlcmbAjgaILZNYdyL8QMy28pyjAppsC9E3Hx+NLZwqz8MDFrDicHWY7ijtBedIRCyqm1eEjq4BtDX3pQ7gmKA==;4CfPovTTQsF2t3F+S+JHBQ=="
 ---

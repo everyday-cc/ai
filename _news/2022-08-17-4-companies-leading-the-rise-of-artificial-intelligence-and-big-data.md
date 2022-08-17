@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-17T03:52:00Z
 originalUrl: "https://seekingalpha.com/article/4535058-four-companies-leading-the-rise-of-ai-big-data"
 webUrl: "https://seekingalpha.com/article/4535058-four-companies-leading-the-rise-of-ai-big-data"
 type: article
-quality: 43
+quality: 45
 heat: -1
 published: false
 
@@ -19,6 +19,7 @@ topics:
   - AI
   - AI in Robotics
   - IBM AI
+  - Microsoft AI
 
 images:
   - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1387900612/image_1387900612.jpg?io=getty-c-w750"

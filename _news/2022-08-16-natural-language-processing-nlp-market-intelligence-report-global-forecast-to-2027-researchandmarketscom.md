@@ -19,34 +19,18 @@ topics:
   - AI
 
 related:
-  - title: "Global Educational Robot Market to Hit $3 Billion by 2030"
-    excerpt: "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's"
-    publishedDateTime: 2022-08-12T15:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28475655/global-educational-robot-market-to-hit-3-billion-by-2030"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28475655"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28475655"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 59
-    images:
-      - url: "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "Global Educational Robot Market To Hit $3 Billion By 2030'"
-    excerpt: "The global educational robot market reached a value of US$ 1.2 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 3.0 Billion by 2027, exhibiting a CAGR of 16.5% during 2021-2027."
-    publishedDateTime: 2022-08-12T17:27:00Z
-    webUrl: "https://menafn.com/1104689465/Global-Educational-Robot-Market-To-Hit-3-Billion-By-2030"
+  - title: "North America Machine Learning Market Is Expected To Get Major Boost In Demand Over The Forecast Period 2022-2031"
+    excerpt: "The report titled  North America Machine Learning Market  which was recently added by Kenneth Research, aims at providing the cl"
+    publishedDateTime: 2022-08-16T10:11:00Z
+    webUrl: "https://menafn.com/1104703202/North-America-Machine-Learning-Market-Is-Expected-To-Get-Major-Boost-In-Demand-Over-The-Forecast-Period-2022-2031"
     type: article
     provider:
       name: Middle East North Africa Financial Network
       domain: menafn.com
-    quality: 39
+    quality: 18
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?181700"
-        width: 531
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?201239"
+        width: 375
         height: 250
         isCached: true
   - title: "Global AI CCTV Market (2022 to 2030) - Opportunity Analysis and Industry Forecasts - ResearchAndMarkets.com"
@@ -58,15 +42,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 1
-  - title: "Global ASIC Chip Market Research Report 2022: A $34.4 Billion Market by 2027 - Trends, Forecast and Competitive Analysis - ResearchAndMarkets.com"
-    excerpt: "Trends, Forecast and Competitive Analysis\" report has been added to ResearchAndMarkets.com's offering. The global ASIC chip market is expected to reach an estimated $34.4 billion by 2027 with a CAGR of 7."
-    publishedDateTime: 2022-08-15T14:16:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-15-global-asic-chip-market-research-report-2022-a-344-billion-market-by-2027-trends-forecast-and-competitive-analysis-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "YEfzOqVnQifDGdZ9RkFSkvvNabCDKCXDFGClgggZX+/oR+9fqgc81PlfvvjBwyGjuSZTuhLlnicyq071GjfYb/Qd9E4rkjnf9FvinslHV9YmKK1AfbkAXkrGmH1KjIMqXCfwRQJfKdDG8zDJRhmXGjdqA2kLAUa6qOmA6Rj2pZq/0U/kB+vOAY/+wFVraKDViEwKlTzkJP9AgJONm1CxOhFTDUv+fxylpyqBFQhiu8dTjh0LwkqC4c8L9Qc5bGRZVHpMxm3+c3tFqgSIkFmf/HYSbFMb/NOpgFWPl8LyymNDbYLFO1jJXgUBa4X6/9B64fSKUvA7h5D9qy9xrlhGjllubL9YEz/liu5DL1TzIHo=;KeGj7PnesSDMdDzOHN6dAg=="
 ---

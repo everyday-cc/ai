@@ -56,20 +56,6 @@ related:
         width: 2000
         height: 1331
         isCached: true
-  - title: "Novel AI algorithm may be the key for a breakthrough epilepsy treatment"
-    excerpt: "A group of scientists from the University College London developed an artificial intelligence algorithm that can detect drug-resistant focal cortical dysplasia."
-    publishedDateTime: 2022-08-12T15:57:00Z
-    webUrl: "https://interestingengineering.com/health/ai-algorithm-epilepsy-treatment"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 37
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/2022/08/12/image/jpeg/0dvrOAPg6PANxki2bsjn5Q6FmrKQgdnSTJHGwi6s.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI Algorithm Helps Cure Epilepsy"
     excerpt: "An artificial intelligence (AI) algorithm developed by researchers detects subtle brain abnormalities which cause epileptic seizures."
     publishedDateTime: 2022-08-14T17:46:00Z

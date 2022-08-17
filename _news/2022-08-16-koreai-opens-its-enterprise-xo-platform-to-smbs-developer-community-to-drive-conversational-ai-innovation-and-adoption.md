@@ -45,6 +45,20 @@ related:
         width: 297
         height: 297
         isCached: true
+  - title: "‘Holographic conversational’ AI lets dead speak at funerals"
+    excerpt: "A Los Angeles-based start-up company has developed a ‘holographic conversational video experience’ that allows mourners at funerals to have conversations with the dead. StoryFile creates a digital clone of the subject by using 20 synchronised cameras to record them answering a series of questions."
+    publishedDateTime: 2022-08-17T09:29:00Z
+    webUrl: "https://www.avinteractive.com/news/ai/holographic-conversational-ai-lets-dead-speak-at-funerals-17-08-2022/"
+    type: article
+    provider:
+      name: avinteractive.com
+      domain: avinteractive.com
+    quality: 37
+    images:
+      - url: "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2022/08/StoryFile-funeral-620x330USE-560x315.jpg"
+        width: 560
+        height: 315
+        isCached: true
 
 secured: "w8huI3/X1DjvV+nXRNwB3SIGXQGKinr2aX3KThGa5TL+4g4MgeIp1eBJ5YA2pLutMuY8U2Ab+cXHcKmfyPQYDxioRzmwJhPXuTSVh6zDTZ7MblWpRdbgiZlDzXZ1s2H03SBkPQd66hFBRKNAVrfeSBMOFsLsBoqkNv21TYhZThGzmlSyYPmSfjalEYHzFsEZvlmrzD3DxpCp2NtUoBQHAgK0Pf6y2btIVQoQvfaLcdGKu9G4rA7F/5wiHTdWmcmzO+NJMlHi74PQA/ISlbPu7XrogN/5jsRRv78VSnT7SYQGX0ULWL8/tGAPSwXRY/9Pi2pEgcLpfSrtTMt56NlAzzfqmtmqWPEnTbWIia3tYGo=;Wz6dbhiaxItMdbFdi4AjkQ=="
 ---

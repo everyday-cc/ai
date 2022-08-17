@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-bes
 ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/amp/"
 type: article
-quality: 87
-heat: 137
+quality: 89
+heat: 139
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/62fc8c03c3e3a8833738a5f5/0x0.jpg?format=jpg&width=1200"
@@ -98,6 +99,6 @@ related:
         height: 798
         isCached: true
 
-secured: "xIXbQtfcJuBGgF3EWVh1+cctkj0//kroVMC6HAz22lrrd11NT0F7xw3kxOIX/OrfYbZ8ZTD0FdTVpgyw8/PckXnJEyY3WdarFnXWIxqzWBHPMR7qggoIEKzkAogcu+/7pBXmtM684L/GyaFPFSrxF1TrpjK0IP5spLEAaSrEniDFjDKpcbkJUZHb0rJFg2DQt61Dy/207ApvWAeKiCJuemS9o5pHCbxm13rqmgOqt8nL7EJSONNzEtAlY8ADpKe8yaOp+OE3FGXqIyjWTpGrZSyq7wBsTxww94wP4+jKfxZswJCwCzQ/JRs/3QEYlTmwz/mX3Cvh0uoTHhjAXvGWcIPYDvpdVrIdHiGR+GmvzH8=;hGV6pIGM7NhkIlyQ5YtaMQ=="
+secured: "g7Z+VADWie+rMqiWDQrEHbIpbSfJaXDnZlCUaqrBsycPNrqXih9qnSox4b5Lol+IXn/puFo0XM3q9VlUuFuTlX/kxIjRQpF+ocG5AxAUOsFswwYF2+J+XMcvBN3mnlhqQB4AxpHmnJWLNex8mAh942bWTjSupFPY/2djr4ezCP+EzaDG1N0/qQSDfulV+6U2Y9IngRSS2vqsHbG+thFm/Xi4AE/iszY1sIcwJ41GB/jVohSsgRJUwt4AwdY0e3VMcqul3AJTaOwyzWOcXPRrfKHdWhsaOF8ykU0eTXvJmcnfervcZhSt3Vqr58f7Jhjw10FTebQX7sTuUamSafqin5+krVINwvgQFfdHMQ0KNXN5N5ari8onjK+B7391V2vYzRcHe4BypjLrvLQIxmBrZVgV/k3FilkX6Q4XqNvg5JC+hdFdMvPUsOPYM9yp8PFY5KAnA+zIyZHtuUG0/XcblQWm0m3KrcChwux1vIleQel8Ce/ENPjKmJPaO89UruIf3XHYaqJgybxNMkOTEkvIiw==;sKi+S8SsldD5AS0T9wQm0g=="
 ---
 

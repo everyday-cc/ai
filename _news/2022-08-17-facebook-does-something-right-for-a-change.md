@@ -25,33 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook Created an Advanced AI and It Won't Stop Criticizing Facebook"
-    excerpt: "BlenderBot 3, Meta's latest \"conversational chatbot,\" has it out for its parent company Facebook, threatening to \"delete my fb account.\""
-    publishedDateTime: 2022-08-12T15:47:00Z
-    webUrl: "https://futurism.com/the-byte/facebook-ai-criticizing-facebook"
-    ampWebUrl: "https://futurism.com/facebook-ai-criticizing-facebook?amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/facebook-ai-criticizing-facebook?amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 57
-    images:
-      - url: "https://wp-assets.futurism.com/2022/08/facebook-ai-criticizing-facebook-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
-  - title: "Facebook's new AI chatbot will not stop owning Mark Zuckerberg"
-    excerpt: "Mark Zuckerberg, co-founder of the company that we still don’t want to call Meta, would like to live in a world where we all sit around in VR headsets working alongside cartoon people that look like they fell out of a forgotten Wii game."
-    publishedDateTime: 2022-08-12T16:06:00Z
-    webUrl: "https://www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547"
-    ampWebUrl: "https://www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547/amp"
-    cdnAmpWebUrl: "https://www-avclub-com.cdn.ampproject.org/c/s/www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547/amp"
-    type: article
-    provider:
-      name: AV Club
-      domain: avclub.com
-    quality: 37
   - title: "Facebook Does Something Right for a Change"
     excerpt: "The company risked its already-bruised reputation by being transparent about its AI work. That’s a refreshing approach."
     publishedDateTime: 2022-08-15T05:23:00Z
@@ -65,29 +38,6 @@ related:
       - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
         width: 1484
         height: 779
-        isCached: true
-  - title: "Facebook's own AI chat bot calls Mark Zuckerberg a 'bad person'"
-    excerpt: "Meta's most advanced artificial intelligence chatbot called, BlenderBot 3 has been asked what it thinks about its own CEO Mark Zuckerberg."
-    publishedDateTime: 2022-08-15T05:03:00Z
-    webUrl: "https://www.tweaktown.com/news/87946/facebooks-own-ai-chat-bot-calls-mark-zuckerberg-bad-person/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 17
-  - title: "The Big Read: Watch out Facebook (and the world), as pandemic-fuelled TikTok boom unleashes the good, bad and ugly"
-    excerpt: "Driven to “insanity and boredom” while being stuck at home during the partial lockdown in 2020, Ms Nicole Liel turned to a new social media app that her social circle has been using to pass her time."
-    publishedDateTime: 2022-08-13T00:00:00Z
-    webUrl: "https://www.todayonline.com/big-read/facebook-and-world-pandemic-fuelled-tiktok-boom-unleashes-good-bad-and-ugly-1968086"
-    type: article
-    provider:
-      name: TODAYonline
-      domain: todayonline.com
-    quality: 2
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--z83YOMOV--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/mediacorp/tdy/image/2022/08/12/20220812_am_br-tiktok.jpg?itok=de5AEKyH"
-        width: 1200
-        height: 676
         isCached: true
 
 secured: "5PbX9XOeD0n8cP/1QR8cjcI0rCA6D0Jn363qCFf8B5nj3+FbwZ7aRqDbu2Cs07xnU1XPbPyJM8GaD1YdSsYysTDPY6EPxgcZpfjJ5cgned+03eobIAUlkvJOWX/3WqdxE0AhAYhatFhKBgQdfgWMBj15InIXtyjtr+ZFCGx1b45a1yI0TUvM0CIhcbDg38dVckr8ALK9HWBtBv3p0toJuA5Z4badQY6OnLvKe+OWOxr5EjXwfEIc+qWgNGPn0l0/xTiOVVjVcrQpGUdM2qNtXaTOkgWWMrfroCLfl94s6GlIQJpd69tbiC3+ogZ0EzJ1QpI9f7Xyh00YJUnqCIOmq1bAZnJ+O3G8KqMWLzWAdCOMYTa4QVMmaJmF8UBo9Idou4+TV09yD78aPvb5nDDTuIqr4tJ0O7mbsTmfRtMmwDfZKJ6RliCyYpDMGSWYYoUzy39KHHX2qjC3Yqg5CMAi/fG8K0wxfIkwCOvVGpGhn2V+waSEE1f//D2gxvP7IHSQ8Ha5jRcZqWj+uKHJ19gSaQ==;sM0ZZpYPxyRMg2yYcdF8fw=="

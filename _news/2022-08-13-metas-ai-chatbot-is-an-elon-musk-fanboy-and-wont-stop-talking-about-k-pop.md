@@ -62,6 +62,15 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Facebook's own AI chat bot calls Mark Zuckerberg a 'bad person'"
+    excerpt: "Meta's most advanced artificial intelligence chatbot called, BlenderBot 3 has been asked what it thinks about its own CEO Mark Zuckerberg."
+    publishedDateTime: 2022-08-15T05:03:00Z
+    webUrl: "https://www.tweaktown.com/news/87946/facebooks-own-ai-chat-bot-calls-mark-zuckerberg-bad-person/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 17
 
 secured: "Sa84tggO2CHXStBEWpiO6YDseLfs2EgGlUKD9dVDRt1zR+V3cyHW7BxiQtUKEUQoTMpz2hlJ8j/DMLTDVDF92wJqURL2U1L0qL4o8aZOtkelGQNWHlyXm2f8KshgWGOP3hqUbPC83tovYidQ6EgrJWQ/D9SI8QfbV++DdwutQMGkzkhpeEBMZkKC00ulpg0E3x13VR9B/ErRXmUGCAK/uIh3Qkc2m/gKrKyuEHMoqNL+oOis6gxnkWXCT8UibyuMzKFXqoKzELlu68uRLJYasutRIYmRuOVGxXMvHB0H3hS8sWAAS0jNFKHkG5FF2wQ1lU5TFpinTkCDguxpH7hqF+vTwOS3F4VNRcz0+NXxwPyM4bTVJCnacnn9srVjqP9NtbqgenxBbupA1vJWlu93WqNCr3M8vrHiRQ4vTXdeQ88jEGT+z+v9JKBfctuhgPcsBkI6MPI3xecrIytylCFYx5w1QvIT9O08y3qpxLlfEN8E1y8RhB6RYAefwE725ejEAZud9HFGYaUbrO7bwyltUA==;Tj86zhhoH9B6U1bep0IGbA=="
 ---

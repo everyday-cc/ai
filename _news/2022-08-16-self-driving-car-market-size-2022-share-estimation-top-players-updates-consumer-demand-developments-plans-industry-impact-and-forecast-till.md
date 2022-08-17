@@ -25,15 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Medicine Market Size - Top Companies, Business Growth & Investment Opportunities, Share and Forecasts 2022-2031"
-    excerpt: "Artificial Intelligence in Medicine Market includes the challenges that are affecting the growth of the industry and offers strategic evaluation that is required to boost the growth of the market over the period."
-    publishedDateTime: 2022-08-14T17:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-size---top-companies-business-growth-investment-opportunities-share-and-forecasts-2022-2031-2022-08-14"
+  - title: "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Key Player, Competition Weakness and Strengths from 2022 to 2028"
+    excerpt: "The \" Natural Language Processing (NLP) in Healthcare and Life Sciences Market Research Report \" for comprises important strategies and plans to control cost and improve efficiency. The report also focuses on demand and supply of the Natural Language Processing (NLP) in Healthcare and Life Sciences industry."
+    publishedDateTime: 2022-08-15T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-08-15"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 35
+    quality: 68
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

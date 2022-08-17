@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.ibtimes.co.in/new-ai-algorithm-can-detect-brain-abnormal
 cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/new-ai-algorithm-can-detect-brain-abnormality-help-cure-epilepsy-851358"
 type: article
 quality: 57
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -55,20 +55,6 @@ related:
       - url: "https://st1.thehealthsite.com/wp-content/uploads/2022/03/epilepsy.jpeg"
         width: 1200
         height: 900
-        isCached: true
-  - title: "Novel AI algorithm may be the key for a breakthrough epilepsy treatment"
-    excerpt: "A group of scientists from the University College London developed an artificial intelligence algorithm that can detect drug-resistant focal cortical dysplasia."
-    publishedDateTime: 2022-08-12T15:57:00Z
-    webUrl: "https://interestingengineering.com/health/ai-algorithm-epilepsy-treatment"
-    type: article
-    provider:
-      name: Interesting Engineering
-      domain: interestingengineering.com
-    quality: 37
-    images:
-      - url: "https://inteng-storage.s3.amazonaws.com/2022/08/12/image/jpeg/0dvrOAPg6PANxki2bsjn5Q6FmrKQgdnSTJHGwi6s.jpg"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "AI Algorithm Helps Cure Epilepsy"
     excerpt: "An artificial intelligence (AI) algorithm developed by researchers detects subtle brain abnormalities which cause epileptic seizures."

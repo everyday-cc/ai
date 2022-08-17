@@ -41,22 +41,6 @@ related:
         width: 330
         height: 300
         isCached: true
-  - title: "Trovata Execs Comment on Role of Open Banking, Variable Recurring Payments, Other Fintech Trends in Banking"
-    excerpt: "Trovata executives explained the role of open banking, variable recurring payments, other Fintech trends in banking."
-    publishedDateTime: 2022-08-12T15:36:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/08/194539-trovata-execs-comment-on-role-of-open-banking-variable-recurring-payments-other-fintech-trends-in-banking/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/08/194539-trovata-execs-comment-on-role-of-open-banking-variable-recurring-payments-other-fintech-trends-in-banking/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/08/194539-trovata-execs-comment-on-role-of-open-banking-variable-recurring-payments-other-fintech-trends-in-banking/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 41
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2021/10/Cavalary-of-the-Empire-Statue-Park-London-UK-600x513.jpeg"
-        width: 600
-        height: 513
-        isCached: true
   - title: "OPTASIA AMONG THE TOP 25 MIDDLE EAST FINTECH COMPANIES ACCORDING TO FORBES MIDDLE EAST MAGAZINE"
     excerpt: "Optasia provides premium fintech services through its advanced AI led Originating and Credit Decisioning Platform. It enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets."
     publishedDateTime: 2022-08-15T05:00:00Z

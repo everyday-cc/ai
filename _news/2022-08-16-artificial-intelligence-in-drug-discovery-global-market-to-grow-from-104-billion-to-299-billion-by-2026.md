@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-drug-disco
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-drug-discovery-global-market-grow-from-/2022/08/16/9656310.htm"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,22 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Global Educational Robot Market To Hit $3 Billion By 2030'"
+    excerpt: "The global educational robot market reached a value of US$ 1.2 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 3.0 Billion by 2027, exhibiting a CAGR of 16.5% during 2021-2027."
+    publishedDateTime: 2022-08-12T17:27:00Z
+    webUrl: "https://menafn.com/1104689465/Global-Educational-Robot-Market-To-Hit-3-Billion-By-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?181700"
+        width: 531
+        height: 250
+        isCached: true
 
 secured: "VyxtzgtZp75HdCa8xZOCLbEcH3oPShSeRdseLTPVOa5oWHtIOX9hTkhG1E0qn675sO6HcqRJrIZ9Q/I2G4Lm/iYFtDJ3qLOru6N5mQQB6MEFYh+sl4w1EChV1zQmKpYVw10GsiqCHln90u50oVMv/erHtw4HvtV8rL3YeACiRxgjj5byiW39181PWV6JO3EjMyug4McOZnrm2B+rH5iJprN6XRKp9q2vgDaIw+s0yL9xh81ZO+gUiWsKrO2dYcQ1xs1/Lqly8bcMezIi/gmWZJ2WuyRXj3KNzyb3fkL/okWi4T9InDdB0maCk8j3HiI8C7GsPm7dkG6jDRCUPimiD6+ZTHbJnJWewSdkPPwP/Zw=;I1DF7j0JKHGg5Wny3etXAA=="
 ---

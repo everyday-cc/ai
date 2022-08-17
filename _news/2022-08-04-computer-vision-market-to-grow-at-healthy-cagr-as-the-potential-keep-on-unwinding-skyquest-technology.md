@@ -17,12 +17,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g"
-    width: 300
-    height: 250
-    isCached: true
-
-secured: "lqVSa5R4YcNR2YORwzQZEgMv1wyOJ7Dy5JXaAiVGIBjuSjn727AhlrL5kCcYKJFL7UfeGn/qGLOkFLs6NlwulvuHWxtFpPTL8mgt5IpY1LrHQWCF9QrGKFv3zoZofhtSqYtcM2Ebyo4ceA78qx6mqXU3gVTNNHIWrkMJt/kkuOmqWhi5ajZ10SHItMELc9deEd61z0oJzYScZI1w9z6U4wiJozEnUje/0MGWEkInfnE6SDTwcgpT9MSgFq9xcOmFU5KBlZR/dZouBKi+qlmIS+joHaihGfSKDgmEk+FO8JMGeB13bour3H7Sl2nNWfARq4z4Pzvd/hBUbmHYjGUnfw5mw1Q5CBN6a1h7jF0f6Kk=;BuNuWZZTi/DsZCzc/TeILg=="
+secured: "4davyjB/oja+g2AtfIYIzdKAEn9oVrLrrNNBQZ8XAjyj5DIUDI/ih/fAkmsXOSyhB1lwTt7TWwtBjWtjdL7Jyi8V2htzgexmU+JcKjYCgl/3JJ6FRbSqA73o5iB78cWyNSwDxYkxcGUbmdsK9Aeq0HBUz85jrUgb8cZfN00pMB9Mv9tIfDRSVyuqMuJVeJJAnN8aWxGFyiOcY2laUrLyo9OZN2Eh5Fmwp37iFBzyNrTPd+IB3GzjI7lyEO6dL5cyHsvimQakAQvJdbxpRbp/sZNnWAXQctyRnqx6K2TsrcJ33/Y4fzJV1QwVedi5GxOTPhC8lWU9BawVlbQNemi9DJcYQTU456aTpIeKBhgsntE=;C/aT9a/WIfWY7DKkiR/5fg=="
 ---
 

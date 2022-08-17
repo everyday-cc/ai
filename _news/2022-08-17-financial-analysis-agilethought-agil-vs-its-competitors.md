@@ -18,6 +18,17 @@ topics:
   - AI in Finance
   - AI
 
+related:
+  - title: "Financial Comparison: AgileThought (AGIL) & Its Peers"
+    excerpt: "AgileThought (NASDAQ:AGIL – Get Rating) is one of 57 publicly-traded companies in the “Management consulting services” industry, but how does it compare to its peers? We will compare AgileThought to related businesses based on the strength of its earnings,"
+    publishedDateTime: 2022-08-17T08:10:00Z
+    webUrl: "https://www.defenseworld.net/2022/08/17/financial-comparison-agilethought-agil-its-peers.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 4
+
 secured: "38toGR8r9KB85VIrcx7Ns8k1r7ebKLkahWvEE2c/bIfOwK8k2SiDcr6A9wYwuCpEX0DW2qn28uglBO5SNtf5pnxdg7xZVvX8f8+O/a1TuzgGrzeGrm/JpsNoAC/y2zBzrsCq6vzhmalkVNb+7pdBTjIKykCXfPudhLBuwUVaFMrBQbxMmClQ0aH83J3H6oYhSfACQJ3fG/3D14ykjVdxhgXS/rugGz4CWaKI1JBU4KQeuGbrUlzXP018cEhoVlFkSwRbr3an70RMVY2NGb4VWiUfxqQOJU8jbOqng5oKongXjDshzsKBTS8yxBdwWkIjHIagoTSe5eqF80rEJJradIpz9F2mFslRrjeqUnCPkoA=;30uPzBgR19eiMFUKLFIuiA=="
 ---
 

@@ -43,20 +43,6 @@ related:
         width: 1652
         height: 920
         isCached: true
-  - title: "Xiaomi Is Testing 140 Self-Driving Vehicles In China"
-    excerpt: "Xiaomi Corp., a Chinese designer and manufacturer of consumer electronics, is currently testing autonomous driving capabilities on 140 vehicles in China,"
-    publishedDateTime: 2022-08-12T16:47:00Z
-    webUrl: "https://www.techworm.net/2022/08/xiaomi-testing-self-driving-vehicles-china.html"
-    type: article
-    provider:
-      name: techworm.net
-      domain: techworm.net
-    quality: 24
-    images:
-      - url: "https://www.techworm.net/wp-content/uploads/2022/08/xiaomi-self-driving.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "Duz7ixjG3/oXtt8Xu5vT4sr6j8vbOODw7tdE6FQabaRDGZ+5mlJv/nBOZmEP5aums2CyWoIcbprS5ObA46JSH753/n1+rYqeAoYzjCpDeWIv7Tvk2ju14C6L88zVojVTNqxVh8phP4HiD1Tiu5nWIFX8/VyjqaLyGxxAlEqLGD+XNM/ucdWLlGG7e/ghLmdvzC8YmgrBeUfLvGttO9Le58hiAeZIkDOTW0ioFpVSZGvmIBQp0T3OB+mCVxR9xTsdFaqIZOpeP6cn2hYtIW9cASz4OyFiz+CATTMdOXzx3mTR5bp36vbylcmNfpcwb/2EW8u9QIXBMZAnjtc0QNqjMynk57Ey0w6woH4jrTpHfiJbtTe0MrsWZExpaaKwhgMyeR6l5hseWxwtH6fslipBMnaC3PLNUbCnyMefSrN6L3Onk+B8z8DyDnxl4S1Gee6MEb4+hSxc+2mCkd5ANJwRv5Ct4roBtFTQk1H2HvmYG/AajrF7dqp79Rq+jWPq/Pzv2aYZ8CMsuoBLgI9+YVQ1lg==;q1eyCLyoI185fQ1OYc8Hcw=="
 ---

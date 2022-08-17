@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Nation releases first draft of rules on self-driving vehicles in public"
-excerpt: "In July, Beijing launched China's first pilot area for commercial autonomous driving vehicle services. Baidu and self-driving startup Pony.ai are the first enterprises granted permission ..."
-publishedDateTime: 2022-08-10T07:03:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html"
-webUrl: "https://www.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html"
+excerpt: "LI ZHIHAO/FOR CHINA DAILY China has released the first national draft guideline on the use of self-driving vehicles for public transport, a key move in accelerating the large-scale ..."
+publishedDateTime: 2022-08-10T08:01:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html?prefer_safari=1&prefer_reader_view=1"
+webUrl: "https://www.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html?prefer_safari=1&prefer_reader_view=1"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 357
     isCached: true
 
-secured: "PvqZWfAtkPu7xtmInQvPYFGmHikRDnBorJz4dDa7mZGMXslLgoff8ncTjnAF8lno0WbAjFX2P0sr2AMLIcJIkUkF0hRwxmsPZtuC3w4o6KLQFoMFEej00wkBeWHf0qccYn8CpL39cQq/FTEgFjx9298gH6hGm39vRAuhBruH4t2+8LQ+iYfktO5CB01sEPrMf7xwHqjNH1EkObyfKaNTgQrcGrORgttveFtjtNQaMY/m2CH8IS1zHEVfUqb56n2gKSxMcjNJ858UzmvkT6Wdfc/mJEezJpnKE5mELNJXtrICCWg2rqj2Q8Pq8rp/y9gIfpZUmRmtrQY6+2eIMWV7zzO0UpEMLTdHvdfVHc1zJlI=;QvBYQLQ0f20Uj5lTSlTH5A=="
+secured: "BMJN3AQW1/CtuKnJFl1+mS8FYDcaUi0pyIs7soVkt/B1ky/sVgo1yiwCTPKWRSWK6STTqGiPsjyK/8Hm53cN7z/KyxwcCkjfQjWWMqK87IQKLZLAwMxIGPETRQTrcOSCsx98R+BtkAGVzMlHV7BUu3R4uS3CX72Ccwex+vTGFKcg9FILgt03SEbp249vbDdVQ5V644lkPaP2SvaK7ykL+WdKJKlPFYjL9VHXH+IojzY8NafP3UHcgrwHNuLk4KOOgwZJ75WGfnGWC25yCxSEQmkGWq8+ABLHoc8fxoPZrx3NQV3gvJ83b6ilu0bNvy5XEDv0qqrTzOnjxS1Wq2X1pbjMca6R8pgeWk8MKQ5Y+Vw=;t2ORIQobg2d8jEpAndFBNA=="
 ---
 

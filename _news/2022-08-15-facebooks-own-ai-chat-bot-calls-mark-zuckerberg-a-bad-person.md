@@ -18,37 +18,40 @@ topics:
   - AI
 
 related:
-  - title: "Facebook Created an Advanced AI and It Won't Stop Criticizing Facebook"
-    excerpt: "BlenderBot 3, Meta's latest \"conversational chatbot,\" has it out for its parent company Facebook, threatening to \"delete my fb account.\""
-    publishedDateTime: 2022-08-12T15:47:00Z
-    webUrl: "https://futurism.com/the-byte/facebook-ai-criticizing-facebook"
-    ampWebUrl: "https://futurism.com/facebook-ai-criticizing-facebook?amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/facebook-ai-criticizing-facebook?amp"
+  - title: "Mark Zuckerberg’s Meta AI chatbot thinks Elon Musk should buy Facebook – but another tech titan would be even better"
+    excerpt: "MARK Zuckerberg’s own AI chatbot believes Elon Musk should buy Facebook in its latest scathing remarks. BlenderBot 3 – which is trained to have conversations like humans – told"
+    publishedDateTime: 2022-08-14T11:21:00Z
+    webUrl: "https://www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/"
+    ampWebUrl: "https://www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/amp/"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 57
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 36
     images:
-      - url: "https://wp-assets.futurism.com/2022/08/facebook-ai-criticizing-facebook-600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/08/VP-OFF-PLATFORM-MARK-ELON-v2.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Facebook's new AI chatbot will not stop owning Mark Zuckerberg"
-    excerpt: "Mark Zuckerberg, co-founder of the company that we still don’t want to call Meta, would like to live in a world where we all sit around in VR headsets working alongside cartoon people that look like they fell out of a forgotten Wii game."
-    publishedDateTime: 2022-08-12T16:06:00Z
-    webUrl: "https://www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547"
-    ampWebUrl: "https://www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547/amp"
-    cdnAmpWebUrl: "https://www-avclub-com.cdn.ampproject.org/c/s/www.avclub.com/blenderbot-3-mark-zuckerberg-facebook-meta-chabot-ai-1849405547/amp"
+  - title: "Meta’s New AI Chatbot Said That Mark Zuckerberg’s Company ‘Exploits People For Money’"
+    excerpt: "BlenderBot 3, Meta Platforms’ (NASDAQ: META) latest artificial intelligence-powered chatbot was recently released for a public demo, and it had"
+    publishedDateTime: 2022-08-15T20:35:00Z
+    webUrl: "https://thedeepdive.ca/metas-new-ai-chatbot-said-that-mark-zuckerbergs-company-exploits-people-for-money/"
     type: article
     provider:
-      name: AV Club
-      domain: avclub.com
-    quality: 37
-  - title: "Facebook Does Something Right for a Change"
+      name: thedeepdive
+      domain: thedeepdive.ca
+    quality: 32
+    images:
+      - url: "https://thedeepdive.ca/wp-content/uploads/2022/08/BlenderBot-3-AI-Chatbot-Meta-Mark-Zuckerberg-Insults.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Facebook’s Ignorant Chatbot Wasn’t a Total Disaster"
     excerpt: "The company risked its already-bruised reputation by being transparent about its AI work. That’s a refreshing approach."
-    publishedDateTime: 2022-08-15T05:23:00Z
-    webUrl: "https://www.washingtonpost.com/business/facebook-does-something-right-for-a-change/2022/08/15/ed7835c0-1c57-11ed-9ce6-68253bd31864_story.html"
+    publishedDateTime: 2022-08-15T00:00:00Z
+    webUrl: "https://www.washingtonpost.com/business/facebooks-ignorant-chatbot-wasnt-a-total-disaster/2022/08/15/ed7835c0-1c57-11ed-9ce6-68253bd31864_story.html"
     type: article
     provider:
       name: Washington Post
@@ -59,34 +62,15 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Facebook Does Something Right for a Change"
-    excerpt: "As one of the 21st Century’s most powerful data brokers, Facebook is best known for its role in sucking up the personal information of billions of users for its advertising clients. That lucrative mod"
-    publishedDateTime: 2022-08-17T05:00:00Z
-    webUrl: "https://english.aawsat.com/home/article/3820846/parmy-olson/facebook-does-something-right-change"
+  - title: "Meta's AI chatbot is an Elon Musk fanboy and won't stop talking about K-pop"
+    excerpt: "Meta's AI chatbot BlenderBot insisted to a Wall Street Journal reporter that Trump will serve a second term and \"always will be\" president.BlenderBot told Bloomberg that Meta CEO Mark Zuckerberg was \"creepy and manipulative\" and the BBC that \"he did a terrible job at testifying before congress."
+    publishedDateTime: 2022-08-12T18:42:00Z
+    webUrl: "https://www.aol.com/metas-ai-chatbot-elon-musk-184234856.html"
     type: article
     provider:
-      name: الشرق الأوسط
-      domain: aawsat.com
-    quality: 24
-    images:
-      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2021/09/11/parmy_olson.jpg?itok=FY1zLtcJ"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "The Big Read: Watch out Facebook (and the world), as pandemic-fuelled TikTok boom unleashes the good, bad and ugly"
-    excerpt: "Driven to “insanity and boredom” while being stuck at home during the partial lockdown in 2020, Ms Nicole Liel turned to a new social media app that her social circle has been using to pass her time."
-    publishedDateTime: 2022-08-13T00:00:00Z
-    webUrl: "https://www.todayonline.com/big-read/facebook-and-world-pandemic-fuelled-tiktok-boom-unleashes-good-bad-and-ugly-1968086"
-    type: article
-    provider:
-      name: TODAYonline
-      domain: todayonline.com
-    quality: 2
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--z83YOMOV--/c_fill%2Cg_auto%2Ch_676%2Cw_1200/f_auto%2Cq_auto/v1/mediacorp/tdy/image/2022/08/12/20220812_am_br-tiktok.jpg?itok=de5AEKyH"
-        width: 1200
-        height: 676
-        isCached: true
+      name: AOL
+      domain: aol.com
+    quality: 15
 
 secured: "HhNzYGLFbFjJP4zl8hoHrJuthSUG63BT3c3aFCqrXRviDA3AQg4gPwm6gTqv/YTv/XmNczKnFaA1q7DyZmxC6F+p8dagWuzLkFI+hzp8ITtHitN0rOClK7+hd3W13vGku5B9Y9ADYDfq7+X5C93okykG6PKt8o265FECMVW4+1Q+IjZWrdycQ+IerdyO/JU8xLG1A3lz7aO9HKywE+71zP3c16hRM5Aki0Z696JviW2ZWPlL5iRsnzF+SHJaGlbswX98pdGSMLKvFJqGJ0G2skycSKcNRGYFf3EUonCYQGkqScvbkl8mqcHx5IJINroo931nlygswTVgSkuF3fSj/QmON+/3ThwUJkJ6bwvnkOg=;t/QuMskt7OsQ5UGDNtvizQ=="
 ---
