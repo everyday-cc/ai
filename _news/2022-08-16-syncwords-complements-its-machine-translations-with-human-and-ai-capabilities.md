@@ -1,23 +1,20 @@
 ---
 category: news
-title: "Syncwords Complements Its Machine Translations With Human And AI Capabilities'"
-excerpt: "SyncWords has been the leading captioning and translation services provider in the media industry for over 20 years.. While SyncWords Live can be used as a primary tool to help deaf and hard-of-hearing audiences,"
-publishedDateTime: 2022-08-16T14:40:00Z
-originalUrl: "https://menafn.com/1104704287/Syncwords-Complements-Its-Machine-Translations-With-Human-And-AI-Capabilities"
-webUrl: "https://menafn.com/1104704287/Syncwords-Complements-Its-Machine-Translations-With-Human-And-AI-Capabilities"
+title: "SyncWords Complements Its Machine Translations With Human and AI Capabilities"
+excerpt: "SyncWords, the leading live captioning and translation services provider is thrilled to announce SyncWords Offline, which includes human tr"
+publishedDateTime: 2022-08-16T12:16:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9656612.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9656612.htm"
 type: article
-quality: 30
-heat: 30
-published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "ntF6gVOG278ZnjBKsm576tsfRYfee9BaMAfg6GjkZhTKwb2xPFuxOwQtcIrWgzWVVqaor0NKMiucySDVmw7AFJ6I1LsQu+T+neorISXb7hzDPAVlQWa3P+1EgaqoiS3R24xNeyqjF0gCJpPI8pAihLVEHMxb7XAeYoqtHCUHJmdcSdHWaVWRilUZyNV1Z2RfcP82ZVdSqd58elub6blKxhdw+lUnH58xVSZOrPWR30Pzec6KTuIUwgMoAiQcd6sa6qoDYTaSghPijL0VU6QFpdyksYfUMvaTQ64QDiF8C/TjdJHIC9Hzc5pdrFxiZ5QXpOfOyC91g28ES1AJXUamacqGdLe6xz2AYmeO+VzKoaKmdQAQ+qU3q5b8H2go6lWUt5SUKiNuaa7r786T8Oeqz2uPjxozTmbP2TIDPuVNE6s5T8+uWagMy/XQTeEdn5hQYYqwDFZxCiN/YJKID+dL3KKHSYVKlsv5HoMAxyu204qAdf9TNAArEP2SaGA96C4IJZIsC9frUYjUI0L2BSjXJQ==;/p/VBxG1G5u8JBJ+YgoPXw=="
+secured: "LahK3R/AJjqJlaDOGfETPySrAEwa/iJVYC6+HMicL3dYpwBYI9YhCny+viCSfuU20rJuXsnAKg8TiXAQks8m7DuDW15jvSZsXuDgbEFHE59QvrY5q0uJEPHAo8y89FNstWBJ04iVYSLxGJLpds3bI886FFGyOlr86sRN1ZJCbCP3kOdkfQRxRLA+uZMj+NCrHtLwWUR0bmVUQBBQm5XAOL7VmpBoRVk7jOx15Tp0hzDdmJOMiXxsZL34Y99A3CYqWcDXSpRpg6LKQcuNdk3IIaTyjpem/fx+e/agIdvkYNqlv50XR2ulWnRn/nuiI/z8zs8KlO+kfgbpMvKPnRLRQ/atLc9Gi9IGj2zSeEMkrzo=;Y7zubyJkDJikJd0Cdm3TwA=="
 ---
 
