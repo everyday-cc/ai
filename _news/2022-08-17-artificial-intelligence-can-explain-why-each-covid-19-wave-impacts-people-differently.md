@@ -5,10 +5,12 @@ excerpt: "Researchers have identified what they believe to be robust metabolic m
 publishedDateTime: 2022-08-16T19:02:00Z
 originalUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-covid-impacts-people.html"
 webUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-covid-impacts-people.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-covid-impacts-people.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-covid-impacts-people.amp"
 type: article
-quality: 25
-heat: -1
-published: false
+quality: 67
+heat: 77
+published: true
 
 provider:
   name: Medical Xpress
@@ -16,6 +18,13 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/covid.jpg"
+    width: 2880
+    height: 1620
+    isCached: true
 
 related:
   - title: "Artificial intelligence can explain why each Covid-19 wave impacts our bodies differently"
@@ -28,6 +37,6 @@ related:
       domain: eurekalert.org
     quality: 25
 
-secured: "6fpDdZaSYRZGRtHt3A2+GCr/szWid8AFwe5sG6Lq1B+8z5olvoeoHwZ/CqTkYgFVkwAhQBvnZFgXMT5r4S0RWtYTsqp04B+K/XAEXp0Po59/N8C4ttewgqgs/gEFRBSkClqCQZj6EUJZGWlD1B5Cw3urZUQu6RGLep4rWBVkIOyFIjyjYPqqHq/MMjvUVMPgi+FFHRShpYkqZc0X0d00pJ3GQAmlbRwPMeHj3Xq96QKSSHJ7f3O0kmZ4ric//MIfdFJWEtl0HFtUjQ25hZ16ZB677mHmhSjodn6uVqDkKL8CqyPd8/rxC6CaJsUIxl1RW+pmBralSzTDWNjTfLRgia5VrNGYfH5KqqtozWyWiADm4ymalvtH8m/rE2ENppWW5nqf0ITPcyjDp56VaG28RitV3Fa36ANzQ4G1Z04Hy5Y9PkiEtFLM6798mHfAtk0DOce1pVaYvW/EfyhPoX+kk+zC//dOXGwxRKcrhpiL83SukZyxm+ab/5EPWeXlG/j1ONRBBc7XQmd/jim/biLHMQ==;gsxOaN84X5cE/norF3i/FA=="
+secured: "C/bFzZTulWmGK/esxOiupTJMTIQVpRQm+JZchUdsnXN/jLA5oMKHe3Wt9A90KUtj7RQhNckXdDIJJ/4Zhyt1M+yP/7uRQpf7L4CQxBjQFb29+1j68Z102+MC7vSy+mqsb/prMTRp7ulGl52aDs/DH5MD0+fPAPJZh2Gjo9hm9Tu4hscRg1oMecsyNYHtIt3kIRSqsMvQT7a12gB+fuCiduUUVS/5b/g0eGu38HmUp2YOPRUBWBGPf5QkEbQrdgCj0cGX0QRz3vFWR919TzeczHTpRLNmaxJk7sGAN3K0JWkuFtN/HgmLjFaRVUCGs7/2L/cpnOGJcjTnrUc6euOknrZB/VwHGgIIIxKX/5l61/E=;ZzebePO8LHCs4bQY4BHhAw=="
 ---
 

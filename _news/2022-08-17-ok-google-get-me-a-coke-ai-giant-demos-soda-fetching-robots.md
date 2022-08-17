@@ -1,26 +1,28 @@
 ---
 category: news
 title: "OK Google, get me a Coke: AI giant demos soda-fetching robots"
-excerpt: "MOUNTAIN VIEW, Calif.,  - Alphabet Inc's Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
-publishedDateTime: 2022-08-17T02:38:00Z
-originalUrl: "https://www.asiaone.com/digital/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots"
-webUrl: "https://www.asiaone.com/digital/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots"
+excerpt: "Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
+publishedDateTime: 2022-08-17T04:04:00Z
+originalUrl: "https://indianexpress.com/article/technology/tech-news-technology/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots-8094603/"
+webUrl: "https://indianexpress.com/article/technology/tech-news-technology/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots-8094603/"
+ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots-8094603/lite/"
+cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots-8094603/lite/"
 type: article
-quality: 37
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: Asia One
-  domain: asiaone.com
+  name: The Indian Express
+  domain: indianexpress.com
 
 topics:
   - AI
 
 images:
-  - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Aug2022/170822_google_reuters.jpg?itok=Rj-UQIKE"
-    width: 800
-    height: 567
+  - url: "https://images.indianexpress.com/2022/08/Ok_Google_robot_Reuters.jpg"
+    width: 1200
+    height: 667
     isCached: true
 
 related:
@@ -55,6 +57,6 @@ related:
         height: 1015
         isCached: true
 
-secured: "ghk8LJ2PDsPX/ZrBoxDtYGr4i/qYRIWPd0OC1ygeXJ8VBCCoiRND2jLgNvaCch5Cttu4TyvHBwu4SQS2ajehMq1PvN1VLkxK0eBHskoi7GAoQ2T9ucCf/JXe5WN60JBf1FwzEJ7dzc5jwvmJtoP7kGde57pACV4BCI18hmXnXGN6P9jiujU8MFvx4zdaLxqcR5ZSNiKLNUPWu5monSvcgUTRdzR6MHNcL8pOX/eg2RuSyewkegBJf5Lv+tPHeZSPuXLdANaryuJXUirNMRar18/sV/PNL9VbR7dKJtj58DxCibGoKWzybTIlif59z8HjKFW7FIjFTAqESeZvS7wql9US75IfUvF9g9i44fz+Mmw=;kZfiADlqANCrAK5ensk3fg=="
+secured: "heQEj9Y3XBCQdowth04G8HSWVwFCQ7HkI/kn4myWpJExd2ZHL+Q4Yzip/q3Qj+w2aj1cpwX6dUk5woVTu/5Wq7F4QZuy2TZAF002HFE0kE8U+U9jjn58vMUMNvPGEKuEt6sTq0PW7PU1JhDnyKs+udFWZtfvIHxpn71FuKRxoqGXNw7lBjkicFpfCCsGMxfnWHzp+GN9elUqqxykVEbyGhH2zgk6buQeeBAr/822wPM6t0OvkHxF88tNzxAnmbvgZvLEUj7fPLZknrn6slFMEakcPJsxhpYhM2VlUtK++uI2TmB4w6bLa+AYdeYvwqySuHVzvjN1dt/RiHnJ3V9PFlh/dJ7Szu73gDWwnozdXIY=;53o0wFqM1iSoNstDx2F5zg=="
 ---
 

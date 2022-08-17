@@ -18,31 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "10 Ways To Use AI For A Successful Product Launch"
-    excerpt: "With AI, you can understand your target audience and their needs better—how they think and buy and what they want in a product or service."
-    publishedDateTime: 2022-08-12T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/12/10-ways-to-use-ai-for-a-successful-product-launch/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/12/10-ways-to-use-ai-for-a-successful-product-launch/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/12/10-ways-to-use-ai-for-a-successful-product-launch/amp/"
+  - title: "Syncwords Complements Its Machine Translations With Human And AI Capabilities'"
+    excerpt: "SyncWords has been the leading captioning and translation services provider in the media industry for over 20 years.. While SyncWords Live can be used as a primary tool to help deaf and hard-of-hearing audiences,"
+    publishedDateTime: 2022-08-16T14:40:00Z
+    webUrl: "https://menafn.com/1104704287/Syncwords-Complements-Its-Machine-Translations-With-Human-And-AI-Capabilities"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 50
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61fc2a4bc9ea6cb9ab72847e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://menafn.com/updates/pr/2022-08/16/PN_dd9c33f1-e_Image_In_Body.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "AI for a Better World"
-    excerpt: "In this special guest feature, Tobi Knaup, CEO of D2iQ, explores how AI will make the world a better place. AI is a general-purpose tool that will be built into almost every product and service we use,"
-    publishedDateTime: 2022-08-12T13:00:00Z
-    webUrl: "https://insidebigdata.com/2022/08/12/ai-for-a-better-world/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 21
 
 secured: "SWCUU8xsaAY8CTugkDwbHGlrxxMXV5NprB8Lb67+tEyCTRF0tyzruvPGXI6/SVR+aQhVSOlZi2IVLUB3MAYFp8PmneAMwdAsWYgzG7Nq7tZNAlq3dQnc97ZXEbnQJS/3qggQZYLan7SnJBXnZpYSJRFLZN1JUwDyh1lVnJ7lsm2xYAFkG4vtRdxmdxA/Q9XC0Gd9DHzHbWQBn+y0GO19+bkC+K9O+ysF8k+vt+AY/jMWoiARcFHrKj2IP615nv1uo//ZscMtOxxRQ/68yPuzizav3Slwv14cIlVG964CE3p6cgVbhvlQivnoPnTHhLi64s1oAl+PfLUCEEIwB+oJIRpgt0VmecNYz9CmB4WJ3X8=;t0GikEB4fsI4PLIhEsbFRQ=="
 ---

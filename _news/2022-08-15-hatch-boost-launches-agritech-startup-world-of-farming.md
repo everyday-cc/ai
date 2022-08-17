@@ -24,6 +24,15 @@ images:
     isCached: true
 
 related:
+  - title: "Abu Dhabi-based agriTech startup to tackle regional food security"
+    excerpt: "This approach will supply the local dairy and meat industry with animal feed at reduced cost, using up to 90% less water and up to 90% less land than traditional farming.⁠. Abu Dhabi-based agriTech startup to tackle regional food security."
+    publishedDateTime: 2022-08-17T05:56:00Z
+    webUrl: "https://www.itp.net/emergent-tech/abu-dhabi-based-agritech-startup-to-tackle-regional-food-security"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 19
   - title: "In UAE’s fertile agritech scene, another startup blooms"
     excerpt: "When it opens, the farm will have a total output of 3,000 metric tons of animal feed annually - using up to 90 percent water and land In UAE’s fertile agritech scene, another startup blooms agritech,"
     publishedDateTime: 2022-08-16T09:44:00Z

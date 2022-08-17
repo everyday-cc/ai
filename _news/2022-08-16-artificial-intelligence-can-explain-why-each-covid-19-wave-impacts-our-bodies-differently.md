@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/961951"
 webUrl: "https://www.eurekalert.org/news-releases/961951"
 type: article
 quality: 25
-heat: 25
+heat: -1
 published: false
 
 provider:
@@ -23,11 +23,18 @@ related:
     excerpt: "Researchers have identified what they believe to be robust metabolic markers of COVID, a discovery that could lead to better understanding and treatments for people that suffer from symptoms of the disease months after diagnosis."
     publishedDateTime: 2022-08-16T19:02:00Z
     webUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-covid-impacts-people.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-covid-impacts-people.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-covid-impacts-people.amp"
     type: article
     provider:
       name: Medical Xpress
       domain: medicalxpress.com
-    quality: 25
+    quality: 67
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/covid.jpg"
+        width: 2880
+        height: 1620
+        isCached: true
 
 secured: "1JCKooyCiDY3k4Mc4LpXjmDbRk1ZekjB6iA5je7BwFKi7Il4qVwrQGktz+RK30Hg1/UXoOraDUbD9NXZPF69ITRNFCMrT3LAZTKTKtvftSpVEtifMlmFFRCqnja7y8bSUrWXx5+jwMW+h9SEpC4Ww1z2+PQ7QyuKdwMqn2ONlhVpYuTPxrmYtAOTezqpA3AeQ3doNsKSywvFko8hJF21/9ITZNs0o7NIIEtRenEcaufr/QVlpRtGIjKIF6cpa8XtQyNalQxoFYLnYar7Gsa/TD8yH4beNas6X8Sze43CbilcDuep8per+AKUUUE81fxhP4vDcEyecDtT9WwJtKyVsTweSYMQuezvsFkW1DRoSl8=;TMWE7Jt8yWmzer5dovXykA=="
 ---

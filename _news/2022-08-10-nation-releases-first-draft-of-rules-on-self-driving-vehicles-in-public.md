@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Nation releases first draft of rules on self-driving vehicles in public"
-excerpt: "LI ZHIHAO/FOR CHINA DAILY China has released the first national draft guideline on the use of self-driving vehicles for public transport, a key move in accelerating the large-scale ..."
-publishedDateTime: 2022-08-10T08:01:00Z
-originalUrl: "https://www.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html?prefer_safari=1&prefer_reader_view=1"
-webUrl: "https://www.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html?prefer_safari=1&prefer_reader_view=1"
+excerpt: "The country will encourage the use of self-driving vehicles such as buses in an enclosed Bus Rapid Transit or BRT system, and allow autonomous vehicles to offer taxi services under simple and relatively controllable scenarios,"
+publishedDateTime: 2022-08-10T02:17:00Z
+originalUrl: "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html"
+webUrl: "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html"
 type: article
 
 provider:
@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "http://img2.chinadaily.com.cn/images/202208/10/62f3069ea310fd2bec9b5dbc.jpeg"
+  - url: "https://img2.chinadaily.com.cn/images/202208/10/62f3069ea310fd2bec9b5dbc.jpeg"
     width: 536
     height: 357
     isCached: true
 
-secured: "wm2bAoGrCc/zE+dZYXRHChC4K0DPsRgvWXgmfWr9hTxEavbcLFGqmLZzMAZTWSZrJmfP8stfB5XPKAF53On1wWenwd+Do6Duz27zq/OSTWatxou02Bq5z5x25kfpAUNuiz0+oXvg9NW040x/Hi7btOTqcQJQ5ucN85YM4IUyRoKKC6KtIP8TCMcQroGIx/IGw0+ivo8w4Q8w2fLAsWtUoXCRhq3s/ocSsAgroke3rSgumoXiONxVHtY76aATghiY5eNhs+YRoc8Z7yENRtwgN+Tuf7nSn326PtOnd5zNqu37T8D5TZhfWgy099h+SgCRxZ6mEC2KzXpT3KDMMgBL6pZ9osy7XtT9RGloVkipQAY=;nQnAAL0Q0wh2pxwpI7RHAg=="
+secured: "dneFELpodfCZ78hJK1vKnPs/2kFntXQnwzJlZmOjjQcevlMKP3SMzHY7VCoEaL3LA2RVjYzt5Gm1thRatYhOn54REqGTkMNc1Q4spOasFR4qzhTcBg9UR1lurnWkMLzvPX+LexyAbGJnxbuMY/6Ky1atOmEAPVPQsGIGOaASGJyP3c0oJVlYXjMCeHqcRCDgAK5amQf9lHDUkJ7vTx/44Oz7R2JYLl8TKzsNnoDsIomt/LYT9kAQsOmYkgahtNwsNZPbDm04inIQ/ST+XRUofTSMN7YZru2PC/uj1iZWb5vkk7+Fi09Q6EjIhFYx/QVuBMj/9pdq2rhe+LT0Wu0v0dzrNwMujkC9iEhZth79pKA=;u1zO7VuN2D3iVphBo/PsUg=="
 ---
 

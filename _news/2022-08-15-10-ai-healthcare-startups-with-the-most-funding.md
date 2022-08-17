@@ -51,6 +51,20 @@ related:
         width: 1800
         height: 1013
         isCached: true
+  - title: "4 Companies Leading The Rise Of Artificial Intelligence And Big Data"
+    excerpt: "The article highlights four companies in the Global X Artificial Intelligence & Technology ETF (AIQ) that are shaping the growth path of technologies along the AI value chain."
+    publishedDateTime: 2022-08-17T03:52:00Z
+    webUrl: "https://seekingalpha.com/article/4535058-four-companies-leading-the-rise-of-ai-big-data"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1387900612/image_1387900612.jpg?io=getty-c-w750"
+        width: 750
+        height: 534
+        isCached: true
   - title: "Meta's AI starts spewing fake news"
     excerpt: "Blenderbot 3 insists that Donald Trump is president and will remain so after 2024 Last week we reported how Facebook's new Blenderbot 3 AI was sexist and racist, but now it has turned into a pro-Trump conspiracy theorist with the intelligence of plankton."
     publishedDateTime: 2022-08-15T09:29:00Z

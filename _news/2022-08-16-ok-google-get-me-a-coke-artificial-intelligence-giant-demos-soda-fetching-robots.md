@@ -42,18 +42,20 @@ related:
         height: 628
         isCached: true
   - title: "OK Google, get me a Coke: AI giant demos soda-fetching robots"
-    excerpt: "MOUNTAIN VIEW, Calif.,  - Alphabet Inc's Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
-    publishedDateTime: 2022-08-17T02:38:00Z
-    webUrl: "https://www.asiaone.com/digital/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots"
+    excerpt: "Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
+    publishedDateTime: 2022-08-17T04:04:00Z
+    webUrl: "https://indianexpress.com/article/technology/tech-news-technology/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots-8094603/"
+    ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots-8094603/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots-8094603/lite/"
     type: article
     provider:
-      name: Asia One
-      domain: asiaone.com
-    quality: 37
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 57
     images:
-      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Aug2022/170822_google_reuters.jpg?itok=Rj-UQIKE"
-        width: 800
-        height: 567
+      - url: "https://images.indianexpress.com/2022/08/Ok_Google_robot_Reuters.jpg"
+        width: 1200
+        height: 667
         isCached: true
 
 secured: "V7zk7AU+wPofrbIEQiEkryd/yK7yYr39Vu/Y/GKb3EuWHXKNfY3seq0s6TdGzqJpdCRlxGRDjBVISl7m78f/opAGAnuQvLQ4QbbX+8xXsqj76TSooeDcQGUbc9DaJ/ybPx9GpY0cfvopQ9i5Mm8J3kmOZEDy6kWPIsOKHeh+71o49LcjaiIJG0zbsGJO6YVStML+yXCyBV56W7a779X2bJVffXRZXVIHWg22wXb5HMRLSWWHgs1gUgu/wepI08ddcyjivo9UOaPtW4pHO6tVuEMRicMfpIFF/ngJ+v5nesWZwF0P/m0aI4S6LxcgleA4HUcupXxwjgGTm978bdfD8HJ3l3CTjfa/1NiBe/Xqj/Ibz5f6tyhkyXZ+xtg/kKr6m30igN64KUbLomTgzLJjdfga07f390CaJ8ptU5rXCt4QTVKR9fXj0JGNPGSJ7+VZjHHFB1szeRZ3hapoHt9T2ffgoOuRlEy2emYZx3gnU2UDiyxSyV9+LVDwnO2cyk13tt7fioLJc5IjuNP3WT5FeQ==;+d8kIhqV5VjNi1OffrNAnA=="

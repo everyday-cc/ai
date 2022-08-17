@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/fighting-bias-in-ai-starts-
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fighting-bias-in-ai-starts-with-the-data/"
 type: article
 quality: 89
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://wp.technologyreview.com/wp-content/uploads/2022/08/MIT-Sunil-Senan-Chris-Degnan.jpg?w=1800"
         width: 1800
         height: 1013
+        isCached: true
+  - title: "4 Companies Leading The Rise Of Artificial Intelligence And Big Data"
+    excerpt: "The article highlights four companies in the Global X Artificial Intelligence & Technology ETF (AIQ) that are shaping the growth path of technologies along the AI value chain."
+    publishedDateTime: 2022-08-17T03:52:00Z
+    webUrl: "https://seekingalpha.com/article/4535058-four-companies-leading-the-rise-of-ai-big-data"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 39
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1387900612/image_1387900612.jpg?io=getty-c-w750"
+        width: 750
+        height: 534
         isCached: true
   - title: "10 AI healthcare startups with the most funding"
     excerpt: "Boston-based company DataRobot uses AI to help businesses cut costs. The company raised $700 million over all investment rounds. Delphia — A Toronto-based startup. Delphia uses AI to help analyze datasets."

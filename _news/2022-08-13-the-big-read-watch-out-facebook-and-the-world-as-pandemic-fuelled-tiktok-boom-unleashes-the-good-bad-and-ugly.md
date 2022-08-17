@@ -66,6 +66,20 @@ related:
         width: 1484
         height: 779
         isCached: true
+  - title: "Facebook Does Something Right for a Change"
+    excerpt: "As one of the 21st Century’s most powerful data brokers, Facebook is best known for its role in sucking up the personal information of billions of users for its advertising clients. That lucrative mod"
+    publishedDateTime: 2022-08-17T05:00:00Z
+    webUrl: "https://english.aawsat.com/home/article/3820846/parmy-olson/facebook-does-something-right-change"
+    type: article
+    provider:
+      name: الشرق الأوسط
+      domain: aawsat.com
+    quality: 24
+    images:
+      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2021/09/11/parmy_olson.jpg?itok=FY1zLtcJ"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Facebook's own AI chat bot calls Mark Zuckerberg a 'bad person'"
     excerpt: "Meta's most advanced artificial intelligence chatbot called, BlenderBot 3 has been asked what it thinks about its own CEO Mark Zuckerberg."
     publishedDateTime: 2022-08-15T05:03:00Z

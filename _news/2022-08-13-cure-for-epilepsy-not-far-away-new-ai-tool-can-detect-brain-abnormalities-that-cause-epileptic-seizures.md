@@ -26,22 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI algorithm that recognizes anomalies in brain may help treat epilepsy"
-    excerpt: "The scientists employed about 300,000 places throughout the brain to quantify cortical properties from the MRI scans, such as how thick or folded the .."
-    publishedDateTime: 2022-08-12T11:15:00Z
-    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/ai-algorithm-that-recognizes-anomalies-in-brain-may-help-treat-epilepsy/93521561"
-    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/ai-algorithm-that-recognizes-anomalies-in-brain-may-help-treat-epilepsy/93521561"
-    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/ai-algorithm-that-recognizes-anomalies-in-brain-may-help-treat-epilepsy/93521561"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-93521561,imgsize-19594,width-1200,height-628,overlay-ethealthworld/ai-algorithm-that-recognizes-anomalies-in-brain-may-help-treat-epilepsy.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "New AI algorithm can detect brain abnormality, help cure epilepsy"
     excerpt: "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities which cause epileptic seizures has been developed by a team of international researchers."
     publishedDateTime: 2022-08-15T03:34:00Z
@@ -58,6 +42,20 @@ related:
         width: 538
         height: 321
         isCached: true
+  - title: "AI in healthcare can help save time & brain"
+    excerpt: "Mark Hitchman, Managing Director of Canon Medical Systems UK, explains AI in healthcare can deliver time efficiencies & better standards of patient care"
+    publishedDateTime: 2022-08-16T10:29:00Z
+    webUrl: "https://www.openaccessgovernment.org/ai-in-healthcare-can-help-save-time-brain-patient-care-digital-health/141677/"
+    type: article
+    provider:
+      name: openaccessgovernment
+      domain: openaccessgovernment.org
+    quality: 54
+    images:
+      - url: "https://www.openaccessgovernment.org/wp-content/uploads/2022/08/dreamstime_xxl_243549981-scaled.jpg"
+        width: 2000
+        height: 1331
+        isCached: true
   - title: "Novel AI algorithm may be the key for a breakthrough epilepsy treatment"
     excerpt: "A group of scientists from the University College London developed an artificial intelligence algorithm that can detect drug-resistant focal cortical dysplasia."
     publishedDateTime: 2022-08-12T15:57:00Z
@@ -72,24 +70,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AI algorithm by UCL researchers detects subtle brain abnormalities"
-    excerpt: "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities which cause epileptic seizures has been developed by a UCL-led team of international researchers."
-    publishedDateTime: 2022-08-12T12:42:00Z
-    webUrl: "https://www.news-medical.net/news/20220812/AI-algorithm-by-UCL-researchers-detects-subtle-brain-abnormalities.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 17
-  - title: "New AI algorithm detects brain abnormalities that lead to epilepsy"
-    excerpt: "Researchers have developed a new artificial intelligence (AI) algorithm as part of the MELD project to detect brain abnormalities that lead to epilepsy."
-    publishedDateTime: 2022-08-12T11:33:00Z
-    webUrl: "https://www.tweaktown.com/news/87901/new-ai-algorithm-detects-brain-abnormalities-that-lead-to-epilepsy/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 17
   - title: "AI Algorithm Helps Cure Epilepsy"
     excerpt: "An artificial intelligence (AI) algorithm developed by researchers detects subtle brain abnormalities which cause epileptic seizures."
     publishedDateTime: 2022-08-14T17:46:00Z
