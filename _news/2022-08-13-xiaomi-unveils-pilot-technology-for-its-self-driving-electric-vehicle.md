@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Xiaomi to test self-driving vehicles in China: CEO"
-    excerpt: "Xiaomi will begin testing its autonomous vehicles with the goal of becoming “an industry leader” in the booming Chinese smart electric vehicle market in"
-    publishedDateTime: 2022-08-12T08:18:00Z
-    webUrl: "https://technode.com/2022/08/12/xiaomi-to-test-self-driving-vehicles-in-china-ceo/"
-    type: article
-    provider:
-      name: TechNode
-      domain: technode.com
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1"
-        width: 540
-        height: 540
-        isCached: true
 
 secured: "Duz7ixjG3/oXtt8Xu5vT4sr6j8vbOODw7tdE6FQabaRDGZ+5mlJv/nBOZmEP5aums2CyWoIcbprS5ObA46JSH753/n1+rYqeAoYzjCpDeWIv7Tvk2ju14C6L88zVojVTNqxVh8phP4HiD1Tiu5nWIFX8/VyjqaLyGxxAlEqLGD+XNM/ucdWLlGG7e/ghLmdvzC8YmgrBeUfLvGttO9Le58hiAeZIkDOTW0ioFpVSZGvmIBQp0T3OB+mCVxR9xTsdFaqIZOpeP6cn2hYtIW9cASz4OyFiz+CATTMdOXzx3mTR5bp36vbylcmNfpcwb/2EW8u9QIXBMZAnjtc0QNqjMynk57Ey0w6woH4jrTpHfiJbtTe0MrsWZExpaaKwhgMyeR6l5hseWxwtH6fslipBMnaC3PLNUbCnyMefSrN6L3Onk+B8z8DyDnxl4S1Gee6MEb4+hSxc+2mCkd5ANJwRv5Ct4roBtFTQk1H2HvmYG/AajrF7dqp79Rq+jWPq/Pzv2aYZ8CMsuoBLgI9+YVQ1lg==;q1eyCLyoI185fQ1OYc8Hcw=="
 ---

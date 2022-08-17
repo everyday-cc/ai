@@ -9,7 +9,7 @@ ampWebUrl: "https://www.apartmenttherapy.com/ai-generated-movie-posters-37116482
 cdnAmpWebUrl: "https://www-apartmenttherapy-com.cdn.ampproject.org/c/s/www.apartmenttherapy.com/ai-generated-movie-posters-37116482?amp=1"
 type: article
 quality: 59
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -47,6 +47,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
+  - title: "These AI-generated Overwatch fusions are beautiful and terrifying"
+    excerpt: "Harrison started by feeding the AI simple instructions like \"make a fusion portrait of Mercy from Overwatch and Junkrat from Overwatch\" and in some cases took more direct control over artistic influences with tags like 4K,"
+    publishedDateTime: 2022-08-17T00:07:00Z
+    webUrl: "https://www.pcgamer.com/these-ai-generated-overwatch-fusions-are-beautiful-and-terrifying/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 37
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/KSohfWX3S5vZDtXXM6QJBe-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "How some shoppers are using artificial intelligence to halve the cost of their groceries"
     excerpt: "Kate Singleton said online recipe subscription service Menu Aid had changed the way she shops but she had no idea the system was powered by AI technology."
     publishedDateTime: 2022-08-14T22:57:00Z

@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Tata Elxsi brings new age solutions for driverless cars, connected vehicles and more: Tata Elxsi CMO Nitin Pai"
-excerpt: "Stressing on the success of Tata Elxsi products and initiatives that fuse domain, digital and design to deliver powerful use cases, he said TETHER Aut.."
-publishedDateTime: 2022-08-12T06:57:00Z
-originalUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/93516607"
-webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/93516607"
-ampWebUrl: "https://auto.economictimes.indiatimes.com/amp/news/auto-technology/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/93516607"
-cdnAmpWebUrl: "https://auto-economictimes-indiatimes-com.cdn.ampproject.org/c/s/auto.economictimes.indiatimes.com/amp/news/auto-technology/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/93516607"
+excerpt: "We invested early in Centers of Excellence (CoE) for digital technologies such as AI (artificial intelligence), robotics ... platforms such as AUTONOMAI for driverless cars, TETHER IoT for ..."
+publishedDateTime: 2022-08-12T14:58:00Z
+originalUrl: "https://www.newindianexpress.com/business/2022/aug/12/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-2486846.html"
+webUrl: "https://www.newindianexpress.com/business/2022/aug/12/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-2486846.html"
+ampWebUrl: "https://www.newindianexpress.com/business/2022/aug/12/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-2486846.amp"
+cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/aug/12/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-2486846.amp"
 type: article
 quality: 54
 heat: -1
 published: false
 
 provider:
-  name: India Times
-  domain: indiatimes.com
+  name: The New Indian Express
+  domain: newindianexpress.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://etimg.etb2bimg.com/thumb/msid-93516607,imgsize-50072,width-1200,height-628,overlay-etauto/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai.jpg"
-    width: 1200
-    height: 628
+  - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/8/12/w600X390/Nitin_pai__Twitter.JPG"
+    width: 600
+    height: 390
     isCached: true
 
 related:
@@ -59,23 +59,7 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Tata Elxsi brings new age solutions for driverless cars, connected vehicles and more: Elxsi CMO Nitin Pai"
-    excerpt: "Nitin Pai highlighted the success of Tata Elxsi products and initiatives. He cited the example of TETHER Auto, which Tata Motors has adopted and is powering connectivity and data-led services for nearly 500,"
-    publishedDateTime: 2022-08-12T06:27:00Z
-    webUrl: "https://economictimes.indiatimes.com/industry/auto/cars-uvs/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/articleshow/93515627.cms"
-    ampWebUrl: "https://m.economictimes.com/industry/auto/cars-uvs/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/amp_articleshow/93515627.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/auto/cars-uvs/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/amp_articleshow/93515627.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-48946,msid-93515899/tata-elxsi.jpg"
-        width: 600
-        height: 450
-        isCached: true
 
-secured: "bfAkV/SCvct4sZSIxO+bW/VjVxWqNtTN+SCwafNs2Fc/dSbv8Bio3DHEkbLiTbeALL8yalmGRS9TnNz8/bMR29IU6ktIqrrd8V1PP7BImlqnugDAqUmKGdu8o+rjKV1Usbr/yAAX20sNmpNqYESIaI4gBy/WqsqEsSxBkOur8LpWVKB7y2SdpBSmmZhDZE3Ee/qyu6fTUIvR+zTNCrxMPhRRKzA4ownzkYpHqEKeozbIPMIBCvmmyA4j6WfpYCbl7yn+bc8usDo5FofD9ZuK172hWig9E6EN/pX0XTTzCHf+fWo4J+9DogO8wrZUZNIvxuKS3VTMo2XqA/0CvrVkEr0LfNcDRI/M+U7YEdnhB9iyZjIfpAJGW1KPf6P7lKj8Uh9cUFkSsmc/YowXWf6ni3PjGUc6/8bG5G6r6+iD1rVe5r4V82EbQ8wKJL1tAv4gBzuU0gen3Zgr7oX6A2P4UjhQvx86zRaeq0acoS3BdNuI9Mwxjlalksaw+36AsLzfxW44dUY/11WK9zJ1kEd3yw==;hmG+BZ1EL6Q4rnmMI5ZZig=="
+secured: "W76nTKAtMb0s5nSyDZ/h4fm6nIk77DzuldzbzsbQg+FeJH3XcDgrFTjYaR/SvsQAIeLu12kwH1lRAVuoNTtJbXCVEJWf+WfkfTVJLwW8wOL4+ab4yR+AtkYly673OOSPJ1xQqzEo0JdBdlMUYDxvQixrrpSg4XUZbNtefV5k2xlfB901kk0Zi6/pmo/IA/KtEM+BfqX8uAazMsdNB6g0n6w+ePJ6Dw8BI6sjyV/0NTtYJmo0GZ3qKtPvgZ+OxfNHryxzvsH7nO0L0VqzCHPzEn8CqnZOiyE/ouPCATbUxyOU59ZbeRJmAtAVCO0DosSssyrLTg0EwaRFO+lB5FTgj4Uba4c7a+k9trz0AMnuGzg=;/LQwfyHckewdtTCWLyaxHw=="
 ---
 

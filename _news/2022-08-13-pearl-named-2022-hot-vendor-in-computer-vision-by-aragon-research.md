@@ -1,23 +1,23 @@
 ---
 category: news
 title: "Pearl Named 2022 \"Hot Vendor\" in Computer Vision by Aragon Research"
-excerpt: "Pearl, the global leader in dental AI solutions, announced today that it has been included on the 2022 list of \"Hot Vendors\" in Computer Vision i by Aragon Research, Inc. The firm’s report identifies vendors whose technology provides transformative capabilities that revolutionize the way businesses interact with customers."
-publishedDateTime: 2022-08-12T19:28:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-12-pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-12-pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
+excerpt: "Pearl, the global leader in dental AI solutions, announced today that it has been included on the 2022 list of \"Hot Vendors\" in Computer Visioni by Aragon Research, Inc. The firm’s report ..."
+publishedDateTime: 2022-08-12T23:12:00Z
+originalUrl: "https://www.morningstar.com/news/business-wire/20220812005359/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
+webUrl: "https://www.morningstar.com/news/business-wire/20220812005359/pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research"
 type: article
 quality: 19
 heat: 19
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Morningstar%2c Inc.
+  domain: morningstar.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "kBkW9Ssle047mwlORWZ4+wOzfQCDb9ZC9WFNAJ1qI24agtdwgoV8ig3iKBIOmXBxXXxJKGRejbkwX7qbgbzOlNsgwqk97iNEi+EkIS7ehH2Mq+WLmI1H4wfz0arEY3sgbLsJ9yE5ALKNOQ+1Azqqg1PIQXZAqJIknWfZGD40ZtEodzb2DOOMXLKWqcuTB9plxaMvaZ23H68jcgsiAlDhnrJfA8aJJ3lW7KNcqXo6qIC51Byp6/TCQHmmTmu2ZvorodTbEyPQUV40jyUsUGnLMf+qt2CbjPM6nqvnnUXC+Y1jxyEVNpUWMQOwhOtfouwJp90oaHvI14DVaSFv9NxoHozEH9266hOtB9RqVnicUiM=;ZplJJwdX2AiQOZ5A5w6Eeg=="
+secured: "sHFoubRsaS/l8UdVybm041VeRbvyxkI+GDol+GLj6lV7k0PD69LpxrDybvJqiWunDVgqVLdNOkY4GHL+lYFUKJFXCXMCMV21M0+sv2kVWELCOwLa+t38ttz1F61ha6HZ222g1HgUVc+y0hM4OW8/jZWeGIOSIcRnE54/tNzKCl3kFDGCj3/+NvrmcYte8UNvvom24x74hNM9QzASHvITPvX7ReF8NwvIghkVuZGRQ+dHsQHqHUj0gPNEYWWUFj3W+FZG8oo8tVWxAji6XUmFGoJ6B7xNhOA06+olb52ayTLwwiN0kx5xdV7me+8IjlYgJJgmjcrWD7lsvS3SEM/mEW6Mktwzds5IsY2zg3KhfL8=;cJdqTIjiCTNN2aSNcnD/3A=="
 ---
 

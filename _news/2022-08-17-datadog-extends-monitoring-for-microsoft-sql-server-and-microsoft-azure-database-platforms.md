@@ -1,22 +1,18 @@
 ---
 category: news
 title: "Datadog Extends Monitoring for Microsoft SQL Server and Microsoft Azure Database Platforms"
-excerpt: "The expanded support provides visibility into query-level metrics and detailed explain plans so all Microsoft customers can benefit from Database"
-publishedDateTime: 2022-08-16T20:10:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database-platforms-1031688288"
-webUrl: "https://markets.businessinsider.com/news/stocks/datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database-platforms-1031688288"
+excerpt: "(NASDAQ: DDOG), the monitoring and security platform for cloud applications, today announced expanded monitoring for Microsoft SQL Server and Microsoft Azure database platforms. The announcement builds on Datadog's Database Monitoring product,"
+publishedDateTime: 2022-08-16T22:25:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9657272.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9657272.htm"
 type: article
-quality: 74
-heat: 84
-published: true
+quality: 44
+heat: 44
+published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
@@ -44,6 +40,6 @@ related:
         height: 630
         isCached: true
 
-secured: "WDkKDCAXefCaQJyzY4QYJxWtjHxrr8HorEU4u8H9HyJFfGI0OhklVLSs38Am8vy+TIkIS17mxq5VGRcp2u/LaB3dEQltgGYsWZ6jBhBBPKvmFbNDfTo6zVYGXA8diCWKXjPFsx5BaA/uhonC2nvMFF36JYtVSoCGaVPM8wHx3rhfni/cSt3qDCewL3G/k4ZbVVnfRv5FVt0XpIamhe/XZ4bOiFg9QyjdNXiiyfAqL3a6suqoKVJwb8cnG6TzE/p+0Wxp2I7eCJuW+fFRNV6zBm7fhZnLFce7xTTgkedwnv7Nt0xLcJRuVIBEqNOr/RwUN7GVJx4oH28vrhTPFFH05eEh4ENHYp8wbi9wOg529CddfCWVXrxfA6C4cLc8DrVKOM0mlNY5YmMfvhaj7Av7iZitZ9CgfooQ16Z5wvWSXmYjxhFHQf0isU0PAU8Q7rQM0MIiEyRXbSgPYUQncHvYpCE+sr9AcQqCai5K6ulqslytqyDlc0jlayxBd0wfLHkTkoIgZ03OBlNldUTxizSB7g==;eFQWLKPNLi527Cy7vhGPAQ=="
+secured: "h1nWwMxE42/oE6v2+3l5xW1Hy4chUgI528eOUZKJT2HkYx28B/5ArfRqOhv+c5eex4ZiyGQURmQZ/e51RnzsXZG4dbeoSEDn/+kSJiV+YUj8ynoNKJsR3VS3ZQhXObzAXKMFEKCvSwaVSY42Dqr44PUIiOAqlt4i8xkGhvItBV2Grdnkxkl9WcRKMwz06Afjfm+MheTku/73DyVoILa6OZ+rZ6KJCRD8m5oNAORWoIaxCW8RPEJVG+d9/TMKsG0unpP+xxM2GopwjLY9+VwNwNI10m/Z4KXBcfT7nWQWXPbkvUgJfoxztSvcXbUnsP+lA4T/K301gxLvKOZDWdoMh5TnfqX/u58e9yAsnaWk+Vc=;TaEvW7PmGb0tVh/4j/Usfg=="
 ---
 

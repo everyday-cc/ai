@@ -26,17 +26,6 @@ images:
     height: 405
     isCached: true
 
-related:
-  - title: "Abu Dhabi Department of health adds AI and Machine learning functionality to health platform"
-    excerpt: "Malaffi’s risk management solution uses advanced artificial intelligence (AI) technologies and machine learning algorithms to build predictive risk models based on available UAE’s-level demographic and clinical data in Malaffi."
-    publishedDateTime: 2022-08-12T07:13:00Z
-    webUrl: "https://www.itp.net/emergent-tech/abu-dhabi-department-of-health-adds-ai-and-machine-learning-functionality-to-health-platform"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 23
-
 secured: "ikjTqKQgTAcmLew9/olsM6+/DREMN2zTMJPzsfT3W2nZVYOzTm3vKs0/hjhXQXTU7GUN4v0XDMWV3MzfgzEN29zMaqmQg/l+l7vihAexVPm/MXT/96QD9SAaq45PiBeB+c8adduX6lLGkh/KMHbXDoS55fyqv4SSwUEbnMrWz21eSCvZfbLok1JzNga/S2qNiBmc6ZKbMfyeH/qTwP/nDgTEJMdTCQEpjPqYQrrnGKqCOsjZhnOlR9hSHZ+JyeLr8ZpaYx0fa8BfJFZOUlvyAMjZ+VR0d+Cpz9tjFxMEytSfdRCKbD7ePtr2nVPX/ChYt2WmH7Zd51xUu75eWYqSC0B9ybBwF39uR/BevLudc30VwZftUQevp+j9evh3hvC20uoaSKUbfaGgfTCRqBY59FwRwiW9LPMOZbIXr7Ssk4/siH5BBIRxufbX6ri7uZxaqbiYRVwGTOtDtI7cnbglnPdStUmEjwZlzB9N0SQE6vVjsXW01FoZt+pGwafQB1lp/Ctagna2CGxkwzq5tohULA==;VqZi2CWcHBePRuxtGvSTow=="
 ---
 

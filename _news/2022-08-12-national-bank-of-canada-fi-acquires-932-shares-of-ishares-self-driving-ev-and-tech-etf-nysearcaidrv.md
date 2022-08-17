@@ -29,15 +29,6 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 22
-  - title: "Advisor Group Holdings Inc. Has $3.32 Million Holdings in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)"
-    excerpt: "Advisor Group Holdings Inc. lowered its position in shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) by 34.1% during the first quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission (SEC)."
-    publishedDateTime: 2022-08-12T08:36:00Z
-    webUrl: "https://www.defenseworld.net/2022/08/12/advisor-group-holdings-inc-has-3-32-million-holdings-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 19
   - title: "Financial Contrast: Okta (NASDAQ:OKTA) versus Zeta Global (NASDAQ:ZETA)"
     excerpt: "Okta (NASDAQ:OKTA – Get Rating) and Zeta Global (NASDAQ:ZETA – Get Rating) are both computer and technology companies, but which is the superior stock? We will compare the two companies based on the strength of their earnings,"
     publishedDateTime: 2022-08-16T05:32:00Z

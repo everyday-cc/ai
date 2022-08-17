@@ -7,8 +7,8 @@ originalUrl: "https://www.designnews.com/motion-control/role-motion-control-medi
 webUrl: "https://www.designnews.com/motion-control/role-motion-control-medical-robotics"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Design News
@@ -39,6 +39,15 @@ related:
         width: 770
         height: 400
         isCached: true
+  - title: "The Latest Innovation in Spine Robotics’"
+    excerpt: "It had been four years since we spoke with one of the early adopters of spine robotic assist systems—the director of education for the spine division and director of the spine fellowship at one of the leading medical centers in the world,"
+    publishedDateTime: 2022-08-15T13:50:00Z
+    webUrl: "https://ryortho.com/2022/08/the-latest-innovation-in-spine-robotics/"
+    type: article
+    provider:
+      name: Orthopedics This Week
+      domain: ryortho.com
+    quality: 34
 
 secured: "dj9aKoO8gUpVw/+LXNhLqHX57z4wkSN0EbImSKKCK8Vd5XogCg4GVu0bbeRogT0vN0e9aNngx5DQxyd7Rmi3SK9ZyIw8O0KENqa2T4bA4G+pWZLUMIp2WLBw5iO8d1jEU80aOo63zrl/l9EwijhIExnLdQSuuZB1+NK38OKFscyITt+W7UEJAeArdrA8HODWHNNR6yVTkhYkXllousBmKBcx2KCqiUC/GgW6JU5TCN42+efw/MjaLRBTqimxWXXjUgw241Zir+zQTurmAVjdnF3sg51OVTWgfLUOIf4X94BMVqVTA6xkcdOCsdvvNtFQj9napQQm6PsFT8gWP2OgX3NjzbnzE570fDUAHeLQBZBMLZWz6FyBlv45IIemr/0yJC/UCsHQ3ap+ruxTyOL9n+0srkMuV3u10GPgEou1RAYnzc/VEErIseySL3y1CJdg/Uyd/a8pUivOZmWvInvuJHPLJw8pSJr4KLlfNCBh02W/MLolXcfQW9tlSER4YlKEErq1kvY04R4Ht+R6XlQJtg==;LVYqSXpAOJhVeKctK6GKHg=="
 ---

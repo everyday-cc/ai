@@ -43,6 +43,22 @@ related:
         width: 620
         height: 366
         isCached: true
+  - title: "Tata Elxsi brings new age solutions for driverless cars, connected vehicles and more: Tata Elxsi CMO Nitin Pai"
+    excerpt: "We invested early in Centers of Excellence (CoE) for digital technologies such as AI (artificial intelligence), robotics ... platforms such as AUTONOMAI for driverless cars, TETHER IoT for ..."
+    publishedDateTime: 2022-08-12T14:58:00Z
+    webUrl: "https://www.newindianexpress.com/business/2022/aug/12/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-2486846.html"
+    ampWebUrl: "https://www.newindianexpress.com/business/2022/aug/12/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-2486846.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/aug/12/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-2486846.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 54
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/8/12/w600X390/Nitin_pai__Twitter.JPG"
+        width: 600
+        height: 390
+        isCached: true
 
 secured: "HFZ4GTAcpNEQNM91ZpfLIx8yCUoMkaNO5jieTt3OrZGLXawckZi54ovlyyODIQsgGA8bzy5mxsfA7FDLEfsf1GWmEkPFw2MPivQkN5LHkqi9qvggFPM4j7Qr3ZzUUl21r83lPtyOI2gS2zmyaw1zC+xuzkwkpfzNx9WJUUpXDTvRlUsMZw1wTHpTv4YmY5MPr8qFHqKWjaEQ/HKRgIme0k7lrQtc3pUdUSG0tByzxWmnY/NSzfrjG1DCMCfs1JVa6pY8TOM8/f0GusRElyJ6QWlssPF3kjRv5HzWVM/BB0taL/ZxHJvZNtOSucEcKoCLs2VZipbcTfAg7LnkYrr1SOMqlrwhaO6XKNhAF1TMLN+/vIx4XGOUq2+2OUOy2hfCGvLR+z8m1ES5TKrQUh40/GFoqH26OU1W05Q0KWOBJjnhyb7BcCZg6xevGce8MyVdlFWnYSlfIc1xzLF1EmQcvr4KrBoay26SVi47VSrd8dehJ5h+PM3puV2HEjHusLxjmSWhz2BZ6bXIPK6MwSwRfw==;G/DvoYzT6jGrmbxwGuM3VQ=="
 ---

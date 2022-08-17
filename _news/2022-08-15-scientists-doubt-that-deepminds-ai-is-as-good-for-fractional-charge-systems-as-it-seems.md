@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Scientists doubt that DeepMind's AI is as good for fractional-charge systems as it seems"
-excerpt: "In their paper published in Science in December 2021, a DeepMind team showed how neural networks can be used to describe electron interactions in chemical systems more accurately than existing methods."
-publishedDateTime: 2022-08-15T13:18:00Z
-originalUrl: "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.html"
-webUrl: "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.html"
+excerpt: "DeepMind constructed a neural network based density functional designated as DM21, trained on fractional-electron systems, such as a hydrogen atom with half an electron."
+publishedDateTime: 2022-08-15T15:12:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/961844"
+webUrl: "https://www.eurekalert.org/news-releases/961844"
 type: article
-quality: 25
+quality: 45
 heat: -1
 published: false
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Google AI
   - AI
+
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/839c7f64-ce32-4a74-89a8-cd6b09dee5d2/Rendition/thumbnail/Content/Public"
+    width: 300
+    height: 282
+    isCached: true
 
 related:
   - title: "DeepMind feuds with Russian scientists over quantum AI research"
@@ -33,16 +39,7 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "DeepMind’s AI Technology Can Pace up Drug Creation"
-    excerpt: "Before AlphaFold and DeepMind, it used to be such a difficult task to obtain a single image of protein. DeepMind’s AlphaFold has discovered 200 million proteins. Undeniably they have paced up the creation of new drugs."
-    publishedDateTime: 2022-08-12T07:30:00Z
-    webUrl: "https://www.techthirsty.com/deepminds-ai-technology-can-pace-up-drug-creation/"
-    type: article
-    provider:
-      name: Tech Thirsty
-      domain: techthirsty.com
-    quality: 34
 
-secured: "pak1g2hIwwBeqesDYZ9LLDralOOygvy6RXaIXToVAECgHmFaIxfY9Nkutc6omETxQaataChYKW6hdzfs+2Rwqvr62Phvb8BlsKBkyxCsuj02TSakX8K0EhQb8yEWNFWKLvNOl1EhAlyPd8jPuMK6Kqo0cPH8cAGUAl7QLjtrHs1vz9+w8pavFvDisJHGz+JekwQ5yT2+uBAMsh0sMq0kzV2FG3nhukN3ToQWh67HDaUd1kF61Xs61F2D2YvOh90LshxeUIaWQpPOhO9uZaQUGKcUYYgrLCyZCYPY3FoBRaS/vS+Q7m4AEQkXLOPYkzo2B1ju0AqX7V5DX623+dh1HT+tZkZV2vUuQbbRY+pT8F4lqxCLzH29fx9hTW69uh0ojnJhsf37hC7X6QoSr2BcJBJVRhsSRvRGAqW+nwIqi7/QAARcCjgPdG2BqskntkoMSVCmk1qF6GwPBGB9orzzhnZV0Q3i0m9aTBmqnITXo2JJkruPvgbJPkqYMZRpOQ0jQg7lDcetn/2dAmsa7OkLgA==;AbuRX5Ec/i+a8jBJviqoVQ=="
+secured: "EllbsVVi8TTrclCnhE/Os/TGV9IjAuVX3VnfbApQZ5bjM/rKw9Yoe1/s3hCn9ZybknxrdX1SuGKmYLb3dRQEwdB+vYw3sN0WtnD/Exy/0chSTqt6iEPGf4j4e+CV+K/s1hFIuqZ/7DjwuZUl41xVB4GY/hagVoUUZwYFGUK5OgCYb6pHXTgg8KOvZ5CKeVEwN4MZx3QwQQEEbmRqjlnYieDqknXiOuZZtCdNYKUdg8WHO8SKgba5NDXa97TtxNnbEPS1PH1iZC9t5eBwLZxHg1kmDXRxu5j/mwH/OwoREq5AxfiVn7VxySMBK4UkSj6visaYLHEqTP22RHWftzCHM4t9mWBxMGTN0dzndRXFcSw=;y47FX6BfXVnJNjqMPXSFeA=="
 ---
 
