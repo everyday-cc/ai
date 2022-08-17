@@ -1,34 +1,20 @@
 ---
 category: news
-title: "SyncWords Complements Its Machine Translations With Human and AI Capabilities"
-excerpt: "SyncWords, the leading live captioning and translation services provider is thrilled to announce SyncWords Offline, which includes human tr"
-publishedDateTime: 2022-08-16T12:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9656612.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9656612.htm"
+title: "Syncwords Complements Its Machine Translations With Human And AI Capabilities'"
+excerpt: "SyncWords has been the leading captioning and translation services provider in the media industry for over 20 years.. While SyncWords Live can be used as a primary tool to help deaf and hard-of-hearing audiences,"
+publishedDateTime: 2022-08-16T14:40:00Z
+originalUrl: "https://menafn.com/1104704287/Syncwords-Complements-Its-Machine-Translations-With-Human-And-AI-Capabilities"
+webUrl: "https://menafn.com/1104704287/Syncwords-Complements-Its-Machine-Translations-With-Human-And-AI-Capabilities"
 type: article
-quality: 31
-heat: -1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "CTM Enhances Lightning with AI, Machine Learning"
-    excerpt: "Corporate Travel Management has added artificial intelligence and machine learning capabilities into its Lightning online booking tool in North America, the travel management company announced."
-    publishedDateTime: 2022-08-14T04:00:00Z
-    webUrl: "https://www.businesstravelnews.com/Technology/CTM-Enhances-Lightning-with-AI-Machine-Learning"
-    type: article
-    provider:
-      name: Business Travel News
-      domain: businesstravelnews.com
-    quality: 34
-
-secured: "xDyHMCKLxB1hiczev6BdEHGonABX/4y+dZ56tyZyHG4B59yM0jKrpQEeE61+Sh667x1CBy8gkaACpFE71gNQGIhSbVes+G3stRLbaerbmcXHQrkr6xb09zfSNjGDnm1dPsc/u1WiLWjVdW1kVLrH5E0zMkCdo2lFH4ROHoazR1MyHLqXMHmwSfJ37Rb12ZGvv1r1yJST5TlpDiLpYxg1Yzpy7cg+VdxCQ27l5RdvI8nYjz9lXucZr4F2fKhrKOu8TFSUHzit+o//9LIiUESclyaoMiu51pOZTz3NDNNQSlFQUJOLPGjYj7bw6LZra7dp1oqXyH14uNUYHSYvUEvoy+oUZUOzD6AAQVssy9Gvk54=;MG/WlU+IfnOovVB+XcmqVA=="
+secured: "ntF6gVOG278ZnjBKsm576tsfRYfee9BaMAfg6GjkZhTKwb2xPFuxOwQtcIrWgzWVVqaor0NKMiucySDVmw7AFJ6I1LsQu+T+neorISXb7hzDPAVlQWa3P+1EgaqoiS3R24xNeyqjF0gCJpPI8pAihLVEHMxb7XAeYoqtHCUHJmdcSdHWaVWRilUZyNV1Z2RfcP82ZVdSqd58elub6blKxhdw+lUnH58xVSZOrPWR30Pzec6KTuIUwgMoAiQcd6sa6qoDYTaSghPijL0VU6QFpdyksYfUMvaTQ64QDiF8C/TjdJHIC9Hzc5pdrFxiZ5QXpOfOyC91g28ES1AJXUamacqGdLe6xz2AYmeO+VzKoaKmdQAQ+qU3q5b8H2go6lWUt5SUKiNuaa7r786T8Oeqz2uPjxozTmbP2TIDPuVNE6s5T8+uWagMy/XQTeEdn5hQYYqwDFZxCiN/YJKID+dL3KKHSYVKlsv5HoMAxyu204qAdf9TNAArEP2SaGA96C4IJZIsC9frUYjUI0L2BSjXJQ==;/p/VBxG1G5u8JBJ+YgoPXw=="
 ---
 
