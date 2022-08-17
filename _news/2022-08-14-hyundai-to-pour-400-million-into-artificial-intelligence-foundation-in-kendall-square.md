@@ -75,15 +75,20 @@ related:
       name: autoconnectedcar.com
       domain: autoconnectedcar.com
     quality: 49
-  - title: "Boston Dynamics, Hyundai to invest $400M in new AI Institute in Kendall Square"
-    excerpt: "Robot-dog maker Boston Dynamics and Hyundai plan to invest over $400 million in a Kendall Square institute focusing on robotics, A.I. and intelligent machines research."
-    publishedDateTime: 2022-08-12T18:15:00Z
-    webUrl: "https://www.bizjournals.com/boston/news/2022/08/12/boston-dynamics-ai-institute-kendall-hyundai.html"
+  - title: "Hyundai invests in AI, software research centres"
+    excerpt: "Mr Raibert said in a statement the new institute will “invest resources across the technical areas of cognitive AI, athletic AI and organic hardware design, with each discipline contributing to progress in advanced machine capabilities”."
+    publishedDateTime: 2022-08-15T16:54:00Z
+    webUrl: "https://www.just-auto.com/news/hyundai-invests-in-ai-software-research-centres/"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 15
+      name: Just Auto
+      domain: just-auto.com
+    quality: 39
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/06/shutterstock_1803136597-1.jpg"
+        width: 500
+        height: 223
+        isCached: true
 
 secured: "MfEYOYNMtHaqfyRv9mCDYoW4VfhIN7msel/l1tGpHwgA0popC5TRDIo4upGxLFNmbCnwz3NljpFeMm8slLryzR930yq4njwSUayzS/mNlilYlSANYfuYiDHAmiLPihn/v4rHwTOOTHxp/eKBOYcS42jPjefgz1CuG/BCFlAoi8mWZHzfwLWwdx8cT5hZss7PHoSCsraSE7TgnHmzvBZ9NseuURBkqrhGsHYmC1i/Jjw4+A9V9LnFLae87tmYuQYHtBxyXODtQjxP7ZfDGW1U0CTWCiQ2ruhQGSEAlFuTs3YVZuDZsPCA8KLK/2/yzonDsmsLGSnG4pbuQA+5L3zYwVgA3gKVLVYtzBosLvKjQB4=;YVXtlc9ThTC3CpuJW73ruA=="
 ---

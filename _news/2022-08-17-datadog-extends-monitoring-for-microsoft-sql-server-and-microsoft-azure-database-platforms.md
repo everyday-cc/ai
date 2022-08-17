@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/datadog-extends-mo
 webUrl: "https://markets.businessinsider.com/news/stocks/datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database-platforms-1031688288"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Datadog Database Monitoring extends to SQL Server and Azure database platforms"
+    excerpt: "Datadog has announced its Database Monitoring service now supports Microsoft SQL Server and Microsoft Azure database platforms. The expanded support enables engineers and database administrators to swiftly identify and resolve database performance issues including slow queries,"
+    publishedDateTime: 2022-08-17T09:34:00Z
+    webUrl: "https://www.itpro.co.uk/data-insights/databases/368822/datadog-database-monitoring-extends-to-sql-server-and-azure-database"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 65
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816740/itpro/2019/01/sql_shutterstock_1055747219.jpg"
+        width: 1260
+        height: 710
+        isCached: true
   - title: "Reltio Announces the Reltio Connected Data Platform Integrates with Microsoft Azure Marketplace"
     excerpt: "Reltio, a cloud-native, SaaS Master Data Management (MDM) enterprise, is announcing the launch of the Reltio Connected Data Platform in the Microsoft Azure Marketplace, integrating Reltio streamlined deployment and management properties with the advantages of the Azure cloud platform."
     publishedDateTime: 2022-08-16T14:27:00Z

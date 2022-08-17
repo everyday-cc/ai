@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/business/interview-why-the-future-o
 webUrl: "https://www.digitaljournal.com/business/interview-why-the-future-of-advertising-is-with-ai/article"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,17 @@ images:
     width: 1024
     height: 580
     isCached: true
+
+related:
+  - title: "Chip CMO interview: 'AI is the future of marketing'"
+    excerpt: "In our latest Marketing Maestro interview, we talk to Chip CMO Alex Latham about how to master social media and content, and the future of marketing tech."
+    publishedDateTime: 2022-08-16T09:04:00Z
+    webUrl: "https://pressgazette.co.uk/chip-cmo-interview-ai-is-the-future-of-marketing/"
+    type: article
+    provider:
+      name: Press Gazette
+      domain: pressgazette.co.uk
+    quality: 51
 
 secured: "/aHiWTIlVWg94sch8S7SAbLU6tUQ8W2JYrWry8kJIbx+NXLS8h7tF5dn9FBy2yGB2mejBC8guVDEZ9xPURvWoPWT9lhVfmTFna5DoKg5tkBpUiylv2hVeMj6AD1R2Zax/rBDgG37QK8CWoGTqYpu3cBF++ZMT1LUdiZrUsGmculu+wdIrV1Jd9hA6UFNDEk4xYFvwljO+Y59gzDWIZh2xn93yLx1Nswr1Ck6f4BkMPrV0mYXIJVMs1y5yeE0D+CVzNCeGC59w5NEl4LJRE7JrKWHW+WO1c/udkmP2MQzDiYpegcw7X0XZvisDFdKN1BQ0KLId3JW367YIEzpeayk0mn4Hh7Tb3HEUYKsKrvtdgM=;NTKR/86twhwIAkSubwCsdA=="
 ---

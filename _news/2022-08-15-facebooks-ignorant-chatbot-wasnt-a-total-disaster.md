@@ -64,15 +64,6 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 17
-  - title: "Meta's AI chatbot is an Elon Musk fanboy and won't stop talking about K-pop"
-    excerpt: "Meta's AI chatbot BlenderBot insisted to a Wall Street Journal reporter that Trump will serve a second term and \"always will be\" president.BlenderBot told Bloomberg that Meta CEO Mark Zuckerberg was \"creepy and manipulative\" and the BBC that \"he did a terrible job at testifying before congress."
-    publishedDateTime: 2022-08-12T18:42:00Z
-    webUrl: "https://www.aol.com/metas-ai-chatbot-elon-musk-184234856.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 15
 
 secured: "+cjFQOLtOg2lLOffw+axJ0ECh6O0uaTi7XboFAV7Lika4+ej5wVrNGyjj+Vw9SdwNWnB1XC+ScipgIZbPaNohbVi34z+22/EA/htY70Kmmmpu4P9/km3BJs09cBI9gwx2AImB50oZ8BH/02SDAwQRivUwOXLRhjGmMJAY/VK8KiQ1mapX42ecqWezbDNU9o0tskkv1rDEZWef+emLuRnGUSm9NIwLF1B++M6IKMARjmMLMR7bkWqoX8r4r5nm6dxlVvKCjmDjaAEHU2ax0OyoN1ue8O4kZ7Po3yHBDtqKbVgzbFp+BqC4312Er5l3ev4YLJgLzvMyY68245XqAX2tlfi8+hI0U2MsCQ2cV6awqM=;5fEAc0KvSlKxnv6WUpOrMw=="
 ---

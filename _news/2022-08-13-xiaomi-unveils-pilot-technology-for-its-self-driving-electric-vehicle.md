@@ -43,6 +43,20 @@ related:
         width: 1652
         height: 920
         isCached: true
+  - title: "Xiaomi Unveils CyberOne Robot, a rival to Tesla’s Upcoming Optimus Bot"
+    excerpt: "Xiaomi, the tech startup mostly known in the West for ripping off Apple's designs, has revealed a prototype bipedal robot, the CyberOne."
+    publishedDateTime: 2022-08-17T10:00:00Z
+    webUrl: "https://www.techjuice.pk/xiaomi-unveils-cyberone-robot-a-rival-to-teslas-upcoming-optimus-bot/"
+    type: article
+    provider:
+      name: techjuice.pk
+      domain: techjuice.pk
+    quality: 56
+    images:
+      - url: "https://cdn.techjuice.pk/wp-content/uploads/2022/08/xiaomi-cyberone-robot-1280x720-1.png"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Duz7ixjG3/oXtt8Xu5vT4sr6j8vbOODw7tdE6FQabaRDGZ+5mlJv/nBOZmEP5aums2CyWoIcbprS5ObA46JSH753/n1+rYqeAoYzjCpDeWIv7Tvk2ju14C6L88zVojVTNqxVh8phP4HiD1Tiu5nWIFX8/VyjqaLyGxxAlEqLGD+XNM/ucdWLlGG7e/ghLmdvzC8YmgrBeUfLvGttO9Le58hiAeZIkDOTW0ioFpVSZGvmIBQp0T3OB+mCVxR9xTsdFaqIZOpeP6cn2hYtIW9cASz4OyFiz+CATTMdOXzx3mTR5bp36vbylcmNfpcwb/2EW8u9QIXBMZAnjtc0QNqjMynk57Ey0w6woH4jrTpHfiJbtTe0MrsWZExpaaKwhgMyeR6l5hseWxwtH6fslipBMnaC3PLNUbCnyMefSrN6L3Onk+B8z8DyDnxl4S1Gee6MEb4+hSxc+2mCkd5ANJwRv5Ct4roBtFTQk1H2HvmYG/AajrF7dqp79Rq+jWPq/Pzv2aYZ8CMsuoBLgI9+YVQ1lg==;q1eyCLyoI185fQ1OYc8Hcw=="
 ---

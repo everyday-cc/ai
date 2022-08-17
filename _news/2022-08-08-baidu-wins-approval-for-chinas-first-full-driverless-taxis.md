@@ -1,26 +1,26 @@
 ---
 category: news
-title: "Baidu wins approval for China’s first full driverless taxis"
-excerpt: "In the US, Cruise LLC in June won a license to charge for fully driverless rides in selected ... is transitioning to artificial intelligence and self-driving cars after its core advertising ..."
-publishedDateTime: 2022-08-08T04:50:00Z
-originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/08/baidu-wins-approval-for-chinas-first-full-driverless-taxis"
-webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/08/baidu-wins-approval-for-chinas-first-full-driverless-taxis"
+title: "Baidu wins approval for China's first full driverless taxis"
+excerpt: "HONG KONG (BLOOMBERG) - Baidu has won approval to deploy the first fully autonomous self-driving taxis on China's roads, giving it an edge over rivals like Pony.ai and XPeng. The tech giant has ..."
+publishedDateTime: 2022-08-08T16:03:00Z
+originalUrl: "https://www.straitstimes.com/business/companies-markets/baidu-wins-approval-for-chinas-first-full-driverless-taxis"
+webUrl: "https://www.straitstimes.com/business/companies-markets/baidu-wins-approval-for-chinas-first-full-driverless-taxis"
 type: article
 
 provider:
-  name: The Star
-  domain: thestar.com.my
+  name: The Straits Times
+  domain: straitstimes.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://apicms.thestar.com.my/uploads/images/2022/08/08/1689064.jpg"
-    width: 1240
-    height: 827
+  - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/08/08/ac_baidutaxi_080822.jpg?VersionId=snfpdvhOXqKDlnOrur612c01gtqJ56kW"
+    width: 860
+    height: 573
     isCached: true
 
-secured: "sfmZCW5TSBQiNurvxxmBiuksw43B/l+jkq8AJmLf0lG6N1E2K8bAVlZ1NgNt7MhmASC4geTeoi4aDTp9ce4Zv0EWwlhAxlknTTzu+w/rsm4WPNMzudREReUBaf+JkuCKQ4YjksbLLAXdiwN09exijnJwdfJZZ64vXDPNiA/yeTkrkjc7NeW3JnaK+QaNepMoBXt2y7V1YC9/mHdCYgL4ThQVA59m8J8C+Vb6QSaSyMtenPJ7Q1ssLP635lqD/6ttMwQQSlN1HnW+cny6IJZNEY5TxdkQRz/nLAlu8AmCOmcLTR7ghKP5QMb8QbzwnT9VSqP0lu9IOC0fcyEoR5Buh8D4apsDltNWX0GaLNAPZ+0=;Nu8uHZEQGmo5Ph2n9U5+qw=="
+secured: "udWJY+Ojf1NdXFnECcsJYv3Zy6ZApEHhVINFs3yKaEjt/mVIb18wNZX6yXUrnKN2MvFR/7cFlvQyqMN8sQdo1CDV/W0fc3nA6HbdKs7o57gEpeEirMQ161BmoBLPXPyz7GojNIY2ty+SSobNWIlpXeBUwx+V/yEM/L+3iclXb6vx1zKto5aZVTD9TsdwHeQiddpxHYXKDPXmuwqTPzF2HkjTmSSfuzXCMC08u3LZzX20GMoDnwti04xIpMq50FctpYVRF1V1JyoabwcNp/EJs8HWbZPj8b86LlR34qWmoj2wzhwCJMwfzvF4rEZv3jdXcgp8zADvo6IWXSZEaesXfUGgNaC4/Y5/1omX1fkJ2lg=;HVpbHVIVMnYGXDJMJLHgsA=="
 ---
 

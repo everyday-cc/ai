@@ -56,6 +56,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 22
+  - title: "The path to successful conversational AI capabilities"
+    excerpt: "From cloud chaos to clarity.” Conversational AI technologies are entering an era of hyper-personalized, multimodal assistants that are empathetic, inclusive, and immersive. Enterprises should take a gradual approach to conversational AI,"
+    publishedDateTime: 2022-08-15T13:24:00Z
+    webUrl: "https://www.technologyreview.com/2022/08/15/1057746/the-path-to-successful-conversational-ai-capabilities/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
 
 secured: "i7pUEJ3Ved61Kxnc+/agV1iJrIulJqshXKZE4nSOtFnpGo3mIHVvj37nEgnGRX/YJ+aCT5zf3iuS8Ovjqmob/Xo4Z/oRK8zKzkAChaESXlV2Ehq31m9tSMlcPSLTKwPdS7WMHJYbE47UxWW/gQeHT4WuU+3TCO/fbHJ/8fewcZuI9Ka9AgnXF6KmkDxW7UyYqL+XcRI30PxQ3Kknu/yA9mHIg53BQ30iaO3TSXEhE0LzJrWtb0ShwE1vKGmF0IZl2f6d8Tyg61o4Mm27fCCMBcz2r7u5MduytBnAY+14/M4Jrrc4Verh1nyalPdJQ9EPXFmaozTVRSpjT+iVCz6yZn9Q3XLjHoqhAn5O6u/ZNZU=;g5uySAcqzud5LRoKW5nmeA=="
 ---

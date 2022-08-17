@@ -24,17 +24,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "Brainstorming supercloud with tech leaders VMware, Snowflake, Databricks and more"
-    excerpt: "We asked several technologists, including experts from VMware Inc., Snowflake Inc., Databricks Inc., HashiCorp, Confluent Inc., Intuit Inc., Cohesity Inc. and others to help test the supercloud definition,"
-    publishedDateTime: 2022-08-12T17:47:00Z
-    webUrl: "https://siliconangle.com/2022/08/12/brainstorming-supercloud-tech-leaders-vmware-snowflake-databricks/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 14
-
 secured: "HycLPavgKyQtT571XQovmEvOlchXNeA9DlyIffA2F1mRSikeOFI4hxAPjdO92CbmmJASd7jPn7Vd8UYOwZaXo4ZXAl1bMTUyRpQdl7PcderK3/FGRzZ2+Z0indn38pDyfzmoMzZslyXXnEWHMQ8xO3mmBJKHsK1kOM5HWUHkTceRfoTmCpRqP2QZNkKtLLSKVd335G1FzChNVSg0ntd762ATNtJc983rmaMcHZx1QrBya8qArt/0KfM1ZABTt4YR7o93kpQbCyCUJqG4hfDnglHceqaoeVosgFgu+vdG2dWMn9gOgqxgbedwaprAszCrTuhTJ9UlFERD1xz0A6uhrahYegCaxHBErfwZh/KEBIBgum1fweFmqdZlcnCwTo0WyJJoiLwkhzBO/H2E+3yHFjW8PQUJr3wNWreWz1jgSYevb5cS70HLBeUzECi5djZTburiPdzi84UbHq+PbcjuXqrDBVGmqGzOU1zqtBT2VkvKak9RtcgjSrz50kykByvzyKWSkBZMRGD5/qCanfG0GA==;CVKb8B8g66w9hLezAItupQ=="
 ---
 

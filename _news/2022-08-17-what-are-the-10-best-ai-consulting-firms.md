@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/amp/"
 type: article
 quality: 89
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -70,6 +70,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "10 AI healthcare startups with the most funding"
+    excerpt: "Boston-based company DataRobot uses AI to help businesses cut costs. The company raised $700 million over all investment rounds. Delphia — A Toronto-based startup. Delphia uses AI to help analyze datasets."
+    publishedDateTime: 2022-08-15T16:14:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/10-ai-healthcare-startups-with-the-most-funding.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
   - title: "How some shoppers are using artificial intelligence to halve the cost of their groceries"
     excerpt: "Kate Singleton said online recipe subscription service Menu Aid had changed the way she shops but she had no idea the system was powered by AI technology."
     publishedDateTime: 2022-08-14T22:57:00Z

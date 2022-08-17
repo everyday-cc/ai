@@ -1,40 +1,34 @@
 ---
 category: news
-title: "Syncwords Complements Its Machine Translations With Human And AI Capabilities'"
-excerpt: "SyncWords has been the leading captioning and translation services provider in the media industry for over 20 years.. While SyncWords Live can be used as a primary tool to help deaf and hard-of-hearing audiences,"
-publishedDateTime: 2022-08-16T14:40:00Z
-originalUrl: "https://menafn.com/1104704287/Syncwords-Complements-Its-Machine-Translations-With-Human-And-AI-Capabilities"
-webUrl: "https://menafn.com/1104704287/Syncwords-Complements-Its-Machine-Translations-With-Human-And-AI-Capabilities"
+title: "SyncWords Complements Its Machine Translations With Human and AI Capabilities"
+excerpt: "SyncWords, the leading live captioning and translation services provider is thrilled to announce SyncWords Offline, which includes human tr"
+publishedDateTime: 2022-08-16T12:16:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9656612.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9656612.htm"
 type: article
-quality: 50
-heat: 60
+quality: 31
+heat: -1
 published: false
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://menafn.com/updates/pr/2022-08/16/PN_dd9c33f1-e_Image_In_Body.jpg"
-    width: 400
-    height: 225
-    isCached: true
-
 related:
-  - title: "The path to successful conversational AI capabilities"
-    excerpt: "From cloud chaos to clarity.” Conversational AI technologies are entering an era of hyper-personalized, multimodal assistants that are empathetic, inclusive, and immersive. Enterprises should take a gradual approach to conversational AI,"
-    publishedDateTime: 2022-08-15T13:24:00Z
-    webUrl: "https://www.technologyreview.com/2022/08/15/1057746/the-path-to-successful-conversational-ai-capabilities/"
+  - title: "CTM Enhances Lightning with AI, Machine Learning"
+    excerpt: "Corporate Travel Management has added artificial intelligence and machine learning capabilities into its Lightning online booking tool in North America, the travel management company announced."
+    publishedDateTime: 2022-08-14T04:00:00Z
+    webUrl: "https://www.businesstravelnews.com/Technology/CTM-Enhances-Lightning-with-AI-Machine-Learning"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
+      name: Business Travel News
+      domain: businesstravelnews.com
+    quality: 34
 
-secured: "jI7vKCn0UIa83cgZK0iLrQT+eX02LyBpvLnwbnK0Ljl0DmzEag782K2QGRSb5jou+2T/GnmsWr3y7l1kvHKpdWAZVJXS4eRBf9u3NLpXfs9gTpUs/WYu17IuWnERcKNRwj/IFtfZH+4brh9LQ77Ruk0wUtAiutTnun52e5IcgxVBbjWbXfGZlcnegPg+NdjO3bpa6b4+gpEIqiBNZznkB2vDM8+E2GS3xqYo90fviTrF/e444/crZe+C0YrRpU5p1L7iCLLNtZ8KT00c3FRFmJ88mGdrNBSXGEzJ/pkA5EQborkRdsTPaDuWJai/fT8uk2ggb2HOMjzt7LbqqOvKiWFauRTtPxHUzf96Z6GiZPZvTPpjrqpfwmgRb6NEQo6gkdaVSoILiD0acObCjHSrvX48uduevCV7GKW7v2izlmqK48DskdDvsJXi8O2SCRsRYyzYnflIHZdvlGZQaOVBN/LVJY0ElRwNJiLk+EAeEEmGKBwbHWyP8XqnUsFMG/fE48dLsA/zIvVAem+zS6nQ/g==;ytr4/3VSReM81gUYhAaIFw=="
+secured: "xDyHMCKLxB1hiczev6BdEHGonABX/4y+dZ56tyZyHG4B59yM0jKrpQEeE61+Sh667x1CBy8gkaACpFE71gNQGIhSbVes+G3stRLbaerbmcXHQrkr6xb09zfSNjGDnm1dPsc/u1WiLWjVdW1kVLrH5E0zMkCdo2lFH4ROHoazR1MyHLqXMHmwSfJ37Rb12ZGvv1r1yJST5TlpDiLpYxg1Yzpy7cg+VdxCQ27l5RdvI8nYjz9lXucZr4F2fKhrKOu8TFSUHzit+o//9LIiUESclyaoMiu51pOZTz3NDNNQSlFQUJOLPGjYj7bw6LZra7dp1oqXyH14uNUYHSYvUEvoy+oUZUOzD6AAQVssy9Gvk54=;MG/WlU+IfnOovVB+XcmqVA=="
 ---
 

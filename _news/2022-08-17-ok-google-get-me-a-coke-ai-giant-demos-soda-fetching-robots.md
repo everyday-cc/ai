@@ -1,31 +1,47 @@
 ---
 category: news
 title: "OK Google, get me a Coke: AI giant demos soda-fetching robots"
-excerpt: "Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
-publishedDateTime: 2022-08-17T04:04:00Z
-originalUrl: "https://indianexpress.com/article/technology/tech-news-technology/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots-8094603/"
-webUrl: "https://indianexpress.com/article/technology/tech-news-technology/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots-8094603/"
-ampWebUrl: "https://indianexpress.com/article/technology/tech-news-technology/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots-8094603/lite/"
-cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/tech-news-technology/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots-8094603/lite/"
+excerpt: "Google is combining the features of physical robots with the knowledge and conversation skills of virtual chatbots"
+publishedDateTime: 2022-08-17T09:44:00Z
+originalUrl: "https://tribune.com.pk/story/2371632/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots"
+webUrl: "https://tribune.com.pk/story/2371632/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots"
+ampWebUrl: "https://tribune.com.pk/story/2371632/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots?amp=1"
+cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2371632/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots?amp=1"
 type: article
 quality: 57
 heat: -1
 published: false
 
 provider:
-  name: The Indian Express
-  domain: indianexpress.com
+  name: The Express Tribune
+  domain: tribune.com.pk
 
 topics:
   - AI
 
 images:
-  - url: "https://images.indianexpress.com/2022/08/Ok_Google_robot_Reuters.jpg"
-    width: 1200
-    height: 667
+  - url: " https://i.tribune.com.pk/media/images/1542598-download-1509082772/1542598-download-1509082772.jpg  "
+    width: 640
+    height: 402
     isCached: true
 
 related:
+  - title: "Ok Google, Get Me A Soda! Take A Look At The AI Giant Soda-Fetching Robots"
+    excerpt: "Speaking orders are naturally understood by robots, who consider their options in light of their capabilities and make little plans to carry out the request."
+    publishedDateTime: 2022-08-17T10:39:00Z
+    webUrl: "https://in.mashable.com/tech/36870/ok-google-get-me-a-soda-take-a-look-at-the-ai-giant-soda-fetching-robots"
+    ampWebUrl: "https://in.mashable.com/tech/36870/ok-google-get-me-a-soda-take-a-look-at-the-ai-giant-soda-fetching-robots?amp=1"
+    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/36870/ok-google-get-me-a-soda-take-a-look-at-the-ai-giant-soda-fetching-robots?amp=1"
+    type: article
+    provider:
+      name: Mashable
+      domain: mashable.com
+    quality: 87
+    images:
+      - url: "https://sm.mashable.com/t/mashable_in/photo/default/cb8857d3-f1ac-4a86-a6e7-c49f1fb29ef2_drtz.620.jpg"
+        width: 619
+        height: 374
+        isCached: true
   - title: "OK Google, get me a Coke: AI giant demos soda-fetching robots"
     excerpt: "Alphabet Inc's Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
     publishedDateTime: 2022-08-16T13:10:00Z
@@ -57,6 +73,6 @@ related:
         height: 1015
         isCached: true
 
-secured: "heQEj9Y3XBCQdowth04G8HSWVwFCQ7HkI/kn4myWpJExd2ZHL+Q4Yzip/q3Qj+w2aj1cpwX6dUk5woVTu/5Wq7F4QZuy2TZAF002HFE0kE8U+U9jjn58vMUMNvPGEKuEt6sTq0PW7PU1JhDnyKs+udFWZtfvIHxpn71FuKRxoqGXNw7lBjkicFpfCCsGMxfnWHzp+GN9elUqqxykVEbyGhH2zgk6buQeeBAr/822wPM6t0OvkHxF88tNzxAnmbvgZvLEUj7fPLZknrn6slFMEakcPJsxhpYhM2VlUtK++uI2TmB4w6bLa+AYdeYvwqySuHVzvjN1dt/RiHnJ3V9PFlh/dJ7Szu73gDWwnozdXIY=;53o0wFqM1iSoNstDx2F5zg=="
+secured: "ELpurJQ9mXa63nf7rHI9WKQSQLIMNRqenGX/Ql50J3gCjMmtKvjN0Nv8etc1LZvDEKtMdjKd0UTLSO7OsyAvTAzG4B9PetyNViI77GE9WUhEhiIpa4/H11l6aM0Cs3yRAN1LtG6hwmQJYNSYTutbWQ23Py8kAbyWVr4bHN8bVmEwbiOuJ4eCFAqCNhGvbWXBxZGLelxvAF1vO6I76IR53SKs1WwQfSGOrSUP1pgQ1pbVd/PqP0TBgFCZwFZ2ik4Mz7rhIlSyOUzebHpwK+0NbkTRqkd3XmdTAWPZjGXsZm2UrsNfHPuUPLOuOupd9hmSrFPZgTTDQmgcnZVFp3iWIKYbJwEUQ0pmvzY8OI5pvM8=;GDSTcQQPD+r0QDxUcf1TOw=="
 ---
 

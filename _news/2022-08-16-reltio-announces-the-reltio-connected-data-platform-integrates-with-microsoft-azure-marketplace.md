@@ -39,6 +39,20 @@ related:
         width: 400
         height: 210
         isCached: true
+  - title: "Datadog Database Monitoring extends to SQL Server and Azure database platforms"
+    excerpt: "Datadog has announced its Database Monitoring service now supports Microsoft SQL Server and Microsoft Azure database platforms. The expanded support enables engineers and database administrators to swiftly identify and resolve database performance issues including slow queries,"
+    publishedDateTime: 2022-08-17T09:34:00Z
+    webUrl: "https://www.itpro.co.uk/data-insights/databases/368822/datadog-database-monitoring-extends-to-sql-server-and-azure-database"
+    type: article
+    provider:
+      name: IT Pro
+      domain: itpro.co.uk
+    quality: 65
+    images:
+      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816740/itpro/2019/01/sql_shutterstock_1055747219.jpg"
+        width: 1260
+        height: 710
+        isCached: true
 
 secured: "jtdBz2RLImnFTlX0uWvGDOg3IelMRjRhTh6jVUv3cS+TtLD6yF9gWSaaYxM8fKjWfhmfjdvydng1LktVbJnY89wD8DJ3CzctYkwRG3eau3QPGZ63YavIkF3yko0hXTycU3x/WvVRiuMQtbplr0/0/kbWBItiunCjJChI4La2gtNPkvPa8StPnEGvUutv+x/Oqaocjppp56zEeiED2TMqv+FSkZHcASKihkQmnnheKo5pUzgwqBuWtaqBMCfpVq7LVPU9lh6b/5d4iuMsSlvbIgAabsp9kd2pmVbg0w7INaopRJ+Gha3DfvKMMZCa7yWnDIruZAA3vd9w08Eif6MYke7AnuA6A1p9jOA7fasiqPA=;ta4X75NxRbSBuzvmk18Klg=="
 ---

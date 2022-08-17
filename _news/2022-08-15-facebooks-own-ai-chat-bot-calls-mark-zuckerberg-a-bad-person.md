@@ -62,15 +62,6 @@ related:
         width: 1484
         height: 779
         isCached: true
-  - title: "Meta's AI chatbot is an Elon Musk fanboy and won't stop talking about K-pop"
-    excerpt: "Meta's AI chatbot BlenderBot insisted to a Wall Street Journal reporter that Trump will serve a second term and \"always will be\" president.BlenderBot told Bloomberg that Meta CEO Mark Zuckerberg was \"creepy and manipulative\" and the BBC that \"he did a terrible job at testifying before congress."
-    publishedDateTime: 2022-08-12T18:42:00Z
-    webUrl: "https://www.aol.com/metas-ai-chatbot-elon-musk-184234856.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 15
 
 secured: "HhNzYGLFbFjJP4zl8hoHrJuthSUG63BT3c3aFCqrXRviDA3AQg4gPwm6gTqv/YTv/XmNczKnFaA1q7DyZmxC6F+p8dagWuzLkFI+hzp8ITtHitN0rOClK7+hd3W13vGku5B9Y9ADYDfq7+X5C93okykG6PKt8o265FECMVW4+1Q+IjZWrdycQ+IerdyO/JU8xLG1A3lz7aO9HKywE+71zP3c16hRM5Aki0Z696JviW2ZWPlL5iRsnzF+SHJaGlbswX98pdGSMLKvFJqGJ0G2skycSKcNRGYFf3EUonCYQGkqScvbkl8mqcHx5IJINroo931nlygswTVgSkuF3fSj/QmON+/3ThwUJkJ6bwvnkOg=;t/QuMskt7OsQ5UGDNtvizQ=="
 ---

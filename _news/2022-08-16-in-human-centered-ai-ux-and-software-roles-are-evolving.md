@@ -9,8 +9,8 @@ ampWebUrl: "https://venturebeat.com/ai/in-human-centered-ai-ux-and-software-role
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/in-human-centered-ai-ux-and-software-roles-are-evolving/amp/"
 type: article
 quality: 87
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: VentureBeat
@@ -30,19 +30,67 @@ images:
     isCached: true
 
 related:
-  - title: "Hyundai invests in AI, software research centres"
-    excerpt: "Mr Raibert said in a statement the new institute will “invest resources across the technical areas of cognitive AI, athletic AI and organic hardware design, with each discipline contributing to progress in advanced machine capabilities”."
-    publishedDateTime: 2022-08-15T16:54:00Z
-    webUrl: "https://www.just-auto.com/news/hyundai-invests-in-ai-software-research-centres/"
+  - title: "The Role Of Ethics In The Evolving World Of Marketing AI"
+    excerpt: "Marketing today requires a delicate balance between engaging smart, predictive technologies, such as ML and AI, and honoring the ethical standards that build trust between brands and customers."
+    publishedDateTime: 2022-08-17T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-role-of-ethics-in-the-evolving-world-of-marketing-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-role-of-ethics-in-the-evolving-world-of-marketing-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-role-of-ethics-in-the-evolving-world-of-marketing-ai/amp/"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
+      name: Forbes
+      domain: forbes.com
+    quality: 121
     images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/06/shutterstock_1803136597-1.jpg"
-        width: 500
-        height: 223
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62f135ac5e7a94fea526433e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "Fighting bias in AI starts with the data"
+    excerpt: "A majority of IT executives say data accuracy is critical to their use of artificial intelligence. But only 6% reported achieving full data accuracy."
+    publishedDateTime: 2022-08-15T19:25:00Z
+    webUrl: "https://www.zdnet.com/article/fighting-bias-in-ai-starts-with-the-data/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/fighting-bias-in-ai-starts-with-the-data/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fighting-bias-in-ai-starts-with-the-data/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 89
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/4a8b0290f235514269412b222a86a7ef30c43b42/2021/11/03/496b64e1-63e8-4242-a385-095add38f1cb/ai.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 802
+        isCached: true
+  - title: "How is artificial intelligence changing email marketing?"
+    excerpt: "It is safe to say that Email has unquestionably changed the way we communicate. Email marketing has made it easier for marketers to reach out to potential customers on a large scale. We now pay attention to pre-header content,"
+    publishedDateTime: 2022-08-16T08:10:00Z
+    webUrl: "https://www.mid-day.com/brand-media/article/how-is-artificial-intelligence-changing-email-marketing-23241264"
+    ampWebUrl: "https://www.mid-day.com/amp/brand-media/article/how-is-artificial-intelligence-changing-email-marketing-23241264"
+    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/how-is-artificial-intelligence-changing-email-marketing-23241264"
+    type: article
+    provider:
+      name: Mid Day
+      domain: mid-day.com
+    quality: 89
+    images:
+      - url: "https://images.mid-day.com/images/images/2022/aug/Shweta-Chaudhary_d.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "4 Companies Leading The Rise Of Artificial Intelligence And Big Data"
+    excerpt: "The article highlights four companies in the Global X Artificial Intelligence & Technology ETF (AIQ) that are shaping the growth path of technologies along the AI value chain."
+    publishedDateTime: 2022-08-17T03:52:00Z
+    webUrl: "https://seekingalpha.com/article/4535058-four-companies-leading-the-rise-of-ai-big-data"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 45
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1387900612/image_1387900612.jpg?io=getty-c-w750"
+        width: 750
+        height: 534
         isCached: true
 
 secured: "6K8KTbimBzPi0FU1+yTYTq35+HpS4rp5UpfzY94vf0/x+7CnUV8H2vXOyV+RMyaD6zZilt6dviucJQAoa+iHwnKLCPUtIkrZwuGu8iUAZOAG5WORw27certoY/BJ6KxDG+XWGdhInNe+RizvjS+Qi3dKCEDFO1jLz/VZmhv81QLyeE5Jcbr2Fv3xKvERStGOEWZHJZfdzY8L2dsR6eju0m/r4j73tiyjcm1xrswamrSNQuj4YyZCsREkhNImdI+ykoAmjJKMiuyOEt0UbEGDFWhktGi5bsganYBL/BPND8ni85YaAkpcsIL/US1BeO8Gv8SDG68wUJmVCTu/PDewg4iv/eVjS5q0A3PYq5bjzQM0SsKSxLJlI4a6EGkTja78RLodrJc07SZBo3vwunRp6HnTxyxjB4GvJkY5Lp2f/w+mD1OdQ4i0PvM2hsrLWA4G+0aYEJbm+zQ9f9+ixu4Po64/mwFS1eMPTvDVJUi9hFM8rQ0wk8mXn3t2xkqqZwq6wS1pFDHMNK9rLSEgs7ejKw==;KO63pWONktBRwoaPF3l58Q=="

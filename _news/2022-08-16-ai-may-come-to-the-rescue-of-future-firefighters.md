@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "AI may come to the rescue of future firefighters"
-    excerpt: "In firefighting, the worst flames are the ones you don't see coming. Amid the chaos of a burning building, it is difficult to notice the signs of impending flashover -- a deadly fire phenomenon wherein nearly all combustible items in a room ignite suddenly."
-    publishedDateTime: 2022-08-12T18:25:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/08/220810161024.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 49
 
 secured: "Byyc/ocvsxDro52T32NDomHm4m/QXUOoiqYuYOktAhquU6EnhxiGPbpmwo/ALJqo8uE3HC545SQ1KRly46hF/cy+hachDxSFT7RLbkyLqvghICamW3oWXa2B+g4ZJNkE3O70v4q0KLiXFIWA5jsJnJzaVc92cxpQyvo07ImmOIJMF5BDapOO7UrEeJ1DqWQutHg586FIeXrCXvLJQJf8JRIwWfrw0rSUQuEwe1JRJrS8f2RxHuLRXHfpoQ1wWv01WSNtgSt7HkBU/p0nsgFheF9Yp+4u7MERIqdev58/oyXic0y80hzH/oHK5hwH1VlTVPCzqRksDeNbfP+Npi7qh6l2Id04DF+P+s9GGxyBc6Y=;6I+Ma5w4h7r5BhsyPh0NHw=="
 ---

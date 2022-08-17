@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "The Role Of Ethics In The Evolving World Of Marketing AI"
+    excerpt: "Marketing today requires a delicate balance between engaging smart, predictive technologies, such as ML and AI, and honoring the ethical standards that build trust between brands and customers."
+    publishedDateTime: 2022-08-17T11:45:00Z
+    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-role-of-ethics-in-the-evolving-world-of-marketing-ai/"
+    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-role-of-ethics-in-the-evolving-world-of-marketing-ai/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-role-of-ethics-in-the-evolving-world-of-marketing-ai/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 121
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62f135ac5e7a94fea526433e/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Fighting bias in AI starts with the data"
     excerpt: "A majority of IT executives say data accuracy is critical to their use of artificial intelligence. But only 6% reported achieving full data accuracy."
     publishedDateTime: 2022-08-15T19:25:00Z
@@ -44,49 +60,38 @@ related:
         width: 1200
         height: 802
         isCached: true
-  - title: "Addressing industry challenges with AI and data: An interview with Infosys and Snowflake"
-    excerpt: "From cloud chaos to clarity.” Sunil Senan, senior vice president, and data and analytics service offering head at Infosys, and Chris Degnan, CRO at Snowflake, sit down with Lisa Martin and Dave Vellante at the Snowflake Summit 2022 to discuss how Infosys and Snowflake are"
-    publishedDateTime: 2022-08-15T13:21:00Z
-    webUrl: "https://www.technologyreview.com/2022/08/15/1057737/addressing-industry-challenges-with-ai-and-data-an-interview-with-infosys-and-snowflake/"
-    ampWebUrl: "https://www.technologyreview.com/2022/08/15/1057737/addressing-industry-challenges-with-ai-and-data-an-interview-with-infosys-and-snowflake/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/08/15/1057737/addressing-industry-challenges-with-ai-and-data-an-interview-with-infosys-and-snowflake/amp/"
+  - title: "How is artificial intelligence changing email marketing?"
+    excerpt: "It is safe to say that Email has unquestionably changed the way we communicate. Email marketing has made it easier for marketers to reach out to potential customers on a large scale. We now pay attention to pre-header content,"
+    publishedDateTime: 2022-08-16T08:10:00Z
+    webUrl: "https://www.mid-day.com/brand-media/article/how-is-artificial-intelligence-changing-email-marketing-23241264"
+    ampWebUrl: "https://www.mid-day.com/amp/brand-media/article/how-is-artificial-intelligence-changing-email-marketing-23241264"
+    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/how-is-artificial-intelligence-changing-email-marketing-23241264"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 48
+      name: Mid Day
+      domain: mid-day.com
+    quality: 89
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/08/MIT-Sunil-Senan-Chris-Degnan.jpg?w=1800"
-        width: 1800
-        height: 1013
+      - url: "https://images.mid-day.com/images/images/2022/aug/Shweta-Chaudhary_d.jpg"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "10 AI healthcare startups with the most funding"
-    excerpt: "Boston-based company DataRobot uses AI to help businesses cut costs. The company raised $700 million over all investment rounds. Delphia — A Toronto-based startup. Delphia uses AI to help analyze datasets."
-    publishedDateTime: 2022-08-15T16:14:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/10-ai-healthcare-startups-with-the-most-funding.html"
+  - title: "In human-centered AI, UX and software roles are evolving"
+    excerpt: "Leaky abstractions' are transforming software design and programming and leading to better, human-focused technology."
+    publishedDateTime: 2022-08-15T20:07:00Z
+    webUrl: "https://venturebeat.com/ai/in-human-centered-ai-ux-and-software-roles-are-evolving/"
+    ampWebUrl: "https://venturebeat.com/ai/in-human-centered-ai-ux-and-software-roles-are-evolving/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/in-human-centered-ai-ux-and-software-roles-are-evolving/amp/"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
-  - title: "Meta's AI starts spewing fake news"
-    excerpt: "Blenderbot 3 insists that Donald Trump is president and will remain so after 2024 Last week we reported how Facebook's new Blenderbot 3 AI was sexist and racist, but now it has turned into a pro-Trump conspiracy theorist with the intelligence of plankton."
-    publishedDateTime: 2022-08-15T09:29:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/55323-meta-s-ai-starts-spewing-fake-news"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 17
-  - title: "The Biggest Challenges When Adopting Data and AI Technologies"
-    excerpt: "In this contributed article, David Sweenor, Senior Director of Product Marketing at Alteryx, explains what it takes to create a data-driven culture in the office. Taking small, incremental steps to developing a data-centric work culture is the way to go in the adoption of data science,"
-    publishedDateTime: 2022-08-16T13:00:00Z
-    webUrl: "https://insidebigdata.com/2022/08/16/the-biggest-challenges-when-adopting-data-and-ai-technologies/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2020/02/entrepreneurship.jpg?w=1200&strip=all"
+        width: 1200
+        height: 623
+        isCached: true
 
 secured: "rGIvc5B+sy8Vx5txqFhWgsmtang/5y/isrkP0SAmTIL+SjtWnKH2UPmPaQ1JwCezMjRtG30X4uVqXk2PPqvPHvbE/3F6834I66b3kP8ib3L0f2wx0HCoZqXI31WtxoGGsvjtBdmyjnC3yjpt9r75l9XENpRyW7DNvYewIvSQpxaTRU0GcvBxKezS6Ix0H8diYVMDjQ1Na0gLa8TeVg5FJNusHE3NhesbnDFBloSCe5mfXueT0CrCeeIIOauWP37MOAew2fyUjGPPyhBpK8XtLuZ3R8M05Hu0AJesvfurCY24kiGXjbySZUPh29YMlPCc8MIDQe2aYWJOiiFMZGICDHXYWzNTiXdcWCo3HcrmPK3OA6c2KeC31pqyW0TAZ3apX/OUMvQgu+j6G3QcW/4knJhXFB/kMIai9Dzy+oqECX1QRaPy54udV5igVtM0qW6tJKQ+LdcWzdYCkM3rsG5WaAejdL0HKV/nhWlCeMR50kcl21n65qEP6PP5prTcQayEITuauYCJHnw4LDzEmndZdA==;GgFdEW0NB0KITQy4bpDneA=="
 ---

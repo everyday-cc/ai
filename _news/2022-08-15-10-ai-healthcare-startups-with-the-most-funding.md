@@ -19,70 +19,89 @@ topics:
   - AI
 
 related:
-  - title: "Fighting bias in AI starts with the data"
-    excerpt: "A majority of IT executives say data accuracy is critical to their use of artificial intelligence. But only 6% reported achieving full data accuracy."
-    publishedDateTime: 2022-08-15T19:25:00Z
-    webUrl: "https://www.zdnet.com/article/fighting-bias-in-ai-starts-with-the-data/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/fighting-bias-in-ai-starts-with-the-data/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fighting-bias-in-ai-starts-with-the-data/"
+  - title: "What Are The 10 Best AI Consulting Firms"
+    excerpt: "Google CEO Sundar Pichai has described the advent of artificial intelligence (AI) as more revolutionary than the discovery of fire or electricity. According to PwC, it has the potential to contribute $15 trillion to the global industry by 2030."
+    publishedDateTime: 2022-08-17T06:35:00Z
+    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/"
+    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
+      name: Forbes
+      domain: forbes.com
     quality: 89
     images:
-      - url: "https://www.zdnet.com/a/img/resize/4a8b0290f235514269412b222a86a7ef30c43b42/2021/11/03/496b64e1-63e8-4242-a385-095add38f1cb/ai.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 802
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62fc8c03c3e3a8833738a5f5/0x0.jpg?format=jpg&width=1200"
+        width: 1000
+        height: 540
         isCached: true
-  - title: "Addressing industry challenges with AI and data: An interview with Infosys and Snowflake"
-    excerpt: "From cloud chaos to clarity.” Sunil Senan, senior vice president, and data and analytics service offering head at Infosys, and Chris Degnan, CRO at Snowflake, sit down with Lisa Martin and Dave Vellante at the Snowflake Summit 2022 to discuss how Infosys and Snowflake are"
-    publishedDateTime: 2022-08-15T13:21:00Z
-    webUrl: "https://www.technologyreview.com/2022/08/15/1057737/addressing-industry-challenges-with-ai-and-data-an-interview-with-infosys-and-snowflake/"
-    ampWebUrl: "https://www.technologyreview.com/2022/08/15/1057737/addressing-industry-challenges-with-ai-and-data-an-interview-with-infosys-and-snowflake/amp/"
-    cdnAmpWebUrl: "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/08/15/1057737/addressing-industry-challenges-with-ai-and-data-an-interview-with-infosys-and-snowflake/amp/"
+  - title: "The tip of the AI-ceberg: How finance firms can unlock greater value from artificial intelligence"
+    excerpt: "Finance organisations are increasingly turning to artificial intelligence in pursuit of competitive advantage. However, although many firms are achieving successful results from AI projects, scaling up enterprise-wide often remains elusive."
+    publishedDateTime: 2022-08-15T14:01:00Z
+    webUrl: "https://www.globalbankingandfinance.com/the-tip-of-the-ai-ceberg-how-finance-firms-can-unlock-greater-value-from-artificial-intelligence/"
+    ampWebUrl: "https://www.globalbankingandfinance.com/the-tip-of-the-ai-ceberg-how-finance-firms-can-unlock-greater-value-from-artificial-intelligence/"
+    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/the-tip-of-the-ai-ceberg-how-finance-firms-can-unlock-greater-value-from-artificial-intelligence/"
     type: article
     provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 48
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 76
     images:
-      - url: "https://wp.technologyreview.com/wp-content/uploads/2022/08/MIT-Sunil-Senan-Chris-Degnan.jpg?w=1800"
-        width: 1800
-        height: 1013
-        isCached: true
-  - title: "4 Companies Leading The Rise Of Artificial Intelligence And Big Data"
-    excerpt: "The article highlights four companies in the Global X Artificial Intelligence & Technology ETF (AIQ) that are shaping the growth path of technologies along the AI value chain."
-    publishedDateTime: 2022-08-17T03:52:00Z
-    webUrl: "https://seekingalpha.com/article/4535058-four-companies-leading-the-rise-of-ai-big-data"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 45
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1387900612/image_1387900612.jpg?io=getty-c-w750"
+      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/08/iStock-691642344.jpg"
         width: 750
-        height: 534
+        height: 451
         isCached: true
-  - title: "Meta's AI starts spewing fake news"
-    excerpt: "Blenderbot 3 insists that Donald Trump is president and will remain so after 2024 Last week we reported how Facebook's new Blenderbot 3 AI was sexist and racist, but now it has turned into a pro-Trump conspiracy theorist with the intelligence of plankton."
-    publishedDateTime: 2022-08-15T09:29:00Z
-    webUrl: "https://www.fudzilla.com/news/ai/55323-meta-s-ai-starts-spewing-fake-news"
+  - title: "The Best Free AI Art Generators, Ranked"
+    excerpt: "Even the worst AI image generators and their strange obsessions with certain wardrobes have a strange—almost disturbing—fluid quality to them that makes each attempted depiction so distinct. Leaving the question of whether AI-generated pictures are legitimate “art,"
+    publishedDateTime: 2022-08-15T13:05:00Z
+    webUrl: "https://gizmodo.com/ai-art-generator-midjourney-starry-ai-1849397263"
     type: article
     provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 17
-  - title: "The Biggest Challenges When Adopting Data and AI Technologies"
-    excerpt: "In this contributed article, David Sweenor, Senior Director of Product Marketing at Alteryx, explains what it takes to create a data-driven culture in the office. Taking small, incremental steps to developing a data-centric work culture is the way to go in the adoption of data science,"
-    publishedDateTime: 2022-08-16T13:00:00Z
-    webUrl: "https://insidebigdata.com/2022/08/16/the-biggest-challenges-when-adopting-data-and-ai-technologies/"
+      name: Gizmodo
+      domain: gizmodo.com
+    quality: 47
+  - title: "The best AI tech films as per IMDb"
+    excerpt: "Since 1977, when the first ‘Star Wars’ film created a rage among the masses, it led filmmakers to churn out sci-fi content in abundance."
+    publishedDateTime: 2022-08-14T05:30:00Z
+    webUrl: "https://analyticsindiamag.com/the-best-ai-tech-films-as-per-imdb/"
     type: article
     provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 17
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/marketing-futurist-analytics-india-magazine.jpeg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "How some shoppers are using artificial intelligence to halve the cost of their groceries"
+    excerpt: "Kate Singleton said online recipe subscription service Menu Aid had changed the way she shops but she had no idea the system was powered by AI technology."
+    publishedDateTime: 2022-08-14T22:57:00Z
+    webUrl: "https://www.stuff.co.nz/business/prosper/129537081/how-some-shoppers-are-using-artificial-intelligence-to-halve-the-cost-of-their-groceries"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 28
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/0/6/v/1/image.related.StuffLandscapeSixteenByNine.1420x800.254fg9.png/1660532362353.jpg"
+        width: 1420
+        height: 798
+        isCached: true
+  - title: "Here's how some shoppers are using artificial intelligence to halve the cost of their groceries"
+    excerpt: "Kate Singleton said online recipe subscription service Menu Aid has changed the way she shops, but she had no idea the system was powered by AI technology."
+    publishedDateTime: 2022-08-14T22:57:00Z
+    webUrl: "https://www.stuff.co.nz/business/prosper/129537081/heres-how-some-shoppers-are-using-artificial-intelligence-to-halve-the-cost-of-their-groceries"
+    type: article
+    provider:
+      name: Stuff.co.nz
+      domain: stuff.co.nz
+    quality: 25
+    images:
+      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/0/6/v/1/image.related.StuffLandscapeSixteenByNine.1420x800.254fg9.png/1660518262772.jpg"
+        width: 1420
+        height: 798
+        isCached: true
 
 secured: "BxGJbx9Gw8zdkq2cIN7BrP8yKx6NG+u8nUTJHDOBrTp1VXMdEhgmPAZ7qIHX8xIT9uEChGqZTPLMba3U28hdFW9DJY9aw5dT7PQ5UR1IdgGQW1GjqmIDBZil3S2ote+vIHpo+GTyGJt76T6EPwd21wqm2x+Jz2Qrk/Qyc3Z45JWto6ZI42+uX0mwm+13pKn2vb+FQLXKAT+Ozl4tHIp2sNT6ddNdl/SfRwiiIhtOxXk9GFepNeuOFJZ0udZbLGaREl8ViIDy+hrEjz9tMpKcn6RIe/TRfx+RMe51rSJBZ/A2vDdhIrWA5H6C7iX7qxHwEMSInzUTT5yqLDU/dkzz7tdaC/UQ5ZhbJsySMVChdRk=;ALXpD3Cba/DjWTy1L+lrPw=="
 ---
