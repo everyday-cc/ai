@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-17T14:29:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28536127/marketers-can-harness-the-of-power-machine-translation-to-localise-their-websites-and-multilingual"
 webUrl: "https://www.benzinga.com/pressreleases/22/08/n28536127/marketers-can-harness-the-of-power-machine-translation-to-localise-their-websites-and-multilingual"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: Benzinga.com

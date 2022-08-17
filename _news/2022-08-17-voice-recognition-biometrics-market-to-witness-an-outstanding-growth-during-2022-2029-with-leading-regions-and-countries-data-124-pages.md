@@ -57,6 +57,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Industrial Market 2022 Trends, Production, Gross Margin, Demands, Emerging Technology By Regional Forecast To 2029"
+    excerpt: "The Artificial Intelligence in Industrial Market (2022-2029) Survey Report is a professional and detailed survey of"
+    publishedDateTime: 2022-08-17T06:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-industrial-market-2022-trends-production-gross-margin-demands-emerging-technology-by-regional-forecast-to-2029-2022-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "qb9n/EBv0/gVXqKNLNLsgx5i5JoY8UjoPO08zlZXNT2e1MKOiZngoXikwtTyORgCLuXK27e3Z0qPtteS4Fmd9+VTcEhVISl86R88cD1X3RYPyqmmR8Zh+MYLLgS/BG85nZtbq33KZ3wyldELbARo+Evjle64qAMwZquT+6wJW05WfQFZAScZiVO8jX+vWiL6orhntVqDpRKoSPYZ+A7dbPcwjsEjWD+PCfTJTuhl580IJtluxgqHtKasLQhrBH/BYnGguQS3qjnrWTZAkUZpM4+hrCrEmqi4fsiTaUhLE3hBGOhWfmfy2zlUz733/wwh1Kfo9RLiDwotCD23SxA1oigJoLI5asoWwqbKh7fW3iI=;q70aOoAoiXv6A84u4f7Q+w=="
 ---

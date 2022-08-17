@@ -62,6 +62,15 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 29
+  - title: "Microsoft Is Empowering Its Investors To Achieve More"
+    excerpt: "Microsoft’s stock marks 304% performance over the past 5 years and is likely positioned to be a strong leading growth stock in the coming years. Read how here."
+    publishedDateTime: 2022-08-17T18:37:00Z
+    webUrl: "https://seekingalpha.com/article/4535256-microsoft-is-empowering-its-investors-to-achieve-more"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "jtdBz2RLImnFTlX0uWvGDOg3IelMRjRhTh6jVUv3cS+TtLD6yF9gWSaaYxM8fKjWfhmfjdvydng1LktVbJnY89wD8DJ3CzctYkwRG3eau3QPGZ63YavIkF3yko0hXTycU3x/WvVRiuMQtbplr0/0/kbWBItiunCjJChI4La2gtNPkvPa8StPnEGvUutv+x/Oqaocjppp56zEeiED2TMqv+FSkZHcASKihkQmnnheKo5pUzgwqBuWtaqBMCfpVq7LVPU9lh6b/5d4iuMsSlvbIgAabsp9kd2pmVbg0w7INaopRJ+Gha3DfvKMMZCa7yWnDIruZAA3vd9w08Eif6MYke7AnuA6A1p9jOA7fasiqPA=;ta4X75NxRbSBuzvmk18Klg=="
 ---

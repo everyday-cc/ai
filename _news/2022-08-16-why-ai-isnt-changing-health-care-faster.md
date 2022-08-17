@@ -25,49 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence was supposed to transform health care. It hasn’t."
-    excerpt: "Machine learning could improve medicine by analyzing data to improve diagnoses and target cures, but technological, bureaucratic, and regulatory obstacles have slowed progress."
-    publishedDateTime: 2022-08-15T19:55:00Z
-    webUrl: "https://www.politico.com/news/2022/08/15/artificial-intelligence-health-care-00051828"
-    ampWebUrl: "https://www.politico.com/amp/news/2022/08/15/artificial-intelligence-health-care-00051828"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2022/08/15/artificial-intelligence-health-care-00051828"
+  - title: "Your Health: New technology for artificial intelligence"
+    excerpt: "Scientists are developing technology for artificial intelligence that will allow it to work even in remote areas. From autonomous vehicles to drones to medical equipment, it’s all cutting-edge technology that requires connection to the cloud."
+    publishedDateTime: 2022-08-16T20:20:00Z
+    webUrl: "https://www.wilx.com/2022/08/16/your-health-new-technology-artificial-intelligence/"
+    ampWebUrl: "https://www.wilx.com/2022/08/16/your-health-new-technology-artificial-intelligence/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wilx-com.cdn.ampproject.org/c/s/www.wilx.com/2022/08/16/your-health-new-technology-artificial-intelligence/?outputType=amp"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 58
+      name: WILX-TV
+      domain: wilx.com
+    quality: 59
     images:
-      - url: "https://www.politico.com/dims4/default/4f273a8/2147483647/strip/true/crop/5760x3840+0+0/resize/630x420!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fb9%2F7c%2F82577dfc4c5dae11d5816fe2da8f%2Fhealth-care-artificial-intelligence-78020.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "AI has yet to revolutionize health care"
-    excerpt: "Questions remain about how regulators can rein in AI’s shortcomings, including bias that threatens to exacerbate health inequities."
-    publishedDateTime: 2022-08-17T14:00:00Z
-    webUrl: "https://www.politico.com/newsletters/future-pulse/2022/08/17/health-cares-ai-revolution-hasnt-arrived-00052204"
-    type: article
-    provider:
-      name: Politico
-      domain: politico.com
-    quality: 37
-    images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
-        isCached: true
-  - title: "AI was supposed to be the future of health care, but it's barely the present"
-    excerpt: "A Cleveland Clinic official is quoted in a Politico article examining why artificial intelligence, so far at least, has made a limited impact in transforming health care. Plus, the Western Reserve Historical Society's library and administrative headquarters renovation project has received a national honor,"
-    publishedDateTime: 2022-08-16T18:06:00Z
-    webUrl: "https://www.crainscleveland.com/scott-suttell-blog/ai-was-supposed-be-future-health-care-its-barely-present"
-    type: article
-    provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 36
-    images:
-      - url: "https://s3-prod.crainscleveland.com/s3fs-public/styles/800x600/public/388410510_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://do0bihdskp9dy.cloudfront.net/08-16-2022/t_eff33dba29944b56898c79ac51ac909c_name_thumbnail_image001.png"
+        width: 635
+        height: 355
         isCached: true
 
 secured: "Kk7jQymy2DWFg3NtSoe2IbMeTdENxHDzK3ivi6E5GO5+VhLaRT+rMnCo6GLql2hJWrMOSJZ1OPLkO+pDNWzpW7xJpD3by97pupNV6l2DlNskZfb1ndZLUt4z9v9oEATj/8MTVGhTQQ5oieEMFm5bx/5Lj+3bCwnvBXq1UkpvSrLYxSbRwO+rU0AzQmiUIy7kIxmJJftDQ7gakL7/0JtSpxAQZ8hzviT+Z92MX/hflQIWszfD3pAlHnW7Gl9UWEkIF/3cEpo3oWKfUMm0uqQbjxTZjGfxnlBLfkhTV0iRBwYhM97/Nk5EOn3tR/chDqM6cz1HKaww1F1iIJ6nS6kq/Rnfpf8VaonplQfgsCAH/eg65AFwvc8TXpY/RsbWsozf6hbelja5y882xkF6MoabgPYTmx4UAoZF8W3xld8E7IEtbOSSa9qrB8COPYiXzR10xJsZH6xkjB+9mWPW/vSmTzbCB4D0PADUB+AqwAmS0YbeN2vONRpEQJSz2p312rGDFrg8dgq5y3CgsNersAtDJA==;LbOaRHhJjZ+wxwIPwTayzQ=="

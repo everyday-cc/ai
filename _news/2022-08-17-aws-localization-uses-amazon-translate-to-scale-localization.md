@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-17T18:00:32Z
 originalUrl: "https://aws.amazon.com/blogs/machine-learning/aws-localization-uses-amazon-translate-to-scale-localization/"
 webUrl: "https://aws.amazon.com/blogs/machine-learning/aws-localization-uses-amazon-translate-to-scale-localization/"
 type: article
+quality: 101
+heat: 101
+published: true
 
 provider:
   name: AWS

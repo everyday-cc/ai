@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-15T15:12:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/961844"
 webUrl: "https://www.eurekalert.org/news-releases/961844"
 type: article
+quality: 45
+heat: -1
+published: false
 
 provider:
   name: EurekAlert!
@@ -15,6 +18,28 @@ topics:
   - Google AI
   - AI
 
-secured: "VsTTE3hFRzuo+g1OZXLqUIGuB+0frSG4Ac8vvwmLeytomdzSueBP8IZxp4uVLZGEoIM8dgiewu2dDlDGtIXJ8/vI520jwN+Dctu9el7mk+brzm+5Y8+UiLf1OkjIkcWfQ35DJrRkwM0pEon+djZHsbsL3BNIYjRmR8b02UkztHKoRijJrKogXPMTVzt51nQq1jy8+fFDTVTqAmIKn8IOVzUH5nuxfbq/+fxpoMZIdteS4u1bc1wBd+Tg2nBFjWYZW0ppRe9vWAIrb8IIyqT1kiKcqfmzzjkuSSFHUJfjPTQ75YRPnzS1ktkVqzYzTHP8uDQtGuOysW0rMXBJ1l+RrhOrAkXb+XZxqqw/SukzxkQ=;5+6ktzUrPr1oVQmUsfeNiA=="
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/839c7f64-ce32-4a74-89a8-cd6b09dee5d2/Rendition/thumbnail/Content/Public"
+    width: 300
+    height: 282
+    isCached: true
+
+related:
+  - title: "DeepMind feuds with Russian scientists over quantum AI research"
+    excerpt: "Science is all well and fine, but what happens when Big Tech and the world of academia butt heads during the peer-review process?"
+    publishedDateTime: 2022-08-16T19:39:00Z
+    webUrl: "https://thenextweb.com/news/deepmind-feuds-russian-scientists-over-quantum-ai-research"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 86
+    images:
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F08%2Ffightrobots.jpg&signature=e7f71ca542a0269805511bc1ef788a54"
+        width: 1280
+        height: 640
+        isCached: true
+
+secured: "DlI0J3lZ3pvhmFCSvdr4jlZMGweob4BGQJxIVBjkVbkokKqj1LNZGMHdDqFssil5tHLWFrqAIYUzRqUKOOYKch+M1y+L9MqxL6Cj6lqTG9cnh5KMOpUutnTDsywziR1MtssVlrvbvA0+ErZDhbPZoqeTI5paqCL05Ax9dlToCN2jTY9/j0w51v3VBbA80D9SFlTP2yugCWBfk6rUwEC5NBXJ+RsTYP/z2w6vSJTkWH4bMAY0XI2YnFKwKmG0Z3zNqUrOgSA15G+3waPgDSZPXfLT/WVuHkJD0m6xvNpa2BVIchwD2gNsoJ+HvZLhLFyo3Zp/H3TXUNaR60Qo3cFDMBhmdHLnU6/u/lw/cij8TWw=;uaBlvEcqKGjZzHnfX8a/rQ=="
 ---
 

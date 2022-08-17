@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/08/16/new-integrate-ai-platform-pres
 webUrl: "https://siliconangle.com/2022/08/16/new-integrate-ai-platform-preserves-privacy-machine-learning-analytics/"
 type: article
 quality: 53
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -95,6 +95,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 10
+  - title: "Avalere Expands Data and Analytics Focus with New Addition"
+    excerpt: "Mandar Karhade, MD, PhD, MPH, brings more than 10 years of experience in a wide range of areas including healthcare technology, genomics, oncology, machine learning, and natural language processing. “We are excited to grow our Health Economics an"
+    publishedDateTime: 2022-08-17T19:06:00Z
+    webUrl: "https://avalere.com/news/avalere-expands-data-and-analytics-focus-with-new-addition"
+    type: article
+    provider:
+      name: Avalere
+      domain: avalere.com
+    quality: 4
   - title: "Amid Accelerated Digitization, Streaming Analytics Market to Surpass US$ 86.5 Bn by 2032 | Future Market Insights, Inc."
     excerpt: "NEWARK, DE / ACCESSWIRE / August 17, 2022 / Global streaming analytics is expected to reach US$ 86.5 Bn in 2032, with sales growing at an astounding CAGR of 20.8% over the forecast period of 2022 to 2032."
     publishedDateTime: 2022-08-17T09:41:00Z

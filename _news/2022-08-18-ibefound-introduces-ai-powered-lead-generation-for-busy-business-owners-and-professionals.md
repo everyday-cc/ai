@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-17T19:52:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-8-17-ibefound-introduces-ai-powered-lead-generation-for-busy-business-owners-and-professionals"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-8-17-ibefound-introduces-ai-powered-lead-generation-for-busy-business-owners-and-professionals"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Daily Herald

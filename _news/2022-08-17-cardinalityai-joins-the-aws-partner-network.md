@@ -1,23 +1,31 @@
 ---
 category: news
 title: "Cardinality.ai Joins the AWS Partner Network"
-excerpt: "The Advanced Technology Partner Status reduces complexity to adopt digital practices and confidence of integration for our shared public sector customers; Three Cardinality.ai sol"
-publishedDateTime: 2022-08-16T19:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cardinalityai-joins-aws-partner-network-/2022/08/16/9657222.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cardinalityai-joins-aws-partner-network-/2022/08/16/9657222.htm"
+excerpt: "The Advanced Technology Partner Status reduces complexity to adopt digital practices and confidence of integration for our shared public sector customersThree Cardinality.ai solutions for public secto"
+publishedDateTime: 2022-08-16T18:07:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28523141/cardinality-ai-joins-the-aws-partner-network"
+webUrl: "https://www.benzinga.com/pressreleases/22/08/n28523141/cardinality-ai-joins-the-aws-partner-network"
+ampWebUrl: "https://www.benzinga.com/amp/content/28523141"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28523141"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 74
+heat: 74
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI
   - AWS AI
+  - AI
 
-secured: "qxRyrU7QGC2g2WMdsE/mGoUusUliOMDATIc2A+ms0pk9yrIWlbL/fBl9gTa98uNpMVSUg3hV/z7WV+Dk/u5ok+mbNs30ruHLw1YOb+V7KFpT6NdhJsN0kglXezLm7Q9et1TuDxbrvRmTNuyvn0UCdjwT9G48ea3OAIKUzMVtw8vDgI5/VueBJ776I3TvW0gx+dFnnqx12q6pjsY31PfhqlV5V8Tf1t8QocKB4udMu9sEdrKzPmaGSZpBeH6YvJ43KeO9G4Z6oh+6cyhT66tKofoU00MUthe9+Se2xdrE/6UJtjvAd19R6Aribj9G/VQYLXP0Y9JUqVsu2NtROnR6udXPBYgN8uMUiPbRNOVexcQ=;aERgYt+nZce62OD/bYmY9Q=="
+images:
+  - url: "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g"
+    width: 300
+    height: 250
+    isCached: true
+
+secured: "vmGtYXd35LtpXIhYNngDmMSA5grND+ReL/xL21hzr9qbFOek7gEL+qrAr/XBUMsZQo1yerUUBGqncoFdpjPfj4r3cLYKvOyqPkxxh2NOakyWlv3eCe8mJWPUfCDNFD2huwYZuwCMyeaOsg1zgXMvZTKp3ITWdgk8ik6r986El+L9W5EizA3pXq2yXJUufo26oeizxwxnszM7irmJkNams7XsXPFJrbBrq3C/+30HyvWDhz/S71X7j6v3YmEp7Awzhxo/Z9lPB+f5Eq01Vpbg05lh2AyKclpddgC/uOT+J7HGDG/yHD800MZZfOCJRIeJcXkTf8fVyYNs5oMLOcGTwIlB1fZ14kacI8QRQW31xDQ=;j1jYfNitFzJRX0rVdqQDOg=="
 ---
 

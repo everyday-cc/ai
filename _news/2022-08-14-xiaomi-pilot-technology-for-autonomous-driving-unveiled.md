@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-au
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/?amp=1"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Xiaomi unveils 'Pilot Technology' for its self driving electric vehicle"
-    excerpt: "CEO Lei Jun claims that Xiaomi's autonomous technology employs an internally developed full-stack methodology and that the development thus far has surpassed all expectations."
-    publishedDateTime: 2022-08-13T03:21:00Z
-    webUrl: "https://www.hindustantimes.com/technology/xiaomi-unveils-pilot-technology-for-its-self-driving-electric-vehicle-101660358360639.html"
-    ampWebUrl: "https://www.hindustantimes.com/technology/xiaomi-unveils-pilot-technology-for-its-self-driving-electric-vehicle-101660358360639-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/xiaomi-unveils-pilot-technology-for-its-self-driving-electric-vehicle-101660358360639-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/08/13/1600x900/Xiaomi_driverless_car_1660360335290_1660360335451_1660360335451.png"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Xiaomi Unveils CyberOne Robot, a rival to Tesla’s Upcoming Optimus Bot"
     excerpt: "Xiaomi, the tech startup mostly known in the West for ripping off Apple's designs, has revealed a prototype bipedal robot, the CyberOne."
     publishedDateTime: 2022-08-17T10:00:00Z

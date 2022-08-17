@@ -33,6 +33,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Leading AI expert’s keynote lecture at Concordia will explore the past, present and future of deep learning"
+    excerpt: "Yoshua Bengio will also receive the 2022 Pierre Devijver Award for his work on statistical pattern recognition"
+    publishedDateTime: 2022-08-17T18:12:00Z
+    webUrl: "https://www.concordia.ca/cunews/main/stories/2022/08/17/leading-ai-expert-s-keynote-lecture-at-concordia-will-explore-the-past-present-and-future-of-deep-learning.html"
+    type: article
+    provider:
+      name: Concordia University
+      domain: concordia.ca
+    quality: 16
 
 secured: "tp5v9/I2/uJFtvDSlp8gLW4Je5XiZR7i1XYszJlia7nJ+FbH/OEsBwBJsswnMCd6Flgx4xZYAfwBhdw7B12NaZ5C/JiwekQSNz9CPUuDWX52qtU+E5chRke0Df3etzAFJI6cwzlT6X6zWLXdAesSozHuBm6OsW3r7+DpagPHR+tlz5iqE4Bk9iLqfyiiP4bESJqgjSnzt9HDpHYoQng6MKqAAXu/7KUrcUa2oUEENgkNBPNjIvNTQBlZhhcvgtMgQTt12Ltr7HD2J58XRipGjqPnIKhM22nY1aBn2YqoVcaHfcJB5BRLNIwY/hRqiT14GHSjeXLvbYctIZg5K0JgXkV9iNGC9q6WgaGsdLZtuC07QNQw7+z6Hy3JUzQSP02ovIXRjkKcTFKpcE6EnyMHVUnTZUN2Vpcqs9UgORzV1pbvr9YtNqUBOsErnALKbrKASsYMwFdQeujg0DHUCaw0/rKgwj3LBB0VXMPdcCCTj4kwJv1ctixJNJr65zAHONBdQg8TfdFNc2v6lEyd04E0mA==;q4O5fqf1WdiSUoJGuAoj9Q=="
 ---

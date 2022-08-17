@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp"
 type: article
 quality: 52
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "A new neuromorphic chip for AI on the edge, at a small fraction of the energy and size of today's compute platforms"
+    excerpt: "An international team of researchers has designed and built a chip that runs computations directly in memory and can run a wide variety of AI applications -- all at a fraction of the energy consumed by computing platforms for general-purpose AI computing."
+    publishedDateTime: 2022-08-17T18:39:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/08/220817114253.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 42
   - title: "AI Platform Aims to Help Shipping Industry Tackle Emissions Regulations"
     excerpt: "New maritime regulations are set to go into effect that require ship owners to report shipping emissions intensity, and an artificial intelligence-based application from Bearing is set to produce information for businesses to help them make emissions improvements."
     publishedDateTime: 2022-08-17T16:38:00Z

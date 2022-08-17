@@ -3,25 +3,25 @@ category: news
 title: "PM trip to Torres Strait for voice talks"
 excerpt: "Prime Minister Anthony Albanese is travelling to the Torres Strait, where the Indigenous voice to parliament will be discussed with elders."
 publishedDateTime: 2022-08-17T17:39:00Z
-originalUrl: "https://www.perthnow.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918683"
-webUrl: "https://www.perthnow.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918683"
-ampWebUrl: "https://www.perthnow.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918683.amp"
-cdnAmpWebUrl: "https://www-perthnow-com-au.cdn.ampproject.org/c/s/www.perthnow.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918683.amp"
+originalUrl: "https://thewest.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918679"
+webUrl: "https://thewest.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918679"
+ampWebUrl: "https://thewest.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918679.amp"
+cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918679.amp"
 type: article
 quality: 59
 heat: 79
 published: true
 
 provider:
-  name: Perth Now
-  domain: perthnow.com.au
+  name: The West Australian
+  domain: thewest.com.au
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://images.perthnow.com.au/publication/C-7918683/190748120240644a79df8630e6d677b4347194c6-16x9-x0y0w1280h720.jpg?imwidth=1200"
+  - url: "https://images.thewest.com.au/publication/C-7918679/190748120240644a79df8630e6d677b4347194c6-16x9-x0y0w1280h720.jpg?imwidth=1200"
     width: 1200
     height: 675
     isCached: true
@@ -51,6 +51,6 @@ related:
       domain: theaustralian.com.au
     quality: 19
 
-secured: "AaQ0P85a/oDmtL3UBIlyb2FPT7uvb3vkNHphtxJWvOUWxZ4BrE4jK+s6N76+EZUYmYsMiBi0Dsd/XIZJdzSKE17aYjA8dkR3xt94S8rTMT2OSd2JzUsN3hoWxw10vhUoWhu/eUlhdrAdgJC8JvQJm2OohLLSLx1ZNpLUhZWxXU9ywI8s/g7PIeOJpuvaPP04w9KURI4Vo1dA2oDt1GQjLRJ3V/A+yGXiURJe1bVNqmIncx4jUnN2zZRvIkraiYt5HPS6iF3yD1nt6WSFQpqoPVtn95r+9dvGpoqTprRLtVuqkOe6Rv5qcZtjEyf+uJBKeV3v/SkoHaSDYydFs2tGCWoerrNQkzUnzVsQ+XQ47Uo=;P/ic5F6Pfn69KmMRFEycLw=="
+secured: "lF6IQJ04zOBfvuKDAg9XJeXJqoJR3awQu1DussHvPnq3Ol14ldONCeIxFBaz9QyqhRcudJYSnJBhE6LxbpuSK6ZBqvFOkVIEUTe6XCZfHEef36jFugHkOy6utaQ3GZITjNCIPc1vk/KUSErN8vAMi19I7b3hGtuF6Lxcu+kQnQuxw1IgULE5FD40HlLFjFxZMNkudHKa9Kb+NPKkI75S0YRTbJnkXiNrMZVcLBNpSbI9cnXLN2lADKDtX7KRn/gmZYlqlIvoe/ECt1XbmQNr8ZWg6Ag9SbS4ZATuKJOtdhlmIiG7hs+TwqH1+yrQZx1v2Z9iwLSYvX9XeU2K+68iJ634kc17cC7mUKfnuZk+wgM=;PfF8/Q0KcKP7L3HDvlnqIA=="
 ---
 

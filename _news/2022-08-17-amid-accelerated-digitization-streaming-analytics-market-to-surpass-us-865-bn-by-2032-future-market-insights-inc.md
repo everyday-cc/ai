@@ -102,6 +102,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 10
+  - title: "Avalere Expands Data and Analytics Focus with New Addition"
+    excerpt: "Mandar Karhade, MD, PhD, MPH, brings more than 10 years of experience in a wide range of areas including healthcare technology, genomics, oncology, machine learning, and natural language processing. “We are excited to grow our Health Economics an"
+    publishedDateTime: 2022-08-17T19:06:00Z
+    webUrl: "https://avalere.com/news/avalere-expands-data-and-analytics-focus-with-new-addition"
+    type: article
+    provider:
+      name: Avalere
+      domain: avalere.com
+    quality: 4
 
 secured: "JEFfG3VektQvpihJQuhr1jNjPoDkwbrqmKfsTc4mRFuOkZTxTsZPV8GJjWLaLwYzgBTWOlqRTtGcSySIylNeMJ16s7JTm0x+DANJ263cvikNjxtMrthG9HG3NRl+Wd3AWydMGh0BNCiQRbg8/b+bBHy3yx8waTb3f5vzDpHMpJfUcPAIzJxMceWKVJnKRX2To6o7+JolgsWIBCeV3lF0I0snNEQ0DCHbAK5wPMsOM82r7tqzfuCP7TDMyoU+14h8gBAi1U9gqQuvLhq/hcxo3ioTiZrJaTwEwBQwLOOlvDH+kFWQnZpMFgGX2PqtoFlkU7kRvhHpbe/UaUrR5+6zYKGz7+Ce9ML77PHQtXmQRdv61k4s4c6mFsUXSby2jTzv7WuF01E4JPOi+zZikSBCuJLDowm3OBDQvaAXLNIxNbjcM1rTFrmyQJdo0fAuwylrlIzPVmQ7CbEqWOF3/F8rS2LWsqV6S5k9KDp3swLU0RfptaKln4vp8xDU1K6fFjbe6AsRhqxnpKIv6kKlZ9Gpyg==;EwfGSfZmVgKNI65U6mh9zQ=="
 ---

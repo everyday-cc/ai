@@ -42,22 +42,6 @@ related:
         width: 1652
         height: 920
         isCached: true
-  - title: "Xiaomi unveils 'Pilot Technology' for its self driving electric vehicle"
-    excerpt: "CEO Lei Jun claims that Xiaomi's autonomous technology employs an internally developed full-stack methodology and that the development thus far has surpassed all expectations."
-    publishedDateTime: 2022-08-13T03:21:00Z
-    webUrl: "https://www.hindustantimes.com/technology/xiaomi-unveils-pilot-technology-for-its-self-driving-electric-vehicle-101660358360639.html"
-    ampWebUrl: "https://www.hindustantimes.com/technology/xiaomi-unveils-pilot-technology-for-its-self-driving-electric-vehicle-101660358360639-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/xiaomi-unveils-pilot-technology-for-its-self-driving-electric-vehicle-101660358360639-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 59
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/08/13/1600x900/Xiaomi_driverless_car_1660360335290_1660360335451_1660360335451.png"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "1fkoZy2ug/guDrVQa4O3LsqyOTx5oNCm4K77lVix+q+lg7DWslqpDcW55unc2vc6AdmHiB+xvYLQ5ZfaoSVzWhbbQCw7SYrXLBlt8AOE3yi8Y/rHBJLfhPN4KIkPUehUQUrnIGjZvY4u4310Ej7/QnM0a2XkQ0vR/QG4TC0FnLoTikhSGKNvFPPOTT8i5T3MfJ/jaWSCK1083Fvj6r7p7GxJqHvXhS/WG4LkQI/f4CbVXPSapHj94hyPyInKCPY70qiW1Bvz5URCQs38xnQaw+3zubXx89me5p/An9whQ1mrJDfYJQgGP5NcfvbfJvZ1UwYOk54KGO5CMpWskv6AitjMPv2J/pGqC5OSJGmWjgu3+0UOORyHk9WfnBGgr+DVrxiT1qL5MlY+2uwV5BYrJjTTOroRBvlzveG2IVdKNoi2w16TyENcAah/BNCQKvL9l3nV6HBoRKGAkn6VQlWtMB8VcqT+nvTDNtt04eWotCTEJgrGLmtKuPDhOz2RHRp1M2yR9lTzIpHYMGulhJgRiw==;0dSO8l4LNtrVRl6qQVi5XA=="
 ---

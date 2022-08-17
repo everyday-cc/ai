@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-17T18:19:00Z
 originalUrl: "https://www.manufacturing.net/technology/news/22392784/sessions-focus-on-unattended-ops-machine-learning"
 webUrl: "https://www.manufacturing.net/technology/news/22392784/sessions-focus-on-unattended-ops-machine-learning"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Manufacturing

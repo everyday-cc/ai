@@ -40,6 +40,15 @@ related:
         width: 2880
         height: 1920
         isCached: true
+  - title: "A new neuromorphic chip for AI on the edge, at a small fraction of the energy and size of today's compute platforms"
+    excerpt: "An international team of researchers has designed and built a chip that runs computations directly in memory and can run a wide variety of AI applications -- all at a fraction of the energy consumed by computing platforms for general-purpose AI computing."
+    publishedDateTime: 2022-08-17T18:39:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/08/220817114253.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 42
   - title: "Can a human with a spinal cord injury walk and run? Discovering clues with neuromorphic technology"
     excerpt: "An international research team led by Prof. Tae-Woo Lee (Department of Materials Science and Engineering, Seoul National University, Republic of Korea) and Prof. Zhenan Bao (Department of Chemical Engineering,"
     publishedDateTime: 2022-08-15T15:36:00Z
@@ -71,6 +80,6 @@ related:
         height: 258
         isCached: true
 
-secured: "uvCP3JmGYs9aDAkrbwFm/gnqpHgkD8mcQC1fuktzJtyPjj69GkQorHLLDJ+Ftv/gLVg/QiCO/hfWk/USYBIJWSqEDUrQgkdA/bNYHzbqUtj3TIRvx3++1BSuUiYN3EoyHA29427+hscTruC06Xkf8fqlfqziM0NFZKRClJ0f276j9GvaFOOOI0vs5MpaDCjpCJnFCcrBmHjTk9MN6NjLWdibchJiZoUFtWZSRL/B3xz+qGBDAwyHYZeycKGDrlFv9c1KFyyp+TnUtFdL5RWBm7I+CqtdlKAtwcWntSvi1zBagIBb0/KCr/Y/rfxClq0uQDoVHHboJp8hEU9DiyrRR5l32It0YOQOuXXDJJ0rX7M=;WREDXAGjgYXV76AWcs8VFg=="
+secured: "0rYnOfloRHL53YEHe3VNAxSJoiPEQu52h8yx7MMACwQRmyZy5ivyYK1t+D87moMNFs3FbxQq24KePrnoEDTq/d18b7pxEqa+hDmEujiT2VIH7VGKt2gUiG8050SHeNycMAn/d/LRay1Xuek8vp/hy/RKQ03sBXrRYF+KO8Qt8Z+aFxMJSDlAdQ5x6S4mXcwRiTSlIXtqKSgZgyrbl6M2Gp1VzhDK0aqHRX8S89e3PBe8GVUCygNfKGw+41HzUDmTint3vGilMtNvyVcD2B1EklhE+kBhnwW3k19sHp7qrd1XotDNLId6sQAPJIdU5ss5tTln+lpU9fswQvuDVjL47ViiTFzNGJM9mlWWgdP9uV/XrY+NnbWB5sb8kstJvk4Ao/LG/EF9drPXqHyHx7PgnotlbTwD/5ICWq7KSNkKvXSU5bos5OSIZNOK5eljEHm5C1FQpCtkc7mvBBTBwt+8mzcnfXJidD6AY48xZ/5jFHoc7VS7HZIGwxYzHrJtpyn70EfC4z0iGPmVt0G6uQvAag==;DvqrpdhIB9aNaBe8GVy2Mw=="
 ---
 
