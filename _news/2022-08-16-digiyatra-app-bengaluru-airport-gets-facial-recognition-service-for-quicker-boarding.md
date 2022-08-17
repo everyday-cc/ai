@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "DigiYatra: Hyderabad International Airport rolls out facial recognition"
+    excerpt: "DigiYatra will facilitate paperless travel and avoid multiple identity checks at the airport enabling seamless and hassle-free travel."
+    publishedDateTime: 2022-08-17T03:10:00Z
+    webUrl: "https://www.newindianexpress.com/cities/hyderabad/2022/aug/17/digiyatra-hyderabad-international-airport-rolls-out-facial-recognition-2488337.html"
+    ampWebUrl: "https://www.newindianexpress.com/cities/hyderabad/2022/aug/17/digiyatra-hyderabad-international-airport-rolls-out-facial-recognition-2488337.amp"
+    cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/hyderabad/2022/aug/17/digiyatra-hyderabad-international-airport-rolls-out-facial-recognition-2488337.amp"
+    type: article
+    provider:
+      name: The New Indian Express
+      domain: newindianexpress.com
+    quality: 74
+    images:
+      - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/8/17/w600X390/Telangana_mask_covid-EPS.jpg"
+        width: 600
+        height: 390
+        isCached: true
   - title: "DigiYatra face recognition system to be used at Hyderabad airport for 3 months"
     excerpt: "From August 18, passengers at the GMR Hyderabad International Airport will be automatically processed based on the facial recognition system at select checkpoints"
     publishedDateTime: 2022-08-16T11:14:00Z
@@ -52,15 +68,6 @@ related:
       name: Hindustan Times
       domain: hindustantimes.com
     quality: 35
-  - title: "Delhi, Bengaluru airports start facial recognition for quicker boarding"
-    excerpt: "Domestic passengers at Bengaluru airport and Delhi’s T3 terminal will have a smoother experience after the places introduced facial recognition systems on Tuesday. A beta version of Digi Yatra at the two airports will automatically process passengers' entry based on the facial recognition system at all checkpoints."
-    publishedDateTime: 2022-08-15T13:05:00Z
-    webUrl: "https://www.business-standard.com/article/current-affairs/delhi-bengaluru-airports-start-facial-recognition-for-quicker-boarding-122081500802_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 34
 
 secured: "NWEcL5vsNXBebYSs9EHYk4Hsrb32OBn1dZsK7L0NnHCmwDOfyhWzp9tUbjMIkkHzzCfPyFNwT4zsrpZoUsH5RKy+MUf3nrgpkshq2KSdzjPB4KjCC3G3quYPeANKcATCZsVYjTpAxU8q4uBGS4GsdqhmG/rUQ1y2/8xr8IQv9XSqmfYB+WaSu8++b3Ar7CpzhXKUfo71Wb8ghcOu6Nt9zjO6UPesQC5W74hHuHJuoM+ucZX+awuaj42FfAB/aNSg8n4ycLgrupAdVqTRdcLXO1z92XT+9JRV8utR1LVATjLkXVz6shIFY8FGJbDoHSqTV8mnK5sEiaTPihZ9xshgnZ+kY6+xL85ypy2jwNAR+DArHXVk0SwuXZyfUEZkM9azIeR2ErhkQHBm3sxuPV6npa60wgewF3Xp/wUL+Z/zOq302eBCdJMlAZvDadD8xlwVVWAwNHBFdTe63p5dnN7rTeNsD1awHQT7qAN1wA9kMd0/y/DnAzTpv3mTao484FLlQpFtXdbI9nS/q5NWZuyqIA==;xAcFCQ59C8zPFuabaYbsRA=="
 ---

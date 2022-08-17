@@ -9,7 +9,7 @@ ampWebUrl: "https://www.udayavani.com/english-news/tata-elxsi-brings-new-age-sol
 cdnAmpWebUrl: "https://www-udayavani-com.cdn.ampproject.org/c/s/www.udayavani.com/english-news/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-cmo-nitin-pai"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Tata Elxsi Brings New Age Solutions For Driverless Cars, Connected Vehicles: Tata Elxsi CMO Nitin Pai"
-    excerpt: "Pai said most of the company's cloud-first digital platforms have been developed leveraging cloud infra and Amazon Web Services (AWS), which has enabled Tata Elxsi bring all compute intensive developm"
-    publishedDateTime: 2022-08-12T10:18:00Z
-    webUrl: "https://www.outlookindia.com/business/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-tata-elxsi-cmo-nitin-pai-news-215912"
-    ampWebUrl: "https://www.outlookindia.com/business/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-tata-elxsi-cmo-nitin-pai-news-215912/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-tata-elxsi-cmo-nitin-pai-news-215912/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 59
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Tata_Elxsi_1660299460.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Tata Elxsi brings new age solutions for driverless cars, connected vehicles and more: Tata Elxsi CMO Nitin Pai"
     excerpt: "We invested early in Centers of Excellence (CoE) for digital technologies such as AI (artificial intelligence), robotics ... platforms such as AUTONOMAI for driverless cars, TETHER IoT for ..."
     publishedDateTime: 2022-08-12T14:58:00Z

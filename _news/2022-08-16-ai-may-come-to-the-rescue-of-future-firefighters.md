@@ -25,19 +25,37 @@ images:
     isCached: true
 
 related:
-  - title: "5 Ways AI is shaping the future of investment research"
-    excerpt: "Financial analysts need access to high-quality data and information on emerging trends to deliver timely, insightful research and maintain their competitive edge."
-    publishedDateTime: 2022-08-12T10:43:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/5-ways-ai-is-shaping-the-future-of-investment-research-draft/"
+  - title: "Artificial Intelligence comes to the rescue of TN authorities to prevent elephant deaths on railway tracks"
+    excerpt: "The forest department of Tamil Nadu is to set up an artificial intelligence system to prevent elephant deaths due to train related accidents on the tracks between Madhukkarai and Walayar in Coimbatore district."
+    publishedDateTime: 2022-08-15T07:29:00Z
+    webUrl: "https://www.ibtimes.co.in/artificial-intelligence-comes-rescue-tn-authorities-prevent-elephant-deaths-railway-tracks-851363"
+    ampWebUrl: "https://amp.ibtimes.co.in/artificial-intelligence-comes-rescue-tn-authorities-prevent-elephant-deaths-railway-tracks-851363"
+    cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/artificial-intelligence-comes-rescue-tn-authorities-prevent-elephant-deaths-railway-tracks-851363"
     type: article
     provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
+      name: IBTimes India
+      domain: ibtimes.co.in
+    quality: 54
     images:
-      - url: "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2FScreenshot-NLP.png&width=800"
-        width: 800
-        height: 522
+      - url: "https://data1.ibtimes.co.in/en/full/769257/viral-video-elephants-struggling-cross-tracks-prompts-action-concrete-wall-down-watch.jpg?w=570&h=320"
+        width: 570
+        height: 320
+        isCached: true
+  - title: "TN forest dept to use AI surveillance to prevent elephant deaths in train accidents"
+    excerpt: "The forest department of Tamil Nadu is planning to set up an artificial intelligence (AI) system to prevent elephant deaths due to train related accidents on the tracks between Madukkarai and Walayar in Coimbatore district."
+    publishedDateTime: 2022-08-15T07:50:00Z
+    webUrl: "https://www.thenewsminute.com/article/tn-forest-dept-use-ai-surveillance-prevent-elephant-deaths-train-accidents-166855"
+    ampWebUrl: "https://www.thenewsminute.com/article/tn-forest-dept-use-ai-surveillance-prevent-elephant-deaths-train-accidents-166855?amp"
+    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/tn-forest-dept-use-ai-surveillance-prevent-elephant-deaths-train-accidents-166855?amp"
+    type: article
+    provider:
+      name: The News Minute
+      domain: thenewsminute.com
+    quality: 51
+    images:
+      - url: "https://www.thenewsminute.com/sites/default/files/Elephant_rep_Vandalur_zoo_Chennai_PTI_28122017.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "AI may come to the rescue of future firefighters"
     excerpt: "In firefighting, the worst flames are the ones you don't see coming. Amid the chaos of a burning building, it is difficult to notice the signs of impending flashover -- a deadly fire phenomenon wherein nearly all combustible items in a room ignite suddenly."
@@ -48,57 +66,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 49
-  - title: "How is artificial intelligence used in COVID-19 research?"
-    excerpt: "The COVID-19 pandemic has reshaped the world in an unprecedented way, resulting in more than 583 million cases and six million deaths to date. Yet, there is no clear sign of an end to the ongoing crisis."
-    publishedDateTime: 2022-08-12T09:51:00Z
-    webUrl: "https://www.news-medical.net/news/20220812/How-is-artificial-intelligence-used-in-COVID-19-research.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 41
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_722205_16602973888329072.jpg"
-        width: 2000
-        height: 1125
-        isCached: true
-  - title: "Interview: Why the future of advertising is with AI"
-    excerpt: "Modern advertising and marketing in the digital world is about gaining insights and the fast-improving technologies of artificial intelligence (AI) and of machine learning (ML) in particular as pushing the sector forward."
-    publishedDateTime: 2022-08-12T21:55:00Z
-    webUrl: "https://www.digitaljournal.com/business/interview-why-the-future-of-advertising-is-with-ai/article"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 37
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/Meeting-Tim-Sandle.jpeg"
-        width: 1024
-        height: 580
-        isCached: true
-  - title: "AI was supposed to be the future of health care, but it's barely the present"
-    excerpt: "A Cleveland Clinic official is quoted in a Politico article examining why artificial intelligence, so far at least, has made a limited impact in transforming health care. Plus, the Western Reserve Historical Society's library and administrative headquarters renovation project has received a national honor,"
-    publishedDateTime: 2022-08-16T18:06:00Z
-    webUrl: "https://www.crainscleveland.com/scott-suttell-blog/ai-was-supposed-be-future-health-care-its-barely-present"
-    type: article
-    provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 36
-    images:
-      - url: "https://s3-prod.crainscleveland.com/s3fs-public/styles/800x600/public/388410510_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "Imagining the AI-powered future of the financial planning profession"
-    excerpt: "Demographic shifts will pave the way for machine learning tools to empower advisors, says CEO of wealth tech firm"
-    publishedDateTime: 2022-08-12T12:00:00Z
-    webUrl: "https://www.wealthprofessional.ca/investments/wealth-technology/imagining-the-ai-powered-future-of-the-financial-planning-profession/368959"
-    type: article
-    provider:
-      name: wealthprofessional.ca
-      domain: wealthprofessional.ca
-    quality: 19
 
 secured: "Byyc/ocvsxDro52T32NDomHm4m/QXUOoiqYuYOktAhquU6EnhxiGPbpmwo/ALJqo8uE3HC545SQ1KRly46hF/cy+hachDxSFT7RLbkyLqvghICamW3oWXa2B+g4ZJNkE3O70v4q0KLiXFIWA5jsJnJzaVc92cxpQyvo07ImmOIJMF5BDapOO7UrEeJ1DqWQutHg586FIeXrCXvLJQJf8JRIwWfrw0rSUQuEwe1JRJrS8f2RxHuLRXHfpoQ1wWv01WSNtgSt7HkBU/p0nsgFheF9Yp+4u7MERIqdev58/oyXic0y80hzH/oHK5hwH1VlTVPCzqRksDeNbfP+Npi7qh6l2Id04DF+P+s9GGxyBc6Y=;6I+Ma5w4h7r5BhsyPh0NHw=="
 ---

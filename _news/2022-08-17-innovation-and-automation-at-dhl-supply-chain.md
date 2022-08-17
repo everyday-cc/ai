@@ -7,7 +7,7 @@ originalUrl: "https://www.logisticsmgmt.com/article/automation_and_innovation_at
 webUrl: "https://www.logisticsmgmt.com/article/automation_and_innovation_at_dhl_supply_chain"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,16 @@ images:
     isCached: true
 
 related:
-  - title: "Automation becoming integral to supply chains"
-    excerpt: "Today, businesses are being squeezed on all sides. They must contend with high inflation, supply chain disruptions and scarce labour while trying to meet rising consumer expectations for low prices, fast delivery,"
-    publishedDateTime: 2022-08-12T10:33:00Z
-    webUrl: "https://theloadstar.com/automation-becoming-integral-to-supply-chains/"
+  - title: "AI and automation: How will it impact future jobs"
+    excerpt: "The future of automation and AI is a topic that has been debated for decades. Some believe that automation will take away jobs from humans and this will be the end of the world"
+    publishedDateTime: 2022-08-14T11:52:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/ai-and-automation-how-will-it-impact-future-jobs/"
     type: article
     provider:
-      name: The Loadstar
-      domain: theloadstar.com
-    quality: 39
-    images:
-      - url: "https://theloadstar.com/wp-content/uploads/shot_100_02-scaled-680x0-c-default.jpg"
-        width: 680
-        height: 453
-        isCached: true
+      name: India Times
+      domain: indiatimes.com
+    quality: 19
 
-secured: "lPv1HinXgMrF2BDnO3KTiLjPrAjMJbzZuw5gwh7tx7ItnpwlED+IIccRK1H5SHc+KzbK4iOPDP4+PwgeBw62A5sMEoRbM/m1PeVQA++ZBqj4Lgr6IU8QSE/+GPmwAtyO4JrsSUy4j5inVv1UeTopPKAMIobsJDowvqBNR6x0KTPKsBjB2FuwG9plQYZk59uaUDrjXsxVtZaHMsqR6d9KTlOIeUZekchATTGllBlFFl1C0ne2FqZalCfopeE3ar9zHAM20e5n0apxSGHMksU7RJ0JPLnJ6niWYfk6lF8IovQoO0pat8V2A9aDpAzQa09PtugBIKiG34XDsajlExDi4FyhlyhS53v6ew099tHZ0v0=;fIWC1LATbEzVivof7F5cnA=="
+secured: "E2xgNHTBBObavIN1r2ICLiUPFPWFZQ3lnrFXSFUB0j4blChanMBKOgw5PCCo2cyS8jln2g+nMmv4maKSsOtHHxn7TNZcSkXlYl1reUrBJO68YnQNLsc/qcOcnUumXgb/EBTcOxFSkcXW1e9wLStBroHl7THodXjyKwtjsmI2pasiELWxfho49xSQMMh06Bqw1+MWLH9G4x0tMNadnQf9fkbYX5GLRG2vuZZti+qe5EFeG494ELtDxtR1ZrzgKbKtIpv8qGG+YTZgRvZPI0+tlt647GHP0AUfhAXL5CJ/m48Zq2UJ5TOO2vLVs7UwEKH/m48DjOcjdTWA8NDB3bumkNBInKZmzDSi22KiE5IcuLEhieSV8AuVLf9qlODIU7c2RYbmECNVCMQadOh6tnKGiLOQY2aHkbdoUf8/rycvZX1d2AlXgEQ5CqGtUC0OapxDHV2SCj4vQ/uI6PqIhVJzTJXyqoWS9Bwltaemky61sUzcQY6jQ6ntkHDU4D8/cIg6l+nrpEDDMz4b/IVR5S98HA==;8b5GCG8OOAXR7+NpqjvmZA=="
 ---
 

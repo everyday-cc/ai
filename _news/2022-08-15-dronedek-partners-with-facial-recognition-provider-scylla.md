@@ -1,23 +1,33 @@
 ---
 category: news
 title: "Dronedek Partners with Facial Recognition Provider Scylla"
-excerpt: "\"We took note of how Scylla provides users with some of the best and most reliable access control and biometric technologies in the markets today,\" said Dronedek Chairman and CEO Dan O'Toole. \"Collaborative partnerships like these will help ensure our users have a fast,"
-publishedDateTime: 2022-08-15T14:25:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/15/9655776.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/15/9655776.htm"
+excerpt: "Dronedek Partners with Facial Recognition Provider Scylla Aug 15, 2022 (PRNewswire via COMTEX) -- PR Newswire INDIANAPOLIS, Aug. 15, 2022 INDIANAPOLIS,"
+publishedDateTime: 2022-08-15T12:43:00Z
+originalUrl: "https://www.marketwatch.com/press-release/dronedek-partners-with-facial-recognition-provider-scylla-2022-08-15"
+webUrl: "https://www.marketwatch.com/press-release/dronedek-partners-with-facial-recognition-provider-scylla-2022-08-15"
 type: article
-quality: 19
-heat: 19
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-secured: "WqSRd4JmIXmlWKIJMhCmiZMGn4lwngPl3ZrisGpqIu3Ow2p6o4oMAMytUb9d8MB/jYRJENJKjBsGUw5jAmGgsfoJ9R09NarDvEvXVDzpBE6e3svhD1E6L4VoiEFfAEQTYgy+CHC+X7Dy7paFXpeJ6S5NNW8XYoIjIU0oRXyYcF0wWjIVO7tw0sp1H8r/+joSlxbXc+RAPpCC8/khsx8e6JZq7ny/pPTycaz1xj5VwBcCrLepbh8WbbZ9JNjjUdAvMpNC5ocxNKZTgL7wTZPHf0W1QcJsKKAT3DrglGy7Wt8onGsHdMw+CWQzkdxJlcJuqZtWq79/5oT+/XwzanHg66zKZfT7VL3nfJInsMprvHE=;Sq7qzvDQBNOrZCxYtcX8XA=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "pxltJmVdhVMAoYfU8FxgklzT38zg5RjyjSLMs/w+ShcNpWHxPM9VCstL6gzPhnWbDsmu4CCJF6bKopvq+ErWCJmGcYpJJ+fQeFGi5jAMqeI/9190Q5cJntcA3bRX/AOggZcL01IMtXxxhTOUulDN5VniZAW5xr+4yi2vy0kP8u9DD0eyRCWpU5XdeKBVW7Z/v1uJFdRPK/T9HE/I2H8212MRwhVMrvC0nOe/Ce4vMuTqZ1kWZNKNr1Dv+3xjCVsMmOlvsdghywZDTX11BLkx9NKTy5Vond5xs9a/rYwtU17a401/RYxtKDBq27d/hK0TE//GSxL+pnc+2dAnjBiBlQAcXydysEnMnc4OkldSSXo=;GEYdP863J39bdB4FKyiKpQ=="
 ---
 

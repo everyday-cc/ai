@@ -9,8 +9,8 @@ ampWebUrl: "https://m.economictimes.com/news/india/delhi-polices-facial-recognit
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/amp_articleshow/93587861.cms"
 type: article
 quality: 66
-heat: 66
-published: false
+heat: 76
+published: true
 
 provider:
   name: India Times
@@ -25,6 +25,24 @@ images:
     width: 600
     height: 450
     isCached: true
+
+related:
+  - title: "Delhi Police in RTI reply: 80% match in facial recognition is deemed positive ID"
+    excerpt: "The records, shared under two RTI requests and reviewed by The Indian Express, throw light for the first time on how the Delhi Police uses facial recognition matches during investigations."
+    publishedDateTime: 2022-08-17T02:39:00Z
+    webUrl: "https://indianexpress.com/article/cities/delhi/delhi-police-rti-reply-80-pc-match-facial-recognition-deemed-positive-id-8094324/"
+    ampWebUrl: "https://indianexpress.com/article/cities/delhi/delhi-police-rti-reply-80-pc-match-facial-recognition-deemed-positive-id-8094324/lite/"
+    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/delhi/delhi-police-rti-reply-80-pc-match-facial-recognition-deemed-positive-id-8094324/lite/"
+    type: article
+    provider:
+      name: The Indian Express
+      domain: indianexpress.com
+    quality: 54
+    images:
+      - url: "https://images.indianexpress.com/2022/08/facial_recognition_reuters-1200.jpg"
+        width: 1200
+        height: 667
+        isCached: true
 
 secured: "f6qCKRufv5adjq84Q5CYR+p8KEv/f+2gB299hQM/OikP3IG8Bf6W3oU9cPvu15WDJIM7VY1hygywCK7SXiEg4TnVAXctmAn4hwp0FM18Qh5oqJp5kAQ7AXdflsh+cotbMVgW+J13Bu8mT1GTx+//6J+pNHZtZ4z88liah1ztahoOqPJiTHONt8yDEqBeFzpP/IZbKP/JGRDgjqXPlsU6y4dxWEws8v4uDjfdVkHg0JsTFneCoVVqT7fVoN65vCIIUlHr9AxkIWqm/KygBGgoUqEb58uRXis8yAHl3UA2P1zIFgSgwquRtQM4XyoMauol3+G7nxVwbOhSl76exBWNHFSL0x8fc9sNfIM7nmOsHvVdLDLju9ekfepoH/XMFLsgQiYnS6z5ykFrjqPhEIzB8+HQ7Q05MuWbYPOuWxja850PuNCHMytftLpr5536Z9FK0mCclgyybtyopytQ6etEnBCLtAyRUNdDTlgr7eK6DGji7jIxuf5Fr791K46OidoLTUFjLiu+KMGCSajDaFz6QA==;2yjXAoH4P6IDz2GLoohS3g=="
 ---

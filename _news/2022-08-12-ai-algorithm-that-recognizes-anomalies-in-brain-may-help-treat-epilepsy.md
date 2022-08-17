@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/ai-al
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/ai-algorithm-that-recognizes-anomalies-in-brain-may-help-treat-epilepsy/93521561"
 type: article
 quality: 57
-heat: 127
+heat: 117
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://data1.ibtimes.co.in/en/full/774799/brighter-brain.jpg?w=538&h=321"
         width: 538
         height: 321
-        isCached: true
-  - title: "Epilepsy: how an AI algorithm detects related brain abnormalities – new research"
-    excerpt: "Abnormalities in the brain are one of the leading causes of this drug-resistant epilepsy, which is usually identified by MRI scans before surgery is carried out to cure the patient. However, identifying these abnormal areas from MRIs is an ongoing challenge for clinicians,"
-    publishedDateTime: 2022-08-12T09:57:00Z
-    webUrl: "https://theconversation.com/epilepsy-how-an-ai-algorithm-detects-related-brain-abnormalities-new-research-188610"
-    ampWebUrl: "https://theconversation.com/amp/epilepsy-how-an-ai-algorithm-detects-related-brain-abnormalities-new-research-188610"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/epilepsy-how-an-ai-algorithm-detects-related-brain-abnormalities-new-research-188610"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 52
-    images:
-      - url: "https://images.theconversation.com/files/478787/original/file-20220811-23-h5237v.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
-        width: 320
-        height: 213
         isCached: true
   - title: "Cure For Epilepsy Not Far Away: New AI Tool Can Detect Brain Abnormalities That Cause Epileptic Seizures"
     excerpt: "This new toll can detect abnormalities in focal cortical dysplasia (FCDs), which are a leading cause of drug-resistant epilepsy."

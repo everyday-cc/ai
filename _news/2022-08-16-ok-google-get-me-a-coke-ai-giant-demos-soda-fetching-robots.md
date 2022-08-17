@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/ok-google-get-me-coke-ai-giant-
 webUrl: "https://www.reuters.com/technology/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-2022-08-16/"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://c.ndtvimg.com/2022-08/lb76gmp_reuters-image_625x300_16_August_22.jpg"
         width: 1485
         height: 1015
+        isCached: true
+  - title: "OK Google, get me a Coke: AI giant demos soda-fetching robots"
+    excerpt: "MOUNTAIN VIEW, Calif.,  - Alphabet Inc's Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
+    publishedDateTime: 2022-08-17T02:38:00Z
+    webUrl: "https://www.asiaone.com/digital/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 37
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Aug2022/170822_google_reuters.jpg?itok=Rj-UQIKE"
+        width: 800
+        height: 567
         isCached: true
 
 secured: "9cmMD7+WKlyDhE3UXvMAcOz+R/s/ZLJZk5rFSRkzEkXJU9FuELf7sPOfweMkzmO+o+/uMGyjITTu1C4oAr1WZh6f+A2/FjSIQ4rA3Aq/3HfBPDu4e+fiHKN8Z/C6J5dPtSMh+cUErpzZlxEGXyZqp85G1z5yM2zheKD03eyNqqbtn3ocHSENrsytIHwMaVkPAAHYmkMEEsgUh8YW+DCcvBnrlBA7BvkFXwkyzcLOAvG51Zqf1OSPLU5yce9MURmxgzrXF2J2/WGBWF9gaN6CuK7xASF9K9IjCf8pJ1CO7YByo0fBfR81WkUUyMGNoDH7RIT06HGwlcP6U60hEPHJYabGHwDGcmRjyTiMggh1a9Xk69M9Oad1Y5GqpZTzB5mHxArZNgahiLT+R3DJBaXt0ptrjxLYNwz6xBFfdLURd6TivylA89x5049rsSRcHW4cM5L9BDOCXD9PXjkxe6rRjmG6b0fR84HHa8LzMaTUem/aLoORlVRRHxon8WB/BotTJBjvVtpAwIqneh8ctbOQVg==;sY2AlnM0SF0DzyNYOig2cA=="

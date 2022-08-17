@@ -1,30 +1,28 @@
 ---
 category: news
 title: "Computer Vision Market to Grow at Healthy CAGR as the Potential keep on Unwinding | SkyQuest Technology"
-excerpt: "According to SkyQuest, the global computer vision workforce will grow from 190,000 in 2016 to almost 485,000 by the end of 2023. This growth is due in part to the growing demand for applications such as facial recognition and autonomous driving."
-publishedDateTime: 2022-08-04T12:23:00Z
-originalUrl: "https://www.marketwatch.com/press-release/computer-vision-market-to-grow-at-healthy-cagr-as-the-potential-keep-on-unwinding-skyquest-technology-2022-08-04"
-webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-to-grow-at-healthy-cagr-as-the-potential-keep-on-unwinding-skyquest-technology-2022-08-04"
+excerpt: "Westford, USA, Aug. 04, 2022 (GLOBE NEWSWIRE) -- Computer vision market has seen a rapid increase in popularity recently, with businesses and consumers alike turning to the technology for a number ..."
+publishedDateTime: 2022-08-04T08:24:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/08/g28352684/computer-vision-market-to-grow-at-healthy-cagr-as-the-potential-keep-on-unwinding-skyquest-technol"
+webUrl: "https://www.benzinga.com/pressreleases/22/08/g28352684/computer-vision-market-to-grow-at-healthy-cagr-as-the-potential-keep-on-unwinding-skyquest-technol"
+ampWebUrl: "https://www.benzinga.com/amp/content/28352684"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28352684"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
+  - url: "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g"
+    width: 300
+    height: 250
     isCached: true
 
-secured: "RVFPBh6/D5RxTK9v5VV8LKlJNvBnF9NMydawXmC6qPkNoZxQUf6tdOyqwXSWFROSAlOjH+fLj1SspUJJ8GDQvLqBbIZ44KwY7n+WI5wW7UtZxMPsL9nSJia3as8mqysp4ZwOTXaxXK7WYD7X/K6d6IaxLw2uxBVfmu1V/rY8Uayaw2A6AFCf5QlPyRSFoWYbzRh21gztz+t63iqWMNgV/Gs0SJRwCaYrNccZ9jEF7kNrN4PE5nY7/iZkOw8ThUNWCwVcAVxB8BxE9371WQdiN58Byx494+qhyij4RBq5W0VEnRE6yGRbiCqM1/eb15HDXxvrHVLW8eOQ4n5YkTlmtAzhqY9/7ECYQMaWbkXFyUc=;wa+VY75kv6LfYoMee3simA=="
+secured: "vPeMoiKr3vrwvIn/k6GRysE2iLv21M6ZKmxbWha73T/TyXluMfNtVqKr7VJ+bwo2FRqB5w9z540CHjqhZEF9xg97JrZYESs1pwqn13g1+EztgyfIkZVSJ2Du1zu0Wpo41KNkTlosEb6hLMJrd6RqzPNr64k/9x2eqQpfefrkaclF4b08dsy/ckoO3XALbJHQcvwLH+kCB+0idCRyAU9t8FloY2VMcW8FbY+r5QBlx2b0NLM9g4/5EAQQ56SnLk8sxmRIzOmuIDQgGTjRtN7kzFFpnlBBk9F/oCvNJU59pAQwDHA8Kd5SDgo/rLY3t+hVvwuYyPjpmvF0I3E5jC8KjxroLFFv3xMhFBBXg8OiaIU=;IcAQpDSXXNLstID3cMGhVw=="
 ---
 

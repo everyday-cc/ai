@@ -42,6 +42,29 @@ related:
         width: 570
         height: 320
         isCached: true
+  - title: "AI may come to the rescue of future firefighters"
+    excerpt: "In firefighting, the worst flames are the ones you don't see coming. Amid the chaos of a burning building, it is difficult to notice the signs of impending flashover -- a deadly fire phenomenon wherein nearly all combustible items in a room ignite suddenly."
+    publishedDateTime: 2022-08-12T18:25:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/08/220810161024.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
+  - title: "AI May Come to the Rescue of Future Firefighters"
+    excerpt: "Researchers digitally simulated more than 41,000 fires in 17 kinds of buildings, representing a majority of the U.S. residential building stock."
+    publishedDateTime: 2022-08-16T03:44:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/emergency-preparedness/ai-may-come-to-the-rescue-of-future-firefighters/"
+    type: article
+    provider:
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 39
+    images:
+      - url: "https://www.hstoday.us/wp-content/uploads/2022/08/Flashover.png"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "3Oj4TNaDhFza7rC6VsjbBfGp1f4K+J32JI2Y01IBzZMaBABiwiFJ7oi4kv8M7CHm/uiSjCG6rP7dYmECDM7s1RQl5ZpCtmWdAWxGhC8UVAqg/dwxhING5TVxy3bpBWRWhB43PQJZZf1HmVNrq+7HqJi2oIRFYlOiAstap0RFhJVnfR9nehgaeT+PT+YNI7iMEg9i//HIPtdySOHNy0ZPN5+V8zZk0t1qC0X4Y+//K/jKM3aFlKuwmO6U5jIB3xggOgQYDAzY27Xpe/Dwt4vgUjYiDj9N61wB1oa3K3LSA2kHPj4/yj/9MniN5waFLEqiAGCrvEkYPdYn53Z9TV/8aVv+8cWjRr/mXQlvsEFMHutbipB7ALkmUa8O5xm+c/LESqmmgK8OawbfwLMTWdZhD5+cqTAY/kL5LaEfAiWcrG3QmYMYpPoduBMeN8dIXDY9SXji5ad6IwUrSfs6RwBS+A9bYeSBbGAe1QONcbuW/xKe3uHs/B8yN3nv7IRYM4tLpSuVPoBfCK0BDf6MeTdwSw==;YfAng2kLPneCN6pig3a2tg=="
 ---

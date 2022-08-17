@@ -26,14 +26,14 @@ images:
 
 related:
   - title: "Datadog Extends Monitoring for Microsoft SQL Server and Microsoft Azure Database Platforms"
-    excerpt: "(NASDAQ: DDOG), the monitoring and security platform for cloud applications, today announced expanded monitoring for Microsoft SQL Server and Microsoft Azure database platforms. The announcement builds on Datadog's Database Monitoring product,"
-    publishedDateTime: 2022-08-16T22:25:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9657272.htm"
+    excerpt: "The expanded support provides visibility into query-level metrics and detailed explain plans so all Microsoft customers can benefit from Database"
+    publishedDateTime: 2022-08-16T20:10:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database-platforms-1031688288"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 44
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 74
     images:
       - url: "https://mma.prnewswire.com/media/1730117/Datadog_logo.jpg"
         width: 400

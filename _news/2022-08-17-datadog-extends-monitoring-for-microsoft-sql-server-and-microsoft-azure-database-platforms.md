@@ -1,18 +1,22 @@
 ---
 category: news
 title: "Datadog Extends Monitoring for Microsoft SQL Server and Microsoft Azure Database Platforms"
-excerpt: "(NASDAQ: DDOG), the monitoring and security platform for cloud applications, today announced expanded monitoring for Microsoft SQL Server and Microsoft Azure database platforms. The announcement builds on Datadog's Database Monitoring product,"
-publishedDateTime: 2022-08-16T22:25:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9657272.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9657272.htm"
+excerpt: "The expanded support provides visibility into query-level metrics and detailed explain plans so all Microsoft customers can benefit from Database"
+publishedDateTime: 2022-08-16T20:10:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database-platforms-1031688288"
+webUrl: "https://markets.businessinsider.com/news/stocks/datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database-platforms-1031688288"
 type: article
-quality: 44
-heat: 44
-published: false
+quality: 74
+heat: 84
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
@@ -40,6 +44,6 @@ related:
         height: 630
         isCached: true
 
-secured: "h1nWwMxE42/oE6v2+3l5xW1Hy4chUgI528eOUZKJT2HkYx28B/5ArfRqOhv+c5eex4ZiyGQURmQZ/e51RnzsXZG4dbeoSEDn/+kSJiV+YUj8ynoNKJsR3VS3ZQhXObzAXKMFEKCvSwaVSY42Dqr44PUIiOAqlt4i8xkGhvItBV2Grdnkxkl9WcRKMwz06Afjfm+MheTku/73DyVoILa6OZ+rZ6KJCRD8m5oNAORWoIaxCW8RPEJVG+d9/TMKsG0unpP+xxM2GopwjLY9+VwNwNI10m/Z4KXBcfT7nWQWXPbkvUgJfoxztSvcXbUnsP+lA4T/K301gxLvKOZDWdoMh5TnfqX/u58e9yAsnaWk+Vc=;TaEvW7PmGb0tVh/4j/Usfg=="
+secured: "UmeuaJH4zSi3CQWVvHdGFUkvzUH+ezSATtH+AsoahSD8y9WJnISfHXVY8OEeyxJ6jgaLSm8JG/phqwSKvO/UIXBuF4rdaaAm1ZNLqHnhY9dGs7jiyu33JT4Dti/yQ+StzcPSQRweXSQPPN2JG5b1UjDYCpOeJ6p27V1zxwlJR0LjOqYIRo40BF3u906y0O2ECo5Bxe4aujZ1Vxg4uQc30CXU9NafJ4+L3/GFLasJThngniJPRXWhetDR9RM4vsd/+Im0gLTaGUKZwTrRU7mJbnIltPv9d3mbsLUnJ9yiD0AnzMV+uDB3K4+9oBuUm+coupvW/+tAPhW50xwnE6JzDxAfKQ9HYT4za7292M7cPHI=;f/+5GggEq4vTGU1q7XTVCw=="
 ---
 

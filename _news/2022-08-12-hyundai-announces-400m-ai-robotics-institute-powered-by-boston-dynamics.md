@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/12/hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics/amp/"
 type: article
 quality: 118
-heat: 238
+heat: 228
 published: true
 
 provider:
@@ -88,22 +88,6 @@ related:
       - url: "https://finbold.com/app/uploads/2022/08/Hyundai-launches-Boston-Dynamics-AI-Institute-to-bolster-advancements-in-AI-and-Robotics.jpg"
         width: 1280
         height: 853
-        isCached: true
-  - title: "Hyundai to spend $424 mn to build AI research centre in US"
-    excerpt: "As a component of the arrangement, Hyundai said it has as of late gained 42dot, a Seoul-based independent driving programming and portability stage startup, for 274.6 billion won ($211.1 million)."
-    publishedDateTime: 2022-08-12T09:55:00Z
-    webUrl: "https://www.thestatesman.com/business/hyundai-spend-424-mn-build-ai-research-centre-us-1503099657.html"
-    ampWebUrl: "https://www.thestatesman.com/business/hyundai-spend-424-mn-build-ai-research-centre-us-1503099657.html/amp"
-    cdnAmpWebUrl: "https://www-thestatesman-com.cdn.ampproject.org/c/s/www.thestatesman.com/business/hyundai-spend-424-mn-build-ai-research-centre-us-1503099657.html/amp"
-    type: article
-    provider:
-      name: The Statesman
-      domain: thestatesman.com
-    quality: 59
-    images:
-      - url: "https://www.thestatesman.com/wp-content/uploads/2021/04/Hyundai-Motor-ians-1024x683.jpg"
-        width: 1024
-        height: 683
         isCached: true
   - title: "Hyundai To Spend $400 Million To Found Boston Dynamics AI Institute In Massachusetts"
     excerpt: "Hyundai Motor Group today announced that it will invest $400 million to create a new institute whose goal will be to make fundamental advances in artificial intelligence, robotics, and intelligent machines."

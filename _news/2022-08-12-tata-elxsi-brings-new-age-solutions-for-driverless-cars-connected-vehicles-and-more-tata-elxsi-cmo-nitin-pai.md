@@ -43,23 +43,7 @@ related:
         width: 620
         height: 366
         isCached: true
-  - title: "Tata Elxsi Brings New Age Solutions For Driverless Cars, Connected Vehicles: Tata Elxsi CMO Nitin Pai"
-    excerpt: "Pai said most of the company's cloud-first digital platforms have been developed leveraging cloud infra and Amazon Web Services (AWS), which has enabled Tata Elxsi bring all compute intensive developm"
-    publishedDateTime: 2022-08-12T10:18:00Z
-    webUrl: "https://www.outlookindia.com/business/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-tata-elxsi-cmo-nitin-pai-news-215912"
-    ampWebUrl: "https://www.outlookindia.com/business/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-tata-elxsi-cmo-nitin-pai-news-215912/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/business/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-tata-elxsi-cmo-nitin-pai-news-215912/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 59
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/Tata_Elxsi_1660299460.jpg"
-        width: 1200
-        height: 675
-        isCached: true
 
-secured: "W76nTKAtMb0s5nSyDZ/h4fm6nIk77DzuldzbzsbQg+FeJH3XcDgrFTjYaR/SvsQAIeLu12kwH1lRAVuoNTtJbXCVEJWf+WfkfTVJLwW8wOL4+ab4yR+AtkYly673OOSPJ1xQqzEo0JdBdlMUYDxvQixrrpSg4XUZbNtefV5k2xlfB901kk0Zi6/pmo/IA/KtEM+BfqX8uAazMsdNB6g0n6w+ePJ6Dw8BI6sjyV/0NTtYJmo0GZ3qKtPvgZ+OxfNHryxzvsH7nO0L0VqzCHPzEn8CqnZOiyE/ouPCATbUxyOU59ZbeRJmAtAVCO0DosSssyrLTg0EwaRFO+lB5FTgj4Uba4c7a+k9trz0AMnuGzg=;/LQwfyHckewdtTCWLyaxHw=="
+secured: "ArkAJM5E3r2OLeHuLHhMslucYIyzCpV7Vt0sRY1BNYeiEM3WF1B5dhczwHhZ6f7lOhwFW0nb/FKwuVWYA0J2UDmUBjczN0mDbUh5kO+OB9d/kKsS25ymSKMafd22e5W1d6Dl7i8L31xLVE6CPXKwQDQ6iwUkpnXuXOsqvfOmQIEKlakEI1HXO1gxSWsvSKSJBEmLeMkO9pZSLCiquCnQ65drepNt/+qMOadb5VlBWn0HlWBntb/bWsYJK+FYff5Y1CPMemrV4FRBp7vQgZ198EMcGbaJIHjllOQp2v0fmUsmPeOdzx16sZ+dhlBwtgCTkaePCF89yZVPGLKY6f1SToAYz6AG2Im91pkGYTr5ItQ=;IfJvr5395+8aAdPP8HVqeg=="
 ---
 
