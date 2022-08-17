@@ -2,7 +2,7 @@
 name: "Tanium"
 overview: "Tanium is a security and systems management platform allowing real-time data collection at an enterprise scale."
 type: "profile"
-heat: 71
+heat: 78
 
 website: https://www.tanium.com
 
@@ -12,7 +12,7 @@ crunchbase:
 twitter:
   username: "Tanium"
   url: "https://twitter.com/Tanium"
-  followers: 7051
+  followers: 7052
 
 locations:
   - Emeryville, CA
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Tanium"
 
-secured: "hQOCMrOaCz0YIIcCeeAupO2Gq2sa7Q4xFlQOkxOqKoByUZREx1C1Ax01yHHVuInWXcl0vDSO60i5D1vsIJnTRpjmEvTPZqI/8/wrGJGYqFhC6VTKOa18+DfDkgg/QtKGZnwQYPza10VI19kICu3WmP99VaZpK/NtCHQUlz6QU1J8vDGrHreeVxbTmK0v5Bzed16XGHnPfEmo9exwbTpaD6qPqa/AbEPwipK4r1kB+0v4Ror1R9XZiibpfXfmzJILNvI2PhsZxY66/wpg63/pXXHBBfjWtEeMG8y67D3d3w7JKcRHixKjyp5srE5eFrvqca5CQ0oJKP+FWocTiJCAXmbl3KFPWbzbF9NK3now5tzCsh9mmxMaguyaLZA3OrJvUryiNYXzOdzJ9/biDFdduJ9GGmMUKYFY/4aS5LQAGl0=;cO4y0zoHbQDxD1IjLtmn3g=="
+secured: "FcVkv2KfwaokHvJcZGOkuBFHybI7YiHXPl7f8r834yaE3IGdZurbWdF+8WLGYu0GeBx23ab2MJnMfL3rCx5qOOCpMudeHBRGMREZ2MOqRMq+ZbLHG6DyQ6yAopjg3QHjzVEYa9eDplfQ2a0I2Q2RoiUVwPfulKUoAs3putXWZxjT0+SfXEDUNHVARbRTKvQlhfzEtPhzqh/wffkRXX3l74eF47IxRtD5v9M1ICvnOM1Y9F5JMNSrd9BY1XiEF7uo8aPWIkJa9LuxSCAbSV0AqqDnBo1rl2BhoW6qenciQade6xLxPF448TJujZq+EPh+iNFX9r6GCnq8TXOSPuPXbT9hRcOLf2T7hWyynQuV4nXMoGgPL+H/xw2Zno5r0KOMo+C97/ni2LNhUFgTnHpNbzBCQSRJMXFTZrFrlh0pbmk=;X2WiF57n8PD88iBoYc6a/g=="
 ---
 
