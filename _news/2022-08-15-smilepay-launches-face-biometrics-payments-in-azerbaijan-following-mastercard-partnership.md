@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202208/smilepay-launches-face-biom
 webUrl: "https://www.biometricupdate.com/202208/smilepay-launches-face-biometrics-payments-in-azerbaijan-following-mastercard-partnership"
 type: article
 quality: 30
-heat: 30
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 2048
     height: 1536
     isCached: true
+
+related:
+  - title: "Fintech SmilePay Introduces Face Payments in Azerbaijan"
+    excerpt: "SmilePay has reportedly entered agreements with food retailers in Azerbaijan to allow consumers to purchase their groceries using their faces."
+    publishedDateTime: 2022-08-18T03:24:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/08/194877-fintech-smilepay-introduces-face-payments-in-azerbaijan/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/08/194877-fintech-smilepay-introduces-face-payments-in-azerbaijan/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/08/194877-fintech-smilepay-introduces-face-payments-in-azerbaijan/amp/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 61
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/02/Happy-Smile-Flag-Ocean-Shore-Water.jpg"
+        width: 1280
+        height: 1039
+        isCached: true
 
 secured: "mjc8R87zmKN9N8MtN1br0iZ5+tR4HaF5GY04S/NOP2zaxckz7Yj2Ge5w1yedGWw8+uOm5xPjUf5/MWBquhdUYqyA/V0rS5Uq1Us+aGtJVbG4OXF+woEnhJLXGjvr2WGndqbBkLLOLXLDo2Rjj9OKdtc/ZAZuHMJBJghOtCpQnnyxH1YXT2iftbvNgkLGR/r3bR3k7ba3NPfkXu3nrYCeB4rCgmrTi5ogbqLNArPATo2/BnM+ZWdfudSncuk6RqHFywrNX2FgMrtkqOEh6lk2A0PXjYCZ0MNHXtg6nwT5RAKlTXzsYz44WUBMqQcVXX2lje7f8GqKsPbG53s6gNH87P4f5IJvpWwjaAb/OU7qKcaPC56C3O1eyQuBO1tunPcwfyr98+43ZiBIU9CRDBrIVNIZ1vlScrCRgV0+frcv8HOnfEWuDrs0rlbL6qO7TV/CCgBu2ZtGsEIPLSUr+KLN96Qa8uOex6DX/X83z6M6YtkIPoSyC32qq8I9iqVO6rjFujFETZ1DbbTpq1/bul6VOA==;/21ePHLOgf1puCXJnqI9WA=="
 ---

@@ -2,6 +2,126 @@
   "page": 43,
   "value": [
     {
+      "path": "_news/2022-07-12-stm32cubeai-your-software-tool-to-optimize-artificial-neural-networks-on-stm32.md",
+      "title": "STM32Cube.AI, your software tool to optimize Artificial Neural Networks on STM32",
+      "excerpt": "This webinar introduces Artificial Intelligence for edge computing and shows you how ST's offer can help you run Neural Networks on microcontrollers and microprocessors. Thanks to practical examples, you will learn how to run Artificial Neural Networks and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.st.com/content/st_com/en/campaigns/stm32cube-ai.html",
+      "originalUrl": "https://www.st.com/content/st_com/en/campaigns/stm32cube-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.st.com/content/dam/logos/open-graph-logo.png",
+          "width": 750,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T22:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ST",
+        "domain": "st.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-aws-selected-as-deltas-preferred-cloud-provider.md",
+      "title": "AWS Selected as Delta's Preferred Cloud Provider",
+      "excerpt": "Global airline uses AWS to deliver new digital travel services, streamline processes, enhance customer service, and provide cloud training to employees globally Amazon Web Services, Inc. (AWS), an Amazon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/b28027127/aws-selected-as-deltas-preferred-cloud-provider",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/b28027127/aws-selected-as-deltas-preferred-cloud-provider",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
+          "width": 900,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28027127",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28027127",
+      "publishedDateTime": "2022-07-11T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-apples-self-driving-car-effort-stuck-in-low-gear-report.md",
+      "title": "Apple's Self-driving Car Effort Stuck In Low Gear: Report",
+      "excerpt": "Apple's quest to produce a viable self-driving car remains stalled despite years of work, with its team plagued by setbacks as rivals race ahead, The Information tech news website reported Monday. Buzz surrounding a potential Apple car began some eight years ago with the vehicles being touted as the first new \"big thing\" from the company since its iconic co-founder Steve Jobs died in October 2011.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ibtimes.com/apples-self-driving-car-effort-stuck-low-gear-report-3570179",
+      "originalUrl": "https://www.ibtimes.com/apples-self-driving-car-effort-stuck-low-gear-report-3570179",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Business Times",
+        "domain": "ibtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-new-ai-tool-could-help-diagnose-alzheimers-disease-earlier.md",
       "title": "New AI tool could help diagnose Alzheimer’s disease earlier",
       "excerpt": "A new artificial intelligence language-processing tool could potentially help detect cognitive impairment and mental degenerative diseases like Alzheimer’s, researchers at Boston University say.",
@@ -1010,144 +1130,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too.md",
-      "title": "Research: Artificial intelligence can fuel racial bias in health care, but can mitigate it, too",
-      "excerpt": "While some artificial intelligence algorithms do indeed exacerbate inequitable medical care, other algorithms can actually close such gaps.",
-      "sourceUrl": null,
-      "webUrl": "https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/",
-      "originalUrl": "https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://journalistsresource.org/wp-content/uploads/2022/06/artificial-intelligence-g55ddc4275_1920.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Journalist's Resource",
-        "domain": "journalistsresource.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-the-35-best-amazon-prime-day-2022-deals.md",
-      "title": "The 35+ Best Amazon Prime Day 2022 Deals",
-      "excerpt": "Amazon Prime Day 2022 is finally here. Check out the biggest discounts we’re seeing on the very best, Wirecutter-approved products.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/",
-      "originalUrl": "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.thewirecutter.com/wp-content/media/2022/07/early-prime-day-2048px-3x2-v6.jpg?auto=webp&quality=60&crop=1.91:1&width=1200",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/amp/",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/wirecutter/money/best-amazon-prime-day-deals-2022-0711/amp/",
-      "publishedDateTime": "2022-07-11T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-chip-subsidies-are-popular-in-congress-they-still-might-fail.md",
-      "title": "Chip subsidies are popular in Congress. They still might fail.",
-      "excerpt": "The Democrats have an ambitious legislative agenda following the July recess. Chip subsidies hang in the balance, and Sen. Mitch McConnell wants Democrats to stay focused on them.",
-      "sourceUrl": null,
-      "webUrl": "https://www.protocol.com/policy/congress-usica-deal",
-      "originalUrl": "https://www.protocol.com/policy/congress-usica-deal",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.protocol.com/media-library/chips.jpg?id=27984646&width=1500&coordinates=1136%2C0%2C1136%2C0&height=2000",
-          "width": 1500,
-          "height": 1999,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.protocol.com/amp/congress-usica-deal-2657637793",
-      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/congress-usica-deal-2657637793",
-      "publishedDateTime": "2022-07-11T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Protocol",
-        "domain": "protocol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

@@ -39,6 +39,15 @@ related:
         width: 597
         height: 597
         isCached: true
+  - title: "Optasia one of top 25 Fintech companies in the MENA"
+    excerpt: "Optasia enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets.. Optasia one of top 25 Fintech companies in the MENA. Artificial Intelligence,"
+    publishedDateTime: 2022-08-18T04:00:00Z
+    webUrl: "https://www.itp.net/emergent-tech/optasia-one-of-top-25-fintech-companies-in-the-mena"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 4
   - title: "New Venture Fund Provides Investors Exposure to the Disrupting Fintech Sector"
     excerpt: "FinTech Fund II has raised $1.9 million to date and has deployed initial capital into four investments: a diversified blockchain fund that seeks out venture equity along with early stage and established token investments,"
     publishedDateTime: 2022-08-17T16:06:00Z

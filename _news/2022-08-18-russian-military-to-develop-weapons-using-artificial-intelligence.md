@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-18T00:25:00Z
 originalUrl: "https://www.defensenews.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/"
 webUrl: "https://www.defensenews.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/"
 type: article
-quality: 37
+quality: 39
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.defensenews.com/resizer/_rde8-COgWmH1TbZjOSwz89PbVA=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/42I76S76MFE2RN5JSNIER6RHIU.jpg"
@@ -55,6 +56,6 @@ related:
         height: 482
         isCached: true
 
-secured: "Hct/4EOEbjRbb+64xzba9jJ8qA0A/GVXAxgU+x3NPkNxAbwFL+I6Y+FQooY6Qed3QFU4CzXM/NqCGbMhEWHONQnilpvhMjCpMir1MworyJOLXAaAypxRrLcw+gXsUdusnSeuVXpNbClXyuRipLz5YdRRdxCV0/BCCdbWtMg4NSSFt1jSuEhqGB8ER4pv9gJuYh6jJG5uglYGIFqaHEUuqmf4RAi3pYz50HVSqwgs9v0y/KIq2Wb0zLlGGYjk4BQse76EyAGBTdpouanBOPU+wmD7Q8ipkBPHK6jV6qVEGME2y6Q6wFwlk+uMC4HOt3+I02jaOjMLGTGzWxmsF3pINw80hu4rEjRawzuej+Y+tuA=;G+N62O4BLS9uAXTqxD/N9g=="
+secured: "4iPSW2eQywuqT/hobtn2dCF6Babd7TWo+iLmCWjgQ+PkP6PYLUcknMRQKucBSwqcivv4nxcqemx9XkxlKcPwt044MxXTDO7kLaB7f8R7QDXzJk4/wGNCJBTa0gb0h2STuM4J3uigvMK/gUotIev3H0CaqLDlUeFK65O+vK9C9Wieo6BfZ24X+VIFgYS/JrJ5rpQhsYkUgxkmbLAZxiG7tn26GCCyXx9JAj/DgelahUb0CdIi0R5QMzf0JVNdtxKLYW4oPJ8+RN7fKxuxBe/XkhrfBg3tKSFMaq+836Sld4JzC0m7YSx29q8qwwyaUlAf6YOdLNizJFkj4gjrueYsi778SbVz41ScbgZ50AEGj4obJiInKPvJzSKDSXNnrGUsSpR36NvqhpHZ7HFEwhdvI8eGIKxpYzgZJhwRjyU1r72KTvLpUWtAaKPbt48pbZ5YH+g7KCO5tCDa7QcykE1rbEGkm+cl3T1d+7bLY2oXQcNa0JGZ4bu0PFIRG9fxsOTMSt0r5n/Lz+PBUC5h30ZLnA==;LYAO1LLzduXRIfm6anamPg=="
 ---
 

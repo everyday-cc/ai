@@ -1,25 +1,31 @@
 ---
 category: news
 title: "AI Gaming and Esports Startup Regression Games Raises $4.2M in Seed Funding from NEA and a16z"
-excerpt: "Regression Games, the AI gaming and esports company, today announced it has closed $4.2M in seed funding led by New Enterprise Associates (NEA) with participation from Andreesen Horowitz (a16z), BBQ Capital,"
-publishedDateTime: 2022-08-15T14:43:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/ai-gaming-and-esports-startup-regression-games-raises-4-2m-in-seed-funding-from-nea-and-a16z-1031684331"
-webUrl: "https://markets.businessinsider.com/news/stocks/ai-gaming-and-esports-startup-regression-games-raises-4-2m-in-seed-funding-from-nea-and-a16z-1031684331"
+excerpt: "AI Gaming and Esports Startup Regression Games Raises $4.2M in Seed Funding from NEA and a16z Aug 15, 2022 (PRNewswire via COMTEX) -- PR"
+publishedDateTime: 2022-08-15T14:30:00Z
+originalUrl: "https://www.marketwatch.com/press-release/ai-gaming-and-esports-startup-regression-games-raises-42m-in-seed-funding-from-nea-and-a16z-2022-08-15"
+webUrl: "https://www.marketwatch.com/press-release/ai-gaming-and-esports-startup-regression-games-raises-42m-in-seed-funding-from-nea-and-a16z-2022-08-15"
 type: article
-quality: 36
-heat: -1
-published: false
+quality: 56
+heat: 76
+published: true
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
+  name: MarketWatch
+  domain: marketwatch.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "Regression Games raises $4.2M for AI gaming and esports"
@@ -46,6 +52,6 @@ related:
         height: 993
         isCached: true
 
-secured: "++01hhgwHvLNUKcFqanKyzjqJn8iIlQfJWZa5B/Z5dAswbUWU56hwXYt/WukSYaoKVN3fbRYAPXVfiX6tZnsI3Pyqe7JDFdII/y1QTOAvGGCG0S7oUaLc11qcqYXb80rstj7aW6dZPBuHPdQdd1hKCACxVFlZeY6vjvOspofi+BHI/PMZTfZk/ObTumU1eR5p6sz9wDFOrAAT5kW1TTRVGxD/LquI1hJlINsvKSrSTSDo20ud1l19LS1MvE5H8KM54ogJU4vNXrHHTii4XcFl1cMX89m6eFAvPwRdc7Xp5PxIVU7e92rCAmeNxUltOJaJ7q8OWxh8TUq/ec+P+hQRp/APpnZUHy5unEiY2wFCMk=;FpkLqNillXYClbfu/i/x8g=="
+secured: "mKGJnebM7UTlJUZWq/CUN1bxJCiaoBE1De4hJXgbYqJRPXwngREAR59W7OTukyK3i0+NQ0NFKTbIfYQK6ARCG44mMIVhObrzzYq2VX37o/RjS15KvSECa4ncXKjB0o4nhMGTHgoGFIwjw8egwyPMxwgOvcf7BnH5UWMJqNIDPw9zk+gF76n43eAai/abr44RymJoY5zvKD75Dj1z9XHMzym+P2lROG1dbVN0DkfQOqRpE7zlSRfzQN9mAINlcymt9shqChehzmiKW1vpKKnTmQSIX6ELzZQI7QqYfvr1Na/GhYLBulSTMu3eILFZrG/OCyPXXDvg+fW3au5vnpZJvq+MGlG17Qdj3F1ryCF7iVY=;NtbyCBxnvCw4u0OgXSAdtQ=="
 ---
 

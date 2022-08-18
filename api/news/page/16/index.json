@@ -2,6 +2,135 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-08-02-octo-works-with-aws-to-deliver-data-mesh-solutions-for-federal-government-organizations.md",
+      "title": "Octo Works with AWS to Deliver Data Mesh Solutions for Federal Government Organizations",
+      "excerpt": "Octo is working with AWS to offer its data mesh solutions to federal government customers seeking to source, manage, access, and further protect critical analytical data at scale. RESTON, Va., /PRNews",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/08/n28310006/octo-works-with-aws-to-deliver-data-mesh-solutions-for-federal-government-organizations",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/n28310006/octo-works-with-aws-to-deliver-data-mesh-solutions-for-federal-government-organizations",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28310006",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28310006",
+      "publishedDateTime": "2022-08-02T06:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-inmoment-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-for-best-ai-based-solution-for-retail.md",
+      "title": "InMoment Recognized for Artificial Intelligence Innovation in 2022 AI Breakthrough Awards for Best AI-Based Solution for Retail",
+      "excerpt": "InMoment®, the leading provider of Experience Improvement (XI)™ solutions, today announced that it has been selected as the winner of the “Best AI-based Solution for Retail” award in the 5 th annual AI Breakthrough Awards program conducted by AI Breakthrough,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-2cb1432dc38440639eadcd99ea755d30",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-2cb1432dc38440639eadcd99ea755d30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-wimi-hologram-academy-deep-learning-hardware-technology-based-on-in-memory-computing-structure.md",
+      "title": "WIMI Hologram Academy: Deep learning hardware technology based on in-memory computing structure",
+      "excerpt": "WIMI Hologram Academy, working in partnership with the Holographic Science Innovation Center, has written a new technical article describing their exploration of deep learning hardware technology based on in-memory computing structure.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-science-virtual-worlds-b6a02870c7032be909c54dbc05a0af37",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-science-virtual-worlds-b6a02870c7032be909c54dbc05a0af37",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T05:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-symphonyai-appoints-vice-president-of-artificial-intelligence-and-machine-learning.md",
       "title": "SymphonyAI Appoints Vice President of Artificial Intelligence and Machine Learning",
       "excerpt": "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today that Pushpraj (Raj) Shukla has joined the company as vice president of artificial intelligence and machine learning (AI/ML) and head of incubation.",
@@ -993,143 +1122,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-how-rangers-are-using-ai-to-help-protect-indias-tigers.md",
-      "title": "How rangers are using AI to help protect India's tigers",
-      "excerpt": "She is a goddess - ready to take on a huge tiger who tries to harm her cubs.\" The tigers he treats have mostly been injured while hunting, or protecting their cubs. But he has also treated tigers that have been poisoned by poachers - who put toxins in pools where they are known to drink.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/business-61824904?at_medium=custom7&at_custom4=B8D5D9E2-11F0-11ED-BB4D-5FA44744363C&at_campaign=64&at_custom2=twitter&at_custom1=%5Bpost+type%5D",
-      "originalUrl": "https://www.bbc.com/news/business-61824904?at_medium=custom7&at_custom4=B8D5D9E2-11F0-11ED-BB4D-5FA44744363C&at_campaign=64&at_custom2=twitter&at_custom1=%5Bpost+type%5D",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/F506/production/_126062726_gettyimages-967577270.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/business-61824904.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/business-61824904.amp",
-      "publishedDateTime": "2022-08-01T16:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-eating-ultra-processed-food-can-lead-to-overall-cognitive-decline-new-study-says.md",
-      "title": "Eating Ultra-Processed Food Can Lead To Overall Cognitive Decline, New Study Says",
-      "excerpt": "Signs of cognitive decline can include forgetting dates, conversations, and events. It can also include feeling overwhelmed by decision making or not understanding directions. \"People who consumed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/eating-ultra-processed-food-can-lead-overall-cognitive-decline-new-study-says-3593573",
-      "originalUrl": "https://www.ibtimes.com/eating-ultra-processed-food-can-lead-overall-cognitive-decline-new-study-says-3593573",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.com/en/full/2572397/fast-food.jpg",
-          "width": 2500,
-          "height": 1594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/eating-ultra-processed-food-can-lead-overall-cognitive-decline-new-study-says-3593573?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/eating-ultra-processed-food-can-lead-overall-cognitive-decline-new-study-says-3593573?amp=1",
-      "publishedDateTime": "2022-08-01T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-cognitive-approaches-to-ancient-religious-experience.md",
-      "title": "Cognitive Approaches to Ancient Religious Experience",
-      "excerpt": "Get access to the full version of this content by using one of the access options below. (Log in options will check for institutional or personal access. Content may require purchase if you do not have access.) To save this book to your Kindle, first ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/books/cognitive-approaches-to-ancient-religious-experience/funder-acknowledgement/92C747A7817B81C128D8DF55BEDD3E0D",
-      "originalUrl": "https://www.cambridge.org/core/books/cognitive-approaches-to-ancient-religious-experience/funder-acknowledgement/92C747A7817B81C128D8DF55BEDD3E0D",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cambridge.org/core/cambridge-core/public/images/logo_core_page_share_600x600.jpg",
-          "width": 600,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T14:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-18T02:00:00Z
 originalUrl: "https://www.asiaone.com/business/fintech-startup-propcap-poised-alternative-professional-investors-asia-s-first-ai-powered"
 webUrl: "https://www.asiaone.com/business/fintech-startup-propcap-poised-alternative-professional-investors-asia-s-first-ai-powered"
 type: article
-quality: 6
-heat: 6
+quality: 8
+heat: 8
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://release.media-outreach.com/release.php/Images/271070/PropCap-HKFTW-2021.jpg"
@@ -23,6 +24,6 @@ images:
     height: 2000
     isCached: true
 
-secured: "N8cX0T+yOEYP4YXRIjB3FS7xCIXE9v9Xh3rEFfJMz4t4/c8//ccAbU6G3CsHJa1M2rcbgiyScHkFp6QpfZsouzZKOuv9o7+0QiPjhYnHPRmTCGaCMzfNaLPAZVUWoKWE5XigS1VLjTueJXGS2OFn6iwPtHgpo+DXWdPkymxuf1eFxB686uLBF4Qk/BcFt1D4Voyvuxpsb+C8L0iZYDX1hg6Drg2ZykJXWYGyTHwAPMqUBfiPZ8Q8QkU6+t1baq2stDl8zhaCm2vV1GH0vR53vE6xUkZUI3qZ8EH5gp1ypM36OXsMZ+tw+EkXibnhqe6hcp9iQzZVGKSFJNo/AIT/WteJF/QumlelUeI3SrUrm4g=;27OMq56YBORxT0xSdVSsug=="
+secured: "qDjt5QT8q+hyC+B7xcP99ImGG374wKJy+yNRBc/Puzxh8H7oUpfuVRD3heRfpKSz90w23p2SxJXxrwJH3cnXlAAeOGQWsc0I0IMx4wyrfUyE5eFYBzoemxDExIrsEb9ZInDde3SAVewFiYRg06IPg0JcEvrOnooDGSknTdFRav0CpGMAYQb17HxDksVrd+7Rrlx0OS6SpiwcmHXc+3IVsbw0bUqUVpegZsIE8yunZKyUxWN+vLUAB1yMjy8+fWaBcOFMM5QQQGsXVoBUwFoOfL5WUNKBhGMiDTKm8Fn/oD7VDBSRGI5jUtRjTMVVIcHlsU6UvdpWsJwlLsrGNN3hqDVkvUbmLtfWlmw0bnxlE14dXof6GZtsESoahg++YeWWfoYR12hvfo5Onrem9rssevcSPtA2Bn9jxnv8wiPJ+aeAlVaGF6b5G6MSqXIXZ+Vqwc/W0vbFJD6k/SzPUN8AYjCWDouYcJPUqFOYTqsL8LveTEn7cEALMpnj5oCbAildvcRSyWcv9DMEcmT6t3ANcQ==;iiseJw4veUfrlS9uLI9/qA=="
 ---
 

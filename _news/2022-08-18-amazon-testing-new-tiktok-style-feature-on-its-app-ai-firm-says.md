@@ -76,20 +76,20 @@ related:
         height: 1024
         isCached: true
   - title: "Amazon testing TikTok-style feed on its app, AI firm says"
-    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."
-    publishedDateTime: 2022-08-18T03:10:00Z
-    webUrl: "https://www.news4jax.com/business/2022/08/17/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says/"
-    ampWebUrl: "https://www.news4jax.com/business/2022/08/17/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says/?outputType=amp"
-    cdnAmpWebUrl: "https://www-news4jax-com.cdn.ampproject.org/c/s/www.news4jax.com/business/2022/08/17/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says/?outputType=amp"
+    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform"
+    publishedDateTime: 2022-08-17T23:16:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
     type: article
     provider:
-      name: News4Jax
-      domain: news4jax.com
+      name: ABC
+      domain: abcnews.go.com
     quality: 59
     images:
-      - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/23YUDDAXANF6LHSZORVR736KJU.jpg?_a=ATAK9d60"
-        width: 700
-        height: 1633
+      - url: "https://s.abcnews.com/images/Technology/WireAP_d6c87ec91bcb4a3db6d7f763abbf3eca_16x9_992.jpg"
+        width: 992
+        height: 558
         isCached: true
   - title: "TikTok’s new AI art filter riffs on your text"
     excerpt: "AI text-to-image models like OpenAI’s DALL-E 2, Google’s Imagen, and Midjourney are having a bit of a moment. It’s hard to avoid their output on social media (especially Twitter), where people share the weirdest and wildest things they are able to get the AI models to create."
@@ -191,6 +191,6 @@ related:
       domain: knowtechie.com
     quality: 17
 
-secured: "ywJ6p31XiTluRRwEfHTxulpeHAay6blPPGzUIJJD0DYVzZP/vJhfVDGAQWGgNSFODfSrm2ZYIiOZobf6xlLJ1sdRYk5UI8cX61Mk0AxMnCm72ebOvrWOssU5zayyNCRXO1+SYXcKUpIJEJlLABnQ37umAh7V0f34yaAOXcu3A45rlDaqg9iviyznKuNmhkD/7OVyQCL0jy6hNmG6RHy/sDgsl5lcHADa4okbJ/ODHDmaq6S/8yeYeHBy+CtsOFgaSredPEfGbOgc4pw84x3CTRQYPEJvm1gsPARfV8A+zqENJ90DZsw5Vj5n7eeilPpjNheBOB/OZF/g4gRCbK8eHUfvf/mbcPXdTD0+UC8T3OY=;JRXVf++lP04/0jHJ1VBgPA=="
+secured: "Fy0tKNJbDTxZdAUs5tAO+jiRBMTvu2M1vxmmyAhCfbMeB6TH2Ob8hIMH0Q+ioQzPclPGX7xogEHQZ52WN1meSgRUafdnCx5ipJuo9/RXINObqDaCipDbdHWdK7BTpXChwSlG/bGx5NfvPGBSDF1jqnNMzt2KrE5qqnv9d2TAD2iezaOPmGRXFUR8mnHk887yU9s2brVMX8V6bO57FvaLkf1+/q/43TTGwx80ZVO/J/T+45TWNZkzi+AnY9TAecanPRftoIfTWWbosXXTiR7No+seDdfPtYbbJPNY9MjOAKMY9VREkATAo7aR93OG8VfgyJQm6AwrvPyxHhHQrij+sK3AAz/bOm3gaKLGeRXnQ5DkmvXzJIqmC2hvXi1AXBabvqXx6kY00fa2isk2wpgATFmzwHeJDwMmr6KgjkxSOtKRD7DXfJ3hKguzfpOATTvBZ+AjjGLmzGYsSWQullnprZssj/ujPzE2mQQnp87vk/Z+cDTCU4p0Zqkr3e18k8a4VEsqMWY01e+vmyqIKNA8XA==;/8iz6eC/csP0wBddyp684Q=="
 ---
 

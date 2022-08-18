@@ -7,7 +7,7 @@ originalUrl: "https://venturebeat.com/games/regression-games-raises-4-2m-for-ai-
 webUrl: "https://venturebeat.com/games/regression-games-raises-4-2m-for-ai-gaming-and-esports/"
 type: article
 quality: 47
-heat: 47
+heat: -1
 published: false
 
 provider:
@@ -23,14 +23,19 @@ topics:
 
 related:
   - title: "AI Gaming and Esports Startup Regression Games Raises $4.2M in Seed Funding from NEA and a16z"
-    excerpt: "Regression Games, the AI gaming and esports company, today announced it has closed $4.2M in seed funding led by New Enterprise Associates (NEA) with participation from Andreesen Horowitz (a16z), BBQ Capital,"
-    publishedDateTime: 2022-08-15T14:43:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ai-gaming-and-esports-startup-regression-games-raises-4-2m-in-seed-funding-from-nea-and-a16z-1031684331"
+    excerpt: "AI Gaming and Esports Startup Regression Games Raises $4.2M in Seed Funding from NEA and a16z Aug 15, 2022 (PRNewswire via COMTEX) -- PR"
+    publishedDateTime: 2022-08-15T14:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-gaming-and-esports-startup-regression-games-raises-42m-in-seed-funding-from-nea-and-a16z-2022-08-15"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 36
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Just-launched esports startup Regression Games raised a $4.2M seed led by NEA"
     excerpt: "Founded by a recent Philly transplant, the two-month-old company (yes, really) makes a low-code, AI-driven platform for gaming."
     publishedDateTime: 2022-08-17T22:38:00Z

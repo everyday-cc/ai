@@ -1,18 +1,18 @@
 ---
 category: news
-title: "New Venture Fund Provides Investors Exposure to the Disrupting Fintech Sector"
-excerpt: "FinTech Fund II has raised $1.9 million to date and has deployed initial capital into four investments: a diversified blockchain fund that seeks out venture equity along with early stage and established token investments,"
-publishedDateTime: 2022-08-17T16:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-new-venture-fund-provides-investors-exposure-the-disrupting-/2022/08/17/9657793.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-new-venture-fund-provides-investors-exposure-the-disrupting-/2022/08/17/9657793.htm"
+title: "Optasia one of top 25 Fintech companies in the MENA"
+excerpt: "Optasia enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets.. Optasia one of top 25 Fintech companies in the MENA. Artificial Intelligence,"
+publishedDateTime: 2022-08-18T04:00:00Z
+originalUrl: "https://www.itp.net/emergent-tech/optasia-one-of-top-25-fintech-companies-in-the-mena"
+webUrl: "https://www.itp.net/emergent-tech/optasia-one-of-top-25-fintech-companies-in-the-mena"
 type: article
-quality: 1
+quality: 4
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: GDPR fines
+  domain: itp.net
 
 topics:
   - AI in Finance
@@ -47,16 +47,16 @@ related:
         width: 597
         height: 597
         isCached: true
-  - title: "Optasia one of top 25 Fintech companies in the MENA"
-    excerpt: "Optasia enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets.. Optasia one of top 25 Fintech companies in the MENA. Artificial Intelligence,"
-    publishedDateTime: 2022-08-18T04:00:00Z
-    webUrl: "https://www.itp.net/emergent-tech/optasia-one-of-top-25-fintech-companies-in-the-mena"
+  - title: "New Venture Fund Provides Investors Exposure to the Disrupting Fintech Sector"
+    excerpt: "FinTech Fund II has raised $1.9 million to date and has deployed initial capital into four investments: a diversified blockchain fund that seeks out venture equity along with early stage and established token investments,"
+    publishedDateTime: 2022-08-17T16:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-new-venture-fund-provides-investors-exposure-the-disrupting-/2022/08/17/9657793.htm"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 4
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 1
 
-secured: "iLpqzZBSFoaBID4okGA9fwt5nw5spJNP803ntpnqzNyPlDFJrnCNP+OeQaROAT10JHkaPEc0MgbrWg2bnT71jk+fpHOnpAO74OI5GzGB9U7h3RjyXalVxX044GodGTUeuytmJ2sJ7TSI+z6Vd9MnRMyYx/WAcK830MZVZwFYTYXnJDgHTmDQ9GXmiciabYxk5fwNvA9l7Iv46KcyYyT4oG496vc9waipt0iZvkepfKWLyerqoryamrm2+5NATwTAFwfYoPEjECqmbf1S5mBVwcaKyQGLEb1wvuWx/sMlugWEOQtknXSlrhE/SsMK2uYkjCJOER+spG0zDKmBcG66+g0tq+ngZfXDACBk+EWtJtk=;vXq5Com7Vqez1sLE7RXIIQ=="
+secured: "RWY9qt056wpzFLluDhkC5zvBc3RdQNEqrexeAy0lHLEyYTqWZ5OvsJokFn3QV54dOfcSQ2u37Uq5ZXcQKuNm/WUZsXdg0Hi8+6UKMrFjp98Lv9Y6qV/3YTWk2gZY0o4C3Kh2ycXTdOTHPOAwggGMvy2XCuKkm7WK3zlMxl38gs4K3x4PZTs5q5wpPGU9hmosReuzvo+qWPgKN1iT8jpc8THUBjZVa8KKtZ6lEGZHUzStHZLGXzgaZnTH4HEpwAK7EVn3R2zWEVegdvjXDH5MQ7JxGSxjezNiPmuOPMZKdY/DO3D4YiaYNLeZhaPNs/sCMqb38nZlnkoniwOgkdZngP6CwarIERsSELGpJEcRT3ughA2WX3oIIlnJzgACJLMDzr56UR87TZDeu6jVysVNYZF81q1eojD8J2AKVXwutKkEjsDJxkuS1a5L08rukGyNF+jcwbKR8CyIo1XEV3mesBxwl0j7Xzce5RH5oGwlVr4Tfm2ZyYtK6nIbpgNAp8aHIkcw/SPCYgp0g+erOv7zvg==;cMzm/NtlfOquSS5ofY2DyQ=="
 ---
 

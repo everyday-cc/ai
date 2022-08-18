@@ -54,7 +54,7 @@ related:
     provider:
       name: Defense News
       domain: defensenews.com
-    quality: 37
+    quality: 39
     images:
       - url: "https://www.defensenews.com/resizer/_rde8-COgWmH1TbZjOSwz89PbVA=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/42I76S76MFE2RN5JSNIER6RHIU.jpg"
         width: 1024

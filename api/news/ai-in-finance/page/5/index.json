@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-05-24-hong-kong-still-a-regional-tech-hub-for-ai-and-big-data-but-more-work-needed-to-provide-solid-regulatory-framework-survey.md",
+      "title": "Hong Kong still a regional tech hub for AI and big data but more work needed to provide solid regulatory framework: survey",
+      "excerpt": "Start-up ADDX links investors to pre-IPO companies via security tokens Financial technology, or fintech, involves applying AI, blockchain, cloud computing, big data and other technologies to financial services such as payments, insurance and investment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3178975/hong-kong-still-regional-tech-hub-ai-and-big-data-more-work-needed",
+      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3178975/hong-kong-still-regional-tech-hub-ai-and-big-data-more-work-needed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/05/24/cf2b3020-db77-493d-990e-d68655292a6b_9e83e377.jpg?itok=vJK9joVm&v=1653386892",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3178975/hong-kong-still-regional-tech-hub-ai-and-big-data-more-work-needed",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3178975/hong-kong-still-regional-tech-hub-ai-and-big-data-more-work-needed",
+      "publishedDateTime": "2022-05-24T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-23-playing-by-the-rules-fintechs-use-ai-for-marketing-compliance.md",
       "title": "Playing by the Rules: Fintechs Use AI for Marketing Compliance",
       "excerpt": "Companies are spending billions on marketing and advertising, paying big bucks to be center stage for public attention. For fintechs that operate globally and under the jurisdiction of multiple government agencies and regulatory systems,",
