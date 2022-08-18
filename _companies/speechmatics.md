@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "Speechmatics"
   url: "https://twitter.com/Speechmatics"
-  followers: 1471
+  followers: 1472
 
 size: 51-200 employees
 yearFounded: 2009
