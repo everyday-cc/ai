@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "aurora_inno"
   url: "https://twitter.com/aurora_inno"
-  followers: 13872
+  followers: 13870
 
 size: 201-500 employees
 yearFounded: 2016
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=4J742uB60NY"
 
-secured: "/1ASxcJE3XrodyWDu+akd7l/gF0Hwt0ZXYZ2SXWSDH+XqcuibPlCNdHtSZ8d5bEOIYhIHYq/8uut0RzMRlaaZKPPJpYE486aS0vKG7NXnoIq/AtXafsgKDSqqXy2qHtV1OdHzi640UlB7Nf4WDEDClhpJOtmy37vOetCYH7xMsC3BmaeJvNIZl1NQ0bXcfSA3G+dd+3iVrWJNxpQQ6S2L8eNlaDzubb19QuT6S7NRZY8Du1OJs3QHdOY3PX/GWGAdNUMg/Ko8luogeVOlu0qxw4dFlR0tuOGpGZPRvPwCUohDZQ9S4Vug9GiaiyK1f5U31bgR1Il6U2TTvUpkTi3E1jzZe6Ki2KFPHTocxxKAiR2p6fcjtG8E1BMkzfBgFQzeAbYpxly5Jk42ixTEp7L/5JnpS2/kpkxnM6+0XLwsRQ=;wn2QySUsXrTPJ36vpjYibQ=="
+secured: "FvJD4qDjBIZnlbfWyVqhk6ga0B7K75x/lLmPIjzQFGbKMeXpLwf+XANm+3sr7qW3+sX8wI8FpItKp313tMdl+QbEheWlvaIq7M/yfTShQCy6rTzUqwHPpoe3FznaYBdnkgNd+10LCThPI9SBI3tOTYEnD7jszFEhgEM7cQaKI4iDHYfTWqqvDRh9uNObQBZt1wqGtS12+M58MBOkNWDKl7RZxo1fdpdoqNdEZ8zvuaO+GKPWtVJYOv9HMbl9sfsqGYegqtZgXeyCT0zbG7PprhhsOVKQJvdtj/SJXpvdILfjkmsLsAoUOZlid/AghL6/hcPWn/G2EQqQvdbXaX2qswhYsNMvOlDKEB5xtaYW6b9vUub72EZ/zUhm/TcSPJemjzB+NQ0W2/KFrWG4TqT5V06s/lmSN+3MzK72Vh64Vaw=;pvFXSHhAh2vCXQyb51DQSg=="
 ---
 

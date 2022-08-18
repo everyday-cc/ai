@@ -2,7 +2,7 @@
 name: "care.ai"
 overview: "care.ai is the first and only AI-powered autonomous monitoring platform for healthcare. As an AI company, we are focused on using our transformative innovation to bring a meaningful impact to healthcare, improving outcomes and saving millions of lives every year; while making the jobs of providers more productive and fulfilling. care.ai’s platform connects to our purpose-built AI accelerated, edge sensors, to transform ordinary rooms into Self-Aware Rooms™. We are working on disrupting and changing the way care is delivered."
 type: "profile"
-heat: 78
+heat: 58
 
 website: https://care.ai/
 
@@ -42,6 +42,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=DWTje5pDap0"
 
-secured: "+StDZY9sjjglNdMoOe4PcVbl4Vih+DNela3yuhTJKkoI9ae9kcVnLoZOW2oQW3N9t2QdJmeoxzEKm1r73wd44AX2ehth9m+6j2qVm+OVBR+PnKgTijhrUGhMIylL1Bq3IS8uRkXVYglRTStUrqV9M9+2HcVFQDwOmHtV1BzCmHXDZtEFSAeGUE1JqEOS61GatQWqKsr+FlPPliEgSit/+dn2ASZoUNbkmhVbzOLX/k6TGN8YWNCa8bvl3CkoCaKnrEgf7lsmU1tDeJdngHqF+2f+zd7sXnRSnhbQzKGD8o8PUVzWiCdQucnca77YQPzyMU7uTFqT2n1Lvva6jQg9gZDlvr++G+gI0wGDz5oboxDDCIiuJlTHX7fddZgGM8gYxa5PAvxCv0UpxMQWRzTVGA==;B5TW6jAWGtVxS7a7UjdOWA=="
+secured: "RcfWdDEqPTy4+mXX4d+hrHBrDrAwC0jAqCQr2jqFSlUeZCMqrS9mfX0j0rVnd4ec87Z7nHCZG8FTLRRqgWSwG9dTWL1Rs+wKYxt1f+h0YP8Jujp+fE/gAF0J8a3y533lLfb1/76Ymyd/sfSK5CTsUqxVsybqgCEH2Bnl/E2MEh9ylsdohmJ6reBF4gv651kLhqPX36sfLiPjyVV1n3/Es4hveLcuyRIPZwoDPMvqRxCLQ9/IztWt/MVRmRAX2hU+btC5rSqINNEXq3X5G0rsa09Q9wPL5gGhxoWTqtjHv+Mw8Ve5Ql9OOvjSIvgdGyQjx0IheCqZzPEi0ZHPGGl3weVvuqDRCen00/TxQpSv1mAAAdNlbvVsoKwRaPPTVaes+Vj2wR/jQQT8TuZBNUSbvw==;WixpH3vZiXMZb0cq0K1XqQ=="
 ---
 

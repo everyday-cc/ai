@@ -2,7 +2,7 @@
 name: "Metabiota"
 overview: "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health."
 type: "profile"
-heat: 58
+heat: 50
 
 website: https://www.metabiota.com/
 
@@ -28,6 +28,6 @@ images:
     isCached: true
     title: "Metabiota"
 
-secured: "3zJKbEtdrsSxr8DqNUZyPrf+c8cY06fcakZBj6YYBF1OFJEWvBObalKUUmSzPQ771c5LYnIkCcBfQYXgZdVwAOfd0279AzVmNYWayj9GbLHz4pmh3TQl1pTUZJJLTRQ9yp59NJTsXgK/rP+v98yuqTB+tXOYeNLrDQ8Z/E8rgO1wGVq7rRNQbpNnNIs5Omuv9FcKeFiY8KhVrT4FRUgzAIEKeCvgK9jJH0onZ9dvazh8CAas2myLLQVVpLxkdMz1MrlSeV/9pH6yPo8qDCGcykVXd3uO9LLCDIJdFJRNf7cqzJrE6BfwRLXwJAQ5pa/R/Eqw5lkf2INb//rqccbGuGAj8AfeGv7Ch9hDqUBMIQLxZdI5/GyY7f8MD5B3gxk92andpqadLplir/xHLxVvlM1VCqWZekB2T9oIcH+w+R4=;cgXCIkRvV1/E5Dl9vW/b7Q=="
+secured: "QnBNQQcjoVO1jPT/L7os4m6eXiunmDKEi6AQZV942Wj8tmbY/1FufKfjBvDOPjqAIU0NoyAxEQ+xSRed95doJEiRCeJKP7FvKuqlAfsrubBzSWmzwCr0vtaBpipRslPktgYyHUGIK+WveKR4g4bOCNGNHp/rSO9awMp61r4Cmln8W1wRN/LxC20we7OmgnNnnd+OF6Yg1oobeptxgeSbarKD4H3+pdLIBNxB5L73aSgBsBQI2YTK8GTkX5yJEKIAvX1mJtVpqG2sTvMXaKoPTJXJ5sBhzPpnL62QFq2wxHzVM/0smNPbHlmowhJ4ZQJJQF+q5daEJQCfDrM10Ohu2dbDiI7G/1RNB0SvXQa9yYy3rTQKzLucgK8XgCXBx6nMv6nkuXIluxbc7GwC0H5ubc2zTE+vOJ9QRk0Yro9Rzug=;BX2GPNxC6xek1tVDZQvykw=="
 ---
 

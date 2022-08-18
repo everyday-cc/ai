@@ -2,7 +2,7 @@
 name: "FiveAI"
 overview: "FiveAI is developing the software to power shared, self-driving vehicle services in Europe."
 type: "profile"
-heat: 31
+heat: 65
 
 website: https://five.ai/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "_FiveAI"
   url: "https://twitter.com/_FiveAI"
-  followers: 3876
+  followers: 3877
 
 size: 51-200 employees
 yearFounded: 2015
@@ -43,6 +43,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=Kza6RQ3vWT0"
 
-secured: "9f3rwe2cI5IM0yWfJCxOleGcxHFOzDm0dqeocTQ1Rjrbk63o7WGUceowYc10t+wihtAJY+AX6cubahmcS9DhLRYmoQ08DKyb0DSKb0ZCg9GKmo7Q6XKQHRH1czlxzJQs/CQ5YphNlcYAyfVGQmE9j5opFFdsUtERf5hb4SfRcm8vOJYtXifGtc6IovoePWP9SqWhivllP1R340oADn3Us3bnMjdsVSlRRjrmhIAYqOjz+9tzL+vEIaBpN8A6cxeVhPHRPflx4vk1pIoAsoRt/sgrTzaQMw8MP9Hrj7iwxp8gBOWcRIODopT5w0Jl1xD57ewZIqJosQLpYb1+PkE0W2FcUgyEj9RwiPW24N5X6WgUDtiYEy7K3wT0oodT1tynERdOHjOoCdvYXB7Ja7DU6qIGir1pTSFBPV9Bcw8+Tv4=;DKhDiYsPruSc+j6Mcyf8kg=="
+secured: "Ht4bnOM7s6PQHoyAniGllcubfMd7Kq3QEbRZ9at5ohCsiDQ5oNf9RPFing19y12Iy+QwIAnhihsm66s3uxzbQmDQm38p8WdHk/TYXXr8usmmd3u/m1ZwMPXoEKRXkVzkW63o3cTEhdQVoP/sZQToioOCYa5kU8oVHnM6qm47sPSHNKVDPE78EjVF4AhydZEZT2pbsaEkcIF4plc+oXcEDTH5yJz7DPJCOWDf/tqKBfJwaH91mjqRjOnsA537o7qWrBqRTe68A24NdvMKSRzBnNVt/8mEvP0epVteQEurDVPBjPw+nKcY9ISb36b1ySIrXJhe13tiBg+bA8T1g2pOIl+Vzolt3uiM59lIcHgnfHciCcAaFlrU8Y7JBEA2SxHXvppq0Ey7LUs0JebKBky7GACaU8jMBG8pyesfht+SmI8=;g1ApOMWt6lBovfdplOij+A=="
 ---
 
