@@ -2,25 +2,26 @@
 category: news
 title: "Amazon testing new TikTok-style feature on its app, AI firm says"
 excerpt: "The feature, called Inspire, allows customers to like, save and share posts of products, and purchase items directly from the feed."
-publishedDateTime: 2022-08-17T22:40:00Z
-originalUrl: "https://www.kgw.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
-webUrl: "https://www.kgw.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
-ampWebUrl: "https://www.kgw.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
-cdnAmpWebUrl: "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
+publishedDateTime: 2022-08-18T03:40:00Z
+originalUrl: "https://www.whas11.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
+webUrl: "https://www.whas11.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
+ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
+cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
 type: article
-quality: 57
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: KGW8
-  domain: kgw.com
+  name: WHAS11 News
+  domain: whas11.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
-  - url: "https://media.kgw.com/assets/CCT/images/e3e15506-7b16-49cb-8cc1-aff6d305ea71/e3e15506-7b16-49cb-8cc1-aff6d305ea71_1140x641.jpg"
+  - url: "https://media.whas11.com/assets/CCT/images/e3e15506-7b16-49cb-8cc1-aff6d305ea71/e3e15506-7b16-49cb-8cc1-aff6d305ea71_1140x641.jpg"
     width: 1140
     height: 641
     isCached: true
@@ -84,7 +85,7 @@ related:
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 57
+    quality: 59
     images:
       - url: "https://s.abcnews.com/images/Technology/WireAP_d6c87ec91bcb4a3db6d7f763abbf3eca_16x9_992.jpg"
         width: 992
@@ -190,6 +191,6 @@ related:
       domain: knowtechie.com
     quality: 17
 
-secured: "kmnhojiVss7b9JbxsjUrFPz1qSmdCMSWz/3UH6MhALZDA7lmpks6qbvjBBgoImzC5/LPEBfIR19BqiutcxcZ+KIa8K3S0DSi5m0hMg2dSQq4BZ1V0HlqlwukLguwEnw8KDka5eAVTxxUik1R/dphFX0/kVSxbW1JjIQY/PfJv2/Wg2oD/JUM15NrsgtEgWSwEOxHWAYsp/egvU9sH0U7SCMcBNfCzA4IQpcVuqzl0ArSvD6ifhrgrfTi4jksGSrZDsTzUnPhyivdBdzikbmT1Z49mTc/B91xoRHLEpQZ/ElRvIyDyQfeFQnYDDUmq9LBFCBpUfT3A8Ksc1AsN1GV+44DCO996ksLuANebiO+gLQ=;IHbmwQ/9au9AxXN4jK2Z2Q=="
+secured: "Uw0slQpSCltV4cfPkNjhMcjCZ+qEB9gs1+nhI/LBJUyBlhNl+GDufW3FEAkXxPxoNM4Vo2jKtbk+MyRPfyzyJfD21xceKAgm0R9SdBYRInuM17A2VIp+jsKLoWNq5gxRi/yyV+Bz6XVzROJbAxNlVJSK7H8xH0iymP2wXzXZwZvfkr0JR8vwdVjIfTWjdIjL4iFlBDVf73j4s7ERKFcEDtifKbh0a/VksuWqSXgBN3o6aJgyXYt/CBe9XnvKQ64hzNBqS+OVTbgH32X4GQJElXkdsWyR93EVbUovBbmXj8VCylD6lRA+w7MFaSH7KvUajynqaRC17mp5gO4BnpVb+fFRp51bDTPHfad4bQeHyd0=;zTWwAvjoZtW6xZ7bCwFj4w=="
 ---
 

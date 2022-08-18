@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "DPS uses tattoo recognition technology to identify victims in Arizona"
-    excerpt: "This new technology was built on the “continuous, extensive research on [facial recognition] software and technology.\""
-    publishedDateTime: 2022-08-13T15:17:00Z
-    webUrl: "https://www.azfamily.com/2022/08/13/dps-uses-tattoo-recognition-technology-identify-victims-arizona/"
-    ampWebUrl: "https://www.azfamily.com/2022/08/13/dps-uses-tattoo-recognition-technology-identify-victims-arizona/?outputType=amp"
-    cdnAmpWebUrl: "https://www-azfamily-com.cdn.ampproject.org/c/s/www.azfamily.com/2022/08/13/dps-uses-tattoo-recognition-technology-identify-victims-arizona/?outputType=amp"
-    type: article
-    provider:
-      name: AZFamily
-      domain: azfamily.com
-    quality: 44
-    images:
-      - url: "https://gray-kpho-prod.cdn.arcpublishing.com/resizer/F2VdolyWbmwMQXSgbIjOQvGIvMg=/800x450/smart/filters:quality(70)/do0bihdskp9dy.cloudfront.net/08-13-2022/t_0acf219887a84976a42683d9a71d6daa_name_PKG_MARTINSON_MURDER_RE_TRIAL_frame_817.jpeg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "AZDPS using tattoo recognition technology to identify unknown persons"
     excerpt: "The Arizona Department of Public Safety has used tattoo recognition technology to identify two deceased persons in the state since June 23."
     publishedDateTime: 2022-08-15T11:25:00Z

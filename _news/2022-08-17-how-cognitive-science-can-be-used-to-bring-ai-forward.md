@@ -7,7 +7,7 @@ originalUrl: "https://www.siliconrepublic.com/machines/cognitive-science-sentien
 webUrl: "https://www.siliconrepublic.com/machines/cognitive-science-sentient-ai-bias"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -24,19 +24,44 @@ images:
     isCached: true
 
 related:
-  - title: "Scientists turn toward artificial intelligence for unraveling cell biology"
-    excerpt: "For our cells to proliferate, differentiate or migrate, the nucleus needs the help of its cytoskeleton, the scaffold surrounding the nucleus which provides cells with shape and solid structure."
-    publishedDateTime: 2022-08-16T18:07:00Z
-    webUrl: "https://www.news-medical.net/news/20220816/Scientists-turn-toward-artificial-intelligence-for-unraveling-cell-biology.aspx"
+  - title: "How Companies Can Achieve Success with Artificial Intelligence in Hiring"
+    excerpt: "As businesses adopt Artificial Intelligence in recruiting at an increasing rate, it's critical that they know how to leverage"
+    publishedDateTime: 2022-08-16T12:20:00Z
+    webUrl: "https://enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/"
+    ampWebUrl: "https://enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/amp/"
+    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/amp/"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 35
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 58
     images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/08/How-Companies-Can-Achieve-Success-with-Artificial-Intelligence-in-Hiring.jpg"
+        width: 700
+        height: 400
+        isCached: true
+  - title: "CTM Enhances Lightning with AI, Machine Learning"
+    excerpt: "Corporate Travel Management has added artificial intelligence and machine learning capabilities into its Lightning online booking tool in North America, the travel management company announced."
+    publishedDateTime: 2022-08-14T04:00:00Z
+    webUrl: "https://www.businesstravelnews.com/Technology/CTM-Enhances-Lightning-with-AI-Machine-Learning"
+    type: article
+    provider:
+      name: Business Travel News
+      domain: businesstravelnews.com
+    quality: 34
+  - title: "How AI helps companies retain and grow customers in today’s attention-starved world"
+    excerpt: "By partnering innovative technology providers through the IMDA Open Innovation Platform, a digital news site and an online platform for Asian films are now able to better engage their audiences. Read more at straitstimes."
+    publishedDateTime: 2022-08-17T20:00:00Z
+    webUrl: "https://www.straitstimes.com/tech/tech-news/how-ai-helps-companies-retain-and-grow-customers-in-todays-attention-starved-world"
+    type: article
+    provider:
+      name: The Straits Times
+      domain: straitstimes.com
+    quality: 31
+    images:
+      - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/08/10/Resized%20main%20image%20-%20IMDA.jpg?VersionId=810hzk2Dpm.jqV_Z0LnoL3u0KKjvMxuC"
+        width: 860
+        height: 573
         isCached: true
 
 secured: "X1EVFpz74sQ8g8Vi9ApKLNFDtUiutUhTRHZZlDGba3R9yC4a3OZWWgFmdZLZuFNKaroT8+i0PzwbdVV8xj3izR9TG4YRHNchal/fCbqEwszAxpvPGZTu6xNDFV4CXLJ8BvtV/hx382N2R3uRSBbr+QWvxnCNIMxWqhhptT6K59VzLMktyNp/iVvPQYtrxtKqjveMAwcTPMK1u9E9CMo+Lu0muKYLXcF5I32mR3sznMs3JaztfPVXRglhnWVrud+z46c4ePXbCM0u5/mj31J4XeGDlmBJFzYPYFEOfN+Qwk3StZAGJZfxpyg8IyajkGwOay9ACPXvMBfccFbqOb38fGGYfrM1AuqrKMTth8yImt0=;jgn9RzjghRFzfqV7eERlJQ=="

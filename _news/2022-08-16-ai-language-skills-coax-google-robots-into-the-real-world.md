@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-language-skills-coax-google-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/"
 type: article
 quality: 106
-heat: 136
+heat: 146
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google uses AI language models to improve home helper robots"
+    excerpt: "Researchers at Everyday Robots are tapping large-scale language models to help robots avoid misconstruing human communications in ways that might"
+    publishedDateTime: 2022-08-18T08:02:00Z
+    webUrl: "https://www.zdnet.com/article/google-uses-ai-language-models-to-improve-home-helper-robots/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-uses-ai-language-models-to-improve-home-helper-robots/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-uses-ai-language-models-to-improve-home-helper-robots/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 87
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/767cd3eb64bfcd005e721331322b11bb282d5231/2022/08/17/41088cc8-8d87-4f6b-a8c7-049ee79fa6e6/kitchen-robot-gettyimages.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Google adds AI language skills to Alphabet's helper robots"
     excerpt: "Google's parent company Alphabet is bringing together two of its most ambitious research projects — robotics and AI language understanding — in an attempt to make a \"helper robot\" that can"
     publishedDateTime: 2022-08-17T05:42:00Z

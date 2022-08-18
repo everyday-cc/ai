@@ -66,6 +66,20 @@ related:
         width: 1536
         height: 864
         isCached: true
+  - title: "Council Post: A practical guide to building AI & Analytics maturity"
+    excerpt: "AI and analytics maturity warrants a centralised knowledge group or team that oversees conceptualization and implementation of  organisation-wide analytics and AI projects."
+    publishedDateTime: 2022-08-18T09:28:00Z
+    webUrl: "https://analyticsindiamag.com/a-practical-guide-to-building-ai-analytics-maturity/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/AI-and-Analytics-maturity.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Integrate.ai Announces Availability of New Privacy-Preserving ML Platform"
     excerpt: "TORONTO, Aug. 16, 2022 -- integrate.ai, a SaaS company helping developers solve the world’s most important problems without risking sensitive data, today"
     publishedDateTime: 2022-08-16T19:24:00Z

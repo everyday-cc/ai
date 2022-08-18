@@ -67,6 +67,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Technology Market: Latest Trends, SWOT Analysis, Growth, Size, Segmentation, Future Demands, by Regional Forecast to 2029"
+    excerpt: "Global \"Face Recognition Technology Market\" 2022: - Face Recognition Technology Market report discusses the market"
+    publishedDateTime: 2022-08-17T11:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-latest-trends-swot-analysis-growth-size-segmentation-future-demands-by-regional-forecast-to-2029-2022-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Voice Recognition Biometrics Market to Witness an Outstanding Growth during 2022-2029 with Leading Regions and Countries Data | 124 Pages"
     excerpt: "In the forecast period of 2022-2029, the global “Voice Recognition Biometrics Market\" is expected to grow at a steady"
     publishedDateTime: 2022-08-17T05:18:00Z

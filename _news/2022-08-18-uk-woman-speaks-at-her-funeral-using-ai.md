@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Gartner identifies 25 technologies key to enhancing AI automation, immersive experiences and technologist delivery"
+    excerpt: "Gartner has outlined the top 25 emerging technologies for business as part of its Hype Cycle report. It identified these key insights from over 2,000 technologies that it profiles year-on-year. Among its findings included three key themes for emerging technology trends,"
+    publishedDateTime: 2022-08-18T08:50:00Z
+    webUrl: "https://www.intelligentcio.com/eu/2022/08/18/gartner-identifies-25-technologies-key-to-enhancing-ai-automation-immersive-experiences-and-technologist-delivery/"
+    type: article
+    provider:
+      name: intelligentcio.com
+      domain: intelligentcio.com
+    quality: 15
+    images:
+      - url: "https://www.intelligentcio.com/eu/wp-content/uploads/sites/20/2022/08/AdobeStock_363589682-Web.jpg"
+        width: 1000
+        height: 450
+        isCached: true
 
 secured: "GgnthYHD7g7fbOsmp1Kw/nPo9Qbg0UBWRAjrtu/oYZL7mkp+6sMYWwI0Ogxj9WhrkB4+3DEPHCXJBPJyhw6DAWW/sZJfLnya9kv+8bIyeAWVzmiP8I59GtZWeDZQsPCIqFR2FBiTxj+KUa7pLrOAPLjuWVxzyo/6m5fiBgwdZQ0AoWE1kumhTt7zDLOa8nkWrQqTj2OpC+0eHjJDG+iCeirT9bwSQINnrfLn5DI1e2yoIHWxWpzlzIcrbZy3kSMpmsxwxzHa9f3znT9Gn4ziM8opCuJVSiHs278gvSTS8MUoDa0gAw9xD29SrlzgTSq9u2CgVqXgS/1VAEPWdrfP5Pck/Gv3gLrfUfLOG6L4boY=;Om96Hk2D5o36UOlJXeVU8Q=="
 ---

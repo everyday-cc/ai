@@ -85,6 +85,20 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Comment: Facebook’s openness on its chatbot gets it right"
+    excerpt: "But in a completely different part of the approximately 80,000-employee business, Facebook’s exchange of information was going the other way and to good effect. The company known as Meta Platforms this month published a webpage demonstrating its chatbot,"
+    publishedDateTime: 2022-08-18T08:30:00Z
+    webUrl: "https://www.heraldnet.com/opinion/comment-facebooks-openness-on-its-chatbot-gets-it-right/"
+    type: article
+    provider:
+      name: HeraldNet
+      domain: heraldnet.com
+    quality: 24
+    images:
+      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
+        width: 400
+        height: 400
+        isCached: true
 
 secured: "Nc2OrDPru/Ve1ixHxKcIWygnY8iXiWvtTDC3vVfATqPzNtVwoJB5g57UYQSfPIWpkgre2AzYS75ene2M6TybAovbASTLtB1+H/EGnWFaO7tSg6FkP3i3SGh+pk6gHmtq1tyeb8dkxr4v2Q/3GFlFNZJcXwhXZqm5lH8Ckp2gNJ7hkTKjcjt65gUecjUxRpy8KOTvcJRu4JHnSl8lBvEgd8PW3wOUXwnAyWp4Sue9KTmwHfVjhPDZ1DpHnPyp6ph4mvLZTLB3ibnJ1u9y/Y154n21hHlAcbS7ilDw8QFfPseOn4LkywxItGp99E1snuKaM2frKySTkhaXWhIkuJy2ZHkbUyxO0WE3fppo1WE5HdEOHu58lSsfo8D7vdnPdogYHba43q0hIVZWlsTcf2gg/2mKGO0UIbBXB9gq0dAnZc+vfgY8GxTubKWYYaOArSrMhcudMvuup+H3zHIHEo6BlLYSopog0IonwQ5Xcz6j79cb9lTS7JlLQJH9qcnYWPqiAjqxe9RjCzmbHmlHMxtUww==;+x9nIwmkjwFV6fC5xU80+Q=="
 ---

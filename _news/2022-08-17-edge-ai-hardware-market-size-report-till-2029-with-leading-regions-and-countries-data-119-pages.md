@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-ai-hardware-market-
 webUrl: "https://www.marketwatch.com/press-release/edge-ai-hardware-market-size-report-till-2029-with-leading-regions-and-countries-data-119-pages-2022-08-17"
 type: article
 quality: 54
-heat: 94
+heat: 104
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
     excerpt: "Artificial Intelligence in Medicine Market includes the challenges that are affecting the growth of the industry and offers strategic evaluation that is required to boost the growth of the market over the period."
     publishedDateTime: 2022-08-14T17:58:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-size---top-companies-business-growth-investment-opportunities-share-and-forecasts-2022-2031-2022-08-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Technology Market: Latest Trends, SWOT Analysis, Growth, Size, Segmentation, Future Demands, by Regional Forecast to 2029"
+    excerpt: "Global \"Face Recognition Technology Market\" 2022: - Face Recognition Technology Market report discusses the market"
+    publishedDateTime: 2022-08-17T11:32:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-latest-trends-swot-analysis-growth-size-segmentation-future-demands-by-regional-forecast-to-2029-2022-08-17"
     type: article
     provider:
       name: MarketWatch

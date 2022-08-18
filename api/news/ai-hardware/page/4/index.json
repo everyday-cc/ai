@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-06-29-how-to-make-ai-art-dall-e-mini-ai-dungeon-and-more.md",
+      "title": "How to make AI art: DALL-E mini, AI Dungeon, and more",
+      "excerpt": "AI art encompasses everything from text adventures to AI-generated images produced by DALL-E Mini and Latitude Vantage, as well as text-to-speech apps that will \"speak\" in the voice of your favorite characters.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcworld.com/article/788422/how-to-get-started-with-ai-art-dall-e-mini-ai-dungeon-and-more.html",
+      "originalUrl": "https://www.pcworld.com/article/788422/how-to-get-started-with-ai-art-dall-e-mini-ai-dungeon-and-more.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://b2c-contenthub.com/wp-content/uploads/2022/06/craiyon_2022-6-21_9-42-40.png?w=981",
+          "width": 980,
+          "height": 1199,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcworld.com/article/788422/how-to-get-started-with-ai-art-dall-e-mini-ai-dungeon-and-more.html/amp",
+      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/788422/how-to-get-started-with-ai-art-dall-e-mini-ai-dungeon-and-more.html/amp",
+      "publishedDateTime": "2022-06-29T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC World",
+        "domain": "pcworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-govt-unveils-w1tr-spending-package-for-ai-chip-dominance.md",
       "title": "Govt. unveils W1tr spending package for AI chip dominance",
       "excerpt": "The government will also support feasibility studies for AI chips and endorse collaborative research projects with counterparts in the United States. The Science Ministry said the nation‘s focus ...",
@@ -1303,51 +1355,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip.md",
-      "title": "Massachusetts Institute of Technology: Engineers build LEGO-like artificial intelligence chip",
-      "excerpt": "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don’t have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest s",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
-      "originalUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip/",
-      "publishedDateTime": "2022-06-15T23:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware",
-        "Machine Learning"
       ]
     }
   ],

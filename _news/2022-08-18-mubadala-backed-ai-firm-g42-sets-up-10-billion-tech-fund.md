@@ -7,7 +7,7 @@ originalUrl: "https://www.channelnewsasia.com/business/mubadala-backed-ai-firm-g
 webUrl: "https://www.channelnewsasia.com/business/mubadala-backed-ai-firm-g42-sets-10-billion-tech-fund-2887481"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,15 +25,17 @@ images:
     isCached: true
 
 related:
-  - title: "Abu Dhabi AI firm launches 10 billion USD tech fund"
-    excerpt: "It will operate as a private equity investor, with a significant proportion of funds earmarked for high-growth regions in sectors ranging from communications, smart mobility and renewable energy to healthcare."
-    publishedDateTime: 2022-08-18T07:44:00Z
-    webUrl: "https://www.itp.net/emergent-tech/abu-dhabi-ai-firm-launches-10-billion-usd-tech-fund"
+  - title: "Mubadala-backed AI firm G42 sets up $10 bln tech fund"
+    excerpt: "Emirati artificial intelligence firm G42, chaired by the Gulf state's national security advisor, on Thursday launched a $10 billion fund to invest in late-stage technology companies. DUBAI, Aug 18 (Reuters) - Emirati artificial intelligence firm G42,"
+    publishedDateTime: 2022-08-18T07:40:00Z
+    webUrl: "https://www.nasdaq.com/articles/mubadala-backed-ai-firm-g42-sets-up-%2410-bln-tech-fund"
+    ampWebUrl: "https://www.nasdaq.com/articles/mubadala-backed-ai-firm-g42-sets-up-$10-bln-tech-fund?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/mubadala-backed-ai-firm-g42-sets-up-$10-bln-tech-fund?amp"
     type: article
     provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 17
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 69
 
 secured: "u0QP9wu4KLZypflZMxjY17y4x5N2Ypehj/2jPlz7Nk3H5q6uuwyvtbPDIkV3yAXG/oL8nsWfkJBQnRyheSGDFFoNQXrin97D6jKWL2CVqR1GJBRSU7+PsxVaPV3iy++CQ03cPPjfzk5ed9FbaDPvL+EBugIRSd12hWf5VfQHI1AELkJJ7wJ0fr3Ycd/oMuc+wVuAbVFSKw0K+XtCXZv4/IFjzMJNc13AiKz86QUwsfIJ6kb4Vbfrjk7Nmec96mxpJjwtrt2YILP+nFLoKkXpJVXgpntU+hkUgn4TqX/9ebNcOPFYY1VZhAgU77IL+kNv1oTjDhJo035q0yDA2PLwsAEur+C9ClPZydiWSdeDlq8=;d2kL/+NDKMYG9tvKccV30w=="
 ---

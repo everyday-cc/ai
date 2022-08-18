@@ -2,6 +2,152 @@
   "page": 74,
   "value": [
     {
+      "path": "_news/2022-06-17-why-ai-is-crucial-for-the-next-level-of-network-access-control-solutions.md",
+      "title": "Why AI is crucial for the next level of Network Access Control solutions",
+      "excerpt": "\"Integrating NAC with AIOps is critical to simplify deployment and operations and accelerate the resolution of issues.\"",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/16/why-ai-is-crucial-for-the-next-level-of-network-access-control-solutions/",
+      "originalUrl": "https://venturebeat.com/2022/06/16/why-ai-is-crucial-for-the-next-level-of-network-access-control-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1180183927.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/16/why-ai-is-crucial-for-the-next-level-of-network-access-control-solutions/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/why-ai-is-crucial-for-the-next-level-of-network-access-control-solutions/amp/",
+      "publishedDateTime": "2022-06-16T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-cybersecurity-ethics-artificial-intelligence-imperatives.md",
+      "title": "Cybersecurity Ethics: Artificial Intelligence Imperatives",
+      "excerpt": "Ethics remains one of her chief concerns, including the design of new technology, including the machine-learning models that underpin so-called artificial intelligence capabilities. \"You need to take into account how you train these systems, who's going to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.govinfosecurity.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356",
+      "originalUrl": "https://www.govinfosecurity.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/cybersecurity-ethics-artificial-intelligence-imperatives-showcase_image-4-a-19356.jpg",
+          "width": 860,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HHS",
+        "domain": "govinfosecurity.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-funding-the-robot-revolution.md",
+      "title": "Funding the robot revolution",
+      "excerpt": "I also had the opportunity to get a peek at a few projects from Pieter Abbeel’s lab at Berkeley Artificial Intelligence Research ... ve seen with the larger startup. The past couple of years ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/16/funding-the-robot-revolution/",
+      "originalUrl": "https://techcrunch.com/2022/06/16/funding-the-robot-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/prime-air-drone-deliver-04.jpeg?w=1024",
+          "width": 1024,
+          "height": 656,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/16/funding-the-robot-revolution/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/16/funding-the-robot-revolution/amp/",
+      "publishedDateTime": "2022-06-16T11:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-understanding-learning-by-inference.md",
       "title": "Understanding learning by inference",
       "excerpt": "suggesting that Microsoft shares will likely drop soon, too. “Knowing this hidden relationship means you can learn a lot faster,” Boorman said. To investigate how humans can use a cognitive ...",
@@ -977,162 +1123,6 @@
         "AI in Robotics",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-ai-weekly-lamdas-sentient-ai-debate-triggers-memories-of-ibm-watson.md",
-      "title": "AI Weekly: LaMDA’s ‘sentient’ AI debate triggers memories of IBM Watson",
-      "excerpt": "I learned a bit about how LaMDA triggers memories of IBM Watson. Transform 2022 Join us at the leading event on applied AI for enterprise business and technology decision makers in-person July 19 ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/",
-      "originalUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-108024053-e1655405017212.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/",
-      "publishedDateTime": "2022-06-16T04:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-edge-artificial-intelligence-ai-chip-market-size-share-to-expand-at-151-cagr-through-2028.md",
-      "title": "Edge Artificial Intelligence (AI) Chip Market Size, Share to Expand At 15.1% CAGR Through 2028",
-      "excerpt": "Jun 16, 2022 (Market Insight Reports) -- The Edge Artificial Intelligence (AI) Chip market size study provides a detailed analysis to identify important growth drivers, challenges, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-size-share-to-expand-at-151-cagr-through-2028-2022-06-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-size-share-to-expand-at-151-cagr-through-2028-2022-06-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T04:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-the-1-way-ai-is-transforming-grocery-shopping.md",
-      "title": "The #1 way AI is transforming grocery shopping",
-      "excerpt": "\"It's pretty overwhelming to get your food right each week,\" says Alex Weinstein, Chief Digital Officer of Hungryroot an AI grocery company. \"Customers tell us all the time - it takes many hours each week to plan, shop for, and finally cook meals for their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/1-way-ai-is-transforming-grocery-shopping/",
-      "originalUrl": "https://www.zdnet.com/article/1-way-ai-is-transforming-grocery-shopping/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5de1e47772871d2cdede7663cb5514cc764a5e8a/2022/06/08/adfb4415-c4ca-4702-9690-fe2133e65f9d/hungryroot.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/1-way-ai-is-transforming-grocery-shopping/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/1-way-ai-is-transforming-grocery-shopping/",
-      "publishedDateTime": "2022-06-16T04:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

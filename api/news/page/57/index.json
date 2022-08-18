@@ -2,6 +2,136 @@
   "page": 57,
   "value": [
     {
+      "path": "_news/2022-06-29-abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year.md",
+      "title": "Abnormal Security Recognized as the Winner of 2022 Microsoft Rising Azure Technology Partner of the Year",
+      "excerpt": "Abnormal Security, the leading behavioral AI-based email security platform, today announced it has won the 2022 Microsoft",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/",
+      "originalUrl": "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/amp/",
+      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/amp/",
+      "publishedDateTime": "2022-06-29T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-raystation-12a-brings-deep-learning-segmentation-for-all-users-as-well-as-new-features-for-brachytherapy.md",
+      "title": "RayStation 12A brings deep learning segmentation for all users as well as new features for brachytherapy",
+      "excerpt": "With the release of RayStation 12A, deep learning segmentation is available for everyone that is using RayStation for patient modeling. New and updated segmentation models will be released on a ...",
+      "sourceUrl": null,
+      "webUrl": "https://fox4kc.com/business/press-releases/cision/20220629IO04290/raystation-12a-brings-deep-learning-segmentation-for-all-users-as-well-as-new-features-for-brachytherapy/",
+      "originalUrl": "https://fox4kc.com/business/press-releases/cision/20220629IO04290/raystation-12a-brings-deep-learning-segmentation-for-all-users-as-well-as-new-features-for-brachytherapy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX4 Kansas City",
+        "domain": "fox4kc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-april-taps-ai-to-help-personalize-and-autofill-tax-filings.md",
+      "title": "April taps AI to help personalize and autofill tax filings",
+      "excerpt": "April, a startup developing a system to help personalize tax filings by pulling information from various apps and systems, has raised $30 million in a venture funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/29/april-taps-ai-to-help-personalize-and-autofill-tax-filings/",
+      "originalUrl": "https://techcrunch.com/2022/06/29/april-taps-ai-to-help-personalize-and-autofill-tax-filings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/closed_loop1.png?w=444",
+          "width": 444,
+          "height": 680,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/29/april-taps-ai-to-help-personalize-and-autofill-tax-filings/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/29/april-taps-ai-to-help-personalize-and-autofill-tax-filings/amp/",
+      "publishedDateTime": "2022-06-29T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality.md",
       "title": "Tech Giants Pour Billions Into AI, but Hype Doesn’t Always Match Reality",
       "excerpt": "After years of companies emphasizing the potential of artificial intelligence, researchers say it’s now time to reset expectations.",
@@ -986,134 +1116,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-yugabyte-intros-new-migration-engine-for-its-powerful-distributed-database.md",
-      "title": "Yugabyte intros new migration engine for its powerful distributed database",
-      "excerpt": "Yugabyte Inc. today announced what it says are the most extensive set of updates ever made to its database ecosystem. The startup is the chief developer behind YugabyteDB, an open-source and high ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/06/28/yugabyte-intros-new-migration-engine-powerful-distributed-database/",
-      "originalUrl": "https://siliconangle.com/2022/06/28/yugabyte-intros-new-migration-engine-powerful-distributed-database/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/yugabytedb_6645_logo_1598517773_l07za-951991753.png",
-          "width": 1251,
-          "height": 778,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T20:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-chinese-space-company-wins-in-top-intl-ai-competition.md",
-      "title": "Chinese space company wins in top int'l AI competition",
-      "excerpt": "STAR.VISION AEROSPACE GROUP LIMITED, a Chinese space technology innovator, has recently won the second place in the Multimodal Learning for Earth and Environment (MultiEarth 2022) competition during the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2022).",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/chinese-space-company-wins-in-top-int-l-ai-competition-1031556076",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/chinese-space-company-wins-in-top-int-l-ai-competition-1031556076",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1848074/1.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T20:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
-      "title": "China's Baidu races Waymo, GM to develop self-driving cars",
-      "excerpt": "That came 18 months after Waymo started driverless ride-hailing ... Baidu has expanded into artificial intelligence, processor chips and other technology. It says its autonomous vehicles could ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/news/baidu-ap-china-beijing-pedestrians-b2111678.html",
-      "originalUrl": "https://www.independent.co.uk/news/baidu-ap-china-beijing-pedestrians-b2111678.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T19:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

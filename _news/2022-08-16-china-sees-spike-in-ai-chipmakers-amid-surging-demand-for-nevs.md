@@ -7,8 +7,8 @@ originalUrl: "https://news.cgtn.com/news/2022-08-15/China-sees-spike-in-AI-chipm
 webUrl: "https://news.cgtn.com/news/2022-08-15/China-sees-spike-in-AI-chipmakers-amid-surging-demand-for-NEVs-1cwhO1dU0W4/index.html"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: CGTN
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI chipmaker helps OEMs shift from ADAS to AD"
+    excerpt: "Hailo recently announced its collaboration with semiconductor supplier Renesas to deliver a more powerful and energy-efficient processing solution enabling more sophisticated ADAS and AD in motor vehicles."
+    publishedDateTime: 2022-08-18T09:11:00Z
+    webUrl: "https://www.just-auto.com/interview/ai-chipmaker-helps-oems-shift-from-adas-to-ad/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 54
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/06/shutterstock_1590824914-1.jpg"
+        width: 500
+        height: 282
+        isCached: true
   - title: "Cloud Hangs Over U.S. Chipmakers On Worries Data Center Growth Could Slow"
     excerpt: "Cloud and data centers, the chip industry's strongest sector, may be its next problem: Signs are showing growth could slow in what has been a pillar during the COVID era as consumers signed up for cloud-based entertainment and companies retooled their offices."
     publishedDateTime: 2022-08-16T22:06:00Z
