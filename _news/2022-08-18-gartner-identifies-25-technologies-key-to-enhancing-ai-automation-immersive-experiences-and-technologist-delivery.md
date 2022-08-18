@@ -23,6 +23,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Leveraging technology for better learning outcomes"
+    excerpt: "The technological breakthroughs have made immeasurable impact on how we access information, how we learn, and how we teach"
+    publishedDateTime: 2022-08-18T19:33:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/leveraging-technology-for-better-learning-outcomes-758331"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 4
+
 secured: "NY1LzUyC/ysE1bhMOJDKxvGlgvJ7xyIIQrJxueRRc0IGTN3TZXaX1uiN4UmAcgtQ8EZFEOBRY/puTTtN/xOUK+Nj7yPGQOmuzWUSw+BJKrj4HQX7KAT5T6wWWha27iqMIEntsbRYgR/0tk8jAuPCwaG2C7OyheV16lTNf6UjhtmHK0gHQW+22b04kdQ6oR+CO87IrsZb9f70s+9hrfTnWYNaLtEKf9FUztGXu6O1Y4umU5Iv44xCpees+WHI5/86FZRRdM+JzMkbbnIPHy/iW7quyyAN/VOEj6Ox6KnzrzvbC9Lmg21vxEMvlYoGBVnlfaGxIBdIJCRPPbfDG1k3bNWdeuALUQQk+R30+Fn52Tmcv9xUzQKT/ddIqQYebmo6pM95HscgiZrMAsZiBQc8t2NqohrWdnNNlNK8aNhPv2BLCSYPHwnpEhGyzSCoeGbHLBEuSoHeo/sAat6gsCLFctbbMg1+ploQlivsHI6H8Nv4kXubey2xAwA3HBNszMw3sasEk8lEATiFz4A0XVT4iw==;o5SWLEaYEvNu7C903l1Zzw=="
 ---
 

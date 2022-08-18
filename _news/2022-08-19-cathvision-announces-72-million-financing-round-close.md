@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-18T18:29:00Z
 originalUrl: "https://www.mddionline.com/technologies/cathvision-announces-72-million-financing-round-close"
 webUrl: "https://www.mddionline.com/technologies/cathvision-announces-72-million-financing-round-close"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: MD&M East

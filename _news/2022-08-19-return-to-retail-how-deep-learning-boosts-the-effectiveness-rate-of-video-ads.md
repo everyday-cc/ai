@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-18T17:59:00Z
 originalUrl: "https://www.mytotalretail.com/article/return-to-retail-how-deep-learning-boosts-the-effectiveness-rate-of-video-ads/"
 webUrl: "https://www.mytotalretail.com/article/return-to-retail-how-deep-learning-boosts-the-effectiveness-rate-of-video-ads/"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: Total Retail

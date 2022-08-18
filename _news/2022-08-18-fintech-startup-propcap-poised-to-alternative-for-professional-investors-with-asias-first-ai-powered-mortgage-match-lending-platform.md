@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-18T02:00:00Z
 originalUrl: "https://www.asiaone.com/business/fintech-startup-propcap-poised-alternative-professional-investors-asia-s-first-ai-powered"
 webUrl: "https://www.asiaone.com/business/fintech-startup-propcap-poised-alternative-professional-investors-asia-s-first-ai-powered"
 type: article
-quality: 6
-heat: 6
+quality: 8
+heat: 8
 published: false
 
 provider:

@@ -5,7 +5,12 @@ excerpt: "Allow me to borrow a phrase from baseball for a moment. If you follow 
 publishedDateTime: 2022-08-18T18:30:00Z
 originalUrl: "https://techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/"
 webUrl: "https://techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/"
+ampWebUrl: "https://techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/amp/"
 type: article
+quality: 89
+heat: 89
+published: true
 
 provider:
   name: TechCrunch
@@ -17,7 +22,14 @@ provider:
 
 topics:
   - AI
+  - AI in Robotics
 
-secured: "yt4C3X84FKhQ73F9K7NrLge6I8FTMkLvqChgjl/rRFS+JPy6ATzm6xRj+d2uIpH6/xvK9ODS9isfYwb0cVvlDXWgeiBBBYDn7m7IpqQyB2MZOq4EFvE1T7CcEs8dNUP8h9cUvT7TFFZnu107pbV6s/EQibiL9lq0ixwQZ+/lf++LBQiAUsbQHDc3cPqv7yem0z6/82dcFjxR858kXOEV07/PlKlW3f7ncaYrns4ogkQ9FVk7nPkjHWTNFdRLLS9JBGpMbuUGEOCcmAkn/YxvD3fWeF/S4nhe7ooxHBf8Cj23S/kmqJnoGasWJAgBLJjvOcMlc0mx2o3B3ZZ9sQzFP8nZmsFfPIxhAR7lI/qwfxtkuEkamxMhSrlZijKuyeR5MFgemJP6YZcXlferIvT2Uw+AZ1yO97Pjfv6vtUYDg6LtYW113hdwMJqNL0WTJJSGXc3o2hSmd4yt3TohQv6lL3pwU5HgudS2UdFmV3eCqF0jYFElnawFIzladjvOteiG3MOuAdlEPN8cCrh7VHZUrA==;GAB4IWZqbUuDtJ7z8HTkmQ=="
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2022/08/pYcC1goDf3wvfku_.2022-08-11-12_31_38.gif"
+    width: 800
+    height: 450
+    isCached: true
+
+secured: "qWOBQdacDmMTBFaG+Mo4bA7ZDmWjAH9yt0jN7KVMp9FJXnm+hpY9XEN94XIoHyCJlk7qJP/ZhXmxFMWflBUsnOOtkFcVoLnu9z4KTFKb2GDWEuPpEVgJOI6CvL9s4J1YHpJiSuL+4J8S8Rj5/+0nkYp/sRWYNAoywRvQpufiTcHRz9PC+2NzrCTrDyKYD11McAleg0C1jad46AgsnZ+NyHkdVbdAAUoNPFnWkfM5WfTgjp/jNEfwcB2To4HLxTl6xi8QFftrxXWTRA00/Qe1bnLrwR4flOHI4BApYlxRhw1vyfBccx/uCNlmI1ARYYE/vJVmV2vJZcPNiotird9TxSvKUDz6xToJ4jhyihNFv70=;iCSHWO/gJIfPicMs5KmBmQ=="
 ---
 

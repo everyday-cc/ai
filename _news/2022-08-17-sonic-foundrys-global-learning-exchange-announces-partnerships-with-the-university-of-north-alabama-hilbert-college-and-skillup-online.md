@@ -1,23 +1,25 @@
 ---
 category: news
-title: "Sonic Foundry’s Global Learning Exchange™ Announces Partnerships with the University of North Alabama, Hilbert College, and SkillUp Online"
-excerpt: "The completion of these partnerships in advance of the fall semester will allow Global Learning Exchange™ students to enroll in a variety of learning programs from each of the three providers’ offerings."
+title: "Sonic Foundry's Global Learning Exchange™ Announces Partnerships with the University of North Alabama, Hilbert College, and SkillUp Online"
+excerpt: "Sonic Foundry, Inc. (NASDAQ:SOFO), the trusted leader in video capture, management and streaming solutions, today announced that its Global Learning Exchange™ (GLX) business, which provides students a"
 publishedDateTime: 2022-08-17T14:48:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-17-sonic-foundrys-global-learning-exchange-announces-partnerships-with-the-university-of-north-alabama-hilbert-college-and-skillup-online"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-17-sonic-foundrys-global-learning-exchange-announces-partnerships-with-the-university-of-north-alabama-hilbert-college-and-skillup-online"
+originalUrl: "https://www.benzinga.com/pressreleases/22/08/b28536578/sonic-foundrys-global-learning-exchange-announces-partnerships-with-the-university-of-north-alabam"
+webUrl: "https://www.benzinga.com/pressreleases/22/08/b28536578/sonic-foundrys-global-learning-exchange-announces-partnerships-with-the-university-of-north-alabam"
+ampWebUrl: "https://www.benzinga.com/amp/content/28536578"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28536578"
 type: article
 quality: 0
 heat: 0
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "XahA6UNmy+dCv5fahAhstTDHzIMupmvVIxjSGfNKouE58RYUAsPw92oDxbZsy/UZyVA22kZld5U2QjIxYsTcZ9t5Tq13+2z596pyHhT7K8oRxDGvG3QhALDRh6ay+NS4cOrK/I6vSsrafgJG2aorY6EIb2b2OyuZVUHp71e5dmKFWIYevVpVtRumVphHo+vOUekUFJpfP4Je+jLUukbqj5HRK0nEeQ2skke3b9/C8eQDig+HtuDzdudUCtC0J3lGYL6bqL2C+P2mjpb9KqSSFOK7QIpTnSrPKcQn+258Wn035D3EfpspjCMbpdJIjBUT9mZ2//GPYJgsh/hyJbFA9leiNkCRa69f2NPNHoCCRLA=;79Qb4gfFFIwZv8McdPaBlA=="
+secured: "feScCz9cWV/qnVTvr86nH0vzjg+arQvcjc0KzZmq3ZGkKknHJmbzJUxiDMTpktlR+MFU7m7MkuQcXvltCEyqfHZr+gvGdNQyQ7tEfEYgJCWZUkv6kcLTBIUk1GzALTWGwYSr1n5CSuTEGGlpl5he143DtEgWrbY4ZCq4uIW9CGFVQCSXOgiZVLGxwS1ppIK9sxOZr3XYzz4XkYA4nyZZPClaqTleIy7406edAe41iaUCc2tZ5l4mLEPjmw6mxLI0jhu9Z/RLbGIFYzI+QalX/WXMHBXE4anEKSW7E7exteI0uyKKV68qrKukuN2WWA8upwIhFlKguw5vRywrDQswJVO0s1MVZrq+fDGxfWkGMZY=;nbSH7n0mFb2TnKbsBDlatA=="
 ---
 

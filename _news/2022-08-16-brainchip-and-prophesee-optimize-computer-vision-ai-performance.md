@@ -1,25 +1,25 @@
 ---
 category: news
 title: "BrainChip and Prophesee Optimize Computer Vision AI Performance"
-excerpt: "The partnership combines Prophesee’s computer vision technology with BrainChip’s neuromorphic processor Akida to deliver a complete high-performance and ultra-low-power solution. Nature of Disruption: Prophesee’s computer vision technology leverages ..."
-publishedDateTime: 2022-08-16T10:19:00Z
-originalUrl: "https://www.army-technology.com/uncategorized/brainchip-and-prophesee-optimize-computer-vision-ai-performance/"
-webUrl: "https://www.army-technology.com/uncategorized/brainchip-and-prophesee-optimize-computer-vision-ai-performance/"
+excerpt: "The partnership combines Prophesee’s computer vision technology with BrainChip’s neuromorphic processor Akida to deliver a complete high-performance and ultra-low-power solution. Nature of ..."
+publishedDateTime: 2022-08-16T07:23:00Z
+originalUrl: "https://www.just-auto.com/uncategorized/brainchip-and-prophesee-optimize-computer-vision-ai-performance/"
+webUrl: "https://www.just-auto.com/uncategorized/brainchip-and-prophesee-optimize-computer-vision-ai-performance/"
 type: article
 quality: 54
 heat: 64
 published: false
 
 provider:
-  name: army-technology.com
-  domain: army-technology.com
+  name: Just Auto
+  domain: just-auto.com
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/08/shutterstock_796709485-1.jpg"
+  - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/shutterstock_796709485-1.jpg"
     width: 500
     height: 247
     isCached: true
@@ -40,6 +40,6 @@ related:
         height: 450
         isCached: true
 
-secured: "OzoJxwNdLl+yZcyHjBUVQkwVlyJJie5FH4wNcgnsM4klKnpkRZ4ZZbTqxjHsFiI8l/rjHt5oJ6TFuKdq6VaCjOsNNwao5QsxxsD3vRtiFN1U9RUeB9X9H1HvDJ2ivxRIDtoM3X4HrUzItBKr6lA/wpGh3ax0hxyAuA4HD6EvfxbXS/B94wESGYEeS1m+KpadZl9Zk1NVymmrFAaDtr4rfF166j2hTlhEMjfFmJTEVZSjXEg7qEp503Tnf3tCkZQGrVy3uEAYRTKep5kgt+HfhqMxulFTkhTZhnQ72tgIYI++dZIqGi8xWm35pcIZZxkilSLi22+28rSbPQ8j4IxlXGYvNSR5avpcxg4FvcOlkQI=;EuBwvhp/Jjt78R9+aswF9g=="
+secured: "c0K8ACIz4lr18f5/tzWZTfYsTDwKAeGVlI9+N0U5rut5zCj/kKAm6PAsYdwYNnOPQjj/ou4FU349ibM5RtefJ+CE1br1f03zRG3CbppduhKoud58rcHlSXCCggbPLuwOWb4PBKtieRjOnbaKRr5mldkQnRTNuyvznvy/CJBZpgIgZfoCu07y+z86oPS+N/dysV3sAKOxWvEh0/xON7KwFr6ISG+oxQ4+qBkRYXbHWGndcj+oLbWLf/8SDs6yzohBC4s/c+yMgSiX8t6O1oVi0IpqPyw3BP+4lxG9X9oS4tFDF7OOk0AR064x2r6f3zkMZJb8nAomJb2Gn2sYtOgx1CkU+PxDRI+j03+8ySpymug=;zmLuBAmJzvj6sRmS8h6clg=="
 ---
 

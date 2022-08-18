@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-18T18:01:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-18-chiplet-summit-helps-designers-create-huge-chips"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-18-chiplet-summit-helps-designers-create-huge-chips"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Daily Herald

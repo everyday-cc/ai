@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-language-skills-coax-google-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/"
 type: article
 quality: 106
-heat: 146
+heat: 156
 published: true
 
 provider:
@@ -94,6 +94,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Google enhances its home assistance robots using AI language models"
+    excerpt: "Large-scale language models are being used by Everyday Robots‘ research team to ensure that robots don’t misinterpret human speech and act inappropriately or even dangerously. SayCan (language models with real-world foundation in pre-trained skills) and PaLM (Pathways Language Model),"
+    publishedDateTime: 2022-08-18T12:24:00Z
+    webUrl: "https://bestgamingpro.com/google-enhances-its-home-assistance-robots-using-ai-language-models/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 19
 
 secured: "8/ASOIdu7BdpAyM184mgWJU5JxeoGOGYVk6k+r1/6L+MUmnqMsHFE6gQx38CHMO9u49+8B/eCRPVsha7MePEdmIseqOH98PQRnkPV9C3qzKW7I2Yewb5NZCzHMzmIOjj0nNUEEocWzdfmxCTv7/2d1X9LrlUn44gKInT+PoPL8MUSTRFTBqczmaAVCQEEofNN6KGQ+1H4gA+JF6HprhiIQWAmAPCfFMIkXyrhvpMGZroVJO5CWzRhazrq8q+10sqxOddu/GPyEHn7DgqU+GKYIGlrJLGU7BBY6YjlYk9mo6n6yW9Qeq8XwDtXTAP4en0i66ZWTXWpuGVQb1lv3YI4aaeEkMw1E7qkswN8Y81TWCTJgA7aJk56LLYXLo3MKmf3pXkQVBNyMBjS24B2juhbsl5Mm6OVCaS6Yz4LSO19qOeKf7g1etyRtIoGjAW406B+kZbp86V4OQ/uYmje27nn3D9RIF/+NX1vJU1YRxokpuMhI/fH4JDijc/e8N5mfb5BJUC4tjwmRF/pD7PNckoyA==;qEOOveLjLbomYyrT1jgMWw=="
 ---

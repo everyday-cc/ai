@@ -54,15 +54,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "CTM Enhances Lightning with AI, Machine Learning"
-    excerpt: "Corporate Travel Management has added artificial intelligence and machine learning capabilities into its Lightning online booking tool in North America, the travel management company announced."
-    publishedDateTime: 2022-08-14T04:00:00Z
-    webUrl: "https://www.businesstravelnews.com/Technology/CTM-Enhances-Lightning-with-AI-Machine-Learning"
-    type: article
-    provider:
-      name: Business Travel News
-      domain: businesstravelnews.com
-    quality: 34
 
 secured: "dSMtPp6NAwOYthdU2/2IHici86a9mTJIHekGoseuWMwAUeB6lIvcxLCRjhXU9MT/I72qC7vRRetTDs5vCmRFpnvJtd2sW0EXF8gSV5WPMjon9EIPs2F24oR6WfM67u4t9bT/UwJV6cq7+OSK5Jw6v0rktKZQubTKwtA3kqxeXtrI+Ao/vGu2TH5gnE31b1iiYu2PhJXj5XCnePfbQpB1wcA31DpcjU1a18m/dfBqqLFT9fpcovvlg8CY07yO1ukEsRzt7peoqc07jBIhsP8e2Y7P5+JfYsPP4JH85t4OYJkFAmRCDeIBG1FdsGOK3A8RepIeqBUB8WepjiCNOvpsERocCKFCa8w94zGZKxRdJY4=;dBSIkTYby4D31LY0JvxudQ=="
 ---

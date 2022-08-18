@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-18T14:16:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/space-exploration-technology-science-3155e9661ab448a8a67a56934f06402a"
 webUrl: "https://apnews.com/press-release/business-wire/space-exploration-technology-science-3155e9661ab448a8a67a56934f06402a"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Associated Press
@@ -14,6 +17,24 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Samsung Biologics, C&T invest in US biotech firm Senda Biosciences"
+    excerpt: "By Baek Byung-yeul An investment fund created by Samsung Biologics and Samsung C&T invested $15 million into U.S.-based biotechnology company Senda Biosciences as part of their ef"
+    publishedDateTime: 2022-08-17T07:16:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2022/08/779_334579.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=334579"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=334579"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 44
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202208/dddbae1408054776894fbfa533219efb.jpg"
+        width: 980
+        height: 735
+        isCached: true
 
 secured: "+kNJZcYf4OC5Cdhhi27Rowef7SiFm8DpiBFhWHln6TL+bOCh31boCche//EG0kaqio6KK/p9wnF9d7qn+wo5jXNYz8ENbN7/QKvu46Z3Rm5BTDsHwUaTgG27pUfG3/A0vBc+HnnwbjZRyvFRlfYnhc4g41PiBnWCcbR+gw5/2UIC/ncEkPypHqnSMn5jSbMKHeBUCxLwJPS5ZbT5/WsPex3u7B2deBzB+LovczEwykhSQH10lar9QWFwiiTtFcPgfT7s7TRFXaHxuBJcz/Drs+g4qnVapnOhN0hm/Dv0gYpM7Ze/YbznTiAGZ4gM6XwUnIerDhwV2fgH+FlIxw6FMx7Y7qmnA59jf0m9zT9HMWk=;niUTIQhwmyGxaM1Pik7pdg=="
 ---

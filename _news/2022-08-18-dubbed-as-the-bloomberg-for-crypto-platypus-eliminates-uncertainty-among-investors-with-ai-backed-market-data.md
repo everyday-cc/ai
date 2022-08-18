@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Using AI Backed Market Data, Platypus Terminal, Dubbed As “The Bloomberg for Crypto,” Removing Uncertainty Among Investors."
+    excerpt: "The blockchain-based news and research business Platypus Terminal has been making waves in the industry. To provide the most recent developments in cryptocurrency, they combine AI-driven data with manual analysis from professionals,"
+    publishedDateTime: 2022-08-18T20:50:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-8-18-using-ai-backed-market-data-platypus-terminal-dubbed-as-the-bloomberg-for-crypto-removing-uncertainty-among-investors"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
+
 secured: "+wl9zopnrgcjtTH/Vm19T3R52verlMrqbFHr3x9jUBkAXwPQxE9wgHV/jkkNdAiVe8iOCYr1ed9VPpM25hMtOvG+0fQSNBb8X7P40ulIF7Tyk2e3lWSjO+vcORtX1+h3BXkPLQ4QNSvVZc+gTNaEPJyHLma8eaiQMql4KLzTSAZYttPCZgsbWcOW32KIy2auQKGMGvFpgwx5g475cytkaIW5qyBbJjkeAHZcQMZRUdacqO/9rqoSSQvo1DKKZwpY0LPUWyzOl4wT0U1nCakxiVoPlgdK6bP6u7dBAQr6FphUEcVkopgSPPkOlxvo54XFCzLkv3B0409wZ1UY+usbpoqshJYtcVgV6MKTSCiUbnHA+9qkEFI0QjgIgpuZv1QuLrb1720lChjqtH/oUvMLcqE5opmKEANTONAm4mYsBpbmyyYj+cLBXyQVHamPIjOkEGHXCnH8RjLpkmzgB6Lml3COEB7bQyhKg0o8W5bLZStaNH80ZYh/zypr+uYyzWJ9YhSY2sUL4J5V8t2BkPDDJg==;97uT5gCkazf+WzK/dENoAQ=="
 ---
 

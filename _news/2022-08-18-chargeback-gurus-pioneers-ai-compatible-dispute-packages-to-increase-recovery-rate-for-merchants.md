@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-18T16:02:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/business-d31790657feb91a61e476e52c556ce40"
 webUrl: "https://apnews.com/press-release/globe-newswire/business-d31790657feb91a61e476e52c556ce40"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Associated Press

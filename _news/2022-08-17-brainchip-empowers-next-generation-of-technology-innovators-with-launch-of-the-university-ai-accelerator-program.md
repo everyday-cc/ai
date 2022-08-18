@@ -26,16 +26,16 @@ images:
 
 related:
   - title: "BrainChip and Prophesee Optimize Computer Vision AI Performance"
-    excerpt: "The partnership combines Prophesee’s computer vision technology with BrainChip’s neuromorphic processor Akida to deliver a complete high-performance and ultra-low-power solution. Nature of Disruption: Prophesee’s computer vision technology leverages ..."
-    publishedDateTime: 2022-08-16T10:19:00Z
-    webUrl: "https://www.army-technology.com/uncategorized/brainchip-and-prophesee-optimize-computer-vision-ai-performance/"
+    excerpt: "The partnership combines Prophesee’s computer vision technology with BrainChip’s neuromorphic processor Akida to deliver a complete high-performance and ultra-low-power solution. Nature of ..."
+    publishedDateTime: 2022-08-16T07:23:00Z
+    webUrl: "https://www.just-auto.com/uncategorized/brainchip-and-prophesee-optimize-computer-vision-ai-performance/"
     type: article
     provider:
-      name: army-technology.com
-      domain: army-technology.com
+      name: Just Auto
+      domain: just-auto.com
     quality: 54
     images:
-      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/08/shutterstock_796709485-1.jpg"
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/shutterstock_796709485-1.jpg"
         width: 500
         height: 247
         isCached: true

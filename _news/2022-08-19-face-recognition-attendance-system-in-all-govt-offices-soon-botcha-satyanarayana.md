@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-18T18:12:00Z
 originalUrl: "https://www.thehansindia.com/andhra-pradesh/face-recognition-attendance-system-in-all-govt-offices-soon-botcha-satyanarayana-758288"
 webUrl: "https://www.thehansindia.com/andhra-pradesh/face-recognition-attendance-system-in-all-govt-offices-soon-botcha-satyanarayana-758288"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: The Hans India

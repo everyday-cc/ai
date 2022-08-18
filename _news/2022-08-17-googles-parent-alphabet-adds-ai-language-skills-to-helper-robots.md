@@ -88,6 +88,15 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "Google enhances its home assistance robots using AI language models"
+    excerpt: "Large-scale language models are being used by Everyday Robots‘ research team to ensure that robots don’t misinterpret human speech and act inappropriately or even dangerously. SayCan (language models with real-world foundation in pre-trained skills) and PaLM (Pathways Language Model),"
+    publishedDateTime: 2022-08-18T12:24:00Z
+    webUrl: "https://bestgamingpro.com/google-enhances-its-home-assistance-robots-using-ai-language-models/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 19
 
 secured: "uZDP6EeeyODYH3ks7m0TeMDLyrKLco25rpibq/jEqXqqCb2UDim1w/8IP9twFnNAQERBqmYLP6SeAHJdI2VhgnxXmS+4in16Lq7JEajzeVC8j4bxTovrqVIvYaHsS1f4UqYD0o+Gqf74RZkF5nHT0hxh0RVhvJh26R4kXEf0WvCfnJTFTCTnfqtCSgulbSPYrRKWbwmlLub8r6Qhv/KxV/+fXIHG5nUVLw6gVwdXwagvmrPJTP1ftMquvePnTuPvZEYXiVhjnPmXVDOsNQCSWKN1hZoxBDC2ItyhDXZobNsjCI6lb5DtowQR512C3n/Cqru2dbs/KPb1qQ9ipu3qNO0+U1Jo59hZYcF+uSCJp6k=;es0QujBtW4LOCvGnkCCUww=="
 ---

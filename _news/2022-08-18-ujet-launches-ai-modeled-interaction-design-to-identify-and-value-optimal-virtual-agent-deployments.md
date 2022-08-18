@@ -1,19 +1,22 @@
 ---
 category: news
 title: "UJET Launches AI-Modeled Interaction Design to Identify and Value Optimal Virtual Agent Deployments"
-excerpt: "UJET, Inc., the world's most advanced cloud contact center provider, today announces advanced AI-guided customer service operations that leverage hundreds of thousands of customer insights to drive enhanced customer experience (CX) capabilities and automated virtual agent responses."
-publishedDateTime: 2022-08-18T15:23:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/18/9658804.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/18/9658804.htm"
+excerpt: "Innovative Cloud Contact Center Provider Enables Brands to Massively Scale and Continually Improve Virtual Agent Interactions. UJET, Inc., the world’s most advanced cloud contac"
+publishedDateTime: 2022-08-18T13:55:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-18-ujet-launches-ai-modeled-interaction-design-to-identify-and-value-optimal-virtual-agent-deployments"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-18-ujet-launches-ai-modeled-interaction-design-to-identify-and-value-optimal-virtual-agent-deployments"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
 
-secured: "9R93bkz0CM1HBc3UFBLpwsA2USqMac+PRf1voF730KCHUHEG7KRRgNx8kXdUZLmenEe76t9u+sJOhlydUOlTqFHJBV0akRLmWCONzxtP9L92Tsg3jaXKGXs2P4J2V9pa6pbkldr6XCrNa3CH9qmCkfb60c2pp01e+wD1nk1PB4vcQhGAJsD7gyFhknsOM2EK77HE0VPBcCDTyAa1iSsFGRLnZLNA6UD6H0D2pOplLCtwiDw0mOxDCtgnMUiO4tGkBsDAUPM7kqrt+2fBNeFGoH+VAL/a8ncF5+xS741BeO1KeoZzN/xbmUNWsGOblRQK6AxCA9bNxkLMbggYMvGOMa8AVdsrXwVmxHXU0GVVfJ0=;jka+Zp80rJMrtnqOnguGiQ=="
+secured: "HlQMu+lCznfhOBcNiX5Kn/k2/lhNl9H/lxeWTkCwYng+1djZONvWFFjnXKfrO9dhdBmMOl3fp/fxULzJ/5QURCYAdSpYmusvhyD9A+vbeUAa5XwUUhx+l088w9goGR6spdH4P5ojRFhQV8DPPTBo9gWLzzu//Q+5096pY2PIO2ifxXpCmxjMT7w2ukMTc5G7/1U/kVoY9i0zQTEJbOJuzu4pEw7eFyHvnY64hOTVCiVsknJdoKcF4hq42iF+8SoA9MyXEWUPo4U3rIhncXSoz4q8wL9w8R/SkaVpHS+Y42HSjl4MHMmyn2mrlwtbcrMmNn1qpT0nCmzqnbvsVwVkpwHIBF0kKeoejOnIBh7QQ20=;+CWXv/Lg3zY1XxQ2a6Auuw=="
 ---
 

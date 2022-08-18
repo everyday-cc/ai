@@ -1,0 +1,49 @@
+---
+category: news
+title: "Facial recognition: UK plans to monitor migrant offenders are unethical—and they won't work"
+excerpt: "One afternoon in our lab, my colleague and I were testing our new prototype for a facial recognition software on a laptop. The software used a video camera to scan our faces and guess our age and gender."
+publishedDateTime: 2022-08-18T21:32:00Z
+originalUrl: "https://techxplore.com/news/2022-08-facial-recognition-uk-migrant-unethicaland.html"
+webUrl: "https://techxplore.com/news/2022-08-facial-recognition-uk-migrant-unethicaland.html"
+ampWebUrl: "https://techxplore.com/news/2022-08-facial-recognition-uk-migrant-unethicaland.amp"
+cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-facial-recognition-uk-migrant-unethicaland.amp"
+type: article
+quality: 49
+heat: 49
+published: false
+
+provider:
+  name: techxplore
+  domain: techxplore.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/facial-recognition-uk.jpg"
+    width: 926
+    height: 517
+    isCached: true
+
+related:
+  - title: "Facial recognition: UK plans to monitor migrant offenders are unethical – and they won’t work"
+    excerpt: "Namrata is a member of A+ Alliance Feminist AI Research Network f<A+i>r. One afternoon in our lab, my colleague and I were testing our new prototype for a facial recognition software on a laptop. The software used a video camera to scan our faces and guess ..."
+    publishedDateTime: 2022-08-18T15:50:00Z
+    webUrl: "https://theconversation.com/facial-recognition-uk-plans-to-monitor-migrant-offenders-are-unethical-and-they-wont-work-188330"
+    ampWebUrl: "https://theconversation.com/amp/facial-recognition-uk-plans-to-monitor-migrant-offenders-are-unethical-and-they-wont-work-188330"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-uk-plans-to-monitor-migrant-offenders-are-unethical-and-they-wont-work-188330"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 48
+    images:
+      - url: "https://images.theconversation.com/files/478551/original/file-20220810-20-ifsy3x.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=206&fit=crop"
+        width: 320
+        height: 206
+        isCached: true
+
+secured: "lnfvhaYVXYXBaA5R3CiHvtdmj4cqR6OCIEcsQanVmSI0nSLm/SGniq3M4VY1CaAJCMoRa8uGSngG9vyOjeA88efeXdQhCqBBuGbWmlupQtQNyVSJHHtI9yMbg3LynHrt4+g9zdn1y6NewMclEFqX9w2Q/1dq6Ot7CsUl5FYIEMG760YbVUFTNzI2rXPwFCRumVIFiism1lTfZOTs+CQZ/CmKkGf/iME3JLQ3AZK9ivqz0fIFTwl7AIoyNev/3vyoCu3yW/jtKurCm78BfQ/jv19HmkGQ2OrMBdyYyvYja5uSUsOd86u1OVeFQqoAKvz3yJmzinyepJ0W5ceSvomaItdELqqmms/gvXWCbBcJrKE=;AVOxp2st8hg6JlCU2iuzkw=="
+---
+

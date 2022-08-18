@@ -7,7 +7,7 @@ originalUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-8
 webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-8-17-ibefound-introduces-ai-powered-lead-generation-for-busy-business-owners-and-professionals"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,17 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "DearPro Launches First AI Technology to Connect Homeowners and Service Professionals"
+    excerpt: "DearPro is a growth platform for service professionals. The company helps home service businesses get more clients with its different software products. New York, NY, USA – DearPro, an innovative venture based in New York,"
+    publishedDateTime: 2022-08-18T19:02:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/getnews-2022-8-18-dearpro-launches-first-ai-technology-to-connect-homeowners-and-service-professionals"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 10
 
 secured: "QPuiOsUf1qZpcSVtIAUim0ZwLIIb7/PnmpeVBjnfotkkWqdOoZoTL+rZdsBPIH3I9ncsmH0DFAqnBJCuKGcjNGJ6E2V/VD3CuWa9zdnCvthDViXUijvdrHIJaJ4hZ1O+hJQog1wAZC2qkvrHjTey3TtadWcmNjT4CQEhKbacbUUoQ4+pBy/vLOYULNXgFsXFfIel0XNPvq/+kq3zxpOLXE51uzGfKxh0yp4BfmDge5a3kKnjVPEAniKcUqXIZrG/YicffYIAQqqMRvxmIY0vc31P+VC/agfg15nUvsqLWcDOWUYm1zy5UXZD1tTo4t6dPRLApfAfGX5wB+UQEs1k8wC9GaURsNWbUEIqebd411k=;HhH5N0wifnEdC/gu5i2OUQ=="
 ---
