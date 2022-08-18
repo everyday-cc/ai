@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-16T11:48:00Z
 originalUrl: "https://www.rfidjournal.com/prosegur-security-launches-responsible-ai-framework"
 webUrl: "https://www.rfidjournal.com/prosegur-security-launches-responsible-ai-framework"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: RFID Journal

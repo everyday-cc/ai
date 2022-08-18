@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-18T13:36:00Z
 originalUrl: "https://www.infoq.com/articles/battle-talent-recognition/"
 webUrl: "https://www.infoq.com/articles/battle-talent-recognition/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: InfoQ

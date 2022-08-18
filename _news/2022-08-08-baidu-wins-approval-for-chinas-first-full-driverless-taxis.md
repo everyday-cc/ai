@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "AqBmPLifPO8CKrkBV3BRAzhB0hmza3GWk0EUdQjjNzbtnCJ/0lN1WFW3i3gxa2ZZXlQ1Q1R5KgAuqrBe1vfpB8BhZ2FPVoVLDyGvoN0EehIrPIup05eFcyxmK2TJLRKX/qFQiLP33BQryqbZhPst6YoWRN/xE12cktUqt98j5pVrdgcGbcoGrFCJnxUuvmblxthCExMk2Bvbq1spRduXT3yxd50izYapZkbyaPUJfbTf5ACKlwDhMh4jd7syXd/u7VdjhT0lrhHDrBQsZ2XSbcIk2uvl7h/saDpEz11DSkEXL2dI3qLQaEmUfkvdZk1SLl8I8p4pjAk6SFbugvTTtqrRYyTsfvVy6vg8W+Vft3k=;5cuSVaCRMQv2g5z5+TpydA=="
+images:
+  - url: "https://apicms.thestar.com.my/uploads/images/2022/08/08/1689064.jpg"
+    width: 1240
+    height: 827
+    isCached: true
+
+secured: "xHjmm61GEsxfsuQqksa1fLKxLVPqLbhL4xYGhUVGv4kGRC2W3XYGYGbvZ2ssSxrl3JCJ2fa9nKgyK3ha/HkrVtC5fbOEzFCj+0Hbprcno+dJwCA0lPpDf/CTw6wxyoB7Jy8KODeKG46xDuGv1NQohcayWhzvwvJCucdI8ssJ00ae+Vi1T/So5jQ+XZbyCMM/nOcWido8cUCgWmEdhs1LcRN7fuiSw1yBUNUHZ+wkMI4VFkR5YqTa6YZ84nHS0hVXSdb8Ucuf7kUgJ3s6gBIUJowUg/S14CyhQcyB+wXIJxM+F6Qusa2J3HGqs4sw4BGtJIEYuFSPqOS+hLU4i3BuEuLgcHPkXv26L8aKsBMEQts=;L3PkPavnUNpcGE4UxRmOdw=="
 ---
 

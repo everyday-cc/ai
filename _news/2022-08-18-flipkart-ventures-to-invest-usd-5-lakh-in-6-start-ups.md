@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/business/2022/aug/18/flipkart-ventu
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/aug/18/flipkart-ventures-to-invest-usd-5-lakh-in-6-start-ups-2488830.amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,24 @@ images:
     width: 600
     height: 390
     isCached: true
+
+related:
+  - title: "Flipkart Ventures to invest $5,00,000 in six early-stage start-ups"
+    excerpt: "As part of the ‘Flipkart Leap Ahead’ accelerator programme, the six start-ups together will receive an equity investment of about $5,00,000 from Flipkart and undergo a mentorship programme delivered through a customised curriculum designed by Bain & Company."
+    publishedDateTime: 2022-08-18T14:50:00Z
+    webUrl: "https://www.thehindu.com/business/flipkart-ventures-to-invest-500000-in-six-early-stage-start-ups/article65783760.ece"
+    ampWebUrl: "https://www.thehindu.com/business/flipkart-ventures-to-invest-500000-in-six-early-stage-start-ups/article65783760.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/flipkart-ventures-to-invest-500000-in-six-early-stage-start-ups/article65783760.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 44
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/gpd5v1/article65784418.ece/alternates/LANDSCAPE_615/IMG_IMG_2021-10-13T14291_2_1_EB9VB56C.jpg"
+        width: 615
+        height: 383
+        isCached: true
 
 secured: "LdnAI1IZaoGOna/yhG7hlrrg9PRbB++iIf/+TRjhtNhM2mZWVLEn/JwRQxipL2Qta3rT7yIgs9aigZ/NxCfnuEZfD4b1BBqI04md8QUVrSnd4s0xp7Y46P0XK3fnk3uV2lLf2dxXRo10a+27vP6zhaTFEACjE3iGoDK9n4ePqXi0YZdXCcVx/bp/DiMDA9J1e+T2vBprM8Rqra7k3qfSAoYH453lLuI3p5gZS/MwJ+XIatjoJMzLvcjyYyluJi0tKxoTy3aLyZPlGejpxfu7NXmefPHkDFXN6seAIYumrFsGpUhWB9WE3wobAuv5KBoR1JZNWfyejl86xUbJfuMmKZRrWgG1b23HFFQ3B2pDO9j1veGyTzie+aHKmWXr8P4uwg0YsPs0wM6Q4i5kIn0s3qwA2HDvwKfmWUUxDZNNDXbuGAU+UAGgD4ZlT3VPMH30YEIup0XpSlx0Zuf7/z/F3pq7KHzCWJ1u50gI110uZYsJzTBsaf/fL1f72JRv5HjUhlbPNcHgpKvHja9wnU0TuA==;fPR/432jydfrxylhcNfevw=="
 ---

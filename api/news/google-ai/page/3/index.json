@@ -2,6 +2,112 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-24-openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net.md",
+      "title": "OpenAI spent $160,000 on Upwork for Minecraft gamers to train a neural net",
+      "excerpt": "The point of the work is to find a way to train a general purpose computer \"agent\" that can use the wealth of the data on the Internet to carry out all kinds of computer tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net-to-build-diamond-tools/",
+      "originalUrl": "https://www.zdnet.com/article/openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net-to-build-diamond-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/22ffcef4fd570a8f18bf6c65c1751640f3e70e1c/2022/06/24/75630c96-c275-4a5e-8a1c-b1d7b3528f63/crafting-diamond-pickaxe.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 612,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net-to-build-diamond-tools/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/openai-spent-160000-on-upwork-for-minecraft-gamers-to-train-a-neural-net-to-build-diamond-tools/",
+      "publishedDateTime": "2022-06-24T06:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-leading-a-movement-to-strengthen-machine-learning-in-africa.md",
+      "title": "Leading a movement to strengthen machine learning in Africa",
+      "excerpt": "",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/leading-a-movement-to-strengthen-machine-learning-in-africa",
+      "originalUrl": "https://www.deepmind.com/blog/leading-a-movement-to-strengthen-machine-learning-in-africa",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62b2f8a5be5a342016037d48_Avishkar%207.jpeg",
+          "width": 384,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-how-ai-creates-photorealistic-images-from-text.md",
       "title": "How AI creates photorealistic images from text",
       "excerpt": "Have you ever seen a puppy in a nest emerging from a cracked egg? What about a photo that’s overlooking a steampunk city with airships? Or a picture of two robots having a romantic evening at the movies? These might sound far-fetched, but a novel type of machine learning technology called text-to-image",
@@ -1314,92 +1420,6 @@
         "Google AI",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-is-deepminds-gato-ai-really-a-human-level-intelligence-breakthrough.md",
-      "title": "Is DeepMind's Gato AI really a human-level intelligence breakthrough?",
-      "excerpt": "DeepMind has released what it calls a \"generalist\" AI called Gato that can perform 600 tasks – but does this mean it is truly intelligent?",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2320823-is-deepminds-gato-ai-really-a-human-level-intelligence-breakthrough/",
-      "originalUrl": "https://www.newscientist.com/article/2320823-is-deepminds-gato-ai-really-a-human-level-intelligence-breakthrough/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/05/19153919/SEI_104918089.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2320823-is-deepminds-gato-ai-really-a-human-level-intelligence-breakthrough/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2320823-is-deepminds-gato-ai-really-a-human-level-intelligence-breakthrough/amp/",
-      "publishedDateTime": "2022-05-19T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-googles-deepmind-on-the-verge-of-achieving-human-ai.md",
-      "title": "Google's DeepMind on the verge of achieving human AI",
-      "excerpt": "Human-level artificial intelligence will soon be achievable, according to the lead researcher at Google’s DeepMind AI division. Dr Nando de Freitas said that it was \"game over\" in the long ...",
-      "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2357144/googles-deepmind-on-the-verge-of-achieving-human-ai",
-      "originalUrl": "https://tribune.com.pk/story/2357144/googles-deepmind-on-the-verge-of-achieving-human-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": " https://i.tribune.com.pk/media/images/623082907ce4897c3820b24c_DeepMin1652873089-0/623082907ce4897c3820b24c_DeepMin1652873089-0.jpg  ",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2357144/googles-deepmind-on-the-verge-of-achieving-human-ai?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2357144/googles-deepmind-on-the-verge-of-achieving-human-ai?amp=1",
-      "publishedDateTime": "2022-05-19T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

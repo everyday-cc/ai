@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-17T14:48:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-17-sonic-foundrys-global-learning-exchange-announces-partnerships-with-the-university-of-north-alabama-hilbert-college-and-skillup-online"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-17-sonic-foundrys-global-learning-exchange-announces-partnerships-with-the-university-of-north-alabama-hilbert-college-and-skillup-online"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Herald

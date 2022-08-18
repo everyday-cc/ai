@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-18T12:22:00Z
 originalUrl: "https://techvorm.com/mediatek-pentonic-700-chipset-for-premium-120hz-4k-smart-tvs-announced"
 webUrl: "https://techvorm.com/mediatek-pentonic-700-chipset-for-premium-120hz-4k-smart-tvs-announced"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Whirlpool

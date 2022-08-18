@@ -29,6 +29,17 @@ images:
     height: 630
     isCached: true
 
+related:
+  - title: "Voice Recognition Market generalship Report Industry Size, Segment by Key Companies, Types Applications and Forecast to 2025"
+    excerpt: "Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with"
+    publishedDateTime: 2022-08-18T13:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-generalship-report-industry-size-segment-by-key-companies-types-applications-and-forecast-to-2025-2022-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 7
+
 secured: "rjIaMQB6lSDNd4/OIdJcO1OYUx2x1kwUnNijIrLwcJSibua5u5J9EgxUzhkGtyMfw9aahi66BgJN3+MxOVoNIasIA/JPdknHSwJEEGuDTjUKqQHTgqrNzmRZPhAT6X/UU1i8oMsgnNFGzKy77DuS37j0y+cDGzv0pxtoEsDI5AzweWgoUxKb1ChwiMN5JW0jeDBI07t5M9Ynsx5rRru8k3JzmMr5hl4MlbjU5jnc9fjRkmzmWL8VjHLBVGW/a8/H56I6RzFN5XjiBd5mHOYz8dz2kqBkUJCr8h1thtvnxMcNcGhnDJoSkbKIOCHmqB4aFv+dgmXDA9MW5S2GH5Lbpn1u8TiWBbrtElGsJW7zmNs=;6xAi10aUHHLHmSVYsu2rlg=="
 ---
 

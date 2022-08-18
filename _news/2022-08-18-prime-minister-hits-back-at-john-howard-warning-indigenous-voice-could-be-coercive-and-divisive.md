@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-18T13:44:00Z
 originalUrl: "https://thewest.com.au/news/indigenous-australians/prime-minister-hits-back-at-john-howard-warning-indigenous-voice-could-be-coercive-and-divisive-c-7926843"
 webUrl: "https://thewest.com.au/news/indigenous-australians/prime-minister-hits-back-at-john-howard-warning-indigenous-voice-could-be-coercive-and-divisive-c-7926843"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The West Australian

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-17T19:53:00Z
 originalUrl: "https://www.businessreport.com/business/lsu-professor-creates-ai-based-startup-focused-on-space-exploration"
 webUrl: "https://www.businessreport.com/business/lsu-professor-creates-ai-based-startup-focused-on-space-exploration"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Baton Rouge Business Report

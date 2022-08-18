@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-18T13:10:00Z
 originalUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-generalship-report-industry-size-segment-by-key-companies-types-applications-and-forecast-to-2025-2022-08-18"
 webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-generalship-report-industry-size-segment-by-key-companies-types-applications-and-forecast-to-2025-2022-08-18"
 type: article
+quality: 7
+heat: -1
+published: false
 
 provider:
   name: MarketWatch
@@ -18,6 +21,22 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Top 10 Speech and Voice Recognition Market Industry to Look Out for in 2021 by Apple, IBM, Speak2web, Microsoft, Alphabet"
+    excerpt: "Request Sample of Global Speech and Voice Recognition Market Market Research Report with Opportunities and Strategies to Boost Growth- COVID-19 Impact and Recovery @  The The Brainy Insights segment is expected to hold the largest share of the Speech and Voice Recognition Market market,"
+    publishedDateTime: 2022-08-15T09:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/top-10-speech-and-voice-recognition-market-industry-to-look-out-for-in-2021-by-apple-ibm-speak2web-microsoft-alphabet-2022-08-15"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "BVgkD2IiFv6FFcvg6mHWg0/qKSkf8bkLK+gO70eBPZZXySrhcoIuMswsWtOb4amcQyyrT4O9mNuNga4pH7P4AgE1hgZvrmFv6kzCkVqXTpzP24OQAilRBwkt0qQAUBY2/CWazJokc2LF6NYepX6N0xp87zMFAOlfXuXfBQnxoD2TDekVFXRyKlEgYhs0ZENSuyF5lVBU7UHIoX1SwDSpFOXh+f/qb03Ys9e4/DIkzTsNEUzMHS1EsYuZzpn2BK1CmfXFT25fYdvDumguC8LGEqBOdAp6wb+oAEHmVPK6Nu4tlIHlT7r8lUeib8uv8Ue4lKbfZKFuZYX8PxnPqFBRwInfkVhVywQgE8RBhOvAhPA=;T/mq5UO/NOdjKJI6Ad9Gsg=="
 ---

@@ -38,17 +38,12 @@ related:
   - title: "UAE-based G42 launches $10 bln fund to boost AI-driven investments in emerging markets"
     excerpt: "UAE-based G42, an artificial intelligence (AI) and cloud computing technology company, launched on Thursday a $10 billion G42 Expansion Fund, a global technology growth fund formed in strategic partnership with Abu Dhabi Growth Fund (ADG) to boost technology investments in emerging markets."
     publishedDateTime: 2022-08-18T11:46:00Z
-    webUrl: "https://english.ahram.org.eg/News/473411.aspx"
+    webUrl: "https://english.ahram.org.eg/NewsContent/3/1239/473411/Business/Tech/UAEbased-G-launches--bln-fund-to-boost-AIdriven-in.aspx"
     type: article
     provider:
       name: Hebdo Ahram
       domain: ahram.org.eg
-    quality: 31
-    images:
-      - url: "https://english.ahram.org.eg/Media/News/2022/8/18/41_2022-637964231274533429-453.jpg"
-        width: 800
-        height: 533
-        isCached: true
+    quality: 11
 
 secured: "s0Ilzz2AkKh1P04NSqEuYCUCwoe4x4eP/ugK7vL6Nxf1SsmfRXGIFksteSQXzntChcmtZGixUP0QpJsRcO9tBYF1JnuGs7SrDskcN8lDAbijrxxi9uhx9axDWPvK+srqbWwcvov+4iTtg9qfS9WzVwL+CpkjGy7jxOxTtK/o9am2xYGbL28J5P/8u0xQBzlWAamxp5T6ShLKJGitaLyswdHMQjvfTWSdpqy+ydzslckAcRtFjrfhLWNDEq3SzhG1lXGwprPRWywI0fzjCzq6+/1uIaLXGeP7RFYzAHDrHlXgpLN7GtzsEyGx3ORetGdWCBNLhuoWn+9mL57hsoPTnkXZDVYaJIu3LVgwAQkKAB3B5LFMinkXW5hKRbRJ65ctm2492YJIvmTq1JdhlxVCt7+4RmydgY6TcBdxIZavHMSJ9IkoNMvAQm6y7TnAtWyBOFsU4RMgHiXBgVbrf0RKDHTPUn+9fl0oN0d76XjVbe7FZNyOMFWyDBGMwoL5ifDjhlgqWqiHMtyCNI62MIoahQ==;UzLEBc/Ib3Rr28Zo3UDtuQ=="
 ---

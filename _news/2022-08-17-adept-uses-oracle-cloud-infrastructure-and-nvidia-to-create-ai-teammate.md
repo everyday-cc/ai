@@ -41,6 +41,15 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "Hayden AI Joins NVIDIA Metropolis to Power Its Computer Vision Platform"
+    excerpt: "NVIDIA Metropolis nurtures a rich ecosystem and offers powerful developer tools to supercharge vision AI applications that are designed to make the world’s most important spaces and operations ..."
+    publishedDateTime: 2022-08-16T13:12:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/hayden-ai-joins-nvidia-metropolis-to-power-its-computer-vision-platform/article_0c9dd935-79d7-54a7-9b67-f47d0f97ff8c.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 34
   - title: "Deep Learning Chipset Market Recovery and Impact Analysis Report NVIDIA, Intel, IBM"
     excerpt: "New Jersey, N.J., Aug 16, 2022 A2Z Market Research announces the release of Deep Learning Chipset Market research report. The market is predicted to grow at a healthy pace in the coming years."
     publishedDateTime: 2022-08-16T11:53:00Z
@@ -55,6 +64,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Vision Elements Joins NVIDIA Partner Network as an AI Solution Advisor Consultant"
+    excerpt: "Vision Elements (VE), a leading computational and AI software development firm, today announced it has joined the NVIDIA Partner Network as an AI Solution Advisor Consultant partner. Already part of the NVIDIA Inception and Metropolis programs,"
+    publishedDateTime: 2022-08-18T12:35:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-vision-elements-joins-nvidia-partner-network-as-an-/2022/08/18/9658454.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "wdFeCUIEz0y/fJrmoCHkFKMWFxn+/DEqBmnIq5l8Mvxzi/gsDv96jZdYskDbb5pBRQFYH/2AbpWsfHKWSBnJvZH9ERQKyn2ykJt1OPpxFOaBn3uJ0oUTFZxQS7hSPzEY15x9shObQqT22w+RoMGhLOrBAbrERtTW/dJ5F7g0Hq33TXt1kNcsdFOqfQaPbaude8tU1jR4p2nyXPTB3suVoNUuBwiZy6UrcS8egjf6a1OikayYPsDowwZcRqZO7JhYtOKq7k5muPUmPF2XWQkwm1VVM4h6P4nFsBSBul3i0dOYHmKOrBRD3JeLRSXm+bsuiRA46URe4CI79r9rMlVm7VvGg4xZsK5jHY4ogBUQM2Y=;sJ7xOJxkangNbh/Ln3leiA=="
 ---

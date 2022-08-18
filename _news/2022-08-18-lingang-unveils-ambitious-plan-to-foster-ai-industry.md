@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-18T13:16:00Z
 originalUrl: "https://www.shine.cn/biz/tech/2208189377/"
 webUrl: "https://www.shine.cn/biz/tech/2208189377/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: SHINE

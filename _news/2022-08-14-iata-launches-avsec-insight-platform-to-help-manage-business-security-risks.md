@@ -7,7 +7,7 @@ originalUrl: "https://www.breakingtravelnews.com/news/article/iata-launches-avse
 webUrl: "https://www.breakingtravelnews.com/news/article/iata-launches-avsec-insight-platform-to-help-manage-business-security-risks/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -18,22 +18,6 @@ topics:
   - Natural Language Processing
   - AI
   - AI in Security
-
-related:
-  - title: "IATA Launches AVSEC Insight security platform"
-    excerpt: "The International Air Transport Association (IATA) announced the launch of AVSEC Insight, an online platform offering users a comprehensive range of timely, open-source, information to aid in identifying potential security risks and threats to their operations and businesses."
-    publishedDateTime: 2022-08-13T22:06:00Z
-    webUrl: "https://asianaviation.com/iata-launches-avsec-insight-security-platform/"
-    type: article
-    provider:
-      name: asianaviation
-      domain: asianaviation.com
-    quality: 41
-    images:
-      - url: "https://asianaviation.com/wp-content/uploads/shutterstock_193972403-scaled.jpg"
-        width: 2560
-        height: 1698
-        isCached: true
 
 secured: "mrYq3im2F3jeT9YC4+Im03BYpcy6E7pNWbB7rK7QvlQVfzi/bSSc2AGm/KpwiXaY7LErYBmbqV7zyPLkOhTugnJ77cBjPQ/uTxIF45mQOlVOyno+McQJm/ZbO4AA0myFFDPbsH9YrXlYWccCdIiwVy+TgUYQMudMZjl9BVtp3IaM+Ss1v6pC7fudG3VBCgM1ZnU24yhIrb7HdM51nIgEZpe06xD8HDvVMsFvu4Z3cuAWPaO3znzy2elXuXiExqTaJL50+jrhbxBI2ORVnf2evhhqFcNaaKKGgrddcuf15WREwgbH/geUuY97hPdsBfataO6xYKDphje+iTmSa3Lv8qpX3yVwKTLADonopFbxbfsVkFLpfNca5D9ly7Sforvs2XJNodEkwJVtyq8XF4XLzIGWQ7OfE3+nM2CmHhfT3y8R0qim26yQ6iSiVw5pIkzEXm8BKbeTZKTKdqMSIG57ELzCI1/bqMlI8lkYoMpaVEb4T7mMz2qYiE4nQ/tPuJQ/jSHXRetBJHWWR7Njajg6lA==;a6sj2yEJbPXk23lvGGr3iw=="
 ---

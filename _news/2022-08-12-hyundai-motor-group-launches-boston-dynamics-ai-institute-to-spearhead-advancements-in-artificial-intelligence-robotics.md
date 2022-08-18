@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics"
-excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across the technical areas of cognitive AI,"
-publishedDateTime: 2022-08-12T09:00:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70"
+excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across"
+publishedDateTime: 2022-08-12T06:04:00Z
+originalUrl: "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4"
+webUrl: "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The NewsMarket
+  domain: thenewsmarket.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "9FmVyKg8FEXCyLcljlF81CQ0DG0CfmBoJXTvDy1AzqbC48uoVTopGQpYqFwXgvjcG/rOi5zoCt9Fzqmc9w5ASwNMWosQxCao+7ux5h0znTQpIyfbttcWDwlgQmjZA+8Z7544xYhSgPHtf3OXeLZtQgkek6EejrlBHGQsgmcR8K1hquZQc3HJlMMC6CBGiwRwm2YvDmfG4l3v2DYJME9ZBJyNyjiX9lq6+b/E1YG8BOH3YUCxrBJ7ZyJDyhmgmTPp+GYi7Q1GnexbYcyMHxOtDd/4xnM3QmA7sYe36Ut2omLmM45cfwgVrbejWSx+fzf66uLvphdBtzslGz1DuBijp7JgPHMz6Y0hPsWhHc82MDc=;WgXYVZfQ/RiTEWRCsixToA=="
+images:
+  - url: "https://preview.thenewsmarket.com/Previews/kiam/StillAssets/960x540/563394_v3.jpg"
+    width: 1164
+    height: 657
+    isCached: true
+
+secured: "Ogb+lUiBWJonfNzKbtufLKIpb6VJJzkSAuRRtXbbSevNDyflbSBUfRZemfhKrwiJvZrACfjcFSzakeKPU6jf4fcGi8aB7+UGSSyUhIW/6gF0GJgRdtRuFOJXyxVrXI8C3NC0paO25q225QPwyypQKvp1xn55iws6nohoFo6tZ29VSw0U9hvjVHVokP9U8ANlYgLhqdJ9eUldFtHh2SyHVyoaJ/VM+qOyYw1t60t7ego0mg2LR68ii8JMzCfcJHCxuNuO2OK6HYmHdhiF+69NzQ3uM5coJEZEDMeD/U//t/cMRpjCVvgHT3OtVqy6OlRXXRnBAX48CPCB/CLSagXFLQw59wPIunbO5hXsYn41Sv8=;J0FJ5fMxzzoCVEcoTCl5tg=="
 ---
 

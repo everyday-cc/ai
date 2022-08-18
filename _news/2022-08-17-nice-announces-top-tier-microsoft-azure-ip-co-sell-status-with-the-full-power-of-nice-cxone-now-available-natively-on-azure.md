@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-17T11:15:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-17-nice-announces-top-tier-microsoft-azure-ip-co-sell-status-with-the-full-power-of-nice-cxone-now-available-natively-on-azure"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-17-nice-announces-top-tier-microsoft-azure-ip-co-sell-status-with-the-full-power-of-nice-cxone-now-available-natively-on-azure"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: Daily Herald
