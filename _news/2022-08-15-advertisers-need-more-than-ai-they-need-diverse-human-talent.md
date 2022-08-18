@@ -24,38 +24,15 @@ images:
     isCached: true
 
 related:
-  - title: "Why conversational AI needs to feel more human, not sound more human"
-    excerpt: "Conversational AI at scale doesn’t require sci-fi packaging — even small brands can get it right. Brands should focus on technology that powers substantive interactions and authenticity over theatricality."
-    publishedDateTime: 2022-08-13T18:10:00Z
-    webUrl: "https://venturebeat.com/ai/why-conversational-ai-needs-to-feel-more-human-not-sound-more-human/"
+  - title: "Nvidia online GTC event will feature 200 sessions on AI, the metaverse, and Omniverse"
+    excerpt: "Nvidia said it will host its next GTC conference virtually from Sept. 19 to September 22, featuring a keynote by CEO Jensen Huang."
+    publishedDateTime: 2022-08-15T13:00:00Z
+    webUrl: "https://venturebeat.com/games/nvidia-online-gtc-event-will-feature-200-sessions-on-ai-the-metaverse-and-omniverse/"
     type: article
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 49
-  - title: "‘Holographic conversational’ AI lets dead speak at funerals"
-    excerpt: "A Los Angeles-based start-up company has developed a ‘holographic conversational video experience’ that allows mourners at funerals to have conversations with the dead. StoryFile creates a digital clone of the subject by using 20 synchronised cameras to record them answering a series of questions."
-    publishedDateTime: 2022-08-17T09:29:00Z
-    webUrl: "https://www.avinteractive.com/news/ai/holographic-conversational-ai-lets-dead-speak-at-funerals-17-08-2022/"
-    type: article
-    provider:
-      name: avinteractive.com
-      domain: avinteractive.com
-    quality: 37
-    images:
-      - url: "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2022/08/StoryFile-funeral-620x330USE-560x315.jpg"
-        width: 560
-        height: 315
-        isCached: true
-  - title: "Kore.ai Opens its Enterprise XO Platform to SMBs, Developer Community to Drive Conversational AI Innovation and Adoption"
-    excerpt: "Global CAI leader's no-code platform now accessible to SMBs and developers with seamless integration in a pay-as-you-go modelORLANDO, Fla., Aug."
-    publishedDateTime: 2022-08-16T12:19:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/kore-ai-opens-its-enterprise-xo-platform-to-smbs-developer-community-to-drive-conversational-ai-innovation-and-adoption-1031686891"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 22
+    quality: 40
 
 secured: "PO3BGv+GMdg+g3140u+9qhEQcM6l13DMnbIFq0eq1f5qiYfKG360LPPWHHGapSQv4Ck4brIYxcnrWM/3wws7Ef7a1CAkhFkOv8HnuFdpKxvRbuUhKSnOCRl/N0S0N8L3AnxUiZ1sFwsQ8qOvSp6CZx4CNdCzTEPPORf6qE1qXFqRDy/181mV8pUYujgiRWHFU4bI0bsY4hDzimJU0yI5awdz6xqmdTYj5BxFv9OGd7amau49TGgi5Cj8GuYOuPMuQ5ZstNLb4UZLpCQLGnhfJtu0LzLP+3i6lYP5rfCi+IHoznX79RSsKcy2BePMd2wndtn9ecchR+2hziRnZlxJ803wfZV5TjrWBprpnGHz3/WSnpeNnIKy3NA6EfrjV57eoAP8GFgrAps3jrU6B+ZQXUZq1ER6BcFqnHr9dfQ8lw6POzJ0RHR4zCbU2zPntmY7cOdpHeh167mMcws3RHgsuqbodk+dvSDcdIu3928srd13NbDzEOC7aa4UEYj9JFUFRDoHlOVn6EbpjMlpBLfG0Q==;NYABSznqPp3H7wA4weT56Q=="
 ---

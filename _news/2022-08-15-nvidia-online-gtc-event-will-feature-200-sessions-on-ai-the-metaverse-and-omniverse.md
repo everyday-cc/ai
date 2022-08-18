@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Advertisers Need More Than AI. They Need Diverse Human Talent"
+    excerpt: "To make the most of AI, advertisers must diversify data analytics teams to bring varied perspectives and talents to data collection and decision-making."
+    publishedDateTime: 2022-08-15T04:45:00Z
+    webUrl: "https://www.adexchanger.com/data-driven-thinking/advertisers-need-more-than-ai-they-need-diverse-human-talent/"
+    type: article
+    provider:
+      name: AdExchanger
+      domain: adexchanger.com
+    quality: 37
+    images:
+      - url: "https://www.adexchanger.com/wp-content/uploads/2022/08/ashley-tsai-msix-1.jpg"
+        width: 297
+        height: 297
+        isCached: true
+
 secured: "jlwPgaaHlSe0mwFFxPjctASa7r8m6nK+SyoGbzhGO7s04TFW6lWXphcv1q/3Cw05DG9aXIn2F4vHxwl4yrWv5tKaX5t2QRcAzLBa0gKimChJ3B1BcHJiFnSmvrW2Lo4aUl+iYp9ECvfargy9tjE/AvHk1RhazjG0CIzBaGFQcH21b92vBPXUEDi7KqYXKgprhv6GWsPxDw05Rq90P2UJKYSqXfJ5QHg+avMLbqQ0x76FRx6wGn6cOAKlWhE6OqruGjKuCHmIM/KrX60VedOFiKZuKdurlqHD3OZrYtUr97hBwgwHiXwFFq2CUaTfyZuzHQL6fPOESlUBxt2NYDWYO7mTByfSCuhSo9Chony/5Mc0OpV2ZzOJ15DsLRmLxujZFAsXtka+S8bZfjg9RJ/WVK0LD/y7eE/afm+coMFZ8TgielRVnHFynAaejBynWgqYl2WbdeFPcGqWibvPFdYpipJLVDCQUCXuLEK9MkUqBYCmd0Ali+YHkky0TYC3jfD6MTTtvMk+2PQBJ8zFZbzfvw==;DwT/Qa4PdjZR+isLq8D9yQ=="
 ---
 

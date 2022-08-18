@@ -28,6 +28,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 40
+  - title: "iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV) Shares Acquired by Northwestern Mutual Wealth Management Co."
+    excerpt: "Northwestern Mutual Wealth Management Co. increased its holdings in shares of iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV – Get Rating) by 19.9% during the first quarter, according to its most recent filing with the Securities and Exchange Commission (SEC)."
+    publishedDateTime: 2022-08-18T10:56:00Z
+    webUrl: "https://www.defenseworld.net/2022/08/18/ishares-self-driving-ev-and-tech-etf-nysearcaidrv-shares-acquired-by-northwestern-mutual-wealth-management-co.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 0
 
 secured: "VmqEsaP/5pMQ7tC/my9qV5vwdDRAUJQrrCR2HpCrwW4GtvL3m5e12IIpuwjO1olLMOikqH7OCLFzkshkgf6BNk4jdMZHnqXRswiOoWNou8Xi9XngHIl1PrIujTJUJA+3oMYkDzlPUim88DZSRp5FBbK4H9J9xmCT+lA78VmemXfTlyJ95ebE4smHPGPMg5poGY/cdgpbvVPhf1V4o3f9FGZOy882S/Df1TF25BcFsygoOdx0CwqgJsSQgGBdWJk3po2PSOt1lHnBnRpk7vk5rwsme+kg1ySGDmipiUrFQCmH9YP/8b9F/7OAicio6r1S66/XWc44ea5K/b03jnjbyv/2gCyK+rpwey7vmJ098JU=;6qxO8c5/0mSXIP596VgoyA=="
 ---

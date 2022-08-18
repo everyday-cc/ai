@@ -39,6 +39,15 @@ related:
         width: 597
         height: 597
         isCached: true
+  - title: "Global Alternative Investment Management Launches FinTech Fund II"
+    excerpt: "Appleton, Wis.-based private fund management company Global Alternative Investment Management has launched FinTech Fund II, which is available to Qualified Purchasers"
+    publishedDateTime: 2022-08-18T10:10:00Z
+    webUrl: "https://www.finsmes.com/2022/08/global-alternative-investment-management-launches-fintech-fund-ii.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 4
   - title: "Optasia one of top 25 Fintech companies in the MENA"
     excerpt: "Optasia enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets.. Optasia one of top 25 Fintech companies in the MENA. Artificial Intelligence,"
     publishedDateTime: 2022-08-18T04:00:00Z

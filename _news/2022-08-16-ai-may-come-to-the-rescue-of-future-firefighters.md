@@ -53,6 +53,20 @@ related:
         width: 800
         height: 600
         isCached: true
+  - title: "New AI Research Shows That Our World Is Becoming More Boring and Less Colorful"
+    excerpt: "As it turns out, our world - the items and objects in it - are starting to look like the end scene of Trolls movie: gray-toned, colorless, flat, all the same. Where have all the colors gone? According to recent AI research,"
+    publishedDateTime: 2022-08-18T11:44:00Z
+    webUrl: "https://www.inc.com/nick-hobson/new-ai-research-shows-that-our-world-is-becoming-more-boring-less-colorful.html"
+    type: article
+    provider:
+      name: Inc
+      domain: inc.com
+    quality: 33
+    images:
+      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1387689213_510835_fdkzc6.jpg"
+        width: 1024
+        height: 576
+        isCached: true
   - title: "How AI can shape a sustainable future"
     excerpt: "Climate change is a reality that is already impacting the world and its populace; the time to act is now and technology can play a fundamental role tackling the challenges we and future generations face."
     publishedDateTime: 2022-08-15T08:50:00Z
