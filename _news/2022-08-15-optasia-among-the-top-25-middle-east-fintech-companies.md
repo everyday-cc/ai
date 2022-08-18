@@ -48,15 +48,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 1
-  - title: "LAMEA Artificial Intelligence In Fintech Market to Expand by 19.2% Annually Through 2028 - ResearchAndMarkets.com"
-    excerpt: "The \"LAMEA Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment (On-premise and Cloud), By Application, By Country and Growth Forecast,"
-    publishedDateTime: 2022-08-16T13:38:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-lamea-artificial-intelligence-in-fintech-market-to-expand-by-192-annually-through-2028-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "aUXfQsggdBL7LzSfsqDlaEWdXzE9JWuTiHXn/Iw1BavA1FN7grSFkMoa+o/Qgw4VhutjtYPI8GUAmXoj1qlogOZ5wvvquLq1bCCYgGPExnMtYREZJD97/ArrKDy10RTqWxXn7sClWerWIaZLCTtg24BEzm8keQq6hNGc6/RojO5jbT//W3Uf4Nq/21K37umG212kfpyrfcyZV946WX9Btc08EWRuVqCIOS51Ko/eC9c/DgQxMNpGW67lizitrBaafUsF4I/OpI3OQ7+QENvTksCxM07ZEy+MRIlOyhk/Wr2mqHCP0MMKdzPYSoTmDBOmwxvRRwyI0a5Tj7pqIef/TtGHcPnYFdHSKmDGSsQNGVQ=;Mo1ekEXdNFuOV9dOe/sEMQ=="
 ---

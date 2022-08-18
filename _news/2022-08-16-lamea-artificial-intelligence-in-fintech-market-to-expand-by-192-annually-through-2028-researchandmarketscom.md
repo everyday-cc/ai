@@ -20,43 +20,88 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Fintech sitcom explores AI challenges and the war on talent"
-    excerpt: "A new marketing campaign sitcom on office life in the fintech industry has been created by Daniel Tremayne-Pitter - founder of Dark Matter Media"
-    publishedDateTime: 2022-08-17T10:30:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-sitcom-explores-ai-challenges-and-the-war-on-talent"
+  - title: "Computer Vision Market Size 2022 Global Business Growth, Industry Revenue, Demand and Applications Market Research Report to 2030"
+    excerpt: "Aug 16, 2022 (The Expresswire) -- Global Computer Vision Market report provides an In-Depth overview of the industry including its definition, applications and manufacturing technology."
+    publishedDateTime: 2022-08-16T08:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-2022-global-business-growth-industry-revenue-demand-and-applications-market-research-report-to-2030-2022-08-16"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 40
     images:
-      - url: "https://assets.bizclikmedia.net/1800/e9e536c99e2cbb01bb2c582f0fb0802a:2b15c1fb874205d86b33777f498f0f50/1080x1080-get-ahead-watch-now-still-1.png.jpg"
-        width: 1800
-        height: 1010
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Optasia among the top 25 Middle East fintech companies"
-    excerpt: "Optasia provides premium fintech services through its advanced AI led Originating and Credit Decisioning Platform. It enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets."
-    publishedDateTime: 2022-08-15T07:17:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/optasia-among-the-top-25-middle-east-fintech-companies-alf5nsxj"
+  - title: "Global CCaaS market revenue to reach US$16 bln by 2027 - Juniper Research"
+    excerpt: "In a statement, Juniper Research said CCaaS platforms are cloud-based solutions that provide services required to run a contact centre over multiple inbound and outbound communication channels. The research house assessed leading CCaaS platforms and evaluated them on criteria such as depth and breadth of offerings,"
+    publishedDateTime: 2022-08-15T08:30:00Z
+    webUrl: "https://www.bernama.com/en/business/news.php?id=2111115"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 24
+      name: bernama.com
+      domain: bernama.com
+    quality: 23
     images:
-      - url: "https://static.zawya.com/version/c:ZjIxMTJhNmQtOTMxOS00:ZjgzMzdj/onstruction-aabtools-jpg.jpg?f=1%3A1&q=0.75&w=3840"
-        width: 597
-        height: 597
+      - url: "https://www.bernama.com/storage/photos/a4b0dfd18ae982aa09be61ef21bde33062f9fc6d81a75"
+        width: 1110
+        height: 694
         isCached: true
-  - title: "New Venture Fund Provides Investors Exposure to the Disrupting Fintech Sector"
-    excerpt: "FinTech Fund II has raised $1.9 million to date and has deployed initial capital into four investments: a diversified blockchain fund that seeks out venture equity along with early stage and established token investments,"
-    publishedDateTime: 2022-08-17T16:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-new-venture-fund-provides-investors-exposure-the-disrupting-/2022/08/17/9657793.htm"
+  - title: "Natural Language Processing (NLP) Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Natural Language Processing Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Natural Language Processing Market is projected to reach USD 40."
+    publishedDateTime: 2022-08-16T09:59:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-natural-language-processing-nlp-market-intelligence-report-global-forecast-to-2027-researchandmarketscom"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 14
+  - title: "Global AI CCTV Market (2022 to 2030) - Opportunity Analysis and Industry Forecasts - ResearchAndMarkets.com"
+    excerpt: "The \"AI CCTV Market by Offering, by Camera Type, by Deployment, and by End-user - Global Opportunity Analysis and Industry Forecast, 2022 - 2030\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2022-08-16T16:16:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-global-ai-cctv-market-2022-to-2030-opportunity-analysis-and-industry-forecasts-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 1
+  - title: "Global ASIC Chip Market Research Report 2022: A $34.4 Billion Market by 2027 - Trends, Forecast and Competitive Analysis - ResearchAndMarkets.com"
+    excerpt: "Trends, Forecast and Competitive Analysis\" report has been added to ResearchAndMarkets.com's offering. The global ASIC chip market is expected to reach an estimated $34.4 billion by 2027 with a CAGR of 7."
+    publishedDateTime: 2022-08-15T14:16:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-15-global-asic-chip-market-research-report-2022-a-344-billion-market-by-2027-trends-forecast-and-competitive-analysis-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
+  - title: "Medical Ultrasound Equipment Global Market Report 2022: Artificial Intelligence at the Forefront in New Ultrasound Systems - ResearchAndMarkets.com"
+    excerpt: "The \"Medical Ultrasound Equipment - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Medical Ultrasound Equipment Market to Reach $8.2 Billion by 2026 Amid the COVID-19 crisis,"
+    publishedDateTime: 2022-08-16T12:28:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-medical-ultrasound-equipment-global-market-report-2022-artificial-intelligence-at-the-forefront-in-new-ultrasound-systems-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
+  - title: "Cognitive Systems Spending Market Development Status, Competition Analysis, Type and Application 2026"
+    excerpt: "The global cognitive systems spending market is experiencing numerous technological advancements permitted with exceptional features for several industries, especially in the banking sector. Cognitive systems with high-definition technology can help in determining the world’s most composite data analysis difficulties by entering into the complexity of exploiting the power of big data,"
+    publishedDateTime: 2022-08-17T09:03:00Z
+    webUrl: "https://www.fmiblog.com/2022/08/17/cognitive-systems-spending-market-development-status-competition-analysis-type-and-application-2026/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
+  - title: "The Worldwide Artificial Intelligence for Drug Discovery and Development Industry is Expected to Reach $4.8 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The Global Artificial Intelligence for Drug Discovery and Development Market is estimated to be USD 1.22 Bn in 2022 and is expected to reach USD 4.8 Bn by 2027, growing at a CAGR of 31.54%. Market dynamics are forces that impact the prices and behaviors of the stakeholders."
+    publishedDateTime: 2022-08-17T14:32:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-17-the-worldwide-artificial-intelligence-for-drug-discovery-and-development-industry-is-expected-to-reach-48-billion-by-2027-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "G3lHfx8i83vzLcwkt8sJT8ez144f6E32wAodiM44qWNrM5L0IB2dBZ7Zw7yNZ3VE3tPJ9MPKyz7KmxeiagQFeGlkJFeO/5cK9tu5HZkT0EPN5NFQPSOuhMT9HHhi+hyGhrR0gTz6xAGKyC2W+ul5U2GDO3+EJe5BZGbwJ+m63CrreUHjiHxj8AiXcwHPkcr7hl8Wsh9VbV8aQSc09yfAGnNMsVXWqT+CiHts51ACShCTMcHR938oaWNMzzse+PeI76wIvgWXTlShNLdoJ7/a0/r2XhVKjZztk0sQ+dbMBFSckfuzWpDQ0QnFVyVXd98zkHlBq6zstJZ2dwPGUBlb5VGrLgTPybJYHarp5EtNXuU=;a9q/BEXC4b4Dt+7zS9ldJQ=="
 ---

@@ -47,15 +47,6 @@ related:
         width: 597
         height: 597
         isCached: true
-  - title: "LAMEA Artificial Intelligence In Fintech Market to Expand by 19.2% Annually Through 2028 - ResearchAndMarkets.com"
-    excerpt: "The \"LAMEA Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment (On-premise and Cloud), By Application, By Country and Growth Forecast,"
-    publishedDateTime: 2022-08-16T13:38:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-lamea-artificial-intelligence-in-fintech-market-to-expand-by-192-annually-through-2028-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "iLpqzZBSFoaBID4okGA9fwt5nw5spJNP803ntpnqzNyPlDFJrnCNP+OeQaROAT10JHkaPEc0MgbrWg2bnT71jk+fpHOnpAO74OI5GzGB9U7h3RjyXalVxX044GodGTUeuytmJ2sJ7TSI+z6Vd9MnRMyYx/WAcK830MZVZwFYTYXnJDgHTmDQ9GXmiciabYxk5fwNvA9l7Iv46KcyYyT4oG496vc9waipt0iZvkepfKWLyerqoryamrm2+5NATwTAFwfYoPEjECqmbf1S5mBVwcaKyQGLEb1wvuWx/sMlugWEOQtknXSlrhE/SsMK2uYkjCJOER+spG0zDKmBcG66+g0tq+ngZfXDACBk+EWtJtk=;vXq5Com7Vqez1sLE7RXIIQ=="
 ---

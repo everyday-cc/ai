@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/where-c3-ai-stands
 webUrl: "https://markets.businessinsider.com/news/stocks/where-c3-ai-stands-with-analysts-1031690970"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,22 @@ images:
     width: 1024
     height: 768
     isCached: true
+
+related:
+  - title: "What 8 Analyst Ratings Have To Say About C3.ai"
+    excerpt: "Analysts have provided the following ratings for C3.ai (NYSE:AI) within the last quarter: In the last 3 months, 8 analysts have offered 12-month price targets for C3.ai. The company has an average price target of $18."
+    publishedDateTime: 2022-08-17T16:47:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/what-8-analyst-ratings-have-to-say-about-c3-ai-1031690797"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
+    images:
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_25245.jpeg"
+        width: 1024
+        height: 768
+        isCached: true
 
 secured: "T5bpaBWTecynrJ8SDVDuOrrmDlij0LtDeTS4yOIrt5mSGevgxWs2IkKlIaFyrYo0sCv7aYfj8tq/S/6t6tqnJ5kP+L/9mkxirotuIDRnXdFMKDHBmpA+ZhI1b8zUngEkLj26Zzj6vYw/jDJZ/pCbPp/INILIJ+BXJrP0Z/zZ2OZ4XlslZ3jKbMilL8IXtX+Ti9IG1YOnk5B61qiVqYp8KNfglgoz0w+A0wKfYdaHs7cNC4ane1UefbNYy5JiSx5UQbN/xaqE9wBeiEY3nYHyX7cse9jn3Pka8mY9ySI38s1AEcDpTy/WJZGihkEWkIWY/U/IN2hF03Igl6T+RLQN7lyJ7VSABs1NjjCwSdA0WoE=;YDxHVP7EuxJPJixOyaXUhQ=="
 ---

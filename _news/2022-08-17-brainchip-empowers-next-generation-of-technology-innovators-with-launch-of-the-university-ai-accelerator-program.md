@@ -25,26 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "Formation of ABAIR to Provide Radiology Administrators, Technologists with AI Education Announced"
-    excerpt: "American Board of Artificial Intelligence in Radiology (ABAIR), a new presence in the medical diagnostic forum, announced today that they will be providing Radiology Administrators and Technologists w"
-    publishedDateTime: 2022-08-16T05:55:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28509221/formation-of-abair-to-provide-radiology-administrators-technologists-with-ai-education-announced"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28509221"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28509221"
+  - title: "BrainChip and Prophesee Optimize Computer Vision AI Performance"
+    excerpt: "The partnership combines Prophesee’s computer vision technology with BrainChip’s neuromorphic processor Akida to deliver a complete high-performance and ultra-low-power solution. Nature of Disruption: Prophesee’s computer vision technology leverages ..."
+    publishedDateTime: 2022-08-16T10:19:00Z
+    webUrl: "https://www.army-technology.com/uncategorized/brainchip-and-prophesee-optimize-computer-vision-ai-performance/"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 41
-  - title: "ABAIR announces their 1st course Ai for Radiology Administrators and Technologists"
-    excerpt: "ABAIR has set its first in-person course to be held in Las Vegas on November 15th and 16th. ABAIR will be providing Radiology Administrators and Technologists with an opportunity to become well-versed experts in the world of AI for radiology."
-    publishedDateTime: 2022-08-15T08:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/issuewire-2022-8-15-abair-announces-their-1st-course-ai-for-radiology-administrators-and-technologists"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 11
+      name: army-technology.com
+      domain: army-technology.com
+    quality: 54
+    images:
+      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/08/shutterstock_796709485-1.jpg"
+        width: 500
+        height: 247
+        isCached: true
 
 secured: "2Spyc0KrcLKsyOwjGHfBFjbAw5DKJZ0GVbOrFWbKTiJJqMHM/76oE6zk5lRZgHsz8w/qimAQhaBl8K/JP16y4R9bk+poCMyuQ80sF6dFpK/PqXzOEFFWoLFXJClAPELKXEq7O6+ErPxzal4eMHJikf4hSmjCW6BCQCi0Spa+QmuxkkXKiiHahvmWiilooOlA01YW4NF3W5zZv2HxijUyMCAAPv7SivFbOQRWzQeqCCxJJMHfCasJILL/f1v9U0o9HmGVasxhWHYNnUKwA7rzGGciwCPK+0n3fsUeKGS6Z1Jmrwzeu0gczFSjsAzGLcZl71N6Zgz6BSme4LL3TulOmUMX0GwGW1qyx//eMIeacYg=;NCVVdtUfdraaaPobKRsTbQ=="
 ---

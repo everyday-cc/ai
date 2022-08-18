@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/intel-vp-talks-ai-strategy-as-company-tak
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/intel-vp-talks-ai-strategy-as-company-takes-on-nvidia/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,7 +45,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Chipset Market Recovery and Impact Analysis Report NVIDIA, Intel, IBM"
+    excerpt: "New Jersey, N.J., Aug 16, 2022 A2Z Market Research announces the release of Deep Learning Chipset Market research report. The market is predicted to grow at a healthy pace in the coming years."
+    publishedDateTime: 2022-08-16T11:53:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-chipset-market-recovery-and-impact-analysis-report-nvidia-intel-ibm"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 33
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/077787ed8274d4370cac36f9e7f70c511534e1d3-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
-secured: "3lrEM5rjq4vnf56MGSdiWdQ6fGrD7NcXduFs/Zl9SAREuDSxNuwGBH5KtmAZ7NrtRhBkt/tOCxW4F064Ik0a27PhqV8JV/vWa7sFyO9PwpkSl9UQGKeyzhu443ZH2aNujFKDhyLi01YhcmKy+WLdYU7bBmS8CbsLrOm5msfhyimYt5LLGVomvwP+d+oKAAmyR2rX+e28BPYRjUd/bJjZQPIPqDYBvt0M/htrJMd/VpqL0aErNz1wjbY2roSqud3DMFpfjhLBWfsWFB9e9mvAzX73o7oVWIuOn4KqnjAASR/u6PXxBDIY0myoyC4a7vUul4DrhtCw8AshWdLNSSNSH1v46rRUaY8PbYTs4atiAJs=;NZM2rJNWinx9IMNYAygkpQ=="
+secured: "UpFo6c2jvVtHpYoOe2kYh5uvk+9kfhV9AHm/y0XkkYc56U1adA3CD4qTBpbvH07qdpTiV0q/nakFBEkmtj/voHLCssXGPz8VOvjNPtMFOZnfoxWz2lpK6XKKYDcxw/cRfA2K0vSLB/qBrJV/JuhZ4PXUg2AjiSrimwAnKoH22bkonlqCiY3nDKR4dfuhGiHhtx0egIxPYPYWRrEj/qhAmKISa5DfbBo3H1//DNuk1+TkP7cdK+TquFG6j3oTrKw3IfxpenXk9h4Vw2WqiafQdrzhT90Hr4ELGDAkzJEo50eaIiyNH8nD0OtUcuJp4TErjvrZMNBAvPOK4mU667SBTecLVkbZrDDQ1/kXDp+vmF2uYNeNDjQOniYoOS0CcRYDCVmn1axGCnFON9X/86VIkXDpMbR6lXRvFoWUppovbrqOMOl5oT4YNle3LH6zxBrJN+tuJns0nv36x4cNYNxHx4PkJLlvvSYH3dxiA/+u2EqvllI1A/hoJ40jXYX4/9Q4WhACpolM5SjZeJW06DEJWg==;/uK8AlViwE8+StH6BDAd4A=="
 ---
 

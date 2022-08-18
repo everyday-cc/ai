@@ -31,6 +31,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 36
+  - title: "Just-launched esports startup Regression Games raised a $4.2M seed led by NEA"
+    excerpt: "Founded by a recent Philly transplant, the two-month-old company (yes, really) makes a low-code, AI-driven platform for gaming."
+    publishedDateTime: 2022-08-17T22:38:00Z
+    webUrl: "https://technical.ly/startups/regression-games-seed-round-ai-esports-a16z-nea-philly/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 34
+    images:
+      - url: "https://technical.ly/wp-content/uploads/2022/08/Image-e1660774185981.jpeg"
+        width: 1000
+        height: 993
+        isCached: true
 
 secured: "I9nrPPXY1vscbKJUxnQ3iQjrXysvKt6iEfsM/JM8/F5Sng8fEOYmCoz5ymL3zQohxBktV8Szb3pgi0xAFcCZxLpSF8b6petihM4FGuVVCpbfwMwAOpYdGZM+tKadC9sv47iIr0mLBnUEw0EJPdh3hnPN1ALBI566lIVrmFehL2qyFxuB9GFcJPr7DecMaHSJIWMj2BYOV8U0DbSgJz+plVH45Qi28aV1LFDXOmos1/XvrLFYWE1SCEC+0pGLODMQYqI9WKJbP3bWul1zoEECvaTEesQtZMPhwMQ0WxcPL4totdzS//sFdJg0oTU/AGZyr27APB8BLXpmveSIVQ8zDlMPxZDtBhC2MWNfhCUjD45O4/X9Y4iGky4g2cIyzD2JGFtoYsLfg9HnpCm5mkMrl+GRbBeDbqGyRV47Kv3VuO5UJOD4+fYlUnwd0OvHa7EUn9WbhNpLxJkFMevNuZ0EA4P5dPYx8RsA3+fNb05HdLPqlBTBnuRYPEM2lpIzYGeZTXMVfxPAp2waw5J1h44oBQ==;EyMVlAwi9rXtFHFfV7mWfA=="
 ---

@@ -21,20 +21,6 @@ topics:
   - AI in Education
 
 related:
-  - title: "BrainChip Empowers Next Generation of Technology Innovators with Launch of the University AI Accelerator Program"
-    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / August 16, 2022 / BrainChip Holdings Ltd (ASX:BRN) (OTCQX:BRCHF) (ADR:BCHPY), the world’s first commercial producer of neuromorphic AI IP, is bringing its neuromorphic technology into higher education institutions via the BrainChip University AI Accelerator Program,"
-    publishedDateTime: 2022-08-16T21:32:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-education-higher-3b8b8dd0be381e8eb2f6fee00f20dca8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "ABAIR announces their 1st course Ai for Radiology Administrators and Technologists"
     excerpt: "ABAIR has set its first in-person course to be held in Las Vegas on November 15th and 16th. ABAIR will be providing Radiology Administrators and Technologists with an opportunity to become well-versed experts in the world of AI for radiology."
     publishedDateTime: 2022-08-15T08:00:00Z

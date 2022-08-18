@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "PM to visit Torres Strait for voice talks"
+    excerpt: "Prime Minister Anthony Albanese will meet Indigenous elders on a visit to the Torres Strait for talks on what form a voice to parliament would look like."
+    publishedDateTime: 2022-08-17T22:04:00Z
+    webUrl: "https://thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-albanese-torres-strait/"
+    ampWebUrl: "https://thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-albanese-torres-strait/amp/"
+    cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-albanese-torres-strait/amp/"
+    type: article
+    provider:
+      name: The New Daily
+      domain: thenewdaily.com.au
+    quality: 59
+    images:
+      - url: "https://thenewdaily.com.au/wp-content/uploads/2022/07/1659093904-albanese-NT.png?resize=834%2C540"
+        width: 834
+        height: 540
+        isCached: true
   - title: "PM trip to Torres Strait for voice talks"
     excerpt: "Prime Minister Anthony Albanese is travelling to the Torres Strait, where the Indigenous voice to parliament will be discussed with elders."
     publishedDateTime: 2022-08-17T17:39:00Z

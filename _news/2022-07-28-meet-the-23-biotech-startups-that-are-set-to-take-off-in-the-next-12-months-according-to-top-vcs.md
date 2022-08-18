@@ -21,6 +21,13 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - Facebook AI
+
+images:
+  - url: "https://i.insider.com/62dabd676fb3cf0018e076ff?width=1200&format=jpeg"
+    width: 1200
+    height: 600
+    isCached: true
 
 related:
   - title: "Here are 23 startups in areas like AI, robotics, and quantum primed to take off in Europe's $711 billion deep tech industry, according to VCs"
@@ -38,6 +45,6 @@ related:
         height: 600
         isCached: true
 
-secured: "nj2VNcmfN1UfeUp2bJYJ0sg3A27T9EkTmnQy2dHRUMt5NTYAwMr8JAc91XOJxzrrwrUgOW9oAFnGktCDxlyuzqX2NWoPbnK/ZS/a5vCFo5S3qM536U/GPQdutTXz2HPRqPtLhWl9wr0/BVWlBd3TT2aspo6liTpRCYAk9mrkK0OqTDbVskANLws+2JuGpQsV/JubtzQ938qeSZaf9zwNGIbXFWrtWJ9m3dZ+78UEJFdJOGAldtpDauXK3CrSmrYGzpE2jIqpl6McB8495PyEDW77SQz0jO85VwatCsU6x4weHJM4neGteWfRrKGeoEqI4y7iCtRb9cMBaMTfkZncY7NhJ7wGZ9+zDqYxFB6dVYLbKYJlyE7Qd5HZr4VKLRfVmhqVJeY/NZdn0xGC7o/NIoNfKhzqbXjVsNS35yF4O3TiifTFbgbsv0ZmrGj2M9ydjJxdKAm2sak5H2yy6h0uWaTkGuAMwY19ZZ1SnalQ3ngX94qHiS1OoRYBdtQ8IiK5jYT3s2T3EVvYK5opf85zlA==;LhH2X9NGSZPGg+Y/QDnWXA=="
+secured: "wOFeLnZiHz4Y5U3PuAXASIB+smlgKg4kmrcUfuz6XQ21+eWlsh7UfXQlBJ0KcvZF0wnJp0muTNS1C6eKq4Ifs3tXBB/XspQgxvN62jQkVhWTL8/OIQDO70PSWZ63oXeSsRXDGBFzTsFLH033xTaWvToFTHvNzor4aRGcsoG5S39hXc2jQP0z0+o919rM6D5tZhaRiJYr5VuMndr8+WwL2MKv2nOKbbaLXqErC18QZMHMn9/BVCkjb/9cRVdO9nisr/Kq+Xm0REQv/hAzeW9oGF+5RGcGFkFSHO1hlClWixdQ6ySKiEOKfwXwKEi3n7LbFPIIuUlI95DRtgNTmMa4YaAxkZF9t1RFjTAk6/ODSOY=;KbL2cn8+R0/H9mTZqYZp5Q=="
 ---
 

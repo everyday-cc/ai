@@ -41,6 +41,20 @@ related:
         width: 1024
         height: 684
         isCached: true
+  - title: "Deep Learning Chipset Market Recovery and Impact Analysis Report NVIDIA, Intel, IBM"
+    excerpt: "New Jersey, N.J., Aug 16, 2022 A2Z Market Research announces the release of Deep Learning Chipset Market research report. The market is predicted to grow at a healthy pace in the coming years."
+    publishedDateTime: 2022-08-16T11:53:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-chipset-market-recovery-and-impact-analysis-report-nvidia-intel-ibm"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 33
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/077787ed8274d4370cac36f9e7f70c511534e1d3-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "wdFeCUIEz0y/fJrmoCHkFKMWFxn+/DEqBmnIq5l8Mvxzi/gsDv96jZdYskDbb5pBRQFYH/2AbpWsfHKWSBnJvZH9ERQKyn2ykJt1OPpxFOaBn3uJ0oUTFZxQS7hSPzEY15x9shObQqT22w+RoMGhLOrBAbrERtTW/dJ5F7g0Hq33TXt1kNcsdFOqfQaPbaude8tU1jR4p2nyXPTB3suVoNUuBwiZy6UrcS8egjf6a1OikayYPsDowwZcRqZO7JhYtOKq7k5muPUmPF2XWQkwm1VVM4h6P4nFsBSBul3i0dOYHmKOrBRD3JeLRSXm+bsuiRA46URe4CI79r9rMlVm7VvGg4xZsK5jHY4ogBUQM2Y=;sJ7xOJxkangNbh/Ln3leiA=="
 ---

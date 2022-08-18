@@ -67,6 +67,54 @@ related:
         width: 1024
         height: 1024
         isCached: true
+  - title: "Amazon testing new TikTok-style feature on its app, AI firm says"
+    excerpt: "The feature, called Inspire, allows customers to like, save and share posts of products, and purchase items directly from the feed."
+    publishedDateTime: 2022-08-17T22:40:00Z
+    webUrl: "https://www.king5.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
+    ampWebUrl: "https://www.king5.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
+    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
+    type: article
+    provider:
+      name: KING5
+      domain: king5.com
+    quality: 59
+    images:
+      - url: "https://media.king5.com/assets/CCT/images/e3e15506-7b16-49cb-8cc1-aff6d305ea71/e3e15506-7b16-49cb-8cc1-aff6d305ea71_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
+  - title: "Amazon testing TikTok-style feed on its app, AI firm says"
+    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform"
+    publishedDateTime: 2022-08-17T23:16:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
+    ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 59
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_d6c87ec91bcb4a3db6d7f763abbf3eca_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
+  - title: "TikTok’s new AI art filter riffs on your text"
+    excerpt: "AI text-to-image models like OpenAI’s DALL-E 2, Google’s Imagen, and Midjourney are having a bit of a moment. It’s hard to avoid their output on social media (especially Twitter), where people share the weirdest and wildest things they are able to get the AI models to create."
+    publishedDateTime: 2022-08-17T23:00:00Z
+    webUrl: "https://www.popsci.com/technology/tiktoks-ai-filter-text-to-image-generator/"
+    ampWebUrl: "https://www.popsci.com/technology/tiktoks-ai-filter-text-to-image-generator/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/tiktoks-ai-filter-text-to-image-generator/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2022/08/17/Depositphotos_378309282_L.jpg?auto=webp"
+        width: 1999
+        height: 1333
+        isCached: true
   - title: "TikTok now offers a very basic text-to-image AI generator directly in the app"
     excerpt: "The output of TikTok’s system is pretty basic compared to that of state-of-the-art text-to-image models like Google’s Imagen, OpenAI’s DALL-E 2, or Midjourney’s eponymous software. It creates only rather abstract and swirling images;"
     publishedDateTime: 2022-08-15T12:03:00Z

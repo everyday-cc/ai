@@ -2,22 +2,22 @@
 category: news
 title: "NICE Announces Top Tier Microsoft Azure IP Co-Sell Status with the Full Power of NICE CXone Now Available Natively on Azure"
 excerpt: "NICE (Nasdaq: NICE) today announced the expansion of its partnership with Microsoft, delivering the full power of CXone on Azure to create frictionless, personalized digital customer experiences. NICE has received Top Tier status,"
-publishedDateTime: 2022-08-17T12:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-nice-announces-top-tier-microsoft-azure-ip-co-/2022/08/17/9657601.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-nice-announces-top-tier-microsoft-azure-ip-co-/2022/08/17/9657601.htm"
+publishedDateTime: 2022-08-17T11:15:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-17-nice-announces-top-tier-microsoft-azure-ip-co-sell-status-with-the-full-power-of-nice-cxone-now-available-natively-on-azure"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-17-nice-announces-top-tier-microsoft-azure-ip-co-sell-status-with-the-full-power-of-nice-cxone-now-available-natively-on-azure"
 type: article
 quality: 23
 heat: 23
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "MOoZ4vmwgZVatbIwgD+K7Slag6GiC+y76HabeHHRtREZpMrgkADTTPnNPk+AipqazoM0kByXKqGKhnYu3gcG2/kjPy/joU2kglWn/5iX9ZMiGBKzVlCeQYsOZHmOzgRY3AVo+yGWo1quzLE84HKlpUzuZd7HzCmFCDlJhVwJo9+JhvZJl/vsDO30BSLnF1H/3X+B9Py28RhQ62emd+fywNNlrQ2o/p0eBPA2SKCU6zEa2Dh8IlPPUI2o7yOxpqXdVr7ugxlOvqVS2a4h7AWLIq+8pA84MXaGL5SSm/jUUaV57u+/XLxT8pQSuXqmj/wKodHV0xDHaX4u/8m0u4wJw0PnUH6dnLA0WN4chb9n9Lw=;1A3JebkqyXl5WPL9196nDQ=="
+secured: "JLS9zNmRevx1Z1Bp5rcOfGfTb1CJFYVvJewDeGwmG01A0lwSHWA01CGJ4mmYOjN52VzLtSzKKBKFyOW6MhG1wdymWzbwrAVLD0Tix/0a9V0IT5t7SYw0Zx+v/144g+5qQS2QH2YWcK5FuQtSa8Xgdms8ojyRMwmUj7R/Ip4cqt7jpLh25qJfaOWRlRShm+bAMDsGaYSADlZQA9PNjJp897MgguHA22VlB39KTnqDg1SvA9ppZpaag3T0DklS4+YlAMLZ5moNLKmKHE9Jmv49SyZv2x4sfP64oUaBwMp2L5U4kfHZwaoh9PA45LsEo91AmQeHxThQDDJcBK/V2ibYUPlCBkVxPB1dTw+nqsbwfxI=;kzcwLXLJDkWSmmQ8Djrw2w=="
 ---
 

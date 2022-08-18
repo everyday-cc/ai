@@ -1,29 +1,20 @@
 ---
 category: news
 title: "For Fun, Not Phishing, Is Why Most Users Change Their Voice Identity Online"
-excerpt: "In a world where the transparency of online communications is touted as a virtue, you might question the motives of people using voice-changing technology tools. Is it for mischief or malice? While cynics may assume that voice tech is only associated with basement hackers and scam artists,"
-publishedDateTime: 2022-08-11T09:06:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-spain-phishing-c89293d42bf144cd969a7479ed1166e0"
-webUrl: "https://apnews.com/press-release/business-wire/technology-spain-phishing-c89293d42bf144cd969a7479ed1166e0"
+excerpt: "Voicemod global customer survey shows 83% adopt alternative voice personas for fun, contrary to stereotypes of darker activities. In a world where the transparency of online communications is touted as a virtue,"
+publishedDateTime: 2022-08-11T09:05:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-11-for-fun-not-phishing-is-why-most-users-change-their-voice-identity-online"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-11-for-fun-not-phishing-is-why-most-users-change-their-voice-identity-online"
 type: article
-quality: 22
-heat: 22
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "hoJV5oQSlVeLuRDH+at1/FIQa973nv7pdz7S0gI296eddlkMU8AZRCIHQ0EQz+IBa1CdJvt1D68R/xVoPepD/+9DfuNF8ji6Uq93jO5IyVHv7XK6SIHXIZgZZminXVupcWHfQQHzye1xQnTAeh576upisrVfda/8LeLBYqei3cAjGmLl6r9kqbtBhOEiZZJoc9XXJ4a0q7L2eumY2EJO1bZ0cRAL9OkrLgDQ46cKCa8iVM+tCk9VVmo5AZn1EXSQ66IzW7iIlN2J+JQRQL/fsklt2Fu2HGyoPCM54tTaMqqB+uxbIavUDd8w45deFU4xj9GzhfDl0yv0DTjfJ6eP3+ymfmtJ8l1ZgSLV2KcJmw8=;X25abhUIufMon46eVxcOZg=="
+secured: "vN584ikJDDmfCq4UEySYLIt9dnu4JNsZToDOOJUj7AEJCrnuBDOdwA2uY+COFVyVzjZ4GC2FFYkZFoQgCQEoX4Pk8aGrrnXTlrj3Euq1sjma6HObwQPfCpFzsPJ/1XQZ56GFuRdGRby+YbRuw083FbWhUAgkz16FlbywFEFeSCgSOLy6bCQ0pKOBS3h616ktzyLuY8iskm54x4AlskwGXUqhk0nZyKxMZSAsx3+JJbS3x+wyyYhKg9c87+Pu/obceQQxOS3KYJWBzf8uU32c4XtEZLcVEhQKkpSbj2RIbG0V0z7HsPmPhl5lI3r5TAkY6Fu0Roq0UDwaitAWNjgbfMzddAw8nW2Axg8uYKEk97U=;VE+HdGD9fYigvDFhKkD6cA=="
 ---
 

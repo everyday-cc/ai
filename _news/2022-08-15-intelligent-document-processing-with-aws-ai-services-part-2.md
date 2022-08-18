@@ -43,6 +43,22 @@ related:
         width: 996
         height: 630
         isCached: true
+  - title: "Here’s how Observe.ai is building an intelligent workforce platform with AWS"
+    excerpt: "Their platform is built on AWS, and they leverage a lot of capabilities from them, including AWS Lambda, AWS Fargate, as well as Amazon SageMaker. “We offer the above capabilities built on the ..."
+    publishedDateTime: 2022-08-16T06:35:00Z
+    webUrl: "https://yourstory.com/2022/08/observeai-aws-building-intelligent-workforce-platform/amp"
+    ampWebUrl: "https://yourstory.com/2022/08/observeai-aws-building-intelligent-workforce-platform/amp"
+    cdnAmpWebUrl: "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/08/observeai-aws-building-intelligent-workforce-platform/amp"
+    type: article
+    provider:
+      name: YourStory
+      domain: yourstory.com
+    quality: 71
+    images:
+      - url: "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Imager6c5-1660729189734.jpg "
+        width: 800
+        height: 400
+        isCached: true
 
 secured: "PfEGVfA25hsctyhoZDsl0lNZ4Cic/yOEOqWweG/DRS+JTuuiE+jIC21Im1CWVQyHsYESpcdftd3uDueT1lAuiSKZUIE049J6zXkT+D2kMNcqzK/tGfp8hobJnAFrYEFYe0guxD3ihlbe4/W5dVnKGzB2s4h6i55koGJ4j/KrYVSUtxd7+lHdcqaM9JNjHqA0L4GbBh4ktO2KF9OkH+AqZxgydrbwpfFMhIDKqCb7G4vGckuufkdBAv36Z/2T8KGO8FGM/MCNO0w3/K8O5yc7edG7NYRkRPqefPqqUgzSDSV7r3UfRdZdKaSjPXCXW8Ow8/iKg7G//K2yTiJDYYv78PQiNABzLT1CWcGxFhLPdz4=;yjXu4+02cPQtX30KSCswSA=="
 ---
