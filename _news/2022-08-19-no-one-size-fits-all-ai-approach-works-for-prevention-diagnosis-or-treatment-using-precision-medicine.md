@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-1.jpg"
@@ -41,6 +42,6 @@ related:
         height: 1568
         isCached: true
 
-secured: "OmMjLRHingeI1uRl8bjqXWqQfezj187Pzp0gxgoG7+531CoTyjcRbmcCTUXoz8hsjcikW42OJUpWQsnzXCMdiF4em/m2N2TsqKFq1QgmXpNyNYHWF8YGKoxRpnPELQxEez0XYNt4uqU2KMFUir5a0f4AC+Gievh+P/TikKzGcyZyRzo0p4tH4AdXVnO/rMSUttTfDMbfCoORo6jbje5vOvm3N08jhetJJv9quNujFuPsAPV8JZvDxttvvkjjkvKZLM6TS3bcZ/viruxnBWKXNY2ZJSb/XAHiEEdhHg9udWe7U90FGTqwnLN4cpne9/U2y7LF6hMU0o9gtzRrKpBH8BKf3wbpVfK7j3SRoITNFHQ=;yVN5F1qyXW4kVl0gR/pIrQ=="
+secured: "NL6gesgQRqvWHVulTpHyZgPEaYZ0+Sx6So278Nk3eA+snwiKMqT7ppIxF85zjw534f/orkPXrFQbtEzig92F2auF0xsrl6URz32N8eC3lvO12mb1dNf+/x8cPi9D3jjph1G2lVc0OaTCiKtn8WbPigy8HQoYdNTBKVF2GFOqquWLG24xmZuy5nF1EUxJfGFGfLB6Y/hIV/b80AnUbKymCwMUwVq/OsWqCF0C6f8Phaqa5KfEbLAaRzCYItx9cVnqpycXOrfcqA3NWRaY42aWFTwswGekALallibH2cu60aE+6E15NAhZpsSKxNIf3N5fJwViqyP4OvOhkuCAQOmEQxQlZPoq/URnYaY6mKXP1gUGBDRI3oQu+AEKBU/3rcNoaSaUXMDpA1n6ftKD2sp28wn/dHzgiF8dJUp24CAwna9/m7LlxCK98pLRlKANJN5FmSejbzL1h92yh65MGiXiQnFuGOAidnpebAe0PNLjKK21wvYjV3RzdmKP8PxwMJs4X9M7IJotismCt+S6DOkv3w==;HKcN072W1I5n6R6y6RGIrg=="
 ---
 

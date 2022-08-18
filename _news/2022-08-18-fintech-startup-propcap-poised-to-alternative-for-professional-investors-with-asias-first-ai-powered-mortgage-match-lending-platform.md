@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Finance
 
 images:
   - url: "https://release.media-outreach.com/release.php/Images/271070/PropCap-HKFTW-2021.jpg"
@@ -23,6 +24,6 @@ images:
     height: 2000
     isCached: true
 
-secured: "gbMUDL8rmEQXyTiHFHkF1/m9CVgFedtmjDgCKiz4BrOu3zY8puAZA1UdrUeLIA6IuXrkXt7rejmnVy9yi2vUCVJRJtPliawZXyX1ifKmM6ZAtTpXF4izr88ZTyBca+MqvK3MglPZf9rtMITk8F+3WGQEN9HfvNEe4YGUPsSTrfI2nLSqmLsRbfpucATYTl+7VynLKCqAX738PjFDO8pnob/76nwX4q/lo6fpwlh8xkE+z8Blzil2LnCJL3SHu72U+rOOC0SXSX2LJqqkKtLX/3CgsOMqmh496ORwXrKS+7gfak+QBKtSgdIYBvlNtpHx0fbt8yvnKdbNpPQbslZG+C353spcTle0zkNSQ0qOvPw=;jxkfJltqjGxaxve4liRhNA=="
+secured: "nTsmSLCEUq1+akjKxfFYYGOg4fXfHMhWGaRYKr9CzXKTxXFCTVIM+0EejMiQ1JXNNIRAXxH01DD+bDAgDkCukShR4oMTninnPTY/YwgoI9yx9okjnYVNOmaDJddb1w2JQN3e9QNR6HW5RtSbgrC6LspmuAooVuun3X7WwpcM3wDUoYkt+1AyYIS2QT9+j8cRSCyFc2Yxp9BU73XGS8i//wpfXN0vRGrN6aMfn7rl/X051eoWElHfPk5aDy/mSwvbFsv98vqZXhL4kEjNaFHTM/AXl/NEicghg7tzPHi1uulzZ3OU3LpNeu0KHNcCL2qHsocQVzxvnLOmyO0g5Jkn8IUmpFN6BKknrLEH8iIlE6GNM0Ogqa/+LiXZCsghRKX44/xRveA9xiakFtPSh1fqjoFPByy1Lla6F8+2uMRVv8GhsyFTUsc9wVkwCQIYAeWbejd5idUEY/s+c1rGWoTcqpAbp2+BFmHzRj7ffrj5k2jIfdnLwzGlEBVfv7nv0dETWeG7phcsaVoHhpM6jU/1AQ==;DeBO+sJ0FwL9+Cj/oPl+yA=="
 ---
 
