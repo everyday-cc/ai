@@ -1,21 +1,27 @@
 ---
 category: news
 title: "UJET Launches AI-Modeled Interaction Design to Identify and Value Optimal Virtual Agent Deployments"
-excerpt: "UJET, Inc., the world's most advanced cloud contact center provider, today announces advanced AI-guided customer service operations that leverage hundreds of thousands of customer insights to drive enhanced customer experience (CX) capabilities and automated virtual agent responses."
-publishedDateTime: 2022-08-18T15:23:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/18/9658804.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/18/9658804.htm"
+excerpt: "UJET, Inc., the world’s most advanced cloud contact center provider, today announces advanced AI-guided customer service operations that leverage hundreds of thousands of customer insights to drive enhanced customer experience (CX) capabilities and automated virtual agent responses."
+publishedDateTime: 2022-08-18T13:56:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-1f596fba9aa446d582a678e3355d640a"
+webUrl: "https://apnews.com/press-release/business-wire/technology-1f596fba9aa446d582a678e3355d640a"
 type: article
-quality: 3
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Rad Intelligence (RAD AI) and LA HOPE DEALER Join Forces to Integrate AI-infused Street Art and Marketing"
@@ -42,6 +48,6 @@ related:
       domain: tmcnet.com
     quality: 0
 
-secured: "qDa5BCpuHEiKyIfiwveV9LsaUsCwSgsZ6mnvVE6tdHjU2QmTiRRGGrsOpwgrMS6zHdB3HA7f2bdO+fwtLwxwYFWZHaSGl8we7Ls+wwfxc02lVbD1W9Lv6cfYtuVoeAYd1SOtO6We8vS0rEWL8e+leRj1JJNiO5l1Y8agZacCHoFnsY6nRhsUG9rYgYKSuD56PpgO1S4vNe60/FKr0CPhYwxtgWTtnzbvzeKJosCiJr/FwKZ4Xe/1pXzIHsaqWVYqtrWl+h7hzqMEwxcgZlWx8YLx2GdBfAdHm5igE8vODuzZVl9VU/GzYI1bu28sF83PUp3A0Twrl0jaG/hbFQxdwe8zirncgMeqyEZUvDWc6Jo=;CD4M6brs8wJvoFb5tEKNmw=="
+secured: "NTazFgUIRMLClMv+CE5c4MibUiLpfExv7b4x8gzdSsTEpcySHyTFG7wzNoedtrL92fUNkLKafq9awGlB64rPaJmFTtPgNHnUp0fzglupHMyEZUZk6K5RHJZVp73jeMj3JqxrSq4eCWX1Mk1EjDJVUV9VTI++vBxNajalkaK9xj6LeR8El1TkR8dAnPmf2adg7AtXaWOao+9br4aiiysUF66pwWtc8Qoqw6b7ZAc7HogDyutjGPSYk4jc7OE5iCylMtUY+QUrG+7SLDetO+6Z3GIMzl/dej60+GJtFMrmf5WzsmVX4+YQhh3YnWIsbC5WIcxZzdwcO2fr/VvayO0BLz6YAeWmUIrpDgNVF5hWjCg=;UbKSvxOtGnblJ4IFYgdczQ=="
 ---
 

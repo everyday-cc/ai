@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-role-of-ethics-in-the-evolving-world-of-marketing-ai/amp/"
 type: article
 quality: 121
-heat: 161
+heat: 171
 published: true
 
 provider:
@@ -93,6 +93,20 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1387900612/image_1387900612.jpg?io=getty-c-w750"
         width: 750
         height: 534
+        isCached: true
+  - title: "Pitching with Artificial intelligence"
+    excerpt: "Pressfriendly offers a similar service for startups by using AI to review beat reporters' past coverage and open rates. This intel helps identify the best send times and will increase the likelihood of pickup,"
+    publishedDateTime: 2022-08-18T15:58:00Z
+    webUrl: "https://www.axios.com/2022/08/18/pitching-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/r6dMsuHu9l_rds8BmSeTqxcg4UI=/0x0:1920x1080/1366x768/2022/08/17/1660696922141.jpg"
+        width: 1366
+        height: 768
         isCached: true
 
 secured: "4w6dkSZYc3tGTe18zZiBkZHsr2QrgRpie/OTLIQAxZuWoQ/rYxUz8QLVI47S+1emvjXptec26aNy0JM+Iu/TJWNLIVqrgmskDVptWqp5eCsnQnYcdT9NVg6cp7uVOmUJ5KZ7mblK47lNdi67ZD35k6XjiS+o/YuJxHA7WengbsVvL5WtwyvyqTH1tE5+DKwfhpikziae2q0AHXINMn7n/aPsQOHLbzlRqjrHJolfF+zrG7PmqfrbshTSBuKgArQZjRh5E1gQconAWmo6VPyyw9FHg1PnPHKy9sdJUcOm8ygOfuEbo+x35b8dvlPMdkxSNuPm/l4whIukUcHhWd9vbmZJmdKuBfQex9bKc0LXMLFCYeeOJgLIgCJio/8zl9qv9M/YcYst2rGaA7bRw3AQ8ZVZyzHVzDrfUgDnYWfJ5zDEnXM8PRb8u70n9Vs+JOjUWLhpy1m3AObVCw5DbdTWAaGrRc7CEXbm20OdvIS/aweEEq6kD3l6CorHx6b8wm8FOVHoejSpnSWv31XSrDxLyA==;XAkg+dk5k1G8FE3Je7opfw=="

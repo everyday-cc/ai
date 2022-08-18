@@ -92,6 +92,20 @@ related:
         width: 750
         height: 534
         isCached: true
+  - title: "Pitching with Artificial intelligence"
+    excerpt: "Pressfriendly offers a similar service for startups by using AI to review beat reporters' past coverage and open rates. This intel helps identify the best send times and will increase the likelihood of pickup,"
+    publishedDateTime: 2022-08-18T15:58:00Z
+    webUrl: "https://www.axios.com/2022/08/18/pitching-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/r6dMsuHu9l_rds8BmSeTqxcg4UI=/0x0:1920x1080/1366x768/2022/08/17/1660696922141.jpg"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "6K8KTbimBzPi0FU1+yTYTq35+HpS4rp5UpfzY94vf0/x+7CnUV8H2vXOyV+RMyaD6zZilt6dviucJQAoa+iHwnKLCPUtIkrZwuGu8iUAZOAG5WORw27certoY/BJ6KxDG+XWGdhInNe+RizvjS+Qi3dKCEDFO1jLz/VZmhv81QLyeE5Jcbr2Fv3xKvERStGOEWZHJZfdzY8L2dsR6eju0m/r4j73tiyjcm1xrswamrSNQuj4YyZCsREkhNImdI+ykoAmjJKMiuyOEt0UbEGDFWhktGi5bsganYBL/BPND8ni85YaAkpcsIL/US1BeO8Gv8SDG68wUJmVCTu/PDewg4iv/eVjS5q0A3PYq5bjzQM0SsKSxLJlI4a6EGkTja78RLodrJc07SZBo3vwunRp6HnTxyxjB4GvJkY5Lp2f/w+mD1OdQ4i0PvM2hsrLWA4G+0aYEJbm+zQ9f9+ixu4Po64/mwFS1eMPTvDVJUi9hFM8rQ0wk8mXn3t2xkqqZwq6wS1pFDHMNK9rLSEgs7ejKw==;KO63pWONktBRwoaPF3l58Q=="
 ---

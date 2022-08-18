@@ -35,6 +35,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Scylla deploys face biometrics for Dronedek autonomous delivery security"
+    excerpt: "Facial recognition will be used to authenticate customers as they pick up parcels from Dronedek lockers and in certain phases of upcoming pilots."
+    publishedDateTime: 2022-08-18T15:59:00Z
+    webUrl: "https://www.biometricupdate.com/202208/scylla-deploys-face-biometrics-for-dronedek-autonomous-delivery-security"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 40
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/18115701/Dronedek_Retrieving_delivery_from_a_Dronedek.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "aNA41lMmuTzoGfMngl6ujDMctL//0MRClTctfeesk2zIcRDbtN91UsBtQwQ3rv7Oell6x1NYAuQnIIrvvSea6tqaultzCtCIxJCZueofvnMDvp7QLiqC8CtT0fL9v1JvZXfvJ3jvCW4JZD2ymicIujSucfMBUFJLGWmOgkoO/r8tgbJ+p+clBadI9/AV42840s6FikPpRP+xKKy00IVH3UPyn9kk3kgPgWuRMpixQgi3PqtH1wlVn8W4lPYKgwqC+sR8SpUiMUP6DiENEoe458NXWFT+iU3caFS2lrKYSmVY/kwwDjE3REzz1RkL7Nw82NjAIqlkwNP61uz5amvrUm5PFk5gBEzDgnQvxKAcdNNxUJtI7oEPmt1Cb74ja6VT15nnzOE3O4sh5FFIWJ5owy84fwihImFTJGe7Au2wR0DSEgfI7BVZmJ//yq3aoxeM7jI1M5Lo5aakUsuoOVgR09+f7xut3at4ieqiuR3/6fmZ2yVAx5w7BIr8sjgtxzjFnwm+/O/SfO4fSht/gxDU2g==;0ZD1/mF0ritKJ8X7Oietcg=="
 ---

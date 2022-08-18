@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-18T15:06:00Z
 originalUrl: "https://www.rutgers.edu/news/no-one-size-fits-all-artificial-intelligence-approach-works-prevention-diagnosis-or-treatment"
 webUrl: "https://www.rutgers.edu/news/no-one-size-fits-all-artificial-intelligence-approach-works-prevention-diagnosis-or-treatment"
 type: article
-quality: 13
-heat: 13
+quality: 15
+heat: -1
 published: false
 
 provider:
@@ -17,12 +17,31 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.rutgers.edu/sites/default/files/ai.gif"
     width: 2880
     height: 1568
     isCached: true
+
+related:
+  - title: "No one-size-fits-all AI approach works for prevention, diagnosis or treatment using precision medicine"
+    excerpt: "A Rutgers analysis of dozens of artificial intelligence (AI) software programs used in precision, or personalized, medicine to prevent, diagnose and treat disease found that no program exists that can be used for all treatments."
+    publishedDateTime: 2022-08-18T17:51:00Z
+    webUrl: "https://medicalxpress.com/news/2022-08-one-size-fits-all-ai-approach-diagnosis-treatment.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-08-one-size-fits-all-ai-approach-diagnosis-treatment.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-one-size-fits-all-ai-approach-diagnosis-treatment.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 41
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-1.jpg"
+        width: 1920
+        height: 875
+        isCached: true
 
 secured: "y4HL/jtD9zoIQC1pUNwg6cAL3twf7Dxh3PPd/chI52WGN7x0Art0E0FV27x++vgxZ9juHOqNS5wl0LwHA/x3DvHvJT8d5e58WN7DDRtIU5ZBd+7cUxpJ4ztrgBx7zNZhUlP20nWQY4dkWAQZfi585xZjPiazfPBMEZ9ZGYOpypXyCLvYT4eW8NtJ/COrerbsXVOgHVhkTwJU0TqrW2XCL56h+R8zxmC4GSfyFbUkrzQ0toxs9F1htB61QJK0kyfTtgIBllvKrRxpenJ/AqlqODzSoGP6rFiyaMJEPDjRpMhV6GV5lrQE9pPWBAs2SRh6HKsSMm6zzz5FIi/fkR0tnMLyRZeQEnDHMZebc1gAgYI=;ToZQeJ/7Wcin2lGMoq5x+Q=="
 ---

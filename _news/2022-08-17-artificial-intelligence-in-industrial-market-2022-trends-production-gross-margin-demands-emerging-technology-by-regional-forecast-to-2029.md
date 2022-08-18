@@ -51,6 +51,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
+  - title: "AI In Medical Imaging Market Size 2022 by Consumption, Volume, Average Price, Revenue, Market Share and Trend to 2027"
+    excerpt: "Aug 14, 2022 (Market Insight Reports) -- AI In Medical Imaging Market (US ... EchoNous, SAMSUNG, IBM Watson Health, NVIDIA, Siemens Healthcare The leading players are focusing mainly on ..."
+    publishedDateTime: 2022-08-14T13:43:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-size-2022-by-consumption-volume-average-price-revenue-market-share-and-trend-to-2027-2022-08-14"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Deep Learning Market Size Will Achieve USD 415..."
     excerpt: "TOKYO, Aug. 16, 2022 (GLOBE NEWSWIRE) -- The Global Deep Learning Market is expected to grow at a CAGR of 51.1% from forecast period 2022 to 2030 and expected to reach the value of around USD 415 ..."
     publishedDateTime: 2022-08-16T14:48:00Z

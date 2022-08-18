@@ -2,26 +2,28 @@
 category: news
 title: "Scientists doubt that DeepMind's AI is as good for fractional-charge systems as it seems"
 excerpt: "DeepMind constructed a neural network based density functional designated as DM21, trained on fractional-electron systems, such as a hydrogen atom with half an electron."
-publishedDateTime: 2022-08-15T15:12:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/961844"
-webUrl: "https://www.eurekalert.org/news-releases/961844"
+publishedDateTime: 2022-08-15T14:20:00Z
+originalUrl: "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.html"
+webUrl: "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.html"
+ampWebUrl: "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.amp"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/839c7f64-ce32-4a74-89a8-cd6b09dee5d2/Rendition/thumbnail/Content/Public"
-    width: 300
-    height: 282
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/scientists-doubt-that.jpg"
+    width: 512
+    height: 482
     isCached: true
 
 related:
@@ -54,6 +56,6 @@ related:
         height: 683
         isCached: true
 
-secured: "+HkpQ2JjlIJBsZJsTTSzFpbwJKFJVR3DFugjCEberhUpexD1DbyizhWiC9dO+x96gGC93KNf4xll8ESb/hF2QizpQ4tdYenR/bJNaGdtMVaXutrLLBtXxju9aQEz6XAS8ADr8sMrgRE9Z+5Qof5IOBAT6WmflRxcj0m6tIWHOm4qRFYjilw7B11ldm6+svKA6SRzIcI7GI4SZ0BQte9wYM3zt8tNYnH6JM7tGYdtbe0DHv4Fcr//4/UFQhfBzIpZncJhHSlcC2hv4G59oq2FkQsp8TpU49ND1eUbvtpGUy2eHU/iMk199tFO24JPwMuyVvi0X5X1TXzIFsrQiiLVidHYw9+D+EJM3SwcdTiFmS0=;XApOUMK+snmEEIJ9Y9ZZZA=="
+secured: "vAQmKIHTLYgeBo+WYNMwgdgsHe3jSkvAJyXfC7VbvD8RKpbBInh6hbC+2PlmDMZKO8tUIkfL77teI9a9b14eYQetJqXJbojvZ6ga/9k+Mo+hhQ5lSR0pyX5k2h2cAjkpBVcIW3+Yr9GRXzP1qFOJC4n2xaNEgPmc9Djq3QHbAyIlL+Y8Wt8PUCnDobBFSYn56PMco5NYamsZiGw7n0HCDrcjK4TLB8rHa9+0RIrraNkKO3/3SckTKA14OmgsOO1AFyls75SxCRb3xE4znmlSS/m02e3SEepFzOQRBs7Va8iOniKsxKTLqll0lgztR3LpO0AzPbx1hOE9amo52aJ8tJcjyAayO3W/EnyIqxw0sZE=;qjX2qHbDooKT/fizjGOXJA=="
 ---
 

@@ -26,14 +26,19 @@ images:
 
 related:
   - title: "UJET Launches AI-Modeled Interaction Design to Identify and Value Optimal Virtual Agent Deployments"
-    excerpt: "UJET, Inc., the world's most advanced cloud contact center provider, today announces advanced AI-guided customer service operations that leverage hundreds of thousands of customer insights to drive enhanced customer experience (CX) capabilities and automated virtual agent responses."
-    publishedDateTime: 2022-08-18T15:23:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/08/18/9658804.htm"
+    excerpt: "UJET, Inc., the world’s most advanced cloud contact center provider, today announces advanced AI-guided customer service operations that leverage hundreds of thousands of customer insights to drive enhanced customer experience (CX) capabilities and automated virtual agent responses."
+    publishedDateTime: 2022-08-18T13:56:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-1f596fba9aa446d582a678e3355d640a"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 3
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Torch.AI & Vertosoft Join Forces to Optimize Data Infrastructure with AI for 100+ New Customers Across the U.S. Government"
     excerpt: "Torch.AI, pioneers of data infrastructure AI, announced today a partnership with Vertosoft to accelerate the adoption of next-generation artificial intelligence (AI) and data infrastructure software capabilities across the U."
     publishedDateTime: 2022-08-18T11:23:00Z

@@ -84,6 +84,17 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Don't Test Tesla's Full-Self Driving on Children: Safety Regulators"
+    excerpt: "According to Bloomberg, the National Highway Traffic Safety Administration said it uses controlled procedures when testing vehicles and that “it could be highly dangerous for anyone to attempt to test vehicle technologies on their own."
+    publishedDateTime: 2022-08-18T17:20:00Z
+    webUrl: "https://jalopnik.com/dont-test-teslas-full-self-driving-on-children-safety-1849427978"
+    ampWebUrl: "https://jalopnik.com/dont-test-teslas-full-self-driving-on-children-safety-1849427978/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/dont-test-teslas-full-self-driving-on-children-safety-1849427978/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 54
 
 secured: "5bTdslACRPMmp7//28aKCOXazVBWjA1/BiL9WNUBaf56eRhwqv4lJxTdaYAbvoVZqUP7o1fbBibTF5hrgzS1ITj9+EGI5TE9knOO5UCoAJ9O3u4bsDogEnI/97gGyQmF5hi/3TSAGvUbMPMFNWrYfLeSAmS8N79PsS1EIXVUSpy4WBea2lvH2J8VxOM7q4Qgn92waGI3qqPiQ1ZUozXDbExg/mRv61XuQ0VByWiWOJTuCM+2tTTX6L96S6x6tpD+5CvXlGqRBPKn1lzZK5xMovHF1gwcxCdBYLHdzrJqKtbWEIdv6GRASbHXEWDaO22R5uouAYjXmKEpsniOE/FIbfjaz6QI7POz3q4nnt65Qz/uWZHV3ydUuXc7S+8hktdoygUA07/2bwn+EK2mVWkz++y4pd8dNyNV2cmB5i9XND1UsiSugyVKJzDb56+LsJPARKcrWEvGv+OTMLDyLQ+qDkWSpL6io7BfC6JcABgKz+OBbAe/VRQRR7nUD6vrNlN4tHGJYcQC2ilGr+Whv7dujQ==;2ejH339k9sWeCV8WE8Zpzg=="
 ---

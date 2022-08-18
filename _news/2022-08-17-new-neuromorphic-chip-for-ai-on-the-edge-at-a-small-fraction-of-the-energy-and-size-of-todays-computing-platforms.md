@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp"
 type: article
 quality: 52
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -65,6 +65,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/can-a-human-with-a-spi.jpg"
         width: 899
         height: 441
+        isCached: true
+  - title: "Researchers Develop Graphene-based Synaptic Transistor for Neuromorphic Devices"
+    excerpt: "Recently, researchers from the University of Texas and Sandia National Laboratories announced the development of a graphene-based transistor that exhibits properties similar to neurons."
+    publishedDateTime: 2022-08-18T16:08:00Z
+    webUrl: "https://www.electropages.com/blog/2022/08/researchers-develop-graphene-based-synaptic-transistor-neuromorphic-devices"
+    type: article
+    provider:
+      name: Electropages
+      domain: electropages.com
+    quality: 20
+    images:
+      - url: "https://www.electropages.com/storage/app/media/2022/Aug/neuromorphic-computing-AI-future-og.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Can a human with a spinal cord injury walk and run? Discovering clues to solving science challenges with neuromorphic technology"
     excerpt: "Provide a ray of hope, engineering clues to biological/medical challenges for spinal cord and nerve damage patients - Reproduction of the leg movement of a nerve-paralyzed rat through the stretchable"

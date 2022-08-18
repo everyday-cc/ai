@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-16T10:00:00Z
 originalUrl: "https://www.washingtonpost.com/business/ai-panned-my-screenplay-can-it-crack-hollywood/2022/08/16/ebfde0b4-1d74-11ed-9ce6-68253bd31864_story.html"
 webUrl: "https://www.washingtonpost.com/business/ai-panned-my-screenplay-can-it-crack-hollywood/2022/08/16/ebfde0b4-1d74-11ed-9ce6-68253bd31864_story.html"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"

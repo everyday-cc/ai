@@ -80,6 +80,20 @@ related:
         width: 899
         height: 441
         isCached: true
+  - title: "Researchers Develop Graphene-based Synaptic Transistor for Neuromorphic Devices"
+    excerpt: "Recently, researchers from the University of Texas and Sandia National Laboratories announced the development of a graphene-based transistor that exhibits properties similar to neurons."
+    publishedDateTime: 2022-08-18T16:08:00Z
+    webUrl: "https://www.electropages.com/blog/2022/08/researchers-develop-graphene-based-synaptic-transistor-neuromorphic-devices"
+    type: article
+    provider:
+      name: Electropages
+      domain: electropages.com
+    quality: 20
+    images:
+      - url: "https://www.electropages.com/storage/app/media/2022/Aug/neuromorphic-computing-AI-future-og.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "fTv1J3zVKC24uRW7k7yXCH8zbD9+YNQ2pL2jBXbn5S6MNBBAFycDTYVTaVY79GH1vneHlboSEmc0kn6xDPNjn5+nzcpNypWXpIeOO8PMd2KpvJdVtKcum9NATQQhwIfFBofvZl6cMnX017p675J1mhPBHz2ANuaIBVmB2bqMXLLKLGOh1Vqoprp+yjLnwMHIpvlINkQhacV0UG3lqPDHbjD2/aHhLPGklLnilUR2QmkvI2BxBQcQ3LqUbOaMZjoy49nRWUit7mT/hu3lYXVjS9ZE7mM2huGiUcv8hf2I4Y5pS7/caPS801Q1QA4PpALrl0DaDCqjBTA/RmYfnDVq31JpCQu9MHwMAVt0X/cF5VmJ4iMTtquuu3h6oykP6F4/4eG27FJKT0oXR6tDIjLZUilzUp9Zal3GkWl7bckorsHqzlA4r5e+8949w0h8DYfXP4SAr5tjZSj9v1+is37HZbe2mr9aAe6tGLKDlAoUfKfilhYOiwQlkhMw8/Rw7fZk+ypAtD8hY9ZlG8KRMbqMwQ==;pR8yTAgF8q4CE7Ua6Lr2Pg=="
 ---

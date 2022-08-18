@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-rid
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/amp/"
 type: article
 quality: 97
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -88,6 +88,17 @@ related:
         width: 600
         height: 315
         isCached: true
+  - title: "Don't Test Tesla's Full-Self Driving on Children: Safety Regulators"
+    excerpt: "According to Bloomberg, the National Highway Traffic Safety Administration said it uses controlled procedures when testing vehicles and that “it could be highly dangerous for anyone to attempt to test vehicle technologies on their own."
+    publishedDateTime: 2022-08-18T17:20:00Z
+    webUrl: "https://jalopnik.com/dont-test-teslas-full-self-driving-on-children-safety-1849427978"
+    ampWebUrl: "https://jalopnik.com/dont-test-teslas-full-self-driving-on-children-safety-1849427978/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/dont-test-teslas-full-self-driving-on-children-safety-1849427978/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 54
 
 secured: "5eOMwsjttvw4QckvF1fTXabBmGlrQUYCOIF7t9HMDXGTtWn0Rbo1CvcT7Cvdqdd5a0lQr1422dc/JWFM2NT0h8kxf+yhjxwkuT3ugv2x75nL7kjDQYA0ks1I/eCrvgwbd7xk8oHQK0yaA3+odIOEi4Hcct82c6916DuPkSyU3T/lVubyD5J0woaCOV4q9rDFep2q2a2k9M2cw1bK93sHvvXj0uhFBt/Squ2xB97WtVDKWAnpQO7jOiZGCfwcVQ31Nr5GwHZGcdn4yXQfTaGb4vn2vitVEd/Kv9+ool2ljkHJfM7wHGHD1uDlanUg2KAnnitik3AMGnmPpaNHJsdVLPCQ90LgJVVufqxltqqus/Mxp1Nlc23qEuyzp9o2S/PnBfhNM9nAdgsjehSz2PFR08ISvrEoMUFZ9NWbN1ja0CdOg6RwfFQ1AuirRIP6kigNTyInq4NtZuXBhTFNYetbPAbXdj5ijG3O5PZ80EpBgd7gNfREQ+66NbKunprkuWP/OnnOXLtzUNxIq21QMXh+qA==;oQvG5JLvOauKhxuUd4PqZw=="
 ---

@@ -1,29 +1,30 @@
 ---
 category: news
 title: "TAZI.AI Launches Adaptive Machine Learning Solutions to Speed up and Democratize Machine Learning"
-excerpt: "TAZI.AI today announced the official launch of its Machine Learning (ML) solutions especially for insurance, healthcare and pharma industries, built on its SaaS ML Platform. In as little as 40 days, TAZI users will now be able to create ML models and start seeing business results."
-publishedDateTime: 2022-08-18T12:17:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-san-francisco-396446da6e8c4adbafe1101162289817"
-webUrl: "https://apnews.com/press-release/business-wire/technology-san-francisco-396446da6e8c4adbafe1101162289817"
+excerpt: "Press Release TAZI.AI today announced the official launch of its Machine Learning (ML) solutions especially for insurance, healthcare and pharma industries, built on its SaaS ML Platform. In as little as 40 days,"
+publishedDateTime: 2022-08-18T13:25:00Z
+originalUrl: "https://venturebeat.com/business/tazi-ai-launches-adaptive-machine-learning-solutions-to-speed-up-and-democratize-machine-learning/"
+webUrl: "https://venturebeat.com/business/tazi-ai-launches-adaptive-machine-learning-solutions-to-speed-up-and-democratize-machine-learning/"
+ampWebUrl: "https://venturebeat.com/business/tazi-ai-launches-adaptive-machine-learning-solutions-to-speed-up-and-democratize-machine-learning/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/tazi-ai-launches-adaptive-machine-learning-solutions-to-speed-up-and-democratize-machine-learning/amp/"
 type: article
-quality: 41
-heat: 41
-published: false
+quality: 73
+heat: 73
+published: true
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - AI in Finance
   - AI
   - Machine Learning
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "P0KatRmP7W1z/K4az7uSlFSNwTjr5EWAEZElTVdLyPRTkx+WkPoHT3+cFw8v8cP0t+N48yd+ry+2AQc9LLseLB7pPhRTCCBNKvINn7hi1DB1yQwz2E1mceuU6iqiVyAqVEelYxfURtPQVHddfXs8UXpA56XHXtDiUoJ5z4pPVT5/lbNr2uveQ0NSPGLgLLCQn4Ngkur13zwPLOVG0+MPkSe7HVHndsaUKTuf49oY3b6eBd4g5FbUz7hf0T8gXt3Og+u66FnQ7sRIRdNVkF6eQwckZSGc+RX/dihK48dRwUoB33fNBZZJaCKscdLcs8sqxDTfOsIYxozqWiDcKxMqKNfst4VtfLmR4hkggmwKVOY=;kKDGYA95dZzYYTSHpDkY0Q=="
+secured: "NNFsrtoTWXnBJjzlxCwePd/eOFgdlaMMdebdaH40FP1QM+2G2F4x4F10ely2fNKk25SlSzyay25dkR8cjUln0TNz2e0/BnUHNCBO2FF7VrNwvdkHq8S+fFN+FZVN/tmFeY1H7cGh8PipirjAUTSLGN52jsL79zJER76Nw/LlH8K68zmr+SSttPYa+rCLjGpnUEk8dVGH0ZRQq6liplBXB+xeJ9VvoMg2V18VBo1ptKVeDw6yJ2+nHlSWnwyQtP0eMnS1q3XV9s/tegXrh4ukFUrWkDUnV5NxdAoVhA2giIPmKvTjNvcWl0tP2ff/M3gYChjDRcqjNVQ1KQqygJyt0qTFn/a5oSRcF1Eimv+RDb8=;ZqWS7Si9t85VXHm+oXgiIw=="
 ---
 
