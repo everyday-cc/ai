@@ -74,17 +74,17 @@ related:
         isCached: true
   - title: "Amazon testing new TikTok-style feature on its app, AI firm says"
     excerpt: "The feature, called Inspire, allows customers to like, save and share posts of products, and purchase items directly from the feed."
-    publishedDateTime: 2022-08-18T03:40:00Z
-    webUrl: "https://www.whas11.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
-    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
-    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
+    publishedDateTime: 2022-08-17T22:40:00Z
+    webUrl: "https://www.kgw.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
+    ampWebUrl: "https://www.kgw.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
+    cdnAmpWebUrl: "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
     type: article
     provider:
-      name: WHAS11 News
-      domain: whas11.com
-    quality: 59
+      name: KGW8
+      domain: kgw.com
+    quality: 57
     images:
-      - url: "https://media.whas11.com/assets/CCT/images/e3e15506-7b16-49cb-8cc1-aff6d305ea71/e3e15506-7b16-49cb-8cc1-aff6d305ea71_1140x641.jpg"
+      - url: "https://media.kgw.com/assets/CCT/images/e3e15506-7b16-49cb-8cc1-aff6d305ea71/e3e15506-7b16-49cb-8cc1-aff6d305ea71_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -98,7 +98,7 @@ related:
     provider:
       name: ABC
       domain: abcnews.go.com
-    quality: 59
+    quality: 57
     images:
       - url: "https://s.abcnews.com/images/Technology/WireAP_d6c87ec91bcb4a3db6d7f763abbf3eca_16x9_992.jpg"
         width: 992

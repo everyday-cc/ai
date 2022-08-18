@@ -8,7 +8,7 @@ webUrl: "https://abcnews.go.com/Business/wireStory/amazon-testing-tiktok-style-f
 ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
 cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
 type: article
-quality: 59
+quality: 57
 heat: -1
 published: false
 
@@ -17,7 +17,6 @@ provider:
   domain: abcnews.go.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
@@ -77,17 +76,17 @@ related:
         isCached: true
   - title: "Amazon testing new TikTok-style feature on its app, AI firm says"
     excerpt: "The feature, called Inspire, allows customers to like, save and share posts of products, and purchase items directly from the feed."
-    publishedDateTime: 2022-08-18T03:40:00Z
-    webUrl: "https://www.whas11.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
-    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
-    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
+    publishedDateTime: 2022-08-17T22:40:00Z
+    webUrl: "https://www.kgw.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
+    ampWebUrl: "https://www.kgw.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
+    cdnAmpWebUrl: "https://www-kgw-com.cdn.ampproject.org/c/s/www.kgw.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
     type: article
     provider:
-      name: WHAS11 News
-      domain: whas11.com
-    quality: 59
+      name: KGW8
+      domain: kgw.com
+    quality: 57
     images:
-      - url: "https://media.whas11.com/assets/CCT/images/e3e15506-7b16-49cb-8cc1-aff6d305ea71/e3e15506-7b16-49cb-8cc1-aff6d305ea71_1140x641.jpg"
+      - url: "https://media.kgw.com/assets/CCT/images/e3e15506-7b16-49cb-8cc1-aff6d305ea71/e3e15506-7b16-49cb-8cc1-aff6d305ea71_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -191,6 +190,6 @@ related:
       domain: knowtechie.com
     quality: 17
 
-secured: "k3fd6T+qBAmvBfEpcVk7rc7w50qwzD1xNOIy6tCkOrpcCOL3eE2ahw3q22APUV2zhblkQ0rqr6u03yJ5+8jaqyJxoWHVjUPm8MiTTndYzYpLjfmpAJ0pdiiN1oy6fwwK5aV4j1XXK8aikvEGwEiy3yhjy9wesHN4jObNek/jM1B7R2UlRiS68YHY+1AXZqr+Oa0EwBEldfqyu+LasfaOnxK3/2dZNUzMl5if25pKyaxBlo32Q20WFiPV8G6wEP3NdUwErMP3WLUg4I2pRK7oOBqwEXOSwLTe3L70VqP2SzC23XM6i1CPmC7Miq2ftZSLP6MF71O67nzC5RkQbpj/I8+07Sgab/2Yj5YGxeXIJLA=;CoH9HNeaa82vMkIXe3DxLg=="
+secured: "87xVdEBcFx3j1A2ssu3Iq2Fbi8srNwGEZAAiftV659RbwfQFf0/c9sg+ZrTbIhwCw0XrPTzZl8LHL0VwEUopySWLh8LMawJ7Uhqz3LjsUbbcr77kjAiAsFar1BT1w66Sie+pA4BHPHr6mILwn5X2/O2qxPPpvV+1q6u5kJGN7oDxEuJg3u5JHg01lLPJyEqA7P0X9bg2RNjfIE39SHnbisftNYWMtT98naXIye/B2Jiiq8h2CcOrtclULfbmG6tPpQfKOpKRqGKHXbPW5557mD35OyRWW+SL6y1dE/PZ0gLEvOTlTgfsUZHRiWoo9x3ZyXaxKWBpCoqh1KRXOSpl6ErFLqbzByBpDupnPyd9xs8=;ZM+ncItmZoEm9xwt/w9bmQ=="
 ---
 

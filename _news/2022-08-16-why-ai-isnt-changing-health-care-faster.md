@@ -35,7 +35,7 @@ related:
     provider:
       name: WILX-TV
       domain: wilx.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://do0bihdskp9dy.cloudfront.net/08-16-2022/t_eff33dba29944b56898c79ac51ac909c_name_thumbnail_image001.png"
         width: 635

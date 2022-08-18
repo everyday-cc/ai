@@ -54,6 +54,20 @@ related:
         width: 664
         height: 664
         isCached: true
+  - title: "Meta's Own AI Chatbot Says Company \"Exploits People for Money\""
+    excerpt: "Of course, BlenderBot 3’s algorithm allows the chatbot to form opinions and make statements based on scavenging the Internet for similar discussions on the topic, and it could very well have just found a series of biased comments against Meta in general when responding to the BBC,"
+    publishedDateTime: 2022-08-18T06:24:00Z
+    webUrl: "https://hypebeast.com/2022/8/meta-blender-bot-3-mark-zuckerberg-criticism-comments"
+    type: article
+    provider:
+      name: Hypebeast
+      domain: hypebeast.com
+    quality: 37
+    images:
+      - url: "https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F08%2Fmeta-blender-bot-3-mark-zuckerberg-criticism-comments-tw.jpg?w=960&cbr=1&q=90&fit=max"
+        width: 960
+        height: 480
+        isCached: true
 
 secured: "m85eTtVtrQQD10bbtwpR/If7YtzfcFP5dTEI+/pLvtUYDbBHbwF4aV7O1Xk0TkeatvwzFfBmPeZN0d3u6Ns9fEJSoz9vqukq2QmYhZ3/LAedrzDDEtjAH95f7iqVWzFbGbe7cVcvN41mahCkyzrxlSsc4xj1Ro6LbVbAYdcVwBJP760fpdpvbv7k5J6PojryqRfFAsEDako+tfiDEss6f0oSUmfvo6IGXYgmc3gNMVGQtdE1JKSgqN6kp3cVtHgRHDxTkNHhUvGwsOnEeOHtN5XPoJbBzr19Jr+0pIsExA9Liu0LFan6kF188bTNUAjIwcvc/lVk9TClPbTivslwyzFaj10S4FxKwCSI/+lW/cMZjGn2Xz3jh+suknr/a1yXt3BZdSCdtxS8b5B6jtABON+CkTKW94Iw+zNqaS7jWxz5NwAFcqxpc3cIxX3vSAsS880SiRY4DnMULW3Gc5Bwn3fTNqSV2DmQ3CLcSg7y09TPUJBy83RUxQXtpBiJ3up0sKN3apEChp5Cym+h0miOQw==;6braldIdWQSNVx2Oj+CZ2w=="
 ---

@@ -8,9 +8,9 @@ webUrl: "https://www.wilx.com/2022/08/16/your-health-new-technology-artificial-i
 ampWebUrl: "https://www.wilx.com/2022/08/16/your-health-new-technology-artificial-intelligence/?outputType=amp"
 cdnAmpWebUrl: "https://www-wilx-com.cdn.ampproject.org/c/s/www.wilx.com/2022/08/16/your-health-new-technology-artificial-intelligence/?outputType=amp"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: WILX-TV
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://do0bihdskp9dy.cloudfront.net/08-16-2022/t_eff33dba29944b56898c79ac51ac909c_name_thumbnail_image001.png"

@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Las Vegas Strip Gets a Brand New Technology"
+    excerpt: "Innovations big and small are happening up, down, and under the Las Vegas Strip. Elon Musk's Boring Co. has been building a network of tunnels under the city that will eventually use driverless Tesla  (TSLA)  electric vehicles to ferry people all over the city."
+    publishedDateTime: 2022-08-17T20:17:00Z
+    webUrl: "https://www.thestreet.com/investing/the-las-vegas-strip-gets-a-major-new-innovation"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/the-las-vegas-strip-gets-a-major-new-innovation"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/the-las-vegas-strip-gets-a-major-new-innovation"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg4NzU1NTY3OTMyNjE0MTc2/boring-company.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Lyft launches an electric self-driving taxi service in Las Vegas"
     excerpt: "Motional, a $4 billion joint venture between Hyundai Motor Co. and auto parts maker Aptiv PLC, will provide Lyft with Hyundai’s Ioniq 5 electric sport utility vehicles. The cars feature more than 30 sensors – cameras,"
     publishedDateTime: 2022-08-16T21:52:00Z

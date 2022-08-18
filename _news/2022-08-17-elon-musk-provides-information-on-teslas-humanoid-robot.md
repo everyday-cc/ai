@@ -75,6 +75,15 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Elon Musk says Tesla’s humanoid robot will offer ‘everyone a life of abundance’"
+    excerpt: "In fact, in addition to cars, humanoid robots are also becoming a reality, with Tesla launching a general-purpose humanoid robot (Tesla Bot) in 2021.” “The Tesla Bot is close to the height and weight of an adult,"
+    publishedDateTime: 2022-08-18T06:36:00Z
+    webUrl: "https://www.iol.co.za/technology/techsperts/elon-musk-says-teslas-humanoid-robot-will-offer-everyone-a-life-of-abundance-e9b6e7e4-3a3f-5fd3-9bef-b562f3fd446b"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 32
   - title: "A Tesla fan tested out the Full Self-Driving"
     excerpt: "\"It was a little nerve-wracking in the beginning, but I knew that it was going to detect and stop,\" the child's parent said."
     publishedDateTime: 2022-08-15T17:34:00Z

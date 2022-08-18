@@ -41,6 +41,22 @@ related:
         width: 2500
         height: 1589
         isCached: true
+  - title: "Las Vegas Strip Gets a Brand New Technology"
+    excerpt: "Innovations big and small are happening up, down, and under the Las Vegas Strip. Elon Musk's Boring Co. has been building a network of tunnels under the city that will eventually use driverless Tesla  (TSLA)  electric vehicles to ferry people all over the city."
+    publishedDateTime: 2022-08-17T20:17:00Z
+    webUrl: "https://www.thestreet.com/investing/the-las-vegas-strip-gets-a-major-new-innovation"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/the-las-vegas-strip-gets-a-major-new-innovation"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/the-las-vegas-strip-gets-a-major-new-innovation"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg4NzU1NTY3OTMyNjE0MTc2/boring-company.jpg"
+        width: 620
+        height: 349
+        isCached: true
 
 secured: "8k17SOkyyuqbxU9yiPyNGMcaCaoAmzCZh008gGLDKeVDKurWEc04eCAfoKz2n33BgkyBdprvxX228JLLs/xOPexAZtw/bVMComeH3BxaHQmd238C83PR55aV0OmM/kl5S2QnU9FsFlSVebAcqRnvlQ0csaxQWM+LHPCeDIuc5i4CJVHSCI/bMfhVbauat5I0WVy/liN2XSQ4taT2oHVid+n3le8sc+V/yezGYSpdJVdKSZ4iW84E/0AamolrB+u1XpR7kcDT1jAMlS4TWNpQa/G6NR2eco1sD4vhh1GdMpgAb2/tziCn/sy0meck2oONZPl2J5QA9iXQvf4REYP++hRoKaqgPZ4TX/Vmlof9oLBMAqUY4SZMYENoZi0uzFH3zwqBkkVDAYu2orYVyRvTnlF+ygkUYTaLDBXTo9KzT8Gmol7UGG+0MNV3vONMHtf1sJMCBSbu7dxp3cjnSSNNyMBIr+PJmHuyQz3NIAI9ouLsw7Emn662OKp1ZVzddv1CV0UCxrQr6wxqjRKBLaYD4Q==;hl65NMdJc5By/dIiaJ22/A=="
 ---
