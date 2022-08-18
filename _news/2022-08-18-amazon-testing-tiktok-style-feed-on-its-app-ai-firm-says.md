@@ -1,29 +1,29 @@
 ---
 category: news
 title: "Amazon testing TikTok-style feed on its app, AI firm says"
-excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform"
-publishedDateTime: 2022-08-17T23:16:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
-webUrl: "https://abcnews.go.com/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
+excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."
+publishedDateTime: 2022-08-18T03:10:00Z
+originalUrl: "https://www.news4jax.com/business/2022/08/17/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says/"
+webUrl: "https://www.news4jax.com/business/2022/08/17/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says/"
+ampWebUrl: "https://www.news4jax.com/business/2022/08/17/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says/?outputType=amp"
+cdnAmpWebUrl: "https://www-news4jax-com.cdn.ampproject.org/c/s/www.news4jax.com/business/2022/08/17/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says/?outputType=amp"
 type: article
 quality: 59
 heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: News4Jax
+  domain: news4jax.com
 
 topics:
   - Facebook AI
   - AI
 
 images:
-  - url: "https://s.abcnews.com/images/Technology/WireAP_d6c87ec91bcb4a3db6d7f763abbf3eca_16x9_992.jpg"
-    width: 992
-    height: 558
+  - url: "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/23YUDDAXANF6LHSZORVR736KJU.jpg?_a=ATAK9d60"
+    width: 700
+    height: 1633
     isCached: true
 
 related:
@@ -77,17 +77,17 @@ related:
         isCached: true
   - title: "Amazon testing new TikTok-style feature on its app, AI firm says"
     excerpt: "The feature, called Inspire, allows customers to like, save and share posts of products, and purchase items directly from the feed."
-    publishedDateTime: 2022-08-17T22:40:00Z
-    webUrl: "https://www.king5.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
-    ampWebUrl: "https://www.king5.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
-    cdnAmpWebUrl: "https://www-king5-com.cdn.ampproject.org/c/s/www.king5.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
+    publishedDateTime: 2022-08-18T03:40:00Z
+    webUrl: "https://www.whas11.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
+    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
+    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
     type: article
     provider:
-      name: KING5
-      domain: king5.com
+      name: WHAS11 News
+      domain: whas11.com
     quality: 59
     images:
-      - url: "https://media.king5.com/assets/CCT/images/e3e15506-7b16-49cb-8cc1-aff6d305ea71/e3e15506-7b16-49cb-8cc1-aff6d305ea71_1140x641.jpg"
+      - url: "https://media.whas11.com/assets/CCT/images/e3e15506-7b16-49cb-8cc1-aff6d305ea71/e3e15506-7b16-49cb-8cc1-aff6d305ea71_1140x641.jpg"
         width: 1140
         height: 641
         isCached: true
@@ -191,6 +191,6 @@ related:
       domain: knowtechie.com
     quality: 17
 
-secured: "X50Z977UmeBzMUFD3IXZI7hGE+P/fPrBhYv5MmZD5Nz/kW/uO+eVkztChPTGSqvmHH0sxZCnIL9H941TSuv+4zNigoEHCqzANmnhTrt451uG5uXO3GyrDApnmQzdZS4HYrI9YVSo3ZfNmLrbPyK9XZoF1+XL2xnEtOnDWEmesfUgk2e0pyh+s+0IeXd+L5EB/BuvR7b5hZGJmRHIkqb9d5enQu+wZqyeqHfdczI7l+bPNG5bnQwrXJ6s6sHn4i5JD3Ut6rOWQYw8JX07XKCMCaA6L4Zdx5fOdtmcaxy3vWCj3Fo3vT+WjjVoVNrRcjZabUrV78ql1321UtLn8+hTyskw2lTWd/qddzd25Yl3o9o=;3f8nTCtM2AIHdHu2BR+EKA=="
+secured: "hHZJOWOgO1wbOi0jyvYYAm/Vhd6EQITcogzcCSKqey2XswoODMOjz/q+vniF7Q+qdAS6zOtdKw4o93Tgmw1hGSy3YtpZxNG9iP4CeLnH0r531udDx5ETVCOgsOOFC+GJ1bjEoJq5rOtXtkNxWlcgWF+Zp/ulhrjhuOUz1PyaJeTmZuInCZ1LoUF9Y2UAjGBaAL4+NWRmIcU5AsoXPWyVP7daiLyzcDoe9+cZtsu2iRrZwK+XJii86CoKT0qv26M2b+TWcV6HCWTTNcmCbPuSqqMPMSx91HUgAXUEgKQhzPEz7w2J6Pz3yveRwsmHnUFTNt4rUSAxp65yQu5pgwg5YqKaECYi2PCqnBEdrBjXXeI=;1pkrD82Et/ZvMZ3yFLp/8Q=="
 ---
 

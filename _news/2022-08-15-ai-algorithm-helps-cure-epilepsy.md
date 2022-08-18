@@ -48,22 +48,6 @@ related:
         width: 2000
         height: 1331
         isCached: true
-  - title: "Cure For Epilepsy Not Far Away: New AI Tool Can Detect Brain Abnormalities That Cause Epileptic Seizures"
-    excerpt: "This new toll can detect abnormalities in focal cortical dysplasia (FCDs), which are a leading cause of drug-resistant epilepsy."
-    publishedDateTime: 2022-08-13T09:18:00Z
-    webUrl: "https://www.thehealthsite.com/diseases-conditions/epilepsy/cure-for-epilepsy-not-far-away-new-ai-tool-can-detect-brain-abnormalities-that-cause-epileptic-seizures-900943/"
-    ampWebUrl: "https://www.thehealthsite.com/diseases-conditions/epilepsy/cure-for-epilepsy-not-far-away-new-ai-tool-can-detect-brain-abnormalities-that-cause-epileptic-seizures-900943/amp/"
-    cdnAmpWebUrl: "https://www-thehealthsite-com.cdn.ampproject.org/c/s/www.thehealthsite.com/diseases-conditions/epilepsy/cure-for-epilepsy-not-far-away-new-ai-tool-can-detect-brain-abnormalities-that-cause-epileptic-seizures-900943/amp/"
-    type: article
-    provider:
-      name: TheHealthSite
-      domain: thehealthsite.com
-    quality: 40
-    images:
-      - url: "https://st1.thehealthsite.com/wp-content/uploads/2022/03/epilepsy.jpeg"
-        width: 1200
-        height: 900
-        isCached: true
 
 secured: "0xjStsWWQMfmTLH6RxVMEXkjNjjND3cNy2czYk2yC3Y+8qkOAv8MwaySkmWfwexApNfMsXFK73ieNt44VQqTSpuqVQ3pUxdcdApQUeKxk2dsjC+uzH3oSNwf4TBY3i1jvT0jc2jNJmJH+yfN08Ey1EmUT+2OANtO+QrpBNbUA1Jol5lm6Zzx4+H9zRY7Gb2GFvfReR+sGBwzrzpNtcKsHHJX4moHm805pX/3cvC84Rhmv8ELPzJa6v2Ha+MZuNnWQalCFiro9hhKx/JDmBa+wVHVA27SQ435ostO0+ZbinQHdizrs8P0r4mevAvZag2xoQh3U2U/gIKhAEfoVZNJDXeLjvXqGh10mfvP5NFZCBKDpqwZ4j3+Ggr0hLEXYuaBaJ2OON6P4LUBUPzz73pc8DveC1ManuaL4g9OjKHP9Tj1A66GA3adIvWuhoBs9ujGuyk8twvbO3zR4QYmnIlyBHnaBbr96J2c9gnmEUElletWkkZAcG9MM6tnGfVyb/joK1N66kuysasBpd2Bb5owSQ==;8e8JRCF8o2LbAPIR8S+IRw=="
 ---

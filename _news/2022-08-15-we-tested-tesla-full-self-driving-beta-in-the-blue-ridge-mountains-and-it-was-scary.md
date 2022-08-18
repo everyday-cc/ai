@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-rid
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/amp/"
 type: article
 quality: 97
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -87,20 +87,6 @@ related:
       - url: "https://wp-assets.futurism.com/2022/08/california-tesla-stop-calling-full-self-driving-600x315.jpg"
         width: 600
         height: 315
-        isCached: true
-  - title: "Activists turn on Tesla over “self-driving” claim"
-    excerpt: "If the campaign garners the attention of authorities, it would prove highly costly for the electric vehicle maker"
-    publishedDateTime: 2022-08-13T10:30:00Z
-    webUrl: "https://knowtechie.com/activists-turn-on-tesla-over-self-driving-claim/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 54
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2022/08/xiaomi-cyberone-humanoid-robot-400x240.jpg"
-        width: 400
-        height: 240
         isCached: true
 
 secured: "5eOMwsjttvw4QckvF1fTXabBmGlrQUYCOIF7t9HMDXGTtWn0Rbo1CvcT7Cvdqdd5a0lQr1422dc/JWFM2NT0h8kxf+yhjxwkuT3ugv2x75nL7kjDQYA0ks1I/eCrvgwbd7xk8oHQK0yaA3+odIOEi4Hcct82c6916DuPkSyU3T/lVubyD5J0woaCOV4q9rDFep2q2a2k9M2cw1bK93sHvvXj0uhFBt/Squ2xB97WtVDKWAnpQO7jOiZGCfwcVQ31Nr5GwHZGcdn4yXQfTaGb4vn2vitVEd/Kv9+ool2ljkHJfM7wHGHD1uDlanUg2KAnnitik3AMGnmPpaNHJsdVLPCQ90LgJVVufqxltqqus/Mxp1Nlc23qEuyzp9o2S/PnBfhNM9nAdgsjehSz2PFR08ISvrEoMUFZ9NWbN1ja0CdOg6RwfFQ1AuirRIP6kigNTyInq4NtZuXBhTFNYetbPAbXdj5ijG3O5PZ80EpBgd7gNfREQ+66NbKunprkuWP/OnnOXLtzUNxIq21QMXh+qA==;oQvG5JLvOauKhxuUd4PqZw=="

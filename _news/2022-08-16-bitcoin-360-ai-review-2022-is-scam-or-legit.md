@@ -7,7 +7,7 @@ originalUrl: "https://www.outlookindia.com/outlook-spotlight/bitcoin-360-ai-revi
 webUrl: "https://www.outlookindia.com/outlook-spotlight/bitcoin-360-ai-review-2022-is-scam-or-legit--news-216750"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "Bitcoin 360 AI Review: The Shocking Truth Behind Bitcoin 360 AI Hype!"
+    excerpt: "Bitcoin 360 AI is a relatively new trading tool that helps traders streamline their activities in the cryptocurrency space. This Bitcoin 360 AI review will help you fully understand how the platform works and whether it is the right choice for you."
+    publishedDateTime: 2022-08-17T08:03:00Z
+    webUrl: "https://www.tribuneindia.com/news/brand-connect/bitcoin-360-ai-review-the-shocking-truth-behind-bitcoin-360-ai-hype-422617"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 39
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/8/2022_8$largeimg_1737170342.png"
+        width: 629
+        height: 289
+        isCached: true
   - title: "Bitcoin 360 Ai Review – Legit Trading Bot?"
     excerpt: "We put together a Bitcoin 360 Ai review from the available information on social media including testimonials, user feedback and other online reviews. We also reviewed the claims made on the Bitcoin 360 Ai website,"
     publishedDateTime: 2022-08-15T12:25:00Z

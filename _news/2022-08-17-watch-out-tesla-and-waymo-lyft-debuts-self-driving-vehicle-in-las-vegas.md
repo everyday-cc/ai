@@ -87,20 +87,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Activists turn on Tesla over “self-driving” claim"
-    excerpt: "If the campaign garners the attention of authorities, it would prove highly costly for the electric vehicle maker"
-    publishedDateTime: 2022-08-13T10:30:00Z
-    webUrl: "https://knowtechie.com/activists-turn-on-tesla-over-self-driving-claim/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 54
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2022/08/xiaomi-cyberone-humanoid-robot-400x240.jpg"
-        width: 400
-        height: 240
-        isCached: true
 
 secured: "Dy2GxcHRxUEqKigWjeZwy/aWrsw7XpjoHScm9O+FF0vodadWKgBj8uQJmrU+S78j/VQ47HTd0QlxTlhogiT5jKAh9v8M2WvHzL4AbHsT/uZBJaXj08pcWphFgv8n56Zl0tTGRQioCOqI+ONjeUdRX6N0NKhnvYtMLNgeno/pUlduNB7NQ04QyKBpAMhEltOsfmyWqgkqGtVCFzDHj7bCyG8Zi9CCRyJoZ9DDRoJBhWg1RY0OUqm0D0pHa5rVfzAqNwLqD2PRUeN8HXXMsoAubFwdl2oFbyQHA7sbrcWpQWXFaGwcRG7/ou3s2ZPGG6OAmvs9LAakurQVibc4M2seMpzPlkVNr2Ln4zrGOFApIK1PJR2qqRNf0Rt1HFlIstzeAYAbwSpMCdAQ1ZwBfn0niSw5fW2DyiiwxQZjDxkbJZu1s8XDcRO84xxeuwGFdrq9Sy8tj4elth4jEmEX1IqbUESWk3bAhqvKYwD4obD8CQoB94EfEYkKYmfsvfpD4djmTtxLHjWyhyBjeACdsRZz3A==;QQ58HsG2yLDoAdLIPRUs6w=="
 ---

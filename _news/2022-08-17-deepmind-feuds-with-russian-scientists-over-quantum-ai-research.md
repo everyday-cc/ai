@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/deepmind-feuds-russian-scientists-over
 webUrl: "https://thenextweb.com/news/deepmind-feuds-russian-scientists-over-quantum-ai-research"
 type: article
 quality: 86
-heat: 96
+heat: 106
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/scientists-doubt-that.jpg"
         width: 512
         height: 482
+        isCached: true
+  - title: "Russian military to develop weapons using artificial intelligence"
+    excerpt: "Russia said created a department for developing AI weapons. The program could serve to counter the Pentagon’s newly formed AI authority."
+    publishedDateTime: 2022-08-18T00:25:00Z
+    webUrl: "https://www.defensenews.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/"
+    type: article
+    provider:
+      name: Defense News
+      domain: defensenews.com
+    quality: 37
+    images:
+      - url: "https://www.defensenews.com/resizer/_rde8-COgWmH1TbZjOSwz89PbVA=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/42I76S76MFE2RN5JSNIER6RHIU.jpg"
+        width: 1024
+        height: 683
         isCached: true
 
 secured: "lLF62u2J70SgzTkPks6J4nrYwSlOp+EU5zzvr8bdg6jNRmDUOmYpvUD1fDSfofxSLIWIWEB6E+tKSUaBzIZ/0/vS9pXAuTrYtx57Gp+Pxy5IeJx79bYovumb52ES5utwZgkIunmGBnR1efyPHea60p8c4Fmkh1zZQOblFl4yCCJmXpMUKi5My8jDN7XOSPhMEsWKqIsz86I0SNDOwwSkw13CCYoJIfns8vplQJZCsvpwBNWBeHR72aWeTlhuR8jHlVRHRCkQhRbQ/T0Uevi3O7qJ8Vl1DzcuS9xzR9EB8QJeDy5wZYob/5EwIz/zCxMsf+3TbI4S57w7owu38qIArmRJlkJhZYGbP5Hz/oUbKjDaoCGQN2XUQREe84P85iSLSByqjCMXVnHqUbrgGlfF9fu6mif21rZayySR5kb3wmbcdv6pjPY5DYbg4PVGt+tnSYCKAS1K1SHK1Md5CY1CUGvfoxFi5a64DV5bQvNZocCrLnX5/2VqrnHCq96JygTudSOHEvmP16kl5W0XS9kCVQ==;YweiBz6xxmD44alqaO6kaA=="

@@ -7,7 +7,7 @@ originalUrl: "https://www.tribuneindia.com/news/brand-connect/bitcoin-360-ai-rev
 webUrl: "https://www.tribuneindia.com/news/brand-connect/bitcoin-360-ai-review-the-shocking-truth-behind-bitcoin-360-ai-hype-422617"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,24 @@ images:
     isCached: true
 
 related:
-  - title: "SkyQuad Drone Reviews: Is It Worth The Hype?"
-    excerpt: "Drones have transitioned from areas of violence into our homes,. They are helpful for photographers and serve as amusement during adventures."
-    publishedDateTime: 2022-08-13T10:34:00Z
-    webUrl: "https://www.outlookindia.com/outlook-spotlight/skyquad-drone-reviews-is-it-worth-the-hype--news-216178"
-    ampWebUrl: "https://www.outlookindia.com/outlook-spotlight/skyquad-drone-reviews-is-it-worth-the-hype--news-216178/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/outlook-spotlight/skyquad-drone-reviews-is-it-worth-the-hype--news-216178/amp"
+  - title: "Bitcoin 360 AI Review 2022 - Is Scam Or Legit?"
+    excerpt: "The Bitcoin 360 AI team has extensive knowledge of the cryptocurrency industry and knows the trading dangers of cryptocurrencies' extreme price volatility."
+    publishedDateTime: 2022-08-16T12:13:00Z
+    webUrl: "https://www.outlookindia.com/outlook-spotlight/bitcoin-360-ai-review-2022-is-scam-or-legit--news-216750"
     type: article
     provider:
       name: Outlookindia
       domain: outlookindia.com
-    quality: 44
-    images:
-      - url: "https://imgnew.outlookindia.com/uploadimage/library/16_9/16_9_5/IMAGE_1660386202.jpg"
-        width: 1200
-        height: 675
-        isCached: true
+    quality: 19
+  - title: "Bitcoin 360 Ai Review – Legit Trading Bot?"
+    excerpt: "We put together a Bitcoin 360 Ai review from the available information on social media including testimonials, user feedback and other online reviews. We also reviewed the claims made on the Bitcoin 360 Ai website,"
+    publishedDateTime: 2022-08-15T12:25:00Z
+    webUrl: "https://www.business2community.com/cryptocurrency/bitcoin-robots/bitcoin-360-ai-review"
+    type: article
+    provider:
+      name: Business 2 Community
+      domain: business2community.com
+    quality: 17
 
 secured: "Swd0x5sxVuvnfTbUgKGXF+97Jk4C1sXAopwob+Hz+Nc21b405q1x9r53+ei+m33nKOuY3fzMTrqvKv1kNhmGbHD+EYVeCxN7QgvAdKrJwCro1rCoN4CdMR7tUBMoMRJ+U+KpFCdULGd2RtM5ckcw1v4ElqN5zuXMzbTCLaDKnQIftobecefvKMt0UMf9s6QxMScwuKfdp/QIebRi4hsn8QFa45np2L54tyFt9mx2nYMheiP8MP8lNMaTp52i0cMSZJBVD2jkHo1C2oHu03qpT59Caa9MZfKp1Se+E3yitf+L+CO32NR/AE4/TohRE9q1K0Xp1qN1I+L6oL/6iDQhvMDO8WBrti7qHDzOYBoB07V+UlvMR0HUCqBHm3BFKFgzIxUsDc3pw+TjzrWlpu5+ziK3K0zLK54lPWor2A2bgTahUGre8Pw98gQvBlrJS2EBrDPGNreLcxLo4hOm8o+nJbjeD7C7gYqMSoxILjp4802u9UAPZLZu1h7L7yQk1HtehGtNvYkYJ06sTCN95EzPhA==;2lEk5ojCbe3G7r5fILAPVA=="
 ---
