@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Nation releases first draft of rules on self-driving vehicles in public"
-excerpt: "The country will encourage the use of self-driving vehicles such as buses in an enclosed Bus Rapid Transit or BRT system, and allow autonomous vehicles to offer taxi services under simple and relatively controllable scenarios,"
-publishedDateTime: 2022-08-10T02:17:00Z
-originalUrl: "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html"
-webUrl: "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html"
+excerpt: "In July, Beijing launched China's first pilot area for commercial autonomous driving vehicle services. Baidu and self-driving startup Pony.ai are the first enterprises granted permission ..."
+publishedDateTime: 2022-08-10T07:03:00Z
+originalUrl: "https://www.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html"
+webUrl: "https://www.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html"
 type: article
 
 provider:
@@ -15,12 +15,6 @@ topics:
   - AI in Autos
   - AI
 
-images:
-  - url: "https://img2.chinadaily.com.cn/images/202208/10/62f3069ea310fd2bec9b5dbc.jpeg"
-    width: 536
-    height: 357
-    isCached: true
-
-secured: "EM0trKHZNrxd77oqxM0541UZrB6joyT/8yyTuvY0BbeW1vlu2Fu17hxZWwE1Kj4KVpTTkcesG5AMbDYoiWxVO5HLlFZ+hHDjtKb8qVyyl67EfIvS6pFBvuM2/hP+JYOJlrcDb0m+gJYNIQpRs7p2eiYVUlLk1y+kr6wfWGy3bdH4YrthMlYIzwBHsZDKOigM9Kgo4avaLdTayNfbYmQoAbeHZ4gSccDTjx6A3Pm68O/mfrEnBn4NZqxfds8XZd8UjTJdQNPstesHs+MCgFlHx02fcI1biSJnEvYm0A5XgXAwgh0fbzQNuwB9TJe0MRC8ZDbk5UmnJGcFB3GATKQK/8PNGcUYX6oUXr/iyDFb8B0=;s4FF1Iusq/SSo+unhJZXaQ=="
+secured: "o4qCaIXquA6cEZDvImbERusSVJQ9VbNadUuJ8GCG+pUnd/gA9Csa/LwVgJgQg4VRuQ8ng8d+uKIh2IA9cbsonSdRd7oq5y4c1BsLZhqk4Ku22heEAKLae3HxD+5rIyQTHzNPAusdT5GTsidwvBQT0xYyM3yif5KJtSAFuH7rt8oucotEZM4ezWHTu2jnUuKi6/6q4WAzKx9wqjeM3+WK+TeWVT4dIjWceBmB+zUJNMfxMzKGVLV7KHylV7FYZkZb75gQxZbvaJ+VaQ2/L22zioMPlvXMf3FpX6+4pEt1+torvbycvei9bYgWowDApYC9knkr82v1zGylhoz09FjUZo++qdprY89bbmTzE2dG1r4=;l0rQgFDK8SQHhNVb1+gIHQ=="
 ---
 
