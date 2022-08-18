@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-06-14-tenable-boss-accuses-microsoft-of-putting-azure-customer-safety-at-risk.md",
+      "title": "Tenable boss accuses Microsoft of putting Azure customer safety at risk",
+      "excerpt": "Microsoft has been accused of a lack of transparency in its vulnerability practices, with the security outfit Tenable claiming these practices put the software giant's customers at risk. Tenable chairman and chief executive Amit Yoran said in a blog post that his company had discovered two",
+      "sourceUrl": null,
+      "webUrl": "https://itwire.com/business-it-news/security/tenable-boss-accuses-microsoft-of-putting-azure-customer-safety-at-risk.html",
+      "originalUrl": "https://itwire.com/business-it-news/security/tenable-boss-accuses-microsoft-of-putting-azure-customer-safety-at-risk.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://itwire.com/media/k2/items/cache/3b53377504d6fa70333a120167e4119a_M.jpg",
+          "width": 375,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T17:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWire",
+        "domain": "itwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-cognitive-computing-applications-and-global-markets-report-2022-researchandmarketscom.md",
       "title": "Cognitive Computing Applications and Global Markets Report 2022 - ResearchAndMarkets.com",
       "excerpt": "Most players in market are developing cognitive services that are accessed by application developers, or end users who deploy solutions at their systems and servers. Use cases of cognitive ...",
@@ -1236,49 +1279,6 @@
         "Microsoft AI",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-why-has-microsoft-stock-been-falling-will-it-rebound.md",
-      "title": "Why Has Microsoft Stock Been Falling; Will It Rebound?",
-      "excerpt": "All up, the number of customers who trust our security solutions grew nearly 50% year-over-year to 785,000… In AI, we continue to see strong usage of Azure Machine Learning. The number of ...",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4516896-why-has-microsoft-stock-been-falling",
-      "originalUrl": "https://seekingalpha.com/article/4516896-why-has-microsoft-stock-been-falling",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/84216309/image_84216309.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 538,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T09:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

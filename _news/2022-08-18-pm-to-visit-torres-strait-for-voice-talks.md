@@ -9,7 +9,7 @@ ampWebUrl: "https://thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-a
 cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-albanese-torres-strait/amp/"
 type: article
 quality: 59
-heat: 89
+heat: 109
 published: true
 
 provider:
@@ -56,6 +56,36 @@ related:
       - url: "https://static.ffx.io/images/$zoom_0.5292%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_882%2C$y_248/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/123cf96a9df7d2186cc3aa1441b794951ae3e23d"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Indigenous Voice to Parliament: Prime Minister Anthony Albanese to take referendum discussion to Torres Strait"
+    excerpt: "Prime Minister Anthony Albanese will travel to the Torres Strait on Thursday to engage with elders, government officials and community leaders on an Indigenous Voice to Parliament."
+    publishedDateTime: 2022-08-18T00:55:00Z
+    webUrl: "https://thewest.com.au/politics/federal-politics/indigenous-voice-to-parliament-prime-minister-anthony-albanese-to-take-referendum-discussion-to-torres-strait-c-7914259"
+    ampWebUrl: "https://thewest.com.au/politics/federal-politics/indigenous-voice-to-parliament-prime-minister-anthony-albanese-to-take-referendum-discussion-to-torres-strait-c-7914259.amp"
+    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/politics/federal-politics/indigenous-voice-to-parliament-prime-minister-anthony-albanese-to-take-referendum-discussion-to-torres-strait-c-7914259.amp"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 39
+    images:
+      - url: "https://images.thewest.com.au/publication/C-7914259/a6707d07d1b76a1b5cdd3c306dd02d4a33a32008-16x9-x0y209w4000h2250.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "PM to visit the Torres Strait for Voice to Parliament talks"
+    excerpt: "The prime minister's trip comes a day after Minister Linda Burney and state and territory Indigenous affairs delegates committed to moving forward on the implementation of a Voice to Parliament."
+    publishedDateTime: 2022-08-17T22:39:00Z
+    webUrl: "https://www.sbs.com.au/nitv/article/2022/08/18/pm-visit-torres-strait-voice-parliament-talks"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 39
+    images:
+      - url: "https://www.sbs.com.au/nitv/sites/sbs.com.au.nitv/files/styles/full/public/20220815001690198787-minihighres.jpg?itok=M2nNdOIg"
+        width: 704
+        height: 396
         isCached: true
   - title: "Torres Strait talking: strong Indigenous voice, less red tape"
     excerpt: "Torres Strait Island residents will tell Anthony Albanese they are over-governed and under-represented when he visits Thursday Island to discuss Labors plan for an Indigenous voice to parliament."

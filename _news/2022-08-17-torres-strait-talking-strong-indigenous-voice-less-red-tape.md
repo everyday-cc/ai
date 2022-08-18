@@ -65,6 +65,36 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Indigenous Voice to Parliament: Prime Minister Anthony Albanese to take referendum discussion to Torres Strait"
+    excerpt: "Prime Minister Anthony Albanese will travel to the Torres Strait on Thursday to engage with elders, government officials and community leaders on an Indigenous Voice to Parliament."
+    publishedDateTime: 2022-08-18T00:55:00Z
+    webUrl: "https://thewest.com.au/politics/federal-politics/indigenous-voice-to-parliament-prime-minister-anthony-albanese-to-take-referendum-discussion-to-torres-strait-c-7914259"
+    ampWebUrl: "https://thewest.com.au/politics/federal-politics/indigenous-voice-to-parliament-prime-minister-anthony-albanese-to-take-referendum-discussion-to-torres-strait-c-7914259.amp"
+    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/politics/federal-politics/indigenous-voice-to-parliament-prime-minister-anthony-albanese-to-take-referendum-discussion-to-torres-strait-c-7914259.amp"
+    type: article
+    provider:
+      name: The West Australian
+      domain: thewest.com.au
+    quality: 39
+    images:
+      - url: "https://images.thewest.com.au/publication/C-7914259/a6707d07d1b76a1b5cdd3c306dd02d4a33a32008-16x9-x0y209w4000h2250.jpg?imwidth=1200"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "PM to visit the Torres Strait for Voice to Parliament talks"
+    excerpt: "The prime minister's trip comes a day after Minister Linda Burney and state and territory Indigenous affairs delegates committed to moving forward on the implementation of a Voice to Parliament."
+    publishedDateTime: 2022-08-17T22:39:00Z
+    webUrl: "https://www.sbs.com.au/nitv/article/2022/08/18/pm-visit-torres-strait-voice-parliament-talks"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 39
+    images:
+      - url: "https://www.sbs.com.au/nitv/sites/sbs.com.au.nitv/files/styles/full/public/20220815001690198787-minihighres.jpg?itok=M2nNdOIg"
+        width: 704
+        height: 396
+        isCached: true
 
 secured: "WZWoMARa7FZdjVTLzNYxD8gjvSAYMLR+jmDAO3tZ2dq06yDI1g5FFrXpRFM3wppNICYqFyghYIGnHOOF01jOQD8F6tGNN575Vh5YP7w3JwK7VpebyW+gfVqllKNFiepiuiO17AnzJ+0aq8S9a0IWWeHnuPrZ711wkgV1y97zgZUZyqPd9NUVVvBADYDnut3GkNiQlrBFxZehKBjbrB7kUkdonajulUzgeGuFcLL0p1fLw2YomFThCrkR3NrgMOSJWwuDN502rgDW2ezEL+cpT711E0dqLd8UPZAAF5yZhIsAXpNI9AanwtNAZ+YjqlZTEPV+HZPG0/Un9yrRRRd8xheQEMRPGBaKzlvxq1F7B9U=;W1Adh+mW0+OWhiPnux+DKw=="
 ---

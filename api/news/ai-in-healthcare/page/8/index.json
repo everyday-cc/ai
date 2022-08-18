@@ -2,49 +2,6 @@
   "page": 8,
   "value": [
     {
-      "path": "_news/2022-05-28-artificial-intelligence-in-insurance-market-2022-report-covers-top-key-players-profiling-allianz-se-berkshire-hathaway-axa-aig-aia-group.md",
-      "title": "Artificial Intelligence in Insurance Market 2022 Report Covers Top Key Players Profiling – Allianz SE, Berkshire Hathaway, AXA, AIG, AIA Group Ltd,",
-      "excerpt": "The recent report on “Artificial Intelligence in Insurance Market” offered by Credible Markets, comprises of a comprehensive investigation into the geographical landscape, industry size along with the revenue estimation of the business.",
-      "sourceUrl": null,
-      "webUrl": "https://xaralite.com/304946/technology/artificial-intelligence-in-insurance-market-2022-report-covers-top-key-players-profiling-allianz-se-berkshire-hathaway-axa-aig-aia-group-ltd/",
-      "originalUrl": "https://xaralite.com/304946/technology/artificial-intelligence-in-insurance-market-2022-report-covers-top-key-players-profiling-allianz-se-berkshire-hathaway-axa-aig-aia-group-ltd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://redskins101.com/wp-content/uploads/2022/05/116-1024x618.jpg",
-          "width": 1024,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "xaralite.com",
-        "domain": "xaralite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-05-27-smarter-health-how-ai-is-transforming-health-care.md",
       "title": "Smarter health: How AI is transforming health care",
       "excerpt": "American health care is complex. Expensive. Hard to access. Could artificial intelligence change that? In the first episode in our series Smarter health, we explore the potential",
@@ -1288,6 +1245,50 @@
       "provider": {
         "name": "app.com",
         "domain": "app.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-11-therapy-with-a-robot-how-ai-could-help-those-struggling-with-mental-health.md",
+      "title": "Therapy with a robot? How AI could help those struggling with mental health",
+      "excerpt": "Mental health start-ups attracted $5.5 billion ... Health and Addictions Service Line. Could a robot, equipped with artificial intelligence, be far behind? Boyle still has obstacles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mycentraljersey.com/story/news/health/2022/05/11/therapy-robot-mental-health-tech-nj-startup/9648028002/",
+      "originalUrl": "https://www.mycentraljersey.com/story/news/health/2022/05/11/therapy-robot-mental-health-tech-nj-startup/9648028002/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gannett-cdn.com/presto/2022/05/06/PAPP/059d41c7-2411-4867-bed2-d8dd3ba24205-050622-MarcoMentalHealthRobot02.JPG?auto=webp&crop=4813,2708,x0,y0&format=pjpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-11T02:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyCentralJersey",
+        "domain": "mycentraljersey.com",
         "images": null,
         "publishers": null,
         "authors": null

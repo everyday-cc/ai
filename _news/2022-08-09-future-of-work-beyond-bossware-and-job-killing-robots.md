@@ -3,8 +3,8 @@ category: news
 title: "Future of work: Beyond bossware and job-killing robots"
 excerpt: "To encourage a human-centered workplace, we must rethink AI-driven automation, bossware, labor taxes and corporate R&D."
 publishedDateTime: 2022-08-09T03:07:00Z
-originalUrl: "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/"
-webUrl: "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/"
+originalUrl: "https://venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/"
+webUrl: "https://venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/"
 ampWebUrl: "https://venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/amp/"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 617
     isCached: true
 
-secured: "gCmBfuREP5/naqSKFQ7QR3A0k5eKaLPS7HWTLZVjkhlgH48dC+cT4Q4C4juS8hqU54+w5Dhg9qImcl/I/0BJgQlpQctFk1J3XV5cg/I82HQj+7E7zy//iirCGEa1uVqCyogUUZpAc3YcrIzO5QZb/GGMXRxCCdpMO2PsLLOuC1d6VkoBCfDcPrBhmi6q8tqp4z+E6ihl5yAlIpo44fSq7I86OGqUAW14553V045UJaAysL5J2/Y3pBab/MtKoCPSTLNccZckiybL5KaPf3YFLtTA92INsBjrmLdMpWZe6qZQwUqhDHACodqyTaEQXKRvvHHw4yAqUoi5RTxzJ8u1jF75x2zG7Ujy8XNFsJ4bEXo=;WNNOBHz8ufk5gPlZ+I2HMA=="
+secured: "M8AGJz2Ub+OBz8SDTCQrmGwnA3iL3Wb6kAKtrtNrKK2GwNF/yE2jQ/tGS2sqclQ9vZFPAJGn/WX4HKW/5nTbdM7YwBsdGb7XV+BDpk+i3IXhyp9FnVyPwClLYzQ9MmkUKbJnnfvxdBbB6hHoewaFgoeJHwylAL/2nchJ2vs/XEYMc7vAWzud4UeQFgtYVJEyDcqKAjXJAe9omVUWDrKdOTOjkhSfCZ75Tt5QUGFk13AJRS6ojN/Wp7qhEC5AnoAx0PJD4GLYzJEaaXAYy5s/VdHB/aqR2KVncuMNHbFL3HBCU0hvHqiBHkiUIB+n6GApHjkq6AwHf8gwR4gsu/ZmC8MIE5MXb0+cBNeX7UBbVE8=;PrfXtbVNOrt2tpnFoaft8g=="
 ---
 

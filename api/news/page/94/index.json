@@ -2,40 +2,6 @@
   "page": 94,
   "value": [
     {
-      "path": "_news/2022-06-03-leading-healthcare-artificial-intelligence-company-raises-20m-series-a-extension.md",
-      "title": "Leading Healthcare Artificial Intelligence Company Raises $20m Series A Extension",
-      "excerpt": "Inspire's proprietary Inspire therapy is the first and only FDA-approved neurostimulation technology that provides a safe and effective treatment for moderate to severe obstructive sleep apnea.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27541804/leading-healthcare-artificial-intelligence-company-raises-20m-series-a-extension",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27541804/leading-healthcare-artificial-intelligence-company-raises-20m-series-a-extension",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27541804",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27541804",
-      "publishedDateTime": "2022-06-03T06:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-03-vinith-misra-how-can-our-relationships-with-computers-be-funnier-and-friendlier.md",
       "title": "Vinith Misra: How can our relationships with computers be funnier and friendlier?",
       "excerpt": "Artificial intelligence and people often struggle to seamlessly interact. Computer scientist Vinith Misra shares how computational humor could help bridge the gap between humans and their machines.",
@@ -1111,6 +1077,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-traffic-noise-around-primary-schools-slows-cognitive-development-in-children-study-warns.md",
+      "title": "Traffic noise around primary schools slows cognitive development in children, study warns",
+      "excerpt": "To study possible effects on cognitive development, the team assessed two abilities that develop rapidly during preadolescence and are essential for learning and success in school — attention ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.express.co.uk/news/science/1620050/traffic-noise-around-primary-schools-slows-cognitive-development-children-attention-memory",
+      "originalUrl": "https://www.express.co.uk/news/science/1620050/traffic-noise-around-primary-schools-slows-cognitive-development-children-attention-memory",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/road-noise-top-1620050.jpg?r=1654202340687",
+          "width": 590,
+          "height": 350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.express.co.uk/news/science/1620050/traffic-noise-around-primary-schools-slows-cognitive-development-children-attention-memory/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1620050/traffic-noise-around-primary-schools-slows-cognitive-development-children-attention-memory/amp",
+      "publishedDateTime": "2022-06-02T14:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Express",
+        "domain": "express.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

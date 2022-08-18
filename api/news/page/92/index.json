@@ -2,49 +2,6 @@
   "page": 92,
   "value": [
     {
-      "path": "_news/2022-06-06-bumrungrad-launches-radiology-ai-assisting-radiologists-in-analyzing-locating-abnormalities-in-the-lungs-and-detecting-breast-cancer.md",
-      "title": "Bumrungrad launches Radiology AI--assisting radiologists in analyzing & locating abnormalities in the lungs and detecting breast cancer.",
-      "excerpt": "At present, Artificial intelligence (AI) has attracted global interest because it can analyze large amounts of data to revolutionize businesses and industries, especially in the medical sciences. Further,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ryt9.com/en/prg/258881",
-      "originalUrl": "https://www.ryt9.com/en/prg/258881",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ryt9.com/img/files/20220606/iqd2f93359617c9fd89d7e6628834b8968.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-05T19:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RYT9",
-        "domain": "ryt9.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-06-self-driving-car-market-2022-new-market-opportunities-size-share-demands-and-research-report-2030.md",
       "title": "Self-driving Car Market 2022 New Market Opportunities Size, Share, Demands and Research Report 2030",
       "excerpt": "Car manufacturers are investing heavily in artificial intelligence to succeed in the ... and automobile industry players (Waymo, Toyota, General Motors, Tesla, Volvo, and Nissan) The report ...",
@@ -1142,6 +1099,49 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts.md",
+      "title": "AI and machine learning are improving weather forecasts, but they won't replace human experts",
+      "excerpt": "While tools like AI open up new possibilities for better weather forecasts, many parts of the job are handled more skillfully by experienced people.",
+      "sourceUrl": null,
+      "webUrl": "https://godanriver.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_dd0817f4-8a7d-5e88-8ecd-6d243e5d7592.html",
+      "originalUrl": "https://godanriver.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_dd0817f4-8a7d-5e88-8ecd-6d243e5d7592.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/godanriver.com/content/tncms/assets/v3/editorial/d/d0/dd0817f4-8a7d-5e88-8ecd-6d243e5d7592/629685733bbb2.preview.jpg?crop=606%2C318%2C0%2C36&resize=606%2C318&order=crop%2Cresize",
+          "width": 606,
+          "height": 318,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T18:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GoDanRiver.com",
+        "domain": "godanriver.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     }
   ],

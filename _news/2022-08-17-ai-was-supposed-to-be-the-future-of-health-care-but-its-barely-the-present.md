@@ -25,36 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence was supposed to transform health care. It hasn’t."
-    excerpt: "Machine learning could improve medicine by analyzing data to improve diagnoses and target cures, but technological, bureaucratic, and regulatory obstacles have slowed progress."
-    publishedDateTime: 2022-08-15T19:55:00Z
-    webUrl: "https://www.politico.com/news/2022/08/15/artificial-intelligence-health-care-00051828"
-    ampWebUrl: "https://www.politico.com/amp/news/2022/08/15/artificial-intelligence-health-care-00051828"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2022/08/15/artificial-intelligence-health-care-00051828"
+  - title: "5 Ways AI is Shaping the Future of Investment Research"
+    excerpt: "Financial analysts need access to high-quality data and information on emerging trends to deliver timely, insightful research and maintain their competitive edge."
+    publishedDateTime: 2022-08-16T16:47:00Z
+    webUrl: "https://www.bloomberg.com/professional/blog/5-ways-ai-is-shaping-the-future-of-investment-research-2/?tactic-page=597225"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 58
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
     images:
-      - url: "https://www.politico.com/dims4/default/4f273a8/2147483647/strip/true/crop/5760x3840+0+0/resize/630x420!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fb9%2F7c%2F82577dfc4c5dae11d5816fe2da8f%2Fhealth-care-artificial-intelligence-78020.jpg"
-        width: 630
-        height: 420
+      - url: "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2FScreenshot-NLP.png&width=800"
+        width: 800
+        height: 522
         isCached: true
-  - title: "AI has yet to revolutionize health care"
-    excerpt: "Questions remain about how regulators can rein in AI’s shortcomings, including bias that threatens to exacerbate health inequities."
-    publishedDateTime: 2022-08-17T14:00:00Z
-    webUrl: "https://www.politico.com/newsletters/future-pulse/2022/08/17/health-cares-ai-revolution-hasnt-arrived-00052204"
+  - title: "AI May Come to the Rescue of Future Firefighters"
+    excerpt: "Researchers digitally simulated more than 41,000 fires in 17 kinds of buildings, representing a majority of the U.S. residential building stock."
+    publishedDateTime: 2022-08-16T03:44:00Z
+    webUrl: "https://www.hstoday.us/subject-matter-areas/emergency-preparedness/ai-may-come-to-the-rescue-of-future-firefighters/"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 37
+      name: Homeland Security Today
+      domain: hstoday.us
+    quality: 39
     images:
-      - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
-        width: 1120
-        height: 629
+      - url: "https://www.hstoday.us/wp-content/uploads/2022/08/Flashover.png"
+        width: 1920
+        height: 1080
         isCached: true
+  - title: "How AI can shape a sustainable future"
+    excerpt: "Climate change is a reality that is already impacting the world and its populace; the time to act is now and technology can play a fundamental role tackling the challenges we and future generations face."
+    publishedDateTime: 2022-08-15T08:50:00Z
+    webUrl: "https://it-online.co.za/2022/08/15/how-ai-can-shape-a-sustainable-future/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 17
 
 secured: "YD6KaYJjv48EI8NDV0pKvTY98gPAo/S3vxLk9VoH92S9PExcqee94yADd5LCw2234eSeYFgaYvUDoh/0IBKXeCq9/kMnIV+euInQdkeupXZAGgej1OlvwK1pNbALwbevqMm0U4nDBp5CEE5GVvoX2JhK4tvc9ntJW15nEaxtiVCougLd+lZe5cXG7P8vH7K7xZ1LiZseOdUAtgApJNx2jiKcFZSF5xfeQGvBBJt8CiN/vdEo8dFy6tPuexjDRm+GxFfgt9KLsSMh2vT8DBnwYTdRWhAVexOnm4x7n9ioA4AZX56xDX4/OV4OR20VnGE4fXcCKYS6XMy6k2jrUN+GnElrAmx8FM06tfYvIymW19S/8v+QyQV0ThXbJbnYVNdb6ds6clIDWx77CqRCJJriLoTYwF0FtO1iE+BUyB/B/xkVqyJbeZIktdQcZyG+97/OJzdOHIyqCVzsQjYD4KPmVh3ISMmmyOBVkIW6TT79x/MKvDwPqVloEpEAuMLAJE07tblEeFZT3a98ezFSerQ2Dw==;BKkb3N+7jOL6YJmI2CLi6A=="
 ---

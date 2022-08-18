@@ -2,58 +2,6 @@
   "page": 75,
   "value": [
     {
-      "path": "_news/2022-06-16-operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline.md",
-      "title": "Operationalizing Ethical AI: From The C-Suite To The Data Pipeline",
-      "excerpt": "Now that these technologies have become more commonplace, business leaders should turn much of their focus instead on how they use and manage AI and related training data to ensure that it’s consistent with other aspects of ethical business operations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/16/operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/16/operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//619e3fbd3682ccac09ae4a3e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/16/operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/16/operationalizing-ethical-ai-from-the-c-suite-to-the-data-pipeline/amp/",
-      "publishedDateTime": "2022-06-16T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
       "path": "_news/2022-06-16-uae-to-boost-rainfall-using-ai-in-cloud-seeding-operations.md",
       "title": "UAE to boost rainfall using AI in cloud seeding operations",
       "excerpt": "The project will use artificial intelligence (AI) to achieve enhanced rainfall prediction. The project's focal point will be the creation of an AI research and operations testbed in the UAE. An AI framework will be built to combine satellite observations ...",
@@ -1107,6 +1055,59 @@
         "news"
       ],
       "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best.md",
+      "title": "Report: AWS, Azure and GCP evaluated for overall performance — which is best?",
+      "excerpt": "Join AI and data leaders for insightful talks and ... The report evaluates the performance of AWS, Azure and GCP for common Online Transaction Processing (OLTP) workloads. Testing shows that ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/15/report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best/",
+      "originalUrl": "https://venturebeat.com/2022/06/15/report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1154983903-e1652785911789.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/15/report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/15/report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best/amp/",
+      "publishedDateTime": "2022-06-15T14:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI",
         "AWS AI"
       ]

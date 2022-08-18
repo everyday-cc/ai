@@ -9,8 +9,8 @@ ampWebUrl: "https://www.politico.com/amp/news/2022/08/15/artificial-intelligence
 cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2022/08/15/artificial-intelligence-health-care-00051828"
 type: article
 quality: 58
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: Politico
@@ -40,20 +40,6 @@ related:
       - url: "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg"
         width: 1120
         height: 629
-        isCached: true
-  - title: "AI was supposed to be the future of health care, but it's barely the present"
-    excerpt: "A Cleveland Clinic official is quoted in a Politico article examining why artificial intelligence, so far at least, has made a limited impact in transforming health care. Plus, the Western Reserve Historical Society's library and administrative headquarters renovation project has received a national honor,"
-    publishedDateTime: 2022-08-16T18:06:00Z
-    webUrl: "https://www.crainscleveland.com/scott-suttell-blog/ai-was-supposed-be-future-health-care-its-barely-present"
-    type: article
-    provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 36
-    images:
-      - url: "https://s3-prod.crainscleveland.com/s3fs-public/styles/800x600/public/388410510_i.jpg"
-        width: 800
-        height: 600
         isCached: true
 
 secured: "VatyJzwhpfQWe6hhZXlbU0rY4v0RPuRhnhtjsAk10P38BPMxTR07NEMecZL8iB/cQq06y1D3wMgZVxn36ib3ZYEPzkflCmf2e6NU/4Ij1rIyFONIcQPAQ4aieCxi5fE666ZA/E+UrIGQcL4vWjgwsze2qx2I831kAZxe++uOlWbzQBoWIYRv5m8jo5T4fgx8ENSbg1wHM5oXQUNB8ZKbC2x9mrKmM7WK/FGbxrR0eVqTXfYpMpn6ISCPMFWZcgZoc0qnmQBGbFJdLEoaELusXPQ/dnfD5RkgR1TLU014t5UOQPh55/Nl9Ud2kEqL3GdtWV5nlLK1Yau8yPk2dr/tjSNn5ASdHDpCPUlvW50mnmRYKwqyctcitI+Asn10l7u6H1+BWxRBG2nO6ics2FO+my1ilQ1YLakRfY+i4hOY+8AfZcU0HjvECOOO7hyKU3d7dWOAX54ANxEa9w1cU0hX1/2/pbwsWtdL6S49Iv9JJiJtuv37OD9CPfQAx49uMv+zFdjeRjUyZhHgcLpOffXNQA==;pU5imNkJpjqcDZE+z0NGeQ=="

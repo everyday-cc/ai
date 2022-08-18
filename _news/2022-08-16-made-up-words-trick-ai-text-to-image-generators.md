@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-16T16:00:00Z
 originalUrl: "https://www.discovermagazine.com/technology/made-up-words-trick-ai-text-to-image-generators"
 webUrl: "https://www.discovermagazine.com/technology/made-up-words-trick-ai-text-to-image-generators"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Machine Learning
 
 images:
   - url: "https://images.ctfassets.net/cnu0m8re1exe/6PxgO9demcBYf1HD3d5InY/cb92da17c818c6b58127024530f9c63c/shutterstock_427067446.jpg"

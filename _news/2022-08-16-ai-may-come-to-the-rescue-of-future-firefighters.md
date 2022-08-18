@@ -25,38 +25,43 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence comes to the rescue of TN authorities to prevent elephant deaths on railway tracks"
-    excerpt: "The forest department of Tamil Nadu is to set up an artificial intelligence system to prevent elephant deaths due to train related accidents on the tracks between Madhukkarai and Walayar in Coimbatore district."
-    publishedDateTime: 2022-08-15T07:29:00Z
-    webUrl: "https://www.ibtimes.co.in/artificial-intelligence-comes-rescue-tn-authorities-prevent-elephant-deaths-railway-tracks-851363"
-    ampWebUrl: "https://amp.ibtimes.co.in/artificial-intelligence-comes-rescue-tn-authorities-prevent-elephant-deaths-railway-tracks-851363"
-    cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/artificial-intelligence-comes-rescue-tn-authorities-prevent-elephant-deaths-railway-tracks-851363"
+  - title: "5 Ways AI is Shaping the Future of Investment Research"
+    excerpt: "Financial analysts need access to high-quality data and information on emerging trends to deliver timely, insightful research and maintain their competitive edge."
+    publishedDateTime: 2022-08-16T16:47:00Z
+    webUrl: "https://www.bloomberg.com/professional/blog/5-ways-ai-is-shaping-the-future-of-investment-research-2/?tactic-page=597225"
     type: article
     provider:
-      name: IBTimes India
-      domain: ibtimes.co.in
-    quality: 54
+      name: Bloomberg
+      domain: bloomberg.com
+    quality: 69
     images:
-      - url: "https://data1.ibtimes.co.in/en/full/769257/viral-video-elephants-struggling-cross-tracks-prompts-action-concrete-wall-down-watch.jpg?w=570&h=320"
-        width: 570
-        height: 320
+      - url: "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2FScreenshot-NLP.png&width=800"
+        width: 800
+        height: 522
         isCached: true
-  - title: "TN forest dept to use AI surveillance to prevent elephant deaths in train accidents"
-    excerpt: "The forest department of Tamil Nadu is planning to set up an artificial intelligence (AI) system to prevent elephant deaths due to train related accidents on the tracks between Madukkarai and Walayar in Coimbatore district."
-    publishedDateTime: 2022-08-15T07:50:00Z
-    webUrl: "https://www.thenewsminute.com/article/tn-forest-dept-use-ai-surveillance-prevent-elephant-deaths-train-accidents-166855"
-    ampWebUrl: "https://www.thenewsminute.com/article/tn-forest-dept-use-ai-surveillance-prevent-elephant-deaths-train-accidents-166855?amp"
-    cdnAmpWebUrl: "https://www-thenewsminute-com.cdn.ampproject.org/c/s/www.thenewsminute.com/article/tn-forest-dept-use-ai-surveillance-prevent-elephant-deaths-train-accidents-166855?amp"
+  - title: "AI was supposed to be the future of health care, but it's barely the present"
+    excerpt: "A Cleveland Clinic official is quoted in a Politico article examining why artificial intelligence, so far at least, has made a limited impact in transforming health care. Plus, the Western Reserve Historical Society's library and administrative headquarters renovation project has received a national honor,"
+    publishedDateTime: 2022-08-16T18:06:00Z
+    webUrl: "https://www.crainscleveland.com/scott-suttell-blog/ai-was-supposed-be-future-health-care-its-barely-present"
     type: article
     provider:
-      name: The News Minute
-      domain: thenewsminute.com
-    quality: 51
+      name: Crain's Cleveland Business
+      domain: crainscleveland.com
+    quality: 36
     images:
-      - url: "https://www.thenewsminute.com/sites/default/files/Elephant_rep_Vandalur_zoo_Chennai_PTI_28122017.jpg"
-        width: 1200
-        height: 800
+      - url: "https://s3-prod.crainscleveland.com/s3fs-public/styles/800x600/public/388410510_i.jpg"
+        width: 800
+        height: 600
         isCached: true
+  - title: "How AI can shape a sustainable future"
+    excerpt: "Climate change is a reality that is already impacting the world and its populace; the time to act is now and technology can play a fundamental role tackling the challenges we and future generations face."
+    publishedDateTime: 2022-08-15T08:50:00Z
+    webUrl: "https://it-online.co.za/2022/08/15/how-ai-can-shape-a-sustainable-future/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 17
 
 secured: "Byyc/ocvsxDro52T32NDomHm4m/QXUOoiqYuYOktAhquU6EnhxiGPbpmwo/ALJqo8uE3HC545SQ1KRly46hF/cy+hachDxSFT7RLbkyLqvghICamW3oWXa2B+g4ZJNkE3O70v4q0KLiXFIWA5jsJnJzaVc92cxpQyvo07ImmOIJMF5BDapOO7UrEeJ1DqWQutHg586FIeXrCXvLJQJf8JRIwWfrw0rSUQuEwe1JRJrS8f2RxHuLRXHfpoQ1wWv01WSNtgSt7HkBU/p0nsgFheF9Yp+4u7MERIqdev58/oyXic0y80hzH/oHK5hwH1VlTVPCzqRksDeNbfP+Npi7qh6l2Id04DF+P+s9GGxyBc6Y=;6I+Ma5w4h7r5BhsyPh0NHw=="
 ---

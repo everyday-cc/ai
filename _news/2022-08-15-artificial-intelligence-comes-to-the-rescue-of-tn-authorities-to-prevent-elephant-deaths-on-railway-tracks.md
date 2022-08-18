@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.ibtimes.co.in/artificial-intelligence-comes-rescue-tn-au
 cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/artificial-intelligence-comes-rescue-tn-authorities-prevent-elephant-deaths-railway-tracks-851363"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: IBTimes India
@@ -41,20 +41,6 @@ related:
       - url: "https://www.thenewsminute.com/sites/default/files/Elephant_rep_Vandalur_zoo_Chennai_PTI_28122017.jpg"
         width: 1200
         height: 800
-        isCached: true
-  - title: "AI May Come to the Rescue of Future Firefighters"
-    excerpt: "Researchers digitally simulated more than 41,000 fires in 17 kinds of buildings, representing a majority of the U.S. residential building stock."
-    publishedDateTime: 2022-08-16T03:44:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/emergency-preparedness/ai-may-come-to-the-rescue-of-future-firefighters/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 39
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2022/08/Flashover.png"
-        width: 1920
-        height: 1080
         isCached: true
 
 secured: "u7VSnv+Wb3hjVrMpdnhAvvJpXw5CFSErZEZVw2+1ghd19QqzVVQMbyf3/Fux1Wjbq2FBt9rjMMe1WPl/QVH8ZgIy8SCWlAAu8AKAoabLvgY7dOz2gjd/mYaK4gVkJNBMmmOHXgQ0oZHbcqWXSry1uxXv/hFobyFJTTEn2NsIGckp0WOGdNluJ11lYvCgtxrvCc7Ft3ogyjd5f6PTrpYiZ0zF0I1Au5HOrjwG3JuWqhncKggcfrdTBmyI5KMBvUsOF8s8Yby2aqFA0Z0Gi7ZPnvArZsddu8b47zxtpU8zSUqOf97PhB9VmVzfMEwHvNxH222RJMQ0yYwII74r7uUeAzLb+Nhxanf7cUe7L8YmP/FXDl6QyNU5JLWvTYgs1W7eRcR0riXSq4L8sKcmwcp6vEwNlJYqRCPZ0ZJKa6/J2zR+Ua5s5gvvlpUosDIBFTZ9/MIF3W3E1W1w/mUaYwVFphhP8ueS2MEl/JwMhkXinWrSk8bJ4JcyUZwAVxrA7bHGGrHw8Hp5gMqA1Bttw1mg7Q==;kxpTBSFtZJXbX3T7peIN6Q=="

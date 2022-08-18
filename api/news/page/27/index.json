@@ -2,58 +2,6 @@
   "page": 27,
   "value": [
     {
-      "path": "_news/2022-07-25-nvidia-ai-enterprise-21-bolsters-support-for-open-source.md",
-      "title": "Nvidia AI Enterprise 2.1 bolsters support for open source",
-      "excerpt": "Nvidia updated its AI Enterprise to version 2.1, providing new tools to help run AI and ML workloads for enterprise use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/",
-      "originalUrl": "https://venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/NVIDIA.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/amp/",
-      "publishedDateTime": "2022-07-25T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
       "path": "_news/2022-07-25-as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best.md",
       "title": "As Meta’s new AI translation tools make waves, these language learning systems are still the best",
       "excerpt": "There is a big difference between using a translation tool, such as Meta’s No Language Left Behind, and learning another language’s nuances via a course.",
@@ -1185,6 +1133,49 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-24-big-tech-builds-ai-with-bad-data-so-scientists-sought-better-data.md",
+      "title": "Big Tech builds AI with bad data. So scientists sought better data.",
+      "excerpt": "At Facebook, he worked on AI that provided paragraph answers to ... and erred on the side of not blocking terms. Recent research has shown that filtering can introduce new problems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/technology/2022/07/21/big-science-ai-open-source-language-model/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2022/07/21/big-science-ai-open-source-language-model/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IIOTKPAC7QI63C7LFNHEQGYVAA.jpg&w=1440",
+          "width": 1440,
+          "height": 987,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-24T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     }

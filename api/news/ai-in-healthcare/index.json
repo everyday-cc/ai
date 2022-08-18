@@ -89,49 +89,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-16-artificial-intelligence-was-supposed-to-transform-health-care-it-hasnt.md",
-      "title": "Artificial intelligence was supposed to transform health care. It hasn’t.",
-      "excerpt": "Machine learning could improve medicine by analyzing data to improve diagnoses and target cures, but technological, bureaucratic, and regulatory obstacles have slowed progress.",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.com/news/2022/08/15/artificial-intelligence-health-care-00051828",
-      "originalUrl": "https://www.politico.com/news/2022/08/15/artificial-intelligence-health-care-00051828",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.com/dims4/default/4f273a8/2147483647/strip/true/crop/5760x3840+0+0/resize/630x420!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fb9%2F7c%2F82577dfc4c5dae11d5816fe2da8f%2Fhealth-care-artificial-intelligence-78020.jpg",
-          "width": 630,
-          "height": 420,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.com/amp/news/2022/08/15/artificial-intelligence-health-care-00051828",
-      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2022/08/15/artificial-intelligence-health-care-00051828",
-      "publishedDateTime": "2022-08-15T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico",
-        "domain": "politico.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-15-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-key-player-competition-weakness-and-strengths-from-2022-to-2028.md",
       "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Key Player, Competition Weakness and Strengths from 2022 to 2028",
       "excerpt": "The \" Natural Language Processing (NLP) in Healthcare and Life Sciences Market Research Report \" for comprises important strategies and plans to control cost and improve efficiency. The report also focuses on demand and supply of the Natural Language Processing (NLP) in Healthcare and Life Sciences industry.",
@@ -1375,6 +1332,58 @@
         "Facebook AI",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-healthcare-artificial-intelligence-ai-market-research-report-competitive-analysis-and-forecast-period-during-2027.md",
+      "title": "Healthcare Artificial Intelligence (AI) Market research report - competitive analysis and forecast period during 2027",
+      "excerpt": "The global healthcare artificial intelligence (AI) market size is estimated to secure a lucrative CAGR from 2021",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-research-report---competitive-analysis-and-forecast-period-during-2027-2022-08-03",
+      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-research-report---competitive-analysis-and-forecast-period-during-2027-2022-08-03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
       ]
     }
   ],
