@@ -3,16 +3,16 @@ category: news
 title: "Jason Simon explains the benefits artificial intelligence offers the FinTech space"
 excerpt: "FinTech presents an important variety of technologies such as financial services through software, such as online banking, mobile payment applications, mobile wallets, blockchain and even cryptocurrencies."
 publishedDateTime: 2022-08-19T15:51:00Z
-originalUrl: "https://markets.buffalonews.com/buffnews/article/webwire-2022-8-19-jason-simon-explains-the-benefits-artificial-intelligence-offers-the-fintech-space"
-webUrl: "https://markets.buffalonews.com/buffnews/article/webwire-2022-8-19-jason-simon-explains-the-benefits-artificial-intelligence-offers-the-fintech-space"
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/webwire-2022-8-19-jason-simon-explains-the-benefits-artificial-intelligence-offers-the-fintech-space"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/webwire-2022-8-19-jason-simon-explains-the-benefits-artificial-intelligence-offers-the-fintech-space"
 type: article
 quality: 28
 heat: -1
 published: false
 
 provider:
-  name: Buffalo News
-  domain: buffalonews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Finance
@@ -93,6 +93,6 @@ related:
       domain: dailyherald.com
     quality: 0
 
-secured: "Mm6TvUA95sHmXWo/2Yt2NkYaFPVNEnIdJY8H4W6DeRGyQYf1hgl/k411FZ2ZUYqkrxmlyCBoXQ/TBoBIg3evode+6hGJoUSjekaCsHj6tqlGXJWkvX5gW2s8wm2H9alLcuu79WawKTO3LeHtRRvYFCyNJ39XvAS8wtovnDlj9iJuGGLwq0yuwOexbP5oHcwiEXAsUHjGymLUEcG0ae7jCVtD/h/7HUuS4aTr8Yp/L3nQYLi0Evq8+Spx8evtibtPh2GHGatqJLgIV4WAN5FRoOEsVj5bmqCKMn+F/Tb3WXe490G802aNJkF44H8jfn9UR7fdQAnQD4XN/+V/Mp+kA5XqscPO9yMdQPWZErqvEdM=;t+LJ4b2OUCPOCWKN+ZHaoA=="
+secured: "D+HkHhedBDBfh70j5a++HxQ8V8Z1uMJ9gw5oCdAiGqX8YNNCTv5KuZzxZqN4a6i7zqf7z0a2EXO8PVbM6MG99N6t8aSq1BLRZkRugQC758jrTCk4JCvQUeJ6rDKPQ+4hM8Cd3Pw1PvbQIVjDpQ8H3HsNVsVUl2wQj+YVtaL5u7x3v5jQDBBfAGCzUKXV+G9g3Gyr1i/IwLjEVU1SdF5T5ZwRl7k0jqcLqi4IloccPJFYi/lfcdKYys+ZbtU18RVaKJmNrI978z68ipiPvMXfu2y7x3W7Cv/PurgQB1sng+19Ny48ggVHBQhQe2OpO1mxfzTz3/VT1ww5TXmgFA1lMxdt0N94R0PxXK2pohC5Lmo=;nuS8VycC3HRtyMIbBppDZQ=="
 ---
 

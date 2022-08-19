@@ -36,6 +36,20 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 69
+  - title: "Emirati AI firm G42 launches $10 billion investment fund"
+    excerpt: "The UAE is seeking to become a leader in artificial intelligence, and has also successfully attracted some fintech firms."
+    publishedDateTime: 2022-08-19T09:54:00Z
+    webUrl: "https://www.al-monitor.com/originals/2022/08/emirati-ai-firm-g42-launches-10-billion-investment-fund"
+    type: article
+    provider:
+      name: Al-Monitor
+      domain: al-monitor.com
+    quality: 37
+    images:
+      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2022-08/GettyImages-463849930.jpg?h=1d34674f&itok=HkzdXREi"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "UAE-based G42 launches $10 bln fund to boost AI-driven investments in emerging markets"
     excerpt: "UAE-based G42, an artificial intelligence (AI) and cloud computing technology company, launched on Thursday a $10 billion G42 Expansion Fund, a global technology growth fund formed in strategic partnership with Abu Dhabi Growth Fund (ADG) to boost technology investments in emerging markets."
     publishedDateTime: 2022-08-18T11:46:00Z

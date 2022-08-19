@@ -89,20 +89,6 @@ related:
       name: India Education Diary
       domain: indiaeducationdiary.in
     quality: 19
-  - title: "Can a human with a spinal cord injury walk and run? Discovering clues to solving science challenges with neuromorphic technology"
-    excerpt: "Provide a ray of hope, engineering clues to biological/medical challenges for spinal cord and nerve damage patients - Reproduction of the leg movement of a nerve-paralyzed rat through the stretchable"
-    publishedDateTime: 2022-08-15T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/961673"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 0
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/dd45b93d-20cd-40fc-b442-efc26760b9fc/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 258
-        isCached: true
 
 secured: "UEZ5agR1zhPndudUpd7CXSlQvz9KqQge/RkZ4zkOihqNvI3Ruq15/9RmFwUnO5cQ5HCQenB4d1TCLA7e3u46ogzzrX+iQ6eU1RmLeoOICIl6A+lm1TA0zDYRbDxnUrcXAlv1v6ZUHDkIWGOwswdRKhp6j+464tCUhtrsp/a9ITh5AnIJhIc+Fc/kFWyeMX+kZ8Q/0Vx2Ruo5cBL6p+gs8DjOpzXRQjWdlBoaclKMAN7jYLlY7TJvK+a1KjDMbZClQ1CgdqT+u9kXwvv1z65oJuUrw0hNwYjDJEWADZl607ATSuL4lKEXV0Uj1/H0lSko0u7mL9fTqijaqIJbEddYZRLTFzBfdcC4LoChMEhG4deB2EG+mD6ENo0dyjadPFeGXYrztoR5aMVPDWGCB5m7NfxEo5ueO++H3GVO4ftZHvlbGY7shgyZ7dD99vYIR6hO5E0OhiSQTQcUnUSNZlPO0q55ebENE1UeAknvqFF+b9LcfKBYRUlcsHJpXUARzYlU3RFqfWUuqRICTuiuAPs0Lg==;5HND4Lgd7HJGw3hwpie3oA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/robust-intelligence-anno
 webUrl: "https://www.marketwatch.com/press-release/robust-intelligence-announces-inaugural-conference-on-machine-learning-integrity-2022-08-15"
 type: article
 quality: 64
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 32
+  - title: "At Artificial General Intelligence (AGI) Conference, DRLearner is"
+    excerpt: "To that end, several AGI-22 presentations will officially launch DRLearner—an open source project to broaden AI access and innovation by distributing AI/Machine Learning code that rivals or exceeds human intelligence across a diverse set of widely acknowledged benchmarks."
+    publishedDateTime: 2022-08-19T16:32:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-general-intelligence-agi-conference-drlearner-released-as-/2022/08/19/9659463.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 6
 
 secured: "zYoi3dDcjNop8lDsTOUoiMzkbXwvCQqd8dx4V0Y0HED18hl9DEdYwEYaVVRg0OhFJ5MntcvFeCnTQZKQQqCfBHk/jS1cOHEuMd58QpqWYmXsSyY8hJVgtOvoJ1xPl5YG9093n9s1P2odS5YyJE82HFwa1Jz8YixGc6R4aOGs6dXdXGUF+nu4T6NNKnHY5OhBH+HBqNyKaICGsK/iaTvNDWYedebu8b2LiwTKHr67KSSOTaEHwCLUx3BcSuvzWfu+aZv0AIECuuKXcVeHliKbLHbXqg3UtKTsfF6brDmxg+zE4np9VOMlQ08sGZUmChyj50BJrXOtzCWKRXteAeX8+8TEqVzA4ABIlpGDAWF7Rlw=;Wdh1YYCKOEkpl7ELqESfJA=="
 ---

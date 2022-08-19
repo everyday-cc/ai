@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Neural Networks Market to Witness an Outstanding Growth during 2022-2029 with Leading Regions and Countries Data | 121 Pages"
+    excerpt: "In the forecast period of 2022-2029, the global “Artificial Neural Networks Market\" is expected to grow at a steady"
+    publishedDateTime: 2022-08-17T05:13:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-to-witness-an-outstanding-growth-during-2022-2029-with-leading-regions-and-countries-data-121-pages-2022-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI In Aviation Market Size and Growth 2022 Analysis Report by Types, Opportunities, Future Plans, Types, Application and Forecast to 2028"
     excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI In Aviation Market” 2022"
     publishedDateTime: 2022-08-18T07:29:00Z

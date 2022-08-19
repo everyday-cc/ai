@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Finance
   - AI
+  - AI in Healthcare
 
 related:
   - title: "Europe AI in Computer Vision Market Production, Growth, Share, Demand and Applications Forecast to 2028"

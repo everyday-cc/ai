@@ -28,11 +28,11 @@ related:
   - title: "Jason Simon explains the benefits artificial intelligence offers the FinTech space"
     excerpt: "FinTech presents an important variety of technologies such as financial services through software, such as online banking, mobile payment applications, mobile wallets, blockchain and even cryptocurrencies."
     publishedDateTime: 2022-08-19T15:51:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/webwire-2022-8-19-jason-simon-explains-the-benefits-artificial-intelligence-offers-the-fintech-space"
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/webwire-2022-8-19-jason-simon-explains-the-benefits-artificial-intelligence-offers-the-fintech-space"
     type: article
     provider:
-      name: Buffalo News
-      domain: buffalonews.com
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 28
   - title: "Optasia among the top 25 Middle East fintech companies"
     excerpt: "Optasia provides premium fintech services through its advanced AI led Originating and Credit Decisioning Platform. It enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets."

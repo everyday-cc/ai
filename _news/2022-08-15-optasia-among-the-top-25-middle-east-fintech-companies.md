@@ -42,11 +42,11 @@ related:
   - title: "Jason Simon explains the benefits artificial intelligence offers the FinTech space"
     excerpt: "FinTech presents an important variety of technologies such as financial services through software, such as online banking, mobile payment applications, mobile wallets, blockchain and even cryptocurrencies."
     publishedDateTime: 2022-08-19T15:51:00Z
-    webUrl: "https://markets.buffalonews.com/buffnews/article/webwire-2022-8-19-jason-simon-explains-the-benefits-artificial-intelligence-offers-the-fintech-space"
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/webwire-2022-8-19-jason-simon-explains-the-benefits-artificial-intelligence-offers-the-fintech-space"
     type: article
     provider:
-      name: Buffalo News
-      domain: buffalonews.com
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 28
   - title: "Fintech-focused Cape Town Stock Exchange raises R85m"
     excerpt: "The oversubscribed round was led by Imvelo Ventures, with participation from Lebashe, Pallidus, Shaolin and Gary Stroebel."

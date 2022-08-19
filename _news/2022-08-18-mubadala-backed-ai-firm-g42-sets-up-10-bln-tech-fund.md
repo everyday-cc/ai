@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/mubadala-backed-ai-firm-g42-sets-up-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/mubadala-backed-ai-firm-g42-sets-up-$10-bln-tech-fund?amp"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -34,6 +34,20 @@ related:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
         width: 1200
         height: 676
+        isCached: true
+  - title: "Emirati AI firm G42 launches $10 billion investment fund"
+    excerpt: "The UAE is seeking to become a leader in artificial intelligence, and has also successfully attracted some fintech firms."
+    publishedDateTime: 2022-08-19T09:54:00Z
+    webUrl: "https://www.al-monitor.com/originals/2022/08/emirati-ai-firm-g42-launches-10-billion-investment-fund"
+    type: article
+    provider:
+      name: Al-Monitor
+      domain: al-monitor.com
+    quality: 37
+    images:
+      - url: "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2022-08/GettyImages-463849930.jpg?h=1d34674f&itok=HkzdXREi"
+        width: 1200
+        height: 628
         isCached: true
   - title: "UAE-based G42 launches $10 bln fund to boost AI-driven investments in emerging markets"
     excerpt: "UAE-based G42, an artificial intelligence (AI) and cloud computing technology company, launched on Thursday a $10 billion G42 Expansion Fund, a global technology growth fund formed in strategic partnership with Abu Dhabi Growth Fund (ADG) to boost technology investments in emerging markets."

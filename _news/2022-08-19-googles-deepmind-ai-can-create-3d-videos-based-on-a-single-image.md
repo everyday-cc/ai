@@ -42,19 +42,17 @@ related:
         isCached: true
   - title: "Scientists doubt that DeepMind's AI is as good for fractional-charge systems as it seems"
     excerpt: "DeepMind constructed a neural network based density functional designated as DM21, trained on fractional-electron systems, such as a hydrogen atom with half an electron."
-    publishedDateTime: 2022-08-15T14:20:00Z
-    webUrl: "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.html"
-    ampWebUrl: "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.amp"
+    publishedDateTime: 2022-08-15T15:12:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/961844"
     type: article
     provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 65
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 45
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/scientists-doubt-that.jpg"
-        width: 512
-        height: 482
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/839c7f64-ce32-4a74-89a8-cd6b09dee5d2/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 282
         isCached: true
   - title: "Russian military to develop weapons using artificial intelligence"
     excerpt: "Russia said created a department for developing AI weapons. The program could serve to counter the Pentagon’s newly formed AI authority."

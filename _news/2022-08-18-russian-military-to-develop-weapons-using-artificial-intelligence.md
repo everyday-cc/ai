@@ -39,22 +39,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Scientists doubt that DeepMind's AI is as good for fractional-charge systems as it seems"
-    excerpt: "DeepMind constructed a neural network based density functional designated as DM21, trained on fractional-electron systems, such as a hydrogen atom with half an electron."
-    publishedDateTime: 2022-08-15T14:20:00Z
-    webUrl: "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.html"
-    ampWebUrl: "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 65
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/scientists-doubt-that.jpg"
-        width: 512
-        height: 482
-        isCached: true
   - title: "Google’s Deepmind AI can create ‘3D’ videos based on a single image"
     excerpt: "Google’s Deepmind neural network is now able to create 30-second videos from a single image. Transframer, as the new tool is called, only needs one photo to work with as it starts identifying what is in the picture’s frame."
     publishedDateTime: 2022-08-19T09:50:00Z
@@ -69,7 +53,21 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Scientists doubt that DeepMind's AI is as good for fractional-charge systems as it seems"
+    excerpt: "DeepMind constructed a neural network based density functional designated as DM21, trained on fractional-electron systems, such as a hydrogen atom with half an electron."
+    publishedDateTime: 2022-08-15T15:12:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/961844"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 45
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/839c7f64-ce32-4a74-89a8-cd6b09dee5d2/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 282
+        isCached: true
 
-secured: "ByyyYz/faFyOKBXTp/0PjGohpTIv+WPNKtulHtwMcixC8aRfz7fwap5Mnv0C0sm9Rc2WmLMGfCB7D7R1yuC70wZQWfBHqP+sAkKudKlPnVa0k2Nu25jWIcTnat+RQHhkizheQYpge4u7cIueLhOHOIwv62UJHumU64Efjykuf0yjW87aVAZg+Lv+n8jpGXNVa4Ro4s8VyLu1OsmAEU0gexNaW89V3TBKQqNnCYYPMsMgLMvdyyp5r9GIGK0xThL51UoQcZ5P9FM1GKWP1sbNu9IOu1vFy6vKo5WX28YSufWvb7KeAlImeJK1OXzRIH+Kn6KKRvqX9J7uDFFDUIemuvYHreBQnzxGwta3pcyS6s4=;YK7ocemF1v1WRGXPxxuNSA=="
+secured: "+M9ZsP8KhsYyZRq4/2/dNlPw74rM42o9Vhgm3SqqnIRaCC1H+DZ0rUOkJ6SJ78b2y0/zM/iDz4DRLeVOS6YHHuDPQNYG3L2M7VtBUbZJTsZ74kk3bx+xxhUciRo/urAmjYvov5J8zmrfpUD4xTWY6X7m8G/gQgYBPNXzCiq+OZLu/xio/V2pVX73pYQ0fiApo9OcMmJswwPMhE1v6vd17MPenVL18pnL0WM5zbuTRT64d/JfMLH01XboWbjcL0nw8gtWu+NZzL49DTxjdbcb0ozSSUtBveAu5vhQtlqbUvMgwddRyDC72/l+dn2oCOEQfpXD8LLoZf6sePXYYWxkzvns5ZzJVMrfOINthP1xVuEoKpElIBL8GPvO3TMXhY6HdkjL4TUfj5dhSzyrGvG6S+/xnQNt0YyIalG8L8rawqOgk1zdTY13AY9cmnooNNkmSxpfhiRgan1dkkqKYRiAG/zgkJY6EnEJlHBmt3ZyMUgjBCP/I6TK5Hm90VKtplPluso9SgM4AxN415mpYZ/kwQ==;e1i8+L/wxbAqa0arYs80YQ=="
 ---
 

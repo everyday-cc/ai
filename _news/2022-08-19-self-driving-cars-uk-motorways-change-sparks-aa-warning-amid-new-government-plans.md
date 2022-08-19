@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 739
         isCached: true
+  - title: "Driverless cars: Self-driving cars on UK roads by 2025, says report"
+    excerpt: "It might sound like something from science fiction, but, according to a new government report, fully self-driving vehicles could be on UK roads by 2025. Some cars, coaches and lorries with self-driving features could even be on motorways in the next year,"
+    publishedDateTime: 2022-08-19T15:49:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/62604275"
+    ampWebUrl: "https://www.bbc.co.uk/newsround/62604275.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/62604275.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/1F52/production/_126381080_gettyimages-1365468618.jpg"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Self-driving vehicles ‘on UK roads by 2025’ under new government plans"
     excerpt: "These vehicles could be on sale within the next year, but would require a valid driving licence (Picture: Andrew Matthews/PA Wire) Self-driving vehicles could be on UK roads by 2025 under new plans unveiled by the government. Backed by a £100 million ..."
     publishedDateTime: 2022-08-19T15:26:00Z
@@ -66,6 +82,22 @@ related:
       - url: "https://news.stv.tv/wp-content/uploads/2022/01/9bd1dc42b7cd2162512d6f985bb45d2e-9-social-default.jpg"
         width: 1280
         height: 672
+        isCached: true
+  - title: "UK plans for first self-driving vehicles on roads by 2025"
+    excerpt: "Aug 19 2022, 21:48 ist updated: Aug 19 2022, 21:48 ist A verification email has been sent to your inbox. Please verify to complete the subscription."
+    publishedDateTime: 2022-08-19T16:29:00Z
+    webUrl: "https://www.deccanherald.com/international/uk-plans-for-first-self-driving-vehicles-on-roads-by-2025-1137568.html"
+    ampWebUrl: "https://www.deccanherald.com/amp/international/uk-plans-for-first-self-driving-vehicles-on-roads-by-2025-1137568.html"
+    cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/international/uk-plans-for-first-self-driving-vehicles-on-roads-by-2025-1137568.html"
+    type: article
+    provider:
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 44
+    images:
+      - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2022/08/19/self-driving-istock-1137568-1660925888.png"
+        width: 1280
+        height: 720
         isCached: true
   - title: "UK plans for first self-driving vehicles on roads by next year"
     excerpt: "Government would prioritise safety through new laws and create thousands of new jobs in the industry: Department for Transport"

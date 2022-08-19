@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/opinion/columns/facebook-did-well-to-throw-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/facebook-did-well-to-throw-its-chatbot-open-to-public-scrutiny/amp-11660755622541.html"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,62 +27,45 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook Does Something Right for a Change"
-    excerpt: "The company risked its already-bruised reputation by being transparent about its AI work. That’s a refreshing approach."
-    publishedDateTime: 2022-08-15T05:23:00Z
-    webUrl: "https://www.washingtonpost.com/business/facebook-does-something-right-for-a-change/2022/08/15/ed7835c0-1c57-11ed-9ce6-68253bd31864_story.html"
+  - title: "3 myths about chatbot design, busted"
+    excerpt: "A chatbot’s design plays a more strategic role than one might think and requires an immense amount of human input to create."
+    publishedDateTime: 2022-08-19T17:00:00Z
+    webUrl: "https://venturebeat.com/ai/3-myths-about-chatbot-design-busted/"
+    ampWebUrl: "https://venturebeat.com/ai/3-myths-about-chatbot-design-busted/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-myths-about-chatbot-design-busted/amp/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 24
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 74
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1349390539.jpg?w=1200&strip=all"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Facebook’s Ignorant Chatbot Wasn’t a Total Disaster"
-    excerpt: "The company risked its already-bruised reputation by being transparent about its AI work. That’s a refreshing approach."
-    publishedDateTime: 2022-08-15T00:00:00Z
-    webUrl: "https://www.washingtonpost.com/business/facebooks-ignorant-chatbot-wasnt-a-total-disaster/2022/08/15/ed7835c0-1c57-11ed-9ce6-68253bd31864_story.html"
+  - title: "Anti-Semitic robots? Meet Meta’s new chatbot, and some serious issues surrounding it"
+    excerpt: "JNS tested the chatbot and received controversial, incorrect, contradictory and often incomprehensible answers from the bot.The post Anti-Semitic robots? Meet Meta’s new chatbot, and some serious issu"
+    publishedDateTime: 2022-08-15T19:34:00Z
+    webUrl: "https://www.clevelandjewishnews.com/jns/anti-semitic-robots-meet-meta-s-new-chatbot-and-some-serious-issues-surrounding-it/article_4ddf10cb-5ba1-528d-9f35-c06a65636eec.html"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 24
+      name: Cleveland Jewish News
+      domain: clevelandjewishnews.com
+    quality: 32
     images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
+      - url: "https://bloximages.chicago2.vip.townnews.com/clevelandjewishnews.com/content/tncms/custom/image/7278b38c-b303-11e5-a1a2-a31281943715.jpg?resize=600%2C315"
+        width: 600
+        height: 315
         isCached: true
-  - title: "Facebook Does Something Right for a Change"
-    excerpt: "As one of the 21st Century’s most powerful data brokers, Facebook is best known for its role in sucking up the personal information of billions of users for its advertising clients. That lucrative mod"
-    publishedDateTime: 2022-08-17T05:00:00Z
-    webUrl: "https://english.aawsat.com/home/article/3820846/parmy-olson/facebook-does-something-right-change"
+  - title: "Kore.ai announces pay-as-you-go pricing for low-code AI chatbot development"
+    excerpt: "Startup Kore.AI Inc. said today it’s making its “low code” conversational artificial intelligence tools available on a pay-as-you-go basis, expanding their availability to smaller businesses. Backed by Nvidia Corp."
+    publishedDateTime: 2022-08-16T12:00:00Z
+    webUrl: "https://siliconangle.com/2022/08/16/kore-ai-announces-pay-go-pricing-low-code-ai-chatbot-development/"
     type: article
     provider:
-      name: الشرق الأوسط
-      domain: aawsat.com
-    quality: 24
-    images:
-      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2021/09/11/parmy_olson.jpg?itok=FY1zLtcJ"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Comment: Facebook’s openness on its chatbot gets it right"
-    excerpt: "But in a completely different part of the approximately 80,000-employee business, Facebook’s exchange of information was going the other way and to good effect. The company known as Meta Platforms this month published a webpage demonstrating its chatbot,"
-    publishedDateTime: 2022-08-18T08:30:00Z
-    webUrl: "https://www.heraldnet.com/opinion/comment-facebooks-openness-on-its-chatbot-gets-it-right/"
-    type: article
-    provider:
-      name: HeraldNet
-      domain: heraldnet.com
-    quality: 24
-    images:
-      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
-        width: 400
-        height: 400
-        isCached: true
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 15
 
 secured: "Nc2OrDPru/Ve1ixHxKcIWygnY8iXiWvtTDC3vVfATqPzNtVwoJB5g57UYQSfPIWpkgre2AzYS75ene2M6TybAovbASTLtB1+H/EGnWFaO7tSg6FkP3i3SGh+pk6gHmtq1tyeb8dkxr4v2Q/3GFlFNZJcXwhXZqm5lH8Ckp2gNJ7hkTKjcjt65gUecjUxRpy8KOTvcJRu4JHnSl8lBvEgd8PW3wOUXwnAyWp4Sue9KTmwHfVjhPDZ1DpHnPyp6ph4mvLZTLB3ibnJ1u9y/Y154n21hHlAcbS7ilDw8QFfPseOn4LkywxItGp99E1snuKaM2frKySTkhaXWhIkuJy2ZHkbUyxO0WE3fppo1WE5HdEOHu58lSsfo8D7vdnPdogYHba43q0hIVZWlsTcf2gg/2mKGO0UIbBXB9gq0dAnZc+vfgY8GxTubKWYYaOArSrMhcudMvuup+H3zHIHEo6BlLYSopog0IonwQ5Xcz6j79cb9lTS7JlLQJH9qcnYWPqiAjqxe9RjCzmbHmlHMxtUww==;+x9nIwmkjwFV6fC5xU80+Q=="
 ---

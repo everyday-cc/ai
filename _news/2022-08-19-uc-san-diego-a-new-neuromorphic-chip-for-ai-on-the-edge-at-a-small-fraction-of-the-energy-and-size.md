@@ -88,20 +88,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Can a human with a spinal cord injury walk and run? Discovering clues to solving science challenges with neuromorphic technology"
-    excerpt: "Provide a ray of hope, engineering clues to biological/medical challenges for spinal cord and nerve damage patients - Reproduction of the leg movement of a nerve-paralyzed rat through the stretchable"
-    publishedDateTime: 2022-08-15T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/961673"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 0
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/dd45b93d-20cd-40fc-b442-efc26760b9fc/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 258
-        isCached: true
 
 secured: "uO8lPOw2UL3h98pKZcp5+pr7RtP6rz6ez0234WmvxB8GI/Ro1fa4ra7Z27CnsadvsiYZY8Yd1HGUGHJUd1NJoaX9jJ848BvGpmLHhUeXywt0UdwB2o1qzRh1ygovxZCwuvUbahEx+b+P7COtcydB7LUiZpH85anCYWquR7dhYykFL9nDXguURcnq+2OV1vdy4vfrqdrTCoFWHJjMVp4d+dlpf6oZOgIfzQeSI2QgO2NTJ1EoZAL8hPbMMSXk0t5SGwNSlGzf9jS/gfPmesZEYa4yKKRQgEvPlgjDvHU6d1noWun71KqaEQiaQMdL092ifH9AkK1sPrtwnu634cfR6OJmMMcTLKpggPuGnYbcMa5Ho/scYF/KlVbd0xTpAWc++7AC9ZuL4HA11wzWJsxoRGmBzNqcu978C/cFEoNutPD0DOZXxSxRUAnSBBZnuQ6chi44JN4QYi0QB2vPBbSvt/akauyhcfMBLuo9HoD8tbALzrpPgURRy6P6jhkr1tPDcxmQKhqxgp9jjGkRSwfCHg==;krjxP3q0udV5+tYOO3bHyg=="
 ---

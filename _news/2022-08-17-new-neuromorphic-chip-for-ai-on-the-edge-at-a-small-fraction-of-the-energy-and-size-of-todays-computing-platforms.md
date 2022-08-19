@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp"
 type: article
 quality: 52
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       name: India Education Diary
       domain: indiaeducationdiary.in
     quality: 19
-  - title: "Can a human with a spinal cord injury walk and run? Discovering clues to solving science challenges with neuromorphic technology"
-    excerpt: "Provide a ray of hope, engineering clues to biological/medical challenges for spinal cord and nerve damage patients - Reproduction of the leg movement of a nerve-paralyzed rat through the stretchable"
-    publishedDateTime: 2022-08-15T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/961673"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 0
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/dd45b93d-20cd-40fc-b442-efc26760b9fc/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 258
-        isCached: true
 
 secured: "cTobc/nEUvT0JvHH4JaOtYrJJTMYcRTa94t55MOTjzoeygY7+F2w6mFEGQyKDhus3YKOKqaivDiemQh3yjTJchu6rqgZt0E+f6Fvm2fT0Yu35XTYKLYsblknRCIIT8FM4PJEA4kzoHR5vFIHo4CrXwLXs0jkG/yIL+0fH35U+ryKrqK6kTACS//zoORPViBITBPi8AtxnGp1BhqJazIOIbTdqLoGxeAxsviHQFRob3tXIpkm9AyZU58fou05621iOoRbRX/ZrtQIjQ663PIcUJZa/Fu7eg40+tZ1nzT+LKIJhJD4cfOzuEDvZ+lT1yrPCVpSV26895dOiuYAA1xQ/nanQN84kF747r2GvKenQjq7bkHRAiF2ehuu3vlgqHsGDMSyXoNZvVrXwnGpgqGHFDeEjW681G2bpjsKCr5rpAJI66iHUuTbVx+tZw1Cdb3yECsHxZh132x+HW3bsNukabOPRfkW4+Av6MHhvrTDjjp7RK4d0bjree6cwvqQs6g9lzSwPvr/Vc9jQzB3Yj617w==;YhPGoyXmBPTfh9VnlpSruA=="
 ---
