@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-language-skills-coax-google-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/08-16-2022/t_8173f0650bed4af9b812985bca0bb96e_name_google_bot_2.jpg&w=1440"
         width: 1440
         height: 810
+        isCached: true
+  - title: "Scientists Use Robot to Understand Ant Communication"
+    excerpt: "A team of scientists at the University of Bristol has developed a small robot that helps them understand how ants teach one another. The robot was built to mimic the behavior of rock ants, which rely on one-to-one tuition."
+    publishedDateTime: 2022-08-18T23:24:00Z
+    webUrl: "https://www.unite.ai/scientists-use-robot-to-understand-ant-communication/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:942/h:600/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/08/ant-697329_1280.jpg"
+        width: 942
+        height: 600
         isCached: true
 
 secured: "NTFEvcCdrqt2DPBG6gFL4hphlDn1BTMI9YZaDB0c8a/HTFxoToj0iqc3aAI/3/AaPse+41go41/ZMpiTqASpnVjlNXEXU2/c+985ACu8rzo/+6Ljw5B8ttnA0NX1lt2TStxF3n2N2Mdx+HS4JRKBFCm65BrPqqcObWkhMn06jz+jGUiv+tsC7+OlBPQjiz+cMf5DjaFCLbFHqAAyxjLJPjAAq/eJ6muI7iEI7rLFvKV0EapATSs+PDpugWU7zR4g65Lgv2SRqpHQPEMdP8DoixwHXmP40rh8M2WGYb2D3BLvsYKElKV0gYuFVdegzHI4qq/8x5a6YvfYtR+fFITc1AbAVHW75Kj3GgzIyBbdTh/IMDZoz/8+qEjEfoxYOOKhZHf5NXffNoSk0tns6RDHjEqVsFJ7MbPjPoElVZeK5zx7XmDxGjwcOofDonRaMoqabCxBHDmjFiKmnnC528APuBiWaM60nbYfRCNBBvDdebhZl2FIUfihdsYNlQnWnGEKxBNdQ0YAB8ERmRhUxOHp7Q==;6FhtnEdig7F/xPq4R0jpag=="

@@ -3,10 +3,10 @@ category: news
 title: "Russian military to develop weapons using artificial intelligence"
 excerpt: "Russia said created a department for developing AI weapons. The program could serve to counter the Pentagon’s newly formed AI authority."
 publishedDateTime: 2022-08-18T00:25:00Z
-originalUrl: "https://www.defensenews.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/?amp;amp"
-webUrl: "https://www.defensenews.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/?amp;amp"
+originalUrl: "https://www.defensenews.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/"
+webUrl: "https://www.defensenews.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: defensenews.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
@@ -56,6 +55,6 @@ related:
         height: 482
         isCached: true
 
-secured: "9hN9tpKf7jpkXEfsweYTmjQ8+Fzeg2KN5/I15SlfsOv6PQDyyLTSpGqkLlAC4d8388iYBtCO+1jROz7w4hTcgE+Zy+9f2baSLvCbjvBondKzUKNB6i9+dDmwq7J5+0HP3qhTmky7iocUhLUmxnWq4VlJ/YFSHRq3N+uEvFYXsQvQPFR+oHGqulcIc9CccxKRT++V5VvNxmEhtrfpeiO3pv37l0J3BNPcasVotdt/Wnhm2WVyL22HPKVf5Wv4DoM+zYE8jKzKc4ezxRF0yiFxaGQ18ecSLSlCqFSNgzGNutgM1dAlzGj9N7lm0unerqfC0W49y9Fm6Lr/xb3LhN2hxVyoZMLaHLShmbP5EOhzwR4=;LmUCLb7nAUnebwTH8qOdKw=="
+secured: "s5CM2mmCBEEE0dQKFydws08Aj7anDxApu16NIh/R+ek+Z/R2IZU9gE1KxLR3So0k7Cnt6m65wuD+8Omwlzk8xJB4etOx8uje/q0Xi1KFvHOccPfeY31iwBolUgiO8PJCE5Y/YJGqiS8iu9hrVbMRrOUXfafYevoFQix30xgkxNXclBBRhmKnGWLILkDvfVbbKkrO7+8dR9joJeqtPcVO9naU58FOG9XgdAkkpV4Wer7Ot6iiU7vOLg/FvE5Xog0OAkyTdDECFJNsjDnTAb+FnXMrhM4xWjyvaxCebqpJLpxaEpjNC4pc7PHt/YMvD0G6S4MnxBciLq0GVo3BwS73cP4dYI6c1ZbYiyimc7DB6fo=;qPmkZGrurRA5p2zsLNy2Wg=="
 ---
 

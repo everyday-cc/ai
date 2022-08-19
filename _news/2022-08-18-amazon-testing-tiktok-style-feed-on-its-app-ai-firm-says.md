@@ -3,12 +3,12 @@ category: news
 title: "Amazon testing TikTok-style feed on its app, AI firm says"
 excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform"
 publishedDateTime: 2022-08-17T23:16:00Z
-originalUrl: "https://abcnews.go.com/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
-webUrl: "https://abcnews.go.com/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
-ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
+originalUrl: "https://abcnews.go.com/Technology/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88514952"
+webUrl: "https://abcnews.go.com/Technology/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88514952"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88514952"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88514952"
 type: article
-quality: 59
+quality: 57
 heat: -1
 published: false
 
@@ -18,7 +18,6 @@ provider:
 
 topics:
   - AI
-  - Facebook AI
 
 images:
   - url: "https://s.abcnews.com/images/Technology/WireAP_d6c87ec91bcb4a3db6d7f763abbf3eca_16x9_992.jpg"
@@ -191,6 +190,6 @@ related:
       domain: knowtechie.com
     quality: 17
 
-secured: "CrQqCZPP9r+TRjLWyFwZhGLfgoLNP6Gb4SU3N/HkypNK3TRZ/YFaTtcKArAgu/yaTXu7J67v3SbR6So2bAekuBRE7RhXN/urc3c0pI23epyP81Dgl27MWMVQzwSqSiG5ReH8OKyclUu98l1ACN6+JCY71+CYJAjaVQaIPJU2Iq4FQnyuZExLzMO60fKIimm+D8rpiq1ZOF9dam9htUOs/FcVLY9bpIdVoy/pbsTYn/s/GyHLLYn8VYAEPVZXuHYvJtberLG/+WNTKn48k+RfdOWcM+zcdvOi/k+3r3gmxKtrMKoOv4KcecE//SQLKkvpPsntLEZ811PIjRy62GPIPrDxLrDesmmCFl5zeewRNq6hDWhs1f3RcLGbN1xixMeQW58BKDEpGGrB1wXQKEIlj+SlAAi/PT0pHGSBY9NCUYMmpUvARhohSchvz8nlBbDvWunB31pM+024n3BNZI82gzQ4B075qtE7OvxmM0goaFY94ky9ZE9h7pMXpBatcFNNnl7MHM6lkYN3L8FkhWOvyQ==;Q4vHiSZV7W95LQSrQn4uUA=="
+secured: "cS7v46SmBCIWNI2mIb4IqOTnm29s9SlGwsIDTnVv0b10tniaF63bA1mv8/Nw1317RhCRGyEsmLgDnajMccsieeydsupuRPqIMJpnTBE5LbZ+56qGGx/BVDXNThsYVYY4MkM8z49GiNh9cg4X7fpmZjFr5eAayvbitmmJeOoxpjve/hHu+yfca/7jzYHca5SSCxiU/ECl78FPFprULXg/S6lpHUI/1Pw15RDRx2XDaYS3rkD9r/Ik7xH7bd0e/cFUtP2Ke2uJaso6BxLw5jF1rvZhkLj4j77yQ5vkIBSzwz8mBwRwp8+RQgWh/qYa8LNYrxKS8d0G18ft87a83MFo77kuyM2/4kg96R0JAj1+34k=;8RfDGXNfifUcpnkGYkMA2A=="
 ---
 

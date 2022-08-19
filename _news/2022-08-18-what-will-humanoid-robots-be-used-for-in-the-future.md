@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 748
         isCached: true
+  - title: "What will humanoid robots be used for in the future?"
+    excerpt: "While waiting for other players to enter the fray, the humanoid robot war is already raging between the United States’ Tesla and China’s Xiaomi."
+    publishedDateTime: 2022-08-18T23:45:00Z
+    webUrl: "https://www.malaymail.com/news/tech-gadgets/2022/08/19/what-will-humanoid-robots-be-used-for-in-the-future/23541"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 39
+    images:
+      - url: "https://www.malaymail.com/malaymail/uploads/images/2022/08/19/42440.jpeg?v=1660874460"
+        width: 1000
+        height: 500
+        isCached: true
 
 secured: "J4h6nu1eoHpToJgDWz7rSZIOMf0W68e4WA1uvc+FbbfYSVwt2C7Hri6TgLYYFMxtL3DPtWOA+C8OK7MUwKVDPATWGiTcQI62/tb2Cu0Se9JeLGQba9w0v2wR0rHViCyu/JcevfTzMfwnzZvp7rTEj7G1zqDQvkNDgFgLxagqqheFXSVInl3lJWNjJUYZs6LKsv5qQttvUnR4qV0bdZYqaYRrItcBvdseBaxSuRExl13QMir0zbG/ZyTIQ4KMtSyrgymzPwuxKDTq8fhji76KPC88Yd4WOKUBDOp0r9mGyeA7vPeKSZtE8I5x0vzhNtyHbVX2SCJhGCLAXv8vzORh05Y5Kkmhqd4y9orGpFSR/8xzvYnamPHxni5UIIbJp5R1citdS2AlLQ0cU9o9mMqsRytvYE3oEXqO0wIxSXfZIZxVOYMLGBKoR8ekiUJ0aD9C3Jm5SaXGm897Mb/JKbniHxU6svts4o/5pgw6JRSl4sVR3mOq+cPWgAYdNZnRcV4Mz99xMDeMba4EnFr8e82R4A==;mfx0mPlXhHBXYEya2jOHNA=="
 ---

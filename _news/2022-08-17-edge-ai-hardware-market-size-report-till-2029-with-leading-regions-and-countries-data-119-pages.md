@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-ai-hardware-market-
 webUrl: "https://www.marketwatch.com/press-release/edge-ai-hardware-market-size-report-till-2029-with-leading-regions-and-countries-data-119-pages-2022-08-17"
 type: article
 quality: 54
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -85,6 +85,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "AI Training Data Market Size 2021, Key Futuristic Trends, SWOT Analysis, Opportunities and Outlook Analysis by 2027 with Top Growth Companies"
+    excerpt: "In 2021, “ AI Training Data Market “ Size, Status and Market Insights, Forecast to 2027 |( Number of Pages:107) AI"
+    publishedDateTime: 2022-08-17T04:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-training-data-market-size-2021-key-futuristic-trends-swot-analysis-opportunities-and-outlook-analysis-by-2027-with-top-growth-companies-2022-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

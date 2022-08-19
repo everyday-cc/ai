@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Neural networks being used to improve the performance of high-power wind turbines"
-excerpt: "Research at the Vitoria-Gasteiz Faculty of Engineering of the UPV/EHU has used convolutional neural networks to predict airflow characteristics in the aerodynamic profiles of high-power wind turbines,"
-publishedDateTime: 2022-08-08T14:57:00Z
-originalUrl: "https://techxplore.com/news/2022-08-neural-networks-high-power-turbines.html"
-webUrl: "https://techxplore.com/news/2022-08-neural-networks-high-power-turbines.html"
+excerpt: "Gasteiz Faculty of Engineering of the UPV/EHU has used convolutional neural networks to predict airflow characteristics in the aerodynamic profiles of high-power wind turbines, and has shown that flow control devices can be studied using these neural networks,"
+publishedDateTime: 2022-08-08T00:00:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/961192"
+webUrl: "https://www.eurekalert.org/news-releases/961192"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
-secured: "gK2JXkp0A3OoHXVQaMMztgkd+uH8UcYGKD3AMoBsC9PduLGci7WHLOs+yUWiVhCnZ1N/DT/v9cI44DIr2lIxmjN2OxRPWzNDEIGhI/bcIa2LRKrMEdm9xoXTf2bSEcU2ZkkG4gHLx0NkSDWOPHYV3FouyQ3duppSvUKCKZLRP89qGE9YeSqu/LwW/W3cSVe3zdINEMwQXxsoIzwOgPHy2TrNdMG+PptZUZRcMvhzPtNKCiwCsNYbSqnBtwPKfBgK4BVNCtQ6S4ilGS3f6ftx0NdP4Suiw8HMkz2cbjQa+CZ0nvh0N19NP7rf1/o8E7/96Q5qjGrcIIkkieq5n31iH5MJlFNTqSKD2uJiytj1JL6sJ6yz3IxeLj1C36O5UTteaA1NQ7aYbVxEdoA93QjpgrkZNjsU0UV9qQu3ro8AWkiFDJINQd5wm9pmHc+cLVWtARnPsE3oiZVfbORy9m9Fa6mFpt8uSmlRyI/ytgrGc00UCuomLQHakElw86IYTW90gYbv77Fze/ijF5KPQCExNw==;Lb7XxlNZ9sFProIG714oPw=="
+images:
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d00d8c91-2d7e-4e6f-8ba4-dfa8de9f2357/Rendition/low-res/Content/Public"
+    width: 700
+    height: 452
+    isCached: true
+
+secured: "DVfN8gyfiuHomGXyOz+bmO3mRZeXYEUhP7FJEA0LSesbsYkWmqr/hBhaQi8jdScvPlQNF+v0Ye80wbRc2RBUBdlU5THxh33tbGcKboilIGaJz0t+1fwsNC176xfCndq+TDYIZuAUFaAXsuNnlDvKprePUkn2poLDuqhX04d02x2Uhf/fItXC0TYNwdA1HN5UlRcVjs8AUGWzs7DZctNOqhPiQa9X7GTWLg+0Fa4O/PsAzQIOqvTe5DXaZ9VWkEhkpZxio4zyrLE9I7w56q4syRpWItBME95iGT7icgmk6xOHLbdITIqytTu3YhffqmAdgetGIwqvHr+a/rnSflU37tD9gdv+hFpzB5eh9SKx74I=;aLbP+n5FxW1qhNXKxJ9pzw=="
 ---
 

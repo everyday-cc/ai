@@ -453,6 +453,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-05-meet-russias-new-killer-robot.md",
+      "title": "Meet Russia’s New Killer Robot",
+      "excerpt": "The robot’s targeting mechanism works automatically ... Moscow is also planning to introduce mind-controlled dual-use exoskeletons within the next five years (see: “Will Russia Field Robo ...",
+      "sourceUrl": null,
+      "webUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
+      "originalUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thediplomat.com/wp-content/uploads/2015/07/sizes/td-story-s-2/thediplomat_2015-07-20_15-05-18.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Diplomat",
+        "domain": "thediplomat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-tesla-teases-optimus-humanoid-robot-prototype-with-new-image.md",
       "title": "Tesla teases Optimus humanoid robot prototype with new image",
       "excerpt": "Tesla has teased its Optimus humanoid robot prototype with a new image ahead of a full unveiling planned for September 30th. Earlier this year, CEO Elon Musk announced “Tesla AI Day #2” with “many cool updates” on August 19.",
@@ -1333,49 +1376,6 @@
       "provider": {
         "name": "Phys.org",
         "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-the-top-5-most-recent-amazing-artificial-intelligence-and-robotics-innovations.md",
-      "title": "THE TOP 5 MOST RECENT AMAZING ARTIFICIAL INTELLIGENCE AND ROBOTICS INNOVATIONS",
-      "excerpt": "When it comes to understanding the future of robotics and artificial intelligence, it can be challenging to keep up with everything that’s going on in this fast-paced industry. Apart from Ai technologies used in offices and most of the SEO Company‘s,",
-      "sourceUrl": null,
-      "webUrl": "https://www.bristol247.com/lifestyle/news-lifestyle/the-top-5-most-recent-amazing-artificial-intelligence-and-robotics-innovations/",
-      "originalUrl": "https://www.bristol247.com/lifestyle/news-lifestyle/the-top-5-most-recent-amazing-artificial-intelligence-and-robotics-innovations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bristol247.com/wp-content/uploads/2022/08/possessed-photography-zbLW0FG8XU8-unsplash-800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bristol24-7",
-        "domain": "bristol247.com",
         "images": null,
         "publishers": null,
         "authors": null

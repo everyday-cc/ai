@@ -866,6 +866,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-08-neural-networks-being-used-to-improve-the-performance-of-high-power-wind-turbines.md",
+      "title": "Neural networks being used to improve the performance of high-power wind turbines",
+      "excerpt": "Gasteiz Faculty of Engineering of the UPV/EHU has used convolutional neural networks to predict airflow characteristics in the aerodynamic profiles of high-power wind turbines, and has shown that flow control devices can be studied using these neural networks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/961192",
+      "originalUrl": "https://www.eurekalert.org/news-releases/961192",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d00d8c91-2d7e-4e6f-8ba4-dfa8de9f2357/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-using-ai-chips-to-design-better-ai-chips.md",
       "title": "Using AI Chips To Design Better AI Chips",
       "excerpt": "Nvidia’s “Hopper” GPU architecture, introduced in March and expanding the company’s already expansive focus on AI, machine learning and neural networks, contains almost 13,000 instances of circuits designed using AI techniques. In a six-page ...",
@@ -1105,49 +1148,6 @@
         "AI",
         "Machine Learning",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-07-a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence.md",
-      "title": "A bionic chip analyzes health data with brain-mimicking artificial intelligence",
-      "excerpt": "A team of US researchers have developed a flexible, stretchable computing chip that processes information by mimicking the human brain. The device, described in the journal Matter, aims to change the way health data is processed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digit.in/news/general/a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence-64607.html",
-      "originalUrl": "https://www.digit.in/news/general/a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence-64607.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.digit.in/default/9965a991f124a48186e400c6cd712e646cb7c34d.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digit.in/article/amp/general/64607/a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence",
-      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/general/64607/a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence",
-      "publishedDateTime": "2022-08-07T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digit",
-        "domain": "digit.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

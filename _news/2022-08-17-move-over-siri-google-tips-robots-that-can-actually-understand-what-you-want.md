@@ -59,6 +59,20 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Scientists Use Robot to Understand Ant Communication"
+    excerpt: "A team of scientists at the University of Bristol has developed a small robot that helps them understand how ants teach one another. The robot was built to mimic the behavior of rock ants, which rely on one-to-one tuition."
+    publishedDateTime: 2022-08-18T23:24:00Z
+    webUrl: "https://www.unite.ai/scientists-use-robot-to-understand-ant-communication/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:942/h:600/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/08/ant-697329_1280.jpg"
+        width: 942
+        height: 600
+        isCached: true
 
 secured: "NgDWl0w+/mCRPuHYz6ExgB9EbXqFdSKwOokp4mG22lNrGpPZbx1Yfuhy+/w9DlKHt6ATjFIbSgHJqjz8ADzQhYMtEoEWo/tnYYFraUJodXUsFV13/VSxaXvLwg/nVjQnHpk4WbGe9XHHdXIQE6AUXYbeuzE3ynLDKmkw+v/Wwn3gfBp+UbB+rMGDRRFHYcWzSyvGZRJkjltRQEwh+M5IZ4KUgTFu+RD9bKHB3Nlel36uFjqRotsWL/FAN5Mz0YahrHCtXA9Y1EGhRqztXIX7ooHHPSLfTbUYVV7FMKPGRDgS9ymyvU6Oep+5EtF3bb8vYxQsTR3enrURYcFrPIU8uZSjF+t3JkRy+S57hHEgchwA/YAra7m8ExaEVSoJVBXPpQwHWLz/Qcsvy+QyBm0XONpSE2j8PYRweHNoKUyXtkK1zQD6A0dUgHlM9rTie7zrGzrns+TfHn6Hd4J5/kvQbzUgrgHd+kHHwLnlrKldkSuRSsmvC1VryyzCjS5AQinn4PIVhHyxUwHs7em5Y2XRpg==;X6LodiQafd584gBQGFhoJA=="
 ---

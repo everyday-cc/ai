@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/17/supervised
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/17/supervised-autonomy-why-it-will-shape-the-human-robot-workforce-of-the-future/amp/"
 type: article
 quality: 85
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://www.citizen.co.za/wp-content/uploads/2022/08/xiaomi-AI.jpg"
         width: 1500
         height: 1000
+        isCached: true
+  - title: "What will humanoid robots be used for in the future?"
+    excerpt: "While waiting for other players to enter the fray, the humanoid robot war is already raging between the United States’ Tesla and China’s Xiaomi."
+    publishedDateTime: 2022-08-18T23:45:00Z
+    webUrl: "https://www.malaymail.com/news/tech-gadgets/2022/08/19/what-will-humanoid-robots-be-used-for-in-the-future/23541"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 39
+    images:
+      - url: "https://www.malaymail.com/malaymail/uploads/images/2022/08/19/42440.jpeg?v=1660874460"
+        width: 1000
+        height: 500
         isCached: true
 
 secured: "72kouYzU301uRanEmPOMBt4QhMXA8jH77FB72GhzV1Ko7USx3Mjla/cWC5I0GkRMxu4vzQIfPQw67X9dSPldlerKy3Ps5tDd9waj3DGaUoo8kb3mw9sfxNj+TcQwnMw3znwjT28IME9FAXnPx9DZxTYH8/yl7hTsQlPCWxr0u+uahylflTIta4mPG3VWW6yrodDd1qE1PLTmn92xzq1KzW8o9p3RkLOtfR/W/JSpivfcv+cMlqPbquMDchvtWnMFY8WUntdGQVobzYUf7HX/SkXLQ5u/qoIXCPbC9anD2jzcbjV9P7xlK/sWMEfndl+DNcR02durp8g8SAe9reP9zoBtI+XPwyDluZ4fGBMWrEjuzNTf1QYd9u4GC1gqOuwlVEtroqBu78n+HHPiFiznXnBTWCj8Jt2wNNvPhELsPycw/HXTObJKzni9LSD4Dw+O2K4YdfLu3aD0Qt5iey9a0INUce8rrHJyZ2aptoj2N9pkg+hGIm82gzSvsdY3Uawo7zQHDfxeBv83DN0VvTXWkQ==;g5dYaCMwEAMbBMs170yuEA=="
