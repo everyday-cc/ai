@@ -2,6 +2,41 @@
   "page": 110,
   "value": [
     {
+      "path": "_news/2022-05-25-westwin-formerly-microsoft-online-launches-new-english-language-sem-solution-for-baidu-paid-search.md",
+      "title": "Westwin (formerly Microsoft Online) launches new English language SEM solution for Baidu paid search",
+      "excerpt": "Recently Westwin (formerly Microsoft Online) is proud to announce the launch of SEM.Wreach.net – enabling non Chinese speakers to run paid search campaigns on Baidu. Wreach SEM will form part of Wreach.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kxan.com/business/press-releases/cision/20220524CN67254/westwin-formerly-microsoft-online-launches-new-english-language-sem-solution-for-baidu-paid-search/",
+      "originalUrl": "https://www.kxan.com/business/press-releases/cision/20220524CN67254/westwin-formerly-microsoft-online-launches-new-english-language-sem-solution-for-baidu-paid-search/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T21:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KXAN",
+        "domain": "kxan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-new-fintech-startup-economyxai-uses-machine-learning-to-pull-insights-from-us-economic-news.md",
       "title": "New Fintech Startup economyx.AI Uses Machine Learning to Pull Insights From US Economic News",
       "excerpt": "The US economy is $25 trillion of activity, by 330 million people, over 3.8 million square miles. Wanna to see how it's all doing? AUSTIN, Texas , May 24, 2022 /PRNewswire/ -- Google has been spectacu",
@@ -1093,48 +1128,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-toggle-ai-announces-zero-commission-initiative-with-interactive-brokers.md",
-      "title": "TOGGLE AI Announces Zero-Commission Initiative With Interactive Brokers",
-      "excerpt": "TOGGLE AI to offer commission-free trading and subscriber-exclusive options pricing for new IBKR usersNEW YORK--(BUSINESS WIRE)--TOGGLE AI today announced an initiative that enables their customers to trade commission-free on Interactive Brokers.",
-      "sourceUrl": null,
-      "webUrl": "https://us.acrofan.com/detail.php?number=669020",
-      "originalUrl": "https://us.acrofan.com/detail.php?number=669020",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
-          "width": 580,
-          "height": 339,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T08:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "아크로팬",
-        "domain": "acrofan.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

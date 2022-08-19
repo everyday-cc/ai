@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-19T13:23:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-croptimustrade-ai-pest-disease-detection-platform-be-distributed-/2022/08/19/9659348.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-croptimustrade-ai-pest-disease-detection-platform-be-distributed-/2022/08/19/9659348.htm"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: TMCnet

@@ -33,6 +33,15 @@ related:
         width: 1800
         height: 1010
         isCached: true
+  - title: "Jason Simon explains the benefits artificial intelligence offers the FinTech space"
+    excerpt: "FinTech presents an important variety of technologies such as financial services through software, such as online banking, mobile payment applications, mobile wallets, blockchain and even cryptocurrencies."
+    publishedDateTime: 2022-08-19T15:51:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/webwire-2022-8-19-jason-simon-explains-the-benefits-artificial-intelligence-offers-the-fintech-space"
+    type: article
+    provider:
+      name: Buffalo News
+      domain: buffalonews.com
+    quality: 28
   - title: "Optasia among the top 25 Middle East fintech companies"
     excerpt: "Optasia provides premium fintech services through its advanced AI led Originating and Credit Decisioning Platform. It enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets."
     publishedDateTime: 2022-08-15T07:17:00Z
@@ -47,6 +56,15 @@ related:
         width: 597
         height: 597
         isCached: true
+  - title: "Fintech-focused Cape Town Stock Exchange raises R85m"
+    excerpt: "The oversubscribed round was led by Imvelo Ventures, with participation from Lebashe, Pallidus, Shaolin and Gary Stroebel."
+    publishedDateTime: 2022-08-19T13:45:00Z
+    webUrl: "https://www.itweb.co.za/content/8OKdWqDXEmaqbznQ"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 19
   - title: "Optasia one of top 25 Fintech companies in the MENA"
     excerpt: "Optasia enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets.. Optasia one of top 25 Fintech companies in the MENA. Artificial Intelligence,"
     publishedDateTime: 2022-08-18T04:00:00Z
@@ -65,6 +83,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 1
+  - title: "LAMEA Artificial Intelligence In Fintech Market to Expand by 19.2% Annually Through 2028 - ResearchAndMarkets.com"
+    excerpt: "The \"LAMEA Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment (On-premise and Cloud), By Application, By Country and Growth Forecast,"
+    publishedDateTime: 2022-08-16T13:38:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-lamea-artificial-intelligence-in-fintech-market-to-expand-by-192-annually-through-2028-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "YdYZqQQqxqb/IYfdu94nzlylRa3mpBHXLp5cwcAm0MOsK3Lwot9nXpqauARajwC3xA+pDN1d+9l54Y+6xIGUXhD7ijvwZNdm5YUwCry/HyMXLw6PKUZGmgTSZzQqZucS9dOJNJs9+Ng44M/1DhxUWeMPkV6c6y8pbfCEBgayt6MTQiStSEYteXTrm2AdD0qwhM64IgJbdI5Y+V9XVAB+A9/Kr2/kE0FQy4ZciNo8/qxVRHzznIZZEax9H9S9NZyAc/BXb485ZACNVvpoaNo/xRaTBNNU+Xhd34C9OJeQZO+B6zyyfLg+EIbDaYMKOmzlaHc87r94oPUyzWm/a+z1CvYs9mfx8ZvM/EEdwdOFWdk=;cM2qJrd/W5emsfQDycTZZg=="
 ---

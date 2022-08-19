@@ -33,6 +33,15 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "Neuromorphic Chip Ramps Up AI"
+    excerpt: "Stanford engineers created a more efficient AI chip that could bring the power of AI into tiny edge devices. Stanford University engineers have created a chip that does AI processing with in-built memory,"
+    publishedDateTime: 2022-08-19T11:35:00Z
+    webUrl: "https://www.electronicsforu.com/news/neuromorphic-chip-ramps-up-ai"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 34
   - title: "LM Exchange significantly improved its efficiency and regulatory compliance by adopting AI-aided technology"
     excerpt: "With the help of Effiya’s dynamic risk assessment platform, robust sanctions screening and transaction monitoring solution"
     publishedDateTime: 2022-08-15T10:06:00Z

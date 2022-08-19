@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Man fatally shoots self after crashing car into barricade near US Capitol Building"
-    excerpt: "A man shot and killed himself after driving into a vehicle barricade near the US Capitol Building early Sunday morning, US Capitol Police said."
-    publishedDateTime: 2022-08-14T20:20:00Z
-    webUrl: "https://www.kitv.com/man-fatally-shoots-self-after-crashing-car-into-barricade-near-us-capitol-building/article_655a88ea-9642-51a0-911f-a5ac67b4f9e1.html"
-    ampWebUrl: "https://www.kitv.com/man-fatally-shoots-self-after-crashing-car-into-barricade-near-us-capitol-building/article_655a88ea-9642-51a0-911f-a5ac67b4f9e1.amp.html"
-    cdnAmpWebUrl: "https://www-kitv-com.cdn.ampproject.org/c/s/www.kitv.com/man-fatally-shoots-self-after-crashing-car-into-barricade-near-us-capitol-building/article_655a88ea-9642-51a0-911f-a5ac67b4f9e1.amp.html"
-    type: article
-    provider:
-      name: KITV
-      domain: kitv.com
-    quality: 38
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kitv.com/content/tncms/assets/v3/editorial/a/3f/a3f5f350-b9b3-52c5-a34f-4f3ca2ab3400/62f9572956f64.image.jpg?resize=1024%2C683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "Germany: 1 dead after self-driving BMW veers into traffic"
     excerpt: "Police in Germany said Tuesday that one person has died and nine were seriously injured after a self-driving test car veered into oncoming traffic, triggering a series of collisions involving four vehicles Monday afternoon."
     publishedDateTime: 2022-08-16T08:14:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-15T16:30:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/ai-gaming-and-esports-startup-regression-games-raises-4-2m-in-seed-funding-from-nea-and-a16z-1031684331"
 webUrl: "https://markets.businessinsider.com/news/stocks/ai-gaming-and-esports-startup-regression-games-raises-4-2m-in-seed-funding-from-nea-and-a16z-1031684331"
 type: article
+quality: 36
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -17,6 +20,31 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Regression Games raises $4.2M for AI gaming and esports"
+    excerpt: "The Philadelphia startup is the brainchild Vontell, a graduate of the Massachusetts Institute of Technology who helped create Battlecode, an AI gaming competition for students. Ba"
+    publishedDateTime: 2022-08-15T13:30:00Z
+    webUrl: "https://venturebeat.com/games/regression-games-raises-4-2m-for-ai-gaming-and-esports/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 47
+  - title: "Just-launched esports startup Regression Games raised a $4.2M seed led by NEA"
+    excerpt: "Founded by a recent Philly transplant, the two-month-old company (yes, really) makes a low-code, AI-driven platform for gaming."
+    publishedDateTime: 2022-08-17T22:38:00Z
+    webUrl: "https://technical.ly/startups/regression-games-seed-round-ai-esports-a16z-nea-philly/"
+    type: article
+    provider:
+      name: Technical
+      domain: technical.ly
+    quality: 34
+    images:
+      - url: "https://technical.ly/wp-content/uploads/2022/08/Image-e1660774185981.jpeg"
+        width: 1000
+        height: 993
+        isCached: true
 
 secured: "McO8CxlL+zp2Lp6rh86DIar8rhaPiJ8H42QGzG3JMjYLYXliEoQlJXcHoKOlYM1fvlBv7FC0X++A3PDn9idKF7PW/ivtvOdQ9etfnFayzzZsYARtrmlMp7cacWfSUIC56gTi7XMvXfsQSNti87wKP0ELlXHc5xJx+PoMXsAJ33wXVF2C/I7xNg6a6LwC4F2509prxYzqQlqwcZV17Kv7PohJWZmt+rkyJGk3zd3MbmXfsAXLcFpIzuaEbbKAKte1QiABejGIqrGO01lx+z2egubYOK2C/oABcUs+sXEjuPVPkHeGk0xpSMeMZrZkMMOEAA535F0ZIN968Huh3dR49EBMJGJ44TsNlf7caatPWPM=;IZzDDarr14Ei4ECVfiRIOg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/expert-ratings-for
 webUrl: "https://markets.businessinsider.com/news/stocks/expert-ratings-for-c3-ai-1031690421"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -56,6 +56,15 @@ related:
         width: 1024
         height: 768
         isCached: true
+  - title: "Analyst Ratings for C3.ai"
+    excerpt: "Over the past 3 months, 8 analysts have published their opinion on C3.ai (NYSE:AI) stock. These analysts are typically employed by large Wall Street banks and tasked with understanding a company's business to predict how a stock will trade over the upcoming year."
+    publishedDateTime: 2022-08-17T22:02:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1031691130"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 47
 
 secured: "Feg3AznxJWGrXf+DB9LxHeyMI9kR6B6TG3uCz0Qa4GTmF6EH55FoMDQbuCmZ72bDrX8e0hrCE46AqjToMquezrlT++TKMIAEGd075A5l8YXrEHdib1tIAtpIZGrlrB6I7WMBda5M9+MqwbKBJwsU0UmAit6rSQa8HSY6a3hveEaHI6lLtIL/HeFIlDl8smdYxvkCrqMOfUJZQ7NLop/iZajMNXCksNzWlBWY5igCFvZ8wF5Kl4bKP28oB6DtnK6u2Dyhqu7+VmudRPqHVPA2LTD7i3v/XecaLXb7ScP0Y+9IFk1QCJJjDgk4k96owuNY5ePnOLJdGyM5KvA88/ITATZ/WzN6j+8bDidFM299qCzypnYAzOGDcisITljpupgw63Ap2ttAko1K1pRhavWxEFWCkibt9Oi6YixGEMgVwQHNSUsHYJgw+s9FFV2e7UpwLT/wqgqXSWOMIsYBwmfwjjbEKZmqKlHVnQdL9L+EMFhrRGOmKOw+N22c+3IjPEjLkLLDRiWmgFzs1y7uciY7pA==;9NclBYi8GlmP3lg+Z3fgwQ=="
 ---

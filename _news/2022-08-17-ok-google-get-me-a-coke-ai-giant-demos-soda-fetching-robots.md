@@ -69,6 +69,15 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 67
+  - title: "OK Google, get me a Coke: AI giant demos soda-fetching robots"
+    excerpt: "Alphabet Inc.'s Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
+    publishedDateTime: 2022-08-19T13:03:00Z
+    webUrl: "https://www.gmanetwork.com/news/scitech/technology/842151/ok-google-get-me-a-coke-ai-giant-demos-soda-fhing-robots/story/"
+    type: article
+    provider:
+      name: GMA Network
+      domain: gmanetwork.com
+    quality: 34
 
 secured: "ELpurJQ9mXa63nf7rHI9WKQSQLIMNRqenGX/Ql50J3gCjMmtKvjN0Nv8etc1LZvDEKtMdjKd0UTLSO7OsyAvTAzG4B9PetyNViI77GE9WUhEhiIpa4/H11l6aM0Cs3yRAN1LtG6hwmQJYNSYTutbWQ23Py8kAbyWVr4bHN8bVmEwbiOuJ4eCFAqCNhGvbWXBxZGLelxvAF1vO6I76IR53SKs1WwQfSGOrSUP1pgQ1pbVd/PqP0TBgFCZwFZ2ik4Mz7rhIlSyOUzebHpwK+0NbkTRqkd3XmdTAWPZjGXsZm2UrsNfHPuUPLOuOupd9hmSrFPZgTTDQmgcnZVFp3iWIKYbJwEUQ0pmvzY8OI5pvM8=;GDSTcQQPD+r0QDxUcf1TOw=="
 ---

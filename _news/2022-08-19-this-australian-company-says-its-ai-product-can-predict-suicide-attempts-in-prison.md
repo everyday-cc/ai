@@ -7,7 +7,7 @@ originalUrl: "https://www.crikey.com.au/2022/08/19/artificial-intelligence-priso
 webUrl: "https://www.crikey.com.au/2022/08/19/artificial-intelligence-prison-suicide-security-expo/"
 type: article
 quality: 31
-heat: 31
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,26 @@ images:
     width: 740
     height: 400
     isCached: true
+
+related:
+  - title: "Australian Army launches new robotics strategy"
+    excerpt: "A Ghost Robotics unmanned ground vehicle supports Australian ... has disclosed details about plans to integrate artificial intelligence (AI) and unmanned systems into Republic of Korea (RoK) Army combat brigades during the coming decade and beyond."
+    publishedDateTime: 2022-08-19T13:10:00Z
+    webUrl: "https://www.janes.com/defence-news/land-forces/latest/australian-army-launches-new-robotics-strategy"
+    type: article
+    provider:
+      name: Jane's Information Group
+      domain: janes.com
+    quality: 34
+  - title: "Albanese plans to use voice to create jobs for Indigenous Australians"
+    excerpt: "Anthony Albanese says he will turn his attention to the ways an Indigenous voice could help create more jobs for Aboriginal and Torres Strait Islander Australians."
+    publishedDateTime: 2022-08-19T09:34:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/albanese-plans-to-use-voice-to-create-jobs-for-indigenous-australians/news-story/b90235811d6a0c9edba554259f5aa627"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
 
 secured: "6hGJeA9M0RgoP6V+4u1ioMmBvitz0l8tJ9irU/5WnrPHnsoSH0NPmKlFAagWjmG1KNzt3etq0H7BYxDz+NnjoilxODHlwLLPCT+xGTW3rXVpbiLWQOXgi8WxJIpqbIpd0RdnuUMn2oMitHedhWqC53RV+GnjJTU6eQi5PNmJO20V0gDSs9M2uF2ysnUyD0y8patKTe48YGW01QHW8WnC+qghJkrBU2YN6r3sfDUi7n3+hrVgerIZdvUjxhQq+jL4RBck6SnNTdeFolZ2o518flviDLW9KcYSt3xE+CpNNRsmGXYlyL+VejAr6cI2YwfPzkCYuW25DTg+Sou7C4J38elfMicfvqwHMrlJ10un8FU=;bQpIxTyrRw3Pszy+RsRRYA=="
 ---

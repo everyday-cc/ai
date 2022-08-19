@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Jason Simon explains the benefits artificial intelligence offers the FinTech space"
+    excerpt: "FinTech presents an important variety of technologies such as financial services through software, such as online banking, mobile payment applications, mobile wallets, blockchain and even cryptocurrencies."
+    publishedDateTime: 2022-08-19T15:51:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/webwire-2022-8-19-jason-simon-explains-the-benefits-artificial-intelligence-offers-the-fintech-space"
+    type: article
+    provider:
+      name: Buffalo News
+      domain: buffalonews.com
+    quality: 28
   - title: "Optasia among the top 25 Middle East fintech companies"
     excerpt: "Optasia provides premium fintech services through its advanced AI led Originating and Credit Decisioning Platform. It enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets."
     publishedDateTime: 2022-08-15T07:17:00Z
@@ -39,6 +48,15 @@ related:
         width: 597
         height: 597
         isCached: true
+  - title: "Fintech-focused Cape Town Stock Exchange raises R85m"
+    excerpt: "The oversubscribed round was led by Imvelo Ventures, with participation from Lebashe, Pallidus, Shaolin and Gary Stroebel."
+    publishedDateTime: 2022-08-19T13:45:00Z
+    webUrl: "https://www.itweb.co.za/content/8OKdWqDXEmaqbznQ"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 19
   - title: "Global Alternative Investment Management Launches FinTech Fund II"
     excerpt: "Appleton, Wis.-based private fund management company Global Alternative Investment Management has launched FinTech Fund II, which is available to Qualified Purchasers"
     publishedDateTime: 2022-08-18T10:10:00Z
@@ -66,6 +84,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 1
+  - title: "LAMEA Artificial Intelligence In Fintech Market to Expand by 19.2% Annually Through 2028 - ResearchAndMarkets.com"
+    excerpt: "The \"LAMEA Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment (On-premise and Cloud), By Application, By Country and Growth Forecast,"
+    publishedDateTime: 2022-08-16T13:38:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-lamea-artificial-intelligence-in-fintech-market-to-expand-by-192-annually-through-2028-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "kDuUS88HsICh+kompN/KW8lvYkQojK6fs3VuRfRkVcERAyIYcbgx1C9jY+yXuI0ork2CCleXdPwYmc7SmG0ioAWZjZxNfda+62zy//3N9MMxcATSOxMwgEjar9ydUi9ZPceOAfDW+WoLfgbX1juxsBprmj+eqLzQTNkfcOI0TxCGtv2dUJuRWH1lfBUf2dxplh3ZhB9RfTQkpn7c6u2f5yrkimxLxCtyzcgD97aoaG+fqA/6qJtIKtIVC0zP7p3VfpVclb34hV4uWzABqZJJ75DTbXIkcPClwx37m9w0S2hF79ktExwzUuQ1jB785ykSlQUIy9mMfc2d4nHeoKGOXLRxURqFuvBbIj+wmKKbxK3gDeB+SEzqrQAzVa1WOUyBTomckuNhni6huMYDQEbK4Zg+ZAMmNf04kplRM1uP22DBXvp3GYuOprgR9f5+kIvZIf2qoETi82UMS01N86LsmolL6WqY6vtKL8cIBqgygV+nuWM0F3oErl9M5gUwPbQFZB1ht+oyK4NhnXsJ1tpBow==;M/me7uoVQyQSe2VGz4q5dQ=="
 ---

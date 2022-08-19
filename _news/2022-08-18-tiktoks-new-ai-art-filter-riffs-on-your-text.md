@@ -90,22 +90,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "Amazon testing TikTok-style feed on its app, AI firm says"
-    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform. The"
-    publishedDateTime: 2022-08-17T22:15:00Z
-    webUrl: "https://thehill.com/homenews/ap/ap-technology/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says/"
-    ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says/amp/"
-    cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says/amp/"
-    type: article
-    provider:
-      name: The Hill
-      domain: thehill.com
-    quality: 59
-    images:
-      - url: "https://thehill.com/wp-content/uploads/sites/2/2022/08/d4309a13dad74c7f8386f651680351f6.jpg?w=1280"
-        width: 1080
-        height: 2520
-        isCached: true
   - title: "TikTok now offers a very basic text-to-image AI generator directly in the app"
     excerpt: "The output of TikTok’s system is pretty basic compared to that of state-of-the-art text-to-image models like Google’s Imagen, OpenAI’s DALL-E 2, or Midjourney’s eponymous software. It creates only rather abstract and swirling images;"
     publishedDateTime: 2022-08-15T12:03:00Z
@@ -179,6 +163,15 @@ related:
     provider:
       name: IOL News
       domain: iol.co.za
+    quality: 19
+  - title: "Amazon testing TikTok-style feed on its app, AI firm says"
+    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform"
+    publishedDateTime: 2022-08-17T23:16:00Z
+    webUrl: "https://abcnews.go.com/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
     quality: 19
   - title: "TikTok’s new text-to-image AI tool lets you create trippy pictures"
     excerpt: "TikTok has decided to jump on board with the emergence of new text-to-image AI tools. The platform now offers its own, albeit pretty basic, text-to-image AI that you can find inside the TikTok app itself."

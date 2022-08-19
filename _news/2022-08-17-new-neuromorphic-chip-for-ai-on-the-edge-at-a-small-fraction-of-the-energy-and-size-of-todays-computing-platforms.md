@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp"
 type: article
 quality: 52
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -80,6 +80,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "UC San Diego: A New Neuromorphic Chip for AI on the Edge, at a Small Fraction of the Energy and Size"
+    excerpt: "An international team of researchers has designed and built a chip that runs computations directly in memory and can run a wide variety of AI applications–all at a fraction of the energy consumed by computing platforms for general-purpose AI computing."
+    publishedDateTime: 2022-08-19T07:05:00Z
+    webUrl: "https://indiaeducationdiary.in/uc-san-diego-a-new-neuromorphic-chip-for-ai-on-the-edge-at-a-small-fraction-of-the-energy-and-size/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 19
   - title: "Can a human with a spinal cord injury walk and run? Discovering clues to solving science challenges with neuromorphic technology"
     excerpt: "Provide a ray of hope, engineering clues to biological/medical challenges for spinal cord and nerve damage patients - Reproduction of the leg movement of a nerve-paralyzed rat through the stretchable"
     publishedDateTime: 2022-08-15T00:00:00Z

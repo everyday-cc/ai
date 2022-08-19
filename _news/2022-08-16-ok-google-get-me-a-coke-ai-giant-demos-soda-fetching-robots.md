@@ -72,6 +72,15 @@ related:
         width: 640
         height: 402
         isCached: true
+  - title: "OK Google, get me a Coke: AI giant demos soda-fetching robots"
+    excerpt: "Alphabet Inc.'s Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
+    publishedDateTime: 2022-08-19T13:03:00Z
+    webUrl: "https://www.gmanetwork.com/news/scitech/technology/842151/ok-google-get-me-a-coke-ai-giant-demos-soda-fhing-robots/story/"
+    type: article
+    provider:
+      name: GMA Network
+      domain: gmanetwork.com
+    quality: 34
 
 secured: "qzm7JgKVNt/OvHwr8WXmt958PrfdtFmCUJ/IEcbWB4efzJrdCdrJcEXYOToSq2cqXj+fq4IiYnekw07TuqaGNs5iNcCnz/iKEkY5DcdFGf49M4DpUt2xkZTm/CYxCknsuYoe1huiAHjqOfl1DpUjrOZ9Rtr3meLmVusej03+p0ZnZ1FA0oIbN1mVQTBarQOJTijEoEY3FJVh4O0EMESYG6GfVf6FXJFQiMM2vVb/qWgxZYFL9vaWM3DBybinmK5W44Qmwk46tVFblLsvVfJaM5u1dtubPf7Z/G2P17OiiUTNPruMjd6dVH+RqFk1qLjL043uAs7QTk+ntcOEv2L9PwnT3a2eYDCUqz/GVgLDf+ce25+k849WAHaPWa4682yIT4BrRIyNUEeXFlf5BfUVGqKnZKQaDnWPzOHHqm67qiusGHAN0QaO5BXg+DW9N5USLtzEXr6c9ff5at766gyJE2iThghQsx7UFefziClVjkEKCRGSXoUIPWmXF0N83MAeplag25SJgQ6wnNbsQlfsWQ==;flgo0xQmHc/A2oEd4EIyJg=="
 ---

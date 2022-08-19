@@ -41,22 +41,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Man fatally shoots self after crashing car into barricade near US Capitol Building"
-    excerpt: "A man shot and killed himself after driving into a vehicle barricade near the US Capitol Building early Sunday morning, US Capitol Police said."
-    publishedDateTime: 2022-08-14T20:20:00Z
-    webUrl: "https://www.kitv.com/man-fatally-shoots-self-after-crashing-car-into-barricade-near-us-capitol-building/article_655a88ea-9642-51a0-911f-a5ac67b4f9e1.html"
-    ampWebUrl: "https://www.kitv.com/man-fatally-shoots-self-after-crashing-car-into-barricade-near-us-capitol-building/article_655a88ea-9642-51a0-911f-a5ac67b4f9e1.amp.html"
-    cdnAmpWebUrl: "https://www-kitv-com.cdn.ampproject.org/c/s/www.kitv.com/man-fatally-shoots-self-after-crashing-car-into-barricade-near-us-capitol-building/article_655a88ea-9642-51a0-911f-a5ac67b4f9e1.amp.html"
-    type: article
-    provider:
-      name: KITV
-      domain: kitv.com
-    quality: 38
-    images:
-      - url: "https://bloximages.newyork1.vip.townnews.com/kitv.com/content/tncms/assets/v3/editorial/a/3f/a3f5f350-b9b3-52c5-a34f-4f3ca2ab3400/62f9572956f64.image.jpg?resize=1024%2C683"
-        width: 1024
-        height: 683
-        isCached: true
   - title: "BMW denies ‘self-driving’ electric car caused deadly traffic pileup"
     excerpt: "BMW is denying a claim by German law enforcement officials that one of its self-driving electric vehicles was autonomous at the time that it veered into opposing traffic and caused a four-car"
     publishedDateTime: 2022-08-17T12:58:00Z

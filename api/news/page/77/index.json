@@ -2,6 +2,57 @@
   "page": 77,
   "value": [
     {
+      "path": "_news/2022-06-16-why-ai-could-be-the-answer-as-companies-chase-down-debt.md",
+      "title": "Why AI Could Be The Answer As Companies Chase Down Debt",
+      "excerpt": "Webio has raised $4 million of Series A funding as it capitalises on growing demand for digital technology in credit and collections",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidprosser/2022/06/16/why-ai-could-be-the-answer-as-companies-chase-down-debt/",
+      "originalUrl": "https://www.forbes.com/sites/davidprosser/2022/06/16/why-ai-could-be-the-answer-as-companies-chase-down-debt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62a9ff56e9b31aa25e09c8a9/0x0.jpg?format=jpg&crop=500,234,x0,y104,safe&width=1200",
+          "width": 500,
+          "height": 234,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2022/06/16/why-ai-could-be-the-answer-as-companies-chase-down-debt/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2022/06/16/why-ai-could-be-the-answer-as-companies-chase-down-debt/amp/",
+      "publishedDateTime": "2022-06-16T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-this-startup-wants-to-help-teams-get-more-out-of-virtual-meetings.md",
       "title": "This startup wants to help teams get more out of virtual meetings",
       "excerpt": "While major videoconferencing platforms can offer basic stuff like a record function, the winter 2020-founded startup reckons there ... e.g. by using AI to parse transcriptions and ID key ...",
@@ -1096,49 +1147,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-why-cognitive-shortfalls-are-fodder-for-humorous-gibes.md",
-      "title": "Why Cognitive Shortfalls Are Fodder for Humorous Gibes",
-      "excerpt": "The next category would include those that factor in the creation of cognitive humor. Just as physical and emotional shortcomings can be co-opted to inspire laughter intentionally, so can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/laughter-and-humor-101/202206/why-cognitive-shortfalls-are-fodder-humorous-gibes",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/laughter-and-humor-101/202206/why-cognitive-shortfalls-are-fodder-humorous-gibes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/pexels-george-becker-374918_crop.jpg?itok=qDTdkUyK",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/laughter-and-humor-101/202206/why-cognitive-shortfalls-are-fodder-humorous-gibes?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/laughter-and-humor-101/202206/why-cognitive-shortfalls-are-fodder-humorous-gibes?amp",
-      "publishedDateTime": "2022-06-15T11:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

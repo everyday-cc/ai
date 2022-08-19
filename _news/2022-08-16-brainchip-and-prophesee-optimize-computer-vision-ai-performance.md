@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-16T07:23:00Z
 originalUrl: "https://www.just-auto.com/uncategorized/brainchip-and-prophesee-optimize-computer-vision-ai-performance/"
 webUrl: "https://www.just-auto.com/uncategorized/brainchip-and-prophesee-optimize-computer-vision-ai-performance/"
 type: article
+quality: 54
+heat: 64
+published: false
 
 provider:
   name: Just Auto
@@ -15,6 +18,28 @@ topics:
   - Computer Vision
   - AI
 
-secured: "TAm0e8L+LzU1OfRY26DU3MzBQlbrhE3l9CSilYEYVZWBIIZ+CLmQUPQAYeYIngLMJTyRuaLTd0UhnKDkvrL5XQgY0mL5X+V8ZpFuKsrOf3nVl8jcOKBx6y4SFt+CiSTvFbaePxXehIAjeL9Z1jZS9NgpXPmDM3w8zCFaJqrz7BDsjv+RqBuac0cMThjP9tIqO2392G+ViCqTRRxhXtO7GncNQo31SoaGpaweuLF1enRU0LcOWcsMBkCUgwI1eV9+QSMb6GGo6KfrKVYNwbS2dRd9FMb2D/LCPkSMuqw0inMIJeibLdJYFcfPOVebdpchbPrz4IbM8YjbNn6yhB87DlJ6R8niW9ouFKontphHlro=;am36KvTydOfGK+G+AcHTiQ=="
+images:
+  - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/shutterstock_796709485-1.jpg"
+    width: 500
+    height: 247
+    isCached: true
+
+related:
+  - title: "BrainChip Empowers Next Generation of Technology Innovators with Launch of the University AI Accelerator Program"
+    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / August 16, 2022 / BrainChip Holdings Ltd (ASX:BRN) (OTCQX:BRCHF) (ADR:BCHPY), the world’s first commercial producer of neuromorphic AI IP, is bringing its neuromorphic technology into higher education institutions via the BrainChip University AI Accelerator Program,"
+    publishedDateTime: 2022-08-16T21:32:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-education-higher-3b8b8dd0be381e8eb2f6fee00f20dca8"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
+secured: "tf4M7ae8DxQmL5lhDmLymRoBganD5tHyM4ZTGlbFzJfk1cc8tJ46+pbEo2Hliklk4Mw6fZ6sZwAXV7VGy9zAlieIZHWlHKQaNfZoD0TB79WqzjA2ZgQFgOvlt4rLcxUDixLnCkPJzVlUTJRk9lwQOOzGp8ri/u2kN3yHSuKGyWlrYDsPmmShNJTqS596bE0uSWreAdozN8Jtm3DMxL7KtXghffh23n8PdchN0sKVN4lbTLr9j5+CryyEuzsSFv1FHRUeEGCGw7HEmq/VS6GI4O+qwE/Rw76Kvg+IHUq0BMvryCLb/dYntgfj9BCJ9eyqvzrrgkQvKw56OBxmOUAteniIX7A4HI14oMiAB8ZegDU=;fqMUxm2Z/i8wIWOLtyH2RQ=="
 ---
 

@@ -74,34 +74,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "How some shoppers are using artificial intelligence to halve the cost of their groceries"
-    excerpt: "Kate Singleton said online recipe subscription service Menu Aid had changed the way she shops but she had no idea the system was powered by AI technology."
-    publishedDateTime: 2022-08-14T22:57:00Z
-    webUrl: "https://www.stuff.co.nz/business/prosper/129537081/how-some-shoppers-are-using-artificial-intelligence-to-halve-the-cost-of-their-groceries"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 28
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/0/6/v/1/image.related.StuffLandscapeSixteenByNine.1420x800.254fg9.png/1660532362353.jpg"
-        width: 1420
-        height: 798
-        isCached: true
-  - title: "Here's how some shoppers are using artificial intelligence to halve the cost of their groceries"
-    excerpt: "Kate Singleton said online recipe subscription service Menu Aid has changed the way she shops, but she had no idea the system was powered by AI technology."
-    publishedDateTime: 2022-08-14T22:57:00Z
-    webUrl: "https://www.stuff.co.nz/business/prosper/129537081/heres-how-some-shoppers-are-using-artificial-intelligence-to-halve-the-cost-of-their-groceries"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 25
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/0/6/v/1/image.related.StuffLandscapeSixteenByNine.1420x800.254fg9.png/1660518262772.jpg"
-        width: 1420
-        height: 798
-        isCached: true
 
 secured: "BxGJbx9Gw8zdkq2cIN7BrP8yKx6NG+u8nUTJHDOBrTp1VXMdEhgmPAZ7qIHX8xIT9uEChGqZTPLMba3U28hdFW9DJY9aw5dT7PQ5UR1IdgGQW1GjqmIDBZil3S2ote+vIHpo+GTyGJt76T6EPwd21wqm2x+Jz2Qrk/Qyc3Z45JWto6ZI42+uX0mwm+13pKn2vb+FQLXKAT+Ozl4tHIp2sNT6ddNdl/SfRwiiIhtOxXk9GFepNeuOFJZ0udZbLGaREl8ViIDy+hrEjz9tMpKcn6RIe/TRfx+RMe51rSJBZ/A2vDdhIrWA5H6C7iX7qxHwEMSInzUTT5yqLDU/dkzz7tdaC/UQ5ZhbJsySMVChdRk=;ALXpD3Cba/DjWTy1L+lrPw=="
 ---

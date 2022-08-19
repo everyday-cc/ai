@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Machine Learning Market generalship by Technology, Solutions, Application, Price, Demand Analysis and Growth Opportunities to 2025"
+    excerpt: "Global Machine Learning Market Report focuses on the major drivers and restraints for the key players. These Research Report also provides granular analysis of the market share, segmentation, revenue forecasts and geographic regions of the market."
+    publishedDateTime: 2022-08-19T12:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-generalship-by-technology-solutions-application-price-demand-analysis-and-growth-opportunities-to-2025-2022-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Computer Vision Market Size 2022 Global Business Growth, Industry Revenue, Demand and Applications Market Research Report to 2030"
     excerpt: "Aug 16, 2022 (The Expresswire) -- Global Computer Vision Market report provides an In-Depth overview of the industry including its definition, applications and manufacturing technology."
     publishedDateTime: 2022-08-16T08:57:00Z
@@ -36,43 +50,20 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global CCaaS market revenue to reach US$16 bln by 2027 - Juniper Research"
-    excerpt: "In a statement, Juniper Research said CCaaS platforms are cloud-based solutions that provide services required to run a contact centre over multiple inbound and outbound communication channels. The research house assessed leading CCaaS platforms and evaluated them on criteria such as depth and breadth of offerings,"
-    publishedDateTime: 2022-08-15T08:30:00Z
-    webUrl: "https://www.bernama.com/en/business/news.php?id=2111115"
+  - title: "Deep Learning Market Market Size, Global Trends, Latest Techniques, Key Segments And Geography Forecasts Till 2028"
+    excerpt: "The Global “Deep Learning Market” 2022 research report presents an in-depth analysis of the Deep Learning Market size, growth, share, segments, manufacturers, and forecast, competition ..."
+    publishedDateTime: 2022-08-17T12:31:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-market-size-global-trends-latest-techniques-key-segments-and-geography-forecasts-till-2028"
     type: article
     provider:
-      name: bernama.com
-      domain: bernama.com
-    quality: 23
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
     images:
-      - url: "https://www.bernama.com/storage/photos/a4b0dfd18ae982aa09be61ef21bde33062f9fc6d81a75"
-        width: 1110
-        height: 694
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/a6ce76f71c99cdb34a0b6fc0ee9f528221756c34-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
-  - title: "Global Natural Language Processing Market Latest Trends, Size, Key Players, Revenue And Forecast 2022-2031"
-    excerpt: "Kenneth Research released a report on  Global Natural Language Processing Market  consisting of detailed analysis of the market"
-    publishedDateTime: 2022-08-18T06:04:00Z
-    webUrl: "https://menafn.com/1104716154/Global-Natural-Language-Processing-Market-Latest-Trends-Size-Key-Players-Revenue-And-Forecast-2022-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?208465"
-        width: 444
-        height: 250
-        isCached: true
-  - title: "Natural Language Processing (NLP) Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com"
-    excerpt: "The \"Natural Language Processing Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Natural Language Processing Market is projected to reach USD 40."
-    publishedDateTime: 2022-08-16T09:59:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-natural-language-processing-nlp-market-intelligence-report-global-forecast-to-2027-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 14
   - title: "Natural Language Processing Market (NLP) Demands, Key Players, Size, Growth, Trends, Technology and Forecasts to 2027 - ReportsnReports"
     excerpt: "ReportsnReports added Global Natural Language Processing (NLP) Market Report to its research database with its 336 no. of research pages report. The Natural Language Processing (NLP) Market size to grow from USD 15."
     publishedDateTime: 2022-08-19T09:53:00Z
@@ -82,50 +73,14 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 2
-  - title: "Global AI CCTV Market (2022 to 2030) - Opportunity Analysis and Industry Forecasts - ResearchAndMarkets.com"
-    excerpt: "The \"AI CCTV Market by Offering, by Camera Type, by Deployment, and by End-user - Global Opportunity Analysis and Industry Forecast, 2022 - 2030\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2022-08-16T16:16:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-global-ai-cctv-market-2022-to-2030-opportunity-analysis-and-industry-forecasts-researchandmarketscom"
+  - title: "National award for Sheffield researchers who revolutionised teaching for the next generation of speech language therapists"
+    excerpt: "Sheffield researchers who revolutionised teaching for the next generation of speech and language therapists during the pandemic have been recognised with a prestigious national award."
+    publishedDateTime: 2022-08-19T12:27:00Z
+    webUrl: "https://www.sheffield.ac.uk/news/national-award-sheffield-researchers-who-revolutionised-teaching-next-generation-speech-language"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 1
-  - title: "Global ASIC Chip Market Research Report 2022: A $34.4 Billion Market by 2027 - Trends, Forecast and Competitive Analysis - ResearchAndMarkets.com"
-    excerpt: "Trends, Forecast and Competitive Analysis\" report has been added to ResearchAndMarkets.com's offering. The global ASIC chip market is expected to reach an estimated $34.4 billion by 2027 with a CAGR of 7."
-    publishedDateTime: 2022-08-15T14:16:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-15-global-asic-chip-market-research-report-2022-a-344-billion-market-by-2027-trends-forecast-and-competitive-analysis-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
-  - title: "LAMEA Artificial Intelligence In Fintech Market to Expand by 19.2% Annually Through 2028 - ResearchAndMarkets.com"
-    excerpt: "The \"LAMEA Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment (On-premise and Cloud), By Application, By Country and Growth Forecast,"
-    publishedDateTime: 2022-08-16T13:38:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-lamea-artificial-intelligence-in-fintech-market-to-expand-by-192-annually-through-2028-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
-  - title: "Medical Ultrasound Equipment Global Market Report 2022: Artificial Intelligence at the Forefront in New Ultrasound Systems - ResearchAndMarkets.com"
-    excerpt: "The \"Medical Ultrasound Equipment - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Medical Ultrasound Equipment Market to Reach $8.2 Billion by 2026 Amid the COVID-19 crisis,"
-    publishedDateTime: 2022-08-16T12:28:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-medical-ultrasound-equipment-global-market-report-2022-artificial-intelligence-at-the-forefront-in-new-ultrasound-systems-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
-  - title: "The Worldwide Artificial Intelligence for Drug Discovery and Development Industry is Expected to Reach $4.8 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The Global Artificial Intelligence for Drug Discovery and Development Market is estimated to be USD 1.22 Bn in 2022 and is expected to reach USD 4.8 Bn by 2027, growing at a CAGR of 31.54%. Market dynamics are forces that impact the prices and behaviors of the stakeholders."
-    publishedDateTime: 2022-08-17T14:32:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-17-the-worldwide-artificial-intelligence-for-drug-discovery-and-development-industry-is-expected-to-reach-48-billion-by-2027-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
+      name: University of Sheffield
+      domain: sheffield.ac.uk
     quality: 0
 
 secured: "bQNalbEKOSc5Ko1gNejzDvrDmy9qFQxjw6JJ04gLzYfFKfYGGYdU3s2Yu5seWuDjgr4UK+86tN3MI3+aXW0u9LnuIf9UDiSMxco0eDVztrOK0cz0oJ7QI+iAtuXzAjPKkgtGVERLeDZB2g9aw90Dyf3pHz4hTDb7om3NUA/mxDUNVY9i/vTJxnmVMN8/escSLuHToFELJY4CSuNDXhiaGm243qu+Rp/+AKkt6s+i+EL20hI1omQjHtEweZHJlNx+iqbyeklhgrSGvJ1lsYdi1ALfJ8FGPDuFxV5/ghHhs267PPymuyIVUVilhBr+Y35hJX/vQBZepVwqIRKZ2vAKeME+46gtJIZE44t6pYFITRs=;xvFJypmQaXVJg0dDt3lM1Q=="

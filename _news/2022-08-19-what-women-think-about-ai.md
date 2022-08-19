@@ -75,34 +75,6 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 34
-  - title: "How some shoppers are using artificial intelligence to halve the cost of their groceries"
-    excerpt: "Kate Singleton said online recipe subscription service Menu Aid had changed the way she shops but she had no idea the system was powered by AI technology."
-    publishedDateTime: 2022-08-14T22:57:00Z
-    webUrl: "https://www.stuff.co.nz/business/prosper/129537081/how-some-shoppers-are-using-artificial-intelligence-to-halve-the-cost-of-their-groceries"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 28
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/0/6/v/1/image.related.StuffLandscapeSixteenByNine.1420x800.254fg9.png/1660532362353.jpg"
-        width: 1420
-        height: 798
-        isCached: true
-  - title: "Here's how some shoppers are using artificial intelligence to halve the cost of their groceries"
-    excerpt: "Kate Singleton said online recipe subscription service Menu Aid has changed the way she shops, but she had no idea the system was powered by AI technology."
-    publishedDateTime: 2022-08-14T22:57:00Z
-    webUrl: "https://www.stuff.co.nz/business/prosper/129537081/heres-how-some-shoppers-are-using-artificial-intelligence-to-halve-the-cost-of-their-groceries"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 25
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/0/6/v/1/image.related.StuffLandscapeSixteenByNine.1420x800.254fg9.png/1660518262772.jpg"
-        width: 1420
-        height: 798
-        isCached: true
 
 secured: "07NzN+U5gTqihfyYLRRuzwgNjPKEawCoV5hkQXOdYemGT5mQ7/aEQ7O3HiaDFcuMTmPjoubJ0yRpJMwHgYxm4DOD/ckQgZIvty7+KJeEfBZ+9eEiqeX5zV4jk2yE6UH8mFHX7mVH9r8R/89Bb698JOmHOYOW5bHhteis/IyAxJLp3XrcXKe0WUnZkr4Yvcj1I68EmwpjNxasOoCxUZeLLxqLx+2OU6T/8iXEjtYYirgz7ZsOndmnfq8k3/XlC1xG3YbUanrIT+/dslTVn9Y7Ut65l2EHeN7BEu6feKFhkWlb3gn12Tdd+vQhqqTBGU1Qq36rEOTGNOPK94WqhJo4EsWiJoeQdsX9QbF3a2M+/YFSdvZmpA5R7TqKlBlPBxFj5qQeQU8uJgkSfVuNlJ9A0/p/4fwD+v8UQytgcVFoa5zRa5vp0D0iSE1sg+09RfFwO2REoeX/P50T+iw97yfFhRSffbJItl6qnX22xNGFyy9KmlT3wXH66j315A4zY1vDznyheB4ws3bjarSQrPe+jA==;TZlnXCM0jvORRrVMYXGqIA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/962314"
 webUrl: "https://www.eurekalert.org/news-releases/962314"
 type: article
 quality: 54
-heat: 74
+heat: 84
 published: true
 
 provider:
@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Neuromorphic Chip Ramps Up AI"
+    excerpt: "Stanford engineers created a more efficient AI chip that could bring the power of AI into tiny edge devices. Stanford University engineers have created a chip that does AI processing with in-built memory,"
+    publishedDateTime: 2022-08-19T11:35:00Z
+    webUrl: "https://www.electronicsforu.com/news/neuromorphic-chip-ramps-up-ai"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 34
   - title: "The Benefits of Integrating AI and ML to Maximize Operational Efficiency"
     excerpt: "In this special guest feature, Zach Thomas, VP of Product Marketing, Conga, discusses the ways emerging technologies like AI and ML can expedite business operations to accelerate revenue. Outlined are the top benefits organizations can experience by integrating AI and ML into their operations,"
     publishedDateTime: 2022-08-17T16:14:00Z

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-19-nvidia-will-disclose-grace-hopper-architectural-details-at-hot-chips.md",
+      "title": "Nvidia will disclose Grace Hopper architectural details at Hot Chips",
+      "excerpt": "Nvidia is delivering four technical presentations at next week's Hot Chips focused on the Grace CPU, Hopper GPU, Orin SoC and NVLink.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/nvidia-will-disclose-grace-hopper-architectural-details-at-hot-chips/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/nvidia-will-disclose-grace-hopper-architectural-details-at-hot-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/nvidia-Corporate-Blog-Press-Graphic_Grace-and-Grace-Hopper.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/nvidia-will-disclose-grace-hopper-architectural-details-at-hot-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/nvidia-will-disclose-grace-hopper-architectural-details-at-hot-chips/amp/",
+      "publishedDateTime": "2022-08-19T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more.md",
       "title": "MediaTek Pentonic 700 SoC for 4K televisions announced: AI image enhancements, Dolby Vision IQ, and more",
       "excerpt": "MediaTek announced T830 chipset for routers and mobile hotspot devices. Now the Taiwanese semiconductor manufacturer has launched Pentonic 700 processor for premium and high-end televisions. Last year,",
@@ -113,7 +165,7 @@
       "originalUrl": "https://www.zdnet.com/article/self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 169,
       "tags": null,
       "images": [
         {
@@ -311,7 +363,7 @@
       "originalUrl": "https://www.zdnet.com/article/singapore-ai-startup-partners-cancer-institute-to-help-estimate-treatment-costs/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": 93,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -1082,7 +1134,7 @@
       "originalUrl": "https://www.crowdfundinsider.com/2022/08/194877-fintech-smilepay-introduces-face-payments-in-azerbaijan/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 72,
       "tags": null,
       "images": [
         {
@@ -1167,49 +1219,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-new-chip-ramps-up-ai-computing-efficiency.md",
-      "title": "New chip ramps up AI computing efficiency",
-      "excerpt": "Stanford engineers created a more efficient and flexible AI chip, which could bring the power of AI into tiny edge devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/962314",
-      "originalUrl": "https://www.eurekalert.org/news-releases/962314",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/2446fc24-c632-4f41-9db4-e0991ff11cbe/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

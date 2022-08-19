@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-ai-startup-partne
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-ai-startup-partners-cancer-institute-to-help-estimate-treatment-costs/"
 type: article
 quality: 63
-heat: 83
+heat: 93
 published: true
 
 provider:
@@ -49,6 +49,20 @@ related:
     quality: 23
     images:
       - url: "https://onecms-res.cloudinary.com/image/upload/s--xmPbQEHd--/c_crop,h_703,w_1250,x_66,y_51/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2022/08/19/chemocalcmobile.jpg?itok=3T7vTy_Q"
+        width: 1200
+        height: 676
+        isCached: true
+  - title: "New digital tool for healthcare workers to help cancer patients estimate treatment costs and subsidies | Video"
+    excerpt: "A digital calculator was launched on Friday (Aug 19) to help healthcare workers better estimate the monthly treatment costs for cancer patients, taking into consideration factors like their eligibility for government subsidy schemes."
+    publishedDateTime: 2022-08-19T14:52:00Z
+    webUrl: "https://www.channelnewsasia.com/watch/new-digital-tool-healthcare-workers-help-cancer-patients-estimate-treatment-costs-and-subsidies-video-2889821"
+    type: article
+    provider:
+      name: Channel NewsAsia Singapore
+      domain: channelnewsasia.com
+    quality: 19
+    images:
+      - url: "https://onecms-res.cloudinary.com/image/upload/s--v3IQMnU6--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/cna/image/2022/08/19/79055845-6deb-4afe-8a1b-aebf3a9d8984.png?itok=5m0R2iNS"
         width: 1200
         height: 676
         isCached: true

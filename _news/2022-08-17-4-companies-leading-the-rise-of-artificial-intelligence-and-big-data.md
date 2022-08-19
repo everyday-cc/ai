@@ -108,6 +108,15 @@ related:
         width: 2156
         height: 1120
         isCached: true
+  - title: "AI Ethics Wary About Worsening Of AI Asymmetry Amid Humans Getting The Short End Of The Stick"
+    excerpt: "AI Asymmetry is getting larger and one controversial solution seems to be arming more with AI in a ... [+] fight fire-with-fire uneasy approach. Sometimes you are on the wrong end of the stick. That colloquialism can be applied to the notion of asymmetry."
+    publishedDateTime: 2022-08-19T12:17:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/19/ai-ethics-wary-about-worsening-of-ai-asymmetry-amid-humans-getting-the-short-end-of-the-stick/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 53
   - title: "Pitching with Artificial intelligence"
     excerpt: "Pressfriendly offers a similar service for startups by using AI to review beat reporters' past coverage and open rates. This intel helps identify the best send times and will increase the likelihood of pickup,"
     publishedDateTime: 2022-08-18T15:58:00Z

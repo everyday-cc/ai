@@ -94,6 +94,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "UC San Diego: A New Neuromorphic Chip for AI on the Edge, at a Small Fraction of the Energy and Size"
+    excerpt: "An international team of researchers has designed and built a chip that runs computations directly in memory and can run a wide variety of AI applications–all at a fraction of the energy consumed by computing platforms for general-purpose AI computing."
+    publishedDateTime: 2022-08-19T07:05:00Z
+    webUrl: "https://indiaeducationdiary.in/uc-san-diego-a-new-neuromorphic-chip-for-ai-on-the-edge-at-a-small-fraction-of-the-energy-and-size/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 19
 
 secured: "fTv1J3zVKC24uRW7k7yXCH8zbD9+YNQ2pL2jBXbn5S6MNBBAFycDTYVTaVY79GH1vneHlboSEmc0kn6xDPNjn5+nzcpNypWXpIeOO8PMd2KpvJdVtKcum9NATQQhwIfFBofvZl6cMnX017p675J1mhPBHz2ANuaIBVmB2bqMXLLKLGOh1Vqoprp+yjLnwMHIpvlINkQhacV0UG3lqPDHbjD2/aHhLPGklLnilUR2QmkvI2BxBQcQ3LqUbOaMZjoy49nRWUit7mT/hu3lYXVjS9ZE7mM2huGiUcv8hf2I4Y5pS7/caPS801Q1QA4PpALrl0DaDCqjBTA/RmYfnDVq31JpCQu9MHwMAVt0X/cF5VmJ4iMTtquuu3h6oykP6F4/4eG27FJKT0oXR6tDIjLZUilzUp9Zal3GkWl7bckorsHqzlA4r5e+8949w0h8DYfXP4SAr5tjZSj9v1+is37HZbe2mr9aAe6tGLKDlAoUfKfilhYOiwQlkhMw8/Rw7fZk+ypAtD8hY9ZlG8KRMbqMwQ==;pR8yTAgF8q4CE7Ua6Lr2Pg=="
 ---

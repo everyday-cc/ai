@@ -39,6 +39,24 @@ related:
         width: 1800
         height: 1010
         isCached: true
+  - title: "Jason Simon explains the benefits artificial intelligence offers the FinTech space"
+    excerpt: "FinTech presents an important variety of technologies such as financial services through software, such as online banking, mobile payment applications, mobile wallets, blockchain and even cryptocurrencies."
+    publishedDateTime: 2022-08-19T15:51:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/webwire-2022-8-19-jason-simon-explains-the-benefits-artificial-intelligence-offers-the-fintech-space"
+    type: article
+    provider:
+      name: Buffalo News
+      domain: buffalonews.com
+    quality: 28
+  - title: "Fintech-focused Cape Town Stock Exchange raises R85m"
+    excerpt: "The oversubscribed round was led by Imvelo Ventures, with participation from Lebashe, Pallidus, Shaolin and Gary Stroebel."
+    publishedDateTime: 2022-08-19T13:45:00Z
+    webUrl: "https://www.itweb.co.za/content/8OKdWqDXEmaqbznQ"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 19
   - title: "Global Alternative Investment Management Launches FinTech Fund II"
     excerpt: "Appleton, Wis.-based private fund management company Global Alternative Investment Management has launched FinTech Fund II, which is available to Qualified Purchasers"
     publishedDateTime: 2022-08-18T10:10:00Z
@@ -66,6 +84,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 1
+  - title: "LAMEA Artificial Intelligence In Fintech Market to Expand by 19.2% Annually Through 2028 - ResearchAndMarkets.com"
+    excerpt: "The \"LAMEA Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment (On-premise and Cloud), By Application, By Country and Growth Forecast,"
+    publishedDateTime: 2022-08-16T13:38:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-lamea-artificial-intelligence-in-fintech-market-to-expand-by-192-annually-through-2028-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "aUXfQsggdBL7LzSfsqDlaEWdXzE9JWuTiHXn/Iw1BavA1FN7grSFkMoa+o/Qgw4VhutjtYPI8GUAmXoj1qlogOZ5wvvquLq1bCCYgGPExnMtYREZJD97/ArrKDy10RTqWxXn7sClWerWIaZLCTtg24BEzm8keQq6hNGc6/RojO5jbT//W3Uf4Nq/21K37umG212kfpyrfcyZV946WX9Btc08EWRuVqCIOS51Ko/eC9c/DgQxMNpGW67lizitrBaafUsF4I/OpI3OQ7+QENvTksCxM07ZEy+MRIlOyhk/Wr2mqHCP0MMKdzPYSoTmDBOmwxvRRwyI0a5Tj7pqIef/TtGHcPnYFdHSKmDGSsQNGVQ=;Mo1ekEXdNFuOV9dOe/sEMQ=="
 ---

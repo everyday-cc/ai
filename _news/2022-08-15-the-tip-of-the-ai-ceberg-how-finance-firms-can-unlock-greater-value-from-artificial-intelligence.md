@@ -75,34 +75,6 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 34
-  - title: "How some shoppers are using artificial intelligence to halve the cost of their groceries"
-    excerpt: "Kate Singleton said online recipe subscription service Menu Aid had changed the way she shops but she had no idea the system was powered by AI technology."
-    publishedDateTime: 2022-08-14T22:57:00Z
-    webUrl: "https://www.stuff.co.nz/business/prosper/129537081/how-some-shoppers-are-using-artificial-intelligence-to-halve-the-cost-of-their-groceries"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 28
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/0/6/v/1/image.related.StuffLandscapeSixteenByNine.1420x800.254fg9.png/1660532362353.jpg"
-        width: 1420
-        height: 798
-        isCached: true
-  - title: "Here's how some shoppers are using artificial intelligence to halve the cost of their groceries"
-    excerpt: "Kate Singleton said online recipe subscription service Menu Aid has changed the way she shops, but she had no idea the system was powered by AI technology."
-    publishedDateTime: 2022-08-14T22:57:00Z
-    webUrl: "https://www.stuff.co.nz/business/prosper/129537081/heres-how-some-shoppers-are-using-artificial-intelligence-to-halve-the-cost-of-their-groceries"
-    type: article
-    provider:
-      name: Stuff.co.nz
-      domain: stuff.co.nz
-    quality: 25
-    images:
-      - url: "https://resources.stuff.co.nz/content/dam/images/4/z/0/6/v/1/image.related.StuffLandscapeSixteenByNine.1420x800.254fg9.png/1660518262772.jpg"
-        width: 1420
-        height: 798
-        isCached: true
 
 secured: "aOGSEAtBkJC3mbvy0aoZqdeEAoeNWaejffX9477Uur8v963wjNbccJv+R00frCl0qqTh1tJCACE9P6yicnb4ICpC6DFntfIUuz4Eb8y62yP894rz6J92qV4JD77WBDGp5548xitOMT5nmWlnl28ZRV2OBwq2Azoj4/eZ+hyD8bJX39vIztm4hiUjWBq4nNXHs/Va/W6W2I2YiLwwkDvGw+zDiClQT0oC9lwQd4QW5roxpv3BFWpHAGCZERaYRJ43708SZK7kNhTauSUv99hfhzJXHNI+4GmIRjIE5682c6ZXdwnBqo9d5ftbvc4zm2yKHwzt5qzM0mlgZeK4jO7JLK7WFje7Byj+YQ4PzO8sAhg=;vEBOZF6O3SRQkyn4SuXOJA=="
 ---

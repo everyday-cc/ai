@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-19T12:46:00Z
 originalUrl: "https://gulfnews.com/uae/dubai-using-artificial-intelligence-to-help-keep-water-network-flowing-smoothly-1.90009724"
 webUrl: "https://gulfnews.com/uae/dubai-using-artificial-intelligence-to-help-keep-water-network-flowing-smoothly-1.90009724"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: Gulf News
