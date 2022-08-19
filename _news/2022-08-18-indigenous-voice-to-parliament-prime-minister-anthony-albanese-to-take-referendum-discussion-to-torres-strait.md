@@ -87,6 +87,20 @@ related:
         width: 704
         height: 396
         isCached: true
+  - title: "PM discusses climate change and Voice to Parliament during Torres Strait visit"
+    excerpt: "The Prime Minister heard concerns about climate change, jobs, housing and a voice to parliament whilst speaking with community members in the Torres Strait."
+    publishedDateTime: 2022-08-19T01:50:00Z
+    webUrl: "https://www.sbs.com.au/nitv/article/2022/08/19/pm-discusses-climate-change-and-voice-parliament-during-torres-strait-visit"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 35
+    images:
+      - url: "https://www.sbs.com.au/nitv/sites/sbs.com.au.nitv/files/styles/network_tile/public/shorthand_images/saltmother.jpg?itok=pLSxJ02_&mtime=1557954136"
+        width: 300
+        height: 250
+        isCached: true
   - title: "Torres Strait talking: strong Indigenous voice, less red tape"
     excerpt: "Torres Strait Island residents will tell Anthony Albanese they are over-governed and under-represented when he visits Thursday Island to discuss Labors plan for an Indigenous voice to parliament."
     publishedDateTime: 2022-08-17T09:25:00Z

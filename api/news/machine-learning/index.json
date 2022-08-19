@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-19-when-we-might-meet-the-first-intelligent-machines.md",
+      "title": "When we might meet the first intelligent machines",
+      "excerpt": "LeCun’s paper on intelligent machines is defining AI like Alan Turing’s 1936 paper defined the modern digital computer.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/when-we-might-meet-the-first-intelligent-machines/",
+      "originalUrl": "https://venturebeat.com/ai/when-we-might-meet-the-first-intelligent-machines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1323774184.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/when-we-might-meet-the-first-intelligent-machines/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/when-we-might-meet-the-first-intelligent-machines/amp/",
+      "publishedDateTime": "2022-08-18T20:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-pairaphrase-integrates-amazon-translates-engine-into-its-tms-software.md",
       "title": "PAIRAPHRASE INTEGRATES AMAZON TRANSLATE’S ENGINE INTO ITS TMS SOFTWARE",
       "excerpt": "Enterprise language translation software company Pairaphrase has integrated Amazon Web Services’ machine translation engine into its premium translation software solution. Its users now have the option to translate with Amazon Translate to create custom translations,",
@@ -143,7 +195,7 @@
       "originalUrl": "https://venturebeat.com/ai/best-practices-for-building-machine-learning-platforms-on-the-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -1416,60 +1468,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-ghost-security-reinvents-app-security-with-unsupervised-machine-learning.md",
-      "title": "Ghost Security reinvents app security with unsupervised machine learning",
-      "excerpt": "Ghost Security is using an unsupervised machine learning approach in an industry where most app security products use supervised ML.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-robot_machine_learning_AI_1323774184-e1659571276418.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/amp/",
-      "publishedDateTime": "2022-08-04T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI in Security"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-a
 cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-albanese-torres-strait/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://www.sbs.com.au/nitv/sites/sbs.com.au.nitv/files/styles/full/public/20220815001690198787-minihighres.jpg?itok=M2nNdOIg"
         width: 704
         height: 396
+        isCached: true
+  - title: "PM discusses climate change and Voice to Parliament during Torres Strait visit"
+    excerpt: "The Prime Minister heard concerns about climate change, jobs, housing and a voice to parliament whilst speaking with community members in the Torres Strait."
+    publishedDateTime: 2022-08-19T01:50:00Z
+    webUrl: "https://www.sbs.com.au/nitv/article/2022/08/19/pm-discusses-climate-change-and-voice-parliament-during-torres-strait-visit"
+    type: article
+    provider:
+      name: SBS
+      domain: sbs.com.au
+    quality: 35
+    images:
+      - url: "https://www.sbs.com.au/nitv/sites/sbs.com.au.nitv/files/styles/network_tile/public/shorthand_images/saltmother.jpg?itok=pLSxJ02_&mtime=1557954136"
+        width: 300
+        height: 250
         isCached: true
   - title: "Torres Strait talking: strong Indigenous voice, less red tape"
     excerpt: "Torres Strait Island residents will tell Anthony Albanese they are over-governed and under-represented when he visits Thursday Island to discuss Labors plan for an Indigenous voice to parliament."

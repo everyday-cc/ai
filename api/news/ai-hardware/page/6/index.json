@@ -2,6 +2,51 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-02-green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.md",
+      "title": "GREEN500 Supercomputer Powering Robot Scientists and Transformational Machine Learning",
+      "excerpt": "England’s University of Cambridge was recognized at the ISC 2022 event in Hamburg, Germany for its Dell-based Wilkes-3 supercomputer, rated 8 in the GREEN500 and 304 in the TOP500, and Cumulus system,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html",
+      "originalUrl": "https://www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/06/green-500.jpeg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 671,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html/amp",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/400206/green500-supercomputer-powering-robot-scientists-and-transformational-machine-learning.html/amp",
+      "publishedDateTime": "2022-06-02T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-the-battle-of-ai-processors-begins-in-2018.md",
       "title": "The Battle of AI Processors Begins in 2018",
       "excerpt": "Are GPU's Destined for AI? Which brings us to GPUs. Call it a happy accident or serendipity. But GPU makers have found themselves holding the technology that could be at the forefront of the AI revolution. Once thought of as a complementary unit to CPUs ...",
@@ -1315,40 +1360,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-brainchip-joins-arm-ai-partner-program.md",
-      "title": "BrainChip Joins Arm AI Partner Program",
-      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / May 22, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of ultra-low power neuromorphic AI IP, announced today it has been accepted into the Arm ® AI Partner Program,",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-22-brainchip-joins-arm-ai-partner-program",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/accesswire-2022-5-22-brainchip-joins-arm-ai-partner-program",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-22T16:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -60,6 +60,20 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
+  - title: "What women think about AI"
+    excerpt: "Organizations that can bring more women into their AI teams can not only bring much-needed gender equality to the field but also bring more value to their business and customers.” That said, if tech,"
+    publishedDateTime: 2022-08-19T03:47:00Z
+    webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk19082022.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 39
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/07/20/original/TechTalk_logo_1658338696231.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "How some shoppers are using artificial intelligence to halve the cost of their groceries"
     excerpt: "Kate Singleton said online recipe subscription service Menu Aid had changed the way she shops but she had no idea the system was powered by AI technology."
     publishedDateTime: 2022-08-14T22:57:00Z

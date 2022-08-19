@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "The Benefits of Integrating AI and ML to Maximize Operational Efficiency"
-    excerpt: "In this special guest feature, Zach Thomas, VP of Product Marketing, Conga, discusses the ways emerging technologies like AI and ML can expedite business operations to accelerate revenue. Outlined are the top benefits organizations can experience by integrating AI and ML into their operations,"
-    publishedDateTime: 2022-08-17T16:14:00Z
-    webUrl: "https://insidebigdata.com/2022/08/17/the-benefits-of-integrating-ai-and-ml-to-maximize-operational-efficiency/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 33
   - title: "Leading AI expert’s keynote lecture at Concordia will explore the past, present and future of deep learning"
     excerpt: "Yoshua Bengio will also receive the 2022 Pierre Devijver Award for his work on statistical pattern recognition"
     publishedDateTime: 2022-08-17T18:12:00Z

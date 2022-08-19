@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Gaming and Esports Startup Regression Games Raises $4.2M in Seed Funding from NEA and a16z"
-    excerpt: "AI Gaming and Esports Startup Regression Games Raises $4.2M in Seed Funding from NEA and a16z Aug 15, 2022 (PRNewswire via COMTEX) -- PR"
-    publishedDateTime: 2022-08-15T14:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-gaming-and-esports-startup-regression-games-raises-42m-in-seed-funding-from-nea-and-a16z-2022-08-15"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Regression Games raises $4.2M for AI gaming and esports"
     excerpt: "The Philadelphia startup is the brainchild Vontell, a graduate of the Massachusetts Institute of Technology who helped create Battlecode, an AI gaming competition for students. Ba"
     publishedDateTime: 2022-08-15T13:30:00Z
@@ -47,6 +33,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 47
+  - title: "AI Gaming and Esports Startup Regression Games Raises $4.2M in Seed Funding from NEA and a16z"
+    excerpt: "Regression Games, the AI gaming and esports company, today announced it has closed $4.2M in seed funding led by New Enterprise Associates (NEA) with participation from Andreesen Horowitz (a16z), BBQ Capital,"
+    publishedDateTime: 2022-08-15T16:30:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ai-gaming-and-esports-startup-regression-games-raises-4-2m-in-seed-funding-from-nea-and-a16z-1031684331"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 36
 
 secured: "VvP8GODvmYlEUcFTq7tfmEZD7cRQ/BJP1CmiUQNZL80FCTP5OXrNVv8fSZkj5hB52QVIkfQbX25A7U3mJTsdvSPx+Al5jIcwfBfHAugtYm/PFBxIH/mRTyq12ipQEshLL2Cor5U3uUUkWwwpux5QzuFghppHZ2TMcv59qtgciZeafwc1ewH5RkkPJkXkNHaBr/GAwIb69f9d8HwnQT1NmxdzlR+G8jWPqG0261LXElMdVoCJZa5he5mPPTIFTgT5LsBy6smUfMRUE/yQ1XClFUw92PzPW9kuzkKBBSHNqjr3ZZ40ZeQUoOMdyMJ7b89mf1hH0eH6a0BDQ4wfRGrq0EqmEl9PYFx5S3EhJqgS+xI=;iwsprOJEa+zvMk7Xe61EvQ=="
 ---

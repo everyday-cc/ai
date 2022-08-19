@@ -2,6 +2,59 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-28-cyber-security-in-robotics-market-2022-key-players-end-user-demand-and-consumption-by-2029.md",
+      "title": "Cyber Security in Robotics Market 2022 Key Players, End User, Demand and Consumption by 2029",
+      "excerpt": "The Cyber Security in Robotics Marketis slated to top US$ 3.5 Bn in 2022 and Expand at a healthy 11.0% CAGR, the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cyber-security-in-robotics-market-2022-key-players-end-user-demand-and-consumption-by-2029-2022-06-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/cyber-security-in-robotics-market-2022-key-players-end-user-demand-and-consumption-by-2029-2022-06-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T22:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-robotic-arms-connected-directly-to-brain-of-partially-paralyzed-man-allows-him-to-feed-himself.md",
       "title": "Robotic arms connected directly to brain of partially paralyzed man allows him to feed himself",
       "excerpt": "In less than 90 seconds, a person with very limited upper body mobility who hasn’t been able to use his fingers in about 30 years, just fed himself dessert using his mind and some smart robotic ...",
@@ -1268,50 +1321,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-botz-a-strong-cocktail-of-robotics-and-ai-for-the-long-term.md",
-      "title": "BOTZ: A Strong Cocktail Of Robotics And AI For The Long Term",
-      "excerpt": "With its exposure to high valuation IT and industrial stocks, BOTZ has suffered from considerable downside from the start of this year. Learn more here.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4519507-botz-a-strong-cocktail-of-robotics-and-ai-for-the-long-term",
-      "originalUrl": "https://seekingalpha.com/article/4519507-botz-a-strong-cocktail-of-robotics-and-ai-for-the-long-term",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1314271305/image_1314271305.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T09:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

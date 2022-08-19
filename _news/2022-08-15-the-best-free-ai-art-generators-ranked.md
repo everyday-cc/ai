@@ -54,6 +54,20 @@ related:
         width: 750
         height: 451
         isCached: true
+  - title: "What women think about AI"
+    excerpt: "Organizations that can bring more women into their AI teams can not only bring much-needed gender equality to the field but also bring more value to their business and customers.” That said, if tech,"
+    publishedDateTime: 2022-08-19T03:47:00Z
+    webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk19082022.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 39
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/07/20/original/TechTalk_logo_1658338696231.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "10 AI healthcare startups with the most funding"
     excerpt: "Boston-based company DataRobot uses AI to help businesses cut costs. The company raised $700 million over all investment rounds. Delphia — A Toronto-based startup. Delphia uses AI to help analyze datasets."
     publishedDateTime: 2022-08-15T16:14:00Z

@@ -47,6 +47,22 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Driverless cars: Experts warn no easy answer to how safe they should be"
+    excerpt: "There is no easy answer as to how safe self-driving cars should be, an adviser to a new government-backed report has told the BBC. The Centre for Data Ethics and Innovation (CDEI) report warns that it might not be enough for self-driving cars to be safer than human drivers."
+    publishedDateTime: 2022-08-18T23:17:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-62598618?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-62598618.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-62598618.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/310D/production/_126375521_selfdrivinggettyimages-928081066.jpg"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "YTEOJXnGuO0LIORXXmgiY3RU83U3WJcOakL+qEP3ZS4RzTXWWaV3H3LQxIyZgELfnbZ8J6DZXZHhUIGMQvO7BAdlu41ImLyEwPRQTOOU5XUGQBxchFLwlb8YOGWSW9EG4PAfmNCapnErb/lMn63i3668992C9tKko7JwPoM3SY4hg5uDQY4Qm6FbeTSiF2G4/YE8KyFvWdLoNlOASVvH0ouZRiDIvxntqa7baDu7ll5l9bnLunNVfqpYrK1ywdmrsMKT79lrO9pvbdtBosi3gZhIx9TO6jRjNC1Xdmy8kI2DFZEcCSE2TwZW3Q3YAQIaT4B609aXewOujLKhCSMqCRH1GOfH0ilJLxQZ0hVkzFo=;MqtL7T1dkGH2+beKqi+H3g=="
 ---

@@ -2,6 +2,144 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2022-07-02-could-artificial-intelligence-replace-therapists.md",
+      "title": "Could Artificial Intelligence Replace Therapists?",
+      "excerpt": "Artificial Intelligence (AI) in the Role of a Psychologist ... technology can be used as an effective tool for psychological therapy. Further, if people who interact with LaMDA believe it is ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2022-07/blue_planet_studio_shutterstock.jpg?itok=vp9Js1ws",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/understanding-hypnosis/202207/could-artificial-intelligence-replace-therapists?amp",
+      "publishedDateTime": "2022-07-02T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems.md",
+      "title": "AI Ethics Starkly Questioning Human Voice Cloning Such As Those Of Your Deceased Relatives, Intended For Use In AI Autonomous Systems",
+      "excerpt": "AI Ethics questioning whether human voice cloning such as using your deceased relatives is appropriately being used in AI autonomous systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/02/ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/02/ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62bb86dbc92b5006564a638a/0x0.jpg?format=jpg&crop=2032,1354,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/02/ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/02/ai-ethics-starkly-questioning-human-voice-cloning-such-as-those-of-your-deceased-relatives-intended-for-use-in-ai-autonomous-systems/amp/",
+      "publishedDateTime": "2022-07-02T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-afghan-clerics-assembly-urges-recognition-of-taliban-govt.md",
+      "title": "Afghan clerics' assembly urges recognition of Taliban govt",
+      "excerpt": "A three-day assembly of Islamic clerics and tribal elders in Kabul has concluded with pledges of support for the Taliban and calls on the international community to recognize Afghanistan's Taliban-led",
+      "sourceUrl": null,
+      "webUrl": "https://www.kiro7.com/news/world/afghan-clerics/MHDJCUQR4UOFBC6D6PHAE26RQM/",
+      "originalUrl": "https://www.kiro7.com/news/world/afghan-clerics/MHDJCUQR4UOFBC6D6PHAE26RQM/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cmg-cmg-tv-10090-prod.cdn.arcpublishing.com/resizer/Wcx87xW8MAGf289iTJnXeZyWWxs=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/7NKFPNIO6R2AL5OARFNSYMYQVM.jpg",
+          "width": 1440,
+          "height": 810,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kiro7.com/news/world/afghan-clerics/MHDJCUQR4UOFBC6D6PHAE26RQM/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-kiro7-com.cdn.ampproject.org/c/s/www.kiro7.com/news/world/afghan-clerics/MHDJCUQR4UOFBC6D6PHAE26RQM/?outputType=amp",
+      "publishedDateTime": "2022-07-02T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KIRO-TV",
+        "domain": "kiro7.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-02-support-vector-machines-lead-machine-learning-models-in-predicting-liver-decompensation.md",
       "title": "Support vector machines lead machine learning models in predicting liver decompensation",
       "excerpt": "Disclosures: Healio was unable to confirm relevant financial disclosures at the ... subset of patients in Germany compared with other machine learning models, according to data presented at ...",
@@ -955,152 +1093,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-futuristic-driverless-taxis-are-already-causing-major-issues.md",
-      "title": "Futuristic Driverless Taxis Are Already Causing Major Issues",
-      "excerpt": "The GM-backed driverless car company has been operating a commercial robotaxi service in the city since securing a permit back in early June 2022, but a Cruise traffic jam gnarled up one street ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.slashgear.com/914406/futuristic-driverless-taxis-are-already-causing-major-issues/",
-      "originalUrl": "https://www.slashgear.com/914406/futuristic-driverless-taxis-are-already-causing-major-issues/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.slashgear.com/img/gallery/futuristic-driverless-taxis-are-already-causing-major-issues/l-intro-1656689423.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T08:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SlashGear",
-        "domain": "slashgear.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-ai-powered-photo-stock-startup-wirestock-lands-partnership-with-getty-images.md",
-      "title": "AI-powered photo stock startup Wirestock lands partnership with Getty Images",
-      "excerpt": "As a stock photographer, taking great photos is often only just a tiny part of the job. To run a successful business, keywording, categorizing, captioning, and all the other admin that goes with it can take up almost as much time.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/01/wirestock-getty/",
-      "originalUrl": "https://techcrunch.com/2022/07/01/wirestock-getty/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Weird-Stock-Photography-Haje-Kamps-websize.jpeg?w=1024",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/01/wirestock-getty/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/01/wirestock-getty/amp/",
-      "publishedDateTime": "2022-07-01T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-can-machine-learning-help-diagnose-alcohol-associated-hepatitis.md",
-      "title": "Can Machine Learning Help Diagnose Alcohol-associated Hepatitis",
-      "excerpt": "Machine learning algorithms using a few simple variables can help patients with alcohol-associated hepatitis. Acute cholangitis is a potentially life-threatening bacterial infection often associated with gallstones.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
-      "originalUrl": "https://www.medindia.net/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/sunshine-vitamin-liver.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
-      "publishedDateTime": "2022-07-01T08:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -19,29 +19,34 @@ topics:
   - Machine Learning
 
 related:
-  - title: "Machine Learning and the Future of Efficient Data Science Configurations"
-    excerpt: "As machine learning (ML) becomes the norm of the data industry, it's clear that its potential is limited within current data structures. Tabular data strategies have decreased in efficiency, as they lack the ability to acknowledge relationships interconnecting various data points."
-    publishedDateTime: 2022-08-17T15:44:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Machine-Learning-and-the-Future-of-Efficient-Data-Science-Configurations-154439.aspx"
+  - title: "New chip ramps up AI computing efficiency"
+    excerpt: "Stanford engineers created a more efficient and flexible AI chip, which could bring the power of AI into tiny edge devices."
+    publishedDateTime: 2022-08-18T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/962314"
     type: article
     provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 38
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 54
     images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/2446fc24-c632-4f41-9db4-e0991ff11cbe/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
         isCached: true
-  - title: "Leading AI expert’s keynote lecture at Concordia will explore the past, present and future of deep learning"
-    excerpt: "Yoshua Bengio will also receive the 2022 Pierre Devijver Award for his work on statistical pattern recognition"
-    publishedDateTime: 2022-08-17T18:12:00Z
-    webUrl: "https://www.concordia.ca/cunews/main/stories/2022/08/17/leading-ai-expert-s-keynote-lecture-at-concordia-will-explore-the-past-present-and-future-of-deep-learning.html"
+  - title: "LM Exchange significantly improved its efficiency and regulatory compliance by adopting AI-aided technology"
+    excerpt: "With the help of Effiya’s dynamic risk assessment platform, robust sanctions screening and transaction monitoring solution"
+    publishedDateTime: 2022-08-15T10:06:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/lm-exchange-significantly-improved-its-efficiency-and-regulatory-compliance-by-adopting-ai-aided-technology-jmgk5tu2"
     type: article
     provider:
-      name: Concordia University
-      domain: concordia.ca
-    quality: 16
+      name: Zawya
+      domain: zawya.com
+    quality: 19
+    images:
+      - url: "https://static.zawya.com/version/c:MTg4YWY2MzQtM2QxZi00:MjM0NjY4/lm_1660544807-jpg.JPG?f=3%3A2"
+        width: 900
+        height: 600
+        isCached: true
 
 secured: "tp5v9/I2/uJFtvDSlp8gLW4Je5XiZR7i1XYszJlia7nJ+FbH/OEsBwBJsswnMCd6Flgx4xZYAfwBhdw7B12NaZ5C/JiwekQSNz9CPUuDWX52qtU+E5chRke0Df3etzAFJI6cwzlT6X6zWLXdAesSozHuBm6OsW3r7+DpagPHR+tlz5iqE4Bk9iLqfyiiP4bESJqgjSnzt9HDpHYoQng6MKqAAXu/7KUrcUa2oUEENgkNBPNjIvNTQBlZhhcvgtMgQTt12Ltr7HD2J58XRipGjqPnIKhM22nY1aBn2YqoVcaHfcJB5BRLNIwY/hRqiT14GHSjeXLvbYctIZg5K0JgXkV9iNGC9q6WgaGsdLZtuC07QNQw7+z6Hy3JUzQSP02ovIXRjkKcTFKpcE6EnyMHVUnTZUN2Vpcqs9UgORzV1pbvr9YtNqUBOsErnALKbrKASsYMwFdQeujg0DHUCaw0/rKgwj3LBB0VXMPdcCCTj4kwJv1ctixJNJr65zAHONBdQg8TfdFNc2v6lEyd04E0mA==;q4O5fqf1WdiSUoJGuAoj9Q=="
 ---

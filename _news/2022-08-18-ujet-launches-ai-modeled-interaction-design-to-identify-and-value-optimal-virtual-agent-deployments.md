@@ -1,22 +1,47 @@
 ---
 category: news
 title: "UJET Launches AI-Modeled Interaction Design to Identify and Value Optimal Virtual Agent Deployments"
-excerpt: "Innovative Cloud Contact Center Provider Enables Brands to Massively Scale and Continually Improve Virtual Agent Interactions. UJET, Inc., the world’s most advanced cloud contac"
-publishedDateTime: 2022-08-18T13:55:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-18-ujet-launches-ai-modeled-interaction-design-to-identify-and-value-optimal-virtual-agent-deployments"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-18-ujet-launches-ai-modeled-interaction-design-to-identify-and-value-optimal-virtual-agent-deployments"
+excerpt: "UJET, Inc., the world's most advanced cloud contact center provider, today announces advanced AI-guided customer service operations that leverage hundreds of thousands of customer insights to drive enhanced customer experience (CX) capabilities and automated virtual agent responses."
+publishedDateTime: 2022-08-18T15:23:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/08/18/9658804.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/08/18/9658804.htm"
 type: article
 quality: 3
-heat: 3
+heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-secured: "HlQMu+lCznfhOBcNiX5Kn/k2/lhNl9H/lxeWTkCwYng+1djZONvWFFjnXKfrO9dhdBmMOl3fp/fxULzJ/5QURCYAdSpYmusvhyD9A+vbeUAa5XwUUhx+l088w9goGR6spdH4P5ojRFhQV8DPPTBo9gWLzzu//Q+5096pY2PIO2ifxXpCmxjMT7w2ukMTc5G7/1U/kVoY9i0zQTEJbOJuzu4pEw7eFyHvnY64hOTVCiVsknJdoKcF4hq42iF+8SoA9MyXEWUPo4U3rIhncXSoz4q8wL9w8R/SkaVpHS+Y42HSjl4MHMmyn2mrlwtbcrMmNn1qpT0nCmzqnbvsVwVkpwHIBF0kKeoejOnIBh7QQ20=;+CWXv/Lg3zY1XxQ2a6Auuw=="
+related:
+  - title: "Rad Intelligence (RAD AI) and LA HOPE DEALER Join Forces to Integrate AI-infused Street Art and Marketing"
+    excerpt: "RAD INTELLIGENCE (RAD AI) and LA HOPE DEALER today announced the formation of a strategic partnership designed to conceive and execute authentic, purpose-driven brand campaigns through the combination of creator marketing,"
+    publishedDateTime: 2022-08-18T14:11:00Z
+    webUrl: "https://www.joplinglobe.com/region/national_business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street/article_428c5caa-61b5-5cc5-b3bb-cdc2d0b62653.html"
+    type: article
+    provider:
+      name: Joplin Globe
+      domain: joplinglobe.com
+    quality: 37
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/8/63/863182f0-42eb-5b67-8383-130d4fcbd03c/62fe4af51135f.image.jpg?crop=1236%2C649%2C0%2C168&resize=1200%2C630&order=crop%2Cresize"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Torch.AI & Vertosoft Join Forces to Optimize Data Infrastructure with AI for 100+ New Customers Across the U.S. Government"
+    excerpt: "Torch.AI, pioneers of data infrastructure AI, announced today a partnership with Vertosoft to accelerate the adoption of next-generation artificial intelligence (AI) and data infrastructure software capabilities across the U."
+    publishedDateTime: 2022-08-18T11:23:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/08/18/9658392.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
+secured: "xqP5FVXHk5gQy4uTa6hLFnpo9RYrQ92DdixRqKBDrqGbycnVY77m5zKarnVwISyzDwbUctdapm5Re80e3mQl3drEhLH0pFLbw6ljndY4ZuTmlB1lluVJZxgsNV5BiBUslDlrcK5gl8kRTxHM+rZdG+uQjwuGHexbbZLMtb7qrs+urCOYmPyv3yAKwMkfud3s5wsejmkcyfRDTtL0Xg9mZTXLKYYalLwUs+x+/d/g68xff5v2Qs1ym5pmD6DybjjqG/p2HMxdB0q5GZK68Jb2LCFi1h75RWcHOI0SEiIYncFSbBYKtqRiII08Yp977sW1CRZAUtNZDG+Sz8Ok7jgr9Q3Wvi+Zxumm9XbH+db3rGA=;8QVoOxtkUa4oZn3i6JQJZQ=="
 ---
 

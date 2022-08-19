@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Who Will Establish Metaverse Ethics?"
+    excerpt: "The“metaverse” is not here yet, and when it arrives it will not be a single domain controlled by any one company. Facebook wanted to cre"
+    publishedDateTime: 2022-08-19T03:34:00Z
+    webUrl: "https://menafn.com/1104722652/Who-Will-Establish-Metaverse-Ethics"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?871475"
+        width: 400
+        height: 250
+        isCached: true
   - title: "Advertisers Need More Than AI. They Need Diverse Human Talent"
     excerpt: "To make the most of AI, advertisers must diversify data analytics teams to bring varied perspectives and talents to data collection and decision-making."
     publishedDateTime: 2022-08-15T04:45:00Z

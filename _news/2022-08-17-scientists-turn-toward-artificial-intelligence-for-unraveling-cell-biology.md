@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-16T18:07:00Z
 originalUrl: "https://www.news-medical.net/news/20220816/Scientists-turn-toward-artificial-intelligence-for-unraveling-cell-biology.aspx"
 webUrl: "https://www.news-medical.net/news/20220816/Scientists-turn-toward-artificial-intelligence-for-unraveling-cell-biology.aspx"
 type: article
-quality: 35
-heat: 35
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
