@@ -78,6 +78,22 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "How AI could transform financial services in emerging markets"
+    excerpt: "AI can allow financial services providers to make use of alternative data sources to assess creditworthiness. This could prove transformative."
+    publishedDateTime: 2022-08-19T07:38:00Z
+    webUrl: "https://techcentral.co.za/how-ai-could-transform-financial-services-in-emerging-markets/214353/"
+    ampWebUrl: "https://techcentral.co.za/how-ai-could-transform-financial-services-in-emerging-markets/214353/?amp=1"
+    cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/how-ai-could-transform-financial-services-in-emerging-markets/214353/?amp=1"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 59
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2020/08/mark-nasila-2156-1120.jpg"
+        width: 2156
+        height: 1120
+        isCached: true
   - title: "4 Companies Leading The Rise Of Artificial Intelligence And Big Data"
     excerpt: "The article highlights four companies in the Global X Artificial Intelligence & Technology ETF (AIQ) that are shaping the growth path of technologies along the AI value chain."
     publishedDateTime: 2022-08-17T03:52:00Z

@@ -37,6 +37,24 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 39
+  - title: "iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV) Shares Purchased by Advisor Group Holdings Inc."
+    excerpt: "Advisor Group Holdings Inc. boosted its position in iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV – Get Rating) by 0.9% in the 1st quarter, according to its most recent filing with the Securities and Exchange Commission."
+    publishedDateTime: 2022-08-19T09:28:00Z
+    webUrl: "https://www.defenseworld.net/2022/08/19/ishares-self-driving-ev-and-tech-etf-nysearcaidrv-shares-purchased-by-advisor-group-holdings-inc.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 0
+  - title: "Simplex Trading LLC Sells 3,000 Shares of iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV)"
+    excerpt: "Simplex Trading LLC decreased its holdings in iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV – Get Rating) by 84.0% in the first quarter, according to the company in its most recent disclosure with the Securities & Exchange Commission."
+    publishedDateTime: 2022-08-19T08:28:00Z
+    webUrl: "https://www.defenseworld.net/2022/08/19/simplex-trading-llc-sells-3000-shares-of-ishares-self-driving-ev-and-tech-etf-nysearcaidrv.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 0
 
 secured: "07z4TyrXogmyRhTdlNjqEaDvYnr7iFFYRJynHba9+j6IMP7D43MPbhVpoOndpUlUqOVDPiNO7vacWuJJ6K9YMFYzZQaQZf6h/cKR7/ehtGn58/GlN2tTW+9gH5ysO2uQp722gJJ9tgHVERjalAA0NEJsgW0ou4E1zRgbHt1/CMiuPLYz29tSm7Nd4WgcCjAGd4MnLlcmtEuFY2OEgJNhQdv3gaSCcHasx9FWuWUlJRMTYsfPpu7bO4+oJ8kvFH4HJfHXzev8oHGRMWppkafYaqO1XaDz2+ge0zA5OQRnTMfT6AMExp6HV9pdXfy0ySeomUZE6uyg3KOZrdjoS3UBg7XhfVZr0rDxrPJA8PDw3lQerFSVLXC2agdA4/a2ST71MQyJsCgyTpMUf6QcZsIE8APNbxbKTTiCkQSViMyUWP5yt5Rlkg5dyLgjGRN8q3zShxVBqKS3D7ZSRc67o1xWkGtXYnHrXi/xFZI7uPACdCA0TrpoI8kTr1/mvGbboKP4cPNWYFRjGYdQbD27gBp40g==;deB36qpW/wVuP+NSpgm2ng=="
 ---

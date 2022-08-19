@@ -2,6 +2,101 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2022-06-30-the-fight-over-which-uses-of-ai-europe-should-outlaw.md",
+      "title": "The Fight Over Which Uses of AI Europe Should Outlaw",
+      "excerpt": "The European Union’s AI Act will set ground rules for what the technology can and can’t do to people—like whether it’s OK to deploy AI lie detectors at borders.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/europe-law-outlaw-ai/",
+      "originalUrl": "https://www.wired.com/story/europe-law-outlaw-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62bcdad7042ab1ffde99c514/master/pass/Border-Patrol-Greece-AI-Polygraphs-Business-1233365255.jpg",
+          "width": 2400,
+          "height": 1597,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/europe-law-outlaw-ai/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/europe-law-outlaw-ai/amp",
+      "publishedDateTime": "2022-06-30T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-how-believing-ai-behaving-like-humans-is-becoming-problematic.md",
+      "title": "How believing AI 'behaving like humans' is becoming problematic",
+      "excerpt": "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe their online friend is sentient.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596",
+      "originalUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/06/30/artificial-intelligence-ai-bot.jpg",
+          "width": 750,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596?amp",
+      "publishedDateTime": "2022-06-30T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-30-how-john-deere-grew-data-seeds-into-an-ai-powerhouse.md",
       "title": "How John Deere grew data seeds into an AI powerhouse",
       "excerpt": "John Deere’s status as a leader in AI innovation did not come out of nowhere. These days, the company has been enjoying the fruit of its AI labors.",
@@ -1003,102 +1098,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-emotionally-intelligent-education-defining-student-experiences.md",
-      "title": "Emotionally Intelligent Education Defining Student Experiences",
-      "excerpt": "I could feel from their body what they may not be able to put into words and a recognition that it's not the same as ... That mentality says, “if I'm a good object, that means I'm doing good.” It goes back to absorption foreshadows transcendence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/",
-      "originalUrl": "https://www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62bd209a2bd95f3270d547b7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/amp/",
-      "publishedDateTime": "2022-06-29T21:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-waymo-opens-a-new-self-driving-trucking-hub-in-lancaster.md",
-      "title": "Waymo opens a new self-driving trucking hub in Lancaster",
-      "excerpt": "Workers are spread across the trucking hub, some doing maintenance on the self-driving Waymo Via big rig technology and others cleaning the exterior or monitoring other operations. When the facility is in full operation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/",
-      "originalUrl": "https://www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/I3ZJpQ8RKNjwwQTVFERFUkW1z-g=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/GL4BTWS6TVE63IINRYM7KYHAW4.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/?outputType=amp",
-      "publishedDateTime": "2022-06-29T21:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dallas Morning News",
-        "domain": "dallasnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

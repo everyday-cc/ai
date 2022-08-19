@@ -122,6 +122,22 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 54
+  - title: "NHTSA Doesn’t Want People Testing Tesla’s Full Self-Driving On Real Human Children"
+    excerpt: "The NHTSA is warning those who use real kids or people in general for their own safety testing demonstrations. The reaction comes after a bevy of private individuals began posting similar tests online."
+    publishedDateTime: 2022-08-18T22:03:00Z
+    webUrl: "https://www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/"
+    ampWebUrl: "https://www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 53
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2022/08/2022-Tesla-Lineup-1-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
 
 secured: "lELvZSMTMkPYxNYTaG75V5tQ3xRrlsBMx3U5lUjtx7fzbnTmtMgY56vow/OO+B83dNPr05HSl3RdWxBHOB+8c4X7AX68916SK14E77MOVVvAgQAOGZiHRvlc+VlVMg9kugj8zxQwyb5793jK+FW2ZK+/Xu2xm8j5g9vPR2qZsn5H5OX/GxyZm4rL2BDB4xXZExGUr0BbaKe5PtqMpwd3WpiLv5dQWsADA5uKUCuogIEC+JMB5KDXGd7+FlHkiWtDwoiNT7UHR/D+T5obMUvyXIijxyzy5JIlFvFYVeM3ztA6iitEEfLlyhU28+dlpH0FPcTqLRi9BX50Ngnf7ge9quHnKb1WPofgkOS8kXaxbKdzoMe7scEkWGgEu4J/jx9jpaZFIPLNTwKBxXS2q9BTIBpK/1ljX7xtiDXoqboFdDWA+Vo9Ocgy0KVjhoj42ao+qqvGFllsyf/6PfUGD20kWBzgz0ESh5bRwNe0a5bYgrhcs7zTPo7jDQUXM/AGLEASguZMVSMRdbcwmUN/eVw9aQ==;/CuymcoV44TmKJ8kj9iONQ=="
 ---

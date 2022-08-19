@@ -2,6 +2,101 @@
   "page": 124,
   "value": [
     {
+      "path": "_news/2022-05-12-idc-analysis-ibm-providing-ai-solutions-to-government.md",
+      "title": "IDC Analysis: IBM Providing AI Solutions to Government",
+      "excerpt": "As technology continues to modernize society, some government agencies are struggling to efficiently connect citizens to the services they need. The COVID-19 pandemic has exacerbated this challenge, resulting in agencies turning to emerging data and artificial intelligence (AI) technologies.",
+      "sourceUrl": null,
+      "webUrl": "https://www3.technologyevaluation.com/publications/idc-analysis-ibm-providing-ai-solutions-to-government-58883",
+      "originalUrl": "https://www3.technologyevaluation.com/publications/idc-analysis-ibm-providing-ai-solutions-to-government-58883",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://technologyevaluation.azureedge.net/getattachment/ba6918b9-c3b7-50d0-bdf3-44bc0cd296e9/IDC-Analysis-IBM-Providing-AI-Solutions-to-Government-1-221626.jpg?source=tw2&ext=.jpg",
+          "width": 270,
+          "height": 349,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TEC",
+        "domain": "technologyevaluation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven.md",
+      "title": "Microsoft is enabling Kubernetes for Windows edge-computing devices via 'Project Haven'",
+      "excerpt": "Wondering what Microsoft has up its sleeve for Build 2022? Here are a few tidbits gleaned from the hundreds of sessions listed on its web site, including a new Kubernetes-at-the-edge effort.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a52ae7d89b8c9f6c7d7ce376c59cc30a6a73fb9c/2022/05/12/5944f6ae-7d42-4eb9-97cb-248e7b042c8f/build2022.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 569,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/",
+      "publishedDateTime": "2022-05-12T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-scientists-enhance-x-ray-data-analysis-with-artificial-intelligence.md",
       "title": "Scientists enhance X-ray data analysis with artificial intelligence",
       "excerpt": "Artificial intelligence (AI ... task of analyzing data from high-energy X-ray experiments. With a new neural network-based method called BraggNN, the Argonne team can more precisely identify ...",
@@ -1076,100 +1171,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-ibm-ceo-artificial-intelligence-is-nearing-a-key-tipping-point.md",
-      "title": "IBM CEO: Artificial intelligence is nearing a key tipping point",
-      "excerpt": "When it comes to generalized AI, \"we have no idea how this is going to happen,\" IBM CEO Arvind Krishna says. That isn't stopping IBM from building AI tools that are now close to necessary for businesses to stay competitive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/",
-      "originalUrl": "https://www.zdnet.com/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T21:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-evisort-embeds-ai-into-contract-management-software-raises-100m.md",
-      "title": "Evisort embeds AI into contract management software, raises $100M",
-      "excerpt": "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! For lawyers and the organizations that employ them, time is quite literally money. The business of contract management software is all about helping to optimize that process,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/11/evisort-embeds-ai-into-contract-management-software-raises-100m/",
-      "originalUrl": "https://venturebeat.com/2022/05/11/evisort-embeds-ai-into-contract-management-software-raises-100m/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1185188027-e1651849778407.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/11/evisort-embeds-ai-into-contract-management-software-raises-100m/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/evisort-embeds-ai-into-contract-management-software-raises-100m/amp/",
-      "publishedDateTime": "2022-05-11T20:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

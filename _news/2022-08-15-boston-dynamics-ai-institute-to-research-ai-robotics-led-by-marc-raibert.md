@@ -78,15 +78,6 @@ related:
         width: 500
         height: 223
         isCached: true
-  - title: "Hyundai to pour $400 million into artificial-intelligence foundation in Kendall Square"
-    excerpt: "The Boston Dynamics AI Institute, named for the robotics company Hyundai is the majority owner of, has set up shop on Broadway. Read more."
-    publishedDateTime: 2022-08-14T16:09:00Z
-    webUrl: "https://universalhub.com/2022/hyundai-pour-400-million-artificial-intelligence"
-    type: article
-    provider:
-      name: Universal Hub
-      domain: universalhub.com
-    quality: 13
 
 secured: "BCixd6d4VX/knprtioFQNTc3SifT6STrzREm0sSoYkExmw8rLWiPlUhfT8Dat5yzB36tO5hLXS20qWnttxOE1KHF3W/htdjr/K1+fmg1I+23E7QSPsAKiWu0mwIO4rWEP4K+zIFXso9iaUd8AZPAEKmyPY8WO8Mh8LI2kInA0qcY0xZU03DI7fYu5/1aQ3eV3G1pR1vEFagzzB6562TH34ep3nMxlwp2cHao6aOKdaAzZO5rfTgn1GYO8wMfJRTJsg3NfkMslVKCtbnNMr0hMPAsbWzN/c8Gf7lO2LxBcMUEn7GcI5VJf2bB+sJOsSrNZlr4z8ub5r6nfF+JhcIjs+MxF8cc2aL4zpwA35cSQ/eBIPa4qQfSpwbvmnm8CU4Vm7luCyi26vw9hzz35Nlm+SP13l/+paYPEOSYlRlL8bWhZQ/d65pAJxBPNC6rLA/9+LeIBnSs+zAdF7o2uGYR6/GH5MMDRRxkdtFi9zsM89cDUCJSgdu9UCTYKFPLUpfMs2fuiaCH1K2I7BnCZ/PiUA==;wKRss1yS2ekApfUxjvCE7w=="
 ---

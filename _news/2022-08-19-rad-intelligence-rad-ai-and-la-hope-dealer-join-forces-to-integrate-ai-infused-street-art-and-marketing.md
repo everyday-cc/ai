@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/business/rad-intelligence-rad-ai-and-la-hope
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,7 +45,21 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "UJET Launches AI-Modeled Interaction Design to Identify and Value Optimal Virtual Agent Deployments"
+    excerpt: "UJET, Inc., the world’s most advanced cloud contact center provider, today announces advanced AI-guided customer service operations that leverage hundreds of thousands of customer insights to drive enhanced customer experience (CX) capabilities and automated virtual agent responses."
+    publishedDateTime: 2022-08-18T13:56:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-1f596fba9aa446d582a678e3355d640a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 23
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
-secured: "sradle5I5cuvfVrnSrE6i+HJFZN9lnEvodCHw0QiStzMfkJ9ESzADpxdyQEFg0zZw0adnH/iZ/fHcpI4XhGplZ9j0O198q7Q7I41NJHcatkPQXvWiTuIckuPs6CH1sglm15VX6SUfr6p9tVr1LlryDhteQ7VY+IN3uYsR3FvCyCjYQCj4UOiPv9CMa7Bui04SEejPmrXZBIOgXo2IkfO9y+0DOv5CgC66VIfo8gEVimAVDZFXj+abvDAg7otzH5iahFQrQVKntV6dzs7+6So8s6oVqAMjxetld+0C9KqAntYti/x+kc0hMnKA59c+LGwiSQdZgwDlp4GH7E8kYHfTryYgqZiH2v35rST0qMH54Y=;lc13Pv774j/3k5ssbjDt3Q=="
+secured: "uKrZ8VSiAboSjx5y7qQkYeJBWlV8zunC1FSaMeb4z9uPUob9GxNpJ4OSkTVPWc1ibn06ESxaGJ67iKmmiUvBxsHn9SmuPx9cHwWX2YZ0/r1MlapaWxJsEfHJbM3iznUb3HmyEGRoPv8k5Z7nYwQou1grDtbiunkkUCLQwkfujEgMA0IXdOISut/MDAxmaH1l2m4kNOcGXS4DeB9qMMvUYKqv3W+L6/rKkJCQ6vrFyQ7ttHVVso0d/qBUA+6Zbo0Ft2anvwQ2kVYdDQA9l+TEjmfxCeX3eZbs3H3kdQoVSeVaXCcEPqOlj2+yoNbd7pk7GbZLy0mtgNTWDT+kj6fpxwAloJUNVYS/KQXQGclOjRPQJAlcL0ySFjCK1TM73m77hKDIaDwuR/j0ACO0KYmrF1lqPomQLnRTAbAw/t0B60j0LLudm2iZC8riUBwWalnZTflirGcUQvCpqN/AQu7bEj9wOdoJXBSuTdjkBP3tBg2BGU8rr2rpf4M3a72GH9bAzL1RqDvO6nM9fp6bka6eVg==;Km4UMQ30ulpQ896e2yIe8w=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.suasnews.com/2022/08/hyundai-motor-group-launches-boston
 cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2022/08/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics/"
 type: article
 quality: 79
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -78,15 +78,6 @@ related:
         width: 500
         height: 223
         isCached: true
-  - title: "Hyundai to pour $400 million into artificial-intelligence foundation in Kendall Square"
-    excerpt: "The Boston Dynamics AI Institute, named for the robotics company Hyundai is the majority owner of, has set up shop on Broadway. Read more."
-    publishedDateTime: 2022-08-14T16:09:00Z
-    webUrl: "https://universalhub.com/2022/hyundai-pour-400-million-artificial-intelligence"
-    type: article
-    provider:
-      name: Universal Hub
-      domain: universalhub.com
-    quality: 13
 
 secured: "d1a8J+rgI2EgSQDE1YkXtBUKyPoKAweZwO9HQ3PKs1PrSt4liD+eX7CGF/3zV0C8PKYh8Kgel8GVplH0y4Hzbuzv39WiNoTBZVk5gQ4EcZnzOZPYPaUKWSBvIfZ7hfy80os3y3I/hXjL8akWxEgny7O4J8yQXWa2/6+AUx91Ff8kl1qFGqSEafzUoqAi3FfgSORkUyiLUhxGblzvlyHCJe9uOXwUTko7CaLh4iWp3YLErcTEBfv4Xq5iUPZ+0b5ER/oofMmeyQQsTExpZ9a7/Xem4VfwsoNTdCq02f7jullfD7uZMUXSzHqbrRTfrvSAeMmgfHN9r39FOXmVY6tlSV5V0nV3G0obRdzB+lKGRGk=;mmvvoRwLUXAYTB7oTfFrMA=="
 ---

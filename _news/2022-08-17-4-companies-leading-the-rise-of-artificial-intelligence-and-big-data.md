@@ -92,6 +92,22 @@ related:
         width: 1200
         height: 623
         isCached: true
+  - title: "How AI could transform financial services in emerging markets"
+    excerpt: "AI can allow financial services providers to make use of alternative data sources to assess creditworthiness. This could prove transformative."
+    publishedDateTime: 2022-08-19T07:38:00Z
+    webUrl: "https://techcentral.co.za/how-ai-could-transform-financial-services-in-emerging-markets/214353/"
+    ampWebUrl: "https://techcentral.co.za/how-ai-could-transform-financial-services-in-emerging-markets/214353/?amp=1"
+    cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/how-ai-could-transform-financial-services-in-emerging-markets/214353/?amp=1"
+    type: article
+    provider:
+      name: TechCentral
+      domain: techcentral.co.za
+    quality: 59
+    images:
+      - url: "https://techcentral.co.za/wp-content/uploads/2020/08/mark-nasila-2156-1120.jpg"
+        width: 2156
+        height: 1120
+        isCached: true
   - title: "Pitching with Artificial intelligence"
     excerpt: "Pressfriendly offers a similar service for startups by using AI to review beat reporters' past coverage and open rates. This intel helps identify the best send times and will increase the likelihood of pickup,"
     publishedDateTime: 2022-08-18T15:58:00Z

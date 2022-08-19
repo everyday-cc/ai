@@ -43,20 +43,17 @@ related:
         width: 619
         height: 374
         isCached: true
-  - title: "OK Google, get me a Coke: AI giant demos soda-fetching robots"
-    excerpt: "Alphabet Inc's Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
-    publishedDateTime: 2022-08-16T13:10:00Z
-    webUrl: "https://www.reuters.com/technology/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-2022-08-16/"
+  - title: "OK Google, Get Me a Coke: AI Giant Demos Soda-Fetching Robots"
+    excerpt: "The chain is made possible by infusing the robots with language technology that draws understanding of the world from Wikipedia, social media and other webpages. Similar AI underl"
+    publishedDateTime: 2022-08-16T14:08:00Z
+    webUrl: "https://www.usnews.com/news/technology/articles/2022-08-16/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots"
+    ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-08-16/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots?context=amp"
+    cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-08-16/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots?context=amp"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 86
-    images:
-      - url: "https://www.reuters.com/resizer/bjkxshKYbY-aflWiRgzZTSy3SBo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FDVFGQ47PFNBLG4QVUBQ5GGNNQ.jpg"
-        width: 1200
-        height: 628
-        isCached: true
+      name: U.S. News & World Report
+      domain: usnews.com
+    quality: 67
   - title: "OK Google, get me a Coke: AI giant demos soda-fetching robots"
     excerpt: "Google is combining the features of physical robots with the knowledge and conversation skills of virtual chatbots"
     publishedDateTime: 2022-08-17T09:44:00Z

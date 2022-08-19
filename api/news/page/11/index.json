@@ -2,21 +2,109 @@
   "page": 11,
   "value": [
     {
-      "path": "_news/2022-08-08-neural-networks-being-used-to-improve-the-performance-of-high-power-wind-turbines.md",
-      "title": "Neural networks being used to improve the performance of high-power wind turbines",
-      "excerpt": "Gasteiz Faculty of Engineering of the UPV/EHU has used convolutional neural networks to predict airflow characteristics in the aerodynamic profiles of high-power wind turbines, and has shown that flow control devices can be studied using these neural networks,",
+      "path": "_news/2022-08-08-ibm-watson-powered-augmented-intelligence-seeks-an-edge-in-travel-marketing.md",
+      "title": "IBM Watson-Powered Augmented Intelligence Seeks an Edge in Travel Marketing",
+      "excerpt": "Watson refers to IBM’s cognitive artificial intelligence (AI) platform. Watson is best-known for tricks like defeating contestants on the U.S. quiz show “Jeopardy!” It can interpret ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/961192",
-      "originalUrl": "https://www.eurekalert.org/news-releases/961192",
+      "webUrl": "https://skift.com/2017/08/08/ibm-watson-powered-artificial-intelligence-seeks-an-edge-in-travel-marketing/",
+      "originalUrl": "https://skift.com/2017/08/08/ibm-watson-powered-artificial-intelligence-seeks-an-edge-in-travel-marketing/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d00d8c91-2d7e-4e6f-8ba4-dfa8de9f2357/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 452,
+          "url": "https://skift.com/wp-content/uploads/2017/08/ibm-watson-marketing-.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://skift.com/2017/08/08/ibm-watson-powered-artificial-intelligence-seeks-an-edge-in-travel-marketing/amp/",
+      "cdnAmpWebUrl": "https://skift-com.cdn.ampproject.org/c/s/skift.com/2017/08/08/ibm-watson-powered-artificial-intelligence-seeks-an-edge-in-travel-marketing/amp/",
+      "publishedDateTime": "2022-08-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Skift",
+        "domain": "skift.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-in-simulation-of-how-water-freezes-artificial-intelligence-breaks-the-ice.md",
+      "title": "In simulation of how water freezes, artificial intelligence breaks the ice",
+      "excerpt": "Combining artificial intelligence and quantum mechanics, researchers have simulated what happens at the molecular level when water freezes. The result is the most complete yet simulation of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220808162234.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220808162234.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-microsoft-spreads-fud-on-office-connections-to-microsoft-365-services.md",
+      "title": "Microsoft Spreads FUD on Office Connections to Microsoft 365 Services",
+      "excerpt": "Microsoft appears to be deliberately trying to confuse the public on Office 2016 and Office 2019 connections to Microsoft 365 services. In a July Redmond article, I reported on Microsoft's plans ...",
+      "sourceUrl": null,
+      "webUrl": "https://redmondmag.com/articles/2022/08/08/microsoft-spreads-fud-on-office-connections-to-microsoft-365-services.aspx",
+      "originalUrl": "https://redmondmag.com/articles/2022/08/08/microsoft-spreads-fud-on-office-connections-to-microsoft-365-services.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/0817red_WinInsider.jpg",
+          "width": 647,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -29,8 +117,8 @@
       "publishedDateTime": "2022-08-07T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "Redmond Magazine",
+        "domain": "redmondmag.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,7 +128,7 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -1072,83 +1160,6 @@
         "Microsoft AI",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-open-source-protein-structures-dtns-4332.md",
-      "title": "Open Source Protein Structures – DTNS 4332",
-      "excerpt": "DeepMind announced it was releasing and making free the expanded database filled with 200 million highly accurate protein structure predictions generated by DeepMind’s AI,",
-      "sourceUrl": null,
-      "webUrl": "https://dailytechnewsshow.com/2022/08/05/open-source-protein-structures-dtns-4332/",
-      "originalUrl": "https://dailytechnewsshow.com/2022/08/05/open-source-protein-structures-dtns-4332/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-05T14:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Tech News Show",
-        "domain": "dailytechnewsshow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-cognitive-rehab-may-help-older-adults-clear-covid-related-brain-fog.md",
-      "title": "Cognitive Rehab May Help Older Adults Clear Covid-Related Brain Fog",
-      "excerpt": "Eight months after falling ill with covid-19, the 73-year-old woman couldn’t remember what her husband had told her a few hours before. She would forget to remove laundry from the dryer at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/",
-      "originalUrl": "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://khn.org/wp-content/uploads/sites/2/2022/08/GettyImages-1333713912.jpeg",
-          "width": 3840,
-          "height": 2560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/amp/",
-      "cdnAmpWebUrl": "https://khn-org.cdn.ampproject.org/c/s/khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/amp/",
-      "publishedDateTime": "2022-08-05T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kaiser Health News",
-        "domain": "khn.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

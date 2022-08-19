@@ -78,6 +78,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 10
+  - title: "Natural Language Processing Market (NLP) Demands, Key Players, Size, Growth, Trends, Technology and Forecasts to 2027 - ReportsnReports"
+    excerpt: "ReportsnReports added Global Natural Language Processing (NLP) Market Report to its research database with its 336 no. of research pages report. The Natural Language Processing (NLP) Market size to grow from USD 15."
+    publishedDateTime: 2022-08-19T09:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-natural-language-processing-market-nlp-demands-key-players-/2022/08/19/9659241.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
   - title: "Global AI CCTV Market (2022 to 2030) - Opportunity Analysis and Industry Forecasts - ResearchAndMarkets.com"
     excerpt: "The \"AI CCTV Market by Offering, by Camera Type, by Deployment, and by End-user - Global Opportunity Analysis and Industry Forecast, 2022 - 2030\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2022-08-16T16:16:00Z

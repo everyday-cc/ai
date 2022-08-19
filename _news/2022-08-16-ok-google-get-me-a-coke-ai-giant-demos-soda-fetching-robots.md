@@ -1,33 +1,27 @@
 ---
 category: news
-title: "OK Google, get me a Coke: AI giant demos soda-fetching robots"
-excerpt: "Alphabet Inc's Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
-publishedDateTime: 2022-08-16T13:10:00Z
-originalUrl: "https://www.reuters.com/technology/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-2022-08-16/"
-webUrl: "https://www.reuters.com/technology/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-2022-08-16/"
+title: "OK Google, Get Me a Coke: AI Giant Demos Soda-Fetching Robots"
+excerpt: "The chain is made possible by infusing the robots with language technology that draws understanding of the world from Wikipedia, social media and other webpages. Similar AI underl"
+publishedDateTime: 2022-08-16T14:08:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2022-08-16/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots"
+webUrl: "https://www.usnews.com/news/technology/articles/2022-08-16/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots"
+ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-08-16/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-08-16/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots?context=amp"
 type: article
-quality: 86
+quality: 67
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
-  - AI in Robotics
   - AI
-  - AI Hardware
-
-images:
-  - url: "https://www.reuters.com/resizer/bjkxshKYbY-aflWiRgzZTSy3SBo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FDVFGQ47PFNBLG4QVUBQ5GGNNQ.jpg"
-    width: 1200
-    height: 628
-    isCached: true
 
 related:
   - title: "Ok Google, Get Me A Soda! Take A Look At The AI Giant Soda-Fetching Robots"
@@ -79,6 +73,6 @@ related:
         height: 402
         isCached: true
 
-secured: "9cmMD7+WKlyDhE3UXvMAcOz+R/s/ZLJZk5rFSRkzEkXJU9FuELf7sPOfweMkzmO+o+/uMGyjITTu1C4oAr1WZh6f+A2/FjSIQ4rA3Aq/3HfBPDu4e+fiHKN8Z/C6J5dPtSMh+cUErpzZlxEGXyZqp85G1z5yM2zheKD03eyNqqbtn3ocHSENrsytIHwMaVkPAAHYmkMEEsgUh8YW+DCcvBnrlBA7BvkFXwkyzcLOAvG51Zqf1OSPLU5yce9MURmxgzrXF2J2/WGBWF9gaN6CuK7xASF9K9IjCf8pJ1CO7YByo0fBfR81WkUUyMGNoDH7RIT06HGwlcP6U60hEPHJYabGHwDGcmRjyTiMggh1a9Xk69M9Oad1Y5GqpZTzB5mHxArZNgahiLT+R3DJBaXt0ptrjxLYNwz6xBFfdLURd6TivylA89x5049rsSRcHW4cM5L9BDOCXD9PXjkxe6rRjmG6b0fR84HHa8LzMaTUem/aLoORlVRRHxon8WB/BotTJBjvVtpAwIqneh8ctbOQVg==;sY2AlnM0SF0DzyNYOig2cA=="
+secured: "qzm7JgKVNt/OvHwr8WXmt958PrfdtFmCUJ/IEcbWB4efzJrdCdrJcEXYOToSq2cqXj+fq4IiYnekw07TuqaGNs5iNcCnz/iKEkY5DcdFGf49M4DpUt2xkZTm/CYxCknsuYoe1huiAHjqOfl1DpUjrOZ9Rtr3meLmVusej03+p0ZnZ1FA0oIbN1mVQTBarQOJTijEoEY3FJVh4O0EMESYG6GfVf6FXJFQiMM2vVb/qWgxZYFL9vaWM3DBybinmK5W44Qmwk46tVFblLsvVfJaM5u1dtubPf7Z/G2P17OiiUTNPruMjd6dVH+RqFk1qLjL043uAs7QTk+ntcOEv2L9PwnT3a2eYDCUqz/GVgLDf+ce25+k849WAHaPWa4682yIT4BrRIyNUEeXFlf5BfUVGqKnZKQaDnWPzOHHqm67qiusGHAN0QaO5BXg+DW9N5USLtzEXr6c9ff5at766gyJE2iThghQsx7UFefziClVjkEKCRGSXoUIPWmXF0N83MAeplag25SJgQ6wnNbsQlfsWQ==;flgo0xQmHc/A2oEd4EIyJg=="
 ---
 

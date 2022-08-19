@@ -1,0 +1,95 @@
+---
+category: news
+title: "Self-driving cars could be on British roads early next year"
+excerpt: "Self-driving cars could be on Britain’s roads as early as next year under a £100 million government plan to make autonomous vehicles safe.The Department for Transport (DfT) said it would introduce laws to allow for the introduction and that the self- driving industry could create up to 38,"
+publishedDateTime: 2022-08-19T09:00:00Z
+originalUrl: "https://www.thetimes.co.uk/article/self-driving-cars-could-be-on-british-roads-early-next-year-0bq9tkv9v"
+webUrl: "https://www.thetimes.co.uk/article/self-driving-cars-could-be-on-british-roads-early-next-year-0bq9tkv9v"
+type: article
+quality: 24
+heat: -1
+published: false
+
+provider:
+  name: The Times
+  domain: thetimes.co.uk
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F36f646ac-1f36-11ed-add4-d333562d46fb.jpg?crop=3696%2C2079%2C167%2C70&resize=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "Experts warn no easy answer to how safe self-driving cars should be"
+    excerpt: "The Centre for Data Ethics and Innovation (CDEI) report warns that it might not be enough for self-driving cars to be safer than human drivers. It suggests the public may have much higher expectations of self-driving car safety."
+    publishedDateTime: 2022-08-18T23:17:00Z
+    webUrl: "https://www.bbc.com/news/technology-62598618?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.com/news/technology-62598618.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62598618.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 74
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/310D/production/_126375521_selfdrivinggettyimages-928081066.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Experts warn no easy answers to how safe self-driving cars should be"
+    excerpt: "The Centre for Data Ethics and Innovation (CDEI) report warns that it might not be enough for self-driving cars to be safer than human drivers. It suggests the public may have much higher expectations of self-driving car safety."
+    publishedDateTime: 2022-08-18T23:17:00Z
+    webUrl: "https://www.bbc.com/news/technology-62598618"
+    ampWebUrl: "https://www.bbc.com/news/technology-62598618.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62598618.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 74
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/310D/production/_126375521_selfdrivinggettyimages-928081066.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Driverless cars: Experts warn no easy answer to how safe they should be"
+    excerpt: "There is no easy answer as to how safe self-driving cars should be, an adviser to a new government-backed report has told the BBC. The Centre for Data Ethics and Innovation (CDEI) report warns that it might not be enough for self-driving cars to be safer than human drivers."
+    publishedDateTime: 2022-08-18T23:17:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-62598618"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-62598618.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-62598618.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/310D/production/_126375521_selfdrivinggettyimages-928081066.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Self-driving cars could be on our roads within the next YEAR – but there’s a catch"
+    excerpt: "CARS that can drive themselves could be on our roads within the next year according to the Government. Transport Secretary Grant Shapps said the technology would make our roads safer and create"
+    publishedDateTime: 2022-08-19T08:23:00Z
+    webUrl: "https://www.thesun.co.uk/motors/19555254/self-driving-on-our-roads-within-the-next-year/"
+    ampWebUrl: "https://www.thesun.co.uk/motors/19555254/self-driving-on-our-roads-within-the-next-year/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/19555254/self-driving-on-our-roads-within-the-next-year/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 38
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/04/NINTCHDBPICT000719601367.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
+
+secured: "yemFlm/t8ZfiyK2ajdB/PVVSyfF5ieNxSf8woB2iQAS6UoDc3Rym1pKBgcDEC7i8MYsOLr8lz6AeFF+lOjGiBMwGClVorFHZKrYBlC4eFy/NDQK3d1HuTJIp8qPeyQl3y+lKa6fTrU53M1mt8J003lpYhFZUtp5XZ/Gv13YPIQXoM3JjK/B0vLfQizeQNiQHnjO3Y75FLflPMZTQshGxOgab6yt3ZDvDkpXjInMw292qFURH+CI/ksmXu9iSPR4+x1R4L5xoEdu+h9oxGlQFk4hO7s9LxBoTmSs0VmKZa6X1rkINlpECO0bVHP0h6vxYLU+BLkzvENLDkQ1T2bWDxCjhh2DFfiJCASsJcTCeHGc=;86Vf1QYy4lEEW9GEFNaRvg=="
+---
+
