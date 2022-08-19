@@ -9,7 +9,7 @@ ampWebUrl: "https://www.suasnews.com/2022/08/hyundai-motor-group-launches-boston
 cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2022/08/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics/"
 type: article
 quality: 79
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
     quality: 69
     images:
       - url: "https://assets.newatlas.com/dims4/default/9076b6d/2147483647/strip/true/crop/1060x557+0+2/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F54%2Fcc%2Fd5e646284016bd88c6a89f85ecb1%2Fatlas-mid-step.jpg&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Hyundai and Boston Dynamics to build AI, Robotics Research Centre"
+    excerpt: "Hyundai Motor Group and Boston Dynamics have announced that they are to invest $424mn to establish an artificial intelligence research centre in the US."
+    publishedDateTime: 2022-08-19T07:00:00Z
+    webUrl: "https://www.newelectronics.co.uk/content/news/hyundai-and-boston-dynamics-to-build-ai-robotics-research-centre"
+    type: article
+    provider:
+      name: New Electronics
+      domain: newelectronics.co.uk
+    quality: 69
+    images:
+      - url: "https://www.newelectronics.co.uk/media/1u1nz5bb/boston.jpg?width=1200&height=630&mode=crop"
         width: 1200
         height: 630
         isCached: true

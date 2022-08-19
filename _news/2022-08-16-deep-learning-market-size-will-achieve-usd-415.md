@@ -44,20 +44,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-  - title: "AI In Medical Imaging Market Size 2022 by Consumption, Volume, Average Price, Revenue, Market Share and Trend to 2027"
-    excerpt: "Aug 14, 2022 (Market Insight Reports) -- AI In Medical Imaging Market (US ... EchoNous, SAMSUNG, IBM Watson Health, NVIDIA, Siemens Healthcare The leading players are focusing mainly on ..."
-    publishedDateTime: 2022-08-14T13:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-medical-imaging-market-size-2022-by-consumption-volume-average-price-revenue-market-share-and-trend-to-2027-2022-08-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Automotive Market Overview by Recent Opportunities, Growth Size, Regional Analysis and Forecasts to 2025"
     excerpt: "Global Artificial Intelligence in Automotive Market Report is an In-Depth Analysis of the Latest Developments, Market"
     publishedDateTime: 2022-08-17T12:36:00Z

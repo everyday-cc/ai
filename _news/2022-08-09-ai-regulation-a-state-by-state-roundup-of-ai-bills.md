@@ -3,14 +3,11 @@ category: news
 title: "AI regulation: A state-by-state roundup of AI bills"
 excerpt: "Wondering where AI regulation stands in your state? Check out this roundup of AI-related bills at the state and local level."
 publishedDateTime: 2022-08-09T03:49:00Z
-originalUrl: "https://venturebeat.com/applied-ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/"
-webUrl: "https://venturebeat.com/applied-ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/"
+originalUrl: "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/"
+webUrl: "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/"
 ampWebUrl: "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/amp/"
 type: article
-quality: 87
-heat: 87
-published: true
 
 provider:
   name: VentureBeat
@@ -21,6 +18,7 @@ provider:
       height: 50
 
 topics:
+  - AI Ethics
   - AI
 
 images:
@@ -29,6 +27,6 @@ images:
     height: 900
     isCached: true
 
-secured: "N7aIwxEyDIcnVbm25JS2/Ut1+KiSIh2IbGIB6rqcsfbuxNEugkG9DNK3JmJ5EGtShS3kir8WYPIhuAUt3Il7JRVKyUR8C47iXTVjnuKm0Tjq/t/9JKZcyN4sOP8QQrnz8FIVyJn97wKoPiRtdRvjbnAW+j3AzWGEkSYwuFkDVl/tPx1Y7/ggNsXWQI36AI9Y11CMsFEGSBzsex5EryQvnUxcKVJnroo+kH5Cf/H+UoBpZGozOe39JgRbP9v7rdyUMIm6xuVcxt/h0Vrpxbj/n5ddcUutgkftzHXjKrQkyqqZjl3cU5nr9xtdYzu4RjdOddOU4xKETi4jLkC7tU7DJFJ1gQZEG2quJYdV8cqiCecouDw1k0n3SYh3nkylw2JGVqDOBhKMZpLVRArM8Hcyvniku/1rn3ToTrQkEOHV8eKqxXJckoVa/dMe/n20pcnTT0e+XqN2hg+XXmxWyjnE54ukOyNeW6NoMHcpISuU2AnqaTwbOofeseEm3YgSYRgCR0Y/6HA185YXJ2A4zwszZQ==;zCjLkYfOZom4f7xXS8Z+lQ=="
+secured: "3MVY6xiSrgzwiGx/H4D9sLjHf1CxJgvs+74u7KejVzSFgHtbbrVFd1kBgrkY/HTNefRS4ZgouakkE+kGEVTuX+LsewK0hWW2e6DxzrUH9YCbz+Ya2MGViJXqvde2LvBKuQ87WgYhIlX0cEGgYai87CBMQpmhPkx1yXYg4T8+p1AHC6/Nne3/+cA9Yw3K9x2pU5BGrYe/hR/VvQoT16zOPpAdD3US7vMlZD8OWnzrMAmxtjmnalTa2zhWTa/anJriDqek/ifkfNNj29biIRE7ChTyl1MEJuVIbY/9mRiXXXHGFbQZsj9/MnwMKpq93ZCdjVuOk6ECv6SyTFFcjAsVRRHH9A15ki7eHC7JGEHFvYA=;QdrXMMShREJS0zanjbOmrw=="
 ---
 

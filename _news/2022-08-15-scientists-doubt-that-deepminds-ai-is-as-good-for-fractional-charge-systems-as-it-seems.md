@@ -2,26 +2,28 @@
 category: news
 title: "Scientists doubt that DeepMind's AI is as good for fractional-charge systems as it seems"
 excerpt: "DeepMind constructed a neural network based density functional designated as DM21, trained on fractional-electron systems, such as a hydrogen atom with half an electron."
-publishedDateTime: 2022-08-15T15:12:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/961844"
-webUrl: "https://www.eurekalert.org/news-releases/961844"
+publishedDateTime: 2022-08-15T14:20:00Z
+originalUrl: "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.html"
+webUrl: "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.html"
+ampWebUrl: "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.amp"
+cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.amp"
 type: article
-quality: 45
+quality: 65
 heat: -1
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Phys.org
+  domain: phys.org
 
 topics:
   - Google AI
   - AI
 
 images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/839c7f64-ce32-4a74-89a8-cd6b09dee5d2/Rendition/thumbnail/Content/Public"
-    width: 300
-    height: 282
+  - url: "https://scx2.b-cdn.net/gfx/news/2022/scientists-doubt-that.jpg"
+    width: 512
+    height: 482
     isCached: true
 
 related:
@@ -42,7 +44,7 @@ related:
   - title: "Russian military to develop weapons using artificial intelligence"
     excerpt: "Russia said created a department for developing AI weapons. The program could serve to counter the Pentagon’s newly formed AI authority."
     publishedDateTime: 2022-08-18T00:25:00Z
-    webUrl: "https://www.defensenews.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/"
+    webUrl: "https://www.defensenews.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/?amp;amp"
     type: article
     provider:
       name: Defense News
@@ -54,6 +56,6 @@ related:
         height: 683
         isCached: true
 
-secured: "qlcI6Pay/GGSy/EQcfB6ag70hnqNRKsJ50F30A18gYIX6+VggAverhkBuSTMb5hUqqHwD3Zo073plfxclKFpK6sOFviXZ3AaFBsizKlEuVe9PMoN9IZWxImlNVuUF0+8td7IIXLmnwsbYvgJhq7zokPQZ6GRYC0nuAoQI0dWGtuX54fH06Lv03vkdimsGZxLQNlRet/3dHPi0xwPFhZCCJFnLJpUda9JcOnNVk2eMd+IcTmxiCqbGxCQgJyQyIyjGvOyZWSPgs+FZp+49iV5jtzlYPO0vpUnyBTJ3U0Z6Dg6QgIXvtvJUgD/MBBFy5c9MdVg5abA/FedLwjJ9RkGPAxxMOcoUuJSxt3TYXuUJUo=;PpITuc00mez9b8ve69liww=="
+secured: "Zf/KExm1r/2Zo1V7XZBZytAegkYwLv1d05UnCD+xiHXgPBBjvmkduTjW+T1xWKF6p0u/T1r4Qn3pmp5H1AWt/ohEiS8sZTD7KSVa3Y1AWypyacFZoiqfobFiYLHiWOlHWSSqN3vaze3k0UYyqkcpSCx4QkC8+TJMcV437yPwg0eJPD5am01e+cz1wE5toLM5tZKq7AYdRi/doc1WRAa1weeq02XwAY5P9O8dK/iUdMiZvC0V97H6lTbRP4X3PDIBsMI2lupY1tTiQYBPTJ+fyGiLVM/pJoNWzCtDTTYzx0+kastxmlb+gdLRZ7Mze/efok8oGx01j02LNwmS5fvAUywK66ioAbbnbGFf5lo7kBk=;RlQX7REvr2z8tR1RbIWq0g=="
 ---
 
