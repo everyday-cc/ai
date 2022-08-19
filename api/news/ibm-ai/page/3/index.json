@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-07-a-modern-ai-powered-mayflower-just-crossed-the-atlantic.md",
+      "title": "A modern AI-powered Mayflower just crossed the Atlantic",
+      "excerpt": "This robotic research vessel, which was two years in the making, sailed with no human crew and was piloted by an artificial intelligence software supplied by IBM. “After a 40-day and 3,500 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/ibm-autonomous-mayflower-ocean-research/",
+      "originalUrl": "https://www.popsci.com/technology/ibm-autonomous-mayflower-ocean-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2022/06/06/MAS-in-seatrials-March-2021-002-scaled.jpg?auto=webp",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/ibm-autonomous-mayflower-ocean-research/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ibm-autonomous-mayflower-ocean-research/?amp",
+      "publishedDateTime": "2022-06-06T17:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-ibm-bids-farewell-to-watson-health-assets.md",
       "title": "IBM Bids Farewell to Watson Health Assets",
       "excerpt": "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion, although the ...",

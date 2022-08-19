@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-language-skills-coax-google-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -45,7 +45,21 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Google is training its robots to be more like humans"
+    excerpt: "In a drab Google office park in Silicon Valley, robots are going to school, using AI algorithms to learn how to play ping pong and clean up after humans."
+    publishedDateTime: 2022-08-16T15:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2022/08/16/google-ai-robot-school/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 54
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/08-16-2022/t_8173f0650bed4af9b812985bca0bb96e_name_google_bot_2.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
 
-secured: "GtNwty4uumSRPbyRgUbfxQWN8nYfmgLhlG7hZXam/VPrnFcMgmwSldRysO72Vy5wW3LarCqNmJHmC2BsaoD3Oz1otX0o1/Mt/i8lbfoQp6GIA6ktGJP9llbi07vHV4a6BjfdyXnzPEfHV3IPF2DwA+rU6MOfr2b69P/rDoFQ1O2VhXBPV/SVwSpztS5rbCoz1AcGnCe5ZvMu1sM3NxQ+hnkgYJhpBohzaYCn6p5yKodpfW4IdoIZWbDQ5yDiSd0D88Ic4G4xedDo8YIPBb0b1mApTiow1LUYkhGnqHPHdhPPO4BLYoG92u5eL0++70+Doqilmp2PdCDXzWVUSFp4XgFUa3HSju4lVKiXxJCnxEs=;K/5BvSRKSjPz0jEiyofIyw=="
+secured: "NTFEvcCdrqt2DPBG6gFL4hphlDn1BTMI9YZaDB0c8a/HTFxoToj0iqc3aAI/3/AaPse+41go41/ZMpiTqASpnVjlNXEXU2/c+985ACu8rzo/+6Ljw5B8ttnA0NX1lt2TStxF3n2N2Mdx+HS4JRKBFCm65BrPqqcObWkhMn06jz+jGUiv+tsC7+OlBPQjiz+cMf5DjaFCLbFHqAAyxjLJPjAAq/eJ6muI7iEI7rLFvKV0EapATSs+PDpugWU7zR4g65Lgv2SRqpHQPEMdP8DoixwHXmP40rh8M2WGYb2D3BLvsYKElKV0gYuFVdegzHI4qq/8x5a6YvfYtR+fFITc1AbAVHW75Kj3GgzIyBbdTh/IMDZoz/8+qEjEfoxYOOKhZHf5NXffNoSk0tns6RDHjEqVsFJ7MbPjPoElVZeK5zx7XmDxGjwcOofDonRaMoqabCxBHDmjFiKmnnC528APuBiWaM60nbYfRCNBBvDdebhZl2FIUfihdsYNlQnWnGEKxBNdQ0YAB8ERmRhUxOHp7Q==;6FhtnEdig7F/xPq4R0jpag=="
 ---
 

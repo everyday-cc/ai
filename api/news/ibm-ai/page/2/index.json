@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-07-ibm-acquires-data-observability-firm-databandai.md",
+      "title": "IBM acquires data observability firm Databand.ai",
+      "excerpt": "IBM plans to use Databand.ai in combination with IBM Observability by Instana APM and IBM Watson Studio to offer a full spectrum of observability tools across IT operations. Databand.ai ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/699649/ibm-acquires-data-observability-firm-databand-ai/?fp=2&fpid=1",
+      "originalUrl": "https://www.arnnet.com.au/article/699649/ibm-acquires-data-observability-firm-databand-ai/?fp=2&fpid=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_181115701.jpg",
+          "width": 500,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T19:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-ibm-aims-to-capture-growing-market-opportunity-for-data-observability-with-databandai-acquisition.md",
       "title": "IBM Aims to Capture Growing Market Opportunity for Data Observability with Databand.ai Acquisition",
       "excerpt": "By using Databand.ai with IBM Observability by Instana APM and IBM Watson Studio, IBM is well-positioned to address the full spectrum of observability across IT operations. For example, Databand.ai capabilities can alert data teams and engineers when the ...",
@@ -1258,49 +1301,6 @@
         "IBM AI",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-a-modern-ai-powered-mayflower-just-crossed-the-atlantic.md",
-      "title": "A modern AI-powered Mayflower just crossed the Atlantic",
-      "excerpt": "This robotic research vessel, which was two years in the making, sailed with no human crew and was piloted by an artificial intelligence software supplied by IBM. “After a 40-day and 3,500 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/ibm-autonomous-mayflower-ocean-research/",
-      "originalUrl": "https://www.popsci.com/technology/ibm-autonomous-mayflower-ocean-research/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2022/06/06/MAS-in-seatrials-March-2021-002-scaled.jpg?auto=webp",
-          "width": 2560,
-          "height": 1440,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/ibm-autonomous-mayflower-ocean-research/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ibm-autonomous-mayflower-ocean-research/?amp",
-      "publishedDateTime": "2022-06-06T17:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

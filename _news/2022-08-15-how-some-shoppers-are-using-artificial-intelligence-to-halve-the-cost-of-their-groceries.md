@@ -65,20 +65,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
-  - title: "The best AI tech films as per IMDb"
-    excerpt: "Since 1977, when the first ‘Star Wars’ film created a rage among the masses, it led filmmakers to churn out sci-fi content in abundance."
-    publishedDateTime: 2022-08-14T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/the-best-ai-tech-films-as-per-imdb/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/marketing-futurist-analytics-india-magazine.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "10 AI healthcare startups with the most funding"
     excerpt: "Boston-based company DataRobot uses AI to help businesses cut costs. The company raised $700 million over all investment rounds. Delphia — A Toronto-based startup. Delphia uses AI to help analyze datasets."
     publishedDateTime: 2022-08-15T16:14:00Z

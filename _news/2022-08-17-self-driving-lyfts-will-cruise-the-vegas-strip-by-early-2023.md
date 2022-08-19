@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/technology/lyft-self-driving-cars-las-vegas/?
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/lyft-self-driving-cars-las-vegas/?amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Driverless Lyfts Come to the Las Vegas Strip (With a Catch)"
+    excerpt: "Innovations big and small are happening up, down, and under the Las Vegas Strip. Elon Musk's Boring Co. has been building a network of tunnels under the city that will eventually use driverless Tesla  (TSLA)  electric vehicles to ferry people all over the city."
+    publishedDateTime: 2022-08-17T20:17:00Z
+    webUrl: "https://www.thestreet.com/investing/the-las-vegas-strip-gets-a-major-new-innovation"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/the-las-vegas-strip-gets-a-major-new-innovation"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/the-las-vegas-strip-gets-a-major-new-innovation"
+    type: article
+    provider:
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 59
+    images:
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg4NzU1NTY3OTMyNjE0MTc2/boring-company.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "Las Vegas Strip Gets a Brand New Technology"
     excerpt: "Innovations big and small are happening up, down, and under the Las Vegas Strip. Elon Musk's Boring Co. has been building a network of tunnels under the city that will eventually use driverless Tesla  (TSLA)  electric vehicles to ferry people all over the city."
     publishedDateTime: 2022-08-17T20:17:00Z
@@ -57,15 +73,6 @@ related:
         width: 917
         height: 600
         isCached: true
-  - title: "BMW denies ‘self-driving’ electric car caused deadly traffic pileup"
-    excerpt: "BMW is denying a claim by German law enforcement officials that one of its self-driving electric vehicles was autonomous at the time that it veered into opposing traffic and caused a four-car"
-    publishedDateTime: 2022-08-17T12:58:00Z
-    webUrl: "https://nypost.com/2022/08/17/bmw-denies-self-driving-electric-car-caused-fatal-traffic-pileup/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 4
 
 secured: "ihkHozFx870rv1iWX2Cly6E7YM97GwMS8RxvKPiQmokhT7iIPSm2uuZiuxhu9MIngsV7E8oebNisqd+SH64KMD15RBoxQL9ilpjhRvOm52mFi4KZ7ZZWSe6YhaJV/P1KHDY/kMk84G2kGp7e1Wfj1G26xNsSCS70YoZp7MhIw3PWEmhouiUUL4xXIcUxITot24F08PdItXSq8wjxppbjyIFzjawbYvj/CjR0QK1KUCtAAHtbps439CQdOZ6N8TlKXHt9Niv4hwvmObg9+JMCaEuVzLdLP/xnUt2xT9NB5zgB0wYqkcKt47vtrDa1nLUPD8c0E7G8kCIBTY78yYlv8A8q8yEc104xNO+8YuEbxTzagVvNJIFEIpLsGV4JeoTJvcpHhbKCHQR2M3UM3ZWlnQNF9hNfN3bQq6rWIH1uyx6UKBb6S3Yvxm2fY8d1rYI0IsLstlVUaVWc6jpRyIRqoxggBaFNd0WWzRyqqnFc2A4lNy2gTsj4fhT0sa5LevQDzDVbE+FH9gxxPg2oeO02MA==;PEgwp7D9SK7K5euKZDUsqQ=="
 ---

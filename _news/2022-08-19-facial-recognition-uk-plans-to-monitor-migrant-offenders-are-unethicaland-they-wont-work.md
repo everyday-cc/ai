@@ -43,7 +43,23 @@ related:
         width: 320
         height: 206
         isCached: true
+  - title: "Facial Recognition Bans Begin To Fall Around the US as Re-Funding of Law Enforcement Becomes Politically Popular"
+    excerpt: "Some cities and states that were early to ban law enforcement from using facial recognition software appear to be having second thoughts as crime spikes become a major political issue."
+    publishedDateTime: 2022-08-18T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/facial-recognition-bans-begin-to-fall-around-the-us-as-re-funding-of-law-enforcement-becomes-politically-popular/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/facial-recognition-bans-begin-to-fall-around-the-us-as-re-funding-of-law-enforcement-becomes-politically-popular/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/facial-recognition-bans-begin-to-fall-around-the-us-as-re-funding-of-law-enforcement-becomes-politically-popular/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 38
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2022/08/facial-recognition-bans-begin-to-fall-around-the-us-as-re-funding-of-law-enforcement-becomes-politically-popular_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
 
-secured: "lnfvhaYVXYXBaA5R3CiHvtdmj4cqR6OCIEcsQanVmSI0nSLm/SGniq3M4VY1CaAJCMoRa8uGSngG9vyOjeA88efeXdQhCqBBuGbWmlupQtQNyVSJHHtI9yMbg3LynHrt4+g9zdn1y6NewMclEFqX9w2Q/1dq6Ot7CsUl5FYIEMG760YbVUFTNzI2rXPwFCRumVIFiism1lTfZOTs+CQZ/CmKkGf/iME3JLQ3AZK9ivqz0fIFTwl7AIoyNev/3vyoCu3yW/jtKurCm78BfQ/jv19HmkGQ2OrMBdyYyvYja5uSUsOd86u1OVeFQqoAKvz3yJmzinyepJ0W5ceSvomaItdELqqmms/gvXWCbBcJrKE=;AVOxp2st8hg6JlCU2iuzkw=="
+secured: "RchA0K+hy5Ci7qd+yqRLF9vBjVznCFWEoij2AoKXVHaoFqdzHc25ifOMIjtw+M79POJ0io+6gudEFiQEQmcxEegO6qgWBdVGj8koy7IoPqMaf1wZllAdK4bNmyLBLvlr7YtMfDyEFboAbtr0GTv25PKtrT68dch1kj4yLOw6ujYty9xAbH6qzDIW7a8a5AZ8i/Cc4WbdH0Xnma0haBlfOZMUGiuAO/XMDZqMF9xbKO2uY5Wjiz98ch+U8qaY2wo+hAKgvjLHtJ6+EIKJYhTlV0r8lvs1T6Efi/rlz3y2/L4z3uKO0h1MipNqkunDDG5fbxoaY6khVKZlmwgUSdQ9toAXmQWFr27yYn2RfH1HmLXPAcm17TvemO/BZ4iJXfpKsAqrxm6TYhU32T3S1YF3NDEsOT7LL/06/BeU3LSHBjvu63QS7Ze8G247fqa6QIiY0sH7mYXA3gOcKPISFKpbNIy4I9mOUk3oS+A8cpwJeBauCbYTYpKEJDJyAM3wqepNGBhmQtLuJBdoKqPTyRK0xw==;/htzb1XATqSHWIv0rIKrZQ=="
 ---
 

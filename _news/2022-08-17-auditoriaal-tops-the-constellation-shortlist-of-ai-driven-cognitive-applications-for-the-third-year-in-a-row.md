@@ -1,46 +1,39 @@
 ---
 category: news
 title: "Auditoria.Al Tops the Constellation ShortList of AI-Driven Cognitive Applications for the Third Year in a Row"
-excerpt: "By leveraging natural language processing, artificial intelligence, and machine learning, Auditoria removes friction and repetition from mundane tasks while automating complex functions, and providing real-time visibility into cash performance. Corporate ..."
-publishedDateTime: 2022-08-17T15:06:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/technology-35e1a35b4d51cf0c419354ba1a459f27"
-webUrl: "https://apnews.com/press-release/accesswire/technology-35e1a35b4d51cf0c419354ba1a459f27"
+excerpt: "Constellation predicts that the total market for this autonomous enterprise market, including cognitive applications ... and collaboration tools such as Microsoft 365 and Google Workspace."
+publishedDateTime: 2022-08-17T15:57:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56834973-auditoria-al-tops-the-constellation-shortlist-of-ai-driven-cognitive-applications-for-the-third-year-in-a-row-200.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56834973-auditoria-al-tops-the-constellation-shortlist-of-ai-driven-cognitive-applications-for-the-third-year-in-a-row-200.htm"
 type: article
-quality: 22
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
-  - Natural Language Processing
-  - AI
   - Microsoft AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
+  - AI
 
 related:
-  - title: "Citibeats Launches New Open Source Ethical AI Community Dedicated to Democratization of AI"
-    excerpt: "Citibeats, a provider of ethically-sourced AI insights that drive real-time, data-driven actionable decisions, is establishing an open-source community dedicated to democratizing its AI algorithm. The “ Ethical AI Community ” will be composed of developers who are committed to refining Citibeats’ existing algorithm to ensure that it is as free from code bias as possible—a key consideration for realizing the potential of AI as a solution for some of the world’s most complex problems."
-    publishedDateTime: 2022-08-18T16:05:00Z
-    webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-b34c94c21c7deca72b5590fcf5c319ad"
+  - title: "LigaData and aiXplain collaborate to provide a range of new cognitive AI services to the telecommunications sector"
+    excerpt: "LigaData, the provider of specialist data analytics and AI products for mobile operators, has partnered with Natural Language Processing (NLP) and AI/ML experts, aiXplain, to provide a range of new cognitive AI services to the telecommunications sector."
+    publishedDateTime: 2022-08-16T16:22:00Z
+    webUrl: "https://www.totaltele.com/514068/LigaData-and-aiXplain-collaborate-to-provide-a-range-of-new-cognitive-AI-services-to-the-telecommunications-sector"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 44
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 17
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.totaltele.com/res/image/tech%20stuff/manila%20philippines%20resize.jpg"
+        width: 400
+        height: 400
         isCached: true
 
-secured: "gc409Jbt2IaQYBDyTSiiXPbkjMSMCFGNHuosZ92H1cIM+I5oGOH0Uz9fzfFv/6mdmBHKYugb77tedYrAHQmut9V6bYHIkcoL/+ikibpjIQk+HaAvlFcNqssJDlqMCEeuT3OWrTYQRN3VtqvBuUygi6EPgJIRs5UCdDftnFWrb0GXQt0cIAPF4DD+z0yfewKEU+SIDNQKdru0+YUw3sdugcysOVy3hyt8I2OIAdJGyLhuGK6la+xfgHic3g6DWpTiGoBqMxZCr9h/RFxrChvAMXtUDBv/nT7XH65hLoknr7fquAYgGp2XN3ozML8ekj5bPIGnjJfmCdRAXmBBGF8umeuyaMB57ZzkiooSDWL7guE=;4W/+BO/4jaEGIsjJbVDI6w=="
+secured: "5Bsljf0z9FGynDf/RFOBcWYI+Y3TG8Yi719oCZJqjSBJ49HNG1ho99KZLixL1xveqP3m7a8FtvWnzPQZzzu8+vfWsD+kPzMTEof1n1gn4FO7TKCCYutuyMU8/pVrY525kGGFAleQncXmeNSYXYDwTQKrig7NENh01AZ7cHclW5xGJlOSfqm9BBbrlzYnW6tr7PMgvLtl9dkFup4p2khzSoh9r2nWj0HBIPCgN569u5rQ8MbCDrkpGIo/N/xmB96/cG/1XMoLl/kfMN8GeZLHc7KfkNHQcea9Fyufvr5AwEgW0O7kASk3/9BXDkb2ptKkmwtcx7atAxg97cx5sWWFz7GPL4gHnOUvB17ZXmmIsGM=;OTqYn3HVDZ9ytKonxGshkA=="
 ---
 

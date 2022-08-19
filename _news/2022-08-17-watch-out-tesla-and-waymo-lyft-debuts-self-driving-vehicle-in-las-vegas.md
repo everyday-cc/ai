@@ -98,6 +98,33 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 54
+  - title: "Tesla Wants Its Day in Court to Defend Autopilot and Full-Self Driving"
+    excerpt: "Tesla has asked for a hearing to defend its advertising of Autopilot and FSD after the California DMV called it false advertising."
+    publishedDateTime: 2022-08-18T22:00:00Z
+    webUrl: "https://jalopnik.com/tesla-wants-its-day-in-court-to-defend-autopilot-and-fu-1849430552"
+    ampWebUrl: "https://jalopnik.com/tesla-wants-its-day-in-court-to-defend-autopilot-and-fu-1849430552/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/tesla-wants-its-day-in-court-to-defend-autopilot-and-fu-1849430552/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 54
+  - title: "NHTSA Doesn’t Want People Testing Tesla’s Full Self-Driving Technology On Real Human Children"
+    excerpt: "The NHTSA is warning those who use real kids or people in general for their own safety testing demonstrations. The reaction comes after a bevy of private individuals began posting similar tests online."
+    publishedDateTime: 2022-08-18T22:00:00Z
+    webUrl: "https://www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/"
+    ampWebUrl: "https://www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 48
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2022/08/2022-Tesla-Lineup-1-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
 
 secured: "Dy2GxcHRxUEqKigWjeZwy/aWrsw7XpjoHScm9O+FF0vodadWKgBj8uQJmrU+S78j/VQ47HTd0QlxTlhogiT5jKAh9v8M2WvHzL4AbHsT/uZBJaXj08pcWphFgv8n56Zl0tTGRQioCOqI+ONjeUdRX6N0NKhnvYtMLNgeno/pUlduNB7NQ04QyKBpAMhEltOsfmyWqgkqGtVCFzDHj7bCyG8Zi9CCRyJoZ9DDRoJBhWg1RY0OUqm0D0pHa5rVfzAqNwLqD2PRUeN8HXXMsoAubFwdl2oFbyQHA7sbrcWpQWXFaGwcRG7/ou3s2ZPGG6OAmvs9LAakurQVibc4M2seMpzPlkVNr2Ln4zrGOFApIK1PJR2qqRNf0Rt1HFlIstzeAYAbwSpMCdAQ1ZwBfn0niSw5fW2DyiiwxQZjDxkbJZu1s8XDcRO84xxeuwGFdrq9Sy8tj4elth4jEmEX1IqbUESWk3bAhqvKYwD4obD8CQoB94EfEYkKYmfsvfpD4djmTtxLHjWyhyBjeACdsRZz3A==;QQ58HsG2yLDoAdLIPRUs6w=="
 ---

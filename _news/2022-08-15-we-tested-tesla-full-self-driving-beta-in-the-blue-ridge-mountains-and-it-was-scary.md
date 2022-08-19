@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-rid
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/amp/"
 type: article
 quality: 97
-heat: 147
+heat: 167
 published: true
 
 provider:
@@ -99,6 +99,33 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 54
+  - title: "Tesla Wants Its Day in Court to Defend Autopilot and Full-Self Driving"
+    excerpt: "Tesla has asked for a hearing to defend its advertising of Autopilot and FSD after the California DMV called it false advertising."
+    publishedDateTime: 2022-08-18T22:00:00Z
+    webUrl: "https://jalopnik.com/tesla-wants-its-day-in-court-to-defend-autopilot-and-fu-1849430552"
+    ampWebUrl: "https://jalopnik.com/tesla-wants-its-day-in-court-to-defend-autopilot-and-fu-1849430552/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/tesla-wants-its-day-in-court-to-defend-autopilot-and-fu-1849430552/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 54
+  - title: "NHTSA Doesn’t Want People Testing Tesla’s Full Self-Driving Technology On Real Human Children"
+    excerpt: "The NHTSA is warning those who use real kids or people in general for their own safety testing demonstrations. The reaction comes after a bevy of private individuals began posting similar tests online."
+    publishedDateTime: 2022-08-18T22:00:00Z
+    webUrl: "https://www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/"
+    ampWebUrl: "https://www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 48
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2022/08/2022-Tesla-Lineup-1-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
 
 secured: "5eOMwsjttvw4QckvF1fTXabBmGlrQUYCOIF7t9HMDXGTtWn0Rbo1CvcT7Cvdqdd5a0lQr1422dc/JWFM2NT0h8kxf+yhjxwkuT3ugv2x75nL7kjDQYA0ks1I/eCrvgwbd7xk8oHQK0yaA3+odIOEi4Hcct82c6916DuPkSyU3T/lVubyD5J0woaCOV4q9rDFep2q2a2k9M2cw1bK93sHvvXj0uhFBt/Squ2xB97WtVDKWAnpQO7jOiZGCfwcVQ31Nr5GwHZGcdn4yXQfTaGb4vn2vitVEd/Kv9+ool2ljkHJfM7wHGHD1uDlanUg2KAnnitik3AMGnmPpaNHJsdVLPCQ90LgJVVufqxltqqus/Mxp1Nlc23qEuyzp9o2S/PnBfhNM9nAdgsjehSz2PFR08ISvrEoMUFZ9NWbN1ja0CdOg6RwfFQ1AuirRIP6kigNTyInq4NtZuXBhTFNYetbPAbXdj5ijG3O5PZ80EpBgd7gNfREQ+66NbKunprkuWP/OnnOXLtzUNxIq21QMXh+qA==;oQvG5JLvOauKhxuUd4PqZw=="
 ---

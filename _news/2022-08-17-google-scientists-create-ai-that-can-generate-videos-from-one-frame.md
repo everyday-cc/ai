@@ -9,8 +9,8 @@ ampWebUrl: "https://futurism.com/google-deepmind-video-single-frame?amp"
 cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-deepmind-video-single-frame?amp"
 type: article
 quality: 61
-heat: 71
-published: true
+heat: -1
+published: false
 
 provider:
   name: Futurism
@@ -28,20 +28,31 @@ images:
     isCached: true
 
 related:
-  - title: "Using AI to Automate, Orchestrate, and Accelerate Fraud Prevention"
-    excerpt: "As fraud, waste, and abuse (FWA) cost government agencies and private companies billions each year, artificial intelligence (AI) has transformed how"
-    publishedDateTime: 2022-08-16T17:01:00Z
-    webUrl: "https://www.datanami.com/2022/08/16/using-ai-to-automate-orchestrate-and-accelerate-fraud-prevention/"
+  - title: "Google’s DeepMind AI can ‘transframe’ a single image into a video"
+    excerpt: "Earlier this week, the team behind Google’s advanced DeepMind neural network unveiled a new ability dubbed Transframer, which allows AI to generate 30-second videos from a single image input. It’s a nifty little trick at first glance,"
+    publishedDateTime: 2022-08-18T22:00:00Z
+    webUrl: "https://www.popsci.com/technology/one-image-video-deepmind/"
+    ampWebUrl: "https://www.popsci.com/technology/one-image-video-deepmind/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/one-image-video-deepmind/?amp"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
+      name: Popular Science
+      domain: popsci.com
+    quality: 74
     images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/08/fraud_shutterstock_Rawpixel_dot_com.jpg"
-        width: 1000
-        height: 738
+      - url: "https://www.popsci.com/uploads/2022/08/18/deepmind-ai-video-from-image.jpg?auto=webp"
+        width: 2000
+        height: 1500
         isCached: true
+  - title: "Deepmind Launches SOTA Video Generation Framework, ‘Transframer’"
+    excerpt: "Deepmind researchers announced the launch of Transframer—a new general-purpose framework for image modelling and vision tasks based on probabilistic frame prediction."
+    publishedDateTime: 2022-08-16T13:22:00Z
+    webUrl: "https://analyticsindiamag.com/deepmind-launches-sota-video-generation-framework-transframer/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
 
 secured: "syTU8PU4PiyQL2U7JWoCrIU5TnhXuCg5OkW8P4bHP73w9kQl2Kw+cS28uMCGpBmtboKDauK0srBc/hLH5Gs/C/i/J3LF/jG6O1QQ/595eXAvFtrkl/ECpUs3U1Tgqe5BNCj0gb94WibYG8oQFNbvKFD1MudkTFyjzEVUFC9iyaHSnFbVcDsS/4Z2i2oa8Y5rnUPtp9YE2gYVrR6Blr8opCJmyegELz0MH21Or06dCqChhDl5WTGRoGnHXZjJhhrYXkjAvkf7HWMoiHYa/lfh3VMzeDYJF/8d1HrBK5itHgfo9U/GjlGcCb1T4QqlsieKHqOweUl8TUUoUmyWWt+l0hjGkiJECG51a4NMLjHr4GrNFu9ZkKbEkbHr9Pejxprmg07hMrYGQNUkIZK61LhbgXWNgUaey565jvZ6x/lZ0BDXEQuEhfDgBw6r7gLPLvFKI3hW01HFT3bLEcNKvZIZKKU1u4XgVo9oeLDF70Q+fCdG3+eq/jUVqM0/0wLiQYzZea7hUirr5eZfLJqoMcUhmg==;3ZPY6wsB7yhl0qCGXyg7dA=="
 ---

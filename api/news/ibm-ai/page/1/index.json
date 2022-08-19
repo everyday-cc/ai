@@ -181,6 +181,50 @@
       ]
     },
     {
+      "path": "_news/2022-08-08-ibm-watson-powered-augmented-intelligence-seeks-an-edge-in-travel-marketing.md",
+      "title": "IBM Watson-Powered Augmented Intelligence Seeks an Edge in Travel Marketing",
+      "excerpt": "Watson refers to IBM’s cognitive artificial intelligence (AI) platform. Watson is best-known for tricks like defeating contestants on the U.S. quiz show “Jeopardy!” It can interpret ...",
+      "sourceUrl": null,
+      "webUrl": "https://skift.com/2017/08/08/ibm-watson-powered-artificial-intelligence-seeks-an-edge-in-travel-marketing/",
+      "originalUrl": "https://skift.com/2017/08/08/ibm-watson-powered-artificial-intelligence-seeks-an-edge-in-travel-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://skift.com/wp-content/uploads/2017/08/ibm-watson-marketing-.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://skift.com/2017/08/08/ibm-watson-powered-artificial-intelligence-seeks-an-edge-in-travel-marketing/amp/",
+      "cdnAmpWebUrl": "https://skift-com.cdn.ampproject.org/c/s/skift.com/2017/08/08/ibm-watson-powered-artificial-intelligence-seeks-an-edge-in-travel-marketing/amp/",
+      "publishedDateTime": "2022-08-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Skift",
+        "domain": "skift.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-your-financial-road-map-in-an-uncertain-future.md",
       "title": "Your Financial Road Map in an Uncertain Future",
       "excerpt": "Edward-Elmhurst Health has also been named a Top 15 Health System in the country for the fourth year in a row by IBM Watson Health/Fortune ... adopt tech that will reduce expenses through artificial intelligence [AI],\" Chamberlain says.",
@@ -1236,49 +1280,6 @@
       "provider": {
         "name": "Banyan Hill Publishing",
         "domain": "banyanhill.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-ibm-acquires-data-observability-firm-databandai.md",
-      "title": "IBM acquires data observability firm Databand.ai",
-      "excerpt": "IBM plans to use Databand.ai in combination with IBM Observability by Instana APM and IBM Watson Studio to offer a full spectrum of observability tools across IT operations. Databand.ai ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/699649/ibm-acquires-data-observability-firm-databand-ai/?fp=2&fpid=1",
-      "originalUrl": "https://www.arnnet.com.au/article/699649/ibm-acquires-data-observability-firm-databand-ai/?fp=2&fpid=1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_181115701.jpg",
-          "width": 500,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-06T19:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
         "images": null,
         "publishers": null,
         "authors": null

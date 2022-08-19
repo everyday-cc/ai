@@ -45,6 +45,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Google is training its robots to be more like humans"
+    excerpt: "In a drab Google office park in Silicon Valley, robots are going to school, using AI algorithms to learn how to play ping pong and clean up after humans."
+    publishedDateTime: 2022-08-16T15:00:00Z
+    webUrl: "https://www.washingtonpost.com/technology/2022/08/16/google-ai-robot-school/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 54
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/08-16-2022/t_8173f0650bed4af9b812985bca0bb96e_name_google_bot_2.jpg&w=1440"
+        width: 1440
+        height: 810
+        isCached: true
 
 secured: "NgDWl0w+/mCRPuHYz6ExgB9EbXqFdSKwOokp4mG22lNrGpPZbx1Yfuhy+/w9DlKHt6ATjFIbSgHJqjz8ADzQhYMtEoEWo/tnYYFraUJodXUsFV13/VSxaXvLwg/nVjQnHpk4WbGe9XHHdXIQE6AUXYbeuzE3ynLDKmkw+v/Wwn3gfBp+UbB+rMGDRRFHYcWzSyvGZRJkjltRQEwh+M5IZ4KUgTFu+RD9bKHB3Nlel36uFjqRotsWL/FAN5Mz0YahrHCtXA9Y1EGhRqztXIX7ooHHPSLfTbUYVV7FMKPGRDgS9ymyvU6Oep+5EtF3bb8vYxQsTR3enrURYcFrPIU8uZSjF+t3JkRy+S57hHEgchwA/YAra7m8ExaEVSoJVBXPpQwHWLz/Qcsvy+QyBm0XONpSE2j8PYRweHNoKUyXtkK1zQD6A0dUgHlM9rTie7zrGzrns+TfHn6Hd4J5/kvQbzUgrgHd+kHHwLnlrKldkSuRSsmvC1VryyzCjS5AQinn4PIVhHyxUwHs7em5Y2XRpg==;X6LodiQafd584gBQGFhoJA=="
 ---

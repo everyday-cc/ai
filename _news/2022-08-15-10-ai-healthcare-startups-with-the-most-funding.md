@@ -60,20 +60,6 @@ related:
       name: Gizmodo
       domain: gizmodo.com
     quality: 47
-  - title: "The best AI tech films as per IMDb"
-    excerpt: "Since 1977, when the first ‘Star Wars’ film created a rage among the masses, it led filmmakers to churn out sci-fi content in abundance."
-    publishedDateTime: 2022-08-14T05:30:00Z
-    webUrl: "https://analyticsindiamag.com/the-best-ai-tech-films-as-per-imdb/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/marketing-futurist-analytics-india-magazine.jpeg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "How some shoppers are using artificial intelligence to halve the cost of their groceries"
     excerpt: "Kate Singleton said online recipe subscription service Menu Aid had changed the way she shops but she had no idea the system was powered by AI technology."
     publishedDateTime: 2022-08-14T22:57:00Z
