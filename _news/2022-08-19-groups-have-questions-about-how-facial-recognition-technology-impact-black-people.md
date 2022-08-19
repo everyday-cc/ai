@@ -8,7 +8,7 @@ webUrl: "https://thegrio.com/2022/08/19/facial-recognition-technology-impact-bla
 ampWebUrl: "https://thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/amp/"
 cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/amp/"
 type: article
-quality: 54
+quality: 56
 heat: -1
 published: false
 

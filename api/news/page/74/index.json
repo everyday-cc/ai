@@ -2,60 +2,6 @@
   "page": 74,
   "value": [
     {
-      "path": "_news/2022-06-19-how-ml-powered-video-surveillance-could-improve-security.md",
-      "title": "How ML-powered video surveillance could improve security",
-      "excerpt": "This can include count-based alerts when the number of people in a certain area exceeds a set limit, alerts triggered by object identification or, where applicable, face recognition. Video content ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/18/how-ml-powered-video-surveillance-could-improve-security/",
-      "originalUrl": "https://venturebeat.com/2022/06/18/how-ml-powered-video-surveillance-could-improve-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1311084163-e1652290730534.jpg?fit=800%2C534&strip=all",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/18/how-ml-powered-video-surveillance-could-improve-security/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/18/how-ml-powered-video-surveillance-could-improve-security/amp/",
-      "publishedDateTime": "2022-06-18T10:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Machine Learning",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2022-06-18-cruises-san-francisco-robotaxis-seize-initiative-in-race-for-autonomy.md",
       "title": "Cruise’s San Francisco robotaxis seize initiative in race for autonomy",
       "excerpt": "We’ll send you a myFT Daily Digest email rounding up the latest Driverless vehicles news every morning. Since Google launched its self-driving car project in 2009, it has been leading the way ...",
@@ -1147,6 +1093,57 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-tabnine-updates-ai-based-code-writing-assistant-for-developers.md",
+      "title": "Tabnine updates AI-based code-writing assistant for developers",
+      "excerpt": "Tabnine has launched a new version of its AI-powered assistant, which software developers can use to anticipate code written for apps.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/16/tabnine-updates-ai-based-code-writing-assistant-for-developers/",
+      "originalUrl": "https://venturebeat.com/2022/06/16/tabnine-updates-ai-based-code-writing-assistant-for-developers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2015/10/devops-e1655415804190.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 762,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/16/tabnine-updates-ai-based-code-writing-assistant-for-developers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/tabnine-updates-ai-based-code-writing-assistant-for-developers/amp/",
+      "publishedDateTime": "2022-06-16T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

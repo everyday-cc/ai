@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-rid
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/amp/"
 type: article
 quality: 97
-heat: 177
+heat: 187
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Podcast: Tesla Full Self-Driving Beta test, VPP event, Tesla Semi, and more"
+    excerpt: "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. This week, we discussed our Tesla Full Self-Driving Beta test, Tesla’s first VPP event,"
+    publishedDateTime: 2022-08-19T19:33:00Z
+    webUrl: "https://electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi/"
+    ampWebUrl: "https://electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 87
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Autonomous? Nope. California moves against Tesla’s ‘full self-driving’ claim"
     excerpt: "The California DMV has become the first US government entity to formally move against the naming of \"full self-driving.\" Here's what's happening."
     publishedDateTime: 2022-08-16T11:17:00Z

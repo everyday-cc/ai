@@ -173,6 +173,15 @@ related:
       name: IOL News
       domain: iol.co.za
     quality: 19
+  - title: "Amazon Testing TikTok-Style Feed On Its App, AI Firm Says"
+    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."
+    publishedDateTime: 2022-08-19T16:19:00Z
+    webUrl: "https://www.news9.com/story/62ffb82b525191072cda0b1a/amazon-testing-tiktokstyle-feed-on-its-app-ai-firm-says"
+    type: article
+    provider:
+      name: News9
+      domain: news9.com
+    quality: 19
   - title: "TikTok’s new text-to-image AI tool lets you create trippy pictures"
     excerpt: "TikTok has decided to jump on board with the emergence of new text-to-image AI tools. The platform now offers its own, albeit pretty basic, text-to-image AI that you can find inside the TikTok app itself."
     publishedDateTime: 2022-08-15T16:54:00Z

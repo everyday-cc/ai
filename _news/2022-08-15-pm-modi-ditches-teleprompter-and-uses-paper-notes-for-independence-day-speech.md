@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/nation/2022/aug/15/pm-modi-ditches-
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/nation/2022/aug/15/pm-modi-ditches-teleprompter-and-uses-paper-notes-for-independence-day-speech-2487800.amp"
 type: article
 quality: 41
-heat: -1
+heat: 41
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "PM Modi Ditches Teleprompter, Uses Paper Notes For Independence Day Speech"
-    excerpt: "Prime Minister Narendra Modi used paper notes, and not a teleprompter, in his address to the nation.This was his ninth address from the ramparts of the Red Fort."
-    publishedDateTime: 2022-08-15T03:55:00Z
-    webUrl: "https://www.ndtv.com/india-news/pm-narendra-modi-ditches-teleprompter-uses-paper-notes-for-independence-day-speech-3255345"
-    ampWebUrl: "https://www.ndtv.com/india-news/pm-narendra-modi-ditches-teleprompter-uses-paper-notes-for-independence-day-speech-3255345/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/pm-narendra-modi-ditches-teleprompter-uses-paper-notes-for-independence-day-speech-3255345/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 42
-    images:
-      - url: "https://c.ndtvimg.com/2022-08/ntss8ls8_pm-modi_625x300_15_August_22.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "Independence Day: PM Modi ditches teleprompter, uses paper notes for his speech"
     excerpt: "The teleprompter was sidelined by the nation's chief as he began his speech by congratulating the countrymen on the completion of 75 years of independence which is being celebrated in the country under the banner of Azadi Ka Amrit Mahotsav."
     publishedDateTime: 2022-08-15T05:05:00Z
@@ -58,22 +42,6 @@ related:
       - url: "https://images.livemint.com/img/2022/08/15/600x338/PM_Modi_1660531341802_1660539569270_1660539569270.jfif"
         width: 600
         height: 338
-        isCached: true
-  - title: "Independence Day 2022: PM Modi ditches teleprompter, uses paper notes for speech"
-    excerpt: "The teleprompter was sidelined by the nation's chief as he began his speech by congratulating the countrymen on the completion of 75 years of independence."
-    publishedDateTime: 2022-08-15T03:53:00Z
-    webUrl: "https://www.hindustantimes.com/india-news/independence-day-2022-pm-modi-ditches-teleprompter-uses-paper-notes-for-speech-101660534926054.html"
-    ampWebUrl: "https://www.hindustantimes.com/india-news/independence-day-2022-pm-modi-ditches-teleprompter-uses-paper-notes-for-speech-101660534926054-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/independence-day-2022-pm-modi-ditches-teleprompter-uses-paper-notes-for-speech-101660534926054-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/08/15/1600x900/pm_modi_at_red_fort_1660536024820_1660536024970_1660536024970.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Independence Day 2022: PM Modi uses paper notes for his speech, ditches teleprompter"
     excerpt: "Wearing a traditional tricoloured motif safa (headgear) with a long trail, Prime Minister Modi then recalled the 'architects of free India'."
@@ -107,43 +75,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "We need to be proud of every language in our country: PM Modi's I-Day 2022 speech"
-    excerpt: "Prime Minister Narendra Modi in his address on Monday on the occasion of the country 76th Independence Day called for unity among people while pointing out th"
-    publishedDateTime: 2022-08-15T06:51:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272654011/we-need-to-be-proud-of-every-language-in-our-country-pm-modi-i-day-2022-speech"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 19
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1660546246.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "\"Talent will be basis of New India\": PM Modi takes aim at 'Parivaarwaad', 'Bhai Bhatijawad' in I-Day 2022 speech"
-    excerpt: "Prime Minister Narendra Modi on Monday in his Independence Day speech on Monday took aim at the twin evils of nepotism and corruption and sought the people co"
-    publishedDateTime: 2022-08-15T05:43:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272653961/talent-will-be-basis-of-new-india-pm-modi-takes-aim-at-parivaarwaad-bhai-bhatijawad-in-i-day-2022-speech"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 18
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1660541340.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "I-Day speech: PM Modi recalls contributions of \"architects of free India\""
-    excerpt: "Beginning his speech at the Red Fort marking India's 75th Independence Day, Prime Minister Narendra Modi on Monday recalled the \"architects of free India\" who significantly contributed to India's freedom struggle."
-    publishedDateTime: 2022-08-15T15:27:00Z
-    webUrl: "https://news.webindia123.com/news/articles/India/20220815/3973275.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 3
 
 secured: "E2N8GXwNLLO0s5tXn3RM12hD3G2XNqJZwTAy7h+c5sU3qUq4noSPmmgDIvcd/iGWaPPxpHNZUt51YFH/01NFmxdoFsCEIamIhdAcioOw2nLQn2zH/vbrbePcqRSKCF0V89ATHK+c8KNC/rmbSWgxCk8rptFOTGW8kiS89H2WJFRy5S04DAjGIyC8gocI0WhGWUWHSh92CS+HEz1I2kHF0rz0pB56yG2EHqNNCeutg77yKxt7EX0V6rxIUweviIo1xFJAtFIE53acX7Euodgv/sEgPvznVwCPk9gjoqJVEBU06sZh/hDp0HI8uSF560jZeSrDJBxqfjtOuj03beZEbB1uF2wx7Ekx9/jaPn/Mu/bJI0YrQYY+UXcyszhUblz0NPqdrW0XI3Azpha7MmwTKoQmpIsvPzrz2Tc5wtjHnl0NIsanrErK+ZHJJWK3DvTcYJYNW8cSdKYLqoDs2d9xZkSbKvKhTAR1OVPrnUtSydPQ78qIn3JdJAW68X73qRl/rlTzfsR2J/9K3UTdgoZAhg==;1mdhG6y9cCLNHyEskQVxVQ=="
 ---

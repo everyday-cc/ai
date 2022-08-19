@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-19T19:27:00Z
 originalUrl: "https://spaceref.com/space-commerce/vector-space-biosciences-announces-new-tools-for-developing-countermeasures-associated-to-stressors-during-spaceflight/"
 webUrl: "https://spaceref.com/space-commerce/vector-space-biosciences-announces-new-tools-for-developing-countermeasures-associated-to-stressors-during-spaceflight/"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: SpaceRef
@@ -14,6 +17,33 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Samsung Biologics, C&T invest in US biotech firm Senda Biosciences"
+    excerpt: "By Baek Byung-yeul An investment fund created by Samsung Biologics and Samsung C&T invested $15 million into U.S.-based biotechnology company Senda Biosciences as part of their ef"
+    publishedDateTime: 2022-08-17T07:16:00Z
+    webUrl: "https://www.koreatimes.co.kr/www/tech/2022/08/779_334579.html"
+    ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=334579"
+    cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=334579"
+    type: article
+    provider:
+      name: The Korea Times
+      domain: koreatimes.co.kr
+    quality: 44
+    images:
+      - url: "https://img.koreatimes.co.kr/upload/newsV2/images/202208/dddbae1408054776894fbfa533219efb.jpg"
+        width: 980
+        height: 735
+        isCached: true
+  - title: "Vector Space Biosciences Announces New Tools for Developing Countermeasures Associated to Stressors During Spaceflight"
+    excerpt: "To establish a lunar base or go to Mars, understanding how to protect and repair the human body during spaceflight is imperative. Countermeasures against diseases associated to stressors during spaceflight,"
+    publishedDateTime: 2022-08-18T14:16:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/space-exploration-technology-science-3155e9661ab448a8a67a56934f06402a"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "eCBfKNu0+pycqKZbg651dpMEq8NN001g+LFQbYNkT0y0StkJ1BcxJJ04JLhtY8jJb3jowRi8quQrUuF76KiRAETvbU1MdK7XMMJAfOpF7WxB7hrNHjazXCdd+J+3+5tWE79bsfAn3Z8tjZd/IQUuLIv5XBhGF8MgjkHSnKkpUPJv5TbAhDucjAi2h/jpoD78L68JW31pB3I+SKNo4lryCCiuTbGSuWjKtnWyNowGIAJLERdvs08wsaps/cKvQdPOeVc+m506aG01UXtmoaBr7eOX+kqTRky8WJOBKurBa/XUqUMSkptwd3RtMRrhMXxObMWl1DvMAaUBss7y4nO6WwTaSY5Fd+6WvzCTFX5DK2EYiaXSxEeB/3aEhweKfpGnPbQuJHI70ePbgMo48dUVKz89An1xkKcwE7kgBc7/2W2S3bFhiJGyUzYZo97/xR3a6EoUnqSknfXRsLvpMwJyWlXqYp4oZoTaMX8Hxxl5jRCuo2b54wM9CRYm992ctw8RBsw0rOPjjNzPokDDaz//xg==;MlmULor05TW30Kgh3lrH/w=="
 ---

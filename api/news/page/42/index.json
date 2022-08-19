@@ -2,49 +2,6 @@
   "page": 42,
   "value": [
     {
-      "path": "_news/2022-07-14-teaching-ai-to-ask-clinical-questions.md",
-      "title": "Teaching AI to ask clinical questions",
-      "excerpt": "Researchers are working toward machine-learning models that can help doctors more efficiently find information in a patient’s health record.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/959260",
-      "originalUrl": "https://www.eurekalert.org/news-releases/959260",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/1e5cc45d-c6cd-4f37-9cbd-7e928649c5f0/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-14-a-case-study-on-how-to-succeed-as-a-deep-tech-start-up.md",
       "title": "A Case Study On How To Succeed As A Deep Tech Start-Up",
       "excerpt": "No problem is too complicated that software cannot solve, either now or in the future. So why not focus on solving the world's biggest problems? That's the promise of Deep Tech.",
@@ -1126,6 +1083,41 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-long-covid-treatments-hyperbaric-oxygen-therapy-could-be-the-key-new-study-reveals.md",
+      "title": "Long COVID treatments: Hyperbaric oxygen therapy could be the key, new study reveals",
+      "excerpt": "The study included 73 long haulers with post-COVID-19 cognitive symptoms ... which called on the Department of Health and Human Services to expand existing research on the condition and coordinate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/seattle-news/health/long-covid-treatments-hyperbaric-oxygen-therapy-could-be-the-key-new-study-reveals/",
+      "originalUrl": "https://www.seattletimes.com/seattle-news/health/long-covid-treatments-hyperbaric-oxygen-therapy-could-be-the-key-new-study-reveals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

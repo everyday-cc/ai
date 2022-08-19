@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-19T19:16:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-8-19-fga-partners-appointed-strategic-advisor-for-global-fintech-company-thunderbirdsme"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-8-19-fga-partners-appointed-strategic-advisor-for-global-fintech-company-thunderbirdsme"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Herald

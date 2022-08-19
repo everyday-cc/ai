@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-18T20:13:00Z
 originalUrl: "https://mobileidworld.com/fingerprint-recognition-pioneer-bio-key-facial-recognition-mobile-platform-408181/"
 webUrl: "https://mobileidworld.com/fingerprint-recognition-pioneer-bio-key-facial-recognition-mobile-platform-408181/"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Mobile ID News

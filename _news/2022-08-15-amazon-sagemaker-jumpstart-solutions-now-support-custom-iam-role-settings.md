@@ -7,8 +7,8 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jum
 webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-solutions-now-support-custom-iam-role-settings/"
 type: article
 quality: 68
-heat: 78
-published: true
+heat: -1
+published: false
 
 provider:
   name: AWS
@@ -23,19 +23,56 @@ topics:
   - AWS AI
 
 related:
-  - title: "Amazon Web Services SageMaker workshop is Sept. 27"
-    excerpt: "Join Research IT and Amazon Web Services for a free half-day SageMaker workshop. Tuesday, Sept. 27; Kissam C210; 8 a.m.–1 p.m. Lunch included; Register Here. >> Amazon SageMaker"
-    publishedDateTime: 2022-08-19T14:07:00Z
-    webUrl: "https://news.vanderbilt.edu/2022/08/19/amazon-web-services-sagemaker-workshop-is-sept-27/"
+  - title: "Best practices for TensorFlow 1.x acceleration training on Amazon SageMaker"
+    excerpt: "Today, a lot of customers are using TensorFlow to train deep learning models for their clickthrough rate in advertising and personalization recommendations in ecommerce. As the behavior of their clients change, they can accumulate large amounts of new data every day. Model iteration is one of a data"
+    publishedDateTime: 2022-08-19T18:08:36Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/best-practices-for-tensorflow-1-x-acceleration-training-on-amazon-sagemaker/"
     type: article
     provider:
-      name: Vanderbilt University News
-      domain: vanderbilt.edu
-    quality: 54
+      name: AWS
+      domain: aws.amazon.com
+    quality: 116
+  - title: "Run PyTorch Lightning and native PyTorch DDP on Amazon SageMaker Training, featuring Amazon Search"
+    excerpt: "So much data, so little time. Machine learning (ML) experts, data scientists, engineers and enthusiasts have encountered this problem the world over. From natural language processing to computer vision, tabular to time series, and everything in-between, the age-old problem of optimizing for speed when"
+    publishedDateTime: 2022-08-18T21:58:25Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-pytorch-lightning-and-native-pytorch-ddp-on-amazon-sagemaker-training-featuring-amazon-search/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 107
     images:
-      - url: "https://news.vanderbilt.edu/files/AWS-SageMaker-workshop_fi.jpg"
-        width: 650
-        height: 325
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/18/Featured-images-for-ML-11236.jpg"
+        width: 800
+        height: 400
+        isCached: true
+  - title: "Quickstart for the TensorFlow Core APIs"
+    excerpt: "This short introduction uses the TensorFlow Core low-level APIs to walk through the following stages of a machine learning example: Load a prebuilt dataset. Build a multiple linear regression model that predicts fuel efficiency. Train this multiple linear ..."
+    publishedDateTime: 2022-08-17T01:54:00Z
+    webUrl: "https://www.tensorflow.org/guide/core/quickstart_core"
+    type: article
+    provider:
+      name: TensorFlow
+      domain: tensorflow.org
+    quality: 56
+    images:
+      - url: "https://www.tensorflow.org/images/tf_logo_social.png"
+        width: 1200
+        height: 675
+        isCached: true
+  - title: "TensorFlow Core APIs overview"
+    excerpt: "The TensorFlow Core APIs provide a set of low-level APIs for high-performance (distributed & accelerated) computation, primarily aimed at building machine learning (ML) models as well as authoring ML workflow tools and frameworks within the TensorFlow ..."
+    publishedDateTime: 2022-08-17T01:54:00Z
+    webUrl: "https://www.tensorflow.org/guide/core"
+    type: article
+    provider:
+      name: TensorFlow
+      domain: tensorflow.org
+    quality: 56
+    images:
+      - url: "https://www.tensorflow.org/images/tf_logo_social.png"
+        width: 1200
+        height: 675
         isCached: true
 
 secured: "9Ibw9KxBT3TeGlxNhvyyaXyv+lHo9MnlLbvl+HyZPICtRYYo+iDH2InRF07gP4hktlch/aBzWrtlUS9SvwyOEehsYjaJNfYf0mr4XK2WDWF+DE1dTDQmaFyLT4TsgeYE9EKp4HC2JhywKdvJcXYkQnOzMh5H8IUloQgy8XTeBZtvy4Je4nmd1y5J3KK8Q3C4KBsFb28kQ+L1C0eBOl/uGtAPxJ/kPaPykXYEiH+N8D2WIevFh/odsKw8syezKMHlJ/5hjGIVtCJYxxldqQ/csfJpMLPOlmnn8cce0eXqjtubZqcO2QxUNdgNDb5/cR5d8P77+so6RyoXJ2GfbUU03gmdrRHpYUaLhz4R51yAiZw=;AC71PvrQp+mL3ccHWImNOA=="

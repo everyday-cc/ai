@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-19T19:26:00Z
 originalUrl: "https://www.seattletimes.com/seattle-news/politics/kauffman-will-face-boyce-in-south-king-county-state-senate-race-recount-confirms/"
 webUrl: "https://www.seattletimes.com/seattle-news/politics/kauffman-will-face-boyce-in-south-king-county-state-senate-race-recount-confirms/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Seattle Times

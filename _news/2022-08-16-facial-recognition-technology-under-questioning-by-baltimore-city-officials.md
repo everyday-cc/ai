@@ -37,7 +37,7 @@ related:
     provider:
       name: The Grio
       domain: thegrio.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://thegrio.com/wp-content/uploads/2019/12/Facial-Recognition.jpg"
         width: 1250

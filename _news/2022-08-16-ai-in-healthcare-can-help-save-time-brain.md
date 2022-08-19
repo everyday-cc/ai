@@ -7,7 +7,7 @@ originalUrl: "https://www.openaccessgovernment.org/ai-in-healthcare-can-help-sav
 webUrl: "https://www.openaccessgovernment.org/ai-in-healthcare-can-help-save-time-brain-patient-care-digital-health/141677/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,22 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "New AI algorithm can detect brain abnormality, help cure epilepsy"
-    excerpt: "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities which cause epileptic seizures has been developed by a team of international researchers."
-    publishedDateTime: 2022-08-15T03:34:00Z
-    webUrl: "https://www.ibtimes.co.in/new-ai-algorithm-can-detect-brain-abnormality-help-cure-epilepsy-851358"
-    ampWebUrl: "https://amp.ibtimes.co.in/new-ai-algorithm-can-detect-brain-abnormality-help-cure-epilepsy-851358"
-    cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/new-ai-algorithm-can-detect-brain-abnormality-help-cure-epilepsy-851358"
+  - title: "AI funding in healthcare through the years"
+    excerpt: "Artificial intelligence funding in healthcare is skyrocketing with more than $3 billion poured into the sector in the first half of 2022 and nearly $10 billion in 2021, Politico reported Aug. 15. Healthcare AI funding throughout the years: According to Politico,"
+    publishedDateTime: 2022-08-18T16:47:00Z
+    webUrl: "https://www.beckershospitalreview.com/digital-health/ai-funding-in-healthcare-through-the-years.html"
     type: article
     provider:
-      name: IBTimes India
-      domain: ibtimes.co.in
-    quality: 57
-    images:
-      - url: "https://data1.ibtimes.co.in/en/full/774799/brighter-brain.jpg?w=538&h=321"
-        width: 538
-        height: 321
-        isCached: true
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
 
 secured: "dscrPpwYsBBmkZvNcEkaMgp3JZF7xI0EkvzjfJz9uCHdUbuzYKpBdruDBIrF9erwrKfPoZVsaPblbBfrq+w7WIpsLkwrKOsnpcFA/W0SCGyISh8y/e0nkg2KO07KTYn4tyeNZQJcnOpJfNVjkAUqlKceEevtTqKqFpTVS4UbgC4Xgs+X6af6yrJ69x0utbTzaFZGkj7BHLGhM/sbagu/8Xs4qdcZWrUQ7Td2tbKQ6mJOl1fJ23lcq6w3fYEdVBc48HEOXK0V/BBR0Wolofm5wxMFStZlm5bgcuiP/Gocmxt9AiStgobya0eMLy8roGf81f5RXvflpNt9qL+RwMV0SV5DWjugpADnGrqgIgzxdt3+Zg4exdmWJP7bfkgYLDkty+QqmwAazg/19CInVcMjqUmwH21kidSQLxeOkuVzUvdhjGH/biaeTh6cetCSSOFkdjwc7w9BoQcD8vf7YgjPp5lHFHL0mem6nv2xWZtUJ7731ikawk+QUHSbQQeGhOP8/DwQ/mrfH9S39fo+FL3GGA==;tDsmoXaXXAUeBB+dbqwVYw=="
 ---

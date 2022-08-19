@@ -23,6 +23,17 @@ images:
     height: 700
     isCached: true
 
+related:
+  - title: "Roy Scheider to return to big screen in posthumous release completed using AI"
+    excerpt: "Scheider is set to return to the big screen in thriller Beautiful Blue Eyes and a re-release of Jaws, more than a decade after his death. The American actor died in February 2008 during the filming of Beautiful Blue Eyes,"
+    publishedDateTime: 2022-08-19T19:47:00Z
+    webUrl: "https://www.standard.co.uk/culture/film/nazi-new-york-british-nhs-imax-b1019794.html"
+    type: article
+    provider:
+      name: London Evening Standard
+      domain: standard.co.uk
+    quality: 14
+
 secured: "Cu4OOAEqZm/ZGQNI0kw+aTZXb+/uQKvpWYUnTfELT7bUOoLSffdteqFcyTP5yyEGHnCFZNSTTCCh4eXZAtjucWDmAVjV9pkYVHVzl34eQSpvEjG5zr4q2ljls5QANfg5PkYFvNpfNw486bsKQpJvlC5WedzgHtxOIfQEfGULbuBVi4MPqAB4gJFg0A23Us0r0cHDN8+AmD7MExexq8eqDVww9MJPZr9GcDq/sxdDfqKM5SLs7wZE+bm+QAQFzMLC0lbfTwVHBk1gVY8J7mh/rfv4eHie7CjPMZDrzjw4zqquSfYPr/w+0vox+pn1DjgO421d4lRWVTxyupR5MiRsCrhvTkjA1ta6hYU0RmcnhC8=;HyfmlnHN0tJ8GK0FrYOBbQ=="
 ---
 

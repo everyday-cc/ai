@@ -2,49 +2,6 @@
   "page": 94,
   "value": [
     {
-      "path": "_news/2022-06-06-automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.md",
-      "title": "Automating Signature Recognition Using Capgemini MLOps Pipeline on AWS",
-      "excerpt": "Signature-recognition technologies can help reduce human error, time, and limitations involved in manual verification processes. With Capgemini and AWS, creating the necessary machine learning models is easy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/400313/automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.html",
-      "originalUrl": "https://www.cio.com/article/400313/automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/06/iStock-1322050816.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/400313/automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/400313/automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.html/amp",
-      "publishedDateTime": "2022-06-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-06-gut-bacterial-metabolite-promotes-neural-cell-death-leading-to-cognitive-decline.md",
       "title": "Gut bacterial metabolite promotes neural cell death leading to cognitive decline",
       "excerpt": "In their paper published in the journal Cell Host & Microbe, the group describes their study of the metabolite isoamylamine (IAA) and its impact on cognitive decline. Prior research has suggested ...",
@@ -1123,6 +1080,40 @@
       ],
       "topics": [
         "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-driver-in-fatal-uber-crash-rejects-plea-deal-death-in-tempe-was-1st-in-nation-for-self-driving-vehicle.md",
+      "title": "Driver in fatal Uber crash rejects plea deal; death in Tempe was 1st in nation for self-driving vehicle",
+      "excerpt": "Rafaela Vasquez was streaming 'The Voice' on her phone when the Uber vehicle she was operating struck and killed Elaine Herzberg in 2018, police say.",
+      "sourceUrl": null,
+      "webUrl": "https://www.palmbeachpost.com/story/money/business/tech/2022/06/03/rafaela-vasquez-driver-fatal-semiautonomous-uber-crash-tempe-rejects-plea-deal/7501853001/",
+      "originalUrl": "https://www.palmbeachpost.com/story/money/business/tech/2022/06/03/rafaela-vasquez-driver-fatal-semiautonomous-uber-crash-tempe-rejects-plea-deal/7501853001/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T16:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Palm Beach Post",
+        "domain": "palmbeachpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-19T16:32:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-artificial-general-intelligence-agi-conference-drlearner-released-as-/2022/08/19/9659463.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-general-intelligence-agi-conference-drlearner-released-as-/2022/08/19/9659463.htm"
 type: article
-quality: 6
+quality: 8
 heat: -1
 published: false
 

@@ -63,21 +63,14 @@ related:
       domain: usnews.com
     quality: 67
   - title: "OK Google, get me a Coke: AI giant demos soda-fetching robots"
-    excerpt: "Google is combining the features of physical robots with the knowledge and conversation skills of virtual chatbots"
-    publishedDateTime: 2022-08-17T09:44:00Z
-    webUrl: "https://tribune.com.pk/story/2371632/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots"
-    ampWebUrl: "https://tribune.com.pk/story/2371632/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots?amp=1"
-    cdnAmpWebUrl: "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2371632/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots?amp=1"
+    excerpt: "Alphabet Inc's Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
+    publishedDateTime: 2022-08-17T02:45:00Z
+    webUrl: "https://www.reuters.com/technology/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-2022-08-16/"
     type: article
     provider:
-      name: The Express Tribune
-      domain: tribune.com.pk
-    quality: 57
-    images:
-      - url: " https://i.tribune.com.pk/media/images/1542598-download-1509082772/1542598-download-1509082772.jpg  "
-        width: 640
-        height: 402
-        isCached: true
+      name: Reuters
+      domain: reuters.com
+    quality: 47
 
 secured: "fN2QDJb8SLJPBkbN4ESLrOdj8GqQz2BpYKfyl62iaDtxrn5rqrwt+MtCK1R3/PB6xJtds8OGWFsaMjFc1ugMVU3iJ1dEyKY5SRIqw8aOmuc9q1k9Ww8M5tyakUPxPAzacWstgEKonyLjeMgrJm9a+NqY1wV/Lh3R+plbRvFWhX0asnHzCDljpUkntP23fM7VVarubSf9e4lHP4c3areLmx/ht5+jOZqrHZaHflOAmXy1rDxfywRNyXomueY/46Jm6WoRvNrVY3dubpZUQ2Ao8UCpuI+WhanUNcP0NWnR/t1BGIt6ng49bOtbMtT3fJTD02hxOSxQ3HHquyrJCsbCJ9y0lju/lnusxDScf7A2IwE=;/qfMnodCTgjrPs2yGYrzYg=="
 ---

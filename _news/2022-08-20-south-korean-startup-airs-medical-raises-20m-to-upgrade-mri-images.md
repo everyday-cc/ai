@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-19T18:55:00Z
 originalUrl: "https://vator.tv/news/2022-08-19-south-korean-startup-airs-medical-raises-20m-to-upgrade-mri-images"
 webUrl: "https://vator.tv/news/2022-08-19-south-korean-startup-airs-medical-raises-20m-to-upgrade-mri-images"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Vator

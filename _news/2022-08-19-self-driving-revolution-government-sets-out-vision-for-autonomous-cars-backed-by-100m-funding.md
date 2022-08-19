@@ -7,7 +7,7 @@ originalUrl: "https://www.businessgreen.com/news/4055015/self-driving-revolution
 webUrl: "https://www.businessgreen.com/news/4055015/self-driving-revolution-government-sets-vision-autonomous-cars-backed-gbp100m-funding"
 type: article
 quality: 11
-heat: 11
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,36 @@ images:
     width: 370
     height: 229
     isCached: true
+
+related:
+  - title: "NHTSA Allowing More Time to Comment on Ford, GM Self-Driving Requests"
+    excerpt: "NHTSA extended the comment period for 30 days on requests by General Motors and Ford to put 2,500 autonomous vehicles each on U.S. roads for field testing. The move came as several groups asked for more time to produce more cogent thoughts,"
+    publishedDateTime: 2022-08-19T20:46:00Z
+    webUrl: "https://www.thedetroitbureau.com/2022/08/nhtsa-allowing-more-time-to-comment-on-ford-gm-self-driving-requests/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 24
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2022/04/Cruise-Origin-turning-a-corner.jpg"
+        width: 1600
+        height: 1062
+        isCached: true
+  - title: "NHTSA Extends Public Input on General Motors and Ford Self-Driving Petitions"
+    excerpt: "The National Highway Traffic Safety Administration (NHTSA) on Thursday extended the deadline for public input on General Motors (NYSE:GM) and Ford Motor (NYSE:F) petitions seeking to deploy a limited number of self-driving vehicles without human controls."
+    publishedDateTime: 2022-08-18T20:28:00Z
+    webUrl: "https://za.investing.com/news/nhtsa-extends-public-input-on-general-motors-and-ford-selfdriving-petitions-432SI-2604271"
+    type: article
+    provider:
+      name: Investing.com
+      domain: investing.com
+    quality: 21
+    images:
+      - url: "https://i-invdn-com.investing.com/news/LYNXNPEC340VT_L.jpg"
+        width: 800
+        height: 533
+        isCached: true
 
 secured: "N/JzLdl/V8DCWteaDX2DX+w+AT0ra8rU8KtsQyDPxx7zRDMLzJe8atOgSdtN0JpWB2xXXjyYRmZ5t6dXFM7PSJB0fFlwb/bre3FAxevIj7jLfe8/BJXQhiaRvmo48Igduv0xfNQEvN0nPY2aUeX0V0DVjExblXVke5rCkfaxrJegoF2cwvME8SwqQ/wY5iCjRsmnHuhJFQqDMiNqOCO3vmUtQWT7/W6XpgDQuRbOptqnQc81z4fCSFUvjGBjrWzPaoTMjUUMH/LFD1GJusq8bM5BOTZX4Y9i+4st0RzwPX/fdqKgxLFN6MjXdMuKjJlqxefOl1AnpzyCkRI9FJ5PHzBycKBPa8QyH750XZGGAZs=;xEGD8DWLD1gX/DUpEIr2+A=="
 ---

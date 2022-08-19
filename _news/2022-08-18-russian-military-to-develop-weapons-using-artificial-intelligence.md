@@ -3,23 +3,22 @@ category: news
 title: "Russian military to develop weapons using artificial intelligence"
 excerpt: "Russia said created a department for developing AI weapons. The program could serve to counter the Pentagon’s newly formed AI authority."
 publishedDateTime: 2022-08-18T00:25:00Z
-originalUrl: "https://www.defensenews.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/?amp;amp"
-webUrl: "https://www.defensenews.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/?amp;amp"
+originalUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/"
+webUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Defense News
-  domain: defensenews.com
+  name: C4ISRNET
+  domain: c4isrnet.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
-  - url: "https://www.defensenews.com/resizer/_rde8-COgWmH1TbZjOSwz89PbVA=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/42I76S76MFE2RN5JSNIER6RHIU.jpg"
+  - url: "https://www.c4isrnet.com/resizer/_rde8-COgWmH1TbZjOSwz89PbVA=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/42I76S76MFE2RN5JSNIER6RHIU.jpg"
     width: 1024
     height: 683
     isCached: true
@@ -68,6 +67,6 @@ related:
         height: 282
         isCached: true
 
-secured: "+M9ZsP8KhsYyZRq4/2/dNlPw74rM42o9Vhgm3SqqnIRaCC1H+DZ0rUOkJ6SJ78b2y0/zM/iDz4DRLeVOS6YHHuDPQNYG3L2M7VtBUbZJTsZ74kk3bx+xxhUciRo/urAmjYvov5J8zmrfpUD4xTWY6X7m8G/gQgYBPNXzCiq+OZLu/xio/V2pVX73pYQ0fiApo9OcMmJswwPMhE1v6vd17MPenVL18pnL0WM5zbuTRT64d/JfMLH01XboWbjcL0nw8gtWu+NZzL49DTxjdbcb0ozSSUtBveAu5vhQtlqbUvMgwddRyDC72/l+dn2oCOEQfpXD8LLoZf6sePXYYWxkzvns5ZzJVMrfOINthP1xVuEoKpElIBL8GPvO3TMXhY6HdkjL4TUfj5dhSzyrGvG6S+/xnQNt0YyIalG8L8rawqOgk1zdTY13AY9cmnooNNkmSxpfhiRgan1dkkqKYRiAG/zgkJY6EnEJlHBmt3ZyMUgjBCP/I6TK5Hm90VKtplPluso9SgM4AxN415mpYZ/kwQ==;e1i8+L/wxbAqa0arYs80YQ=="
+secured: "RRSU855/rAfghhFPcV9fW717XtfZnM169w+GEAPKt7mYx5p4kcJst9kworqbaKIUjbqx2y+VOWFt84XhK/EZiTiyOaEQy4vVzO9el5+pWm18+diZHg33Xi344HfU2qEnwlo68Fk4wAkIW4fh3bMgrwP4RJQse3g1QwvS8YF/1a1s/F/8UCVm1dofUQYEJQNLrmcEsdJE1Wr+ZaZjkpKo4aoZPQ7f/0r4RSCwBuouykUXIHlbyAUvxsWphPpjMQ13D7YTsH4YdMUd5fXn+Fyc6PrO9JOH33L7r1BktoTPoonSa5zq8l9QkfGO3lSKXvYk8R8PU4zb6A5NpTwd7pRekoDCILCpMiYbVX5miYJ+ALY=;T+lTOJDXWHZHzEJsc+5Guw=="
 ---
 

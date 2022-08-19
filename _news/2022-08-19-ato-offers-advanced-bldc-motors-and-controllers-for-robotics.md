@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-19T14:45:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/accwirecq-2022-8-19-ato-offers-advanced-bldc-motors-and-controllers-for-robotics"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/accwirecq-2022-8-19-ato-offers-advanced-bldc-motors-and-controllers-for-robotics"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Daily Herald

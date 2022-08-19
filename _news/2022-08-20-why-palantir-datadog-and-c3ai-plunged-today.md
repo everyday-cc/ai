@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-19T18:04:00Z
 originalUrl: "https://www.nasdaq.com/articles/why-palantir-datadog-and-c3.ai-plunged-today"
 webUrl: "https://www.nasdaq.com/articles/why-palantir-datadog-and-c3.ai-plunged-today"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Nasdaq

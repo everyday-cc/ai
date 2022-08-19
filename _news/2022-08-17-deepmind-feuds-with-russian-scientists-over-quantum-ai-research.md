@@ -61,14 +61,14 @@ related:
   - title: "Russian military to develop weapons using artificial intelligence"
     excerpt: "Russia said created a department for developing AI weapons. The program could serve to counter the Pentagon’s newly formed AI authority."
     publishedDateTime: 2022-08-18T00:25:00Z
-    webUrl: "https://www.defensenews.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/?amp;amp"
+    webUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/"
     type: article
     provider:
-      name: Defense News
-      domain: defensenews.com
-    quality: 39
+      name: C4ISRNET
+      domain: c4isrnet.com
+    quality: 37
     images:
-      - url: "https://www.defensenews.com/resizer/_rde8-COgWmH1TbZjOSwz89PbVA=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/42I76S76MFE2RN5JSNIER6RHIU.jpg"
+      - url: "https://www.c4isrnet.com/resizer/_rde8-COgWmH1TbZjOSwz89PbVA=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/42I76S76MFE2RN5JSNIER6RHIU.jpg"
         width: 1024
         height: 683
         isCached: true

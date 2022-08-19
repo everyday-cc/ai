@@ -2,48 +2,6 @@
   "page": 54,
   "value": [
     {
-      "path": "_news/2022-07-02-researchers-use-ai-to-detect-new-family-of-genes-in-gut-bacteria.md",
-      "title": "Researchers use AI to detect new family of genes in gut bacteria",
-      "excerpt": "Using artificial intelligence, UT Southwestern researchers have discovered a new family of sensing genes in enteric bacteria that are linked by structure and probably function, but not genetic sequence.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-07-ai-family-genes-gut-bacteria.html",
-      "originalUrl": "https://phys.org/news/2022-07-ai-family-genes-gut-bacteria.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/ut-southwestern-resear-1.jpg",
-          "width": 1000,
-          "height": 1422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-07-ai-family-genes-gut-bacteria.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-ai-family-genes-gut-bacteria.amp",
-      "publishedDateTime": "2022-07-02T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-02-global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-12.md",
       "title": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Shares Up 1.2%",
       "excerpt": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ – Get Rating) shot up 1.2% during trading on Friday . The company traded as high as $20.57 and last traded at $20.57.",
@@ -1114,6 +1072,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-meta-was-restricting-abortion-content-all-along.md",
+      "title": "Meta Was Restricting Abortion Content All Along",
+      "excerpt": "Jessica Ensley, digital outreach and opposition research director ... by mail” on Facebook in English from the US. The post was not flagged. “Content moderation with AI and machine learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/meta-abortion-content-restriction/",
+      "originalUrl": "https://www.wired.com/story/meta-abortion-content-restriction/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62be29b451f58063018c359f/master/pass/Meta-Restricting-Abortion-Content-Business-1145262125.jpg",
+          "width": 2400,
+          "height": 1602,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/meta-abortion-content-restriction/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/meta-abortion-content-restriction/amp",
+      "publishedDateTime": "2022-07-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     }

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-19T19:50:00Z
 originalUrl: "https://www.nbcnewyork.com/news/national-international/changing-climate/as-colorado-river-dries-western-states-face-water-energy-and-farming-crisis/3831948/?amp"
 webUrl: "https://www.nbcnewyork.com/news/national-international/changing-climate/as-colorado-river-dries-western-states-face-water-energy-and-farming-crisis/3831948/?amp"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: NBC New York

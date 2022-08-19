@@ -18,21 +18,19 @@ topics:
   - AI
 
 related:
-  - title: "Using satellites and AI, Israeli climate tech maps out where carbon is hiding"
-    excerpt: "Cited as a company with 'global potential' by UN official tasked with designing global carbon market regulations, Albo Climate already has projects in Ecuador, Africa and US"
-    publishedDateTime: 2022-08-15T03:49:00Z
-    webUrl: "https://www.timesofisrael.com/using-satellites-and-ai-israeli-climate-tech-maps-out-where-carbon-is-hiding/"
-    ampWebUrl: "https://www.timesofisrael.com/using-satellites-and-ai-israeli-climate-tech-maps-out-where-carbon-is-hiding/amp/"
-    cdnAmpWebUrl: "https://www-timesofisrael-com.cdn.ampproject.org/c/s/www.timesofisrael.com/using-satellites-and-ai-israeli-climate-tech-maps-out-where-carbon-is-hiding/amp/"
+  - title: "Israeli autonomous robots for Japanese auto parts maker"
+    excerpt: "Musashi Seimitsu says the robots will help provide a more humane workplace where employees don’t need to do repetitive, tedious tasks."
+    publishedDateTime: 2022-08-16T06:15:00Z
+    webUrl: "https://www.israel21c.org/israeli-autonomous-robots-for-japanese-auto-parts-maker/"
     type: article
     provider:
-      name: The Times of Israel
-      domain: timesofisrael.com
-    quality: 54
+      name: Israel21c
+      domain: israel21c.org
+    quality: 39
     images:
-      - url: "https://static.timesofisrael.com/www/uploads/2022/08/albo-climate-ecuador-640x400.png"
-        width: 640
-        height: 400
+      - url: "https://www.israel21c.org/wp-content/uploads/2022/08/634AI_AMR.jpg"
+        width: 1600
+        height: 901
         isCached: true
 
 secured: "EgEVfLLc7ulzFxu3qSYPcArsPhowEcUIYBpoQqcWZZylpfwUAgm2I0otnBBFBKqhUcAzlAT1NqYXS50UVEjPlAe7BfXouSjROGJS/ZYeYJlkn8WO1soilP+SvcDAN2RxVM4fx4MWA41rmsUV0F6xE3ZvAzXv07LtGsjOq0R+LZ9NaEyjgNg4w1KBPSPexuwb2iVdbF+2kX816U1+hIamtm/GkOpGr0+4vQLUlrhNmlQwYaR/1ZaNurCJ9gDGh9sgZzmFniTi/eoXBeNJrtKIahZAY2LFfCmYCKvPgVy/ajtV0zdpYRFn1RyQVOeZ9GuG0zizcdAb0+oFNKB6/T9HgoeqqTj39Un+oAqwPb83giF1hng/TeAjasDhy9Udn5S++zPVqNlQ3xVgSk5+lRmnuzuXHgCdpVDKdeyUIR9gBywExbx6JdBVcdzCnXY6kcPjvixjPfqpg8DAaYR8qVlgDH2rS60xG7BpqrRDODN1r8dN85i02SqK0e4ijL73cXlTayzV2UWpi0svLEVZV326eg==;m5RyGdGzupt8sbTs10p9BQ=="

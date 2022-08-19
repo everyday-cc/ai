@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "PM Modi Ditches Teleprompter, Uses Paper Notes For Independence Day Speech"
-    excerpt: "Prime Minister Narendra Modi used paper notes, and not a teleprompter, in his address to the nation.This was his ninth address from the ramparts of the Red Fort."
-    publishedDateTime: 2022-08-15T03:55:00Z
-    webUrl: "https://www.ndtv.com/india-news/pm-narendra-modi-ditches-teleprompter-uses-paper-notes-for-independence-day-speech-3255345"
-    ampWebUrl: "https://www.ndtv.com/india-news/pm-narendra-modi-ditches-teleprompter-uses-paper-notes-for-independence-day-speech-3255345/amp/1"
-    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/india-news/pm-narendra-modi-ditches-teleprompter-uses-paper-notes-for-independence-day-speech-3255345/amp/1"
-    type: article
-    provider:
-      name: NDTV
-      domain: ndtv.com
-    quality: 42
-    images:
-      - url: "https://c.ndtvimg.com/2022-08/ntss8ls8_pm-modi_625x300_15_August_22.jpg"
-        width: 650
-        height: 400
-        isCached: true
   - title: "PM Modi ditches teleprompter and uses paper notes for Independence Day speech"
     excerpt: "The teleprompter was sidelined by the nation's chief as he began his speech by congratulating the countrymen on the completion of 75 years of independence."
     publishedDateTime: 2022-08-15T10:36:00Z
@@ -58,22 +42,6 @@ related:
       - url: "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/8/15/w600X390/PM-Modi-IndependenceDay.jpeg"
         width: 600
         height: 390
-        isCached: true
-  - title: "Independence Day 2022: PM Modi ditches teleprompter, uses paper notes for speech"
-    excerpt: "The teleprompter was sidelined by the nation's chief as he began his speech by congratulating the countrymen on the completion of 75 years of independence."
-    publishedDateTime: 2022-08-15T03:53:00Z
-    webUrl: "https://www.hindustantimes.com/india-news/independence-day-2022-pm-modi-ditches-teleprompter-uses-paper-notes-for-speech-101660534926054.html"
-    ampWebUrl: "https://www.hindustantimes.com/india-news/independence-day-2022-pm-modi-ditches-teleprompter-uses-paper-notes-for-speech-101660534926054-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/independence-day-2022-pm-modi-ditches-teleprompter-uses-paper-notes-for-speech-101660534926054-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 39
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/08/15/1600x900/pm_modi_at_red_fort_1660536024820_1660536024970_1660536024970.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Independence Day 2022: PM Modi uses paper notes for his speech, ditches teleprompter"
     excerpt: "Wearing a traditional tricoloured motif safa (headgear) with a long trail, Prime Minister Modi then recalled the 'architects of free India'."
@@ -107,43 +75,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "We need to be proud of every language in our country: PM Modi's I-Day 2022 speech"
-    excerpt: "Prime Minister Narendra Modi in his address on Monday on the occasion of the country 76th Independence Day called for unity among people while pointing out th"
-    publishedDateTime: 2022-08-15T06:51:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272654011/we-need-to-be-proud-of-every-language-in-our-country-pm-modi-i-day-2022-speech"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 19
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1660546246.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "\"Talent will be basis of New India\": PM Modi takes aim at 'Parivaarwaad', 'Bhai Bhatijawad' in I-Day 2022 speech"
-    excerpt: "Prime Minister Narendra Modi on Monday in his Independence Day speech on Monday took aim at the twin evils of nepotism and corruption and sought the people co"
-    publishedDateTime: 2022-08-15T05:43:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272653961/talent-will-be-basis-of-new-india-pm-modi-takes-aim-at-parivaarwaad-bhai-bhatijawad-in-i-day-2022-speech"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 18
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1660541340.jpg"
-        width: 630
-        height: 420
-        isCached: true
-  - title: "I-Day speech: PM Modi recalls contributions of \"architects of free India\""
-    excerpt: "Beginning his speech at the Red Fort marking India's 75th Independence Day, Prime Minister Narendra Modi on Monday recalled the \"architects of free India\" who significantly contributed to India's freedom struggle."
-    publishedDateTime: 2022-08-15T15:27:00Z
-    webUrl: "https://news.webindia123.com/news/articles/India/20220815/3973275.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 3
 
 secured: "bW910KTqxYPOfHd6xnZeMyivER38uLxBG8cbfYmGN6dtoUdUORrtgTKFJ0o+VsHbIJM7RjqrNA+VO0pBE4Nb+E13RiL/r5EyaH5VHAHsDVX9hMk0ARaDW7AfmLGEu0GCkKsepRUQE1ffUewa1ZeVtfZw2uSW1tO/cL9Nl335KbiqpanV/ZxFG8CGbwsU8o3IL5Jx5RQNwo+uVwbseX2ROdvVrnAXuRAq8mr1xC7sqDUlAijANQPJwn4u2Xv7fGnl5PTuuFB6mMD1VfyWuf1/ANn32Z8qR7CqGqEO9yfrYiIZXho/WV0NvJ7gO05E3W+uxv/qXlbJ9lTy6XUPj9ocI4XtKUqFtYwoNa3IZ0D1xpatCSXdAAg3+d9cXw8WzlehRgArUuYG/j/H9ei0ddFiDi7DzjiKl96IsThkhlPalKecaBkom+iiEw/c2MW45g34K7Wbhybt7SoYvEwb6sZo1vOJCHWMMIQ1Z3xQQBVzHEEGIs8milolHuaYAF2aepRfGmKYwAdT3OEuU1vsDBk4hg==;Ee0qJ7c5hub6vNDFj4Ov3g=="
 ---
