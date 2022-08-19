@@ -1,29 +1,28 @@
 ---
 category: news
 title: "Amazon testing TikTok-style feed on its app, AI firm says"
-excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform. The"
-publishedDateTime: 2022-08-17T22:15:00Z
-originalUrl: "https://thehill.com/homenews/ap/ap-technology/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says/"
-webUrl: "https://thehill.com/homenews/ap/ap-technology/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says/"
-ampWebUrl: "https://thehill.com/homenews/ap/ap-technology/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says/amp/"
-cdnAmpWebUrl: "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/homenews/ap/ap-technology/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says/amp/"
+excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform"
+publishedDateTime: 2022-08-17T23:16:00Z
+originalUrl: "https://abcnews.go.com/Technology/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88514952"
+webUrl: "https://abcnews.go.com/Technology/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88514952"
+ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88514952"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88514952"
 type: article
-quality: 59
+quality: 57
 heat: -1
 published: false
 
 provider:
-  name: The Hill
-  domain: thehill.com
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
-  - Facebook AI
   - AI
 
 images:
-  - url: "https://thehill.com/wp-content/uploads/sites/2/2022/08/d4309a13dad74c7f8386f651680351f6.jpg?w=1280"
-    width: 1080
-    height: 2520
+  - url: "https://s.abcnews.com/images/Technology/WireAP_d6c87ec91bcb4a3db6d7f763abbf3eca_16x9_992.jpg"
+    width: 992
+    height: 558
     isCached: true
 
 related:
@@ -191,6 +190,6 @@ related:
       domain: knowtechie.com
     quality: 17
 
-secured: "mzdihy/PblGtIesi6urSa6i5Ayc0WY42lVe908OvJbiIwDqCDKlX+Rdnnrfl3NyH8Cq0nm8lijkiOfHN/OKAbhJXX2XAUMPtpI1RdpuxIl8rsnchYMG/aqs9ofwHaUdkzBDuogcyO9kUYbGI0c57nkHD+eeZazne6GjZkp43AhI1ebgCVHyIuqXU2DS0NSwmeH2InLx/EneGfP5JleSxzm3ye9OQWZxwqQHgBBE+8wavpQGjaq5mz4v02i6MKq4/nyVghKX29j4Y3YBFcqKjt8Scb/Zq+CAPqKdzeaVc5/EChXFf+2zpzayWNlrlJ5s52XoQHtNc27Z5bOuFdNTvffwNqlYdFYNhkQEUrDQnpuU=;8QIjsseTzp75IYKR4iCHMQ=="
+secured: "sj92DZPhkho5Kqe6V72yoVGZZ6xUjVSlXaQjBIPqjHJVCR6EQ0A/8Wd4SVKIJNLiRSqHA2MMaV/bLOXJV4LUbiFOppxFkk3/Gz3M8gA9UJWHQo27wCEQIbK0lpuhdNcNkt0V+muhBDukDxNWPMDj+bifzhrmZ5nEGP3cuKHkpF8ROLVawbFFRgwXIEwJF6+6bNzW5/VveJWP5boYF0rJr3TC4cjmAcnwcbITbgdRys88uRW3I/L/tUSHwMsyRu5X82vTHPFPSZTno3H0a7Gq/p7uhyXxU/xnQOQ4Vpj42Kyv4UXRuamJWXq37Gafktl7ZiYlFpCPiT2nwzP7EcmBcKLKpL0RLP+uphqikujOtKg=;VwGTSj18if8iPX5nupknww=="
 ---
 

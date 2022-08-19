@@ -77,6 +77,20 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 39
+  - title: "Artificial Intelligence in Automotive Market Overview by Recent Opportunities, Growth Size, Regional Analysis and Forecasts to 2025"
+    excerpt: "Global Artificial Intelligence in Automotive Market Report is an In-Depth Analysis of the Latest Developments, Market"
+    publishedDateTime: 2022-08-17T12:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2025-2022-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Medicine Market Size - Top Companies, Business Growth & Investment Opportunities, Share and Forecasts 2022-2031"
     excerpt: "Artificial Intelligence in Medicine Market includes the challenges that are affecting the growth of the industry and offers strategic evaluation that is required to boost the growth of the market over the period."
     publishedDateTime: 2022-08-14T17:58:00Z

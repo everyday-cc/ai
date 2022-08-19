@@ -41,22 +41,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Mark Zuckerberg’s Meta AI chatbot thinks Elon Musk should buy Facebook – but another tech titan would be even better"
-    excerpt: "MARK Zuckerberg’s own AI chatbot believes Elon Musk should buy Facebook in its latest scathing remarks. BlenderBot 3 – which is trained to have conversations like humans – told"
-    publishedDateTime: 2022-08-14T11:21:00Z
-    webUrl: "https://www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/"
-    ampWebUrl: "https://www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19473611/facebook-ai-chatbot-elon-musk-mark-zuckerberg-bill-gates/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 36
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/08/VP-OFF-PLATFORM-MARK-ELON-v2.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Facebook Does Something Right for a Change"
     excerpt: "The company risked its already-bruised reputation by being transparent about its AI work. That’s a refreshing approach."
     publishedDateTime: 2022-08-15T05:23:00Z
