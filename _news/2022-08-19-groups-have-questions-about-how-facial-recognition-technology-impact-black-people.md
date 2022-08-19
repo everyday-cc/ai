@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://thegrio.com/wp-content/uploads/2019/12/Facial-Recognition.jpg"
@@ -44,6 +45,6 @@ related:
         height: 425
         isCached: true
 
-secured: "G8d38dmYSeuEBu0Ia2CDRwEry1Zw2j47Mp8hN8TwGTz3a0R4DdJfEG1HfLeqhgpywA9b8EsSITr7oVcDwGGgo941zwlYvHauijVpEWKjskTu4G53DGg4sn52qKqevFcBUvzjxFemljBJD3XNyjFO1nL3Zm9sxeBoIK3oq/qPKmRmkSpTvRlvLyvnqwZXG1wTv+XhWp9kxMzF/ii5WqxrsRiOSnS0sDiSpISNaQRmbaLxj5bdtP/o+8WSzOfgJjkfKejvtl2Gxbye32yIJjkTUwBH3mtEIWnaj/BDkFb09C/hFE+lDVNZosEbZno6p3HDzSyUSIV+JlzXVyflICiD3aiDnqc4kAaWduSJX3f0T0I=;6JUVXUtuGoeqF5ARriF4gg=="
+secured: "rTbsV781Mfr0NoCHiq5Wb/Fz+sRaIQNzzbgdJ+ncrUgNEz6C2RfnNSfGFlkQMogdZRpwaKIcDU+EIjAkQsyXbjTS1Z5rgMUf6eZecUB1k8lVzyhbXwUndOBzrIdYOwkhqfpx7c7Cwg1MrtsWIxANxbseWZQxWwKh47Hz2+eztMs0izaKUnGmVLvnU4qI4vr7S7lTJcdBxm0D1zljb5Dwaapu4PqigpGKdywmKB8vdB9YlObVYVvhDS6pEsNOJdBJNZy5CO+ZhqZiW3EhNoix5EtLYNmJdL2JGLQyTyRXF4LHtyXrG9N6g1pJ1OACSDvkp6BcmHyYQgqfIJI/KrdoyHKq2c42X+AX5hwIFOoHS4BgLVVbUGypPImjwlS4Mf36klRmmBTB33Cty0chK9GxnaJ85QpUl4aw6vCYsVZDwlXahiRbU0Cmxt1rskM8sIJ+9qbzU8QPEgmTZZRLrJyaRwTDXyLmsa6+Mxy8/2kzAUKrVNSQ977nogcESwSZHDoEY3ciMOu1eMm+ul418iddkQ==;Q0IjEbkc+3WK9vSqehuAaQ=="
 ---
 

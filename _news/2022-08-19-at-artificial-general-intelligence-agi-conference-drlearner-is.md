@@ -18,6 +18,7 @@ topics:
   - AI in Healthcare
   - AI
   - Machine Learning
+  - AI in Autos
 
 related:
   - title: "Robust Intelligence Announces Inaugural Conference on Machine Learning Integrity"
