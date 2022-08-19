@@ -2,6 +2,198 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-17-your-health-new-technology-for-artificial-intelligence.md",
+      "title": "Your Health: New technology for artificial intelligence",
+      "excerpt": "Scientists are developing technology for artificial intelligence that will allow it to work even in remote areas. From autonomous vehicles to drones to medical equipment, it’s all cutting-edge technology that requires connection to the cloud.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wilx.com/2022/08/16/your-health-new-technology-artificial-intelligence/",
+      "originalUrl": "https://www.wilx.com/2022/08/16/your-health-new-technology-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://do0bihdskp9dy.cloudfront.net/08-16-2022/t_eff33dba29944b56898c79ac51ac909c_name_thumbnail_image001.png",
+          "width": 635,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wilx.com/2022/08/16/your-health-new-technology-artificial-intelligence/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wilx-com.cdn.ampproject.org/c/s/www.wilx.com/2022/08/16/your-health-new-technology-artificial-intelligence/?outputType=amp",
+      "publishedDateTime": "2022-08-16T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WILX-TV",
+        "domain": "wilx.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database-platforms.md",
+      "title": "Datadog Extends Monitoring for Microsoft SQL Server and Microsoft Azure Database Platforms",
+      "excerpt": "The expanded support provides visibility into query-level metrics and detailed explain plans so all Microsoft customers can benefit from Database",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database-platforms-1031688288",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database-platforms-1031688288",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1730117/Datadog_logo.jpg",
+          "width": 400,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-deepmind-feuds-with-russian-scientists-over-quantum-ai-research.md",
+      "title": "DeepMind feuds with Russian scientists over quantum AI research",
+      "excerpt": "Science is all well and fine, but what happens when Big Tech and the world of academia butt heads during the peer-review process?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/deepmind-feuds-russian-scientists-over-quantum-ai-research",
+      "originalUrl": "https://thenextweb.com/news/deepmind-feuds-russian-scientists-over-quantum-ai-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F08%2Ffightrobots.jpg&signature=e7f71ca542a0269805511bc1ef788a54",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T12:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-artificial-intelligence-can-explain-why-each-covid-19-wave-impacts-people-differently.md",
+      "title": "Artificial intelligence can explain why each COVID-19 wave impacts people differently",
+      "excerpt": "Researchers have identified what they believe to be robust metabolic markers of COVID, a discovery that could lead to better understanding and treatments for people that suffer from symptoms of the disease months after diagnosis.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-08-artificial-intelligence-covid-impacts-people.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-08-artificial-intelligence-covid-impacts-people.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/covid.jpg",
+          "width": 2880,
+          "height": 1620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-08-artificial-intelligence-covid-impacts-people.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-covid-impacts-people.amp",
+      "publishedDateTime": "2022-08-16T12:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-08-17-broadcom-turbocharges-ai-and-ml-with-tomahawk-5.md",
       "title": "Broadcom turbocharges AI and ML with Tomahawk 5",
       "excerpt": "Artificial intelligence (AI) and machine learning (ML) are about more than algorithms: The right hardware to turbocharge your AI and ML computations is key. To speed up job completion, AI and ML training clusters need high bandwidth and dependable transport with predictable low-tail latency (tail latency is the 1 or 2% of a job that trails the rest of responses).",
@@ -460,7 +652,7 @@
       "originalUrl": "https://www.zdnet.com/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -912,7 +1104,7 @@
       "originalUrl": "https://www.suasnews.com/2022/08/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -1045,216 +1237,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-key-player-competition-weakness-and-strengths-from-2022-to-2028.md",
-      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Key Player, Competition Weakness and Strengths from 2022 to 2028",
-      "excerpt": "The \" Natural Language Processing (NLP) in Healthcare and Life Sciences Market Research Report \" for comprises important strategies and plans to control cost and improve efficiency. The report also focuses on demand and supply of the Natural Language Processing (NLP) in Healthcare and Life Sciences industry.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-08-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-08-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-no-code-wrapped-our-ml-experiment-concludes-but-did-the-machine-win.md",
-      "title": "No code, wrapped: Our ML experiment concludes, but did the machine win?",
-      "excerpt": "And while I know my way around a Jupyter notebook and have written a good amount of Python code, I do not profess to be anything close to a machine learning expert. So when I performed the first part of our no-code/low-code machine learning experiment and got better than a 90 percent accuracy rate on a model,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/08/no-code-wrapped-our-ml-experiment-concludes-but-did-the-machine-win/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/08/no-code-wrapped-our-ml-experiment-concludes-but-did-the-machine-win/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/robot-holding-monitored-heart-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-dronedek-partners-with-facial-recognition-provider-scylla.md",
-      "title": "Dronedek Partners with Facial Recognition Provider Scylla",
-      "excerpt": "Dronedek Partners with Facial Recognition Provider Scylla Aug 15, 2022 (PRNewswire via COMTEX) -- PR Newswire INDIANAPOLIS, Aug. 15, 2022 INDIANAPOLIS,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/dronedek-partners-with-facial-recognition-provider-scylla-2022-08-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/dronedek-partners-with-facial-recognition-provider-scylla-2022-08-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T05:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-robust-intelligence-announces-inaugural-conference-on-machine-learning-integrity.md",
-      "title": "Robust Intelligence Announces Inaugural Conference on Machine Learning Integrity",
-      "excerpt": "Machine learning models often produce erroneous predictions as a result of their sensitivity to subtle changes in data. As these models are used to automate such decisions as credit worthiness, healthcare coverage,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/robust-intelligence-announces-inaugural-conference-on-machine-learning-integrity-2022-08-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/robust-intelligence-announces-inaugural-conference-on-machine-learning-integrity-2022-08-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

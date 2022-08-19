@@ -2,6 +2,153 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-11-technologies-like-virtual-reality-and-robotics-could-reduce-the-energy-industrys-carbon-footprint-and-advance-workers-skill-sets.md",
+      "title": "Technologies like virtual reality and robotics could reduce the energy industry's carbon footprint and advance workers' skill sets",
+      "excerpt": "Oil-and-gas leaders are testing VR and AR to accurately pinpoint potential hazards and operate sites entirely with tablets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/how-virtual-reality-and-robotics-could-advance-the-energy-industry-2022-8",
+      "originalUrl": "https://www.businessinsider.com/how-virtual-reality-and-robotics-could-advance-the-energy-industry-2022-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62f30280cc15bf00182fb126?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/how-virtual-reality-and-robotics-could-advance-the-energy-industry-2022-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-virtual-reality-and-robotics-could-advance-the-energy-industry-2022-8?amp",
+      "publishedDateTime": "2022-08-11T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-memryx-is-a-new-ai-company-we-actually-need.md",
+      "title": "MemryX Is A New AI Company We Actually Need",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead takes a closer look into MemryX, a new startup with a focus on AI processing for edge devices, is creating new technologies to address this emerging market and its direction on how it might be different from the pack.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62f52016b7bb71d6ba750efd/MemryX-AI-Accelerator-s--can-be-directly-plugged-into-an-existing-USB-or-PCIe-port-/960x0.jpg?height=487&width=711&fit=bounds",
+          "width": 711,
+          "height": 487,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/amp/",
+      "publishedDateTime": "2022-08-11T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-the-daily-grind-of-the-rumor-mill-machine-learning-deciphers-fake-news.md",
+      "title": "The daily grind of the rumor mill: Machine learning deciphers fake news",
+      "excerpt": "Research published in the International Journal of Cloud Computing looks at how machine learning might allow us to analyze the nature and characteristics of social media updates and detect which of those updates are adding grist to the rumor mill rather than being factual.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/fakenews.jpg",
+          "width": 1920,
+          "height": 1046,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-daily-rumor-mill-machine-deciphers.amp",
+      "publishedDateTime": "2022-08-11T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-11-google-is-using-ai-to-cut-down-on-false-info-in-featured-snippets-results.md",
       "title": "Google Is Using AI to Cut Down on False Info in 'Featured Snippets' Results",
       "excerpt": "AI models are also helping Google understand when featured snippets are not useful, particularly in cases that have no real answer.",
@@ -1063,156 +1210,6 @@
         "AI in Healthcare",
         "Microsoft AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-the-importance-of-international-norms-in-artificial-intelligence-ethics.md",
-      "title": "The Importance of International Norms in Artificial Intelligence Ethics",
-      "excerpt": "Artificial intelligence has arrived as a multi-purpose tool. The United States and its allies need to do more to establish norms and ensure AI is used in a way that does not harm human rights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics",
-      "originalUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2022/08/G7leaders.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp",
-      "cdnAmpWebUrl": "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp",
-      "publishedDateTime": "2022-08-10T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cfr.org",
-        "domain": "cfr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-amazon-sagemaker-automatic-model-tuning-now-supports-sagemaker-training-instance-fallbacks.md",
-      "title": "Amazon SageMaker Automatic Model Tuning now supports SageMaker Training Instance Fallbacks",
-      "excerpt": "Today Amazon SageMaker announced the support of SageMaker training instance fallbacks for Amazon SageMaker Automatic Model Tuning (AMT) that allow users to specify alternative compute resource configurations. SageMaker automatic model tuning finds the best version of a model by running many training",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-supports-sagemaker-training-instance-fallbacks/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-supports-sagemaker-training-instance-fallbacks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/10/sagemaker-automatic-model-tuning-instance-fallbacks.jpg",
-          "width": 1328,
-          "height": 664,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-10T08:57:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-tesla-self-driving-smear-campaign-releases-test-that-fails-to-realize-fsd-never-engaged.md",
-      "title": "Tesla self-driving smear campaign releases ‘test’ that fails to realize FSD never engaged",
-      "excerpt": "A Tesla Full Self-Driving smear campaign started by a California billionaire running for Senate has a new attack ad based on a FSD Beta “test,” where they failed to realize they never engaged FSD Beta during the test.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/",
-      "originalUrl": "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Full-SElf-Driving-Beta-failed-test.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/amp/",
-      "publishedDateTime": "2022-08-10T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

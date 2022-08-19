@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-05-new-smart-glasses-add-subtitles-to-any-conversation.md",
+      "title": "New smart glasses add subtitles to any conversation",
+      "excerpt": "The software’s sophisticated voice recognition capabilities can identify who’s speaking and will soon have the power to translate languages, voice tones, accents, and pitch. The glasses will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.walesonline.co.uk/whats-on/shopping/smart-glasses-subtitles-text-conversation-24681962",
+      "originalUrl": "https://www.walesonline.co.uk/whats-on/shopping/smart-glasses-subtitles-text-conversation-24681962",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.walesonline.co.uk/news/uk-news/article24681950.ece/ALTERNATES/s1200/1_image001-70.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.walesonline.co.uk/whats-on/shopping/smart-glasses-subtitles-text-conversation-24681962.amp",
+      "cdnAmpWebUrl": "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/whats-on/shopping/smart-glasses-subtitles-text-conversation-24681962.amp",
+      "publishedDateTime": "2022-08-05T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wales Online",
+        "domain": "walesonline.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-how-does-the-indian-army-want-to-use-ai.md",
       "title": "How does the Indian Army want to use AI?",
       "excerpt": "An AI system that can collect data, analyse them and present the same to the commander in a very short time frame is one of the key requirements for the Indian Army",
@@ -1350,49 +1393,6 @@
       "provider": {
         "name": "EurekAlert!",
         "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology.md",
-      "title": "IIT Madras launches ‘Nilekani Centre at AI4Bharat’ to advance Indian language technology",
-      "excerpt": "AI4Bharat will further contribute to and accelerate the Indic language AI work as a public good and ... has helped develop models for Machine Translation and Speech Recognition, among other ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology-8907751.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology-8907751.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2022/07/Mr-Nandan-Nilekani-3rd-R-Prof-V-Kamakoti-L-Director-IIT-Madras-at-launch-of-‘Nilekani-Centre-at-AI4Bharat’-set-up-at-IIT-Madras-588x435.jpg",
-          "width": 588,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology-8907751.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology-8907751.html/amp",
-      "publishedDateTime": "2022-07-28T05:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
         "images": null,
         "publishers": null,
         "authors": null

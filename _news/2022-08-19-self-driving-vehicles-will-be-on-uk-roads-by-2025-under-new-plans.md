@@ -9,7 +9,7 @@ ampWebUrl: "https://news.stv.tv/world/self-driving-vehicles-will-be-on-uk-roads-
 cdnAmpWebUrl: "https://news-stv-tv.cdn.ampproject.org/c/s/news.stv.tv/world/self-driving-vehicles-will-be-on-uk-roads-by-2025-under-new-government-plans?amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,21 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars could be on UK roads next year, Grant Shapps says - 'Huge potential'"
-    excerpt: "SELF-DRIVING cars could be seen on British roads by next year, as the Government invests £100million into the emerging sector."
-    publishedDateTime: 2022-08-19T06:55:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps"
-    ampWebUrl: "https://www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps/amp"
+  - title: "Self-driving vehicles planned for UK roads by 2025, but public trust is an issue"
+    excerpt: "Report warns that driverless cars will need to be 100 times safer than human drivers for the public to accept them as they do trains or airplanes."
+    publishedDateTime: 2022-08-19T10:51:00Z
+    webUrl: "https://www.zdnet.com/article/self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue/"
     type: article
     provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 36
+      name: ZDNet
+      domain: zdnet.com
+    quality: 69
     images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps-1657360.jpg?r=1660892097429"
-        width: 590
-        height: 350
+      - url: "https://www.zdnet.com/a/img/resize/0841c7ba5b4b5c23ac57e7ec2fa6125277f003d8/2019/12/23/55acbfb8-8ff7-4f41-a6ec-06d145e7d05f/istock-1079995912.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 739
         isCached: true
   - title: "The risks and rewards as UK Government unveils its plans for driverless car roll out by 2025"
     excerpt: "Vehicles that can drive themselves on motorways could be on sale within the next year, according to newly released plans by the Department for Transport"
@@ -73,17 +73,31 @@ related:
         isCached: true
   - title: "Self-driving vehicles ‘on UK roads by 2025’ under new Government plans"
     excerpt: "Transport Secretary Grant Shapps has unveiled new Government plans to boost the rollout of self-driving technology."
-    publishedDateTime: 2022-08-19T06:39:00Z
-    webUrl: "https://www.standard.co.uk/news/uk/self-driving-cars-uk-roads-2025-grant-shapps-transport-b1019601.html"
+    publishedDateTime: 2022-08-19T02:01:00Z
+    webUrl: "https://www.aol.com/self-driving-vehicles-uk-roads-230100796.html"
     type: article
     provider:
-      name: London Evening Standard
-      domain: standard.co.uk
+      name: AOL
+      domain: aol.com
     quality: 24
     images:
-      - url: "https://static.standard.co.uk/2022/08/19/00/7d022aca70ddfa13f23ea7e255dbdcd3Y29udGVudHNlYXJjaGFwaSwxNjYwOTE2NTcx-2.68208156.jpg?width=1200&width=1200&auto=webp&quality=75"
+      - url: "https://s.yimg.com/ny/api/res/1.2/quLhyUaraOziu4Q6B9VFOA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://media.zenfs.com/en/aol_press_association_news_966/66ea6f296f6d34da4928bb06c65f2b55"
         width: 1200
-        height: 770
+        height: 675
+        isCached: true
+  - title: "Self-driving cars: UK motorways change sparks AA warning amid new government plans"
+    excerpt: "The Government has unveiled new plans which mean self-driving vehicles could be 'on UK roads by 2025' and they're backed by a £100 million investment to boost the rollout. Motorways could even see some cars,"
+    publishedDateTime: 2022-08-19T11:05:00Z
+    webUrl: "https://www.stroudnewsandjournal.co.uk/news/national/uk-today/20673431.self-driving-cars-uk-motorways-change-sparks-aa-warning-amid-new-government-plans/"
+    type: article
+    provider:
+      name: stroudnewsandjournal.co.uk
+      domain: stroudnewsandjournal.co.uk
+    quality: 18
+    images:
+      - url: "https://www.stroudnewsandjournal.co.uk/resources/images/14493174/?type=og-image"
+        width: 982
+        height: 630
         isCached: true
   - title: "Self-driving vehicles ‘on UK roads by 2025’ under Government plans"
     excerpt: "Some cars, coaches and lorries with self-driving features could even be operating on motorways in the next year, the Government said"

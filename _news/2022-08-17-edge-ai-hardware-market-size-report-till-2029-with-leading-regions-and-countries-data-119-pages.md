@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-ai-hardware-market-
 webUrl: "https://www.marketwatch.com/press-release/edge-ai-hardware-market-size-report-till-2029-with-leading-regions-and-countries-data-119-pages-2022-08-17"
 type: article
 quality: 54
-heat: 154
+heat: 144
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Medicine Market Size - Top Companies, Business Growth & Investment Opportunities, Share and Forecasts 2022-2031"
-    excerpt: "Artificial Intelligence in Medicine Market includes the challenges that are affecting the growth of the industry and offers strategic evaluation that is required to boost the growth of the market over the period."
-    publishedDateTime: 2022-08-14T17:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-size---top-companies-business-growth-investment-opportunities-share-and-forecasts-2022-2031-2022-08-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

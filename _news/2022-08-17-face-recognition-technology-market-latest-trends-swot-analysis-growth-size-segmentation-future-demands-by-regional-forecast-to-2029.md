@@ -77,20 +77,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Medicine Market Size - Top Companies, Business Growth & Investment Opportunities, Share and Forecasts 2022-2031"
-    excerpt: "Artificial Intelligence in Medicine Market includes the challenges that are affecting the growth of the industry and offers strategic evaluation that is required to boost the growth of the market over the period."
-    publishedDateTime: 2022-08-14T17:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-size---top-companies-business-growth-investment-opportunities-share-and-forecasts-2022-2031-2022-08-14"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI In Aviation Market Size and Growth 2022 Analysis Report by Types, Opportunities, Future Plans, Types, Application and Forecast to 2028"
     excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI In Aviation Market” 2022"
     publishedDateTime: 2022-08-18T07:29:00Z

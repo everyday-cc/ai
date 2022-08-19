@@ -2,6 +2,188 @@
   "page": 102,
   "value": [
     {
+      "path": "_news/2022-05-31-etna-device-from-the-leading-digital-health-ai-company-innodem-neurosciences-receives-fda-breakthrough-designation-for-multiple-sclerosis.md",
+      "title": "ETNA™ DEVICE FROM THE LEADING DIGITAL HEALTH & AI COMPANY INNODEM NEUROSCIENCES RECEIVES FDA \"BREAKTHROUGH\" DESIGNATION FOR MULTIPLE SCLEROSIS",
+      "excerpt": "PRNewswire/ - Innodem Neurosciences, a leading provider of innovation and technology for the convergence of neurosciences, digital health, pharmaceutical and artificial intelligence, is proud to announce that its novel mobile eye tracking technology for people living with multiple sclerosis has been granted \"Breakthrough Device\" designation by the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mystateline.com/business/press-releases/cision/20220531MO73100/etna-device-from-the-leading-digital-health-ai-company-innodem-neurosciences-receives-fda-breakthrough-designation-for-multiple-sclerosis/",
+      "originalUrl": "https://www.mystateline.com/business/press-releases/cision/20220531MO73100/etna-device-from-the-leading-digital-health-ai-company-innodem-neurosciences-receives-fda-breakthrough-designation-for-multiple-sclerosis/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WTVO",
+        "domain": "mystateline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-scotiabanks-perspectives-on-aiml-governance-and-future.md",
+      "title": "Scotiabank’s Perspectives On AI/ML Governance And Future",
+      "excerpt": "This is a five-part blog series from an interview that I recently had with Grace Lee, Chief Data and Analytics Officer and Dr. Yannick Lallement, Vice President, AI & ML Solutions at Scotiabank. This blog focuses on AI Governance and Future views of Scotiabank's AI and ML practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/",
+      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6105c099fb00ca9f0f49f14a/0x0.jpg?format=jpg&width=1200",
+          "width": 986,
+          "height": 553,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/05/31/scotiabanks-perspectives-on-aiml--governance-and-future/amp/",
+      "publishedDateTime": "2022-05-31T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-tension-inside-google-over-a-fired-ai-researchers-conduct.md",
+      "title": "Tension Inside Google Over a Fired AI Researcher’s Conduct",
+      "excerpt": "Google has said that TPUs have enabled breakthroughs in its AI research and services, and rents out the chips through its cloud unit. Yet Chatterjee’s criticisms of Morpheus continued even after Google’s hardware leaders decided they trusted it enough ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/google-brain-ai-researcher-fired-tension/",
+      "originalUrl": "https://www.wired.com/story/google-brain-ai-researcher-fired-tension/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62915e44055b58ec351db05c/master/pass/Tension-Inside-Google-Splashed-Paint-Business-594800569.jpg",
+          "width": 2400,
+          "height": 1800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/google-brain-ai-researcher-fired-tension/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-brain-ai-researcher-fired-tension/amp",
+      "publishedDateTime": "2022-05-31T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-cutting-edge-gene-therapy-arrive-in-hungary-too-interview-with-the-ceo-of-novartis-hungaria.md",
+      "title": "Cutting-edge gene therapy arrive in Hungary too - Interview with the CEO of Novartis Hungária",
+      "excerpt": "Although gene therapy falls into the category of science fiction for many, gene therapy is already present and can have an extraordinary effect in patient treatment, said Matt Zeller, CEO of Novartis Hungária,",
+      "sourceUrl": null,
+      "webUrl": "https://www.portfolio.hu/en/economy/20220531/cutting-edge-gene-therapy-arrive-in-hungary-too-interview-with-the-ceo-of-novartis-hungaria-547965",
+      "originalUrl": "https://www.portfolio.hu/en/economy/20220531/cutting-edge-gene-therapy-arrive-in-hungary-too-interview-with-the-ceo-of-novartis-hungaria-547965",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.portfolio.hu/articles/images-xl/m/a/t/matt-zeller-novartis-533893.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T03:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Portfolio",
+        "domain": "portfolio.hu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-3-business-solutions-where-ai-is-a-good-choice.md",
       "title": "3 business solutions where AI is a good choice",
       "excerpt": "Now that AI is cheap and widely available, we often leverage it too often and for the wrong reason. Here's where cloud-based AI provides the most value.",
@@ -909,169 +1091,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-ai-in-fintech-market-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2029.md",
-      "title": "AI in Fintech Market Overview, Cost Structure Analysis, Growth Opportunities and Forecast To 2029",
-      "excerpt": "The prime aim of the Global AI in Fintech Market is to provide industry investors, private equity companies, company leaders and stakeholders with complete information to help them make well ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2029",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-overview-cost-structure-analysis-growth-opportunities-and-forecast-to-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/0bf852fa68a14af3033fbd770f898c7280985c4b-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-ibm-adds-side-order-of-nlp-to-mcdonalds-ai-drive-thru-chatbots.md",
-      "title": "IBM adds side order of NLP to McDonald's AI drive-thru chatbots",
-      "excerpt": "CEO talks up 'great economics to franchisees ... through the power of software... AI and creative construct'.\"",
-      "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/05/30/ibm/",
-      "originalUrl": "https://www.theregister.com/2022/05/30/ibm/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2021/06/10/mcdonalds.jpg",
-          "width": 5782,
-          "height": 3854,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/30/ibm/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/30/ibm/",
-      "publishedDateTime": "2022-05-30T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-ddn-adds-powerful-ai-software-to-its-data-storage-systems-and-accelerates-production-to-meet-surging-customer-demand.md",
-      "title": "DDN Adds Powerful AI Software to its Data Storage Systems and Accelerates Production to Meet Surging Customer Demand",
-      "excerpt": "Following the Best First Quarter in the Company's History, DDN Announces Significant Enhancements to its New Range of Hybrid AI Storage Platforms HAMBURG, Germany, May 30, 2022 /PRNewswire/ -- (IS ...",
-      "sourceUrl": null,
-      "webUrl": "https://pix11.com/business/press-releases/cision/20220530LA72671/ddn-adds-powerful-ai-software-to-its-data-storage-systems-and-accelerates-production-to-meet-surging-customer-demand/",
-      "originalUrl": "https://pix11.com/business/press-releases/cision/20220530LA72671/ddn-adds-powerful-ai-software-to-its-data-storage-systems-and-accelerates-production-to-meet-surging-customer-demand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1191324/DDN_Logo.jpg",
-          "width": 283,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPIX",
-        "domain": "pix11.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-seniors-should-pick-a-financial-ally-before-cognitive-decline-hits-heres-how.md",
-      "title": "Seniors Should Pick a Financial Ally Before Cognitive Decline Hits. Here’s How.",
-      "excerpt": "Seniors often wait too long to simplify their finances, communicate financial goals, and eventually sign a power-of-attorney document that names someone to manage their money if they’re no ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/retirement-cognitive-decline-51653667597",
-      "originalUrl": "https://www.barrons.com/articles/retirement-cognitive-decline-51653667597",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

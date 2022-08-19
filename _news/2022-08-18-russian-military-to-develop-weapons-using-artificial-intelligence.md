@@ -3,10 +3,10 @@ category: news
 title: "Russian military to develop weapons using artificial intelligence"
 excerpt: "Russia said created a department for developing AI weapons. The program could serve to counter the Pentagon’s newly formed AI authority."
 publishedDateTime: 2022-08-18T00:25:00Z
-originalUrl: "https://www.defensenews.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/?amp;amp"
-webUrl: "https://www.defensenews.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/?amp;amp"
+originalUrl: "https://www.defensenews.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/"
+webUrl: "https://www.defensenews.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/"
 type: article
-quality: 39
+quality: 37
 heat: -1
 published: false
 
@@ -15,7 +15,6 @@ provider:
   domain: defensenews.com
 
 topics:
-  - AI in Autos
   - AI
 
 images:
@@ -55,7 +54,21 @@ related:
         width: 512
         height: 482
         isCached: true
+  - title: "Google’s Deepmind AI can create ‘3D’ videos based on a single image"
+    excerpt: "Google’s Deepmind neural network is now able to create 30-second videos from a single image. Transframer, as the new tool is called, only needs one photo to work with as it starts identifying what is in the picture’s frame."
+    publishedDateTime: 2022-08-19T09:50:00Z
+    webUrl: "https://www.independent.co.uk/tech/google-s-deepmind-ai-3d-video-image-b2148496.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 56
+    images:
+      - url: "https://static.independent.co.uk/2022/08/19/12/75.jpeg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 675
+        isCached: true
 
-secured: "U5jf2CTvsxm5mji1TAFBhkl3R6EDNrUUBIZAaTB2GOQIMJ51RORy2fYPOCrErtmKg6KbIfsasT5NK8+lwaKd6F5bShqWmWKbnMtk/xSWq5enm2k9/2lO73KH9VlVOyX0kqx63/ZxRdwbp6txgzxTjJuF8UoiD5QVJJkiFqsBnwbI28kdwDHSwIsd8gRM8h89zDNJJsokzgGXikJaQBEqkaEX0rFzCKdh/olCxIlq7MK9eWAYlU2cX+p+04QS/vSLUfg7RTeePaPsaGJoFjOGr4HwmmJXegxj8e5dND03no84T7NCNP3RA2NECmpQfucgYd345tk7oOnN0JsQhnJ4Z6L70SIOH2nMngKHxUs7Iq8=;kKHQ9BJAFpLwyg+DZvyQ4w=="
+secured: "IUVd6Pufb/54K+GroIrdoTUQYYoBmlG859RiM7fn1JMvxqwc+OSJeHPiWEso7DuZRO2m7JS8495Ften4OczntqvqVuqqJmWKFclbB6Vt1m9z2fz9d5Mxk1soV9fFx1I9ovvmCDaZqydJGMNYCSqOMl7RHuTGV9Zs6b7+rYsKl2lipKP8dIq5pj9weD71XiuNsXvliaQ0SwFJc9zjVC31xOJoui50VO3Rrhiyftx70z46bSNOSEQv460IzgApxjuuhaRBJdGS+9owvFxMUN3mVRfinq4nnyTgan8/4emC07G4+ccHCCRvKiIpHgGXxmL766wAmg67mbgKQTCrYIul1Zc4JvYOxjMcBTFG/umcWiQ=;d8F3/47GGNYQ/Lfoo7WcFQ=="
 ---
 

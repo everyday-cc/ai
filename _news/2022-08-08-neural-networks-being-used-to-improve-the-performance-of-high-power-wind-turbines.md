@@ -1,28 +1,26 @@
 ---
 category: news
 title: "Neural networks being used to improve the performance of high-power wind turbines"
-excerpt: "Research at the Vitoria-Gasteiz Faculty of Engineering of the UPV/EHU has used convolutional neural networks to predict airflow characteristics in the aerodynamic profiles of high-power wind turbines,"
-publishedDateTime: 2022-08-08T14:57:00Z
-originalUrl: "https://techxplore.com/news/2022-08-neural-networks-high-power-turbines.html"
-webUrl: "https://techxplore.com/news/2022-08-neural-networks-high-power-turbines.html"
-ampWebUrl: "https://techxplore.com/news/2022-08-neural-networks-high-power-turbines.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-neural-networks-high-power-turbines.amp"
+excerpt: "Gasteiz Faculty of Engineering of the UPV/EHU has used convolutional neural networks to predict airflow characteristics in the aerodynamic profiles of high-power wind turbines, and has shown that flow control devices can be studied using these neural networks,"
+publishedDateTime: 2022-08-08T00:00:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/961192"
+webUrl: "https://www.eurekalert.org/news-releases/961192"
 type: article
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/neural-networks-being.jpg"
-    width: 775
-    height: 500
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d00d8c91-2d7e-4e6f-8ba4-dfa8de9f2357/Rendition/low-res/Content/Public"
+    width: 700
+    height: 452
     isCached: true
 
-secured: "qUqtj2jP/7BifV2mwLobx5CEqdcR+CRB22uca2lezOQbz6du/8T7D1P4mcOLvC8lA2IwPjM7UFVuluBfuAvN/S0ENdy6t62HJ/qFesf2xAwIuzi4j/I7eO2BmmbkllryancqdkT9+pFfAuaK2RTk+RveOUtoVYy5ABGvP3zHpRuaqf6ihyOBOhKBRD5zdkDX6EvbEAqSq/lY1NWNSV2lsDoOo0TLEN7wXsStrpBlUiOA1EIWIAgIlIkk12eIqHzp/ALHlTnrvaK5icWNfpehQeREa/Qfs7U638BJL+N5DHOvp5VWDTuqjTVQx8zgCsfnxvLRzs7rfAbexbJUHYk092A9N3W8HiFxQ+iTnRAN7z8=;rpbwwtnL3fOwm8pmpgjI7A=="
+secured: "EAcKYKnAkduIxXDa+nLaQ9hJNDYCJO8IE9jRDZPxiC+8ksrbxMm7oifsKoEnm9T+OGaTMgD5H3ekBM3+WW0I0E/DjjcruI+5xKaOjLsRm2C6ASJ6voGICiAkU7rzIfbljD1ctsjtOU8iAVe2QtsPEo6fMxnVLsn+gDbFhtZfZ/ONj/Gl+QkSyx9ezFboHh3am84m7FFCWW2TXgq6yHxEeuPIJNODuPKS34fNlXeQpVIahYtraAYiCxY8KFvbR2aAzPqmBnrJrjuQJJ/DrJaKsqhL7t5dnwaj+UuJsSdSP1vZjG0/drUqW5hvBTt3oIbGPm4VgenjhNRo7+tSBhLcCYmKji+rjdE0BjBHzrKp1eU=;zRa6ME+0pwyAW7xmZ409rQ=="
 ---
 

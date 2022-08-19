@@ -2,6 +2,40 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-06-13-artificial-intelligence-market-usd-158170-billion-by-2030-growing-at-a-cagr-of-380-valuates-reports.md",
+      "title": "Artificial Intelligence Market USD 1,581.70 Billion By 2030, Growing At A CAGR of 38.0% - Valuates Reports",
+      "excerpt": "Major factors driving the growth of the artificial intelligence ... The new standard is to mimic human intelligence through loop-based automatic learning. Because self-learning robots can conduct ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-market-usd-1-581-70-billion-by-2030-growing-at-a-cagr-of-38-0-valuates-reports-831080485.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/artificial-intelligence-market-usd-1-581-70-billion-by-2030-growing-at-a-cagr-of-38-0-valuates-reports-831080485.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T09:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-2-artificial-intelligence-growth-stocks-to-buy-on-the-dip.md",
       "title": "2 Artificial Intelligence Growth Stocks to Buy on the Dip",
       "excerpt": "C3.ai is a trailblazer, helping companies across 11 industries access the power of artificial intelligence. Upstart is using AI to improve the decades-old FICO credit scoring system. Throughout ...",
@@ -1338,49 +1372,6 @@
         "AI in Autos",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-family-sues-meta-blames-instagram-for-daughters-eating-disorder-and-self-harm.md",
-      "title": "Family sues Meta, blames Instagram for daughter’s eating disorder and self-harm",
-      "excerpt": "A preteen girl’s “addictive” use of Instagram resulted in an eating disorder, self-harm and thoughts of suicide over several years, according to a lawsuit against the platform’s parent company, Meta.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/social-media/meta-lawsuit-instagram-caused-eating-disorder-self-harm-rcna32221",
-      "originalUrl": "https://www.nbcnews.com/tech/social-media/meta-lawsuit-instagram-caused-eating-disorder-self-harm-rcna32221",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220606-Alexis-Spence-ac-737p-fd868f.jpg",
-          "width": 1550,
-          "height": 1033,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna32221",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna32221",
-      "publishedDateTime": "2022-06-07T18:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

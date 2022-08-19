@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-19-self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue.md",
+      "title": "Self-driving vehicles planned for UK roads by 2025, but public trust is an issue",
+      "excerpt": "Report warns that driverless cars will need to be 100 times safer than human drivers for the public to accept them as they do trains or airplanes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue/",
+      "originalUrl": "https://www.zdnet.com/article/self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0841c7ba5b4b5c23ac57e7ec2fa6125277f003d8/2019/12/23/55acbfb8-8ff7-4f41-a6ec-06d145e7d05f/istock-1079995912.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 739,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue/",
+      "publishedDateTime": "2022-08-19T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-experts-warn-no-easy-answer-to-how-safe-self-driving-cars-should-be.md",
       "title": "Experts warn no easy answer to how safe self-driving cars should be",
       "excerpt": "The Centre for Data Ethics and Innovation (CDEI) report warns that it might not be enough for self-driving cars to be safer than human drivers. It suggests the public may have much higher expectations of self-driving car safety.",
@@ -192,7 +244,7 @@
       "originalUrl": "https://www.zdnet.com/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 181,
       "tags": null,
       "images": [
         {
@@ -1054,6 +1106,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-10-nation-releases-first-draft-of-rules-on-self-driving-vehicles-in-public.md",
+      "title": "Nation releases first draft of rules on self-driving vehicles in public",
+      "excerpt": "In July, Beijing launched China's first pilot area for commercial autonomous driving vehicle services. Baidu and self-driving startup Pony.ai are the first enterprises granted permission ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202208/10/62f3069ea310fd2bec9b5dbc.jpeg",
+          "width": 536,
+          "height": 357,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T00:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-ai-a-world-of-new-opportunity-and-risk.md",
       "title": "AI: A World of New Opportunity and Risk",
       "excerpt": "And here we are, at the dawn of the AI revolution, where the advent of cloud computing and computer processing power, cheap storage, new algorithms, as well as new product and service innovations realises the benefits of a technology – from driverless cars and virtual reality to medical diagnostics and predictive machine maintenance.",
@@ -1083,49 +1178,6 @@
       "provider": {
         "name": "INSEAD",
         "domain": "insead.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-nation-releases-first-draft-of-rules-on-self-driving-vehicles-in-public.md",
-      "title": "Nation releases first draft of rules on self-driving vehicles in public",
-      "excerpt": "The country will encourage the use of self-driving vehicles such as buses in an enclosed Bus Rapid Transit or BRT system, and allow autonomous vehicles to offer taxi services under simple and relatively controllable scenarios,",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202208/10/62f3069ea310fd2bec9b5dbc.jpeg",
-          "width": 536,
-          "height": 357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T19:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1353,51 +1405,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-is-artificial-intelligence-better-than-human-brain.md",
-      "title": "Is Artificial Intelligence better than human brain?",
-      "excerpt": "Machines are digital, but human brain is analogous and cannot be replaced by technology Digitisation, automation, high-performance robots … everyday, advertisements in media anticipate the great disruption and replacement of humans by Artificial Intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/opinion/op-eds/is-artificial-intelligence-better-than-human-brain-1.89796556",
-      "originalUrl": "https://gulfnews.com/opinion/op-eds/is-artificial-intelligence-better-than-human-brain-1.89796556",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2022/06/15/OPN-Artificial-Intelligence_18166c197a7_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/opinion/op-eds/is-artificial-intelligence-better-than-human-brain-1.89796556",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/opinion/op-eds/is-artificial-intelligence-better-than-human-brain-1.89796556",
-      "publishedDateTime": "2022-08-08T23:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

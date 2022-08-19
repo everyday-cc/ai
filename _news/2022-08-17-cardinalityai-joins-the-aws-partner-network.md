@@ -1,23 +1,25 @@
 ---
 category: news
 title: "Cardinality.ai Joins the AWS Partner Network"
-excerpt: "The Advanced Technology Partner Status reduces complexity to adopt digital practices and confidence of integration for our shared public sector customers; Three Cardinality.ai sol"
-publishedDateTime: 2022-08-16T19:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cardinalityai-joins-aws-partner-network-/2022/08/16/9657222.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cardinalityai-joins-aws-partner-network-/2022/08/16/9657222.htm"
+excerpt: "The Advanced Technology Partner Status reduces complexity to adopt digital practices and confidence of integration for our shared public sector customersThree Cardinality.ai solutions for public secto"
+publishedDateTime: 2022-08-16T18:07:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28523141/cardinality-ai-joins-the-aws-partner-network"
+webUrl: "https://www.benzinga.com/pressreleases/22/08/n28523141/cardinality-ai-joins-the-aws-partner-network"
+ampWebUrl: "https://www.benzinga.com/amp/content/28523141"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28523141"
 type: article
-quality: 34
-heat: 34
+quality: 54
+heat: 54
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "cn/CWv3pout14IgzaukiuqNuc/oVFe0oO8On/QWSSUvN2tYewGyUKpdVi9RKWSePx1DvDFdkD1mDI5Z8M5cS/mffmvnxjIT7SiRDbrQie3VaiWG0haiq2Fw9FhkE3t7zEieOorKTdfvflWUIw2K55Ltru2C0UEY2ocIq+YPYhjFj3BmgQGlRbpBq+Jco1YZGoaJnEV4aljziBKw+EhHFRzv+ydaY0ukHX+52JIUBcHcvCcxvr6n5hePPI4KzoUk5/dgIQYhD7BNSrrEnpoMZI3yxKbVpYfWi4gBirCsmLSFOD1HmvG8sLsr1njF8uhdVlw+2iIj9gFKMPhzjXIDcPoeAZltdXQOGt1GJiLWq2sU=;h3XvPqF2xjLzg86Smm+z+g=="
+secured: "N2LTAD+jiF8Kyd3uttEI7Iurcc4qKRh/HW5A918KIunp/I2/lOCwBpm5//zz+TFXM6O9I0m4xzTpYk8Rv4x33LFALyDUpUDg5HwVYsJTlvDYu5wpyUlMzhUVJ7YzRfuRdkaw8hXR0RjTG52MOr1/Ny0cy9amqS+bLyHeFkKoKzl+opRUh6n01XUvS6OEV9MEkqpbf2MAnqhBUqIlg8Kz02abqqbf5gKAVMHTAiXqPK1kDnBvs8KkOcCDvEhSnbO2oabwyNP22OVITiHhIGpflnLnBsxhTZzEzmGa2RWDJNXnkR6+//bcC3lsGGMvMVvEjebepT3IdWr5NtV9VkUKeuTMOgeagiph89cf/0RLaSs=;M+qjU7je11DFf/DVe4cCVA=="
 ---
 

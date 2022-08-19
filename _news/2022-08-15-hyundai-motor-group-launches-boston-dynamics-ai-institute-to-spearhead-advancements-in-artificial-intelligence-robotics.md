@@ -9,7 +9,7 @@ ampWebUrl: "https://www.suasnews.com/2022/08/hyundai-motor-group-launches-boston
 cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2022/08/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics/"
 type: article
 quality: 79
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -55,15 +55,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Boston Dynamics AI Institute to Research AI & Robotics Led By Marc Raibert"
-    excerpt: "Hyundai Motor Group (the Group) today announced the launch of Boston Dynamics AI Institute (the Institute), with the goal of making fundamental advances in artificial intelligence (AI), robotics and intelligent machines."
-    publishedDateTime: 2022-08-14T18:43:00Z
-    webUrl: "https://www.autoconnectedcar.com/2022/08/boston-dynamics-ai-institute-to-research-ai-robotics-led-by-marc-raibert/"
-    type: article
-    provider:
-      name: autoconnectedcar.com
-      domain: autoconnectedcar.com
-    quality: 49
   - title: "Hyundai invests in AI, software research centres"
     excerpt: "Mr Raibert said in a statement the new institute will “invest resources across the technical areas of cognitive AI, athletic AI and organic hardware design, with each discipline contributing to progress in advanced machine capabilities”."
     publishedDateTime: 2022-08-15T16:54:00Z

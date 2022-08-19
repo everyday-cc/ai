@@ -2,6 +2,155 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-08-09-traceable-ai-addresses-api-based-data-security-and-fraud-attacks-in-latest-platform-update.md",
+      "title": "Traceable AI Addresses API-based Data Security and Fraud Attacks in Latest Platform Update",
+      "excerpt": "Flexible deployment options: Fully out-of-band collection via network log analysis of AWS, Google Cloud Platform (GCP), and Azure clouds - specifically for ... About Traceable AI Traceable is the industry's leading API security platform that identifies ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/traceable-ai-addresses-api-based-data-security-and-fraud-attacks-in-latest-platform-update-1031665909",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/traceable-ai-addresses-api-based-data-security-and-fraud-attacks-in-latest-platform-update-1031665909",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1437019/5f0036d9594ffa9bb64d2462_traceable_vertical_lightbg_2x_Logo.jpg",
+          "width": 400,
+          "height": 244,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-avenda-health-receives-fda-investigational-device-exemption-for-ai-enabled-prostate-cancer-therapy.md",
+      "title": "Avenda Health Receives FDA Investigational Device Exemption for AI-enabled Prostate Cancer Therapy",
+      "excerpt": "Avenda Health Receives FDA Investigational Device Exemption for AI-enabled Prostate Cancer Therapy Aug 09, 2022 (PRNewswire via COMTEX) -- PR Newswire",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/avenda-health-receives-fda-investigational-device-exemption-for-ai-enabled-prostate-cancer-therapy-2022-08-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/avenda-health-receives-fda-investigational-device-exemption-for-ai-enabled-prostate-cancer-therapy-2022-08-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-how-can-managers-use-ai-to-find-the-right-people.md",
+      "title": "How Can Managers Use AI to Find the Right People?",
+      "excerpt": "AI analyses their responses to determine intelligence, character and coding skills. The chatbot then invites the top third of the remaining candidates to do a webcam interview at their convenience within a several-day window.",
+      "sourceUrl": null,
+      "webUrl": "https://knowledge.insead.edu/career/how-can-managers-use-ai-find-right-people",
+      "originalUrl": "https://knowledge.insead.edu/career/how-can-managers-use-ai-find-right-people",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/images/2022/04/gettyimages-1218524115.jpg?itok=jHbWgdzy",
+          "width": 2322,
+          "height": 1290,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "INSEAD",
+        "domain": "insead.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-global-ai-in-healthcare-market-to-hit-usd-446-billion-globally-by-2026-at-448-cagr-infinium-global-research.md",
       "title": "Global AI in Healthcare Market to Hit USD 44.6 Billion , Globally By 2026 at 44.8% CAGR | Infinium Global Research",
       "excerpt": "The AI in Healthcare Market Research Report Study. Covers global and regional markets with an in-depth analysis of",
@@ -1030,133 +1179,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine.md",
-      "title": "Microsoft's Azure named official cloud partner of the Unity game engine",
-      "excerpt": "The long-time collaborators made it official, positioning Microsoft's Azure as the cloud platform of choice for Unity's future 3D worlds as they are deployed on everything from Xbox game consoles to enterprise clouds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine/",
-      "originalUrl": "https://www.zdnet.com/article/microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/39d0861ae7c64367b6174547c351fc2765343ca5/2022/08/08/6e5d5ba4-23bd-41cd-82ff-466cb008df64/unity-x-microsoft.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine/",
-      "publishedDateTime": "2022-08-08T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-artificial-intelligence-tools-predict-dnas-regulatory-role-and-3d-structure.md",
-      "title": "Artificial intelligence tools predict DNA's regulatory role and 3D structure",
-      "excerpt": "Newly developed artificial intelligence (AI) programs have accurately predicted the role of DNA's regulatory elements and three-dimensional (3D) structure based solely on its raw sequence, according to two recent studies in Nature Genetics.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.html",
-      "originalUrl": "https://phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-56.jpg",
-          "width": 2115,
-          "height": 1939,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-artificial-intelligence-tools-dna-regulatory.amp",
-      "publishedDateTime": "2022-08-08T12:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-enterprise-artificial-intelligence-ai-market-worth-1552-billion-by-2030-grand-view-research-inc.md",
-      "title": "Enterprise Artificial Intelligence (AI) Market Worth $155.2 Billion by 2030: Grand View Research, Inc.",
-      "excerpt": "The global enterprise artificial intelligence market size is anticipated to reach USD 155.2 billion by 2030, according to a new report by Grand View Research, Inc. The market is expected to grow at a CAGR of 34.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/08/08/9652242.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/08/08/9652242.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T12:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

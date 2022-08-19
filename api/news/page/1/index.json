@@ -2,6 +2,213 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-19-mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more.md",
+      "title": "MediaTek Pentonic 700 SoC for 4K televisions announced: AI image enhancements, Dolby Vision IQ, and more",
+      "excerpt": "MediaTek announced T830 chipset for routers and mobile hotspot devices. Now the Taiwanese semiconductor manufacturer has launched Pentonic 700 processor for premium and high-end televisions. Last year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/08/19/mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more/",
+      "originalUrl": "https://www.gizmochina.com/2022/08/19/mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/08/MediaTek-Pentonic-700.jpeg",
+          "width": 629,
+          "height": 475,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/08/19/mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/19/mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more/?amp=1",
+      "publishedDateTime": "2022-08-19T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-10-top-cybersecurity-online-courses-and-certifications-in-2022.md",
+      "title": "10 top cybersecurity online courses and certifications in 2022",
+      "excerpt": "Are you interested in cybersecurity certifications? Whether you're changing careers or upskilling your team, there's help available.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/10-top-cybersecurity-online-courses-and-certifications-in-2022/",
+      "originalUrl": "https://venturebeat.com/security/10-top-cybersecurity-online-courses-and-certifications-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-certificate_certification_1335802150-e1660857259342.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/10-top-cybersecurity-online-courses-and-certifications-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/10-top-cybersecurity-online-courses-and-certifications-in-2022/amp/",
+      "publishedDateTime": "2022-08-19T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue.md",
+      "title": "Self-driving vehicles planned for UK roads by 2025, but public trust is an issue",
+      "excerpt": "Report warns that driverless cars will need to be 100 times safer than human drivers for the public to accept them as they do trains or airplanes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue/",
+      "originalUrl": "https://www.zdnet.com/article/self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0841c7ba5b4b5c23ac57e7ec2fa6125277f003d8/2019/12/23/55acbfb8-8ff7-4f41-a6ec-06d145e7d05f/istock-1079995912.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 739,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue/",
+      "publishedDateTime": "2022-08-19T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-otterai-challenger-airgram-raises-10m-to-transcribe-and-time-your-video-calls.md",
+      "title": "Otter.ai challenger Airgram raises $10M to transcribe and time your video calls",
+      "excerpt": "There’re plenty of tools out there competing to help people make their video calls breezier. Some, like voice transcription service Otter.ai, have been getting a boost from the COVID-19 pandemic and pulling in handsome investments.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/",
+      "originalUrl": "https://techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/1171660816481_.pic_.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/amp/",
+      "publishedDateTime": "2022-08-19T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-microsoft-and-map-bengaluru-develop-new-ai-powered-platform.md",
       "title": "Microsoft and MAP, Bengaluru, Develop New AI-Powered Platform",
       "excerpt": "Bengaluru, have developed a new artificial intelligence-powered platform for connecting artworks and cultures around the world",
@@ -198,7 +405,7 @@
       "originalUrl": "https://venturebeat.com/business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -1003,188 +1210,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-pm-to-visit-torres-strait-for-voice-talks.md",
-      "title": "PM to visit Torres Strait for voice talks",
-      "excerpt": "Prime Minister Anthony Albanese will meet Indigenous elders on a visit to the Torres Strait for talks on what form a voice to parliament would look like.",
-      "sourceUrl": null,
-      "webUrl": "https://thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-albanese-torres-strait/",
-      "originalUrl": "https://thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-albanese-torres-strait/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thenewdaily.com.au/wp-content/uploads/2022/07/1659093904-albanese-NT.png?resize=834%2C540",
-          "width": 834,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-albanese-torres-strait/amp/",
-      "cdnAmpWebUrl": "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-albanese-torres-strait/amp/",
-      "publishedDateTime": "2022-08-17T15:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Daily",
-        "domain": "thenewdaily.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-driverless-lyfts-come-to-the-las-vegas-strip-with-a-catch.md",
-      "title": "Driverless Lyfts Come to the Las Vegas Strip (With a Catch)",
-      "excerpt": "Innovations big and small are happening up, down, and under the Las Vegas Strip. Elon Musk's Boring Co. has been building a network of tunnels under the city that will eventually use driverless Tesla  (TSLA)  electric vehicles to ferry people all over the city.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/the-las-vegas-strip-gets-a-major-new-innovation",
-      "originalUrl": "https://www.thestreet.com/investing/the-las-vegas-strip-gets-a-major-new-innovation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg4NzU1NTY3OTMyNjE0MTc2/boring-company.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/the-las-vegas-strip-gets-a-major-new-innovation",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/the-las-vegas-strip-gets-a-major-new-innovation",
-      "publishedDateTime": "2022-08-17T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-intel-vp-talks-ai-strategy-as-company-takes-on-nvidia.md",
-      "title": "Intel VP talks AI strategy as company takes on Nvidia",
-      "excerpt": "Intel is on an AI mission to compete in the AI software and hardware space, according to Wei Li, VP and GM of AI and analytics at Intel.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/intel-vp-talks-ai-strategy-as-company-takes-on-nvidia/",
-      "originalUrl": "https://venturebeat.com/ai/intel-vp-talks-ai-strategy-as-company-takes-on-nvidia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 130,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-664440974.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 684,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/intel-vp-talks-ai-strategy-as-company-takes-on-nvidia/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/intel-vp-talks-ai-strategy-as-company-takes-on-nvidia/amp/",
-      "publishedDateTime": "2022-08-17T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-aws-localization-uses-amazon-translate-to-scale-localization.md",
-      "title": "AWS Localization uses Amazon Translate to scale localization",
-      "excerpt": "The AWS website is currently available in 16 languages (12 for the AWS Management Console and for technical documentation): Arabic, Chinese Simplified, Chinese Traditional, English, French, German, Indonesian, Italian, Japanese, Korean, Portuguese, Russian, Spanish, Thai, Turkish, and Vietnamese. Customers",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-localization-uses-amazon-translate-to-scale-localization/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-localization-uses-amazon-translate-to-scale-localization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T11:00:32-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

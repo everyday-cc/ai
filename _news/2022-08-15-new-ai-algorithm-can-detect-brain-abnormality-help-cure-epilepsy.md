@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.ibtimes.co.in/new-ai-algorithm-can-detect-brain-abnormal
 cdnAmpWebUrl: "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/new-ai-algorithm-can-detect-brain-abnormality-help-cure-epilepsy-851358"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: IBTimes India
@@ -40,15 +40,6 @@ related:
         width: 2000
         height: 1331
         isCached: true
-  - title: "AI Algorithm Helps Cure Epilepsy"
-    excerpt: "An artificial intelligence (AI) algorithm developed by researchers detects subtle brain abnormalities which cause epileptic seizures."
-    publishedDateTime: 2022-08-14T17:46:00Z
-    webUrl: "https://www.medindia.net/news/ai-algorithm-helps-cure-epilepsy-208275-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 17
 
 secured: "uanGhsELolROIGbDsx7O0OTVMGmVDP3lqdZ2RTQw4JOT8qjzAQbrM376abGex42s0hq+TNFzsRf9mIM/xjkDlUHvKtn1PEKFrXKhEQO9xCN+T4niRT5dllm9OC7YIxiCRXKweusMQV5mdBfFPgFJQwm8jfDnoeQdLryVLdPv9DCOAMtGWL+wj62xI0X/hrEEmxjisLtrvDs/i2/s5gVU6LSFePb6wf2c7f4t8Wq8fVwReDo+iHnK9u4qVDPBRXE74hin6WC1sVQu8R4Wgur1Rt0CMGybZRd7v1H4zz7vkdzdRD96jNAjeCn0uaD0l+EKnKJmDhpBbPegPvG3HKxl9xK/t3NtG6x2+aVgGDqpwsViAZWLbd4/b5NS6sdapXJa0tivyXZZ9dXCuonFRAS6Q4qjW4LVyAnl/Yo1pP8qvWeLXNwsxS26CW/IdswcpcyBECmG7QLwMwwDIClAGp67zWXkteH10N1UlIhsEQEx3hOKEgt+9TWWWM0baUntcfiQsvF7Da4JLlb0WG/eJK/3sg==;EQwbHaCoXS7RmMvtj4FnQA=="
 ---

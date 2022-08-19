@@ -2,6 +2,93 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-08-08-baidu-bags-chinas-first-fully-driverless-robotaxi-licenses.md",
+      "title": "Baidu Bags China's First Fully Driverless Robotaxi Licenses",
+      "excerpt": "Baidu said they marked a \"turning point\" in ... with milestone-setting autonomous driving policies. In January, self-driving company Cruise received a permit from the California Public Utilities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/technology/articles/2022-08-07/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses",
+      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-08-07/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T19:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-how-enlighten-designs-is-balancing-professional-services-sales-and-delivery.md",
+      "title": "How Enlighten Designs is balancing professional services, sales and delivery",
+      "excerpt": "Hamilton-based IT services and consulting partner Enlighten Designs is focused on ‘keeping a finger on the pulse’ of customer requirements to remain agile and seeking market expansion through growing its expertise.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/700525/how-enlighten-designs-balancing-professional-services-sales-delivery/",
+      "originalUrl": "https://www.reseller.co.nz/article/700525/how-enlighten-designs-balancing-professional-services-sales-delivery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/damon_kelly-1.jpg",
+          "width": 458,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T19:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-ibm-watson-powered-augmented-intelligence-seeks-an-edge-in-travel-marketing.md",
       "title": "IBM Watson-Powered Augmented Intelligence Seeks an Edge in Travel Marketing",
       "excerpt": "Watson refers to IBM’s cognitive artificial intelligence (AI) platform. Watson is best-known for tricks like defeating contestants on the U.S. quiz show “Jeopardy!” It can interpret ...",
@@ -129,6 +216,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-neural-networks-being-used-to-improve-the-performance-of-high-power-wind-turbines.md",
+      "title": "Neural networks being used to improve the performance of high-power wind turbines",
+      "excerpt": "Gasteiz Faculty of Engineering of the UPV/EHU has used convolutional neural networks to predict airflow characteristics in the aerodynamic profiles of high-power wind turbines, and has shown that flow control devices can be studied using these neural networks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/961192",
+      "originalUrl": "https://www.eurekalert.org/news-releases/961192",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d00d8c91-2d7e-4e6f-8ba4-dfa8de9f2357/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1004,162 +1134,6 @@
         "AI Ethics",
         "AI Hardware",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-no-youre-not-alone-google-is-also-making-this-big-mistake-on-ai.md",
-      "title": "No, You’re Not Alone. Google Is Also Making This Big Mistake On AI",
-      "excerpt": "As AI goes, garbage in is most definitely garbage out, and AI projects are suffering from significant bad data garbage. If Google, ImageNet, and others are making this mistake, for sure you are making this mistake as well.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/06/no-youre-not-alone-google-is-also-making-this-big-mistake-on-ai/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/06/no-youre-not-alone-google-is-also-making-this-big-mistake-on-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62eadf98d17679765fb6862c/0x0.jpg?format=jpg&crop=2209,1243,x0,y136,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/06/no-youre-not-alone-google-is-also-making-this-big-mistake-on-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/06/no-youre-not-alone-google-is-also-making-this-big-mistake-on-ai/amp/",
-      "publishedDateTime": "2022-08-05T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak.md",
-      "title": "Gartner research: 2 types of emerging AI near hype cycle peak",
-      "excerpt": "According to new Gartner research, emotion and generative AI are both reaching the peak of the digital advertising hype cycle.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/",
-      "originalUrl": "https://venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1346722826.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/",
-      "publishedDateTime": "2022-08-05T16:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-accelerating-azure-databricks-runtime-for-machine-learning.md",
-      "title": "Accelerating Azure Databricks Runtime for Machine Learning",
-      "excerpt": "Intel-optimized ML libraries on Azure Databricks Databricks Runtime for Machine Learning includes the stock versions of scikit-learn and TensorFlow. To boost performance, however, Intel engineers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3669311/accelerating-azure-databricks-runtime-for-machine-learning.html",
-      "originalUrl": "https://www.infoworld.com/article/3669311/accelerating-azure-databricks-runtime-for-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2022/08/istock-1135710814-article-3-100930991-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-05T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -2,6 +2,196 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2022-07-21-tesla-surpasses-35-million-miles-driven-on-full-self-driving-beta-pace-is-ramping-up.md",
+      "title": "Tesla surpasses 35 million miles driven on Full Self-Driving Beta, pace is ramping up",
+      "excerpt": "Tesla is reporting that its fleet of customers driving with the Full Self-Driving (FSD) Beta has now surpassed 35 million miles driven and the pace is ramping up. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/07/20/tesla-surpasses-35-million-miles-driven-full-self-driving-beta/",
+      "originalUrl": "https://electrek.co/2022/07/20/tesla-surpasses-35-million-miles-driven-full-self-driving-beta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 152,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/07/Tesla-FSD-Beta-miles-driven-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/07/20/tesla-surpasses-35-million-miles-driven-full-self-driving-beta/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/07/20/tesla-surpasses-35-million-miles-driven-full-self-driving-beta/amp/",
+      "publishedDateTime": "2022-07-20T14:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-the-dall-e-ai-image-generator-just-entered-a-limited-open-beta.md",
+      "title": "The Dall-E AI image generator just entered a limited open beta",
+      "excerpt": "OpenAI's Dall-E image generator is both powerful and weird. So far, the developers have only allowed a handful of AI researchers to use the tool. However,",
+      "sourceUrl": null,
+      "webUrl": "https://www.techspot.com/news/95372-dall-e-ai-image-generator-entered-limited-open.html",
+      "originalUrl": "https://www.techspot.com/news/95372-dall-e-ai-image-generator-entered-limited-open.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.techspot.com/images2/news/bigimage/2022/07/2022-07-20-image-20.jpg",
+          "width": 2560,
+          "height": 1707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T13:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechSpot",
+        "domain": "techspot.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-driverless-tractors-are-here-and-thats-just-the-beginning-for-the-future-of-farming.md",
+      "title": "Driverless tractors are here, and that's just the beginning for the future of farming",
+      "excerpt": "\"We launched the first driverless tractor that actually ... Camera images also run through an artificial intelligence process that recognizes humans, animals, equipment and other dangerous obstacles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/driverless-tractors-thats-just-beginning-143500389.html",
+      "originalUrl": "https://www.aol.com/news/driverless-tractors-thats-just-beginning-143500389.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T12:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-the-best-outdoor-home-security-cameras-of-2022.md",
+      "title": "The best outdoor home security cameras of 2022",
+      "excerpt": "store or review video (though you give up some object recognition accuracy in comparison with the subscription-based cameras). The Eufy Floodlight Camera has a 130-degree field of view that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/cnn-underscored/reviews/best-outdoor-home-security-camera",
+      "originalUrl": "https://www.cnn.com/cnn-underscored/reviews/best-outdoor-home-security-camera",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-techsee-launches-visual-intelligence-platform.md",
       "title": "TechSee Launches Visual Intelligence Platform",
       "excerpt": "TechSee, a provider of computer vision solutions for customer service, today launched its Visual Intelligence (VI) Platform to help companies customize their computer vision automation applications. Computer vision AI identifies specific models ...",
@@ -945,179 +1135,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-3-chip-stocks-to-buy-ahead-of-earnings.md",
-      "title": "3 Chip Stocks to Buy Ahead of Earnings",
-      "excerpt": "T he world's top chip manufacturer Taiwan Semiconductor Manufacturing's , better known as TSMC, second-quarter 2022 earnings report indicates chip spending is still very healthy,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-chip-stocks-to-buy-ahead-of-earnings",
-      "originalUrl": "https://www.nasdaq.com/articles/3-chip-stocks-to-buy-ahead-of-earnings",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T03:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-singapore-healthcare-mobile-app-taps-ai-to-diagnose-std.md",
-      "title": "Singapore healthcare mobile app taps AI to diagnose STD",
-      "excerpt": "Touted to offer a \"penis-checking\" tool powered by artificial intelligence, the HeHealth mobile app has processed 1,000 image analyses over an 18 months-long pilot and lets users receive their results anonymously.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
-      "originalUrl": "https://www.zdnet.com/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-healthcare-mobile-app-taps-ai-to-diagnose-std/",
-      "publishedDateTime": "2022-07-20T03:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-do-masks-get-in-the-way-of-recognizing-emotions.md",
-      "title": "Do Masks Get in the Way of Recognizing Emotions?",
-      "excerpt": "Researchers have discovered in their latest research that people can identify emotions and traits of other people wearing a face mask when the whole body is visible.",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/neuroscience/news/do-masks-get-in-the-way-of-recognizing-emotions-363875",
-      "originalUrl": "https://www.technologynetworks.com/neuroscience/news/do-masks-get-in-the-way-of-recognizing-emotions-363875",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.technologynetworks.com/production/dynamic/images/content/363875/do-masks-get-in-the-way-of-recognizing-emotions-363875-640x360.jpg?cb=20220720",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-banks-turn-to-ai-to-help-dodge-enforcement-spotlight.md",
-      "title": "Banks Turn to AI to Help Dodge Enforcement Spotlight",
-      "excerpt": "Regulators increasingly expect banks and other entities to use smarter systems to help thwart potential criminal activity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/banks-turn-to-ai-to-help-dodge-enforcement-spotlight-11658309401",
-      "originalUrl": "https://www.wsj.com/articles/banks-turn-to-ai-to-help-dodge-enforcement-spotlight-11658309401",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-586683/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/banks-turn-to-ai-to-help-dodge-enforcement-spotlight-11658309401",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/banks-turn-to-ai-to-help-dodge-enforcement-spotlight-11658309401",
-      "publishedDateTime": "2022-07-20T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
       ]
     }
   ],

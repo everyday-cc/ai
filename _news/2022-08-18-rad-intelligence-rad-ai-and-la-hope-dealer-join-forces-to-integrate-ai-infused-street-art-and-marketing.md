@@ -41,20 +41,6 @@ related:
         width: 480
         height: 383
         isCached: true
-  - title: "UJET Launches AI-Modeled Interaction Design to Identify and Value Optimal Virtual Agent Deployments"
-    excerpt: "UJET, Inc., the world’s most advanced cloud contact center provider, today announces advanced AI-guided customer service operations that leverage hundreds of thousands of customer insights to drive enhanced customer experience (CX) capabilities and automated virtual agent responses."
-    publishedDateTime: 2022-08-18T13:56:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-1f596fba9aa446d582a678e3355d640a"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 23
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "TP7vaTmH9Nrth70KAqjXO14n56nxRMtQ3cuWhRmpVx1JjB1veeBBPWFB3JlIIW2WJIImPoOmtY00j0xpnIOloZ7OM8+b9FmxxdCyPVOemPUJ7mCoglUvsHi5LqlOCUNxFq/rRskoWc+ATFSm6veh3UDqBukrN9JiBZhtAUh01Doq/Tq5cMtS/I2m7npcx1tDN/lqgBzIKcwKvUizLrsdMsN2jSLzcNr4kZo+HdkKMC7Fs5uSzrBbQRyNXTBf0v2RtrjYm/FeZ77Mm1UfXYXu5zkyBQiYSd5nwfNVly7pHYrejF1iyRZ5N6wlgL8V3W4aQTg58c9m2sr5Qu4jT3iC5+tQBzX8cld9b74m4AxYV9o=;TW5DdYupzfnkdHCd70T/xg=="
 ---
