@@ -39,15 +39,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 14
-  - title: "Global ASIC Chip Market Research Report 2022: A $34.4 Billion Market by 2027 - Trends, Forecast and Competitive Analysis - ResearchAndMarkets.com"
-    excerpt: "Trends, Forecast and Competitive Analysis\" report has been added to ResearchAndMarkets.com's offering. The global ASIC chip market is expected to reach an estimated $34.4 billion by 2027 with a CAGR of 7."
-    publishedDateTime: 2022-08-15T14:16:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-15-global-asic-chip-market-research-report-2022-a-344-billion-market-by-2027-trends-forecast-and-competitive-analysis-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
   - title: "Artificial Intelligence In Drug Discovery Global Market to Grow from $1.04 Billion to $2.99 Billion by 2026"
     excerpt: "The global artificial intelligence (AI) in drug discovery market is expected to grow from $791.83 million in 2021 to $1042.30 million in 2022 at a compound annual growth rate (CAGR) of 31.6%. The market is expected to reach $2994."
     publishedDateTime: 2022-08-16T11:04:00Z

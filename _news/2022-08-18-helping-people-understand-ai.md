@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/helping-people-understand-ai/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/helping-people-understand-ai/amp/"
 type: article
 quality: 109
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -47,17 +47,6 @@ related:
         width: 790
         height: 497
         isCached: true
-  - title: "A Seattle band’s AI singer sounds like she’s thinking. She’s not"
-    excerpt: "Despite decades of research, AI hasn't fulfilled all the dreams researchers have hoped for. That hasn't stopped some from proclaiming the machines are sentient."
-    publishedDateTime: 2022-08-15T15:00:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/a-seattle-bands-ai-singer-sounds-like-shes-thinking-shes-not/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/a-seattle-bands-ai-singer-sounds-like-shes-thinking-shes-not/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/a-seattle-bands-ai-singer-sounds-like-shes-thinking-shes-not/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 45
 
 secured: "cP7/BZSSB60Xi5v54EQL9IpNQZU3N1ADOburpobScznSq74g4Usqe8TELRIqhGsDGDQQ+jPSNcvVWX8HmABU7eXaNyZ7eF2Hbci21c4+bnJq2FsOuDjMkidUJpdQZTGJcngzc9QMp61+dxOo04HKFLnhPpsNKfSLm303/fL31303XJ3j/zWah88LLAQPLw4+PWUFodCApyeF8qnDxprsNKJzSrDSzxM8Hmh1jfRbyQWayxB1L3fShoSV2bGN/OrphjfRu+thTAjn6vwSwa4PFQ4ERWHgNRW9y4HI8nbDW6SNKTxXYiSD76iGGX/i1p2FDOBWCCcW/4b/EyP5jQh0QZRUu75Kzj212QMJYgX7MgY=;+oYJxY+J9xroy2tw8Cul3w=="
 ---

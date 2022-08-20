@@ -2,9 +2,9 @@
 category: news
 title: "Otter.ai challenger Airgram raises $10M to transcribe and time your video calls"
 excerpt: "There’re plenty of tools out there competing to help people make their video calls breezier. Some, like voice transcription service Otter.ai, have been getting a boost from the COVID-19 pandemic and pulling in handsome investments."
-publishedDateTime: 2022-08-19T10:18:00Z
-originalUrl: "https://techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/"
-webUrl: "https://techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/"
+publishedDateTime: 2022-08-19T10:17:00Z
+originalUrl: "https://techcrunch.com/2022/08/19/otter-ai-challenger-airgram-raises-10m-to-transcribe-and-time-your-video-calls/"
+webUrl: "https://techcrunch.com/2022/08/19/otter-ai-challenger-airgram-raises-10m-to-transcribe-and-time-your-video-calls/"
 ampWebUrl: "https://techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/amp/"
 type: article
@@ -30,6 +30,6 @@ images:
     height: 576
     isCached: true
 
-secured: "bCqLiAdK87/w1DZ3RgSZhIT2wWeM/HKjDqaCp2QEJesWXV7GHz5MV++lokrzx8Skk674R5qqFArCW4ZGy1JTVLkAwbYmkZ/GVXMHo03+taG4rdHfpuyEgVIWhCS+G9Kpxs1KusiDvm3clDjWsfGtydxpQyZWc/DcxzpiEp8g0TojRcwaa+NIQsaHC/H20h9ILz2etGFqxG8H+co6GPZIGpR0da1X/zq8+gKjB3ICAs1KL7geY9aCYJy00krj6fq1kmKaMjH3xNuk+tYllYKbjmVGbkVbYT8WdhBk9Uyn44syFl90u/TUnck4StIRZP/VpPSlJy87xNhpMXNzVgxvoeML1Be9TaorpcbXDUaR8Dp+Bx49dz4xiSmwPjkpTn3dau09OC+1/BYAqMT45ygoQn8yRdBNKBCtEYVqOJnELSm66RHx6ik6M49hMA99NcTMze6iWaxfw4VZrzF48+t2Dsp8HsfinPRp0kiY2f/5SkIhChjlMzYenY+EHdBLhQgOMcnJ8PeeZN+iWG9RjR1XPQ==;F77u4JoCvTMsGmJWiC7Ktg=="
+secured: "hBj4/+u7hwNJ0QaGSkmpjmsjPYaasRbEh7md9nZ5SK7VpKepPca0q+h7eAzrAx8AufhuHLAv3vAhGQC6SSUTelrG/v4KdlsWvZMZOulGNe0/2bqv4WevDWR3JqGdAQ+JRt2pAiSJbiczx3PkQi3yBH6J2GV5CajcF+PsI5cqinC3yZ2mptOnBxMuKicuZZ3IUNiYl06YQIVTz/y9kYAupaiTEoUSd06mEc+YT/UsotUC/zzfArU2/rxtbZK7wBQsHB9W/wsLtGhlryrrpo9izMs/gNzu/SR28cIfKuvb0YgDES+TkNKcYEw95zO5dnK3Jxm/gbNcVR2UK3SzoBNTxOn+Tt3jKgLijzzRNaYh9MA=;h8Mdbj54la/91HDH8tGEeg=="
 ---
 

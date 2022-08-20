@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104704287/Syncwords-Complements-Its-Machine-Tr
 webUrl: "https://menafn.com/1104704287/Syncwords-Complements-Its-Machine-Translations-With-Human-And-AI-Capabilities"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -23,17 +23,6 @@ images:
     width: 400
     height: 225
     isCached: true
-
-related:
-  - title: "The path to successful conversational AI capabilities"
-    excerpt: "From cloud chaos to clarity.” Conversational AI technologies are entering an era of hyper-personalized, multimodal assistants that are empathetic, inclusive, and immersive. Enterprises should take a gradual approach to conversational AI,"
-    publishedDateTime: 2022-08-15T13:24:00Z
-    webUrl: "https://www.technologyreview.com/2022/08/15/1057746/the-path-to-successful-conversational-ai-capabilities/"
-    type: article
-    provider:
-      name: MIT Technology Review
-      domain: technologyreview.com
-    quality: 17
 
 secured: "O0yOS0vHNEF/EX7FywmDYJyc9Xi5dp9WPrOC7Xk9lVOjXq4+0fItnucpjlTePpJS8mDsGeXhwgiTAjBlgoERAkaeg9ZRZom7N0nMIIuGfdtoGuaHG8QmzqBbA9bseIe1BElxn8CNZkEM/CcmkoujdLvdrinyXAvcOWxyjlmFHvFEVVzIcBtD/T+Qiuq8a6lHTc5qtNw+KHWd+4Z53mQv6kFkN+410pjfA2gfoFYfkasagMUqPxj5M7EZu78UAO87iDphJ5S965mVqi94oxFJcUDwPkeXy+5FTHyg8zGIzFM9bcOrmSBU3++Tq/wInt/jZsOdc2YGvfdtpabFPTs6Y11nS+dRMj/JU4o2QhtEJ6q6DFZ3C27jfvB5aLoGyeiVCYBZy4Q5oAFpbVgjNt4wOkQzxs/JOUW9DZVEAcGb+i/6gbjF1JLS9BdzqP3nX3NFiQ2Bcbsrqk2rcMoVVEzThxBKRgLNBoq03+psCP0WH9TeCUd2mj4gLNNZHFBry3nLNico6cgf4GtC0f4csNi0kw==;TjTyb3hrra374i7nloJ8hw=="
 ---

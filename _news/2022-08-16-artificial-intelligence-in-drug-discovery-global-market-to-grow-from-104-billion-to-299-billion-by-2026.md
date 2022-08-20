@@ -47,15 +47,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 1
-  - title: "Global ASIC Chip Market Research Report 2022: A $34.4 Billion Market by 2027 - Trends, Forecast and Competitive Analysis - ResearchAndMarkets.com"
-    excerpt: "Trends, Forecast and Competitive Analysis\" report has been added to ResearchAndMarkets.com's offering. The global ASIC chip market is expected to reach an estimated $34.4 billion by 2027 with a CAGR of 7."
-    publishedDateTime: 2022-08-15T14:16:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-15-global-asic-chip-market-research-report-2022-a-344-billion-market-by-2027-trends-forecast-and-competitive-analysis-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
   - title: "Medical Ultrasound Equipment Global Market Report 2022: Artificial Intelligence at the Forefront in New Ultrasound Systems - ResearchAndMarkets.com"
     excerpt: "The \"Medical Ultrasound Equipment - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Medical Ultrasound Equipment Market to Reach $8.2 Billion by 2026 Amid the COVID-19 crisis,"
     publishedDateTime: 2022-08-16T12:28:00Z

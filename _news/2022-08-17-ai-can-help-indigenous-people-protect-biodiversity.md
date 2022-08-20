@@ -43,17 +43,6 @@ related:
         width: 1300
         height: 733
         isCached: true
-  - title: "A Seattle band’s AI singer sounds like she’s thinking. She’s not"
-    excerpt: "Despite decades of research, AI hasn't fulfilled all the dreams researchers have hoped for. That hasn't stopped some from proclaiming the machines are sentient."
-    publishedDateTime: 2022-08-15T15:00:00Z
-    webUrl: "https://www.seattletimes.com/business/technology/a-seattle-bands-ai-singer-sounds-like-shes-thinking-shes-not/"
-    ampWebUrl: "https://www.seattletimes.com/business/technology/a-seattle-bands-ai-singer-sounds-like-shes-thinking-shes-not/?amp=1"
-    cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/business/technology/a-seattle-bands-ai-singer-sounds-like-shes-thinking-shes-not/?amp=1"
-    type: article
-    provider:
-      name: Seattle Times
-      domain: seattletimes.com
-    quality: 45
 
 secured: "eS5CvE7Icelv0LKkKhV9WMi44bIUeeTN1CFBMR05VN+jxkHZmrgzQI0NmtF5oCulSrgOG4zvRDJOVw9h3ybfDPmHff3P7nsHaGUlYcArkyfZd8S45oWMRQL6DfZi8/t/jgtiifon3VIwvvKQzq4puGt/hE48ahkWrDOJBlZsJQ68RHuvxy6zNAuP4vmrLyxJVuRh3cv2+EQFquy4j3yzWSmdo2xRp2hMpQOlwqslokVAPLogHMA8h4ph293xyBYNCq/tfVfA1E+cd6Ei4S06F17TNbRs7qwcQIMoUImldO3sMjQLuMsg4g4HEJcqH5sK0cnJkIdeBE9q6yJDOC/UO1B4CcEFcJyOQEjSW9jaI7flDLuI313MvQTkAy4HbOxKhQ2JgSgePLhrQqpZMe3594L+I5G1LkshVxPzxioYM2O9NO6K7JE6tY9Czmoph4OFqHoN8P6MRMUllh7vJAEl/CfbnvM8/33Vjw7UsfW4XGhN64rjC1ETH/Bb9s8ceSnuCWsCTuKXI5BFrbSPYL3p+w==;UfMzVZqgVr4JnDXy3/7Oiw=="
 ---

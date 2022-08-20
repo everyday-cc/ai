@@ -7,7 +7,7 @@ originalUrl: "https://siliconangle.com/2022/08/16/new-integrate-ai-platform-pres
 webUrl: "https://siliconangle.com/2022/08/16/new-integrate-ai-platform-preserves-privacy-machine-learning-analytics/"
 type: article
 quality: 53
-heat: 143
+heat: 133
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/integrateai.png"
         width: 483
         height: 409
-        isCached: true
-  - title: "Artificial Intelligence (AI) and Analytics: Accelerating Africa’s Hydrocarbon Sector Development"
-    excerpt: "With Africa pursuing the exploitation of its hydrocarbon reserves to address growing energy poverty and fuel industrialization, artificial intelligence (AI) and analytics technologies present a massive opportunity for the continent to fast-track the development of oil and gas resources."
-    publishedDateTime: 2022-08-15T14:14:00Z
-    webUrl: "https://www.zawya.com/en/press-release/africa-press-releases/artificial-intelligence-ai-and-analytics-accelerating-africas-hydrocarbon-sector-development-ardjfhnr"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-    images:
-      - url: "https://www.africa-newsroom.com/files/thumb/c3f09ec59139316/600/418"
-        width: 600
-        height: 401
         isCached: true
   - title: "Infosys’ AI & Analytics Play"
     excerpt: "Infosys is at the forefront of technology innovation and is leading the way for multiple AI and analytics solutions and initiatives for its customers across the globe."

@@ -52,20 +52,6 @@ related:
         width: 483
         height: 409
         isCached: true
-  - title: "Artificial Intelligence (AI) and Analytics: Accelerating Africa’s Hydrocarbon Sector Development"
-    excerpt: "With Africa pursuing the exploitation of its hydrocarbon reserves to address growing energy poverty and fuel industrialization, artificial intelligence (AI) and analytics technologies present a massive opportunity for the continent to fast-track the development of oil and gas resources."
-    publishedDateTime: 2022-08-15T14:14:00Z
-    webUrl: "https://www.zawya.com/en/press-release/africa-press-releases/artificial-intelligence-ai-and-analytics-accelerating-africas-hydrocarbon-sector-development-ardjfhnr"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 39
-    images:
-      - url: "https://www.africa-newsroom.com/files/thumb/c3f09ec59139316/600/418"
-        width: 600
-        height: 401
-        isCached: true
   - title: "Council Post: A practical guide to building AI & Analytics maturity"
     excerpt: "AI and analytics maturity warrants a centralised knowledge group or team that oversees conceptualization and implementation of  organisation-wide analytics and AI projects."
     publishedDateTime: 2022-08-18T09:28:00Z

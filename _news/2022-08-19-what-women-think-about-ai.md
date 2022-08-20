@@ -41,31 +41,6 @@ related:
         width: 1000
         height: 540
         isCached: true
-  - title: "The tip of the AI-ceberg: How finance firms can unlock greater value from artificial intelligence"
-    excerpt: "Finance organisations are increasingly turning to artificial intelligence in pursuit of competitive advantage. However, although many firms are achieving successful results from AI projects, scaling up enterprise-wide often remains elusive."
-    publishedDateTime: 2022-08-15T14:01:00Z
-    webUrl: "https://www.globalbankingandfinance.com/the-tip-of-the-ai-ceberg-how-finance-firms-can-unlock-greater-value-from-artificial-intelligence/"
-    ampWebUrl: "https://www.globalbankingandfinance.com/the-tip-of-the-ai-ceberg-how-finance-firms-can-unlock-greater-value-from-artificial-intelligence/"
-    cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/the-tip-of-the-ai-ceberg-how-finance-firms-can-unlock-greater-value-from-artificial-intelligence/"
-    type: article
-    provider:
-      name: List of Banks in Belarus
-      domain: globalbankingandfinance.com
-    quality: 76
-    images:
-      - url: "https://www.globalbankingandfinance.com/wp-content/uploads/2022/08/iStock-691642344.jpg"
-        width: 750
-        height: 451
-        isCached: true
-  - title: "The Best Free AI Art Generators, Ranked"
-    excerpt: "Even the worst AI image generators and their strange obsessions with certain wardrobes have a strange—almost disturbing—fluid quality to them that makes each attempted depiction so distinct. Leaving the question of whether AI-generated pictures are legitimate “art,"
-    publishedDateTime: 2022-08-15T13:05:00Z
-    webUrl: "https://gizmodo.com/ai-art-generator-midjourney-starry-ai-1849397263"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 47
   - title: "10 AI healthcare startups with the most funding"
     excerpt: "Boston-based company DataRobot uses AI to help businesses cut costs. The company raised $700 million over all investment rounds. Delphia — A Toronto-based startup. Delphia uses AI to help analyze datasets."
     publishedDateTime: 2022-08-15T16:14:00Z
