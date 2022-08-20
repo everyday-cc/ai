@@ -2,6 +2,49 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2022-05-20-ai-in-computer-vision-market-growth-to-be-stimulated-by-brisk-technological-expansions-during-2021-2030.md",
+      "title": "AI in Computer Vision Market Growth To Be Stimulated By Brisk Technological Expansions During 2021 – 2030",
+      "excerpt": "The market study incorporates an in-depth analysis of the AI in Computer Vision Market based on the key parameters that take in the drives, sales inquiry, market extents & share. Moreover ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-growth-to-be-stimulated-by-brisk-technological-expansions-during-2021-2030-2",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-growth-to-be-stimulated-by-brisk-technological-expansions-during-2021-2030-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amarketplaceresearch.com/wp-content/uploads/2022/05/AI-in-Computer-Vision-Market-1.jpeg",
+          "width": 790,
+          "height": 466,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-20T00:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-20-10-skills-robots-cant-replace-in-the-workplace-yet.md",
       "title": "10 Skills Robots Can’t Replace In The Workplace (Yet)",
       "excerpt": "Machines have made great strides, but there are still plenty of workplace skills only humans have. Ensure your success by cultivating these top 10 skills.",
@@ -1116,58 +1159,6 @@
         "AI",
         "Machine Learning",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-sanas-leader-in-real-time-accent-translation-for-enterprises-brings-on-top-talent-from-communications-speech-and-ai-verticals.md",
-      "title": "Sanas, Leader in Real-Time Accent Translation for Enterprises, Brings on Top Talent from Communications, Speech and AI Verticals",
-      "excerpt": "In a period of tremendous growth, the team welcomes Sharath Keshava Narayana as co-founder and chief operating officer, and Marty (Massih) Sarim",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/sanas-leader-in-real-time-accent-translation-for-enterprises-brings-on-top-talent-from-communications-speech-and-ai-verticals-1031476311",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/sanas-leader-in-real-time-accent-translation-for-enterprises-brings-on-top-talent-from-communications-speech-and-ai-verticals-1031476311",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1821273/Sanas_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-19T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

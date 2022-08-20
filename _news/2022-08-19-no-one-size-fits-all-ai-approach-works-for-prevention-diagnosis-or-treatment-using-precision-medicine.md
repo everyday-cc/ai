@@ -35,7 +35,7 @@ related:
     provider:
       name: Science Daily
       domain: sciencedaily.com
-    quality: 23
+    quality: 25
   - title: "No One-Size-Fits-All Artificial Intelligence Approach Works for Prevention, Diagnosis or Treatment Using Precision Medicine"
     excerpt: "Precision medicine is one of the most trending subjects in basic and medical science today,” said Zeeshan Ahmed, an assistant professor of medicine at Rutgers Robert Wood Johnson Medical School who led the study,"
     publishedDateTime: 2022-08-18T15:06:00Z

@@ -2,6 +2,50 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-06-richard-kyte-the-real-ethical-problem-with-artificial-intelligence.md",
+      "title": "Richard Kyte: The real ethical problem with artificial intelligence",
+      "excerpt": "The second set of concerns have to do with Artificial General Intelligence (AGI).  What if robots obtain consciousness?  Should they have legal and ethical rights just as people do?     You may have heard about the Google engineer who was placed on leave after claiming that LaMDA,",
+      "sourceUrl": null,
+      "webUrl": "https://fredericksburg.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f555c304-87e7-589f-b761-002ec2454688.html",
+      "originalUrl": "https://fredericksburg.com/opinion/columnists/richard-kyte-the-real-ethical-problem-with-artificial-intelligence/article_f555c304-87e7-589f-b761-002ec2454688.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/fredericksburg.com/content/tncms/assets/v3/editorial/f/55/f555c304-87e7-589f-b761-002ec2454688/62c454ed51306.preview.jpg?crop=749%2C393%2C0%2C51&resize=749%2C393&order=crop%2Cresize",
+          "width": 749,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T09:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fredericksburg.com",
+        "domain": "fredericksburg.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-sp-robotics-maker-lab-opens-app-for-franchises-plans-to-open-100-centres.md",
       "title": "SP Robotics Maker Lab opens app for Franchises; plans to open 100+ centres",
       "excerpt": "It currently has 50 Maker Labs in 20 cities in India and is looking at franchise Investment starting from INR 5 Lakhs upto 20 Lakhs to own a Maker Lab at your locality",
@@ -1227,51 +1271,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-ais-progress-isnt-the-same-as-creating-human-intelligence-in-machines.md",
-      "title": "AI’s progress isn’t the same as creating human intelligence in machines",
-      "excerpt": "The artificial-­intelligence methods build predictive models that grow ... AI developers are also considering how to use these insights in robots that interact with the physical world. And AI is increasingly being applied to biology, chemistry, and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/",
-      "originalUrl": "https://www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/06/Upload_20220609-170819.png?w=3000",
-          "width": 3000,
-          "height": 1688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/amp/",
-      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/06/28/1054270/2022-innovators-ai-robots/amp/",
-      "publishedDateTime": "2022-06-28T08:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MIT Technology Review",
-        "domain": "technologyreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare",
-        "Machine Learning"
       ]
     }
   ],

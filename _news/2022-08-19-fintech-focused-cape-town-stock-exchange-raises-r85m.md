@@ -42,20 +42,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 28
-  - title: "Optasia among the top 25 Middle East fintech companies"
-    excerpt: "Optasia provides premium fintech services through its advanced AI led Originating and Credit Decisioning Platform. It enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets."
-    publishedDateTime: 2022-08-15T07:17:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/optasia-among-the-top-25-middle-east-fintech-companies-alf5nsxj"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 24
-    images:
-      - url: "https://static.zawya.com/version/c:ZjIxMTJhNmQtOTMxOS00:ZjgzMzdj/onstruction-aabtools-jpg.jpg?f=1%3A1&q=0.75&w=3840"
-        width: 597
-        height: 597
-        isCached: true
   - title: "Global Alternative Investment Management Launches FinTech Fund II"
     excerpt: "Appleton, Wis.-based private fund management company Global Alternative Investment Management has launched FinTech Fund II, which is available to Qualified Purchasers"
     publishedDateTime: 2022-08-18T10:10:00Z

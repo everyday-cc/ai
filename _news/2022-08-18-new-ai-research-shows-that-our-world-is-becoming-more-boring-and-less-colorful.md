@@ -38,6 +38,22 @@ related:
         width: 800
         height: 522
         isCached: true
+  - title: "Is the future of artificial intelligence internet-free? These researchers hope so"
+    excerpt: "AI learning requires a connection to a remote server to perform heavy computing calculations. These researchers say changing that could transform health care."
+    publishedDateTime: 2022-08-20T00:07:00Z
+    webUrl: "https://www.wqad.com/article/news/health/your-health/future-artificial-intelligence-no-internet-healthcare-remote/526-7a75c336-7197-4085-885d-bffa6c06a569"
+    ampWebUrl: "https://www.wqad.com/amp/article/news/health/your-health/future-artificial-intelligence-no-internet-healthcare-remote/526-7a75c336-7197-4085-885d-bffa6c06a569"
+    cdnAmpWebUrl: "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/news/health/your-health/future-artificial-intelligence-no-internet-healthcare-remote/526-7a75c336-7197-4085-885d-bffa6c06a569"
+    type: article
+    provider:
+      name: WQAD
+      domain: wqad.com
+    quality: 54
+    images:
+      - url: "https://media.tegna-media.com/assets/WQAD/images/a3dd96da-98f2-4a93-bd77-d924f31c6947/a3dd96da-98f2-4a93-bd77-d924f31c6947_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "AI May Come to the Rescue of Future Firefighters"
     excerpt: "Researchers digitally simulated more than 41,000 fires in 17 kinds of buildings, representing a majority of the U.S. residential building stock."
     publishedDateTime: 2022-08-16T03:44:00Z
@@ -52,29 +68,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "AI was supposed to be the future of health care, but it's barely the present"
-    excerpt: "A Cleveland Clinic official is quoted in a Politico article examining why artificial intelligence, so far at least, has made a limited impact in transforming health care. Plus, the Western Reserve Historical Society's library and administrative headquarters renovation project has received a national honor,"
-    publishedDateTime: 2022-08-16T18:06:00Z
-    webUrl: "https://www.crainscleveland.com/scott-suttell-blog/ai-was-supposed-be-future-health-care-its-barely-present"
-    type: article
-    provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 36
-    images:
-      - url: "https://s3-prod.crainscleveland.com/s3fs-public/styles/800x600/public/388410510_i.jpg"
-        width: 800
-        height: 600
-        isCached: true
-  - title: "How AI can shape a sustainable future"
-    excerpt: "Climate change is a reality that is already impacting the world and its populace; the time to act is now and technology can play a fundamental role tackling the challenges we and future generations face."
-    publishedDateTime: 2022-08-15T08:50:00Z
-    webUrl: "https://it-online.co.za/2022/08/15/how-ai-can-shape-a-sustainable-future/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 17
 
 secured: "nDO/7JvlEzkQvVjS9ZU6sep9sCmYblbiqsw7hWb7mV8FI1OHXODyds2HjVvSVblDew3WkVf/ew86Jr3vrerrypPVqMVhHh6nOZ9DANJe6LvdyBsgE3Sm6LvCKUhiJHrCzfQm/4mXHefsJQDLPkdRd68SchQvUZC0Z1yqxrqv6Fve4PJden60s6M4tNpDe7Rw9bhAZwhUbn0UcMQ1qXvdZ5YkGoDscqzrCgAE+q0ReVx11GK5Alf9cwR1tcFrIPzQsJzmtW+cvoZA+hkrOae7n6pq0Did7V3SL8i4NfUk3Uvl4VUBuZ9oPRzOa5QLx2/HNF1gjbGr/Qn50fQYME1adpMz3Trdvi7hb1rEVDAMTIj+4PFVq69jCeVD6D93H93Sc1igbGK8uJwar+PA0RxOmFBzgtyrDMmiQQeRlX4hUulKlPeN5MvLqBV+4JygJpiIHqmQjJvlVp2RwqOrH6cp5QGn2NznPGCfHJuv3OOxIcobSWx60YQl+Lc6sgK8DVN8HjKE/EetZ46JbqJ17ILP0Q==;Dqq4KdE9ZUNJo1gNXTkhNQ=="
 ---

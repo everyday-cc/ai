@@ -2,6 +2,51 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-08-09-is-artificial-intelligence-better-than-human-brain.md",
+      "title": "Is Artificial Intelligence better than human brain?",
+      "excerpt": "Machines are digital, but human brain is analogous and cannot be replaced by technology Digitisation, automation, high-performance robots … everyday, advertisements in media anticipate the great disruption and replacement of humans by Artificial Intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/opinion/op-eds/is-artificial-intelligence-better-than-human-brain-1.89796556",
+      "originalUrl": "https://gulfnews.com/opinion/op-eds/is-artificial-intelligence-better-than-human-brain-1.89796556",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2022/06/15/OPN-Artificial-Intelligence_18166c197a7_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/opinion/op-eds/is-artificial-intelligence-better-than-human-brain-1.89796556",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/opinion/op-eds/is-artificial-intelligence-better-than-human-brain-1.89796556",
+      "publishedDateTime": "2022-08-08T23:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-sam-weitzman-makes-pools-safer-and-easier-to-maintain-using-advanced-artificial-intelligence.md",
       "title": "Sam Weitzman Makes Pools Safer and Easier To Maintain Using Advanced Artificial Intelligence",
       "excerpt": "In this episode, we are joined by Sam Weitzman, the Founder, and CEO of Deep Innovations, which develops cutting-edge cloud-based technology, artificial intelligence, and computer vision to create various value-add applications.",
@@ -692,6 +737,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-08-baidu-wins-approval-for-chinas-first-full-driverless-taxis.md",
+      "title": "Baidu wins approval for China's first full driverless taxis",
+      "excerpt": "HONG KONG (BLOOMBERG) - Baidu has won approval to deploy the first fully autonomous self-driving taxis on China's roads, giving it an edge over rivals like Pony.ai and XPeng. The tech giant has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.straitstimes.com/business/companies-markets/baidu-wins-approval-for-chinas-first-full-driverless-taxis",
+      "originalUrl": "https://www.straitstimes.com/business/companies-markets/baidu-wins-approval-for-chinas-first-full-driverless-taxis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/08/08/ac_baidutaxi_080822.jpg?VersionId=snfpdvhOXqKDlnOrur612c01gtqJ56kW",
+          "width": 860,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Straits Times",
+        "domain": "straitstimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-driverless-car-goal-by-2030-gains-momentum-amid-smart-dubai-initiatives.md",
       "title": "Driverless-car goal by 2030 gains momentum amid Smart Dubai initiatives",
       "excerpt": "For instance, we cannot directly switch to driverless cars ... Digital Economy, Artificial Intelligence and Teleworking Applications, underscored the launch of autonomous cars as one of the ...",
@@ -934,49 +1022,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-08-neural-networks-being-used-to-improve-the-performance-of-high-power-wind-turbines.md",
-      "title": "Neural networks being used to improve the performance of high-power wind turbines",
-      "excerpt": "Research at the Vitoria-Gasteiz Faculty of Engineering of the UPV/EHU has used convolutional neural networks to predict airflow characteristics in the aerodynamic profiles of high-power wind turbines,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-08-neural-networks-high-power-turbines.html",
-      "originalUrl": "https://techxplore.com/news/2022-08-neural-networks-high-power-turbines.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/neural-networks-being.jpg",
-          "width": 775,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-08-neural-networks-high-power-turbines.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-neural-networks-high-power-turbines.amp",
-      "publishedDateTime": "2022-08-08T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-08-google-sues-sonos-over-voice-control-technology.md",
       "title": "Google Sues Sonos Over Voice Control Technology",
       "excerpt": "Google is suing speaker-maker Sonos over alleged patent infringement. In two lawsuits filed in California federal court on Monday, Google alleges that Sonos' latest voice-assistant technology violates seven different patents that relate it's technology for Google Assistant.",
@@ -1128,49 +1173,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-this-robot-dog-has-an-ai-brain-and-taught-itself-to-walk-in-just-an-hour.md",
-      "title": "This Robot Dog Has an AI Brain and Taught Itself to Walk in Just an Hour",
-      "excerpt": "A further ten minutes of harassment with a stick taught it how to withstand and recover from being pushed around by its handlers.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/08/08/this-robot-dog-has-an-ai-brain-and-taught-itself-to-walk-in-just-an-hour/",
-      "originalUrl": "https://singularityhub.com/2022/08/08/this-robot-dog-has-an-ai-brain-and-taught-itself-to-walk-in-just-an-hour/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xAXvfVTgqr0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/08/08/this-robot-dog-has-an-ai-brain-and-taught-itself-to-walk-in-just-an-hour/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/08/08/this-robot-dog-has-an-ai-brain-and-taught-itself-to-walk-in-just-an-hour/?amp=1",
-      "publishedDateTime": "2022-08-08T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

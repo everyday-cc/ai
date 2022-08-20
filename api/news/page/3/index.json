@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-17-ok-google-get-me-a-soda-take-a-look-at-the-ai-giant-soda-fetching-robots.md",
+      "title": "Ok Google, Get Me A Soda! Take A Look At The AI Giant Soda-Fetching Robots",
+      "excerpt": "Speaking orders are naturally understood by robots, who consider their options in light of their capabilities and make little plans to carry out the request.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/36870/ok-google-get-me-a-soda-take-a-look-at-the-ai-giant-soda-fetching-robots",
+      "originalUrl": "https://in.mashable.com/tech/36870/ok-google-get-me-a-soda-take-a-look-at-the-ai-giant-soda-fetching-robots",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/cb8857d3-f1ac-4a86-a6e7-c49f1fb29ef2_drtz.620.jpg",
+          "width": 619,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/36870/ok-google-get-me-a-soda-take-a-look-at-the-ai-giant-soda-fetching-robots?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/36870/ok-google-get-me-a-soda-take-a-look-at-the-ai-giant-soda-fetching-robots?amp=1",
+      "publishedDateTime": "2022-08-17T03:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-17-fox-news-cuts-liz-cheney-speech-before-these-jan-6-fbi-raid-remarks.md",
       "title": "Fox News Cuts Liz Cheney Speech Before These Jan. 6 FBI Raid Remarks",
       "excerpt": "Towards the end of Cheney's speech, she warned against believing Trump's \"insidious lies\" about the recent FBI raid on his Mar-a-Lago home.",
@@ -687,7 +730,7 @@
       "originalUrl": "https://www.bloomberg.com/professional/blog/5-ways-ai-is-shaping-the-future-of-investment-research-2/?tactic-page=597225",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -1176,49 +1219,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again.md",
-      "title": "Delhi Police’s facial recognition tech at 80% accuracy, stokes privacy concerns again!",
-      "excerpt": "The accuracy rates of facial-recognition software can go as high as 99.97% in ideal conditions. In 2019, Delhi Police had reported accuracy levels of 2%. While 80% may seem like a drastic improvement,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/articleshow/93587861.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/articleshow/93587861.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-211252,msid-93588009/delhi-police-personnel.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/amp_articleshow/93587861.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/amp_articleshow/93587861.cms",
-      "publishedDateTime": "2022-08-16T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

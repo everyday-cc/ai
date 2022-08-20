@@ -2,6 +2,40 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2022-06-24-westworld-ep-teases-new-worlds-ed-harris-secrets-in-season-4.md",
+      "title": "‘Westworld’ EP Teases New ‘Worlds’ & Ed Harris’ Secrets in Season 4",
+      "excerpt": "Some things are very, very, very different. Some things have stayed the same,' says executive producer Lisa Joy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.the-messenger.com/lifestyles/entertainment/article_56b03c3f-4eaa-57ba-8f79-fdd8a928af56.html",
+      "originalUrl": "https://www.the-messenger.com/lifestyles/entertainment/article_56b03c3f-4eaa-57ba-8f79-fdd8a928af56.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Messenger",
+        "domain": "the-messenger.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-24-cruises-driverless-autonomous-cars-start-giving-rides-to-paying-passengers.md",
       "title": "Cruise’s driverless autonomous cars start giving rides to paying passengers",
       "excerpt": "The milestone comes after Cruise received official approval from the California Public Utilities Commission in early June to operate driverless in a commercial capacity. Initially, Cruise’s ...",
@@ -1069,43 +1103,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-10-smart-artificial-intelligence-ai-stocks-to-buy.md",
-      "title": "10 Smart Artificial Intelligence (AI) Stocks to Buy",
-      "excerpt": "Artificial intelligence (AI), for all of its futuristic elements, is not a new category – not by a long shot. The roots of the technology go all the way back to the late 1950s, when computers started to become much more powerful.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy",
-      "originalUrl": "https://www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy?amp",
-      "publishedDateTime": "2022-06-23T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI Hardware",
-        "Natural Language Processing",
-        "AI in Healthcare"
       ]
     }
   ],

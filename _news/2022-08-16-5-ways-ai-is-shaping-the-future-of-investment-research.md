@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/professional/blog/5-ways-ai-is-shaping-t
 webUrl: "https://www.bloomberg.com/professional/blog/5-ways-ai-is-shaping-the-future-of-investment-research-2/?tactic-page=597225"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Is the future of artificial intelligence internet-free? These researchers hope so"
+    excerpt: "AI learning requires a connection to a remote server to perform heavy computing calculations. These researchers say changing that could transform health care."
+    publishedDateTime: 2022-08-20T00:07:00Z
+    webUrl: "https://www.wqad.com/article/news/health/your-health/future-artificial-intelligence-no-internet-healthcare-remote/526-7a75c336-7197-4085-885d-bffa6c06a569"
+    ampWebUrl: "https://www.wqad.com/amp/article/news/health/your-health/future-artificial-intelligence-no-internet-healthcare-remote/526-7a75c336-7197-4085-885d-bffa6c06a569"
+    cdnAmpWebUrl: "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/news/health/your-health/future-artificial-intelligence-no-internet-healthcare-remote/526-7a75c336-7197-4085-885d-bffa6c06a569"
+    type: article
+    provider:
+      name: WQAD
+      domain: wqad.com
+    quality: 54
+    images:
+      - url: "https://media.tegna-media.com/assets/WQAD/images/a3dd96da-98f2-4a93-bd77-d924f31c6947/a3dd96da-98f2-4a93-bd77-d924f31c6947_1140x641.jpg"
+        width: 1140
+        height: 641
+        isCached: true
   - title: "AI May Come to the Rescue of Future Firefighters"
     excerpt: "Researchers digitally simulated more than 41,000 fires in 17 kinds of buildings, representing a majority of the U.S. residential building stock."
     publishedDateTime: 2022-08-16T03:44:00Z
@@ -42,20 +58,6 @@ related:
       - url: "https://www.hstoday.us/wp-content/uploads/2022/08/Flashover.png"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "AI was supposed to be the future of health care, but it's barely the present"
-    excerpt: "A Cleveland Clinic official is quoted in a Politico article examining why artificial intelligence, so far at least, has made a limited impact in transforming health care. Plus, the Western Reserve Historical Society's library and administrative headquarters renovation project has received a national honor,"
-    publishedDateTime: 2022-08-16T18:06:00Z
-    webUrl: "https://www.crainscleveland.com/scott-suttell-blog/ai-was-supposed-be-future-health-care-its-barely-present"
-    type: article
-    provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 36
-    images:
-      - url: "https://s3-prod.crainscleveland.com/s3fs-public/styles/800x600/public/388410510_i.jpg"
-        width: 800
-        height: 600
         isCached: true
   - title: "New AI Research Shows That Our World Is Becoming More Boring and Less Colorful"
     excerpt: "As it turns out, our world - the items and objects in it - are starting to look like the end scene of Trolls movie: gray-toned, colorless, flat, all the same. Where have all the colors gone? According to recent AI research,"
@@ -71,15 +73,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "How AI can shape a sustainable future"
-    excerpt: "Climate change is a reality that is already impacting the world and its populace; the time to act is now and technology can play a fundamental role tackling the challenges we and future generations face."
-    publishedDateTime: 2022-08-15T08:50:00Z
-    webUrl: "https://it-online.co.za/2022/08/15/how-ai-can-shape-a-sustainable-future/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 17
 
 secured: "T02hzMFkz3KBwo3ow43ulq35cvvNss9Boo8FUEEhA+13lRJAXUretBZKNDM+e1F1MwhwB4xnWR5PBLRT+d+RyFpKD1YK3BDKfWDpcdWozA5zfxAPDvXx0Z8xW8SBSt2sFBNFEerhldWZcizHYiTCY/W9npipbqdgZEyOf4T+0alTGdHyCLQ8AauI8aQ4FS8s1ZdH5dFY5d2o5zVfLzSgCnJ/LSc/O9DG13/gLKcUadu8eZqpoLHv+KCmHjDI5oJPFkXeF5ximKyClgfp91jtb+SdDeh0icpg+O0xQawOzD5aV5BxsVp+iR/rWPjVZSWd1d6mmsVtqnr5OocKymSXcZtNW51GEnjzcZ4mn05VbyYjRFR4s+dDVUgUX4ml+oxlI/sA3B8r0xuRgIPcEcr91kpTDQFq2OhJgqCYuB/P9UgzOky7m2fAhTgT+3Oacf5c+ve5uqBSBB9fWve1NcTlPFAFgT27phpfSPMAxnS2irJ1FC/XLkyLS4ofwQWT88AmKm+x1/Ra6tmTGm0f8rUeSQ==;x8pFnYfbitwCVcnVqLX0dA=="
 ---

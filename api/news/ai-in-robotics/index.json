@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-19-robotics-and-automation-are-the-future-of-healthcare.md",
+      "title": "Robotics and automation are the future of healthcare",
+      "excerpt": "Advanced technologies, such as AI-guided robotics and automation, offer a potential solution to the provider shortage by freeing healthcare professionals from repetitive and time-consuming tasks and allow clinicians to focus on tasks that require a specialized touch.",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2022/08/robotics-and-automation-are-the-future-of-healthcare/",
+      "originalUrl": "https://medcitynews.com/2022/08/robotics-and-automation-are-the-future-of-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2020/12/GettyImages-1158546914.jpg",
+          "width": 703,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-can-we-replicate-humanness-in-a-robots-behavior.md",
       "title": "Can We Replicate Humanness In A Robot’s Behavior?",
       "excerpt": "Researchers at Istituto Italiano di Tecnologia are looking at why its possible to create humanness in robotic behavior.",
@@ -1399,50 +1443,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-u-of-a-integrating-artificial-intelligence-into-exoskeleton-technology.md",
-      "title": "U of A integrating artificial intelligence into exoskeleton technology",
-      "excerpt": "A group of University of Alberta researchers are trying to redefine medical assistance for those with mobility issues by combing artificial intelligence with exoskeleton technology.",
-      "sourceUrl": null,
-      "webUrl": "https://edmonton.ctvnews.ca/u-of-a-integrating-artificial-intelligence-into-exoskeleton-technology-1.6019787",
-      "originalUrl": "https://edmonton.ctvnews.ca/u-of-a-integrating-artificial-intelligence-into-exoskeleton-technology-1.6019787",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/videos/axis/2022/8/8/2498165/_jcr_content/renditions/videothumbnail.1660054959435.jpg",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/edmonton/2022/8/9/1_6019787.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/edmonton/2022/8/9/1_6019787.amp.html",
-      "publishedDateTime": "2022-08-09T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
         "publishers": null,
         "authors": null
       },

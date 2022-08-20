@@ -73,6 +73,20 @@ related:
         width: 590
         height: 350
         isCached: true
+  - title: "Self-driving cars could be on roads across Britain by 2023 under new government plans"
+    excerpt: "Self-driving cars could be on British roads by 2023 under new plans unveiled by the government. Transport secretary Grant Shapps has said that the first cars, coaches and lorries with self-driving features could be operating on motorways next year."
+    publishedDateTime: 2022-08-20T00:38:00Z
+    webUrl: "https://www.independent.co.uk/independentpremium/uk-news/selfdriving-cars-2023-grant-shapps-motorway-b2148739.html?amp;amp"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 32
+    images:
+      - url: "https://static.independent.co.uk/2022/08/19/00/7d022aca70ddfa13f23ea7e255dbdcd3Y29udGVudHNlYXJjaGFwaSwxNjYwOTE2NTcx-2.68208156.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 770
+        isCached: true
 
 secured: "3tYQ6CntsxlNz7ZoDHuSVbH4DYLNyjyGzsjtBsXAACDBdT2sMSPcJh8r1KqfNQME+OWmJVUHdrp4VLblsnMXMlVN2x+CF7LwL2mW3LBsZFGu4ztM0QrWzFPSzLhXU6nppN8XflOGnqEjvOwyPJsubO5WsqiEETDMZAk0a1AMsPc1qRlBTIFJkybxSuwgHrJJpDcUAsyHnXJjb4UTE2P7lO3Q4HVXoOp6mjL8gA5XsC3oUwFqJa4JXe1iuMw39yUMcQz3qEOJsoWMS6XAocJNmaIpTBFDj/2evOFZVxKvbAGmacM3LskM3v5zQflWVCp6jlLVL6w0KgAVgR7+XwPX3ASZZXOU1yrNRsHPOQTbn6s=;YWGwy9Xw6OR+QhE5TnBaLA=="
 ---

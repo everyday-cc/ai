@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-19T00:12:00Z
 originalUrl: "https://www.sciencedaily.com/releases/2022/08/220818122424.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/08/220818122424.htm"
 type: article
-quality: 23
+quality: 25
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Healthcare
 
 related:
   - title: "No one-size-fits-all AI approach works for prevention, diagnosis or treatment using precision medicine"

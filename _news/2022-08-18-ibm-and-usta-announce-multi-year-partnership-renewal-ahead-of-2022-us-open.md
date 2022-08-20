@@ -1,29 +1,29 @@
 ---
 category: news
-title: "IBM and USTA Announce Multi-Year Partnership Renewal Ahead of 2022 US Open"
-excerpt: "ARMONK, N.Y., Aug. 18, 2022 /PRNewswire/ -- IBM (NYSE: IBM) and the United States Tennis Association (USTA) today announced a five-year renewal of their longstanding, 30-year partnership. From the launch of USOpen.org in 1995 to the introduction of the ..."
-publishedDateTime: 2022-08-18T10:02:00Z
-originalUrl: "https://stockhouse.com/news/press-releases/2022/08/18/ibm-and-usta-announce-multi-year-partnership-renewal-ahead-of-2022-us-open"
-webUrl: "https://stockhouse.com/news/press-releases/2022/08/18/ibm-and-usta-announce-multi-year-partnership-renewal-ahead-of-2022-us-open"
+title: "IBM And USTA Announce Multi-Year Partnership Renewal Ahead Of 2022 US Open'"
+excerpt: "Continue Reading Building on the popular IBM Match Insights with Watson feature — which analyzes ... into what is being analyzed by the AI models.. Win Factors is designed to provide fans ..."
+publishedDateTime: 2022-08-18T11:31:00Z
+originalUrl: "https://menafn.com/1104718398/IBM-And-USTA-Announce-Multi-Year-Partnership-Renewal-Ahead-Of-2022-US-Open"
+webUrl: "https://menafn.com/1104718398/IBM-And-USTA-Announce-Multi-Year-Partnership-Renewal-Ahead-Of-2022-US-Open"
 type: article
 quality: 22
 heat: 22
 published: false
 
 provider:
-  name: Stockhouse
-  domain: stockhouse.com
+  name: MENAFN
+  domain: menafn.com
 
 topics:
   - IBM AI
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1880555/IBM_US_Open_Tennis.jpg"
+  - url: "https://menafn.com/updates/pr/2022-08/18/PN_6aa376ce-3_Image_In_Body.jpg"
     width: 400
     height: 267
     isCached: true
 
-secured: "mxEZaE2ztmAe0N0xXXFXGOZvnwbW6C1/gR9zAHZ+a7//Ej25MFip9Wr8+k5t8WqrzQFZ87sLqwt33xUiiveWsx3XhifnXEs2ofBZrkNpZn4sz7TrgPsyfz7PytXwVPpUJbWVg1x4eGyRy7LABFx3AU72yQZTcJ1OIgI5YXea/aMYrBQ5y4y6u0J4ArZgzE/jtynIOLLHIFcsYiDOxRQ82a8MoAEJmeB7lgBQneiKR6y/tOzG0sfXN74q/b9dG6+rvm91bNpFb+l652+gtRu/2zX0VaJG7CChNqFVtxqYGnwA3bpwu7V5gQ3puY6FxNwxKVsGWe0wUTqPNwadpVPa4FFf341FI0+CBFZMCSl0SFg=;iCSmNtsPaOM451NfTBcoWA=="
+secured: "QW0kooaicnsmJ2VPKGD0SZkLaXIZZ6RIMhity48v9xdmzK1C1icYN83Ep7vZegRhaBOxAYwdiZdXK2fUQXVb495r91vaf0TZnKBdfcE7BjVbMTg2nOCmPqWplcbXauYMOBaXDa48yW8hOA9e8HxaTNJGbpKjA5Cftbp6yX+SRwJ88UIAGsLh4XMguJbLv2LBuH+3b3OnZX3xOiCORzdxtyAt0iyhl6g4TtUALL9RKVWH6KHT3tqczcBEusZJRT5tRHOflK+Hn2TiVDGFZf/pJlVLsiu4OyxlvVjAqPy5QlsbkVxiYhQ6XylE3CZDhBo4i1UIXsfOjNKlOoyFnqQZ8iLbt0Vk/szSNcextLX0Xbo=;rVCKM92HpfSgq3eHrPEpnA=="
 ---
 

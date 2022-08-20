@@ -39,19 +39,21 @@ related:
         width: 800
         height: 522
         isCached: true
-  - title: "AI was supposed to be the future of health care, but it's barely the present"
-    excerpt: "A Cleveland Clinic official is quoted in a Politico article examining why artificial intelligence, so far at least, has made a limited impact in transforming health care. Plus, the Western Reserve Historical Society's library and administrative headquarters renovation project has received a national honor,"
-    publishedDateTime: 2022-08-16T18:06:00Z
-    webUrl: "https://www.crainscleveland.com/scott-suttell-blog/ai-was-supposed-be-future-health-care-its-barely-present"
+  - title: "Is the future of artificial intelligence internet-free? These researchers hope so"
+    excerpt: "AI learning requires a connection to a remote server to perform heavy computing calculations. These researchers say changing that could transform health care."
+    publishedDateTime: 2022-08-20T00:07:00Z
+    webUrl: "https://www.wqad.com/article/news/health/your-health/future-artificial-intelligence-no-internet-healthcare-remote/526-7a75c336-7197-4085-885d-bffa6c06a569"
+    ampWebUrl: "https://www.wqad.com/amp/article/news/health/your-health/future-artificial-intelligence-no-internet-healthcare-remote/526-7a75c336-7197-4085-885d-bffa6c06a569"
+    cdnAmpWebUrl: "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/news/health/your-health/future-artificial-intelligence-no-internet-healthcare-remote/526-7a75c336-7197-4085-885d-bffa6c06a569"
     type: article
     provider:
-      name: Crain's Cleveland Business
-      domain: crainscleveland.com
-    quality: 36
+      name: WQAD
+      domain: wqad.com
+    quality: 54
     images:
-      - url: "https://s3-prod.crainscleveland.com/s3fs-public/styles/800x600/public/388410510_i.jpg"
-        width: 800
-        height: 600
+      - url: "https://media.tegna-media.com/assets/WQAD/images/a3dd96da-98f2-4a93-bd77-d924f31c6947/a3dd96da-98f2-4a93-bd77-d924f31c6947_1140x641.jpg"
+        width: 1140
+        height: 641
         isCached: true
   - title: "New AI Research Shows That Our World Is Becoming More Boring and Less Colorful"
     excerpt: "As it turns out, our world - the items and objects in it - are starting to look like the end scene of Trolls movie: gray-toned, colorless, flat, all the same. Where have all the colors gone? According to recent AI research,"
@@ -67,15 +69,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "How AI can shape a sustainable future"
-    excerpt: "Climate change is a reality that is already impacting the world and its populace; the time to act is now and technology can play a fundamental role tackling the challenges we and future generations face."
-    publishedDateTime: 2022-08-15T08:50:00Z
-    webUrl: "https://it-online.co.za/2022/08/15/how-ai-can-shape-a-sustainable-future/"
-    type: article
-    provider:
-      name: IT-Online
-      domain: it-online.co.za
-    quality: 17
 
 secured: "Byyc/ocvsxDro52T32NDomHm4m/QXUOoiqYuYOktAhquU6EnhxiGPbpmwo/ALJqo8uE3HC545SQ1KRly46hF/cy+hachDxSFT7RLbkyLqvghICamW3oWXa2B+g4ZJNkE3O70v4q0KLiXFIWA5jsJnJzaVc92cxpQyvo07ImmOIJMF5BDapOO7UrEeJ1DqWQutHg586FIeXrCXvLJQJf8JRIwWfrw0rSUQuEwe1JRJrS8f2RxHuLRXHfpoQ1wWv01WSNtgSt7HkBU/p0nsgFheF9Yp+4u7MERIqdev58/oyXic0y80hzH/oHK5hwH1VlTVPCzqRksDeNbfP+Npi7qh6l2Id04DF+P+s9GGxyBc6Y=;6I+Ma5w4h7r5BhsyPh0NHw=="
 ---

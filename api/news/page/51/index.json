@@ -2,6 +2,57 @@
   "page": 51,
   "value": [
     {
+      "path": "_news/2022-07-07-klang-games-raises-41m-to-build-seed-virtual-world-with-ai-beings.md",
+      "title": "Klang Games raises $41M to build Seed virtual world with AI beings",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! Klang Games has raised $41 million in funding to develop Seed,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/06/klang-games-raises-41m-to-build-seed-virtual-world-with-ai-beings/",
+      "originalUrl": "https://venturebeat.com/2022/07/06/klang-games-raises-41m-to-build-seed-virtual-world-with-ai-beings/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/seed.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/06/klang-games-raises-41m-to-build-seed-virtual-world-with-ai-beings/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/06/klang-games-raises-41m-to-build-seed-virtual-world-with-ai-beings/amp/",
+      "publishedDateTime": "2022-07-06T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-precision-accuracy-scale-and-experience-all-matter-with-ai.md",
       "title": "Precision, Accuracy, Scale – And Experience – All Matter With AI",
       "excerpt": "When it comes to building any platform, the hardware is the easiest part and, for many of us, the fun part. But more than anything else, particularly at",
@@ -1115,50 +1166,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-expanding-artistic-frontiers-in-artificial-intelligence.md",
-      "title": "Expanding artistic frontiers in artificial intelligence",
-      "excerpt": "Dr. Mohammed Elhoseiny, assistant professor of computer science at KAUST, has carved a career out of teaching machines the art of creating art. After finishing his doctoral degree at Rutgers University in 2016,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.html",
-      "originalUrl": "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/expanding-artistic-fro.jpg",
-          "width": 711,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-artistic-frontiers-artificial-intelligence.amp",
-      "publishedDateTime": "2022-07-05T12:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4534432-exscientia-using-ai-power
 webUrl: "https://seekingalpha.com/article/4534432-exscientia-using-ai-power-drug-development"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Can AI remedy the growing pains of digital biomarker development?"
-    excerpt: "AI implementation could be a useful tool to analyse generated data. Yet, digital biomarker regulatory approval hurdles are in sight."
-    publishedDateTime: 2022-08-15T08:02:00Z
-    webUrl: "https://www.clinicaltrialsarena.com/analysis/ai-and-digital-biomarker-development/"
-    type: article
-    provider:
-      name: Clinical Trials Arena
-      domain: clinicaltrialsarena.com
-    quality: 37
-    images:
-      - url: "https://www.clinicaltrialsarena.com/wp-content/uploads/sites/22/2022/08/Shutterstock_2186368835-1038x778.jpg"
-        width: 1038
-        height: 778
-        isCached: true
   - title: "Where Mayo Clinic is exploring clinical AI development"
     excerpt: "Mayo Clinic created a hub for digital transformation that uses data, analytics, machine learning and AI to help improve patient health and deliver monitoring, diagnosis and treatment recommendations through digital channels to patients."
     publishedDateTime: 2022-08-15T20:50:00Z

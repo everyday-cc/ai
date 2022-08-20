@@ -33,20 +33,6 @@ related:
         width: 1800
         height: 1010
         isCached: true
-  - title: "Optasia among the top 25 Middle East fintech companies"
-    excerpt: "Optasia provides premium fintech services through its advanced AI led Originating and Credit Decisioning Platform. It enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets."
-    publishedDateTime: 2022-08-15T07:17:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/optasia-among-the-top-25-middle-east-fintech-companies-alf5nsxj"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 24
-    images:
-      - url: "https://static.zawya.com/version/c:ZjIxMTJhNmQtOTMxOS00:ZjgzMzdj/onstruction-aabtools-jpg.jpg?f=1%3A1&q=0.75&w=3840"
-        width: 597
-        height: 597
-        isCached: true
   - title: "Fintech-focused Cape Town Stock Exchange raises R85m"
     excerpt: "The oversubscribed round was led by Imvelo Ventures, with participation from Lebashe, Pallidus, Shaolin and Gary Stroebel."
     publishedDateTime: 2022-08-19T13:45:00Z

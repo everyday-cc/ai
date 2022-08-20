@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-08-08-this-robot-dog-has-an-ai-brain-and-taught-itself-to-walk-in-just-an-hour.md",
+      "title": "This Robot Dog Has an AI Brain and Taught Itself to Walk in Just an Hour",
+      "excerpt": "A further ten minutes of harassment with a stick taught it how to withstand and recover from being pushed around by its handlers.",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/08/08/this-robot-dog-has-an-ai-brain-and-taught-itself-to-walk-in-just-an-hour/",
+      "originalUrl": "https://singularityhub.com/2022/08/08/this-robot-dog-has-an-ai-brain-and-taught-itself-to-walk-in-just-an-hour/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/xAXvfVTgqr0/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/08/08/this-robot-dog-has-an-ai-brain-and-taught-itself-to-walk-in-just-an-hour/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/08/08/this-robot-dog-has-an-ai-brain-and-taught-itself-to-walk-in-just-an-hour/?amp=1",
+      "publishedDateTime": "2022-08-08T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-this-skin-like-computing-chip-uses-ai-to-monitor-health-data.md",
       "title": "This skin-like computing chip uses AI to monitor health data",
       "excerpt": "Researchers at the University of Chicago are developing a wearable chip that could monitor heart data and detect diseases.",
@@ -355,49 +398,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-08-baidu-wins-approval-for-chinas-first-full-driverless-taxis.md",
-      "title": "Baidu wins approval for China’s first full driverless taxis",
-      "excerpt": "In the US, Cruise LLC in June won a license to charge for fully driverless rides in selected ... is transitioning to artificial intelligence and self-driving cars after its core advertising ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/08/08/baidu-wins-approval-for-chinas-first-full-driverless-taxis",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/08/08/baidu-wins-approval-for-chinas-first-full-driverless-taxis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/08/08/1689064.jpg",
-          "width": 1240,
-          "height": 827,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T21:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-08-from-ai-to-voice-search-how-new-age-innovations-are-defining-the-future-of-digital-marketing.md",
       "title": "From AI to voice search, how new-age innovations are defining the future of digital marketing",
       "excerpt": "The advent of 4G, introduction of smartphones and an increased internet penetration heralded the early signs of transition in the Indian retail ecosystem. But, even as technology changed the buying behavior of the customers,",
@@ -442,28 +442,37 @@
     },
     {
       "path": "_news/2022-08-08-baidu-bags-chinas-first-fully-driverless-robotaxi-licenses.md",
-      "title": "Baidu Bags China's First Fully Driverless Robotaxi Licenses",
+      "title": "Baidu bags China's first fully driverless robotaxi licenses",
       "excerpt": "Baidu said they marked a \"turning point\" in ... with milestone-setting autonomous driving policies. In January, self-driving company Cruise received a permit from the California Public Utilities ...",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2022-08-07/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-08-07/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses",
+      "webUrl": "https://www.reuters.com/business/autos-transportation/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses-2022-08-08/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/baidu-bags-chinas-first-fully-driverless-robotaxi-licenses-2022-08-08/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/zIN2kKfHusrZW_7AHPlMyns89V8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/MZEKA5MRUNPMPP67CMSX5Q7VTQ.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T19:45:00-07:00",
+      "publishedDateTime": "2022-08-07T19:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -655,6 +664,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-neural-networks-being-used-to-improve-the-performance-of-high-power-wind-turbines.md",
+      "title": "Neural networks being used to improve the performance of high-power wind turbines",
+      "excerpt": "Gasteiz Faculty of Engineering of the UPV/EHU has used convolutional neural networks to predict airflow characteristics in the aerodynamic profiles of high-power wind turbines, and has shown that flow control devices can be studied using these neural networks,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/961192",
+      "originalUrl": "https://www.eurekalert.org/news-releases/961192",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/d00d8c91-2d7e-4e6f-8ba4-dfa8de9f2357/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 452,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1078,49 +1130,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-07-metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical.md",
-      "title": "Meta’s New AI Bot Says “Mark Zuckerberg’s Practices Are Not Always Ethical”",
-      "excerpt": "Meta’s new AI bot said that chief Mark Zuckerberg’s “practices are not always ethical”. Furthermore, it also said that the founder of Facebook can be “creepy and controlling”. BlenderBot 3, a chatbot which is powered by artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical",
-      "originalUrl": "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/image-from-ios-2022-08-07t154118285_4quz.620.jpg",
-          "width": 619,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical?amp=1",
-      "publishedDateTime": "2022-08-07T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

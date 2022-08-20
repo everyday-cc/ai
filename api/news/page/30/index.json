@@ -2,6 +2,49 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2022-07-24-digital-transformation-up-aws-institute-train-sa-public-sector.md",
+      "title": "Digital Transformation: UP, AWS Institute Train SA Public Sector",
+      "excerpt": "In a bid to accelerate digital transformation in South Africa’s public sector, the University of Pretoria (UP) and the Amazon Web Services (AWS) Institute teamed up for the first time to host an executive education programme,",
+      "sourceUrl": null,
+      "webUrl": "https://techfinancials.co.za/2022/07/24/digital-transformation-up-aws-institute-train-sa-public-sector/",
+      "originalUrl": "https://techfinancials.co.za/2022/07/24/digital-transformation-up-aws-institute-train-sa-public-sector/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techfinancials.co.za/wp-content/uploads/2022/07/AWS-event-740x431-1.jpg",
+          "width": 740,
+          "height": 431,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techfinancials.co.za/2022/07/24/digital-transformation-up-aws-institute-train-sa-public-sector/?amp",
+      "cdnAmpWebUrl": "https://techfinancials-co-za.cdn.ampproject.org/c/s/techfinancials.co.za/2022/07/24/digital-transformation-up-aws-institute-train-sa-public-sector/?amp",
+      "publishedDateTime": "2022-07-24T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techfinancials",
+        "domain": "techfinancials.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-24-nz-fry-up-internal-affairs-renews-deal-with-aws-25b-in-iot-spending.md",
       "title": "NZ Fry Up: Internal Affairs renews deal with AWS; $25B in IoT spending",
       "excerpt": "NZ Internal Affairs signs all-of-government cloud deal with AWS. The New Zealand Department of Internal Affairs has signed an all-of-government agreement with Amazon Web Services",
@@ -1070,58 +1113,6 @@
         "name": "TMCnet",
         "domain": "tmcnet.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-tech-giants-new-robotaxi-with-removable-steering-wheel-not-legal-yet-in-china.md",
-      "title": "Tech giant's new robotaxi with removable steering wheel not legal yet in China",
-      "excerpt": "Chinese tech giant Baidu revealed its plan to roll out Apollo RT6, an autonomous self-driving car with a detachable steering wheel, even though Chinese authorities haven't approved the concept yet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/videos/business/2022/07/21/baidu-apollo-rt6-robotaxi-without-steer-wheel-orig-ht.cnn-business",
-      "originalUrl": "https://www.cnn.com/videos/business/2022/07/21/baidu-apollo-rt6-robotaxi-without-steer-wheel-orig-ht.cnn-business",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220721145214-baidu-apollo-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2022/07/21/baidu-apollo-rt6-robotaxi-without-steer-wheel-orig-ht.cnn-business",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/07/21/baidu-apollo-rt6-robotaxi-without-steer-wheel-orig-ht.cnn-business",
-      "publishedDateTime": "2022-07-22T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
