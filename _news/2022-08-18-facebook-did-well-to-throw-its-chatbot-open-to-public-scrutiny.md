@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Anti-Semitic robots? Meet Meta’s new chatbot, and some serious issues surrounding it"
-    excerpt: "JNS tested the chatbot and received controversial, incorrect, contradictory and often incomprehensible answers from the bot.The post Anti-Semitic robots? Meet Meta’s new chatbot, and some serious issu"
-    publishedDateTime: 2022-08-15T19:34:00Z
-    webUrl: "https://www.clevelandjewishnews.com/jns/anti-semitic-robots-meet-meta-s-new-chatbot-and-some-serious-issues-surrounding-it/article_4ddf10cb-5ba1-528d-9f35-c06a65636eec.html"
-    type: article
-    provider:
-      name: Cleveland Jewish News
-      domain: clevelandjewishnews.com
-    quality: 32
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/clevelandjewishnews.com/content/tncms/custom/image/7278b38c-b303-11e5-a1a2-a31281943715.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Kore.ai announces pay-as-you-go pricing for low-code AI chatbot development"
     excerpt: "Startup Kore.AI Inc. said today it’s making its “low code” conversational artificial intelligence tools available on a pay-as-you-go basis, expanding their availability to smaller businesses. Backed by Nvidia Corp."
     publishedDateTime: 2022-08-16T12:00:00Z

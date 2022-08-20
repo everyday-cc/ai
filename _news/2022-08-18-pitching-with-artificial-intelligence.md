@@ -40,22 +40,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Fighting bias in AI starts with the data"
-    excerpt: "A majority of IT executives say data accuracy is critical to their use of artificial intelligence. But only 6% reported achieving full data accuracy."
-    publishedDateTime: 2022-08-15T19:25:00Z
-    webUrl: "https://www.zdnet.com/article/fighting-bias-in-ai-starts-with-the-data/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/fighting-bias-in-ai-starts-with-the-data/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/fighting-bias-in-ai-starts-with-the-data/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 89
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/4a8b0290f235514269412b222a86a7ef30c43b42/2021/11/03/496b64e1-63e8-4242-a385-095add38f1cb/ai.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 802
-        isCached: true
   - title: "How is artificial intelligence changing email marketing?"
     excerpt: "It is safe to say that Email has unquestionably changed the way we communicate. Email marketing has made it easier for marketers to reach out to potential customers on a large scale. We now pay attention to pre-header content,"
     publishedDateTime: 2022-08-16T08:10:00Z
@@ -71,22 +55,6 @@ related:
       - url: "https://images.mid-day.com/images/images/2022/aug/Shweta-Chaudhary_d.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "In human-centered AI, UX and software roles are evolving"
-    excerpt: "Leaky abstractions' are transforming software design and programming and leading to better, human-focused technology."
-    publishedDateTime: 2022-08-15T20:07:00Z
-    webUrl: "https://venturebeat.com/ai/in-human-centered-ai-ux-and-software-roles-are-evolving/"
-    ampWebUrl: "https://venturebeat.com/ai/in-human-centered-ai-ux-and-software-roles-are-evolving/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/in-human-centered-ai-ux-and-software-roles-are-evolving/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 87
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/entrepreneurship.jpg?w=1200&strip=all"
-        width: 1200
-        height: 623
         isCached: true
   - title: "How AI could transform financial services in emerging markets"
     excerpt: "AI can allow financial services providers to make use of alternative data sources to assess creditworthiness. This could prove transformative."

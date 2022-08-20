@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-19T07:00:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-19-csa-research-ranks-pangeanic-24th-on-its-list-of-fastest-growing-companies-in-the-industry"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-19-csa-research-ranks-pangeanic-24th-on-its-list-of-fastest-growing-companies-in-the-industry"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Daily Herald

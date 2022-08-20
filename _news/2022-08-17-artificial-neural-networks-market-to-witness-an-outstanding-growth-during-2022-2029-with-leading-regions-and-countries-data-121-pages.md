@@ -52,17 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-  - title: "Deep Learning Market Size Will Achieve USD 415..."
-    excerpt: "TOKYO, Aug. 16, 2022 (GLOBE NEWSWIRE) -- The Global Deep Learning Market is expected to grow at a CAGR of 51.1% from forecast period 2022 to 2030 and expected to reach the value of around USD 415 ..."
-    publishedDateTime: 2022-08-16T14:48:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/g28518352/deep-learning-market-size-will-achieve-usd-415-billion-by-2030-growing-at-51-1-cagr-fueled-by-the-"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28518352"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28518352"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "Artificial Intelligence in Automotive Market Overview by Recent Opportunities, Growth Size, Regional Analysis and Forecasts to 2025"
     excerpt: "Global Artificial Intelligence in Automotive Market Report is an In-Depth Analysis of the Latest Developments, Market"
     publishedDateTime: 2022-08-17T12:36:00Z
@@ -119,6 +108,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Genomics Market Projections and Regional Outlook, Set for Rapid Growth and Trend by 2022-2030"
+    excerpt: "The global artificial intelligence market size in genomics is expected to grow from 471 million USD to 18,213 million USD from 2021 to 2030 with a compound annual growth rate (CAGR) of 50.2%.\\ Download Free Sample of This Strategic Report :- A release on June 8th,"
+    publishedDateTime: 2022-08-17T13:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-genomics-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-2030-2022-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
   - title: "Voice Recognition Biometrics Market to Witness an Outstanding Growth during 2022-2029 with Leading Regions and Countries Data | 124 Pages"
     excerpt: "In the forecast period of 2022-2029, the global “Voice Recognition Biometrics Market\" is expected to grow at a steady"
     publishedDateTime: 2022-08-17T05:18:00Z

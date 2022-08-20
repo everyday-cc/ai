@@ -43,50 +43,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "UK pushes back self-driving cars, unlocks funding for more research"
-    excerpt: "The Department for Transport said it wants new legislation to allow for a wide rollout of self-driving vehicles by 2025, with £34mln"
-    publishedDateTime: 2022-08-19T11:03:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/990567/uk-pushes-back-self-driving-cars-unlocks-funding-for-more-research-990567.html"
-    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/990567"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/990567"
+  - title: "Self-driving cars: UK motorways change sparks AA warning amid new government plans"
+    excerpt: "The Government has unveiled new plans which mean self-driving vehicles could be 'on UK roads by 2025' and they're backed by a £100 million investment to boost the rollout. Motorways could even see some cars,"
+    publishedDateTime: 2022-08-19T13:53:00Z
+    webUrl: "https://www.theboltonnews.co.uk/news/20675179.self-driving-cars-uk-motorways-change-sparks-aa-warning-amid-new-government-plans/"
     type: article
     provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 44
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA4XC8yMDIyLTA4LTE5LTEyLTAxLTMxLThjNTRmMmViODY4ZDY5MjQxMmIyYjg4NGUyMTE3Njg4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
-        width: 1200
-        height: 740
-        isCached: true
-  - title: "Self-driving cars could be on roads across Britain by 2023 under new government plans"
-    excerpt: "Self-driving cars could be on British roads by 2023 under new plans unveiled by the government. Transport secretary Grant Shapps has said that the first cars, coaches and lorries with self-driving features could be operating on motorways next year."
-    publishedDateTime: 2022-08-19T16:11:00Z
-    webUrl: "https://www.independent.co.uk/independentpremium/uk-news/selfdriving-cars-2023-grant-shapps-motorway-b2148739.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 32
-    images:
-      - url: "https://static.independent.co.uk/2022/08/19/00/7d022aca70ddfa13f23ea7e255dbdcd3Y29udGVudHNlYXJjaGFwaSwxNjYwOTE2NTcx-2.68208156.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 770
-        isCached: true
-  - title: "Self-driving cars could be on roads across Britain by 2023 under new government plans"
-    excerpt: "Self-driving cars could be on British roads by 2023 under new plans unveiled by the government. Transport secretary Grant Shapps has said that the first cars, coaches and lorries with self-driving features could be operating on motorways next year."
-    publishedDateTime: 2022-08-20T00:38:00Z
-    webUrl: "https://www.independent.co.uk/independentpremium/uk-news/selfdriving-cars-2023-grant-shapps-motorway-b2148739.html?amp;amp"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 32
-    images:
-      - url: "https://static.independent.co.uk/2022/08/19/00/7d022aca70ddfa13f23ea7e255dbdcd3Y29udGVudHNlYXJjaGFwaSwxNjYwOTE2NTcx-2.68208156.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 770
-        isCached: true
+      name: The Bolton News
+      domain: theboltonnews.co.uk
+    quality: 0
 
 secured: "7OyjmNlxf04HTAA5XQ7yu7twEIR4uMLH1OHS31/ep70xpppcW0f6rlkjlqrih1ZQmrS2DyRswBimcLOUGsItArpPcErDlvWl0QiTam83N4GqfXEjPjn5F6rGK/ERwpa4X/oGpg4nMLyPNjcDT75je2a25c9IMmq4+fMbMiIc0uUhNrnLnA6hoOeSYBFT7QBFTPtgbalzIGnN/xXYfVTTBEZasSDtdj6ofBmbuTO/URLVEQyGiIZqDDbCSK0c+ygEYdzd4vqA4ypco5StjxBv/axiplshzGVvPCxUm9vyIqQiQAp5B+DflOMP9hHLAoJ4KD7BmpTrowtseEW9/nReA94mynAxGbt3+JzxRkEszXo=;voun+ufLzoAaelrTaY0Cmg=="
 ---

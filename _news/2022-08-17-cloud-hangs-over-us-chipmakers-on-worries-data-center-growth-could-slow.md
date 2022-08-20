@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "China sees spike in AI chipmakers amid surging demand for NEVs"
-    excerpt: "With the growing market for new energy vehicles (NEVs) in China, many enterprises have stepped into the sector to produce chips urgently needed for NEVs."
-    publishedDateTime: 2022-08-15T22:55:00Z
-    webUrl: "https://news.cgtn.com/news/2022-08-15/China-sees-spike-in-AI-chipmakers-amid-surging-demand-for-NEVs-1cwhO1dU0W4/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 54
-    images:
-      - url: "https://news.cgtn.com/news/2022-08-15/China-sees-spike-in-AI-chipmakers-amid-surging-demand-for-NEVs-1cwhO1dU0W4/img/7d90964e22964de58519b712b35c4c6b/7d90964e22964de58519b712b35c4c6b-750.png"
-        width: 750
-        height: 422
-        isCached: true
   - title: "AI chipmaker helps OEMs shift from ADAS to AD"
     excerpt: "Hailo recently announced its collaboration with semiconductor supplier Renesas to deliver a more powerful and energy-efficient processing solution enabling more sophisticated ADAS and AD in motor vehicles."
     publishedDateTime: 2022-08-18T09:11:00Z

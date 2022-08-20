@@ -56,15 +56,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 0
-  - title: "The Worldwide Artificial Intelligence for Drug Discovery and Development Industry is Expected to Reach $4.8 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The Global Artificial Intelligence for Drug Discovery and Development Market is estimated to be USD 1.22 Bn in 2022 and is expected to reach USD 4.8 Bn by 2027, growing at a CAGR of 31.54%. Market dynamics are forces that impact the prices and behaviors of the stakeholders."
-    publishedDateTime: 2022-08-17T14:32:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-17-the-worldwide-artificial-intelligence-for-drug-discovery-and-development-industry-is-expected-to-reach-48-billion-by-2027-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "VyxtzgtZp75HdCa8xZOCLbEcH3oPShSeRdseLTPVOa5oWHtIOX9hTkhG1E0qn675sO6HcqRJrIZ9Q/I2G4Lm/iYFtDJ3qLOru6N5mQQB6MEFYh+sl4w1EChV1zQmKpYVw10GsiqCHln90u50oVMv/erHtw4HvtV8rL3YeACiRxgjj5byiW39181PWV6JO3EjMyug4McOZnrm2B+rH5iJprN6XRKp9q2vgDaIw+s0yL9xh81ZO+gUiWsKrO2dYcQ1xs1/Lqly8bcMezIi/gmWZJ2WuyRXj3KNzyb3fkL/okWi4T9InDdB0maCk8j3HiI8C7GsPm7dkG6jDRCUPimiD6+ZTHbJnJWewSdkPPwP/Zw=;I1DF7j0JKHGg5Wny3etXAA=="
 ---

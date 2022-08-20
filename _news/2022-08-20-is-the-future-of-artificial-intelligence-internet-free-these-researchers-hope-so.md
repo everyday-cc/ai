@@ -70,6 +70,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AI in computer vision Market Growth Drivers 2021, Industry Share, Size, Key Players Strategies, Future Investments and SWOT Analysis till 2027"
+    excerpt: "AI is the capability of machines to carry out intellectual function such as cogitation, perceiving, learning, investigative and decision taking. Factors such as thriving need for quality automation, growing demand for computer vision systems in advanced and arising applications,"
+    publishedDateTime: 2022-08-18T06:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-growth-drivers-2021-industry-share-size-key-players-strategies-future-investments-and-swot-analysis-till-2027-2022-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
 
 secured: "hdaAc6nb42eYnM9eQwlgFgtyuQEvWI6j/4w9GSTJ1gWLEHehZZVTPDBwVvfYOegZyrTKPU9t4w8ox0m06E0NPdUdDJECcc4U82qKMRUZiLpryUEOHegre1KqmsFALESJXh0OcZ9c8cqrOxyqXH5SqtwW5RTyGdvICnYRaoBf89xFsRxAeZI+1r7VG2WDqXcBSBw5Kylx9wqlXlqjBCfTiWdxWH99hu2Tky9aPceEzx2E/49cIxvq7zta1EE041qjlqN5qdSpC8MMIXVHKXoecIPrvXu8uAHO4XQj+uYIcBCLfPTYvhsADNjWXqwzae1Zo1i4soI33jAXVoRVhf+3xlVDI1y7Bmacn0qpW9xRLCA0Ti4GxtreJR8BiAEQHm4BwR5XK+M6lfEKq4P79GlWFlal+djYFVNSJWA3rRbC7LlAfu82Ba7wWR0loSgfcgoJO28XER2abkH5iSMgbhWeAJrhNDmC7u20t/vWgUojoixjOZf6rl1fNX/HkKiTSJRj1aEYDwLhoTHAZCom0Ji5fw==;Wel3rMFJ/r3TergINm++wQ=="
 ---

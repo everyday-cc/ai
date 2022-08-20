@@ -39,6 +39,15 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Artificial Intelligence Platform Market Expected to Accelerate Growth by 2028 | Google, IFlyTek, Baidu, Microsoft"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 18, 2022 (Market Insight Reports) -- The global Artificial Intelligence Platform Market research report provides an in-depth and methodical assessment of regional and ..."
+    publishedDateTime: 2022-08-18T07:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-expected-to-accelerate-growth-by-2028-google-iflytek-baidu-microsoft-2022-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
 
 secured: "vZA4Y+k5bREW3u4QfnZeJsVEOyQj8fOX1r+0kn+Y1DA93s8DdqFBgAMI901a0EY1VfyjVDWozH1qmmkaZpVmgHITSviu4urSG9AF9Gp/BqppaoRFQYjyVXY+vbam0BJ8oSgF0RX0nEmkkrJJtOxYD459Cp7l+2et9oyZTzpS+mrAu2avfmJsKCKpnBELIQLQNykBY+1G0uJ1It1mCS9Gg+1fICE3X9acKB3U1Z/A4VyuIm4Utbf8w+UT9JHjMnGQLVyIaJO770rs3vCdLk9IvsNT6S3qyJGV4jnFDfYc8nw3mWDotiEWXWe9Mxts9DQbQ6PW34h99yoLFfn0zsSV1pP3LQB6Di1S0kn9fyKe15WdYHGIK4k8GF54+wY/3PAsma6uEdU5YTcGxTCDsUouyizL+EItBHvl4DE5w3B/UP3QlW4UiYIL8U1PhffcfBU2pd2xOKG1PKdRwBfVGckZtaJHlPtU+q31qgSD3WfdFy/p7HiQCSLy+syFounx9+tA5cMz6atSPYR3tjyuqf47Ww==;RWtQ3rQd+xjG3pyHxwNIyw=="
 ---

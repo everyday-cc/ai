@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-17T16:29:00Z
 originalUrl: "https://www.livemint.com/opinion/columns/lets-aim-for-an-internet-that-s-free-of-language-barriers-11660670608643.html"
 webUrl: "https://www.livemint.com/opinion/columns/lets-aim-for-an-internet-that-s-free-of-language-barriers-11660670608643.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Mint

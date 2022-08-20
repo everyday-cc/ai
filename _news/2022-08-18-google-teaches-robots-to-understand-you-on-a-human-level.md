@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-language-skills-coax-google-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/"
 type: article
 quality: 89
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 942
         height: 600
         isCached: true
+  - title: "Google is training its robots to be more like humans"
+    excerpt: "Researchers here at Google's lab recently asked a robot to build a burger out of various plastic toy ingredients."
+    publishedDateTime: 2022-08-17T09:50:09Z
+    webUrl: "https://www.iol.co.za/business-report/companies/google-is-training-its-robots-to-be-more-like-humans-34b2808d-1bf2-45ec-be3c-b6086ba42d0d"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 34
 
 secured: "NTFEvcCdrqt2DPBG6gFL4hphlDn1BTMI9YZaDB0c8a/HTFxoToj0iqc3aAI/3/AaPse+41go41/ZMpiTqASpnVjlNXEXU2/c+985ACu8rzo/+6Ljw5B8ttnA0NX1lt2TStxF3n2N2Mdx+HS4JRKBFCm65BrPqqcObWkhMn06jz+jGUiv+tsC7+OlBPQjiz+cMf5DjaFCLbFHqAAyxjLJPjAAq/eJ6muI7iEI7rLFvKV0EapATSs+PDpugWU7zR4g65Lgv2SRqpHQPEMdP8DoixwHXmP40rh8M2WGYb2D3BLvsYKElKV0gYuFVdegzHI4qq/8x5a6YvfYtR+fFITc1AbAVHW75Kj3GgzIyBbdTh/IMDZoz/8+qEjEfoxYOOKhZHf5NXffNoSk0tns6RDHjEqVsFJ7MbPjPoElVZeK5zx7XmDxGjwcOofDonRaMoqabCxBHDmjFiKmnnC528APuBiWaM60nbYfRCNBBvDdebhZl2FIUfihdsYNlQnWnGEKxBNdQ0YAB8ERmRhUxOHp7Q==;6FhtnEdig7F/xPq4R0jpag=="
 ---

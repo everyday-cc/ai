@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/self-driving-vehicles-plann
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue/"
 type: article
 quality: 69
-heat: 209
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Britain sets out roadmap for self driving vehicle usage by 2025"
+    excerpt: "Britain said on Friday it wanted a widespread rollout of self-driving vehicles on roads by 2025, announcing plans for new laws and 100 million pounds ($119.09 million) of funding."
+    publishedDateTime: 2022-08-19T22:14:00Z
+    webUrl: "https://www.reuters.com/business/autos-transportation/britain-sets-out-roadmap-self-driving-vehicle-usage-by-2025-2022-08-19/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/-bD145K776yCk-35pfGOxAdMuxA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LAUS5LTOURJXXD3N5LFTSFEYMA.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Driverless cars: Self-driving cars on UK roads by 2025, says report"
     excerpt: "It might sound like something from science fiction, but, according to a new government report, fully self-driving vehicles could be on UK roads by 2025. Some cars, coaches and lorries with self-driving features could even be on motorways in the next year,"
     publishedDateTime: 2022-08-19T15:49:00Z
@@ -95,19 +109,63 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "The risks and rewards as UK Government unveils its plans for driverless car roll out by 2025"
-    excerpt: "Vehicles that can drive themselves on motorways could be on sale within the next year, according to newly released plans by the Department for Transport"
-    publishedDateTime: 2022-08-19T07:33:00Z
-    webUrl: "https://inews.co.uk/news/self-driving-cars-uk-roads-2025-government-plans-1802805"
+  - title: "UK pushes back self-driving cars, unlocks funding for more research"
+    excerpt: "The Department for Transport said it wants new legislation to allow for a wide rollout of self-driving vehicles by 2025, with £34mln"
+    publishedDateTime: 2022-08-19T11:03:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/990567/uk-pushes-back-self-driving-cars-unlocks-funding-for-more-research-990567.html"
+    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/990567"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/990567"
     type: article
     provider:
-      name: i
-      domain: inews.co.uk
-    quality: 28
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 44
     images:
-      - url: "https://wp.inews.co.uk/wp-content/uploads/2022/08/SEI_120003947.jpg"
-        width: 2500
-        height: 1604
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA4XC8yMDIyLTA4LTE5LTEyLTAxLTMxLThjNTRmMmViODY4ZDY5MjQxMmIyYjg4NGUyMTE3Njg4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
+        width: 1200
+        height: 740
+        isCached: true
+  - title: "Self-driving cars could be on roads across Britain by 2023 under new government plans"
+    excerpt: "Self-driving cars could be on British roads by 2023 under new plans unveiled by the government. Transport secretary Grant Shapps has said that the first cars, coaches and lorries with self-driving features could be operating on motorways next year."
+    publishedDateTime: 2022-08-19T16:11:00Z
+    webUrl: "https://www.independent.co.uk/independentpremium/uk-news/selfdriving-cars-2023-grant-shapps-motorway-b2148739.html"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 32
+    images:
+      - url: "https://static.independent.co.uk/2022/08/19/00/7d022aca70ddfa13f23ea7e255dbdcd3Y29udGVudHNlYXJjaGFwaSwxNjYwOTE2NTcx-2.68208156.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 770
+        isCached: true
+  - title: "Self-driving cars could be on roads across Britain by 2023 under new government plans"
+    excerpt: "Self-driving cars could be on British roads by 2023 under new plans unveiled by the government. Transport secretary Grant Shapps has said that the first cars, coaches and lorries with self-driving features could be operating on motorways next year."
+    publishedDateTime: 2022-08-20T00:38:00Z
+    webUrl: "https://www.independent.co.uk/independentpremium/uk-news/selfdriving-cars-2023-grant-shapps-motorway-b2148739.html?amp;amp"
+    type: article
+    provider:
+      name: The Independent
+      domain: independent.co.uk
+    quality: 32
+    images:
+      - url: "https://static.independent.co.uk/2022/08/19/00/7d022aca70ddfa13f23ea7e255dbdcd3Y29udGVudHNlYXJjaGFwaSwxNjYwOTE2NTcx-2.68208156.jpg?quality=75&width=1200&auto=webp"
+        width: 1200
+        height: 770
+        isCached: true
+  - title: "Self-driving cars could be on British roads early next year"
+    excerpt: "Self-driving cars could be on Britain’s roads as early as next year under a £100 million government plan to make autonomous vehicles safe.The Department for Transport (DfT) said it would introduce laws to allow for the introduction and that the self- driving industry could create up to 38,"
+    publishedDateTime: 2022-08-19T09:00:00Z
+    webUrl: "https://www.thetimes.co.uk/article/self-driving-cars-could-be-on-british-roads-early-next-year-0bq9tkv9v"
+    type: article
+    provider:
+      name: The Times
+      domain: thetimes.co.uk
+    quality: 24
+    images:
+      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F36f646ac-1f36-11ed-add4-d333562d46fb.jpg?crop=3696%2C2079%2C167%2C70&resize=1200"
+        width: 1200
+        height: 675
         isCached: true
   - title: "Self-driving vehicles could be on UK roads by 2025"
     excerpt: "Self-driving vehicles could be on UK roads by 2025 under new plans unveiled by the Government and backed by a £100 million investment to boost the rollout."
@@ -165,6 +223,20 @@ related:
         width: 400
         height: 300
         isCached: true
+  - title: "'Self-driving revolution': Government sets out vision for autonomous cars backed by £100m funding"
+    excerpt: "Self-driving vehicles could be on UK roads by as soon as 2025 under plans unveiled today by the Department for Transport, which is offering up £100m funding alongside changes to road safety legislation in order to support the growth of the nascent sector."
+    publishedDateTime: 2022-08-19T10:36:00Z
+    webUrl: "https://www.businessgreen.com/news/4055015/self-driving-revolution-government-sets-vision-autonomous-cars-backed-gbp100m-funding"
+    type: article
+    provider:
+      name: Business Green
+      domain: businessgreen.com
+    quality: 11
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/bd4af5c/45ec0e67-bd43-4079-a53c-2205d0e4603f/6/iStock-1343808854-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "Self-driving cars to hit UK roads by 2025 under government plans"
     excerpt: "UK Transport Secretary has announced a £100m investment to boost the rollout of autonomous vehicles on the country's roads."
     publishedDateTime: 2022-08-19T12:07:00Z
@@ -192,15 +264,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 4
-  - title: "Self-driving cars: UK motorways change sparks AA warning amid new government plans"
-    excerpt: "The Government has unveiled new plans which mean self-driving vehicles could be 'on UK roads by 2025' and they're backed by a £100 million investment to boost the rollout. Motorways could even see some cars,"
-    publishedDateTime: 2022-08-19T13:53:00Z
-    webUrl: "https://www.theboltonnews.co.uk/news/20675179.self-driving-cars-uk-motorways-change-sparks-aa-warning-amid-new-government-plans/"
-    type: article
-    provider:
-      name: The Bolton News
-      domain: theboltonnews.co.uk
-    quality: 0
   - title: "Self-driving vehicles could be on UK roads 'next year' creating thousands of jobs"
     excerpt: "The Department for Transport said the self-driving industry could create up to 38,000 jobs and be worth £42 billion."
     publishedDateTime: 2022-08-19T11:53:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-20T13:40:00Z
 originalUrl: "https://venturebeat.com/ai/death-resurrection-and-digital-immortality-in-an-ai-world/"
 webUrl: "https://venturebeat.com/ai/death-resurrection-and-digital-immortality-in-an-ai-world/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

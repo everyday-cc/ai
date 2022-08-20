@@ -7,7 +7,7 @@ originalUrl: "https://www.just-auto.com/interview/ai-chipmaker-helps-oems-shift-
 webUrl: "https://www.just-auto.com/interview/ai-chipmaker-helps-oems-shift-from-adas-to-ad/"
 type: article
 quality: 54
-heat: -1
+heat: 64
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "China sees spike in AI chipmakers amid surging demand for NEVs"
-    excerpt: "With the growing market for new energy vehicles (NEVs) in China, many enterprises have stepped into the sector to produce chips urgently needed for NEVs."
-    publishedDateTime: 2022-08-15T22:55:00Z
-    webUrl: "https://news.cgtn.com/news/2022-08-15/China-sees-spike-in-AI-chipmakers-amid-surging-demand-for-NEVs-1cwhO1dU0W4/index.html"
-    type: article
-    provider:
-      name: CGTN
-      domain: cgtn.com
-    quality: 54
-    images:
-      - url: "https://news.cgtn.com/news/2022-08-15/China-sees-spike-in-AI-chipmakers-amid-surging-demand-for-NEVs-1cwhO1dU0W4/img/7d90964e22964de58519b712b35c4c6b/7d90964e22964de58519b712b35c4c6b-750.png"
-        width: 750
-        height: 422
-        isCached: true
   - title: "Cloud Hangs Over U.S. Chipmakers On Worries Data Center Growth Could Slow"
     excerpt: "Cloud and data centers, the chip industry's strongest sector, may be its next problem: Signs are showing growth could slow in what has been a pillar during the COVID era as consumers signed up for cloud-based entertainment and companies retooled their offices."
     publishedDateTime: 2022-08-16T22:06:00Z

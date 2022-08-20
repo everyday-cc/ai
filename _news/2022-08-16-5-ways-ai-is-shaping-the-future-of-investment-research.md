@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/professional/blog/5-ways-ai-is-shaping-t
 webUrl: "https://www.bloomberg.com/professional/blog/5-ways-ai-is-shaping-the-future-of-investment-research-2/?tactic-page=597225"
 type: article
 quality: 69
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -73,6 +73,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "AI in computer vision Market Growth Drivers 2021, Industry Share, Size, Key Players Strategies, Future Investments and SWOT Analysis till 2027"
+    excerpt: "AI is the capability of machines to carry out intellectual function such as cogitation, perceiving, learning, investigative and decision taking. Factors such as thriving need for quality automation, growing demand for computer vision systems in advanced and arising applications,"
+    publishedDateTime: 2022-08-18T06:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-growth-drivers-2021-industry-share-size-key-players-strategies-future-investments-and-swot-analysis-till-2027-2022-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
 
 secured: "T02hzMFkz3KBwo3ow43ulq35cvvNss9Boo8FUEEhA+13lRJAXUretBZKNDM+e1F1MwhwB4xnWR5PBLRT+d+RyFpKD1YK3BDKfWDpcdWozA5zfxAPDvXx0Z8xW8SBSt2sFBNFEerhldWZcizHYiTCY/W9npipbqdgZEyOf4T+0alTGdHyCLQ8AauI8aQ4FS8s1ZdH5dFY5d2o5zVfLzSgCnJ/LSc/O9DG13/gLKcUadu8eZqpoLHv+KCmHjDI5oJPFkXeF5ximKyClgfp91jtb+SdDeh0icpg+O0xQawOzD5aV5BxsVp+iR/rWPjVZSWd1d6mmsVtqnr5OocKymSXcZtNW51GEnjzcZ4mn05VbyYjRFR4s+dDVUgUX4ml+oxlI/sA3B8r0xuRgIPcEcr91kpTDQFq2OhJgqCYuB/P9UgzOky7m2fAhTgT+3Oacf5c+ve5uqBSBB9fWve1NcTlPFAFgT27phpfSPMAxnS2irJ1FC/XLkyLS4ofwQWT88AmKm+x1/Ra6tmTGm0f8rUeSQ==;x8pFnYfbitwCVcnVqLX0dA=="
 ---

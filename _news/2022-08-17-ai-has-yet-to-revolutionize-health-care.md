@@ -7,7 +7,7 @@ originalUrl: "https://www.politico.com/newsletters/future-pulse/2022/08/17/healt
 webUrl: "https://www.politico.com/newsletters/future-pulse/2022/08/17/health-cares-ai-revolution-hasnt-arrived-00052204"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,33 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence was supposed to transform health care. It hasn’t."
-    excerpt: "Machine learning could improve medicine by analyzing data to improve diagnoses and target cures, but technological, bureaucratic, and regulatory obstacles have slowed progress."
-    publishedDateTime: 2022-08-15T19:55:00Z
-    webUrl: "https://www.politico.com/news/2022/08/15/artificial-intelligence-health-care-00051828"
-    ampWebUrl: "https://www.politico.com/amp/news/2022/08/15/artificial-intelligence-health-care-00051828"
-    cdnAmpWebUrl: "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2022/08/15/artificial-intelligence-health-care-00051828"
+  - title: "Talking about an AI revolution? Don’t forget the storage"
+    excerpt: "Sponsored GPUs have revolutionized AI and HPC over the last decade. But they didn’t do this on their own. The AI and HPC boom could not have happened without massive amounts of data, requiring corresponding leaps in file system and storage technology."
+    publishedDateTime: 2022-08-16T09:00:00Z
+    webUrl: "https://blocksandfiles.com/2022/08/16/open-storage-summit-nvidia/"
     type: article
     provider:
-      name: Politico
-      domain: politico.com
-    quality: 58
-    images:
-      - url: "https://www.politico.com/dims4/default/4f273a8/2147483647/strip/true/crop/5760x3840+0+0/resize/630x420!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fb9%2F7c%2F82577dfc4c5dae11d5816fe2da8f%2Fhealth-care-artificial-intelligence-78020.jpg"
-        width: 630
-        height: 420
-        isCached: true
+      name: blocksandfiles
+      domain: blocksandfiles.com
+    quality: 19
+  - title: "Talking about an AI revolution? Don't forget the storage"
+    excerpt: "The AI and HPC boom could not have happened without massive amounts of data, requiring corresponding leaps in file system and storage technology. So, what is the state of the art today? What effect will the hybrid cloud era have?"
+    publishedDateTime: 2022-08-16T18:00:00Z
+    webUrl: "https://www.theregister.com/2022/08/16/open_storage_summit_nvidia/"
+    type: article
+    provider:
+      name: theregister
+      domain: theregister.com
+    quality: 19
+  - title: "Here's how a 24-year-old first-time founder raised $63 million from top VCs in under a year to revolutionize drug discovery with AI"
+    excerpt: "Laksh Aithani founded one of biotech's hottest startups. Here's how the 24-year-old jumped from college student to CEO."
+    publishedDateTime: 2022-08-19T12:30:00Z
+    webUrl: "https://www.businessinsider.com/ceo-laksh-aithani-on-founding-a-biotech-raising-50m-at-24-2022-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 17
 
 secured: "/w+FklGayYSoEGpl9WAQk+vfXZIFUounxeMlAPL03Z1LrK+EFCoQLKp1yiXhNSPxWS05pJvouuXzSD9YepO1UG/45Y2GVnwQpYxNl9A3yuXShJVNPt+G0AiB++TLvhqTcw78jf11KPhKB2Km/Fs+gjLijPGl2XSOQFPnd4Pdm3aHtp43GuxVGI+HmUhfQDd8ligJzOutmLf7karitRvkQMMUt50WwHsXFkQjbRVSzQbwHa2W+1JttFrR7LqBIsMdNRQYonEnJPqp8KDCEOGXAl+o5nK1vOoR1dOzNQVEK+ynq6Wi4+uNLNFte7DMEeQqjlNNTYDBTnxT3kiW/EL1z95ium6ZLjJVGqeFEATLk00=;xEzwYakNNO4Y3IaDpa4QCA=="
 ---

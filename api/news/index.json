@@ -2,6 +2,108 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-20-ai-helps-woman-answer-questions-at-her-own-funeral.md",
+      "title": "AI Helps Woman Answer Questions at Her Own Funeral",
+      "excerpt": "The co-founder of StoryFile(Opens in a new window), a company that claims to \"make AI feel more human,\" reportedly demonstrated the technology's capabilities at his ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/ai-helps-woman-answer-questions-at-her-own-funeral",
+      "originalUrl": "https://www.pcmag.com/news/ai-helps-woman-answer-questions-at-her-own-funeral",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/03sPCEbNYuiIiO3UuXUDPkk-1.fit_lim.size_1200x630.v1661007899.jpg",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-20T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-20-ai-generated-art-illustrates-another-problem-with-technology.md",
+      "title": "AI-generated art illustrates another problem with technology",
+      "excerpt": "Artificial intelligence is being used to design magazine covers and provide pictures for internet newsletters. What could possibly go wrong?",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b32a5f8ce96269b61ddaa553bb598efb2ce74828/0_202_1024_614/master/1024.jpg?width=620&quality=85&auto=format&fit=max&s=8d576b69391f73fbbbda6d6d37d50756",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists",
+      "publishedDateTime": "2022-08-20T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-20-university-of-liverpool-crystal-complexity-tamed-by-machine-learning.md",
       "title": "University of Liverpool: Crystal Complexity Tamed by Machine Learning",
       "excerpt": "Researchers at the University of Liverpool, the University of Bristol, University College London (UCL), and Diamond Light Source have developed new understanding of gallium oxide by combining a machin",
@@ -286,6 +388,58 @@
       ]
     },
     {
+      "path": "_news/2022-08-20-britain-sets-out-roadmap-for-self-driving-vehicle-usage-by-2025.md",
+      "title": "Britain sets out roadmap for self driving vehicle usage by 2025",
+      "excerpt": "Britain said on Friday it wanted a widespread rollout of self-driving vehicles on roads by 2025, announcing plans for new laws and 100 million pounds ($119.09 million) of funding.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/britain-sets-out-roadmap-self-driving-vehicle-usage-by-2025-2022-08-19/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/britain-sets-out-roadmap-self-driving-vehicle-usage-by-2025-2022-08-19/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 264,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/-bD145K776yCk-35pfGOxAdMuxA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LAUS5LTOURJXXD3N5LFTSFEYMA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T15:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-20-podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi-and-more.md",
       "title": "Podcast: Tesla Full Self-Driving Beta test, VPP event, Tesla Semi, and more",
       "excerpt": "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. This week, we discussed our Tesla Full Self-Driving Beta test, Tesla’s first VPP event,",
@@ -443,7 +597,7 @@
       "originalUrl": "https://venturebeat.com/ai/3-myths-about-chatbot-design-busted/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 95,
       "tags": null,
       "images": [
         {
@@ -789,64 +943,12 @@
       ]
     },
     {
-      "path": "_news/2022-08-19-self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue.md",
-      "title": "Self-driving vehicles planned for UK roads by 2025, but public trust is an issue",
-      "excerpt": "Report warns that driverless cars will need to be 100 times safer than human drivers for the public to accept them as they do trains or airplanes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue/",
-      "originalUrl": "https://www.zdnet.com/article/self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 209,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/0841c7ba5b4b5c23ac57e7ec2fa6125277f003d8/2019/12/23/55acbfb8-8ff7-4f41-a6ec-06d145e7d05f/istock-1079995912.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 739,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue/",
-      "publishedDateTime": "2022-08-19T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-19-otterai-challenger-airgram-raises-10m-to-transcribe-and-time-your-video-calls.md",
       "title": "Otter.ai challenger Airgram raises $10M to transcribe and time your video calls",
       "excerpt": "There’re plenty of tools out there competing to help people make their video calls breezier. Some, like voice transcription service Otter.ai, have been getting a boost from the COVID-19 pandemic and pulling in handsome investments.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/19/otter-ai-challenger-airgram-raises-10m-to-transcribe-and-time-your-video-calls/",
-      "originalUrl": "https://techcrunch.com/2022/08/19/otter-ai-challenger-airgram-raises-10m-to-transcribe-and-time-your-video-calls/",
+      "webUrl": "https://techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/",
+      "originalUrl": "https://techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/",
       "featuredContent": null,
       "highlight": null,
       "heat": 100,
@@ -865,7 +967,7 @@
       "type": "article",
       "ampWebUrl": "https://techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/amp/",
       "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/amp/",
-      "publishedDateTime": "2022-08-19T03:17:00-07:00",
+      "publishedDateTime": "2022-08-19T03:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -901,7 +1003,7 @@
       "originalUrl": "https://www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -1130,110 +1232,6 @@
       "topics": [
         "AI",
         "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-experts-warn-no-easy-answer-to-how-safe-self-driving-cars-should-be.md",
-      "title": "Experts warn no easy answer to how safe self-driving cars should be",
-      "excerpt": "The Centre for Data Ethics and Innovation (CDEI) report warns that it might not be enough for self-driving cars to be safer than human drivers. It suggests the public may have much higher expectations of self-driving car safety.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-62598618?at_medium=RSS&at_campaign=KARANGA",
-      "originalUrl": "https://www.bbc.com/news/technology-62598618?at_medium=RSS&at_campaign=KARANGA",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/310D/production/_126375521_selfdrivinggettyimages-928081066.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-62598618.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62598618.amp",
-      "publishedDateTime": "2022-08-18T16:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-h20ais-prashant-natarajan-on-ai-and-computer-vision.md",
-      "title": "H20.ai’s Prashant Natarajan on AI and Computer Vision",
-      "excerpt": "I spoke with Prashant Natarajan, VP of Strategy & Products at H2O.ai, about the development and potential of the computer vision sector, including the role of deep learning technology. As you survey the computer vision market,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/cloud/ai-and-computer-vision/",
-      "originalUrl": "https://www.eweek.com/cloud/ai-and-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/08/eSPEAKS-thumbnail-4.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

@@ -69,6 +69,15 @@ related:
         width: 1440
         height: 810
         isCached: true
+  - title: "Google is training its robots to be more like humans"
+    excerpt: "Researchers here at Google's lab recently asked a robot to build a burger out of various plastic toy ingredients."
+    publishedDateTime: 2022-08-17T09:50:09Z
+    webUrl: "https://www.iol.co.za/business-report/companies/google-is-training-its-robots-to-be-more-like-humans-34b2808d-1bf2-45ec-be3c-b6086ba42d0d"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 34
 
 secured: "Z3RuhnHOH5ZwiLti5GTlX8JRfuNClrcw3py/CJquU9MWWtmIVyhlM0O8tdObL3jhN9WpQYV1B6bw2SzArVw+bk2o3WduwmxPr/iV29yGceNvokq9hbuzAPwMep+0qSNF/Qyk2dBUrn4HUasKPql7bJ2lebniUC1mOi4mhXrN8TjfHCIWw8zyWotH4KwcqVuqVCyxMAhWSIXIqSlio5s+oGDjWemebWTwv4iI6fAIPf1cMQJbnAsky29wKc8NSbi3P+ooPv9D/A5/uW6LfnmeeZLSr+dwfC85KvorrfZhTs9lmU53ow0LGNyiB2+aO+cKjtfvkrL3sjvCD65lCHqBYkjxCnJ4ouNVo05L8vZNuro=;z2yiucmUgHd6T2jgtMIlAA=="
 ---

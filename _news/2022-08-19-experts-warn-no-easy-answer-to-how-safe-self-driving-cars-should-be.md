@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-62598618.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62598618.amp"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -89,20 +89,6 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2022/04/NINTCHDBPICT000719601367.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920
         height: 1080
-        isCached: true
-  - title: "Self-driving cars could be on British roads early next year"
-    excerpt: "Self-driving cars could be on Britain’s roads as early as next year under a £100 million government plan to make autonomous vehicles safe.The Department for Transport (DfT) said it would introduce laws to allow for the introduction and that the self- driving industry could create up to 38,"
-    publishedDateTime: 2022-08-19T09:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/self-driving-cars-could-be-on-british-roads-early-next-year-0bq9tkv9v"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F36f646ac-1f36-11ed-add4-d333562d46fb.jpg?crop=3696%2C2079%2C167%2C70&resize=1200"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "KsPMSzWI1ODuCbeZgK59sxBqNVAiJVjYx7Fmj2LcMQrMe0Ub2HCPCwMJlhRVvFwpVm2j87ShV9LApV0eblRbVXQesE3t9QRxnilIqbnorhhvS8w2T/HX8vUx5wfzs0H0OXPPZn7pzYHk1Gkz1EYmfjBxiyFZGIIucMTOeCPX4aYAkbJIyaYYl6mAGxpiyVfb02DXJG8g2Jf+s5vA9N64XvP8MBeqvSw5WNjM5NsF0RnXcq+9aF6fbkP4HblYc30POVzbZCzKMuX04QAGFkZ4YVuiHFtaZOQCXB1VVG2JYbsCeZyFWm1WmYUM+ahim9llAT52ho13R7vMasZqD5baVYWVETQ1xILLEpYwlDS+iUU=;6AsfQlYH/cFOBlb0WOpU3A=="

@@ -50,20 +50,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Anti-Semitic robots? Meet Meta’s new chatbot, and some serious issues surrounding it"
-    excerpt: "JNS tested the chatbot and received controversial, incorrect, contradictory and often incomprehensible answers from the bot.The post Anti-Semitic robots? Meet Meta’s new chatbot, and some serious issu"
-    publishedDateTime: 2022-08-15T19:34:00Z
-    webUrl: "https://www.clevelandjewishnews.com/jns/anti-semitic-robots-meet-meta-s-new-chatbot-and-some-serious-issues-surrounding-it/article_4ddf10cb-5ba1-528d-9f35-c06a65636eec.html"
-    type: article
-    provider:
-      name: Cleveland Jewish News
-      domain: clevelandjewishnews.com
-    quality: 32
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/clevelandjewishnews.com/content/tncms/custom/image/7278b38c-b303-11e5-a1a2-a31281943715.jpg?resize=600%2C315"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "qCFEgBmDh0e3WWwZAezYvQyZE8hWU941FuhQzdcPH/7b6En9VszxsePzo4RJDMZEUqpVvnAi5VsUcApJLZxfxirFaZxeh51SuiYcjjMWPBrzlppvx4CByjE8/8dvL5xjsIsLhYpM9vDkGn/0mfG3thuvu1vFSvCiFGkp3glBKk3Tkmy7dErtzJ+poqCG/XP41UZ4zLvLZgpxjp5FXa4IeNzGXO5Ygh2kteaB0NY/bk2fZAQvJODJSVkmtCDoNe6ckgQISFmzhA6UaduJo7xQsq9bFnx5RL9TjKW9kPSe8b8IDSL7Yy7Co8w0MJDaFDe4oPxOskWQGHFk4SUMYPueYdtCJxsgqNiVdcjJKA8ZqKO/5wgTGD3EwuSkEwVxpBvdmIZ/NGk0oQvNkZ1LsbvszubDOesncM28r+K2KZo6nRaGi/Di2akcbGJpeMkDD37lLn+7M7bpE29QYHn94ABop8BDaNtqM6ogkCGv2E60epMNNwP/sDV+vNIegVxfqu1p44Yfk4qTyePHMveH1+vxmQ==;83HdUt+B/PLXUK26OaHxJg=="
 ---

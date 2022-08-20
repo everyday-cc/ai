@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-19T20:28:00Z
 originalUrl: "https://www.bizjournals.com/cincinnati/news/2022/08/19/integrated-health-care-strategy.html"
 webUrl: "https://www.bizjournals.com/cincinnati/news/2022/08/19/integrated-health-care-strategy.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Business Journals

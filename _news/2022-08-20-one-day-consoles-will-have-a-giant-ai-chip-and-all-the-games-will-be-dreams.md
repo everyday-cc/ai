@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-20T13:00:00Z
 originalUrl: "https://www.pcgamer.com/ai-image-generator-discord-bot-midjourney-founder-interview/"
 webUrl: "https://www.pcgamer.com/ai-image-generator-discord-bot-midjourney-founder-interview/"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: PC Gamer

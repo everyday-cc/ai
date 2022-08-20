@@ -86,20 +86,6 @@ related:
       name: Nasdaq
       domain: nasdaq.com
     quality: 54
-  - title: "Self-driving cars could be on British roads early next year"
-    excerpt: "Self-driving cars could be on Britain’s roads as early as next year under a £100 million government plan to make autonomous vehicles safe.The Department for Transport (DfT) said it would introduce laws to allow for the introduction and that the self- driving industry could create up to 38,"
-    publishedDateTime: 2022-08-19T09:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/self-driving-cars-could-be-on-british-roads-early-next-year-0bq9tkv9v"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F36f646ac-1f36-11ed-add4-d333562d46fb.jpg?crop=3696%2C2079%2C167%2C70&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "jaWst2jBk4iTagjLT0ISTOnsOyPvueqKFUyJOkbQCJyewIaCW294FBQouwmiBq81j7Sh0zzeDN2w/fGXeq+5N3YK7OZMAbGCN9aoANcFk6HoN0bfzAL/6MxgpgacDSOz2eu7cZ/YArLeqgEnGTQ924PKmw1z6wjNMnMBRKk+M6tEi7qtEIUKHA+nmlvMu+LuaSTJGyS9jTcBogZXCBcVZo8D55FiU3ZgWcEs6yLpVyL67aeGyLABxzDW5gXZxU1kO0Id9tn1o1qXvyi2Zk0VCR/imIxSLUDlrFnnr+xnFoKbDB0jr6xoq6RejnFJ8EPR2Kwjk+V6Z5OaVyEBTdLWEdzARWofn8ziroO9WNGLRHw=;qAIvIPqirTKA2qnHXJt2IA=="
 ---

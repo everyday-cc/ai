@@ -90,20 +90,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Self-driving cars could be on British roads early next year"
-    excerpt: "Self-driving cars could be on Britain’s roads as early as next year under a £100 million government plan to make autonomous vehicles safe.The Department for Transport (DfT) said it would introduce laws to allow for the introduction and that the self- driving industry could create up to 38,"
-    publishedDateTime: 2022-08-19T09:00:00Z
-    webUrl: "https://www.thetimes.co.uk/article/self-driving-cars-could-be-on-british-roads-early-next-year-0bq9tkv9v"
-    type: article
-    provider:
-      name: The Times
-      domain: thetimes.co.uk
-    quality: 24
-    images:
-      - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F36f646ac-1f36-11ed-add4-d333562d46fb.jpg?crop=3696%2C2079%2C167%2C70&resize=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "YTEOJXnGuO0LIORXXmgiY3RU83U3WJcOakL+qEP3ZS4RzTXWWaV3H3LQxIyZgELfnbZ8J6DZXZHhUIGMQvO7BAdlu41ImLyEwPRQTOOU5XUGQBxchFLwlb8YOGWSW9EG4PAfmNCapnErb/lMn63i3668992C9tKko7JwPoM3SY4hg5uDQY4Qm6FbeTSiF2G4/YE8KyFvWdLoNlOASVvH0ouZRiDIvxntqa7baDu7ll5l9bnLunNVfqpYrK1ywdmrsMKT79lrO9pvbdtBosi3gZhIx9TO6jRjNC1Xdmy8kI2DFZEcCSE2TwZW3Q3YAQIaT4B609aXewOujLKhCSMqCRH1GOfH0ilJLxQZ0hVkzFo=;MqtL7T1dkGH2+beKqi+H3g=="
 ---

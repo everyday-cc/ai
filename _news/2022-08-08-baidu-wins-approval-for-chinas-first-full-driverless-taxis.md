@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "cJ5KtXuNBBTR4QNv/ILf7jFQcQyBLqYB5aK2caf2UHp6Twd5WR0PxUPoJMa14+0iBRuLCwmIxjae3Q0wdssipzM24kS5WHmNbNUzuvlIEkxq7/V5vgdmCCtPgO0dpGjRtkCQ7FU75S7XRChrexaiOdpr+hy8FnjTuzr98+1ZOVvJgahynFOvXJQHFpnHdio2FkEes8WSuA3yfKaq2tJMtMZxtCN7V1BZOMKWQJd1o773t/bvAUlvkmDddPRwwXEMuipvLnvrdKAFxue02W+HTV4buABHBtZYMOdsIKFIzQOLpPxgb4KBeGcaiFgeJmMCembMHLgqoeqXE5bfm0dTWPJLmb7E0bJf74JBAvmSKiY=;f27/Wq13KICWQuCQ0quqQw=="
+images:
+  - url: "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/08/08/ac_baidutaxi_080822.jpg?VersionId=snfpdvhOXqKDlnOrur612c01gtqJ56kW"
+    width: 860
+    height: 573
+    isCached: true
+
+secured: "k/uWLqerSeGhIC3pJtcXbq8lGxG2fVM6xwq0GCZb+KWz86ghwc8wyUroPz8IsjdNNm1T8bjOhkx8jYz9z7FT7VYhJolNQ5OC3G1MpOmE16QGIWZsNQk46npSFr1g5vucoYTAIrqJiU69NKiACG2IVRCuJm0Ro1M9i7IEwHUqi8w3+8KiaBNdj+MViB3Z+3bBylJqELr2Ub0HWoWD37hdrhcVt3fU1ztQvyi/GwevgE9YlQvn2nC7hmHr9gujo/mEkwQtJdiNFDXFLB0QgOERC4t9OydGR3HPvrmExYtFue6Q9GfSsCkHKllTErkZTfhqjhjWFn7zapQsaUo4jGLe49ngob9RMM84SX40Lmw0RbU=;zZ6iOfgdvz8Gq6IDS6Yy6w=="
 ---
 
