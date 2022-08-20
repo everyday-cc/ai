@@ -22,22 +22,6 @@ topics:
   - Natural Language Processing
   - AI
 
-related:
-  - title: "Machine translation could make English-only science accessible to all"
-    excerpt: "UC Berkeley scientists and students looked at current artificial intelligence translation systems and found that, though flawed, they have become good enough for researchers to broadly translate their work into other languages,"
-    publishedDateTime: 2022-08-16T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/962007"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/bede6d05-c229-4bea-b6d3-a83faf245b4d/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 232
-        isCached: true
-
 secured: "fbTW315dv5ny0Tmn7MMOZb1N/DxRpUX81ZlqQlIuOxaltAyqqc+A4OJ7qtHO2+r6QuSCNimy3o3E3dYj02+s4J7BbxmYJM2/pGgegtYYr4MH9hhfSFqw6p62I03RtBWxXB1x2dSjZDSiuYH2YXLOMHgjG8EjsyerUYxFbozM72pMTdPKNpw0iH3SrbBmznaumAU3GaPvpa5PBBEtZtLnjx+y2g2MX+TmDvtPMOSm6+6wOER8Bp4vHqH0ldaVtlVS0OOWDPJF2SLSNABbXhIXphYMmfMkX+h9DHp9sdU082a1OvwxhUB8ETT87ZOgmTdCAdwrt/d3TOEPNJneLMUSJiYWJ6yCqvDfnWY+aF51F20=;kpR5tZiYWDqe+Kp7MILm3g=="
 ---
 

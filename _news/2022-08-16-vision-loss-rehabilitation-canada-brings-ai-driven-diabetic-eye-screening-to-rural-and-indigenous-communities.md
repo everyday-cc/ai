@@ -1,23 +1,33 @@
 ---
 category: news
 title: "Vision Loss Rehabilitation Canada brings AI-driven diabetic eye screening to rural and Indigenous communities"
-excerpt: "Program selects Eyenuk's EyeArt AI system to make vision-saving screening more accessible in remote Ontario communities LOS ANGELES and TORONTO, Aug. 16, 2022 /PRNewswire/ -- Vision Loss Rehabilitation Canada (VLRC),"
-publishedDateTime: 2022-08-16T15:44:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1270687&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1270687&cat=PR News Wire"
+excerpt: "Diabetic retinopathy is the most common form of diabetic eye disease. In Canada, 750,000 people have DR and the economic impact on the healthcare system is $1.2 billion annually. With early detection,"
+publishedDateTime: 2022-08-16T12:01:00Z
+originalUrl: "https://www.marketwatch.com/press-release/vision-loss-rehabilitation-canada-brings-ai-driven-diabetic-eye-screening-to-rural-and-indigenous-communities-2022-08-16-8203129"
+webUrl: "https://www.marketwatch.com/press-release/vision-loss-rehabilitation-canada-brings-ai-driven-diabetic-eye-screening-to-rural-and-indigenous-communities-2022-08-16-8203129"
 type: article
-quality: 0
-heat: 0
+quality: 50
+heat: 50
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "ifx0UPsjKG6oWfKk9p2nUlqOCU6BJsFxLoLQ93LdsqnsNjO68JEXrwcGwKbvAdDvI3HX+MfCDd9HchC2cKqngd03jW8aqVnag1o90cIKjWeRJldPkXW0R/gShho8lxdTS69VtgiRvAbJGZRlTsKqT82X8hwJ3+OOGOcrclqJtf9NZ0ZclJ7yyYERVU1tc7t0sZ6d7KsMfW+heLY2J4UK+fcV2rdISaxvyvP3QgX3Hti9ztyqCcewej4Z02P0xm3bJxDe8O36Lq9t/MB737VuENBZnsEfrrvOuxOS1uPZOapxFkMw7fDPAlk3KJi41YkSr1LPMTWrCIXs+beBc/q7is5KdjvPdKzMO0mPCNooeOM=;RpHz43monVRUhhVw0hwbEw=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "keEnrLVGTTIJrhzfgrfO9KBl1KID3AU/9kTOGsnpt5CHcANl/E4l8WhOzZYnrKZ3Y5bF1qrwJ3im9m9J66vcDZRXlUx7PhzdavYpLdIo7HwKDokXzj3Jyoio4Nz50IZbDthe0je8HqB1LTKS7LKKk0doIakzxIL7XSKs59uQIQVDtGj9BiOLJGa+UKSmPHHfXJHeVx4SkGV4Avw1Qdnz+1e6o72V8NL+vHFgOn2rTzYHCKN1zj2cN7IsldKROZi4AHcbHJJZ6fAmHFOAe21eJXmeBGDGAiPaAe3jriIT8c7+YvVScjnCDZhrybE5mvg6pmpCcW4aosJP0dnaQir3E0IMkli7I5n7uj+wapMny6U=;NTjPUKgFJnvU1Pwm1BkjFw=="
 ---
 

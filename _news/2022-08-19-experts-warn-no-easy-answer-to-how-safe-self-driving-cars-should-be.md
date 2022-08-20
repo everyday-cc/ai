@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/technology-62598618.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62598618.amp"
 type: article
 quality: 74
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -89,6 +89,20 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2022/04/NINTCHDBPICT000719601367.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Self-driving cars could be allowed on all roads as early as 2025"
+    excerpt: "Cars driven by humans might soon be thing of the past. That’s right, your mates might have spent their hard-earned cashola on driving lessons, but the joke’s on them – vehicles could be driving themselves by 2025."
+    publishedDateTime: 2022-08-19T16:19:00Z
+    webUrl: "https://www.timeout.com/uk/news/self-driving-cars-could-be-allowed-on-all-roads-as-early-as-2025-081922?cid=~london~natsoc~twitter~echobox"
+    type: article
+    provider:
+      name: Time Out
+      domain: timeout.com
+    quality: 24
+    images:
+      - url: "https://media.timeout.com/images/105921648/image.jpg"
+        width: 1000
+        height: 750
         isCached: true
 
 secured: "KsPMSzWI1ODuCbeZgK59sxBqNVAiJVjYx7Fmj2LcMQrMe0Ub2HCPCwMJlhRVvFwpVm2j87ShV9LApV0eblRbVXQesE3t9QRxnilIqbnorhhvS8w2T/HX8vUx5wfzs0H0OXPPZn7pzYHk1Gkz1EYmfjBxiyFZGIIucMTOeCPX4aYAkbJIyaYYl6mAGxpiyVfb02DXJG8g2Jf+s5vA9N64XvP8MBeqvSw5WNjM5NsF0RnXcq+9aF6fbkP4HblYc30POVzbZCzKMuX04QAGFkZ4YVuiHFtaZOQCXB1VVG2JYbsCeZyFWm1WmYUM+ahim9llAT52ho13R7vMasZqD5baVYWVETQ1xILLEpYwlDS+iUU=;6AsfQlYH/cFOBlb0WOpU3A=="

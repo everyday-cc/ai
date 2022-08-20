@@ -86,6 +86,20 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Self-driving cars could be allowed on all roads as early as 2025"
+    excerpt: "Cars driven by humans might soon be thing of the past. That’s right, your mates might have spent their hard-earned cashola on driving lessons, but the joke’s on them – vehicles could be driving themselves by 2025."
+    publishedDateTime: 2022-08-19T16:19:00Z
+    webUrl: "https://www.timeout.com/uk/news/self-driving-cars-could-be-allowed-on-all-roads-as-early-as-2025-081922?cid=~london~natsoc~twitter~echobox"
+    type: article
+    provider:
+      name: Time Out
+      domain: timeout.com
+    quality: 24
+    images:
+      - url: "https://media.timeout.com/images/105921648/image.jpg"
+        width: 1000
+        height: 750
+        isCached: true
 
 secured: "VmQnQpJeQKjYoRUiMMBT7ZHJZoJvNZpiNuRCFji831g8J2gf9BvAb8RxTxyICwVMlfpMAmfgRZS9qfu7Sjow5NXl3BcTOu7vk87uItu4T16ZsKfsnRtC6D1uehrojK4X2psdHBaC6x6so0NlSzFgi+/+7EK+rA+jGs6eioINJAsARwagVkWPEGnawo9VH2vvOjsSAN51eNWAsqXv/MsGWF3i2n/d7D2GNZX72+UTzafmmtfOgqDigxHjc9+GZ5E+PzvlnESVydYVXNJ4SvVLRl0YjGu8dGaISLbvh6DsDx2d0j4E6HUp+UJdsLjYeKDHPz1gRgI4MMt9g3Us//SOvjluyO43PvxUvPGZWGKxYzwv52PBI1RcqqxNy4pCmoX/EdJMGUoVO7E87AFaZ2S+jvAxlqQ7zkkI4usq0lnEU2WeZN0UX8yeOx+jBjQT7YjrQQNUhuK+fVe6lbI2gJc5PsuscXvbv6lCtZXd5Eh/7nSsM+FQJtQPSRBzG1myegTFgHZPZalnGPkhyV78m32neA==;OUwN4P7Ll41w3mZ4bOsX1Q=="
 ---

@@ -841,6 +841,48 @@
       ]
     },
     {
+      "path": "_news/2022-08-15-ai-gaming-and-esports-startup-regression-games-raises-42m-in-seed-funding-from-nea-and-a16z.md",
+      "title": "AI Gaming and Esports Startup Regression Games Raises $4.2M in Seed Funding from NEA and a16z",
+      "excerpt": "Regression Games, the AI gaming and esports company, today announced it has closed $4.2M in seed funding led by New Enterprise Associates (NEA) with participation from Andreesen Horowitz (a16z), BBQ Capital,",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-gaming-and-esports-startup-regression-games-raises-4-2m-in-seed-funding-from-nea-and-a16z-1031684331",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-gaming-and-esports-startup-regression-games-raises-4-2m-in-seed-funding-from-nea-and-a16z-1031684331",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-15T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-15-we-tested-tesla-full-self-driving-beta-in-the-blue-ridge-mountains-and-it-was-scary.md",
       "title": "We tested Tesla Full Self-Driving Beta in the Blue Ridge Mountains, and it was scary",
       "excerpt": "Beta in the Blue Ridge Mountains in North Carolina, and it was a scary experience. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system, but the driver needs to remain vigilant and ready to take control at all times.",
@@ -968,57 +1010,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-ai-gaming-and-esports-startup-regression-games-raises-42m-in-seed-funding-from-nea-and-a16z.md",
-      "title": "AI Gaming and Esports Startup Regression Games Raises $4.2M in Seed Funding from NEA and a16z",
-      "excerpt": "AI Gaming and Esports Startup Regression Games Raises $4.2M in Seed Funding from NEA and a16z Aug 15, 2022 (PRNewswire via COMTEX) -- PR",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-gaming-and-esports-startup-regression-games-raises-42m-in-seed-funding-from-nea-and-a16z-2022-08-15",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-gaming-and-esports-startup-regression-games-raises-42m-in-seed-funding-from-nea-and-a16z-2022-08-15",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

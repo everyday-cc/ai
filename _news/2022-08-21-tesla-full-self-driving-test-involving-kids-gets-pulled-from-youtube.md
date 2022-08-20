@@ -1,29 +1,31 @@
 ---
 category: news
-title: "NHTSA Doesn’t Want People Testing Tesla’s Full Self-Driving Technology On Real Human Children"
-excerpt: "The NHTSA is warning those who use real kids or people in general for their own safety testing demonstrations. The reaction comes after a bevy of private individuals began posting similar tests online."
-publishedDateTime: 2022-08-18T22:00:00Z
-originalUrl: "https://www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/"
-webUrl: "https://www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/"
-ampWebUrl: "https://www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/amp/"
-cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/amp/"
+title: "Tesla Full Self-Driving Test Involving Kids Gets Pulled From YouTube"
+excerpt: "YouTube has removed a video in which Tesla investors test claims that the latest beta version of the company's Full Self-Driving technology won't prevent the vehicles from running over children. There's a bit to unpack here."
+publishedDateTime: 2022-08-20T17:20:00Z
+originalUrl: "https://www.pcmag.com/news/tesla-full-self-driving-test-involving-kids-gets-pulled-from-youtube"
+webUrl: "https://www.pcmag.com/news/tesla-full-self-driving-test-involving-kids-gets-pulled-from-youtube"
 type: article
-quality: 48
+quality: 69
 heat: -1
 published: false
 
 provider:
-  name: Carscoops
-  domain: carscoops.com
+  name: PC Magazine
+  domain: pcmag.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.carscoops.com/wp-content/uploads/2022/08/2022-Tesla-Lineup-1-1024x555.jpg"
-    width: 1024
-    height: 555
+  - url: "https://i.pcmag.com/imagery/articles/03ObNFQ2eVXU4AeGWQ5gNHD-1.fit_lim.size_1200x630.v1661015027.jpg"
+    width: 1120
+    height: 630
     isCached: true
 
 related:
@@ -58,20 +60,6 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2022/08/tesla-hands-free-e1660639508352.jpg"
         width: 1975
         height: 1110
-        isCached: true
-  - title: "Tesla Full Self-Driving Test Involving Kids Gets Pulled From YouTube"
-    excerpt: "YouTube has removed a video in which Tesla investors test claims that the latest beta version of the company's Full Self-Driving technology won't prevent the vehicles from running over children. There's a bit to unpack here."
-    publishedDateTime: 2022-08-20T17:20:00Z
-    webUrl: "https://www.pcmag.com/news/tesla-full-self-driving-test-involving-kids-gets-pulled-from-youtube"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03ObNFQ2eVXU4AeGWQ5gNHD-1.fit_lim.size_1200x630.v1661015027.jpg"
-        width: 1120
-        height: 630
         isCached: true
   - title: "YouTube Pulls Video of Tesla Full Self-Driving Test Involving Kids"
     excerpt: "YouTube has removed a video in which Tesla investors test claims that cars using the latest beta version of the company's Full Self-Driving (FSD) technology fail to ..."
@@ -141,7 +129,23 @@ related:
         width: 1024
         height: 555
         isCached: true
+  - title: "NHTSA Doesn’t Want People Testing Tesla’s Full Self-Driving Technology On Real Human Children"
+    excerpt: "The NHTSA is warning those who use real kids or people in general for their own safety testing demonstrations. The reaction comes after a bevy of private individuals began posting similar tests online."
+    publishedDateTime: 2022-08-18T22:00:00Z
+    webUrl: "https://www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/"
+    ampWebUrl: "https://www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 48
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2022/08/2022-Tesla-Lineup-1-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
 
-secured: "lELvZSMTMkPYxNYTaG75V5tQ3xRrlsBMx3U5lUjtx7fzbnTmtMgY56vow/OO+B83dNPr05HSl3RdWxBHOB+8c4X7AX68916SK14E77MOVVvAgQAOGZiHRvlc+VlVMg9kugj8zxQwyb5793jK+FW2ZK+/Xu2xm8j5g9vPR2qZsn5H5OX/GxyZm4rL2BDB4xXZExGUr0BbaKe5PtqMpwd3WpiLv5dQWsADA5uKUCuogIEC+JMB5KDXGd7+FlHkiWtDwoiNT7UHR/D+T5obMUvyXIijxyzy5JIlFvFYVeM3ztA6iitEEfLlyhU28+dlpH0FPcTqLRi9BX50Ngnf7ge9quHnKb1WPofgkOS8kXaxbKdzoMe7scEkWGgEu4J/jx9jpaZFIPLNTwKBxXS2q9BTIBpK/1ljX7xtiDXoqboFdDWA+Vo9Ocgy0KVjhoj42ao+qqvGFllsyf/6PfUGD20kWBzgz0ESh5bRwNe0a5bYgrhcs7zTPo7jDQUXM/AGLEASguZMVSMRdbcwmUN/eVw9aQ==;/CuymcoV44TmKJ8kj9iONQ=="
+secured: "mOM/ZkZJrJW+BG1Xzvq1sZIjwx0Y5pRzIEZtYrY3muHcmsL1WuEucwCBXWNMClmv3uaDsvD5Q+q8tN/VF4nLOqO3NHANvnUXgP5qJrtOU3aWPb6inDJM5yC89MXG+6uypeqPgJamUjsvIMRdk65oKfzN3QMaVj9eDqAlfMNKancmDX69+jayfZCXOcw7H56Mii9uT0CPBh7hO9haYQkOXrM2OBs6/PLEKq4Cjq5fwu856ACbvSsNynHiFkVb2lisF4gFm8gV4r9SAhqGW7shEFnjYyRkVP6MkA60gIknvMcGIm3NpqemNGlK1J2SWWxqdZqELduwBEo4WtQd2VWvASfIhW0NOvQywFJVb5YK5JQ=;jynoSKmjQoES4pA9GDJyNg=="
 ---
 

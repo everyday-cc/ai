@@ -35,6 +35,22 @@ related:
         width: 1140
         height: 641
         isCached: true
+  - title: "Amazon testing TikTok-style feed on its app, AI firm says"
+    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform"
+    publishedDateTime: 2022-08-17T23:16:00Z
+    webUrl: "https://abcnews.go.com/Technology/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88514952"
+    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88514952"
+    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88514952"
+    type: article
+    provider:
+      name: ABC
+      domain: abcnews.go.com
+    quality: 57
+    images:
+      - url: "https://s.abcnews.com/images/Technology/WireAP_d6c87ec91bcb4a3db6d7f763abbf3eca_16x9_992.jpg"
+        width: 992
+        height: 558
+        isCached: true
   - title: "TikTok’s new AI art filter riffs on your text"
     excerpt: "AI text-to-image models like OpenAI’s DALL-E 2, Google’s Imagen, and Midjourney are having a bit of a moment. It’s hard to avoid their output on social media (especially Twitter), where people share the weirdest and wildest things they are able to get the AI models to create."
     publishedDateTime: 2022-08-17T23:00:00Z
@@ -70,15 +86,6 @@ related:
     provider:
       name: IOL News
       domain: iol.co.za
-    quality: 19
-  - title: "Amazon testing TikTok-style feed on its app, AI firm says"
-    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform"
-    publishedDateTime: 2022-08-17T23:16:00Z
-    webUrl: "https://abcnews.go.com/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
     quality: 19
 
 secured: "tBZv13zRCXMoY9kY2+QDtpsHkaM3RSu/dSLG7JWa+oTNqlJk+qqw0UJveikqb9ux6rs0sK8AGkzb79r2H9gZPZaa5dkbWJCd6mr7/TyGCFYxZC78lbG45nx9Fy/9pwr0VKx7nB6R0uKG0+5cRGqkzcqTKuEm3ym9P3vqo7g3Zke+liWkJzoJ+SmA0Zjf0jNdqp3phfjCb/hwf4ppPsax23d+vMvNMYV8J0Sg/i3IRZ5EXkqi0nYZNNTBTT5DM/o5O+Rmzl+SnU7h4yqkaL2+Zl3LbkfxUuczpOz5ox1QOnE4WNdIhD85jJ+opGACRwlFJ+hs8y5JO9BB4iWKsgKPa7X7B0+/gt67JYK1EOR3TS6YiGn6r8SkIu6x6CkWlkqtGpjgsGsfYsi44UnAwdWdNF11meOAMBMDPJYsMkGKt8QAGJqeWmbZLuE5NESyDneqGMzeFiSAmpMI8NMwOSsbvJAi86zYWko+dofSvqbBQ/lR0EsG73MEm92BOd+FJINb1QkbJtL36qI+mt5fS/3vmw==;0MOcYlCyWgbklDsFPECO+w=="

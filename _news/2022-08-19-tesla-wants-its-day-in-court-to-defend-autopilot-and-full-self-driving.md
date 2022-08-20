@@ -53,6 +53,34 @@ related:
         width: 1975
         height: 1110
         isCached: true
+  - title: "Tesla Full Self-Driving Test Involving Kids Gets Pulled From YouTube"
+    excerpt: "YouTube has removed a video in which Tesla investors test claims that the latest beta version of the company's Full Self-Driving technology won't prevent the vehicles from running over children. There's a bit to unpack here."
+    publishedDateTime: 2022-08-20T17:20:00Z
+    webUrl: "https://www.pcmag.com/news/tesla-full-self-driving-test-involving-kids-gets-pulled-from-youtube"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/03ObNFQ2eVXU4AeGWQ5gNHD-1.fit_lim.size_1200x630.v1661015027.jpg"
+        width: 1120
+        height: 630
+        isCached: true
+  - title: "YouTube Pulls Video of Tesla Full Self-Driving Test Involving Kids"
+    excerpt: "YouTube has removed a video in which Tesla investors test claims that cars using the latest beta version of the company's Full Self-Driving (FSD) technology fail to ..."
+    publishedDateTime: 2022-08-20T17:36:00Z
+    webUrl: "https://au.pcmag.com/cars-auto/95760/youtube-pulls-video-of-tesla-full-self-driving-test-involving-kids"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
+    images:
+      - url: "https://sm.pcmag.com/t/pcmag_au/news/y/youtube-pu/youtube-pulls-video-of-tesla-full-self-driving-test-involvin_s5km.1200.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "California Wants Tesla to Stop Calling Half-Finished System \"Full Self-Driving\""
     excerpt: "Tesla’s \"full self-driving\" (FSD) may have to come to a full stop because the California DMV isn’t a fan of the feature’s misleading marketing."
     publishedDateTime: 2022-08-16T16:49:00Z
