@@ -35,6 +35,15 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "How Microsoft’s AI convinced me to switch to Edge, and where the browser still falls short"
+    excerpt: "I finally broke down and switched to Microsoft’s Edge browser this week on my Windows PC, after many years of using Google Chrome. No, it wasn’t the incessant and annoying… Read More"
+    publishedDateTime: 2022-08-19T19:31:00Z
+    webUrl: "https://www.geekwire.com/2022/how-microsofts-ai-convinced-me-to-switch-to-edge-and-where-the-browser-still-falls-short/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 54
 
 secured: "CNyP/Cr4WH9Aw0ysbQJX3pHviZOeVd7gZ/xylqTBA/oHFpxyF4HB9jvVDQKzNn8eZCn8hYjsTlApkwha4Pqqk+Bs7hwyMBc5suQAe53tMdQHiTUBGWCrmuP6He3P59ygRE8M8wauOKVWlZ9xjbHcN1sn1KF8o0cc6DJR6pEskK/GjFQySP+ZdwKc2ewUD5eekd/Hgl7+wKEl0DeKOJJtKWicdyRMXg/GKun9lW88uqhqLhAFldHmQDe5lNb+Ffwo9bOB6a+e++BRtExSEihsaB7br2XVBgDrV/atuOJYJIgFj3sQ2q6Q2bFV2EXTEHLgQ4Fc9nyLMRQUcxTt/dRX6VGdaGprtD1WfVsSCBeIPK51R1/MWihYTqlKu68JTS/OBvWwfU91X9sm0FJqomY166zTxN+HugQdZattQ5lZisJr6lbZ0VrapNynIA2ji+hZShcjB0WdoqDGKKvEJ7/85qT27tLeINXt4rCYU23N/IvBUwNByafH9QIH36JHnLCNo0DWUUURxn/9GRANJ+oV4g==;mNL4B+iAuIs7DjhS5Nx1Lg=="
 ---

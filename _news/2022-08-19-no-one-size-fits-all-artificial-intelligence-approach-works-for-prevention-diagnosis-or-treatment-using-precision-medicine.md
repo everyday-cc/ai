@@ -1,27 +1,26 @@
 ---
 category: news
-title: "No One-Size-Fits-All Artificial Intelligence Approach Works For Prevention, Diagnosis Or Treatment Using Precision Medicine"
+title: "No one-size-fits-all artificial intelligence approach works for prevention, diagnosis or treatment using precision medicine"
 excerpt: "A Rutgers analysis of dozens of artificial intelligence (AI) software programs used in precision, or personalized, medicine to prevent, diagnose and treat disease found that no program exists that can be used for all treatments."
-publishedDateTime: 2022-08-18T18:58:00Z
-originalUrl: "https://www.news-medical.net/news/20220818/No-One-Size-Fits-All-Artificial-Intelligence-Approach-Works-For-Prevention-Diagnosis-Or-Treatment-Using-Precision-Medicine.aspx"
-webUrl: "https://www.news-medical.net/news/20220818/No-One-Size-Fits-All-Artificial-Intelligence-Approach-Works-For-Prevention-Diagnosis-Or-Treatment-Using-Precision-Medicine.aspx"
+publishedDateTime: 2022-08-19T00:12:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/08/220818122424.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/08/220818122424.htm"
 type: article
-quality: 11
+quality: 23
 heat: -1
 published: false
 
 provider:
-  name: News Medical
-  domain: news-medical.net
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
-
-images:
-  - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-    width: 620
-    height: 480
-    isCached: true
+  - AI Ethics
 
 related:
   - title: "No one-size-fits-all AI approach works for prevention, diagnosis or treatment using precision medicine"
@@ -55,6 +54,6 @@ related:
         height: 1568
         isCached: true
 
-secured: "BQykZSJiSAon+9/HvfOyH/JkPevHz1GLRxU3kEYBKbXRFJlv/eHu8mbQgl3uACpICjYEQzTPfRDpUOpRsJ8K3UnIkhBKKz+XLI6NMjhKKsRvcgSIG3jZMl7i1jgD13A07EtlDpHiKRsOq9pttcs2DnmU70+QONdhR4dn5kL7cR0eeNXNPoAf/sP8K0FeVQtS+MWWMXDayBge8nOYx8Y1t0HklUnqVc24vY00bq8u0dGADfpZnbkryupI7YCq52SEbK30hs71g8oKQ2P32YQKpnZuAW85jjx/lJARuVGcLQme7Rj4vF7+K5E001/esJmo0Q3Hm38mXAIAvZBiX5/L5f9CkGqmXkrqdUUufMQ1uCE=;+woZSzLdkKx8Dsewe72oDg=="
+secured: "iW//TkZNCmiLSsAecNlmY9xQJdbfYPudduVCnAmzJTHGFB19s7aCMJ9OjlladOC+fgow5uyz6bqj20rUlNviNGA1f3VfqVwohnnVze0laH4kFIDVVmnEAWXg34S1lJMl1rSv9BlYLuqAb+Ar0KS5c7vAc+1X2E+YDB0glzjBRFh8TWQKrqRQYFlRT/s9jkKUW8pBUjCfPwIZatLzhE+gqFYmiE+ZaHOb/XZJk/zohLW/AoX31QF0n5rPI3fKhMF7Ha9b3wv7V57A4IVOtpgy8+TvBqdOO2mnJ1SKMFsdQ8NGUMpWmRQvZirr0Mn4HPO3NXCb6OHmaBnvTBJJdTK7Q/0lkvMcAow3cpx7/Ge568U=;Ns5ql8BA833wQW0nlBNO5Q=="
 ---
 

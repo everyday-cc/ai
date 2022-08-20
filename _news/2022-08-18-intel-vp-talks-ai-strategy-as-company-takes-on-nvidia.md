@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/intel-vp-talks-ai-strategy-as-company-tak
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/intel-vp-talks-ai-strategy-as-company-takes-on-nvidia/amp/"
 type: article
 quality: 89
-heat: 130
+heat: 129
 published: true
 
 provider:

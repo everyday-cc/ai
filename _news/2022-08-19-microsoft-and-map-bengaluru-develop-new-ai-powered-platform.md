@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/brand-stories/microsoft-and-map-benga
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399-amp.html"
 type: article
 quality: 74
-heat: 84
+heat: 94
 published: true
 
 provider:
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "How Microsoft’s AI convinced me to switch to Edge, and where the browser still falls short"
+    excerpt: "I finally broke down and switched to Microsoft’s Edge browser this week on my Windows PC, after many years of using Google Chrome. No, it wasn’t the incessant and annoying… Read More"
+    publishedDateTime: 2022-08-19T19:31:00Z
+    webUrl: "https://www.geekwire.com/2022/how-microsofts-ai-convinced-me-to-switch-to-edge-and-where-the-browser-still-falls-short/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 54
   - title: "Delhi, Bengaluru airports start facial recognition for quicker boarding"
     excerpt: "Domestic passengers at Bengaluru airport and Delhi’s T3 terminal will have a smoother experience after the places introduced facial recognition systems on Tuesday. A beta version of Digi Yatra at the two airports will automatically process passengers' entry based on the facial recognition system at all checkpoints."
     publishedDateTime: 2022-08-15T13:05:00Z

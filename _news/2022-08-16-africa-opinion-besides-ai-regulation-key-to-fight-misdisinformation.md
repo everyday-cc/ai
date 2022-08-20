@@ -41,20 +41,6 @@ related:
         width: 840
         height: 438
         isCached: true
-  - title: "OPINION: Besides AI, regulation key to fight mis/disinformation"
-    excerpt: "While AI has a crucial role to play in controlling what is seen online, government regulations play an important part in determining how such methods are to be used"
-    publishedDateTime: 2022-08-15T06:54:00Z
-    webUrl: "https://news.trust.org/item/20220815085446-xwfps/"
-    type: article
-    provider:
-      name: Thomson Reuters Foundation
-      domain: trust.org
-    quality: 37
-    images:
-      - url: "https://news.trust.org/contentAsset/image/0f504770-1444-4e4e-a682-f7ffb9339c00/image/byInode/1/filter/Resize,Jpeg/jpeg_q/70/resize_w/1100"
-        width: 1100
-        height: 733
-        isCached: true
   - title: "Meta's Own AI Chatbot Says Company \"Exploits People for Money\""
     excerpt: "Of course, BlenderBot 3’s algorithm allows the chatbot to form opinions and make statements based on scavenging the Internet for similar discussions on the topic, and it could very well have just found a series of biased comments against Meta in general when responding to the BBC,"
     publishedDateTime: 2022-08-18T06:24:00Z

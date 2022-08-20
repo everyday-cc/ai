@@ -24,6 +24,17 @@ images:
     height: 1333
     isCached: true
 
+related:
+  - title: "Indian police using 80 percent facial recognition confidence threshold"
+    excerpt: "Eighty percent is a respectable grade for a subject that a student is unfamiliar with, but not for a police biometric system being used to investigate crimes."
+    publishedDateTime: 2022-08-16T17:09:00Z
+    webUrl: "https://www.biometricupdate.com/202208/indian-police-using-80-percent-facial-recognition-confidence-threshold"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+
 secured: "f+6Y/rNt9ZnWr60SbupN7YY8N7DWqFNpI9uNoxp/ocEixXQRFfngowmQRbQCT4CYGi3qItiNlawSTUsn1OIOdctpWFEmHcBllxGzhwOzr7ZSY10EzHA7uSCYewyvcXcSt0pLn3mbF7HuUf1w4Qnnq0WC7THh9Bi4tgse/HJpWaJfNqfc6DsrwfXFmXbjBcwlsyk+M90tgPsV84jPogBFGVf7rPy0+pDjcMsceWsokIcJMb/so7Y5+mtTkkSVrHMk3LoI8glwCR7NW1cvWodaUY57n2GjJUw8ASSETDHQxjFHywwgcwgBCf2QwlCHBKyDn+z986sTbEMxbRUxt97tVqrhcjEa+vJ5Ki2ff7llbH50XlWM/HLGDEDzOC236ivkleY0FHw08M7MJKLa9aOSVty7muIupP7yrKwXr23jvE5onhUtKlGWHH26a3apHQTb4jkCSdA+cxXhyiE5Z8CzpDLH1RqIZbx1pcUpEo2mLayob0DSlEGb82CedgGPyhPXGg9PI5KEvrHjCmGNRLSCzw==;7Ru+s8tdaeXahk60Fft5Ig=="
 ---
 

@@ -15,6 +15,12 @@ topics:
   - AI in Robotics
   - AI
 
-secured: "TXgMs0n8M2CfXyNAw7P0OrRqvdALhO8CsSGRTi6UrWtELUq34qBxD+SksANGS5bUklmikyPgRMKEV4Hhpd25TbV49hxoYEsW/+mOaSYfO57d4XgdC/lB1Ro9bGwjpy5tDl+sE7RZj5WP+2HmHNdebEDWfLlem2bq6RNTGCwshdunBrpOXayW+kkjkkymt2mrwalZv8I1wR9jqSslz+QpxUgluoHyfawkm6Omayh8tWzwpLyIejcsuADAJoeXMg4pUl2NmRWAQjLVE/+lQqK4p7NjsW462Nf2N9+jHUsyuZxGzeN3TlMVPQt/P7deRnPclaO0bSz3zuwUFY15aXzREX8SwkvvVr84LuYEAEuBovM=;uDGz1QegMMtsrmIrEe947w=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "QmU/6LENbu9/g4AtjRfzLrPjgtqSo+iA1cCXg/WTIM+dphhV/C1mUPBFrqLxZNm+mztdHfbNKUQsZHAPJuixN+s7uW1Ax/lqr0Q52rBqubVXktUTPxbKP54pXQfCNAM1eAwNQ2hDbUOrU4IIqc9lWGLlFLuux7sYQdFDYAITczB80HrgFhahxQwQfx33SBnIvygyeFyLv6EPIu0DZml1WvAQAfIVRBD/eYIx5cKRcqS24cQT1dDcZN80F1DzmcCifHqZKGAA0mc8TX6fAD9KHZSI6z40tfp3JF1XLCF4grxS0GQYDH2tDktTX6BMSreaQ0oLRCMD3zlBzUpj5bLsGqStsrfzVVTdY3pJSrEQoKo=;/aiGEqJNsBWQrw3UKa716g=="
 ---
 

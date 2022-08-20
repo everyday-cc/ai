@@ -76,6 +76,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Build TensorFlow Lite models"
+    excerpt: "This page provides guidance for building your TensorFlow models with the intention of converting to the TensorFlow Lite model format. The machine learning (ML) models you use with TensorFlow Lite are originally built and trained using TensorFlow core ..."
+    publishedDateTime: 2022-08-18T12:53:00Z
+    webUrl: "https://www.tensorflow.org/lite/models/build"
+    type: article
+    provider:
+      name: TensorFlow
+      domain: tensorflow.org
+    quality: 56
+    images:
+      - url: "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "JEMJokrxk4UqGtpO7VrnP/WufuBYiXXBRmkg9wdZ41zPP8VDVmnypWpNoSDJfQoJZvG3aOUXVcsR/wLJN0wkzKwVOIHsvCD4j5Pi2a2+5WzJXH1w8ifakS58UsaNUicftAvdvfskpvIqdh+LzFSsBt63hnBnLGQjpgiQ8Es1iERBWSEiWZyykisMz0qNf/BAPqtPfBAAFuSxd1FHEYbp2aQ/z+828J7P0S82Q76/075LWLb0Uhs10rhqohQl7M6uLaWL2B4p9DTx6aw3v6zokHCRv86lEey0OWKuR9etAvsLqtX+ofyhnSJV5NL6TuPVSI2aa+ACLuBCIf4tNYLPr0xN/BD6lC5V5QVNWn4lG28=;zG3jo9Rghi4X+eqG3Ypqwg=="
 ---

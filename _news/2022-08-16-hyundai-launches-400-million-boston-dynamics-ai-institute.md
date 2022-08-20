@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 822
         isCached: true
+  - title: "Hyundai Motor Group Launches New AI Institute to Build Better Robots for the Future"
+    excerpt: "Hyundai Motor Group announced the launch of Boston Dynamics AI Institute (the Institute), which will work toward making strides in artificial intelligence (AI), robotics, and intelligent machines. The"
+    publishedDateTime: 2022-08-19T22:21:00Z
+    webUrl: "https://www.natlawreview.com/article/hyundai-motor-group-launches-new-ai-institute-to-build-better-robots-future"
+    ampWebUrl: "https://www.natlawreview.com/article/hyundai-motor-group-launches-new-ai-institute-to-build-better-robots-future?amp"
+    cdnAmpWebUrl: "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/hyundai-motor-group-launches-new-ai-institute-to-build-better-robots-future?amp"
+    type: article
+    provider:
+      name: The National Law Review
+      domain: natlawreview.com
+    quality: 70
+    images:
+      - url: "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png"
+        width: 1426
+        height: 808
+        isCached: true
   - title: "Hyundai and Boston Dynamics to build AI, Robotics Research Centre"
     excerpt: "Hyundai Motor Group and Boston Dynamics have announced that they are to invest $424mn to establish an artificial intelligence research centre in the US."
     publishedDateTime: 2022-08-19T07:00:00Z

@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-05-25-automotive-iot-market-business-development-type-size-share-and-opportunities-to-2025.md",
+      "title": "Automotive IoT Market Business Development, Type, Size, Share And Opportunities To 2025",
+      "excerpt": "Snapshot Present-day vehicles are becoming more connected than ever before. The rising level of connectivity in vehicles is",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/automotive-iot-market-business-development-type-size-share-and-opportunities-to-2025",
+      "originalUrl": "https://www.digitaljournal.com/pr/automotive-iot-market-business-development-type-size-share-and-opportunities-to-2025",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://transparencymarketgeeks.files.wordpress.com/2022/05/automotive-iot-market.jpg?w=410",
+          "width": 410,
+          "height": 1025,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T01:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-meta-selects-azure-as-strategic-cloud-provider-to-advance-ai-innovation-and-deepen-pytorch-collaboration.md",
       "title": "Meta selects Azure as strategic cloud provider to advance AI innovation and deepen PyTorch collaboration",
       "excerpt": "Microsoft is committed to the responsible advancement of AI to enable every person and organization to achieve more. Over the last few months, we have talked about advancements in our Azure infrastructure, Cognitive Services, and Azure Machine Learning to make Azure better at supporting the AI needs",
@@ -1318,50 +1361,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-why-google-cloud-is-battling-aws-and-azure-in-the-red-hot-postgresql-market.md",
-      "title": "Why Google Cloud is battling AWS and Azure in the red-hot PostgreSQL market",
-      "excerpt": "Google Cloud's AlloyDB for PostgreSQL has moved into public preview and will take on offerings from AWS and Microsoft in the red-hot PostgreSQL market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/698059/why-google-cloud-battling-aws-azure-red-hot-postgresql-market/",
-      "originalUrl": "https://www.reseller.co.nz/article/698059/why-google-cloud-battling-aws-azure-red-hot-postgresql-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/thomas_kurian_google_cloud_1_4.jpg",
-          "width": 504,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

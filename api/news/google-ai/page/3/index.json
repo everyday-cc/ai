@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-06-29-reducing-gender-based-harms-in-ai-with-sunipa-dev.md",
+      "title": "Reducing gender-based harms in AI with Sunipa Dev",
+      "excerpt": "Natural language processing (NLP) is a form of artificial intelligence that teaches computer programs how to take in, interpret, and produce language from large data sets. For example, grammar checkers use NLP to come up with grammar suggestions that help people write grammatically correct phrases. But",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/reducing-gender-based-harms-in-ai-with-sunipa-dev/",
+      "originalUrl": "https://blog.google/technology/ai/reducing-gender-based-harms-in-ai-with-sunipa-dev/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sunipa_hero_joSBUvE.max-1300x1300.png",
+          "width": 1300,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/reducing-gender-based-harms-in-ai-with-sunipa-dev/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/reducing-gender-based-harms-in-ai-with-sunipa-dev/amp/",
+      "publishedDateTime": "2022-06-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-4-ai-research-trends-everyone-is-or-will-be-talking-about.md",
       "title": "4 AI research trends everyone is (or will be) talking about",
       "excerpt": "Recent work by a group of researchers from Google Research, Stanford University, UNC Chapel Hill and DeepMind says it can. Transform 2022 Join us at the leading event on applied AI for enterprise ...",
@@ -1383,49 +1435,6 @@
       "provider": {
         "name": "Tech Digest",
         "domain": "techdigest.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-21-googles-deepmind-sued-for-illegally-using-confidential-medical-data.md",
-      "title": "Google’s DeepMind Sued For Illegally Using Confidential Medical Data",
-      "excerpt": "It turns out Google not only collects its users’ data and processes it for its own purposes but also uses confidential medical data. Recently, we learned that Google is facing a class action ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizchina.com/2022/05/21/googles-deepmind-sued-for-illegally-using-confidential-medical-data/",
-      "originalUrl": "https://www.gizchina.com/2022/05/21/googles-deepmind-sued-for-illegally-using-confidential-medical-data/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/05/VRG_ILLO_1777_AK_body_data.0.0.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizchina.com/2022/05/21/googles-deepmind-sued-for-illegally-using-confidential-medical-data/amp/",
-      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/05/21/googles-deepmind-sued-for-illegally-using-confidential-medical-data/amp/",
-      "publishedDateTime": "2022-05-21T04:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GizChina",
-        "domain": "gizchina.com",
         "images": null,
         "publishers": null,
         "authors": null

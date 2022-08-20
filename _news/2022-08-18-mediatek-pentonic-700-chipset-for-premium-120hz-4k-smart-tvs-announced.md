@@ -29,7 +29,7 @@ related:
     provider:
       name: Gizmochina
       domain: gizmochina.com
-    quality: 70
+    quality: 72
     images:
       - url: "https://www.gizmochina.com/wp-content/uploads/2022/08/MediaTek-Pentonic-700.jpeg"
         width: 629

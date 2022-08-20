@@ -7,7 +7,7 @@ originalUrl: "https://english.aawsat.com/home/article/3820846/parmy-olson/facebo
 webUrl: "https://english.aawsat.com/home/article/3820846/parmy-olson/facebook-does-something-right-change"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facebook Does Something Right for a Change"
-    excerpt: "The company risked its already-bruised reputation by being transparent about its AI work. That’s a refreshing approach."
-    publishedDateTime: 2022-08-15T05:23:00Z
-    webUrl: "https://www.washingtonpost.com/business/facebook-does-something-right-for-a-change/2022/08/15/ed7835c0-1c57-11ed-9ce6-68253bd31864_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
   - title: "Comment: Facebook’s openness on its chatbot gets it right"
     excerpt: "But in a completely different part of the approximately 80,000-employee business, Facebook’s exchange of information was going the other way and to good effect. The company known as Meta Platforms this month published a webpage demonstrating its chatbot,"
     publishedDateTime: 2022-08-18T08:30:00Z

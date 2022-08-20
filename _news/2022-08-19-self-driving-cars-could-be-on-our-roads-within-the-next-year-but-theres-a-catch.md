@@ -75,6 +75,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "China Closer to Getting Affordable Self-Driving Taxis"
+    excerpt: "China may be one step closer to offering driverless cab rides at half the price, thanks to Baidu. In July, the Chinese tech giant unveiled the sixth generation of its self-driving electric car ..."
+    publishedDateTime: 2022-08-17T19:38:00Z
+    webUrl: "https://www.nasdaq.com/articles/china-closer-to-getting-affordable-self-driving-taxis"
+    ampWebUrl: "https://www.nasdaq.com/articles/china-closer-to-getting-affordable-self-driving-taxis?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-closer-to-getting-affordable-self-driving-taxis?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Self-driving cars could be on British roads early next year"
     excerpt: "Self-driving cars could be on Britain’s roads as early as next year under a £100 million government plan to make autonomous vehicles safe.The Department for Transport (DfT) said it would introduce laws to allow for the introduction and that the self- driving industry could create up to 38,"
     publishedDateTime: 2022-08-19T09:00:00Z

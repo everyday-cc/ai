@@ -18,29 +18,20 @@ topics:
   - AI
 
 related:
-  - title: "‘Holographic conversational’ AI lets dead speak at funerals"
-    excerpt: "A Los Angeles-based start-up company has developed a ‘holographic conversational video experience’ that allows mourners at funerals to have conversations with the dead. StoryFile creates a digital clone of the subject by using 20 synchronised cameras to record them answering a series of questions."
-    publishedDateTime: 2022-08-17T09:29:00Z
-    webUrl: "https://www.avinteractive.com/news/ai/holographic-conversational-ai-lets-dead-speak-at-funerals-17-08-2022/"
+  - title: "Syncwords Complements Its Machine Translations With Human And AI Capabilities'"
+    excerpt: "SyncWords has been the leading captioning and translation services provider in the media industry for over 20 years.. While SyncWords Live can be used as a primary tool to help deaf and hard-of-hearing audiences,"
+    publishedDateTime: 2022-08-16T14:40:00Z
+    webUrl: "https://menafn.com/1104704287/Syncwords-Complements-Its-Machine-Translations-With-Human-And-AI-Capabilities"
     type: article
     provider:
-      name: avinteractive.com
-      domain: avinteractive.com
-    quality: 37
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 50
     images:
-      - url: "https://d3hjf51r9j54j7.cloudfront.net/wp-content/uploads/sites/9/2022/08/StoryFile-funeral-620x330USE-560x315.jpg"
-        width: 560
-        height: 315
+      - url: "https://menafn.com/updates/pr/2022-08/16/PN_dd9c33f1-e_Image_In_Body.jpg"
+        width: 400
+        height: 225
         isCached: true
-  - title: "Global Conversational Artificial Intelligence (AI) and Voice Cloning"
-    excerpt: "The \"Conversational Artificial Intelligence (AI) and Voice Cloning Market: Next Generation Enterprise Solutions by Use Case, Application, and Industry Verticals 2020 - 2027\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-08-19T20:32:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-global-conversational-artificial-intelligence-ai-voice-cloning-market-/2022/08/19/9659515.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
 
 secured: "SWCUU8xsaAY8CTugkDwbHGlrxxMXV5NprB8Lb67+tEyCTRF0tyzruvPGXI6/SVR+aQhVSOlZi2IVLUB3MAYFp8PmneAMwdAsWYgzG7Nq7tZNAlq3dQnc97ZXEbnQJS/3qggQZYLan7SnJBXnZpYSJRFLZN1JUwDyh1lVnJ7lsm2xYAFkG4vtRdxmdxA/Q9XC0Gd9DHzHbWQBn+y0GO19+bkC+K9O+ysF8k+vt+AY/jMWoiARcFHrKj2IP615nv1uo//ZscMtOxxRQ/68yPuzizav3Slwv14cIlVG964CE3p6cgVbhvlQivnoPnTHhLi64s1oAl+PfLUCEEIwB+oJIRpgt0VmecNYz9CmB4WJ3X8=;t0GikEB4fsI4PLIhEsbFRQ=="
 ---

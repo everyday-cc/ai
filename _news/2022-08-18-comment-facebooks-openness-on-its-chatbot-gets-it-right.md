@@ -26,20 +26,6 @@ images:
 
 related:
   - title: "Facebook Does Something Right for a Change"
-    excerpt: "The company risked its already-bruised reputation by being transparent about its AI work. That’s a refreshing approach."
-    publishedDateTime: 2022-08-15T05:23:00Z
-    webUrl: "https://www.washingtonpost.com/business/facebook-does-something-right-for-a-change/2022/08/15/ed7835c0-1c57-11ed-9ce6-68253bd31864_story.html"
-    type: article
-    provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 24
-    images:
-      - url: "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png"
-        width: 1484
-        height: 779
-        isCached: true
-  - title: "Facebook Does Something Right for a Change"
     excerpt: "As one of the 21st Century’s most powerful data brokers, Facebook is best known for its role in sucking up the personal information of billions of users for its advertising clients. That lucrative mod"
     publishedDateTime: 2022-08-17T05:00:00Z
     webUrl: "https://english.aawsat.com/home/article/3820846/parmy-olson/facebook-does-something-right-change"

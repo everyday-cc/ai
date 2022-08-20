@@ -1,23 +1,40 @@
 ---
 category: news
-title: "SyncWords Complements Its Machine Translations With Human and AI Capabilities"
-excerpt: "SyncWords, the leading live captioning and translation services provider is thrilled to announce SyncWords Offline, which includes human tr"
-publishedDateTime: 2022-08-16T12:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9656612.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9656612.htm"
+title: "Syncwords Complements Its Machine Translations With Human And AI Capabilities'"
+excerpt: "SyncWords has been the leading captioning and translation services provider in the media industry for over 20 years.. While SyncWords Live can be used as a primary tool to help deaf and hard-of-hearing audiences,"
+publishedDateTime: 2022-08-16T14:40:00Z
+originalUrl: "https://menafn.com/1104704287/Syncwords-Complements-Its-Machine-Translations-With-Human-And-AI-Capabilities"
+webUrl: "https://menafn.com/1104704287/Syncwords-Complements-Its-Machine-Translations-With-Human-And-AI-Capabilities"
 type: article
-quality: 31
-heat: 31
+quality: 50
+heat: 60
 published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "FL/sG4c8R3jxquPSOswwPoVj89tUOpuvJdGZct2U3+kUvIevY8Szk8Nv/teqkYRbADQjf8g4MOWNuv9frrPSLgcWw7dJ04ztHxvNYFv/+IwmEHB8Tr7dDh42ArceMaRPOP+ZyQeLkzmZ1qCqF7oq6etxtGAbKAlkb5Mbi6Vptqrf5JScCbO8+6ADWbDsJBIYn0e9ecawWQieJBIaS+yJCw6qxJ8igM63E5mz8/rDxWB1KWE9qKQEZmR8aJAx7N4lMn9QerzRLlnQGNwtJLrujrPRAJwd1qmhQMn4G18i+7gry7rttLCl+6tUwygwGNfw1/nU8i2MqYyIJ1FDAQDoFCFjosb8TzgQko+eQDaBAzc=;yiNm3ok0dQ3znmz1mxs8Tg=="
+images:
+  - url: "https://menafn.com/updates/pr/2022-08/16/PN_dd9c33f1-e_Image_In_Body.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+related:
+  - title: "The path to successful conversational AI capabilities"
+    excerpt: "From cloud chaos to clarity.” Conversational AI technologies are entering an era of hyper-personalized, multimodal assistants that are empathetic, inclusive, and immersive. Enterprises should take a gradual approach to conversational AI,"
+    publishedDateTime: 2022-08-15T13:24:00Z
+    webUrl: "https://www.technologyreview.com/2022/08/15/1057746/the-path-to-successful-conversational-ai-capabilities/"
+    type: article
+    provider:
+      name: MIT Technology Review
+      domain: technologyreview.com
+    quality: 17
+
+secured: "8kkuZLjcil9YGIztYFNxtUi+QJiLV9zOCRq/03uB5taKVXoSeQPMiTNELfuWM9ARJXUJhkP7qI+WLDmElmFrtfASGUKJCv3/7kdrh49V1nGNZhn47Jso+e5swEKvG0ALCDexuyMM6HzGb33CDfl9AJ15S7gp/A3lD3eay9Xfixjx8rKBjhZFF8QtpyxyNNAJSBVZ2GVTMo7kNciox+I67P6x7Jo2G+gKU7pXERTWHHETudjul4wPUgYr0kW1z2bxuXgBsUAyVJarneqcSS5OZwKvJwT0dNIgCwBstjG3XMi5uvwqdedtANfOMJePuWp9ynz5ztZMAA7kPQ/oofSO4EM0NkYbzojnUEwTvJGAQD8=;dg2aoOPMrQfNBSZoB6/8cg=="
 ---
 

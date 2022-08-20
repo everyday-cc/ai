@@ -119,6 +119,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "UK sets out roadmap for self-driving vehicle usage by 2025"
+    excerpt: "New laws for autonomous vehicles will make automakers responsible for the vehicle's actions when self-driving, not human drivers."
+    publishedDateTime: 2022-08-19T09:13:00Z
+    webUrl: "https://europe.autonews.com/automakers/uk-sets-out-roadmap-self-driving-vehicle-usage-2025"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 24
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Toyota%20automated%20behind%20wheel%20web.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Self-driving vehicles without onboard drivers to join UK roads from 2025"
     excerpt: "Self-driving vehicles used for public transport or deliveries could travel on UK roads without a qualified human driver onboard from 2025, according to government plans. Vehicles with some self-driving features,"
     publishedDateTime: 2022-08-19T14:36:00Z

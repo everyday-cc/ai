@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/broadcom-turbocharges-ai-and-ml-with-toma
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/broadcom-turbocharges-ai-and-ml-with-tomahawk-5/amp/"
 type: article
 quality: 106
-heat: 129
+heat: 126
 published: true
 
 provider:

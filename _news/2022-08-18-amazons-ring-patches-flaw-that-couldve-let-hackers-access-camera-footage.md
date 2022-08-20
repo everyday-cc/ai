@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Amazon's Ring Patches Flaw That Could've Let Hackers Access Camera Footage"
-excerpt: "The flaw required Ring users with Android devices to install a malicious app. The company quietly released a patch for the problem in May."
-publishedDateTime: 2022-08-18T15:41:00Z
-originalUrl: "https://uk.pcmag.com/home-security-cameras/142156/amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage"
-webUrl: "https://uk.pcmag.com/home-security-cameras/142156/amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage"
+excerpt: "Checkmarx researchers also took their proof-of-concept attack further by showing how Amazon’s own computer vision technology, called Rekognition, could be used to help an attacker quickly sift ..."
+publishedDateTime: 2022-08-18T15:51:00Z
+originalUrl: "https://au.pcmag.com/home-security-cameras/95736/amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage"
+webUrl: "https://au.pcmag.com/home-security-cameras/95736/amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage"
 type: article
 quality: 52
 heat: 52
@@ -23,11 +23,11 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_uk/news/a/amazons-ri/amazons-ring-patches-flaw-that-couldve-let-hackers-access-ca_9rcq.1200.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_au/news/a/amazons-ri/amazons-ring-patches-flaw-that-couldve-let-hackers-access-ca_qkxt.1200.jpg"
     width: 1200
     height: 675
     isCached: true
 
-secured: "kR5DqshdlzRGPMetioZcsWDV7ZJMBwBXkmjnHtKJ/bmkBmunzy2fGSAgeIt+hBuX0LrpXhY/o5XpyKqis7bettZmDIuqXHuHmKWNMpsvrC6RYZtqVxs1vMpMJGIHqZ7RPwu38euhTDXc0LR+ZEw2ruRyQM3Wd/MLdyHBJ27Eqb2JOfdJDWtgrLxPVaB7jTyb6Z5370CT+VCh/wlKBltFoQtxmEeqX8wG61kQGWwDam4R8zrr17roBvvxoQSbFZSv8mrsR80nEkNt3xCEn7OFod8yN6PwovIsy5dAI3FD3Ssw8jQLHKh7I1G8jwNJdZcOzkNECvIj/FZYFgGct8TW3dJwIaky0ck2xsYCEBRH1BOw1cygMqlCP8pMzToXnRofoOJhGN2p4chUintBuhXZPkaPYhM/4JeNmCfHorhFQAwDWM9VjYhnHOEek2K0sTRLvAPjK+ZWMrNxw2Tn49F/8NOsjREoFTFxun4BbpVgRYqDivPwBlZHQr5WB+fq7QxQ/Y2dWagyZnh5VDgiSgQ9rQ==;oZFjTSbWnSs2/IBxLT4Q0g=="
+secured: "xrX38NIWCvoiprOvZARMH943yGPTp/BI26CAO1GVaKtI6BOY8h7a3DP7TcvIL3ATHSggL468h2pFrV1+5fHl6oc8GgipvQ044GE41+LtZHgc35P/l+Slv8/zm4kbIqxH/2BTrBAuBSciYLUU/9/h/scMmR5Vxt3Ro8VFemAS62nA6YsKS5JWnDPjk/YR2DP/+3i60B6pL+pTdKypKSeBENFUQMzk7SgFOZfbRWg82x7MuZd01QhT6FyGIfqtD+Cz9bni2zno25u2gFB71CmcqMZmbAk/LAg4S2gRLcRv2V7B0Hr46+2/dEw33CrH0e7GtQYxu5syLl9UwqCIcgJKsVPhehIGXAdSzxgAb3M1GbE=;p7u76al11YSOaRjNEoV36A=="
 ---
 

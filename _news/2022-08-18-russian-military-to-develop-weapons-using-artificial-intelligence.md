@@ -38,6 +38,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Scientists doubt that DeepMind's AI is as good for fractional-charge systems as it seems"
+    excerpt: "DeepMind constructed a neural network based density functional designated as DM21, trained on fractional-electron systems, such as a hydrogen atom with half an electron."
+    publishedDateTime: 2022-08-15T14:20:00Z
+    webUrl: "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.html"
+    ampWebUrl: "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 65
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/scientists-doubt-that.jpg"
+        width: 512
+        height: 482
+        isCached: true
   - title: "Google’s Deepmind AI can create ‘3D’ videos based on a single image"
     excerpt: "Google’s Deepmind neural network is now able to create 30-second videos from a single image. Transframer, as the new tool is called, only needs one photo to work with as it starts identifying what is in the picture’s frame."
     publishedDateTime: 2022-08-19T09:50:00Z
@@ -51,20 +67,6 @@ related:
       - url: "https://static.independent.co.uk/2022/08/19/12/75.jpeg?quality=75&width=1200&auto=webp"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Scientists doubt that DeepMind's AI is as good for fractional-charge systems as it seems"
-    excerpt: "DeepMind constructed a neural network based density functional designated as DM21, trained on fractional-electron systems, such as a hydrogen atom with half an electron."
-    publishedDateTime: 2022-08-15T15:12:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/961844"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 45
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/839c7f64-ce32-4a74-89a8-cd6b09dee5d2/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 282
         isCached: true
 
 secured: "RRSU855/rAfghhFPcV9fW717XtfZnM169w+GEAPKt7mYx5p4kcJst9kworqbaKIUjbqx2y+VOWFt84XhK/EZiTiyOaEQy4vVzO9el5+pWm18+diZHg33Xi344HfU2qEnwlo68Fk4wAkIW4fh3bMgrwP4RJQse3g1QwvS8YF/1a1s/F/8UCVm1dofUQYEJQNLrmcEsdJE1Wr+ZaZjkpKo4aoZPQ7f/0r4RSCwBuouykUXIHlbyAUvxsWphPpjMQ13D7YTsH4YdMUd5fXn+Fyc6PrO9JOH33L7r1BktoTPoonSa5zq8l9QkfGO3lSKXvYk8R8PU4zb6A5NpTwd7pRekoDCILCpMiYbVX5miYJ+ALY=;T+lTOJDXWHZHzEJsc+5Guw=="
