@@ -2,7 +2,7 @@
 name: "Rethink Robotics"
 overview: "Rethink Robotics’ collaborative robots transform the way manufacturing work gets done on factory floors around the world. Our cobots can be deployed quickly, are designed to work safely alongside people, and are highly reliable, adaptable and easy-to-use. With a quick return on investment, manufacturers are increasingly turning to our Sawyer cobot as a smart solution to automate more while addressing challenges like labor shortages and productivity across industries such as plastics, packaging and co-packing, metal fabrication, electronics, and automotive supply chain."
 type: "profile"
-heat: 50
+heat: 31
 
 website: https://www.rethinkrobotics.com/
 
@@ -44,6 +44,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=DSy-NXSldz0"
 
-secured: "pMIgvQzuvXazeYa0JmCV95Jvh1bOZKlKm7g8+tiy8rp+89z4eeHio3ocSJpIFXIy8wesvM/mOMdMlGEuSkXPfe08x/9qyA4JF9DN7jqA+Xx+p+nWZHmVhsGXPS5ke7FhqppTxGdBgiilrwtVv2MYXocAscaTy1jA5isno4165rKSpF53Lsd9AisC6OMfdJgwBpEUPQKmJ5F9PSdC05Pb6ub8IpbLYYeIrR2szf7Cfsk2H6kWRzaZeCmwnQNd4KAHVWdceQpXWgpefzPXv36kl/q0ObJyw9Wjs7TO7cZvyFTCRtOG0nZyW7+pdJPy7ML6ZDvSsaK6kEn/Ck4sANLFQpQ3+ZYW+Ota/ge5tfls4AbtQUznVMN1Zo6w5ryznYFgrl053SQ5MzdovxbStpXfwgigT4ivGxWLyoYx5DJ6pHI=;uoLM/QuML5UGW2S25FYNoA=="
+secured: "1HlOHS5QbqLVyzU2EClCpI40JLPfVgXjgKKyX7P2arZkp/00YsuK2GoXR+k7+kcFJ5sMvYLmLVddn5iotDR2Mi036taYDcYjsbRAERSVHTL3QoZQHAPId/YW4p4styZy4XLL8iPf+ytA+bchGZUbiE9TtmVsG/TaW0gkBjYPXfNOJI0rgvhIbhyWqQV6eL0mPBbIwGty4Y5RvYG81/ZIrzOYlDvPPUzq8d6CrAeBrYEKRhx6HC+IETratIL001iKZ1LA94dsF9MTeqGdUvfZtGHRU1kcHJUoNB7Z4OlgOrfGFkLpgiCaNBOKxjSMutTUdi0VoxVpJD5s4F4xPFzfuC/tMysdcR0b4PosA+Ns4J9X+zki3sQ2xzfwO1oijpkrGs/vKTTgrGPsjyvGlned8fYAsMovalSiQ/tVS7N1bHY=;ngcBLgFaiwMN/HhJTDnGgQ=="
 ---
 

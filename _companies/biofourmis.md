@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 65
+heat: 58
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "gOxp7yJ9XqPH4Yy3xFTQYiwzlQZE8L4N9ojuK4qMMvFRcPmWIKn7M8Dw6LmBTx2l6mGe2sa4NANt3/hcfcrRV0Eaqg2x+LIYHrvarqQi+KoY2L04rvU2ZWJpPOXbcyjM8KCaeNG+cwN0ay3d6hCbjJVEr19oBMDp84Ga/Pwy5L4HSOKi9R/NH3tz6QZviaVfYvjp+grX2ZwmnULhE3JDeA43F/y+idwdSD/tzn3iDSVD2G5pxgyORYyQe9yW4rnY/dsgKSLYfDEbNNu21JjhgkINNI77F5Mqe04xIlsF/L4+hnqQf0xt8UHdCpQemyLgdPLAmTzzYpG09nwTqTlt0sDdMk9SlxLf5xXsbk4E8r1qs7irlr+vGDUVK6AaV6gNiELJr5GyRNHBwkWy5xxHQOtodVxvmpsymU6TVQeXItg=;bv1J+F4jhvAKgn4YuXQ7Jw=="
+secured: "O8zcpTFJSRBEioB7dDVys1Glkodc29aYXOJOpP7vcsUjB7uZxUGxrT5B3Jl2I0c5vqWQDV4j3RCNdf59S8JWZUulOI3n/snO8dKs33p6RGQ2HYQOrI39hAL7RiGFldSiaUpH+WSJcOIAhus/rjylnRwDbVWLDQicwfj2eH5rqFWz1Ob0lWfqcA1sI+GDfzcC1mB7iUBxC5q0x1kVWKEssSyoyWINNmKEpVpBNzSyXyphTI3SWp3A5y6ZZRrTGpbOTOGiQ7qdIugljjT1NtraWa1uSdZQuJ8/PBtsrm6BUmWDmUlkhv0dEkQPBo8JiOjc5xkcglOwlsC/0ZjKmvGAZGx7a6o4NqRY/jRb03kgnHci2RkV3DPyt96S/MlVfFsmlnH/bjxyqhJ8S5VyfdXByzXM5SzvNIyp+CvbmM8YnXQ=;C/cs31EjXnk18Jqqtlcxcg=="
 ---
 
