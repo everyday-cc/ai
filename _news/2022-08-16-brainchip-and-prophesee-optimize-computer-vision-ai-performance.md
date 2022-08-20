@@ -6,9 +6,6 @@ publishedDateTime: 2022-08-16T07:23:00Z
 originalUrl: "https://www.just-auto.com/uncategorized/brainchip-and-prophesee-optimize-computer-vision-ai-performance/"
 webUrl: "https://www.just-auto.com/uncategorized/brainchip-and-prophesee-optimize-computer-vision-ai-performance/"
 type: article
-quality: 54
-heat: 54
-published: false
 
 provider:
   name: Just Auto
@@ -18,12 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/shutterstock_796709485-1.jpg"
-    width: 500
-    height: 247
-    isCached: true
-
-secured: "VU0gQCwRGROT6na6TpLMPVGAEkSLJ0x9hZUrSjdVUq5FjOm1ZIBiiVmEGFmPhZlM8TAk3AA+06J1CYIzcXaTmU0o5XjyA0N22sjRMzatTQas+xUBiVLrO5RnHTjrhES1f6cPgMX4a0BEetvSaj17CZ8UBmriPzNITm4ESIE9TzKmBET9wzW+f7QbpozH9f/Dhu45nOSTjbrXaT0aG7rnEbSjwH0SU8AEWlC/EJEiQDMsy/r4WRrdAU/n4xvu/eWcTheAmzAQCA+c99JIPf9+RrdUH9+ZojpqQNsKb3Uf02uenbmUSAvZ9di9l63A+YON9MkC0HPrwP+/x8WVimwPslqEeOjYRIeiJWHPCljFoBc=;dL2aIIIdl1b340sqpzlv7Q=="
+secured: "Cw+TyKHh15Xyqjj4YOsF1gyORVsPllYH1mzk8w+B5GEWUZ419CQ8s1RywmkbatyqcMn38+631lG0W6m2JzAWm542rK7ZQUzLK3n5iCsEjHOm5bW87HRMqFYpDTTWLmUiHsN74N6FZh5ObudoQDtWO/FCjbGON3nrKP9zi4I/VMigrf1I1TMV9UEokUBjWOXy26b1KhKOdfZOZiOLv7FjgC/9pEw6zAGtsobAEc2TfkWnRQWdGC8CGMmtVAgee4fi/Rs9CggQ8ESqer2M/pnWSEnxov2LJdb6r9VCWh4ODECFqPAZ04CDqmdRo7p71SA/2F2WohMCnaoELzDQfXj0Ce9s0iBul2fyeBLa29yqzHs=;wk+8KkjjOGJr1Px4H76fJQ=="
 ---
 

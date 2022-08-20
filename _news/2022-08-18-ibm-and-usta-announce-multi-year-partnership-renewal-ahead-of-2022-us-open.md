@@ -6,9 +6,6 @@ publishedDateTime: 2022-08-18T11:31:00Z
 originalUrl: "https://menafn.com/1104718398/IBM-And-USTA-Announce-Multi-Year-Partnership-Renewal-Ahead-Of-2022-US-Open"
 webUrl: "https://menafn.com/1104718398/IBM-And-USTA-Announce-Multi-Year-Partnership-Renewal-Ahead-Of-2022-US-Open"
 type: article
-quality: 22
-heat: 22
-published: false
 
 provider:
   name: MENAFN
@@ -18,12 +15,6 @@ topics:
   - IBM AI
   - AI
 
-images:
-  - url: "https://menafn.com/updates/pr/2022-08/18/PN_6aa376ce-3_Image_In_Body.jpg"
-    width: 400
-    height: 267
-    isCached: true
-
-secured: "0TNpzTWQg6PT1AwGdwUdEyUYxAY2KRKUbvJffjHGxiT7iuS+PpGBTKV9G8BEBip+sHF4qQWxrw6DaGcuidyIbIMBItoRq4C/CySL1CvLY/nq3cQZ/FJAjj5mCpfeba/+SU01y2kBRHQ6ss3JSNghokppIYKSaaFnvQStI41zSAcKl4DuLqwdsDBwQSAXniviuz0y0mpSkU89HWR+LcDlcJfFI/OCdnXEkiaqpYl0C5nDs24wwSVaUqMxWj7ksvsTZR4Fwtap8wJjJihSwXZz2etUc5Fd96jiR73I+9nsBnodEhpbRuPBM8NP5VmKz4x1YypPshJb8QvIjRAe/3kM82zCq3lo+o234ivV4eMpx8I=;lQ+S1WvbBIx9+iQ5La8/uA=="
+secured: "b4WQ+fQh+ZPffQcfJSMzBkyXZTqIOb9ENsWBjO9d7u/GhWVXomh4VjsDThlzMnED1C6uHhliENYLEUZRtSnugL5v0x/0ISNlaz8cYwNeq7KZlgcyOiiSciUY442mLO/rOZcWi7LoAG+UhKCr5gaPGXbs0MjqnK/4Ebk9BEVcmclekKYFcFDHPOi6KRMliaJA2jltgvifx0CAUIOGqdsxe41+cf4XLvpIhCgPUcoDhtqflt3I1n38StH1ztMtQBmq2V9ue1qn32vJAOqjgc7lh/bkJymkM7V+P+JWfj8aWZWyhU8k85ZXnBJvtYRGvrtw6I9v+m8+dutYTc5F/rqFxtf534DPJvpOKAbEL3utzRw=;Dihkjnc5pZsnaKhCUQi3AQ=="
 ---
 
