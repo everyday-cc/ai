@@ -1,22 +1,28 @@
 ---
 category: news
-title: "Self-driving vehicles ‘on UK roads by 2025’ under new Government plans"
-excerpt: "Transport Secretary Grant Shapps has unveiled new Government plans to boost the rollout of self-driving technology."
-publishedDateTime: 2022-08-19T02:01:00Z
-originalUrl: "https://www.aol.com/self-driving-vehicles-uk-roads-230100796.html"
-webUrl: "https://www.aol.com/self-driving-vehicles-uk-roads-230100796.html"
+title: "Self-driving vehicles on UK roads by 2025 under new government plans"
+excerpt: "Self-driving vehicles could be on British roads by 2025 under new plans unveiled by the government and backed by a £100 million (RM530.5mil) investment to boost the rollout."
+publishedDateTime: 2022-08-20T04:00:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/20/self-driving-vehicles-on-uk-roads-by-2025-under-new-government-plans"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/20/self-driving-vehicles-on-uk-roads-by-2025-under-new-government-plans"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://apicms.thestar.com.my/uploads/images/2022/08/20/1704057.jpeg"
+    width: 1240
+    height: 795
+    isCached: true
 
 related:
   - title: "Self-driving vehicles planned for UK roads by 2025, but public trust is an issue"
@@ -141,20 +147,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Self-driving vehicles on UK roads by 2025 under new government plans"
-    excerpt: "Self-driving vehicles could be on British roads by 2025 under new plans unveiled by the government and backed by a £100 million (RM530.5mil) investment to boost the rollout."
-    publishedDateTime: 2022-08-20T04:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/20/self-driving-vehicles-on-uk-roads-by-2025-under-new-government-plans"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/20/1704057.jpeg"
-        width: 1240
-        height: 795
-        isCached: true
   - title: "Self-driving vehicles without onboard drivers to join UK roads from 2025"
     excerpt: "Self-driving vehicles used for public transport or deliveries could travel on UK roads without a qualified human driver onboard from 2025, according to government plans. Vehicles with some self-driving features,"
     publishedDateTime: 2022-08-19T14:36:00Z
@@ -187,6 +179,15 @@ related:
       name: Liverpool Echo
       domain: liverpoolecho.co.uk
     quality: 4
+  - title: "Self-driving vehicles ‘on UK roads by 2025’ under new Government plans"
+    excerpt: "Transport Secretary Grant Shapps has unveiled new Government plans to boost the rollout of self-driving technology."
+    publishedDateTime: 2022-08-19T02:01:00Z
+    webUrl: "https://www.aol.com/self-driving-vehicles-uk-roads-230100796.html"
+    type: article
+    provider:
+      name: AOL
+      domain: aol.com
+    quality: 4
   - title: "Self-driving cars: UK motorways change sparks AA warning amid new government plans"
     excerpt: "The Government has unveiled new plans which mean self-driving vehicles could be 'on UK roads by 2025' and they're backed by a £100 million investment to boost the rollout. Motorways could even see some cars,"
     publishedDateTime: 2022-08-19T13:53:00Z
@@ -206,6 +207,6 @@ related:
       domain: dailyrecord.co.uk
     quality: 0
 
-secured: "Gtc0xSpkspSu3xd9e37vrSkJqZrU7uM+ct4jhtlNqRBwps0eRfcdNwvAJ3BAVBzboG7NrvuYsClh0hl+rXX2ewaU8DE+94ABacyuyAbQjSPj/Ax6TjQNJaYe7nCzrskxEPUgdoK+G/gKGEBINhJo4XhxUpxp7ul+Nw8Q5BC5qJfrE8wQfNKVBp5WOdam8JccVp+lapwV4ySKpNUfpjdLKTk/5kgPsm3ZrjhoPOKtMFG8sZ9yPfUpTwk6++Eip7iTyIW1TrRJCp8zQTD56tVpzJR4ii/3PMbeLhSF9PY47Ji3Vf/AMFcJXlz54A6fs+xjjNfDSsbDxooTsak1GgBKOBmmDuybVe+EXP884IErIUgJFZwPKyLV1OtgDW++NyH7EP42dn5rp3Qk9BdTFfUML6hzhmCaXrJ2YZ5xLJvJMsPz4wtcd+/Nj7ijzexpCzyHG28i4iwYaXy5H7ymtTUB+Puw1yUkNAYvh29zi85cNoUmUasGIqUr/XqyRNzHvGuFlBK7CPxw/aLIU1H2USf+8Q==;CHaogf4nQEhx6aH/K1uBbw=="
+secured: "laFJodoyGL9mUXyEHUk4/PX1EFdR1uE0fAXfXtD/XvlYQI8m3cW33iL/6RaeT4kCQ14fyTnUjq7PPMOB2xx0rK3dkQ4x6WNUqu4xuOoK/op3zE9ddXliGNPK9pcYQE2GV0OwQyViVFImznQKE/5xYQG5g+jw5uT3poN8IsEsc5bpDfzLhakSLtYIhuQfW43HptKFOGOCy6VUyzYreUrYV0lXbWl1X3cWZ+SVqa8Gfit7X0L6pH35Ls+JMaQasgcVt9bFHGt+NeB7JCZ5uf0Uno8gXFqUk9fBdZqCeTGQRpmQ6VQtIfGfahUmCfTCmmvUGBz5iqVSo7fV2vNzOBSQw4rXEoKNJoWWGIFnfKpYgHU=;qeoAFNzau3kx8RiLIktRkA=="
 ---
 

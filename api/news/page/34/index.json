@@ -2,6 +2,58 @@
   "page": 34,
   "value": [
     {
+      "path": "_news/2022-07-20-look-whats-happening-tomorrow-at-tc-sessions-robotics.md",
+      "title": "Look what’s happening tomorrow at TC Sessions: Robotics",
+      "excerpt": "Who’s ready for robots? Tomorrow, July 21, is the big day when the global community of people who live, breathe and build robots gather to talk about the latest developments in the field and get a look at demos of the newest robotics products and artificial intelligence applications.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/",
+      "originalUrl": "https://techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/TC22_Sessions_Robotics_Wordpress-Post-Header_1-Days-Left-Early-Bird-Countdown_1200x628.png?w=1024",
+          "width": 1024,
+          "height": 535,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/amp/",
+      "publishedDateTime": "2022-07-20T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-5-best-ai-stocks-to-invest-in-2022.md",
       "title": "5 Best AI Stocks to Invest In 2022",
       "excerpt": "Today’s technology world has been dominated by artificial intelligence in many areas, such as self-driving cars, high-tech computing, enterprise solutions, robotics, and disaster recovery solutions, just to name a few.",
@@ -1067,58 +1119,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-together-amd-pensando-and-xilinx-advance-their-roadmaps.md",
-      "title": "Together, AMD, Pensando, And Xilinx Advance Their Roadmaps",
-      "excerpt": "This format can deliver 8x more AI performance, which competes favorably with how Nvidia is using reduced precision floating-point math in its Hopper GPU. AMD’s open-source ROCm software will ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/",
-      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d8528da7572ca2299391bd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/07/20/together-amd-pensando-and-xilinx-advance-their-roadmaps/amp/",
-      "publishedDateTime": "2022-07-19T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

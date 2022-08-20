@@ -57,14 +57,19 @@ related:
         height: 1015
         isCached: true
   - title: "OK Google, get me a Coke: AI giant demos soda-fetching robots"
-    excerpt: "Alphabet Inc's Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
-    publishedDateTime: 2022-08-17T02:45:00Z
-    webUrl: "https://www.reuters.com/technology/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-2022-08-16/"
+    excerpt: "Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
+    publishedDateTime: 2022-08-16T18:27:00Z
+    webUrl: "https://www.ksl.com/article/50458756/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
+      name: KSL
+      domain: ksl.com
+    quality: 54
+    images:
+      - url: "https://img.ksl.com/slc/2889/288904/28890475.JPG?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
   - title: "OK Google, get me a Coke: AI giant demos soda-fetching robots"
     excerpt: "Alphabet Inc.'s Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
     publishedDateTime: 2022-08-19T13:03:00Z

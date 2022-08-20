@@ -1,25 +1,28 @@
 ---
 category: news
 title: "OK Google, get me a Coke: AI giant demos soda-fetching robots"
-excerpt: "Alphabet Inc's Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
-publishedDateTime: 2022-08-17T02:45:00Z
-originalUrl: "https://www.reuters.com/technology/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-2022-08-16/"
-webUrl: "https://www.reuters.com/technology/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-2022-08-16/"
+excerpt: "Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
+publishedDateTime: 2022-08-16T18:27:00Z
+originalUrl: "https://www.ksl.com/article/50458756/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots"
+webUrl: "https://www.ksl.com/article/50458756/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots"
 type: article
-quality: 47
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Reuters
-  domain: reuters.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: KSL
+  domain: ksl.com
 
 topics:
+  - AI in Robotics
   - AI
+
+images:
+  - url: "https://img.ksl.com/slc/2889/288904/28890475.JPG?filter=kslv2/responsive_story_lg"
+    width: 1228
+    height: 690
+    isCached: true
 
 related:
   - title: "Ok Google, Get Me A Soda! Take A Look At The AI Giant Soda-Fetching Robots"
@@ -75,6 +78,6 @@ related:
       domain: gmanetwork.com
     quality: 34
 
-secured: "5KJRoBub2zSqf86DksYRD/C6POthKs55/aDPSH9SMmJAM0MJm0GAeuAOusIAD2m5ZUAmOEDNc8EeyOHUZJh7M9blXJtORXdi9t5CT1vpH760Nbr1+Ph0CvSrq1eu3U8tXzmcIT+e1ChKYJnZs/W1P0ydRrKWQYx7WSRPcgfINJ/smQ+3OWheqKIEbnkXl6BA0V273xFWz420wc96nopyqkgIq/5rLaAa8vohdR/rXT499diJB4R0T42e9RemLfXyi1YJdlrW5RBAo9K8quC1rjEumyQZon/iov7hG+I9N1WB+sZoxQJsFIxqo41zb9lghhlquTpwu0slJHGngDS7pYzkXYZkn9X8e965NnXaoVYSueR89q4dWosHoUGuTvIOHGjgztrA78iOK7QKdtiG1H1dH8r/9sY7DA7xQJkqny8e1IF2sMUhRqDot3pzwFLgh9yhzZCjOUxdbMB9es5Hjq8QyC6syuaPg/7lrg0I8aarVATGOGoHNapXPCLiLAumuvHUcEve0urKYVD4EU0QKQ==;6k8yLlYezfpsMzTf9yeiJg=="
+secured: "h+jjiLKxxURXoTAeJLqlVkhnL9HVCFqEqxgq0fgeciaMYqx92qmQ59GyHL2pfIpQSu7c6nUiq2H84eDGFzpgbquB6c/0LRYfY04J+AIpdnqKk40MX3OO5YMMaow+srziTq+dk1f45dTTuYeVoideR1fyKkUyFXrw4PURt/uYSol+2xLuI8CJ1Ju7qxRjnkxB2AvQ+h1/ZK4BeidWizqc8C25XNQchz/iSeem5jjsDrIvp9Z1XFEHeGEB2YE85jL68pzACKNPEEBCfOWQtbJ6pwjurVygReGe6ld1mGsuYgTkeX2GX6GtuZ5y7f2Ua0iZWG5IAel5809oVmsihL2zkIHMtnRMqLTWnE++xUUB3kY=;KXo3T7lEE5tuu8xSmMhq4g=="
 ---
 

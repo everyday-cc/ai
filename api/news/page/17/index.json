@@ -2,6 +2,49 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-08-03-neural-networks-youve-got-it-so-easy.md",
+      "title": "Neural Networks: You’ve Got It So Easy",
+      "excerpt": "And so it was Scientific American magazine’s September 1992 special issue on Mind and Brain that introduced me to neural networks, both the biological and artificial kinds. Back then you had the ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2017/04/24/neural-networks-youve-got-it-so-easy/",
+      "originalUrl": "https://hackaday.com/2017/04/24/neural-networks-youve-got-it-so-easy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://hackaday.com/wp-content/uploads/2017/04/neural_network_books-featured.jpg",
+          "width": 1110,
+          "height": 560,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-03-juneaus-first-ukrainian-refugees-receive-special-recognition-from-the-city.md",
       "title": "Juneau’s first Ukrainian refugees receive special recognition from the city",
       "excerpt": "The pair, who are the first refugees from the war in Ukraine to seek haven in Juneau, received a special recognition at the beginning of the CBJ Assembly meeting and gave a short speech that ...",
@@ -1101,58 +1144,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-googles-ai-lab-deepmind-offers-gift-to-humanity-with-protein-structure-solution.md",
-      "title": "Google’s AI Lab, DeepMind, Offers ‘Gift to Humanity’ with Protein Structure Solution",
-      "excerpt": "Then DeepMind came along. The artificial intelligence lab, which is a subsidiary of Google’s parent company Alphabet, had set its sights on solving the longstanding “grand challenge” within ...",
-      "sourceUrl": null,
-      "webUrl": "https://time.com/6201423/deepmind-alphafold-proteins/?product=crx&version=1.0",
-      "originalUrl": "https://time.com/6201423/deepmind-alphafold-proteins/?product=crx&version=1.0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://time.com/img/icons/wallet-connect.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T06:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Time",
-        "domain": "time.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/time.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

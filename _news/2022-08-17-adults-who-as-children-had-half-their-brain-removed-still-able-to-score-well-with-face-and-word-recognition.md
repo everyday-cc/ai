@@ -26,17 +26,6 @@ images:
     height: 432
     isCached: true
 
-related:
-  - title: "People with half a brain removed do well at face and word recognition"
-    excerpt: "Adults who had the left or right hemisphere of their brain removed as children to treat epileptic seizures had accuracy scores of over 80 per cent on word and face recognition tasks"
-    publishedDateTime: 2022-08-15T12:32:00Z
-    webUrl: "https://www.newscientist.com/article/2333604-people-with-half-a-brain-removed-do-well-at-face-and-word-recognition/"
-    type: article
-    provider:
-      name: New Scientist
-      domain: newscientist.com
-    quality: 19
-
 secured: "EuanUOaXs+PX1V7DzXkXP4N814iINC6MB9lPBTfKDzK3WgU/O5pomSNRZ8u51ACYcz0fSoAAcg0RzEIqAqwek3aXDGlo7KAkzwCkK3a7yoqYXe+y5bqmPaK1G04lD1mtlp9ZFKnur/fPq3BGq9nYUVePUUzLln5l9EkBMh3NSgKrDwmSqydwlAO8pZ1gE7esYZ3KEdC2qESgx3/oYJDE81rAIUrzpLWmQWoycjIgFd+nLdEPepN0njcXlCWlB2Ug+EO4EgLSIbnbbGWW101vKurzSzL19g3uO/Gv+0W/yCEf0AUz6/dYP+DlxrusE5ILXAjn+7gjKOjHRSlIsYBASo5VkeCb1uojMyTX6Xll9NjmLSfuYBTgNYWPWle4XSRZwwNGRkshLGKNEunkXtVH/ypRjydWR+eJUESAA2Nh9hB5Zx0qGrKbA2F0xZNnK6L09rKnDOy7vLAddqv0WIPiRhYtZ9Eh4nMCJq/fdxV6Y+N2SSS3kaz3tAU9uDx+Cewudh7O+mtU0Ngf1w+s7H+gEg==;QTokBTtwik8a6ZrSPfVgzg=="
 ---
 

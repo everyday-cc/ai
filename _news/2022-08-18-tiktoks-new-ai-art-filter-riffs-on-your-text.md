@@ -90,15 +90,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "TikTok now offers a very basic text-to-image AI generator directly in the app"
-    excerpt: "The output of TikTok’s system is pretty basic compared to that of state-of-the-art text-to-image models like Google’s Imagen, OpenAI’s DALL-E 2, or Midjourney’s eponymous software. It creates only rather abstract and swirling images;"
-    publishedDateTime: 2022-08-15T12:03:00Z
-    webUrl: "https://www.theverge.com/2022/8/15/23306101/tiktok-ai-greenscreen-filter-text-to-image-mainstream"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 44
   - title: "Made-Up Words Trick AI Text-To-Image Generators"
     excerpt: "Specially crafted patterns can fool face recognition systems. So one scientist designed special nonsense words to see whether they could trick text-to-image generators."
     publishedDateTime: 2022-08-16T16:00:00Z

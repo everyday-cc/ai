@@ -26,31 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "Dronedek Partners with Facial Recognition Provider Scylla"
-    excerpt: "Dronedek Partners with Facial Recognition Provider Scylla Aug 15, 2022 (PRNewswire via COMTEX) -- PR Newswire INDIANAPOLIS, Aug. 15, 2022 INDIANAPOLIS,"
-    publishedDateTime: 2022-08-15T12:43:00Z
-    webUrl: "https://www.marketwatch.com/press-release/dronedek-partners-with-facial-recognition-provider-scylla-2022-08-15"
+  - title: "Mexican soccer removes face biometrics from Fan ID security scheme"
+    excerpt: "The deployment of the face biometrics tool was intended to identify those involved with violence and prevent them from entering stadiums."
+    publishedDateTime: 2022-08-19T20:29:00Z
+    webUrl: "https://www.biometricupdate.com/202208/mexican-soccer-removes-face-biometrics-from-fan-id-security-scheme"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 41
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
+        width: 2048
+        height: 1333
         isCached: true
-  - title: "Facial Recognition Makes its Way to Dronedek Mailboxes"
-    excerpt: "Dronedek announced a partnership with facial recognition provider Scylla to bring facial recognition to its mailboxes."
-    publishedDateTime: 2022-08-18T15:47:00Z
-    webUrl: "https://www.iotevolutionworld.com/iot/articles/453249-facial-recognition-makes-its-way-dronedek-mailboxes.htm"
-    ampWebUrl: "https://www.iotevolutionworld.com/iot/articles/453249-facial-recognition-makes-its-way-dronedek-mailboxes.htm/amp"
-    cdnAmpWebUrl: "https://www-iotevolutionworld-com.cdn.ampproject.org/c/s/www.iotevolutionworld.com/iot/articles/453249-facial-recognition-makes-its-way-dronedek-mailboxes.htm/amp"
-    type: article
-    provider:
-      name: iotevolutionworld.com
-      domain: iotevolutionworld.com
-    quality: 54
 
 secured: "cRUfaZSkEWnAEFn0WTxHHrZYszm4esaf5IQNRr+afQOBKa+QRQw+XWSBUFxauczzSR/9F3WkJCZCC8x6DA8/Vvdw4cXfmKvn+npxnnWCtNyW6qJeDlcxLQJVguYfwJRgb1lx9hqWjxENaPYgcheIObXbxvjocceS2h9zrpCVreNXv1P21Qf4d7DkcqJ3qDGAXKAeULtCRU+18Z28QLM0sXV30+rmAFbjm8aAStF1bTbD4ak6sr+aNmy/Co8tNVvK6bUOeBNy0M0uFOGNjSNIPox/1NsIehh1VxPYXels0JNCMr+uoAoonj7R2gQlXye/kdaYSytwlqq+Gy1KZ+R1C/WcticnGI5CXNUp8nr+PEkN1x72DbKM+xQW+93/PRtG3IbkN19Rs4jLs5kXjIIcJsOPwO5dvNGNCP01hhzOJ3rmaUXrumgZyo9Isw1/EW+1nh0Ih09BEGs23GUH4gR+JAzEKu6tp5yD+vJ2smZoXkZ7o/Gc5XGaiqF1ehLR2j1Wzddia2MaelqZ/iErzapq3g==;sbC2geQAhNySGXhNk5j3Cw=="
 ---

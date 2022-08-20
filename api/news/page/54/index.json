@@ -2,6 +2,49 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2022-07-02-driverless-car-traffic-jam-as-robotaxis-shutdown-block-street-for-hours-before-employees-arrive-to-move-vehicles.md",
+      "title": "Driverless car traffic jam as robotaxis shutdown & block street for HOURS before employees arrive to move vehicles",
+      "excerpt": "A BUSY interchange in San Francisco was brought to a standstill after a fleet of malfunctioning driverless cars blocked traffic for hours. The swarm of Cruise Robotaxis stalled vehicles on Gough ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.co.uk/tech/19069713/driverless-robotaxis-block-street-hours/",
+      "originalUrl": "https://www.thesun.co.uk/tech/19069713/driverless-robotaxis-block-street-hours/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/07/OFFPLAT_TRP_ROBOTAXI-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/tech/19069713/driverless-robotaxis-block-street-hours/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19069713/driverless-robotaxis-block-street-hours/amp/",
+      "publishedDateTime": "2022-07-02T05:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-02-reddit-acquires-natural-language-processing-pioneer-meaningcloud.md",
       "title": "Reddit Acquires Natural Language Processing Pioneer MeaningCloud",
       "excerpt": "Reddit has acquired MeaningCloud, a natural language processing company. The acquisition will help Reddit support its machine learning products across its products. The MeaningCloud deal aligns ...",
@@ -1055,49 +1098,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-vladimir-suvorov-artificial-intelligence-will-have-its-place-in-art.md",
-      "title": "Vladimir Suvorov: ‘Artificial Intelligence Will Have its Place in Art.’",
-      "excerpt": "I met Vladimir Suvorov, the founder of Van Der Bot, at the Armenia Art Fair of Contemporary Art, held in the end of May. What he presented was beyond imagination — a contemporary robot artist named Van Der Bot,",
-      "sourceUrl": null,
-      "webUrl": "https://mirrorspectator.com/2022/07/01/vladimir-suvorov-artificial-intelligence-will-have-its-place-in-art/",
-      "originalUrl": "https://mirrorspectator.com/2022/07/01/vladimir-suvorov-artificial-intelligence-will-have-its-place-in-art/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mirrorspectator.com/wp-content/uploads/2022/07/Artsvi-e1656685306566.jpeg",
-          "width": 300,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-01T07:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Armenian Mirror-Spectator",
-        "domain": "mirrorspectator.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

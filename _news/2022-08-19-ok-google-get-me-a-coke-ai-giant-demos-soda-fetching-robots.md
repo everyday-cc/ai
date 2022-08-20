@@ -63,14 +63,19 @@ related:
       domain: usnews.com
     quality: 67
   - title: "OK Google, get me a Coke: AI giant demos soda-fetching robots"
-    excerpt: "Alphabet Inc's Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
-    publishedDateTime: 2022-08-17T02:45:00Z
-    webUrl: "https://www.reuters.com/technology/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-2022-08-16/"
+    excerpt: "Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
+    publishedDateTime: 2022-08-16T18:27:00Z
+    webUrl: "https://www.ksl.com/article/50458756/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 47
+      name: KSL
+      domain: ksl.com
+    quality: 54
+    images:
+      - url: "https://img.ksl.com/slc/2889/288904/28890475.JPG?filter=kslv2/responsive_story_lg"
+        width: 1228
+        height: 690
+        isCached: true
 
 secured: "fN2QDJb8SLJPBkbN4ESLrOdj8GqQz2BpYKfyl62iaDtxrn5rqrwt+MtCK1R3/PB6xJtds8OGWFsaMjFc1ugMVU3iJ1dEyKY5SRIqw8aOmuc9q1k9Ww8M5tyakUPxPAzacWstgEKonyLjeMgrJm9a+NqY1wV/Lh3R+plbRvFWhX0asnHzCDljpUkntP23fM7VVarubSf9e4lHP4c3areLmx/ht5+jOZqrHZaHflOAmXy1rDxfywRNyXomueY/46Jm6WoRvNrVY3dubpZUQ2Ao8UCpuI+WhanUNcP0NWnR/t1BGIt6ng49bOtbMtT3fJTD02hxOSxQ3HHquyrJCsbCJ9y0lju/lnusxDScf7A2IwE=;/qfMnodCTgjrPs2yGYrzYg=="
 ---

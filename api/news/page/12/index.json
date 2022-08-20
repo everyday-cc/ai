@@ -2,6 +2,48 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-08-07-for-vigil-over-lac-india-develops-ai-driven-drone-read-here.md",
+      "title": "For vigil over LAC, India develops AI-driven drone. Read here",
+      "excerpt": "The Hindustan Aeronautics Ltd is developing AI-driven multi-role, advanced and long-endurance drones as India prepares to step up vigilance strategically in high-altitude areas including along the fro",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here-11659869620462.html",
+      "originalUrl": "https://www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here-11659869620462.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/08/07/600x338/f68e242c-d90e-11eb-a90e-4c7450222fea_1625059314853_1659869903884_1659869903884.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here/amp-11659869620462.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/india/for-vigil-over-lac-india-develops-ai-driven-drone-read-here/amp-11659869620462.html",
+      "publishedDateTime": "2022-08-07T04:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-07-metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical.md",
       "title": "Meta’s New AI Bot Says “Mark Zuckerberg’s Practices Are Not Always Ethical”",
       "excerpt": "Meta’s new AI bot said that chief Mark Zuckerberg’s “practices are not always ethical”. Furthermore, it also said that the founder of Facebook can be “creepy and controlling”. BlenderBot 3, a chatbot which is powered by artificial intelligence,",
@@ -1113,58 +1155,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot.md",
-      "title": "Facebook Parent Meta Wants You to Converse With Its New AI-Powered Chatbot",
-      "excerpt": "Sitting in front of a computer screen, I'm typing messages to a new chatbot created by Facebook's parent company Meta. We talk about pizza, politics and even social media. \"What do you think about Facebook?",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/social-media/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/",
-      "originalUrl": "https://www.cnet.com/news/social-media/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 277,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/3abc51f996503ec0faa83f567236fed169e31f5c/2022/05/16/06eca44f-31a2-4125-bb40-44bdda74f935/meta-with-facebook-emoji-reaction-faces-blue.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot/",
-      "publishedDateTime": "2022-08-05T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

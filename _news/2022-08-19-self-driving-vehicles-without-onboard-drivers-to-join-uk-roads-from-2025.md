@@ -147,6 +147,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Self-driving vehicles on UK roads by 2025 under new government plans"
+    excerpt: "Self-driving vehicles could be on British roads by 2025 under new plans unveiled by the government and backed by a £100 million (RM530.5mil) investment to boost the rollout."
+    publishedDateTime: 2022-08-20T04:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/20/self-driving-vehicles-on-uk-roads-by-2025-under-new-government-plans"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 24
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/20/1704057.jpeg"
+        width: 1240
+        height: 795
+        isCached: true
   - title: "Self-driving cars to hit UK roads by 2025 under government plans"
     excerpt: "UK Transport Secretary has announced a £100m investment to boost the rollout of autonomous vehicles on the country's roads."
     publishedDateTime: 2022-08-19T12:07:00Z

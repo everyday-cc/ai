@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-20-are-you-making-these-deadly-mistakes-with-your-ai-projects.md",
+      "title": "Are You Making These Deadly Mistakes With Your AI Projects?",
+      "excerpt": "You need enough, but not too much. “Goldilocks data” is what people often say: not too much, not too little, but just right. Unfortunately, far too often, organizations are jumping into AI projects without first addressing an understanding of their data.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/20/are-you-making-these-deadly-mistakes-with-your-ai-projects/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/20/are-you-making-these-deadly-mistakes-with-your-ai-projects/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62ffdc7f74be310fb95f25ec/0x0.jpg?format=jpg&crop=3000,1689,x0,y74,safe&width=1200",
+          "width": 1200,
+          "height": 676,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/20/are-you-making-these-deadly-mistakes-with-your-ai-projects/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/20/are-you-making-these-deadly-mistakes-with-your-ai-projects/amp/",
+      "publishedDateTime": "2022-08-19T22:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-20-john-carmacks-agi-startup-raises-20m-from-sequoia-nat-friedman-patrick-collison-and-others.md",
       "title": "John Carmack’s AGI startup raises $20M from Sequoia, Nat Friedman, Patrick Collison and others",
       "excerpt": "John Carmack, the game developer who co-founded id Software and served as Oculus's CTO, is working on a new venture -- and has attracted capital from big names.",
@@ -313,7 +364,7 @@
       "originalUrl": "https://venturebeat.com/data-infrastructure/nvidia-will-disclose-grace-hopper-architectural-details-at-hot-chips/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 124,
       "tags": null,
       "images": [
         {
@@ -564,7 +615,7 @@
       "originalUrl": "https://www.zdnet.com/article/self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 199,
+      "heat": 209,
       "tags": null,
       "images": [
         {
@@ -711,7 +762,7 @@
       "originalUrl": "https://techcrunch.com/2022/08/19/otter-ai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1190,58 +1241,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-can-conversational-ai-reduce-nlp-model-training-yellow-ai-has-a-plan.md",
-      "title": "Can conversational AI reduce NLP model training? Yellow AI has a plan",
-      "excerpt": "DynamicNLP eradicates the need for enterprises to go through the time-consuming process of manually labeling data to train a conversational AI bot.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/can-conversational-ai-reduce-nlp-model-training-yellow-ai-has-a-plan/",
-      "originalUrl": "https://venturebeat.com/ai/can-conversational-ai-reduce-nlp-model-training-yellow-ai-has-a-plan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1404154730.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/can-conversational-ai-reduce-nlp-model-training-yellow-ai-has-a-plan/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/can-conversational-ai-reduce-nlp-model-training-yellow-ai-has-a-plan/amp/",
-      "publishedDateTime": "2022-08-18T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

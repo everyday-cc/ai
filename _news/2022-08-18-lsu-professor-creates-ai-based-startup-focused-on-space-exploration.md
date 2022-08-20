@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessreport.com/business/lsu-professor-creates-ai-bas
 cdnAmpWebUrl: "https://www-businessreport-com.cdn.ampproject.org/c/s/www.businessreport.com/business/lsu-professor-creates-ai-based-startup-focused-on-space-exploration?amp=1"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 1365
     height: 768
     isCached: true
+
+related:
+  - title: "ASTERRA’s new satellite based PolSAR technology uses AI for eco-friendly exploration of lithium"
+    excerpt: "ASTERRA announced a patent filing on advancements in using PolSAR-based technology for lithium exploration that will greatly accelerate the identification of lithium deposits."
+    publishedDateTime: 2022-08-15T17:52:00Z
+    webUrl: "https://spaceref.com/space-commerce/asterras-new-satellite-based-polsar-technology-uses-ai-for-eco-friendly-exploration-of-lithium/"
+    type: article
+    provider:
+      name: SpaceRef
+      domain: spaceref.com
+    quality: 27
+    images:
+      - url: "https://media2.spaceref.com/wp-content/uploads/2022/08/15135158/Screen-Shot-2022-08-15-at-1.51.28-PM.png"
+        width: 1099
+        height: 663
+        isCached: true
 
 secured: "NTLGFTmyC9/SM126NSJetWvCckeCHmw5A3X359L8YYxpGrlUXRkKpfHK15T7xo0gNdU0BX5cpq1ABlWDE5KtdXx8GmYaJmzWw6Gi4jzOM6Xp0DQrgU0RFCuq4HDYJc391GkdP9w+R9FF6q7HPcFFLheHFU4qep9ZmMKqbnmlD7inTqZ7KrBp6C47MXwWJrhfu/hb2dz27HucfFCQ0SI7KxzrUEJymCE/Hp4wkrQrH8jX/DHLDj7qX+7cUjK5S8WWzfy5j77wkzWQLPgGs2Ugqft66zHkZyBT+IHnTq9ldl4wafswPHNG1xlHpcJC6lfYElI2j2eSWseLij8bZGqKwmXo+YdlZRDO8pRihbJLnMolpjiU4iLwfq+1vTBaz9VCw2nMubG0/ame4lgqR67Otauq/RS9mUAmZGh02akmI4zuC1oCoYqT+NGq1ptau/n0jbTNxyM/mFDvyehc3yF011AkBXtO9ORZBj6bRSTCyOtYIrRjUlh+UwLhp7lSPMcV/mg8nrbaIO58GHovrxx1nw==;4+Ga8M5+YoEJY5nvRNavWQ=="
 ---

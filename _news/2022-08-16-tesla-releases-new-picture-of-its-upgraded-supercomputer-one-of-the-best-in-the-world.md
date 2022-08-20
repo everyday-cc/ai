@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/15/tesla-releases-picture-upgraded-super
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/15/tesla-releases-picture-upgraded-supercomputer/amp/"
 type: article
 quality: 83
-heat: 93
+heat: 83
 published: true
 
 provider:
@@ -30,17 +30,6 @@ images:
     width: 1200
     height: 628
     isCached: true
-
-related:
-  - title: "Tesla has seventh largest GPU supercomputer in the world, employee claims"
-    excerpt: "Tesla has claimed to now have the world’s seventh largest graphics supercomputer by GPU count. Tim Zaman, the company’s AI and Autopilot lead tweeted on Friday that: “We [Tesla] have recently upgraded our GPU supercomputer to 7,"
-    publishedDateTime: 2022-08-15T12:23:00Z
-    webUrl: "https://www.datacenterdynamics.com/en/news/tesla-has-seventh-largest-gpu-supercomputer-in-the-world-employee-claims/"
-    type: article
-    provider:
-      name: Datacenter Dynamics
-      domain: datacenterdynamics.com
-    quality: 50
 
 secured: "8dgyniySvNvpUoi4kYmcjaAxtsf19v3xxxkmql1xtEyDIK8DnoPzs5mfHMIUU2jyAbRhILgAHuCgwskQTWFZG8gVvVut99ACI45z1cApkEeOccN/DEp/T1qrlni9a1tLOHPxlCbnR0Hv56gV77xIpxe/S4gJ/pD5eYF7IH11O5enlLXmog3uFHeIWUj9uRw42Xvb7Z92Ke61s9BQKFJWI3k/xPABGfYMtHGQS9oy/4+HqULaZdxhYRFU8HbKF6Xm/HRM+A/QF6mbSyLRI3KFQN7Iph63xEv+B9GpUg5z6DmNX8ZyxreSML22COrxU6Foy9TqsMizeM3V5V5IGY9dtZD3gIsWegGajs0tbTYi0eF81R/3vFGLXd51QkpIZRKzUrcFuX1TA4P9SsymZIdIWsgmtkOtLnk2bmZ7XyNxa76+caOxrc+49PYTc7Ya/SlLeqp9LeIL0a/G/WVIiT5zkCl85rhDdVc9bvPXgUhz5Q/Z6aldBP//XOHlXRMYv+gMNeC0X9mPiL6DQJnN+3ngEQ==;+zZu1EHzCVxmRLZ+BHj9Ow=="
 ---

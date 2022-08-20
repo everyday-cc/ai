@@ -2,6 +2,40 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-13-pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research.md",
+      "title": "Pearl Named 2022 \"Hot Vendor\" in Computer Vision by Aragon Research",
+      "excerpt": "Pearl, the global leader in dental AI solutions, announced today that it has been included on the 2022 list of \"Hot Vendors\" in Computer Vision i by Aragon Research, Inc. The firm’s report identifies vendors whose technology provides transformative capabilities that revolutionize the way businesses interact with customers.",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-12-pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-12-pearl-named-2022-hot-vendor-in-computer-vision-by-aragon-research",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-12T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-13-this-startup-is-setting-a-dall-e-2-like-ai-free-consequences-be-damned.md",
       "title": "This startup is setting a DALL-E 2-like AI free, consequences be damned",
       "excerpt": "A startup, Stability AI, wants to open source the AI tech behind image generation systems like DALL-E 2. That could open a huge can of worms.",
@@ -777,6 +811,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-12-hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics.md",
+      "title": "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics",
+      "excerpt": "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across the technical areas of cognitive AI,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-12T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai.md",
       "title": "Tata Elxsi brings new age solutions for driverless cars, connected vehicles and more: Tata Elxsi CMO Nitin Pai",
       "excerpt": "Stressing on the success of Tata Elxsi products and initiatives that fuse domain, digital and design to deliver powerful use cases, he said TETHER Aut..",
@@ -869,49 +946,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics.md",
-      "title": "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics",
-      "excerpt": "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across",
-      "sourceUrl": null,
-      "webUrl": "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4",
-      "originalUrl": "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://preview.thenewsmarket.com/Previews/kiam/StillAssets/960x540/563394_v3.jpg",
-          "width": 1164,
-          "height": 657,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T23:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The NewsMarket",
-        "domain": "thenewsmarket.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     },
     {
@@ -1152,50 +1186,6 @@
         "AI",
         "AI in Security",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-facebook-robot-brands-mark-zuckerberg-as-creepy-and-manipulative.md",
-      "title": "Facebook robot brands Mark Zuckerberg as ‘creepy and manipulative’",
-      "excerpt": "FACEBOOK supremo Mark Zuckerberg is “creepy and manipulative” — according to one of his own chatbots. The AI program, trained to have conversations like humans, also encouraged users to ditch",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/",
-      "originalUrl": "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/08/NINTCHDBPICT000732452672-1.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/19487727/facebook-robot-mark-zuckerberg-creepy/amp/",
-      "publishedDateTime": "2022-08-11T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

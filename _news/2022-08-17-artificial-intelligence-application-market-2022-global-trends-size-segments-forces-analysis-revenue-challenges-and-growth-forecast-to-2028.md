@@ -82,6 +82,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 2
+  - title: "Self-Driving Car Market Size 2022 Share Estimation, Top Players Updates, Consumer-Demand, Developments Plans, Industry Impact And Forecast Till 2031"
+    excerpt: "Kenneth Research added a report on  Self-Driving Car Market  into the repository of market research reports. The report includes"
+    publishedDateTime: 2022-08-16T06:03:00Z
+    webUrl: "https://menafn.com/1104701138/Self-Driving-Car-Market-Size-2022-Share-Estimation-Top-Players-Updates-Consumer-Demand-Developments-Plans-Industry-Impact-And-Forecast-Till-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?642885"
+        width: 408
+        height: 250
+        isCached: true
   - title: "National award for Sheffield researchers who revolutionised teaching for the next generation of speech language therapists"
     excerpt: "Sheffield researchers who revolutionised teaching for the next generation of speech and language therapists during the pandemic have been recognised with a prestigious national award."
     publishedDateTime: 2022-08-19T12:27:00Z

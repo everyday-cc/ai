@@ -88,6 +88,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 2
+  - title: "Self-Driving Car Market Size 2022 Share Estimation, Top Players Updates, Consumer-Demand, Developments Plans, Industry Impact And Forecast Till 2031"
+    excerpt: "Kenneth Research added a report on  Self-Driving Car Market  into the repository of market research reports. The report includes"
+    publishedDateTime: 2022-08-16T06:03:00Z
+    webUrl: "https://menafn.com/1104701138/Self-Driving-Car-Market-Size-2022-Share-Estimation-Top-Players-Updates-Consumer-Demand-Developments-Plans-Industry-Impact-And-Forecast-Till-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?642885"
+        width: 408
+        height: 250
+        isCached: true
 
 secured: "5j7+cD2bmvvrBdA8jn8f0It1wUG7X63DOgV/u3sxwfITo67EZ6OjY9MQmz1bZsvhiMDbp5uHEsn9GiHrGZy2Pibi1t7Hq/GwMx9LH/lju63wDn1VlabYURosufbxJTihQAzSDP5bcPuLly4wORHsNwLiKljz1iGuJDv1dF60nmSC5vGZsmBlnISvEwC2iKfTN8WE+ZdJOfZQiSyfRR5C7kl2Jz6XSA3gj1BxNFh88EhF+iALqZdvZT95RpwLicEUZqDXuwWoMt/1Y48T3FBoH8G6zJ9ajq/Tvrc4M5K47oOtL0otfeaXYadlSMWNf1zbTyN+PBpiB1mF6OZ0g0U1onpBuPOUjFlJztNCWEtF++qF/FhYQOEjKYRFZg/AdoFweLuIT+I2/4OFApV3c8ojQIQpOp0VACj7QHrj9nbmamjwMuiFO1y6lV1lMzFiiPEGZ0M9KyexcU2FdriMVlaUcfrkwjgqtirUgw+mV77zp7UKy2x+e4Yl1deMT+UBDTQEhQ9hAyPxz6xMUM+V17LDDw==;jLE6zrhNxZFju+xGVpvTEg=="
 ---

@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "NVIDIA's next-gen Hopper GPU will be detailed at Hot Chips next week"
+    excerpt: "NVIDIA will be detailing its next-gen Hopper GPU architecture at Hot Chips 2022, where NVIDIA engineers will be speaking during four talks across two days at the event. NVIDIA will have a senior distinguished engineer who will lift a bit more of the veil ..."
+    publishedDateTime: 2022-08-20T05:19:00Z
+    webUrl: "https://www.tweaktown.com/news/88042/nvidias-next-gen-hopper-gpu-will-be-detailed-at-hot-chips-week/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 49
 
 secured: "PIdhAwNPPyIWxXvNmxj/XMt1KxTGzYiRhsJiwVzLYkYpidI0Vv9l+TzqRQd0uN4EgWyVd4YEbJ3EyLOtqvXvDjTZNaQJFQag6GEZ2vVKjtFp9kAPAOirLo8Frl6FA71CIQWIZ2wIlcS2CgUahq+NNwp4XAT14A4wGmzgaStPEopdXsYNEfl1j5h6TJwlxTEUIUh5Gm3PlDT02m5rYa9hDUY49PgG4Cy+R2w4NLfJHk0ZoPrP3dZb8JQVuPu8a6Rd1vbqTcbsqx8cEy3ua8fOiFIwAPh9BH0T8C6YLPXenw+iIaEzIZ2PgmS8DVG+9rn3fJmqr9mid6YJ8ULuDcNWqmfTyaAuwNU5Hlj0aancs90=;BE1OdYB0yTZbzxtRfUSkig=="
 ---

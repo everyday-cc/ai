@@ -2,6 +2,58 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2022-06-12-google-engineer-on-leave-after-he-claims-ai-program-has-gone-sentient.md",
+      "title": "Google Engineer On Leave After He Claims AI Program Has Gone Sentient",
+      "excerpt": "Artificially intelligent chatbot generator LaMDA wants “to be acknowledged as an employee of Google rather than as property,\" says engineer Blake Lemoine.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?ncid=engmodushpmg00000004",
+      "originalUrl": "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?ncid=engmodushpmg00000004",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 679,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/62a56658250000461b473745.jpeg?cache=IyXMvacHho&ops=1778_1000",
+          "width": 1778,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp",
+      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp",
+      "publishedDateTime": "2022-06-12T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-12-amazon-halts-police-use-of-its-facial-recognition-technology.md",
       "title": "Amazon Halts Police Use Of Its Facial Recognition Technology",
       "excerpt": "In its statement, Amazon officials say the company supports federal regulation for its algorithm-driven facial recognition software, known as Rekognition. \"We hope this one-year moratorium might ...",
@@ -1091,49 +1143,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but-is-it-art.md",
-      "title": "Give this AI a few words of description and it produces a stunning image – but is it art?",
-      "excerpt": "(THE CONVERSATION) A picture may be worth a thousand words, but thanks to an artificial intelligence program called DALL-E 2, you can have a professional-looking image with far fewer. DALL-E 2 is ...",
-      "sourceUrl": null,
-      "webUrl": "https://napavalleyregister.com/lifestyles/technology/give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but/article_398d9fd2-3b6c-5100-9c71-a945663a00f7.html",
-      "originalUrl": "https://napavalleyregister.com/lifestyles/technology/give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but/article_398d9fd2-3b6c-5100-9c71-a945663a00f7.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/custom/image/f675bdee-c549-11ea-98b6-631770e8cea7.jpg?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-10T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Napa Valley Register",
-        "domain": "napavalleyregister.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
