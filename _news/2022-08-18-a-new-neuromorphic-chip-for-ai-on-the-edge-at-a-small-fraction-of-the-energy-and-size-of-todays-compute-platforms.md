@@ -53,22 +53,6 @@ related:
         width: 1024
         height: 614
         isCached: true
-  - title: "Can a human with a spinal cord injury walk and run? Discovering clues with neuromorphic technology"
-    excerpt: "An international research team led by Prof. Tae-Woo Lee (Department of Materials Science and Engineering, Seoul National University, Republic of Korea) and Prof. Zhenan Bao (Department of Chemical Engineering,"
-    publishedDateTime: 2022-08-15T15:36:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-human-spinal-cord-injury-clues.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-08-human-spinal-cord-injury-clues.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-human-spinal-cord-injury-clues.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 30
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/can-a-human-with-a-spi.jpg"
-        width: 899
-        height: 441
-        isCached: true
   - title: "Researchers Develop Graphene-based Synaptic Transistor for Neuromorphic Devices"
     excerpt: "Recently, researchers from the University of Texas and Sandia National Laboratories announced the development of a graphene-based transistor that exhibits properties similar to neurons."
     publishedDateTime: 2022-08-18T16:08:00Z

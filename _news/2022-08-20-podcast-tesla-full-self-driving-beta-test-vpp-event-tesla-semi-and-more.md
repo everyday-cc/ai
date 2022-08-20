@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi/amp/"
 type: article
 quality: 87
-heat: -1
-published: false
+heat: 157
+published: true
 
 provider:
   name: Electrek
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "We tested Tesla Full Self-Driving Beta in the Blue Ridge Mountains, and it was scary"
-    excerpt: "Beta in the Blue Ridge Mountains in North Carolina, and it was a scary experience. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system, but the driver needs to remain vigilant and ready to take control at all times."
-    publishedDateTime: 2022-08-15T16:02:00Z
-    webUrl: "https://electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/"
-    ampWebUrl: "https://electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 97
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Full-Sefl-Driving-Beta-Blue-Ridge-Mountain-Test.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Autonomous? Nope. California moves against Tesla’s ‘full self-driving’ claim"
     excerpt: "The California DMV has become the first US government entity to formally move against the naming of \"full self-driving.\" Here's what's happening."
     publishedDateTime: 2022-08-16T11:17:00Z
@@ -63,15 +47,6 @@ related:
         width: 1975
         height: 1110
         isCached: true
-  - title: "Watch Out Tesla And Waymo! Lyft Debuts Self-Driving Vehicle In Las Vegas"
-    excerpt: "Ride-hailing service Lyft Inc. (NASDAQ: LYFT) has teamed up with Motional to bring self-driving taxis to cities around the nation, starting with Las Vegas."
-    publishedDateTime: 2022-08-16T19:28:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/watch-out-tesla-and-waymo-lyft-debuts-self-driving-vehicle-in-las-vegas-1031688162"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
   - title: "How California could force Tesla to drop the name ‘full self-driving’"
     excerpt: "Full self-driving,” the controversially named driver-assist feature from Tesla, may have finally met its match."
     publishedDateTime: 2022-08-15T18:27:00Z

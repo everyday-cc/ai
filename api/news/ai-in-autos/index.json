@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-20-podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi-and-more.md",
+      "title": "Podcast: Tesla Full Self-Driving Beta test, VPP event, Tesla Semi, and more",
+      "excerpt": "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. This week, we discussed our Tesla Full Self-Driving Beta test, Tesla’s first VPP event,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi/",
+      "originalUrl": "https://electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi/amp/",
+      "publishedDateTime": "2022-08-19T12:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue.md",
       "title": "Self-driving vehicles planned for UK roads by 2025, but public trust is an issue",
       "excerpt": "Report warns that driverless cars will need to be 100 times safer than human drivers for the public to accept them as they do trains or airplanes.",
@@ -106,49 +158,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-18-driverless-lyfts-come-to-the-las-vegas-strip-with-a-catch.md",
-      "title": "Driverless Lyfts Come to the Las Vegas Strip (With a Catch)",
-      "excerpt": "Innovations big and small are happening up, down, and under the Las Vegas Strip. Elon Musk's Boring Co. has been building a network of tunnels under the city that will eventually use driverless Tesla  (TSLA)  electric vehicles to ferry people all over the city.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/the-las-vegas-strip-gets-a-major-new-innovation",
-      "originalUrl": "https://www.thestreet.com/investing/the-las-vegas-strip-gets-a-major-new-innovation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg4NzU1NTY3OTMyNjE0MTc2/boring-company.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/the-las-vegas-strip-gets-a-major-new-innovation",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/the-las-vegas-strip-gets-a-major-new-innovation",
-      "publishedDateTime": "2022-08-17T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-17-your-health-new-technology-for-artificial-intelligence.md",
       "title": "Your Health: New technology for artificial intelligence",
       "excerpt": "Scientists are developing technology for artificial intelligence that will allow it to work even in remote areas. From autonomous vehicles to drones to medical equipment, it’s all cutting-edge technology that requires connection to the cloud.",
@@ -190,6 +199,49 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-watch-out-tesla-and-waymo-lyft-debuts-self-driving-vehicle-in-las-vegas.md",
+      "title": "Watch Out Tesla And Waymo! Lyft Debuts Self-Driving Vehicle In Las Vegas",
+      "excerpt": "Ride-hailing service Lyft Inc. (NASDAQ: LYFT) has teamed up with Motional to bring self-driving taxis to cities around the nation, starting with Las Vegas.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/watch-out-tesla-and-waymo-lyft-debuts-self-driving-vehicle-in-las-vegas-1031688162",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/watch-out-tesla-and-waymo-lyft-debuts-self-driving-vehicle-in-las-vegas-1031688162",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1371,40 +1423,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-us-lawmakers-set-their-sights-on-reviving-self-driving-car-legislation.md",
-      "title": "US lawmakers set their sights on reviving self-driving car legislation",
-      "excerpt": "As self-driving technologies begin to hit the market, new laws need to be enacted to create order at a federal level. Now, self-driving vehicles are getting a boost from legislators in the House of Representatives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbtnews.com/us-lawmakers-set-their-sights-on-reviving-self-driving-car-legislation/",
-      "originalUrl": "https://www.cbtnews.com/us-lawmakers-set-their-sights-on-reviving-self-driving-car-legislation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T01:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "cbtnews",
-        "domain": "cbtnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

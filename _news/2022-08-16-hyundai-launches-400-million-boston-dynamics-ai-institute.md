@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hyundai Motor Group launches Boston Dynamics AI Institute to spearhead advancements in Artificial Intelligence & robotics"
-    excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new instituteThe Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across the"
-    publishedDateTime: 2022-08-15T15:22:00Z
-    webUrl: "https://www.suasnews.com/2022/08/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics/"
-    ampWebUrl: "https://www.suasnews.com/2022/08/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics/"
-    cdnAmpWebUrl: "https://www-suasnews-com.cdn.ampproject.org/c/s/www.suasnews.com/2022/08/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics/"
-    type: article
-    provider:
-      name: SUAS News
-      domain: suasnews.com
-    quality: 79
-    images:
-      - url: "https://i0.wp.com/www.suasnews.com/wp-content/uploads/2020/12/hyundai-AAM-plans.jpg?fit=1200%2C822&#038;ssl=1"
-        width: 1200
-        height: 822
-        isCached: true
   - title: "Hyundai Motor Group Launches New AI Institute to Build Better Robots for the Future"
     excerpt: "Hyundai Motor Group announced the launch of Boston Dynamics AI Institute (the Institute), which will work toward making strides in artificial intelligence (AI), robotics, and intelligent machines. The"
     publishedDateTime: 2022-08-19T22:21:00Z
@@ -75,20 +59,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Hyundai invests in AI, software research centres"
-    excerpt: "Mr Raibert said in a statement the new institute will “invest resources across the technical areas of cognitive AI, athletic AI and organic hardware design, with each discipline contributing to progress in advanced machine capabilities”."
-    publishedDateTime: 2022-08-15T16:54:00Z
-    webUrl: "https://www.just-auto.com/news/hyundai-invests-in-ai-software-research-centres/"
+  - title: "Boosted.ai Launches Hedge Baskets for Boosted Insights"
+    excerpt: "With the addition of Hedge Baskets, Boosted Insights now lets portfolio managers bring hedging capabilities in-house. Investors can easily generate short baskets that are: Intelligent, using machine learning to find single stock hedges that offset idiosyncratic risks unique to a portfolio Transparent,"
+    publishedDateTime: 2022-08-17T12:30:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-17-boostedai-launches-hedge-baskets-for-boosted-insights"
     type: article
     provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 39
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/06/shutterstock_1803136597-1.jpg"
-        width: 500
-        height: 223
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 17
 
 secured: "unhk4vDYpIcGpHyUwomXsP087FpJAvIEtFVioG16G+ixvaO1KWLOVhO9sbWdRaFX1uYoxGSZJ+vn1yB+WDz19OfaXySV4vP2Uo4MX5TZZFEbu5UyWPqPp36avawIPzNFh+5s7pv81CWrv8lc8zzsn5f9QPeSWcqTeE3XHj2ENZEBZCbTVdleqEEpF0bebqD6W+DQQmulmau0wmo6dwfz77z4JCPkwjxmQE12o/tbAOUw85J6OHkW05+qtg90lpoQAIrKvDbyOx7Hm4/gS8D/QdMcmuXcpFY7q3wq6w0KHCOLuelFbEyDCxPL5gbpbOEJ2e8Fp5+7kvQPVMtXE7mEhGHtI+/9H9kIU6SY1yV8wMs5lBOvbuwufEaccKSrChN1D14pU9j7vSY1vwmsTWqcXkbVB5FKaDsTYHN3TI+hO4Lib1YrQj7gwW9221UWlq+HdmiWwXVRM3MKk/kgY+ByfgDNhVecMKw0BunOKSGNMKC238SvnVxU0iDYKar8xbqnGg2iRPEVwfGD+pHOv8jJMg==;d82gEguKGkMEj6HSp7t5gQ=="
 ---

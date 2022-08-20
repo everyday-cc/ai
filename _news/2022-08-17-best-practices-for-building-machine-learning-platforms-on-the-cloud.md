@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/best-practices-for-building-machine-learn
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/best-practices-for-building-machine-learning-platforms-on-the-cloud/amp/"
 type: article
 quality: 91
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -32,6 +32,22 @@ images:
     isCached: true
 
 related:
+  - title: "The case for online learning"
+    excerpt: "Betty Vandenbosch, chief content officer for Coursera, shares her views on how the Internet is accelerating the era of online education"
+    publishedDateTime: 2022-08-20T08:26:00Z
+    webUrl: "https://www.thehindu.com/education/the-case-for-online-learning/article65776251.ece"
+    ampWebUrl: "https://www.thehindu.com/education/the-case-for-online-learning/article65776251.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/education/the-case-for-online-learning/article65776251.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 44
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/ig940y/article65785220.ece/alternates/LANDSCAPE_615/22EPBS_Page%201%20lead_Soma%20Basu.jpg"
+        width: 615
+        height: 383
+        isCached: true
   - title: "UTA developing bilingual immersive learning platform in additive manufacturing"
     excerpt: "Shuchisnigdha Deb, assistant professor in the Department of Industrial, Manufacturing, and Systems Engineering (IMSE), is using virtual reality technology to develop a bilingual (English/Spanish) immersive learning environment for students to better understand the field of additive manufacturing."
     publishedDateTime: 2022-08-18T00:00:00Z

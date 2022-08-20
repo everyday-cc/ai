@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thestreet.com/.amp/investing/the-las-vegas-strip-gets-a-
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/the-las-vegas-strip-gets-a-major-new-innovation"
 type: article
 quality: 59
-heat: 89
-published: true
+heat: -1
+published: false
 
 provider:
   name: TheStreet.com
@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Watch Out Tesla And Waymo! Lyft Debuts Self-Driving Vehicle In Las Vegas"
+    excerpt: "Ride-hailing service Lyft Inc. (NASDAQ: LYFT) has teamed up with Motional to bring self-driving taxis to cities around the nation, starting with Las Vegas."
+    publishedDateTime: 2022-08-16T19:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/watch-out-tesla-and-waymo-lyft-debuts-self-driving-vehicle-in-las-vegas-1031688162"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "Self-driving Lyfts will cruise the Vegas strip by early 2023"
     excerpt: "Residents and visitors of Las Vegas will be able to hail a new, fully autonomous “robotaxi” earlier than its makers anticipated. According to an official press release from Lyft, the popular ride-sharing company and its partners at the self-driving startup,"
     publishedDateTime: 2022-08-17T14:00:00Z
@@ -73,6 +82,15 @@ related:
         width: 917
         height: 600
         isCached: true
+  - title: "California DMV accuses Tesla of false advertising with autopilot, self-driving features"
+    excerpt: "The California Department of Motor Vehicles has accused Tesla of false advertising in promoting its “full self-driving” and “Autopilot” features for cars."
+    publishedDateTime: 2022-08-16T19:12:00Z
+    webUrl: "https://www.washingtontimes.com/news/2022/aug/16/california-dmv-accuses-tesla-false-advertising-aut/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 11
 
 secured: "9oA1Nihd02IU16OO/kKCdARL/2jNx+AYeyGtiD03GymG7b17d1uPI+WXbwLRQQU8h8UpgszzNkXUxKdvoPbgAYFmwhIcLEd/rdheoEPyPXfslhww6ClSH5cSGEhN1QCiH05peaLRAzEAFxPegygdioaw8EwoY2mn4yV4aGj6dnMCDyTkuVQFosi+UNuUm1ZUQFqCoiJT1YDylG+LpnS1QYNYo7jgVF1+Ptqj/8smeiBuBFyc8r7BFre4SkAxRST+sbSfHwrPfbOpgaK3jsXdot0w16mGpl3IXPnj6n9GBcMga7TfVtPZJez3j1TW25aKwvMoTxeL+Qe98qUoBje42DwhhjrMewC/LS2l/AxrXdxc9Q4lYUWhGmFLl5R/dXMPG1QguePV3oc88CBN/0MbboUgAI4+nyt6jw38h6ruh6ej25EbgEciApDM/JoZqQf2C0KPH/Bwu1GzHnp15f1Tv7c8hZ9cWL5NLZOXjGsRxf43yOOOWVcIyRZIGwJI9jQBEbr3wvp6QKcQfIgxBtFDzw==;sf2OGeMKscR2OGlQWkDyXQ=="
 ---

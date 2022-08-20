@@ -64,22 +64,6 @@ related:
         width: 1024
         height: 614
         isCached: true
-  - title: "Can a human with a spinal cord injury walk and run? Discovering clues with neuromorphic technology"
-    excerpt: "An international research team led by Prof. Tae-Woo Lee (Department of Materials Science and Engineering, Seoul National University, Republic of Korea) and Prof. Zhenan Bao (Department of Chemical Engineering,"
-    publishedDateTime: 2022-08-15T15:36:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-human-spinal-cord-injury-clues.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-08-human-spinal-cord-injury-clues.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-human-spinal-cord-injury-clues.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 30
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/can-a-human-with-a-spi.jpg"
-        width: 899
-        height: 441
-        isCached: true
   - title: "UC San Diego: A New Neuromorphic Chip for AI on the Edge, at a Small Fraction of the Energy and Size"
     excerpt: "An international team of researchers has designed and built a chip that runs computations directly in memory and can run a wide variety of AI applications–all at a fraction of the energy consumed by computing platforms for general-purpose AI computing."
     publishedDateTime: 2022-08-19T07:05:00Z

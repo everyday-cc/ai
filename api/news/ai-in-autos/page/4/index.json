@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-27-soccer-refereeing-and-artificial-intelligence.md",
+      "title": "Soccer refereeing and artificial intelligence",
+      "excerpt": "AI and technology can help us to alleviate some errors in critical match incidents, but a referee-less soccer game, like driver-less cars? Unlikely.",
+      "sourceUrl": null,
+      "webUrl": "https://www.socceramerica.com/publications/article/93033/soccer-refereeing-and-artificial-intelligence.html?edition=27970",
+      "originalUrl": "https://www.socceramerica.com/publications/article/93033/soccer-refereeing-and-artificial-intelligence.html?edition=27970",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.amazonaws.com/media.socceramerica.com/dam/cropped/2021/04/26/referee-art-whistle-kw.PNG",
+          "width": 600,
+          "height": 308,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Soccer America",
+        "domain": "socceramerica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-chinese-carmakers-jostle-for-edge-in-autonomous-driving.md",
       "title": "Chinese carmakers jostle for edge in autonomous driving",
       "excerpt": "Shenzhen published a new set of rules which will allow autonomous commercial driving services to be offered in the tech hub from next month. That includes fully autonomous cars if such technology ever comes to fruition and meets safety requirements.",
@@ -1251,49 +1294,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-driverless-tractors-are-here-and-thats-just-the-beginning-for-the-future-of-farming.md",
-      "title": "Driverless tractors are here, and that's just the beginning for the future of farming",
-      "excerpt": "\"We launched the first driverless tractor that actually ... Camera images also run through an artificial intelligence process that recognizes humans, animals, equipment and other dangerous obstacles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/driverless-tractors-thats-just-beginning-143500389.html",
-      "originalUrl": "https://www.aol.com/news/driverless-tractors-thats-just-beginning-143500389.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

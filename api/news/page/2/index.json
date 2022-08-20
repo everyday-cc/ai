@@ -2,6 +2,143 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-19-googles-deepmind-ai-can-transframe-a-single-image-into-a-video.md",
+      "title": "Google’s DeepMind AI can ‘transframe’ a single image into a video",
+      "excerpt": "Earlier this week, the team behind Google’s advanced DeepMind neural network unveiled a new ability dubbed Transframer, which allows AI to generate 30-second videos from a single image input. It’s a nifty little trick at first glance,",
+      "sourceUrl": null,
+      "webUrl": "https://www.popsci.com/technology/one-image-video-deepmind/",
+      "originalUrl": "https://www.popsci.com/technology/one-image-video-deepmind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.popsci.com/uploads/2022/08/18/deepmind-ai-video-from-image.jpg?auto=webp",
+          "width": 2000,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.popsci.com/technology/one-image-video-deepmind/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/one-image-video-deepmind/?amp",
+      "publishedDateTime": "2022-08-18T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Popular Science",
+        "domain": "popsci.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-the-three-true-robotic-startup-outcomes.md",
+      "title": "The three true robotic startup outcomes",
+      "excerpt": "Allow me to borrow a phrase from baseball for a moment. If you follow the sport, you’re likely aware of the concept of the “three true outcomes.” They are, specifically, a home run, a strikeout, and a walk.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/",
+      "originalUrl": "https://techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/pYcC1goDf3wvfku_.2022-08-11-12_31_38.gif",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/amp/",
+      "publishedDateTime": "2022-08-18T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-dead-woman-talks-to-shocked-mourners-at-her-own-funeral-using-ai.md",
+      "title": "Dead woman talks to ‘shocked’ mourners at her own funeral — using AI",
+      "excerpt": "Just when mourners thought they’d said goodbye to 87-year-old Marina Smith forever, stunned funeral-goers got more than they bargained for when the sad day rolled around July 29. Smith, who died in June,",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/08/18/dead-woman-talks-to-mourners-at-her-own-funeral-in-holographic-video/",
+      "originalUrl": "https://nypost.com/2022/08/18/dead-woman-talks-to-mourners-at-her-own-funeral-in-holographic-video/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/08/newspress-collage-23508915-1660838991819.jpg?quality=75&strip=all&1660825649&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2022/08/18/dead-woman-talks-to-mourners-at-her-own-funeral-in-holographic-video/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/08/18/dead-woman-talks-to-mourners-at-her-own-funeral-in-holographic-video/amp/",
+      "publishedDateTime": "2022-08-18T09:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-can-conversational-ai-reduce-nlp-model-training-yellow-ai-has-a-plan.md",
       "title": "Can conversational AI reduce NLP model training? Yellow AI has a plan",
       "excerpt": "DynamicNLP eradicates the need for enterprises to go through the time-consuming process of manually labeling data to train a conversational AI bot.",
@@ -327,21 +464,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-18-fintech-smilepay-introduces-face-payments-in-azerbaijan.md",
-      "title": "Fintech SmilePay Introduces Face Payments in Azerbaijan",
-      "excerpt": "SmilePay has reportedly entered agreements with food retailers in Azerbaijan to allow consumers to purchase their groceries using their faces.",
+      "path": "_news/2022-08-18-amazon-testing-new-tiktok-style-feature-on-its-app-ai-firm-says.md",
+      "title": "Amazon testing new TikTok-style feature on its app, AI firm says",
+      "excerpt": "The feature, called Inspire, allows customers to like, save and share posts of products, and purchase items directly from the feed.",
       "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/08/194877-fintech-smilepay-introduces-face-payments-in-azerbaijan/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/08/194877-fintech-smilepay-introduces-face-payments-in-azerbaijan/",
+      "webUrl": "https://www.whas11.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049",
+      "originalUrl": "https://www.whas11.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/02/Happy-Smile-Flag-Ocean-Shore-Water.jpg",
-          "width": 1280,
-          "height": 1039,
+          "url": "https://media.whas11.com/assets/CCT/images/e3e15506-7b16-49cb-8cc1-aff6d305ea71/e3e15506-7b16-49cb-8cc1-aff6d305ea71_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -349,13 +486,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/08/194877-fintech-smilepay-introduces-face-payments-in-azerbaijan/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/08/194877-fintech-smilepay-introduces-face-payments-in-azerbaijan/amp/",
-      "publishedDateTime": "2022-08-17T20:24:00-07:00",
+      "ampWebUrl": "https://www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049",
+      "cdnAmpWebUrl": "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049",
+      "publishedDateTime": "2022-08-17T20:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
+        "name": "WHAS11 News",
+        "domain": "whas11.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -365,9 +502,8 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Finance"
+        "Facebook AI",
+        "AI"
       ]
     },
     {
@@ -420,49 +556,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-new-chip-ramps-up-ai-computing-efficiency.md",
-      "title": "New chip ramps up AI computing efficiency",
-      "excerpt": "Stanford engineers created a more efficient and flexible AI chip, which could bring the power of AI into tiny edge devices.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/962314",
-      "originalUrl": "https://www.eurekalert.org/news-releases/962314",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/2446fc24-c632-4f41-9db4-e0991ff11cbe/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     },
     {
@@ -557,49 +650,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-driverless-lyfts-come-to-the-las-vegas-strip-with-a-catch.md",
-      "title": "Driverless Lyfts Come to the Las Vegas Strip (With a Catch)",
-      "excerpt": "Innovations big and small are happening up, down, and under the Las Vegas Strip. Elon Musk's Boring Co. has been building a network of tunnels under the city that will eventually use driverless Tesla  (TSLA)  electric vehicles to ferry people all over the city.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/investing/the-las-vegas-strip-gets-a-major-new-innovation",
-      "originalUrl": "https://www.thestreet.com/investing/the-las-vegas-strip-gets-a-major-new-innovation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg4NzU1NTY3OTMyNjE0MTc2/boring-company.jpg",
-          "width": 620,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/investing/the-las-vegas-strip-gets-a-major-new-innovation",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/the-las-vegas-strip-gets-a-major-new-innovation",
-      "publishedDateTime": "2022-08-17T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
@@ -1010,7 +1060,7 @@
       "originalUrl": "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -1053,7 +1103,7 @@
       "originalUrl": "https://venturebeat.com/ai/best-practices-for-building-machine-learning-platforms-on-the-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1139,59 +1189,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-the-role-of-ethics-in-the-evolving-world-of-marketing-ai.md",
-      "title": "The Role Of Ethics In The Evolving World Of Marketing AI",
-      "excerpt": "Marketing today requires a delicate balance between engaging smart, predictive technologies, such as ML and AI, and honoring the ethical standards that build trust between brands and customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-role-of-ethics-in-the-evolving-world-of-marketing-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-role-of-ethics-in-the-evolving-world-of-marketing-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 191,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f135ac5e7a94fea526433e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-role-of-ethics-in-the-evolving-world-of-marketing-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-role-of-ethics-in-the-evolving-world-of-marketing-ai/amp/",
-      "publishedDateTime": "2022-08-17T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

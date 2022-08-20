@@ -2,6 +2,136 @@
   "page": 58,
   "value": [
     {
+      "path": "_news/2022-06-30-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
+      "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
+      "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/humanreasondriving.jpg",
+          "width": 639,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-reflections-from-ethics-and-safety-on-the-ground-at-deepmind.md",
+      "title": "Reflections from ethics and safety ‘on the ground’ at DeepMind",
+      "excerpt": "Boxi shares their experiences working as a program specialist on the ethics & society team to support ethical, safe and beneficial AI development, highlighting the importance of interdisciplinary and sociotechnical thinking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/reflections-from-ethics-and-safety-on-the-ground-at-deepmind",
+      "originalUrl": "https://www.deepmind.com/blog/reflections-from-ethics-and-safety-on-the-ground-at-deepmind",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-the-metaverse-in-2040.md",
+      "title": "The Metaverse in 2040",
+      "excerpt": "See our research on: Gun Policy | Economy | Abortion | Russia ... They believe the infusion of more data into people’s experiences, progress in artificial intelligence (AI) assistive systems and the creation of entirely new spaces and experiences ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pewresearch.org/internet/2022/06/30/the-metaverse-in-2040/",
+      "originalUrl": "https://www.pewresearch.org/internet/2022/06/30/the-metaverse-in-2040/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2022/06/PI_22.06.28_metaverse_featured.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pew Research Center",
+        "domain": "pewresearch.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-30-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
       "title": "China’s Baidu Races Waymo, GM to Develop Self-driving Cars",
       "excerpt": "A Counter­revolution in the Philippines: Marcos 2.0 With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the ...",
@@ -1032,135 +1162,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-spotify-is-developing-ai-tools-to-hook-users-on-music-creation.md",
-      "title": "Spotify Is Developing AI Tools To Hook Users On Music Creation",
-      "excerpt": "One tool will let you tweak a song’s rhythm or melody. Another can take the harmony of a pop song from, say, Justin Bieber or Drake and combine it with the melody and rhythm of a fugue by Schubert or Bach,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/williamhochberg/2022/06/29/spotify-is-developing-ai-tools-to-hook-users-on-music-creation/",
-      "originalUrl": "https://www.forbes.com/sites/williamhochberg/2022/06/29/spotify-is-developing-ai-tools-to-hook-users-on-music-creation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62b8f318993181ecf4b0235c/0x0.jpg?format=jpg&crop=2841,1895,x0,y232,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/williamhochberg/2022/06/29/spotify-is-developing-ai-tools-to-hook-users-on-music-creation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhochberg/2022/06/29/spotify-is-developing-ai-tools-to-hook-users-on-music-creation/amp/",
-      "publishedDateTime": "2022-06-29T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year.md",
-      "title": "Abnormal Security Recognized as the Winner of 2022 Microsoft Rising Azure Technology Partner of the Year",
-      "excerpt": "Abnormal Security, the leading behavioral AI-based email security platform, today announced it has won the 2022 Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/",
-      "originalUrl": "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/amp/",
-      "publishedDateTime": "2022-06-29T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-raystation-12a-brings-deep-learning-segmentation-for-all-users-as-well-as-new-features-for-brachytherapy.md",
-      "title": "RayStation 12A brings deep learning segmentation for all users as well as new features for brachytherapy",
-      "excerpt": "With the release of RayStation 12A, deep learning segmentation is available for everyone that is using RayStation for patient modeling. New and updated segmentation models will be released on a ...",
-      "sourceUrl": null,
-      "webUrl": "https://fox4kc.com/business/press-releases/cision/20220629IO04290/raystation-12a-brings-deep-learning-segmentation-for-all-users-as-well-as-new-features-for-brachytherapy/",
-      "originalUrl": "https://fox4kc.com/business/press-releases/cision/20220629IO04290/raystation-12a-brings-deep-learning-segmentation-for-all-users-as-well-as-new-features-for-brachytherapy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T06:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX4 Kansas City",
-        "domain": "fox4kc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

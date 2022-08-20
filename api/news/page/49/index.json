@@ -2,6 +2,137 @@
   "page": 49,
   "value": [
     {
+      "path": "_news/2022-07-07-rehab-boost-launches-advisory-board-appointing-seasoned-healthcare-executive-bruce-lawrence-chair.md",
+      "title": "Rehab Boost Launches Advisory Board Appointing Seasoned Healthcare Executive Bruce Lawrence Chair",
+      "excerpt": "Rehab Boost Launches Advisory Board Appointing Seasoned Healthcare Executive Bruce Lawrence Chair. MIAMI, July 7, 2022 /PRNewswire/ -- Rehab Boost Inc, a pioneer in artificial int",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobilitytechzone.com/lte/news/2022/07/07/9635083.htm",
+      "originalUrl": "https://www.mobilitytechzone.com/lte/news/2022/07/07/9635083.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobility Techzone",
+        "domain": "mobilitytechzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-meta-ai-machine-to-solve-language-barrier-in-africa-others.md",
+      "title": "Meta AI machine to solve language barrier in Africa, others",
+      "excerpt": "NLLB-200, a single AI machine that translates across 200 different languages, including 55 African languages with state-of-the-art results, has been",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/technology/article/meta-ai-machine-to-solve-language-barrier-in-africa-others/",
+      "originalUrl": "https://businessday.ng/technology/article/meta-ai-machine-to-solve-language-barrier-in-africa-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2022/07/Meta.png?resize=450%2C300&ssl=1",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessday.ng/amp/technology/article/meta-ai-machine-to-solve-language-barrier-in-africa-others/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/technology/article/meta-ai-machine-to-solve-language-barrier-in-africa-others/",
+      "publishedDateTime": "2022-07-07T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts.md",
+      "title": "Microsoft and AWS awarded Ukrainian peace prize for cloud efforts",
+      "excerpt": "AWS certainly has the means to support humanitarian ... cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital investment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/au/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts",
+      "originalUrl": "https://www.techradar.com/au/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-how-ai-can-boost-rural-connectivity-healthcare.md",
       "title": "How AI Can Boost Rural Connectivity & Healthcare",
       "excerpt": "The network solution called GigaMesh wirelessly provides fibre-like backhaul capacity and paves the road for 5G.",
@@ -1036,137 +1167,6 @@
         "AI",
         "Natural Language Processing",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here.md",
-      "title": "Xiaomi’s self-driving car spotted with a lidar sensor, will compete against Tesla: Details here",
-      "excerpt": "The upcoming Xiaomi vehicle is likely to be autonomous. The lidar sensor seen on the roof of the car is a key component of any self-driving vehicle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bgr.in/automobile/xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here-1294594/",
-      "originalUrl": "https://www.bgr.in/automobile/xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here-1294594/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://st1.bgr.in/wp-content/uploads/2022/07/Xiaomi-Car-.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bgr.in/automobile/xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here-1294594/amp/",
-      "cdnAmpWebUrl": "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/automobile/xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here-1294594/amp/",
-      "publishedDateTime": "2022-07-07T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "www.bgr.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-sk-telecom-sk-hynix-offer-ai-chip-curriculum-to-universities.md",
-      "title": "SK Telecom, SK hynix offer AI, chip curriculum to universities",
-      "excerpt": "SK Telecom and SK hynix jointly developed the SK ICT Curriculum education course to share practical knowledge on artificial intelligence (AI) and semiconductor technologies, which has been introduced at over 20 domestic universities so far,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/nation/2022/07/419_332345.html?fl",
-      "originalUrl": "https://www.koreatimes.co.kr/www/nation/2022/07/419_332345.html?fl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202207/df4f6d66dda4407ea2613c045295f652.jpg",
-          "width": 980,
-          "height": 691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=332345",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=332345",
-      "publishedDateTime": "2022-07-07T00:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.md",
-      "title": "Microsoft backs off facial recognition analysis, but big questions remain",
-      "excerpt": "Microsoft is backing off its support for some AI-driven features, including facial recognition. Although it's good Microsoft is acknowledging discrimination and accuracy issues, it had years to fix the problems and didn’t.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.html",
-      "originalUrl": "https://www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/11/facial_recognition_system_identification_digital_id_security_scanning_thinkstock_858236252_3x3-100740902-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.amp.html",
-      "publishedDateTime": "2022-07-07T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision",
-        "Microsoft AI"
       ]
     }
   ],

@@ -40,20 +40,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Scientists doubt that DeepMind's AI is as good for fractional-charge systems as it seems"
-    excerpt: "DeepMind constructed a neural network based density functional designated as DM21, trained on fractional-electron systems, such as a hydrogen atom with half an electron."
-    publishedDateTime: 2022-08-15T15:12:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/961844"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 45
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/839c7f64-ce32-4a74-89a8-cd6b09dee5d2/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 282
-        isCached: true
   - title: "Russian military to develop weapons using artificial intelligence"
     excerpt: "Russia said created a department for developing AI weapons. The program could serve to counter the Pentagon’s newly formed AI authority."
     publishedDateTime: 2022-08-18T00:25:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/watch-out-tesla-an
 webUrl: "https://markets.businessinsider.com/news/stocks/watch-out-tesla-and-waymo-lyft-debuts-self-driving-vehicle-in-las-vegas-1031688162"
 type: article
 quality: 63
-heat: -1
-published: false
+heat: 113
+published: true
 
 provider:
   name: Business Insider
@@ -23,140 +23,77 @@ topics:
   - AI
 
 related:
-  - title: "We tested Tesla Full Self-Driving Beta in the Blue Ridge Mountains, and it was scary"
-    excerpt: "Beta in the Blue Ridge Mountains in North Carolina, and it was a scary experience. FSD Beta enables Tesla vehicles to drive autonomously to a destination entered in the car’s navigation system, but the driver needs to remain vigilant and ready to take control at all times."
-    publishedDateTime: 2022-08-15T16:02:00Z
-    webUrl: "https://electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/"
-    ampWebUrl: "https://electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/15/tesla-full-self-driving-beta-blue-ridge-mountains-scary/amp/"
+  - title: "Driverless Lyfts Come to the Las Vegas Strip (With a Catch)"
+    excerpt: "Innovations big and small are happening up, down, and under the Las Vegas Strip. Elon Musk's Boring Co. has been building a network of tunnels under the city that will eventually use driverless Tesla  (TSLA)  electric vehicles to ferry people all over the city."
+    publishedDateTime: 2022-08-17T20:17:00Z
+    webUrl: "https://www.thestreet.com/investing/the-las-vegas-strip-gets-a-major-new-innovation"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/the-las-vegas-strip-gets-a-major-new-innovation"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/the-las-vegas-strip-gets-a-major-new-innovation"
     type: article
     provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 97
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Full-Sefl-Driving-Beta-Blue-Ridge-Mountain-Test.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Podcast: Tesla Full Self-Driving Beta test, VPP event, Tesla Semi, and more"
-    excerpt: "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. This week, we discussed our Tesla Full Self-Driving Beta test, Tesla’s first VPP event,"
-    publishedDateTime: 2022-08-19T19:33:00Z
-    webUrl: "https://electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi/"
-    ampWebUrl: "https://electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 87
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
-  - title: "Autonomous? Nope. California moves against Tesla’s ‘full self-driving’ claim"
-    excerpt: "The California DMV has become the first US government entity to formally move against the naming of \"full self-driving.\" Here's what's happening."
-    publishedDateTime: 2022-08-16T11:17:00Z
-    webUrl: "https://wraltechwire.com/2022/08/16/autonomous-nope-california-moves-against-teslas-full-self-driving-claim/"
-    ampWebUrl: "https://wraltechwire.com/2022/08/16/autonomous-nope-california-moves-against-teslas-full-self-driving-claim/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/16/autonomous-nope-california-moves-against-teslas-full-self-driving-claim/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 71
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2022/08/tesla-hands-free-e1660639508352.jpg"
-        width: 1975
-        height: 1110
-        isCached: true
-  - title: "How California could force Tesla to drop the name ‘full self-driving’"
-    excerpt: "Full self-driving,” the controversially named driver-assist feature from Tesla, may have finally met its match."
-    publishedDateTime: 2022-08-15T18:27:00Z
-    webUrl: "https://www.siliconvalley.com/2022/08/15/how-california-could-force-tesla-to-drop-the-name-full-self-driving/"
-    ampWebUrl: "https://www.siliconvalley.com/2022/08/15/how-california-could-force-tesla-to-drop-the-name-full-self-driving/amp/"
-    cdnAmpWebUrl: "https://www-siliconvalley-com.cdn.ampproject.org/c/s/www.siliconvalley.com/2022/08/15/how-california-could-force-tesla-to-drop-the-name-full-self-driving/amp/"
-    type: article
-    provider:
-      name: Silicon Valley
-      domain: siliconvalley.com
+      name: TheStreet.com
+      domain: thestreet.com
     quality: 59
     images:
-      - url: "https://www.siliconvalley.com/wp-content/uploads/2022/08/hypatia-h_c85b2ae6a8935fd9695ed8b635234df8-h_a442bbd62830e856012cf8eea7d9277c.jpg?w=1024&h=683"
-        width: 1024
-        height: 683
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg4NzU1NTY3OTMyNjE0MTc2/boring-company.jpg"
+        width: 620
+        height: 349
         isCached: true
-  - title: "California Wants Tesla to Stop Calling Half-Finished System \"Full Self-Driving\""
-    excerpt: "Tesla’s \"full self-driving\" (FSD) may have to come to a full stop because the California DMV isn’t a fan of the feature’s misleading marketing."
-    publishedDateTime: 2022-08-16T16:49:00Z
-    webUrl: "https://futurism.com/the-byte/california-tesla-full-self-driving"
-    ampWebUrl: "https://futurism.com/california-tesla-full-self-driving?amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/california-tesla-full-self-driving?amp"
+  - title: "Self-driving Lyfts will cruise the Vegas strip by early 2023"
+    excerpt: "Residents and visitors of Las Vegas will be able to hail a new, fully autonomous “robotaxi” earlier than its makers anticipated. According to an official press release from Lyft, the popular ride-sharing company and its partners at the self-driving startup,"
+    publishedDateTime: 2022-08-17T14:00:00Z
+    webUrl: "https://www.popsci.com/technology/lyft-self-driving-cars-las-vegas/"
+    ampWebUrl: "https://www.popsci.com/technology/lyft-self-driving-cars-las-vegas/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/lyft-self-driving-cars-las-vegas/?amp"
     type: article
     provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 55
+      name: Popular Science
+      domain: popsci.com
+    quality: 44
     images:
-      - url: "https://wp-assets.futurism.com/2022/08/california-tesla-stop-calling-full-self-driving-600x315.jpg"
-        width: 600
-        height: 315
+      - url: "https://www.popsci.com/uploads/2022/08/16/Offwhite.jpeg?auto=webp"
+        width: 2500
+        height: 1589
         isCached: true
-  - title: "Don't Test Tesla's Full-Self Driving on Children: Safety Regulators"
-    excerpt: "According to Bloomberg, the National Highway Traffic Safety Administration said it uses controlled procedures when testing vehicles and that “it could be highly dangerous for anyone to attempt to test vehicle technologies on their own."
-    publishedDateTime: 2022-08-18T17:20:00Z
-    webUrl: "https://jalopnik.com/dont-test-teslas-full-self-driving-on-children-safety-1849427978"
-    ampWebUrl: "https://jalopnik.com/dont-test-teslas-full-self-driving-on-children-safety-1849427978/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/dont-test-teslas-full-self-driving-on-children-safety-1849427978/amp"
+  - title: "Las Vegas Strip Gets a Brand New Technology"
+    excerpt: "Innovations big and small are happening up, down, and under the Las Vegas Strip. Elon Musk's Boring Co. has been building a network of tunnels under the city that will eventually use driverless Tesla  (TSLA)  electric vehicles to ferry people all over the city."
+    publishedDateTime: 2022-08-17T20:17:00Z
+    webUrl: "https://www.thestreet.com/investing/the-las-vegas-strip-gets-a-major-new-innovation"
+    ampWebUrl: "https://www.thestreet.com/.amp/investing/the-las-vegas-strip-gets-a-major-new-innovation"
+    cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/the-las-vegas-strip-gets-a-major-new-innovation"
     type: article
     provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 54
-  - title: "Tesla Wants Its Day in Court to Defend Autopilot and Full-Self Driving"
-    excerpt: "Tesla has asked for a hearing to defend its advertising of Autopilot and FSD after the California DMV called it false advertising."
-    publishedDateTime: 2022-08-18T22:00:00Z
-    webUrl: "https://jalopnik.com/tesla-wants-its-day-in-court-to-defend-autopilot-and-fu-1849430552"
-    ampWebUrl: "https://jalopnik.com/tesla-wants-its-day-in-court-to-defend-autopilot-and-fu-1849430552/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/tesla-wants-its-day-in-court-to-defend-autopilot-and-fu-1849430552/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 54
-  - title: "NHTSA Doesn’t Want People Testing Tesla’s Full Self-Driving On Real Human Children"
-    excerpt: "The NHTSA is warning those who use real kids or people in general for their own safety testing demonstrations. The reaction comes after a bevy of private individuals began posting similar tests online."
-    publishedDateTime: 2022-08-18T22:03:00Z
-    webUrl: "https://www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/"
-    ampWebUrl: "https://www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 53
+      name: TheStreet.com
+      domain: thestreet.com
+    quality: 44
     images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2022/08/2022-Tesla-Lineup-1-1024x555.jpg"
-        width: 1024
-        height: 555
+      - url: "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTg4NzU1NTY3OTMyNjE0MTc2/boring-company.jpg"
+        width: 620
+        height: 349
         isCached: true
-  - title: "NHTSA Doesn’t Want People Testing Tesla’s Full Self-Driving Technology On Real Human Children"
-    excerpt: "The NHTSA is warning those who use real kids or people in general for their own safety testing demonstrations. The reaction comes after a bevy of private individuals began posting similar tests online."
-    publishedDateTime: 2022-08-18T22:00:00Z
-    webUrl: "https://www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/"
-    ampWebUrl: "https://www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/amp/"
+  - title: "Lyft launches an electric self-driving taxi service in Las Vegas"
+    excerpt: "Motional, a $4 billion joint venture between Hyundai Motor Co. and auto parts maker Aptiv PLC, will provide Lyft with Hyundai’s Ioniq 5 electric sport utility vehicles. The cars feature more than 30 sensors – cameras,"
+    publishedDateTime: 2022-08-16T21:52:00Z
+    webUrl: "https://siliconangle.com/2022/08/16/lyft-launches-electric-self-driving-taxi-service-las-vegas/"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 48
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 24
     images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2022/08/2022-Tesla-Lineup-1-1024x555.jpg"
-        width: 1024
-        height: 555
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/Screenshot-2022-08-17-032243.png"
+        width: 917
+        height: 600
         isCached: true
+  - title: "California DMV accuses Tesla of false advertising with autopilot, self-driving features"
+    excerpt: "The California Department of Motor Vehicles has accused Tesla of false advertising in promoting its “full self-driving” and “Autopilot” features for cars."
+    publishedDateTime: 2022-08-16T19:12:00Z
+    webUrl: "https://www.washingtontimes.com/news/2022/aug/16/california-dmv-accuses-tesla-false-advertising-aut/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 11
 
 secured: "Dy2GxcHRxUEqKigWjeZwy/aWrsw7XpjoHScm9O+FF0vodadWKgBj8uQJmrU+S78j/VQ47HTd0QlxTlhogiT5jKAh9v8M2WvHzL4AbHsT/uZBJaXj08pcWphFgv8n56Zl0tTGRQioCOqI+ONjeUdRX6N0NKhnvYtMLNgeno/pUlduNB7NQ04QyKBpAMhEltOsfmyWqgkqGtVCFzDHj7bCyG8Zi9CCRyJoZ9DDRoJBhWg1RY0OUqm0D0pHa5rVfzAqNwLqD2PRUeN8HXXMsoAubFwdl2oFbyQHA7sbrcWpQWXFaGwcRG7/ou3s2ZPGG6OAmvs9LAakurQVibc4M2seMpzPlkVNr2Ln4zrGOFApIK1PJR2qqRNf0Rt1HFlIstzeAYAbwSpMCdAQ1ZwBfn0niSw5fW2DyiiwxQZjDxkbJZu1s8XDcRO84xxeuwGFdrq9Sy8tj4elth4jEmEX1IqbUESWk3bAhqvKYwD4obD8CQoB94EfEYkKYmfsvfpD4djmTtxLHjWyhyBjeACdsRZz3A==;QQ58HsG2yLDoAdLIPRUs6w=="
 ---

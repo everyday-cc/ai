@@ -41,15 +41,6 @@ related:
         width: 1000
         height: 540
         isCached: true
-  - title: "10 AI healthcare startups with the most funding"
-    excerpt: "Boston-based company DataRobot uses AI to help businesses cut costs. The company raised $700 million over all investment rounds. Delphia — A Toronto-based startup. Delphia uses AI to help analyze datasets."
-    publishedDateTime: 2022-08-15T16:14:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/10-ai-healthcare-startups-with-the-most-funding.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
 
 secured: "07NzN+U5gTqihfyYLRRuzwgNjPKEawCoV5hkQXOdYemGT5mQ7/aEQ7O3HiaDFcuMTmPjoubJ0yRpJMwHgYxm4DOD/ckQgZIvty7+KJeEfBZ+9eEiqeX5zV4jk2yE6UH8mFHX7mVH9r8R/89Bb698JOmHOYOW5bHhteis/IyAxJLp3XrcXKe0WUnZkr4Yvcj1I68EmwpjNxasOoCxUZeLLxqLx+2OU6T/8iXEjtYYirgz7ZsOndmnfq8k3/XlC1xG3YbUanrIT+/dslTVn9Y7Ut65l2EHeN7BEu6feKFhkWlb3gn12Tdd+vQhqqTBGU1Qq36rEOTGNOPK94WqhJo4EsWiJoeQdsX9QbF3a2M+/YFSdvZmpA5R7TqKlBlPBxFj5qQeQU8uJgkSfVuNlJ9A0/p/4fwD+v8UQytgcVFoa5zRa5vp0D0iSE1sg+09RfFwO2REoeX/P50T+iw97yfFhRSffbJItl6qnX22xNGFyy9KmlT3wXH66j315A4zY1vDznyheB4ws3bjarSQrPe+jA==;TZlnXCM0jvORRrVMYXGqIA=="
 ---

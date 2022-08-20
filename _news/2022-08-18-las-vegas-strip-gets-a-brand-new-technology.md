@@ -27,6 +27,15 @@ images:
     isCached: true
 
 related:
+  - title: "Watch Out Tesla And Waymo! Lyft Debuts Self-Driving Vehicle In Las Vegas"
+    excerpt: "Ride-hailing service Lyft Inc. (NASDAQ: LYFT) has teamed up with Motional to bring self-driving taxis to cities around the nation, starting with Las Vegas."
+    publishedDateTime: 2022-08-16T19:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/watch-out-tesla-and-waymo-lyft-debuts-self-driving-vehicle-in-las-vegas-1031688162"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "Driverless Lyfts Come to the Las Vegas Strip (With a Catch)"
     excerpt: "Innovations big and small are happening up, down, and under the Las Vegas Strip. Elon Musk's Boring Co. has been building a network of tunnels under the city that will eventually use driverless Tesla  (TSLA)  electric vehicles to ferry people all over the city."
     publishedDateTime: 2022-08-17T20:17:00Z
@@ -73,6 +82,15 @@ related:
         width: 917
         height: 600
         isCached: true
+  - title: "California DMV accuses Tesla of false advertising with autopilot, self-driving features"
+    excerpt: "The California Department of Motor Vehicles has accused Tesla of false advertising in promoting its “full self-driving” and “Autopilot” features for cars."
+    publishedDateTime: 2022-08-16T19:12:00Z
+    webUrl: "https://www.washingtontimes.com/news/2022/aug/16/california-dmv-accuses-tesla-false-advertising-aut/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 11
 
 secured: "pHA/oXHbJ1f88MbRvb3y7r5XE/E6gon6HRgE4pRu7nIKpKcqiyhzD6rqNw3ET76jBCmehkNmE+XtYf+N3yZyU3digZEz7/Ncd5xkuxyZK6K/1q8fxyvzJDCQpHuXPWUOt3zwlx6R1yQeVJoHZaH9joGmLgrjmMAaoqG2/siebM+AE2RGdIzHcZqW8Vj521kLhDDYaSe5FwyTb7ptGF7bN6e3EDQqLEFkmZicOqlnc2r2+fm9A3uLLv3qJ3BuvSWsg7lJGeoEcJmI4MxcxDpr3muB+JhCR9J1awcLe9HD+dNX10O9d9BHRMJSjWXvsh9p/v9+3EkP9aO3SCbMTBVlLg99A+50dzdVVJdAPZU4R4M7me6sHwOY201JrZy4bkw/TuLn10H2BoZAgPEKpELlJy/FBdVIG/GFsm5Ud8AN7nAxIN4fiZAUVoeUg8PgpSdkHRXR1tC+D8qHOp5lh3UtDLs6ya5r+RcWVb1VDV8lRm/jeZ1l0fNpEPXUaIpX0QCCdcutdHOkdliG3+0gGBFEVQ==;ytPGCI9JHcozMAcLehy1qQ=="
 ---

@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-05-27-alibaba-shares-soar-over-12-on-strong-earnings.md",
+      "title": "Alibaba Shares Soar Over 12% On Strong Earnings",
+      "excerpt": "Fellow e-commerce Baidu Inc. (HK:9888) also saw its Hong Kong shares soar 14.95% to HK$133. “We do expect the second quarter to mark the bottom in growth for our companies,” Goldman Sachs ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.investing.com/news/stock-market-news/alibaba-shares-soar-over-12-over-strong-earnings-2830838",
+      "originalUrl": "https://www.investing.com/news/stock-market-news/alibaba-shares-soar-over-12-over-strong-earnings-2830838",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/news/LYNXNPEE8A0G3-ORUBS_L.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T18:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing.com",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-google-leads-in-negative-media-perception-around-ai-ethics.md",
       "title": "Google Leads In Negative Media Perception Around AI, Ethics",
       "excerpt": "The marketplace for artificial intelligence is worth billions ... Nvidia with 202, Baidu with 144, Waymo with 90, C3.ai with 87, Tesla with 68, Argo AI with 39, Cruise Automation with 26, and ...",
@@ -1264,59 +1307,6 @@
         "AI",
         "Machine Learning",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-19-how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing.md",
-      "title": "How Artificial Intelligence Is Opening Up A New World Of Possibilities In Hearing",
-      "excerpt": "For me, there’s nothing more fulfilling than seeing technology enhance the way people live. We’re just starting to scratch the surface when it comes to AI. When people talk about this technology, its impact is not 10 years from now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//628543e5e9890719668a0ba8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/19/how-artificial-intelligence-is-opening-up-a-new-world-of-possibilities-in-hearing/amp/",
-      "publishedDateTime": "2022-05-19T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
       ]
     }
   ],

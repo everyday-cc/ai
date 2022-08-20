@@ -2,6 +2,40 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-09-us-lawmakers-set-their-sights-on-reviving-self-driving-car-legislation.md",
+      "title": "US lawmakers set their sights on reviving self-driving car legislation",
+      "excerpt": "As self-driving technologies begin to hit the market, new laws need to be enacted to create order at a federal level. Now, self-driving vehicles are getting a boost from legislators in the House of Representatives.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbtnews.com/us-lawmakers-set-their-sights-on-reviving-self-driving-car-legislation/",
+      "originalUrl": "https://www.cbtnews.com/us-lawmakers-set-their-sights-on-reviving-self-driving-car-legislation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cbtnews",
+        "domain": "cbtnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-is-artificial-intelligence-better-than-human-brain.md",
       "title": "Is Artificial Intelligence better than human brain?",
       "excerpt": "Machines are digital, but human brain is analogous and cannot be replaced by technology Digitisation, automation, high-performance robots … everyday, advertisements in media anticipate the great disruption and replacement of humans by Artificial Intelligence (AI).",
@@ -1348,58 +1382,6 @@
         "name": "Middle East North Africa Financial Network",
         "domain": "menafn.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-should-self-driving-cars-come-with-black-box-recorders.md",
-      "title": "Should self-driving cars come with black box recorders?",
-      "excerpt": "Why shouldn’t self-driving cars and robots have the ... team of experts — academic researchers in robotics and artificial intelligence as well as industry developers, insurers, and government ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/datadecisionmakers/should-self-driving-cars-come-with-black-box-recorders/",
-      "originalUrl": "https://venturebeat.com/datadecisionmakers/should-self-driving-cars-come-with-black-box-recorders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1162108935-NatalyaBurova.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/datadecisionmakers/should-self-driving-cars-come-with-black-box-recorders/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/datadecisionmakers/should-self-driving-cars-come-with-black-box-recorders/amp/",
-      "publishedDateTime": "2022-08-01T06:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

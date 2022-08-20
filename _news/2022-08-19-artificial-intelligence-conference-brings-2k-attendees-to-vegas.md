@@ -8,8 +8,8 @@ webUrl: "https://www.reviewjournal.com/business/conventions/artificial-intellige
 ampWebUrl: "https://www.reviewjournal.com/business/conventions/artificial-intelligence-conference-brings-2k-attendees-to-vegas-2625626/amp/"
 cdnAmpWebUrl: "https://www-reviewjournal-com.cdn.ampproject.org/c/s/www.reviewjournal.com/business/conventions/artificial-intelligence-conference-brings-2k-attendees-to-vegas-2625626/amp/"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://d29xw9s9x32j3w.cloudfront.net/players/library/placeholder.png"
@@ -25,6 +26,6 @@ images:
     height: 211
     isCached: true
 
-secured: "76MoG/KVzudgguu1M+FhjxrON1gE3E7I0v/EI7fRioLneg1XjJu+16iz6+cj9CHTyPGHLknlbQ/r6tbuVR542awO2IW1k0hTF/YvOuT16lvvhq8E1au9Dbfx/pHajA/ov4m3IZn0CWV/q4fzQud2nvj9+XwEOeZ1t9gi/BlVYV8dos8GHFZmE5K28dgWmjXo00f97iu/mjR9IcCo1eKkMILLlYp63as7QFAB80qY7n6m3qWIktj01nDWQqcRDehIhfJ3YldZFU6F8U4LtiP70Bj08NhdtkA1gWIgYCGBgXYxiLONOcsgNrZpSiltwEv9bYEPXXm47CAeXP0vXIDQbxJmBTG0/wyA28uIYyihTXE=;qqCM8hQc49zXd+Nohx3p5w=="
+secured: "miES+YDOGbpN7EZG1+ifhANbuMtCkEPR+mPUcBQ2IDbnV6lDVbp67L9Z6nmNcM0x7IGHKe//jXkcPfcv18XY2WgbaaVZApxw0sAGsaF+rt37vjGE2Rw9s9JGZWd48VWIeKnlHRiAXFpBsR1IB2Yj+Ncia6fKu6UTLZ7GV7F//GWZJEuhRemXk4ZFAJXaVAzb5k/w0yrCnKAkKAOoYSMLAHHNuKCZ5tweu2C/RVlF2utXGNqzdEjG21BJ8tkfo9ZAxzwLhtwTmLXQDmlYoXLBFhl8ze0GXMlQI4aolJDmXSBvh4FmqltNvPCRJH+haR1T972T6Bt6CW21OQweARL54FhI7uirsgzsiGRr+tVM5RuizUF0vmQlgZ7dpIZh65VqSxRs47LczhijEFIiYtX8e6zawYRK7EOi6aqq00Oj9Q5uUoiZWaAS54Rzdoy9zIP4C9vRkMScG6ZviGa8fsAawv7R/Rhhf3spXq1gTWen/iFMnk20yzSoedEJ4LfiPyzwED2embqtKY9jV/a3a8wdSQ==;LKkIQpUXbmfVDr10/faYqg=="
 ---
 

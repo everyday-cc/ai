@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Stanford University: Stanford engineers present new chip that ramps up AI computing efficiency"
+    excerpt: "AI-powered edge computing is already pervasive in our lives. Devices like drones, smart wearables, and industrial IoT sensors are equipped with AI-enabled chips so that computing can occur at the “edge” of the internet,"
+    publishedDateTime: 2022-08-20T03:24:00Z
+    webUrl: "https://indiaeducationdiary.in/stanford-university-stanford-engineers-present-new-chip-that-ramps-up-ai-computing-efficiency/"
+    ampWebUrl: "https://indiaeducationdiary.in/stanford-university-stanford-engineers-present-new-chip-that-ramps-up-ai-computing-efficiency/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/stanford-university-stanford-engineers-present-new-chip-that-ramps-up-ai-computing-efficiency/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 62
+    images:
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/10/1500x500.jpg?fit=1024%2C341&ssl=1"
+        width: 1023
+        height: 341
+        isCached: true
   - title: "New chip ramps up AI computing efficiency"
     excerpt: "Stanford engineers created a more efficient and flexible AI chip, which could bring the power of AI into tiny edge devices."
     publishedDateTime: 2022-08-18T00:00:00Z
@@ -33,15 +49,6 @@ related:
         width: 700
         height: 467
         isCached: true
-  - title: "The Benefits of Integrating AI and ML to Maximize Operational Efficiency"
-    excerpt: "In this special guest feature, Zach Thomas, VP of Product Marketing, Conga, discusses the ways emerging technologies like AI and ML can expedite business operations to accelerate revenue. Outlined are the top benefits organizations can experience by integrating AI and ML into their operations,"
-    publishedDateTime: 2022-08-17T16:14:00Z
-    webUrl: "https://insidebigdata.com/2022/08/17/the-benefits-of-integrating-ai-and-ml-to-maximize-operational-efficiency/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 33
 
 secured: "tih4WyI/sYfiOUFpxQOgYFezkbi40QVSmU2m4Sl+74rTCLeI7CQr7Bh9M9F6dT6p+kc6KCmBdJA/w9T3WU8MVPyDa7Jb5A97+caVqPABnSoGqEljslYix0sbjALRVZlNcmbtNl5sU6zhd9U5LFM4MoqLU/K60cDKTGl0VlZd37k/kHQCDn6UBrTEKYnS+pvPQuWyzQdzjPttNpn8NtJV7P9CkxLheJUxdJJTSE1u9jm7H6QsNVVRtlXvMNnehTQT00fqkTqUNuR+8LeHQO0dS9ltjmExMn2eVUXs2NSp2C+3bN6q6Vsj738NsjVdyR5H9y5EYPv5euuCJN69euG4VCZR5a+BnqovysaOo3pg3q1/SmTUOhAsmRaLhNVkDlt6gqSN7tMGKRNYqvzozU5eBMcljNYxcjfIM+o23aFwUqk6pB9kHjNdwxwRbCCFBsThDWey2WLtOVvEpy3b7jXWane4CHTT7OIXXyphnXZJlGKvOOWUa3fp565EdZUl0bAJyVGcsXi17NVvRpX7fvpoIw==;C12HhtqmNgewWhJYG8A0Jg=="
 ---

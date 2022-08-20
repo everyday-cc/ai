@@ -2,6 +2,153 @@
   "page": 52,
   "value": [
     {
+      "path": "_news/2022-07-06-ai-chipmaker-rebellions-gets-228m-series-a-extension-from-korean-telco-company-kt.md",
+      "title": "AI chipmaker Rebellions gets $22.8M Series A extension from Korean telco company KT",
+      "excerpt": "South Korean AI chip developer Rebellions has raised a $22.8 million ($30 million) extension to its Series A financing from a strategic investor KT, one of the largest telecom companies in South Korea.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/",
+      "originalUrl": "https://techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2015/06/shutterstock_151456658.jpg?w=1000",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/05/ai-chipmaker-rebellions-gets-22-8m-series-a-extension-from-korean-telco-company-kt/amp/",
+      "publishedDateTime": "2022-07-05T19:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-ai-robo-doctor-speeds-up-sight-saving-technology.md",
+      "title": "AI Robo-Doctor Speeds Up Sight-Saving Technology",
+      "excerpt": "A humanoid robot has quickened sight-restoring research by finding the best conditions to grow replacement retina layers from human stem cells.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/ai-robo-doctor-speeds-sight-saving-technology-1721980",
+      "originalUrl": "https://www.newsweek.com/ai-robo-doctor-speeds-sight-saving-technology-1721980",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2072140/ai-robo-doctor.jpg",
+          "width": 2000,
+          "height": 1283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/ai-robo-doctor-speeds-sight-saving-technology-1721980?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/ai-robo-doctor-speeds-sight-saving-technology-1721980?amp=1",
+      "publishedDateTime": "2022-07-05T15:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-06-the-new-asus-rog-phone-6-series-everything-you-need-to-know-and-more.md",
+      "title": "The new ASUS ROG Phone 6 series: Everything you need to know, and more",
+      "excerpt": "To elaborate on some of these specs, the latest flagship Snapdragon 8+ Gen 1 is equipped with a full suite of Snapdragon Elite Gaming features plus an improved Qualcomm Adreno GPU. The camera housing ... an ESS Quad DAC and an AI noise-cancelling ...",
+      "sourceUrl": null,
+      "webUrl": "https://vulcanpost.com/794613/asus-rog-phone-6-series-gaming-price-specs-features-accessories/",
+      "originalUrl": "https://vulcanpost.com/794613/asus-rog-phone-6-series-gaming-price-specs-features-accessories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn01.vulcanpost.com/wp-uploads/2022/07/asus-rog-phone-6-series-001.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://vulcanpost.com/794613/asus-rog-phone-6-series-gaming-price-specs-features-accessories/amp/",
+      "cdnAmpWebUrl": "https://vulcanpost-com.cdn.ampproject.org/c/s/vulcanpost.com/794613/asus-rog-phone-6-series-gaming-price-specs-features-accessories/amp/",
+      "publishedDateTime": "2022-07-05T14:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vulcan Post",
+        "domain": "vulcanpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-06-ai-is-calling-the-shots-at-the-2022-fifa-world-cup.md",
       "title": "AI Is Calling The Shots At The 2022 FIFA World Cup",
       "excerpt": "FIFA hopes that adding AI can help to eliminate some of the controversial calls that have shaped World Cup matches in years past.",
@@ -1008,108 +1155,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-china-turns-to-automation-and-robotics-to-solve-aging-problem.md",
-      "title": "China Turns to Automation and Robotics to Solve Aging Problem",
-      "excerpt": "Senior Product Manager The impact of an aging population has taken a toll on China’s economy. Industrial automation and robotics could be the solution. The largest existential threat facing China is its declining population – the impact of an aging population on the country’s economy has the potential to be highly unsavory and should not be ignored by global investors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/china-turns-to-automation-and-robotics-to-solve-aging-problem",
-      "originalUrl": "https://www.nasdaq.com/articles/china-turns-to-automation-and-robotics-to-solve-aging-problem",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/china-turns-to-automation-and-robotics-to-solve-aging-problem?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-turns-to-automation-and-robotics-to-solve-aging-problem?amp",
-      "publishedDateTime": "2022-07-04T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-the-global-edge-analytics-market-size-is-expected-to-reach-283-billion-by-2028-rising-at-a-market-growth-of-248-cagr-during-the-forecast.md",
-      "title": "The Global Edge Analytics Market size is expected to reach $28.3 billion by 2028, rising at a market growth of 24.8% CAGR during the forecast period",
-      "excerpt": "Reportlinker.com announces the release of the report \"Global Edge Analytics Market Size, Share & Industry Trends Analysis Report By Component, By Type, By",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/g27944178/the-global-edge-analytics-market-size-is-expected-to-reach-28-3-billion-by-2028-rising-at-a-market",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/g27944178/the-global-edge-analytics-market-size-is-expected-to-reach-28-3-billion-by-2028-rising-at-a-market",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27944178",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27944178",
-      "publishedDateTime": "2022-07-04T04:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-transitioning-from-smart-to-intelligent-cities-makes-good-business-sense.md",
-      "title": "Transitioning from smart to intelligent cities makes good business sense",
-      "excerpt": "So, smart is no longer clever enough – this new phase of development is what we call the intelligent or cognitive city. Every city is a unique network of integrated activities and services that may grow and develop organically over time as new use cases ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arabianbusiness.com/industries/technology/transitioning-from-smart-to-intelligent-cities-makes-good-business-sense",
-      "originalUrl": "https://www.arabianbusiness.com/industries/technology/transitioning-from-smart-to-intelligent-cities-makes-good-business-sense",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-04T03:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Arabian Business",
-        "domain": "arabianbusiness.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

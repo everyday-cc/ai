@@ -2,6 +2,143 @@
   "page": 108,
   "value": [
     {
+      "path": "_news/2022-05-26-dstny-acquires-egypt-founded-tactful-ai.md",
+      "title": "Dstny acquires Egypt-founded Tactful AI",
+      "excerpt": "Belgium-based business communications provider Dstny, has acquired Egypt and UK-based Tactful AI for an undisclosed sum. Founded",
+      "sourceUrl": null,
+      "webUrl": "https://www.wamda.com/en/2022/05/dstny-acquires-egypt-founded-tactful-ai",
+      "originalUrl": "https://www.wamda.com/en/2022/05/dstny-acquires-egypt-founded-tactful-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.wamda.com/feature-images/433a448dc7a7843.png",
+          "width": 900,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T01:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "wamda",
+        "domain": "wamda.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-urban-indians-want-govt-to-invest-in-ai-and-other-emerging-techs-survey.md",
+      "title": "Urban Indians want govt to invest in AI and other emerging techs: Survey",
+      "excerpt": "The survey that explores the awareness levels about new technologies among Indians also highlights the other top technologies most urban Indians have heard “a lot about”. Those include cryptocurrency,",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/urban-indians-want-govt-to-invest-in-ai-and-other-emerging-techs-survey-11653550171041.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/urban-indians-want-govt-to-invest-in-ai-and-other-emerging-techs-survey-11653550171041.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/05/26/600x338/oped1-kC7G--621x414@LiveMint_1653550720385.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/urban-indians-want-govt-to-invest-in-ai-and-other-emerging-techs-survey/amp-11653550171041.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/urban-indians-want-govt-to-invest-in-ai-and-other-emerging-techs-survey/amp-11653550171041.html",
+      "publishedDateTime": "2022-05-26T00:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-for-hype-wary-ibm-quantum-computing-sales-are-close-but-not-too-close.md",
+      "title": "For hype-wary IBM, quantum-computing sales are close, but not too close",
+      "excerpt": "(Reuters) - IBM has set a new goal for propelling ... company’s “error” predicting uses prematurely for its Watson artificial intelligence (AI) services, which delivered results in ...",
+      "sourceUrl": null,
+      "webUrl": "https://jp.reuters.com/article/ibm-ceo-quantum-idCAKCN2MW13M",
+      "originalUrl": "https://jp.reuters.com/article/ibm-ceo-quantum-idCAKCN2MW13M",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.reuters.com/resources/r/?m=02&d=20220510&t=2&i=1599069924&r=LYNXNPEI490JM&w=800",
+          "width": 800,
+          "height": 530,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T00:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ロイター",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-05-26-scientists-discover-why-people-with-autism-may-literally-see-the-world-differently.md",
       "title": "Scientists discover why people with autism may literally see the world differently",
       "excerpt": "They found that those babies who went on to develop autism by the age of 24 months had weaker connections between brain networks involved in object recognition and steering the attention to things ...",
@@ -979,117 +1116,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-clinical-natural-language-processing-market-insight-report-of-108-pages-growing-cagr-leading-players-during-forecast-period-2022-2029.md",
-      "title": "Clinical Natural Language Processing Market Insight | Report of 108 Pages| Growing CAGR |Leading Players | During Forecast Period 2022-2029",
-      "excerpt": "The Future of the Clinical Natural Language Processing Market – Competitive Landscape, Market Attractiveness and Forecasts to 2029, provides readers with detailed analysis of both historic and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/clinical-natural-language-processing-market-insight-report-of-108-pages-growing-cagr-leading-players-during-forecast-period-2022-2029",
-      "originalUrl": "https://www.digitaljournal.com/pr/clinical-natural-language-processing-market-insight-report-of-108-pages-growing-cagr-leading-players-during-forecast-period-2022-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-clearview-ai-launches-clearview-consent-companys-first-consent-based-product-for-commercial-uses.md",
-      "title": "Clearview AI Launches Clearview Consent; Company’s First Consent Based Product for Commercial Uses",
-      "excerpt": "Clearview AI, the leading facial recognition technology company that provides powerful and reliable photo identification technology to law enforcement agencies across the country, has announced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.postregister.com/businessreport/government/clearview-ai-launches-clearview-consent-company-s-first-consent-based-product-for-commercial-uses/article_d937c086-8a01-534d-ac4a-527ffe3a5abb.html",
-      "originalUrl": "https://www.postregister.com/businessreport/government/clearview-ai-launches-clearview-consent-company-s-first-consent-based-product-for-commercial-uses/article_d937c086-8a01-534d-ac4a-527ffe3a5abb.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/postregister.com/content/tncms/custom/image/4068e7d6-95c3-11e8-b459-6357fa7ccc06.png?resize=600%2C313",
-          "width": 600,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T11:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Post Register",
-        "domain": "postregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-chandigarh-university-mechatronics-engineering-students-successfully-tests-ai-powered-driverless-car-nomad.md",
-      "title": "Chandigarh University mechatronics engineering students successfully tests AI-Powered Driverless Car NOMAD",
-      "excerpt": "driverless car powered by Artificial Intelligence, which aims to help curb mishaps on the road and reduce deaths caused by accidents. True to its coveted acclaim as India's number 1 Research ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1256099&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1256099&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-25T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

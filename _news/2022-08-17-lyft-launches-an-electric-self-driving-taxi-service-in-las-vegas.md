@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Watch Out Tesla And Waymo! Lyft Debuts Self-Driving Vehicle In Las Vegas"
+    excerpt: "Ride-hailing service Lyft Inc. (NASDAQ: LYFT) has teamed up with Motional to bring self-driving taxis to cities around the nation, starting with Las Vegas."
+    publishedDateTime: 2022-08-16T19:28:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/watch-out-tesla-and-waymo-lyft-debuts-self-driving-vehicle-in-las-vegas-1031688162"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
   - title: "Driverless Lyfts Come to the Las Vegas Strip (With a Catch)"
     excerpt: "Innovations big and small are happening up, down, and under the Las Vegas Strip. Elon Musk's Boring Co. has been building a network of tunnels under the city that will eventually use driverless Tesla  (TSLA)  electric vehicles to ferry people all over the city."
     publishedDateTime: 2022-08-17T20:17:00Z
@@ -73,6 +82,15 @@ related:
         width: 620
         height: 349
         isCached: true
+  - title: "California DMV accuses Tesla of false advertising with autopilot, self-driving features"
+    excerpt: "The California Department of Motor Vehicles has accused Tesla of false advertising in promoting its “full self-driving” and “Autopilot” features for cars."
+    publishedDateTime: 2022-08-16T19:12:00Z
+    webUrl: "https://www.washingtontimes.com/news/2022/aug/16/california-dmv-accuses-tesla-false-advertising-aut/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
+    quality: 11
 
 secured: "8k17SOkyyuqbxU9yiPyNGMcaCaoAmzCZh008gGLDKeVDKurWEc04eCAfoKz2n33BgkyBdprvxX228JLLs/xOPexAZtw/bVMComeH3BxaHQmd238C83PR55aV0OmM/kl5S2QnU9FsFlSVebAcqRnvlQ0csaxQWM+LHPCeDIuc5i4CJVHSCI/bMfhVbauat5I0WVy/liN2XSQ4taT2oHVid+n3le8sc+V/yezGYSpdJVdKSZ4iW84E/0AamolrB+u1XpR7kcDT1jAMlS4TWNpQa/G6NR2eco1sD4vhh1GdMpgAb2/tziCn/sy0meck2oONZPl2J5QA9iXQvf4REYP++hRoKaqgPZ4TX/Vmlof9oLBMAqUY4SZMYENoZi0uzFH3zwqBkkVDAYu2orYVyRvTnlF+ygkUYTaLDBXTo9KzT8Gmol7UGG+0MNV3vONMHtf1sJMCBSbu7dxp3cjnSSNNyMBIr+PJmHuyQz3NIAI9ouLsw7Emn662OKp1ZVzddv1CV0UCxrQr6wxqjRKBLaYD4Q==;hl65NMdJc5By/dIiaJ22/A=="
 ---

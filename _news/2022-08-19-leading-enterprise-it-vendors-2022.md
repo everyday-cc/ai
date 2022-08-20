@@ -7,7 +7,7 @@ originalUrl: "https://www.eweek.com/it-management/top-enterprise-companies/"
 webUrl: "https://www.eweek.com/it-management/top-enterprise-companies/"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -28,24 +28,6 @@ images:
     width: 800
     height: 800
     isCached: true
-
-related:
-  - title: "Black Hat 2022 reveals enterprise security trends"
-    excerpt: "Black Hat's presentations for enterprise security provided a look at how enterprises' tech stacks are at risk of devastating cyberattacks."
-    publishedDateTime: 2022-08-15T16:49:00Z
-    webUrl: "https://venturebeat.com/security/black-hat-2022-reveals-enterprise-security-trends/"
-    ampWebUrl: "https://venturebeat.com/security/black-hat-2022-reveals-enterprise-security-trends/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/black-hat-2022-reveals-enterprise-security-trends/amp/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 91
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2020/02/1-Cybersecurity-threat-illustration-1-e1660581757211.jpg?w=1200&strip=all"
-        width: 1200
-        height: 598
-        isCached: true
 
 secured: "CpJnjtAk+5oqJV4UU9hOA0M9m72X+Y15UzQloeUZF2onRG9mCnOIlr6c0IRX8v7Ba4JHQuplmm872EbiDensoyiLhcWSpfPPvr2t/v2MKcZol+wO3F9dFtIzs0fSPEKoqRC9o2Mv11Cw/mkV1PcyVkB6ErQ/8n/qKcGpaAHW5TAiKxA/rc3/E7vHgmSWR7hLzu/aq0H/zVbrxPlUgtj8yxkSUSTPrMqbYSDXHMLSGoi+/Co9BCfxSn0uRywPSQvvInJGVfTKvtRdX2MlTdHXUAzCpT372Y4BFdcZ9Js7RE/rMXg9/kPpBva6OSK7dIsDcwozN0dFhkyRfW5Nsewo5YaCModC7hqxvTChVpHYxTRxLidZqOQkCKTfv3SbjH1Dm1tAATw4Ra/D0QDHBsxMiTBdhr1VHHtUSep5HnFjHOuT1vqcGNzb0wcnTaQFUZKZNFPxFwCBDRUStfOAjsZb8clXfc1skMXjgAsK3H3r3DGPLPABxO9ClMhL9TrxuTdfcBOO6IPqrF6k+AuZzwMPqQ==;l7sJnpHZqO2Z9wfAmJGy4A=="
 ---

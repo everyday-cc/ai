@@ -2,6 +2,153 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2022-05-19-how-optimized-object-recognition-is-advancing-tiny-edge-devices.md",
+      "title": "How optimized object recognition is advancing tiny edge devices",
+      "excerpt": "Alif Semiconductor have demonstrated an optimized face detection model running on Alif's Ensemble microcontroller based on Arm IP. The two found it is suitable for enhancing low-power artificial intelligence (AI) at the edge.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/",
+      "originalUrl": "https://venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-873875560.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/18/how-optimized-object-recognition-is-advancing-tiny-edge-devices/amp/",
+      "publishedDateTime": "2022-05-18T15:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-what-exactly-is-artificial-intelligence.md",
+      "title": "What Exactly Is Artificial Intelligence?",
+      "excerpt": "On the other hand, Machine Learning (ML) is a subset of artificial intelligence. ML uses different computer algorithms such as neural networks to enable the computer to automatically learn and improve from experience without being explicitly programmed.",
+      "sourceUrl": null,
+      "webUrl": "https://kuenselonline.com/what-exactly-is-artificial-intelligence/",
+      "originalUrl": "https://kuenselonline.com/what-exactly-is-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kuenselonline.com/wp-content/uploads/2022/05/cigay.jpg",
+          "width": 1000,
+          "height": 336,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T14:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kuensel Online",
+        "domain": "kuenselonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-19-natural-language-processing-market-size-expected-by-forecast-2031-with-swot-analysis-global-share-trends-growth.md",
+      "title": "Natural Language Processing Market Size Expected by Forecast 2031 With SWOT Analysis, Global Share, Trends, Growth",
+      "excerpt": "May 18, 2022 (AmericaNewsHour) -- Kenneth Research, in its repository of market research reports, has recently added a report on Natural Language Processing Market that emphasizes the latest ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-expected-by-forecast-2031-with-swot-analysis-global-share-trends-growth-2022-05-18?mod=search_headline",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-expected-by-forecast-2031-with-swot-analysis-global-share-trends-growth-2022-05-18?mod=search_headline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T13:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-19-neuro42-licenses-robot-from-johns-hopkins-university.md",
       "title": "neuro42 Licenses Robot from Johns Hopkins University",
       "excerpt": "(“neuro42” or the “Company”), a medical imaging, robotics, and AI technology company, today announced an exclusive licensing agreement with Johns Hopkins University (“Johns Hopkins”) for their MR compatible robot for head,",
@@ -990,152 +1137,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-apple-may-have-just-spilled-a-ton-of-details-on-ios-16.md",
-      "title": "Apple may have just spilled a ton of details on iOS 16",
-      "excerpt": "That alone would be a game-changing feature. Apple’s been quietly improving its object recognition for some time now. For example, you can search for all sorts of things in the Photos app and get images containing them, and iOS 15 added a neat visual ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.macworld.com/article/702442/ios-16-airplay-speech-recognition-augmented-reality.html",
-      "originalUrl": "https://www.macworld.com/article/702442/ios-16-airplay-speech-recognition-augmented-reality.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.macworld.com/wp-content/uploads/2022/04/ios-16-graphic-2.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.macworld.com/article/702442/ios-16-airplay-speech-recognition-augmented-reality.html/amp",
-      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/702442/ios-16-airplay-speech-recognition-augmented-reality.html/amp",
-      "publishedDateTime": "2022-05-18T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Macworld",
-        "domain": "macworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-truly-trustworthy-a-case-for-trust-optimized-ai.md",
-      "title": "Truly Trustworthy: A Case For Trust-Optimized AI",
-      "excerpt": "With AI still in the early stages of adoption across the globe, risks such as learning limitations, cyberattacks and a lack of user understanding give rise to issues of trust.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/18/truly-trustworthy-a-case-for-trust-optimized-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/18/truly-trustworthy-a-case-for-trust-optimized-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//60aebd253bb898555bf94d92/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/18/truly-trustworthy-a-case-for-trust-optimized-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/18/truly-trustworthy-a-case-for-trust-optimized-ai/amp/",
-      "publishedDateTime": "2022-05-18T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-skills-shortage-stalls-uks-adoption-of-artificial-intelligence-as-europe-continues-to-accelerate.md",
-      "title": "Skills shortage stalls UK’s adoption of artificial intelligence as Europe continues to accelerate",
-      "excerpt": "UK businesses are failing to progress their use of artificial intelligence (AI) at the same pace as other major European nations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mancunianmatters.co.uk/news/18052022-skills-shortage-stalls-uks-adoption-of-artificial-intelligence-as-europe-continues-to-accelerate/",
-      "originalUrl": "https://www.mancunianmatters.co.uk/news/18052022-skills-shortage-stalls-uks-adoption-of-artificial-intelligence-as-europe-continues-to-accelerate/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mancunianmatters.co.uk/wp-content/uploads/2022/05/IBM-AI-Adoption-Index-2022_UK_Image-scaled.jpg",
-          "width": 2560,
-          "height": 1707,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mancunian Matters",
-        "domain": "mancunianmatters.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

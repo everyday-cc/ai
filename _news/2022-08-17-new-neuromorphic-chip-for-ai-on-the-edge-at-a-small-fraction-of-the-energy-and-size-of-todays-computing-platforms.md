@@ -9,7 +9,7 @@ ampWebUrl: "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp"
 type: article
 quality: 52
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -49,22 +49,6 @@ related:
       - url: "https://s30148.pcdn.co/wp-content/uploads/2022/08/container-ship-g005ca98e7_1920-1024x614.jpg"
         width: 1024
         height: 614
-        isCached: true
-  - title: "Can a human with a spinal cord injury walk and run? Discovering clues with neuromorphic technology"
-    excerpt: "An international research team led by Prof. Tae-Woo Lee (Department of Materials Science and Engineering, Seoul National University, Republic of Korea) and Prof. Zhenan Bao (Department of Chemical Engineering,"
-    publishedDateTime: 2022-08-15T15:36:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-human-spinal-cord-injury-clues.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-08-human-spinal-cord-injury-clues.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-human-spinal-cord-injury-clues.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 30
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/can-a-human-with-a-spi.jpg"
-        width: 899
-        height: 441
         isCached: true
   - title: "Researchers Develop Graphene-based Synaptic Transistor for Neuromorphic Devices"
     excerpt: "Recently, researchers from the University of Texas and Sandia National Laboratories announced the development of a graphene-based transistor that exhibits properties similar to neurons."

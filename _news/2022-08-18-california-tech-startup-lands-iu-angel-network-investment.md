@@ -23,17 +23,6 @@ images:
     height: 540
     isCached: true
 
-related:
-  - title: "California DMV accuses Tesla of false advertising with autopilot, self-driving features"
-    excerpt: "The California Department of Motor Vehicles has accused Tesla of false advertising in promoting its “full self-driving” and “Autopilot” features for cars."
-    publishedDateTime: 2022-08-16T19:12:00Z
-    webUrl: "https://www.washingtontimes.com/news/2022/aug/16/california-dmv-accuses-tesla-false-advertising-aut/"
-    type: article
-    provider:
-      name: Washington Times
-      domain: washingtontimes.com
-    quality: 11
-
 secured: "iZSqKPrezw5EM3k4YbLAd25ntZ0u2DunbFpm4bi5Cgqjw/XThMQuB3qK+jbqVBxmMHEf9yyuPzV2cT2XpTZELUz6pjJcN1ZKXn8JIND3lKeKVvMJgmeUOTI7MIbzgAc5qFrYUTNMCjBNG341Pd8zKCScZ5NDK1NhgC3Z4a5teEAXEqQGF3BY7PLwxtH+/lMurxdQ8kfH3HsvBPDddlOZUqs6oBJHAzADWbg3W++LYEVTgHl9UhSyLcmD1EGooBibZPSMHaxyWxdkNd4q84OmP4esukT1QvDyF/xjQciSjF1MevSWshiR+cKaLZ+W4UgLgirB3z9SJMqfqjBONsX3qvoZN1tcCQv8ZgN4vyjh+4o=;Pyf9xxPTW5Lufol0ZpFwsw=="
 ---
 
