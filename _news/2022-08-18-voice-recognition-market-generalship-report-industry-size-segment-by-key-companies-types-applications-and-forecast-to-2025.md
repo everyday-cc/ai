@@ -23,88 +23,85 @@ topics:
   - AI
 
 related:
-  - title: "Machine Learning Market generalship by Technology, Solutions, Application, Price, Demand Analysis and Growth Opportunities to 2025"
-    excerpt: "Global Machine Learning Market Report focuses on the major drivers and restraints for the key players. These Research Report also provides granular analysis of the market share, segmentation, revenue forecasts and geographic regions of the market."
-    publishedDateTime: 2022-08-19T12:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-generalship-by-technology-solutions-application-price-demand-analysis-and-growth-opportunities-to-2025-2022-08-19"
+  - title: "Top 4 AI-based Face Recognition Applications"
+    excerpt: "Besides mobile face recognition, voice recognition is also used to enhance security. The user’s voice and face work as a password and is like the biometric key to unlocking all the apps. AppLock amalgamates the speaker and face recognition technology to ..."
+    publishedDateTime: 2022-08-17T13:31:00Z
+    webUrl: "https://techbullion.com/top-4-ai-based-face-recognition-applications/"
+    ampWebUrl: "https://techbullion.com/top-4-ai-based-face-recognition-applications/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-4-ai-based-face-recognition-applications/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 76
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/08/Some-popular-face-recognition-apps.jpg"
+        width: 918
+        height: 600
+        isCached: true
+  - title: "LSU professor creates AI-based startup focused on space exploration"
+    excerpt: "LSU physics professor Jeffery Chancellor has launched Atlantis Industries, a startup that uses artificial intelligence to help design and build satellites and other items for space exploration, according to a university announcement."
+    publishedDateTime: 2022-08-17T19:53:00Z
+    webUrl: "https://www.businessreport.com/business/lsu-professor-creates-ai-based-startup-focused-on-space-exploration"
+    ampWebUrl: "https://www.businessreport.com/business/lsu-professor-creates-ai-based-startup-focused-on-space-exploration?amp=1"
+    cdnAmpWebUrl: "https://www-businessreport-com.cdn.ampproject.org/c/s/www.businessreport.com/business/lsu-professor-creates-ai-based-startup-focused-on-space-exploration?amp=1"
+    type: article
+    provider:
+      name: Baton Rouge Business Report
+      domain: businessreport.com
+    quality: 57
+    images:
+      - url: "https://s25562.pcdn.co/wp-content/uploads/2022/08/iStock-1248873601.jpg"
+        width: 1365
+        height: 768
+        isCached: true
+  - title: "Wisconsin Health System Implements AI-Based Automation to Improve Operations"
+    excerpt: "Wisconsin-based ThedaCare has deployed artificial intelligence-based care operations automation software to enhance patient experience and outcomes."
+    publishedDateTime: 2022-08-16T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/wisconsin-health-system-implements-ai-based-automation-to-improve-operations"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/wisconsin-health-system-implements-ai-based-automation-to-improve-operations"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/wisconsin-health-system-implements-ai-based-automation-to-improve-operations"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 34
+  - title: "AI In Aviation Market Size and Growth 2022 Analysis Report by Types, Opportunities, Future Plans, Types, Application and Forecast to 2028"
+    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI In Aviation Market” 2022"
+    publishedDateTime: 2022-08-18T07:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-aviation-market-size-and-growth-2022-analysis-report-by-types-opportunities-future-plans-types-application-and-forecast-to-2028-2022-08-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 41
+    quality: 34
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market Size 2022 Global Business Growth, Industry Revenue, Demand and Applications Market Research Report to 2030"
-    excerpt: "Aug 16, 2022 (The Expresswire) -- Global Computer Vision Market report provides an In-Depth overview of the industry including its definition, applications and manufacturing technology."
-    publishedDateTime: 2022-08-16T08:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-2022-global-business-growth-industry-revenue-demand-and-applications-market-research-report-to-2030-2022-08-16"
+  - title: "Auditoria.Al Tops the Constellation ShortList of AI-Driven Cognitive Applications for the Third Year in a Row"
+    excerpt: "As an AI-driven Cognitive ... such as Microsoft 365 and Google Workspace. Constellation Research advises leaders on leveraging disruptive technologies to achieve business model transformation and streamline business processes. Products and services named ..."
+    publishedDateTime: 2022-08-17T15:06:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-35e1a35b4d51cf0c419354ba1a459f27"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
-  - title: "Deep Learning Market Market Size, Global Trends, Latest Techniques, Key Segments And Geography Forecasts Till 2028"
-    excerpt: "The Global “Deep Learning Market” 2022 research report presents an in-depth analysis of the Deep Learning Market size, growth, share, segments, manufacturers, and forecast, competition ..."
-    publishedDateTime: 2022-08-17T12:31:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-market-size-global-trends-latest-techniques-key-segments-and-geography-forecasts-till-2028"
+  - title: "Auditoria.Al Tops the Constellation ShortList of AI-Driven Cognitive Applications for the Third Year in a Row"
+    excerpt: "Constellation predicts that the total market for this autonomous enterprise market, including cognitive applications ... and collaboration tools such as Microsoft 365 and Google Workspace."
+    publishedDateTime: 2022-08-17T17:56:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56834973-auditoria-al-tops-the-constellation-shortlist-of-ai-driven-cognitive-applications-for-the-third-year-in-a-row-200.htm"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 17
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/a6ce76f71c99cdb34a0b6fc0ee9f528221756c34-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Artificial Intelligence Application Market 2022: Global Trends, Size, Segments, Forces Analysis, Revenue, Challenges and Growth Forecast to 2028"
-    excerpt: "The global Artificial Intelligence Application Market report focused on a thorough examination of the industry's"
-    publishedDateTime: 2022-08-17T07:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-application-market-2022-global-trends-size-segments-forces-analysis-revenue-challenges-and-growth-forecast-to-2028-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 10
-  - title: "Natural Language Processing Market (NLP) Demands, Key Players, Size, Growth, Trends, Technology and Forecasts to 2027 - ReportsnReports"
-    excerpt: "ReportsnReports added Global Natural Language Processing (NLP) Market Report to its research database with its 336 no. of research pages report. The Natural Language Processing (NLP) Market size to grow from USD 15."
-    publishedDateTime: 2022-08-19T09:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-natural-language-processing-market-nlp-demands-key-players-/2022/08/19/9659241.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 2
-  - title: "Self-Driving Car Market Size 2022 Share Estimation, Top Players Updates, Consumer-Demand, Developments Plans, Industry Impact And Forecast Till 2031"
-    excerpt: "Kenneth Research added a report on  Self-Driving Car Market  into the repository of market research reports. The report includes"
-    publishedDateTime: 2022-08-16T06:03:00Z
-    webUrl: "https://menafn.com/1104701138/Self-Driving-Car-Market-Size-2022-Share-Estimation-Top-Players-Updates-Consumer-Demand-Developments-Plans-Industry-Impact-And-Forecast-Till-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 0
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?642885"
-        width: 408
-        height: 250
-        isCached: true
-  - title: "National award for Sheffield researchers who revolutionised teaching for the next generation of speech language therapists"
-    excerpt: "Sheffield researchers who revolutionised teaching for the next generation of speech and language therapists during the pandemic have been recognised with a prestigious national award."
-    publishedDateTime: 2022-08-19T12:27:00Z
-    webUrl: "https://www.sheffield.ac.uk/news/national-award-sheffield-researchers-who-revolutionised-teaching-next-generation-speech-language"
-    type: article
-    provider:
-      name: University of Sheffield
-      domain: sheffield.ac.uk
+      name: Finanznachrichten
+      domain: finanznachrichten.de
     quality: 0
 
 secured: "BVgkD2IiFv6FFcvg6mHWg0/qKSkf8bkLK+gO70eBPZZXySrhcoIuMswsWtOb4amcQyyrT4O9mNuNga4pH7P4AgE1hgZvrmFv6kzCkVqXTpzP24OQAilRBwkt0qQAUBY2/CWazJokc2LF6NYepX6N0xp87zMFAOlfXuXfBQnxoD2TDekVFXRyKlEgYhs0ZENSuyF5lVBU7UHIoX1SwDSpFOXh+f/qb03Ys9e4/DIkzTsNEUzMHS1EsYuZzpn2BK1CmfXFT25fYdvDumguC8LGEqBOdAp6wb+oAEHmVPK6Nu4tlIHlT7r8lUeib8uv8Ue4lKbfZKFuZYX8PxnPqFBRwInfkVhVywQgE8RBhOvAhPA=;T/mq5UO/NOdjKJI6Ad9Gsg=="

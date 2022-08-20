@@ -2,6 +2,297 @@
   "page": 103,
   "value": [
     {
+      "path": "_news/2022-05-31-3-business-solutions-where-ai-is-a-good-choice.md",
+      "title": "3 business solutions where AI is a good choice",
+      "excerpt": "Now that AI is cheap and widely available, we often leverage it too often and for the wrong reason. Here's where cloud-based AI provides the most value.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.html",
+      "originalUrl": "https://www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/05/17/10/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-large-100928072-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.amp.html",
+      "publishedDateTime": "2022-05-31T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-imagination-launches-open-access-program-providing-scale-ups-with-a-low-cost-path-to-differentiated-silicon.md",
+      "title": "Imagination launches Open Access program, providing scale-ups with a low-cost path to differentiated silicon",
+      "excerpt": "London, England - 31st May 2022 – Imagination Technologies announces its Open Access program, offering access for early-stage companies to select class-leading GPU and AI accelerator IP without any licensing costs. This lowers the barriers of entry to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.design-reuse.com/news/52041/imagination-open-access-program-gpu-ai-accelerator-ip.html",
+      "originalUrl": "https://www.design-reuse.com/news/52041/imagination-open-access-program-gpu-ai-accelerator-ip.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.design-reuse.com/news_img2/homepage52041/img2b.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T02:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design-Reuse",
+        "domain": "design-reuse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-iq-ai-surges-after-us-fda-submission-by-imaging-biometrics-subsidiary.md",
+      "title": "IQ-AI surges after US FDA submission by Imaging Biometrics subsidiary",
+      "excerpt": "Imaging Biometrics' patented artificial intelligence technology eliminates the need for gadolinium-based contrast agents in MRI exams",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.com.au/companies/news/983674/iq-ai-surges-after-us-fda-submission-by-imaging-biometrics-subsidiary-983674.html",
+      "originalUrl": "https://www.proactiveinvestors.com.au/companies/news/983674/iq-ai-surges-after-us-fda-submission-by-imaging-biometrics-subsidiary-983674.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA1XC8yMDIxLTAzLTA0LTA3LTM4LTA3LTBiMTFlNzhiYTY5OWY1ODU4MDAzZTNhMTFjOWYwOGFiXzYyOTVkMGYzNTAwNDAuanBnIiwiZWRpdHMiOnsicmVzaXplIjp7IndpZHRoIjoxMjAwLCJoZWlnaHQiOjc0MCwiZml0IjoiY292ZXIifX19",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.proactiveinvestors.com.au/companies/amp/news/983674",
+      "cdnAmpWebUrl": "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/983674",
+      "publishedDateTime": "2022-05-31T01:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactiveinvestors UK",
+        "domain": "proactiveinvestors.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-henson-group-and-ingram-micro-cloud-align-to-deliver-100m-in-azure-sales.md",
+      "title": "Henson Group and Ingram Micro Cloud Align to Deliver $100M+ in Azure Sales",
+      "excerpt": "The Henson Group, an elite Azure Expert MSP, and Ingram Micro Cloud, operator of one of the world's largest cloud marketplaces for the channel, have announced a multi-year agreement to",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyrecordnews.com/news/state/henson-group-and-ingram-micro-cloud-align-to-deliver-100m-in-azure-sales/article_145290cc-f151-55ea-a25b-b55db039796d.html",
+      "originalUrl": "https://www.dailyrecordnews.com/news/state/henson-group-and-ingram-micro-cloud-align-to-deliver-100m-in-azure-sales/article_145290cc-f151-55ea-a25b-b55db039796d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ellensburg Daily Record",
+        "domain": "dailyrecordnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg.md",
+      "title": "Inspur Information and MEGWARE Build a Leading GPU Cluster for the Friedrich-Alexander-Universität Erlangen-Nürnberg",
+      "excerpt": "Inspur information, a leading IT infrastructure solutions provider, and MEGWARE, a high-performance computing (HPC) solutions provider in Europe, combined efforts to bolster the scientific research capabilities of the Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) through its Erlangen National Center for High-Performance Computing (NHR@FAU).",
+      "sourceUrl": null,
+      "webUrl": "https://www.kentuckytoday.com/news/business/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universit-t/article_752e9a52-2c8d-58a1-8aaa-12e31deee52f.html",
+      "originalUrl": "https://www.kentuckytoday.com/news/business/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universit-t/article_752e9a52-2c8d-58a1-8aaa-12e31deee52f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kentucky Today",
+        "domain": "kentuckytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-industrial-robot-controllers-market-is-expected-to-exceed-us-16571-mn-by-the-end-of-2029.md",
+      "title": "Industrial Robot Controllers Market Is Expected To Exceed US$ 1657.1 Mn By The End Of 2029",
+      "excerpt": "As per the findings of the report, the global industrial robot controller market is anticipated to see substantial growth over the forecast period, set in motion by increase in the adoption of Human Machine Interaction (HMI),",
+      "sourceUrl": null,
+      "webUrl": "https://www.fmiblog.com/2022/05/31/industrial-robot-controllers-market-is-expected-to-exceed-us-1657-1-mn-by-the-end-of-2029/",
+      "originalUrl": "https://www.fmiblog.com/2022/05/31/industrial-robot-controllers-market-is-expected-to-exceed-us-1657-1-mn-by-the-end-of-2029/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-30T22:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Future Market Insights",
+        "domain": "fmiblog.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-the-role-of-artificial-intelligence-in-todays-digital-advertising.md",
+      "title": "The role of artificial intelligence in today’s digital advertising",
+      "excerpt": "According to The Insight Partners’ analysis, the worldwide Artificial Intelligence in the marketing sector is estimated to reach US$ 107,535.57 million by 2028, growing at a 31.6% compound ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/brandwagon/the-role-of-artificial-intelligence-in-todays-digital-advertising/2541323/",
+      "originalUrl": "https://www.financialexpress.com/brandwagon/the-role-of-artificial-intelligence-in-todays-digital-advertising/2541323/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/05/Manu-Gupta-ET-Medialabs.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/brandwagon/the-role-of-artificial-intelligence-in-todays-digital-advertising/2541323/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/brandwagon/the-role-of-artificial-intelligence-in-todays-digital-advertising/2541323/lite/",
+      "publishedDateTime": "2022-05-30T22:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-memorial-day-vacuum-sales-save-on-cordless-and-robot-vacuums.md",
       "title": "Memorial Day vacuum sales: Save on cordless and robot vacuums",
       "excerpt": "Because the Jet 75 weighs only 6 pounds, you won’t mind switching ... the robotic floor cleaner around your house to schedule cleaning sessions or changing modes, you can control the SpinWave ...",
@@ -780,315 +1071,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
-      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
-      "excerpt": "Artificial intelligence (AI) is an emerging field that many companies are taking advantage of in innovative ways. AI doesn't just mean talking robots destined to take over the planet one day. It's involved in maximizing advertising effectiveness,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2",
-      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp",
-      "publishedDateTime": "2022-05-30T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-one-ai-raises-8m-to-curate-business-specific-nlp-models.md",
-      "title": "One AI raises $8M to curate business-specific NLP models",
-      "excerpt": "Ben previously was the head of AI at LogMeIn after the company acquired his second startup, Nanorep, an AI and chatbot vendor. Dror helped to co-found Nanorep and served as a platform product ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/30/one-ai-raises-8m-to-curate-business-specific-nlp-models/",
-      "originalUrl": "https://techcrunch.com/2022/05/30/one-ai-raises-8m-to-curate-business-specific-nlp-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2017/06/gettyimages-683632096.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/30/one-ai-raises-8m-to-curate-business-specific-nlp-models/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/30/one-ai-raises-8m-to-curate-business-specific-nlp-models/amp/",
-      "publishedDateTime": "2022-05-30T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-x-marks-the-spot-for-completion-of-green-roofed-furniture-factory.md",
-      "title": "X marks the spot for completion of green-roofed furniture factory",
-      "excerpt": "The Bjarke Ingels Group (BIG) is often at its most interesting when mixing contrasting ideas and functions into its projects – such as its power plant/ski slope for example. In a similar vein comes The Plus,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/architecture/big-the-plus-completed",
-      "originalUrl": "https://newatlas.com/architecture/big-the-plus-completed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/794d27a/2147483647/strip/true/crop/5460x3640+2+0/resize/1200x800!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F1b%2F40%2Ff0a63ff44979b4f94f4d3752830f%2Fthe-plus-51883550484-o.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://newatlas.com/architecture/big-the-plus-completed/?amp=true",
-      "cdnAmpWebUrl": "https://newatlas-com.cdn.ampproject.org/c/s/newatlas.com/architecture/big-the-plus-completed/?amp=true",
-      "publishedDateTime": "2022-05-30T03:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-reply-automation-and-artificial-intelligence-are-the-strategic-keys-for-an-effective-defense-against-growing-threats-in-the-digital-world.md",
-      "title": "Reply: Automation and Artificial Intelligence Are the Strategic Keys for an Effective Defense Against Growing Threats in the Digital World",
-      "excerpt": "Smart Homes, Connected Cars, Delivery Robots: this evolution will not stop and so, in tandem, it will be necessary to develop automated and AI-based solutions to combat the growing number of security threats.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-politics-data-privacy-artificial-intelligence-96cf59f99ee348e386831b699eb560aa",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-politics-data-privacy-artificial-intelligence-96cf59f99ee348e386831b699eb560aa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-google-assistant-personalised-speech-recognition-will-help-it-learn-your-most-used-nameswords.md",
-      "title": "Google Assistant 'Personalised speech recognition' will help it learn your most used names/words",
-      "excerpt": "Google's popular assistant will soon gain the ability to learn how you pronounce frequently used words, according to a recent report",
-      "sourceUrl": null,
-      "webUrl": "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition",
-      "originalUrl": "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/161315-phones-news-google-assistant-personalised-speech-image1-ukvcyl6jmb.jpg",
-          "width": 943,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml",
-      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/phones/news/google/161315-google-assistant-personalised-speech-recognition.amphtml",
-      "publishedDateTime": "2022-05-30T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pocket-lint",
-        "domain": "pocket-lint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-nwu-engineers-develop-a-tiny-remote-controlled-robot-crab.md",
-      "title": "NWU Engineers Develop A Tiny Remote-Controlled Robot Crab!",
-      "excerpt": "Northwestern University engineers have unveiled the world’s tiniest remote-controlled walking robot – a tiny robotic crab! The machine is only a half-millimeter broad and can fit on the edge of a penny with room to spare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab",
-      "originalUrl": "https://www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/05/Low-Res_Fig.-1D-2.jpg-e1653898568941.png",
-          "width": 500,
-          "height": 294,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab/amp",
-      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab/amp",
-      "publishedDateTime": "2022-05-30T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics For You",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-naver-launches-ai-call-service-aimed-at-seniors.md",
-      "title": "Naver launches AI call service aimed at seniors",
-      "excerpt": "Tech giant Naver said Monday that it has officially launched an artificial intelligence-based call service for older people who live alone. The service, Clova AI Contact Center Solution, is operated by the company’s AI technology Hyperclova,",
-      "sourceUrl": null,
-      "webUrl": "https://koreaherald.com/view.php?ud=20220530000643",
-      "originalUrl": "https://koreaherald.com/view.php?ud=20220530000643",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F05%2F30%2F20220530000595_0.jpg",
-          "width": 630,
-          "height": 354,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "http://m.koreaherald.com/amp/view.php?ud=20220530000643",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/m.koreaherald.com/amp/view.php?ud=20220530000643",
-      "publishedDateTime": "2022-05-30T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

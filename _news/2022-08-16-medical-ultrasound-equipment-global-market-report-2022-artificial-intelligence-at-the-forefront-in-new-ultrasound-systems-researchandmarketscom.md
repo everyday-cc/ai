@@ -39,15 +39,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 14
-  - title: "Global AI CCTV Market (2022 to 2030) - Opportunity Analysis and Industry Forecasts - ResearchAndMarkets.com"
-    excerpt: "The \"AI CCTV Market by Offering, by Camera Type, by Deployment, and by End-user - Global Opportunity Analysis and Industry Forecast, 2022 - 2030\" report has been added to ResearchAndMarkets.com's offering."
-    publishedDateTime: 2022-08-16T16:16:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-global-ai-cctv-market-2022-to-2030-opportunity-analysis-and-industry-forecasts-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 1
   - title: "Artificial Intelligence In Drug Discovery Global Market to Grow from $1.04 Billion to $2.99 Billion by 2026"
     excerpt: "The global artificial intelligence (AI) in drug discovery market is expected to grow from $791.83 million in 2021 to $1042.30 million in 2022 at a compound annual growth rate (CAGR) of 31.6%. The market is expected to reach $2994."
     publishedDateTime: 2022-08-16T11:04:00Z
@@ -56,6 +47,15 @@ related:
     provider:
       name: TMCnet
       domain: tmcnet.com
+    quality: 0
+  - title: "LAMEA Artificial Intelligence In Fintech Market to Expand by 19.2% Annually Through 2028 - ResearchAndMarkets.com"
+    excerpt: "The \"LAMEA Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment (On-premise and Cloud), By Application, By Country and Growth Forecast,"
+    publishedDateTime: 2022-08-16T13:38:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-lamea-artificial-intelligence-in-fintech-market-to-expand-by-192-annually-through-2028-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 0
   - title: "The Worldwide Artificial Intelligence for Drug Discovery and Development Industry is Expected to Reach $4.8 Billion by 2027 - ResearchAndMarkets.com"
     excerpt: "The Global Artificial Intelligence for Drug Discovery and Development Market is estimated to be USD 1.22 Bn in 2022 and is expected to reach USD 4.8 Bn by 2027, growing at a CAGR of 31.54%. Market dynamics are forces that impact the prices and behaviors of the stakeholders."

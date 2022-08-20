@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-20-university-of-liverpool-crystal-complexity-tamed-by-machine-learning.md",
+      "title": "University of Liverpool: Crystal Complexity Tamed by Machine Learning",
+      "excerpt": "Researchers at the University of Liverpool, the University of Bristol, University College London (UCL), and Diamond Light Source have developed new understanding of gallium oxide by combining a machin",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/university-of-liverpool-crystal-complexity-tamed-by-machine-learning/",
+      "originalUrl": "https://indiaeducationdiary.in/university-of-liverpool-crystal-complexity-tamed-by-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2022/04/University-of-Liverpool.jpg?fit=1000%2C355&ssl=1",
+          "width": 1000,
+          "height": 355,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/university-of-liverpool-crystal-complexity-tamed-by-machine-learning/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-liverpool-crystal-complexity-tamed-by-machine-learning/",
+      "publishedDateTime": "2022-08-19T23:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-20-are-you-making-these-deadly-mistakes-with-your-ai-projects.md",
       "title": "Are You Making These Deadly Mistakes With Your AI Projects?",
       "excerpt": "You need enough, but not too much. “Goldilocks data” is what people often say: not too much, not too little, but just right. Unfortunately, far too often, organizations are jumping into AI projects without first addressing an understanding of their data.",
@@ -251,7 +294,7 @@
       "originalUrl": "https://electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 157,
+      "heat": 147,
       "tags": null,
       "images": [
         {
@@ -303,7 +346,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/best-practices-for-tensorflow-1-x-acceleration-training-on-amazon-sagemaker/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 166,
+      "heat": 156,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -702,7 +745,7 @@
       "originalUrl": "https://venturebeat.com/security/10-top-cybersecurity-online-courses-and-certifications-in-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1190,58 +1233,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-can-we-replicate-humanness-in-a-robots-behavior.md",
-      "title": "Can We Replicate Humanness In A Robot’s Behavior?",
-      "excerpt": "Researchers at Istituto Italiano di Tecnologia are looking at why its possible to create humanness in robotic behavior.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2022/08/18/is-it-possible-to-replicate-humanness-in-a-robots-behavior/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2022/08/18/is-it-possible-to-replicate-humanness-in-a-robots-behavior/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f3efa554d746cc809bd91b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2022/08/18/is-it-possible-to-replicate-humanness-in-a-robots-behavior/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2022/08/18/is-it-possible-to-replicate-humanness-in-a-robots-behavior/amp/",
-      "publishedDateTime": "2022-08-18T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

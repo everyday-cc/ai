@@ -7,7 +7,7 @@ originalUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-sit
 webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-sitcom-explores-ai-challenges-and-the-war-on-talent"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "When AI Meets Fintech : Discover More About the Match Made in Heaven!"
+    excerpt: "Unsurprisingly, the entire credit goes to the fintech industry, and the market is booming. Indeed, the pandemic posed a challenge in front of businesses, which fortunately led to a better understanding of technologies and adoption of the same."
+    publishedDateTime: 2022-08-17T15:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/when-ai-meets-fintech-discover-more-about-the-match-made-in-heaven-2022-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Jason Simon explains the benefits artificial intelligence offers the FinTech space"
     excerpt: "FinTech presents an important variety of technologies such as financial services through software, such as online banking, mobile payment applications, mobile wallets, blockchain and even cryptocurrencies."
     publishedDateTime: 2022-08-19T15:51:00Z
@@ -34,33 +48,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 28
-  - title: "Fintech-focused Cape Town Stock Exchange raises R85m"
-    excerpt: "The oversubscribed round was led by Imvelo Ventures, with participation from Lebashe, Pallidus, Shaolin and Gary Stroebel."
-    publishedDateTime: 2022-08-19T13:45:00Z
-    webUrl: "https://www.itweb.co.za/content/8OKdWqDXEmaqbznQ"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 19
-  - title: "Global Alternative Investment Management Launches FinTech Fund II"
-    excerpt: "Appleton, Wis.-based private fund management company Global Alternative Investment Management has launched FinTech Fund II, which is available to Qualified Purchasers"
-    publishedDateTime: 2022-08-18T10:10:00Z
-    webUrl: "https://www.finsmes.com/2022/08/global-alternative-investment-management-launches-fintech-fund-ii.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 4
-  - title: "Optasia one of top 25 Fintech companies in the MENA"
-    excerpt: "Optasia enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets.. Optasia one of top 25 Fintech companies in the MENA. Artificial Intelligence,"
-    publishedDateTime: 2022-08-18T04:00:00Z
-    webUrl: "https://www.itp.net/emergent-tech/optasia-one-of-top-25-fintech-companies-in-the-mena"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 4
   - title: "New Venture Fund Provides Investors Exposure to the Disrupting Fintech Sector"
     excerpt: "FinTech Fund II has raised $1.9 million to date and has deployed initial capital into four investments: a diversified blockchain fund that seeks out venture equity along with early stage and established token investments,"
     publishedDateTime: 2022-08-17T16:06:00Z
@@ -70,15 +57,6 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 1
-  - title: "LAMEA Artificial Intelligence In Fintech Market to Expand by 19.2% Annually Through 2028 - ResearchAndMarkets.com"
-    excerpt: "The \"LAMEA Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment (On-premise and Cloud), By Application, By Country and Growth Forecast,"
-    publishedDateTime: 2022-08-16T13:38:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-lamea-artificial-intelligence-in-fintech-market-to-expand-by-192-annually-through-2028-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "kDuUS88HsICh+kompN/KW8lvYkQojK6fs3VuRfRkVcERAyIYcbgx1C9jY+yXuI0ork2CCleXdPwYmc7SmG0ioAWZjZxNfda+62zy//3N9MMxcATSOxMwgEjar9ydUi9ZPceOAfDW+WoLfgbX1juxsBprmj+eqLzQTNkfcOI0TxCGtv2dUJuRWH1lfBUf2dxplh3ZhB9RfTQkpn7c6u2f5yrkimxLxCtyzcgD97aoaG+fqA/6qJtIKtIVC0zP7p3VfpVclb34hV4uWzABqZJJ75DTbXIkcPClwx37m9w0S2hF79ktExwzUuQ1jB785ykSlQUIy9mMfc2d4nHeoKGOXLRxURqFuvBbIj+wmKKbxK3gDeB+SEzqrQAzVa1WOUyBTomckuNhni6huMYDQEbK4Zg+ZAMmNf04kplRM1uP22DBXvp3GYuOprgR9f5+kIvZIf2qoETi82UMS01N86LsmolL6WqY6vtKL8cIBqgygV+nuWM0F3oErl9M5gUwPbQFZB1ht+oyK4NhnXsJ1tpBow==;M/me7uoVQyQSe2VGz4q5dQ=="
 ---

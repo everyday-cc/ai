@@ -2,6 +2,308 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2022-06-28-speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai.md",
+      "title": "Speechmatics raises $62M for its inclusive approach to speech-to-text AI",
+      "excerpt": "I wrote about an AI startup that’s building technology that can alter, in real time, the accent of someone’s speech. But what if the AI goal instead is to make it possible for people speaking in whatever way they do,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/28/speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai/",
+      "originalUrl": "https://techcrunch.com/2022/06/28/speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/image-1.jpg?w=680",
+          "width": 679,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/28/speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/28/speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai/amp/",
+      "publishedDateTime": "2022-06-28T00:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-govt-unveils-w1tr-spending-package-for-ai-chip-dominance.md",
+      "title": "Govt. unveils W1tr spending package for AI chip dominance",
+      "excerpt": "The government will also support feasibility studies for AI chips and endorse collaborative research projects with counterparts in the United States. The Science Ministry said the nation‘s focus ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreaherald.com/view.php?ud=20220627000640&np=7&mp=1",
+      "originalUrl": "https://www.koreaherald.com/view.php?ud=20220627000640&np=7&mp=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F06%2F27%2F20220627000640_0.jpg",
+          "width": 630,
+          "height": 419,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20220627000640",
+      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20220627000640",
+      "publishedDateTime": "2022-06-27T22:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Herald",
+        "domain": "koreaherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-cyber-security-in-robotics-market-2022-key-players-end-user-demand-and-consumption-by-2029.md",
+      "title": "Cyber Security in Robotics Market 2022 Key Players, End User, Demand and Consumption by 2029",
+      "excerpt": "The Cyber Security in Robotics Marketis slated to top US$ 3.5 Bn in 2022 and Expand at a healthy 11.0% CAGR, the",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cyber-security-in-robotics-market-2022-key-players-end-user-demand-and-consumption-by-2029-2022-06-28",
+      "originalUrl": "https://www.marketwatch.com/press-release/cyber-security-in-robotics-market-2022-key-players-end-user-demand-and-consumption-by-2029-2022-06-28",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T22:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-robotic-arms-connected-directly-to-brain-of-partially-paralyzed-man-allows-him-to-feed-himself.md",
+      "title": "Robotic arms connected directly to brain of partially paralyzed man allows him to feed himself",
+      "excerpt": "In less than 90 seconds, a person with very limited upper body mobility who hasn’t been able to use his fingers in about 30 years, just fed himself dessert using his mind and some smart robotic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/957122",
+      "originalUrl": "https://www.eurekalert.org/news-releases/957122",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T21:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-study-suggests-what-the-human-robot-relationship-looks-like.md",
+      "title": "Study Suggests What the Human-Robot Relationship Looks Like",
+      "excerpt": "For instance, how do humans respond to the autonomous actions of the robots that they control? Recent research in Scientific Reports finds that the independent actions and “attitudes” of semi-autonomous robots positively influence those of their operators.",
+      "sourceUrl": null,
+      "webUrl": "https://www.discovermagazine.com/technology/study-suggests-what-the-human-robot-relationship-looks-like",
+      "originalUrl": "https://www.discovermagazine.com/technology/study-suggests-what-the-human-robot-relationship-looks-like",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T20:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Discover Magazine",
+        "domain": "discovermagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-varian-makes-cancer-care-affordable-to-all-indians-with-ai-machine-learning.md",
+      "title": "Varian makes cancer care affordable to all Indians with AI & machine learning",
+      "excerpt": "Thanks to radiotherapy, radiosurgery and other vital cancer-fighting tools, cancer is beatable today, and every new development only proves this further. Excerpts from an interview with Ashok Kakkar,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/varian-makes-cancer-care-affordable-to-all-indians-with-ai-machine-learning/articleshow/92506956.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/varian-makes-cancer-care-affordable-to-all-indians-with-ai-machine-learning/articleshow/92506956.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-69654,msid-92506959/ashok-kakkar-senior-managing-director-india-varian-a-siemens-healthineers-company.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/magazines/panache/varian-makes-cancer-care-affordable-to-all-indians-with-ai-machine-learning/amp_articleshow/92506956.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/varian-makes-cancer-care-affordable-to-all-indians-with-ai-machine-learning/amp_articleshow/92506956.cms",
+      "publishedDateTime": "2022-06-27T20:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-apple-reportedly-preparing-to-release-a-flood-of-new-products.md",
+      "title": "Apple reportedly preparing to release a ‘flood of new products’",
+      "excerpt": "Apple Inc. is preparing to launch a wide range of new products in the second half of the year and early 2023, according to a report by Bloomberg’s Mark Gurman. Describing the forthcoming ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/06/26/apple-reportedly-preparing-release-flood-new-products/",
+      "originalUrl": "https://siliconangle.com/2022/06/26/apple-reportedly-preparing-release-flood-new-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/09/Apple_iphone13_design_09142021.jpg",
+          "width": 1960,
+          "height": 1102,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T18:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-artificial-intelligence-in-cancer-diagnosis-and-therapy-market-size-worth-usd-5299-millionglobally-by-2030-at-344-cagr-emergen-research.md",
       "title": "Artificial Intelligence in Cancer Diagnosis and Therapy Market Size Worth USD 5,299 Million,Globally, by 2030 at 34.4% CAGR: Emergen Research",
       "excerpt": "Increased approval of AI-based devices for cancer therapy by FDA is a key factor driving AI in cancer diagnosis & therapy market revenue growth The global Artificial Intelligence (AI) in cancer ...",
@@ -835,336 +1137,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-dont-worry-about-the-robot-revolution-one-expert-explains-why-ai-is-nowhere-near-sentience.md",
-      "title": "Don't worry about the robot revolution: One expert explains why AI is nowhere near sentience",
-      "excerpt": "Earlier this month, a Google engineer claimed that the company's artificial intelligence had achieved sentience, the ability to experience feeling and thought. But many experts are skeptical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbur.org/hereandnow/2022/06/27/ai-sentience",
-      "originalUrl": "https://www.wbur.org/hereandnow/2022/06/27/ai-sentience",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d279m997dpfwgl.cloudfront.net/wp/2022/06/AP20007048093657.jpg",
-          "width": 3000,
-          "height": 2035,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.wbur.org/hereandnow/2022/06/27/ai-sentience",
-      "cdnAmpWebUrl": "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/hereandnow/2022/06/27/ai-sentience",
-      "publishedDateTime": "2022-06-27T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBUR",
-        "domain": "wbur.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-what-does-the-science-say-about-teas-impact-on-cognitive-function-as-you-age.md",
-      "title": "What Does the Science Say About Tea’s Impact on Cognitive Function As You Age?",
-      "excerpt": "But before loading up on green and black teas to add to your daily routine, Dr. Fratantoni advises taking into consideration the big picture as it pertains to cognitive function as we age.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wellandgood.com/tea-cognitive-function/",
-      "originalUrl": "https://www.wellandgood.com/tea-cognitive-function/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wellandgood.com/wp-content/uploads/2022/06/Stocksy_txp5e61765bdhR300_Small_843483.jpg",
-          "width": 867,
-          "height": 577,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wellandgood.com/tea-cognitive-function/amp/",
-      "cdnAmpWebUrl": "https://www-wellandgood-com.cdn.ampproject.org/c/s/www.wellandgood.com/tea-cognitive-function/amp/",
-      "publishedDateTime": "2022-06-27T08:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Well+Good",
-        "domain": "wellandgood.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-machine-learning-as-a-service-market-report-2022-market-size-by-key-players-types-applications-countries-forecast-by-2030.md",
-      "title": "Machine Learning as a Service Market Report 2022 Market Size by Key Players, Types, Applications, Countries, Forecast by 2030",
-      "excerpt": "financial summary, business strategy and planning, SWOT analysis and current developments. The Machine Learning as a Service Market is segmented on the lines of its component, organization size ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-report-2022-market-size-by-key-players-types-applications-countries-forecast-by-2030-2022-06-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-report-2022-market-size-by-key-players-types-applications-countries-forecast-by-2030-2022-06-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-why-synthetic-data-makes-real-ai-better.md",
-      "title": "Why synthetic data makes real AI better",
-      "excerpt": "When combined with real data, synthetic data creates an enhanced dataset that often can mitigate the weaknesses of the real data.\"",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/",
-      "originalUrl": "https://venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1200224477_design_engineering_science.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/27/why-synthetic-data-makes-real-ai-better/amp/",
-      "publishedDateTime": "2022-06-27T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-mps-launch-investigation-into-self-driving-vehicles.md",
-      "title": "MPs launch investigation into self-driving vehicles",
-      "excerpt": "The Transport Select Committee will consider what needs to happen for the vehicles to become a common sight on public roads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/mps-launch-investigation-self-driving-105054267.html",
-      "originalUrl": "https://www.aol.com/mps-launch-investigation-self-driving-105054267.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/ny/api/res/1.2/xmFJ8qFOOJuoEVSvYgxM3w--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/uu/api/res/1.2/eYgDLUjJxGQwzBfZwFWgUg--~B/aD0xOTY2O3c9MzQ5NTthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/aol_press_association_news_966/698166f5dea6b0b933d2a70fc8ec91c6",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T08:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-govt-unveils-w1tr-spending-package-for-ai-chip-dominance.md",
-      "title": "Govt. unveils W1tr spending package for AI chip dominance",
-      "excerpt": "The government will also support feasibility studies for AI chips and endorse collaborative research projects with counterparts in the United States. The Science Ministry said the nation‘s focus ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20220627000640",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20220627000640",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F06%2F27%2F20220627000640_0.jpg",
-          "width": 630,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20220627000640",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20220627000640",
-      "publishedDateTime": "2022-06-27T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030.md",
-      "title": "Deep Learning Market Research Report With Revenue, Gross Margin, And Future Prospects Till 2030",
-      "excerpt": "Jun 27, 2022 (Heraldkeepers) -- The Deep Learning Market is expected to exceed more than US$ 18 Billion by 2024 at a CAGR of 42% in the given forecast period. Browse Full Report: https ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-06-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T07:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

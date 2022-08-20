@@ -20,65 +20,53 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Fintech sitcom explores AI challenges and the war on talent"
-    excerpt: "A new marketing campaign sitcom on office life in the fintech industry has been created by Daniel Tremayne-Pitter - founder of Dark Matter Media"
-    publishedDateTime: 2022-08-17T10:30:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-sitcom-explores-ai-challenges-and-the-war-on-talent"
+  - title: "Natural Language Processing (NLP) Market worth $49.4 billion by 2027 – Exclusive Report by MarketsandMarkets™"
+    excerpt: "Natural Language Processing (NLP) Market size to grow from USD 15.7 billion in 2022 to USD 49.4 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 25.7% during the"
+    publishedDateTime: 2022-08-18T14:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/g28552986/natural-language-processing-nlp-market-worth-49-4-billion-by-2027-exclusive-report-by-marketsandma"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28552986"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28552986"
     type: article
     provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/e9e536c99e2cbb01bb2c582f0fb0802a:2b15c1fb874205d86b33777f498f0f50/1080x1080-get-ahead-watch-now-still-1.png.jpg"
-        width: 1800
-        height: 1010
-        isCached: true
-  - title: "Jason Simon explains the benefits artificial intelligence offers the FinTech space"
-    excerpt: "FinTech presents an important variety of technologies such as financial services through software, such as online banking, mobile payment applications, mobile wallets, blockchain and even cryptocurrencies."
-    publishedDateTime: 2022-08-19T15:51:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/webwire-2022-8-19-jason-simon-explains-the-benefits-artificial-intelligence-offers-the-fintech-space"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+  - title: "Natural Language Processing (NLP) Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Natural Language Processing Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Natural Language Processing Market is projected to reach USD 40."
+    publishedDateTime: 2022-08-16T09:59:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-natural-language-processing-nlp-market-intelligence-report-global-forecast-to-2027-researchandmarketscom"
     type: article
     provider:
       name: Daily Herald
       domain: dailyherald.com
-    quality: 28
-  - title: "Fintech-focused Cape Town Stock Exchange raises R85m"
-    excerpt: "The oversubscribed round was led by Imvelo Ventures, with participation from Lebashe, Pallidus, Shaolin and Gary Stroebel."
-    publishedDateTime: 2022-08-19T13:45:00Z
-    webUrl: "https://www.itweb.co.za/content/8OKdWqDXEmaqbznQ"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 19
-  - title: "Global Alternative Investment Management Launches FinTech Fund II"
-    excerpt: "Appleton, Wis.-based private fund management company Global Alternative Investment Management has launched FinTech Fund II, which is available to Qualified Purchasers"
-    publishedDateTime: 2022-08-18T10:10:00Z
-    webUrl: "https://www.finsmes.com/2022/08/global-alternative-investment-management-launches-fintech-fund-ii.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 4
-  - title: "Optasia one of top 25 Fintech companies in the MENA"
-    excerpt: "Optasia enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets.. Optasia one of top 25 Fintech companies in the MENA. Artificial Intelligence,"
-    publishedDateTime: 2022-08-18T04:00:00Z
-    webUrl: "https://www.itp.net/emergent-tech/optasia-one-of-top-25-fintech-companies-in-the-mena"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 4
-  - title: "New Venture Fund Provides Investors Exposure to the Disrupting Fintech Sector"
-    excerpt: "FinTech Fund II has raised $1.9 million to date and has deployed initial capital into four investments: a diversified blockchain fund that seeks out venture equity along with early stage and established token investments,"
-    publishedDateTime: 2022-08-17T16:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-new-venture-fund-provides-investors-exposure-the-disrupting-/2022/08/17/9657793.htm"
+    quality: 14
+  - title: "Artificial Intelligence In Drug Discovery Global Market to Grow from $1.04 Billion to $2.99 Billion by 2026"
+    excerpt: "The global artificial intelligence (AI) in drug discovery market is expected to grow from $791.83 million in 2021 to $1042.30 million in 2022 at a compound annual growth rate (CAGR) of 31.6%. The market is expected to reach $2994."
+    publishedDateTime: 2022-08-16T11:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-drug-discovery-global-market-grow-from-/2022/08/16/9656310.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 1
+    quality: 0
+  - title: "Medical Ultrasound Equipment Global Market Report 2022: Artificial Intelligence at the Forefront in New Ultrasound Systems - ResearchAndMarkets.com"
+    excerpt: "The \"Medical Ultrasound Equipment - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Medical Ultrasound Equipment Market to Reach $8.2 Billion by 2026 Amid the COVID-19 crisis,"
+    publishedDateTime: 2022-08-16T12:28:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-medical-ultrasound-equipment-global-market-report-2022-artificial-intelligence-at-the-forefront-in-new-ultrasound-systems-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
+  - title: "The Worldwide Artificial Intelligence for Drug Discovery and Development Industry is Expected to Reach $4.8 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The Global Artificial Intelligence for Drug Discovery and Development Market is estimated to be USD 1.22 Bn in 2022 and is expected to reach USD 4.8 Bn by 2027, growing at a CAGR of 31.54%. Market dynamics are forces that impact the prices and behaviors of the stakeholders."
+    publishedDateTime: 2022-08-17T14:32:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-17-the-worldwide-artificial-intelligence-for-drug-discovery-and-development-industry-is-expected-to-reach-48-billion-by-2027-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "G3lHfx8i83vzLcwkt8sJT8ez144f6E32wAodiM44qWNrM5L0IB2dBZ7Zw7yNZ3VE3tPJ9MPKyz7KmxeiagQFeGlkJFeO/5cK9tu5HZkT0EPN5NFQPSOuhMT9HHhi+hyGhrR0gTz6xAGKyC2W+ul5U2GDO3+EJe5BZGbwJ+m63CrreUHjiHxj8AiXcwHPkcr7hl8Wsh9VbV8aQSc09yfAGnNMsVXWqT+CiHts51ACShCTMcHR938oaWNMzzse+PeI76wIvgWXTlShNLdoJ7/a0/r2XhVKjZztk0sQ+dbMBFSckfuzWpDQ0QnFVyVXd98zkHlBq6zstJZ2dwPGUBlb5VGrLgTPybJYHarp5EtNXuU=;a9q/BEXC4b4Dt+7zS9ldJQ=="
 ---

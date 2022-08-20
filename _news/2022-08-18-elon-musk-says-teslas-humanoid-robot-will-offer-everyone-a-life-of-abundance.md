@@ -82,15 +82,6 @@ related:
         width: 600
         height: 365
         isCached: true
-  - title: "A Tesla fan tested out the Full Self-Driving"
-    excerpt: "\"It was a little nerve-wracking in the beginning, but I knew that it was going to detect and stop,\" the child's parent said."
-    publishedDateTime: 2022-08-15T17:34:00Z
-    webUrl: "https://www.businessinsider.in/thelife/news/a-tesla-fan-tested-out-the-full-self-driving-softwares-child-detection-using-a-real-kid-after-a-video-went-viral-of-it-running-over-a-toddler-sized-mannequin/articleshow/93578352.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 19
 
 secured: "0ZV2qk/gApnHqO+RzYSmioPC1SabCUKfBT6knUNsuFWbRQWAWruS+EjSZH7QqA9CLr0em7AkxXWR7OEbYLhpKRwscqLDpN+2iXuLrWSqj/lDClyBN/D4QvGTgXnAcIqENCpmUYHTiB5WoYZAyVx/O8lnU1V7O8oahH/If3aUv91gujhci679HQZfZiV0jV2Dx9RX/z3SEA8L+aDVqL062bFuibsm6mZSG0ZHPBfcNKuuFP4UDkWPnbU8YqdDavOh8FCQP83ip/ICC0GqMeQxQ1ti6wddlpv/ZqVMn1M1Jmj9JbHGv8CEh+nfc/lLJbinmL70aWlaxLUlzC2P3Lq2cyRg5drtasHKUCtQhEIptnP/7aCVs6YBWSRwnqoPIDNx5utyDgkDJytnenEecpqcK+ki7ldkBgdQ2l1Vd+REBEM2ANoYtaXEGCrtueRLRuUi4muoe3uXn1sN4pOM4KdpNEiBsLsj5pzgozV1TMi/QJ6c6JtRQOqSsutTlE1SVwIMtHlLH+Be00tuhp/iB911bQ==;l+Sp6bih95ZZX1VZxvvqOw=="
 ---

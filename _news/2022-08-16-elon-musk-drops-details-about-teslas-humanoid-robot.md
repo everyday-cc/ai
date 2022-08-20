@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/elon-musk-drops-details-abo
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-drops-details-about-teslas-humanoid-robot/"
 type: article
 quality: 121
-heat: 171
+heat: 161
 published: true
 
 provider:
@@ -87,15 +87,6 @@ related:
       name: IOL News
       domain: iol.co.za
     quality: 32
-  - title: "A Tesla fan tested out the Full Self-Driving"
-    excerpt: "\"It was a little nerve-wracking in the beginning, but I knew that it was going to detect and stop,\" the child's parent said."
-    publishedDateTime: 2022-08-15T17:34:00Z
-    webUrl: "https://www.businessinsider.in/thelife/news/a-tesla-fan-tested-out-the-full-self-driving-softwares-child-detection-using-a-real-kid-after-a-video-went-viral-of-it-running-over-a-toddler-sized-mannequin/articleshow/93578352.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 19
 
 secured: "4DDeO+6PdV/hjg6WzNG/JRceapELVkrhjknptolRadV9uH3Sb6gVt5amOs2tadWeZ56PRQGADriosGg/SRHygd0F68UbxJZV6/hLiO0TZfl4vdz0tpl8BGbxQTlokjnlrXpAItYdGM5h/FvMsIMvw6fuzi4M+BUdlmEbI62yV8Ft7PqvNyBi4Jwa5aKptaWCgJ6soI2JvsUtGlWFH8nV5XG60sCSpiVF1F+j/Feh+gLIx8jF4Dvr+TnMm2zUnuzDF5c53KZFtzvzaaUs0p5/lxdHpUBKyvNXZM6IFxtdqSDyupSbAteM9HqKcGuxOIjKNEk6g/Gz1iLhUkRfZ9aR3D25K9hOq6EqxEr6re3vR3ZY8tVRFxc9DdnLfLwId+6KQqO+LzHSJW14NwxJY2AopPPasC9HszMxvJ1DYTltYWJOlDXouxdj/u0BGWBppccX/Qt59fF7l7SmVsaXkxHPz+Ul00BC7j0Ob/5htnkahaezhecVwJuClW4MwFG2bvSdTvWxR4GtSN2rvOvDW108Cw==;oxvLtkhaADjJxAAj0p+hKQ=="
 ---

@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-11-paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go.md",
+      "title": "PayTalk promises to handle all sorts of payments with voice, but the app has a long way to go",
+      "excerpt": "PayTalk, a new app accepted into the first Black Founders Build with Alexa Program, aims to allow users to conduct all sorts of transactions with voice commands",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/",
+      "originalUrl": "https://techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/GIMROH_q0po/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/11/paytalk-promises-to-handle-all-sorts-of-payments-with-voice-but-the-app-has-a-long-way-to-go/amp/",
+      "publishedDateTime": "2022-07-11T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-09-shinzo-abe-former-japanese-prime-minister-assassinated-during-campaign-speech.md",
       "title": "Shinzo Abe, former Japanese prime minister, assassinated during campaign speech",
       "excerpt": "Former Japanese Prime Minister Shinzo Abe died on Friday after being shot while giving a campaign speech on a street in central Japan.",
@@ -1373,58 +1425,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-02-ai-powered-speech-recognition-is-entering-a-new-phase-total-global-comprehension.md",
-      "title": "AI-powered speech recognition is entering a new phase: Total global comprehension",
-      "excerpt": "A new speech recognition startup has taken an ambitious path to leapfrog Apple, Google and other tech giants. Can AI understand all 7,000 languages in the world?",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
-      "originalUrl": "https://www.zdnet.com/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/9411a919483b45a96f423ef5d2fc198e85feafc1/2022/07/01/86d710b8-0303-4e57-8529-c789deded6df/gettyimages-1279453193.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
-      "publishedDateTime": "2022-07-01T14:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

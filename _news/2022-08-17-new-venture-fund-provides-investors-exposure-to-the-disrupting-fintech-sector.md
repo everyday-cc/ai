@@ -19,6 +19,20 @@ topics:
   - AI
 
 related:
+  - title: "When AI Meets Fintech : Discover More About the Match Made in Heaven!"
+    excerpt: "Unsurprisingly, the entire credit goes to the fintech industry, and the market is booming. Indeed, the pandemic posed a challenge in front of businesses, which fortunately led to a better understanding of technologies and adoption of the same."
+    publishedDateTime: 2022-08-17T15:48:00Z
+    webUrl: "https://www.marketwatch.com/press-release/when-ai-meets-fintech-discover-more-about-the-match-made-in-heaven-2022-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Fintech sitcom explores AI challenges and the war on talent"
     excerpt: "A new marketing campaign sitcom on office life in the fintech industry has been created by Daniel Tremayne-Pitter - founder of Dark Matter Media"
     publishedDateTime: 2022-08-17T10:30:00Z
@@ -42,42 +56,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 28
-  - title: "Fintech-focused Cape Town Stock Exchange raises R85m"
-    excerpt: "The oversubscribed round was led by Imvelo Ventures, with participation from Lebashe, Pallidus, Shaolin and Gary Stroebel."
-    publishedDateTime: 2022-08-19T13:45:00Z
-    webUrl: "https://www.itweb.co.za/content/8OKdWqDXEmaqbznQ"
-    type: article
-    provider:
-      name: ITWeb
-      domain: itweb.co.za
-    quality: 19
-  - title: "Global Alternative Investment Management Launches FinTech Fund II"
-    excerpt: "Appleton, Wis.-based private fund management company Global Alternative Investment Management has launched FinTech Fund II, which is available to Qualified Purchasers"
-    publishedDateTime: 2022-08-18T10:10:00Z
-    webUrl: "https://www.finsmes.com/2022/08/global-alternative-investment-management-launches-fintech-fund-ii.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 4
-  - title: "Optasia one of top 25 Fintech companies in the MENA"
-    excerpt: "Optasia enables instant access to financial solutions for millions of under-banked individuals and SMEs across Emerging Markets.. Optasia one of top 25 Fintech companies in the MENA. Artificial Intelligence,"
-    publishedDateTime: 2022-08-18T04:00:00Z
-    webUrl: "https://www.itp.net/emergent-tech/optasia-one-of-top-25-fintech-companies-in-the-mena"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 4
-  - title: "LAMEA Artificial Intelligence In Fintech Market to Expand by 19.2% Annually Through 2028 - ResearchAndMarkets.com"
-    excerpt: "The \"LAMEA Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment (On-premise and Cloud), By Application, By Country and Growth Forecast,"
-    publishedDateTime: 2022-08-16T13:38:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-lamea-artificial-intelligence-in-fintech-market-to-expand-by-192-annually-through-2028-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "iLpqzZBSFoaBID4okGA9fwt5nw5spJNP803ntpnqzNyPlDFJrnCNP+OeQaROAT10JHkaPEc0MgbrWg2bnT71jk+fpHOnpAO74OI5GzGB9U7h3RjyXalVxX044GodGTUeuytmJ2sJ7TSI+z6Vd9MnRMyYx/WAcK830MZVZwFYTYXnJDgHTmDQ9GXmiciabYxk5fwNvA9l7Iv46KcyYyT4oG496vc9waipt0iZvkepfKWLyerqoryamrm2+5NATwTAFwfYoPEjECqmbf1S5mBVwcaKyQGLEb1wvuWx/sMlugWEOQtknXSlrhE/SsMK2uYkjCJOER+spG0zDKmBcG66+g0tq+ngZfXDACBk+EWtJtk=;vXq5Com7Vqez1sLE7RXIIQ=="
 ---

@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-22-ai-101-the-strategies-behind-creating-and-deploying-machine-learning.md",
+      "title": "AI 101: The strategies behind creating and deploying machine learning",
+      "excerpt": "Whether we refer to this field as \"complex information processing\" or \"artificial intelligence\" (or the more ominously Skynet-sounding \"machine learning\") is irrelevant. Immense amounts of work ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/06/ai-101-the-strategies-behind-creating-and-deploying-machine-learning/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/06/ai-101-the-strategies-behind-creating-and-deploying-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-unit-221b-report-validates-deep-instincts-99-zero-day-and-01-false-positive-threat-prevention-accuracy.md",
       "title": "Unit 221B Report Validates Deep Instinct’s >99% Zero-Day and <0.1% False Positive Threat Prevention Accuracy",
       "excerpt": "Deep Instinct, the first company to apply end-to-end deep learning to cybersecurity, today announced validation of its threat prevention capabilities by cybersecurity firm Unit 221B. The claims were validated through tests in categories including portable,",
@@ -1294,49 +1337,6 @@
       "provider": {
         "name": "SC Media",
         "domain": "scmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-post-doctoral-fellow-in-artificial-intelligence-and-deep-learning.md",
-      "title": "Post-doctoral Fellow in Artificial Intelligence and Deep Learning",
-      "excerpt": "Applications are invited for appointment as Post-doctoral Fellow in Artificial Intelligence and Deep Learning in the Department of Medicine, School of Clinical Medicine (Ref.: 515364), to commence as soon as possible for 18 months, with the possibility of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.timeshighereducation.com/unijobs/minisites/the-university-of-hong-kong/listing/297298/post-doctoral-fellow-in-artificial-intelligence-and-deep-learning/",
-      "originalUrl": "https://www.timeshighereducation.com/unijobs/minisites/the-university-of-hong-kong/listing/297298/post-doctoral-fellow-in-artificial-intelligence-and-deep-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.timeshighereducation.com/unijobs/getasset/bc5dd9e5-9997-4192-be9a-89c18e0171a9/;w=600;h=315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Times Higher Education",
-        "domain": "timeshighereducation.com",
         "images": null,
         "publishers": null,
         "authors": null

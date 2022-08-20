@@ -2,6 +2,335 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-08-05-create-a-tfx-pipeline-using-templates-with-local-orchestrator.md",
+      "title": "Create a TFX pipeline using templates with Local orchestrator",
+      "excerpt": "This document will provide instructions to create a TensorFlow Extended (TFX) pipeline using templates which are provided with TFX Python package. Most of instructions are Linux shell commands, and corresponding Jupyter Notebook code cells which invoke ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/tfx/tutorials/tfx/template_local",
+      "originalUrl": "https://www.tensorflow.org/tfx/tutorials/tfx/template_local",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-extended-tfx-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-meet-russias-new-killer-robot.md",
+      "title": "Meet Russia’s New Killer Robot",
+      "excerpt": "The robot’s targeting mechanism works automatically ... Moscow is also planning to introduce mind-controlled dual-use exoskeletons within the next five years (see: “Will Russia Field Robo ...",
+      "sourceUrl": null,
+      "webUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
+      "originalUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thediplomat.com/wp-content/uploads/2015/07/sizes/td-story-s-2/thediplomat_2015-07-20_15-05-18.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Diplomat",
+        "domain": "thediplomat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-vendor-big-squid.md",
+      "title": "Vendor » Big Squid",
+      "excerpt": "The days of handcrafted algorithms aren't quite over, but it's hard to dismiss to impact that automated machine learning (AutoML) is having on the data science field. As companies look to imbue intelligence into their pr Read more…",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/vendor/big-squid/",
+      "originalUrl": "https://www.datanami.com/vendor/big-squid/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/gear_head_shutterstock_admin_design.jpg",
+          "width": 1000,
+          "height": 618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-tesla-teases-optimus-humanoid-robot-prototype-with-new-image.md",
+      "title": "Tesla teases Optimus humanoid robot prototype with new image",
+      "excerpt": "Tesla has teased its Optimus humanoid robot prototype with a new image ahead of a full unveiling planned for September 30th. Earlier this year, CEO Elon Musk announced “Tesla AI Day #2” with “many cool updates” on August 19.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/",
+      "originalUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Optimus-prototype-teaser.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/04/tesla-teases-optimus-humanoid-robot-prototype-new-image/amp/",
+      "publishedDateTime": "2022-08-04T16:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-stretching-may-help-slow-cognitive-decline-as-well-as-aerobic-exercise.md",
+      "title": "Stretching May Help Slow Cognitive Decline as Well as Aerobic Exercise",
+      "excerpt": "Share on Pinterest New research suggests that stretching and balancing exercises may also be able to help slow the speed of mild cognitive decline. Sergey Narevskih/Stocksy New data suggests ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthline.com/health-news/stretching-may-help-slow-cognitive-decline-as-well-as-aerobic-exercise",
+      "originalUrl": "https://www.healthline.com/health-news/stretching-may-help-slow-cognitive-decline-as-well-as-aerobic-exercise",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://post.healthline.com/wp-content/uploads/2022/08/older-female-stretching-1200x628-facebook-1200x628.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthline",
+        "domain": "healthline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-ethical-ai-and-biometrics-move-forward-more-industry-academia-effort-needed.md",
+      "title": "Ethical AI and biometrics move forward. More industry, academia effort needed",
+      "excerpt": "The road toward ethical, inclusive AI is still long, fortunately, new generations are being provided with the tools to help research move in this direction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biometricupdate.com/202208/ethical-ai-and-biometrics-move-forward-more-industry-academia-effort-needed",
+      "originalUrl": "https://www.biometricupdate.com/202208/ethical-ai-and-biometrics-move-forward-more-industry-academia-effort-needed",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/03/07162020/synthetic-data-scaled.jpg",
+          "width": 2048,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T14:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Biometric Companies",
+        "domain": "biometricupdate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse.md",
+      "title": "Artists Are Helping To Keep Humans At The Center In EY’s Metaverse",
+      "excerpt": "The next generation of virtual worlds must focus on our shared humanity. That’s why EY’s Cognitive Human Enterprise and the New Museum’s NEW INC are bringing together artists and engineers to imagine a different kind of metaverse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/",
+      "originalUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62eb15dea5389ec014373b0b/0x0.jpg?format=jpg&crop=1298,730,x14,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/benjaminwolff/2022/08/04/artists-are-helping-to-keep-humans-at-the-center-in-eys-metaverse/amp/",
+      "publishedDateTime": "2022-08-04T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-artificial-intelligence-shows-promise-in-diagnosing-strokes.md",
       "title": "Artificial Intelligence Shows Promise in Diagnosing Strokes",
       "excerpt": "This type of stroke is typically treated by endovascular therapy (EVT). During this procedure ... 19th Annual Meeting proposes using artificial intelligence (AI) technology to identify the cause of a stroke more quickly. The patient would undergo a ...",
@@ -831,308 +1160,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-computer-vision-market-to-grow-at-healthy-cagr-as-the-potential-keep-on-unwinding-skyquest-technology.md",
-      "title": "Computer Vision Market to Grow at Healthy CAGR as the Potential keep on Unwinding | SkyQuest Technology",
-      "excerpt": "Westford, USA, Aug. 04, 2022 (GLOBE NEWSWIRE) -- Computer vision market has seen a rapid increase in popularity recently, with businesses and consumers alike turning to the technology for a number ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/08/g28352684/computer-vision-market-to-grow-at-healthy-cagr-as-the-potential-keep-on-unwinding-skyquest-technol",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/g28352684/computer-vision-market-to-grow-at-healthy-cagr-as-the-potential-keep-on-unwinding-skyquest-technol",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28352684",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28352684",
-      "publishedDateTime": "2022-08-04T01:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-cloud-natural-language-processing-market-growth-factors-details-for-business-development.md",
-      "title": "Cloud Natural Language Processing Market Growth Factors Details for Business Development",
-      "excerpt": "In a quest to fill the chasm between computer understanding and human communication, stakeholders in cloud natural language processing market are vying to augment the automation. Soaring traction towards cloud NLP has been spurred by palpable penetration of commercial applications in the market.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-growth-factors-details-for-business-development-2022-08-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-growth-factors-details-for-business-development-2022-08-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T01:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-worlds-largest-metaverse-nobody-is-talking-about.md",
-      "title": "World’s Largest Metaverse nobody is talking about",
-      "excerpt": "Blue Shark’, ‘Project Avengers’ and ‘AI Dogfighting’, which sound like titles of Marvel movies, are some of the billion-dollar metaverse projects of the US army. The metaverse project of the US army is believed to be much bigger than Meta’s metaverse.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/worlds-largest-metaverse-nobody-is-talking-about/",
-      "originalUrl": "https://analyticsindiamag.com/worlds-largest-metaverse-nobody-is-talking-about/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/military-robots.jpeg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-advanced-intelligent-robotics-speedcargo-announces-collaboration-with-gudel.md",
-      "title": "Advanced intelligent robotics: SPEEDCARGO announces collaboration with Güdel",
-      "excerpt": "Through this partnership, Güdel brings in know-how in intralogistics and material handling, while SPEEDCARGO brings two decades of experience and know-how in computer vision, robot control, AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.stattimes.com/air-cargo/advanced-intelligent-robotics-speedcargo-announces-collaboration-with-gdel-1346160",
-      "originalUrl": "https://www.stattimes.com/air-cargo/advanced-intelligent-robotics-speedcargo-announces-collaboration-with-gdel-1346160",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.stattimes.com/h-upload/2022/08/04/28540-cargo-armpr1.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.stattimes.com/amp/air-cargo/advanced-intelligent-robotics-speedcargo-announces-collaboration-with-gdel-1346160",
-      "cdnAmpWebUrl": "https://www-stattimes-com.cdn.ampproject.org/c/s/www.stattimes.com/amp/air-cargo/advanced-intelligent-robotics-speedcargo-announces-collaboration-with-gdel-1346160",
-      "publishedDateTime": "2022-08-04T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "air cargo",
-        "domain": "stattimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-making-machines-understand-languages-is-the-next-great-frontier-in-ai.md",
-      "title": "Making Machines Understand Languages Is the Next Great Frontier in AI",
-      "excerpt": "Rob Toews’ article titled “Language is the next great frontier in AI” published on Forbes.com in February ... For example, I have been fascinated by the freely available Google Translate app that you can use to point at foreign language texts such ...",
-      "sourceUrl": null,
-      "webUrl": "https://kuenselonline.com/making-machines-understand-languages-is-the-next-great-frontier-in-ai/",
-      "originalUrl": "https://kuenselonline.com/making-machines-understand-languages-is-the-next-great-frontier-in-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kuenselonline.com/wp-content/uploads/2022/08/ai.jpg",
-          "width": 1000,
-          "height": 557,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T23:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kuensel Online",
-        "domain": "kuenselonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-ai-enabled-translation-service-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028.md",
-      "title": "AI-Enabled Translation Service Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028",
-      "excerpt": "According to our recent \" AI-Enabled Translation Service market research report \", the AI-Enabled Translation Service market with a compound annual growth rate (CAGR) of a percent 2022-2028. The AI-Enabled Translation Service market report examines global,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-enabled-translation-service-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-08-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-enabled-translation-service-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-08-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-visualcortex-and-i-pro-partner-to-facilitate-enterprise-wide-computer-vision-technology-deployments-in-apac.md",
-      "title": "VisualCortex and i-PRO partner to facilitate enterprise-wide Computer Vision technology deployments in APAC",
-      "excerpt": "VisualCortex – the Video Intelligence Platform connecting computer vision's potential to real-world business outcomes – has partnered with i-PRO – global leader of advanced sensing technologies for Intelligent Surveillance and Public Safety – to streamline end-to-end deployment for enterprise-wide video analytics solutions within the Asia Pacific region.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-visualcortex-i-pro-partner-facilitate-enterprise-wide-computer-/2022/08/04/9651352.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-visualcortex-i-pro-partner-facilitate-enterprise-wide-computer-/2022/08/04/9651352.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

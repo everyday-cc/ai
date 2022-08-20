@@ -2,6 +2,324 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-07-31-tech-startup-ketos-targets-water-safety-and-scarcity.md",
+      "title": "Tech Startup KETOS Targets Water Safety And Scarcity",
+      "excerpt": "Entrepreneur Meena Sankaran discusses KETOS, a San Francisco-based startup with an AI-based platform aimed at making water safer and more sustainable through an automated testing and monitoring process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/annefield/2022/07/31/tech-startup-ketos-targets-water-safety-and-scarcity/",
+      "originalUrl": "https://www.forbes.com/sites/annefield/2022/07/31/tech-startup-ketos-targets-water-safety-and-scarcity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e6ad2220262508199932d6/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/annefield/2022/07/31/tech-startup-ketos-targets-water-safety-and-scarcity/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/annefield/2022/07/31/tech-startup-ketos-targets-water-safety-and-scarcity/amp/",
+      "publishedDateTime": "2022-07-31T09:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-31-23-collaboration-and-open-science-initiatives-in-primate-research.md",
+      "title": "23 - Collaboration and Open Science Initiatives in Primate Research",
+      "excerpt": "In this chapter, we discuss how large-scale collaboration, a research model successfully implemented in other fields, makes it possible to obtain the large and diverse datasets needed to conduct robust comparative analysis of primate cognitive abilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/books/primate-cognitive-studies/collaboration-and-open-science-initiatives-in-primate-research/BE9785FF2E4D84F7EE3F30B171EF8536",
+      "originalUrl": "https://www.cambridge.org/core/books/primate-cognitive-studies/collaboration-and-open-science-initiatives-in-primate-research/BE9785FF2E4D84F7EE3F30B171EF8536",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cambridge.org/core/cambridge-core/public/images/logo_core_page_share_600x600.jpg",
+          "width": 600,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-31T08:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-31-i-kind-of-want-this-tiny-robot-to-control-my-home.md",
+      "title": "I Kind Of Want This Tiny Robot To Control My Home",
+      "excerpt": "to be an always-on robot monitoring you as candidly as Alexa or Google Home, but in a much more adorable chassis. It connects to the internet, listens for your commands, and can even control your ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kotaku.com.au/2022/07/i-kind-of-want-this-tiny-robot-to-control-my-home/",
+      "originalUrl": "https://www.kotaku.com.au/2022/07/i-kind-of-want-this-tiny-robot-to-control-my-home/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/t_original/svexguzyzm42vbl3cc1t.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kotaku.com.au/2022/07/i-kind-of-want-this-tiny-robot-to-control-my-home/amp/",
+      "cdnAmpWebUrl": "https://www-kotaku-com-au.cdn.ampproject.org/c/s/www.kotaku.com.au/2022/07/i-kind-of-want-this-tiny-robot-to-control-my-home/amp/",
+      "publishedDateTime": "2022-07-31T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kotaku Australia",
+        "domain": "kotaku.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-31-women-better-than-men-at-operating-driverless-cars-study-finds.md",
+      "title": "Women better than men at operating driverless cars, study finds",
+      "excerpt": "Women are better at operating driverless cars than men, according to a new study. Researchers at Newcastle University found that women display faster reaction times, more control over the wheel ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/news/uk/home-news/driverless-cars-men-women-b2134985.html",
+      "originalUrl": "https://www.independent.co.uk/news/uk/home-news/driverless-cars-men-women-b2134985.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/07/04/08/iStock-1366972504.jpg?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 755,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/news/uk/home-news/driverless-cars-men-women-b2134985.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/news/uk/home-news/driverless-cars-men-women-b2134985.html",
+      "publishedDateTime": "2022-07-31T04:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-31-an-engineer-who-was-fired-by-google-says-its-ai-chatbot-is-pretty-racist-and-that-ai-ethics-at-google-are-a-fig-leaf.md",
+      "title": "An engineer who was fired by Google says its AI chatbot is 'pretty racist' and that AI ethics at Google are a 'fig leaf'",
+      "excerpt": "\"These are just engineers, building bigger and better systems for increasing the revenue into Google with no mindset towards ethics,\" Lemoine told Insider. \"AI ethics is just used as a fig leaf so ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/google-engineer-blake-lemoine-ai-ethics-lamda-racist-2022-7",
+      "originalUrl": "https://www.businessinsider.com/google-engineer-blake-lemoine-ai-ethics-lamda-racist-2022-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62d1d834632b5300188aab8d?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/google-engineer-blake-lemoine-ai-ethics-lamda-racist-2022-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/google-engineer-blake-lemoine-ai-ethics-lamda-racist-2022-7?amp",
+      "publishedDateTime": "2022-07-31T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-31-australia-pm-says-indigenous-voice-details-to-follow-referendum.md",
+      "title": "Australia PM Says Indigenous-Voice Details to Follow Referendum",
+      "excerpt": "Details for giving Australia's indigenous people a voice in parliament will follow a national referendum on the question, Prime Minister Anthony Albanese said on Sunday, adding that timing for the vote has not been decided.",
+      "sourceUrl": null,
+      "webUrl": "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum",
+      "originalUrl": "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum?context=amp",
+      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/world/articles/2022-07-30/australia-pm-says-indigenous-voice-details-to-follow-referendum?context=amp",
+      "publishedDateTime": "2022-07-31T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-31-diagnostic-robotics-raises-45m-in-series-b-funding-round.md",
+      "title": "Diagnostic Robotics Raises $45M In Series B Funding Round",
+      "excerpt": "The Israeli company that develops AI technologies for the healthcare industry has raised $45 million in a Series B funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://nocamels.com/2022/07/diagnostic-robotics-raises-45m-funding/",
+      "originalUrl": "https://nocamels.com/2022/07/diagnostic-robotics-raises-45m-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://f6h8q2y9.stackpathcdn.com/wp-content/uploads/2020/04/Diagnostic-Robotics-e1659255666908.jpg",
+          "width": 1500,
+          "height": 757,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-31T01:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NoCamels - Israeli Innovation News",
+        "domain": "nocamels.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-31-how-dewa-uses-ai-to-monitor-cyberattacks-leaks-and-faults.md",
       "title": "How DEWA uses AI to monitor cyberattacks, leaks and faults",
       "excerpt": "Dubai: Dubai Electricity and Water Authority (DEWA) has developed several innovations using Artificial Intelligence (AI) to improve the efficiency of operations in Dubai’s water network, monitor cyberattacks,",
@@ -837,317 +1155,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-protecting-students-school-district-adds-artificial-intelligence-to-increase-security.md",
-      "title": "Protecting students: School district adds artificial intelligence to increase security",
-      "excerpt": "A school district in Illinois has approved a new security system officials say should better protect students.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtoc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/",
-      "originalUrl": "https://www.wtoc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://do0bihdskp9dy.cloudfront.net/07-29-2022/t_3cc1f23f909b4963bebaf51695213960_name_Screenshot_2022_07_29_133147.png",
-          "width": 604,
-          "height": 369,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wtoc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wtoc-com.cdn.ampproject.org/c/s/www.wtoc.com/2022/07/29/protecting-students-school-district-adds-artificial-intelligence-increase-security/?outputType=amp",
-      "publishedDateTime": "2022-07-29T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTOC-TV",
-        "domain": "wtoc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-deepminds-ai-has-now-catalogued-every-protein-known-to-science.md",
-      "title": "DeepMind's AI has now catalogued every protein known to science",
-      "excerpt": "In late 2020, Alphabet's DeepMind division unveiled its novel protein fold prediction algorithm, AlphaFold, and helped solve a scientific quandary that had stumped researchers for half a century.",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/deepmind-ai-has-now-catalogued-every-protein-known-to-science-185116212.html",
-      "originalUrl": "https://www.aol.com/news/deepmind-ai-has-now-catalogued-every-protein-known-to-science-185116212.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T13:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-global-edge-ai-processor-market-size-is-expected-to-grow-at-a-cagr-of-approx-17-from-2022-to-2032.md",
-      "title": "Global Edge AI Processor Market Size Is Expected To Grow At A CAGR Of Approx. 17% From 2022 To 2032",
-      "excerpt": "Evolve Business Intelligence published a new market research report on Global Edge AI Processor Market by Type (Central Processing Unit (CPU), Graphics Processing Unit (GPU), Application Specific ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/global-edge-ai-processor-market-size-is-expected-to-grow-at-a-cagr-of-approx-17-from-2022-to-2032",
-      "originalUrl": "https://www.digitaljournal.com/pr/global-edge-ai-processor-market-size-is-expected-to-grow-at-a-cagr-of-approx-17-from-2022-to-2032",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/London-commuter-rail-link-1K-03-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T13:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-identify-the-location-of-anomalies-using-amazon-lookout-for-vision-at-the-edge-without-using-a-gpu.md",
-      "title": "Identify the location of anomalies using Amazon Lookout for Vision at the edge without using a GPU",
-      "excerpt": "Automated defect detection using computer vision helps improve quality and lower the cost of inspection. Defect detection involves identifying the presence of a defect, classifying types of defects, and identifying where the defects are located. Many manufacturing processes require detection at a low",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identify-the-location-of-anomalies-using-amazon-lookout-for-vision-at-the-edge-without-using-a-gpu/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identify-the-location-of-anomalies-using-amazon-lookout-for-vision-at-the-edge-without-using-a-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/29/identify-toy-alien-anomalies.jpg",
-          "width": 1323,
-          "height": 659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T13:13:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer.md",
-      "title": "Gatik’s autonomous fleet is proving driverless trucks can make roads safer",
-      "excerpt": "With a long list of heavy-hitting customers that include Walmart, Loblaw and most recently Georgia-Pacific, Gatik has demonstrated that commercially successful autonomous delivery is happening first in a constrained environment,",
-      "sourceUrl": null,
-      "webUrl": "https://www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer",
-      "originalUrl": "https://www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s29755.pcdn.co/wp-content/uploads/2022/07/6-3-1200x683.jpg",
-          "width": 1200,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer/amp",
-      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer/amp",
-      "publishedDateTime": "2022-07-29T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "freightwaves.com",
-        "domain": "freightwaves.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes.md",
-      "title": "How eBay is ramping up AI use in ecommerce behind the scenes",
-      "excerpt": "Bay is doubling down on AI-led visual experiences and further incorporating it into visual understanding and content understanding.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/",
-      "originalUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/01/eBay.jpg?w=1200&strip=all",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/",
-      "publishedDateTime": "2022-07-29T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws-part-1.md",
-      "title": "Build and train ML models using a data mesh architecture on AWS: Part 1",
-      "excerpt": "Organizations across various industries are using artificial intelligence (AI) and machine learning (ML) to solve business challenges specific to their industry. For example, in the financial services industry, you can use AI and ML to solve challenges around fraud detection, credit risk prediction,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T11:28:52-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

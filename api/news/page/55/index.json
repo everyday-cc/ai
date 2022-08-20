@@ -2,6 +2,307 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2022-07-02-elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.md",
+      "title": "Elon Musk gives official reveal date for Tesla’s humanoid AI robot, ‘Optimus’",
+      "excerpt": "LOS ANGELES - Elon Musk said Tesla’s long-awaited AI humanoid robot \"Optimus\" which has both wowed and terrified consumers, will be officially unveiled in just a few months. Speaking at the Qatar Economic Forum on June 21,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus",
+      "originalUrl": "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2021/08/932/470/Tesla-bot.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.amp",
+      "cdnAmpWebUrl": "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.amp",
+      "publishedDateTime": "2022-07-01T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 13",
+        "domain": "fox13news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-reddit-acquires-natural-language-processing-company-meaningcloud.md",
+      "title": "Reddit acquires natural language processing company MeaningCloud",
+      "excerpt": "Reddit announced Friday that it’s acquiring MeaningCloud, a natural language processing company, for an undisclosed amount. The MeaningCloud team has joined Reddit and will support machine learning projects across its product,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/",
+      "originalUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/reddit-app-icon-ios.webp?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/amp/",
+      "publishedDateTime": "2022-07-01T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-an-artificial-intelligence-probe-to-help-see-tumor-malignancy.md",
+      "title": "An artificial intelligence probe to help see tumor malignancy",
+      "excerpt": "Tumor malignancy identification plays an essential role in clinical management of cancer. Currently, biopsy is the gold standard for malignancy identification in most tumor cases, it is, however ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-probe-tumor-malignancy.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-probe-tumor-malignancy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/an-artificial-intellig.jpg",
+          "width": 1888,
+          "height": 1049,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-probe-tumor-malignancy.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-artificial-intelligence-probe-tumor-malignancy.amp",
+      "publishedDateTime": "2022-07-01T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-five-ways-to-promote-brain-health-slow-cognitive-decline.md",
+      "title": "Five ways to promote brain health, slow cognitive decline",
+      "excerpt": "Age is the greatest risk factor for Alzheimer's disease. In fact, 1 in 3 seniors age 85 and older will have Alzheimer's disease. While some brain changes are inevitable as we age, there is a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyherald.com/entlife/20220701/five-ways-to-promote-brain-health-slow-cognitive-decline",
+      "originalUrl": "https://www.dailyherald.com/entlife/20220701/five-ways-to-promote-brain-health-slow-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-cognitive-impairment-predicts-outcomes-for-icu-survivors.md",
+      "title": "Cognitive impairment predicts outcomes for ICU survivors",
+      "excerpt": "The researchers found that 66.6 percent of patients (213 patients) were able to complete the MoCA near discharge, while 14.7 percent could not complete it due to cognitive impairment. The median ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-07-cognitive-impairment-outcomes-icu-survivors.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-07-cognitive-impairment-outcomes-icu-survivors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-the-worldwide-artificial-intelligence-in-medical-imaging-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom.md",
+      "title": "The Worldwide Artificial Intelligence In Medical Imaging Industry is Expected to Reach $3.2 Billion by 2027 - ResearchAndMarkets.com",
+      "excerpt": "The “Artificial Intelligence In Medical Imaging Market Research Report by End-user (Diagnostic Centers and Hospitals), Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-73f480a5a29744729ee955cb90c693e5",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-73f480a5a29744729ee955cb90c693e5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-futuristic-driverless-taxis-are-already-causing-major-issues.md",
+      "title": "Futuristic Driverless Taxis Are Already Causing Major Issues",
+      "excerpt": "The GM-backed driverless car company has been operating a commercial robotaxi service in the city since securing a permit back in early June 2022, but a Cruise traffic jam gnarled up one street ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/914406/futuristic-driverless-taxis-are-already-causing-major-issues/",
+      "originalUrl": "https://www.slashgear.com/914406/futuristic-driverless-taxis-are-already-causing-major-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/futuristic-driverless-taxis-are-already-causing-major-issues/l-intro-1656689423.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-01-ai-powered-photo-stock-startup-wirestock-lands-partnership-with-getty-images.md",
       "title": "AI-powered photo stock startup Wirestock lands partnership with Getty Images",
       "excerpt": "As a stock photographer, taking great photos is often only just a tiny part of the job. To run a successful business, keywording, categorizing, captioning, and all the other admin that goes with it can take up almost as much time.",
@@ -808,290 +1109,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence.md",
-      "title": "IIT Delhi to curate robotics curriculum for schools of excellence",
-      "excerpt": "Through this curriculum, students will be trained in different aspects of robotics and automation which will in the field, they said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence-2471704.html",
-      "originalUrl": "https://www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence-2471704.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/7/1/w600X390/IIT.jpg",
-          "width": 600,
-          "height": 390,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence-2471704.amp",
-      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/delhi/2022/jul/01/iit-delhi-to-curate-robotics-curriculum-for-schools-of-excellence-2471704.amp",
-      "publishedDateTime": "2022-06-30T20:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Indian Express",
-        "domain": "newindianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-resecurityr-brings-cyber-threat-intelligence-to-microsoft-azure.md",
-      "title": "Resecurity(R) Brings Cyber Threat Intelligence to Microsoft Azure",
-      "excerpt": "Brings Cyber Threat Intelligence to Microsoft Azure Jun 30, 2022 (PRNewswire via COMTEX) -- PR Newswire LOS ANGELES, June 30,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/resecurityr-brings-cyber-threat-intelligence-to-microsoft-azure-2022-06-30",
-      "originalUrl": "https://www.marketwatch.com/press-release/resecurityr-brings-cyber-threat-intelligence-to-microsoft-azure-2022-06-30",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T17:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-artificial-intelligence-news-and-research.md",
-      "title": "Artificial Intelligence News and Research",
-      "excerpt": "Artificial intelligence and machine learning are among ... more efficient CRISPR-Cas9 variants that could be useful for gene therapy applications. A joint research group led by Genki Kanda at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/?tag=/Artificial-Intelligence",
-      "originalUrl": "https://www.news-medical.net/?tag=/Artificial-Intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.news-medical.net/themes/Standard/images/full_site_logo.png",
-          "width": 973,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-cognitive-therapy-shows-promise-in-treating-ptsd-and-headaches.md",
-      "title": "Cognitive therapy shows promise in treating PTSD and headaches",
-      "excerpt": "Recently, researchers examined two nonpharmacological interventions for post-traumatic headaches — cognitive behavioral therapy (CBT) and cognitive processing therapy (CPT). They found that CBT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medicalnewstoday.com/articles/cognitive-therapy-shows-promise-in-treating-ptsd-and-headaches",
-      "originalUrl": "https://www.medicalnewstoday.com/articles/cognitive-therapy-shows-promise-in-treating-ptsd-and-headaches",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical News Today",
-        "domain": "medicalnewstoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-prefrontal-cerebellar-dynamics-during-post-success-and-post-error-cognitive-controls-in-major-psychiatric-disorders.md",
-      "title": "Prefrontal-cerebellar dynamics during post-success and post-error cognitive controls in major psychiatric disorders",
-      "excerpt": "Center for Psychiatric Neuroscience, Feinstein Institutes for Medical Research, Manhasset, NY, USA Division of Psychiatry Research, Zucker Hillside Hospital, Glen Oaks, NY, USA Department of Psychiatry, Zucker School of Medicine at Hofstra/Northwell ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/prefrontalcerebellar-dynamics-during-postsuccess-and-posterror-cognitive-controls-in-major-psychiatric-disorders/98E3D19E6D5C875FED5AAF0F316FD3F0",
-      "originalUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/prefrontalcerebellar-dynamics-during-postsuccess-and-posterror-cognitive-controls-in-major-psychiatric-disorders/98E3D19E6D5C875FED5AAF0F316FD3F0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-ptsd-may-accelerate-cognitive-decline-over-time.md",
-      "title": "PTSD May Accelerate Cognitive Decline Over Time",
-      "excerpt": "Posttraumatic stress disorder (PTSD) is associated with accelerated cognitive decline over time, new research suggests. In an analysis of more than 12,000 middle-aged women who had experienced at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/976526",
-      "originalUrl": "https://www.medscape.com/viewarticle/976526",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-speech-and-voice-recognition-market-worth-us281-billion-by-2027-at-cagr-of-244.md",
-      "title": "Speech and Voice Recognition Market worth US$28.1 billion by 2027, at CAGR of 24.4%",
-      "excerpt": "The Speech and Voice Recognition Market size is expected to reach USD 28.1 billion by 2027 to grow at a CAGR of 24.4% from 2022 to 2027. According to a research report “Speech and Voice ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-worth-us28-1-billion-by-2027-at-cagr-of-24-4",
-      "originalUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-worth-us28-1-billion-by-2027-at-cagr-of-24-4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketsandmarkets.com/Images/speech-voice-recognition-market.jpg",
-          "width": 630,
-          "height": 376,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

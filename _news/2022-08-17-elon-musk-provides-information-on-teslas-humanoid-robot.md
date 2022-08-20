@@ -84,15 +84,6 @@ related:
       name: IOL News
       domain: iol.co.za
     quality: 32
-  - title: "A Tesla fan tested out the Full Self-Driving"
-    excerpt: "\"It was a little nerve-wracking in the beginning, but I knew that it was going to detect and stop,\" the child's parent said."
-    publishedDateTime: 2022-08-15T17:34:00Z
-    webUrl: "https://www.businessinsider.in/thelife/news/a-tesla-fan-tested-out-the-full-self-driving-softwares-child-detection-using-a-real-kid-after-a-video-went-viral-of-it-running-over-a-toddler-sized-mannequin/articleshow/93578352.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 19
 
 secured: "8oNezBHnFmzPyW+pJOrky60M24ZQ4R5r//c50Nn8inXxHJs/gUGSqFpqOzMIyzHPo4kmK78PKglm1aSvaYFjABqKtHaVfqKJMWGyJ2tTwXWVtwG6I3Iyzqre5gcOlIK/aPz70M3VjKO21SZ40lqyN+e+GpjcxNwq3QBaz0sbW9Rqaak+pLJD5v6fSHBrlYjWESyapw5TOWJcZ6o1LspY424GWvyT5GlipsprqMT9XKyP8weY8OKImv1R8s3l5U4JKwTj91cZFQfoQPN0ECWZbQ4a/CQtvSkSv0eEmPjDn0zdB53z1tMiYEM25YZa6kWArT7EjJG76udyBisyrTWYh1jMaib33hhEKDG06TcZvNEi/8qQPOsDT3Y1L7/7SS6cZgIx0qHr35XtoVI95BNZFFKL37RU+vDfTz1h28UeVZuQfY32/kPX2aLCUGWPKj6qHIFsjuWW9TpACfGlqJfyPrkSyHSqVQmxtdFfc1oCtyAYO/pK15VrG8EIh1TN6QvVQniiQuCV+d6FnIpCljtClA==;z963SUjfjc8UbsswNMFGLA=="
 ---

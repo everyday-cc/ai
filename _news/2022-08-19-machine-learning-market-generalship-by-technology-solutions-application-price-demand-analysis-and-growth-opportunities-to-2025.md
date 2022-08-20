@@ -58,24 +58,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence Application Market 2022: Global Trends, Size, Segments, Forces Analysis, Revenue, Challenges and Growth Forecast to 2028"
-    excerpt: "The global Artificial Intelligence Application Market report focused on a thorough examination of the industry's"
-    publishedDateTime: 2022-08-17T07:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-application-market-2022-global-trends-size-segments-forces-analysis-revenue-challenges-and-growth-forecast-to-2028-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 10
-  - title: "Voice Recognition Market generalship Report Industry Size, Segment by Key Companies, Types Applications and Forecast to 2025"
-    excerpt: "Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with"
-    publishedDateTime: 2022-08-18T13:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-generalship-report-industry-size-segment-by-key-companies-types-applications-and-forecast-to-2025-2022-08-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 7
   - title: "Natural Language Processing Market (NLP) Demands, Key Players, Size, Growth, Trends, Technology and Forecasts to 2027 - ReportsnReports"
     excerpt: "ReportsnReports added Global Natural Language Processing (NLP) Market Report to its research database with its 336 no. of research pages report. The Natural Language Processing (NLP) Market size to grow from USD 15."
     publishedDateTime: 2022-08-19T09:53:00Z

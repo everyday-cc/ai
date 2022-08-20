@@ -2,6 +2,249 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-16-new-integrateai-platform-preserves-privacy-in-machine-learning-and-analytics.md",
+      "title": "New integrate.ai platform preserves privacy in machine learning and analytics",
+      "excerpt": "The new integrate.ai platform users federated learning and differential privacy technologies to unlock a range of machine learning and analytics capabilities on data that would otherwise be difficult or impossible to access because of privacy,",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/08/16/new-integrate-ai-platform-preserves-privacy-machine-learning-analytics/",
+      "originalUrl": "https://siliconangle.com/2022/08/16/new-integrate-ai-platform-preserves-privacy-machine-learning-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/integrateai.png",
+          "width": 483,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-ai-language-skills-coax-google-robots-into-the-real-world.md",
+      "title": "AI Language Skills Coax Google Robots Into the Real World",
+      "excerpt": "Teaching robots to process language helps them navigate the complexities of a kitchen, not just a carefully controlled lab.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/ai-language-skills-coax-google-robots-into-the-real-world/",
+      "originalUrl": "https://www.cnet.com/tech/computing/ai-language-skills-coax-google-robots-into-the-real-world/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/fa16c58da5f935f2df3f3e9280845f5ec8f15b77/2022/08/16/2c7e4708-4dcc-4ecb-904e-5de08919629b/20220811-google-palm-saycan-robot-01.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/",
+      "publishedDateTime": "2022-08-16T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-making-robots-more-helpful-with-language.md",
+      "title": "Making robots more helpful with language",
+      "excerpt": "Even the simplest human tasks are unbelievably complex. The way we perceive and interact with the world requires a lifetime of accumulated experience and context. For example, if a person tells you, “I am running out of time,” you don’t immediately worry they are jogging on a street where the space-time",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/making-robots-more-helpful-with-language/",
+      "originalUrl": "https://blog.google/technology/ai/making-robots-more-helpful-with-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Video_Thumbnail_DJA2TWg.max-1300x1300.png",
+          "width": 1300,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-who-owns-dall-e-images-legal-ai-experts-weigh-in.md",
+      "title": "Who owns DALL-E images? Legal AI experts weigh in",
+      "excerpt": "When OpenAI announced expanded beta access to DALL-E in July, the company offered paid subscription users full usage rights to reprint, sell and merchandise the images they create with the powerful text-to-image generator.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/who-owns-dall-e-images-legal-ai-experts-weigh-in/",
+      "originalUrl": "https://venturebeat.com/ai/who-owns-dall-e-images-legal-ai-experts-weigh-in/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/catastro.jpeg?w=1200&strip=all",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/who-owns-dall-e-images-legal-ai-experts-weigh-in/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/who-owns-dall-e-images-legal-ai-experts-weigh-in/amp/",
+      "publishedDateTime": "2022-08-16T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-how-companies-can-achieve-success-with-artificial-intelligence-in-hiring.md",
+      "title": "How Companies Can Achieve Success with Artificial Intelligence in Hiring",
+      "excerpt": "As businesses adopt Artificial Intelligence in recruiting at an increasing rate, it's critical that they know how to leverage",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/",
+      "originalUrl": "https://enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/08/How-Companies-Can-Achieve-Success-with-Artificial-Intelligence-in-Hiring.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/amp/",
+      "publishedDateTime": "2022-08-16T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-how-snipd-is-using-ai-to-unlock-knowledge-in-podcasts.md",
       "title": "How Snipd is using AI to ‘unlock knowledge’ in podcasts",
       "excerpt": "Podcasting has emerged as a major billion-dollar industry, with ad revenue in the U.S. alone expected to hit $2 billion this year — a figure that’s set to double by 2024. Against that backdrop, major players in the field are bolstering their podcasting armory,",
@@ -112,7 +355,7 @@
       "originalUrl": "https://www.zdnet.com/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 171,
+      "heat": 161,
       "tags": null,
       "images": [
         {
@@ -247,6 +490,49 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-heres-how-observeai-is-building-an-intelligent-workforce-platform-with-aws.md",
+      "title": "Here’s how Observe.ai is building an intelligent workforce platform with AWS",
+      "excerpt": "Their platform is built on AWS, and they leverage a lot of capabilities from them, including AWS Lambda, AWS Fargate, as well as Amazon SageMaker. “We offer the above capabilities built on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2022/08/observeai-aws-building-intelligent-workforce-platform/amp",
+      "originalUrl": "https://yourstory.com/2022/08/observeai-aws-building-intelligent-workforce-platform/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Imager6c5-1660729189734.jpg ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2022/08/observeai-aws-building-intelligent-workforce-platform/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/08/observeai-aws-building-intelligent-workforce-platform/amp",
+      "publishedDateTime": "2022-08-15T23:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YourStory",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },
@@ -950,317 +1236,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-the-new-artificial-intelligence-supply-chain-happiness-ecosystemsblog-series-1.md",
-      "title": "The New Artificial Intelligence Supply Chain: Happiness Ecosystems(Blog Series #1)",
-      "excerpt": "Happiness Ecosystems and identifies the facts accelerating the importance of happiness and underscores the leadership imperative to build stronger corporate cultures, processes and practices to accelerate the growth of Happiness Production Systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/08/14/the-new-artificial-intelligence-supply-chain-happiness-ecosystemsblog-series-1/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/08/14/the-new-artificial-intelligence-supply-chain-happiness-ecosystemsblog-series-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f94fac9d83860fa638a5f9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/08/14/the-new-artificial-intelligence-supply-chain-happiness-ecosystemsblog-series-1/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/08/14/the-new-artificial-intelligence-supply-chain-happiness-ecosystemsblog-series-1/amp/",
-      "publishedDateTime": "2022-08-14T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-responsible-use-of-machine-learning-to-verify-identities-at-scale.md",
-      "title": "Responsible use of machine learning to verify identities at scale",
-      "excerpt": "The power of machine learning is best when it's utilized alongside human expertise and with data transparency.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/responsible-use-of-machine-learning-to-verify-identities-at-scale/",
-      "originalUrl": "https://venturebeat.com/ai/responsible-use-of-machine-learning-to-verify-identities-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/halfway.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/responsible-use-of-machine-learning-to-verify-identities-at-scale/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/responsible-use-of-machine-learning-to-verify-identities-at-scale/amp/",
-      "publishedDateTime": "2022-08-14T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-14-fears-of-ai-sentience-are-a-distraction.md",
-      "title": "Fears of AI sentience are a distraction",
-      "excerpt": "Instead of conjuring sci-fi horror stories, we need to embrace powerful computing like artificial intelligence to improve our lives.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/fears-of-ai-sentience-are-a-distraction/",
-      "originalUrl": "https://venturebeat.com/ai/fears-of-ai-sentience-are-a-distraction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1191636833-CHRISTOPH-BURGSTEDTSCIENCE-PHOTO-LIBRARY.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 644,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/fears-of-ai-sentience-are-a-distraction/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/fears-of-ai-sentience-are-a-distraction/amp/",
-      "publishedDateTime": "2022-08-14T09:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-14-xiaomi-pilot-technology-for-autonomous-driving-unveiled.md",
-      "title": "Xiaomi Pilot Technology for autonomous driving unveiled",
-      "excerpt": "Chinese tech powerhouse Xiaomi is making progress in its quest to produce an autonomous electric vehicle. The company has made a substantial investment in the development of a Xiaomi car brand since May 2021.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/",
-      "originalUrl": "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/08/xiaomi-pilot-tech-3.jpg",
-          "width": 1652,
-          "height": 920,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/14/xiaomi-pilot-technology-for-autonomous-driving-unveiled/?amp=1",
-      "publishedDateTime": "2022-08-14T07:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-14-the-one-practice-that-is-separating-the-ai-successes-from-the-failures.md",
-      "title": "The One Practice That Is Separating The AI Successes From The Failures",
-      "excerpt": "What are the 20% of successful AI organizations doing that are setting themselves apart from the failures, leading their projects to success?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/14/the-one-practice-that-is-separating-the-ai-successes-from-the-failures/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/14/the-one-practice-that-is-separating-the-ai-successes-from-the-failures/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f856e07fd141a708fe6376/0x0.jpg?format=jpg&width=1200",
-          "width": 960,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/14/the-one-practice-that-is-separating-the-ai-successes-from-the-failures/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/14/the-one-practice-that-is-separating-the-ai-successes-from-the-failures/amp/",
-      "publishedDateTime": "2022-08-14T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading.md",
-      "title": "Identity crisis: Artificial intelligence and the flawed logic of ‘mind uploading’",
-      "excerpt": "It is theoretically feasible that through 'mind uploading,' simulated minds could coexist inside a rich simulation of physical reality.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/virtual/identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading/",
-      "originalUrl": "https://venturebeat.com/virtual/identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/MindUploading-2000x1000-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/virtual/identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/virtual/identity-crisis-artificial-intelligence-and-the-flawed-logic-of-mind-uploading/amp/",
-      "publishedDateTime": "2022-08-13T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "AI in Healthcare"
       ]

@@ -1,23 +1,33 @@
 ---
 category: news
 title: "NICE Announces Top Tier Microsoft Azure IP Co-Sell Status with the Full Power of NICE CXone Now Available Natively on Azure"
-excerpt: "NICE (Nasdaq: NICE) today announced the expansion of its partnership with Microsoft, delivering the full power of CXone on Azure to create frictionless, personalized digital customer experiences. NICE has received Top Tier status,"
+excerpt: "NICE (Nasdaq: NICE) today announced the expansion of its partnership with Microsoft, delivering the full power of CXone"
 publishedDateTime: 2022-08-17T11:15:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-17-nice-announces-top-tier-microsoft-azure-ip-co-sell-status-with-the-full-power-of-nice-cxone-now-available-natively-on-azure"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-17-nice-announces-top-tier-microsoft-azure-ip-co-sell-status-with-the-full-power-of-nice-cxone-now-available-natively-on-azure"
+originalUrl: "https://www.marketwatch.com/press-release/nice-announces-top-tier-microsoft-azure-ip-co-sell-status-with-the-full-power-of-nice-cxone-now-available-natively-on-azure-2022-08-17"
+webUrl: "https://www.marketwatch.com/press-release/nice-announces-top-tier-microsoft-azure-ip-co-sell-status-with-the-full-power-of-nice-cxone-now-available-natively-on-azure-2022-08-17"
 type: article
-quality: 23
-heat: 23
-published: false
+quality: 73
+heat: 73
+published: true
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-secured: "8QhyXTjcogK9Xfm92pX3IFiJWNxH3O5WfZPzVhaTh8tiRT5oLCqSDp6pqWuxAEFM2JhnaQ5NQ95vdLW7Ws9c6s1r6oRabcldxFg9N2cfTN8p/rIc+CvP0XAAC/FoNvC/2PE6kR7kp+PcnCZ7+l9wh+KW5G/Zn3Yodn6n4B7X1P0kGJvOUAYYs5P2FLKPMkrFPpdKaohZ4dof64OY1cVycQ6D05XU+oh2jZ2iiIG8IJrJsiAD4+JXrui4gpi0+JEjMBYEKamIcoEQnVTKtbuu0vUWZ3kkcBSZGguM2ZmAgXbdfG9o36v9BXpNEwOfJP/5Pwu4f6xEw4ixMn1rH8xn6UVw9XKaystQv1d+Z6Cvgrs=;bSaRNBF8CGebRwsZHCORRw=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "w7GHK9RnjHLwy7MeD27sNb4gMeih7fzzbuWsSyF4+arCGH/iaVmUSaUHiOgWKMz8vAmoBsIuOHW4W/oCbfs/lZMKWZjSChP2T7C1mTiDTBgowWqHP4GHhmKpob0VQreC8qnnBiYiuK3XNrRxhB6z0uncvO0BDDcf3v2qDz6jzydm8+1CrhgRcjk2AHfL2Y2sgGPSaVTC4Gu2S1IOVWIDHHux1QNQKVeOOCVahrCv/duV3w9OZyjslg4wBn0AJ8P4fotGs/HlpoTnm5Xc4NRfQQRdYPlZsawb21ELTnxMid6KmdqQ4JBg/b9PnAyfeqFyuuZ46+ilJktawuObuFtZ4wiImdJ3F+YIqp8SJh8VoS0=;iLNsmBUTACyC1Bbjw49YYw=="
 ---
 

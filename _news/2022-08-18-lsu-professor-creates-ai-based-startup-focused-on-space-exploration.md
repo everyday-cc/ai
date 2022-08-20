@@ -9,7 +9,7 @@ ampWebUrl: "https://www.businessreport.com/business/lsu-professor-creates-ai-bas
 cdnAmpWebUrl: "https://www-businessreport-com.cdn.ampproject.org/c/s/www.businessreport.com/business/lsu-professor-creates-ai-based-startup-focused-on-space-exploration?amp=1"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,20 +26,79 @@ images:
     isCached: true
 
 related:
-  - title: "ASTERRA’s new satellite based PolSAR technology uses AI for eco-friendly exploration of lithium"
-    excerpt: "ASTERRA announced a patent filing on advancements in using PolSAR-based technology for lithium exploration that will greatly accelerate the identification of lithium deposits."
-    publishedDateTime: 2022-08-15T17:52:00Z
-    webUrl: "https://spaceref.com/space-commerce/asterras-new-satellite-based-polsar-technology-uses-ai-for-eco-friendly-exploration-of-lithium/"
+  - title: "Top 4 AI-based Face Recognition Applications"
+    excerpt: "Besides mobile face recognition, voice recognition is also used to enhance security. The user’s voice and face work as a password and is like the biometric key to unlocking all the apps. AppLock amalgamates the speaker and face recognition technology to ..."
+    publishedDateTime: 2022-08-17T13:31:00Z
+    webUrl: "https://techbullion.com/top-4-ai-based-face-recognition-applications/"
+    ampWebUrl: "https://techbullion.com/top-4-ai-based-face-recognition-applications/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-4-ai-based-face-recognition-applications/amp/"
     type: article
     provider:
-      name: SpaceRef
-      domain: spaceref.com
-    quality: 27
+      name: Impacts
+      domain: techbullion.com
+    quality: 76
     images:
-      - url: "https://media2.spaceref.com/wp-content/uploads/2022/08/15135158/Screen-Shot-2022-08-15-at-1.51.28-PM.png"
-        width: 1099
-        height: 663
+      - url: "https://techbullion.com/wp-content/uploads/2022/08/Some-popular-face-recognition-apps.jpg"
+        width: 918
+        height: 600
         isCached: true
+  - title: "Wisconsin Health System Implements AI-Based Automation to Improve Operations"
+    excerpt: "Wisconsin-based ThedaCare has deployed artificial intelligence-based care operations automation software to enhance patient experience and outcomes."
+    publishedDateTime: 2022-08-16T13:30:00Z
+    webUrl: "https://healthitanalytics.com/news/wisconsin-health-system-implements-ai-based-automation-to-improve-operations"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/wisconsin-health-system-implements-ai-based-automation-to-improve-operations"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/wisconsin-health-system-implements-ai-based-automation-to-improve-operations"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 34
+  - title: "AI In Aviation Market Size and Growth 2022 Analysis Report by Types, Opportunities, Future Plans, Types, Application and Forecast to 2028"
+    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI In Aviation Market” 2022"
+    publishedDateTime: 2022-08-18T07:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-aviation-market-size-and-growth-2022-analysis-report-by-types-opportunities-future-plans-types-application-and-forecast-to-2028-2022-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Auditoria.Al Tops the Constellation ShortList of AI-Driven Cognitive Applications for the Third Year in a Row"
+    excerpt: "As an AI-driven Cognitive ... such as Microsoft 365 and Google Workspace. Constellation Research advises leaders on leveraging disruptive technologies to achieve business model transformation and streamline business processes. Products and services named ..."
+    publishedDateTime: 2022-08-17T15:06:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-35e1a35b4d51cf0c419354ba1a459f27"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+  - title: "Voice Recognition Market generalship Report Industry Size, Segment by Key Companies, Types Applications and Forecast to 2025"
+    excerpt: "Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with"
+    publishedDateTime: 2022-08-18T13:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-generalship-report-industry-size-segment-by-key-companies-types-applications-and-forecast-to-2025-2022-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 7
+  - title: "Auditoria.Al Tops the Constellation ShortList of AI-Driven Cognitive Applications for the Third Year in a Row"
+    excerpt: "Constellation predicts that the total market for this autonomous enterprise market, including cognitive applications ... and collaboration tools such as Microsoft 365 and Google Workspace."
+    publishedDateTime: 2022-08-17T17:56:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56834973-auditoria-al-tops-the-constellation-shortlist-of-ai-driven-cognitive-applications-for-the-third-year-in-a-row-200.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "NTLGFTmyC9/SM126NSJetWvCckeCHmw5A3X359L8YYxpGrlUXRkKpfHK15T7xo0gNdU0BX5cpq1ABlWDE5KtdXx8GmYaJmzWw6Gi4jzOM6Xp0DQrgU0RFCuq4HDYJc391GkdP9w+R9FF6q7HPcFFLheHFU4qep9ZmMKqbnmlD7inTqZ7KrBp6C47MXwWJrhfu/hb2dz27HucfFCQ0SI7KxzrUEJymCE/Hp4wkrQrH8jX/DHLDj7qX+7cUjK5S8WWzfy5j77wkzWQLPgGs2Ugqft66zHkZyBT+IHnTq9ldl4wafswPHNG1xlHpcJC6lfYElI2j2eSWseLij8bZGqKwmXo+YdlZRDO8pRihbJLnMolpjiU4iLwfq+1vTBaz9VCw2nMubG0/ame4lgqR67Otauq/RS9mUAmZGh02akmI4zuC1oCoYqT+NGq1ptau/n0jbTNxyM/mFDvyehc3yF011AkBXtO9ORZBj6bRSTCyOtYIrRjUlh+UwLhp7lSPMcV/mg8nrbaIO58GHovrxx1nw==;4+Ga8M5+YoEJY5nvRNavWQ=="
 ---

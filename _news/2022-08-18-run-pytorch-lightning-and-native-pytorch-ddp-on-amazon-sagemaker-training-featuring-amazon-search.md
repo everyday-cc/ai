@@ -39,15 +39,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 116
-  - title: "Amazon SageMaker JumpStart solutions now support custom IAM role settings"
-    excerpt: "Amazon SageMaker JumpStart solutions are a feature within Amazon SageMaker Studio that allow a simple-click experience to set up your own machine learning (ML) workflows. When you launch a solution, various of AWS resources are set up in your account to demonstrate how the business problem can be solved"
-    publishedDateTime: 2022-08-15T18:54:45Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-solutions-now-support-custom-iam-role-settings/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 68
   - title: "Quickstart for the TensorFlow Core APIs"
     excerpt: "This short introduction uses the TensorFlow Core low-level APIs to walk through the following stages of a machine learning example: Load a prebuilt dataset. Build a multiple linear regression model that predicts fuel efficiency. Train this multiple linear ..."
     publishedDateTime: 2022-08-17T01:54:00Z

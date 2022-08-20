@@ -72,34 +72,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Technology Market: Latest Trends, SWOT Analysis, Growth, Size, Segmentation, Future Demands, by Regional Forecast to 2029"
-    excerpt: "Global \"Face Recognition Technology Market\" 2022: - Face Recognition Technology Market report discusses the market"
-    publishedDateTime: 2022-08-17T11:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-latest-trends-swot-analysis-growth-size-segmentation-future-demands-by-regional-forecast-to-2029-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI In Aviation Market Size and Growth 2022 Analysis Report by Types, Opportunities, Future Plans, Types, Application and Forecast to 2028"
-    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI In Aviation Market” 2022"
-    publishedDateTime: 2022-08-18T07:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-aviation-market-size-and-growth-2022-analysis-report-by-types-opportunities-future-plans-types-application-and-forecast-to-2028-2022-08-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 34
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Training Data Market Size 2021, Key Futuristic Trends, SWOT Analysis, Opportunities and Outlook Analysis by 2027 with Top Growth Companies"
     excerpt: "In 2021, “ AI Training Data Market “ Size, Status and Market Insights, Forecast to 2027 |( Number of Pages:107) AI"
     publishedDateTime: 2022-08-17T04:58:00Z

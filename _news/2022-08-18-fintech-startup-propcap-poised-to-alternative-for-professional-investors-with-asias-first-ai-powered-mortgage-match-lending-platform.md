@@ -24,6 +24,17 @@ images:
     height: 2000
     isCached: true
 
+related:
+  - title: "Global Alternative Investment Management Launches FinTech Fund II"
+    excerpt: "Appleton, Wis.-based private fund management company Global Alternative Investment Management has launched FinTech Fund II, which is available to Qualified Purchasers"
+    publishedDateTime: 2022-08-18T10:10:00Z
+    webUrl: "https://www.finsmes.com/2022/08/global-alternative-investment-management-launches-fintech-fund-ii.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 4
+
 secured: "nTsmSLCEUq1+akjKxfFYYGOg4fXfHMhWGaRYKr9CzXKTxXFCTVIM+0EejMiQ1JXNNIRAXxH01DD+bDAgDkCukShR4oMTninnPTY/YwgoI9yx9okjnYVNOmaDJddb1w2JQN3e9QNR6HW5RtSbgrC6LspmuAooVuun3X7WwpcM3wDUoYkt+1AyYIS2QT9+j8cRSCyFc2Yxp9BU73XGS8i//wpfXN0vRGrN6aMfn7rl/X051eoWElHfPk5aDy/mSwvbFsv98vqZXhL4kEjNaFHTM/AXl/NEicghg7tzPHi1uulzZ3OU3LpNeu0KHNcCL2qHsocQVzxvnLOmyO0g5Jkn8IUmpFN6BKknrLEH8iIlE6GNM0Ogqa/+LiXZCsghRKX44/xRveA9xiakFtPSh1fqjoFPByy1Lla6F8+2uMRVv8GhsyFTUsc9wVkwCQIYAeWbejd5idUEY/s+c1rGWoTcqpAbp2+BFmHzRj7ffrj5k2jIfdnLwzGlEBVfv7nv0dETWeG7phcsaVoHhpM6jU/1AQ==;DeBO+sJ0FwL9+Cj/oPl+yA=="
 ---
 

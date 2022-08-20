@@ -2,6 +2,326 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2022-06-23-gms-cruise-starts-charging-fares-for-driverless-rides-in-san-francisco.md",
+      "title": "GM's Cruise starts charging fares for driverless rides in San Francisco",
+      "excerpt": "June 23 (Reuters) - General Motors Co's (GM.N) Cruise has started charging fares for driverless rides in San Francisco, the company said on Thursday, a step towards commercialization of the service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/gms-cruise-starts-charging-fares-driverless-rides-san-francisco-2022-06-23/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/gms-cruise-starts-charging-fares-driverless-rides-san-francisco-2022-06-23/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/MOAR8CRw1cjC3hfAaS31AxUss7c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6CPCJS5RENKQFCLZ7ABT3Q2FHU.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-octoml-launches-new-machine-learning-platform-expansion.md",
+      "title": "OctoML launches new machine learning platform expansion",
+      "excerpt": "Today OctoML, provider of a machine learning acceleration platform, released a major platform expansion in order to accelerate the development of AI-powered applications by eliminating bottlenecks ...",
+      "sourceUrl": null,
+      "webUrl": "https://sdtimes.com/ai/octoml-launches-new-machine-learning-platform-expansion/",
+      "originalUrl": "https://sdtimes.com/ai/octoml-launches-new-machine-learning-platform-expansion/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sdtimes.com/wp-content/uploads/2022/06/8d0b569cbf3ee6cec31affcb22c63988-490x326.jpg",
+          "width": 490,
+          "height": 326,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SD Times",
+        "domain": "sdtimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-a-4225-million-global-opportunity-for-artificial-neural-networks-by-2026-new-research-from-strategyr.md",
+      "title": "A $422.5 Million Global Opportunity For Artificial Neural Networks By 2026 - New Research From Strategyr'",
+      "excerpt": "FACTS AT A GLANCE A $422.5 Million Global Opportunity for Artificial Neural Networks by 2026 - New Research from StrategyR Global Artificial Neural Networks Market to Reach $422.5 Million by 2026 ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104422398/A-4225-Million-Global-Opportunity-For-Artificial-Neural-Networks-By-2026-New-Research-From-Strategyr",
+      "originalUrl": "https://menafn.com/1104422398/A-4225-Million-Global-Opportunity-For-Artificial-Neural-Networks-By-2026-New-Research-From-Strategyr",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-06/23/PN_d94994b4-3_Image_In_Body.jpg",
+          "width": 400,
+          "height": 249,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-meet-augnito-at-ukio-2022-a-next-gen-speech-recognition-technology-centred-on-disruptive-innovation.md",
+      "title": "Meet Augnito At UKIO 2022 A Next-Gen Speech Recognition Technology Centred On Disruptive Innovation",
+      "excerpt": "Scribetech, London 23 June 2022 | In 1962 the first speech recognition* (SR) technology could recognise just 16 words in English. Fast forward 60 years and SR is built into most elements of our ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104422271/Meet-Augnito-At-UKIO-2022-A-Next-Gen-Speech-Recognition-Technology-Centred-On-Disruptive-Innovation",
+      "originalUrl": "https://menafn.com/1104422271/Meet-Augnito-At-UKIO-2022-A-Next-Gen-Speech-Recognition-Technology-Centred-On-Disruptive-Innovation",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?624087",
+          "width": 374,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-are-babies-the-key-to-the-next-generation-of-artificial-intelligence.md",
+      "title": "Are babies the key to the next generation of artificial intelligence?",
+      "excerpt": "Babies can help unlock the next generation of artificial intelligence (AI), according to Trinity neuroscientists and colleagues who have just published new guiding principles for improving AI.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-06-babies-key-artificial-intelligence.html",
+      "originalUrl": "https://techxplore.com/news/2022-06-babies-key-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/baby-ipad.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-06-babies-key-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-babies-key-artificial-intelligence.amp",
+      "publishedDateTime": "2022-06-23T07:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-cruise-ceo-on-launching-driverless-taxi-service-in-san-fransisco.md",
+      "title": "Cruise CEO on launching driverless taxi service in San Fransisco",
+      "excerpt": "Cruise CEO Kyle Vogt joins CNBC's 'Squawk Box' to discuss the prospect of the driverless ridesharing industry after General Motors' majority-owned autonomous vehicle unit launched its service for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/video/2022/06/23/cruise-ceo-on-launching-driverless-taxi-service-in-san-fransisco.html",
+      "originalUrl": "https://www.cnbc.com/video/2022/06/23/cruise-ceo-on-launching-driverless-taxi-service-in-san-fransisco.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/107079691-16559907261655990722-23902419088-1080pnbcnews.jpg?v=1655990725&w=1920&h=1080",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-system-on-chip-market-to-surpass-valuation-of-3178-billion-by-2031-tmr-study.md",
+      "title": "System-On-Chip Market to Surpass Valuation of $ 317.8 Billion by 2031; TMR Study",
+      "excerpt": "The system-on-chip market share has grown steadily in recent years from the application of the technology in hyper scale data centers, automotive",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27829400/system-on-chip-market-to-surpass-valuation-of-317-8-billion-by-2031-tmr-study",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27829400/system-on-chip-market-to-surpass-valuation-of-317-8-billion-by-2031-tmr-study",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-computer-chips-powered-by-human-brain-cells-already-exist-but-is-it-ethical.md",
       "title": "Computer chips powered by human brain cells already exist — but is it ethical?",
       "excerpt": "A fusion of silicon and neuron.” Cortical Labs believes its hybrid chips could be the key to the kinds of complex reasoning that today’s computers and AI cannot produce. Another start-up ...",
@@ -809,325 +1129,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-cerebras-just-built-a-big-chip-that-could-democratize-ai.md",
-      "title": "Cerebras just built a big chip that could democratize AI",
-      "excerpt": "Chip startup Cerebras has developed a foot-wide piece of silicon, compared to average chips measured in millimeters, that makes training AI cheap and easy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.protocol.com/enterprise/cerebras-ai-wafer-scale-engine",
-      "originalUrl": "https://www.protocol.com/enterprise/cerebras-ai-wafer-scale-engine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.protocol.com/media-library/less-than-p-greater-than-at-the-core-of-cerebras-pitch-is-a-chip-that-is-roughly-the-size-of-a-dinner-plate-less-than-p-greater-than.jpg?id=27946326&width=400&coordinates=0%2C135%2C0%2C136&height=711.4285714285714&quality=80",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.protocol.com/amp/cerebras-ai-wafer-scale-engine-2657541665",
-      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/cerebras-ai-wafer-scale-engine-2657541665",
-      "publishedDateTime": "2022-06-22T17:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Protocol",
-        "domain": "protocol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-einride-gets-go-ahead-for-driverless-electric-trucks-on-public-roads.md",
-      "title": "Einride Gets Go-Ahead For Driverless Electric Trucks On Public Roads",
-      "excerpt": "driverless, electric transport vehicles called Pods on public roads in western Tennessee. Within weeks driverless electric freight transport trucks may be traveling on public roads in western ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/edgarsten/2022/06/23/einride-gets-go-ahead-for-driverless-trucks-on-public-roads/",
-      "originalUrl": "https://www.forbes.com/sites/edgarsten/2022/06/23/einride-gets-go-ahead-for-driverless-trucks-on-public-roads/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62b3a72b815fe116257a1f0d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/edgarsten/2022/06/23/einride-gets-go-ahead-for-driverless-trucks-on-public-roads/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/edgarsten/2022/06/23/einride-gets-go-ahead-for-driverless-trucks-on-public-roads/amp/",
-      "publishedDateTime": "2022-06-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-leading-a-movement-to-strengthen-machine-learning-in-africa.md",
-      "title": "Leading a movement to strengthen machine learning in Africa",
-      "excerpt": "",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/leading-a-movement-to-strengthen-machine-learning-in-africa",
-      "originalUrl": "https://www.deepmind.com/blog/leading-a-movement-to-strengthen-machine-learning-in-africa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62b2f8a5be5a342016037d48_Avishkar%207.jpeg",
-          "width": 384,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-the-first-15tb-microsd-card-is-coming-to-destroy-your-budget.md",
-      "title": "The First 1.5TB microSD Card Is Coming to Destroy Your Budget",
-      "excerpt": "Although as inevitable as death and taxes, yesterday Micron revealed that its new industrial-grade i400 microSD will come in capacities ranging from 256GB to 1TB, and for the first time ever, a never-before-seen 1.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625",
-      "originalUrl": "https://gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/first-1-5-tb-microsd-card-expensive-micron-embedded-wor-1849093625/amp",
-      "publishedDateTime": "2022-06-22T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-dubai-police-in-collaboration-with-continental-organises-a-dialogue-session-on-artificial-intelligence-driving-hub.md",
-      "title": "Dubai Police In Collaboration With Continental Organises A Dialogue Session On Artificial Intelligence Driving Hub",
-      "excerpt": "Dubai Police in Collaboration with Continental Organises a Dialogue Session on Artificial Intelligence Driving Hub • Tyre manufacturer to collaborate on initiatives to improve drivers' skills ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104417510/Dubai-Police-In-Collaboration-With-Continental-Organises-A-Dialogue-Session-On-Artificial-Intelligence-Driving-Hub",
-      "originalUrl": "https://menafn.com/1104417510/Dubai-Police-In-Collaboration-With-Continental-Organises-A-Dialogue-Session-On-Artificial-Intelligence-Driving-Hub",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-06/22/DPN_37bc1image_story.jpg",
-          "width": 580,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T15:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-airbus-cybersecurity-artificial-intelligence-and-setting-foot-on-mars.md",
-      "title": "Airbus Cybersecurity, Artificial Intelligence, and setting foot on Mars",
-      "excerpt": "How can aviation become more sustainable? When will the first human be set foot on Mars? Cyber security and artificial intelligence at Airbus",
-      "sourceUrl": null,
-      "webUrl": "https://eturbonews.com/airbus-cybersecurity-artificial-intelligence-and-setting-foot-on-mars/",
-      "originalUrl": "https://eturbonews.com/airbus-cybersecurity-artificial-intelligence-and-setting-foot-on-mars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://eturbonews.com/wp-content/uploads/2022/06/ILABerlin.jpeg",
-          "width": 2480,
-          "height": 1654,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T15:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eTurboNews",
-        "domain": "eturbonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-robots-become-racist-and-sexist-when-programmed-with-common-ai-system-researchers-claim.md",
-      "title": "Robots become racist and sexist when programmed with common AI system, researchers claim",
-      "excerpt": "A ROBOT programmed with a popular artificial intelligence system turned racist and sexist, according to researchers. The robot was found to prefer men to women and white people over people of color.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/tech/18974467/racist-sexist-robot-ai-artificial-intelligence/",
-      "originalUrl": "https://www.thesun.co.uk/tech/18974467/racist-sexist-robot-ai-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/06/me-off-plat-racist-robot.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/18974467/racist-sexist-robot-ai-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/18974467/racist-sexist-robot-ai-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-06-22T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

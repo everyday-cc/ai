@@ -2,6 +2,190 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-17-new-neuromorphic-chip-for-ai-on-the-edge-at-a-small-fraction-of-the-energy-and-size-of-todays-computing-platforms.md",
+      "title": "New neuromorphic chip for AI on the edge, at a small fraction of the energy and size of today's computing platforms",
+      "excerpt": "An international team of researchers has designed and built a chip that runs computations directly in memory and can run a wide variety of AI applications–all at a fraction of the energy consumed by computing platforms for general-purpose AI computing.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/a-new-neuromorphic-chi.jpg",
+          "width": 2880,
+          "height": 1920,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp",
+      "publishedDateTime": "2022-08-17T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-best-practices-for-building-machine-learning-platforms-on-the-cloud.md",
+      "title": "Best practices for building machine learning platforms on the cloud",
+      "excerpt": "By combining cloud-native platforms with data at scale, companies can better advance and experiment with newer, more innovative products.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/best-practices-for-building-machine-learning-platforms-on-the-cloud/",
+      "originalUrl": "https://venturebeat.com/ai/best-practices-for-building-machine-learning-platforms-on-the-cloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1214403575.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 678,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/best-practices-for-building-machine-learning-platforms-on-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/best-practices-for-building-machine-learning-platforms-on-the-cloud/amp/",
+      "publishedDateTime": "2022-08-17T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-top-4-ai-based-face-recognition-applications.md",
+      "title": "Top 4 AI-based Face Recognition Applications",
+      "excerpt": "Besides mobile face recognition, voice recognition is also used to enhance security. The user’s voice and face work as a password and is like the biometric key to unlocking all the apps. AppLock amalgamates the speaker and face recognition technology to ...",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/top-4-ai-based-face-recognition-applications/",
+      "originalUrl": "https://techbullion.com/top-4-ai-based-face-recognition-applications/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/08/Some-popular-face-recognition-apps.jpg",
+          "width": 918,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/top-4-ai-based-face-recognition-applications/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-4-ai-based-face-recognition-applications/amp/",
+      "publishedDateTime": "2022-08-17T06:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-four-companies-leading-the-rise-of-artificial-intelligence-big-data.md",
+      "title": "Four Companies Leading The Rise Of Artificial Intelligence & Big Data",
+      "excerpt": "Recent technological advancements in artificial intelligence (AI) have companies diversifying their revenue streams across the value chain.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/markets/emerging-markets/22/08/28533522/four-companies-leading-the-rise-of-artificial-intelligence-big-data",
+      "originalUrl": "https://www.benzinga.com/markets/emerging-markets/22/08/28533522/four-companies-leading-the-rise-of-artificial-intelligence-big-data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.benzinga.com/files/images/story/2022/08/17/shutterstock_1663029574.jpg?width=1200&height=800&fit=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28533522",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28533522",
+      "publishedDateTime": "2022-08-17T05:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-17-the-role-of-ethics-in-the-evolving-world-of-marketing-ai.md",
       "title": "The Role Of Ethics In The Evolving World Of Marketing AI",
       "excerpt": "Marketing today requires a delicate balance between engaging smart, predictive technologies, such as ML and AI, and honoring the ethical standards that build trust between brands and customers.",
@@ -103,6 +287,58 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-nice-announces-top-tier-microsoft-azure-ip-co-sell-status-with-the-full-power-of-nice-cxone-now-available-natively-on-azure.md",
+      "title": "NICE Announces Top Tier Microsoft Azure IP Co-Sell Status with the Full Power of NICE CXone Now Available Natively on Azure",
+      "excerpt": "NICE (Nasdaq: NICE) today announced the expansion of its partnership with Microsoft, delivering the full power of CXone",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/nice-announces-top-tier-microsoft-azure-ip-co-sell-status-with-the-full-power-of-nice-cxone-now-available-natively-on-azure-2022-08-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/nice-announces-top-tier-microsoft-azure-ip-co-sell-status-with-the-full-power-of-nice-cxone-now-available-natively-on-azure-2022-08-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -305,7 +541,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/edge-ai-hardware-market-size-report-till-2029-with-leading-regions-and-countries-data-119-pages-2022-08-17",
       "featuredContent": null,
       "highlight": null,
-      "heat": 164,
+      "heat": 144,
       "tags": null,
       "images": [
         {
@@ -969,249 +1205,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-new-integrateai-platform-preserves-privacy-in-machine-learning-and-analytics.md",
-      "title": "New integrate.ai platform preserves privacy in machine learning and analytics",
-      "excerpt": "The new integrate.ai platform users federated learning and differential privacy technologies to unlock a range of machine learning and analytics capabilities on data that would otherwise be difficult or impossible to access because of privacy,",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/08/16/new-integrate-ai-platform-preserves-privacy-machine-learning-analytics/",
-      "originalUrl": "https://siliconangle.com/2022/08/16/new-integrate-ai-platform-preserves-privacy-machine-learning-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/integrateai.png",
-          "width": 483,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-ai-language-skills-coax-google-robots-into-the-real-world.md",
-      "title": "AI Language Skills Coax Google Robots Into the Real World",
-      "excerpt": "Teaching robots to process language helps them navigate the complexities of a kitchen, not just a carefully controlled lab.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/ai-language-skills-coax-google-robots-into-the-real-world/",
-      "originalUrl": "https://www.cnet.com/tech/computing/ai-language-skills-coax-google-robots-into-the-real-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/fa16c58da5f935f2df3f3e9280845f5ec8f15b77/2022/08/16/2c7e4708-4dcc-4ecb-904e-5de08919629b/20220811-google-palm-saycan-robot-01.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/",
-      "publishedDateTime": "2022-08-16T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-making-robots-more-helpful-with-language.md",
-      "title": "Making robots more helpful with language",
-      "excerpt": "Even the simplest human tasks are unbelievably complex. The way we perceive and interact with the world requires a lifetime of accumulated experience and context. For example, if a person tells you, “I am running out of time,” you don’t immediately worry they are jogging on a street where the space-time",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/making-robots-more-helpful-with-language/",
-      "originalUrl": "https://blog.google/technology/ai/making-robots-more-helpful-with-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_Video_Thumbnail_DJA2TWg.max-1300x1300.png",
-          "width": 1300,
-          "height": 548,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-who-owns-dall-e-images-legal-ai-experts-weigh-in.md",
-      "title": "Who owns DALL-E images? Legal AI experts weigh in",
-      "excerpt": "When OpenAI announced expanded beta access to DALL-E in July, the company offered paid subscription users full usage rights to reprint, sell and merchandise the images they create with the powerful text-to-image generator.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/who-owns-dall-e-images-legal-ai-experts-weigh-in/",
-      "originalUrl": "https://venturebeat.com/ai/who-owns-dall-e-images-legal-ai-experts-weigh-in/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/catastro.jpeg?w=1200&strip=all",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/who-owns-dall-e-images-legal-ai-experts-weigh-in/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/who-owns-dall-e-images-legal-ai-experts-weigh-in/amp/",
-      "publishedDateTime": "2022-08-16T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-how-companies-can-achieve-success-with-artificial-intelligence-in-hiring.md",
-      "title": "How Companies Can Achieve Success with Artificial Intelligence in Hiring",
-      "excerpt": "As businesses adopt Artificial Intelligence in recruiting at an increasing rate, it's critical that they know how to leverage",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/",
-      "originalUrl": "https://enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/08/How-Companies-Can-Achieve-Success-with-Artificial-Intelligence-in-Hiring.jpg",
-          "width": 700,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/amp/",
-      "publishedDateTime": "2022-08-16T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -2,6 +2,155 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-06-28-smart-pet-door-uses-facial-recognition-to-keep-critters-out.md",
+      "title": "Smart Pet Door Uses Facial Recognition to Keep Critters Out",
+      "excerpt": "Installing a pet door can make pet ownership less of a chore by eliminating the need to constantly have to let them outside for bathroom breaks and then back in again after, and the Petvation wants to make sure it’s only your dog or cat (or naked mole rat,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959",
+      "originalUrl": "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/a2c3710f56698b6fc0b31da2db224794.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/petvation-smart-pet-door-facial-recognition-cat-dog-1849113959/amp",
+      "publishedDateTime": "2022-06-27T16:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-australian-retail-giants-named-in-facial-recognition-tech-complaint.md",
+      "title": "Australian retail giants named in facial recognition tech complaint",
+      "excerpt": "Three of Australia's biggest retail chains have been referred to the privacy regulator for recommended enforcement action by a major consumer group which has said they use \"unreasonably intrusive\" facial recognition technology on customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/australian-retail-giants-targeted-facial-recognition-tech-complaint-2022-06-27/",
+      "originalUrl": "https://www.reuters.com/technology/australian-retail-giants-targeted-facial-recognition-tech-complaint-2022-06-27/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 224,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/HEBpxmx6GzkzBpGpHDgnXhk2ZvY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/CPDBSSSQSBIOJKUW5P7S5HL6FM.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-27T12:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-microsoft-is-removing-emotion-recognition-features-from-its-facial-recognition-tech.md",
+      "title": "Microsoft is removing emotion recognition features from its facial recognition tech",
+      "excerpt": "Emotion recognition technology typically relies on software to look at any number of qualities — facial expressions, tone of voice or word choice — in an effort to automatically detect emotional state.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/tech/tech-news/microsoft-removing-emotion-recognition-features-facial-recognition-tec-rcna35087",
+      "originalUrl": "https://www.nbcnews.com/tech/tech-news/microsoft-removing-emotion-recognition-features-facial-recognition-tec-rcna35087",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 182,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220627-microsoft-mjf-0743-fbcfec.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna35087",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna35087",
+      "publishedDateTime": "2022-06-27T12:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-06-27-iphone-5-to-get-3d-camera-with-face-and-object-recognition.md",
       "title": "iPhone 5 to get 3D camera with face and object recognition",
       "excerpt": "This 3D camera set-up for iOS could also include features like face and gesture recognition so that your iPhone recognizes smiling and frowning. Capturing 3D video of an object, or taking 3D photos while it’s rotating, means that in theory we will also ...",
@@ -1259,136 +1408,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-ancient-tea-technique-finds-new-popular-recognition.md",
-      "title": "Ancient tea technique finds new popular recognition",
-      "excerpt": "The process of making chabaixi, a unique technique that creates a pattern on the surface of tea soup via water injection and agitation in Song Dynasty (960-1279), later becaming a",
-      "sourceUrl": null,
-      "webUrl": "https://www.globaltimes.cn/page/202206/1268327.shtml",
-      "originalUrl": "https://www.globaltimes.cn/page/202206/1268327.shtml",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-06-16/15eb179f-f0a5-4add-83e7-bf1195b17dec.jpeg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Global Times",
-        "domain": "globaltimes.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-boca-raton-police-renewing-facial-recognition-program.md",
-      "title": "Boca Raton police renewing facial recognition program",
-      "excerpt": "BOCA RATON — The city of Boca Raton is letting its police force continue to participate in a statewide facial recognition program, joining hundreds of communities in Florida employing the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sun-sentinel.com/local/palm-beach/boca-raton/fl-ne-facial-recognition-database-20220615-vnejpcadizfkrgwyrk62mg66hq-story.html",
-      "originalUrl": "https://www.sun-sentinel.com/local/palm-beach/boca-raton/fl-ne-facial-recognition-database-20220615-vnejpcadizfkrgwyrk62mg66hq-story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sun-sentinel.com/resizer/RLanypOEFc2VM6lc70vyRoiHo7Q=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/GFCOOH6LS5ELBD5KA6RDIZ5G64.JPG",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T20:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sun Sentinel",
-        "domain": "sun-sentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-boca-raton-fla-police-to-join-facial-recognition-program.md",
-      "title": "Boca Raton, Fla., Police to Join Facial Recognition Program",
-      "excerpt": "The city of Boca Raton is letting its police force participate in a statewide facial recognition program, joining hundreds of communities in Florida employing the controversial crime-fighting technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program",
-      "originalUrl": "https://www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/49e944a/2147483647/strip/true/crop/940x490+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program?_amp=true",
-      "publishedDateTime": "2022-06-15T09:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

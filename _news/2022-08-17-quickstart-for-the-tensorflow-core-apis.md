@@ -53,15 +53,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Amazon SageMaker JumpStart solutions now support custom IAM role settings"
-    excerpt: "Amazon SageMaker JumpStart solutions are a feature within Amazon SageMaker Studio that allow a simple-click experience to set up your own machine learning (ML) workflows. When you launch a solution, various of AWS resources are set up in your account to demonstrate how the business problem can be solved"
-    publishedDateTime: 2022-08-15T18:54:45Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-jumpstart-solutions-now-support-custom-iam-role-settings/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 68
   - title: "TensorFlow Core APIs overview"
     excerpt: "The TensorFlow Core APIs provide a set of low-level APIs for high-performance (distributed & accelerated) computation, primarily aimed at building machine learning (ML) models as well as authoring ML workflow tools and frameworks within the TensorFlow ..."
     publishedDateTime: 2022-08-17T01:54:00Z

@@ -2,6 +2,136 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-21-ieee-computer-society-publications-achieve-compelling-increases-in-impact-factors.md",
+      "title": "IEEE Computer Society Publications Achieve Compelling Increases in Impact Factors",
+      "excerpt": "IEEE Transactions on Pattern Analysis and Machine Intelligence earns highest impact factor of all IEEE publications LOS ALAMITOS, Calif., July 20, 2022 /PRNewswire/ -- The IEEE Computer Society (IEEE CS)—the leading publisher of peer-reviewed magazines ...",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-science-282648455f43a56a9093b61527b53b59",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-science-282648455f43a56a9093b61527b53b59",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-the-best-outdoor-home-security-cameras-of-2022.md",
+      "title": "The best outdoor home security cameras of 2022",
+      "excerpt": "store or review video (though you give up some object recognition accuracy in comparison with the subscription-based cameras). The Eufy Floodlight Camera has a 130-degree field of view that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/cnn-underscored/reviews/best-outdoor-home-security-camera",
+      "originalUrl": "https://www.cnn.com/cnn-underscored/reviews/best-outdoor-home-security-camera",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T12:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-techsee-launches-visual-intelligence-platform.md",
+      "title": "TechSee Launches Visual Intelligence Platform",
+      "excerpt": "TechSee, a provider of computer vision solutions for customer service, today launched its Visual Intelligence (VI) Platform to help companies customize their computer vision automation applications. Computer vision AI identifies specific models ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154037",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154037",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/146677-0722_HappierAgents_480x610-ORG.png",
+          "width": 480,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-safety-vision-showcases-mobile-video-surveillance-advancements-at-stn-expo-reno.md",
       "title": "Safety Vision Showcases Mobile Video Surveillance Advancements at STN EXPO Reno",
       "excerpt": "EXPO in Reno, NV this week displaying several innovative technologies for K12 Pupil Transportation Directors representing hundreds of the nation’s largest school districts. Technologies included our Electronic Mirror System that includes a 12.",
@@ -1223,136 +1353,6 @@
       "provider": {
         "name": "The New Daily",
         "domain": "thenewdaily.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-the-best-amazon-prime-day-2022-robot-vacuum-deals-roomba-samsung-jet-bot-more.md",
-      "title": "The best Amazon Prime Day 2022 robot vacuum deals: Roomba, Samsung Jet Bot, more",
-      "excerpt": "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/amazon-prime-day-2022-deals-robot-vacuums/",
-      "originalUrl": "https://www.cbsnews.com/essentials/amazon-prime-day-2022-deals-robot-vacuums/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/07/f7a3df6f-2008-4e3a-8f75-077de5b2df8f/thumbnail/1200x630/ab8ffa1608ae5b817695d99e881bdabb/robot-vacuum-hero.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/amazon-prime-day-2022-deals-robot-vacuums/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/amazon-prime-day-2022-deals-robot-vacuums/",
-      "publishedDateTime": "2022-07-12T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030.md",
-      "title": "AI in Computer Vision Market Report: Production Capacity and Consumption Analysis, Trends Analysis Report and Forecasts, 2022 To 2030",
-      "excerpt": "Jul 11, 2022 (Alliance News via COMTEX) -- Key Companies Covered in the AI in Computer Vision Market Research areNVIDIA Corporation, Intel Corporation, Microsoft Corporation, IBM Corporation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030-2022-07-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030-2022-07-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T17:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-11-arteris-ips-next-generation-of-vision-processing-for-edge-devices-selected-by-inuitive-for-its-next-generation-of-computer-vision-platforms.md",
-      "title": "Arteris IP’s Next Generation of Vision Processing for Edge Devices Selected by Inuitive for Its Next Generation of Computer Vision Platforms",
-      "excerpt": "RA’ANANA, Israel and CAMPBELL, Calif., July 11, 2022 (GLOBE NEWSWIRE) -- Arteris ® Inc (Nasdaq: AIP) - a leading provider of system IP consisting of network-on-chip (NoC) interconnect and IP ...",
-      "sourceUrl": null,
-      "webUrl": "https://fox40.com/business/press-releases/globenewswire/8596814/arteris-ips-next-generation-of-vision-processing-for-edge-devices-selected-by-inuitive-for-its-next-generation-of-computer-vision-platforms/",
-      "originalUrl": "https://fox40.com/business/press-releases/globenewswire/8596814/arteris-ips-next-generation-of-vision-processing-for-edge-devices-selected-by-inuitive-for-its-next-generation-of-computer-vision-platforms/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX40",
-        "domain": "fox40.com",
         "images": null,
         "publishers": null,
         "authors": null

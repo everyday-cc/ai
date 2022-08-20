@@ -19,53 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Natural Language Processing (NLP) Market worth $49.4 billion by 2027 – Exclusive Report by MarketsandMarkets™"
-    excerpt: "Natural Language Processing (NLP) Market size to grow from USD 15.7 billion in 2022 to USD 49.4 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 25.7% during the"
-    publishedDateTime: 2022-08-18T14:30:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/g28552986/natural-language-processing-nlp-market-worth-49-4-billion-by-2027-exclusive-report-by-marketsandma"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28552986"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28552986"
+  - title: "Artificial Intelligence in Agriculture Market 2022-2031 – Impact of COVID-19, Case Study Analysis, Key Opportunities and Major Players"
+    excerpt: "This definitely shows how the market is trying to recover back and this will have a direct impact on the Healthcare/ICT/Chemical industries, creating a huge demand for Artificial Intelligence in Agriculture Market products. Download Sample of This ..."
+    publishedDateTime: 2022-08-17T04:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-2022-2031-impact-of-covid-19-case-study-analysis-key-opportunities-and-major-players-2022-08-17"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 35
-  - title: "Natural Language Processing (NLP) Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com"
-    excerpt: "The \"Natural Language Processing Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Natural Language Processing Market is projected to reach USD 40."
-    publishedDateTime: 2022-08-16T09:59:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-natural-language-processing-nlp-market-intelligence-report-global-forecast-to-2027-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 14
-  - title: "Artificial Intelligence In Drug Discovery Global Market to Grow from $1.04 Billion to $2.99 Billion by 2026"
-    excerpt: "The global artificial intelligence (AI) in drug discovery market is expected to grow from $791.83 million in 2021 to $1042.30 million in 2022 at a compound annual growth rate (CAGR) of 31.6%. The market is expected to reach $2994."
-    publishedDateTime: 2022-08-16T11:04:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-drug-discovery-global-market-grow-from-/2022/08/16/9656310.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-  - title: "Medical Ultrasound Equipment Global Market Report 2022: Artificial Intelligence at the Forefront in New Ultrasound Systems - ResearchAndMarkets.com"
-    excerpt: "The \"Medical Ultrasound Equipment - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Medical Ultrasound Equipment Market to Reach $8.2 Billion by 2026 Amid the COVID-19 crisis,"
-    publishedDateTime: 2022-08-16T12:28:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-medical-ultrasound-equipment-global-market-report-2022-artificial-intelligence-at-the-forefront-in-new-ultrasound-systems-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
-  - title: "The Worldwide Artificial Intelligence for Drug Discovery and Development Industry is Expected to Reach $4.8 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The Global Artificial Intelligence for Drug Discovery and Development Market is estimated to be USD 1.22 Bn in 2022 and is expected to reach USD 4.8 Bn by 2027, growing at a CAGR of 31.54%. Market dynamics are forces that impact the prices and behaviors of the stakeholders."
-    publishedDateTime: 2022-08-17T14:32:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-17-the-worldwide-artificial-intelligence-for-drug-discovery-and-development-industry-is-expected-to-reach-48-billion-by-2027-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "xD8G1m6l//PBbZm5CI51qfDzstguY1b/E9RdRDLhfE+hC3//mvre2UQ1fbtFvb8R+44lpp2lJoKEFz7mmHgV1yPpb1oE/Af4+p7LidPE1SccZ1lFnubU7x/aVoh6BU1ljzCBZjxae/m0O1w26Hq8VZmDctkADDb0UKo3qaRAKfLsBbuy77jttAOCQMO0kPGzXPFzSX621g9ZJh0eM4JqkphMOUA/DDZoSXbyNGFCzyCNXBGURAKMN58Yb8V73517/c81hByETJj6b1X81Ai29wZ/lFz8qVEN0k3V2Z8BBaSgXERBMofIkGCI3sFXOHxtleQQ0LimsMk8Tgxm6fKnT/KhUsww6S+kdwLky4emyYI=;LhIImTkcd+vv/kE3kCkV6A=="
 ---

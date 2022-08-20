@@ -43,20 +43,17 @@ related:
         width: 1999
         height: 1333
         isCached: true
-  - title: "TikTok takes on viral trend with new text-to-image AI filter"
-    excerpt: "The new 'AI greenscreen' filter on TikTok is the app's attempt to jump on the text-to-image trend popularised by the likes of DALL-E."
-    publishedDateTime: 2022-08-15T17:27:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/titok-text-to-image-ai-filter"
+  - title: "Amazon testing TikTok-style feed on its app, AI firm says"
+    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."
+    publishedDateTime: 2022-08-19T23:05:00Z
+    webUrl: "https://www.star-telegram.com/news/nation-world/national/article264624466.html"
+    ampWebUrl: "https://amp.star-telegram.com/news/nation-world/national/article264624466.html"
+    cdnAmpWebUrl: "https://amp-star--telegram-com.cdn.ampproject.org/c/s/amp.star-telegram.com/news/nation-world/national/article264624466.html"
     type: article
     provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
-    quality: 37
-    images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/08/AdobeStock_446367840_Editorial_Use_Only.jpeg"
-        width: 800
-        height: 600
-        isCached: true
+      name: Fort Worth Star-Telegram
+      domain: star-telegram.com
+    quality: 39
   - title: "TikTok adds AI image generator"
     excerpt: "Meanwhile, TikTok previously increased the age limit for those buying gifts on the app. The Chinese-owned company announced that users under the age of 18 would no longer be able to buy or receive virtual gifts after it was criticised for allowing teenagers to spend money on their favourite influencers in a bid to get a “shout-out” from them."
     publishedDateTime: 2022-08-17T09:15:00Z

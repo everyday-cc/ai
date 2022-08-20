@@ -26,22 +26,6 @@ images:
     height: 873
     isCached: true
 
-related:
-  - title: "Can people with spinal injuries walk and run, researchers probe in new study"
-    excerpt: "An international research team has succeeded in recovering muscle movement in a model of paralysed mice organic through artificial nerves The team was led by P"
-    publishedDateTime: 2022-08-15T18:58:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272654679/can-people-with-spinal-injuries-walk-and-run-researchers-probe-in-new-study"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 21
-    images:
-      - url: "https://cdn.bignewsnetwork.com/ani1660589526.jpg"
-        width: 630
-        height: 420
-        isCached: true
-
 secured: "v7dcPSHlWq+wk7+RwcdYeal144rFeTZdtHpUOrDZsy9spB+v8KZT3NYrBWNOIkb95XHHhlnMZHpqzbSWz2EUFNAznoZQziWkcU7CFuTsOYjDuUmYcXrI+/3AmAgaAltvQ8iOcMqpnVgaEAcZw/mxrzPRgDvEG6hO8NgoxhDWXbZa7p+PFurNgyzMaFM3BL+wCpExzngYazo8NCnzneN6XQzGhUAirGHu2+I3EGyD4hjc4yVx88bnMemaZAHi7dUj1Jb2YQeX9DI9OdFtKdt35t3oIrPCxm3fMALuT0O0IS/G3NiV4yaX88NpKL3esEQwB3535pHUcdYJT+WJ1fU9akXCGPZ9nXzqVSYxj+yp9js=;qwB465NPiKMeqPGZRtMRTg=="
 ---
 

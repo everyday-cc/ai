@@ -61,24 +61,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence Application Market 2022: Global Trends, Size, Segments, Forces Analysis, Revenue, Challenges and Growth Forecast to 2028"
-    excerpt: "The global Artificial Intelligence Application Market report focused on a thorough examination of the industry's"
-    publishedDateTime: 2022-08-17T07:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-application-market-2022-global-trends-size-segments-forces-analysis-revenue-challenges-and-growth-forecast-to-2028-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 10
-  - title: "Voice Recognition Market generalship Report Industry Size, Segment by Key Companies, Types Applications and Forecast to 2025"
-    excerpt: "Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with"
-    publishedDateTime: 2022-08-18T13:10:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-generalship-report-industry-size-segment-by-key-companies-types-applications-and-forecast-to-2025-2022-08-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 7
   - title: "Self-Driving Car Market Size 2022 Share Estimation, Top Players Updates, Consumer-Demand, Developments Plans, Industry Impact And Forecast Till 2031"
     excerpt: "Kenneth Research added a report on  Self-Driving Car Market  into the repository of market research reports. The report includes"
     publishedDateTime: 2022-08-16T06:03:00Z
