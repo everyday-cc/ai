@@ -73,20 +73,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "YouTube Pulls Video of Tesla Full Self-Driving Test Involving Kids"
-    excerpt: "YouTube has removed a video in which Tesla investors test claims that cars using the latest beta version of the company's Full Self-Driving (FSD) technology fail to ..."
-    publishedDateTime: 2022-08-20T17:36:00Z
-    webUrl: "https://au.pcmag.com/cars-auto/95760/youtube-pulls-video-of-tesla-full-self-driving-test-involving-kids"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/news/y/youtube-pu/youtube-pulls-video-of-tesla-full-self-driving-test-involvin_s5km.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "California Wants Tesla to Stop Calling Half-Finished System \"Full Self-Driving\""
     excerpt: "Tesla’s \"full self-driving\" (FSD) may have to come to a full stop because the California DMV isn’t a fan of the feature’s misleading marketing."
     publishedDateTime: 2022-08-16T16:49:00Z
@@ -141,6 +127,15 @@ related:
         width: 1024
         height: 555
         isCached: true
+  - title: "YouTube Pulls Video of Tesla Full Self-Driving Test Involving Kids"
+    excerpt: "The video, which depicts a Tesla investor driving a Model 3 toward one of his own children, reportedly violates YouTube's child safety policy."
+    publishedDateTime: 2022-08-20T17:36:00Z
+    webUrl: "https://www.pcmag.com/news/tesla-full-self-driving-test-involving-kids-gets-pulled-from-youtube"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 49
 
 secured: "lELvZSMTMkPYxNYTaG75V5tQ3xRrlsBMx3U5lUjtx7fzbnTmtMgY56vow/OO+B83dNPr05HSl3RdWxBHOB+8c4X7AX68916SK14E77MOVVvAgQAOGZiHRvlc+VlVMg9kugj8zxQwyb5793jK+FW2ZK+/Xu2xm8j5g9vPR2qZsn5H5OX/GxyZm4rL2BDB4xXZExGUr0BbaKe5PtqMpwd3WpiLv5dQWsADA5uKUCuogIEC+JMB5KDXGd7+FlHkiWtDwoiNT7UHR/D+T5obMUvyXIijxyzy5JIlFvFYVeM3ztA6iitEEfLlyhU28+dlpH0FPcTqLRi9BX50Ngnf7ge9quHnKb1WPofgkOS8kXaxbKdzoMe7scEkWGgEu4J/jx9jpaZFIPLNTwKBxXS2q9BTIBpK/1ljX7xtiDXoqboFdDWA+Vo9Ocgy0KVjhoj42ao+qqvGFllsyf/6PfUGD20kWBzgz0ESh5bRwNe0a5bYgrhcs7zTPo7jDQUXM/AGLEASguZMVSMRdbcwmUN/eVw9aQ==;/CuymcoV44TmKJ8kj9iONQ=="
 ---

@@ -27,19 +27,21 @@ images:
     isCached: true
 
 related:
-  - title: "The risks and rewards as UK Government unveils its plans for driverless car roll out by 2025"
-    excerpt: "Vehicles that can drive themselves on motorways could be on sale within the next year, according to newly released plans by the Department for Transport"
-    publishedDateTime: 2022-08-19T07:33:00Z
-    webUrl: "https://inews.co.uk/news/self-driving-cars-uk-roads-2025-government-plans-1802805"
+  - title: "Self-driving cars could be on UK roads next year, Grant Shapps says - 'Huge potential'"
+    excerpt: "SELF-DRIVING cars could be seen on British roads by next year, as the Government invests £100million into the emerging sector."
+    publishedDateTime: 2022-08-19T06:55:00Z
+    webUrl: "https://www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps"
+    ampWebUrl: "https://www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps/amp"
     type: article
     provider:
-      name: i
-      domain: inews.co.uk
-    quality: 28
+      name: Daily Express
+      domain: express.co.uk
+    quality: 36
     images:
-      - url: "https://wp.inews.co.uk/wp-content/uploads/2022/08/SEI_120003947.jpg"
-        width: 2500
-        height: 1604
+      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps-1657360.jpg?r=1660892097429"
+        width: 590
+        height: 350
         isCached: true
   - title: "The Legal Challenge With Self-Driving Cars: Who’s Ultimately Liable?"
     excerpt: "Two decades ago, self-driving cars were a fantasy only possible in sci-fi movies. Today, self-driving cars are only a legislation away."
@@ -52,6 +54,15 @@ related:
       name: lawandcrime
       domain: lawandcrime.com
     quality: 24
+  - title: "Self-driving cars: UK motorways change sparks AA warning amid new government plans"
+    excerpt: "The Government has unveiled new plans which mean self-driving vehicles could be 'on UK roads by 2025' and they're backed by a £100 million investment to boost the rollout. Motorways could even see some cars,"
+    publishedDateTime: 2022-08-19T13:53:00Z
+    webUrl: "https://www.theboltonnews.co.uk/news/20675179.self-driving-cars-uk-motorways-change-sparks-aa-warning-amid-new-government-plans/"
+    type: article
+    provider:
+      name: The Bolton News
+      domain: theboltonnews.co.uk
+    quality: 0
 
 secured: "KiVv1x/gcwjlx/RPay+1ZUFozpubaZaizeztjOuhCiqOXqTXHpYhJh71k22B1RHY69R0xEj75HslK6KYBIk0bZ5y3Qla9VZ32cxvXdVpuHYEXNTU3dnYs7DLFvN93kVN8v/PhstRjvh6M0F6FzXr4pSXlBkjA8OdX9Ic+7Wm2e0SgKxd36CTTG02rAg1vDxvOEPdOdG8eASBSQIvJNojz59Hl+ndaXEKNJ3xKHgTm1erqYQsQLctE/frfCmxOE1pdiW0pveAsi1PBWOUYCVj/vfBNuUw2d5UXlneuuF/OV5lQmkR8vP+3dOVrNbFbEyG81OCrLs8rie3vqi6y3BU/vCUiqWgXch/Q4s7pW1Ax7Y=;OsYxs6b3AG+J7yWMu6K10g=="
 ---

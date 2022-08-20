@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-18T13:12:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-mn-by-2027-the-insight-partners-2022-08-18"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-mn-by-2027-the-insight-partners-2022-08-18"
 type: article
-quality: 77
-heat: 97
+quality: 79
+heat: 99
 published: true
 
 provider:
@@ -23,6 +23,7 @@ topics:
   - AI
   - AI in Healthcare
   - AI in Autos
+  - AI in Robotics
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

@@ -19,122 +19,76 @@ topics:
   - AI
 
 related:
-  - title: "Edge AI Hardware Market Size Report Till 2029 with Leading Regions and Countries Data | 119 Pages"
-    excerpt: "In the forecast period of 2022-2029, the global “Edge AI Hardware Market\" is expected to grow at a steady rate,"
-    publishedDateTime: 2022-08-17T05:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-hardware-market-size-report-till-2029-with-leading-regions-and-countries-data-119-pages-2022-08-17"
+  - title: "Natural Language Processing (NLP) Market worth $49.4 billion by 2027 - Exclusive Report by MarketsandMarkets(TM)"
+    excerpt: "With natural language processing applications, organizations can analyze text and extract information about people, places, and events to better understand social media sentiment and customer conversations."
+    publishedDateTime: 2022-08-18T14:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-worth-494-billion-by-2027---exclusive-report-by-marketsandmarketstm-2022-08-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 63
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Hardware Market Outlook, Key Players, Share, Trends and Forecast by 2027"
-    excerpt: "Hardware Market is valued at approximately USD 9.8 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 37.5% over the forecast period 2020-2027.  Artificial intelligence (AI) has been one of the most appealing technology in recent years."
-    publishedDateTime: 2022-08-17T14:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-outlook-key-players-share-trends-and-forecast-by-2027-2022-08-17"
+  - title: "Natural Language Processing (NLP) Market worth $49.4 billion by 2027 – Exclusive Report by MarketsandMarkets™"
+    excerpt: "Natural Language Processing (NLP) Market size to grow from USD 15.7 billion in 2022 to USD 49.4 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 25.7% during the"
+    publishedDateTime: 2022-08-18T14:30:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/g28552986/natural-language-processing-nlp-market-worth-49-4-billion-by-2027-exclusive-report-by-marketsandma"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28552986"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28552986"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-  - title: "Artificial Intelligence in Automotive Market Overview by Recent Opportunities, Growth Size, Regional Analysis and Forecasts to 2025"
-    excerpt: "Global Artificial Intelligence in Automotive Market Report is an In-Depth Analysis of the Latest Developments, Market"
-    publishedDateTime: 2022-08-17T12:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2025-2022-08-17"
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
+  - title: "Natural Language Processing (NLP) Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Natural Language Processing Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Natural Language Processing Market is projected to reach USD 40."
+    publishedDateTime: 2022-08-16T09:59:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-natural-language-processing-nlp-market-intelligence-report-global-forecast-to-2027-researchandmarketscom"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Neural Networks Market to Witness an Outstanding Growth during 2022-2029 with Leading Regions and Countries Data | 121 Pages"
-    excerpt: "In the forecast period of 2022-2029, the global “Artificial Neural Networks Market\" is expected to grow at a steady"
-    publishedDateTime: 2022-08-17T05:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-to-witness-an-outstanding-growth-during-2022-2029-with-leading-regions-and-countries-data-121-pages-2022-08-17"
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 14
+  - title: "Global AI CCTV Market (2022 to 2030) - Opportunity Analysis and Industry Forecasts - ResearchAndMarkets.com"
+    excerpt: "The \"AI CCTV Market by Offering, by Camera Type, by Deployment, and by End-user - Global Opportunity Analysis and Industry Forecast, 2022 - 2030\" report has been added to ResearchAndMarkets.com's offering."
+    publishedDateTime: 2022-08-16T16:16:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-global-ai-cctv-market-2022-to-2030-opportunity-analysis-and-industry-forecasts-researchandmarketscom"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Training Data Market Size 2021, Key Futuristic Trends, SWOT Analysis, Opportunities and Outlook Analysis by 2027 with Top Growth Companies"
-    excerpt: "In 2021, “ AI Training Data Market “ Size, Status and Market Insights, Forecast to 2027 |( Number of Pages:107) AI"
-    publishedDateTime: 2022-08-17T04:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-training-data-market-size-2021-key-futuristic-trends-swot-analysis-opportunities-and-outlook-analysis-by-2027-with-top-growth-companies-2022-08-17"
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 1
+  - title: "LAMEA Artificial Intelligence In Fintech Market to Expand by 19.2% Annually Through 2028 - ResearchAndMarkets.com"
+    excerpt: "The \"LAMEA Artificial Intelligence In Fintech Market Size, Share & Industry Trends Analysis Report By Component (Solutions and Services), By Deployment (On-premise and Cloud), By Application, By Country and Growth Forecast,"
+    publishedDateTime: 2022-08-16T13:38:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-lamea-artificial-intelligence-in-fintech-market-to-expand-by-192-annually-through-2028-researchandmarketscom"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Industrial Market 2022 Trends, Production, Gross Margin, Demands, Emerging Technology By Regional Forecast To 2029"
-    excerpt: "The Artificial Intelligence in Industrial Market (2022-2029) Survey Report is a professional and detailed survey of"
-    publishedDateTime: 2022-08-17T06:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-industrial-market-2022-trends-production-gross-margin-demands-emerging-technology-by-regional-forecast-to-2029-2022-08-17"
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
+  - title: "Medical Ultrasound Equipment Global Market Report 2022: Artificial Intelligence at the Forefront in New Ultrasound Systems - ResearchAndMarkets.com"
+    excerpt: "The \"Medical Ultrasound Equipment - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Medical Ultrasound Equipment Market to Reach $8.2 Billion by 2026 Amid the COVID-19 crisis,"
+    publishedDateTime: 2022-08-16T12:28:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-medical-ultrasound-equipment-global-market-report-2022-artificial-intelligence-at-the-forefront-in-new-ultrasound-systems-researchandmarketscom"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Software Market Share 2022 Global Trend, Segmentation, Business Growth, Opportunities and Forecast to 2029"
-    excerpt: "Get a Sample PDF of Report -  The Global Voice Recognition Software Market Report 2022 covers 118 pages and provides details on vital statistics, data, information, trends and competitive landscapes in this niche sector."
-    publishedDateTime: 2022-08-19T06:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-share-2022-global-trend-segmentation-business-growth-opportunities-and-forecast-to-2029-2022-08-19"
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
+  - title: "The Worldwide Artificial Intelligence for Drug Discovery and Development Industry is Expected to Reach $4.8 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The Global Artificial Intelligence for Drug Discovery and Development Market is estimated to be USD 1.22 Bn in 2022 and is expected to reach USD 4.8 Bn by 2027, growing at a CAGR of 31.54%. Market dynamics are forces that impact the prices and behaviors of the stakeholders."
+    publishedDateTime: 2022-08-17T14:32:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-17-the-worldwide-artificial-intelligence-for-drug-discovery-and-development-industry-is-expected-to-reach-48-billion-by-2027-researchandmarketscom"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Genomics Market Projections and Regional Outlook, Set for Rapid Growth and Trend by 2022-2030"
-    excerpt: "The global artificial intelligence market size in genomics is expected to grow from 471 million USD to 18,213 million USD from 2021 to 2030 with a compound annual growth rate (CAGR) of 50.2%.\\ Download Free Sample of This Strategic Report :- A release on June 8th,"
-    publishedDateTime: 2022-08-17T13:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-genomics-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-2030-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 24
-  - title: "Voice Recognition Biometrics Market to Witness an Outstanding Growth during 2022-2029 with Leading Regions and Countries Data | 124 Pages"
-    excerpt: "In the forecast period of 2022-2029, the global “Voice Recognition Biometrics Market\" is expected to grow at a steady"
-    publishedDateTime: 2022-08-17T05:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-biometrics-market-to-witness-an-outstanding-growth-during-2022-2029-with-leading-regions-and-countries-data-124-pages-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "nsmaHfAvG+UPqREG5noF4m1TYO5yXAIOTfe9qZHq9QxoXI4Dykm7IyKaj6NMa9hrPFJU2yasOCLGOZYPiZySWmXzhhOc0g/d0b7iuOPyLX2pUnYVnp3aFUotw12kHh+yg5EkygM+PWdbfSkewhOq1BMFqncEnejicUbojMx7JsRyk5ZuhNKYgrOyhnBGCMgjjo8lPv+09b6O1WTLTAi4ELEMEzaVHAiD+mmIKhm1Z9H7WPICM5mFs8iZMkxTxgxdFujgn01DqAcGOMV3MbkAOntn0bigrHbYXldQekYl5q7KTz9Rzk1+XqwEXhopem7qav5kmSkMEjvqYhdwv+brc8ZFe3lUjW8M73h4D6bnJa4=;f41JmdX8efJVpkCYfOSACg=="
 ---

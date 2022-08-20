@@ -2,6 +2,49 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-06-14-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
+      "title": "China's Baidu races Waymo, GM to develop self-driving cars",
+      "excerpt": "BEIJING -- With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyherald.com/article/20220628/business/306289885",
+      "originalUrl": "https://www.dailyherald.com/article/20220628/business/306289885",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailyherald.com/storyimage/DA/20220628/business/306289885/AR/0/AR-306289885.jpg&updated=202206290650&imageversion=Facebook&exactH=630&exactW=1200&exactfit=crop&noborder",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-what-are-autonomous-car-levels-1-5-of-driverless-tech-explained.md",
       "title": "What are autonomous car levels? 1-5 of driverless tech explained",
       "excerpt": "The UK government is still grappling with how to update legislation and allow for driverless cars on our roads. One of the latest mandates looks set to allow the driver to watch TV while the car ...",
@@ -1293,58 +1336,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-chinas-jidu-robo-1-looks-like-its-from-the-future-maybe-it-is.md",
-      "title": "China’s Jidu Robo-1 Looks Like It’s From the Future. Maybe It Is",
-      "excerpt": "The autonomous driving technology for Jidu’s car will be a custom version of Apollo, an open platform developed by Baidu and several partners that dozens of carmakers use in China. Jidu says its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/",
-      "originalUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/629ff1ed853b24d07fae362d/master/pass/JiDU-ROBO-1-Baidu-First-Car-Business.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baidu-jidu-robo-1-autonomous-car/amp",
-      "publishedDateTime": "2022-06-08T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -40,6 +40,15 @@ related:
         width: 2048
         height: 1333
         isCached: true
+  - title: "Face biometrics deployed for everything from supermarket payments to World Cup security"
+    excerpt: "Face biometrics for identity verification, small-n searches and large-scale forensic investigation, and even live facial recognition lead the news this week."
+    publishedDateTime: 2022-08-20T18:03:00Z
+    webUrl: "https://www.biometricupdate.com/202208/face-biometrics-deployed-for-everything-from-supermarket-payments-to-world-cup-security"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 13
 
 secured: "cRUfaZSkEWnAEFn0WTxHHrZYszm4esaf5IQNRr+afQOBKa+QRQw+XWSBUFxauczzSR/9F3WkJCZCC8x6DA8/Vvdw4cXfmKvn+npxnnWCtNyW6qJeDlcxLQJVguYfwJRgb1lx9hqWjxENaPYgcheIObXbxvjocceS2h9zrpCVreNXv1P21Qf4d7DkcqJ3qDGAXKAeULtCRU+18Z28QLM0sXV30+rmAFbjm8aAStF1bTbD4ak6sr+aNmy/Co8tNVvK6bUOeBNy0M0uFOGNjSNIPox/1NsIehh1VxPYXels0JNCMr+uoAoonj7R2gQlXye/kdaYSytwlqq+Gy1KZ+R1C/WcticnGI5CXNUp8nr+PEkN1x72DbKM+xQW+93/PRtG3IbkN19Rs4jLs5kXjIIcJsOPwO5dvNGNCP01hhzOJ3rmaUXrumgZyo9Isw1/EW+1nh0Ih09BEGs23GUH4gR+JAzEKu6tp5yD+vJ2smZoXkZ7o/Gc5XGaiqF1ehLR2j1Wzddia2MaelqZ/iErzapq3g==;sbC2geQAhNySGXhNk5j3Cw=="
 ---

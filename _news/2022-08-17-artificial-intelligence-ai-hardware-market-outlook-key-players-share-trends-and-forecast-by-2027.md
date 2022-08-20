@@ -129,15 +129,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Worth $407.0 Billion By 2027 – Exclusive Report by MarketsandMarkets™"
-    excerpt: "Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.2% during the forecast period, to reach USD 407.0 billion by 2027 from"
-    publishedDateTime: 2022-08-19T12:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/g28565079/artificial-intelligence-market-worth-407-0-billion-by-2027-exclusive-report-by-marketsandmarkets"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 4
 
 secured: "XhT6lqWQT9AMbZVUeOYWxGfsZGBshFlySz6jdkqO9czlOHGkeD0F3iPhTDaEbIGGhkcy4wSDt9LvFLJNXH/KvPeifXmwjgKivId6X+0w1ss2sS1XtSkSoOwr397syfb/gEhMK6pnbfRrVKWX9HH1JnYmBvsORZe5ycixDGfUJqKOPk3Dbm2W7epKSMbO3hdHDwwtCsfwFCXvmmfrjZj7U2SuQi+UkYZj8tFShKb0KAzvidDQ+rEC2MYmZMdIVse7WZ5zDBoS5jLuBb0/ICkyctgMU5Va1dVO0RWx3nCSrf5sz+Xk6qA9vD9vy6fiGOInYn8weRbIBI1AZET2vlrFkv88UtRD1zMBI28JpIshIEc=;owgy/sBKUq/yW9c6dcpC6w=="
 ---

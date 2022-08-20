@@ -2,22 +2,32 @@
 category: news
 title: "Cardinality.ai Joins the AWS Partner Network"
 excerpt: "The Advanced Technology Partner Status reduces complexity to adopt digital practices and confidence of integration for our shared public sector customers; Three Cardinality.ai sol"
-publishedDateTime: 2022-08-16T19:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-cardinalityai-joins-aws-partner-network-/2022/08/16/9657222.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-cardinalityai-joins-aws-partner-network-/2022/08/16/9657222.htm"
+publishedDateTime: 2022-08-16T18:07:00Z
+originalUrl: "https://www.marketwatch.com/press-release/cardinalityai-joins-the-aws-partner-network-2022-08-16"
+webUrl: "https://www.marketwatch.com/press-release/cardinalityai-joins-the-aws-partner-network-2022-08-16"
 type: article
-quality: 34
-heat: 34
-published: false
+quality: 84
+heat: 84
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "pIUH+9Tcpn2YUqWoXjmMr3HHBMEcu0H8hQ5Y9RJc06x1YK0YIwrO+anHwoSf8kcNbRKpquLf6aku9AU+w7fewI+T4cVi150FaDkPe3HbJ7UmkND99l0fXjSnARxQdmfUu14bUAtHNhSfVwAOrEysZmP0ssVls6xcErqvynkasYq2Dgj8e1zYLAZRsesGy+0GYV0KyU3uiJanq7jrWuzacIU7czn2yr8sjWZtVFeOjfi5VN3VWDQFzMwpFfkVeKiSWIwElVDXW8KYRU4q4JT1s1vJRu86EYFlJS+AWjTKzRsPv+Wa8BgOOsiv4Gf7pPh6+aPw1I26PYF4FWKMoPSX10Ndf4I3Q4OnUdbBIm8r58o=;QBh/4X+q7ETU5DGYC6ORdg=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "3V+hJy96G5rORrFcAabuSUZ73ZMHqPSwrHPyVG/z9JELzUlDhnUyLZCvxy6UygqNc4rfHyZeR/LCJTZoWwYrS6hvXgZyD54jqIuiGnRPWV8ITkfsTj2BPzL0hQ7qrtHHTp4zqQ/AqMYIhyfLaiIr0b4ta4YS9nkeMHlSGCd9dlZVxCHQgJi24auoowQolFGIkqnABkCASZy7vdZ5OU001IoQSlArZoQRVvpDvVqdZMqqCtiZcLKksJcnYBt5gjohkHDTg/yczyEi+QgbdH5uS+AKd+GR/LLlyleDyzK9GKRJRDthObEn2Nr4b1KW0TizwOqnAO91UTbEWX80yYwqM19YsrdTvGgMHdvPUeTBICU=;DSIiA9+z5kklvVSIIxFalA=="
 ---
 

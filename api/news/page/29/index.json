@@ -2,6 +2,224 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2022-07-26-chinese-carmakers-jostle-for-edge-in-autonomous-driving.md",
+      "title": "Chinese carmakers jostle for edge in autonomous driving",
+      "excerpt": "Shenzhen published a new set of rules which will allow autonomous commercial driving services to be offered in the tech hub from next month. That includes fully autonomous cars if such technology ever comes to fruition and meets safety requirements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freemalaysiatoday.com/category/business/2022/07/26/chinese-carmakers-jostle-for-edge-in-autonomous-driving/",
+      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2022/07/26/chinese-carmakers-jostle-for-edge-in-autonomous-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-25T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Free Malaysia Today",
+        "domain": "freemalaysiatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-xoriant-xcelerate-iot-now-available-in-the-microsoft-azure-marketplace.md",
+      "title": "Xoriant X⋅CELERATE IoT Now Available in the Microsoft Azure Marketplace",
+      "excerpt": "Azure Machine Learning, Azure Cognitive Services, Azure Cosmos DB, and Power BI. Xoriant, a Microsoft gold co-sell partner, is accelerating the deployment, development, and optimization of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eagletribune.com/region/xoriant-x-celerate-iot-now-available-in-the-microsoft-azure-marketplace/article_ecd578fd-7081-5fde-a0a0-123202589382.html",
+      "originalUrl": "https://www.eagletribune.com/region/xoriant-x-celerate-iot-now-available-in-the-microsoft-azure-marketplace/article_ecd578fd-7081-5fde-a0a0-123202589382.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
+          "width": 600,
+          "height": 333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-25T23:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Eagle-Tribune",
+        "domain": "eagletribune.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-machine-learning-market-research-by-leading-countries-growth-drivers-risks-opportunities-forecast-and-top-vendors-analysis-till-2031.md",
+      "title": "Machine Learning Market Research By Leading Countries, Growth, Drivers, Risks, Opportunities, Forecast and Top Vendors Analysis Till 2031",
+      "excerpt": "Kenneth Research has published a detailed report on Machine Learning Market which has been categorized by market size",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-research-by-leading-countries-growth-drivers-risks-opportunities-forecast-and-top-vendors-analysis-till-2031-2022-07-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-research-by-leading-countries-growth-drivers-risks-opportunities-forecast-and-top-vendors-analysis-till-2031-2022-07-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-25T23:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-machine-learning-artificial-intelligence-market-size-from-2022-to-2028.md",
+      "title": "Machine Learning Artificial intelligence Market Size from 2022 to 2028",
+      "excerpt": "The \" Machine Learning Artificial intelligence Market research report \" profile investigates the company's business structure, operations, important products and services, prospects, locations and subsidiaries,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-artificial-intelligence-market-size-from-2022-to-2028-2022-07-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-artificial-intelligence-market-size-from-2022-to-2028-2022-07-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-25T23:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-google-fires-engineer-blake-lemoine-who-says-ai-technology-became-sentient.md",
+      "title": "Google fires engineer Blake Lemoine, who says AI technology became sentient",
+      "excerpt": "'What sort of things are you afraid of?' he asked the technology, in a Google Doc shared with Google's top executives. MOUNTAIN VIEW, Calif. -- Google has fired the engineer who claimed an ...",
+      "sourceUrl": null,
+      "webUrl": "https://6abc.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
+      "originalUrl": "https://6abc.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://6abc.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
+      "cdnAmpWebUrl": "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
+      "publishedDateTime": "2022-07-25T22:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "6abc News",
+        "domain": "6abc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-beeline-loans-launches-ai-powered-investor-loan-application.md",
       "title": "Beeline Loans launches AI-powered investor loan application",
       "excerpt": "PROVIDENCE – Digital mortgage lender Beeline Loans Inc. recently debuted a new automated platform aimed at simplifying the home loan application process for investors, according to a news release. The mobile-first offering lets property investors apply online for a conventional or debt service coverage ratio loan and offers real-time options with automated underwriting conditions,",
@@ -902,239 +1120,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-how-stop-shop-is-using-ai-not-cookies-to-target-customers.md",
-      "title": "How Stop & Shop is using AI, not cookies, to target customers",
-      "excerpt": "In 2023, brands like Stop & Shop won't be able to use third-party cookies to discern customer behavior for programmatic digital advertising.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/25/how-stop-shop-is-using-ai-not-cookies-to-target-customers/",
-      "originalUrl": "https://venturebeat.com/2022/07/25/how-stop-shop-is-using-ai-not-cookies-to-target-customers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1132387033.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/25/how-stop-shop-is-using-ai-not-cookies-to-target-customers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/25/how-stop-shop-is-using-ai-not-cookies-to-target-customers/amp/",
-      "publishedDateTime": "2022-07-25T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-botminds-document-ai-is-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Botminds Document AI is Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "SEATTLE and CHENNAI, India, July 25, 2022 /PRNewswire/ -- Botminds AI, today announced the availability of Botminds Document AI platform in the Microsoft Azure Marketplace, an online store ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/n28186895/botminds-document-ai-is-now-available-in-the-microsoft-azure-marketplace",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/n28186895/botminds-document-ai-is-now-available-in-the-microsoft-azure-marketplace",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1865614/Botminds_Logo.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28186895",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28186895",
-      "publishedDateTime": "2022-07-25T06:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation.md",
-      "title": "AI Ethics Struggling With The Fiery One-Two Punch Of Both AI-Based Autonomous Weapons Systems And The Exploitation...",
-      "excerpt": "AI Ethics dealing with autonomous weapons systems along with autonomous systems that perchance are later weaponized. It's a worldwide and quite sobering concern.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62de38f7a4b384a9392ace2a/0x0.jpg?format=jpg&crop=3532,2356,x388,y0,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/25/ai-ethics-struggling-with-the-fiery-one-two-punch-of-both-ai-based-autonomous-weapons-systems-and-the-exploitation-of-ai-driven-autonomous-systems-that-are-devilishly-weaponized/amp/",
-      "publishedDateTime": "2022-07-25T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-uae-6-times-driverless-taxis-buses-have-transported-residents-and-tourists.md",
-      "title": "UAE: 6 times driverless taxis, buses have transported residents and tourists",
-      "excerpt": "Driverless vehicles vrooming on roads is ... Minister of State for Artificial Intelligence, were on the bus on its inaugural run at Ajman Corniche. Powered by sensors and 14 cameras, the bus ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.khaleejtimes.com/transport/uae-6-times-driverless-taxis-buses-have-transported-residents-and-tourists",
-      "originalUrl": "https://www.khaleejtimes.com/transport/uae-6-times-driverless-taxis-buses-have-transported-residents-and-tourists",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.khaleejtimes.com?uuid=a468669b-ec83-5fd9-afd9-6ec395706d0e&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.9997&x=0&y=0&width=1200&height=675",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T05:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Khaleej Times",
-        "domain": "khaleejtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-foresite-technology-solutions-partners-with-lilt-to-break-down-language-barriers-in-the-construction-industry.md",
-      "title": "Foresite Technology Solutions Partners with Lilt to Break Down Language Barriers in the Construction Industry",
-      "excerpt": "Foresite Technology Solutions, LLC, a Software-as-a-Service (SaaS) construction company, today announced a partnership with Lilt, the leading global experience platform, to integrate multilingual content into Foresite’s platform for increased accessibility and improved Foresite user experience.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-e584672c4514feb3fc2ac8d3271b0dc4",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-e584672c4514feb3fc2ac8d3271b0dc4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

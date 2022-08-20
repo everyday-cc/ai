@@ -2,6 +2,100 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-21-why-ai-regulation-will-resemble-privacy-regulation.md",
+      "title": "Why AI regulation will resemble privacy regulation",
+      "excerpt": "Concerns over data privacy have sparked regulations in the U.S. and Europe. How will AI regulations look as they come to fruition?",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-ai-regulation-will-resemble-privacy-regulation/",
+      "originalUrl": "https://venturebeat.com/ai/why-ai-regulation-will-resemble-privacy-regulation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1037155966.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-ai-regulation-will-resemble-privacy-regulation/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-ai-regulation-will-resemble-privacy-regulation/amp/",
+      "publishedDateTime": "2022-08-20T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-21-driverless-cars-might-sound-great-but-would-you-trust-one-on-the-school-run.md",
+      "title": "Driverless cars might sound great but would YOU trust one on the school run?",
+      "excerpt": "IMAGINE a future when you can ditch the school run and bung your kids into a driverless car while you put your feet up. Apparently, that day isn’t too far off. It might sound amazing — but I’m",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.co.uk/news/19568179/driverless-cars-trust-school-run/",
+      "originalUrl": "https://www.thesun.co.uk/news/19568179/driverless-cars-trust-school-run/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/08/comp-ap-6469-atkinson-op.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/news/19568179/driverless-cars-trust-school-run/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/19568179/driverless-cars-trust-school-run/amp/",
+      "publishedDateTime": "2022-08-20T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-20-ai-helps-woman-answer-questions-at-her-own-funeral.md",
       "title": "AI Helps Woman Answer Questions at Her Own Funeral",
       "excerpt": "The co-founder of StoryFile(Opens in a new window), a company that claims to \"make AI feel more human,\" reportedly demonstrated the technology's capabilities at his ...",
@@ -10,7 +104,7 @@
       "originalUrl": "https://www.pcmag.com/news/ai-helps-woman-answer-questions-at-her-own-funeral",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 108,
       "tags": null,
       "images": [
         {
@@ -61,7 +155,7 @@
       "originalUrl": "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -995,49 +1089,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-19-microsoft-and-map-bengaluru-develop-new-ai-powered-platform.md",
-      "title": "Microsoft and MAP, Bengaluru, Develop New AI-Powered Platform",
-      "excerpt": "Bengaluru, have developed a new artificial intelligence-powered platform for connecting artworks and cultures around the world",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399.html",
-      "originalUrl": "https://www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/08/19/1600x900/20220819_132009_0000_1660901560159_1660901569762_1660901569762.png",
-          "width": 1600,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399-amp.html",
-      "publishedDateTime": "2022-08-19T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-19-otterai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all.md",
       "title": "Otter.ai slashes free monthly transcription minutes to 300, but opens recorder bot to all",
       "excerpt": "There’s good news and bad news for users of the Otter.ai transcription service. The good news is that Otter Assistant — a bot that can be configured to record meetings automatically — will now be available to everyone,",
@@ -1180,58 +1231,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing.md",
-      "title": "Rad Intelligence (RAD AI) and LA HOPE DEALER Join Forces to Integrate AI-infused Street Art and Marketing",
-      "excerpt": "Press Release RAD INTELLIGENCE (RAD AI) and LA HOPE DEALER today announced the formation of a strategic partnership designed to conceive and execute authentic, purpose-driven brand campaigns through the combination of creator marketing,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing/",
-      "originalUrl": "https://venturebeat.com/business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/mms.businesswire.com/media/20220818005157/en/1547385/4/The_LA_Hope_Dealer.jpg?strip=all&ssl=1",
-          "width": 480,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing/amp/",
-      "publishedDateTime": "2022-08-18T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

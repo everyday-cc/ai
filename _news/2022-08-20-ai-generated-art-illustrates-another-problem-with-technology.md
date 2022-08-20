@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/aug/20/ai-art-artific
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
 type: article
 quality: 57
-heat: 87
+heat: 78
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "http://www.cartoonbrew.com/wp-content/uploads/2022/08/intergalactic_traveler.jpg"
         width: 1280
         height: 600
-        isCached: true
-  - title: "Next Generation Defense Technology"
-    excerpt: "Charting, Price Performance, News & Related Contracts."
-    publishedDateTime: 2022-08-16T01:54:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/VIU22/pressreleases/9693188/next-generation-defense-technology/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 24
-    images:
-      - url: "https://media.barchart.com/contributors-admin/common-images/images/Stocks-Money-Rates/American%20flag%20on%20NY%20Stock%20Exchange%20-LwFSIbunVEE-unsplash.jpg"
-        width: 800
-        height: 534
         isCached: true
 
 secured: "iNWW1aUmpP4YOLDq3Go1aUNFAbdPich9Kupi2KORfuRWQHrRon6weD8+asqzuIZKNITMQw8jjG6EST/U0OkFT7nQZdHnCi4ZpmiEk6zNZycCcx1YgynmJy7LNt3LiQtAUA7OcDBnXdQAwmpejfJMZvS668wR8Ow2bZV40tHfQcEUMdMSGNzZLdBnE9DHEOiDU0rAo0agL64dsiJmqs7ZJHDe6oROZV3Pu2UKVOXO4tIzmTRwypLhnTREgYOMC6fdala2XvvGSm+JgmPlSNuqxZqjNSQlufetUgMi6IesDiqK9pjSvTTXIhsiGvFqe69tgn/DRXp5OdErluX6u4CNt97JIzyMJrub29iDRqu3PC+Xsgpzi17doaAKc5Gh16sJMc/4HbnI+SJ4SjwM7DGnydyd7Iol2/fWWqpHmiSeCoQn47osOGfqppwBJY5hsjIrntrNqaYgfgbBvGBfmgw6kCCJvosiWpZiWq1b4um/HiBVyO/mXtwxHlr+8CupKAG50C1E0Fstph/AacNfJYf1AA==;QXMIIxP+X7QN+XlNt6TUNA=="

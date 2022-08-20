@@ -2,6 +2,254 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-12-arm-partners-with-cruise-to-advance-autonomous-driving-support.md",
+      "title": "Arm Partners With Cruise To Advance Autonomous Driving Support",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead give his analysis of Arm's new partnership with robotaxi company Cruise to power current and next-generation vehicles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/12/arm-partners-with-cruise-to-advance-autonomous-driving-support/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/12/arm-partners-with-cruise-to-advance-autonomous-driving-support/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62f667676f0fde44b3515cca/0x0.png?format=png&crop=1076,605,x20,y0,safe&width=1200",
+          "width": 1076,
+          "height": 605,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/12/arm-partners-with-cruise-to-advance-autonomous-driving-support/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/08/12/arm-partners-with-cruise-to-advance-autonomous-driving-support/amp/",
+      "publishedDateTime": "2022-08-12T07:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-robotic-refueling-system-market-to-hit-us-1940-million-globally-by-2027-at-391-cagr-the-insight-partners.md",
+      "title": "Robotic Refueling System Market to hit US$ 194.0 Million, Globally, by 2027 at 39.1% CAGR: The Insight Partners",
+      "excerpt": "According to The Insight Partners' research, the Robotic Refueling System Market – Global Analysis and Forecast to 2027\",",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/robotic-refueling-system-market-to-hit-us-1940-million-globally-by-2027-at-391-cagr-the-insight-partners-2022-08-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/robotic-refueling-system-market-to-hit-us-1940-million-globally-by-2027-at-391-cagr-the-insight-partners-2022-08-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-12T04:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-10-ways-to-use-ai-for-a-successful-product-launch.md",
+      "title": "10 Ways To Use AI For A Successful Product Launch",
+      "excerpt": "With AI, you can understand your target audience and their needs better—how they think and buy and what they want in a product or service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/12/10-ways-to-use-ai-for-a-successful-product-launch/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/12/10-ways-to-use-ai-for-a-successful-product-launch/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61fc2a4bc9ea6cb9ab72847e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/12/10-ways-to-use-ai-for-a-successful-product-launch/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/12/10-ways-to-use-ai-for-a-successful-product-launch/amp/",
+      "publishedDateTime": "2022-08-12T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-ai-algorithm-that-recognizes-anomalies-in-brain-may-help-treat-epilepsy.md",
+      "title": "AI algorithm that recognizes anomalies in brain may help treat epilepsy",
+      "excerpt": "The scientists employed about 300,000 places throughout the brain to quantify cortical properties from the MRI scans, such as how thick or folded the ..",
+      "sourceUrl": null,
+      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/ai-algorithm-that-recognizes-anomalies-in-brain-may-help-treat-epilepsy/93521561",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/ai-algorithm-that-recognizes-anomalies-in-brain-may-help-treat-epilepsy/93521561",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-93521561,imgsize-19594,width-1200,height-628,overlay-ethealthworld/ai-algorithm-that-recognizes-anomalies-in-brain-may-help-treat-epilepsy.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/ai-algorithm-that-recognizes-anomalies-in-brain-may-help-treat-epilepsy/93521561",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/ai-algorithm-that-recognizes-anomalies-in-brain-may-help-treat-epilepsy/93521561",
+      "publishedDateTime": "2022-08-12T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-where-cpos-can-aim-ai-prioritized-procurement-use-cases.md",
+      "title": "Where CPOs Can Aim AI: Prioritized Procurement Use Cases",
+      "excerpt": "But recovery periods are brief, and procurement processes and technologies need to evolve to increase resiliency to external market forces. Consulting firm McKinsey projects a sup",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/12/where-cpos-can-aim-ai-prioritized-procurement-use-cases/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/12/where-cpos-can-aim-ai-prioritized-procurement-use-cases/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620a556214ce14ae732b0ac7/0x0.jpg?format=jpg&width=1200",
+          "width": 753,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/12/where-cpos-can-aim-ai-prioritized-procurement-use-cases/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/12/where-cpos-can-aim-ai-prioritized-procurement-use-cases/amp/",
+      "publishedDateTime": "2022-08-12T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-5-ways-ai-is-shaping-the-future-of-investment-research.md",
       "title": "5 Ways AI is shaping the future of investment research",
       "excerpt": "Financial analysts need access to high-quality data and information on emerging trends to deliver timely, insightful research and maintain their competitive edge.",
@@ -979,239 +1227,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-new-ai-facial-recognition-and-emotion-detection-solution-powered-by-intetics.md",
-      "title": "New AI Facial Recognition and Emotion Detection Solution Powered by Intetics",
-      "excerpt": "As a natural progression of facial recognition technology, emotion recognition is a field of computer vision that is gaining more and more attention in mass media. It involves facial emotion detection",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/08/n28459827/new-ai-facial-recognition-and-emotion-detection-solution-powered-by-intetics",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/n28459827/new-ai-facial-recognition-and-emotion-detection-solution-powered-by-intetics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28459827",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28459827",
-      "publishedDateTime": "2022-08-11T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so.md",
-      "title": "It’s alive? Meta’s latest artificial intelligence chatbot version thinks so",
-      "excerpt": "The colorful responses from BlenderBot show the limitations of building automated conversational tools, which are typically trained on large amounts of public online data.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/",
-      "originalUrl": "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2022/04/head-g5f86490fe_1280-e1650366569125.jpg",
-          "width": 1267,
-          "height": 713,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/11/its-alive-metas-latest-artificial-intelligence-chatbot-version-thinks-so/?amp=1",
-      "publishedDateTime": "2022-08-11T09:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-how-artificial-intelligence-could-lower-nuclear-energy-costs.md",
-      "title": "How artificial intelligence could lower nuclear energy costs",
-      "excerpt": "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense of running these plants has made it difficult for them to stay open. If nuclear is to play a role in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-us-department-of-energy-aa6b255634434af297d9e373012c41a5",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-us-department-of-energy-aa6b255634434af297d9e373012c41a5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T09:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-technologies-like-virtual-reality-and-robotics-could-reduce-the-energy-industrys-carbon-footprint-and-advance-workers-skill-sets.md",
-      "title": "Technologies like virtual reality and robotics could reduce the energy industry's carbon footprint and advance workers' skill sets",
-      "excerpt": "Oil-and-gas leaders are testing VR and AR to accurately pinpoint potential hazards and operate sites entirely with tablets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-virtual-reality-and-robotics-could-advance-the-energy-industry-2022-8",
-      "originalUrl": "https://www.businessinsider.com/how-virtual-reality-and-robotics-could-advance-the-energy-industry-2022-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62f30280cc15bf00182fb126?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/how-virtual-reality-and-robotics-could-advance-the-energy-industry-2022-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-virtual-reality-and-robotics-could-advance-the-energy-industry-2022-8?amp",
-      "publishedDateTime": "2022-08-11T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-memryx-is-a-new-ai-company-we-actually-need.md",
-      "title": "MemryX Is A New AI Company We Actually Need",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead takes a closer look into MemryX, a new startup with a focus on AI processing for edge devices, is creating new technologies to address this emerging market and its direction on how it might be different from the pack.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f52016b7bb71d6ba750efd/MemryX-AI-Accelerator-s--can-be-directly-plugged-into-an-existing-USB-or-PCIe-port-/960x0.jpg?height=487&width=711&fit=bounds",
-          "width": 711,
-          "height": 487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/amp/",
-      "publishedDateTime": "2022-08-11T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

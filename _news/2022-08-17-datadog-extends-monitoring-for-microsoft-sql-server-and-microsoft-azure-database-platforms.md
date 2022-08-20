@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/datadog-extends-mo
 webUrl: "https://markets.businessinsider.com/news/stocks/datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database-platforms-1031688288"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -66,15 +66,6 @@ related:
       name: datanami.com
       domain: datanami.com
     quality: 29
-  - title: "Microsoft Is Empowering Its Investors To Achieve More"
-    excerpt: "Microsoft’s stock marks 304% performance over the past 5 years and is likely positioned to be a strong leading growth stock in the coming years. Read how here."
-    publishedDateTime: 2022-08-17T18:37:00Z
-    webUrl: "https://seekingalpha.com/article/4535256-microsoft-is-empowering-its-investors-to-achieve-more"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "FeYoI9Fr0IlWVywbB/BFVhQFovYVnSNBEp9E5AVJwyLpbWJDSZmddz9m2MfDhbcFzjAOfTjeLyzH/RivzEj8w8MosD5wvvBeMOinL7mFjudpjbWdFS0FMgPOo3KUi6kQij11WiqiHqIDYgRQoFz85GAsuHGS3thzlZ71/MxQFSrhpPHg0/nMol0b4GrxyStLYBrSJ2QdIJrcTVK2fxCS9fk4VImBqSsO9ORB09J19oXPJMENMp+Tnys+CrLKraVfa49U7M+tOkgUL5SGjanQ9VT6JM8Vq3XCLQss8/zcxP6IU6Y73i40MsJe6Nb8rIDmQT8dHHeVG3IJElZTPmD/6eevcxlwrQ9gW3ubJ2BMT/jnsX8eoImoWJHrGlLB8dn5acDZ2ohqupJeqVlXtiYpjxViiHXILfIs2UCZXojuTClpQkBvs5S7+ULM+XiM7oQCgdZU2hnxUDtZjRMoxvBWZdbxFD+EuW+d2aVLlWFxfR7X+JCAob4u0sgJEj65U0A1gDLL8a9pb8nH1o2gzJJspA==;Y+D7gtlBktt8MCnObkcX4Q=="
 ---

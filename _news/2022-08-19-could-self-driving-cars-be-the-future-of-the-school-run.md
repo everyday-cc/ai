@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hulldailymail.co.uk/news/uk-world-news/could-self-drivin
 cdnAmpWebUrl: "https://www-hulldailymail-co-uk.cdn.ampproject.org/c/s/www.hulldailymail.co.uk/news/uk-world-news/could-self-driving-cars-future-7484128.amp"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,31 +27,36 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars could be on UK roads next year, Grant Shapps says - 'Huge potential'"
-    excerpt: "SELF-DRIVING cars could be seen on British roads by next year, as the Government invests £100million into the emerging sector."
-    publishedDateTime: 2022-08-19T06:55:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps"
-    ampWebUrl: "https://www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps/amp"
+  - title: "Driverless cars might sound great but would YOU trust one on the school run?"
+    excerpt: "IMAGINE a future when you can ditch the school run and bung your kids into a driverless car while you put your feet up. Apparently, that day isn’t too far off. It might sound amazing — but I’m"
+    publishedDateTime: 2022-08-20T20:00:00Z
+    webUrl: "https://www.thesun.co.uk/news/19568179/driverless-cars-trust-school-run/"
+    ampWebUrl: "https://www.thesun.co.uk/news/19568179/driverless-cars-trust-school-run/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/19568179/driverless-cars-trust-school-run/amp/"
     type: article
     provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 36
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 56
     images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps-1657360.jpg?r=1660892097429"
-        width: 590
-        height: 350
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/08/comp-ap-6469-atkinson-op.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "Self-driving cars: UK motorways change sparks AA warning amid new government plans"
-    excerpt: "The Government has unveiled new plans which mean self-driving vehicles could be 'on UK roads by 2025' and they're backed by a £100 million investment to boost the rollout. Motorways could even see some cars,"
-    publishedDateTime: 2022-08-19T13:53:00Z
-    webUrl: "https://www.theboltonnews.co.uk/news/20675179.self-driving-cars-uk-motorways-change-sparks-aa-warning-amid-new-government-plans/"
+  - title: "The risks and rewards as UK Government unveils its plans for driverless car roll out by 2025"
+    excerpt: "Vehicles that can drive themselves on motorways could be on sale within the next year, according to newly released plans by the Department for Transport"
+    publishedDateTime: 2022-08-19T07:33:00Z
+    webUrl: "https://inews.co.uk/news/self-driving-cars-uk-roads-2025-government-plans-1802805"
     type: article
     provider:
-      name: The Bolton News
-      domain: theboltonnews.co.uk
-    quality: 0
+      name: i
+      domain: inews.co.uk
+    quality: 28
+    images:
+      - url: "https://wp.inews.co.uk/wp-content/uploads/2022/08/SEI_120003947.jpg"
+        width: 2500
+        height: 1604
+        isCached: true
 
 secured: "stji8ROvxnbbsk+JpAwEqRs5GiW2gUPshCKa/w2VdfKwVHI1/h7TYPuUcT4zBmdz3ndlVOayW4omq6fkYLyK7uFNzG0xX/EJczOJDbKE88HfE32lgsllyuRbN74XMP7Q/1Xd5ca9krKzNP69UctqAN/TwZtiVKbqmbNZTNFynqqGHB7/130cd6g0dC27XxNXwjRzxEfYWUFvBzJlFfLdQToYbkBKH5+yTSQcnVdrY1oBUl188Bii+JbagB2OM+jf1n0Jqqtz8GniAZcc9wfVIjAkipHrh8ZaAMcDE/fVhduthfYmYclyQUe2angQ4UrML2Cw6BJzS1SRb2I/RhURg3Sw67mUA/HAB9CNY3gnztg=;GLSDa9MgaS0ZODBNZW76eg=="
 ---

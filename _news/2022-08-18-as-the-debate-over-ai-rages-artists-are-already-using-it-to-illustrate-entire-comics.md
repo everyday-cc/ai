@@ -54,20 +54,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Next Generation Defense Technology"
-    excerpt: "Charting, Price Performance, News & Related Contracts."
-    publishedDateTime: 2022-08-16T01:54:00Z
-    webUrl: "https://www.theglobeandmail.com/investing/markets/commodities/VIU22/pressreleases/9693188/next-generation-defense-technology/"
-    type: article
-    provider:
-      name: The Globe and Mail
-      domain: theglobeandmail.com
-    quality: 24
-    images:
-      - url: "https://media.barchart.com/contributors-admin/common-images/images/Stocks-Money-Rates/American%20flag%20on%20NY%20Stock%20Exchange%20-LwFSIbunVEE-unsplash.jpg"
-        width: 800
-        height: 534
-        isCached: true
 
 secured: "kQ+GKfhilzyg3IpIS8ree/gB980/aAaejUi2KjEBczJCohC7gEplCx3Lj7t5RmbexQgnh+c8c5heIx4IUQS5ShfBZiGDEhFUEkQLQvSFDv3OPDip2/au6UyLDozOUACuf9nfCNJbYTkzFBHKiDWrscyF2jGsiijmha7BMpw4qxtmTdjbxoWHc19S6WJGdXyOjJ579dLF8gB7xF8lWSPRnxtZDecUbe2ljKAOiU3mzm08HB09XxFMbiYBrZU64tBNLzFsXhN7OuAEzZVG3T6O1Nta73GT5xa3V6L+tu3wCYziuLcUx1da9gTodykiwNNu51e8brS594ceZl/jDNkst+pS1FnQUdybw195KPp+d6g=;h47BhhRH9kmKleoA7seQdg=="
 ---

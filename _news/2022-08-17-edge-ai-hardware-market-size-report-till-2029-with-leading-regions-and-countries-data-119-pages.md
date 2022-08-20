@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/edge-ai-hardware-market-
 webUrl: "https://www.marketwatch.com/press-release/edge-ai-hardware-market-size-report-till-2029-with-leading-regions-and-countries-data-119-pages-2022-08-17"
 type: article
 quality: 54
-heat: 144
+heat: 134
 published: true
 
 provider:
@@ -130,15 +130,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Worth $407.0 Billion By 2027 – Exclusive Report by MarketsandMarkets™"
-    excerpt: "Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.2% during the forecast period, to reach USD 407.0 billion by 2027 from"
-    publishedDateTime: 2022-08-19T12:33:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/g28565079/artificial-intelligence-market-worth-407-0-billion-by-2027-exclusive-report-by-marketsandmarkets"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 4
 
 secured: "P/7n1rOmBv1rg3qZzTi5NoiWPNizgFYJTysMQ5iKegA8y8HYVSNjNeQmxSUjoVLbprlfEznHeA/h6ZuQT4wgLdOE0q0EVWOF3FQLyl2z1+BBiQS+2xuQ2t9dUYySv6IZS7Tp06VylArrMule7jvBktZ8Yhh8aXBMja9R5dmqJ6SPAw0Xt76bnxf5POcTzL1VxA7jFAldimvn73/aS4QWFf2cAr9eJY7XsyDwPjXqCsCwHfbAoBiLZ5Pp11+Q4qhamgSX77rAHNRuyQvq8P94Gk1dPgUgffIS55rx1wKhD7LSvDtdS79nbHEy00nyRGsT+qWXvcYIGyHry4cOKPEgOnEtlmhQ+EozVW9ve8VPuUY=;taW7i1qlX6waMKquY09SwA=="
 ---

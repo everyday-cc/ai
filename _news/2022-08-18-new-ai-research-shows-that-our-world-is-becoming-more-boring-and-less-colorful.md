@@ -54,20 +54,6 @@ related:
         width: 1140
         height: 641
         isCached: true
-  - title: "AI May Come to the Rescue of Future Firefighters"
-    excerpt: "Researchers digitally simulated more than 41,000 fires in 17 kinds of buildings, representing a majority of the U.S. residential building stock."
-    publishedDateTime: 2022-08-16T03:44:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/emergency-preparedness/ai-may-come-to-the-rescue-of-future-firefighters/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 39
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2022/08/Flashover.png"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "AI in computer vision Market Growth Drivers 2021, Industry Share, Size, Key Players Strategies, Future Investments and SWOT Analysis till 2027"
     excerpt: "AI is the capability of machines to carry out intellectual function such as cogitation, perceiving, learning, investigative and decision taking. Factors such as thriving need for quality automation, growing demand for computer vision systems in advanced and arising applications,"
     publishedDateTime: 2022-08-18T06:15:00Z

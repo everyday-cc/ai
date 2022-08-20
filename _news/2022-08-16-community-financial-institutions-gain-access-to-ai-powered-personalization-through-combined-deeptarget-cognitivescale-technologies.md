@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-16T12:03:00Z
 originalUrl: "https://www.marketwatch.com/press-release/community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies-2022-08-16"
 webUrl: "https://www.marketwatch.com/press-release/community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies-2022-08-16"
 type: article
+quality: 38
+heat: 38
+published: false
 
 provider:
   name: MarketWatch
@@ -19,6 +22,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "rOZ5HnrUvCoiW4qASGhzFal+zqSY3UeeiqIAVnMpWhJ7kk/dUcwEB6RjfLKGJQ/yHM41i4U/RzLpRIlk4ZkRVyoYh6mVXQe8BT+Cjasgwef2g6mfXB6Ay0JOTEY7Cp8MNdbqLHDQHZsOCFfiinOYQveUsIYzN0H7u9NBvgrDXAgqCykcwf+Hgcb07RcbCe2OZeDvfJgEzeMHjwrc5+C7dIlRzOIOazsjT46ME7ZsB4coS8eB7odXD4qmHvAerOJKAdPovvc/guCiOT3FIlVAASYXe0+cT9yeC/ztH/JMlCoK3/67IH6L6XqO3FZ978b/sBwafr7MzKfZ68xgIKoPADS62BWMCwtv7Z0PpUu2PaI=;GCzGqBW/ToCtRGwSl0/zHA=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "tWxnZgPRVMe/mxbHkjUaUHyBDx9z1nzNoZO2TYcmAZYwImp79CYOANkIZWkcLMm2O5nRnTsbhiRqr0m3BsjMyWq8EZ4/RXZG41qpID7oHagREJ1qLzCmU9unWNDdurvNeRm5NqNabK8Zd36IvKqlJEAqEQdYgSAL+ftNeuK52X6L9TLy07CU4Df1WW4vwPbUElRs11Vfj7jdgWqfKtICcNoO6X9BMUCdtCwUD3CIXJmxkgdeo2Ft+hNXUtQdSMHX7qFoERNu8n3kl+V0gio3qoVgJWju9qAyLAIG+CLYavjJ3XJikDdHfiaoKgkVQHSWhVG355qw8CKP7/GZDly2st31yRYb88B+KeiChz5RquY=;CM5AWmuPCTQzFqPM7TVIqA=="
 ---
 

@@ -1,20 +1,29 @@
 ---
 category: news
-title: "IBM And USTA Announce Multi-Year Partnership Renewal Ahead Of 2022 US Open'"
-excerpt: "Continue Reading Building on the popular IBM Match Insights with Watson feature — which analyzes ... into what is being analyzed by the AI models.. Win Factors is designed to provide fans ..."
-publishedDateTime: 2022-08-18T11:31:00Z
-originalUrl: "https://menafn.com/1104718398/IBM-And-USTA-Announce-Multi-Year-Partnership-Renewal-Ahead-Of-2022-US-Open"
-webUrl: "https://menafn.com/1104718398/IBM-And-USTA-Announce-Multi-Year-Partnership-Renewal-Ahead-Of-2022-US-Open"
+title: "IBM and USTA Announce Multi-Year Partnership Renewal Ahead of 2022 US Open"
+excerpt: "ARMONK, N.Y., Aug. 18, 2022 /PRNewswire/ -- IBM (NYSE: IBM) and the United States Tennis Association (USTA) today announced a five-year renewal of their longstanding, 30-year partnership. From the launch of USOpen.org in 1995 to the introduction of the ..."
+publishedDateTime: 2022-08-18T10:02:00Z
+originalUrl: "https://stockhouse.com/news/press-releases/2022/08/18/ibm-and-usta-announce-multi-year-partnership-renewal-ahead-of-2022-us-open"
+webUrl: "https://stockhouse.com/news/press-releases/2022/08/18/ibm-and-usta-announce-multi-year-partnership-renewal-ahead-of-2022-us-open"
 type: article
+quality: 22
+heat: 22
+published: false
 
 provider:
-  name: MENAFN
-  domain: menafn.com
+  name: Stockhouse
+  domain: stockhouse.com
 
 topics:
   - IBM AI
   - AI
 
-secured: "b4WQ+fQh+ZPffQcfJSMzBkyXZTqIOb9ENsWBjO9d7u/GhWVXomh4VjsDThlzMnED1C6uHhliENYLEUZRtSnugL5v0x/0ISNlaz8cYwNeq7KZlgcyOiiSciUY442mLO/rOZcWi7LoAG+UhKCr5gaPGXbs0MjqnK/4Ebk9BEVcmclekKYFcFDHPOi6KRMliaJA2jltgvifx0CAUIOGqdsxe41+cf4XLvpIhCgPUcoDhtqflt3I1n38StH1ztMtQBmq2V9ue1qn32vJAOqjgc7lh/bkJymkM7V+P+JWfj8aWZWyhU8k85ZXnBJvtYRGvrtw6I9v+m8+dutYTc5F/rqFxtf534DPJvpOKAbEL3utzRw=;Dihkjnc5pZsnaKhCUQi3AQ=="
+images:
+  - url: "https://mma.prnewswire.com/media/1880555/IBM_US_Open_Tennis.jpg"
+    width: 400
+    height: 267
+    isCached: true
+
+secured: "bYtMnAOekYuwoxQxayeHcbdxzYYzuT5v0TvnKm+NLQX4BR6uOixEuwM5GkB22FRLimFkXM7RLX4HV1ykz1Ie1XwFEppglvVlvaX+0CSKMRJpHRU1xeUjXmRMI26S1jctgVmisw+LM48IXSkkIlxg8qq0jY6cWKftRpefHM2rXYbhySyIbL7EliC8TPzTMeTGvhLUnq/Ohz+s3mi10Li0K5o9CQIDPhm453LuL0XzhWrifgNoo2Adrvyfgz7SxVyQCQz3eJOs6UzHj2gQOuu/uGEFf4skAIhoV7gq96ytU5a56QdsfPWJJ7zV1uXsVFI4+yiDZREiKuIW00GagFBk22Gl2e6rnm2EkcXwclstOYQ=;dv2+ZUv/PhmjmK8tzwHaqA=="
 ---
 

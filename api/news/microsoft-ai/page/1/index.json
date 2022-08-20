@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-19-microsoft-and-map-bengaluru-develop-new-ai-powered-platform.md",
-      "title": "Microsoft and MAP, Bengaluru, Develop New AI-Powered Platform",
-      "excerpt": "Bengaluru, have developed a new artificial intelligence-powered platform for connecting artworks and cultures around the world",
+      "path": "_news/2022-08-18-onemeta-ai-accepted-as-a-part-of-microsoft-for-startups-founders-hub.md",
+      "title": "OneMeta AI Accepted as a Part of Microsoft for Startups Founders Hub",
+      "excerpt": "LAS VEGAS, NV / ACCESSWIRE / August / OneMeta AI (  (OTCMarkets:ONEI). Today OneMeta AI announced acceptance as part of Microsoft of Startups Founders Hub. \"This is a great milestone that we are thankful for;",
       "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399.html",
-      "originalUrl": "https://www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399.html",
+      "webUrl": "https://www.marketwatch.com/press-release/onemeta-ai-accepted-as-a-part-of-microsoft-for-startups-founders-hub-2022-08-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/onemeta-ai-accepted-as-a-part-of-microsoft-for-startups-founders-hub-2022-08-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 124,
       "tags": null,
       "images": [
         {
-          "url": "https://images.hindustantimes.com/img/2022/08/19/1600x900/20220819_132009_0000_1660901560159_1660901569762_1660901569762.png",
-          "width": 1600,
-          "height": 899,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,14 +76,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399-amp.html",
-      "publishedDateTime": "2022-08-19T02:48:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -203,7 +212,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database-platforms-1031688288",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 104,
       "tags": null,
       "images": [
         {

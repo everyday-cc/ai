@@ -7,7 +7,7 @@ originalUrl: "https://www.bloomberg.com/professional/blog/5-ways-ai-is-shaping-t
 webUrl: "https://www.bloomberg.com/professional/blog/5-ways-ai-is-shaping-the-future-of-investment-research-2/?tactic-page=597225"
 type: article
 quality: 69
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -44,20 +44,6 @@ related:
       - url: "https://media.tegna-media.com/assets/WQAD/images/a3dd96da-98f2-4a93-bd77-d924f31c6947/a3dd96da-98f2-4a93-bd77-d924f31c6947_1140x641.jpg"
         width: 1140
         height: 641
-        isCached: true
-  - title: "AI May Come to the Rescue of Future Firefighters"
-    excerpt: "Researchers digitally simulated more than 41,000 fires in 17 kinds of buildings, representing a majority of the U.S. residential building stock."
-    publishedDateTime: 2022-08-16T03:44:00Z
-    webUrl: "https://www.hstoday.us/subject-matter-areas/emergency-preparedness/ai-may-come-to-the-rescue-of-future-firefighters/"
-    type: article
-    provider:
-      name: Homeland Security Today
-      domain: hstoday.us
-    quality: 39
-    images:
-      - url: "https://www.hstoday.us/wp-content/uploads/2022/08/Flashover.png"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "New AI Research Shows That Our World Is Becoming More Boring and Less Colorful"
     excerpt: "As it turns out, our world - the items and objects in it - are starting to look like the end scene of Trolls movie: gray-toned, colorless, flat, all the same. Where have all the colors gone? According to recent AI research,"

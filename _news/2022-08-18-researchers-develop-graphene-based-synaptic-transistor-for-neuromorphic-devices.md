@@ -50,20 +50,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 42
-  - title: "AI Platform Aims to Help Shipping Industry Tackle Emissions Regulations"
-    excerpt: "New maritime regulations are set to go into effect that require ship owners to report shipping emissions intensity, and an artificial intelligence-based application from Bearing is set to produce information for businesses to help them make emissions improvements."
-    publishedDateTime: 2022-08-17T16:38:00Z
-    webUrl: "https://www.environmentalleader.com/2022/08/ai-platform-aims-to-help-shipping-industry-tackle-emissions-regulations/"
-    type: article
-    provider:
-      name: Environmental Leader
-      domain: environmentalleader.com
-    quality: 37
-    images:
-      - url: "https://s30148.pcdn.co/wp-content/uploads/2022/08/container-ship-g005ca98e7_1920-1024x614.jpg"
-        width: 1024
-        height: 614
-        isCached: true
   - title: "UC San Diego: A New Neuromorphic Chip for AI on the Edge, at a Small Fraction of the Energy and Size"
     excerpt: "An international team of researchers has designed and built a chip that runs computations directly in memory and can run a wide variety of AI applications–all at a fraction of the energy consumed by computing platforms for general-purpose AI computing."
     publishedDateTime: 2022-08-19T07:05:00Z

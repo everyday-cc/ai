@@ -87,6 +87,15 @@ related:
       name: IOL News
       domain: iol.co.za
     quality: 19
+  - title: "Amazon testing TikTok-style feed on its app, AI firm says"
+    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers' attention by introducing replicas of the popular social platform. The e-commerce giant has been testing a feed on its app that enables shoppers to scroll through TikTok-like photos and videos of products posted by"
+    publishedDateTime: 2022-08-20T21:29:00Z
+    webUrl: "https://japantoday.com/category/tech/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 19
 
 secured: "tBZv13zRCXMoY9kY2+QDtpsHkaM3RSu/dSLG7JWa+oTNqlJk+qqw0UJveikqb9ux6rs0sK8AGkzb79r2H9gZPZaa5dkbWJCd6mr7/TyGCFYxZC78lbG45nx9Fy/9pwr0VKx7nB6R0uKG0+5cRGqkzcqTKuEm3ym9P3vqo7g3Zke+liWkJzoJ+SmA0Zjf0jNdqp3phfjCb/hwf4ppPsax23d+vMvNMYV8J0Sg/i3IRZ5EXkqi0nYZNNTBTT5DM/o5O+Rmzl+SnU7h4yqkaL2+Zl3LbkfxUuczpOz5ox1QOnE4WNdIhD85jJ+opGACRwlFJ+hs8y5JO9BB4iWKsgKPa7X7B0+/gt67JYK1EOR3TS6YiGn6r8SkIu6x6CkWlkqtGpjgsGsfYsi44UnAwdWdNF11meOAMBMDPJYsMkGKt8QAGJqeWmbZLuE5NESyDneqGMzeFiSAmpMI8NMwOSsbvJAi86zYWko+dofSvqbBQ/lR0EsG73MEm92BOd+FJINb1QkbJtL36qI+mt5fS/3vmw==;0MOcYlCyWgbklDsFPECO+w=="
 ---

@@ -73,20 +73,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "YouTube Pulls Video of Tesla Full Self-Driving Test Involving Kids"
-    excerpt: "YouTube has removed a video in which Tesla investors test claims that cars using the latest beta version of the company's Full Self-Driving (FSD) technology fail to ..."
-    publishedDateTime: 2022-08-20T17:36:00Z
-    webUrl: "https://au.pcmag.com/cars-auto/95760/youtube-pulls-video-of-tesla-full-self-driving-test-involving-kids"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://sm.pcmag.com/t/pcmag_au/news/y/youtube-pu/youtube-pulls-video-of-tesla-full-self-driving-test-involvin_s5km.1200.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Don't Test Tesla's Full-Self Driving on Children: Safety Regulators"
     excerpt: "According to Bloomberg, the National Highway Traffic Safety Administration said it uses controlled procedures when testing vehicles and that “it could be highly dangerous for anyone to attempt to test vehicle technologies on their own."
     publishedDateTime: 2022-08-18T17:20:00Z
@@ -125,6 +111,15 @@ related:
         width: 1024
         height: 555
         isCached: true
+  - title: "YouTube Pulls Video of Tesla Full Self-Driving Test Involving Kids"
+    excerpt: "The video, which depicts a Tesla investor driving a Model 3 toward one of his own children, reportedly violates YouTube's child safety policy."
+    publishedDateTime: 2022-08-20T17:36:00Z
+    webUrl: "https://www.pcmag.com/news/tesla-full-self-driving-test-involving-kids-gets-pulled-from-youtube"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 49
   - title: "NHTSA Doesn’t Want People Testing Tesla’s Full Self-Driving Technology On Real Human Children"
     excerpt: "The NHTSA is warning those who use real kids or people in general for their own safety testing demonstrations. The reaction comes after a bevy of private individuals began posting similar tests online."
     publishedDateTime: 2022-08-18T22:00:00Z

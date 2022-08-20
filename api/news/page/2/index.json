@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-19-rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing.md",
+      "title": "Rad Intelligence (RAD AI) and LA HOPE DEALER Join Forces to Integrate AI-infused Street Art and Marketing",
+      "excerpt": "Press Release RAD INTELLIGENCE (RAD AI) and LA HOPE DEALER today announced the formation of a strategic partnership designed to conceive and execute authentic, purpose-driven brand campaigns through the combination of creator marketing,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing/",
+      "originalUrl": "https://venturebeat.com/business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/mms.businesswire.com/media/20220818005157/en/1547385/4/The_LA_Hope_Dealer.jpg?strip=all&ssl=1",
+          "width": 480,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing/amp/",
+      "publishedDateTime": "2022-08-18T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-experts-warn-no-easy-answer-to-how-safe-self-driving-cars-should-be.md",
       "title": "Experts warn no easy answer to how safe self-driving cars should be",
       "excerpt": "The Centre for Data Ethics and Innovation (CDEI) report warns that it might not be enough for self-driving cars to be safer than human drivers. It suggests the public may have much higher expectations of self-driving car safety.",
@@ -209,7 +261,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-ai-artificial-intelligence-camera-market-trends-high-cagr-industry-size-new-innovations-future-scope-and-forecast-2027-2022-08-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -409,6 +461,110 @@
       ]
     },
     {
+      "path": "_news/2022-08-18-onemeta-ai-accepted-as-a-part-of-microsoft-for-startups-founders-hub.md",
+      "title": "OneMeta AI Accepted as a Part of Microsoft for Startups Founders Hub",
+      "excerpt": "LAS VEGAS, NV / ACCESSWIRE / August / OneMeta AI (  (OTCMarkets:ONEI). Today OneMeta AI announced acceptance as part of Microsoft of Startups Founders Hub. \"This is a great milestone that we are thankful for;",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/onemeta-ai-accepted-as-a-part-of-microsoft-for-startups-founders-hub-2022-08-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/onemeta-ai-accepted-as-a-part-of-microsoft-for-startups-founders-hub-2022-08-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-natural-language-processing-nlp-market-worth-494-billion-by-2027-exclusive-report-by-marketsandmarketstm.md",
+      "title": "Natural Language Processing (NLP) Market worth $49.4 billion by 2027 - Exclusive Report by MarketsandMarkets(TM)",
+      "excerpt": "With natural language processing applications, organizations can analyze text and extract information about people, places, and events to better understand social media sentiment and customer conversations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-worth-494-billion-by-2027---exclusive-report-by-marketsandmarketstm-2022-08-18",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-worth-494-billion-by-2027---exclusive-report-by-marketsandmarketstm-2022-08-18",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-pairaphrase-integrates-amazon-translates-engine-into-its-tms-software.md",
       "title": "PAIRAPHRASE INTEGRATES AMAZON TRANSLATE'S ENGINE INTO ITS TMS SOFTWARE",
       "excerpt": "Amazon Translate produces custom translations on demand by leveraging its own artificial neural networks and deep learning system, along with a user's glossaries and translation memories.",
@@ -558,7 +714,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-mn-by-2027-the-insight-partners-2022-08-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 99,
       "tags": null,
       "images": [
         {
@@ -600,7 +756,8 @@
         "AI Hardware",
         "AI",
         "AI in Healthcare",
-        "AI in Autos"
+        "AI in Autos",
+        "AI in Robotics"
       ]
     },
     {
@@ -692,7 +849,7 @@
       "originalUrl": "https://www.whas11.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1070,154 +1227,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-google-teaches-robots-to-understand-you-on-a-human-level.md",
-      "title": "Google Teaches Robots to Understand You on a Human Level",
-      "excerpt": "AI language skills let you command robots in plain English and help them navigate the chaos of the real world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/ai-language-skills-coax-google-robots-into-the-real-world/",
-      "originalUrl": "https://www.cnet.com/tech/computing/ai-language-skills-coax-google-robots-into-the-real-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/fa16c58da5f935f2df3f3e9280845f5ec8f15b77/2022/08/16/2c7e4708-4dcc-4ecb-904e-5de08919629b/20220811-google-palm-saycan-robot-01.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/",
-      "publishedDateTime": "2022-08-17T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-artificial-intelligence-teaches-microrobots-how-to-swim.md",
-      "title": "Artificial Intelligence Teaches Microrobots how to Swim",
-      "excerpt": "In a recent study published in Communications Physics, a collaborative team of researchers from Santa Clara University, New Jersey Institute of Technology, | Technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/technology/23380/artificial-intelligence-teaches-microrobots-swim-2",
-      "originalUrl": "https://www.labroots.com/trending/technology/23380/artificial-intelligence-teaches-microrobots-swim-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.labroots.com/_public/_files/system/ck/trending/FEATURED%20IMAGE_e0ee8c1743ad40b40477db0302e5f1e7.png",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/technology/23380/artificial-intelligence-teaches-microrobots-swim-2/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/23380/artificial-intelligence-teaches-microrobots-swim-2/amp",
-      "publishedDateTime": "2022-08-17T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-expert-ratings-for-c3ai.md",
-      "title": "Expert Ratings for C3.ai",
-      "excerpt": "According to 8 analyst offering 12-month price targets in the last 3 months, C3.ai has an average price target of $18.56 with a high of $28.00 and a low of $14.00. Below is a summary of how these 8 analysts rated C3.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/expert-ratings-for-c3-ai-1031690421",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/expert-ratings-for-c3-ai-1031690421",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_25159.jpeg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T09:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

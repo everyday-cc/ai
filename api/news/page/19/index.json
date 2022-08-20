@@ -2,6 +2,231 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-08-02-computer-vision-how-this-transformational-technology-is-changing-the-way-businesses-interact-with-customers.md",
+      "title": "Computer Vision: How This Transformational Technology Is Changing The Way Businesses Interact With Customers",
+      "excerpt": "Over time, computer vision will make shopping easier, help us stay healthy and even make it easier to do things like bank on the go.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/02/computer-vision-how-this-transformational-technology-is-changing-the-way-businesses-interact-with-customers/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/02/computer-vision-how-this-transformational-technology-is-changing-the-way-businesses-interact-with-customers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e41b8102bb4d368a77b2e3/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 851,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/02/computer-vision-how-this-transformational-technology-is-changing-the-way-businesses-interact-with-customers/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/02/computer-vision-how-this-transformational-technology-is-changing-the-way-businesses-interact-with-customers/amp/",
+      "publishedDateTime": "2022-08-02T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-artificial-intelligence-is-the-future-of-the-banking-industry-are-you-prepared-for-it.md",
+      "title": "Artificial Intelligence is the Future of the Banking Industry — Are You Prepared for It?",
+      "excerpt": "Despite billions of dollars spent on technology initiatives each year, few banks have done a successful company-wide AI implementation due to certain challenges. Pritham highlights areas of banking that have been impacted by AI and provides strategies that the industry’s director-level leaders can use to continue to implement AI.",
+      "sourceUrl": null,
+      "webUrl": "https://internationalbanker.com/technology/artificial-intelligence-is-the-future-of-the-banking-industry-are-you-prepared-for-it/",
+      "originalUrl": "https://internationalbanker.com/technology/artificial-intelligence-is-the-future-of-the-banking-industry-are-you-prepared-for-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "International Banker",
+        "domain": "internationalbanker.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-artificial-intelligence-ai-speakers-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028.md",
+      "title": "Artificial Intelligence (AI) Speakers Market landscape, Top Competitor Analysis, Revenue, Sales With Forecast Data from 2022 to 2028",
+      "excerpt": "This new report by Report Mines provides a comprehensive summary of the new developments within the \" Artificial Intelligence (AI) Speakers market \" across the global regions which includes ( North America: United States,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-speakers-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-08-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-speakers-market-landscape-top-competitor-analysis-revenue-sales-with-forecast-data-from-2022-to-2028-2022-08-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 110,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-this-comedian-hilariously-explains-why-elon-musks-self-driving-tesla-wont-work-in-india.md",
+      "title": "This Comedian Hilariously Explains Why Elon Musk's Self Driving Tesla Won't Work In India",
+      "excerpt": "Elon Musk wants to bring self-driving cars to India, and this has landed a lot of desi opinions on social media.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scoopwhoop.com/entertainment/why-elon-musk-self-driving-tesla-won-t-work-in-india/",
+      "originalUrl": "https://www.scoopwhoop.com/entertainment/why-elon-musk-self-driving-tesla-won-t-work-in-india/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 80,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3.scoopwhoop.com/anj2/62e8bc4a25f1c70001cd0986/f8bf8fae-5144-42a7-8d1a-b548337a11e0.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.scoopwhoop.com/amp/entertainment/why-elon-musk-self-driving-tesla-won-t-work-in-india/",
+      "cdnAmpWebUrl": "https://www-scoopwhoop-com.cdn.ampproject.org/c/s/www.scoopwhoop.com/amp/entertainment/why-elon-musk-self-driving-tesla-won-t-work-in-india/",
+      "publishedDateTime": "2022-08-02T02:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ScoopWhoop",
+        "domain": "scoopwhoop.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-lti-strengthens-strategic-collaboration-with-microsoft.md",
+      "title": "LTI Strengthens Strategic Collaboration with Microsoft",
+      "excerpt": "Through this association, LTI will also train 12,000 professionals from its existing workforce on various Microsoft technologies by 2024. The main objective of this effort is to enable skill development of LTI employees that are a part of the Microsoft unit and enhance their competencies across technologies like cloud,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-41ee5c29f9194ef5aacdc72bd7cb787b",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-41ee5c29f9194ef5aacdc72bd7cb787b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-itri-hosts-2022-international-workshop-on-trustworthy-ai-to-discuss-trust-and-ethics-in-ai.md",
       "title": "ITRI Hosts 2022 International Workshop on Trustworthy AI to Discuss Trust and Ethics in AI",
       "excerpt": "With the support of the Industrial Development Bureau (IDB) under the Minister of Economic Affairs, ITRI held the 2022 International Workshop on Trustworthy AI online on August 2. Over 400 experts gathered at the first-ever conference in Taiwan on this theme to discuss topics such as AI risk management and trustworthy AI systems.",
@@ -924,230 +1149,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-automating-neutron-experiments-with-ai.md",
-      "title": "Automating neutron experiments with AI",
-      "excerpt": "Oak Ridge National Laboratory researchers are developing a first-of-its-kind artificial intelligence device for neutron scattering called Hyperspectral Computed Tomography, or HyperCT. The fully automated,",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-08-automating-neutron-ai.html",
-      "originalUrl": "https://phys.org/news/2022-08-automating-neutron-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/automating-neutron-exp.jpg",
-          "width": 800,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-08-automating-neutron-ai.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-automating-neutron-ai.amp",
-      "publishedDateTime": "2022-08-01T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-who-drives-a-driverless-train.md",
-      "title": "Who Drives A Driverless Train?",
-      "excerpt": "Driverless systems like the one in Sydney represent the future of urban clean and efficient transport. In this article, train manufacturer Alstom answers some key questions about driverless trains ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104627148/Who-Drives-A-Driverless-Train",
-      "originalUrl": "https://menafn.com/1104627148/Who-Drives-A-Driverless-Train",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-08/01/R&AN_1fcbbimage_story.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer.md",
-      "title": "Ann Arbor’s new ‘SamurAI sorting robot’ is a plastics recycling game-changer",
-      "excerpt": "Michigan is now one of the nation’s three best states for recycling plastics, according to a recent <a href=\" Voter study.",
-      "sourceUrl": null,
-      "webUrl": "https://www.clickondetroit.com/sponsored/2022/08/01/ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer/",
-      "originalUrl": "https://www.clickondetroit.com/sponsored/2022/08/01/ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/DYROQW7ZBBCEFAMS4ASYQDGH2Q.jpg?_a=ATAK9d60",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.clickondetroit.com/sponsored/2022/08/01/ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/sponsored/2022/08/01/ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer/?outputType=amp",
-      "publishedDateTime": "2022-08-01T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "clickondetroit.com",
-        "domain": "clickondetroit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-simplify-iterative-machine-learning-model-development-by-adding-features-to-existing-feature-groups-in-amazon-sagemaker-feature-store.md",
-      "title": "Simplify iterative machine learning model development by adding features to existing feature groups in Amazon SageMaker Feature Store",
-      "excerpt": "Feature engineering is one of the most challenging aspects of the machine learning (ML) lifecycle and a phase where the most amount of time is spent—data scientists and ML engineers spend 60–70% of their time on feature engineering. AWS introduced Amazon SageMaker Feature Store during AWS re:Invent 2020,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-iterative-machine-learning-model-development-by-adding-features-to-existing-feature-groups-in-amazon-sagemaker-feature-store/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-iterative-machine-learning-model-development-by-adding-features-to-existing-feature-groups-in-amazon-sagemaker-feature-store/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/25/architecture-new-1199x630.png",
-          "width": 1199,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T10:58:16-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-how-deepminds-use-of-ai-is-fast-changing-biology.md",
-      "title": "How Deepmind’s use of AI is fast changing biology",
-      "excerpt": "Alphabet’s Deepmind Technologies recently released 3D predicted structures of over 200 million proteins. Generated by its AI system AlphaFold, it aims to help researchers enhance their understanding of how proteins — the building blocks of life — may fold.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/how-deepmind-s-use-of-ai-is-fast-changing-biology-11659375765946.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/how-deepmind-s-use-of-ai-is-fast-changing-biology-11659375765946.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/08/01/600x338/AI_1659376032405_1659376046675_1659376046675.jpg",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/how-deepmind-s-use-of-ai-is-fast-changing-biology/amp-11659375765946.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/how-deepmind-s-use-of-ai-is-fast-changing-biology/amp-11659375765946.html",
-      "publishedDateTime": "2022-08-01T10:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

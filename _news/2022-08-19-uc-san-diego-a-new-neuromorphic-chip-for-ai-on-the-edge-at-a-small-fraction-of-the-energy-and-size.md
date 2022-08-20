@@ -44,20 +44,6 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 42
-  - title: "AI Platform Aims to Help Shipping Industry Tackle Emissions Regulations"
-    excerpt: "New maritime regulations are set to go into effect that require ship owners to report shipping emissions intensity, and an artificial intelligence-based application from Bearing is set to produce information for businesses to help them make emissions improvements."
-    publishedDateTime: 2022-08-17T16:38:00Z
-    webUrl: "https://www.environmentalleader.com/2022/08/ai-platform-aims-to-help-shipping-industry-tackle-emissions-regulations/"
-    type: article
-    provider:
-      name: Environmental Leader
-      domain: environmentalleader.com
-    quality: 37
-    images:
-      - url: "https://s30148.pcdn.co/wp-content/uploads/2022/08/container-ship-g005ca98e7_1920-1024x614.jpg"
-        width: 1024
-        height: 614
-        isCached: true
   - title: "Researchers Develop Graphene-based Synaptic Transistor for Neuromorphic Devices"
     excerpt: "Recently, researchers from the University of Texas and Sandia National Laboratories announced the development of a graphene-based transistor that exhibits properties similar to neurons."
     publishedDateTime: 2022-08-18T16:08:00Z

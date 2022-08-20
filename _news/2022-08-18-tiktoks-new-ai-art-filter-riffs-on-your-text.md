@@ -87,6 +87,15 @@ related:
       name: News9
       domain: news9.com
     quality: 19
+  - title: "Amazon testing TikTok-style feed on its app, AI firm says"
+    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers' attention by introducing replicas of the popular social platform. The e-commerce giant has been testing a feed on its app that enables shoppers to scroll through TikTok-like photos and videos of products posted by"
+    publishedDateTime: 2022-08-20T21:29:00Z
+    webUrl: "https://japantoday.com/category/tech/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says"
+    type: article
+    provider:
+      name: Japan Today
+      domain: japantoday.com
+    quality: 19
 
 secured: "kYov1ZfXR/GmSaYUqQbW/jYyK2kV5zo/1xOmVWQLw/48PIsngG4rOZFXrzHUyoqZSPuidI++Y4SIx2/Eykj8+oy2piPqzhiTi9jDQAaUw/ZoK5SuFvvs7LVSRIyaz0zi+nfHmyXGeBeWSbKQN/Q0VE68xWEhPwwNGKJlgA61EGHyGgbJJjaoZTW6beNJ9w9Mxvzy4AkLpnBuTIBPVyRzn3I28QAShb7knDy+91/zHXoySvgi/nBNFLaVXGVT8dvOu3EmVLNCA2GgD+Pin4wjWU6uBPq96oq6Iwo2UUS6IdfOXCFKjGnFNo4yd4Hzur9CZmr++1gAwRwSy/44pUJEu+fi50k2oPpQaMXzeU15ghw=;ev4RFjrA7f0yNh70wDRsIA=="
 ---

@@ -345,6 +345,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-15-scientists-doubt-that-deepminds-ai-is-as-good-for-fractional-charge-systems-as-it-seems.md",
+      "title": "Scientists doubt that DeepMind's AI is as good for fractional-charge systems as it seems",
+      "excerpt": "DeepMind constructed a neural network based density functional designated as DM21, trained on fractional-electron systems, such as a hydrogen atom with half an electron.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/961844",
+      "originalUrl": "https://www.eurekalert.org/news-releases/961844",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/839c7f64-ce32-4a74-89a8-cd6b09dee5d2/Rendition/thumbnail/Content/Public",
+          "width": 300,
+          "height": 282,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-15T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-introduction-to-the-tensorflow-models-nlp-library.md",
       "title": "Introduction to the TensorFlow Models NLP library",
       "excerpt": "In this Colab notebook, you will learn how to build transformer-based models for common NLP tasks including pretraining, span labelling and classification using the building blocks from NLP modeling library. # Uninstall colab's opencv-python, it conflicts ...",
@@ -1322,49 +1365,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-deepminds-releasing-ai-predictions-for-virtually-every-protein-known-to-science.md",
-      "title": "Deepmind’s Releasing AI Predictions for Virtually Every Protein Known to Science",
-      "excerpt": "Today’s one of those watershed moments. Alphabet-owned Deepmind on Thursday announced it’s releasing a database of predictions for virtually every protein currently known to science ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2022/07/deepminds-releasing-ai-predictions-for-virtually-every-protein-known-to-science/",
-      "originalUrl": "https://www.gizmodo.com.au/2022/07/deepminds-releasing-ai-predictions-for-virtually-every-protein-known-to-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/07/29/gizmodo-10.png?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2022/07/deepminds-releasing-ai-predictions-for-virtually-every-protein-known-to-science/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/07/deepminds-releasing-ai-predictions-for-virtually-every-protein-known-to-science/amp/",
-      "publishedDateTime": "2022-07-28T23:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gizmodo",
-        "domain": "gizmodo.com.au",
-        "images": null,
         "publishers": null,
         "authors": null
       },

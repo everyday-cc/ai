@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-29-deepminds-releasing-ai-predictions-for-virtually-every-protein-known-to-science.md",
+      "title": "Deepmind’s Releasing AI Predictions for Virtually Every Protein Known to Science",
+      "excerpt": "Today’s one of those watershed moments. Alphabet-owned Deepmind on Thursday announced it’s releasing a database of predictions for virtually every protein currently known to science ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2022/07/deepminds-releasing-ai-predictions-for-virtually-every-protein-known-to-science/",
+      "originalUrl": "https://www.gizmodo.com.au/2022/07/deepminds-releasing-ai-predictions-for-virtually-every-protein-known-to-science/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/07/29/gizmodo-10.png?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2022/07/deepminds-releasing-ai-predictions-for-virtually-every-protein-known-to-science/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/07/deepminds-releasing-ai-predictions-for-virtually-every-protein-known-to-science/amp/",
+      "publishedDateTime": "2022-07-28T23:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gizmodo",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-deepmind-uncovers-structure-of-200m-proteins-in-scientific-leap-forward.md",
       "title": "DeepMind uncovers structure of 200m proteins in scientific leap forward",
       "excerpt": "Success of AlphaFold program could have huge impact on global problems such as famine and disease Artificial intelligence has deciphered the structure of virtually every protein known to science ...",
@@ -1367,50 +1410,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-reflections-from-ethics-and-safety-on-the-ground-at-deepmind.md",
-      "title": "Reflections from ethics and safety ‘on the ground’ at DeepMind",
-      "excerpt": "Boxi shares their experiences working as a program specialist on the ethics & society team to support ethical, safe and beneficial AI development, highlighting the importance of interdisciplinary and sociotechnical thinking.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/reflections-from-ethics-and-safety-on-the-ground-at-deepmind",
-      "originalUrl": "https://www.deepmind.com/blog/reflections-from-ethics-and-safety-on-the-ground-at-deepmind",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "AI Ethics"
       ]
     }
   ],

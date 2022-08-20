@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-02-who-drives-a-driverless-train.md",
+      "title": "Who Drives A Driverless Train?",
+      "excerpt": "Driverless systems like the one in Sydney represent the future of urban clean and efficient transport. In this article, train manufacturer Alstom answers some key questions about driverless trains ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104627148/Who-Drives-A-Driverless-Train",
+      "originalUrl": "https://menafn.com/1104627148/Who-Drives-A-Driverless-Train",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-08/01/R&AN_1fcbbimage_story.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-01-should-self-driving-cars-come-with-black-box-recorders.md",
       "title": "Should self-driving cars come with black box recorders?",
       "excerpt": "Why shouldn’t self-driving cars and robots have the ... team of experts — academic researchers in robotics and artificial intelligence as well as industry developers, insurers, and government ...",
@@ -1302,58 +1345,6 @@
         "name": "KAAL TV",
         "domain": "kaaltv.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-an-ai-for-art-copyright-considerations-for-artificial-intelligence.md",
-      "title": "An AI for art: Copyright considerations for artificial intelligence",
-      "excerpt": "Artificial intelligence is driving the information revolution and its presence is increasingly commonplace — for example, in smart speakers, self-driving cars, social media monitoring and ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/27/an-ai-for-art-copyright-considerations-for-artificial-intelligence/",
-      "originalUrl": "https://techcrunch.com/2022/07/27/an-ai-for-art-copyright-considerations-for-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-1079012834.jpg?w=574",
-          "width": 574,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

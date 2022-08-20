@@ -36,6 +36,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep Learning Camera Market 2022 - Industry Size, Statistics Data, Top Operating Vendors and Forecast to 2028"
+    excerpt: "The report encompasses the inside & out the objective analysis and the global Deep Learning Camera market components and requests that give the business an entire situation. The report also contains a brief assessment of the end-customer enterprises,"
+    publishedDateTime: 2022-08-18T00:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-2022---industry-size-statistics-data-top-operating-vendors-and-forecast-to-2028-2022-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Technology Market: Latest Trends, SWOT Analysis, Growth, Size, Segmentation, Future Demands, by Regional Forecast to 2029"
     excerpt: "Global \"Face Recognition Technology Market\" 2022: - Face Recognition Technology Market report discusses the market"
     publishedDateTime: 2022-08-17T11:32:00Z

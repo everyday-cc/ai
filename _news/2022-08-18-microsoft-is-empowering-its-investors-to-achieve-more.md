@@ -19,57 +19,54 @@ topics:
   - AI
 
 related:
-  - title: "Datadog Extends Monitoring for Microsoft SQL Server and Microsoft Azure Database Platforms"
-    excerpt: "The expanded support provides visibility into query-level metrics and detailed explain plans so all Microsoft customers can benefit from Database"
-    publishedDateTime: 2022-08-16T20:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database-platforms-1031688288"
+  - title: "OneMeta AI Accepted as a Part of Microsoft for Startups Founders Hub"
+    excerpt: "LAS VEGAS, NV / ACCESSWIRE / August / OneMeta AI (  (OTCMarkets:ONEI). Today OneMeta AI announced acceptance as part of Microsoft of Startups Founders Hub. \"This is a great milestone that we are thankful for;"
+    publishedDateTime: 2022-08-18T15:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/onemeta-ai-accepted-as-a-part-of-microsoft-for-startups-founders-hub-2022-08-18"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 84
     images:
-      - url: "https://mma.prnewswire.com/media/1730117/Datadog_logo.jpg"
-        width: 400
-        height: 210
-        isCached: true
-  - title: "Datadog Database Monitoring extends to SQL Server and Azure database platforms"
-    excerpt: "Datadog has announced its Database Monitoring service now supports Microsoft SQL Server and Microsoft Azure database platforms. The expanded support enables engineers and database administrators to swiftly identify and resolve database performance issues including slow queries,"
-    publishedDateTime: 2022-08-17T09:34:00Z
-    webUrl: "https://www.itpro.co.uk/data-insights/databases/368822/datadog-database-monitoring-extends-to-sql-server-and-azure-database"
-    type: article
-    provider:
-      name: IT Pro
-      domain: itpro.co.uk
-    quality: 65
-    images:
-      - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816740/itpro/2019/01/sql_shutterstock_1055747219.jpg"
-        width: 1260
-        height: 710
-        isCached: true
-  - title: "Reltio Announces the Reltio Connected Data Platform Integrates with Microsoft Azure Marketplace"
-    excerpt: "Reltio, a cloud-native, SaaS Master Data Management (MDM) enterprise, is announcing the launch of the Reltio Connected Data Platform in the Microsoft Azure Marketplace, integrating Reltio streamlined deployment and management properties with the advantages of the Azure cloud platform."
-    publishedDateTime: 2022-08-16T14:27:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Reltio-Announces-the-Reltio-Connected-Data-Platform-Integrates-with-Microsoft-Azure-Marketplace-154395.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 42
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Datadog Extends Monitoring for Microsoft SQL Server and Microsoft Azure Database"
-    excerpt: "Datadog, Inc., the monitoring and security platform for cloud applications, has announced expanded monitoring for Microsoft SQL"
-    publishedDateTime: 2022-08-17T16:23:00Z
-    webUrl: "https://www.datanami.com/this-just-in/datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database/"
+  - title: "Microsoft and MAP, Bengaluru, Develop New AI-Powered Platform"
+    excerpt: "Bengaluru, have developed a new artificial intelligence-powered platform for connecting artworks and cultures around the world"
+    publishedDateTime: 2022-08-19T09:48:00Z
+    webUrl: "https://www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399.html"
+    ampWebUrl: "https://www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399-amp.html"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 29
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 74
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/08/19/1600x900/20220819_132009_0000_1660901560159_1660901569762_1660901569762.png"
+        width: 1600
+        height: 899
+        isCached: true
+  - title: "Artificial Intelligence Platform Market Expected to Accelerate Growth by 2028 | Google, IFlyTek, Baidu, Microsoft"
+    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 18, 2022 (Market Insight Reports) -- The global Artificial Intelligence Platform Market research report provides an in-depth and methodical assessment of regional and ..."
+    publishedDateTime: 2022-08-18T07:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-expected-to-accelerate-growth-by-2028-google-iflytek-baidu-microsoft-2022-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+  - title: "How Microsoft’s AI convinced me to switch to Edge, and where the browser still falls short"
+    excerpt: "I finally broke down and switched to Microsoft’s Edge browser this week on my Windows PC, after many years of using Google Chrome. No, it wasn’t the incessant and annoying… Read More"
+    publishedDateTime: 2022-08-19T19:31:00Z
+    webUrl: "https://www.geekwire.com/2022/how-microsofts-ai-convinced-me-to-switch-to-edge-and-where-the-browser-still-falls-short/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 54
 
 secured: "XDr//J9IL7lmiHHdHqq1NBIqxs/DOMkPs9HK5vKLOKv3AZeERam4RxGdruVUaHojehp9J+xhHZNxJd4ZMvp33bB0S3Qo1ThGn2Hg4pFtyjGqmvl2z2pa3NpjH9G5f919fvMsyc9DcSMGZEEpknX3ujyRsG9v4PsA6yQ+se1Pf47KItM4BIS5KkyOQDSDiMDfBhlW1nZ+xm/EnS/dSItT0KgXE3dZ/hmKbL09yxzMS8sg6VCD9m1mNzKuZRk1T/Oxrc+U7zxKZtMqPrsLXEreAqXaHxgrs2huoHRs2Z6DXypZKVqwIcI7fBtYYv1TSs8GBhq4MojBnHEnM0XbH4SKU2DDdudptw7hw8D+ur6/tx0Gx9W8grTJbBKxSo/enwi2bOCIUS+BfG312tALrzbtY7MStIp/Vljb8k7nm3KhLSbuwQDCN2M1OefuvHqNxm0Lp7mlFAgHUwrs4w/wf2RfYagyWiOm7bCPCghoc3aYfcIMGPJa+trN6TFNHoVTTGYqEnByYy8IG61NVbEKQpCY1Q==;KPfSHrXS1dTovW8yDGWPBA=="
 ---

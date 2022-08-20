@@ -24,54 +24,36 @@ images:
     isCached: true
 
 related:
-  - title: "New neuromorphic chip for AI on the edge, at a small fraction of the energy and size of today's computing platforms"
-    excerpt: "An international team of researchers has designed and built a chip that runs computations directly in memory and can run a wide variety of AI applications–all at a fraction of the energy consumed by computing platforms for general-purpose AI computing."
-    publishedDateTime: 2022-08-17T15:00:00Z
-    webUrl: "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.html"
-    ampWebUrl: "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp"
+  - title: "Why AI regulation will resemble privacy regulation"
+    excerpt: "Concerns over data privacy have sparked regulations in the U.S. and Europe. How will AI regulations look as they come to fruition?"
+    publishedDateTime: 2022-08-20T20:10:00Z
+    webUrl: "https://venturebeat.com/ai/why-ai-regulation-will-resemble-privacy-regulation/"
+    ampWebUrl: "https://venturebeat.com/ai/why-ai-regulation-will-resemble-privacy-regulation/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-ai-regulation-will-resemble-privacy-regulation/amp/"
     type: article
     provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 52
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 87
     images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/a-new-neuromorphic-chi.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
-  - title: "A new neuromorphic chip for AI on the edge, at a small fraction of the energy and size of today's compute platforms"
-    excerpt: "An international team of researchers has designed and built a chip that runs computations directly in memory and can run a wide variety of AI applications -- all at a fraction of the energy consumed by computing platforms for general-purpose AI computing."
-    publishedDateTime: 2022-08-17T18:39:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/08/220817114253.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 42
-  - title: "Researchers Develop Graphene-based Synaptic Transistor for Neuromorphic Devices"
-    excerpt: "Recently, researchers from the University of Texas and Sandia National Laboratories announced the development of a graphene-based transistor that exhibits properties similar to neurons."
-    publishedDateTime: 2022-08-18T16:08:00Z
-    webUrl: "https://www.electropages.com/blog/2022/08/researchers-develop-graphene-based-synaptic-transistor-neuromorphic-devices"
-    type: article
-    provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 20
-    images:
-      - url: "https://www.electropages.com/storage/app/media/2022/Aug/neuromorphic-computing-AI-future-og.png"
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1037155966.jpg?w=1200&strip=all"
         width: 1200
-        height: 630
+        height: 659
         isCached: true
-  - title: "UC San Diego: A New Neuromorphic Chip for AI on the Edge, at a Small Fraction of the Energy and Size"
-    excerpt: "An international team of researchers has designed and built a chip that runs computations directly in memory and can run a wide variety of AI applications–all at a fraction of the energy consumed by computing platforms for general-purpose AI computing."
-    publishedDateTime: 2022-08-19T07:05:00Z
-    webUrl: "https://indiaeducationdiary.in/uc-san-diego-a-new-neuromorphic-chip-for-ai-on-the-edge-at-a-small-fraction-of-the-energy-and-size/"
+  - title: "Africa: Opinion - Besides AI, Regulation Key to Fight Mis/Disinformation"
+    excerpt: "Opinion - While AI has a crucial role to play in controlling what is seen online, government regulations play an important part in determining how such methods are to be used"
+    publishedDateTime: 2022-08-16T07:30:00Z
+    webUrl: "https://allafrica.com/stories/202208160083.html"
     type: article
     provider:
-      name: India Education Diary
-      domain: indiaeducationdiary.in
-    quality: 19
+      name: AllAfrica.com
+      domain: allafrica.com
+    quality: 38
+    images:
+      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
+        width: 664
+        height: 664
+        isCached: true
 
 secured: "0rYnOfloRHL53YEHe3VNAxSJoiPEQu52h8yx7MMACwQRmyZy5ivyYK1t+D87moMNFs3FbxQq24KePrnoEDTq/d18b7pxEqa+hDmEujiT2VIH7VGKt2gUiG8050SHeNycMAn/d/LRay1Xuek8vp/hy/RKQ03sBXrRYF+KO8Qt8Z+aFxMJSDlAdQ5x6S4mXcwRiTSlIXtqKSgZgyrbl6M2Gp1VzhDK0aqHRX8S89e3PBe8GVUCygNfKGw+41HzUDmTint3vGilMtNvyVcD2B1EklhE+kBhnwW3k19sHp7qrd1XotDNLId6sQAPJIdU5ss5tTln+lpU9fswQvuDVjL47ViiTFzNGJM9mlWWgdP9uV/XrY+NnbWB5sb8kstJvk4Ao/LG/EF9drPXqHyHx7PgnotlbTwD/5ICWq7KSNkKvXSU5bos5OSIZNOK5eljEHm5C1FQpCtkc7mvBBTBwt+8mzcnfXJidD6AY48xZ/5jFHoc7VS7HZIGwxYzHrJtpyn70EfC4z0iGPmVt0G6uQvAag==;DvqrpdhIB9aNaBe8GVy2Mw=="
 ---
