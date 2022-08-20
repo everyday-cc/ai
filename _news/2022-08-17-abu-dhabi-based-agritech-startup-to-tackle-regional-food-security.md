@@ -7,7 +7,7 @@ originalUrl: "https://www.itp.net/emergent-tech/abu-dhabi-based-agritech-startup
 webUrl: "https://www.itp.net/emergent-tech/abu-dhabi-based-agritech-startup-to-tackle-regional-food-security"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -19,20 +19,15 @@ topics:
   - AI in Security
 
 related:
-  - title: "Hatch & Boost launches agriTech startup World of Farming"
-    excerpt: "World of Farming is introducing a first-of-its-kind hydroponic fodder (livestock feed) farming methodology for the meat and dairy industry to the Middle East market, which aims to address these challenges and enhance the sector sustainability."
-    publishedDateTime: 2022-08-15T09:37:00Z
-    webUrl: "https://www.zawya.com/en/business/technology-and-telecom/hatch-and-boost-launches-agritech-startup-world-of-farming-ad8tni61"
+  - title: "Abu Dhabi AI firm launches 10 billion USD tech fund"
+    excerpt: "It will operate as a private equity investor, with a significant proportion of funds earmarked for high-growth regions in sectors ranging from communications, smart mobility and renewable energy to healthcare."
+    publishedDateTime: 2022-08-18T07:44:00Z
+    webUrl: "https://www.itp.net/emergent-tech/abu-dhabi-ai-firm-launches-10-billion-usd-tech-fund"
     type: article
     provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 22
-    images:
-      - url: "https://static.zawya.com/version/c:ZjAzZmQzNzYtYjY2NS00:ZmFjMDg1/200409093644izda-jpg.jpg?f=3%3A2"
-        width: 724
-        height: 482
-        isCached: true
+      name: GDPR fines
+      domain: itp.net
+    quality: 17
   - title: "In UAE’s fertile agritech scene, another startup blooms"
     excerpt: "When it opens, the farm will have a total output of 3,000 metric tons of animal feed annually - using up to 90 percent water and land In UAE’s fertile agritech scene, another startup blooms agritech,"
     publishedDateTime: 2022-08-16T09:44:00Z

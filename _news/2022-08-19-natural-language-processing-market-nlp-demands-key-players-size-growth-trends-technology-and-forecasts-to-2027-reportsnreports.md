@@ -70,6 +70,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 10
+  - title: "Voice Recognition Market generalship Report Industry Size, Segment by Key Companies, Types Applications and Forecast to 2025"
+    excerpt: "Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with"
+    publishedDateTime: 2022-08-18T13:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-generalship-report-industry-size-segment-by-key-companies-types-applications-and-forecast-to-2025-2022-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 7
   - title: "National award for Sheffield researchers who revolutionised teaching for the next generation of speech language therapists"
     excerpt: "Sheffield researchers who revolutionised teaching for the next generation of speech and language therapists during the pandemic have been recognised with a prestigious national award."
     publishedDateTime: 2022-08-19T12:27:00Z

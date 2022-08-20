@@ -1,0 +1,33 @@
+---
+category: news
+title: "Aaron Rodriguez discusses the benefits artificial intelligence gives eCommerce"
+excerpt: "Artificial intelligence (AI) is an unstoppable market, and it will be difficult to conceive the future without its development. In fact, it is already impossible to understand today's world without intelligent technologies."
+publishedDateTime: 2022-08-19T15:52:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/webwire-2022-8-19-aaron-rodriguez-discusses-the-benefits-artificial-intelligence-gives-ecommerce"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/webwire-2022-8-19-aaron-rodriguez-discusses-the-benefits-artificial-intelligence-gives-ecommerce"
+type: article
+quality: 13
+heat: -1
+published: false
+
+provider:
+  name: Daily Herald
+  domain: dailyherald.com
+
+topics:
+  - AI
+
+related:
+  - title: "Jason Simon explains how AI is enhancing eCommerce"
+    excerpt: "AI offers a lot of ways for eCommerce companies to enhance their business. As more and more shoppers turn to online retail, eCommerce companies need to adapt. According to a study by Statista, the sales of online retail are expected to grow by 15% in 2022."
+    publishedDateTime: 2022-08-17T14:07:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/webwire-2022-8-17-jason-simon-explains-how-ai-is-enhancing-ecommerce"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 19
+
+secured: "Y98F4NF5M5wJtXEQe+bpjaibZyFV/Vy8nxhmMce4ZzYMG81/zfkwlvLg/XRXTuwUIIFeyY3Hb7f4kcpAo7xWcxJoCJj5UXXBCEAMQadWJuAqtUk/lY2FiuZL64V5VV97Y+Pdn4LwOPnn0PcFIOIN3RbUMR19J2Pf0dEa2hT40VwiGzAkHmEsNqCZZgLQES0KYUDm7EOyyhvJOQbvkc/LTiQLUasn7/ZUOmCKAwCCFsZV0rDj5SRzHxaBs21e4yHsmpeKXOgbD0u3GfewyOxrttlWoH2WhRErhmIVmd7KyM0RIAzucYfQhdCpDUI/f7/XOkRqpg3vriE7Tf3K+w18EWT+2lL+qv1QxFCT9AVGgVw=;8waVw3gdA8GFXSxuOgnT2g=="
+---
+

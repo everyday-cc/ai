@@ -48,7 +48,7 @@ related:
     provider:
       name: WQAD
       domain: wqad.com
-    quality: 54
+    quality: 56
     images:
       - url: "https://media.tegna-media.com/assets/WQAD/images/a3dd96da-98f2-4a93-bd77-d924f31c6947/a3dd96da-98f2-4a93-bd77-d924f31c6947_1140x641.jpg"
         width: 1140

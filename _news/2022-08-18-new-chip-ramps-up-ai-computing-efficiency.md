@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/962314"
 webUrl: "https://www.eurekalert.org/news-releases/962314"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 33
-  - title: "LM Exchange significantly improved its efficiency and regulatory compliance by adopting AI-aided technology"
-    excerpt: "With the help of Effiya’s dynamic risk assessment platform, robust sanctions screening and transaction monitoring solution"
-    publishedDateTime: 2022-08-15T10:06:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/lm-exchange-significantly-improved-its-efficiency-and-regulatory-compliance-by-adopting-ai-aided-technology-jmgk5tu2"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 19
-    images:
-      - url: "https://static.zawya.com/version/c:MTg4YWY2MzQtM2QxZi00:MjM0NjY4/lm_1660544807-jpg.JPG?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "LMgxWLGSdGy5ri8md00NYzQdB9ERb2IPqzmHzf+RWsDKNs1q38UgLEP6O5N7YZevLU/IoaKfNe7FqP3luX6anBQZ7BGv+3lAMsc76k61Hz+2zq5HUSkirPxsUEWzaAFWHfFiL3lcfsQsKkZd0w+fRrv7z+RUw5L3/MPIKE3iYZXVIJyuF6TGZa6IjPr1+UAsCVv3HrVkG77MsbiHD+GLeURrKeZH4nxSZjFjuTQ51SL40PIot8AziisQOzeu2nIkDUFnnh+2rpwo1zxQVblicV6DutZSiLp88vkp18KBXpzGeBUqDuNTRPD+GEZQpyKg68MMxHFCGlqjokFdyeqVj8hPG26raomic5hcUfk666C2n9vK3pubooOb/hqE3AEmCNKtwYiC0Whri8/2sypNjR58nK9S1NxN8xhZRKRLN5BL2/AxZDrFnhuaWNbv9uSnute8c+hqucOjYvI8Ogn0WQQgnb349kt0gBwUc4ZiT8jx4nGQyQrzplSFqmDZFyK6e1XVtOD4okXtANbzqqkzAw==;7NAsRMEW3duxBiRODGTp1Q=="
 ---

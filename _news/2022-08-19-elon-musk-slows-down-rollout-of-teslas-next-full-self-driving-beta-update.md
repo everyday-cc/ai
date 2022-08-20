@@ -47,22 +47,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Elon Musk reveals more details about Tesla Robot, sees people gifting it to elderly parents"
-    excerpt: "Tesla CEO Elon Musk has revealed more details about Tesla Optimus, the company’s upcoming humanoid robot, and how he sees the product rolling out over the next decade. Over the last few years, Musk has been getting quite cozy with the Chinese government."
-    publishedDateTime: 2022-08-15T10:08:00Z
-    webUrl: "https://electrek.co/2022/08/15/elon-musk-reveals-more-details-about-tesla-robot-gifting-elderly-parents/"
-    ampWebUrl: "https://electrek.co/2022/08/15/elon-musk-reveals-more-details-about-tesla-robot-gifting-elderly-parents/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/15/elon-musk-reveals-more-details-about-tesla-robot-gifting-elderly-parents/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 111
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/10/Tesla-Bot-Hero-china.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Elon Musk unveils Tesla robot, says it will perform ‘boring’ chores by year’s end"
     excerpt: "Standing at around 5 feet 8 inches, Musk’s Tesla Bot aims to gradually remove “boring” responsibilities from the hands of mere mortals who are gutsy enough to welcome a robot into the"
     publishedDateTime: 2022-08-17T16:49:00Z

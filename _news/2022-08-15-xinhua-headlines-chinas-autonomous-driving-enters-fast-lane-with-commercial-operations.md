@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "China's autonomous driving enters \"fast lane\" with commercial operations"
-    excerpt: "A resident uses an app to hail a driverless taxi in southwest China's Chengdu city in July. On August 8, driverless robotaxi services were launched in designated areas in the Chinese cities of Wuhan and Chongqing,"
-    publishedDateTime: 2022-08-15T10:31:00Z
-    webUrl: "https://www.shine.cn/biz/auto/2208159199/"
-    type: article
-    provider:
-      name: SHINE
-      domain: shine.cn
-    quality: 23
-    images:
-      - url: "https://obj.shine.cn/files/2022/08/15/9c99ab90-b0cb-4d32-9596-0683a5e64b57_0.jpg"
-        width: 480
-        height: 270
-        isCached: true
   - title: "China's autonomous driving enters 'fast lane' with commercial operations"
     excerpt: "Thanks to continuous technology innovation and policy support, China has made steady strides in autonomous driving, from running trials in semi-closed areas to venturing it on open roads, as the market potential of this technology continues to grow in the country."
     publishedDateTime: 2022-08-16T02:04:00Z

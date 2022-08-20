@@ -42,20 +42,6 @@ related:
       name: Electronics For You
       domain: electronicsforu.com
     quality: 34
-  - title: "LM Exchange significantly improved its efficiency and regulatory compliance by adopting AI-aided technology"
-    excerpt: "With the help of Effiya’s dynamic risk assessment platform, robust sanctions screening and transaction monitoring solution"
-    publishedDateTime: 2022-08-15T10:06:00Z
-    webUrl: "https://www.zawya.com/en/press-release/companies-news/lm-exchange-significantly-improved-its-efficiency-and-regulatory-compliance-by-adopting-ai-aided-technology-jmgk5tu2"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 19
-    images:
-      - url: "https://static.zawya.com/version/c:MTg4YWY2MzQtM2QxZi00:MjM0NjY4/lm_1660544807-jpg.JPG?f=3%3A2"
-        width: 900
-        height: 600
-        isCached: true
 
 secured: "tp5v9/I2/uJFtvDSlp8gLW4Je5XiZR7i1XYszJlia7nJ+FbH/OEsBwBJsswnMCd6Flgx4xZYAfwBhdw7B12NaZ5C/JiwekQSNz9CPUuDWX52qtU+E5chRke0Df3etzAFJI6cwzlT6X6zWLXdAesSozHuBm6OsW3r7+DpagPHR+tlz5iqE4Bk9iLqfyiiP4bESJqgjSnzt9HDpHYoQng6MKqAAXu/7KUrcUa2oUEENgkNBPNjIvNTQBlZhhcvgtMgQTt12Ltr7HD2J58XRipGjqPnIKhM22nY1aBn2YqoVcaHfcJB5BRLNIwY/hRqiT14GHSjeXLvbYctIZg5K0JgXkV9iNGC9q6WgaGsdLZtuC07QNQw7+z6Hy3JUzQSP02ovIXRjkKcTFKpcE6EnyMHVUnTZUN2Vpcqs9UgORzV1pbvr9YtNqUBOsErnALKbrKASsYMwFdQeujg0DHUCaw0/rKgwj3LBB0VXMPdcCCTj4kwJv1ctixJNJr65zAHONBdQg8TfdFNc2v6lEyd04E0mA==;q4O5fqf1WdiSUoJGuAoj9Q=="
 ---
