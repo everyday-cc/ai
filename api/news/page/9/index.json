@@ -2,6 +2,49 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-08-10-china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus.md",
+      "title": "China creates its most powerful GPU Biren BR1100, reducing its dependency on NVIDIA's AI GPUs",
+      "excerpt": "The Biren BR1100 is based on a 7nm process, houses 77 billion transistors, and is reportedly faster than NVIDIA's Ampere in AI power.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/technology-science/china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus-article-93479666",
+      "originalUrl": "https://www.timesnownews.com/technology-science/china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus-article-93479666",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-93479666,imgsize-100,width-1280,height-720,resizemode-75/93479666.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/technology-science/china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus-article-93479666/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/china-creates-its-most-powerful-gpu-biren-br1100-reducing-its-dependency-on-nvidias-ai-gpus-article-93479666/amp",
+      "publishedDateTime": "2022-08-10T04:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-there-are-two-factions-working-to-prevent-ai-dangers-heres-why-theyre-deeply-divided.md",
       "title": "There are two factions working to prevent AI dangers. Here’s why they’re deeply divided.",
       "excerpt": "And not in the distant future, but as soon as a few decades from now. That’s why it’s crucial to have AI ethics research focused on managing the implications of modern AI, and AI alignment ...",
@@ -1115,58 +1158,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-teslas-self-driving-technology-fails-to-detect-children-in-the-road-tests-find.md",
-      "title": "Tesla’s self-driving technology fails to detect children in the road, tests find",
-      "excerpt": "Professional test driver using Tesla’s Full Self-Driving mode repeatedly hit a child-sized mannequin in its path A safe-technology advocacy group issued claimed on Tuesday that Tesla’s full ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/aug/09/tesla-self-driving-technology-safety-children?source=Snapzu",
-      "originalUrl": "https://www.theguardian.com/technology/2022/aug/09/tesla-self-driving-technology-safety-children?source=Snapzu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/6618f44ee85df1594f8482429ec86c85ae6385a6/0_275_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=fbf921f078e580f8b039211ce1212cdb",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/aug/09/tesla-self-driving-technology-safety-children",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/tesla-self-driving-technology-safety-children",
-      "publishedDateTime": "2022-08-09T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

@@ -312,7 +312,7 @@
       "originalUrl": "https://www.popsci.com/technology/one-image-video-deepmind/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 84,
       "tags": null,
       "images": [
         {
@@ -615,7 +615,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-worth-494-billion-by-2027---exclusive-report-by-marketsandmarketstm-2022-08-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 123,
+      "heat": 113,
       "tags": null,
       "images": [
         {
@@ -808,7 +808,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-mn-by-2027-the-insight-partners-2022-08-18",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -907,6 +907,57 @@
       ]
     },
     {
+      "path": "_news/2022-08-18-google-uses-ai-language-models-to-improve-home-helper-robots.md",
+      "title": "Google uses AI language models to improve home helper robots",
+      "excerpt": "Researchers at Everyday Robots are tapping large-scale language models to help robots avoid misconstruing human communications in ways that might",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/google-uses-ai-language-models-to-improve-home-helper-robots/",
+      "originalUrl": "https://www.zdnet.com/article/google-uses-ai-language-models-to-improve-home-helper-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/767cd3eb64bfcd005e721331322b11bb282d5231/2022/08/17/41088cc8-8d87-4f6b-a8c7-049ee79fa6e6/kitchen-robot-gettyimages.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-uses-ai-language-models-to-improve-home-helper-robots/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-uses-ai-language-models-to-improve-home-helper-robots/",
+      "publishedDateTime": "2022-08-18T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-machine-learning-in-healthcare-market-next-big-thing-major-giants-deepmind-technologies-microsoft-nvidia-intel.md",
       "title": "Machine Learning in Healthcare Market Next Big Thing | Major Giants DeepMind Technologies, Microsoft, NVIDIA, Intel",
       "excerpt": "Advance Market Analytics published a new research publication on “Machine Learning in Healthcare Market Insights, to 2027” with 232 pages and enriched with self-explained Tables and charts in ...",
@@ -915,7 +966,7 @@
       "originalUrl": "https://www.digitaljournal.com/pr/machine-learning-in-healthcare-market-next-big-thing-major-giants-deepmind-technologies-microsoft-nvidia-intel",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1164,58 +1215,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-ai-vs-ml-artificial-intelligence-and-machine-learning-overview.md",
-      "title": "AI vs. ML: Artificial Intelligence and Machine Learning Overview",
-      "excerpt": "In 1982, John Hopfield showed that a neural network could process information in far more advanced ways. Various forms of AI began to take shape, and the first artificial neural network (ANN ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/enterprise-apps/ai-vs-ml/",
-      "originalUrl": "https://www.eweek.com/enterprise-apps/ai-vs-ml/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-DSOM-Image02-800x800-1.jpg",
-          "width": 800,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

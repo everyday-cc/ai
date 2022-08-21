@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/datadog-extends-mo
 webUrl: "https://markets.businessinsider.com/news/stocks/datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database-platforms-1031688288"
 type: article
 quality: 74
-heat: 104
+heat: 94
 published: true
 
 provider:
@@ -42,20 +42,6 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816740/itpro/2019/01/sql_shutterstock_1055747219.jpg"
         width: 1260
         height: 710
-        isCached: true
-  - title: "Reltio Announces the Reltio Connected Data Platform Integrates with Microsoft Azure Marketplace"
-    excerpt: "Reltio, a cloud-native, SaaS Master Data Management (MDM) enterprise, is announcing the launch of the Reltio Connected Data Platform in the Microsoft Azure Marketplace, integrating Reltio streamlined deployment and management properties with the advantages of the Azure cloud platform."
-    publishedDateTime: 2022-08-16T14:27:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Reltio-Announces-the-Reltio-Connected-Data-Platform-Integrates-with-Microsoft-Azure-Marketplace-154395.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 42
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Datadog Extends Monitoring for Microsoft SQL Server and Microsoft Azure Database"
     excerpt: "Datadog, Inc., the monitoring and security platform for cloud applications, has announced expanded monitoring for Microsoft SQL"

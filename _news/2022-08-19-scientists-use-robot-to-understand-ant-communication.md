@@ -55,19 +55,37 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Google is training its robots to be more like humans"
-    excerpt: "In a drab Google office park in Silicon Valley, robots are going to school, using AI algorithms to learn how to play ping pong and clean up after humans."
-    publishedDateTime: 2022-08-16T15:00:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2022/08/16/google-ai-robot-school/"
+  - title: "Google adds AI language skills to Alphabet's helper robots"
+    excerpt: "Google's parent company Alphabet is bringing together two of its most ambitious research projects — robotics and AI language understanding — in an attempt to make a \"helper robot\" that can"
+    publishedDateTime: 2022-08-17T05:42:00Z
+    webUrl: "https://www.jamaicaobserver.com/business/google-adds-ai-language-skills-to-alphabets-helper-robots/"
+    ampWebUrl: "https://www.jamaicaobserver.com/business/google-adds-ai-language-skills-to-alphabets-helper-robots/amp/"
+    cdnAmpWebUrl: "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/business/google-adds-ai-language-skills-to-alphabets-helper-robots/amp/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 54
+      name: The Jamaica Observer
+      domain: jamaicaobserver.com
+    quality: 57
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/08-16-2022/t_8173f0650bed4af9b812985bca0bb96e_name_google_bot_2.jpg&w=1440"
-        width: 1440
-        height: 810
+      - url: "https://imengine.public.prod.jam.navigacloud.com/?uuid=a8cc7452-d1df-5010-a16b-3d5ccc5e6eda&function=fit&type=preview"
+        width: 500
+        height: 333
+        isCached: true
+  - title: "Google's parent Alphabet adds AI language skills to helper robots"
+    excerpt: "Google's parent company Alphabet is bringing together two of its most ambitious research projects -- robotics and AI language understanding -- to make a \"helper robot\" that can understand natural language commands."
+    publishedDateTime: 2022-08-17T04:17:00Z
+    webUrl: "https://www.businessinsider.in/tech/news/googles-parent-alphabet-adds-ai-language-skills-to-helper-robots/articleshow/93608687.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/news/googles-parent-alphabet-adds-ai-language-skills-to-helper-robots/amp_articleshow/93608687.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/googles-parent-alphabet-adds-ai-language-skills-to-helper-robots/amp_articleshow/93608687.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 57
+    images:
+      - url: "https://www.businessinsider.in/thumb/93608834.cms?height=275&width=412"
+        width: 412
+        height: 275
         isCached: true
   - title: "Google is training its robots to be more like humans"
     excerpt: "Researchers here at Google's lab recently asked a robot to build a burger out of various plastic toy ingredients."
@@ -78,6 +96,20 @@ related:
       name: IOL News
       domain: iol.co.za
     quality: 34
+  - title: "Google gives helper robots language skills to understand humans better"
+    excerpt: "Researchers at Google believe large language models can help robots respond to more complex and abstract requests from humans."
+    publishedDateTime: 2022-08-17T07:21:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/google-robots-alphabet-large-language-models"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 24
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/08/helper-robot-2.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "Z3RuhnHOH5ZwiLti5GTlX8JRfuNClrcw3py/CJquU9MWWtmIVyhlM0O8tdObL3jhN9WpQYV1B6bw2SzArVw+bk2o3WduwmxPr/iV29yGceNvokq9hbuzAPwMep+0qSNF/Qyk2dBUrn4HUasKPql7bJ2lebniUC1mOi4mhXrN8TjfHCIWw8zyWotH4KwcqVuqVCyxMAhWSIXIqSlio5s+oGDjWemebWTwv4iI6fAIPf1cMQJbnAsky29wKc8NSbi3P+ooPv9D/A5/uW6LfnmeeZLSr+dwfC85KvorrfZhTs9lmU53ow0LGNyiB2+aO+cKjtfvkrL3sjvCD65lCHqBYkjxCnJ4ouNVo05L8vZNuro=;z2yiucmUgHd6T2jgtMIlAA=="
 ---

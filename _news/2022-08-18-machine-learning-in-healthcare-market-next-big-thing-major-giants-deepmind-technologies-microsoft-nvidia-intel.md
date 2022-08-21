@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/machine-learning-in-healthcare-m
 webUrl: "https://www.digitaljournal.com/pr/machine-learning-in-healthcare-market-next-big-thing-major-giants-deepmind-technologies-microsoft-nvidia-intel"
 type: article
 quality: 68
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -41,22 +41,6 @@ related:
       - url: "https://menafn.com/updates/pr/2022-08/18/EP_bc10dimage_story.png"
         width: 1083
         height: 567
-        isCached: true
-  - title: "Gearing up for the next bull run in fintech investing in India"
-    excerpt: "India is home to the third-largest fintech ecosystem in the world, attracting over 40% of fintech investments in Asia in the first half of 2022. Currently grabbing eyeballs on the global map, the Indian"
-    publishedDateTime: 2022-08-16T13:46:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/gearing-up-for-the-next-bull-run-in-fintech-investing-in-india/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/gearing-up-for-the-next-bull-run-in-fintech-investing-in-india/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/gearing-up-for-the-next-bull-run-in-fintech-investing-in-india/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
         isCached: true
 
 secured: "8m9+X737GHooCPNFwP1++SEnjrLh0bp0VTlEhheY4/97P5t1p7cYxyzwOle3mG0LOJHJNY8Hd/PjryH0bZchbxmNnWdagNgGB5sCFKsOYKnh4rvKDoziix/DfNCXXBzaQhtHZGjWIIl6Rfm2mat/JVNGVktAG4Ik/0YdzqsvvdqJjkm/FpTEYAtd/q7OWMwwLTfa7gRo8dJxWfUPRulAPi+OWJAWnK1bWcp7S0TzI0VnCyK8KWIn9Qcz5tY0fniq0MuQq+4o0PQPjWAObl+8plCg9SaVT1S+HI9KUYqOPObZzzieQkAYJN7+1z/sSyzkRtGppaEf65dIQyZx1LC454kWuGCRVWowUq2l+PfvgF0=;r+5VJPubHjC7Q3X9Rnoslw=="

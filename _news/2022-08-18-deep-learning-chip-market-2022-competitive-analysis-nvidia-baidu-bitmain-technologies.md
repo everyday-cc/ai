@@ -40,22 +40,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Gearing up for the next bull run in fintech investing in India"
-    excerpt: "India is home to the third-largest fintech ecosystem in the world, attracting over 40% of fintech investments in Asia in the first half of 2022. Currently grabbing eyeballs on the global map, the Indian"
-    publishedDateTime: 2022-08-16T13:46:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/gearing-up-for-the-next-bull-run-in-fintech-investing-in-india/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/gearing-up-for-the-next-bull-run-in-fintech-investing-in-india/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/gearing-up-for-the-next-bull-run-in-fintech-investing-in-india/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 44
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
 
 secured: "xVq844fQoyjTm4LLuSO3gNLrn01TKYgWws2Yz+17PVzO/VN8mReWImFPO58qyw6qeI5rXcSICc24M3V/yKJPavsuE6XbX4ziCPDhiqgZQfb38JaPTuBNt5DvF5eXW9OmGaO02SutcSuRieAeC7fkr8szltW/92FpQb42mYHgaqbICZwfDm1Hw0r2+vJetQLePq5t+51QjWANdc4ox+bpUXjMyZr/YrLn0kQMrvk2tOLBoh86DhCbLcD5TNXWY3qwn8jLTEh5ZiuadzC9MhaP2IRmb3v3hz+aZ3/LKHAUjeeU1DDhwgOcx31qc6y5Rke4DOu4JaTGRnhA0p3hsvBK2OIiCyB3eiNx6fVYwQoo1+o=;Y8jESdSBZw1x//psfVoGtQ=="
 ---

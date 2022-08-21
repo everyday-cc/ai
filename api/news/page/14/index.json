@@ -2,6 +2,57 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-08-05-gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak.md",
+      "title": "Gartner research: 2 types of emerging AI near hype cycle peak",
+      "excerpt": "According to new Gartner research, emotion and generative AI are both reaching the peak of the digital advertising hype cycle.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/08/05/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/",
+      "originalUrl": "https://venturebeat.com/2022/08/05/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1346722826.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/08/05/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/05/gartner-research-2-types-of-emerging-ai-near-hype-cycle-peak/amp/",
+      "publishedDateTime": "2022-08-05T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-trai-floats-paper-on-leverage-ai-big-data-for-sector.md",
       "title": "Trai floats paper on leverage AI, big data for sector",
       "excerpt": "As the market for AI and big data grows rapidly, its usage across sectors is also expanding. The telecom sector, for instance, can leverage AI and big data in areas such as quality of service, spectrum management and network security,",
@@ -1039,40 +1090,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-artificial-intelligence-shows-promise-in-diagnosing-strokes.md",
-      "title": "Artificial Intelligence Shows Promise in Diagnosing Strokes",
-      "excerpt": "This type of stroke is typically treated by endovascular therapy (EVT). During this procedure ... 19th Annual Meeting proposes using artificial intelligence (AI) technology to identify the cause of a stroke more quickly. The patient would undergo a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/clinical-and-molecular-dx/23276/artificial-intelligence-promise-diagnosing-strokes",
-      "originalUrl": "https://www.labroots.com/trending/clinical-and-molecular-dx/23276/artificial-intelligence-promise-diagnosing-strokes",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/clinical-and-molecular-dx/23276/artificial-intelligence-promise-diagnosing-strokes/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/clinical-and-molecular-dx/23276/artificial-intelligence-promise-diagnosing-strokes/amp",
-      "publishedDateTime": "2022-08-04T11:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

@@ -25,9 +25,9 @@ images:
     isCached: true
 
 related:
-  - title: "AI Language Skills Coax Google Robots Into the Real World"
-    excerpt: "Teaching robots to process language helps them navigate the complexities of a kitchen, not just a carefully controlled lab."
-    publishedDateTime: 2022-08-16T14:00:00Z
+  - title: "Google Teaches Robots to Understand You on a Human Level"
+    excerpt: "AI language skills let you command robots in plain English and help them navigate the chaos of the real world."
+    publishedDateTime: 2022-08-17T17:26:00Z
     webUrl: "https://www.cnet.com/tech/computing/ai-language-skills-coax-google-robots-into-the-real-world/"
     ampWebUrl: "https://www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/"
     cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/"
@@ -35,27 +35,25 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 106
+    quality: 89
     images:
       - url: "https://www.cnet.com/a/img/resize/fa16c58da5f935f2df3f3e9280845f5ec8f15b77/2022/08/16/2c7e4708-4dcc-4ecb-904e-5de08919629b/20220811-google-palm-saycan-robot-01.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200
         height: 630
         isCached: true
-  - title: "Google uses AI language models to improve home helper robots"
-    excerpt: "Researchers at Everyday Robots are tapping large-scale language models to help robots avoid misconstruing human communications in ways that might"
-    publishedDateTime: 2022-08-18T08:02:00Z
-    webUrl: "https://www.zdnet.com/article/google-uses-ai-language-models-to-improve-home-helper-robots/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-uses-ai-language-models-to-improve-home-helper-robots/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-uses-ai-language-models-to-improve-home-helper-robots/"
+  - title: "Move Over, Siri: Google Tips Robots That Can Actually Understand What You Want"
+    excerpt: "Teams at Google Research and Everyday Robots are teaching androids to make sense of natural language commands."
+    publishedDateTime: 2022-08-17T14:02:00Z
+    webUrl: "https://www.pcmag.com/news/move-over-siri-google-tips-robots-that-can-actually-understand-what-you"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 65
     images:
-      - url: "https://www.zdnet.com/a/img/resize/767cd3eb64bfcd005e721331322b11bb282d5231/2022/08/17/41088cc8-8d87-4f6b-a8c7-049ee79fa6e6/kitchen-robot-gettyimages.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 800
+      - url: "https://i.pcmag.com/imagery/articles/05BHO8P2HaVhuMFEa9c4ijk-1.fit_lim.size_1200x630.v1660729471.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Google adds AI language skills to Alphabet's helper robots"
     excerpt: "Google's parent company Alphabet is bringing together two of its most ambitious research projects — robotics and AI language understanding — in an attempt to make a \"helper robot\" that can"
@@ -89,15 +87,29 @@ related:
         width: 412
         height: 275
         isCached: true
-  - title: "Google enhances its home assistance robots using AI language models"
-    excerpt: "Large-scale language models are being used by Everyday Robots‘ research team to ensure that robots don’t misinterpret human speech and act inappropriately or even dangerously. SayCan (language models with real-world foundation in pre-trained skills) and PaLM (Pathways Language Model),"
-    publishedDateTime: 2022-08-18T12:24:00Z
-    webUrl: "https://bestgamingpro.com/google-enhances-its-home-assistance-robots-using-ai-language-models/"
+  - title: "Scientists Use Robot to Understand Ant Communication"
+    excerpt: "A team of scientists at the University of Bristol has developed a small robot that helps them understand how ants teach one another. The robot was built to mimic the behavior of rock ants, which rely on one-to-one tuition."
+    publishedDateTime: 2022-08-18T23:24:00Z
+    webUrl: "https://www.unite.ai/scientists-use-robot-to-understand-ant-communication/"
     type: article
     provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 19
+      name: unite
+      domain: unite.ai
+    quality: 39
+    images:
+      - url: "https://ml8ygptwlcsq.i.optimole.com/fMKjlhs.QRSi~1ce64/w:942/h:600/q:mauto/rt:fill/g:ce/https://www.unite.ai/wp-content/uploads/2022/08/ant-697329_1280.jpg"
+        width: 942
+        height: 600
+        isCached: true
+  - title: "Google is training its robots to be more like humans"
+    excerpt: "Researchers here at Google's lab recently asked a robot to build a burger out of various plastic toy ingredients."
+    publishedDateTime: 2022-08-17T09:50:09Z
+    webUrl: "https://www.iol.co.za/business-report/companies/google-is-training-its-robots-to-be-more-like-humans-34b2808d-1bf2-45ec-be3c-b6086ba42d0d"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 34
 
 secured: "ZViBcHIhxyq4fW/zYKdgsF78PbtsW3+ZsL7cobJtxHh0j3p8PKiVKLcjYDux9nxR9v5sMjrmNwTF7QoihagtsE1UQFz1Z3+Tze7EnhWzboJacj6VpV1UIE50oYXu5rIodnNztlpcEDSU2sU0NT4/gul3qSzMaTScyoozx9sQhbhRLxDpIt+GK0e3XBuMKQsV9ouiPX6x7gUAR5NFO3kD1mpr7WHG7Yysn0oGjGf2zq92AddIUUN8LWEfBXHStn89taJNjRDXE8PxF7IWy3NCVuzhuZ83+zpKWJWDKxFygbegaBw5sWS/AtuNouh7atboBE7bkmNnxbvvK7oOoROPfOw+TX+96dGqg1jNstUuim6rLcxwb71IMPcAO4/0/izNsprqj6eD7CdSGYAZg8C1efo+dpNB9c/cokcG8tGKvgyPFwkOnXYbL4OJpkTNCApTqGtRGFPsOeHljmjMbRWMnrsR+e0H7kGf7+K0qtrNHJckxyStjweSdm8tmZcZhSfhvLNlW7cZdk2G1mFKNBSWaw==;MdjdnVLTNphNS5Srq30kEQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/cloud-based-medical-
 webUrl: "https://aws.amazon.com/blogs/machine-learning/cloud-based-medical-imaging-reconstruction-using-deep-neural-networks/"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -27,17 +27,6 @@ images:
     width: 1258
     height: 630
     isCached: true
-
-related:
-  - title: "Superior phase recovery and hologram reconstruction using a deep neural network"
-    excerpt: "Deep learning has achieved benchmark results for various imaging tasks, including holographic microscopy, where an essential step is to recover the phase information of samples using intensity-only measurements."
-    publishedDateTime: 2022-08-16T13:12:00Z
-    webUrl: "https://techxplore.com/news/2022-08-superior-phase-recovery-hologram-reconstruction.html"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 15
 
 secured: "eabhykIJr6YuS9Ft4QWGLeDWgeJF4spMZ8kCiwqhtL4DTG6KbeB+VmvxR1AE8qUVB9vaWjUeVL5XNTF6UbVj+t8ql+/lqhe7czRpRm8uv5del5/3AXGxkby72Z/qdzurHBNytUg9zqf5uRu1sgU9OupjvegCAdDLEZNFW7jVGkVu3tyaRrX3gypN4RPFonKwBu3beHVf42naSxF9DyO5QJD06WMV/GU5FjeQ20muMOQxNqrcmR/7EbKoME/qVzGihcd+EyL/zttuvNPpwZ03syYHWty1g15qGwft4aNKq+/GVrhWesxVPplYTzwUcKVLLg43VDt26Ob9ieKQVYtBrlA4LufjARmweFBEngSLETU=;tzSn5jH1mB8QhtV0t4124w=="
 ---

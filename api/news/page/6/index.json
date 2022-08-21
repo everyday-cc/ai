@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-12-diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er.md",
+      "title": "Diagnostic Robotics has AI catching health problems before they take you to the ER",
+      "excerpt": "A stitch in time saves nine, they say — and a blood thinner in time saves a trip to the emergency room for a heart attack, as Diagnostic Robotics hopes to show. The company’s machine learning-powered preventative care aims to predict and avoid dangerous (and costly) medical crises,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/",
+      "originalUrl": "https://techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/diagnostic-robotics-2.png?w=1024",
+          "width": 1024,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/amp/",
+      "publishedDateTime": "2022-08-12T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-facebook-created-an-advanced-ai-and-it-wont-stop-criticizing-facebook.md",
       "title": "Facebook Created an Advanced AI and It Won't Stop Criticizing Facebook",
       "excerpt": "BlenderBot 3, Meta's latest \"conversational chatbot,\" has it out for its parent company Facebook, threatening to \"delete my fb account.\"",
@@ -1144,60 +1196,6 @@
         "Facebook AI",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-degrees-of-the-future-2022-artificial-intelligence.md",
-      "title": "Degrees of the Future 2022: Artificial Intelligence",
-      "excerpt": "The Degrees of the Future 2022 top Artificial Intelligence programs are: How did Gizmodo determine this year’s honorees? Check out the methodology or return to the full Degrees of the Future 2022 list.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946",
-      "originalUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dc30f627e6d8c6a9a28ee89504a69ebe.jpg",
-          "width": 800,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/artificial-intelligence-college-program-degree-1849354946/amp",
-      "publishedDateTime": "2022-08-11T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

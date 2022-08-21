@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-21-why-youve-never-heard-of-this-top-ai-company.md",
+      "title": "Why You’ve Never Heard Of This Top AI Company",
+      "excerpt": "with the only notable vendor-specific response (AWS SageMaker) trailing in the 5th spot. This doesn’t mean that companies aren’t using vendors for those open source implementations, not at all. This does mean that they aren’t focusing on the vendor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-heard-of-this-top-ai-company/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-heard-of-this-top-ai-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630176959a27f7799058f19a/0x0.jpg?format=jpg&crop=4153,2336,x0,y13,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-heard-of-this-top-ai-company/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-heard-of-this-top-ai-company/amp/",
+      "publishedDateTime": "2022-08-20T22:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-20-university-of-liverpool-crystal-complexity-tamed-by-machine-learning.md",
       "title": "University of Liverpool: Crystal Complexity Tamed by Machine Learning",
       "excerpt": "Researchers at the University of Liverpool, the University of Bristol, University College London (UCL), and Diamond Light Source have developed new understanding of gallium oxide by combining a machin",
@@ -194,7 +247,7 @@
       "originalUrl": "https://www.digitaljournal.com/pr/machine-learning-in-healthcare-market-next-big-thing-major-giants-deepmind-technologies-microsoft-nvidia-intel",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1428,50 +1481,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-in-simulation-of-how-water-freezes-artificial-intelligence-breaks-the-ice.md",
-      "title": "In simulation of how water freezes, artificial intelligence breaks the ice",
-      "excerpt": "Combining artificial intelligence and quantum mechanics, researchers have simulated what happens at the molecular level when water freezes. The result is the most complete yet simulation of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220808162234.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220808162234.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

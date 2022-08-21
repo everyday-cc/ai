@@ -60,17 +60,6 @@ related:
         width: 1365
         height: 768
         isCached: true
-  - title: "Wisconsin Health System Implements AI-Based Automation to Improve Operations"
-    excerpt: "Wisconsin-based ThedaCare has deployed artificial intelligence-based care operations automation software to enhance patient experience and outcomes."
-    publishedDateTime: 2022-08-16T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/wisconsin-health-system-implements-ai-based-automation-to-improve-operations"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/wisconsin-health-system-implements-ai-based-automation-to-improve-operations"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/wisconsin-health-system-implements-ai-based-automation-to-improve-operations"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 34
   - title: "Auditoria.Al Tops the Constellation ShortList of AI-Driven Cognitive Applications for the Third Year in a Row"
     excerpt: "As an AI-driven Cognitive ... such as Microsoft 365 and Google Workspace. Constellation Research advises leaders on leveraging disruptive technologies to achieve business model transformation and streamline business processes. Products and services named ..."
     publishedDateTime: 2022-08-17T15:06:00Z

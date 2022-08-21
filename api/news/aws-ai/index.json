@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-heard-of-this-top-ai-company/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -50,7 +50,8 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -301,7 +302,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/cloud-based-medical-imaging-reconstruction-using-deep-neural-networks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {

@@ -2,6 +2,58 @@
   "page": 122,
   "value": [
     {
+      "path": "_news/2022-05-17-human-centered-ai-book-review-a-roadmap-for-people-first-artificial-intelligence.md",
+      "title": "Human-Centered AI, book review: A roadmap for people-first artificial intelligence",
+      "excerpt": "As if. As Shneiderman writes in his new book, Human-Centered AI, he's somewhat modified his stance in the intervening years, giving greater weight to ending the tedium of performing the same tasks over and over. However, he remains sceptical that AI will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/human-centered-ai-book-review/",
+      "originalUrl": "https://www.zdnet.com/article/human-centered-ai-book-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/2bc742f40b259164cd692288cfd4dab0a17877dd/2022/05/17/e9b93a46-659a-4596-9497-944b9778a275/human-centred-ai-main.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 1781,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/human-centered-ai-book-review/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/human-centered-ai-book-review/",
+      "publishedDateTime": "2022-05-17T00:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-05-17-tableau-enhances-links-to-salesforce-ai-as-it-works-to-blend-more-into-ecosystem.md",
       "title": "Tableau enhances links to Salesforce AI as it works to blend more into ecosystem",
       "excerpt": "When Salesforce spent almost $16 billion to buy Tableau in 2019, it was getting a company with a goal of bringing data to the masses. As a cloud solution, it fits nicely into the growing Salesforce federation of cloud products and services.",
@@ -1066,49 +1118,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-elon-musk-brags-that-tesla-is-very-close-to-full-level-5-self-driving.md",
-      "title": "Elon Musk Brags That Tesla Is “Very Close” to Full, Level 5 Self Driving",
-      "excerpt": "The artificial intelligence systems used in self-driving ... have hurt operations and bottom lines for the likes of Tesla and Waymo — but it may have ended up highlighting the importance of ...",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/elon-musk-tesla-close-level-5-autonomy",
-      "originalUrl": "https://futurism.com/elon-musk-tesla-close-level-5-autonomy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2020/07/elon-musk-tesla-close-level-5-autonomy-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/elon-musk-tesla-close-level-5-autonomy/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/elon-musk-tesla-close-level-5-autonomy/amp",
-      "publishedDateTime": "2022-05-16T05:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

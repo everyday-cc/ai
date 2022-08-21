@@ -2,6 +2,58 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-08-08-google-sues-sonos-over-voice-control-technology.md",
+      "title": "Google Sues Sonos Over Voice Control Technology",
+      "excerpt": "Google is suing speaker-maker Sonos over alleged patent infringement. In two lawsuits filed in California federal court on Monday, Google alleges that Sonos' latest voice-assistant technology violates seven different patents that relate it's technology for Google Assistant.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/home-entertainment/google-sues-sonos-over-voice-control-technology/",
+      "originalUrl": "https://www.cnet.com/tech/home-entertainment/google-sues-sonos-over-voice-control-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/1ab8c1ec92e7e5a7577256e1cb142c4ea645c6e2/2022/04/15/32b089bd-0635-49e7-813b-e3d2410c60c1/google-logo-2022-443.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-sues-sonos-over-voice-control-technology/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-sues-sonos-over-voice-control-technology/",
+      "publishedDateTime": "2022-08-08T07:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-baidu-to-offer-robo-taxis-in-more-cities-alibaba-prepares-for-southbound-connect-eligibility.md",
       "title": "Baidu To Offer Robo Taxis In More Cities, Alibaba Prepares For Southbound Connect Eligibility",
       "excerpt": "Asian equity markets were largely higher on light summer volumes as Pakistan was closed for Ashura, an important Islamic holiday that occurs on the tenth day of Muharram, the first month in the lunar calendar.",
@@ -1096,49 +1148,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-07-sunak-promises-artificial-intelligence-in-schools-to-cut-teachers-workloads.md",
-      "title": "Sunak promises artificial intelligence in schools to cut teachers’ workloads",
-      "excerpt": "Rishi Sunak has said that as prime minister he would encourage the use of artificial intelligence (AI) technology in the classroom to reduce the workload on teachers. The promise to champion new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.co.uk/independentpremium/uk-news/sunak-truss-education-artificial-intelligence-conservatives-b2141652.html",
-      "originalUrl": "https://www.independent.co.uk/independentpremium/uk-news/sunak-truss-education-artificial-intelligence-conservatives-b2141652.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.independent.co.uk/2022/08/06/11/211ebc721a5af92d8aef148a9a7eebc8Y29udGVudHNlYXJjaGFwaSwxNjU5ODU4ODMz-2.68185792.jpg?quality=75&width=1200&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Independent",
-        "domain": "independent.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

@@ -44,15 +44,6 @@ related:
         width: 2000
         height: 1500
         isCached: true
-  - title: "Deepmind Launches SOTA Video Generation Framework, ‘Transframer’"
-    excerpt: "Deepmind researchers announced the launch of Transframer—a new general-purpose framework for image modelling and vision tasks based on probabilistic frame prediction."
-    publishedDateTime: 2022-08-16T13:22:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-launches-sota-video-generation-framework-transframer/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
 
 secured: "syTU8PU4PiyQL2U7JWoCrIU5TnhXuCg5OkW8P4bHP73w9kQl2Kw+cS28uMCGpBmtboKDauK0srBc/hLH5Gs/C/i/J3LF/jG6O1QQ/595eXAvFtrkl/ECpUs3U1Tgqe5BNCj0gb94WibYG8oQFNbvKFD1MudkTFyjzEVUFC9iyaHSnFbVcDsS/4Z2i2oa8Y5rnUPtp9YE2gYVrR6Blr8opCJmyegELz0MH21Or06dCqChhDl5WTGRoGnHXZjJhhrYXkjAvkf7HWMoiHYa/lfh3VMzeDYJF/8d1HrBK5itHgfo9U/GjlGcCb1T4QqlsieKHqOweUl8TUUoUmyWWt+l0hjGkiJECG51a4NMLjHr4GrNFu9ZkKbEkbHr9Pejxprmg07hMrYGQNUkIZK61LhbgXWNgUaey565jvZ6x/lZ0BDXEQuEhfDgBw6r7gLPLvFKI3hW01HFT3bLEcNKvZIZKKU1u4XgVo9oeLDF70Q+fCdG3+eq/jUVqM0/0wLiQYzZea7hUirr5eZfLJqoMcUhmg==;3ZPY6wsB7yhl0qCGXyg7dA=="
 ---

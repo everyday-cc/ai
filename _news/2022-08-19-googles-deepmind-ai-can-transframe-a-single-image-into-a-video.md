@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/technology/one-image-video-deepmind/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/one-image-video-deepmind/?amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -43,15 +43,6 @@ related:
         width: 600
         height: 315
         isCached: true
-  - title: "Deepmind Launches SOTA Video Generation Framework, ‘Transframer’"
-    excerpt: "Deepmind researchers announced the launch of Transframer—a new general-purpose framework for image modelling and vision tasks based on probabilistic frame prediction."
-    publishedDateTime: 2022-08-16T13:22:00Z
-    webUrl: "https://analyticsindiamag.com/deepmind-launches-sota-video-generation-framework-transframer/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 19
 
 secured: "nAhNEJ0CEp0cJlH/vKNj+vyCX0E3XQrk3YVFCzbvG25dlu0Yd5p3cwjpqDaqbI9yFVwJp2hZKnP6+5pBqDbUqWJt76tcUYO4ujtP+kaTKRtEyWZaN19/y/jyz8e+Z43pk3+FToNcq9F4d/4mvkv1C7FylA2kw69VMFZbwXqMVuN7dgDBIUnpf36l2RRispVND1TeuKquFUQSrlVA1DYMBBEiNAhq9lSkipMbym/5XveiqpddS6QSCqdV6OiTNnhxE6CHkdxmyUuv28BDarHm7u75DAE+aTTxb9GCmRgJjZFKx32Xsy9MFOPBUvJt/K1tjwvjsskCrlgZXFEs1GDqwjIqlXkQp9WhCLDqPwQrJ+6/A4Nd21K9464zGnTJBwAGLAOBuW7EqtKjsaVV5MxV5RL+sHolusOaBLQgsn6Nu7o4Ij0cJ4VdovZDA4EUuRMlpN9IEv6DcE/DcFbd/g2l7+DHXEgiU+FZZqprDb3dtOXQ1T9QcspBWNc4CXJeILqPoSX0F6SMtCDAEokwrm3jmg==;lwzZCou85pHU8ABVLi8Gdw=="
 ---

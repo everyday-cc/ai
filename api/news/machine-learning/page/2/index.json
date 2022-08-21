@@ -2,6 +2,50 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-08-in-simulation-of-how-water-freezes-artificial-intelligence-breaks-the-ice.md",
+      "title": "In simulation of how water freezes, artificial intelligence breaks the ice",
+      "excerpt": "Combining artificial intelligence and quantum mechanics, researchers have simulated what happens at the molecular level when water freezes. The result is the most complete yet simulation of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220808162234.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220808162234.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-07-8-ultimate-ai-projects-for-beginners.md",
       "title": "8 Ultimate AI Projects for Beginners",
       "excerpt": "So you have decided to take an Artificial Intelligence (AI) course to stay relevant in an increasingly digital",
@@ -1369,58 +1413,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-deep-learning-market-2022-key-facts-dynamics-segments-and-forecast-predictions-presented-2030.md",
-      "title": "Deep Learning Market 2022 Key Facts, Dynamics, Segments and Forecast Predictions Presented 2030",
-      "excerpt": "Deep Learning Market Size, Share & Trends Analysis - Global Opportunity Analysis And Industry Forecast 2022- 2030, Covid 19 Outbreak Impact research report added by Quadintel, is an in-depth analysis of market characteristics,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2022-key-facts-dynamics-segments-and-forecast-predictions-presented-2030-2022-07-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-2022-key-facts-dynamics-segments-and-forecast-predictions-presented-2030-2022-07-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T06:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

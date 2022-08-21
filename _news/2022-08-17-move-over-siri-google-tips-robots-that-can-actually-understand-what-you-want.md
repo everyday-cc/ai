@@ -45,19 +45,37 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Google is training its robots to be more like humans"
-    excerpt: "In a drab Google office park in Silicon Valley, robots are going to school, using AI algorithms to learn how to play ping pong and clean up after humans."
-    publishedDateTime: 2022-08-16T15:00:00Z
-    webUrl: "https://www.washingtonpost.com/technology/2022/08/16/google-ai-robot-school/"
+  - title: "Google adds AI language skills to Alphabet's helper robots"
+    excerpt: "Google's parent company Alphabet is bringing together two of its most ambitious research projects — robotics and AI language understanding — in an attempt to make a \"helper robot\" that can"
+    publishedDateTime: 2022-08-17T05:42:00Z
+    webUrl: "https://www.jamaicaobserver.com/business/google-adds-ai-language-skills-to-alphabets-helper-robots/"
+    ampWebUrl: "https://www.jamaicaobserver.com/business/google-adds-ai-language-skills-to-alphabets-helper-robots/amp/"
+    cdnAmpWebUrl: "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/business/google-adds-ai-language-skills-to-alphabets-helper-robots/amp/"
     type: article
     provider:
-      name: Washington Post
-      domain: washingtonpost.com
-    quality: 54
+      name: The Jamaica Observer
+      domain: jamaicaobserver.com
+    quality: 57
     images:
-      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://d1i4t8bqe7zgj6.cloudfront.net/08-16-2022/t_8173f0650bed4af9b812985bca0bb96e_name_google_bot_2.jpg&w=1440"
-        width: 1440
-        height: 810
+      - url: "https://imengine.public.prod.jam.navigacloud.com/?uuid=a8cc7452-d1df-5010-a16b-3d5ccc5e6eda&function=fit&type=preview"
+        width: 500
+        height: 333
+        isCached: true
+  - title: "Google's parent Alphabet adds AI language skills to helper robots"
+    excerpt: "Google's parent company Alphabet is bringing together two of its most ambitious research projects -- robotics and AI language understanding -- to make a \"helper robot\" that can understand natural language commands."
+    publishedDateTime: 2022-08-17T04:17:00Z
+    webUrl: "https://www.businessinsider.in/tech/news/googles-parent-alphabet-adds-ai-language-skills-to-helper-robots/articleshow/93608687.cms"
+    ampWebUrl: "https://www.businessinsider.in/tech/news/googles-parent-alphabet-adds-ai-language-skills-to-helper-robots/amp_articleshow/93608687.cms"
+    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/googles-parent-alphabet-adds-ai-language-skills-to-helper-robots/amp_articleshow/93608687.cms"
+    type: article
+    provider:
+      name: Business Insider India
+      domain: businessinsider.in
+    quality: 57
+    images:
+      - url: "https://www.businessinsider.in/thumb/93608834.cms?height=275&width=412"
+        width: 412
+        height: 275
         isCached: true
   - title: "Scientists Use Robot to Understand Ant Communication"
     excerpt: "A team of scientists at the University of Bristol has developed a small robot that helps them understand how ants teach one another. The robot was built to mimic the behavior of rock ants, which rely on one-to-one tuition."
@@ -82,6 +100,20 @@ related:
       name: IOL News
       domain: iol.co.za
     quality: 34
+  - title: "Google gives helper robots language skills to understand humans better"
+    excerpt: "Researchers at Google believe large language models can help robots respond to more complex and abstract requests from humans."
+    publishedDateTime: 2022-08-17T07:21:00Z
+    webUrl: "https://www.siliconrepublic.com/machines/google-robots-alphabet-large-language-models"
+    type: article
+    provider:
+      name: SiliconRepublic
+      domain: siliconrepublic.com
+    quality: 24
+    images:
+      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/08/helper-robot-2.png"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "NgDWl0w+/mCRPuHYz6ExgB9EbXqFdSKwOokp4mG22lNrGpPZbx1Yfuhy+/w9DlKHt6ATjFIbSgHJqjz8ADzQhYMtEoEWo/tnYYFraUJodXUsFV13/VSxaXvLwg/nVjQnHpk4WbGe9XHHdXIQE6AUXYbeuzE3ynLDKmkw+v/Wwn3gfBp+UbB+rMGDRRFHYcWzSyvGZRJkjltRQEwh+M5IZ4KUgTFu+RD9bKHB3Nlel36uFjqRotsWL/FAN5Mz0YahrHCtXA9Y1EGhRqztXIX7ooHHPSLfTbUYVV7FMKPGRDgS9ymyvU6Oep+5EtF3bb8vYxQsTR3enrURYcFrPIU8uZSjF+t3JkRy+S57hHEgchwA/YAra7m8ExaEVSoJVBXPpQwHWLz/Qcsvy+QyBm0XONpSE2j8PYRweHNoKUyXtkK1zQD6A0dUgHlM9rTie7zrGzrns+TfHn6Hd4J5/kvQbzUgrgHd+kHHwLnlrKldkSuRSsmvC1VryyzCjS5AQinn4PIVhHyxUwHs7em5Y2XRpg==;X6LodiQafd584gBQGFhoJA=="
 ---

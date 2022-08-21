@@ -592,6 +592,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-15-meet-brillo-the-robot-bartender-for-when-youre-tired-of-human-interaction.md",
+      "title": "Meet BRILLO: The robot bartender for when you're tired of human interaction",
+      "excerpt": "Have you ever wanted all the benefits of going to a bar without having to talk to the actual human being serving your drinks? You're in luck, because Italian scientists at the University of Naples Federico II have developed a machine that can do just that.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/brillo-the-italian-bartending-robot?taid=62f9b6d26c26260001912630",
+      "originalUrl": "https://mashable.com/article/brillo-the-italian-bartending-robot?taid=62f9b6d26c26260001912630",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/00yOu5puoFrfaLCQqs3F1Ua/hero-image.fill.size_1200x675.v1660488402.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-14T19:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-15-the-new-artificial-intelligence-supply-chain-happiness-ecosystemsblog-series-1.md",
       "title": "The New Artificial Intelligence Supply Chain: Happiness Ecosystems(Blog Series #1)",
       "excerpt": "Happiness Ecosystems and identifies the facts accelerating the importance of happiness and underscores the leadership imperative to build stronger corporate cultures, processes and practices to accelerate the growth of Happiness Production Systems.",
@@ -1167,58 +1210,6 @@
         "AI Ethics",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er.md",
-      "title": "Diagnostic Robotics has AI catching health problems before they take you to the ER",
-      "excerpt": "A stitch in time saves nine, they say — and a blood thinner in time saves a trip to the emergency room for a heart attack, as Diagnostic Robotics hopes to show. The company’s machine learning-powered preventative care aims to predict and avoid dangerous (and costly) medical crises,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/",
-      "originalUrl": "https://techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/diagnostic-robotics-2.png?w=1024",
-          "width": 1024,
-          "height": 719,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/amp/",
-      "publishedDateTime": "2022-08-12T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

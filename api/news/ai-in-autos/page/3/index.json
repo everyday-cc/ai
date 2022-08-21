@@ -2,58 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-08-02-should-self-driving-cars-come-with-black-box-recorders.md",
-      "title": "Should self-driving cars come with black box recorders?",
-      "excerpt": "As technology advances, an international team of experts suggests that autonomous vehicles and robots should come equipped with a black box.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/08/01/should-self-driving-cars-come-with-black-box-recorders/",
-      "originalUrl": "https://venturebeat.com/2022/08/01/should-self-driving-cars-come-with-black-box-recorders/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1162108935-NatalyaBurova.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/08/01/should-self-driving-cars-come-with-black-box-recorders/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/01/should-self-driving-cars-come-with-black-box-recorders/amp/",
-      "publishedDateTime": "2022-08-01T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-02-self-driving-truck-accident-draws-attention-to-safety-at-tusimple.md",
       "title": "Self-Driving Truck Accident Draws Attention to Safety at TuSimple",
       "excerpt": "For example, a safety driver—a person who sits in the truck to backstop the artificial intelligence—should never be able to engage a self-driving system that isn’t properly functioning ...",
@@ -1358,6 +1306,49 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-07-27T06:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence.md",
+      "title": "Sony AI Wins 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence",
+      "excerpt": "Sony AI, established with the mission to unleash human imagination and creativity with artificial intelligence (AI), today announced that it has received the 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence (AI) for its recent breakthrough in AI,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T05:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Associated Press",

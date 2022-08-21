@@ -2,6 +2,49 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2022-06-06-from-e-commerce-to-omnichannel-consumers-drive-retails-digital-transformation-in-mea.md",
+      "title": "From e-commerce to Omnichannel, Consumers Drive Retail’s Digital Transformation in MEA",
+      "excerpt": "By Ola Williams The pandemic left little room for error when it came to adapting to the new normal. For retail this meant e-commerce experienced a renaissance, “omnichannel” received a lot of",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2022/06/06/from-e-commerce-to-omnichannel-consumers-drive-retails-digital-transformation-in-mea/",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2022/06/06/from-e-commerce-to-omnichannel-consumers-drive-retails-digital-transformation-in-mea/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/0b19560d-img-20220607-wa0004.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-ai-translates-maths-problems-into-code-to-make-them-easier-to-solve.md",
       "title": "AI translates maths problems into code to make them easier to solve",
       "excerpt": "An artificial intelligence that can turn mathematical concepts written in English into a formal proving language for computers could make problems easier for other AIs to solve",
@@ -1098,58 +1141,6 @@
         "AI",
         "Microsoft AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-complete-guide-to-understanding-facial-biometrics-should-you-be-scared.md",
-      "title": "Complete Guide to Understanding Facial Biometrics: Should You Be Scared?",
-      "excerpt": "Or are we afraid that facial recognition might be utilized for \"precrime\" identification or an alternative form of big brother government surveillance? Probably not. As a new technology ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/426334",
-      "originalUrl": "https://www.entrepreneur.com/article/426334",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1653401552-shutterstock-783409390.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.entrepreneur.com/article/426334",
-      "cdnAmpWebUrl": "https://www-entrepreneur-com.cdn.ampproject.org/c/s/www.entrepreneur.com/article/426334",
-      "publishedDateTime": "2022-06-04T08:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

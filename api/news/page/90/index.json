@@ -2,6 +2,49 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2022-06-09-baidus-first-car-will-target-tesla-model-y-executive.md",
+      "title": "Baidu’s first car will target Tesla Model Y: executive",
+      "excerpt": "Baidu’s electric vehicle (EV) subsidiary Jidu Auto unveiled its first concept car on Wednesday, with representatives promising the model will be 90%",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2022/06/09/baidus-first-car-will-target-tesla-model-y-executive/",
+      "originalUrl": "https://technode.com/2022/06/09/baidus-first-car-will-target-tesla-model-y-executive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
+          "width": 540,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2022/06/09/baidus-first-car-will-target-tesla-model-y-executive/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/06/09/baidus-first-car-will-target-tesla-model-y-executive/",
+      "publishedDateTime": "2022-06-08T23:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-insilico-medicine-plans-to-launch-a-fully-automated-ai-driven-robotics-lab-for-drug-discovery.md",
       "title": "Insilico Medicine plans to launch a fully automated AI-driven robotics lab for drug discovery",
       "excerpt": "Insilico Medicine's end-to-end AI-driven drug discovery platform, Pharma.AI, draws its strength from the quality and quantity of its data. As Insilico scientific advisory board member and Nobel Prize laureate in chemistry Dr.",
@@ -1045,49 +1088,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-video-better-screening-for-cognitive-issues-needed.md",
-      "title": "VIDEO: Better screening for cognitive issues needed",
-      "excerpt": "Forester BP, et al. Enhancing clinical care and collaboration with aging patients: Geriatric psychiatry and new models of care. Presented at: American Psychiatric Association annual meeting; May ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healio.com/news/psychiatry/20220608/video-better-screening-for-cognitive-issues-needed",
-      "originalUrl": "https://www.healio.com/news/psychiatry/20220608/video-better-screening-for-cognitive-issues-needed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.healio.com/~/media/images/fscss/i3wyanokecdncom/healio_safe_image.png",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healio",
-        "domain": "healio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

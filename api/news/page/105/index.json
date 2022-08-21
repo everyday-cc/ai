@@ -2,6 +2,60 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2022-05-30-human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success.md",
+      "title": "Human Vs. Artificial Intelligence: Why Finding The Right Balance Is Key To Success",
+      "excerpt": "In short, now that we have increasingly capable robots and artificial intelligence (AI) systems – capable of taking on tasks that were previously the sole domain of humans – it’s easier than ever for organizations to leverage intelligent machines.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/",
+      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//629450cfe45063944fd631b9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/amp/",
+      "publishedDateTime": "2022-05-29T22:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-05-30-traffic-jams-just-a-maths-problem-says-israeli-artificial-intelligence-firm.md",
       "title": "Traffic jams just a maths problem, says Israeli Artificial Intelligence firm",
       "excerpt": "Israel's traffic congestion ranks near the worst among developed economies but an algorithm can help, says one of the country's IT firms engaged in the auto and mobility sector.",
@@ -1054,41 +1108,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation.md",
-      "title": "Microsoft (MSFT) Azure Selected by Meta to Boost AI Innovation",
-      "excerpt": "Thus, using Azure will enable Meta with faster distributed AI training. The Meta- Microsoft collaboration ... learning workloads compared with the company’s last-generation chips — AWS Graviton2 processors. While C7g instances offer enhanced ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation",
-      "originalUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-selected-by-meta-to-boost-ai-innovation?amp",
-      "publishedDateTime": "2022-05-27T08:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

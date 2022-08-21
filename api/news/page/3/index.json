@@ -2,6 +2,58 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-18-ai-vs-ml-artificial-intelligence-and-machine-learning-overview.md",
+      "title": "AI vs. ML: Artificial Intelligence and Machine Learning Overview",
+      "excerpt": "In 1982, John Hopfield showed that a neural network could process information in far more advanced ways. Various forms of AI began to take shape, and the first artificial neural network (ANN ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/enterprise-apps/ai-vs-ml/",
+      "originalUrl": "https://www.eweek.com/enterprise-apps/ai-vs-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-DSOM-Image02-800x800-1.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-intel-vp-talks-ai-strategy-as-company-takes-on-nvidia.md",
       "title": "Intel VP talks AI strategy as company takes on Nvidia",
       "excerpt": "Intel is on an AI mission to compete in the AI software and hardware space, according to Wei Li, VP and GM of AI and analytics at Intel.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/ai/intel-vp-talks-ai-strategy-as-company-takes-on-nvidia/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 119,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -209,7 +261,7 @@
       "originalUrl": "https://www.cnet.com/tech/computing/ai-language-skills-coax-google-robots-into-the-real-world/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 149,
       "tags": null,
       "images": [
         {
@@ -600,7 +652,7 @@
       "originalUrl": "https://techbullion.com/top-4-ai-based-face-recognition-applications/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 136,
+      "heat": 126,
       "tags": null,
       "images": [
         {
@@ -801,7 +853,7 @@
       "originalUrl": "https://in.mashable.com/tech/36870/ok-google-get-me-a-soda-take-a-look-at-the-ai-giant-soda-fetching-robots",
       "featuredContent": null,
       "highlight": null,
-      "heat": 127,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1042,7 +1094,7 @@
       "originalUrl": "https://www.newindianexpress.com/cities/hyderabad/2022/aug/17/digiyatra-hyderabad-international-airport-rolls-out-facial-recognition-2488337.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -1170,49 +1222,6 @@
         "AI",
         "AWS AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-remote-communities-in-sask-get-advanced-healthcare-thanks-to-ai-project.md",
-      "title": "Remote communities in Sask. get advanced healthcare thanks to AI project",
-      "excerpt": "An artificial intelligence (AI) project is expanding healthcare for remote communities in Saskatchewan. Synthesis Health has delivered portable x-ray machines to Peter Ballantyne Cree Nation. According to the company’s chief medical officer,",
-      "sourceUrl": null,
-      "webUrl": "https://saskatoon.ctvnews.ca/mobile/remote-communities-in-sask-get-advanced-healthcare-thanks-to-ai-project-1.6029570",
-      "originalUrl": "https://saskatoon.ctvnews.ca/mobile/remote-communities-in-sask-get-advanced-healthcare-thanks-to-ai-project-1.6029570",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/local/saskatoon/2022/8/16/1_6029570/_jcr_content/root/responsivegrid/image.coreimg.png",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/local/saskatoon/2022/8/16/1_6029570.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/saskatoon/2022/8/16/1_6029570.amp.html",
-      "publishedDateTime": "2022-08-16T15:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

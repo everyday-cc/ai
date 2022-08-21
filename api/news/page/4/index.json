@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-17-remote-communities-in-sask-get-advanced-healthcare-thanks-to-ai-project.md",
+      "title": "Remote communities in Sask. get advanced healthcare thanks to AI project",
+      "excerpt": "An artificial intelligence (AI) project is expanding healthcare for remote communities in Saskatchewan. Synthesis Health has delivered portable x-ray machines to Peter Ballantyne Cree Nation. According to the company’s chief medical officer,",
+      "sourceUrl": null,
+      "webUrl": "https://saskatoon.ctvnews.ca/mobile/remote-communities-in-sask-get-advanced-healthcare-thanks-to-ai-project-1.6029570",
+      "originalUrl": "https://saskatoon.ctvnews.ca/mobile/remote-communities-in-sask-get-advanced-healthcare-thanks-to-ai-project-1.6029570",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/local/saskatoon/2022/8/16/1_6029570/_jcr_content/root/responsivegrid/image.coreimg.png",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/saskatoon/2022/8/16/1_6029570.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/saskatoon/2022/8/16/1_6029570.amp.html",
+      "publishedDateTime": "2022-08-16T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-cloud-based-medical-imaging-reconstruction-using-deep-neural-networks.md",
       "title": "Cloud-based medical imaging reconstruction using deep neural networks",
       "excerpt": "Medical imaging techniques like computed tomography (CT), magnetic resonance imaging (MRI), medical x-ray imaging, ultrasound imaging, and others are commonly used by doctors for various reasons. Some examples include detecting changes in the appearance of organs, tissues, and vessels, and detecting",
@@ -10,7 +53,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/cloud-based-medical-imaging-reconstruction-using-deep-neural-networks/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -62,7 +105,7 @@
       "originalUrl": "https://markets.businessinsider.com/news/stocks/datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database-platforms-1031688288",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": 94,
       "tags": null,
       "images": [
         {
@@ -199,49 +242,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-artificial-intelligence-can-explain-why-each-covid-19-wave-impacts-people-differently.md",
-      "title": "Artificial intelligence can explain why each COVID-19 wave impacts people differently",
-      "excerpt": "Researchers have identified what they believe to be robust metabolic markers of COVID, a discovery that could lead to better understanding and treatments for people that suffer from symptoms of the disease months after diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-08-artificial-intelligence-covid-impacts-people.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-08-artificial-intelligence-covid-impacts-people.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/covid.jpg",
-          "width": 2880,
-          "height": 1620,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-08-artificial-intelligence-covid-impacts-people.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-covid-impacts-people.amp",
-      "publishedDateTime": "2022-08-16T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
       ]
     },
     {

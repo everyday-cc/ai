@@ -47,20 +47,6 @@ related:
         width: 1260
         height: 710
         isCached: true
-  - title: "Reltio Announces the Reltio Connected Data Platform Integrates with Microsoft Azure Marketplace"
-    excerpt: "Reltio, a cloud-native, SaaS Master Data Management (MDM) enterprise, is announcing the launch of the Reltio Connected Data Platform in the Microsoft Azure Marketplace, integrating Reltio streamlined deployment and management properties with the advantages of the Azure cloud platform."
-    publishedDateTime: 2022-08-16T14:27:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Reltio-Announces-the-Reltio-Connected-Data-Platform-Integrates-with-Microsoft-Azure-Marketplace-154395.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 42
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "GE1FRrv2MjN9klAFaXgLDW9F7NtRpEP+7t2QhocawDwWgz95F6Buvn80EyR1DLCndvw+InpJUM1D7+A3lqsVbJaJtsbkzp+l1iQWPprmf3dBlVK65HY2SENPIlSZNMGubwJrG4O9+r0ODvbRIfRBD69V8WtXPNjOHu9kY+U24/lavByNJe/V5WT6Mee2CSm3FcD0dNxEsL6LTmPW5jJYrmiLzBn4ndVN/xMtU47GNa3VKJrNuJciGAN1lGmvUuH75ocxxK6W6uEgE68X593vm9wh4W0OLhqjtqC67FU4hsBz6LBJMWff71HN6vQDkc2qFqNvCBMiN8hk6SsWrJ2FQ6I/TSciZ85qqpQW/zH1nrysKqHPSHGbcDCbxo2mKDG0i29pd634eNb5ZVAHAq0nICRdE8XaWgKQxd6BKklDlUSYXeXAva0fpERZNxtrLFlgfmQQbnbxCs0cRiej5EM6NL4qMqC5cbjbaFH9Bej+AwiAOiH6fRFvRDubIInpahbfc+bN4Ugm/nJU39iUS7fz3g==;pfsh/gUnmhpYOketQWduhQ=="
 ---

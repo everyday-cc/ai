@@ -49,15 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Hayden AI Joins NVIDIA Metropolis to Power Its Computer Vision Platform"
-    excerpt: "NVIDIA Metropolis nurtures a rich ecosystem and offers powerful developer tools to supercharge vision AI applications that are designed to make the world’s most important spaces and operations ..."
-    publishedDateTime: 2022-08-16T13:12:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/hayden-ai-joins-nvidia-metropolis-to-power-its-computer-vision-platform/article_0c9dd935-79d7-54a7-9b67-f47d0f97ff8c.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 34
 
 secured: "Mh/mST4uIGhP6sZcEbiZO+uo1xn1yfl5FKNItWWG2UCbQrz5znbyTBQz7Qj1jrf0f6c6UveXNy8Czlt5EToGtkSJEnrRf3ms+DSJ/aArgcXxlNS08dQCKvtFkpR2VAuaRVHcnSVr+gp+Lt7DxN1AlW9JDjfHpYqiRIuomgzbrf/jWUUjPYyfh3QhvwsDnMkQcPumkSdu5YRM5VvV9/z6VexNpfWExjI9OuYJiCYPqTuvBVdgYAtHVcqmjHKbBmGedWDUvWoFGRf2bajj8feP7GRgENy68WAfl6wcxSfIJJO18bF5jZpzCUL3Ql/aaFCBzvSYTTYxtRhW3MpA5fWHYcxryN4HqYtvCI4tR4OimbV/0c55Tb0EPzHuvFA0iue4OFIdmQhBy+18CjxmvxZBGeoC9M/TtQwKYtMg4B90HNiWZZm06Aj0RZHJZ2LZlNFBqaGIZnQ0O4MzaDczbWDyqLCkSO7EpB3UeXfNZkW9NMVElVeNEoNzmpqkjFgsN0+LSQpptRPoK8S1tjgyngjenw==;tSEEui4gquY+Xd1ku5eoxg=="
 ---

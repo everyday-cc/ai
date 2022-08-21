@@ -41,15 +41,6 @@ related:
         width: 1024
         height: 684
         isCached: true
-  - title: "Hayden AI Joins NVIDIA Metropolis to Power Its Computer Vision Platform"
-    excerpt: "NVIDIA Metropolis nurtures a rich ecosystem and offers powerful developer tools to supercharge vision AI applications that are designed to make the world’s most important spaces and operations ..."
-    publishedDateTime: 2022-08-16T13:12:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/hayden-ai-joins-nvidia-metropolis-to-power-its-computer-vision-platform/article_0c9dd935-79d7-54a7-9b67-f47d0f97ff8c.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 34
   - title: "Vision Elements Joins NVIDIA Partner Network as an AI Solution Advisor Consultant"
     excerpt: "Vision Elements (VE), a leading computational and AI software development firm, today announced it has joined the NVIDIA Partner Network as an AI Solution Advisor Consultant partner. Already part of the NVIDIA Inception and Metropolis programs,"
     publishedDateTime: 2022-08-18T12:35:00Z

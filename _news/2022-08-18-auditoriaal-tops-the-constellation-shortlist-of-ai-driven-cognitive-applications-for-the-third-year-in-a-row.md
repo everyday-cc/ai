@@ -51,17 +51,6 @@ related:
         width: 1365
         height: 768
         isCached: true
-  - title: "Wisconsin Health System Implements AI-Based Automation to Improve Operations"
-    excerpt: "Wisconsin-based ThedaCare has deployed artificial intelligence-based care operations automation software to enhance patient experience and outcomes."
-    publishedDateTime: 2022-08-16T13:30:00Z
-    webUrl: "https://healthitanalytics.com/news/wisconsin-health-system-implements-ai-based-automation-to-improve-operations"
-    ampWebUrl: "https://healthitanalytics.com/news/amp/wisconsin-health-system-implements-ai-based-automation-to-improve-operations"
-    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/wisconsin-health-system-implements-ai-based-automation-to-improve-operations"
-    type: article
-    provider:
-      name: Analytics
-      domain: healthitanalytics.com
-    quality: 34
   - title: "AI In Aviation Market Size and Growth 2022 Analysis Report by Types, Opportunities, Future Plans, Types, Application and Forecast to 2028"
     excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI In Aviation Market” 2022"
     publishedDateTime: 2022-08-18T07:29:00Z

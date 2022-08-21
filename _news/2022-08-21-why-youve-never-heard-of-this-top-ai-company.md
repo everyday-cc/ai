@@ -8,8 +8,8 @@ webUrl: "https://www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-
 ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-heard-of-this-top-ai-company/amp/"
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-heard-of-this-top-ai-company/amp/"
 type: article
-quality: 89
-heat: 89
+quality: 91
+heat: 91
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://imageio.forbes.com/specials-images/imageserve/630176959a27f7799058f19a/0x0.jpg?format=jpg&crop=4153,2336,x0,y13,safe&width=1200"
@@ -30,6 +31,6 @@ images:
     height: 675
     isCached: true
 
-secured: "Jm+4YKo3ysdBeVlDUJR0BTmt+M58BSkxuV7kVxEWMGdsESKgMRFWRrfMkmSwZpypFBiKqVuT2Yq5sPBLAidCdsszCcpk2zzlDuWABaWFO2BsaoceiDiSmCp9s4tX/fVv+YZyZIeZ6wToG/UIHLA2rH3Rk+xtf/RekxvTojqUkfCJt7KeBrZwMRmo5EJxSJOC01+36inCFr/NPktno+0XqHjNr4FyY2qQUm2Q193+6VPbL8Qtt8ZlGZmBZlF7VOU6xrnUGzxacaAVKoU2qA49NUJVHb3ajkpFYuQCWDHRcsyD3acU9tFlUG6o7smNPaS4vUjcJkzrwfTyIypaoDT1S8mivc6uiadvybM2YlPUxoM=;1FibPzk9K9tMsu/5bXSQ9w=="
+secured: "tb1FZQus2o5mI2jmKzpUBe5fkXstEqTvsyBYE81S1SjFWSmoh+vTsvHokzFItZ6o8L63HNYHIVlfXolHqX4UDgU7QcnjBlzskhFEtVRlnIgTWFgFrEWYlmcndad9O6QdONW9VtHJ1abzsfenCnP30TjC8VEt+e/qsTH6lCwraBrP2r2YMag2UjQI7i0z4JVG10sPvP2fbUQNne6kMWAggQCpC8thsD06dGa+dfb6pdZomliz5VN2dJ+mHaymEhUfT773V/Ob/oWYJkQfNX80syHbrx89vL8KJ8Lem710l6HGCDKUqOF1VRaSo/5n0qO2MV2lOfxpl0zDJ3PS0zsvzZhuNfK2YFkG0CXMdhUKPwziSEl/Cqj688IE7YoTyPD59C1Zp0/N39zAJBvnH1KvkApcDox0CmZESiSdBIvEjPucVU64VHwkaXNbFeuDqlz3Vb1L4Ga57mQkQgJ/ypc1DRb/lTtNrlbWDnzOjKIkSzYupRMdGdBdRRLeho6DnUda/5Yxx5+ghver/stLhmBoHw==;6irBNiO1G3qX7W13RDOz2w=="
 ---
 
