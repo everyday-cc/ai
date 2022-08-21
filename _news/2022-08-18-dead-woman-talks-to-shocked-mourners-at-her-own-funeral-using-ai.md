@@ -40,22 +40,6 @@ related:
         width: 1024
         height: 575
         isCached: true
-  - title: "Is AI the answer?"
-    excerpt: "The algorithm used in the Multicentre Epilepsy Lesion Detection project (MELD), reports the locations of abnormalities in cases of drug-resistant focal cortical dysplasia (FCD), a major cause of epilepsy,"
-    publishedDateTime: 2022-08-17T00:30:00Z
-    webUrl: "https://bangaloremirror.indiatimes.com/opinion/you/is-ai-the-answer/articleshow/93600317.cms"
-    ampWebUrl: "https://bangaloremirror.indiatimes.com/opinion/you/is-ai-the-answer/amp_articleshow/93600317.cms"
-    cdnAmpWebUrl: "https://bangaloremirror-indiatimes-com.cdn.ampproject.org/c/s/bangaloremirror.indiatimes.com/opinion/you/is-ai-the-answer/amp_articleshow/93600317.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://static.toiimg.com/thumb/93600314.cms?resizemode=4&width=400"
-        width: 400
-        height: 300
-        isCached: true
   - title: "AI makes dead woman talk at her own funeral. 5 technologies bringing the dead back to life"
     excerpt: "Losing a loved one can be devastating. Our cultures and religions help us get through the loss using rituals such as funerals, memorials etc. But now, there is one more addition that promises to help us grieve better."
     publishedDateTime: 2022-08-17T08:13:00Z

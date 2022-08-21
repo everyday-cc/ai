@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-set-for-rapid-growth-by-2029-2022-08-17"
 type: article
 quality: 99
-heat: 129
+heat: 139
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Europe Artificial Intelligence (AI) in Healthcare Market to Witness Growth Acceleration During 2022-2027"
+    excerpt: "Pune, India -The artificial intelligence in healthcare market in Europe is expected to grow from US$ 1,368.59 million in"
+    publishedDateTime: 2022-08-19T09:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-ai-in-healthcare-market-to-witness-growth-acceleration-during-2022-2027-2022-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "C3.ai, Inc. (AI) Stock Sinks As Market Gains: What You Should Know"
     excerpt: "Wall Street will be looking for positivity from C3.ai, Inc. as it approaches its next earnings report date. This is expected to be August 31, 2022. The company is expected to report EPS of -$0.26, down 13."
     publishedDateTime: 2022-08-18T22:00:00Z

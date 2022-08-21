@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theaustralian.com.au/nation/call-to-halt-gambler-facial-
 cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/nation/call-to-halt-gambler-facial-recognition/news-story/2b0f62ff431f3cc300190b53cc8c8f02"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Groups have questions about how facial recognition technology impact Black people"
-    excerpt: "The ACLU and others question the negative impact facial recognition technology Black people and communities of color."
-    publishedDateTime: 2022-08-19T15:50:00Z
-    webUrl: "https://thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/"
-    ampWebUrl: "https://thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/amp/"
-    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/amp/"
-    type: article
-    provider:
-      name: The Grio
-      domain: thegrio.com
-    quality: 56
-    images:
-      - url: "https://thegrio.com/wp-content/uploads/2019/12/Facial-Recognition.jpg"
-        width: 1250
-        height: 805
-        isCached: true
   - title: "Facial recognition: UK plans to monitor migrant offenders are unethical—and they won't work"
     excerpt: "One afternoon in our lab, my colleague and I were testing our new prototype for a facial recognition software on a laptop. The software used a video camera to scan our faces and guess our age and gender."
     publishedDateTime: 2022-08-18T21:32:00Z

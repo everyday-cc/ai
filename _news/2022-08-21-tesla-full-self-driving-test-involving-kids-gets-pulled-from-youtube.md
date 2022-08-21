@@ -61,6 +61,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Tesla Is Raising the Price of Full Self-Driving to $15,000"
+    excerpt: "I've been writing about tech, including everything from privacy and security to consumer electronics and startups, since 2011 for a variety of publications."
+    publishedDateTime: 2022-08-21T17:34:00Z
+    webUrl: "https://www.pcmag.com/news/tesla-is-raising-the-price-of-full-self-driving-to-15000"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/01bLyAOQRoX0e6vFlTkWQX7-1.fit_lim.size_1200x630.v1661103237.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "Don't Test Tesla's Full-Self Driving on Children: Safety Regulators"
     excerpt: "According to Bloomberg, the National Highway Traffic Safety Administration said it uses controlled procedures when testing vehicles and that “it could be highly dangerous for anyone to attempt to test vehicle technologies on their own."
     publishedDateTime: 2022-08-18T17:20:00Z

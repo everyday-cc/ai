@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi/amp/"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -46,6 +46,20 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-Beta-pedestrian-Blue-Ridge-Mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Tesla Is Raising the Price of Full Self-Driving to $15,000"
+    excerpt: "I've been writing about tech, including everything from privacy and security to consumer electronics and startups, since 2011 for a variety of publications."
+    publishedDateTime: 2022-08-21T17:34:00Z
+    webUrl: "https://www.pcmag.com/news/tesla-is-raising-the-price-of-full-self-driving-to-15000"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/01bLyAOQRoX0e6vFlTkWQX7-1.fit_lim.size_1200x630.v1661103237.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "Tesla Full Self-Driving Test Involving Kids Gets Pulled From YouTube"
     excerpt: "YouTube has removed a video in which Tesla investors test claims that the latest beta version of the company's Full Self-Driving technology won't prevent the vehicles from running over children. There's a bit to unpack here."

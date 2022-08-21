@@ -38,22 +38,6 @@ related:
         width: 1024
         height: 575
         isCached: true
-  - title: "Is AI the answer?"
-    excerpt: "The algorithm used in the Multicentre Epilepsy Lesion Detection project (MELD), reports the locations of abnormalities in cases of drug-resistant focal cortical dysplasia (FCD), a major cause of epilepsy,"
-    publishedDateTime: 2022-08-17T00:30:00Z
-    webUrl: "https://bangaloremirror.indiatimes.com/opinion/you/is-ai-the-answer/articleshow/93600317.cms"
-    ampWebUrl: "https://bangaloremirror.indiatimes.com/opinion/you/is-ai-the-answer/amp_articleshow/93600317.cms"
-    cdnAmpWebUrl: "https://bangaloremirror-indiatimes-com.cdn.ampproject.org/c/s/bangaloremirror.indiatimes.com/opinion/you/is-ai-the-answer/amp_articleshow/93600317.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://static.toiimg.com/thumb/93600314.cms?resizemode=4&width=400"
-        width: 400
-        height: 300
-        isCached: true
   - title: "Dead woman talks to ‘shocked’ mourners at her own funeral — using AI"
     excerpt: "Just when mourners thought they’d said goodbye to 87-year-old Marina Smith forever, stunned funeral-goers got more than they bargained for when the sad day rolled around July 29. Smith, who died in June,"
     publishedDateTime: 2022-08-18T16:52:00Z
