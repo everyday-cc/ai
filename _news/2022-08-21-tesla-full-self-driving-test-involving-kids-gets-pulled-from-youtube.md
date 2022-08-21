@@ -61,22 +61,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Autonomous? Nope. California moves against Tesla’s ‘full self-driving’ claim"
-    excerpt: "The California DMV has become the first US government entity to formally move against the naming of \"full self-driving.\" Here's what's happening."
-    publishedDateTime: 2022-08-16T11:17:00Z
-    webUrl: "https://wraltechwire.com/2022/08/16/autonomous-nope-california-moves-against-teslas-full-self-driving-claim/"
-    ampWebUrl: "https://wraltechwire.com/2022/08/16/autonomous-nope-california-moves-against-teslas-full-self-driving-claim/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/16/autonomous-nope-california-moves-against-teslas-full-self-driving-claim/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 71
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2022/08/tesla-hands-free-e1660639508352.jpg"
-        width: 1975
-        height: 1110
-        isCached: true
   - title: "California Wants Tesla to Stop Calling Half-Finished System \"Full Self-Driving\""
     excerpt: "Tesla’s \"full self-driving\" (FSD) may have to come to a full stop because the California DMV isn’t a fan of the feature’s misleading marketing."
     publishedDateTime: 2022-08-16T16:49:00Z

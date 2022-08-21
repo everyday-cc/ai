@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi/amp/"
 type: article
 quality: 87
-heat: 177
+heat: 167
 published: true
 
 provider:
@@ -46,22 +46,6 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-Beta-pedestrian-Blue-Ridge-Mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Autonomous? Nope. California moves against Tesla’s ‘full self-driving’ claim"
-    excerpt: "The California DMV has become the first US government entity to formally move against the naming of \"full self-driving.\" Here's what's happening."
-    publishedDateTime: 2022-08-16T11:17:00Z
-    webUrl: "https://wraltechwire.com/2022/08/16/autonomous-nope-california-moves-against-teslas-full-self-driving-claim/"
-    ampWebUrl: "https://wraltechwire.com/2022/08/16/autonomous-nope-california-moves-against-teslas-full-self-driving-claim/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/16/autonomous-nope-california-moves-against-teslas-full-self-driving-claim/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 71
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2022/08/tesla-hands-free-e1660639508352.jpg"
-        width: 1975
-        height: 1110
         isCached: true
   - title: "Tesla Full Self-Driving Test Involving Kids Gets Pulled From YouTube"
     excerpt: "YouTube has removed a video in which Tesla investors test claims that the latest beta version of the company's Full Self-Driving technology won't prevent the vehicles from running over children. There's a bit to unpack here."

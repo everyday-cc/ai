@@ -23,17 +23,6 @@ images:
     height: 635
     isCached: true
 
-related:
-  - title: "Ambient Intelligence: Enabling The Smart Care Facility Of The Future"
-    excerpt: "Care organizations must reimagine the underlying business and clinical models of care delivery with transformational change, not incremental improvements."
-    publishedDateTime: 2022-08-16T12:00:00Z
-    webUrl: "https://www.forbes.com/sites/forbesbusinesscouncil/2022/08/16/ambient-intelligence-enabling-the-smart-care-facility-of-the-future/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 32
-
 secured: "4cl/SIu9P/gcVz3/y05XhrxnikvOZ+W//ic/ISpTKYLx7VbcdaGpNy0t6l7NBDd/VkwEpmm+lA0oZtlUk+L/v1t2Ph1HWXRHAaetWdS8NKM+stIgB3MMq6GZ9upKesX4ZdOJTPrZXM2r/U8eI0cHlQeuSBd+xE4dQ3Kb0KYPnYF2+AIzH2FLvFubLRjjoZMWUSRIquT+5KFODcV+qVsc2aIsjFfGZV87I8LP6snFeawaM+yib1qy7vsKd4Hd1JN/zxobjIs5cXp/TK3HD+x54PgzmytPj9beIadAr9sqGslMvwy8eOBpi90iuqlFyCKu+MxrATJUXr5XcWFWeXkVWwrGmt7iSbaQSG4rtRpgOt5QgzCBZnSyeb8Nt9eoCBZeGSWCwD+MfOj0/7FjRx2MFWoudQBb9kp2FOVeZOPUDPps+DtYAhtDAaHRTXffYq1vRvE5JiAq3mJdn6Cr4D2ptnKT0fOwNmmNJEIxAvY5Os4myDPbs1amA7QJe3HnxnA51T30NR/9ze0Kq9RiSIK4Zg==;AKeloSwspznLK/6uyXHvbw=="
 ---
 

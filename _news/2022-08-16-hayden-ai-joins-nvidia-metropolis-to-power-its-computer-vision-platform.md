@@ -49,20 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Chipset Market Recovery and Impact Analysis Report NVIDIA, Intel, IBM"
-    excerpt: "New Jersey, N.J., Aug 16, 2022 A2Z Market Research announces the release of Deep Learning Chipset Market research report. The market is predicted to grow at a healthy pace in the coming years."
-    publishedDateTime: 2022-08-16T11:53:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-chipset-market-recovery-and-impact-analysis-report-nvidia-intel-ibm"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 33
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/077787ed8274d4370cac36f9e7f70c511534e1d3-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Vision Elements Joins NVIDIA Partner Network as an AI Solution Advisor Consultant"
     excerpt: "Vision Elements (VE), a leading computational and AI software development firm, today announced it has joined the NVIDIA Partner Network as an AI Solution Advisor Consultant partner. Already part of the NVIDIA Inception and Metropolis programs,"
     publishedDateTime: 2022-08-18T12:35:00Z

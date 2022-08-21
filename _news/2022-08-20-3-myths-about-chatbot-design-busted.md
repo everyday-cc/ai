@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/3-myths-about-chatbot-design-busted/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-myths-about-chatbot-design-busted/amp/"
 type: article
 quality: 74
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -47,15 +47,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Kore.ai announces pay-as-you-go pricing for low-code AI chatbot development"
-    excerpt: "Startup Kore.AI Inc. said today it’s making its “low code” conversational artificial intelligence tools available on a pay-as-you-go basis, expanding their availability to smaller businesses. Backed by Nvidia Corp."
-    publishedDateTime: 2022-08-16T12:00:00Z
-    webUrl: "https://siliconangle.com/2022/08/16/kore-ai-announces-pay-go-pricing-low-code-ai-chatbot-development/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 15
 
 secured: "zhGz6M4CBu/zhpBvDQfPUMHsvlWJRz5BPM3U6TzeG9cmb2jp7L+8V0YMBScO/aS0JEqBxnYB3wJZJkpMNIMbAFG6XefjXO1ZrkkXuBvXP4TdPWnLXLu1C1M94WLyzogsis/RT1a6BQe1uZojSBN9VEfzMQ+e+oOi7VZ+kyitDvOFBOcOvoALV9oVkANEIDEmQB95PxjjAc1MLTkFAY9ywYrcUhPnWG11OCnWYyLgi0tM4/qM7MVDc4QbXC1yDqQE+VAYKEKi+kusrr8EdZkJDnTeae19dF/XpIiZlUI5FA0g5UiOpwG8BBcQDzMdtlTiZN9he/Mr5oLzW9MqnkYqDh7qne3RBhNoL3OSIiDgakTEGO/pEJFhQi4Mi3NWL/2y6ygHQeBS5q9n+2fvphxqbkT7JiktNHNYuQ7MVyRRIVWmrkQ9GKyRp0zVbU4B6+1oIQLiJWAn0w6qQ0zH7QoByQDCLIE8Ws3yK/7Pnz0R5QrpXIBJqXKCe1p/5ciAFg0gUwJCHgYAV3lsCB50XYC6kw==;qLz+gwetsi2TsODVoVwJFg=="
 ---

@@ -24,35 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "How Companies Can Achieve Success with Artificial Intelligence in Hiring"
-    excerpt: "As businesses adopt Artificial Intelligence in recruiting at an increasing rate, it's critical that they know how to leverage"
-    publishedDateTime: 2022-08-16T12:20:00Z
-    webUrl: "https://enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/"
-    ampWebUrl: "https://enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/amp/"
-    cdnAmpWebUrl: "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/amp/"
+  - title: "AI helps ferries cut fuel consumption in Sweden"
+    excerpt: "As inflation rates and fossil fuel prices tick ever higher, freight carriers worldwide are looking for ways to cut their fuel consumption. Now, a Swedish tech firm has developed an AI (artificial intelligence) platform that could help them do just that."
+    publishedDateTime: 2022-08-17T00:53:00Z
+    webUrl: "https://www.dcvelocity.com/articles/55293-ai-helps-ferries-cut-fuel-consumption-in-sweden"
     type: article
     provider:
-      name: enterprisetalk
-      domain: enterprisetalk.com
-    quality: 58
-    images:
-      - url: "https://enterprisetalk.com/wp-content/uploads/2022/08/How-Companies-Can-Achieve-Success-with-Artificial-Intelligence-in-Hiring.jpg"
-        width: 700
-        height: 400
-        isCached: true
-  - title: "How cognitive science can be used to bring AI forward"
-    excerpt: "Dr Marie Postma spoke to SiliconRepublic.com about misconceptions around AI as well its relationship with human consciousness."
-    publishedDateTime: 2022-08-17T11:24:00Z
-    webUrl: "https://www.siliconrepublic.com/machines/cognitive-science-sentient-ai-bias"
-    type: article
-    provider:
-      name: SiliconRepublic
-      domain: siliconrepublic.com
+      name: DC Velocity
+      domain: dcvelocity.com
     quality: 37
     images:
-      - url: "https://www.siliconrepublic.com/wp-content/uploads/2022/08/Dr.-Marie.jpg"
+      - url: "https://www.dcvelocity.com/ext/resources/2022/08/16/20220816inbound_cetasol.jpg?height=635&t=1660698179&width=1200"
         width: 800
-        height: 600
+        height: 533
         isCached: true
 
 secured: "dSMtPp6NAwOYthdU2/2IHici86a9mTJIHekGoseuWMwAUeB6lIvcxLCRjhXU9MT/I72qC7vRRetTDs5vCmRFpnvJtd2sW0EXF8gSV5WPMjon9EIPs2F24oR6WfM67u4t9bT/UwJV6cq7+OSK5Jw6v0rktKZQubTKwtA3kqxeXtrI+Ao/vGu2TH5gnE31b1iiYu2PhJXj5XCnePfbQpB1wcA31DpcjU1a18m/dfBqqLFT9fpcovvlg8CY07yO1ukEsRzt7peoqc07jBIhsP8e2Y7P5+JfYsPP4JH85t4OYJkFAmRCDeIBG1FdsGOK3A8RepIeqBUB8WepjiCNOvpsERocCKFCa8w94zGZKxRdJY4=;dBSIkTYby4D31LY0JvxudQ=="

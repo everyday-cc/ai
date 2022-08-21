@@ -2,6 +2,92 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2022-05-21-googles-deepmind-sued-for-illegally-using-confidential-medical-data.md",
+      "title": "Google’s DeepMind Sued For Illegally Using Confidential Medical Data",
+      "excerpt": "It turns out Google not only collects its users’ data and processes it for its own purposes but also uses confidential medical data. Recently, we learned that Google is facing a class action ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2022/05/21/googles-deepmind-sued-for-illegally-using-confidential-medical-data/",
+      "originalUrl": "https://www.gizchina.com/2022/05/21/googles-deepmind-sued-for-illegally-using-confidential-medical-data/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/05/VRG_ILLO_1777_AK_body_data.0.0.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2022/05/21/googles-deepmind-sued-for-illegally-using-confidential-medical-data/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/05/21/googles-deepmind-sued-for-illegally-using-confidential-medical-data/amp/",
+      "publishedDateTime": "2022-05-21T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-trifo-lucy-robot-vacuum-review.md",
+      "title": "Trifo Lucy Robot Vacuum review",
+      "excerpt": "Security is becoming a more and more prevalent issue and being able to monitor your home is the only way to have peace of mind ... from the robot’s camera, and with the ability to control ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidguys.com/reviews/accessory-reviews/trifo-lucy-robot-vacuum/",
+      "originalUrl": "https://www.androidguys.com/reviews/accessory-reviews/trifo-lucy-robot-vacuum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidguys.com/wp-content/uploads/2022/05/trifo_hero.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidguys.com/reviews/accessory-reviews/trifo-lucy-robot-vacuum/amp/",
+      "cdnAmpWebUrl": "https://www-androidguys-com.cdn.ampproject.org/c/s/www.androidguys.com/reviews/accessory-reviews/trifo-lucy-robot-vacuum/amp/",
+      "publishedDateTime": "2022-05-21T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AndroidGuys",
+        "domain": "androidguys.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-21-baidu-after-65-plunge-its-time-to-buy-this-chinese-tech-giant.md",
       "title": "Baidu: After 65% Plunge, It's Time To Buy This Chinese Tech Giant",
       "excerpt": "Against this backdrop, Baidu (NASDAQ:BIDU) emerges as a solid buy as investors assess receding risks and uncertainty related to the regulatory crackdown. Shares in the Chinese language internet ...",
@@ -1008,102 +1094,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-scientists-develop-real-life-mind-controllable-robotic-hand-using-ai.md",
-      "title": "Scientists develop real-life mind controllable robotic hand using AI",
-      "excerpt": "A team of researchers at the University of Minnesota has created a robotic arm that can function according to your thoughts. In the future, such advance prosthetic body parts might allow humans to control computer-based devices with their minds.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/ai-powered-prosthetic-arm",
-      "originalUrl": "https://interestingengineering.com/ai-powered-prosthetic-arm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/BxG2p754w9/sizes/neuroprostheric-hand-umn_resize_md.JPG",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/ai-powered-prosthetic-arm",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/ai-powered-prosthetic-arm",
-      "publishedDateTime": "2022-05-20T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-computer-chip-giant-asml-places-big-bets-on-a-tiny-future.md",
-      "title": "Computer chip giant ASML places big bets on a tiny future",
-      "excerpt": "ASML , a semiconductor industry and stock market giant, has to think smaller. Or maybe bigger. It is building machines the size of doubl",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/computer-chip-giant-asml-places-big-bets-tiny-future-2022-05-20/",
-      "originalUrl": "https://www.reuters.com/technology/computer-chip-giant-asml-places-big-bets-tiny-future-2022-05-20/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/SZxbVKNg5ab42dF-SY1sIlrnkEg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P75Z23REDRJF7KMT5BBLFLHLAQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

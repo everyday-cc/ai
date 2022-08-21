@@ -7,7 +7,7 @@ originalUrl: "https://finance.dailyherald.com/dailyherald/article/webwire-2022-8
 webUrl: "https://finance.dailyherald.com/dailyherald/article/webwire-2022-8-17-jason-simon-explains-how-ai-is-enhancing-ecommerce"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "The 9 Trends Defining eCommerce AI in 2022 & 2023"
+    excerpt: "From more sophisticated fraud detection to virtual try-on technology, here are the top nine trends to look out for in eCommerce AI"
+    publishedDateTime: 2022-08-21T05:00:00Z
+    webUrl: "https://www.geektime.com/the-9-trends-defining-ecommerce-ai-in-2022-2023/"
+    ampWebUrl: "https://www.geektime.com/the-9-trends-defining-ecommerce-ai-in-2022-2023/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/the-9-trends-defining-ecommerce-ai-in-2022-2023/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 59
+    images:
+      - url: "https://www.geektime.com/content/images/2022/04/icon-andro.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Aaron Rodriguez discusses the benefits artificial intelligence gives eCommerce"
     excerpt: "Artificial intelligence (AI) is an unstoppable market, and it will be difficult to conceive the future without its development. In fact, it is already impossible to understand today's world without intelligent technologies."
     publishedDateTime: 2022-08-19T15:52:00Z

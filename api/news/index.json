@@ -2,6 +2,145 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-21-why-youve-never-heard-of-this-top-ai-company.md",
+      "title": "Why You’ve Never Heard Of This Top AI Company",
+      "excerpt": "with the only notable vendor-specific response (AWS SageMaker) trailing in the 5th spot. This doesn’t mean that companies aren’t using vendors for those open source implementations, not at all. This does mean that they aren’t focusing on the vendor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-heard-of-this-top-ai-company/",
+      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-heard-of-this-top-ai-company/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630176959a27f7799058f19a/0x0.jpg?format=jpg&crop=4153,2336,x0,y13,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-heard-of-this-top-ai-company/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-heard-of-this-top-ai-company/amp/",
+      "publishedDateTime": "2022-08-20T22:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-21-the-9-trends-defining-ecommerce-ai-in-2022-2023.md",
+      "title": "The 9 Trends Defining eCommerce AI in 2022 & 2023",
+      "excerpt": "From more sophisticated fraud detection to virtual try-on technology, here are the top nine trends to look out for in eCommerce AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.geektime.com/the-9-trends-defining-ecommerce-ai-in-2022-2023/",
+      "originalUrl": "https://www.geektime.com/the-9-trends-defining-ecommerce-ai-in-2022-2023/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geektime.com/content/images/2022/04/icon-andro.png",
+          "width": 512,
+          "height": 512,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geektime.com/the-9-trends-defining-ecommerce-ai-in-2022-2023/amp/",
+      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/the-9-trends-defining-ecommerce-ai-in-2022-2023/amp/",
+      "publishedDateTime": "2022-08-20T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geektime",
+        "domain": "geektime.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-21-qatar-will-deploy-facial-recognition-security-at-fifa-world-cup.md",
+      "title": "Qatar Will Deploy Facial Recognition Security at FIFA World Cup",
+      "excerpt": "Facial recognition cameras and drone surveillance will be used for crowd security during the FIFA World Cup in Qatar.",
+      "sourceUrl": null,
+      "webUrl": "https://www.sporttechie.com/qatari-officials-will-deploy-facial-recognition-security-at-fifa-world-cup",
+      "originalUrl": "https://www.sporttechie.com/qatari-officials-will-deploy-facial-recognition-security-at-fifa-world-cup",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sporttechie-dev.s3.amazonaws.com/Important%20Data/sporttechie-image.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-20T21:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SportTechie",
+        "domain": "sporttechie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-08-21-why-ai-regulation-will-resemble-privacy-regulation.md",
       "title": "Why AI regulation will resemble privacy regulation",
       "excerpt": "Concerns over data privacy have sparked regulations in the U.S. and Europe. How will AI regulations look as they come to fruition?",
@@ -109,11 +248,11 @@
       "title": "AI-generated art illustrates another problem with technology",
       "excerpt": "Artificial intelligence is being used to design magazine covers and provide pictures for internet newsletters. What could possibly go wrong?",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists",
-      "originalUrl": "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists",
+      "webUrl": "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists?amp;amp",
+      "originalUrl": "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists?amp;amp",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -500,7 +639,7 @@
       "originalUrl": "https://electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 177,
+      "heat": 167,
       "tags": null,
       "images": [
         {
@@ -649,7 +788,7 @@
       "originalUrl": "https://venturebeat.com/ai/3-myths-about-chatbot-design-busted/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 85,
       "tags": null,
       "images": [
         {
@@ -1094,152 +1233,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-singapore-ai-startup-partners-cancer-institute-to-help-estimate-treatment-costs.md",
-      "title": "Singapore AI startup partners cancer institute to help estimate treatment costs",
-      "excerpt": "Powered by Bot MD's artificial intelligence (AI) engine, the chemotherapy cost calculator is touted to help frontline medical professionals estimate monthly expenses patients need to set aside based on key factors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/singapore-ai-startup-partners-cancer-institute-to-help-estimate-treatment-costs/",
-      "originalUrl": "https://www.zdnet.com/article/singapore-ai-startup-partners-cancer-institute-to-help-estimate-treatment-costs/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-ai-startup-partners-cancer-institute-to-help-estimate-treatment-costs/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-ai-startup-partners-cancer-institute-to-help-estimate-treatment-costs/",
-      "publishedDateTime": "2022-08-19T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-when-we-might-meet-the-first-intelligent-machines.md",
-      "title": "When we might meet the first intelligent machines",
-      "excerpt": "LeCun’s paper on intelligent machines is defining AI like Alan Turing’s 1936 paper defined the modern digital computer.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/when-we-might-meet-the-first-intelligent-machines/",
-      "originalUrl": "https://venturebeat.com/ai/when-we-might-meet-the-first-intelligent-machines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1323774184.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 642,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/when-we-might-meet-the-first-intelligent-machines/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/when-we-might-meet-the-first-intelligent-machines/amp/",
-      "publishedDateTime": "2022-08-18T20:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-driverless-cars-experts-warn-no-easy-answer-to-how-safe-they-should-be.md",
-      "title": "Driverless cars: Experts warn no easy answer to how safe they should be",
-      "excerpt": "It says the public may have little tolerance for driverless car crashes - even ... an expert body which advises governments on artificial intelligence, says the question of how safe autonomous ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/technology-62598618?at_medium=custom7&at_custom2=twitter&at_campaign=64&at_custom4=43EF959E-1F67-11ED-98A9-84BF4744363C&at_custom1=%5Bpost+type%5D",
-      "originalUrl": "https://www.bbc.com/news/technology-62598618?at_medium=custom7&at_custom2=twitter&at_campaign=64&at_custom4=43EF959E-1F67-11ED-98A9-84BF4744363C&at_custom1=%5Bpost+type%5D",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/310D/production/_126375521_selfdrivinggettyimages-928081066.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/technology-62598618.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62598618.amp",
-      "publishedDateTime": "2022-08-18T19:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

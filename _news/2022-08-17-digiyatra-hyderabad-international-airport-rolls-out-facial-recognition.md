@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newindianexpress.com/cities/hyderabad/2022/aug/17/digiya
 cdnAmpWebUrl: "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/cities/hyderabad/2022/aug/17/digiyatra-hyderabad-international-airport-rolls-out-facial-recognition-2488337.amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "DigiYatra face recognition system to be used at Hyderabad airport for 3 months"
-    excerpt: "From August 18, passengers at the GMR Hyderabad International Airport will be automatically processed based on the facial recognition system at select checkpoints"
-    publishedDateTime: 2022-08-16T11:14:00Z
-    webUrl: "https://www.thehindu.com/news/cities/Hyderabad/digiyatra-face-recognition-system-to-be-used-at-hyderabad-airport-for-3-months/article65774813.ece"
-    ampWebUrl: "https://www.thehindu.com/news/cities/Hyderabad/digiyatra-face-recognition-system-to-be-used-at-hyderabad-airport-for-3-months/article65774813.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Hyderabad/digiyatra-face-recognition-system-to-be-used-at-hyderabad-airport-for-3-months/article65774813.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 70
-    images:
-      - url: "https://th-i.thgim.com/public/news/cities/Kochi/77w45k/article25218374.ece/alternates/LANDSCAPE_615/13KI-AIRPORT"
-        width: 615
-        height: 383
-        isCached: true
   - title: "Digiyatra: Hyderabad International Airport set to use facial recognition"
     excerpt: "DigiYatra will avoid multiple identity checks at the airport enabling seamless and hassle-free travel. “This technology will enable passengers a paperless travel, and they will be able to use a face scan as a boarding pass” said an official."
     publishedDateTime: 2022-08-16T13:45:00Z

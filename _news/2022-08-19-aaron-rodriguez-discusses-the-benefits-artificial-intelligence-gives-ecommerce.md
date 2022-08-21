@@ -18,6 +18,22 @@ topics:
   - AI
 
 related:
+  - title: "The 9 Trends Defining eCommerce AI in 2022 & 2023"
+    excerpt: "From more sophisticated fraud detection to virtual try-on technology, here are the top nine trends to look out for in eCommerce AI"
+    publishedDateTime: 2022-08-21T05:00:00Z
+    webUrl: "https://www.geektime.com/the-9-trends-defining-ecommerce-ai-in-2022-2023/"
+    ampWebUrl: "https://www.geektime.com/the-9-trends-defining-ecommerce-ai-in-2022-2023/amp/"
+    cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/the-9-trends-defining-ecommerce-ai-in-2022-2023/amp/"
+    type: article
+    provider:
+      name: Geektime
+      domain: geektime.com
+    quality: 59
+    images:
+      - url: "https://www.geektime.com/content/images/2022/04/icon-andro.png"
+        width: 512
+        height: 512
+        isCached: true
   - title: "Jason Simon explains how AI is enhancing eCommerce"
     excerpt: "AI offers a lot of ways for eCommerce companies to enhance their business. As more and more shoppers turn to online retail, eCommerce companies need to adapt. According to a study by Statista, the sales of online retail are expected to grow by 15% in 2022."
     publishedDateTime: 2022-08-17T14:07:00Z

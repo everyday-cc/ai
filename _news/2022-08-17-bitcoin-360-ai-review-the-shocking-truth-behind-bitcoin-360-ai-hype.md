@@ -24,17 +24,6 @@ images:
     height: 289
     isCached: true
 
-related:
-  - title: "Bitcoin 360 AI Review 2022 - Is Scam Or Legit?"
-    excerpt: "The Bitcoin 360 AI team has extensive knowledge of the cryptocurrency industry and knows the trading dangers of cryptocurrencies' extreme price volatility."
-    publishedDateTime: 2022-08-16T12:13:00Z
-    webUrl: "https://www.outlookindia.com/outlook-spotlight/bitcoin-360-ai-review-2022-is-scam-or-legit--news-216750"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 19
-
 secured: "Swd0x5sxVuvnfTbUgKGXF+97Jk4C1sXAopwob+Hz+Nc21b405q1x9r53+ei+m33nKOuY3fzMTrqvKv1kNhmGbHD+EYVeCxN7QgvAdKrJwCro1rCoN4CdMR7tUBMoMRJ+U+KpFCdULGd2RtM5ckcw1v4ElqN5zuXMzbTCLaDKnQIftobecefvKMt0UMf9s6QxMScwuKfdp/QIebRi4hsn8QFa45np2L54tyFt9mx2nYMheiP8MP8lNMaTp52i0cMSZJBVD2jkHo1C2oHu03qpT59Caa9MZfKp1Se+E3yitf+L+CO32NR/AE4/TohRE9q1K0Xp1qN1I+L6oL/6iDQhvMDO8WBrti7qHDzOYBoB07V+UlvMR0HUCqBHm3BFKFgzIxUsDc3pw+TjzrWlpu5+ziK3K0zLK54lPWor2A2bgTahUGre8Pw98gQvBlrJS2EBrDPGNreLcxLo4hOm8o+nJbjeD7C7gYqMSoxILjp4802u9UAPZLZu1h7L7yQk1HtehGtNvYkYJ06sTCN95EzPhA==;2lEk5ojCbe3G7r5fILAPVA=="
 ---
 

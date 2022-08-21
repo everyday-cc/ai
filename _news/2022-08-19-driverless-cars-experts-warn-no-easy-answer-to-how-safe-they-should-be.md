@@ -2,9 +2,9 @@
 category: news
 title: "Driverless cars: Experts warn no easy answer to how safe they should be"
 excerpt: "It says the public may have little tolerance for driverless car crashes - even ... an expert body which advises governments on artificial intelligence, says the question of how safe autonomous ..."
-publishedDateTime: 2022-08-19T02:51:00Z
-originalUrl: "https://www.bbc.com/news/technology-62598618?at_medium=custom7&at_custom2=twitter&at_campaign=64&at_custom4=43EF959E-1F67-11ED-98A9-84BF4744363C&at_custom1=%5Bpost+type%5D"
-webUrl: "https://www.bbc.com/news/technology-62598618?at_medium=custom7&at_custom2=twitter&at_campaign=64&at_custom4=43EF959E-1F67-11ED-98A9-84BF4744363C&at_custom1=%5Bpost+type%5D"
+publishedDateTime: 2022-08-19T04:03:00Z
+originalUrl: "https://www.bbc.com/news/technology-62598618?at_custom4=21AF8ED2-1F4C-11ED-98A9-84BF4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7"
+webUrl: "https://www.bbc.com/news/technology-62598618?at_custom4=21AF8ED2-1F4C-11ED-98A9-84BF4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7"
 ampWebUrl: "https://www.bbc.com/news/technology-62598618.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62598618.amp"
 type: article
@@ -110,6 +110,6 @@ related:
         height: 1604
         isCached: true
 
-secured: "9oOMf77sbnzkgb+aA07SHttCEGFXQqh95Gr7TZnEpidpmXjlT3SNz3FCOw9kJuw0BFFql3oXWypHmyn/uY7pJs475dM0xgLBDT7TONFqIQfnz+hEKvaiH/iMvnwvOpj6KWthS3Ak6qUmB+N6h2Ti0t4ss5j/+dssn0eaYd6UbsCBjUeYQKC+jt/JTtwa/Jhai8IEfYETjW/GkVQTqodgsvVb0srwEjfB3a71VKbUJjL1pnPGxhzVnG9yNe1xJ84tier16QwW/yKr/f4bPg89VkDI2ak5RFCnoCVDCx9VxIftiiaFXwO/J+rMe+f+HD1OGFglYLQwtdMrw79Z1ABR49TsqaR/770QiWSd9NORCtk=;gFDKtmuTK2SbdmsU3TMjyg=="
+secured: "Dt4pyOsMS4offyKl0iGu+Py6WrKcyV3x5jJUq1jAF31me1oBbC5aBFFb9RoB3Jl2INUdZa0/VUX0ayu1GeNAewwt5iXm70lj4C2ZhoI5ylfFiJKhe0SLz6xnAuk+Vs65nzgmPYcxOeO/g4FoQ32HqUtIH7JthCRM4tmClsZsBRktBdGbvaOTWh6QMpvTQrTk9cUA/OsydfPWZn0vnjKgO8wpjY2z3sGMCeqMgJl3pGR3MGLvPL6b6C501f5dIAmZZXzzp5//t4KHFrkUQPeTUyc+m454jZpYYS056m9Rsh3j0iLDp/S10WvnGAesCzAueGU0O4QHzKlz8FZAXOefDX75NTPzKcs0t5l1pQirSRk=;Xmx2vgQ+vepNcBO8TI0HFg=="
 ---
 

@@ -84,15 +84,6 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 0
-  - title: "Medical Ultrasound Equipment Global Market Report 2022: Artificial Intelligence at the Forefront in New Ultrasound Systems - ResearchAndMarkets.com"
-    excerpt: "The \"Medical Ultrasound Equipment - Global Market Trajectory & Analytics\" report has been added to ResearchAndMarkets.com's offering. Global Medical Ultrasound Equipment Market to Reach $8.2 Billion by 2026 Amid the COVID-19 crisis,"
-    publishedDateTime: 2022-08-16T12:28:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-medical-ultrasound-equipment-global-market-report-2022-artificial-intelligence-at-the-forefront-in-new-ultrasound-systems-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "Y3z/WDC98oNIG2PPNHQJ7FqsoOEkA+JUeNG0xIjTsU6KrOJyShNvckoHV/yW+HV8oJqGfvMOzSv315tJ6RoJOJmUzYrIhQt1w2XcOJR5Dk0nBjV8aaF//VsvSWTjXpKfo/mF87wip4sCPAi7/O7uSB1bkrGRqP66oVKH99vZ0YevJYeG85x1mzAZ8Qw+ugcYTA0dEMeSwBzAPOYwJ8KdIhM9vN+c4UlBNKlbAa9eHLvDb1bKiYdejxRfpzVSbj/33NpMBizOa6NXByUGQOsAx0Gi5lIofpapN6AnwOKo8be4riaBsgTyrGC4t555Kh9rcCbVTZ25KU2ARsRz1LAUb/TbHl2l7P8JyNXijJh/+J0=;5kKXOD1mUgxim5vi3I+HfA=="
 ---

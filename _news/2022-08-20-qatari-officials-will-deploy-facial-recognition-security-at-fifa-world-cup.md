@@ -7,7 +7,7 @@ originalUrl: "https://www.sporttechie.com/qatari-officials-will-deploy-facial-re
 webUrl: "https://www.sporttechie.com/qatari-officials-will-deploy-facial-recognition-security-at-fifa-world-cup"
 type: article
 quality: 54
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Qatar Will Deploy Facial Recognition Security at FIFA World Cup"
+    excerpt: "Facial recognition cameras and drone surveillance will be used for crowd security during the FIFA World Cup in Qatar."
+    publishedDateTime: 2022-08-21T04:17:00Z
+    webUrl: "https://www.sporttechie.com/qatari-officials-will-deploy-facial-recognition-security-at-fifa-world-cup"
+    type: article
+    provider:
+      name: SportTechie
+      domain: sporttechie.com
+    quality: 56
+    images:
+      - url: "https://sporttechie-dev.s3.amazonaws.com/Important%20Data/sporttechie-image.png"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Qatar equips 15,000 cameras with facial recognition for soccer World Cup 2022"
     excerpt: "FIFA World Cup 2022 in Qatar will be held at 8 stadiums and watched by millions of fans, along with 15,000 CCTV cameras hooked up to facial recognition systems."
     publishedDateTime: 2022-08-18T15:44:00Z

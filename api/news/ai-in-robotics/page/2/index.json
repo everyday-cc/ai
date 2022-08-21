@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-08-10-top-5-bitcoin-trading-robots-for-2022.md",
-      "title": "Top 5 Bitcoin Trading Robots for 2022",
-      "excerpt": "Crypto trading robots must be alert and available to trade at all times if they want to make the greatest transactions. Once again, some traders can lose out on successful transactions due to trading slowdowns and transaction delays.",
-      "sourceUrl": null,
-      "webUrl": "https://www.peacefmonline.com/pages/business/news/202208/471995.php",
-      "originalUrl": "https://www.peacefmonline.com/pages/business/news/202208/471995.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://w5p2r8x5.stackpathcdn.com/photos/news/202111/768212374_698734.jpg",
-          "width": 600,
-          "height": 444,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-10T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Peace FM Online",
-        "domain": "peacefmonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-10-did-a-robot-help-create-that-ad-the-answer-increasingly-is-yes.md",
       "title": "Did a Robot Help Create That Ad? The Answer, Increasingly, Is Yes.",
       "excerpt": "More marketers are using artificial intelligence tools to help develop creative ideas.",
@@ -1398,6 +1355,49 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-bitalpha-ai-review-trending-trading-robot.md",
+      "title": "BitAlpha AI Review – Trending Trading Robot",
+      "excerpt": "Users should be aware that all trading involves risk and start with a minimum ... The BitAlpha AI platform supports more payment methods than most trading robots, including bank transfers ...",
+      "sourceUrl": null,
+      "webUrl": "https://augustafreepress.com/cryptocurrency/bitalpha-ai-review/",
+      "originalUrl": "https://augustafreepress.com/cryptocurrency/bitalpha-ai-review/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://augustafreepress.com/wp-content/uploads/2022/08/bitalpha-ai-bot.png",
+          "width": 523,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Augusta Free Press",
+        "domain": "augustafreepress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],
