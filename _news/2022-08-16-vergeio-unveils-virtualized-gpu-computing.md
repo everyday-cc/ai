@@ -7,7 +7,7 @@ originalUrl: "https://insidehpc.com/2022/08/verge-io-unveils-virtualized-gpu-com
 webUrl: "https://insidehpc.com/2022/08/verge-io-unveils-virtualized-gpu-computing/"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Verge.io Unveils Shared, Virtualized GPU Computing to Cut Complexity and Cost"
+    excerpt: "“The ability to deploy GPU in a virtualized, converged environment ... is easy to install and scale on low-cost commodity hardware and self-manages based on AI/ML. A single license replaces separate hypervisor, networking, storage, data protection ..."
+    publishedDateTime: 2022-08-16T13:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/vergeio-unveils-shared-virtualized-gpu-computing-to-cut-complexity-and-cost-2022-08-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 66
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Verge.io Virtualizes GPU Computing to Cut Complexity and Cost"
     excerpt: "Verge.io, the company that virtualizes data centers, is adding new features to its Verge-OS software to give users the performance of GPUs as virtualized, shared resources. This move creates a cost-effective,"
     publishedDateTime: 2022-08-16T16:41:00Z

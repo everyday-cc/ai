@@ -26,22 +26,6 @@ images:
     height: 337
     isCached: true
 
-related:
-  - title: "Germany: 1 dead after self-driving BMW veers into traffic"
-    excerpt: "Police in Germany said Tuesday that one person has died and nine were seriously injured after a self-driving test car veered into oncoming traffic, triggering a series of collisions involving four vehicles Monday afternoon."
-    publishedDateTime: 2022-08-16T08:14:00Z
-    webUrl: "https://www.startribune.com/germany-1-dead-after-self-driving-bmw-veers-into-traffic/600198671/"
-    type: article
-    provider:
-      name: StarTribune
-      domain: startribune.com
-    quality: 24
-    images:
-      - url: "https://www.startribune.com/static/img/branding/logos/strib-social-card.png?d=1660677406"
-        width: 1680
-        height: 876
-        isCached: true
-
 secured: "vmXlh1TOGjMySHd96P92P435Son52nJugVIcxoqJjxL3vbyg2aqJ847frJvqPgqlrlegJTBprVkqMmIjuzF8bvZSkCWWgkAzU9SxTlu7qKX2ggv7rb97y6B9Pi90mZ58x43LDiTDEHYWpLyboUiE0Y05umZuv5N8fcDU2kEZc2c30tbn7+pMMrP0Iv+9MjI/yhuEen3KKxb15yxJKrToQo5dRsGCTZKX2NOHrmqgLMpLZzJa7hukkHciqFp1CGRpaVBnnkhEFvg03RT2Mjvi8AzjJBJ0G/x3279oKo5yP0fQZxrRYPpuvE/SVFUK0PmoApqlb9WQNUFqPFzhRkyLaNGMFw3aV76IXBmtbUe7B0M=;lySJbw/cpWoDKezCJ581NQ=="
 ---
 

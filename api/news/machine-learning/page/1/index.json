@@ -443,7 +443,7 @@
       "originalUrl": "https://venturebeat.com/ai/broadcom-turbocharges-ai-and-ml-with-tomahawk-5/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -483,6 +483,59 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-integrateai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data.md",
+      "title": "integrate.ai Announces Availability of New Platform for Collaborative Machine Learning and Analytics Across Sensitive Data",
+      "excerpt": "TORONTO, (BUSINESS WIRE) -- integrate.ai, a SaaS company helping developers solve the world’s most important problems without risking sensitive data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/integrateai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data-2022-08-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/integrateai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data-2022-08-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI",
         "Machine Learning"
       ]
@@ -839,6 +892,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-10-researchers-embrace-artificial-intelligence-to-tackle-banana-disease-in-burundi.md",
+      "title": "Researchers Embrace Artificial Intelligence to Tackle Banana Disease in Burundi",
+      "excerpt": "A group of scientists involved in finding solutions to minimize the impact of a devastating banana virus in Burundi have developed an Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://iafrica.com/researchers-embrace-artificial-intelligence-to-tackle-banana-disease-in-burundi/",
+      "originalUrl": "https://iafrica.com/researchers-embrace-artificial-intelligence-to-tackle-banana-disease-in-burundi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://iafrica.com/wp-content/uploads/2022/08/8.jpeg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iafrica",
+        "domain": "iafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-machine-learning-at-the-forefront-of-telemental-health.md",
       "title": "Machine Learning At The Forefront Of Telemental Health",
       "excerpt": "Michael Stefferson received his PhD in Physics from the University of Colorado before deciding to make the jump into machine learning (ML). Here's why he did, and why AI can transform the future of telemental health.",
@@ -1153,21 +1249,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-09-in-simulation-of-how-water-freezes-artificial-intelligence-breaks-the-ice.md",
-      "title": "In simulation of how water freezes, artificial intelligence breaks the ice",
-      "excerpt": "Combining artificial intelligence and quantum mechanics, researchers at Princeton have simulated what happens at the molecular level when water freezes. The result is the most complete yet simulation of the first steps in ice “nucleation,",
+      "path": "_news/2022-08-09-discovering-new-planets-using-artificial-intelligence.md",
+      "title": "Discovering New Planets Using Artificial Intelligence",
+      "excerpt": "The possibilities of artificial intelligence are endless. Even astronomers have begun applying this technology to",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/960990",
-      "originalUrl": "https://www.eurekalert.org/news-releases/960990",
+      "webUrl": "https://i-hls.com/archives/115488",
+      "originalUrl": "https://i-hls.com/archives/115488",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8ee15a21-65f9-414f-95f3-179301e49a33/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 394,
+          "url": "https://i-hls.com/wp-content/uploads/2022/08/space-1548139_1280.jpg",
+          "width": 1280,
+          "height": 720,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1177,11 +1273,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T12:12:00-07:00",
+      "publishedDateTime": "2022-08-08T21:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "AUS&R",
+        "domain": "i-hls.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1191,8 +1287,51 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-in-simulation-of-how-water-freezes-artificial-intelligence-breaks-the-ice.md",
+      "title": "In simulation of how water freezes, artificial intelligence breaks the ice",
+      "excerpt": "A team based at Princeton University has accurately simulated the initial steps of ice formation by applying artificial intelligence (AI) to solving equations that govern the quantum behavior of individual atoms and molecules.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html",
+      "originalUrl": "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg",
+          "width": 2560,
+          "height": 1440,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp",
+      "publishedDateTime": "2022-08-08T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1324,152 +1463,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-07-8-ultimate-ai-projects-for-beginners.md",
-      "title": "8 Ultimate AI Projects for Beginners",
-      "excerpt": "So you have decided to take an Artificial Intelligence (AI) course to stay relevant in an increasingly digital",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/8-ultimate-ai-projects-for-beginners-2022-08-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/8-ultimate-ai-projects-for-beginners-2022-08-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T08:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Machine Learning",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-07-ai-does-not-have-thoughts-no-matter-what-you-think.md",
-      "title": "AI does not have thoughts, no matter what you think",
-      "excerpt": "The technology can generate tweets and blog posts and even entire articles, and as researchers make gains, it is getting better at conversation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/technology/ai-does-not-have-thoughts-no-matter-what-you-think-8970231.html",
-      "originalUrl": "https://www.moneycontrol.com/news/technology/ai-does-not-have-thoughts-no-matter-what-you-think-8970231.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2019/09/artificial-intelligence-3382507_1280-e1576670917550-753x435.jpg",
-          "width": 753,
-          "height": 435,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/technology/ai-does-not-have-thoughts-no-matter-what-you-think-8970231.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-does-not-have-thoughts-no-matter-what-you-think-8970231.html/amp",
-      "publishedDateTime": "2022-08-06T10:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning",
-        "AI Ethics",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-ai-is-not-sentient-why-do-people-say-it-is.md",
-      "title": "AI is not sentient. Why do people say it is?",
-      "excerpt": "The problem is that the people closest to the technology — the people explaining it to the public — live with one foot in the future. They sometimes see what they believe will happen as much as they s",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html",
-      "originalUrl": "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2021/03/Artificial-intelligence.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/world/ai-is-not-sentient-why-do-people-say-it-is-8967631.html/amp",
-      "publishedDateTime": "2022-08-06T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI Ethics",
-        "AI Hardware",
-        "Natural Language Processing"
       ]
     }
   ],

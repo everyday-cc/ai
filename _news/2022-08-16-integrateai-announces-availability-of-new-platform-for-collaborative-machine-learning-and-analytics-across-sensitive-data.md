@@ -1,23 +1,33 @@
 ---
 category: news
 title: "integrate.ai Announces Availability of New Platform for Collaborative Machine Learning and Analytics Across Sensitive Data"
-excerpt: "The platform leverages federated learning and differential privacy technologies to unlock a range of machine learning and analytics capabilities on data that would otherwise be difficult or impossible to access due to privacy,"
-publishedDateTime: 2022-08-16T16:45:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9656838.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9656838.htm"
+excerpt: "TORONTO, (BUSINESS WIRE) -- integrate.ai, a SaaS company helping developers solve the world’s most important problems without risking sensitive data,"
+publishedDateTime: 2022-08-16T13:05:00Z
+originalUrl: "https://www.marketwatch.com/press-release/integrateai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data-2022-08-16"
+webUrl: "https://www.marketwatch.com/press-release/integrateai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data-2022-08-16"
 type: article
-quality: 10
-heat: -1
-published: false
+quality: 60
+heat: 130
+published: true
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
   - title: "CEAT transforms digitally with AWS IoT and analytics"
@@ -50,6 +60,57 @@ related:
         width: 483
         height: 409
         isCached: true
+  - title: "New integrate.ai platform preserves privacy in machine learning and anlaytics"
+    excerpt: "The new integrate.ai platform users federated learning and differential privacy technologies to unlock a range of machine learning and analytics capabilities on data that would otherwise be difficult or impossible to access because of privacy,"
+    publishedDateTime: 2022-08-16T13:15:00Z
+    webUrl: "https://siliconangle.com/2022/08/16/new-integrate-ai-platform-preserves-privacy-machine-learning-anlaytics/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 51
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/integrateai.png"
+        width: 483
+        height: 409
+        isCached: true
+  - title: "Council Post: A practical guide to building AI & Analytics maturity"
+    excerpt: "AI and analytics maturity warrants a centralised knowledge group or team that oversees conceptualization and implementation of  organisation-wide analytics and AI projects."
+    publishedDateTime: 2022-08-18T09:28:00Z
+    webUrl: "https://analyticsindiamag.com/a-practical-guide-to-building-ai-analytics-maturity/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/AI-and-Analytics-maturity.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Integrate.ai Announces Availability of New Privacy-Preserving ML Platform"
+    excerpt: "TORONTO, Aug. 16, 2022 -- integrate.ai, a SaaS company helping developers solve the world’s most important problems without risking sensitive data, today"
+    publishedDateTime: 2022-08-16T19:24:00Z
+    webUrl: "https://www.datanami.com/this-just-in/integrate-ai-announces-availability-of-new-privacy-preserving-ml-platform/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 33
+  - title: "LigaData and aiXplain collaborate to provide a range of new cognitive AI services to the telecommunications sector"
+    excerpt: "LigaData, the provider of specialist data analytics and AI products for mobile operators, has partnered with Natural Language Processing (NLP) and AI/ML experts, aiXplain, to provide a range of new cognitive AI services to the telecommunications sector."
+    publishedDateTime: 2022-08-16T16:22:00Z
+    webUrl: "https://www.totaltele.com/514068/LigaData-and-aiXplain-collaborate-to-provide-a-range-of-new-cognitive-AI-services-to-the-telecommunications-sector"
+    type: article
+    provider:
+      name: Total Telecom
+      domain: totaltele.com
+    quality: 17
+    images:
+      - url: "https://www.totaltele.com/res/image/tech%20stuff/manila%20philippines%20resize.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Avalere Expands Data and Analytics Focus with New Addition"
     excerpt: "Mandar Karhade, MD, PhD, MPH, brings more than 10 years of experience in a wide range of areas including healthcare technology, genomics, oncology, machine learning, and natural language processing. “We are excited to grow our Health Economics an"
     publishedDateTime: 2022-08-17T19:06:00Z
@@ -60,6 +121,6 @@ related:
       domain: avalere.com
     quality: 4
 
-secured: "oMGqznS523p9l9F+wvLZ3KwkvTwf0X684BzuE+Wx4TL2+9iMA8TMHXS+A3T2Fb3z/JdI1kxtVKR2PlR1MEg/UJlHq78oKJB6JXgauRc5AqIFKZj1cN2+9TOubAS9SIEQwfRZ92Rb8vnU77CoU2BcBjRzmsXEPjOvq8470IenMP9w1k3kzQFY2PIIC0oOnPjFmtUrDOVHynxcL+3QfaSC1+XvWOl7v+4/6fXdpo6xHv2a8kjbnkBIjHVgQZqKmmRofg71+2wci8mpqhj+ukzXD3Nn07cbWJRBxmOGgwDFuRGKIHE/LF/bjbmwOUi9+u13ndGvcVnJBZOY6SC4g3V4Bg+f5Voomgxl5MkX4pvbKrU=;7SWK9Q5ASsYAU8jaMvFf+Q=="
+secured: "5dP8tgAfCgRLczJtLJYCkiiu/OAPLw1csRtCtWf2eF4Rx+EGAOPOkicgeG7SxZJD1PjgylFeX6KnSHH5dJ5LIzPza9BR1YSknrN4s9nOLt9v6zOFML5qokDwrFR718c8EfntLYb+XOrT+v0AlNrxaV6/kje0DgguJLwGNXQdwDjP4OkMY5qw929sP/Q4/9IESkyV5sCSQACse0KveuSe0yjd2QZSjOjwUiYGIUIELGi948g3R8YrJ4+XUX3o6pRyVz5IIU2VqUhZyGamYTMcmTBxGtpIeqQoc9cQ/TY/0ggWu5KxBcsBM1VUgcDKimtWAN6EN78K9y3E+iLgKPubbkHDOSf7TuVS3SHM0VVtKzc=;nU3bHZ9qU8IQO+3PcGYi2g=="
 ---
 

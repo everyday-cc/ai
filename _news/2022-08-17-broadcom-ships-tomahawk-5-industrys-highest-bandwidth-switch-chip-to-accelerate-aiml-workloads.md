@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 840
         isCached: true
+  - title: "Broadcom Ships Tomahawk 5, Industry's Highest Bandwidth Switch Chip to Accelerate AI/ML Workloads"
+    excerpt: "\"Delivering the world's first 51.2 Tbps switch two years after we released Tomahawk 4, the industry's first 25 Tbps switch, is a testament to the outstanding execution and innovation by the Broadcom team,"
+    publishedDateTime: 2022-08-16T13:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/broadcom-ships-tomahawk-5-industrys-highest-bandwidth-switch-chip-to-accelerate-aiml-workloads-2022-08-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 90
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Broadcom unveils Tomahawk 5 chip to unlock the AI network"
     excerpt: "The cloud giants such as Amazon, Google and Meta, don't want to be locked into Nvidia's InfiniBand, says the chip maker, they want everything to move to standard ethernet."
     publishedDateTime: 2022-08-16T18:35:00Z

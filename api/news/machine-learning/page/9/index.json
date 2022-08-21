@@ -2,6 +2,154 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-06-09-google-chromes-on-device-machine-learning-blocks-noisy-notification-prompts.md",
+      "title": "Google Chrome’s on-device machine learning blocks noisy notification prompts",
+      "excerpt": "Google Chrome has built-in phishing detection that scans pages to see if they match known fake or malicious sites (using more than just the URL, since scammers rotate those more quickly than it can keep up,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/6/9/23161292/google-chrome-machine-learning-notification-phishing-preferences",
+      "originalUrl": "https://www.theverge.com/2022/6/9/23161292/google-chrome-machine-learning-notification-phishing-preferences",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/8vrII42-MmhQI5d4qECJlqUBk6U=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/10673529/acastro_180416_1777_chrome_0001.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T09:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-building-a-more-helpful-browser-with-machine-learning.md",
+      "title": "Building a more helpful browser with machine learning",
+      "excerpt": "At Google we use technologies like machine learning (ML) to build more useful products — from filtering out email spam, to keeping maps up to date, to offering more relevant search results. Chrome is no exception: We use ML to make web images more accessible to people who are blind or have low vision,",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/products/chrome/building-a-more-helpful-browser-with-machine-learning/",
+      "originalUrl": "https://blog.google/products/chrome/building-a-more-helpful-browser-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/ML_Header_Wireframe.max-1300x1300.png",
+          "width": 1300,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/products/chrome/building-a-more-helpful-browser-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/chrome/building-a-more-helpful-browser-with-machine-learning/amp/",
+      "publishedDateTime": "2022-06-09T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-scout-sabermetrician-and-superforecaster-deep-learning-for-drug-discovery-and-development.md",
+      "title": "Scout, Sabermetrician, and Superforecaster: Deep Learning for Drug Discovery and Development",
+      "excerpt": "In this talk, Head of AI research at IQVIA’s Analytics Center of Excellence Jimeng Sun will present the key ingredients for achieving superforecasting in pharmaceutical applications and provide some examples of our works in deep learning algorithms for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmexec.com/view/scout-sabermetrician-and-superforecaster-deep-learning-for-drug-discovery-and-development",
+      "originalUrl": "https://www.pharmexec.com/view/scout-sabermetrician-and-superforecaster-deep-learning-for-drug-discovery-and-development",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.sanity.io/images/0vv8moc6/pharmexec/b521df1710f8b4449d991b96eec25ecfd5d9bbe2-552x368.jpg?fit=crop&auto=format",
+          "width": 552,
+          "height": 368,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pharm Exec",
+        "domain": "pharmexec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-artificial-intelligence-with-metamemory-acts-more-humanlike.md",
       "title": "Artificial Intelligence With Metamemory Acts More Humanlike",
       "excerpt": "Metamemory Model The researchers show the evolution of artificial neural networks have a metamemory function based on the self-reference of memory that is similar to the metamemory model defined in 1980 by researchers Thomas Nelson and Louis Narens.",
@@ -1202,145 +1350,6 @@
         "Machine Learning",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts.md",
-      "title": "AI and machine learning are improving weather forecasts, but they won't replace human experts",
-      "excerpt": "While tools like AI open up new possibilities for better weather forecasts, many parts of the job are handled more skillfully by experienced people.",
-      "sourceUrl": null,
-      "webUrl": "https://godanriver.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_dd0817f4-8a7d-5e88-8ecd-6d243e5d7592.html",
-      "originalUrl": "https://godanriver.com/weather/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts/article_dd0817f4-8a7d-5e88-8ecd-6d243e5d7592.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/godanriver.com/content/tncms/assets/v3/editorial/d/d0/dd0817f4-8a7d-5e88-8ecd-6d243e5d7592/629685733bbb2.preview.jpg?crop=606%2C318%2C0%2C36&resize=606%2C318&order=crop%2Cresize",
-          "width": 606,
-          "height": 318,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T18:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "GoDanRiver.com",
-        "domain": "godanriver.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-adopting-mlsecops-for-secure-machine-learning-at-scale.md",
-      "title": "Adopting MLSecOps for secure machine learning at scale",
-      "excerpt": "If you’re an ML practitioner, the field of MLSecOps is rapidly developing and now is an excellent time to contribute to the discussion.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-machine-learning-at-scale/",
-      "originalUrl": "https://venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-machine-learning-at-scale/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1097722576-XH4D.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-machine-learning-at-scale/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/03/adopting-mlsecops-for-secure-machine-learning-at-scale/amp/",
-      "publishedDateTime": "2022-06-03T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-03-train-machine-learning-models-using-amazon-keyspaces-as-a-data-source.md",
-      "title": "Train machine learning models using Amazon Keyspaces as a data source",
-      "excerpt": "Many applications meant for industrial equipment maintenance, trade monitoring, fleet management, and route optimization are built using open-source Cassandra APIs and drivers to process data at high speeds and low latency. Managing Cassandra tables yourself can be time consuming and expensive. Amazon",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/train-machine-learning-models-using-amazon-keyspaces-as-a-data-source/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/train-machine-learning-models-using-amazon-keyspaces-as-a-data-source/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T12:01:10-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

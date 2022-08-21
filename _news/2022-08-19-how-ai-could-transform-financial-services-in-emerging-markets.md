@@ -43,22 +43,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How is artificial intelligence changing email marketing?"
-    excerpt: "It is safe to say that Email has unquestionably changed the way we communicate. Email marketing has made it easier for marketers to reach out to potential customers on a large scale. We now pay attention to pre-header content,"
-    publishedDateTime: 2022-08-16T08:10:00Z
-    webUrl: "https://www.mid-day.com/brand-media/article/how-is-artificial-intelligence-changing-email-marketing-23241264"
-    ampWebUrl: "https://www.mid-day.com/amp/brand-media/article/how-is-artificial-intelligence-changing-email-marketing-23241264"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/how-is-artificial-intelligence-changing-email-marketing-23241264"
-    type: article
-    provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 89
-    images:
-      - url: "https://images.mid-day.com/images/images/2022/aug/Shweta-Chaudhary_d.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "AI Ethics Wary About Worsening Of AI Asymmetry Amid Humans Getting The Short End Of The Stick"
     excerpt: "AI Asymmetry is getting larger and one controversial solution seems to be arming more with AI in a ... [+] fight fire-with-fire uneasy approach. Sometimes you are on the wrong end of the stick. That colloquialism can be applied to the notion of asymmetry."
     publishedDateTime: 2022-08-19T12:17:00Z

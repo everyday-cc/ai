@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/why-ai-regulation-will-resemble-privacy-r
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-ai-regulation-will-resemble-privacy-regulation/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Africa: Opinion - Besides AI, Regulation Key to Fight Mis/Disinformation"
-    excerpt: "Opinion - While AI has a crucial role to play in controlling what is seen online, government regulations play an important part in determining how such methods are to be used"
-    publishedDateTime: 2022-08-16T07:30:00Z
-    webUrl: "https://allafrica.com/stories/202208160083.html"
-    type: article
-    provider:
-      name: AllAfrica.com
-      domain: allafrica.com
-    quality: 38
-    images:
-      - url: "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png"
-        width: 664
-        height: 664
-        isCached: true
   - title: "AI Platform Aims to Help Shipping Industry Tackle Emissions Regulations"
     excerpt: "New maritime regulations are set to go into effect that require ship owners to report shipping emissions intensity, and an artificial intelligence-based application from Bearing is set to produce information for businesses to help them make emissions improvements."
     publishedDateTime: 2022-08-17T16:38:00Z

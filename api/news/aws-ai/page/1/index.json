@@ -47,49 +47,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-19-ceat-transforms-digitally-with-aws-iot-and-analytics.md",
-      "title": "CEAT transforms digitally with AWS IoT and analytics",
-      "excerpt": "CEAT uses Amazon Redshift, a cloud data warehouse, and Amazon SageMaker for an experimental solution. The solution automatically scans stock-keeping unit names and tyre serial numbers, registering ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/",
-      "originalUrl": "https://www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/05/Capture-75-620x400-1.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/lite/",
-      "publishedDateTime": "2022-08-19T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-18-pairaphrase-integrates-amazon-translates-engine-into-its-tms-software.md",
       "title": "PAIRAPHRASE INTEGRATES AMAZON TRANSLATE'S ENGINE INTO ITS TMS SOFTWARE",
       "excerpt": "Amazon Translate produces custom translations on demand by leveraging its own artificial neural networks and deep learning system, along with a user's glossaries and translation memories.",
@@ -1415,6 +1372,50 @@
         "AI",
         "Machine Learning",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-03-using-machine-learning-for-bushfire-prevention-in-australia.md",
+      "title": "Using machine learning for bushfire prevention in australia",
+      "excerpt": "Machine learning approaches are proactively mitigating the risk of bushfires caused by powerlines, ensuring the safe and regular supply of power to",
+      "sourceUrl": null,
+      "webUrl": "https://utilitymagazine.com.au/using-machine-learning-for-bushfire-prevention-in-australia/",
+      "originalUrl": "https://utilitymagazine.com.au/using-machine-learning-for-bushfire-prevention-in-australia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://utilitymagazine.com.au/wp-content/uploads/2022/07/Utility-5.png",
+          "width": 714,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "utilitymagazine.com.au",
+        "domain": "utilitymagazine.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
       ]
     }
   ],

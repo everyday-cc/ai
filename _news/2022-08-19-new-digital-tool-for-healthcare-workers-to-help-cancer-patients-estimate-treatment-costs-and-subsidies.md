@@ -36,20 +36,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 63
-  - title: "Singapore's finbots.ai expands leadership team"
-    excerpt: "Singapore-headquartered Business-to-Business-focused (B2B) FinTech offering an Artificial Intelligence (AI) credit modelling platform for banks and digital lenders, announced today the appointment of three new senior hires to lead its product management,"
-    publishedDateTime: 2022-08-16T08:13:00Z
-    webUrl: "https://www.finextra.com/pressarticle/93730/singapores-finbotsai-expands-leadership-team"
-    type: article
-    provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
-    images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
   - title: "New digital tool for healthcare workers to help cancer patients estimate treatment costs and subsidies | Video"
     excerpt: "A digital calculator was launched on Friday (Aug 19) to help healthcare workers better estimate the monthly treatment costs for cancer patients, taking into consideration factors like their eligibility for government subsidy schemes."
     publishedDateTime: 2022-08-19T14:52:00Z

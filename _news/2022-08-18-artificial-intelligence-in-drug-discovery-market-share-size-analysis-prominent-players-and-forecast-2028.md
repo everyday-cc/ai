@@ -6,9 +6,9 @@ publishedDateTime: 2022-08-18T12:54:00Z
 originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-share-size-analysis-prominent-players-and-forecast-2028-2022-08-18"
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-share-size-analysis-prominent-players-and-forecast-2028-2022-08-18"
 type: article
-quality: 49
-heat: 49
-published: false
+quality: 51
+heat: 91
+published: true
 
 provider:
   name: MarketWatch
@@ -20,6 +20,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

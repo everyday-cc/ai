@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Talking about an AI revolution? Don’t forget the storage"
-    excerpt: "Sponsored GPUs have revolutionized AI and HPC over the last decade. But they didn’t do this on their own. The AI and HPC boom could not have happened without massive amounts of data, requiring corresponding leaps in file system and storage technology."
-    publishedDateTime: 2022-08-16T09:00:00Z
-    webUrl: "https://blocksandfiles.com/2022/08/16/open-storage-summit-nvidia/"
-    type: article
-    provider:
-      name: blocksandfiles
-      domain: blocksandfiles.com
-    quality: 19
   - title: "Talking about an AI revolution? Don't forget the storage"
     excerpt: "The AI and HPC boom could not have happened without massive amounts of data, requiring corresponding leaps in file system and storage technology. So, what is the state of the art today? What effect will the hybrid cloud era have?"
     publishedDateTime: 2022-08-16T18:00:00Z

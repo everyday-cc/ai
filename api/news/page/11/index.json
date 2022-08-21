@@ -2,6 +2,282 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-08-09-discovering-new-planets-using-artificial-intelligence.md",
+      "title": "Discovering New Planets Using Artificial Intelligence",
+      "excerpt": "The possibilities of artificial intelligence are endless. Even astronomers have begun applying this technology to",
+      "sourceUrl": null,
+      "webUrl": "https://i-hls.com/archives/115488",
+      "originalUrl": "https://i-hls.com/archives/115488",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-hls.com/wp-content/uploads/2022/08/space-1548139_1280.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AUS&R",
+        "domain": "i-hls.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-ai-regulation-a-state-by-state-roundup-of-ai-bills.md",
+      "title": "AI regulation: A state-by-state roundup of AI bills",
+      "excerpt": "Wondering where AI regulation stands in your state? Check out this roundup of AI-related bills at the state and local level.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/",
+      "originalUrl": "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1161855919.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/amp/",
+      "publishedDateTime": "2022-08-08T20:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-future-of-work-beyond-bossware-and-job-killing-robots.md",
+      "title": "Future of work: Beyond bossware and job-killing robots",
+      "excerpt": "To encourage a human-centered workplace, we must rethink AI-driven automation, bossware, labor taxes and corporate R&D.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/",
+      "originalUrl": "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/surveillance-camera.GettyImages-182214587.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/amp/",
+      "publishedDateTime": "2022-08-08T20:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-baidu-approved-for-chinas-first-driverless-taxis.md",
+      "title": "Baidu approved for China’s first driverless taxis",
+      "excerpt": "Baidu Inc (百度) has won approval to deploy the first fully autonomous self-driving taxis on China’s roads, giving it an edge over rivals such as Pony.ai Inc (小馬智行) and XPeng Inc (小鵬汽車). The tech giant has secured permits to operate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.taipeitimes.com/News/biz/archives/2022/08/09/2003783198",
+      "originalUrl": "https://www.taipeitimes.com/News/biz/archives/2022/08/09/2003783198",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.taipeitimes.com/images/2022/08/09/P11-220809-308.jpg",
+          "width": 787,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Taipei Times",
+        "domain": "taipeitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-kloudpad-to-start-worlds-biggest-digital-worker-services-centre-in-kochi.md",
+      "title": "Kloudpad to start world’s biggest digital worker services centre in Kochi",
+      "excerpt": "Tapping into the huge potential of digital worker services for automating business ... or virtual employees that are developed using cognitive automation technology platforms, the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/kloudpad-to-start-worlds-biggest-digital-worker-services-centre-in-kochi/article65749620.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/kloudpad-to-start-worlds-biggest-digital-worker-services-centre-in-kochi/article65749620.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bl-i.thgim.com/public/incoming/m204pp/article65749618.ece/alternates/LANDSCAPE_615/Kloudpad_Founders.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/kloudpad-to-start-worlds-biggest-digital-worker-services-centre-in-kochi/article65749620.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/kloudpad-to-start-worlds-biggest-digital-worker-services-centre-in-kochi/article65749620.ece/amp/",
+      "publishedDateTime": "2022-08-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-missouri-based-fintech-to-acquire-glastonburys-payrailz.md",
+      "title": "Missouri-based fintech to acquire Glastonbury’s Payrailz",
+      "excerpt": "A Missouri-based publicly traded financial technology firm announced Thursday it has reached an agreement to acquire Glastonbury-based digital payment company, Payrailz. Jack Henry & Associates Inc. said the purchase will expand its digital payment capabilities,",
+      "sourceUrl": null,
+      "webUrl": "https://www.hartfordbusiness.com/article/missouri-based-fintech-to-acquire-glastonburys-payrailz",
+      "originalUrl": "https://www.hartfordbusiness.com/article/missouri-based-fintech-to-acquire-glastonburys-payrailz",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hartfordbusiness.com/sites/default/files/2021-04/payrailz2_opt.jpg",
+          "width": 770,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hartford Business",
+        "domain": "hartfordbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-datacenter-props-up-nvidia-as-gaming-sales-collapse.md",
       "title": "Datacenter Props Up Nvidia As Gaming Sales Collapse",
       "excerpt": "These discrete GPU sales aimed at gamers and cryptocurrency miners took ... By contrast, sales in Nvidia’s datacenter division, which is driven largely by AI workloads but also by a fair amount of HPC simulation and modeling and data analytics workloads ...",
@@ -270,19 +546,19 @@
     {
       "path": "_news/2022-08-09-in-simulation-of-how-water-freezes-artificial-intelligence-breaks-the-ice.md",
       "title": "In simulation of how water freezes, artificial intelligence breaks the ice",
-      "excerpt": "Combining artificial intelligence and quantum mechanics, researchers at Princeton have simulated what happens at the molecular level when water freezes. The result is the most complete yet simulation of the first steps in ice “nucleation,",
+      "excerpt": "A team based at Princeton University has accurately simulated the initial steps of ice formation by applying artificial intelligence (AI) to solving equations that govern the quantum behavior of individual atoms and molecules.",
       "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/960990",
-      "originalUrl": "https://www.eurekalert.org/news-releases/960990",
+      "webUrl": "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html",
+      "originalUrl": "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8ee15a21-65f9-414f-95f3-179301e49a33/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 394,
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg",
+          "width": 2560,
+          "height": 1440,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -290,13 +566,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T12:12:00-07:00",
+      "ampWebUrl": "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp",
+      "publishedDateTime": "2022-08-08T12:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
+        "name": "Phys.org",
+        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -306,8 +582,8 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -404,49 +680,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-baidu-wins-approval-for-chinas-first-full-driverless-taxis.md",
-      "title": "Baidu wins approval for China's first full driverless taxis",
-      "excerpt": "HONG KONG (BLOOMBERG) - Baidu has won approval to deploy the first fully autonomous self-driving taxis on China's roads, giving it an edge over rivals like Pony.ai and XPeng. The tech giant has ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.straitstimes.com/business/companies-markets/baidu-wins-approval-for-chinas-first-full-driverless-taxis",
-      "originalUrl": "https://www.straitstimes.com/business/companies-markets/baidu-wins-approval-for-chinas-first-full-driverless-taxis",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static1.straitstimes.com.sg/s3fs-public/styles/large30x20/public/articles/2022/08/08/ac_baidutaxi_080822.jpg?VersionId=snfpdvhOXqKDlnOrur612c01gtqJ56kW",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T09:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Straits Times",
-        "domain": "straitstimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     },
     {
@@ -938,212 +1171,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-how-to-use-ai-in-video-workflows.md",
-      "title": "How to Use AI in Video Workflows",
-      "excerpt": "Ethan Drellinger of IBM Watson, Carlos Hernandez of SSIMWAVE, and Gordon Brooks of Zixi talk about how the key to effectively applying artificial intelligence in video workflows is knowing the differe",
-      "sourceUrl": null,
-      "webUrl": "https://www.streamingmedia.com/Articles/Editorial/Short-Cuts/How-to-Use-AI-in-Video-Workflows-154284.aspx",
-      "originalUrl": "https://www.streamingmedia.com/Articles/Editorial/Short-Cuts/How-to-Use-AI-in-Video-Workflows-154284.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Streaming Media Magazine",
-        "domain": "streamingmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-why-digital-trust-is-fundamental-for-the-future-of-the-internet.md",
-      "title": "Why Digital Trust Is Fundamental For The Future Of The Internet",
-      "excerpt": "To keep today’s increasingly connected world free and secure for everyone to operate with privacy, the technology community, governments and corporate boardrooms need to invest in digital trust.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/08/why-digital-trust-is-fundamental-for-the-future-of-the-internet/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/08/why-digital-trust-is-fundamental-for-the-future-of-the-internet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62ed2082cd7ce704a4373b13/0x0.jpg?format=jpg&width=1200",
-          "width": 1054,
-          "height": 702,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/08/why-digital-trust-is-fundamental-for-the-future-of-the-internet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/08/why-digital-trust-is-fundamental-for-the-future-of-the-internet/amp/",
-      "publishedDateTime": "2022-08-08T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-5-stocks-ill-almost-certainly-still-own-in-2030.md",
-      "title": "5 Stocks I'll Almost Certainly Still Own in 2030",
-      "excerpt": "I also think that Alphabet has a huge growth opportunity in artificial intelligence (AI). The most obvious one is with its Waymo self-driving car technology business. However, the company is also ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030",
-      "originalUrl": "https://www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030?amp",
-      "publishedDateTime": "2022-08-08T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-veritone-creates-ai-driven-revenue-opportunities-on-aws.md",
-      "title": "Veritone creates AI-driven revenue opportunities on AWS",
-      "excerpt": "Veritone, the creator of aiWARE, a hyper-expansive enterprise Artificial Intelligence (AI) platform, has announced an extension of its work with Amazon and Amazon Web Services (AWS) to support its media and entertainment customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.intelligentcio.com/north-america/2022/08/08/veritone-creates-ai-driven-revenue-opportunities-on-aws/",
-      "originalUrl": "https://www.intelligentcio.com/north-america/2022/08/08/veritone-creates-ai-driven-revenue-opportunities-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.intelligentcio.com/north-america/wp-content/uploads/sites/45/2022/08/AdobeStock_452528209_Editorial_Use_Only-w.jpg",
-          "width": 1000,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "intelligentcio.com",
-        "domain": "intelligentcio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.md",
-      "title": "Prospera Financial Services Inc Takes $68,000 Position in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF has a 1 year low of $35.92 and a 1 year high of $58.00. The firm’s fifty day simple moving average is $39.17 and its 200 day simple ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/08/08/prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt/",
-      "originalUrl": "https://www.etfdailynews.com/2022/08/08/prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks14.jpg",
-          "width": 1024,
-          "height": 528,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/08/08/prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/08/08/prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt/amp/",
-      "publishedDateTime": "2022-08-08T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

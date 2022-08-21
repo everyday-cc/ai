@@ -9,8 +9,8 @@ ampWebUrl: "https://www.outlookindia.com/national/delhi-police-s-80-per-cent-mat
 cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/delhi-police-s-80-per-cent-match-of-facial-recognition-to-nab-accused-raises-concern-finds-rti-news-217182/amp"
 type: article
 quality: 62
-heat: -1
-published: false
+heat: 92
+published: true
 
 provider:
   name: Outlookindia
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Delhi Police’s facial recognition tech at 80% accuracy, stokes privacy concerns again!"
-    excerpt: "The accuracy rates of facial-recognition software can go as high as 99.97% in ideal conditions. In 2019, Delhi Police had reported accuracy levels of 2%. While 80% may seem like a drastic improvement,"
-    publishedDateTime: 2022-08-16T08:03:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/articleshow/93587861.cms"
-    ampWebUrl: "https://m.economictimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/amp_articleshow/93587861.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/amp_articleshow/93587861.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 66
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-211252,msid-93588009/delhi-police-personnel.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Delhi Police in RTI reply: 80% match in facial recognition is deemed positive ID"
     excerpt: "The records, shared under two RTI requests and reviewed by The Indian Express, throw light for the first time on how the Delhi Police uses facial recognition matches during investigations."
     publishedDateTime: 2022-08-17T02:39:00Z
@@ -75,6 +59,15 @@ related:
         width: 1280
         height: 720
         isCached: true
+  - title: "Indian police using 80 percent facial recognition confidence threshold"
+    excerpt: "Eighty percent is a respectable grade for a subject that a student is unfamiliar with, but not for a police biometric system being used to investigate crimes."
+    publishedDateTime: 2022-08-16T17:09:00Z
+    webUrl: "https://www.biometricupdate.com/202208/indian-police-using-80-percent-facial-recognition-confidence-threshold"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
 
 secured: "S1I8E8gnY2E90Tw4VFG2cY3tsu1ahpPBYiOFfP8unJrcTe46PnWVi1PEEzutmIWEoakojrFOVe298xS6ZK6KIrWyUE6k+QlIUEr5nKjWRjnkrnuo5jCcae/aRSgh+fK/ykAUNPCdqAZqhOVwpPMuwkzwjAy15W9YKn46s2JnHbS/LetXDm9CrsSPtFl+J3oPeFUtMhthHRKlS5H2gAvMjbYoAXd7wstO2FK3YMdqRO3ZtzPZbxEgRJkxtbPWOwaalXdexj8HyKsGzjJpsZUwQSCHYRUzZI5mUp6M+LkoJ04pYisRNMXPubpVCH7lLLBeoNjr7i8owCKNxjwRXicqCphbkyPZyZz/xPbQQ4GSziDFS1cHexvdR1r1RGsYBV3Nxq7Sriogl1wjRQn4QStetNkeA5cSkU5CP7R4UKTK2Wv731A0ED6MxvY1wIOgDBrH+v7Tm6EcMj0VWc1pzOpNBQWq7v6/zjYBrx0IQ/2qEs0cY4FFjGYhSZ61bhhAFCaHfHYf3ak3dnD6KSvz02cMkg==;vk8jS2C56W0h2oBKYZA+Jg=="
 ---

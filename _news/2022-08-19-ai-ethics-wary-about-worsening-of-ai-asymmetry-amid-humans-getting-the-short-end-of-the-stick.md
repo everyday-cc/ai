@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "How is artificial intelligence changing email marketing?"
-    excerpt: "It is safe to say that Email has unquestionably changed the way we communicate. Email marketing has made it easier for marketers to reach out to potential customers on a large scale. We now pay attention to pre-header content,"
-    publishedDateTime: 2022-08-16T08:10:00Z
-    webUrl: "https://www.mid-day.com/brand-media/article/how-is-artificial-intelligence-changing-email-marketing-23241264"
-    ampWebUrl: "https://www.mid-day.com/amp/brand-media/article/how-is-artificial-intelligence-changing-email-marketing-23241264"
-    cdnAmpWebUrl: "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/brand-media/article/how-is-artificial-intelligence-changing-email-marketing-23241264"
-    type: article
-    provider:
-      name: Mid Day
-      domain: mid-day.com
-    quality: 89
-    images:
-      - url: "https://images.mid-day.com/images/images/2022/aug/Shweta-Chaudhary_d.jpg"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "How AI could transform financial services in emerging markets"
     excerpt: "AI can allow financial services providers to make use of alternative data sources to assess creditworthiness. This could prove transformative."
     publishedDateTime: 2022-08-19T07:38:00Z

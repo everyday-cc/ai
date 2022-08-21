@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Computer Vision Market Size 2022 Global Business Growth, Industry Revenue, Demand and Applications Market Research Report to 2030"
-    excerpt: "Aug 16, 2022 (The Expresswire) -- Global Computer Vision Market report provides an In-Depth overview of the industry including its definition, applications and manufacturing technology."
-    publishedDateTime: 2022-08-16T08:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-2022-global-business-growth-industry-revenue-demand-and-applications-market-research-report-to-2030-2022-08-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 40
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Deep Learning Accelerator Market to Boost the Revenue over the Forecast Period (2022-2030): Micron, NVIDIA, Expedera, Intel, ADLINK, Huawei"
     excerpt: "“Deep Learning Accelerator Market” research report 2022-2030 provides a meticulous assessment of the market by highlighting information on different aspects which include drivers ..."
     publishedDateTime: 2022-08-17T16:41:00Z

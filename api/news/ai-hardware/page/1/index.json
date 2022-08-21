@@ -402,7 +402,7 @@
       "originalUrl": "https://venturebeat.com/ai/broadcom-turbocharges-ai-and-ml-with-tomahawk-5/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 126,
+      "heat": 136,
       "tags": null,
       "images": [
         {
@@ -497,6 +497,58 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-vergeio-unveils-shared-virtualized-gpu-computing-to-cut-complexity-and-cost.md",
+      "title": "Verge.io Unveils Shared, Virtualized GPU Computing to Cut Complexity and Cost",
+      "excerpt": "“The ability to deploy GPU in a virtualized, converged environment ... is easy to install and scale on low-cost commodity hardware and self-manages based on AI/ML. A single license replaces separate hypervisor, networking, storage, data protection ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/vergeio-unveils-shared-virtualized-gpu-computing-to-cut-complexity-and-cost-2022-08-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/vergeio-unveils-shared-virtualized-gpu-computing-to-cut-complexity-and-cost-2022-08-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     },
     {
@@ -1256,6 +1308,50 @@
       ]
     },
     {
+      "path": "_news/2022-08-07-artificial-intelligence-chip-market-is-expected-to-reach-us-832527-million-by-2027-with-350-cagr-prominent-key-players-with-region-and.md",
+      "title": "Artificial Intelligence Chip Market Is Expected To Reach US$ 83,252.7 Million By 2027 With 35.0% CAGR | Prominent Key players with Region and Forecast",
+      "excerpt": "According to our latest market study, titled” Artificial Intelligence Chip Market” and its applications such as machine learning and deep learning have been growing tremendously over the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-is-expected-to-reach-us-83252-7-million-by-2027-with-35-0-cagr-prominent-key-players-with-region-and-forecast",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-is-expected-to-reach-us-83252-7-million-by-2027-with-35-0-cagr-prominent-key-players-with-region-and-forecast",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/f86be8715ba54a39f5be728e02ae3bd8cf31255b-e1660978014168-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-06T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-08-07-ai-does-not-have-thoughts-no-matter-what-you-think.md",
       "title": "AI does not have thoughts, no matter what you think",
       "excerpt": "The technology can generate tweets and blog posts and even entire articles, and as researchers make gains, it is getting better at conversation.",
@@ -1345,101 +1441,6 @@
         "AI Ethics",
         "AI Hardware",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-things-to-know-before-buying-an-external-gpu-for-your-pc.md",
-      "title": "Things to know before buying an external GPU for your PC",
-      "excerpt": "A dock is required for everything to work and run smoothly. For example, the GPU is connected to the dock via a PCIe port, and then the dock connects to the computer via a USB-C or Thunderbolt cable.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thewindowsclub.com/things-to-know-before-buying-an-external-gpu-for-your-pc",
-      "originalUrl": "https://www.thewindowsclub.com/things-to-know-before-buying-an-external-gpu-for-your-pc",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thewindowsclub.com/wp-content/uploads/2022/07/eGPU-Teardown.jpg",
-          "width": 700,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TWCN Tech News",
-        "domain": "thewindowsclub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-ai-startup-cerebras-celebrated-for-chip-triumph-where-others-tried-and-failed.md",
-      "title": "AI startup Cerebras celebrated for chip triumph where others tried and failed",
-      "excerpt": "Company honored by Computer History Museum for cracking the code of making giant chips, with 'stunning' implications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/ai-startup-cerebras-celebrated-for-chip-triumph-where-others-tried-and-failed/",
-      "originalUrl": "https://www.zdnet.com/article/ai-startup-cerebras-celebrated-for-chip-triumph-where-others-tried-and-failed/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/d30b530eee72f472613d2ea609e7e9ae6d56d2fb/2022/08/03/f1b7abb3-e9d3-469e-833d-7c922ddc4e7a/cerebras-at-computer-history-museumrrl-1150-edit12.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 759,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-cerebras-celebrated-for-chip-triumph-where-others-tried-and-failed/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-cerebras-celebrated-for-chip-triumph-where-others-tried-and-failed/",
-      "publishedDateTime": "2022-08-03T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

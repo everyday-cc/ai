@@ -34,20 +34,6 @@ related:
         width: 1426
         height: 808
         isCached: true
-  - title: "Hyundai launches $400-million Boston Dynamics AI institute"
-    excerpt: "The Hyundai Motor Group bought a controlling share in Boston Dynamics for US$800 million back in 2020, impressed by the potential of its array of world-leading humanoid, quadrupedal and other robots."
-    publishedDateTime: 2022-08-16T07:38:00Z
-    webUrl: "https://newatlas.com/robotics/hyundai-boston-dynamics-artificial-intelligence/"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 69
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/9076b6d/2147483647/strip/true/crop/1060x557+0+2/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F54%2Fcc%2Fd5e646284016bd88c6a89f85ecb1%2Fatlas-mid-step.jpg&na.image_optimisation=0"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Hyundai and Boston Dynamics to build AI, Robotics Research Centre"
     excerpt: "Hyundai Motor Group and Boston Dynamics have announced that they are to invest $424mn to establish an artificial intelligence research centre in the US."
     publishedDateTime: 2022-08-19T07:00:00Z

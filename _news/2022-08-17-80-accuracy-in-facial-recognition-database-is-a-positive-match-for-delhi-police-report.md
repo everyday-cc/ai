@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Delhi Police’s facial recognition tech at 80% accuracy, stokes privacy concerns again!"
-    excerpt: "The accuracy rates of facial-recognition software can go as high as 99.97% in ideal conditions. In 2019, Delhi Police had reported accuracy levels of 2%. While 80% may seem like a drastic improvement,"
-    publishedDateTime: 2022-08-16T08:03:00Z
-    webUrl: "https://economictimes.indiatimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/articleshow/93587861.cms"
-    ampWebUrl: "https://m.economictimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/amp_articleshow/93587861.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/amp_articleshow/93587861.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 66
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-211252,msid-93588009/delhi-police-personnel.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Delhi Police's 80 Per Cent Match Of Facial Recognition To Nab Accused Raises Concern, Finds RTI"
     excerpt: "The RTI response, which has now created an uproar, sheds light on the lack of privacy impact assessment of facial recognition technology used by Delhi Police to nab the accused."
     publishedDateTime: 2022-08-18T07:47:00Z
@@ -75,6 +59,15 @@ related:
         width: 1200
         height: 667
         isCached: true
+  - title: "Indian police using 80 percent facial recognition confidence threshold"
+    excerpt: "Eighty percent is a respectable grade for a subject that a student is unfamiliar with, but not for a police biometric system being used to investigate crimes."
+    publishedDateTime: 2022-08-16T17:09:00Z
+    webUrl: "https://www.biometricupdate.com/202208/indian-police-using-80-percent-facial-recognition-confidence-threshold"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
 
 secured: "oUIxOLMzOTvkQRQHsqf7J5Ln1cY/xUKaUYFQ5KWDg9QuXu9+nk1wUel85I9xdJ2vjRBqQmRx/xTfCfdXfJcDSpfQAfMJdHHG64GM6vN8xqNmhrjrwpgqSqbMDIEBaIvVHIRqwlflRJi56ClongXCsqUAGCxS5+UslnmZgimGfRdCvju+6VLpiwio0ig3ZPv8GQ7GTg+sSLjmtL0GhALvmJPuizEZCgTQ+yTIPm4zkrqUmCaT6JIyhjIH4RR+S787rPV4q5Kp3D4pdcDc+rkiEfiiNr9hapzo12QhiHb/1plxbeYArgrQtK7DHmzGxGgi4Voae6OOlb/UQdn3V+0GZhh9329DyNp0jfOKy5wVaOSuNrKjmd/C1OwO3OzxhN14aUZ31vbnA//5V8IdxsJYJQtd6dYW3ypMWR+q6X/Fh/YfM/QzZOEwJsPT8BLhl/H5TFnAo+MU1PjIjU3fDsxR6btnukfuKEqGFixP4rBIimTtPatQZU9Tyv6ln7nT+ZPzlV5fz7O4bkQ2+waoHXiUsw==;X/xfQMaIA2MM+TbyG3m24A=="
 ---
