@@ -52,22 +52,6 @@ related:
         width: 615
         height: 383
         isCached: true
-  - title: "DigiYatra App: Bengaluru airport gets facial recognition service for quicker boarding"
-    excerpt: "The airport in Bengaluru has introduced a facial recognition technology that will facilitate travellers' smooth transit. Beginning today, the new facility will be utilised by AirAsia India and Vistara."
-    publishedDateTime: 2022-08-16T10:05:00Z
-    webUrl: "https://www.timesnownews.com/bengaluru/digiyatra-app-bengaluru-airport-gets-facial-recognition-service-for-quicker-boarding-article-93590981"
-    ampWebUrl: "https://www.timesnownews.com/bengaluru/digiyatra-app-bengaluru-airport-gets-facial-recognition-service-for-quicker-boarding-article-93590981/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/bengaluru/digiyatra-app-bengaluru-airport-gets-facial-recognition-service-for-quicker-boarding-article-93590981/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 67
-    images:
-      - url: "https://static.tnn.in/thumb/msid-93590981,imgsize-100,width-1280,height-720,resizemode-75/93590981.jpg"
-        width: 1280
-        height: 719
-        isCached: true
 
 secured: "z0e9aszk0FQHMjnELhp3mZ7ZYW479+4xNQZIeVAfM4dabala+JtUdeSSdPECkFfVuGyf1/JRAUEeLRvJljXXzt5AjeX65MVdC3euuh1g08TmICu/+vaOZaJWCJdEEX+I8k7Ld+LadP9plza/DCoqCBB9OUmmOjNrxNXbVTg7vpKh2PB6U1II6I+jwv7oKJOwZbfCZ1wgcvdT44i4LHg5EqPVQQqGerr9RHbLAOyL5snjS5kROr7roKjSUBt1Atp3De07sC/uhsoLGopK0Kv9+fNj+LoS+78Joye5NyPLPiOTZcvvGHjgZSEl0ciJ3TZTcn+NDZnM5n6mJ75JeUT/9FTluqAma5Z/pJXXp4YsA1f5RdosyN1YAMshVOw+MlSHvVdO+n9vJn15LLOBWlRN2sub1C0qXzM/508VRmQkf12TldWN6IEY7//UhXMKugHWFq/145UPp6H/I7KenhsOuoh5h/zGu0pzorFxAaKQsd9Y10QOFI2v3l9q1BK1zPpgnvzqLUWSCou+rv/ibf/1KQ==;KGuqPoIX6xZISMtZzEEOqg=="
 ---

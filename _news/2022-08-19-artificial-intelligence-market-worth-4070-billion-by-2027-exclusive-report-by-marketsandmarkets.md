@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Educational Robot Market 2022 Business Growth, Gross Margin, Industrial Development and Regional Demand 2030"
+    excerpt: "Quadintel recently added a research report on the Global Educational Robot Market. The report includes an extensive analysis of the market’s characteristics, COVID-19 impact, size and growth, segmentation,"
+    publishedDateTime: 2022-08-18T12:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/educational-robot-market-2022-business-growth-gross-margin-industrial-development-and-regional-demand-2030-2022-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) Market worth $49.4 billion by 2027 – Exclusive Report by MarketsandMarkets™"
     excerpt: "Natural Language Processing (NLP) Market size to grow from USD 15.7 billion in 2022 to USD 49.4 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 25.7% during the"
     publishedDateTime: 2022-08-18T14:30:00Z
@@ -44,15 +58,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 35
-  - title: "Natural Language Processing (NLP) Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com"
-    excerpt: "The \"Natural Language Processing Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Natural Language Processing Market is projected to reach USD 40."
-    publishedDateTime: 2022-08-16T09:59:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-natural-language-processing-nlp-market-intelligence-report-global-forecast-to-2027-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 14
   - title: "Global AI CCTV Market (2022 to 2030) - Opportunity Analysis and Industry Forecasts - ResearchAndMarkets.com"
     excerpt: "The \"AI CCTV Market by Offering, by Camera Type, by Deployment, and by End-user - Global Opportunity Analysis and Industry Forecast, 2022 - 2030\" report has been added to ResearchAndMarkets.com's offering."
     publishedDateTime: 2022-08-16T16:16:00Z

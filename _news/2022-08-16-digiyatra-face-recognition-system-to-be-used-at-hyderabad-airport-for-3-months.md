@@ -43,22 +43,6 @@ related:
         width: 600
         height: 390
         isCached: true
-  - title: "DigiYatra App: Bengaluru airport gets facial recognition service for quicker boarding"
-    excerpt: "The airport in Bengaluru has introduced a facial recognition technology that will facilitate travellers' smooth transit. Beginning today, the new facility will be utilised by AirAsia India and Vistara."
-    publishedDateTime: 2022-08-16T10:05:00Z
-    webUrl: "https://www.timesnownews.com/bengaluru/digiyatra-app-bengaluru-airport-gets-facial-recognition-service-for-quicker-boarding-article-93590981"
-    ampWebUrl: "https://www.timesnownews.com/bengaluru/digiyatra-app-bengaluru-airport-gets-facial-recognition-service-for-quicker-boarding-article-93590981/amp"
-    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/bengaluru/digiyatra-app-bengaluru-airport-gets-facial-recognition-service-for-quicker-boarding-article-93590981/amp"
-    type: article
-    provider:
-      name: timesnownews
-      domain: timesnownews.com
-    quality: 67
-    images:
-      - url: "https://static.tnn.in/thumb/msid-93590981,imgsize-100,width-1280,height-720,resizemode-75/93590981.jpg"
-        width: 1280
-        height: 719
-        isCached: true
   - title: "Digiyatra: Hyderabad International Airport set to use facial recognition"
     excerpt: "DigiYatra will avoid multiple identity checks at the airport enabling seamless and hassle-free travel. “This technology will enable passengers a paperless travel, and they will be able to use a face scan as a boarding pass” said an official."
     publishedDateTime: 2022-08-16T13:45:00Z

@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Educational Robot Market 2022 Business Growth, Gross Margin, Industrial Development and Regional Demand 2030"
+    excerpt: "Quadintel recently added a research report on the Global Educational Robot Market. The report includes an extensive analysis of the market’s characteristics, COVID-19 impact, size and growth, segmentation,"
+    publishedDateTime: 2022-08-18T12:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/educational-robot-market-2022-business-growth-gross-margin-industrial-development-and-regional-demand-2030-2022-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Natural Language Processing (NLP) Market worth $49.4 billion by 2027 – Exclusive Report by MarketsandMarkets™"
     excerpt: "Natural Language Processing (NLP) Market size to grow from USD 15.7 billion in 2022 to USD 49.4 billion by 2027, at a Compound Annual Growth Rate (CAGR) of 25.7% during the"
     publishedDateTime: 2022-08-18T14:30:00Z
@@ -40,15 +54,6 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 35
-  - title: "Natural Language Processing (NLP) Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com"
-    excerpt: "The \"Natural Language Processing Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Natural Language Processing Market is projected to reach USD 40."
-    publishedDateTime: 2022-08-16T09:59:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-natural-language-processing-nlp-market-intelligence-report-global-forecast-to-2027-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 14
   - title: "Artificial Intelligence Market Worth $407.0 Billion By 2027 – Exclusive Report by MarketsandMarkets™"
     excerpt: "Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.2% during the forecast period, to reach USD 407.0 billion by 2027 from"
     publishedDateTime: 2022-08-19T12:33:00Z

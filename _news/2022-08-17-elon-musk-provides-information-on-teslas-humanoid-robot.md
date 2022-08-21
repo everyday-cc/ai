@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk drops details about Tesla's humanoid robot"
-    excerpt: "Tesla is set to unveil a new humanoid robot, called Optimus, in late September. There's been a lot of speculation surrounding Tesla's strategy in entering the robotics market, and a recent post by boss Elon Musk sheds some new light."
-    publishedDateTime: 2022-08-16T11:00:00Z
-    webUrl: "https://www.zdnet.com/article/elon-musk-drops-details-about-teslas-humanoid-robot/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/elon-musk-drops-details-about-teslas-humanoid-robot/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-drops-details-about-teslas-humanoid-robot/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 121
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/bb82a1b68d61171587c5d41c6fe6f42425701dc2/2022/08/15/7fd1c0ef-9d2c-4ec0-8ba7-a72afdbd0d35/tesla-humanoid.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Elon Musk slows down rollout of Tesla’s next ‘Full Self-Driving Beta’ update"
-    excerpt: "Elon Musk announced that Tesla is slowing down the rollout of its next “Full Self-Driving Beta” software update (10.69) due to “many major code changes.” It is reportedly still coming tomorrow, but only to ~1,"
-    publishedDateTime: 2022-08-19T10:15:00Z
-    webUrl: "https://electrek.co/2022/08/19/elon-musk-slows-down-rollout-tesla-full-self-driving-beta-update/"
-    ampWebUrl: "https://electrek.co/2022/08/19/elon-musk-slows-down-rollout-tesla-full-self-driving-beta-update/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/19/elon-musk-slows-down-rollout-tesla-full-self-driving-beta-update/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 86
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-Beta-pedestrian-Blue-Ridge-Mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Elon Musk unveils Tesla robot, says it will perform ‘boring’ chores by year’s end"
     excerpt: "Standing at around 5 feet 8 inches, Musk’s Tesla Bot aims to gradually remove “boring” responsibilities from the hands of mere mortals who are gutsy enough to welcome a robot into the"
     publishedDateTime: 2022-08-17T16:49:00Z

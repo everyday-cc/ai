@@ -31,61 +31,131 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk drops details about Tesla's humanoid robot"
-    excerpt: "Tesla is set to unveil a new humanoid robot, called Optimus, in late September. There's been a lot of speculation surrounding Tesla's strategy in entering the robotics market, and a recent post by boss Elon Musk sheds some new light."
-    publishedDateTime: 2022-08-16T11:00:00Z
-    webUrl: "https://www.zdnet.com/article/elon-musk-drops-details-about-teslas-humanoid-robot/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/elon-musk-drops-details-about-teslas-humanoid-robot/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-drops-details-about-teslas-humanoid-robot/"
+  - title: "Podcast: Tesla Full Self-Driving Beta test, VPP event, Tesla Semi, and more"
+    excerpt: "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. This week, we discussed our Tesla Full Self-Driving Beta test, Tesla’s first VPP event,"
+    publishedDateTime: 2022-08-19T19:33:00Z
+    webUrl: "https://electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi/"
+    ampWebUrl: "https://electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi/amp/"
     type: article
     provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 121
+      name: Electrek
+      domain: electrek.co
+    quality: 87
     images:
-      - url: "https://www.zdnet.com/a/img/resize/bb82a1b68d61171587c5d41c6fe6f42425701dc2/2022/08/15/7fd1c0ef-9d2c-4ec0-8ba7-a72afdbd0d35/tesla-humanoid.jpg?width=1200&fit=bounds&auto=webp"
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
-        height: 675
+        height: 628
         isCached: true
-  - title: "Elon Musk unveils Tesla robot, says it will perform ‘boring’ chores by year’s end"
-    excerpt: "Standing at around 5 feet 8 inches, Musk’s Tesla Bot aims to gradually remove “boring” responsibilities from the hands of mere mortals who are gutsy enough to welcome a robot into the"
-    publishedDateTime: 2022-08-17T16:49:00Z
-    webUrl: "https://nypost.com/2022/08/17/elon-musk-unveils-tesla-robot-says-it-will-perform-boring-chores-by-years-end/"
-    ampWebUrl: "https://nypost.com/2022/08/17/elon-musk-unveils-tesla-robot-says-it-will-perform-boring-chores-by-years-end/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/08/17/elon-musk-unveils-tesla-robot-says-it-will-perform-boring-chores-by-years-end/amp/"
+  - title: "Autonomous? Nope. California moves against Tesla’s ‘full self-driving’ claim"
+    excerpt: "The California DMV has become the first US government entity to formally move against the naming of \"full self-driving.\" Here's what's happening."
+    publishedDateTime: 2022-08-16T11:17:00Z
+    webUrl: "https://wraltechwire.com/2022/08/16/autonomous-nope-california-moves-against-teslas-full-self-driving-claim/"
+    ampWebUrl: "https://wraltechwire.com/2022/08/16/autonomous-nope-california-moves-against-teslas-full-self-driving-claim/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/16/autonomous-nope-california-moves-against-teslas-full-self-driving-claim/?amp=1"
     type: article
     provider:
-      name: New York Post
-      domain: nypost.com
+      name: WRAL TechWire
+      domain: wraltechwire.com
     quality: 71
     images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/08/elon-robot.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
+      - url: "https://wraltechwire.com/wp-content/uploads/2022/08/tesla-hands-free-e1660639508352.jpg"
+        width: 1975
+        height: 1110
         isCached: true
-  - title: "Elon Musk provides information on Tesla’s humanoid robot"
-    excerpt: "Optimus, a new humanoid robot developed by Tesla, will be introduced by the end of September. Tesla’s entry into the robots sector has been the subject of much conjecture, but a new article by CEO Elon Musk provides some clarity."
-    publishedDateTime: 2022-08-16T17:22:00Z
-    webUrl: "https://bestgamingpro.com/elon-musk-provides-information-on-teslas-humanoid-robot/"
+  - title: "Tesla Full Self-Driving Test Involving Kids Gets Pulled From YouTube"
+    excerpt: "YouTube has removed a video in which Tesla investors test claims that the latest beta version of the company's Full Self-Driving technology won't prevent the vehicles from running over children. There's a bit to unpack here."
+    publishedDateTime: 2022-08-20T17:20:00Z
+    webUrl: "https://www.pcmag.com/news/tesla-full-self-driving-test-involving-kids-gets-pulled-from-youtube"
     type: article
     provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 58
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 69
     images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/08/Elon-Musk-drops-details-about-Teslas-humanoid-robot.png"
-        width: 600
-        height: 365
+      - url: "https://i.pcmag.com/imagery/articles/03ObNFQ2eVXU4AeGWQ5gNHD-1.fit_lim.size_1200x630.v1661015027.jpg"
+        width: 1120
+        height: 630
         isCached: true
-  - title: "Elon Musk says Tesla’s humanoid robot will offer ‘everyone a life of abundance’"
-    excerpt: "In fact, in addition to cars, humanoid robots are also becoming a reality, with Tesla launching a general-purpose humanoid robot (Tesla Bot) in 2021.” “The Tesla Bot is close to the height and weight of an adult,"
-    publishedDateTime: 2022-08-18T06:36:00Z
-    webUrl: "https://www.iol.co.za/technology/techsperts/elon-musk-says-teslas-humanoid-robot-will-offer-everyone-a-life-of-abundance-e9b6e7e4-3a3f-5fd3-9bef-b562f3fd446b"
+  - title: "California Wants Tesla to Stop Calling Half-Finished System \"Full Self-Driving\""
+    excerpt: "Tesla’s \"full self-driving\" (FSD) may have to come to a full stop because the California DMV isn’t a fan of the feature’s misleading marketing."
+    publishedDateTime: 2022-08-16T16:49:00Z
+    webUrl: "https://futurism.com/the-byte/california-tesla-full-self-driving"
+    ampWebUrl: "https://futurism.com/california-tesla-full-self-driving?amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/california-tesla-full-self-driving?amp"
     type: article
     provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 32
+      name: Futurism
+      domain: futurism.com
+    quality: 55
+    images:
+      - url: "https://wp-assets.futurism.com/2022/08/california-tesla-stop-calling-full-self-driving-600x315.jpg"
+        width: 600
+        height: 315
+        isCached: true
+  - title: "Don't Test Tesla's Full-Self Driving on Children: Safety Regulators"
+    excerpt: "According to Bloomberg, the National Highway Traffic Safety Administration said it uses controlled procedures when testing vehicles and that “it could be highly dangerous for anyone to attempt to test vehicle technologies on their own."
+    publishedDateTime: 2022-08-18T17:20:00Z
+    webUrl: "https://jalopnik.com/dont-test-teslas-full-self-driving-on-children-safety-1849427978"
+    ampWebUrl: "https://jalopnik.com/dont-test-teslas-full-self-driving-on-children-safety-1849427978/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/dont-test-teslas-full-self-driving-on-children-safety-1849427978/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 54
+  - title: "Tesla Wants Its Day in Court to Defend Autopilot and Full-Self Driving"
+    excerpt: "Tesla has asked for a hearing to defend its advertising of Autopilot and FSD after the California DMV called it false advertising."
+    publishedDateTime: 2022-08-18T22:00:00Z
+    webUrl: "https://jalopnik.com/tesla-wants-its-day-in-court-to-defend-autopilot-and-fu-1849430552"
+    ampWebUrl: "https://jalopnik.com/tesla-wants-its-day-in-court-to-defend-autopilot-and-fu-1849430552/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/tesla-wants-its-day-in-court-to-defend-autopilot-and-fu-1849430552/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 54
+  - title: "NHTSA Doesn’t Want People Testing Tesla’s Full Self-Driving On Real Human Children"
+    excerpt: "The NHTSA is warning those who use real kids or people in general for their own safety testing demonstrations. The reaction comes after a bevy of private individuals began posting similar tests online."
+    publishedDateTime: 2022-08-18T22:03:00Z
+    webUrl: "https://www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/"
+    ampWebUrl: "https://www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 53
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2022/08/2022-Tesla-Lineup-1-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
+  - title: "YouTube Pulls Video of Tesla Full Self-Driving Test Involving Kids"
+    excerpt: "The video, which depicts a Tesla investor driving a Model 3 toward one of his own children, reportedly violates YouTube's child safety policy."
+    publishedDateTime: 2022-08-20T17:36:00Z
+    webUrl: "https://www.pcmag.com/news/tesla-full-self-driving-test-involving-kids-gets-pulled-from-youtube"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 49
+  - title: "NHTSA Doesn’t Want People Testing Tesla’s Full Self-Driving Technology On Real Human Children"
+    excerpt: "The NHTSA is warning those who use real kids or people in general for their own safety testing demonstrations. The reaction comes after a bevy of private individuals began posting similar tests online."
+    publishedDateTime: 2022-08-18T22:00:00Z
+    webUrl: "https://www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/"
+    ampWebUrl: "https://www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 48
+    images:
+      - url: "https://www.carscoops.com/wp-content/uploads/2022/08/2022-Tesla-Lineup-1-1024x555.jpg"
+        width: 1024
+        height: 555
+        isCached: true
 
 secured: "a/2PSFx+uTIe2B9yIiKNGB2oG9aOiP+SJgyAuaxKLL5oUPnEuYMiE/n54hKt4JVbJJOaD/PcaQQ84MeRe+AuaFdALq/HMpbu+uGPMqtfhOGpSxu476ymk7EO69lk8HgAMyFBryQfvP0BLUcr72FfAcxGJgX302HFjDcWjN+rP2FTDj4IoYm9F16k+eZkxkp8jmu/51gPw6WfTxgq79b3Gm8yNiumeAgVyAe7ZoEyHjXwW1febOmbexVRsSbNjwiz/sBVi6cl/jEVH4yyncuTUNuOZ8FkZfWkD65H584TIV3qhkehc24bETpFvBh4TCcFugTTt7pC3jA9PfuZ4hVP6Zvvu7JNqgCz2cScXeAFrZ8sqLcxyLgtO2ldW6MqowK7Mp0r3gVLc/cU/ICRIRW/5mn8OMGwgZ/6zjcstIQPdsCu+wXlH4vCSX0HQfsPWbEA4sjKjmTZ5dc1HPaM//ElZtPD5N3RrcoebVtd9wKllY60lcg30hCUrRyIR/PiEcIl0CRG8c2SA3JinUJWQJgOJw==;tn1Drl78WNtgE16ltep2wA=="
 ---
