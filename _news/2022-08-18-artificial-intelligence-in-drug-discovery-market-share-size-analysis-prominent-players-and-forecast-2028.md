@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Automatic Speech Recognition (ASR) Software Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028"
-excerpt: "Software Market size\" was estimated at USD billions in 2022 and expected to reach USD billions in 2028, and is predicted to grow at a CAGR rate to reach USD billion by 2028. The global Automatic Speech Recognition (ASR) Software market size is projected to reach multi million by 2028,"
-publishedDateTime: 2022-08-17T18:30:00Z
-originalUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-asr-software-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-08-17"
-webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-asr-software-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-08-17"
+title: "Artificial Intelligence in Drug Discovery Market Share, Size, Analysis, Prominent Players and Forecast 2028"
+excerpt: "The Global Artificial Intelligence in Drug Discovery Market is poised to value USD 5740 million by 2028 end at a CAGR"
+publishedDateTime: 2022-08-18T12:54:00Z
+originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-share-size-analysis-prominent-players-and-forecast-2028-2022-08-18"
+webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-share-size-analysis-prominent-players-and-forecast-2028-2022-08-18"
 type: article
-quality: 43
-heat: -1
+quality: 49
+heat: 49
 published: false
 
 provider:
@@ -19,25 +19,24 @@ provider:
       height: 50
 
 topics:
-  - Natural Language Processing
   - AI
-  - AI in Sales
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
 related:
-  - title: "Artificial Intelligence in Drug Discovery Market Share, Size, Analysis, Prominent Players and Forecast 2028"
-    excerpt: "The Global Artificial Intelligence in Drug Discovery Market is poised to value USD 5740 million by 2028 end at a CAGR"
-    publishedDateTime: 2022-08-18T12:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-share-size-analysis-prominent-players-and-forecast-2028-2022-08-18"
+  - title: "Automatic Speech Recognition (ASR) Software Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028"
+    excerpt: "Software Market size\" was estimated at USD billions in 2022 and expected to reach USD billions in 2028, and is predicted to grow at a CAGR rate to reach USD billion by 2028. The global Automatic Speech Recognition (ASR) Software market size is projected to reach multi million by 2028,"
+    publishedDateTime: 2022-08-17T18:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-asr-software-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-08-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 43
   - title: "Online Entertainment Market Statistics, Facts and Figures, Growth Overview, Size, SWOT Analysis Status and Outlook 2022-2030"
     excerpt: "The online entertainment market size was valued at $183,067.0 million in 2019, and is estimated to reach $652,455.0 million by 2027, registering a CAGR of 20.82% from 2021 to 2027. Online entertainment involves accessing entertainment material,"
     publishedDateTime: 2022-08-17T04:53:00Z
@@ -81,6 +80,6 @@ related:
         height: 250
         isCached: true
 
-secured: "egKlYCH8ln7XzkvT9a/PchxsBPrG+wzhJ5sveTc7CQfbjKD7FMTC2gn97X+vS3Rj8Y/82xz9ycEFB+tP1wIGvcAiHdwLFEts4j8XKTvdY7uGj2LDTJL9wgN6YUJUA+JcWPVaCC8RR5R/BM4JNrV7yxrkTizb3hmZi5G/fl54UAbHmVMAulNRAb85PH6ORjefKpDQarQ0Qhbz3Y4nTzHWD4hzujQ2orD/z+qH7469mld8jwXGZql1X2Ii0LvoCU4k5QcDpT2MIyr5jFiyjNTxfth2xGx+1U+j9DtfUl+GOUXDela21w/QEQ6G6PgKamOrXHVYuftRNNZzLSY6l1UJ4i6YWNhnDIGamlYxXHqRuiU=;U6Qikn8BYG+W/5fb2COQHQ=="
+secured: "xMVR8tqcnV9vT5Lm9t1+ouseYbfiqPQj6yx90AXN+9ACsoy2MkRsUDf0xCD+tez6ghFBovuT9sPHKolx4+dtmlBeqnBu7QpwFcpwp1Zn4o95JY+Zz4lVWazhzMfduFIcU9m80p31dwH/7Rw6dKOp7zdDAnEi09zUVJqYztwZq2+l15yTD+31MMN5assjHS8iNiISUdVxKMQbDYU5dt7a9qSMYLcYRdvu6axmA/VPJCMXPdpLwdhA/6XAjry5jV/FxiND9hnzJxVnyl11nLOBl83m8fNECNYQTmFFoz48tLa0nQQneFdNcq/WEW85uVqqg0d14aRLNCqSdmp1MxvMyc+Y7+tt9iHThFenSOdVpDM=;vBDdobOZsM0NlTWq7bLXnA=="
 ---
 

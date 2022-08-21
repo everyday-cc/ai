@@ -7,7 +7,7 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/kore-ai-opens-its-
 webUrl: "https://markets.businessinsider.com/news/stocks/kore-ai-opens-its-enterprise-xo-platform-to-smbs-developer-community-to-drive-conversational-ai-innovation-and-adoption-1031686891"
 type: article
 quality: 22
-heat: -1
+heat: 22
 published: false
 
 provider:
@@ -20,24 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Making conversational AI solutions easier: Kore.ai opens XO platform for SMBs, developers"
-    excerpt: "Kore.ai, which provies enterprise conversational AI platforms and solutions, has opened its Enterprise XO Platform to small and medium businesses and developer community to drive innovation and adoption of conversational AI technologies and solutions."
-    publishedDateTime: 2022-08-16T05:42:00Z
-    webUrl: "https://www.thehindubusinessline.com/info-tech/making-conversational-ai-solutions-easier-koreai-opens-xo-platform-for-smbs-developers/article65774120.ece"
-    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/making-conversational-ai-solutions-easier-koreai-opens-xo-platform-for-smbs-developers/article65774120.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/making-conversational-ai-solutions-easier-koreai-opens-xo-platform-for-smbs-developers/article65774120.ece/amp/"
-    type: article
-    provider:
-      name: Business Line
-      domain: thehindubusinessline.com
-    quality: 48
-    images:
-      - url: "https://bl-i.thgim.com/public/incoming/halbtn/article65774174.ece/alternates/LANDSCAPE_615/IMG_iStock-1163061277_2_1_R9A44U67.jpg"
-        width: 615
-        height: 383
-        isCached: true
 
 secured: "w8huI3/X1DjvV+nXRNwB3SIGXQGKinr2aX3KThGa5TL+4g4MgeIp1eBJ5YA2pLutMuY8U2Ab+cXHcKmfyPQYDxioRzmwJhPXuTSVh6zDTZ7MblWpRdbgiZlDzXZ1s2H03SBkPQd66hFBRKNAVrfeSBMOFsLsBoqkNv21TYhZThGzmlSyYPmSfjalEYHzFsEZvlmrzD3DxpCp2NtUoBQHAgK0Pf6y2btIVQoQvfaLcdGKu9G4rA7F/5wiHTdWmcmzO+NJMlHi74PQA/ISlbPu7XrogN/5jsRRv78VSnT7SYQGX0ULWL8/tGAPSwXRY/9Pi2pEgcLpfSrtTMt56NlAzzfqmtmqWPEnTbWIia3tYGo=;Wz6dbhiaxItMdbFdi4AjkQ=="
 ---

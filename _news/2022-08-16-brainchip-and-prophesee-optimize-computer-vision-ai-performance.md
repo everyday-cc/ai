@@ -7,8 +7,8 @@ originalUrl: "https://www.just-auto.com/uncategorized/brainchip-and-prophesee-op
 webUrl: "https://www.just-auto.com/uncategorized/brainchip-and-prophesee-optimize-computer-vision-ai-performance/"
 type: article
 quality: 54
-heat: 54
-published: false
+heat: 74
+published: true
 
 provider:
   name: Just Auto
@@ -23,6 +23,36 @@ images:
     width: 500
     height: 247
     isCached: true
+
+related:
+  - title: "BrainChip and Prophesee Optimize Computer Vision AI Performance"
+    excerpt: "The partnership combines Prophesee’s computer vision technology with BrainChip’s neuromorphic processor Akida to deliver a complete high-performance and ultra-low-power solution. Nature of Disruption: Prophesee’s computer vision technology leverages ..."
+    publishedDateTime: 2022-08-18T11:49:00Z
+    webUrl: "https://www.army-technology.com/research-reports/brainchip-and-prophesee-optimize-computer-vision-ai-performance/"
+    type: article
+    provider:
+      name: army-technology.com
+      domain: army-technology.com
+    quality: 54
+    images:
+      - url: "https://www.army-technology.com/wp-content/uploads/sites/3/2022/08/shutterstock_796709485-1.jpg"
+        width: 500
+        height: 247
+        isCached: true
+  - title: "BrainChip and Prophesee Optimize Computer Vision AI Performance"
+    excerpt: "The partnership combines Prophesee’s computer vision technology with BrainChip’s neuromorphic processor Akida to deliver a complete high-performance and ultra-low-power solution. Nature of ..."
+    publishedDateTime: 2022-08-19T07:41:00Z
+    webUrl: "https://www.just-auto.com/research-reports/brainchip-and-prophesee-optimize-computer-vision-ai-performance/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 54
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/shutterstock_796709485-1.jpg"
+        width: 500
+        height: 247
+        isCached: true
 
 secured: "yie99rwmNxDUcWt6VRSsWpBn/KiMQomKr6t5gF+1Ysi8giLOoBF/ebk8oyGX341KDrSpZc2eTaC7Mv434nSHTjDPaV5vyjTWk42V3AWA/Xrbj7i4+s10jtmjD0KXRfe3SWHaKsmvNlLhwF4fhd6hzu6RU51D213TtVwy6ay9QazHjyP0DUA3LtYVys4nSIRE5/vSun562O/p4jOqaQ0eCl2sZQDrdhcF9j42NWPRvXG/fNaN4hEcdPMaabaOPBCsh8+L1G2IT9naXVxb7CqJRQZEFmJlI3YJCWFcavszohTLPABpElRq1IYcnS48mcrDP226l892m6X2CGkPOZojR+Fg+XQvUHULCWlbo7s44gk=;Neas6PzxeW7CUpv6uE2Yqg=="
 ---

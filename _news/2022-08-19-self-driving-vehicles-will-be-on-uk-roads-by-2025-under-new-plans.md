@@ -57,22 +57,6 @@ related:
         width: 1200
         height: 739
         isCached: true
-  - title: "Driverless cars: Self-driving cars on UK roads by 2025, says report"
-    excerpt: "It might sound like something from science fiction, but, according to a new government report, fully self-driving vehicles could be on UK roads by 2025. Some cars, coaches and lorries with self-driving features could even be on motorways in the next year,"
-    publishedDateTime: 2022-08-19T15:49:00Z
-    webUrl: "https://www.bbc.co.uk/newsround/62604275"
-    ampWebUrl: "https://www.bbc.co.uk/newsround/62604275.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/62604275.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/1F52/production/_126381080_gettyimages-1365468618.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "UK plans for first self-driving vehicles on roads by 2025"
     excerpt: "Aug 19 2022, 21:48 ist updated: Aug 19 2022, 21:48 ist A verification email has been sent to your inbox. Please verify to complete the subscription."
     publishedDateTime: 2022-08-19T16:29:00Z

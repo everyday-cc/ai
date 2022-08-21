@@ -29,20 +29,24 @@ images:
     isCached: true
 
 related:
-  - title: "Online Entertainment Market Statistics, Facts and Figures, Growth Overview, Size, SWOT Analysis Status and Outlook 2022-2030"
-    excerpt: "The online entertainment market size was valued at $183,067.0 million in 2019, and is estimated to reach $652,455.0 million by 2027, registering a CAGR of 20.82% from 2021 to 2027. Online entertainment involves accessing entertainment material,"
-    publishedDateTime: 2022-08-17T04:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/online-entertainment-market-statistics-facts-and-figures-growth-overview-size-swot-analysis-status-and-outlook-2022-2030-2022-08-17"
+  - title: "Speech Recognition for Consumer Electronics Market Estimated to Expand at a Robust CAGR By 2027"
+    excerpt: "Pune, India-Research Report on Global Speech Recognition for Consumer Electronics Market 2022-2027 Report Demand"
+    publishedDateTime: 2022-08-17T11:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-for-consumer-electronics-market-estimated-to-expand-at-a-robust-cagr-by-2027-2022-08-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+    quality: 37
+  - title: "Artificial Intelligence Systems Spending Market expected to Expand at ~46.1%% CAGR through 2017-2027"
+    excerpt: "The global artificial intelligence systems spending market is anticipated to soar with a staggering 46.1% CAGR throughout the projection period between 2017 and 2027. The coronavirus pandemic benefits from the coronavirus outbreak as businesses are remodelling operations to allow employees to work from home."
+    publishedDateTime: 2022-08-19T13:33:00Z
+    webUrl: "https://www.fmiblog.com/2022/08/19/artificial-intelligence-systems-spending-market-expected-to-expand-at-46-1-cagr-through-2017-2027/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 4
 
 secured: "i3MHKZXc471bVAja3+KKqSp0SzPmtwp+GtEOahGxppWVqZbqZVoKdlDDSut7vbnJO7k7+1/48SEvLkYacOGMIJg7XubBIFDRomOg9lICa2p7NXqhiuLOgKUZZGB/chpWZRfPxhmbyUmrtvBd9KYUP8x5eEgrcHaQXgEtSu/Rf0U5F+dsnJWOoJ9v9ExpzgGFD93ohN00MlbLLWV3as4uqpFJgCzi7DbhbnvZjFngKdPfaUQX/1YSEOwu64zr7pgaxUv/RgUINMi1jzjbhv45EYp/6kqdv6F8wUzBuW/GMDdOQWum+0hQMwPTHbgUtMew5cfB6Sy2BbucUaFqx3DJysYyAKu34ZPZsQ9kUqXryv4=;tTDyX8cqLABA17uGhVnt3Q=="
 ---

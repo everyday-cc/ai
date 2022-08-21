@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/ai/why-ai-regulation-will-resemble-privacy-regulation/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 109,
       "tags": null,
       "images": [
         {
@@ -49,50 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-21-driverless-cars-might-sound-great-but-would-you-trust-one-on-the-school-run.md",
-      "title": "Driverless cars might sound great but would YOU trust one on the school run?",
-      "excerpt": "IMAGINE a future when you can ditch the school run and bung your kids into a driverless car while you put your feet up. Apparently, that day isn’t too far off. It might sound amazing — but I’m",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/news/19568179/driverless-cars-trust-school-run/",
-      "originalUrl": "https://www.thesun.co.uk/news/19568179/driverless-cars-trust-school-run/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/08/comp-ap-6469-atkinson-op.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/news/19568179/driverless-cars-trust-school-run/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/19568179/driverless-cars-trust-school-run/amp/",
-      "publishedDateTime": "2022-08-20T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
+        "AI",
+        "Facebook AI"
       ]
     },
     {
@@ -490,7 +448,7 @@
       "originalUrl": "https://www.reuters.com/business/autos-transportation/britain-sets-out-roadmap-self-driving-vehicle-usage-by-2025-2022-08-19/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 264,
+      "heat": 254,
       "tags": null,
       "images": [
         {
@@ -1033,6 +991,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-ceat-transforms-digitally-with-aws-iot-and-analytics.md",
+      "title": "CEAT transforms digitally with AWS IoT and analytics",
+      "excerpt": "CEAT uses Amazon Redshift, a cloud data warehouse, and Amazon SageMaker for an experimental solution. The solution automatically scans stock-keeping unit names and tyre serial numbers, registering ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/",
+      "originalUrl": "https://www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/05/Capture-75-620x400-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/lite/",
+      "publishedDateTime": "2022-08-19T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI"
       ]
     },

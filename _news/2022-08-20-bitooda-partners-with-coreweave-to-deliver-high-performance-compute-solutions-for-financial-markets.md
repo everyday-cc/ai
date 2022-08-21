@@ -2,22 +2,28 @@
 category: news
 title: "BitOoda Partners with CoreWeave to Deliver High Performance Compute Solutions for Financial Markets"
 excerpt: "BitOoda, a pioneering Digital Asset investment Bank, announced a partnership with CoreWeave, the leading specialized cloud provider of high-performance compute solutions. The partnership will accelerate the penetration of CoreWeave’s services for compute-heavy workloads in financial applications."
-publishedDateTime: 2022-08-19T22:08:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-19-bitooda-partners-with-coreweave-to-deliver-high-performance-compute-solutions-for-financial-markets"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-19-bitooda-partners-with-coreweave-to-deliver-high-performance-compute-solutions-for-financial-markets"
+publishedDateTime: 2022-08-19T20:08:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-4be82c565d7c4bb5876d514f0fc3386a"
+webUrl: "https://apnews.com/press-release/business-wire/technology-4be82c565d7c4bb5876d514f0fc3386a"
 type: article
-quality: 0
-heat: 0
+quality: 10
+heat: 10
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "Q9PZxr2hshjw7Cc6ORpYOP19TWOeLIEq7q+/sP3znYV/cyrthN+CwZlIvrSEf/BVtvVNIIbnIJrkmqOFocYY5/THG2vhSnHZGllovHw+9FSqTo88P03BhcO16jArIOobdhueQxanTeCFf6Srb8WhwM7X0gxzBIRioK1VaFZFMJIjaspHKMFyoMSV9xGAhWqBx6e4njDpAm0/rE3uX9FMBiNGZWC+l2yH0OQDn8Yh6dJzilOBdWQcT7j6OxP7IMumIDEJoFEOqEJcvvLb4np8ByVndY0OEobkxiigQAGPyN5ZgQ3ezXeULtn8BEOQhJhv3LtXHF4grPn/yoU4IzXliErwzCXGfu1wLamKtb2IALU=;hVJmgnPbwcNfqX3kKEfw9g=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "IETcdvzjJ95Lmw54+UDPvCTbGUnsX5RXOLKbafYFoGQIPYi6ZwLmo8ZrEvyERx2CCuefBX8Ge4CR1pceo/+SrofxfXmrGv5kzIOzrhz8koY1QYf0yrjlzLboiHKbg/im3xvDvdaU0ucKUSwrTEwd3FdkW8lOxc2vKlc9OVUePl8q8Ze3SNwb3Wonadz6GBtoW520ylL2Sw/mFYJYgRxdvwpVXri4CI58z8ea6ywu9Uf3sgMpr0hg7BasnYjjHMUtuF0DoShMllERwNKPf46ESokKiTh8rrUABfk1980alGPuGxzuhHABY19hKhg5jImMTpltSINYQlypqmu9954N3958Wm47sh23y9vVO+8Iy4c=;eJc4PJdlzEkcp2WpX71DYw=="
 ---
 

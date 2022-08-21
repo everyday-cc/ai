@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/why-ai-regulation-will-resemble-privacy-regu
 ampWebUrl: "https://venturebeat.com/ai/why-ai-regulation-will-resemble-privacy-regulation/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-ai-regulation-will-resemble-privacy-regulation/amp/"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 109
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1037155966.jpg?w=1200&strip=all"
@@ -59,6 +60,6 @@ related:
         height: 614
         isCached: true
 
-secured: "8ELxbRxDQdvjMFDXaLa8tj/Ikpjbq6mQJMmOrHK30C3Oa2uS7bHYnEzxMPSy6U3HGTk2yju8S0UzyYvr3uXDjEgX4U+MmPQ3s4ErmSmrC40UCDtP2uqA+fLzDO1Hyv2qBCRih7GwPb44l44bPp3wJMgnGYtex2FWCwHFnvCko7lwGlovcoJWw8XJKum9EF7NA3OHdiAnzdzlLmKiojj+sDnvusxkr8GOSVtv4xBF0u4OTRkAhr/YsgUhvItrG92hXfqBEUD/Vb+B8t1lDftbREOntxNqAJv1hbMdTivKZbmXUWN1/sjfaUFt0E5vtSmWmpKHCAqup2Jm3vFu5aWKAISTJdOXD5MnefTZvwatXxU=;L6SzPKuvsSjummR1qL9itw=="
+secured: "Jpjtw6iR6jcwKH8h5vSYXkoyjxmZaBIMU8YjrOopekmBTbW7B/Wn5tSjl3AwjfmYSDAPqeXI3bgMJT5bNQWZ0nNTYyUo2mw85FtjIJJ029HaR5bg5CJ9KrNFZlg+hX1TFYVPH2A2q4ZojIymPjXIc6WX15uNt6bDISIj14khywmGreKLpKtiC7OubgxpHPGYkfHpMayzWKzd+gaufKl3WD1pfTc2e1jTsFbKkQv4Y6NekxJ1BcWILSX7Q22Q9+epsjcam3PaR7kVripISj7mYK1I+toGzUdQvORELA3Yg4tZCA+xyi1J3uf496l8nuZyhdgkdNbUaPfkCDdZBzPuqGT5R00MBsemgYOgSTcpeNZtRpKHOb7E+qAKUHPQ87ORCycfJ4PrYgYcWgnp80O4Bosaqqs65GgRwtywTV8qP4Vy6tnnOwhjbqY3uyMI8OYmVQ5Tj3pd/Twros9YYz+F5RIjhYVlnyB18NSsgu2pcnI5wd5GPnb9gbMHQFT3l0JHk2zFZdSkX0Yw3K9XcSV34Q==;J19aBPj2zHcjmF1aRk48zg=="
 ---
 

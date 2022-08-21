@@ -27,33 +27,52 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving cars: UK motorways change sparks AA warning amid new government plans"
-    excerpt: "The Government has unveiled new plans which mean self-driving vehicles could be 'on UK roads by 2025' and they're backed by a £100 million investment to boost the rollout. Motorways could even see some cars,"
-    publishedDateTime: 2022-08-20T15:41:00Z
-    webUrl: "https://www.theargus.co.uk/news/20679617.self-driving-cars-uk-motorways-change-sparks-aa-warning-amid-new-government-plans/"
-    ampWebUrl: "https://www.theargus.co.uk/news/20679617.amp/"
-    cdnAmpWebUrl: "https://www-theargus-co-uk.cdn.ampproject.org/c/s/www.theargus.co.uk/news/20679617.amp/"
+  - title: "Could self-driving cars be the future of the school run?"
+    excerpt: "Under landmark Government proposals, self-driving cars are set to be on the roads in the UK next year. The first wave of the top of the range cars to be sold in Britain within the next few months. But it's not just cars, ministers are also looking at ..."
+    publishedDateTime: 2022-08-19T11:36:00Z
+    webUrl: "https://www.hulldailymail.co.uk/news/uk-world-news/could-self-driving-cars-future-7484128"
+    ampWebUrl: "https://www.hulldailymail.co.uk/news/uk-world-news/could-self-driving-cars-future-7484128.amp"
+    cdnAmpWebUrl: "https://www-hulldailymail-co-uk.cdn.ampproject.org/c/s/www.hulldailymail.co.uk/news/uk-world-news/could-self-driving-cars-future-7484128.amp"
     type: article
     provider:
-      name: The Argus
-      domain: theargus.co.uk
+      name: Hull Daily Mail
+      domain: hulldailymail.co.uk
+    quality: 44
+    images:
+      - url: "https://i2-prod.hulldailymail.co.uk/incoming/article7484439.ece/ALTERNATES/s1200/1_GettyImages-1074867670.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Self-driving cars could be on our roads within the next YEAR – but there’s a catch"
+    excerpt: "CARS that can drive themselves could be on our roads within the next year according to the Government. Transport Secretary Grant Shapps said the technology would make our roads safer and create"
+    publishedDateTime: 2022-08-19T08:23:00Z
+    webUrl: "https://www.thesun.co.uk/motors/19555254/self-driving-on-our-roads-within-the-next-year/"
+    ampWebUrl: "https://www.thesun.co.uk/motors/19555254/self-driving-on-our-roads-within-the-next-year/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/19555254/self-driving-on-our-roads-within-the-next-year/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
     quality: 38
     images:
-      - url: "https://www.theargus.co.uk/resources/images/14493174/?type=responsive-gallery"
-        width: 650
-        height: 417
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/04/NINTCHDBPICT000719601367.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
         isCached: true
-  - title: "The Legal Challenge With Self-Driving Cars: Who’s Ultimately Liable?"
-    excerpt: "Two decades ago, self-driving cars were a fantasy only possible in sci-fi movies. Today, self-driving cars are only a legislation away."
-    publishedDateTime: 2022-08-16T15:22:00Z
-    webUrl: "https://lawandcrime.com/sponsored/the-legal-challenge-with-self-driving-cars-whos-ultimately-liable/"
-    ampWebUrl: "https://lawandcrime.com/sponsored/the-legal-challenge-with-self-driving-cars-whos-ultimately-liable/amp/"
-    cdnAmpWebUrl: "https://lawandcrime-com.cdn.ampproject.org/c/s/lawandcrime.com/sponsored/the-legal-challenge-with-self-driving-cars-whos-ultimately-liable/amp/"
+  - title: "Self-driving cars could be allowed on all roads as early as 2025"
+    excerpt: "Cars driven by humans might soon be thing of the past. That’s right, your mates might have spent their hard-earned cashola on driving lessons, but the joke’s on them – vehicles could be driving themselves by 2025."
+    publishedDateTime: 2022-08-19T16:19:00Z
+    webUrl: "https://www.timeout.com/uk/news/self-driving-cars-could-be-allowed-on-all-roads-as-early-as-2025-081922?cid=~london~natsoc~twitter~echobox"
     type: article
     provider:
-      name: lawandcrime
-      domain: lawandcrime.com
+      name: Time Out
+      domain: timeout.com
     quality: 24
+    images:
+      - url: "https://media.timeout.com/images/105921648/image.jpg"
+        width: 1000
+        height: 750
+        isCached: true
   - title: "Self-driving cars: UK motorways change sparks AA warning amid new government plans"
     excerpt: "The Government has unveiled new plans which mean self-driving vehicles could be 'on UK roads by 2025' and they're backed by a £100 million investment to boost the rollout. Motorways could even see some cars,"
     publishedDateTime: 2022-08-19T13:53:00Z

@@ -25,61 +25,56 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence as a Service Market Size Projected to Deliver Greater Revenues during the Forecast Period 2022-2031"
-    excerpt: "\"A research report on Artificial Intelligence as a Service Market was added by SDKI in its database which discusses the product as well as the scope of its market in detail. The report provides the business clients with an in-depth overview of the market,"
-    publishedDateTime: 2022-08-17T10:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-size-projected-to-deliver-greater-revenues-during-the-forecast-period-2022-2031-2022-08-17"
+  - title: "Artificial Intelligence in Drug Discovery Market Share, Size, Analysis, Prominent Players and Forecast 2028"
+    excerpt: "The Global Artificial Intelligence in Drug Discovery Market is poised to value USD 5740 million by 2028 end at a CAGR"
+    publishedDateTime: 2022-08-18T12:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-share-size-analysis-prominent-players-and-forecast-2028-2022-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Automatic Speech Recognition (ASR) Software Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028"
+    excerpt: "Software Market size\" was estimated at USD billions in 2022 and expected to reach USD billions in 2028, and is predicted to grow at a CAGR rate to reach USD billion by 2028. The global Automatic Speech Recognition (ASR) Software market size is projected to reach multi million by 2028,"
+    publishedDateTime: 2022-08-17T18:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-asr-software-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-08-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Market Size 2022 Global Business Growth, Industry Revenue, Demand and Applications Market Research Report to 2030"
-    excerpt: "Aug 16, 2022 (The Expresswire) -- Global Computer Vision Market report provides an In-Depth overview of the industry including its definition, applications and manufacturing technology."
-    publishedDateTime: 2022-08-16T08:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-market-size-2022-global-business-growth-industry-revenue-demand-and-applications-market-research-report-to-2030-2022-08-16"
+  - title: "Online Entertainment Market Statistics, Facts and Figures, Growth Overview, Size, SWOT Analysis Status and Outlook 2022-2030"
+    excerpt: "The online entertainment market size was valued at $183,067.0 million in 2019, and is estimated to reach $652,455.0 million by 2027, registering a CAGR of 20.82% from 2021 to 2027. Online entertainment involves accessing entertainment material,"
+    publishedDateTime: 2022-08-17T04:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/online-entertainment-market-statistics-facts-and-figures-growth-overview-size-swot-analysis-status-and-outlook-2022-2030-2022-08-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 40
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "North America Machine Learning Market Is Expected To Get Major Boost In Demand Over The Forecast Period 2022-2031"
-    excerpt: "The report titled  North America Machine Learning Market  which was recently added by Kenneth Research, aims at providing the cl"
-    publishedDateTime: 2022-08-16T10:11:00Z
-    webUrl: "https://menafn.com/1104703202/North-America-Machine-Learning-Market-Is-Expected-To-Get-Major-Boost-In-Demand-Over-The-Forecast-Period-2022-2031"
+  - title: "Artificial Intelligence in Agriculture Market 2022-2031 – Impact of COVID-19, Case Study Analysis, Key Opportunities and Major Players"
+    excerpt: "This definitely shows how the market is trying to recover back and this will have a direct impact on the Healthcare/ICT/Chemical industries, creating a huge demand for Artificial Intelligence in Agriculture Market products. Download Sample of This ..."
+    publishedDateTime: 2022-08-17T04:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-2022-2031-impact-of-covid-19-case-study-analysis-key-opportunities-and-major-players-2022-08-17"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 18
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?201239"
-        width: 375
-        height: 250
-        isCached: true
-  - title: "Deep Learning Accelerator Market to Boost the Revenue over the Forecast Period (2022-2030): Micron, NVIDIA, Expedera, Intel, ADLINK, Huawei"
-    excerpt: "“Deep Learning Accelerator Market” research report 2022-2030 provides a meticulous assessment of the market by highlighting information on different aspects which include drivers ..."
-    publishedDateTime: 2022-08-17T16:41:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-accelerator-market-to-boost-the-revenue-over-the-forecast-period-2022-2030-micron-nvidia-expedera-intel-adlink-huawei"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 5
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/a6ce76f71c99cdb34a0b6fc0ee9f528221756c34-600x337.jpg"
-        width: 600
-        height: 337
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "48BqJaWxOjgNTR6JmKhMddQsH6UVPt8DnflWadMyNN1xjpiI0cg5kranNM+PculcPaPJz1HS7yFliQbpMVk5NqKF5Un/B8tdXJafRgNyoSfH9Z45p5G50z+JsfUOt4C1ZgOqlKyjuOglGrToWvZLoYZuXZTBc59g1eKfg50IQ81mGc/h0M6JEHQaoQ4feNPN0xxzuxKwCpOtaGnLT/fwfWulnxiziUfx0J50ROtF90yvra319Pqx3DKF42VjADrJtmdWY5WDhe1P4c7loZ0gWWXmLfI1y/NxLWuaEaxyQFARFS6dyXH975NsYYFu2LytjoxuZTScGGpef69Us8K91zuoJAhxvUK2uVHKUojPEkQ=;6jhhcrxRNIb28MwM73KmWg=="

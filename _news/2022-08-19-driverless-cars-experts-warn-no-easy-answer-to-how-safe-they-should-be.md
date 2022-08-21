@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Driverless cars: Experts warn no easy answer to how safe they should be"
-excerpt: "There is no easy answer as to how safe self-driving cars should be, an adviser to a new government-backed report has told the BBC. The Centre for Data Ethics and Innovation (CDEI) report warns that it might not be enough for self-driving cars to be safer than human drivers."
-publishedDateTime: 2022-08-18T23:17:00Z
-originalUrl: "https://www.bbc.co.uk/news/technology-62598618"
-webUrl: "https://www.bbc.co.uk/news/technology-62598618"
-ampWebUrl: "https://www.bbc.co.uk/news/technology-62598618.amp"
-cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-62598618.amp"
+excerpt: "It says the public may have little tolerance for driverless car crashes - even ... an expert body which advises governments on artificial intelligence, says the question of how safe autonomous ..."
+publishedDateTime: 2022-08-19T02:51:00Z
+originalUrl: "https://www.bbc.com/news/technology-62598618?at_medium=custom7&at_custom2=twitter&at_campaign=64&at_custom4=43EF959E-1F67-11ED-98A9-84BF4744363C&at_custom1=%5Bpost+type%5D"
+webUrl: "https://www.bbc.com/news/technology-62598618?at_medium=custom7&at_custom2=twitter&at_campaign=64&at_custom4=43EF959E-1F67-11ED-98A9-84BF4744363C&at_custom1=%5Bpost+type%5D"
+ampWebUrl: "https://www.bbc.com/news/technology-62598618.amp"
+cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62598618.amp"
 type: article
-quality: 59
-heat: -1
-published: false
+quality: 89
+heat: 139
+published: true
 
 provider:
   name: BBC
-  domain: bbc.co.uk
+  domain: bbc.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
@@ -59,48 +63,53 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "China Closer to Getting Affordable Self-Driving Taxis"
-    excerpt: "China may be one step closer to offering driverless cab rides at half the price, thanks to Baidu. In July, the Chinese tech giant unveiled the sixth generation of its self-driving electric car ..."
-    publishedDateTime: 2022-08-17T19:38:00Z
-    webUrl: "https://www.nasdaq.com/articles/china-closer-to-getting-affordable-self-driving-taxis"
-    ampWebUrl: "https://www.nasdaq.com/articles/china-closer-to-getting-affordable-self-driving-taxis?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-closer-to-getting-affordable-self-driving-taxis?amp"
+  - title: "Driverless cars: Self-driving cars on UK roads by 2025, says report"
+    excerpt: "It might sound like something from science fiction, but, according to a new government report, fully self-driving vehicles could be on UK roads by 2025. Some cars, coaches and lorries with self-driving features could even be on motorways in the next year,"
+    publishedDateTime: 2022-08-19T15:49:00Z
+    webUrl: "https://www.bbc.co.uk/newsround/62604275"
+    ampWebUrl: "https://www.bbc.co.uk/newsround/62604275.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/62604275.amp"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
-  - title: "Self-driving cars could be on our roads within the next YEAR – but there’s a catch"
-    excerpt: "CARS that can drive themselves could be on our roads within the next year according to the Government. Transport Secretary Grant Shapps said the technology would make our roads safer and create"
-    publishedDateTime: 2022-08-19T08:23:00Z
-    webUrl: "https://www.thesun.co.uk/motors/19555254/self-driving-on-our-roads-within-the-next-year/"
-    ampWebUrl: "https://www.thesun.co.uk/motors/19555254/self-driving-on-our-roads-within-the-next-year/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/motors/19555254/self-driving-on-our-roads-within-the-next-year/amp/"
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/1F52/production/_126381080_gettyimages-1365468618.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Driverless cars might sound great but would YOU trust one on the school run?"
+    excerpt: "IMAGINE a future when you can ditch the school run and bung your kids into a driverless car while you put your feet up. Apparently, that day isn’t too far off. It might sound amazing — but I’m"
+    publishedDateTime: 2022-08-20T20:00:00Z
+    webUrl: "https://www.thesun.co.uk/news/19568179/driverless-cars-trust-school-run/"
+    ampWebUrl: "https://www.thesun.co.uk/news/19568179/driverless-cars-trust-school-run/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/19568179/driverless-cars-trust-school-run/amp/"
     type: article
     provider:
       name: The Sun
       domain: thesun.co.uk
-    quality: 38
+    quality: 56
     images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/04/NINTCHDBPICT000719601367.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/08/comp-ap-6469-atkinson-op.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920
         height: 1080
         isCached: true
-  - title: "Self-driving cars could be allowed on all roads as early as 2025"
-    excerpt: "Cars driven by humans might soon be thing of the past. That’s right, your mates might have spent their hard-earned cashola on driving lessons, but the joke’s on them – vehicles could be driving themselves by 2025."
-    publishedDateTime: 2022-08-19T16:19:00Z
-    webUrl: "https://www.timeout.com/uk/news/self-driving-cars-could-be-allowed-on-all-roads-as-early-as-2025-081922?cid=~london~natsoc~twitter~echobox"
+  - title: "The risks and rewards as UK Government unveils its plans for driverless car roll out by 2025"
+    excerpt: "Vehicles that can drive themselves on motorways could be on sale within the next year, according to newly released plans by the Department for Transport"
+    publishedDateTime: 2022-08-19T07:33:00Z
+    webUrl: "https://inews.co.uk/news/self-driving-cars-uk-roads-2025-government-plans-1802805"
     type: article
     provider:
-      name: Time Out
-      domain: timeout.com
-    quality: 24
+      name: i
+      domain: inews.co.uk
+    quality: 28
     images:
-      - url: "https://media.timeout.com/images/105921648/image.jpg"
-        width: 1000
-        height: 750
+      - url: "https://wp.inews.co.uk/wp-content/uploads/2022/08/SEI_120003947.jpg"
+        width: 2500
+        height: 1604
         isCached: true
 
-secured: "VmQnQpJeQKjYoRUiMMBT7ZHJZoJvNZpiNuRCFji831g8J2gf9BvAb8RxTxyICwVMlfpMAmfgRZS9qfu7Sjow5NXl3BcTOu7vk87uItu4T16ZsKfsnRtC6D1uehrojK4X2psdHBaC6x6so0NlSzFgi+/+7EK+rA+jGs6eioINJAsARwagVkWPEGnawo9VH2vvOjsSAN51eNWAsqXv/MsGWF3i2n/d7D2GNZX72+UTzafmmtfOgqDigxHjc9+GZ5E+PzvlnESVydYVXNJ4SvVLRl0YjGu8dGaISLbvh6DsDx2d0j4E6HUp+UJdsLjYeKDHPz1gRgI4MMt9g3Us//SOvjluyO43PvxUvPGZWGKxYzwv52PBI1RcqqxNy4pCmoX/EdJMGUoVO7E87AFaZ2S+jvAxlqQ7zkkI4usq0lnEU2WeZN0UX8yeOx+jBjQT7YjrQQNUhuK+fVe6lbI2gJc5PsuscXvbv6lCtZXd5Eh/7nSsM+FQJtQPSRBzG1myegTFgHZPZalnGPkhyV78m32neA==;OUwN4P7Ll41w3mZ4bOsX1Q=="
+secured: "BL4rCLq2Las4ePT9z784uzcs32CBJYfapk/ZSEMlmNqb31LWcTP72Q1JwophpgKWGN4QDsrNaxrXmLsxzr4aVjiH2rRO+MmNtAWnFmC/5eu9f2IGngBB0yA7koLkrIjpe+pwF5j0DNZijuvE83DACwlMgx+cO/etX4xBsx4ivMc2rtxe9gcrNOlAS1hraEKqeszcc4LUTA164gQQAzCKr6g3QidlzP8OllkyrXjWucYTcFVe35pKfKGUfCwwM/wAzU3wi+oBIHVZXToiP16maRfinX3IzkB9MXOTw7buinWJ9FfbIErPYjjjUJI5WPgycpJY47fM24vSwebdB8Nv1I7J1OovgIX2TKYfiuu7DTI=;z046LhHADreD5tWF5rq4TA=="
 ---
 

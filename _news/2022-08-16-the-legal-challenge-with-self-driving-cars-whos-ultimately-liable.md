@@ -37,31 +37,6 @@ related:
         width: 650
         height: 417
         isCached: true
-  - title: "Self-driving cars could be on UK roads next year, Grant Shapps says - 'Huge potential'"
-    excerpt: "SELF-DRIVING cars could be seen on British roads by next year, as the Government invests £100million into the emerging sector."
-    publishedDateTime: 2022-08-19T06:55:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps"
-    ampWebUrl: "https://www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 36
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps-1657360.jpg?r=1660892097429"
-        width: 590
-        height: 350
-        isCached: true
-  - title: "Self-driving cars: UK motorways change sparks AA warning amid new government plans"
-    excerpt: "The Government has unveiled new plans which mean self-driving vehicles could be 'on UK roads by 2025' and they're backed by a £100 million investment to boost the rollout. Motorways could even see some cars,"
-    publishedDateTime: 2022-08-19T13:53:00Z
-    webUrl: "https://www.theboltonnews.co.uk/news/20675179.self-driving-cars-uk-motorways-change-sparks-aa-warning-amid-new-government-plans/"
-    type: article
-    provider:
-      name: The Bolton News
-      domain: theboltonnews.co.uk
-    quality: 0
 
 secured: "XXPBZmXwuD+CJ/g3oFb6/tkAPub50WcibfJjzdoTNXqAdLEaSKo/fIJdR8mIOclJTPnOymKpGcczgJ0W2ha7SMJu5KnOJjmuESWwM96TeOYH1Isf6aSAjva+bGYZcyv4todtEDTKeE1dA0vACs+tF+eR2PgyUZ8FJ+ZN3zWRgEg1tvfAjWpz++hrd7TzotX1J2GZP1O+XPAJwZWnZQDFqpFXoYG7Jxn2z3yBX95f1LJIFVZdZvLEwe8LadM/yXVaDg2d2RSpRq39USBfkOqgNuKP2y1+eryc8jMRiwmFUVgF2TWZNb5xOq+OeaAbPI5uHopA/fSGZ220Vzw2U5ALJu0i4/9cyHyRV2KSjzIpBSV/GhPRVjtsUgR94mySBO4YtX/x1Ba2lGCFK8w/1K/WW3AmD+YBia3BU8oZq7blXzjow05LgEm59mLncpnK1mccfJpAhwtmzmwiIemnDQISrYDJ8fOz9HHz+X3JQO/rcw9Ukmf35sC4uacIYIm92j1Z5rNEpK1g7KnGIDxXBe5BSw==;MIHZX6XmMJxa7ZrS/GWBBQ=="
 ---

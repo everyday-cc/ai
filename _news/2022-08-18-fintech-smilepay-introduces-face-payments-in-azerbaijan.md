@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/08/194877-fintech-smilepay-int
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/08/194877-fintech-smilepay-introduces-face-payments-in-azerbaijan/amp/"
 type: article
 quality: 61
-heat: 62
+heat: 61
 published: false
 
 provider:
