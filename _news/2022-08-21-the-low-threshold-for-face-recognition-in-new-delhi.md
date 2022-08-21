@@ -1,27 +1,25 @@
 ---
 category: news
-title: "80% accuracy in facial recognition database is a positive match for Delhi Police: Report"
-excerpt: "An 80 per cent accuracy in facial recognition databases was considered a positive match by the Delhi Police, which deployed the technology to identify accused in major clashes in the city, RTI records show."
-publishedDateTime: 2022-08-17T06:14:00Z
-originalUrl: "https://www.deccanherald.com/national/north-and-central/80-accuracy-in-facial-recognition-database-is-a-positive-match-for-delhi-police-report-1136806.html"
-webUrl: "https://www.deccanherald.com/national/north-and-central/80-accuracy-in-facial-recognition-database-is-a-positive-match-for-delhi-police-report-1136806.html"
-ampWebUrl: "https://www.deccanherald.com/amp/national/north-and-central/80-accuracy-in-facial-recognition-database-is-a-positive-match-for-delhi-police-report-1136806.html"
-cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/national/north-and-central/80-accuracy-in-facial-recognition-database-is-a-positive-match-for-delhi-police-report-1136806.html"
+title: "The Low Threshold for Face Recognition in New Delhi"
+excerpt: "Police in India's capital say they only require an 80 percent accuracy rate for matches, raising new alarm bells for civil liberty advocates."
+publishedDateTime: 2022-08-21T11:00:00Z
+originalUrl: "https://www.wired.co.uk/article/delhi-police-facial-recognition"
+webUrl: "https://www.wired.co.uk/article/delhi-police-facial-recognition"
 type: article
-quality: 50
+quality: 39
 heat: -1
 published: false
 
 provider:
-  name: Deccan Herald
-  domain: deccanherald.com
+  name: Wired UK
+  domain: wired.co.uk
 
 topics:
   - Computer Vision
   - AI
 
 images:
-  - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2022/08/17/file79k5jxgl1fq610vnd8z-991311-1622271230-1-1046836-1635906143-1136806-1660716893.jpg"
+  - url: "https://media.wired.co.uk/photos/62fed4a49ccefc2e2c825c03/16:9/w_1280,c_limit/Delhi-Police-Facial-Recognition-Security-GettyImages-1237447046.jpg"
     width: 1280
     height: 720
     isCached: true
@@ -59,21 +57,23 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "The Low Threshold for Face Recognition in New Delhi"
-    excerpt: "Police in India's capital say they only require an 80 percent accuracy rate for matches, raising new alarm bells for civil liberty advocates."
-    publishedDateTime: 2022-08-21T11:00:00Z
-    webUrl: "https://www.wired.co.uk/article/delhi-police-facial-recognition"
+  - title: "80% accuracy in facial recognition database is a positive match for Delhi Police: Report"
+    excerpt: "An 80 per cent accuracy in facial recognition databases was considered a positive match by the Delhi Police, which deployed the technology to identify accused in major clashes in the city, RTI records show."
+    publishedDateTime: 2022-08-17T06:14:00Z
+    webUrl: "https://www.deccanherald.com/national/north-and-central/80-accuracy-in-facial-recognition-database-is-a-positive-match-for-delhi-police-report-1136806.html"
+    ampWebUrl: "https://www.deccanherald.com/amp/national/north-and-central/80-accuracy-in-facial-recognition-database-is-a-positive-match-for-delhi-police-report-1136806.html"
+    cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/national/north-and-central/80-accuracy-in-facial-recognition-database-is-a-positive-match-for-delhi-police-report-1136806.html"
     type: article
     provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
+      name: Deccan Herald
+      domain: deccanherald.com
+    quality: 50
     images:
-      - url: "https://media.wired.co.uk/photos/62fed4a49ccefc2e2c825c03/16:9/w_1280,c_limit/Delhi-Police-Facial-Recognition-Security-GettyImages-1237447046.jpg"
+      - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2022/08/17/file79k5jxgl1fq610vnd8z-991311-1622271230-1-1046836-1635906143-1136806-1660716893.jpg"
         width: 1280
         height: 720
         isCached: true
 
-secured: "oUIxOLMzOTvkQRQHsqf7J5Ln1cY/xUKaUYFQ5KWDg9QuXu9+nk1wUel85I9xdJ2vjRBqQmRx/xTfCfdXfJcDSpfQAfMJdHHG64GM6vN8xqNmhrjrwpgqSqbMDIEBaIvVHIRqwlflRJi56ClongXCsqUAGCxS5+UslnmZgimGfRdCvju+6VLpiwio0ig3ZPv8GQ7GTg+sSLjmtL0GhALvmJPuizEZCgTQ+yTIPm4zkrqUmCaT6JIyhjIH4RR+S787rPV4q5Kp3D4pdcDc+rkiEfiiNr9hapzo12QhiHb/1plxbeYArgrQtK7DHmzGxGgi4Voae6OOlb/UQdn3V+0GZhh9329DyNp0jfOKy5wVaOSuNrKjmd/C1OwO3OzxhN14aUZ31vbnA//5V8IdxsJYJQtd6dYW3ypMWR+q6X/Fh/YfM/QzZOEwJsPT8BLhl/H5TFnAo+MU1PjIjU3fDsxR6btnukfuKEqGFixP4rBIimTtPatQZU9Tyv6ln7nT+ZPzlV5fz7O4bkQ2+waoHXiUsw==;X/xfQMaIA2MM+TbyG3m24A=="
+secured: "qB0yeiwlFvc2iIMTtFP2hBjpRhuSlzcieiPHeELzRNTvFTxbLXQghYS1rpD4DCy8gaRkuoUuYXhSKrmtue2ertq1rVE9wpy2Khnm5aCrp+OISMcSTB1nuqetjWyUpbp93rl0k5ZVj0pPluMcYHbJNvb7hf1cqiDlU6NvGKBPkwZOUcFHqtbSGALrDWVAlP75WOzygwofMn5Q6JHyxQaWVkfQYNw5nIZVkE7SdiVQxggXFb80h26espa7Iodz60mrJ/cNiIZxbhY5AksB3xBQ+Wh6O43B2FMkGbechw5w7i7XeZK2EavxKph4c5NSMwSml4YbebtE2smyLqkUKI851q+OfrU8rnpXzdFcew4iyRk=;nl7oWULZ0NSwtWF6k7xGng=="
 ---
 

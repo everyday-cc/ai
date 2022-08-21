@@ -54,7 +54,7 @@
       "originalUrl": "https://medcitynews.com/2022/08/robotics-and-automation-are-the-future-of-healthcare/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -354,7 +354,7 @@
       "originalUrl": "https://nypost.com/2022/08/17/elon-musk-unveils-tesla-robot-says-it-will-perform-boring-chores-by-years-end/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 81,
       "tags": null,
       "images": [
         {
@@ -639,8 +639,8 @@
       "title": "Meet BRILLO: The robot bartender for when you're tired of human interaction",
       "excerpt": "Have you ever wanted all the benefits of going to a bar without having to talk to the actual human being serving your drinks? You're in luck, because Italian scientists at the University of Naples Federico II have developed a machine that can do just that.",
       "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/brillo-the-italian-bartending-robot?taid=62f9b6d26c26260001912630",
-      "originalUrl": "https://mashable.com/article/brillo-the-italian-bartending-robot?taid=62f9b6d26c26260001912630",
+      "webUrl": "https://mashable.com/article/brillo-the-italian-bartending-robot",
+      "originalUrl": "https://mashable.com/article/brillo-the-italian-bartending-robot",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1018,19 +1018,19 @@
     {
       "path": "_news/2022-08-12-hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics.md",
       "title": "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics",
-      "excerpt": "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across",
+      "excerpt": "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across the technical areas of cognitive AI,",
       "sourceUrl": null,
-      "webUrl": "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4",
-      "originalUrl": "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://preview.thenewsmarket.com/Previews/kiam/StillAssets/960x540/563394_v3.jpg",
-          "width": 1164,
-          "height": 657,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1040,11 +1040,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T23:04:00-07:00",
+      "publishedDateTime": "2022-08-12T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The NewsMarket",
-        "domain": "thenewsmarket.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null

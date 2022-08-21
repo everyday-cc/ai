@@ -9,7 +9,7 @@ ampWebUrl: "https://in.mashable.com/tech/36870/ok-google-get-me-a-soda-take-a-lo
 cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/36870/ok-google-get-me-a-soda-take-a-look-at-the-ai-giant-soda-fetching-robots?amp=1"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "OK Google, get me a Coke: AI giant demos soda-fetching robots"
-    excerpt: "Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
-    publishedDateTime: 2022-08-16T18:27:00Z
-    webUrl: "https://www.ksl.com/article/50458756/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots"
-    type: article
-    provider:
-      name: KSL
-      domain: ksl.com
-    quality: 54
-    images:
-      - url: "https://img.ksl.com/slc/2889/288904/28890475.JPG?filter=kslv2/responsive_story_lg"
-        width: 1228
-        height: 690
-        isCached: true
   - title: "OK Google, get me a Coke: AI giant demos soda-fetching robots"
     excerpt: "Alphabet Inc.'s Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
     publishedDateTime: 2022-08-19T13:03:00Z

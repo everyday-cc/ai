@@ -3,8 +3,8 @@ category: news
 title: "Meet BRILLO: The robot bartender for when you're tired of human interaction"
 excerpt: "Have you ever wanted all the benefits of going to a bar without having to talk to the actual human being serving your drinks? You're in luck, because Italian scientists at the University of Naples Federico II have developed a machine that can do just that."
 publishedDateTime: 2022-08-15T02:21:00Z
-originalUrl: "https://mashable.com/article/brillo-the-italian-bartending-robot?taid=62f9b6d26c26260001912630"
-webUrl: "https://mashable.com/article/brillo-the-italian-bartending-robot?taid=62f9b6d26c26260001912630"
+originalUrl: "https://mashable.com/article/brillo-the-italian-bartending-robot"
+webUrl: "https://mashable.com/article/brillo-the-italian-bartending-robot"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 675
     isCached: true
 
-secured: "Tqdx/a3mQqlPcezMCra74T9d163KNGTlgPWfnizPelMSvr5WGcCEDS4FhcdERUqCX6FpOUZlQ39uoqPrFqqLfcEFyJKYzFOYphoNYGQM0CnclfDvEcYQu/3qxyiTqTzPaOQaVyqEGw/z95vpeM9f0j+7eVRCXyscHNQklxrGAATP9TsoqXhXXHYTI4rutQZ0JqBspTIBjV3QrC0gT7o5fBWAuZbPpOPXSrMEsUPxa9vTfTI998p9QS3mLOnSNyVnbJL5v+C4QLHme0UOT10DpNqP26JXaiZwYnVtdi3dO6yDQFpkFG25D8tLLe/3s3HcEU9dJJaZOiWlV3LCoCAlT8tkwiHyUSDGBorgrhd+sAs=;XU8snqERwt3UEw8Fw8qiQQ=="
+secured: "CjdfADPJRJ6uL8DFM/N6yjtDsKYpbgYott+W6/GMpHmxLMUryCgNQPfy8Z2kTFNcIHraVpShcS54o+vHkNqEwVjMCrpIXIzlgVYFOy9Loh7hNUszhz6Fns2VUMXD1A0g8TpA+TvmwPKn4D/sqi2r4dMNqFbM5+NgWl0j0LU6TiFBkPuJnRi5QUfCyGpUHX0CxLpwKTw8lb4zRX9hIwzgdRF5FfUIV5J+sxnraNoyYoYlI//Hg7rcxdJ9EZPtkJDgzzWADj4N5xvkjopKKecDcUKnaY82OIcF7/vTc8PwfiJ1wBcDVUDDMe4BJLxDcIs1tJiGcalcYNLEotr/7kydavSBhpyhF/FLXthwVflHnHQ=;kRn1ybUpoOGAjxa622ubyw=="
 ---
 

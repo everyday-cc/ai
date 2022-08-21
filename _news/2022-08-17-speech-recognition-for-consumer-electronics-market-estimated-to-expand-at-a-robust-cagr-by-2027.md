@@ -97,6 +97,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face Recognition Systems Market Research Report, Future Market Insights, Porter Five forces Analysis, Research & Forecast 2022 to 2028"
+    excerpt: "The global Face Recognition Systems market size is projected to reach multi million by 2028, in comparision to 2021, at unexpected CAGR during 2022-2028 (Ask for Sample Report). T"
+    publishedDateTime: 2022-08-16T23:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-research-report-future-market-insights-porter-five-forces-analysis-research-forecast-2022-to-2028-2022-08-16"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Training Data Market Size 2021, Key Futuristic Trends, SWOT Analysis, Opportunities and Outlook Analysis by 2027 with Top Growth Companies"
     excerpt: "In 2021, “ AI Training Data Market “ Size, Status and Market Insights, Forecast to 2027 |( Number of Pages:107) AI"
     publishedDateTime: 2022-08-17T04:58:00Z

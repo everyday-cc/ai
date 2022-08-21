@@ -7,7 +7,7 @@ originalUrl: "https://english.aawsat.com/home/article/3820846/parmy-olson/facebo
 webUrl: "https://english.aawsat.com/home/article/3820846/parmy-olson/facebook-does-something-right-change"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,35 @@ images:
     isCached: true
 
 related:
-  - title: "Comment: Facebook’s openness on its chatbot gets it right"
-    excerpt: "But in a completely different part of the approximately 80,000-employee business, Facebook’s exchange of information was going the other way and to good effect. The company known as Meta Platforms this month published a webpage demonstrating its chatbot,"
-    publishedDateTime: 2022-08-18T08:30:00Z
-    webUrl: "https://www.heraldnet.com/opinion/comment-facebooks-openness-on-its-chatbot-gets-it-right/"
+  - title: "Jobs in the metaverse are disappearing as Google and Facebook slow hiring"
+    excerpt: "USA: Employment in the metaverse is declining, according to workplace research firm Revalio Labs. According to Revlio, new monthly job posti..|News Track"
+    publishedDateTime: 2022-08-21T10:06:00Z
+    webUrl: "https://english.newstracklive.com/news/jobs-in-the-metaverse-are-disappearing-as-google-and-facebook-slow-hiring-sc57-nu355-ta355-1245982-1.html"
+    ampWebUrl: "https://english.newstracklive.com/ampnews/jobs-in-the-metaverse-are-disappearing-as-google-and-facebook-slow-hiring-sc57-nu355-ta355-1245982-1.html"
+    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/jobs-in-the-metaverse-are-disappearing-as-google-and-facebook-slow-hiring-sc57-nu355-ta355-1245982-1.html"
     type: article
     provider:
-      name: HeraldNet
-      domain: heraldnet.com
-    quality: 24
+      name: News Track
+      domain: newstracklive.com
+    quality: 43
     images:
-      - url: "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png"
+      - url: "https://media.newstrack.in/amp/uploads/latest-news/politics-news/Aug/21/big_thumb/Screenshot-2022-08-21-152246_6302007ed76aa.png"
+        width: 1798
+        height: 900
+        isCached: true
+  - title: "Who Will Establish Metaverse Ethics?"
+    excerpt: "The“metaverse” is not here yet, and when it arrives it will not be a single domain controlled by any one company. Facebook wanted to cre"
+    publishedDateTime: 2022-08-19T03:34:00Z
+    webUrl: "https://menafn.com/1104722652/Who-Will-Establish-Metaverse-Ethics"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_2.jpg?871475"
         width: 400
-        height: 400
+        height: 250
         isCached: true
 
 secured: "5PbX9XOeD0n8cP/1QR8cjcI0rCA6D0Jn363qCFf8B5nj3+FbwZ7aRqDbu2Cs07xnU1XPbPyJM8GaD1YdSsYysTDPY6EPxgcZpfjJ5cgned+03eobIAUlkvJOWX/3WqdxE0AhAYhatFhKBgQdfgWMBj15InIXtyjtr+ZFCGx1b45a1yI0TUvM0CIhcbDg38dVckr8ALK9HWBtBv3p0toJuA5Z4badQY6OnLvKe+OWOxr5EjXwfEIc+qWgNGPn0l0/xTiOVVjVcrQpGUdM2qNtXaTOkgWWMrfroCLfl94s6GlIQJpd69tbiC3+ogZ0EzJ1QpI9f7Xyh00YJUnqCIOmq1bAZnJ+O3G8KqMWLzWAdCOMYTa4QVMmaJmF8UBo9Idou4+TV09yD78aPvb5nDDTuIqr4tJ0O7mbsTmfRtMmwDfZKJ6RliCyYpDMGSWYYoUzy39KHHX2qjC3Yqg5CMAi/fG8K0wxfIkwCOvVGpGhn2V+waSEE1f//D2gxvP7IHSQ8Ha5jRcZqWj+uKHJ19gSaQ==;sM0ZZpYPxyRMg2yYcdF8fw=="

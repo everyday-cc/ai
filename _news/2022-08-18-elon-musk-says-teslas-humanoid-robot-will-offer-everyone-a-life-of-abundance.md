@@ -36,20 +36,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Elon Musk provides information on Tesla’s humanoid robot"
-    excerpt: "Optimus, a new humanoid robot developed by Tesla, will be introduced by the end of September. Tesla’s entry into the robots sector has been the subject of much conjecture, but a new article by CEO Elon Musk provides some clarity."
-    publishedDateTime: 2022-08-16T17:22:00Z
-    webUrl: "https://bestgamingpro.com/elon-musk-provides-information-on-teslas-humanoid-robot/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 58
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/08/Elon-Musk-drops-details-about-Teslas-humanoid-robot.png"
-        width: 600
-        height: 365
-        isCached: true
 
 secured: "0ZV2qk/gApnHqO+RzYSmioPC1SabCUKfBT6knUNsuFWbRQWAWruS+EjSZH7QqA9CLr0em7AkxXWR7OEbYLhpKRwscqLDpN+2iXuLrWSqj/lDClyBN/D4QvGTgXnAcIqENCpmUYHTiB5WoYZAyVx/O8lnU1V7O8oahH/If3aUv91gujhci679HQZfZiV0jV2Dx9RX/z3SEA8L+aDVqL062bFuibsm6mZSG0ZHPBfcNKuuFP4UDkWPnbU8YqdDavOh8FCQP83ip/ICC0GqMeQxQ1ti6wddlpv/ZqVMn1M1Jmj9JbHGv8CEh+nfc/lLJbinmL70aWlaxLUlzC2P3Lq2cyRg5drtasHKUCtQhEIptnP/7aCVs6YBWSRwnqoPIDNx5utyDgkDJytnenEecpqcK+ki7ldkBgdQ2l1Vd+REBEM2ANoYtaXEGCrtueRLRuUi4muoe3uXn1sN4pOM4KdpNEiBsLsj5pzgozV1TMi/QJ6c6JtRQOqSsutTlE1SVwIMtHlLH+Be00tuhp/iB911bQ==;l+Sp6bih95ZZX1VZxvvqOw=="
 ---

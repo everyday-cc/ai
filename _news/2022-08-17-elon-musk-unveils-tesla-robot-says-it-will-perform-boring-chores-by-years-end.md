@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/08/17/elon-musk-unveils-tesla-robot-says-it-
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/08/17/elon-musk-unveils-tesla-robot-says-it-will-perform-boring-chores-by-years-end/amp/"
 type: article
 quality: 71
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Elon Musk provides information on Tesla’s humanoid robot"
-    excerpt: "Optimus, a new humanoid robot developed by Tesla, will be introduced by the end of September. Tesla’s entry into the robots sector has been the subject of much conjecture, but a new article by CEO Elon Musk provides some clarity."
-    publishedDateTime: 2022-08-16T17:22:00Z
-    webUrl: "https://bestgamingpro.com/elon-musk-provides-information-on-teslas-humanoid-robot/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 58
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/08/Elon-Musk-drops-details-about-Teslas-humanoid-robot.png"
-        width: 600
-        height: 365
-        isCached: true
   - title: "Elon Musk says Tesla’s humanoid robot will offer ‘everyone a life of abundance’"
     excerpt: "In fact, in addition to cars, humanoid robots are also becoming a reality, with Tesla launching a general-purpose humanoid robot (Tesla Bot) in 2021.” “The Tesla Bot is close to the height and weight of an adult,"
     publishedDateTime: 2022-08-18T06:36:00Z

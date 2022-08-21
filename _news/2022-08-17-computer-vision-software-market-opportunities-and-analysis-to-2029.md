@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-software
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-opportunities-and-analysis-to-2029-2022-08-17"
 type: article
 quality: 69
-heat: 169
+heat: 179
 published: true
 
 provider:
@@ -79,6 +79,20 @@ related:
     excerpt: "Global Artificial Intelligence in Automotive Market Report is an In-Depth Analysis of the Latest Developments, Market"
     publishedDateTime: 2022-08-17T12:36:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2025-2022-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Face Recognition Systems Market Research Report, Future Market Insights, Porter Five forces Analysis, Research & Forecast 2022 to 2028"
+    excerpt: "The global Face Recognition Systems market size is projected to reach multi million by 2028, in comparision to 2021, at unexpected CAGR during 2022-2028 (Ask for Sample Report). T"
+    publishedDateTime: 2022-08-16T23:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-research-report-future-market-insights-porter-five-forces-analysis-research-forecast-2022-to-2028-2022-08-16"
     type: article
     provider:
       name: MarketWatch

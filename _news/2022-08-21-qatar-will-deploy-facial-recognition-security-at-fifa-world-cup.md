@@ -7,7 +7,7 @@ originalUrl: "https://www.sporttechie.com/qatari-officials-will-deploy-facial-re
 webUrl: "https://www.sporttechie.com/qatari-officials-will-deploy-facial-recognition-security-at-fifa-world-cup"
 type: article
 quality: 56
-heat: 76
+heat: 77
 published: true
 
 provider:

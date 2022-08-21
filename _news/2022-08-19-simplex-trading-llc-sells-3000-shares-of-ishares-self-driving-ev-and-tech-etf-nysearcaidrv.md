@@ -37,6 +37,15 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 39
+  - title: "ROBO Global Artificial Intelligence ETF (NYSEARCA:THNQ) Trading Down 3.3%"
+    excerpt: "ROBO Global Artificial Intelligence ETF (NYSEARCA:THNQ – Get Rating) shares traded down 3.3% during mid-day trading on Friday . The stock traded as low as $30.53 and last traded at $30.63. 2,018 shares were traded during trading,"
+    publishedDateTime: 2022-08-21T09:28:00Z
+    webUrl: "https://www.defenseworld.net/2022/08/21/robo-global-artificial-intelligence-etf-nysearcathnq-trading-down-3-3.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 16
   - title: "iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV) Shares Acquired by Northwestern Mutual Wealth Management Co."
     excerpt: "Northwestern Mutual Wealth Management Co. increased its holdings in shares of iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV – Get Rating) by 19.9% during the first quarter, according to its most recent filing with the Securities and Exchange Commission (SEC)."
     publishedDateTime: 2022-08-18T10:56:00Z

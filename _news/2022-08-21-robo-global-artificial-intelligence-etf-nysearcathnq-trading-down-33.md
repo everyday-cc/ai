@@ -1,13 +1,13 @@
 ---
 category: news
-title: "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Shares Down 2.1%"
-excerpt: "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ – Get Rating) shares traded down 2.1% during trading on Wednesday . The stock traded as low as $22.93 and last traded at $23.05."
-publishedDateTime: 2022-08-18T06:32:00Z
-originalUrl: "https://www.defenseworld.net/2022/08/18/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-down-2-1.html"
-webUrl: "https://www.defenseworld.net/2022/08/18/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-down-2-1.html"
+title: "ROBO Global Artificial Intelligence ETF (NYSEARCA:THNQ) Trading Down 3.3%"
+excerpt: "ROBO Global Artificial Intelligence ETF (NYSEARCA:THNQ – Get Rating) shares traded down 3.3% during mid-day trading on Friday . The stock traded as low as $30.53 and last traded at $30.63. 2,018 shares were traded during trading,"
+publishedDateTime: 2022-08-21T09:28:00Z
+originalUrl: "https://www.defenseworld.net/2022/08/21/robo-global-artificial-intelligence-etf-nysearcathnq-trading-down-3-3.html"
+webUrl: "https://www.defenseworld.net/2022/08/21/robo-global-artificial-intelligence-etf-nysearcathnq-trading-down-3-3.html"
 type: article
-quality: 40
-heat: 40
+quality: 16
+heat: -1
 published: false
 
 provider:
@@ -15,10 +15,18 @@ provider:
   domain: defenseworld.net
 
 topics:
-  - AI in Robotics
   - AI
 
 related:
+  - title: "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Shares Down 2.1%"
+    excerpt: "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ – Get Rating) shares traded down 2.1% during trading on Wednesday . The stock traded as low as $22.93 and last traded at $23.05."
+    publishedDateTime: 2022-08-18T06:32:00Z
+    webUrl: "https://www.defenseworld.net/2022/08/18/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-down-2-1.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 40
   - title: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT) Trading Down 2%"
     excerpt: "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NYSEARCA:ROBT – Get Rating) was down 2% on Wednesday . The stock traded as low as $41.90 and last traded at $42.11. Approximately 10,426 shares changed hands during trading,"
     publishedDateTime: 2022-08-18T06:30:00Z
@@ -28,15 +36,6 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 39
-  - title: "ROBO Global Artificial Intelligence ETF (NYSEARCA:THNQ) Trading Down 3.3%"
-    excerpt: "ROBO Global Artificial Intelligence ETF (NYSEARCA:THNQ – Get Rating) shares traded down 3.3% during mid-day trading on Friday . The stock traded as low as $30.53 and last traded at $30.63. 2,018 shares were traded during trading,"
-    publishedDateTime: 2022-08-21T09:28:00Z
-    webUrl: "https://www.defenseworld.net/2022/08/21/robo-global-artificial-intelligence-etf-nysearcathnq-trading-down-3-3.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 16
   - title: "iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV) Shares Acquired by Northwestern Mutual Wealth Management Co."
     excerpt: "Northwestern Mutual Wealth Management Co. increased its holdings in shares of iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV – Get Rating) by 19.9% during the first quarter, according to its most recent filing with the Securities and Exchange Commission (SEC)."
     publishedDateTime: 2022-08-18T10:56:00Z
@@ -65,6 +64,6 @@ related:
       domain: defenseworld.net
     quality: 0
 
-secured: "jgTY6v4jn5AG0CTlAtlAQxwAcN1UK3wmQFhvxShA/Ixyq+hanrkStkqwMLQXeglo6UsVWwyFB/9CacjNO8i6HDaYtFtorvt2TLwPE2FdLhZOY6SIkmkOmWtyEbw9Z8DqmB+JIi6GVHYsbZVX+YVcFk12z4r6VFXA0MKmHneVkigxU1HGCgvnUkNnXoz2+WrMVHFgOkxHlySIivOuHUfMldLafoMPl8w6lhsoubSIp6o8CJJ4mdeTnMjoS8DrDXH0Y9FJ1uNdNgU9sNNupeSaG4fezkXvfLtP9aS02K2dvgHjDbHPf7cYopQSp0Okr0NrVDnBiHtSfxYyxXaz/RHJBNSR8lGN8L5mYxFibG61xpo=;4DCgf97D4F1aH/Kd8k4CcQ=="
+secured: "1eF5gi7blP0drkFU76oi/jW7pu6m/TgK+/Up7ysXuqHXZGSdez8tQDkeetb410Yf2Qx+/GfjdzT81AF9/y8CMLAnCwpKELvyf8Dn604xat515KMlXqshDWPz/eAcFo/R6WWkWsc/khgHq41rIQCLmLEWP/lec+Y+q07Ib1q/y8AgCLLWZhLmQS/ECy8vJUa8+5xsVuO92xHLC6lgN5Al083QDX1qzZxz57To4TM6JyOSlHOsmhh+neY5EFCCj2DBElDAW3FaWSnGmM25s7heY6vJUAJlf+3GZvYuURLVvxMFzVonHgsNouZNoCk9DMZvXdKMNFTSZZwFbenHO1EUjbc0Hy10dRLGAqxHCF6+7WQ=;o2tYbuQdbvvMQqVewmWrvQ=="
 ---
 

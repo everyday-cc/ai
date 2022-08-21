@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Artificial Intelligence in Automotive Market Overview by Recent Opportunities, Growth Size, Regional Analysis and Forecasts to 2025"
-excerpt: "Global Artificial Intelligence in Automotive Market Report is an In-Depth Analysis of the Latest Developments, Market"
-publishedDateTime: 2022-08-17T12:36:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2025-2022-08-17"
-webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2025-2022-08-17"
+title: "Face Recognition Systems Market Research Report, Future Market Insights, Porter Five forces Analysis, Research & Forecast 2022 to 2028"
+excerpt: "The global Face Recognition Systems market size is projected to reach multi million by 2028, in comparision to 2021, at unexpected CAGR during 2022-2028 (Ask for Sample Report). T"
+publishedDateTime: 2022-08-16T23:01:00Z
+originalUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-research-report-future-market-insights-porter-five-forces-analysis-research-forecast-2022-to-2028-2022-08-16"
+webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-research-report-future-market-insights-porter-five-forces-analysis-research-forecast-2022-to-2028-2022-08-16"
 type: article
 quality: 37
 heat: -1
@@ -19,6 +19,7 @@ provider:
       height: 50
 
 topics:
+  - Computer Vision
   - AI
 
 images:
@@ -88,10 +89,10 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Systems Market Research Report, Future Market Insights, Porter Five forces Analysis, Research & Forecast 2022 to 2028"
-    excerpt: "The global Face Recognition Systems market size is projected to reach multi million by 2028, in comparision to 2021, at unexpected CAGR during 2022-2028 (Ask for Sample Report). T"
-    publishedDateTime: 2022-08-16T23:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-research-report-future-market-insights-porter-five-forces-analysis-research-forecast-2022-to-2028-2022-08-16"
+  - title: "Artificial Intelligence in Automotive Market Overview by Recent Opportunities, Growth Size, Regional Analysis and Forecasts to 2025"
+    excerpt: "Global Artificial Intelligence in Automotive Market Report is an In-Depth Analysis of the Latest Developments, Market"
+    publishedDateTime: 2022-08-17T12:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2025-2022-08-17"
     type: article
     provider:
       name: MarketWatch
@@ -158,6 +159,6 @@ related:
       domain: fmiblog.com
     quality: 0
 
-secured: "S8Y1z5Mae5fmxtqRvot2681Dhtu0uTe/cwf+3GiSz3dniK8G0X0CqEXn0r8kcPTw4ezw8KHWJOwK7NSFOOT4JtqUt7Y02lWAXzyE86LLaAUI1SchyUnibS0NjBRwdq+WY31HXzAsRqhpgPi7dK7TzgNOJ9GIDPBiVbqq2LCa/f1JfGutZKfvHOp4izjp6iJQQ2IX55uuzOaFXvS52v7KOcftQ4pCHVSmBE2eeNyw3Z1RxnpsBFI8hkX5gfyQ2MZ4/lfk0svbQfho8dKUSCys3a+AJ31WlutWsaq9snutj9rjsu4vvUpIUhnqEGg9fjAYnEyd7zaeyL1a8AeXrQWlwtaWj3foU1eEDqo5E+fZjqI=;qcZanwtrJs7ZEUFPSpLaEQ=="
+secured: "Tp2waE7qBD46O7hs7m1V2R+gPxfGMjaZBLcbDIW0UciiwqXMdkCPJymW2CXdV6Z2AAdNXcT9VzexonNyw8t0FaqLi4V1atXnw8L1MheoOH/Ek/CLqclJk9npj0lR0fINIlBzPdpnnRoMpB2hOBoqT8uKFEFp2fSL9jggAaGDH4WJc/pH1JABhOfwwjQ3J7SgZbc0KJ+37zFtf8C1pBEhPq8L3I/Ud1GhhSOhQuqjxRs5TcWq5HT0JAbjLKYyDvl7wnrwqfsDs+XPAkQnr92sZNodzV/EzSqxNq3lyc9CmOIEJCTiXh3E8lToCAMOtFouPDuhiyvFuzB7hA08ROxPzNWKkUgWFmLZwLVX2xsVl7o=;PzO9mr245B3uZ5D8IiXIfw=="
 ---
 

@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Talking about an AI revolution? Don't forget the storage"
-    excerpt: "The AI and HPC boom could not have happened without massive amounts of data, requiring corresponding leaps in file system and storage technology. So, what is the state of the art today? What effect will the hybrid cloud era have?"
-    publishedDateTime: 2022-08-16T18:00:00Z
-    webUrl: "https://www.theregister.com/2022/08/16/open_storage_summit_nvidia/"
-    type: article
-    provider:
-      name: theregister
-      domain: theregister.com
-    quality: 19
   - title: "Here's how a 24-year-old first-time founder raised $63 million from top VCs in under a year to revolutionize drug discovery with AI"
     excerpt: "Laksh Aithani founded one of biotech's hottest startups. Here's how the 24-year-old jumped from college student to CEO."
     publishedDateTime: 2022-08-19T12:30:00Z
