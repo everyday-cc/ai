@@ -23,6 +23,20 @@ topics:
   - AI
 
 related:
+  - title: "Tesla’s Full-Self Driving software is going up in price again"
+    excerpt: "Tesla’s increasing the price of its Full-Self Driving (FSD) software to $15,000. In a post on Twitter, Tesla CEO Elon Musk announced that the new price will go into effect in North America starting September 5th,"
+    publishedDateTime: 2022-08-21T16:42:00Z
+    webUrl: "https://www.theverge.com/2022/8/21/23315270/tesla-full-self-driving-fsd-feature-price-increase-electric-vehicle-elon-musk"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 99
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/wEmS6qeSqPoyWcc1aVYbTgsWqPY=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11423501/acastro_180524_1777_tesla_0003.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Podcast: Tesla Full Self-Driving Beta test, VPP event, Tesla Semi, and more"
     excerpt: "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. This week, we discussed our Tesla Full Self-Driving Beta test, Tesla’s first VPP event,"
     publishedDateTime: 2022-08-19T19:33:00Z
@@ -83,6 +97,22 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "Tesla Is Doubling Down On Full Self Driving While Ralph Nader Wants It Recalled."
+    excerpt: "Tesla is hiking the price of its sometimes controversial driver assistance software it calls Full Self Driving."
+    publishedDateTime: 2022-08-21T15:56:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-raises-price-for-full-self-driving-51661097330"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-raises-price-for-full-self-driving-51661097330"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-raises-price-for-full-self-driving-51661097330"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 69
+    images:
+      - url: "https://images.barrons.com/im-600983/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Don't Test Tesla's Full-Self Driving on Children: Safety Regulators"
     excerpt: "According to Bloomberg, the National Highway Traffic Safety Administration said it uses controlled procedures when testing vehicles and that “it could be highly dangerous for anyone to attempt to test vehicle technologies on their own."
     publishedDateTime: 2022-08-18T17:20:00Z
@@ -136,6 +166,20 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2022/08/2022-Tesla-Lineup-1-1024x555.jpg"
         width: 1024
         height: 555
+        isCached: true
+  - title: "Man from NC test Tesla's 'full self-driving' on a real kid"
+    excerpt: "A North Carolina resident sets out to refute a widely circulated video of a Tesla with the company's \"full self-driving\" beta software."
+    publishedDateTime: 2022-08-21T20:21:00Z
+    webUrl: "https://abc11.com/north-carolina-tesla-full-self-driving-test-carmine-cupani/12150489/"
+    type: article
+    provider:
+      name: WTVD
+      domain: abc11.com
+    quality: 39
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/12150501_tesla.png?w=1600"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "z3O5i8TaYVtMBhjVmWwnBF3DNFZZvb7VB/+NRSXf681YCGZejbb9SZvym4NWuaMm8I6avTmoJLcKsUvhOGfR11VbRkLTkAyTP+2cw3rItNmqhi9uufR6BChdbSzjvFyivpJLIEn/h3C6ltzArxbsT4uLgMjQbIroPA/ykD7bRbaLM6Kf5ykG8HI8dmboYO4iw+QM41Cmj7g3BrYhPqhnOGeXZwHvnGytz9HyFZyqmwl02aF3EciJF7qIOeMpX/oocBAfOPII9hx0l2UZq3PLchRbCZy5hGQ/K0l/H2DV1uP6tozcRnnasLxQXlMFPI1OVzCJoNM+Mu4T6cCU3kkA8kT5yP7epq94G6IhchHdIBRaVPHevbUrh/jcr3121XLjqD9k6b3GjHRmcnZs8YkXQef3I7+nwiZF1qy5TsIaapxe4k0PtvgrPJOv0iM4zAt+22G/3jM/q+SisE80newOqAmtfgTEviOIotWC4RAIIicg3eB6ZDEWoruWcTYfXan0M9yUP4I7X/lmdfZQI5c05w==;OcdpnmuhuXS3rpoqwpiADA=="

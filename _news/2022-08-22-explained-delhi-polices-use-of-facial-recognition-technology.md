@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/explained-delhi-polices
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/explained-delhi-polices-use-of-facial-recognition-technology/article65793897.ece/amp/"
 type: article
 quality: 74
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2019/12/Facial-Recognition.jpg"
         width: 1250
         height: 805
-        isCached: true
-  - title: "Delhi Police in RTI reply: 80% match in facial recognition is deemed positive ID"
-    excerpt: "The records, shared under two RTI requests and reviewed by The Indian Express, throw light for the first time on how the Delhi Police uses facial recognition matches during investigations."
-    publishedDateTime: 2022-08-17T02:39:00Z
-    webUrl: "https://indianexpress.com/article/cities/delhi/delhi-police-rti-reply-80-pc-match-facial-recognition-deemed-positive-id-8094324/"
-    ampWebUrl: "https://indianexpress.com/article/cities/delhi/delhi-police-rti-reply-80-pc-match-facial-recognition-deemed-positive-id-8094324/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/delhi/delhi-police-rti-reply-80-pc-match-facial-recognition-deemed-positive-id-8094324/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 54
-    images:
-      - url: "https://images.indianexpress.com/2022/08/facial_recognition_reuters-1200.jpg"
-        width: 1200
-        height: 667
         isCached: true
   - title: "80% accuracy in facial recognition database is a positive match for Delhi Police: Report"
     excerpt: "An 80 per cent accuracy in facial recognition databases was considered a positive match by the Delhi Police, which deployed the technology to identify accused in major clashes in the city, RTI records show."

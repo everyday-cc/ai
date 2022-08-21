@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-21T19:36:00Z
 originalUrl: "https://uproxx.com/music/reactions-fn-meka-signing/"
 webUrl: "https://uproxx.com/music/reactions-fn-meka-signing/"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: Uproxx

@@ -56,22 +56,6 @@ related:
         width: 1120
         height: 630
         isCached: true
-  - title: "Google's parent Alphabet adds AI language skills to helper robots"
-    excerpt: "Google's parent company Alphabet is bringing together two of its most ambitious research projects -- robotics and AI language understanding -- to make a \"helper robot\" that can understand natural language commands."
-    publishedDateTime: 2022-08-17T04:17:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/googles-parent-alphabet-adds-ai-language-skills-to-helper-robots/articleshow/93608687.cms"
-    ampWebUrl: "https://www.businessinsider.in/tech/news/googles-parent-alphabet-adds-ai-language-skills-to-helper-robots/amp_articleshow/93608687.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/googles-parent-alphabet-adds-ai-language-skills-to-helper-robots/amp_articleshow/93608687.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 57
-    images:
-      - url: "https://www.businessinsider.in/thumb/93608834.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
   - title: "Scientists Use Robot to Understand Ant Communication"
     excerpt: "A team of scientists at the University of Bristol has developed a small robot that helps them understand how ants teach one another. The robot was built to mimic the behavior of rock ants, which rely on one-to-one tuition."
     publishedDateTime: 2022-08-18T23:24:00Z

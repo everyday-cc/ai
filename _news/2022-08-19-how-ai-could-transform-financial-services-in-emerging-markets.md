@@ -52,20 +52,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 53
-  - title: "4 Companies Leading The Rise Of Artificial Intelligence And Big Data"
-    excerpt: "The article highlights four companies in the Global X Artificial Intelligence & Technology ETF (AIQ) that are shaping the growth path of technologies along the AI value chain."
-    publishedDateTime: 2022-08-17T03:52:00Z
-    webUrl: "https://seekingalpha.com/article/4535058-four-companies-leading-the-rise-of-ai-big-data"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 45
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1387900612/image_1387900612.jpg?io=getty-c-w750"
-        width: 750
-        height: 534
-        isCached: true
   - title: "Pitching with Artificial intelligence"
     excerpt: "Pressfriendly offers a similar service for startups by using AI to review beat reporters' past coverage and open rates. This intel helps identify the best send times and will increase the likelihood of pickup,"
     publishedDateTime: 2022-08-18T15:58:00Z

@@ -41,20 +41,6 @@ related:
         width: 400
         height: 250
         isCached: true
-  - title: "Facebook Does Something Right for a Change"
-    excerpt: "As one of the 21st Century’s most powerful data brokers, Facebook is best known for its role in sucking up the personal information of billions of users for its advertising clients. That lucrative mod"
-    publishedDateTime: 2022-08-17T05:00:00Z
-    webUrl: "https://english.aawsat.com/home/article/3820846/parmy-olson/facebook-does-something-right-change"
-    type: article
-    provider:
-      name: الشرق الأوسط
-      domain: aawsat.com
-    quality: 24
-    images:
-      - url: "https://english.aawsat.com/sites/default/files/styles/large/public/2021/09/11/parmy_olson.jpg?itok=FY1zLtcJ"
-        width: 400
-        height: 400
-        isCached: true
 
 secured: "YVezvEGC41JAareJuIOmnjMAZBATo9s4qyMjhDiEuzuLg3BnD1JBZLf2dePItd3dxNKr5oY/6aVkjD/WljJtyZApm8Q0ls74gac8ATBy5hd+g8/xgDpWnJNLau0HRbPsIW9jtDsQt/ukJD+J77lkbvItnUPfANtefTxclmGfoNSf3JAODGju6THS5BVXYGbeb/rUiRiIXEizD7+WfFkwreqmqiOdt3Q9J9NNy7ZpUlv7coJxiUGS073+S5WNm0HMd/rwpA1k7xxXX+eLiJJBHB2JPt/FjFZPkuopd/vCHo+YoDryZG2SgrL24nhUEutvEWT0veRsnPgMHIXPxu/GPAfpjk3JOlu6MWR7llPG0iM=;lCuel/uybVNTMng0tVvBIA=="
 ---

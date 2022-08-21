@@ -9,8 +9,8 @@ ampWebUrl: "https://electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi/amp/"
 type: article
 quality: 87
-heat: 167
-published: true
+heat: -1
+published: false
 
 provider:
   name: Electrek
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla’s Full-Self Driving software is going up in price again"
+    excerpt: "Tesla’s increasing the price of its Full-Self Driving (FSD) software to $15,000. In a post on Twitter, Tesla CEO Elon Musk announced that the new price will go into effect in North America starting September 5th,"
+    publishedDateTime: 2022-08-21T16:42:00Z
+    webUrl: "https://www.theverge.com/2022/8/21/23315270/tesla-full-self-driving-fsd-feature-price-increase-electric-vehicle-elon-musk"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 99
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/wEmS6qeSqPoyWcc1aVYbTgsWqPY=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11423501/acastro_180524_1777_tesla_0003.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk slows down rollout of Tesla’s next ‘Full Self-Driving Beta’ update"
     excerpt: "Elon Musk announced that Tesla is slowing down the rollout of its next “Full Self-Driving Beta” software update (10.69) due to “many major code changes.” It is reportedly still coming tomorrow, but only to ~1,"
     publishedDateTime: 2022-08-19T10:15:00Z
@@ -74,6 +88,22 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/03ObNFQ2eVXU4AeGWQ5gNHD-1.fit_lim.size_1200x630.v1661015027.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Tesla Is Doubling Down On Full Self Driving While Ralph Nader Wants It Recalled."
+    excerpt: "Tesla is hiking the price of its sometimes controversial driver assistance software it calls Full Self Driving."
+    publishedDateTime: 2022-08-21T15:56:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-raises-price-for-full-self-driving-51661097330"
+    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-raises-price-for-full-self-driving-51661097330"
+    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-raises-price-for-full-self-driving-51661097330"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 69
+    images:
+      - url: "https://images.barrons.com/im-600983/social"
+        width: 1280
+        height: 640
         isCached: true
   - title: "Don't Test Tesla's Full-Self Driving on Children: Safety Regulators"
     excerpt: "According to Bloomberg, the National Highway Traffic Safety Administration said it uses controlled procedures when testing vehicles and that “it could be highly dangerous for anyone to attempt to test vehicle technologies on their own."
@@ -137,6 +167,20 @@ related:
       - url: "https://www.carscoops.com/wp-content/uploads/2022/08/2022-Tesla-Lineup-1-1024x555.jpg"
         width: 1024
         height: 555
+        isCached: true
+  - title: "Man from NC test Tesla's 'full self-driving' on a real kid"
+    excerpt: "A North Carolina resident sets out to refute a widely circulated video of a Tesla with the company's \"full self-driving\" beta software."
+    publishedDateTime: 2022-08-21T20:21:00Z
+    webUrl: "https://abc11.com/north-carolina-tesla-full-self-driving-test-carmine-cupani/12150489/"
+    type: article
+    provider:
+      name: WTVD
+      domain: abc11.com
+    quality: 39
+    images:
+      - url: "https://cdn.abcotvs.com/dip/images/12150501_tesla.png?w=1600"
+        width: 1600
+        height: 900
         isCached: true
 
 secured: "cTfp/9KR6VaeQpDCbF8YoJKBzdw7m7ZTUsjeXn1YGwT2wzT/q54UATwOX20wPvnKhbh/WrT0Czsduk5i/oeUk248ZVhxjiUqnc1pSyUGNRIGzcR2gMxWwkdxYQ5PKBx1LPkTQkttP8doooOZe++qHtRStEvfx+PVEBc4/QD7aR8wTo43wi0xSygqlVE6fv/EO+mNm39jEIesW638HJ8uCFjMn5CMQVcbpfF8v5DmXtEZxxUBHfRqdX2MbGfdu+JthUcGHUQhRUopMOWz228kFp2RtZLolNzku3PUhS7XljHHNuKXeRRV0PkqtcfQd8FVxbcKVEzygWY78xEWhADynFha1hJBDqDAbW7H9NiFGEXG+E9ajy/KlUGCy7KcdQPa7OcpEH2GCljpe0Jn51h+4d0RNY+YiQsel4VX6SoVKB+AZJDaIh6Ur/OmAKD4WLfFf5BSBSpqCkJhQrCYJOKcORA45Nf44IG2Pjb/qWvZ24XogOdIE6fATCWkEvqWmINUAl6rptlXxL2nR739an84/Q==;f5DiAbL++G7ROrbH6UPkXg=="

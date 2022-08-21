@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-21T18:10:00Z
 originalUrl: "https://venturebeat.com/ai/why-ai-is-the-differentiator-in-todays-experience-market/"
 webUrl: "https://venturebeat.com/ai/why-ai-is-the-differentiator-in-todays-experience-market/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: VentureBeat

@@ -26,6 +26,22 @@ images:
     height: 417
     isCached: true
 
+related:
+  - title: "Unnoticed eye movements can be key for better self-driving cars: Study"
+    excerpt: "Artificial neural networks that learn to recognize objects more quickly and accurately have been developed by Andrea Benucci and colleagues at the RIKEN Center"
+    publishedDateTime: 2022-08-21T19:17:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272661040/unnoticed-eye-movements-can-be-key-for-better-self-driving-cars-study"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 26
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1661109211.jpg"
+        width: 630
+        height: 420
+        isCached: true
+
 secured: "KiVv1x/gcwjlx/RPay+1ZUFozpubaZaizeztjOuhCiqOXqTXHpYhJh71k22B1RHY69R0xEj75HslK6KYBIk0bZ5y3Qla9VZ32cxvXdVpuHYEXNTU3dnYs7DLFvN93kVN8v/PhstRjvh6M0F6FzXr4pSXlBkjA8OdX9Ic+7Wm2e0SgKxd36CTTG02rAg1vDxvOEPdOdG8eASBSQIvJNojz59Hl+ndaXEKNJ3xKHgTm1erqYQsQLctE/frfCmxOE1pdiW0pveAsi1PBWOUYCVj/vfBNuUw2d5UXlneuuF/OV5lQmkR8vP+3dOVrNbFbEyG81OCrLs8rie3vqi6y3BU/vCUiqWgXch/Q4s7pW1Ax7Y=;OsYxs6b3AG+J7yWMu6K10g=="
 ---
 

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geektime.com/the-9-trends-defining-ecommerce-ai-in-2022-
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/the-9-trends-defining-ecommerce-ai-in-2022-2023/amp/"
 type: article
 quality: 59
-heat: 79
+heat: 80
 published: true
 
 provider:

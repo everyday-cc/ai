@@ -53,34 +53,6 @@ related:
         width: 800
         height: 400
         isCached: true
-  - title: "Quickstart for the TensorFlow Core APIs"
-    excerpt: "This short introduction uses the TensorFlow Core low-level APIs to walk through the following stages of a machine learning example: Load a prebuilt dataset. Build a multiple linear regression model that predicts fuel efficiency. Train this multiple linear ..."
-    publishedDateTime: 2022-08-17T01:54:00Z
-    webUrl: "https://www.tensorflow.org/guide/core/quickstart_core"
-    type: article
-    provider:
-      name: TensorFlow
-      domain: tensorflow.org
-    quality: 56
-    images:
-      - url: "https://www.tensorflow.org/images/tf_logo_social.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "TensorFlow Core APIs overview"
-    excerpt: "The TensorFlow Core APIs provide a set of low-level APIs for high-performance (distributed & accelerated) computation, primarily aimed at building machine learning (ML) models as well as authoring ML workflow tools and frameworks within the TensorFlow ..."
-    publishedDateTime: 2022-08-17T01:54:00Z
-    webUrl: "https://www.tensorflow.org/guide/core"
-    type: article
-    provider:
-      name: TensorFlow
-      domain: tensorflow.org
-    quality: 56
-    images:
-      - url: "https://www.tensorflow.org/images/tf_logo_social.png"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "4JRKtSRBxHNppbsIk9NrELvKUuoVEhmax7XH4dMOMyfhSdXyqeYJOLP8LEsR8j1Cm6scJtK8Omn7YJKMmjK2KYknB8O2P6oGa6Yr3qE5HDAk5OEjsWoNbCHeoNrHv4zSctvkAZcNptoyTsmpuX+ZYC53t9hr8UF9Zxy9EKQn3hzwolsYNqG18sbdj6R0zyeUn9rik/d0YvAr8h2jyV8cGN8V+XGGqTMx+E7pfN5anTlybfgg0nUTIwj0lcTyJAINYe9zIZnJZeRdk41mdh1bHE4pZ/qdBBjUkCvcsp8y3mOpHYCd+5xox0CBpCo5QkF2MM/odj/dmpYMRWVJc2DWtwLbWSItsl79NU/7qf2sB/c=;wK7JFBtGlIIrbrUIJNHH3A=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/britain-sets
 webUrl: "https://www.reuters.com/business/autos-transportation/britain-sets-out-roadmap-self-driving-vehicle-usage-by-2025-2022-08-19/"
 type: article
 quality: 84
-heat: 254
+heat: 264
 published: true
 
 provider:
@@ -247,6 +247,15 @@ related:
     provider:
       name: AOL
       domain: aol.com
+    quality: 4
+  - title: "Self-driving cars could be on UK roads by 2025"
+    excerpt: "\"This enables the UK to take full advantage of the emerging market of self-driving vehicles -- which could create up to 38,000 jobs and could be worth an estimated 42 billion pounds,\" the UK government said in a statement."
+    publishedDateTime: 2022-08-21T20:27:00Z
+    webUrl: "https://news.webindia123.com/news/Articles/Science/20220822/3975345.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
     quality: 4
   - title: "Self-driving vehicles could be on UK roads 'next year' creating thousands of jobs"
     excerpt: "The Department for Transport said the self-driving industry could create up to 38,000 jobs and be worth £42 billion."

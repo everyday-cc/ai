@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Online Entertainment Market Statistics, Facts and Figures, Growth Overview, Size, SWOT Analysis Status and Outlook 2022-2030"
-    excerpt: "The online entertainment market size was valued at $183,067.0 million in 2019, and is estimated to reach $652,455.0 million by 2027, registering a CAGR of 20.82% from 2021 to 2027. Online entertainment involves accessing entertainment material,"
-    publishedDateTime: 2022-08-17T04:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/online-entertainment-market-statistics-facts-and-figures-growth-overview-size-swot-analysis-status-and-outlook-2022-2030-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "48BqJaWxOjgNTR6JmKhMddQsH6UVPt8DnflWadMyNN1xjpiI0cg5kranNM+PculcPaPJz1HS7yFliQbpMVk5NqKF5Un/B8tdXJafRgNyoSfH9Z45p5G50z+JsfUOt4C1ZgOqlKyjuOglGrToWvZLoYZuXZTBc59g1eKfg50IQ81mGc/h0M6JEHQaoQ4feNPN0xxzuxKwCpOtaGnLT/fwfWulnxiziUfx0J50ROtF90yvra319Pqx3DKF42VjADrJtmdWY5WDhe1P4c7loZ0gWWXmLfI1y/NxLWuaEaxyQFARFS6dyXH975NsYYFu2LytjoxuZTScGGpef69Us8K91zuoJAhxvUK2uVHKUojPEkQ=;6jhhcrxRNIb28MwM73KmWg=="
 ---

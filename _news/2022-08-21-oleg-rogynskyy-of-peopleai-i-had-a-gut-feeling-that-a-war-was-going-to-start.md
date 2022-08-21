@@ -3,8 +3,8 @@ category: news
 title: "Oleg Rogynskyy of People.ai: ‘I had a gut feeling that a war was going to start’"
 excerpt: "How the tech company boss helped his Ukrainian workforce to leave the country as threats from Russia increased"
 publishedDateTime: 2022-08-21T04:00:00Z
-originalUrl: "https://www.ft.com/content/63c0e9cf-2609-413d-a67d-f3b0fa8c3b2f"
-webUrl: "https://www.ft.com/content/63c0e9cf-2609-413d-a67d-f3b0fa8c3b2f"
+originalUrl: "https://www.ft.com/content/63c0e9cf-2609-413d-a67d-f3b0fa8c3b2f?curator=biztoc.com"
+webUrl: "https://www.ft.com/content/63c0e9cf-2609-413d-a67d-f3b0fa8c3b2f?curator=biztoc.com"
 type: article
 quality: 12
 heat: 12
@@ -17,6 +17,6 @@ provider:
 topics:
   - AI
 
-secured: "kiNKwPdtqVE/4y0d9g/y9/m7olgvC+6/EiSzO+M6jmu8ShiFVZ20GJG6SGVXXqz2q34V+F4wYsEO+48JiKrCr3dLEQ4x8B7ApPJOIAZFFLHqR2ylAsuPaBOLBR89YZ8DppkrSDSjb2509C564U5AdYfKLJI5GIr0PidDddWBMTVVXJvwpKxrGpL7lUHeJQD77Gg+bEN+WH3sbsaHp9Ltw0h0ACua5lOWG2wiFcG0uz68IoHY14UdBtIxWf/ENJEYgOwbm+CA8+oRmIejLb04a0o2jlv7C+XtDDuAQA6p7EDE7KGE1LSWRsGy54kyL2nEJO8F4dnQ0FbP9cfo7J2GRZui3F4oXzY2rRZbwOmaGLNm9FUOs6zlA0S5XHKuJf2XSvNkHPNwzFN2AtlF6tPD8niMK7lFQywD9s7S4QakuuvXUpBJ7CGdZtlFWiWqjcqe5yN9k82cd7wA7P0MSd3GrgJp3SVRfKRcDpHxE73AGv6btqOfFAF2eYqYVwxGiSgRyBVKC3OGbdYDCu/b/rm7fg==;UTP+e8w9rHgwpXyk324nwA=="
+secured: "ryvUbXk/tyVcKGRe1gtTp7HOvXWYgKfKpcBNLNqXio8Mf6aQfwwRJTxupOuuHopOOfxcaM+e1pg5xRK3FmPy7kQgw2DUaA+fdOOtn+ktkigv4Yir3grrKRyTKy5VwH7U6GWgvBsJSbbK+NW5mgdG2Dd4mGxUqkNM/Mv+j/bbHBTee8qHP9FK4Lna29Kksydw3nU3redbUSps6t+OYedvshQXtyo6wCzMVh5NJs38W0uQXNgfPVS0f+DBqgk0+6qZqnkmKhyPNa91EevbYx9MhpHW/JefCycjjaA7AGxhamoXVA/buuM2v8z1T+K+XknwUrV6INIn35+WQHfyRGgJ3aaEAsxJlnw1Oo3Ow3gxBHF38xfYY5ThbUfFYKw6ZvSuUEXAUkfOxH9qmRBQ6Vq4/TEm9O+FomCYeFpgl/QmIwdz8TnFO4htepu3OjZdwwBFHO4zK/K5dsV1XAS1952+s78zhxBiqoMio7smBQAq0CGNDoLPQx3+oz+4xyZtqX1JwBTaUCEf/ldAXHnWxK2s5A==;rpE9XvFkk8iSiwTBKQ5RzA=="
 ---
 

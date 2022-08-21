@@ -19,6 +19,12 @@ topics:
   - Facebook AI
   - AI
 
-secured: "J33aOuCqrkrK1DAV8Y4hwLN6bECD4SG8jLoyVUaI+PAzoK62N0R9iYYJvLKxS5eFPyRtXMFtbjlnsklhgPsgGPP4w1Gn8AXrFnV562hgt1YBtE5OYwZqvZJ//FtwUrtend+mCTkSsFqmVeZYWakJZ9GiMkSg2SQfj4ViR5XTwRSrjQs4JJvaRdT/LVwmQLqu3ayRq0J7WfYFVbI/OenRkyLyqJ5goQVPqgeHyz9Wg5aQDCYhT4lMTeJB8VWpfA97Sl28qQhUGSAwzYpO5KXQ0kaXkFlq4fReOLJ8TX9qqtwQVVNVTXGU6HEBxtrgoN4BasZtaUiCUQWqYnsstm1Z778Fd6MMI8PfbMPIFaRBUk0=;/mSkmS4MK8mybhXvxFgY+w=="
+images:
+  - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=108"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "MdT9yGj1VDeF0O4TXe1iPj/IJSestG/Jx7A15Cxx2XUdFFRI/h0rRwztfrWdPnxFzPEM33Nsqmf7gxCPtBHfvQoT5qYZkkMI6e20vigg4pHwVXfEFJPa/lmybtuFcvM+9pZ31Mx6NfAnXnEJL6Hfd1cuEL871qZDlg5uxqCe59tg3Fot+7uJ8sXkynJkyMuFBF+G8bSDl6zZRMf46pcc8KKbuM9YU1Tqmb/1DxWf2Uu+GX+njOIoeDTzFAWAH9W8yWivjjZ2w6c7JEU+YYo9lI0fZiXzde9Kf//i31BeulKOX260kqBhSiY2KbaiHnRsczofqonbIMDeBtDeB6yY8ZlMs1Xp8HWz/Ug+Supjee0=;djxiHfEiLoq73P7FFvPlgg=="
 ---
 

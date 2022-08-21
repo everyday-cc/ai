@@ -39,34 +39,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 116
-  - title: "Quickstart for the TensorFlow Core APIs"
-    excerpt: "This short introduction uses the TensorFlow Core low-level APIs to walk through the following stages of a machine learning example: Load a prebuilt dataset. Build a multiple linear regression model that predicts fuel efficiency. Train this multiple linear ..."
-    publishedDateTime: 2022-08-17T01:54:00Z
-    webUrl: "https://www.tensorflow.org/guide/core/quickstart_core"
-    type: article
-    provider:
-      name: TensorFlow
-      domain: tensorflow.org
-    quality: 56
-    images:
-      - url: "https://www.tensorflow.org/images/tf_logo_social.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "TensorFlow Core APIs overview"
-    excerpt: "The TensorFlow Core APIs provide a set of low-level APIs for high-performance (distributed & accelerated) computation, primarily aimed at building machine learning (ML) models as well as authoring ML workflow tools and frameworks within the TensorFlow ..."
-    publishedDateTime: 2022-08-17T01:54:00Z
-    webUrl: "https://www.tensorflow.org/guide/core"
-    type: article
-    provider:
-      name: TensorFlow
-      domain: tensorflow.org
-    quality: 56
-    images:
-      - url: "https://www.tensorflow.org/images/tf_logo_social.png"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Build TensorFlow Lite models"
     excerpt: "This page provides guidance for building your TensorFlow models with the intention of converting to the TensorFlow Lite model format. The machine learning (ML) models you use with TensorFlow Lite are originally built and trained using TensorFlow core ..."
     publishedDateTime: 2022-08-18T12:53:00Z

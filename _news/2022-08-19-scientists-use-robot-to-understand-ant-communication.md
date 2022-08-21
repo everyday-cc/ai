@@ -71,22 +71,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Google's parent Alphabet adds AI language skills to helper robots"
-    excerpt: "Google's parent company Alphabet is bringing together two of its most ambitious research projects -- robotics and AI language understanding -- to make a \"helper robot\" that can understand natural language commands."
-    publishedDateTime: 2022-08-17T04:17:00Z
-    webUrl: "https://www.businessinsider.in/tech/news/googles-parent-alphabet-adds-ai-language-skills-to-helper-robots/articleshow/93608687.cms"
-    ampWebUrl: "https://www.businessinsider.in/tech/news/googles-parent-alphabet-adds-ai-language-skills-to-helper-robots/amp_articleshow/93608687.cms"
-    cdnAmpWebUrl: "https://www-businessinsider-in.cdn.ampproject.org/c/s/www.businessinsider.in/tech/news/googles-parent-alphabet-adds-ai-language-skills-to-helper-robots/amp_articleshow/93608687.cms"
-    type: article
-    provider:
-      name: Business Insider India
-      domain: businessinsider.in
-    quality: 57
-    images:
-      - url: "https://www.businessinsider.in/thumb/93608834.cms?height=275&width=412"
-        width: 412
-        height: 275
-        isCached: true
   - title: "Google is training its robots to be more like humans"
     excerpt: "Researchers here at Google's lab recently asked a robot to build a burger out of various plastic toy ingredients."
     publishedDateTime: 2022-08-17T09:50:09Z

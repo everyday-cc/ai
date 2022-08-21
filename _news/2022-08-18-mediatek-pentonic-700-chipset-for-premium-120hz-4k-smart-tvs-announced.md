@@ -35,6 +35,20 @@ related:
         width: 629
         height: 475
         isCached: true
+  - title: "MediaTek Launches Pentonic 700 Chipset for Premium 120Hz 4K Smart TVs"
+    excerpt: "MediaTek Launches Pentonic 700 Chipset for Premium 120Hz 4K Smart TVs Aug 18, 2022 (PRNewswire via COMTEX) -- PR Newswire HSINCHU, Aug. 18, 2022"
+    publishedDateTime: 2022-08-18T12:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mediatek-launches-pentonic-700-chipset-for-premium-120hz-4k-smart-tvs-2022-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "lliF8rPx4NQ5hy9s5IkBvh7wV/VEVvx04agNeprpcr38Dle3S5wGZKbszquw8KV3R+w1ibiRll5kl2XlDCAfsfKtRV7Go1QaX1AcdsNQrSNA5NFDmn8BITV8Alqqbqjg62s7U7rO0sx5sb6qzWXRxsmNPOESHWQHQvyd/JC8viJ7TvLtSKXmGar1DrPgZ8jekSmYQbnn3K7+f57whyQ8QFG6QgAW8DmQv+Q7Spn0TXaOAYqbe5qVpmqhHbRzPXBXPB6Ntrw1tnGQWv35Zju+ZnjLq/szwmHHil4JgTKZ2jxD2XWS0GGczNbtXJeT6X9akdo0g+e/huwXh52Y1E+asl3DBZddxS0FWqOcnr04bEqUteTtXfjlN9Wd/tO+me3l9Mfldv6JbCnWp/TeYLLu7GdruqMqqUmeoafP2yeTetpIUSGHvGWAFQIUodC5UKyEX02nCJvosPwbMun0w/aBCJT3AqD+k3bn9i6YUUJf1CoZU2VYdjzY3dzvujNJiv/syAlwE2A5wIOkzQrnazND/g==;EqflsLrpiaszgB6zLumlyw=="
 ---

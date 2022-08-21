@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-21T17:29:00Z
 originalUrl: "https://scitechdaily.com/new-ai-powered-app-could-boost-smartphone-battery-life-by-30/"
 webUrl: "https://scitechdaily.com/new-ai-powered-app-could-boost-smartphone-battery-life-by-30/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: SciTech Daily

@@ -65,20 +65,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 53
-  - title: "4 Companies Leading The Rise Of Artificial Intelligence And Big Data"
-    excerpt: "The article highlights four companies in the Global X Artificial Intelligence & Technology ETF (AIQ) that are shaping the growth path of technologies along the AI value chain."
-    publishedDateTime: 2022-08-17T03:52:00Z
-    webUrl: "https://seekingalpha.com/article/4535058-four-companies-leading-the-rise-of-ai-big-data"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 45
-    images:
-      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1387900612/image_1387900612.jpg?io=getty-c-w750"
-        width: 750
-        height: 534
-        isCached: true
 
 secured: "dZfGBht/ShYDGPsWVYEwxodDJxmhNGM8h1Q00lLGIvsmpJhfOJWnTTTVZi48RFpGzoPpdDojC13cGKcmdb6wpGgrumUysYTr/Wf2PaCTuMB86uaPN/WF/pVw70S6Lir25kUqFh0CQYpuEFNbt6kJaJVizC710HmXl2hwXjDADII6DwSaDXxYutYvj/8eKMZuncj2rnZVv5l0hn3ngp7mQY5wKvkOyoECr38jduyPrxWa0K3nQ2BKOPL7CdYgoYRX0JUToLN3ChgtFMVbX67K1cPDQzNuqlXVoOMBM+04sJ1lAIcKzsd53CujTodMZ7uUzMNda/N/t6lVp8VS78sIoxkO1uXQVoRmEiSwmF+Z9yAekNrslpDEt2Ql6TlJJoZlsJEjgOSTY6uwt1cHvV7pfAY946epsf3hlrXHAPS3FuQ0kzHTap+2vY4xSndngJcy7u4DeReHFlM3oIveJjfxkjeRKj5jj+YK7Hi6q5x7Fi+Ek3UnIKLyLE7vmLGbI2F9mU3APBBsKJFJ2Tfh/RD3/A==;7PPrBUEf/VBZZWScI9MU1Q=="
 ---

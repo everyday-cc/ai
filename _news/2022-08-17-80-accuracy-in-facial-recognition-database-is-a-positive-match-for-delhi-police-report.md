@@ -75,22 +75,6 @@ related:
         width: 1250
         height: 805
         isCached: true
-  - title: "Delhi Police in RTI reply: 80% match in facial recognition is deemed positive ID"
-    excerpt: "The records, shared under two RTI requests and reviewed by The Indian Express, throw light for the first time on how the Delhi Police uses facial recognition matches during investigations."
-    publishedDateTime: 2022-08-17T02:39:00Z
-    webUrl: "https://indianexpress.com/article/cities/delhi/delhi-police-rti-reply-80-pc-match-facial-recognition-deemed-positive-id-8094324/"
-    ampWebUrl: "https://indianexpress.com/article/cities/delhi/delhi-police-rti-reply-80-pc-match-facial-recognition-deemed-positive-id-8094324/lite/"
-    cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/cities/delhi/delhi-police-rti-reply-80-pc-match-facial-recognition-deemed-positive-id-8094324/lite/"
-    type: article
-    provider:
-      name: The Indian Express
-      domain: indianexpress.com
-    quality: 54
-    images:
-      - url: "https://images.indianexpress.com/2022/08/facial_recognition_reuters-1200.jpg"
-        width: 1200
-        height: 667
-        isCached: true
   - title: "The Low Threshold for Face Recognition in New Delhi"
     excerpt: "Police in India's capital say they only require an 80 percent accuracy rate for matches, raising new alarm bells for civil liberty advocates."
     publishedDateTime: 2022-08-21T11:00:00Z

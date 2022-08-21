@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gizmochina.com/2022/08/19/mediatek-pentonic-700-soc-for-
 cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/19/mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more/?amp=1"
 type: article
 quality: 72
-heat: 82
+heat: 92
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "MediaTek Launches Pentonic 700 Chipset for Premium 120Hz 4K Smart TVs"
+    excerpt: "MediaTek Launches Pentonic 700 Chipset for Premium 120Hz 4K Smart TVs Aug 18, 2022 (PRNewswire via COMTEX) -- PR Newswire HSINCHU, Aug. 18, 2022"
+    publishedDateTime: 2022-08-18T12:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/mediatek-launches-pentonic-700-chipset-for-premium-120hz-4k-smart-tvs-2022-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "MediaTek Pentonic 700 Chipset for Premium 120Hz 4K Smart TVs Announced"
     excerpt: "MediaTek today announced the Pentonic 700, a smart TV system-on-chip (SoC) with a powerful AI processing engine for premium 120Hz 4K TVs. MediaTek"
     publishedDateTime: 2022-08-18T12:22:00Z

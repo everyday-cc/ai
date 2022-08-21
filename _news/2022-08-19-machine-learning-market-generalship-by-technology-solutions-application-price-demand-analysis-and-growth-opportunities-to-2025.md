@@ -52,7 +52,7 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -76,20 +76,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
-  - title: "Artificial Intelligence in Agriculture Market 2022-2031 – Impact of COVID-19, Case Study Analysis, Key Opportunities and Major Players"
-    excerpt: "This definitely shows how the market is trying to recover back and this will have a direct impact on the Healthcare/ICT/Chemical industries, creating a huge demand for Artificial Intelligence in Agriculture Market products. Download Sample of This ..."
-    publishedDateTime: 2022-08-17T04:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-2022-2031-impact-of-covid-19-case-study-analysis-key-opportunities-and-major-players-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Automotive Market Overview by Recent Opportunities, Growth Size, Regional Analysis and Forecasts to 2025"
     excerpt: "Global Artificial Intelligence in Automotive Market Report is an In-Depth Analysis of the Latest Developments, Market"
     publishedDateTime: 2022-08-17T12:36:00Z
@@ -113,20 +99,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
-  - title: "AI Training Data Market Size 2021, Key Futuristic Trends, SWOT Analysis, Opportunities and Outlook Analysis by 2027 with Top Growth Companies"
-    excerpt: "In 2021, “ AI Training Data Market “ Size, Status and Market Insights, Forecast to 2027 |( Number of Pages:107) AI"
-    publishedDateTime: 2022-08-17T04:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-training-data-market-size-2021-key-futuristic-trends-swot-analysis-opportunities-and-outlook-analysis-by-2027-with-top-growth-companies-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing and Recognition Market – Business Strategies, Industry Share, Size 2022 to 2030 | By -Apple, Google, Microsoft"
     excerpt: "Aug 18, 2022 (Market Insight Reports) -- New Jersey, United States- The Global Natural Language Processing and Recognition Market Research Report 2022-2030 is a wonderful source of insightful data for company strategists. It provides the aid outline with ..."
     publishedDateTime: 2022-08-18T05:55:00Z

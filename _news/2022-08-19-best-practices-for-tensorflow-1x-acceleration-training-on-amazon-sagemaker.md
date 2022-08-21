@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/best-practices-for-t
 webUrl: "https://aws.amazon.com/blogs/machine-learning/best-practices-for-tensorflow-1-x-acceleration-training-on-amazon-sagemaker/"
 type: article
 quality: 116
-heat: 156
+heat: 136
 published: true
 
 provider:
@@ -38,34 +38,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/18/Featured-images-for-ML-11236.jpg"
         width: 800
         height: 400
-        isCached: true
-  - title: "Quickstart for the TensorFlow Core APIs"
-    excerpt: "This short introduction uses the TensorFlow Core low-level APIs to walk through the following stages of a machine learning example: Load a prebuilt dataset. Build a multiple linear regression model that predicts fuel efficiency. Train this multiple linear ..."
-    publishedDateTime: 2022-08-17T01:54:00Z
-    webUrl: "https://www.tensorflow.org/guide/core/quickstart_core"
-    type: article
-    provider:
-      name: TensorFlow
-      domain: tensorflow.org
-    quality: 56
-    images:
-      - url: "https://www.tensorflow.org/images/tf_logo_social.png"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "TensorFlow Core APIs overview"
-    excerpt: "The TensorFlow Core APIs provide a set of low-level APIs for high-performance (distributed & accelerated) computation, primarily aimed at building machine learning (ML) models as well as authoring ML workflow tools and frameworks within the TensorFlow ..."
-    publishedDateTime: 2022-08-17T01:54:00Z
-    webUrl: "https://www.tensorflow.org/guide/core"
-    type: article
-    provider:
-      name: TensorFlow
-      domain: tensorflow.org
-    quality: 56
-    images:
-      - url: "https://www.tensorflow.org/images/tf_logo_social.png"
-        width: 1200
-        height: 675
         isCached: true
   - title: "Build TensorFlow Lite models"
     excerpt: "This page provides guidance for building your TensorFlow models with the intention of converting to the TensorFlow Lite model format. The machine learning (ML) models you use with TensorFlow Lite are originally built and trained using TensorFlow core ..."
