@@ -28,29 +28,66 @@ images:
     isCached: true
 
 related:
-  - title: "Edge AI Hardware Market Size Report Till 2029 with Leading Regions and Countries Data | 119 Pages"
-    excerpt: "In the forecast period of 2022-2029, the global “Edge AI Hardware Market\" is expected to grow at a steady rate,"
-    publishedDateTime: 2022-08-17T05:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-hardware-market-size-report-till-2029-with-leading-regions-and-countries-data-119-pages-2022-08-17"
+  - title: "Computer Vision Software Market Opportunities and Analysis to 2029"
+    excerpt: "Pune, India-Global Computer Vision Software Market Research Report 2022-2029 thinks about key breakdowns in the Industry"
+    publishedDateTime: 2022-08-17T07:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-opportunities-and-analysis-to-2029-2022-08-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 69
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Hardware Market Outlook, Key Players, Share, Trends and Forecast by 2027"
-    excerpt: "Hardware Market is valued at approximately USD 9.8 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 37.5% over the forecast period 2020-2027.  Artificial intelligence (AI) has been one of the most appealing technology in recent years."
-    publishedDateTime: 2022-08-17T14:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-outlook-key-players-share-trends-and-forecast-by-2027-2022-08-17"
+  - title: "Automatic Speech Recognition (ASR) Software Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028"
+    excerpt: "Software Market size\" was estimated at USD billions in 2022 and expected to reach USD billions in 2028, and is predicted to grow at a CAGR rate to reach USD billion by 2028. The global Automatic Speech Recognition (ASR) Software market size is projected to reach multi million by 2028,"
+    publishedDateTime: 2022-08-17T18:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-asr-software-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-08-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 43
+  - title: "Facial Recognition Platform Market Research Report Analysis by Competition, Sales, Revenue, Market Size 2022 to 2028"
+    excerpt: "This “ Facial Recognition Platform research market report ” highlights key external drivers that affect the industry and assesses the current performance and revenue growth of the industry. This report helps to collect Facial Recognition Platform industry information for target audiences before commencing any advertising campaign."
+    publishedDateTime: 2022-08-18T06:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-platform-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028-2022-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+  - title: "Machine Learning Market generalship by Technology, Solutions, Application, Price, Demand Analysis and Growth Opportunities to 2025"
+    excerpt: "Global Machine Learning Market Report focuses on the major drivers and restraints for the key players. These Research Report also provides granular analysis of the market share, segmentation, revenue forecasts and geographic regions of the market."
+    publishedDateTime: 2022-08-19T12:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-generalship-by-technology-solutions-application-price-demand-analysis-and-growth-opportunities-to-2025-2022-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence in Agriculture Market 2022-2031 – Impact of COVID-19, Case Study Analysis, Key Opportunities and Major Players"
+    excerpt: "This definitely shows how the market is trying to recover back and this will have a direct impact on the Healthcare/ICT/Chemical industries, creating a huge demand for Artificial Intelligence in Agriculture Market products. Download Sample of This ..."
+    publishedDateTime: 2022-08-17T04:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-2022-2031-impact-of-covid-19-case-study-analysis-key-opportunities-and-major-players-2022-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Automotive Market Overview by Recent Opportunities, Growth Size, Regional Analysis and Forecasts to 2025"
     excerpt: "Global Artificial Intelligence in Automotive Market Report is an In-Depth Analysis of the Latest Developments, Market"
     publishedDateTime: 2022-08-17T12:36:00Z
@@ -65,34 +102,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Neural Networks Market to Witness an Outstanding Growth during 2022-2029 with Leading Regions and Countries Data | 121 Pages"
-    excerpt: "In the forecast period of 2022-2029, the global “Artificial Neural Networks Market\" is expected to grow at a steady"
-    publishedDateTime: 2022-08-17T05:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-to-witness-an-outstanding-growth-during-2022-2029-with-leading-regions-and-countries-data-121-pages-2022-08-17"
+  - title: "Speech Recognition for Consumer Electronics Market Estimated to Expand at a Robust CAGR By 2027"
+    excerpt: "Pune, India-Research Report on Global Speech Recognition for Consumer Electronics Market 2022-2027 Report Demand"
+    publishedDateTime: 2022-08-17T11:57:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-for-consumer-electronics-market-estimated-to-expand-at-a-robust-cagr-by-2027-2022-08-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
     quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Industrial Market 2022 Trends, Production, Gross Margin, Demands, Emerging Technology By Regional Forecast To 2029"
-    excerpt: "The Artificial Intelligence in Industrial Market (2022-2029) Survey Report is a professional and detailed survey of"
-    publishedDateTime: 2022-08-17T06:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-industrial-market-2022-trends-production-gross-margin-demands-emerging-technology-by-regional-forecast-to-2029-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Voice Recognition Software Market Share 2022 Global Trend, Segmentation, Business Growth, Opportunities and Forecast to 2029"
     excerpt: "Get a Sample PDF of Report -  The Global Voice Recognition Software Market Report 2022 covers 118 pages and provides details on vital statistics, data, information, trends and competitive landscapes in this niche sector."
     publishedDateTime: 2022-08-19T06:30:00Z
@@ -107,29 +125,24 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Genomics Market Projections and Regional Outlook, Set for Rapid Growth and Trend by 2022-2030"
-    excerpt: "The global artificial intelligence market size in genomics is expected to grow from 471 million USD to 18,213 million USD from 2021 to 2030 with a compound annual growth rate (CAGR) of 50.2%.\\ Download Free Sample of This Strategic Report :- A release on June 8th,"
-    publishedDateTime: 2022-08-17T13:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-genomics-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-2030-2022-08-17"
+  - title: "Artificial Intelligence Application Market 2022: Global Trends, Size, Segments, Forces Analysis, Revenue, Challenges and Growth Forecast to 2028"
+    excerpt: "The global Artificial Intelligence Application Market report focused on a thorough examination of the industry's"
+    publishedDateTime: 2022-08-17T07:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-application-market-2022-global-trends-size-segments-forces-analysis-revenue-challenges-and-growth-forecast-to-2028-2022-08-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 24
-  - title: "Voice Recognition Biometrics Market to Witness an Outstanding Growth during 2022-2029 with Leading Regions and Countries Data | 124 Pages"
-    excerpt: "In the forecast period of 2022-2029, the global “Voice Recognition Biometrics Market\" is expected to grow at a steady"
-    publishedDateTime: 2022-08-17T05:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-biometrics-market-to-witness-an-outstanding-growth-during-2022-2029-with-leading-regions-and-countries-data-124-pages-2022-08-17"
+    quality: 10
+  - title: "Cognitive Systems Spending Market Development Status, Competition Analysis, Type and Application 2026"
+    excerpt: "The global cognitive systems spending market is experiencing numerous technological advancements permitted with exceptional features for several industries, especially in the banking sector. Cognitive systems with high-definition technology can help in determining the world’s most composite data analysis difficulties by entering into the complexity of exploiting the power of big data,"
+    publishedDateTime: 2022-08-17T09:03:00Z
+    webUrl: "https://www.fmiblog.com/2022/08/17/cognitive-systems-spending-market-development-status-competition-analysis-type-and-application-2026/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "+CY4cGlhE+dkotEf6udx9FuithCPvfGqHrvrnC6EJMOf6UDXgY4C5YnW5usEOwkoZrnBL8XocHhpQM88TnKNxRZz6GYrmLqGcoTC7X5uUFfbRxtM6nX+3/FRLj5iUav5sya/zutr5tylgUOqO9IS6P8aFykdNxWdAOIP2F9epvaC7eRrevOPaJo4nZiVQ/cGrsblv5AFE9msPdgpnP7PQE6SByLGRn0A6zB6WKoNdSXE0XEaq6DfDC+DHa2InIB0oBsAZcVaULVSdkQdwO/kRnLDgXe9s+fEkR5vqXuktb7sfpKMWOY9k8UUmcp3i/9Y5N67MKeLtWw6fI/XYzaYkN8TZTZcDwHyyEaGtMo6k1Q=;6SIFjUq14d80hTDwreqlaA=="
 ---

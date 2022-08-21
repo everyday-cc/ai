@@ -202,6 +202,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-18-call-to-halt-gambler-facial-recognition.md",
+      "title": "Call to halt gambler facial recognition",
+      "excerpt": "Gambling and alcohol reform advocates have called for a moratorium on facial recognition technology in pubs, bars and casinos across the country until appropriate safeguards are put in place around the increasingly affordable and widely available technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theaustralian.com.au/nation/call-to-halt-gambler-facial-recognition/news-story/2b0f62ff431f3cc300190b53cc8c8f02",
+      "originalUrl": "https://www.theaustralian.com.au/nation/call-to-halt-gambler-facial-recognition/news-story/2b0f62ff431f3cc300190b53cc8c8f02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.newsapi.com.au/image/v1/190cc9bd208e4f03c9fbd513d32d4b72",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theaustralian.com.au/nation/call-to-halt-gambler-facial-recognition/news-story/2b0f62ff431f3cc300190b53cc8c8f02",
+      "cdnAmpWebUrl": "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/nation/call-to-halt-gambler-facial-recognition/news-story/2b0f62ff431f3cc300190b53cc8c8f02",
+      "publishedDateTime": "2022-08-18T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Australian",
+        "domain": "theaustralian.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-delhi-polices-80-per-cent-match-of-facial-recognition-to-nab-accused-raises-concern-finds-rti.md",
       "title": "Delhi Police's 80 Per Cent Match Of Facial Recognition To Nab Accused Raises Concern, Finds RTI",
       "excerpt": "The RTI response, which has now created an uproar, sheds light on the lack of privacy impact assessment of facial recognition technology used by Delhi Police to nab the accused.",
@@ -286,6 +329,58 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-computer-vision-software-market-opportunities-and-analysis-to-2029.md",
+      "title": "Computer Vision Software Market Opportunities and Analysis to 2029",
+      "excerpt": "Pune, India-Global Computer Vision Software Market Research Report 2022-2029 thinks about key breakdowns in the Industry",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-software-market-opportunities-and-analysis-to-2029-2022-08-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-software-market-opportunities-and-analysis-to-2029-2022-08-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
       ]
     },
     {
@@ -1310,102 +1405,6 @@
       "provider": {
         "name": "KAKE.com",
         "domain": "kake.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence.md",
-      "title": "Aragon Research Announces the 2022 Hot Vendors in Computer Vision, Intelligent Contact Centers, and Conversational Artificial Intelligence",
-      "excerpt": "Aragon Research Announces the 2022 Hot Vendors in Computer Vision, Intelligent Contact Centers, and Conversational Artificial Intelligence Aug 04,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence-2022-08-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence-2022-08-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-face-recognition-systems-market-growth-2022-global-industry-demand-share-top-players-industry-size-future-growth-by-2025.md",
-      "title": "Face Recognition Systems Market Growth 2022, Global Industry Demand, Share, Top Players, Industry Size, Future Growth by 2025",
-      "excerpt": "Face Recognition Systems Market Growth 2022-2025 Global Industry Research report presents an in-depth analysis of the Face Recognition Systems market size, growth, share, segments, manufacturers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/face-recognition-systems-market-growth-2022-global-industry-demand-share-top-players-industry-size-future-growth-by-2025",
-      "originalUrl": "https://www.digitaljournal.com/pr/face-recognition-systems-market-growth-2022-global-industry-demand-share-top-players-industry-size-future-growth-by-2025",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/8ee3ab090e6da4d9cb659343d876cec7c949a502-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T02:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

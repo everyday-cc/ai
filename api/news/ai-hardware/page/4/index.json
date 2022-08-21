@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-01-viettel-enters-ai-partners-with-nvidia.md",
+      "title": "Viettel Enters AI Partners with NVIDIA",
+      "excerpt": "Viettel Group and NVIDIA signed MoU to establish a strategic partnership on using Artificial Intelligence (AI) to advance Viettel and Vietnam",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/",
+      "originalUrl": "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/07/Viettel-Enters-AI-Partners-with-NVIDIA-01.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/news/viettel-enters-ai-partners-with-nvidia/amp/",
+      "publishedDateTime": "2022-07-01T02:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-07-01-viettel-enters-ai-collaboration-with-nvidia.md",
       "title": "Viettel Enters AI Collaboration with NVIDIA",
       "excerpt": "Viettel Group and NVIDIA signed a Memorandum of Understanding (MoU) to establish a strategic partnership on using Artificial Intelligence (AI) to advance Viettel and Vietnam's technology research and solutions.",
@@ -1314,49 +1357,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-solidrun-unveils-high-performance-64-bit-renesas-rzg2-based-soms-with-integrated-gpu-for-next-gen-human-machine-interfaces.md",
-      "title": "SolidRun Unveils High-Performance 64-Bit Renesas RZ/G2 Based SOMs with Integrated GPU for Next-Gen Human-Machine Interfaces",
-      "excerpt": "SolidRun Unveils High-Performance 64-Bit Renesas RZ/G2 Based SOMs with Integrated GPU for Next-Gen Human-Machine Interfaces. Ideal for automation, smart buildings, network cameras",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobilitytechzone.com/broadband-stimulus/news/2022/06/21/9624814.htm",
-      "originalUrl": "https://www.mobilitytechzone.com/broadband-stimulus/news/2022/06/21/9624814.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg",
-          "width": 1577,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T01:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobility Techzone",
-        "domain": "mobilitytechzone.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

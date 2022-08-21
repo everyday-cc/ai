@@ -3,13 +3,13 @@ category: news
 title: "AI-generated art illustrates another problem with technology"
 excerpt: "Artificial intelligence is being used to design magazine covers and provide pictures for internet newsletters. What could possibly go wrong?"
 publishedDateTime: 2022-08-20T14:00:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists?amp;amp"
-webUrl: "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists?amp;amp"
+originalUrl: "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
+webUrl: "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:
@@ -59,6 +59,6 @@ related:
         height: 600
         isCached: true
 
-secured: "oxZXN0yWPTSLnfNLsPOJqrW43v1EdPm1xOK441sJCibBZmbNDeKUzt4DXkhBPKAaGIJ8EPfL9fp6MtixfNFuNKX4BFJKDfcy+Hl6VpTYvF5SPlIEZR4/AQubec0RL/AxZ7DC6auNrmzVMHKsJUk4nHZtmd5Si6fe+omwldZCVv6poS+qfF5UUk7+OQQgTCJpRvW2yzlcV8QYBAZasdsNt2EUJYCBwMbsKZcdeWi448hE+37OJjHxA1kf2fQ/74GYoL1YV4dqFhG+8NMkmKGjeOGbyQjz3RJX+l1LT+56/UAxWKCqJFsvNPMpuf0S1lb2JHWmGKuvlE1DKcEpxD+1oLxpEbu+L7erXUk0vwYCZr8=;TM9wfdT3Et20PNPVUQTt+A=="
+secured: "/YQYjWNBGtABY25XU7P+3+rtnCCoJqEbrvN4kmphaaU+rPEr6k+UIOG5ltWneEBMdxdyTOnOKoZX4tA8kRwOs62zYHekUoqLk8vswiS98qvNAhNrppD0D3bTXrWqkwKHfo4PvjDm7wAQT/GZsUAJ8vW54rOp7hAi73qAR7iLKwHbJHwDHPSxFJY/rdFAoQAQgOUNtX7MFyzoLnDk3MnjMkQvdHOIAvZNHaOLhM/pPLZyVP6Tlz9cK6E+bbLo0SX5Oci6aqJ6EfyxdzV5MEzmh1eiyTr2hgLGVBxrejLt3ZnlySBnUxtWZdZZkdiTJYk9ptJOH4AhU1dO9+nsDZXJSKFOZHdAA+IXMXdkrM2BPgE=;CxHJ2V11LYQl8U0iqxTRvw=="
 ---
 

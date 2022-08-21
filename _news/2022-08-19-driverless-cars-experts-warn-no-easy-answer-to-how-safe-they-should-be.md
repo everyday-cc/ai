@@ -2,9 +2,9 @@
 category: news
 title: "Driverless cars: Experts warn no easy answer to how safe they should be"
 excerpt: "It says the public may have little tolerance for driverless car crashes - even ... an expert body which advises governments on artificial intelligence, says the question of how safe autonomous ..."
-publishedDateTime: 2022-08-19T04:03:00Z
-originalUrl: "https://www.bbc.com/news/technology-62598618?at_custom4=21AF8ED2-1F4C-11ED-98A9-84BF4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7"
-webUrl: "https://www.bbc.com/news/technology-62598618?at_custom4=21AF8ED2-1F4C-11ED-98A9-84BF4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7"
+publishedDateTime: 2022-08-19T02:51:00Z
+originalUrl: "https://www.bbc.com/news/technology-62598618?at_medium=custom7&at_custom2=twitter&at_campaign=64&at_custom4=43EF959E-1F67-11ED-98A9-84BF4744363C&at_custom1=%5Bpost+type%5D"
+webUrl: "https://www.bbc.com/news/technology-62598618?at_medium=custom7&at_custom2=twitter&at_campaign=64&at_custom4=43EF959E-1F67-11ED-98A9-84BF4744363C&at_custom1=%5Bpost+type%5D"
 ampWebUrl: "https://www.bbc.com/news/technology-62598618.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62598618.amp"
 type: article
@@ -110,6 +110,6 @@ related:
         height: 1604
         isCached: true
 
-secured: "YX3C2hkgxfwPsrbIgYLZ6h2yde6XJyMMFtq4PiJU0+jQiyTpjnvTO51Jm3otIkrmv8scHnBtBNFg5JTpSx+lK22FCDidZ6QneFTn0eJm1qin/Yctw/aJm+tWSMJq6HKmc9Oaoh3A2EpgZTqCibFUbMY++syZcO56j2/3TDEGFK0UOvpIO6gDFK7EUEh4Y5uzuNw100RFHUn2dlg0TopxYC6JnxJRtVSJVX8uzSODunRDJoHYeRbL+OBOCR9ZJoU3mGT4Qw9F3cpuASttouM6drHFDwd9l+d9eyHLioe1fvX8cR+80OcMEBp2yiScEker984rv4JfK1MrOB1seW4Bm0jjAi3oZfHUc5Su2LkP3OU=;+HxhARKiPTm58RJJ1lnqFw=="
+secured: "1ZAE3suCi8MrHB0Ptq6lCE5Iv2aBgduRqIcNQrqkwCmYn/oS4jgN5y3zL1qoUShmysdBoQeXBA0FE0rM+sA970cwzQTrpMgivSXcUtt2MZ/TVCjLJtQqKenovPvDvk2U68SE3YUXxUPY2vQ8Fg3TZ4GQHKdic3Zv0iEwBaoqopArqZkDNu8AMHJk7PjATyD2uh08y88TS8MGh2m1sqJNGf73buaMrir5P2k+6Y9YYNMCwCc25y+vF+WEl4GroBsiH3uuMf4cVg4GFWEbMqrnG9aqVjw8SZ+uDVsVZJQUJ+DrMM2Pbqb+fVqcBY+stSlk+XAn+p0f3qclLiGpxZ4oK+8vZ6vUdmr1O0Hc6+mNn6Y=;qHUWgQSasla648gbHbxPRw=="
 ---
 

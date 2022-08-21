@@ -27,6 +27,38 @@ images:
     isCached: true
 
 related:
+  - title: "Call to halt gambler facial recognition"
+    excerpt: "Gambling and alcohol reform advocates have called for a moratorium on facial recognition technology in pubs, bars and casinos across the country until appropriate safeguards are put in place around the increasingly affordable and widely available technology."
+    publishedDateTime: 2022-08-18T09:58:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/call-to-halt-gambler-facial-recognition/news-story/2b0f62ff431f3cc300190b53cc8c8f02"
+    ampWebUrl: "https://amp.theaustralian.com.au/nation/call-to-halt-gambler-facial-recognition/news-story/2b0f62ff431f3cc300190b53cc8c8f02"
+    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/nation/call-to-halt-gambler-facial-recognition/news-story/2b0f62ff431f3cc300190b53cc8c8f02"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 59
+    images:
+      - url: "https://cdn.newsapi.com.au/image/v1/190cc9bd208e4f03c9fbd513d32d4b72"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Groups have questions about how facial recognition technology impact Black people"
+    excerpt: "The ACLU and others question the negative impact facial recognition technology Black people and communities of color."
+    publishedDateTime: 2022-08-19T15:50:00Z
+    webUrl: "https://thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/"
+    ampWebUrl: "https://thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/amp/"
+    type: article
+    provider:
+      name: The Grio
+      domain: thegrio.com
+    quality: 56
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2019/12/Facial-Recognition.jpg"
+        width: 1250
+        height: 805
+        isCached: true
   - title: "Facial recognition: UK plans to monitor migrant offenders are unethical—and they won't work"
     excerpt: "One afternoon in our lab, my colleague and I were testing our new prototype for a facial recognition software on a laptop. The software used a video camera to scan our faces and guess our age and gender."
     publishedDateTime: 2022-08-18T21:32:00Z
@@ -59,6 +91,15 @@ related:
         width: 1500
         height: 860
         isCached: true
+  - title: "Fingerprint Recognition Pioneer BIO-key Adds Facial Recognition to Mobile Platform"
+    excerpt: "BIO-key has added a facial recognition feature to its MobileAuth authentication app. The company is a long-time specialist"
+    publishedDateTime: 2022-08-18T20:13:00Z
+    webUrl: "https://mobileidworld.com/fingerprint-recognition-pioneer-bio-key-facial-recognition-mobile-platform-408181/"
+    type: article
+    provider:
+      name: Mobile ID News
+      domain: mobileidworld.com
+    quality: 15
 
 secured: "mjkWwOdgdj9dtXVv5ohPwyh11YJTe3dGbFT+QKgNPbm4IIlGAG8Op0E5Fo4xHNqKMs++aMSfiUP3+RJdtj343fgiuYyczQxXZJcb3jislN+HxsX9F3b9RPVcWwrGMMvNqyBoP3et/TRRRinvyaPWiFLRxBEciqmZz/gWRcf34+Q2VlN9jyeCfva96TMgBBmo/Kd8rj2NN0QCOyYRxgA6fay2zeZXkO82vStie8pylIdPSrzMzZdXvUXkkumnU9gs3mc3NizimHIiSyMo5OxSu/vD9c4u+Hrf/0JDegYV+8B6ZSv/Ic1AX8QyuX/sjyBOtCTG6G3PihZYV+CT4GzuAAP3GlhuZSraZbXE/Btf3NGAbE+S0H1QLEZ3EPRBCcje+5HAbL9xPq9Qgq4LZsBWnloUXXoiNb24mmqEJReswBBJ2NnuLHQbRNB5/Wgi+hJ4TAca0OiacUxd25yeVI7yhyHRXlRQwEygGtRAvnpo1tbSRLWoqkNeIUVOOdupmt0oMHEggw0/4HrPhRJKj3VrQQ==;JPKrtBMX3rKbkZEi2VlJsg=="
 ---

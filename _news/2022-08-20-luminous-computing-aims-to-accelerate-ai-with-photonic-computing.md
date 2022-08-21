@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/brucerogers/2022/08/19/luminous-computi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/08/19/luminous-computing-aims-to-accelerate-ai-with-photonic-computing/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "Using AI to Automate, Orchestrate, and Accelerate Fraud Prevention"
-    excerpt: "As fraud, waste, and abuse (FWA) cost government agencies and private companies billions each year, artificial intelligence (AI) has transformed how"
-    publishedDateTime: 2022-08-16T17:01:00Z
-    webUrl: "https://www.datanami.com/2022/08/16/using-ai-to-automate-orchestrate-and-accelerate-fraud-prevention/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 39
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/08/fraud_shutterstock_Rawpixel_dot_com.jpg"
-        width: 1000
-        height: 738
-        isCached: true
 
 secured: "58I9G3MWY3FDdcsOa+NRqnw2o4MpHIBu7s+X6vqiBsO6orK/M0sG/jwEdJESvFoEseuj+AoCoACN4tiL7gU26lsrLyFwXnAozcAFVSx6B05V89ZNVMqhxc3XAqA2I5mHRVOKiEgZk1AMPCC9rReij8Iqtkq/Y/sEL5DEAvWR2mBIn621bJVdL58uW6UvHP76I8qsnUgKNU3gW2pJsiTH7V9icXjAxFc8RaUJVJwxzScFmcdY2uaXFuad2gYbtrkYPlqzGzREOIJQyoAsqZ2HbqzgCNMjqgxT4qjKkFIe8YHi3QG1uge99kPa7ODrSoZf7sqL56L2kjpbUf+5/RreCEaQYPTjZ7nVn991MZWqBAQ6Gw0+woisa2823//CRn3LVqudRe14tspolFLEQ2cGcgm6/RnYspliPK13YoSFmzcRfyAOxzB7f4+JBOz4g/WdY0du1P7uSmc6Hj4RuA8E8BjcgA1/mN0zYOzpgdKGlFfdlNcGQYQf+VP51jRytw9YQpRMgi3PL5b+YWA5qiskvw==;39wrzuWhPMTLYBD9KW3jyw=="
 ---

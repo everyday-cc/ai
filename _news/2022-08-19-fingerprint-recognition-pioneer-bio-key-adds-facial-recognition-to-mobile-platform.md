@@ -20,38 +20,86 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Facial Recognition Platform Market Research Report Analysis by Competition, Sales, Revenue, Market Size 2022 to 2028"
-    excerpt: "This “ Facial Recognition Platform research market report ” highlights key external drivers that affect the industry and assesses the current performance and revenue growth of the industry. This report helps to collect Facial Recognition Platform industry information for target audiences before commencing any advertising campaign."
-    publishedDateTime: 2022-08-18T06:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-platform-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028-2022-08-18"
+  - title: "Call to halt gambler facial recognition"
+    excerpt: "Gambling and alcohol reform advocates have called for a moratorium on facial recognition technology in pubs, bars and casinos across the country until appropriate safeguards are put in place around the increasingly affordable and widely available technology."
+    publishedDateTime: 2022-08-18T09:58:00Z
+    webUrl: "https://www.theaustralian.com.au/nation/call-to-halt-gambler-facial-recognition/news-story/2b0f62ff431f3cc300190b53cc8c8f02"
+    ampWebUrl: "https://amp.theaustralian.com.au/nation/call-to-halt-gambler-facial-recognition/news-story/2b0f62ff431f3cc300190b53cc8c8f02"
+    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/nation/call-to-halt-gambler-facial-recognition/news-story/2b0f62ff431f3cc300190b53cc8c8f02"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-  - title: "Machine Learning Market generalship by Technology, Solutions, Application, Price, Demand Analysis and Growth Opportunities to 2025"
-    excerpt: "Global Machine Learning Market Report focuses on the major drivers and restraints for the key players. These Research Report also provides granular analysis of the market share, segmentation, revenue forecasts and geographic regions of the market."
-    publishedDateTime: 2022-08-19T12:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-generalship-by-technology-solutions-application-price-demand-analysis-and-growth-opportunities-to-2025-2022-08-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 59
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://cdn.newsapi.com.au/image/v1/190cc9bd208e4f03c9fbd513d32d4b72"
+        width: 1280
+        height: 720
         isCached: true
-  - title: "Cognitive Computing Market is Anticipated to Reach US$ 3.2 Trillion by 2032"
-    excerpt: "According to a recent study done by FMI, the cognitive computing market is expected to reach US$ 3.2 Trillion by 2032, up from US$ 257.1 Billion in 2022, expanding at a high CAGR of 28.7%. This study explains that the key factors such as the rise in big data analytics,"
-    publishedDateTime: 2022-08-17T09:08:00Z
-    webUrl: "https://www.fmiblog.com/2022/08/17/cognitive-computing-market-is-anticipated-to-reach-us-3-2-trillion-by-2032/"
+  - title: "Groups have questions about how facial recognition technology impact Black people"
+    excerpt: "The ACLU and others question the negative impact facial recognition technology Black people and communities of color."
+    publishedDateTime: 2022-08-19T15:50:00Z
+    webUrl: "https://thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/"
+    ampWebUrl: "https://thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/amp/"
+    cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/amp/"
     type: article
     provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 2
+      name: The Grio
+      domain: thegrio.com
+    quality: 56
+    images:
+      - url: "https://thegrio.com/wp-content/uploads/2019/12/Facial-Recognition.jpg"
+        width: 1250
+        height: 805
+        isCached: true
+  - title: "Facial recognition: UK plans to monitor migrant offenders are unethical—and they won't work"
+    excerpt: "One afternoon in our lab, my colleague and I were testing our new prototype for a facial recognition software on a laptop. The software used a video camera to scan our faces and guess our age and gender."
+    publishedDateTime: 2022-08-18T21:32:00Z
+    webUrl: "https://techxplore.com/news/2022-08-facial-recognition-uk-migrant-unethicaland.html"
+    ampWebUrl: "https://techxplore.com/news/2022-08-facial-recognition-uk-migrant-unethicaland.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-facial-recognition-uk-migrant-unethicaland.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 49
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/facial-recognition-uk.jpg"
+        width: 926
+        height: 517
+        isCached: true
+  - title: "Facial recognition: UK plans to monitor migrant offenders are unethical – and they won’t work"
+    excerpt: "Namrata is a member of A+ Alliance Feminist AI Research Network f<A+i>r. One afternoon in our lab, my colleague and I were testing our new prototype for a facial recognition software on a laptop. The software used a video camera to scan our faces and guess ..."
+    publishedDateTime: 2022-08-18T15:50:00Z
+    webUrl: "https://theconversation.com/facial-recognition-uk-plans-to-monitor-migrant-offenders-are-unethical-and-they-wont-work-188330"
+    ampWebUrl: "https://theconversation.com/amp/facial-recognition-uk-plans-to-monitor-migrant-offenders-are-unethical-and-they-wont-work-188330"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-uk-plans-to-monitor-migrant-offenders-are-unethical-and-they-wont-work-188330"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 48
+    images:
+      - url: "https://images.theconversation.com/files/478551/original/file-20220810-20-ifsy3x.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=206&fit=crop"
+        width: 320
+        height: 206
+        isCached: true
+  - title: "Facial Recognition Bans Begin To Fall Around the US as Re-Funding of Law Enforcement Becomes Politically Popular"
+    excerpt: "Some cities and states that were early to ban law enforcement from using facial recognition software appear to be having second thoughts as crime spikes become a major political issue."
+    publishedDateTime: 2022-08-18T22:00:00Z
+    webUrl: "https://www.cpomagazine.com/data-privacy/facial-recognition-bans-begin-to-fall-around-the-us-as-re-funding-of-law-enforcement-becomes-politically-popular/"
+    ampWebUrl: "https://www.cpomagazine.com/data-privacy/facial-recognition-bans-begin-to-fall-around-the-us-as-re-funding-of-law-enforcement-becomes-politically-popular/amp/"
+    cdnAmpWebUrl: "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/data-privacy/facial-recognition-bans-begin-to-fall-around-the-us-as-re-funding-of-law-enforcement-becomes-politically-popular/amp/"
+    type: article
+    provider:
+      name: CPO Magazine
+      domain: cpomagazine.com
+    quality: 38
+    images:
+      - url: "https://www.cpomagazine.com/wp-content/uploads/2022/08/facial-recognition-bans-begin-to-fall-around-the-us-as-re-funding-of-law-enforcement-becomes-politically-popular_1500.jpg"
+        width: 1500
+        height: 860
+        isCached: true
 
 secured: "BQ0rm86Tob57LceQq4YH6BLzFmgicDf/2KjQjXYmhktEsgJlD7wCCuw7EH6wNxstcgDqblFcsvp0WM7o8LX+Y+HbiutMRtmIAcOmQjng9Pf0lTzsR9+DifgtcXiBXlX1woQcPmMFS+1jFvYv+TbC07cxRfbLabMNPbnvzsIkbptei8aPEV+Fu4eecDnfohgv003VoRxsgsljYxRSqZZhAgSaGwXrZL05+RJe5XO2giTWjYNjUGeELhtQo8+7kJllRHpfwZRw7j+S3nlp6sg4ZMAPPIZUfwAm+wqPFI3R3mA+X+yQgTA9j+F73Yz8u1yFmC6TDXGWMthNzbc2ZstxMbIeIE99m4M0bhXsZRQ6fzQM2zVBMsk3ex4AHl5Qd34+ceK/0s2H/N2vXPJk0waFWZVhQB6ivZ1xij/ZpN5JFcMY3rz3uLtRLzpeC1sPm1ykcpjiMfC2hrb7HwdXZaGamVK6WqfgY8uqPbgml7iM/8wyzZFzwse7cAyhVY4bQ0qBPi9C2d3QFxOP22vT+Af5GA==;Fhcs+nbC/OBVspI82JXTzQ=="
 ---

@@ -2,6 +2,274 @@
   "page": 23,
   "value": [
     {
+      "path": "_news/2022-07-30-deepminds-ai-has-now-catalogued-every-protein-known-to-science.md",
+      "title": "DeepMind's AI has now catalogued every protein known to science",
+      "excerpt": "In late 2020, Alphabet's DeepMind division unveiled its novel protein fold prediction algorithm, AlphaFold, and helped solve a scientific quandary that had stumped researchers for half a century.",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/deepmind-ai-has-now-catalogued-every-protein-known-to-science-185116212.html",
+      "originalUrl": "https://www.aol.com/news/deepmind-ai-has-now-catalogued-every-protein-known-to-science-185116212.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T13:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-30-global-edge-ai-processor-market-size-is-expected-to-grow-at-a-cagr-of-approx-17-from-2022-to-2032.md",
+      "title": "Global Edge AI Processor Market Size Is Expected To Grow At A CAGR Of Approx. 17% From 2022 To 2032",
+      "excerpt": "Evolve Business Intelligence published a new market research report on Global Edge AI Processor Market by Type (Central Processing Unit (CPU), Graphics Processing Unit (GPU), Application Specific ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/global-edge-ai-processor-market-size-is-expected-to-grow-at-a-cagr-of-approx-17-from-2022-to-2032",
+      "originalUrl": "https://www.digitaljournal.com/pr/global-edge-ai-processor-market-size-is-expected-to-grow-at-a-cagr-of-approx-17-from-2022-to-2032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/London-commuter-rail-link-1K-03-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-identify-the-location-of-anomalies-using-amazon-lookout-for-vision-at-the-edge-without-using-a-gpu.md",
+      "title": "Identify the location of anomalies using Amazon Lookout for Vision at the edge without using a GPU",
+      "excerpt": "Automated defect detection using computer vision helps improve quality and lower the cost of inspection. Defect detection involves identifying the presence of a defect, classifying types of defects, and identifying where the defects are located. Many manufacturing processes require detection at a low",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identify-the-location-of-anomalies-using-amazon-lookout-for-vision-at-the-edge-without-using-a-gpu/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identify-the-location-of-anomalies-using-amazon-lookout-for-vision-at-the-edge-without-using-a-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/29/identify-toy-alien-anomalies.jpg",
+          "width": 1323,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T13:13:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-07-30-gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer.md",
+      "title": "Gatik’s autonomous fleet is proving driverless trucks can make roads safer",
+      "excerpt": "With a long list of heavy-hitting customers that include Walmart, Loblaw and most recently Georgia-Pacific, Gatik has demonstrated that commercially successful autonomous delivery is happening first in a constrained environment,",
+      "sourceUrl": null,
+      "webUrl": "https://www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer",
+      "originalUrl": "https://www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s29755.pcdn.co/wp-content/uploads/2022/07/6-3-1200x683.jpg",
+          "width": 1200,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer/amp",
+      "cdnAmpWebUrl": "https://www-freightwaves-com.cdn.ampproject.org/c/s/www.freightwaves.com/news/gatiks-autonomous-fleet-is-proving-driverless-trucks-can-make-roads-safer/amp",
+      "publishedDateTime": "2022-07-29T12:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "freightwaves.com",
+        "domain": "freightwaves.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-30-how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes.md",
+      "title": "How eBay is ramping up AI use in ecommerce behind the scenes",
+      "excerpt": "Bay is doubling down on AI-led visual experiences and further incorporating it into visual understanding and content understanding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/",
+      "originalUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/01/eBay.jpg?w=1200&strip=all",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/29/how-ebay-is-ramping-up-ai-use-in-ecommerce-behind-the-scenes/amp/",
+      "publishedDateTime": "2022-07-29T12:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws-part-1.md",
+      "title": "Build and train ML models using a data mesh architecture on AWS: Part 1",
+      "excerpt": "Organizations across various industries are using artificial intelligence (AI) and machine learning (ML) to solve business challenges specific to their industry. For example, in the financial services industry, you can use AI and ML to solve challenges around fraud detection, credit risk prediction,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/part-1-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T11:28:52-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-30-googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science.md",
       "title": "Google's DeepMind AI Predicts 3D Structure of Nearly Every Protein Known to Science",
       "excerpt": "After 22 years of grueling experimentation, John Kendrew of Cambridge University finally uncovered the 3D structure of a protein. It was a twisted blueprint of myoglobin, the stringy chain of 154 amino acids that helps infuse our muscles with oxygen.",
@@ -902,274 +1170,6 @@
       "topics": [
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy.md",
-      "title": "Analogue deep learning offers faster computation for artificial intelligence with much less energy",
-      "excerpt": "A multidisciplinary team of MIT researchers set out to push the speed limits of a type of human-made analogue synapse that they had previously developed. They utilized a practical inorganic material in the fabrication process that enables their devices to run 1 million times faster than previous versions,",
-      "sourceUrl": null,
-      "webUrl": "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108",
-      "originalUrl": "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.tnn.in/thumb/msid-93208108,imgsize-100,width-1280,height-720,resizemode-75/93208108.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108/amp",
-      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/technology-science/analogue-deep-learning-offers-faster-computation-for-artificial-intelligence-with-much-less-energy-article-93208108/amp",
-      "publishedDateTime": "2022-07-29T02:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "timesnownews",
-        "domain": "timesnownews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-global-military-robots-market-to-be-driven-by-advancement-in-artificial-intelligence-and-robotics-in-the-forecast-period-of-2022-2027.md",
-      "title": "Global Military Robots Market To Be Driven By Advancement In Artificial Intelligence And Robotics In The Forecast Period Of 2022-2027",
-      "excerpt": "Military robots are utilised in transportation, search, and rescue, mine clearing, and combat support activities. The expanding popularity of artificial intelligence and robots, as well as global ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/global-military-robots-market-to-be-driven-by-advancement-in-artificial-intelligence-and-robotics-in-the-forecast-period-of-2022-2027-2",
-      "originalUrl": "https://www.digitaljournal.com/pr/global-military-robots-market-to-be-driven-by-advancement-in-artificial-intelligence-and-robotics-in-the-forecast-period-of-2022-2027-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXdeP5y1x8QT_YhG2XK53NmOOgbyNWgSTQUs_upb4-pBw3T-O2qNm8WkeTFra6e1vL8FGcu0Jw8mXh44gWA4-6HQGk7SI3-LhOcMRrpsHJRdJxxHcXcK1h3asI7ML1nMAFIOo5LmpW8SzKMyeF91MaVuuxsLpSPrRlJELBn2w5BYUA0SJK8Y2uR7i3/w432-h207/Military-Robots-Market.jpg",
-          "width": 417,
-          "height": 207,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T01:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-what-are-growth-stocks-and-investing-in-them.md",
-      "title": "What Are Growth Stocks and Investing in Them",
-      "excerpt": "This could include biotech, cannabis, and artificial intelligence—but growth stocks ... they’ll be reinvesting their earnings into research and development. Another trait of growth companies ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/432347",
-      "originalUrl": "https://www.entrepreneur.com/article/432347",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/20160408155709-default-hero-entrepreneur.png",
-          "width": 2000,
-          "height": 1334,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-united-states-artificial-intelligence-market-2021-industry-size-share-trends-growth-and-forecast-2026.md",
-      "title": "United States Artificial Intelligence Market 2021: Industry Size, Share, Trends, Growth And Forecast 2026",
-      "excerpt": "and self-driving automobiles is anticipated to increase due to the growing integration of image recognition technology with optical character identification. United States Artificial Intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104611597/United-States-Artificial-Intelligence-Market-2021-Industry-Size-Share-Trends-Growth-And-Forecast-2026",
-      "originalUrl": "https://menafn.com/1104611597/United-States-Artificial-Intelligence-Market-2021-Industry-Size-Share-Trends-Growth-And-Forecast-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T00:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-an-indigenous-language-could-help-humans-and-ai-communicate.md",
-      "title": "An Indigenous language could help humans and AI communicate",
-      "excerpt": "One of the most challenging problems impeding humans from communicating with Artificial Intelligence (AI) systems could have a unique solution: a language spoken by Indigenous Australians in the NT. Researchers at the University of New South Wales have published a paper explaining how Jingulu - a language spoken by the Jingili people - could be translated directly into commands that both AI and humans can understand.",
-      "sourceUrl": null,
-      "webUrl": "https://oversixty.com.au/entertainment/technology/an-indigenous-language-could-help-humans-and-ai-communicate",
-      "originalUrl": "https://oversixty.com.au/entertainment/technology/an-indigenous-language-could-help-humans-and-ai-communicate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://oversixtydev.blob.core.windows.net/media/2022/07/indigenous-languages-hero.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://oversixty.com.au/amp/entertainment/technology/an-indigenous-language-could-help-humans-and-ai-communicate",
-      "cdnAmpWebUrl": "https://oversixty-com-au.cdn.ampproject.org/c/s/oversixty.com.au/amp/entertainment/technology/an-indigenous-language-could-help-humans-and-ai-communicate",
-      "publishedDateTime": "2022-07-28T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "oversixty.com.au",
-        "domain": "oversixty.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-quantum-music-to-showcase-groundbreaking-ai-baby-crying-translator-q-bear-at-tta-pavilion.md",
-      "title": "Quantum Music to Showcase Groundbreaking AI Baby Crying Translator Q-bear at TTA Pavilion",
-      "excerpt": "Q-bear uses artificial intelligence technology to help parents understand their newborn baby's needs and track physiological condition.LAS VEGAS,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/quantum-music-to-showcase-groundbreaking-ai-baby-crying-translator-q-bear-at-tta-pavilion-1031627928",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/quantum-music-to-showcase-groundbreaking-ai-baby-crying-translator-q-bear-at-tta-pavilion-1031627928",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1868832/image_5019932_7744838.jpg",
-          "width": 400,
-          "height": 267,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T23:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

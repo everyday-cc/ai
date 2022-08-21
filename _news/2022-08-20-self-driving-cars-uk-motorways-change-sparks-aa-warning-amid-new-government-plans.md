@@ -26,19 +26,6 @@ images:
     height: 417
     isCached: true
 
-related:
-  - title: "The Legal Challenge With Self-Driving Cars: Who’s Ultimately Liable?"
-    excerpt: "Two decades ago, self-driving cars were a fantasy only possible in sci-fi movies. Today, self-driving cars are only a legislation away."
-    publishedDateTime: 2022-08-16T15:22:00Z
-    webUrl: "https://lawandcrime.com/sponsored/the-legal-challenge-with-self-driving-cars-whos-ultimately-liable/"
-    ampWebUrl: "https://lawandcrime.com/sponsored/the-legal-challenge-with-self-driving-cars-whos-ultimately-liable/amp/"
-    cdnAmpWebUrl: "https://lawandcrime-com.cdn.ampproject.org/c/s/lawandcrime.com/sponsored/the-legal-challenge-with-self-driving-cars-whos-ultimately-liable/amp/"
-    type: article
-    provider:
-      name: lawandcrime
-      domain: lawandcrime.com
-    quality: 24
-
 secured: "KiVv1x/gcwjlx/RPay+1ZUFozpubaZaizeztjOuhCiqOXqTXHpYhJh71k22B1RHY69R0xEj75HslK6KYBIk0bZ5y3Qla9VZ32cxvXdVpuHYEXNTU3dnYs7DLFvN93kVN8v/PhstRjvh6M0F6FzXr4pSXlBkjA8OdX9Ic+7Wm2e0SgKxd36CTTG02rAg1vDxvOEPdOdG8eASBSQIvJNojz59Hl+ndaXEKNJ3xKHgTm1erqYQsQLctE/frfCmxOE1pdiW0pveAsi1PBWOUYCVj/vfBNuUw2d5UXlneuuF/OV5lQmkR8vP+3dOVrNbFbEyG81OCrLs8rie3vqi6y3BU/vCUiqWgXch/Q4s7pW1Ax7Y=;OsYxs6b3AG+J7yWMu6K10g=="
 ---
 

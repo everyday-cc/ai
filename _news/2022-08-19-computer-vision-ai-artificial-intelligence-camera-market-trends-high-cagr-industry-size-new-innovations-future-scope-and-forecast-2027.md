@@ -57,15 +57,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Application Market 2022: Global Trends, Size, Segments, Forces Analysis, Revenue, Challenges and Growth Forecast to 2028"
-    excerpt: "The global Artificial Intelligence Application Market report focused on a thorough examination of the industry's"
-    publishedDateTime: 2022-08-17T07:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-application-market-2022-global-trends-size-segments-forces-analysis-revenue-challenges-and-growth-forecast-to-2028-2022-08-17"
+  - title: "AI in computer vision Market Growth Drivers 2021, Industry Share, Size, Key Players Strategies, Future Investments and SWOT Analysis till 2027"
+    excerpt: "AI is the capability of machines to carry out intellectual function such as cogitation, perceiving, learning, investigative and decision taking. Factors such as thriving need for quality automation, growing demand for computer vision systems in advanced and arising applications,"
+    publishedDateTime: 2022-08-18T06:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-growth-drivers-2021-industry-share-size-key-players-strategies-future-investments-and-swot-analysis-till-2027-2022-08-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 10
+    quality: 28
 
 secured: "g3qczMVyuQEa0YWzaIsR2orMM4tBkn8k1HYf6fiW/3K028bUtdcseMuGlRDIcyvvtCy+Maq+eNUGxc+BXETO3qSGHEQBwZCuOUrEodmeooeRmtRy2KALerRzaYxfmZfAbGEenG03UeODe/PODnsKUlKXkPYqTLRgKWYKFaxkAF2FixrAFdELFP4RzJlCnvIUrp8xi4PdGH7UxPccoV5b4yrcPB3uT0gd8LBrKiRwPXYpYdwOU16PVNm6CdRMFxg4aEGiDbD9CfOP6zeUcH6RiKqpcomzUaL1hF65++VlvednBxAj6HrdIvRlgVf9GdoGkOvnhvoBu3OuteHaplsDIZZMltTpg0JKsD53UDTzdTU=;oVe8JvOEqISZIdrG5IA8nA=="
 ---

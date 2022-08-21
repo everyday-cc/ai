@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/c3.ai-inc.-ai-stock-sinks-as-market-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-inc.-ai-stock-sinks-as-market-gains:-what-you-should-know-1?amp"
 type: article
 quality: 67
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,40 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "Artificial Intelligence (AI) Chip Market Set for Rapid Growth by 2029"
+    excerpt: "Pune, India-Global Artificial Intelligence (AI) Chip Market Research Report 2022-2029 thinks about key breakdowns in"
+    publishedDateTime: 2022-08-17T07:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-set-for-rapid-growth-by-2029-2022-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 99
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Hardware Market Outlook, Key Players, Share, Trends and Forecast by 2027"
+    excerpt: "Hardware Market is valued at approximately USD 9.8 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 37.5% over the forecast period 2020-2027.  Artificial intelligence (AI) has been one of the most appealing technology in recent years."
+    publishedDateTime: 2022-08-17T14:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-outlook-key-players-share-trends-and-forecast-by-2027-2022-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
+  - title: "Artificial Intelligence in Genomics Market Projections and Regional Outlook, Set for Rapid Growth and Trend by 2022-2030"
+    excerpt: "The global artificial intelligence market size in genomics is expected to grow from 471 million USD to 18,213 million USD from 2021 to 2030 with a compound annual growth rate (CAGR) of 50.2%.\\ Download Free Sample of This Strategic Report :- A release on June 8th,"
+    publishedDateTime: 2022-08-17T13:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-genomics-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-2030-2022-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 24
 
 secured: "IJUMunZG0zuKrzHlEhWhYU8ePKAZYDr2cW7bc1WzlFpKWJZDX+pTu7usH72pg1Er+JeAqBV+UUManlwcOwpJPGuUL3NlqUpQ+cSsILkpaJvDhqc9b9QI0/Ob+P4OBYYEFk85TFxlwkyW1Bx1fS1YJvowzW0ouMUNqPcnMAWNMD4Ge/R7ahMs/nqNTSm8lHnBK2mPL4jfiPGcdDScV0I18Fnr6YUN/F/nkm1tUpu/1O5Gx/8TotApOAaxBJMOr6nYptqP//TaCX8XJ9NzT0N1DtyfH6GLsvmxMvknDXxZTMrLQv+3/vR7w9jhgXPcaNgLcpjbpeFQAEvEZQNB7+uRUfi0k/8trK54ICszZ9Shm0Y=;ULtuVzOa2nxo19I9V5877w=="
 ---

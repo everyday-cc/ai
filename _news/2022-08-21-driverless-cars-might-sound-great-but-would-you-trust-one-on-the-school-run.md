@@ -29,8 +29,8 @@ images:
 related:
   - title: "Driverless cars: Experts warn no easy answer to how safe they should be"
     excerpt: "It says the public may have little tolerance for driverless car crashes - even ... an expert body which advises governments on artificial intelligence, says the question of how safe autonomous ..."
-    publishedDateTime: 2022-08-19T04:03:00Z
-    webUrl: "https://www.bbc.com/news/technology-62598618?at_custom4=21AF8ED2-1F4C-11ED-98A9-84BF4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7"
+    publishedDateTime: 2022-08-19T02:51:00Z
+    webUrl: "https://www.bbc.com/news/technology-62598618?at_medium=custom7&at_custom2=twitter&at_campaign=64&at_custom4=43EF959E-1F67-11ED-98A9-84BF4744363C&at_custom1=%5Bpost+type%5D"
     ampWebUrl: "https://www.bbc.com/news/technology-62598618.amp"
     cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62598618.amp"
     type: article

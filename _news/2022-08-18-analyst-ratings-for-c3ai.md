@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "C3.ai: 50% Net Cash, 7x Sales, Artificial Intelligence Growth Story"
+    excerpt: "AI traded above $100 on its first day of trading and traded as high as $177 per share soon after. The stock has since dropped nearly 90% since then. AI data by YCharts I last covered AI in February where I rated the stock a strong buy on account of the low ..."
+    publishedDateTime: 2022-08-21T09:48:00Z
+    webUrl: "https://seekingalpha.com/article/4535995-c3ai-net-cash-sales-artificial-intelligence-growth-story"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 69
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/3103552/image_3103552.jpg?io=getty-c-w750"
+        width: 750
+        height: 504
+        isCached: true
   - title: "Expert Ratings for C3.ai"
     excerpt: "According to 8 analyst offering 12-month price targets in the last 3 months, C3.ai has an average price target of $18.56 with a high of $28.00 and a low of $14.00. Below is a summary of how these 8 analysts rated C3."
     publishedDateTime: 2022-08-17T16:13:00Z
@@ -33,20 +47,6 @@ related:
     quality: 67
     images:
       - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_25159.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
-  - title: "What 8 Analyst Ratings Have To Say About C3.ai"
-    excerpt: "Analysts have provided the following ratings for C3.ai (NYSE:AI) within the last quarter: In the last 3 months, 8 analysts have offered 12-month price targets for C3.ai. The company has an average price target of $18."
-    publishedDateTime: 2022-08-17T16:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/what-8-analyst-ratings-have-to-say-about-c3-ai-1031690797"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_25245.jpeg"
         width: 1024
         height: 768
         isCached: true

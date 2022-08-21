@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/expert-ratings-for
 webUrl: "https://markets.businessinsider.com/news/stocks/expert-ratings-for-c3-ai-1031690421"
 type: article
 quality: 67
-heat: 97
-published: true
+heat: -1
+published: false
 
 provider:
   name: Business Insider
@@ -28,19 +28,19 @@ images:
     isCached: true
 
 related:
-  - title: "What 8 Analyst Ratings Have To Say About C3.ai"
-    excerpt: "Analysts have provided the following ratings for C3.ai (NYSE:AI) within the last quarter: In the last 3 months, 8 analysts have offered 12-month price targets for C3.ai. The company has an average price target of $18."
-    publishedDateTime: 2022-08-17T16:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/what-8-analyst-ratings-have-to-say-about-c3-ai-1031690797"
+  - title: "C3.ai: 50% Net Cash, 7x Sales, Artificial Intelligence Growth Story"
+    excerpt: "AI traded above $100 on its first day of trading and traded as high as $177 per share soon after. The stock has since dropped nearly 90% since then. AI data by YCharts I last covered AI in February where I rated the stock a strong buy on account of the low ..."
+    publishedDateTime: 2022-08-21T09:48:00Z
+    webUrl: "https://seekingalpha.com/article/4535995-c3ai-net-cash-sales-artificial-intelligence-growth-story"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 69
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_25245.jpeg"
-        width: 1024
-        height: 768
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/3103552/image_3103552.jpg?io=getty-c-w750"
+        width: 750
+        height: 504
         isCached: true
   - title: "Where C3.ai Stands With Analysts"
     excerpt: "Over the past 3 months, 8 analysts have published their opinion on C3.ai (NYSE:AI) stock. These analysts are typically employed by large Wall Street banks and tasked with understanding a company's business to predict how a stock will trade over the upcoming year."

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wqad.com/amp/article/news/health/your-health/future-arti
 cdnAmpWebUrl: "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/news/health/your-health/future-artificial-intelligence-no-internet-healthcare-remote/526-7a75c336-7197-4085-885d-bffa6c06a569"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -26,45 +26,6 @@ images:
     width: 1140
     height: 641
     isCached: true
-
-related:
-  - title: "5 Ways AI is Shaping the Future of Investment Research"
-    excerpt: "Financial analysts need access to high-quality data and information on emerging trends to deliver timely, insightful research and maintain their competitive edge."
-    publishedDateTime: 2022-08-16T16:47:00Z
-    webUrl: "https://www.bloomberg.com/professional/blog/5-ways-ai-is-shaping-the-future-of-investment-research-2/?tactic-page=597225"
-    type: article
-    provider:
-      name: Bloomberg
-      domain: bloomberg.com
-    quality: 69
-    images:
-      - url: "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2FScreenshot-NLP.png&width=800"
-        width: 800
-        height: 522
-        isCached: true
-  - title: "New AI Research Shows That Our World Is Becoming More Boring and Less Colorful"
-    excerpt: "As it turns out, our world - the items and objects in it - are starting to look like the end scene of Trolls movie: gray-toned, colorless, flat, all the same. Where have all the colors gone? According to recent AI research,"
-    publishedDateTime: 2022-08-18T11:44:00Z
-    webUrl: "https://www.inc.com/nick-hobson/new-ai-research-shows-that-our-world-is-becoming-more-boring-less-colorful.html"
-    type: article
-    provider:
-      name: Inc
-      domain: inc.com
-    quality: 33
-    images:
-      - url: "https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/images/panoramic/GettyImages-1387689213_510835_fdkzc6.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "AI in computer vision Market Growth Drivers 2021, Industry Share, Size, Key Players Strategies, Future Investments and SWOT Analysis till 2027"
-    excerpt: "AI is the capability of machines to carry out intellectual function such as cogitation, perceiving, learning, investigative and decision taking. Factors such as thriving need for quality automation, growing demand for computer vision systems in advanced and arising applications,"
-    publishedDateTime: 2022-08-18T06:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-growth-drivers-2021-industry-share-size-key-players-strategies-future-investments-and-swot-analysis-till-2027-2022-08-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
 
 secured: "hdaAc6nb42eYnM9eQwlgFgtyuQEvWI6j/4w9GSTJ1gWLEHehZZVTPDBwVvfYOegZyrTKPU9t4w8ox0m06E0NPdUdDJECcc4U82qKMRUZiLpryUEOHegre1KqmsFALESJXh0OcZ9c8cqrOxyqXH5SqtwW5RTyGdvICnYRaoBf89xFsRxAeZI+1r7VG2WDqXcBSBw5Kylx9wqlXlqjBCfTiWdxWH99hu2Tky9aPceEzx2E/49cIxvq7zta1EE041qjlqN5qdSpC8MMIXVHKXoecIPrvXu8uAHO4XQj+uYIcBCLfPTYvhsADNjWXqwzae1Zo1i4soI33jAXVoRVhf+3xlVDI1y7Bmacn0qpW9xRLCA0Ti4GxtreJR8BiAEQHm4BwR5XK+M6lfEKq4P79GlWFlal+djYFVNSJWA3rRbC7LlAfu82Ba7wWR0loSgfcgoJO28XER2abkH5iSMgbhWeAJrhNDmC7u20t/vWgUojoixjOZf6rl1fNX/HkKiTSJRj1aEYDwLhoTHAZCom0Ji5fw==;Wel3rMFJ/r3TergINm++wQ=="
 ---

@@ -2,6 +2,52 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-07-ai-does-not-have-thoughts-no-matter-what-you-think.md",
+      "title": "AI does not have thoughts, no matter what you think",
+      "excerpt": "The technology can generate tweets and blog posts and even entire articles, and as researchers make gains, it is getting better at conversation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/ai-does-not-have-thoughts-no-matter-what-you-think-8970231.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/ai-does-not-have-thoughts-no-matter-what-you-think-8970231.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2019/09/artificial-intelligence-3382507_1280-e1576670917550-753x435.jpg",
+          "width": 753,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/ai-does-not-have-thoughts-no-matter-what-you-think-8970231.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-does-not-have-thoughts-no-matter-what-you-think-8970231.html/amp",
+      "publishedDateTime": "2022-08-06T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "AI Ethics",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-08-06-ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient.md",
       "title": "AI Ethics Asks Whether It Makes Any Sense To Ask AI If AI Itself Is Sentient",
       "excerpt": "AI Ethics raises the thorny question as to whether the question asked of AI about AI itself being sentient is a bit overrated, including frowning at recent headlines boldly and falsely proclaiming sentient AI existence.",
@@ -1363,49 +1409,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-an-indigenous-language-could-help-humans-and-ai-communicate.md",
-      "title": "An Indigenous language could help humans and AI communicate",
-      "excerpt": "One of the most challenging problems impeding humans from communicating with Artificial Intelligence (AI) systems could have a unique solution: a language spoken by Indigenous Australians in the NT. Researchers at the University of New South Wales have published a paper explaining how Jingulu - a language spoken by the Jingili people - could be translated directly into commands that both AI and humans can understand.",
-      "sourceUrl": null,
-      "webUrl": "https://oversixty.com.au/entertainment/technology/an-indigenous-language-could-help-humans-and-ai-communicate",
-      "originalUrl": "https://oversixty.com.au/entertainment/technology/an-indigenous-language-could-help-humans-and-ai-communicate",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://oversixtydev.blob.core.windows.net/media/2022/07/indigenous-languages-hero.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://oversixty.com.au/amp/entertainment/technology/an-indigenous-language-could-help-humans-and-ai-communicate",
-      "cdnAmpWebUrl": "https://oversixty-com-au.cdn.ampproject.org/c/s/oversixty.com.au/amp/entertainment/technology/an-indigenous-language-could-help-humans-and-ai-communicate",
-      "publishedDateTime": "2022-07-28T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "oversixty.com.au",
-        "domain": "oversixty.com.au",
-        "images": null,
         "publishers": null,
         "authors": null
       },

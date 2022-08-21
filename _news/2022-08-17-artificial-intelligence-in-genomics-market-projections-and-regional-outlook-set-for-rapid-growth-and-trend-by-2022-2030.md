@@ -23,20 +23,31 @@ topics:
   - AI
 
 related:
-  - title: "Edge AI Hardware Market Size Report Till 2029 with Leading Regions and Countries Data | 119 Pages"
-    excerpt: "In the forecast period of 2022-2029, the global “Edge AI Hardware Market\" is expected to grow at a steady rate,"
-    publishedDateTime: 2022-08-17T05:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-hardware-market-size-report-till-2029-with-leading-regions-and-countries-data-119-pages-2022-08-17"
+  - title: "Artificial Intelligence (AI) Chip Market Set for Rapid Growth by 2029"
+    excerpt: "Pune, India-Global Artificial Intelligence (AI) Chip Market Research Report 2022-2029 thinks about key breakdowns in"
+    publishedDateTime: 2022-08-17T07:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-set-for-rapid-growth-by-2029-2022-08-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 99
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "C3.ai, Inc. (AI) Stock Sinks As Market Gains: What You Should Know"
+    excerpt: "Wall Street will be looking for positivity from C3.ai, Inc. as it approaches its next earnings report date. This is expected to be August 31, 2022. The company is expected to report EPS of -$0.26, down 13."
+    publishedDateTime: 2022-08-18T22:00:00Z
+    webUrl: "https://www.nasdaq.com/articles/c3.ai-inc.-ai-stock-sinks-as-market-gains%3A-what-you-should-know-1"
+    ampWebUrl: "https://www.nasdaq.com/articles/c3.ai-inc.-ai-stock-sinks-as-market-gains:-what-you-should-know-1?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-inc.-ai-stock-sinks-as-market-gains:-what-you-should-know-1?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 67
   - title: "Artificial Intelligence (AI) Hardware Market Outlook, Key Players, Share, Trends and Forecast by 2027"
     excerpt: "Hardware Market is valued at approximately USD 9.8 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 37.5% over the forecast period 2020-2027.  Artificial intelligence (AI) has been one of the most appealing technology in recent years."
     publishedDateTime: 2022-08-17T14:33:00Z
@@ -46,90 +57,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-  - title: "Artificial Intelligence in Automotive Market Overview by Recent Opportunities, Growth Size, Regional Analysis and Forecasts to 2025"
-    excerpt: "Global Artificial Intelligence in Automotive Market Report is an In-Depth Analysis of the Latest Developments, Market"
-    publishedDateTime: 2022-08-17T12:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2025-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Neural Networks Market to Witness an Outstanding Growth during 2022-2029 with Leading Regions and Countries Data | 121 Pages"
-    excerpt: "In the forecast period of 2022-2029, the global “Artificial Neural Networks Market\" is expected to grow at a steady"
-    publishedDateTime: 2022-08-17T05:13:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-neural-networks-market-to-witness-an-outstanding-growth-during-2022-2029-with-leading-regions-and-countries-data-121-pages-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Training Data Market Size 2021, Key Futuristic Trends, SWOT Analysis, Opportunities and Outlook Analysis by 2027 with Top Growth Companies"
-    excerpt: "In 2021, “ AI Training Data Market “ Size, Status and Market Insights, Forecast to 2027 |( Number of Pages:107) AI"
-    publishedDateTime: 2022-08-17T04:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-training-data-market-size-2021-key-futuristic-trends-swot-analysis-opportunities-and-outlook-analysis-by-2027-with-top-growth-companies-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Industrial Market 2022 Trends, Production, Gross Margin, Demands, Emerging Technology By Regional Forecast To 2029"
-    excerpt: "The Artificial Intelligence in Industrial Market (2022-2029) Survey Report is a professional and detailed survey of"
-    publishedDateTime: 2022-08-17T06:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-industrial-market-2022-trends-production-gross-margin-demands-emerging-technology-by-regional-forecast-to-2029-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Software Market Share 2022 Global Trend, Segmentation, Business Growth, Opportunities and Forecast to 2029"
-    excerpt: "Get a Sample PDF of Report -  The Global Voice Recognition Software Market Report 2022 covers 118 pages and provides details on vital statistics, data, information, trends and competitive landscapes in this niche sector."
-    publishedDateTime: 2022-08-19T06:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-share-2022-global-trend-segmentation-business-growth-opportunities-and-forecast-to-2029-2022-08-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Voice Recognition Biometrics Market to Witness an Outstanding Growth during 2022-2029 with Leading Regions and Countries Data | 124 Pages"
-    excerpt: "In the forecast period of 2022-2029, the global “Voice Recognition Biometrics Market\" is expected to grow at a steady"
-    publishedDateTime: 2022-08-17T05:18:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-biometrics-market-to-witness-an-outstanding-growth-during-2022-2029-with-leading-regions-and-countries-data-124-pages-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 21
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "oMMRQYk4HBVvw/NLnkQXaTNk9BHyfFePeSiJuvPZXQPkkY+XUB1jsdrohxibfYqC8JzL26hdgDzZZ4/qIpZS+S0oFC24hBYLDbpBz8DD30+vhiR3I2IKRLtJNlktdIdSCC2uds0loRFkj10jQ1FVxL0l17jDx9k4c1we8zpIfSxAZdG7HDh2RvvedwYmL3CQgqreR/85rN/lmHRvuMBPxiQ8bppsBmbWMoB1m302jpvaevCA1eNlq729oBd8Qv46+GrIl15FFIsIV4dxgRbL3McX96A7/YdUa2b4aBoo1KLfEaTbCoLmjdNVTilCx81atKu5e27Vk+pb6SUqzHY6Wa2xRvdqn14b0uAd41eL7PY=;d+wfWvZEpf3JW8bDzBWYfA=="
 ---
