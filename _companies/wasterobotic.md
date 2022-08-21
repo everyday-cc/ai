@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "dirtyjobrobot"
   url: "https://twitter.com/dirtyjobrobot"
-  followers: 347
+  followers: 348
 
 size: 11-50 employees
 yearFounded: 2016
