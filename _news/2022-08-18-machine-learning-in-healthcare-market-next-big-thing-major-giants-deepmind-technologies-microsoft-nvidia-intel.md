@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/machine-learning-in-healthcare-m
 webUrl: "https://www.digitaljournal.com/pr/machine-learning-in-healthcare-market-next-big-thing-major-giants-deepmind-technologies-microsoft-nvidia-intel"
 type: article
 quality: 68
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1083
         height: 567
         isCached: true
+  - title: "Artificial Intelligence in Agriculture Market Business overview 2022, and Forecast to 2030 | By -IBM, John Deere, Microsoft"
+    excerpt: "The strong development of the Artificial Intelligence in Agriculture market can be ascribed to the elements related which incorporate market drivers, limitations and amazing open doors, market propensities of each and every present and future,"
+    publishedDateTime: 2022-08-19T14:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-business-overview-2022-and-forecast-to-2030-by--ibm-john-deere-microsoft-2022-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
 
 secured: "8m9+X737GHooCPNFwP1++SEnjrLh0bp0VTlEhheY4/97P5t1p7cYxyzwOle3mG0LOJHJNY8Hd/PjryH0bZchbxmNnWdagNgGB5sCFKsOYKnh4rvKDoziix/DfNCXXBzaQhtHZGjWIIl6Rfm2mat/JVNGVktAG4Ik/0YdzqsvvdqJjkm/FpTEYAtd/q7OWMwwLTfa7gRo8dJxWfUPRulAPi+OWJAWnK1bWcp7S0TzI0VnCyK8KWIn9Qcz5tY0fniq0MuQq+4o0PQPjWAObl+8plCg9SaVT1S+HI9KUYqOPObZzzieQkAYJN7+1z/sSyzkRtGppaEf65dIQyZx1LC454kWuGCRVWowUq2l+PfvgF0=;r+5VJPubHjC7Q3X9Rnoslw=="
 ---

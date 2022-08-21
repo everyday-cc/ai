@@ -40,20 +40,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "BrainChip Empowers Next Generation of Technology Innovators with Launch of the University AI Accelerator Program"
-    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / August 16, 2022 / BrainChip Holdings Ltd (ASX:BRN) (OTCQX:BRCHF) (ADR:BCHPY), the world’s first commercial producer of neuromorphic AI IP, is bringing its neuromorphic technology into higher education institutions via the BrainChip University AI Accelerator Program,"
-    publishedDateTime: 2022-08-16T21:32:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-education-higher-3b8b8dd0be381e8eb2f6fee00f20dca8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "kQ+GKfhilzyg3IpIS8ree/gB980/aAaejUi2KjEBczJCohC7gEplCx3Lj7t5RmbexQgnh+c8c5heIx4IUQS5ShfBZiGDEhFUEkQLQvSFDv3OPDip2/au6UyLDozOUACuf9nfCNJbYTkzFBHKiDWrscyF2jGsiijmha7BMpw4qxtmTdjbxoWHc19S6WJGdXyOjJ579dLF8gB7xF8lWSPRnxtZDecUbe2ljKAOiU3mzm08HB09XxFMbiYBrZU64tBNLzFsXhN7OuAEzZVG3T6O1Nta73GT5xa3V6L+tu3wCYziuLcUx1da9gTodykiwNNu51e8brS594ceZl/jDNkst+pS1FnQUdybw195KPp+d6g=;h47BhhRH9kmKleoA7seQdg=="
 ---

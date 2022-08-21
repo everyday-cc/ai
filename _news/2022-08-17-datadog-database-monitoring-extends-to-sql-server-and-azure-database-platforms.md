@@ -7,8 +7,8 @@ originalUrl: "https://www.itpro.co.uk/data-insights/databases/368822/datadog-dat
 webUrl: "https://www.itpro.co.uk/data-insights/databases/368822/datadog-database-monitoring-extends-to-sql-server-and-azure-database"
 type: article
 quality: 65
-heat: -1
-published: false
+heat: 85
+published: true
 
 provider:
   name: IT Pro
@@ -29,20 +29,15 @@ images:
     isCached: true
 
 related:
-  - title: "Datadog Extends Monitoring for Microsoft SQL Server and Microsoft Azure Database Platforms"
-    excerpt: "The expanded support provides visibility into query-level metrics and detailed explain plans so all Microsoft customers can benefit from Database"
-    publishedDateTime: 2022-08-16T20:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database-platforms-1031688288"
+  - title: "Why Palantir, Datadog, and C3.ai Plunged Today"
+    excerpt: "Shares of big data software companies Palantir, Datadog (NASDAQ: DDOG), and C3.ai all fell hard today, down 6.8%, 4.5%, and 8.9% as of 1 p.m. ET. There wasn't any c"
+    publishedDateTime: 2022-08-19T18:04:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-palantir-datadog-and-c3.ai-plunged-today"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
-    images:
-      - url: "https://mma.prnewswire.com/media/1730117/Datadog_logo.jpg"
-        width: 400
-        height: 210
-        isCached: true
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
   - title: "Datadog Extends Monitoring for Microsoft SQL Server and Microsoft Azure Database"
     excerpt: "Datadog, Inc., the monitoring and security platform for cloud applications, has announced expanded monitoring for Microsoft SQL"
     publishedDateTime: 2022-08-17T16:23:00Z

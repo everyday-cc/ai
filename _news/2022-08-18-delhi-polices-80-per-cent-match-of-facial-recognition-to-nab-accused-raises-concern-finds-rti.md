@@ -62,17 +62,12 @@ related:
   - title: "The Low Threshold for Face Recognition in New Delhi"
     excerpt: "Police in India's capital say they only require an 80 percent accuracy rate for matches, raising new alarm bells for civil liberty advocates."
     publishedDateTime: 2022-08-21T11:00:00Z
-    webUrl: "https://www.wired.co.uk/article/delhi-police-facial-recognition"
+    webUrl: "https://www.wired.com/story/delhi-police-facial-recognition/"
     type: article
     provider:
-      name: Wired UK
-      domain: wired.co.uk
-    quality: 39
-    images:
-      - url: "https://media.wired.co.uk/photos/62fed4a49ccefc2e2c825c03/16:9/w_1280,c_limit/Delhi-Police-Facial-Recognition-Security-GettyImages-1237447046.jpg"
-        width: 1280
-        height: 720
-        isCached: true
+      name: Wired
+      domain: wired.com
+    quality: 49
 
 secured: "S1I8E8gnY2E90Tw4VFG2cY3tsu1ahpPBYiOFfP8unJrcTe46PnWVi1PEEzutmIWEoakojrFOVe298xS6ZK6KIrWyUE6k+QlIUEr5nKjWRjnkrnuo5jCcae/aRSgh+fK/ykAUNPCdqAZqhOVwpPMuwkzwjAy15W9YKn46s2JnHbS/LetXDm9CrsSPtFl+J3oPeFUtMhthHRKlS5H2gAvMjbYoAXd7wstO2FK3YMdqRO3ZtzPZbxEgRJkxtbPWOwaalXdexj8HyKsGzjJpsZUwQSCHYRUzZI5mUp6M+LkoJ04pYisRNMXPubpVCH7lLLBeoNjr7i8owCKNxjwRXicqCphbkyPZyZz/xPbQQ4GSziDFS1cHexvdR1r1RGsYBV3Nxq7Sriogl1wjRQn4QStetNkeA5cSkU5CP7R4UKTK2Wv731A0ED6MxvY1wIOgDBrH+v7Tm6EcMj0VWc1pzOpNBQWq7v6/zjYBrx0IQ/2qEs0cY4FFjGYhSZ61bhhAFCaHfHYf3ak3dnD6KSvz02cMkg==;vk8jS2C56W0h2oBKYZA+Jg=="
 ---

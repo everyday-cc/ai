@@ -15,6 +15,12 @@ topics:
   - AI in Autos
   - AI
 
-secured: "G6BwvWoALYF8xZRs4d4QIMmOZDk7mIeRcZ1eSw9x/R6bDDQHDQGTK6X+VRpXlKipH/g4JfEBAmPofWbas/lpM2eLYhPR/0BlFM5OcrdQEtj8GJHWt6V+XXhxPrAfWWr0iX6njv6sNEWIOXjavjivmVOKg13u/AiHan1Zlm2itcl4l68mUJSu4WKAdUZk6qvYJ2Be83T9wxeLI43TL31bvzb1eElbt3pgO36Bpl4ANJ4+qDC2Wr7N2PgnMrRmxYpV6HVaOxd8Od74kQk6pZB3rvGTB71YvOSrCOMYlGjWdLMD/NTwbGSE2WC+P9lQfqPunWRYJ6W7Ob7N6a5EyySoCUUkN+G3ovtkx+Fzzw45PAI=;Sd5EGrrrsx/eDdgrGs3Fow=="
+images:
+  - url: "https://apicms.thestar.com.my/uploads/images/2022/08/08/1689064.jpg"
+    width: 1240
+    height: 827
+    isCached: true
+
+secured: "ExhAe2TIWPiHprABFleRLVwOfHp8GXl+8cCoxbUoxi1E3amLS3DC27lZCItBIVRdd9cMEtB4hk5JNN5UZdvQsLKwJdRPXbhfiQJ4lJbdoib9nQrtkirP3pWUb/k7ChSW1rAF8D35VIJIf/7fjJZx22kcO8Y2AtN+CI2QmsDGwzdebfbgvPaOa0SGZaSmsAaXul09m6cSu9bNbHv/qqMh/at6TNYS2J40/dyOmtSVK9rc1F7HYmH9nlVaVYUD7nVlHhO6/65yIVPIsGlvfFiX+DFyJrGVV5IlJ0VdHggGZuzzGWpfdZcmF0hcdyeMkNkpo6DcP3k2++XiXSs8OaMvzxI7aVClAeNTy7RbpVQjGk8=;DUls28N1gte+YRsihRYJPw=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-19T14:41:00Z
 originalUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-access-solutions-market-overview-2022-to-2030-future-trends-and-forecast-by--cloudwalk-dahua-technology-aurora-2022-08-19"
 webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-access-solutions-market-overview-2022-to-2030-future-trends-and-forecast-by--cloudwalk-dahua-technology-aurora-2022-08-19"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: MarketWatch

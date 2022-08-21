@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/when-we-might-meet-the-first-intelligent-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/when-we-might-meet-the-first-intelligent-machines/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 85
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 642
     isCached: true
+
+related:
+  - title: "Ex-agency marketers experience in “the machine” might just give them the edge"
+    excerpt: "A good marketer is a good marketer, but ask four of Australias top CMOs if ex-agency marketers do it differently and invariably better, and youll find a clear yes."
+    publishedDateTime: 2022-08-21T11:25:00Z
+    webUrl: "https://www.theaustralian.com.au/business/growth-agenda/exagency-marketers-experience-in-the-machine-might-just-give-them-the-edge/news-story/da3ff844bb08eff784c06acf9a20e20a"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 1
 
 secured: "EbTO9Gq1o3Nx6/EpOKGghG2eOhJtRxXLeytH7dZWDYWU/qZborpO7il48EGatEG+8yb5BeRfmhoYk9HAj5zVKGwsIyxvbVGuLl8I4Y8231iTnIdiIT1zUR31bRcDCPbaEDh4H/oSzsm0peVilN2N6NASDi0wr83WpizOQ+vpmkj8ajjPfa/s0YbaEVhaAeI1kwchXtJtkhMnf8Xst5WAYJ/+0ojKOweJ9kMLucLZP34bHbssAR6VWMV5vogBVHQXNzc2tZCxb8kV4Pfb0XDQC1ei1TxqiV71YpjxEvoPGagD2EqJ2vu5/IEWO+n0y75YbfyjOwpZ2pTpvPfrtsr/RtEk4rkg3UrK82yzsdn84lW9A3h0RYLVuSxU4S1Q5YQXENu+GvwXaA45hWEuI58nSUekmXOgNw9BrfvjWw3NgBzH7DzRsmN2uv1uoM/tKEL6kAAKUwU6LwB0YYaty+EWS1NKLtWOB9x4nten9p6tTeA6jxiasOAvEt9ie3u44fuVJ7q6KJVjbbz5X81MBiaaWg==;KqtaicEp3vCQ1QgLs4aUJg=="
 ---

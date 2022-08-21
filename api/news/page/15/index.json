@@ -2,6 +2,135 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-08-05-nextgen-and-aws-launch-second-security-foundations-program.md",
+      "title": "Nextgen and AWS launch second Security Foundations program",
+      "excerpt": "Nextgen Distribution and Amazon Web Services (AWS) are jointly launching the second series of their Security Foundations program, which is part of the AWS Partner Academy. Nextgen developed the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/700496/nextgen-aws-launch-second-security-foundations-program/",
+      "originalUrl": "https://www.arnnet.com.au/article/700496/nextgen-aws-launch-second-security-foundations-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-complianceai-appoints-new-ceo-secures-6m-in-funding.md",
+      "title": "Compliance.AI Appoints New CEO, Secures $6M in Funding",
+      "excerpt": "New announcements mark another benchmark underscoring Compliance.ai's leadership in providing RCM solutions for the financial services sector.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/08/194421-compliance-ai-appoints-new-ceo-secures-6m-in-funding/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/08/194421-compliance-ai-appoints-new-ceo-secures-6m-in-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/09/Global-Regtech-1024x1024.jpg",
+          "width": 1024,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/08/194421-compliance-ai-appoints-new-ceo-secures-6m-in-funding/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/08/194421-compliance-ai-appoints-new-ceo-secures-6m-in-funding/amp/",
+      "publishedDateTime": "2022-08-04T19:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-create-a-tfx-pipeline-using-templates-with-local-orchestrator.md",
+      "title": "Create a TFX pipeline using templates with Local orchestrator",
+      "excerpt": "This document will provide instructions to create a TensorFlow Extended (TFX) pipeline using templates which are provided with TFX Python package. Most of instructions are Linux shell commands, and corresponding Jupyter Notebook code cells which invoke ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/tfx/tutorials/tfx/template_local",
+      "originalUrl": "https://www.tensorflow.org/tfx/tutorials/tfx/template_local",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-extended-tfx-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-meet-russias-new-killer-robot.md",
       "title": "Meet Russia’s New Killer Robot",
       "excerpt": "The robot’s targeting mechanism works automatically ... Moscow is also planning to introduce mind-controlled dual-use exoskeletons within the next five years (see: “Will Russia Field Robo ...",
@@ -1003,135 +1132,6 @@
       "provider": {
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-face-recognition-software-market-expectations-growth-trends-highlighted-until-2027.md",
-      "title": "Face Recognition Software Market Expectations & Growth, Trends Highlighted Until 2027",
-      "excerpt": "The Global Face Recognition Software market 2022-2028 report studies vital factors about the Face Recognition Software that are essential to be understood by existing as well as latest market players.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/face-recognition-software-market-expectations-growth-trends-highlighted-until-2027-2022-08-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/face-recognition-software-market-expectations-growth-trends-highlighted-until-2027-2022-08-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-ai-the-ai-times-deepmind-cracks-biologys-biggest-problem.md",
-      "title": "A|I: The AI Times – DeepMind cracks biology’s biggest problem",
-      "excerpt": "The AI Times is a weekly newsletter covering the biggest AI, machine learning, big data, and automation news from around the globe.",
-      "sourceUrl": null,
-      "webUrl": "https://betakit.com/ai-the-ai-times-deepmind-cracks-biologys-biggest-problem/",
-      "originalUrl": "https://betakit.com/ai-the-ai-times-deepmind-cracks-biologys-biggest-problem/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.betakit.com/wp-content/uploads/2022/08/e8fec5c9-2d30-663a-dffe-865e927538c6.png",
-          "width": 765,
-          "height": 508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BetaKit",
-        "domain": "betakit.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-computer-vision-market-to-grow-at-healthy-cagr-as-the-potential-keep-on-unwinding-skyquest-technology.md",
-      "title": "Computer Vision Market to Grow at Healthy CAGR as the Potential keep on Unwinding | SkyQuest Technology",
-      "excerpt": "Westford, USA, Aug. 04, 2022 (GLOBE NEWSWIRE) -- Computer vision market has seen a rapid increase in popularity recently, with businesses and consumers alike turning to the technology for a number ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/08/g28352684/computer-vision-market-to-grow-at-healthy-cagr-as-the-potential-keep-on-unwinding-skyquest-technol",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/g28352684/computer-vision-market-to-grow-at-healthy-cagr-as-the-potential-keep-on-unwinding-skyquest-technol",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28352684",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28352684",
-      "publishedDateTime": "2022-08-04T01:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

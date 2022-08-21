@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/aug/20/ai-art-artific
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
 type: article
 quality: 57
-heat: 78
-published: true
+heat: 68
+published: false
 
 provider:
   name: The Guardian
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "BrainChip Empowers Next Generation of Technology Innovators with Launch of the University AI Accelerator Program"
-    excerpt: "LAGUNA HILLS, CA / ACCESSWIRE / August 16, 2022 / BrainChip Holdings Ltd (ASX:BRN) (OTCQX:BRCHF) (ADR:BCHPY), the world’s first commercial producer of neuromorphic AI IP, is bringing its neuromorphic technology into higher education institutions via the BrainChip University AI Accelerator Program,"
-    publishedDateTime: 2022-08-16T21:32:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-education-higher-3b8b8dd0be381e8eb2f6fee00f20dca8"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
   - title: "As The Debate Over AI Rages, Artists Are Already Using It To Illustrate Entire Comics"
     excerpt: "BUT… it is not about the pictures being generated, it is about how we as artists or storytellers choose to use/curate/stage those pictures. In June, oil painter and cartoonist Carson Grubaugh created a four-issue physical comic book series titled The Abolition of Man which will be available to purchase in October of this year."
     publishedDateTime: 2022-08-17T20:29:00Z

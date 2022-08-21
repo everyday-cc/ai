@@ -26,33 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "DeepMind feuds with Russian scientists over quantum AI research"
-    excerpt: "Science is all well and fine, but what happens when Big Tech and the world of academia butt heads during the peer-review process?"
-    publishedDateTime: 2022-08-16T19:39:00Z
-    webUrl: "https://thenextweb.com/news/deepmind-feuds-russian-scientists-over-quantum-ai-research"
+  - title: "Google’s DeepMind AI can ‘transframe’ a single image into a video"
+    excerpt: "Earlier this week, the team behind Google’s advanced DeepMind neural network unveiled a new ability dubbed Transframer, which allows AI to generate 30-second videos from a single image input. It’s a nifty little trick at first glance,"
+    publishedDateTime: 2022-08-18T22:00:00Z
+    webUrl: "https://www.popsci.com/technology/one-image-video-deepmind/"
+    ampWebUrl: "https://www.popsci.com/technology/one-image-video-deepmind/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/one-image-video-deepmind/?amp"
     type: article
     provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 86
+      name: Popular Science
+      domain: popsci.com
+    quality: 74
     images:
-      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F08%2Ffightrobots.jpg&signature=e7f71ca542a0269805511bc1ef788a54"
-        width: 1280
-        height: 640
+      - url: "https://www.popsci.com/uploads/2022/08/18/deepmind-ai-video-from-image.jpg?auto=webp"
+        width: 2000
+        height: 1500
         isCached: true
-  - title: "Russian military to develop weapons using artificial intelligence"
-    excerpt: "Russia said created a department for developing AI weapons. The program could serve to counter the Pentagon’s newly formed AI authority."
-    publishedDateTime: 2022-08-18T00:25:00Z
-    webUrl: "https://www.c4isrnet.com/artificial-intelligence/2022/08/17/russia-military-to-develop-weapons-using-artificial-intelligence/"
+  - title: "Google Scientists Create AI That Can Generate Videos From One Frame"
+    excerpt: "Google's DeepMind neural network has demonstrated that it can create short videos from a single image frame with its new AI, Transframer."
+    publishedDateTime: 2022-08-17T15:08:00Z
+    webUrl: "https://futurism.com/the-byte/google-deepmind-video-single-frame"
+    ampWebUrl: "https://futurism.com/google-deepmind-video-single-frame?amp"
+    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-deepmind-video-single-frame?amp"
     type: article
     provider:
-      name: C4ISRNET
-      domain: c4isrnet.com
-    quality: 37
+      name: Futurism
+      domain: futurism.com
+    quality: 61
     images:
-      - url: "https://www.c4isrnet.com/resizer/_rde8-COgWmH1TbZjOSwz89PbVA=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/archetype/42I76S76MFE2RN5JSNIER6RHIU.jpg"
-        width: 1024
-        height: 683
+      - url: "https://wp-assets.futurism.com/2022/08/google-deepmind-video-single-frame-1-600x315.jpg"
+        width: 600
+        height: 315
         isCached: true
 
 secured: "vHAH/j7qt/Y0G7VJsQ+8iLCztNHTA2/SchSPK4+9RDCXmw1u5MIM3fy3QCThfiQQN6a7297OkcjGHygXfLBH1087/WtmsXDzwkdPK7BScJsihTllw5JXBlzmSeFpvQksD5rLaJ+B6LcmkFOfD+ABnoZorO+WrYivuozZ5EUBR0C/IC7TaZwSG0lugW11dRo22Yn+4R2fih9CDybyu724B6wUw6V21mbl8hpAQoO33x1NYXHIlnMQ6e9gQXlMLIMePT+h5lBVKkF95BT+AaREKpaU4MukENAhKyDZZ7h72FNm/8qb0Z2WJy8MtPzlJIHo1PPhIpu4p2OkKuHqLIE3aqydUWJ/LTGkl+3rItxj9dU=;FbrUq2jBQQyj/b4tZ5piMQ=="

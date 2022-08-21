@@ -97,20 +97,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Systems Market Research Report, Future Market Insights, Porter Five forces Analysis, Research & Forecast 2022 to 2028"
-    excerpt: "The global Face Recognition Systems market size is projected to reach multi million by 2028, in comparision to 2021, at unexpected CAGR during 2022-2028 (Ask for Sample Report). T"
-    publishedDateTime: 2022-08-16T23:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-research-report-future-market-insights-porter-five-forces-analysis-research-forecast-2022-to-2028-2022-08-16"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Training Data Market Size 2021, Key Futuristic Trends, SWOT Analysis, Opportunities and Outlook Analysis by 2027 with Top Growth Companies"
     excerpt: "In 2021, “ AI Training Data Market “ Size, Status and Market Insights, Forecast to 2027 |( Number of Pages:107) AI"
     publishedDateTime: 2022-08-17T04:58:00Z
@@ -125,6 +111,24 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Natural Language Processing and Recognition Market – Business Strategies, Industry Share, Size 2022 to 2030 | By -Apple, Google, Microsoft"
+    excerpt: "Aug 18, 2022 (Market Insight Reports) -- New Jersey, United States- The Global Natural Language Processing and Recognition Market Research Report 2022-2030 is a wonderful source of insightful data for company strategists. It provides the aid outline with ..."
+    publishedDateTime: 2022-08-18T05:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-and-recognition-market-business-strategies-industry-share-size-2022-to-2030-by--apple-google-microsoft-2022-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+  - title: "Artificial Intelligence In Healthcare Sector Market Size, Share, Growth Opportunity, Rising Demand and Trends Analysis Forecasts till 2027"
+    excerpt: "The “Artificial Intelligence In Healthcare Sector Market” 2022 Research report will make detailed analysis mainly"
+    publishedDateTime: 2022-08-19T10:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-size-share-growth-opportunity-rising-demand-and-trends-analysis-forecasts-till-2027-2022-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
   - title: "Voice Recognition Software Market Share 2022 Global Trend, Segmentation, Business Growth, Opportunities and Forecast to 2029"
     excerpt: "Get a Sample PDF of Report -  The Global Voice Recognition Software Market Report 2022 covers 118 pages and provides details on vital statistics, data, information, trends and competitive landscapes in this niche sector."
     publishedDateTime: 2022-08-19T06:30:00Z

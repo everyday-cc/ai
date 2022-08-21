@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Datadog Extends Monitoring for Microsoft SQL Server and Microsoft Azure Database Platforms"
-    excerpt: "The expanded support provides visibility into query-level metrics and detailed explain plans so all Microsoft customers can benefit from Database"
-    publishedDateTime: 2022-08-16T20:10:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database-platforms-1031688288"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 74
-    images:
-      - url: "https://mma.prnewswire.com/media/1730117/Datadog_logo.jpg"
-        width: 400
-        height: 210
-        isCached: true
   - title: "Datadog Database Monitoring extends to SQL Server and Azure database platforms"
     excerpt: "Datadog has announced its Database Monitoring service now supports Microsoft SQL Server and Microsoft Azure database platforms. The expanded support enables engineers and database administrators to swiftly identify and resolve database performance issues including slow queries,"
     publishedDateTime: 2022-08-17T09:34:00Z
@@ -47,6 +33,15 @@ related:
         width: 1260
         height: 710
         isCached: true
+  - title: "Why Palantir, Datadog, and C3.ai Plunged Today"
+    excerpt: "Shares of big data software companies Palantir, Datadog (NASDAQ: DDOG), and C3.ai all fell hard today, down 6.8%, 4.5%, and 8.9% as of 1 p.m. ET. There wasn't any c"
+    publishedDateTime: 2022-08-19T18:04:00Z
+    webUrl: "https://www.nasdaq.com/articles/why-palantir-datadog-and-c3.ai-plunged-today"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 47
 
 secured: "GE1FRrv2MjN9klAFaXgLDW9F7NtRpEP+7t2QhocawDwWgz95F6Buvn80EyR1DLCndvw+InpJUM1D7+A3lqsVbJaJtsbkzp+l1iQWPprmf3dBlVK65HY2SENPIlSZNMGubwJrG4O9+r0ODvbRIfRBD69V8WtXPNjOHu9kY+U24/lavByNJe/V5WT6Mee2CSm3FcD0dNxEsL6LTmPW5jJYrmiLzBn4ndVN/xMtU47GNa3VKJrNuJciGAN1lGmvUuH75ocxxK6W6uEgE68X593vm9wh4W0OLhqjtqC67FU4hsBz6LBJMWff71HN6vQDkc2qFqNvCBMiN8hk6SsWrJ2FQ6I/TSciZ85qqpQW/zH1nrysKqHPSHGbcDCbxo2mKDG0i29pd634eNb5ZVAHAq0nICRdE8XaWgKQxd6BKklDlUSYXeXAva0fpERZNxtrLFlgfmQQbnbxCs0cRiej5EM6NL4qMqC5cbjbaFH9Bej+AwiAOiH6fRFvRDubIInpahbfc+bN4Ugm/nJU39iUS7fz3g==;pfsh/gUnmhpYOketQWduhQ=="
 ---

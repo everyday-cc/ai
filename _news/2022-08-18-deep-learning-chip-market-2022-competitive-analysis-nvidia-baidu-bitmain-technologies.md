@@ -40,6 +40,15 @@ related:
         width: 600
         height: 337
         isCached: true
+  - title: "Artificial Intelligence in Agriculture Market Business overview 2022, and Forecast to 2030 | By -IBM, John Deere, Microsoft"
+    excerpt: "The strong development of the Artificial Intelligence in Agriculture market can be ascribed to the elements related which incorporate market drivers, limitations and amazing open doors, market propensities of each and every present and future,"
+    publishedDateTime: 2022-08-19T14:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-business-overview-2022-and-forecast-to-2030-by--ibm-john-deere-microsoft-2022-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
 
 secured: "xVq844fQoyjTm4LLuSO3gNLrn01TKYgWws2Yz+17PVzO/VN8mReWImFPO58qyw6qeI5rXcSICc24M3V/yKJPavsuE6XbX4ziCPDhiqgZQfb38JaPTuBNt5DvF5eXW9OmGaO02SutcSuRieAeC7fkr8szltW/92FpQb42mYHgaqbICZwfDm1Hw0r2+vJetQLePq5t+51QjWANdc4ox+bpUXjMyZr/YrLn0kQMrvk2tOLBoh86DhCbLcD5TNXWY3qwn8jLTEh5ZiuadzC9MhaP2IRmb3v3hz+aZ3/LKHAUjeeU1DDhwgOcx31qc6y5Rke4DOu4JaTGRnhA0p3hsvBK2OIiCyB3eiNx6fVYwQoo1+o=;Y8jESdSBZw1x//psfVoGtQ=="
 ---

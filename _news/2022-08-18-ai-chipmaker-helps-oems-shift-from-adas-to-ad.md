@@ -7,7 +7,7 @@ originalUrl: "https://www.just-auto.com/interview/ai-chipmaker-helps-oems-shift-
 webUrl: "https://www.just-auto.com/interview/ai-chipmaker-helps-oems-shift-from-adas-to-ad/"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 500
     height: 282
     isCached: true
-
-related:
-  - title: "Cloud Hangs Over U.S. Chipmakers On Worries Data Center Growth Could Slow"
-    excerpt: "Cloud and data centers, the chip industry's strongest sector, may be its next problem: Signs are showing growth could slow in what has been a pillar during the COVID era as consumers signed up for cloud-based entertainment and companies retooled their offices."
-    publishedDateTime: 2022-08-16T22:06:00Z
-    webUrl: "https://www.ibtimes.com/cloud-hangs-over-us-chipmakers-worries-data-center-growth-could-slow-3602553"
-    ampWebUrl: "https://www.ibtimes.com/cloud-hangs-over-us-chipmakers-worries-data-center-growth-could-slow-3602553?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/cloud-hangs-over-us-chipmakers-worries-data-center-growth-could-slow-3602553?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 43
-    images:
-      - url: "https://d.ibtimes.com/en/full/3804594/illustration-shows-microsoft-azure-cloud-service-logo.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "lqpgiuXebqaR04h33PqBqyGE7mOJu6oSCCze6ULq8/mAbb/DfIzMzr6uFU+xCCmfp2XTGtR9/otox5qOl0tGmVNe6duJCwg8/Iqs1ayJsd/8OyPQt/EcDrH/0oBN5EZOxkhK37mfQ22ULHC9IKSeCjrpttY0P5mH4AGnKljW38p/U6dUPewtsGmzsLhkCToD5EdpS2KfrgkWmvuw8txp60DP8ZVFFzaGcs2tLtvneqzDLbrNtYUbFPfT02egeI/Fjz/od5/chAHAYTvVfnLg46NVyTqCo/d0I5NQ369qu+AMgJG0YnPwugzpTGZstCPHxFgH5HeLagwtjZytDh9DjhWGRLtsd14yOi4liBFKA+1ppSE6OF6puY/gQY/aaWVfB32C0yXpknIcr/3EZ/W5JXo3clFkhRsgOYyfXk6cuQGQa9rbgw2G+9bfKABTudV4ELxVayHA2OGk43kKLWEe8jUDIs5ZCItLRX111kpgwBm6rcp0hgMGI6dlFji/VB42ighks9bVOepr1Yy3L9vXyg==;SonIwCeIwyK/B2/EJC5vsA=="
 ---
