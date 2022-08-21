@@ -19,12 +19,6 @@ topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=108"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "hxMcGt0mnSkP2HgF4hRaznzN1cYcYL190o7q4dM987bNkTf3iMLyvTG97ExaalQu0ixCUvtnLUpdJKa78FcoTVfxrgih5xDUj5AGJPVGUNlsN2XNTLbvF4axAk0pfuzXHcamMyJN3YPO4Y7gMzU7JeYq1D9rB5bbkcJ3LNYOrgC0XKSAzc3Wfg3n877eNs7gmFvuJMX1WBVBC+MC0VPbXjbn+DDcnXQwwbvQbdrv+mvatcB50iftTXkhM0qIfuYj49KZJEINv6bFt/ymRGWgeAo7d87kpg1u7iYHq9n9FqdYNkgGdkPJpCMYEEFqBfRLJaUBJwRok45xGSBqvsujybO0JZuqN5IpposXoWurv6g=;4PnWwuMsPnoIZ2NK6RE6Ng=="
+secured: "J33aOuCqrkrK1DAV8Y4hwLN6bECD4SG8jLoyVUaI+PAzoK62N0R9iYYJvLKxS5eFPyRtXMFtbjlnsklhgPsgGPP4w1Gn8AXrFnV562hgt1YBtE5OYwZqvZJ//FtwUrtend+mCTkSsFqmVeZYWakJZ9GiMkSg2SQfj4ViR5XTwRSrjQs4JJvaRdT/LVwmQLqu3ayRq0J7WfYFVbI/OenRkyLyqJ5goQVPqgeHyz9Wg5aQDCYhT4lMTeJB8VWpfA97Sl28qQhUGSAwzYpO5KXQ0kaXkFlq4fReOLJ8TX9qqtwQVVNVTXGU6HEBxtrgoN4BasZtaUiCUQWqYnsstm1Z778Fd6MMI8PfbMPIFaRBUk0=;/mSkmS4MK8mybhXvxFgY+w=="
 ---
 
