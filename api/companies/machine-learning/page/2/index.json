@@ -117,6 +117,106 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/axyon.ai.md",
+      "title": "Axyon AI",
+      "excerpt": "Axyon AI leverages the most recent advancements in deep learning to create bespoke business applications for asset management and trading.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/axyon.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/axyon.ai/",
+      "type": "profile",
+      "name": "Axyon AI",
+      "overview": "Axyon AI leverages the most recent advancements in deep learning to create bespoke business applications for asset management and trading.",
+      "website": "https://axyon.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/axyon-ai/",
+        "followers": 807
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/axyon-ai-srl"
+      },
+      "twitter": {
+        "username": "axyonai",
+        "url": "https://twitter.com/axyonai",
+        "followers": 151
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Modena, Italy"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance",
+        "Machine Learning"
+      ],
+      "heat": 42,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1473666926605967360/2IRRyagT_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Axyon AI",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFvW39zAmPs5g/company-logo_200_200/0?e=1594857600&v=beta&t=kI5CD2vgr4BAYNPoC6jfprrH4GfylJbX_cZlL32sVlY",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/cnvrg.io.md",
+      "title": "cnvrg.io",
+      "excerpt": "cnvrg.io is a full-stack data science platform that helps enterprises manage and scale AI. Its collaborative end-to-end solution enables companies to accelerate innovation and build high impact machine learning models. From Fortune 500 companies to startups, cnvrg.io helps data scientists solve complex problems, by building intelligent machines. The platform is used across industries by leading companies in finance, gaming, BI, automotive, manufacturing, e-commerce and more.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cnvrg.io/index.json",
+      "webUrl": "https://everyday.cc/ai/company/cnvrg.io/",
+      "type": "profile",
+      "name": "cnvrg.io",
+      "overview": "cnvrg.io is a full-stack data science platform that helps enterprises manage and scale AI. Its collaborative end-to-end solution enables companies to accelerate innovation and build high impact machine learning models. From Fortune 500 companies to startups, cnvrg.io helps data scientists solve complex problems, by building intelligent machines. The platform is used across industries by leading companies in finance, gaming, BI, automotive, manufacturing, e-commerce and more.",
+      "website": "https://cnvrg.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/cnvrg-io/",
+        "followers": 676
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/cnvrg-io"
+      },
+      "twitter": {
+        "username": "cnvrg_io",
+        "url": "https://twitter.com/cnvrg_io",
+        "followers": 1024
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Jerusalem, Israel"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1544582012824174593/vcy5VfEf_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "cnvrg.io",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/definedcrowd.md",
       "title": "DefinedCrowd",
       "excerpt": "DefinedCrowd Corporation is a company based in Seattle, WA, USA, with R&amp;D centers in Lisbon and Porto, Portugal, and Tokyo, Japan.  We offer efficient data workflows that enable data scientists to collect, synthesize, enrich and structure training data. We do this by combining human-in-the-loop, automatic tools, and machine learning capabilities to accelerate enterprise machine learning and Artificial Intelligence initiatives training and modeling. Our value proposition is 95-98% quality, speed (5-10x faster than competition) and scale (70 languages and dialects covered).  With strong expertise in speech and natural language processing technologies, the company has been serving top AI companies and Fortune 500 companies since day one.",
@@ -158,6 +258,64 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C510BAQFJWfl9KtlUTA/company-logo_200_200/0?e=1594857600&v=beta&t=ctokgOnNLdzzaX66yPSL2x3sQUVh5Wz-B7daU1pk_-Y",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/kabbage.md",
+      "title": "Kabbage",
+      "excerpt": "Kabbage Inc., headquartered in Atlanta, has pioneered the first financial services data and technology platform to provide fully automated funding to small businesses in minutes. Kabbage leverages data generated through business activity such as accounting data, online sales, shipping and dozens of other sources to understand performance and deliver fast, flexible funding in real time. In just a few years, Kabbage has become the number one online provider of working capital to small businesses in the United States and UK.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/kabbage/index.json",
+      "webUrl": "https://everyday.cc/ai/company/kabbage/",
+      "type": "profile",
+      "name": "Kabbage",
+      "overview": "Kabbage Inc., headquartered in Atlanta, has pioneered the first financial services data and technology platform to provide fully automated funding to small businesses in minutes. Kabbage leverages data generated through business activity such as accounting data, online sales, shipping and dozens of other sources to understand performance and deliver fast, flexible funding in real time. In just a few years, Kabbage has become the number one online provider of working capital to small businesses in the United States and UK.",
+      "website": "https://www.kabbage.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/kabbage-inc/",
+        "followers": 31904
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/kabbage"
+      },
+      "twitter": {
+        "username": "KabbageInc",
+        "url": "https://twitter.com/KabbageInc",
+        "followers": 26464
+      },
+      "size": "501-1,000 employees",
+      "yearFounded": 2009,
+      "locations": [
+        "Atlanta, Georgia"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=VnqoE8kOHkI"
+        }
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1146817867553366016/ZcHRRj3D_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Kabbage",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFwZD2IV-LlDQ/company-logo_200_200/0?e=1594857600&v=beta&t=1rPXmhIy30Kk2Wy80mIFDmRpjikbiIpAG9fq0T40LP4",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -211,174 +369,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQEaG6-d7iFmaA/company-logo_200_200/0?e=1594857600&v=beta&t=7IP2KNX7zXrRKHszLb9OM4Swx2khf4ekiOTic0exGPk",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/deep6.ai.md",
-      "title": "Deep 6 AI",
-      "excerpt": "Deep 6 AI disrupts the clinical trial enrollment process by transforming the way researchers identify eligible patients. Using artificial intelligence and natural language processing to mine structured and unstructured patient data, DEEP 6 AI finds more, better-matching patients for trials in minutes, not months.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/deep6.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/deep6.ai/",
-      "type": "profile",
-      "name": "Deep 6 AI",
-      "overview": "Deep 6 AI disrupts the clinical trial enrollment process by transforming the way researchers identify eligible patients. Using artificial intelligence and natural language processing to mine structured and unstructured patient data, DEEP 6 AI finds more, better-matching patients for trials in minutes, not months.",
-      "website": "https://deep6.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/deep-6-ai/",
-        "followers": 2680
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/deep-6-ai"
-      },
-      "twitter": {
-        "username": "deep6ai",
-        "url": "https://twitter.com/deep6ai",
-        "followers": 1358
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Pasadena, CA"
-      ],
-      "funding": {
-        "status": "Seed"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 31,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/816359823901982720/L0dyQMfw_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Deep 6 AI",
-          "isCached": true
-        },
-        {
-          "url": "https://media.licdn.com/dms/image/C4E0BAQF3RN1hr-mZRQ/company-logo_400_400/0?e=1582761600&v=beta&t=7SQXh5-24E09tHxEjlcGNBKHsBv6aKIbmHd6PjPllaU",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        },
-        {
-          "url": "https://media.licdn.com/dms/image/C561BAQH5o_0GEDJTSA/company-background_10000/0?e=1574802000&v=beta&t=JWy2P1mLeF_41Z92MkYArHMXeYacHm0rFTeIATJVU-Q",
-          "width": 1400,
-          "height": 425,
-          "title": "banner",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/sparkcognition.md",
-      "title": "SparkCognition",
-      "excerpt": "SparkCognition builds leading artificial intelligence solutions to advance the most important interests of society. We help customers analyze complex data, empower decision making, and transform human and industrial productivity with award-winning machine learning technology and expert teams focused on defense, IIoT, and finance.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sparkcognition/index.json",
-      "webUrl": "https://everyday.cc/ai/company/sparkcognition/",
-      "type": "profile",
-      "name": "SparkCognition",
-      "overview": "SparkCognition builds leading artificial intelligence solutions to advance the most important interests of society. We help customers analyze complex data, empower decision making, and transform human and industrial productivity with award-winning machine learning technology and expert teams focused on defense, IIoT, and finance.",
-      "website": "https://www.sparkcognition.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/5155679",
-        "followers": 15486
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sparkcognition"
-      },
-      "twitter": {
-        "username": "SparkCognition",
-        "url": "https://twitter.com/SparkCognition",
-        "followers": 4875
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "Austin, TX"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Security",
-        "Machine Learning"
-      ],
-      "heat": 31,
-      "tags": [
-        "Security"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1542851528654045185/k1nfyfNc_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "SparkCognition",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/kabbage.md",
-      "title": "Kabbage",
-      "excerpt": "Kabbage Inc., headquartered in Atlanta, has pioneered the first financial services data and technology platform to provide fully automated funding to small businesses in minutes. Kabbage leverages data generated through business activity such as accounting data, online sales, shipping and dozens of other sources to understand performance and deliver fast, flexible funding in real time. In just a few years, Kabbage has become the number one online provider of working capital to small businesses in the United States and UK.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/kabbage/index.json",
-      "webUrl": "https://everyday.cc/ai/company/kabbage/",
-      "type": "profile",
-      "name": "Kabbage",
-      "overview": "Kabbage Inc., headquartered in Atlanta, has pioneered the first financial services data and technology platform to provide fully automated funding to small businesses in minutes. Kabbage leverages data generated through business activity such as accounting data, online sales, shipping and dozens of other sources to understand performance and deliver fast, flexible funding in real time. In just a few years, Kabbage has become the number one online provider of working capital to small businesses in the United States and UK.",
-      "website": "https://www.kabbage.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/kabbage-inc/",
-        "followers": 31904
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/kabbage"
-      },
-      "twitter": {
-        "username": "KabbageInc",
-        "url": "https://twitter.com/KabbageInc",
-        "followers": 26464
-      },
-      "size": "501-1,000 employees",
-      "yearFounded": 2009,
-      "locations": [
-        "Atlanta, Georgia"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=VnqoE8kOHkI"
-        }
-      ],
-      "heat": 0,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1146817867553366016/ZcHRRj3D_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Kabbage",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFwZD2IV-LlDQ/company-logo_200_200/0?e=1594857600&v=beta&t=1rPXmhIy30Kk2Wy80mIFDmRpjikbiIpAG9fq0T40LP4",
           "width": 400,
           "height": 400,
           "title": "logo",
