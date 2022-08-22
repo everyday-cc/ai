@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-08-09-a-lesson-from-google-can-ai-bias-be-monitored-internally.md",
+      "title": "A Lesson from Google: Can AI Bias be Monitored Internally?",
+      "excerpt": "Dr. Timnit Gebru was the co-lead of Google’s Ethical AI research team—until she raised concerns about bias in the company’s large language models and was forced out in 2020. Her departure sent shockwaves through the AI and tech community and raised ...",
+      "sourceUrl": null,
+      "webUrl": "https://hbswk.hbs.edu/item/cold-call-a-lesson-from-google-can-ai-bias-be-monitored-internally",
+      "originalUrl": "https://hbswk.hbs.edu/item/cold-call-a-lesson-from-google-can-ai-bias-be-monitored-internally",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3vgmmrg377kge.cloudfront.net/Style%20Library/api/resize.aspx?imgpath=https://hbswk.hbs.edu/PublishingImages/220809-cc-timnit-640.jpg&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T07:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business School",
+        "domain": "hbs.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-u-of-a-integrating-artificial-intelligence-into-exoskeleton-technology.md",
       "title": "U of A integrating artificial intelligence into exoskeleton technology",
       "excerpt": "A group of University of Alberta researchers are trying to redefine medical assistance for those with mobility issues by combing artificial intelligence with exoskeleton technology.",
@@ -1125,49 +1168,6 @@
       "provider": {
         "name": "ニッケイ・エイジア",
         "domain": "nikkei.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-baidu-approved-for-chinas-first-driverless-taxis.md",
-      "title": "Baidu approved for China’s first driverless taxis",
-      "excerpt": "Baidu Inc (百度) has won approval to deploy the first fully autonomous self-driving taxis on China’s roads, giving it an edge over rivals such as Pony.ai Inc (小馬智行) and XPeng Inc (小鵬汽車). The tech giant has secured permits to operate ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.taipeitimes.com/News/biz/archives/2022/08/09/2003783198",
-      "originalUrl": "https://www.taipeitimes.com/News/biz/archives/2022/08/09/2003783198",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.taipeitimes.com/images/2022/08/09/P11-220809-308.jpg",
-          "width": 787,
-          "height": 525,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Taipei Times",
-        "domain": "taipeitimes.com",
         "images": null,
         "publishers": null,
         "authors": null

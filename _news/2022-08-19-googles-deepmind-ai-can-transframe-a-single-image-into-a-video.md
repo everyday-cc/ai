@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/technology/one-image-video-deepmind/?amp"
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/one-image-video-deepmind/?amp"
 type: article
 quality: 74
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google Scientists Create AI That Can Generate Videos From One Frame"
-    excerpt: "Google's DeepMind neural network has demonstrated that it can create short videos from a single image frame with its new AI, Transframer."
-    publishedDateTime: 2022-08-17T15:08:00Z
-    webUrl: "https://futurism.com/the-byte/google-deepmind-video-single-frame"
-    ampWebUrl: "https://futurism.com/google-deepmind-video-single-frame?amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-deepmind-video-single-frame?amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 61
-    images:
-      - url: "https://wp-assets.futurism.com/2022/08/google-deepmind-video-single-frame-1-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
   - title: "Google’s Deepmind AI can create ‘3D’ videos based on a single image"
     excerpt: "Google’s Deepmind neural network is now able to create 30-second videos from a single image. Transframer, as the new tool is called, only needs one photo to work with as it starts identifying what is in the picture’s frame."
     publishedDateTime: 2022-08-19T09:50:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://finance.dailyherald.com/dailyherald/article/webwire-2022-8
 webUrl: "https://finance.dailyherald.com/dailyherald/article/webwire-2022-8-19-jason-simon-explains-the-benefits-artificial-intelligence-offers-the-fintech-space"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -17,45 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "When AI Meets Fintech : Discover More About the Match Made in Heaven!"
-    excerpt: "Unsurprisingly, the entire credit goes to the fintech industry, and the market is booming. Indeed, the pandemic posed a challenge in front of businesses, which fortunately led to a better understanding of technologies and adoption of the same."
-    publishedDateTime: 2022-08-17T15:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/when-ai-meets-fintech-discover-more-about-the-match-made-in-heaven-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Top 12 Global Fintech Investors in Q2 2022"
-    excerpt: "Using data from CB Insights and Pitchbook, we’ve compiled a list of the top 12 most active fintech investors of Q2 2022, looking at the number of deals they participated in during the quarter and their most notable fintech investments."
-    publishedDateTime: 2022-08-22T05:57:00Z
-    webUrl: "https://fintechnews.ch/funding/top-12-global-fintech-investors-in-q2-2022/54513/"
-    type: article
-    provider:
-      name: fintechnews.ch
-      domain: fintechnews.ch
-    quality: 24
-    images:
-      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/08/Top-12-Global-Fintech-Investors-in-Q2-2022-.png?x30842"
-        width: 1024
-        height: 567
-        isCached: true
-  - title: "New Venture Fund Provides Investors Exposure to the Disrupting Fintech Sector"
-    excerpt: "FinTech Fund II has raised $1.9 million to date and has deployed initial capital into four investments: a diversified blockchain fund that seeks out venture equity along with early stage and established token investments,"
-    publishedDateTime: 2022-08-17T16:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-new-venture-fund-provides-investors-exposure-the-disrupting-/2022/08/17/9657793.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
 
 secured: "D+HkHhedBDBfh70j5a++HxQ8V8Z1uMJ9gw5oCdAiGqX8YNNCTv5KuZzxZqN4a6i7zqf7z0a2EXO8PVbM6MG99N6t8aSq1BLRZkRugQC758jrTCk4JCvQUeJ6rDKPQ+4hM8Cd3Pw1PvbQIVjDpQ8H3HsNVsVUl2wQj+YVtaL5u7x3v5jQDBBfAGCzUKXV+G9g3Gyr1i/IwLjEVU1SdF5T5ZwRl7k0jqcLqi4IloccPJFYi/lfcdKYys+ZbtU18RVaKJmNrI978z68ipiPvMXfu2y7x3W7Cv/PurgQB1sng+19Ny48ggVHBQhQe2OpO1mxfzTz3/VT1ww5TXmgFA1lMxdt0N94R0PxXK2pohC5Lmo=;nuS8VycC3HRtyMIbBppDZQ=="
 ---

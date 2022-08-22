@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "People are now testing Tesla's 'full self-driving' on real kids"
+    excerpt: "The North Carolina resident set out to refute a widely circulated video of a Tesla with the company's \"full self-driving\" beta software -- which allows the car to steer, brake and accelerate, but requires an attentive human driver ready to take the wheel ..."
+    publishedDateTime: 2022-08-21T12:33:00Z
+    webUrl: "https://www.cnn.com/2022/08/21/business/tesla-fsd-tests-kids/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/08/21/business/tesla-fsd-tests-kids/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/21/business/tesla-fsd-tests-kids/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 89
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220819141817-tesla-autopilot-steering-wheel-file-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Podcast: Tesla Full Self-Driving Beta test, VPP event, Tesla Semi, and more"
     excerpt: "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. This week, we discussed our Tesla Full Self-Driving Beta test, Tesla’s first VPP event,"
     publishedDateTime: 2022-08-19T19:33:00Z
@@ -118,6 +134,22 @@ related:
     quality: 56
     images:
       - url: "https://images.hindustantimes.com/auto/img/2022/08/22/1600x900/AFP_9L8894_1629439212600_1661145332809_1661145332809.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Elon Musk hikes Tesla's self-driving system price as US probes its safety woes"
+    excerpt: "The second hike in the full-self driving system price in a year comes at a time when Tesla has come under scrutiny from the US auto-safety regulators over its in-camera systems as part of an investigation whether the company's automated-driving technology is defective."
+    publishedDateTime: 2022-08-22T08:34:00Z
+    webUrl: "https://www.hindustantimes.com/car-bike/elon-musk-hikes-tesla-s-self-driving-system-price-as-us-probes-its-safety-woes-101661156335543.html"
+    ampWebUrl: "https://www.hindustantimes.com/car-bike/elon-musk-hikes-tesla-s-self-driving-system-price-as-us-probes-its-safety-woes-101661156335543-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/elon-musk-hikes-tesla-s-self-driving-system-price-as-us-probes-its-safety-woes-101661156335543-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 55
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/08/22/1600x900/Elon_Musk_1661156439232_1661156439483_1661156439483.JPG"
         width: 1600
         height: 900
         isCached: true

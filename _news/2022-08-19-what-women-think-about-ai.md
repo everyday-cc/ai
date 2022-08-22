@@ -7,7 +7,7 @@ originalUrl: "https://www.livemint.com/mint-top-newsletter/techtalk19082022.html
 webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk19082022.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "What 8 Analyst Ratings Have To Say About C3.ai"
-    excerpt: "Analysts have provided the following ratings for C3.ai (NYSE:AI) within the last quarter: In the last 3 months, 8 analysts have offered 12-month price targets for C3.ai. The company has an average price target of $18."
-    publishedDateTime: 2022-08-17T16:47:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/what-8-analyst-ratings-have-to-say-about-c3-ai-1031690797"
+  - title: "What Do Teachers Think About an AI Model That Writes Essays? We Had Them Test It"
+    excerpt: "Three teachers tested out a new technology that generates essays, poems, sales pitches, and other writings on command."
+    publishedDateTime: 2022-08-19T18:54:00Z
+    webUrl: "https://www.edweek.org/technology/what-do-teachers-think-about-an-ai-model-that-writes-essays-we-had-them-test-it/2022/08"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
+      name: Education Week
+      domain: edweek.org
+    quality: 32
     images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_25245.jpeg"
-        width: 1024
-        height: 768
+      - url: "https://epe.brightspotcdn.com/dims4/default/4d87a5c/2147483647/strip/true/crop/7168x4793+0+0/resize/942x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.amazonaws.com%2Fcb%2Fcd%2Ff8213ccb4203abdae3aad13a1eef%2Fai-gpt-teacher-08162022-966654886-949652688.jpg"
+        width: 942
+        height: 630
         isCached: true
 
 secured: "07NzN+U5gTqihfyYLRRuzwgNjPKEawCoV5hkQXOdYemGT5mQ7/aEQ7O3HiaDFcuMTmPjoubJ0yRpJMwHgYxm4DOD/ckQgZIvty7+KJeEfBZ+9eEiqeX5zV4jk2yE6UH8mFHX7mVH9r8R/89Bb698JOmHOYOW5bHhteis/IyAxJLp3XrcXKe0WUnZkr4Yvcj1I68EmwpjNxasOoCxUZeLLxqLx+2OU6T/8iXEjtYYirgz7ZsOndmnfq8k3/XlC1xG3YbUanrIT+/dslTVn9Y7Ut65l2EHeN7BEu6feKFhkWlb3gn12Tdd+vQhqqTBGU1Qq36rEOTGNOPK94WqhJo4EsWiJoeQdsX9QbF3a2M+/YFSdvZmpA5R7TqKlBlPBxFj5qQeQU8uJgkSfVuNlJ9A0/p/4fwD+v8UQytgcVFoa5zRa5vp0D0iSE1sg+09RfFwO2REoeX/P50T+iw97yfFhRSffbJItl6qnX22xNGFyy9KmlT3wXH66j315A4zY1vDznyheB4ws3bjarSQrPe+jA==;TZlnXCM0jvORRrVMYXGqIA=="

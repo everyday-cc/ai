@@ -43,6 +43,20 @@ related:
         width: 1280
         height: 960
         isCached: true
+  - title: "Top 12 Global Fintech Investors in Q2 2022"
+    excerpt: "Using data from CB Insights and Pitchbook, we’ve compiled a list of the top 12 most active fintech investors of Q2 2022, looking at the number of deals they participated in during the quarter and their most notable fintech investments."
+    publishedDateTime: 2022-08-22T05:57:00Z
+    webUrl: "https://fintechnews.ch/funding/top-12-global-fintech-investors-in-q2-2022/54513/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/08/Top-12-Global-Fintech-Investors-in-Q2-2022-.png?x30842"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "Global Alternative Investment Management Launches FinTech Fund II"
     excerpt: "Appleton, Wis.-based private fund management company Global Alternative Investment Management has launched FinTech Fund II, which is available to Qualified Purchasers"
     publishedDateTime: 2022-08-18T10:10:00Z

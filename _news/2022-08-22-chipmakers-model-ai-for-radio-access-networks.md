@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-22T07:01:00Z
 originalUrl: "https://semiengineering.com/chipmakers-model-ai-for-radio-access-networks/"
 webUrl: "https://semiengineering.com/chipmakers-model-ai-for-radio-access-networks/"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://semiengineering.com/wp-content/uploads/3GPP.png?fit=1804%2C894&ssl=1"

@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4535995-c3ai-net-cash-sales-artif
 webUrl: "https://seekingalpha.com/article/4535995-c3ai-net-cash-sales-artificial-intelligence-growth-story"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Expert Ratings for C3.ai"
-    excerpt: "According to 8 analyst offering 12-month price targets in the last 3 months, C3.ai has an average price target of $18.56 with a high of $28.00 and a low of $14.00. Below is a summary of how these 8 analysts rated C3."
-    publishedDateTime: 2022-08-17T16:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/expert-ratings-for-c3-ai-1031690421"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 67
-    images:
-      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_25159.jpeg"
-        width: 1024
-        height: 768
-        isCached: true
   - title: "Where C3.ai Stands With Analysts"
     excerpt: "Over the past 3 months, 8 analysts have published their opinion on C3.ai (NYSE:AI) stock. These analysts are typically employed by large Wall Street banks and tasked with understanding a company's business to predict how a stock will trade over the upcoming year."
     publishedDateTime: 2022-08-17T18:27:00Z

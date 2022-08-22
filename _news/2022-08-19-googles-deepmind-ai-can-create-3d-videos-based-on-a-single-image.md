@@ -42,22 +42,6 @@ related:
         width: 2000
         height: 1500
         isCached: true
-  - title: "Google Scientists Create AI That Can Generate Videos From One Frame"
-    excerpt: "Google's DeepMind neural network has demonstrated that it can create short videos from a single image frame with its new AI, Transframer."
-    publishedDateTime: 2022-08-17T15:08:00Z
-    webUrl: "https://futurism.com/the-byte/google-deepmind-video-single-frame"
-    ampWebUrl: "https://futurism.com/google-deepmind-video-single-frame?amp"
-    cdnAmpWebUrl: "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/google-deepmind-video-single-frame?amp"
-    type: article
-    provider:
-      name: Futurism
-      domain: futurism.com
-    quality: 61
-    images:
-      - url: "https://wp-assets.futurism.com/2022/08/google-deepmind-video-single-frame-1-600x315.jpg"
-        width: 600
-        height: 315
-        isCached: true
 
 secured: "vHAH/j7qt/Y0G7VJsQ+8iLCztNHTA2/SchSPK4+9RDCXmw1u5MIM3fy3QCThfiQQN6a7297OkcjGHygXfLBH1087/WtmsXDzwkdPK7BScJsihTllw5JXBlzmSeFpvQksD5rLaJ+B6LcmkFOfD+ABnoZorO+WrYivuozZ5EUBR0C/IC7TaZwSG0lugW11dRo22Yn+4R2fih9CDybyu724B6wUw6V21mbl8hpAQoO33x1NYXHIlnMQ6e9gQXlMLIMePT+h5lBVKkF95BT+AaREKpaU4MukENAhKyDZZ7h72FNm/8qb0Z2WJy8MtPzlJIHo1PPhIpu4p2OkKuHqLIE3aqydUWJ/LTGkl+3rItxj9dU=;FbrUq2jBQQyj/b4tZ5piMQ=="
 ---

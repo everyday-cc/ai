@@ -1,23 +1,29 @@
 ---
 category: news
 title: "CSA Research Ranks Pangeanic 24th on Its List of Fastest-Growing Companies in the Industry"
-excerpt: "The language technology and translation services company Pangeanic is once again among the top LSPs with the strongest growth worldwide. Pangeanic is a natural language processing company specializing in anonymization software,"
-publishedDateTime: 2022-08-19T07:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-19-csa-research-ranks-pangeanic-24th-on-its-list-of-fastest-growing-companies-in-the-industry"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-19-csa-research-ranks-pangeanic-24th-on-its-list-of-fastest-growing-companies-in-the-industry"
+excerpt: "Pangeanic continues to grow, as proven by its 2019-2021 results Pangeanic has been working on researching and developing technologies to improve the quality and efficiency of translation services, among others."
+publishedDateTime: 2022-08-19T07:02:00Z
+originalUrl: "https://apnews.com/press-release/globe-newswire/technology-7b1fe978b0354345e419cb59fdc051d9"
+webUrl: "https://apnews.com/press-release/globe-newswire/technology-7b1fe978b0354345e419cb59fdc051d9"
 type: article
-quality: 0
-heat: 0
+quality: 14
+heat: 14
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "r5RcwMchVLRieznGFjJry0sVQBoGK5ndh61p8YdWWyJyiilfkyPbW4AeO/HTJb8c0Y95tOxJgYRqHUsmrdcN30N+C7WNVmBUZ3Q8c8VwNyQZNpVlvUbddnWLo2K4g/NlIBtrDMYgeLg5ELkvBioq4SDLrhEnyOysCDw920gkzMeR9rLSoHaDRQJp5fzWMCQT4I47Yi+p4sgLSVpxHIA9go6iwnGVMr8T1Uc+pEO5/MnqexMcaS/ylkcCJtUJk42bnRIrhS1qhUG0LvRil2NZNbVY9cFN9/7rJod9de3Gj7fciC1PlUhHPwrZnbBd+GJKX14KtX6e5EmqFVgor+04LOxkc9R6uH4fioZ6det8nQc=;5Ml1GnJoe8SdBbJaXIBMMw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "ExZBWlnymAyw65RFEikNaIJc14+HbGUMIOf1XWJHF3c11tG9bz1lmfKORwo8mbujElQw1Bxt7LllPY1tsfQgteUuxhZYU8bCssSmGCkQUtg1BM7/tIOh+kOfqS7a+QqGC9PJjbb2l3Xqi6/AbFGALsQ31vqy78DC3EroBGL8ouqezGMeIk5n3yMRrFHfV9p8PfQIW6gWbmO9QXR+IjMLVO7iCEPLm9S3m4TwT69jidLhdOZ4yV7CN/o/I2zwNqDPuK7MabY1YBv6Rii/dCYdgfDmpVYkcStbR+mLVq0zXxs3BnJhqIWNc1Fw+VnP6DPX6keURVWAwcriKik+6hFKjDCqkNPMNNgL366dqfUsCpc=;5uMk2kPQvZk/a/72fjNs1Q=="
 ---
 

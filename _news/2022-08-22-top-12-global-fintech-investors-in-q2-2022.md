@@ -25,38 +25,47 @@ images:
     isCached: true
 
 related:
-  - title: "When AI Meets Fintech : Discover More About the Match Made in Heaven!"
-    excerpt: "Unsurprisingly, the entire credit goes to the fintech industry, and the market is booming. Indeed, the pandemic posed a challenge in front of businesses, which fortunately led to a better understanding of technologies and adoption of the same."
-    publishedDateTime: 2022-08-17T15:48:00Z
-    webUrl: "https://www.marketwatch.com/press-release/when-ai-meets-fintech-discover-more-about-the-match-made-in-heaven-2022-08-17"
+  - title: "Israeli Fintech Vyzer Selects Salt Edge to Provide Open Banking Boost to Investment"
+    excerpt: "Vyzer, an Israeli-based fintech consumer focused startup, joined forces with Salt Edge, a key player in offering open banking solutions."
+    publishedDateTime: 2022-08-22T05:07:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/amp/"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 53
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/03/Israel-Tel-Aviv-2019.jpg"
+        width: 1280
+        height: 960
         isCached: true
-  - title: "Jason Simon explains the benefits artificial intelligence offers the FinTech space"
-    excerpt: "FinTech presents an important variety of technologies such as financial services through software, such as online banking, mobile payment applications, mobile wallets, blockchain and even cryptocurrencies."
-    publishedDateTime: 2022-08-19T15:51:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/webwire-2022-8-19-jason-simon-explains-the-benefits-artificial-intelligence-offers-the-fintech-space"
+  - title: "Cloud-banking fintech Ohpen partners with ezbob to offer complete suite of lending products to UK market"
+    excerpt: "Ohpen, the first fintech platform to bring a bank to the cloud, today announces its partnership with ezbob, a UK-based software provider for banks and financial institutions."
+    publishedDateTime: 2022-08-18T08:29:00Z
+    webUrl: "https://bmmagazine.co.uk/in-business/cloud-banking-fintech-ohpen-partners-with-ezbob-to-offer-complete-suite-of-lending-products-to-uk-market/"
+    ampWebUrl: "https://bmmagazine.co.uk/in-business/cloud-banking-fintech-ohpen-partners-with-ezbob-to-offer-complete-suite-of-lending-products-to-uk-market/?amp"
+    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/in-business/cloud-banking-fintech-ohpen-partners-with-ezbob-to-offer-complete-suite-of-lending-products-to-uk-market/?amp"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 28
-  - title: "New Venture Fund Provides Investors Exposure to the Disrupting Fintech Sector"
-    excerpt: "FinTech Fund II has raised $1.9 million to date and has deployed initial capital into four investments: a diversified blockchain fund that seeks out venture equity along with early stage and established token investments,"
-    publishedDateTime: 2022-08-17T16:06:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-new-venture-fund-provides-investors-exposure-the-disrupting-/2022/08/17/9657793.htm"
+      name: Business Matters
+      domain: bmmagazine.co.uk
+    quality: 42
+    images:
+      - url: "https://bmmagazine.co.uk/wp-content/uploads/2022/08/Screenshot-2022-08-18-at-09.27.26-1024x549.png"
+        width: 1024
+        height: 549
+        isCached: true
+  - title: "Global Alternative Investment Management Launches FinTech Fund II"
+    excerpt: "Appleton, Wis.-based private fund management company Global Alternative Investment Management has launched FinTech Fund II, which is available to Qualified Purchasers"
+    publishedDateTime: 2022-08-18T10:10:00Z
+    webUrl: "https://www.finsmes.com/2022/08/global-alternative-investment-management-launches-fintech-fund-ii.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 1
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 4
 
 secured: "e2mR1NEI1/AuVTAEQQ/J1MA2Spd5C2IVzryP7WRiCC2cUqJy1/bge0Zody3VyXc6LLqU2C4GJ7QRzS8pcJuNrHeuBR+Q4Bs26H4wtu/oE5N6FwAPA6YT1Fw2lam3te7iBgPFmGU3aIJGlVTz7GL5cuTlJdd+vCdSH36ZshkatmU6nf+dshtWnLTDo7XckE5dm4nLuIy0huJHflHvTjFZy9M+LQ8xrNTUpR9J2um8RDRkkKAdb0G3y1g5UiehLtL3aUoX1MrsI5rSLc+C++4MfUm47rW8EQtm+yzPzkv7zSLp+TeBU7K9dKWbkN88ktt3LdXJiruhSn8gcIWoFFBj2e3RlSFwnElHGdYc3OlKR0Y=;qg1qB+mEzEJurBDYaPUeDQ=="
 ---

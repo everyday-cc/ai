@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/why-ai-regulation-will-resemble-privacy-r
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-ai-regulation-will-resemble-privacy-regulation/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 659
     isCached: true
-
-related:
-  - title: "AI Platform Aims to Help Shipping Industry Tackle Emissions Regulations"
-    excerpt: "New maritime regulations are set to go into effect that require ship owners to report shipping emissions intensity, and an artificial intelligence-based application from Bearing is set to produce information for businesses to help them make emissions improvements."
-    publishedDateTime: 2022-08-17T16:38:00Z
-    webUrl: "https://www.environmentalleader.com/2022/08/ai-platform-aims-to-help-shipping-industry-tackle-emissions-regulations/"
-    type: article
-    provider:
-      name: Environmental Leader
-      domain: environmentalleader.com
-    quality: 37
-    images:
-      - url: "https://s30148.pcdn.co/wp-content/uploads/2022/08/container-ship-g005ca98e7_1920-1024x614.jpg"
-        width: 1024
-        height: 614
-        isCached: true
 
 secured: "Jpjtw6iR6jcwKH8h5vSYXkoyjxmZaBIMU8YjrOopekmBTbW7B/Wn5tSjl3AwjfmYSDAPqeXI3bgMJT5bNQWZ0nNTYyUo2mw85FtjIJJ029HaR5bg5CJ9KrNFZlg+hX1TFYVPH2A2q4ZojIymPjXIc6WX15uNt6bDISIj14khywmGreKLpKtiC7OubgxpHPGYkfHpMayzWKzd+gaufKl3WD1pfTc2e1jTsFbKkQv4Y6NekxJ1BcWILSX7Q22Q9+epsjcam3PaR7kVripISj7mYK1I+toGzUdQvORELA3Yg4tZCA+xyi1J3uf496l8nuZyhdgkdNbUaPfkCDdZBzPuqGT5R00MBsemgYOgSTcpeNZtRpKHOb7E+qAKUHPQ87ORCycfJ4PrYgYcWgnp80O4Bosaqqs65GgRwtywTV8qP4Vy6tnnOwhjbqY3uyMI8OYmVQ5Tj3pd/Twros9YYz+F5RIjhYVlnyB18NSsgu2pcnI5wd5GPnb9gbMHQFT3l0JHk2zFZdSkX0Yw3K9XcSV34Q==;J19aBPj2zHcjmF1aRk48zg=="
 ---
