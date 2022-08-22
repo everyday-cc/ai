@@ -41,15 +41,6 @@ related:
         width: 1426
         height: 808
         isCached: true
-  - title: "Boosted.ai Launches Hedge Baskets for Boosted Insights"
-    excerpt: "With the addition of Hedge Baskets, Boosted Insights now lets portfolio managers bring hedging capabilities in-house. Investors can easily generate short baskets that are: Intelligent, using machine learning to find single stock hedges that offset idiosyncratic risks unique to a portfolio Transparent,"
-    publishedDateTime: 2022-08-17T12:30:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-17-boostedai-launches-hedge-baskets-for-boosted-insights"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 17
 
 secured: "xs57hkWyC/Ha5v1sAmGtw6wWF1FIGc9Zv336PI+eKCobLN/WVsuxI2dJpqRlgpabxheS1fF04/B/CBLTul2Z/5I+ifSCzo8sXzYCfoL++DOIchy3ZUv6dX5neqSBS43c0A2dew1u7uLxUqp5bFzXtJJcqxWnp9JPeVCOV9eMv85JxylGGNe9tS4sD3QAdTm74PHGI5PosQCR/rqOSC1ek7w9T+IELvoxTFeWTxYHn189zeXukyj3WFKAr2CipDy7JE97d1U/k0iAA6sTlV9mOYnSmHU9WdhfDHqoC4ciQjozF4XWOEdcsPRnIlwooRTZ1OrcUdiu0BA+6Itt0Ax2cMuKqgsMWDvDg3LPMEuFtUo=;ic8KMFcu7NYM5tOfNJRpqQ=="
 ---

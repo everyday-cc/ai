@@ -24,15 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "NIST to Release New Playbook for AI Best Practices"
-    excerpt: "Researchers will stress a socio-technical approach—which examines the human impact on technology—to mitigate biases in artificial intelligence systems."
-    publishedDateTime: 2022-08-17T13:00:00Z
-    webUrl: "https://www.nextgov.com/emerging-tech/2022/08/nist-release-new-playbook-ai-best-practices/375920/"
-    type: article
-    provider:
-      name: Nextgov
-      domain: nextgov.com
-    quality: 17
   - title: "NIST releases expanded AI Risk Management Framework draft"
     excerpt: "The second draft, which contains more details on developing trustworthy and responsible AI systems, will be finalized in January 2023."
     publishedDateTime: 2022-08-19T19:31:00Z

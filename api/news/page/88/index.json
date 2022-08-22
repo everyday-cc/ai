@@ -2,6 +2,170 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2022-06-10-give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but-is-it-art.md",
+      "title": "Give this AI a few words of description and it produces a stunning image – but is it art?",
+      "excerpt": "(THE CONVERSATION) A picture may be worth a thousand words, but thanks to an artificial intelligence program called DALL-E 2, you can have a professional-looking image with far fewer. DALL-E 2 is ...",
+      "sourceUrl": null,
+      "webUrl": "https://napavalleyregister.com/lifestyles/technology/give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but/article_398d9fd2-3b6c-5100-9c71-a945663a00f7.html",
+      "originalUrl": "https://napavalleyregister.com/lifestyles/technology/give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but/article_398d9fd2-3b6c-5100-9c71-a945663a00f7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/custom/image/f675bdee-c549-11ea-98b6-631770e8cea7.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-10T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Napa Valley Register",
+        "domain": "napavalleyregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-hyundai-pilots-driverless-car-hailing-service-in-south-korea.md",
+      "title": "Hyundai pilots driverless car-hailing service in South Korea",
+      "excerpt": "The ride-hailing service will use the auto maker’s IONIQ 5 battery electric vehicles, launched last year, and will be equipped with its in-house developed level 4 autonomous driving technology.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/hyundai-pilots-driverless-car-hailing-service-in-south-korea/article65514993.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/hyundai-pilots-driverless-car-hailing-service-in-south-korea/article65514993.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/incoming/oex5ik/article65514944.ece/alternates/LANDSCAPE_615/Photo.4.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/hyundai-pilots-driverless-car-hailing-service-in-south-korea/article65514993.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/hyundai-pilots-driverless-car-hailing-service-in-south-korea/article65514993.ece/amp/",
+      "publishedDateTime": "2022-06-10T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-global-healthcare-artificial-intelligence-market.md",
+      "title": "Global Healthcare Artificial Intelligence Market...",
+      "excerpt": "Dublin, June 10, 2022 (GLOBE NEWSWIRE) -- The \"Global Healthcare Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This report examines the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27643706/global-healthcare-artificial-intelligence-market-analysis-report-2022-with-use-cases-from-clara-ma",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27643706/global-healthcare-artificial-intelligence-market-analysis-report-2022-with-use-cases-from-clara-ma",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27643706",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27643706",
+      "publishedDateTime": "2022-06-10T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-machine-learning-bella-italia-trials-use-of-robot-waiters.md",
+      "title": "Machine learning: Bella Italia trials use of robot waiters",
+      "excerpt": "The group behind restaurant brands Las Iguanas, Bella Italia and Café Rouge is trialling the use of robots at one of its venues.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bighospitality.co.uk/Article/2022/06/10/machine-learning-bella-italia-trials-use-of-robot-waiters",
+      "originalUrl": "https://www.bighospitality.co.uk/Article/2022/06/10/machine-learning-bella-italia-trials-use-of-robot-waiters",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bighospitality.co.uk/var/wrbm_gb_hospitality/storage/images/publications/hospitality/bighospitality.co.uk/sector/casual-dining/machine-learning-bella-italia-trials-use-of-robot-waiters/5745485-1-eng-GB/Machine-learning-Bella-Italia-trials-use-of-robot-waiters.jpg",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-10T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big Hospitality",
+        "domain": "bighospitality.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-why-is-baidu-stock-rallying.md",
       "title": "Why Is Baidu Stock Rallying?",
       "excerpt": "So what’s driving the recent gains and will the momentum hold up for Baidu BIDU? There are a couple of factors driving the recent gains. Firstly, Baidu posted a better than expected set of Q1 ...",
@@ -913,168 +1077,6 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
-      "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
-      "excerpt": "The Global Artificial Intelligence in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and vulnerabilities for the Artificial Intelligence in Insurance Industry to make stakeholders aware with current and future scenarios.",
-      "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-2",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-driverless-hyundai-ioniq-5-hits-streets-of-seoul.md",
-      "title": "Driverless Hyundai Ioniq 5 hits streets of Seoul",
-      "excerpt": "The manufacturing giant converted two electric Hyundai Ioniq 5 cars to work as RoboRide taxis, adding new sensors and software to the machines with the help of artificial intelligence specialist ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.weeklytimesnow.com.au/machine/motoring/motoring-news/driverless-hyundai-ioniq-5-hits-streets-of-seoul/news-story/57c469b007f98686db20f340ebd65e14",
-      "originalUrl": "https://www.weeklytimesnow.com.au/machine/motoring/motoring-news/driverless-hyundai-ioniq-5-hits-streets-of-seoul/news-story/57c469b007f98686db20f340ebd65e14",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T15:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Weekly Times",
-        "domain": "weeklytimesnow.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-2022-imagine-cup-junior-ai-for-good-winners-top-outstanding-creativity.md",
-      "title": "2022 Imagine Cup Junior AI For Good Winners - Top Outstanding Creativity",
-      "excerpt": "Outstanding inspiring creativity from the top 10 global winners in the annual Imagine Cup Junior AI for Good Challenge. The announcement June 9, 2022 is the culmination of thousands of students, aged 13-18,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/stephenibaraki/2022/06/09/2022-imagine-cup-junior-ai-for-good-winnerstop-outstanding-creativity/",
-      "originalUrl": "https://www.forbes.com/sites/stephenibaraki/2022/06/09/2022-imagine-cup-junior-ai-for-good-winnerstop-outstanding-creativity/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a26c35375cdb5c75876078/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 928,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/stephenibaraki/2022/06/09/2022-imagine-cup-junior-ai-for-good-winnerstop-outstanding-creativity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephenibaraki/2022/06/09/2022-imagine-cup-junior-ai-for-good-winnerstop-outstanding-creativity/amp/",
-      "publishedDateTime": "2022-06-09T15:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government.md",
-      "title": "Task force to assess use of facial recognition by Colorado law enforcement, government",
-      "excerpt": "A bill signed into law Wednesday will establish a task force to look into the use of facial recognition technology by law enforcement and government agencies in Colorado.",
-      "sourceUrl": null,
-      "webUrl": "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html",
-      "originalUrl": "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/coloradopolitics.com/content/tncms/assets/v3/editorial/5/28/528cece6-8f43-11ec-82d8-9f3a7ed6fa74/620d2325a4674.image.png?crop=1280%2C672%2C0%2C197&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T14:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Colorado Statesman",
-        "domain": "coloradopolitics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

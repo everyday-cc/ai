@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2022/08/robotics-and-automation-are-the-fu
 webUrl: "https://medcitynews.com/2022/08/robotics-and-automation-are-the-future-of-healthcare/"
 type: article
 quality: 71
-heat: 91
+heat: 83
 published: true
 
 provider:
@@ -35,15 +35,6 @@ related:
       name: Becker's Hospital Review
       domain: beckershospitalreview.com
     quality: 34
-  - title: "Voice transcription AI: The future of doctor-patient interactions"
-    excerpt: "Voice-recognition AI software has the potential to be the rare smartphone app that encourages face-to-face interactions. Its early results suggest the technology could be a game-changer for a healthcare industry in desperate need of one,"
-    publishedDateTime: 2022-08-17T12:30:00Z
-    webUrl: "https://medcitynews.com/2022/08/voice-transcription-ai-the-future-of-doctor-patient-interactions/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 19
 
 secured: "UqF29QjqKSWjYXsqlNlViFz7AgqB+7Mt9an/8JxZ72Xpr1B89JVeSAv9yiaz2WFgbLqbbh9hnVPUPwNrzRDfV9JLlhte3ODnUXg6SZ8Aw1mMCIMd8YK0JIePcbduuTyV8CzXw7D2YR8W21oo/mA0lyStEpEeGORojRBvxjsE0z2N79YwbC7sN5xSdpEVp2EIxPP9ojQnsQp0lSp3OTOvpSRxM3iKWMQpd6EuWjyzG4egU1p6zCuQD0l2SDGkFNGlKYLd+X+yhSXuxrnNdMl5zQNdBjtwJfDbbZQ/Yg98zv9TOHds2JtC2eHZRLMhTZiiSVlrXRHrTi3m89NUg3eyCnGO9ATQpva/mQ4yGR9LcOwUl5yRX+1VAB0yrzx2xkd0gjn5Seep1ZeHcpmMCqJCBtOQD1kJGUJP/esvcxFlLE+fXPMyzKT6ChEeVQz2GxNJD6WwSVY5EAOaVNzZVrwscrzwcC14uXi4v0epvMXH2xemT2f5IXumONw6AnlGSohjC4G86uGnay2XBXSTQDrP5w==;5TQinopEXKhv8o/YuW6U9g=="
 ---

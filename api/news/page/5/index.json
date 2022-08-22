@@ -2,6 +2,102 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-16-integrateai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data.md",
+      "title": "integrate.ai Announces Availability of New Platform for Collaborative Machine Learning and Analytics Across Sensitive Data",
+      "excerpt": "TORONTO, (BUSINESS WIRE) -- integrate.ai, a SaaS company helping developers solve the world’s most important problems without risking sensitive data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/integrateai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data-2022-08-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/integrateai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data-2022-08-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 130,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-how-companies-can-achieve-success-with-artificial-intelligence-in-hiring.md",
+      "title": "How Companies Can Achieve Success with Artificial Intelligence in Hiring",
+      "excerpt": "As businesses adopt Artificial Intelligence in recruiting at an increasing rate, it's critical that they know how to leverage",
+      "sourceUrl": null,
+      "webUrl": "https://enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/",
+      "originalUrl": "https://enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/08/How-Companies-Can-Achieve-Success-with-Artificial-Intelligence-in-Hiring.jpg",
+          "width": 700,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/featured/how-companies-can-achieve-success-with-artificial-intelligence-in-hiring/amp/",
+      "publishedDateTime": "2022-08-16T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-how-snipd-is-using-ai-to-unlock-knowledge-in-podcasts.md",
       "title": "How Snipd is using AI to ‘unlock knowledge’ in podcasts",
       "excerpt": "Podcasting has emerged as a major billion-dollar industry, with ad revenue in the U.S. alone expected to hit $2 billion this year — a figure that’s set to double by 2024. Against that backdrop, major players in the field are bolstering their podcasting armory,",
@@ -832,49 +928,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-15-scientists-doubt-that-deepminds-ai-is-as-good-for-fractional-charge-systems-as-it-seems.md",
-      "title": "Scientists doubt that DeepMind's AI is as good for fractional-charge systems as it seems",
-      "excerpt": "DeepMind constructed a neural network based density functional designated as DM21, trained on fractional-electron systems, such as a hydrogen atom with half an electron.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/961844",
-      "originalUrl": "https://www.eurekalert.org/news-releases/961844",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/839c7f64-ce32-4a74-89a8-cd6b09dee5d2/Rendition/thumbnail/Content/Public",
-          "width": 300,
-          "height": 282,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-15-tiktok-adds-an-ai-image-generator-but-its-no-dall-e.md",
       "title": "TikTok adds an AI image generator, but it's no DALL-E",
       "excerpt": "You don't need to fire up DALL-E if you want AI to create images from text — you just need a popular social media app. The Verge notes TikTok has introduced a rudimentary \"AI greenscreen\" effect in its Android and iOS apps that turns your text descriptions into artwork.",
@@ -1175,50 +1228,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-ai-is-used-in-diagnostic-robotics-to-improve-patient-care.md",
-      "title": "AI is used in diagnostic robotics to improve patient care",
-      "excerpt": "What’s more, in this instance, the AI was taught using data from 65 million de-identified medical records. “We observe how individuals appear before the issues,” said Kira Radinsky, CEO and co-founder of Diagnostic Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/ai-is-used-in-diagnostic-robotics-to-improve-patient-care/",
-      "originalUrl": "https://bestgamingpro.com/ai-is-used-in-diagnostic-robotics-to-improve-patient-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bestgamingpro.com/wp-content/uploads/2022/08/Diagnostic-Robotics-puts-AI-to-work-in-preventative-care.png",
-          "width": 600,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bestgamingpro",
-        "domain": "bestgamingpro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

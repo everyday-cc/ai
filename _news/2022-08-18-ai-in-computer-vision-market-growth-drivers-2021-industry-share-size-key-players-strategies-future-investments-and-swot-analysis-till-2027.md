@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Technology Market: Latest Trends, SWOT Analysis, Growth, Size, Segmentation, Future Demands, by Regional Forecast to 2029"
-    excerpt: "Global \"Face Recognition Technology Market\" 2022: - Face Recognition Technology Market report discusses the market"
-    publishedDateTime: 2022-08-17T11:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-latest-trends-swot-analysis-growth-size-segmentation-future-demands-by-regional-forecast-to-2029-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "xnOUo/x4jMJTOfQ9PofFm6535+9Qn5ecwZvvzdOlriR0QdZI9M+xv0ISiyA8jhCeYD/7HwWYnQwP1iSBbmA8XNMbU1vUzPHDw63kl2voIg2SOZ5QJQElPV6inALvoE1Bj6SBMe9Zl3fh/1sHgHvfea+G54PMn5ELqEQZUxfvoPhm+OiMRW0SodbNf5LwSg3b/nUViads8XXQiTmbETcVMBcM1UpXhmQ9+C7jPt0qxVxtAjngRcgmCHvEa3etIh/WShIEEQx7t49k0VwKUDqcBL4VeYJ/A5zuPHnq23+cgABV9cVlsNg3/950sgN24bE3TEGjUWXAbi/0n2shFhUkhKQt+QuEPDesM3RMj923sd4=;MyS/kxe3zSo5negf55IXoQ=="
 ---

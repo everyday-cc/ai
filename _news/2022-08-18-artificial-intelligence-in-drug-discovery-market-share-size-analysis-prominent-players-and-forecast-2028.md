@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-share-size-analysis-prominent-players-and-forecast-2028-2022-08-18"
 type: article
 quality: 51
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -61,20 +61,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
-  - title: "Artificial Intelligence in Automotive Market Overview by Recent Opportunities, Growth Size, Regional Analysis and Forecasts to 2025"
-    excerpt: "Global Artificial Intelligence in Automotive Market Report is an In-Depth Analysis of the Latest Developments, Market"
-    publishedDateTime: 2022-08-17T12:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2025-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence In Healthcare Sector Market Size, Share, Growth Opportunity, Rising Demand and Trends Analysis Forecasts till 2027"
     excerpt: "The “Artificial Intelligence In Healthcare Sector Market” 2022 Research report will make detailed analysis mainly"
     publishedDateTime: 2022-08-19T10:12:00Z

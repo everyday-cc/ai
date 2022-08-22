@@ -229,6 +229,20 @@ related:
         width: 1240
         height: 795
         isCached: true
+  - title: "Self-driving cars could be on UK roads by 2025"
+    excerpt: "The UK's roads could see self-driving vehicles rolled out by 2025 under new government plans backed by a 100 million pound ($118 million) investment."
+    publishedDateTime: 2022-08-22T03:58:00Z
+    webUrl: "https://www.thehansindia.com/auto/auto-news/self-driving-cars-could-be-on-uk-roads-by-2025-758748"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 24
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2022/08/22/1308950-self-driving-vehicles.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Self-driving vehicles without onboard drivers to join UK roads from 2025"
     excerpt: "Self-driving vehicles used for public transport or deliveries could travel on UK roads without a qualified human driver onboard from 2025, according to government plans. Vehicles with some self-driving features,"
     publishedDateTime: 2022-08-19T14:36:00Z
@@ -274,15 +288,6 @@ related:
     provider:
       name: AOL
       domain: aol.com
-    quality: 4
-  - title: "Self-driving cars could be on UK roads by 2025"
-    excerpt: "\"This enables the UK to take full advantage of the emerging market of self-driving vehicles -- which could create up to 38,000 jobs and could be worth an estimated 42 billion pounds,\" the UK government said in a statement."
-    publishedDateTime: 2022-08-21T20:27:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20220822/3975345.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
     quality: 4
   - title: "Self-driving vehicles could be on UK roads 'next year' creating thousands of jobs"
     excerpt: "The Department for Transport said the self-driving industry could create up to 38,000 jobs and be worth £42 billion."

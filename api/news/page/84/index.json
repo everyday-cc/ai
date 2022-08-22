@@ -2,6 +2,168 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2022-06-14-why-you-need-an-ai-ethics-committee.md",
+      "title": "Why You Need an AI Ethics Committee",
+      "excerpt": "An AI ethics committee can identify and mitigate the ethical risks of AI products that are developed in-house or procured from third-party vendors. In 2019 a study published in the journal Science ...",
+      "sourceUrl": null,
+      "webUrl": "https://hbr.org/2022/07/why-you-need-an-ai-ethics-committee",
+      "originalUrl": "https://hbr.org/2022/07/why-you-need-an-ai-ethics-committee",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T23:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Harvard Business Review",
+        "domain": "hbr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-spotify-to-acquire-ai-voice-startup-sonantic.md",
+      "title": "Spotify to Acquire AI Voice Startup Sonantic",
+      "excerpt": "Sonantic has also worked with Val Kilmer, who was diagnosed with throat cancer and underwent a tracheotomy in 2014, to develop an AI voice model based on past audio recordings of Kilmer’s voice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/#!",
+      "originalUrl": "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/#!",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hollywoodreporter.com/wp-content/uploads/2022/06/GettyImages-1013933284-H-2022.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/amp/",
+      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/amp/",
+      "publishedDateTime": "2022-06-13T22:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hollywood Reporter",
+        "domain": "hollywoodreporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-chima-opara-weighs-in-on-ai-bias-cyber-security.md",
+      "title": "Chima Opara weighs in on AI Bias, Cyber Security",
+      "excerpt": "In the end, two words remain on the lips of many — artificial intelligence (AI) and machine learning (mL) Long before now, those terms were used solely by professionals in the tech community, but with the proliferation and commercialisation of technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.vanguardngr.com/2022/06/chima-opara-weighs-in-on-ai-bias-cyber-security/",
+      "originalUrl": "https://www.vanguardngr.com/2022/06/chima-opara-weighs-in-on-ai-bias-cyber-security/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vanguardngr.com/wp-content/uploads/2022/06/BlacB.jpg",
+          "width": 1439,
+          "height": 1814,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.vanguardngr.com/2022/06/chima-opara-weighs-in-on-ai-bias-cyber-security/amp/",
+      "cdnAmpWebUrl": "https://www-vanguardngr-com.cdn.ampproject.org/c/s/www.vanguardngr.com/2022/06/chima-opara-weighs-in-on-ai-bias-cyber-security/amp/",
+      "publishedDateTime": "2022-06-13T22:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Vanguard",
+        "domain": "vanguardngr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-largest-order-for-ai-robotics-leader-in-its-short-amazing-history-artificial-intelligence-tech-stock-symbol-aitx.md",
+      "title": "Largest Order For AI Robotics Leader In Its Short Amazing History: Artificial Intelligence Tech: Stock Symbol: AITX",
+      "excerpt": "AITX SCOT. AITX AVA. AITX Collage. AITX Showcase. AITX ROAMEO. Largest Order for AI Robotics Leader in its Short Amazing History thus far; $AITX Receives a",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104369930/Largest-Order-For-AI-Robotics-Leader-In-Its-Short-Amazing-History-Artificial-Intelligence-Tech-Stock-Symbol-AITX",
+      "originalUrl": "https://menafn.com/1104369930/Largest-Order-For-AI-Robotics-Leader-In-Its-Short-Amazing-History-Artificial-Intelligence-Tech-Stock-Symbol-AITX",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-06/14/EP_1bc51image_story.jpeg",
+          "width": 893,
+          "height": 585,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T22:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-smart-robot-helps-with-congestion-at-narita-airport.md",
       "title": "Smart robot helps with congestion at Narita Airport",
       "excerpt": "A robot equipped with artificial intelligence has been put to work to help sort out congestion problems at Narita International Airport near Tokyo.",
@@ -940,198 +1102,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-create-train-and-deploy-a-billion-parameter-language-model-on-terabytes-of-data-with-tensorflow-and-amazon-sagemaker.md",
-      "title": "Create, train, and deploy a billion-parameter language model on terabytes of data with TensorFlow and Amazon SageMaker",
-      "excerpt": "The increasing size of language models has been one of the biggest trends in natural language processing (NLP) in recent years. Since 2018, we’ve seen unprecedented development and deployment of ever-larger language models, including BERT and its variants, GPT-2, T-NLG, and GPT-3 (175 billion parameters).",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/create-train-and-deploy-a-billion-parameter-language-model-on-terabytes-of-data-with-tensorflow-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/create-train-and-deploy-a-billion-parameter-language-model-on-terabytes-of-data-with-tensorflow-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/13/billion-parameter-sagemaker.jpg",
-          "width": 1247,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T10:36:17-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-how-to-fool-an-eavesdropping-ai-with-another-ai.md",
-      "title": "How To Fool an Eavesdropping AI … With Another AI",
-      "excerpt": "Scientists at Columbia University in New York City think they’ve devised an AI that can effectively fool an eavesdropping automatic speech recognition system from transcribing your private ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.popularmechanics.com/technology/security/a40208622/how-to-fool-eavesdropping-ai/",
-      "originalUrl": "https://www.popularmechanics.com/technology/security/a40208622/how-to-fool-eavesdropping-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/ear-on-a-smart-phone-royalty-free-image-1654626112.jpg?crop=1.00xw:0.389xh;0,0.0957xh&resize=1200:*",
-          "width": 1200,
-          "height": 603,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Mechanics",
-        "domain": "popularmechanics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-15-business-functions-where-artificial-intelligence-can-assist-agencies.md",
-      "title": "15 Business Functions Where Artificial Intelligence Can Assist Agencies",
-      "excerpt": "Businesses across industries are actively seeking innovative ways to leverage artificial intelligence ... Scanning Reviews To Identify Problem Areas As a healthcare marketing agency, we use AI to gauge patients’ collective sentiments through their ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/06/13/15-business-functions-where-artificial-intelligence-can-assist-agencies/",
-      "originalUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/06/13/15-business-functions-where-artificial-intelligence-can-assist-agencies/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a7578ccd8d2473d6cb7820/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 819,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesagencycouncil/2022/06/13/15-business-functions-where-artificial-intelligence-can-assist-agencies/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesagencycouncil/2022/06/13/15-business-functions-where-artificial-intelligence-can-assist-agencies/amp/",
-      "publishedDateTime": "2022-06-13T10:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-dementia-a-sign-in-the-eyes-that-could-predict-steeper-cognitive-decline-warns-study.md",
-      "title": "Dementia: A sign in the eyes that could predict ‘steeper’ cognitive decline warns study",
-      "excerpt": "According to recent findings, thinning of the eye’s macular retinal nerve fibre layer (RNFL) could be linked to \"steeper\" cognitive deterioration in older adults. The new study, published in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.express.co.uk/life-style/health/1624726/dementia-symptoms-thinning-macular-retinal-nerve-fibre-layer",
-      "originalUrl": "https://www.express.co.uk/life-style/health/1624726/dementia-symptoms-thinning-macular-retinal-nerve-fibre-layer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.images.express.co.uk/img/dynamic/11/590x/cognitive-decline-1624726.jpg?r=1655122924587",
-          "width": 590,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.express.co.uk/life-style/health/1624726/dementia-symptoms-thinning-macular-retinal-nerve-fibre-layer/amp",
-      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/health/1624726/dementia-symptoms-thinning-macular-retinal-nerve-fibre-layer/amp",
-      "publishedDateTime": "2022-06-13T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Express",
-        "domain": "express.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

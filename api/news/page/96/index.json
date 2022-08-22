@@ -2,6 +2,180 @@
   "page": 96,
   "value": [
     {
+      "path": "_news/2022-06-06-sex-robots-could-soon-feel-things-just-like-humans-thanks-to-creepy-ai-touch-tech.md",
+      "title": "Sex robots could soon feel things 'just like humans' thanks to creepy AI touch tech",
+      "excerpt": "A new breakthrough in 'printed skin' gives robots a sense of touch just like humans - it could make sex robots even more advanced for steaming hot romps with doll lovers in the bedroom",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933",
+      "originalUrl": "https://www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.dailystar.co.uk/incoming/article27157316.ece/ALTERNATES/s615/0_Inside-Londons-first-sex-robot-party-where-humans-romp-with-dolls.jpg",
+          "width": 615,
+          "height": 409,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933.amp",
+      "cdnAmpWebUrl": "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933.amp",
+      "publishedDateTime": "2022-06-06T03:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Star",
+        "domain": "dailystar.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-rstudio-is-now-available-on-azure-ml.md",
+      "title": "RStudio is now available on Azure ML",
+      "excerpt": "RStudio has announced a new partnership with Azure ML to deliver RStudio WorkBench on the Azure platform. RStudio, an integrated development environment (IDE) for programming language R, provides open source and enterprise-ready professional software for data science,",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/rstudio-is-now-available-on-azure-ml/",
+      "originalUrl": "https://analyticsindiamag.com/rstudio-is-now-available-on-azure-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Untitled-design-24.png",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-aws-and-hkstp-announce-strategic-collaboration-to-accelerate-innovation-and-technology-development-in-hong-kong.md",
+      "title": "AWS and HKSTP Announce Strategic Collaboration to Accelerate Innovation and Technology Development in Hong Kong",
+      "excerpt": "Amazon Web Services (AWS) and Hong Kong Science and Technology Parks Corporation (HKSTP) announced a strategic collaboration today, aiming to foster a robust Innovation and Technology (I&T) ecosystem in Hong Kong.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kentuckytoday.com/news/business/aws-and-hkstp-announce-strategic-collaboration-to-accelerate-innovation-and-technology-development-in-hong-kong/article_64945d21-d100-57b1-8869-ee0b2c471f28.html",
+      "originalUrl": "https://www.kentuckytoday.com/news/business/aws-and-hkstp-announce-strategic-collaboration-to-accelerate-innovation-and-technology-development-in-hong-kong/article_64945d21-d100-57b1-8869-ee0b2c471f28.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T02:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kentucky Today",
+        "domain": "kentuckytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain.md",
+      "title": "Chitti The Robot Got Competition! Indian Researcher Develops E-Skin That Can Actually Feel Pain",
+      "excerpt": "The artificial skin was developed by Ravinder Dahiya's team at the university using a novel sort of processing system based on synaptic transistors.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/32832/chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain",
+      "originalUrl": "https://in.mashable.com/tech/32832/chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/781e9c68-ff8c-4e9b-9f9f-e20bd4397e4c_95zq.620.jpg",
+          "width": 619,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/32832/chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/32832/chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain?amp=1",
+      "publishedDateTime": "2022-06-06T02:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-bumrungrad-launches-radiology-ai-assisting-radiologists-in-analyzing-locating-abnormalities-in-the-lungs-and-detecting-breast-cancer.md",
       "title": "Bumrungrad launches Radiology AI--assisting radiologists in analyzing & locating abnormalities in the lungs and detecting breast cancer.",
       "excerpt": "At present, Artificial intelligence (AI) has attracted global interest because it can analyze large amounts of data to revolutionize businesses and industries, especially in the medical sciences. Further,",
@@ -967,181 +1141,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-standard-care.md",
-      "title": "Artificial Intelligence Offers Significant Rate of Remission for Type 2 Diabetes Compared to Standard Care",
-      "excerpt": "Whole Body Digital Twin Technology Enables Personalized Approach to Help Improve Disrupted Metabolism for Individuals with Type 2 Diabetes NEW ORLEANS, June 4, 2022 /PRNewswire/ -- A new study powered",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27555974/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-stand",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27555974/artificial-intelligence-offers-significant-rate-of-remission-for-type-2-diabetes-compared-to-stand",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1832792/Paramesh_Remission_Graphic.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27555974",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27555974",
-      "publishedDateTime": "2022-06-04T08:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-face-recognition-cams-at-mg-road-metro-station-others-for-better-security-gmda.md",
-      "title": "Face recognition cams at MG Road metro station, others for better security: GMDA",
-      "excerpt": "The Gurugram Metropolitan Development Authority (GMDA) installed eight facial recognition cameras Eight such cameras will also be installed at the Sikanderpur metro station before June 10. GMDA officials said that they are yet to receive permission from the Delhi Metro Rail Corporation for installing facial recognition cameras at the Huda City Centre station.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/cities/gurugram-news/face-recognition-cams-at-mg-road-metro-station-others-for-better-securitygmda-101654344985637.html",
-      "originalUrl": "https://www.hindustantimes.com/cities/gurugram-news/face-recognition-cams-at-mg-road-metro-station-others-for-better-securitygmda-101654344985637.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/06/04/1600x900/eb108b98-e3fe-11ec-8f1c-cdec0b6d3297_1654344984455.jpeg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/cities/gurugram-news/face-recognition-cams-at-mg-road-metro-station-others-for-better-securitygmda-101654344985637-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/gurugram-news/face-recognition-cams-at-mg-road-metro-station-others-for-better-securitygmda-101654344985637-amp.html",
-      "publishedDateTime": "2022-06-04T05:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-artificial-intelligence-will-never-replace-these-skills.md",
-      "title": "Artificial intelligence will NEVER replace THESE skills",
-      "excerpt": "According to a McKinsey report, depending on the adoption scenario, automation will displace between 400 and 800 million jobs by 2030.",
-      "sourceUrl": null,
-      "webUrl": "https://www.dnaindia.com/technology/report-artificial-intelligence-will-never-replace-these-skills-2957945",
-      "originalUrl": "https://www.dnaindia.com/technology/report-artificial-intelligence-will-never-replace-these-skills-2957945",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/06/04/2139148-untitled-design-2022-06-04t160005.913.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dnaindia.com/technology/report-artificial-intelligence-will-never-replace-these-skills-2957945/amp",
-      "cdnAmpWebUrl": "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/technology/report-artificial-intelligence-will-never-replace-these-skills-2957945/amp",
-      "publishedDateTime": "2022-06-04T03:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DNA India",
-        "domain": "dnaindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-artificial-intelligence-spotted-inventing-its-own-creepy-language.md",
-      "title": "Artificial intelligence spotted inventing its own creepy language",
-      "excerpt": "An artificial intelligence program has developed its own language and no one can understand it. OpenAI is an artificial intelligence systems developer – their programs are fantastic examples of super-computing but there are quirks.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/",
-      "originalUrl": "https://nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/06/bird.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/03/artificial-intelligence-spotted-inventing-its-own-creepy-language/amp/",
-      "publishedDateTime": "2022-06-03T19:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

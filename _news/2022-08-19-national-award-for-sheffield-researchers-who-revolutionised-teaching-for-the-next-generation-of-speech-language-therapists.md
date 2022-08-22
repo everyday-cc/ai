@@ -56,20 +56,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 24
-  - title: "Deep Learning Market Market Size, Global Trends, Latest Techniques, Key Segments And Geography Forecasts Till 2028"
-    excerpt: "The Global “Deep Learning Market” 2022 research report presents an in-depth analysis of the Deep Learning Market size, growth, share, segments, manufacturers, and forecast, competition ..."
-    publishedDateTime: 2022-08-17T12:31:00Z
-    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-market-size-global-trends-latest-techniques-key-segments-and-geography-forecasts-till-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 17
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/a6ce76f71c99cdb34a0b6fc0ee9f528221756c34-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Facial Recognition Door Access Solutions Market Overview 2022 to 2030, Future Trends and Forecast | By -Cloudwalk, Dahua Technology, Aurora"
     excerpt: "The strong development of the Facial Recognition Door Access Solutions market can be ascribed to the elements related which incorporate market drivers, limitations and amazing open doors, market propensities of each and every present and future,"
     publishedDateTime: 2022-08-19T14:41:00Z

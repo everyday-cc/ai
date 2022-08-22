@@ -24,61 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "The Role Of Ethics In The Evolving World Of Marketing AI"
-    excerpt: "Marketing today requires a delicate balance between engaging smart, predictive technologies, such as ML and AI, and honoring the ethical standards that build trust between brands and customers."
-    publishedDateTime: 2022-08-17T11:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-role-of-ethics-in-the-evolving-world-of-marketing-ai/"
-    ampWebUrl: "https://www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-role-of-ethics-in-the-evolving-world-of-marketing-ai/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-role-of-ethics-in-the-evolving-world-of-marketing-ai/amp/"
+  - title: "Helping people understand AI"
+    excerpt: "If you’re like me, you may have noticed that AI has become a part of daily life. I wake up each morning and ask my smart assistant about the weather. I recently applied for a new credit card and the credit limit was likely determined by a machine learning model. And while typing the previous sentence,"
+    publishedDateTime: 2022-08-18T15:00:00Z
+    webUrl: "https://blog.google/technology/ai/helping-people-understand-ai/"
+    ampWebUrl: "https://blog.google/technology/ai/helping-people-understand-ai/amp/"
+    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/helping-people-understand-ai/amp/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 121
+      name: Google
+      domain: blog.google
+    quality: 109
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62f135ac5e7a94fea526433e/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01_VWU2fWb.max-1300x1300.png"
+        width: 1300
+        height: 733
         isCached: true
-  - title: "How AI could transform financial services in emerging markets"
-    excerpt: "AI can allow financial services providers to make use of alternative data sources to assess creditworthiness. This could prove transformative."
-    publishedDateTime: 2022-08-19T07:38:00Z
-    webUrl: "https://techcentral.co.za/how-ai-could-transform-financial-services-in-emerging-markets/214353/"
-    ampWebUrl: "https://techcentral.co.za/how-ai-could-transform-financial-services-in-emerging-markets/214353/?amp=1"
-    cdnAmpWebUrl: "https://techcentral-co-za.cdn.ampproject.org/c/s/techcentral.co.za/how-ai-could-transform-financial-services-in-emerging-markets/214353/?amp=1"
-    type: article
-    provider:
-      name: TechCentral
-      domain: techcentral.co.za
-    quality: 59
-    images:
-      - url: "https://techcentral.co.za/wp-content/uploads/2020/08/mark-nasila-2156-1120.jpg"
-        width: 2156
-        height: 1120
-        isCached: true
-  - title: "White paper offers ethics advice for use of AI in the US"
-    excerpt: "This new white paper encourages all stakeholders — government among them — to consider potential harm that AI can do, and to plan for addressing that."
-    publishedDateTime: 2022-08-22T02:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/22/white-paper-offers-ethics-advice-for-use-of-ai-in-the-us"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/19/1703835.jpg"
-        width: 1240
-        height: 826
-        isCached: true
-  - title: "AI Ethics Wary About Worsening Of AI Asymmetry Amid Humans Getting The Short End Of The Stick"
-    excerpt: "AI Asymmetry is getting larger and one controversial solution seems to be arming more with AI in a ... [+] fight fire-with-fire uneasy approach. Sometimes you are on the wrong end of the stick. That colloquialism can be applied to the notion of asymmetry."
-    publishedDateTime: 2022-08-19T12:17:00Z
-    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/19/ai-ethics-wary-about-worsening-of-ai-asymmetry-amid-humans-getting-the-short-end-of-the-stick/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 53
 
 secured: "dZfGBht/ShYDGPsWVYEwxodDJxmhNGM8h1Q00lLGIvsmpJhfOJWnTTTVZi48RFpGzoPpdDojC13cGKcmdb6wpGgrumUysYTr/Wf2PaCTuMB86uaPN/WF/pVw70S6Lir25kUqFh0CQYpuEFNbt6kJaJVizC710HmXl2hwXjDADII6DwSaDXxYutYvj/8eKMZuncj2rnZVv5l0hn3ngp7mQY5wKvkOyoECr38jduyPrxWa0K3nQ2BKOPL7CdYgoYRX0JUToLN3ChgtFMVbX67K1cPDQzNuqlXVoOMBM+04sJ1lAIcKzsd53CujTodMZ7uUzMNda/N/t6lVp8VS78sIoxkO1uXQVoRmEiSwmF+Z9yAekNrslpDEt2Ql6TlJJoZlsJEjgOSTY6uwt1cHvV7pfAY946epsf3hlrXHAPS3FuQ0kzHTap+2vY4xSndngJcy7u4DeReHFlM3oIveJjfxkjeRKj5jj+YK7Hi6q5x7Fi+Ek3UnIKLyLE7vmLGbI2F9mU3APBBsKJFJ2Tfh/RD3/A==;7PPrBUEf/VBZZWScI9MU1Q=="
 ---

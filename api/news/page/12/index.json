@@ -2,6 +2,179 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-08-09-baidu-approved-for-chinas-first-driverless-taxis.md",
+      "title": "Baidu approved for China’s first driverless taxis",
+      "excerpt": "Baidu Inc (百度) has won approval to deploy the first fully autonomous self-driving taxis on China’s roads, giving it an edge over rivals such as Pony.ai Inc (小馬智行) and XPeng Inc (小鵬汽車). The tech giant has secured permits to operate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.taipeitimes.com/News/biz/archives/2022/08/09/2003783198",
+      "originalUrl": "https://www.taipeitimes.com/News/biz/archives/2022/08/09/2003783198",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.taipeitimes.com/images/2022/08/09/P11-220809-308.jpg",
+          "width": 787,
+          "height": 525,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Taipei Times",
+        "domain": "taipeitimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-kloudpad-to-start-worlds-biggest-digital-worker-services-centre-in-kochi.md",
+      "title": "Kloudpad to start world’s biggest digital worker services centre in Kochi",
+      "excerpt": "Tapping into the huge potential of digital worker services for automating business ... or virtual employees that are developed using cognitive automation technology platforms, the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/info-tech/kloudpad-to-start-worlds-biggest-digital-worker-services-centre-in-kochi/article65749620.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/info-tech/kloudpad-to-start-worlds-biggest-digital-worker-services-centre-in-kochi/article65749620.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bl-i.thgim.com/public/incoming/m204pp/article65749618.ece/alternates/LANDSCAPE_615/Kloudpad_Founders.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/info-tech/kloudpad-to-start-worlds-biggest-digital-worker-services-centre-in-kochi/article65749620.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/kloudpad-to-start-worlds-biggest-digital-worker-services-centre-in-kochi/article65749620.ece/amp/",
+      "publishedDateTime": "2022-08-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-missouri-based-fintech-to-acquire-glastonburys-payrailz.md",
+      "title": "Missouri-based fintech to acquire Glastonbury’s Payrailz",
+      "excerpt": "A Missouri-based publicly traded financial technology firm announced Thursday it has reached an agreement to acquire Glastonbury-based digital payment company, Payrailz. Jack Henry & Associates Inc. said the purchase will expand its digital payment capabilities,",
+      "sourceUrl": null,
+      "webUrl": "https://www.hartfordbusiness.com/article/missouri-based-fintech-to-acquire-glastonburys-payrailz",
+      "originalUrl": "https://www.hartfordbusiness.com/article/missouri-based-fintech-to-acquire-glastonburys-payrailz",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.hartfordbusiness.com/sites/default/files/2021-04/payrailz2_opt.jpg",
+          "width": 770,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hartford Business",
+        "domain": "hartfordbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-datacenter-props-up-nvidia-as-gaming-sales-collapse.md",
+      "title": "Datacenter Props Up Nvidia As Gaming Sales Collapse",
+      "excerpt": "These discrete GPU sales aimed at gamers and cryptocurrency miners took ... By contrast, sales in Nvidia’s datacenter division, which is driven largely by AI workloads but also by a fair amount of HPC simulation and modeling and data analytics workloads ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2022/08/08/datacenter-props-up-nvidia-as-gaming-sales-collapse/",
+      "originalUrl": "https://www.nextplatform.com/2022/08/08/datacenter-props-up-nvidia-as-gaming-sales-collapse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/05/nvidia-hq-logo.jpg",
+          "width": 937,
+          "height": 592,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2022/08/08/datacenter-props-up-nvidia-as-gaming-sales-collapse/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/08/08/datacenter-props-up-nvidia-as-gaming-sales-collapse/amp/",
+      "publishedDateTime": "2022-08-08T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-gpu-as-a-service-deployment-to-be-maximum-across-real-estate-registering-a-cagr-of-361-until-2032-future-market-insights-inc.md",
       "title": "GPU as a Service Deployment to be Maximum across Real Estate, registering a CAGR of 36.1% until 2032- Future Market Insights, Inc.",
       "excerpt": "The rising adoption of Artificial Intelligence (AI) across industries such as healthcare, BFSI, and others, is considered as one of the emerging trends. Major players across the GPU as a service ...",
@@ -971,178 +1144,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-why-digital-trust-is-fundamental-for-the-future-of-the-internet.md",
-      "title": "Why Digital Trust Is Fundamental For The Future Of The Internet",
-      "excerpt": "To keep today’s increasingly connected world free and secure for everyone to operate with privacy, the technology community, governments and corporate boardrooms need to invest in digital trust.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/08/why-digital-trust-is-fundamental-for-the-future-of-the-internet/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/08/why-digital-trust-is-fundamental-for-the-future-of-the-internet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62ed2082cd7ce704a4373b13/0x0.jpg?format=jpg&width=1200",
-          "width": 1054,
-          "height": 702,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/08/why-digital-trust-is-fundamental-for-the-future-of-the-internet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/08/why-digital-trust-is-fundamental-for-the-future-of-the-internet/amp/",
-      "publishedDateTime": "2022-08-08T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-5-stocks-ill-almost-certainly-still-own-in-2030.md",
-      "title": "5 Stocks I'll Almost Certainly Still Own in 2030",
-      "excerpt": "I also think that Alphabet has a huge growth opportunity in artificial intelligence (AI). The most obvious one is with its Waymo self-driving car technology business. However, the company is also ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030",
-      "originalUrl": "https://www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/5-stocks-ill-almost-certainly-still-own-in-2030?amp",
-      "publishedDateTime": "2022-08-08T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-veritone-creates-ai-driven-revenue-opportunities-on-aws.md",
-      "title": "Veritone creates AI-driven revenue opportunities on AWS",
-      "excerpt": "Veritone, the creator of aiWARE, a hyper-expansive enterprise Artificial Intelligence (AI) platform, has announced an extension of its work with Amazon and Amazon Web Services (AWS) to support its media and entertainment customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.intelligentcio.com/north-america/2022/08/08/veritone-creates-ai-driven-revenue-opportunities-on-aws/",
-      "originalUrl": "https://www.intelligentcio.com/north-america/2022/08/08/veritone-creates-ai-driven-revenue-opportunities-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.intelligentcio.com/north-america/wp-content/uploads/sites/45/2022/08/AdobeStock_452528209_Editorial_Use_Only-w.jpg",
-          "width": 1000,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T02:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "intelligentcio.com",
-        "domain": "intelligentcio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.md",
-      "title": "Prospera Financial Services Inc Takes $68,000 Position in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF has a 1 year low of $35.92 and a 1 year high of $58.00. The firm’s fifty day simple moving average is $39.17 and its 200 day simple ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/08/08/prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt/",
-      "originalUrl": "https://www.etfdailynews.com/2022/08/08/prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks14.jpg",
-          "width": 1024,
-          "height": 528,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/08/08/prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/08/08/prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt/amp/",
-      "publishedDateTime": "2022-08-08T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

@@ -39,6 +39,24 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Alliant Credit Union Chooses Upstart for Personal Lending Fintech Partnership"
+    excerpt: "Alliant Credit Union, a fully digital, top 10 credit union in the U.S., recently announced that it has partnered with Upstart."
+    publishedDateTime: 2022-08-19T19:47:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/08/194955-alliant-credit-union-chooses-upstart-for-personal-lending-fintech-partnership/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 1
+  - title: "Alliant Credit Union Selects Upstart for a Personal Lending Fintech Partnership"
+    excerpt: "View the full release here:  \"We are very particular when we choose a fintech partner,\" said Charles Krawitz, Senior Vice President, Chief Capital Markets Officer & Head of Commercial Lending for Alliant Credit Union."
+    publishedDateTime: 2022-08-17T14:33:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-alliant-credit-union-selects-upstart-a-personal-lending-/2022/08/17/9657897.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "KtCyB7TF2AlGBISIeluJRllLLBbQsSzEKAevBmwzFwl7qzYZfEwGl0BMzMbE+J8cBwtm9nIqMHTLtgCHVopDnX2/h6slhGUNNtyYcbdUFFXodmNMlF+Ohv95Olp9BDkeuPAHWfE8AKm/S28TKWBVdaX2Wxnq29PCnfwoccL+6C9jG6Mmt+vzMQVBpk5Cm6lW+Kr1rJN/xLbXWp7wuoQLOWTfHDimhE7kn+yVb19kFigZDETxaAe4H7FdQUDpBTThz9kO9LtH73tqzJccPK3Tzr9WXnCLYDWqO/TuY0ydje8E4DHZa3aw0rIeOlPcOAq7iTbfSu4Jpk/47n90T8w45SPyBL4eZNLxNPOBFR2Iqv0=;+l9sDHTWwcenGtNlAG3moA=="
 ---

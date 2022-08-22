@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/3-myths-about-chatbot-design-busted/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-myths-about-chatbot-design-busted/amp/"
 type: article
 quality: 74
-heat: 86
+heat: 87
 published: true
 
 provider:

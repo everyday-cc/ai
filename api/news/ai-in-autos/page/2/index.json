@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-10-deeply-disturbing-video-appears-to-show-a-tesla-in-full-self-driving-mode-repeatedly-running-over-a-child-sized-mannequin-in-controlled-test.md",
+      "title": "'Deeply disturbing' video appears to show a Tesla in full self-driving mode repeatedly running over a child-sized mannequin in 'controlled test conditions'",
+      "excerpt": "A spokesperson said this included the full self driving software and that the agency 'considers all relevant data and information that may assist its investigation'. Autopilot uses cameras ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11095775/Tesla-self-driving-mode-appears-run-child-sized-mannequin-test-conditions.html",
+      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11095775/Tesla-self-driving-mode-appears-run-child-sized-mannequin-test-conditions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.dailymail.co.uk/1s/2022/08/09/17/61222157-0-image-a-61_1660062334365.jpg",
+          "width": 636,
+          "height": 382,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11095775/amp/Tesla-self-driving-mode-appears-run-child-sized-mannequin-test-conditions.html",
+      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11095775/amp/Tesla-self-driving-mode-appears-run-child-sized-mannequin-test-conditions.html",
+      "publishedDateTime": "2022-08-09T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Mail",
+        "domain": "dailymail.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-baidu-gets-permits-for-first-fully-driverless-taxi-service-in-china.md",
       "title": "Baidu gets permits for first fully driverless taxi service in China",
       "excerpt": "Baidu, which operates China’s largest search ... and ridehailing giants like Uber and Lyft have abandoned in-house self-driving taxi efforts. In June, General Motors-backed Cruise gained permits ...",
@@ -249,6 +292,49 @@
       "provider": {
         "name": "ET Auto",
         "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-chinas-baidu-wins-first-permits-for-fully-driverless-robotaxis.md",
+      "title": "China's Baidu wins first permits for fully driverless 'robotaxis'",
+      "excerpt": "SHANGHAI -- China's Baidu said Monday that it has secured ... after the search engine group released a new generation of self-driving vehicles with production costs roughly half those of its ...",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/Automobiles/China-s-Baidu-wins-first-permits-for-fully-driverless-robotaxis",
+      "originalUrl": "https://asia.nikkei.com/Business/Automobiles/China-s-Baidu-wins-first-permits-for-fully-driverless-robotaxis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F9%252F3%252F4%252F41704399-8-eng-GB%252FCropped-1659949004.Baidu.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T19:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ニッケイ・エイジア",
+        "domain": "nikkei.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1277,103 +1363,6 @@
         "AI",
         "AI in Autos",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-advancing-artificial-intelligence-and-creating-the-technology-of-the-future.md",
-      "title": "Advancing Artificial Intelligence And Creating The Technology Of The Future",
-      "excerpt": "Tesla has applied an effective approach to building the innovation capital needed to win resources, then deliver on its overall vision.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/advancing-artificial-intelligence-and-creating-the-technology-of-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/advancing-artificial-intelligence-and-creating-the-technology-of-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e93f7794c5319e0f7b70bb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/03/advancing-artificial-intelligence-and-creating-the-technology-of-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/03/advancing-artificial-intelligence-and-creating-the-technology-of-the-future/amp/",
-      "publishedDateTime": "2022-08-03T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-leading-in-self-driving-technology-taiwans-smart-mobility-business-opportunities-take-shape.md",
-      "title": "Leading in self-driving technology, Taiwan's smart mobility business opportunities take shape",
-      "excerpt": "The automobile industry has encountered the biggest transformation in over a century. With the successive introduction of new technologies, what once was a vision of smart mobility is gradually becoming a reality.",
-      "sourceUrl": null,
-      "webUrl": "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html",
-      "originalUrl": "https://digitimes.com/news/a20220802VL208/adas-self-driving-car-smart-mobility.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20220802vl208_files/1_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T19:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

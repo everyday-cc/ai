@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Technology Market: Latest Trends, SWOT Analysis, Growth, Size, Segmentation, Future Demands, by Regional Forecast to 2029"
-    excerpt: "Global \"Face Recognition Technology Market\" 2022: - Face Recognition Technology Market report discusses the market"
-    publishedDateTime: 2022-08-17T11:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-latest-trends-swot-analysis-growth-size-segmentation-future-demands-by-regional-forecast-to-2029-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI in computer vision Market Growth Drivers 2021, Industry Share, Size, Key Players Strategies, Future Investments and SWOT Analysis till 2027"
     excerpt: "AI is the capability of machines to carry out intellectual function such as cogitation, perceiving, learning, investigative and decision taking. Factors such as thriving need for quality automation, growing demand for computer vision systems in advanced and arising applications,"
     publishedDateTime: 2022-08-18T06:15:00Z

@@ -69,20 +69,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
-  - title: "Artificial Intelligence in Automotive Market Overview by Recent Opportunities, Growth Size, Regional Analysis and Forecasts to 2025"
-    excerpt: "Global Artificial Intelligence in Automotive Market Report is an In-Depth Analysis of the Latest Developments, Market"
-    publishedDateTime: 2022-08-17T12:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2025-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Global Natural Language Processing Market Latest Trends, Size, Key Players, Revenue And Forecast 2022-2031"
     excerpt: "Kenneth Research released a report on  Global Natural Language Processing Market  consisting of detailed analysis of the market"
     publishedDateTime: 2022-08-18T06:04:00Z

@@ -33,15 +33,6 @@ related:
         width: 703
         height: 497
         isCached: true
-  - title: "Voice transcription AI: The future of doctor-patient interactions"
-    excerpt: "Voice-recognition AI software has the potential to be the rare smartphone app that encourages face-to-face interactions. Its early results suggest the technology could be a game-changer for a healthcare industry in desperate need of one,"
-    publishedDateTime: 2022-08-17T12:30:00Z
-    webUrl: "https://medcitynews.com/2022/08/voice-transcription-ai-the-future-of-doctor-patient-interactions/"
-    type: article
-    provider:
-      name: MedCity News
-      domain: medcitynews.com
-    quality: 19
 
 secured: "weQ3jrOnkILDDOxasSNrA9Vnqn9VIKUKaZWlHdSit9hetVJkoDimB8w1yWjlHuxsA0NoiadOyuQ7e9njJfvU1uCr2LvyfeNygUgCybLtbJUCgby5zbxcPvNaICuztfbwF5kLU8eXt42g11gHvxnzMRi9Lq5lHroMHIwFa55NJDKsYK+3qN7hLmxOBLsqnGxUghzrP1463JllOVb/vngkh6U+XDDW+/R1qps6npfv5XtRMYLWDKONIfpPHRpTDUAIegEPgRBBTSG8Ve8UcYIF3+IV+9RJvH3AEXqycBL+kmgdnLf9Ud5+EHy0JBW2hXpFdylvoSS4VWdCNR4c57QawXvI+Cc/mvPnm4wJ1/SJQ+E=;Bsb4mMmAGeY7nrr6CaIcPw=="
 ---

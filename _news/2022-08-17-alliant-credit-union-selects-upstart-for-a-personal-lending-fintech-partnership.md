@@ -19,21 +19,33 @@ topics:
   - AI
 
 related:
-  - title: "Cloud-banking fintech Ohpen partners with ezbob to offer complete suite of lending products to UK market"
-    excerpt: "Ohpen, the first fintech platform to bring a bank to the cloud, today announces its partnership with ezbob, a UK-based software provider for banks and financial institutions."
-    publishedDateTime: 2022-08-18T08:29:00Z
-    webUrl: "https://bmmagazine.co.uk/in-business/cloud-banking-fintech-ohpen-partners-with-ezbob-to-offer-complete-suite-of-lending-products-to-uk-market/"
-    ampWebUrl: "https://bmmagazine.co.uk/in-business/cloud-banking-fintech-ohpen-partners-with-ezbob-to-offer-complete-suite-of-lending-products-to-uk-market/?amp"
-    cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/in-business/cloud-banking-fintech-ohpen-partners-with-ezbob-to-offer-complete-suite-of-lending-products-to-uk-market/?amp"
+  - title: "Alliant Credit Union partners Upstart on AI-powered personal loans"
+    excerpt: "Alliant Credit Union, a fully digital, top 10 credit union in the U.S. with more than 650,000 members and over $15 billion in assets, today announced it has partnered with Upstart (NASDAQ: UPST), a leading artificial intelligence (AI) lending marketplace,"
+    publishedDateTime: 2022-08-18T14:58:00Z
+    webUrl: "https://www.finextra.com/pressarticle/93775/alliant-credit-union-partners-upstart-on-ai-powered-personal-loans"
     type: article
     provider:
-      name: Business Matters
-      domain: bmmagazine.co.uk
-    quality: 42
+      name: Finextra
+      domain: finextra.com
+    quality: 39
     images:
-      - url: "https://bmmagazine.co.uk/wp-content/uploads/2022/08/Screenshot-2022-08-18-at-09.27.26-1024x549.png"
-        width: 1024
-        height: 549
+      - url: "https://www.finextra.com/about/finextra-logo.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "EchoNous partners with Samsung on AI-guided ultrasound"
+    excerpt: "EchoNous announced today that it entered into an alliance with Samsung to run its ultrasound offerings off the Galaxy mobile tablets."
+    publishedDateTime: 2022-08-18T17:51:00Z
+    webUrl: "https://www.massdevice.com/echonous-samsung-ai-guided-ultrasound/"
+    type: article
+    provider:
+      name: MassDevice
+      domain: massdevice.com
+    quality: 37
+    images:
+      - url: "https://www.massdevice.com/wp-content/uploads/2021/07/EchoNous-Kosmos.png"
+        width: 770
+        height: 500
         isCached: true
   - title: "Alliant Credit Union Chooses Upstart for Personal Lending Fintech Partnership"
     excerpt: "Alliant Credit Union, a fully digital, top 10 credit union in the U.S., recently announced that it has partnered with Upstart."

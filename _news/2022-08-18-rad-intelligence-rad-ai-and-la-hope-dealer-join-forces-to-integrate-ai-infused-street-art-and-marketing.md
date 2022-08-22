@@ -41,6 +41,15 @@ related:
         width: 480
         height: 383
         isCached: true
+  - title: "Sapia and Greenhouse partnership brings world-first AI Smart Interviewer to integrations marketplace"
+    excerpt: "Greenhouse offers businesses a complete suite of software and services for recruiting and onboarding, as well as a large partner ecosystem. Sapia CEO, Barb Hyman said that the partnership is a game changer for organizations that need to fill roles efficiently while giving every candidate an engaging and fair experience."
+    publishedDateTime: 2022-08-22T05:09:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/sapia-and-greenhouse-partnership-brings-world-first-ai-smart-interviewer-to-integrations-marketplace-1031696954"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 32
 
 secured: "TP7vaTmH9Nrth70KAqjXO14n56nxRMtQ3cuWhRmpVx1JjB1veeBBPWFB3JlIIW2WJIImPoOmtY00j0xpnIOloZ7OM8+b9FmxxdCyPVOemPUJ7mCoglUvsHi5LqlOCUNxFq/rRskoWc+ATFSm6veh3UDqBukrN9JiBZhtAUh01Doq/Tq5cMtS/I2m7npcx1tDN/lqgBzIKcwKvUizLrsdMsN2jSLzcNr4kZo+HdkKMC7Fs5uSzrBbQRyNXTBf0v2RtrjYm/FeZ77Mm1UfXYXu5zkyBQiYSd5nwfNVly7pHYrejF1iyRZ5N6wlgL8V3W4aQTg58c9m2sr5Qu4jT3iC5+tQBzX8cld9b74m4AxYV9o=;TW5DdYupzfnkdHCd70T/xg=="
 ---

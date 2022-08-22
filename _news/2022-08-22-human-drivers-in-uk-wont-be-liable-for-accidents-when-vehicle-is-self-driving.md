@@ -225,6 +225,20 @@ related:
         width: 1240
         height: 795
         isCached: true
+  - title: "Self-driving cars could be on UK roads by 2025"
+    excerpt: "The UK's roads could see self-driving vehicles rolled out by 2025 under new government plans backed by a 100 million pound ($118 million) investment."
+    publishedDateTime: 2022-08-22T03:58:00Z
+    webUrl: "https://www.thehansindia.com/auto/auto-news/self-driving-cars-could-be-on-uk-roads-by-2025-758748"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 24
+    images:
+      - url: "https://assets.thehansindia.com/h-upload/2022/08/22/1308950-self-driving-vehicles.jpg"
+        width: 1200
+        height: 720
+        isCached: true
   - title: "Self-driving vehicles without onboard drivers to join UK roads from 2025"
     excerpt: "Self-driving vehicles used for public transport or deliveries could travel on UK roads without a qualified human driver onboard from 2025, according to government plans. Vehicles with some self-driving features,"
     publishedDateTime: 2022-08-19T14:36:00Z
@@ -280,15 +294,6 @@ related:
       name: AOL
       domain: aol.com
     quality: 4
-  - title: "Self-driving cars could be on UK roads by 2025"
-    excerpt: "\"This enables the UK to take full advantage of the emerging market of self-driving vehicles -- which could create up to 38,000 jobs and could be worth an estimated 42 billion pounds,\" the UK government said in a statement."
-    publishedDateTime: 2022-08-21T20:27:00Z
-    webUrl: "https://news.webindia123.com/news/Articles/Science/20220822/3975345.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 4
   - title: "Self-driving vehicles could be on UK roads 'next year' creating thousands of jobs"
     excerpt: "The Department for Transport said the self-driving industry could create up to 38,000 jobs and be worth £42 billion."
     publishedDateTime: 2022-08-19T11:53:00Z
@@ -299,6 +304,6 @@ related:
       domain: dailyrecord.co.uk
     quality: 0
 
-secured: "IgGxKAL86+ZAIXcjOBpVb9FNF0+oaP895vIPzjkcpOousPsLmaS0JLvPhG+rkJHax0pgwNfJzR5F23eGn9bbGLC3OmFbPEhinTXmLFKS3B0sND0tAMtMuO5SizXFwmss1lIHrRrOl2e3wUb/NG8LXcyP3lbGrNu7GYldQWJU6rEXAKlL5qmbTsYJbZkaY/7UPh1LlAc0QBaqqHbCmqRunImJ8r3Fo/TaDatMI2PNrMzQ7hYZHXG33f6jCyIMda2EkFrA0W+FPsar+1/ay/FiR4DPctjymXFL+4zNErlj5YQ2AIgtGTi0V/NqkrxxCJR/3NgiPVuZyEAWNSgY92rqwSbKDq6vVurtZ0DA3VJCysk=;xk6xlqituD/ls4ZWe9MwsQ=="
+secured: "Rb6ltW9ezzwZNWUFiQe3UMGeZrma+U+fo4fSZ6fhgaiIvC6dBob+UueOzRjSXVHGAFa2hw4wSoFY/gdVr7KIIyit1djDHwgiGkmB9i0S1AHils16ev34TRlBhVP+GwdKYd+bhLICAU9/wwCqIkBwyf6/tGZUh5CEj3I6eVpVnW/q/pi9TSCMlXWJhLsVu1l858L6LU69t4D1eQ20LjNIV40Umgewlp5XwjOQictgMuQIM7WORz8sonOdCeaOx9nWdFDda11bOVGyUk69UzeykFDZ9wvU+0KR2PnkVMUd3Fb0+H6p0bzLiSz+SwJtqknq/xR3us7sPctsw7VBALQ3aJlTBAt0C2zmd9mHUdy/Vc/ZzbhdTXXbH6CwyUyRYt99ud+VXrRConghRvuB3zRlyz0ZeW0IPPwdlR0XEL+R9TbIBtPYYZZCII6scljXjAwrRb5qyD11piRaWJnGYdo3MgYJt1yIp/7X0FGYBEGmJhlt3fJW6cxHYwKvSHBpBIipnwX4EMOT8cnvtawouwHRrQ==;91dGEy2IeCPCq8EajXQW3w=="
 ---
 

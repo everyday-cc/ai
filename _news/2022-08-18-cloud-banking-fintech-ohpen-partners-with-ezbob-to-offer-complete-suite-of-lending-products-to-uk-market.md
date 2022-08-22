@@ -9,7 +9,7 @@ ampWebUrl: "https://bmmagazine.co.uk/in-business/cloud-banking-fintech-ohpen-par
 cdnAmpWebUrl: "https://bmmagazine-co-uk.cdn.ampproject.org/c/s/bmmagazine.co.uk/in-business/cloud-banking-fintech-ohpen-partners-with-ezbob-to-offer-complete-suite-of-lending-products-to-uk-market/?amp"
 type: article
 quality: 42
-heat: 42
+heat: -1
 published: false
 
 provider:
@@ -27,24 +27,31 @@ images:
     isCached: true
 
 related:
-  - title: "Alliant Credit Union Chooses Upstart for Personal Lending Fintech Partnership"
-    excerpt: "Alliant Credit Union, a fully digital, top 10 credit union in the U.S., recently announced that it has partnered with Upstart."
-    publishedDateTime: 2022-08-19T19:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/08/194955-alliant-credit-union-chooses-upstart-for-personal-lending-fintech-partnership/"
+  - title: "Israeli Fintech Vyzer Selects Salt Edge to Provide Open Banking Boost to Investment"
+    excerpt: "Vyzer, an Israeli-based fintech consumer focused startup, joined forces with Salt Edge, a key player in offering open banking solutions."
+    publishedDateTime: 2022-08-22T05:07:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/"
+    ampWebUrl: "https://www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/amp/"
+    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/amp/"
     type: article
     provider:
       name: Crowdfund Insider
       domain: crowdfundinsider.com
-    quality: 1
-  - title: "Alliant Credit Union Selects Upstart for a Personal Lending Fintech Partnership"
-    excerpt: "View the full release here:  \"We are very particular when we choose a fintech partner,\" said Charles Krawitz, Senior Vice President, Chief Capital Markets Officer & Head of Commercial Lending for Alliant Credit Union."
-    publishedDateTime: 2022-08-17T14:33:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-alliant-credit-union-selects-upstart-a-personal-lending-/2022/08/17/9657897.htm"
+    quality: 53
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2019/03/Israel-Tel-Aviv-2019.jpg"
+        width: 1280
+        height: 960
+        isCached: true
+  - title: "Global Alternative Investment Management Launches FinTech Fund II"
+    excerpt: "Appleton, Wis.-based private fund management company Global Alternative Investment Management has launched FinTech Fund II, which is available to Qualified Purchasers"
+    publishedDateTime: 2022-08-18T10:10:00Z
+    webUrl: "https://www.finsmes.com/2022/08/global-alternative-investment-management-launches-fintech-fund-ii.html"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 4
 
 secured: "h50gPvld02iEAtCG6g7gQ/gSaLJtesZKUOX2GloJ+AH7iuYAXp2PERvegXZOmd7/p3fJyxV2bwTQL+F/4VrWpWR67Yig9DtQpnyQ71SaLIx4Rzhajw3GykGjUm36KgVzGQhO367o9pz7+ZFQPtJSj+aTu9M8tyBsTedPPscKWBahGq7Xm5cPKoVOWS9lv8rhZ/h+oUPliwKPmbFlAHNvr6kcaY62tG3yA9oQAFB+lOFNSsZ4ZWuekHuBBH4qoW3W7TkPqq5xaCMwU9QW7qzFPdWj2nmHRAEA1s9nqyqrCMX4X9+SCQYHvHhTHK9GKWYZ3CA3s+/cYYOpa2Rmc70mi9Wpdw6g7EoPk4fJ/CmnE3QRPV4JmDlRSW7ldDH/xe5KVjQULzJs2D4pRjJdwosuR4BqW7WUMOV4t7XoBVjJXEgwSC7owm1A4ZJPxeyi3t5sTIQEPJe5g9zlemACeqKuUiS4ZTpDq4BHkNg1u+Bj/fUcTXMoJrBbxkEiDnz726tAx4hG69WZCPnVCNig/dmcvQ==;LPJTBsybxb4ZuKP0HTYXJQ=="
 ---

@@ -1,22 +1,28 @@
 ---
 category: news
 title: "Self-driving cars could be on UK roads by 2025"
-excerpt: "\"This enables the UK to take full advantage of the emerging market of self-driving vehicles -- which could create up to 38,000 jobs and could be worth an estimated 42 billion pounds,\" the UK government said in a statement."
-publishedDateTime: 2022-08-21T20:27:00Z
-originalUrl: "https://news.webindia123.com/news/Articles/Science/20220822/3975345.html"
-webUrl: "https://news.webindia123.com/news/Articles/Science/20220822/3975345.html"
+excerpt: "The UK's roads could see self-driving vehicles rolled out by 2025 under new government plans backed by a 100 million pound ($118 million) investment."
+publishedDateTime: 2022-08-22T03:58:00Z
+originalUrl: "https://www.thehansindia.com/auto/auto-news/self-driving-cars-could-be-on-uk-roads-by-2025-758748"
+webUrl: "https://www.thehansindia.com/auto/auto-news/self-driving-cars-could-be-on-uk-roads-by-2025-758748"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: The Hans India
+  domain: thehansindia.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://assets.thehansindia.com/h-upload/2022/08/22/1308950-self-driving-vehicles.jpg"
+    width: 1200
+    height: 720
+    isCached: true
 
 related:
   - title: "Britain sets out roadmap for self driving vehicle usage by 2025"
@@ -294,6 +300,6 @@ related:
       domain: dailyrecord.co.uk
     quality: 0
 
-secured: "9vjQHGwzc0ktlV2+0QsO6cTWVrxft/hf1X75Z0UEyHWJ+9k/nncWtkCj5MotlLGTxwtmUXF9bxJAyLCv0bAIL6B6K8ldP7oL1f5ElObyoIH+SGI+ZcgUM8HxQ3KpndxPmLPwc6nuZGwNLgmmOw8DzW/DyRpUTDVn6woC+P4UA/iBNe3tABxBc2qF8nXoOfkh3pZRJdi7kDzXAvJngGlgnQJAJzooxG0zIfx8xfJrYq0qtPdnUL1KMY3l3/ev1iqRcoWGRCtCZPlqMeosGpLW9SgkYfcj+levCwM3QgguoOKk+90kHHWWwECNRluvHTa06O2NoZziId2mzjs5Jzo3xm168twr2GS9mYk1Ql4PB3w=;WLXx0vwjBjBRLs26/AgvMg=="
+secured: "lHu1XU7fOKmOzu6nLs/Zwy+kAd46LIEWcvU0W+IWqxfJJz6xDFVocqBf0gFElFtIQkDGaPCeF/zC34gwm8ABmsz1CVAMlbBIbmuRFiZIVffRPHAGN+X1Vvz6SqXBtKgH0iqcrBHqLo+EJyPribqBjh1iCEaXRAn7/ZqPlDV1IXNOKWiJG5/0+uYM7G0ZFwFL6C96ufNMd/jwrVpDJgHB7oYRHSC4pY02H2nDmskXm2uA5kCPDZOqZkkMpYdKroekFZI79w9EB0Rva6KeDraGJSEcZNBjmtLSrydnVqJ/ggEvo3UZ9vWvOrVrQJkgAwWmKC7D3vgjjrfRjTVyJeFeZUSzTqY1pkUVm0yDJdE0fEM=;BIlMssDTMNNNgeJXIGP6Zg=="
 ---
 

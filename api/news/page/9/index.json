@@ -2,6 +2,149 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-08-10-use-computer-vision-to-measure-agriculture-yield-with-amazon-rekognition-custom-labels.md",
+      "title": "Use computer vision to measure agriculture yield with Amazon Rekognition Custom Labels",
+      "excerpt": "In the agriculture sector, the problem of identifying and counting the amount of fruit on trees plays an important role in crop estimation. The concept of renting and leasing a tree is becoming popular, where a tree owner leases the tree every year before the harvest based on the estimated fruit yeild.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-computer-vision-to-measure-agriculture-yield-with-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-computer-vision-to-measure-agriculture-yield-with-amazon-rekognition-custom-labels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T12:02:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-10-top-artificial-intelligence-ai-solutions-in-2022.md",
+      "title": "10 top artificial intelligence (AI) solutions in 2022",
+      "excerpt": "As AI-powered technologies continue to advance and more organizations adopt them, IT leaders must be sure to ask themselves how the solutions they choose fit into their goals as a business.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/",
+      "originalUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1131331897-e1655419471228.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/",
+      "publishedDateTime": "2022-08-10T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI",
+        "AI in Healthcare",
+        "Microsoft AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-researchers-embrace-artificial-intelligence-to-tackle-banana-disease-in-burundi.md",
+      "title": "Researchers Embrace Artificial Intelligence to Tackle Banana Disease in Burundi",
+      "excerpt": "A group of scientists involved in finding solutions to minimize the impact of a devastating banana virus in Burundi have developed an Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://iafrica.com/researchers-embrace-artificial-intelligence-to-tackle-banana-disease-in-burundi/",
+      "originalUrl": "https://iafrica.com/researchers-embrace-artificial-intelligence-to-tackle-banana-disease-in-burundi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://iafrica.com/wp-content/uploads/2022/08/8.jpeg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iafrica",
+        "domain": "iafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-the-importance-of-international-norms-in-artificial-intelligence-ethics.md",
       "title": "The Importance of International Norms in Artificial Intelligence Ethics",
       "excerpt": "Artificial intelligence has arrived as a multi-purpose tool. The United States and its allies need to do more to establish norms and ensure AI is used in a way that does not harm human rights.",
@@ -1021,143 +1164,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities.md",
-      "title": "Baidu rolls out driverless taxi service in two Chinese cities",
-      "excerpt": "Chinese autonomous vehicle maker launches commercial driverless robotaxi services in Wuhan and Chongqing this week, when the government has released its first draft guidelines on the deployment of self-driving vehicles in public transport.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities/",
-      "originalUrl": "https://www.zdnet.com/article/baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities/",
-      "publishedDateTime": "2022-08-10T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-self-driving-taxi-market-is-going-to-boom-easymile-waymo-navya.md",
-      "title": "Self Driving Taxi Market is Going to Boom | EasyMile, Waymo, NAVYA",
-      "excerpt": "Worldwide Self Driving Taxi Market In-depth Research Report 2021, Forecast to 2026 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/self-driving-taxi-market-is-going-to-boom-easymile-waymo-navya",
-      "originalUrl": "https://www.digitaljournal.com/pr/self-driving-taxi-market-is-going-to-boom-easymile-waymo-navya",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/Bitcoin-fintech-AFP-1K-01-e1642145563739-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-10T00:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-south-africas-dataprophet-closes-10m-to-scale-its-ai-as-a-service-platform-for-manufacturers.md",
-      "title": "South Africa’s DataProphet closes $10M to scale its AI-as-a-service platform for manufacturers",
-      "excerpt": "DataProphet provides prescriptive advice and suggested changes to manufacturers’ recipes to avoid making the defects that cause their products to be scrapped.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/10/south-africas-dataprophet-closes-10m-to-scale-its-ai-as-a-service-platform-for-manufacturers/",
-      "originalUrl": "https://techcrunch.com/2022/08/10/south-africas-dataprophet-closes-10m-to-scale-its-ai-as-a-service-platform-for-manufacturers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/Funding-Announcement.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/10/south-africas-dataprophet-closes-10m-to-scale-its-ai-as-a-service-platform-for-manufacturers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/10/south-africas-dataprophet-closes-10m-to-scale-its-ai-as-a-service-platform-for-manufacturers/amp/",
-      "publishedDateTime": "2022-08-10T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

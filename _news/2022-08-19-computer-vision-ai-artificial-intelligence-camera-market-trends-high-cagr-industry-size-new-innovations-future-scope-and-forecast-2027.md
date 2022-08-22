@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/computer-vision-ai-artif
 webUrl: "https://www.marketwatch.com/press-release/computer-vision-ai-artificial-intelligence-camera-market-trends-high-cagr-industry-size-new-innovations-future-scope-and-forecast-2027-2022-08-18"
 type: article
 quality: 64
-heat: 94
+heat: 84
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Technology Market: Latest Trends, SWOT Analysis, Growth, Size, Segmentation, Future Demands, by Regional Forecast to 2029"
-    excerpt: "Global \"Face Recognition Technology Market\" 2022: - Face Recognition Technology Market report discusses the market"
-    publishedDateTime: 2022-08-17T11:32:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-technology-market-latest-trends-swot-analysis-growth-size-segmentation-future-demands-by-regional-forecast-to-2029-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
