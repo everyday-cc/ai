@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-22T18:57:00Z
 originalUrl: "https://www.scmagazine.com/news/cloud-security/hackers-steal-credentials-by-building-phishing-pages-on-aws"
 webUrl: "https://www.scmagazine.com/news/cloud-security/hackers-steal-credentials-by-building-phishing-pages-on-aws"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: SC Media

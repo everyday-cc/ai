@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-22T16:00:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-22-scale-ai-announces-11-million-investment-into-adastra-x-taiga-building-products-supply-chain-optimization-project"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-22-scale-ai-announces-11-million-investment-into-adastra-x-taiga-building-products-supply-chain-optimization-project"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Daily Herald
@@ -13,6 +16,47 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "SCALE AI announces a major financing round in artificial intelligence: $50 million to support 12 new projects"
+    excerpt: "CNW Telbec/ - With an additional 12 projects representing more than $50 million in investments announced today by SCALE AI, artificial intelligence (AI) is continuing on its path of rapid"
+    publishedDateTime: 2022-08-22T15:28:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28587177/scale-ai-announces-a-major-financing-round-in-artificial-intelligence-50-million-to-support-12-new"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28587177"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28587177"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 53
+    images:
+      - url: "https://mma.prnewswire.com/media/1882672/Scale_AI_SCALE_AI_announces_a_major_financing_round_in_artificia.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "SCALE AI announces a major financing round in artificial intelligence: $50 million to support 12 new projects"
+    excerpt: "With an additional 12 projects representing more than $50 million in investments announced today by SCALE AI, artificial intelligence (AI) is continuing on its path of rapid adoption by Canadian industry leaders."
+    publishedDateTime: 2022-08-22T17:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/08/22/9660109.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/1882672/Scale_AI_SCALE_AI_announces_a_major_financing_round_in_artificia.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "CathVision Announces $7.2 Million Financing Round Close"
+    excerpt: "The company will use the funding to pursue advanced commercial operations for the ECGenius System and develop its AI-powered analytic modules."
+    publishedDateTime: 2022-08-18T18:29:00Z
+    webUrl: "https://www.mddionline.com/technologies/cathvision-announces-72-million-financing-round-close"
+    type: article
+    provider:
+      name: MD&M East
+      domain: mddionline.com
+    quality: 4
 
 secured: "xWUT195C1IntqKX+bMfoONAwx4D3f4Lcjr+CggBpbwnKcp/GfLxfyMGi6zmZXexCAfbvvJnR4SSm6PHSdwY4EQIV1CKrR2G4ouzCqbY007sIUObWLAegJx2i14nNekIn4CTcCdCGdKBCIv1RTnw+CqncagEB4+U8cY4nA3qmr3kh8dBp1CClSMcccAMruvt0HxixEl0pJGnSthBFMXKxJ5OAFGWQYslsEDS0T7JG+7V3S75pXphmqYZB5o+7fykoZ5FD2orjW1MNvI1TGJSNe8A5qFSukukVupNVkKop/bX8x1ZpjZc6ZR3FEEDxNOvAEA/VAy08TNdPEx2qJDwXCwkspOtRIty7tqEholBVjGk=;xU/Ty3rmGCc9y4rCkJIX+A=="
 ---

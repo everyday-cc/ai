@@ -1,26 +1,28 @@
 ---
 category: news
 title: "SCALE AI announces a major financing round in artificial intelligence: $50 million to support 12 new projects"
-excerpt: "Hélène Desmarais, Co-Chair of the Board of Directors, SCALE AI, adds: \"SCALE AI is pleased to support the development of artificial intelligence by and for Canadian companies, for the benefit of Canadian society. The collaboration between players in this ..."
-publishedDateTime: 2022-08-22T15:30:00Z
-originalUrl: "https://www.newswire.ca/news-releases/scale-ai-announces-a-major-financing-round-in-artificial-intelligence-50-million-to-support-12-new-projects-818168758.html"
-webUrl: "https://www.newswire.ca/news-releases/scale-ai-announces-a-major-financing-round-in-artificial-intelligence-50-million-to-support-12-new-projects-818168758.html"
+excerpt: "CNW Telbec/ - With an additional 12 projects representing more than $50 million in investments announced today by SCALE AI, artificial intelligence (AI) is continuing on its path of rapid"
+publishedDateTime: 2022-08-22T15:28:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28587177/scale-ai-announces-a-major-financing-round-in-artificial-intelligence-50-million-to-support-12-new"
+webUrl: "https://www.benzinga.com/pressreleases/22/08/n28587177/scale-ai-announces-a-major-financing-round-in-artificial-intelligence-50-million-to-support-12-new"
+ampWebUrl: "https://www.benzinga.com/amp/content/28587177"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28587177"
 type: article
-quality: 33
-heat: -1
-published: false
+quality: 53
+heat: 83
+published: true
 
 provider:
-  name: Newswire
-  domain: newswire.ca
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1882672/Scale_AI_SCALE_AI_announces_a_major_financing_round_in_artificia.jpg?p=facebook"
-    width: 600
-    height: 314
+  - url: "https://mma.prnewswire.com/media/1882672/Scale_AI_SCALE_AI_announces_a_major_financing_round_in_artificia.jpg"
+    width: 400
+    height: 400
     isCached: true
 
 related:
@@ -47,7 +49,16 @@ related:
       name: MD&M East
       domain: mddionline.com
     quality: 4
+  - title: "SCALE AI announces $1.1-million investment into Adastra x Taiga Building Products Supply Chain Optimization Project"
+    excerpt: "Adastra, a global leader in AI and machine learning, is proud to announce that it has been awarded a $1.1-million investment from SCALE AI to support a supply chain optimization platform project for their partner Taiga Building Products."
+    publishedDateTime: 2022-08-22T16:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-22-scale-ai-announces-11-million-investment-into-adastra-x-taiga-building-products-supply-chain-optimization-project"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
-secured: "1WMOJOfl4F4eoynEg7y7b/ng6M1OqoY03Spfj2mpKyUXUV54QW/6KiitkhovxQoCd0mg1ExlpS6Hz/D4b+zF/oHRwGU/QzgtlKWB35JZBhfuOpJxWxPi0HkpMFrVm51qQa72INtrGJG2wMXvz3hAYGhSSy6vDH66lAW42MZ6PcZCA55AoVVWgheFFp4MUGWni+yExYa9QT4/obEtGUfJRAMsrvntHMxdYEQziybCHQpzAV/zuzDF6A2nEmBKODFaonvyvZHdG/+WMBWklMA0plQCi/179KGy9IApUB1H2E9XITJAMjznbdb//hC8OsOPyqKDu7ktBBclLNCh0UJ47b1EiewjhFkDPC6/qkcQLVQ=;TPrFZWOrKT2OTylKyY+mdg=="
+secured: "NgO5CEk+iMkoQUQMWgL0j83X20/OWVeaUkZPA5P4LexYjniczrwSw52Q7aiO2mNdWGzzR++Cn68IvcpI8csEccxW5EI2JgmS+sN/wc5OZ04To4+XUU4soohVEkZvic9vMr602rElIOzGz0Xn9dAZKfUGYW4SaY2lmiFpt5DZUyC+2QS+x8vAB/VKzbC/86a4Y8ght3L7nRfZXcscQKWqo3qbzeLJZej0sam8yL3NgdBsMlmCVmpNSPRrKsBPWUHkBu5bpD895geCM17+OxelyMXYvJA3cV4CzFtGYVwsmsmEKpqG+9Wnr0esOeNufTVnVfnbaUVZJZHzjt8e7I+LEcGOUOWLymWBFlFMNbNmF18=;l+uytNQwzoNuDroVtNGXpg=="
 ---
 

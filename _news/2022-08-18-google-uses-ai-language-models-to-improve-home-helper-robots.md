@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-uses-ai-language-mod
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-uses-ai-language-models-to-improve-home-helper-robots/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,22 @@ images:
     isCached: true
 
 related:
+  - title: "Google Gave Its Helper Robots AI Language Skills to Better Work With Humans"
+    excerpt: "Google has started to close the gap by marrying the latest language AI with state-of-the-art robots ... created new control software that taps into PaLM’s language skills to translate spoken or written commands from a human into the actions required ..."
+    publishedDateTime: 2022-08-22T14:00:00Z
+    webUrl: "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/"
+    ampWebUrl: "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1"
+    cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1"
+    type: article
+    provider:
+      name: Singularity Hub
+      domain: singularityhub.com
+    quality: 74
+    images:
+      - url: "https://singularityhub.com/wp-content/uploads/2022/08/Google-everyday-robots.jpg"
+        width: 1068
+        height: 601
+        isCached: true
   - title: "Google enhances its home assistance robots using AI language models"
     excerpt: "Large-scale language models are being used by Everyday Robots‘ research team to ensure that robots don’t misinterpret human speech and act inappropriately or even dangerously. SayCan (language models with real-world foundation in pre-trained skills) and PaLM (Pathways Language Model),"
     publishedDateTime: 2022-08-18T12:24:00Z

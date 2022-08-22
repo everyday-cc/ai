@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-22T19:47:00Z
 originalUrl: "https://www.tdworld.com/smart-utility/article/21249126/keeping-the-grid-alive-with-ai-amidst-extreme-summer-heat"
 webUrl: "https://www.tdworld.com/smart-utility/article/21249126/keeping-the-grid-alive-with-ai-amidst-extreme-summer-heat"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: T&D

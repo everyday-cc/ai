@@ -37,6 +37,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Machine Vision Market Report 2022-2027: Industry Growth, Top Companies Share, Size, and Forecast"
+    excerpt: "According to the latest report by IMARC Group, titled \"Machine Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,\" the global machine vision market size reached a value of US$ 11."
+    publishedDateTime: 2022-08-18T06:42:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-vision-market-report-2022-2027-industry-growth-top-companies-share-size-and-forecast-2022-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI In Aviation Market Size and Growth 2022 Analysis Report by Types, Opportunities, Future Plans, Types, Application and Forecast to 2028"
     excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI In Aviation Market” 2022"
     publishedDateTime: 2022-08-18T07:29:00Z

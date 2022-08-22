@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-22T13:35:00Z
 originalUrl: "https://apnews.com/press-release/news-direct-corporation/technology-science-vietnam-hanoi-artificial-intelligence-4a39a4301a6cf5fc41a37279abc73336"
 webUrl: "https://apnews.com/press-release/news-direct-corporation/technology-science-vietnam-hanoi-artificial-intelligence-4a39a4301a6cf5fc41a37279abc73336"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Associated Press

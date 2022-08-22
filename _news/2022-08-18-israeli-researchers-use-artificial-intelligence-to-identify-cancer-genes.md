@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Pagaya Technologies fall 12% as Israeli AI tech company's post-earnings swoon continues."
+    excerpt: "Pagaya Technologies shares fell more than 12% Monday as the Tel Aviv-based artificial technology company continued to lose more ground following its second-quarter results."
+    publishedDateTime: 2022-08-22T18:50:00Z
+    webUrl: "https://seekingalpha.com/news/3875508-pagaya-technologies-fall-12-as-israeli-ai-tech-companys-post-earnings-swoon-continues"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 8
+
 secured: "EgEVfLLc7ulzFxu3qSYPcArsPhowEcUIYBpoQqcWZZylpfwUAgm2I0otnBBFBKqhUcAzlAT1NqYXS50UVEjPlAe7BfXouSjROGJS/ZYeYJlkn8WO1soilP+SvcDAN2RxVM4fx4MWA41rmsUV0F6xE3ZvAzXv07LtGsjOq0R+LZ9NaEyjgNg4w1KBPSPexuwb2iVdbF+2kX816U1+hIamtm/GkOpGr0+4vQLUlrhNmlQwYaR/1ZaNurCJ9gDGh9sgZzmFniTi/eoXBeNJrtKIahZAY2LFfCmYCKvPgVy/ajtV0zdpYRFn1RyQVOeZ9GuG0zizcdAb0+oFNKB6/T9HgoeqqTj39Un+oAqwPb83giF1hng/TeAjasDhy9Udn5S++zPVqNlQ3xVgSk5+lRmnuzuXHgCdpVDKdeyUIR9gBywExbx6JdBVcdzCnXY6kcPjvixjPfqpg8DAaYR8qVlgDH2rS60xG7BpqrRDODN1r8dN85i02SqK0e4ijL73cXlTayzV2UWpi0svLEVZV326eg==;m5RyGdGzupt8sbTs10p9BQ=="
 ---
 

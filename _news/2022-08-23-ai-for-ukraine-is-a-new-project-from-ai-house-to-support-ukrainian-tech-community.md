@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-22T17:12:00Z
 originalUrl: "https://www.datanami.com/this-just-in/ai-for-ukraine-is-a-new-project-from-ai-house-to-support-ukrainian-tech-community/"
 webUrl: "https://www.datanami.com/this-just-in/ai-for-ukraine-is-a-new-project-from-ai-house-to-support-ukrainian-tech-community/"
 type: article
-quality: 12
-heat: 12
+quality: 14
+heat: 14
 published: false
 
 provider:

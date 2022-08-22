@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-22T18:19:00Z
 originalUrl: "https://www.livemint.com/opinion/columns/ai-is-yet-to-learn-the-contextual-nuances-of-what-we-say-11661187006053.html"
 webUrl: "https://www.livemint.com/opinion/columns/ai-is-yet-to-learn-the-contextual-nuances-of-what-we-say-11661187006053.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Mint

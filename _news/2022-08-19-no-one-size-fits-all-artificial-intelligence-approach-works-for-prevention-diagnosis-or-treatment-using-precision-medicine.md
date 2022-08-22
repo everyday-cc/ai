@@ -40,20 +40,6 @@ related:
         width: 1920
         height: 875
         isCached: true
-  - title: "No One-Size-Fits-All Artificial Intelligence Approach Works for Prevention, Diagnosis or Treatment Using Precision Medicine"
-    excerpt: "Precision medicine is one of the most trending subjects in basic and medical science today,” said Zeeshan Ahmed, an assistant professor of medicine at Rutgers Robert Wood Johnson Medical School who led the study,"
-    publishedDateTime: 2022-08-18T15:06:00Z
-    webUrl: "https://www.rutgers.edu/news/no-one-size-fits-all-artificial-intelligence-approach-works-prevention-diagnosis-or-treatment"
-    type: article
-    provider:
-      name: Rutgers University
-      domain: rutgers.edu
-    quality: 11
-    images:
-      - url: "https://www.rutgers.edu/sites/default/files/ai.gif"
-        width: 2880
-        height: 1568
-        isCached: true
 
 secured: "iW//TkZNCmiLSsAecNlmY9xQJdbfYPudduVCnAmzJTHGFB19s7aCMJ9OjlladOC+fgow5uyz6bqj20rUlNviNGA1f3VfqVwohnnVze0laH4kFIDVVmnEAWXg34S1lJMl1rSv9BlYLuqAb+Ar0KS5c7vAc+1X2E+YDB0glzjBRFh8TWQKrqRQYFlRT/s9jkKUW8pBUjCfPwIZatLzhE+gqFYmiE+ZaHOb/XZJk/zohLW/AoX31QF0n5rPI3fKhMF7Ha9b3wv7V57A4IVOtpgy8+TvBqdOO2mnJ1SKMFsdQ8NGUMpWmRQvZirr0Mn4HPO3NXCb6OHmaBnvTBJJdTK7Q/0lkvMcAow3cpx7/Ge568U=;Ns5ql8BA833wQW0nlBNO5Q=="
 ---

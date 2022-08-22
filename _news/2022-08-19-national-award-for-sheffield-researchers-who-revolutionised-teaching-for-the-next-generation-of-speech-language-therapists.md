@@ -7,7 +7,7 @@ originalUrl: "https://www.sheffield.ac.uk/news/national-award-sheffield-research
 webUrl: "https://www.sheffield.ac.uk/news/national-award-sheffield-researchers-who-revolutionised-teaching-next-generation-speech-language"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,17 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Empowering the Next Revolution"
+    excerpt: "Tosoh Bioscience’s recent strategic investments in SkillPak prepacked chromatography columns and multicolumn chromatography (MCC) technology."
+    publishedDateTime: 2022-08-22T18:24:00Z
+    webUrl: "https://bioprocessintl.com/sponsored-content/skillpak-chromatography-columns-empowering-the-next-revolution/"
+    type: article
+    provider:
+      name: BioProcess International
+      domain: bioprocessintl.com
+    quality: 4
 
 secured: "5j7+cD2bmvvrBdA8jn8f0It1wUG7X63DOgV/u3sxwfITo67EZ6OjY9MQmz1bZsvhiMDbp5uHEsn9GiHrGZy2Pibi1t7Hq/GwMx9LH/lju63wDn1VlabYURosufbxJTihQAzSDP5bcPuLly4wORHsNwLiKljz1iGuJDv1dF60nmSC5vGZsmBlnISvEwC2iKfTN8WE+ZdJOfZQiSyfRR5C7kl2Jz6XSA3gj1BxNFh88EhF+iALqZdvZT95RpwLicEUZqDXuwWoMt/1Y48T3FBoH8G6zJ9ajq/Tvrc4M5K47oOtL0otfeaXYadlSMWNf1zbTyN+PBpiB1mF6OZ0g0U1onpBuPOUjFlJztNCWEtF++qF/FhYQOEjKYRFZg/AdoFweLuIT+I2/4OFApV3c8ojQIQpOp0VACj7QHrj9nbmamjwMuiFO1y6lV1lMzFiiPEGZ0M9KyexcU2FdriMVlaUcfrkwjgqtirUgw+mV77zp7UKy2x+e4Yl1deMT+UBDTQEhQ9hAyPxz6xMUM+V17LDDw==;jLE6zrhNxZFju+xGVpvTEg=="
 ---

@@ -24,6 +24,17 @@ images:
     height: 627
     isCached: true
 
+related:
+  - title: "New Research From Dataiku Suggests UK Enterprises Are Moving Towards Everyday AI"
+    excerpt: "According to data collected from attendees at Dataiku 's June 2022 Everyday AI Conference in London , while the ability to extract insights from data still lives largely with data teams or data-centred roles,"
+    publishedDateTime: 2022-08-22T19:58:00Z
+    webUrl: "https://menafn.com/1104737109/New-Research-From-Dataiku-Suggests-UK-Enterprises-Are-Moving-Towards-Everyday-AI"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 12
+
 secured: "TtPkKuE0rtK8akpYJzc+sshNSGlJPd7tNQ6IFusPzcO8Kv62gJDbjLRwmHe+AkQm04PSb5HTNU3k72WHwUYB+9Yj/3ziHY+zhRTSj4j9NzAYiozBkOmDsXYsnGamzIOworxXT1TIzWIkcbmCZtAfuPAl5TTnpAnvxPYNvYWhusFTO65Un5sRnAh+yuNV1/nN6jnlNHfFeRvUA2/4LuAeTm9D4flpFWbTo/cpC8GnHM+ImtXJ7ZT3VbSujk5x23YbmSaymLjb28bCnKKCKk/EQjC/AAE2RmJy9buDjlxDG6i6015UlMOO1ptNiHJe8idPXlryl53gcKVsDVpfM20yMQ/arHpOr3AxB5Udj0B5sP0=;PYmI0noNiTnX5qyMhLtZyw=="
 ---
 

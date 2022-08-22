@@ -7,7 +7,7 @@ originalUrl: "https://www.businessghana.com/site/news/technology/269090/Facebook
 webUrl: "https://www.businessghana.com/site/news/technology/269090/Facebook-is-losing-its-grip-as-a-‘Top-10’-app-as-BeReal-and-TikTok-grow"
 type: article
 quality: 24
-heat: 24
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,55 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "Amazon testing TikTok-style feed on its app, AI firm says"
+    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform.The"
+    publishedDateTime: 2022-08-21T17:14:00Z
+    webUrl: "https://whdh.com/entertainment/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says-2/"
+    ampWebUrl: "https://whdh.com/entertainment/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says-2/amp/"
+    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/entertainment/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says-2/amp/"
+    type: article
+    provider:
+      name: WHDH
+      domain: whdh.com
+    quality: 59
+    images:
+      - url: "https://whdh.com/wp-content/uploads/sites/3/2022/04/pexels-photo-3766218.jpeg?quality=60&strip=color&w=1024"
+        width: 1024
+        height: 682
+        isCached: true
+  - title: "Amazon testing TikTok-style feed on its app, AI firm says"
+    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."
+    publishedDateTime: 2022-08-19T23:05:00Z
+    webUrl: "https://www.star-telegram.com/news/nation-world/national/article264624466.html"
+    ampWebUrl: "https://amp.star-telegram.com/news/nation-world/national/article264624466.html"
+    cdnAmpWebUrl: "https://amp-star--telegram-com.cdn.ampproject.org/c/s/amp.star-telegram.com/news/nation-world/national/article264624466.html"
+    type: article
+    provider:
+      name: Fort Worth Star-Telegram
+      domain: star-telegram.com
+    quality: 39
+  - title: "Amazon testing TikTok-style feed on its app, AI firm says"
+    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."
+    publishedDateTime: 2022-08-21T04:42:00Z
+    webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article264624466.html"
+    ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article264624466.html"
+    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article264624466.html"
+    type: article
+    provider:
+      name: The Sun News
+      domain: myrtlebeachonline.com
+    quality: 37
+  - title: "Amazon Testing TikTok-Style Feed On Its App, AI Firm Says"
+    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."
+    publishedDateTime: 2022-08-19T16:19:00Z
+    webUrl: "https://www.news9.com/story/62ffb82b525191072cda0b1a/amazon-testing-tiktokstyle-feed-on-its-app-ai-firm-says"
+    type: article
+    provider:
+      name: News9
+      domain: news9.com
+    quality: 19
 
 secured: "M6TE3g/qVUMGa7KhuAL8GGaenIcLKFGo8/tG9uyfM7ntNwc5DgTmU3EBItDvNvvsYZQ3X532ZZ2V/hd20lcSzB84yAYdBXdx5BCpd4CoSVjBbArwR4vAMHGPJ+yTpnTNup4+PTNd9udTT5Ji2LuQziJbLEvob935mknViG+p5KWxIKebW20r5qnl/2far/9gwrTpudWVAPJc6SLaXBtvc/loosjOo/u+QEH6yvD+fqMTaGofH1QVy8zXYHkaJhsPDB+kKQZFtlViqV/yzxR47Ph9fPb+OH4u/dudsMkXGYXeQtXBwZV9ITPmlT2kAj7y9xVdVA7D4Ak2fRHXG59j0fpXysLSYpXdwBdUYHfiZADhh6g4tcphHuKdDtFSDz0SYaAQGfvDeL7CAUEgrs9syn2ewF2zfcHKZJeJI0q7bTMbB5xXAaVnNXV5Rsd9L5OezLxuH5aJ7EUrMts9g4fyEK/+7YPYe4Kk0HbrjFZLUV936MYfiMTKV6RJ7T1YjigU7ID01JG3I+KTYbIt/JJLRg==;StRTfbl0+Mgn1BMUfb1Z+g=="
 ---

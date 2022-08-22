@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Amazon testing new TikTok-style feature on its app, AI firm says"
-    excerpt: "The feature, called Inspire, allows customers to like, save and share posts of products, and purchase items directly from the feed."
-    publishedDateTime: 2022-08-18T03:40:00Z
-    webUrl: "https://www.whas11.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
-    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
-    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
-    type: article
-    provider:
-      name: WHAS11 News
-      domain: whas11.com
-    quality: 59
-    images:
-      - url: "https://media.whas11.com/assets/CCT/images/e3e15506-7b16-49cb-8cc1-aff6d305ea71/e3e15506-7b16-49cb-8cc1-aff6d305ea71_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
   - title: "Amazon testing TikTok-style feed on its app, AI firm says"
     excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform.The"
     publishedDateTime: 2022-08-21T17:14:00Z
@@ -73,6 +57,20 @@ related:
       name: The Sun News
       domain: myrtlebeachonline.com
     quality: 37
+  - title: "Facebook is losing its grip as a ‘Top 10’ app as BeReal and TikTok grow"
+    excerpt: "Facebook this year has been struggling to maintain its position among the Top 10 apps on the U.S. App Store, according to an analysis of iPhone"
+    publishedDateTime: 2022-08-22T03:32:00Z
+    webUrl: "https://www.businessghana.com/site/news/technology/269090/Facebook-is-losing-its-grip-as-a-‘Top-10’-app-as-BeReal-and-TikTok-grow"
+    type: article
+    provider:
+      name: BusinessGhana
+      domain: businessghana.com
+    quality: 24
+    images:
+      - url: "https://www.businessghana.com/site/img/../../cms/img/news/2022-08-20-0941015.jpg"
+        width: 800
+        height: 600
+        isCached: true
 
 secured: "tBZv13zRCXMoY9kY2+QDtpsHkaM3RSu/dSLG7JWa+oTNqlJk+qqw0UJveikqb9ux6rs0sK8AGkzb79r2H9gZPZaa5dkbWJCd6mr7/TyGCFYxZC78lbG45nx9Fy/9pwr0VKx7nB6R0uKG0+5cRGqkzcqTKuEm3ym9P3vqo7g3Zke+liWkJzoJ+SmA0Zjf0jNdqp3phfjCb/hwf4ppPsax23d+vMvNMYV8J0Sg/i3IRZ5EXkqi0nYZNNTBTT5DM/o5O+Rmzl+SnU7h4yqkaL2+Zl3LbkfxUuczpOz5ox1QOnE4WNdIhD85jJ+opGACRwlFJ+hs8y5JO9BB4iWKsgKPa7X7B0+/gt67JYK1EOR3TS6YiGn6r8SkIu6x6CkWlkqtGpjgsGsfYsi44UnAwdWdNF11meOAMBMDPJYsMkGKt8QAGJqeWmbZLuE5NESyDneqGMzeFiSAmpMI8NMwOSsbvJAi86zYWko+dofSvqbBQ/lR0EsG73MEm92BOd+FJINb1QkbJtL36qI+mt5fS/3vmw==;0MOcYlCyWgbklDsFPECO+w=="
 ---

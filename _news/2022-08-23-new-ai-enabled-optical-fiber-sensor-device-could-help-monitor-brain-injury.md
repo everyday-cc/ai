@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-22T18:03:00Z
 originalUrl: "https://medicalxpress.com/news/2022-08-ai-enabled-optical-fiber-sensor-device.html"
 webUrl: "https://medicalxpress.com/news/2022-08-ai-enabled-optical-fiber-sensor-device.html"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Medical Xpress

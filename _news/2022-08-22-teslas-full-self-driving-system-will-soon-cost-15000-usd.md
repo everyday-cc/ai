@@ -49,6 +49,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk says Tesla is raising the price of its full self-driving feature to $15,000"
+    excerpt: "Despite the name, the technology does not allow Tesla vehicles to drive themselves without human participation."
+    publishedDateTime: 2022-08-22T21:32:00Z
+    webUrl: "https://www.nbcnews.com/business/autos/tesla-full-self-driving-capability-price-hike-rcna44290"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna44290"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna44290"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 97
+    images:
+      - url: "https://iframe.nbcnews.com/amp169/thumbnail"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Podcast: Tesla Full Self-Driving Beta test, VPP event, Tesla Semi, and more"
     excerpt: "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. This week, we discussed our Tesla Full Self-Driving Beta test, Tesla’s first VPP event,"
     publishedDateTime: 2022-08-19T19:33:00Z
@@ -155,6 +171,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "Tesla raises price of feature it calls 'full self-driving' to $15,000"
+    excerpt: "Tesla is raising the price of its controversial driver-assist feature it calls \"full self-driving\" to $15,000."
+    publishedDateTime: 2022-08-22T18:52:00Z
+    webUrl: "https://www.cnn.com/2022/08/22/business/tesla-fsd-price-increase/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 64
   - title: "YouTube removes video of Tesla fans using kids to test whether the carmaker's Full Self-Driving software stops for children"
     excerpt: "An curved arrow pointing right. YouTube removed a video that showed Tesla fans testing out with real children whether the carmaker's Full Self-Driving (FSD) software would stop for kids. The video was posted by Whole Mars Blog's on YouTube last week after ..."
     publishedDateTime: 2022-08-22T15:40:00Z
@@ -397,6 +422,15 @@ related:
     provider:
       name: TweakTown
       domain: tweaktown.com
+    quality: 19
+  - title: "Tesla Increases Full Self-Driving Price as Regulators Close In"
+    excerpt: "Despite what the name would infer, Tesla's Full Self-Driving setup is not yet fully autonomous, requiring vehicle occupants put their hands on the steering wheel periodically and"
+    publishedDateTime: 2022-08-22T19:01:00Z
+    webUrl: "https://www.motortrend.com/news/tesla-full-self-driving-price-increase-regulators/"
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
     quality: 19
   - title: "Tesla Is Doubling Down on ‘Full Self-Driving.’ Ralph Nader Wants It Recalled."
     excerpt: "Tesla is hiking the price of its sometimes controversial driver-assistance software it calls Full Self-Driving."
