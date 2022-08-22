@@ -41,17 +41,6 @@ related:
         width: 1000
         height: 355
         isCached: true
-  - title: "Gallium oxide crystal complexity tamed by machine learning"
-    excerpt: "Researchers at the University of Liverpool, the University of Bristol, University College London (UCL), and Diamond Light Source have developed new understanding of gallium oxide by combining a machine-learning theoretical approach with experimental results."
-    publishedDateTime: 2022-08-17T14:42:00Z
-    webUrl: "https://phys.org/news/2022-08-gallium-oxide-crystal-complexity-machine.html"
-    ampWebUrl: "https://phys.org/news/2022-08-gallium-oxide-crystal-complexity-machine.amp"
-    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-gallium-oxide-crystal-complexity-machine.amp"
-    type: article
-    provider:
-      name: Phys.org
-      domain: phys.org
-    quality: 39
 
 secured: "Q+M/qKlkIW/gMCsWFoZNjNqA1jgZRiBqd6QY72LlaLGX34JfL67tQdtfPfmky535eo1wg6k+HXXjPpkO8ucFfPKWoFU7vaTOO6cH3GnVcmXt80DN8YG2f8fCEbDPZNGUbsKF2HTplGeNVyh/2hC3OaP2y15E7mksh7SY+DoAF+LZJapucH5sVoawkF33l4QBJHhGbo0JnjBLLtJoASFiAVIe0jEh/l8XWe+KvAx6F7fzSyjtrV7AwC/Ge7o+7pkgAUhhkLzktWUBLcrh8E1vejaKAOyxqyu+g2jHeVKSdqTn2k52NKvCgtOsSWujTAFK0QJuMfJVXxQL4sFrdFk8ASp16THRFzAdI0tVtoj0se6yOxcRywxpfWTrxDRuB9x74FimtrWyMTd+TWAb1CGTdJmMu1c2oB5BkCz7jkgBnSvg9jQJRAmRze88cn/jLQo+tRm7VLZ8pc+OAW0o2Y8K3cS0rpzS9EbxjOtLdZX4PH13F+CM2ch6itdf/d3mi9nv3MMDhPgdsyGJm2VPNCvVHg==;eeGmn4OooyOAMIiz0YSpsA=="
 ---

@@ -23,37 +23,33 @@ topics:
   - AI
 
 related:
-  - title: "Top 4 AI-based Face Recognition Applications"
-    excerpt: "Besides mobile face recognition, voice recognition is also used to enhance security. The user’s voice and face work as a password and is like the biometric key to unlocking all the apps. AppLock amalgamates the speaker and face recognition technology to ..."
-    publishedDateTime: 2022-08-17T13:31:00Z
-    webUrl: "https://techbullion.com/top-4-ai-based-face-recognition-applications/"
-    ampWebUrl: "https://techbullion.com/top-4-ai-based-face-recognition-applications/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-4-ai-based-face-recognition-applications/amp/"
+  - title: "Computer Vision AI (Artificial Intelligence) Camera Market Trends, High CAGR, Industry Size, New Innovations, Future Scope and Forecast 2027"
+    excerpt: "For building the significant Computer Vision AI (Artificial Intelligence) Camera market analysis report, a combination"
+    publishedDateTime: 2022-08-18T19:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-ai-artificial-intelligence-camera-market-trends-high-cagr-industry-size-new-innovations-future-scope-and-forecast-2027-2022-08-18"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 76
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 64
     images:
-      - url: "https://techbullion.com/wp-content/uploads/2022/08/Some-popular-face-recognition-apps.jpg"
-        width: 918
-        height: 600
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "LSU professor creates AI-based startup focused on space exploration"
-    excerpt: "LSU physics professor Jeffery Chancellor has launched Atlantis Industries, a startup that uses artificial intelligence to help design and build satellites and other items for space exploration, according to a university announcement."
-    publishedDateTime: 2022-08-17T19:53:00Z
-    webUrl: "https://www.businessreport.com/business/lsu-professor-creates-ai-based-startup-focused-on-space-exploration"
-    ampWebUrl: "https://www.businessreport.com/business/lsu-professor-creates-ai-based-startup-focused-on-space-exploration?amp=1"
-    cdnAmpWebUrl: "https://www-businessreport-com.cdn.ampproject.org/c/s/www.businessreport.com/business/lsu-professor-creates-ai-based-startup-focused-on-space-exploration?amp=1"
+  - title: "Deep Learning Camera Market 2022 - Industry Size, Statistics Data, Top Operating Vendors and Forecast to 2028"
+    excerpt: "The report encompasses the inside & out the objective analysis and the global Deep Learning Camera market components and requests that give the business an entire situation. The report also contains a brief assessment of the end-customer enterprises,"
+    publishedDateTime: 2022-08-18T00:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-camera-market-2022---industry-size-statistics-data-top-operating-vendors-and-forecast-to-2028-2022-08-17"
     type: article
     provider:
-      name: Baton Rouge Business Report
-      domain: businessreport.com
-    quality: 57
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
     images:
-      - url: "https://s25562.pcdn.co/wp-content/uploads/2022/08/iStock-1248873601.jpg"
-        width: 1365
-        height: 768
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
   - title: "AI In Aviation Market Size and Growth 2022 Analysis Report by Types, Opportunities, Future Plans, Types, Application and Forecast to 2028"
     excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI In Aviation Market” 2022"
@@ -69,29 +65,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Auditoria.Al Tops the Constellation ShortList of AI-Driven Cognitive Applications for the Third Year in a Row"
-    excerpt: "Constellation predicts that the total market for this autonomous enterprise market, including cognitive applications ... and collaboration tools such as Microsoft 365 and Google Workspace."
-    publishedDateTime: 2022-08-17T15:07:00Z
-    webUrl: "https://www.digitaljournal.com/pr/auditoria-al-tops-the-constellation-shortlist-of-ai-driven-cognitive-applications-for-the-third-year-in-a-row"
+  - title: "AI in computer vision Market Growth Drivers 2021, Industry Share, Size, Key Players Strategies, Future Investments and SWOT Analysis till 2027"
+    excerpt: "AI is the capability of machines to carry out intellectual function such as cogitation, perceiving, learning, investigative and decision taking. Factors such as thriving need for quality automation, growing demand for computer vision systems in advanced and arising applications,"
+    publishedDateTime: 2022-08-18T06:15:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-growth-drivers-2021-industry-share-size-key-players-strategies-future-investments-and-swot-analysis-till-2027-2022-08-18"
     type: article
     provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 20
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/FBI-TRUMP-Mar-a-Lago-search-AFP-1K-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Auditoria.Al Tops the Constellation ShortList of AI-Driven Cognitive Applications for the Third Year in a Row"
-    excerpt: "Constellation predicts that the total market for this autonomous enterprise market, including cognitive applications ... and collaboration tools such as Microsoft 365 and Google Workspace."
-    publishedDateTime: 2022-08-17T17:56:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56834973-auditoria-al-tops-the-constellation-shortlist-of-ai-driven-cognitive-applications-for-the-third-year-in-a-row-200.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
 
 secured: "BVgkD2IiFv6FFcvg6mHWg0/qKSkf8bkLK+gO70eBPZZXySrhcoIuMswsWtOb4amcQyyrT4O9mNuNga4pH7P4AgE1hgZvrmFv6kzCkVqXTpzP24OQAilRBwkt0qQAUBY2/CWazJokc2LF6NYepX6N0xp87zMFAOlfXuXfBQnxoD2TDekVFXRyKlEgYhs0ZENSuyF5lVBU7UHIoX1SwDSpFOXh+f/qb03Ys9e4/DIkzTsNEUzMHS1EsYuZzpn2BK1CmfXFT25fYdvDumguC8LGEqBOdAp6wb+oAEHmVPK6Nu4tlIHlT7r8lUeib8uv8Ue4lKbfZKFuZYX8PxnPqFBRwInfkVhVywQgE8RBhOvAhPA=;T/mq5UO/NOdjKJI6Ad9Gsg=="
 ---

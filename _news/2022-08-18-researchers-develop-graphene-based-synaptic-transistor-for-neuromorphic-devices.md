@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "New neuromorphic chip for AI on the edge, at a small fraction of the energy and size of today's computing platforms"
-    excerpt: "An international team of researchers has designed and built a chip that runs computations directly in memory and can run a wide variety of AI applications–all at a fraction of the energy consumed by computing platforms for general-purpose AI computing."
-    publishedDateTime: 2022-08-17T15:00:00Z
-    webUrl: "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.html"
-    ampWebUrl: "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/a-new-neuromorphic-chi.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "A new neuromorphic chip for AI on the edge, at a small fraction of the energy and size of today's compute platforms"
     excerpt: "An international team of researchers has designed and built a chip that runs computations directly in memory and can run a wide variety of AI applications -- all at a fraction of the energy consumed by computing platforms for general-purpose AI computing."
     publishedDateTime: 2022-08-17T18:39:00Z

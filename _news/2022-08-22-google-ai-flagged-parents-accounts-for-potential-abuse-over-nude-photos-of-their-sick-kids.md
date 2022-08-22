@@ -7,7 +7,7 @@ originalUrl: "https://www.theverge.com/2022/8/21/23315513/google-photos-csam-sca
 webUrl: "https://www.theverge.com/2022/8/21/23315513/google-photos-csam-scanning-account-deletion-investigation"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -26,6 +26,24 @@ images:
     width: 1200
     height: 628
     isCached: true
+
+related:
+  - title: "Google AI flags parents' accounts for potential abuse over kid's photos"
+    excerpt: "Tech giant Google's artificial intelligence (AI) has reportedly flagged parents' accounts for potential abuse over nude photos of their sick kids"
+    publishedDateTime: 2022-08-22T06:55:00Z
+    webUrl: "https://www.business-standard.com/article/international/google-ai-flags-parents-accounts-for-potential-abuse-over-kid-s-photos-122082200224_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/international/google-ai-flags-parents-accounts-for-potential-abuse-over-kid-s-photos-122082200224_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/international/google-ai-flags-parents-accounts-for-potential-abuse-over-kid-s-photos-122082200224_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 57
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-02/02/full/1643789775-3091.jpg"
+        width: 620
+        height: 464
+        isCached: true
 
 secured: "PW/j0BNBAQ0KWDsdDcTw2tRjuUcJy1saEAC9jLgpV7OceMS5WHtUnnDm6oPhp0v4+MXm41F4gKkUh613CBeDo6pLZLcXl/WdOq0TGJnrXS1tZzonzChAn0rhlxsSB8tnA5alL4MWavCCYC9E4cGiJucEloCLrTN+Nt/5vIsdjILHZRvdRvylCSp7faU+1bzIo6pQEY5517j+FJfUJamUHmcVxTUh40OB4Eg51BLiJjm6fDSYjWbfYiSLMNNAT2tARnI9Tl/NIo8Xfedx0Ij88mTCmMQLi6LDjSV9OVxPZMXcn+h1PhbNbctmLr5XIQvZWAEKgoMMcOK+ut0D9eZ3P1PY+5EF5jmTJNj1CVOED4zOalVNnNruKU0PvGUQRfYNyHYoCARfX29sdJ2arxlBFyNW9QxH37Axjk4p5crmuV7jXbBf60dJuEzThkVHdkZm5gLy2Sk0O4Q4h2B4CS/193Z14gudUyglK9khU0j+Uz9i5yVbLf5vlHIqe6GFqilYkG6Z0qhh7x7S2ZxABqTK2Q==;i95Inp0HPLroE/9qTvyqnQ=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thestreet.com/.amp/investing/the-las-vegas-strip-gets-a-
 cdnAmpWebUrl: "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/the-las-vegas-strip-gets-a-major-new-innovation"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: TheStreet.com
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Self-driving Lyfts will cruise the Vegas strip by early 2023"
-    excerpt: "Residents and visitors of Las Vegas will be able to hail a new, fully autonomous “robotaxi” earlier than its makers anticipated. According to an official press release from Lyft, the popular ride-sharing company and its partners at the self-driving startup,"
-    publishedDateTime: 2022-08-17T14:00:00Z
-    webUrl: "https://www.popsci.com/technology/lyft-self-driving-cars-las-vegas/"
-    ampWebUrl: "https://www.popsci.com/technology/lyft-self-driving-cars-las-vegas/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/lyft-self-driving-cars-las-vegas/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 44
-    images:
-      - url: "https://www.popsci.com/uploads/2022/08/16/Offwhite.jpeg?auto=webp"
-        width: 2500
-        height: 1589
-        isCached: true
   - title: "Las Vegas Strip Gets a Brand New Technology"
     excerpt: "Innovations big and small are happening up, down, and under the Las Vegas Strip. Elon Musk's Boring Co. has been building a network of tunnels under the city that will eventually use driverless Tesla  (TSLA)  electric vehicles to ferry people all over the city."
     publishedDateTime: 2022-08-17T20:17:00Z

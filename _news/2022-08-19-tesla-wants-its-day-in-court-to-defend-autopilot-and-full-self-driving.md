@@ -111,6 +111,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Elon Musk announces a price hike for Tesla's self-driving system. Check here"
+    excerpt: "Tesla Chief Elon Musk took to Twitter to announce that the price of Tesla's Full Self-Driving System (FSD) will increase to $15,000 in North America. Musk informed that the price increase would be in effect from September 5."
+    publishedDateTime: 2022-08-22T07:09:00Z
+    webUrl: "https://auto.hindustantimes.com/auto/electric-vehicles/elon-musk-announces-a-price-hike-for-tesla-s-self-driving-system-check-here-41661145166030.html"
+    ampWebUrl: "https://auto.hindustantimes.com/auto/electric-vehicles/elon-musk-announces-a-price-hike-for-tesla-s-self-driving-system-check-here/amp-41661145166030.html"
+    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/electric-vehicles/elon-musk-announces-a-price-hike-for-tesla-s-self-driving-system-check-here/amp-41661145166030.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 56
+    images:
+      - url: "https://images.hindustantimes.com/auto/img/2022/08/22/1600x900/AFP_9L8894_1629439212600_1661145332809_1661145332809.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Don't Test Tesla's Full-Self Driving on Children: Safety Regulators"
     excerpt: "According to Bloomberg, the National Highway Traffic Safety Administration said it uses controlled procedures when testing vehicles and that “it could be highly dangerous for anyone to attempt to test vehicle technologies on their own."
     publishedDateTime: 2022-08-18T17:20:00Z
@@ -177,6 +193,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Tesla's Full Self-Driving System will soon cost $15,000 USD."
+    excerpt: "Tesla, by way of Elon Musk has stated that anyone interested in purchasing the Full Potential for Autonomous Driving option for their Tesla would soon have to spend"
+    publishedDateTime: 2022-08-22T07:19:00Z
+    webUrl: "https://www.guru3d.com/news-story/teslas-full-self-driving-system-will-soon-cost-15000-usd.html"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 19
 
 secured: "hgLXOUBVAh7H4tv5ipuxoU/ONuDYnwtp4ctx/x4AW4oPZ5vV3F1QMAB6Ju9idt/8zMJLStHTUrE5xqY7vdenS7gXHJdniBAzlmeli15OtsHissseRaHwBOAnVOV9sVTSh+Wa3fGIWBdKY0z00p7oHHaWmf7VmRhMGTCS6W1g1zI1U+76+Y4TbHMf9f+KZ/CCtypp1iJRBItUS0ZTnJSkSYvIMJIpapGR48M3fXmcO/zoVx7rtcvU9IEuDvY+iI5HCoA8G3AuRV1I7wbJ+N9uxzEqnWrgUpGDPo1FP4c2M06U1rAP45qYAeCpUVcXFzDdHTA+JhPpLa3BiUTH2pgAFtRAM1i9bbCFt1GXF4EZzbWtm5fyqChu5sbVksYae1EPKVaZap9iWiVFCPlbBhsEGBFk3/cT3w8HeNggnLqFoMlfW4+VBfvttFnMnHf4ds4Z6NdMKg3L4RVU5VuFGA8J2/Q17m/DU8lcEEf36gP1wkcGu/X3/3uA2ULv6yDCbsE7NNVuw4j/+e1yAq/nnmrbzA==;Y0lroD4Sec037nAsJjTlNg=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.sciencedaily.com/releases/2022/08/220817114253.htm"
 webUrl: "https://www.sciencedaily.com/releases/2022/08/220817114253.htm"
 type: article
 quality: 42
-heat: -1
+heat: 42
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "New neuromorphic chip for AI on the edge, at a small fraction of the energy and size of today's computing platforms"
-    excerpt: "An international team of researchers has designed and built a chip that runs computations directly in memory and can run a wide variety of AI applications–all at a fraction of the energy consumed by computing platforms for general-purpose AI computing."
-    publishedDateTime: 2022-08-17T15:00:00Z
-    webUrl: "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.html"
-    ampWebUrl: "https://techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp"
-    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-neuromorphic-chip-ai-edge-small.amp"
-    type: article
-    provider:
-      name: techxplore
-      domain: techxplore.com
-    quality: 52
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/a-new-neuromorphic-chi.jpg"
-        width: 2880
-        height: 1920
-        isCached: true
   - title: "Researchers Develop Graphene-based Synaptic Transistor for Neuromorphic Devices"
     excerpt: "Recently, researchers from the University of Texas and Sandia National Laboratories announced the development of a graphene-based transistor that exhibits properties similar to neurons."
     publishedDateTime: 2022-08-18T16:08:00Z

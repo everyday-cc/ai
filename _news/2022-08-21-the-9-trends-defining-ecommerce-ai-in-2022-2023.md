@@ -9,7 +9,7 @@ ampWebUrl: "https://www.geektime.com/the-9-trends-defining-ecommerce-ai-in-2022-
 cdnAmpWebUrl: "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/the-9-trends-defining-ecommerce-ai-in-2022-2023/amp/"
 type: article
 quality: 59
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Jason Simon explains how AI is enhancing eCommerce"
-    excerpt: "AI offers a lot of ways for eCommerce companies to enhance their business. As more and more shoppers turn to online retail, eCommerce companies need to adapt. According to a study by Statista, the sales of online retail are expected to grow by 15% in 2022."
-    publishedDateTime: 2022-08-17T14:07:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/webwire-2022-8-17-jason-simon-explains-how-ai-is-enhancing-ecommerce"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 19
   - title: "Aaron Rodriguez discusses the benefits artificial intelligence gives eCommerce"
     excerpt: "Artificial intelligence (AI) is an unstoppable market, and it will be difficult to conceive the future without its development. In fact, it is already impossible to understand today's world without intelligent technologies."
     publishedDateTime: 2022-08-19T15:52:00Z

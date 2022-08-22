@@ -51,6 +51,29 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI In Aviation Market Size and Growth 2022 Analysis Report by Types, Opportunities, Future Plans, Types, Application and Forecast to 2028"
+    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI In Aviation Market” 2022"
+    publishedDateTime: 2022-08-18T07:29:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-aviation-market-size-and-growth-2022-analysis-report-by-types-opportunities-future-plans-types-application-and-forecast-to-2028-2022-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Voice Recognition Market generalship Report Industry Size, Segment by Key Companies, Types Applications and Forecast to 2025"
+    excerpt: "Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with"
+    publishedDateTime: 2022-08-18T13:10:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-market-generalship-report-industry-size-segment-by-key-companies-types-applications-and-forecast-to-2025-2022-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 7
 
 secured: "xnOUo/x4jMJTOfQ9PofFm6535+9Qn5ecwZvvzdOlriR0QdZI9M+xv0ISiyA8jhCeYD/7HwWYnQwP1iSBbmA8XNMbU1vUzPHDw63kl2voIg2SOZ5QJQElPV6inALvoE1Bj6SBMe9Zl3fh/1sHgHvfea+G54PMn5ELqEQZUxfvoPhm+OiMRW0SodbNf5LwSg3b/nUViads8XXQiTmbETcVMBcM1UpXhmQ9+C7jPt0qxVxtAjngRcgmCHvEa3etIh/WShIEEQx7t49k0VwKUDqcBL4VeYJ/A5zuPHnq23+cgABV9cVlsNg3/950sgN24bE3TEGjUWXAbi/0n2shFhUkhKQt+QuEPDesM3RMj923sd4=;MyS/kxe3zSo5negf55IXoQ=="
 ---

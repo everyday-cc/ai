@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/when-ai-meets-fintech-di
 webUrl: "https://www.marketwatch.com/press-release/when-ai-meets-fintech-discover-more-about-the-match-made-in-heaven-2022-08-17"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -38,6 +38,20 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 28
+  - title: "Top 12 Global Fintech Investors in Q2 2022"
+    excerpt: "Using data from CB Insights and Pitchbook, we’ve compiled a list of the top 12 most active fintech investors of Q2 2022, looking at the number of deals they participated in during the quarter and their most notable fintech investments."
+    publishedDateTime: 2022-08-22T05:57:00Z
+    webUrl: "https://fintechnews.ch/funding/top-12-global-fintech-investors-in-q2-2022/54513/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/08/Top-12-Global-Fintech-Investors-in-Q2-2022-.png?x30842"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "New Venture Fund Provides Investors Exposure to the Disrupting Fintech Sector"
     excerpt: "FinTech Fund II has raised $1.9 million to date and has deployed initial capital into four investments: a diversified blockchain fund that seeks out venture equity along with early stage and established token investments,"
     publishedDateTime: 2022-08-17T16:06:00Z

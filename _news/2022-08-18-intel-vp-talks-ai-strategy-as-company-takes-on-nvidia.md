@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/intel-vp-talks-ai-strategy-as-company-tak
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/intel-vp-talks-ai-strategy-as-company-takes-on-nvidia/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -31,20 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "Adept Uses Oracle Cloud Infrastructure and NVIDIA to Create AI Teammate"
-    excerpt: "Adept, a machine learning research and product lab, is using Oracle Cloud Infrastructure (OCI) and NVIDIA technology to develop a universal AI teammate capable of performing a range of tasks people execute on their computer or on the internet."
-    publishedDateTime: 2022-08-17T13:04:00Z
-    webUrl: "https://www.dbta.com/Editorial/News-Flashes/Adept-Uses-Oracle-Cloud-Infrastructure-and-NVIDIA-to-Create-AI-Teammate-154393.aspx"
-    type: article
-    provider:
-      name: dbta.com
-      domain: dbta.com
-    quality: 39
-    images:
-      - url: "https://www.dbta.com/images/social-logo-2019.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Vision Elements Joins NVIDIA Partner Network as an AI Solution Advisor Consultant"
     excerpt: "Vision Elements (VE), a leading computational and AI software development firm, today announced it has joined the NVIDIA Partner Network as an AI Solution Advisor Consultant partner. Already part of the NVIDIA Inception and Metropolis programs,"
     publishedDateTime: 2022-08-18T12:35:00Z

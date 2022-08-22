@@ -42,6 +42,20 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 28
+  - title: "Top 12 Global Fintech Investors in Q2 2022"
+    excerpt: "Using data from CB Insights and Pitchbook, we’ve compiled a list of the top 12 most active fintech investors of Q2 2022, looking at the number of deals they participated in during the quarter and their most notable fintech investments."
+    publishedDateTime: 2022-08-22T05:57:00Z
+    webUrl: "https://fintechnews.ch/funding/top-12-global-fintech-investors-in-q2-2022/54513/"
+    type: article
+    provider:
+      name: fintechnews.ch
+      domain: fintechnews.ch
+    quality: 24
+    images:
+      - url: "https://x2u3s3r4.stackpathcdn.com/wp-content/uploads/2022/08/Top-12-Global-Fintech-Investors-in-Q2-2022-.png?x30842"
+        width: 1024
+        height: 567
+        isCached: true
 
 secured: "iLpqzZBSFoaBID4okGA9fwt5nw5spJNP803ntpnqzNyPlDFJrnCNP+OeQaROAT10JHkaPEc0MgbrWg2bnT71jk+fpHOnpAO74OI5GzGB9U7h3RjyXalVxX044GodGTUeuytmJ2sJ7TSI+z6Vd9MnRMyYx/WAcK830MZVZwFYTYXnJDgHTmDQ9GXmiciabYxk5fwNvA9l7Iv46KcyYyT4oG496vc9waipt0iZvkepfKWLyerqoryamrm2+5NATwTAFwfYoPEjECqmbf1S5mBVwcaKyQGLEb1wvuWx/sMlugWEOQtknXSlrhE/SsMK2uYkjCJOER+spG0zDKmBcG66+g0tq+ngZfXDACBk+EWtJtk=;vXq5Com7Vqez1sLE7RXIIQ=="
 ---

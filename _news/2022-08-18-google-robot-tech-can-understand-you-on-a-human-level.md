@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-language-skills-coax-google-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/"
 type: article
 quality: 89
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -47,21 +47,7 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Move Over, Siri: Google Tips Robots That Can Actually Understand What You Want"
-    excerpt: "Teams at Google Research and Everyday Robots are teaching androids to make sense of natural language commands."
-    publishedDateTime: 2022-08-17T14:02:00Z
-    webUrl: "https://www.pcmag.com/news/move-over-siri-google-tips-robots-that-can-actually-understand-what-you"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 65
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05BHO8P2HaVhuMFEa9c4ijk-1.fit_lim.size_1200x630.v1660729471.jpg"
-        width: 1120
-        height: 630
-        isCached: true
 
-secured: "hL2K6PKoijNfhNnUKKeRB5nVvGTS6UYTD/lmR550J/iQjspd3jpUXJj47gIOejWReIrjY8bIqiyVIPwQ0gDncMBb9yTO/M3WVD2p+e80gHYs11iyZaIB+RPSISu72OmWLjvLtTgecpOiZio3IlJDRvabNm8b4SbPAog6w53VDgW7GYypOXSck3hXjWR4skY5A7+gUfjCiA3sbI50tsnSg/qyPCz/RSqjpGRqxJtIQVy2onN/4fQdOm4f+SKA4YX4E1E2uYElD0UW97EUgm3K50nlFE4PKr7pmyTjnpvT88Rs+uASd+j6cHRQgFKSveaTRYHEJseFySPe+ZYbIu1g1jbHgOHNrd5RgOoAHtrIGvw=;7BIsLTMmJa9H74J5dHQSpQ=="
+secured: "59WlVgQ+m+07spGYifIlNUnNBC/uSeOFD3xGauq0ICLLQ4bzNfMKETJorWS0e8W8OmdlR5ZMYDLEfp9pYjbzrrN298TBtnRCOM+F8Q/HLsXtveMN6KxCBJ6eoOw4RqsHWBkREve02P/b3crPKU6gXZtrpvawiQ/DCCW4Yd5oLLL49FCckKpBS//ocwBeJ/7dj26gCWvZ7sX/Ntw4qobx739nsEevTT1ErQA/wfnZqhp+4Jn/hKAAjGX7dlsJNf2sDBUunlE3IzEBMxCBaLGF3UG2nQKbtBaAmPZgSRM1CbG86qo8mmlpOAnoOTdbwS6L7+U19lBT5rj9NkrhAPvxjE7mOfy7p8DXM9qSX630MBN1gzqXanLX4FWLFr1C8W2jLxnBM0JlIPOMpBEj+TstHeobt3L0OU5E+6vpmFMQIaLj7B6v+/cWp5lZdyBLWraBkATHZHBi/hECkTFT26XEEO2Swz7cJZTMZYzIfvlCOUIFYCis6RJzMxegtJsFoSgM5Un92Efom0VrvC9IX0kYHQ==;3yvhV68eOJiWB08hrQsiDQ=="
 ---
 

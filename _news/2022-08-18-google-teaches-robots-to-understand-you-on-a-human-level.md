@@ -47,20 +47,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Move Over, Siri: Google Tips Robots That Can Actually Understand What You Want"
-    excerpt: "Teams at Google Research and Everyday Robots are teaching androids to make sense of natural language commands."
-    publishedDateTime: 2022-08-17T14:02:00Z
-    webUrl: "https://www.pcmag.com/news/move-over-siri-google-tips-robots-that-can-actually-understand-what-you"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 65
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05BHO8P2HaVhuMFEa9c4ijk-1.fit_lim.size_1200x630.v1660729471.jpg"
-        width: 1120
-        height: 630
-        isCached: true
 
 secured: "NTFEvcCdrqt2DPBG6gFL4hphlDn1BTMI9YZaDB0c8a/HTFxoToj0iqc3aAI/3/AaPse+41go41/ZMpiTqASpnVjlNXEXU2/c+985ACu8rzo/+6Ljw5B8ttnA0NX1lt2TStxF3n2N2Mdx+HS4JRKBFCm65BrPqqcObWkhMn06jz+jGUiv+tsC7+OlBPQjiz+cMf5DjaFCLbFHqAAyxjLJPjAAq/eJ6muI7iEI7rLFvKV0EapATSs+PDpugWU7zR4g65Lgv2SRqpHQPEMdP8DoixwHXmP40rh8M2WGYb2D3BLvsYKElKV0gYuFVdegzHI4qq/8x5a6YvfYtR+fFITc1AbAVHW75Kj3GgzIyBbdTh/IMDZoz/8+qEjEfoxYOOKhZHf5NXffNoSk0tns6RDHjEqVsFJ7MbPjPoElVZeK5zx7XmDxGjwcOofDonRaMoqabCxBHDmjFiKmnnC528APuBiWaM60nbYfRCNBBvDdebhZl2FIUfihdsYNlQnWnGEKxBNdQ0YAB8ERmRhUxOHp7Q==;6FhtnEdig7F/xPq4R0jpag=="
 ---

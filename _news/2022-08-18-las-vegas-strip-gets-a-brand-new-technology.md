@@ -43,22 +43,6 @@ related:
         width: 620
         height: 349
         isCached: true
-  - title: "Self-driving Lyfts will cruise the Vegas strip by early 2023"
-    excerpt: "Residents and visitors of Las Vegas will be able to hail a new, fully autonomous “robotaxi” earlier than its makers anticipated. According to an official press release from Lyft, the popular ride-sharing company and its partners at the self-driving startup,"
-    publishedDateTime: 2022-08-17T14:00:00Z
-    webUrl: "https://www.popsci.com/technology/lyft-self-driving-cars-las-vegas/"
-    ampWebUrl: "https://www.popsci.com/technology/lyft-self-driving-cars-las-vegas/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/lyft-self-driving-cars-las-vegas/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 44
-    images:
-      - url: "https://www.popsci.com/uploads/2022/08/16/Offwhite.jpeg?auto=webp"
-        width: 2500
-        height: 1589
-        isCached: true
 
 secured: "pHA/oXHbJ1f88MbRvb3y7r5XE/E6gon6HRgE4pRu7nIKpKcqiyhzD6rqNw3ET76jBCmehkNmE+XtYf+N3yZyU3digZEz7/Ncd5xkuxyZK6K/1q8fxyvzJDCQpHuXPWUOt3zwlx6R1yQeVJoHZaH9joGmLgrjmMAaoqG2/siebM+AE2RGdIzHcZqW8Vj521kLhDDYaSe5FwyTb7ptGF7bN6e3EDQqLEFkmZicOqlnc2r2+fm9A3uLLv3qJ3BuvSWsg7lJGeoEcJmI4MxcxDpr3muB+JhCR9J1awcLe9HD+dNX10O9d9BHRMJSjWXvsh9p/v9+3EkP9aO3SCbMTBVlLg99A+50dzdVVJdAPZU4R4M7me6sHwOY201JrZy4bkw/TuLn10H2BoZAgPEKpELlJy/FBdVIG/GFsm5Ud8AN7nAxIN4fiZAUVoeUg8PgpSdkHRXR1tC+D8qHOp5lh3UtDLs6ya5r+RcWVb1VDV8lRm/jeZ1l0fNpEPXUaIpX0QCCdcutdHOkdliG3+0gGBFEVQ==;ytPGCI9JHcozMAcLehy1qQ=="
 ---
