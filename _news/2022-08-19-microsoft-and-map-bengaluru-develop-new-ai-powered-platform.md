@@ -59,15 +59,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 54
-  - title: "Microsoft Is Empowering Its Investors To Achieve More"
-    excerpt: "Microsoft’s stock marks 304% performance over the past 5 years and is likely positioned to be a strong leading growth stock in the coming years. Read how here."
-    publishedDateTime: 2022-08-17T18:37:00Z
-    webUrl: "https://seekingalpha.com/article/4535256-microsoft-is-empowering-its-investors-to-achieve-more"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "Inid7aX/Vq/xpg52r1VWRlW5Evvs0yvTBNFZQYG5amzV2YpHYcC1tV39Q7Mximoah0GXZFRsckA1hL2UJ5UCVxJeT/yc2l9L0rqaIZoXUDsTuX5d+jbiEZgVuJkMIilL7ybkMxYE+/9kt398610DnI9Eqn9JMPBMgv3OFZ7GHDx4NkVLRvp/85ePQZ816a1mYIsGtbAiM4BpKjj5cN0Qxyjx8bZuOC3MldUX2floJ2jQBBkpp+ChR7ahYIuS6G5QPF9iyUfOR65/Z6jvxqFR5xdN5RqGuaHeojIkyrTksJ1LjTUalkZFlEAySyjP/fDt3IcADEcdV/TFBOUj4qJR7dBpZCPhiqi4g0GQpy0jKpY=;dp1Gsr0M9AQQeZ30k6MuUA=="
 ---

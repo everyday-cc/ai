@@ -43,22 +43,6 @@ related:
         width: 834
         height: 540
         isCached: true
-  - title: "PM trip to Torres Strait for voice talks"
-    excerpt: "Prime Minister Anthony Albanese is travelling to the Torres Strait, where the Indigenous voice to parliament will be discussed with elders."
-    publishedDateTime: 2022-08-17T17:39:00Z
-    webUrl: "https://thewest.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918679"
-    ampWebUrl: "https://thewest.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918679.amp"
-    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918679.amp"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 59
-    images:
-      - url: "https://images.thewest.com.au/publication/C-7918679/190748120240644a79df8630e6d677b4347194c6-16x9-x0y0w1280h720.jpg?imwidth=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "PM to visit the Torres Strait for Voice to Parliament talks"
     excerpt: "The prime minister's trip comes a day after Minister Linda Burney and state and territory Indigenous affairs delegates committed to moving forward on the implementation of a Voice to Parliament."
     publishedDateTime: 2022-08-17T22:39:00Z

@@ -46,14 +46,16 @@ related:
         height: 630
         isCached: true
   - title: "Sapia and Greenhouse partnership brings world-first AI Smart Interviewer to integrations marketplace"
-    excerpt: "Greenhouse offers businesses a complete suite of software and services for recruiting and onboarding, as well as a large partner ecosystem. Sapia CEO, Barb Hyman said that the partnership is a game changer for organizations that need to fill roles efficiently while giving every candidate an engaging and fair experience."
-    publishedDateTime: 2022-08-22T05:09:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/sapia-and-greenhouse-partnership-brings-world-first-ai-smart-interviewer-to-integrations-marketplace-1031696954"
+    excerpt: "Greenhouse has selected Sapia.ai, creator of the world's first AI Smart Interviewer, as its newest integration partner – enabling Greenhouse customers to access the"
+    publishedDateTime: 2022-08-22T04:52:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28578714/sapia-and-greenhouse-partnership-brings-world-first-ai-smart-interviewer-to-integrations-marketpla"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28578714"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28578714"
     type: article
     provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 32
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 22
 
 secured: "uKrZ8VSiAboSjx5y7qQkYeJBWlV8zunC1FSaMeb4z9uPUob9GxNpJ4OSkTVPWc1ibn06ESxaGJ67iKmmiUvBxsHn9SmuPx9cHwWX2YZ0/r1MlapaWxJsEfHJbM3iznUb3HmyEGRoPv8k5Z7nYwQou1grDtbiunkkUCLQwkfujEgMA0IXdOISut/MDAxmaH1l2m4kNOcGXS4DeB9qMMvUYKqv3W+L6/rKkJCQ6vrFyQ7ttHVVso0d/qBUA+6Zbo0Ft2anvwQ2kVYdDQA9l+TEjmfxCeX3eZbs3H3kdQoVSeVaXCcEPqOlj2+yoNbd7pk7GbZLy0mtgNTWDT+kj6fpxwAloJUNVYS/KQXQGclOjRPQJAlcL0ySFjCK1TM73m77hKDIaDwuR/j0ACO0KYmrF1lqPomQLnRTAbAw/t0B60j0LLudm2iZC8riUBwWalnZTflirGcUQvCpqN/AQu7bEj9wOdoJXBSuTdjkBP3tBg2BGU8rr2rpf4M3a72GH9bAzL1RqDvO6nM9fp6bka6eVg==;Km4UMQ30ulpQ896e2yIe8w=="
 ---

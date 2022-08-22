@@ -2,6 +2,274 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2022-06-10-use-aws-ai-and-ml-services-to-foster-accessibility-and-inclusion-of-people-with-a-visual-or-communication-impairment.md",
+      "title": "Use AWS AI and ML services to foster accessibility and inclusion of people with a visual or communication impairment",
+      "excerpt": "AWS offers a broad set of artificial intelligence (AI) and machine learning (ML) services, including a suite of pre-trained, ready-to-use services for developers with no prior ML experience. In this post, we demonstrate how to use such services to build an application that fosters the inclusion of people",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-aws-ai-and-ml-services-to-foster-accessibility-and-inclusion-of-people-with-a-visual-or-communication-impairment/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-aws-ai-and-ml-services-to-foster-accessibility-and-inclusion-of-people-with-a-visual-or-communication-impairment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/25/ML-7380-NEW-image1.jpg",
+          "width": 1000,
+          "height": 433,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-10T11:00:26-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-pentagons-hicks-expects-real-results-from-artificial-intelligence-office.md",
+      "title": "Pentagon’s Hicks expects real results from artificial intelligence office",
+      "excerpt": "The Chief Digital and Artificial Intelligence Office, fully operational this month, needs to produce results and be seen as a “go-to place for talent and technical expertise,” Hicks said June 8 at the Department of Defense’s virtual Digital and AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/06/09/pentagons-hicks-expects-real-results-from-artificial-intelligence-office/",
+      "originalUrl": "https://www.c4isrnet.com/artificial-intelligence/2022/06/09/pentagons-hicks-expects-real-results-from-artificial-intelligence-office/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-10T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "C4ISRNET",
+        "domain": "c4isrnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-amd-details-zen-4-epyc-cpu-and-cdna-3-gpu-roadmaps-for-ai-and-data-center-dominance.md",
+      "title": "AMD Details Zen 4 EPYC CPU And CDNA 3 GPU Roadmaps For AI And Data Center Dominance",
+      "excerpt": "At AMD's Financial Analyst Day event, it outlined a bevy of future data products, including Genoa-X, Bergamo, and CDNA 3.",
+      "sourceUrl": null,
+      "webUrl": "https://hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center",
+      "originalUrl": "https://hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hothardware.com/contentimages/newsitem/58803/content/amd-server-data-center-hero.jpg",
+          "width": 718,
+          "height": 481,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center",
+      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/amd-epyc-genoa-x-siena-cpu-cdna-3-gpu-roadmap-data-center",
+      "publishedDateTime": "2022-06-10T09:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HotHardware",
+        "domain": "hothardware.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update.md",
+      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Update",
+      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) saw a significant growth in short interest during the month of May. As of May 31st, there was short interest totalling 17,",
+      "sourceUrl": null,
+      "webUrl": "https://www.defenseworld.net/2022/06/10/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-3.html",
+      "originalUrl": "https://www.defenseworld.net/2022/06/10/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-update-3.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-10T08:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Defense World",
+        "domain": "defenseworld.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-how-ai-is-driving-iams-shift-to-digital-identity.md",
+      "title": "How AI is driving IAM’s shift to digital identity",
+      "excerpt": "The IAM industry needs to shift to digital identity, evolving away from legacy constructs to an AI-powered system that's always on.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/10/how-ai-is-driving-iams-shift-to-digital-identity/",
+      "originalUrl": "https://venturebeat.com/2022/06/10/how-ai-is-driving-iams-shift-to-digital-identity/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2019/05/GettyImages-961645454-e1645559719112.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/10/how-ai-is-driving-iams-shift-to-digital-identity/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/10/how-ai-is-driving-iams-shift-to-digital-identity/amp/",
+      "publishedDateTime": "2022-06-10T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-baidus-jidu-auto-releases-virtual-concept-robocar-as-intelligent-ev-unit-moves-towards-mass-production-in-2023.md",
+      "title": "Baidu’s Jidu Auto releases virtual concept robocar as intelligent EV unit moves towards mass production in 2023",
+      "excerpt": "Baidu-backed EV firm WM applies to list in ... Tesla’s founder Elon Musk recently said that Tesla aims to have self-driving cars, without the need for human intervention, by May 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/08/a7880824-98af-4131-80cb-aeb9f88421db_36043c23.jpg?itok=OKP7ptvz&v=1654696184",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit",
+      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit",
+      "publishedDateTime": "2022-06-10T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but-is-it-art.md",
       "title": "Give this AI a few words of description and it produces a stunning image – but is it art?",
       "excerpt": "(THE CONVERSATION) A picture may be worth a thousand words, but thanks to an artificial intelligence program called DALL-E 2, you can have a professional-looking image with far fewer. DALL-E 2 is ...",
@@ -816,267 +1084,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-how-vision-systems-work-in-robotics.md",
-      "title": "How Vision Systems Work in Robotics",
-      "excerpt": "Robot vision systems are commonly referred to as machine vision. This vision tool is used in several industrial processes, including material inspection, object recognition, and pattern recognition. Each industry applies its particular values to machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation/how-vision-systems-work-robotics",
-      "originalUrl": "https://www.designnews.com/automation/how-vision-systems-work-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-medtronic-and-ibm-launch-a-sweet-new-diabetes-app.md",
-      "title": "Medtronic and IBM Launch a Sweet New Diabetes App",
-      "excerpt": "The latest example of the industry embracing AI's capabilities for the millions of people living with diabetes is an app co-developed by Medtronic and IBM Watson Health dubbed the Sugar.IQ smart diabetes assistant. The app is designed to simplify and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/digital-health/medtronic-and-ibm-launch-sweet-new-diabetes-app",
-      "originalUrl": "https://www.mddionline.com/digital-health/medtronic-and-ibm-launch-sweet-new-diabetes-app",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mddionline.com/sites/mddionline.com/files/field/image/SugarIQ%20Insight%20Sample%20ScreenShot_0.png",
-          "width": 1125,
-          "height": 2001,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-spinal-posture-assessment-in-health-exams-reliably-detects-cognitive-decline.md",
-      "title": "Spinal posture assessment in health exams reliably detects cognitive decline",
-      "excerpt": "A mass survey of citizens aged 50 to 89 years examined whether cognitive decline could be detected by sagittal spinal balance measurement based on a radiological approach. Doctors from Shinshu ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220610/Spinal-posture-assessment-in-health-exams-reliably-detects-cognitive-decline.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220610/Spinal-posture-assessment-in-health-exams-reliably-detects-cognitive-decline.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Dementia-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220610/Spinal-posture-assessment-in-health-exams-reliably-detects-cognitive-decline.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220610/Spinal-posture-assessment-in-health-exams-reliably-detects-cognitive-decline.aspx",
-      "publishedDateTime": "2022-06-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-thinning-of-the-eyes-retinal-layer-a-marker-of-cognitive-decline.md",
-      "title": "Thinning of the Eye's Retinal Layer a Marker of Cognitive Decline?",
-      "excerpt": "Thinning of the eye's macular retinal nerve fiber layer (RNFL) is linked to cognitive decline in older adults, new research suggests. Results from a study of more than 400 adults showed an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/975411",
-      "originalUrl": "https://www.medscape.com/viewarticle/975411",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.medscape.com/thumbnail_library/dt_181102_human_eye_800x450.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-how-service-providers-can-use-natural-language-processing-to-gain-insights-from-customer-tickets-with-amazon-comprehend.md",
-      "title": "How service providers can use natural language processing to gain insights from customer tickets with Amazon Comprehend",
-      "excerpt": "Today, customers can raise support tickets through multiple channels like – web, mobile, chat-bots, emails, or phone calls. When a support ticket is raised by a customer, it is processed and assigned to a category based on the information provided in the ticket. It is then routed to the support group",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-service-providers-can-use-natural-language-processing-to-gain-insights-from-customer-tickets-with-amazon-comprehend/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-service-providers-can-use-natural-language-processing-to-gain-insights-from-customer-tickets-with-amazon-comprehend/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 112,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/31/ML-8570-image001.jpg",
-          "width": 1092,
-          "height": 406,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T16:41:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-artificial-intelligence-with-metamemory-acts-more-humanlike.md",
-      "title": "Artificial Intelligence With Metamemory Acts More Humanlike",
-      "excerpt": "A new study reveals the creation of a new artificial intelligence (AI) machine-learning algorithm with an adaptable intelligence based on what it already knows—a step toward endowing machines ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike",
-      "originalUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/pic907815.jpg?itok=4iHfALuG",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/au/blog/the-future-brain/202206/artificial-intelligence-metamemory-acts-more-humanlike?amp",
-      "publishedDateTime": "2022-06-09T16:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

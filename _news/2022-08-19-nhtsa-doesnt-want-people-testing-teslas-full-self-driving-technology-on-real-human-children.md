@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Tesla raising price of ‘Full Self-Driving’ feature to $15,000 next month"
+    excerpt: "Elon Musk on Sunday announced the price of Tesla Inc.'s \"Full Self-Driving\" feature will rise by 25% next month, to from $12,000 to $15,000."
+    publishedDateTime: 2022-08-21T19:17:00Z
+    webUrl: "https://www.marketwatch.com/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442?mod=mw_latestnews"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 103
+    images:
+      - url: "https://images.mktw.net/im-528682/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Tesla’s Full-Self Driving software is going up in price again"
     excerpt: "Tesla’s increasing the price of its Full-Self Driving (FSD) software to $15,000. In a post on Twitter, Tesla CEO Elon Musk announced that the new price will go into effect in North America starting September 5th,"
     publishedDateTime: 2022-08-21T16:42:00Z
@@ -40,22 +56,6 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/wEmS6qeSqPoyWcc1aVYbTgsWqPY=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11423501/acastro_180524_1777_tesla_0003.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "People are now testing Tesla's 'full self-driving' on real kids"
-    excerpt: "The North Carolina resident set out to refute a widely circulated video of a Tesla with the company's \"full self-driving\" beta software -- which allows the car to steer, brake and accelerate, but requires an attentive human driver ready to take the wheel ..."
-    publishedDateTime: 2022-08-21T12:33:00Z
-    webUrl: "https://www.cnn.com/2022/08/21/business/tesla-fsd-tests-kids/index.html"
-    ampWebUrl: "https://amp.cnn.com/cnn/2022/08/21/business/tesla-fsd-tests-kids/index.html"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/21/business/tesla-fsd-tests-kids/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 89
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220819141817-tesla-autopilot-steering-wheel-file-super-tease.jpg"
-        width: 1100
-        height: 619
         isCached: true
   - title: "Podcast: Tesla Full Self-Driving Beta test, VPP event, Tesla Semi, and more"
     excerpt: "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. This week, we discussed our Tesla Full Self-Driving Beta test, Tesla’s first VPP event,"
@@ -102,6 +102,22 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/01bLyAOQRoX0e6vFlTkWQX7-1.fit_lim.size_1200x630.v1661103237.jpg"
         width: 1120
         height: 630
+        isCached: true
+  - title: "Tesla CEO Elon Musk says Full-Self Driving price to rise to US$15,000"
+    excerpt: "The price of Tesla Inc (NASDAQ:TSLA)’s Full Self-Driving (FSD) software will rise to US$15,000 in North America on 5 September 2022, the company’s CEO Elon Musk announced on T"
+    publishedDateTime: 2022-08-22T11:44:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/990681/tesla-ceo-elon-musk-says-full-self-driving-price-to-rise-to-us-15-000-990681.html"
+    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/990681"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/990681"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 74
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA4XC8yMDIyLTAxLTI2LTExLTQ5LTQxLTNiM2I0YTcwZDkzYzM5OWI3ZTQyY2ZlZDkwZDhiNDNkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
+        width: 1200
+        height: 740
         isCached: true
   - title: "Tesla Full Self-Driving Test Involving Kids Gets Pulled From YouTube"
     excerpt: "YouTube has removed a video in which Tesla investors test claims that the latest beta version of the company's Full Self-Driving technology won't prevent the vehicles from running over children. There's a bit to unpack here."
@@ -187,6 +203,20 @@ related:
       name: Jalopnik
       domain: jalopnik.com
     quality: 54
+  - title: "Musk says Tesla raising 'Full Self-Driving' price to $15,000"
+    excerpt: "Driving,' or FSD, has been criticized because the features require active supervision and don’t make its vehicles autonomous."
+    publishedDateTime: 2022-08-22T10:30:00Z
+    webUrl: "https://www.autonews.com/regulation-safety/musk-says-tesla-raising-full-self-driving-price-15000"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 54
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Tesla%20Hood-MAIN_0.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "NHTSA Doesn’t Want People Testing Tesla’s Full Self-Driving On Real Human Children"
     excerpt: "The NHTSA is warning those who use real kids or people in general for their own safety testing demonstrations. The reaction comes after a bevy of private individuals began posting similar tests online."
     publishedDateTime: 2022-08-18T22:03:00Z
@@ -212,6 +242,20 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 49
+  - title: "People are now testing Tesla’s ‘full self-driving’ on real kids"
+    excerpt: "Carmine Cupani wanted to set the record straight. So he asked his young son to stand in the path of his Tesla as it sped through a parking lot."
+    publishedDateTime: 2022-08-21T09:02:00Z
+    webUrl: "https://wtop.com/business-finance/2022/08/people-are-now-testing-teslas-full-self-driving-on-real-kids/"
+    type: article
+    provider:
+      name: WTOP News
+      domain: wtop.com
+    quality: 39
+    images:
+      - url: "https://wtop.com/wp-content/uploads/2022/08/hypatia-h_4fd547b46a83e3dc53c4381d431c0c5c-h_f8a961dbfb54f5a6e7ed7fba093894c9-300.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "Man from NC test Tesla's 'full self-driving' on a real kid"
     excerpt: "A North Carolina resident sets out to refute a widely circulated video of a Tesla with the company's \"full self-driving\" beta software."
     publishedDateTime: 2022-08-21T20:21:00Z
@@ -226,6 +270,15 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Elon Musk announces price hike for Tesla's Full Self-Driving feature"
+    excerpt: "SpaceX CEO Elon Musk has announced a price hike for Tesla's Full Self-Driving feature that will be implemented into its pricing next month."
+    publishedDateTime: 2022-08-22T10:50:00Z
+    webUrl: "https://www.tweaktown.com/news/88053/elon-musk-announces-price-hike-for-teslas-full-self-driving-feature/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
   - title: "Tesla's Full Self-Driving System will soon cost $15,000 USD."
     excerpt: "Tesla, by way of Elon Musk has stated that anyone interested in purchasing the Full Potential for Autonomous Driving option for their Tesla would soon have to spend"
     publishedDateTime: 2022-08-22T07:19:00Z

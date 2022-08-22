@@ -7,7 +7,7 @@ originalUrl: "https://www.electropages.com/blog/2022/08/researchers-develop-grap
 webUrl: "https://www.electropages.com/blog/2022/08/researchers-develop-graphene-based-synaptic-transistor-neuromorphic-devices"
 type: article
 quality: 20
-heat: -1
+heat: 20
 published: false
 
 provider:
@@ -25,15 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "A new neuromorphic chip for AI on the edge, at a small fraction of the energy and size of today's compute platforms"
-    excerpt: "An international team of researchers has designed and built a chip that runs computations directly in memory and can run a wide variety of AI applications -- all at a fraction of the energy consumed by computing platforms for general-purpose AI computing."
-    publishedDateTime: 2022-08-17T18:39:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/08/220817114253.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 42
   - title: "UC San Diego: A New Neuromorphic Chip for AI on the Edge, at a Small Fraction of the Energy and Size"
     excerpt: "An international team of researchers has designed and built a chip that runs computations directly in memory and can run a wide variety of AI applications–all at a fraction of the energy consumed by computing platforms for general-purpose AI computing."
     publishedDateTime: 2022-08-19T07:05:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-a
 cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-albanese-torres-strait/amp/"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "PM trip to Torres Strait for voice talks"
-    excerpt: "Prime Minister Anthony Albanese is travelling to the Torres Strait, where the Indigenous voice to parliament will be discussed with elders."
-    publishedDateTime: 2022-08-17T17:39:00Z
-    webUrl: "https://thewest.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918679"
-    ampWebUrl: "https://thewest.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918679.amp"
-    cdnAmpWebUrl: "https://thewest-com-au.cdn.ampproject.org/c/s/thewest.com.au/politics/pm-trip-to-torres-strait-for-voice-talks-c-7918679.amp"
-    type: article
-    provider:
-      name: The West Australian
-      domain: thewest.com.au
-    quality: 59
-    images:
-      - url: "https://images.thewest.com.au/publication/C-7918679/190748120240644a79df8630e6d677b4347194c6-16x9-x0y0w1280h720.jpg?imwidth=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Indigenous Voice to Parliament: Prime Minister Anthony Albanese to take referendum discussion to Torres Strait"
     excerpt: "Prime Minister Anthony Albanese will travel to the Torres Strait on Thursday to engage with elders, government officials and community leaders on an Indigenous Voice to Parliament."
     publishedDateTime: 2022-08-18T00:55:00Z

@@ -2,6 +2,153 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-08-09-ai-regulation-a-state-by-state-roundup-of-ai-bills.md",
+      "title": "AI regulation: A state-by-state roundup of AI bills",
+      "excerpt": "Wondering where AI regulation stands in your state? Check out this roundup of AI-related bills at the state and local level.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/",
+      "originalUrl": "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1161855919.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/amp/",
+      "publishedDateTime": "2022-08-08T20:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-future-of-work-beyond-bossware-and-job-killing-robots.md",
+      "title": "Future of work: Beyond bossware and job-killing robots",
+      "excerpt": "To encourage a human-centered workplace, we must rethink AI-driven automation, bossware, labor taxes and corporate R&D.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/",
+      "originalUrl": "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/surveillance-camera.GettyImages-182214587.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/amp/",
+      "publishedDateTime": "2022-08-08T20:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-chinas-baidu-wins-first-permits-for-fully-driverless-robotaxis.md",
+      "title": "China's Baidu wins first permits for fully driverless 'robotaxis'",
+      "excerpt": "SHANGHAI -- China's Baidu said Monday that it has secured ... after the search engine group released a new generation of self-driving vehicles with production costs roughly half those of its ...",
+      "sourceUrl": null,
+      "webUrl": "https://asia.nikkei.com/Business/Automobiles/China-s-Baidu-wins-first-permits-for-fully-driverless-robotaxis",
+      "originalUrl": "https://asia.nikkei.com/Business/Automobiles/China-s-Baidu-wins-first-permits-for-fully-driverless-robotaxis",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ft.com/__origami/service/image/v2/images/raw/https%253A%252F%252Fs3-ap-northeast-1.amazonaws.com%252Fpsh-ex-ftnikkei-3937bb4%252Fimages%252F9%252F9%252F3%252F4%252F41704399-8-eng-GB%252FCropped-1659949004.Baidu.JPG?width=1260&height=630&fit=cover&gravity=faces&source=nar-cms",
+          "width": 1260,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T19:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ニッケイ・エイジア",
+        "domain": "nikkei.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-baidu-approved-for-chinas-first-driverless-taxis.md",
       "title": "Baidu approved for China’s first driverless taxis",
       "excerpt": "Baidu Inc (百度) has won approval to deploy the first fully autonomous self-driving taxis on China’s roads, giving it an edge over rivals such as Pony.ai Inc (小馬智行) and XPeng Inc (小鵬汽車). The tech giant has secured permits to operate ...",
@@ -214,6 +361,58 @@
       ],
       "topics": [
         "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-baidu-gets-permits-for-first-fully-driverless-taxi-service-in-china.md",
+      "title": "Baidu gets permits for first fully driverless taxi service in China",
+      "excerpt": "Baidu, which operates China's largest search ... and ridehailing giants like Uber and Lyft have abandoned in-house self-driving taxi efforts. In June, General Motors-backed Cruise gained permits ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
+      "originalUrl": "https://www.cnn.com/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220808095638-03-baidu-apollo-go-driverless-robotaxi-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
+      "publishedDateTime": "2022-08-08T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
@@ -533,6 +732,49 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-china-drafts-rules-on-use-of-self-driving-vehicles-for-public-transport.md",
+      "title": "China drafts rules on use of self-driving vehicles for public transport",
+      "excerpt": "SHANGHAI: China should adopt autonomous vehicles in passenger transport with care, the country's Ministry of Transportation said in drafted rules to regulate the self-driving industry. The ministry will encourage the use of autonomous vehicles as taxis in easily controlled scenarios in low traffic situations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.carsifu.my/news/china-drafts-rules-on-use-of-self-driving-vehicles-for-public-transport",
+      "originalUrl": "https://www.carsifu.my/news/china-drafts-rules-on-use-of-self-driving-vehicles-for-public-transport",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/08/Untitled1.png",
+          "width": 976,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CarSifu",
+        "domain": "carsifu.my",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -912,238 +1154,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-baidu-to-offer-robo-taxis-in-more-cities-alibaba-prepares-for-southbound-connect-eligibility.md",
-      "title": "Baidu To Offer Robo Taxis In More Cities, Alibaba Prepares For Southbound Connect Eligibility",
-      "excerpt": "Asian equity markets were largely higher on light summer volumes as Pakistan was closed for Ashura, an important Islamic holiday that occurs on the tenth day of Muharram, the first month in the lunar calendar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brendanahern/2022/08/08/baidu-to-offer-robo-taxis-in-more-cities-alibaba-prepares-for-southbound-connect-eligibility/",
-      "originalUrl": "https://www.forbes.com/sites/brendanahern/2022/08/08/baidu-to-offer-robo-taxis-in-more-cities-alibaba-prepares-for-southbound-connect-eligibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f11fcf7fe1776868257314/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brendanahern/2022/08/08/baidu-to-offer-robo-taxis-in-more-cities-alibaba-prepares-for-southbound-connect-eligibility/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brendanahern/2022/08/08/baidu-to-offer-robo-taxis-in-more-cities-alibaba-prepares-for-southbound-connect-eligibility/amp/",
-      "publishedDateTime": "2022-08-08T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-all-this-destiny-2-lightfall-concept-art-is-fake-an-ai-made-it-in-minutes.md",
-      "title": "All This ‘Destiny 2’ Lightfall Concept Art Is Fake, An AI Made It In Minutes",
-      "excerpt": "That’s how I’ve felt when I discovered MidJourney, a new AI bot on Discord that generates art with minimal prompting, which I’ve now mostly used to create fake, but weirdly believably concept art for Destiny 2 expansions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/paultassi/2022/08/08/all-this-destiny-2-lightfall-concept-art-is-fake-an-ai-made-it-in-minutes/",
-      "originalUrl": "https://www.forbes.com/sites/paultassi/2022/08/08/all-this-destiny-2-lightfall-concept-art-is-fake-an-ai-made-it-in-minutes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f11d5b6053234a05d408d0/0x0.jpg?format=jpg&crop=662,372,x0,y238,safe&width=1200",
-          "width": 662,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/paultassi/2022/08/08/all-this-destiny-2-lightfall-concept-art-is-fake-an-ai-made-it-in-minutes/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/paultassi/2022/08/08/all-this-destiny-2-lightfall-concept-art-is-fake-an-ai-made-it-in-minutes/amp/",
-      "publishedDateTime": "2022-08-08T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-this-robot-dog-has-an-ai-brain-and-taught-itself-to-walk-in-just-an-hour.md",
-      "title": "This Robot Dog Has an AI Brain and Taught Itself to Walk in Just an Hour",
-      "excerpt": "A further ten minutes of harassment with a stick taught it how to withstand and recover from being pushed around by its handlers.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/08/08/this-robot-dog-has-an-ai-brain-and-taught-itself-to-walk-in-just-an-hour/",
-      "originalUrl": "https://singularityhub.com/2022/08/08/this-robot-dog-has-an-ai-brain-and-taught-itself-to-walk-in-just-an-hour/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/xAXvfVTgqr0/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/08/08/this-robot-dog-has-an-ai-brain-and-taught-itself-to-walk-in-just-an-hour/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/08/08/this-robot-dog-has-an-ai-brain-and-taught-itself-to-walk-in-just-an-hour/?amp=1",
-      "publishedDateTime": "2022-08-08T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-this-skin-like-computing-chip-uses-ai-to-monitor-health-data.md",
-      "title": "This skin-like computing chip uses AI to monitor health data",
-      "excerpt": "Researchers at the University of Chicago are developing a wearable chip that could monitor heart data and detect diseases.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/skin-like-computing-chip-uses-ai-to-monitor-health-data",
-      "originalUrl": "https://thenextweb.com/news/skin-like-computing-chip-uses-ai-to-monitor-health-data",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F08%2FUntitled-design-95.jpg&signature=1b19bed795c33d8b44aa31f2a926ed69",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-how-to-use-ai-in-video-workflows.md",
-      "title": "How to Use AI in Video Workflows",
-      "excerpt": "Ethan Drellinger of IBM Watson, Carlos Hernandez of SSIMWAVE, and Gordon Brooks of Zixi talk about how the key to effectively applying artificial intelligence in video workflows is knowing the differe",
-      "sourceUrl": null,
-      "webUrl": "https://www.streamingmedia.com/Articles/Editorial/Short-Cuts/How-to-Use-AI-in-Video-Workflows-154284.aspx",
-      "originalUrl": "https://www.streamingmedia.com/Articles/Editorial/Short-Cuts/How-to-Use-AI-in-Video-Workflows-154284.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Streaming Media Magazine",
-        "domain": "streamingmedia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

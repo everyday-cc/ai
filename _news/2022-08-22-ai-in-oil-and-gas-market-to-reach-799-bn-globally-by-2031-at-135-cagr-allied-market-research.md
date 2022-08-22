@@ -1,28 +1,28 @@
 ---
 category: news
 title: "AI in Oil and Gas Market to Reach $7.99 Bn, Globally, by 2031 at 13.5% CAGR: Allied Market Research"
-excerpt: "Benefits such as excellent fault detection and quality improvement, reduction in costs related to production and maintenance, and enhanced safety and security standards drive the growth of the global AI in oil and gas market. Benefits such as excellent ..."
-publishedDateTime: 2022-08-22T09:30:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-oil-and-gas-market-to-reach-7-99-bn-globally-by-2031-at-13-5-cagr-allied-market-research-856368369.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/ai-in-oil-and-gas-market-to-reach-7-99-bn-globally-by-2031-at-13-5-cagr-allied-market-research-856368369.html"
+excerpt: "Allied Market Research published a report, titled, \" AI in Oil and Gas Market by Component (Solution, Services), by Operation (Upstream, Midstream, Downstream): Global Opportunity Analysis and Industry Forecast,"
+publishedDateTime: 2022-08-22T10:52:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-ai-oil-gas-market-reach-799-bn-globally-/2022/08/22/9659711.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-ai-oil-gas-market-reach-799-bn-globally-/2022/08/22/9659711.htm"
 type: article
 quality: 23
 heat: 23
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
-    width: 2000
-    height: 1046
+  - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
+    width: 400
+    height: 400
     isCached: true
 
-secured: "V3CrqkxspI88LenZOkmspF3ntDX37iLLeanBLn+mj+Q9UJiQFB0F1DKvFEXBdXFaQtgBTvqMLmmXN/R29G4cSUaX5cA56COcFiMU+c1zFPdmF19aCeMMfeBXXVjqAu3zcaHJMOYvwB2O/ROhTKKV62v3K8Gqvu4P/OkTcicSRLt0fj1Zx6yjaXBDnCHzYrIHFjE04TwfnN++aXpoUORJtcfITHfrN7Qhi84OeLi8BbBax2LW9Y/gRh5yWynZwSnwYuvyuGI6UlCBdCKwhtLE79ZSREkbt3V6tVyjd08KagSGsXydDYrZWi1MSox1MnDlIjLmGjHlUSymoyvGTO4imBSUjBz3gD4EXjFMfhb8uBo=;d6UsW+D1eL8dQ1k/YkzaRA=="
+secured: "wstT5xGYmUn1iCjBpTvMAZEUu73aaOsnp0RBOC/+4MUxOWEbrJ/5nkAV0eCfKYUJ0Xh6RHETNoM62N1ipTBh3525PzvbiTE2gWq4XhX48fq3U7ThQRgZJyzMgnHezZhQ7o56/TEszQHssMfyargQ6QinbUGuGHuzg7ZQHK7aggH/rLXVMtcLV8i9IZW6VbRpPyDdlfy/1e/jQGQfmrqaPqqzwyXubMZUY7CQIxKEB9nMkT+2/0/4/Z+HrD3kKqr4z0GDxMJfMEIO0v4DkdTpvN17eRp359bEtc2ZxUlmJJzDUORZBbhfNAsJjoixLBSuN20jOLzqUOG63LIeiGHuINgjPjHI3l5qIWdI2Y+E5+s=;nFYYUW3kSy+k0fooYV5XoA=="
 ---
 

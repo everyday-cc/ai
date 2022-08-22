@@ -7,8 +7,8 @@ originalUrl: "https://labusinessjournal.com/technology/graymatter-robotics-raise
 webUrl: "https://labusinessjournal.com/technology/graymatter-robotics-raises-20m-in-series-a-funding/"
 type: article
 quality: 69
-heat: 69
-published: false
+heat: 89
+published: true
 
 provider:
   name: Los Angeles Business Journal
@@ -23,6 +23,31 @@ images:
     width: 1162
     height: 1200
     isCached: true
+
+related:
+  - title: "AI-powered imaging startup AIRS Medical raises $20M Series B"
+    excerpt: "South Korea-based healthcare startup AIRS Medical announced today that it raised approximately $20 million in a Series B funding round."
+    publishedDateTime: 2022-08-19T16:07:00Z
+    webUrl: "https://www.massdevice.com/ai-imaging-startup-airs-medical-20m-series-b/"
+    type: article
+    provider:
+      name: MassDevice
+      domain: massdevice.com
+    quality: 43
+    images:
+      - url: "https://www.massdevice.com/wp-content/uploads/2022/08/AIRS-Medical.jpg"
+        width: 770
+        height: 500
+        isCached: true
+  - title: "Healthcare AI startup raises $20M for global expansion"
+    excerpt: "South Korea healthcare startup AIRS Medical has raised $20 million in series B funding. The software company, founded in 2018, specializes in artificial intelligence-based diagnostics tests and robotic technologies for patients and healthcare providers and won the 2019 and 2020 fastMRI challenge,"
+    publishedDateTime: 2022-08-19T16:16:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/healthcare-ai-startup-raises-20m-for-global-expansion.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 34
 
 secured: "qC6Euv2r2D+m6E6dZD+h8EB5/oHBHIENK/mSkWJnT3Zw1/PHmjIqSWm+aPSN68zymLAZt+FZrLNgmr705eK17sUiSyMSrc0wRVVZYY5LRbqU3vOS9MnIKV7qHTXRMCkrOwC67i9TTLrrsfe3bz9BiT+v2v6NV5dMBo/cslwQdmqpaO/5LGj3zNazD9y9ctNSiMzvISbyPjWoVp/0zyxNVYnOKzuPR211fWzARxGE94L45Fj7ovl9T94dnAt421U3qzVr6ca1BIBJ6MaepywrpRCBZrtSKB3zSHrk7wM/xMv6eTguD1d1Jspjxsr1B7H4+KWgfOkzQtStKX5n9okFfujR92PAX8aLXXUc+Zk2gxJtd43uxqCXBuM6TFqHjoCOXsjO+79q9OB4fbhyFZ1AyVUAXvazCq5GgcMhMi+MJoYveJhRqzSHZwzX3YGnXCBfB/WJ3cnBCFoLBZnGiPRhmFg6mQ1Joir5q2TKt3sS3SGkYnvDUCxWUc096DyOApXGMizI34jgE6dv8qOC7RKtEg==;54OklheOzl5wOGrcYPg89g=="
 ---

@@ -789,28 +789,37 @@
     },
     {
       "path": "_news/2022-08-02-australian-ai-star-appen-flags-first-half-loss-shares-plunge.md",
-      "title": "Australian AI Star Appen Flags First-Half Loss, Shares Plunge",
-      "excerpt": "Australian AI Star Appen Flags First-Half Loss, Shares Plunge By Byron Kaye and Upasana Singh (Reuters) - Australia's Appen Ltd, which runs artificial intelligence training for Facebook ...",
+      "title": "Australian AI star Appen flags first-half loss, shares plunge",
+      "excerpt": "Aug 2 (Reuters) - Australia's Appen Ltd (APX.AX), which runs artificial intelligence training for Facebook ... analyst John Campbell wrote in a research note. RBC Capital Markets analyst Garry ...",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2022-08-01/australian-ai-star-appen-flags-first-half-loss-shares-plunge",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-08-01/australian-ai-star-appen-flags-first-half-loss-shares-plunge",
+      "webUrl": "https://www.reuters.com/technology/australian-ai-star-appen-flags-first-half-loss-shares-plunge-2022-08-02/",
+      "originalUrl": "https://www.reuters.com/technology/australian-ai-star-appen-flags-first-half-loss-shares-plunge-2022-08-02/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=108",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T20:55:00-07:00",
+      "publishedDateTime": "2022-08-01T21:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

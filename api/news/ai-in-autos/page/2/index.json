@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-10-ai-a-world-of-new-opportunity-and-risk.md",
+      "title": "AI: A World of New Opportunity and Risk",
+      "excerpt": "And here we are, at the dawn of the AI revolution, where the advent of cloud computing and computer processing power, cheap storage, new algorithms, as well as new product and service innovations realises the benefits of a technology – from driverless cars and virtual reality to medical diagnostics and predictive machine maintenance.",
+      "sourceUrl": null,
+      "webUrl": "https://knowledge.insead.edu/leadership-organisations/ai-world-new-opportunity-and-risk",
+      "originalUrl": "https://knowledge.insead.edu/leadership-organisations/ai-world-new-opportunity-and-risk",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/images/2022/01/gettyimages-1305439287.jpg?itok=e_Bi0Lm3",
+          "width": 2517,
+          "height": 1190,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "INSEAD",
+        "domain": "insead.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-nation-releases-first-draft-of-rules-on-self-driving-vehicles-in-public.md",
       "title": "Nation releases first draft of rules on self-driving vehicles in public",
       "excerpt": "The country will encourage the use of self-driving vehicles such as buses in an enclosed Bus Rapid Transit or BRT system, and allow autonomous vehicles to offer taxi services under simple and relatively controllable scenarios,",
@@ -383,6 +426,58 @@
       ]
     },
     {
+      "path": "_news/2022-08-09-baidu-gets-permits-for-first-fully-driverless-taxi-service-in-china.md",
+      "title": "Baidu gets permits for first fully driverless taxi service in China",
+      "excerpt": "Baidu, which operates China's largest search ... and ridehailing giants like Uber and Lyft have abandoned in-house self-driving taxi efforts. In June, General Motors-backed Cruise gained permits ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
+      "originalUrl": "https://www.cnn.com/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220808095638-03-baidu-apollo-go-driverless-robotaxi-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/08/tech/baidu-robotaxi-permits-china/index.html",
+      "publishedDateTime": "2022-08-08T13:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-baidu-ceo-says-autonomous-tech-from-robocar-brand-jidu-will-be-a-generation-ahead-of-tesla.md",
       "title": "Baidu CEO says autonomous tech from ‘Robocar’ brand JIDU will be a generation ahead of Tesla",
       "excerpt": "During its inaugural partner’s conference in Shanghai, autonomous-centric robotic car brand JIDU shared details of its lofty production expansion goals overseas. Furthermore, the CEO of parent company Baidu,",
@@ -422,6 +517,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-china-drafts-rules-on-use-of-self-driving-vehicles-for-public-transport.md",
+      "title": "China drafts rules on use of self-driving vehicles for public transport",
+      "excerpt": "SHANGHAI: China should adopt autonomous vehicles in passenger transport with care, the country's Ministry of Transportation said in drafted rules to regulate the self-driving industry. The ministry will encourage the use of autonomous vehicles as taxis in easily controlled scenarios in low traffic situations,",
+      "sourceUrl": null,
+      "webUrl": "https://www.carsifu.my/news/china-drafts-rules-on-use-of-self-driving-vehicles-for-public-transport",
+      "originalUrl": "https://www.carsifu.my/news/china-drafts-rules-on-use-of-self-driving-vehicles-for-public-transport",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://da4dkroembtou.cloudfront.net/wp-content/uploads/2022/08/Untitled1.png",
+          "width": 976,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CarSifu",
+        "domain": "carsifu.my",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -560,6 +698,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-baidu-bags-first-permits-for-fully-driverless-robotaxis-in-china.md",
+      "title": "Baidu Bags First Permits For Fully Driverless 'Robotaxis' In China",
+      "excerpt": "The search engine group recently showcased a new generation of self-driving vehicles. Baidu has now secured permits to offer a fully driverless commercial robotaxi service, with no human driver ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104662107/Baidu-Bags-First-Permits-For-Fully-Driverless-Robotaxis-In-China",
+      "originalUrl": "https://menafn.com/1104662107/Baidu-Bags-First-Permits-For-Fully-Driverless-Robotaxis-In-China",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?459094",
+          "width": 375,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T07:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1151,200 +1332,6 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence.md",
-      "title": "Aragon Research Announces the 2022 Hot Vendors in Computer Vision, Intelligent Contact Centers, and Conversational Artificial Intelligence",
-      "excerpt": "Aragon Research Announces the 2022 Hot Vendors in Computer Vision, Intelligent Contact Centers, and Conversational Artificial Intelligence Aug 04,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence-2022-08-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence-2022-08-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-proteins-and-natural-language-artificial-intelligence-enables-the-design-of-novel-proteins.md",
-      "title": "Proteins and natural language: Artificial intelligence enables the design of novel proteins",
-      "excerpt": "Artificial intelligence (AI) has created new possibilities for designing tailor-made proteins to solve everything from medical to ecological problems. A research team at the University of Bayreuth led by Prof.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.html",
-      "originalUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/proteins-and-natural-l.jpg",
-          "width": 2835,
-          "height": 1929,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.amp",
-      "publishedDateTime": "2022-08-04T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-artificial-intelligence-in-drug-discovery-market-intelligence-report-global-forecast-to-2027-researchandmarketscom.md",
-      "title": "Artificial Intelligence in Drug Discovery Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com",
-      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Drug Discovery Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence in Drug Discovery Market is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pharmiweb.com/press-release/2022-08-03/artificial-intelligence-in-drug-discovery-market-intelligence-report-global-forecast-to-2027-res",
-      "originalUrl": "https://www.pharmiweb.com/press-release/2022-08-03/artificial-intelligence-in-drug-discovery-market-intelligence-report-global-forecast-to-2027-res",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
-          "width": 1200,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PharmiWeb",
-        "domain": "pharmiweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-artificial-intelligence-ai-chipsets-market-growth-analysis-statistics-key-insights-and-trend-2022-to-2026.md",
-      "title": "Artificial Intelligence (AI) Chipsets Market growth analysis, statistics, key insights and trend 2022 to 2026",
-      "excerpt": "Artificial Intelligence (AI) chipsets market is undergoing constant changes as several companies across the world are indulging in heavy investments to introduce advanced technologies in automotive safety systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-growth-analysis-statistics-key-insights-and-trend-2022-to-2026-2022-08-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-growth-analysis-statistics-key-insights-and-trend-2022-to-2026-2022-08-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI Hardware"
       ]
     }
   ],

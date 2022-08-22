@@ -2,6 +2,300 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-08-02-aerobics-isnt-the-only-exercise-that-can-slow-mild-cognitive-decline-study-finds.md",
+      "title": "Aerobics isn’t the only exercise that can slow mild cognitive decline, study finds",
+      "excerpt": "Cheer up couch potatoes! Regular stretching and balance and range of motion exercises are as good as aerobic exercise in slowing the progression of mild cognitive decline, a new study has found.",
+      "sourceUrl": null,
+      "webUrl": "https://kvia.com/news/2022/08/02/stretching-range-of-motion-and-aerobic-exercise-all-slow-cognitive-decline-study-says/",
+      "originalUrl": "https://kvia.com/news/2022/08/02/stretching-range-of-motion-and-aerobic-exercise-all-slow-cognitive-decline-study-says/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kvia.b-cdn.net/2022/05/kvia-e1653080809893.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KVIA",
+        "domain": "kvia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-why-ai-cant-be-fooled-by-teslas-stock-split.md",
+      "title": "Why AI Can’t Be Fooled By Tesla’s Stock Split",
+      "excerpt": "Tesla shares gained 32% in July, bringing the stock up 49% from May’s low If the 3-for-1 measure passes, this will be Tesla’s second stock split in two years Stock splits have been the name of the game for big tech since mid-2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e93445ffd08f13ec7b70bd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/08/02/why-ai-cant-be-fooled-by-teslas-stock-split/amp/",
+      "publishedDateTime": "2022-08-02T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-insta360-link-review-a-robot-camera-operator-for-live-streamers.md",
+      "title": "Insta360 Link review: A robot camera operator for live streamers",
+      "excerpt": "(Pocket-lint) - Insta360 may have made a name for itself with its impressive 360-degree cameras, but it's certainly not the first name that comes to mind when ... a gesture control, too, which ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pocket-lint.com/gadgets/reviews/162063-insta360-link-review",
+      "originalUrl": "https://www.pocket-lint.com/gadgets/reviews/162063-insta360-link-review",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/162063-laptops-review-insta360-link-review-image1-vwtqljvhcw.jpg",
+          "width": 945,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pocket-lint.com/gadgets/reviews/162063-insta360-link-review.amphtml",
+      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/gadgets/reviews/162063-insta360-link-review.amphtml",
+      "publishedDateTime": "2022-08-02T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "pocket-lint.com",
+        "domain": "pocket-lint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-breaking-wave-deutsche-banks-innovative-fintech-selects-relativity-trace-for-compliance-monitoring.md",
+      "title": "Breaking Wave, Deutsche Bank's Innovative Fintech, Selects Relativity Trace for Compliance Monitoring",
+      "excerpt": "Breaking Wave, Deutsche Bank's Innovative Fintech, Selects Relativity Trace for Compliance Monitoring Aug 02, 2022 (PRNewswire via COMTEX) -- PR",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/breaking-wave-deutsche-banks-innovative-fintech-selects-relativity-trace-for-compliance-monitoring-2022-08-02",
+      "originalUrl": "https://www.marketwatch.com/press-release/breaking-wave-deutsche-banks-innovative-fintech-selects-relativity-trace-for-compliance-monitoring-2022-08-02",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-deep-learning-ai-without-expert-input.md",
+      "title": "Deep Learning: AI Without Expert Input",
+      "excerpt": "A leading AI researcher, lecturer and cofounder of several deep learning-based companies. He's the CTO of AI at Nano Dimension. We are used to 20th-century machines that work well for us under ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/02/deep-learning-ai-without-expert-input/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/02/deep-learning-ai-without-expert-input/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/619e3fbd3682ccac09ae4a3e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/02/deep-learning-ai-without-expert-input/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/02/deep-learning-ai-without-expert-input/amp/",
+      "publishedDateTime": "2022-08-02T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-robot-cooks-are-rapidly-making-their-way-into-restaurant-kitchens.md",
+      "title": "Robot cooks are rapidly making their way into restaurant kitchens",
+      "excerpt": "Restaurants are looking to robotics to help solve staffing problems as well as alleviate repetitive tasks. It's becoming easier as the tech is now cheaper.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnbc.com/2022/08/02/robot-cooks-are-rapidly-making-their-way-into-restaurant-kitchens.html",
+      "originalUrl": "https://www.cnbc.com/2022/08/02/robot-cooks-are-rapidly-making-their-way-into-restaurant-kitchens.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.cnbcfm.com/api/v1/image/106964440-1634903029064Team_Member_Next_to_Flippy_ROAR_at_the_Fryer.JPG?v=1659454911",
+          "width": 4032,
+          "height": 3024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnbc.com/amp/2022/08/02/robot-cooks-are-rapidly-making-their-way-into-restaurant-kitchens.html",
+      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/02/robot-cooks-are-rapidly-making-their-way-into-restaurant-kitchens.html",
+      "publishedDateTime": "2022-08-02T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNBC",
+        "domain": "cnbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-googles-ai-lab-deepmind-offers-gift-to-humanity-with-protein-structure-solution.md",
       "title": "Google’s AI Lab, DeepMind, Offers ‘Gift to Humanity’ with Protein Structure Solution",
       "excerpt": "Then DeepMind came along. The artificial intelligence lab, which is a subsidiary of Google’s parent company Alphabet, had set its sights on solving the longstanding “grand challenge” within ...",
@@ -807,21 +1101,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-02-traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.md",
-      "title": "Traceable AI adds eBPF to security platform for deeper API observability and visibility",
-      "excerpt": "API security firm says eBPF will be used to map the API attack surface area of customers, addressing key API security challenges.",
+      "path": "_news/2022-08-02-australian-ai-star-appen-flags-first-half-loss-shares-plunge.md",
+      "title": "Australian AI star Appen flags first-half loss, shares plunge",
+      "excerpt": "Aug 2 (Reuters) - Australia's Appen Ltd (APX.AX), which runs artificial intelligence training for Facebook ... analyst John Campbell wrote in a research note. RBC Capital Markets analyst Garry ...",
       "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.html",
-      "originalUrl": "https://www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.html",
+      "webUrl": "https://www.reuters.com/technology/australian-ai-star-appen-flags-first-half-loss-shares-plunge-2022-08-02/",
+      "originalUrl": "https://www.reuters.com/technology/australian-ai-star-appen-flags-first-half-loss-shares-plunge-2022-08-02/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.idgesg.net/images/article/2019/11/cso_api_security_alert_software_development_flow_chart_diagram_by_spainter_vfx_gettyimages-912158954_2400x1600-100817487-large.jpg?auto=webp&quality=85,70",
+          "url": "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=108",
           "width": 1200,
-          "height": 800,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -829,50 +1123,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.amp.html",
-      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.amp.html",
-      "publishedDateTime": "2022-08-01T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-australian-ai-star-appen-flags-first-half-loss-shares-plunge.md",
-      "title": "Australian AI Star Appen Flags First-Half Loss, Shares Plunge",
-      "excerpt": "Australian AI Star Appen Flags First-Half Loss, Shares Plunge By Byron Kaye and Upasana Singh (Reuters) - Australia's Appen Ltd, which runs artificial intelligence training for Facebook ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2022-08-01/australian-ai-star-appen-flags-first-half-loss-shares-plunge",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-08-01/australian-ai-star-appen-flags-first-half-loss-shares-plunge",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T20:55:00-07:00",
+      "publishedDateTime": "2022-08-01T21:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
+        "name": "Reuters",
+        "domain": "reuters.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -889,239 +1149,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-activision-blizzard-hits-financial-targets-with-q2-bookings-of-164b.md",
-      "title": "Activision Blizzard hits financial targets with Q2 bookings of $1.64B",
-      "excerpt": "Activision Blizzard reported that its Q2 bookings hit $1.64 billion, slightly better than expected by analysts, while earnings hit the mark exactly.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/games/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/",
-      "originalUrl": "https://venturebeat.com/games/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/atvi.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/games/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/games/activision-blizzard-hits-financial-targets-with-q2-bookings-of-1-64b/amp/",
-      "publishedDateTime": "2022-08-01T20:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science.md",
-      "title": "Google's DeepMind AI Predicts 3D Structure of Nearly Every Protein Known to Science",
-      "excerpt": "On Thursday, Google's sister company, DeepMind, announced it has successfully used artificial intelligence to predict the 3D structures of nearly every catalogued protein known to science.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/biology/googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science/",
-      "originalUrl": "https://www.cnet.com/science/biology/googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/07fd24f6e895baa36441c82a2b640657f3f2cbd8/2022/07/28/8f1688f9-ef38-476c-b270-5967d88de874/gettyimages-154963443.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-deepmind-ai-predicts-3d-structure-of-nearly-every-protein-known-to-science/",
-      "publishedDateTime": "2022-08-01T19:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-eating-lots-of-highly-processed-food-is-linked-to-faster-cognitive-decline-research-finds.md",
-      "title": "Eating lots of highly processed food is linked to faster cognitive decline, research finds",
-      "excerpt": "Eating highly processed foods like instant noodles, sugary drinks or frozen meals may be linked to a faster rate of cognitive decline. That's according to new research presented Monday at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/health/health-news/highly-processed-food-linked-faster-cognitive-decline-rcna40999",
-      "originalUrl": "https://www.nbcnews.com/health/health-news/highly-processed-food-linked-faster-cognitive-decline-rcna40999",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-08/220802-instant-noodles-processed-foods-mn-0840-27f253.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna40999",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna40999",
-      "publishedDateTime": "2022-08-01T17:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-microsoft-broke-its-own-hiring-record-adding-40000-employees-over-the-year.md",
-      "title": "Microsoft broke its own hiring record, adding 40,000 employees over the year",
-      "excerpt": "Microsoft added 40,000 additional people to its roster which represents a 22% year over year increase and a total of 221,000 employees for",
-      "sourceUrl": null,
-      "webUrl": "https://www.onmsft.com/news/microsoft-broke-its-own-hiring-record-adding-40000-employees-over-the-year",
-      "originalUrl": "https://www.onmsft.com/news/microsoft-broke-its-own-hiring-record-adding-40000-employees-over-the-year",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.onmsft.com/wp-content/uploads/2016/02/microsoft-satya-nadella-talks-to-troops.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T17:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "On MSFT",
-        "domain": "onmsft.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-according-to-marketsandmarketscom-artificial-intelligence-in-healthcare-market-2027-research-study-edition.md",
-      "title": "According to MarketsandMarkets.com – Artificial Intelligence in Healthcare Market 2027 Research Study Edition",
-      "excerpt": "The artificial intelligence in healthcare market is projected to grow from USD 6.9 billion in 2021 to USD 67.4 billion by 2027, at a CAGR of 46.2% Increasing application of AI in healthcare such ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/according-to-marketsandmarkets-com-artificial-intelligence-in-healthcare-market-2027-research-study-edition",
-      "originalUrl": "https://www.digitaljournal.com/pr/according-to-marketsandmarkets-com-artificial-intelligence-in-healthcare-market-2027-research-study-edition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketsandmarkets.com/Images/artificial-intelligence-healthcare-market1-size.jpg",
-          "width": 650,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

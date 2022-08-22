@@ -1,22 +1,20 @@
 ---
 category: news
 title: "Sapia and Greenhouse partnership brings world-first AI Smart Interviewer to integrations marketplace"
-excerpt: "Greenhouse offers businesses a complete suite of software and services for recruiting and onboarding, as well as a large partner ecosystem. Sapia CEO, Barb Hyman said that the partnership is a game changer for organizations that need to fill roles efficiently while giving every candidate an engaging and fair experience."
-publishedDateTime: 2022-08-22T05:09:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/sapia-and-greenhouse-partnership-brings-world-first-ai-smart-interviewer-to-integrations-marketplace-1031696954"
-webUrl: "https://markets.businessinsider.com/news/stocks/sapia-and-greenhouse-partnership-brings-world-first-ai-smart-interviewer-to-integrations-marketplace-1031696954"
+excerpt: "Greenhouse has selected Sapia.ai, creator of the world's first AI Smart Interviewer, as its newest integration partner – enabling Greenhouse customers to access the"
+publishedDateTime: 2022-08-22T04:52:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28578714/sapia-and-greenhouse-partnership-brings-world-first-ai-smart-interviewer-to-integrations-marketpla"
+webUrl: "https://www.benzinga.com/pressreleases/22/08/n28578714/sapia-and-greenhouse-partnership-brings-world-first-ai-smart-interviewer-to-integrations-marketpla"
+ampWebUrl: "https://www.benzinga.com/amp/content/28578714"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28578714"
 type: article
-quality: 32
+quality: 22
 heat: -1
 published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - AI
@@ -53,6 +51,6 @@ related:
         height: 630
         isCached: true
 
-secured: "qtPin9Zgw2oLa41n1G3r8AIKOIJVfgU5MGBAGj/Q21pJHf1sU7nLHiR8FxmUsh8Q/vagbr8nUbddK22q43RB0bOG95fiI+W0O0DLFcThQ1ulU0kwISMQYdySFIdznxPCK/VtVws4lKbE25GtLeLBWDlflXCeaLoGe7cqBpNmt3uoAb49JHnjXFJrM3vNwucrOHxMkbsNsGAl/Oiu4DTwInEdYpmXmk2MBCqJnA+QqM1rCd512LoKm86okmrpjGr5OSykPuk3efZJXztu12iB3r9KmeWAdKMFqpZ40mdF1NoKjBl463H8Fz919/rlhCl8pa4rbt4aLrYMqz11DGrWksQ5v00r/AN0Wwz3fB5b7vs=;/V1lSXdk+P2qFXgHHkiS6A=="
+secured: "lybecosGi3awRWI/B1VRnvSDoESrctm47+VwZ42J9Zv3dIb1nUkS7j9lLaA9cNaIHhERL1jM3F13BlKjUaBp0MCxUY18ixa1wxPkQTjl1FMOBf5ZOD1iJVVNUjqxB7miiHID9Caf9vxlY4Q+ec939N5cAmuKO4y08bUP7feVKDY7QtjtntHYwUxCX8EucSLT79nlhvAJxpdgWmfaSF1onoedg+ayQt6ZXemgU9b8NGmb70lTcdaeE7kCXnX8nAi81SbB19etgqo8fM1/I9KA+vdqWK/JjlLkqfbURvvI6tQTxIxzHD82FB/xUcA5G9+01vXRTi67sZUbtHMCIbkZVcEIoHURUogklYznqRpb5ec=;zEvU/1Ii4FdZXsjeGxlRwg=="
 ---
 

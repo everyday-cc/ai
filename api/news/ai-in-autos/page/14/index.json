@@ -2,6 +2,187 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-05-24-drive-io-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars.md",
+      "title": "Drive I/O | Shanghai automakers hit by lockdowns, China’s new push for driverless cars",
+      "excerpt": "Baidu and self-driving unicorn Pony.ai received permits to offer fully autonomous rides to the Beijing public in late April, the first service of its kind in the country. Domestic battery suppliers saw profits plunge in the first quarter amid rising raw ...",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/",
+      "originalUrl": "https://technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2022/05/屏幕快照-2020-05-07-下午4.16.18.jpg?fit=1200%2C601&ssl=1",
+          "width": 1200,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/",
+      "publishedDateTime": "2022-05-23T17:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-meet-the-9-cruise-engineers-taking-gms-self-driving-division-from-science-experiment-to-the-first-robotaxi-service-for-the-masses.md",
+      "title": "Meet the 9 Cruise engineers taking GM's self-driving division from science experiment to the first robotaxi service for the masses",
+      "excerpt": "The company is offering driverless rides in western San Francisco ... that leverages the datasets from those tests to build artificial-intelligence models that can teach Cruise's fleet how to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/top-cruise-engineers-bringing-driverless-rides-to-the-masses-2022-5",
+      "originalUrl": "https://www.businessinsider.com/top-cruise-engineers-bringing-driverless-rides-to-the-masses-2022-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6287bd42577b8a001827c07c?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-self-driving-vehicle-start-up-minus-zero-raises-17mn-in-seed-fund.md",
+      "title": "Self-driving vehicle start-up Minus Zero raises $1.7mn in seed fund",
+      "excerpt": "Minus Zero, the self-driving vehicle start-up, has raised $1.7 million in a seed round led by Chiratae Ventures and clocking participation from JITO Angel Network. Angel investors from the autonomous vehicles industry,",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-05/23/full/1653301694-2772.png",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/self-driving-vehicle-start-up-minus-zero-raises-1-7mn-in-seed-fund-122052301068_1.html",
+      "publishedDateTime": "2022-05-23T03:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-a-start-up-aims-to-bring-driverless-cars-to-indian-roads.md",
+      "title": "A start-up aims to bring driverless cars to Indian roads",
+      "excerpt": "Minus Zero, co-founded by Gagandeep Reehal and Gursimran Kalra, aims to make autonomous vehicles popular in India. Last year in April it had successful tested its prototype, an au",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/",
+      "originalUrl": "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 164,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/05/driverless-cars-cashless-future-1140x641-1.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/a-start-up-aims-to-bring-driverless-cars-to-indian-roads/2534533/lite/",
+      "publishedDateTime": "2022-05-23T00:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-05-22-ai-ethics-unnervingly-asking-whether-ai-biases-are-insidiously-hiding-societal-power-dynamics-including-for-ai-self-driving-cars.md",
       "title": "AI Ethics Unnervingly Asking Whether AI Biases Are Insidiously Hiding Societal Power Dynamics, Including For AI Self-Driving Cars",
       "excerpt": "A bubbling up theory is that AI biases are reflections of hidden societal power dynamics, which has vital impacts for AI and AI Ethics, including the use case of self-driving cars.",
@@ -1198,188 +1379,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-us-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates.md",
-      "title": "U.S. warns of discrimination in using artificial intelligence to screen job candidates",
-      "excerpt": "The federal government said Thursday that artificial intelligence technology to screen new job candidates or monitor worker productivity can unfairly discriminate against people with disabilities, sending a warning to employers that the commonly used ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates",
-      "originalUrl": "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/698123e/2147483647/strip/true/crop/3846x2164+0+360/resize/430x242!/quality/90/?url=https%3A%2F%2Fmedia.npr.org%2Fassets%2Fimg%2F2022%2F05%2F20%2Fgettyimages-1398144370-7943bd836e3ca79a7bcbc11dc12dbb04d8e3b45f.jpg",
-          "width": 430,
-          "height": 242,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true",
-      "cdnAmpWebUrl": "https://www-iowapublicradio-org.cdn.ampproject.org/c/s/www.iowapublicradio.org/news-from-npr/2022-05-12/u-s-warns-of-discrimination-in-using-artificial-intelligence-to-screen-job-candidates?_amp=true",
-      "publishedDateTime": "2022-05-12T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Iowa Public Radio",
-        "domain": "iowapublicradio.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups.md",
-      "title": "Watch the latest TechCrunch Live here: Raising monster rounds for self-driving mobility startups",
-      "excerpt": "TechCrunch Live records, well, live every Wednesday at noon Pacific, and it’s a great time. The events are free, and is available to watch on Facebook, YouTube, and Twitter. However, if you want ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/12/watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups/",
-      "originalUrl": "https://techcrunch.com/2022/05/12/watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/Df0KQS_Dox8/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/12/watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/watch-the-latest-techcrunch-live-here-raising-monster-rounds-for-self-driving-mobility-startups/amp/",
-      "publishedDateTime": "2022-05-12T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-aws-deepracer-program-teaches-developers-about-emerging-tech.md",
-      "title": "AWS DeepRacer program teaches developers about emerging tech",
-      "excerpt": "Different solutions are available for developers to learn more about AI and machine learning, including projects like the AWS DeepRacer simulator. “Developers can start with the cloud-based ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/05/11/aws-deepracer-program-teaches-developers-emerging-tech-awssummitsf/?via=indexdotco",
-      "originalUrl": "https://siliconangle.com/2022/05/11/aws-deepracer-program-teaches-developers-emerging-tech-awssummitsf/?via=indexdotco",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Mike-Miller-AWS-Summit-SF-2022-1.jpg",
-          "width": 5472,
-          "height": 3648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-google-offers-a-more-modest-vision-of-the-future.md",
-      "title": "Google offers a more modest vision of the future",
-      "excerpt": "There was a time when Google offered a wondrous vision of the future, with driverless cars ... The company’s biggest bet in artificial intelligence does not, at least for now, mean science ...",
-      "sourceUrl": null,
-      "webUrl": "https://bdnews24.com/technology/2022/05/12/google-offers-a-more-modest-vision-of-the-future",
-      "originalUrl": "https://bdnews24.com/technology/2022/05/12/google-offers-a-more-modest-vision-of-the-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d30fl32nd2baj9.cloudfront.net/media/2022/05/12/google-presentation-120522-01.jpg/BINARY/google-presentation-120522-01.jpg",
-          "width": 1024,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.bdnews24.com/amp/en/detail/technology/2059713",
-      "cdnAmpWebUrl": "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/technology/2059713",
-      "publishedDateTime": "2022-05-11T23:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bdnews24",
-        "domain": "bdnews24.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

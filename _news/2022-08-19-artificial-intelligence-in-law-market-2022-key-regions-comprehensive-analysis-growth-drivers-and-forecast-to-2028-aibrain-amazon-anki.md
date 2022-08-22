@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Automatic Speech Recognition (ASR) Software Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028"
-    excerpt: "Software Market size\" was estimated at USD billions in 2022 and expected to reach USD billions in 2028, and is predicted to grow at a CAGR rate to reach USD billion by 2028. The global Automatic Speech Recognition (ASR) Software market size is projected to reach multi million by 2028,"
-    publishedDateTime: 2022-08-17T18:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-asr-software-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
   - title: "Artificial Intelligence In Healthcare Sector Market Size, Share, Growth Opportunity, Rising Demand and Trends Analysis Forecasts till 2027"
     excerpt: "The “Artificial Intelligence In Healthcare Sector Market” 2022 Research report will make detailed analysis mainly"
     publishedDateTime: 2022-08-19T10:12:00Z

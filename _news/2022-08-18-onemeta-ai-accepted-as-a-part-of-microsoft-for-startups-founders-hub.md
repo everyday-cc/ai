@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/onemeta-ai-accepted-as-a
 webUrl: "https://www.marketwatch.com/press-release/onemeta-ai-accepted-as-a-part-of-microsoft-for-startups-founders-hub-2022-08-18"
 type: article
 quality: 84
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -63,15 +63,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 54
-  - title: "Microsoft Is Empowering Its Investors To Achieve More"
-    excerpt: "Microsoft’s stock marks 304% performance over the past 5 years and is likely positioned to be a strong leading growth stock in the coming years. Read how here."
-    publishedDateTime: 2022-08-17T18:37:00Z
-    webUrl: "https://seekingalpha.com/article/4535256-microsoft-is-empowering-its-investors-to-achieve-more"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 19
 
 secured: "E9WUjl2jiXqBsavurz7iPnnEJh8HLsyuWJa/j3/5IlT7Ocdx4EHGynmJneE45k+gNR1k9RYe+KleiA28XZP3pBqMk2WOUU7PEiBmovCjjHqEHBWc5nGV4p/JN0AFMNbE8UXRZUf7H1iLmFfiFhKYfSbtGJ4/tlDDQUJhmhrA9ULrxios5ScPKR4pqLVbpDfq0LfCObN/S+pO5CD9/pA9OAbtzp7VNZZ9vc7ENUkPbWPyIegDcjTZQyt+GS01wRVgbIg0TcmSDpVrSz4KD+PXSGq5bKAV3Cj6XVRhHps2rVPtlOskxLRUohU4FaQZFHRzgTKImC0nfoP1E1qEDj73RLxCdFctNc6Ygu8cVApMXPM=;baPIUg59nNhtrVfmtHfJFA=="
 ---

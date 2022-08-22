@@ -89,6 +89,22 @@ related:
         width: 640
         height: 360
         isCached: true
+  - title: "AI market can be worth USD 7.8 billion by 2025 | AI career roadmap for beginners"
+    excerpt: "Here are some of the skills that you would require to make a successful career in the field of AI and Machine Learning."
+    publishedDateTime: 2022-08-22T11:07:00Z
+    webUrl: "https://www.indiatoday.in/education-today/jobs-and-careers/story/ai-market-can-touch-up-to-usd-7-8-billion-in-india-by-2025-here-s-the-career-roadmap-for-beginners-1991099-2022-08-22"
+    ampWebUrl: "https://www.indiatoday.in/amp/education-today/jobs-and-careers/story/ai-market-can-touch-up-to-usd-7-8-billion-in-india-by-2025-here-s-the-career-roadmap-for-beginners-1991099-2022-08-22"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/jobs-and-careers/story/ai-market-can-touch-up-to-usd-7-8-billion-in-india-by-2025-here-s-the-career-roadmap-for-beginners-1991099-2022-08-22"
+    type: article
+    provider:
+      name: India Today
+      domain: indiatoday.in
+    quality: 52
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202208/technology-3435575__340-647x363.jpeg?ctomwJL8F1TFTnIcypr0wTy_FS85UjtX"
+        width: 647
+        height: 363
+        isCached: true
   - title: "UK plans for first self-driving vehicles on roads by 2025"
     excerpt: "Aug 19 2022, 21:48 ist updated: Aug 19 2022, 21:48 ist A verification email has been sent to your inbox. Please verify to complete the subscription."
     publishedDateTime: 2022-08-19T16:29:00Z

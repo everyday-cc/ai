@@ -68,6 +68,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
+  - title: "Do I Know You? How Flawed is Facial Recognition?"
+    excerpt: "The Viola-Jones algorithm is an object-recognition framework that allows the detection of image features in real-time and is one of the most powerful algorithms of its time. However, the tests’ results were disappointing regarding the accuracy levels ..."
+    publishedDateTime: 2022-08-22T11:31:00Z
+    webUrl: "https://www.electropages.com/blog/2022/08/do-i-know-you-how-flawed-facial-recognition"
+    type: article
+    provider:
+      name: Electropages
+      domain: electropages.com
+    quality: 39
+    images:
+      - url: "https://www.electropages.com/storage/app/media/2022/Aug/ai-facial-recognition-og.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Bans Begin To Fall Around the US as Re-Funding of Law Enforcement Becomes Politically Popular"
     excerpt: "Some cities and states that were early to ban law enforcement from using facial recognition software appear to be having second thoughts as crime spikes become a major political issue."
     publishedDateTime: 2022-08-18T22:00:00Z

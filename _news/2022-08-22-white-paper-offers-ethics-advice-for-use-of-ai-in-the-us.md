@@ -35,7 +35,7 @@ related:
     provider:
       name: City A.M.
       domain: cityam.com
-    quality: 76
+    quality: 78
     images:
       - url: "https://www.cityam.com/wp-content/uploads/2022/08/GettyImages-928215790.jpg"
         width: 1024

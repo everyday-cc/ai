@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-worth-494-billion-by-2027---exclusive-report-by-marketsandmarketstm-2022-08-18"
 type: article
 quality: 63
-heat: 93
+heat: 103
 published: true
 
 provider:
@@ -54,6 +54,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 35
+  - title: "Europe Robotic Lawn Mower Market to Reach $1.25 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The Europe robotic lawn mower market size reached US$ 617 Million in 2021. Looking forward, the publisher expects the market to reach US$ 1,256 Million by 2027, exhibiting a CAGR of 12.58% during 2021-2027."
+    publishedDateTime: 2022-08-22T11:24:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-22-europe-robotic-lawn-mower-market-to-reach-125-billion-by-2027-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 10
   - title: "Artificial Intelligence Market Worth $407.0 Billion By 2027 – Exclusive Report by MarketsandMarkets™"
     excerpt: "Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.2% during the forecast period, to reach USD 407.0 billion by 2027 from"
     publishedDateTime: 2022-08-19T12:33:00Z

@@ -2,6 +2,51 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-22-artificial-intelligence-is-the-new-frontier-of-ethical-tests.md",
+      "title": "Artificial intelligence is the new frontier of ethical tests",
+      "excerpt": "This has, predictably, put the debate over artificial intelligence centre stage ... dilemma around who to save when there are choices and how does one stop a robot going “rogue?” As AI becomes more common-place, regulators have been seeking to grapple ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/",
+      "originalUrl": "https://www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2022/08/GettyImages-928215790.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/?amp=1",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/?amp=1",
+      "publishedDateTime": "2022-08-22T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-08-22-how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills.md",
       "title": "How to become an AI Engineer? Check out to know education, roles and skills",
       "excerpt": "In fact, there has been a massive 154% growth in the worldwide AI market. Artificial Intelligence impacts how machines may improve human life, from driverless automobiles to android systems in phones, apps, and other electronic gadgets. And to maintain and ...",
@@ -46,21 +91,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-21-teslas-full-self-driving-software-is-going-up-in-price-again.md",
-      "title": "Tesla’s Full-Self Driving software is going up in price again",
-      "excerpt": "Tesla’s increasing the price of its Full-Self Driving (FSD) software to $15,000. In a post on Twitter, Tesla CEO Elon Musk announced that the new price will go into effect in North America starting September 5th,",
+      "path": "_news/2022-08-22-tesla-raising-price-of-full-self-driving-feature-to-15000-next-month.md",
+      "title": "Tesla raising price of ‘Full Self-Driving’ feature to $15,000 next month",
+      "excerpt": "Elon Musk on Sunday announced the price of Tesla Inc.'s \"Full Self-Driving\" feature will rise by 25% next month, to from $12,000 to $15,000.",
       "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/8/21/23315270/tesla-full-self-driving-fsd-feature-price-increase-electric-vehicle-elon-musk",
-      "originalUrl": "https://www.theverge.com/2022/8/21/23315270/tesla-full-self-driving-fsd-feature-price-increase-electric-vehicle-elon-musk",
+      "webUrl": "https://www.marketwatch.com/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442?mod=mw_latestnews",
+      "originalUrl": "https://www.marketwatch.com/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442?mod=mw_latestnews",
       "featuredContent": null,
       "highlight": null,
-      "heat": 249,
+      "heat": 293,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.vox-cdn.com/thumbor/wEmS6qeSqPoyWcc1aVYbTgsWqPY=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11423501/acastro_180524_1777_tesla_0003.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://images.mktw.net/im-528682/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -68,16 +113,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-21T09:42:00-07:00",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442",
+      "publishedDateTime": "2022-08-21T12:17:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -149,7 +194,7 @@
       "originalUrl": "https://www.reuters.com/business/autos-transportation/britain-sets-out-roadmap-self-driving-vehicle-usage-by-2025-2022-08-19/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 284,
+      "heat": 294,
       "tags": null,
       "images": [
         {
@@ -1372,49 +1417,6 @@
       "provider": {
         "name": "Digital Journal",
         "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-ai-a-world-of-new-opportunity-and-risk.md",
-      "title": "AI: A World of New Opportunity and Risk",
-      "excerpt": "And here we are, at the dawn of the AI revolution, where the advent of cloud computing and computer processing power, cheap storage, new algorithms, as well as new product and service innovations realises the benefits of a technology – from driverless cars and virtual reality to medical diagnostics and predictive machine maintenance.",
-      "sourceUrl": null,
-      "webUrl": "https://knowledge.insead.edu/leadership-organisations/ai-world-new-opportunity-and-risk",
-      "originalUrl": "https://knowledge.insead.edu/leadership-organisations/ai-world-new-opportunity-and-risk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/images/2022/01/gettyimages-1305439287.jpg?itok=e_Bi0Lm3",
-          "width": 2517,
-          "height": 1190,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "INSEAD",
-        "domain": "insead.edu",
         "images": null,
         "publishers": null,
         "authors": null

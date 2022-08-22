@@ -19,15 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "A new neuromorphic chip for AI on the edge, at a small fraction of the energy and size of today's compute platforms"
-    excerpt: "An international team of researchers has designed and built a chip that runs computations directly in memory and can run a wide variety of AI applications -- all at a fraction of the energy consumed by computing platforms for general-purpose AI computing."
-    publishedDateTime: 2022-08-17T18:39:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/08/220817114253.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 42
   - title: "Researchers Develop Graphene-based Synaptic Transistor for Neuromorphic Devices"
     excerpt: "Recently, researchers from the University of Texas and Sandia National Laboratories announced the development of a graphene-based transistor that exhibits properties similar to neurons."
     publishedDateTime: 2022-08-18T16:08:00Z

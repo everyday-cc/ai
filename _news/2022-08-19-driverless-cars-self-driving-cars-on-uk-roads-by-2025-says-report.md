@@ -73,6 +73,22 @@ related:
         width: 1200
         height: 739
         isCached: true
+  - title: "AI market can be worth USD 7.8 billion by 2025 | AI career roadmap for beginners"
+    excerpt: "Here are some of the skills that you would require to make a successful career in the field of AI and Machine Learning."
+    publishedDateTime: 2022-08-22T11:07:00Z
+    webUrl: "https://www.indiatoday.in/education-today/jobs-and-careers/story/ai-market-can-touch-up-to-usd-7-8-billion-in-india-by-2025-here-s-the-career-roadmap-for-beginners-1991099-2022-08-22"
+    ampWebUrl: "https://www.indiatoday.in/amp/education-today/jobs-and-careers/story/ai-market-can-touch-up-to-usd-7-8-billion-in-india-by-2025-here-s-the-career-roadmap-for-beginners-1991099-2022-08-22"
+    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/jobs-and-careers/story/ai-market-can-touch-up-to-usd-7-8-billion-in-india-by-2025-here-s-the-career-roadmap-for-beginners-1991099-2022-08-22"
+    type: article
+    provider:
+      name: India Today
+      domain: indiatoday.in
+    quality: 52
+    images:
+      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202208/technology-3435575__340-647x363.jpeg?ctomwJL8F1TFTnIcypr0wTy_FS85UjtX"
+        width: 647
+        height: 363
+        isCached: true
   - title: "Self-driving vehicles 'will be on UK roads by 2025' under new plans"
     excerpt: "Some cars, coaches and lorries with self-driving features could be operating on motorways as early as next year."
     publishedDateTime: 2022-08-19T06:12:00Z

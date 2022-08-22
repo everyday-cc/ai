@@ -1,17 +1,17 @@
 ---
 category: news
-title: "Australian AI Star Appen Flags First-Half Loss, Shares Plunge"
-excerpt: "Australian AI Star Appen Flags First-Half Loss, Shares Plunge By Byron Kaye and Upasana Singh (Reuters) - Australia's Appen Ltd, which runs artificial intelligence training for Facebook ..."
-publishedDateTime: 2022-08-02T03:55:00Z
-originalUrl: "https://www.usnews.com/news/technology/articles/2022-08-01/australian-ai-star-appen-flags-first-half-loss-shares-plunge"
-webUrl: "https://www.usnews.com/news/technology/articles/2022-08-01/australian-ai-star-appen-flags-first-half-loss-shares-plunge"
+title: "Australian AI star Appen flags first-half loss, shares plunge"
+excerpt: "Aug 2 (Reuters) - Australia's Appen Ltd (APX.AX), which runs artificial intelligence training for Facebook ... analyst John Campbell wrote in a research note. RBC Capital Markets analyst Garry ..."
+publishedDateTime: 2022-08-02T04:22:00Z
+originalUrl: "https://www.reuters.com/technology/australian-ai-star-appen-flags-first-half-loss-shares-plunge-2022-08-02/"
+webUrl: "https://www.reuters.com/technology/australian-ai-star-appen-flags-first-half-loss-shares-plunge-2022-08-02/"
 type: article
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
+  name: Reuters
+  domain: reuters.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -19,6 +19,12 @@ topics:
   - Facebook AI
   - AI
 
-secured: "zdzzKfGeJHWx9J8qfqFo2cwlAdy6yJtYhXElVKwhuo3nWiZgHjjhXw3QIDuFYbVuvAjlZxhTSMPWctik8IvvwNdFtzUdZJyRK/6sUBSgY7E3xr17BTBljb3s0QrzVoC2JiRVCrRn8TfaoJk6aNyxGCY3Pv4rAswr2qv0XsZQp9kcVumRLUNcBa3I8dP5DGUzFpJY0F/oLYOrcyk5H2TfsXFF2kTOdP6zP05zUKOwrOfCBd8Rv3yIgBl4o9taAZ3I3ieJtXFjbzVq/Ve1ulKl9cJKUe/A+HpVq0NlO47cZYL3z07uY1nheAdnbJ8YFK5QrwB8zeXTufpHwXWrvIt61cY/JNUZXEIwPDqt0Kg7FsI=;+oYM+SvuaOH5ovnNYJZ6gQ=="
+images:
+  - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=108"
+    width: 1200
+    height: 628
+    isCached: true
+
+secured: "n2n3JAZrfJkTHqB2XCz1Lu4QfbUe3JNkiBofcIBpKnQy1AuNbKidOdelqv91dNI42T8MSPvV8N5zaOqEolrnt9uhPByhAyvHY5Gv7bJ5h3OcUYRp+TLy2n2NW9RCrzaObKb/Cxikz6u8uG1q9KwPAS0DNz01oWHuNk5W8oexTeUP4hUkWuFWYrozozksZOWy+BjsjOTbeSieMhTSLLSy5Rr+0bp4MkdZutwibjSHeNvg0lMizrsrfUzLY3le5R0wInN6ZlZVk1ZgkN5Dy9yzbjqvlAJ2cx0AJ1d/cDsUCAIs3xqpsS8p7SkHiUOJJn2QHRwWCCmh0m+D+JOW3l9MpuaxSVGbNMALLoNhGNLYrJU=;4E6YPqcjBqqWxvCaKWbN/Q=="
 ---
 

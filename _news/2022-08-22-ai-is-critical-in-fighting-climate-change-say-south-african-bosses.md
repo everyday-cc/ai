@@ -2,25 +2,25 @@
 category: news
 title: "AI is Critical in Fighting Climate Change say South African Bosses"
 excerpt: "According to a new report from the AI for the Planet Alliance, titled How AI Can Be a Powerful Tool in the Fight Against Climate Change and produced in collaboration with Boston Consulting Group (BCG) and BCG GAMMA,"
-publishedDateTime: 2022-08-22T08:44:00Z
-originalUrl: "https://www.itnewsafrica.com/2022/08/south-african-leaders-believe-ai-critical-in-fighting-climate-change-report/"
-webUrl: "https://www.itnewsafrica.com/2022/08/south-african-leaders-believe-ai-critical-in-fighting-climate-change-report/"
+publishedDateTime: 2022-08-22T10:19:00Z
+originalUrl: "https://za.investing.com/news/ai-is-critical-in-fighting-climate-change-say-south-african-bosses-2605174"
+webUrl: "https://za.investing.com/news/ai-is-critical-in-fighting-climate-change-say-south-african-bosses-2605174"
 type: article
 quality: 37
 heat: 37
 published: false
 
 provider:
-  name: IT News Africa
-  domain: itnewsafrica.com
+  name: Investing.com
+  domain: investing.com
 
 topics:
   - AI
 
 images:
-  - url: "https://www.itnewsafrica.com/wp-content/uploads/2022/08/Climate-Change-Tech-696x452.jpg"
-    width: 696
-    height: 452
+  - url: "https://i-invdn-com.investing.com/redesign/images/components/main-footer/mobile-android-iphone.png"
+    width: 251
+    height: 282
     isCached: true
 
 related:
@@ -39,6 +39,6 @@ related:
         height: 363
         isCached: true
 
-secured: "hPesKBWpt1OkvB/Nkk81nHkE3lhXyFJ58m78Ul0zCwmBo+fCkKi5rDUcwnWHPZv+7AFfbDbwsi3uRh5eH84lnsxhjU0dnWK4pL8kgYxJ1mrHjyLNKXPwTCXxUIW72bFxogd5iziSXeupw9bjQD0h+oIajz1SDCXiX02/r7fgR4piRKFbNQZRVGN+y2/y+lzRcC4scALI0GIaxgypE1Dv6nENSjOVoPzvzaMJuoxkC5EaFwjRLJQVuoYgbRFjEHtDxKgZmjbUSUTmCXE1iOpn8iyKiB7InweyZIr62WsFr+73eKMxAcWohbGf3qFrcbbNiS5BAdquc7/l26zKEAaNElN++le2VN2UzwPkaNEy40g=;bUryxQiqQF8ihcRIwH1iRg=="
+secured: "eoLVPxgv6XZF+Lk6Mxk2XTFVzs1WmGWV8cenBA4O1kjqcCR1cQ4pa7eDjbBobuJD4C5pGF+BMEhJDLILVF650Hzi5TVrC1cMa+aoGw8XayDkrVrUtTqZtQu7hjEaWG5wFNjTtLXtX9k/NxDoGMwnMj4DgeerYHXcnjsTjsQ6iUSaQet5oJAVA1fGCyKFFVB71TdNt4r+nFOLhapXdm3ZVRZCifSB5OiQ7cr/ShGfaZLj0G3XLOzGEYJAWD9hj/VgLEKUSudTASoKfdo4+9s6F9uybP49Rh7yNyv7zKiD+jQHIeicnS595tH3pESh8P/6pTiy7zAG7gMNQA0e8+67WomeqTaVr9XxAOI7KWeLgAA=;wr1thcWwJlNC45BmdA0X+w=="
 ---
 

@@ -58,6 +58,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 35
+  - title: "Europe Robotic Lawn Mower Market to Reach $1.25 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The Europe robotic lawn mower market size reached US$ 617 Million in 2021. Looking forward, the publisher expects the market to reach US$ 1,256 Million by 2027, exhibiting a CAGR of 12.58% during 2021-2027."
+    publishedDateTime: 2022-08-22T11:24:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-22-europe-robotic-lawn-mower-market-to-reach-125-billion-by-2027-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 10
 
 secured: "nsmaHfAvG+UPqREG5noF4m1TYO5yXAIOTfe9qZHq9QxoXI4Dykm7IyKaj6NMa9hrPFJU2yasOCLGOZYPiZySWmXzhhOc0g/d0b7iuOPyLX2pUnYVnp3aFUotw12kHh+yg5EkygM+PWdbfSkewhOq1BMFqncEnejicUbojMx7JsRyk5ZuhNKYgrOyhnBGCMgjjo8lPv+09b6O1WTLTAi4ELEMEzaVHAiD+mmIKhm1Z9H7WPICM5mFs8iZMkxTxgxdFujgn01DqAcGOMV3MbkAOntn0bigrHbYXldQekYl5q7KTz9Rzk1+XqwEXhopem7qav5kmSkMEjvqYhdwv+brc8ZFe3lUjW8M73h4D6bnJa4=;f41JmdX8efJVpkCYfOSACg=="
 ---

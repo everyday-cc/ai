@@ -19,21 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "AIOps startup BigPanda raises Series E extension, bringing its total capital to $340M"
-    excerpt: "BigPanda, a startup developing AI to audit changes in IT environments and recommend how to fix them, has raised $20 million in an extension of its Series E round."
-    publishedDateTime: 2022-08-17T17:47:00Z
-    webUrl: "https://techcrunch.com/2022/08/17/aiops-startup-bigpanda-raises-series-e-extension-bringing-its-total-capital-to-340m/"
-    ampWebUrl: "https://techcrunch.com/2022/08/17/aiops-startup-bigpanda-raises-series-e-extension-bringing-its-total-capital-to-340m/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/17/aiops-startup-bigpanda-raises-series-e-extension-bringing-its-total-capital-to-340m/amp/"
+  - title: "GrayMatter Robotics Raises $20M in Series A Funding"
+    excerpt: "GrayMatter Robotics, an artificial intelligence robotics solutions company, announced last week it raised $20 million in Series A investment led by Bow Capital and joined by B Capital Group, Calibrate Ventures,"
+    publishedDateTime: 2022-08-22T07:05:00Z
+    webUrl: "https://labusinessjournal.com/technology/graymatter-robotics-raises-20m-in-series-a-funding/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 80
+      name: Los Angeles Business Journal
+      domain: labusinessjournal.com
+    quality: 69
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-515973756.jpg?w=1024"
-        width: 1024
-        height: 622
+      - url: "https://d3evu7qlt2vui6.cloudfront.net/wp-content/uploads/2022/08/PG04_GRAYMATTER_0822_scansand-scaled-e1660932740192.jpeg"
+        width: 1162
+        height: 1200
         isCached: true
   - title: "AI-powered imaging startup AIRS Medical raises $20M Series B"
     excerpt: "South Korea-based healthcare startup AIRS Medical announced today that it raised approximately $20 million in a Series B funding round."
