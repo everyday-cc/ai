@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/c6577b3060d93d9e16841239a58f5f621ecf0f5c/2021/11/12/807a95d0-c6f4-46b6-a879-5c477d972029/for-sale.jpg?width=1200&fit=bounds&auto=webp"
@@ -29,6 +30,6 @@ images:
     height: 802
     isCached: true
 
-secured: "eFSkv6id5N5/j2xhhpVEvlFawR+RTopOL/G4EzwwmBGzwESXUXqEAJ8PFp1UNpq9OPJn0ewbudGrJAGsnHjh1iKPrONmv5benuA8KgTT9Qjh/oxFURASXnHoYwkochKrFYWDWJwZaq3CYmAR0zvBhGMAj7WWnV3BGU+WRrhb8mvO1SkTWsQaHzM0MEgEMTI0/yLxtuaJ6qn9+n/cU3Yn8ESN00kNtxgOba2bbXP3dtj1deql8WWeqINbUScCX/Vif5bs32UZ5xwMhcyoVD8FpwRB83HoMz1s3iNlWZrOO1XBXS4LhP4TNuvBrbyeZbkJrmKuHkm13uehFEgITEFs9h+YCYgM3gfZGieBJ3nQTPs=;JEv7bToG1HjTjXvH4XQa1g=="
+secured: "vhYVyLWpLusPv8BcgsH0as6T401yUVJswLApi+P1NA2H1w/OxZKwjhqZtimQhTGIMwpnPLn5uhlExAPyoQ8560k1RorL9ZiHbxIZDHklYvbuJEMzY3bHAfl8kIt0xf6CxfR3j5Ut1vQK6uy6KmwNlqT/OQ/Sg7hNIzeHyj9cpNlZnE3sM323PKjzYGRbH+byAUfxB81xk+zTg+qcz+6dYlJwm6oHlWHihJqOd67u+zkl/VdqTh4dXFOTzSGl6KFkNFqPeVdpfUcu3Qkf1lw8idjp48Q0nIu8N+i+2YuBjobr7wYyvde7BP8RiDBQ0uLmYb4/AcgtjP8B97XDV74mjtxtXtIKiqExhoLZLf0yR3Z2K1SFMAsEM/nM2cerdKIJS0/w5FtYjWhiJ1B1bcWCRVbTbqWSzHoZeQ9yvRuZuo6ZbwZDZRshORAjICjMTTYz4O7ApmFYSteizAh5xOldZuJw5mIqPmXhvIogiEozO6goarU0Ux4Lt+s+fA95027rg49maL69n5R3JIm8GUfpHQ==;S1F8zGgkyjlGD/PzdVI5dw=="
 ---
 

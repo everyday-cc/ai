@@ -1,17 +1,17 @@
 ---
 category: news
-title: "Australian AI star Appen flags first-half loss, shares plunge"
-excerpt: "Aug 2 (Reuters) - Australia's Appen Ltd (APX.AX), which runs artificial intelligence training for Facebook ... analyst John Campbell wrote in a research note. RBC Capital Markets analyst Garry ..."
-publishedDateTime: 2022-08-02T04:22:00Z
-originalUrl: "https://www.reuters.com/technology/australian-ai-star-appen-flags-first-half-loss-shares-plunge-2022-08-02/"
-webUrl: "https://www.reuters.com/technology/australian-ai-star-appen-flags-first-half-loss-shares-plunge-2022-08-02/"
+title: "Australian AI Star Appen Flags First-Half Loss, Shares Plunge"
+excerpt: "Australian AI Star Appen Flags First-Half Loss, Shares Plunge By Byron Kaye and Upasana Singh (Reuters) - Australia's Appen Ltd, which runs artificial intelligence training for Facebook ..."
+publishedDateTime: 2022-08-02T03:55:00Z
+originalUrl: "https://www.usnews.com/news/technology/articles/2022-08-01/australian-ai-star-appen-flags-first-half-loss-shares-plunge"
+webUrl: "https://www.usnews.com/news/technology/articles/2022-08-01/australian-ai-star-appen-flags-first-half-loss-shares-plunge"
 type: article
 
 provider:
-  name: Reuters
-  domain: reuters.com
+  name: U.S. News & World Report
+  domain: usnews.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
       width: 50
       height: 50
 
@@ -19,12 +19,6 @@ topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://www.reuters.com/pf/resources/images/reuters/reuters-default.png?d=108"
-    width: 1200
-    height: 628
-    isCached: true
-
-secured: "n2n3JAZrfJkTHqB2XCz1Lu4QfbUe3JNkiBofcIBpKnQy1AuNbKidOdelqv91dNI42T8MSPvV8N5zaOqEolrnt9uhPByhAyvHY5Gv7bJ5h3OcUYRp+TLy2n2NW9RCrzaObKb/Cxikz6u8uG1q9KwPAS0DNz01oWHuNk5W8oexTeUP4hUkWuFWYrozozksZOWy+BjsjOTbeSieMhTSLLSy5Rr+0bp4MkdZutwibjSHeNvg0lMizrsrfUzLY3le5R0wInN6ZlZVk1ZgkN5Dy9yzbjqvlAJ2cx0AJ1d/cDsUCAIs3xqpsS8p7SkHiUOJJn2QHRwWCCmh0m+D+JOW3l9MpuaxSVGbNMALLoNhGNLYrJU=;4E6YPqcjBqqWxvCaKWbN/Q=="
+secured: "sKHyIUTL1ogmXUVkiFJ4SZABwV99lmTGRIiygFV3TJ+GpnC8Se3L9rG6jfYiRgqe7RXfzqzKfghF4oE4qcYBmzGxm9qH3oRrBFRwkJn2DDivZCw9lPVpbnU2bK6/HO0R8mLIf56zjD3XPaCtKbl3ColGTRFbszwKugklJ9Fk74vYe7ulDah0AyHVUbHyT0RFUYO6Zr3NijBoSPQkMWNn7lm4qpjfalk9/IQ8RVKwpAUMT+4Cnk2txlef18iDdSlWQ5eUgytxJvGsn/2YJt9BN+Y4719cjt8lZq45W0KExz4ryTaCFSJBDASkyFkObcN7VgbooKDNFU/ilrT9KFe1lTNzeiCbIh4Hgix8iulT8Bs=;0R8ZQYZwOM3CQABuv62RGw=="
 ---
 
