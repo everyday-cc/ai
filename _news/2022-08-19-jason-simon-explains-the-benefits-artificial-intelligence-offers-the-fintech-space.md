@@ -33,20 +33,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fintech sitcom explores AI challenges and the war on talent"
-    excerpt: "A new marketing campaign sitcom on office life in the fintech industry has been created by Daniel Tremayne-Pitter - founder of Dark Matter Media"
-    publishedDateTime: 2022-08-17T10:30:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-sitcom-explores-ai-challenges-and-the-war-on-talent"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/e9e536c99e2cbb01bb2c582f0fb0802a:2b15c1fb874205d86b33777f498f0f50/1080x1080-get-ahead-watch-now-still-1.png.jpg"
-        width: 1800
-        height: 1010
-        isCached: true
   - title: "New Venture Fund Provides Investors Exposure to the Disrupting Fintech Sector"
     excerpt: "FinTech Fund II has raised $1.9 million to date and has deployed initial capital into four investments: a diversified blockchain fund that seeks out venture equity along with early stage and established token investments,"
     publishedDateTime: 2022-08-17T16:06:00Z

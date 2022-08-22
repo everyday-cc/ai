@@ -1,26 +1,27 @@
 ---
 category: news
-title: "Pitching with Artificial intelligence"
-excerpt: "Pressfriendly offers a similar service for startups by using AI to review beat reporters' past coverage and open rates. This intel helps identify the best send times and will increase the likelihood of pickup,"
-publishedDateTime: 2022-08-18T15:58:00Z
-originalUrl: "https://www.axios.com/2022/08/18/pitching-with-artificial-intelligence"
-webUrl: "https://www.axios.com/2022/08/18/pitching-with-artificial-intelligence"
+title: "White paper offers ethics advice for use of AI in the US"
+excerpt: "This new white paper encourages all stakeholders — government among them — to consider potential harm that AI can do, and to plan for addressing that."
+publishedDateTime: 2022-08-22T02:00:00Z
+originalUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/22/white-paper-offers-ethics-advice-for-use-of-ai-in-the-us"
+webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/22/white-paper-offers-ethics-advice-for-use-of-ai-in-the-us"
 type: article
-quality: 37
+quality: 54
 heat: -1
 published: false
 
 provider:
-  name: Axios
-  domain: axios.com
+  name: The Star
+  domain: thestar.com.my
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://images.axios.com/r6dMsuHu9l_rds8BmSeTqxcg4UI=/0x0:1920x1080/1366x768/2022/08/17/1660696922141.jpg"
-    width: 1366
-    height: 768
+  - url: "https://apicms.thestar.com.my/uploads/images/2022/08/19/1703835.jpg"
+    width: 1240
+    height: 826
     isCached: true
 
 related:
@@ -56,20 +57,6 @@ related:
         width: 2156
         height: 1120
         isCached: true
-  - title: "White paper offers ethics advice for use of AI in the US"
-    excerpt: "This new white paper encourages all stakeholders — government among them — to consider potential harm that AI can do, and to plan for addressing that."
-    publishedDateTime: 2022-08-22T02:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/22/white-paper-offers-ethics-advice-for-use-of-ai-in-the-us"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/19/1703835.jpg"
-        width: 1240
-        height: 826
-        isCached: true
   - title: "AI Ethics Wary About Worsening Of AI Asymmetry Amid Humans Getting The Short End Of The Stick"
     excerpt: "AI Asymmetry is getting larger and one controversial solution seems to be arming more with AI in a ... [+] fight fire-with-fire uneasy approach. Sometimes you are on the wrong end of the stick. That colloquialism can be applied to the notion of asymmetry."
     publishedDateTime: 2022-08-19T12:17:00Z
@@ -79,7 +66,21 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 53
+  - title: "Pitching with Artificial intelligence"
+    excerpt: "Pressfriendly offers a similar service for startups by using AI to review beat reporters' past coverage and open rates. This intel helps identify the best send times and will increase the likelihood of pickup,"
+    publishedDateTime: 2022-08-18T15:58:00Z
+    webUrl: "https://www.axios.com/2022/08/18/pitching-with-artificial-intelligence"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/r6dMsuHu9l_rds8BmSeTqxcg4UI=/0x0:1920x1080/1366x768/2022/08/17/1660696922141.jpg"
+        width: 1366
+        height: 768
+        isCached: true
 
-secured: "dZfGBht/ShYDGPsWVYEwxodDJxmhNGM8h1Q00lLGIvsmpJhfOJWnTTTVZi48RFpGzoPpdDojC13cGKcmdb6wpGgrumUysYTr/Wf2PaCTuMB86uaPN/WF/pVw70S6Lir25kUqFh0CQYpuEFNbt6kJaJVizC710HmXl2hwXjDADII6DwSaDXxYutYvj/8eKMZuncj2rnZVv5l0hn3ngp7mQY5wKvkOyoECr38jduyPrxWa0K3nQ2BKOPL7CdYgoYRX0JUToLN3ChgtFMVbX67K1cPDQzNuqlXVoOMBM+04sJ1lAIcKzsd53CujTodMZ7uUzMNda/N/t6lVp8VS78sIoxkO1uXQVoRmEiSwmF+Z9yAekNrslpDEt2Ql6TlJJoZlsJEjgOSTY6uwt1cHvV7pfAY946epsf3hlrXHAPS3FuQ0kzHTap+2vY4xSndngJcy7u4DeReHFlM3oIveJjfxkjeRKj5jj+YK7Hi6q5x7Fi+Ek3UnIKLyLE7vmLGbI2F9mU3APBBsKJFJ2Tfh/RD3/A==;7PPrBUEf/VBZZWScI9MU1Q=="
+secured: "HioReS+06IDGZKQPsT3RHMnG3B7YiImRQ/nUOB6qX/Huh2ZUIsP21/1H2/5hLrJPGTJEWh6GNB4H958AHUbhuMn2mTZghscIiUFjjrG7gyp7fCEZyP9rVrGa943g7BkrHOeAudrSKJgdlEX9jnB8HrDajXz5vGlhsD6SE7bgrAkdURueZLs1X2+3qBe5Vpsm80/zNH35h55YXWDAyoaUPZhWJ66NA3o5tGzf+HG3nIxuexYkcKfX8TzMKJwEY9sySg0rc2C3qBLmeaRAfIO7+Q1HM1i1QIuUGUbSD76TKHoIfqtOBM2DgKk0W8GUIFCnySg2FtbaBrqsDoNdDhDDhLWt0Pi1gn3ipEblHlJUHhk=;jmsjXbVgCFKY7/PsMEcGOQ=="
 ---
 

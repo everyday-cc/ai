@@ -45,6 +45,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Human drivers in UK won’t be liable for accidents when vehicle is self-driving"
+    excerpt: "Manufacturers operating self-driving vehicles in the UK will be liable for a vehicle’s actions when in autonomous mode, according to the country’s new roadmap to achieve a widespread rollout of self-driving vehicles by 2025. The British government ..."
+    publishedDateTime: 2022-08-22T03:51:00Z
+    webUrl: "https://techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/"
+    ampWebUrl: "https://techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 70
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1185460611.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Driverless cars: Self-driving cars on UK roads by 2025, says report"
     excerpt: "It might sound like something from science fiction, but, according to a new government report, fully self-driving vehicles could be on UK roads by 2025. Some cars, coaches and lorries with self-driving features could even be on motorways in the next year,"
     publishedDateTime: 2022-08-19T15:49:00Z

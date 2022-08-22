@@ -1,27 +1,33 @@
 ---
 category: news
-title: "Self-driving vehicles could be on UK roads by 2025"
-excerpt: "Self-driving vehicles could be on UK roads by 2025 under new plans unveiled by the Government and backed by a £100 million investment to boost the rollout."
-publishedDateTime: 2022-08-19T05:53:00Z
-originalUrl: "https://www.yorkshirepost.co.uk/lifestyle/cars/self-driving-vehicles-could-be-on-uk-roads-by-2025-3811713"
-webUrl: "https://www.yorkshirepost.co.uk/lifestyle/cars/self-driving-vehicles-could-be-on-uk-roads-by-2025-3811713"
+title: "Human drivers in UK won’t be liable for accidents when vehicle is self-driving"
+excerpt: "Manufacturers operating self-driving vehicles in the UK will be liable for a vehicle’s actions when in autonomous mode, according to the country’s new roadmap to achieve a widespread rollout of self-driving vehicles by 2025. The British government ..."
+publishedDateTime: 2022-08-22T03:51:00Z
+originalUrl: "https://techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/"
+webUrl: "https://techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/"
+ampWebUrl: "https://techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/amp/"
 type: article
-quality: 24
+quality: 70
 heat: -1
 published: false
 
 provider:
-  name: The Yorkshire Post
-  domain: yorkshirepost.co.uk
+  name: TechCrunch
+  domain: techcrunch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://www.yorkshirepost.co.uk/webimg/QVNIMTI2NzQ1NDI5.jpg?width=1200&enable=upscale"
-    width: 1200
-    height: 800
+  - url: "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1185460611.jpg?w=1024"
+    width: 1024
+    height: 682
     isCached: true
 
 related:
@@ -38,22 +44,6 @@ related:
       - url: "https://www.reuters.com/resizer/-bD145K776yCk-35pfGOxAdMuxA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LAUS5LTOURJXXD3N5LFTSFEYMA.jpg"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Human drivers in UK won’t be liable for accidents when vehicle is self-driving"
-    excerpt: "Manufacturers operating self-driving vehicles in the UK will be liable for a vehicle’s actions when in autonomous mode, according to the country’s new roadmap to achieve a widespread rollout of self-driving vehicles by 2025. The British government ..."
-    publishedDateTime: 2022-08-22T03:51:00Z
-    webUrl: "https://techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/"
-    ampWebUrl: "https://techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 70
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1185460611.jpg?w=1024"
-        width: 1024
-        height: 682
         isCached: true
   - title: "Self-driving vehicles planned for UK roads by 2025, but public trust is an issue"
     excerpt: "Report warns that driverless cars will need to be 100 times safer than human drivers for the public to accept them as they do trains or airplanes."
@@ -193,6 +183,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Self-driving vehicles could be on UK roads by 2025"
+    excerpt: "Self-driving vehicles could be on UK roads by 2025 under new plans unveiled by the Government and backed by a £100 million investment to boost the rollout."
+    publishedDateTime: 2022-08-19T05:53:00Z
+    webUrl: "https://www.yorkshirepost.co.uk/lifestyle/cars/self-driving-vehicles-could-be-on-uk-roads-by-2025-3811713"
+    type: article
+    provider:
+      name: The Yorkshire Post
+      domain: yorkshirepost.co.uk
+    quality: 24
+    images:
+      - url: "https://www.yorkshirepost.co.uk/webimg/QVNIMTI2NzQ1NDI5.jpg?width=1200&enable=upscale"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "UK sets out roadmap for self-driving vehicle usage by 2025"
     excerpt: "New laws for autonomous vehicles will make automakers responsible for the vehicle's actions when self-driving, not human drivers."
     publishedDateTime: 2022-08-19T09:13:00Z
@@ -295,6 +299,6 @@ related:
       domain: dailyrecord.co.uk
     quality: 0
 
-secured: "2SAkwFeBl5yvzM8X7gFJ61MNM5zyq5RcqZ20Rw9leo+UKx459WCqBHWUaOHrrHdwY4Y6N+lbkLKHkXfPvYGzfb1Ezi+L3tumiQ8ORSvA4tRUHN7VdjoQI4MQWk8XtTjN6d6QDRgJqNpB947xYodQtjZvpSRTeEO1En8600oDzwI5SA33gk5wwOyxWOs5vJAoEstdyFqqM9R3JmNxsYwDMCX74QpiDbxtWELoNcugWZq14athNyk8ZEi55wPaCYSKMIJ43CmafPwioyvTU1rzH4hkDR7pfcHqR9cKkgMJICWyfk9bS8+kPwY5/LccahYmUqtuqJk1cNX0ZSe9qkqVuJyPfyI12LATGWmbWeP0TqI=;vObIdzo5FCZaU69ApiDA+w=="
+secured: "IgGxKAL86+ZAIXcjOBpVb9FNF0+oaP895vIPzjkcpOousPsLmaS0JLvPhG+rkJHax0pgwNfJzR5F23eGn9bbGLC3OmFbPEhinTXmLFKS3B0sND0tAMtMuO5SizXFwmss1lIHrRrOl2e3wUb/NG8LXcyP3lbGrNu7GYldQWJU6rEXAKlL5qmbTsYJbZkaY/7UPh1LlAc0QBaqqHbCmqRunImJ8r3Fo/TaDatMI2PNrMzQ7hYZHXG33f6jCyIMda2EkFrA0W+FPsar+1/ay/FiR4DPctjymXFL+4zNErlj5YQ2AIgtGTi0V/NqkrxxCJR/3NgiPVuZyEAWNSgY92rqwSbKDq6vVurtZ0DA3VJCysk=;xk6xlqituD/ls4ZWe9MwsQ=="
 ---
 

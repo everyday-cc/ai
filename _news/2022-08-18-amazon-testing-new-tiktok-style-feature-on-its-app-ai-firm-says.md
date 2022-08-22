@@ -9,7 +9,7 @@ ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/amazon-tests-ne
 cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
 type: article
 quality: 59
-heat: 129
+heat: 119
 published: true
 
 provider:
@@ -97,15 +97,6 @@ related:
       name: The Sun News
       domain: myrtlebeachonline.com
     quality: 37
-  - title: "TikTok adds AI image generator"
-    excerpt: "Meanwhile, TikTok previously increased the age limit for those buying gifts on the app. The Chinese-owned company announced that users under the age of 18 would no longer be able to buy or receive virtual gifts after it was criticised for allowing teenagers to spend money on their favourite influencers in a bid to get a “shout-out” from them."
-    publishedDateTime: 2022-08-17T09:15:00Z
-    webUrl: "https://www.iol.co.za/technology/software-and-internet/tiktok-adds-ai-image-generator-e6fc7e7f-9f15-5933-bd55-bcfc9407ab09"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 19
   - title: "Amazon Testing TikTok-Style Feed On Its App, AI Firm Says"
     excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."
     publishedDateTime: 2022-08-19T16:19:00Z

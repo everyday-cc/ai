@@ -105,15 +105,6 @@ related:
       name: The Sun News
       domain: myrtlebeachonline.com
     quality: 37
-  - title: "TikTok adds AI image generator"
-    excerpt: "Meanwhile, TikTok previously increased the age limit for those buying gifts on the app. The Chinese-owned company announced that users under the age of 18 would no longer be able to buy or receive virtual gifts after it was criticised for allowing teenagers to spend money on their favourite influencers in a bid to get a “shout-out” from them."
-    publishedDateTime: 2022-08-17T09:15:00Z
-    webUrl: "https://www.iol.co.za/technology/software-and-internet/tiktok-adds-ai-image-generator-e6fc7e7f-9f15-5933-bd55-bcfc9407ab09"
-    type: article
-    provider:
-      name: IOL News
-      domain: iol.co.za
-    quality: 19
 
 secured: "tBZv13zRCXMoY9kY2+QDtpsHkaM3RSu/dSLG7JWa+oTNqlJk+qqw0UJveikqb9ux6rs0sK8AGkzb79r2H9gZPZaa5dkbWJCd6mr7/TyGCFYxZC78lbG45nx9Fy/9pwr0VKx7nB6R0uKG0+5cRGqkzcqTKuEm3ym9P3vqo7g3Zke+liWkJzoJ+SmA0Zjf0jNdqp3phfjCb/hwf4ppPsax23d+vMvNMYV8J0Sg/i3IRZ5EXkqi0nYZNNTBTT5DM/o5O+Rmzl+SnU7h4yqkaL2+Zl3LbkfxUuczpOz5ox1QOnE4WNdIhD85jJ+opGACRwlFJ+hs8y5JO9BB4iWKsgKPa7X7B0+/gt67JYK1EOR3TS6YiGn6r8SkIu6x6CkWlkqtGpjgsGsfYsi44UnAwdWdNF11meOAMBMDPJYsMkGKt8QAGJqeWmbZLuE5NESyDneqGMzeFiSAmpMI8NMwOSsbvJAi86zYWko+dofSvqbBQ/lR0EsG73MEm92BOd+FJINb1QkbJtL36qI+mt5fS/3vmw==;0MOcYlCyWgbklDsFPECO+w=="
 ---

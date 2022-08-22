@@ -87,15 +87,6 @@ related:
         width: 704
         height: 396
         isCached: true
-  - title: "Torres Strait talking: strong Indigenous voice, less red tape"
-    excerpt: "Torres Strait Island residents will tell Anthony Albanese they are over-governed and under-represented when he visits Thursday Island to discuss Labors plan for an Indigenous voice to parliament."
-    publishedDateTime: 2022-08-17T09:25:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/torres-strait-talking-strong-indigenous-voice-less-red-tape/news-story/b700db4fc01b09d1756ddc7662f01499"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
 
 secured: "BshvS6r5akrtc62WANyi0wpkNNVkNP9ZIEcUK1KLuK5FM/K+ubKutFt7mfgzB04WYC30YWD6hboFzk7mgNrKBFo8/ueR5Bkefxn1Y3nPHOwhcgeWNw7G+Raon1fIM2CVSJe3ywYCZwoR1wJ9US74y8F7G0GlUbTmNY1fKhhZ2HbHrqjikMPN4Srv8U1nn58/zMN+tO8FGuWL5oHMxeVPgU70yWBpUrdpkT+ALO/kbkXidFBL2Kbtk2PCQJf27RF5CC8NIHZEs9K3zONJ2bpUd6jmZD/5CP+7s8Wv1nOOHnUY3XhRLz+p12vouY0rq2/8ENfcuAYqIsvXPE3TwWyC/mDVvpZxT2eYk4lBXSV9g0S/vPAFx9W9nXKP99RHK6jhoPMSPYbIIYjb45OGvbXpHUSP45I01arouA1+j9G5XIEUiOg00INHeK+qAVqVKbQ/AHI9aMu91YjPqNUHc5R3Hss1C5oYXD9t3vYf6mRakJ6ncWHiIj4XTw9VpTMXh1cHcy0SIqntHlBbhmTvWlBOuQ==;Ha9onlRwSg+k7VT6KugRKw=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/britain-sets
 webUrl: "https://www.reuters.com/business/autos-transportation/britain-sets-out-roadmap-self-driving-vehicle-usage-by-2025-2022-08-19/"
 type: article
 quality: 84
-heat: 274
+heat: 284
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     isCached: true
 
 related:
+  - title: "Human drivers in UK won’t be liable for accidents when vehicle is self-driving"
+    excerpt: "Manufacturers operating self-driving vehicles in the UK will be liable for a vehicle’s actions when in autonomous mode, according to the country’s new roadmap to achieve a widespread rollout of self-driving vehicles by 2025. The British government ..."
+    publishedDateTime: 2022-08-22T03:51:00Z
+    webUrl: "https://techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/"
+    ampWebUrl: "https://techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 70
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1185460611.jpg?w=1024"
+        width: 1024
+        height: 682
+        isCached: true
   - title: "Self-driving vehicles planned for UK roads by 2025, but public trust is an issue"
     excerpt: "Report warns that driverless cars will need to be 100 times safer than human drivers for the public to accept them as they do trains or airplanes."
     publishedDateTime: 2022-08-19T10:51:00Z

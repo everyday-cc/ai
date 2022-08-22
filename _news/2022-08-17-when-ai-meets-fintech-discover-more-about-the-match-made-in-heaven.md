@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/when-ai-meets-fintech-di
 webUrl: "https://www.marketwatch.com/press-release/when-ai-meets-fintech-discover-more-about-the-match-made-in-heaven-2022-08-17"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "Fintech sitcom explores AI challenges and the war on talent"
-    excerpt: "A new marketing campaign sitcom on office life in the fintech industry has been created by Daniel Tremayne-Pitter - founder of Dark Matter Media"
-    publishedDateTime: 2022-08-17T10:30:00Z
-    webUrl: "https://fintechmagazine.com/financial-services-finserv/fintech-sitcom-explores-ai-challenges-and-the-war-on-talent"
-    type: article
-    provider:
-      name: fintechmagazine
-      domain: fintechmagazine.com
-    quality: 39
-    images:
-      - url: "https://assets.bizclikmedia.net/1800/e9e536c99e2cbb01bb2c582f0fb0802a:2b15c1fb874205d86b33777f498f0f50/1080x1080-get-ahead-watch-now-still-1.png.jpg"
-        width: 1800
-        height: 1010
-        isCached: true
   - title: "Jason Simon explains the benefits artificial intelligence offers the FinTech space"
     excerpt: "FinTech presents an important variety of technologies such as financial services through software, such as online banking, mobile payment applications, mobile wallets, blockchain and even cryptocurrencies."
     publishedDateTime: 2022-08-19T15:51:00Z

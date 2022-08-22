@@ -9,7 +9,7 @@ ampWebUrl: "https://thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-a
 cdnAmpWebUrl: "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-albanese-torres-strait/amp/"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -87,15 +87,6 @@ related:
         width: 300
         height: 250
         isCached: true
-  - title: "Torres Strait talking: strong Indigenous voice, less red tape"
-    excerpt: "Torres Strait Island residents will tell Anthony Albanese they are over-governed and under-represented when he visits Thursday Island to discuss Labors plan for an Indigenous voice to parliament."
-    publishedDateTime: 2022-08-17T09:25:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/politics/torres-strait-talking-strong-indigenous-voice-less-red-tape/news-story/b700db4fc01b09d1756ddc7662f01499"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 19
 
 secured: "IXgPZXmYfTbrRt7Cs631HmJMvDjufT7eJCJHBcKwYdKXUqoD2ereC9931oLOLuyn3DtsrWewyqsz63WOoMuFaowMEday7H1PYENZei7hnL2ALKYZ9cqmLzn7OdJsquqCxs2SlI1wz+ZBmbPTreaBwoeAd+h7fXqI/rL51uDP+Fxj0Opw4lvpxzoSwYC1VHd+Q5h1XFhfQYDWx2bxakxAY1CttOAUWqq51SqzRWUSKMAFtsTP7DqFvbRXAsukYzSoGpEaG4HmAG17l3ASJDXPMt73iRSgMwIOH1GSy16A/GVTRkoeBe2ZIQS7fPfJbnEQxaQAkv9xLrlXzNrNJ/EOfMZpZlvYJdUTU0NxAnu4d3I=;upZbyXlTyJRpOWwS5603FA=="
 ---

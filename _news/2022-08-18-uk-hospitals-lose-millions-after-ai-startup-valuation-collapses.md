@@ -9,7 +9,7 @@ ampWebUrl: "https://www.theregister.com/AMP/2022/08/17/nhs_hospitals_ai_losses/"
 cdnAmpWebUrl: "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/08/17/nhs_hospitals_ai_losses/"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 648
     height: 433
     isCached: true
-
-related:
-  - title: "Two NHS hospitals lose millions over AI start-up crash"
-    excerpt: "Sensyne Health delisted Two NHS hospitals in the UK have lost nearly $18 million after an AI startup they poured cash into delisted from the AIM sharemarket. Sensyne Health exchanged company shares in return for patient data."
-    publishedDateTime: 2022-08-17T09:15:00Z
-    webUrl: "https://www.fudzilla.com/news/55335-two-nhs-hospitals-lose-millions-over-ai-start-up-crash"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 37
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/5ad1d418c1757a7faba0cbe26d6e63a4_L.jpg"
-        width: 620
-        height: 465
-        isCached: true
 
 secured: "xhfU2f3yZfGpj+JO62gnEF5Ddi7lOEecD2HoBefCIuWsjGmA41V4elmiv6z2M/ihwGZaO7l3oOiUKT7BibFm//aJ2YaYdwTS7dvRlMEn2epubEnUOE7BQSfIVznIzkovSAZZfkaJ1i9VIhLwtgfWgiiKa+hew53KXz9fn7+s/q1aRgg1kYFzTWfyMtAbIqLLPA+TM9czJAuWDnhtu9GZgHLJEwZ/lFT/JIsWAbch+sawgI893OaIQsYKiR3U1BTdOyRYM7FkgXUsz/STZcUUP581km9nkTIVAn4khMfdGGkiOg57j6T5a0WWQ1nSoyDEDC23OgX1zHozlNJjVUVilgSaCSWBXnGpQmrbW5fBuoChUwAmQo6f1o/A1TG7yjPPA4fNF/M+iPqSLu/iVMj5Fn/LVnndlUzTSyY4RwxijiyzPG5Xi9/WgLuWobaGRYb1zB1lsExB/QPUlNGWgIqf261kDaWlgNrX8GX04YgJsUYDd7SpqU/YPl0sOdrTAV3JBan9Xi5a/y3RpKFRxuiZGw==;sa++anaxlEyk0ykWKwoL1g=="
 ---
