@@ -67,6 +67,6 @@ related:
       domain: finsmes.com
     quality: 4
 
-secured: "OfnOCaz2O4HUwIQH4rKmSyOGhBN9/zFFfsokZx+KK95GrPYdrimA9ciQnVEiibk99UzFrVGP/Obg2lJsmsF+ULv2VZUtpl+D3awl3HP9/aJhrowLsdvc+qW3342PCWSGMyofoPZhCvVj9/jbzfag1WGvlcBkZfswRJd6Q/8JsWfav17Mnkr/uIvFLF+8y1iJdnnv25o92acgBz1d7w4thTUeOtypW8iD/qQFi1wTAUpPGx9yLse9jJVZyeccvPerjRV3JCZBgQR0fKvofeMCfraxoEU3ujOt607veRqa0hafMxBq8A1pBQgd+gTOecjsWDSIDE+nCSClYDiU566Ypy//GsfzjYKU/qgJLjz/ejE=;1aaTBb1dsCSFYhlG8qXR/w=="
+secured: "BWNkN/VaaoSoeFbBZ3Sydx+JpeoVPBNZtJlbsHwhZI/TPLQYHqz8trpxYbqcHFlPOCMRiBPt3gRFtkRLDZfULVoCbVGZ335BAJDY48jYFHd2Q6UNbRbVd8NIjLOhizp6ms+NZWl2Foi0Pfl2RrnW+inguvGqBCSXikjlmJC/MshAv+bwjiEeNJBTubTpNsF1cKOKA8duHERCnMm5HvMkNl1cyO8ZbOfz3BBEO6fnRCnlF4Xh7iNam7eAtaI5gvGyBXZ0dwAB3b+ivIq0cyXUFKT3pqpWbxQeCV5tPPf3PNuWejgrRvIjqAu2g50MCYcAPLH0ZeQ79zq3bccLDJrojK5djZHMz4ZJU4D7Y+qOTIQ=;/N0gR9geDl0VPhbtb+go6w=="
 ---
 
