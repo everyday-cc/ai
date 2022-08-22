@@ -3,14 +3,9 @@ category: news
 title: "AI-generated art illustrates another problem with technology"
 excerpt: "Artificial intelligence is being used to design magazine covers and provide pictures for internet newsletters. What could possibly go wrong?"
 publishedDateTime: 2022-08-20T14:00:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists?ref=biztoc.com&curator=biztoc.com"
-webUrl: "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists?ref=biztoc.com&curator=biztoc.com"
-ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
+originalUrl: "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
+webUrl: "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
 type: article
-quality: 57
-heat: 57
-published: false
 
 provider:
   name: The Guardian
@@ -23,12 +18,6 @@ provider:
 topics:
   - AI
 
-images:
-  - url: "https://i.guim.co.uk/img/media/b32a5f8ce96269b61ddaa553bb598efb2ce74828/0_202_1024_614/master/1024.jpg?width=620&quality=85&auto=format&fit=max&s=8d576b69391f73fbbbda6d6d37d50756"
-    width: 620
-    height: 372
-    isCached: true
-
-secured: "p84ANwDvse2TqDuDEcjSgCOHbhI7baRnWF3t/++SzusIW3dmXurseA0PbpTAS11j/vpulKenxygytL8eGx3r4xSQR6220jWuFcwzC4bY8lvAvtSzMJVVt3Av7wlWkCEq73fZwLCB6/KR1aTiBkkEDzeongXdm5jSszVIPe7Oh2rguWepHcWhCY3FPUuBPuj7RvbAVxRt2TyZcfROHN0BS2XN8+rdpdZwbu74W7p54pgiuwCkL7QdPOz6fb40HKUhao1DlVbRyuxC5YxY/45NKDyWxrgqzyFujMcbrck8jSByv5Yn9lQPZhbIbCm97Kpy1iB965SVn3sFZDzQvaPsMsCsqbspZcYJ4XabAms0SII=;N4b8KEttWekg2HpDuxXHKQ=="
+secured: "CZwFPl6Drk482pUzPyds1tIXbuMPYzTmNH9h35jGLX5FpFsFI5rnXo61zfSXSwuMmVDDuskMqTi2hxfwVs5zUI5bRCH5fM2jJBqRY3Trsei8CJjfY2464ZOrEA7velDZLYaxIXfCbYvAIlQXBCHQGMLjPyVstDfn372p6ypQngptLzqhOMkSCup+63Yop1i/IcvBlYMgXTZ/Mhg4rv/oXG9ZGH0zvOpRS0Am8ICv7KdE3Kq/QSELN7/r6Plp95lizqwHenZEVF4p7Z1LBIznrBxf7NRmqI1s5E9h8pX+yktvo8c9DcVkweUWuaFmFQT/m5GjovtJP/3jsbakH1ZlJQKrXPid5ebHAtMX/7x81MvVUgDCb5JZTIsGCbwpjXMtx0c5aufL/n2zHlRKm1Ts2VPzGG2+v4XPrhREGl6a2/D35eOlXJJketv1OIhDtGtT823vK39qoGx94uCFCoVXTNqB4PrCy52FjnUxirn2ym7qU864oxIu4FrJy1yQ/kQdu4XSYh4pdU8iElDqX4bICw==;9fUGxLyNzYB4KwYuDJ7tHQ=="
 ---
 

@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics"
-excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across the technical areas of cognitive AI,"
-publishedDateTime: 2022-08-12T09:00:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70"
+excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across"
+publishedDateTime: 2022-08-12T06:04:00Z
+originalUrl: "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4"
+webUrl: "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The NewsMarket
+  domain: thenewsmarket.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "Oe4EQiuJQfNNsVZ8GA0MmREgRZ5/kFJSjFg9sxoXr3tvlqTRmpcX9d1cKLijwLhZZGCgNaZEsOo5BV6Y+SBGR6Zh8AgNPbvHqGgudxpHC1bkspJ+lANbns1Y6QqTfOZRhnBvIJfvD2li+5gk46PQFyqJkppmJG5FD0DkAM2L9reY/GC2rOaQ4zAWxO3Fkjf1kAfOY+4BGAEs2pPIdLW35R+mxVmLa9xKCupl6Cxz+TvL35mHlFYg5uUmfxoeXLQ9cGSWO01aeCPsDGQHYquemlDtnZpriI/P9FC7rVNOuQXfX66MLeRVsVjPIZMPchm31pGvnbzLqyeRB4FvUntJfc36y15yE/uSQMf5DmuF1Ak=;2h5jkTA3pf975ng1xNkfIg=="
+secured: "5oIUl/cVcnfDm1vq/rQUBUebgAu6mbrzb6zup4eClP0PMPkcXl7njxLOB2F7An4WTNeN0ba47uEnvJ34mj5ooCTCyp6AH9dhFwYViD6zEFVACBx3YEN5yDk5qdAp6m5U83i8O4sf7enGPaefz6WzPixy6qc1kXRHJ6G0tZGAiwFlscRbYuU3M2Uv5PNnDBH0MxD8fZzOeH+sgJfbieDiN1HzVL1MBMGlTWxrLECJbN/th0KgA3Ru+sQ1QAU0Q3JuCXtzA/IwpU7LVXd1xnDR1VzfPmaTMEQwiEawbU1OJf91i6+83C6ngl6ddB8v6GHo3bbZ1LjoCgkEDcn1xdaHvSaRATBIhsidnlgweEwyS15fCRssgwnGlrvwy3udbSUyUdhFNmGbKevW7f/HMFI/qFL0bxX5QZNhGm1VdSGbN5YeBPOuoCg9uAFkeo6KWQoI7CMEb0vG7HM4j+BboD1MfmD/LsUq39lVWg4ACQjKkwjMxlPmJ2PrTa9b+2Lt4AVeDRCjlvH9KHsm5M1Ilb10iA==;3Q8gD0wiMkDS6aaf4PIuVw=="
 ---
 

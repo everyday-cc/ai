@@ -15,12 +15,6 @@ topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Business5-e1661143754101-600x337.jpg"
-    width: 600
-    height: 337
-    isCached: true
-
-secured: "yCn8+2P4I1OAdVB1AStaHKavUxatyvvYYkFAO4fxGBOqXLNK2feuyhNYLpyXUTJpefOa9gGxSFGchuH7WLSER0L2rRQelYW+cx+Hixk8TvTp2wRbwddIHg5fQJbFtbeTcT59e1qNWNGJ0PjI6yMxfuT4KG+h5uh228MtzjLgj3fze3AqMObUweUfPUWi7VWvqiCghu7lSTGKpxAjmoHhDYnu1rUzJ3xqojU7uY6lcAveRyZswxPWKitlg1mkuWOnh/X7vS7VDLGaRb/GBAFjGAMbnpuE61k6DtWVOCZS1MRD03bYjcJUQXg1W30rIY0np1iJM/uBE3pXWovW2hTRk8ACdrWmss5aJ4Qw97ztY0c=;v5xC2S1U7/b69CorBKJbLw=="
+secured: "MQYp5Bt9LJzyiTFWFDnKwZil5eQcM2hXY5fcbECaJbwAzUlAaAARByJgCRME4/Dm4fS/PHivFz97gy1w3sqmGgbqtY2zn8fCMW5FQqSNB98zR9NVaJt2x0rtSGviG3fkG6jXMWteG7Se1hJdHJqR9KtQ2x0xtl92LzO7mvx5DoOg47hrJwvBXLmky27MB5gHcwl2laGdJM+BVxjdxfmMiCDs2rIqChdHBIPNiuh++AcW6ryTgF0Mh6Nr5F5jUv5gBM7Io1Bh4EUg1+pu1XkUhYKP+tGFCGz6csKi5gtL1Zfi+/m8x0mNAvMprM0IGfohg4Rn57OOTV6yqEhUyIBKZjF9jMTRBU8EZPO+aVBTIdU=;s07OXP3iMWnDiTS+3C7Esw=="
 ---
 

@@ -6,9 +6,6 @@ publishedDateTime: 2022-08-18T15:51:00Z
 originalUrl: "https://au.pcmag.com/home-security-cameras/95736/amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage"
 webUrl: "https://au.pcmag.com/home-security-cameras/95736/amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage"
 type: article
-quality: 52
-heat: 52
-published: false
 
 provider:
   name: PC Magazine
@@ -22,12 +19,6 @@ topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://sm.pcmag.com/t/pcmag_au/news/a/amazons-ri/amazons-ring-patches-flaw-that-couldve-let-hackers-access-ca_qkxt.1200.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-secured: "jBvTBrYfXMZEQNXW9QtnC1kqIdat57eVy7cNqQ5WzsXBj8nh5tx4S6Oy71tKC/kgDWmYpod10Vp/Ml0moy3nAV7CXfXntRL36n0WK0geDVHS+ftbZPMukZr3P6GyOLf4EqbH/iZDaNdmCfBJJIWr+wvxVltMV24lALDwT6EK99aAH8tDyrCzvxJ4KX2Ze0sQ/xX2tUvaYrILvc8gXxn7lrX6/aFTzgeJ+McNyBUr0+8Qtp5tVsyfI1e2CtUNWhHooBVaOddvDVzsYIPP1rVp4tKakGQzvmBB9N2tQeJESBSd9A1kFi3onryaqLLjPuZq3lENcDYf93jbCC6qw3jJ+GkjSTqkz3cR1kik5GdOdBU=;GHQuePOGzGQnOkbdN3cY6g=="
+secured: "lxbn/VGqnShGXsNBD3sB9Vi76bVtYWNgffSf+Mp1SzKhiXqmReIjwWpuGrDtlwHlI4qJ7t97+y71VVfvf1iY5rjfxxhhZy09w7hedLj4MnNblAJeCdH1T0v5Hz2kydEv/bKGiF/i+BMsTBpKONK3CUB6yf5LsG2gU2D2RVBnQDAt6WdqDtS8aOKsvpvxBOQEZilSSd8a13uz9LB2tijbj6eIAlySvLIqGy66vUpyXpb1YDdBkcD25FE6FEMrbu8CDmnNN6mIcRsFGkc5CUWpyucGrUF1OqsHLAA494NrZ1vzMHz7NcX7o7Jw4pmtKNBT8bKTYmSPnYBsAFZZc2Rl8U+1O2GFqJ3G1WyKjhjOKD8=;CQPbY+IoMHzlOMWSPy9/+Q=="
 ---
 
