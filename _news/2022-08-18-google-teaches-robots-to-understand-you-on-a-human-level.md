@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-language-skills-coax-google-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/"
 type: article
 quality: 89
-heat: 139
+heat: 129
 published: true
 
 provider:
@@ -44,22 +44,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/05BHO8P2HaVhuMFEa9c4ijk-1.fit_lim.size_1200x630.v1660729471.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "Google adds AI language skills to Alphabet's helper robots"
-    excerpt: "Google's parent company Alphabet is bringing together two of its most ambitious research projects — robotics and AI language understanding — in an attempt to make a \"helper robot\" that can"
-    publishedDateTime: 2022-08-17T05:42:00Z
-    webUrl: "https://www.jamaicaobserver.com/business/google-adds-ai-language-skills-to-alphabets-helper-robots/"
-    ampWebUrl: "https://www.jamaicaobserver.com/business/google-adds-ai-language-skills-to-alphabets-helper-robots/amp/"
-    cdnAmpWebUrl: "https://www-jamaicaobserver-com.cdn.ampproject.org/c/s/www.jamaicaobserver.com/business/google-adds-ai-language-skills-to-alphabets-helper-robots/amp/"
-    type: article
-    provider:
-      name: The Jamaica Observer
-      domain: jamaicaobserver.com
-    quality: 57
-    images:
-      - url: "https://imengine.public.prod.jam.navigacloud.com/?uuid=a8cc7452-d1df-5010-a16b-3d5ccc5e6eda&function=fit&type=preview"
-        width: 500
-        height: 333
         isCached: true
   - title: "Scientists Use Robot to Understand Ant Communication"
     excerpt: "A team of scientists at the University of Bristol has developed a small robot that helps them understand how ants teach one another. The robot was built to mimic the behavior of rock ants, which rely on one-to-one tuition."

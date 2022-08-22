@@ -130,15 +130,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 30
-  - title: "Artificial Intelligence Application Market 2022: Global Trends, Size, Segments, Forces Analysis, Revenue, Challenges and Growth Forecast to 2028"
-    excerpt: "The global Artificial Intelligence Application Market report focused on a thorough examination of the industry's"
-    publishedDateTime: 2022-08-17T07:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-application-market-2022-global-trends-size-segments-forces-analysis-revenue-challenges-and-growth-forecast-to-2028-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 10
   - title: "Cognitive Systems Spending Market Development Status, Competition Analysis, Type and Application 2026"
     excerpt: "The global cognitive systems spending market is experiencing numerous technological advancements permitted with exceptional features for several industries, especially in the banking sector. Cognitive systems with high-definition technology can help in determining the world’s most composite data analysis difficulties by entering into the complexity of exploiting the power of big data,"
     publishedDateTime: 2022-08-17T09:03:00Z

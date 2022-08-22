@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/ai-helps-woman-answer-questions-at-her-
 webUrl: "https://www.pcmag.com/news/ai-helps-woman-answer-questions-at-her-own-funeral"
 type: article
 quality: 67
-heat: 98
+heat: 97
 published: true
 
 provider:

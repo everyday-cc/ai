@@ -27,38 +27,65 @@ images:
     isCached: true
 
 related:
-  - title: "Could self-driving cars be the future of the school run?"
-    excerpt: "Under landmark Government proposals, self-driving cars are set to be on the roads in the UK next year. The first wave of the top of the range cars to be sold in Britain within the next few months. But it's not just cars, ministers are also looking at ..."
-    publishedDateTime: 2022-08-19T11:36:00Z
-    webUrl: "https://www.hulldailymail.co.uk/news/uk-world-news/could-self-driving-cars-future-7484128"
-    ampWebUrl: "https://www.hulldailymail.co.uk/news/uk-world-news/could-self-driving-cars-future-7484128.amp"
-    cdnAmpWebUrl: "https://www-hulldailymail-co-uk.cdn.ampproject.org/c/s/www.hulldailymail.co.uk/news/uk-world-news/could-self-driving-cars-future-7484128.amp"
+  - title: "Experts warn no easy answer to how safe self-driving cars should be"
+    excerpt: "The Centre for Data Ethics and Innovation (CDEI) report warns that it might not be enough for self-driving cars to be safer than human drivers. It suggests the public may have much higher expectations of self-driving car safety."
+    publishedDateTime: 2022-08-18T23:17:00Z
+    webUrl: "https://www.bbc.com/news/technology-62598618?at_medium=RSS&at_campaign=KARANGA"
+    ampWebUrl: "https://www.bbc.com/news/technology-62598618.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62598618.amp"
     type: article
     provider:
-      name: Hull Daily Mail
-      domain: hulldailymail.co.uk
-    quality: 44
+      name: BBC
+      domain: bbc.com
+    quality: 74
     images:
-      - url: "https://i2-prod.hulldailymail.co.uk/incoming/article7484439.ece/ALTERNATES/s1200/1_GettyImages-1074867670.jpg"
-        width: 1200
-        height: 630
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/310D/production/_126375521_selfdrivinggettyimages-928081066.jpg"
+        width: 1024
+        height: 576
         isCached: true
-  - title: "Self-driving cars could be on UK roads next year, Grant Shapps says - 'Huge potential'"
-    excerpt: "SELF-DRIVING cars could be seen on British roads by next year, as the Government invests £100million into the emerging sector."
-    publishedDateTime: 2022-08-19T06:55:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps"
-    ampWebUrl: "https://www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps/amp"
+  - title: "Experts warn no easy answers to how safe self-driving cars should be"
+    excerpt: "The Centre for Data Ethics and Innovation (CDEI) report warns that it might not be enough for self-driving cars to be safer than human drivers. It suggests the public may have much higher expectations of self-driving car safety."
+    publishedDateTime: 2022-08-18T23:17:00Z
+    webUrl: "https://www.bbc.com/news/technology-62598618"
+    ampWebUrl: "https://www.bbc.com/news/technology-62598618.amp"
+    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62598618.amp"
     type: article
     provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 36
+      name: BBC
+      domain: bbc.com
+    quality: 74
     images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps-1657360.jpg?r=1660892097429"
-        width: 590
-        height: 350
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/310D/production/_126375521_selfdrivinggettyimages-928081066.jpg"
+        width: 1024
+        height: 576
         isCached: true
+  - title: "Driverless cars: Experts warn no easy answer to how safe they should be"
+    excerpt: "There is no easy answer as to how safe self-driving cars should be, an adviser to a new government-backed report has told the BBC. The Centre for Data Ethics and Innovation (CDEI) report warns that it might not be enough for self-driving cars to be safer than human drivers."
+    publishedDateTime: 2022-08-18T23:17:00Z
+    webUrl: "https://www.bbc.co.uk/news/technology-62598618"
+    ampWebUrl: "https://www.bbc.co.uk/news/technology-62598618.amp"
+    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-62598618.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.co.uk
+    quality: 59
+    images:
+      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/310D/production/_126375521_selfdrivinggettyimages-928081066.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "China Closer to Getting Affordable Self-Driving Taxis"
+    excerpt: "China may be one step closer to offering driverless cab rides at half the price, thanks to Baidu. In July, the Chinese tech giant unveiled the sixth generation of its self-driving electric car ..."
+    publishedDateTime: 2022-08-17T19:38:00Z
+    webUrl: "https://www.nasdaq.com/articles/china-closer-to-getting-affordable-self-driving-taxis"
+    ampWebUrl: "https://www.nasdaq.com/articles/china-closer-to-getting-affordable-self-driving-taxis?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-closer-to-getting-affordable-self-driving-taxis?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Self-driving cars could be allowed on all roads as early as 2025"
     excerpt: "Cars driven by humans might soon be thing of the past. That’s right, your mates might have spent their hard-earned cashola on driving lessons, but the joke’s on them – vehicles could be driving themselves by 2025."
     publishedDateTime: 2022-08-19T16:19:00Z
@@ -73,15 +100,6 @@ related:
         width: 1000
         height: 750
         isCached: true
-  - title: "Self-driving cars: UK motorways change sparks AA warning amid new government plans"
-    excerpt: "The Government has unveiled new plans which mean self-driving vehicles could be 'on UK roads by 2025' and they're backed by a £100 million investment to boost the rollout. Motorways could even see some cars,"
-    publishedDateTime: 2022-08-19T13:53:00Z
-    webUrl: "https://www.theboltonnews.co.uk/news/20675179.self-driving-cars-uk-motorways-change-sparks-aa-warning-amid-new-government-plans/"
-    type: article
-    provider:
-      name: The Bolton News
-      domain: theboltonnews.co.uk
-    quality: 0
 
 secured: "jaWst2jBk4iTagjLT0ISTOnsOyPvueqKFUyJOkbQCJyewIaCW294FBQouwmiBq81j7Sh0zzeDN2w/fGXeq+5N3YK7OZMAbGCN9aoANcFk6HoN0bfzAL/6MxgpgacDSOz2eu7cZ/YArLeqgEnGTQ924PKmw1z6wjNMnMBRKk+M6tEi7qtEIUKHA+nmlvMu+LuaSTJGyS9jTcBogZXCBcVZo8D55FiU3ZgWcEs6yLpVyL67aeGyLABxzDW5gXZxU1kO0Id9tn1o1qXvyi2Zk0VCR/imIxSLUDlrFnnr+xnFoKbDB0jr6xoq6RejnFJ8EPR2Kwjk+V6Z5OaVyEBTdLWEdzARWofn8ziroO9WNGLRHw=;qAIvIPqirTKA2qnHXJt2IA=="
 ---

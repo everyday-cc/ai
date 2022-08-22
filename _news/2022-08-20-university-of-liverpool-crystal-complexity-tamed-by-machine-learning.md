@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/university-of-liverpool-crystal-compl
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-liverpool-crystal-complexity-tamed-by-machine-learning/"
 type: article
 quality: 59
-heat: 80
+heat: 79
 published: true
 
 provider:

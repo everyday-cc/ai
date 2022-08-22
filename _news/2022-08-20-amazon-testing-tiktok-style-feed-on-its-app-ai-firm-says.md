@@ -85,6 +85,17 @@ related:
         width: 1999
         height: 1333
         isCached: true
+  - title: "Amazon testing TikTok-style feed on its app, AI firm says"
+    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."
+    publishedDateTime: 2022-08-21T04:42:00Z
+    webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article264624466.html"
+    ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article264624466.html"
+    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article264624466.html"
+    type: article
+    provider:
+      name: The Sun News
+      domain: myrtlebeachonline.com
+    quality: 37
   - title: "TikTok adds AI image generator"
     excerpt: "Meanwhile, TikTok previously increased the age limit for those buying gifts on the app. The Chinese-owned company announced that users under the age of 18 would no longer be able to buy or receive virtual gifts after it was criticised for allowing teenagers to spend money on their favourite influencers in a bid to get a “shout-out” from them."
     publishedDateTime: 2022-08-17T09:15:00Z
@@ -102,15 +113,6 @@ related:
     provider:
       name: News9
       domain: news9.com
-    quality: 19
-  - title: "Amazon testing TikTok-style feed on its app, AI firm says"
-    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers' attention by introducing replicas of the popular social platform. The e-commerce giant has been testing a feed on its app that enables shoppers to scroll through TikTok-like photos and videos of products posted by"
-    publishedDateTime: 2022-08-20T21:29:00Z
-    webUrl: "https://japantoday.com/category/tech/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
     quality: 19
 
 secured: "pHHfWcPHfSkvQDzfjhD2prvGjtEzkHxHIiad0qK4A+y/9xSK8uPBNBr13Chnn3w9axLnDJwIC6GFzMS1svarvbCU/OodcBFgkTHJ067Ki/yknRh9kniD/kfQUY32eJCJGnFCJyj0xkzRsaOa+eZ1hoAMiq7hUZOz8y99jfCZdLosm78CgKUBv8EUXemxLA0/dvrjbXSmKo7o40iJSTpeX/Bghv9LLHzjeG9CUeofThpABseeZ4jonElHRcu6aecq8QBoM44WpRTw9PBIgBCD5583v+UkBDl74+QPWG2ps4FgnAynmDTOwBXX+HPu/ZcIJyfWo1ZX4Qyov0Qv3kh0iFyNsC6Eix1c+Bg0eW6MP4iEMskGtkCNEEUbpEAPCE5Md2WyHtlVyip5BhMWpVB5ztOwLsyUbt+pjSSsIx9MCjkw9lZrUtFbiQopnAauIsUd87gxkH8T6nUp/55Du+eh3yTSVBO2Po8MvDqbZ9DiALy1m/bewhjNjbjVKGPzM0ys3W/0ZZgHbSIvyCcyxIt6Eg==;HQM7HOPbc4iEIvV/Jsve/A=="

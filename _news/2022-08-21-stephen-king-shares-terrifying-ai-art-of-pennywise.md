@@ -9,7 +9,7 @@ ampWebUrl: "https://comicbook.com/horror/amp/news/stephen-king-shares-terrifying
 cdnAmpWebUrl: "https://comicbook-com.cdn.ampproject.org/c/s/comicbook.com/horror/amp/news/stephen-king-shares-terrifying-ai-art-of-pennywise-it-clown/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 568
     height: 320
     isCached: true
+
+related:
+  - title: "Stephen King Had AI Conjure An Image Of IT's Pennywise, And The Result Is A Nightmare"
+    excerpt: "King suggests that they can. AI art generators are all the rage right now on the internet, with people using programs like DALL-E 2 and Midjourney to create art with all kinds of outrageous prompts, and Stephen King recently got in on the fun."
+    publishedDateTime: 2022-08-21T23:06:00Z
+    webUrl: "https://www.cinemablend.com/movies/stephen-king-had-ai-conjure-an-image-of-its-pennywise-and-the-result-is-a-nightmare"
+    type: article
+    provider:
+      name: Cinema Blend
+      domain: cinemablend.com
+    quality: 30
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/mqisSpGD2hm87hAb2W8N7N-1200-80.jpg"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "rwsFdcPUCvXI7U58zxvOowlFXupZ0B74OG6FcVqEmqkQo35ihEFGxmxz7UJCbxbwmtQnq8/7xBPg3SdG/SBjqQvUYhRvHdVvUCuVJ7skj26XJmimLnr6wOBRKPs4U9kL+kJ3TNW5FVi+Ni5/gKD55k1ekJarqHM4D/6stlcAUsV/qNVEgFRjRft4LfLoWaFH4B6/xwd6tTOILlfjXe0prTAI4pjdQkb2Qt9dYllKCWuk+n4JqH83e6059XsiL78yQaBsVTGN2JaKjc37dDOX0NrW8qqi/ZiEBJ0XQ1KOec64RvaiXUelGkuRarI45PuoC+6bPAr5+tyASuZIoJ9P0rZhT8PMp7nMLHbVT3Qq0TDPuzpIg9BbGr/7VLC2Bhd4IaHsIU1zl4pJzjISYPF22Wh2/H3tIjcw375PTbTldS7r7htupNPzNjC//ysLpa2y2S747B7Zo8w9/6eTHuxb880M64xUmmpS4rU137DmS0FedT3tGuUMzlAk5Z3dmv8rMvYBxddu36R0k1fcpDfpbQ==;a3B2oxLyrOYgjjaY+REhcw=="
 ---

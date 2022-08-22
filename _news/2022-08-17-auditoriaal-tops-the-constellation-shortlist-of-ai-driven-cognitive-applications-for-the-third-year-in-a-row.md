@@ -1,27 +1,27 @@
 ---
 category: news
 title: "Auditoria.Al Tops the Constellation ShortList of AI-Driven Cognitive Applications for the Third Year in a Row"
-excerpt: "As an AI-driven Cognitive ... such as Microsoft 365 and Google Workspace. Constellation Research advises leaders on leveraging disruptive technologies to achieve business model transformation and streamline business processes. Products and services named ..."
-publishedDateTime: 2022-08-17T15:06:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/technology-35e1a35b4d51cf0c419354ba1a459f27"
-webUrl: "https://apnews.com/press-release/accesswire/technology-35e1a35b4d51cf0c419354ba1a459f27"
+excerpt: "Constellation predicts that the total market for this autonomous enterprise market, including cognitive applications ... and collaboration tools such as Microsoft 365 and Google Workspace."
+publishedDateTime: 2022-08-17T15:07:00Z
+originalUrl: "https://www.digitaljournal.com/pr/auditoria-al-tops-the-constellation-shortlist-of-ai-driven-cognitive-applications-for-the-third-year-in-a-row"
+webUrl: "https://www.digitaljournal.com/pr/auditoria-al-tops-the-constellation-shortlist-of-ai-driven-cognitive-applications-for-the-third-year-in-a-row"
 type: article
 quality: 20
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/FBI-TRUMP-Mar-a-Lago-search-AFP-1K-600x337.jpg"
+    width: 600
+    height: 337
     isCached: true
 
 related:
@@ -90,6 +90,6 @@ related:
       domain: finanznachrichten.de
     quality: 0
 
-secured: "HRjQ3C9g1uKLLH6lYsiTEkHzH0NT+5jgekYIZV+asZ8CukknZS14FzJfhSQq32bSx/qsXNEDqLSOKobRmCR3fzKyF2+DhMqgDyu+QC0dJzGBIPO/tZF+hTiGXYrEjZI+fLCa7EmwcgZ2jkUwv6g3HfRNqNbG7HAYuF0zSXGLBGcvGrqzxZY9FRHwdqP1eujFxcbuvQPaR3nt0lwlQvhF9XO/NyxWQEJ5WptVFR2I/Pz3yQzVoYBI+fE69ek7r+8xZYv4sMRlL3W/ErFfnwYeQ3LeTPMDh8SH2UZzyQuqv5R4KyO7/RnD176ptNJj+P/Yk1e09/3oD0n3UmrKdfOhLJnRhEV8/xEeqt66AfLPzdY=;Yc5KjtsJwI0Hxx+XaneWKA=="
+secured: "mStGIhX3XU7lgbVNj7LILCPJ6NY0QeKO7tZc3IGaZVQI/Mme3E22vWbNyPXmNqY6rbRiDkZkFP5MR2kBzfHrVWYBElis1rk0IDkmpODsZmHJWq10UAOfoVPoOEy6URSHTrpZcT8ZmOkvqPa9A5yOdDS+1GfTZ5lO7k+ET6CruNOJVNFO/AkVlBh1e6ex58DEkCOcyjFMrHwCSN9XkLbZ7Q6KRwQE16ihqWyJ8fZbg8LGydqi3TLNELa/hiwcjsyT8NYcfbW7/pGr99fz76eXqrow1w5RWUn7yqxjdHlsSa8wpzMcQ889zPNAJSQBGbxWAaw+E5QltGiHHxpm3oyFiiSayETu8Fn8VjEO/X/WLk0=;nXWQFct5yOAUKQZHBTX4kA=="
 ---
 

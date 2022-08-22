@@ -7,7 +7,7 @@ originalUrl: "https://nypost.com/2022/08/17/bmw-denies-self-driving-electric-car
 webUrl: "https://nypost.com/2022/08/17/bmw-denies-self-driving-electric-car-caused-fatal-traffic-pileup/"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,19 +17,6 @@ provider:
 topics:
   - AI in Autos
   - AI
-
-related:
-  - title: "China Closer to Getting Affordable Self-Driving Taxis"
-    excerpt: "China may be one step closer to offering driverless cab rides at half the price, thanks to Baidu. In July, the Chinese tech giant unveiled the sixth generation of its self-driving electric car ..."
-    publishedDateTime: 2022-08-17T19:38:00Z
-    webUrl: "https://www.nasdaq.com/articles/china-closer-to-getting-affordable-self-driving-taxis"
-    ampWebUrl: "https://www.nasdaq.com/articles/china-closer-to-getting-affordable-self-driving-taxis?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/china-closer-to-getting-affordable-self-driving-taxis?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 54
 
 secured: "3+kZ0h/uD1hru3X5UX37cYiV1X6gPs33TGVWgGypqwNKbBbDkGMttK2ocdlXAYPA+CxBexF5bPUx2t/24joYQ3JFvJlbL0Tzdiln2W/ubVtdX0NKkom2SorMJWk1swDHgpfb5Fy1tgPqjpfD1G1K4/42mhi58iChm+bcBPKSDENPC6fQKeoOegDZA4VNrbaMoFdxLpXifLw0UJTW1bkyXViuURjwEPQAWAKVc0qwiGvo1dDh08Rg3zhawnTao3L/HxBxsOJNlXarJZR5mrXRekDH5CiLiBxA1jkkb5Z2d/ZAxlZQV3MpZVlgiiqol60FILW0/RPg6RJzdsHt7690pYHlMH+VlGByums2zE1kcxoeZMXaM6KYTrK6qY8daLtTS1ppau0FuQEr+IQ7v4vdItO9UTqGR9z5Zuc6H9T0B6H0k6E+b0D1imhlMSAVkhfWn3iol4Tsxg2RNcDMYvlZ+n6M5JPvktkV6iYrW6q8Od3vMTsUL6oGQDt8uQ1f2rpbk7U0Srb7NUCFvHxRy5t1jA==;afduSJZfXuc6cErWf0t2Ew=="
 ---

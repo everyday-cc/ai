@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "What Are The 10 Best AI Consulting Firms"
-    excerpt: "Google CEO Sundar Pichai has described the advent of artificial intelligence (AI) as more revolutionary than the discovery of fire or electricity. According to PwC, it has the potential to contribute $15 trillion to the global industry by 2030."
-    publishedDateTime: 2022-08-17T06:35:00Z
-    webUrl: "https://www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/"
-    ampWebUrl: "https://www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/08/17/what-are-the-10-best-ai-consulting-firms/amp/"
+  - title: "What 8 Analyst Ratings Have To Say About C3.ai"
+    excerpt: "Analysts have provided the following ratings for C3.ai (NYSE:AI) within the last quarter: In the last 3 months, 8 analysts have offered 12-month price targets for C3.ai. The company has an average price target of $18."
+    publishedDateTime: 2022-08-17T16:47:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/what-8-analyst-ratings-have-to-say-about-c3-ai-1031690797"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 67
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62fc8c03c3e3a8833738a5f5/0x0.jpg?format=jpg&width=1200"
-        width: 1000
-        height: 540
+      - url: "https://cdn.benzinga.com/files/imagecache/1024x768xUP/images/story/2022/analyst_ratings_image_25245.jpeg"
+        width: 1024
+        height: 768
         isCached: true
 
 secured: "07NzN+U5gTqihfyYLRRuzwgNjPKEawCoV5hkQXOdYemGT5mQ7/aEQ7O3HiaDFcuMTmPjoubJ0yRpJMwHgYxm4DOD/ckQgZIvty7+KJeEfBZ+9eEiqeX5zV4jk2yE6UH8mFHX7mVH9r8R/89Bb698JOmHOYOW5bHhteis/IyAxJLp3XrcXKe0WUnZkr4Yvcj1I68EmwpjNxasOoCxUZeLLxqLx+2OU6T/8iXEjtYYirgz7ZsOndmnfq8k3/XlC1xG3YbUanrIT+/dslTVn9Y7Ut65l2EHeN7BEu6feKFhkWlb3gn12Tdd+vQhqqTBGU1Qq36rEOTGNOPK94WqhJo4EsWiJoeQdsX9QbF3a2M+/YFSdvZmpA5R7TqKlBlPBxFj5qQeQU8uJgkSfVuNlJ9A0/p/4fwD+v8UQytgcVFoa5zRa5vp0D0iSE1sg+09RfFwO2REoeX/P50T+iw97yfFhRSffbJItl6qnX22xNGFyy9KmlT3wXH66j315A4zY1vDznyheB4ws3bjarSQrPe+jA==;TZlnXCM0jvORRrVMYXGqIA=="

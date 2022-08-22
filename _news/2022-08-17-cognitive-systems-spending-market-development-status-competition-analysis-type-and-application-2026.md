@@ -134,15 +134,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Application Market 2022: Global Trends, Size, Segments, Forces Analysis, Revenue, Challenges and Growth Forecast to 2028"
-    excerpt: "The global Artificial Intelligence Application Market report focused on a thorough examination of the industry's"
-    publishedDateTime: 2022-08-17T07:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-application-market-2022-global-trends-size-segments-forces-analysis-revenue-challenges-and-growth-forecast-to-2028-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 10
 
 secured: "iWHM8RKPPb4nG+THwn8talKZnXyG2fQ4ciXfNDVQToQuYqRFtkQT5tQYDCeLrjIqdDhgZB+KO01V83I2ZmdFYsr0dB/3mzPA7SHcC0fS2BRzM1adP0BoiNggSwAStdpZvvjybTyExWJZu5oi0wHA1WbmJNE4nBQJcMp2uhyx0Bwo9qg3GgHxbv7jh1n0Qsb199XfFAVvGL+eE+wv+XqgJ5FbLJb15lQ+cSeMXn/5Bb6GGcZGQH7Ca6X8HbOYyj3nXRPRMphxqyidWIDgEXNoK1hPko0lb9UOGqgifnCLoMjirH8sJX7fGB8K6N3qNPApbH5x1Oj5NM7l8l5jnW5l3OuYvSjQnfNnVoTUfutQsr0=;aD9m0C+pRc4gj6sJEYU+eg=="
 ---

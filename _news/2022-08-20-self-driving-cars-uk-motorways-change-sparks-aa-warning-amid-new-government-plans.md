@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Self-driving cars could be on UK roads next year, Grant Shapps says - 'Huge potential'"
+    excerpt: "SELF-DRIVING cars could be seen on British roads by next year, as the Government invests £100million into the emerging sector."
+    publishedDateTime: 2022-08-19T06:55:00Z
+    webUrl: "https://www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps"
+    ampWebUrl: "https://www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 36
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps-1657360.jpg?r=1660892097429"
+        width: 590
+        height: 350
+        isCached: true
   - title: "Unnoticed eye movements can be key for better self-driving cars: Study"
     excerpt: "Artificial neural networks that learn to recognize objects more quickly and accurately have been developed by Andrea Benucci and colleagues at the RIKEN Center"
     publishedDateTime: 2022-08-21T19:17:00Z
@@ -41,6 +57,15 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "Self-driving cars: UK motorways change sparks AA warning amid new government plans"
+    excerpt: "The Government has unveiled new plans which mean self-driving vehicles could be 'on UK roads by 2025' and they're backed by a £100 million investment to boost the rollout. Motorways could even see some cars,"
+    publishedDateTime: 2022-08-19T13:53:00Z
+    webUrl: "https://www.theboltonnews.co.uk/news/20675179.self-driving-cars-uk-motorways-change-sparks-aa-warning-amid-new-government-plans/"
+    type: article
+    provider:
+      name: The Bolton News
+      domain: theboltonnews.co.uk
+    quality: 0
 
 secured: "KiVv1x/gcwjlx/RPay+1ZUFozpubaZaizeztjOuhCiqOXqTXHpYhJh71k22B1RHY69R0xEj75HslK6KYBIk0bZ5y3Qla9VZ32cxvXdVpuHYEXNTU3dnYs7DLFvN93kVN8v/PhstRjvh6M0F6FzXr4pSXlBkjA8OdX9Ic+7Wm2e0SgKxd36CTTG02rAg1vDxvOEPdOdG8eASBSQIvJNojz59Hl+ndaXEKNJ3xKHgTm1erqYQsQLctE/frfCmxOE1pdiW0pveAsi1PBWOUYCVj/vfBNuUw2d5UXlneuuF/OV5lQmkR8vP+3dOVrNbFbEyG81OCrLs8rie3vqi6y3BU/vCUiqWgXch/Q4s7pW1Ax7Y=;OsYxs6b3AG+J7yWMu6K10g=="
 ---

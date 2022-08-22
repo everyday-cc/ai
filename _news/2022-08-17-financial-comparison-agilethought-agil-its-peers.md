@@ -7,7 +7,7 @@ originalUrl: "https://www.defenseworld.net/2022/08/17/financial-comparison-agile
 webUrl: "https://www.defenseworld.net/2022/08/17/financial-comparison-agilethought-agil-its-peers.html"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Financial Analysis: AgileThought (AGIL) vs. Its Competitors"
-    excerpt: "AgileThought (NASDAQ:AGIL – Get Rating) is one of 57 public companies in the “Management consulting services” industry, but how does it weigh in compared to its peers? We will compare AgileThought to related companies based on the strength of its analyst recommendations,"
-    publishedDateTime: 2022-08-17T05:20:00Z
-    webUrl: "https://www.defenseworld.net/2022/08/17/financial-analysis-agilethought-agil-vs-its-competitors.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 4
 
 secured: "AedgZaJgbPRAnxwZSM8KaQlldgzzEBogvbH40GlN+ysifwCoV36LYapTDU2bGNR0Beb792RZNozDLkE+EgvMgnLAfqO5RyJTdMGeyh6lu6da/2fn2l1aednr7atwIxkuO6RzlG6hWUxuEN7HWIiwWmbhxpqVDMbdHjNl39cSjqzrEVMHoUzJocELYi9iPf7oQE9ncr4IMQfaDhAiFh+0OmvT9SrNFU33yJtVJo4OpGFEFlfcSRbPuvWT/hEp+XkBAllVjCCkVlBRq4gAeQrDcx9BEqM2fXayPSekRrsOSIEdj66YSKT/Rmn/e+i2gA6/7pcgkA137YteqkY5i3SHn89V7v29qbHiLKB+t8UCYi4=;fZeYQe8W2XkVRZ77792Etg=="
 ---

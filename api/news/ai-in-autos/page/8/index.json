@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-06-23-innovation-a-key-enabler-of-safe-traffic-management.md",
+      "title": "Innovation: A key enabler of safe traffic management",
+      "excerpt": "While driverless vehicles and flying taxis ... traffic management, and Artificial Intelligence Enforcement solutions, but also investing massively to enhance drivers’ lifestyle through many ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/business/innovation-a-key-enabler-of-safe-traffic-management",
+      "originalUrl": "https://www.khaleejtimes.com/business/innovation-a-key-enabler-of-safe-traffic-management",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=5e6aa570-905d-56a2-98b0-656266918f72&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.8992&x=0&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/business/innovation-a-key-enabler-of-safe-traffic-management?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/business/innovation-a-key-enabler-of-safe-traffic-management?amp=1",
+      "publishedDateTime": "2022-06-23T04:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-einride-gets-go-ahead-for-driverless-electric-trucks-on-public-roads.md",
       "title": "Einride Gets Go-Ahead For Driverless Electric Trucks On Public Roads",
       "excerpt": "driverless, electric transport vehicles called Pods on public roads in western Tennessee. Within weeks driverless electric freight transport trucks may be traveling on public roads in western ...",
@@ -1273,49 +1316,6 @@
       "provider": {
         "name": "UPI.com",
         "domain": "upi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-bgsu-professor-qing-tian-working-on-improving-safety-of-self-driving-cars.md",
-      "title": "BGSU professor Qing Tian working on improving safety of self-driving cars",
-      "excerpt": "From BGSU OFFICE OF MARKETING & BRAND STRATEGY. As auto makers continue to explore the possibility of self-driving cars, a Bowling Green State University professor is conducting r",
-      "sourceUrl": null,
-      "webUrl": "https://bgindependentmedia.org/bgsu-professor-qing-tian-working-on-improving-safety-of-self-driving-cars/",
-      "originalUrl": "https://bgindependentmedia.org/bgsu-professor-qing-tian-working-on-improving-safety-of-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bgindependentmedia.org/wp-content/uploads/2016/10/cropped-BGIN_logo_blue_square_300px-1.jpg",
-          "width": 300,
-          "height": 226,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-19T12:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BG Independent News",
-        "domain": "bgindependentmedia.org",
         "images": null,
         "publishers": null,
         "authors": null

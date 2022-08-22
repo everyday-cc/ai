@@ -94,6 +94,17 @@ related:
       name: Fort Worth Star-Telegram
       domain: star-telegram.com
     quality: 39
+  - title: "Amazon testing TikTok-style feed on its app, AI firm says"
+    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."
+    publishedDateTime: 2022-08-21T04:42:00Z
+    webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article264624466.html"
+    ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article264624466.html"
+    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article264624466.html"
+    type: article
+    provider:
+      name: The Sun News
+      domain: myrtlebeachonline.com
+    quality: 37
   - title: "Amazon Testing TikTok-Style Feed On Its App, AI Firm Says"
     excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."
     publishedDateTime: 2022-08-19T16:19:00Z
@@ -102,15 +113,6 @@ related:
     provider:
       name: News9
       domain: news9.com
-    quality: 19
-  - title: "Amazon testing TikTok-style feed on its app, AI firm says"
-    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers' attention by introducing replicas of the popular social platform. The e-commerce giant has been testing a feed on its app that enables shoppers to scroll through TikTok-like photos and videos of products posted by"
-    publishedDateTime: 2022-08-20T21:29:00Z
-    webUrl: "https://japantoday.com/category/tech/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
     quality: 19
 
 secured: "d1m4Ei24Sy8CCLRkFwNVesayAkZcJjNMwG5F7UCRNFRMKbPausCpuKBJiQXBGh+SpUzqyV4GoN9CtE7m1xdWKgjqplqaehMiwnTRhFZjVzPM2e8EsJLBwHI4zLVUw1EutCl9S84+u3Gx1aZQEOBmU7lPuHp1berpzcDSpPgwgmFHPhgIicuolOefDMVetQfWvOfvHDF68ZzSN6Jxm0R3OATQiKuEczAb+v9QqLDm8F5XwLneXImfvQga2lsB3QB8DTYBTOBr7Tk4PbAUhhVgWPZ6vh1IUfN+2Gdvyr8cjhnIDh34E6tp1SwPmTBl6Hx2ukEjw5vOW3q+Ow+C8vOWz/nqjv834eSCeqDi0tnD92CrT6PLAUzTyKxSkgTkziVYsA/8SKGTdAy0mNx6QBAyi/eB5+rhL22SJRnbxtgfkkyHBNXwLl8jJKAazhf9NlZLFZnStmP5heU4CYJ2TUxaAr0ZBeexrYCk235vkqC7lCY8kTVupq4nQ9LHUbjA6hqdR6j9bMOkTquMQ5p/+lq37A==;ZkCACBARMbmKzECLHIvU4w=="

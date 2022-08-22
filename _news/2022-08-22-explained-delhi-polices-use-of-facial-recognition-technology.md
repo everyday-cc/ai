@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/explained-delhi-polices
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/explained-delhi-polices-use-of-facial-recognition-technology/article65793897.ece/amp/"
 type: article
 quality: 74
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://thegrio.com/wp-content/uploads/2019/12/Facial-Recognition.jpg"
         width: 1250
         height: 805
-        isCached: true
-  - title: "80% accuracy in facial recognition database is a positive match for Delhi Police: Report"
-    excerpt: "An 80 per cent accuracy in facial recognition databases was considered a positive match by the Delhi Police, which deployed the technology to identify accused in major clashes in the city, RTI records show."
-    publishedDateTime: 2022-08-17T06:14:00Z
-    webUrl: "https://www.deccanherald.com/national/north-and-central/80-accuracy-in-facial-recognition-database-is-a-positive-match-for-delhi-police-report-1136806.html"
-    ampWebUrl: "https://www.deccanherald.com/amp/national/north-and-central/80-accuracy-in-facial-recognition-database-is-a-positive-match-for-delhi-police-report-1136806.html"
-    cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/national/north-and-central/80-accuracy-in-facial-recognition-database-is-a-positive-match-for-delhi-police-report-1136806.html"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 50
-    images:
-      - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2022/08/17/file79k5jxgl1fq610vnd8z-991311-1622271230-1-1046836-1635906143-1136806-1660716893.jpg"
-        width: 1280
-        height: 720
         isCached: true
   - title: "The Low Threshold for Face Recognition in New Delhi"
     excerpt: "Police in India's capital say they only require an 80 percent accuracy rate for matches, raising new alarm bells for civil liberty advocates."

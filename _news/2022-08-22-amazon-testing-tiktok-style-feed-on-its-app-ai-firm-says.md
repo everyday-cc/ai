@@ -86,6 +86,17 @@ related:
       name: Fort Worth Star-Telegram
       domain: star-telegram.com
     quality: 39
+  - title: "Amazon testing TikTok-style feed on its app, AI firm says"
+    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."
+    publishedDateTime: 2022-08-21T04:42:00Z
+    webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article264624466.html"
+    ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article264624466.html"
+    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article264624466.html"
+    type: article
+    provider:
+      name: The Sun News
+      domain: myrtlebeachonline.com
+    quality: 37
   - title: "TikTok adds AI image generator"
     excerpt: "Meanwhile, TikTok previously increased the age limit for those buying gifts on the app. The Chinese-owned company announced that users under the age of 18 would no longer be able to buy or receive virtual gifts after it was criticised for allowing teenagers to spend money on their favourite influencers in a bid to get a “shout-out” from them."
     publishedDateTime: 2022-08-17T09:15:00Z
@@ -103,15 +114,6 @@ related:
     provider:
       name: News9
       domain: news9.com
-    quality: 19
-  - title: "Amazon testing TikTok-style feed on its app, AI firm says"
-    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers' attention by introducing replicas of the popular social platform. The e-commerce giant has been testing a feed on its app that enables shoppers to scroll through TikTok-like photos and videos of products posted by"
-    publishedDateTime: 2022-08-20T21:29:00Z
-    webUrl: "https://japantoday.com/category/tech/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says"
-    type: article
-    provider:
-      name: Japan Today
-      domain: japantoday.com
     quality: 19
 
 secured: "Cl6AP5PcbtlvRGOGh+fvdzUuOIFgUx1Fm32JZUGm9SomFvrpya0MresbrVVsxnM9wlWkSMja/NBXz0RkkwWyMNWe0GmPcYfHgMbEi9rtftgXFMWtTSo6SCjGmwcO9SFYrCN3AaPIVgk6tV0/ZPEAE+qh2u33A8P9vuKepWdftJUwc8xk880s2qCssKr4+GYINfm8ZBHDXktlu8JtfMdDNF23+K4bpunvVTYxdhaaP1qQ+aRQrE9GLuhcyuKxzjiIJvfv+iMUEWWOi5TXEXnGVzZasK3XdBfuPqStkA1xEfCOdmC0Bgcwr2XsOV+d5O18NDyjWxE3kcH6dYATeY0Xm20u/MHnTZe8zxmiuzwJbiETuxEYDcyJFiXMYMIF5/UaLDTiM5Cnhy1h3BtNotI1JrbVeXC33bzMe+tjI0Vln/2A3gP6+1wIntMq8mArDVUgTRtMrmvrFlCJMRUyfIAXYdoai577uFVxhO6HpUXGn0UM75gi34FlleQXt17XKaBETlhS/vCQpG95EFWlTi7fdA==;aUc/2HYYJxZc7qov9CNP9Q=="

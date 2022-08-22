@@ -27,7 +27,7 @@ related:
   - title: "AI-generated art illustrates another problem with technology"
     excerpt: "Artificial intelligence is being used to design magazine covers and provide pictures for internet newsletters. What could possibly go wrong?"
     publishedDateTime: 2022-08-20T14:00:00Z
-    webUrl: "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists?amp;amp"
+    webUrl: "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
     ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
     type: article

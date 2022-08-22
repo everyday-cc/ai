@@ -1,28 +1,26 @@
 ---
 category: news
 title: "In simulation of how water freezes, artificial intelligence breaks the ice"
-excerpt: "A team based at Princeton University has accurately simulated the initial steps of ice formation by applying artificial intelligence (AI) to solving equations that govern the quantum behavior of individual atoms and molecules."
-publishedDateTime: 2022-08-08T19:00:00Z
-originalUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
-webUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.html"
-ampWebUrl: "https://phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-simulation-artificial-intelligence-ice.amp"
+excerpt: "became possible when the researchers incorporated deep neural networks, a form of artificial intelligence, into their methods. The study was published in the journal Proceedings of the National Ac ..."
+publishedDateTime: 2022-08-08T19:01:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/960990"
+webUrl: "https://www.eurekalert.org/news-releases/960990"
 type: article
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Machine Learning
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/in-simulation-of-how-w.jpg"
-    width: 2560
-    height: 1440
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8ee15a21-65f9-414f-95f3-179301e49a33/Rendition/low-res/Content/Public"
+    width: 700
+    height: 394
     isCached: true
 
-secured: "5ZwQfjzHSz3E9qPpPBuzvfU/YMJ7fYAE67fv0PwPajPjHBf3eolfS11kZqV8I5idD3U02tbEi0LAFU1LwSPv0pgrk138tZVURG/QToQ8HFZn0WQXXJtJPBkDGpk0266ihtC1dClzIr9vrEruhpclk98oD0L3g93KanI9T+Ci9hXyr1aeOoAKHnivnwuu/NLzFelhXkpi2L8z9MyC3p4RXJRLIZOUVCzCmiIO3KjOLPqm4ETzyFRQoNjswU6Zg9R+H1EwvkBJ7Lg3mN7DhCBP/zP1WRqkBo8kP1l00uVY/oxNdG4Gq79/60Qi06NQT9tOsVl3NnfmmY1R0cea1kK0Yp2oDPsxTKCHFwAz61kCdkc=;PPRFjyISM5uiGfKWCfBhYg=="
+secured: "lMrusvEWZWWoS4ki5FJB3l2Eq5sxLpojQJiukMRA1mkISCZ0UWWe80ztUCvTmod6qu56S3c2ryXiobCnsncQlfvDK8J4xJlUkg6nBeRQawCv2mgai6A7qwQ7bAvjcFXXGtBFm3YK/Aig9+Bgj/j6j8vEIecJ5LBjz6IcqIB1YatoqlVOOUvJpGdgs6qFIh8LQ7uu6W3MmM/TG9PHnq7f9fcH+WxLaMWt2wN92FQjiWm86tTWJJ0tENfMfBgpKbrMTDPxk27VeKO4bltk+3eHlVB78hsa+V3INH5ISDGYns0vzWL9C/cVJBh4Q4v4hAaFZwAgjFpRg9fnqrJTBFaoSG5IfeQAsHPWRJPpiVN6DWE=;InQRW3mHBr+18H6lTj0KrQ=="
 ---
 

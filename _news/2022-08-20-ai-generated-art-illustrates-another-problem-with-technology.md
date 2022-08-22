@@ -3,8 +3,8 @@ category: news
 title: "AI-generated art illustrates another problem with technology"
 excerpt: "Artificial intelligence is being used to design magazine covers and provide pictures for internet newsletters. What could possibly go wrong?"
 publishedDateTime: 2022-08-20T14:00:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists?amp;amp"
-webUrl: "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists?amp;amp"
+originalUrl: "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
+webUrl: "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
 type: article
@@ -45,6 +45,6 @@ related:
         height: 600
         isCached: true
 
-secured: "boLOgupRzL650HJVa3MIROTLNzpKLoG01Qe1Pgks0HrUBR0WVJUSZcszrVigbmFDqRIawDm2/pxMfBPgGiQXVL+lDV5yyk4ZvcmQ4UET7UhF2v/Kl0lw3rj3DH9ui8PzNxaWnMNvaDoEJN/3l0adqUGENv8iacRbBuhhGYAaoB/VWhomXomV4IoCAkGCCZqlyvyo0zGAzlLHkUopVSzMjttz+3w+/OX1ZGmAlpbhDQ2rK8KbOFetz8oLDQqCgjY8PbW9Du28UROaNSHrs7Foez+HGApYvj1jWtpIVek6MNiumXZ/Qlw2E2PkKa+Oq70WzkdPa7sO793QyK/IfH/byEcjY6FDClw5ahTqnKgtEh8=;PKNwjShLNZd0dm8F+YUD7A=="
+secured: "Z2pVWYrm5C+nZUIpcZjEetwB+EfiJ+OLuXrOVm5BB7J8ZKB4VwD1X0udtyCMGO0HGlgZRiudAk9ycbJkCWrCLJFcCcsnOC0HlopV45+nKYIQE4grKffmz8h2G8Wl8Dx5ri6iahNiSpztAFmc29ICXB1ImjGea/50HncQAErNhCx80zdrygfiLwO4N7CFyBleEf3gbb3c7WwUMwI1uHpL42EJfdCGhFnZQ3acBQj1Y6sEde5C4EufN/nJVGKXcOHilOC2Eyj7T+fKC3YWW/Hg6jzHDeg/qg2uVROvuiX0L7IymwF9n1zLh6MD9oD6VTEJvcPV3nInAu/Ot//zWEHLAYH1a9pKw92zDKkKRQ5gWuo=;bEvvsofRIyn2vN8DRS4k/Q=="
 ---
 

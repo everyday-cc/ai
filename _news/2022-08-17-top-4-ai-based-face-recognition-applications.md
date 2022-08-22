@@ -59,18 +59,18 @@ related:
         height: 630
         isCached: true
   - title: "Auditoria.Al Tops the Constellation ShortList of AI-Driven Cognitive Applications for the Third Year in a Row"
-    excerpt: "As an AI-driven Cognitive ... such as Microsoft 365 and Google Workspace. Constellation Research advises leaders on leveraging disruptive technologies to achieve business model transformation and streamline business processes. Products and services named ..."
-    publishedDateTime: 2022-08-17T15:06:00Z
-    webUrl: "https://apnews.com/press-release/accesswire/technology-35e1a35b4d51cf0c419354ba1a459f27"
+    excerpt: "Constellation predicts that the total market for this autonomous enterprise market, including cognitive applications ... and collaboration tools such as Microsoft 365 and Google Workspace."
+    publishedDateTime: 2022-08-17T15:07:00Z
+    webUrl: "https://www.digitaljournal.com/pr/auditoria-al-tops-the-constellation-shortlist-of-ai-driven-cognitive-applications-for-the-third-year-in-a-row"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Digital Journal
+      domain: digitaljournal.com
     quality: 20
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/FBI-TRUMP-Mar-a-Lago-search-AFP-1K-600x337.jpg"
+        width: 600
+        height: 337
         isCached: true
   - title: "Voice Recognition Market generalship Report Industry Size, Segment by Key Companies, Types Applications and Forecast to 2025"
     excerpt: "Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with"

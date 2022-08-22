@@ -1,21 +1,22 @@
 ---
 category: news
 title: "Amazon testing TikTok-style feed on its app, AI firm says"
-excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers' attention by introducing replicas of the popular social platform. The e-commerce giant has been testing a feed on its app that enables shoppers to scroll through TikTok-like photos and videos of products posted by"
-publishedDateTime: 2022-08-20T21:29:00Z
-originalUrl: "https://japantoday.com/category/tech/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says"
-webUrl: "https://japantoday.com/category/tech/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says"
+excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."
+publishedDateTime: 2022-08-21T04:42:00Z
+originalUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article264624466.html"
+webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article264624466.html"
+ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article264624466.html"
+cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article264624466.html"
 type: article
-quality: 19
+quality: 37
 heat: -1
 published: false
 
 provider:
-  name: Japan Today
-  domain: japantoday.com
+  name: The Sun News
+  domain: myrtlebeachonline.com
 
 topics:
-  - Facebook AI
   - AI
 
 related:
@@ -113,6 +114,6 @@ related:
       domain: news9.com
     quality: 19
 
-secured: "cB0gFDBUGp00A3RLyECZO+C6IFEo2dO/kfQBikYjlVl95j09YDgkEQwl4KULTGcaVYCvvKDAJq1oOiQCD1jPbdKVyzGM91vhxUX58yCw4vejhdnl4+kQ+2NqCTL5h5i0SRQH1/aQOEStJPBEvsndDjB1P+2Ja/0ez0Pdvp9hNBQN7todBeha5kblADF8AVcKMcHINViohJz2G5X8/29TlNeEecWvISbP6tFlETn2OmHila1vSrHjfXdmoqeoZIjaaLfVotirURHXVwQ5g2/kiWIxvsSo/lUEQUZZ6UVwHD3YxBzALzL6mQJSdBagwEDRlhoCTfEQHaMa35imngQ/alX8YJOgZaBvYUeus/sMGHE=;4q9VVOWk97+xVv9g210q+g=="
+secured: "XaB9+wOi2wrcqU3sW6BZYvnTZcd6ycYqA5CheLwnlLLuozP7MaY0WiTXXQQF95F1Z6poEFgKAXJGXs3ZWFONBC9HLfcl5lCCEtcw8y8ZEe1hcm8yvSppEMUhY9OzRb4yULbct0iHOTx7kGO+ZzXqTBd4QoyqzUVE4ocwAJhPC7USzwmB4bRNolg/2d8Y8UQ/8k0Kveoq8OfY3CauWWntJAYofgbhNXcFVqL3lgTMeIGwwIdv7nt3+dtz5kpiqHvF9YIqdepqagvyQ2ydh9Bt/WUyy0PD7LzmYvzqZ3dc8byaDCiaOhS1/fVYJW/xzLaA7R1Vild5aDfukLo3pQHCPKjaMlH2uyB/ZP116EGXOdaTkHU8BY+bd+NRBP1Dg0iiyCxloPJxgWOB288984EulQDLSXnDOGM5XoJGZ/TM7gIDqJ3c4+ngPJDmcVHZyRzRfQ69p67vTZI0Ew8rMkUGVk3+2OGap+wUVi9CSFVBLXUwg6pCsQFL+JYPyGLDsm9l8XUHb5h7zeu7ahcgprVbAw==;arE4h9u1oPdFly255TAk5A=="
 ---
 
