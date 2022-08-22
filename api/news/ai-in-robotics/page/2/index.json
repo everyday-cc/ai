@@ -525,6 +525,40 @@
       ]
     },
     {
+      "path": "_news/2022-08-08-the-best-robot-vacuums-for-hands-free-hoovering.md",
+      "title": "The best robot vacuums for hands-free hoovering",
+      "excerpt": "Made with carpet in mind, this Xiaomi vacuum can be controlled ... and is easily compatible with Alexa and Google Assistant for voice controlled use. This robot vacuum hoovers and mops floors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.co.uk/entertainment/best-robot-vacuums-hands-free-135000312.html",
+      "originalUrl": "https://www.aol.co.uk/entertainment/best-robot-vacuums-hands-free-135000312.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL.co.uk",
+        "domain": "aol.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-ibm-research-rolls-out-a-comprehensive-ai-and-ml-edge-research-strategy-anchored-by-enterprise-partnerships-and-use-cases.md",
       "title": "IBM Research Rolls Out A Comprehensive AI And ML Edge Research Strategy Anchored By Enterprise Partnerships And Use Cases",
       "excerpt": "Goodson, recently met with Dr. Nick Fuller, Vice President, Distributed Cloud, at IBM Research for a discussion about IBM’s long-range plans and strategy for artificial intelligence and machine learning at the edge.",
@@ -1336,49 +1370,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-insta360-link-review-a-robot-camera-operator-for-live-streamers.md",
-      "title": "Insta360 Link review: A robot camera operator for live streamers",
-      "excerpt": "(Pocket-lint) - Insta360 may have made a name for itself with its impressive 360-degree cameras, but it's certainly not the first name that comes to mind when ... a gesture control, too, which ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pocket-lint.com/gadgets/reviews/162063-insta360-link-review",
-      "originalUrl": "https://www.pocket-lint.com/gadgets/reviews/162063-insta360-link-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pocket-lint.com/r/s/1200x630/assets/images/162063-laptops-review-insta360-link-review-image1-vwtqljvhcw.jpg",
-          "width": 945,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pocket-lint.com/gadgets/reviews/162063-insta360-link-review.amphtml",
-      "cdnAmpWebUrl": "https://www-pocket--lint-com.cdn.ampproject.org/c/s/www.pocket-lint.com/gadgets/reviews/162063-insta360-link-review.amphtml",
-      "publishedDateTime": "2022-08-02T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "pocket-lint.com",
-        "domain": "pocket-lint.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

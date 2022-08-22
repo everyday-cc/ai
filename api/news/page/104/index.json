@@ -2,6 +2,152 @@
   "page": 104,
   "value": [
     {
+      "path": "_news/2022-06-01-us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform.md",
+      "title": "US Senate candidate runs on anti-Tesla “Full Self Driving” platform",
+      "excerpt": "Single-issue candidates for the US Senate aren't the usual fodder for Ars' car coverage, but it seems like an exception might exist for Dan O'Dowd. O'Dowd, an engineer and CEO of a software company, is running for one of California's Senate seats on a platform to ban Tesla's \"Full Self Driving\" feature.",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/cars/2022/05/us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform/",
+      "originalUrl": "https://arstechnica.com/cars/2022/05/us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/unsafe-at-any-speed-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T10:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-how-ai-can-assist-in-coral-reef-restoration.md",
+      "title": "How AI Can Assist In Coral Reef Restoration",
+      "excerpt": "By learning the difference between how healthy and unhealthy reefs sound, this AI algorithm may able to support coral conservation efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/priyashukla/2022/05/31/how-ai-can-assist-in-coral-reef-restoration/",
+      "originalUrl": "https://www.forbes.com/sites/priyashukla/2022/05/31/how-ai-can-assist-in-coral-reef-restoration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 127,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62959c2799ec499d9535a8d4/0x0.jpg?format=jpg&width=1200",
+          "width": 1149,
+          "height": 766,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/priyashukla/2022/05/31/how-ai-can-assist-in-coral-reef-restoration/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/priyashukla/2022/05/31/how-ai-can-assist-in-coral-reef-restoration/amp/",
+      "publishedDateTime": "2022-05-31T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-how-to-leverage-ai-in-influencer-marketing.md",
+      "title": "How to Leverage AI in Influencer Marketing",
+      "excerpt": "Artificial intelligence is a growing tool in any digital marketer's arsenal. Enabling quick analysis of data, machine learning",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/how-to-leverage-ai-in-influencer-marketing",
+      "originalUrl": "https://www.digitaljournal.com/pr/how-to-leverage-ai-in-influencer-marketing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.getnews.info/uploads/34f213753bed451d6f1428fceae18a59.jpg",
+          "width": 480,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-05-31-how-artificial-intelligence-ai-can-help-detect-wildfires.md",
       "title": "How Artificial Intelligence (AI) Can Help Detect Wildfires",
       "excerpt": "For the period 2012-2021, there was an average of 61,289 wildfires annually and an average of 7.4 million acres impacted annually, according to statistics by the Congressional Research Service. In 2021,",
@@ -981,143 +1127,6 @@
         "Facebook AI",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-cutting-edge-gene-therapy-arrive-in-hungary-too-interview-with-the-ceo-of-novartis-hungaria.md",
-      "title": "Cutting-edge gene therapy arrive in Hungary too - Interview with the CEO of Novartis Hungária",
-      "excerpt": "Although gene therapy falls into the category of science fiction for many, gene therapy is already present and can have an extraordinary effect in patient treatment, said Matt Zeller, CEO of Novartis Hungária,",
-      "sourceUrl": null,
-      "webUrl": "https://www.portfolio.hu/en/economy/20220531/cutting-edge-gene-therapy-arrive-in-hungary-too-interview-with-the-ceo-of-novartis-hungaria-547965",
-      "originalUrl": "https://www.portfolio.hu/en/economy/20220531/cutting-edge-gene-therapy-arrive-in-hungary-too-interview-with-the-ceo-of-novartis-hungaria-547965",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.portfolio.hu/articles/images-xl/m/a/t/matt-zeller-novartis-533893.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Portfolio",
-        "domain": "portfolio.hu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-3-business-solutions-where-ai-is-a-good-choice.md",
-      "title": "3 business solutions where AI is a good choice",
-      "excerpt": "Now that AI is cheap and widely available, we often leverage it too often and for the wrong reason. Here's where cloud-based AI provides the most value.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.html",
-      "originalUrl": "https://www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/05/17/10/brain_mind_circuits_connections_artificial_intelligence_by_metamorworks_gettyimages-949321092_1200x800-100767997-large-100928072-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3662071/3-business-solutions-where-ai-is-a-good-choice.amp.html",
-      "publishedDateTime": "2022-05-31T03:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-imagination-launches-open-access-program-providing-scale-ups-with-a-low-cost-path-to-differentiated-silicon.md",
-      "title": "Imagination launches Open Access program, providing scale-ups with a low-cost path to differentiated silicon",
-      "excerpt": "London, England - 31st May 2022 – Imagination Technologies announces its Open Access program, offering access for early-stage companies to select class-leading GPU and AI accelerator IP without any licensing costs. This lowers the barriers of entry to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.design-reuse.com/news/52041/imagination-open-access-program-gpu-ai-accelerator-ip.html",
-      "originalUrl": "https://www.design-reuse.com/news/52041/imagination-open-access-program-gpu-ai-accelerator-ip.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.design-reuse.com/news_img2/homepage52041/img2b.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design-Reuse",
-        "domain": "design-reuse.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://indiaeducationdiary.in/stanford-university-stanford-engineer
 cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/stanford-university-stanford-engineers-present-new-chip-that-ramps-up-ai-computing-efficiency/"
 type: article
 quality: 62
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "New chip ramps up AI computing efficiency"
-    excerpt: "Stanford engineers created a more efficient and flexible AI chip, which could bring the power of AI into tiny edge devices."
-    publishedDateTime: 2022-08-18T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/962314"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/2446fc24-c632-4f41-9db4-e0991ff11cbe/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
   - title: "Neuromorphic Chip Ramps Up AI"
     excerpt: "Stanford engineers created a more efficient AI chip that could bring the power of AI into tiny edge devices. Stanford University engineers have created a chip that does AI processing with in-built memory,"
     publishedDateTime: 2022-08-19T11:35:00Z

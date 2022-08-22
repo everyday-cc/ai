@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/can-ai-serve-as-a-great-equalizer-in-the-
 ampWebUrl: "https://www.zdnet.com/google-amp/article/can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry/"
 type: article
-quality: 87
-heat: 107
+quality: 89
+heat: 110
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/c6577b3060d93d9e16841239a58f5f621ecf0f5c/2021/11/12/807a95d0-c6f4-46b6-a879-5c477d972029/for-sale.jpg?width=1200&fit=bounds&auto=webp"
@@ -63,6 +64,6 @@ related:
         height: 802
         isCached: true
 
-secured: "Q2E0ETm9YWLNVONUpVenV7CexkljQKHLAZ18B/LFTDhoEXra1seL4iLSfiCwWgvpFn1+ub+iXp8exxK3S4f7nQg/4PXykn931M5Zlt98JG0vtGbT6mymPZe26dEl3omc95jnutFMJ1vNTetEX7yreaLiTSbaGW7+mNX3UVZO3d3ocInHpefwomVLS8jsuf8gpWfqv2w+VK7cWfZW0iS49nqALCHkEZCI7QAvV3GE1eOe9EB4WVsaMLAisLZqzb9bg2AcFPjstV/crpA6b+zyB5yqNyYW4ff/tBrnnqyVsmVGTpONVSGp2ZMznovimodNp90aH2DV5oVn+mX0xCsoWhcO3hKJ5ql9cp5nlMY6/DE=;/C9cWKQsW1pxGWuafMnNOg=="
+secured: "Cbl3CIvku8xolmIQMXw8GL9IEIBvR0OM18EZ0/JFPFlyaY/FLrfseK2raZNx0wiW8+tAUpf6ouFX3SYfUsR6wOALAxFS/cvULLm/nAok9Edn2Y+tiMQJt2RRQoDk0xvvB4rO6GCK5N78n6hR4Hdade7Pisq73V8mUuiSuBVV31J1pQQZ7pwHUma4XJ4aVHwVOPoq0Tk7y0Y+4IUnN472Q+xgeANuNuN8bKNqtX41j5ETb6AoKrJ342yqI/s/WuX9vowHG7PZt/m+ZKh0OEH4WLVGnKwFGDOjxf9RIrimpwSFJy26Bm/d2QD3xbUCxSLGgQ50p8w3ufQs89/SnD0xIqjJVr/FJcPilKRQTXcxo4GdpUNEnr9MvWzHeY2fXhkA6n2k5Dq6wdDjf1isG3OSV9iXCUiNetymqw2Kq9YR++1/q4RJOYzQVoJZRqpv3LYKCgxO02xjFYIXS9xr3PN3Jaii3p5Gv+Xg6upH3T5PRxrxolBlLOHVnMrgVVz8e0d4pG46doPPnIyxoeR6lCGjqw==;quRvJqBCEPgrmkvzYmkydA=="
 ---
 

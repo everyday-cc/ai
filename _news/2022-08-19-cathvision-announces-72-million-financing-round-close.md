@@ -20,6 +20,20 @@ topics:
 
 related:
   - title: "SCALE AI announces a major financing round in artificial intelligence: $50 million to support 12 new projects"
+    excerpt: "With an additional 12 projects representing more than $50 million in investments announced today by SCALE AI, artificial intelligence (AI) is continuing on its path of rapid adoption by Canadian industry leaders."
+    publishedDateTime: 2022-08-22T17:24:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/08/22/9660109.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 35
+    images:
+      - url: "https://mma.prnewswire.com/media/1882672/Scale_AI_SCALE_AI_announces_a_major_financing_round_in_artificia.jpg"
+        width: 400
+        height: 400
+        isCached: true
+  - title: "SCALE AI announces a major financing round in artificial intelligence: $50 million to support 12 new projects"
     excerpt: "Hélène Desmarais, Co-Chair of the Board of Directors, SCALE AI, adds: \"SCALE AI is pleased to support the development of artificial intelligence by and for Canadian companies, for the benefit of Canadian society. The collaboration between players in this ..."
     publishedDateTime: 2022-08-22T15:30:00Z
     webUrl: "https://www.newswire.ca/news-releases/scale-ai-announces-a-major-financing-round-in-artificial-intelligence-50-million-to-support-12-new-projects-818168758.html"

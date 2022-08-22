@@ -27,6 +27,15 @@ related:
       name: SC Magazine
       domain: scmagazine.com
     quality: 17
+  - title: "Vectra AI Named Winner of Two SC Awards for Excellence in Threat Detection and Response"
+    excerpt: "SAN JOSE, Calif., Aug. 22, 2022 /PRNewswire/ -- Vectra AI, the leader in AI-driven cyber threat detection and response for hybrid and multi-cloud environments, today announced that the company has been named a winner in two categories of the prestigious ..."
+    publishedDateTime: 2022-08-22T17:45:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-vectra-ai-named-winner-two-sc-awards-excellence-/2022/08/22/9660144.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "2o6726g5uK2vJTR3AmMAWehttKffyMJjMrmEgscMSJXlzVaTLZl84KkY18BsdamHfVggstH1ZtZVbLAvQaxPgsJ2bVCksuYYLHCGhPYZDZJ91JqtDxVdj1CcazpGTNCd2pvkovaeWo3rhzNtrtAxdNUymMD2u3WfaSP+buC9CSfnthRPCsCHkTjkmuKp9Lw9LmXbmWYCqVRfD9jRtApjMLqCpNvCsZZMkhm+5dwIPS3fhjCQIbr80v9s75rLC7mBTl2Y7URcNBcbvRHuFe6aIutH9D7SRlK4xpSDhKzHy6KLun8KWh1xEZfhDpzU0rk7hJb4vwuY7SEbVp2TJsbhFP1YZ+sSPdO4C5SLZ8KqnhE=;1flQUBMLfNeRyGKYPwqSjA=="
 ---

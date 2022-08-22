@@ -30,42 +30,42 @@ images:
     isCached: true
 
 related:
-  - title: "Deep Learning Chip Market Size 2022-2028, Organization Growth, Industry Share, Upcoming Trends, Key Dynamics, Opportunities, Top Manufacturers"
-    excerpt: "The global “Deep Learning Chip Market” report includes upcoming growth trends, restraints, drivers, key dynamics size"
-    publishedDateTime: 2022-08-22T12:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-2022-2028-organization-growth-industry-share-upcoming-trends-key-dynamics-opportunities-top-manufacturers-2022-08-22"
+  - title: "Natural Language Processing Market (NLP) Demands, Key Players, Size, Growth, Trends, Technology and Forecasts to 2027 - ReportsnReports"
+    excerpt: "ReportsnReports added Global Natural Language Processing (NLP) Market Report to its research database with its 336 no. of research pages report. The Natural Language Processing (NLP) Market size to grow from USD 15."
+    publishedDateTime: 2022-08-19T08:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-nlp-demands-key-players-size-growth-trends-technology-and-forecasts-to-2027---reportsnreports-2022-08-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Supply Chain Market 2022 Key Dynamics, Regional Insights, Growth Statistics and Business Strategies by 2028"
-    excerpt: "The Global Artificial Intelligence Supply Chain Market 2022 by Company, Regions, Type and Application, Forecast"
-    publishedDateTime: 2022-08-21T19:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-supply-chain-market-2022-key-dynamics-regional-insights-growth-statistics-and-business-strategies-by-2028-2022-08-21"
+  - title: "Artificial Intelligence In Healthcare Sector Market Size, Share, Growth Opportunity, Rising Demand and Trends Analysis Forecasts till 2027"
+    excerpt: "The “Artificial Intelligence In Healthcare Sector Market” 2022 Research report will make detailed analysis mainly"
+    publishedDateTime: 2022-08-19T10:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-size-share-growth-opportunity-rising-demand-and-trends-analysis-forecasts-till-2027-2022-08-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 32
-  - title: "Voice Recognition Software Market Share 2022 Global Trend, Segmentation, Business Growth, Opportunities and Forecast to 2029"
-    excerpt: "Get a Sample PDF of Report -  The Global Voice Recognition Software Market Report 2022 covers 118 pages and provides details on vital statistics, data, information, trends and competitive landscapes in this niche sector."
-    publishedDateTime: 2022-08-19T06:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-share-2022-global-trend-segmentation-business-growth-opportunities-and-forecast-to-2029-2022-08-19"
+    quality: 30
+  - title: "Global Natural Language Processing Market Latest Trends, Size, Key Players, Revenue And Forecast 2022-2031"
+    excerpt: "Kenneth Research released a report on  Global Natural Language Processing Market  consisting of detailed analysis of the market"
+    publishedDateTime: 2022-08-18T06:04:00Z
+    webUrl: "https://menafn.com/1104716154/Global-Natural-Language-Processing-Market-Latest-Trends-Size-Key-Players-Revenue-And-Forecast-2022-2031"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?208465"
+        width: 444
+        height: 250
         isCached: true
 
 secured: "y/x+5ozJ2sqcXSyJJKD1nYlaCljxPQmLQxPFcxIYLuwgSAdGouDrbyEspjfxsM3TX3lnXtj+w3yW5g0i+Vjj2p37AcKnsRO2JrIZt3CEWMO5Zm8wt0fTIMeyKm92fpYtGclf93MoRRUXjtfpru5Jf5L59GUHXBnQKxlsiaLI18rcBDGYM0DlV8UCas2R//JXvY54sR92fFIHtnh3GQIUt9ACNoZQng70BASSxD1w7rvVQ6uC3wy8OhItHcRKVa4mWXDy7bdfrQ59CdNLTScnM5myLE5+4r9Ih4txrx15O4OJmMYx4OkpYVNgLod3/6mcJKf/IRM0im75TKfHWk1UrRSsrr5eNnNzCH62l1OMCtw=;2bkWJX9CJBsWja8a+m49Ag=="

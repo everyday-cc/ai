@@ -23,43 +23,29 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Drug Discovery Market Share, Size, Analysis, Prominent Players and Forecast 2028"
-    excerpt: "The Global Artificial Intelligence in Drug Discovery Market is poised to value USD 5740 million by 2028 end at a CAGR"
-    publishedDateTime: 2022-08-18T12:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-share-size-analysis-prominent-players-and-forecast-2028-2022-08-18"
+  - title: "Natural Language Processing Market (NLP) Demands, Key Players, Size, Growth, Trends, Technology and Forecasts to 2027 - ReportsnReports"
+    excerpt: "ReportsnReports added Global Natural Language Processing (NLP) Market Report to its research database with its 336 no. of research pages report. The Natural Language Processing (NLP) Market size to grow from USD 15."
+    publishedDateTime: 2022-08-19T08:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-nlp-demands-key-players-size-growth-trends-technology-and-forecasts-to-2027---reportsnreports-2022-08-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 52
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Law Market 2022 Key Regions, Comprehensive Analysis, Growth Drivers and Forecast to 2028 |AIBrain, Amazon, Anki"
-    excerpt: "Global Artificial Intelligence in Law Market report has recently added by Infinity Business Insights which helps"
-    publishedDateTime: 2022-08-19T15:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-2022-key-regions-comprehensive-analysis-growth-drivers-and-forecast-to-2028-aibrain-amazon-anki-2022-08-19"
+  - title: "Machine Learning Market generalship by Technology, Solutions, Application, Price, Demand Analysis and Growth Opportunities to 2025"
+    excerpt: "Global Machine Learning Market Report focuses on the major drivers and restraints for the key players. These Research Report also provides granular analysis of the market share, segmentation, revenue forecasts and geographic regions of the market."
+    publishedDateTime: 2022-08-19T12:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-generalship-by-technology-solutions-application-price-demand-analysis-and-growth-opportunities-to-2025-2022-08-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Consulting Market Size, Share, Trends, Future Opportunities with COVID-19 Impact Analysis and Forecast to 2028"
-    excerpt: "The production, revenue, price, market share, and growth rate of each type are displayed in the Artificial Intelligence (AI) Consulting Market study. This research focuses on the"
-    publishedDateTime: 2022-08-22T11:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-size-share-trends-future-opportunities-with-covid-19-impact-analysis-and-forecast-to-2028-2022-08-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

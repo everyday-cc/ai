@@ -57,29 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Sector Market Size, Share, Growth Opportunity, Rising Demand and Trends Analysis Forecasts till 2027"
-    excerpt: "The “Artificial Intelligence In Healthcare Sector Market” 2022 Research report will make detailed analysis mainly"
-    publishedDateTime: 2022-08-19T10:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-size-share-growth-opportunity-rising-demand-and-trends-analysis-forecasts-till-2027-2022-08-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
-  - title: "Global Natural Language Processing Market Latest Trends, Size, Key Players, Revenue And Forecast 2022-2031"
-    excerpt: "Kenneth Research released a report on  Global Natural Language Processing Market  consisting of detailed analysis of the market"
-    publishedDateTime: 2022-08-18T06:04:00Z
-    webUrl: "https://menafn.com/1104716154/Global-Natural-Language-Processing-Market-Latest-Trends-Size-Key-Players-Revenue-And-Forecast-2022-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?208465"
-        width: 444
-        height: 250
-        isCached: true
 
 secured: "B6CBiKK4BMVqIMN2ZLjyQXpSfpd7+6NaevMVp4Yv/xCdxuRGCwPmNbdQN/RxgpPJSq8qrIo2b3OKQjrGnGdVANOFDNBs+X9kXQ9wCPk2OHz4WhvN1WKjGFcbdOBwl20AoGmzAB04gjPrgVju0mqkHZW0/KGNiFcxLOJwpDdozbwpbeVXhcPqI1Z4rQ0J4xhbIqaf1NKeLU/7P2wsdG0yWIkgKeI1V8cC6BRDY5Dg80Mo3Mjob/eyPku+6OjqftTI05ES1e/rBFfIG7/S+0SSIx/zJeLHA0d++PHK+JCOjiyw5uNyT4P7575dCoGhi5ROwxmk8tYlCwhWHaqLCmjgGp85tOn0qOd83dgaoceta3w=;IGZLt3dbVuSPs5e5Rp46Og=="
 ---

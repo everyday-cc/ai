@@ -35,20 +35,6 @@ related:
         width: 1023
         height: 341
         isCached: true
-  - title: "New chip ramps up AI computing efficiency"
-    excerpt: "Stanford engineers created a more efficient and flexible AI chip, which could bring the power of AI into tiny edge devices."
-    publishedDateTime: 2022-08-18T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/962314"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 54
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/2446fc24-c632-4f41-9db4-e0991ff11cbe/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
 
 secured: "tih4WyI/sYfiOUFpxQOgYFezkbi40QVSmU2m4Sl+74rTCLeI7CQr7Bh9M9F6dT6p+kc6KCmBdJA/w9T3WU8MVPyDa7Jb5A97+caVqPABnSoGqEljslYix0sbjALRVZlNcmbtNl5sU6zhd9U5LFM4MoqLU/K60cDKTGl0VlZd37k/kHQCDn6UBrTEKYnS+pvPQuWyzQdzjPttNpn8NtJV7P9CkxLheJUxdJJTSE1u9jm7H6QsNVVRtlXvMNnehTQT00fqkTqUNuR+8LeHQO0dS9ltjmExMn2eVUXs2NSp2C+3bN6q6Vsj738NsjVdyR5H9y5EYPv5euuCJN69euG4VCZR5a+BnqovysaOo3pg3q1/SmTUOhAsmRaLhNVkDlt6gqSN7tMGKRNYqvzozU5eBMcljNYxcjfIM+o23aFwUqk6pB9kHjNdwxwRbCCFBsThDWey2WLtOVvEpy3b7jXWane4CHTT7OIXXyphnXZJlGKvOOWUa3fp565EdZUl0bAJyVGcsXi17NVvRpX7fvpoIw==;C12HhtqmNgewWhJYG8A0Jg=="
 ---

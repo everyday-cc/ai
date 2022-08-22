@@ -147,6 +147,20 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Elon Musk Announced Tesla's 'Full Self-Driving' Technology Will Cost $3,000 More"
+    excerpt: "The price of Tesla's \"full self-driving\" beta mode technology is increasing after September 5, Tesla CEO Elon Musk announced in a Tweet."
+    publishedDateTime: 2022-08-22T16:33:00Z
+    webUrl: "https://www.entrepreneur.com/article/433877"
+    type: article
+    provider:
+      name: Entrepreneur
+      domain: entrepreneur.com
+    quality: 64
+    images:
+      - url: "https://assets.entrepreneur.com/content/3x2/2000/1661183177-GettyImages-493893226.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
   - title: "YouTube removes video of Tesla fans using kids to test whether the carmaker's Full Self-Driving software stops for children"
     excerpt: "An curved arrow pointing right. YouTube removed a video that showed Tesla fans testing out with real children whether the carmaker's Full Self-Driving (FSD) software would stop for kids. The video was posted by Whole Mars Blog's on YouTube last week after ..."
     publishedDateTime: 2022-08-22T15:40:00Z
@@ -162,6 +176,22 @@ related:
       - url: "https://i.insider.com/630383dcc9a2da001809031b?width=1200&format=jpeg"
         width: 1200
         height: 600
+        isCached: true
+  - title: "Elon Musk’s Tesla hiking price of Full Self-Driving system to $15,000"
+    excerpt: "Tesla CEO Elon Musk announced on Twitter that the price of its Full Self-Driving system, known as FSD, will increase to $15,000 on Sept. 5. Musk made the announcement in a tweet on Saturday, stating that the price change will happen after the wide release of FSD Beta 10."
+    publishedDateTime: 2022-08-22T16:12:00Z
+    webUrl: "https://nypost.com/2022/08/22/elon-musks-tesla-hiking-price-of-full-self-driving-system-to-15000/"
+    ampWebUrl: "https://nypost.com/2022/08/22/elon-musks-tesla-hiking-price-of-full-self-driving-system-to-15000/amp/"
+    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/08/22/elon-musks-tesla-hiking-price-of-full-self-driving-system-to-15000/amp/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 59
+    images:
+      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/08/elon-musk-tesla.jpg?quality=75&strip=all&w=1024"
+        width: 1024
+        height: 682
         isCached: true
   - title: "Elon Musk announces a price hike for Tesla's self-driving system. Check here"
     excerpt: "Tesla Chief Elon Musk took to Twitter to announce that the price of Tesla's Full Self-Driving System (FSD) will increase to $15,000 in North America. Musk informed that the price increase would be in effect from September 5."
@@ -314,6 +344,43 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Tesla introduces a price increase for its Full Self-Driving software"
+    excerpt: "Tesla Inc. Chief Executive Elon Musk said on Sunday that the cost of his company’s Full Self-Driving software, FSD, will go up from $12,000 to $15,000. Musk said the increase will be for cars bought after Sept."
+    publishedDateTime: 2022-08-22T16:21:00Z
+    webUrl: "https://siliconangle.com/2022/08/22/tesla-introduces-price-increase-full-self-driving-software/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 39
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/david-von-diemar-ZBWn5DvO0hg-unsplash.jpg"
+        width: 640
+        height: 385
+        isCached: true
+  - title: "Tesla raises price of 'Full Self-Driving' to $15,000"
+    excerpt: "Tesla Inc. will start charging $15,000 for the driver-assistance system it calls Full Self-Driving, raising the price of the controversial product for the second time this year. The hike for customers in North America will take effect Sept. 5, Chief ..."
+    publishedDateTime: 2022-08-22T17:22:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2022/08/22/tesla-raises-price-full-self-driving-15000/7866555001/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 34
+  - title: "Tesla hikes price of Full Self-Driving to $15,000 on September 5, expands beta test"
+    excerpt: "The price has been $12,000 since October 2020, and this latest price hike corresponds with a broader rollout of beta testing."
+    publishedDateTime: 2022-08-22T15:45:00Z
+    webUrl: "https://www.greencarreports.com/news/1136902_tesla-hikes-price-of-full-self-driving-to-15-000-on-september-5-expands-beta-test"
+    type: article
+    provider:
+      name: Green Car Reports
+      domain: greencarreports.com
+    quality: 33
+    images:
+      - url: "https://images.hgmsites.net/lrg/tesla-model-s-dashboard-in-autopilot-testing-with-iihs-credit-iihs_100665437_l.jpg"
+        width: 1000
+        height: 563
+        isCached: true
   - title: "Elon Musk announces price hike for Tesla's Full Self-Driving feature"
     excerpt: "SpaceX CEO Elon Musk has announced a price hike for Tesla's Full Self-Driving feature that will be implemented into its pricing next month."
     publishedDateTime: 2022-08-22T10:50:00Z
@@ -342,6 +409,6 @@ related:
       domain: barrons.com
     quality: 16
 
-secured: "gNFh/UoTtb+CL4cA1SDkPKtUIyuGdDGLQx8hVi0B1KhfW34C8V+bqjAD4B06c0wH3cxvyVvAJuvXdCIifttm3HuxQ7goDlMb1DutlLpqT9fSs659CSptBlOway1MDrOO0CJAiYn0VfDfRYqFV/7+mnSbxpSWCo1Tu/3Doebe4v+GoLla8j3AbPyqb9BonB1r36uYaSKitDPASuKSQBnUPHcZcf7Y004GBPpnoqtaj1Oy6xIxS/PcZm6GeDqaJZO0F9FPpjGezx/i70wSasz4AWKH8M+OZDSXowjQs864imFAswbU26D0R9JOwxDXVZf4oRwA4LZH6syhiK2a41bSH+Lf/jUYW6CnVbukaAzhZjw=;PzjEw25SFLanAjPLzavpkw=="
+secured: "sJt2mtNo+YSh3eH3DKHeY94Wri4ExePHP4msS6RyiRIrWmwKyQdLzf1knljH7KdVKjJWYwtsj+lXouDYAqN7wFd9pWfE1SwN7llWfR++sKt3sNEXT1mtRr4irXnrq8d5kOqAm4xp0F9erEvEEsLfDKb7toW4ZCdBABQoLA7Anc01KgQDDK2Zg5j22XgO7pKKzkQ0kifvOxJYRJdpv2W49KkDaLzGx2EeCfD2APHYXAPh2Uac56OgIqfz+k/WwCs6+wMhRO7GKWN6BB7hiMMvfjAL+ukLrobGLEsfplzAqRXGxJfGuKryEt+ctQriVUVlAlf9uhr1J0sXuWSxthJSMn69LcDblpxcpuIVzH7x2q2demnGc9VeCVl+gtO3QWNg7R6l4Btut046yZxpyoprhloqPI0x+/jP9KKgQiAvfaY5RKM9+FPHDYczb7uLF0qzz2czEarxefjXz+iote0x1oJrgvQGAhsthmIZlKI0Vqi3hC0rMLmPHicsoLSTWkq40UnrpZdrJKGgBvFOIrkbrQ==;H5il2NfCTGJ/Tsro9lXf9A=="
 ---
 

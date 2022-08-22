@@ -9,7 +9,7 @@ ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/amazon-tests-ne
 cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
 type: article
 quality: 59
-heat: 109
+heat: 99
 published: true
 
 provider:
@@ -42,22 +42,6 @@ related:
       - url: "https://whdh.com/wp-content/uploads/sites/3/2022/04/pexels-photo-3766218.jpeg?quality=60&strip=color&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "Amazon testing TikTok-style feed on its app, AI firm says"
-    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform"
-    publishedDateTime: 2022-08-17T23:16:00Z
-    webUrl: "https://abcnews.go.com/Technology/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88514952"
-    ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88514952"
-    cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88514952"
-    type: article
-    provider:
-      name: ABC
-      domain: abcnews.go.com
-    quality: 57
-    images:
-      - url: "https://s.abcnews.com/images/Technology/WireAP_d6c87ec91bcb4a3db6d7f763abbf3eca_16x9_992.jpg"
-        width: 992
-        height: 558
         isCached: true
   - title: "Amazon testing TikTok-style feed on its app, AI firm says"
     excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."

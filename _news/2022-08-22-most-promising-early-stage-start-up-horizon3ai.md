@@ -27,6 +27,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 17
+  - title: "Vectra AI Named Winner of Two SC Awards for Excellence in Threat Detection and Response"
+    excerpt: "SAN JOSE, Calif., Aug. 22, 2022 /PRNewswire/ -- Vectra AI, the leader in AI-driven cyber threat detection and response for hybrid and multi-cloud environments, today announced that the company has been named a winner in two categories of the prestigious ..."
+    publishedDateTime: 2022-08-22T17:45:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-vectra-ai-named-winner-two-sc-awards-excellence-/2022/08/22/9660144.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 9
 
 secured: "1L9ZOpxfjEN6Lmkz+hhjAi/zB239cTbE9M37SMtAd0TPmXWmK/x40odD/74zbY3pSZ0w5m0qbqwnGagwbcu7wie0JovgHACcl0fkv8t3QganCJrVSaJPN92MzeLq1hYmFhAKd7bOMSmhNVtN/06WgJdCxcprw77MbqEIfhW0+c03sbSZoINtEsNlVShbA0sHrJ7KcfGkV0jIj4B5V0QRW29M22tNYsWDPmrwEJ65QpcpZdcqlb5foeWbheASO6+qzpwEr/P0XpNgEGAzJp445k7oFMHrDDDsIfDgoYhpZpXwHNDd8oXQH1RRGDPkTEof9ZenYz75xEaJ8YGP5ORk7t9MSFaSXKqfML4dpKkw2hVH2mq8XC0sJ0mczrUh+pMSD3L5020mNv1a6RVtTvmN18UEBXtvNopz9kfDplGYSougJN1/LeSn9oqtqtg8FVpHDfEvhDatroOnGtOY9QJj1d78nyf9eED11w+PX4Ss+1/jGTygsoks+57zoEEaaly1GxAnrugu9XI+3t3vLSIjTA==;G2E7+GGcKnig1UJ8KyD3tg=="
 ---

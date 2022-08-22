@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-marke
 webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-2022-2028-organization-growth-industry-share-upcoming-trends-key-dynamics-opportunities-top-manufacturers-2022-08-22"
 type: article
 quality: 50
-heat: 80
+heat: 70
 published: true
 
 provider:
@@ -30,20 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Machine Learning Market generalship by Technology, Solutions, Application, Price, Demand Analysis and Growth Opportunities to 2025"
-    excerpt: "Global Machine Learning Market Report focuses on the major drivers and restraints for the key players. These Research Report also provides granular analysis of the market share, segmentation, revenue forecasts and geographic regions of the market."
-    publishedDateTime: 2022-08-19T12:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-generalship-by-technology-solutions-application-price-demand-analysis-and-growth-opportunities-to-2025-2022-08-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Supply Chain Market 2022 Key Dynamics, Regional Insights, Growth Statistics and Business Strategies by 2028"
     excerpt: "The Global Artificial Intelligence Supply Chain Market 2022 by Company, Regions, Type and Application, Forecast"
     publishedDateTime: 2022-08-21T19:45:00Z

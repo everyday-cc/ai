@@ -3,8 +3,8 @@ category: news
 title: "AI-generated art illustrates another problem with technology"
 excerpt: "Artificial intelligence is being used to design magazine covers and provide pictures for internet newsletters. What could possibly go wrong?"
 publishedDateTime: 2022-08-20T14:00:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
-webUrl: "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
+originalUrl: "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists?ref=biztoc.com&curator=biztoc.com"
+webUrl: "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists?ref=biztoc.com&curator=biztoc.com"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "f4z+nRmMaUshPzVXt5r8h+YDqZJSxMGjnGByuS7yAL8MfLc2W945HjrnuR+CZa4xrxLBaOP1U4CvBSC0GwTihSvoubyr4v0bcr2OF/n6anxrwRuzOimTNUFLr5CnZ37WC0yWVLzdymO5WM5QvR8PCs0FXnnxVcu4fhdBSlx7wCjB9tuMHzvL6vmsUNmymwj0z11mxG+8oybPG9fvcEPafPMW7jkeUn/pj75WQnlWejfNkZH4eJXqfEzbQfhQCEFq0zyuorcLoD7wjj/ZAR2e+bcDTrgqQxPRh9c/N+2dev6S7uZD0bu7jKlM1VL9qg8SNQvG6k9KEDLYbmmEoVf82wtGzvS7wmHEoy46CatNTkAz5W7Pd4gmfCmD/+eMGg1Xzi+SEm3DxYSez8OLWywL0Hd4ijbbpA4nP8pvm/ZgUZPWeYSkFVE8AVvr3D7yO3jA4ppYeTDfhjsmrU8C5WwYfYtdVf7oIuvcV5LMZ8M1oLOoIMfj/OhsID5Hwn1pQTaj43+8T5xQ2uJnLdW3jMN4VQ==;tYJwz4Vaps+Hl/dJ7WDeBQ=="
+secured: "p84ANwDvse2TqDuDEcjSgCOHbhI7baRnWF3t/++SzusIW3dmXurseA0PbpTAS11j/vpulKenxygytL8eGx3r4xSQR6220jWuFcwzC4bY8lvAvtSzMJVVt3Av7wlWkCEq73fZwLCB6/KR1aTiBkkEDzeongXdm5jSszVIPe7Oh2rguWepHcWhCY3FPUuBPuj7RvbAVxRt2TyZcfROHN0BS2XN8+rdpdZwbu74W7p54pgiuwCkL7QdPOz6fb40HKUhao1DlVbRyuxC5YxY/45NKDyWxrgqzyFujMcbrck8jSByv5Yn9lQPZhbIbCm97Kpy1iB965SVn3sFZDzQvaPsMsCsqbspZcYJ4XabAms0SII=;N4b8KEttWekg2HpDuxXHKQ=="
 ---
 
