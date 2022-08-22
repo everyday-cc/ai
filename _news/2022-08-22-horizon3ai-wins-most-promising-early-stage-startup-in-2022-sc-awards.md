@@ -2,18 +2,32 @@
 category: news
 title: "Horizon3.ai Wins Most Promising Early-Stage Startup in 2022 SC Awards"
 excerpt: "Horizon3.ai, a cybersecurity firm focused on autonomous penetration testing, today announced that it has been recognized as an Excellence Award winner in the Most Promising Early-Stage Startup category for the 2022 SC Awards."
-publishedDateTime: 2022-08-22T13:01:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-22-horizon3ai-wins-most-promising-early-stage-startup-in-2022-sc-awards"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-22-horizon3ai-wins-most-promising-early-stage-startup-in-2022-sc-awards"
+publishedDateTime: 2022-08-22T14:36:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-horizon3ai-wins-most-promising-early-stage-startup-2022-/2022/08/22/9659988.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-horizon3ai-wins-most-promising-early-stage-startup-2022-/2022/08/22/9659988.htm"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
 
-secured: "/1NvsSlozZ3lBbbaspXWPTZ5V52iFr/8yC5UEexfj+oFfVZ/V+UWS/3dX7dsj7lkeKDjetrtZrFXB/wxguE5fbaUnlg3YxYZrlvGe1HMHfab85u6ewIO9TrET4thyJXkR+4ZrQ/OgKIEkv0cDF2559S6vkFP9NbT4kXa1khd8m8Dk1wWQsDofKYkNHskMkVrSD6rp0955VSMvmrElqIJnsdydzJmP5dbyzmD+18JUP7tkWTHb/Fg190Xm+43JP2p+OmhlMr4ogYKxY0b9n6uxIeg+mqJgdPkzHPrTbAs6kmRjt2QueILTOfs0O1gkmijaWGsuErRRWjScF2Zp5++jveOteazoGTWqWGRpbhJTgA=;nDsO8XLcXqsctJPBNm4YSw=="
+related:
+  - title: "Most Promising Early-Stage Start Up | Horizon3.ai"
+    excerpt: "Horizon3.ai has developed, NodeZero, an autonomous penetration testing platform that continuously assesses an enterprise's attack surface, identifying ways an attacker could chain together harvested credentials, misconfigurations, dangerous product ..."
+    publishedDateTime: 2022-08-22T11:53:00Z
+    webUrl: "https://www.scmagazine.com/news/emerging-technology/most-promising-early-stage-start-up-horizon3-ai"
+    type: article
+    provider:
+      name: SC Magazine
+      domain: scmagazine.com
+    quality: 17
+
+secured: "2o6726g5uK2vJTR3AmMAWehttKffyMJjMrmEgscMSJXlzVaTLZl84KkY18BsdamHfVggstH1ZtZVbLAvQaxPgsJ2bVCksuYYLHCGhPYZDZJ91JqtDxVdj1CcazpGTNCd2pvkovaeWo3rhzNtrtAxdNUymMD2u3WfaSP+buC9CSfnthRPCsCHkTjkmuKp9Lw9LmXbmWYCqVRfD9jRtApjMLqCpNvCsZZMkhm+5dwIPS3fhjCQIbr80v9s75rLC7mBTl2Y7URcNBcbvRHuFe6aIutH9D7SRlK4xpSDhKzHy6KLun8KWh1xEZfhDpzU0rk7hJb4vwuY7SEbVp2TJsbhFP1YZ+sSPdO4C5SLZ8KqnhE=;1flQUBMLfNeRyGKYPwqSjA=="
 ---
 

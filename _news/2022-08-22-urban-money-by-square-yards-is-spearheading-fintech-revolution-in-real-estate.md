@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-22T13:24:00Z
 originalUrl: "https://www.livemint.com/brand-stories/urban-money-by-square-yards-is-spearheading-fintech-revolution-in-real-estate-11661174451540.html"
 webUrl: "https://www.livemint.com/brand-stories/urban-money-by-square-yards-is-spearheading-fintech-revolution-in-real-estate-11661174451540.html"
 type: article
+quality: 1
+heat: 1
+published: false
 
 provider:
   name: Mint

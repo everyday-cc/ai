@@ -7,7 +7,7 @@ originalUrl: "https://www.livemint.com/mint-top-newsletter/techtalk19082022.html
 webUrl: "https://www.livemint.com/mint-top-newsletter/techtalk19082022.html"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "What Do Teachers Think About an AI Model That Writes Essays? We Had Them Test It"
-    excerpt: "Three teachers tested out a new technology that generates essays, poems, sales pitches, and other writings on command."
-    publishedDateTime: 2022-08-19T18:54:00Z
-    webUrl: "https://www.edweek.org/technology/what-do-teachers-think-about-an-ai-model-that-writes-essays-we-had-them-test-it/2022/08"
+  - title: "Artificial intelligence - What's the hype about?"
+    excerpt: "Artificial intelligences are becoming more and more common these days. In our FAQ, we clarify the most important questions about AIs."
+    publishedDateTime: 2022-08-22T13:33:00Z
+    webUrl: "https://www.heise.de/ratgeber/Artificial-intelligence-What-s-the-hype-about-7239321.html"
     type: article
     provider:
-      name: Education Week
-      domain: edweek.org
-    quality: 32
+      name: heise online
+      domain: heise.de
+    quality: 41
     images:
-      - url: "https://epe.brightspotcdn.com/dims4/default/4d87a5c/2147483647/strip/true/crop/7168x4793+0+0/resize/942x630!/quality/90/?url=https%3A%2F%2Fepe-brightspot.s3.amazonaws.com%2Fcb%2Fcd%2Ff8213ccb4203abdae3aad13a1eef%2Fai-gpt-teacher-08162022-966654886-949652688.jpg"
-        width: 942
-        height: 630
+      - url: "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/3/5/9/6/0/4/6/shutterstock_1514696930-cc29387cc5dd2e37.jpg"
+        width: 1200
+        height: 676
         isCached: true
 
 secured: "07NzN+U5gTqihfyYLRRuzwgNjPKEawCoV5hkQXOdYemGT5mQ7/aEQ7O3HiaDFcuMTmPjoubJ0yRpJMwHgYxm4DOD/ckQgZIvty7+KJeEfBZ+9eEiqeX5zV4jk2yE6UH8mFHX7mVH9r8R/89Bb698JOmHOYOW5bHhteis/IyAxJLp3XrcXKe0WUnZkr4Yvcj1I68EmwpjNxasOoCxUZeLLxqLx+2OU6T/8iXEjtYYirgz7ZsOndmnfq8k3/XlC1xG3YbUanrIT+/dslTVn9Y7Ut65l2EHeN7BEu6feKFhkWlb3gn12Tdd+vQhqqTBGU1Qq36rEOTGNOPK94WqhJo4EsWiJoeQdsX9QbF3a2M+/YFSdvZmpA5R7TqKlBlPBxFj5qQeQU8uJgkSfVuNlJ9A0/p/4fwD+v8UQytgcVFoa5zRa5vp0D0iSE1sg+09RfFwO2REoeX/P50T+iw97yfFhRSffbJItl6qnX22xNGFyy9KmlT3wXH66j315A4zY1vDznyheB4ws3bjarSQrPe+jA==;TZlnXCM0jvORRrVMYXGqIA=="

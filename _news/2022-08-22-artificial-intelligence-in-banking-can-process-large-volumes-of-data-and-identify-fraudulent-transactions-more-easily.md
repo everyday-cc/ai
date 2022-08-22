@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-22T11:00:00Z
 originalUrl: "https://www.lemonde.fr/en/opinion/article/2022/08/22/artificial-intelligence-in-banking-can-process-large-volumes-of-data-and-identify-fraudulent-transactions-more-easily_5994404_23.html"
 webUrl: "https://www.lemonde.fr/en/opinion/article/2022/08/22/artificial-intelligence-in-banking-can-process-large-volumes-of-data-and-identify-fraudulent-transactions-more-easily_5994404_23.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Le Monde.fr

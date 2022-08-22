@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-worth-494-billion-by-2027---exclusive-report-by-marketsandmarketstm-2022-08-18"
 type: article
 quality: 63
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 4
+  - title: "The Worldwide Computer Vision in Manufacturing Industry is Expected to Reach $4.7 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Computer Vision in Manufacturing Market Research Report by Product (PC-Based Vision and Smart Cameras-Based Vision), Component, Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-08-22T14:46:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-22-the-worldwide-computer-vision-in-manufacturing-industry-is-expected-to-reach-47-billion-by-2027-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "lHLvL5yZx+eTkLNwP1d+G1Mask+h+PSKLBk1ySW4uOp7qb1h8BMlUcykdxnoT/pZUCa9WZMZqL4PDMj3DaZ+gImvn/tySIr1jg5VVXGaDdwsjVHxmLDQzLtQb4mjRDp0zSXiLng8qPrV2LEOXrBSNiCg+uFFSw5de5Q8cH8lo3iIt/luKabVH1Nrv9RnesoWdXYAlteid1nb1NRqpBwQY3S4/hZnCT9Z6/NukgHsLKjlkN2Ro1BCHnSL5Z1H4JvtZgY7le+0E+I7p5pOsEuSTGAjNVyTMlhIAw+2ktxP8OyT9Xlf6gc6oWywasuCYxHKzRew18L6RU+dUAUGTWfN8RUx1T3lhhGK0p9r8u2aRiI=;pmezXyU6Bo+i6MjGD9zQ6w=="
 ---

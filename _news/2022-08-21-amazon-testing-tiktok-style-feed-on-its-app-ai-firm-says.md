@@ -68,22 +68,6 @@ related:
         width: 992
         height: 558
         isCached: true
-  - title: "TikTok’s new AI art filter riffs on your text"
-    excerpt: "AI text-to-image models like OpenAI’s DALL-E 2, Google’s Imagen, and Midjourney are having a bit of a moment. It’s hard to avoid their output on social media (especially Twitter), where people share the weirdest and wildest things they are able to get the AI models to create."
-    publishedDateTime: 2022-08-17T23:00:00Z
-    webUrl: "https://www.popsci.com/technology/tiktoks-ai-filter-text-to-image-generator/"
-    ampWebUrl: "https://www.popsci.com/technology/tiktoks-ai-filter-text-to-image-generator/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/tiktoks-ai-filter-text-to-image-generator/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2022/08/17/Depositphotos_378309282_L.jpg?auto=webp"
-        width: 1999
-        height: 1333
-        isCached: true
   - title: "Amazon testing TikTok-style feed on its app, AI firm says"
     excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."
     publishedDateTime: 2022-08-19T23:05:00Z

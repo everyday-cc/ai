@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-22T13:26:00Z
 originalUrl: "https://www.entornointeligente.com/can-an-ai-led-danish-party-usher-in-an-age-of-algorithmic-politics/"
 webUrl: "https://www.entornointeligente.com/can-an-ai-led-danish-party-usher-in-an-age-of-algorithmic-politics/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Entorno Inteligente

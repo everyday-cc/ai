@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-22T12:52:00Z
 originalUrl: "https://www.bignewsnetwork.com/news/272660712/artificial-intelligence-ai-assisted-robots-market-is-estimated-to-grow-usd--1636-billion-with-healthy-cagr-of-2898--by-2028"
 webUrl: "https://www.bignewsnetwork.com/news/272660712/artificial-intelligence-ai-assisted-robots-market-is-estimated-to-grow-usd--1636-billion-with-healthy-cagr-of-2898--by-2028"
 type: article
+quality: 20
+heat: 20
+published: false
 
 provider:
   name: Big News Network.com

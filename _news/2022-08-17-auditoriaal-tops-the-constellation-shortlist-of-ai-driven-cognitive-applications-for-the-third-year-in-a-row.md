@@ -15,6 +15,12 @@ topics:
   - Microsoft AI
   - AI
 
-secured: "XJ0zouEIhc7O2xER7ErafWPM/WiR+L+pHMJCU08ApiG1qulW1FqTRbO3nI5GmXB62aIbxxmXTTp5K5qeM/Sq37J/z/YZn5V/Zyc5qygzCNva78d3zz92A5/fAC75xdUCZsclEqH8WTvH5suGXkCpYzpcdkcusJU86A8zkcCSYifWu1PmbYn+7uk+yW9CwXGyMwxCDDWvcNER3wCCbP1q2j+r8JmOM6R9sfhzdAMNonkTQlIePIHUl+q0L4+auhXSicxQR/WRc7NJB5AzzaGJPZZV2Zjw4tZWNw5uuE29yDcneyvGfy2mCqw1oE3Ubs7qljMWW8vUf9U3O7/002/wro09120/sn7+sjO6PsgqZnc=;WGlWJlTP+WXKwhBnLbDQdg=="
+images:
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/AAA-7-600x337.png"
+    width: 600
+    height: 337
+    isCached: true
+
+secured: "wqcGLplDU1+maWAILzNk6NzA9VAWm2TayrNvQhajY7/fHJoOZ0tTfLIazU4kG2qENxHrIqZKCssvWTRARDBS6FBZ0k76cnUhgWEck08ZOxdoi9legfgFGInA9j4hMrpPz64M6OUb8Oct7iMsqoRCooXpyxB2n5GP18Qk3YlCoNFL7BMZc/I0Szpd+klP0/kv5BrOa8AoLeOu5X/anGwF2jJKAtoj15VmOcfEfXLcmKQ9pBuvNb2V/JnZZ0FB5r6ZZ8vOfilqA4NaIv7Ld7lgmS2zJY8zkeO6eDyeLSDH/uxFg1slX3vFTy7ixVTmeMKUGsPvGQIRy2mgg1XGBroLN665daKWm6/+ZI4VI94b098=;ZUthwuahfCyCRicBLa1r/w=="
 ---
 

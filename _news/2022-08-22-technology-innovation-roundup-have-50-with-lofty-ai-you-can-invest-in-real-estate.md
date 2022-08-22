@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-22T11:35:00Z
 originalUrl: "https://www.bizjournals.com/southflorida/news/2022/08/22/technology-innovation-roundup-08-19-22.html"
 webUrl: "https://www.bizjournals.com/southflorida/news/2022/08/22/technology-innovation-roundup-08-19-22.html"
 type: article
+quality: 9
+heat: 9
+published: false
 
 provider:
   name: The Business Journals

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/3-myths-about-chatbot-design-busted/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-myths-about-chatbot-design-busted/amp/"
 type: article
 quality: 74
-heat: 77
+heat: 97
 published: true
 
 provider:
@@ -29,6 +29,31 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "AI Chatbot Speeds Answers to Customers"
+    excerpt: "The Tetra Tech’s Federal IT Innovation Lab recently launched Auxilium, a high-end artificial intelligence (AI) solution."
+    publishedDateTime: 2022-08-22T15:12:00Z
+    webUrl: "https://www.csrwire.com/press_releases/752956-ai-chatbot-speeds-answers-customers"
+    type: article
+    provider:
+      name: CSR Wire
+      domain: csrwire.com
+    quality: 37
+    images:
+      - url: "https://back.3blmedia.com/sites/default/files/inline-images/AI-Chatbot-Speeds-Answers-to-Customers-IS22-009-960.jpeg"
+        width: 960
+        height: 540
+        isCached: true
+  - title: "Westpac pours millions into US AI chatbot firm"
+    excerpt: "Westpac is looking to expand the use and efficacy of AI chatbots across the bank, and has invested millions of dollars into the US tech company that makes them work."
+    publishedDateTime: 2022-08-22T13:00:00Z
+    webUrl: "https://www.afr.com/technology/westpac-pours-millions-into-us-ai-chatbot-firm-20220818-p5bayi"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 19
 
 secured: "zhGz6M4CBu/zhpBvDQfPUMHsvlWJRz5BPM3U6TzeG9cmb2jp7L+8V0YMBScO/aS0JEqBxnYB3wJZJkpMNIMbAFG6XefjXO1ZrkkXuBvXP4TdPWnLXLu1C1M94WLyzogsis/RT1a6BQe1uZojSBN9VEfzMQ+e+oOi7VZ+kyitDvOFBOcOvoALV9oVkANEIDEmQB95PxjjAc1MLTkFAY9ywYrcUhPnWG11OCnWYyLgi0tM4/qM7MVDc4QbXC1yDqQE+VAYKEKi+kusrr8EdZkJDnTeae19dF/XpIiZlUI5FA0g5UiOpwG8BBcQDzMdtlTiZN9he/Mr5oLzW9MqnkYqDh7qne3RBhNoL3OSIiDgakTEGO/pEJFhQi4Mi3NWL/2y6ygHQeBS5q9n+2fvphxqbkT7JiktNHNYuQ7MVyRRIVWmrkQ9GKyRp0zVbU4B6+1oIQLiJWAn0w6qQ0zH7QoByQDCLIE8Ws3yK/7Pnz0R5QrpXIBJqXKCe1p/5ciAFg0gUwJCHgYAV3lsCB50XYC6kw==;qLz+gwetsi2TsODVoVwJFg=="
 ---

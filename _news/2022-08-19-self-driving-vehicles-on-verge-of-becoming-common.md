@@ -24,6 +24,17 @@ images:
     height: 441
     isCached: true
 
+related:
+  - title: "Safety isn’t the only issue for self-driving vehicles - data privacy and algorithmic oversight need attention too"
+    excerpt: "Self driving vehicles have been deployed on roads for testing and have been promoted by technology companies for a number of years now. The argument goes that through the use of visual data and advanced algorithms, automated vehicles will result in much ..."
+    publishedDateTime: 2022-08-22T12:13:00Z
+    webUrl: "https://diginomica.com/safety-isnt-only-issue-self-driving-vehicles-data-privacy-and-algorithmic-oversight-need-attention"
+    type: article
+    provider:
+      name: Diginomica
+      domain: diginomica.com
+    quality: 0
+
 secured: "UMxWfU95dqyG0ztswFwSAkFp+AEirqb01povWIKMIAhCiWsK74l5xfxBzhq700XUKbg/+ch12Os9UYxC7TO5X+HMwTWkDDn+Idh7KP+sA7YP6+hbZjPwUU89klmsn0wpG4TrCRjxMASiISQhKSQk1+IVq8Mqoyp0O2TG69xmbiq65bh5T1faFTTMeO2+vCroMxKDsSugmBQuiydsb0F+5B/OOJGFBqQCONJiwpS8F8ymm5p/ES5iuRKFP/Z5dDltAj+dek3zN293/trUdPc424HlmJWpY7TaqS1KeqKJetdf+7rCf+AZlwYhVI6voR5XDOd3xd3ScnLvnTES4rB9gPhXF1g5Ey0bq37nNlMTZak=;EWHUlOOkoSwJkRyhRh4oNA=="
 ---
 

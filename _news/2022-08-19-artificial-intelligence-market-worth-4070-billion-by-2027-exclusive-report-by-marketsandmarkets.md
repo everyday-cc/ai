@@ -67,6 +67,15 @@ related:
       name: Daily Herald
       domain: dailyherald.com
     quality: 10
+  - title: "The Worldwide Computer Vision in Manufacturing Industry is Expected to Reach $4.7 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Computer Vision in Manufacturing Market Research Report by Product (PC-Based Vision and Smart Cameras-Based Vision), Component, Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-08-22T14:46:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-22-the-worldwide-computer-vision-in-manufacturing-industry-is-expected-to-reach-47-billion-by-2027-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "nsmaHfAvG+UPqREG5noF4m1TYO5yXAIOTfe9qZHq9QxoXI4Dykm7IyKaj6NMa9hrPFJU2yasOCLGOZYPiZySWmXzhhOc0g/d0b7iuOPyLX2pUnYVnp3aFUotw12kHh+yg5EkygM+PWdbfSkewhOq1BMFqncEnejicUbojMx7JsRyk5ZuhNKYgrOyhnBGCMgjjo8lPv+09b6O1WTLTAi4ELEMEzaVHAiD+mmIKhm1Z9H7WPICM5mFs8iZMkxTxgxdFujgn01DqAcGOMV3MbkAOntn0bigrHbYXldQekYl5q7KTz9Rzk1+XqwEXhopem7qav5kmSkMEjvqYhdwv+brc8ZFe3lUjW8M73h4D6bnJa4=;f41JmdX8efJVpkCYfOSACg=="
 ---

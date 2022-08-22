@@ -149,6 +149,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "YouTube removes video of Tesla fans using kids to test whether the carmaker's Full Self-Driving software stops for children"
+    excerpt: "An curved arrow pointing right. YouTube removed a video that showed Tesla fans testing out with real children whether the carmaker's Full Self-Driving (FSD) software would stop for kids. The video was posted by Whole Mars Blog's on YouTube last week after ..."
+    publishedDateTime: 2022-08-22T15:40:00Z
+    webUrl: "https://www.businessinsider.com/tesla-fans-full-self-driving-test-on-kids-removed-youtube-2022-8"
+    ampWebUrl: "https://www.businessinsider.com/tesla-fans-full-self-driving-test-on-kids-removed-youtube-2022-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-fans-full-self-driving-test-on-kids-removed-youtube-2022-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 63
+    images:
+      - url: "https://i.insider.com/630383dcc9a2da001809031b?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
   - title: "Elon Musk announces a price hike for Tesla's self-driving system. Check here"
     excerpt: "Tesla Chief Elon Musk took to Twitter to announce that the price of Tesla's Full Self-Driving System (FSD) will increase to $15,000 in North America. Musk informed that the price increase would be in effect from September 5."
     publishedDateTime: 2022-08-22T07:09:00Z
@@ -217,6 +233,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla Raises Prices On \"Full Self-Driving\" Software"
+    excerpt: "The new price of $15,000 is a $3,000 increase on the product that continues to not actually make your car fully self-driving."
+    publishedDateTime: 2022-08-22T15:21:00Z
+    webUrl: "https://www.roadandtrack.com/news/a40957021/tesla-raises-prices-on-full-self-driving-software/"
+    type: article
+    provider:
+      name: Road & Track
+      domain: roadandtrack.com
+    quality: 54
+    images:
+      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/roa120121bob-teslaplaid-002-1637346766.jpg?crop=1.00xw:0.670xh;0,0.311xh&resize=1200:*"
+        width: 1200
+        height: 603
+        isCached: true
   - title: "YouTube Pulls Video of Tesla Full Self-Driving Test Involving Kids"
     excerpt: "The video, which depicts a Tesla investor driving a Model 3 toward one of his own children, reportedly violates YouTube's child safety policy."
     publishedDateTime: 2022-08-20T17:36:00Z
@@ -270,6 +300,20 @@ related:
         width: 1600
         height: 900
         isCached: true
+  - title: "Tesla’s Full Self-Driving package is getting yet another price hike"
+    excerpt: "Tesla is raising the price of its Full Self-Driving (FSD) package to $15,000. The new price increase goes into effect for North American customers on September 5. That price increase coincides with a wider rollout of FSD Beta,"
+    publishedDateTime: 2022-08-22T14:00:00Z
+    webUrl: "https://knowtechie.com/teslas-full-self-driving-package-is-getting-yet-another-price-hike/"
+    type: article
+    provider:
+      name: KnowTechie
+      domain: knowtechie.com
+    quality: 39
+    images:
+      - url: "https://knowtechie.com/wp-content/uploads/2022/01/tesla-badge-rear-1000x600.jpg"
+        width: 1000
+        height: 600
+        isCached: true
   - title: "Elon Musk announces price hike for Tesla's Full Self-Driving feature"
     excerpt: "SpaceX CEO Elon Musk has announced a price hike for Tesla's Full Self-Driving feature that will be implemented into its pricing next month."
     publishedDateTime: 2022-08-22T10:50:00Z
@@ -288,6 +332,15 @@ related:
       name: Guru3D.com
       domain: guru3d.com
     quality: 19
+  - title: "Tesla Is Doubling Down on ‘Full Self-Driving.’ Ralph Nader Wants It Recalled."
+    excerpt: "Tesla is hiking the price of its sometimes controversial driver-assistance software it calls Full Self-Driving."
+    publishedDateTime: 2022-08-22T12:28:00Z
+    webUrl: "https://www.barrons.com/articles/tesla-fsd-full-self-driving-price-51661097330"
+    type: article
+    provider:
+      name: Barron's
+      domain: barrons.com
+    quality: 16
 
 secured: "zymDN+YLRurWbnO09dRG3q90ACOzp8O3TNn5VWjE/r8PgJGgcBVeCtJf6YgMuCvJLnHfnwbrt1gOoKBdC+mV1b4UaGi+q9uEEy8UnGO9PiZGRZhkmFONk0AaY2V/o9TFxvmDSekTncXV5WuphxZAuJpm7sIFuRgPvdSAGDNoEtyS1uT2xtb+iKoFsDJCEXcEs19ltIKetTh24wHfKMG5D+wtWrZWiQ/0EHNQbWGvYjyYas+9FVLeL0N14RyCcfhQ4/IkmgKwD4zgZT0X/qJosW/OVd/MkN5aU+Hni89uDTMlibGoOyGHV4Rs1kzLWmZMIZ7xSbAEy+LxEucvenR7piJDTQcoqW7cN3zrI7ObrvCKime8VdD/RYvyk4NacbXVT/txvq65p4VoillqdEaAeUt8EgyYhQpfuFRKsawci6FX+Rc0XFO5XsA+oZzlaaV0hBLvc/ysPZFc3YUiv4+qo5ttVucuImvUDIqTqOf4k9T2j8Y9FFanveSShQtmm8F4Zi87KCibbbntLeTioNI1Qw==;tm+RXjamKDv5Db+klLfJaA=="
 ---

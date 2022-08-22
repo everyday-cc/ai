@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-22T13:21:00Z
 originalUrl: "https://www.buffalo.edu/news/releases/2022/08/014.html"
 webUrl: "https://www.buffalo.edu/news/releases/2022/08/014.html"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: Medicine Buffalo

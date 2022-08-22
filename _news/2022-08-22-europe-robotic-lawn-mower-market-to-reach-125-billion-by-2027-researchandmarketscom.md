@@ -67,6 +67,15 @@ related:
       name: Benzinga.com
       domain: benzinga.com
     quality: 4
+  - title: "The Worldwide Computer Vision in Manufacturing Industry is Expected to Reach $4.7 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Computer Vision in Manufacturing Market Research Report by Product (PC-Based Vision and Smart Cameras-Based Vision), Component, Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-08-22T14:46:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-22-the-worldwide-computer-vision-in-manufacturing-industry-is-expected-to-reach-47-billion-by-2027-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "ZC8Uc2LWv7neL3uZZ3thnqqMg7bvjhPjcFZA0H/X2k6pWau6wZ1Wn0gJ0KSoxS99tH6/3JbZr/E4luxWqNj9uv4IYQ7Ut9kWPBUXjpTdU4knT+8RgTwT8vc6+BnuukJ1+cKm7A1Ud16H7ups+Ii3/ruvURzExvE9Lh6jOk17rvME65SgqDdS+xGZwN6qs95DJLIXbuNvHuq0FQ2/CH1qd0UjDZ0f4s+pi6620H5b0kS4P4NvWMFGkDL7otPuWjIGWNXllIF6FdnnD0kn1MmhL0Ve8rC2E8aThmoILA/hxz5xblqH/fUf78prLQ53FypIPrA1bpfCrBDyxSR5BksoeS7AYHkZ/g/JPgiCJnWdvyM=;c7bTnf7Jxdf0MkpOLX2aYQ=="
 ---

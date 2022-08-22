@@ -7,8 +7,8 @@ originalUrl: "https://www.theverge.com/2022/8/21/23315513/google-photos-csam-sca
 webUrl: "https://www.theverge.com/2022/8/21/23315513/google-photos-csam-scanning-account-deletion-investigation"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: The Verge
@@ -44,6 +44,15 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Dad who photographed sick son's penis for review by doctor caught by Google's anti-child abuse AI and investigated by police, report says"
+    excerpt: "The father was also locked out of his email and phone after Google's system flagged what it thought was child sexual abuse content, The NYT reported."
+    publishedDateTime: 2022-08-22T13:34:00Z
+    webUrl: "https://www.businessinsider.com/google-reported-dad-police-photos-sick-sons-penis-child-abuse-2022-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 14
 
 secured: "PW/j0BNBAQ0KWDsdDcTw2tRjuUcJy1saEAC9jLgpV7OceMS5WHtUnnDm6oPhp0v4+MXm41F4gKkUh613CBeDo6pLZLcXl/WdOq0TGJnrXS1tZzonzChAn0rhlxsSB8tnA5alL4MWavCCYC9E4cGiJucEloCLrTN+Nt/5vIsdjILHZRvdRvylCSp7faU+1bzIo6pQEY5517j+FJfUJamUHmcVxTUh40OB4Eg51BLiJjm6fDSYjWbfYiSLMNNAT2tARnI9Tl/NIo8Xfedx0Ij88mTCmMQLi6LDjSV9OVxPZMXcn+h1PhbNbctmLr5XIQvZWAEKgoMMcOK+ut0D9eZ3P1PY+5EF5jmTJNj1CVOED4zOalVNnNruKU0PvGUQRfYNyHYoCARfX29sdJ2arxlBFyNW9QxH37Axjk4p5crmuV7jXbBf60dJuEzThkVHdkZm5gLy2Sk0O4Q4h2B4CS/193Z14gudUyglK9khU0j+Uz9i5yVbLf5vlHIqe6GFqilYkG6Z0qhh7x7S2ZxABqTK2Q==;i95Inp0HPLroE/9qTvyqnQ=="
 ---

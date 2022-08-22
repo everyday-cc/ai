@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-22T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/22/ai-ethics-and-the-looming-political-potency-of-ai-as-a-maker-or-breaker-of-which-nations-are-geopolitical-powerhouses/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/22/ai-ethics-and-the-looming-political-potency-of-ai-as-a-maker-or-breaker-of-which-nations-are-geopolitical-powerhouses/"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: Forbes

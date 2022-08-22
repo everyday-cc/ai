@@ -153,6 +153,15 @@ related:
         width: 1200
         height: 740
         isCached: true
+  - title: "Proposed UK Law: Humans Not Liable for Self-Driving Vehicle Accidents"
+    excerpt: "Self-driving cars could begin operating on major UK highways within the next year ahead of wider 2025 rollout, but humans won't be liable for accidents that occur when the vehicle is in control, according to proposed regulations."
+    publishedDateTime: 2022-08-22T13:38:00Z
+    webUrl: "https://www.pcmag.com/news/proposed-uk-law-humans-not-liable-for-self-driving-vehicle-accidents"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 34
   - title: "Self-driving cars could be on roads across Britain by 2023 under new government plans"
     excerpt: "Self-driving cars could be on British roads by 2023 under new plans unveiled by the government. Transport secretary Grant Shapps has said that the first cars, coaches and lorries with self-driving features could be operating on motorways next year."
     publishedDateTime: 2022-08-19T16:11:00Z

@@ -7,8 +7,8 @@ originalUrl: "https://seekingalpha.com/article/4535995-c3ai-net-cash-sales-artif
 webUrl: "https://seekingalpha.com/article/4535995-c3ai-net-cash-sales-artificial-intelligence-growth-story"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Seeking Alpha
@@ -23,17 +23,6 @@ images:
     width: 750
     height: 504
     isCached: true
-
-related:
-  - title: "Analyst Ratings for C3.ai"
-    excerpt: "Over the past 3 months, 8 analysts have published their opinion on C3.ai (NYSE:AI) stock. These analysts are typically employed by large Wall Street banks and tasked with understanding a company's business to predict how a stock will trade over the upcoming year."
-    publishedDateTime: 2022-08-17T22:02:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/analyst-ratings-for-c3-ai-1031691130"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 47
 
 secured: "t6zo3CP5Hvn23wWd/jve/3RuGwM0utj06rhM1OCZgnSNzjXMpjMjDV/yS/zdAOTnMw1fJAtPhzfIJpxRIDv7O/MaPkFVA0xF69WqXRWY12Is9pST/kzQ9+Ug6yRrkOmFEQsd64WhXWWs2kOwr8USEdd+BrVhtW2gTrHnsnMfeIsWPFA6AqCmDlJ53rVKrGFpAKoffYqiHBu8jQFDoa+2BtqZKRfGa7VayG/dVpp8jaWjOeW4refwDX3pOqGkn83/GAk9/uZZmNeqZYXV9HceK8RnIr7NjHyOljYeV3ePCReIh7reGoN2/8KzDbZKS80hKlfnnNAU3jpvKLDAv36fOUO9anDHiN7r4Ho+84U549Fxp4yMhmE65N0uwaIoqddTuF21Faq8lAV0XA7Uom9dLj9Js5aUn6CKt0sOenqYi4PIblX/KFbu8c227sFNwQyd3Q9uLbXXmJEqfk3YOWECfgmeCpGgohpivHF2Hb8ou2W130Q7KnHJkTQ5tWrAGYqF0FzzzSiL/Jy4MBF+xxlF6g==;wWKs1+gMYpog23ExjRD3Hw=="
 ---

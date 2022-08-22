@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Dad who photographed sick son's penis for review by doctor caught by Google's anti-child abuse AI and investigated by police, report says"
+    excerpt: "The father was also locked out of his email and phone after Google's system flagged what it thought was child sexual abuse content, The NYT reported."
+    publishedDateTime: 2022-08-22T13:34:00Z
+    webUrl: "https://www.businessinsider.com/google-reported-dad-police-photos-sick-sons-penis-child-abuse-2022-8"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 14
 
 secured: "TKaQsRWLIkXwxv4pVwgZx8gBSWJWzTYWLbNukEnFcl1pc3TA+xiHasMxvXDuWt+hV83DpPRrczvHl1zniwIF1NAMDmA0dVcTl1vfDcrZhSUJNN8mFEC4VxkRyMh66ql5zTF6Wu7MlhfDNxIrB0Mn0HVubo8tKqnR+JoMBtZbTHS//Ygb9cCF+vbYhJqywya8u8IbKa5Qve+KOmcvuShJEYYhnVPw5v1lHleMKMMAGn8spJ2jrGAXnKz1RExL+FLCswuQWzp8A3YZ4l/pPAucPpiHBmZM+OZDljqwfoLlwwVdbBh9zi0+caab2ILiwKBngaw/h8TjMs0SXHXYC6hf+EIVDFSCUakcTmcdULppRfw=;t7mGUjw5vAubfjMGXuUR2w=="
 ---

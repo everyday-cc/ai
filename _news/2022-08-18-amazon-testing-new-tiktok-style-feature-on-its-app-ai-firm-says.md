@@ -9,7 +9,7 @@ ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/amazon-tests-ne
 cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
 type: article
 quality: 59
-heat: 119
+heat: 109
 published: true
 
 provider:
@@ -58,22 +58,6 @@ related:
       - url: "https://s.abcnews.com/images/Technology/WireAP_d6c87ec91bcb4a3db6d7f763abbf3eca_16x9_992.jpg"
         width: 992
         height: 558
-        isCached: true
-  - title: "TikTok’s new AI art filter riffs on your text"
-    excerpt: "AI text-to-image models like OpenAI’s DALL-E 2, Google’s Imagen, and Midjourney are having a bit of a moment. It’s hard to avoid their output on social media (especially Twitter), where people share the weirdest and wildest things they are able to get the AI models to create."
-    publishedDateTime: 2022-08-17T23:00:00Z
-    webUrl: "https://www.popsci.com/technology/tiktoks-ai-filter-text-to-image-generator/"
-    ampWebUrl: "https://www.popsci.com/technology/tiktoks-ai-filter-text-to-image-generator/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/tiktoks-ai-filter-text-to-image-generator/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2022/08/17/Depositphotos_378309282_L.jpg?auto=webp"
-        width: 1999
-        height: 1333
         isCached: true
   - title: "Amazon testing TikTok-style feed on its app, AI firm says"
     excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."

@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/aug/20/ai-art-artific
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -28,22 +28,6 @@ images:
     width: 620
     height: 372
     isCached: true
-
-related:
-  - title: "As The Debate Over AI Rages, Artists Are Already Using It To Illustrate Entire Comics"
-    excerpt: "BUT… it is not about the pictures being generated, it is about how we as artists or storytellers choose to use/curate/stage those pictures. In June, oil painter and cartoonist Carson Grubaugh created a four-issue physical comic book series titled The Abolition of Man which will be available to purchase in October of this year."
-    publishedDateTime: 2022-08-17T20:29:00Z
-    webUrl: "https://www.cartoonbrew.com/comics/dall-e-midjourney-ai-illustrated-comics-220166.html"
-    type: article
-    provider:
-      name: Cartoon Brew
-      domain: cartoonbrew.com
-    quality: 30
-    images:
-      - url: "http://www.cartoonbrew.com/wp-content/uploads/2022/08/intergalactic_traveler.jpg"
-        width: 1280
-        height: 600
-        isCached: true
 
 secured: "f4z+nRmMaUshPzVXt5r8h+YDqZJSxMGjnGByuS7yAL8MfLc2W945HjrnuR+CZa4xrxLBaOP1U4CvBSC0GwTihSvoubyr4v0bcr2OF/n6anxrwRuzOimTNUFLr5CnZ37WC0yWVLzdymO5WM5QvR8PCs0FXnnxVcu4fhdBSlx7wCjB9tuMHzvL6vmsUNmymwj0z11mxG+8oybPG9fvcEPafPMW7jkeUn/pj75WQnlWejfNkZH4eJXqfEzbQfhQCEFq0zyuorcLoD7wjj/ZAR2e+bcDTrgqQxPRh9c/N+2dev6S7uZD0bu7jKlM1VL9qg8SNQvG6k9KEDLYbmmEoVf82wtGzvS7wmHEoy46CatNTkAz5W7Pd4gmfCmD/+eMGg1Xzi+SEm3DxYSez8OLWywL0Hd4ijbbpA4nP8pvm/ZgUZPWeYSkFVE8AVvr3D7yO3jA4ppYeTDfhjsmrU8C5WwYfYtdVf7oIuvcV5LMZ8M1oLOoIMfj/OhsID5Hwn1pQTaj43+8T5xQ2uJnLdW3jMN4VQ==;tYJwz4Vaps+Hl/dJ7WDeBQ=="
 ---

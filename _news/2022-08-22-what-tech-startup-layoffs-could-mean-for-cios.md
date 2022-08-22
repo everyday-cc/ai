@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-22T13:07:00Z
 originalUrl: "https://www.ciodive.com/news/layoffs-2022-IT-technology/629947/"
 webUrl: "https://www.ciodive.com/news/layoffs-2022-IT-technology/629947/"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: CIO Dive
