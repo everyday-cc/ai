@@ -9,7 +9,7 @@ ampWebUrl: "https://www.gadgetsnow.com/tech-news/government-develops-face-recogn
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/government-develops-face-recognition-system-to-spot-anti-social-elements-with-mask-on/amp_articleshow/93651608.cms"
 type: article
 quality: 52
-heat: 52
+heat: 62
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 800
     height: 600
     isCached: true
+
+related:
+  - title: "Cognitive Systems Spending Market Development Status, Competition Analysis, Type and Application 2026"
+    excerpt: "The global cognitive systems spending market is experiencing numerous technological advancements permitted with exceptional features for several industries, especially in the banking sector. Cognitive systems with high-definition technology can help in determining the world’s most composite data analysis difficulties by entering into the complexity of exploiting the power of big data,"
+    publishedDateTime: 2022-08-17T09:03:00Z
+    webUrl: "https://www.fmiblog.com/2022/08/17/cognitive-systems-spending-market-development-status-competition-analysis-type-and-application-2026/"
+    type: article
+    provider:
+      name: Future Market Insights
+      domain: fmiblog.com
+    quality: 0
 
 secured: "W7CRqfSacuaboukdpgZCRenceRUTNtFHkLPQlwVaPEbrHIsKKEWdJBdO5Gc5ODY7deleAQSDTlSGlshaeZB/uA/0a+zZ+Z7Anl8KoRlHP3+rwG93WA73+JzX7j6nB+dMJrQsx0yc7mZZFMxsWj9m108iVOn5Xtnri4785SiZRqR+RmS/ifO8bo4IrCLYw2tGmVzSUONCQFPXV09X6gv9s3cCu7eDFQrw9oV7T1xzMIgjsUSqQDSefGOwAFvHQ+algJyqita5JpfVgAww+dYhGQNIZfsL3oXR47kXPh3+uo73uTnS0eN3z0uBa8yyTsmQLkhph/dcPJfVbXGESw3zmBlI15Bh/u8cnPR4fDA9dLSyn3oEgHPOY5exaNZUWgERQMIQwrhnk9Tpog3y3EgyM2IxMmja/8yDzT95Fc/K/oAERuqnYMGSSqfeghGvH7/NVGfoyTJ2MC91qtCuP0HRzbYNZf5f8AlYVi+s6aJ/gcTcVU/OMz4QwsmAhkw0Zb/zzhLvXdHtezCCCRb8rAM3Yg==;o0K9/WkLPaoZZhL4q0gMfg=="
 ---

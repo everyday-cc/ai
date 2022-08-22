@@ -22,54 +22,80 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) Chip Market Set for Rapid Growth by 2029"
-    excerpt: "Pune, India-Global Artificial Intelligence (AI) Chip Market Research Report 2022-2029 thinks about key breakdowns in"
-    publishedDateTime: 2022-08-17T07:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-set-for-rapid-growth-by-2029-2022-08-17"
+  - title: "Artificial Intelligence in Drug Discovery Market Share, Size, Analysis, Prominent Players and Forecast 2028"
+    excerpt: "The Global Artificial Intelligence in Drug Discovery Market is poised to value USD 5740 million by 2028 end at a CAGR"
+    publishedDateTime: 2022-08-18T12:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-share-size-analysis-prominent-players-and-forecast-2028-2022-08-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 99
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Europe Artificial Intelligence (AI) in Healthcare Market to Witness Growth Acceleration During 2022-2027"
-    excerpt: "Pune, India -The artificial intelligence in healthcare market in Europe is expected to grow from US$ 1,368.59 million in"
-    publishedDateTime: 2022-08-19T09:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-ai-in-healthcare-market-to-witness-growth-acceleration-during-2022-2027-2022-08-19"
+  - title: "Artificial Intelligence in Law Market 2022 Key Regions, Comprehensive Analysis, Growth Drivers and Forecast to 2028 |AIBrain, Amazon, Anki"
+    excerpt: "Global Artificial Intelligence in Law Market report has recently added by Infinity Business Insights which helps"
+    publishedDateTime: 2022-08-19T15:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-2022-key-regions-comprehensive-analysis-growth-drivers-and-forecast-to-2028-aibrain-amazon-anki-2022-08-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 82
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "C3.ai, Inc. (AI) Stock Sinks As Market Gains: What You Should Know"
-    excerpt: "Wall Street will be looking for positivity from C3.ai, Inc. as it approaches its next earnings report date. This is expected to be August 31, 2022. The company is expected to report EPS of -$0.26, down 13."
-    publishedDateTime: 2022-08-18T22:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/c3.ai-inc.-ai-stock-sinks-as-market-gains%3A-what-you-should-know-1"
-    ampWebUrl: "https://www.nasdaq.com/articles/c3.ai-inc.-ai-stock-sinks-as-market-gains:-what-you-should-know-1?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-inc.-ai-stock-sinks-as-market-gains:-what-you-should-know-1?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
-  - title: "Artificial Intelligence in Genomics Market Projections and Regional Outlook, Set for Rapid Growth and Trend by 2022-2030"
-    excerpt: "The global artificial intelligence market size in genomics is expected to grow from 471 million USD to 18,213 million USD from 2021 to 2030 with a compound annual growth rate (CAGR) of 50.2%.\\ Download Free Sample of This Strategic Report :- A release on June 8th,"
-    publishedDateTime: 2022-08-17T13:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-genomics-market-projections-and-regional-outlook-set-for-rapid-growth-and-trend-by-2022-2030-2022-08-17"
+  - title: "Automatic Speech Recognition (ASR) Software Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028"
+    excerpt: "Software Market size\" was estimated at USD billions in 2022 and expected to reach USD billions in 2028, and is predicted to grow at a CAGR rate to reach USD billion by 2028. The global Automatic Speech Recognition (ASR) Software market size is projected to reach multi million by 2028,"
+    publishedDateTime: 2022-08-17T18:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automatic-speech-recognition-asr-software-market-industry-analysis-by-sales-revenue-size-share-from-2022-to-2028-2022-08-17"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 24
+    quality: 43
+  - title: "Artificial Intelligence in Automotive Market Overview by Recent Opportunities, Growth Size, Regional Analysis and Forecasts to 2025"
+    excerpt: "Global Artificial Intelligence in Automotive Market Report is an In-Depth Analysis of the Latest Developments, Market"
+    publishedDateTime: 2022-08-17T12:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-automotive-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2025-2022-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 37
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence In Healthcare Sector Market Size, Share, Growth Opportunity, Rising Demand and Trends Analysis Forecasts till 2027"
+    excerpt: "The “Artificial Intelligence In Healthcare Sector Market” 2022 Research report will make detailed analysis mainly"
+    publishedDateTime: 2022-08-19T10:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-size-share-growth-opportunity-rising-demand-and-trends-analysis-forecasts-till-2027-2022-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+  - title: "Global Natural Language Processing Market Latest Trends, Size, Key Players, Revenue And Forecast 2022-2031"
+    excerpt: "Kenneth Research released a report on  Global Natural Language Processing Market  consisting of detailed analysis of the market"
+    publishedDateTime: 2022-08-18T06:04:00Z
+    webUrl: "https://menafn.com/1104716154/Global-Natural-Language-Processing-Market-Latest-Trends-Size-Key-Players-Revenue-And-Forecast-2022-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?208465"
+        width: 444
+        height: 250
+        isCached: true
 
 secured: "XhT6lqWQT9AMbZVUeOYWxGfsZGBshFlySz6jdkqO9czlOHGkeD0F3iPhTDaEbIGGhkcy4wSDt9LvFLJNXH/KvPeifXmwjgKivId6X+0w1ss2sS1XtSkSoOwr397syfb/gEhMK6pnbfRrVKWX9HH1JnYmBvsORZe5ycixDGfUJqKOPk3Dbm2W7epKSMbO3hdHDwwtCsfwFCXvmmfrjZj7U2SuQi+UkYZj8tFShKb0KAzvidDQ+rEC2MYmZMdIVse7WZ5zDBoS5jLuBb0/ICkyctgMU5Va1dVO0RWx3nCSrf5sz+Xk6qA9vD9vy6fiGOInYn8weRbIBI1AZET2vlrFkv88UtRD1zMBI28JpIshIEc=;owgy/sBKUq/yW9c6dcpC6w=="
 ---

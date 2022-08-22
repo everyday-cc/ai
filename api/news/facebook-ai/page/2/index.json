@@ -2,6 +2,61 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-20-history-of-artificial-intelligence.md",
+      "title": "History of Artificial Intelligence",
+      "excerpt": "Through generations, the field of artificial intelligence has persevered and become a hugely significant part of modern life.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/enterprise-apps/history-of-artificial-intelligence/",
+      "originalUrl": "https://www.eweek.com/enterprise-apps/history-of-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/05/enterprise-AI.jpg",
+          "width": 635,
+          "height": 517,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Facebook AI",
+        "IBM AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-signal-ai-opens-external-intelligence-graph-for-enterprise-use.md",
       "title": "Signal AI opens External Intelligence Graph for enterprise use",
       "excerpt": "Signal AI unveiled its new tool, a data structure that constantly tracks the major and minor events for companies that course through the news sphere each day.",
@@ -1389,49 +1444,6 @@
         "Natural Language Processing",
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-ais-hold-over-humans-is-starting-to-get-stronger.md",
-      "title": "AI’s hold over humans is starting to get stronger",
-      "excerpt": "Artificial intelligence isn’t on the cusp of sentience. But its growing inscrutability and sway over us should still be cause for concern",
-      "sourceUrl": null,
-      "webUrl": "https://www.tbsnews.net/features/panorama/ais-hold-over-humans-starting-get-stronger-444086",
-      "originalUrl": "https://www.tbsnews.net/features/panorama/ais-hold-over-humans-starting-get-stronger-444086",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tbsnews.net/sites/default/files/styles/social_share/public/images/2022/06/21/388410510.jpg?itok=3lBqimRl",
-          "width": 600,
-          "height": 314,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.tbsnews.net/features/panorama/ais-hold-over-humans-starting-get-stronger-444086?amp",
-      "cdnAmpWebUrl": "https://www-tbsnews-net.cdn.ampproject.org/c/s/www.tbsnews.net/features/panorama/ais-hold-over-humans-starting-get-stronger-444086?amp",
-      "publishedDateTime": "2022-06-21T01:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "tbsnews",
-        "domain": "tbsnews.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

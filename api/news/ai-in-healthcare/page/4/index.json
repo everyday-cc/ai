@@ -2,6 +2,83 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-12-artificial-intelligence-in-manufacturing-market-size-to-reach-usd-78744-million-by-2030-exclusive-report-by-acumen-research-and-consulting.md",
+      "title": "Artificial Intelligence in Manufacturing Market Size to reach USD 78,744 Million by 2030 Exclusive Report by Acumen Research and Consulting",
+      "excerpt": "Acumen Research and Consulting recently published report titled \"Artificial Intelligence in Manufacturing Market Size, Share, Analysis Report and Region Forecast, 2022 - 2030\" BEIJING, (GLOBE NEWSWIRE",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/g28026512/artificial-intelligence-in-manufacturing-market-size-to-reach-usd-78-744-million-by-2030-exclusive",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/g28026512/artificial-intelligence-in-manufacturing-market-size-to-reach-usd-78-744-million-by-2030-exclusive",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-11-research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too.md",
+      "title": "Research: Artificial intelligence can fuel racial bias in health care, but can mitigate it, too",
+      "excerpt": "While some artificial intelligence algorithms do indeed exacerbate inequitable medical care, other algorithms can actually close such gaps.",
+      "sourceUrl": null,
+      "webUrl": "https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/",
+      "originalUrl": "https://journalistsresource.org/home/research-artificial-intelligence-can-fuel-racial-bias-in-health-care-but-can-mitigate-it-too/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://journalistsresource.org/wp-content/uploads/2022/06/artificial-intelligence-g55ddc4275_1920.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Journalist's Resource",
+        "domain": "journalistsresource.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-11-computer-vision-in-healthcare-market-size-2022-2028-industry-share-and-demand-analysis-of-key-players.md",
       "title": "Computer Vision in Healthcare Market Size 2022-2028 Industry Share and Demand Analysis of Key Players",
       "excerpt": "Jul 11, 2022 (Market Insight Reports) -- New York, US, This Computer Vision in Healthcare Market Research Report gives the study a complete context and includes estimates based on in-house expert ...",
@@ -1235,83 +1312,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-06-30T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-its-alive-how-belief-in-ai-sentience-is-becoming-a-problem.md",
-      "title": "It’s alive! How belief in AI sentience is becoming a problem",
-      "excerpt": "The issue of machine sentience — and what it means — hit the headlines this month when Google placed a senior software engineer on leave after he went public with his belief that the company’s artificial intelligence (AI) chatbot LaMDA was a self-aware person.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110",
-      "originalUrl": "https://www.nbcnews.com/tech/tech-news/s-alive-belief-ai-sentience-becoming-problem-rcna36110",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-06/220630-replika-mn-1000-b5d011.jpg",
-          "width": 2500,
-          "height": 1623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna36110",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna36110",
-      "publishedDateTime": "2022-06-30T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-retrace-achieves-ehnac-healthcare-network-accreditation.md",
-      "title": "Retrace Achieves EHNAC Healthcare Network Accreditation",
-      "excerpt": "Retrace , a leader in dental artificial intelligence and the first native-built AI healthcare clearinghouse providing digital infrastructure for US health care, announced today it has achieved full accreditation with the Healthcare Network Accreditation Program (HNAP) for Electronic Health Networks (EHN) from the Electronic Healthcare Network Accreditation Commission.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-retrace-achieves-ehnac-healthcare-network-accreditation-/2022/06/30/9631748.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-retrace-achieves-ehnac-healthcare-network-accreditation-/2022/06/30/9631748.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T06:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TMCnet",

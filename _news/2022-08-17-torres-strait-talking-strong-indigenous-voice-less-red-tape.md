@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Albanese takes Voice campaign to Torres Strait"
-    excerpt: "Anthony Albanese will consult Torres Strait leaders on his plan to create an Indigenous Voice to parliament during a landmark visit to Thursday Island, north of Cape York, this week. Pushing for progress on his plan to recognise Aboriginal and Torres Strait Islander Australians in the Constitution,"
-    publishedDateTime: 2022-08-17T08:18:00Z
-    webUrl: "https://www.afr.com/politics/federal/albanese-takes-voice-campaign-to-torres-strait-20220817-p5bahe"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 39
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.5292%2C$multiply_2%2C$ratio_1.777778%2C$width_1059%2C$x_882%2C$y_248/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/123cf96a9df7d2186cc3aa1441b794951ae3e23d"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Indigenous Voice to Parliament: Prime Minister Anthony Albanese to take referendum discussion to Torres Strait"
     excerpt: "Prime Minister Anthony Albanese will travel to the Torres Strait on Thursday to engage with elders, government officials and community leaders on an Indigenous Voice to Parliament."
     publishedDateTime: 2022-08-18T00:55:00Z

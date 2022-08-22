@@ -28,15 +28,15 @@ images:
     isCached: true
 
 related:
-  - title: "Computer Vision Software Market Opportunities and Analysis to 2029"
-    excerpt: "Pune, India-Global Computer Vision Software Market Research Report 2022-2029 thinks about key breakdowns in the Industry"
-    publishedDateTime: 2022-08-17T07:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-software-market-opportunities-and-analysis-to-2029-2022-08-17"
+  - title: "Artificial Intelligence in Drug Discovery Market Share, Size, Analysis, Prominent Players and Forecast 2028"
+    excerpt: "The Global Artificial Intelligence in Drug Discovery Market is poised to value USD 5740 million by 2028 end at a CAGR"
+    publishedDateTime: 2022-08-18T12:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-share-size-analysis-prominent-players-and-forecast-2028-2022-08-18"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 69
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -56,6 +56,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Hardware Market Outlook, Key Players, Share, Trends and Forecast by 2027"
+    excerpt: "Hardware Market is valued at approximately USD 9.8 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 37.5% over the forecast period 2020-2027.  Artificial intelligence (AI) has been one of the most appealing technology in recent years."
+    publishedDateTime: 2022-08-17T14:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-outlook-key-players-share-trends-and-forecast-by-2027-2022-08-17"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
   - title: "Automatic Speech Recognition (ASR) Software Market Industry Analysis by Sales, Revenue, Size, Share from 2022 to 2028"
     excerpt: "Software Market size\" was estimated at USD billions in 2022 and expected to reach USD billions in 2028, and is predicted to grow at a CAGR rate to reach USD billion by 2028. The global Automatic Speech Recognition (ASR) Software market size is projected to reach multi million by 2028,"
     publishedDateTime: 2022-08-17T18:30:00Z
@@ -65,47 +74,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 43
-  - title: "Facial Recognition Platform Market Research Report Analysis by Competition, Sales, Revenue, Market Size 2022 to 2028"
-    excerpt: "This “ Facial Recognition Platform research market report ” highlights key external drivers that affect the industry and assesses the current performance and revenue growth of the industry. This report helps to collect Facial Recognition Platform industry information for target audiences before commencing any advertising campaign."
-    publishedDateTime: 2022-08-18T06:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-platform-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028-2022-08-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-  - title: "Machine Learning Market generalship by Technology, Solutions, Application, Price, Demand Analysis and Growth Opportunities to 2025"
-    excerpt: "Global Machine Learning Market Report focuses on the major drivers and restraints for the key players. These Research Report also provides granular analysis of the market share, segmentation, revenue forecasts and geographic regions of the market."
-    publishedDateTime: 2022-08-19T12:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-generalship-by-technology-solutions-application-price-demand-analysis-and-growth-opportunities-to-2025-2022-08-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Speech Recognition for Consumer Electronics Market Estimated to Expand at a Robust CAGR By 2027"
-    excerpt: "Pune, India-Research Report on Global Speech Recognition for Consumer Electronics Market 2022-2027 Report Demand"
-    publishedDateTime: 2022-08-17T11:57:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-for-consumer-electronics-market-estimated-to-expand-at-a-robust-cagr-by-2027-2022-08-17"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 37
-  - title: "Natural Language Processing and Recognition Market – Business Strategies, Industry Share, Size 2022 to 2030 | By -Apple, Google, Microsoft"
-    excerpt: "Aug 18, 2022 (Market Insight Reports) -- New Jersey, United States- The Global Natural Language Processing and Recognition Market Research Report 2022-2030 is a wonderful source of insightful data for company strategists. It provides the aid outline with ..."
-    publishedDateTime: 2022-08-18T05:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-and-recognition-market-business-strategies-industry-share-size-2022-to-2030-by--apple-google-microsoft-2022-08-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
   - title: "Artificial Intelligence In Healthcare Sector Market Size, Share, Growth Opportunity, Rising Demand and Trends Analysis Forecasts till 2027"
     excerpt: "The “Artificial Intelligence In Healthcare Sector Market” 2022 Research report will make detailed analysis mainly"
     publishedDateTime: 2022-08-19T10:12:00Z
@@ -115,29 +83,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 30
-  - title: "Voice Recognition Software Market Share 2022 Global Trend, Segmentation, Business Growth, Opportunities and Forecast to 2029"
-    excerpt: "Get a Sample PDF of Report -  The Global Voice Recognition Software Market Report 2022 covers 118 pages and provides details on vital statistics, data, information, trends and competitive landscapes in this niche sector."
-    publishedDateTime: 2022-08-19T06:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-share-2022-global-trend-segmentation-business-growth-opportunities-and-forecast-to-2029-2022-08-19"
+  - title: "Global Natural Language Processing Market Latest Trends, Size, Key Players, Revenue And Forecast 2022-2031"
+    excerpt: "Kenneth Research released a report on  Global Natural Language Processing Market  consisting of detailed analysis of the market"
+    publishedDateTime: 2022-08-18T06:04:00Z
+    webUrl: "https://menafn.com/1104716154/Global-Natural-Language-Processing-Market-Latest-Trends-Size-Key-Players-Revenue-And-Forecast-2022-2031"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 27
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 21
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?208465"
+        width: 444
+        height: 250
         isCached: true
-  - title: "Cognitive Systems Spending Market Development Status, Competition Analysis, Type and Application 2026"
-    excerpt: "The global cognitive systems spending market is experiencing numerous technological advancements permitted with exceptional features for several industries, especially in the banking sector. Cognitive systems with high-definition technology can help in determining the world’s most composite data analysis difficulties by entering into the complexity of exploiting the power of big data,"
-    publishedDateTime: 2022-08-17T09:03:00Z
-    webUrl: "https://www.fmiblog.com/2022/08/17/cognitive-systems-spending-market-development-status-competition-analysis-type-and-application-2026/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 0
 
 secured: "S8Y1z5Mae5fmxtqRvot2681Dhtu0uTe/cwf+3GiSz3dniK8G0X0CqEXn0r8kcPTw4ezw8KHWJOwK7NSFOOT4JtqUt7Y02lWAXzyE86LLaAUI1SchyUnibS0NjBRwdq+WY31HXzAsRqhpgPi7dK7TzgNOJ9GIDPBiVbqq2LCa/f1JfGutZKfvHOp4izjp6iJQQ2IX55uuzOaFXvS52v7KOcftQ4pCHVSmBE2eeNyw3Z1RxnpsBFI8hkX5gfyQ2MZ4/lfk0svbQfho8dKUSCys3a+AJ31WlutWsaq9snutj9rjsu4vvUpIUhnqEGg9fjAYnEyd7zaeyL1a8AeXrQWlwtaWj3foU1eEDqo5E+fZjqI=;qcZanwtrJs7ZEUFPSpLaEQ=="
 ---

@@ -1,6 +1,6 @@
 ---
 category: news
-title: "Google Teaches Robots to Understand You on a Human Level"
+title: "Google Robot Tech Can Understand You on a Human Level"
 excerpt: "AI language skills let you command robots in plain English and help them navigate the chaos of the real world."
 publishedDateTime: 2022-08-17T17:26:00Z
 originalUrl: "https://www.cnet.com/tech/computing/ai-language-skills-coax-google-robots-into-the-real-world/"
@@ -9,8 +9,8 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/ai-language-skills-coax-google-
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: CNET
@@ -31,7 +31,7 @@ images:
     isCached: true
 
 related:
-  - title: "Google Robot Tech Can Understand You on a Human Level"
+  - title: "Google Teaches Robots to Understand You on a Human Level"
     excerpt: "AI language skills let you command robots in plain English and help them navigate the chaos of the real world."
     publishedDateTime: 2022-08-17T17:26:00Z
     webUrl: "https://www.cnet.com/tech/computing/ai-language-skills-coax-google-robots-into-the-real-world/"
@@ -62,6 +62,6 @@ related:
         height: 630
         isCached: true
 
-secured: "NTFEvcCdrqt2DPBG6gFL4hphlDn1BTMI9YZaDB0c8a/HTFxoToj0iqc3aAI/3/AaPse+41go41/ZMpiTqASpnVjlNXEXU2/c+985ACu8rzo/+6Ljw5B8ttnA0NX1lt2TStxF3n2N2Mdx+HS4JRKBFCm65BrPqqcObWkhMn06jz+jGUiv+tsC7+OlBPQjiz+cMf5DjaFCLbFHqAAyxjLJPjAAq/eJ6muI7iEI7rLFvKV0EapATSs+PDpugWU7zR4g65Lgv2SRqpHQPEMdP8DoixwHXmP40rh8M2WGYb2D3BLvsYKElKV0gYuFVdegzHI4qq/8x5a6YvfYtR+fFITc1AbAVHW75Kj3GgzIyBbdTh/IMDZoz/8+qEjEfoxYOOKhZHf5NXffNoSk0tns6RDHjEqVsFJ7MbPjPoElVZeK5zx7XmDxGjwcOofDonRaMoqabCxBHDmjFiKmnnC528APuBiWaM60nbYfRCNBBvDdebhZl2FIUfihdsYNlQnWnGEKxBNdQ0YAB8ERmRhUxOHp7Q==;6FhtnEdig7F/xPq4R0jpag=="
+secured: "hL2K6PKoijNfhNnUKKeRB5nVvGTS6UYTD/lmR550J/iQjspd3jpUXJj47gIOejWReIrjY8bIqiyVIPwQ0gDncMBb9yTO/M3WVD2p+e80gHYs11iyZaIB+RPSISu72OmWLjvLtTgecpOiZio3IlJDRvabNm8b4SbPAog6w53VDgW7GYypOXSck3hXjWR4skY5A7+gUfjCiA3sbI50tsnSg/qyPCz/RSqjpGRqxJtIQVy2onN/4fQdOm4f+SKA4YX4E1E2uYElD0UW97EUgm3K50nlFE4PKr7pmyTjnpvT88Rs+uASd+j6cHRQgFKSveaTRYHEJseFySPe+ZYbIu1g1jbHgOHNrd5RgOoAHtrIGvw=;7BIsLTMmJa9H74J5dHQSpQ=="
 ---
 

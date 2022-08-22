@@ -59,6 +59,15 @@ related:
         width: 926
         height: 517
         isCached: true
+  - title: "Facial Recognition Platform Market Research Report Analysis by Competition, Sales, Revenue, Market Size 2022 to 2028"
+    excerpt: "This “ Facial Recognition Platform research market report ” highlights key external drivers that affect the industry and assesses the current performance and revenue growth of the industry. This report helps to collect Facial Recognition Platform industry information for target audiences before commencing any advertising campaign."
+    publishedDateTime: 2022-08-18T06:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-platform-market-research-report-analysis-by-competition-sales-revenue-market-size-2022-to-2028-2022-08-18"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
   - title: "Facial Recognition Bans Begin To Fall Around the US as Re-Funding of Law Enforcement Becomes Politically Popular"
     excerpt: "Some cities and states that were early to ban law enforcement from using facial recognition software appear to be having second thoughts as crime spikes become a major political issue."
     publishedDateTime: 2022-08-18T22:00:00Z

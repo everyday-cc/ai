@@ -2,6 +2,187 @@
   "page": 88,
   "value": [
     {
+      "path": "_news/2022-06-10-ibm-cio-kathryn-guarini-on-being-ibms-first-customer.md",
+      "title": "IBM CIO Kathryn Guarini on being IBM’s first customer",
+      "excerpt": "Since deploying AI for customer support issues, Guarini says IBM has seen a 26% reduction in time-to-resolution of customer support cases. Having come from the IBM Research Division, which ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/400808/ibm-cio-kathryn-guarini-on-being-ibms-first-customer.html",
+      "originalUrl": "https://www.cio.com/article/400808/ibm-cio-kathryn-guarini-on-being-ibms-first-customer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/06/20210305-IBM-Kathryn-Guarini-crop.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 685,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/400808/ibm-cio-kathryn-guarini-on-being-ibms-first-customer.html/amp",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/400808/ibm-cio-kathryn-guarini-on-being-ibms-first-customer.html/amp",
+      "publishedDateTime": "2022-06-10T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-stats-perform-to-launch-opta-vision.md",
+      "title": "Stats Perform To Launch Opta Vision",
+      "excerpt": "The Next Generation of Sports Data Delivering On the Promise of Richer Insights LONDON, June 10, 2022 /PRNewswire/ --Stats Perform, the sports",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/stats-perform-to-launch-opta-vision-1031521412",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/stats-perform-to-launch-opta-vision-1031521412",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-10T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-tesla-secures-multi-billion-dollar-deal-with-samsung-for-new-cameras-for-self-driving.md",
+      "title": "Tesla secures multi-billion-dollar deal with Samsung for new cameras for self-driving",
+      "excerpt": "Tesla has reportedly secured a multi-billion-dollar deal with Samsung to get new cameras for its self-driving sensor suite. Tesla’s Full Self-Driving (FSD) program relies on cameras to get imagery to feed its neural nets.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/06/10/tesla-secures-billion-deal-samsung-new-cameras-self-driving/",
+      "originalUrl": "https://electrek.co/2022/06/10/tesla-secures-billion-deal-samsung-new-cameras-self-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2016/10/autopilot-triple-front-facing-cameras.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/06/10/tesla-secures-billion-deal-samsung-new-cameras-self-driving/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/10/tesla-secures-billion-deal-samsung-new-cameras-self-driving/amp/",
+      "publishedDateTime": "2022-06-10T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-10-loading-remote-data-in-tff.md",
+      "title": "Loading Remote Data in TFF",
+      "excerpt": "In a production environment, the raw data for a federated computation is typically distributed across machines and requires special preprocessing and loading before it's usable. This tutorial describes how to load data stored in those remote locations with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/federated/tutorials/loading_remote_data",
+      "originalUrl": "https://www.tensorflow.org/federated/tutorials/loading_remote_data",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-10T02:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-global-us-283-bn-speech-and-voice-recognition-market-outlook-to-2026.md",
       "title": "Global US $ 28.3 Bn Speech and Voice Recognition Market Outlook to 2026",
       "excerpt": "The global speech and voice recognition market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 19.8% during the forecast period, to Reach USD 28.3 Billion by 2026, from USD 6.9 ...",
@@ -895,198 +1076,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-google-introduces-major-upgrades-to-its-vertex-ai-platform.md",
-      "title": "Google introduces major upgrades to its Vertex AI platform",
-      "excerpt": "Google's Vertex AI is a managed ML platform designed to enable developers to speed up the deployment and maintenance of their AI models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/",
-      "originalUrl": "https://venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/12/GettyImages-1202870693.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/09/google-introduces-major-upgrades-to-its-vertex-ai-platform/amp/",
-      "publishedDateTime": "2022-06-09T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Facebook AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-chrome-to-use-ai-to-predict-if-people-want-website-notifications.md",
-      "title": "Chrome to Use AI to Predict if People Want Website Notifications",
-      "excerpt": "Google Chrome is doing something about websites that constantly ask users if they want to receive notifications by automatically disabling prompts based on a person's history. On",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/chrome-to-use-ai-to-predict-if-people-want-website-notifications/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/chrome-to-use-ai-to-predict-if-people-want-website-notifications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/06684155a8b8f15f6e6b2131f21aada84408d3fc/2021/02/23/62760e4a-1286-413f-b515-a55f3923aa2a/google-chrome-logo-2076.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/chrome-to-use-ai-to-predict-if-people-want-website-notifications/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/chrome-to-use-ai-to-predict-if-people-want-website-notifications/",
-      "publishedDateTime": "2022-06-09T13:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-nala-robotics-launches-fully-autonomous-pizzeria-robot-pizzaiola.md",
-      "title": "Nala Robotics launches fully autonomous pizzeria robot Pizzaiola",
-      "excerpt": "Nala Robotics' Pizzaiola uses artificial intelligence and machine learning to precisely replicate pizzeria-style foods.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/nala-robotics-launches-fully-autonomous-pizzeria-robot-pizzaiola/",
-      "originalUrl": "https://www.therobotreport.com/nala-robotics-launches-fully-autonomous-pizzeria-robot-pizzaiola/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/06/featured-web-nala-robtoics.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum.md",
-      "title": "Roborock S7 MaxV Ultra Wins T3 Award 2022 for Best Robot Vacuum",
-      "excerpt": "Considering the tough competition amongst its robovac peers, it's clear that the advanced object recognition technology, customized cleaning options and performance in cleaning hard floors and ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum-1031519399",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum-1031519399",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

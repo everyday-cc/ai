@@ -23,54 +23,75 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence (AI) Chip Market Set for Rapid Growth by 2029"
-    excerpt: "Pune, India-Global Artificial Intelligence (AI) Chip Market Research Report 2022-2029 thinks about key breakdowns in"
-    publishedDateTime: 2022-08-17T07:56:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-set-for-rapid-growth-by-2029-2022-08-17"
+  - title: "Machine Learning Market generalship by Technology, Solutions, Application, Price, Demand Analysis and Growth Opportunities to 2025"
+    excerpt: "Global Machine Learning Market Report focuses on the major drivers and restraints for the key players. These Research Report also provides granular analysis of the market share, segmentation, revenue forecasts and geographic regions of the market."
+    publishedDateTime: 2022-08-19T12:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-generalship-by-technology-solutions-application-price-demand-analysis-and-growth-opportunities-to-2025-2022-08-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 99
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Europe Artificial Intelligence (AI) in Healthcare Market to Witness Growth Acceleration During 2022-2027"
-    excerpt: "Pune, India -The artificial intelligence in healthcare market in Europe is expected to grow from US$ 1,368.59 million in"
-    publishedDateTime: 2022-08-19T09:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-ai-in-healthcare-market-to-witness-growth-acceleration-during-2022-2027-2022-08-19"
+  - title: "Voice Recognition Software Market Share 2022 Global Trend, Segmentation, Business Growth, Opportunities and Forecast to 2029"
+    excerpt: "Get a Sample PDF of Report -  The Global Voice Recognition Software Market Report 2022 covers 118 pages and provides details on vital statistics, data, information, trends and competitive landscapes in this niche sector."
+    publishedDateTime: 2022-08-19T06:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-share-2022-global-trend-segmentation-business-growth-opportunities-and-forecast-to-2029-2022-08-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 82
+    quality: 27
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "C3.ai, Inc. (AI) Stock Sinks As Market Gains: What You Should Know"
-    excerpt: "Wall Street will be looking for positivity from C3.ai, Inc. as it approaches its next earnings report date. This is expected to be August 31, 2022. The company is expected to report EPS of -$0.26, down 13."
-    publishedDateTime: 2022-08-18T22:00:00Z
-    webUrl: "https://www.nasdaq.com/articles/c3.ai-inc.-ai-stock-sinks-as-market-gains%3A-what-you-should-know-1"
-    ampWebUrl: "https://www.nasdaq.com/articles/c3.ai-inc.-ai-stock-sinks-as-market-gains:-what-you-should-know-1?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/c3.ai-inc.-ai-stock-sinks-as-market-gains:-what-you-should-know-1?amp"
+  - title: "Deep Learning Market Market Size, Global Trends, Latest Techniques, Key Segments And Geography Forecasts Till 2028"
+    excerpt: "The Global “Deep Learning Market” 2022 research report presents an in-depth analysis of the Deep Learning Market size, growth, share, segments, manufacturers, and forecast, competition ..."
+    publishedDateTime: 2022-08-17T12:31:00Z
+    webUrl: "https://www.digitaljournal.com/pr/deep-learning-market-market-size-global-trends-latest-techniques-key-segments-and-geography-forecasts-till-2028"
     type: article
     provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 67
-  - title: "Artificial Intelligence (AI) Hardware Market Outlook, Key Players, Share, Trends and Forecast by 2027"
-    excerpt: "Hardware Market is valued at approximately USD 9.8 billion in 2019 and is anticipated to grow with a healthy growth rate of more than 37.5% over the forecast period 2020-2027.  Artificial intelligence (AI) has been one of the most appealing technology in recent years."
-    publishedDateTime: 2022-08-17T14:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-hardware-market-outlook-key-players-share-trends-and-forecast-by-2027-2022-08-17"
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 17
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/a6ce76f71c99cdb34a0b6fc0ee9f528221756c34-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
+  - title: "Facial Recognition Door Access Solutions Market Overview 2022 to 2030, Future Trends and Forecast | By -Cloudwalk, Dahua Technology, Aurora"
+    excerpt: "The strong development of the Facial Recognition Door Access Solutions market can be ascribed to the elements related which incorporate market drivers, limitations and amazing open doors, market propensities of each and every present and future,"
+    publishedDateTime: 2022-08-19T14:41:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-door-access-solutions-market-overview-2022-to-2030-future-trends-and-forecast-by--cloudwalk-dahua-technology-aurora-2022-08-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 47
+    quality: 15
+  - title: "Natural Language Processing Market (NLP) Demands, Key Players, Size, Growth, Trends, Technology and Forecasts to 2027 - ReportsnReports"
+    excerpt: "ReportsnReports added Global Natural Language Processing (NLP) Market Report to its research database with its 336 no. of research pages report. The Natural Language Processing (NLP) Market size to grow from USD 15."
+    publishedDateTime: 2022-08-19T09:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-natural-language-processing-market-nlp-demands-key-players-/2022/08/19/9659241.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 2
+  - title: "National award for Sheffield researchers who revolutionised teaching for the next generation of speech language therapists"
+    excerpt: "Sheffield researchers who revolutionised teaching for the next generation of speech and language therapists during the pandemic have been recognised with a prestigious national award."
+    publishedDateTime: 2022-08-19T12:27:00Z
+    webUrl: "https://www.sheffield.ac.uk/news/national-award-sheffield-researchers-who-revolutionised-teaching-next-generation-speech-language"
+    type: article
+    provider:
+      name: University of Sheffield
+      domain: sheffield.ac.uk
+    quality: 0
 
 secured: "oMMRQYk4HBVvw/NLnkQXaTNk9BHyfFePeSiJuvPZXQPkkY+XUB1jsdrohxibfYqC8JzL26hdgDzZZ4/qIpZS+S0oFC24hBYLDbpBz8DD30+vhiR3I2IKRLtJNlktdIdSCC2uds0loRFkj10jQ1FVxL0l17jDx9k4c1we8zpIfSxAZdG7HDh2RvvedwYmL3CQgqreR/85rN/lmHRvuMBPxiQ8bppsBmbWMoB1m302jpvaevCA1eNlq729oBd8Qv46+GrIl15FFIsIV4dxgRbL3McX96A7/YdUa2b4aBoo1KLfEaTbCoLmjdNVTilCx81atKu5e27Vk+pb6SUqzHY6Wa2xRvdqn14b0uAd41eL7PY=;d+wfWvZEpf3JW8bDzBWYfA=="
 ---

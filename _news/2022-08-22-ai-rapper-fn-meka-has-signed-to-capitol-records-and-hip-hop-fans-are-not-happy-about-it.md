@@ -21,16 +21,16 @@ related:
   - title: "Capitol Records signs first AI virtual rapper FN Meka"
     excerpt: "A robot rapper that has over 10 million followers on TikTok has signed FN Meka is the world’s first augmented reality – or “AR” – artist to sign with a major label. He has over one billion views on TikTok as the platform’s top “virtual being."
     publishedDateTime: 2022-08-21T23:05:00Z
-    webUrl: "https://www.kcrg.com/2022/08/21/capitol-records-signs-first-ai-virtual-rapper-fn-meka/"
-    ampWebUrl: "https://www.kcrg.com/2022/08/21/capitol-records-signs-first-ai-virtual-rapper-fn-meka/?outputType=amp"
-    cdnAmpWebUrl: "https://www-kcrg-com.cdn.ampproject.org/c/s/www.kcrg.com/2022/08/21/capitol-records-signs-first-ai-virtual-rapper-fn-meka/?outputType=amp"
+    webUrl: "https://www.wdbj7.com/2022/08/21/capitol-records-signs-first-ai-virtual-rapper-fn-meka/"
+    ampWebUrl: "https://www.wdbj7.com/2022/08/21/capitol-records-signs-first-ai-virtual-rapper-fn-meka/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2022/08/21/capitol-records-signs-first-ai-virtual-rapper-fn-meka/?outputType=amp"
     type: article
     provider:
-      name: ABC Kcrg  9
-      domain: kcrg.com
+      name: WDBJ
+      domain: wdbj7.com
     quality: 57
     images:
-      - url: "https://gray-kcrg-prod.cdn.arcpublishing.com/resizer/F2KPf4gNlqNp5OiPWo1caAC7M_A=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/6HMIXPD3LVBFFPGY6NPWL3NZOY.jpg"
+      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/74vYc1YhLLYjMUbeMTM99DkupAQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/ACCBL2VU6NOOZKVLG7AIZNKJQ4.png"
         width: 800
         height: 450
         isCached: true

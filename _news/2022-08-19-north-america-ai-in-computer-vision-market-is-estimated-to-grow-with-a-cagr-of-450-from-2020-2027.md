@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/north-america-ai-in-comp
 webUrl: "https://www.marketwatch.com/press-release/north-america-ai-in-computer-vision-market-is-estimated-to-grow-with-a-cagr-of-450-from-2020-2027-2022-08-19"
 type: article
 quality: 50
-heat: 50
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ provider:
 topics:
   - Computer Vision
   - AI
+
+related:
+  - title: "Europe Artificial Intelligence (AI) in Healthcare Market to Witness Growth Acceleration During 2022-2027"
+    excerpt: "Pune, India -The artificial intelligence in healthcare market in Europe is expected to grow from US$ 1,368.59 million in"
+    publishedDateTime: 2022-08-19T09:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-ai-in-healthcare-market-to-witness-growth-acceleration-during-2022-2027-2022-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 82
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "xUL90cFo8/rGLG+Vbw3ZclMvATefpHf3KRTh+LgoO3RyX2VWT+7IAs2PUbbfCQVa0VRY2ILwCYXytWb8urdUg7F/aAV1fRmcivO3JeTQ/+o+0xwUOQfTKZn94h731KE7a7b762cz+JmMYkgEubKYZUkgQHHhSScSrOW18xlHqRo9/Uxaieo5c0rMZFPPsK6/KeIqqCqxQTlbH7gmNdAz5OneA3iZOQ/29YryMKo5Is0BoMWiYJF28mNcYPsOiO4NqBtr2aU4Nh29/7RbGPOfQ7aIR9h7odhk4jmtgYT+TuJjoVtIY5QJh4i1TYg3CJQ1735SVbki99L+jyQu7DbOz4N8w4i17fHO2PEORRN1Fcg=;/2JUQlqhdRELepn2hpUcrA=="
 ---

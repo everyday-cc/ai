@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/ai-helps-woman-answer-questions-at-her-
 webUrl: "https://www.pcmag.com/news/ai-helps-woman-answer-questions-at-her-own-funeral"
 type: article
 quality: 67
-heat: 97
+heat: 87
 published: true
 
 provider:
@@ -43,22 +43,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2022/08/newspress-collage-23508915-1660838991819.jpg?quality=75&strip=all&1660825649&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "AI makes dead woman talk at her own funeral. 5 technologies bringing the dead back to life"
-    excerpt: "Losing a loved one can be devastating. Our cultures and religions help us get through the loss using rituals such as funerals, memorials etc. But now, there is one more addition that promises to help us grieve better."
-    publishedDateTime: 2022-08-17T08:13:00Z
-    webUrl: "https://www.dailyo.in/technology/ai-makes-dead-woman-talk-at-her-own-funeral-5-technologies-bringing-the-dead-back-to-life-36970"
-    ampWebUrl: "https://www.dailyo.in/amp/technology/ai-makes-dead-woman-talk-at-her-own-funeral-5-technologies-bringing-the-dead-back-to-life-36970"
-    cdnAmpWebUrl: "https://www-dailyo-in.cdn.ampproject.org/c/s/www.dailyo.in/amp/technology/ai-makes-dead-woman-talk-at-her-own-funeral-5-technologies-bringing-the-dead-back-to-life-36970"
-    type: article
-    provider:
-      name: DailyO
-      domain: dailyo.in
-    quality: 47
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/sites/dailyo//resources/202208/black-mirror-1200170822021006.jpeg"
-        width: 1200
-        height: 675
         isCached: true
   - title: "UK Woman Speaks at Her Funeral Using AI"
     excerpt: "New AI-powered hologram allowed grieving loved ones to engage in a two-way conversation with the deceased old woman"

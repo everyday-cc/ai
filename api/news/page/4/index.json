@@ -2,6 +2,162 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-17-fox-news-cuts-liz-cheney-speech-before-these-jan-6-fbi-raid-remarks.md",
+      "title": "Fox News Cuts Liz Cheney Speech Before These Jan. 6 FBI Raid Remarks",
+      "excerpt": "Towards the end of Cheney's speech, she warned against believing Trump's \"insidious lies\" about the recent FBI raid on his Mar-a-Lago home.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/fox-news-liz-cheney-speech-january-6-donald-trump-fbi-raid-1734332",
+      "originalUrl": "https://www.newsweek.com/fox-news-liz-cheney-speech-january-6-donald-trump-fbi-raid-1734332",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2098749/liz-cheney.jpg",
+          "width": 2100,
+          "height": 1500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/fox-news-liz-cheney-speech-january-6-donald-trump-fbi-raid-1734332?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fox-news-liz-cheney-speech-january-6-donald-trump-fbi-raid-1734332?amp=1",
+      "publishedDateTime": "2022-08-17T01:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-artificial-intelligence-ai-chip-market-set-for-rapid-growth-by-2029.md",
+      "title": "Artificial Intelligence (AI) Chip Market Set for Rapid Growth by 2029",
+      "excerpt": "Pune, India-Global Artificial Intelligence (AI) Chip Market Research Report 2022-2029 thinks about key breakdowns in",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-set-for-rapid-growth-by-2029-2022-08-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chip-market-set-for-rapid-growth-by-2029-2022-08-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-computer-vision-software-market-opportunities-and-analysis-to-2029.md",
+      "title": "Computer Vision Software Market Opportunities and Analysis to 2029",
+      "excerpt": "Pune, India-Global Computer Vision Software Market Research Report 2022-2029 thinks about key breakdowns in the Industry",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-software-market-opportunities-and-analysis-to-2029-2022-08-17",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-software-market-opportunities-and-analysis-to-2029-2022-08-17",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T00:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-17-what-are-the-10-best-ai-consulting-firms.md",
       "title": "What Are The 10 Best AI Consulting Firms",
       "excerpt": "Google CEO Sundar Pichai has described the advent of artificial intelligence (AI) as more revolutionary than the discovery of fire or electricity. According to PwC, it has the potential to contribute $15 trillion to the global industry by 2030.",
@@ -1089,162 +1245,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-iq-ai-shares-fall-on-funding-requirement.md",
-      "title": "IQ-AI Shares Fall on Funding Requirement",
-      "excerpt": "By Ian Walker Shares of IQ-AI Ltd. fell as much as 16% on Tuesday after the company said that it will need extra funding in order to continue as a",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/iq-ai-shares-fall-on-funding-requirement-271660649820",
-      "originalUrl": "https://www.marketwatch.com/story/iq-ai-shares-fall-on-funding-requirement-271660649820",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/iq-ai-shares-fall-on-funding-requirement-271660649820",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/iq-ai-shares-fall-on-funding-requirement-271660649820",
-      "publishedDateTime": "2022-08-16T04:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-elon-musk-drops-details-about-teslas-humanoid-robot.md",
-      "title": "Elon Musk drops details about Tesla's humanoid robot",
-      "excerpt": "Tesla is set to unveil a new humanoid robot, called Optimus, in late September. There's been a lot of speculation surrounding Tesla's strategy in entering the robotics market, and a recent post by boss Elon Musk sheds some new light.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
-      "originalUrl": "https://www.zdnet.com/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/bb82a1b68d61171587c5d41c6fe6f42425701dc2/2022/08/15/7fd1c0ef-9d2c-4ec0-8ba7-a72afdbd0d35/tesla-humanoid.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/elon-musk-drops-details-about-teslas-humanoid-robot/",
-      "publishedDateTime": "2022-08-16T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-speech-and-voice-recognition-market-future-scenario-key-insights-top-companies-2028.md",
-      "title": "Speech and Voice Recognition Market – Future Scenario, Key Insights, Top Companies 2028",
-      "excerpt": "The Global Speech and Voice Recognition Market 2022 that centers around Speech and Voice Recognition market examines the significant components with a top to bottom methodology and empowers the client to survey the drawn-out based interest additionally predicts explicit executions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-future-scenario-key-insights-top-companies-2028-2022-08-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-future-scenario-key-insights-top-companies-2028-2022-08-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }
