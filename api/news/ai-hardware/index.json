@@ -2,59 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-08-22-deep-learning-chip-market-size-2022-2028-organization-growth-industry-share-upcoming-trends-key-dynamics-opportunities-top-manufacturers.md",
-      "title": "Deep Learning Chip Market Size 2022-2028, Organization Growth, Industry Share, Upcoming Trends, Key Dynamics, Opportunities, Top Manufacturers",
-      "excerpt": "The global “Deep Learning Chip Market” report includes upcoming growth trends, restraints, drivers, key dynamics size",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-2022-2028-organization-growth-industry-share-upcoming-trends-key-dynamics-opportunities-top-manufacturers-2022-08-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-2022-2028-organization-growth-industry-share-upcoming-trends-key-dynamics-opportunities-top-manufacturers-2022-08-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T05:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2022-08-22-ai-holdings-shares-rise-sharply-after-fiscal-year-net-profit-jump.md",
       "title": "Ai Holdings Shares Rise Sharply After Fiscal-Year Net Profit Jump",
       "excerpt": "By Kosaku Narioka Ai Holdings Corp. shares rose sharply Monday morning after the Japanese security-equipment company posted a 32% jump in fiscal-year",
@@ -1462,6 +1409,50 @@
       "topics": [
         "AI Hardware",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-07-artificial-intelligence-chip-market-is-expected-to-reach-us-832527-million-by-2027-with-350-cagr-prominent-key-players-with-region-and.md",
+      "title": "Artificial Intelligence Chip Market Is Expected To Reach US$ 83,252.7 Million By 2027 With 35.0% CAGR | Prominent Key players with Region and Forecast",
+      "excerpt": "According to our latest market study, titled” Artificial Intelligence Chip Market” and its applications such as machine learning and deep learning have been growing tremendously over the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-is-expected-to-reach-us-83252-7-million-by-2027-with-35-0-cagr-prominent-key-players-with-region-and-forecast",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-is-expected-to-reach-us-83252-7-million-by-2027-with-35-0-cagr-prominent-key-players-with-region-and-forecast",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/02/f86be8715ba54a39f5be728e02ae3bd8cf31255b-e1660978014168-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-06T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

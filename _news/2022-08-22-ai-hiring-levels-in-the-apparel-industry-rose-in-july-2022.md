@@ -52,6 +52,20 @@ related:
         width: 1038
         height: 778
         isCached: true
+  - title: "AI hiring levels in the power industry rose in July 2022"
+    excerpt: "The proportion of power industry operations and technologies companies hiring for AI related positions rose in July 2022 compared with the equivalent month last year, with 52.6% of the companies included in our analysis recruiting for at least one such position."
+    publishedDateTime: 2022-08-22T17:00:00Z
+    webUrl: "https://www.power-technology.com/analysis/ai-hiring-levels-in-the-power-industry-rose-in-july-2022/"
+    type: article
+    provider:
+      name: Power Technology
+      domain: power-technology.com
+    quality: 37
+    images:
+      - url: "https://www.power-technology.com/wp-content/uploads/sites/21/2022/08/Q446E-1038x778.png"
+        width: 1038
+        height: 778
+        isCached: true
 
 secured: "Rtc8uSgQFfoctWvJz1w6nBNt/oiyA7dzNWKIxxhH14RG0+yu+2cOOkToZfw8b5iVg30Nqs8furibQuR9Vd17BpnO0DYJqoUxhZyTAi1Ui6H0oDoT6vHc0YGEHCG5P60yGw60FpxYGOLKgO+t+o2Sw8mtnkriL9Xa8pWo1tdJjtzM4uXV+LR5X+ISe8MC2LAriApTkb7q+a8AQQmjwro8Fr774XOrPddJXUYOu2M9pzrzt8iAwrLTqM3MJhohdhOO3UpLDn3k8/kKant40RkTUwqMaH0ipk0mi1oCYIvHVT5Z0fVCbnROPL5eTUj39wFvPRfn7NsWhwHzlbxEh88U5cs2c3XesK5Trru6EohQ3eo=;+uE1cpuQ4BgfDbCOyU6+sA=="
 ---

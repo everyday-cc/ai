@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-2022-key-regions-comprehensive-analysis-growth-drivers-and-forecast-to-2028-aibrain-amazon-anki-2022-08-19"
 type: article
 quality: 50
-heat: -1
-published: false
+heat: 70
+published: true
 
 provider:
   name: MarketWatch
@@ -29,29 +29,24 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Drug Discovery Market Share, Size, Analysis, Prominent Players and Forecast 2028"
-    excerpt: "The Global Artificial Intelligence in Drug Discovery Market is poised to value USD 5740 million by 2028 end at a CAGR"
-    publishedDateTime: 2022-08-18T12:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-share-size-analysis-prominent-players-and-forecast-2028-2022-08-18"
+  - title: "Artificial Intelligence Supply Chain Market 2022 Key Dynamics, Regional Insights, Growth Statistics and Business Strategies by 2028"
+    excerpt: "The Global Artificial Intelligence Supply Chain Market 2022 by Company, Regions, Type and Application, Forecast"
+    publishedDateTime: 2022-08-21T19:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-supply-chain-market-2022-key-dynamics-regional-insights-growth-statistics-and-business-strategies-by-2028-2022-08-21"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Consulting Market Size, Share, Trends, Future Opportunities with COVID-19 Impact Analysis and Forecast to 2028"
-    excerpt: "The production, revenue, price, market share, and growth rate of each type are displayed in the Artificial Intelligence (AI) Consulting Market study. This research focuses on the"
-    publishedDateTime: 2022-08-22T11:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-size-share-trends-future-opportunities-with-covid-19-impact-analysis-and-forecast-to-2028-2022-08-22"
+    quality: 32
+  - title: "Voice Recognition Software Market Share 2022 Global Trend, Segmentation, Business Growth, Opportunities and Forecast to 2029"
+    excerpt: "Get a Sample PDF of Report -  The Global Voice Recognition Software Market Report 2022 covers 118 pages and provides details on vital statistics, data, information, trends and competitive landscapes in this niche sector."
+    publishedDateTime: 2022-08-19T06:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/voice-recognition-software-market-share-2022-global-trend-segmentation-business-growth-opportunities-and-forecast-to-2029-2022-08-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 48
+    quality: 27
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

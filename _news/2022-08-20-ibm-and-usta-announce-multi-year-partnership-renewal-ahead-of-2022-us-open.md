@@ -48,15 +48,6 @@ related:
       name: SportsPro
       domain: sportspromedia.com
     quality: 17
-  - title: "IBM and USTA Announce Multi-Year Partnership Renewal Ahead of 2022 US Open"
-    excerpt: "Redesigned USOpen.org and US Open App will Include New Fan Experiences Leveraging Hybrid Cloud and Explainable AI ARMONK, N.Y., Aug. 18, 2022 /PRNewswire/ -- IBM (NYSE: IBM) and the United States Tennis Association (USTA) today announced a five-year renewal of their longstanding,"
-    publishedDateTime: 2022-08-18T11:39:00Z
-    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1271916&cat=PR News Wire"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 2
 
 secured: "k2Es6GrtS0apRidozgpP12m7ccvvi2WXw1N75tCv+BlaB6AZJZ3soqkue95gSyQNZ/l2CVxTzU+qOWfWAOux14wG/4wHvAoTLKnLMaK9bVWvb80QtBjfFvI24/jQsy12y1QyuvlLZwoDEdz0LwVoQfW4xlR/9Pk0H2f2kgrFWCFVSsy0xZn6Efqzj/buw9h+cyMr1DV2OphXZlIUBv4npPnwGc+b7CbR92ZDoMIMiSFw/BRlJAbfcOtpi42MC9J5JAi95howLXu7jIxf0Ow6jXs1P4MTEe2PLZqTCK+gei1hkX95TQ9bRbOgiQB0ir94MrwU7jBtZZlHIRHDWvj8klyP4D+bAFqERZm6S98QmOU=;dXin3HulSWljQnx4orO6hQ=="
 ---

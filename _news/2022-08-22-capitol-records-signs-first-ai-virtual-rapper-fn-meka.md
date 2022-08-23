@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wdbj7.com/2022/08/21/capitol-records-signs-first-ai-virt
 cdnAmpWebUrl: "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2022/08/21/capitol-records-signs-first-ai-virtual-rapper-fn-meka/?outputType=amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: WDBJ
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "An AI-powered rapper? What you should know as a TikTok-famous virtual artist is signed by a record label"
+    excerpt: "An announcement by Capitol Records to sign a virtual artist has generated some level of controversy, as well as curiosity over musicians that do not exist in flesh and blood. Here's what you need to know about virtual artists,"
+    publishedDateTime: 2022-08-23T04:49:00Z
+    webUrl: "https://www.fox10phoenix.com/news/ai-powered-rapper-what-to-know-as-tiktok-famous-virtual-artist-gets-record-label-deal"
+    ampWebUrl: "https://www.fox10phoenix.com/news/ai-powered-rapper-what-to-know-as-tiktok-famous-virtual-artist-gets-record-label-deal.amp"
+    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/ai-powered-rapper-what-to-know-as-tiktok-famous-virtual-artist-gets-record-label-deal.amp"
+    type: article
+    provider:
+      name: FOX 10 Phoenix
+      domain: fox10phoenix.com
+    quality: 40
+    images:
+      - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2022/08/932/470/GettyImages-1230726502.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
   - title: "AI Rapper FN Meka Has Signed To Capitol Records, And Hip-Hop Fans Are Not Happy About It"
     excerpt: "Labels wanna be cheap and not have to pay real artists so they’re making bots [so] they can keep 100% profit,’ said one Twitter user."
     publishedDateTime: 2022-08-21T19:36:00Z

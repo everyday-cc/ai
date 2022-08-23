@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/singapore-looks-to-drive-ai-research-capa
 ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/"
 type: article
-quality: 66
-heat: 86
+quality: 68
+heat: 88
 published: true
 
 provider:
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 related:
   - title: "Singapore AI startup partners cancer institute to help estimate treatment costs"

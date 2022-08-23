@@ -2,19 +2,19 @@
 category: news
 title: "Robots could help reduce chemical use in farming"
 excerpt: "A robotics manufacturer is looking at the possibility of developing machines that will remove weeds and tend farmland without the need for so many chemicals."
-publishedDateTime: 2022-08-23T01:50:00Z
-originalUrl: "https://www.thedenverchannel.com/news/national/robots-could-help-reduce-chemical-use-in-farming"
-webUrl: "https://www.thedenverchannel.com/news/national/robots-could-help-reduce-chemical-use-in-farming"
-ampWebUrl: "https://www.thedenverchannel.com/news/national/robots-could-help-reduce-chemical-use-in-farming?_amp=true"
-cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/robots-could-help-reduce-chemical-use-in-farming?_amp=true"
+publishedDateTime: 2022-08-23T01:51:00Z
+originalUrl: "https://www.abcactionnews.com/news/national/robots-could-help-reduce-chemical-use-in-farming"
+webUrl: "https://www.abcactionnews.com/news/national/robots-could-help-reduce-chemical-use-in-farming"
+ampWebUrl: "https://www.abcactionnews.com/news/national/robots-could-help-reduce-chemical-use-in-farming?_amp=true"
+cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/national/robots-could-help-reduce-chemical-use-in-farming?_amp=true"
 type: article
 quality: 59
 heat: 59
 published: false
 
 provider:
-  name: 7News and TheDenverChannel.com
-  domain: thedenverchannel.com
+  name: ABC Action News
+  domain: abcactionnews.com
 
 topics:
   - AI in Robotics
@@ -26,6 +26,6 @@ images:
     height: 720
     isCached: true
 
-secured: "tmPwhLCtrHFtnL7VC1dWbskGlOt+er4uuOOmM+4p0TGWVFekIhf2vliiq4J5hsbOTtWiQQ9EYqmqkEO7yhw5ehmqGuAMBXPtBJ7/BqE+TqoaSIR++nQxw4SjNRtrCkOqHvuUKDWbsuhAFN1NBrl9VBLK4slLH6cgcIBWwQNC3gJKWtRWIA5LZud4aDbQVq9RmZigaU6IE64fGTM25UK+qri83PBshvHbZ01ClkAr2aO15HM5PVUAqDXXyEffovK3pP5Zwf2FruCwskCE9HoFEsBxMd0x/b0I30VO5T+ZZUaDcd2j3lbkhPIrJUT0hq+OsoUnlVW548NiqS5cBvHvY6Ll4A94c8CaBx5P0Sts0mQ=;+jKF7N8TcS7s+693K2WiiQ=="
+secured: "rtGf7+tdo4cSA31WC0pIweBPDiU6Jzj3NxTSM6XkaMw5FHQ3reRxo1yRRWen4b4mFv6CzMhAwKybIXrVv5DG9CWfhcymRtkQWDVVtawAS8ZpQ1F2ymYxfhQLYlR7T7O3FV8sGyPJrLkSgKRzWHs7kqdud5IRZJiY/k6aYwg9u7ZTkWFWFfzBO7FG5nDJ2db3c3vndOHX8ieE0iA33KU51Zdt9pcjVbIs+Zwyqpj8CVRrBCMpHa1i+vp00e9E+f+NqClJ+hqqG62zzUuPcFFuVkgh+/f+34vI1PJaMXfzYutBLOHdFNFi7ovs2aA5bhLRBZ0cv63BQpFMYdCPL0zNullQxmJr/qMKKLVEEuXgNOE=;mK9qZA6ddC2sX90VdJElSg=="
 ---
 

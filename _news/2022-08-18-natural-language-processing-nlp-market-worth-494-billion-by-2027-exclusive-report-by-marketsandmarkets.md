@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Educational Robot Market 2022 Business Growth, Gross Margin, Industrial Development and Regional Demand 2030"
-    excerpt: "Quadintel recently added a research report on the Global Educational Robot Market. The report includes an extensive analysis of the market’s characteristics, COVID-19 impact, size and growth, segmentation,"
-    publishedDateTime: 2022-08-18T12:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/educational-robot-market-2022-business-growth-gross-margin-industrial-development-and-regional-demand-2030-2022-08-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Europe Robotic Lawn Mower Market to Reach $1.25 Billion by 2027 - ResearchAndMarkets.com"
     excerpt: "The Europe robotic lawn mower market size reached US$ 617 Million in 2021. Looking forward, the publisher expects the market to reach US$ 1,256 Million by 2027, exhibiting a CAGR of 12.58% during 2021-2027."
     publishedDateTime: 2022-08-22T11:24:00Z

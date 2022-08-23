@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/Business5-e1661143754101-600x337.jpg"
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/02/f86be8715ba54a39f5be728e02ae3bd8cf31255b-e1660978014168-600x337.jpg"
     width: 600
     height: 337
     isCached: true
 
-secured: "pgySQNecVV09MlS3qlLtq45JVFvq1jYSpa38xyCDbHcBlFyQhVaLv2aOTqauG8Rj686o7UcxaG4JRSIzp2tzNikVjgVo679YwUNmwVnLs3kxdysMY/YXJDfxMomrbCHy32CYtxveolDPoawXX7sZVElMS6y4ryort1G+WZekT7nqCKklXS4E0yUHW5lbtYpWQz1pclnc73woLNQKaS+lXOEEtzniWgRT3pspN+dlrPS/FfWWA2Mo7lUiEHmvVKvVYEmHMFeRcneFzH0dwhGK/pgVzaJAJtWzaX1C0051iVEaj6PqhztX11FhCiimltzRjhZE5dIypUef+tHW8qFHIWL3ckRV757UsSufg4Lk5Ko=;tKe7q/xzrc0HmgjmE0dUvA=="
+secured: "NXYKaUGx+MWv3LPQP/JzsTx4RwhdXSrjy1URqzDu26SP/v/cqcXXZuhAB/+RvDh0Fx8BAzm7+E6yvQa3SKf+56jJvcSolJCtHPzKnA+9DN8y4WM2l2oOvyyMa/PIPTIDxZmO+C+Jv8ErtGJzmfNfkm7tDZbH4jsPDJMq8LttUnaXGlWUD7mhi8HLEP5Pdgxn69MxWb4BEEHF+sb2oODVoU9b0+nSHqmwGlpOF3hiTdk0yqN/1qXpOprfe3OlS8dkOcnGwkVHSa2+iIGPmJaPzGzmOYUl5TzWrfsOD3b1nxDeR/PAUFOwknRY0VhAnwMPFPnP99h84Ih1kgjQYw6YzWuGZybkkeCQhV7ZUaIR/8Y=;NwhlLvphzFQHgG8YKqctSg=="
 ---
 

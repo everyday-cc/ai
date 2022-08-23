@@ -22,10 +22,10 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning Chip Market Size 2022-2028, Organization Growth, Industry Share, Upcoming Trends, Key Dynamics, Opportunities, Top Manufacturers"
-    excerpt: "The global “Deep Learning Chip Market” report includes upcoming growth trends, restraints, drivers, key dynamics size"
-    publishedDateTime: 2022-08-22T12:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-2022-2028-organization-growth-industry-share-upcoming-trends-key-dynamics-opportunities-top-manufacturers-2022-08-22"
+  - title: "Artificial Intelligence in Law Market 2022 Key Regions, Comprehensive Analysis, Growth Drivers and Forecast to 2028 |AIBrain, Amazon, Anki"
+    excerpt: "Global Artificial Intelligence in Law Market report has recently added by Infinity Business Insights which helps"
+    publishedDateTime: 2022-08-19T15:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-2022-key-regions-comprehensive-analysis-growth-drivers-and-forecast-to-2028-aibrain-amazon-anki-2022-08-19"
     type: article
     provider:
       name: MarketWatch

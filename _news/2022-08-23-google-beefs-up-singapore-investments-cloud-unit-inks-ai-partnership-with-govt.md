@@ -31,7 +31,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 66
+    quality: 68
   - title: "Singapore AI startup partners cancer institute to help estimate treatment costs"
     excerpt: "Powered by Bot MD's artificial intelligence (AI) engine, the chemotherapy cost calculator is touted to help frontline medical professionals estimate monthly expenses patients need to set aside based on key factors,"
     publishedDateTime: 2022-08-19T07:00:00Z

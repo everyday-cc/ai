@@ -9,7 +9,7 @@ ampWebUrl: "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-
 cdnAmpWebUrl: "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1"
 type: article
 quality: 74
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 1068
     height: 601
     isCached: true
-
-related:
-  - title: "Google enhances its home assistance robots using AI language models"
-    excerpt: "Large-scale language models are being used by Everyday Robots‘ research team to ensure that robots don’t misinterpret human speech and act inappropriately or even dangerously. SayCan (language models with real-world foundation in pre-trained skills) and PaLM (Pathways Language Model),"
-    publishedDateTime: 2022-08-18T12:24:00Z
-    webUrl: "https://bestgamingpro.com/google-enhances-its-home-assistance-robots-using-ai-language-models/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 19
 
 secured: "mlIZ6JDrc2nF6CbdQoyT2eDYk2vD8gVWSlvUwTKL6lRXoX9R2T/U30g7Rgvkk+2sW/vE6n8gL9P9BK44a4SgZYn0Nn0RMqIjcjg3wCy4g6XPGr6CzBapuD2f7GTKh5UR64C3iraQh9F+ehtuLz9254K+4meabGNnYQapvNPFuvW/RrWOr2idhVyKow9xR+Zy31yYBg49rU+vfAr1ZrAtTx7WRuO4mWXohwx+jwuAPXFWdMG7WfnkaJT1wAINgSIuNdN6FWIb3CWg3Eo7d0i/ylPH4sxjtarpVgZwAnx7jB2oLjZxhbP19VZs6FGXxq0EVeKGanBEAWpevaCSxc4PJzGi1b6DuBPp2XsQ9yWKPtoO0zY7PQ+YfFcmQzrrWvHGHFIKqdht5joHWzzFP44VGS4pdJkS7sgs6z62/Ank+SwATd26tLtXraJ3dqp2tQ2mAeFV3lB4LSlWLzt/K9CVOCXghRUTgp1a0dX7db0doDd04M9v2VB+30eRAsVFaoE43undTsGGOE32OreYBtIiUw==;jPEsBwcOSaNA6gzY5ihW2w=="
 ---

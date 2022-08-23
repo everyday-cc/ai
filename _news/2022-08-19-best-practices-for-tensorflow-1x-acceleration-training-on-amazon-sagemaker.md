@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/best-practices-for-t
 webUrl: "https://aws.amazon.com/blogs/machine-learning/best-practices-for-tensorflow-1-x-acceleration-training-on-amazon-sagemaker/"
 type: article
 quality: 116
-heat: 136
+heat: 126
 published: true
 
 provider:
@@ -38,20 +38,6 @@ related:
       - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/18/Featured-images-for-ML-11236.jpg"
         width: 800
         height: 400
-        isCached: true
-  - title: "Build TensorFlow Lite models"
-    excerpt: "This page provides guidance for building your TensorFlow models with the intention of converting to the TensorFlow Lite model format. The machine learning (ML) models you use with TensorFlow Lite are originally built and trained using TensorFlow core ..."
-    publishedDateTime: 2022-08-18T12:53:00Z
-    webUrl: "https://www.tensorflow.org/lite/models/build"
-    type: article
-    provider:
-      name: TensorFlow
-      domain: tensorflow.org
-    quality: 56
-    images:
-      - url: "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png"
-        width: 1200
-        height: 675
         isCached: true
 
 secured: "frGfxuxYYPK7VHLfttD0atUXho3VtPUYJPG40Ozj5LhWGormaZ6PRsouXOjbTYmynUjnYy7qJDdZJ61A7tDyS+YcgcoiiskMMzTfpG4QpKSJUM/w/ZZ4DtAdxIqetMmjniZvMafCRkbMxKGbzcu6GU5lkFLZIN3GqlSHuscHLfFSnzQWQn/q/FB2tZNMXEnXQTNsy6pn0S9m5A+r2Xrs12xmbYMMkt1hA5/3yf7aDEttb2yFRtHqRjIti9hocDsIokRBzujHGMZF2nAjqt4Akaes94JQf7RZwQ5BWqNMN6vGZ37/fa0hohNXjZe+P86w7lhHoiy8KB1mqQ8p+O+jOvFZaaA2dLV/fZVho2EGJCA=;cRY3DF1y03YHyRzZEhWoXQ=="

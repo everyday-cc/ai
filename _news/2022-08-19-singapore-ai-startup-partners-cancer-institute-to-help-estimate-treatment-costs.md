@@ -34,7 +34,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 66
+    quality: 68
   - title: "Google beefs up Singapore investments, cloud unit inks AI partnership with govt"
     excerpt: "GOOGLE is strengthening its investments in Singapore - with its third data centre and an enhanced skills training programme - while its cloud business will work with the government to co-create AI solutions in a public-private partnership."
     publishedDateTime: 2022-08-23T02:57:00Z

@@ -34,6 +34,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "An AI-powered rapper? What you should know as a TikTok-famous virtual artist is signed by a record label"
+    excerpt: "An announcement by Capitol Records to sign a virtual artist has generated some level of controversy, as well as curiosity over musicians that do not exist in flesh and blood. Here's what you need to know about virtual artists,"
+    publishedDateTime: 2022-08-23T04:49:00Z
+    webUrl: "https://www.fox10phoenix.com/news/ai-powered-rapper-what-to-know-as-tiktok-famous-virtual-artist-gets-record-label-deal"
+    ampWebUrl: "https://www.fox10phoenix.com/news/ai-powered-rapper-what-to-know-as-tiktok-famous-virtual-artist-gets-record-label-deal.amp"
+    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/ai-powered-rapper-what-to-know-as-tiktok-famous-virtual-artist-gets-record-label-deal.amp"
+    type: article
+    provider:
+      name: FOX 10 Phoenix
+      domain: fox10phoenix.com
+    quality: 40
+    images:
+      - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2022/08/932/470/GettyImages-1230726502.jpg?ve=1&tl=1"
+        width: 932
+        height: 470
+        isCached: true
 
 secured: "vhCIN2eY8elujutIdADSNqyU1qz7vFesoVSBTPkDGkADWd0jA1tCf+26eslwmrOV4ekLcpSmz/O5Av/Szj792mI5YU2xnEwbHHJcjOwnB162klzkm/4ynYtdU2C09IEWBidNO5QuKC0282u+1hD+r9CXUUnyUOy8RoFmgs7tfL75K1Oze6ERa1zp7scgbRr03kU1qVZdaWdkVzcDRkAwCgIKwgpy7u7Kadfk7estx1bxxrgxHWyaZzTqFj/WyS1tZQv/1T2mIVz/u1EGKdp5tGW4gAKkUmurb7q7geHlct3oxpd8ER+fsaZzv6AVB1DPf3LzmSYMB98oag3l2TiWoESKO3A81MdMLzXMw+fjKEprJ7auB+r2dH9ud6YIo40x/JAqFMGg2vhqIqhe1qFcuA2K6/vIurbxb9dZAcLX80c90UXTDS2W/q5/yP5CHM2Qk0defPNlDThJiCR6WcoWMbEDJkPaOAlJVS+xC4sVrEJXlHOZImQpza3AUsfgt3FSwTplUjCj2p8n5BDlpUaL0Q==;OA3ic7jV+GOeEbZK+el6xA=="
 ---
