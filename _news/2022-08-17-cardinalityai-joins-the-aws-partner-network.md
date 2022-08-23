@@ -2,23 +2,19 @@
 category: news
 title: "Cardinality.ai Joins the AWS Partner Network"
 excerpt: "The Advanced Technology Partner Status reduces complexity to adopt digital practices and confidence of integration for our shared public sector customers; Three Cardinality.ai sol"
-publishedDateTime: 2022-08-16T18:07:00Z
-originalUrl: "https://www.marketwatch.com/press-release/cardinalityai-joins-the-aws-partner-network-2022-08-16"
-webUrl: "https://www.marketwatch.com/press-release/cardinalityai-joins-the-aws-partner-network-2022-08-16"
+publishedDateTime: 2022-08-16T19:34:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-cardinalityai-joins-aws-partner-network-/2022/08/16/9657222.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-cardinalityai-joins-aws-partner-network-/2022/08/16/9657222.htm"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-secured: "KoJvfTm0tIRHdfNazt38emngk99CvJkkuIdn4TiFk+mlEZf8/rS01RzcjN4tak9EUjHq4uoWtLs0zZ/4OM/dMKJZ5w8ig/7krhUiYQfOPZ+UJDkt8fSAm5AxaCrKgtoR/IoDpOu8wcq/EBb3TFr19LOgx+VHLBFWAEvDxEW+9MT0ZwaMhM6CaVhkY1gWsSqLuYsqgCczdHrN2tpi9wmMaKPO68TXb9Y4qi+TwTNCTrD5Kb4+rA7n4UAz1HvbDhxd8qJdJGuiDiA408OxZi2Xl0EfYUb9HGkEDfEAAPtRVtqqyeWuyxQJy2GUQ6kMOVxV6XTvvM+ZlgSUq8jm63t3KP0tmGP0A3Lwnpl0UdEHL+Q=;OQqDOIKKoGNlJopgpyBjUA=="
+secured: "qZilPOy8Abbq0hyJOrpTdtt4l+/zBQa81I0n5WgA2JcUzzuhKd0SSTbcmKk4NRgIrwkpUEyh06kROoaI2OkDGvxlIi8NB5K2VeeNOBEm66PocSPyz+gh9J4ObMwSrVUzDHXyelAtpOJsx692aJbQGM4k+SzSRy8uskD+6Db2jZ9QX0LBu0FdBVrXmzARhlZ/5ZtV+QB6hEZaZGGFtF/sKAi5j/WvW1v/UY9F7yxbqmT243tGEkDNQx8txMSGyf17VlhCDCrP4ArjZ7puQwYtQNpq88UrNzpULR+eiKzy8vUxadV96F1lVOeh21GH1AgG84knSCdyrPMDQIQ1CACxQoRSSdEyyl4uyIDKg+ZEFTA=;/ondqMvm1OLbJsjD+N+yOA=="
 ---
 

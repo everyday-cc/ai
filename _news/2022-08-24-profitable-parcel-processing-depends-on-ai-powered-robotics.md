@@ -1,23 +1,20 @@
 ---
 category: news
 title: "Profitable parcel processing depends on AI-powered robotics"
-excerpt: "Modern technology has given today’s consumers an insatiable desire to shop online. According to Statista, by 2026, the volume of small parcels processed each year is expected to reach 266 billion – more than double the volume of 2020."
-publishedDateTime: 2022-08-23T17:56:00Z
-originalUrl: "https://www.passengerterminaltoday.com/opinion/profitable-parcel-processing-depends-on-ai-powered-robotics.html"
-webUrl: "https://www.passengerterminaltoday.com/opinion/profitable-parcel-processing-depends-on-ai-powered-robotics.html"
+excerpt: "Profitable parcel processing depends on AI-powered robotics - read more about this with Parcel and Postal Technology International"
+publishedDateTime: 2022-08-23T18:10:00Z
+originalUrl: "https://www.parcelandpostaltechnologyinternational.com/opinion/profitable-parcel-processing-depends-on-ai-powered-robotics.html"
+webUrl: "https://www.parcelandpostaltechnologyinternational.com/opinion/profitable-parcel-processing-depends-on-ai-powered-robotics.html"
 type: article
-quality: 49
-heat: 49
-published: false
 
 provider:
-  name: Passenger Terminal
-  domain: passengerterminaltoday.com
+  name: parcelandpostaltechnologyinternational
+  domain: parcelandpostaltechnologyinternational.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "HV/VwhIAcGS7uTRJB4TY6DZKC9DiEAmCm0iDKOoZNAWv67uWtyBm2s/qlGJYvYk1SBI9uILqXwP9AQMxcxDlTgiWeewViNhPhvDkHVyMAcAk6anhCHNDqWyc1QRhCEtRKD+94qcMeYBa1KSx/+fZ6dN3LmN6qijXmiOUYtgQ1Aros7v9HNigpWUaw+FbMHY57kX1xzc6SYioM2Z0ngaSwus3Q4anjvhRA3q7VyVuZIigaP9DKEnYpESk/JMe7szcsvel9LsixobzgHI1D3zpOalg3PgS0lJVheZG9K5X2MGK/E+zd7B/BbRwPH64mqDXD5jiKV/3CnY08u7OhPZsCzfdzKTiKMfbTLUe8siCcjVT1dcEK0hw94aA1er8vkW4210RoRndgRhlfddHiW4ObDxogd2BU9sMAJhdY0DG1qeVp3rDpW8gnJdZs+vTCncTSZbcRxKM0jykZ6TT9wDE5mw42GUx1Yx11VaC9tVW1wzhmKSxoNUFDPB3Ibw87vy886tzJ//xyJNtMDVHdhUDTw==;5RlNwqEu/1iDgD87SpV/YA=="
+secured: "Qqefv3GXxSnLmX/DGHERZm1gnwB7FlI13M6D+rUhgpKwmEWWk4tS9MfO+XD9Gsb3NMiHyODVhFAAGIea/XN7mOB+7t/Hhp3rYtrW9rMWxPaOVLhPqbLLE0jAI+/k9Ta4saITKnF0pn6VVhP2+r9pb1kkjEF0cIfQ/ut/wO1YN3myprrJXIv0O39e9C65wLVC4YAQnpwKsh4R3kbq9ebI4jWqrIjTuVVciy6DLngF65Js3VgsPWpp8E/7bAX3VY3VrSPZkA4OQTPbFb2uSk2ogSvU1rf3i7qxvRBBitGibZ5uj1mI+boIj19m2krXw4UJYobpVkq+vLUDBv+tUJRLm5bhMaIXntwg5Nv/w+JxByn/8df05g3sbpStAzti1Eb3EutvAnNm9WF5hGzdo7AqZNUIZmJawqrdaTgqDMVoivdLBhniwXLaapXIiGBdDTxpXGK0ZuuhQzAr3dVI+OgttkeooRTCwev2BjZMlpgv6sK+5ycjj5u/UXzZpc+bgbeo1UM6Uoks1bF54h/r45lZNQ==;3FessgI8+lPRQR6J3u4oQw=="
 ---
 

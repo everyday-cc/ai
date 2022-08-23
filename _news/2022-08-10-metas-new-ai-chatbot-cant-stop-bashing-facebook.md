@@ -1,12 +1,10 @@
 ---
 category: news
 title: "Meta’s new AI chatbot can’t stop bashing Facebook"
-excerpt: "Launched on Friday, the conversational AI fueled by material found online spews uncomfortable truths and blatant lies"
-publishedDateTime: 2022-08-09T17:54:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?amp;amp;amp"
-webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook?amp;amp;amp"
-ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
-cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
+excerpt: "‘Stop trying to be TikTok’: how video-centric Instagram sparked a revolt Launched on Friday, BlenderBot is a prototype of Meta’s conversational AI, which, according to Facebook’s parent ..."
+publishedDateTime: 2022-08-09T18:14:00Z
+originalUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
+webUrl: "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook"
 type: article
 
 provider:
@@ -21,12 +19,6 @@ topics:
   - Facebook AI
   - AI
 
-images:
-  - url: "https://i.guim.co.uk/img/media/3eed1a5c6f0248c7df9e7728096f9bb218e51ed6/0_194_3500_2099/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=efb3375f27329429d1ec2c7024053922"
-    width: 620
-    height: 372
-    isCached: true
-
-secured: "KYs0KstBPLQ6CF2QaQdxGLEt8C+evaI8IEcSHIdmjfNHycy43EY7caymwLFv7SBUkFTAmMhseiG94gnh/ouRDwSBaHbSzpW0PIiZWZdihw8+XEE5WuvRqEVeDq310DLXsQ+5056z4lP2hMdtHina6Np0qFPB5zBGD27Yw+lumnEk9WRHpX+3a3GSduIGNLZdHOP2PHCdm2Xr0LgRVi/p2GJ2zpk/fIa06mWj1DVZQ+00G6G5MPtqQ+qIreKNPwogQ1B/IgM0J8+FRGARSDQBkiBcFsWKsCJUQxdcjrnRqqN5Ty/di3Addt45Z38VwHLrTJwV/IVvEIqhz6UZtOEUa5r0UfYPNX9ZpFtGT02SmQU=;lIe5QkQQN9pa6Nl5f2u2Cg=="
+secured: "Hb06t4i2iTxOEJLDUdjfGpu9de3PmdIZ5K7QLlZtIk7fna2zUx15GJ3jdHg4TQrrP96VSaivjfwp021fRBM50oD6/t6Z7e2l8puyjltW3yDMmsZyvcZe9NXxe1YOxmzssUO+QgwrxGlE0YMJN8zYfQurfQdMF03zazaUfOxlfm3d9nF9JC4+X7ZICnWAItu/cc139hCxq4xZHBPGS0b149JJCaAOVbySHLJLZrcbg+iP5AxxEcBI9Fl4GeA6AgEzC1C8gtvrodMv1uDYH4N/ji2aluyqQuQPbAU115Pl4fCsdbIYMvQXeIGNCSEBeGkX/pgAyHcNEQ/yPgyet4WPOadrWh2JTl/WaAop5Vn+C30=;PFXaG4B7V7zdE8ZQT44SbQ=="
 ---
 

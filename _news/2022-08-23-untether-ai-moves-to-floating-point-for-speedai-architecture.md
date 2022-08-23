@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/08/19113105/23-08-2022-untetherAI-speedAI-7P6A9757-Edit-hires-bkg-scaled.jpg"
@@ -70,6 +71,6 @@ related:
         height: 422
         isCached: true
 
-secured: "2mU7ZumEfMvwK1RruNDF6Mbt2WRDUhfaI4rwSL/JIr0cg9UA2JxoZfW1bhVIRoGDDlTIhdXfLHpzfe0Gzms9t3sjjBOIZheljo1Ia3jGYY8TUwVWyg0eQqw97Q596Ik3YKm6H9BoxQXR73iU3Emo7ZQDD88JZuDLqSJb38WtMpMnYBRBpfedylSHABcK3jBnY+R+VI8luSrcTU3zOqwEKBCMovpOjhAdRi4XbdwsSk2xBlcsqwIKnTg20via5SgdXFzonisq+iFD99ABdvH+VQBk7rZhczGSQfvIAiHW7arpGIbLRs95rESS1cjxUetNmYLmMDP4zchRlBqX3N87LDV8UOJks587BveStq23FS0=;TMg1AlhKQeGEGf7QhPWAHQ=="
+secured: "MHKm4Jeb7I30Fn6Z45WrmJpwxj1nTBPmK62h+q/pvMA5VtdQTcV3bV3gx4DM90duTXRUIsAoAzsx9rB7TqnKTroq8FXdEsjADYPE/xYbvSTEtpy7PTkEhy3l7ay6KPbVIaMuuWkBweWY8lOHy/KezrXWA9mAtw5NaF0Fx/Eow+GGuK9eYq3PyUWMabXi0AK0iJvdwZzVJH3kBuABv9IUCsFQGvdkkWWtTFyrqjvWH5vt8YGBDAp/5OrUd1/4SO9SZvQIrHrWmb52L6ZIhUlFPvZxYcQMIsr7dIVPcBjzVATWl0GIJySmDewvKw88Z7Rhl3amihSzlPinSEMiDkq3Tt5DciXQFUQVj6M5nucx3lcEZeJEQaUMtNqjt7LRJ3T/F2Nv/WMcUJSA46cDdhulEjhgv964WmRjf8qz7XcoGKN429w1n9g9SRmizCmkPKVPj/WFeya7qrRShTW5lA/VCcB7MbtroCMTdqubI0s/bxP1p0TEdFxdaPlavMo30fDhFlfzVaMC84FHKnClmRfGdQ==;km/elxhTB8xusZDQXj96pQ=="
 ---
 
