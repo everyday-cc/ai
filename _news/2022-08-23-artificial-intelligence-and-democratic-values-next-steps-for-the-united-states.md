@@ -8,8 +8,8 @@ webUrl: "https://www.cfr.org/blog/artificial-intelligence-and-democratic-values-
 ampWebUrl: "https://www.cfr.org/blog/artificial-intelligence-and-democratic-values-next-steps-united-states?amp"
 cdnAmpWebUrl: "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/artificial-intelligence-and-democratic-values-next-steps-united-states?amp"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2022/08/blinken_podium.jpg"

@@ -1,23 +1,29 @@
 ---
 category: news
 title: "Bondi Behavioural Optometrist Urges All On Computer Vision Syndrome Management"
-excerpt: "Computer Vision Syndrome or CVS is a name given to eye problems that are caused by prolonged computer use. When people use computers, tablets or mobile phones their eyes are required to converge closely and keep focus for long periods of time. Eye problems ..."
-publishedDateTime: 2022-08-21T14:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/marketersmedia-2022-8-21-bondi-behavioural-optometrist-urges-all-on-computer-vision-syndrome-management"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/marketersmedia-2022-8-21-bondi-behavioural-optometrist-urges-all-on-computer-vision-syndrome-management"
+excerpt: "Bondi Beach,Australia - August 21, 2022 /PressCable/ — Computer Vision Syndrome – Tips to reduce digital eye strain Computer Vision Syndrome or CVS is a name given to eye problems that are ..."
+publishedDateTime: 2022-08-21T15:12:00Z
+originalUrl: "https://menafn.com/1104730557/Bondi-Behavioural-Optometrist-Urges-All-On-Computer-Vision-Syndrome-Management"
+webUrl: "https://menafn.com/1104730557/Bondi-Behavioural-Optometrist-Urges-All-On-Computer-Vision-Syndrome-Management"
 type: article
-quality: 15
-heat: 15
+quality: 35
+heat: 35
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: MENAFN
+  domain: menafn.com
 
 topics:
   - Computer Vision
   - AI
 
-secured: "zvc1EtznF3984TuCsN/Yr+WuYknyqYZYPdQomx1yqR6kKxOf1oEp9Vq2mjP5i1mZCjQQRbeDH1tjoK7BulHDaseWh/Uvm/OZgFaqhqjW4foa6XGWs4PYKAT0/D1uiKdwEZB4qEAk6O3QNWPU3WbLTpUtM5zY7LFJAsdLs6GL3rchOXph1iFaElZBfsJA7ZX/Pw++muKFRVdbzBhI9gFRWqizfMaNoEWw3HHiOLjru8QLSUho4tEchAEuWMWD2T4RBpgiQ0JjLV+AtYf7Ujm/QX8d8g9IitsJAMhDgVPKyArsX7SjzYDSaIW0etgkzDKrrMDNpwvRcgIbECleknfelyFVMQ1g9N8WZlTt355wRDAkb3sFEaSvJe9xl3v0j1XeOT/SgHl9QlDVy6dmOc605pmgfgipM5zY+0S4+c6l/Y04paNjMusaq6dPeiXtEvh3/0uX23CpSI1YL8aoxWgrPpibPEeumhF9bY9cbqUL/BttX+pQZFIQLeqKFWka/+n4f1RUxADRJQhPVOY6KQ2ekg==;xMV78XGoZW2Pc+YxNkwOdA=="
+images:
+  - url: "https://menafn.com/updates/pr/2022-08/21/M_ef26895a-e_Image_In_Body.jpg"
+    width: 600
+    height: 400
+    isCached: true
+
+secured: "vejovN8yhVN/f8bsLbpGTALuxnR7jli+BBiPo6QyxV1vSqsKxyIDah3dx2ycHI5JCOuCDj4qzMBxN1moWV2pRsy/BDXbX0Al5C6VIqu/Pr8GgT/7da6pAu30EdZvdnH+XICtQlbDGZQlRi4WpRZ19CH0URSGNxq5T3B1IKeASeIrSiTrTk/AO6eloD5lMEZFPxQR0hCngwO56ZrIGwyUYv6lhjSS5U3BSarTyakHhOJL+RaarIGh901rcUek+T0IxWzjC6zp5IQ4VSv5ZyxQ5zcs+tSm/69VSbhj8gH6vuLq5O42YBHMi1/RlKUjHdM3umiNHJaNqgwHPmjBjkiCmfZKqkUrs5UDFAH9BoK0lWs=;PNb9h7DWHrL+4JLUfviIQg=="
 ---
 

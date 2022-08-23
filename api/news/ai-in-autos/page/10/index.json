@@ -2,6 +2,40 @@
   "page": 10,
   "value": [
     {
+      "path": "_news/2022-06-15-chinas-baidu-in-talks-to-sell-majority-stake-in-video-streaming-firm-iqiyi-sources.md",
+      "title": "China's Baidu in talks to sell majority stake in video streaming firm iQIYI -sources",
+      "excerpt": "The divestment plan, not previously disclosed by Baidu, comes after the firm deemed iQIYI to be a non-core asset, and as it seeks to sharpen its focus on developing its capital-intensive artificial intelligence and autonomous driving units, said the first ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-pmn/chinas-baidu-in-talks-to-sell-majority-stake-in-video-streaming-firm-iqiyi-sources",
+      "originalUrl": "https://financialpost.com/pmn/business-pmn/chinas-baidu-in-talks-to-sell-majority-stake-in-video-streaming-firm-iqiyi-sources",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/chinas-baidu-in-talks-to-sell-majority-stake-in-video-streaming-firm-iqiyi-sources/wcm/95b7f128-1ed6-4cfd-b2e6-801c719f84e6/amp/",
+      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/chinas-baidu-in-talks-to-sell-majority-stake-in-video-streaming-firm-iqiyi-sources/wcm/95b7f128-1ed6-4cfd-b2e6-801c719f84e6/amp/",
+      "publishedDateTime": "2022-06-15T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-research-claims-military-cannot-rely-on-artificial-intelligence-for-strategy-or-judgment.md",
       "title": "Research claims military cannot rely on Artificial Intelligence for strategy or judgment",
       "excerpt": "The use of artificial intelligence (AI ... and Goldfarb highlight is the Rio Tinto mining company, which uses self-driving trucks to transport materials, reducing costs and risks to human drivers.",
@@ -1288,58 +1322,6 @@
         "name": "The Hindu",
         "domain": "thehindu.com",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-why-is-baidu-stock-rallying.md",
-      "title": "Why Is Baidu Stock Rallying?",
-      "excerpt": "So what’s driving the recent gains and will the momentum hold up for Baidu BIDU? There are a couple of factors driving the recent gains. Firstly, Baidu posted a better than expected set of Q1 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/06/10/why-is-baidu-stock-rallying/",
-      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/06/10/why-is-baidu-stock-rallying/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//627945792c55604b71305590/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 806,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/06/10/why-is-baidu-stock-rallying/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/06/10/why-is-baidu-stock-rallying/amp/",
-      "publishedDateTime": "2022-06-10T03:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

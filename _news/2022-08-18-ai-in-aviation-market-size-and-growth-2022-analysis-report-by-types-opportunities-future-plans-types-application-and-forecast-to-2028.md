@@ -42,29 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine Vision Market Report 2022-2027: Industry Growth, Top Companies Share, Size, and Forecast"
-    excerpt: "According to the latest report by IMARC Group, titled \"Machine Vision Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027,\" the global machine vision market size reached a value of US$ 11."
-    publishedDateTime: 2022-08-18T06:42:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-vision-market-report-2022-2027-industry-growth-top-companies-share-size-and-forecast-2022-08-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI in computer vision Market Growth Drivers 2021, Industry Share, Size, Key Players Strategies, Future Investments and SWOT Analysis till 2027"
-    excerpt: "AI is the capability of machines to carry out intellectual function such as cogitation, perceiving, learning, investigative and decision taking. Factors such as thriving need for quality automation, growing demand for computer vision systems in advanced and arising applications,"
-    publishedDateTime: 2022-08-18T06:15:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-growth-drivers-2021-industry-share-size-key-players-strategies-future-investments-and-swot-analysis-till-2027-2022-08-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
   - title: "Voice Recognition Market generalship Report Industry Size, Segment by Key Companies, Types Applications and Forecast to 2025"
     excerpt: "Global Voice Recognition Market industry valued approximately USD 54.8 billion in 2016 is anticipated to grow with"
     publishedDateTime: 2022-08-18T13:10:00Z

@@ -49,6 +49,20 @@ related:
         width: 960
         height: 540
         isCached: true
+  - title: "A Data Platform for Chatbot Development"
+    excerpt: "One of the most compelling use cases for AI at the moment is developing chatbots and conversational agents. While the AI part of the equation works"
+    publishedDateTime: 2022-08-22T21:31:00Z
+    webUrl: "https://www.datanami.com/2022/08/22/a-data-platform-for-chatbot-development/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 24
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/08/chatbot_army_shutterstock_sdecoret.jpg"
+        width: 1000
+        height: 669
+        isCached: true
 
 secured: "VAiFDaQgfPp3opjVFdjWYOSPjXvkC1KPxmg3LpSEOtR/ICpaCxb+p0E13FYkGqM8/fb0E7NJKkilnczkYEsu6ArEWmnSwhkGMbvs3VO3Eo/Pbjfs2Ayo0iTSH7YWhDZQIYyxUWah6bvCU8Vvd8Fq2B3WMmJjpz359pvQn96C+rHpg4NdRPCb1ETYHFkcRjogLnlpu7cBJjIVgiiZ6fwePW8GAOGHKGN82VQygH+YN+5yIjJF/HtRba7omSjgXObD5xSS406G3M+VCfqPg0hl67NkFHd94WtODImuZErNBgYDb72fw3CkMwBC0gpGryGX6PIMX+MZIiaR5PR1aiAdCsQ5qTEc5UYkoC5rELHkvrbrERXSvP4eFyaF9/PGJpafGQR8wQvoSzi6D1ocW61ogl2vIU9E1zungNLMS2AbP5Vv5Dl808ouaOGlM+vTNnp8p17cfeYHDEkYJro8q6/jIzuYiRHlJnDGy7/XUCwcYpDIfnAsF4VmezDltS5Lj6EK64ZPFda8FZOaop06fkDIpw==;uPNjQ/tQrzBiCUkJniu9Qg=="
 ---

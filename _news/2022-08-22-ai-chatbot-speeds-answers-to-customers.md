@@ -40,6 +40,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "A Data Platform for Chatbot Development"
+    excerpt: "One of the most compelling use cases for AI at the moment is developing chatbots and conversational agents. While the AI part of the equation works"
+    publishedDateTime: 2022-08-22T21:31:00Z
+    webUrl: "https://www.datanami.com/2022/08/22/a-data-platform-for-chatbot-development/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 24
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/08/chatbot_army_shutterstock_sdecoret.jpg"
+        width: 1000
+        height: 669
+        isCached: true
   - title: "Westpac pours millions into US AI chatbot firm"
     excerpt: "Westpac is looking to expand the use and efficacy of AI chatbots across the bank, and has invested millions of dollars into the US tech company that makes them work."
     publishedDateTime: 2022-08-22T13:00:00Z

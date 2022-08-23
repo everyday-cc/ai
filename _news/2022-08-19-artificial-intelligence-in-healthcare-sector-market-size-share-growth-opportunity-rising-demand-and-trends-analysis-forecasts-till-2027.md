@@ -51,20 +51,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Natural Language Processing Market Latest Trends, Size, Key Players, Revenue And Forecast 2022-2031"
-    excerpt: "Kenneth Research released a report on  Global Natural Language Processing Market  consisting of detailed analysis of the market"
-    publishedDateTime: 2022-08-18T06:04:00Z
-    webUrl: "https://menafn.com/1104716154/Global-Natural-Language-Processing-Market-Latest-Trends-Size-Key-Players-Revenue-And-Forecast-2022-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 21
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?208465"
-        width: 444
-        height: 250
-        isCached: true
 
 secured: "NR1VFml/+tv46ACEp22OoGPQhzYLHMjs8UnKBBZfh6fCoe1h1zIYPc6XzlVBIC77g2ULvy6avfNjbOZKucf9KjEUUiwVj8GAi2wU0G0NQPLRWq5+CHdOsMCF6CqgZ995mtv50exr5mIig/JPjZpta2D5bPiaRCeINZc1J6sTEkE3O8uoipnO1m/Oq2dflpdyeyyqI5pRObrbnpTftl8UiXHckuuKXYPsy8q96CW7vi09stBgGGq70Fmvf/BJkgL/ieBeC23xc81dWJHG+xJ/j/EbIoFYndGGXMEcgzTOpjYis/OxwNciXPe9/ZosV6UbeOWMT4GhpSgkmCR0qb/DE0UcKGrYPZOMRqF3fhv9Wv4=;3K/nQRmaOOyiSRv1K2KQ5Q=="
 ---

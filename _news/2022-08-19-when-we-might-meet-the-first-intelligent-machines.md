@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/when-we-might-meet-the-first-intelligent-
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/when-we-might-meet-the-first-intelligent-machines/amp/"
 type: article
 quality: 74
-heat: 85
+heat: 84
 published: true
 
 provider:

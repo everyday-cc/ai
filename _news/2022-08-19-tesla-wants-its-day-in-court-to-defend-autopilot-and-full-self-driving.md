@@ -37,6 +37,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Elon Musk says Tesla is raising price of ‘Full Self-Driving’ feature to $15,000"
+    excerpt: "Elon Musk on Sunday announced the price of Tesla Inc.’s “Full Self-Driving” feature will rise by 25% next month, from $12,000 to $15,000. “After wide release of FSD Beta 10.69.2, price of FSD will rise to $15k in North America on September 5th ..."
+    publishedDateTime: 2022-08-22T14:08:00Z
+    webUrl: "https://www.marketwatch.com/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 100
+    images:
+      - url: "https://images.mktw.net/im-528682/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Tesla’s Full-Self Driving software is going up in price again"
     excerpt: "Tesla’s increasing the price of its Full-Self Driving (FSD) software to $15,000. In a post on Twitter, Tesla CEO Elon Musk announced that the new price will go into effect in North America starting September 5th,"
     publishedDateTime: 2022-08-21T16:42:00Z
@@ -66,6 +82,22 @@ related:
       - url: "https://iframe.nbcnews.com/amp169/thumbnail"
         width: 640
         height: 360
+        isCached: true
+  - title: "Some Tesla drivers use kids as a prop to test 'full self-driving' feature"
+    excerpt: "A software CEO is asking Tesla to ban their 'self-driving' feature until they can prove the software will detect children. In defense of the company, some Tesla enthusiasts used their children as props to show that the feature really works."
+    publishedDateTime: 2022-08-22T22:54:00Z
+    webUrl: "https://www.cnn.com/videos/business-money/2022/08/22/tesla-driver-uses-kids-as-prop-full-self-driving-tapper-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business-money/2022/08/22/tesla-driver-uses-kids-as-prop-full-self-driving-tapper-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business-money/2022/08/22/tesla-driver-uses-kids-as-prop-full-self-driving-tapper-sot-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 88
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220822182904-tesla-driver-kid-prop-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Podcast: Tesla Full Self-Driving Beta test, VPP event, Tesla Semi, and more"
     excerpt: "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. This week, we discussed our Tesla Full Self-Driving Beta test, Tesla’s first VPP event,"

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/3-myths-about-chatbot-design-busted/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-myths-about-chatbot-design-busted/amp/"
 type: article
 quality: 74
-heat: 97
+heat: 104
 published: true
 
 provider:
@@ -44,6 +44,20 @@ related:
       - url: "https://back.3blmedia.com/sites/default/files/inline-images/AI-Chatbot-Speeds-Answers-to-Customers-IS22-009-960.jpeg"
         width: 960
         height: 540
+        isCached: true
+  - title: "A Data Platform for Chatbot Development"
+    excerpt: "One of the most compelling use cases for AI at the moment is developing chatbots and conversational agents. While the AI part of the equation works"
+    publishedDateTime: 2022-08-22T21:31:00Z
+    webUrl: "https://www.datanami.com/2022/08/22/a-data-platform-for-chatbot-development/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 24
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/08/chatbot_army_shutterstock_sdecoret.jpg"
+        width: 1000
+        height: 669
         isCached: true
   - title: "Westpac pours millions into US AI chatbot firm"
     excerpt: "Westpac is looking to expand the use and efficacy of AI chatbots across the bank, and has invested millions of dollars into the US tech company that makes them work."

@@ -43,6 +43,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Elon Musk says Tesla is raising price of ‘Full Self-Driving’ feature to $15,000"
+    excerpt: "Elon Musk on Sunday announced the price of Tesla Inc.’s “Full Self-Driving” feature will rise by 25% next month, from $12,000 to $15,000. “After wide release of FSD Beta 10.69.2, price of FSD will rise to $15k in North America on September 5th ..."
+    publishedDateTime: 2022-08-22T14:08:00Z
+    webUrl: "https://www.marketwatch.com/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442"
+    ampWebUrl: "https://www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442"
+    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 100
+    images:
+      - url: "https://images.mktw.net/im-528682/social"
+        width: 1280
+        height: 640
+        isCached: true
   - title: "Tesla’s Full-Self Driving software is going up in price again"
     excerpt: "Tesla’s increasing the price of its Full-Self Driving (FSD) software to $15,000. In a post on Twitter, Tesla CEO Elon Musk announced that the new price will go into effect in North America starting September 5th,"
     publishedDateTime: 2022-08-21T16:42:00Z
@@ -56,6 +72,22 @@ related:
       - url: "https://cdn.vox-cdn.com/thumbor/wEmS6qeSqPoyWcc1aVYbTgsWqPY=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11423501/acastro_180524_1777_tesla_0003.jpg"
         width: 1200
         height: 628
+        isCached: true
+  - title: "Some Tesla drivers use kids as a prop to test 'full self-driving' feature"
+    excerpt: "A software CEO is asking Tesla to ban their 'self-driving' feature until they can prove the software will detect children. In defense of the company, some Tesla enthusiasts used their children as props to show that the feature really works."
+    publishedDateTime: 2022-08-22T22:54:00Z
+    webUrl: "https://www.cnn.com/videos/business-money/2022/08/22/tesla-driver-uses-kids-as-prop-full-self-driving-tapper-sot-vpx.cnn"
+    ampWebUrl: "https://amp.cnn.com/cnn/videos/business-money/2022/08/22/tesla-driver-uses-kids-as-prop-full-self-driving-tapper-sot-vpx.cnn"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business-money/2022/08/22/tesla-driver-uses-kids-as-prop-full-self-driving-tapper-sot-vpx.cnn"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 88
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220822182904-tesla-driver-kid-prop-super-tease.jpg"
+        width: 1100
+        height: 619
         isCached: true
   - title: "Podcast: Tesla Full Self-Driving Beta test, VPP event, Tesla Semi, and more"
     excerpt: "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. This week, we discussed our Tesla Full Self-Driving Beta test, Tesla’s first VPP event,"
@@ -443,6 +475,6 @@ related:
       domain: barrons.com
     quality: 16
 
-secured: "mdB3Lpye764zhNACqhtGCvsuP/MQLhawLe4+UF70qOxPlizoWGTIt2Zt3/Q5TVz5SUnEveuSrBhn9lY50cEr7EQBRNa0b4VJ0zMTa8YyUc+Cqpvok9HpapHAEXw8c2+nQBG2VMse8EGATGybPJNi8gk9tzLgCZ+B9PHLl8GZO1xL34lBG05LWPaYtp8L+mpCey95VZk+Pw+e8LLfGnmdINO2/JFMRIKYbg+8xDm6MJ3K6/a06ZKxAiiX88BxGr8VqaKCdN8+EVLctkBLij2nVZJOeLFLMS79OOCpkNXcfjkI5rZGPtcWmr/1vfWG1K2nj8ZevV76HiiXw3lP8XjxFIUIbzGuASziyab30DGGIbs=;CYaQ9r7XtqayOtObJpppVg=="
+secured: "uN24+rTt+NAjlHccLVrXiEUFpd3Hbhi9offtyOp5/B+F9fZ2ky/Eq+wj2UfZ2DO4Nub9YONpVH5O/nJ2CB8KoHTIv0oTOZSv++cpekkZJmyNnyIyAwloHSNSOmJ+PTd8vcpO13Y/0jy/jP1FNg4pKtCGtLBSfsGR8b5KancGET4FLxcJEGDyPqdjnmSpwgaIZ3GSPJXsM5j6SH0L5dfFlELrxV/qGujgn7zFU7paOqcYRtK2J4oF7bPmc6fASLKJivynIXicVGZ+erv0GQfwgAjJvkKXKGKBiUkQMvZfNf22331XqKMvq3s9dAMsaaI9TiVY+K5lRY8fWZsBk9GV+OD1QkIIt1NZ9fv9a0kNUWH9Wg+zjoEcEe5Kd1uWI0d5bFGXLgfcdGZnwkPv0/GiOX34/dHLrjee7iCddAi17rlYqJnemWYYTGpkfIvGnpTIdCVKzqmnuXwql5/Zi+MjEa6Fr2Tz7ysukhikg0L50OtaEiifpWbvLcbGejl8eCjs1Vpni3jblkzyuE/VW94cWw==;ZrWQJebOpPop3yhV7qAvrw=="
 ---
 

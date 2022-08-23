@@ -7,7 +7,7 @@ originalUrl: "https://medcitynews.com/2022/08/robotics-and-automation-are-the-fu
 webUrl: "https://medcitynews.com/2022/08/robotics-and-automation-are-the-future-of-healthcare/"
 type: article
 quality: 71
-heat: 83
+heat: 81
 published: true
 
 provider:

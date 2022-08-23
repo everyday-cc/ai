@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/helping-people-understand-ai/amp/"
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/helping-people-understand-ai/amp/"
 type: article
 quality: 109
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Exploring AI ethics and accountability"
+    excerpt: "A schoolchild? The dilemma and its variants are often cited as the type of problems artificial intelligence will have to grapple with as it becomes ever more prevalent in our lives. Driverless cars, for example, will have split seconds to make exactly ..."
+    publishedDateTime: 2022-08-18T16:34:00Z
+    webUrl: "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/"
+    ampWebUrl: "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/"
+    cdnAmpWebUrl: "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/"
+    type: article
+    provider:
+      name: Politico Europe
+      domain: politico.eu
+    quality: 76
+    images:
+      - url: "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2018/02/GettyImages-679721306.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pitching with Artificial intelligence"
     excerpt: "Pressfriendly offers a similar service for startups by using AI to review beat reporters' past coverage and open rates. This intel helps identify the best send times and will increase the likelihood of pickup,"
     publishedDateTime: 2022-08-18T15:58:00Z
