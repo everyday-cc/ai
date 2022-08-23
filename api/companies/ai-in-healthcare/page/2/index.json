@@ -4,32 +4,73 @@
   "page": 2,
   "value": [
     {
-      "path": "_companies/freenome.md",
-      "title": "Freenome",
-      "excerpt": "Freenome is a biotechnology company on a mission to empower everyone with the tools they need to detect, treat, and ultimately prevent their diseases.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/freenome/index.json",
-      "webUrl": "https://everyday.cc/ai/company/freenome/",
+      "path": "_companies/artiq.eu.md",
+      "title": "ArtiQ",
+      "excerpt": "ArtiQ is a young, dynamic and innovative spin-off company of the University of Leuven (Belgium). Company is founded in early 2019 by four committed founders with a long history in respiratory medicine, medical devices and artificial intelligence. Working on a junction of multidisciplinary fields, founders identified opportunity and value that novel technologies could bring to all parties in a respiratory setting: patients, doctors, healthcare system and industry.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/artiq.eu/index.json",
+      "webUrl": "https://everyday.cc/ai/company/artiq.eu/",
       "type": "profile",
-      "name": "Freenome",
-      "overview": "Freenome is a biotechnology company on a mission to empower everyone with the tools they need to detect, treat, and ultimately prevent their diseases.",
-      "website": "https://www.freenome.com/",
+      "name": "ArtiQ",
+      "overview": "ArtiQ is a young, dynamic and innovative spin-off company of the University of Leuven (Belgium). Company is founded in early 2019 by four committed founders with a long history in respiratory medicine, medical devices and artificial intelligence. Working on a junction of multidisciplinary fields, founders identified opportunity and value that novel technologies could bring to all parties in a respiratory setting: patients, doctors, healthcare system and industry.",
+      "website": "https://www.artiq.eu/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/freenome/",
-        "followers": 4285
+        "url": "https://www.linkedin.com/company/artiq-eu",
+        "followers": 651
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/freenome"
+        "url": "https://www.crunchbase.com/organization/artiq"
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2019,
+      "locations": [
+        "Leuven, Flemish Region"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEVVKVOLgh_dg/company-logo_200_200/0?e=1594857600&v=beta&t=KKoISNAcccnopuKE6b3G-zABTOe8fTofb295fUCibz8",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/avawomen.md",
+      "title": "Ava",
+      "excerpt": "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/avawomen/index.json",
+      "webUrl": "https://everyday.cc/ai/company/avawomen/",
+      "type": "profile",
+      "name": "Ava",
+      "overview": "The world’s first smart bracelet to precisely track your fertility, pregnancy and health – all while you sleep.",
+      "website": "https://www.avawomen.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/ava-ag",
+        "followers": 9202
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/ava-3"
       },
       "twitter": {
-        "username": "freenome",
-        "url": "https://www.twitter.com/freenome",
-        "followers": 3472
+        "username": "avawomen",
+        "url": "https://twitter.com/avawomen",
+        "followers": 1660
       },
       "size": "51-200 employees",
       "yearFounded": 2014,
       "locations": [
-        "South San Francisco, CA",
-        "South San Francisco, California"
+        "Zurich, Switzerland",
+        "Zurich"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -40,20 +81,20 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=TrEnNA_kZBI"
+          "url": "https://www.youtube.com/watch?v=Ok_A0kTEGpw"
         }
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/985371277727797249/0wMRLRjP_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/669679794766807040/dG5DHc9Q_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Freenome",
+          "title": "Ava",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEnCMHsfvcusw/company-logo_200_200/0?e=1594857600&v=beta&t=F1H77vwXX4Yg38yNL73XsNMahtYWl67QeRr_u3PE6q4",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHZc7mCj8ugQA/company-logo_200_200/0?e=1594857600&v=beta&t=z0cqMksSh4sqXm3jyISrbJ57kQ2N5qxRYa-BwX--V7c",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -63,31 +104,26 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/gnshealthcare.md",
-      "title": "GNS Healthcare",
-      "excerpt": "We solve healthcare’s matching problem. We provide technology, services, and solutions that precisely match health interventions to individuals, helping our clients improve health outcomes and avoid the billions of healthcare dollars wasted on ineffective treatments.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/gnshealthcare/index.json",
-      "webUrl": "https://everyday.cc/ai/company/gnshealthcare/",
+      "path": "_companies/beaconcure.md",
+      "title": "BeaconCure",
+      "excerpt": "Beaconcure developed an automated solution supported by ML for clinical data validation. It is designed to support regulatory submissions in drug development",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/beaconcure/index.json",
+      "webUrl": "https://everyday.cc/ai/company/beaconcure/",
       "type": "profile",
-      "name": "GNS Healthcare",
-      "overview": "We solve healthcare’s matching problem. We provide technology, services, and solutions that precisely match health interventions to individuals, helping our clients improve health outcomes and avoid the billions of healthcare dollars wasted on ineffective treatments.",
-      "website": "http://www.gnshealthcare.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/gns-healthcare/",
-        "followers": 3017
-      },
+      "name": "BeaconCure",
+      "overview": "Beaconcure developed an automated solution supported by ML for clinical data validation. It is designed to support regulatory submissions in drug development",
+      "website": "https://www.beaconcure.com/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/gns-healthcare"
+        "url": "https://www.crunchbase.com/organization/beaconcure"
       },
       "twitter": {
-        "username": "gnshealthcare",
-        "url": "https://twitter.com/gnshealthcare",
-        "followers": 2611
+        "username": "beaconcure",
+        "url": "https://www.twitter.com/beaconcure",
+        "followers": 14
       },
-      "size": "51-200 employees",
-      "yearFounded": 2000,
+      "yearFounded": 0,
       "locations": [
-        "Cambridge, MA"
+        "Tel Aviv-Yafo, Israel"
       ],
       "topics": [
         "AI",
@@ -95,17 +131,389 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=1063wrnhLHE"
+          "url": "https://www.youtube.com/watch?v=kag2mOw2Tj0"
         }
       ],
       "heat": 50,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1865800231/twitlogo2_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1334450879655796736/8VSbeGNb_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "GNS Healthcare",
+          "title": "BeaconCure",
           "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/botmd.io.md",
+      "title": "Bot M.D.",
+      "excerpt": "Bot M.D. is an A.I assistant for Doctors.  Our A.I. instantly answers doctor questions on drugs, diseases, medical calculators as well as provides automatic voice to text transcriptions. Any doctor with a smartphone can download Bot M.D., making it a highly scalable platform to improve access to care in large markets.  We are always looking to hire awesome Android, React & iOS software developers as well as kickass, Data/ML and Backend engineers. ",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/botmd.io/index.json",
+      "webUrl": "https://everyday.cc/ai/company/botmd.io/",
+      "type": "profile",
+      "name": "Bot M.D.",
+      "otherNames": [
+        "Bot MD",
+        "5 Health",
+        "botmd"
+      ],
+      "overview": "Bot M.D. is an A.I assistant for Doctors.  Our A.I. instantly answers doctor questions on drugs, diseases, medical calculators as well as provides automatic voice to text transcriptions. Any doctor with a smartphone can download Bot M.D., making it a highly scalable platform to improve access to care in large markets.  We are always looking to hire awesome Android, React & iOS software developers as well as kickass, Data/ML and Backend engineers. ",
+      "website": "https://www.botmd.io",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/botmd/",
+        "followers": 173
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/botmd"
+      },
+      "twitter": {
+        "username": "botmdio",
+        "url": "https://twitter.com/botmdio",
+        "followers": 76
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2018,
+      "locations": [
+        "Singapore, Singapore"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=zQLP9b9WHjU"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/998220000413433856/yaAplVmf_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Bot M.D.",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEsB0yDNMietw/company-logo_200_200/0?e=1594857600&v=beta&t=Ne9XHNds3TvWW75VxeSoWQfqC6ZsD0SP-kA5q-9VcJE",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/brainomix.md",
+      "title": "Brainomix",
+      "excerpt": "Brainomix’s vision is to be a world leader in imaging software to support clinical decision making, for neurological and cerebrovascular diseases.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/brainomix/index.json",
+      "webUrl": "https://everyday.cc/ai/company/brainomix/",
+      "type": "profile",
+      "name": "Brainomix",
+      "overview": "Brainomix’s vision is to be a world leader in imaging software to support clinical decision making, for neurological and cerebrovascular diseases.",
+      "website": "http://www.brainomix.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/brainomix",
+        "followers": 1428
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/brainomix"
+      },
+      "twitter": {
+        "username": "brainomix",
+        "url": "https://www.twitter.com/brainomix",
+        "followers": 1109
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2010,
+      "locations": [
+        "Oxford, UK",
+        "Oxford"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=S2eI-YOtTZg"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1315595764765282305/gMF76Sl7_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Brainomix",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/deeplens.ai.md",
+      "title": "Deep Lens",
+      "excerpt": "Deep Lens is an AI company focused on identifying patients for clinical trials using VIPER, an award winning, AI-driven, digital pathology cloud platform which  for over ten years has allowed pathology groups to collaborate on groundbreaking cancer research across dozens of cancer types.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/deeplens.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/deeplens.ai/",
+      "type": "profile",
+      "name": "Deep Lens",
+      "overview": "Deep Lens is an AI company focused on identifying patients for clinical trials using VIPER, an award winning, AI-driven, digital pathology cloud platform which  for over ten years has allowed pathology groups to collaborate on groundbreaking cancer research across dozens of cancer types.",
+      "website": "https://www.deeplens.ai/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/deep-lens/",
+        "followers": 853
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/deep-lens"
+      },
+      "twitter": {
+        "username": "deeplens_ai",
+        "url": "https://twitter.com/deeplens_ai",
+        "followers": 555
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Columbus, OH",
+        "Columbus, Ohio"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "heat": 50,
+      "tags": [
+        "Cancer"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1173441593908445184/lBjF20N__400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Deep Lens",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHGtbVAOcvZaQ/company-logo_200_200/0?e=1594857600&v=beta&t=b8v2Fneb0bMouSAv-SuBaRm-zVivHKqHZbOmORGfNks",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/deepmind.md",
+      "title": "DeepMind",
+      "excerpt": "Artificial intelligence could be one of humanity's most useful inventions. DeepMind aims to build advanced AI to expand our knowledge and find new answers. By solving this one thing, we believe we could help people solve thousands of problems.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/deepmind/index.json",
+      "webUrl": "https://everyday.cc/ai/company/deepmind/",
+      "type": "profile",
+      "name": "DeepMind",
+      "overview": "Artificial intelligence could be one of humanity's most useful inventions. DeepMind aims to build advanced AI to expand our knowledge and find new answers. By solving this one thing, we believe we could help people solve thousands of problems.",
+      "website": "https://deepmind.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/deepmind/",
+        "followers": 93905
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/deepmind"
+      },
+      "twitter": {
+        "username": "deepmindai",
+        "url": "https://twitter.com/deepmindai",
+        "followers": 0
+      },
+      "size": "501-1,000 employees",
+      "yearFounded": 2010,
+      "locations": [
+        "London, UK",
+        "London, London"
+      ],
+      "funding": {
+        "status": "M&A"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=SUbqykXVx0A"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "DeepMind",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQGprhpCEQGNjQ/company-logo_200_200/0?e=1594857600&v=beta&t=tmwM0qvvVgR_Mnwv_tVijP5gQ4u-_7pic-UGMuhbQxo",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/diagnocat.md",
+      "title": "Diagnocat",
+      "excerpt": "Diagnocat AI analyzes dental 3D x-rays, recognizes anatomical areas and detects various pathologies of maxillo-facial area.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/diagnocat/index.json",
+      "webUrl": "https://everyday.cc/ai/company/diagnocat/",
+      "type": "profile",
+      "name": "Diagnocat",
+      "overview": "Diagnocat AI analyzes dental 3D x-rays, recognizes anatomical areas and detects various pathologies of maxillo-facial area.",
+      "website": "http://diagnocat.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/diagnocat",
+        "followers": 42
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/diagnocat"
+      },
+      "size": "2-10 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Moscow, Moscow City",
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=bCv1_PbU_Ow"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHu9yjeG42QzQ/company-logo_200_200/0?e=1594857600&v=beta&t=0jm63TMeGeTyK_DYbh9K6Yb_ROFncAOJ4OC5vwHfCMY",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/eyediagnosis.net.md",
+      "title": "IDx",
+      "excerpt": "IDx is a leading AI diagnostics company on a mission to transform the quality, accessibility, and affordability of healthcare. Founded in 2010 by a team of world-renowned clinician scientists, the company is focused on developing clinically-aligned autonomous algorithms that detect disease in medical images. By enabling diagnostic assessment in primary care settings, IDx aims to increase patient access to high-quality, affordable disease detection.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/eyediagnosis.net/index.json",
+      "webUrl": "https://everyday.cc/ai/company/eyediagnosis.net/",
+      "type": "profile",
+      "name": "IDx",
+      "overview": "IDx is a leading AI diagnostics company on a mission to transform the quality, accessibility, and affordability of healthcare. Founded in 2010 by a team of world-renowned clinician scientists, the company is focused on developing clinically-aligned autonomous algorithms that detect disease in medical images. By enabling diagnostic assessment in primary care settings, IDx aims to increase patient access to high-quality, affordable disease detection.",
+      "website": "https://www.eyediagnosis.net/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/idxtechnologiesinc",
+        "followers": 1172
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/idx-2"
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2010,
+      "locations": [
+        "Coralville, Iowa"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=jmGvEYv3I2E"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQE8hiaDfXNeSg/company-logo_200_200/0?e=1594857600&v=beta&t=bM7iA8YTbzNxDDcP4_h3jtQNJbMwGVJNPz_ehNa7PBo",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/foodvisor.io.md",
+      "title": "Foodvisor",
+      "excerpt": "Your personal nutrition and wellbeing guide. \nGet your custom program created by nutritionists on the app and start your journey to a healthier, happier you ✌",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/foodvisor.io/index.json",
+      "webUrl": "https://everyday.cc/ai/company/foodvisor.io/",
+      "type": "profile",
+      "name": "Foodvisor",
+      "overview": "Your personal nutrition and wellbeing guide. \nGet your custom program created by nutritionists on the app and start your journey to a healthier, happier you ✌",
+      "website": "http://www.foodvisor.io/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/foodvisor/",
+        "followers": 1553
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/foodvisor"
+      },
+      "twitter": {
+        "username": "foodvisor_app",
+        "url": "https://twitter.com/foodvisor_app",
+        "followers": 1180
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2015,
+      "locations": [
+        "Paris, Ile de France"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=H77GQBirQkM"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1478032284414627847/81L5gS3g_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Foodvisor",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQE50pGtmP_m4w/company-logo_200_200/0?e=1594857600&v=beta&t=E5Q9aENJAMmjFQNvwyYhVq2fVhLG3-n-jTdZU7S--iA",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -143,65 +551,6 @@
       "images": [
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHYuBzqN910hw/company-logo_200_200/0?e=1594857600&v=beta&t=PaPJS_YRkaES-G8ZldABvD4ip9R-a9iPMcvebuJSnAM",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/healx.io.md",
-      "title": "Healx",
-      "excerpt": "Healx is an AI-powered and patient-inspired technology company, accelerating the discovery and development of rare disease treatments.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/healx.io/index.json",
-      "webUrl": "https://everyday.cc/ai/company/healx.io/",
-      "type": "profile",
-      "name": "Healx",
-      "overview": "Healx is an AI-powered and patient-inspired technology company, accelerating the discovery and development of rare disease treatments.",
-      "website": "https://healx.io/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/healx/",
-        "followers": 2126
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/healx"
-      },
-      "twitter": {
-        "username": "healx",
-        "url": "https://twitter.com/healx",
-        "followers": 2733
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
-      "locations": [
-        "Cambridge, UK",
-        "Cambridge, Cambridgeshire"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=6ZsujFTH3-A"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1542510713008099328/Qrp2AIRU_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Healx",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFaOvuN38Y6gA/company-logo_200_200/0?e=1594857600&v=beta&t=AnycYfO1V3P33O-PE6iw22z9FgAd2DvOwp8acd6UElE",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -264,52 +613,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/insitro.md",
-      "title": "Insitro",
-      "excerpt": "A data-driven biotech advancing better medicines with predictive models, created by machine learning & biology at scale",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/insitro/index.json",
-      "webUrl": "https://everyday.cc/ai/company/insitro/",
-      "type": "profile",
-      "name": "Insitro",
-      "overview": "A data-driven biotech advancing better medicines with predictive models, created by machine learning & biology at scale",
-      "website": "http://www.insitro.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/insitro/",
-        "followers": 2353
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/insitro"
-      },
-      "twitter": {
-        "username": "insitro",
-        "url": "https://twitter.com/insitro",
-        "followers": 4172
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2018,
-      "locations": [
-        "South San Francisco, CA"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "heat": 50,
-      "tags": [
-        "Biotech"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1263571535463399445/ylMy1iIp_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Insitro",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -403,6 +706,64 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGWkgS5WPdKHQ/company-logo_200_200/0?e=1594857600&v=beta&t=e3nzXqaquirhDtr2eLQt7nfrMN_b1m3MmrmfWG8-_eo",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/labgeni.us.md",
+      "title": "LabGenius",
+      "excerpt": "LabGenius is the first biopharmaceutical company developing next generation protein therapeutics using a machine learning-driven evolution engine (EVA™).",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/labgeni.us/index.json",
+      "webUrl": "https://everyday.cc/ai/company/labgeni.us/",
+      "type": "profile",
+      "name": "LabGenius",
+      "overview": "LabGenius is the first biopharmaceutical company developing next generation protein therapeutics using a machine learning-driven evolution engine (EVA™).",
+      "website": "http://www.labgeni.us/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/labgenius/",
+        "followers": 2073
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/labgenius"
+      },
+      "twitter": {
+        "username": "labgeni_us",
+        "url": "https://twitter.com/labgeni_us",
+        "followers": 2538
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "London, UK"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=wy1AobL6x44"
+        }
+      ],
+      "heat": 50,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1526563861154889729/ar0ihhMG_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "LabGenius",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGBR3Rh4HTaeg/company-logo_200_200/0?e=1594857600&v=beta&t=80aKsG_ar1rvSb5D4EEZlyzv_D4upOEsVzHI170r7T4",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -591,65 +952,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/mediktor.md",
-      "title": "Mediktor",
-      "excerpt": "Free face detection and recogniton API provider. Leading Face Recognition on Cloud.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/mediktor/index.json",
-      "webUrl": "https://everyday.cc/ai/company/mediktor/",
-      "type": "profile",
-      "name": "Mediktor",
-      "overview": "Free face detection and recogniton API provider. Leading Face Recognition on Cloud.",
-      "website": "https://www.mediktor.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/mediktor",
-        "followers": 869
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/teckel-medical"
-      },
-      "twitter": {
-        "username": "Mediktor",
-        "url": "https://twitter.com/Mediktor",
-        "followers": 2658
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2011,
-      "locations": [
-        "Beijing, China",
-        "Barcelona, Cataluña / Catalunya"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=VrnosHhMfgA"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1417523717513560068/HlhDXSXf_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Mediktor",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHEYqgnmCjhZg/company-logo_200_200/0?e=1594857600&v=beta&t=73PMeeLZjqgIWE7R_CONeYVNGUHxlASyQ-ZSchElGyk",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/metabiota.md",
       "title": "Metabiota",
       "excerpt": "Metabiota leverages health, science and data analytics to gain actionable insights into human and animal health.",
@@ -731,52 +1033,6 @@
           "height": 400,
           "title": "logo",
           "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/niramai.md",
-      "title": "Niramai Health Analytix",
-      "excerpt": "Applying #AI and #ML to the toughest business challenges. LinkedIn 2018 #1 B2B Startup. Gartner Cool Vendor. Your source for Enterprise AI®",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/niramai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/niramai/",
-      "type": "profile",
-      "name": "Niramai Health Analytix",
-      "overview": "Applying #AI and #ML to the toughest business challenges. LinkedIn 2018 #1 B2B Startup. Gartner Cool Vendor. Your source for Enterprise AI®",
-      "website": "http://www.niramai.com",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/niramai-health-analytix"
-      },
-      "twitter": {
-        "username": "niramaianalytix",
-        "url": "https://twitter.com/niramaianalytix",
-        "followers": 1046
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Rich Jerk Headquarters, USA"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=3mx-g-RJoKg"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/755680998478741504/NpmYIAXx_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Niramai Health Analytix",
-          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -1074,122 +1330,6 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/recursionpharma.md",
-      "title": "Recursion Pharmaceuticals",
-      "excerpt": "Recursion is a clinical-stage biotechnology company combining experimental biology and automation with artificial intelligence in a massively parallel system to efficiently discover potential drugs for diverse indications, including genetic disease, inflammation, immunology, and infectious disease. Recursion applies causative perturbations to human cells to generate disease models and associated biological image data. Recursion’s rich, relatable database of more than a petabyte of biological images generated in-house on the company’s robotics platform enables advanced machine learning approaches to reveal drug candidates, mechanisms of action, and potential toxicity, with the eventual goal of decoding biology and advancing new therapeutics to radically improve lives. Recursion is headquartered in Salt Lake City.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/recursionpharma/index.json",
-      "webUrl": "https://everyday.cc/ai/company/recursionpharma/",
-      "type": "profile",
-      "name": "Recursion Pharmaceuticals",
-      "overview": "Recursion is a clinical-stage biotechnology company combining experimental biology and automation with artificial intelligence in a massively parallel system to efficiently discover potential drugs for diverse indications, including genetic disease, inflammation, immunology, and infectious disease. Recursion applies causative perturbations to human cells to generate disease models and associated biological image data. Recursion’s rich, relatable database of more than a petabyte of biological images generated in-house on the company’s robotics platform enables advanced machine learning approaches to reveal drug candidates, mechanisms of action, and potential toxicity, with the eventual goal of decoding biology and advancing new therapeutics to radically improve lives. Recursion is headquartered in Salt Lake City.",
-      "website": "https://www.recursionpharma.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/recursion-pharmaceuticals",
-        "followers": 6053
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/recursion-pharmaceuticals"
-      },
-      "twitter": {
-        "username": "RecursionPharma",
-        "url": "https://twitter.com/RecursionPharma",
-        "followers": 5584
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "Salt Lake City, Utah"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=y3Hsh4fPxuQ"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/925897897165639683/jI8YvBfC_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Recursion Pharmaceuticals",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFavbiUUsfvSg/company-logo_200_200/0?e=1594857600&v=beta&t=X4DgJQniVYQVIS5GiuZtueDApYAoKbYf1eeeTETZ-Lk",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/robinhealthcare.md",
-      "title": "Robin Healthcare",
-      "excerpt": "Robin Healthcare is an innovative healthcare partner that combines the power of artificial intelligence (AI), voice recognition, and domestic virtual medical scribes and care coordinators to solve healthcare biggest challenges and inefficiencies.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/robinhealthcare/index.json",
-      "webUrl": "https://everyday.cc/ai/company/robinhealthcare/",
-      "type": "profile",
-      "name": "Robin Healthcare",
-      "overview": "Robin Healthcare is an innovative healthcare partner that combines the power of artificial intelligence (AI), voice recognition, and domestic virtual medical scribes and care coordinators to solve healthcare biggest challenges and inefficiencies.",
-      "website": "https://www.robinhealthcare.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/robin-healthcare/",
-        "followers": 606
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/robin-healthcare"
-      },
-      "twitter": {
-        "username": "robinhealthco",
-        "url": "https://twitter.com/robinhealthco",
-        "followers": 114
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Berkeley, CA"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=OeJ_m-PYEJ8"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1338632807611035650/kDlF5Ppp_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Robin Healthcare",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFB-QU7WfLt7w/company-logo_200_200/0?e=1594857600&v=beta&t=HJZdlvuhAIoszPAVeOhac8xgQUIVXYerJGvv0q1yWvs",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
       "path": "_companies/sightdx.md",
       "title": "Sight Diagnostics",
       "excerpt": "The faster we diagnose, the faster we can treat. At Sight Diagnostics, we aim to improve health through faster and pain-free diagnostic testing.",
@@ -1274,58 +1414,6 @@
           "width": 400,
           "height": 400,
           "title": "Skychain Global",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/sophiagenetics.md",
-      "title": "Sophia Genetics",
-      "excerpt": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sophiagenetics/index.json",
-      "webUrl": "https://everyday.cc/ai/company/sophiagenetics/",
-      "type": "profile",
-      "name": "Sophia Genetics",
-      "overview": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
-      "website": "https://www.sophiagenetics.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/sophiagenetics/",
-        "followers": 25618
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/sophia-genetics"
-      },
-      "twitter": {
-        "username": "sophiagenetics",
-        "url": "https://twitter.com/sophiagenetics",
-        "followers": 21726
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2011,
-      "locations": [
-        "Switzerland",
-        "Saint Sulpice"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=KSr8445vqPg"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1400903436854571012/wx96H1fl_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Sophia Genetics",
           "isCached": true
         }
       ],
@@ -1473,96 +1561,6 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C560BAQHdPzVaJWQMKQ/company-logo_200_200/0?e=1594857600&v=beta&t=yG7oyEeE3jwVztdO67qY21-DVWPyDIifkT1jpTZvq6g",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/ucare.ai.md",
-      "title": "Ucare.ai",
-      "excerpt": "UCare.ai is a Singapore-based Artificial Intelligence-powered healthcare startup.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/ucare.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/ucare.ai/",
-      "type": "profile",
-      "name": "Ucare.ai",
-      "overview": "UCare.ai is a Singapore-based Artificial Intelligence-powered healthcare startup.",
-      "website": "http://www.ucare.ai/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/ucare-io"
-      },
-      "yearFounded": 0,
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=9A5bFTeS1uw"
-        }
-      ],
-      "heat": 50,
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/viz.ai.md",
-      "title": "Viz",
-      "excerpt": "Viz.ai, Inc is emerging as the leader in applied artificial intelligence in healthcare. Our mission is to fundamentally improve how healthcare is delivered in the world, through intelligent software that promises to reduce time to treatment and improve access to care.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/viz.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/viz.ai/",
-      "type": "profile",
-      "name": "Viz",
-      "otherNames": [
-        "Viz.ai Inc."
-      ],
-      "overview": "Viz.ai, Inc is emerging as the leader in applied artificial intelligence in healthcare. Our mission is to fundamentally improve how healthcare is delivered in the world, through intelligent software that promises to reduce time to treatment and improve access to care.",
-      "website": "https://www.viz.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/viz.ai",
-        "followers": 4660
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/viz"
-      },
-      "twitter": {
-        "username": "viz_ai",
-        "url": "https://twitter.com/viz_ai",
-        "followers": 2079
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=y3P9aVwDOig"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1544757222051291136/t6_fi0V0_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Viz",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQECPWOsd6AcBg/company-logo_200_200/0?e=1594857600&v=beta&t=F79EbLklely70ypxhAuvR6eGKKtViXJYcwuCZhvlbx4",
           "width": 400,
           "height": 400,
           "title": "logo",

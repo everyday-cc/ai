@@ -4,61 +4,32 @@
   "page": 3,
   "value": [
     {
-      "path": "_companies/winterlightlabs.md",
-      "title": "Winterlight Labs",
-      "excerpt": "Like a lighthouse providing early warning in the dark of night, changes in language can signal cognitive decline decades before symptoms of dementia become apparent. Currently, over 47.5 million individuals in the world have dementia, and that number is expected to triple by 2050.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/winterlightlabs/index.json",
-      "webUrl": "https://everyday.cc/ai/company/winterlightlabs/",
+      "path": "_companies/ucare.ai.md",
+      "title": "Ucare.ai",
+      "excerpt": "UCare.ai is a Singapore-based Artificial Intelligence-powered healthcare startup.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/ucare.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/ucare.ai/",
       "type": "profile",
-      "name": "Winterlight Labs",
-      "overview": "Like a lighthouse providing early warning in the dark of night, changes in language can signal cognitive decline decades before symptoms of dementia become apparent. Currently, over 47.5 million individuals in the world have dementia, and that number is expected to triple by 2050.",
-      "website": "https://winterlightlabs.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/winterlight-labs/",
-        "followers": 553
-      },
+      "name": "Ucare.ai",
+      "overview": "UCare.ai is a Singapore-based Artificial Intelligence-powered healthcare startup.",
+      "website": "http://www.ucare.ai/",
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/winterlight"
+        "url": "https://www.crunchbase.com/organization/ucare-io"
       },
-      "twitter": {
-        "username": "winterlightlabs",
-        "url": "https://twitter.com/winterlightlabs",
-        "followers": 868
-      },
-      "size": "2-10 employees",
-      "yearFounded": 2015,
-      "locations": [
-        "Toronto, Ontario"
-      ],
+      "yearFounded": 0,
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "Natural Language Processing",
-        "Machine Learning",
         "AI in Healthcare"
       ],
-      "heat": 50,
-      "tags": [
-        "Speech Recognition"
-      ],
-      "images": [
+      "videos": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1231015497795280896/hqtPAxoM_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Winterlight Labs",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFS4mXeSS80Eg/company-logo_200_200/0?e=1594857600&v=beta&t=QTmSdUlQjGLaEt_aLH8KIn90rplC6rE-7brLgalh5jo",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
+          "url": "https://www.youtube.com/watch?v=9A5bFTeS1uw"
         }
       ],
+      "heat": 50,
       "content": "\r\n"
     },
     {
@@ -115,91 +86,31 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/zymergen.md",
-      "title": "Zymergen",
-      "excerpt": "Founded in 2013 and based in the San Francisco Bay Area, Zymergen integrates automation, machine learning, and genomics to rapidly accelerate the pace of scientific advancement. We treat the genome as a search space, leveraging machine learning to make discoveries far beyond the bounds of human intuition. In doing so, we deliver economic value, material diversity and performance capabilities not previously possible.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/zymergen/index.json",
-      "webUrl": "https://everyday.cc/ai/company/zymergen/",
+      "path": "_companies/fdna.md",
+      "title": "FDNA",
+      "excerpt": "We're a technology company based in NYC on a mission to improve lives by learning from the experience of every cancer patient.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/fdna/index.json",
+      "webUrl": "https://everyday.cc/ai/company/fdna/",
       "type": "profile",
-      "name": "Zymergen",
-      "overview": "Founded in 2013 and based in the San Francisco Bay Area, Zymergen integrates automation, machine learning, and genomics to rapidly accelerate the pace of scientific advancement. We treat the genome as a search space, leveraging machine learning to make discoveries far beyond the bounds of human intuition. In doing so, we deliver economic value, material diversity and performance capabilities not previously possible.",
-      "website": "https://www.zymergen.com/",
+      "name": "FDNA",
+      "overview": "We're a technology company based in NYC on a mission to improve lives by learning from the experience of every cancer patient.",
+      "website": "https://www.fdna.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/zymergen-inc-/",
-        "followers": 10307
+        "url": "https://www.linkedin.com/company/fdna",
+        "followers": 1151
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/zymergen"
+        "url": "https://www.crunchbase.com/organization/fdna-inc"
       },
       "twitter": {
-        "username": "zymergen",
-        "url": "https://twitter.com/zymergen",
-        "followers": 9164
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "Emeryville, CA"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=658kvYgrJBE"
-        }
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1544365097446957056/1RQ-ypvq_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Zymergen",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFVJWz7dfMRiw/company-logo_200_200/0?e=1594857600&v=beta&t=rhBDRCG7z5wL4oYEWBCdYg_mi_C6R5CsTQCu49nbr6k",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/care.ai.md",
-      "title": "care.ai",
-      "excerpt": "care.ai is the first and only AI-powered autonomous monitoring platform for healthcare. As an AI company, we are focused on using our transformative innovation to bring a meaningful impact to healthcare, improving outcomes and saving millions of lives every year; while making the jobs of providers more productive and fulfilling. care.ai’s platform connects to our purpose-built AI accelerated, edge sensors, to transform ordinary rooms into Self-Aware Rooms™. We are working on disrupting and changing the way care is delivered.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/care.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/care.ai/",
-      "type": "profile",
-      "name": "care.ai",
-      "overview": "care.ai is the first and only AI-powered autonomous monitoring platform for healthcare. As an AI company, we are focused on using our transformative innovation to bring a meaningful impact to healthcare, improving outcomes and saving millions of lives every year; while making the jobs of providers more productive and fulfilling. care.ai’s platform connects to our purpose-built AI accelerated, edge sensors, to transform ordinary rooms into Self-Aware Rooms™. We are working on disrupting and changing the way care is delivered.",
-      "website": "https://care.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/careai/",
-        "followers": 183
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/care-ai"
-      },
-      "twitter": {
-        "username": "caredotai",
-        "url": "https://twitter.com/caredotai",
-        "followers": 558
+        "username": "FDNA",
+        "url": "https://twitter.com/FDNA",
+        "followers": 6323
       },
       "size": "11-50 employees",
-      "yearFounded": 2019,
+      "yearFounded": 2011,
       "locations": [
-        "Orlando, FL",
-        "Orlando, Florida"
+        "Boston, MA"
       ],
       "topics": [
         "AI",
@@ -207,20 +118,23 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=DWTje5pDap0"
+          "url": "https://www.youtube.com/watch?v=qUDQnRMJOcw"
         }
       ],
       "heat": 42,
+      "tags": [
+        "Cancer"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1166114647180812288/iWPPi_wm_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1280825066377416707/qtusxek3_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "care.ai",
+          "title": "FDNA",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQE2U7Qc6g0wKQ/company-logo_200_200/0?e=1594857600&v=beta&t=vIG3AvYSZPdUVZRvDUoOvS7renFb2xtAFGLOg-zbWwA",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFPigzRHh6z8A/company-logo_200_200/0?e=1594857600&v=beta&t=9DM7xRDfFMkueOV4i4_4EjmyDN-c3k1q_nRGaBQ31QY",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -230,31 +144,32 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/labgeni.us.md",
-      "title": "LabGenius",
-      "excerpt": "LabGenius is the first biopharmaceutical company developing next generation protein therapeutics using a machine learning-driven evolution engine (EVA™).",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/labgeni.us/index.json",
-      "webUrl": "https://everyday.cc/ai/company/labgeni.us/",
+      "path": "_companies/healx.io.md",
+      "title": "Healx",
+      "excerpt": "Healx is an AI-powered and patient-inspired technology company, accelerating the discovery and development of rare disease treatments.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/healx.io/index.json",
+      "webUrl": "https://everyday.cc/ai/company/healx.io/",
       "type": "profile",
-      "name": "LabGenius",
-      "overview": "LabGenius is the first biopharmaceutical company developing next generation protein therapeutics using a machine learning-driven evolution engine (EVA™).",
-      "website": "http://www.labgeni.us/",
+      "name": "Healx",
+      "overview": "Healx is an AI-powered and patient-inspired technology company, accelerating the discovery and development of rare disease treatments.",
+      "website": "https://healx.io/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/labgenius/",
-        "followers": 2073
+        "url": "https://www.linkedin.com/company/healx/",
+        "followers": 2126
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/labgenius"
+        "url": "https://www.crunchbase.com/organization/healx"
       },
       "twitter": {
-        "username": "labgeni_us",
-        "url": "https://twitter.com/labgeni_us",
-        "followers": 2538
+        "username": "healx",
+        "url": "https://twitter.com/healx",
+        "followers": 2733
       },
       "size": "11-50 employees",
-      "yearFounded": 2012,
+      "yearFounded": 2014,
       "locations": [
-        "London, UK"
+        "Cambridge, UK",
+        "Cambridge, Cambridgeshire"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -265,20 +180,78 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=wy1AobL6x44"
+          "url": "https://www.youtube.com/watch?v=6ZsujFTH3-A"
         }
       ],
       "heat": 42,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1526563861154889729/ar0ihhMG_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1542510713008099328/Qrp2AIRU_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "LabGenius",
+          "title": "Healx",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQGBR3Rh4HTaeg/company-logo_200_200/0?e=1594857600&v=beta&t=80aKsG_ar1rvSb5D4EEZlyzv_D4upOEsVzHI170r7T4",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFaOvuN38Y6gA/company-logo_200_200/0?e=1594857600&v=beta&t=AnycYfO1V3P33O-PE6iw22z9FgAd2DvOwp8acd6UElE",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/robinhealthcare.md",
+      "title": "Robin Healthcare",
+      "excerpt": "Robin Healthcare is an innovative healthcare partner that combines the power of artificial intelligence (AI), voice recognition, and domestic virtual medical scribes and care coordinators to solve healthcare biggest challenges and inefficiencies.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/robinhealthcare/index.json",
+      "webUrl": "https://everyday.cc/ai/company/robinhealthcare/",
+      "type": "profile",
+      "name": "Robin Healthcare",
+      "overview": "Robin Healthcare is an innovative healthcare partner that combines the power of artificial intelligence (AI), voice recognition, and domestic virtual medical scribes and care coordinators to solve healthcare biggest challenges and inefficiencies.",
+      "website": "https://www.robinhealthcare.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/robin-healthcare/",
+        "followers": 606
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/robin-healthcare"
+      },
+      "twitter": {
+        "username": "robinhealthco",
+        "url": "https://twitter.com/robinhealthco",
+        "followers": 114
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2017,
+      "locations": [
+        "Berkeley, CA"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=OeJ_m-PYEJ8"
+        }
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1338632807611035650/kDlF5Ppp_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Robin Healthcare",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFB-QU7WfLt7w/company-logo_200_200/0?e=1594857600&v=beta&t=HJZdlvuhAIoszPAVeOhac8xgQUIVXYerJGvv0q1yWvs",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -342,196 +315,84 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/affectiva.md",
-      "title": "Affectiva",
-      "excerpt": "Affectiva, an MIT Media Lab spin-off, is the pioneer in Emotion AI, the next frontier of artificial intelligence. Affectiva’s mission is to bring emotional intelligence to the digital world with our emotion recognition technology that senses and analyzes facial expressions and emotion. Our patented software is built on an emotion AI science platform that uses computer vision, deep learning and the world’s largest emotion data repository of more than 4.9 million faces analyzed from 75 countries, amounting to more than 50 billion emotion data points.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/affectiva/index.json",
-      "webUrl": "https://everyday.cc/ai/company/affectiva/",
+      "path": "_companies/sophiagenetics.md",
+      "title": "Sophia Genetics",
+      "excerpt": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sophiagenetics/index.json",
+      "webUrl": "https://everyday.cc/ai/company/sophiagenetics/",
       "type": "profile",
-      "name": "Affectiva",
-      "overview": "Affectiva, an MIT Media Lab spin-off, is the pioneer in Emotion AI, the next frontier of artificial intelligence. Affectiva’s mission is to bring emotional intelligence to the digital world with our emotion recognition technology that senses and analyzes facial expressions and emotion. Our patented software is built on an emotion AI science platform that uses computer vision, deep learning and the world’s largest emotion data repository of more than 4.9 million faces analyzed from 75 countries, amounting to more than 50 billion emotion data points.",
-      "website": "https://www.affectiva.com/",
+      "name": "Sophia Genetics",
+      "overview": "SOPHiA GENETICS improves patients diagnoses through accurate and fast genomic data analysis powered by SOPHiA AI. Watch the video: https://t.co/MsqztedvMG",
+      "website": "https://www.sophiagenetics.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/722122",
-        "followers": 17739
+        "url": "https://www.linkedin.com/company/sophiagenetics/",
+        "followers": 25618
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/affectiva"
+        "url": "https://www.crunchbase.com/organization/sophia-genetics"
       },
       "twitter": {
-        "username": "affectiva",
-        "url": "https://twitter.com/affectiva",
-        "followers": 11606
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2009,
-      "locations": [
-        "Boston, MA",
-        "Boston, Massachusetts"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "heat": 32,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1456366848270864387/YVtGvI_5_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Affectiva",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHdgG2Rpte8yg/company-logo_200_200/0?e=1594857600&v=beta&t=ltljFWKLor6yxVPpeeyIWSkDtHiamTxXwAvV9QrJYFE",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/aidoc.md",
-      "title": "Aidoc",
-      "excerpt": "Utilizing #AI #deeplearning to flag abnormalities as they enter the #radiology #worklist",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/aidoc/index.json",
-      "webUrl": "https://everyday.cc/ai/company/aidoc/",
-      "type": "profile",
-      "name": "Aidoc",
-      "overview": "Utilizing #AI #deeplearning to flag abnormalities as they enter the #radiology #worklist",
-      "website": "http://aidoc.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/aidoc-inc/",
-        "followers": 57
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/aidoc"
-      },
-      "twitter": {
-        "username": "aidocmed",
-        "url": "https://twitter.com/aidocmed",
-        "followers": 2606
-      },
-      "size": "11-50 employees",
-      "yearFounded": 2008,
-      "locations": [
-        "Los Angeles, CA",
-        "Richmond Hill, Ontario"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=r3g_VCI2B4U"
-        }
-      ],
-      "heat": 32,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/943513551695728640/wB-95_tX_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Aidoc",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/arterys.md",
-      "title": "Arterys",
-      "excerpt": "Arterys was founded to facilitate the global advancement of medicine through data, artificial intelligence and technology. Because a significant proportion of the world's medical data resides in medical images, Arterys set out to tackle several issues around the space, including the enormous workloads radiologists face, the lack of accuracy with many of today's tools, and the need for increased consistency across practices. The company was the first to receive FDA clearance for a cloud-based product with Artificial Intelligence, and currently has 5 FDA clearances, and is active in 28 countries. Arterys continues to focus solving some of radiology's most pressing needs.  By making imaging diagnostics quantitative, intelligent and available, Arterys seeks to improve the lives of millions of patients. Arterys has offices in San Francisco, Calgary and Paris. For more information, please visit www.arterys.com. Follow Arterys on Twitter at @ArterysInc at https://twitter.com/ArterysInc.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/arterys/index.json",
-      "webUrl": "https://everyday.cc/ai/company/arterys/",
-      "type": "profile",
-      "name": "Arterys",
-      "overview": "Arterys was founded to facilitate the global advancement of medicine through data, artificial intelligence and technology. Because a significant proportion of the world's medical data resides in medical images, Arterys set out to tackle several issues around the space, including the enormous workloads radiologists face, the lack of accuracy with many of today's tools, and the need for increased consistency across practices. The company was the first to receive FDA clearance for a cloud-based product with Artificial Intelligence, and currently has 5 FDA clearances, and is active in 28 countries. Arterys continues to focus solving some of radiology's most pressing needs.  By making imaging diagnostics quantitative, intelligent and available, Arterys seeks to improve the lives of millions of patients. Arterys has offices in San Francisco, Calgary and Paris. For more information, please visit www.arterys.com. Follow Arterys on Twitter at @ArterysInc at https://twitter.com/ArterysInc.",
-      "website": "https://arterys.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/2649064",
-        "followers": 6047
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/arterys"
-      },
-      "twitter": {
-        "username": "arterysinc",
-        "url": "https://twitter.com/arterysinc",
-        "followers": 2059
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=R_GU1ne-oW0"
-        }
-      ],
-      "heat": 32,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1546619514241949696/hGcPK5ti_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Arterys",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQFhL4_2ejOtlw/company-logo_200_200/0?e=1594857600&v=beta&t=l9eM-s7ww1obvrLKjSPoC1TPLxI276WNl2R6ANcJQY4",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/ada.md",
-      "title": "Ada Health",
-      "excerpt": "Ada is a global health company founded by doctors, scientists, and industry pioneers to create new possibilities for personal health. Ada’s core system connects medical knowledge with intelligent technology to help all people actively manage their health and medical professionals to deliver effective care. Ada is proud to collaborate with leading health systems and global non-profit organizations to carry out this vision. The #1 medical app for 140 countries, 15 million assessments have been completed since its global launch in 2016.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/ada/index.json",
-      "webUrl": "https://everyday.cc/ai/company/ada/",
-      "type": "profile",
-      "name": "Ada Health",
-      "overview": "Ada is a global health company founded by doctors, scientists, and industry pioneers to create new possibilities for personal health. Ada’s core system connects medical knowledge with intelligent technology to help all people actively manage their health and medical professionals to deliver effective care. Ada is proud to collaborate with leading health systems and global non-profit organizations to carry out this vision. The #1 medical app for 140 countries, 15 million assessments have been completed since its global launch in 2016.",
-      "website": "https://ada.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/ada-health",
-        "followers": 8484
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/adahealth"
-      },
-      "twitter": {
-        "username": "adahealth",
-        "url": "https://twitter.com/adahealth",
-        "followers": 37106
+        "username": "sophiagenetics",
+        "url": "https://twitter.com/sophiagenetics",
+        "followers": 21725
       },
       "size": "201-500 employees",
       "yearFounded": 2011,
       "locations": [
-        "Berlin, Berlin"
+        "Switzerland",
+        "Saint Sulpice"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=KSr8445vqPg"
+        }
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1400903436854571012/wx96H1fl_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Sophia Genetics",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/freenome.md",
+      "title": "Freenome",
+      "excerpt": "Freenome is a biotechnology company on a mission to empower everyone with the tools they need to detect, treat, and ultimately prevent their diseases.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/freenome/index.json",
+      "webUrl": "https://everyday.cc/ai/company/freenome/",
+      "type": "profile",
+      "name": "Freenome",
+      "overview": "Freenome is a biotechnology company on a mission to empower everyone with the tools they need to detect, treat, and ultimately prevent their diseases.",
+      "website": "https://www.freenome.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/freenome/",
+        "followers": 4285
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/freenome"
+      },
+      "twitter": {
+        "username": "freenome",
+        "url": "https://www.twitter.com/freenome",
+        "followers": 3472
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2014,
+      "locations": [
+        "South San Francisco, CA",
+        "South San Francisco, California"
       ],
       "funding": {
         "status": "Early Stage Venture"
@@ -542,20 +403,20 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=_ZTcf1iJCMQ"
+          "url": "https://www.youtube.com/watch?v=TrEnNA_kZBI"
         }
       ],
-      "heat": 20,
+      "heat": 32,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/822034097702928384/sBXKrudm_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/985371277727797249/0wMRLRjP_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Ada Health",
+          "title": "Freenome",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C510BAQGZBwMMCCXb0A/company-logo_200_200/0?e=1594857600&v=beta&t=Bern1o2aAmybykAlzfwA_HLoxywKAwIJODF5fbqiOro",
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQEnCMHsfvcusw/company-logo_200_200/0?e=1594857600&v=beta&t=F1H77vwXX4Yg38yNL73XsNMahtYWl67QeRr_u3PE6q4",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -565,61 +426,108 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/enlitic.md",
-      "title": "Enlitic",
-      "excerpt": "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/enlitic/index.json",
-      "webUrl": "https://everyday.cc/ai/company/enlitic/",
+      "path": "_companies/zymergen.md",
+      "title": "Zymergen",
+      "excerpt": "Founded in 2013 and based in the San Francisco Bay Area, Zymergen integrates automation, machine learning, and genomics to rapidly accelerate the pace of scientific advancement. We treat the genome as a search space, leveraging machine learning to make discoveries far beyond the bounds of human intuition. In doing so, we deliver economic value, material diversity and performance capabilities not previously possible.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/zymergen/index.json",
+      "webUrl": "https://everyday.cc/ai/company/zymergen/",
       "type": "profile",
-      "name": "Enlitic",
-      "overview": "Enlitic is shaping the next generation of diagnostic healthcare tools to help patients around the globe. By using AI and deep learning, we help Radiologists identify diseases and medical issues (e.g cancers and tumors) more accurately and earlier. We believe we are working on one of the biggest social impact opportunities in healthcare and are deploying our technology around the globe in areas that lack proper specialists, helping patients get diagnosed quickly with more accuracy.",
-      "website": "https://www.enlitic.com/",
+      "name": "Zymergen",
+      "overview": "Founded in 2013 and based in the San Francisco Bay Area, Zymergen integrates automation, machine learning, and genomics to rapidly accelerate the pace of scientific advancement. We treat the genome as a search space, leveraging machine learning to make discoveries far beyond the bounds of human intuition. In doing so, we deliver economic value, material diversity and performance capabilities not previously possible.",
+      "website": "https://www.zymergen.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/enlitic/",
-        "followers": 3397
+        "url": "https://www.linkedin.com/company/zymergen-inc-/",
+        "followers": 10307
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/enlitic"
+        "url": "https://www.crunchbase.com/organization/zymergen"
       },
       "twitter": {
-        "username": "enlitic",
-        "url": "https://twitter.com/enlitic",
-        "followers": 4578
+        "username": "zymergen",
+        "url": "https://twitter.com/zymergen",
+        "followers": 9163
       },
-      "size": "11-50 employees",
-      "yearFounded": 2014,
+      "size": "201-500 employees",
+      "yearFounded": 2013,
       "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
+        "Emeryville, CA"
       ],
       "funding": {
-        "status": "Early Stage Venture"
+        "status": "Late Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Healthcare",
-        "Computer Vision",
-        "Natural Language Processing"
+        "Machine Learning",
+        "AI in Healthcare"
       ],
-      "heat": 20,
-      "tags": [
-        "Image Recognition",
-        "Cancer"
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=658kvYgrJBE"
+        }
       ],
+      "heat": 32,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1143736834364542977/uR2TWmI6_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1544365097446957056/1RQ-ypvq_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Enlitic",
+          "title": "Zymergen",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHYXXUY_794vA/company-logo_200_200/0?e=1594857600&v=beta&t=Doarwq3lD-qIoxM8JAzPRqwpkzpzbHHssvb7AE4dC1w",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQFVJWz7dfMRiw/company-logo_200_200/0?e=1594857600&v=beta&t=rhBDRCG7z5wL4oYEWBCdYg_mi_C6R5CsTQCu49nbr6k",
           "width": 400,
           "height": 400,
           "title": "logo",
           "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/gnshealthcare.md",
+      "title": "GNS Healthcare",
+      "excerpt": "We solve healthcare’s matching problem. We provide technology, services, and solutions that precisely match health interventions to individuals, helping our clients improve health outcomes and avoid the billions of healthcare dollars wasted on ineffective treatments.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/gnshealthcare/index.json",
+      "webUrl": "https://everyday.cc/ai/company/gnshealthcare/",
+      "type": "profile",
+      "name": "GNS Healthcare",
+      "overview": "We solve healthcare’s matching problem. We provide technology, services, and solutions that precisely match health interventions to individuals, helping our clients improve health outcomes and avoid the billions of healthcare dollars wasted on ineffective treatments.",
+      "website": "http://www.gnshealthcare.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/gns-healthcare/",
+        "followers": 3017
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/gns-healthcare"
+      },
+      "twitter": {
+        "username": "gnshealthcare",
+        "url": "https://twitter.com/gnshealthcare",
+        "followers": 2611
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2000,
+      "locations": [
+        "Cambridge, MA"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=1063wrnhLHE"
+        }
+      ],
+      "heat": 20,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1865800231/twitlogo2_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "GNS Healthcare",
+          "isCached": true
         }
       ],
       "content": "\r\n"
@@ -674,6 +582,64 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHYALbKXKAw2A/company-logo_200_200/0?e=1594857600&v=beta&t=idXRJ3xfn8wsiEkYr1-B9-00-MQARTWTto6bjrvMJGs",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/ada.md",
+      "title": "Ada Health",
+      "excerpt": "Ada is a global health company founded by doctors, scientists, and industry pioneers to create new possibilities for personal health. Ada’s core system connects medical knowledge with intelligent technology to help all people actively manage their health and medical professionals to deliver effective care. Ada is proud to collaborate with leading health systems and global non-profit organizations to carry out this vision. The #1 medical app for 140 countries, 15 million assessments have been completed since its global launch in 2016.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/ada/index.json",
+      "webUrl": "https://everyday.cc/ai/company/ada/",
+      "type": "profile",
+      "name": "Ada Health",
+      "overview": "Ada is a global health company founded by doctors, scientists, and industry pioneers to create new possibilities for personal health. Ada’s core system connects medical knowledge with intelligent technology to help all people actively manage their health and medical professionals to deliver effective care. Ada is proud to collaborate with leading health systems and global non-profit organizations to carry out this vision. The #1 medical app for 140 countries, 15 million assessments have been completed since its global launch in 2016.",
+      "website": "https://ada.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/ada-health",
+        "followers": 8484
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/adahealth"
+      },
+      "twitter": {
+        "username": "adahealth",
+        "url": "https://twitter.com/adahealth",
+        "followers": 37105
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2011,
+      "locations": [
+        "Berlin, Berlin"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=_ZTcf1iJCMQ"
+        }
+      ],
+      "heat": 0,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/822034097702928384/sBXKrudm_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Ada Health",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C510BAQGZBwMMCCXb0A/company-logo_200_200/0?e=1594857600&v=beta&t=Bern1o2aAmybykAlzfwA_HLoxywKAwIJODF5fbqiOro",
           "width": 400,
           "height": 400,
           "title": "logo",

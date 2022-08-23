@@ -4,105 +4,54 @@
   "page": 2,
   "value": [
     {
-      "path": "_companies/voyage.auto.md",
-      "title": "Voyage",
-      "excerpt": "Wave Computing is revolutionizing AI with its dataflow-based solutions, bringing deep learning to your data wherever it may be, from the datacenter to the edge.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/voyage.auto/index.json",
-      "webUrl": "https://everyday.cc/ai/company/voyage.auto/",
+      "path": "_companies/preferred-networks.jp.md",
+      "title": "Preferred Networks",
+      "excerpt": "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/preferred-networks.jp/index.json",
+      "webUrl": "https://everyday.cc/ai/company/preferred-networks.jp/",
       "type": "profile",
-      "name": "Voyage",
-      "overview": "Wave Computing is revolutionizing AI with its dataflow-based solutions, bringing deep learning to your data wherever it may be, from the datacenter to the edge.",
-      "website": "https://voyage.auto/",
+      "name": "Preferred Networks",
+      "overview": "Preferred Networks, Inc. implements Deep Intelligence throughout the Internet to integrate data from the physical and digital worlds.",
+      "website": "https://www.preferred-networks.jp/en/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/18078448",
-        "followers": 4537
+        "url": "https://www.linkedin.com/company/preferred-networks-inc-/",
+        "followers": 1435
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/voyage"
+        "url": "https://www.crunchbase.com/organization/preferred-networks"
       },
       "twitter": {
-        "username": "voyage",
-        "url": "https://twitter.com/voyage",
-        "followers": 10381
+        "username": "preferrednet",
+        "url": "https://twitter.com/preferrednet",
+        "followers": 6023
       },
-      "size": "51-200 employees",
-      "yearFounded": 2017,
+      "size": "11-50 employees",
+      "yearFounded": 2014,
       "locations": [
-        "Palo Alto, CA"
+        "Tokyo, Japan",
+        "Chiyoda-ku, Tokyo"
       ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
       "topics": [
         "AI",
+        "AI in Robotics",
         "AI in Autos"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=-j0tc0Y1CIE"
+          "url": "https://www.youtube.com/watch?v=cldaGudHP3I"
         }
       ],
-      "heat": 50,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
+      "heat": 42,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1278712351915536386/CoejbAt3_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1268713412269228032/XH38w5wu_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Voyage",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/zendrive.md",
-      "title": "Zendrive",
-      "excerpt": "Zendrive is leading the evolution of safety in an era of transportation innovation and mobile ubiquity. We've measured and analyzed 160-billion miles of driving data and are using it to better predict risk, reduce collisions, and save lives and money.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/zendrive/index.json",
-      "webUrl": "https://everyday.cc/ai/company/zendrive/",
-      "type": "profile",
-      "name": "Zendrive",
-      "overview": "Zendrive is leading the evolution of safety in an era of transportation innovation and mobile ubiquity. We've measured and analyzed 160-billion miles of driving data and are using it to better predict risk, reduce collisions, and save lives and money.",
-      "website": "http://www.zendrive.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/zendrive/",
-        "followers": 8236
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/zendrive"
-      },
-      "twitter": {
-        "username": "zendrive",
-        "url": "https://twitter.com/zendrive",
-        "followers": 2105
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 50,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/695044843081306113/N-YxharB_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Zendrive",
+          "title": "Preferred Networks",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHxILxdaXKGXg/company-logo_200_200/0?e=1594857600&v=beta&t=lsBBVcy1Et43wBr46LmGm3YwJfbrCzc8QMvVMp5E8AA",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF6xvtdYzDy6w/company-logo_200_200/0?e=1594857600&v=beta&t=6UJK1UAPD3QqK4LzT-uxdcrjthGhoEt57uNx3ZAn26o",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -167,55 +116,53 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/zoox.md",
-      "title": "Zoox",
-      "excerpt": "Zoox is transforming mobility-as-a-service by developing a fully autonomous, purpose-built fleet designed for AI to drive and humans to enjoy.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/zoox/index.json",
-      "webUrl": "https://everyday.cc/ai/company/zoox/",
+      "path": "_companies/tusimple.ai.md",
+      "title": "TuSimple",
+      "excerpt": "TuSimple is a global self-driving truck company based in San Diego and operating self-driving trucks out of Tucson, Arizona. Founded in 2015, TuSimple is developing a commercial-ready Level 4 (SAE) fully-autonomous driving solution for the logistics industry. TuSimple’s trucks are the first and only capable of self-driving from depot-to-depot and do so every day for its customers. The company is driven by a mission to increase safety, decrease transportation costs, and reduce carbon emissions.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/tusimple.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/tusimple.ai/",
       "type": "profile",
-      "name": "Zoox",
-      "overview": "Zoox is transforming mobility-as-a-service by developing a fully autonomous, purpose-built fleet designed for AI to drive and humans to enjoy.",
-      "website": "https://zoox.com/",
+      "name": "TuSimple",
+      "otherNames": [
+        "图森未来"
+      ],
+      "overview": "TuSimple is a global self-driving truck company based in San Diego and operating self-driving trucks out of Tucson, Arizona. Founded in 2015, TuSimple is developing a commercial-ready Level 4 (SAE) fully-autonomous driving solution for the logistics industry. TuSimple’s trucks are the first and only capable of self-driving from depot-to-depot and do so every day for its customers. The company is driven by a mission to increase safety, decrease transportation costs, and reduce carbon emissions.",
+      "website": "https://www.tusimple.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/zoox-inc/",
-        "followers": 34477
+        "url": "https://www.linkedin.com/company/tusimple/",
+        "followers": 7150
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/zoox"
+        "url": "https://www.crunchbase.com/organization/tusimple-llc"
       },
       "twitter": {
-        "username": "zoox",
-        "url": "https://twitter.com/zoox",
-        "followers": 20857
+        "username": "tusimpleai",
+        "url": "https://twitter.com/tusimpleai",
+        "followers": 5429
       },
-      "size": "1,001-5,000 employees",
-      "yearFounded": 2014,
+      "size": "201-500 employees",
+      "yearFounded": 2015,
       "locations": [
-        "Foster City, CA",
-        "Foster City, California"
+        "San Diego , CA"
       ],
       "funding": {
-        "status": "Early Stage Venture"
+        "status": "Late Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Autos",
-        "AI in Robotics"
+        "AI in Autos"
       ],
-      "heat": 32,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
+      "heat": 42,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1440739774491344901/WYP3m0A2_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1461090067867312133/0KghKTjM_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Zoox",
+          "title": "TuSimple",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEgbqUNpxBKXA/company-logo_200_200/0?e=1594857600&v=beta&t=Qz3F_9WWnSE1yL6RemembLAt5DXfYKEVUdN7elFlHAw",
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQF-VIgl-KH5PA/company-logo_200_200/0?e=1594857600&v=beta&t=7aG6NWFcE1juXhHrC_Qdr9ban8BibSUdqUUJEj6IVss",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -225,31 +172,80 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/navya.tech.md",
-      "title": "NAVYA",
-      "excerpt": "Neurala is the company behind Brain Builder - the AI software platform powering visual inspections on 53 million devices worldwide.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/navya.tech/index.json",
-      "webUrl": "https://everyday.cc/ai/company/navya.tech/",
+      "path": "_companies/zendrive.md",
+      "title": "Zendrive",
+      "excerpt": "Zendrive is leading the evolution of safety in an era of transportation innovation and mobile ubiquity. We've measured and analyzed 160-billion miles of driving data and are using it to better predict risk, reduce collisions, and save lives and money.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/zendrive/index.json",
+      "webUrl": "https://everyday.cc/ai/company/zendrive/",
       "type": "profile",
-      "name": "NAVYA",
-      "overview": "Neurala is the company behind Brain Builder - the AI software platform powering visual inspections on 53 million devices worldwide.",
-      "website": "https://navya.tech",
+      "name": "Zendrive",
+      "overview": "Zendrive is leading the evolution of safety in an era of transportation innovation and mobile ubiquity. We've measured and analyzed 160-billion miles of driving data and are using it to better predict risk, reduce collisions, and save lives and money.",
+      "website": "http://www.zendrive.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/navya_group/",
-        "followers": 15758
+        "url": "https://www.linkedin.com/company/zendrive/",
+        "followers": 8236
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/navya-technology"
+        "url": "https://www.crunchbase.com/organization/zendrive"
       },
       "twitter": {
-        "username": "NAVYA_Group",
-        "url": "https://twitter.com/NAVYA_Group",
-        "followers": 10130
+        "username": "zendrive",
+        "url": "https://twitter.com/zendrive",
+        "followers": 2104
       },
-      "size": "201-500 employees",
-      "yearFounded": 2014,
+      "size": "51-200 employees",
+      "yearFounded": 2013,
       "locations": [
-        "VILLEURBANNE, Auvergne Rhône-Alpes"
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 42,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/695044843081306113/N-YxharB_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "Zendrive",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHxILxdaXKGXg/company-logo_200_200/0?e=1594857600&v=beta&t=lsBBVcy1Et43wBr46LmGm3YwJfbrCzc8QMvVMp5E8AA",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/cognitive.ru.md",
+      "title": "Cognitive Technologies",
+      "excerpt": "One of the Europe's top developers of autonomous driving technologies for ground transport, AI-based software and corporate business apps.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cognitive.ru/index.json",
+      "webUrl": "https://everyday.cc/ai/company/cognitive.ru/",
+      "type": "profile",
+      "name": "Cognitive Technologies",
+      "overview": "One of the Europe's top developers of autonomous driving technologies for ground transport, AI-based software and corporate business apps.",
+      "website": "https://www.cognitive.ru/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/cognitive-technologies"
+      },
+      "twitter": {
+        "username": "CognitivePilot",
+        "url": "https://twitter.com/CognitivePilot",
+        "followers": 1251
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Tel Aviv-Yafo, Israel"
       ],
       "topics": [
         "AI",
@@ -257,69 +253,73 @@
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=Af45fT7nrBA"
+          "url": "https://www.youtube.com/watch?v=7SxXEfB5rTQ"
         }
       ],
-      "heat": 6,
+      "heat": 32,
       "tags": [
         "Autonomous Vehicles"
       ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1281262142952521729/pVAmt4Ko_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1250883994868158465/SlWcqB4z_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "NAVYA",
+          "title": "Cognitive Technologies",
           "isCached": true
         }
       ],
       "content": "\r\n"
     },
     {
-      "path": "_companies/didi-chuxing.md",
-      "title": "Didi Chuxing",
-      "excerpt": "Didi Chuxing is a mobile transportation platform, offering a full range of commuting options to 400 cities in China.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/didi-chuxing/index.json",
-      "webUrl": "https://everyday.cc/ai/company/didi-chuxing/",
+      "path": "_companies/voyage.auto.md",
+      "title": "Voyage",
+      "excerpt": "Wave Computing is revolutionizing AI with its dataflow-based solutions, bringing deep learning to your data wherever it may be, from the datacenter to the edge.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/voyage.auto/index.json",
+      "webUrl": "https://everyday.cc/ai/company/voyage.auto/",
       "type": "profile",
-      "name": "Didi Chuxing",
-      "otherNames": [
-        "Didi Kuaidi",
-        "Didi",
-        "滴滴出行",
-        "滴滴"
-      ],
-      "overview": "Didi Chuxing is a mobile transportation platform, offering a full range of commuting options to 400 cities in China.",
-      "website": "https://www.didiglobal.com/",
+      "name": "Voyage",
+      "overview": "Wave Computing is revolutionizing AI with its dataflow-based solutions, bringing deep learning to your data wherever it may be, from the datacenter to the edge.",
+      "website": "https://voyage.auto/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/didi-chuxing/",
-        "followers": 0
+        "url": "https://www.linkedin.com/company/18078448",
+        "followers": 4537
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/didi-dache"
+        "url": "https://www.crunchbase.com/organization/voyage"
       },
       "twitter": {
-        "username": "DidiGlobal",
-        "url": "https://twitter.com/DidiGlobal",
-        "followers": 4376
+        "username": "voyage",
+        "url": "https://twitter.com/voyage",
+        "followers": 10380
       },
-      "size": "5,001-10,000 employees",
-      "yearFounded": 2012,
+      "size": "51-200 employees",
+      "yearFounded": 2017,
       "locations": [
-        "Beijing, China",
-        "海淀区, Beijing Shi"
+        "Palo Alto, CA"
       ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
       "topics": [
         "AI",
         "AI in Autos"
       ],
-      "heat": 0,
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=-j0tc0Y1CIE"
+        }
+      ],
+      "heat": 32,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1106433399873429506/GrIncNRj_400x400.png",
+          "url": "https://pbs.twimg.com/profile_images/1278712351915536386/CoejbAt3_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Didi Chuxing",
+          "title": "Voyage",
           "isCached": true
         }
       ],

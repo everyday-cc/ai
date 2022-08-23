@@ -4,104 +4,47 @@
   "page": 2,
   "value": [
     {
-      "path": "_companies/zoox.md",
-      "title": "Zoox",
-      "excerpt": "Zoox is transforming mobility-as-a-service by developing a fully autonomous, purpose-built fleet designed for AI to drive and humans to enjoy.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/zoox/index.json",
-      "webUrl": "https://everyday.cc/ai/company/zoox/",
+      "path": "_companies/softbankrobotics.md",
+      "title": "SoftBank Robotics",
+      "excerpt": "As experts in machine learning, Speechmatics provides automatic #speechrecognition (ASR), available in private or public clouds and securely on-premises.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/softbankrobotics/index.json",
+      "webUrl": "https://everyday.cc/ai/company/softbankrobotics/",
       "type": "profile",
-      "name": "Zoox",
-      "overview": "Zoox is transforming mobility-as-a-service by developing a fully autonomous, purpose-built fleet designed for AI to drive and humans to enjoy.",
-      "website": "https://zoox.com/",
+      "name": "SoftBank Robotics",
+      "overview": "As experts in machine learning, Speechmatics provides automatic #speechrecognition (ASR), available in private or public clouds and securely on-premises.",
+      "website": "https://www.softbankrobotics.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/zoox-inc/",
-        "followers": 34477
+        "url": "https://www.linkedin.com/company/softbank-robotics-japan/",
+        "followers": 426
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/zoox"
+        "url": "https://www.crunchbase.com/organization/softbank-robotics"
       },
       "twitter": {
-        "username": "zoox",
-        "url": "https://twitter.com/zoox",
-        "followers": 20857
+        "username": "sbreurope",
+        "url": "https://twitter.com/sbreurope",
+        "followers": 16620
       },
-      "size": "1,001-5,000 employees",
-      "yearFounded": 2014,
+      "yearFounded": 0,
       "locations": [
-        "Foster City, CA",
-        "Foster City, California"
+        "Tokyo, Tokyo"
       ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Robotics"
-      ],
-      "heat": 32,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1440739774491344901/WYP3m0A2_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Zoox",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEgbqUNpxBKXA/company-logo_200_200/0?e=1594857600&v=beta&t=Qz3F_9WWnSE1yL6RemembLAt5DXfYKEVUdN7elFlHAw",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/promo-bot.ai.md",
-      "title": "Promobot",
-      "excerpt": "Quantitative Imaging Biomarkers - QuantibBrain (FDA/CE) - innovative SME - image analysis services - machine learning - neuro (dementia, stroke) - onco - cardio",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/promo-bot.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/promo-bot.ai/",
-      "type": "profile",
-      "name": "Promobot",
-      "overview": "Quantitative Imaging Biomarkers - QuantibBrain (FDA/CE) - innovative SME - image analysis services - machine learning - neuro (dementia, stroke) - onco - cardio",
-      "website": "https://promo-bot.ai/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/promobot"
-      },
-      "twitter": {
-        "username": "promobot",
-        "url": "https://twitter.com/promobot",
-        "followers": 3081
-      },
-      "yearFounded": 2015,
-      "locations": [
-        "Warminster Heights, PA"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
       "topics": [
         "AI",
         "AI in Robotics"
       ],
       "videos": [
         {
-          "url": "https://www.youtube.com/watch?v=7Ju3aMH-fyk"
+          "url": "https://www.youtube.com/watch?v=oDeQCIkrLvc"
         }
       ],
-      "heat": 6,
+      "heat": 20,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1287728520580534272/Su_3X8uA_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1407644568405917696/WeCkT4jo_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Promobot",
+          "title": "SoftBank Robotics",
           "isCached": true
         }
       ],
@@ -152,6 +95,64 @@
         },
         {
           "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQF1hOliZioDmw/company-logo_200_200/0?e=1594857600&v=beta&t=_v3aA0efwqNjU-Kq2xBdBwf0QvcFGGAPfk7b6kqkjE0",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/rethinkrobotics.md",
+      "title": "Rethink Robotics",
+      "excerpt": "Rethink Robotics’ collaborative robots transform the way manufacturing work gets done on factory floors around the world. Our cobots can be deployed quickly, are designed to work safely alongside people, and are highly reliable, adaptable and easy-to-use. With a quick return on investment, manufacturers are increasingly turning to our Sawyer cobot as a smart solution to automate more while addressing challenges like labor shortages and productivity across industries such as plastics, packaging and co-packing, metal fabrication, electronics, and automotive supply chain.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/rethinkrobotics/index.json",
+      "webUrl": "https://everyday.cc/ai/company/rethinkrobotics/",
+      "type": "profile",
+      "name": "Rethink Robotics",
+      "overview": "Rethink Robotics’ collaborative robots transform the way manufacturing work gets done on factory floors around the world. Our cobots can be deployed quickly, are designed to work safely alongside people, and are highly reliable, adaptable and easy-to-use. With a quick return on investment, manufacturers are increasingly turning to our Sawyer cobot as a smart solution to automate more while addressing challenges like labor shortages and productivity across industries such as plastics, packaging and co-packing, metal fabrication, electronics, and automotive supply chain.",
+      "website": "https://www.rethinkrobotics.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/rethink-robotics/",
+        "followers": 17933
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/rethink-robotics"
+      },
+      "twitter": {
+        "username": "RethinkRobotics",
+        "url": "https://twitter.com/RethinkRobotics",
+        "followers": 33910
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2018,
+      "locations": [
+        "Bochum, Germany"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=DSy-NXSldz0"
+        }
+      ],
+      "heat": 0,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1532318092218474496/IWdlkhwY_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Rethink Robotics",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQGDfXIKeQnw_g/company-logo_200_200/0?e=1594857600&v=beta&t=dK_2lwjgeDcNJ0MjuT9b9_9-2sOEatkl0GxfTMA52SI",
           "width": 400,
           "height": 400,
           "title": "logo",

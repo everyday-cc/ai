@@ -26,7 +26,7 @@
       "twitter": {
         "username": "tesla",
         "url": "https://twitter.com/tesla",
-        "followers": 16721270
+        "followers": 16721754
       },
       "size": "10,001+ employees",
       "yearFounded": 2003,
@@ -40,7 +40,7 @@
         "AI",
         "AI in Autos"
       ],
-      "heat": 592,
+      "heat": 582,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1337607516008501250/6Ggc4S5n_400x400.png",
@@ -82,7 +82,7 @@
       "twitter": {
         "username": "Microsoft",
         "url": "https://twitter.com/Microsoft",
-        "followers": 11339500
+        "followers": 11339766
       },
       "size": "10,001+ employees",
       "yearFounded": 1975,
@@ -96,7 +96,7 @@
         "AI",
         "Microsoft AI"
       ],
-      "heat": 551,
+      "heat": 552,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1454912483248930822/_hO4WPRC_400x400.png",
@@ -128,7 +128,7 @@
       "twitter": {
         "username": "amazon",
         "url": "https://twitter.com/amazon",
-        "followers": 4604079
+        "followers": 4604295
       },
       "size": "10,001+ employees",
       "yearFounded": 1994,
@@ -139,7 +139,7 @@
         "AI",
         "AWS AI"
       ],
-      "heat": 504,
+      "heat": 506,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1399841195816144898/J0itvSWJ_400x400.jpg",
@@ -187,7 +187,7 @@
             "AI Hardware",
             "Computer Vision"
           ],
-          "heat": 221,
+          "heat": 239,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/877294444554231809/Wcem1g-S_400x400.jpg",
@@ -217,7 +217,7 @@
             "AI",
             "Google AI"
           ],
-          "heat": 368,
+          "heat": 364,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/993649592422907904/yD7LkqU2_400x400.jpg",
@@ -239,7 +239,7 @@
           "topics": [
             "AI"
           ],
-          "heat": 242,
+          "heat": 231,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1268205537637748736/jyoK_62Q_400x400.jpg",
@@ -262,7 +262,7 @@
             "AI",
             "AWS AI"
           ],
-          "heat": 504,
+          "heat": 506,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1399841195816144898/J0itvSWJ_400x400.jpg",
@@ -282,7 +282,7 @@
         }
       ],
       "size": 10,
-      "heat": 441,
+      "heat": 436,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/877294444554231809/Wcem1g-S_400x400.jpg",
@@ -314,7 +314,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 813894
+        "followers": 813946
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -328,7 +328,7 @@
         "AI",
         "Computer Vision"
       ],
-      "heat": 393,
+      "heat": 397,
       "tags": [
         "Non-profit"
       ],
@@ -411,7 +411,7 @@
       "twitter": {
         "username": "GoogleAI",
         "url": "https://twitter.com/GoogleAI",
-        "followers": 1772601
+        "followers": 1772616
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -425,7 +425,7 @@
         "AI",
         "Google AI"
       ],
-      "heat": 368,
+      "heat": 364,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/993649592422907904/yD7LkqU2_400x400.jpg",
@@ -573,6 +573,57 @@
       "content": "\r\n"
     },
     {
+      "path": "_companies/huggingface.co.md",
+      "title": "Hugging Face",
+      "excerpt": "We are leading conversational artificial intelligence with more than 200 million messages exchanged with users.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/huggingface.co/index.json",
+      "webUrl": "https://everyday.cc/ai/company/huggingface.co/",
+      "type": "profile",
+      "name": "Hugging Face",
+      "overview": "We are leading conversational artificial intelligence with more than 200 million messages exchanged with users.",
+      "website": "https://huggingface.co/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/huggingface/",
+        "followers": 2887
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/hugging-face"
+      },
+      "twitter": {
+        "username": "huggingface",
+        "url": "https://twitter.com/huggingface",
+        "followers": 103987
+      },
+      "size": "11-50 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Hong Kong"
+      ],
+      "funding": {
+        "status": "Seed"
+      },
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=e9dLt_TUXAc"
+        }
+      ],
+      "heat": 281,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1348748676282388482/nr8ZuLBE_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Hugging Face",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
       "path": "_companies/collections/ai-fintech-startups.md",
       "title": "AI FinTech Startups",
       "excerpt": "AI has become a critical aspect in financial services. Financial institutions around the world are making efforts to adopt AI for task automation, customer services, behavior analysis, as well as fraud finding, and are making large-scale investments in related technologies. Here is a list of AI FinTech startups to watch very closely.",
@@ -600,7 +651,7 @@
             "AI in Finance",
             "Machine Learning"
           ],
-          "heat": 42,
+          "heat": 50,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1473666926605967360/2IRRyagT_400x400.png",
@@ -630,7 +681,7 @@
             "AI",
             "AI in Finance"
           ],
-          "heat": 235,
+          "heat": 231,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1480949278394798083/J_XeA_mQ_400x400.jpg",
@@ -710,7 +761,7 @@
         }
       ],
       "size": 16,
-      "heat": 282,
+      "heat": 277,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1473666926605967360/2IRRyagT_400x400.png",
@@ -723,147 +774,54 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/huggingface.co.md",
-      "title": "Hugging Face",
-      "excerpt": "We are leading conversational artificial intelligence with more than 200 million messages exchanged with users.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/huggingface.co/index.json",
-      "webUrl": "https://everyday.cc/ai/company/huggingface.co/",
+      "path": "_companies/waymo.md",
+      "title": "Waymo",
+      "excerpt": "Waymo stands for a new way forward in mobility. We started as the Google self-driving car project in 2009, and became an independent self-driving technology company under Alphabet in 2016. Our mission is to make it safer and easier for people and things to move around.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/waymo/index.json",
+      "webUrl": "https://everyday.cc/ai/company/waymo/",
       "type": "profile",
-      "name": "Hugging Face",
-      "overview": "We are leading conversational artificial intelligence with more than 200 million messages exchanged with users.",
-      "website": "https://huggingface.co/",
+      "name": "Waymo",
+      "otherNames": [
+        "The Google Car",
+        "Google self-driving car project"
+      ],
+      "overview": "Waymo stands for a new way forward in mobility. We started as the Google self-driving car project in 2009, and became an independent self-driving technology company under Alphabet in 2016. Our mission is to make it safer and easier for people and things to move around.",
+      "website": "https://www.waymo.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/huggingface/",
-        "followers": 2887
+        "url": "https://www.linkedin.com/company/waymo/",
+        "followers": 52188
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/hugging-face"
+        "url": "https://www.crunchbase.com/organization/google-s-self-driving-car-project"
       },
       "twitter": {
-        "username": "huggingface",
-        "url": "https://twitter.com/huggingface",
-        "followers": 103971
+        "username": "Waymo",
+        "url": "https://twitter.com/Waymo",
+        "followers": 75282
       },
-      "size": "11-50 employees",
-      "yearFounded": 2016,
+      "size": "1,001-5,000 employees",
+      "yearFounded": 2009,
       "locations": [
-        "Hong Kong"
+        "Mountain View, CA",
+        "Mountain View, California"
       ],
-      "funding": {
-        "status": "Seed"
-      },
+      "funding": {},
       "topics": [
         "AI",
-        "Natural Language Processing"
+        "AI in Autos",
+        "Google AI"
       ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=e9dLt_TUXAc"
-        }
-      ],
-      "heat": 274,
+      "heat": 269,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1348748676282388482/nr8ZuLBE_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/808733022203719681/3PVUd1-n_400x400.jpg",
           "width": 400,
           "height": 400,
-          "title": "Hugging Face",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/salesforce.md",
-      "title": "Salesforce",
-      "excerpt": "Salesforce Einstein is a layer of intelligence within the Customer 360 Platform that brings powerful AI technologies to everyone, right where they work. And with the Einstein Platform, admins and developers have a rich set of platform services to build smarter apps and customize AI for their businesses.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/salesforce/index.json",
-      "webUrl": "https://everyday.cc/ai/company/salesforce/",
-      "type": "profile",
-      "name": "Salesforce",
-      "overview": "Salesforce Einstein is a layer of intelligence within the Customer 360 Platform that brings powerful AI technologies to everyone, right where they work. And with the Einstein Platform, admins and developers have a rich set of platform services to build smarter apps and customize AI for their businesses.",
-      "website": "https://www.salesforce.com/products/platform/solutions/ai-services/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/salesforce/",
-        "followers": 1879543
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/salesforce"
-      },
-      "twitter": {
-        "username": "salesforce",
-        "url": "https://twitter.com/salesforce",
-        "followers": 578798
-      },
-      "size": "10,001+ employees",
-      "yearFounded": 1999,
-      "locations": [
-        "San Francisco, CA"
-      ],
-      "topics": [
-        "AI"
-      ],
-      "heat": 242,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1268205537637748736/jyoK_62Q_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Salesforce",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/capital.md",
-      "title": "Capital.Com",
-      "excerpt": "We are on a mission to make the world of finance more accessible, engaging and useful.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/capital/index.json",
-      "webUrl": "https://everyday.cc/ai/company/capital/",
-      "type": "profile",
-      "name": "Capital.Com",
-      "overview": "We are on a mission to make the world of finance more accessible, engaging and useful.",
-      "website": "https://capital.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/capital.com/",
-        "followers": 1024
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/capital-com"
-      },
-      "twitter": {
-        "username": "capitalcom",
-        "url": "https://twitter.com/capitalcom",
-        "followers": 218288
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "London, UK",
-        "London, London"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ],
-      "heat": 235,
-      "tags": [
-        "FinTech"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1480949278394798083/J_XeA_mQ_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Capital.Com",
+          "title": "Waymo",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQERtmHIEj-vtw/company-logo_200_200/0?e=1594857600&v=beta&t=FZ45s-Nq5GivuT7DPhps6laDuaGvY8VhEX6NcH2RiOI",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQG4FdRM0dx-3w/company-logo_200_200/0?e=1594857600&v=beta&t=2gmVWfRzWXm_TA0O51VpuiSa3HylZVVKIOwJAVaqLD4",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -873,95 +831,62 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/uber.md",
-      "title": "Uber",
-      "excerpt": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/uber/index.json",
-      "webUrl": "https://everyday.cc/ai/company/uber/",
+      "path": "_companies/scale.md",
+      "title": "Scale",
+      "excerpt": "The Data Platform for AI: High quality training and validation data for AI applications.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/scale/index.json",
+      "webUrl": "https://everyday.cc/ai/company/scale/",
       "type": "profile",
-      "name": "Uber",
-      "overview": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
-      "website": "https://www.uber.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/uber"
-      },
-      "twitter": {
-        "username": "Uber",
-        "url": "https://twitter.com/Uber",
-        "followers": 1087544
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Global"
+      "name": "Scale",
+      "otherNames": [
+        "Scale.ai"
       ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ],
-      "heat": 225,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Uber",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/nvidia.md",
-      "title": "NVIDIA",
-      "excerpt": "NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world. Today, NVIDIA is increasingly known as “the AI computing company.”",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/nvidia/index.json",
-      "webUrl": "https://everyday.cc/ai/company/nvidia/",
-      "type": "profile",
-      "name": "NVIDIA",
-      "overview": "NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world. Today, NVIDIA is increasingly known as “the AI computing company.”",
-      "website": "https://www.nvidia.com",
+      "overview": "The Data Platform for AI: High quality training and validation data for AI applications.",
+      "website": "https://www.scale.com",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/nvidia/",
-        "followers": 502830
+        "url": "https://www.linkedin.com/company/scaleai/",
+        "followers": 6279
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/nvidia"
+        "url": "https://www.crunchbase.com/organization/scale-2"
       },
       "twitter": {
-        "username": "NvidiaAI",
-        "url": "https://twitter.com/NvidiaAI",
-        "followers": 98097
+        "username": "scale_ai",
+        "url": "https://twitter.com/scale_ai",
+        "followers": 16987
       },
-      "size": "10,001+ employees",
-      "yearFounded": 1993,
+      "size": "51-200 employees",
+      "yearFounded": 2016,
       "locations": [
-        "Santa Clara, CA"
+        "San Francisco, CA",
+        "San Francisco, California"
       ],
       "funding": {
-        "status": "IPO"
+        "status": "Late Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Autos",
-        "AI in Robotics",
-        "AI Hardware",
+        "Machine Learning",
         "Computer Vision"
       ],
-      "heat": 221,
-      "tags": [
-        "Autonomous Vehicles",
-        "Image Recognition"
-      ],
+      "heat": 245,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/877294444554231809/Wcem1g-S_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1414735088621813760/3NZOfCUw_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "NVIDIA",
+          "title": "Scale",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFDs6GbpvE3zA/company-logo_200_200/0?e=1594857600&v=beta&t=Oind1GcEBma7VBWb3WzNUERBP78P-pelw0U8HIiRZj8",
+          "url": "https://scale.com/static/global/facebook-card.png",
+          "width": 1200,
+          "height": 630,
+          "title": "Scale AI Facebook Banner",
+          "isCached": false
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFV0-qtFzCsfg/company-logo_200_200/0?e=1594857600&v=beta&t=QxrQmXZ7I97h6sAuOEbWQxOWsGLxx6fhegPl_b0LhFE",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -990,7 +915,7 @@
       "twitter": {
         "username": "grammarly",
         "url": "https://twitter.com/grammarly",
-        "followers": 221949
+        "followers": 221946
       },
       "size": "201-500 employees",
       "yearFounded": 2009,
@@ -1007,13 +932,326 @@
           "url": "https://www.youtube.com/watch?v=N8_AvBRhIGE"
         }
       ],
-      "heat": 213,
+      "heat": 239,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1498490075444760576/Myon7HID_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Grammarly",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/nvidia.md",
+      "title": "NVIDIA",
+      "excerpt": "NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world. Today, NVIDIA is increasingly known as “the AI computing company.”",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/nvidia/index.json",
+      "webUrl": "https://everyday.cc/ai/company/nvidia/",
+      "type": "profile",
+      "name": "NVIDIA",
+      "overview": "NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world. Today, NVIDIA is increasingly known as “the AI computing company.”",
+      "website": "https://www.nvidia.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/nvidia/",
+        "followers": 502830
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/nvidia"
+      },
+      "twitter": {
+        "username": "NvidiaAI",
+        "url": "https://twitter.com/NvidiaAI",
+        "followers": 98101
+      },
+      "size": "10,001+ employees",
+      "yearFounded": 1993,
+      "locations": [
+        "Santa Clara, CA"
+      ],
+      "funding": {
+        "status": "IPO"
+      },
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics",
+        "AI Hardware",
+        "Computer Vision"
+      ],
+      "heat": 239,
+      "tags": [
+        "Autonomous Vehicles",
+        "Image Recognition"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/877294444554231809/Wcem1g-S_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "NVIDIA",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFDs6GbpvE3zA/company-logo_200_200/0?e=1594857600&v=beta&t=Oind1GcEBma7VBWb3WzNUERBP78P-pelw0U8HIiRZj8",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/capital.md",
+      "title": "Capital.Com",
+      "excerpt": "We are on a mission to make the world of finance more accessible, engaging and useful.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/capital/index.json",
+      "webUrl": "https://everyday.cc/ai/company/capital/",
+      "type": "profile",
+      "name": "Capital.Com",
+      "overview": "We are on a mission to make the world of finance more accessible, engaging and useful.",
+      "website": "https://capital.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/capital.com/",
+        "followers": 1024
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/capital-com"
+      },
+      "twitter": {
+        "username": "capitalcom",
+        "url": "https://twitter.com/capitalcom",
+        "followers": 218286
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "London, UK",
+        "London, London"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ],
+      "heat": 231,
+      "tags": [
+        "FinTech"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1480949278394798083/J_XeA_mQ_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Capital.Com",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQERtmHIEj-vtw/company-logo_200_200/0?e=1594857600&v=beta&t=FZ45s-Nq5GivuT7DPhps6laDuaGvY8VhEX6NcH2RiOI",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/salesforce.md",
+      "title": "Salesforce",
+      "excerpt": "Salesforce Einstein is a layer of intelligence within the Customer 360 Platform that brings powerful AI technologies to everyone, right where they work. And with the Einstein Platform, admins and developers have a rich set of platform services to build smarter apps and customize AI for their businesses.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/salesforce/index.json",
+      "webUrl": "https://everyday.cc/ai/company/salesforce/",
+      "type": "profile",
+      "name": "Salesforce",
+      "overview": "Salesforce Einstein is a layer of intelligence within the Customer 360 Platform that brings powerful AI technologies to everyone, right where they work. And with the Einstein Platform, admins and developers have a rich set of platform services to build smarter apps and customize AI for their businesses.",
+      "website": "https://www.salesforce.com/products/platform/solutions/ai-services/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/salesforce/",
+        "followers": 1879543
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/salesforce"
+      },
+      "twitter": {
+        "username": "salesforce",
+        "url": "https://twitter.com/salesforce",
+        "followers": 578803
+      },
+      "size": "10,001+ employees",
+      "yearFounded": 1999,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "topics": [
+        "AI"
+      ],
+      "heat": 231,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1268205537637748736/jyoK_62Q_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Salesforce",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/anaconda.md",
+      "title": "Anaconda",
+      "excerpt": "With more than 13 million users, Anaconda is the world’s most popular data science platform and the foundation of modern machine learning. Anaconda Enterprise delivers data science and machine learning at speed and scale, unleashing the full potential of our customers’ data science and machine learning initiatives.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/anaconda/index.json",
+      "webUrl": "https://everyday.cc/ai/company/anaconda/",
+      "type": "profile",
+      "name": "Anaconda",
+      "overview": "With more than 13 million users, Anaconda is the world’s most popular data science platform and the foundation of modern machine learning. Anaconda Enterprise delivers data science and machine learning at speed and scale, unleashing the full potential of our customers’ data science and machine learning initiatives.",
+      "website": "https://www.anaconda.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/25029553/",
+        "followers": 13022
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/continuum-analytics"
+      },
+      "twitter": {
+        "username": "anacondainc",
+        "url": "https://twitter.com/anacondainc",
+        "followers": 79244
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Austin, TX",
+        "Austin, Texas"
+      ],
+      "funding": {
+        "status": "Early Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "heat": 225,
+      "tags": [
+        "Open Source"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1410652873801752580/fldy2kP9_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Anaconda",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEFkOrWsP-Rhg/company-logo_200_200/0?e=1594857600&v=beta&t=DbVt2TFOY4m29fDtmrGYB9gBABqZakiRwTmhpmRfpM8",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/ubtrobot.md",
+      "title": "UBTech Robotics",
+      "excerpt": "UBTECH Robotics is the global leader in intelligent humanoid robots. The company’s interactive robots serve the public, accelerate STEM education for children and assist &amp; entertain in the home. Integrating UBTECH robots into our daily lives enhances how we live, work, learn, and play. To be part of the UBTECH robot generation, visit www.ubtrobot.com and follow UBTECH Robotics on Facebook, Twitter, Instagram, and YouTube.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/ubtrobot/index.json",
+      "webUrl": "https://everyday.cc/ai/company/ubtrobot/",
+      "type": "profile",
+      "name": "UBTech Robotics",
+      "overview": "UBTECH Robotics is the global leader in intelligent humanoid robots. The company’s interactive robots serve the public, accelerate STEM education for children and assist &amp; entertain in the home. Integrating UBTECH robots into our daily lives enhances how we live, work, learn, and play. To be part of the UBTECH robot generation, visit www.ubtrobot.com and follow UBTECH Robotics on Facebook, Twitter, Instagram, and YouTube.",
+      "website": "https://ubtrobot.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/ubtech-robotics/",
+        "followers": 16275
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/ubtech"
+      },
+      "twitter": {
+        "username": "ubtechrobotics",
+        "url": "https://twitter.com/ubtechrobotics",
+        "followers": 88877
+      },
+      "size": "501-1,000 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Shenzhen, Guangdong"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=gOpQlk8afzs"
+        }
+      ],
+      "heat": 217,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1112250977103441926/hz90Ld4q_400x400.png",
+          "width": 400,
+          "height": 400,
+          "title": "UBTech Robotics",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHh_PP4bpXcmw/company-logo_200_200/0?e=1594857600&v=beta&t=tSlz81LKeil-9jIvrcwGOWw_jZaH_bap7tZRkqHrI4E",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/uber.md",
+      "title": "Uber",
+      "excerpt": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/uber/index.json",
+      "webUrl": "https://everyday.cc/ai/company/uber/",
+      "type": "profile",
+      "name": "Uber",
+      "overview": "Uber develops, markets, and operates a ride-sharing mobile application that allows consumers to submit a trip request.",
+      "website": "https://www.uber.com/",
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/uber"
+      },
+      "twitter": {
+        "username": "Uber",
+        "url": "https://twitter.com/Uber",
+        "followers": 1087533
+      },
+      "yearFounded": 0,
+      "locations": [
+        "Global"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 213,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1045783102000230400/TPLLaqYR_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Uber",
           "isCached": true
         }
       ],
@@ -1053,7 +1291,7 @@
         "AI",
         "AI Hardware"
       ],
-      "heat": 189,
+      "heat": 184,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1544364484310884353/6XyYwg0j_400x400.jpg",
@@ -1061,122 +1299,6 @@
           "height": 400,
           "title": "Cisco",
           "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/ubtrobot.md",
-      "title": "UBTech Robotics",
-      "excerpt": "UBTECH Robotics is the global leader in intelligent humanoid robots. The company’s interactive robots serve the public, accelerate STEM education for children and assist &amp; entertain in the home. Integrating UBTECH robots into our daily lives enhances how we live, work, learn, and play. To be part of the UBTECH robot generation, visit www.ubtrobot.com and follow UBTECH Robotics on Facebook, Twitter, Instagram, and YouTube.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/ubtrobot/index.json",
-      "webUrl": "https://everyday.cc/ai/company/ubtrobot/",
-      "type": "profile",
-      "name": "UBTech Robotics",
-      "overview": "UBTECH Robotics is the global leader in intelligent humanoid robots. The company’s interactive robots serve the public, accelerate STEM education for children and assist &amp; entertain in the home. Integrating UBTECH robots into our daily lives enhances how we live, work, learn, and play. To be part of the UBTECH robot generation, visit www.ubtrobot.com and follow UBTECH Robotics on Facebook, Twitter, Instagram, and YouTube.",
-      "website": "https://ubtrobot.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/ubtech-robotics/",
-        "followers": 16275
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/ubtech"
-      },
-      "twitter": {
-        "username": "ubtechrobotics",
-        "url": "https://twitter.com/ubtechrobotics",
-        "followers": 88869
-      },
-      "size": "501-1,000 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Shenzhen, Guangdong"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Robotics"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=gOpQlk8afzs"
-        }
-      ],
-      "heat": 189,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1112250977103441926/hz90Ld4q_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "UBTech Robotics",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHh_PP4bpXcmw/company-logo_200_200/0?e=1594857600&v=beta&t=tSlz81LKeil-9jIvrcwGOWw_jZaH_bap7tZRkqHrI4E",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/anaconda.md",
-      "title": "Anaconda",
-      "excerpt": "With more than 13 million users, Anaconda is the world’s most popular data science platform and the foundation of modern machine learning. Anaconda Enterprise delivers data science and machine learning at speed and scale, unleashing the full potential of our customers’ data science and machine learning initiatives.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/anaconda/index.json",
-      "webUrl": "https://everyday.cc/ai/company/anaconda/",
-      "type": "profile",
-      "name": "Anaconda",
-      "overview": "With more than 13 million users, Anaconda is the world’s most popular data science platform and the foundation of modern machine learning. Anaconda Enterprise delivers data science and machine learning at speed and scale, unleashing the full potential of our customers’ data science and machine learning initiatives.",
-      "website": "https://www.anaconda.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/25029553/",
-        "followers": 13022
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/continuum-analytics"
-      },
-      "twitter": {
-        "username": "anacondainc",
-        "url": "https://twitter.com/anacondainc",
-        "followers": 79243
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2012,
-      "locations": [
-        "Austin, TX",
-        "Austin, Texas"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ],
-      "heat": 178,
-      "tags": [
-        "Open Source"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1410652873801752580/fldy2kP9_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Anaconda",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQEFkOrWsP-Rhg/company-logo_200_200/0?e=1594857600&v=beta&t=DbVt2TFOY4m29fDtmrGYB9gBABqZakiRwTmhpmRfpM8",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -1201,7 +1323,7 @@
       "twitter": {
         "username": "tencentglobal",
         "url": "https://twitter.com/tencentglobal",
-        "followers": 40086
+        "followers": 40089
       },
       "size": "10,001+ employees",
       "yearFounded": 1998,
@@ -1211,7 +1333,7 @@
       "topics": [
         "AI"
       ],
-      "heat": 169,
+      "heat": 176,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1397133852246646784/Z4XI4oyC_400x400.jpg",
@@ -1219,230 +1341,6 @@
           "height": 400,
           "title": "Tencent",
           "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/anduril.md",
-      "title": "Anduril Industries",
-      "excerpt": "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/anduril/index.json",
-      "webUrl": "https://everyday.cc/ai/company/anduril/",
-      "type": "profile",
-      "name": "Anduril Industries",
-      "overview": "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever.",
-      "website": "https://www.anduril.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/18293159/",
-        "followers": 3835
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/anduril-industries"
-      },
-      "twitter": {
-        "username": "anduriltech",
-        "url": "https://twitter.com/anduriltech",
-        "followers": 16893
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2017,
-      "locations": [
-        "Orange County, CA"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ],
-      "heat": 161,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1324780274954117120/AEWA1pSU_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Anduril Industries",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHT6RKhJYyzfQ/company-logo_200_200/0?e=1594857600&v=beta&t=cpjZPYvxdx8xJ4VVxW6oBbWJzNU_lg7GjSOlhGpSEUg",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/waymo.md",
-      "title": "Waymo",
-      "excerpt": "Waymo stands for a new way forward in mobility. We started as the Google self-driving car project in 2009, and became an independent self-driving technology company under Alphabet in 2016. Our mission is to make it safer and easier for people and things to move around.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/waymo/index.json",
-      "webUrl": "https://everyday.cc/ai/company/waymo/",
-      "type": "profile",
-      "name": "Waymo",
-      "otherNames": [
-        "The Google Car",
-        "Google self-driving car project"
-      ],
-      "overview": "Waymo stands for a new way forward in mobility. We started as the Google self-driving car project in 2009, and became an independent self-driving technology company under Alphabet in 2016. Our mission is to make it safer and easier for people and things to move around.",
-      "website": "https://www.waymo.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/waymo/",
-        "followers": 52188
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/google-s-self-driving-car-project"
-      },
-      "twitter": {
-        "username": "Waymo",
-        "url": "https://twitter.com/Waymo",
-        "followers": 75275
-      },
-      "size": "1,001-5,000 employees",
-      "yearFounded": 2009,
-      "locations": [
-        "Mountain View, CA",
-        "Mountain View, California"
-      ],
-      "funding": {},
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Google AI"
-      ],
-      "heat": 145,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/808733022203719681/3PVUd1-n_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Waymo",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQG4FdRM0dx-3w/company-logo_200_200/0?e=1594857600&v=beta&t=2gmVWfRzWXm_TA0O51VpuiSa3HylZVVKIOwJAVaqLD4",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/deepl.md",
-      "title": "DeepL",
-      "excerpt": "DeepL develops AI products to expand human possibility and bring cultures closer together. ",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/deepl/index.json",
-      "webUrl": "https://everyday.cc/ai/company/deepl/",
-      "type": "profile",
-      "name": "DeepL",
-      "overview": "DeepL develops AI products to expand human possibility and bring cultures closer together. ",
-      "website": "http://www.deepl.com/",
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/linguee"
-      },
-      "twitter": {
-        "username": "deeplcom",
-        "url": "https://twitter.com/deeplcom",
-        "followers": 13526
-      },
-      "yearFounded": 0,
-      "locations": [
-        "Cologne, Germany"
-      ],
-      "funding": {
-        "status": "Early Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=-zBT7vwa3PA"
-        }
-      ],
-      "heat": 133,
-      "tags": [
-        "Natural Language Generation"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/960519710809972736/NJWxM0QH_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "DeepL",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/scale.md",
-      "title": "Scale",
-      "excerpt": "The Data Platform for AI: High quality training and validation data for AI applications.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/scale/index.json",
-      "webUrl": "https://everyday.cc/ai/company/scale/",
-      "type": "profile",
-      "name": "Scale",
-      "otherNames": [
-        "Scale.ai"
-      ],
-      "overview": "The Data Platform for AI: High quality training and validation data for AI applications.",
-      "website": "https://www.scale.com",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/scaleai/",
-        "followers": 6279
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/scale-2"
-      },
-      "twitter": {
-        "username": "scale_ai",
-        "url": "https://twitter.com/scale_ai",
-        "followers": 16983
-      },
-      "size": "51-200 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "Late Stage Venture"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Computer Vision"
-      ],
-      "heat": 127,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1414735088621813760/3NZOfCUw_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Scale",
-          "isCached": true
-        },
-        {
-          "url": "https://scale.com/static/global/facebook-card.png",
-          "width": 1200,
-          "height": 630,
-          "title": "Scale AI Facebook Banner",
-          "isCached": false
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFV0-qtFzCsfg/company-logo_200_200/0?e=1594857600&v=beta&t=QxrQmXZ7I97h6sAuOEbWQxOWsGLxx6fhegPl_b0LhFE",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
         }
       ],
       "content": "\r\n"
@@ -1473,7 +1371,7 @@
             "AI",
             "Machine Learning"
           ],
-          "heat": 92,
+          "heat": 122,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1473421035814805506/9lwUFBum_400x400.jpg",
@@ -1503,7 +1401,7 @@
             "AI",
             "Natural Language Processing"
           ],
-          "heat": 50,
+          "heat": 82,
           "images": [
             {
               "url": "https://pbs.twimg.com/profile_images/1554126722047660035/yPLl_pGt_400x400.png",
@@ -1569,7 +1467,7 @@
         }
       ],
       "size": 41,
-      "heat": 110,
+      "heat": 146,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1473421035814805506/9lwUFBum_400x400.jpg",
@@ -1582,169 +1480,50 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/baidu.md",
-      "title": "Baidu",
-      "excerpt": "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/baidu/index.json",
-      "webUrl": "https://everyday.cc/ai/company/baidu/",
+      "path": "_companies/anduril.md",
+      "title": "Anduril Industries",
+      "excerpt": "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/anduril/index.json",
+      "webUrl": "https://everyday.cc/ai/company/anduril/",
       "type": "profile",
-      "name": "Baidu",
-      "overview": "Baidu is a Chinese website and search engine that enables individuals to obtain information and find what they need.",
-      "website": "http://ai.baidu.com/",
+      "name": "Anduril Industries",
+      "overview": "Created by tech innovators on a mission to solve critical challenges in national security, Anduril brings Silicon Valley ingenuity, speed, and funding to defense and security. In less than a year, Anduril went from concept to product, with multiple deployments actively solving real world national security problems. Today, Anduril is in a rapid growth phase, deploying technology in diverse locations and developing pathmaking products that will change defense forever.",
+      "website": "https://www.anduril.com/",
       "linkedin": {
-        "url": "https://www.linkedin.com/company/baidu-inc/",
-        "followers": 209798
+        "url": "https://www.linkedin.com/company/18293159/",
+        "followers": 3835
       },
       "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/baidu"
+        "url": "https://www.crunchbase.com/organization/anduril-industries"
       },
       "twitter": {
-        "username": "BaiduResearch",
-        "url": "https://twitter.com/BaiduResearch",
-        "followers": 58633
+        "username": "anduriltech",
+        "url": "https://twitter.com/anduriltech",
+        "followers": 16892
       },
-      "size": "10,001+ employees",
-      "yearFounded": 2000,
+      "size": "51-200 employees",
+      "yearFounded": 2017,
       "locations": [
-        "Beijing"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ],
-      "heat": 108,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/938436175366209536/BdWf35Wt_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Baidu",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHZjF01MQpX9w/company-logo_200_200/0?e=1594857600&v=beta&t=rv-BLIGYTnAtAPcouS-hsXcM5b7Bb7dAYmS5MBR9p8Q",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/cruise.md",
-      "title": "Cruise",
-      "excerpt": "DataRobot is the leader in enterprise AI, delivering trusted AI technology and ROI enablement services to global enterprises. Learn more at https://t.co/KudGk1wzvJ.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/cruise/index.json",
-      "webUrl": "https://everyday.cc/ai/company/cruise/",
-      "type": "profile",
-      "name": "Cruise",
-      "overview": "DataRobot is the leader in enterprise AI, delivering trusted AI technology and ROI enablement services to global enterprises. Learn more at https://t.co/KudGk1wzvJ.",
-      "website": "http://www.getcruise.com/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/getcruise/",
-        "followers": 33127
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/cruise"
-      },
-      "twitter": {
-        "username": "cruise",
-        "url": "https://twitter.com/cruise",
-        "followers": 33604
-      },
-      "size": "1,001-5,000 employees",
-      "yearFounded": 2013,
-      "locations": [
-        "San Francisco, CA",
-        "San Francisco, California"
-      ],
-      "funding": {
-        "status": "M&A"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Autos"
-      ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=4lYNckVMys4"
-        }
-      ],
-      "heat": 108,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1228190173243961344/WymFcFVK_400x400.png",
-          "width": 400,
-          "height": 400,
-          "title": "Cruise",
-          "isCached": true
-        },
-        {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEeMRk0ZPGOMg/company-logo_200_200/0?e=1594857600&v=beta&t=uI3Q5e06ECZMGvb_FCOmryqEYCz4WQSyxkpgLYb-Gac",
-          "width": 400,
-          "height": 400,
-          "title": "logo",
-          "isCached": false
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_companies/nuro.ai.md",
-      "title": "Nuro",
-      "excerpt": "At Nuro our mission is to accelerate the benefits of robotics for everyday life. More efficient use of our resources, our time, and our attention. For all of us.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/nuro.ai/index.json",
-      "webUrl": "https://everyday.cc/ai/company/nuro.ai/",
-      "type": "profile",
-      "name": "Nuro",
-      "overview": "At Nuro our mission is to accelerate the benefits of robotics for everyday life. More efficient use of our resources, our time, and our attention. For all of us.",
-      "website": "https://nuro.ai/",
-      "linkedin": {
-        "url": "https://www.linkedin.com/company/nuro-inc./",
-        "followers": 14545
-      },
-      "crunchbase": {
-        "url": "https://www.crunchbase.com/organization/nuro-2"
-      },
-      "size": "201-500 employees",
-      "yearFounded": 2016,
-      "locations": [
-        "Mountain View, CA"
+        "Orange County, CA"
       ],
       "funding": {
         "status": "Early Stage Venture"
       },
       "topics": [
         "AI",
-        "AI in Autos"
+        "AI in Robotics"
       ],
-      "videos": [
-        {
-          "url": "https://www.youtube.com/watch?v=XKXbacNQGI8"
-        }
-      ],
-      "heat": 98,
-      "tags": [
-        "Autonomous Vehicles"
-      ],
+      "heat": 145,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1385346704057143297/9WQU1ggn_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1324780274954117120/AEWA1pSU_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Nuro",
+          "title": "Anduril Industries",
           "isCached": true
         },
         {
-          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEHgAi8YN5MTg/company-logo_200_200/0?e=1594857600&v=beta&t=1zkKtKEm18e9w8URObzd9d2TYVq8WY9qNh4oIqScYQ4",
+          "url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHT6RKhJYyzfQ/company-logo_200_200/0?e=1594857600&v=beta&t=cpjZPYvxdx8xJ4VVxW6oBbWJzNU_lg7GjSOlhGpSEUg",
           "width": 400,
           "height": 400,
           "title": "logo",
@@ -1754,138 +1533,256 @@
       "content": "\r\n"
     },
     {
-      "path": "_companies/collections/forbes-ai-50-americas-most-promising-artificial-intelligence-companies-in-2019.md",
-      "title": "Forbes AI 50: America’s Most Promising Artificial Intelligence Companies in 2019",
-      "excerpt": "To be included on the list, companies needed to show that techniques like machine learning, natural language processing, or computer vision are a core part of their business model and future success.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/collections/forbes-ai-50-americas-most-promising-artificial-intelligence-companies-in-2019/index.json",
-      "webUrl": "https://everyday.cc/ai/company/collections/forbes-ai-50-americas-most-promising-artificial-intelligence-companies-in-2019/",
-      "type": "collection",
-      "name": "Forbes AI 50: America’s Most Promising Artificial Intelligence Companies in 2019",
-      "overview": "To be included on the list, companies needed to show that techniques like machine learning, natural language processing, or computer vision are a core part of their business model and future success.",
-      "yearFounded": 0,
+      "path": "_companies/argo.ai.md",
+      "title": "Argo AI",
+      "excerpt": "Argo AI is building self-driving technology to improve the way the world moves. Since we began in 2016, we’ve partnered with leading companies in the automotive sector to make vehicles safer, more affordable, convenient, and accessible for everyone -- regardless of age or ability to get behind the wheel.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/argo.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/argo.ai/",
+      "type": "profile",
+      "name": "Argo AI",
+      "overview": "Argo AI is building self-driving technology to improve the way the world moves. Since we began in 2016, we’ve partnered with leading companies in the automotive sector to make vehicles safer, more affordable, convenient, and accessible for everyone -- regardless of age or ability to get behind the wheel.",
+      "website": "https://argo.ai",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/argo-ai/",
+        "followers": 23051
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/argo-ai"
+      },
+      "twitter": {
+        "username": "argoai",
+        "url": "https://twitter.com/argoai",
+        "followers": 9429
+      },
+      "size": "501-1,000 employees",
+      "yearFounded": 2016,
+      "locations": [
+        "Pittsburgh, PA",
+        "Pittsburgh, Pennsylvania"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos"
+      ],
+      "heat": 140,
+      "tags": [
+        "Autonomous Vehicles"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1544700066421669890/64L__ovp_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Argo AI",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/sentinelone.md",
+      "title": "SentinelOne",
+      "excerpt": "SentinelOne was founded in 2013 by an elite team of cyber security and defense experts who developed a fundamentally new, groundbreaking approach to endpoint protection.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/sentinelone/index.json",
+      "webUrl": "https://everyday.cc/ai/company/sentinelone/",
+      "type": "profile",
+      "name": "SentinelOne",
+      "overview": "SentinelOne was founded in 2013 by an elite team of cyber security and defense experts who developed a fundamentally new, groundbreaking approach to endpoint protection.",
+      "website": "https://www.sentinelone.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/2886771",
+        "followers": 28543
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/sentinel"
+      },
+      "twitter": {
+        "username": "SentinelOne",
+        "url": "https://twitter.com/SentinelOne",
+        "followers": 18072
+      },
+      "size": "201-500 employees",
+      "yearFounded": 2013,
+      "locations": [
+        "Mountain View, CA",
+        "Mountain View, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
       "topics": [
         "AI"
       ],
-      "topItems": [
-        {
-          "path": "",
-          "title": "Nuro",
-          "excerpt": "At Nuro our mission is to accelerate the benefits of robotics for everyday life. More efficient use of our resources, our time, and our attention. For all of us.",
-          "type": "profile",
-          "name": "Nuro",
-          "overview": "At Nuro our mission is to accelerate the benefits of robotics for everyday life. More efficient use of our resources, our time, and our attention. For all of us.",
-          "yearFounded": 0,
-          "topics": [
-            "AI",
-            "AI in Autos"
-          ],
-          "heat": 98,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1385346704057143297/9WQU1ggn_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Nuro",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C560BAQEHgAi8YN5MTg/company-logo_200_200/0?e=1594857600&v=beta&t=1zkKtKEm18e9w8URObzd9d2TYVq8WY9qNh4oIqScYQ4",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Aurora Innovation",
-          "excerpt": "Aurora Innovation helps businesses and organisations improve their availability and make it easier for people to get in touch. We offer flexible communication solutions that contribute to better customer service and a positive work environment. Read more about our products on our website www.aurorainnovation.com",
-          "type": "profile",
-          "name": "Aurora Innovation",
-          "overview": "Aurora Innovation helps businesses and organisations improve their availability and make it easier for people to get in touch. We offer flexible communication solutions that contribute to better customer service and a positive work environment. Read more about our products on our website www.aurorainnovation.com",
-          "yearFounded": 0,
-          "topics": [
-            "AI"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/827102291647926272/X9sEbeNi_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Aurora Innovation",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQE_Zuj21ezXcQ/company-logo_200_200/0?e=1594857600&v=beta&t=Qm8VOi9xOQgYsyZNFs4Kr2rggwCriin5UcWWzHUZ22s",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Uptake Technologies",
-          "excerpt": "Put your data to work. |  @WEF Technology Pioneer & 3x @CNBC #Disruptor50",
-          "type": "profile",
-          "name": "Uptake Technologies",
-          "overview": "Put your data to work. |  @WEF Technology Pioneer & 3x @CNBC #Disruptor50",
-          "yearFounded": 0,
-          "topics": [
-            "AI"
-          ],
-          "heat": 50,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/1542703847591841794/OYbhrW_p_400x400.png",
-              "width": 400,
-              "height": 400,
-              "title": "Uptake Technologies",
-              "isCached": true
-            }
-          ]
-        },
-        {
-          "path": "",
-          "title": "Lemonade",
-          "excerpt": "Lemonade Insurance Company is a licensed insurance carrier, offering homeowners and renters insurance powered by artificial intelligence and behavioral economics. By replacing brokers and bureaucracy with bots and machine learning, Lemonade promises zero paperwork and instant everything. And as a Certified B-Corp, where underwriting profits go to nonprofits, Lemonade is remaking insurance as a social good, rather than a necessary evil.",
-          "type": "profile",
-          "name": "Lemonade",
-          "overview": "Lemonade Insurance Company is a licensed insurance carrier, offering homeowners and renters insurance powered by artificial intelligence and behavioral economics. By replacing brokers and bureaucracy with bots and machine learning, Lemonade promises zero paperwork and instant everything. And as a Certified B-Corp, where underwriting profits go to nonprofits, Lemonade is remaking insurance as a social good, rather than a necessary evil.",
-          "yearFounded": 0,
-          "topics": [
-            "AI"
-          ],
-          "heat": 82,
-          "images": [
-            {
-              "url": "https://pbs.twimg.com/profile_images/739751130100600832/xeSrmgG1_400x400.jpg",
-              "width": 400,
-              "height": 400,
-              "title": "Lemonade",
-              "isCached": true
-            },
-            {
-              "url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHnPV8dBNy7ag/company-logo_200_200/0?e=1594857600&v=beta&t=SGGHzBtUehaMv5O9f5mvqU-528KrG0WiLzDMO2oh4cA",
-              "width": 400,
-              "height": 400,
-              "title": "logo",
-              "isCached": false
-            }
-          ]
-        }
-      ],
-      "size": 50,
-      "heat": 98,
+      "heat": 133,
       "images": [
         {
-          "url": "https://pbs.twimg.com/profile_images/1385346704057143297/9WQU1ggn_400x400.jpg",
+          "url": "https://pbs.twimg.com/profile_images/1195190599214780416/5D8xm_lm_400x400.png",
           "width": 400,
           "height": 400,
-          "title": "Nuro",
+          "title": "SentinelOne",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQEw-a3g3SOsvg/company-logo_200_200/0?e=1594857600&v=beta&t=FR07UQ27QgcTP7P7FjmDc6SmAQnvsU76Xj9Swb0HMIU",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/h2o.ai.md",
+      "title": "H2O.ai",
+      "excerpt": "H2O.ai is the open source leader in AI and automatic machine learning with Driverless AI. Its mission is to democratize AI for all. H2O.ai is transforming the use of AI with software with its category-creating visionary open source machine learning platform, H2O. More than 18,000 companies use open-source H2O in mission-critical use cases for Finance, Insurance, Healthcare, Retail, Telco, Sales, and Marketing. H2O.ai launched Driverless AI that uses AI to do AI in order to provide an easier, faster and effective means of implementing data science. H2O.ai partners with leading technology companies such as NVIDIA, IBM, Intel, AWS, Azure and Google and is proud of its growing customer base which includes Capital One, Progressive Insurance, Comcast, Walgreens and PayPal. For more information and to learn more about how H2O.ai is transforming business processes with intelligence, visit www.h2o.ai.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/h2o.ai/index.json",
+      "webUrl": "https://everyday.cc/ai/company/h2o.ai/",
+      "type": "profile",
+      "name": "H2O.ai",
+      "overview": "H2O.ai is the open source leader in AI and automatic machine learning with Driverless AI. Its mission is to democratize AI for all. H2O.ai is transforming the use of AI with software with its category-creating visionary open source machine learning platform, H2O. More than 18,000 companies use open-source H2O in mission-critical use cases for Finance, Insurance, Healthcare, Retail, Telco, Sales, and Marketing. H2O.ai launched Driverless AI that uses AI to do AI in order to provide an easier, faster and effective means of implementing data science. H2O.ai partners with leading technology companies such as NVIDIA, IBM, Intel, AWS, Azure and Google and is proud of its growing customer base which includes Capital One, Progressive Insurance, Comcast, Walgreens and PayPal. For more information and to learn more about how H2O.ai is transforming business processes with intelligence, visit www.h2o.ai.",
+      "website": "https://www.h2o.ai",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/0xdata",
+        "followers": 52786
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/h2o-2"
+      },
+      "twitter": {
+        "username": "h2oai",
+        "url": "https://twitter.com/h2oai",
+        "followers": 23483
+      },
+      "size": "51-200 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "Mountain View, CA"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI"
+      ],
+      "heat": 124,
+      "tags": [
+        "Open Source"
+      ],
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1544773142735904768/kzCzotmK_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "H2O.ai",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQHwh1xsjx_5CQ/company-logo_200_200/0?e=1587600000&v=beta&t=aRwC2WzcJ0TEw7AQmmVQn-QUJIXDFDbbGxMsi05QDoo",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/affirm.md",
+      "title": "Affirm",
+      "excerpt": "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/affirm/index.json",
+      "webUrl": "https://everyday.cc/ai/company/affirm/",
+      "type": "profile",
+      "name": "Affirm",
+      "overview": "At Affirm, we’re using today’s technology to bring significant disruptive innovation to the financial industry. We focus on improving the lives of consumers by delivering simple, honest and transparent financial products.",
+      "website": "https://www.affirm.com",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/affirm/",
+        "followers": 28762
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/affirm"
+      },
+      "twitter": {
+        "username": "Affirm",
+        "url": "https://twitter.com/Affirm",
+        "followers": 17557
+      },
+      "size": "501-1,000 employees",
+      "yearFounded": 2012,
+      "locations": [
+        "San Francisco, CA",
+        "San Francisco, California"
+      ],
+      "funding": {
+        "status": "Late Stage Venture"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ],
+      "videos": [
+        {
+          "url": "https://www.youtube.com/watch?v=Ex1KJSLIoKU"
+        }
+      ],
+      "heat": 122,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1473421035814805506/9lwUFBum_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Affirm",
+          "isCached": true
+        },
+        {
+          "url": "https://media-exp1.licdn.com/dms/image/C560BAQFd5kcvkO_dgA/company-logo_200_200/0?e=1594857600&v=beta&t=6EDJ4EBaqAfkmdcAb0VR86QNkBp9Qu6ytBznQ3_vKsE",
+          "width": 400,
+          "height": 400,
+          "title": "logo",
+          "isCached": false
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_companies/twilio.md",
+      "title": "Twilio",
+      "excerpt": "More than 2 million developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, and video by virtualizing the world’s telecommunications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world’s most demanding applications. By making communications a part of every software developer's toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world’s largest organizations — to reinvent how companies engage with their customers.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/companies/twilio/index.json",
+      "webUrl": "https://everyday.cc/ai/company/twilio/",
+      "type": "profile",
+      "name": "Twilio",
+      "overview": "More than 2 million developers around the world have used Twilio to unlock the magic of communications to improve any human experience. Twilio has democratized communications channels like voice, text, chat, and video by virtualizing the world’s telecommunications infrastructure through APIs that are simple enough for any developer to use, yet robust enough to power the world’s most demanding applications. By making communications a part of every software developer's toolkit, Twilio is enabling innovators across every industry — from emerging leaders to the world’s largest organizations — to reinvent how companies engage with their customers.",
+      "website": "https://www.twilio.com/",
+      "linkedin": {
+        "url": "https://www.linkedin.com/company/twilio-inc-/",
+        "followers": 64799
+      },
+      "crunchbase": {
+        "url": "https://www.crunchbase.com/organization/twilio"
+      },
+      "twitter": {
+        "username": "twilio",
+        "url": "https://twitter.com/twilio",
+        "followers": 84215
+      },
+      "size": "1,001-5,000 employees",
+      "yearFounded": 2008,
+      "locations": [
+        "San Francisco, CA"
+      ],
+      "topics": [
+        "AI"
+      ],
+      "heat": 122,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1410624514443169793/HSCyvRCZ_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Twilio",
           "isCached": true
         }
       ],
