@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-23T17:57:00Z
 originalUrl: "https://www.tvtechnology.com/news/enco-to-highlight-encaption5-next-gen-automated-captioning-at-ibc2022"
 webUrl: "https://www.tvtechnology.com/news/enco-to-highlight-encaption5-next-gen-automated-captioning-at-ibc2022"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: TV Technology

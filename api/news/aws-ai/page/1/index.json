@@ -497,8 +497,8 @@
       "title": "Cardinality.ai Joins the AWS Partner Network",
       "excerpt": "The Advanced Technology Partner Status reduces complexity to adopt digital practices and confidence of integration for our shared public sector customers; Three Cardinality.ai sol",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cardinalityai-joins-the-aws-partner-network-2022-08-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/cardinalityai-joins-the-aws-partner-network-2022-08-16",
+      "webUrl": "https://www.tmcnet.com/usubmit/-cardinalityai-joins-aws-partner-network-/2022/08/16/9657222.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-cardinalityai-joins-aws-partner-network-/2022/08/16/9657222.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -508,21 +508,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T11:07:00-07:00",
+      "publishedDateTime": "2022-08-16T12:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

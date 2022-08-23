@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/assembly-ai-offers-ai-as-a-service-api-to-ea
 ampWebUrl: "https://venturebeat.com/ai/assembly-ai-offers-ai-as-a-service-api-to-ease-model-development/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/assembly-ai-offers-ai-as-a-service-api-to-ease-model-development/amp/"
 type: article
-quality: 89
-heat: 119
+quality: 93
+heat: 123
 published: true
 
 provider:
@@ -24,6 +24,7 @@ topics:
   - Facebook AI
   - AI
   - AI Hardware
+  - Machine Learning
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/08/Assembly-AI.jpg?fit=800%2C450&strip=all"

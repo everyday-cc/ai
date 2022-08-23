@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/health-wellbeing/ai-parkinsons-disease-sleep-
 webUrl: "https://newatlas.com/health-wellbeing/ai-parkinsons-disease-sleep-breathing-patterns-mit"
 type: article
 quality: 67
-heat: 117
+heat: 127
 published: true
 
 provider:
@@ -102,6 +102,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Scientists invent device that can detect Parkinson’s disease when you’re asleep"
+    excerpt: "Scientists have developed a device that can detect the presence of Parkinson’s disease — one of the fastest-growing neurological conditions in the world. Parkinson’s disease is notoriously difficult to diagnose as it relies primarily on the appearance of motor symptoms such as tremors,"
+    publishedDateTime: 2022-08-23T15:58:00Z
+    webUrl: "https://metro.co.uk/2022/08/23/scientists-invent-device-to-detect-parkinsons-disease-when-asleep-17230585/?ico=amp_tag-post-strip_item_3_news"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 0
 
 secured: "EE14cfiMybQqrHMpKP/tUZd+nNm3naiWiAtGxNcodt+7EZBBL8u9Hvlc+d+mOGv/8Bmw1S2EIzH7bAtR30gyzwNmaXgNUFUXge2d6oHc3ekYqaTzBSxepukQVvN1OYmpeJC2z6QX836ou906Mon1AAs87zce58KEjRG7Qxg2l4ZVwrmvTk3d/hDWMORLgOPr0MNwn0Ix7pj5syWjyCMz+q1548KP3bFlVDONau9FMpLEOhcXodaiWDJWGF08XAELHbVv0lDqr6kbtwV5BToCKOcSYan+IvRJxT3D7EstnABiRAdITz/gWIKDjjRXZu8Kum0ggWofY3X0VaUzw9DNThK76+rO5GkB0ABCAjYcwBQQxF8oqHKKX471FiSKnpDv+mBzHpoARO2QZmpzEkfGMYwZA9PzCTf0S12BUPyUTzEvZrj0D4Z4xvJ1qqdxEdluUwLYFmETK4wo/rYS+69Di0HHhc7u9Qov3RqO2QlNo3vEYIkGwZT4dXYu83JXK6QKui67BYfEnpMa3XVPl43tnA==;lrtdm/YyShgVi6DmHXRIUQ=="
 ---

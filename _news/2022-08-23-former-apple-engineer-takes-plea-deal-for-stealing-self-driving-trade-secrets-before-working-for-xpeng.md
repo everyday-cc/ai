@@ -69,20 +69,6 @@ related:
         width: 1960
         height: 1102
         isCached: true
-  - title: "Self-driving vehicles on verge of becoming common"
-    excerpt: "Yang Diange, a professor from the School of Vehicle and Mobility at Tsinghua University, said: \"Level 4 self-driving technology will first be deployed in taxis and trucks and in some designated areas,"
-    publishedDateTime: 2022-08-19T02:04:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202208/19/WS62fee6e4a310fd2b29e73221_2.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202208/19/62fee6e4a310fd2bec9cf6d1.jpeg"
-        width: 663
-        height: 441
-        isCached: true
 
 secured: "zEgnym5QWutxsZE5kzFPMT4HrlLVh9+s7BYnLCEYGfwJuwtlikixm1pgpItpWYWjfsbC8H8IHoX7rpeQCeylQJJ6e+yP0j6EAcxFtiZ73Ak6UaIe1+TFV5JfOxtHW6Dm8OuQCHibc6Xnbiy/F0IMYqLuK1VPUdEG/6EcLaXuve/lrVcVdGKZFShaGY2sdlN2RT7dZNkvM18IFcF0aUIrUZIaa/w8LOluYU5gHeHRcsGjwszUsn+I2ruWF7Uz32j7PticocxYlQM56Xe6w9862MyoNDT8ml1Df5NmDzOlHZd/uoS7cSQE5ELFUJFZHd64mDcr2g4XB8i9g2YnX0WJvAkFzmmJ8ic9CBSvYNeCWaca580nggd8vPFNZlxI1fDFCU3CbyTL31L8yBr3UwJDxRMK/eockAx4zbtInY2+H7I47dbCc4XQwOuzPlQtWZWqwQua2JHIUYC0sdCp+PcyquncxpzV2aBtMjpnBA1maNHZKUAjmf3KFUWbnB9y023k8IMs2Fbov29IsH8Cj9tW0g==;9hsKeI3rKtB/hpqrKeRLJA=="
 ---

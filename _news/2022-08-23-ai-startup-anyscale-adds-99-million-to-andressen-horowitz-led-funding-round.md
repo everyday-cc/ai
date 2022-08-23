@@ -3,8 +3,8 @@ category: news
 title: "AI Startup Anyscale Adds $99 Million to Andressen Horowitz-Led Funding Round"
 excerpt: "The company initially announced a $100 million Series C venture investment round led by Andressen Horowitz in December."
 publishedDateTime: 2022-08-23T10:30:00Z
-originalUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?mod=newsviewer_click"
-webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?mod=newsviewer_click"
+originalUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
+webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
 ampWebUrl: "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
 type: article
@@ -105,6 +105,6 @@ related:
         height: 400
         isCached: true
 
-secured: "EcMnmlOdHY14f2rtECb+KdlTl4I9/BCAYbpnCQBuQ0Fm6uf6OL/G/e54vaCKBNr9JCHljCTmCDMNbk7rvtmVhsgVHf0bQpNGERWkuCFJHJeUEhSDwEKfINo0ZGGAO5sHYZA/J8Ofuk4L0lpP9uQWlfs1tIDQOOFQw0URSJT3eNEDqRaQL5N7+nfWHASIDU4qBdn3VabJG/Xk3CjVq/2jClmHiLhPGwfzfoKMTIOMoPWeehzJuDM36RoFtt3pG+LRiLodn/1gz5r9wi7Tt+zcP863zjZeFpYXg9JCxhaXEMZVfXrGvpkl12Q1Kk+c7jDNKSnFj5R2VchIJFTDOfg6+5/7CKbyysxuEN97SLw5CmaAXZ7CnFaLrNAoRbp2Ew8ij7vi+OfBBIzLfBc4XKb1GrtTreJJ62a6Xs/oF/QgDAXE7uZgIFiA0qhw0pDiYZ3DjqobIX3+rq+H0Q4LAoT3ZzHnMieOwmf7jmGT246gG57T0JQGyS4El2W4IYIyb1+s3TruAHZatldNrBu03hcYtQ==;rkKeh9P25o5b3RpDif5MHQ=="
+secured: "+bQa/V9QtELI9K8TBAGe7ITtV2CrTOClQjTNxWsfglc97z2Bz+Qtad0DxrVKINlNP/Kva4cETK83foymqrDlRpQeaDZWaHY8l9uAx/FjeEBtJD9zOXADjUvc9ejF/OrTsGJONRpOsrvUnxIx1yJq/N/P/yC8wxpqUVnMKjzVZCBaedKOOPXgl0BagWbFaOoH+y2BWWJQfvm05qYSd2tyNPnDw5Gexavt+7BQ5VPLJm5sYLXObG158+Cb6l+zXysfQUTwnvz713N1bXro45kOLDfp8YPuhdXkQ4qf6Fi0+f8VGUDE5vL0zXjQPb6o44Uijhnhah20W/xx9xMY8d9FzAu9paObE0qQaZOZXLYptrI=;CjtlHXbIp7teCxSXRlbzUw=="
 ---
 

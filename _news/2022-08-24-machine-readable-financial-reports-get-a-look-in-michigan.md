@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-23T18:32:00Z
 originalUrl: "https://www.bondbuyer.com/news/machine-readable-financial-reports-get-a-look-in-michigan"
 webUrl: "https://www.bondbuyer.com/news/machine-readable-financial-reports-get-a-look-in-michigan"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Bond Buyer

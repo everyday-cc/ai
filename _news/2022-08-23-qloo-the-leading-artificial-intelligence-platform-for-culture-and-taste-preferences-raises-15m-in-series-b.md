@@ -2,20 +2,26 @@
 category: news
 title: "Qloo, the Leading Artificial Intelligence Platform for Culture and Taste Preferences, Raises $15M in Series B"
 excerpt: "Qloo, the leading artificial intelligence platform for culture and taste preferences, announced today that it has raised $15M in Series B funding from Eldridge and AXA Venture Partners. This latest round of funding brings Qloo’s total capital raised to $30M,"
-publishedDateTime: 2022-08-23T15:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-23-qloo-the-leading-artificial-intelligence-platform-for-culture-and-taste-preferences-raises-15m-in-series-b"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-23-qloo-the-leading-artificial-intelligence-platform-for-culture-and-taste-preferences-raises-15m-in-series-b"
+publishedDateTime: 2022-08-23T15:02:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-ff592ea3291240c9ab4c46631a3da560"
+webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-ff592ea3291240c9ab4c46631a3da560"
 type: article
-quality: 13
+quality: 33
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Disney-backed Inworld raises new cash for its AI-powered virtual characters"
@@ -37,6 +43,6 @@ related:
       domain: venturebeat.com
     quality: 44
 
-secured: "vCojb63gj6JnUm4ty21sCx3Yj4G71V/vLwkblYk54We8sgo6T/sjqT4dLu498giGk0kzzPNNVXflIfXE3nyvgDB/DnQVytsAtwDr92Pxcazp3uOTeR2bt4RbzDq4H4mmVG7bB/BiM2QDiPiY/iJnMEPZQh9RHS7zcdHzVA1oaWWHZI6N6kPv9NWm2YQVjnimbrfZxoHc0fzdXKF+wt03bOcZOQh5mrKMhKQA6voQTOBccsBqxokDxRs8WdEHNsP0WIz1WEbFB0jKPyQauWwPLgqWy9qfgUSmJHYz3OOlIB2MO0CU8BPCi2YzPUE6xT+7aH6fpbSnt/Jy4ujRmjAnEeBOeXGM3kOQedmSBNDcLzo=;ay2OVJArb1fzGsTQSG2HxQ=="
+secured: "vnSqD4gXCijfqURybY6b25p215bFOA00jX1hPfOA9OyGRYfyqI9vp4UrvZGB4Tu+jtVTvUPajgsTufMEcQFzw7VgRbAWXJp8WQjtXWOUB4S6HKn9onskoMqm1z/IuDo40VLdIhYiV8kYdlbBTYgwwDjFxi9HIx/cYUQtJjgz3/1KPOYj0AT9Re8AqUkxNgfkD5ntcnWoPY75UlV2Kz3gWQbVOgeopC5KE+45BoyQcTHvzR+HpBcfYr/Wcy9VRCZ8xK6DDU0iMrTOibEMEBdBuGMYt2AVb/myYDXYg2tbx4nmttHAGcySpt7al+B2gTG8oWlt1zTjWNuD0rwcJlT3aiEDqkDUXyLZOzr5rou71Hk=;fejQBBZxlrUNieYBhZLHtA=="
 ---
 

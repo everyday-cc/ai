@@ -28,20 +28,6 @@ related:
       name: Jane's Information Group
       domain: janes.com
     quality: 34
-  - title: "This Australian company says its AI product can predict suicide attempts in prison"
-    excerpt: "Omniscience's facial recognition software was suspected to have been used by Hong Kong police during the 2019 protests — but the company says the police purchased it to track lost kids."
-    publishedDateTime: 2022-08-19T01:18:00Z
-    webUrl: "https://www.crikey.com.au/2022/08/19/artificial-intelligence-prison-suicide-security-expo/"
-    type: article
-    provider:
-      name: Crikey
-      domain: crikey.com.au
-    quality: 31
-    images:
-      - url: "https://www.crikey.com.au/wp-content/uploads/2022/08/New-Project161.png"
-        width: 740
-        height: 400
-        isCached: true
 
 secured: "B3/O2l8CuDcfFD4e/I4Bp8AYbMYSelAS58rvFhriw0LiTpnpQhH9gIyvZ0S7v6DfkzvKe8NQwUucZjag1xWHtPXgKhpBKLuxvChuAm3YByYVAHQYZaNUbQ0mhQLfmBilBXvxFEgXld13t6G74I1NuzSdeybBfcHOLfbEGB1twt6TZgqoDtzmKObZivgpmC8YORApX9pPAFZnYI8CRexNbvabySoG4BjGlSEcKXVDcR2TneBlLDvXDTZ/0HPOYW2phz6UZRYlKLU3NQryZDe3IL66b4PGz2hO0PCnnmC9LWrBdL1MYD03WJbzuOvBtHHkRFdghNyIFQpqpuZS6+vU+a17pAb6PFFFlves3e2xcjU=;bb9UiAEbA6Unem9tr6uExQ=="
 ---

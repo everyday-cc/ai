@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-23T18:10:00Z
 originalUrl: "https://www.parcelandpostaltechnologyinternational.com/opinion/profitable-parcel-processing-depends-on-ai-powered-robotics.html"
 webUrl: "https://www.parcelandpostaltechnologyinternational.com/opinion/profitable-parcel-processing-depends-on-ai-powered-robotics.html"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: parcelandpostaltechnologyinternational

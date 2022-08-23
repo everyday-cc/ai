@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-23T16:00:00Z
 originalUrl: "https://www.electronicsweekly.com/market-sectors/automotive-electronics/untether-ai-moves-to-floating-point-for-speedai-architecture-2022-08/"
 webUrl: "https://www.electronicsweekly.com/market-sectors/automotive-electronics/untether-ai-moves-to-floating-point-for-speedai-architecture-2022-08/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 

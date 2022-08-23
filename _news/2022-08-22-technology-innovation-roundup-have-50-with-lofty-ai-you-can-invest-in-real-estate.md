@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "The Roundup: L.A. startup news you need to know"
+    excerpt: "Welcome to The Roundup, a recap of recent L.A. startup news you need to know, from fundings to new product launches and other updates from local upstarts. ROBOTICS: GrayMatter Robotics, an AI-robotics company announced a $20 million Series A investment led by Bow Capital,"
+    publishedDateTime: 2022-08-23T17:05:00Z
+    webUrl: "https://www.bizjournals.com/losangeles/inno/stories/fundings/2022/08/23/heres-what-happened-in-la-tech-this-week.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 4
+
 secured: "b0VVFYLE7kTBf0sqW4xQEI5Xw6fMoI0aBIuT/YcwZYPC5X4k6jiFmDTtUEGVQO+ZZ9ijfbpWv6moBNPVCuPUFcXwWG4kI4jsWaYj17RrdOE0QEBcz6wqQhCEulNaox2Wq95ThGtX1LJC2jOLbmJezbXgqcANhluW7/qdknNpI9IbZIaLUix3fnE7+0h99jll8B9OwlT5XWVbxvPCHw1wPNPlMamVNIk7N9IZh2eZzotit62h/NJXHaCG76nDz9pqHCmjytqYUyudtL/dbTU+WVgihVtanO6C+yKkKMgxdladrXtsjfmclWiukp+qP6Kei6afEIqPJ83MWr4ony/Ybb9GxrkLnpR1OlxzUywHX+rBSSniEQs9PapY5bUeKv1nzWhB+aSRHbbcSaaT/hI1IxKGxiYZGBuzBAf1fMMRF75xvDciDM64I6fX0iZv2snTpeW/JnrJV2UFYS6cIaVAQuVkvAl0BzpgW2HOP8AoOdUILQ2zf2gBG9bbMkDTBHgLjJfPdxnzdHfVIf++YvQ9yg==;6C6yWZTyPrvIv4+1QmYasA=="
 ---
 

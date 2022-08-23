@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-23T18:24:00Z
 originalUrl: "https://observer.ug/businessnews/74863-ugandan-fintech-solerchil-moves-to-us-after-securing-300k-pre-seed-funding"
 webUrl: "https://observer.ug/businessnews/74863-ugandan-fintech-solerchil-moves-to-us-after-securing-300k-pre-seed-funding"
 type: article
+quality: 2
+heat: 2
+published: false
 
 provider:
   name: The Observer

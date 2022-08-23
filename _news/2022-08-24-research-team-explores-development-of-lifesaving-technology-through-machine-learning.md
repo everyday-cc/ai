@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-23T19:39:00Z
 originalUrl: "https://medicalxpress.com/news/2022-08-team-explores-lifesaving-technology-machine.html"
 webUrl: "https://medicalxpress.com/news/2022-08-team-explores-lifesaving-technology-machine.html"
 type: article
+quality: 12
+heat: 12
+published: false
 
 provider:
   name: Medical Xpress

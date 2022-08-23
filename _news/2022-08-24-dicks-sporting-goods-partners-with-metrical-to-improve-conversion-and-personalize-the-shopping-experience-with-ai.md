@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-23T19:00:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/08/p28606737/dicks-sporting-goods-partners-with-metrical-to-improve-conversion-and-personalize-the-shopping-exp"
 webUrl: "https://www.benzinga.com/pressreleases/22/08/p28606737/dicks-sporting-goods-partners-with-metrical-to-improve-conversion-and-personalize-the-shopping-exp"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com

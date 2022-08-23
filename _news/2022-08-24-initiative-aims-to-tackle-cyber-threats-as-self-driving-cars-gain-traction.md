@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-23T19:51:00Z
 originalUrl: "https://thehill.com/policy/3612582-initiative-aims-to-tackle-cyber-threats-as-self-driving-cars-gain-traction/"
 webUrl: "https://thehill.com/policy/3612582-initiative-aims-to-tackle-cyber-threats-as-self-driving-cars-gain-traction/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Hill

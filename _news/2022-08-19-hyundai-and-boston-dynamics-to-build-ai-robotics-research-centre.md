@@ -41,6 +41,20 @@ related:
         width: 1426
         height: 808
         isCached: true
+  - title: "Untether AI moves to floating point for SpeedAI architecture"
+    excerpt: "At this week's HotChips 2022, UntetherAI has announced its second generation at-memory architecture to accelerate AI interference. SpeedAI (codenamed"
+    publishedDateTime: 2022-08-23T16:00:00Z
+    webUrl: "https://www.electronicsweekly.com/market-sectors/automotive-electronics/untether-ai-moves-to-floating-point-for-speedai-architecture-2022-08/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 41
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/08/19113105/23-08-2022-untetherAI-speedAI-7P6A9757-Edit-hires-bkg-scaled.jpg"
+        width: 2560
+        height: 1536
+        isCached: true
   - title: "AI Continues To Build The Foundation For A Remarkable Future In Biology"
     excerpt: "DeepMind, an Alphabet-owned AI research firm, made the structural data on more than 200 million proteins from its AlphaFold tool freely available."
     publishedDateTime: 2022-08-23T05:20:00Z
@@ -54,20 +68,6 @@ related:
       - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1345658982/image_1345658982.jpg?io=getty-c-w750"
         width: 750
         height: 422
-        isCached: true
-  - title: "Untether AI moves to floating point for SpeedAI architecture"
-    excerpt: "At this week's HotChips 2022, UntetherAI has announced its second generation at-memory architecture to accelerate AI interference. SpeedAI (codenamed"
-    publishedDateTime: 2022-08-23T16:00:00Z
-    webUrl: "https://www.electronicsweekly.com/market-sectors/automotive-electronics/untether-ai-moves-to-floating-point-for-speedai-architecture-2022-08/"
-    type: article
-    provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 39
-    images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/08/19113105/23-08-2022-untetherAI-speedAI-7P6A9757-Edit-hires-bkg-scaled.jpg"
-        width: 2560
-        height: 1536
         isCached: true
 
 secured: "xs57hkWyC/Ha5v1sAmGtw6wWF1FIGc9Zv336PI+eKCobLN/WVsuxI2dJpqRlgpabxheS1fF04/B/CBLTul2Z/5I+ifSCzo8sXzYCfoL++DOIchy3ZUv6dX5neqSBS43c0A2dew1u7uLxUqp5bFzXtJJcqxWnp9JPeVCOV9eMv85JxylGGNe9tS4sD3QAdTm74PHGI5PosQCR/rqOSC1ek7w9T+IELvoxTFeWTxYHn189zeXukyj3WFKAr2CipDy7JE97d1U/k0iAA6sTlV9mOYnSmHU9WdhfDHqoC4ciQjozF4XWOEdcsPRnIlwooRTZ1OrcUdiu0BA+6Itt0Ax2cMuKqgsMWDvDg3LPMEuFtUo=;ic8KMFcu7NYM5tOfNJRpqQ=="

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-23T12:09:00Z
 originalUrl: "https://www.stattimes.com/aviation/ionq-airbus-sign-agreement-to-collaborate-on-aircraft-loading-project-using-quantum-computing-1346287"
 webUrl: "https://www.stattimes.com/aviation/ionq-airbus-sign-agreement-to-collaborate-on-aircraft-loading-project-using-quantum-computing-1346287"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: air cargo

@@ -319,15 +319,6 @@ related:
       name: IET
       domain: theiet.org
     quality: 4
-  - title: "Self-driving vehicles ‘on UK roads by 2025’ under new Government plans"
-    excerpt: "Transport Secretary Grant Shapps has unveiled new Government plans to boost the rollout of self-driving technology."
-    publishedDateTime: 2022-08-19T02:01:00Z
-    webUrl: "https://www.aol.com/self-driving-vehicles-uk-roads-230100796.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 4
 
 secured: "SffHtJkSBxR9puLgMaRIO6jGK11C7bWh6IS4/pz0zfZzEL19bi5HiYHhHv2XdyV1hIbLOolwKfhQbdZWxOXult/rbcQSxgH9NuoobL3fFowR4KPk8Aym2iGS7MubTehPb2hlK250kwZtiozMS/dNwZYzodjAZ6oR1HogX1URUM+9RtxdpGKdH9FAmHCCBmiJi88GzGgfi23M1s72QgOMSdEiQtj7oEJpDdsGxkGa5TIthGhMHWoBTxrbK1W3i0u8EuGXLwYt/WY6KKQnSoULFX3XQUYLWgZxfBOUkRK+Wc64/2xYJXZFhbZ8ePKeCtuflboa2+hElVtABp2OP3+NmfTR81ZWIatyfbjK7TTi7ljv157UO5zj5K0mwe4X0YmDJu7cO+doVDX2rFTsvCaTwmp2A1Dp4rCn+AgLENabZHeEHXF+Cs7bvCMO1NwPcc7BouqdDXSDtTiqI+IW22FPXeyjUrFiyd7bOXFHCtKih+iB/1YJkqV0gd2PefofSAgWriommn1npy39aaCvTlej0A==;rSKxaDGcPkm1XgAcUMsQoQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-23T16:23:00Z
 originalUrl: "https://www.i24news.tv/en/news/israel/technology-science/1661271459-israeli-startup-s-fruit-picking-drones-address-global-farm-labor-crisis"
 webUrl: "https://www.i24news.tv/en/news/israel/technology-science/1661271459-israeli-startup-s-fruit-picking-drones-address-global-farm-labor-crisis"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: i24NEWS

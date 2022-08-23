@@ -66,6 +66,34 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Capitol Records Drops AI Rapper FN Meka After Backlash"
+    excerpt: "Just a few weeks after it was announced that Capitol Records had signed an artificial intelligence rapper named FN Meka, the label dropped the project after hip-hop fans called out the decision online,"
+    publishedDateTime: 2022-08-23T21:45:00Z
+    webUrl: "https://uproxx.com/music/capitol-records-drops-ai-rapper-fn-meka-after-backlash/"
+    type: article
+    provider:
+      name: Uproxx
+      domain: uproxx.com
+    quality: 37
+    images:
+      - url: "https://uproxx.com/wp-content/uploads/2022/08/FN-Meka-GRID.jpg?w=710"
+        width: 710
+        height: 400
+        isCached: true
+  - title: "AI Rapper FN Meka Was Dropped From Capitol Records After Fans Called Out Its Racist Overtones"
+    excerpt: "Just a few weeks after it was announced that Capitol Records had signed an artificial intelligence rapper named FN Meka, the label dropped the project after hip-hop fans called out the decision online,"
+    publishedDateTime: 2022-08-23T21:45:00Z
+    webUrl: "https://uproxx.com/music/ai-rapper-fn-meka-dropped-from-capitol-records/"
+    type: article
+    provider:
+      name: Uproxx
+      domain: uproxx.com
+    quality: 26
+    images:
+      - url: "https://uproxx.com/wp-content/uploads/2022/08/FN-Meka-GRID.jpg?w=710"
+        width: 710
+        height: 400
+        isCached: true
 
 secured: "vhCIN2eY8elujutIdADSNqyU1qz7vFesoVSBTPkDGkADWd0jA1tCf+26eslwmrOV4ekLcpSmz/O5Av/Szj792mI5YU2xnEwbHHJcjOwnB162klzkm/4ynYtdU2C09IEWBidNO5QuKC0282u+1hD+r9CXUUnyUOy8RoFmgs7tfL75K1Oze6ERa1zp7scgbRr03kU1qVZdaWdkVzcDRkAwCgIKwgpy7u7Kadfk7estx1bxxrgxHWyaZzTqFj/WyS1tZQv/1T2mIVz/u1EGKdp5tGW4gAKkUmurb7q7geHlct3oxpd8ER+fsaZzv6AVB1DPf3LzmSYMB98oag3l2TiWoESKO3A81MdMLzXMw+fjKEprJ7auB+r2dH9ud6YIo40x/JAqFMGg2vhqIqhe1qFcuA2K6/vIurbxb9dZAcLX80c90UXTDS2W/q5/yP5CHM2Qk0defPNlDThJiCR6WcoWMbEDJkPaOAlJVS+xC4sVrEJXlHOZImQpza3AUsfgt3FSwTplUjCj2p8n5BDlpUaL0Q==;OA3ic7jV+GOeEbZK+el6xA=="
 ---

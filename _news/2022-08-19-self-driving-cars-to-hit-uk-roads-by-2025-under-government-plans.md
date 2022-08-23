@@ -310,15 +310,6 @@ related:
         width: 370
         height: 229
         isCached: true
-  - title: "Self-driving vehicles ‘on UK roads by 2025’ under new Government plans"
-    excerpt: "Transport Secretary Grant Shapps has unveiled new Government plans to boost the rollout of self-driving technology."
-    publishedDateTime: 2022-08-19T02:01:00Z
-    webUrl: "https://www.aol.com/self-driving-vehicles-uk-roads-230100796.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
-    quality: 4
   - title: "Self-driving vehicles could be on UK roads 'next year' creating thousands of jobs"
     excerpt: "The Department for Transport said the self-driving industry could create up to 38,000 jobs and be worth £42 billion."
     publishedDateTime: 2022-08-19T11:53:00Z

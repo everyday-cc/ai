@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Biometrics work too well with face masks for criminals to hide; or for anonymity"
+    excerpt: "An increasing number of face biometrics developers have stepped up their efforts to improve the recognition rates of individuals wearing masks."
+    publishedDateTime: 2022-08-23T20:26:00Z
+    webUrl: "https://www.biometricupdate.com/202208/biometrics-work-too-well-with-face-masks-for-criminals-to-hide-or-for-anonymity"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 19
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/23162357/face-mask-in-public-scaled.jpg"
+        width: 2048
+        height: 1365
+        isCached: true
   - title: "Face biometrics deployed for everything from supermarket payments to World Cup security"
     excerpt: "Face biometrics for identity verification, small-n searches and large-scale forensic investigation, and even live facial recognition lead the news this week."
     publishedDateTime: 2022-08-20T18:03:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-23T18:51:00Z
 originalUrl: "https://www.scmagazine.com/news/emerging-technology/hiddenlayer-aims-to-raise-awareness-around-threats-to-ai-ml-systems"
 webUrl: "https://www.scmagazine.com/news/emerging-technology/hiddenlayer-aims-to-raise-awareness-around-threats-to-ai-ml-systems"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: SC Media

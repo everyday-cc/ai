@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-23T19:15:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/08/p28606973/ai-metrics-an-ai-medical-imaging-technology-startup-announces-new-chief-medical-officer-and-ceo"
 webUrl: "https://www.benzinga.com/pressreleases/22/08/p28606973/ai-metrics-an-ai-medical-imaging-technology-startup-announces-new-chief-medical-officer-and-ceo"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Benzinga.com

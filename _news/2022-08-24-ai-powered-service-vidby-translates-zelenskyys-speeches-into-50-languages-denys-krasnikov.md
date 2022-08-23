@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-23T18:18:00Z
 originalUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-8-23-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov"
 webUrl: "https://finance.dailyherald.com/dailyherald/article/abnewswire-2022-8-23-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: Daily Herald

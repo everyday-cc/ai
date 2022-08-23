@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/britain-sets
 webUrl: "https://www.reuters.com/business/autos-transportation/britain-sets-out-roadmap-self-driving-vehicle-usage-by-2025-2022-08-19/"
 type: article
 quality: 84
-heat: 304
+heat: 294
 published: true
 
 provider:
@@ -314,15 +314,6 @@ related:
     provider:
       name: IET
       domain: theiet.org
-    quality: 4
-  - title: "Self-driving vehicles ‘on UK roads by 2025’ under new Government plans"
-    excerpt: "Transport Secretary Grant Shapps has unveiled new Government plans to boost the rollout of self-driving technology."
-    publishedDateTime: 2022-08-19T02:01:00Z
-    webUrl: "https://www.aol.com/self-driving-vehicles-uk-roads-230100796.html"
-    type: article
-    provider:
-      name: AOL
-      domain: aol.com
     quality: 4
   - title: "Self-driving vehicles could be on UK roads 'next year' creating thousands of jobs"
     excerpt: "The Department for Transport said the self-driving industry could create up to 38,000 jobs and be worth £42 billion."

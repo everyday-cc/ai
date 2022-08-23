@@ -63,7 +63,7 @@ related:
     provider:
       name: Electronics Weekly
       domain: electronicsweekly.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/08/19113105/23-08-2022-untetherAI-speedAI-7P6A9757-Edit-hires-bkg-scaled.jpg"
         width: 2560

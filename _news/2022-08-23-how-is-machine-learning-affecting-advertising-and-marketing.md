@@ -7,8 +7,8 @@ originalUrl: "https://www.bbntimes.com/technology/how-is-machine-learning-affect
 webUrl: "https://www.bbntimes.com/technology/how-is-machine-learning-affecting-advertising-and-marketing"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: bbntimes
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Pilot Company and Kodiak Robotics Partner to Bring Self-Driving Truck Services to Pilot and Flying J Travel Centers"
+    excerpt: "Pilot Company makes a strategic investment in Kodiak and will join Kodiak's Board of Directors. The companies are working together to bring autonomous truck inspections, maintenance, refueling, data offloading and load pick-up and drop-offs to commercial trucking customers."
+    publishedDateTime: 2022-08-23T20:28:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-pilot-company-kodiak-robotics-partner-bring-self-driving-/2022/08/23/9661157.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+    images:
+      - url: "https://mma.prnewswire.com/media/1081236/PIlot_Company_Logo.jpg"
+        width: 400
+        height: 203
+        isCached: true
   - title: "E-Learning Market Size Surpassed $315 Billion In 2021 And Projected To Hit 20% CAGR From 2022 To 2028"
     excerpt: "The education sector is evolving globally, creating growth opportunities for the e-learning market. Several education institutes, are transitioning to an online higher education curriculum to support students in completing their degrees."
     publishedDateTime: 2022-08-23T12:30:00Z

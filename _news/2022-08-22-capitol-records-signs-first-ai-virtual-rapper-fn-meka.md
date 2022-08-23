@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wdbj7.com/2022/08/21/capitol-records-signs-first-ai-virt
 cdnAmpWebUrl: "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2022/08/21/capitol-records-signs-first-ai-virtual-rapper-fn-meka/?outputType=amp"
 type: article
 quality: 57
-heat: 87
+heat: 107
 published: true
 
 provider:
@@ -57,6 +57,34 @@ related:
       - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2022/08/932/470/GettyImages-1230726502.jpg?ve=1&tl=1"
         width: 932
         height: 470
+        isCached: true
+  - title: "Capitol Records Drops AI Rapper FN Meka After Backlash"
+    excerpt: "Just a few weeks after it was announced that Capitol Records had signed an artificial intelligence rapper named FN Meka, the label dropped the project after hip-hop fans called out the decision online,"
+    publishedDateTime: 2022-08-23T21:45:00Z
+    webUrl: "https://uproxx.com/music/capitol-records-drops-ai-rapper-fn-meka-after-backlash/"
+    type: article
+    provider:
+      name: Uproxx
+      domain: uproxx.com
+    quality: 37
+    images:
+      - url: "https://uproxx.com/wp-content/uploads/2022/08/FN-Meka-GRID.jpg?w=710"
+        width: 710
+        height: 400
+        isCached: true
+  - title: "AI Rapper FN Meka Was Dropped From Capitol Records After Fans Called Out Its Racist Overtones"
+    excerpt: "Just a few weeks after it was announced that Capitol Records had signed an artificial intelligence rapper named FN Meka, the label dropped the project after hip-hop fans called out the decision online,"
+    publishedDateTime: 2022-08-23T21:45:00Z
+    webUrl: "https://uproxx.com/music/ai-rapper-fn-meka-dropped-from-capitol-records/"
+    type: article
+    provider:
+      name: Uproxx
+      domain: uproxx.com
+    quality: 26
+    images:
+      - url: "https://uproxx.com/wp-content/uploads/2022/08/FN-Meka-GRID.jpg?w=710"
+        width: 710
+        height: 400
         isCached: true
   - title: "AI Rapper FN Meka Has Signed To Capitol Records, And Hip-Hop Fans Are Not Happy About It"
     excerpt: "Labels wanna be cheap and not have to pay real artists so they’re making bots [so] they can keep 100% profit,’ said one Twitter user."

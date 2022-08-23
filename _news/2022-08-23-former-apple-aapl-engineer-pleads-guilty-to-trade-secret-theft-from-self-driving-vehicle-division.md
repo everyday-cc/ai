@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 813
         isCached: true
-  - title: "Self-driving vehicles on verge of becoming common"
-    excerpt: "Yang Diange, a professor from the School of Vehicle and Mobility at Tsinghua University, said: \"Level 4 self-driving technology will first be deployed in taxis and trucks and in some designated areas,"
-    publishedDateTime: 2022-08-19T02:04:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202208/19/WS62fee6e4a310fd2b29e73221_2.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 24
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202208/19/62fee6e4a310fd2bec9cf6d1.jpeg"
-        width: 663
-        height: 441
-        isCached: true
   - title: "Former Apple engineer takes plea deal for stealing self-driving trade secrets before working for XPeng"
     excerpt: "Former Apple engineer Xiaolang Zhang has pleaded guilty to trade secret theft after being accused of stealing information surrounding Apple’s self-driving technology. Zhang would go on to work for XPeng Motors in China,"
     publishedDateTime: 2022-08-23T13:23:00Z

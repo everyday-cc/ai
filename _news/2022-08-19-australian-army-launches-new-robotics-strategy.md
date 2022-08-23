@@ -19,20 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "This Australian company says its AI product can predict suicide attempts in prison"
-    excerpt: "Omniscience's facial recognition software was suspected to have been used by Hong Kong police during the 2019 protests — but the company says the police purchased it to track lost kids."
-    publishedDateTime: 2022-08-19T01:18:00Z
-    webUrl: "https://www.crikey.com.au/2022/08/19/artificial-intelligence-prison-suicide-security-expo/"
-    type: article
-    provider:
-      name: Crikey
-      domain: crikey.com.au
-    quality: 31
-    images:
-      - url: "https://www.crikey.com.au/wp-content/uploads/2022/08/New-Project161.png"
-        width: 740
-        height: 400
-        isCached: true
   - title: "Albanese plans to use voice to create jobs for Indigenous Australians"
     excerpt: "Anthony Albanese says he will turn his attention to the ways an Indigenous voice could help create more jobs for Aboriginal and Torres Strait Islander Australians."
     publishedDateTime: 2022-08-19T09:34:00Z

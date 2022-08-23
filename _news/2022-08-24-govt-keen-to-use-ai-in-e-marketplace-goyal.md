@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-23T18:40:00Z
 originalUrl: "https://www.dailypioneer.com/2022/business/govt-keen-to-use-ai-in--e-marketplace--goyal.html"
 webUrl: "https://www.dailypioneer.com/2022/business/govt-keen-to-use-ai-in--e-marketplace--goyal.html"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Pioneer

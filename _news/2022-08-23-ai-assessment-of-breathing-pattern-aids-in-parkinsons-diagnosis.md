@@ -99,6 +99,15 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "Scientists invent device that can detect Parkinson’s disease when you’re asleep"
+    excerpt: "Scientists have developed a device that can detect the presence of Parkinson’s disease — one of the fastest-growing neurological conditions in the world. Parkinson’s disease is notoriously difficult to diagnose as it relies primarily on the appearance of motor symptoms such as tremors,"
+    publishedDateTime: 2022-08-23T15:58:00Z
+    webUrl: "https://metro.co.uk/2022/08/23/scientists-invent-device-to-detect-parkinsons-disease-when-asleep-17230585/?ico=amp_tag-post-strip_item_3_news"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 0
 
 secured: "jlV8u2c49SEVe/H0Soz0fh4d73VxJs9LRf2yNtrDsgZ6o+6Vyq9vfYddmt5uIw3q3ValfD53L1kK2uvrl1d/ObcBEKXjORj7LIMcfoyK83Wy4fUYumVbhe+xEOssKGICQSNL0h0YUZ5b8t5uk+0loGM6XcgiPHkrmePAMEDWicf5OGEsmIgcfKeskVKF0XW7UwMQDBhRpzh1FMxtaIxmMAkvONUj3XWLV8rvAzYa6NOZ/3YJpUXU1HcB7EIXK7hGuZeKCwplZQuoi+MoUkWAlm6K2Doif+4EHRKntUWIOC/BZTT51iRw4iDExOB+5R1mVhmNw4n1c5n+Szph5CpvFpEoobQoCpc5v9pbnFY6evAtGcdHfbcYbIIQXP7Lal9x9Uc2WGntoLsYofys0WVueL4Gcr7V5+zh4V+GvNI9ED6j9xHCRoDzG6fP2gnLrZBx9ObqdXU7dyjWTS64rfnWRj/QIpUyxkMVMNkNm+PsU4TdEGFH355BX99sozlA/WHV6HN0y3ewX/qSdWMru2sd2A==;d2kouGGagsRXyBTEkZZ0eQ=="
 ---
