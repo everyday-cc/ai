@@ -6,9 +6,6 @@ publishedDateTime: 2022-08-21T15:12:00Z
 originalUrl: "https://menafn.com/1104730557/Bondi-Behavioural-Optometrist-Urges-All-On-Computer-Vision-Syndrome-Management"
 webUrl: "https://menafn.com/1104730557/Bondi-Behavioural-Optometrist-Urges-All-On-Computer-Vision-Syndrome-Management"
 type: article
-quality: 35
-heat: 35
-published: false
 
 provider:
   name: MENAFN
@@ -18,12 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://menafn.com/updates/pr/2022-08/21/M_ef26895a-e_Image_In_Body.jpg"
-    width: 600
-    height: 400
-    isCached: true
-
-secured: "eXYz2CIe4im5RGv+14/ISs9F5bN9oFbOT/VlmHo3IafFqAGGPrDdeenBqLU37Yza0Zs92wj6Ua/oGqzD7geWEYWtg7QS6IqsylLP2IHJ7QMI77riJy3AnSmKZHOU+gtCigyC5YP+XhlTBw4DmsRsF3TKauakM2pxTMY7ZW3/+PzQWmuOaWskv8OpX23a1XooYNT361Y92QK03OhH5oAjqCKzrS/95y4rP1A37aYTGE8p68n2XiJlgGmodhbo9CwZs11FkcBgrXL6rtdE3M8wicReCx6pUfInivV5Clyf8LZ7N5KJM8hF1H0SpTVr1lFiwexGgMVIEg8NA51as62HWjFNxdbx11m03TAfW9qNhD0=;hSDN7+9d+AL+mkr6GDN/FQ=="
+secured: "V82leEJ/vqbQ5xAPbJqh5YGSZ/u1VY281eM9d8p4xXDmUmh439USin8kUSCMKBiD1VvpMFf5uZipVMcbtS7+dANUlwbwErwYPD57A2TMxcm6mW9peJsvL+Rs8JRsx0dAybXJpWkWUzA9CgVqAm3reiYUH3tba4KWG/trbO0hL5TRuas2Tq/cGDpuNvn7yVJw8p6E0Eo7VwOUjI/ZD6AJr/P32LJ+6Du5MPFmOQjRZpxy6lOUF+WxvrrCQBtqmdGDAlDf1Dlb6mZG34FE0hH/BeA8wCu04Kjyc4LL71HsI+e1S5im8z43S26Z+y+Tcg+PrD05iRtHs0NDYnUrp9M/MWE5F88ZOHAfN7stifXkth0=;2MtWrxNOWNFHiSeXw7QcRA=="
 ---
 

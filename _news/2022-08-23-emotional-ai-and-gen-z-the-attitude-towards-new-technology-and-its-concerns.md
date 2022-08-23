@@ -1,29 +1,19 @@
 ---
 category: news
 title: "Emotional AI and gen Z: The attitude towards new technology and its concerns"
-excerpt: "Artificial intelligence that gauges and engages human emotions, known as emotional AI, is a growing industry with widespread applications. However, its unregulated nature and lack of recalibration for cultural differences makes it important to understand its acceptability among Generation Z,"
-publishedDateTime: 2022-08-23T04:04:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/962490"
-webUrl: "https://www.eurekalert.org/news-releases/962490"
+excerpt: "AI has ubiquitous presence in technology. Yet, it had been lacking a crucial feature: the ability to engage human emotions."
+publishedDateTime: 2022-08-23T12:27:00Z
+originalUrl: "https://techxplore.com/news/2022-08-emotional-ai-gen-attitude-technology.html"
+webUrl: "https://techxplore.com/news/2022-08-emotional-ai-gen-attitude-technology.html"
 type: article
-quality: 36
-heat: 36
-published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: techxplore
+  domain: techxplore.com
 
 topics:
-  - AI Ethics
   - AI
 
-images:
-  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/9a9e26ba-e094-41a0-87c7-c898e70bfad8/Rendition/low-res/Content/Public"
-    width: 700
-    height: 394
-    isCached: true
-
-secured: "o3na+AZqS4ebn2bhCCrPw/8wb2Omg17CUXkWxuWNKxdjEefvE1fKDGCvz2UTo3G78pfq2mn1cFtoQqN1cNQDt8+EerX6O2D58gdr0R6t/vLi+MCASP04pifHcdydW89LT365xJQ6dsMY6FsEd04xqQC9lPdY9xjUuY7u9BiDIuXg4Ew8T5PT9gBnU/Sv3qKpqNf3HGL6XBg5pp5ymsznQt78l47YBocTehlnnbBGdk6VwZD9sWw7A4PUACzHRhAAbuYhf5JXdWM2kqw99GY9VVp4ns0h1KLhSIzyFZhErF7z76vkEyRaFB3h+qGsE8/p0Wwfri+FtofxO18WICdj61IdtRLEKsqh0kLnQ8baDXMr0yXFeIniETV/3ON/Jo7THtzl++wzD0i2AJDacDHUqFF2flrvRk75R+Eat7AkA29rGao8Chko2k7ZF2cUsLlx/X8S9KMV6vrndNnmp+LZ4bdBZRQOnLZ8X5Qyz+aCaGXlYC2RUeEPzg1BWbOOI7N9Ylzl7D4DPPfaJd8MwEb97g==;Tz4iuteV9W6qc2fdSgS3PQ=="
+secured: "fPygurIAf5cdTyzr6t/1Kit3MeeTEJ74eXAtH+NebAC0t4PD5WZha2skEzQjaTtefXP5i2+FnrSYWJX/THUnG97MODCJBQ1Q88kOxG1ShH/QmtpfTFA7jsgtpibLf1nCiIeI/8egDKieQu5RHBiw9ibKGmir1sV/6SIEqtSuLJUDh3aLarAM/m8zhoqDgqbv555/BTFID1yuniMSfKsIgkUYnElfC2zTRkAS7ueMGtCZXOkDwmFInoHTYVLfZ/+YnHCzhPAu6NLBz1S1g/+PShffFwpUvmb+DqmS+i2/qAAucatHwVzFCqef6ZR7TMycO3fNUEz/xOv/PD6evcKj1H5M3Jw7HKywP59xcxftnQjbSWhqZvMuTWWzwpDdyS61vDthD6/GgEQLKCZmOnROJXq6Rqz/DTYjgzEQW2YZm9Ycfm+2gWOhwovQSIWb8tSXtn1g6zkHSjb3aA73ywogDUw2BOVxDRfTcapPFEHBEblUa93UQjAiStNJAzcF+mok5Hk1wZGDmi0Dywa7YYj0cg==;yfSssJCNsQ9E4Y9ocWbu6w=="
 ---
 
