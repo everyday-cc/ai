@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Ivy.ai earns TX-RAMP provisional status, proving its secure, compliant chatbot technology"
+    excerpt: "Public Higher Education institutions in Texas can deploy Ivy's solutions with confidence.BOULDER, Colo., Aug. 23, 2022 /PRNewswire/ -- Ivy.ai —"
+    publishedDateTime: 2022-08-23T13:01:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/ivy-ai-earns-tx-ramp-provisional-status-proving-its-secure-compliant-chatbot-technology-1031700517"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 38
   - title: "AI Chatbot Speeds Answers to Customers"
     excerpt: "The Tetra Tech’s Federal IT Innovation Lab recently launched Auxilium, a high-end artificial intelligence (AI) solution."
     publishedDateTime: 2022-08-22T15:12:00Z

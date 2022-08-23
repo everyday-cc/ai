@@ -9,8 +9,8 @@ ampWebUrl: "https://www.benzinga.com/amp/content/28587177"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28587177"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: -1
+published: false
 
 provider:
   name: Benzinga.com
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Startup Anyscale Adds $99 Million to Andressen Horowitz-Led Funding Round"
+    excerpt: "The company initially announced a $100 million Series C venture investment round led by Andressen Horowitz in December."
+    publishedDateTime: 2022-08-23T10:30:00Z
+    webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
+    ampWebUrl: "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-608499?width=860&height=573"
+        width: 860
+        height: 573
+        isCached: true
   - title: "SCALE AI announces a major financing round in artificial intelligence: $50 million to support 12 new projects"
     excerpt: "With an additional 12 projects representing more than $50 million in investments announced today by SCALE AI, artificial intelligence (AI) is continuing on its path of rapid adoption by Canadian industry leaders."
     publishedDateTime: 2022-08-22T17:24:00Z
@@ -40,15 +56,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "SCALE AI announces $1.1-million investment into Adastra x Taiga Building Products Supply Chain Optimization Project"
-    excerpt: "Adastra, a global leader in AI and machine learning, is proud to announce that it has been awarded a $1.1-million investment from SCALE AI to support a supply chain optimization platform project for their partner Taiga Building Products."
-    publishedDateTime: 2022-08-22T16:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-22-scale-ai-announces-11-million-investment-into-adastra-x-taiga-building-products-supply-chain-optimization-project"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
 
 secured: "WBaxoz/4Qpfdhef3E1++mZYIfpC/lzSLxHWZXkCk9jjeUN40IN62U7ofRYFTsxNTOfKEyf50S6PivbRtiTQEXGcnc2/vvKRrQ6/h+fItVO5OyoWpPwP83+ZWXkzfpK96Qy3xR+1RYxxI2jkiuwHZ39LOVZy9Cob8qp73y5g8fFB2MIyRBI4W3EN+OcC5mLsqjyuksOIpPNuIoLa229FaxUnY2li6/XjBmE860ySem1HmjvPo+goG9bqp3fdjZYxhtkwkLw7L3iUdIyC+A9W1uxrRZlHdCYX+CNHJ+bca2yhLbvde3JD0dZNjTJ64lJfy5TV+eIPFsgqBsw5CkfISSI1PdDjT8u0u1ZCASpBVhoc=;Y/QJi63/gcE87ctINrp2cA=="
 ---

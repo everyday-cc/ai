@@ -296,17 +296,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Tesla Wants Its Day in Court to Defend Autopilot and Full-Self Driving"
-    excerpt: "Tesla has asked for a hearing to defend its advertising of Autopilot and FSD after the California DMV called it false advertising."
-    publishedDateTime: 2022-08-18T22:00:00Z
-    webUrl: "https://jalopnik.com/tesla-wants-its-day-in-court-to-defend-autopilot-and-fu-1849430552"
-    ampWebUrl: "https://jalopnik.com/tesla-wants-its-day-in-court-to-defend-autopilot-and-fu-1849430552/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/tesla-wants-its-day-in-court-to-defend-autopilot-and-fu-1849430552/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 54
   - title: "Musk says Tesla raising 'Full Self-Driving' price to $15,000"
     excerpt: "Driving,' or FSD, has been criticized because the features require active supervision and don’t make its vehicles autonomous."
     publishedDateTime: 2022-08-22T10:30:00Z
@@ -334,38 +323,6 @@ related:
       - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/roa120121bob-teslaplaid-002-1637346766.jpg?crop=1.00xw:0.670xh;0,0.311xh&resize=1200:*"
         width: 1200
         height: 603
-        isCached: true
-  - title: "NHTSA Doesn’t Want People Testing Tesla’s Full Self-Driving On Real Human Children"
-    excerpt: "The NHTSA is warning those who use real kids or people in general for their own safety testing demonstrations. The reaction comes after a bevy of private individuals began posting similar tests online."
-    publishedDateTime: 2022-08-18T22:03:00Z
-    webUrl: "https://www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/"
-    ampWebUrl: "https://www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 53
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2022/08/2022-Tesla-Lineup-1-1024x555.jpg"
-        width: 1024
-        height: 555
-        isCached: true
-  - title: "NHTSA Doesn’t Want People Testing Tesla’s Full Self-Driving Technology On Real Human Children"
-    excerpt: "The NHTSA is warning those who use real kids or people in general for their own safety testing demonstrations. The reaction comes after a bevy of private individuals began posting similar tests online."
-    publishedDateTime: 2022-08-18T22:00:00Z
-    webUrl: "https://www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/"
-    ampWebUrl: "https://www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/nhtsa-doesnt-want-people-testing-teslas-full-self-driving-technology-on-real-human-children/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 48
-    images:
-      - url: "https://www.carscoops.com/wp-content/uploads/2022/08/2022-Tesla-Lineup-1-1024x555.jpg"
-        width: 1024
-        height: 555
         isCached: true
   - title: "People are now testing Tesla’s ‘full self-driving’ on real kids"
     excerpt: "Carmine Cupani wanted to set the record straight. So he asked his young son to stand in the path of his Tesla as it sped through a parking lot."

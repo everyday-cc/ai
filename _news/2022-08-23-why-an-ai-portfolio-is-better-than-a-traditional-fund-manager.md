@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-23T13:24:00Z
 originalUrl: "https://www.forbes.com/sites/qai/2022/08/23/why-an-ai-portfolio-is-better-than-a-traditional-fund-manager/"
 webUrl: "https://www.forbes.com/sites/qai/2022/08/23/why-an-ai-portfolio-is-better-than-a-traditional-fund-manager/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

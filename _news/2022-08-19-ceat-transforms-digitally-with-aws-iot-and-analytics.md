@@ -9,7 +9,7 @@ ampWebUrl: "https://www.financialexpress.com/express-mobility/ceat-transforms-di
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/lite/"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "Sisu Unveils New Capabilities with AI/ML-powered Automated Analytics"
+    excerpt: "Sisu Data, the decision intelligence company, is expanding the capabilities of the Sisu Decision Intelligence Engine with"
+    publishedDateTime: 2022-08-23T15:51:00Z
+    webUrl: "https://www.datanami.com/this-just-in/sisu-unveils-new-capabilities-with-ai-ml-powered-automated-analytics/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 34
 
 secured: "9I4cGVGUTCS9sJE0mq9SjL+Sm40a1WOl6GPboECPeFw4XFzkFBku00/0ZBXUUrB8SMzBpRJWJpZ1QoqljIiLE/AWRoc5tquVHYJK5U/96MzvwqWEwqTueVEVuKs+DyJEqg8goSjlxYox0W8igkVOfq7QCFVO4UFjhfkNJZMtccRg61XCz+t7pkYWD75VSbkLi/iczLwaVLJYuzC4DxOYYNk+OfbB+rvGpfEZ2NuRFMqfPZV9Rp/ary/ZnsYFatpZigA0l8kRy7DWwo+F5Ua8rSO6MfoN5KzGt5H+TgMixjS7q+gym7edY4kmcu8LGk8p+9ChTlIIuzqJru10x1PdO2DTCA+2T7JpCnd51huaxTA=;blWU9FaRD13vVTMeAp2EsA=="
 ---

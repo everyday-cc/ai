@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-23T12:07:00Z
 originalUrl: "https://seekingalpha.com/article/4536356-microsoft-when-who-is-the-ceo-matters"
 webUrl: "https://seekingalpha.com/article/4536356-microsoft-when-who-is-the-ceo-matters"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Seeking Alpha

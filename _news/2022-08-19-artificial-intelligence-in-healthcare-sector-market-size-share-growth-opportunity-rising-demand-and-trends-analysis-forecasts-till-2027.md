@@ -51,6 +51,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Speech Recognition Market Growth 2022: Industry Overview, Company Profiles, Emerging Technologies, Regional Data and Forecast 2027"
+    excerpt: "Global Speech Recognition Market Industry Research Report focuses on the global Speech Recognition Services status,"
+    publishedDateTime: 2022-08-20T10:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-growth-2022-industry-overview-company-profiles-emerging-technologies-regional-data-and-forecast-2027-2022-08-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence Supply Chain Market 2022 Key Dynamics, Regional Insights, Growth Statistics and Business Strategies by 2028"
     excerpt: "The Global Artificial Intelligence Supply Chain Market 2022 by Company, Regions, Type and Application, Forecast"
     publishedDateTime: 2022-08-21T19:45:00Z
@@ -88,6 +102,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Research and Markets: Europe Robotic Lawn Mower Market to Reach $1.25 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The Europe robotic lawn"
+    publishedDateTime: 2022-08-22T11:32:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56865346-research-and-markets-europe-robotic-lawn-mower-market-to-reach-dollar-1-25-billion-by-2027-researchandmarkets-com-004.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "NR1VFml/+tv46ACEp22OoGPQhzYLHMjs8UnKBBZfh6fCoe1h1zIYPc6XzlVBIC77g2ULvy6avfNjbOZKucf9KjEUUiwVj8GAi2wU0G0NQPLRWq5+CHdOsMCF6CqgZ995mtv50exr5mIig/JPjZpta2D5bPiaRCeINZc1J6sTEkE3O8uoipnO1m/Oq2dflpdyeyyqI5pRObrbnpTftl8UiXHckuuKXYPsy8q96CW7vi09stBgGGq70Fmvf/BJkgL/ieBeC23xc81dWJHG+xJ/j/EbIoFYndGGXMEcgzTOpjYis/OxwNciXPe9/ZosV6UbeOWMT4GhpSgkmCR0qb/DE0UcKGrYPZOMRqF3fhv9Wv4=;3K/nQRmaOOyiSRv1K2KQ5Q=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-23T09:16:00Z
 originalUrl: "https://www.tehrantimes.com/news/475993/Iranian-voice-actor-Manuchehr-Esmaeili-dies-at-83-did-multiple"
 webUrl: "https://www.tehrantimes.com/news/475993/Iranian-voice-actor-Manuchehr-Esmaeili-dies-at-83-did-multiple"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Tehran Times

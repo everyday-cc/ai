@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-23T13:43:00Z
 originalUrl: "https://www.sportspromedia.com/news/nbc-peacock-premier-league-streaming/?blocktaxonomy=news"
 webUrl: "https://www.sportspromedia.com/news/nbc-peacock-premier-league-streaming/?blocktaxonomy=news"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: SportsPro

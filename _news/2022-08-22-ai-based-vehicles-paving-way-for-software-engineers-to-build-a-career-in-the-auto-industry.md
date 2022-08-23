@@ -66,6 +66,20 @@ related:
       name: Gulf News
       domain: gulfnews.com
     quality: 36
+  - title: "Inworld AI raises $50M for its AI-powered, no-code virtual character development studio"
+    excerpt: "The round adds to a hefty $20 million seed funding round announced in March, bringing Inworld AI’s total amount raised to $70 million. Inworld AI, which is officially known as Theai Inc., is the creator of a unique platform that allows developers,"
+    publishedDateTime: 2022-08-23T13:00:00Z
+    webUrl: "https://siliconangle.com/2022/08/23/inworld-ai-raises-50m-ai-powered-no-code-virtual-character-development-studio/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 29
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/inworld-ai-character.png"
+        width: 1030
+        height: 562
+        isCached: true
 
 secured: "H3+FJSArvKszGnxd/Ps1126A8ksTc4yhOCeyeC820HG0DXK8IQA5Mq92UyV0kBgtpXXOxO992+DgBUU9//VkmhxfmCBUElU15uB8ZYuNowfy3x/7bplleaVwhrXPzXnP8+eihezj4SGvW0PmNwyg7gjyJCs36x8ZrCXus8WTpDXsAby9elvUvqaYHMEFVlwIGTNGTafggzriPMZiGOYQva5wuII22k5zaBpITLTi345tKhiW89K//+tronquiq0cTdUNiDHa7PipODwPN8n4pXZjgEWGW+FSpNQ1nb1JoUcld139uK3834U8no4jeo02UFbb6WrL6BXsK26kaHNg/DmtMLuwQAk+E0nMZlGiAIw=;cMCh044jSi2VD0M/hFX3rQ=="
 ---

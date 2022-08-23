@@ -1,14 +1,11 @@
 ---
 category: news
 title: "PAIRAPHRASE INTEGRATES AMAZON TRANSLATE'S ENGINE INTO ITS TMS SOFTWARE"
-excerpt: "The integration of Amazon Translate within Pairaphrase's translation management software enables organizations to achieve human-quality language"
-publishedDateTime: 2022-08-18T16:22:00Z
+excerpt: "Amazon Translate produces custom translations on demand by leveraging its own artificial neural networks and deep learning system, along with a user's glossaries and translation memories."
+publishedDateTime: 2022-08-18T14:53:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/pairaphrase-integrates-amazon-translate-s-engine-into-its-tms-software-1031693308"
 webUrl: "https://markets.businessinsider.com/news/stocks/pairaphrase-integrates-amazon-translate-s-engine-into-its-tms-software-1031693308"
 type: article
-quality: 83
-heat: 83
-published: true
 
 provider:
   name: Business Insider
@@ -24,6 +21,6 @@ topics:
   - Natural Language Processing
   - AWS AI
 
-secured: "d/X9vEv7FwxvCAt3dN6l9G5d1kj3aHPg17LCGiklz7mJdn/4wDF4CZIL4zGPylUAXg5ripS6WvoCZmrRUjPfT8z0IwBOT+Ebsr3mvsazNsMcFWFxgXTZR6A0SCoXGTvTMdrKlldsFc/Jv5PEgQr/lWtTGtwo4lB3CaAJR6cqWOQlU6pLePev7xxi5/5wKD7sO3yBS1QU5SxAiUpneHqlpaHPRO+WImjn3qgNbBStTHZ37I5uXQYR/VxRlSuL2sobvi32VrT5Rm74XhhW+A3Yy1X7ADUjQPTdNUBGxSk9o3FzmeKIs1MC2WGTvv/87k/mYtHRUJKRqzbwyh369ZLMK9JTcYVXqZHMFo124RAbfBA=;eXGe/sTINWoOdabi2yqfew=="
+secured: "6gtfW21meYr42FukGy0ZKkImQINa/C4/x3C+zSdB0xDpRSsB1YbpTp692uhzRoS3alM/sBRP1t8+yFJIC4xBgOrV6YVsWFDV6Zr1sl6fWHN78TTnEojidY01yWsptGMbUHVwCcJ3zY+edWX3MGgrg66qc+6i/rTXHPhkMfbTIRWlbgkpEm+tQvwPLQ3wpMOuniVfUoMWWtc/WUKFhfKkeYt92TxYCyddss7FY69IyuFdcZdSEuAOK3X7jFQjjLgZwWs6jPYDbiRt8zkiWOiuJbHhtt8x91iL5o+duNtf7TD4Xy5Y5qcb+bUyH4BUhW+F0uEi5byOK9KokYRlWGhJ5SWMIcpsNDSdZ2qxqmH7hlc=;yUxixwF0gVoton61IvH1Mg=="
 ---
 

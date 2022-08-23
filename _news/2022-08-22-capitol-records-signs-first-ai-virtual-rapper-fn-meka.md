@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wdbj7.com/2022/08/21/capitol-records-signs-first-ai-virt
 cdnAmpWebUrl: "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2022/08/21/capitol-records-signs-first-ai-virtual-rapper-fn-meka/?outputType=amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Capitol Records blasted for promoting AI rapper FN Meka using n word"
+    excerpt: "Capitol Records blasted for promoting an AI rapper named FN Meka that was created by a white man and uses the n word"
+    publishedDateTime: 2022-08-23T15:06:00Z
+    webUrl: "https://bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/"
+    ampWebUrl: "https://bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/amp/"
+    cdnAmpWebUrl: "https://bossip-com.cdn.ampproject.org/c/s/bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/amp/"
+    type: article
+    provider:
+      name: Bossip
+      domain: bossip.com
+    quality: 57
+    images:
+      - url: "https://bossip.com/wp-content/uploads/sites/28/2022/08/16612612898745.jpg?w=560&h=320&crop=1&strip=all&quality=80"
+        width: 560
+        height: 320
+        isCached: true
   - title: "An AI-powered rapper? What you should know as a TikTok-famous virtual artist is signed by a record label"
     excerpt: "An announcement by Capitol Records to sign a virtual artist has generated some level of controversy, as well as curiosity over musicians that do not exist in flesh and blood. Here's what you need to know about virtual artists,"
     publishedDateTime: 2022-08-23T04:49:00Z

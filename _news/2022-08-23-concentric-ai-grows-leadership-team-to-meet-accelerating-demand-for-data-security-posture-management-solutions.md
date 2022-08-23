@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-23T12:03:00Z
 originalUrl: "https://www.eagletribune.com/region/concentric-ai-grows-leadership-team-to-meet-accelerating-demand-for-data-security-posture-management-solutions/article_08fc26b1-5bd0-5cb4-8744-6e57fb8bc3bc.html"
 webUrl: "https://www.eagletribune.com/region/concentric-ai-grows-leadership-team-to-meet-accelerating-demand-for-data-security-posture-management-solutions/article_08fc26b1-5bd0-5cb4-8744-6e57fb8bc3bc.html"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Eagle-Tribune

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-19T17:27:00Z
 originalUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/93516607"
 webUrl: "https://auto.economictimes.indiatimes.com/news/auto-technology/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/93516607"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: ET Auto

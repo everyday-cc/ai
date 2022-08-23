@@ -42,6 +42,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Capitol Records blasted for promoting AI rapper FN Meka using n word"
+    excerpt: "Capitol Records blasted for promoting an AI rapper named FN Meka that was created by a white man and uses the n word"
+    publishedDateTime: 2022-08-23T15:06:00Z
+    webUrl: "https://bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/"
+    ampWebUrl: "https://bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/amp/"
+    cdnAmpWebUrl: "https://bossip-com.cdn.ampproject.org/c/s/bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/amp/"
+    type: article
+    provider:
+      name: Bossip
+      domain: bossip.com
+    quality: 57
+    images:
+      - url: "https://bossip.com/wp-content/uploads/sites/28/2022/08/16612612898745.jpg?w=560&h=320&crop=1&strip=all&quality=80"
+        width: 560
+        height: 320
+        isCached: true
   - title: "AI Rapper FN Meka Has Signed To Capitol Records, And Hip-Hop Fans Are Not Happy About It"
     excerpt: "Labels wanna be cheap and not have to pay real artists so they’re making bots [so] they can keep 100% profit,’ said one Twitter user."
     publishedDateTime: 2022-08-21T19:36:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/north-america-artificial
 webUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-in-retail-market-size-key-companies-trends-growth-and-regional-forecasts-research-2027-2022-08-22"
 type: article
 quality: 54
-heat: 104
+heat: 124
 published: true
 
 provider:
@@ -37,6 +37,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Speech Recognition Market Growth 2022: Industry Overview, Company Profiles, Emerging Technologies, Regional Data and Forecast 2027"
+    excerpt: "Global Speech Recognition Market Industry Research Report focuses on the global Speech Recognition Services status,"
+    publishedDateTime: 2022-08-20T10:51:00Z
+    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-growth-2022-industry-overview-company-profiles-emerging-technologies-regional-data-and-forecast-2027-2022-08-20"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 39
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -88,6 +102,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Research and Markets: Europe Robotic Lawn Mower Market to Reach $1.25 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The Europe robotic lawn"
+    publishedDateTime: 2022-08-22T11:32:00Z
+    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56865346-research-and-markets-europe-robotic-lawn-mower-market-to-reach-dollar-1-25-billion-by-2027-researchandmarkets-com-004.htm"
+    type: article
+    provider:
+      name: Finanznachrichten
+      domain: finanznachrichten.de
+    quality: 0
 
 secured: "4K2sd/Zo/Cz5EJ7V2YJeGrKALM3aQuNbDw3N429ULYdOefFzaM+HK5Rp4+r2UEnaiGAuwebOxO74j6OdJ0HbHclSzw7SowFD5NqpK8+WPlPDKox5mUzWXm1FqGSXeanhGNt/i3ejXNHZT8nTAFyJUjcZHzVUruRajwpUNsdmZSwiypq6DDxA1NmwOR68uxAakT/XNiYd5znrwtOehbv4cX8YCwdtVhnz4SxElPncylI9qnrujntB06M4dPsC4plW55MvizT3+aKkBdlwgWQOc82YbNxk7N3Iv2S9yIxm5LlUHodXRiuPSGATr3qjg7YRkJ2zTUEmOSKu4ATzFsIc6KGHc6q7XF9WSR38echgXtg=;v0jcf5lTGj0E+1lzCbnhiw=="
 ---
