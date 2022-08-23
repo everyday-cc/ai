@@ -9,8 +9,8 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyze
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/amp/"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: Crowdfund Insider
@@ -41,15 +41,6 @@ related:
         width: 1024
         height: 567
         isCached: true
-  - title: "Global Alternative Investment Management Launches FinTech Fund II"
-    excerpt: "Appleton, Wis.-based private fund management company Global Alternative Investment Management has launched FinTech Fund II, which is available to Qualified Purchasers"
-    publishedDateTime: 2022-08-18T10:10:00Z
-    webUrl: "https://www.finsmes.com/2022/08/global-alternative-investment-management-launches-fintech-fund-ii.html"
-    type: article
-    provider:
-      name: finsmes.com
-      domain: finsmes.com
-    quality: 4
 
 secured: "BWNkN/VaaoSoeFbBZ3Sydx+JpeoVPBNZtJlbsHwhZI/TPLQYHqz8trpxYbqcHFlPOCMRiBPt3gRFtkRLDZfULVoCbVGZ335BAJDY48jYFHd2Q6UNbRbVd8NIjLOhizp6ms+NZWl2Foi0Pfl2RrnW+inguvGqBCSXikjlmJC/MshAv+bwjiEeNJBTubTpNsF1cKOKA8duHERCnMm5HvMkNl1cyO8ZbOfz3BBEO6fnRCnlF4Xh7iNam7eAtaI5gvGyBXZ0dwAB3b+ivIq0cyXUFKT3pqpWbxQeCV5tPPf3PNuWejgrRvIjqAu2g50MCYcAPLH0ZeQ79zq3bccLDJrojK5djZHMz4ZJU4D7Y+qOTIQ=;/N0gR9geDl0VPhbtb+go6w=="
 ---

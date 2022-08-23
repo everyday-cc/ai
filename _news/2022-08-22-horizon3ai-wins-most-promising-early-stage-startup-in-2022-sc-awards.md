@@ -2,17 +2,17 @@
 category: news
 title: "Horizon3.ai Wins Most Promising Early-Stage Startup in 2022 SC Awards"
 excerpt: "Horizon3.ai, a cybersecurity firm focused on autonomous penetration testing, today announced that it has been recognized as an Excellence Award winner in the Most Promising Early-Stage Startup category for the 2022 SC Awards."
-publishedDateTime: 2022-08-22T13:01:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-22-horizon3ai-wins-most-promising-early-stage-startup-in-2022-sc-awards"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-22-horizon3ai-wins-most-promising-early-stage-startup-in-2022-sc-awards"
+publishedDateTime: 2022-08-22T14:36:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-horizon3ai-wins-most-promising-early-stage-startup-2022-/2022/08/22/9659988.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-horizon3ai-wins-most-promising-early-stage-startup-2022-/2022/08/22/9659988.htm"
 type: article
 quality: 17
 heat: 17
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
@@ -37,6 +37,6 @@ related:
       domain: tmcnet.com
     quality: 9
 
-secured: "ImFDkdcHEj6OqrDYXYTK994WIDkU6KSaNmB8SHvuOsvpit6dQDIUBYLO1O9EZ1ZSLUH5TGpsUlYB3sVA8pq9PJRaI1OXGeeMAemfjI09tJ1wBYhmx3ESfmDizImGhWpT6KeDJ6K1NLHeYuMY4ATqtJErWeRk3svT6T0Yoh6MCPL8o/qPmVMOYdFwu40pMlJOmE2snWovavtKENGrgfkMKbPoAfIeOfPPLLo3I5AUhPCxNgcPdBOgqkwhKTYx5PkaPrkn4YB/l3pgOew/G37t+OjeYK73hICj3wEaMJxuFYEQ+rTCqSAXk2mIDi7zFB6MnlsumEUMyHlgYuwJbISgHYMku9mUKeYj84KWwXGNF+4=;B9Vd3hozfGx/xkEl7Sct3A=="
+secured: "LxK4lPVBxjjie7WJ76fzf5zpcppgEz24T3I/Uv+Yko+1eFHiHNyF8BGacTz4VR1NWkrZNhc5unZamqxIKFden6ofxyxSXbxRywfDQgQ27rBeCP4Q/yFwd1PE3FWlqc+zAflV0Hbz0eS3YClOwPlK3jlfMRAmgG3uns0VMikum9Y19MlGK0RuZocyCyf0jOl9eE+2qeou2Sc85FcaPyVrWeqre6VrZoFmxmGxJRubPFz7v11vGm9zKUXOcCNL+Mqjuhz9G8rfommebFzIqd2fTVBVaib3efY/L5I+G4yMIS4aZxq3qpp+MzgvIt/MzPJF4z31Q+XdhRyMMZkdVYLKanm1iTc+UjFmc8YNQx/gD24=;D/UlM56mDzUcNPUJqNVnWw=="
 ---
 

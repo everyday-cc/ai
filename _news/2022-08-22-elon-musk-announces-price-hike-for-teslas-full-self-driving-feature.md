@@ -244,6 +244,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "Tesla Increases Full Self-Driving Price as Regulators Close In"
+    excerpt: "Despite what the name would infer, Tesla's Full Self-Driving setup is not yet fully autonomous, requiring vehicle occupants put their hands on the steering wheel periodically and"
+    publishedDateTime: 2022-08-22T19:01:00Z
+    webUrl: "https://www.motortrend.com/news/tesla-full-self-driving-price-increase-regulators/"
+    ampWebUrl: "https://www.motortrend.com/news/tesla-full-self-driving-price-increase-regulators/amp/"
+    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-price-increase-regulators/amp/"
+    type: article
+    provider:
+      name: Motor Trend
+      domain: motortrend.com
+    quality: 59
+    images:
+      - url: "https://www.motortrend.com/uploads/sites/5/2020/05/2020-Tesla-Model-Y-vs-Model-3-1.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Elon Musk announces a price hike for Tesla's self-driving system. Check here"
     excerpt: "Tesla Chief Elon Musk took to Twitter to announce that the price of Tesla's Full Self-Driving System (FSD) will increase to $15,000 in North America. Musk informed that the price increase would be in effect from September 5."
     publishedDateTime: 2022-08-22T07:09:00Z
@@ -454,15 +470,6 @@ related:
     provider:
       name: Guru3D.com
       domain: guru3d.com
-    quality: 19
-  - title: "Tesla Increases Full Self-Driving Price as Regulators Close In"
-    excerpt: "Despite what the name would infer, Tesla's Full Self-Driving setup is not yet fully autonomous, requiring vehicle occupants put their hands on the steering wheel periodically and"
-    publishedDateTime: 2022-08-22T19:01:00Z
-    webUrl: "https://www.motortrend.com/news/tesla-full-self-driving-price-increase-regulators/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
     quality: 19
   - title: "Tesla Is Doubling Down on ‘Full Self-Driving.’ Ralph Nader Wants It Recalled."
     excerpt: "Tesla is hiking the price of its sometimes controversial driver-assistance software it calls Full Self-Driving."

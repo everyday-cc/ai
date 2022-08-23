@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Call to halt gambler facial recognition"
-    excerpt: "Gambling and alcohol reform advocates have called for a moratorium on facial recognition technology in pubs, bars and casinos across the country until appropriate safeguards are put in place around the increasingly affordable and widely available technology."
-    publishedDateTime: 2022-08-18T09:58:00Z
-    webUrl: "https://www.theaustralian.com.au/nation/call-to-halt-gambler-facial-recognition/news-story/2b0f62ff431f3cc300190b53cc8c8f02"
-    ampWebUrl: "https://amp.theaustralian.com.au/nation/call-to-halt-gambler-facial-recognition/news-story/2b0f62ff431f3cc300190b53cc8c8f02"
-    cdnAmpWebUrl: "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/nation/call-to-halt-gambler-facial-recognition/news-story/2b0f62ff431f3cc300190b53cc8c8f02"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 59
-    images:
-      - url: "https://cdn.newsapi.com.au/image/v1/190cc9bd208e4f03c9fbd513d32d4b72"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Facial recognition: UK plans to monitor migrant offenders are unethical—and they won't work"
     excerpt: "One afternoon in our lab, my colleague and I were testing our new prototype for a facial recognition software on a laptop. The software used a video camera to scan our faces and guess our age and gender."
     publishedDateTime: 2022-08-18T21:32:00Z
@@ -89,15 +73,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Fingerprint Recognition Pioneer BIO-key Adds Facial Recognition to Mobile Platform"
-    excerpt: "BIO-key has added a facial recognition feature to its MobileAuth authentication app. The company is a long-time specialist"
-    publishedDateTime: 2022-08-18T20:13:00Z
-    webUrl: "https://mobileidworld.com/fingerprint-recognition-pioneer-bio-key-facial-recognition-mobile-platform-408181/"
-    type: article
-    provider:
-      name: Mobile ID News
-      domain: mobileidworld.com
-    quality: 15
 
 secured: "hPSuvlmF1aD3DlgB6KhziSLMQGK2LnTisIXe8ESLoIeNl6HiBErOHXDaRefK1U/5XrojaUdmQ6uueqrrN11YE6IlZ5xGyyRAiYjTemLZaBaPxlcjjv7PGQAbtaD2s+H0Kn8tQkIumv1WZxWa2SqoR1RtaSoCVyCccFP6xShoYQgS1xbnLhrQ9mucHUB/F1RE8xT5URZD4f+IWC9ERGa687Ox1n15aXKRnMxnjwALbdGRES9wXEIqWIe8Q3rCW+xzGf6MWk6hlc5Ou8qJa/oEND2ctkuA62HZyLeOz83v8EfnvuOwnDb7zBRFRnwcEK+trniMLd/wWCEy2EC6Oki2DX1f88gx8EJK+ABlXlI4YgCukvciVvjGdc/MGaCyox6I5QuWKqi8UYxIy3KfccOqxV4OpcM3558c4AabIrE3GpoHP/Hcxy1Yc9084laHGz9ZMJAyTfd5b7bWCUjeR3iIQ2cGXRbsZyWKtKlBN+JLiueM2DYCu3LtUTY0oHYUTJPuaU4gfOCN5zNa+nxvW+FiDQ==;M1BJgGOgWkER92y3so4fng=="
 ---

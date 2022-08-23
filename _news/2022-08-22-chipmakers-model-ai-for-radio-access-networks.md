@@ -7,7 +7,7 @@ originalUrl: "https://semiengineering.com/chipmakers-model-ai-for-radio-access-n
 webUrl: "https://semiengineering.com/chipmakers-model-ai-for-radio-access-networks/"
 type: article
 quality: 54
-heat: -1
+heat: 54
 published: false
 
 provider:
@@ -23,22 +23,6 @@ images:
     width: 1804
     height: 894
     isCached: true
-
-related:
-  - title: "AI chipmaker helps OEMs shift from ADAS to AD"
-    excerpt: "Hailo recently announced its collaboration with semiconductor supplier Renesas to deliver a more powerful and energy-efficient processing solution enabling more sophisticated ADAS and AD in motor vehicles."
-    publishedDateTime: 2022-08-18T09:11:00Z
-    webUrl: "https://www.just-auto.com/interview/ai-chipmaker-helps-oems-shift-from-adas-to-ad/"
-    type: article
-    provider:
-      name: Just Auto
-      domain: just-auto.com
-    quality: 54
-    images:
-      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/06/shutterstock_1590824914-1.jpg"
-        width: 500
-        height: 282
-        isCached: true
 
 secured: "OHfQGfq09BMiKRIQYOdHblTjr4pUGoJEg1v5AgC6v+dOBc9CwlHHRsHUoxbxV79IeEZidZyj8bezQl8A32euqAVW2YjPrRNhoDPVLs2xAP5W1xj8BjzHeW4gq/KrEQ5m3lRfAxqCfcCGsvjnb61CdQX74NNCGWDxshl6i0+U2mHcU16iqSzuM+ZPESWnHwhfniAxFbJgwn7ZTecZplOCtA4kylvj2xqwc9PYkvlAxkWhojyiGHq8aQG61qnSDmWgF5AGoSsTJCVruk5nkgo65VlHx0gFTXenhFqFeA0m3ejHreDjTcOSd3Ljeu00hfGuE4WSnP5zIbHXNusvyoBeAiZBKFs/GRnn5hrXsUTa+Lo=;8KHva8DHzhsSMVfr+AfFPg=="
 ---

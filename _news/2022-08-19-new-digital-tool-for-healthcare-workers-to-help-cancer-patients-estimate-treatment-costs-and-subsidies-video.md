@@ -25,17 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Singapore AI startup partners cancer institute to help estimate treatment costs"
-    excerpt: "Powered by Bot MD's artificial intelligence (AI) engine, the chemotherapy cost calculator is touted to help frontline medical professionals estimate monthly expenses patients need to set aside based on key factors,"
-    publishedDateTime: 2022-08-19T07:00:00Z
-    webUrl: "https://www.zdnet.com/article/singapore-ai-startup-partners-cancer-institute-to-help-estimate-treatment-costs/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-ai-startup-partners-cancer-institute-to-help-estimate-treatment-costs/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-ai-startup-partners-cancer-institute-to-help-estimate-treatment-costs/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 63
   - title: "New digital tool for healthcare workers to help cancer patients estimate treatment costs and subsidies"
     excerpt: "SINGAPORE: A digital calculator was launched on Friday (Aug 19) to help healthcare workers better estimate the monthly treatment costs for cancer patients, taking into consideration factors like their eligibility for government subsidy schemes."
     publishedDateTime: 2022-08-19T07:01:00Z

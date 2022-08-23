@@ -5,8 +5,10 @@ excerpt: "Despite what the name would infer, Tesla's Full Self-Driving setup is 
 publishedDateTime: 2022-08-22T19:01:00Z
 originalUrl: "https://www.motortrend.com/news/tesla-full-self-driving-price-increase-regulators/"
 webUrl: "https://www.motortrend.com/news/tesla-full-self-driving-price-increase-regulators/"
+ampWebUrl: "https://www.motortrend.com/news/tesla-full-self-driving-price-increase-regulators/amp/"
+cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-price-increase-regulators/amp/"
 type: article
-quality: 19
+quality: 59
 heat: -1
 published: false
 
@@ -17,6 +19,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://www.motortrend.com/uploads/sites/5/2020/05/2020-Tesla-Model-Y-vs-Model-3-1.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
 
 related:
   - title: "Tesla raising price of ‘Full Self-Driving’ feature to $15,000 next month"
@@ -474,6 +482,6 @@ related:
       domain: barrons.com
     quality: 16
 
-secured: "lZ21ik/AyFfLoLAmd9XDnO0FcCrGShO2DzDpas/fbJKS1Ma+TcmfFF6ptRTcW5lDHuhpdExLEltu5TOCG6u6jXRV4UuVYDMoytLCMiXef8EBUAQ4YlH/1dQYf8Rl/b+fq4o3GM2bfLjRZ3GpFwTqkp73q5/y06Xw2ncKcbjDSFm/IAwQhEG4w9JjGDBIDfCGVo7LirLY9Q0lPms0BQ5WNBDC3wrS8PmLGQowuYz9X5jA8WbCrL50bVAn6LkUVcaBGFDgW22RWO2+UcKPs0xNP592BSnhdGmNPpfuIlSAcOtARIU2O8SAac6tPEbLuDsioRHauzirpGFzCBqcUO6RAmrQEGtx+JIvADDe0k/xnYg=;Z6GXF4P6AJna+4G+cwbywQ=="
+secured: "W3hAX5zJFiYLXu6iTQ/dBGQRLROSNEBnoJERFO6lpYq5NuCjU6snH7Wc2Tdjs0v1FwxsvT9NSIkinHIXMA3ysfmpVlexeCszeV2l1UOyEvTSAGwTOxKNGNOzUIfLz3W9YAdUoy+65fGP6ODCgGBJPu833Ua3EAsgY8NaoQJ7sJZhZw7gO8fNxSzWx45iloJevg9XvMltqx5XjF9a9c1Gj5EBhVwIoc2G6PjYuh9F2+1FT+YxX+c1ZMIBlmAn/NO8QwIBt5FYUqFRVCMC0Dkb4FjjjVv/RhiGDHLzgzNAepFtsT1YMyI1ieZoUIFiukHSWOchXj4GnawYYa+h5guMuFjWZghYRNksffOWmNczLPI=;JtA5ObMvqCggepkSVvuYHQ=="
 ---
 

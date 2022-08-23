@@ -9,8 +9,8 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-ai-startup-partne
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-ai-startup-partners-cancer-institute-to-help-estimate-treatment-costs/"
 type: article
 quality: 63
-heat: 83
-published: true
+heat: -1
+published: false
 
 provider:
   name: ZDNet
@@ -24,34 +24,28 @@ topics:
   - AI
 
 related:
-  - title: "New digital tool for healthcare workers to help cancer patients estimate treatment costs and subsidies"
-    excerpt: "SINGAPORE: A digital calculator was launched on Friday (Aug 19) to help healthcare workers better estimate the monthly treatment costs for cancer patients, taking into consideration factors like their eligibility for government subsidy schemes."
-    publishedDateTime: 2022-08-19T07:01:00Z
-    webUrl: "https://www.channelnewsasia.com/singapore/calculator-cancer-chemotherapy-treatment-cost-subsidies-patients-ncis-botmd-2888921"
+  - title: "Singapore looks to drive AI research, capabilities with Google Cloud pact"
+    excerpt: "Touted as the Singapore government's first private-sector partnership in artificial intelligence, the collaboration will see both sides jointly develop and testbed applications as well as work on issues pertaining to AI governance and ethics."
+    publishedDateTime: 2022-08-23T02:30:00Z
+    webUrl: "https://www.zdnet.com/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 23
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--xmPbQEHd--/c_crop,h_703,w_1250,x_66,y_51/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/cna/image/2022/08/19/chemocalcmobile.jpg?itok=3T7vTy_Q"
-        width: 1200
-        height: 676
-        isCached: true
-  - title: "New digital tool for healthcare workers to help cancer patients estimate treatment costs and subsidies | Video"
-    excerpt: "A digital calculator was launched on Friday (Aug 19) to help healthcare workers better estimate the monthly treatment costs for cancer patients, taking into consideration factors like their eligibility for government subsidy schemes."
-    publishedDateTime: 2022-08-19T14:52:00Z
-    webUrl: "https://www.channelnewsasia.com/watch/new-digital-tool-healthcare-workers-help-cancer-patients-estimate-treatment-costs-and-subsidies-video-2889821"
+      name: ZDNet
+      domain: zdnet.com
+    quality: 66
+  - title: "Google beefs up Singapore investments, cloud unit inks AI partnership with govt"
+    excerpt: "GOOGLE is strengthening its investments in Singapore - with its third data centre and an enhanced skills training programme - while its cloud business will work with the government to co-create AI solutions in a public-private partnership."
+    publishedDateTime: 2022-08-23T02:57:00Z
+    webUrl: "https://www.businesstimes.com.sg/garage/google-beefs-up-singapore-investments-cloud-unit-inks-ai-partnership-with-govt"
+    ampWebUrl: "https://www.businesstimes.com.sg/garage/google-beefs-up-singapore-investments-cloud-unit-inks-ai-partnership-with-govt?amp"
+    cdnAmpWebUrl: "https://www-businesstimes-com-sg.cdn.ampproject.org/c/s/www.businesstimes.com.sg/garage/google-beefs-up-singapore-investments-cloud-unit-inks-ai-partnership-with-govt?amp"
     type: article
     provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 19
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--v3IQMnU6--/f_auto%2Cq_auto/c_fill%2Cg_auto%2Ch_676%2Cw_1200/v1/mediacorp/cna/image/2022/08/19/79055845-6deb-4afe-8a1b-aebf3a9d8984.png?itok=5m0R2iNS"
-        width: 1200
-        height: 676
-        isCached: true
+      name: Business Times
+      domain: businesstimes.com.sg
+    quality: 35
 
 secured: "Jee/we9uoFFcmnHU0ednK/sOCZH8AVRBF+PIEG74PocEo+sa7qARbf1N3IGA9CN0cDdWRTeJhbd+FCa5OFaKoDBHE5YrRTtGwX+ljnIdfAYdQTvpRgLlVd+Qm+2ErBopXenMuWylgDuJI3NjTZbOQpqTMw6AW7hjmebjqcvSZnXeCigw0Nw4hoF4NBdLT+/NnfGWQ3wobcsHp5JaQx3IJ0vIADK85A0HLfkbf4ISEf9GWfgNkDJ8t4Ci3O5U1a/ZIXC4dn1RTOlXiRD7IJBJRdgz6K7R0ZHuz0yWnVuLIgimv03utw9Pb+xwKWv+B8sxOUkfvqntPNdmUYDSwVpZoSbtiIZflsExWJO98dOVsL8ILUB4MWxmBZRMH4e3VyEBeL9Jg+r3pUA/CDuz3T96HkmxHLjnnQMaqyDR/OaKsbO6PQuDpS5xi4Y/SsOos4Dx0wYmIMLFWv44AZDjnXjjC59t2Q6XhO1+xSb9wV+mBDSwmjtyV34Fqi8eac4GyFAwz4ug+no6CrpnTs4rFht09Q==;KLpcmn1iYjmAgdzYapfC9Q=="
 ---
