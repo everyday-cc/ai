@@ -98,50 +98,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-21-qatar-will-deploy-facial-recognition-security-at-fifa-world-cup.md",
-      "title": "Qatar Will Deploy Facial Recognition Security at FIFA World Cup",
-      "excerpt": "Facial recognition cameras and drone surveillance will be used for crowd security during the FIFA World Cup in Qatar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sporttechie.com/qatari-officials-will-deploy-facial-recognition-security-at-fifa-world-cup",
-      "originalUrl": "https://www.sporttechie.com/qatari-officials-will-deploy-facial-recognition-security-at-fifa-world-cup",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sporttechie-dev.s3.amazonaws.com/Important%20Data/sporttechie-image.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-20T21:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SportTechie",
-        "domain": "sporttechie.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2022-08-19-mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more.md",
       "title": "MediaTek Pentonic 700 SoC for 4K televisions announced: AI image enhancements, Dolby Vision IQ, and more",
       "excerpt": "MediaTek announced T830 chipset for routers and mobile hotspot devices. Now the Taiwanese semiconductor manufacturer has launched Pentonic 700 processor for premium and high-end televisions. Last year,",
@@ -1416,6 +1372,40 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-first-they-banned-facial-recognition-now-theyre-not-so-sure.md",
+      "title": "First, they banned facial recognition. Now they're not so sure",
+      "excerpt": "Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations around the country ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kake.com/story/47040949/first-they-banned-facial-recognition-now-theyre-not-so-sure",
+      "originalUrl": "https://www.kake.com/story/47040949/first-they-banned-facial-recognition-now-theyre-not-so-sure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-05T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KAKE.com",
+        "domain": "kake.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

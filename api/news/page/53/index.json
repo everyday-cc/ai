@@ -2,94 +2,6 @@
   "page": 53,
   "value": [
     {
-      "path": "_news/2022-07-07-sk-telecom-sk-hynix-offer-ai-chip-curriculum-to-universities.md",
-      "title": "SK Telecom, SK hynix offer AI, chip curriculum to universities",
-      "excerpt": "SK Telecom and SK hynix jointly developed the SK ICT Curriculum education course to share practical knowledge on artificial intelligence (AI) and semiconductor technologies, which has been introduced at over 20 domestic universities so far,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/nation/2022/07/419_332345.html?fl",
-      "originalUrl": "https://www.koreatimes.co.kr/www/nation/2022/07/419_332345.html?fl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202207/df4f6d66dda4407ea2613c045295f652.jpg",
-          "width": 980,
-          "height": 691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=332345",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=332345",
-      "publishedDateTime": "2022-07-07T00:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.md",
-      "title": "Microsoft backs off facial recognition analysis, but big questions remain",
-      "excerpt": "Microsoft is backing off its support for some AI-driven features, including facial recognition. Although it's good Microsoft is acknowledging discrimination and accuracy issues, it had years to fix the problems and didn’t.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.html",
-      "originalUrl": "https://www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/11/facial_recognition_system_identification_digital_id_security_scanning_thinkstock_858236252_3x3-100740902-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.amp.html",
-      "publishedDateTime": "2022-07-07T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision",
-        "Microsoft AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-07-xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof.md",
       "title": "Xiaomi’s Self-Driving Test Car Spotted with a Lidar Sensor on the Roof",
       "excerpt": "Apparently, a car blogger who goes by the username Deroy has shared a picture of Xiaomi’s self-driving test car. The car can be seen to have a sleek design with a lidar sensor on the roof.",
@@ -1134,6 +1046,102 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-ptsd-linked-to-faster-cognitive-decline-in-middle-aged-women.md",
+      "title": "PTSD Linked to Faster Cognitive Decline in Middle-Aged Women",
+      "excerpt": "WEDNESDAY, July 6, 2022 (HealthDay News) -- Posttraumatic stress disorder (PTSD) is associated with accelerated cognitive decline among middle-aged women, according to a study published online ...",
+      "sourceUrl": null,
+      "webUrl": "https://columbustelegram.com/lifestyles/health-med-fit/ptsd-linked-to-faster-cognitive-decline-in-middle-aged-women/article_61288ad7-24ef-5877-9974-b8db341816a4.html",
+      "originalUrl": "https://columbustelegram.com/lifestyles/health-med-fit/ptsd-linked-to-faster-cognitive-decline-in-middle-aged-women/article_61288ad7-24ef-5877-9974-b8db341816a4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/columbustelegram.com/content/tncms/assets/v3/editorial/f/71/f718e248-224e-5de2-b802-ccde29fac952/62c5d4e51e610.image.jpg?crop=600%2C315%2C0%2C11&resize=600%2C315&order=crop%2Cresize",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Columbus Telegram",
+        "domain": "columbustelegram.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-metas-open-source-ai-model-leaves-no-language-behind.md",
+      "title": "Meta’s open-source AI model leaves no language behind",
+      "excerpt": "Meta announced a breakthrough in its No Language Left Behind initiative — a single AI model that translates over 200 different languages.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/06/metas-open-source-ai-model-leaves-no-language-behind/",
+      "originalUrl": "https://venturebeat.com/2022/07/06/metas-open-source-ai-model-leaves-no-language-behind/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 231,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/Meta_NLLB_main.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/06/metas-open-source-ai-model-leaves-no-language-behind/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/06/metas-open-source-ai-model-leaves-no-language-behind/amp/",
+      "publishedDateTime": "2022-07-06T11:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
       ]
     }
   ],

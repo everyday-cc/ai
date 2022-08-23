@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Facial recognition: UK plans to monitor migrant offenders are unethical – and they won’t work"
-    excerpt: "Namrata is a member of A+ Alliance Feminist AI Research Network f<A+i>r. One afternoon in our lab, my colleague and I were testing our new prototype for a facial recognition software on a laptop. The software used a video camera to scan our faces and guess ..."
-    publishedDateTime: 2022-08-18T15:50:00Z
-    webUrl: "https://theconversation.com/facial-recognition-uk-plans-to-monitor-migrant-offenders-are-unethical-and-they-wont-work-188330"
-    ampWebUrl: "https://theconversation.com/amp/facial-recognition-uk-plans-to-monitor-migrant-offenders-are-unethical-and-they-wont-work-188330"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-uk-plans-to-monitor-migrant-offenders-are-unethical-and-they-wont-work-188330"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 48
-    images:
-      - url: "https://images.theconversation.com/files/478551/original/file-20220810-20-ifsy3x.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=206&fit=crop"
-        width: 320
-        height: 206
-        isCached: true
   - title: "Do I Know You? How Flawed is Facial Recognition?"
     excerpt: "The Viola-Jones algorithm is an object-recognition framework that allows the detection of image features in real-time and is one of the most powerful algorithms of its time. However, the tests’ results were disappointing regarding the accuracy levels ..."
     publishedDateTime: 2022-08-22T11:31:00Z

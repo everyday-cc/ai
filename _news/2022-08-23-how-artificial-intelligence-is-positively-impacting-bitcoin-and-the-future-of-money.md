@@ -8,8 +8,8 @@ webUrl: "https://www.androidheadlines.com/2022/08/how-artificial-intelligence-is
 ampWebUrl: "https://www.androidheadlines.com/2022/08/how-artificial-intelligence-is-positively-impacting-bitcoin-future-of-money.html?amp"
 cdnAmpWebUrl: "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/08/how-artificial-intelligence-is-positively-impacting-bitcoin-future-of-money.html?amp"
 type: article
-quality: 53
-heat: 53
+quality: 55
+heat: 55
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.androidheadlines.com/wp-content/uploads/2022/08/Bitcoin-image-84394398340.jpg"
@@ -26,6 +27,6 @@ images:
     height: 900
     isCached: true
 
-secured: "KcqcD2pKeKySrlULG2VRSthcm6QhfP4V9Q5ZTntbDaa9XDx7YEre5CJRAt8miTZMuWbqcZcYCV4td9oOsnKvhac7DOlXXqvc6vTKiYD5wPTZ4RY1UfIQLSshiMO/e0UUztoQnhE+m3hkzESBuPWz4GKYK8WAV1WsPMsTvTnFFIio3sjGHKeEvt9mF8TzJ6mFtGDsQlbiJan02G4I2Ux1DD9f4dU66Lg9we7d9frOcmCCdxLxnB+FNInPYj6wl+V3dAA61pacoONBK3bKx3hs99HPAb7VP19OeFs1SLyPTOV5Uto9CjHQIywhFPiM8P/9xhnMT88//aDt+WHnSx1pT7uk6sIa/KuMuFAUEOfaBxE=;5nJSIoOdOdPH71/XTNfHTw=="
+secured: "e6Hl9Mej7m/rYExScGgpjgu/pSO+W4mnkE93dL9ywuNzp2H25nZ0ktyNrmU09a5WMQitRsWms+hMJ7NpyAC+Aq4uvj7n6HJr3QhJF29S8Tss7cPekY7moBVW3fCAn7O+BXXEmvDg6fejBHuaJG+OiGGwTIED4WoVkTBsqcouRYbetPqK5Z/OcvjXD4s0rAHdbnthk9uu5ZDyEEDvveiIO7YO5t3lpZZEVzaLR8Nz4u4QpDJLq9KOQFSu4R9uRhwFvdJBlmMT2JeA4O7LbtAOHG0EsGqT6q3Nx1CmEzyusHl7ldlMw/5z/+yAicyuZDnI5JI0weRdHne64AIbAyjJJ1NPCkPSRJDS1ufnO5DEbhqTdgzoAuPf9Xj4EOVbxOoRjMVgoen6YWbaQ08RlC/nhIXUu9pQTAbA8V5PJHdPzHo85v8QITEJW94vcETQNeNpI278mBf1jpN48hsfFdMWXM95+X217ZXlH2lQqgXPF8Ml9hyU5YIJwp+RNJrc96QSYEI418/YogGRZ5g59xqYug==;JsdwSn0wZB1WvxN7TeQcOQ=="
 ---
 

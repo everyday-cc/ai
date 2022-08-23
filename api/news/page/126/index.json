@@ -2,101 +2,6 @@
   "page": 126,
   "value": [
     {
-      "path": "_news/2022-05-14-facial-recognition-may-not-be-banned-after-all.md",
-      "title": "Facial Recognition May Not Be Banned After All",
-      "excerpt": "Following efforts to ban the use of facial recognition technology by authorities, it seems that some cities are having second thoughts amidst an increase in their crime rate. Some U.S. states and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmodo.com.au/2022/05/facial-recognition-may-not-be-banned-after-all/",
-      "originalUrl": "https://www.gizmodo.com.au/2022/05/facial-recognition-may-not-be-banned-after-all/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/05/14/bc3f198cf7b38c71dd7b8b87c579e986.jpg?quality=80&resize=1280,720",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmodo.com.au/2022/05/facial-recognition-may-not-be-banned-after-all/amp/",
-      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/05/facial-recognition-may-not-be-banned-after-all/amp/",
-      "publishedDateTime": "2022-05-13T18:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo Australia",
-        "domain": "gizmodo.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-enhance-the-caller-experience-with-hints-in-amazon-lex.md",
-      "title": "Enhance the caller experience with hints in Amazon Lex",
-      "excerpt": "We understand speech input better if we have some background on the topic of conversation. Consider a customer service agent at an auto parts wholesaler helping with orders. If the agent knows that the customer is looking for tires, they’re more likely to recognize responses (for example, “Michelin”)",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/enhance-the-caller-experience-with-hints-in-amazon-lex/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/enhance-the-caller-experience-with-hints-in-amazon-lex/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/11/ML-9066-image001-whitebackground.png",
-          "width": 1067,
-          "height": 392,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-13T15:36:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-14-wyze-rolls-out-facial-recognition-professional-monitoring-with-new-service.md",
       "title": "Wyze Rolls Out Facial Recognition, Professional Monitoring with New Service",
       "excerpt": "Wyze made its $4 monthly Cam Plus Pro subscription service widely available this week. The service introduces facial recognition and 24/7 professional monitoring to existing Wyze cameras, including the Wyze Cam v2, v3 and Pan v1. Cam Plus Pro's ...",
@@ -1180,6 +1085,100 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-pair-programming-driven-by-programming-language-generation.md",
+      "title": "Pair programming driven by programming language generation",
+      "excerpt": "We are now seeing the evolution of intelligent systems that can understand an objective, comprehend context and generate code.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/19/pair-programming-driven-by-programming-language-generation/",
+      "originalUrl": "https://venturebeat.com/2022/05/19/pair-programming-driven-by-programming-language-generation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T21:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-us-civil-rights-enforcers-warn-employers-about-using-biased-ai.md",
+      "title": "U.S. Civil Rights Enforcers Warn Employers About Using Biased AI",
+      "excerpt": "The use of AI is compounding the longstanding discrimination that jobseekers with disabilities face,” Assistant Attorney General Kristen Clarke told reporters Thursday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2?d_id=3524666&ncid_tag=tweetlnkushpmg00000016",
+      "originalUrl": "https://www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2?d_id=3524666&ncid_tag=tweetlnkushpmg00000016",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/627d7ea51e00005cd41b490c.jpeg?ops=1778_1000",
+          "width": 1778,
+          "height": 999,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2/amp",
+      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/civil-rights-dont-used-biased-artificial-intelligence_n_627d7e26e4b0b74b0e8140f2/amp",
+      "publishedDateTime": "2022-05-12T18:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     }

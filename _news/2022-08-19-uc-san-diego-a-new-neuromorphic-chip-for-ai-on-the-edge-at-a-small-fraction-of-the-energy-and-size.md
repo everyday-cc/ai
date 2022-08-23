@@ -7,7 +7,7 @@ originalUrl: "https://indiaeducationdiary.in/uc-san-diego-a-new-neuromorphic-chi
 webUrl: "https://indiaeducationdiary.in/uc-san-diego-a-new-neuromorphic-chip-for-ai-on-the-edge-at-a-small-fraction-of-the-energy-and-size/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "Researchers Develop Graphene-based Synaptic Transistor for Neuromorphic Devices"
-    excerpt: "Recently, researchers from the University of Texas and Sandia National Laboratories announced the development of a graphene-based transistor that exhibits properties similar to neurons."
-    publishedDateTime: 2022-08-18T16:08:00Z
-    webUrl: "https://www.electropages.com/blog/2022/08/researchers-develop-graphene-based-synaptic-transistor-neuromorphic-devices"
-    type: article
-    provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 20
-    images:
-      - url: "https://www.electropages.com/storage/app/media/2022/Aug/neuromorphic-computing-AI-future-og.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "uO8lPOw2UL3h98pKZcp5+pr7RtP6rz6ez0234WmvxB8GI/Ro1fa4ra7Z27CnsadvsiYZY8Yd1HGUGHJUd1NJoaX9jJ848BvGpmLHhUeXywt0UdwB2o1qzRh1ygovxZCwuvUbahEx+b+P7COtcydB7LUiZpH85anCYWquR7dhYykFL9nDXguURcnq+2OV1vdy4vfrqdrTCoFWHJjMVp4d+dlpf6oZOgIfzQeSI2QgO2NTJ1EoZAL8hPbMMSXk0t5SGwNSlGzf9jS/gfPmesZEYa4yKKRQgEvPlgjDvHU6d1noWun71KqaEQiaQMdL092ifH9AkK1sPrtwnu634cfR6OJmMMcTLKpggPuGnYbcMa5Ho/scYF/KlVbd0xTpAWc++7AC9ZuL4HA11wzWJsxoRGmBzNqcu978C/cFEoNutPD0DOZXxSxRUAnSBBZnuQ6chi44JN4QYi0QB2vPBbSvt/akauyhcfMBLuo9HoD8tbALzrpPgURRy6P6jhkr1tPDcxmQKhqxgp9jjGkRSwfCHg==;krjxP3q0udV5+tYOO3bHyg=="
 ---

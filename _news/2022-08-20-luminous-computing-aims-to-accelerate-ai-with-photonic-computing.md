@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/brucerogers/2022/08/19/luminous-computi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/08/19/luminous-computing-aims-to-accelerate-ai-with-photonic-computing/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     width: 1200
     height: 900
     isCached: true
-
-related:
-  - title: "Pitching with Artificial intelligence"
-    excerpt: "Pressfriendly offers a similar service for startups by using AI to review beat reporters' past coverage and open rates. This intel helps identify the best send times and will increase the likelihood of pickup,"
-    publishedDateTime: 2022-08-18T15:58:00Z
-    webUrl: "https://www.axios.com/2022/08/18/pitching-with-artificial-intelligence"
-    type: article
-    provider:
-      name: Axios
-      domain: axios.com
-    quality: 37
-    images:
-      - url: "https://images.axios.com/r6dMsuHu9l_rds8BmSeTqxcg4UI=/0x0:1920x1080/1366x768/2022/08/17/1660696922141.jpg"
-        width: 1366
-        height: 768
-        isCached: true
 
 secured: "58I9G3MWY3FDdcsOa+NRqnw2o4MpHIBu7s+X6vqiBsO6orK/M0sG/jwEdJESvFoEseuj+AoCoACN4tiL7gU26lsrLyFwXnAozcAFVSx6B05V89ZNVMqhxc3XAqA2I5mHRVOKiEgZk1AMPCC9rReij8Iqtkq/Y/sEL5DEAvWR2mBIn621bJVdL58uW6UvHP76I8qsnUgKNU3gW2pJsiTH7V9icXjAxFc8RaUJVJwxzScFmcdY2uaXFuad2gYbtrkYPlqzGzREOIJQyoAsqZ2HbqzgCNMjqgxT4qjKkFIe8YHi3QG1uge99kPa7ODrSoZf7sqL56L2kjpbUf+5/RreCEaQYPTjZ7nVn991MZWqBAQ6Gw0+woisa2823//CRn3LVqudRe14tspolFLEQ2cGcgm6/RnYspliPK13YoSFmzcRfyAOxzB7f4+JBOz4g/WdY0du1P7uSmc6Hj4RuA8E8BjcgA1/mN0zYOzpgdKGlFfdlNcGQYQf+VP51jRytw9YQpRMgi3PL5b+YWA5qiskvw==;39wrzuWhPMTLYBD9KW3jyw=="
 ---

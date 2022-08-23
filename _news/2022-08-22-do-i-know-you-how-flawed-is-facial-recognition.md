@@ -41,22 +41,6 @@ related:
         width: 926
         height: 517
         isCached: true
-  - title: "Facial recognition: UK plans to monitor migrant offenders are unethical – and they won’t work"
-    excerpt: "Namrata is a member of A+ Alliance Feminist AI Research Network f<A+i>r. One afternoon in our lab, my colleague and I were testing our new prototype for a facial recognition software on a laptop. The software used a video camera to scan our faces and guess ..."
-    publishedDateTime: 2022-08-18T15:50:00Z
-    webUrl: "https://theconversation.com/facial-recognition-uk-plans-to-monitor-migrant-offenders-are-unethical-and-they-wont-work-188330"
-    ampWebUrl: "https://theconversation.com/amp/facial-recognition-uk-plans-to-monitor-migrant-offenders-are-unethical-and-they-wont-work-188330"
-    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/facial-recognition-uk-plans-to-monitor-migrant-offenders-are-unethical-and-they-wont-work-188330"
-    type: article
-    provider:
-      name: The Conversation
-      domain: theconversation.com
-    quality: 48
-    images:
-      - url: "https://images.theconversation.com/files/478551/original/file-20220810-20-ifsy3x.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=206&fit=crop"
-        width: 320
-        height: 206
-        isCached: true
   - title: "Facial Recognition Bans Begin To Fall Around the US as Re-Funding of Law Enforcement Becomes Politically Popular"
     excerpt: "Some cities and states that were early to ban law enforcement from using facial recognition software appear to be having second thoughts as crime spikes become a major political issue."
     publishedDateTime: 2022-08-18T22:00:00Z

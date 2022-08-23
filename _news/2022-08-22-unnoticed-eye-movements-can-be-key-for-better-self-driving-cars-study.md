@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Unnoticed eye movements can be key for better self-driving cars: Study"
+    excerpt: "Artificial neural networks that learn to recognize objects more quickly and accurately have been developed by Andrea Benucci and colleagues at the RIKEN Center for Brain Science. The study, recently published in the scientific journal PLOS Computational Biology,"
+    publishedDateTime: 2022-08-23T09:04:00Z
+    webUrl: "https://timesofindia.indiatimes.com/videos/news/unnoticed-eye-movements-can-be-key-for-better-self-driving-cars-study/videoshow/93728478.cms"
+    ampWebUrl: "https://m.timesofindia.com/videos/news/unnoticed-eye-movements-can-be-key-for-better-self-driving-cars-study/amp_videoshow/93728478.cms"
+    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/news/unnoticed-eye-movements-can-be-key-for-better-self-driving-cars-study/amp_videoshow/93728478.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 44
+    images:
+      - url: "https://static.toiimg.com/photo/msid-93728478/videos/news/unnoticed-eye-movements-can-be-key-for-better-self-driving-cars-study.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Self-driving cars: UK motorways change sparks AA warning amid new government plans"
     excerpt: "The Government has unveiled new plans which mean self-driving vehicles could be 'on UK roads by 2025' and they're backed by a £100 million investment to boost the rollout. Motorways could even see some cars,"
     publishedDateTime: 2022-08-20T15:41:00Z
@@ -41,22 +57,6 @@ related:
       - url: "https://www.theargus.co.uk/resources/images/14493174/?type=responsive-gallery"
         width: 650
         height: 417
-        isCached: true
-  - title: "Self-driving cars could be on UK roads next year, Grant Shapps says - 'Huge potential'"
-    excerpt: "SELF-DRIVING cars could be seen on British roads by next year, as the Government invests £100million into the emerging sector."
-    publishedDateTime: 2022-08-19T06:55:00Z
-    webUrl: "https://www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps"
-    ampWebUrl: "https://www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps/amp"
-    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps/amp"
-    type: article
-    provider:
-      name: Daily Express
-      domain: express.co.uk
-    quality: 36
-    images:
-      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps-1657360.jpg?r=1660892097429"
-        width: 590
-        height: 350
         isCached: true
   - title: "Self-driving cars: UK motorways change sparks AA warning amid new government plans"
     excerpt: "The Government has unveiled new plans which mean self-driving vehicles could be 'on UK roads by 2025' and they're backed by a £100 million investment to boost the rollout. Motorways could even see some cars,"

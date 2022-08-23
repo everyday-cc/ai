@@ -2,109 +2,6 @@
   "page": 6,
   "value": [
     {
-      "path": "_news/2022-08-16-speech-and-voice-recognition-market-future-scenario-key-insights-top-companies-2028.md",
-      "title": "Speech and Voice Recognition Market – Future Scenario, Key Insights, Top Companies 2028",
-      "excerpt": "The Global Speech and Voice Recognition Market 2022 that centers around Speech and Voice Recognition market examines the significant components with a top to bottom methodology and empowers the client to survey the drawn-out based interest additionally predicts explicit executions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-future-scenario-key-insights-top-companies-2028-2022-08-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-future-scenario-key-insights-top-companies-2028-2022-08-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-what-will-a-dystopian-world-with-ai-in-charge-be-like.md",
-      "title": "What Will A Dystopian World With AI In Charge Be Like?",
-      "excerpt": "Artificial intelligence has been around for a long time, ever since computers have been able to make decisions based on inputs and conditions. When we see AI gone rogue in the movies, it's the system's malevolence combined with the power of some machines that frightens people.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/16/what-will-a-dystopian-world-with-ai-in-charge-be-like/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/16/what-will-a-dystopian-world-with-ai-in-charge-be-like/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e8de3551653d7fcab80b06/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/16/what-will-a-dystopian-world-with-ai-in-charge-be-like/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/08/16/what-will-a-dystopian-world-with-ai-in-charge-be-like/amp/",
-      "publishedDateTime": "2022-08-16T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-16-artificial-neural-networks-market-to-witness-a-healthy-growth-by-2029.md",
       "title": "Artificial Neural Networks Market to Witness a Healthy Growth by 2029",
       "excerpt": "Pune, India-Global Artificial Neural Networks Market Report Organization’s Researcher investigators specialists causes us",
@@ -1201,6 +1098,101 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-15-tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai.md",
+      "title": "Tata Elxsi brings new age solutions for driverless cars, connected vehicles and more: Tata Elxsi CMO Nitin Pai",
+      "excerpt": "We invested early in Centers of Excellence (CoE) for digital technologies such as AI (artificial intelligence), robotics ... platforms such as AUTONOMAI for driverless cars, TETHER IoT for ...",
+      "sourceUrl": null,
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/93515596",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/93515596",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-93515596,imgsize-44998,width-1200,height-628,overlay-etcio/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/93515596",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/93515596",
+      "publishedDateTime": "2022-08-14T13:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "cio.economictimes.indiatimes",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-15-responsible-use-of-machine-learning-to-verify-identities-at-scale.md",
+      "title": "Responsible use of machine learning to verify identities at scale",
+      "excerpt": "The power of machine learning is best when it's utilized alongside human expertise and with data transparency.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/responsible-use-of-machine-learning-to-verify-identities-at-scale/",
+      "originalUrl": "https://venturebeat.com/ai/responsible-use-of-machine-learning-to-verify-identities-at-scale/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/09/halfway.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/responsible-use-of-machine-learning-to-verify-identities-at-scale/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/responsible-use-of-machine-learning-to-verify-identities-at-scale/amp/",
+      "publishedDateTime": "2022-08-14T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     }

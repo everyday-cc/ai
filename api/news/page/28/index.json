@@ -2,109 +2,6 @@
   "page": 28,
   "value": [
     {
-      "path": "_news/2022-07-28-ponyai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china.md",
-      "title": "Pony.ai forms autonomous truck JV with Sany Heavy Truck in China",
-      "excerpt": "Autonomous vehicle company Pony.ai is forming a strategic joint venture with Sany Heavy Truck, a subsidiary of Chinese heavy equipment manufacturer Sany Heavy Industry, to create an autonomous truck brand.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china/",
-      "originalUrl": "https://techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/image_01_-_high_res.jpeg?w=1024",
-          "width": 1024,
-          "height": 592,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/27/pony-ai-forms-autonomous-truck-jv-with-sany-heavy-truck-in-china/amp/",
-      "publishedDateTime": "2022-07-27T21:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-global-us-283-billion-speech-and-voice-recognition-market-outlook-to-2026.md",
-      "title": "Global US $ 28.3 Billion Speech and Voice Recognition Market Outlook to 2026",
-      "excerpt": "Jul 28, 2022 (The Expresswire) -- [160 Pages Report] The \"Speech and Voice Recognition Market\" report contains detailed information on factors influencing demand, growth, opportunities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-us-283-billion-speech-and-voice-recognition-market-outlook-to-2026-2022-07-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-us-283-billion-speech-and-voice-recognition-market-outlook-to-2026-2022-07-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T21:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-28-ponyai-and-sany-establish-joint-venture-to-develop-next-generation-of-autonomous-trucks-for-mass-production.md",
       "title": "Pony.ai and SANY Establish Joint Venture to Develop Next Generation of Autonomous Trucks for Mass Production",
       "excerpt": "Pony.ai and SANY will collaborate to create a world-leading autonomous truck brand. The two companies will deeply integrate Pony.ai’s \"virtual driver\" with SANY's technical accumulation in the field of wire-controlled chassis and vehicle development to jointly develop high-end heavy trucks that are automotive-grade and have L4-class redundancies.",
@@ -1099,6 +996,92 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-veo-robotics-named-to-the-2022-cb-insights-advanced-manufacturing-50-list.md",
+      "title": "Veo Robotics Named to the 2022 CB Insights' Advanced Manufacturing 50 List",
+      "excerpt": "Industrial automation leader and creator of FreeMove® recognized as one of the most promising private advanced manufacturing companies in the world WALTHAM, Mass. (PRWEB) CB Insights today named Veo",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/p28232813/veo-robotics-named-to-the-2022-cb-insights-advanced-manufacturing-50-list",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/p28232813/veo-robotics-named-to-the-2022-cb-insights-advanced-manufacturing-50-list",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
+          "width": 900,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28232813",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28232813",
+      "publishedDateTime": "2022-07-27T12:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-verify-introduces-facial-recognition-enabled-background-check-service.md",
+      "title": "Verify introduces facial recognition-enabled background check service",
+      "excerpt": "Every single person for whom we demonstrated Verify’s offering was interested in knowing more and stated they had never seen an offering like this before,” explained Verify Founder Michael Doherty. Each individual was shown how uploading a photo (or CCTV camera frame) of a person enables one to find and select a suitable match online and instantly learn the person’s name,",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityinfowatch.com/security-executives/security-industry-services/press-release/21275576/verify-introduces-facial-recognitionenabled-background-check-service",
+      "originalUrl": "https://www.securityinfowatch.com/security-executives/security-industry-services/press-release/21275576/verify-introduces-facial-recognitionenabled-background-check-service",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/07/logo.62e18d444598d.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T12:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security",
+        "domain": "securityinfowatch.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     }

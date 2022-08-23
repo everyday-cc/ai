@@ -2,49 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-07-25-why-we-dont-trust-apples-homekit-secure-videoand-you-shouldnt-either.md",
-      "title": "Why We Don’t Trust Apple’s HomeKit Secure Video—and You Shouldn’t Either",
-      "excerpt": "HSV adds some smart features, such as face and object recognition, including people, animals, vehicles, and packages. It even allows you to mix and match camera brands and integrate them with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/wirecutter/blog/apple-homekit-secure-video-review/",
-      "originalUrl": "https://www.nytimes.com/wirecutter/blog/apple-homekit-secure-video-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-24T17:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-24-iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy.md",
       "title": "IIM Ahmedabad proposes face recognition tool to modernize cow-based economy",
       "excerpt": "An Indian Institute of Management (IIM-A) study recommends a model using facial recognition technology for stray cows to link them with donors to achieve \"Gai Aadharit Unnati (GAU),\" or cow-based development.",
@@ -1371,6 +1328,41 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-the-best-robot-vacuums-of-2022-tested-and-rated.md",
+      "title": "The best robot vacuums of 2022 tested and rated",
+      "excerpt": "If you’re looking into buying a robot vacuum, you will no doubt have noticed some of the latest features on offer too, such as self-emptying bases and object recognition. Bear in mind that these ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/us/best-robot-vacuums,review-2000.html",
+      "originalUrl": "https://www.tomsguide.com/us/best-robot-vacuums,review-2000.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],
