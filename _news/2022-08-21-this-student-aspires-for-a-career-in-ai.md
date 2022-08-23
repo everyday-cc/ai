@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/friday/art-people/this-student-aspires-for-
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/friday/art-people/this-student-aspires-for-a-career-in-ai-1.89858003"
 type: article
 quality: 59
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2022/08/Explainable-artificial-intellige.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Rooting for Dedicated Legislation in AI"
+    excerpt: "India is part of the Global Partnership on Artificial Intelligence, which is guiding responsible development and use of AI"
+    publishedDateTime: 2022-08-23T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/rooting-for-dedicated-legislation-in-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/Ai-and-legislation.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Hale Education: This student aspires for a career in AI"
     excerpt: "He was also part of his school’s programming and AI clubs thanks to which he honed his skills to participate in the Kolmogorov Reading Conference for scientific papers. ‘‘I wrote a research paper titled Detection and Classification of brain tumors in MRIs using CNN,"

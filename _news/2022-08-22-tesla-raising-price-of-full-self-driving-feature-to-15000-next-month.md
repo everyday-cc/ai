@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/tesla-raising-price-of-full-se
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442"
 type: article
 quality: 103
-heat: 433
+heat: 423
 published: true
 
 provider:
@@ -288,17 +288,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Don't Test Tesla's Full-Self Driving on Children: Safety Regulators"
-    excerpt: "According to Bloomberg, the National Highway Traffic Safety Administration said it uses controlled procedures when testing vehicles and that “it could be highly dangerous for anyone to attempt to test vehicle technologies on their own."
-    publishedDateTime: 2022-08-18T17:20:00Z
-    webUrl: "https://jalopnik.com/dont-test-teslas-full-self-driving-on-children-safety-1849427978"
-    ampWebUrl: "https://jalopnik.com/dont-test-teslas-full-self-driving-on-children-safety-1849427978/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/dont-test-teslas-full-self-driving-on-children-safety-1849427978/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 54
   - title: "Tesla Wants Its Day in Court to Defend Autopilot and Full-Self Driving"
     excerpt: "Tesla has asked for a hearing to defend its advertising of Autopilot and FSD after the California DMV called it false advertising."
     publishedDateTime: 2022-08-18T22:00:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/health-wellbeing/ai-parkinsons-disease-sleep-
 webUrl: "https://newatlas.com/health-wellbeing/ai-parkinsons-disease-sleep-breathing-patterns-mit"
 type: article
 quality: 67
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -43,6 +43,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-58.jpg"
         width: 900
         height: 600
+        isCached: true
+  - title: "AI to detect Parkinson’s from breathing patterns"
+    excerpt: "A device developed at the Massachusetts Institute of Technology (MIT) with the appearance of a Wi-Fi router uses a neural network to discern the presence and severity of one of the fastest-growing neurological diseases in the world."
+    publishedDateTime: 2022-08-23T11:47:00Z
+    webUrl: "https://healthcare-in-europe.com/en/news/ai-detect-parkinsons-breathing.html"
+    type: article
+    provider:
+      name: healthcare-in-europe.com
+      domain: healthcare-in-europe.com
+    quality: 39
+    images:
+      - url: "https://healthcare-in-europe.com/media/story/27266/rect-01-ai-parkinsons2.jpg"
+        width: 400
+        height: 240
         isCached: true
   - title: "In early research, an AI model detects signs of Parkinson’s using breathing patterns"
     excerpt: "\"We’ve seen no major breakthroughs for treating Parkinson’s this century, suggesting that the status quo is not working,\" said University of Rochester researcher Ray Dorsey."

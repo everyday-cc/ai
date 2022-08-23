@@ -9,7 +9,7 @@ ampWebUrl: "https://nypost.com/2022/08/22/ai-creates-scariest-thing-on-earth-and
 cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/08/22/ai-creates-scariest-thing-on-earth-and-it-will-haunt-your-dreams/amp/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,24 @@ images:
     width: 1024
     height: 1019
     isCached: true
+
+related:
+  - title: "Artificial Intelligence Creates Pic Of \"Scariest Thing On Earth\""
+    excerpt: "Artificial Intelligence (AI) has created the images of \"scariest thing on Earth\", while responding to the queries from users. The results are horrifying, with the images showing monsters with long sharp teeth and empty eye sockets. The images have been ..."
+    publishedDateTime: 2022-08-23T10:37:00Z
+    webUrl: "https://www.ndtv.com/world-news/artificial-intelligence-creates-pic-of-scariest-thing-on-earth-3278852"
+    ampWebUrl: "https://www.ndtv.com/world-news/artificial-intelligence-creates-pic-of-scariest-thing-on-earth-3278852/amp/1"
+    cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/artificial-intelligence-creates-pic-of-scariest-thing-on-earth-3278852/amp/1"
+    type: article
+    provider:
+      name: NDTV
+      domain: ndtv.com
+    quality: 57
+    images:
+      - url: "https://c.ndtvimg.com/2022-08/kshej0p_artificial-intelligence-scary-image-650_625x300_23_August_22.jpg"
+        width: 650
+        height: 400
+        isCached: true
 
 secured: "CvFl9bvBtzpEzyWVFZjEl8zFpk0PRPbOf0CMMOoO0yvSZygP7oEKcFL0F2YMSE18TgRPH4XM05u2C0fSaItClF+Ce5HXT63vuq/SxZV09cd681PZn5iGQ3BxZ+km9lLtVPyte2To8sy4Voixwvy7T+a6BcqUjVRNEsNALDwlIHkKp1S4956OSKGuL5ZtFIrFyn51eUJscNjNkP3acTKiqmCQy0UGCyTV79yARYpAahTYVsgWtAjqGNnd8mQ5WxPEl+UKnaBjRdKXkTrj2ZcMqE/1a4s3GIgoOtM1uGNtdbFlSAAEO/JbSzrzSSnY8OetUZDjD7cZAwOf3iqisHwMd1Nu6YU403XW6+XIA4SEl/vdHG54qW8HQUcS7H0G+HM6yGNw6i35Ke+f9BPLzsORGexDDJDmt1RSMhD5bFBmMl3Mlgaydeywl5TMpiG9wNqfNeC2AyqQ7b9rmLaZsiVDAOwnLPOYuEISJdUbHRCKXR7szfNTbP1pdOoKWdpiWXt68XJnuJEX4R/fOQ7Nwx/IBQ==;lKsiochNQC1CHUad2XQ7OA=="
 ---

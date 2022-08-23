@@ -22,20 +22,43 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence in Law Market 2022 Key Regions, Comprehensive Analysis, Growth Drivers and Forecast to 2028 |AIBrain, Amazon, Anki"
-    excerpt: "Global Artificial Intelligence in Law Market report has recently added by Infinity Business Insights which helps"
-    publishedDateTime: 2022-08-19T15:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-2022-key-regions-comprehensive-analysis-growth-drivers-and-forecast-to-2028-aibrain-amazon-anki-2022-08-19"
+  - title: "North America Artificial Intelligence In Retail Market Size, Key Companies, Trends, Growth and Regional Forecasts Research 2027"
+    excerpt: "Improved efficiency, speed, and accuracy in the retail sector is the pivotal factor boosting North America artificial intelligence in retail market growth. Availability of advanced data and information due to the incorporation of AI in business is enabling store owners to materialize data driven business strategies."
+    publishedDateTime: 2022-08-22T13:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-in-retail-market-size-key-companies-trends-growth-and-regional-forecasts-research-2027-2022-08-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence (AI) Consulting Market Size, Share, Trends, Future Opportunities with COVID-19 Impact Analysis and Forecast to 2028"
+    excerpt: "The production, revenue, price, market share, and growth rate of each type are displayed in the Artificial Intelligence (AI) Consulting Market study. This research focuses on the"
+    publishedDateTime: 2022-08-22T11:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-size-share-trends-future-opportunities-with-covid-19-impact-analysis-and-forecast-to-2028-2022-08-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence In Healthcare Sector Market Size, Share, Growth Opportunity, Rising Demand and Trends Analysis Forecasts till 2027"
+    excerpt: "The “Artificial Intelligence In Healthcare Sector Market” 2022 Research report will make detailed analysis mainly"
+    publishedDateTime: 2022-08-19T10:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-size-share-growth-opportunity-rising-demand-and-trends-analysis-forecasts-till-2027-2022-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
   - title: "Voice Recognition Software Market Share 2022 Global Trend, Segmentation, Business Growth, Opportunities and Forecast to 2029"
     excerpt: "Get a Sample PDF of Report -  The Global Voice Recognition Software Market Report 2022 covers 118 pages and provides details on vital statistics, data, information, trends and competitive landscapes in this niche sector."
     publishedDateTime: 2022-08-19T06:30:00Z
@@ -49,6 +72,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Global Social Robots Market Report (2022 to 2027) - Industry Trends, Share, Size, Growth, Opportunity and Forecasts - ResearchAndMarkets.com"
+    excerpt: "The global social robots market size reached US$ 2.6 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 13.3 Billion by 2027, exhibiting a CAGR of 31.26% during 2021-2027."
+    publishedDateTime: 2022-08-23T10:36:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-robotics-4b17d57561be47bc829b850f140e63e1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "t5EW1Pta57bvazX2Th/YxVaQYop6yc6yfRZlYjbZuFAWu9L4jVrbMoxXTVnlkihb1M3eGWEYguadSijvUckEDK0VJVEUXmREQieyh/keq5jOacWnSkKjFCHh0z7WUCguYr6o2BOTvA6lBQeRRMQVOz/uVelzN7Jw76Wf0txuvLOrfg0poBt2XcJB0WaScDBq7QTCtgF8XeH5JwkoAp1c9LPM/+pgWE5+X7uHWQIJ9l0KpPgef/lckwc5Hb5JDBpJiJlpKmpiiGCwyYnqprM1ao71XCJBa5687iOLw4cvbCIDL49WfhV7Efjb1uNOxEbZqhhQs5PiF4zmrYO96GuUE1T3WbKOMpcFmEdymW68HWE=;Hj+bfz2Y7OMfVUYCIfGuxw=="

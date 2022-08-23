@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Former Apple engineer pleads guilty to stealing self-driving vehicle secrets, faces decade in prison"
+    excerpt: "Federal agents stopped Zhang at San Jose International Airport as he departed for Beijing using a ticket bought at the \"last second.\" He"
+    publishedDateTime: 2022-08-23T11:15:00Z
+    webUrl: "https://www.techspot.com/news/95726-former-apple-engineer-pleads-guilty-stealing-self-driving.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 39
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/11/2021-11-18-image-19.jpg"
+        width: 1500
+        height: 809
+        isCached: true
   - title: "Ex-Apple Engineer Admits To Stealing Trade Secrets While Working On Self-Driving Car Project"
     excerpt: "The former hardware engineer was arrested at the San Jose International Airport in 2018 while he was trying to leave the United States."
     publishedDateTime: 2022-08-23T04:13:00Z
@@ -42,6 +56,20 @@ related:
       - url: "https://d.ibtimes.com/en/full/3804069/illustration-shows-apple-logo.jpg"
         width: 1200
         height: 813
+        isCached: true
+  - title: "Self-driving vehicles on verge of becoming common"
+    excerpt: "Yang Diange, a professor from the School of Vehicle and Mobility at Tsinghua University, said: \"Level 4 self-driving technology will first be deployed in taxis and trucks and in some designated areas,"
+    publishedDateTime: 2022-08-19T02:04:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202208/19/WS62fee6e4a310fd2b29e73221_2.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 24
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202208/19/62fee6e4a310fd2bec9cf6d1.jpeg"
+        width: 663
+        height: 441
         isCached: true
 
 secured: "xCOoZFb5OEaSm/jC2qLRcMEMM+iH/ftbzsGOnX7Z0yRPFt1iZjtBBQELg8n/6enNEIwnEc3hBzaokB6V/zCg3uOsUcke+i1WqsuUg+jFZ9vCcCqePhPTvgwpl0h0bh1uGpNXQCvxNLLbEer0PpXlGqP/qWw7gyZHZ+aFL9/KBYX1Xe4yvV6Z6AS08IUIuNb8WlJkOkD9SUqLrZW/NyP85kJ6Vlco9YRTt6Lkf0+JzUIoR4Buzil8KIonyF8ok0K95Kg0FUq6F6atKT3fE1/q8wFjGFMA4OTCFnllQ96rIH3pfkr/SKA1ofvAE6dZoUawI/yjTfn77jGtv/U7k9fTDim8GFFIaA0wWXF8ku3nZpA=;r75VikY720E+CEjkk3m5KA=="

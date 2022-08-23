@@ -7,7 +7,7 @@ originalUrl: "https://www.autoweek.com/opinion/a40911080/despite-artificial-inte
 webUrl: "https://www.autoweek.com/opinion/a40911080/despite-artificial-intelligence-humans-must-drive-future-mobility-design/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,22 @@ images:
     width: 1200
     height: 602
     isCached: true
+
+related:
+  - title: "AI design of Ocean Drive looks strikingly familiar"
+    excerpt: "This imagined future of Ocean Drive looks a lot like the past. Driving the news: Zach Katz, an urban-planning advocate from New York, used AI image-generation platform DALL-E to reimagine the South Beach strip as a car-free promenade with open space for bicyclists and pedestrians."
+    publishedDateTime: 2022-08-23T10:25:00Z
+    webUrl: "https://www.axios.com/local/miami/2022/08/23/ocean-drive-ai-design"
+    type: article
+    provider:
+      name: Axios
+      domain: axios.com
+    quality: 37
+    images:
+      - url: "https://images.axios.com/eizMeRJ8SUE90lZ-j4f_2PQ2VlM=/1366x768/smart/2022/08/11/1660245674847.png"
+        width: 1366
+        height: 768
+        isCached: true
 
 secured: "27ty6ny6Z3jIrvDpP1q1WkmHFEAfLz+1pkzk8TRT6ezOM/PwauPsEXZUlzF74uf/Knk7M/ytGxxPWwYxJPEbE2YAaxyYIyiD7MtbJ885wll2k012O+Z5MkM3s+clH/ZqwEmhXsI5jJmgx/T7RDzRG20ztSl7O3WBBxkHqzNepVNBEBz+QZkicEm4gn6KlhIEV96v3+Mj2r2gUTYc+LWGzEHhu+8ZpHFvO9BNfVAZTgooPWnsmTJfH14pLL+KojFOKNgG2Jj5lijlbs5WNmbsc6XO9b0rM13uCcvnuj1TCNaE3dUF40YQCvDmFhteaIS9AFZsLmMzaChEBA6n5qqA4es3cCxGbTMZFbsBYpm50LfDGn29U95dOPeC0fU3c3Hzsq3cqSHNbZZFBK42Gf3+FoN2Gt75UxHpGvXlloR5CHHuKgoToMH1uh83sEDB7+GMmWPHFa/Q8ZNSjiWJOfuyaKw3aAS+x6j8he9IRTcv9b+F/AuN168VXwL+6n3WNIijtHe7MGwcWawaUSG8SZ+BMw==;Vt7sPFWxPsLWqkbOp2v/zQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://pressreleases.responsesource.com/news/103111/cloud-talent-
 webUrl: "https://pressreleases.responsesource.com/news/103111/cloud-talent-leaders-join-forces-to-deliver-integrated-global-recruitment/"
 type: article
 quality: 0
-heat: 0
+heat: -1
 published: false
 
 provider:
@@ -19,15 +19,20 @@ topics:
   - AI
 
 related:
-  - title: "Focus Cloud acquires Cognitive Group to form new global leader in cloud recruitment"
-    excerpt: "Leading European IT recruitment group, Focus Cloud, has acquired specialist Microsoft recruitment firm, Cognitive Group. Together, they have formed a new global brand, the Focus Cloud Group, which will provide global recruitment solutions across major cloud platforms Microsoft,"
-    publishedDateTime: 2022-08-23T07:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-focus-cloud-acquires-cognitive-group-form-new-global-/2022/08/23/9660330.htm"
+  - title: "Industry Leader Adopts CIM Platform as its Enterprise Integrity Management Solution for Global Pipeline Operations"
+    excerpt: "(“OneBridge”) to adopt Cognitive Integrity Management™ (“CIM”) platform and software-as-a-service products for management of its pipeline assets. Headquartered in the U.S.A., the Client is one of the global oil and gas industry leaders and conducts business in the U."
+    publishedDateTime: 2022-08-23T11:31:00Z
+    webUrl: "https://apnews.com/press-release/accesswire/technology-science-software-oil-and-gas-industry-c5ac845ab4efb487bfcff16249f70339"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: Associated Press
+      domain: apnews.com
+    quality: 2
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "4FY+0ByefqEZXz4C5Hq6cf3wu74xRjwPithTUAcqQkJ6GboPkjniDj/EvwNHbqfKkmDGk1juGgmN60XGEd13fYAzKgwagt204SrpuJxx9bpEATTKUSBPGniJ0wy5sKL47kBA8/AabWV7IlEmsxQN81NwrW3WVcn8omn3iImpNyQt3p6pIamDAHGqioUklQ6JuZhLn6dMCqoDNGZQA9q4CGAOMoRG+xjiPOEgj0L5svHCoRTQLroZ+ek7qBruw3VhpcCDSL+NRmDiZmgiNhyeuz+cY8yxe3W313ARRrE2Ri4DVXfsrgsNdca68tjrF+o39qcZDU/3pQ9BVLXaic684VPLE0giONNSLAIxwK5xk7w=;EFl3Y0CSt0WL9OAwqefm+g=="
 ---

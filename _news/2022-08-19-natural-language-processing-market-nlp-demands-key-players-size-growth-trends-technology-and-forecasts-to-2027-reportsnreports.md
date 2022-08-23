@@ -7,8 +7,8 @@ originalUrl: "https://www.marketwatch.com/press-release/natural-language-process
 webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-nlp-demands-key-players-size-growth-trends-technology-and-forecasts-to-2027---reportsnreports-2022-08-19"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: MarketWatch
@@ -43,15 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence In Healthcare Sector Market Size, Share, Growth Opportunity, Rising Demand and Trends Analysis Forecasts till 2027"
-    excerpt: "The “Artificial Intelligence In Healthcare Sector Market” 2022 Research report will make detailed analysis mainly"
-    publishedDateTime: 2022-08-19T10:12:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-size-share-growth-opportunity-rising-demand-and-trends-analysis-forecasts-till-2027-2022-08-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 30
 
 secured: "WudMDS7eqzVL34REvc+3DTyR7OSs297BVcR/btle10F8dbJmHPi1ewVmmVWoCYgAED02qMZr2GJXoXnkOMeAwbau/Y3bVUGGHGlka3ZtZc9CKQETPdoruJVavrynFAstlWML04zk6b//2YBxz0/c6vG7Xc4aRMSxWQREWw5cf/7yp/y0raESJQMLOND9Y2adQTEaq+oycd/5MNnR/tewLDuiI77eQFV9nQUpt8hXW8FyL3zHb0garsblGOJHS97K2V8GCziC3aTEHtzBt0XDOwcZXFe8Apasqt5ccKVjTkVT9BpWvqNf6OXBPN36i9ocZIKcBDJS3UJ6I7s4X+ykq6p9qiveaNhXnNLD+7yW8z8=;vcUpu0WJL8JQwhSqxsOVyg=="
 ---

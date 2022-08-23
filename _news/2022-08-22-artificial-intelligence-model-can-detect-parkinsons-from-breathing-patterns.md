@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI to detect Parkinson’s from breathing patterns"
+    excerpt: "A device developed at the Massachusetts Institute of Technology (MIT) with the appearance of a Wi-Fi router uses a neural network to discern the presence and severity of one of the fastest-growing neurological diseases in the world."
+    publishedDateTime: 2022-08-23T11:47:00Z
+    webUrl: "https://healthcare-in-europe.com/en/news/ai-detect-parkinsons-breathing.html"
+    type: article
+    provider:
+      name: healthcare-in-europe.com
+      domain: healthcare-in-europe.com
+    quality: 39
+    images:
+      - url: "https://healthcare-in-europe.com/media/story/27266/rect-01-ai-parkinsons2.jpg"
+        width: 400
+        height: 240
+        isCached: true
   - title: "In early research, an AI model detects signs of Parkinson’s using breathing patterns"
     excerpt: "\"We’ve seen no major breakthroughs for treating Parkinson’s this century, suggesting that the status quo is not working,\" said University of Rochester researcher Ray Dorsey."
     publishedDateTime: 2022-08-22T16:37:00Z

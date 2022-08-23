@@ -3,8 +3,8 @@ category: news
 title: "AI-generated art illustrates another problem with technology"
 excerpt: "Artificial intelligence is being used to design magazine covers and provide pictures for internet newsletters. What could possibly go wrong?"
 publishedDateTime: 2022-08-20T14:00:00Z
-originalUrl: "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
-webUrl: "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
+originalUrl: "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists?amp;amp"
+webUrl: "https://www.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists?amp;amp"
 ampWebUrl: "https://amp.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/commentisfree/2022/aug/20/ai-art-artificial-intelligence-midjourney-dall-e-replacing-artists"
 type: article
@@ -29,6 +29,6 @@ images:
     height: 372
     isCached: true
 
-secured: "HreX/bX2lHvyvEcgl8P0vCWP1cnIr/KGRCd4hv2qCDLsAjCL6SxdakrcnrUqjgz9KDwmplylLtI0h2de0pW+3W18AosUw97WPKGUHDiXJv/UKOrun8XM1VfjeZC5wsHPRKCv17BGKoEp4+nefoGpP4BQxyQRyl/Z9b+74Mq0EyIQaqB7vqH2vYcQ78QjVct8XPjt8/FS4jHMMLRAOmWhknza6YBV0UPgAMhMfGy+hu115lPwTJghzYcyT8xCuU1seIqx3VRmAy3Z5K3GP0xr+1lbqHtteJeb/MG4RbpI70LOhzgqSLNK1oiZIsp1bVM4hZPkakO1W0s7GKhX2Ne0L5P0dW7XaB2VBYvQWpLtb84=;JYP2jkzvYfiFQFTi/xEy+w=="
+secured: "P7frOVH666auf/BiYcv0Sj3T80OwTgdZjbQeMJwF9Sl2qN8LGVZMO0P4IYoSAIY84lVNKheDTQQUymMHAlkFI5hbgi3Ia1QuX6lcaTQG18id3hGEzpvnFhIa3k3r/zdOMZZjo7tS5j8U3sz01kkSSYfIxiMFWRtEL79/hwLyRG5FCoNzf4+TJObkvbT85utQnm0t4QupmSIrDm8rqtkkE9q+cihCt39UybI8ocdNSMcb8CdCZ0Iekm7Gz20EUfhWi1nwUs5zmpBKpKlH//HCX+1F951uEP+2Hg2k4z4X+fgGQReL/tTyxvy1sq2qgFS22rgNdGeCg+5AjjZtFa1P4tANa9gy0mQEsvndSW4u/bQ=;5DUO+KECe3AF/llfLaClpg=="
 ---
 

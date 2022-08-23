@@ -29,15 +29,29 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Law Market 2022 Key Regions, Comprehensive Analysis, Growth Drivers and Forecast to 2028 |AIBrain, Amazon, Anki"
-    excerpt: "Global Artificial Intelligence in Law Market report has recently added by Infinity Business Insights which helps"
-    publishedDateTime: 2022-08-19T15:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-2022-key-regions-comprehensive-analysis-growth-drivers-and-forecast-to-2028-aibrain-amazon-anki-2022-08-19"
+  - title: "North America Artificial Intelligence In Retail Market Size, Key Companies, Trends, Growth and Regional Forecasts Research 2027"
+    excerpt: "Improved efficiency, speed, and accuracy in the retail sector is the pivotal factor boosting North America artificial intelligence in retail market growth. Availability of advanced data and information due to the incorporation of AI in business is enabling store owners to materialize data driven business strategies."
+    publishedDateTime: 2022-08-22T13:54:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-in-retail-market-size-key-companies-trends-growth-and-regional-forecasts-research-2027-2022-08-22"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 50
+    quality: 54
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Consulting Market Size, Share, Trends, Future Opportunities with COVID-19 Impact Analysis and Forecast to 2028"
+    excerpt: "The production, revenue, price, market share, and growth rate of each type are displayed in the Artificial Intelligence (AI) Consulting Market study. This research focuses on the"
+    publishedDateTime: 2022-08-22T11:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-size-share-trends-future-opportunities-with-covid-19-impact-analysis-and-forecast-to-2028-2022-08-22"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 48
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -52,6 +66,29 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
+  - title: "Artificial Intelligence In Healthcare Sector Market Size, Share, Growth Opportunity, Rising Demand and Trends Analysis Forecasts till 2027"
+    excerpt: "The “Artificial Intelligence In Healthcare Sector Market” 2022 Research report will make detailed analysis mainly"
+    publishedDateTime: 2022-08-19T10:12:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-size-share-growth-opportunity-rising-demand-and-trends-analysis-forecasts-till-2027-2022-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 30
+  - title: "Global Social Robots Market Report (2022 to 2027) - Industry Trends, Share, Size, Growth, Opportunity and Forecasts - ResearchAndMarkets.com"
+    excerpt: "The global social robots market size reached US$ 2.6 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 13.3 Billion by 2027, exhibiting a CAGR of 31.26% during 2021-2027."
+    publishedDateTime: 2022-08-23T10:36:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-robotics-4b17d57561be47bc829b850f140e63e1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "+WzXFh3YUjMAur2Ek3gbUDSj9u7NqdHEeKpJeKxyk0kIiMga7AXpG8mgTzVbLNnc8KUEo/tn7Fo3Zxdy4bbBl/UNHpS1xmsjfnIxcaovnIHUVsuquNkTX8HN/tyAG4mIwgmNtoeJISfSbVBO96jn8pAZQkVxHcQ6J5sk0g11Kmq8aOiT6/NQU4/aTmP3NO8CuSq/rN3sFzaWK4JOr7+USvF3578rhluwsVlvkJZ6Whb/Qt6cl7k9tbBzTNEZH4ixzQY+9Fs82ytUcMCw8cgpeA8hgcYATkPcutEtCJ/W4UnAzu23Daxv5c+cmSICvhfTIdVwCwYV1EjhnbhAM2Jubp8IWtcX8AlfZeaqVoF3T7Q=;fZvH3jHGQOn0wUxPULwjKQ=="
 ---

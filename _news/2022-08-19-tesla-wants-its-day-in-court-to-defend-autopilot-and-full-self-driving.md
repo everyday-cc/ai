@@ -294,17 +294,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Don't Test Tesla's Full-Self Driving on Children: Safety Regulators"
-    excerpt: "According to Bloomberg, the National Highway Traffic Safety Administration said it uses controlled procedures when testing vehicles and that “it could be highly dangerous for anyone to attempt to test vehicle technologies on their own."
-    publishedDateTime: 2022-08-18T17:20:00Z
-    webUrl: "https://jalopnik.com/dont-test-teslas-full-self-driving-on-children-safety-1849427978"
-    ampWebUrl: "https://jalopnik.com/dont-test-teslas-full-self-driving-on-children-safety-1849427978/amp"
-    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/dont-test-teslas-full-self-driving-on-children-safety-1849427978/amp"
-    type: article
-    provider:
-      name: Jalopnik
-      domain: jalopnik.com
-    quality: 54
   - title: "Musk says Tesla raising 'Full Self-Driving' price to $15,000"
     excerpt: "Driving,' or FSD, has been criticized because the features require active supervision and don’t make its vehicles autonomous."
     publishedDateTime: 2022-08-22T10:30:00Z

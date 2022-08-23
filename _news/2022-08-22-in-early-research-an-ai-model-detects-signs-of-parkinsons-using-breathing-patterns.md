@@ -54,6 +54,20 @@ related:
         width: 900
         height: 600
         isCached: true
+  - title: "AI to detect Parkinson’s from breathing patterns"
+    excerpt: "A device developed at the Massachusetts Institute of Technology (MIT) with the appearance of a Wi-Fi router uses a neural network to discern the presence and severity of one of the fastest-growing neurological diseases in the world."
+    publishedDateTime: 2022-08-23T11:47:00Z
+    webUrl: "https://healthcare-in-europe.com/en/news/ai-detect-parkinsons-breathing.html"
+    type: article
+    provider:
+      name: healthcare-in-europe.com
+      domain: healthcare-in-europe.com
+    quality: 39
+    images:
+      - url: "https://healthcare-in-europe.com/media/story/27266/rect-01-ai-parkinsons2.jpg"
+        width: 400
+        height: 240
+        isCached: true
 
 secured: "wLz800wjntIKMzpTBzgiHcJjjwczxLk5sYkBg04BPiJSTiIUZr3AOpgLgPunxLe3CuAmhLb+koxL7ETKLNqDpjR/l7A5hPwy5o1VpoN5GmLR7Rz5v5jvPZPuV7atu943pNnmutu0XZTnaHUhak28oNzmDCijosh/e4ypK0RgkldHX3s4t7sA7WVPqtUuoyFbftVJVXeJeSEP9tvsvy2b/4GZNxyUTX5zn38BrdzwEuez5uDWYp9yb3HWhHyhwPrPSCBHK3iNfLAi3W6RcL0zBCbKGrQ/+P0F3hHv3V+acdwBBdpclcgAze099gD7OYWZ/L7SwTmpelTkaFL7U/mWRhfBJC/2k8+t9M3bdaNWjO52/abL7i+pj2m1bglcXB0lF7grkhtGq1enTA3d6JH1HEzRhRBjspDUGj6go3nGiZimoytUWgCh/4mjJp+fxmfIZT1/SjXr5TvD40yYQHC0pziNcDVHssZXpFWqhFFU8lG53iqfaO9V22oSuS5CJMwrIAk/TsXUbxqEgmmnhuZRxA==;oQOWbRsFomWHRQK99MIbQw=="
 ---

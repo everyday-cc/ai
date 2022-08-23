@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-12-medtronic-announces-co-promotion-agreement-with-cathworks-with-path-toward-acquisition.md",
+      "title": "Medtronic announces co-promotion agreement with CathWorks, with path toward acquisition",
+      "excerpt": "In contrast to traditional FFR, the FFRangio System combines artificial intelligence (AI) and advanced computational ... Fractional Flow Reserve–Guided PCI versus Medical Therapy in stable coronary disease. The New England Journal of Medicine 2012 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.idahostatejournal.com/news/world/medtronic-announces-co-promotion-agreement-with-cathworks-with-path-toward-acquisition/article_7d828ffd-62ed-5b00-93d6-3b6fa103870a.html",
+      "originalUrl": "https://www.idahostatejournal.com/news/world/medtronic-announces-co-promotion-agreement-with-cathworks-with-path-toward-acquisition/article_7d828ffd-62ed-5b00-93d6-3b6fa103870a.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/idahostatejournal.com/content/tncms/custom/image/8f842262-b887-11e9-b93f-572c463bdda4.png",
+          "width": 660,
+          "height": 345,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Idaho State Journal",
+        "domain": "idahostatejournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-kiromic-biopharma-appoints-leonardo-mirandola-phd-as-chief-scientific-officer.md",
       "title": "Kiromic BioPharma Appoints Leonardo Mirandola, Ph.D. as Chief Scientific Officer",
       "excerpt": "Kiromic BioPharma, Inc. (NASDAQ: KRBP) (“Kiromic” or the “Company”), a clinical-stage fully integrated biotherapeutics company using its proprietary DIAMOND ® artificial intelligence and data mining platform to develop cell and gene therapies with a focus on immuno-oncology,",
@@ -1291,50 +1334,6 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-chatbot-company-replika-says-many-customers-believe-in-ai-sentience.md",
-      "title": "Chatbot company Replika says many customers believe in AI sentience",
-      "excerpt": "Chatbot company Replika says it receives a handful of messages almost every day from users who believe their online friend is sentient.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/",
-      "originalUrl": "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/06/replika-ai-sentient.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/",
-      "publishedDateTime": "2022-06-30T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI",
         "AI in Healthcare"
       ]
