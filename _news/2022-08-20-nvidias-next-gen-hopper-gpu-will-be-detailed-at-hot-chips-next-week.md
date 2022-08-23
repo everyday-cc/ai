@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "What NVIDIA Will Say At Hotchips‘22"
-    excerpt: "“We are the Accelerated Data Center”: GPU’s, CPUs, Networking and Systems. As anyone not comatose knows, today’s modern data center workloads — like AI, HPC, and machine learning ..."
-    publishedDateTime: 2022-08-18T13:34:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2022/08/18/what-nvidia-will-say-at-hotchips22/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/08/18/what-nvidia-will-say-at-hotchips22/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/08/18/what-nvidia-will-say-at-hotchips22/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62fc029ea7cd8d9fa10cac5a/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
-        isCached: true
 
 secured: "ExNJari+HeXfDueWC1BwQMci7R8lWU8qAURqyMAUjT5dcVLaQttwcBj2weMRwQqKSix6scYxUPAF/NLtBfBeRCEOi29iTozfI56bWHYWnbQw0EiHs6HvQcV0zzHKIE/qpJRrL8eOagXvAY5y9+6SCaoP0tBZYM+RTWNOMwW9JkHJjJPx+YGmihHbKr1dgZ3r3cQv8FIw5tlqZLuwz7o63zNRxSel8gNgZ8lEmNi11wPJ2/o0FOTDMORXB8KKdF0BJMJjirbN/9zloIzYBr2qIb2D5/cmJo4TIqtEsALl3nDMc1uB5GzGkPbtCuGwd/nH4xzxPcCmClE0hvIC4TeCobDZpFdnNvXZcxoVDeWBR84=;Eke+vfCdvk4uVLVdTKBBJA=="
 ---

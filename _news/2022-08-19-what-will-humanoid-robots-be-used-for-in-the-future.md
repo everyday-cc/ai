@@ -7,7 +7,7 @@ originalUrl: "https://www.malaymail.com/news/tech-gadgets/2022/08/19/what-will-h
 webUrl: "https://www.malaymail.com/news/tech-gadgets/2022/08/19/what-will-humanoid-robots-be-used-for-in-the-future/23541"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "What will humanoid robots be used for in the future?"
-    excerpt: "The humanoid robot war is already raging between the United States' Tesla and China's Xiaomi. The Chinese company unveiled their AI robots"
-    publishedDateTime: 2022-08-18T13:44:00Z
-    webUrl: "https://www.citizen.co.za/lifestyle/3175680/humanoid-robots-xiamoi-cyberone/"
-    ampWebUrl: "https://amp.citizen.co.za/lifestyle/3175680/humanoid-robots-xiamoi-cyberone/"
-    cdnAmpWebUrl: "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/3175680/humanoid-robots-xiamoi-cyberone/"
-    type: article
-    provider:
-      name: The Citizen
-      domain: citizen.co.za
-    quality: 59
-    images:
-      - url: "https://www.citizen.co.za/wp-content/uploads/2022/08/xiaomi-AI.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
   - title: "What will humanoid robots be used for in the future?"
     excerpt: "While waiting for other players to enter the fray, the humanoid robot war is already raging between the United States’ Tesla and China’s Xiaomi. From assembly line work to personal services, these robots could have very practical uses once they’re made operational."
     publishedDateTime: 2022-08-23T00:00:00Z

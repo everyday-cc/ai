@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "Qraft AI-Enhanced Next Value ETF (NYSEARCA:NVQ) Shares Down 1.8%"
+    excerpt: "Qraft AI-Enhanced Next Value ETF (NYSEARCA:NVQ – Get Rating)’s stock price traded down 1.8% during mid-day trading on Monday . The stock traded as low as $31.90 and last traded at $31.90. 15 shares changed hands during trading,"
+    publishedDateTime: 2022-08-23T06:36:00Z
+    webUrl: "https://www.defenseworld.net/2022/08/23/qraft-ai-enhanced-next-value-etf-nysearcanvq-shares-down-1-8.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 17
   - title: "ROBO Global Artificial Intelligence ETF (NYSEARCA:THNQ) Trading Down 3.3%"
     excerpt: "ROBO Global Artificial Intelligence ETF (NYSEARCA:THNQ – Get Rating) shares traded down 3.3% during mid-day trading on Friday . The stock traded as low as $30.53 and last traded at $30.63. 2,018 shares were traded during trading,"
     publishedDateTime: 2022-08-21T09:28:00Z

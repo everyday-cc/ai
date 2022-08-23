@@ -274,6 +274,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "UK prepares funding, roadmap for self-driving vehicles"
+    excerpt: "The UK has announced plans for new laws and funding of 100 million pounds for the widespread rollout of self-driving vehicles on the nation roads by 2025"
+    publishedDateTime: 2022-08-23T07:30:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272662580/uk-prepares-funding-roadmap-for-self-driving-vehicles"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1661188007650.jpg"
+        width: 630
+        height: 420
+        isCached: true
   - title: "'Self-driving revolution': Government sets out vision for autonomous cars backed by £100m funding"
     excerpt: "Self-driving vehicles could be on UK roads by as soon as 2025 under plans unveiled today by the Department for Transport, which is offering up £100m funding alongside changes to road safety legislation in order to support the growth of the nascent sector."
     publishedDateTime: 2022-08-19T10:36:00Z

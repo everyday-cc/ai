@@ -46,6 +46,15 @@ related:
       name: Business Times
       domain: businesstimes.com.sg
     quality: 35
+  - title: "Google Cloud further commits to accelerate AI innovation in Singapore"
+    excerpt: "It will work with SNDGG to co-create solutions, deepen AI capabilities in public service, and shape AI governance and ethics."
+    publishedDateTime: 2022-08-23T06:20:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/google-cloud-further-commits-accelerate-ai-innovation-singapore"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 19
 
 secured: "Jee/we9uoFFcmnHU0ednK/sOCZH8AVRBF+PIEG74PocEo+sa7qARbf1N3IGA9CN0cDdWRTeJhbd+FCa5OFaKoDBHE5YrRTtGwX+ljnIdfAYdQTvpRgLlVd+Qm+2ErBopXenMuWylgDuJI3NjTZbOQpqTMw6AW7hjmebjqcvSZnXeCigw0Nw4hoF4NBdLT+/NnfGWQ3wobcsHp5JaQx3IJ0vIADK85A0HLfkbf4ISEf9GWfgNkDJ8t4Ci3O5U1a/ZIXC4dn1RTOlXiRD7IJBJRdgz6K7R0ZHuz0yWnVuLIgimv03utw9Pb+xwKWv+B8sxOUkfvqntPNdmUYDSwVpZoSbtiIZflsExWJO98dOVsL8ILUB4MWxmBZRMH4e3VyEBeL9Jg+r3pUA/CDuz3T96HkmxHLjnnQMaqyDR/OaKsbO6PQuDpS5xi4Y/SsOos4Dx0wYmIMLFWv44AZDjnXjjC59t2Q6XhO1+xSb9wV+mBDSwmjtyV34Fqi8eac4GyFAwz4ug+no6CrpnTs4rFht09Q==;KLpcmn1iYjmAgdzYapfC9Q=="
 ---

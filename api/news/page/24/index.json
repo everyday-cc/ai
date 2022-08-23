@@ -2,6 +2,49 @@
   "page": 24,
   "value": [
     {
+      "path": "_news/2022-07-31-facebook-engineers-panic-pull-plug-on-ai-after-bots-develop-their-own-language.md",
+      "title": "Facebook engineers panic, pull plug on AI after bots develop their own language",
+      "excerpt": "Facebook engineers were forced to pull the plug on one of the company’s AI systems after its bots began communicating with each other in a completely new language which humans simply couldn’t ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/science/facebook-ai-shutdown-language/",
+      "originalUrl": "https://bgr.com/science/facebook-ai-shutdown-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2016/02/facebooklogo.jpg?quality=82&strip=all",
+          "width": 1368,
+          "height": 1022,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/science/facebook-ai-shutdown-language/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/science/facebook-ai-shutdown-language/amp/",
+      "publishedDateTime": "2022-07-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-31-persistent-loss-of-smell-due-to-covid-19-closely-connected-to-long-lasting-cognitive-problems.md",
       "title": "PERSISTENT LOSS OF SMELL DUE TO COVID-19 CLOSELY CONNECTED TO LONG-LASTING COGNITIVE PROBLEMS",
       "excerpt": "\"As this virus will likely be with us for a long time, identifying the risk and protective factors for cognitive symptoms can assist with the treatment and prevention of 'long COVID' moving forward.\"",
@@ -1114,49 +1157,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-how-artificial-intelligence-is-elevating-gen-zs-level-of-financial-sophistication.md",
-      "title": "How artificial intelligence is elevating Gen Z’s level of financial sophistication",
-      "excerpt": "Customer service, cost optimization, and the development of new, useful products are all being aided by AI-powered financial applications. Financial institutions of the future will rely heavily on artificial intelligence (AI),",
-      "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/how-artificial-intelligence-is-elevating-gen-zs-level-of-financial-sophistication/",
-      "originalUrl": "https://bestgamingpro.com/how-artificial-intelligence-is-elevating-gen-zs-level-of-financial-sophistication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bestgamingpro.com/wp-content/uploads/2022/07/How-AI-is-making-Gen-Z-the-most-financially-sophisticated-generation.png",
-          "width": 600,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bestgamingpro",
-        "domain": "bestgamingpro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

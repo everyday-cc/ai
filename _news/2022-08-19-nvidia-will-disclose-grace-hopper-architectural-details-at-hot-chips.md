@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/data-infrastructure/nvidia-will-disclose-gra
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/nvidia-will-disclose-grace-hopper-architectural-details-at-hot-chips/amp/"
 type: article
 quality: 104
-heat: 124
+heat: 114
 published: true
 
 provider:
@@ -31,22 +31,6 @@ images:
     isCached: true
 
 related:
-  - title: "What NVIDIA Will Say At Hotchips‘22"
-    excerpt: "“We are the Accelerated Data Center”: GPU’s, CPUs, Networking and Systems. As anyone not comatose knows, today’s modern data center workloads — like AI, HPC, and machine learning ..."
-    publishedDateTime: 2022-08-18T13:34:00Z
-    webUrl: "https://www.forbes.com/sites/karlfreund/2022/08/18/what-nvidia-will-say-at-hotchips22/"
-    ampWebUrl: "https://www.forbes.com/sites/karlfreund/2022/08/18/what-nvidia-will-say-at-hotchips22/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/08/18/what-nvidia-will-say-at-hotchips22/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 89
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/62fc029ea7cd8d9fa10cac5a/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 801
-        isCached: true
   - title: "NVIDIA's next-gen Hopper GPU will be detailed at Hot Chips next week"
     excerpt: "NVIDIA will be detailing its next-gen Hopper GPU architecture at Hot Chips 2022, where NVIDIA engineers will be speaking during four talks across two days at the event. NVIDIA will have a senior distinguished engineer who will lift a bit more of the veil ..."
     publishedDateTime: 2022-08-20T05:19:00Z

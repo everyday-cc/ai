@@ -9,8 +9,8 @@ ampWebUrl: "https://www.hindustantimes.com/brand-stories/microsoft-and-map-benga
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399-amp.html"
 type: article
 quality: 74
-heat: -1
-published: false
+heat: 94
+published: true
 
 provider:
   name: Hindustan Times
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "OneMeta AI Accepted as a Part of Microsoft for Startups Founders Hub"
-    excerpt: "LAS VEGAS, NV / ACCESSWIRE / August / OneMeta AI (  (OTCMarkets:ONEI). Today OneMeta AI announced acceptance as part of Microsoft of Startups Founders Hub. \"This is a great milestone that we are thankful for;"
-    publishedDateTime: 2022-08-18T15:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/onemeta-ai-accepted-as-a-part-of-microsoft-for-startups-founders-hub-2022-08-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 84
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "How Microsoft’s AI convinced me to switch to Edge, and where the browser still falls short"
     excerpt: "I finally broke down and switched to Microsoft’s Edge browser this week on my Windows PC, after many years of using Google Chrome. No, it wasn’t the incessant and annoying… Read More"
     publishedDateTime: 2022-08-19T19:31:00Z
@@ -50,6 +36,15 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 54
+  - title: "Artificial Intelligence in Agriculture Market Business overview 2022, and Forecast to 2030 | By -IBM, John Deere, Microsoft"
+    excerpt: "The strong development of the Artificial Intelligence in Agriculture market can be ascribed to the elements related which incorporate market drivers, limitations and amazing open doors, market propensities of each and every present and future,"
+    publishedDateTime: 2022-08-19T14:33:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-business-overview-2022-and-forecast-to-2030-by--ibm-john-deere-microsoft-2022-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
 
 secured: "Inid7aX/Vq/xpg52r1VWRlW5Evvs0yvTBNFZQYG5amzV2YpHYcC1tV39Q7Mximoah0GXZFRsckA1hL2UJ5UCVxJeT/yc2l9L0rqaIZoXUDsTuX5d+jbiEZgVuJkMIilL7ybkMxYE+/9kt398610DnI9Eqn9JMPBMgv3OFZ7GHDx4NkVLRvp/85ePQZ816a1mYIsGtbAiM4BpKjj5cN0Qxyjx8bZuOC3MldUX2floJ2jQBBkpp+ChR7ahYIuS6G5QPF9iyUfOR65/Z6jvxqFR5xdN5RqGuaHeojIkyrTksJ1LjTUalkZFlEAySyjP/fDt3IcADEcdV/TFBOUj4qJR7dBpZCPhiqi4g0GQpy0jKpY=;dp1Gsr0M9AQQeZ30k6MuUA=="
 ---

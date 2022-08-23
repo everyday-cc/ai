@@ -19,33 +19,19 @@ topics:
   - AI
 
 related:
-  - title: "Alliant Credit Union partners Upstart on AI-powered personal loans"
-    excerpt: "Alliant Credit Union, a fully digital, top 10 credit union in the U.S. with more than 650,000 members and over $15 billion in assets, today announced it has partnered with Upstart (NASDAQ: UPST), a leading artificial intelligence (AI) lending marketplace,"
-    publishedDateTime: 2022-08-18T14:58:00Z
-    webUrl: "https://www.finextra.com/pressarticle/93775/alliant-credit-union-partners-upstart-on-ai-powered-personal-loans"
+  - title: "Fintech Bytes: Dynasty partners with Pontera, Orion joins up with Apex"
+    excerpt: "A roundup of the week's fintech news for financial advisers, including Dynasty's partnership with Pontera and Orion's deal with Apex."
+    publishedDateTime: 2022-08-19T17:47:00Z
+    webUrl: "https://www.investmentnews.com/fintech-bytes-dynasty-partners-with-pontera-orion-joins-up-with-apex-225575"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 39
+      name: InvestmentNews
+      domain: investmentnews.com
+    quality: 24
     images:
-      - url: "https://www.finextra.com/about/finextra-logo.png"
-        width: 512
-        height: 512
-        isCached: true
-  - title: "EchoNous partners with Samsung on AI-guided ultrasound"
-    excerpt: "EchoNous announced today that it entered into an alliance with Samsung to run its ultrasound offerings off the Galaxy mobile tablets."
-    publishedDateTime: 2022-08-18T17:51:00Z
-    webUrl: "https://www.massdevice.com/echonous-samsung-ai-guided-ultrasound/"
-    type: article
-    provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 37
-    images:
-      - url: "https://www.massdevice.com/wp-content/uploads/2021/07/EchoNous-Kosmos.png"
-        width: 770
-        height: 500
+      - url: "https://s32566.pcdn.co/wp-content/uploads/2021/07/Fintech-824079890.jpg.optimal.jpg"
+        width: 900
+        height: 600
         isCached: true
 
 secured: "vLc8pixM7yIZGiSZoLeV3dHmrAS1H9nDFHndCh4CdazE6zNJC/P26/rXkQ6QuYyfbRV2yxEIhnSbjYpHMYRHQbFZIX0zNO739zSqtuvrU7oPZgV9gkDrOtYEapGNH9GQgaquvILDSWHazUi0RJHh1okR3X2ZxISXfN2k29qGod14GMXWTRcy9ZHGMepGzBx5Y8zErOuBkLyo9Md0XfS6EASyNKPl3nkJhiABjYKz7H8g2PaGokQzhrD59gptv6cyQgk5FxpU2xZRBLrTboKDku4Ieb4cUA/QPJesJFD5AHC9SX0/9TtGp5DR9AIpnsuqLYH59hRQcFRVzmUmO0xehp1kMgNoBjnZW0PtYGjOTwI=;jO8iC5hzucZTRhMQiMM08Q=="

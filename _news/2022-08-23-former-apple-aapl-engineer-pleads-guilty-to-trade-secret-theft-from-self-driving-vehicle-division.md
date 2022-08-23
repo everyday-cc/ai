@@ -1,0 +1,49 @@
+---
+category: news
+title: "Former Apple (AAPL) engineer pleads guilty to trade secret theft from self-driving vehicle division"
+excerpt: "He was accused of stealing computer files containing trade secrets related to the company's unannounced self-driving car division. U.S. federal prosecutors alleged that Zhang downloaded a 25-page engineering document containing the schematics of main ..."
+publishedDateTime: 2022-08-23T06:08:00Z
+originalUrl: "https://www.shacknews.com/article/131962/apple-aapl-trade-secret-theft-ev-fsd"
+webUrl: "https://www.shacknews.com/article/131962/apple-aapl-trade-secret-theft-ev-fsd"
+ampWebUrl: "https://www.shacknews.com/article/131962/apple-aapl-trade-secret-theft-ev-fsd?amphtml=1"
+cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/131962/apple-aapl-trade-secret-theft-ev-fsd?amphtml=1"
+type: article
+quality: 30
+heat: -1
+published: false
+
+provider:
+  name: Shacknews
+  domain: shacknews.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/08/22/apple-car-carplay-ev-fsd-trade-secret-theft_feature.jpg"
+    width: 1960
+    height: 1102
+    isCached: true
+
+related:
+  - title: "Ex-Apple Engineer Admits To Stealing Trade Secrets While Working On Self-Driving Car Project"
+    excerpt: "The former hardware engineer was arrested at the San Jose International Airport in 2018 while he was trying to leave the United States."
+    publishedDateTime: 2022-08-23T04:13:00Z
+    webUrl: "https://www.ibtimes.com/ex-apple-engineer-admits-stealing-trade-secrets-while-working-self-driving-car-project-3604629"
+    ampWebUrl: "https://www.ibtimes.com/ex-apple-engineer-admits-stealing-trade-secrets-while-working-self-driving-car-project-3604629?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ex-apple-engineer-admits-stealing-trade-secrets-while-working-self-driving-car-project-3604629?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 33
+    images:
+      - url: "https://d.ibtimes.com/en/full/3804069/illustration-shows-apple-logo.jpg"
+        width: 1200
+        height: 813
+        isCached: true
+
+secured: "xCOoZFb5OEaSm/jC2qLRcMEMM+iH/ftbzsGOnX7Z0yRPFt1iZjtBBQELg8n/6enNEIwnEc3hBzaokB6V/zCg3uOsUcke+i1WqsuUg+jFZ9vCcCqePhPTvgwpl0h0bh1uGpNXQCvxNLLbEer0PpXlGqP/qWw7gyZHZ+aFL9/KBYX1Xe4yvV6Z6AS08IUIuNb8WlJkOkD9SUqLrZW/NyP85kJ6Vlco9YRTt6Lkf0+JzUIoR4Buzil8KIonyF8ok0K95Kg0FUq6F6atKT3fE1/q8wFjGFMA4OTCFnllQ96rIH3pfkr/SKA1ofvAE6dZoUawI/yjTfn77jGtv/U7k9fTDim8GFFIaA0wWXF8ku3nZpA=;r75VikY720E+CEjkk3m5KA=="
+---
+

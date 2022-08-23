@@ -43,6 +43,15 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 63
+  - title: "Google Cloud further commits to accelerate AI innovation in Singapore"
+    excerpt: "It will work with SNDGG to co-create solutions, deepen AI capabilities in public service, and shape AI governance and ethics."
+    publishedDateTime: 2022-08-23T06:20:00Z
+    webUrl: "https://www.theedgesingapore.com/digitaledge/focus/google-cloud-further-commits-accelerate-ai-innovation-singapore"
+    type: article
+    provider:
+      name: The Edge Singapore
+      domain: theedgesingapore.com
+    quality: 19
 
 secured: "mNf84m0nfqVxysHhHZ72N6VFILSBbvhRYNuSpEupsUKT6cxk+WLJY+b1oRfnrRCKRzpdndCe8wiPW8UKu+mMgZjj3PQ//+YMxP+lwmJtl1we/K6Y33dF8grvsZC9DGsAxkP5EY6A6jx8a3Rzf14wjoQdWF60oJXPWaEDtlKFFCQwHnCO+245l43gSY3HtLZerBAV4MAmtG9eRx8nD6kn2rnHSj3MBeWujH5HcMtRVQaMed3qiUHR6SWzkqQV6JJuc2w0QC+0qn3r/opO3CNFmekELEfKmkjuCKg1TMO8C6RvFbrQ6k9d0dBc6aoW02Wd73kmaENFkUMD3gYwKCLFFvdz5FbtAnghr4CeggYEktg=;LtSpDDxZSO9D6IhU8j2b6A=="
 ---

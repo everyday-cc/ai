@@ -35,20 +35,6 @@ related:
         width: 480
         height: 383
         isCached: true
-  - title: "Rad Intelligence (RAD AI) and LA HOPE DEALER Join Forces to Integrate AI-infused Street Art and Marketing"
-    excerpt: "RAD INTELLIGENCE (RAD AI) and LA HOPE DEALER today announced the formation of a strategic partnership designed to conceive and execute authentic, purpose-driven brand campaigns through the combination of creator marketing,"
-    publishedDateTime: 2022-08-18T14:11:00Z
-    webUrl: "https://www.joplinglobe.com/region/national_business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street/article_428c5caa-61b5-5cc5-b3bb-cdc2d0b62653.html"
-    type: article
-    provider:
-      name: Joplin Globe
-      domain: joplinglobe.com
-    quality: 37
-    images:
-      - url: "https://bloximages.chicago2.vip.townnews.com/joplinglobe.com/content/tncms/assets/v3/editorial/8/63/863182f0-42eb-5b67-8383-130d4fcbd03c/62fe4af51135f.image.jpg?crop=1236%2C649%2C0%2C168&resize=1200%2C630&order=crop%2Cresize"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Sapia and Greenhouse partnership brings world-first AI Smart Interviewer to integrations marketplace"
     excerpt: "Greenhouse offers businesses a complete suite of software and services for recruiting and onboarding, as well as a large partner ecosystem. Sapia CEO, Barb Hyman said that the partnership is a game changer for organizations that need to fill roles efficiently while giving every candidate an engaging and fair experience."
     publishedDateTime: 2022-08-22T05:09:00Z

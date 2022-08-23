@@ -2,6 +2,49 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-08-05-how-does-artificial-intelligence-benefit-self-driving-cars.md",
+      "title": "How Does Artificial Intelligence Benefit Self-Driving Cars?",
+      "excerpt": "While indeed sites selling new and used cars get thousands of visitors every day, they lack the popularity of websites talking about self-driving automobiles. In other words, these advanced vehicles are trending all over the Internet. If there’s any ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.tmcnet.com/topics/articles/2022/08/05/453108-how-does-artificial-intelligence-benefit-self-driving-cars.htm",
+      "originalUrl": "https://news.tmcnet.com/topics/articles/2022/08/05/453108-how-does-artificial-intelligence-benefit-self-driving-cars.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.tmcnet.com/tmc/misc/articles/image/2022-aug/1603424832-cars.png",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-05T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-facebook-parent-meta-wants-you-to-converse-with-its-new-ai-powered-chatbot.md",
       "title": "Facebook Parent Meta Wants You to Converse With Its New AI-Powered Chatbot",
       "excerpt": "Sitting in front of a computer screen, I'm typing messages to a new chatbot created by Facebook's parent company Meta. We talk about pizza, politics and even social media. \"What do you think about Facebook?",
@@ -1031,49 +1074,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-bloomz-provides-equitable-school-communication-with-language-translation.md",
-      "title": "Bloomz Provides Equitable School Communication with Language Translation",
-      "excerpt": "With an app like Bloomz, the concern that families are missing out is cast aside because of its language functionalities. Because Bloomz offers a variety of features which focus on accessibility and fostering equitable communication,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/08/04/9651169.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/08/04/9651169.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1869433/Bloomz_alert.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T11:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/britain-sets
 webUrl: "https://www.reuters.com/business/autos-transportation/britain-sets-out-roadmap-self-driving-vehicle-usage-by-2025-2022-08-19/"
 type: article
 quality: 84
-heat: 304
+heat: 314
 published: true
 
 provider:
@@ -263,6 +263,20 @@ related:
       - url: "https://assets.thehansindia.com/h-upload/2022/08/22/1308950-self-driving-vehicles.jpg"
         width: 1200
         height: 720
+        isCached: true
+  - title: "UK prepares funding, roadmap for self-driving vehicles"
+    excerpt: "The UK has announced plans for new laws and funding of 100 million pounds for the widespread rollout of self-driving vehicles on the nation roads by 2025"
+    publishedDateTime: 2022-08-23T07:30:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272662580/uk-prepares-funding-roadmap-for-self-driving-vehicles"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 24
+    images:
+      - url: "https://cdn.bignewsnetwork.com/cus1661188007650.jpg"
+        width: 630
+        height: 420
         isCached: true
   - title: "Self-driving vehicles without onboard drivers to join UK roads from 2025"
     excerpt: "Self-driving vehicles used for public transport or deliveries could travel on UK roads without a qualified human driver onboard from 2025, according to government plans. Vehicles with some self-driving features,"

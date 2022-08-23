@@ -2,6 +2,40 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-08-08-how-to-use-ai-in-video-workflows.md",
+      "title": "How to Use AI in Video Workflows",
+      "excerpt": "Ethan Drellinger of IBM Watson, Carlos Hernandez of SSIMWAVE, and Gordon Brooks of Zixi talk about how the key to effectively applying artificial intelligence in video workflows is knowing the differe",
+      "sourceUrl": null,
+      "webUrl": "https://www.streamingmedia.com/Articles/Editorial/Short-Cuts/How-to-Use-AI-in-Video-Workflows-154284.aspx",
+      "originalUrl": "https://www.streamingmedia.com/Articles/Editorial/Short-Cuts/How-to-Use-AI-in-Video-Workflows-154284.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Streaming Media Magazine",
+        "domain": "streamingmedia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-why-digital-trust-is-fundamental-for-the-future-of-the-internet.md",
       "title": "Why Digital Trust Is Fundamental For The Future Of The Internet",
       "excerpt": "To keep today’s increasingly connected world free and secure for everyone to operate with privacy, the technology community, governments and corporate boardrooms need to invest in digital trust.",
@@ -1078,49 +1112,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-07-metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical.md",
-      "title": "Meta’s New AI Bot Says “Mark Zuckerberg’s Practices Are Not Always Ethical”",
-      "excerpt": "Meta’s new AI bot said that chief Mark Zuckerberg’s “practices are not always ethical”. Furthermore, it also said that the founder of Facebook can be “creepy and controlling”. BlenderBot 3, a chatbot which is powered by artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical",
-      "originalUrl": "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 192,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/image-from-ios-2022-08-07t154118285_4quz.620.jpg",
-          "width": 619,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/36314/metas-new-ai-bot-says-mark-zuckerbergs-practices-are-not-always-ethical?amp=1",
-      "publishedDateTime": "2022-08-07T03:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

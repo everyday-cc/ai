@@ -7,7 +7,7 @@ originalUrl: "https://www.defenseworld.net/2022/08/21/robo-global-artificial-int
 webUrl: "https://www.defenseworld.net/2022/08/21/robo-global-artificial-intelligence-etf-nysearcathnq-trading-down-3-3.html"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -18,6 +18,15 @@ topics:
   - AI
 
 related:
+  - title: "Qraft AI-Enhanced Next Value ETF (NYSEARCA:NVQ) Shares Down 1.8%"
+    excerpt: "Qraft AI-Enhanced Next Value ETF (NYSEARCA:NVQ – Get Rating)’s stock price traded down 1.8% during mid-day trading on Monday . The stock traded as low as $31.90 and last traded at $31.90. 15 shares changed hands during trading,"
+    publishedDateTime: 2022-08-23T06:36:00Z
+    webUrl: "https://www.defenseworld.net/2022/08/23/qraft-ai-enhanced-next-value-etf-nysearcanvq-shares-down-1-8.html"
+    type: article
+    provider:
+      name: Defense World
+      domain: defenseworld.net
+    quality: 17
   - title: "iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV) Shares Purchased by Advisor Group Holdings Inc."
     excerpt: "Advisor Group Holdings Inc. boosted its position in iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV – Get Rating) by 0.9% in the 1st quarter, according to its most recent filing with the Securities and Exchange Commission."
     publishedDateTime: 2022-08-19T09:28:00Z

@@ -26,6 +26,24 @@ images:
     height: 813
     isCached: true
 
-secured: "z2Vsx60PfF6WXQw4UUVR7zkWQu2AsyiGyoJm0DgJE0/c0lEs4MW+VndO4UReI7KXaUIF89wEtJm0xkq7OiuWGs21LRUyIjTiuPBvWLkpnus0sxaeXcJ0w0FR4eGEr/1KhvCtDmEx66vMrTVraC5KigUckjSugg2UsKBzYLrZig/wnsI4Qr3NQf0YB3y+OqBaPs9LkgQ+fcKyh+CLqFQorXXAX7YbAqO7MTcegWgs6S455aelrfMql7JZyMS1coevmjkjBnfbZjivcNaFguueVvgdpGUe9kQyCMACxZ2tbU7YAcOgSp/eG8HKNZqhP8kDxF0TxrD11Vpv4kfCnyf/o+rE1zU6wxEWqs4hX12IvTw=;FCij3XuHZydhLSWn8b4PNg=="
+related:
+  - title: "Former Apple (AAPL) engineer pleads guilty to trade secret theft from self-driving vehicle division"
+    excerpt: "He was accused of stealing computer files containing trade secrets related to the company's unannounced self-driving car division. U.S. federal prosecutors alleged that Zhang downloaded a 25-page engineering document containing the schematics of main ..."
+    publishedDateTime: 2022-08-23T06:08:00Z
+    webUrl: "https://www.shacknews.com/article/131962/apple-aapl-trade-secret-theft-ev-fsd"
+    ampWebUrl: "https://www.shacknews.com/article/131962/apple-aapl-trade-secret-theft-ev-fsd?amphtml=1"
+    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/131962/apple-aapl-trade-secret-theft-ev-fsd?amphtml=1"
+    type: article
+    provider:
+      name: Shacknews
+      domain: shacknews.com
+    quality: 30
+    images:
+      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/08/22/apple-car-carplay-ev-fsd-trade-secret-theft_feature.jpg"
+        width: 1960
+        height: 1102
+        isCached: true
+
+secured: "yIh7EBGblp0cnfaY8JsXvcQyl3LqCBN7PtkIuEm2//iNUClaQzIj8+/ybCYrLG1/aN2W8TFaOEPxFMWMjhLkts7s8VvQ42uGlDV7fVafyKESsdOX576ntj2z3JtUzSaUmVwU0jRSK5mClGAnEHahHxTby6fTnH87s+vIN2hrciK7iX/lbBD5oAvE+xMm3p0ORmSxGc0Hh+Zq8m2OJwcH8vr1Nha1HJHbb5ytkZpipkTme0xDqVCHJuOLtoEaIh3fjwq7MbjiCoJfJXXSo1yg1hMeOq+QMjjvKHVCkFjO+jLSW6nZTZLF+eNUsLxI1szYqt79VnhyvE2fJlHuN/tKn4N8JiR7eEgNL3aUocqiumCA3h8k4PKV8lCmZgEQC7h6edwR711LaLgpzUkII6Pb2OSzZkq0wMZ9EoZtEegSnm6jH7OI7/JaV9xTAIfhtD3rPoh+NfVg71cKtPehFE7zdaETNZT4fz7vlz0QSuGKuWUaRb8kazjRajf4bvxh+ZmMBa3w3ayypdy+J5nduRH5nQ==;PpcqTKrwCepiTsepvUEjeg=="
 ---
 

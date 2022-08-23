@@ -2,6 +2,49 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-06-10-give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but-is-it-art.md",
+      "title": "Give this AI a few words of description and it produces a stunning image – but is it art?",
+      "excerpt": "(THE CONVERSATION) A picture may be worth a thousand words, but thanks to an artificial intelligence program called DALL-E 2, you can have a professional-looking image with far fewer. DALL-E 2 is ...",
+      "sourceUrl": null,
+      "webUrl": "https://napavalleyregister.com/lifestyles/technology/give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but/article_398d9fd2-3b6c-5100-9c71-a945663a00f7.html",
+      "originalUrl": "https://napavalleyregister.com/lifestyles/technology/give-this-ai-a-few-words-of-description-and-it-produces-a-stunning-image-but/article_398d9fd2-3b6c-5100-9c71-a945663a00f7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/napavalleyregister.com/content/tncms/custom/image/f675bdee-c549-11ea-98b6-631770e8cea7.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-10T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Napa Valley Register",
+        "domain": "napavalleyregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-hyundai-pilots-driverless-car-hailing-service-in-south-korea.md",
       "title": "Hyundai pilots driverless car-hailing service in South Korea",
       "excerpt": "The ride-hailing service will use the auto maker’s IONIQ 5 battery electric vehicles, launched last year, and will be equipped with its in-house developed level 4 autonomous driving technology.",
@@ -1306,49 +1349,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-autonomous-mayflower-reaches-american-shores-in-canada.md",
-      "title": "Autonomous Mayflower reaches American shores -- in Canada",
-      "excerpt": "Piloted by artificial intelligence technology, the 50-foot (15-meter) Mayflower Autonomous Ship didn't have a captain, navigator or any humans on board — though it might have helped to have a ...",
-      "sourceUrl": null,
-      "webUrl": "https://mtstandard.com/lifestyles/technology/autonomous-mayflower-reaches-american-shores----in-canada/article_55cd450f-bf27-5756-8e45-7077d2887ec7.html",
-      "originalUrl": "https://mtstandard.com/lifestyles/technology/autonomous-mayflower-reaches-american-shores----in-canada/article_55cd450f-bf27-5756-8e45-7077d2887ec7.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/e/64/e640da40-f529-55b5-92b0-b424f9ce5389/629cfd8bf3b06.image.jpg?crop=1894%2C994%2C0%2C49&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-05T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Montana Standard",
-        "domain": "mtstandard.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
