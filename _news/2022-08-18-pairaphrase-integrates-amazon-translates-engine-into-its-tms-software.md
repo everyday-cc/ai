@@ -1,19 +1,15 @@
 ---
 category: news
-title: "PAIRAPHRASE INTEGRATES AMAZON TRANSLATE'S ENGINE INTO ITS TMS SOFTWARE"
-excerpt: "Amazon Translate produces custom translations on demand by leveraging its own artificial neural networks and deep learning system, along with a user's glossaries and translation memories."
-publishedDateTime: 2022-08-18T14:53:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/pairaphrase-integrates-amazon-translate-s-engine-into-its-tms-software-1031693308"
-webUrl: "https://markets.businessinsider.com/news/stocks/pairaphrase-integrates-amazon-translate-s-engine-into-its-tms-software-1031693308"
+title: "PAIRAPHRASE INTEGRATES AMAZON TRANSLATE’S ENGINE INTO ITS TMS SOFTWARE"
+excerpt: "Enterprise language translation software company Pairaphrase has integrated Amazon Web Services’ machine translation engine into its premium translation software solution. Its users now have the option to translate with Amazon Translate to create custom translations,"
+publishedDateTime: 2022-08-18T14:42:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-software-738f633edc00cc4d75cd3d5f33f09275"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-software-738f633edc00cc4d75cd3d5f33f09275"
 type: article
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
@@ -21,6 +17,12 @@ topics:
   - Natural Language Processing
   - AWS AI
 
-secured: "6gtfW21meYr42FukGy0ZKkImQINa/C4/x3C+zSdB0xDpRSsB1YbpTp692uhzRoS3alM/sBRP1t8+yFJIC4xBgOrV6YVsWFDV6Zr1sl6fWHN78TTnEojidY01yWsptGMbUHVwCcJ3zY+edWX3MGgrg66qc+6i/rTXHPhkMfbTIRWlbgkpEm+tQvwPLQ3wpMOuniVfUoMWWtc/WUKFhfKkeYt92TxYCyddss7FY69IyuFdcZdSEuAOK3X7jFQjjLgZwWs6jPYDbiRt8zkiWOiuJbHhtt8x91iL5o+duNtf7TD4Xy5Y5qcb+bUyH4BUhW+F0uEi5byOK9KokYRlWGhJ5SWMIcpsNDSdZ2qxqmH7hlc=;yUxixwF0gVoton61IvH1Mg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "rCMCgBBRUuVoToXvi7PNIh1Gt81mOVm3UwIMlieWh3aZxJfopA93KJkYtRFIAWZz7cDxdhEa9EvMnW17XhyKKSeQkNiD50hyl7PWFU2ufPyOPNXcvzZ68SCkV7vDypzXR9oXUnq0bRbXzTpmwf+zYJkuSNmhvIMMn11w5LCrHtIipM0+K96Fphk4o+lGIgzAZQ0ai6V8fBOCNVSHEIgsEvPMIppsA5jJKsnBDYJ395TVFvHoIeQKT+4Q7kx2wEIGIWuUUxrh7NIlNOns3X85Lk8w+GJBzjO0sWyhrMuPuFLT1OYIeo6rgp9DaO4dKvhief4IWyhgvscz9FmYe2+G3XHJguZn9KnutURdVF6GRyg=;AmaMBwP49BpO4fL3fTjqqg=="
 ---
 

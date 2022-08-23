@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Untether AI moves to floating point for SpeedAI architecture"
+    excerpt: "At this week's HotChips 2022, UntetherAI has announced its second generation at-memory architecture to accelerate AI interference. SpeedAI (codenamed"
+    publishedDateTime: 2022-08-23T16:00:00Z
+    webUrl: "https://www.electronicsweekly.com/market-sectors/automotive-electronics/untether-ai-moves-to-floating-point-for-speedai-architecture-2022-08/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 39
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/08/19113105/23-08-2022-untetherAI-speedAI-7P6A9757-Edit-hires-bkg-scaled.jpg"
+        width: 2560
+        height: 1536
+        isCached: true
 
 secured: "sm7ftNqYIFalJpJBt60ZSKeWsRXm51ZFiOKteK01vGu62aaCITrngqH7Q7usTZw+CV33OYALyQ0X41nOJ3lpwES8WEwc6YKkim9V2bvk2CFtOR2waVXWUj38+FRiSSBVlcW7AePwgbuhkLcu9RhLJYqEUD+0jrNMagpvXxA84IGG7zIobGZ08Mx8rgfksfkeyxTQXXDRU8ht/PwKECUFcOOAlsdkMaTbXt7bP6IXjr9nJoGtdFVWh33bX9k3m8fGV1wuuJE+/OuN34sPZDnmQWQHibS7heh+ckPpYAz7sF59atR9Zkjjckm4kCztgFSaBtY+GWtJirr/1i8P2G3vh5WOS/TerSrip0x2OZG3p3bTsE/c7fDHJOmq5ZjRWH9nOPYWkXYci18LWTpc5y3cQfEXF9ndthLklUeaOk+N972Q4L6Pa/NSmK/aF1ughhDjWu48pb6hoofQnt9BdqbFmrX3dkWON4eB5wqd6g8pl8DGebBp6sKa4MJddGP+5ankq+himXFf3YaQqHi9tp9wFA==;xr4rOnsmP9gr5XQa7KIxzw=="
 ---

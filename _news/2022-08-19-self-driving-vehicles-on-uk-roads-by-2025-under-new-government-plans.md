@@ -319,15 +319,6 @@ related:
       name: IET
       domain: theiet.org
     quality: 4
-  - title: "Self-driving vehicles ‘on UK roads by 2025’ under Government plans"
-    excerpt: "Some cars, coaches and lorries with self-driving features could even be operating on motorways in the next year, the Government said"
-    publishedDateTime: 2022-08-18T23:48:00Z
-    webUrl: "https://www.liverpoolecho.co.uk/news/uk-world-news/self-driving-vehicles-on-uk-24796882"
-    type: article
-    provider:
-      name: Liverpool Echo
-      domain: liverpoolecho.co.uk
-    quality: 4
   - title: "Self-driving vehicles could be on UK roads 'next year' creating thousands of jobs"
     excerpt: "The Department for Transport said the self-driving industry could create up to 38,000 jobs and be worth £42 billion."
     publishedDateTime: 2022-08-19T11:53:00Z

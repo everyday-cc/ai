@@ -28,15 +28,15 @@ images:
 
 related:
   - title: "E-Learning Market Size Surpassed $315 Billion In 2021 And Projected To Hit 20% CAGR From 2022 To 2028"
-    excerpt: "Global Market Insights continued: \"The education sector is evolving globally, creating growth opportunities for the e-learning market. Several education institutes, are transitioning to an online higher education curriculum to support students in completing their degrees."
-    publishedDateTime: 2022-08-23T14:02:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-e-learning-market-size-surpassed-315-billion-2021-/2022/08/23/9660680.htm"
+    excerpt: "The education sector is evolving globally, creating growth opportunities for the e-learning market. Several education institutes, are transitioning to an online higher education curriculum to support students in completing their degrees."
+    publishedDateTime: 2022-08-23T12:30:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/financialnewsmedia-2022-8-23-e-learning-market-size-surpassed-315-billion-in-2021-and-projected-to-hit-20-cagr-from-2022-to-2028"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 0
 
-secured: "q5PED26fwYFC5uOICe1NprydxtmVOplPQkH9fQKw9tFU4mxKXdNL4Z6TuLRag6k2WMGYJFdQsrK9Z406JChF9d7HJ3sb4S0UisSZKEqjsdxPrZj+VB8JjIL7IdN+rs1TWOL2jNrXOg/LBO7RcIZzK6xToSRNauoS/OWj+K0KH/0o2szJ2Q1tTWPDtWutaNDr/XvAW0j1+LYk/s827Q3+kwdDiXThWIjEqK/XTtb71+dazEL/O7fVfSDSbCkeSgmN8BXLBedKGFUCNJBYKI98iy07zXIn5t/KuqiObdvs7c4Xjq5/0Px1ERwNa9smdzQzeGDXPji2Xlp1OBQdSvxTBZTI2OCelkRb7UBb/+PwV5A=;8KKiLo8nm5x+dGCFzeqfZw=="
+secured: "xV24d/dThF2V4TusWN7a8VnUjjdaNRT/UW/lXLSvw7VVqzbpst5OxciQdtF2VFc4jwdawCvLbWIVdOqDueJg+4obLPPLGJ1JocnzNMrJCSkrQcDB9lYXALFRliLB8LQaykeMGbgh0rJTBx/69UhPy4c9lEFTZmZdZ1JO0Gje0XZedBHcQRECY7pjcbpKpMRL93mbGtTm8KkYG7GhnMotleH4W/Q/tdf3nQR9HeDAfX26JKekQ2FtCjo5k6lq2++MRaUOvZwNL0SaY9cR59bi0RPXGY8CB9zbypShvCk3k3DbVy8w0Mq5ACX5TnuazTcOppC0vzDY4NTZru02Flpsv6ODdY4wUlERCizTizyOzIvr8c/yNuaDQQFU60hmw1xGC1enb6LxIPg1Z2fsKojZY62bnxuuZEsG6BccngsbU6TGt3vv63x2foAGfMyvifxSczEmHHhZwmXBDxn8lrj9/gy0r+p4rlFwAUXRUMuT3Yr22XrHEjEtxwiIqehEpeSk+WsZ+8/rhuYFwGfrRNAj6g==;Tuss70uZTNXtiE4pNSTGRA=="
 ---
 

@@ -25,54 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Experts warn no easy answer to how safe self-driving cars should be"
-    excerpt: "The Centre for Data Ethics and Innovation (CDEI) report warns that it might not be enough for self-driving cars to be safer than human drivers. It suggests the public may have much higher expectations of self-driving car safety."
-    publishedDateTime: 2022-08-18T23:17:00Z
-    webUrl: "https://www.bbc.com/news/technology-62598618?at_medium=RSS&at_campaign=KARANGA"
-    ampWebUrl: "https://www.bbc.com/news/technology-62598618.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62598618.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/310D/production/_126375521_selfdrivinggettyimages-928081066.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Experts warn no easy answers to how safe self-driving cars should be"
-    excerpt: "The Centre for Data Ethics and Innovation (CDEI) report warns that it might not be enough for self-driving cars to be safer than human drivers. It suggests the public may have much higher expectations of self-driving car safety."
-    publishedDateTime: 2022-08-18T23:17:00Z
-    webUrl: "https://www.bbc.com/news/technology-62598618"
-    ampWebUrl: "https://www.bbc.com/news/technology-62598618.amp"
-    cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62598618.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 74
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/310D/production/_126375521_selfdrivinggettyimages-928081066.jpg"
-        width: 1024
-        height: 576
-        isCached: true
-  - title: "Driverless cars: Experts warn no easy answer to how safe they should be"
-    excerpt: "There is no easy answer as to how safe self-driving cars should be, an adviser to a new government-backed report has told the BBC. The Centre for Data Ethics and Innovation (CDEI) report warns that it might not be enough for self-driving cars to be safer than human drivers."
-    publishedDateTime: 2022-08-18T23:17:00Z
-    webUrl: "https://www.bbc.co.uk/news/technology-62598618"
-    ampWebUrl: "https://www.bbc.co.uk/news/technology-62598618.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-62598618.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/1024/branded_news/310D/production/_126375521_selfdrivinggettyimages-928081066.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Self-driving cars could be on our roads within the next YEAR – but there’s a catch"
     excerpt: "CARS that can drive themselves could be on our roads within the next year according to the Government. Transport Secretary Grant Shapps said the technology would make our roads safer and create"
     publishedDateTime: 2022-08-19T08:23:00Z
@@ -88,6 +40,22 @@ related:
       - url: "https://www.thesun.co.uk/wp-content/uploads/2022/04/NINTCHDBPICT000719601367.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Self-driving cars could be on UK roads next year, Grant Shapps says - 'Huge potential'"
+    excerpt: "SELF-DRIVING cars could be seen on British roads by next year, as the Government invests £100million into the emerging sector."
+    publishedDateTime: 2022-08-19T06:55:00Z
+    webUrl: "https://www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps"
+    ampWebUrl: "https://www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps/amp"
+    cdnAmpWebUrl: "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/life-style/cars/1657360/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps/amp"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 36
+    images:
+      - url: "https://cdn.images.express.co.uk/img/dynamic/24/590x/driving-law-changes-self-driving-cars-uk-roads-2023-grant-shapps-1657360.jpg?r=1660892097429"
+        width: 590
+        height: 350
         isCached: true
 
 secured: "DLSLEk/PwYDrlMLLHFCr9wdz64as2mUqlAWcTxvnQJ6CBMR8qYD+aE7V+LCTCO6gpR7rDI5PthORnRVYi7HLHMMx12aQO8N9oiB+9hZItyGtZzhzbho+yNEPhNG27quf6QKZfX+T8Q+ROKRg6A23CWvUq2lar8X5YrWwQDeIxl9OmXOpuon7WpiMTIO8jSZCbvnSG1ZLk69qSX/aCZNKsDThbvV8akyE0QfnjySAjOrUl1qudxZoZiyds18Jq04mSiGU1LFayQm68wyGAFeoQInskGYWa1aXfsnPR/z3UG5Mhu0s5S0bkNjlCjPkmCN5Q9orIvwKHzAQvmu3FrnpXaaRqzyyHwoWZzMn1V2N0qo=;YcsR8z4hWvbIF8jRmbFrGQ=="

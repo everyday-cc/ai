@@ -315,6 +315,22 @@ related:
         width: 1200
         height: 603
         isCached: true
+  - title: "Tesla sticker shock: Price of feature it calls ‘full self-driving’ jumps to $15,000"
+    excerpt: "Tesla is raising the price of its controversial driver-assist feature it calls \"full self-driving\" to $15,000. But Tesla buyers can purchase it for $12,000 until Sept. 5."
+    publishedDateTime: 2022-08-23T16:05:00Z
+    webUrl: "https://wraltechwire.com/2022/08/23/tesla-sticker-shock-price-of-feature-it-calls-full-self-driving-jumps-to-15000/"
+    ampWebUrl: "https://wraltechwire.com/2022/08/23/tesla-sticker-shock-price-of-feature-it-calls-full-self-driving-jumps-to-15000/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/23/tesla-sticker-shock-price-of-feature-it-calls-full-self-driving-jumps-to-15000/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 53
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2022/02/tesla-g25a581eab_1280-e1645184278103.jpg"
+        width: 1276
+        height: 716
+        isCached: true
   - title: "YouTube Pulls Video of Tesla Full Self-Driving Test Involving Kids"
     excerpt: "The video, which depicts a Tesla investor driving a Model 3 toward one of his own children, reportedly violates YouTube's child safety policy."
     publishedDateTime: 2022-08-20T17:36:00Z
@@ -379,6 +395,20 @@ related:
       - url: "https://knowtechie.com/wp-content/uploads/2022/01/tesla-badge-rear-1000x600.jpg"
         width: 1000
         height: 600
+        isCached: true
+  - title: "Musk: Tesla’s Full Self-Driving Price Rising to $15,000 Sept. 5"
+    excerpt: "Current price will be honored for orders made before Sept 5th, but delivered later. As of now, Full Self-Driving is still in Beta testing and available to a select number of Tesla-owning volunteer “testers” who have achieved a high enough,"
+    publishedDateTime: 2022-08-23T12:03:00Z
+    webUrl: "https://www.cars.com/articles/musk-teslas-full-self-driving-price-rising-to-15000-sept-5-455881/"
+    type: article
+    provider:
+      name: Cars.com
+      domain: cars.com
+    quality: 39
+    images:
+      - url: "https://images.cars.com/cldstatic/wp-content/uploads/tesla-model-y-2021-08-exterior-dynamic-front-angle-scaled.jpg"
+        width: 1200
+        height: 800
         isCached: true
   - title: "Tesla raises price of 'Full Self-Driving' to $15,000"
     excerpt: "Tesla Inc. will start charging $15,000 for the driver-assistance system it calls Full Self-Driving, raising the price of the controversial product for the second time this year. The hike for customers in North America will take effect Sept. 5, Chief ..."

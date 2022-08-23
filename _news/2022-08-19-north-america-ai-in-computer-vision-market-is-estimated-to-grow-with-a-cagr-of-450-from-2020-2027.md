@@ -37,6 +37,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Global Artificial Intelligence (AI) in Fintech Market Report"
+    excerpt: "The global artificial intelligence in fintech market size is expected to reach USD 41.16 billion by 2030, growing at a CAGR of 16.5% from 2022 to 2030. Artificial intelligence (AI"
+    publishedDateTime: 2022-08-22T18:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-fintech-market-report-2022-/2022/08/22/9660159.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "xUL90cFo8/rGLG+Vbw3ZclMvATefpHf3KRTh+LgoO3RyX2VWT+7IAs2PUbbfCQVa0VRY2ILwCYXytWb8urdUg7F/aAV1fRmcivO3JeTQ/+o+0xwUOQfTKZn94h731KE7a7b762cz+JmMYkgEubKYZUkgQHHhSScSrOW18xlHqRo9/Uxaieo5c0rMZFPPsK6/KeIqqCqxQTlbH7gmNdAz5OneA3iZOQ/29YryMKo5Is0BoMWiYJF28mNcYPsOiO4NqBtr2aU4Nh29/7RbGPOfQ7aIR9h7odhk4jmtgYT+TuJjoVtIY5QJh4i1TYg3CJQ1735SVbki99L+jyQu7DbOz4N8w4i17fHO2PEORRN1Fcg=;/2JUQlqhdRELepn2hpUcrA=="
 ---

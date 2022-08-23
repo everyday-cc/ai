@@ -71,6 +71,20 @@ related:
         width: 400
         height: 240
         isCached: true
+  - title: "How AI could detect Parkinson’s using breathing patterns"
+    excerpt: "Researchers at MIT recently developed an artificial intelligence model that can detect Parkinson's from breathing patterns."
+    publishedDateTime: 2022-08-23T15:48:00Z
+    webUrl: "https://www.medicaldesignandoutsourcing.com/how-ai-could-detect-parkinsons-using-breathing-patterns/"
+    type: article
+    provider:
+      name: Medical Design and Outsourcing
+      domain: medicaldesignandoutsourcing.com
+    quality: 39
+    images:
+      - url: "https://www.medicaldesignandoutsourcing.com/wp-content/uploads/2022/08/MIT-Parkinsons-algorithm.png"
+        width: 770
+        height: 500
+        isCached: true
   - title: "In early research, an AI model detects signs of Parkinson’s using breathing patterns"
     excerpt: "\"We’ve seen no major breakthroughs for treating Parkinson’s this century, suggesting that the status quo is not working,\" said University of Rochester researcher Ray Dorsey."
     publishedDateTime: 2022-08-22T16:37:00Z

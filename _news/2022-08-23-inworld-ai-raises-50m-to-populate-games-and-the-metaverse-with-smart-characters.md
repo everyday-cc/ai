@@ -34,18 +34,13 @@ related:
     quality: 45
   - title: "Qloo, the Leading Artificial Intelligence Platform for Culture and Taste Preferences, Raises $15M in Series B"
     excerpt: "Qloo, the leading artificial intelligence platform for culture and taste preferences, announced today that it has raised $15M in Series B funding from Eldridge and AXA Venture Partners. This latest round of funding brings Qloo’s total capital raised to $30M,"
-    publishedDateTime: 2022-08-23T15:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-ff592ea3291240c9ab4c46631a3da560"
+    publishedDateTime: 2022-08-23T15:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-23-qloo-the-leading-artificial-intelligence-platform-for-culture-and-taste-preferences-raises-15m-in-series-b"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 13
 
 secured: "HIMv288qvWOz9F7VZLvjbraj8cpwCFPww7oghQTmWWhnpf7p4Q+mwQg1Oa8lLCjCGLEDuoZt0sIzVxXzY0pxaXfgfilBLYUcXuISGYyn6Fn7iu889/F+Z/8zvxg5PYFhALi0X/Ix5eH0kuU1sTOI1H7JdCG7P2DFc3jlasmCwTaaNuw2bnxAhirMmMEhu/fv8WGEtFJ5TVel4dfiDokVy7FKGf+zA1ChOyjNLyZMLaxcC6xgxrvQiAvwZVAFCHgw9+0LyJFyi9kMuNN/dUrduQmryy4Y6mfLlHoq9+PUTfQ9W6bd6t+vO5Os7ka+umxHzSAG6QhW5lsYXYdTd9Lr9pH+f3NgTMmdJ2dDUOjHeMxd+tCYU2pCAi94Bjj9NymFIiTRQjIN/Tjhgot0B3kYIWKosAyDm7yFMLS+Y1Pvx8RFjYOrBe0p+OSaA7/kYHoivVFGRj3KvmTrAAGFFT63BpnY8rv65ttgx+3fF964Dmtdhv/tVsgYUjgiwECOrmpu1ZsJ1wyGK9Ok8e0QC3AmWw==;VgfmD+KzPr8hbDo51n3BfQ=="
 ---

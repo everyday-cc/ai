@@ -71,6 +71,20 @@ related:
         width: 400
         height: 240
         isCached: true
+  - title: "How AI could detect Parkinson’s using breathing patterns"
+    excerpt: "Researchers at MIT recently developed an artificial intelligence model that can detect Parkinson's from breathing patterns."
+    publishedDateTime: 2022-08-23T15:48:00Z
+    webUrl: "https://www.medicaldesignandoutsourcing.com/how-ai-could-detect-parkinsons-using-breathing-patterns/"
+    type: article
+    provider:
+      name: Medical Design and Outsourcing
+      domain: medicaldesignandoutsourcing.com
+    quality: 39
+    images:
+      - url: "https://www.medicaldesignandoutsourcing.com/wp-content/uploads/2022/08/MIT-Parkinsons-algorithm.png"
+        width: 770
+        height: 500
+        isCached: true
   - title: "In early research, an AI model detects signs of Parkinson’s using breathing patterns"
     excerpt: "\"We’ve seen no major breakthroughs for treating Parkinson’s this century, suggesting that the status quo is not working,\" said University of Rochester researcher Ray Dorsey."
     publishedDateTime: 2022-08-22T16:37:00Z
@@ -86,6 +100,6 @@ related:
         height: 576
         isCached: true
 
-secured: "q3N5sQepMhyDX7YpEeo2nWT/TwARSGMKl/KS8gtSd4bpqDHo8wEsdKP3/U0UYbvVbjKsgZs31jhRYTxc5YI1YGwh64rL1KYEG/hXyTCK5ZB8MQpHjiphSpz3KEqssslCs2ddemSbG8g6TRm77uQIf7sT6oRP5ZhNEanTfJ1g28o6yjjdEEdOV4/tg0ZE12A6Ab5FJsrQ3wvbo7JZ9qjdQO22G8lHdII80Pdjh8euFyxmEcr4Z8u666qYHSs6l/ARlHwMOltME8QfcB1LK06Bko+Fbbd90bRHiPqkpebzJvNQ1QscG2rcKYuuO+eyhF/vB23mT3bfNHITgppR45IaA1qFkaTobhqpr5rT2v16Hts=;AExMUwCHPnTpzQdNukmaVQ=="
+secured: "jlV8u2c49SEVe/H0Soz0fh4d73VxJs9LRf2yNtrDsgZ6o+6Vyq9vfYddmt5uIw3q3ValfD53L1kK2uvrl1d/ObcBEKXjORj7LIMcfoyK83Wy4fUYumVbhe+xEOssKGICQSNL0h0YUZ5b8t5uk+0loGM6XcgiPHkrmePAMEDWicf5OGEsmIgcfKeskVKF0XW7UwMQDBhRpzh1FMxtaIxmMAkvONUj3XWLV8rvAzYa6NOZ/3YJpUXU1HcB7EIXK7hGuZeKCwplZQuoi+MoUkWAlm6K2Doif+4EHRKntUWIOC/BZTT51iRw4iDExOB+5R1mVhmNw4n1c5n+Szph5CpvFpEoobQoCpc5v9pbnFY6evAtGcdHfbcYbIIQXP7Lal9x9Uc2WGntoLsYofys0WVueL4Gcr7V5+zh4V+GvNI9ED6j9xHCRoDzG6fP2gnLrZBx9ObqdXU7dyjWTS64rfnWRj/QIpUyxkMVMNkNm+PsU4TdEGFH355BX99sozlA/WHV6HN0y3ewX/qSdWMru2sd2A==;d2kouGGagsRXyBTEkZZ0eQ=="
 ---
 

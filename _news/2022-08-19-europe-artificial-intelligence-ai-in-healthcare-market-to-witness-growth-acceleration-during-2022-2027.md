@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/europe-artificial-intell
 webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-ai-in-healthcare-market-to-witness-growth-acceleration-during-2022-2027-2022-08-19"
 type: article
 quality: 82
-heat: 92
+heat: 102
 published: true
 
 provider:
@@ -38,6 +38,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 50
+  - title: "Global Artificial Intelligence (AI) in Fintech Market Report"
+    excerpt: "The global artificial intelligence in fintech market size is expected to reach USD 41.16 billion by 2030, growing at a CAGR of 16.5% from 2022 to 2030. Artificial intelligence (AI"
+    publishedDateTime: 2022-08-22T18:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-fintech-market-report-2022-/2022/08/22/9660159.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
 
 secured: "wc1VzwH5BbvlLDkuysT1BVyBeftT0ytUJNkTo2AIhBTLgD1tu7DHzQTL5rQKVnilS4RO7C80U7uBMhpwct2E5ddeTIT+I9tOAWSHF3JjSmfHXJ2cyUkH6ElCzfbUnY3THQYLQ6xb2Dxbgx4HhtjgA/H4XMUSwIbScgsE+6eT1A5Tr/4VSqipFJCWMT0QPMAaXHY7lo6u4V20GGMmWx1s1J7Nw0lxlLs5ohYaLhmkBLr2Utw05BgTk9+FXSCeKJY9UMHTNu9DqKI5MyDEimYI/cJxpgx6oz9mlAKeLAVXo5IDeH8WR33QKOVmyrOJzFqW8C7mTvtcsn04IulrncKcGmGgEPW5cMLGynq2mDTSeeY=;pRcKMyEADzTCSoHo2a/FWw=="
 ---

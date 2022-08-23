@@ -1,0 +1,49 @@
+---
+category: news
+title: "Bihar Urban Body Polls 2022: Voters To Be Screened Through Face Recognition System | Details Here"
+excerpt: "In first of its kind, the voters in Bihar will be screened through a face recognition software to verify their identity and check electoral malpractices during the upcoming elections for urban local bodies,"
+publishedDateTime: 2022-08-23T16:24:00Z
+originalUrl: "https://www.india.com/bihar/bihar-urban-body-polls-2022-voters-to-be-screened-through-face-recognition-system-details-here-5589719/"
+webUrl: "https://www.india.com/bihar/bihar-urban-body-polls-2022-voters-to-be-screened-through-face-recognition-system-details-here-5589719/"
+ampWebUrl: "https://www.india.com/bihar/bihar-urban-body-polls-2022-voters-to-be-screened-through-face-recognition-system-details-here-5589719/amp/"
+cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/bihar/bihar-urban-body-polls-2022-voters-to-be-screened-through-face-recognition-system-details-here-5589719/amp/"
+type: article
+quality: 61
+heat: 71
+published: true
+
+provider:
+  name: India.com
+  domain: india.com
+
+topics:
+  - Computer Vision
+  - AI
+
+images:
+  - url: "https://static.india.com/wp-content/uploads/2022/07/hb-2.png"
+    width: 1285
+    height: 766
+    isCached: true
+
+related:
+  - title: "Face recognition system during upcoming urban polls in Bihar"
+    excerpt: "Officials said the state poll panel has instructed district magistrates to set up proper IT teams at polling stations for implementing the face recognition initiative for voters’ verification."
+    publishedDateTime: 2022-08-23T16:41:00Z
+    webUrl: "https://www.hindustantimes.com/cities/patna-news/face-recognition-system-during-upcoming-urban-polls-in-bihar-101661272893145.html"
+    ampWebUrl: "https://www.hindustantimes.com/cities/patna-news/face-recognition-system-during-upcoming-urban-polls-in-bihar-101661272893145-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/patna-news/face-recognition-system-during-upcoming-urban-polls-in-bihar-101661272893145-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 59
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/08/23/1600x900/39908088-2302-11ed-b156-21dd5eca74e0_1661272861018.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+
+secured: "vAyoXl+7p6tDHvcbk9pQBffk8AiF61Cao5g5dv7ulKVOeNaXhnscbIWkfl/V7vgH8eQ5OQQRZpq4GRZUHTEnP1S3dovB+EMi3sGoE6SBIA/ut4FS5I1XP7dr39ciBo/huCHnaRVusBYd1GLiew5GzEChPGI03zs/GeKMVgEhOA7VS0UKAcbuYoVk7O5niJyqX16fz6++M1VDKaWwCeIAsL1+YucyyWo+oyD4g2hs0kymmxwKji9lWjWsb7K/9fE+cyDeMIbG6mxmE4GiGO1mM2Xxh7aOswqDzMTTjiCxD7BjYPOBa+J0JU2XCmFa7/tmvA5MZ+uh+vMoY8PZLHDKRT4EsPc+0/2lLOzOCdhOGjA=;4ult4SFCPf25P/HHji8saA=="
+---
+
