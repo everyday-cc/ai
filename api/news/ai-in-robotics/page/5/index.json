@@ -2,6 +2,96 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-19-the-future-of-artificial-intelligence.md",
+      "title": "The Future of Artificial Intelligence",
+      "excerpt": "Even apart from the enduring dream of human-like intelligence, the future of AI is expected to play a deeply significant role in consumer and business markets.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/",
+      "originalUrl": "https://www.eweek.com/enterprise-apps/artificial-intelligence-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 165,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/InRule-display-3.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T11:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos",
+        "AI in Robotics",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-microsofts-project-airsim-tests-and-trains-ai-powered-aircrafts.md",
+      "title": "Microsoft’s Project AirSim tests and trains AI-powered aircrafts",
+      "excerpt": "Microsoft launched Project AirSim, a high-fidelity simulation platform for building, training and testing autonomous aircrafts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/microsofts-project-airsim-tests-and-trains-ai-powered-aircrafts/",
+      "originalUrl": "https://www.therobotreport.com/microsofts-project-airsim-tests-and-trains-ai-powered-aircrafts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T11:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-intrinsic-ceo-wendy-tan-white-discusses-robotics-software-and-acquiring-vicarious.md",
       "title": "Intrinsic CEO Wendy Tan White discusses robotics software and acquiring Vicarious",
       "excerpt": "There’s a parallel I’m seeing now in the robotics space,” she tells TechCrunch. “People need much quicker ways to get applications spun up and deployed fast, but also more reusable.” Almost exactly a year ago to date,",
@@ -1259,92 +1349,6 @@
       "provider": {
         "name": "Business Line",
         "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai.md",
-      "title": "Nokia to open robotics lab at Indian Institute of Science for 5G and AI",
-      "excerpt": "Nokia and the Indian Institute of Science (IISc) on Friday announced the opening of the Center of Excellence (CoE) in Networked Robotics at the IISc Bengaluru. The CoE will promote inter-disciplinary research involving robotics and advanced communication technologies in 5G and Artificial Intelligence (AI).",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece",
-      "originalUrl": "https://www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 179,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/3wm88/article65615902.ece/alternates/LANDSCAPE_615/2020-07-14T075529Z_1210897008_RC2VSH97A1YU_RTRMADP_3_NOKIA-5G.JPG",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece/amp/",
-      "publishedDateTime": "2022-07-08T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research.md",
-      "title": "Nokia partners with IISc to set up centre of excellence for robotics research",
-      "excerpt": "The centre will facilitate engagement and cooperation between academia, start-ups and industry ecosystem partners to research and develop these use cases, Nokia said.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research-11657270970688.html",
-      "originalUrl": "https://www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research-11657270970688.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/07/08/600x338/2020-07-31T064747Z_322294329_RC264I9GQOL5_RTRMADP_3_NOKIA-RESULTS_1596207832508_1596207905783_1657271117664.JPG",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research/amp-11657270970688.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research/amp-11657270970688.html",
-      "publishedDateTime": "2022-07-08T02:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
         "images": null,
         "publishers": null,
         "authors": null

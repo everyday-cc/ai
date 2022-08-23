@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-22-google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans.md",
+      "title": "Google Gave Its Helper Robots AI Language Skills to Better Work With Humans",
+      "excerpt": "Google has started to close the gap by marrying the latest language AI with state-of-the-art robots ... created new control software that taps into PaLM’s language skills to translate spoken or written commands from a human into the actions required ...",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/",
+      "originalUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/08/Google-everyday-robots.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
+      "publishedDateTime": "2022-08-22T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-22-artificial-intelligence-is-the-new-frontier-of-ethical-tests.md",
       "title": "Artificial intelligence is the new frontier of ethical tests",
       "excerpt": "This has, predictably, put the debate over artificial intelligence centre stage ... dilemma around who to save when there are choices and how does one stop a robot going “rogue?” As AI becomes more common-place, regulators have been seeking to grapple ...",
@@ -279,6 +323,49 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-what-will-humanoid-robots-be-used-for-in-the-future.md",
+      "title": "What will humanoid robots be used for in the future?",
+      "excerpt": "The humanoid robot war is already raging between the United States' Tesla and China's Xiaomi. The Chinese company unveiled their AI robots",
+      "sourceUrl": null,
+      "webUrl": "https://www.citizen.co.za/lifestyle/3175680/humanoid-robots-xiamoi-cyberone/",
+      "originalUrl": "https://www.citizen.co.za/lifestyle/3175680/humanoid-robots-xiamoi-cyberone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.citizen.co.za/wp-content/uploads/2022/08/xiaomi-AI.jpg",
+          "width": 1500,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.citizen.co.za/lifestyle/3175680/humanoid-robots-xiamoi-cyberone/",
+      "cdnAmpWebUrl": "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/3175680/humanoid-robots-xiamoi-cyberone/",
+      "publishedDateTime": "2022-08-18T06:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Citizen",
+        "domain": "citizen.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1149,19 +1236,19 @@
     {
       "path": "_news/2022-08-12-hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics.md",
       "title": "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics",
-      "excerpt": "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across",
+      "excerpt": "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across the technical areas of cognitive AI,",
       "sourceUrl": null,
-      "webUrl": "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4",
-      "originalUrl": "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4",
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://preview.thenewsmarket.com/Previews/kiam/StillAssets/960x540/563394_v3.jpg",
-          "width": 1164,
-          "height": 657,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1171,11 +1258,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T23:04:00-07:00",
+      "publishedDateTime": "2022-08-12T02:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The NewsMarket",
-        "domain": "thenewsmarket.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1335,112 +1422,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-technologies-like-virtual-reality-and-robotics-could-reduce-the-energy-industrys-carbon-footprint-and-advance-workers-skill-sets.md",
-      "title": "Technologies like virtual reality and robotics could reduce the energy industry's carbon footprint and advance workers' skill sets",
-      "excerpt": "Oil-and-gas leaders are testing VR and AR to accurately pinpoint potential hazards and operate sites entirely with tablets.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/how-virtual-reality-and-robotics-could-advance-the-energy-industry-2022-8",
-      "originalUrl": "https://www.businessinsider.com/how-virtual-reality-and-robotics-could-advance-the-energy-industry-2022-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62f30280cc15bf00182fb126?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/how-virtual-reality-and-robotics-could-advance-the-energy-industry-2022-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/how-virtual-reality-and-robotics-could-advance-the-energy-industry-2022-8?amp",
-      "publishedDateTime": "2022-08-11T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-a-beginners-guide-to-the-ai-apocalypse-the-democratization-of-expertise.md",
-      "title": "A beginner’s guide to the AI apocalypse: The democratization of ‘expertise’",
-      "excerpt": "They say \"garbage in, garbage out,\" but what happens when our data's the garbage and big tech starts feeding it back to us in a nice wrapper?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/beginners-guide-ai-apocalypse-the-democratization-of-expertise",
-      "originalUrl": "https://thenextweb.com/news/beginners-guide-ai-apocalypse-the-democratization-of-expertise",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2Frobot-1.jpg&signature=0f5c63425d8da190315e4e4944783307",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-10T18:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI",
-        "AI in Robotics"
       ]
     }
   ],

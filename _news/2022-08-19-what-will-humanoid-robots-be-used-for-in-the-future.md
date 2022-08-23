@@ -41,6 +41,20 @@ related:
         width: 1500
         height: 1000
         isCached: true
+  - title: "What will humanoid robots be used for in the future?"
+    excerpt: "While waiting for other players to enter the fray, the humanoid robot war is already raging between the United States’ Tesla and China’s Xiaomi. From assembly line work to personal services, these robots could have very practical uses once they’re made operational."
+    publishedDateTime: 2022-08-23T00:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/19/what-will-humanoid-robots-be-used-for-in-the-future"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/18/1702859.jpg"
+        width: 1240
+        height: 531
+        isCached: true
 
 secured: "0QUexOJ4X3y9m3Q/KUAt/oBtGrUMsww1T46a/uW+SiBzirjQ9RS2zETmqLyMjD78KqdMlpm92MlQw8ISYKeiarOEYpI2RRpsmZJg/qm5np57C285Q13GfdTNokGUZYjMM5BF8L1WMY6AdNrkrQiAEShnoe2nSbjN7BStabW8vKPK7G4w2WBRyC+/l6x1zNp9/U9JaIaiK4eoaz9cFPejYk4X76K3YRoqcNr9l79ehO6J1Yl+Klgsl0dr+fdB3qSKc83mErp44K7foQtZThqEE81sxU/07JvmQUOTh7dt1H7Tfv8OpiPkQ7E3uMNcD0u7k7lNQyyDfByzgWZhj+frHeQFM+cTRPyQvtAXVimt4NdGWDDwr5MidB1nqRbeH2h+WooOFaEJrYyYCQU/veSsFGeeSA76H0urxIEECLWtc51YJdCYqBQr01tVJqr2dCJ75Gom9K1WxBXcATma5ihlJd57MrpNN8PnbjkI+MEV3Fx28Bn0s8N4GBSWTzphmckgy/d7yGolJbMFXNP0gsSHrg==;RXCDQNeLpfj0raVOd0Fstw=="
 ---

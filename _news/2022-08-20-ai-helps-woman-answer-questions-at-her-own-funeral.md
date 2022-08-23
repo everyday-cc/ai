@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/ai-helps-woman-answer-questions-at-her-
 webUrl: "https://www.pcmag.com/news/ai-helps-woman-answer-questions-at-her-own-funeral"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -43,20 +43,6 @@ related:
       - url: "https://nypost.com/wp-content/uploads/sites/2/2022/08/newspress-collage-23508915-1660838991819.jpg?quality=75&strip=all&1660825649&w=1024"
         width: 1024
         height: 682
-        isCached: true
-  - title: "UK Woman Speaks at Her Funeral Using AI"
-    excerpt: "New AI-powered hologram allowed grieving loved ones to engage in a two-way conversation with the deceased old woman"
-    publishedDateTime: 2022-08-18T07:31:00Z
-    webUrl: "https://analyticsindiamag.com/uk-woman-speaks-at-her-funeral-using-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/dead-grandmother.jpg"
-        width: 1600
-        height: 900
         isCached: true
 
 secured: "Oai47xhdHbQVmWgXo0whLuEVSJeEfZ4CW4dHxD2yNo1LYjgF2yAT+a0nByY2uFrme4//YNc0SWt2EGk7niM8rhMpDdxQEcZYrhJBFYx06s2Vo/jlPBD1N4NjWHjNpJfd8sm3+F/1UxmrEKL1aIi8S0xvuxJ2N0pNE1x4SPkL0nY8I+5i58x9i0gwBpjj8yZk+vii/8pYr+KQ5b9ibas7z77GuuRr8+8LKU1ovKKalyCtv1X1n1YarE8znK0Pm3PcFI9SWWIA5iPZN/vjzG89WtY+SekMglKPZrgYNsJ3JOZssh3PFPDmDNCBYlNaaFzyKcyugPrckkXV7Qz87a6Xyh7yTNrfh7jUj6eC+j4Ni//u5D8YBQGB1XRqSK2omBjsgVlADN9VLEsqODvN7iHrfKM+Sk8GqHEeHA2VByCXqmmh7vC6kD3LXJRuW6sjP0JWi924Y1OWMsYwKA92Txv4xfReoEU4aObvR59VoLGNAq3tV4jdK4g5YGlAVcZomG8fHy0sJGv07gWtH3mYUpeTpQ==;nVv5bPZB+8B9twz5ojDPmg=="

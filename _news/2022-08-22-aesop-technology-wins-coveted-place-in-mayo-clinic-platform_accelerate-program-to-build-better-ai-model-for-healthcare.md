@@ -22,6 +22,22 @@ topics:
   - AI
   - AI in Healthcare
 
+related:
+  - title: "AESOP Technology Wins Coveted Place in Mayo Clinic Platform_Accelerate Program to Build Better AI Model for Healthcare"
+    excerpt: "AESOP Technology announced that they have been accepted into Mayo Clinic Platform_Accelerate, a 20-week program that helps early-stage health tech AI startups"
+    publishedDateTime: 2022-08-23T00:00:00Z
+    webUrl: "https://www.asiaone.com/business/aesop-technology-wins-coveted-place-mayo-clinic-platformaccelerate-program-build-better-ai"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 30
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2022/pr-newswire_500_4_1223.jpg?h=7de12b8a&itok=vufUJZOP"
+        width: 600
+        height: 316
+        isCached: true
+
 secured: "aWpZvefRghwersvEN72+BIaLhDKaa506gwXMz4jYb5QsAj8Exystc0ETnV2BjumNPi+msFPjnJcB1DK/AD8L8RHUYNlgjFOiCesR+14N0wYzNqjVVbHQthZUFDMwbn3sYr1ivWUziiZ2vqIkm/xWB4qRNIx/EBVfqsXZl0HOUtWIPE7Qg0gh2QXJJLeUzRa4RuAPVJVq/zagbHF2iqdXzUQDFP32NKeXACVr6XXLGehY7E9uWl323iPC2nMtrGHvzLyB2YTmhCm/ZOUB6iPwdMEzbimqzF2DAZInB2A5hPXLlxyWzEQNIyzOfV4n//ZDSZ003WvElftV8CjTcJQZTXZww77WL6o8U7NZNyQVWac=;NJz/bWhnF/HJeuEnd/3KFw=="
 ---
 

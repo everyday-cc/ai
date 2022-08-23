@@ -1,28 +1,27 @@
 ---
 category: news
 title: "SCALE AI announces a major financing round in artificial intelligence: $50 million to support 12 new projects"
-excerpt: "CNW Telbec/ - With an additional 12 projects representing more than $50 million in investments announced today by SCALE AI, artificial intelligence (AI) is continuing on its path of rapid"
+excerpt: "Artificial intelligence is a powerful tool for improving hospital performance, eliminating waste and achieving significant savings. These benefits will also translate into peace of mind for healthcare professionals who will know that the equipment they ..."
 publishedDateTime: 2022-08-22T15:28:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28587177/scale-ai-announces-a-major-financing-round-in-artificial-intelligence-50-million-to-support-12-new"
-webUrl: "https://www.benzinga.com/pressreleases/22/08/n28587177/scale-ai-announces-a-major-financing-round-in-artificial-intelligence-50-million-to-support-12-new"
-ampWebUrl: "https://www.benzinga.com/amp/content/28587177"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28587177"
+originalUrl: "https://www.newswire.ca/news-releases/scale-ai-announces-a-major-financing-round-in-artificial-intelligence-50-million-to-support-12-new-projects-818168758.html"
+webUrl: "https://www.newswire.ca/news-releases/scale-ai-announces-a-major-financing-round-in-artificial-intelligence-50-million-to-support-12-new-projects-818168758.html"
 type: article
-quality: 53
-heat: 83
-published: true
+quality: 35
+heat: 35
+published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Newswire
+  domain: newswire.ca
 
 topics:
+  - AI in Healthcare
   - AI
 
 images:
-  - url: "https://mma.prnewswire.com/media/1882672/Scale_AI_SCALE_AI_announces_a_major_financing_round_in_artificia.jpg"
-    width: 400
-    height: 400
+  - url: "https://mma.prnewswire.com/media/1882672/Scale_AI_SCALE_AI_announces_a_major_financing_round_in_artificia.jpg?p=facebook"
+    width: 600
+    height: 314
     isCached: true
 
 related:
@@ -59,6 +58,6 @@ related:
       domain: dailyherald.com
     quality: 0
 
-secured: "NgO5CEk+iMkoQUQMWgL0j83X20/OWVeaUkZPA5P4LexYjniczrwSw52Q7aiO2mNdWGzzR++Cn68IvcpI8csEccxW5EI2JgmS+sN/wc5OZ04To4+XUU4soohVEkZvic9vMr602rElIOzGz0Xn9dAZKfUGYW4SaY2lmiFpt5DZUyC+2QS+x8vAB/VKzbC/86a4Y8ght3L7nRfZXcscQKWqo3qbzeLJZej0sam8yL3NgdBsMlmCVmpNSPRrKsBPWUHkBu5bpD895geCM17+OxelyMXYvJA3cV4CzFtGYVwsmsmEKpqG+9Wnr0esOeNufTVnVfnbaUVZJZHzjt8e7I+LEcGOUOWLymWBFlFMNbNmF18=;l+uytNQwzoNuDroVtNGXpg=="
+secured: "tH+O8zSbHgS/SxOOsUBeSk+TAkOFtZkM+Zt1vV+BQIH/tm0QG6EPV9UcFmh3iZpRNa625Op1RcYEXw7UFvR+Q7VGg2lsQJ333rMaECrzwUf86H3seO08yx0RDi8mulxg4P1OZq7WUQJ9QtxPAy20teXoFAiED1frCW17FsdaefZ8z1HbvFPDM5M+FjhkyFOr4oKZ0h9lWSCNNGUMfvqu4R1u+aehYR81LRssvYacCfJpfJNy5Qfztdvv8sJElVZ7lOlOGzjOvg2zYCPjNol2E+3fNlLkm2n+OPmcR5LMjK/CdNiiaALzfNRFJ21KIF/H+yZzMszBmPmTCN8kecKlQ7E20BQWVJjImm9KMtYLIXU=;exRkuCyz8YyhG0GAoLH6PA=="
 ---
 

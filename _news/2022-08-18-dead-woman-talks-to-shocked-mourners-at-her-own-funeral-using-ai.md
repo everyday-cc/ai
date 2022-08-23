@@ -40,20 +40,6 @@ related:
         width: 1024
         height: 575
         isCached: true
-  - title: "UK Woman Speaks at Her Funeral Using AI"
-    excerpt: "New AI-powered hologram allowed grieving loved ones to engage in a two-way conversation with the deceased old woman"
-    publishedDateTime: 2022-08-18T07:31:00Z
-    webUrl: "https://analyticsindiamag.com/uk-woman-speaks-at-her-funeral-using-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/dead-grandmother.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "4uNMxru1QXvC9Lpg0GPfT55OBvi+EdD+X5kRXOXWDqNFKwHWhhe+jQdFYSs3ZmwTJudhNGr/8Zc8VVj7Lyfof2zknKIDJxuBzKuTt2GGP1aoqstv/ikqCsKPjK2NL7WwkaJsLqdWwu2KHsWhbSHYUYYhddTSrrHp6SZhBewr5SkHTlQtgujcMeiSF5b1xKYv6QLRuO/gnmNSoQLdi9coEpmy3ITkgqDAUPw8DnbVVxMTrUjIt+UpfmBPBMABWJb/FEiKuk71JVNufIilrbfIKXFNI81VuvHtYgbvegheT1xcsdHAAabuD7VkGB/o4CmOsOwtpbPYtqc9xuHyIeChSpfyuthwt09FvarlK+UqHsxrWzgvC3HQJsnLzXLV9Fxn8RGfYmIPc/kl5y8mwWB5qKcN6yvpgMcaRdQfyBI/9QRU1KrAbk15QLp0w4QcMaxntTdKM5rpzm/vDZ2kbrUK8fi2/U1MRVYHek+JFE6cuNOmScB+rXrRJnTpaIsOnA4BLK/8S3H4NB+7ThfePX/jOQ==;TBA0QS6N4YLy5n2mrFG9Rw=="
 ---

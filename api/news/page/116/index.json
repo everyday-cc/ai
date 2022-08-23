@@ -2,6 +2,83 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2022-05-24-significant-energy-savings-using-neuromorphic-hardware.md",
+      "title": "Significant energy savings using neuromorphic hardware",
+      "excerpt": "For the first time TU Graz's Institute of Theoretical Computer Science and Intel Labs demonstrated experimentally that a large neural network can ... of worldwide artificial intelligence (AI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.sciencedaily.com/releases/2022/05/220524100612.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/05/220524100612.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-aws-announces-general-availability-of-amazon-ec2-c7g-instances-powered-by-aws-designed-graviton3-processors.md",
+      "title": "AWS Announces General Availability of Amazon EC2 C7g Instances Powered by AWS-designed Graviton3 Processors",
+      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) C7g instances, the next generation of compute-optimized instances powered by AWS-designed Graviton3 processors.",
+      "sourceUrl": null,
+      "webUrl": "https://cloud-computing.tmcnet.com/news/2022/05/23/9607396.htm",
+      "originalUrl": "https://cloud-computing.tmcnet.com/news/2022/05/23/9607396.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-uk-regulator-fines-facial-recognition-company-9m-for-illegally-storing-images.md",
       "title": "UK regulator fines facial recognition company $9M for illegally storing images",
       "excerpt": "A U.S. facial recognition company is being fined almost $9.4 million by a U.K. privacy regulator for illegally gathering photos from the internet to create a global database for law enforcement officials.",
@@ -1011,109 +1088,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-artificial-intelligence-ai-in-logistics-market-size-from-2022-to-2028.md",
-      "title": "Artificial intelligence (AI) in Logistics Market Size from 2022 to 2028",
-      "excerpt": "Pre and Post Covid is covered and Report Customization is available. Worldwide \"Artificial intelligence (AI) in Logistics Market\" latest release provides detailed analysis of Key and Emerging Players,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-logistics-market-size-from-2022-to-2028-2022-05-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-in-logistics-market-size-from-2022-to-2028-2022-05-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 142,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-meet-the-9-cruise-engineers-taking-gms-self-driving-division-from-science-experiment-to-the-first-robotaxi-service-for-the-masses.md",
-      "title": "Meet the 9 Cruise engineers taking GM's self-driving division from science experiment to the first robotaxi service for the masses",
-      "excerpt": "The company is offering driverless rides in western San Francisco ... that leverages the datasets from those tests to build artificial-intelligence models that can teach Cruise's fleet how to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/top-cruise-engineers-bringing-driverless-rides-to-the-masses-2022-5",
-      "originalUrl": "https://www.businessinsider.com/top-cruise-engineers-bringing-driverless-rides-to-the-masses-2022-5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6287bd42577b8a001827c07c?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T03:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

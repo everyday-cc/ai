@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Google uses AI language models to improve home helper robots"
-    excerpt: "Researchers at Everyday Robots are tapping large-scale language models to help robots avoid misconstruing human communications in ways that might"
-    publishedDateTime: 2022-08-18T08:02:00Z
-    webUrl: "https://www.zdnet.com/article/google-uses-ai-language-models-to-improve-home-helper-robots/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-uses-ai-language-models-to-improve-home-helper-robots/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-uses-ai-language-models-to-improve-home-helper-robots/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/767cd3eb64bfcd005e721331322b11bb282d5231/2022/08/17/41088cc8-8d87-4f6b-a8c7-049ee79fa6e6/kitchen-robot-gettyimages.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Google Gave Its Helper Robots AI Language Skills to Better Work With Humans"
     excerpt: "Google has started to close the gap by marrying the latest language AI with state-of-the-art robots ... created new control software that taps into PaLM’s language skills to translate spoken or written commands from a human into the actions required ..."
     publishedDateTime: 2022-08-22T14:00:00Z

@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-22-google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans.md",
+      "title": "Google Gave Its Helper Robots AI Language Skills to Better Work With Humans",
+      "excerpt": "Google has started to close the gap by marrying the latest language AI with state-of-the-art robots ... created new control software that taps into PaLM’s language skills to translate spoken or written commands from a human into the actions required ...",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/",
+      "originalUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/08/Google-everyday-robots.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
+      "publishedDateTime": "2022-08-22T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-21-the-9-trends-defining-ecommerce-ai-in-2022-2023.md",
       "title": "The 9 Trends Defining eCommerce AI in 2022 & 2023",
       "excerpt": "From more sophisticated fraud detection to virtual try-on technology, here are the top nine trends to look out for in eCommerce AI",
@@ -1419,59 +1463,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases.md",
-      "title": "Iterable optimizes AI to hyper-personalize marketing and predict future purchases",
-      "excerpt": "Iterable has a new AI Optimization Suite, with Predictive Goals and Explainable AI, to drive hyper-personalized brand-consumer communication.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases/",
-      "originalUrl": "https://venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/03/personalized_messages-e1659999200762.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/applied-ai/iterable-optimizes-ai-to-hyper-personalize-marketing-and-predict-future-purchases/amp/",
-      "publishedDateTime": "2022-08-09T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/onemeta-ai-accepted-as-a
 webUrl: "https://www.marketwatch.com/press-release/onemeta-ai-accepted-as-a-part-of-microsoft-for-startups-founders-hub-2022-08-18"
 type: article
 quality: 84
-heat: 114
+heat: 104
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1600
         height: 899
         isCached: true
-  - title: "Artificial Intelligence Platform Market Expected to Accelerate Growth by 2028 | Google, IFlyTek, Baidu, Microsoft"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 18, 2022 (Market Insight Reports) -- The global Artificial Intelligence Platform Market research report provides an in-depth and methodical assessment of regional and ..."
-    publishedDateTime: 2022-08-18T07:29:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-platform-market-expected-to-accelerate-growth-by-2028-google-iflytek-baidu-microsoft-2022-08-18"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
   - title: "How Microsoft’s AI convinced me to switch to Edge, and where the browser still falls short"
     excerpt: "I finally broke down and switched to Microsoft’s Edge browser this week on my Windows PC, after many years of using Google Chrome. No, it wasn’t the incessant and annoying… Read More"
     publishedDateTime: 2022-08-19T19:31:00Z

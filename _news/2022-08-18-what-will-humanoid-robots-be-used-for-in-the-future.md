@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.citizen.co.za/lifestyle/3175680/humanoid-robots-xiamoi-c
 cdnAmpWebUrl: "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/3175680/humanoid-robots-xiamoi-cyberone/"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: The Citizen
@@ -40,6 +40,20 @@ related:
       - url: "https://www.malaymail.com/malaymail/uploads/images/2022/08/19/42440.jpeg?v=1660874460"
         width: 1000
         height: 500
+        isCached: true
+  - title: "What will humanoid robots be used for in the future?"
+    excerpt: "While waiting for other players to enter the fray, the humanoid robot war is already raging between the United States’ Tesla and China’s Xiaomi. From assembly line work to personal services, these robots could have very practical uses once they’re made operational."
+    publishedDateTime: 2022-08-23T00:00:00Z
+    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/19/what-will-humanoid-robots-be-used-for-in-the-future"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 39
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/18/1702859.jpg"
+        width: 1240
+        height: 531
         isCached: true
 
 secured: "J4h6nu1eoHpToJgDWz7rSZIOMf0W68e4WA1uvc+FbbfYSVwt2C7Hri6TgLYYFMxtL3DPtWOA+C8OK7MUwKVDPATWGiTcQI62/tb2Cu0Se9JeLGQba9w0v2wR0rHViCyu/JcevfTzMfwnzZvp7rTEj7G1zqDQvkNDgFgLxagqqheFXSVInl3lJWNjJUYZs6LKsv5qQttvUnR4qV0bdZYqaYRrItcBvdseBaxSuRExl13QMir0zbG/ZyTIQ4KMtSyrgymzPwuxKDTq8fhji76KPC88Yd4WOKUBDOp0r9mGyeA7vPeKSZtE8I5x0vzhNtyHbVX2SCJhGCLAXv8vzORh05Y5Kkmhqd4y9orGpFSR/8xzvYnamPHxni5UIIbJp5R1citdS2AlLQ0cU9o9mMqsRytvYE3oEXqO0wIxSXfZIZxVOYMLGBKoR8ekiUJ0aD9C3Jm5SaXGm897Mb/JKbniHxU6svts4o/5pgw6JRSl4sVR3mOq+cPWgAYdNZnRcV4Mz99xMDeMba4EnFr8e82R4A==;mfx0mPlXhHBXYEya2jOHNA=="

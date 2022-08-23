@@ -19,31 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Mubadala-backed AI firm G42 sets up $10 bln tech fund"
-    excerpt: "Emirati artificial intelligence firm G42, chaired by the Gulf state's national security advisor, on Thursday launched a $10 billion fund to invest in late-stage technology companies. DUBAI, Aug 18 (Reuters) - Emirati artificial intelligence firm G42,"
-    publishedDateTime: 2022-08-18T07:40:00Z
-    webUrl: "https://www.nasdaq.com/articles/mubadala-backed-ai-firm-g42-sets-up-%2410-bln-tech-fund"
-    ampWebUrl: "https://www.nasdaq.com/articles/mubadala-backed-ai-firm-g42-sets-up-$10-bln-tech-fund?amp"
-    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/mubadala-backed-ai-firm-g42-sets-up-$10-bln-tech-fund?amp"
-    type: article
-    provider:
-      name: Nasdaq
-      domain: nasdaq.com
-    quality: 69
-  - title: "Mubadala-backed AI firm G42 sets up $10 billion tech fund"
-    excerpt: "Emirati artificial intelligence firm G42, chaired by the Gulf state's national security advisor, on Thursday launched a $10 billion fund to invest in late-stage technology companies.G42, which also counts Abu Dhabi sovereign wealth fund Mubadala as an investor,"
-    publishedDateTime: 2022-08-18T07:44:00Z
-    webUrl: "https://www.channelnewsasia.com/business/mubadala-backed-ai-firm-g42-sets-10-billion-tech-fund-2887481"
-    type: article
-    provider:
-      name: Channel NewsAsia Singapore
-      domain: channelnewsasia.com
-    quality: 39
-    images:
-      - url: "https://onecms-res.cloudinary.com/image/upload/s--BYNV11Ue--/f_auto,q_auto/c_fill,g_auto,h_676,w_1200/v1/mediacorp/one-cms/images/2021-06/business_1.png?itok=rGtz_C8Z"
-        width: 1200
-        height: 676
-        isCached: true
   - title: "Emirati AI firm G42 launches $10 billion investment fund"
     excerpt: "The UAE is seeking to become a leader in artificial intelligence, and has also successfully attracted some fintech firms."
     publishedDateTime: 2022-08-19T09:54:00Z

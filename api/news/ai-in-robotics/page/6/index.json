@@ -2,6 +2,92 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-08-nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai.md",
+      "title": "Nokia to open robotics lab at Indian Institute of Science for 5G and AI",
+      "excerpt": "Nokia and the Indian Institute of Science (IISc) on Friday announced the opening of the Center of Excellence (CoE) in Networked Robotics at the IISc Bengaluru. The CoE will promote inter-disciplinary research involving robotics and advanced communication technologies in 5G and Artificial Intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/3wm88/article65615902.ece/alternates/LANDSCAPE_615/2020-07-14T075529Z_1210897008_RC2VSH97A1YU_RTRMADP_3_NOKIA-5G.JPG",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece/amp/",
+      "publishedDateTime": "2022-07-08T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research.md",
+      "title": "Nokia partners with IISc to set up centre of excellence for robotics research",
+      "excerpt": "The centre will facilitate engagement and cooperation between academia, start-ups and industry ecosystem partners to research and develop these use cases, Nokia said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research-11657270970688.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research-11657270970688.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/07/08/600x338/2020-07-31T064747Z_322294329_RC264I9GQOL5_RTRMADP_3_NOKIA-RESULTS_1596207832508_1596207905783_1657271117664.JPG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research/amp-11657270970688.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research/amp-11657270970688.html",
+      "publishedDateTime": "2022-07-08T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics.md",
       "title": "Covariant, MassRobotics and The Engine discuss the road from lab to market at TC Sessions: Robotics",
       "excerpt": "It’s a long road taking an idea from the R&D stage in a lab to successful commercialization, especially when you’re talking about technologies as complex and costly as robotics and artificial intelligence.",
@@ -1250,92 +1336,6 @@
         "AI in Autos",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-guardforce-stock-gains-on-collaboration-with-hong-kong-industrial-ai-robotics-centre.md",
-      "title": "Guardforce stock gains on collaboration with Hong Kong Industrial AI, Robotics Centre",
-      "excerpt": "Guardforce AI (GFAI) is rising 7.1% premarket on Thursday after it entered in a collaboration pact with Hong Kong Industrial Artificial Intelligence and Robotics Centre, founded by",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3853175-guardforce-stock-gains-on-collaboration-with-hong-kong-industrial-ai-robotics-centre",
-      "originalUrl": "https://seekingalpha.com/news/3853175-guardforce-stock-gains-on-collaboration-with-hong-kong-industrial-ai-robotics-centre",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo.md",
-      "title": "Wealthcare Advisory Partners LLC Has $314,000 Position in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO)",
-      "excerpt": "Wealthcare Advisory Partners LLC lessened its holdings in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO – Get Rating) by 6.7% in the first quarter, according to the company in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/06/30/wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/",
-      "originalUrl": "https://www.etfdailynews.com/2022/06/30/wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks7.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/06/30/wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/30/wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/amp/",
-      "publishedDateTime": "2022-06-30T02:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

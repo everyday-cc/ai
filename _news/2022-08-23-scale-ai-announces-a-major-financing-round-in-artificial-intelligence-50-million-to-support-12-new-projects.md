@@ -26,20 +26,18 @@ images:
 
 related:
   - title: "SCALE AI announces a major financing round in artificial intelligence: $50 million to support 12 new projects"
-    excerpt: "CNW Telbec/ - With an additional 12 projects representing more than $50 million in investments announced today by SCALE AI, artificial intelligence (AI) is continuing on its path of rapid"
+    excerpt: "Artificial intelligence is a powerful tool for improving hospital performance, eliminating waste and achieving significant savings. These benefits will also translate into peace of mind for healthcare professionals who will know that the equipment they ..."
     publishedDateTime: 2022-08-22T15:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28587177/scale-ai-announces-a-major-financing-round-in-artificial-intelligence-50-million-to-support-12-new"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28587177"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28587177"
+    webUrl: "https://www.newswire.ca/news-releases/scale-ai-announces-a-major-financing-round-in-artificial-intelligence-50-million-to-support-12-new-projects-818168758.html"
     type: article
     provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
+      name: Newswire
+      domain: newswire.ca
+    quality: 35
     images:
-      - url: "https://mma.prnewswire.com/media/1882672/Scale_AI_SCALE_AI_announces_a_major_financing_round_in_artificia.jpg"
-        width: 400
-        height: 400
+      - url: "https://mma.prnewswire.com/media/1882672/Scale_AI_SCALE_AI_announces_a_major_financing_round_in_artificia.jpg?p=facebook"
+        width: 600
+        height: 314
         isCached: true
   - title: "CathVision Announces $7.2 Million Financing Round Close"
     excerpt: "The company will use the funding to pursue advanced commercial operations for the ECGenius System and develop its AI-powered analytic modules."

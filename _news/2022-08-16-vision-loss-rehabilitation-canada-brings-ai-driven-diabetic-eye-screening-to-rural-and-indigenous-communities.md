@@ -1,20 +1,30 @@
 ---
 category: news
 title: "Vision Loss Rehabilitation Canada brings AI-driven diabetic eye screening to rural and Indigenous communities"
-excerpt: "Program selects Eyenuk's EyeArt AI system to make vision-saving screening more accessible in remote Ontario communities LOS ANGELES and TORONTO, Aug. 16, 2022 /PRNewswire/ -- Vision Loss Rehabilitation Canada (VLRC),"
-publishedDateTime: 2022-08-16T15:44:00Z
-originalUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1271847&cat=PR News Wire"
-webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1271847&cat=PR News Wire"
+excerpt: "Diabetic retinopathy is the most common form of diabetic eye disease. In Canada, 750,000 people have DR and the economic impact on the healthcare system is $1.2 billion annually. With early detection,"
+publishedDateTime: 2022-08-16T12:01:00Z
+originalUrl: "https://www.marketwatch.com/press-release/vision-loss-rehabilitation-canada-brings-ai-driven-diabetic-eye-screening-to-rural-and-indigenous-communities-2022-08-16-8203129"
+webUrl: "https://www.marketwatch.com/press-release/vision-loss-rehabilitation-canada-brings-ai-driven-diabetic-eye-screening-to-rural-and-indigenous-communities-2022-08-16-8203129"
 type: article
 
 provider:
-  name: Webindia 123
-  domain: webindia123.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Healthcare
   - AI
 
-secured: "iK5w7X5WiDGZA8nHx2FxwHVfd+S50s101i9fQx7efvQw64nuTHs6aWruOSgw+w5hdj4wvn2TMz++hJDaq6U62Dl6a5ckCuPooGW71oQuXxcBUjIih3iPFDMVU2w1IikopDDq+5pU874AZz88MyxLCD6mbNWatlMz2cCcgnCZRf/72YDdRxYa7FOzaxv5FjnvetgYV98wZDvNU+takR+EpmavCYWnzsaW37LxoMeJfU+mfY+FRJhAGSIMHajQBvNMLqcYFuV4ZhWSCUXJnj8ZoQ8xyfdSAOwjZTyFySeSmHJpPEKy3VIXJIGZ8HtfS39Jr+9jQDkSWNMwKVn8N3vZXqhmlRDF3zzhS25nPX0FFWY=;jtSKHcT9MNdQryH6OC/JOA=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "j8R6LfBKcvPyYgIg+ewpioRVPHhye9GuiT0pAX2h1hNzS5OofcpyfSghaSUiFekPrdqXLwBDDKb5ISS0xemRAFQpK1ijOrpJWL3lpFIyF940THjwe7ujvVy2xKNUXIJA6h3l3bJq8hZ4ywlGANqhVo8Xl8hcIn/zb8Gb6yjW4BlmkUdNGaerMgMminuALfNLZqRBEEqmp8vqrS5QfG+f6TJGIxTtYwygB7HcitgCnkqAajt+a22yb7MIXcOCKcbMCPScb+3SOv/Gy2hZwRrdqd0CrmZoCRe2RbiqObz8lA3MO2bJfPndVzqVIU4rzHMW+/fINQmIMibsH1+TgZB/qiYeNUjkDXV1+ZopxjEBz9E=;zYaTfBR2+s8BO86ikuHzeQ=="
 ---
 

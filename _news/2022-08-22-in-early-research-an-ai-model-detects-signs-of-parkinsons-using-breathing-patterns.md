@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI detects Parkinson’s disease by tracking your breathing patterns"
+    excerpt: "A compelling new study indicates Parkinson’s disease (PD) could be diagnosed by remotely tracking a person’s breathing patterns. Led by researchers from MIT, the study presents an AI system that uses radio waves to monitor breathing while a person sleeps."
+    publishedDateTime: 2022-08-22T23:49:00Z
+    webUrl: "https://newatlas.com/health-wellbeing/ai-parkinsons-disease-sleep-breathing-patterns-mit"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 67
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/1f864fd/2147483647/strip/true/crop/800x420+0+90/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F61%2F90%2F1e3d4dc9497c909b9aeb6bf860f0%2Fparkinson-ai-breath-detector-mit-00-0.jpg&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial intelligence model can detect Parkinson's from breathing patterns"
     excerpt: "Parkinson's disease is notoriously difficult to diagnose as it relies primarily on the appearance of motor symptoms such as tremors, stiffness, and slowness, but these symptoms often appear several years after the disease onset."
     publishedDateTime: 2022-08-22T16:22:00Z

@@ -39,22 +39,6 @@ related:
         width: 615
         height: 383
         isCached: true
-  - title: "Delhi Police's 80 Per Cent Match Of Facial Recognition To Nab Accused Raises Concern, Finds RTI"
-    excerpt: "The RTI response, which has now created an uproar, sheds light on the lack of privacy impact assessment of facial recognition technology used by Delhi Police to nab the accused."
-    publishedDateTime: 2022-08-18T07:47:00Z
-    webUrl: "https://www.outlookindia.com/national/delhi-police-s-80-per-cent-match-of-facial-recognition-to-nab-accused-raises-concern-finds-rti-news-217182"
-    ampWebUrl: "https://www.outlookindia.com/national/delhi-police-s-80-per-cent-match-of-facial-recognition-to-nab-accused-raises-concern-finds-rti-news-217182/amp"
-    cdnAmpWebUrl: "https://www-outlookindia-com.cdn.ampproject.org/c/s/www.outlookindia.com/national/delhi-police-s-80-per-cent-match-of-facial-recognition-to-nab-accused-raises-concern-finds-rti-news-217182/amp"
-    type: article
-    provider:
-      name: Outlookindia
-      domain: outlookindia.com
-    quality: 62
-    images:
-      - url: "https://imgnew.outlookindia.com/public/uploads/articles/2017/10/15/cctv.jpg"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Groups have questions about how facial recognition technology impact Black people"
     excerpt: "The ACLU and others question the negative impact facial recognition technology Black people and communities of color."
     publishedDateTime: 2022-08-19T15:50:00Z
