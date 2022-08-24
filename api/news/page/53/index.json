@@ -2,245 +2,12 @@
   "page": 53,
   "value": [
     {
-      "path": "_news/2022-07-07-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
-      "title": "China’s Baidu races Waymo, GM to develop self-driving cars",
-      "excerpt": "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner",
+      "path": "_news/2022-07-08-synthetic-datas-potential-impact-on-the-future-of-artificial-intelligence-modeling.md",
+      "title": "Synthetic Data’s Potential Impact on the Future of Artificial Intelligence Modeling",
+      "excerpt": "While synthetic data can be collected via sensors and through images, videos or audio, just as real data is collected, Ali Jahanian, a former research scientist at the MIT’s Computer Science and Artificial Intelligence Laboratory (CSAIL),",
       "sourceUrl": null,
-      "webUrl": "https://nwasianweekly.com/2022/07/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
-      "originalUrl": "https://nwasianweekly.com/2022/07/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/nwasianweekly.com/wp-content/uploads/2017/03/cropped-logoicon.jpg?fit=512%2C512&#038;ssl=1",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T09:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Northwest Asian Weekly",
-        "domain": "nwasianweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-creating-an-ai-implementation-strategy.md",
-      "title": "Creating an AI Implementation Strategy",
-      "excerpt": "Digital transformation efforts are rapidly accelerating in the public sector. Spurred in part by the pandemic — and now, as state and local governments pivot to meet rising constituent expectations — the technology landscape is changing quickly.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/sponsored/creating-an-ai-implementation-strategy",
-      "originalUrl": "https://www.govtech.com/sponsored/creating-an-ai-implementation-strategy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/7cba73b/2147483647/strip/true/crop/940x490+0+45/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F4c%2Fd0%2F114da195a9b20d583f2c54dd6abe%2Fshutterstock-561931702.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/sponsored/creating-an-ai-implementation-strategy?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/sponsored/creating-an-ai-implementation-strategy?_amp=true",
-      "publishedDateTime": "2022-07-07T09:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics.md",
-      "title": "Covariant, MassRobotics and The Engine discuss the road from lab to market at TC Sessions: Robotics",
-      "excerpt": "It’s a long road taking an idea from the R&D stage in a lab to successful commercialization, especially when you’re talking about technologies as complex and costly as robotics and artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/",
-      "originalUrl": "https://techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Robotics22_cage_to_stage-1.jpg?w=1024",
-          "width": 1024,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/amp/",
-      "publishedDateTime": "2022-07-07T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-baidu-teases-progress-of-its-ai-and-self-driving-tech.md",
-      "title": "Baidu teases progress of its AI and self-driving tech",
-      "excerpt": "Baidu plans to release a new update of its industrial AI-cloud \"Kaiwu\" and will reveal the latest progress of its autonomous driving technologies at Baidu World 2022 on July 21 in the tech giant's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20220707VL201/av-baidu.html&chid=10",
-      "originalUrl": "https://www.digitimes.com/news/a20220707VL201/av-baidu.html&chid=10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20220707vl201_files/2_b.jpg",
-          "width": 640,
-          "height": 427,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-cute-desktop-robot-designed-to-keep-armchair-engineers-engaged.md",
-      "title": "Cute desktop robot designed to keep armchair engineers engaged",
-      "excerpt": "Building a robot from the ground up and then getting it to do exactly what you want it to can be a serious head-scratcher. Taiwan's NUWA Robotics is looking to make things simpler with a cute little robot companion called the RobotCreator DX,",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/robotics/robotcreator-dx-nuwa/",
-      "originalUrl": "https://newatlas.com/robotics/robotcreator-dx-nuwa/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/0b41e23/2147483647/strip/true/crop/2598x1364+0+0/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F45%2F43%2F34207bd743c28bd68cc6ca918dde%2Fscenario-1.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-rehab-boost-launches-advisory-board-appointing-seasoned-healthcare-executive-bruce-lawrence-chair.md",
-      "title": "Rehab Boost Launches Advisory Board Appointing Seasoned Healthcare Executive Bruce Lawrence Chair",
-      "excerpt": "Rehab Boost Launches Advisory Board Appointing Seasoned Healthcare Executive Bruce Lawrence Chair. MIAMI, July 7, 2022 /PRNewswire/ -- Rehab Boost Inc, a pioneer in artificial int",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobilitytechzone.com/lte/news/2022/07/07/9635083.htm",
-      "originalUrl": "https://www.mobilitytechzone.com/lte/news/2022/07/07/9635083.htm",
+      "webUrl": "https://edtechmagazine.com/higher/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling",
+      "originalUrl": "https://edtechmagazine.com/higher/article/2022/07/synthetic-datas-potential-impact-future-artificial-intelligence-modeling",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -250,11 +17,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T09:05:00-07:00",
+      "publishedDateTime": "2022-07-08T09:53:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mobility Techzone",
-        "domain": "mobilitytechzone.com",
+        "name": "EdTech",
+        "domain": "edtechmagazine.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -269,21 +36,21 @@
       ]
     },
     {
-      "path": "_news/2022-07-07-meta-ai-machine-to-solve-language-barrier-in-africa-others.md",
-      "title": "Meta AI machine to solve language barrier in Africa, others",
-      "excerpt": "NLLB-200, a single AI machine that translates across 200 different languages, including 55 African languages with state-of-the-art results, has been",
+      "path": "_news/2022-07-08-75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday.md",
+      "title": "75 indigenously made AI-based defence products to be unveiled on Monday",
+      "excerpt": "Another 100 projects are in various stages of development,along with that infrastructure is also coming up for storing AI data which would enable work on classified applications related to country's d",
       "sourceUrl": null,
-      "webUrl": "https://businessday.ng/technology/article/meta-ai-machine-to-solve-language-barrier-in-africa-others/",
-      "originalUrl": "https://businessday.ng/technology/article/meta-ai-machine-to-solve-language-barrier-in-africa-others/",
+      "webUrl": "https://www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 81,
+      "heat": 159,
       "tags": null,
       "images": [
         {
-          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2022/07/Meta.png?resize=450%2C300&ssl=1",
-          "width": 450,
-          "height": 300,
+          "url": "https://bl-i.thgim.com/public/incoming/bnps89/article65617742.ece/alternates/LANDSCAPE_615/AJAY%20KUMAR.jpg",
+          "width": 615,
+          "height": 383,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -291,13 +58,151 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://businessday.ng/amp/technology/article/meta-ai-machine-to-solve-language-barrier-in-africa-others/",
-      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/technology/article/meta-ai-machine-to-solve-language-barrier-in-africa-others/",
-      "publishedDateTime": "2022-07-07T08:15:00-07:00",
+      "ampWebUrl": "https://www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece/amp/",
+      "publishedDateTime": "2022-07-08T09:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "businessday",
-        "domain": "businessday.ng",
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-artificial-intelligenceai-in-retail-market-trends-business-overview-industry-growth-and-forecast-2022-to-2028.md",
+      "title": "Artificial Intelligence(AI) in Retail Market Trends, Business Overview, Industry Growth, and Forecast 2022 To 2028.",
+      "excerpt": "Pre and Post Covid is covered and Report Customization is available. The \"Artificial Intelligence(AI) in Retail Market Analysis report\" has brought to light Main Market Activities, Market Revenue, Market Overview,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-retail-market-trends-business-overview-industry-growth-and-forecast-2022-to-2028-2022-07-08",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceai-in-retail-market-trends-business-overview-industry-growth-and-forecast-2022-to-2028-2022-07-08",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-08T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-brain-stimulation-can-rewire-and-heal-damaged-neural-connections-but-it-isnt-clear-how.md",
+      "title": "Brain stimulation can rewire and heal damaged neural connections, but it isn’t clear how",
+      "excerpt": "The connections between the neurons in your brain enable you to do amazing things, from brushing your teeth to solving calculus equations. When these connections become damaged, often as a result of conditions like stroke or traumatic brain injury,",
+      "sourceUrl": null,
+      "webUrl": "https://gcn.com/emerging-tech/2022/07/brain-stimulation-can-rewire-and-heal-damaged-neural-connections-it-isnt-clear-how/373988/",
+      "originalUrl": "https://gcn.com/emerging-tech/2022/07/brain-stimulation-can-rewire-and-heal-damaged-neural-connections-it-isnt-clear-how/373988/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.gcn.com/media/img/cd/2022/07/08/brain_GCN_070822/open-graph.jpg",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-08T08:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GCN",
+        "domain": "gcn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-meta-releases-ai-model-that-translates-over-200-languages.md",
+      "title": "Meta Releases AI Model That Translates Over 200 Languages",
+      "excerpt": "If you’ve ever witnessed the bizarre word stew that Facebook sometimes concocts when translating content between languages, you have seen how translation",
+      "sourceUrl": null,
+      "webUrl": "https://www.datanami.com/2022/07/08/meta-releases-ai-model-that-translates-over-200-languages/",
+      "originalUrl": "https://www.datanami.com/2022/07/08/meta-releases-ai-model-that-translates-over-200-languages/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/07/translation_shutterstock_2119733831.jpg",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-08T07:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "datanami.com",
+        "domain": "datanami.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -313,21 +218,21 @@
       ]
     },
     {
-      "path": "_news/2022-07-07-microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts.md",
-      "title": "Microsoft and AWS awarded Ukrainian peace prize for cloud efforts",
-      "excerpt": "AWS certainly has the means to support humanitarian ... cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital investment.",
+      "path": "_news/2022-07-08-aws-now-lets-you-access-your-very-own-m1-mac-mini-in-the-cloud.md",
+      "title": "AWS now lets you access your very own M1 Mac Mini in the cloud",
+      "excerpt": "Amazon Web Sevices's (AWS) latest addition to its Amazon ... cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital investment.",
       "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts",
-      "originalUrl": "https://www.techradar.com/au/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts",
+      "webUrl": "https://www.techradar.com/in/news/aws-now-lets-you-access-your-very-own-m1-mac-mini-in-the-cloud",
+      "originalUrl": "https://www.techradar.com/in/news/aws-now-lets-you-access-your-very-own-m1-mac-mini-in-the-cloud",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg",
-          "width": 970,
-          "height": 545,
+          "url": "https://cdn.mos.cms.futurecdn.net/sKXZvLaQHgtG97gXwkZZAo-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -337,7 +242,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T08:10:00-07:00",
+      "publishedDateTime": "2022-07-08T07:23:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechRadar",
@@ -361,70 +266,25 @@
       ],
       "topics": [
         "AWS AI",
-        "AI",
-        "Microsoft AI"
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-07-07-how-ai-can-boost-rural-connectivity-healthcare.md",
-      "title": "How AI Can Boost Rural Connectivity & Healthcare",
-      "excerpt": "The network solution called GigaMesh wirelessly provides fibre-like backhaul capacity and paves the road for 5G.",
+      "path": "_news/2022-07-08-researchers-develop-self-calibrated-photonic-chip.md",
+      "title": "Researchers Develop Self-calibrated Photonic Chip",
+      "excerpt": "The connectivity of current optical chips has been revolutionised, and a wafer thin slice of silicon has replaced cumbersome 3D-optics! In research led by Monash and RMIT Universities in Melbourne, a sophisticated photonic integrated circuit establishes bridges between data superhighways.",
       "sourceUrl": null,
-      "webUrl": "https://pragativadi.com/how-ai-can-boost-rural-connectivity-healthcare/",
-      "originalUrl": "https://pragativadi.com/how-ai-can-boost-rural-connectivity-healthcare/",
+      "webUrl": "https://www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip",
+      "originalUrl": "https://www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://pragativadi.com/wp-content/uploads/2022/07/Untitled-design-1-13.png",
-          "width": 748,
-          "height": 445,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Pragativadi",
-        "domain": "pragativadi.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-ai-at-the-forefront-of-media-and-entertainment.md",
-      "title": "AI At The Forefront Of Media And Entertainment",
-      "excerpt": "Malav Shah is a Data Scientist II at DIRECTV. In this wide-ranging interview, he shares best practices for deploying machine learning models at the forefront of media and telecommunications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62c5ede123bc69e839783dae/0x0.jpg?format=jpg&width=1200",
+          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/06/computer-chip-1200-e1655465932285.jpg",
           "width": 500,
-          "height": 343,
+          "height": 240,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -432,55 +292,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/amp/",
-      "publishedDateTime": "2022-07-07T07:45:00-07:00",
+      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip/amp",
+      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/researchers-develop-self-calibrated-photonic-chip/amp",
+      "publishedDateTime": "2022-07-08T07:11:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-kiromic-biopharma-achieves-milestone-with-timely-completion-of-expanded-cgmp-manufacturing-facility-to-support-cell-therapy-oncology-pipeline.md",
-      "title": "Kiromic BioPharma Achieves Milestone with Timely Completion of Expanded cGMP Manufacturing Facility to Support Cell Therapy Oncology Pipeline",
-      "excerpt": "Kiromic BioPharma, Inc. (NASDAQ: KRBP) (\"Kiromic\" or the \"Company\"), a clinical-stage fully integrated biotherapeutics company using its proprietary DIAMOND ® artificial intelligence and data mining platform to develop cell and gene therapies with a focus on immuno-oncology,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/07/9634833.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/07/9634833.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T07:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Electronics For You",
+        "domain": "electronicsforu.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -490,113 +308,27 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-artificial-intelligence-investment-in-innovation-is-a-key-to-success.md",
-      "title": "Artificial Intelligence: Investment In Innovation Is A Key To Success",
-      "excerpt": "The Encyclopedia Britannica defines artificial intelligence (AI) as \"the ability of a digital computer or computer-controlled robot to perform tasks commonly associated with intelligent beings.\" In simple terms,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62c597017ee5d8e458ae64dd/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/07/artificial-intelligence-investment-in-innovation-is-a-key-to-success/amp/",
-      "publishedDateTime": "2022-07-07T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
+        "AI Hardware",
         "AI",
-        "AI in Healthcare"
+        "Natural Language Processing"
       ]
     },
     {
-      "path": "_news/2022-07-07-future-ai-unveils-sallie-software-that-thinks-learns-and-evolves-like-a-person.md",
-      "title": "Future AI Unveils Sallie, Software that Thinks, Learns, and Evolves Like a Person",
-      "excerpt": "Future AI Unveils Sallie, Software that Thinks, Learns, and Evolves Like a Person. Future AI, an artificial general intelligence (AGI) company developing \"Technologies that Think,",
+      "path": "_news/2022-07-08-data-scientist-industry-reaches-point-of-maturity-as-specializations-grow.md",
+      "title": "Data scientist: Industry reaches 'point of maturity' as specializations grow",
+      "excerpt": "Computer science specializations are becoming more common. Codecademy recently introduced new data science learning paths to meet employers' changing expectations.",
       "sourceUrl": null,
-      "webUrl": "https://www.mobilitytechzone.com/lte/news/2022/07/07/9634854.htm",
-      "originalUrl": "https://www.mobilitytechzone.com/lte/news/2022/07/07/9634854.htm",
+      "webUrl": "https://www.zdnet.com/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
+      "originalUrl": "https://www.zdnet.com/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobility Techzone",
-        "domain": "mobilitytechzone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-artificial-intelligence-in-medical-diagnostics-market-worth-938-billion-by-2029-exclusive-report-by-meticulous-researchr.md",
-      "title": "Artificial Intelligence in Medical Diagnostics Market Worth $9.38 Billion by 2029 - Exclusive Report by Meticulous Research(R)",
-      "excerpt": "AI in medical diagnostics consists of AI software and services that aid healthcare professionals in identifying the diagnosis of different diseases. AI-based software solutions can analyze the data from a diagnostic procedure and either help triage patients by flagging abnormal medical images or suggest the healthcare professional a suitable diagnosis.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-diagnostics-market-worth-938-billion-by-2029---exclusive-report-by-meticulous-researchr-2022-07-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medical-diagnostics-market-worth-938-billion-by-2029---exclusive-report-by-meticulous-researchr-2022-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://www.zdnet.com/a/img/resize/a7387db1a7576e9b16458e25dc5c6f4a2c224a01/2022/07/07/15867fb1-8658-42ad-956b-7d2e552772b8/michelle-mcsweeney.jpg?width=1200&fit=bounds&auto=webp",
           "width": 1200,
-          "height": 630,
+          "height": 1533,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -604,449 +336,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-with-self-learning-models-prediction-can-be-explained.md",
-      "title": "With self-learning models, prediction can be explained",
-      "excerpt": "Self-learning computer models can be of value for speech recognition, fraud detection, and assessing medical risks. However, the benefits scandal, for example, shows that the utmost caution must be exercised: and that is why the law stipulates that there must always be an explanation as to how a model reaches a certain conclusion.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-07-self-learning.html",
-      "originalUrl": "https://techxplore.com/news/2022-07-self-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/with-self-learning-mod-2.jpg",
-          "width": 650,
-          "height": 436,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-07-self-learning.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-self-learning.amp",
-      "publishedDateTime": "2022-07-07T06:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-deep-learning-market-size-by-trends-segmentation-top-key-players-growth-and-forecast-to-2022-2028.md",
-      "title": "Deep Learning Market Size by Trends, Segmentation, Top Key Players, Growth and Forecast To 2022-2028",
-      "excerpt": "The Deep Learning Market research report consists of a detailed study of the market and the market dynamics that are",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-by-trends-segmentation-top-key-players-growth-and-forecast-to-2022-2028-2022-07-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-market-size-by-trends-segmentation-top-key-players-growth-and-forecast-to-2022-2028-2022-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T06:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-metas-new-open-source-ai-is-a-step-towards-a-universal-language-translator.md",
-      "title": "Meta’s new open-source AI is a step towards a universal language translator",
-      "excerpt": "The company has open-sourced an AI model that translates over 200 languages — many of which aren't supported by existing systems.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/meta-open-source-200-language-translator-step-to-universal-speech-translator",
-      "originalUrl": "https://thenextweb.com/news/meta-open-source-200-language-translator-step-to-universal-speech-translator",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F07%2FUntitled-design.jpg&signature=0411eac5e425ae16ba6e578d44ad49ab",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year.md",
-      "title": "WANdisco Recognized as Finalist of 2022 Microsoft Rising Azure Technology Partner of the Year",
-      "excerpt": "WANdisco Recognized as Finalist of 2022 Microsoft Rising Azure Technology Partner of the Year Jul 07, 2022 (PRNewswire via COMTEX) -- PR Newswire SAM",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year-2022-07-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/wandisco-recognized-as-finalist-of-2022-microsoft-rising-azure-technology-partner-of-the-year-2022-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-managed-services-market-to-reach-39372-billion-by-2028-at-least-60-organizations-to-depend-on-managed-services-by-2025.md",
-      "title": "Managed Services Market to Reach $393.72 Billion by 2028 | At Least 60% Organizations to Depend on Managed Services by 2025",
-      "excerpt": "Organizations are turning to managed services for a number of reasons, including the need to reduce costs, improve operational efficiencies, and free up internal resources to focus on more strategic initiatives.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/managed-services-market-to-reach-39372-billion-by-2028-at-least-60-organizations-to-depend-on-managed-services-by-2025-2022-07-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/managed-services-market-to-reach-39372-billion-by-2028-at-least-60-organizations-to-depend-on-managed-services-by-2025-2022-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T05:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras.md",
-      "title": "AI tool for personalised cancer diagnosis developed by researchers at IIT Madras",
-      "excerpt": "The tool, described in a peer-reviewed journal Frontier in Genetics, is based on a machine learning model that classifies genes as tumour suppressor genes, oncogenes or neutral genes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mid-day.com/lifestyle/health-and-fitness/article/ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras-23234812",
-      "originalUrl": "https://www.mid-day.com/lifestyle/health-and-fitness/article/ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras-23234812",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mid-day.com/images/images/2022/jul/new-born-july-seven_d.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mid-day.com/amp/lifestyle/health-and-fitness/article/ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras-23234812",
-      "cdnAmpWebUrl": "https://www-mid--day-com.cdn.ampproject.org/c/s/www.mid-day.com/amp/lifestyle/health-and-fitness/article/ai-tool-for-personalised-cancer-diagnosis-developed-by-researchers-at-iit-madras-23234812",
-      "publishedDateTime": "2022-07-07T04:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mid Day",
-        "domain": "mid-day.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-ibm-snaps-up-data-observability-specialist-databandai.md",
-      "title": "IBM snaps up data observability specialist Databand.ai",
-      "excerpt": "The acquisition will help IBM address the “full spectrum” of observability, as well as capitalise on predicted market growth",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/368472/ibm-snaps-up-databandai",
-      "originalUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/368472/ibm-snaps-up-databandai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1596721605/itpro/IBM_shutterstock.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-ai-could-do-better-job-of-managing-economy-than-humans-deepmind-research-suggests.md",
-      "title": "AI could do better job of managing economy than humans, DeepMind research suggests",
-      "excerpt": "New research suggests artificial intelligence could redistribute wealth and resources more effectively than humans and help end inequality - but scaling it up on a world scale wouldn't be easy",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532",
-      "originalUrl": "https://www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.dailystar.co.uk/incoming/article27420698.ece/ALTERNATES/s615/1_FILES-BRITAIN-POLITICS-JOHNSON-VOTE.jpg",
-          "width": 615,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532.amp",
-      "cdnAmpWebUrl": "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/ai-could-better-job-managing-27420532.amp",
-      "publishedDateTime": "2022-07-07T04:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Star",
-        "domain": "dailystar.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-this-new-neural-sleeve-helps-people-overcome-mobility-challenges.md",
-      "title": "This new neural sleeve helps people overcome mobility challenges",
-      "excerpt": "The wearable device from CIONIC combines gait analysis with functional electrical stimulation. It has recently emerged from stealth mode.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/this-new-neural-sleeve-helps-people-overcome-mobility-challenges/",
-      "originalUrl": "https://www.zdnet.com/article/this-new-neural-sleeve-helps-people-overcome-mobility-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/8d4999e33afec39c2aa280f1c474f1299ebe00e8/2022/07/06/5c717121-032a-4673-9625-83b9082fdd20/cionic-neural-sleeve-1-edit.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-new-neural-sleeve-helps-people-overcome-mobility-challenges/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-new-neural-sleeve-helps-people-overcome-mobility-challenges/",
-      "publishedDateTime": "2022-07-07T04:00:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/education/computers-tech/data-science-industry-reaches-point-of-maturity/",
+      "publishedDateTime": "2022-07-08T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -1069,68 +361,26 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-07-07-getting-bored-try-this-ai-image-generator-that-spits-out-the-weirdest-and-craziest-meme.md",
-      "title": "Getting Bored? Try This AI Image Generator That Spits Out The Weirdest And Craziest Meme",
-      "excerpt": "Artificial intelligence company Open AI introduced a visual incubator (online text to image generator) in 2021 dubbed Dall.E. While Dall.E is a bit restricted although a community project, Dall.E Mini is not.",
+      "path": "_news/2022-07-08-ford-backed-driverless-car-startup-lays-off-150-workers.md",
+      "title": "Ford-Backed Driverless Car Startup Lays Off 150 Workers",
+      "excerpt": "Argo AI laid off about 150 workers this week, a belt-tightening measure following years of fast-paced hiring. The layoffs represented about 6% of the company’s more than 2,000-person workforce, a spokesperson said.",
       "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/34524/getting-bored-try-this-ai-image-generator-that-spits-out-the-weirdest-and-craziest-meme",
-      "originalUrl": "https://in.mashable.com/tech/34524/getting-bored-try-this-ai-image-generator-that-spits-out-the-weirdest-and-craziest-meme",
+      "webUrl": "https://www.wsj.com/articles/ford-backed-driverless-car-startup-lays-off-150-workers-11657289330",
+      "originalUrl": "https://www.wsj.com/articles/ford-backed-driverless-car-startup-lays-off-150-workers-11657289330",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/dall-e_73af.620.jpg",
-          "width": 619,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/34524/getting-bored-try-this-ai-image-generator-that-spits-out-the-weirdest-and-craziest-meme?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/34524/getting-bored-try-this-ai-image-generator-that-spits-out-the-weirdest-and-craziest-meme?amp=1",
-      "publishedDateTime": "2022-07-07T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-healthcare-artificial-intelligence-ai-market-size-share-growth-and-trends-forecast-to-2031.md",
-      "title": "Healthcare Artificial Intelligence Ai Market Size, Share, Growth and Trends, Forecast to 2031",
-      "excerpt": "In-depth Analysis and Data-driven Insights on the Impact of COVID-19 Included in this Global Healthcare Artificial Intelligence (AI) Market Report The Healthcare Artificial Intelligence Market is expected to reach USD 44.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-size-share-growth-and-trends-forecast-to-2031-2022-07-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-size-share-growth-and-trends-forecast-to-2031-2022-07-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
+          "url": "https://images.wsj.net/im-579737/social",
+          "width": 1280,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1140,14 +390,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-07T03:06:00-07:00",
+      "publishedDateTime": "2022-07-08T06:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1163,9 +413,708 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-h3c-tops-in-25-performance-items-at-the-mlperf-ai-benchmark-test.md",
+      "title": "H3C Tops in 25 Performance Items at the MLPerf AI Benchmark Test",
+      "excerpt": "Recently MLPerf an international authoritative AI benchmarking organization announced the latest AI Training list in which H3C servers R5500 G5 R5300 G5 and R4900 G5 topped the closed model partition",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/272614020/h3c-tops-in-25-performance-items-at-the-mlperf-ai-benchmark-test",
+      "originalUrl": "https://www.bignewsnetwork.com/news/272614020/h3c-tops-in-25-performance-items-at-the-mlperf-ai-benchmark-test",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/cus1657866191643.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-08T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai.md",
+      "title": "Nokia to open robotics lab at Indian Institute of Science for 5G and AI",
+      "excerpt": "Nokia and the Indian Institute of Science (IISc) on Friday announced the opening of the Center of Excellence (CoE) in Networked Robotics at the IISc Bengaluru. The CoE will promote inter-disciplinary research involving robotics and advanced communication technologies in 5G and Artificial Intelligence (AI).",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece",
+      "originalUrl": "https://www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://th-i.thgim.com/public/incoming/3wm88/article65615902.ece/alternates/LANDSCAPE_615/2020-07-14T075529Z_1210897008_RC2VSH97A1YU_RTRMADP_3_NOKIA-5G.JPG",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/nokia-to-open-robotics-lab-at-indian-institute-of-science-for-5g-and-ai/article65615809.ece/amp/",
+      "publishedDateTime": "2022-07-08T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-five-benefits-to-consider-when-joining-a-startup-incubator.md",
+      "title": "Five Benefits To Consider When Joining A Startup Incubator",
+      "excerpt": "If you’re an entrepreneur, you’re probably constantly asked this stressful question: “Thinking about drinking the startup incubator kool-aid?” If you’ve already made the daunting decision to take the plunge and found a new venture,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/08/five-benefits-to-consider-when-joining-a-startup-incubator/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/08/five-benefits-to-consider-when-joining-a-startup-incubator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5ef67104c7e8ff0006634c9e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 785,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/08/five-benefits-to-consider-when-joining-a-startup-incubator/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/08/five-benefits-to-consider-when-joining-a-startup-incubator/amp/",
+      "publishedDateTime": "2022-07-08T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-global-control-room-market-growing-as-ai-and-machine-learning-enhance-solution-offerings.md",
+      "title": "Global control room market growing as AI and machine learning enhance solution offerings",
+      "excerpt": "The control room market “shrugged off” pandemic-induced project delays in 2021, as a new Omdia report reveals market growth at 9.6%.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ifsecglobal.com/control-rooms/global-control-room-market-growing-ai-machine-learning-enhance-solutions/",
+      "originalUrl": "https://www.ifsecglobal.com/control-rooms/global-control-room-market-growing-ai-machine-learning-enhance-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s33644.pcdn.co/wp-content/uploads/2019/05/control-room-surveillance-military-1-e1558449260284-300x214.jpeg",
+          "width": 300,
+          "height": 214,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ifsecglobal.com/control-rooms/global-control-room-market-growing-ai-machine-learning-enhance-solutions/amp/",
+      "cdnAmpWebUrl": "https://www-ifsecglobal-com.cdn.ampproject.org/c/s/www.ifsecglobal.com/control-rooms/global-control-room-market-growing-ai-machine-learning-enhance-solutions/amp/",
+      "publishedDateTime": "2022-07-08T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ifsecglobal.com",
+        "domain": "ifsecglobal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research.md",
+      "title": "Nokia partners with IISc to set up centre of excellence for robotics research",
+      "excerpt": "The centre will facilitate engagement and cooperation between academia, start-ups and industry ecosystem partners to research and develop these use cases, Nokia said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research-11657270970688.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research-11657270970688.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/07/08/600x338/2020-07-31T064747Z_322294329_RC264I9GQOL5_RTRMADP_3_NOKIA-RESULTS_1596207832508_1596207905783_1657271117664.JPG",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research/amp-11657270970688.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/nokia-partners-with-iisc-to-set-up-centre-of-excellence-for-robotics-research/amp-11657270970688.html",
+      "publishedDateTime": "2022-07-08T02:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-merck-accelerator-welcomes-biotech-start-ups-specializing-in-ai-and-machine-learning.md",
+      "title": "Merck accelerator welcomes biotech start-ups specializing in AI and machine learning",
+      "excerpt": "Merck (MSD outside the US and Canada) is welcoming applications from early-stage biomedical start-ups for its newly launched Merck Digital Sciences Studio (MDSS): which seeks to support technologies for drug discovery and development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.biopharma-reporter.com/Article/2022/07/08/merck-accelerator-welcomes-biotech-start-ups-with-ai-focus",
+      "originalUrl": "https://www.biopharma-reporter.com/Article/2022/07/08/merck-accelerator-welcomes-biotech-start-ups-with-ai-focus",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.biopharma-reporter.com/var/wrbm_gb_food_pharma/storage/images/publications/pharmaceutical-science/biopharma-reporter.com/article/2022/07/08/merck-accelerator-welcomes-biotech-start-ups-with-ai-focus/15579011-1-eng-GB/Merck-accelerator-welcomes-biotech-start-ups-with-AI-focus.jpg",
+          "width": 788,
+          "height": 443,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-08T01:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "biopharma-reporter",
+        "domain": "biopharma-reporter.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-this-brilliant-app-can-turn-your-text-into-a-smooth-ai-driven-voice-for-thousands-off-the-regular-price.md",
+      "title": "This brilliant app can turn your text into a smooth AI-driven voice for thousands off the regular price.",
+      "excerpt": "Through the use of AI, Speechnow allows users to generate computer voice recordings in a handful of easy steps. Through the use of advanced algorithms, Speechnow customers can create a voice with up to 800 different variations in languages,",
+      "sourceUrl": null,
+      "webUrl": "https://www.macworld.com/article/799256/this-brilliant-app-can-turn-your-text-into-a-smooth-ai-driven-voice-for-thousands-off-the-regular-price.html",
+      "originalUrl": "https://www.macworld.com/article/799256/this-brilliant-app-can-turn-your-text-into-a-smooth-ai-driven-voice-for-thousands-off-the-regular-price.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.macworld.com/wp-content/uploads/2022/07/sale_314201_article_image.jpeg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.macworld.com/article/799256/this-brilliant-app-can-turn-your-text-into-a-smooth-ai-driven-voice-for-thousands-off-the-regular-price.html/amp",
+      "cdnAmpWebUrl": "https://www-macworld-com.cdn.ampproject.org/c/s/www.macworld.com/article/799256/this-brilliant-app-can-turn-your-text-into-a-smooth-ai-driven-voice-for-thousands-off-the-regular-price.html/amp",
+      "publishedDateTime": "2022-07-08T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Macworld",
+        "domain": "macworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/macworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-ibm-buys-data-observability-software-databandai.md",
+      "title": "IBM buys data observability software Databand.ai",
+      "excerpt": "Databand.ai, which is headquartered in Tel Aviv, Israel, is IBM’s fifth acquisition in 2022. It has acquired more than 25 companies since April 2020.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.html",
+      "originalUrl": "https://www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newindianexpress.com/uploads/user/imagelibrary/2022/7/8/w600X390/000_1GI6KL.jpg",
+          "width": 600,
+          "height": 390,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.amp",
+      "cdnAmpWebUrl": "https://www-newindianexpress-com.cdn.ampproject.org/c/s/www.newindianexpress.com/business/2022/jul/08/ibm-buys-data-observability-software-databandai-2474216.amp",
+      "publishedDateTime": "2022-07-07T19:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Indian Express",
+        "domain": "newindianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring.md",
+      "title": "Ford, VW-backed Argo AI lays off 150 workers, slows hiring",
+      "excerpt": "Argo AI, the autonomous vehicle technology startup backed by Ford and Volkswagen, has laid off about 150 people and slowed the pace of hiring, making it the latest tech company to reduce its workforce as recession fears grow.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/",
+      "originalUrl": "https://techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/Argo-Driverless.gif?w=480",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/amp/",
+      "publishedDateTime": "2022-07-07T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-artificial-intelligence-based-cybersecurity-market-rapid-increase-in-the-use-of-mobile-and-other-connected-devices-to-boost-growth-technavio.md",
+      "title": "Artificial Intelligence-based Cybersecurity Market| Rapid increase in the use of mobile and other connected devices to Boost Growth | Technavio",
+      "excerpt": "Do you know the Artificial Intelligence-Based Cybersecurity Market size is expected to grow by USD 18.94 billion at a CAGR of 22.27% during the forecast period? Technavio's latest report on the artificial intelligence-based cybersecurity market is segmented by End-user and Geography is curated by covering all market trends,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-cybersecurity-market-rapid-increase-the-/2022/07/08/9635750.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-based-cybersecurity-market-rapid-increase-the-/2022/07/08/9635750.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1855189/IRTNTR44001.jpg",
+          "width": 400,
+          "height": 226,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-from-cozmo-to-vector-how-anki-designs-robots-with-emotional-intelligence.md",
+      "title": "From Cozmo to Vector: How Anki Designs Robots With Emotional Intelligence",
+      "excerpt": "A short film featuring Cozmo. Cozmo implements AI for a lot of its functionality—particularly object recognition and machine vision for finding its cubes and recognizing people. But the emphasis is on using AI to give Cozmo the ability to convey ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/cozmo-vector-how-anki-designs-robots-emotional-intelligence",
+      "originalUrl": "https://www.designnews.com/electronics-test/cozmo-vector-how-anki-designs-robots-emotional-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Vector_Lifestyle_007_noLogo.jpg",
+          "width": 6504,
+          "height": 3659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-malignant-or-benign-quick-and-accurate-diagnosis-with-artificial-tactile-neurons.md",
+      "title": "Malignant or benign? Quick and accurate diagnosis with artificial tactile neurons",
+      "excerpt": "Teams led by Dr. Hyunjung Yi and Suyoun Lee have developed a simple but highly accurate disease diagnosis technology by combining tactile neuron devices with artificial neural network learning ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-malignant-benign-quick-accurate-diagnosis.amp",
+      "publishedDateTime": "2022-07-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-watch-google-deepminds-alphago-documentary-for-free.md",
+      "title": "Watch Google Deepmind's AlphaGo Documentary for Free",
+      "excerpt": "In 2016, DeepMind, Google's subsidiary focused on artificial intelligence research, made history when AlphaGo, an AI system became one of the world's best Go players. Over the course seven days, in a best-of-five-game competition, AlphaGo bested high ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free",
+      "originalUrl": "https://www.designnews.com/electronics-test/watch-google-deepminds-alphago-documentary-free",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/AlphaGoDocumentary.jpg",
+          "width": 1278,
+          "height": 724,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-how-artificial-intelligence-became-financial-advisors-favorite-new-tool.md",
+      "title": "How artificial intelligence became financial advisors' favorite new tool",
+      "excerpt": "By taking the manual labor out of data management and upkeep, experts can reach new clients and better serve their existing ones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financial-planning.com/news/how-artificial-intelligence-became-financial-advisors-favorite-new-tool",
+      "originalUrl": "https://www.financial-planning.com/news/how-artificial-intelligence-became-financial-advisors-favorite-new-tool",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://arizent.brightspotcdn.com/dims4/default/b8cc43f/2147483647/strip/true/crop/3600x1890+0+0/resize/1200x630!/quality/90/?url=https%3A%2F%2Fsource-media-brightspot.s3.amazonaws.com%2F5c%2F1c%2Fd9f029bb4a1e99690e76f8ad6a51%2Flead-image-for-invest-ai-story.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Planning",
+        "domain": "financial-planning.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-worlds-top-data-scientist-and-trainer-introduces-artificial-intelligence-courses-for-corporate-professionals-and-students.md",
+      "title": "World’s Top Data Scientist and Trainer Introduces Artificial Intelligence Courses for Corporate Professionals and Students",
+      "excerpt": "With more than 20 years of industry experience, the renowned AI trainer and data scientist Kanchankumar Bhowmik launches different courses on data science, AI, machine learning, business analytics, and deep learning for corporate professionals and university students India – July 07,",
+      "sourceUrl": null,
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-7-7-worlds-top-data-scientist-and-trainer-introduces-artificial-intelligence-courses-for-corporate-professionals-and-students",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/getnews-2022-7-7-worlds-top-data-scientist-and-trainer-introduces-artificial-intelligence-courses-for-corporate-professionals-and-students",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T15:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-drive-efficiencies-with-cicd-best-practices-on-amazon-lex.md",
+      "title": "Drive efficiencies with CI/CD best practices on Amazon Lex",
+      "excerpt": "Let’s say you have identified a use case in your organization that you would like to handle via a chatbot. You familiarized yourself with Amazon Lex, built a prototype, and did a few trial interactions with the bot. You liked the overall experience and now want to deploy the bot in your production environment,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/drive-efficiencies-with-ci-cd-best-practices-on-amazon-lex/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/drive-efficiencies-with-ci-cd-best-practices-on-amazon-lex/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/18/Featured-image-ml-9064-1.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T14:28:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

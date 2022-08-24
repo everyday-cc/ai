@@ -2,340 +2,12 @@
   "page": 63,
   "value": [
     {
-      "path": "_news/2022-06-29-ai-ethics-skeptical-about-establishing-so-called-red-flag-ai-laws-for-calling-out-biased-algorithms-in-autonomous-ai-systems.md",
-      "title": "AI Ethics Skeptical About Establishing So-Called Red Flag AI Laws For Calling Out Biased Algorithms In Autonomous AI Systems",
-      "excerpt": "AI Ethics is questioning whether having Red Flag AI Laws would be viable as to coping with biases in AI, including amid the advent of autonomous AI systems.",
+      "path": "_news/2022-06-30-arable-matters-is-the-agbot-robot-tractor-a-game-changer.md",
+      "title": "Arable Matters: Is the AgBot robot tractor a game changer?",
+      "excerpt": "I guess like most visitors to the Highland last week one of the 'must see' items was the driverless robot tractor – the ... probably be their new sprayer technology – which uses artificial intelligence (you’re probably best not to go with the term ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/29/ai-ethics-skeptical-about-establishing-so-called-red-flag-ai-laws-for-calling-out-biased-algorithms-in-autonomous-ai-systems/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/29/ai-ethics-skeptical-about-establishing-so-called-red-flag-ai-laws-for-calling-out-biased-algorithms-in-autonomous-ai-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//623cf233e9cd7e6052c8524d/0x0.jpg?format=jpg&crop=1788,1192,x34,y0,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/29/ai-ethics-skeptical-about-establishing-so-called-red-flag-ai-laws-for-calling-out-biased-algorithms-in-autonomous-ai-systems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/29/ai-ethics-skeptical-about-establishing-so-called-red-flag-ai-laws-for-calling-out-biased-algorithms-in-autonomous-ai-systems/amp/",
-      "publishedDateTime": "2022-06-29T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-tesla-reportedly-lays-off-200-autopilot-employees.md",
-      "title": "Tesla Reportedly Lays Off 200 Autopilot Employees",
-      "excerpt": "In early June, Tesla CEO Elon Musk reportedly told executives that Tesla needed to cut 10% of its staff, based on a \"super bad feeling\" about the economy. Now, as Tesla pares back its workforce, new reports are highlighting where some of those cuts are taking place.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/roadshow/news/tesla-reportedly-lays-off-200-autopilot-employees/",
-      "originalUrl": "https://www.cnet.com/roadshow/news/tesla-reportedly-lays-off-200-autopilot-employees/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/a6733534d3a0516b9621818e4cf8b5c7b7103cc8/2022/06/29/fbc4a995-8be5-45a1-ab52-23c6a2d76843/elon-musk-getty-1395371342-ogi.jpg?auto=webp",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/tesla-reportedly-lays-off-200-autopilot-employees/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/tesla-reportedly-lays-off-200-autopilot-employees/",
-      "publishedDateTime": "2022-06-29T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-roboflow-augments-open-source-datasets-for-improved-computer-vision-ai-models.md",
-      "title": "Roboflow Augments Open-Source Datasets for Improved Computer Vision AI Models",
-      "excerpt": "Roboflow has announced an expansion of its datasets and AI models as part of its Roboflow Universe initiative to help",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/roboflow-augments-open-source-datasets-for-improved-computer-vision-ai-models/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/roboflow-augments-open-source-datasets-for-improved-computer-vision-ai-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/06/Glip_Roboflow-Augments-Open-Source-Datasets-for-Improved-Computer-Vision-AI-Models-1.png",
-          "width": 2917,
-          "height": 1668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/roboflow-augments-open-source-datasets-for-improved-computer-vision-ai-models/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/roboflow-augments-open-source-datasets-for-improved-computer-vision-ai-models/amp/",
-      "publishedDateTime": "2022-06-29T07:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-tesla-fires-200-people-working-on-its-unfinished-self-driving-tech.md",
-      "title": "Tesla Fires 200 People Working on Its Unfinished Self-Driving Tech",
-      "excerpt": "Tesla is gutting a part of its Autopilot department, cutting around 200 jobs from its office in San Mateo, California, CNBC reports.",
-      "sourceUrl": null,
-      "webUrl": "https://futurism.com/the-byte/tesla-fires-people-working-self-driving-tech",
-      "originalUrl": "https://futurism.com/the-byte/tesla-fires-people-working-self-driving-tech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wp-assets.futurism.com/2022/06/tesla-fires-people-working-self-driving-tech-600x315.jpg",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://futurism.com/tesla-fires-people-working-self-driving-tech/amp",
-      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/tesla-fires-people-working-self-driving-tech/amp",
-      "publishedDateTime": "2022-06-29T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Futurism",
-        "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-is-artificial-intelligence-out-of-control-start-here.md",
-      "title": "Is artificial intelligence out of control? | Start Here",
-      "excerpt": "Artificial Intelligence News Artificial intelligence is becoming “like electricity”— it’s being used in almost every sector. But what exactly is it? And why are many governments trying to work out how to regulate it?",
-      "sourceUrl": null,
-      "webUrl": "https://www.techstore.ie/is-artificial-intelligence-out-of-control-start-here/",
-      "originalUrl": "https://www.techstore.ie/is-artificial-intelligence-out-of-control-start-here/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PATxJ-wwcUY/maxresdefault.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techstore.ie/is-artificial-intelligence-out-of-control-start-here/amp/",
-      "cdnAmpWebUrl": "https://www-techstore-ie.cdn.ampproject.org/c/s/www.techstore.ie/is-artificial-intelligence-out-of-control-start-here/amp/",
-      "publishedDateTime": "2022-06-29T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techstore",
-        "domain": "techstore.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-spotify-is-developing-ai-tools-to-hook-users-on-music-creation.md",
-      "title": "Spotify Is Developing AI Tools To Hook Users On Music Creation",
-      "excerpt": "One tool will let you tweak a song’s rhythm or melody. Another can take the harmony of a pop song from, say, Justin Bieber or Drake and combine it with the melody and rhythm of a fugue by Schubert or Bach,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/williamhochberg/2022/06/29/spotify-is-developing-ai-tools-to-hook-users-on-music-creation/",
-      "originalUrl": "https://www.forbes.com/sites/williamhochberg/2022/06/29/spotify-is-developing-ai-tools-to-hook-users-on-music-creation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62b8f318993181ecf4b0235c/0x0.jpg?format=jpg&crop=2841,1895,x0,y232,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/williamhochberg/2022/06/29/spotify-is-developing-ai-tools-to-hook-users-on-music-creation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/williamhochberg/2022/06/29/spotify-is-developing-ai-tools-to-hook-users-on-music-creation/amp/",
-      "publishedDateTime": "2022-06-29T06:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year.md",
-      "title": "Abnormal Security Recognized as the Winner of 2022 Microsoft Rising Azure Technology Partner of the Year",
-      "excerpt": "Abnormal Security, the leading behavioral AI-based email security platform, today announced it has won the 2022 Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/",
-      "originalUrl": "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/abnormal-security-recognized-as-the-winner-of-2022-microsoft-rising-azure-technology-partner-of-the-year/amp/",
-      "publishedDateTime": "2022-06-29T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-raystation-12a-brings-deep-learning-segmentation-for-all-users-as-well-as-new-features-for-brachytherapy.md",
-      "title": "RayStation 12A brings deep learning segmentation for all users as well as new features for brachytherapy",
-      "excerpt": "With the release of RayStation 12A, deep learning segmentation is available for everyone that is using RayStation for patient modeling. New and updated segmentation models will be released on a ...",
-      "sourceUrl": null,
-      "webUrl": "https://fox4kc.com/business/press-releases/cision/20220629IO04290/raystation-12a-brings-deep-learning-segmentation-for-all-users-as-well-as-new-features-for-brachytherapy/",
-      "originalUrl": "https://fox4kc.com/business/press-releases/cision/20220629IO04290/raystation-12a-brings-deep-learning-segmentation-for-all-users-as-well-as-new-features-for-brachytherapy/",
+      "webUrl": "https://www.thescottishfarmer.co.uk/arable/20245078.arable-matters-agbot-robot-tractor-game-changer/",
+      "originalUrl": "https://www.thescottishfarmer.co.uk/arable/20245078.arable-matters-agbot-robot-tractor-game-changer/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -345,510 +17,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T06:50:00-07:00",
+      "publishedDateTime": "2022-06-30T04:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "FOX4 Kansas City",
-        "domain": "fox4kc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-april-taps-ai-to-help-personalize-and-autofill-tax-filings.md",
-      "title": "April taps AI to help personalize and autofill tax filings",
-      "excerpt": "April, a startup developing a system to help personalize tax filings by pulling information from various apps and systems, has raised $30 million in a venture funding round.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/29/april-taps-ai-to-help-personalize-and-autofill-tax-filings/",
-      "originalUrl": "https://techcrunch.com/2022/06/29/april-taps-ai-to-help-personalize-and-autofill-tax-filings/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/closed_loop1.png?w=444",
-          "width": 444,
-          "height": 680,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/29/april-taps-ai-to-help-personalize-and-autofill-tax-filings/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/29/april-taps-ai-to-help-personalize-and-autofill-tax-filings/amp/",
-      "publishedDateTime": "2022-06-29T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality.md",
-      "title": "Tech Giants Pour Billions Into AI, but Hype Doesn’t Always Match Reality",
-      "excerpt": "After years of companies emphasizing the potential of artificial intelligence, researchers say it’s now time to reset expectations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394?mod=hp_listb_pos4",
-      "originalUrl": "https://www.wsj.com/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394?mod=hp_listb_pos4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-568242/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394",
-      "publishedDateTime": "2022-06-29T05:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-cognitive-media-market-size-future-scope-opportunities-with-strategic-growth-and-top-players-forecast-2022-2031.md",
-      "title": "Cognitive Media Market Size Future Scope, Opportunities with Strategic Growth and Top Players Forecast 2022-2031",
-      "excerpt": "Competitive Landscape The Cognitive Media Market is highly competitive ... Google LLC, Amazon Web Services, Microsoft Corporation, among others. The dynamic nature of business environment in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-size-future-scope-opportunities-with-strategic-growth-and-top-players-forecast-2022-2031-2022-06-29",
-      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-media-market-size-future-scope-opportunities-with-strategic-growth-and-top-players-forecast-2022-2031-2022-06-29",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T05:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-can-artists-still-benefit-from-nfts.md",
-      "title": "Can Artists Still Benefit From NFTs?",
-      "excerpt": "Despite the recent cryptocurrency crash and a more sober approach to digital art by collectors, artists still can gain a lot from non-fungible tokens if they use them wisely.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/can-artists-still-benefit-from-nfts/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/can-artists-still-benefit-from-nfts/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6192c2ac7fb49741ecd7576d/0x0.jpg?format=jpg&width=1200",
-          "width": 1066,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/can-artists-still-benefit-from-nfts/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/can-artists-still-benefit-from-nfts/amp/",
-      "publishedDateTime": "2022-06-29T05:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-is-ai-making-your-business-better.md",
-      "title": "Is AI making your business better?",
-      "excerpt": "Technologies like Support Vector Machines and Artificial Neural Networks can learn the patterns that occur and predict the future of financial markets and High-Frequency Trades with high accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.in/tech/enterprise/news/artificial-intelligence-benefits-in-business/articleshow/92538071.cms",
-      "originalUrl": "https://www.businessinsider.in/tech/enterprise/news/artificial-intelligence-benefits-in-business/articleshow/92538071.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.businessinsider.in/photo/92538071/artificial-intelligence-benefits-in-business.jpg?imgsize=69166",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T05:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider India",
-        "domain": "businessinsider.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-robotic-prosthetic-market-segmentation-consumption-revenue-and-growth-rate-by-2028.md",
-      "title": "Robotic Prosthetic Market Segmentation, Consumption, Revenue And Growth Rate By 2028",
-      "excerpt": "The global robotic prosthetic market size is expected ... according to latest report by Reports and Data. Emergence of mind-controlled humonics is considered one of the most important factors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/robotic-prosthetic-market-segmentation-consumption-revenue-and-growth-rate-by-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/robotic-prosthetic-market-segmentation-consumption-revenue-and-growth-rate-by-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/Forest-Fires-Europe-AFP-1K-01-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T05:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-ai-tech-company-nala-robotics-signs-expansion-deal-with-slice-factory-pizza-chain.md",
-      "title": "AI Tech Company Nala Robotics Signs Expansion Deal with Slice Factory Pizza Chain",
-      "excerpt": "Newly Introduced Pizzaiola to Serve Up Pizza Restaurant's Signature 28-inch Jumbo Pies, Including Pasta Dishes and Wings ARLINGTON HEIGHTS, Ill.,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-tech-company-nala-robotics-signs-expansion-deal-with-slice-factory-pizza-chain-1031557418",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-tech-company-nala-robotics-signs-expansion-deal-with-slice-factory-pizza-chain-1031557418",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T05:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-renesas-and-cyberon-partner-to-deliver-integrated-voice-user-interface-solutions-for-renesas-ra-mcus-supporting-over-40-global-languages.md",
-      "title": "Renesas and Cyberon Partner to Deliver Integrated Voice User Interface Solutions for Renesas RA MCUs Supporting Over 40 Global Languages",
-      "excerpt": "Renesas Electronics Corporation (TSE:6723), a premier supplier of advanced semiconductor solutions, and Cyberon Corporation, a leading embedded speech solution provider, today announced that they have partnered to deliver voice user interface (VUI) solutions for customers using Renesas’ entire RA MCU line.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-taipei-renesas-electronics-corp-3e02bbf691e84c7c8dc21e19a104e0c6",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-taiwan-taipei-renesas-electronics-corp-3e02bbf691e84c7c8dc21e19a104e0c6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-global-artificial-intelligence-ai-market-report-2022-with-special-focus-on-investments-with-an-overview-of-patents-and-patent-applications.md",
-      "title": "Global Artificial Intelligence (AI) Market Report 2022 with Special Focus on Investments with an Overview of Patents and Patent Applications",
-      "excerpt": "Market: Investments vs Potential\" report has been added to ResearchAndMarkets.com's offering. The scope of this report is broad and covers the global markets for AI, which is increasingly being implemented across a wide range of industries for various applications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-market-report-2022-with-/2022/06/29/9630648.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-market-report-2022-with-/2022/06/29/9630648.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-how-ai-can-help-solve-cybersecuritys-predicament.md",
-      "title": "How AI Can Help Solve Cybersecurity’s Predicament",
-      "excerpt": "As thought leaders search for a failsafe cybersecurity standard, they’ve realized that a hard shift away from software and toward a hardware solution is critical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62bb116946bce888db123430/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/amp/",
-      "publishedDateTime": "2022-06-29T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-global-industrial-robot-market-report-2022-2026-growing-electronics-industry-and-growing-role-of-artificial-intelligence-in-robotics-driving.md",
-      "title": "Global Industrial Robot Market Report 2022-2026: Growing Electronics Industry and Growing Role of Artificial Intelligence in Robotics Driving Sector",
-      "excerpt": "Some of these innovations include underwater robotics, human-robot interaction, legged mobility, machine learning (ML), and self-driving vehicles. More trends in the market are believed to grow ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/06/g27896023/global-industrial-robot-market-report-2022-2026-growing-electronics-industry-and-growing-role-of-a",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/g27896023/global-industrial-robot-market-report-2022-2026-growing-electronics-industry-and-growing-role-of-a",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27896023",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27896023",
-      "publishedDateTime": "2022-06-29T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "The Scottish Farmer",
+        "domain": "thescottishfarmer.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -864,21 +37,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-29-how-to-make-ai-art-dall-e-mini-ai-dungeon-and-more.md",
-      "title": "How to make AI art: DALL-E mini, AI Dungeon, and more",
-      "excerpt": "AI art encompasses everything from text adventures to AI-generated images produced by DALL-E Mini and Latitude Vantage, as well as text-to-speech apps that will \"speak\" in the voice of your favorite characters.",
+      "path": "_news/2022-06-30-guardforce-stock-gains-on-collaboration-with-hong-kong-industrial-ai-robotics-centre.md",
+      "title": "Guardforce stock gains on collaboration with Hong Kong Industrial AI, Robotics Centre",
+      "excerpt": "Guardforce AI (GFAI) is rising 7.1% premarket on Thursday after it entered in a collaboration pact with Hong Kong Industrial Artificial Intelligence and Robotics Centre, founded by",
       "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/788422/how-to-get-started-with-ai-art-dall-e-mini-ai-dungeon-and-more.html",
-      "originalUrl": "https://www.pcworld.com/article/788422/how-to-get-started-with-ai-art-dall-e-mini-ai-dungeon-and-more.html",
+      "webUrl": "https://seekingalpha.com/news/3853175-guardforce-stock-gains-on-collaboration-with-hong-kong-industrial-ai-robotics-centre",
+      "originalUrl": "https://seekingalpha.com/news/3853175-guardforce-stock-gains-on-collaboration-with-hong-kong-industrial-ai-robotics-centre",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 92,
       "tags": null,
       "images": [
         {
-          "url": "https://b2c-contenthub.com/wp-content/uploads/2022/06/craiyon_2022-6-21_9-42-40.png?w=981",
-          "width": 980,
-          "height": 1199,
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -886,56 +59,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/788422/how-to-get-started-with-ai-art-dall-e-mini-ai-dungeon-and-more.html/amp",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/788422/how-to-get-started-with-ai-art-dall-e-mini-ai-dungeon-and-more.html/amp",
-      "publishedDateTime": "2022-06-29T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-aurora-mobile-brings-jpush-to-amazon-web-services-marketplace.md",
-      "title": "Aurora Mobile Brings JPush to Amazon Web Services Marketplace",
-      "excerpt": "Aurora Mobile Brings JPush to Amazon Web Services Marketplace. SHENZHEN, China, June 29, 2022 (GLOBE NEWSWIRE) -- Aurora Mobile Limited (NASDAQ: JG) (“Aurora Mobile” or the Co",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobilitytechzone.com/lte/news/2022/06/29/9630584.htm",
-      "originalUrl": "https://www.mobilitytechzone.com/lte/news/2022/06/29/9630584.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T03:34:00-07:00",
+      "publishedDateTime": "2022-06-30T04:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Mobility Techzone",
-        "domain": "mobilitytechzone.com",
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -945,26 +75,26 @@
         "news"
       ],
       "topics": [
-        "AWS AI",
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-29-the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store.md",
-      "title": "The Role Of AI And Edge Computing In Building The Checkout-Free Store",
-      "excerpt": "The foundation of a seamless, checkout-free shopping experience is a set of sophisticated, compute-intensive AI models that map a customer's journey through a store.",
+      "path": "_news/2022-06-30-the-future-of-online-education-and-the-impact-of-ai.md",
+      "title": "The future of online education and the impact of AI",
+      "excerpt": "Online education is here to stay, no doubt. The practicality and accessibility of online courses cannot be denied.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/",
+      "webUrl": "https://knowtechie.com/the-future-of-online-education-and-the-impact-of-ai/",
+      "originalUrl": "https://knowtechie.com/the-future-of-online-education-and-the-impact-of-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6183e5d5ee59e3b06ef1404b/0x0.jpg?format=jpg&width=1200",
-          "width": 1028,
-          "height": 685,
+          "url": "https://knowtechie.com/wp-content/uploads/2022/01/apple-education-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -972,9 +102,52 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/amp/",
-      "publishedDateTime": "2022-06-29T03:30:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KnowTechie",
+        "domain": "knowtechie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-why-no-one-trusts-your-ai-predictions-and-what-you-can-do-about-it.md",
+      "title": "Why No One Trusts Your AI Predictions And What You Can Do About It",
+      "excerpt": "Here are three core elements of trustworthy AI and tips on how to bridge the gap between data science and business users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/30/why-no-one-trusts-your-ai-predictions-and-what-you-can-do-about-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/30/why-no-one-trusts-your-ai-predictions-and-what-you-can-do-about-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//5ff4714089da2fe280f7f974/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/30/why-no-one-trusts-your-ai-predictions-and-what-you-can-do-about-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/30/why-no-one-trusts-your-ai-predictions-and-what-you-can-do-about-it/amp/",
+      "publishedDateTime": "2022-06-30T04:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1001,21 +174,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-29-cognitive-immobility-when-youre-mentally-trapped-in-a-place-from-your-past.md",
-      "title": "‘Cognitive immobility’ – when you’re mentally trapped in a place from your past",
-      "excerpt": "This describes what I have dubbed “cognitive immobility”, outlined in my new research article, published in Culture & Psychology. The study used autoethnography, a research method in which the ...",
+      "path": "_news/2022-06-30-heres-how-ai-is-helping-make-babies-by-revolutionizing-ivf.md",
+      "title": "Here’s How AI Is Helping Make Babies By Revolutionizing IVF",
+      "excerpt": "Infertility is rapidly becoming an epidemic. Although IVF has been around for over 40 years, it’s plagued by challenges. Here’s how AI is changing the game by reinventing fertility treatments.",
       "sourceUrl": null,
-      "webUrl": "https://theconversation.com/cognitive-immobility-when-youre-mentally-trapped-in-a-place-from-your-past-185913",
-      "originalUrl": "https://theconversation.com/cognitive-immobility-when-youre-mentally-trapped-in-a-place-from-your-past-185913",
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2022/06/30/heres-how-ai-is-helping-make-babies-by-revolutionizing-ivf/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2022/06/30/heres-how-ai-is-helping-make-babies-by-revolutionizing-ivf/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://images.theconversation.com/files/471584/original/file-20220629-26-d4f8yo.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62bce1bfc47fa59c5e70f110/0x0.jpg?format=jpg&crop=2087,1174,x0,y191,safe&width=1200",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1023,14 +196,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/cognitive-immobility-when-youre-mentally-trapped-in-a-place-from-your-past-185913",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/cognitive-immobility-when-youre-mentally-trapped-in-a-place-from-your-past-185913",
-      "publishedDateTime": "2022-06-29T03:28:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2022/06/30/heres-how-ai-is-helping-make-babies-by-revolutionizing-ivf/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2022/06/30/heres-how-ai-is-helping-make-babies-by-revolutionizing-ivf/amp/",
+      "publishedDateTime": "2022-06-30T03:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1039,69 +221,25 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-29-7-key-microsoft-azure-analytics-services-plus-one-extra.md",
-      "title": "7 key Microsoft Azure analytics services (plus one extra)",
-      "excerpt": "Microsoft offers an array of options for data analytics in its cloud that are meant to operate together as a full analytics stack. Here is an overview of the core services and where each fits.",
+      "path": "_news/2022-06-30-tensor-core-equivalent-likely-to-get-embedded-in-amd-rdna3.md",
+      "title": "Tensor Core equivalent Likely to Get Embedded in AMD rDNA3",
+      "excerpt": "NVIDIA A100 is the first elastic, multi-instance GPU tha... TYAN Launches AI-Optimized Server Platforms Powered by NVIDIA V100S Tensor Core GPUs - 05/08/2020 08:23 AM TYAN launched the latest GPU ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/402086/7-key-microsoft-azure-analytics-services-plus-one-extra.html",
-      "originalUrl": "https://www.cio.com/article/402086/7-key-microsoft-azure-analytics-services-plus-one-extra.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/06/cso_budgets_data_analytics_charts_money_finance_thinkstock_475775688_2400x1600-100808344-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/402086/7-key-microsoft-azure-analytics-services-plus-one-extra.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/402086/7-key-microsoft-azure-analytics-services-plus-one-extra.html/amp",
-      "publishedDateTime": "2022-06-29T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-ai-startup-rolls-out-effort-to-autonomously-detect-mass-shooters.md",
-      "title": "AI Startup Rolls Out Effort to Autonomously Detect Mass Shooters",
-      "excerpt": "Kogniz Inc., a startup that says its artificial intelligence ... based company has focused its AI on offering clients the ability to use their on-premises cameras to detect things like defective ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-startup-rolls-out-effort-to-autonomously-detect-mass-shooters-11656496800",
-      "originalUrl": "https://www.wsj.com/articles/ai-startup-rolls-out-effort-to-autonomously-detect-mass-shooters-11656496800",
+      "webUrl": "https://www.guru3d.com/news-story/tensor-core-equivalent-likely-to-get-embedded-in-amd-rdna3,9.html",
+      "originalUrl": "https://www.guru3d.com/news-story/tensor-core-equivalent-likely-to-get-embedded-in-amd-rdna3,9.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-573411/social",
-          "width": 1225,
-          "height": 640,
+          "url": "https://images.nvidia.com/aem-dam/Solutions/Data-Center/tensorcore/Volta-Tensor-Core_30fps_FINAL_994x559.gif",
+          "width": 994,
+          "height": 559,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1111,7 +249,300 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T03:00:00-07:00",
+      "publishedDateTime": "2022-06-30T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guru3D.com",
+        "domain": "guru3d.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-abu-dhabis-hub71-is-getting-an-ai-centre-of-excellence.md",
+      "title": "Abu Dhabi’s Hub71 is getting an AI Centre of Excellence",
+      "excerpt": "AI could unlock $5.5 trillion to $12.6 trillion in value globally by 2030 and offer immense potential in sectors that are of strategic importance to Abu Dhabi’s socio-economi",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/business/markets/abu-dhabis-hub71-is-getting-an-ai-centre-of-excellence-1.88949625",
+      "originalUrl": "https://gulfnews.com/business/markets/abu-dhabis-hub71-is-getting-an-ai-centre-of-excellence-1.88949625",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2022/06/30/Hub71-and-e-_181b4149c0d_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/business/markets/abu-dhabis-hub71-is-getting-an-ai-centre-of-excellence-1.88949625",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/markets/abu-dhabis-hub71-is-getting-an-ai-centre-of-excellence-1.88949625",
+      "publishedDateTime": "2022-06-30T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo.md",
+      "title": "Wealthcare Advisory Partners LLC Has $314,000 Position in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO)",
+      "excerpt": "Wealthcare Advisory Partners LLC lessened its holdings in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO – Get Rating) by 6.7% in the first quarter, according to the company in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/06/30/wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/",
+      "originalUrl": "https://www.etfdailynews.com/2022/06/30/wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 103,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks7.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/06/30/wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/30/wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo/amp/",
+      "publishedDateTime": "2022-06-30T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-ai-ethics-should-be-hardcoded-like-security-by-design.md",
+      "title": "AI ethics should be hardcoded like security by design",
+      "excerpt": "With security by design essential to ensure IT systems are built to be robust from development, the same approach should be applied to artificial intelligence tools so these can be deployed responsibly and without bias,",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-ethics-should-be-hardcoded-like-security-by-design/",
+      "originalUrl": "https://www.zdnet.com/article/ai-ethics-should-be-hardcoded-like-security-by-design/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-ethics-should-be-hardcoded-like-security-by-design/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-ethics-should-be-hardcoded-like-security-by-design/",
+      "publishedDateTime": "2022-06-30T01:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-chinas-baidu-joins-race-to-develop-driverless-cars.md",
+      "title": "China’s Baidu joins race to develop driverless cars",
+      "excerpt": "With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the corner of a delivery cart jutting into its lane.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arkansasonline.com/news/2022/jun/30/chinas-baidu-joins-race-to-develop-driverless-cars/",
+      "originalUrl": "https://www.arkansasonline.com/news/2022/jun/30/chinas-baidu-joins-race-to-develop-driverless-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wehco.media.clients.ellingtoncms.com/img/photos/2022/06/29/2DChinaCars0630_t600.jpg?4326734cdb8e39baa3579048ef63ad7b451e7676",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T00:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Arkansas Democrat-Gazette",
+        "domain": "arkansasonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-healthcare-natural-language-processing-market-major-technology-giants-in-buzz-again-nuance-health-fidelity-apixio.md",
+      "title": "Healthcare Natural Language Processing Market – Major Technology Giants in Buzz Again | Nuance, Health Fidelity, Apixio",
+      "excerpt": "Advance Market Analytics published a new research publication on “Global Healthcare Natural Language Processing Market Insights, to 2027” with 232 pages and enriched with self-explained Tables ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/healthcare-natural-language-processing-market-major-technology-giants-in-buzz-again-nuance-health-fidelity-apixio",
+      "originalUrl": "https://www.digitaljournal.com/pr/healthcare-natural-language-processing-market-major-technology-giants-in-buzz-again-nuance-health-fidelity-apixio",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/Supreme-Court-USA-SCOTUS-Kavanaugh-Roberts-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T22:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-industrial-giant-siemens-to-buy-brightly-software-in-158b-deal.md",
+      "title": "Industrial giant Siemens to buy Brightly Software in $1.58B deal",
+      "excerpt": "The German industrial giant Siemens AG said today it has agreed to buy U.S.-based asset management software firm Brightly Software Inc. for $1.58 billion, with the deal expected to close before ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/06/27/industrial-giant-siemens-buy-brightly-software-1-58b-deal/",
+      "originalUrl": "https://siliconangle.com/2022/06/27/industrial-giant-siemens-buy-brightly-software-1-58b-deal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T22:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality.md",
+      "title": "Tech Giants Pour Billions Into AI, but Hype Doesn’t Always Match Reality",
+      "excerpt": "After years of companies emphasizing the potential of artificial intelligence, researchers say it’s now time to reset expectations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394",
+      "originalUrl": "https://www.wsj.com/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-568242/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/tech-giants-pour-billions-into-ai-but-hype-doesnt-always-match-reality-11656508394",
+      "publishedDateTime": "2022-06-29T21:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wall Street Journal",
@@ -1135,6 +566,541 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-emotionally-intelligent-education-defining-student-experiences.md",
+      "title": "Emotionally Intelligent Education Defining Student Experiences",
+      "excerpt": "I could feel from their body what they may not be able to put into words and a recognition that it's not the same as ... That mentality says, “if I'm a good object, that means I'm doing good.” It goes back to absorption foreshadows transcendence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/",
+      "originalUrl": "https://www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62bd209a2bd95f3270d547b7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/rodberger/2022/06/30/emotionally-intelligent-education-defining-student-experiences/amp/",
+      "publishedDateTime": "2022-06-29T21:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-waymo-opens-a-new-self-driving-trucking-hub-in-lancaster.md",
+      "title": "Waymo opens a new self-driving trucking hub in Lancaster",
+      "excerpt": "Workers are spread across the trucking hub, some doing maintenance on the self-driving Waymo Via big rig technology and others cleaning the exterior or monitoring other operations. When the facility is in full operation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/",
+      "originalUrl": "https://www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/I3ZJpQ8RKNjwwQTVFERFUkW1z-g=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/GL4BTWS6TVE63IINRYM7KYHAW4.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-dallasnews-com.cdn.ampproject.org/c/s/www.dallasnews.com/business/autos/2022/06/29/waymo-opens-a-new-self-driving-trucking-hub-in-lancaster/?outputType=amp",
+      "publishedDateTime": "2022-06-29T21:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dallas Morning News",
+        "domain": "dallasnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-mcd-school-students-to-be-made-aware-of-waste-management-through-ai.md",
+      "title": "MCD School Students To Be Made Aware Of Waste Management Through AI",
+      "excerpt": "MCD has launched a new initiative to make students of its schools aware of waste management through artificial intelligence, officials said on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://www.republicworld.com/india-news/city-news/mcd-school-students-to-made-aware-of-waste-management-through-ai-articleshow.html",
+      "originalUrl": "https://www.republicworld.com/india-news/city-news/mcd-school-students-to-made-aware-of-waste-management-through-ai-articleshow.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.republicworld.com/republic-prod/stories/promolarge/xhdpi/uu7om23idwwd0odl_1656559653.jpeg",
+          "width": 768,
+          "height": 437,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.republicworld.com/amp/india-news/city-news/mcd-school-students-to-made-aware-of-waste-management-through-ai-articleshow.html",
+      "cdnAmpWebUrl": "https://www-republicworld-com.cdn.ampproject.org/c/s/www.republicworld.com/amp/india-news/city-news/mcd-school-students-to-made-aware-of-waste-management-through-ai-articleshow.html",
+      "publishedDateTime": "2022-06-29T20:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RepublicWorld",
+        "domain": "republicworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-using-azure-communication-services-for-email.md",
+      "title": "Using Azure Communication Services for email",
+      "excerpt": "use the Microsoft Graph APIs to monitor an Exchange Online mailbox set as the “reply to” address in your messages. This will allow you to use tools like Cognitive Services to generate dynamic ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3664938/using-azure-communication-services-for-email.html",
+      "originalUrl": "https://www.infoworld.com/article/3664938/using-azure-communication-services-for-email.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/01/incoming_emails_by_thinkstock_dns_security_locked_server_parked_domain_by_imaginima_gettyimages_3x2_2122x1415-100825984-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3664938/using-azure-communication-services-for-email.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664938/using-azure-communication-services-for-email.amp.html",
+      "publishedDateTime": "2022-06-29T19:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-birmingham-police-searching-for-missing-veteran-71-with-cognitive-disorder.md",
+      "title": "Birmingham police searching for missing veteran, 71, with cognitive disorder",
+      "excerpt": "Birmingham police asked for the public’s help Wednesday in finding a 71-year-old veteran with a cognitive disorder. Kerry Lee Walker was last seen at 7621 2nd Ave. South wearing a gray shirt ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.al.com/news/birmingham/2022/06/birmingham-police-searching-for-missing-veteran-71-with-cognitive-disorder.html",
+      "originalUrl": "https://www.al.com/news/birmingham/2022/06/birmingham-police-searching-for-missing-veteran-71-with-cognitive-disorder.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T19:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "al.com",
+        "domain": "al.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-databricks-open-sources-delta-lake-data-lake.md",
+      "title": "Databricks open sources Delta Lake data lake",
+      "excerpt": "Databricks is open sourcing Delta Lake to counter criticism from rivals and take on Apache Iceberg as well as data warehouse products from competitors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reseller.co.nz/article/699427/databricks-open-sources-delta-lake-data-lake/?fpid=1",
+      "originalUrl": "https://www.reseller.co.nz/article/699427/databricks-open-sources-delta-lake-data-lake/?fpid=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/dreamstime_s_247131468.jpg",
+          "width": 487,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T18:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reseller News",
+        "domain": "reseller.co.nz",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-inclusion-of-vr-technology-in-cognitive-rehabilitation-research-and-care-for-multiple-sclerosis.md",
+      "title": "Inclusion of VR technology in cognitive rehabilitation research and care for multiple sclerosis",
+      "excerpt": "In a recent article, Kessler Foundation scientists advocated for the incorporation of virtual reality (VR) technology in cognitive rehabilitation research in multiple sclerosis (MS). They ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220630/Inclusion-of-VR-technology-in-cognitive-rehabilitation-research-and-care-for-multiple-sclerosis.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220630/Inclusion-of-VR-technology-in-cognitive-rehabilitation-research-and-care-for-multiple-sclerosis.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Girl_in_wheelchair-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-new-system-allows-self-driving-cars-to-make-more-human-decisions.md",
+      "title": "New System Allows Self-Driving Cars to Make More Human Decisions",
+      "excerpt": "(Image source: Chelsea Turner) A team of scientists at MIT have created a system using simple maps and visual data to enable driverless cars to navigate ... director of the Computer Science and Artificial Intelligence Laboratory (CSAIL) and a professor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/new-system-allows-self-driving-cars-make-more-human-decisions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/humanreasondriving.jpg",
+          "width": 639,
+          "height": 426,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-reflections-from-ethics-and-safety-on-the-ground-at-deepmind.md",
+      "title": "Reflections from ethics and safety ‘on the ground’ at DeepMind",
+      "excerpt": "Boxi shares their experiences working as a program specialist on the ethics & society team to support ethical, safe and beneficial AI development, highlighting the importance of interdisciplinary and sociotechnical thinking.",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/reflections-from-ethics-and-safety-on-the-ground-at-deepmind",
+      "originalUrl": "https://www.deepmind.com/blog/reflections-from-ethics-and-safety-on-the-ground-at-deepmind",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-the-metaverse-in-2040.md",
+      "title": "The Metaverse in 2040",
+      "excerpt": "See our research on: Gun Policy | Economy | Abortion | Russia ... They believe the infusion of more data into people’s experiences, progress in artificial intelligence (AI) assistive systems and the creation of entirely new spaces and experiences ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pewresearch.org/internet/2022/06/30/the-metaverse-in-2040/",
+      "originalUrl": "https://www.pewresearch.org/internet/2022/06/30/the-metaverse-in-2040/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.pewresearch.org/internet/wp-content/uploads/sites/9/2022/06/PI_22.06.28_metaverse_featured.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pew Research Center",
+        "domain": "pewresearch.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-chinas-baidu-races-waymo-gm-to-develop-self-driving-cars.md",
+      "title": "China’s Baidu Races Waymo, GM to Develop Self-driving Cars",
+      "excerpt": "A Counter­revolution in the Philippines: Marcos 2.0 With no one at the wheel, a self-driving taxi developed by tech giant Baidu Inc. is rolling down a Beijing street when its sensors spot the ...",
+      "sourceUrl": null,
+      "webUrl": "https://thediplomat.com/2022/06/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
+      "originalUrl": "https://thediplomat.com/2022/06/chinas-baidu-races-waymo-gm-to-develop-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thediplomat.com/wp-content/uploads/2022/06/sizes/td-story-s-2/thediplomat_2022-06-29-165744.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T16:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Diplomat",
+        "domain": "thediplomat.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-use-a-custom-image-to-bring-your-own-development-environment-to-rstudio-on-amazon-sagemaker.md",
+      "title": "Use a custom image to bring your own development environment to RStudio on Amazon SageMaker",
+      "excerpt": "RStudio on Amazon SageMaker is the industry’s first fully managed RStudio Workbench in cloud. You can quickly launch the familiar RStudio integrated development environment (IDE), and dial up and down the underlying compute resources without interrupting your work, making it easy to build machine learning",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-a-custom-image-to-bring-your-own-development-environment-to-rstudio-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-a-custom-image-to-bring-your-own-development-environment-to-rstudio-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/29/Featured-images-for-ml9305.jpg",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T15:04:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
       ]
     }
   ],

@@ -2,6 +2,259 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-11-for-fun-not-phishing-is-why-most-users-change-their-voice-identity-online.md",
+      "title": "For Fun, Not Phishing, Is Why Most Users Change Their Voice Identity Online",
+      "excerpt": "In a world where the transparency of online communications is touted as a virtue, you might question the motives of people using voice-changing technology tools. Is it for mischief or malice? While cynics may assume that voice tech is only associated with basement hackers and scam artists,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-spain-phishing-c89293d42bf144cd969a7479ed1166e0",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-spain-phishing-c89293d42bf144cd969a7479ed1166e0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-a-beginners-guide-to-the-ai-apocalypse-the-democratization-of-expertise.md",
+      "title": "A beginner’s guide to the AI apocalypse: The democratization of ‘expertise’",
+      "excerpt": "They say \"garbage in, garbage out,\" but what happens when our data's the garbage and big tech starts feeding it back to us in a nice wrapper?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/beginners-guide-ai-apocalypse-the-democratization-of-expertise",
+      "originalUrl": "https://thenextweb.com/news/beginners-guide-ai-apocalypse-the-democratization-of-expertise",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2Frobot-1.jpg&signature=0f5c63425d8da190315e4e4944783307",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better.md",
+      "title": "Amazon's Alexa scientists demonstrate bigger AI isn't always better",
+      "excerpt": "Despite deep learning's obsession with big models and generalist approaches, Amazon shows top results can be had with economical and somewhat focused, if not specialized, models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
+      "originalUrl": "https://www.zdnet.com/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5e79d4892d800fecee63c8b5bde6410152fd6bcc/2022/08/10/7374585a-a866-491a-8405-4352c3c6e2a1/amazon-2022-alextm-20b-summarizing.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
+      "publishedDateTime": "2022-08-10T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Machine Learning",
+        "Natural Language Processing",
+        "AI Hardware",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-10-top-artificial-intelligence-ai-solutions-in-2022.md",
+      "title": "10 top artificial intelligence (AI) solutions in 2022",
+      "excerpt": "As AI-powered technologies continue to advance and more organizations adopt them, IT leaders must be sure to ask themselves how the solutions they choose fit into their goals as a business.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/",
+      "originalUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1131331897-e1655419471228.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/",
+      "publishedDateTime": "2022-08-10T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI",
+        "AI in Healthcare",
+        "Microsoft AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-how-artificial-intelligence-can-make-our-food-safer.md",
+      "title": "How artificial intelligence can make our food safer",
+      "excerpt": "Food recalls could be a thing of the past if artificial intelligence (AI) is utilized in food production, according to a recent study from UBC and the University of Guelph.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-food-safer.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-food-safer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/how-artificial-intelli.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-food-safer.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-artificial-intelligence-food-safer.amp",
+      "publishedDateTime": "2022-08-10T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-ai-autopilot-could-let-autonomous-aircraft-fly-in-busy-airspaces.md",
       "title": "AI autopilot could let autonomous aircraft fly in busy airspaces",
       "excerpt": "While pilots commonly use an autopilot when cruising at high altitudes, they typically switch to manual control when entering crowded lower airspaces. However, what if the plane has no pilot? Well, a new AI autopilot system for busy airspaces may be the answer.",
@@ -1197,250 +1450,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-google-translate-camera-makes-it-super-easy-to-translate-text-from-an-image.md",
-      "title": "Google Translate camera makes it super easy to translate text from an image",
-      "excerpt": "The Google Translate app uses artificial intelligence to translate text from photos in a matter of seconds Since camera and AI technology have advanced so much, translating between languages has become a whole lot easier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitalcameraworld.com/news/google-translate-camera-makes-it-super-easy-to-translate-text-from-an-image",
-      "originalUrl": "https://www.digitalcameraworld.com/news/google-translate-camera-makes-it-super-easy-to-translate-text-from-an-image",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/KskZgw3fzEALBhKZvsRVfD-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "digitalcameraworld",
-        "domain": "digitalcameraworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-juneaus-first-ukrainian-refugees-receive-special-recognition-from-the-city.md",
-      "title": "Juneau’s first Ukrainian refugees receive special recognition from the city",
-      "excerpt": "The pair, who are the first refugees from the war in Ukraine to seek haven in Juneau, received a special recognition at the beginning of the CBJ Assembly meeting and gave a short speech that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.juneauempire.com/news/juneaus-first-ukrainian-refugees-receive-special-recognition-from-the-city/",
-      "originalUrl": "https://www.juneauempire.com/news/juneaus-first-ukrainian-refugees-receive-special-recognition-from-the-city/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.juneauempire.com/wp-content/uploads/2022/08/29955687_web1_Ukraine-JUE-220803-bruh_1-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T15:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Juneau Empire",
-        "domain": "juneauempire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-natural-language-processing-market-size-global-trends-share-growth-opportunity-2022-2031.md",
-      "title": "Natural Language Processing Market Size: Global Trends, Share, Growth, Opportunity 2022-2031",
-      "excerpt": "Natural Language Processing Market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, sales, current scenario, competitive landscape and forecast. The global natural language processing (NLP) market was valued at USD 10.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-global-trends-share-growth-opportunity-2022-2031-2022-08-02",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-size-global-trends-share-growth-opportunity-2022-2031-2022-08-02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T10:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-microsoft-teams-will-now-translate-your-calls-with-a-catch.md",
-      "title": "Microsoft Teams will now translate your calls — with a catch",
-      "excerpt": "Microsoft Teams just added a feature that will make remote work easier -- human language translation that lets you pick the language you're listening to.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/microsoft-teams-adds-human-language-translation/",
-      "originalUrl": "https://www.digitaltrends.com/computing/microsoft-teams-adds-human-language-translation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/08/The-Civil-Service-and-The-Public_Ministers-on-Teams-Live-Call-2-1-960x640-1.jpg?p=1",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/microsoft-teams-adds-human-language-translation/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-teams-adds-human-language-translation/?amp",
-      "publishedDateTime": "2022-08-02T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-automation-tech-company-uipath-acquires-ai-startup-reinfer.md",
-      "title": "Automation Tech Company UiPath Acquires AI Startup Re:infer",
-      "excerpt": "UiPath, a software automation company, said it had acquired artificial intelligence startup Re:infer, a move that comes as recession-wary employers look to cut costs by automating more workplace tasks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146",
-      "originalUrl": "https://www.wsj.com/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-595225/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/automation-tech-company-uipath-acquires-ai-startup-re-infer-11659393146",
-      "publishedDateTime": "2022-08-01T14:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

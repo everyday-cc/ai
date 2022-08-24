@@ -2,743 +2,12 @@
   "page": 32,
   "value": [
     {
-      "path": "_news/2022-07-26-aruba-boosts-ai-capabilities-to-help-enterprises-manage-troubleshoot-the-edge.md",
-      "title": "Aruba boosts AI capabilities to help enterprises manage, troubleshoot the edge",
-      "excerpt": "Aruba’s Edge Services Platform gains AIOps features to streamline network troubleshooting, performance tuning, and security controls.",
+      "path": "_news/2022-07-28-india-bets-big-on-emerging-technologies.md",
+      "title": "India Bets Big on Emerging Technologies",
+      "excerpt": "Indian defense minister Rajnath Singh spoke about the growth of emerging technologies in India. He referred to Russian president Vladimir Putin’s admonition that “whoever becomes the ruler of the sphere will rule the world.",
       "sourceUrl": null,
-      "webUrl": "https://www.networkworld.com/article/3668253/aruba-boosts-ai-capabilities-to-help-enterprises-manage-troubleshoot-the-edge.html",
-      "originalUrl": "https://www.networkworld.com/article/3668253/aruba-boosts-ai-capabilities-to-help-enterprises-manage-troubleshoot-the-edge.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/05/jigsaw_puzzle_pieces_coming_together_mergers_acquisitions_problem-solving_by_metamorworks_gettyimages-916449208_3x2_2400x1600-100796552-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.networkworld.com/article/3668253/aruba-boosts-ai-capabilities-to-help-enterprises-manage-troubleshoot-the-edge.amp.html",
-      "cdnAmpWebUrl": "https://www-networkworld-com.cdn.ampproject.org/c/s/www.networkworld.com/article/3668253/aruba-boosts-ai-capabilities-to-help-enterprises-manage-troubleshoot-the-edge.amp.html",
-      "publishedDateTime": "2022-07-26T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Network World",
-        "domain": "networkworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-ai-technology-helps-give-giant-pandas-individual-identities.md",
-      "title": "AI technology helps give giant pandas individual identities",
-      "excerpt": "Now researchers at the Chengdu Research Base of Giant Panda Breeding have pioneered new technology that uses artificial intelligence to identify the creatures.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/pandas-artificial-intelligence-ai-technology-identities-chengdu-rcna38844",
-      "originalUrl": "https://www.nbcnews.com/news/world/pandas-artificial-intelligence-ai-technology-identities-chengdu-rcna38844",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/t_focal-760x428,f_auto,q_auto:best/mpx/2704722219/2022_07/1658839016868_tdy_news_8a_jmf_pandas_220726_1920x1080-93xu34.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna38844",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna38844",
-      "publishedDateTime": "2022-07-26T08:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-aryabhat-1-iisc-bangalores-analog-chipset-for-ai-applications.md",
-      "title": "ARYABHAT-1, IISc Bangalore’s Analog Chipset for AI Applications",
-      "excerpt": "With ARYABHAT we have a learning paradigm, the problem of analog chips being prone to noise or small variations in voltage that causes errors can be compensated here by learning and overcoming,” Prof.",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/whats-new/aryabhat-1-iisc-bangalores-analog-chipset-for-ai-applications",
-      "originalUrl": "https://www.electronicsforu.com/news/whats-new/aryabhat-1-iisc-bangalores-analog-chipset-for-ai-applications",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/07/markus-winkler-f57lx37DCM4-unsplash-1-e1658740792279.jpg",
-          "width": 500,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/aryabhat-1-iisc-bangalores-analog-chipset-for-ai-applications/amp",
-      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/aryabhat-1-iisc-bangalores-analog-chipset-for-ai-applications/amp",
-      "publishedDateTime": "2022-07-26T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics For You",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-navigating-data-literacy-in-the-world-of-augmented-analytics.md",
-      "title": "Navigating Data Literacy In The World Of Augmented Analytics",
-      "excerpt": "Artificial intelligence (AI) capabilities like machine learning (ML) and natural language processing (NLP) continue to improve, and augmented analytics products can reliably automate many tasks related to seeing and understanding data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tableau/2022/07/26/navigating-data-literacy-in-the-world-of-augmented-analytics/",
-      "originalUrl": "https://www.forbes.com/sites/tableau/2022/07/26/navigating-data-literacy-in-the-world-of-augmented-analytics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62def46c309ce98e9087f3de/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tableau/2022/07/26/navigating-data-literacy-in-the-world-of-augmented-analytics/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tableau/2022/07/26/navigating-data-literacy-in-the-world-of-augmented-analytics/amp/",
-      "publishedDateTime": "2022-07-26T08:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-innovative-smartphone-and-artificial-intelligence-based-tests-featured-at-the-2022-aacc-annual-scientific-meeting.md",
-      "title": "Innovative Smartphone and Artificial Intelligence-Based Tests Featured at the 2022 AACC Annual Scientific Meeting",
-      "excerpt": "Test With Smartphone App May Predict Blood Clot Risk People who take the blood-thinning medication warfarin to prevent blood clots—which can lead to heart attacks—need frequent blood testing to ensure that the drug is working.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-science-health-smartphones-medication-5422bedd87f603659bb46ca71422df21",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-science-health-smartphones-medication-5422bedd87f603659bb46ca71422df21",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-artificial-intelligence-in-agriculture-another-place-where-medical-techniques-can-help.md",
-      "title": "Artificial Intelligence In Agriculture – Another Place Where Medical Techniques Can Help",
-      "excerpt": "Tools which help to more efficiently manage agriculture are critical. Artificial intelligence is finding its way into an increasing number of agricultural applications, and analysis to minimize the impact of BRD is one of the latest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2022/07/26/artificial-intelligence-in-agriculture--another-place-where-medical-techniques-can-help/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/07/26/artificial-intelligence-in-agriculture--another-place-where-medical-techniques-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y24,safe&width=1200",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/07/26/artificial-intelligence-in-agriculture--another-place-where-medical-techniques-can-help/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/07/26/artificial-intelligence-in-agriculture--another-place-where-medical-techniques-can-help/amp/",
-      "publishedDateTime": "2022-07-26T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-nvidia-announces-general-availability-of-nvidia-ai-enterprise-21.md",
-      "title": "NVIDIA announces general availability of NVIDIA AI Enterprise 2.1",
-      "excerpt": "NVIDIA announced the general availability of NVIDIA AI Enterprise 2.1, offering users advanced data science and an updated low-code tool.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/data/nvidia-announces-general-availability-of-nvidia-ai-enterprise-2-1/",
-      "originalUrl": "https://sdtimes.com/data/nvidia-announces-general-availability-of-nvidia-ai-enterprise-2-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/images/sd-premium.png",
-          "width": 628,
-          "height": 246,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-considering-the-fine-line-between-ai-democracy-and-autocracy.md",
-      "title": "Considering The Fine Line Between AI Democracy And Autocracy",
-      "excerpt": "We must demystify AI with fairness and responsibility while being competitive to harness its transformative power and potential.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/considering-the-fine-line-between-ai-democracy-and-autocracy/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/considering-the-fine-line-between-ai-democracy-and-autocracy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61892951ad641ca64a264904/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/considering-the-fine-line-between-ai-democracy-and-autocracy/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/26/considering-the-fine-line-between-ai-democracy-and-autocracy/amp/",
-      "publishedDateTime": "2022-07-26T06:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-pitney-bowes-introduces-regional-delivery-service-models-for-faster-more-cost-effective-ecommerce-shipping.md",
-      "title": "Pitney Bowes Introduces Regional Delivery Service Models for Faster, More Cost-Effective Ecommerce Shipping",
-      "excerpt": "Pitney Bowes (NYSE:PBI), a global shipping and mailing company that provides technology, logistics, and financial services, today announced the latest release of its Designed Delivery platform, which includes new regional delivery options.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-stamford-shipping-f999e1049cb3443f9f26166a7b4de79c",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-stamford-shipping-f999e1049cb3443f9f26166a7b4de79c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-robot-that-learns-social-cues-could-feed-people-with-tetraplegia.md",
-      "title": "Robot that learns social cues could feed people with tetraplegia",
-      "excerpt": "People who can’t control their legs or arms can use commercial robotic arms to help them eat ... in an aquarium turns out to be new species 5 mind-bending numbers that could reveal the secrets ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2330657-robot-that-learns-social-cues-could-feed-people-with-tetraplegia/",
-      "originalUrl": "https://www.newscientist.com/article/2330657-robot-that-learns-social-cues-could-feed-people-with-tetraplegia/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/07/26092150/SEI_115549989.jpg",
-          "width": 769,
-          "height": 513,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-artificial-intelligence-market-size-to-grow-by-usd-71520-mn-accenture-plc-and-alphabet-inc-among-key-vendors-technavio.md",
-      "title": "Artificial Intelligence Market Size to Grow by USD 715.20 Mn, Accenture Plc and Alphabet Inc. Among Key Vendors - Technavio",
-      "excerpt": "The artificial intelligence-based personalization market size is expected to grow by USD 715.20 mn. Moreover, the growth momentum of the market will accelerate at a CAGR of 19.17% during the forecast period.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-size-grow-usd-71520-mn-/2022/07/26/9644662.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-size-grow-usd-71520-mn-/2022/07/26/9644662.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1865572/Technavio_Global_Artificial_Intelligence_Based_Personalization_Market_Report.jpg",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T05:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-experts-weigh-in-on-voice-control-technologys-pros-cons-and-future.md",
-      "title": "Experts Weigh In On Voice Control Technology’s Pros, Cons And Future",
-      "excerpt": "Perhaps you’ve had desperate moments with voice control technology in your own home when you just wanted to shut the whole thing down.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/",
-      "originalUrl": "https://www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62df283e2cad6567902ace2e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/amp/",
-      "publishedDateTime": "2022-07-26T05:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-its-finally-time-for-ai-in-healthcare.md",
-      "title": "It’s Finally Time For AI In Healthcare",
-      "excerpt": "Artificial intelligence (AI) has been the promise of healthcare for nearly a decade, but the industry has yet to adopt it widely. Applications of AI in arguably more difficult domains, such as search,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 136,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/609e821d654474333e16c7cf/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/amp/",
-      "publishedDateTime": "2022-07-26T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-natural-language-processing-market-size-share-industry-outlook-global-forecast-to-2031.md",
-      "title": "Natural Language Processing Market Size, Share, Industry Outlook & Global Forecast To 2031",
-      "excerpt": "Shibuya-ku, Tokyo, Japan, Japan, Jul 26, 2022, 06:04 /Comserve / -- Impact Analysis of COVID-19 on the Global Natural Language Processing Market: As per the study of Research Dive, the Global ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104592541/Natural-Language-Processing-Market-Size-Share-Industry-Outlook-Global-Forecast-To-2031",
-      "originalUrl": "https://menafn.com/1104592541/Natural-Language-Processing-Market-Size-Share-Industry-Outlook-Global-Forecast-To-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?357472",
-          "width": 374,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-3-green-flags-for-c3ais-future.md",
-      "title": "3 Green Flags for C3.ai's Future",
-      "excerpt": "C3.ai's stock trades below $20 a share for three simple reasons. First, its valuations had reached unsustainable levels. At its peak, it was valued at $17 billion -- or 93 times the revenue it would actually generate in fiscal 2021 (which ended last April).",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/3-green-flags-for-c3.ais-future",
-      "originalUrl": "https://www.nasdaq.com/articles/3-green-flags-for-c3.ais-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/3-green-flags-for-c3.ais-future?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-green-flags-for-c3.ais-future?amp",
-      "publishedDateTime": "2022-07-26T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-police-can-use-facial-recognition-again-after-ban-in-new-orleans-home-to-sprawling-surveillance.md",
-      "title": "Police can use facial recognition again after ban in New Orleans, home to sprawling surveillance",
-      "excerpt": "Less than two years after passing an ordinance that outlawed facial recognition technologies, New Orleans city council voted last week to allow police to use the controversial tech.",
-      "sourceUrl": null,
-      "webUrl": "https://www.protocol.com/enterprise/new-orleans-surveillance-facial-recognition",
-      "originalUrl": "https://www.protocol.com/enterprise/new-orleans-surveillance-facial-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.protocol.com/media-library/less-than-p-greater-than-the-quick-reversal-of-the-ban-illustrates-the-fragility-of-laws-attempting-to-restrict-surveillance-tech-in-the-face-of-violent-crime-less-than-p-greater-than.jpg?id=30262587&width=400&coordinates=0%2C308%2C0%2C308&height=711.4285714285714&quality=80",
-          "width": 400,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.protocol.com/amp/new-orleans-surveillance-facial-recognition-2657727433",
-      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/new-orleans-surveillance-facial-recognition-2657727433",
-      "publishedDateTime": "2022-07-26T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Protocol",
-        "domain": "protocol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-chinese-carmakers-jostle-for-edge-in-autonomous-driving.md",
-      "title": "Chinese carmakers jostle for edge in autonomous driving",
-      "excerpt": "Shenzhen published a new set of rules which will allow autonomous commercial driving services to be offered in the tech hub from next month. That includes fully autonomous cars if such technology ever comes to fruition and meets safety requirements.",
-      "sourceUrl": null,
-      "webUrl": "https://www.freemalaysiatoday.com/category/business/2022/07/26/chinese-carmakers-jostle-for-edge-in-autonomous-driving/",
-      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2022/07/26/chinese-carmakers-jostle-for-edge-in-autonomous-driving/",
+      "webUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/india-bets-big-emerging-technologies",
+      "originalUrl": "https://nationalinterest.org/blog/techland-when-great-power-competition-meets-digital-world/india-bets-big-emerging-technologies",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -748,11 +17,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T23:39:00-07:00",
+      "publishedDateTime": "2022-07-27T10:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Free Malaysia Today",
-        "domain": "freemalaysiatoday.com",
+        "name": "The National Interest",
+        "domain": "nationalinterest.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -767,55 +36,12 @@
       ]
     },
     {
-      "path": "_news/2022-07-26-xoriant-xcelerate-iot-now-available-in-the-microsoft-azure-marketplace.md",
-      "title": "Xoriant X⋅CELERATE IoT Now Available in the Microsoft Azure Marketplace",
-      "excerpt": "Azure Machine Learning, Azure Cognitive Services, Azure Cosmos DB, and Power BI. Xoriant, a Microsoft gold co-sell partner, is accelerating the deployment, development, and optimization of ...",
+      "path": "_news/2022-07-27-automatic-content-recognition-market-size-is-projected-to-reach-usd-48795-million-by-2028-at-a-cagr-of-174-valuates-reports.md",
+      "title": "Automatic Content Recognition Market Size is Projected To Reach USD 4879.5 Million By 2028, at a CAGR of 17.4% - Valuates Reports",
+      "excerpt": "The global Automatic Content Recognition market size is projected to reach USD 4879.5 million by 2028, from USD 1543.8 million in 2021, at a CAGR of 17.4% during 2022-2028. Major",
       "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/xoriant-x-celerate-iot-now-available-in-the-microsoft-azure-marketplace/article_ecd578fd-7081-5fde-a0a0-123202589382.html",
-      "originalUrl": "https://www.eagletribune.com/region/xoriant-x-celerate-iot-now-available-in-the-microsoft-azure-marketplace/article_ecd578fd-7081-5fde-a0a0-123202589382.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/custom/image/ae213140-df8c-11e7-b06d-b798580d75a5.jpg?resize=600%2C333",
-          "width": 600,
-          "height": 333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T23:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-machine-learning-market-research-by-leading-countries-growth-drivers-risks-opportunities-forecast-and-top-vendors-analysis-till-2031.md",
-      "title": "Machine Learning Market Research By Leading Countries, Growth, Drivers, Risks, Opportunities, Forecast and Top Vendors Analysis Till 2031",
-      "excerpt": "Kenneth Research has published a detailed report on Machine Learning Market which has been categorized by market size",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-market-research-by-leading-countries-growth-drivers-risks-opportunities-forecast-and-top-vendors-analysis-till-2031-2022-07-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-market-research-by-leading-countries-growth-drivers-risks-opportunities-forecast-and-top-vendors-analysis-till-2031-2022-07-26",
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/27/9646049.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/27/9646049.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -825,14 +51,57 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T23:02:00-07:00",
+      "publishedDateTime": "2022-07-27T08:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-why-machine-learning-in-ad-tech-is-ready-for-liftoff.md",
+      "title": "Why Machine Learning In Ad Tech Is Ready For Liftoff",
+      "excerpt": "Learn more about the incredible scale and complexity of machine learning in ad tech with Yunshi Zhao, ML engineer at Liftoff Mobile. Zhao also part of the diversity, equity, and inclusion (DEI) committee at Liftoff,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/27/why-machine-learning-in-ad-tech-is-ready-for-liftoff/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/27/why-machine-learning-in-ad-tech-is-ready-for-liftoff/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e03f3a3d45822eb9a0bf5b/0x0.jpg?format=jpg&width=1200",
+          "width": 956,
+          "height": 561,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/27/why-machine-learning-in-ad-tech-is-ready-for-liftoff/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/07/27/why-machine-learning-in-ad-tech-is-ready-for-liftoff/amp/",
+      "publishedDateTime": "2022-07-27T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -848,18 +117,69 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-07-26-machine-learning-artificial-intelligence-market-size-from-2022-to-2028.md",
-      "title": "Machine Learning Artificial intelligence Market Size from 2022 to 2028",
-      "excerpt": "The \" Machine Learning Artificial intelligence Market research report \" profile investigates the company's business structure, operations, important products and services, prospects, locations and subsidiaries,",
+      "path": "_news/2022-07-27-cybersecurity-mesh-adds-decentralized-security-and-swarm-ai-for-remote-first-enterprises.md",
+      "title": "Cybersecurity mesh adds decentralized security and swarm AI for remote-first enterprises",
+      "excerpt": "Naoris Protocol provides remote-first enterprises with decentralized cybersecurity mesh, mitigating attacks across all devices and networks.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-artificial-intelligence-market-size-from-2022-to-2028-2022-07-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-artificial-intelligence-market-size-from-2022-to-2028-2022-07-26",
+      "webUrl": "https://venturebeat.com/2022/07/27/cybersecurity-mesh-adds-decentralized-security-and-swarm-ai-for-remote-first-enterprises/",
+      "originalUrl": "https://venturebeat.com/2022/07/27/cybersecurity-mesh-adds-decentralized-security-and-swarm-ai-for-remote-first-enterprises/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 115,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/10/untitled-design-e1658931843797.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/27/cybersecurity-mesh-adds-decentralized-security-and-swarm-ai-for-remote-first-enterprises/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/27/cybersecurity-mesh-adds-decentralized-security-and-swarm-ai-for-remote-first-enterprises/amp/",
+      "publishedDateTime": "2022-07-27T07:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-kor-financial-coinregtech-deliver-saas-to-crypto-trade-reporting.md",
+      "title": "KOR Financial & CoinRegTech Deliver SaaS to Crypto Trade Reporting",
+      "excerpt": "KOR Financial & CoinRegTech Deliver SaaS to Crypto Trade Reporting Jul 27, 2022 (PRNewswire via COMTEX) -- PR Newswire NEW YORK, July 27,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/kor-financial-coinregtech-deliver-saas-to-crypto-trade-reporting-2022-07-27",
+      "originalUrl": "https://www.marketwatch.com/press-release/kor-financial-coinregtech-deliver-saas-to-crypto-trade-reporting-2022-07-27",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -878,7 +198,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T23:00:00-07:00",
+      "publishedDateTime": "2022-07-27T06:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -902,27 +222,25 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "Facebook AI"
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-07-26-google-fires-engineer-blake-lemoine-who-says-ai-technology-became-sentient.md",
-      "title": "Google fires engineer Blake Lemoine, who says AI technology became sentient",
-      "excerpt": "'What sort of things are you afraid of?' he asked the technology, in a Google Doc shared with Google's top executives. MOUNTAIN VIEW, Calif. -- Google has fired the engineer who claimed an ...",
+      "path": "_news/2022-07-27-brazil-artificial-intelligence-in-commercial-airline-market-report-2022-key-trends-players-and-drivers-researchandmarketscom.md",
+      "title": "Brazil Artificial Intelligence in Commercial Airline Market Report 2022: Key Trends, Players and Drivers - ResearchAndMarkets.com",
+      "excerpt": "The country research report on Brazil artificial intelligence in commercial airline market is a customer intelligence and competitive study of the Brazil market. Moreover, the report provides deep insights into demand forecasts,",
       "sourceUrl": null,
-      "webUrl": "https://6abc.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
-      "originalUrl": "https://6abc.com/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-airlines-brazil-artificial-intelligence-d39205ceaeb34fef8183fd825b32ef4c",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-airlines-brazil-artificial-intelligence-d39205ceaeb34fef8183fd825b32ef4c",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.abcotvs.com/dip/images/11958317_061422-cc-ap-google-building-file-img.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -930,13 +248,56 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://6abc.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
-      "cdnAmpWebUrl": "https://6abc-com.cdn.ampproject.org/c/s/6abc.com/amp/blake-lemoine-google-engineer-fired-lamda-ai-sentient/12072237/",
-      "publishedDateTime": "2022-07-25T22:58:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T06:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "6abc News",
-        "domain": "6abc.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-sense-selects-iguazio-for-ai-chatbot-automation-with-aws-snowflake-and-nvidia.md",
+      "title": "Sense Selects Iguazio for AI Chatbot Automation with AWS, Snowflake and NVIDIA",
+      "excerpt": "Iguazio, the MLOps platform provider, and Sense, a market leader in artificial intelligence (AI) driven talent engagement for recruiting, today announced that the Iguazio MLOps platform has been selected to power a wide range of AI products aimed at increasing the efficiency and scalability of Sense’s AI operations.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-artificial-intelligence-15332cff664d4f82ad60035847f28e10",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-artificial-intelligence-15332cff664d4f82ad60035847f28e10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T06:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -951,35 +312,26 @@
       ]
     },
     {
-      "path": "_news/2022-07-26-beeline-loans-launches-ai-powered-investor-loan-application.md",
-      "title": "Beeline Loans launches AI-powered investor loan application",
-      "excerpt": "PROVIDENCE – Digital mortgage lender Beeline Loans Inc. recently debuted a new automated platform aimed at simplifying the home loan application process for investors, according to a news release. The mobile-first offering lets property investors apply online for a conventional or debt service coverage ratio loan and offers real-time options with automated underwriting conditions,",
+      "path": "_news/2022-07-27-investment-app-delphia-names-aws-lead-scientist-andrew-arnold-as-chief-science-officer.md",
+      "title": "Investment App Delphia Names AWS Lead Scientist Andrew Arnold as Chief Science Officer",
+      "excerpt": "Get 7 Days Free Sign In Sign In Topics",
       "sourceUrl": null,
-      "webUrl": "https://pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/",
-      "originalUrl": "https://pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/",
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20220727ny28210/investment-app-delphia-names-aws-lead-scientist-andrew-arnold-as-chief-science-officer",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20220727ny28210/investment-app-delphia-names-aws-lead-scientist-andrew-arnold-as-chief-science-officer",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://assets-pbn-com.s3.amazonaws.com/2022/04/HealthiestEmployers2022revised.jpg",
-          "width": 1308,
-          "height": 750,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/?amp=1",
-      "cdnAmpWebUrl": "https://pbn-com.cdn.ampproject.org/c/s/pbn.com/beeline-loans-launches-ai-powered-investor-loan-application/?amp=1",
-      "publishedDateTime": "2022-07-25T22:08:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T05:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Providence Business News",
-        "domain": "pbn.com",
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -989,24 +341,25 @@
         "news"
       ],
       "topics": [
+        "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-07-26-ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament.md",
-      "title": "AI with a vengeance: Chess-playing robot breaks 7-year-old's finger at Moscow tournament",
-      "excerpt": "MOSCOW: A chess-playing robot grabbed the finger of its 7-year-old opponent and broke it during last week's Moscow Chess Open tournament, Russian media reported Monday. \"The robot broke the child's finger,",
+      "path": "_news/2022-07-27-sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence.md",
+      "title": "Sony AI Wins 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence",
+      "excerpt": "Sony AI, established with the mission to unleash human imagination and creativity with artificial intelligence (AI), today announced that it has received the 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence (AI) for its recent breakthrough in AI,",
       "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/articleshow/93126300.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/articleshow/93126300.cms",
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488",
       "featuredContent": null,
       "highlight": null,
-      "heat": 105,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-30928,msid-93126309/chess-playing-robot-breaks-opponent-boys-finger-at-moscow-open-.jpg",
-          "width": 600,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
           "height": 450,
           "title": null,
           "attribution": null,
@@ -1015,56 +368,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/amp_articleshow/93126300.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/ai-with-a-vengeance-chess-playing-robot-breaks-7-year-olds-finger-at-moscow-tournament/amp_articleshow/93126300.cms",
-      "publishedDateTime": "2022-07-25T21:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-documents-reveal-advanced-ai-tools-google-is-selling-to-israel-the-intercept.md",
-      "title": "Documents Reveal Advanced AI Tools Google Is Selling to ‘Israel’ – The Intercept",
-      "excerpt": "Training materials reviewed by The Intercept confirm that Google is offering advanced artificial intelligence and machine-learning capabilities to the ‘Israeli’ government through its controversial “Project Nimbus” contract.",
-      "sourceUrl": null,
-      "webUrl": "https://en.abna24.com/story/1277017",
-      "originalUrl": "https://en.abna24.com/story/1277017",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.abna24.ir/image/jpeg/2022/July/26/bfb318e7-fd3c-490f-809f-ef00ade1e4d1.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T21:10:00-07:00",
+      "publishedDateTime": "2022-07-27T05:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AhlulBayt News Agency",
-        "domain": "abna24.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1074,43 +384,34 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-07-26-computer-vision-market-size-share-by-end-use-share-revenue-and-region-forecast-to-2031.md",
-      "title": "Computer Vision Market Size, Share, By End Use, Share & Revenue, and Region, Forecast to 2031",
-      "excerpt": "AMARILLO, TX , United States, Tue, 26 Jul 2022 02:55:34 / Comserve Inc. / -- The Computer Vision Markethas encountered significant development over the recent years and is anticipated to grow ...",
+      "path": "_news/2022-07-27-ai-from-drug-discovery-to-robotics.md",
+      "title": "AI: From Drug Discovery To Robotics",
+      "excerpt": "First, companies began using artificial intelligence to transform drug discovery. Now, they are jumping into the robotics race.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-by-end-use-share-revenue-and-region-forecast-to-2031-2022-07-26",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-size-share-by-end-use-share-revenue-and-region-forecast-to-2031-2022-07-26",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/27/ai-from-drug-discovery-to-robotics/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/27/ai-from-drug-discovery-to-robotics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 79,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T19:56:00-07:00",
+      "publishedDateTime": "2022-07-27T05:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1126,7 +427,698 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-using-machine-learning-to-simplify-healthcare-information-exchange.md",
+      "title": "Using machine learning to simplify healthcare information exchange",
+      "excerpt": "Improving the Patient Financial Experience Throughout the Patient Journey While many healthcare providers believe that improving the patient financial experience is a critical step for their organization, few have done so successfully. Read this brief to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.healthcarefinancenews.com/video/using-machine-learning-simplify-healthcare-information-exchange",
+      "originalUrl": "https://www.healthcarefinancenews.com/video/using-machine-learning-simplify-healthcare-information-exchange",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.healthcarefinancenews.com/sites/healthcarefinancenews.com/files/Mark%20Martin.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T05:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Healthcare Finance News",
+        "domain": "healthcarefinancenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-the-benefits-and-risks-of-embracing-ai.md",
+      "title": "The Benefits And Risks Of Embracing AI",
+      "excerpt": "As business leaders, the most strategic thing we can do is embrace AI as an opportunity to serve our broader business mandates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/27/the-benefits-and-risks-of-embracing-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/27/the-benefits-and-risks-of-embracing-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/620a556214ce14ae732b0ac7/0x0.jpg?format=jpg&width=1200",
+          "width": 753,
+          "height": 502,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/07/27/the-benefits-and-risks-of-embracing-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/07/27/the-benefits-and-risks-of-embracing-ai/amp/",
+      "publishedDateTime": "2022-07-27T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts.md",
+      "title": "How AI Is Being Used To Help Blind Students ‘Visualize’ Graphs And Charts",
+      "excerpt": "Benetech, together with Schmidt Futures, is working on a project using AI to overcome one of the most troublesome access barriers across mainstream education – the conversion of graphs and charts into an accessible format for students with sight loss and other print disabilities.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/gusalexiou/2022/07/27/how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts/",
+      "originalUrl": "https://www.forbes.com/sites/gusalexiou/2022/07/27/how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e10352c0d189566a2ace28/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/gusalexiou/2022/07/27/how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gusalexiou/2022/07/27/how-ai-is-being-used-to-help-blind-students-visualize-graphs-and-charts/amp/",
+      "publishedDateTime": "2022-07-27T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-cio-100-us-9-award-winning-government-it-projects.md",
+      "title": "CIO 100 US: 9 award-winning government IT projects",
+      "excerpt": "Public-sector agencies and institutions are turning to tech to streamline processes, facilitate scale and innovation, and improve the lives of those they serve.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/403501/cio-100-us-9-award-winning-government-it-projects.html",
+      "originalUrl": "https://www.cio.com/article/403501/cio-100-us-9-award-winning-government-it-projects.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cio.com/wp-content/uploads/2022/07/cio100-usa-award1200-100898713-large-100899934-orig-5.jpg?quality=50&strip=all&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cio.com/article/403501/cio-100-us-9-award-winning-government-it-projects.html/amp",
+      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/403501/cio-100-us-9-award-winning-government-it-projects.html/amp",
+      "publishedDateTime": "2022-07-27T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-southern-co-op-faces-legal-complaint-over-facial-recognition-cctv.md",
+      "title": "Southern Co-Op faces legal complaint over facial recognition CCTV",
+      "excerpt": "Southern Co-Op is facing a legal challenge after a privacy rights group filed a complaint that its use of live facial recognition cameras is “unlawful”. Big Brother Watch claims that the group uses biometric cameras which are “infringing the data rights of a significant number of UK data subjects”.",
+      "sourceUrl": null,
+      "webUrl": "https://www.retailsector.co.uk/630964-southern-co-op-faces-legal-complaint-over-facial-recognition-cctv/",
+      "originalUrl": "https://www.retailsector.co.uk/630964-southern-co-op-faces-legal-complaint-over-facial-recognition-cctv/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://497959.smushcdn.com/855165/wp-content/uploads/2022/01/supermarket-949913_1920-e1641895539108-390x220.jpg?lossy=1&strip=1&webp=1",
+          "width": 390,
+          "height": 220,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.retailsector.co.uk/630964-southern-co-op-faces-legal-complaint-over-facial-recognition-cctv/amp/",
+      "cdnAmpWebUrl": "https://www-retailsector-co-uk.cdn.ampproject.org/c/s/www.retailsector.co.uk/630964-southern-co-op-faces-legal-complaint-over-facial-recognition-cctv/amp/",
+      "publishedDateTime": "2022-07-27T02:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "retailsector",
+        "domain": "retailsector.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-aws-heres-how-our-cloud-computing-infrastructure-dealt-with-amazon-prime-day.md",
+      "title": "AWS: Here's how our cloud-computing infrastructure dealt with Amazon Prime day",
+      "excerpt": "Amazon's Prime Day is an online-buying frenzy for consumers. Here's how Amazon Web Services dealt with it. AWS has detailed how its cloud-computing infrastructure supported Amazon's huge Prime Day sales event.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/aws-heres-how-our-cloud-computing-infrastructure-dealt-with-amazon-prime-day/",
+      "originalUrl": "https://www.zdnet.com/article/aws-heres-how-our-cloud-computing-infrastructure-dealt-with-amazon-prime-day/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/6b8c0b7217d81a01ae0b961e7ac3437108bc0df3/2022/05/06/9e61669f-d64d-4a65-841d-04500f54a339/zd-cloud-computing.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-heres-how-our-cloud-computing-infrastructure-dealt-with-amazon-prime-day/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-heres-how-our-cloud-computing-infrastructure-dealt-with-amazon-prime-day/",
+      "publishedDateTime": "2022-07-27T01:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-trading-down-23.md",
+      "title": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Trading Down 2.3%",
+      "excerpt": "The stock has a fifty day moving average price of $21.79 and a two-hundred day moving average price of $25.70.",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/07/27/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-trading-down-2-3/",
+      "originalUrl": "https://www.etfdailynews.com/2022/07/27/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-trading-down-2-3/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/07/27/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-trading-down-2-3/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/07/27/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-trading-down-2-3/amp/",
+      "publishedDateTime": "2022-07-26T23:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-motion-control-software-in-robotics-market-is-reach-us-3786-bn-at-a-cagr-of-196-by-2022-2029-future-market-insights-inc.md",
+      "title": "Motion Control Software in Robotics Market is Reach US$ 37.86 Bn, at a CAGR of 19.6% by 2022 – 2029 | Future Market Insights, Inc.",
+      "excerpt": "The Motion Control Software in Robotics Market is anticipated to grow at an impressive CAGR of 19.6% between 2022 and 2029, surpassing a valuation of US$ 10.81 Bn in 2022 and US$ 37.86 Bn by 2029.",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/motion-control-software-in-robotics-market-is-reach-us-37-86-bn-at-a-cagr-of-19-6-by-2022-2029-future-market-insights-inc",
+      "originalUrl": "https://www.digitaljournal.com/pr/motion-control-software-in-robotics-market-is-reach-us-37-86-bn-at-a-cagr-of-19-6-by-2022-2029-future-market-insights-inc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2021/08/Sydney-outbreak-AFP-1K-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T22:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-scientists-create-robotics-using-dead-spiders.md",
+      "title": "Scientists create robotics using dead spiders",
+      "excerpt": "I learned about necrobotics and wish I hadn’t. This is a wolf spider: Admittedly it’s kinda cute (for a spider) and not venomous enough to kill you with its … Read More",
+      "sourceUrl": null,
+      "webUrl": "https://thoughtforyourpenny.com/scientists-create-robotics-using-dead-spiders/",
+      "originalUrl": "https://thoughtforyourpenny.com/scientists-create-robotics-using-dead-spiders/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://qph.fs.quoracdn.net/main-qimg-ca4623129d70789f1a4ce62e9db18bff-lq",
+          "width": 602,
+          "height": 401,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thoughtforyourpenny.com/scientists-create-robotics-using-dead-spiders/",
+      "cdnAmpWebUrl": "https://thoughtforyourpenny-com.cdn.ampproject.org/c/s/thoughtforyourpenny.com/scientists-create-robotics-using-dead-spiders/",
+      "publishedDateTime": "2022-07-26T19:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "thoughtforyourpenny",
+        "domain": "thoughtforyourpenny.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-artificial-intelligence-startups-from-around-the-world-partner-with-mayo-clinic.md",
+      "title": "Artificial Intelligence startups from around the world partner with Mayo Clinic",
+      "excerpt": "Mayo Clinic Platform Accelerate, an immersive program for health tech startups, launched its initial cohort of participating companies in March.",
+      "sourceUrl": null,
+      "webUrl": "https://www.kaaltv.com/rochester-minnesota-news/artificial-intelligence-startups-from-around-the-world-partner-with-mayo-clinic/6534824/",
+      "originalUrl": "https://www.kaaltv.com/rochester-minnesota-news/artificial-intelligence-startups-from-around-the-world-partner-with-mayo-clinic/6534824/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.KAALtv.com/kaalimages/repository/2022-07/Artificial_Intelligence_startups_from_around_the_world_partner_with_Mayo_Clinic-syndImport-103220.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T19:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KAAL TV",
+        "domain": "kaaltv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-facial-recognition-software-helps-reunite-lost-or-missing-pets.md",
+      "title": "Facial recognition software helps reunite lost or missing pets",
+      "excerpt": "That’s estimated to be over 10 million pets a year. But with Petco Love’s facial recognition technology, one click could bring them home.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets",
+      "originalUrl": "https://www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://x-default-stgec.uplynk.com/ausw/slices/85a/1caad701706c40c597cac38040cf164a/85abf601ec2949c0919fda7670f9e3ae/poster_257abd1768084f24bf2af558685367ec.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets?_amp=true",
+      "cdnAmpWebUrl": "https://www-ksby-com.cdn.ampproject.org/c/s/www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets?_amp=true",
+      "publishedDateTime": "2022-07-26T17:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSBY 6",
+        "domain": "ksby.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-a-top-data-scientist-at-bristol-myers-squibb-shares-how-artificial-intelligence-is-transforming-the-pharma-giant-from-chatbots-to-metrics.md",
+      "title": "A top data scientist at Bristol Myers Squibb shares how artificial intelligence is transforming the pharma giant, from chatbots to metrics",
+      "excerpt": "The New Jersey drug giant Bristol Myers Squibb is quietly testing several artificial-intelligence programs, hoping the ideas can make pharmaceutical research more efficient and powerful.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/3-ai-projects-transforming-drug-research-at-bristol-myers-squibb-2022-6",
+      "originalUrl": "https://www.businessinsider.com/3-ai-projects-transforming-drug-research-at-bristol-myers-squibb-2022-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62b220ea4245600018ddcfbf?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-amazon-facial-recognition-falsely-links-27-athletes-to-mugshots-in-aclu-study.md",
+      "title": "Amazon Facial Recognition Falsely Links 27 Athletes to Mugshots in ACLU Study",
+      "excerpt": "The Massachusetts chapter of the American Civil Liberties Union (ACLU) announced this month that Amazon’s “Rekognition” technology falsely linked the faces of 27 professional athletes in New ...",
+      "sourceUrl": null,
+      "webUrl": "https://hyperallergic.com/525209/amazon-facial-recognition-aclu/",
+      "originalUrl": "https://hyperallergic.com/525209/amazon-facial-recognition-aclu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/hyperallergic-newspack.s3.amazonaws.com/uploads/2019/10/New-England-Patriots-1000.jpg?fit=1000%2C618&quality=100&ssl=1",
+          "width": 1000,
+          "height": 618,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hyperallergic",
+        "domain": "hyperallergic.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-an-ai-for-art-copyright-considerations-for-artificial-intelligence.md",
+      "title": "An AI for art: Copyright considerations for artificial intelligence",
+      "excerpt": "Artificial intelligence is driving the information revolution and its presence is increasingly commonplace — for example, in smart speakers, self-driving cars, social media monitoring and ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/27/an-ai-for-art-copyright-considerations-for-artificial-intelligence/",
+      "originalUrl": "https://techcrunch.com/2022/07/27/an-ai-for-art-copyright-considerations-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/GettyImages-1079012834.jpg?w=574",
+          "width": 574,
+          "height": 399,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-artificial-skin-sweats-on-command.md",
+      "title": "Artificial skin sweats on command",
+      "excerpt": "I therefore like to start a project with a clear goal in mind ... complement traditional robotics rather than compete with it. With the skin, we found that we could control the topology (mountains ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-07-artificial-skin.html",
+      "originalUrl": "https://phys.org/news/2022-07-artificial-skin.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/artificial-skin-sweats.jpg",
+          "width": 900,
+          "height": 331,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-07-artificial-skin.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-artificial-skin.amp",
+      "publishedDateTime": "2022-07-26T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

@@ -21,6 +21,7 @@ topics:
   - AI
   - AI in Robotics
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://assets.labroots.com/_public/_files/system/ck/trending/FEATURED%20IMAGE_e0ee8c1743ad40b40477db0302e5f1e7.png"

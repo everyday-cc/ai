@@ -2,6 +2,206 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-05-27-amd-instincttm-mi200-adopted-for-large-scale-ai-training-in-microsoft-azure.md",
+      "title": "AMD Instinct(TM) MI200 Adopted for Large-Scale AI Training in Microsoft Azure",
+      "excerpt": "Microsoft Azure is the first public cloud to deploy AMD Instinct MI200 accelerators SANTA CLARA, Calif., May 26, 2022 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) and Microsoft continued their collaboration in the cloud,",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/amd-instinct-tm-mi200-adopted-for-large-scale-ai-training-in-microsoft-azure-01653570399",
+      "originalUrl": "https://www.barrons.com/articles/amd-instinct-tm-mi200-adopted-for-large-scale-ai-training-in-microsoft-azure-01653570399",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T10:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-microsoft-msft-azure-extends-limited-access-to-openai-models.md",
+      "title": "Microsoft (MSFT) Azure Extends Limited Access to OpenAI Models",
+      "excerpt": "Microsoft Corp. MSFT recently launched a service for Azure Cognitive Services, expanding its long-running relationship with the artificial intelligence (AI) research outfit, OpenAI Inc. The ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-extends-limited-access-to-openai-models",
+      "originalUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-extends-limited-access-to-openai-models",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/microsoft-msft-azure-extends-limited-access-to-openai-models?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/microsoft-msft-azure-extends-limited-access-to-openai-models?amp",
+      "publishedDateTime": "2022-05-25T22:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-satya-nadela-announces-microsofts-new-technologies-at-build-conference-2022.md",
+      "title": "Satya Nadela Announces Microsoft’s New Technologies at Build Conference 2022",
+      "excerpt": "Kindly share this postMicrosoft Build Conference 2022 kicked off on Tuesday May 24 with Microsoft CEO Satya Nadela talking about ten new technologies that are “coming together as a powerful platform” to help developers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nigeriacommunicationsweek.com.ng/satya-nadela-announces-microsofts-new-technologies-at-build-conference-2022/",
+      "originalUrl": "https://www.nigeriacommunicationsweek.com.ng/satya-nadela-announces-microsofts-new-technologies-at-build-conference-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.nigeriacommunicationsweek.com.ng/wp-content/uploads/2022/05/Microsoft-Build-2022-CEO-speecgh-2-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "nigeriacommunicationsweek",
+        "domain": "nigeriacommunicationsweek.com.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-meta-taps-latest-azure-virtual-machines-for-ai-research.md",
+      "title": "Meta Taps Latest Azure Virtual Machines for AI Research",
+      "excerpt": "Meta, formerly known as 'Facebook,' is using the latest Azure virtual machines (VMs) with graphics processing unit (GPU) compute power for its 'large-scale AI research workloads,' Microsoft announced on Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://redmondmag.com/articles/2022/05/25/meta-taps-latest-azure-virtual-machines-for-ai-research.aspx",
+      "originalUrl": "https://redmondmag.com/articles/2022/05/25/meta-taps-latest-azure-virtual-machines-for-ai-research.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImagesBigSmall/ColorSwirlPinkSmall.jpg",
+          "width": 647,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T15:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Redmond Magazine",
+        "domain": "redmondmag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Microsoft AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-05-26-despite-key-partnership-with-aws-meta-taps-up-microsoft-azure-for-ai-work.md",
+      "title": "Despite 'key' partnership with AWS, Meta taps up Microsoft Azure for AI work",
+      "excerpt": "Meta’s AI business unit set up shop in Microsoft Azure this week and announced a strategic partnership it says will advance PyTorch development on the public cloud. The deal [PDF] will see Mark Zuckerberg’s umbrella company deploy machine-learning workloads on thousands of Nvidia GPUs running in Azure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/05/25/meta_azure_ai/?td=amp-keepreading-top",
+      "originalUrl": "https://www.theregister.com/2022/05/25/meta_azure_ai/?td=amp-keepreading-top",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/06/29/virtual_shutterstock.jpg",
+          "width": 1000,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/25/meta_azure_ai/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/25/meta_azure_ai/",
+      "publishedDateTime": "2022-05-25T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-microsoft-expands-its-ai-partnership-with-meta.md",
       "title": "Microsoft expands its AI partnership with Meta",
       "excerpt": "Microsoft and Meta are extending their ongoing AI partnership, with Meta selecting Azure as \"a strategic cloud provider\" to accelerate its own AI research and development. Microsoft officials shared more details about the latest on the Microsoft-Meta partnership on Day 2 of the Microsoft Build 2022 developers conference.",
@@ -1167,230 +1367,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-13-a1-weeds-out-invasive-overgrowth-with-azure-devops-for-nsw-dpi.md",
-      "title": "A1 weeds out invasive overgrowth with Azure DevOps for NSW DPI",
-      "excerpt": "The solution on Azure enabled NSW DPI to take advantage of Azure machine learning to identify weeds and weed patterns from images uploaded by the community throughout Australia. Azure DevOps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/698115/a1-weeds-invasive-overgrowth-azuredevops-nsw-dpi/",
-      "originalUrl": "https://www.arnnet.com.au/article/698115/a1-weeds-invasive-overgrowth-azuredevops-nsw-dpi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_4669449.jpg",
-          "width": 470,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T21:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-family-size-may-influence-cognitive-functioning-in-later-life.md",
-      "title": "Family size may influence cognitive functioning in later life",
-      "excerpt": "A new study at Columbia University Mailman School of Public Health, and the Robert Butler Columbia Aging Center and Université Paris-Dauphine – PSL, found that having three or more versus two children has a negative effect on late-life cognition.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/952572",
-      "originalUrl": "https://www.eurekalert.org/news-releases/952572",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T09:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven.md",
-      "title": "Microsoft is enabling Kubernetes for Windows edge-computing devices via 'Project Haven'",
-      "excerpt": "Wondering what Microsoft has up its sleeve for Build 2022? Here are a few tidbits gleaned from the hundreds of sessions listed on its web site, including a new Kubernetes-at-the-edge effort.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a52ae7d89b8c9f6c7d7ce376c59cc30a6a73fb9c/2022/05/12/5944f6ae-7d42-4eb9-97cb-248e7b042c8f/build2022.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/",
-      "publishedDateTime": "2022-05-12T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-microsoft-session-highlights-from-sap-sapphire-2022.md",
-      "title": "Microsoft session highlights from SAP Sapphire 2022",
-      "excerpt": "Microsoft and SAP are celebrating the one-year anniversary of RISE with SAP on the Microsoft Cloud, which helps organizations of all sizes accelerate their move of SAP solutions to the cloud. As you prepare your agenda for the event, be sure to take in some of the following sessions featuring Microsoft",
-      "sourceUrl": null,
-      "webUrl": "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/",
-      "originalUrl": "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 157,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8794c53b-f72e-4acf-b595-38764c1aa351.jpg",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T01:00:33-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-vectra-ai-recognized-as-a-microsoft-security-excellence-awards-finalist-for-security-isv-of-the-year.md",
-      "title": "Vectra AI recognized as a Microsoft Security Excellence Awards finalist for Security ISV of the Year",
-      "excerpt": "Vectra AI, a leader in AI-driven threat detection and response for hybrid and multi-cloud enterprises, today announced that the company has been named a finalist in the",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/n27145145/vectra-ai-recognized-as-a-microsoft-security-excellence-awards-finalist-for-security-isv-of-the-ye",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/n27145145/vectra-ai-recognized-as-a-microsoft-security-excellence-awards-finalist-for-security-isv-of-the-ye",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.benzinga.com/next-assets/images/schema-image-default.png",
-          "width": 1043,
-          "height": 1043,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27145145",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27145145",
-      "publishedDateTime": "2022-05-11T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "Microsoft AI"
       ]
     }
   ],

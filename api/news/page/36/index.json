@@ -2,21 +2,21 @@
   "page": 36,
   "value": [
     {
-      "path": "_news/2022-07-22-dont-get-too-emotional-about-emotion-reading-ai.md",
-      "title": "Don’t get too emotional about emotion-reading AI",
-      "excerpt": "Artificial intelligence tools now try to figure out whether people are happy, sad or disgusted. The reality may surprise and anger you.",
+      "path": "_news/2022-07-24-nz-fry-up-internal-affairs-renews-deal-with-aws-25b-in-iot-spending.md",
+      "title": "NZ Fry Up: Internal Affairs renews deal with AWS; $25B in IoT spending",
+      "excerpt": "NZ Internal Affairs signs all-of-government cloud deal with AWS. The New Zealand Department of Internal Affairs has signed an all-of-government agreement with Amazon Web Services",
       "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.html",
-      "originalUrl": "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.html",
+      "webUrl": "https://www.computerworld.com/article/3667997/nz-fry-up-internal-affairs-renews-deal-with-aws-25b-in-iot-spending.html",
+      "originalUrl": "https://www.computerworld.com/article/3667997/nz-fry-up-internal-affairs-renews-deal-with-aws-25b-in-iot-spending.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://images.techhive.com/images/article/2016/11/happy_sad_face-100691488-large.jpg?auto=webp&quality=85,70",
+          "url": "https://images.idgesg.net/images/article/2020/07/1200x800_fridayfryupwithtext-100853181-large.jpg?auto=webp&quality=85,70",
           "width": 1200,
-          "height": 801,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3667499/don-t-get-too-emotional-about-emotion-reading-ai.amp.html",
-      "publishedDateTime": "2022-07-22T00:00:00-07:00",
+      "ampWebUrl": "https://www.computerworld.com/article/3667997/nz-fry-up-internal-affairs-renews-deal-with-aws-25b-in-iot-spending.amp.html",
+      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3667997/nz-fry-up-internal-affairs-renews-deal-with-aws-25b-in-iot-spending.amp.html",
+      "publishedDateTime": "2022-07-24T08:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Computerworld",
@@ -40,804 +40,26 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6.md",
-      "title": "Baidu unveils latest autonomous electric vehicle: Apollo RT6",
-      "excerpt": "Baidu already runs Apollo Go, an autonomous ride-hailing service using self-driving robotaxis with safety staff seated in the driver or passenger seat. It has launched Apollo Go in big cities like Beijing, Shanghai, Shenzhen and Guangzhou, although the ...",
-      "sourceUrl": null,
-      "webUrl": "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6",
-      "originalUrl": "https://japantoday.com/category/tech/baidu-unveils-latest-autonomous-electric-vehicle-apollo-rt6",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T22:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Japan Today",
-        "domain": "japantoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope.md",
-      "title": "Why distributed AI is key to pushing the AI innovation envelope",
-      "excerpt": "Learn why it's essential for companies to get distributed AI right, as model complexity continues to leap in magnitudes.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/applied-ai/why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope/",
-      "originalUrl": "https://venturebeat.com/applied-ai/why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-21-at-4.46.37-PM.png?w=1200&strip=all",
-          "width": 1198,
-          "height": 647,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-distributed-ai-is-key-to-pushing-the-ai-innovation-envelope/amp/",
-      "publishedDateTime": "2022-07-21T20:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-heres-what-it-looks-like-to-ride-a-chinese-robotaxi-with-no-steering-wheel.md",
-      "title": "Here’s what it looks like to ride a Chinese robotaxi with no steering wheel",
-      "excerpt": "Baidu has unveiled plans for an electric self-driving car with a removable steering wheel, marking another step forward in the fast-moving robotaxi race in China. The Chinese tech giant, ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.channel3000.com/i/heres-what-it-looks-like-to-ride-a-chinese-robotaxi-with-no-steering-wheel/",
-      "originalUrl": "https://www.channel3000.com/i/heres-what-it-looks-like-to-ride-a-chinese-robotaxi-with-no-steering-wheel/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T18:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Channel 3000",
-        "domain": "channel3000.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-baidu-unveils-latest-autonomous-electric-car.md",
-      "title": "Baidu unveils latest autonomous electric car",
-      "excerpt": "Baidu already runs Apollo Go, an autonomous ride-hailing service using self-driving robotaxis with safety staff seated in the driver or passenger seat. It has launched Apollo Go in big cities like ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/07/22/baidu-unveils-latest-autonomous-electric-car",
-      "originalUrl": "https://www.thestar.com.my/aseanplus/aseanplus-news/2022/07/22/baidu-unveils-latest-autonomous-electric-car",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/07/22/1668252.jpg",
-          "width": 1240,
-          "height": 826,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T17:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-all-symbols-in-tensorflow-datasets.md",
-      "title": "All symbols in TensorFlow Datasets",
-      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols",
-      "originalUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "TensorFlow",
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-content-analytics-discovery-and-cognitive-software-market-is-booming-worldwide-with-facebook-google-microsoft.md",
-      "title": "Content Analytics Discovery and Cognitive Software Market Is Booming Worldwide with Facebook, Google, Microsoft",
-      "excerpt": "and give advisory services relating to a variety of unstructured data are together referred to as Content Analytics, Discovery, and Cognitive Systems. by Type (Test Softwares (in Multiple ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/content-analytics-discovery-and-cognitive-software-market-is-booming-worldwide-with-facebook-google-microsoft",
-      "originalUrl": "https://www.digitaljournal.com/pr/content-analytics-discovery-and-cognitive-software-market-is-booming-worldwide-with-facebook-google-microsoft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/Markets-Srore-shopping-AFP-1K-01-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-ibm-watson-gets-a-factory-job.md",
-      "title": "IBM Watson Gets a Factory Job",
-      "excerpt": "The goal is to combine ABB’s domain knowledge and digital solutions with IBM’s artificial intelligence and machine-learning capabilities. The first two joint industry solutions powered by ABB Ability and Watson were designed to bring real-time ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation-motion-control/ibm-watson-gets-factory-job",
-      "originalUrl": "https://www.designnews.com/automation-motion-control/ibm-watson-gets-factory-job",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/IBM_Watson_2.PNG",
-          "width": 800,
-          "height": 536,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-uw-medicine-researchers-train-artificial-intelligence-to-build-vaccines-medications.md",
-      "title": "UW Medicine researchers 'train' artificial intelligence to build vaccines, medications",
-      "excerpt": "Researchers with UW Medicine and Harvard have developed AI software to build proteins used in health science. These can be used to make vaccines, cancer treatments or even pull carbon pollution out of the air,",
-      "sourceUrl": null,
-      "webUrl": "https://www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins",
-      "originalUrl": "https://www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2022/07/932/470/dall-e-2.png?ve=1&tl=1",
-          "width": 932,
-          "height": 470,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins.amp",
-      "cdnAmpWebUrl": "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins.amp",
-      "publishedDateTime": "2022-07-21T16:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Q13 FOX News",
-        "domain": "q13fox.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-fico-and-israels-open-financeai-to-streamline-decision-making-in-credit-insurance.md",
-      "title": "FICO and Israel’s Open-Finance.ai to Streamline Decision-Making in Credit, Insurance",
-      "excerpt": "Global analytics software provider FICO (NYSE: FICO) announced a partnership agreement with Israel’s Open-Finance.ai.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/10/Tel-Aviv-Israel-1-1024x885.jpg",
-          "width": 1024,
-          "height": 885,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/amp/",
-      "publishedDateTime": "2022-07-21T15:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-new-orleans-reverses-facial-recognition-ban-amid-surging-crime.md",
-      "title": "New Orleans reverses facial recognition ban amid surging crime",
-      "excerpt": "City leaders in New Orleans voted to reinstate the use of facial recognition technology, despite privacy concerns, as crime continues to trend upward.",
-      "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-amid-surging-crime",
-      "originalUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-amid-surging-crime",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/ae14444a-8801-419c-a5e8-91ea9a737fd1/e322ffb4-4448-495b-8740-72f544425087/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-amid-surging-crime.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/us/new-orleans-reverses-facial-recognition-ban-amid-surging-crime.amp",
-      "publishedDateTime": "2022-07-21T15:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-robotics-and-ai-are-going-from-cage-to-stage.md",
-      "title": "Robotics and AI are going from cage to stage",
-      "excerpt": "Discussion of some of the most obvious technical considerations founders need to keep in mind when shifting from a research to a mass production process.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cage-to-stage/",
-      "originalUrl": "https://techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cage-to-stage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 149,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ytimg.com/vi/PWfC5mhmynE/hqdefault.jpg",
-          "width": 480,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cage-to-stage/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/21/robotics-and-ai-are-going-from-cage-to-stage/amp/",
-      "publishedDateTime": "2022-07-21T14:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-how-ai-can-prevent-problematic-gambling-in-the-mobile-betting-world.md",
-      "title": "How AI Can Prevent Problematic Gambling in the Mobile Betting World",
-      "excerpt": "As mobile sports betting and iGaming become more popular, the companies behind them are finding new ways to increase player safety and protect data. Here's how.",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/430334",
-      "originalUrl": "https://www.entrepreneur.com/article/430334",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1657905885-GettyImages-1209687825.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-baidu-unveils-what-it-says-is-a-37000-self-driving-car-with-no-wheel.md",
-      "title": "Baidu unveils what it says is a $37,000 self-driving car with no wheel",
-      "excerpt": "China's search engine giant Baidu unveiled its new autonomous vehicle with a detachable steering wheel, with plans to put it to use for its robotaxi service in China next year.",
-      "sourceUrl": null,
-      "webUrl": "https://www.autoblog.com/2022/07/21/baidu-autonomous-car/",
-      "originalUrl": "https://www.autoblog.com/2022/07/21/baidu-autonomous-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://o.aolcdn.com/images/dims3/GLOB/crop/3952x2223+0+390/resize/800x450!/format/jpg/quality/85/https://s.aolcdn.com/os/ab/_cms/2022/07/21162728/2022-07-21T101747Z_2_LYNXMPEI6K02L_RTROPTP_4_CHINA-BAIDU.jpg.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.autoblog.com/amp/2022/07/21/baidu-autonomous-car/",
-      "cdnAmpWebUrl": "https://www-autoblog-com.cdn.ampproject.org/c/s/www.autoblog.com/amp/2022/07/21/baidu-autonomous-car/",
-      "publishedDateTime": "2022-07-21T13:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Autoblog",
-        "domain": "autoblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-new-epyc-milan-powered-aws-instance-could-be-just-what-youve-been-waiting-for.md",
-      "title": "New EPYC Milan-powered AWS instance could be just what you've been waiting for",
-      "excerpt": "AWS says the new instances deliver up to ... cloud computing, payments, artificial intelligence, retail technology, and venture capital investment. He has previously written for AltFi, FStech ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/new-epyc-milan-powered-aws-instance-could-be-just-what-youve-been-waiting-for",
-      "originalUrl": "https://www.techradar.com/news/new-epyc-milan-powered-aws-instance-could-be-just-what-youve-been-waiting-for",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/hc2BkcmhMMT4TJWEZL2gaL-1200-80.jpg",
-          "width": 1200,
-          "height": 514,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T12:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-07-22-accenture-acquiring-robotics-integrator-eclipse-automation.md",
-      "title": "Accenture acquiring robotics integrator Eclipse Automation",
-      "excerpt": "Accenture is acquiring robotics integrator Eclipse Automation for an undisclosed amount to help build the factory of the future.",
+      "path": "_news/2022-07-24-a-huge-wave-of-acquisitions-is-expected-to-hit-the-machine-learning-market-as-giants-like-snowflake-take-advantage-of-discounted-valuations.md",
+      "title": "A huge wave of acquisitions is expected to hit the machine learning market as giants like Snowflake take advantage of discounted valuations",
+      "excerpt": "Investors and insiders who poured hundreds of millions into machine-learning startups now expect a big wave of acquisitions as the market sours.",
       "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/accenture-acquiring-robotics-integrator-eclipse-automation/",
-      "originalUrl": "https://www.therobotreport.com/accenture-acquiring-robotics-integrator-eclipse-automation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T11:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-22-samsungs-2nd-generation-smartssd-can-process-data-right-on-the-drive.md",
-      "title": "Samsung’s 2nd-generation SmartSSD can process data right on the drive",
-      "excerpt": "The hard drive is designed to relieve the CPU and GPU during heavy scan processes, such as when using AI or developing high-end graphics. Normally, the CPU would need to scan the hard drive for ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/samsung-2nd-gen-smart-ssd/",
-      "originalUrl": "https://www.digitaltrends.com/computing/samsung-2nd-gen-smart-ssd/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/07/Image-2-Samsung-2nd-Gen-SmartSSD1396-1.jpg?p=1",
-          "width": 2000,
-          "height": 1415,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/samsung-2nd-gen-smart-ssd/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/samsung-2nd-gen-smart-ssd/?amp",
-      "publishedDateTime": "2022-07-21T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-organize-your-machine-learning-journey-with-amazon-sagemaker-experiments-and-amazon-sagemaker-pipelines.md",
-      "title": "Organize your machine learning journey with Amazon SageMaker Experiments and Amazon SageMaker Pipelines",
-      "excerpt": "The process of building a machine learning (ML) model is iterative until you find the candidate model that is performing well and is ready to be deployed. As data scientists iterate through that process, they need a reliable method to easily track experiments to understand how each model version was",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/organize-your-machine-learning-journey-with-amazon-sagemaker-experiments-and-amazon-sagemaker-pipelines/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/organize-your-machine-learning-journey-with-amazon-sagemaker-experiments-and-amazon-sagemaker-pipelines/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/21/organize-your-machine-learning.jpg",
-          "width": 1535,
-          "height": 764,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T10:05:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-israeli-researchers-develop-ai-machine-learning-tool-for-cancer-therapy.md",
-      "title": "Israeli researchers develop AI machine-learning tool for cancer therapy",
-      "excerpt": "Machine learning – the application of artificial intelligence (AI) using computers – can be utilized to match a cancer patient with the best immunotherapy. This process – using mathematical models of data to help a computer learn without direct ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.jpost.com/health-and-wellness/article-712752",
-      "originalUrl": "https://www.jpost.com/health-and-wellness/article-712752",
+      "webUrl": "https://www.businessinsider.com/machine-learning-acquisition-takover-targets-snowflake-databricks-tecton-ai-7-2022",
+      "originalUrl": "https://www.businessinsider.com/machine-learning-acquisition-takover-targets-snowflake-databricks-tecton-ai-7-2022",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_JM_ArticleMainImageFaceDetect/510684",
-          "width": 640,
-          "height": 428,
+          "url": "https://i.insider.com/62d9aff2d0011000190fe0fc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -845,43 +67,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://m.jpost.com/health-and-wellness/article-712752/amp",
-      "cdnAmpWebUrl": "https://m-jpost-com.cdn.ampproject.org/c/s/m.jpost.com/health-and-wellness/article-712752/amp",
-      "publishedDateTime": "2022-07-21T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Jerusalem Post Blogs",
-        "domain": "jpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-prosegur-security-launches-worlds-first-responsible-artificial-intelligence-framework-globally.md",
-      "title": "Prosegur Security Launches World's First Responsible Artificial Intelligence Framework Globally",
-      "excerpt": "An industry first, the Responsible AI Policy sets lawful, ethical and robust compliance for employees and partners utilizing Prosegur's AI",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/prosegur-security-launches-world-s-first-responsible-artificial-intelligence-framework-globally-1031604890",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/prosegur-security-launches-world-s-first-responsible-artificial-intelligence-framework-globally-1031604890",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T08:06:00-07:00",
+      "ampWebUrl": "https://www.businessinsider.com/machine-learning-acquisition-takover-targets-snowflake-databricks-tecton-ai-7-2022?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/machine-learning-acquisition-takover-targets-snowflake-databricks-tecton-ai-7-2022?amp",
+      "publishedDateTime": "2022-07-24T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Business Insider",
@@ -904,27 +92,26 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Security"
+        "Machine Learning",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-07-21-runai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing.md",
-      "title": "Run.ai partners with Nvidia as it sets its sights on inferencing",
-      "excerpt": "Run.ai, the well-funded service for orchestrating AI workloads, made a name for itself in the last couple of years by helping its users get the most out of their GPU resources on-premises and in the cloud to train their models.",
+      "path": "_news/2022-07-24-big-tech-builds-ai-with-bad-data-so-scientists-sought-better-data.md",
+      "title": "Big Tech builds AI with bad data. So scientists sought better data.",
+      "excerpt": "At Facebook, he worked on AI that provided paragraph answers to ... and erred on the side of not blocking terms. Recent research has shown that filtering can introduce new problems.",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/",
-      "originalUrl": "https://techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/",
+      "webUrl": "https://www.washingtonpost.com/technology/2022/07/21/big-science-ai-open-source-language-model/",
+      "originalUrl": "https://www.washingtonpost.com/technology/2022/07/21/big-science-ai-open-source-language-model/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-816675200.jpg?w=1024",
-          "width": 1024,
-          "height": 686,
+          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/IIOTKPAC7QI63C7LFNHEQGYVAA.jpg&w=1440",
+          "width": 1440,
+          "height": 987,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -932,16 +119,178 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/21/run-ai-partners-with-nvidia-as-it-sets-its-sights-on-inferencing/amp/",
-      "publishedDateTime": "2022-07-21T08:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-24T01:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-24-iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy.md",
+      "title": "IIM Ahmedabad proposes face recognition tool to modernize cow-based economy",
+      "excerpt": "An Indian Institute of Management (IIM-A) study recommends a model using facial recognition technology for stray cows to link them with donors to achieve \"Gai Aadharit Unnati (GAU),\" or cow-based development.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece",
+      "originalUrl": "https://www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bl-i.thgim.com/public/incoming/ckzfjm/article65677370.ece/alternates/LANDSCAPE_615/Energy_Transition_Hydrogen_Storage_81364.jpg-3226e.jpg",
+          "width": 615,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/iim-ahmedabad-proposes-face-recognition-tool-to-modernize-cow-based-economy/article65677336.ece/amp/",
+      "publishedDateTime": "2022-07-23T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Line",
+        "domain": "thehindubusinessline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-24-visualcortex-and-university-of-wollongong-partner-to-drive-computer-vision-innovation-and-industry-research-collaboration.md",
+      "title": "VisualCortex and University of Wollongong partner to drive computer vision innovation and industry - research collaboration",
+      "excerpt": "VisualCortex – the Video Intelligence Platform connecting computer vision's potential to real-world business outcomes – has partnered with the University of Wollongong (UOW), joining its research and development hub for Artificial Intelligence of Things (AIOT) Solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-visualcortex-university-wollongong-partner-drive-computer-vision-innovation-/2022/07/24/9643901.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-visualcortex-university-wollongong-partner-drive-computer-vision-innovation-/2022/07/24/9643901.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-24-google-fires-engineer-who-called-ai-model-sentient.md",
+      "title": "Google fires engineer who called AI model 'sentient'",
+      "excerpt": "His peers would argue, though, that it's been for the wrong reason. As a member of Google's Responsible AI division, he's been pitching and publicizing transcripts generated from his interactions with the company's Language Model for Dialogue Applications ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidpolice.com/google-fires-blake-lemoine-lamda-engineer/",
+      "originalUrl": "https://www.androidpolice.com/google-fires-blake-lemoine-lamda-engineer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2022/06/LaMDA-hero.jpg",
+          "width": 720,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidpolice.com/google-fires-blake-lemoine-lamda-engineer/amp/",
+      "cdnAmpWebUrl": "https://www-androidpolice-com.cdn.ampproject.org/c/s/www.androidpolice.com/google-fires-blake-lemoine-lamda-engineer/amp/",
+      "publishedDateTime": "2022-07-23T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Police",
+        "domain": "androidpolice.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-24-how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities.md",
+      "title": "How drone autonomy unlocks a new era of AI opportunities",
+      "excerpt": "Autonomous drone technology lets us digitize and analyze the physical world, observing and improving our world’s critical infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities/",
+      "originalUrl": "https://venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1319586125-Anton-Petrus.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/23/how-drone-autonomy-unlocks-a-new-era-of-ai-opportunities/amp/",
+      "publishedDateTime": "2022-07-23T13:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -958,16 +307,349 @@
       ],
       "topics": [
         "AI",
-        "AI Hardware"
+        "AI in Robotics"
       ]
     },
     {
-      "path": "_news/2022-07-21-exl-recognized-as-a-major-player-in-idc-marketscape-for-intelligent-automation-services.md",
-      "title": "EXL recognized as a Major Player in IDC MarketScape for Intelligent Automation Services",
-      "excerpt": "Focused on novel uses of artificial intelligence (AI), machine learning and cloud to automate knowledge work and decisioning environments, the IDC MarketScape spotlights the evolution of business process management into an increasingly data-intensive,",
+      "path": "_news/2022-07-24-google-fires-engineer-who-contended-its-ai-technology-was-sentient.md",
+      "title": "Google fires engineer who contended its AI technology was sentient",
+      "excerpt": "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies.",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/covid-technology-health-artificial-intelligence-01896e050648de4166c2d841e21c1aa9",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/covid-technology-health-artificial-intelligence-01896e050648de4166c2d841e21c1aa9",
+      "webUrl": "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
+      "originalUrl": "https://edition.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 267,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220723131843-blake-lemoine-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
+      "publishedDateTime": "2022-07-23T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-24-elon-musk-has-likely-downloaded-his-brain-into-a-robot.md",
+      "title": "Elon Musk Has Likely Downloaded His Brain into a Robot",
+      "excerpt": "\"20 to 30 years from first human landing if launch rate growth is exponential,\" Musk said on July 15 to a question about the estimated timeframe for creating a self-sustaining civilization on Mars. \"Assumes transferring ~100k each rendezvous and ~1M total people needed,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/technology/elon-musk-has-likely-downloaded-his-brain-into-a-robot",
+      "originalUrl": "https://www.thestreet.com/technology/elon-musk-has-likely-downloaded-his-brain-into-a-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTg3NjE5NzYxNjg0MjI3OTgz/las-vegas-strip_2.jpg",
+          "width": 620,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/technology/elon-musk-has-likely-downloaded-his-brain-into-a-robot",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/elon-musk-has-likely-downloaded-his-brain-into-a-robot",
+      "publishedDateTime": "2022-07-23T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-24-new-discovery-on-mental-illness-indicators-using-the-ai.md",
+      "title": "New Discovery on Mental Illness Indicators Using the AI",
+      "excerpt": "Georgia State researchers develop artificial intelligence models that learn as they go to discover novel brain patterns linked to mental illness.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm",
+      "originalUrl": "https://www.medindia.net/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/artificial-intelligence-can-detect-stroke-and-dementia-risk.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/new-discovery-on-mental-illness-indicators-using-the-ai-208032-1.htm",
+      "publishedDateTime": "2022-07-23T10:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-azure-synapse-vs-databricks-data-platform-comparison.md",
+      "title": "Azure Synapse vs. Databricks: Data Platform Comparison",
+      "excerpt": "For those wanting a top-class data warehouse for analytics, Azure Synapse wins. But for those needing more robust ELT (extract, load, transform), data science, and machine learning features ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/azure-synapse-vs-databricks/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/azure-synapse-vs-databricks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/Specops-bruce-mars-xj8qrWvuOEs-unsplash-1-scaled-1.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-23T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-the-future-of-creativity-brought-to-you-by-artificial-intelligence.md",
+      "title": "The future of creativity, brought to you by artificial intelligence",
+      "excerpt": "How can AI reshape creativity in the business world? To start with, it can reduce the time and resources spent by marketing and ad teams.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/23/the-future-of-creativity-brought-to-you-by-artificial-intelligence/",
+      "originalUrl": "https://venturebeat.com/2022/07/23/the-future-of-creativity-brought-to-you-by-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1061856486-koto_feja.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 613,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/23/the-future-of-creativity-brought-to-you-by-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/23/the-future-of-creativity-brought-to-you-by-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-07-23T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-detecting-covert-consciousness-with-eeg-and-artificial-intelligence.md",
+      "title": "Detecting Covert Consciousness with EEG and Artificial Intelligence",
+      "excerpt": "For those who appear totally unresponsive, researchers have discovered that signs of covert consciousness or subtle brainwaves detected by an EEG (ElectroE | Health And Medicine",
+      "sourceUrl": null,
+      "webUrl": "https://www.labroots.com/trending/health-and-medicine/23245/detecting-covert-consciousness-eeg-artificial-intelligence-2",
+      "originalUrl": "https://www.labroots.com/trending/health-and-medicine/23245/detecting-covert-consciousness-eeg-artificial-intelligence-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.labroots.com/_public/_files/system/ck/trending/IMG_0154_4ff1954b914dfc72b4ed6408d0168a4c.PNG",
+          "width": 1280,
+          "height": 915,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.labroots.com/trending/health-and-medicine/23245/detecting-covert-consciousness-eeg-artificial-intelligence-2/amp",
+      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/health-and-medicine/23245/detecting-covert-consciousness-eeg-artificial-intelligence-2/amp",
+      "publishedDateTime": "2022-07-23T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Labroots",
+        "domain": "labroots.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-google-fires-engineer-who-contended-its-ai-technology-was-sentient.md",
+      "title": "Google fires engineer who contended its AI technology was sentient",
+      "excerpt": "Google has fired an engineer who claimed an unreleased AI system had become sentient, the company confirmed, saying he violated employment and data security policies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
+      "originalUrl": "https://www.cnn.com/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 279,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220723131843-blake-lemoine-restricted-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/07/23/business/google-ai-engineer-fired-sentient/index.html",
+      "publishedDateTime": "2022-07-23T07:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-ethical-gmbh-adds-artificial-intelligence-to-sae-data-reconciliation-automation.md",
+      "title": "Ethical GmbH Adds Artificial Intelligence to SAE Data Reconciliation Automation",
+      "excerpt": "By adding artificial intelligence (AI) to its eReconciliation® automation engine, Ethical helps to improve the automated matching accuracy and reduces even further time spent reviewing unmatched SAEs.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/newswire/technology-software-switzerland-f457537af6633904592670c2b4e6c7e7",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-software-switzerland-f457537af6633904592670c2b4e6c7e7",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -986,7 +668,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T07:38:00-07:00",
+      "publishedDateTime": "2022-07-23T07:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Associated Press",
@@ -1000,26 +682,27 @@
         "news"
       ],
       "topics": [
-        "AI in Finance",
-        "AI"
+        "AI in Autos",
+        "AI",
+        "AI Ethics"
       ]
     },
     {
-      "path": "_news/2022-07-21-sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics.md",
-      "title": "Sign up for free and tune in today for TC Sessions: Robotics",
-      "excerpt": "Robotics is finally here, and we can’t wait to get things started! If you don’t have your free pass yet, no worries — sign in here to register. Then join more than 3,000 global attendees online for a full day exploring the latest news,",
+      "path": "_news/2022-07-23-googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being.md",
+      "title": "Google’s Artificial Intelligence Chatbot LaMDA is a “Sentient” Being",
+      "excerpt": "The war between humans and machines. Well, we guess you all know this story very well. Moreover, there are tons of movies and books telling how artificial intelligence takes over and thinks this planet belongs to it. This is already a reality. Don’t you ...",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/21/sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics/",
-      "originalUrl": "https://techcrunch.com/2022/07/21/sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics/",
+      "webUrl": "https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/",
+      "originalUrl": "https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/TC22_Sessions_Robotics_Wordpress-Post-Header_0-Days-Left-Early-Bird-Countdown_1200x628.png?w=1024",
-          "width": 1024,
-          "height": 535,
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/07/Google-engineer-claims-AI-technology-LaMDA-is-sentient-1200x675.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1027,16 +710,145 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/21/sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/21/sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics/amp/",
-      "publishedDateTime": "2022-07-21T07:30:00-07:00",
+      "ampWebUrl": "https://www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/07/23/googles-artificial-intelligence-chatbot-lamda-is-a-sentient-being/amp/",
+      "publishedDateTime": "2022-07-23T06:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-sony-bravia-xr-oled-a80k-series-with-4k-resolution-cognitive-processor-xr-launched-in-india-check-price-specs.md",
+      "title": "Sony Bravia XR OLED A80K series with 4K resolution, cognitive processor XR launched in India: Check price, specs",
+      "excerpt": "Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window) Click to share on WhatsApp (Opens in new window) The cognitive processor XR powering the TVs will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/industry/technology/sony-bravia-xr-oled-a80k-series-tv-4k-resolution-india-launch-price-features/2603805/",
+      "originalUrl": "https://www.financialexpress.com/industry/technology/sony-bravia-xr-oled-a80k-series-tv-4k-resolution-india-launch-price-features/2603805/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/07/ezgif-2-cb277f5b6f.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/industry/technology/sony-bravia-xr-oled-a80k-series-tv-4k-resolution-india-launch-price-features/2603805/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/sony-bravia-xr-oled-a80k-series-tv-4k-resolution-india-launch-price-features/2603805/lite/",
+      "publishedDateTime": "2022-07-23T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience.md",
+      "title": "Why espousing AI and machine learning-integrated marketing is crucial for elevating customer experience?",
+      "excerpt": "Personalization has taken over the reins in redefining marketing. What better than understanding the customer preference and providing precise products/ services catering to their needs. Let’s understand the powerplay of machine learning and AI",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/07/MicrosoftTeams-image-5.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/why-espousing-ai-and-machine-learning-integrated-marketing-is-crucial-for-elevating-customer-experience/",
+      "publishedDateTime": "2022-07-23T03:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-how-to-build-ai-that-actually-works-for-your-business.md",
+      "title": "How to Build AI That Actually Works for Your Business",
+      "excerpt": "The biggest, fanciest, most ‘intelligent’-seeming artificial intelligence gets all the attention, but tried-and-true algorithms, applied to narrowly defined problems, are far more useful today.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/how-to-build-ai-that-actually-works-for-your-business-11658548830",
+      "originalUrl": "https://www.wsj.com/articles/how-to-build-ai-that-actually-works-for-your-business-11658548830",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-589120/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/how-to-build-ai-that-actually-works-for-your-business-11658548830",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-to-build-ai-that-actually-works-for-your-business-11658548830",
+      "publishedDateTime": "2022-07-22T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1052,26 +864,119 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-07-21-ai-tech-stocks-and-the-growing-implementation-in-the-sports-market.md",
-      "title": "AI Tech Stocks And The Growing Implementation In The Sports Market",
-      "excerpt": "Similarly, IBM, the 'Official Technology ... by Match Insights with Watson and those of other fans.' Another firm cited in the Vantage Market Research report on AI in Sports was sports performance ...",
+      "path": "_news/2022-07-23-ai-is-key-to-keeping-your-digital-services-running.md",
+      "title": "AI Is Key To Keeping Your Digital Services Running",
+      "excerpt": "The right AI approach can make the difference between up and running and down and out. You don’t need us to tell you that times are weird. The perfect storm of Covid variant waves, war in Ukraine, unrelenting climate events,",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104568716/AI-Tech-Stocks-And-The-Growing-Implementation-In-The-Sports-Market",
-      "originalUrl": "https://menafn.com/1104568716/AI-Tech-Stocks-And-The-Growing-Implementation-In-The-Sports-Market",
+      "webUrl": "https://www.forbes.com/sites/servicenow/2022/07/22/ai-is-key-to-keeping-your-digital-services-running/",
+      "originalUrl": "https://www.forbes.com/sites/servicenow/2022/07/22/ai-is-key-to-keeping-your-digital-services-running/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62db2cbccce38e50ba39dc40/0x0.jpg?format=jpg&width=1200",
+          "width": 567,
+          "height": 305,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2022/07/22/ai-is-key-to-keeping-your-digital-services-running/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2022/07/22/ai-is-key-to-keeping-your-digital-services-running/amp/",
+      "publishedDateTime": "2022-07-22T16:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-take-an-inside-look-at-how-nopds-facial-recognition-tech-works.md",
+      "title": "Take an inside look at how NOPD's facial recognition tech works",
+      "excerpt": "According to the NOPD, the department’s facial recognition policy has already been approved by the Department of Justice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wwltv.com/article/news/local/orleans/new-orleans-nopd-facial-recognition-tech/289-aad5620f-d487-48cc-b687-b3440a017cc3",
+      "originalUrl": "https://www.wwltv.com/article/news/local/orleans/new-orleans-nopd-facial-recognition-tech/289-aad5620f-d487-48cc-b687-b3440a017cc3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wwltv.com/assets/WWL/images/3111947a-0bb6-4e4e-93b9-887b75ffbdc3/3111947a-0bb6-4e4e-93b9-887b75ffbdc3_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wwltv.com/amp/article/news/local/orleans/new-orleans-nopd-facial-recognition-tech/289-aad5620f-d487-48cc-b687-b3440a017cc3",
+      "cdnAmpWebUrl": "https://www-wwltv-com.cdn.ampproject.org/c/s/www.wwltv.com/amp/article/news/local/orleans/new-orleans-nopd-facial-recognition-tech/289-aad5620f-d487-48cc-b687-b3440a017cc3",
+      "publishedDateTime": "2022-07-22T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WWLTV",
+        "domain": "wwltv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-machine-learning-hiring-levels-in-the-retail-banking-industry-rose-in-june-2022.md",
+      "title": "Machine learning hiring levels in the retail banking industry rose in June 2022",
+      "excerpt": "Retail banking sector hiring for machine learning related positions kept relatively steady in June 2022 compared with June last year",
+      "sourceUrl": null,
+      "webUrl": "https://www.retailbankerinternational.com/analysis/machine-learning-hiring-levels-in-the-retail-banking-industry-rose-in-june-2022/",
+      "originalUrl": "https://www.retailbankerinternational.com/analysis/machine-learning-hiring-levels-in-the-retail-banking-industry-rose-in-june-2022/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?365796",
-          "width": 401,
-          "height": 250,
+          "url": "https://www.retailbankerinternational.com/wp-content/uploads/sites/2/2022/07/oJp5H-1038x778.png",
+          "width": 1038,
+          "height": 778,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1081,11 +986,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T05:41:00-07:00",
+      "publishedDateTime": "2022-07-22T15:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
+        "name": "retailbankerinternational",
+        "domain": "retailbankerinternational.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1095,17 +1000,61 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-23-dynamic-mental-illness-indicators-caught-by-advanced-ai-in-brain-imaging.md",
+      "title": "Dynamic mental illness indicators caught by advanced AI in brain imaging",
+      "excerpt": "New research by Georgia State University's TReNDS Center may lead to early diagnosis of devastating conditions such as Alzheimer's disease, schizophrenia and autism—in time to help prevent and more easily treat these disorders.",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-07-dynamic-mental-illness-indicators-caught.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-07-dynamic-mental-illness-indicators-caught.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/4-brain.jpg",
+          "width": 1920,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-07-dynamic-mental-illness-indicators-caught.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-dynamic-mental-illness-indicators-caught.amp",
+      "publishedDateTime": "2022-07-22T12:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-07-21-econ-corp-services-dba-investorideascom-ai-tech-stocks-and-the-growing-implementation-in-the-sports-market.md",
-      "title": "Econ Corp Services DBA Investorideas.com: AI Tech Stocks and the Growing Implementation in the Sports Market",
-      "excerpt": "July 21, 2022) - Investorideas.com ( a global investor news source covering Artificial Intelligence (AI) stocks releases a sector snapshot looking at the growing AI tech implementation in the sports market,",
+      "path": "_news/2022-07-22-omaha-selected-as-host-site-for-notified-artificial-intelligence-bootcamp-applications-now-open.md",
+      "title": "Omaha Selected as Host Site for Notified Artificial Intelligence Bootcamp - APPLICATIONS NOW OPEN!",
+      "excerpt": "Notified is one of 20+ host companies selected to host 30 camps across the U.S. in the Fall of 2022. The Notified Bootcamp will be held over four consecutive Saturdays starting on October 22nd and ending on November 12th.",
       "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-07/56608968-econ-corp-services-dba-investorideas-com-ai-tech-stocks-and-the-growing-implementation-in-the-sports-market-296.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-07/56608968-econ-corp-services-dba-investorideas-com-ai-tech-stocks-and-the-growing-implementation-in-the-sports-market-296.htm",
+      "webUrl": "https://www.tmcnet.com/usubmit/-omaha-selected-as-host-site-notified-artificial-intelligence-/2022/07/22/9643775.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-omaha-selected-as-host-site-notified-artificial-intelligence-/2022/07/22/9643775.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1115,11 +1064,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T05:13:00-07:00",
+      "publishedDateTime": "2022-07-22T09:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1129,7 +1078,59 @@
         "news"
       ],
       "topics": [
-        "IBM AI",
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-tech-giants-new-robotaxi-with-removable-steering-wheel-not-legal-yet-in-china.md",
+      "title": "Tech giant's new robotaxi with removable steering wheel not legal yet in China",
+      "excerpt": "Chinese tech giant Baidu revealed its plan to roll out Apollo RT6, an autonomous self-driving car with a detachable steering wheel, even though Chinese authorities haven't approved the concept yet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/business/2022/07/21/baidu-apollo-rt6-robotaxi-without-steer-wheel-orig-ht.cnn-business",
+      "originalUrl": "https://www.cnn.com/videos/business/2022/07/21/baidu-apollo-rt6-robotaxi-without-steer-wheel-orig-ht.cnn-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220721145214-baidu-apollo-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2022/07/21/baidu-apollo-rt6-robotaxi-without-steer-wheel-orig-ht.cnn-business",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/07/21/baidu-apollo-rt6-robotaxi-without-steer-wheel-orig-ht.cnn-business",
+      "publishedDateTime": "2022-07-22T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
         "AI"
       ]
     }

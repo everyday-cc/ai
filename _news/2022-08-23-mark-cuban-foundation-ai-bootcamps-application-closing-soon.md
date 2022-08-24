@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/28604874"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28604874"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,22 @@ topics:
   - AI
 
 related:
+  - title: "KnowledgeHut upGrad launches AI engineering bootcamps"
+    excerpt: "According to the statement, in the foundation phase, candidates will learn about data warehousing, Linux, Python, SQL, Hadoop, MongoDB, Big Data processing, Big Data security, and AWS."
+    publishedDateTime: 2022-08-24T11:28:00Z
+    webUrl: "https://www.financialexpress.com/education-2/knowledgehut-upgrad/2642713/"
+    ampWebUrl: "https://www.financialexpress.com/education-2/knowledgehut-upgrad/2642713/lite/"
+    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/knowledgehut-upgrad/2642713/lite/"
+    type: article
+    provider:
+      name: The Financial Express
+      domain: financialexpress.com
+    quality: 59
+    images:
+      - url: "https://www.financialexpress.com/wp-content/uploads/2022/08/Edtech-1200-1-5.jpg"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Mark Cuban Foundation AI Bootcamps- Application Closing Soon!"
     excerpt: "The Mark Cuban Foundation will host Artificial Intelligence (AI) Bootcamps for high school students in the Fall of 2022. The No Cost AI Bootcamp will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
     publishedDateTime: 2022-08-23T18:20:00Z

@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Face recognition struggles to recognise us after five years of ageing"
+    excerpt: "As we age, our faces change, becoming slowly different from images used for facial recognition – so new photos may be needed more frequently to maintain accuracy and security"
+    publishedDateTime: 2022-08-24T11:14:00Z
+    webUrl: "https://www.newscientist.com/article/2334375-face-recognition-struggles-to-recognise-us-after-five-years-of-ageing/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 39
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/08/24105817/SEI_120628051.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "BJ0zrJIOT3LeVZUoZX1IvYMSTb+SxfkefofaGK1ECiST38kmb5IWWlwstW83Xe0KCR5oLhKkVYL7QC9wnFTscTPmICxwNr/9qhcgcyG97N8dUyU8514QkFNqP+Lws77Bu265vgL3OBYKiEzy3ezQd4SGfBZoCAKPmEwxduf4R00uylJNbKigglRuEZC6ozNur45Vv+/Kr/yGuVP1DMrf/58e/1gl+FT8iLGE7/se17wEgU5yPXOXGwWChX/eo+IjzQj3R9a//Rw/IxjFflJ6kwovkttlepy9GGxx/ALdgH+p0RE+MFX/atFkhyMkIWxW6usKaqpqOliPPRf5cNgwRy2FqJar+6Q/MYo5cTYhvsSfwUoIZy9WY3qzTufdLrXTNxS6r7Ho/xSeXejbmsqkM++6Zs+bnYiOHf5IsSgPbXp74OpuoX1DNVbotbK6fQgVebYQV/Da9o6d3ykXeidr3VwqLx7ODey+3lHN4Vu5VDiz+AYGf+1D5VhwCSJAlN6GUz4RlIx7hUqmXk/TgpHGIQ==;UBoquhBOy2VpPPhC1HdPFg=="
 ---

@@ -2,6 +2,101 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-24-knowledgehut-upgrad-launches-ai-engineering-bootcamps.md",
+      "title": "KnowledgeHut upGrad launches AI engineering bootcamps",
+      "excerpt": "According to the statement, in the foundation phase, candidates will learn about data warehousing, Linux, Python, SQL, Hadoop, MongoDB, Big Data processing, Big Data security, and AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/education-2/knowledgehut-upgrad/2642713/",
+      "originalUrl": "https://www.financialexpress.com/education-2/knowledgehut-upgrad/2642713/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/08/Edtech-1200-1-5.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/education-2/knowledgehut-upgrad/2642713/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/knowledgehut-upgrad/2642713/lite/",
+      "publishedDateTime": "2022-08-24T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages.md",
+      "title": "Restaurants Send More Customer Calls to Voice Bots Amid Staffing Shortages",
+      "excerpt": "Some executives say automating phone lines will ease pressure on stretched hospitality staff—but others question whether hungry customers are ready to order from a nonhuman voice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
+      "originalUrl": "https://www.wsj.com/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-609305/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
+      "publishedDateTime": "2022-08-24T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-capitol-records-pulls-plug-on-racist-ai-rapper-after-barely-a-week.md",
       "title": "Capitol Records Pulls Plug On Racist ‘AI Rapper’ After Barely A Week",
       "excerpt": "The record label pulled the controversial artist it \"signed\" after an activist group called it \"an amalgamation of gross stereotypes.\"",
@@ -34,6 +129,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-scalenuts-ai-copywriter-also-helps-content-make-a-dent-in-search-engine-results.md",
+      "title": "Scalenut’s AI copywriter also helps content make a dent in search engine results",
+      "excerpt": "AI copywriters are getting a lot of attention from investors. A couple that have recently raised funding include Copy.ai and Copysmith. Now Scalenut is entering the arena with a $3.1 million funding round led by Saama Capital and Amit Singhal,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/23/scalenuts-ai-copywriter-also-helps-content-make-a-dent-in-search-engine-results/",
+      "originalUrl": "https://techcrunch.com/2022/08/23/scalenuts-ai-copywriter-also-helps-content-make-a-dent-in-search-engine-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/From-L-to-R-Gaurav-Goyal-Saurabh-Wadhawan-Mayank-Jain-1.jpg?w=680",
+          "width": 680,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/23/scalenuts-ai-copywriter-also-helps-content-make-a-dent-in-search-engine-results/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/23/scalenuts-ai-copywriter-also-helps-content-make-a-dent-in-search-engine-results/amp/",
+      "publishedDateTime": "2022-08-23T21:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -192,7 +338,7 @@
       "originalUrl": "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 100,
       "tags": null,
       "images": [
         {
@@ -739,7 +885,7 @@
       "originalUrl": "https://venturebeat.com/ai/why-some-ai-companies-are-securing-massive-funding-despite-economic-downturn/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 98,
       "tags": null,
       "images": [
         {
@@ -781,6 +927,58 @@
         "AI in Finance",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-hot-it-skills-to-develop-now.md",
+      "title": "Hot IT Skills To Develop Now",
+      "excerpt": "Technology continually evolves, and our skills need to evolve with it to remain relevant and keep our careers on track. As the global CIO at NPD, I’ve met many amazing CIO/CTO colleagues and watched as the key issues we collectively face have evolved from pre-pandemic planning to supporting our business through the pandemic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/hot-it-skills-to-develop-now/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/hot-it-skills-to-develop-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f3ac7cf80a528019291bfb9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/hot-it-skills-to-develop-now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/23/hot-it-skills-to-develop-now/amp/",
+      "publishedDateTime": "2022-08-23T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -1031,204 +1229,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-artificial-intelligence-ai-for-security-market-size-share-growth-2022-key-players-revenue-trends-opportunities-and-regional-forecast.md",
-      "title": "Artificial Intelligence (AI) for Security Market Size, Share, Growth, 2022 Key Players, Revenue, Trends, Opportunities and Regional Forecast to 2028",
-      "excerpt": "Global “Artificial Intelligence (AI) for Security Market” (2022) report provides the detailed study of business",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-for-security-market-size-share-growth-2022-key-players-revenue-trends-opportunities-and-regional-forecast-to-2028-2022-08-23",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-for-security-market-size-share-growth-2022-key-players-revenue-trends-opportunities-and-regional-forecast-to-2028-2022-08-23",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 190,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T02:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact.md",
-      "title": "Singapore looks to drive AI research, capabilities with Google Cloud pact",
-      "excerpt": "Touted as the Singapore government's first private-sector partnership in artificial intelligence, the collaboration will see both sides jointly develop and testbed applications as well as work on issues pertaining to AI governance and ethics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
-      "originalUrl": "https://www.zdnet.com/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
-      "publishedDateTime": "2022-08-22T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-ai-detects-parkinsons-disease-by-tracking-your-breathing-patterns.md",
-      "title": "AI detects Parkinson’s disease by tracking your breathing patterns",
-      "excerpt": "A compelling new study indicates Parkinson’s disease (PD) could be diagnosed by remotely tracking a person’s breathing patterns. Led by researchers from MIT, the study presents an AI system that uses radio waves to monitor breathing while a person sleeps.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/health-wellbeing/ai-parkinsons-disease-sleep-breathing-patterns-mit",
-      "originalUrl": "https://newatlas.com/health-wellbeing/ai-parkinsons-disease-sleep-breathing-patterns-mit",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 147,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/1f864fd/2147483647/strip/true/crop/800x420+0+90/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F61%2F90%2F1e3d4dc9497c909b9aeb6bf860f0%2Fparkinson-ai-breath-detector-mit-00-0.jpg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T16:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-new-gartner-survey-only-half-of-ai-models-make-it-into-production.md",
-      "title": "New Gartner survey: Only half of AI models make it into production",
-      "excerpt": "A new artificial intelligence survey from Gartner reported that, on average, only 54% of AI models move from pilot to production.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/new-gartner-survey-only-half-of-ai-models-make-it-into-production/",
-      "originalUrl": "https://venturebeat.com/ai/new-gartner-survey-only-half-of-ai-models-make-it-into-production/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1134028859-e1653340548357.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/new-gartner-survey-only-half-of-ai-models-make-it-into-production/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/new-gartner-survey-only-half-of-ai-models-make-it-into-production/amp/",
-      "publishedDateTime": "2022-08-22T14:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

@@ -8,8 +8,8 @@ webUrl: "https://www.thehindu.com/sci-tech/technology/explained-delhi-polices-us
 ampWebUrl: "https://www.thehindu.com/sci-tech/technology/explained-delhi-polices-use-of-facial-recognition-technology/article65793897.ece/amp/"
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/explained-delhi-polices-use-of-facial-recognition-technology/article65793897.ece/amp/"
 type: article
-quality: 74
-heat: 84
+quality: 76
+heat: 86
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://th-i.thgim.com/public/incoming/69w7u9/article65793992.ece/alternates/LANDSCAPE_615/iStock-1280436988.jpg"

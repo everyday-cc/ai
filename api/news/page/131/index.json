@@ -2,26 +2,35 @@
   "page": 131,
   "value": [
     {
-      "path": "_news/2022-05-11-sas-viya-on-microsoft-azure-can-deliver-204-roi-according-to-independent-study.md",
-      "title": "SAS Viya on Microsoft Azure can deliver 204% ROI according to independent study",
-      "excerpt": "Organisations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see",
+      "path": "_news/2022-05-12-apeejay-education-aws-launch-nep-accelerator-programme.md",
+      "title": "Apeejay Education, AWS launch NEP Accelerator programme",
+      "excerpt": "This is the first program in India to support the technology transformation of education institutions as per the NEP 2020, according to Apeejay Education.",
       "sourceUrl": null,
-      "webUrl": "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study",
-      "originalUrl": "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study",
+      "webUrl": "https://www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532.html",
+      "originalUrl": "https://www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 136,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/05/12/1600x900/congress-santiago-american-business-technology-services-america_b095090a-3ae3-11eb-95ec-0fdf1bc83475_1652346526516.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T09:29:00-07:00",
+      "ampWebUrl": "https://www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/education/employment-news/apeejay-education-aws-launch-nep-accelerator-programme-101652344953532-amp.html",
+      "publishedDateTime": "2022-05-12T02:10:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "BusinessGhana",
-        "domain": "businessghana.com",
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -31,79 +40,27 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-achieve-in-vehicle-comfort-using-personalized-machine-learning-and-amazon-sagemaker.md",
-      "title": "Achieve in-vehicle comfort using personalized machine learning and Amazon SageMaker",
-      "excerpt": "This blog post is co-written by Rudra Hota and Esaias Pech from Continental AG. Many drivers have had the experience of trying to adjust temperature settings in their vehicle while attempting to keep their eyes on the road. Whether the previous driver preferred a warmer cabin temperature, or you’re now",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-in-vehicle-comfort-using-personalized-machine-learning-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/achieve-in-vehicle-comfort-using-personalized-machine-learning-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/03/ML-9354-image003-300.jpg",
-          "width": 300,
-          "height": 318,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T09:24:35-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
         "AWS AI",
-        "Machine Learning"
+        "AI",
+        "AI in Education"
       ]
     },
     {
-      "path": "_news/2022-05-11-how-voxels-ai-technology-could-put-a-stop-to-accidents-at-work.md",
-      "title": "How Voxel’s AI Technology Could Put A Stop To Accidents At Work",
-      "excerpt": "San Francisco-based Voxel will today announce a $15 million Series A round, with investors flocking to a company promising that new technology can dramatically reduce workplace accidents. The business applies artificial intelligence tools to live video feeds from its customers in order to prevent accidents before they happen and to identify behaviours that might lead to future health and safety difficulties.",
+      "path": "_news/2022-05-12-google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022.md",
+      "title": "Google Announces AI Test Kitchen App For Beta Testing Of The Latest Language Models At I/O 2022",
+      "excerpt": "The American search giant revealed a bunch of new updates that will fall under the AI technology. Moving forward, we can clearly see that Google will be using a lot of AI technology in the future and the new upcoming features that were announced include multisearch that will allow a user to pair the image searches with the text searches and addition of support for 24 new languages in Google Translate.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidprosser/2022/05/11/how-voxels-ai-technology-could-put-a-stop-to-accidents-at-work/",
-      "originalUrl": "https://www.forbes.com/sites/davidprosser/2022/05/11/how-voxels-ai-technology-could-put-a-stop-to-accidents-at-work/",
+      "webUrl": "https://in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022",
+      "originalUrl": "https://in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 137,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/627a68068765b407f2674b04/0x0.jpg?format=jpg&crop=2793,1309,x0,y340,safe&width=1200",
-          "width": 1200,
-          "height": 562,
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/image-from-ios-71_1d9a.620.jpg",
+          "width": 619,
+          "height": 374,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -111,16 +68,111 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2022/05/11/how-voxels-ai-technology-could-put-a-stop-to-accidents-at-work/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2022/05/11/how-voxels-ai-technology-could-put-a-stop-to-accidents-at-work/amp/",
-      "publishedDateTime": "2022-05-11T09:00:00-07:00",
+      "ampWebUrl": "https://in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/31599/google-announces-ai-test-kitchen-app-for-beta-testing-of-the-latest-language-models-at-io-2022?amp=1",
+      "publishedDateTime": "2022-05-12T02:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-the-man-who-controls-computers-with-his-mind.md",
+      "title": "The Man Who Controls Computers With His Mind",
+      "excerpt": "Staring at the computer screen, searching his mind for a way to begin ... interfaces have learned to play simple tunes on a digital keyboard, control exoskeletons and maneuver robotic limbs with enough dexterity to drink from a bottle.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.html",
+      "originalUrl": "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/15/magazine/15mag-BCI/15mag-BCI-facebookJumbo-v5.png",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/05/12/magazine/brain-computer-interface.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/12/magazine/brain-computer-interface.amp.html",
+      "publishedDateTime": "2022-05-12T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge.md",
+      "title": "California’s AI-Powered Wildfire Prevention Efforts Contend With Data Challenge",
+      "excerpt": "The state’s utilities are racing to build AI models capable of identifying equipment problems that could cause wildfires.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
+      "originalUrl": "https://www.wsj.com/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-542314/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/californias-ai-powered-wildfire-prevention-efforts-contend-with-data-challenge-11652347803",
+      "publishedDateTime": "2022-05-12T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -140,21 +192,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-11-the-academy-and-nuance-a-microsoft-company-partner-to-launch-the-ai-collaborative.md",
-      "title": "The Academy and Nuance, a Microsoft Company, Partner to Launch The AI Collaborative",
-      "excerpt": "The AI Collaborative brings together Leading Health System executives in an experiential community around the efficient, responsible, and future-focused deployment of artificial intelligence and machine learning.",
+      "path": "_news/2022-05-12-at-jpmorgan-chase-upskilling-goes-hand-in-hand-with-innovation.md",
+      "title": "At JPMorgan Chase, Upskilling Goes Hand-in-Hand With Innovation",
+      "excerpt": "It sounds like a scene from your typical automotive race, but it’s not. It’s actually the championship round of the 2021 Amazon Web Services DeepRacer, the global competition in which technologists flex their machine learning savvy to guide autonomous ...",
       "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/cision/20220511CL53566/the-academy-and-nuance-a-microsoft-company-partner-to-launch-the-ai-collaborative/",
-      "originalUrl": "https://ktla.com/business/press-releases/cision/20220511CL53566/the-academy-and-nuance-a-microsoft-company-partner-to-launch-the-ai-collaborative/",
+      "webUrl": "https://www.builtinchicago.org/2022/05/11/jpmorgan-chase-upskilling-innovation",
+      "originalUrl": "https://www.builtinchicago.org/2022/05/11/jpmorgan-chase-upskilling-innovation",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1156940/Nuance_Communications_Logo.jpg",
-          "width": 400,
-          "height": 255,
+          "url": "https://www.builtinchicago.org/sites/www.builtinchicago.org/files/styles/og/public/2022-05/JPMC_Spotlight_Thumbnail_1024x576.jpg",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -164,12 +216,64 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T09:00:00-07:00",
+      "publishedDateTime": "2022-05-12T01:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
+        "name": "Built In Chicago",
+        "domain": "builtinchicago.org",
         "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-china-scrutiny-stymies-jdcom-fintech-units-2-bln-hong-kong-ipo-sources.md",
+      "title": "China scrutiny stymies JD.Com fintech unit's $2 bln Hong Kong IPO -sources",
+      "excerpt": "JD Technology, the fintech arm of Chinese e-commerce company JD.Com, has been forced to delay an up to $2 billion Hong Kong IPO because domestic regulatory approval for the listing has not been forthcoming,",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/markets/us/china-scrutiny-stymies-jdcom-fintech-units-2-bln-hong-kong-ipo-sources-2022-05-12/",
+      "originalUrl": "https://www.reuters.com/markets/us/china-scrutiny-stymies-jdcom-fintech-units-2-bln-hong-kong-ipo-sources-2022-05-12/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/hLcxPDYq3sDZ9zFaofocCH2PX1M=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/34I2Z4M7X5NR5JVIWPJ6ZQKHU4.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T01:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -179,26 +283,25 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI",
-        "Microsoft AI"
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-05-11-understanding-the-world-through-language.md",
-      "title": "Understanding the world through language",
-      "excerpt": "Language is at the heart of how people communicate with each other. It’s also proving to be powerful in advancing AI and building helpful experiences for people worldwide.From the beginning, we set out to connect words in your search to words on a page so we could make the web’s information more accessible",
+      "path": "_news/2022-05-12-this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster.md",
+      "title": "This startup hopes photonics to will get us to AI systems faster",
+      "excerpt": "Meanwhile, the speed of AI computation doubles every 3 or 4 months ... Salience Labs is an Oxford-based startup that thinks it has the answer, by combining an ultra-high-speed multi-chip processor ...",
       "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/understanding-the-world-through-language/",
-      "originalUrl": "https://blog.google/technology/ai/understanding-the-world-through-language/",
+      "webUrl": "https://techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/",
+      "originalUrl": "https://techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/io_2022_hero1.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
+          "url": "https://i.ytimg.com/vi/f74lQ-V7xXg/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -206,16 +309,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/understanding-the-world-through-language/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/understanding-the-world-through-language/amp/",
-      "publishedDateTime": "2022-05-11T09:00:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/12/this-startup-hopes-photonics-to-will-get-us-to-ai-systems-faster/amp/",
+      "publishedDateTime": "2022-05-12T01:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Google",
-        "domain": "blog.google",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -231,24 +334,23 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Google AI"
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-05-11-these-ai-powered-robot-overlords-are-here-to-keep-your-warehouse-workers-safer.md",
-      "title": "These AI-powered robot overlords are here to keep your warehouse workers safe(r)",
-      "excerpt": "Voxel raised $3 million to make warehouses safer through AI-powered security cameras. It just raised $15M more.",
+      "path": "_news/2022-05-12-microsoft-session-highlights-from-sap-sapphire-2022.md",
+      "title": "Microsoft session highlights from SAP Sapphire 2022",
+      "excerpt": "Microsoft and SAP are celebrating the one-year anniversary of RISE with SAP on the Microsoft Cloud, which helps organizations of all sizes accelerate their move of SAP solutions to the cloud. As you prepare your agenda for the event, be sure to take in some of the following sessions featuring Microsoft",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/11/voxel-series-a/",
-      "originalUrl": "https://techcrunch.com/2022/05/11/voxel-series-a/",
+      "webUrl": "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/",
+      "originalUrl": "https://azure.microsoft.com/blog/microsoft-session-highlights-from-sap-sapphire-2022/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 157,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/Voxel-Team.jpeg?w=1024",
+          "url": "https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/8794c53b-f72e-4acf-b595-38764c1aa351.jpg",
           "width": 1024,
           "height": 768,
           "title": null,
@@ -258,9 +360,190 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/11/voxel-series-a/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/11/voxel-series-a/amp/",
-      "publishedDateTime": "2022-05-11T08:31:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T01:00:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-aws-deepracer-program-teaches-developers-about-emerging-tech.md",
+      "title": "AWS DeepRacer program teaches developers about emerging tech",
+      "excerpt": "Different solutions are available for developers to learn more about AI and machine learning, including projects like the AWS DeepRacer simulator. “Developers can start with the cloud-based ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/05/11/aws-deepracer-program-teaches-developers-emerging-tech-awssummitsf/?via=indexdotco",
+      "originalUrl": "https://siliconangle.com/2022/05/11/aws-deepracer-program-teaches-developers-emerging-tech-awssummitsf/?via=indexdotco",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/05/Mike-Miller-AWS-Summit-SF-2022-1.jpg",
+          "width": 5472,
+          "height": 3648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-12T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-artificial-neural-network-market-new-business-opportunities-and-investment-research-report-2030.md",
+      "title": "Artificial Neural Network Market | New Business Opportunities and Investment Research Report 2030",
+      "excerpt": "Furthermore, increasing use of artificial neural network in IoT and data analytics is expected to provide lucrative opportunities to the growth of the artificial neural network market. Major ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-neural-network-market-new-business-opportunities-and-investment-research-report-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-neural-network-market-new-business-opportunities-and-investment-research-report-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/747b62033ef4c6c22370f9b83218d1da098ba371-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-11T23:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-google-offers-a-more-modest-vision-of-the-future.md",
+      "title": "Google offers a more modest vision of the future",
+      "excerpt": "There was a time when Google offered a wondrous vision of the future, with driverless cars ... The company’s biggest bet in artificial intelligence does not, at least for now, mean science ...",
+      "sourceUrl": null,
+      "webUrl": "https://bdnews24.com/technology/2022/05/12/google-offers-a-more-modest-vision-of-the-future",
+      "originalUrl": "https://bdnews24.com/technology/2022/05/12/google-offers-a-more-modest-vision-of-the-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d30fl32nd2baj9.cloudfront.net/media/2022/05/12/google-presentation-120522-01.jpg/BINARY/google-presentation-120522-01.jpg",
+          "width": 1024,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.bdnews24.com/amp/en/detail/technology/2059713",
+      "cdnAmpWebUrl": "https://m-bdnews24-com.cdn.ampproject.org/c/s/m.bdnews24.com/amp/en/detail/technology/2059713",
+      "publishedDateTime": "2022-05-11T23:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bdnews24",
+        "domain": "bdnews24.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-synergies-raises-12m-to-give-factory-managers-an-ai-analytics-assistant.md",
+      "title": "Synergies raises $12M to give factory managers an AI analytics assistant",
+      "excerpt": "There’s no lack of startups around the world trying to make industrial activities more efficient with artificial intelligence. Some invent robots to assist or replace manual labor, while others use machine learning to help businesses discover insights.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/",
+      "originalUrl": "https://techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/2.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/11/synergies-12-million-augmented-analytics/amp/",
+      "publishedDateTime": "2022-05-11T21:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -288,21 +571,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-11-immersive-view-now-in-maps-plus-more-updates.md",
-      "title": "Immersive view now in Maps — plus more updates",
-      "excerpt": "Google Maps helps over one billion people navigate and explore. And over the past few years, our investments in AI have supercharged the ability to bring you the most helpful information about the real world, including when a business is open and how crowded your bus is. Today at Google I/O, we announced",
+      "path": "_news/2022-05-12-ibm-customers-interested-in-the-cloud-can-now-run-its-software-on-aws.md",
+      "title": "IBM customers interested in the cloud can now run its software on AWS",
+      "excerpt": "Customers using AWS will be able to access IBM software for automation, data and artificial intelligence, security and sustainability that’s built on Red Hat OpenShift Service on AWS. Donna Goodison (@dgoodison) is Protocol's senior reporter focusing on ...",
       "sourceUrl": null,
-      "webUrl": "https://blog.google/products/maps/three-maps-updates-io-2022/",
-      "originalUrl": "https://blog.google/products/maps/three-maps-updates-io-2022/",
+      "webUrl": "https://www.protocol.com/bulletins/ibm-aws-cloud-software",
+      "originalUrl": "https://www.protocol.com/bulletins/ibm-aws-cloud-software",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 79,
       "tags": null,
       "images": [
         {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Hero_-_I_O_Geo_.max-1300x1300.png",
-          "width": 1300,
-          "height": 695,
+          "url": "https://www.protocol.com/media-library/less-than-p-greater-than-ibms-software-portfolio-will-now-be-available-on-aws-raising-questions-about-the-future-of-ibm-cloud-less-than-br-greater-than-less-than-p-greater-than.jpg?id=28137119&width=400&coordinates=0%2C208%2C0%2C209&height=711.4285714285714&quality=80",
+          "width": 400,
+          "height": 225,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -310,170 +593,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T08:17:00-07:00",
+      "ampWebUrl": "https://www.protocol.com/amp/ibm-aws-cloud-software-2657302123",
+      "cdnAmpWebUrl": "https://www-protocol-com.cdn.ampproject.org/c/s/www.protocol.com/amp/ibm-aws-cloud-software-2657302123",
+      "publishedDateTime": "2022-05-11T21:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-google-translate-learns-24-new-languages.md",
-      "title": "Google Translate learns 24 new languages",
-      "excerpt": "For years, Google Translate has helped break down language barriers and connect communities all over the world. And we want to make this possible for even more people — especially those whose languages aren’t represented in most technology. So today we’ve added 24 languages to Translate, now supporting",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/products/translate/24-new-languages/",
-      "originalUrl": "https://blog.google/products/translate/24-new-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 181,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/io_2022_heroes_translate-11.max-1300x1300.jpg",
-          "width": 1300,
-          "height": 541,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/products/translate/24-new-languages/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/products/translate/24-new-languages/amp/",
-      "publishedDateTime": "2022-05-11T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-never-scoop-poop-again-with-the-sleek-brilliantly-designed-litter-robot-4.md",
-      "title": "Never scoop poop again with the sleek, brilliantly designed Litter-Robot 4",
-      "excerpt": "Designed with community feedback in mind, the latest Litter-Robot is all about improving on all the pain points from previous models – notably it’s less noisy, bulky and smelly. Ahead, everything to know about the Litter-Robot 4.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/cnn-underscored/reviews/litter-robot-4-review",
-      "originalUrl": "https://www.cnn.com/cnn-underscored/reviews/litter-robot-4-review",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.cnn.com/api/v1/images/stellar/prod/litter-robot-4-review-lead.jpg?q=h_899,w_1601,x_0,y_0",
-          "width": 1601,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/reviews/litter-robot-4-review",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/litter-robot-4-review",
-      "publishedDateTime": "2022-05-11T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws.md",
-      "title": "IBM signs collaboration agreement with Amazon, SaaS offerings soon available on AWS",
-      "excerpt": "Inc. (AWS). According to a statement from IBM, this latest partnership will provide IBM clients access to automation, security, artificial intelligence, and data capabilities through IBM Cloud ...",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/",
-      "originalUrl": "https://wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2021/09/happyfourth-1-5.jpg",
-          "width": 6000,
-          "height": 4000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/11/ibm-signs-collaboration-agreement-with-amazon-saas-offerings-soon-available-on-aws/?amp=1",
-      "publishedDateTime": "2022-05-11T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
+        "name": "Protocol",
+        "domain": "protocol.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -488,38 +614,29 @@
       ]
     },
     {
-      "path": "_news/2022-05-11-rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco.md",
-      "title": "Rise Of The Machine Learning Engineer: Elizabeth Hutton, Cisco",
-      "excerpt": "Elizabeth Hutton is the lead machine learning engineer at the Cisco Webex Contact Center AI team, where she leads building in-house AI solutions from research and development to production. In this wide-ranging interview,",
+      "path": "_news/2022-05-12-ibm-ceo-artificial-intelligence-is-nearing-a-key-tipping-point.md",
+      "title": "IBM CEO: Artificial intelligence is nearing a key tipping point",
+      "excerpt": "When it comes to generalized AI, \"we have no idea how this is going to happen,\" IBM CEO Arvind Krishna says. That isn't stopping IBM from building AI tools that are now close to necessary for businesses to stay competitive.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/",
-      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/",
+      "webUrl": "https://www.zdnet.com/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/",
+      "originalUrl": "https://www.zdnet.com/article/ibm-ceo-ai-is-near-a-key-tipping-point-but-generalized-ai-is-still-decades-out/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/627ad6b441bf5cd8d22d9aca/0x0.jpg?format=jpg&width=1200",
-          "width": 500,
-          "height": 343,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/05/11/rise-of-the-machine-learning-engineer-elizabeth-hutton-cisco/amp/",
-      "publishedDateTime": "2022-05-11T07:45:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-11T21:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -535,26 +652,198 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "IBM AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-05-11-intel-upgrades-for-ai-wars-with-habana-designed-server-chip.md",
-      "title": "Intel Upgrades for AI Wars with Habana-Designed Server Chip",
-      "excerpt": "The 7-nm Habana-designed Gaudi2 is twice as fast as its first-generation predecessor, according to the company.",
+      "path": "_news/2022-05-12-evisort-embeds-ai-into-contract-management-software-raises-100m.md",
+      "title": "Evisort embeds AI into contract management software, raises $100M",
+      "excerpt": "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! For lawyers and the organizations that employ them, time is quite literally money. The business of contract management software is all about helping to optimize that process,",
       "sourceUrl": null,
-      "webUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21241150/electronic-design-intel-upgrades-for-ai-wars-with-habanadesigned-server-chip",
-      "originalUrl": "https://www.electronicdesign.com/technologies/embedded-revolution/article/21241150/electronic-design-intel-upgrades-for-ai-wars-with-habanadesigned-server-chip",
+      "webUrl": "https://venturebeat.com/2022/05/11/evisort-embeds-ai-into-contract-management-software-raises-100m/",
+      "originalUrl": "https://venturebeat.com/2022/05/11/evisort-embeds-ai-into-contract-management-software-raises-100m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/05/Habana_Gaudi2_Card.627aa84f05a13.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1185188027-e1651849778407.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 630,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/11/evisort-embeds-ai-into-contract-management-software-raises-100m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/evisort-embeds-ai-into-contract-management-software-raises-100m/amp/",
+      "publishedDateTime": "2022-05-11T20:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-the-startup-scouting-platform-championing-corporate-innovation-with-ai.md",
+      "title": "The Startup Scouting Platform Championing Corporate Innovation with AI",
+      "excerpt": "Novable has developed an AI-powered platform that is able to directly access the best innovations no matter where it is happening in the world. The",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/the-startup-scouting-platform-championing-corporate-innovation-with-ai",
+      "originalUrl": "https://www.digitaljournal.com/pr/the-startup-scouting-platform-championing-corporate-innovation-with-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-11T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-ai-philosophy-and-religion-what-machine-learning-can-tell-us-about-the-bhagavad-gita.md",
+      "title": "AI, philosophy and religion: what machine learning can tell us about the Bhagavad Gita",
+      "excerpt": "Using machine learning, we analysed meaning and feeling in different translations of an ancient Hindu holy text.",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/ai-philosophy-and-religion-what-machine-learning-can-tell-us-about-the-bhagavad-gita-182517",
+      "originalUrl": "https://theconversation.com/ai-philosophy-and-religion-what-machine-learning-can-tell-us-about-the-bhagavad-gita-182517",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/462366/original/file-20220511-22-g63bhm.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=210&fit=crop",
+          "width": 320,
+          "height": 210,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/ai-philosophy-and-religion-what-machine-learning-can-tell-us-about-the-bhagavad-gita-182517",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/ai-philosophy-and-religion-what-machine-learning-can-tell-us-about-the-bhagavad-gita-182517",
+      "publishedDateTime": "2022-05-11T17:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-new-robotics-gaming-school-coming-to-piedmont.md",
+      "title": "New robotics & gaming school coming to Piedmont",
+      "excerpt": "“We know that there will be a huge increase in the number of positions available throughout our state and nation in robotics in gaming in artificial intelligence,” Dr. Contreras said. District ...",
+      "sourceUrl": null,
+      "webUrl": "https://myfox8.com/news/north-carolina/piedmont-triad/new-robotics-gaming-school-coming-to-piedmont/",
+      "originalUrl": "https://myfox8.com/news/north-carolina/piedmont-triad/new-robotics-gaming-school-coming-to-piedmont/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://myfox8.com/wp-content/uploads/sites/17/2022/05/Capture20.png?w=1280",
+          "width": 640,
+          "height": 273,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://myfox8.com/news/north-carolina/piedmont-triad/new-robotics-gaming-school-coming-to-piedmont/amp/",
+      "cdnAmpWebUrl": "https://myfox8-com.cdn.ampproject.org/c/s/myfox8.com/news/north-carolina/piedmont-triad/new-robotics-gaming-school-coming-to-piedmont/amp/",
+      "publishedDateTime": "2022-05-11T16:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WGHP",
+        "domain": "myfox8.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-intel-dishes-new-details-on-its-arctic-sound-m-gpus-and-theres-plenty-to-like.md",
+      "title": "Intel dishes new details on its Arctic Sound-M GPUs - and there's plenty to like",
+      "excerpt": "to virtual desktop infrastructure and AI inference. During the day one keynote, the lineup was characterized by Raja Koduri, the brain behind Intel’s GPU efforts, as “a media supercomputer on ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/sg/news/intel-dishes-new-details-on-its-arctic-sound-m-gpus-and-theres-plenty-to-like",
+      "originalUrl": "https://www.techradar.com/sg/news/intel-dishes-new-details-on-its-arctic-sound-m-gpus-and-theres-plenty-to-like",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/rXP4bgaDnxxZz5TbNu3Z5n-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -564,12 +853,21 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T07:26:00-07:00",
+      "publishedDateTime": "2022-05-11T15:34:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Electronic Design",
-        "domain": "electronicdesign.com",
-        "images": null,
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -583,96 +881,19 @@
       ]
     },
     {
-      "path": "_news/2022-05-11-driverless-cars-will-need-l-plates-or-flashing-lights-to-combat-widespread-fear-and-distrust-report-finds.md",
-      "title": "Driverless cars will need ‘L-plates or flashing lights’ to combat widespread fear and distrust, report finds",
-      "excerpt": "Scientists find public appetite for self-driving vehicle trails far behind that of the technology companies and steps need to be taken to make them a success",
+      "path": "_news/2022-05-12-google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more.md",
+      "title": "Google ups the AI ante with new features for Voice, Assistant, Maps and more",
+      "excerpt": "AI systems are allowing search to take “huge ... A new capability, Nest Hub Max, allows systems to process and recognize users to start conversations much easier, Tasca said.",
       "sourceUrl": null,
-      "webUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
-      "originalUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
+      "webUrl": "https://venturebeat.com/2022/05/11/google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more/",
+      "originalUrl": "https://venturebeat.com/2022/05/11/google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 96,
       "tags": null,
       "images": [
         {
-          "url": "https://i.inews.co.uk/content/uploads/2022/05/SEI_103377065-1200x630-pl-exclusive.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
-      "cdnAmpWebUrl": "https://inews-co-uk.cdn.ampproject.org/c/s/inews.co.uk/news/science/driverless-cars-l-plates-flashing-lights-fear-distrust-report-1621916?ico=more_from_this_author",
-      "publishedDateTime": "2022-05-11T06:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "i",
-        "domain": "inews.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study.md",
-      "title": "SAS Viya on Microsoft Azure can deliver 204% return on investment according to independent study",
-      "excerpt": "These continued benefits of the partnership were also highlighted by the TEI study interviewees who shared positive feedback about feature integrations, including SAS Model Manager and Azure Machine Learning, SAS Intelligent Decisioning and Power Apps and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zawya.com/en/press-release/companies-news/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-x0av2kla",
-      "originalUrl": "https://www.zawya.com/en/press-release/companies-news/sas-viya-on-microsoft-azure-can-deliver-204-return-on-investment-according-to-independent-study-x0av2kla",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T06:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Zawya",
-        "domain": "zawya.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-deci-deep-learning-platform-aims-to-ease-ai-application-development.md",
-      "title": "Deci deep-learning platform aims to ease AI application development",
-      "excerpt": "Using Deci, the company says, AI developers can achieve improved inference performance and efficiency to enable effective deployments on resource-constrained edge devices, maximize hardware use and reduce training and inference cost.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-to-ease-ai-application-development/",
-      "originalUrl": "https://venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-to-ease-ai-application-development/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/ai_development.jpg?fit=800%2C450&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1175256533-e1652306874947.jpg?fit=800%2C533&strip=all",
           "width": 800,
           "height": 450,
           "title": null,
@@ -682,9 +903,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-to-ease-ai-application-development/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/deci-deep-learning-platform-aims-to-ease-ai-application-development/amp/",
-      "publishedDateTime": "2022-05-11T06:18:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2022/05/11/google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/google-ups-the-ai-ante-with-new-features-for-voice-assistant-maps-and-more/amp/",
+      "publishedDateTime": "2022-05-11T15:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -708,40 +929,30 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning",
-        "Computer Vision"
+        "Natural Language Processing"
       ]
     },
     {
-      "path": "_news/2022-05-11-brands-matter-why-trusting-an-existing-brand-can-lure-you-into-buying-a-driverless-car.md",
-      "title": "Brands matter: Why trusting an existing brand can lure you into buying a driverless car",
-      "excerpt": "where artificial intelligence takes control of all driving functions, still faces significant resistance. Safety is consumers' main concern. Indeed, a recent study found 43% of people in the United States do not feel safe in a driverless car. Even though ...",
+      "path": "_news/2022-05-12-look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence.md",
+      "title": "Look behind the curtain: Don’t be dazzled by claims of ‘artificial intelligence’",
+      "excerpt": "We are presently living in an age of “artificial intelligence” — but not how the companies selling “AI” would have you believe. According to Silicon Valley, machines are rapidly surpassing human performance on a variety of tasks from mundane ...",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.html",
-      "originalUrl": "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.html",
+      "webUrl": "https://www.seattletimes.com/opinion/look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence/",
+      "originalUrl": "https://www.seattletimes.com/opinion/look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/brands-matter-why-trus.jpg",
-          "width": 1356,
-          "height": 668,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-05-brands-brand-lure-driverless-car.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-brands-brand-lure-driverless-car.amp",
-      "publishedDateTime": "2022-05-11T06:11:00-07:00",
+      "ampWebUrl": "https://www.seattletimes.com/opinion/look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence/?amp=1",
+      "cdnAmpWebUrl": "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/opinion/look-behind-the-curtain-dont-be-dazzled-by-claims-of-artificial-intelligence/?amp=1",
+      "publishedDateTime": "2022-05-11T14:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -756,211 +967,19 @@
       ]
     },
     {
-      "path": "_news/2022-05-11-why-google-cloud-is-battling-aws-and-azure-in-the-red-hot-postgresql-market.md",
-      "title": "Why Google Cloud is battling AWS and Azure in the red-hot PostgreSQL market",
-      "excerpt": "Google Cloud's AlloyDB for PostgreSQL has moved into public preview and will take on offerings from AWS and Microsoft in the red-hot PostgreSQL market.",
+      "path": "_news/2022-05-12-voice-control-for-your-camera-i-was-sceptical-but-theres-big-potential.md",
+      "title": "Voice control for your camera? I was sceptical, but there's big potential",
+      "excerpt": "Sony has applied for a patent on the technology for controlling a camera's interface and controls using voice commands. You could be forgiven for jumping to the conclusion that this is a silly idea - I mean,",
       "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/698059/why-google-cloud-battling-aws-azure-red-hot-postgresql-market/",
-      "originalUrl": "https://www.reseller.co.nz/article/698059/why-google-cloud-battling-aws-azure-red-hot-postgresql-market/",
+      "webUrl": "https://www.digitalcameraworld.com/au/news/voice-control-for-your-camera-i-was-sceptical-but-theres-big-potential",
+      "originalUrl": "https://www.digitalcameraworld.com/au/news/voice-control-for-your-camera-i-was-sceptical-but-theres-big-potential",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/dimg/thomas_kurian_google_cloud_1_4.jpg",
-          "width": 504,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-apple-loses-director-of-machine-learning-over-its-office-return-policy.md",
-      "title": "Apple loses director of machine learning over its office return policy",
-      "excerpt": "Last week, a group of Apple employees wrote an open letter criticizing the company's hybrid work-from-home policy, which requires employees to be at the office three days a week starting May 23rd. Now,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/an-apple-machine-learning-director-resigned-over-its-office-return-policy-115040691.html",
-      "originalUrl": "https://www.engadget.com/an-apple-machine-learning-director-resigned-over-its-office-return-policy-115040691.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-12/b4c77e50-5e45-11ec-97eb-d4c0e86e5f90",
-          "width": 7239,
-          "height": 4828,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T04:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-man-vs-machine-the-1997-chess-game-that-brought-ai-into-view.md",
-      "title": "Man vs. machine: The 1997 chess game that brought AI into view",
-      "excerpt": "May 11, 1997 was a watershed for the relationship between man and machine, when the artificial intelligence (AI) supercomputer Deep Blue finally",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailysabah.com/sports/man-vs-machine-the-1997-chess-game-that-brought-ai-into-view/news",
-      "originalUrl": "https://www.dailysabah.com/sports/man-vs-machine-the-1997-chess-game-that-brought-ai-into-view/news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/05/11/thumbs/800x531/204611.jpg",
-          "width": 1600,
-          "height": 1061,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailysabah.com/sports/man-vs-machine-the-1997-chess-game-that-brought-ai-into-view/news/amp",
-      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/sports/man-vs-machine-the-1997-chess-game-that-brought-ai-into-view/news/amp",
-      "publishedDateTime": "2022-05-11T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Sabah",
-        "domain": "dailysabah.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-a-closer-look-at-the-research-to-help-ai-see-more-skin-tones.md",
-      "title": "A closer look at the research to help AI see more skin tones",
-      "excerpt": "Today at I/O we released the Monk Skin Tone (MST) Scale in partnership with Harvard professor and sociologist Dr. Ellis Monk. The MST Scale, developed by Dr. Monk, is a 10-shade scale designed to be more inclusive of the spectrum of skin tones in our society. We’ll be incorporating the MST Scale into",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/research/ai-monk-scale-skin-tone-story/",
-      "originalUrl": "https://blog.google/technology/research/ai-monk-scale-skin-tone-story/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/brightened-sharpened.max-1300x1300.png",
-          "width": 1300,
-          "height": 701,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/research/ai-monk-scale-skin-tone-story/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/research/ai-monk-scale-skin-tone-story/amp/",
-      "publishedDateTime": "2022-05-11T02:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-therapy-with-a-robot-how-ai-could-help-those-struggling-with-mental-health.md",
-      "title": "Therapy with a robot? How AI could help those struggling with mental health",
-      "excerpt": "Mental health start-ups attracted $5.5 billion ... Health and Addictions Service Line. Could a robot, equipped with artificial intelligence, be far behind? Boyle still has obstacles.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mycentraljersey.com/story/news/health/2022/05/11/therapy-robot-mental-health-tech-nj-startup/9648028002/",
-      "originalUrl": "https://www.mycentraljersey.com/story/news/health/2022/05/11/therapy-robot-mental-health-tech-nj-startup/9648028002/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gannett-cdn.com/presto/2022/05/06/PAPP/059d41c7-2411-4867-bed2-d8dd3ba24205-050622-MarcoMentalHealthRobot02.JPG?auto=webp&crop=4813,2708,x0,y0&format=pjpg&width=1200",
+          "url": "https://cdn.mos.cms.futurecdn.net/4B5PNNZ7nTNGiA3mHJA9rW-1200-80.png",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -972,11 +991,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T02:10:00-07:00",
+      "publishedDateTime": "2022-05-11T14:48:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MyCentralJersey",
-        "domain": "mycentraljersey.com",
+        "name": "digitalcameraworld",
+        "domain": "digitalcameraworld.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -986,61 +1005,70 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-racing-tiny-cars-using-only-artificial-intelligence-and-machine-learning.md",
+      "title": "Racing tiny cars using only Artificial Intelligence and Machine Learning",
+      "excerpt": "It's called the Amazon Web Services DeepRacer League, where small 1/18th scale cars are being trained to complete a racetrack as fast as possible, by themselves. “It has major components in ...",
+      "sourceUrl": null,
+      "webUrl": "https://ottawa.ctvnews.ca/racing-tiny-cars-using-only-artificial-intelligence-and-machine-learning-1.5898864",
+      "originalUrl": "https://ottawa.ctvnews.ca/racing-tiny-cars-using-only-artificial-intelligence-and-machine-learning-1.5898864",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://beta.ctvnews.ca/local/ottawa/2022/5/11/1_5898864/_jcr_content/root/responsivegrid/image.coreimg.jpg",
+          "width": 1020,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://beta.ctvnews.ca/local/ottawa/2022/5/11/1_5898864.amp.html",
+      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/local/ottawa/2022/5/11/1_5898864.amp.html",
+      "publishedDateTime": "2022-05-11T14:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CTV News",
+        "domain": "ctvnews.ca",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
         "AI",
-        "AI in Healthcare"
+        "Machine Learning"
       ]
     },
     {
-      "path": "_news/2022-05-11-video-robots-are-changing-the-way-we-think-about-the-hospitality-industry.md",
-      "title": "Video: Robots are changing the way we think about the hospitality industry",
-      "excerpt": "If you think about the general labor shortage, that's kind of happened since the pandemic. You know, you focus on the service side of the business and you kind of expand the robotics that are necessary.",
+      "path": "_news/2022-05-12-how-10-skin-tones-will-reshape-googles-approach-to-ai.md",
+      "title": "How 10 Skin Tones Will Reshape Google’s Approach to AI",
+      "excerpt": "For years, the tech industry has relied on a six-shade scale to classify skin tones. The search giant’s open source alternative could change that.",
       "sourceUrl": null,
-      "webUrl": "https://www.kcci.com/article/robots-changing-hospitality-industry/39963770",
-      "originalUrl": "https://www.kcci.com/article/robots-changing-hospitality-industry/39963770",
+      "webUrl": "https://www.wired.com/story/google-monk-skin-tone-scale-computer-vision-bias/",
+      "originalUrl": "https://www.wired.com/story/google-monk-skin-tone-scale-computer-vision-bias/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T01:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KCCI Des Moines",
-        "domain": "kcci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-the-1997-chess-game-that-thrust-ai-into-the-spotlight.md",
-      "title": "The 1997 chess game that thrust AI into the spotlight",
-      "excerpt": "With his hand pushed firmly into his cheek and his eyes fixed on the table, Garry Kasparov shot a final dark glance at the chessboard before storming out of the room: the king of chess had just been beaten by a computer.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html",
-      "originalUrl": "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
+      "heat": 109,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/the-chess-world-was-sh.jpg",
-          "width": 1024,
-          "height": 682,
+          "url": "https://media.wired.com/photos/627bfb60a95c6a3c6c74ef4b/master/pass/Google-IO-Skin-Tone-Scale-Business-1258016046.jpg",
+          "width": 2400,
+          "height": 1600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1048,59 +1076,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-05-chess-game-ai-spotlight.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-chess-game-ai-spotlight.amp",
-      "publishedDateTime": "2022-05-11T00:46:00-07:00",
+      "ampWebUrl": "https://www.wired.com/story/google-monk-skin-tone-scale-computer-vision-bias/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/google-monk-skin-tone-scale-computer-vision-bias/amp",
+      "publishedDateTime": "2022-05-11T14:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-lightly-promises-faster-food-for-ai-models-after-3-million-seed-round.md",
-      "title": "Lightly Promises Faster Food For AI Models After $3 Million Seed Round",
-      "excerpt": "“Data is food for AI,” observed Andrew Ng, the artificial intelligence guru who co-founded Google Brain and led Baidu’s AI group. However, there’s a problem implied by the analogy. Artificial intelligence systems do indeed need data to function ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidprosser/2022/05/11/lightly-promises-faster-food-for-ai-models-after-3-million-seed-round/",
-      "originalUrl": "https://www.forbes.com/sites/davidprosser/2022/05/11/lightly-promises-faster-food-for-ai-models-after-3-million-seed-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/627a4f1fab77fe5b38d75a76/0x0.jpg?format=jpg&crop=2931,1374,x0,y281,safe&width=1200",
-          "width": 1200,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidprosser/2022/05/11/lightly-promises-faster-food-for-ai-models-after-3-million-seed-round/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidprosser/2022/05/11/lightly-promises-faster-food-for-ai-models-after-3-million-seed-round/amp/",
-      "publishedDateTime": "2022-05-10T23:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Wired",
+        "domain": "wired.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1117,25 +1102,25 @@
       ],
       "topics": [
         "AI",
-        "AI in Autos"
+        "Computer Vision"
       ]
     },
     {
-      "path": "_news/2022-05-11-robot-ethics-need-to-get-specific-says-durham-university.md",
-      "title": "Robot ethics need to get specific, says Durham University",
-      "excerpt": "As previously reported, Louise Sheridan, Deputy Director of the UK’s Centre for Data Ethics and Innovation (CDEI), believes that such fears can inhibit innovation as much as inform it. Speaking at a Westminster eForum on UK AI strategy last month ...",
+      "path": "_news/2022-05-12-evisoft-embeds-ai-into-contract-management-software-raises-100m.md",
+      "title": "Evisoft embeds AI into contract management software, raises $100M",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
       "sourceUrl": null,
-      "webUrl": "https://diginomica.com/robot-ethics-need-get-specific-says-durham-university",
-      "originalUrl": "https://diginomica.com/robot-ethics-need-get-specific-says-durham-university",
+      "webUrl": "https://venturebeat.com/2022/05/11/evisoft-embeds-ai-into-contract-management-software-raises-100m/",
+      "originalUrl": "https://venturebeat.com/2022/05/11/evisoft-embeds-ai-into-contract-management-software-raises-100m/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://diginomica.com/sites/default/files/images/2021-06/788FF129-6DB5-4A04-A3F4-3D6CE3DA1E75.jpeg",
-          "width": 640,
-          "height": 425,
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1185188027-e1651849778407.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1143,14 +1128,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://diginomica.com/robot-ethics-need-get-specific-says-durham-university?amp",
-      "cdnAmpWebUrl": "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/robot-ethics-need-get-specific-says-durham-university?amp",
-      "publishedDateTime": "2022-05-10T23:53:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2022/05/11/evisoft-embeds-ai-into-contract-management-software-raises-100m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/evisoft-embeds-ai-into-contract-management-software-raises-100m/amp/",
+      "publishedDateTime": "2022-05-11T13:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Diginomica",
-        "domain": "diginomica.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1159,9 +1153,7 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
+        "AI"
       ]
     }
   ],

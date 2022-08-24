@@ -2,121 +2,26 @@
   "page": 49,
   "value": [
     {
-      "path": "_news/2022-07-12-soon-ai-based-mandarin-translation-devices-for-troops-on-lac.md",
-      "title": "Soon AI-based mandarin translation devices for troops on LAC",
-      "excerpt": "... products and applications unveiled by Defence Minister Rajnath Singh at the ‘AI in Defence’ symposium on Monday. “It is an offline handheld language translation system which works based on AI. It has been tested in the forward areas and Army has ...",
+      "path": "_news/2022-07-13-the-best-robot-vacuums-of-2022-tested-and-rated.md",
+      "title": "The best robot vacuums of 2022 tested and rated",
+      "excerpt": "If you’re looking into buying a robot vacuum, you will no doubt have noticed some of the latest features on offer too, such as self-emptying bases and object recognition. Bear in mind that these ...",
       "sourceUrl": null,
-      "webUrl": "https://www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65628104.ece",
-      "originalUrl": "https://www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65628104.ece",
+      "webUrl": "https://www.tomsguide.com/us/best-robot-vacuums,review-2000.html",
+      "originalUrl": "https://www.tomsguide.com/us/best-robot-vacuums,review-2000.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://th-i.thgim.com/public/incoming/pew880/article65628681.ece/alternates/LANDSCAPE_615/ai%20story%20image.jpg",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65628104.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/soon-ai-based-mandarin-translation-devices-for-troops-on-lac/article65628104.ece/amp/",
-      "publishedDateTime": "2022-07-12T02:27:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T06:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Hindu",
-        "domain": "thehindu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-oaic-concerns-spark-facial-recognition-investigation.md",
-      "title": "OAIC concerns spark facial recognition investigation",
-      "excerpt": "Two major Australian retailers are being investigated by the privacy watchdog for their use of facial recognition technology in stores.",
-      "sourceUrl": null,
-      "webUrl": "https://thenewdaily.com.au/life/tech/2022/07/12/oaic-concerns-spark-facial-recognition-investigation/",
-      "originalUrl": "https://thenewdaily.com.au/life/tech/2022/07/12/oaic-concerns-spark-facial-recognition-investigation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thenewdaily.com.au/wp-content/uploads/2022/07/1657620710-facial-recognition-AP.jpg?resize=960%2C540",
-          "width": 960,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenewdaily.com.au/life/tech/2022/07/12/oaic-concerns-spark-facial-recognition-investigation/amp/",
-      "cdnAmpWebUrl": "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/life/tech/2022/07/12/oaic-concerns-spark-facial-recognition-investigation/amp/",
-      "publishedDateTime": "2022-07-12T02:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Daily",
-        "domain": "thenewdaily.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-the-best-amazon-prime-day-2022-robot-vacuum-deals-roomba-samsung-jet-bot-more.md",
-      "title": "The best Amazon Prime Day 2022 robot vacuum deals: Roomba, Samsung Jet Bot, more",
-      "excerpt": "The Samsung Jet Bot AI+ robot vacuum has a bunch of cool features, including 30 watts of adjustable suction, 3D object recognition with AI and powerful LiDAR navigation. This robot vacuum can recognize what objects to avoid, so you won't have to deal with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/amazon-prime-day-2022-deals-robot-vacuums/",
-      "originalUrl": "https://www.cbsnews.com/essentials/amazon-prime-day-2022-deals-robot-vacuums/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/07/f7a3df6f-2008-4e3a-8f75-077de5b2df8f/thumbnail/1200x630/ab8ffa1608ae5b817695d99e881bdabb/robot-vacuum-hero.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/amazon-prime-day-2022-deals-robot-vacuums/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/amazon-prime-day-2022-deals-robot-vacuums/",
-      "publishedDateTime": "2022-07-12T02:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -132,21 +37,21 @@
       ]
     },
     {
-      "path": "_news/2022-07-12-iaf-centre-of-excellence-for-artificial-intelligence-to-redefine-air-combat.md",
-      "title": "IAF Centre of Excellence for Artificial Intelligence to redefine air combat",
-      "excerpt": "A Big Data Analytics and Al Platform has been commissioned in the IAF's Al Centre, for handling all aspects of Analytics, Machine Learning, Neural Networks and Deep Learning algorithms. AI is going to redefine the air combat and the scope of C4I.",
+      "path": "_news/2022-07-13-amazon-gave-ring-videos-to-police-without-owners-permission.md",
+      "title": "Amazon gave Ring videos to police without owners’ permission",
+      "excerpt": "Amazon handed Ring video doorbell footage to ... after its facial recognition service Rekognition falsely associated 28 members of Congress with criminal mugshots in 2018 and how its Echo Dot ...",
       "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/defence/iaf-centre-of-excellence-for-artificial-intelligence-to-redefine-air-combat/2589934/",
-      "originalUrl": "https://www.financialexpress.com/defence/iaf-centre-of-excellence-for-artificial-intelligence-to-redefine-air-combat/2589934/",
+      "webUrl": "https://www.politico.com/news/2022/07/13/amazon-gave-ring-videos-to-police-without-owners-permission-00045513",
+      "originalUrl": "https://www.politico.com/news/2022/07/13/amazon-gave-ring-videos-to-police-without-owners-permission-00045513",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/06/GettyImages-1201077556.jpg",
-          "width": 1200,
-          "height": 667,
+          "url": "https://www.politico.com/dims4/default/b27232b/2147483647/strip/true/crop/6570x4380+0+0/resize/630x420!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Ff0%2F16%2F599c9aa445b5a954e0e341e460f5%2Fhttps-delivery.gettyimages.com%2Fdownloads%2F1170779505",
+          "width": 630,
+          "height": 420,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -154,13 +59,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/defence/iaf-centre-of-excellence-for-artificial-intelligence-to-redefine-air-combat/2589934/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/defence/iaf-centre-of-excellence-for-artificial-intelligence-to-redefine-air-combat/2589934/lite/",
-      "publishedDateTime": "2022-07-12T02:15:00-07:00",
+      "ampWebUrl": "https://www.politico.com/amp/news/2022/07/12/amazon-gave-ring-videos-to-police-without-owners-permission-00045513",
+      "cdnAmpWebUrl": "https://www-politico-com.cdn.ampproject.org/c/s/www.politico.com/amp/news/2022/07/12/amazon-gave-ring-videos-to-police-without-owners-permission-00045513",
+      "publishedDateTime": "2022-07-13T06:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
+        "name": "Politico",
+        "domain": "politico.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -170,26 +75,70 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AWS AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-07-12-a-year-in-the-making-bigsciences-ai-language-model-is-finally-available.md",
-      "title": "A year in the making, BigScience’s AI language model is finally available",
-      "excerpt": "BigScience, a collaborative research effort spearheaded by Hugging Face, has released a large language model that can be applied to a range of domains.",
+      "path": "_news/2022-07-13-online-math-tutoring-service-uses-ai-to-help-boost-students-skills-and-confidence.md",
+      "title": "Online math tutoring service uses AI to help boost students’ skills and confidence",
+      "excerpt": "The post Online math tutoring service uses AI to help boost students’ skills and confidence appeared first on The AI Blog.\n",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/12/a-year-in-the-making-bigsciences-ai-language-model-is-finally-available/",
-      "originalUrl": "https://techcrunch.com/2022/07/12/a-year-in-the-making-bigsciences-ai-language-model-is-finally-available/",
+      "webUrl": "https://blogs.microsoft.com/ai/eedi-online-math-quiz/",
+      "originalUrl": "https://blogs.microsoft.com/ai/eedi-online-math-quiz/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 108,
+      "heat": 80,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T05:59:50-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-anumana-collaborates-with-leading-global-health-care-company-to-detect-heart-disease-using-artificial-intelligence.md",
+      "title": "Anumana Collaborates with Leading Global Health Care Company to Detect Heart Disease Using Artificial Intelligence",
+      "excerpt": "The collaboration will support Anumana’s efforts to implement AI-enabled diagnostic software that can detect signals from ECGs that humans cannot interpret. The collaboration will initially focus on cardiovascular diseases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.valdostadailytimes.com/news/business/anumana-collaborates-with-leading-global-health-care-company-to-detect-heart-disease-using-artificial-intelligence/article_cd3fb557-73c0-5ba7-8266-9575c874baf7.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/anumana-collaborates-with-leading-global-health-care-company-to-detect-heart-disease-using-artificial-intelligence/article_cd3fb557-73c0-5ba7-8266-9575c874baf7.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-1308719817.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
+          "url": "https://bloximages.chicago2.vip.townnews.com/valdostadailytimes.com/content/tncms/custom/image/7d368070-0339-11e6-b6b3-b7bc77615a64.jpg?resize=600%2C315",
+          "width": 600,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -197,9 +146,130 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/12/a-year-in-the-making-bigsciences-ai-language-model-is-finally-available/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/12/a-year-in-the-making-bigsciences-ai-language-model-is-finally-available/amp/",
-      "publishedDateTime": "2022-07-12T02:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T05:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-long-covid-treatments-hyperbaric-oxygen-therapy-could-be-the-key-new-study-reveals.md",
+      "title": "Long COVID treatments: Hyperbaric oxygen therapy could be the key, new study reveals",
+      "excerpt": "The study included 73 long haulers with post-COVID-19 cognitive symptoms ... which called on the Department of Health and Human Services to expand existing research on the condition and coordinate ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.seattletimes.com/seattle-news/health/long-covid-treatments-hyperbaric-oxygen-therapy-could-be-the-key-new-study-reveals/",
+      "originalUrl": "https://www.seattletimes.com/seattle-news/health/long-covid-treatments-hyperbaric-oxygen-therapy-could-be-the-key-new-study-reveals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T05:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seattle Times",
+        "domain": "seattletimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-scientists-create-an-artificial-intelligence-program-that-can-learn-by-intuition-like-a-baby.md",
+      "title": "Scientists Create An Artificial Intelligence Program That Can Learn By Intuition Like A Baby",
+      "excerpt": "Now this blurs the line between artificial intelligence and human behaviour as we know it. If an AI can be embedded with ‘gut feelings’ maybe an AI can become sentient enough to guy you too! The worst case scenarios should always be scrutinised before glorifying any research.",
+      "sourceUrl": null,
+      "webUrl": "https://in.mashable.com/tech/34863/scientists-create-an-artificial-intelligence-program-that-can-learn-by-intuition-like-a-baby",
+      "originalUrl": "https://in.mashable.com/tech/34863/scientists-create-an-artificial-intelligence-program-that-can-learn-by-intuition-like-a-baby",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.mashable.com/t/mashable_in/photo/default/plato_7ehy.620.jpg",
+          "width": 619,
+          "height": 374,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://in.mashable.com/tech/34863/scientists-create-an-artificial-intelligence-program-that-can-learn-by-intuition-like-a-baby?amp=1",
+      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/34863/scientists-create-an-artificial-intelligence-program-that-can-learn-by-intuition-like-a-baby?amp=1",
+      "publishedDateTime": "2022-07-13T04:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-deci-lands-25m-for-tech-that-makes-ai-models-more-efficient.md",
+      "title": "Deci lands $25M for tech that makes AI models more efficient",
+      "excerpt": "Deci has raised $25 million in fresh capital to further develop its platform and technology that make AI models more efficient -- and less costly to run.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/13/deci-lands-25m-for-tech-that-makes-ai-models-more-efficient/",
+      "originalUrl": "https://techcrunch.com/2022/07/13/deci-lands-25m-for-tech-that-makes-ai-models-more-efficient/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/13/deci-lands-25m-for-tech-that-makes-ai-models-more-efficient/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/13/deci-lands-25m-for-tech-that-makes-ai-models-more-efficient/amp/",
+      "publishedDateTime": "2022-07-13T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -222,25 +292,25 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-07-12-ai-goes-multilingual-with-hugging-faces-bloom.md",
-      "title": "AI goes multilingual with Hugging Face’s BLOOM",
-      "excerpt": "Hugging Face's Teven Le Scao says the BLOOM large language model \"supports 46 human languages and 13 programming languages.\"",
+      "path": "_news/2022-07-13-meetkai-launches-ai-powered-metaverse-starting-with-a-billboard-in-times-square.md",
+      "title": "MeetKai launches AI-powered metaverse, starting with a billboard in Times Square",
+      "excerpt": "MeetKai is a conversational AI company that has expanded into building a real-world metaverse, starting with a billboard in Times Square.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/",
-      "originalUrl": "https://venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/",
+      "webUrl": "https://venturebeat.com/2022/07/13/meetkai-launches-ai-powered-metaverse-starting-with-a-billboard-in-times-square/",
+      "originalUrl": "https://venturebeat.com/2022/07/13/meetkai-launches-ai-powered-metaverse-starting-with-a-billboard-in-times-square/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 92,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1226941220_multilingual_computer-e1657589130957.jpg?w=1200&strip=all",
-          "width": 1200,
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/meetkai-MK-Metaverse-Times-Square.png?fit=800%2C600&strip=all",
+          "width": 800,
           "height": 600,
           "title": null,
           "attribution": null,
@@ -249,9 +319,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/amp/",
-      "publishedDateTime": "2022-07-12T02:00:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2022/07/13/meetkai-launches-ai-powered-metaverse-starting-with-a-billboard-in-times-square/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/13/meetkai-launches-ai-powered-metaverse-starting-with-a-billboard-in-times-square/amp/",
+      "publishedDateTime": "2022-07-13T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -274,61 +344,25 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-universal-electronics-to-launch-new-voice-remotes-for-rdk-platform-at-rdk-tech-summit.md",
-      "title": "Universal Electronics to Launch New Voice Remotes for RDK Platform at RDK Tech Summit",
-      "excerpt": "(UEI) (NASDAQ:UEIC), the world leader in universal control technology for entertainment and smart home, at the 2022 RDK Tech Summit has announced the release of two new voice remotes for RDK. RDK is one of the leading broadband and pay-tv platforms for the cable industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/universal-electronics-to-launch-new-voice-remotes-for-rdk-platform-at-rdk-tech-summit/article_0d0a76c6-e072-5cf0-a3fa-a07ec3b22d3d.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/universal-electronics-to-launch-new-voice-remotes-for-rdk-platform-at-rdk-tech-summit/article_0d0a76c6-e072-5cf0-a3fa-a07ec3b22d3d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T00:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-07-12-aws-women-in-tech-leveraging-the-power-of-aiml-to-drive-societal-impact.md",
-      "title": "AWS Women in Tech: Leveraging the power of AI/ML to drive societal impact",
-      "excerpt": "Voiro’s Kavita, Spyne’s Deepti, and JIFFY.ai’s Payeli are blazing the trail in the fields of Artificial Intelligence and Machine Learning. However, there is a persistent absence of women in ...",
+      "path": "_news/2022-07-13-when-ai-makes-art-humans-supply-the-creative-spark.md",
+      "title": "When AI Makes Art, Humans Supply the Creative Spark",
+      "excerpt": "Fears that artificial intelligence tools could displace creatives such as illustrators, designers, and photographers seem unfounded—for now.",
       "sourceUrl": null,
-      "webUrl": "https://yourstory.com/herstory/2022/07/aws-women-tech-leveraging-ai-ml-driving-societal-impact",
-      "originalUrl": "https://yourstory.com/herstory/2022/07/aws-women-tech-leveraging-ai-ml-driving-societal-impact",
+      "webUrl": "https://www.wired.com/story/when-ai-makes-art/",
+      "originalUrl": "https://www.wired.com/story/when-ai-makes-art/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 70,
+      "heat": 91,
       "tags": null,
       "images": [
         {
-          "url": "https://images.yourstory.com/cs/4/21ccd920843c11ec88170b5512a0f9d5/Imagedi6b-1657559310003.jpg?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
+          "url": "https://media.wired.com/photos/62ce1726540a1fd5ca4bd872/master/pass/Dall-E-2-Meat-Men-Business.jpg",
+          "width": 1312,
+          "height": 984,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -336,265 +370,69 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T22:48:00-07:00",
+      "ampWebUrl": "https://www.wired.com/story/when-ai-makes-art/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/when-ai-makes-art/amp",
+      "publishedDateTime": "2022-07-13T04:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-apples-self-driving-electric-car-efforts-still-remain-stalled-report.md",
-      "title": "Apple's self-driving, electric car efforts still remain stalled: Report",
-      "excerpt": "Apple had first revealed its self-driving tech aspirations in 2016 and since then saw autonomous driving systems as a core technology for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report-41657594877454.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report-41657594877454.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/auto/img/2022/07/12/1600x900/Apple_car_1657603020858_1657603167004_1657603167004.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html",
-      "publishedDateTime": "2022-07-11T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-stm32cubeai-your-software-tool-to-optimize-artificial-neural-networks-on-stm32.md",
-      "title": "STM32Cube.AI, your software tool to optimize Artificial Neural Networks on STM32",
-      "excerpt": "This webinar introduces Artificial Intelligence for edge computing and shows you how ST's offer can help you run Neural Networks on microcontrollers and microprocessors. Thanks to practical examples, you will learn how to run Artificial Neural Networks and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.st.com/content/st_com/en/campaigns/stm32cube-ai.html",
-      "originalUrl": "https://www.st.com/content/st_com/en/campaigns/stm32cube-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.st.com/content/dam/logos/open-graph-logo.png",
-          "width": 750,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T22:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ST",
-        "domain": "st.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-aws-selected-as-deltas-preferred-cloud-provider.md",
-      "title": "AWS Selected as Delta's Preferred Cloud Provider",
-      "excerpt": "Global airline uses AWS to deliver new digital travel services, streamline processes, enhance customer service, and provide cloud training to employees globally Amazon Web Services, Inc. (AWS), an Amazon.",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/b28027127/aws-selected-as-deltas-preferred-cloud-provider",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/b28027127/aws-selected-as-deltas-preferred-cloud-provider",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
-          "width": 900,
-          "height": 594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28027127",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28027127",
-      "publishedDateTime": "2022-07-11T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-apples-self-driving-car-effort-stuck-in-low-gear-report.md",
-      "title": "Apple's Self-driving Car Effort Stuck In Low Gear: Report",
-      "excerpt": "Apple's quest to produce a viable self-driving car remains stalled despite years of work, with its team plagued by setbacks as rivals race ahead, The Information tech news website reported Monday. Buzz surrounding a potential Apple car began some eight years ago with the vehicles being touted as the first new \"big thing\" from the company since its iconic co-founder Steve Jobs died in October 2011.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/apples-self-driving-car-effort-stuck-low-gear-report-3570179",
-      "originalUrl": "https://www.ibtimes.com/apples-self-driving-car-effort-stuck-low-gear-report-3570179",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T19:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-new-ai-tool-could-help-diagnose-alzheimers-disease-earlier.md",
-      "title": "New AI tool could help diagnose Alzheimer’s disease earlier",
-      "excerpt": "A new artificial intelligence language-processing tool could potentially help detect cognitive impairment and mental degenerative diseases like Alzheimer’s, researchers at Boston University say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ctvnews.ca/sci-tech/new-ai-tool-could-help-diagnose-alzheimer-s-disease-earlier-1.5983555",
-      "originalUrl": "https://www.ctvnews.ca/sci-tech/new-ai-tool-could-help-diagnose-alzheimer-s-disease-earlier-1.5983555",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/3/27/1_5835633.jpg",
-          "width": 1020,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://beta.ctvnews.ca/national/sci-tech/2022/7/11/1_5983555.amp.html",
-      "cdnAmpWebUrl": "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/sci-tech/2022/7/11/1_5983555.amp.html",
-      "publishedDateTime": "2022-07-11T17:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CTV News",
-        "domain": "ctvnews.ca",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030.md",
-      "title": "AI in Computer Vision Market Report: Production Capacity and Consumption Analysis, Trends Analysis Report and Forecasts, 2022 To 2030",
-      "excerpt": "Jul 11, 2022 (Alliance News via COMTEX) -- Key Companies Covered in the AI in Computer Vision Market Research areNVIDIA Corporation, Intel Corporation, Microsoft Corporation, IBM Corporation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030-2022-07-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-report-production-capacity-and-consumption-analysis-trends-analysis-report-and-forecasts-2022-to-2030-2022-07-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T17:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Wired",
+        "domain": "wired.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-lime-has-built-its-own-camera-based-sidewalk-detection-technology.md",
+      "title": "Lime has built its own camera-based sidewalk detection technology",
+      "excerpt": "At a Lime event in Paris, the startup shared plans to pilot an in-house built computer vision platform that will leverage cameras to detect when users are riding on the sidewalk. While it will be ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/13/lime-has-built-its-own-camera-based-sidewalk-detection-technology/",
+      "originalUrl": "https://techcrunch.com/2022/07/13/lime-has-built-its-own-camera-based-sidewalk-detection-technology/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/image_6483441-e1657681037469.jpg?w=1024",
+          "width": 1024,
+          "height": 665,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/13/lime-has-built-its-own-camera-based-sidewalk-detection-technology/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/13/lime-has-built-its-own-camera-based-sidewalk-detection-technology/amp/",
+      "publishedDateTime": "2022-07-13T03:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -615,21 +453,21 @@
       ]
     },
     {
-      "path": "_news/2022-07-12-improving-yield-with-machine-learning.md",
-      "title": "Improving Yield With Machine Learning",
-      "excerpt": "Machine learning is becoming increasingly valuable in semiconductor manufacturing, where it is being used to improve yield and throughput. This is especially important in process control, where data sets are noisy. Neural networks can identify patterns ...",
+      "path": "_news/2022-07-13-owlets-cam-2-video-monitor-uses-ai-to-predict-if-a-baby-is-truly-crying.md",
+      "title": "Owlet's Cam 2 video monitor uses AI to predict if a baby is truly crying",
+      "excerpt": "Owlet is giving tired parents new tools they can use to (hopefully) get little bit more sleep than what they're getting with a baby in the house. The company has launched the Owlet Cam 2, which uses AI and machine learning to decipher sounds from the nursery and determine whether the baby is truly crying.",
       "sourceUrl": null,
-      "webUrl": "https://semiengineering.com/improving-yield-with-machine-learning/",
-      "originalUrl": "https://semiengineering.com/improving-yield-with-machine-learning/",
+      "webUrl": "https://www.engadget.com/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
+      "originalUrl": "https://www.engadget.com/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 96,
       "tags": null,
       "images": [
         {
-          "url": "https://semiengineering.com/wp-content/uploads/Fig03_deep_slit_trench__etch.jpg",
-          "width": 508,
-          "height": 406,
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/019ff2d0-028c-11ed-bfbd-7e14de53802c",
+          "width": 1600,
+          "height": 1038,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -637,136 +475,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T17:01:00-07:00",
+      "ampWebUrl": "https://www.engadget.com/amp/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
+      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/owlet-baby-camera-2-predictive-sleep-technology-100044051.html",
+      "publishedDateTime": "2022-07-13T03:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Semiconductor Engineering",
-        "domain": "semiengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-artificial-intelligence-in-manufacturing-market-size-to-reach-usd-78744-million-by-2030-exclusive-report-by-acumen-research-and-consulting.md",
-      "title": "Artificial Intelligence in Manufacturing Market Size to reach USD 78,744 Million by 2030 Exclusive Report by Acumen Research and Consulting",
-      "excerpt": "Acumen Research and Consulting recently published report titled \"Artificial Intelligence in Manufacturing Market Size, Share, Analysis Report and Region Forecast, 2022 - 2030\" BEIJING, (GLOBE NEWSWIRE",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/g28026512/artificial-intelligence-in-manufacturing-market-size-to-reach-usd-78-744-million-by-2030-exclusive",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/g28026512/artificial-intelligence-in-manufacturing-market-size-to-reach-usd-78-744-million-by-2030-exclusive",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-s2w-presented-a-paper-on-dark-web-language-analysis-at-the-worlds-most-prestigious-natural-language-processing-nlp-conference-naacl.md",
-      "title": "S2W Presented a Paper on Dark Web Language Analysis at the World's Most Prestigious Natural Language Processing (NLP) Conference, NAACL",
-      "excerpt": "Collected and analyzed dark web data to analyze the language used on the dark web and compare it with the language used on the general web to identify linguistic differences Contributed to the promotion of dark web research by creating a model that classifies dark web documents into 10 categories and discloses the learning data used SEOUL,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/12/9637679.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/12/9637679.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1639661/Logo.jpg",
-          "width": 400,
-          "height": 283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-machine-learning-artificial-intelligence-market-swot-analysis-by-2028-size-scope-top-companies-growth-drivers-by-vmr.md",
-      "title": "Machine Learning Artificial intelligence Market SWOT Analysis By 2028 | Size, Scope, Top Companies, Growth Drivers By VMR",
-      "excerpt": "The study focuses on global companies that operate in the Global Machine Learning Artificial intelligence Market and includes information such as company profiles, product samples and descriptions, capacity,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-artificial-intelligence-market-swot-analysis-by-2028-size-scope-top-companies-growth-drivers-by-vmr-2022-07-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-artificial-intelligence-market-swot-analysis-by-2028-size-scope-top-companies-growth-drivers-by-vmr-2022-07-11",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
+        "name": "Engadget",
+        "domain": "engadget.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -782,26 +500,25 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Machine Learning"
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-07-12-meta-ai-tool-sphere-could-help-curb-fake-news.md",
-      "title": "Meta AI Tool 'Sphere' Could Help Curb Fake News",
-      "excerpt": "Facebook parent company Meta on Monday launched Sphere, an AI information verifier that validates the strength of claims in web entries, as reported earlier by TechCrunch. The tec",
+      "path": "_news/2022-07-13-xpengs-robotics-arm-just-raised-100-million-in-funding.md",
+      "title": "Xpeng’s Robotics Arm Just Raised $100 Million In Funding",
+      "excerpt": "The robotics arm of Xpeng has completed a round of Series A capital funding valued at over $100 million. The investment from a consortium of investors represents the largest single-tranche fundraising effort in China’s robotics sector in the past two years and will enable Xpeng Robotics to strengthen its full-stack R&D investment in robotic hardware and software,",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/services-and-software/meta-unveils-ai-tool-sphere-that-aims-to-curb-fake-news/",
-      "originalUrl": "https://www.cnet.com/tech/services-and-software/meta-unveils-ai-tool-sphere-that-aims-to-curb-fake-news/",
+      "webUrl": "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/",
+      "originalUrl": "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 119,
       "tags": null,
       "images": [
         {
-          "url": "https://www.cnet.com/a/img/resize/f764397dea71d90194b41539de5a8fe49771aacb/2022/04/15/43325f3b-1eb4-4b1d-b5c2-2c6518bd6ea8/meta-logo-2022-202.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.carscoops.com/wp-content/uploads/2022/07/Xpeng-2-1024x555.jpg",
+          "width": 1024,
+          "height": 555,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -809,9 +526,343 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/meta-unveils-ai-tool-sphere-that-aims-to-curb-fake-news/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meta-unveils-ai-tool-sphere-that-aims-to-curb-fake-news/",
-      "publishedDateTime": "2022-07-11T14:41:00-07:00",
+      "ampWebUrl": "https://www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/07/xpengs-robotics-arm-just-raised-100-million-in-funding/amp/",
+      "publishedDateTime": "2022-07-13T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-ai-startup-speeds-healthcare-innovations-to-save-lives.md",
+      "title": "AI Startup Speeds Healthcare Innovations To Save Lives",
+      "excerpt": "Faster synthesis and analysis of healthcare data get medical innovations to market faster. By harnessing AI, big data, machine learning, and predictive analytics, this startup is doing just that for medical device and pharmaceutical companies.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/geristengel/2022/07/13/ai-startup-speeds-healthcare-innovations-to-save-lives/",
+      "originalUrl": "https://www.forbes.com/sites/geristengel/2022/07/13/ai-startup-speeds-healthcare-innovations-to-save-lives/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62ce6ad6d773bc79031cb76c/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/geristengel/2022/07/13/ai-startup-speeds-healthcare-innovations-to-save-lives/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/geristengel/2022/07/13/ai-startup-speeds-healthcare-innovations-to-save-lives/amp/",
+      "publishedDateTime": "2022-07-13T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-intel-rolls-out-open-source-ai-reference-kits-for-enterprises.md",
+      "title": "Intel rolls out Open Source AI Reference Kits for enterprises",
+      "excerpt": "Included in these reference kits are AI model code, end-to-end machine learning pipeline instructions, libraries, plus Intel oneAPI components for cross-architecture performance. Built-in collaboration with Accenture,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368528/intel-rolls-out-open-source-ai-reference-kits-for",
+      "originalUrl": "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368528/intel-rolls-out-open-source-ai-reference-kits-for",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1596706780/itpro/2020/08/Shutterstock_artificial_intelligence.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-13T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-facial-recognition-software-considered-by-government-agencies.md",
+      "title": "Facial recognition software considered by government agencies",
+      "excerpt": "Government agencies have a facial recognition system set up to share drivers’ licence photos with the Covid-19 vaccine passport scheme. Documents show the Ministry of Social Development (MSD) in talks to get people’s photos through the system to check the identity of beneficiaries – though it denies ever doing this – and talk about using it in schools.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fbcnews.com.fj/world/new-zealand/facial-recognition-software-considered-by-government-agencies/",
+      "originalUrl": "https://www.fbcnews.com.fj/world/new-zealand/facial-recognition-software-considered-by-government-agencies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T21:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fbcnews",
+        "domain": "fbcnews.com.fj",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-s2w-presented-a-paper-on-dark-web-language-analysis-at-the-worlds-most-prestigious-natural-language-processing-nlp-conference-naacl.md",
+      "title": "S2W Presented a Paper on Dark Web Language Analysis at the World's Most Prestigious Natural Language Processing (NLP) Conference, NAACL",
+      "excerpt": "https://s2w.inc/) participated in the world's most prestigious natural language processing society, NAACL 2022 (Annual Conference of the North American Chapter of the Association for Computational ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20220712cn15518/s2w-presented-a-paper-on-dark-web-language-analysis-at-the-worlds-most-prestigious-natural-language-processing-nlp-conference-naacl",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20220712cn15518/s2w-presented-a-paper-on-dark-web-language-analysis-at-the-worlds-most-prestigious-natural-language-processing-nlp-conference-naacl",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T17:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-raspberry-pi-camera-with-smarts-cloud-or-local.md",
+      "title": "Raspberry Pi Camera With Smarts — Cloud Or Local?",
+      "excerpt": "[Mark’s] first pass was to use Amazon’s Rekognition service to process video. This allowed the camera to actually be smarter about what would trigger a detection event. In particular ...",
+      "sourceUrl": null,
+      "webUrl": "https://hackaday.com/2019/03/07/raspberry-pi-camera-with-smarts-cloud-or-local/",
+      "originalUrl": "https://hackaday.com/2019/03/07/raspberry-pi-camera-with-smarts-cloud-or-local/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hackaday",
+        "domain": "hackaday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-the-best-stories-for-national-robotics-week.md",
+      "title": "The Best Stories for National Robotics Week",
+      "excerpt": "Collaborative robots -- aka cobots -- are becoming increasingly mainstream. Here are the 10 companies that should be on everyone's mind. Here’s a broad look at the commercial mobile robot market. Most of these robots are designed specifically for ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/best-stories-national-robotics-week",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/best-stories-national-robotics-week",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/styles/article_featured_standard/public/Design%20News/Manufacturing%20Robot%20Stock%20Image_thumbnail.jpg?itok=ywt4DKA_",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-top-10-causes-of-stalled-aiml-projects.md",
+      "title": "Top 10 causes of stalled AI/ML projects",
+      "excerpt": "Discussing the ten most common causes of AI/ML projects stalling (and eventually being cancelled), and how CIOs can formulate a plan to accelerate project process.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883",
+      "originalUrl": "https://www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/01/GettyImages-1244482898.jpg",
+          "width": 797,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883?amp=1",
+      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883?amp=1",
+      "publishedDateTime": "2022-07-12T14:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT World Canada",
+        "domain": "itworldcanada.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-meet-plato-an-ai-that-gains-intuition-like-a-human-baby.md",
+      "title": "Meet Plato, an AI That Gains Intuition Like a Human Baby",
+      "excerpt": "Aptly named after the philosopher who strived to dissect the nature of knowledge, this deep learning system learns like a child.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/science/biology/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/",
+      "originalUrl": "https://www.cnet.com/science/biology/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/2a3cbbb7f9fb920bc2d52253e19607b2017127d8/2022/07/12/b07ca46b-f223-4520-89bd-89befd45a1ad/ezgif-com-gif-maker-16.png?auto=webp",
+          "width": 716,
+          "height": 408,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/meet-plato-an-ai-that-gains-intuition-like-a-human-baby/",
+      "publishedDateTime": "2022-07-12T12:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "CNET",
@@ -834,181 +885,69 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-meta-ai-researchers-develop-model-for-verifying-wikipedia-citations.md",
-      "title": "Meta AI researchers develop model for verifying Wikipedia citations",
-      "excerpt": "Wikipedia is often the first stop when someone is looking for information online, but the validity of that information is all dependent on where it is being sourced from.",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/meta-ai-researchers-develop-model-for-verifying-wikipedia-citations/",
-      "originalUrl": "https://sdtimes.com/ai/meta-ai-researchers-develop-model-for-verifying-wikipedia-citations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2022/07/4fb7533579e9e445735e1995cfcfe43c.png",
-          "width": 583,
-          "height": 327,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T14:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-deepmind-ai-learns-simple-physics-like-a-baby.md",
-      "title": "DeepMind AI learns simple physics like a baby",
-      "excerpt": "Luis Piloto, a computer scientist at Google-owned company DeepMind in London, and his collaborators wanted to develop a similar test for artificial intelligence (AI). The team trained a neural ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-022-01921-7?ref=upstract.com&curator=upstract.com",
-      "originalUrl": "https://www.nature.com/articles/d41586-022-01921-7?ref=upstract.com&curator=upstract.com",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.nature.com/lw1024/magazine-assets/d41586-022-01921-7/d41586-022-01921-7_23255396.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T13:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-fraud-detection-and-prevention-global-market-report-2022-role-of-machine-learning-in-fraud-detection-gaining-prominence.md",
-      "title": "Fraud Detection and Prevention Global Market Report 2022: Role of Machine Learning in Fraud Detection Gaining Prominence",
-      "excerpt": "The global fraud detection and prevention market is heading for impressive gains on account of rising incident and sophistication of frauds coupled with continuing focus on the use of latest technology to timely detect the fraud activity.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm",
-      "originalUrl": "https://www.mobilitytechzone.com/wimax/news/2022/07/11/9636384.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://blog.tmcnet.com/blog/rich-tehrani/uploads/apple-store-ny.jpg",
-          "width": 1577,
-          "height": 1050,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T13:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobility Techzone",
-        "domain": "mobilitytechzone.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI",
-        "Machine Learning"
+        "Google AI",
+        "AI in Healthcare"
       ]
     },
     {
-      "path": "_news/2022-07-12-rob-reich-ai-developers-need-a-code-of-responsible-conduct.md",
-      "title": "Rob Reich: AI developers need a code of responsible conduct",
-      "excerpt": "The pace of AI innovation has accelerated and it's far ahead of public policy frameworks. Responsible AI must be a priority for developers.",
+      "path": "_news/2022-07-13-aws-announces-general-availability-of-three-new-serverless-analytics-offerings.md",
+      "title": "AWS Announces General Availability of Three New Serverless Analytics Offerings",
+      "excerpt": "(NASDAQ: AMZN), today announced the general availability of three new serverless analytics offerings that make it even easier for customers to analyze vast amounts of data without having to configure,",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/11/rob-reich-ai-developers-need-a-code-of-responsible-conduct/",
-      "originalUrl": "https://venturebeat.com/2022/07/11/rob-reich-ai-developers-need-a-code-of-responsible-conduct/",
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/12/9637393.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/12/9637393.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/08/GettyImages-1204589859-1.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 599,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/11/rob-reich-ai-developers-need-a-code-of-responsible-conduct/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/11/rob-reich-ai-developers-need-a-code-of-responsible-conduct/amp/",
-      "publishedDateTime": "2022-07-11T13:07:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T10:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps.md",
+      "title": "FuriosaAI forays into North American AI chip market, welcomes former Intel and Western Digital VPs",
+      "excerpt": "FuriosaAI develops high performance AI accelerators targeted at data centers and enterprise customers. The company offers efficient AI hardware",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps-1031581751",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps-1031581751",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1024,24 +963,67 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-07-12-artificial-intelligence-in-medicine-market-trends-opportunities-and-forecast-to-2025.md",
-      "title": "Artificial Intelligence in Medicine Market Trends, Opportunities and Forecast to 2025",
-      "excerpt": "The global Artificial Intelligence in Medicine market size is expected to gain market growth in the forecast period of 2020 to 2025, with a CAGR of 26.9% in the forecast period of 2020 to 2025 and will expected to reach 2172.",
+      "path": "_news/2022-07-12-intel-releases-open-source-ai-reference-kits.md",
+      "title": "Intel Releases Open Source AI Reference Kits",
+      "excerpt": "Open source designs simplify AI development for solutions across healthcare, manufacturing, retail and other industries. What's New: Intel has released the first set of open source AI reference kits s",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-trends-opportunities-and-forecast-to-2025-2022-07-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-trends-opportunities-and-forecast-to-2025-2022-07-11",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/b28037885/intel-releases-open-source-ai-reference-kits",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/b28037885/intel-releases-open-source-ai-reference-kits",
       "featuredContent": null,
       "highlight": null,
-      "heat": 140,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
+          "width": 900,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28037885",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28037885",
+      "publishedDateTime": "2022-07-12T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-the-best-amazon-prime-day-2022-robot-vacuum-deals-on-roomba-samsung-jet-bot-more.md",
+      "title": "The best Amazon Prime Day 2022 robot vacuum deals on Roomba, Samsung Jet Bot, more",
+      "excerpt": "Amazon Prime Day 2022 is a great time to pick up deals on robot vacuums. Shop on Prime Day and score savings on a smart-home appliance that'll clean your floors while you're out living your life. Here are the best deals we found on Amazon on top-rated,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/amazon-prime-day-2022-robot-vacuums-deals/",
+      "originalUrl": "https://www.cbsnews.com/essentials/amazon-prime-day-2022-robot-vacuums-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/07/f7a3df6f-2008-4e3a-8f75-077de5b2df8f/thumbnail/1200x630/ab8ffa1608ae5b817695d99e881bdabb/robot-vacuum-hero.jpg",
           "width": 1200,
           "height": 630,
           "title": null,
@@ -1051,23 +1033,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T11:39:00-07:00",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/amazon-prime-day-2022-robot-vacuums-deals/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/amazon-prime-day-2022-robot-vacuums-deals/",
+      "publishedDateTime": "2022-07-12T09:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1076,49 +1049,33 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
       ]
     },
     {
-      "path": "_news/2022-07-12-how-ai-is-helping-drug-hunters-succeed.md",
-      "title": "How AI is helping 'drug hunters' succeed",
-      "excerpt": "Dr. Iya Khalil is using AI and big data to transform medicine and healthcare. For more Life Itself talks and related articles visit CNN's collection here.",
+      "path": "_news/2022-07-12-aws-announces-general-availability-of-aws-cloud-wan.md",
+      "title": "AWS Announces General Availability of AWS Cloud WAN",
+      "excerpt": "AWS makes it easy for customers to connect cloud and on-premises environments using AWS networking services (e.g., Amazon Virtual Private Cloud, AWS Transit Gateway, and AWS Direct Connect). However,",
       "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/videos/tv/2022/07/11/iya-khalil-life-itself-wellness.cnn",
-      "originalUrl": "https://edition.cnn.com/videos/tv/2022/07/11/iya-khalil-life-itself-wellness.cnn",
+      "webUrl": "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-aws-cloud-wan-/2022/07/12/9637362.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-aws-cloud-wan-/2022/07/12/9637362.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220602170223-iya-khalil-life-itself-wellness-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/videos/tv/2022/07/11/iya-khalil-life-itself-wellness.cnn",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/tv/2022/07/11/iya-khalil-life-itself-wellness.cnn",
-      "publishedDateTime": "2022-07-11T10:46:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T09:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1127,6 +1084,7 @@
         "news"
       ],
       "topics": [
+        "AWS AI",
         "AI"
       ]
     }

@@ -2,6 +2,212 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-29-microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos.md",
+      "title": "Microsoft-Backed AI Learns How To Play Minecraft By Watching Online Videos",
+      "excerpt": "AI capable of rapidly learning and interacting with interfaces humans usually use is taking over the world. Luckily for us, this particular world is virtual.",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/911020/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/",
+      "originalUrl": "https://www.slashgear.com/911020/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/microsoft-backed-ai-learns-how-to-play-minecraft-by-watching-online-videos/l-intro-1656465937.jpg",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T19:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-case-study-ey-invests-in-ai-to-improve-approach-to-flexible-working.md",
+      "title": "Case Study: EY invests in AI to improve approach to flexible working",
+      "excerpt": "Professional services firm EY has invested in AI-powered tools to assist their employees in the transition back to the office, while maintaining the flexibility they had during the pandemic. Digital Nation Australia spoke to Kate Hillman,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itnews.com.au/digitalnation/video/case-study-ey-invests-in-ai-to-improve-approach-to-flexible-working-581990",
+      "originalUrl": "https://www.itnews.com.au/digitalnation/video/case-study-ey-invests-in-ai-to-improve-approach-to-flexible-working-581990",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.nextmedia.com.au/Videos/Screenshot_2022-06-29_112924.jpg",
+          "width": 943,
+          "height": 748,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T17:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT News For Australia Business",
+        "domain": "itnews.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-cognitive-phenotypes-in-late-life-depression.md",
+      "title": "Cognitive phenotypes in late-life depression",
+      "excerpt": "Sarah M. Szymkowicz [Opens in a new window], Department of Psychiatry and Behavioral Sciences, Vanderbilt University Medical Center, Nashville, TN, USA Geriatric Research, Education, and Clinical Center, Veterans Affairs Tennessee Valley Health System ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cambridge.org/core/journals/international-psychogeriatrics/article/abs/cognitive-phenotypes-in-latelife-depression/61BA968E0B227DC55A486EFFD2953F93",
+      "originalUrl": "https://www.cambridge.org/core/journals/international-psychogeriatrics/article/abs/cognitive-phenotypes-in-latelife-depression/61BA968E0B227DC55A486EFFD2953F93",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cambridge University Press",
+        "domain": "cambridge.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-microsoft-certification-guide-overview-and-career-paths.md",
+      "title": "Microsoft Certification Guide: Overview and Career Paths",
+      "excerpt": "Machine Learning, BI Reporting, or Data Engineering with Azure. One additional exam from a list of 13 possibilities must be passed to earn this credential. Topics covered include cloud data ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessnewsdaily.com/10736-microsoft-certification-guide.html",
+      "originalUrl": "https://www.businessnewsdaily.com/10736-microsoft-certification-guide.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.businessnewsdaily.com/app/uploads/2022/04/04080433/1554238491.png",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business News Daily",
+        "domain": "businessnewsdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-microsoft-drives-financial-inclusion-with-ai-at-bootcamp.md",
+      "title": "Microsoft Drives Financial Inclusion with AI at BootCamp",
+      "excerpt": "natural language processing and cognitive computing – has huge implications for the financial services industry in Nigeria. According to Microsoft Nigeria Country Manager, Mr. Akin Banuso ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thisdaylive.com/index.php/2018/10/11/microsoft-drives-financial-inclusion-with-ai-at-bootcamp/",
+      "originalUrl": "https://www.thisdaylive.com/index.php/2018/10/11/microsoft-drives-financial-inclusion-with-ai-at-bootcamp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thisdaylive.com/index.php/2018/10/11/microsoft-drives-financial-inclusion-with-ai-at-bootcamp/amp/",
+      "cdnAmpWebUrl": "https://www-thisdaylive-com.cdn.ampproject.org/c/s/www.thisdaylive.com/index.php/2018/10/11/microsoft-drives-financial-inclusion-with-ai-at-bootcamp/amp/",
+      "publishedDateTime": "2022-06-28T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "This Day",
+        "domain": "thisdaylive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-mint-group-recognised-as-winner-of-2022-microsoft-south-africa-partner-of-the-year-award.md",
       "title": "Mint Group recognised as winner of 2022 Microsoft South Africa Partner of the Year Award",
       "excerpt": "The Microsoft Partner of the Year Awards recognise ... and accelerate the digital transformation journey with AI and cognitive services for businesses and government institutions globally.",
@@ -1104,244 +1310,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-octoml-ceo-mlops-needs-to-step-aside-for-devops.md",
-      "title": "OctoML CEO: MLOps needs to step aside for DevOps",
-      "excerpt": "\"We can just use DevOps, but for that you need to be able to treat the machine learning model as if it was any other piece ... include a myriad of public cloud instances from AWS, GCP, and Azure, and support for different versions of CPU — x86 and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/octoml-ceo-mlops-needs-to-step-aside-for-devops/",
-      "originalUrl": "https://www.zdnet.com/article/octoml-ceo-mlops-needs-to-step-aside-for-devops/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/4d0122e4a74805d60dbb2ca4c144c384e2614cd1/2022/06/22/7737a930-cfce-4096-acaa-603eda8d30af/luis-ceze-octoml-2022.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 669,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/octoml-ceo-mlops-needs-to-step-aside-for-devops/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/octoml-ceo-mlops-needs-to-step-aside-for-devops/",
-      "publishedDateTime": "2022-06-22T10:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-study-glaucoma-diagnosis-not-associated-with-steeper-rates-of-cognitive-decline.md",
-      "title": "Study: Glaucoma diagnosis not associated with steeper rates of cognitive decline",
-      "excerpt": "Kolli, A., et al. (2022) Glaucoma and Cognitive Function Trajectories in a Population-Based Study: Findings from The Health and Retirement Study. Journal of the American Geriatrics Society. doi ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220622/Study-Glaucoma-diagnosis-not-associated-with-steeper-rates-of-cognitive-decline.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220622/Study-Glaucoma-diagnosis-not-associated-with-steeper-rates-of-cognitive-decline.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2014/7/Geriatrics-620x480.jpg",
-          "width": 620,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul.md",
-      "title": "Microsoft limits access to facial recognition tool in AI ethics overhaul",
-      "excerpt": "Company also restricts use of custom neural voice technology owing to deepfake concerns Microsoft is overhauling its artificial intelligence ethics policies and will no longer let companies use its technology to do things such as infer emotion, gender or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul?amp;amp;amp",
-      "originalUrl": "https://www.theguardian.com/technology/2022/jun/22/microsoft-limits-access-to-facial-recognition-tool-in-ai-ethics-overhaul?amp;amp;amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T08:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Computer Vision",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-microsoft-will-remove-a-controversial-feature-of-its-facial-recognition-tool-that-claims-to-identify-emotion-from-videos-and-pictures-in-major.md",
-      "title": "Microsoft will REMOVE a controversial feature of its facial recognition tool that claims to identify emotion from videos and pictures – in major overhaul of its AI ethics ...",
-      "excerpt": "Microsoft is retiring a controversial facial recognition feature that claims to identify emotion in people's faces from videos and photos. As part of an overhaul its AI policies, the US tech giant ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10941433/Microsoft-retire-controversial-facial-recognition-tool.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10941433/Microsoft-retire-controversial-facial-recognition-tool.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/06/22/12/59383727-0-image-a-12_1655896439971.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10941433/amp/Microsoft-retire-controversial-facial-recognition-tool.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10941433/amp/Microsoft-retire-controversial-facial-recognition-tool.html",
-      "publishedDateTime": "2022-06-22T06:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Ethics",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-microsoft-plans-to-eliminate-face-analysis-tools-in-push-for-responsible-ai.md",
-      "title": "Microsoft Plans to Eliminate Face Analysis Tools in Push for ‘Responsible A.I.’",
-      "excerpt": "The technology giant will stop offering automated tools that predict a person’s gender, age and emotional state and will restrict the use of its facial recognition tool. Send any friend a story ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/06/21/technology/microsoft-facial-recognition.html",
-      "originalUrl": "https://www.nytimes.com/2022/06/21/technology/microsoft-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/06/22/business/21microsoft-01/21microsoft-01-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 549,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/06/21/technology/microsoft-facial-recognition.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/06/21/technology/microsoft-facial-recognition.amp.html",
-      "publishedDateTime": "2022-06-22T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

@@ -2,6 +2,50 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-24-how-machine-learning-ai-is-going-to-change-gaming-forever.md",
+      "title": "How machine learning AI is going to change gaming forever",
+      "excerpt": "Services like Craiyon that automatically generate rough AI images based on virtually any input prompt have produced a range of wild and wacky collages across the net, which you ca",
+      "sourceUrl": null,
+      "webUrl": "https://www.windowscentral.com/gaming/xbox/how-machine-learning-ai-is-going-to-change-gaming-forever",
+      "originalUrl": "https://www.windowscentral.com/gaming/xbox/how-machine-learning-ai-is-going-to-change-gaming-forever",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/YgRKrmyt2cCFtKFtsxCGmd-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Windows Central",
+        "domain": "windowscentral.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-predict-types-of-machine-failures-with-no-code-machine-learning-using-amazon-sagemaker-canvas.md",
       "title": "Predict types of machine failures with no-code machine learning using Amazon SageMaker Canvas",
       "excerpt": "Predicting common machine failure types is critical in manufacturing industries. Given a set of characteristics of a product that is tied to a given type of failure, you can develop a model that can predict the failure type when you feed those attributes to a machine learning (ML) model. ML can help",
@@ -1310,49 +1354,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-in-perspective-ai-and-the-red-herring-of-chasing-sentience.md",
-      "title": "In Perspective | AI and the red herring of chasing sentience",
-      "excerpt": "Artificial neural networks in the other hand, have a predefined model, where no further neurons or connections can be added or removed. Only the weights of the connections (and biases representing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/opinion/in-perspective-ai-and-the-red-herring-of-chasing-sentience-101655468723758.html",
-      "originalUrl": "https://www.hindustantimes.com/opinion/in-perspective-ai-and-the-red-herring-of-chasing-sentience-101655468723758.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/img/2022/06/17/1600x900/3e86f56c-ee38-11ec-816d-25a8f4149995_1655468722716.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/opinion/in-perspective-ai-and-the-red-herring-of-chasing-sentience-101655468723758-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/opinion/in-perspective-ai-and-the-red-herring-of-chasing-sentience-101655468723758-amp.html",
-      "publishedDateTime": "2022-06-17T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -19,6 +19,7 @@ provider:
 topics:
   - Computer Vision
   - AI
+  - AWS AI
 
 images:
   - url: "https://images.indianexpress.com/2022/08/facial_recognition_reuters-1200.jpg"

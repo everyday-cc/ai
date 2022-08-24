@@ -2,21 +2,21 @@
   "page": 60,
   "value": [
     {
-      "path": "_news/2022-07-01-artificial-intelligence-news-and-research.md",
-      "title": "Artificial Intelligence News and Research",
-      "excerpt": "Artificial intelligence and machine learning are among ... more efficient CRISPR-Cas9 variants that could be useful for gene therapy applications. A joint research group led by Genki Kanda at ...",
+      "path": "_news/2022-07-02-tv-mohandas-pai-on-the-future-of-fintech-in-india-and-the-power-of-data-ai.md",
+      "title": "TV Mohandas Pai On The Future Of Fintech In India And The Power Of Data & AI",
+      "excerpt": "India will have 250 unicorns by 2025, Aarin Capital Partner TV Mohandas Pai said at Inc42’s Fintech Summit 2022",
       "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/?tag=/Artificial-Intelligence",
-      "originalUrl": "https://www.news-medical.net/?tag=/Artificial-Intelligence",
+      "webUrl": "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/",
+      "originalUrl": "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.news-medical.net/themes/Standard/images/full_site_logo.png",
-          "width": 973,
-          "height": 514,
+          "url": "https://inc42.com/wp-content/uploads/2022/07/10-Key-Takeways-from-mohandas-pais-vision-of-fintech-social.jpg",
+          "width": 1201,
+          "height": 629,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T16:59:00-07:00",
+      "ampWebUrl": "https://inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/here-are-the-5-reasons-why-tv-mohandas-pai-is-bullish-on-indias-fintech-startups/amp/",
+      "publishedDateTime": "2022-07-02T03:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
+        "name": "inc42.com",
+        "domain": "inc42.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,17 +40,17 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
+        "AI in Finance",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-07-01-cognitive-therapy-shows-promise-in-treating-ptsd-and-headaches.md",
-      "title": "Cognitive therapy shows promise in treating PTSD and headaches",
-      "excerpt": "Recently, researchers examined two nonpharmacological interventions for post-traumatic headaches — cognitive behavioral therapy (CBT) and cognitive processing therapy (CPT). They found that CBT ...",
+      "path": "_news/2022-07-02-tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning.md",
+      "title": "TickerWin Releases Report on 'How Blockchain is Improving the Efficiency of AI and Machine Learning'",
+      "excerpt": "HONG KONG, CHINA / ACCESSWIRE / July 2, 2022 / TickerWin, one of the leading market research companies, has released a report on 'How Blockchain Improving the Efficiency of AI and Machine Learning'. AI,",
       "sourceUrl": null,
-      "webUrl": "https://www.medicalnewstoday.com/articles/cognitive-therapy-shows-promise-in-treating-ptsd-and-headaches",
-      "originalUrl": "https://www.medicalnewstoday.com/articles/cognitive-therapy-shows-promise-in-treating-ptsd-and-headaches",
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/markets-news/accesswire/8993668/tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/markets-news/accesswire/8993668/tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -60,11 +60,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T16:59:00-07:00",
+      "publishedDateTime": "2022-07-02T03:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical News Today",
-        "domain": "medicalnewstoday.com",
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -74,95 +74,27 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI in Finance",
         "AI",
-        "AI in Healthcare"
+        "Machine Learning"
       ]
     },
     {
-      "path": "_news/2022-07-01-prefrontal-cerebellar-dynamics-during-post-success-and-post-error-cognitive-controls-in-major-psychiatric-disorders.md",
-      "title": "Prefrontal-cerebellar dynamics during post-success and post-error cognitive controls in major psychiatric disorders",
-      "excerpt": "Center for Psychiatric Neuroscience, Feinstein Institutes for Medical Research, Manhasset, NY, USA Division of Psychiatry Research, Zucker Hillside Hospital, Glen Oaks, NY, USA Department of Psychiatry, Zucker School of Medicine at Hofstra/Northwell ...",
+      "path": "_news/2022-07-02-reddit-buys-natural-language-processing-company-meaningcloud.md",
+      "title": "Reddit buys natural language processing company MeaningCloud",
+      "excerpt": "Reddit said that the technology will strengthen the company's machine learning (ML) proficiencies and understanding of unstructured data, ultimately providing the most relevant information for redditors.",
       "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/prefrontalcerebellar-dynamics-during-postsuccess-and-posterror-cognitive-controls-in-major-psychiatric-disorders/98E3D19E6D5C875FED5AAF0F316FD3F0",
-      "originalUrl": "https://www.cambridge.org/core/journals/psychological-medicine/article/prefrontalcerebellar-dynamics-during-postsuccess-and-posterror-cognitive-controls-in-major-psychiatric-disorders/98E3D19E6D5C875FED5AAF0F316FD3F0",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-ptsd-may-accelerate-cognitive-decline-over-time.md",
-      "title": "PTSD May Accelerate Cognitive Decline Over Time",
-      "excerpt": "Posttraumatic stress disorder (PTSD) is associated with accelerated cognitive decline over time, new research suggests. In an analysis of more than 12,000 middle-aged women who had experienced at ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medscape.com/viewarticle/976526",
-      "originalUrl": "https://www.medscape.com/viewarticle/976526",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medscape",
-        "domain": "medscape.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-speech-and-voice-recognition-market-worth-us281-billion-by-2027-at-cagr-of-244.md",
-      "title": "Speech and Voice Recognition Market worth US$28.1 billion by 2027, at CAGR of 24.4%",
-      "excerpt": "The Speech and Voice Recognition Market size is expected to reach USD 28.1 billion by 2027 to grow at a CAGR of 24.4% from 2022 to 2027. According to a research report “Speech and Voice ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-worth-us28-1-billion-by-2027-at-cagr-of-24-4",
-      "originalUrl": "https://www.digitaljournal.com/pr/speech-and-voice-recognition-market-worth-us28-1-billion-by-2027-at-cagr-of-24-4",
+      "webUrl": "https://economictimes.indiatimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/articleshow/92614428.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/articleshow/92614428.cms",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.marketsandmarkets.com/Images/speech-voice-recognition-market.jpg",
-          "width": 630,
-          "height": 376,
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-35726,msid-92614445/reddit.jpg",
+          "width": 600,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -170,13 +102,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T16:59:00-07:00",
+      "ampWebUrl": "https://m.economictimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/amp_articleshow/92614428.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/technology/reddit-buys-natural-language-processing-company-meaningcloud/amp_articleshow/92614428.cms",
+      "publishedDateTime": "2022-07-02T00:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "India Times",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -191,21 +123,21 @@
       ]
     },
     {
-      "path": "_news/2022-07-01-ub-affiliated-artificial-intelligence-startup-raises-900000-in-seed-round-to-advance-driverless-boat-technology.md",
-      "title": "UB-affiliated artificial intelligence startup raises $900,000 in seed round to advance driverless boat technology",
-      "excerpt": "BUFFALO, N.Y. — Buffalo Automation, an artificial intelligence (AI) startup that is developing ... The technology is similar to the self-driving systems that high-tech companies, such as Waymo and Otto, and traditional automakers, such as General Motors ...",
+      "path": "_news/2022-07-02-facial-recognition-software-mental-healthcare-in-schools-among-63-new-alabama-laws.md",
+      "title": "Facial recognition software, mental healthcare in schools among 63 new Alabama laws",
+      "excerpt": "On July 1, more than 60 new laws went into effect in Alabama, among those are laws regarding facial-recognition software and mental healthcare in schools. State Senator Arthur Orr sponsored several new laws in the 2022 legislative session,",
       "sourceUrl": null,
-      "webUrl": "https://www.buffalo.edu/pss/news-home/gen_news.host.html/content/shared/university/news/news-center-releases/2018/04/016.detail.html",
-      "originalUrl": "https://www.buffalo.edu/pss/news-home/gen_news.host.html/content/shared/university/news/news-center-releases/2018/04/016.detail.html",
+      "webUrl": "https://www.waff.com/2022/07/02/facial-recognition-software-mental-healthcare-schools-among-63-new-alabama-laws/",
+      "originalUrl": "https://www.waff.com/2022/07/02/facial-recognition-software-mental-healthcare-schools-among-63-new-alabama-laws/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 70,
       "tags": null,
       "images": [
         {
-          "url": "https://www.buffalo.edu/content/shared/university/news/news-center-releases/2018/04/016/_jcr_content/teaser.img.512.auto.jpg/1555958190888.jpg",
-          "width": 512,
-          "height": 341,
+          "url": "https://gray-waff-prod.cdn.arcpublishing.com/resizer/XlXt-tLT2A48ziQkvqnMnVz_XQQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/7Q47P474QJD6JIIRH23WO737WA.jpg",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -213,47 +145,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T16:59:00-07:00",
+      "ampWebUrl": "https://www.waff.com/2022/07/02/facial-recognition-software-mental-healthcare-schools-among-63-new-alabama-laws/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-waff-com.cdn.ampproject.org/c/s/www.waff.com/2022/07/02/facial-recognition-software-mental-healthcare-schools-among-63-new-alabama-laws/?outputType=amp",
+      "publishedDateTime": "2022-07-02T00:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medicine Buffalo",
-        "domain": "buffalo.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-people-vary-a-lot-in-how-well-they-recognize-match-or-categorize-the-things-they-see-researchers-attribute-this-skill-to-an-ability-they-call.md",
-      "title": "People vary a lot in how well they recognize, match or categorize the things they see – researchers attribute this skill to an ability they call 'o'",
-      "excerpt": "We called this ability “o” for object recognition and in honor of the “g” factor, which stands for similar statistical evidence for general intelligence. Since it is so general ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/people-vary-a-lot-in-how-well-they-recognize-match-or-categorize-the-things-they-see-researchers-attribute-this-skill-to-an-ability-they-call-o-182100",
-      "originalUrl": "https://theconversation.com/people-vary-a-lot-in-how-well-they-recognize-match-or-categorize-the-things-they-see-researchers-attribute-this-skill-to-an-ability-they-call-o-182100",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T16:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
+        "name": "WAFF",
+        "domain": "waff.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -264,77 +162,26 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-nvidia-loses-the-ai-performance-crown-at-least-for-now.md",
-      "title": "NVIDIA Loses The AI Performance Crown, At Least For Now",
-      "excerpt": "However the AI accelerator race has been a one-company story since the beginning, with NVIDIA far in front of a small pack of earnest wannabe’s. With MLPerf 2.0, that has all changed. In a game of leapfrog,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/",
-      "originalUrl": "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62bc4293662c07e1dbd547b5/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 621,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/karlfreund/2022/06/30/nvidia-loses-the-ai-performance-crown-at-least-for-now/amp/",
-      "publishedDateTime": "2022-06-30T16:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
-        "AI Hardware"
+        "AI in Healthcare"
       ]
     },
     {
-      "path": "_news/2022-07-01-neural-effects-of-covid-19-on-depressive-symptoms.md",
-      "title": "Neural effects of COVID-19 on depressive symptoms",
-      "excerpt": "Researchers have hypothesized that the cognitive and psychiatric symptoms associated with COVID-19 may be due to the neural effects of this infection or its treatments. However, these symptoms may ...",
+      "path": "_news/2022-07-02-researchers-use-ai-to-detect-new-family-of-genes-in-gut-bacteria.md",
+      "title": "Researchers use AI to detect new family of genes in gut bacteria",
+      "excerpt": "Using artificial intelligence, UT Southwestern researchers have discovered a new family of sensing genes in enteric bacteria that are linked by structure and probably function, but not genetic sequence.",
       "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220628/Neural-effects-of-COVID-19-on-depressive-symptoms.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220628/Neural-effects-of-COVID-19-on-depressive-symptoms.aspx",
+      "webUrl": "https://phys.org/news/2022-07-ai-family-genes-gut-bacteria.html",
+      "originalUrl": "https://phys.org/news/2022-07-ai-family-genes-gut-bacteria.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 77,
       "tags": null,
       "images": [
         {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_718037_16564736283426822.jpg",
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/ut-southwestern-resear-1.jpg",
           "width": 1000,
-          "height": 667,
+          "height": 1422,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -342,13 +189,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220628/Neural-effects-of-COVID-19-on-depressive-symptoms.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220628/Neural-effects-of-COVID-19-on-depressive-symptoms.aspx",
-      "publishedDateTime": "2022-06-30T14:52:00-07:00",
+      "ampWebUrl": "https://phys.org/news/2022-07-ai-family-genes-gut-bacteria.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-07-ai-family-genes-gut-bacteria.amp",
+      "publishedDateTime": "2022-07-02T00:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
+        "name": "Phys.org",
+        "domain": "phys.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -358,26 +205,25 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-07-01-halsey-responds-to-fans-who-left-arizona-concert-following-her-speech-supporting-abortion.md",
-      "title": "Halsey responds to fans who left Arizona concert following her speech supporting abortion",
-      "excerpt": "Halsey responded to fans on social media following Sunday's concert in Arizona where she voiced pro-choice views, prompting some audience members to leave the show.",
+      "path": "_news/2022-07-02-global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-12.md",
+      "title": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ) Shares Up 1.2%",
+      "excerpt": "Global X Robotics & Artificial Intelligence Thematic ETF (NYSEARCA:BOTZ – Get Rating) shot up 1.2% during trading on Friday . The company traded as high as $20.57 and last traded at $20.57.",
       "sourceUrl": null,
-      "webUrl": "https://www.foxnews.com/entertainment/halsey-responds-fans-arizona-concert-following-speech-supporting-abortion",
-      "originalUrl": "https://www.foxnews.com/entertainment/halsey-responds-fans-arizona-concert-following-speech-supporting-abortion",
+      "webUrl": "https://www.etfdailynews.com/2022/07/02/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-1-2/",
+      "originalUrl": "https://www.etfdailynews.com/2022/07/02/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-1-2/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/06/1200/675/a831e3da-halsey.jpg?ve=1&tl=1",
-          "width": 1200,
-          "height": 675,
+          "url": "https://www.marketbeat.com/logos/generic-stocks.jpg",
+          "width": 1000,
+          "height": 667,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -385,75 +231,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxnews.com/entertainment/halsey-responds-fans-arizona-concert-following-speech-supporting-abortion.amp",
-      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/entertainment/halsey-responds-fans-arizona-concert-following-speech-supporting-abortion.amp",
-      "publishedDateTime": "2022-06-30T14:34:00-07:00",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/07/02/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-1-2/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/07/02/global-x-robotics-artificial-intelligence-thematic-etf-nysearcabotz-shares-up-1-2/amp/",
+      "publishedDateTime": "2022-07-01T23:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox News",
-        "domain": "foxnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-brain-connected-robot-arms-enable-paralyzed-man-to-feed-himself.md",
-      "title": "Brain-connected robot arms enable paralyzed man to feed himself",
-      "excerpt": "A paralyzed man has fed himself for the first time in 30 years by remote-controlling robotic arms with his brain. Researchers at Johns Hopkins University in",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/95147-brain-connected-robot-arms-enable-paralyzed-man-feed.html",
-      "originalUrl": "https://www.techspot.com/news/95147-brain-connected-robot-arms-enable-paralyzed-man-feed.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/06/2022-06-30-image-24.jpg",
-          "width": 829,
-          "height": 718,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -467,365 +252,21 @@
       ]
     },
     {
-      "path": "_news/2022-07-01-federal-incentives-wont-fix-ais-market-failure-in-healthcare.md",
-      "title": "Federal Incentives Won’t Fix AI’s “Market Failure” In Healthcare",
-      "excerpt": "If the EHR incentive program failed in terms of achieving interoperability and led to adverse unintended consequences, should we be applying a similar policy playbook to AI?",
+      "path": "_news/2022-07-02-the-gpu-shortage-is-over.md",
+      "title": "The GPU shortage is over",
+      "excerpt": "We’ve liveblogged and livetweeted that hell of trying to buy a GPU online, fighting against an army of bots to navigate the buggy websites of retailers who didn’t have enough reason to care.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/sethjoseph/2022/06/30/federal-incentives-wont-fix-ais-market-failure-in-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/sethjoseph/2022/06/30/federal-incentives-wont-fix-ais-market-failure-in-healthcare/",
+      "webUrl": "https://www.theverge.com/2022/7/1/23191634/nvidia-amd-gpu-shortage-over-3080-3070-3060-radeon-rx-6900-6800",
+      "originalUrl": "https://www.theverge.com/2022/7/1/23191634/nvidia-amd-gpu-shortage-over-3080-3070-3060-radeon-rx-6900-6800",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62bdf3950a8847e2bc364b90/0x0.jpg?format=jpg&width=1200",
+          "url": "https://cdn.vox-cdn.com/thumbor/OTpmptgr7XcTVAJ27UBvIxl0vrg=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22049166/shollister_201117_4303_0003.0.jpg",
           "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/sethjoseph/2022/06/30/federal-incentives-wont-fix-ais-market-failure-in-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sethjoseph/2022/06/30/federal-incentives-wont-fix-ais-market-failure-in-healthcare/amp/",
-      "publishedDateTime": "2022-06-30T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-tamarack-technology-announces-new-member-of-tamarackai-team.md",
-      "title": "Tamarack Technology Announces New Member of Tamarack.ai Team",
-      "excerpt": "The Tamarack team is expanding. Tamarack Technology, the St. Paul-based software company, has announced the addition of Brian Turner to its Tamarack.ai team. As a data engineer, Turner will focus on,",
-      "sourceUrl": null,
-      "webUrl": "https://tech.mn/news/tamarack-technology-announces-new-member-of-tamarack.ai-team",
-      "originalUrl": "https://tech.mn/news/tamarack-technology-announces-new-member-of-tamarack.ai-team",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tech.mn/news/tamarack-technology-announces-new-member-of-tamarack.ai-team?hs_amp=true",
-      "cdnAmpWebUrl": "https://tech-mn.cdn.ampproject.org/c/s/tech.mn/news/tamarack-technology-announces-new-member-of-tamarack.ai-team?hs_amp=true",
-      "publishedDateTime": "2022-06-30T12:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TECH",
-        "domain": "tech.mn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-secure-amazon-sagemaker-studio-presigned-urls-part-1-foundational-infrastructure.md",
-      "title": "Secure Amazon SageMaker Studio presigned URLs Part 1: Foundational infrastructure",
-      "excerpt": "You can access Amazon SageMaker Studio notebooks from the Amazon SageMaker console via AWS Identity and Access Management (IAM) authenticated federation from your identity provider (IdP), such as Okta. When a Studio user opens the notebook link, Studio validates the federated user’s IAM policy to authorize",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/secure-amazon-sagemaker-studio-presigned-urls-part-1-foundational-infrastructure/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/secure-amazon-sagemaker-studio-presigned-urls-part-1-foundational-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T12:36:21-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-vistapath-raises-4m-to-modernize-pathology-labs-using-computer-vision-and-artificial-intelligence.md",
-      "title": "VistaPath Raises $4M to Modernize Pathology Labs Using Computer Vision and Artificial Intelligence",
-      "excerpt": "VistaPath’s Sentinel is a first-of-its-kind pathology processing platform designed to seamlessly deliver a range of solutions for critical lab processes. The company’s first application, released in 2021,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-14aa9b44b30cd6d9a7743b608c993e98",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-center-for-identification-technology-research-celebrates-20th-year.md",
-      "title": "Center for Identification Technology Research Celebrates 20th Year",
-      "excerpt": "The Center for Identification Technology Research (CITeR), based at Clarkson University, is celebrating its 20th year. CITeR, which performs research in the growing areas of identity science and biometric recognition,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-science-biometrics-02b57bc7190e2158c2397a060526b0a5",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-science-biometrics-02b57bc7190e2158c2397a060526b0a5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T11:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-chatbot-company-replika-says-many-customers-believe-in-ai-sentience.md",
-      "title": "Chatbot company Replika says many customers believe in AI sentience",
-      "excerpt": "Chatbot company Replika says it receives a handful of messages almost every day from users who believe their online friend is sentient.",
-      "sourceUrl": null,
-      "webUrl": "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/",
-      "originalUrl": "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/06/replika-ai-sentient.jpg?quality=75&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/",
-      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/06/30/replika-says-many-customers-believe-in-ai-sentience/amp/",
-      "publishedDateTime": "2022-06-30T10:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Post",
-        "domain": "nypost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-01-startup-founders-say-venture-capital-investors-are-driving-harder-deals.md",
-      "title": "Startup Founders Say Venture-Capital Investors Are Driving Harder Deals",
-      "excerpt": "Startup founders say venture-capital investors are offering tougher terms as companies attempt to raise money amid economic uncertainty and a broad selloff in tech stocks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/startup-founders-say-venture-capital-investors-are-driving-harder-deals-11656612409",
-      "originalUrl": "https://www.wsj.com/articles/startup-founders-say-venture-capital-investors-are-driving-harder-deals-11656612409",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-574768/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/startup-founders-say-venture-capital-investors-are-driving-harder-deals-11656612409",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/startup-founders-say-venture-capital-investors-are-driving-harder-deals-11656612409",
-      "publishedDateTime": "2022-06-30T10:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-what-it-takes-to-create-and-implement-ethical-artificial-intelligence.md",
-      "title": "What It Takes To Create And Implement Ethical Artificial Intelligence",
-      "excerpt": "Artificial intelligence “acts” unethically in ways that are different from humans, even if the harms that both AI and humans can cause are similar. For example, even if both humans and AI can ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/irabedzow/2022/06/30/what-it-takes-to-create-and-implement-ethical-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/irabedzow/2022/06/30/what-it-takes-to-create-and-implement-ethical-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62bdaf29f10cfef9f670f110/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 653,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/irabedzow/2022/06/30/what-it-takes-to-create-and-implement-ethical-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/irabedzow/2022/06/30/what-it-takes-to-create-and-implement-ethical-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-06-30T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies.md",
-      "title": "Softheon Expands to Artificial Intelligence in Care Management for Health Plans through Acquisition of NextHealth Technologies",
-      "excerpt": "Softheon, a leading cloud-based eligibility, enrollment, and billing provider for health plans and government agencies, has acquired NextHealth Technologies, an AI-powered SaaS-based healthcare analytics platform.",
-      "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/softheon-expands-to-artificial-intelligence-in-care-management-for-health-plans-through-acquisition-of-nexthealth-technologies",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg",
-          "width": 1200,
-          "height": 630,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -835,41 +276,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-meta-warns-employees-of-serious-times-in-internal-memo-listing-key-product-bets.md",
-      "title": "Meta warns employees of ‘serious times’ in internal memo listing key product bets",
-      "excerpt": "Cox says teams will have to “prioritize more ruthlessly” Cox also lays out six areas where he believes Facebook ... Research SuperCluster). The FAIR team will continue to drive AI research ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/6/30/23190164/meta-chris-cox-internal-memo-product-bets-tiktok-metaverse",
-      "originalUrl": "https://www.theverge.com/2022/6/30/23190164/meta-chris-cox-internal-memo-product-bets-tiktok-metaverse",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T09:09:00-07:00",
+      "publishedDateTime": "2022-07-01T18:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "The Verge",
@@ -892,26 +299,26 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-30-cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite.md",
-      "title": "Cybersecurity Startup Inspectiv Closes In On $8.6 Million Funding, Expands C-Suite",
-      "excerpt": "Have you ever felt like your entire life has been leading up to one moment?” Melika said. “This is it for me.\"",
+      "path": "_news/2022-07-02-driverless-cruise-robotaxis-stop-working-simultaneously-blocking-san-francisco-street.md",
+      "title": "Driverless Cruise robotaxis stop working simultaneously, blocking San Francisco street",
+      "excerpt": "A group of driverless Cruise robotaxis blocked traffic in San Francisco for hours on Tuesday evening after the cars stopped working without explanation. Cruise, which is backed by General Motors ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/30/cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite/",
-      "originalUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/30/cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite/",
+      "webUrl": "https://www.theverge.com/2022/7/1/23191045/cruise-robotaxis-driverless-roadblock-san-francisco",
+      "originalUrl": "https://www.theverge.com/2022/7/1/23191045/cruise-robotaxis-driverless-roadblock-san-francisco",
       "featuredContent": null,
       "highlight": null,
-      "heat": 76,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62bdae5523e0787000d54849/0x0.png?format=png&crop=823,386,x20,y119,safe&width=1200",
-          "width": 823,
-          "height": 386,
+          "url": "https://cdn.vox-cdn.com/thumbor/vSc5PYoYxxqOvEWljQwateFk-sY=/0x92:2202x1245/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23665440/Screenshot_2022_07_01_at_11.47.43.png",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -919,16 +326,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/30/cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/phoebeliu/2022/06/30/cybersecurity-startup-inspectiv-closes-in-on-86-million-funding-expands-c-suite/amp/",
-      "publishedDateTime": "2022-06-30T09:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T17:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "The Verge",
+        "domain": "theverge.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -944,143 +351,31 @@
         "news"
       ],
       "topics": [
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-30-mahima-pushkarna-is-making-data-easier-to-understand.md",
-      "title": "Mahima Pushkarna is making data easier to understand",
-      "excerpt": "Five years ago, information designer Mahima Pushkarna joined Google to make data easier to understand. As a senior interaction designer on the People + AI Research (PAIR) team, she designed Data Cards to help everyone better understand the contexts of the data they are using. The Data Cards Playbook",
+      "path": "_news/2022-07-02-o-ability-your-power-of-perception-is-mostly-innate.md",
+      "title": "'O' Ability: Your Power of Perception Is Mostly Innate",
+      "excerpt": "We called this ability “o” for object recognition and in honor of the “g” factor, which stands for similar statistical evidence for general intelligence. Since it is so general, is o just another name for general intelligence? We don’t think so.",
       "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/research/mahima-pushkarna-interview/",
-      "originalUrl": "https://blog.google/technology/research/mahima-pushkarna-interview/",
+      "webUrl": "https://www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.html#!",
+      "originalUrl": "https://www.realclearscience.com/articles/2022/07/02/o_ability_your_power_of_perception_is_mostly_innate_840513.html#!",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Mahima_Pushkarna_Keyword2x.max-1300x1300.png",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://blog.google/technology/research/mahima-pushkarna-interview/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/research/mahima-pushkarna-interview/amp/",
-      "publishedDateTime": "2022-06-30T09:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-the-fight-over-which-uses-of-ai-europe-should-outlaw.md",
-      "title": "The Fight Over Which Uses of AI Europe Should Outlaw",
-      "excerpt": "The European Union’s AI Act will set ground rules for what the technology can and can’t do to people—like whether it’s OK to deploy AI lie detectors at borders.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/europe-law-outlaw-ai/",
-      "originalUrl": "https://www.wired.com/story/europe-law-outlaw-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62bcdad7042ab1ffde99c514/master/pass/Border-Patrol-Greece-AI-Polygraphs-Business-1233365255.jpg",
-          "width": 2400,
-          "height": 1597,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/europe-law-outlaw-ai/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/europe-law-outlaw-ai/amp",
-      "publishedDateTime": "2022-06-30T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-how-believing-ai-behaving-like-humans-is-becoming-problematic.md",
-      "title": "How believing AI 'behaving like humans' is becoming problematic",
-      "excerpt": "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe their online friend is sentient.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596",
-      "originalUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/images/2022/06/30/artificial-intelligence-ai-bot.jpg",
-          "width": 750,
-          "height": 393,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596?amp",
-      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/tech-startup/science-gadgets-and-tech/tech-news/news/how-believing-ai-behaving-humans-becoming-problematic-3060596?amp",
-      "publishedDateTime": "2022-06-30T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Star",
-        "domain": "thedailystar.net",
+        "name": "RealClearScience",
+        "domain": "realclearscience.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1090,8 +385,712 @@
         "news"
       ],
       "topics": [
-        "AI Hardware",
+        "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-scientists-designing-ai-robots-to-work-in-earths-most-extreme-places.md",
+      "title": "Scientists Designing AI Robots to Work in Earth's Most Extreme Places",
+      "excerpt": "Manchester researchers have been advising government and energy sector leaders on the safe development of AI robots being used in extreme environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195",
+      "originalUrl": "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2070395/cutting-edge-applications-artificial-intelligence-display.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/scientists-designing-ai-robots-work-earths-most-extreme-places-1721195?amp=1",
+      "publishedDateTime": "2022-07-01T15:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-record-breaking-registrants-and-technical-papers-for-2022-ieeecvf-conference-on-computer-vision-and-pattern-recognition-cvpr.md",
+      "title": "Record-Breaking Registrants and Technical Papers for 2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "excerpt": "Advancing the Frontiers of Computer Vision Research, Technologies, and Solutions LOS ALAMITOS, Calif., July 1, 2022 /PRNewswire/ -- 2022 IEEE/CVF Conference on Computer Vision and Pattern ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr-1031564264",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/record-breaking-registrants-and-technical-papers-for-2022-ieee-cvf-conference-on-computer-vision-and-pattern-recognition-cvpr-1031564264",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1852465/CVPR_exhibits.jpg",
+          "width": 400,
+          "height": 233,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-ai-powered-speech-recognition-is-entering-a-new-phase-total-global-comprehension.md",
+      "title": "AI-powered speech recognition is entering a new phase: Total global comprehension",
+      "excerpt": "A new speech recognition startup has taken an ambitious path to leapfrog Apple, Google and other tech giants. Can AI understand all 7,000 languages in the world?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
+      "originalUrl": "https://www.zdnet.com/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/9411a919483b45a96f423ef5d2fc198e85feafc1/2022/07/01/86d710b8-0303-4e57-8529-c789deded6df/gettyimages-1279453193.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
+      "publishedDateTime": "2022-07-01T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-can-artificial-intelligence-help-journalists.md",
+      "title": "Can artificial intelligence help journalists?",
+      "excerpt": "Lindsay Grace, an associate professor at the School of Communication, and a team of fellow academics have developed an AI-generated tip sheet that can help news organizations by scouring information and providing leads to pursue.",
+      "sourceUrl": null,
+      "webUrl": "https://news.miami.edu/stories/2022/07/can-artificial-intelligence-help-journalists.html",
+      "originalUrl": "https://news.miami.edu/stories/2022/07/can-artificial-intelligence-help-journalists.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T13:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Miami",
+        "domain": "miami.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.md",
+      "title": "Elon Musk gives official reveal date for Tesla’s humanoid AI robot, ‘Optimus’",
+      "excerpt": "LOS ANGELES - Elon Musk said Tesla’s long-awaited AI humanoid robot \"Optimus\" which has both wowed and terrified consumers, will be officially unveiled in just a few months. Speaking at the Qatar Economic Forum on June 21,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus",
+      "originalUrl": "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.fox13news.com/www.fox13news.com/content/uploads/2021/08/932/470/Tesla-bot.jpg?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.amp",
+      "cdnAmpWebUrl": "https://www-fox13news-com.cdn.ampproject.org/c/s/www.fox13news.com/news/elon-musk-gives-official-reveal-date-for-teslas-humanoid-ai-robot-optimus.amp",
+      "publishedDateTime": "2022-07-01T13:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox 13",
+        "domain": "fox13news.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-reddit-acquires-natural-language-processing-company-meaningcloud.md",
+      "title": "Reddit acquires natural language processing company MeaningCloud",
+      "excerpt": "Reddit announced Friday that it’s acquiring MeaningCloud, a natural language processing company, for an undisclosed amount. The MeaningCloud team has joined Reddit and will support machine learning projects across its product,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/",
+      "originalUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/reddit-app-icon-ios.webp?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/amp/",
+      "publishedDateTime": "2022-07-01T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-an-artificial-intelligence-probe-to-help-see-tumor-malignancy.md",
+      "title": "An artificial intelligence probe to help see tumor malignancy",
+      "excerpt": "Tumor malignancy identification plays an essential role in clinical management of cancer. Currently, biopsy is the gold standard for malignancy identification in most tumor cases, it is, however ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-probe-tumor-malignancy.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-probe-tumor-malignancy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/an-artificial-intellig.jpg",
+          "width": 1888,
+          "height": 1049,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-07-artificial-intelligence-probe-tumor-malignancy.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-07-artificial-intelligence-probe-tumor-malignancy.amp",
+      "publishedDateTime": "2022-07-01T10:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-five-ways-to-promote-brain-health-slow-cognitive-decline.md",
+      "title": "Five ways to promote brain health, slow cognitive decline",
+      "excerpt": "Age is the greatest risk factor for Alzheimer's disease. In fact, 1 in 3 seniors age 85 and older will have Alzheimer's disease. While some brain changes are inevitable as we age, there is a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailyherald.com/entlife/20220701/five-ways-to-promote-brain-health-slow-cognitive-decline",
+      "originalUrl": "https://www.dailyherald.com/entlife/20220701/five-ways-to-promote-brain-health-slow-cognitive-decline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-cognitive-impairment-predicts-outcomes-for-icu-survivors.md",
+      "title": "Cognitive impairment predicts outcomes for ICU survivors",
+      "excerpt": "The researchers found that 66.6 percent of patients (213 patients) were able to complete the MoCA near discharge, while 14.7 percent could not complete it due to cognitive impairment. The median ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-07-cognitive-impairment-outcomes-icu-survivors.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-07-cognitive-impairment-outcomes-icu-survivors.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T09:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-the-worldwide-artificial-intelligence-in-medical-imaging-industry-is-expected-to-reach-32-billion-by-2027-researchandmarketscom.md",
+      "title": "The Worldwide Artificial Intelligence In Medical Imaging Industry is Expected to Reach $3.2 Billion by 2027 - ResearchAndMarkets.com",
+      "excerpt": "The “Artificial Intelligence In Medical Imaging Market Research Report by End-user (Diagnostic Centers and Hospitals), Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19” report has been added to ResearchAndMarkets.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-73f480a5a29744729ee955cb90c693e5",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-health-artificial-intelligence-73f480a5a29744729ee955cb90c693e5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T09:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-futuristic-driverless-taxis-are-already-causing-major-issues.md",
+      "title": "Futuristic Driverless Taxis Are Already Causing Major Issues",
+      "excerpt": "The GM-backed driverless car company has been operating a commercial robotaxi service in the city since securing a permit back in early June 2022, but a Cruise traffic jam gnarled up one street ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.slashgear.com/914406/futuristic-driverless-taxis-are-already-causing-major-issues/",
+      "originalUrl": "https://www.slashgear.com/914406/futuristic-driverless-taxis-are-already-causing-major-issues/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.slashgear.com/img/gallery/futuristic-driverless-taxis-are-already-causing-major-issues/l-intro-1656689423.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SlashGear",
+        "domain": "slashgear.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/slashgear.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-ai-powered-photo-stock-startup-wirestock-lands-partnership-with-getty-images.md",
+      "title": "AI-powered photo stock startup Wirestock lands partnership with Getty Images",
+      "excerpt": "As a stock photographer, taking great photos is often only just a tiny part of the job. To run a successful business, keywording, categorizing, captioning, and all the other admin that goes with it can take up almost as much time.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/01/wirestock-getty/",
+      "originalUrl": "https://techcrunch.com/2022/07/01/wirestock-getty/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Weird-Stock-Photography-Haje-Kamps-websize.jpeg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/01/wirestock-getty/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/01/wirestock-getty/amp/",
+      "publishedDateTime": "2022-07-01T08:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-can-machine-learning-help-diagnose-alcohol-associated-hepatitis.md",
+      "title": "Can Machine Learning Help Diagnose Alcohol-associated Hepatitis",
+      "excerpt": "Machine learning algorithms using a few simple variables can help patients with alcohol-associated hepatitis. Acute cholangitis is a potentially life-threatening bacterial infection often associated with gallstones.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
+      "originalUrl": "https://www.medindia.net/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/sunshine-vitamin-liver.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-machine-learning-help-diagnose-alcohol-associated-hepatitis-207790-1.htm",
+      "publishedDateTime": "2022-07-01T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-are-chatbots-conscious-entities-the-ai-sentience-conundrum.md",
+      "title": "Are chatbots conscious entities? The AI sentience conundrum",
+      "excerpt": "AI chatbot company Replika, which offers customers bespoke avatars that talk and listen to them, says it receives a handful of messages almost every day from users who believe the",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/articleshow/92603047.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/articleshow/92603047.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-58036,msid-92603089/chatbot.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/amp_articleshow/92603047.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/are-chatbots-conscious-entities-the-ai-sentience-conundrum/amp_articleshow/92603047.cms",
+      "publishedDateTime": "2022-07-01T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-vladimir-suvorov-artificial-intelligence-will-have-its-place-in-art.md",
+      "title": "Vladimir Suvorov: ‘Artificial Intelligence Will Have its Place in Art.’",
+      "excerpt": "I met Vladimir Suvorov, the founder of Van Der Bot, at the Armenia Art Fair of Contemporary Art, held in the end of May. What he presented was beyond imagination — a contemporary robot artist named Van Der Bot,",
+      "sourceUrl": null,
+      "webUrl": "https://mirrorspectator.com/2022/07/01/vladimir-suvorov-artificial-intelligence-will-have-its-place-in-art/",
+      "originalUrl": "https://mirrorspectator.com/2022/07/01/vladimir-suvorov-artificial-intelligence-will-have-its-place-in-art/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mirrorspectator.com/wp-content/uploads/2022/07/Artsvi-e1656685306566.jpeg",
+          "width": 300,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T07:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Armenian Mirror-Spectator",
+        "domain": "mirrorspectator.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-01-applying-infosecurity-principles-and-practices-to-cognitive-security.md",
+      "title": "Applying Infosecurity Principles and Practices to Cognitive Security",
+      "excerpt": "Information security has the following three layers: cybersecurity, physical security and cognitive security. Cybersecurity, broadly speaking, involves machines and the networks between them. Physical security consists in protecting physical access to ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infosecurity-magazine.com/opinions/applying-infosecurity-cognitive/",
+      "originalUrl": "https://www.infosecurity-magazine.com/opinions/applying-infosecurity-cognitive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-01T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Infosecurity-magazine.com",
+        "domain": "infosecurity-magazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
       ]
     }
   ],

@@ -2,6 +2,326 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-29-build-your-own-remote-control-robot-and-car-for-50-off.md",
+      "title": "Build Your Own Remote Control Robot And Car For 50% Off",
+      "excerpt": "If you’re looking for a fun family project to round out summer vacation, consider picking up this gigantic Robot Building Kit. It’s designed for kids eight and up, although its 901-piece ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gamespot.com/articles/build-your-own-remote-control-robot-and-car-for-50-off/1100-6505936/",
+      "originalUrl": "https://www.gamespot.com/articles/build-your-own-remote-control-robot-and-car-for-50-off/1100-6505936/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gamespot.com/a/uploads/square_medium/1702/17023653/4012653-robot%281%29.jpg",
+          "width": 480,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gamespot.com/amp-articles/build-your-own-remote-control-robot-and-car-for-50-off/1100-6505936/",
+      "cdnAmpWebUrl": "https://www-gamespot-com.cdn.ampproject.org/c/s/www.gamespot.com/amp-articles/build-your-own-remote-control-robot-and-car-for-50-off/1100-6505936/",
+      "publishedDateTime": "2022-07-28T15:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GameSpot",
+        "domain": "gamespot.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-29-nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster.md",
+      "title": "Nvidia Megatron: Not a robot in disguise, but a large language model that’s getting faster",
+      "excerpt": "Nvidia's Megatron has been upgraded to help train LLMs more efficiently by reducing the amount of memory and compute required for training.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/applied-ai/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/",
+      "originalUrl": "https://venturebeat.com/applied-ai/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/10/language-brain-e1659012283418.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/business/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/nvidia-megatron-not-a-robot-in-disguise-but-a-large-language-model-thats-getting-faster/amp/",
+      "publishedDateTime": "2022-07-28T15:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-campers-build-underwater-robots-that-help-fight-pollution-on-singer-island.md",
+      "title": "Campers build underwater robots that help fight pollution on Singer Island",
+      "excerpt": "IT ALSO HELPS THEM LEARN TO WORK AS A TEAM. NOW THESE ROBOTS WILL BE REMOTE CONTROLLED, MANY THAT MARINE SCIENTIST USE CAN HELP STUDY UNDERSEA VOLCANOS AND EVEN INSTALL SENSORS ON THE SEA FLOOR.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wpbf.com/article/florida-singer-island-robot-stem-camp-school-education/40743283",
+      "originalUrl": "https://www.wpbf.com/article/florida-singer-island-robot-stem-camp-school-education/40743283",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/poster-image-2022-07-28t121419-156-1659025030.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 955,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wpbf.com/amp/article/florida-singer-island-robot-stem-camp-school-education/40743283",
+      "cdnAmpWebUrl": "https://www-wpbf-com.cdn.ampproject.org/c/s/www.wpbf.com/amp/article/florida-singer-island-robot-stem-camp-school-education/40743283",
+      "publishedDateTime": "2022-07-28T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPBF",
+        "domain": "wpbf.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-diagnostic-robotics-closes-45m-series-b-funding-round.md",
+      "title": "Diagnostic Robotics closes $45M Series B Funding Round",
+      "excerpt": "Diagnostic Robotics, a leading provider of Artificial Intelligence & Care Management solutions for Healthcare plans and providers, today announced the closing of a $45M Series B funding round led by StageOne investors,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-robotics-artificial-intelligence-186e272d12421e749913aa2819f94c4b",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-robotics-artificial-intelligence-186e272d12421e749913aa2819f94c4b",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T07:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-keenon-robotics-celebrates-brand-day-with-triple-surprise.md",
+      "title": "KEENON Robotics Celebrates Brand Day With Triple Surprise",
+      "excerpt": "KEENON Brand Day is designed to show thankfulness and bring three major upgrades to its consistently supportive clients all over the globe. KEENON knows that it is the trust of customers and competitive core-technology that make a company everlasting.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/keenon-robotics-celebrates-brand-day-with-triple-surprise-1031626323",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/keenon-robotics-celebrates-brand-day-with-triple-surprise-1031626323",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1867128/KEENON_Brand_Day.jpg",
+          "width": 400,
+          "height": 202,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T07:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-artpark-foundation-sets-up-100-mn-venture-fund-to-back-10-15-ai-robotics-startups.md",
+      "title": "ARTPARK Foundation Sets Up $100 Mn Venture Fund To Back 10-15 AI, Robotics Startups",
+      "excerpt": "ARTPARK will invest in 10-15 early and growth-stage AI and robotics startups over a period of three years from the VC fund",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/artpark-foundation-sets-up-100-mn-venture-fund-to-back-10-15-ai-robotics-startups/",
+      "originalUrl": "https://inc42.com/buzz/artpark-foundation-sets-up-100-mn-venture-fund-to-back-10-15-ai-robotics-startups/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2022/07/Social-13.png",
+          "width": 1201,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/artpark-foundation-sets-up-100-mn-venture-fund-to-back-10-15-ai-robotics-startups/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/artpark-foundation-sets-up-100-mn-venture-fund-to-back-10-15-ai-robotics-startups/amp/",
+      "publishedDateTime": "2022-07-28T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-air-force-testing-system-to-stop-active-shooters-with-robots-and-drones.md",
+      "title": "Air Force testing system to stop active shooters with robots and drones",
+      "excerpt": "The U.S. Air Force is testing a system that uses artificial intelligence and drones on its bases aimed at putting a stop to an active shooter.",
+      "sourceUrl": null,
+      "webUrl": "https://nypost.com/2022/07/27/air-force-testing-system-to-stop-active-shooters-with-robots-and-drones/",
+      "originalUrl": "https://nypost.com/2022/07/27/air-force-testing-system-to-stop-active-shooters-with-robots-and-drones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nypost.com/wp-content/uploads/sites/2/2022/07/newspress-collage-23228536-1658958834439.jpg?quality=75&strip=all&1658944488&w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://nypost.com/2022/07/27/air-force-testing-system-to-stop-active-shooters-with-robots-and-drones/amp/",
+      "cdnAmpWebUrl": "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/07/27/air-force-testing-system-to-stop-active-shooters-with-robots-and-drones/amp/",
+      "publishedDateTime": "2022-07-27T15:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Post",
+        "domain": "nypost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-datanomix-flexxbotics-partner-to-automate-production-monitoring-for-universal-robots.md",
       "title": "Datanomix, Flexxbotics Partner to Automate Production Monitoring for Universal Robots",
       "excerpt": "Datanomix, maker of the Automated Production Intelligence software platform, announced support for monitoring Universal Robots for real-time visibility into robot performance. By partnering with Flexxbotics,",
@@ -1041,348 +1361,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-using-artificial-intelligence-to-train-teams-of-robots-to-work-together.md",
-      "title": "Using artificial intelligence to train teams of robots to work together",
-      "excerpt": "When communication lines are open, individual agents such as robots or drones can work together to collaborate and complete a task. But what if they aren't equipped with the right hardware or the signals are blocked,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.html",
-      "originalUrl": "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/using-artificial-intel-7.jpg",
-          "width": 500,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-artificial-intelligence-teams-robots.amp",
-      "publishedDateTime": "2022-07-20T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-look-whats-happening-tomorrow-at-tc-sessions-robotics.md",
-      "title": "Look what’s happening tomorrow at TC Sessions: Robotics",
-      "excerpt": "Who’s ready for robots? Tomorrow, July 21, is the big day when the global community of people who live, breathe and build robots gather to talk about the latest developments in the field and get a look at demos of the newest robotics products and artificial intelligence applications.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/",
-      "originalUrl": "https://techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/TC22_Sessions_Robotics_Wordpress-Post-Header_1-Days-Left-Early-Bird-Countdown_1200x628.png?w=1024",
-          "width": 1024,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/amp/",
-      "publishedDateTime": "2022-07-20T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-this-robotics-professor-performs-hip-hop-robot-poetry-and-writes-black-stem-romance-novels-to-make-stem-more-inclusive.md",
-      "title": "This Robotics Professor Performs Hip-Hop Robot Poetry And Writes Black STEM Romance Novels To Make STEM More Inclusive",
-      "excerpt": "Engineering and robotics professor Dr. Carlotta Berry uses innovative, out of the box strategies for making engineering and robotics concepts more interesting, engaging and inclusive.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danabrownlee/2022/07/20/this-robotics-professor-performs-hip-hop-robot-poetry-and-writes-black-stem-romance-novels-to-make-stem-more-inclusive/",
-      "originalUrl": "https://www.forbes.com/sites/danabrownlee/2022/07/20/this-robotics-professor-performs-hip-hop-robot-poetry-and-writes-black-stem-romance-novels-to-make-stem-more-inclusive/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d7195256c22d20c27896a2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danabrownlee/2022/07/20/this-robotics-professor-performs-hip-hop-robot-poetry-and-writes-black-stem-romance-novels-to-make-stem-more-inclusive/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danabrownlee/2022/07/20/this-robotics-professor-performs-hip-hop-robot-poetry-and-writes-black-stem-romance-novels-to-make-stem-more-inclusive/amp/",
-      "publishedDateTime": "2022-07-20T03:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-elon-musk-probably-downloaded-his-brain-into-a-robot.md",
-      "title": "Elon Musk Probably Downloaded His Brain into a Robot",
-      "excerpt": "Tesla CEO has promised to release a humanoid robot in September and to market it in 2023. Elon Musk is charismatic but also whimsical. Sometimes it's hard to know if Tesla's ( TSLA) - Get Tesla Inc. Report chief executive officer is serious when he makes ostentatious claims and thunderous statements on Twitter,",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestreet.com/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "originalUrl": "https://www.thestreet.com/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thestreet.com/.image/c_fill%2Ccs_srgb%2Cfl_progressive%2Ch_400%2Cq_auto:good%2Cw_620/MTgwMTY5ODU4NzgzODQ3NzY4/people-walk-past-the-new-york-stock-exchange-on-wall-street-the-benchmark-sp-500-index-rose-to-an-all-time-high-on-wednesday-photo-afp.jpg",
-          "width": 620,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thestreet.com/.amp/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/technology/elon-musk-has-probably-downloaded-his-brain-into-a-machine",
-      "publishedDateTime": "2022-07-19T16:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TheStreet.com",
-        "domain": "thestreet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-history-of-artificial-intelligence.md",
-      "title": "History of Artificial Intelligence",
-      "excerpt": "Through generations, the field of artificial intelligence has persevered and become a hugely significant part of modern life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/enterprise-apps/history-of-artificial-intelligence/",
-      "originalUrl": "https://www.eweek.com/enterprise-apps/history-of-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/05/enterprise-AI.jpg",
-          "width": 635,
-          "height": 517,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-19T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Facebook AI",
-        "IBM AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-robots-arent-replacing-employees-theyre-enhancing-them.md",
-      "title": "Robots Aren’t Replacing Employees, They’re Enhancing Them",
-      "excerpt": "Tedious and repetitive tasks are one of the biggest issues contributing to burnout within finance and accounting teams.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/07/19/robots-arent-replacing-employees-theyre-enhancing-them/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/07/19/robots-arent-replacing-employees-theyre-enhancing-them/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62261169ca448e166b4fa271/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/07/19/robots-arent-replacing-employees-theyre-enhancing-them/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/07/19/robots-arent-replacing-employees-theyre-enhancing-them/amp/",
-      "publishedDateTime": "2022-07-19T04:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-robots-need-our-guidance.md",
-      "title": "Robots need our guidance",
-      "excerpt": "a supercomputer called HAL turns rogue and starts taking control of the mission. A computer run amuck because it can think beyond what it has been programmed to do! This is what came to mind when ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/opinion/robots-need-our-guidance/article65654705.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/opinion/robots-need-our-guidance/article65654705.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bl-i.thgim.com/public/incoming/civ3s4/article65654857.ece/alternates/LANDSCAPE_615/2020-09-08T142304Z_242700249_RC2EUI90YU3D_RTRMADP_3_HEALTH-CORONAVIRUS-FRANCE-ROBOT.JPG",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/opinion/robots-need-our-guidance/article65654705.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/opinion/robots-need-our-guidance/article65654705.ece/amp/",
-      "publishedDateTime": "2022-07-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,158 +2,21 @@
   "page": 82,
   "value": [
     {
-      "path": "_news/2022-06-16-why-you-need-an-ai-ethics-committee.md",
-      "title": "Why You Need an AI Ethics Committee",
-      "excerpt": "An AI ethics committee can identify and mitigate the ethical risks of AI products that are developed in-house or procured from third-party vendors. In 2019 a study published in the journal Science ...",
+      "path": "_news/2022-06-17-ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson.md",
+      "title": "AI Weekly: LaMDA’s ‘sentient’ AI triggers memories of IBM Watson",
+      "excerpt": "I learned a bit about how LaMDA triggers memories of IBM Watson. Transform 2022 Join us at the leading event on applied AI for enterprise business and technology decision makers in-person July 19 ...",
       "sourceUrl": null,
-      "webUrl": "https://hbr.org/2022/06/why-you-need-an-ai-ethics-committee",
-      "originalUrl": "https://hbr.org/2022/06/why-you-need-an-ai-ethics-committee",
+      "webUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/",
+      "originalUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T19:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Harvard Business Review",
-        "domain": "hbr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator.md",
-      "title": "Everything to Know About Dall-E Mini, the Bizarre AI Art Creator",
-      "excerpt": "The latest source is Dall-E Mini, an AI tool capturing attention on social media thanks to the weird, funny and occasionally disturbing images it creates out of text prompts. Dall-E Mini lets you type a short phrase describing an image,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/",
-      "originalUrl": "https://www.cnet.com/culture/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
+      "heat": 146,
       "tags": null,
       "images": [
         {
-          "url": "https://www.cnet.com/a/img/resize/9fa7f29c17d7567ce910aa00dd74dcd88ae8faaf/2022/06/14/5b9aa6e4-3e9e-4dc4-81f8-4685f7d0b64f/screen-shot-2022-06-14-at-10-41-06-am-cropped.png?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/",
-      "publishedDateTime": "2022-06-15T18:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-8-reasons-using-ai-will-improve-your-content-creation-process.md",
-      "title": "8 Reasons Using AI Will Improve Your Content Creation Process",
-      "excerpt": "Copywriter tools can give you a ton of material to work with in seconds allowing you to skip over your tedious research and outline development. You can take the best parts of what the AI writes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/426695",
-      "originalUrl": "https://www.entrepreneur.com/article/426695",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1654714755-GettyImages-1308810664.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T18:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-a-roche-treatment-fails-to-slow-cognitive-decline-in-patients-with-inherited-form-of-alzheimers-disease.md",
-      "title": "A Roche treatment fails to slow cognitive decline in patients with inherited form of Alzheimer’s disease",
-      "excerpt": "Roche reported negative results Thursday from a long-running clinical trial investigating an experimental antibody treatment in people born with an inherited form of early onset Alzheimer’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.statnews.com/2022/06/16/a-roche-treatment-fails-to-slow-cognitive-decline-in-patients-with-inherited-form-of-alzheimers-disease/",
-      "originalUrl": "https://www.statnews.com/2022/06/16/a-roche-treatment-fails-to-slow-cognitive-decline-in-patients-with-inherited-form-of-alzheimers-disease/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.statnews.com/wp-content/uploads/2021/12/AP7729632100000111-1024x576.jpg",
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-108024053-e1655405017212.jpg?w=1200&strip=all",
           "width": 1024,
-          "height": 576,
+          "height": 683,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -161,100 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T17:00:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/",
+      "publishedDateTime": "2022-06-16T11:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "STAT",
-        "domain": "statnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-cybersecurity-ethics-artificial-intelligence-imperatives.md",
-      "title": "Cybersecurity Ethics: Artificial Intelligence Imperatives",
-      "excerpt": "Anyone using machine-learning models to support so-called artificial intelligence capabilities must prioritize ethical design to ensure the systems work equally",
-      "sourceUrl": null,
-      "webUrl": "https://www.healthcareinfosecurity.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356",
-      "originalUrl": "https://www.healthcareinfosecurity.com/cybersecurity-ethics-artificial-intelligence-imperatives-a-19356",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://130e178e8f8ba617604b-8aedd782b7d22cfe0d1146da69a52436.ssl.cf1.rackcdn.com/cybersecurity-ethics-artificial-intelligence-imperatives-showcase_image-4-a-19356.jpg",
-          "width": 860,
-          "height": 520,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "healthcareinfosecurity.com",
-        "domain": "healthcareinfosecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-ibms-watson-ai-created-this-trailer-for-the-horror-movie-morgan.md",
-      "title": "IBM's Watson AI created this trailer for the horror movie 'Morgan'",
-      "excerpt": "The biggest stories of the day delivered to your inbox. By signing up to the Mashable newsletter you agree to receive electronic communications from Mashable that may sometimes include ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/morgan-watson-ai-trailer",
-      "originalUrl": "https://mashable.com/video/morgan-watson-ai-trailer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/videos/0077tuwcH9dDDYcy2i4lZUt/hero-image.fill.size_1200x675.v1614265845.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -264,25 +50,26 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
+        "AI",
+        "AI Ethics"
       ]
     },
     {
-      "path": "_news/2022-06-16-robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance.md",
-      "title": "Robot artist Ai-Da paints Glastonbury headliners ahead of festival attendance",
-      "excerpt": "Portraits of the acts headlining this year’s Glastonbury Festival have been painted by an ultra-realistic humanoid robot artist ahead of the event. The paintings, each of which is a colourful ...",
+      "path": "_news/2022-06-17-horizon-robotics-releases-robot-development-platform.md",
+      "title": "Horizon Robotics releases robot development platform",
+      "excerpt": "The Horizon Hobot Platform consists of the company's Sunrise chip, the TogetherROS operating system, Boxs reference algorithm, robot application examples and supporting development tools.",
       "sourceUrl": null,
-      "webUrl": "https://www.kentonline.co.uk/news/national/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-61337/",
-      "originalUrl": "https://www.kentonline.co.uk/news/national/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-61337/",
+      "webUrl": "https://www.therobotreport.com/horizon-robotics-releases-robot-development-platform/",
+      "originalUrl": "https://www.therobotreport.com/horizon-robotics-releases-robot-development-platform/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 84,
       "tags": null,
       "images": [
         {
-          "url": "https://www.kentonline.co.uk/_media/img/A051U1L3QEUC7V2L8Y6K.jpg",
-          "width": 1620,
-          "height": 1080,
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/06/featured-web-horizon-robotics.jpg",
+          "width": 770,
+          "height": 500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -290,13 +77,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.kentonline.co.uk/news/national/amp/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-61337/",
-      "cdnAmpWebUrl": "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-61337/",
-      "publishedDateTime": "2022-06-15T17:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T11:27:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Kent Online",
-        "domain": "kentonline.co.uk",
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -311,26 +98,35 @@
       ]
     },
     {
-      "path": "_news/2022-06-16-soft-robotics-is-about-more-than-building-robots.md",
-      "title": "Soft Robotics is About More than Building Robots",
-      "excerpt": "Some see soft robots helping declining populations of pollinators do their jobs, or sifting through wreckage in the wake of a building collapse, or even performing simple, practical tasks in tight spaces;",
+      "path": "_news/2022-06-17-the-dream-of-edge-ai.md",
+      "title": "The Dream of Edge AI",
+      "excerpt": "While we don’t have that, clearly artificial-intelligence (AI ... And while we might not all have self-driving cars, we’re keenly aware of the developments in that space and the potential ...",
       "sourceUrl": null,
-      "webUrl": "https://cacm.acm.org/news/261959-soft-robotics-is-about-more-than-building-robots",
-      "originalUrl": "https://cacm.acm.org/news/261959-soft-robotics-is-about-more-than-building-robots",
+      "webUrl": "https://www.electronicdesign.com/industrial-automation/article/21244476/analog-devices-the-dream-of-edge-ai",
+      "originalUrl": "https://www.electronicdesign.com/industrial-automation/article/21244476/analog-devices-the-dream-of-edge-ai",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://img.electronicdesign.com/files/base/ebm/electronicdesign/image/2022/06/AI_dreamstime_l_142816613.62ab73d43c26a.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T17:00:00-07:00",
+      "publishedDateTime": "2022-06-16T11:26:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "acm.org",
-        "domain": "acm.org",
+        "name": "Electronic Design",
+        "domain": "electronicdesign.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -340,31 +136,94 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-16-understanding-learning-by-inference-study-shows-how-problems-are-mapped-in-the-brain.md",
-      "title": "Understanding learning by inference: Study shows how problems are mapped in the brain",
-      "excerpt": "New research from the Center for Mind and Brain at the University of California, Davis, shows how our brains achieve this by constructing cognitive ... suggesting that Microsoft shares will ...",
+      "path": "_news/2022-06-17-best-machine-learning-platforms-2022.md",
+      "title": "Best Machine Learning Platforms 2022",
+      "excerpt": "Machine Learning Runtime delivers scalable clusters that include AutoML and other optimization frameworks. The platform also supports collaborative notebooks and a Feature Store that simplifies MLOps.",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-06-inference-problems-brain.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-06-inference-problems-brain.html",
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/machine-learning-solutions/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/machine-learning-solutions/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-BMC_ZSO_Image4.jpeg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T10:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-17-fragmented-sleep-wakefulness-after-bedtime-linked-with-lower-cognitive-function-among-african-americans.md",
+      "title": "Fragmented sleep, wakefulness after bedtime linked with lower cognitive function among African Americans",
+      "excerpt": "More fragmented sleep and longer periods of wakefulness after bedtime among a group of low-income African American adults were associated with lower cognitive function such as poor attention ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220616/Fragmented-sleep-wakefulness-after-bedtime-linked-with-lower-cognitive-function-among-African-Americans.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220616/Fragmented-sleep-wakefulness-after-bedtime-linked-with-lower-cognitive-function-among-African-Americans.aspx",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2017/3/Good_nights_sleep_-_Goodluz_5edf6811462b4d0280b9b9189683dde9-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-06-inference-problems-brain.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-inference-problems-brain.amp",
-      "publishedDateTime": "2022-06-15T17:00:00-07:00",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220616/Fragmented-sleep-wakefulness-after-bedtime-linked-with-lower-cognitive-function-among-African-Americans.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220616/Fragmented-sleep-wakefulness-after-bedtime-linked-with-lower-cognitive-function-among-African-Americans.aspx",
+      "publishedDateTime": "2022-06-16T10:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "News Medical",
+        "domain": "news-medical.net",
         "images": null,
         "publishers": null,
         "authors": null
@@ -379,87 +238,26 @@
       ]
     },
     {
-      "path": "_news/2022-06-15-how-mantium-achieves-low-latency-gpt-j-inference-with-deepspeed-on-amazon-sagemaker.md",
-      "title": "How Mantium achieves low-latency GPT-J inference with DeepSpeed on Amazon SageMaker",
-      "excerpt": "Mantium is a global cloud platform provider for building AI applications and managing them at scale. Mantium’s end-to-end development platform enables enterprises and businesses of all sizes to build AI applications and automation faster and easier than what has been traditionally possible. With Mantium,",
+      "path": "_news/2022-06-16-china-automotive-voice-industry-report-2022-from-ivi-software-to-adas-voice-enabled-functions-continue-to-evolve-with-iflytek-and-cerence-leading.md",
+      "title": "China Automotive Voice Industry Report 2022: From IVI Software to ADAS, Voice-enabled Functions Continue to Evolve with iFLYTEK and Cerence Leading",
+      "excerpt": "The \"China Automotive Voice Industry Report, 2021-2022\" report has been added to ResearchAndMarkets.com's offering. Automotive voice market: The boom of self-research by OEMs will promote reform in the supply mode.",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-mantium-achieves-low-latency-gpt-j-inference-with-deepspeed-on-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-mantium-achieves-low-latency-gpt-j-inference-with-deepspeed-on-amazon-sagemaker/",
+      "webUrl": "https://www.tmcnet.com/usubmit/-china-automotive-voice-industry-report-2022-from-ivi-/2022/06/16/9623502.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-china-automotive-voice-industry-report-2022-from-ivi-/2022/06/16/9623502.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 83,
+      "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/15/low-latency-mantium.jpg",
-          "width": 1247,
-          "height": 623,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T16:08:28-07:00",
+      "publishedDateTime": "2022-06-16T09:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-artificial-intelligence-for-ai-to-work-data-use-must-be-right.md",
-      "title": "Artificial Intelligence: For AI to work, data use must be right",
-      "excerpt": "IT professionals in the financial services, media, energy, automotive, oil, and aerospace industries are most likely to report active deployment of AI by their company, while organisations in industries like retail, travel, healthcare and government ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-for-ai-to-work-data-use-must-be-right/2562056/",
-      "originalUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-for-ai-to-work-data-use-must-be-right/2562056/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/06/1-415.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/technology/artificial-intelligence-for-ai-to-work-data-use-must-be-right/2562056/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/technology/artificial-intelligence-for-ai-to-work-data-use-must-be-right/2562056/lite/",
-      "publishedDateTime": "2022-06-15T14:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -469,27 +267,26 @@
         "news"
       ],
       "topics": [
-        "AI in Healthcare",
-        "AI",
-        "IBM AI"
+        "AI in Autos",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-06-15-prepare-data-faster-with-pyspark-and-altair-code-snippets-in-amazon-sagemaker-data-wrangler.md",
-      "title": "Prepare data faster with PySpark and Altair code snippets in Amazon SageMaker Data Wrangler",
-      "excerpt": "Amazon SageMaker Data Wrangler is a purpose-built data aggregation and preparation tool for machine learning (ML). It allows you to use a visual interface to access data and perform exploratory data analysis (EDA) and feature engineering. The EDA feature comes with built-in data analysis capabilities",
+      "path": "_news/2022-06-16-there-will-never-be-a-self-driving-ferrari-ceo-vigna-says.md",
+      "title": "There Will Never Be a Self-Driving Ferrari, CEO Vigna Says",
+      "excerpt": "Manufacturers from Tesla Inc. to Volkswagen AG are pursuing self-driving cars. Ferrari NV is having none of it. The Italian company recently hosted a couple of artificial intelligence experts who ...",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-data-faster-with-pyspark-and-altair-code-snippets-in-amazon-sagemaker-data-wrangler/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/prepare-data-faster-with-pyspark-and-altair-code-snippets-in-amazon-sagemaker-data-wrangler/",
+      "webUrl": "https://www.bloomberg.com/news/articles/2022-06-16/there-will-never-be-a-self-driving-ferrari-ceo-vigna-says",
+      "originalUrl": "https://www.bloomberg.com/news/articles/2022-06-16/there-will-never-be-a-self-driving-ferrari-ceo-vigna-says",
       "featuredContent": null,
       "highlight": null,
-      "heat": 114,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/15/prepare-data-faster.jpg",
-          "width": 1246,
-          "height": 622,
+          "url": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/ieUjsdeGvBG0/v0/1200x800.jpg",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -499,14 +296,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T14:27:42-07:00",
+      "publishedDateTime": "2022-06-16T09:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -522,26 +319,26 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
+        "AI in Autos",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-06-16-report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best.md",
-      "title": "Report: AWS, Azure and GCP evaluated for overall performance — which is best?",
-      "excerpt": "Join AI and data leaders for insightful talks and ... The report evaluates the performance of AWS, Azure and GCP for common Online Transaction Processing (OLTP) workloads. Testing shows that ...",
+      "path": "_news/2022-06-16-why-artificial-intelligence-remains-a-distant-dream.md",
+      "title": "Why Artificial Intelligence remains a distant dream?",
+      "excerpt": "Many AI initiatives to emulate the human brain -- from driving a car to writing text -- have failed in the ever changing real world",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/15/report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best/",
-      "originalUrl": "https://venturebeat.com/2022/06/15/report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best/",
+      "webUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/",
+      "originalUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 76,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1154983903-e1652785911789.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 601,
+          "url": "https://www.americanbazaaronline.com/wp-content/uploads/2021/01/Communication.jpg",
+          "width": 1100,
+          "height": 692,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -549,23 +346,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/15/report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/15/report-aws-azure-and-gcp-evaluated-for-overall-performance-which-is-best/amp/",
-      "publishedDateTime": "2022-06-15T14:20:00-07:00",
+      "ampWebUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/?amp",
+      "cdnAmpWebUrl": "https://www-americanbazaaronline-com.cdn.ampproject.org/c/s/www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/?amp",
+      "publishedDateTime": "2022-06-16T09:14:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "americanbazaaronline.com",
+        "domain": "americanbazaaronline.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -574,25 +362,25 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Facebook AI",
         "AI",
-        "AWS AI"
+        "AI in Autos"
       ]
     },
     {
-      "path": "_news/2022-06-16-voicemod-is-using-real-time-ai-for-voice-conversion-and-its-kind-of-wild.md",
-      "title": "Voicemod is using real-time AI for voice conversion, and it’s kind of wild",
-      "excerpt": "Voicemod is releasing its proprietary, world-first voice conversion product powered by artificial intelligence. This technology is powering a whole collection of voices within the Voicemod voice changer software.",
+      "path": "_news/2022-06-16-110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage.md",
+      "title": "$110 Million In New Funding For AI Helping Hospitals Address Acute Labor Shortage",
+      "excerpt": "The Aidoc AI platform delivers to physicians in over 1,000 healthcare organizations actionable insights derived from imaging data and electronic medical records.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/15/voicemod-is-using-real-time-ai-to-power-voice-conversion/",
-      "originalUrl": "https://venturebeat.com/2022/06/15/voicemod-is-using-real-time-ai-to-power-voice-conversion/",
+      "webUrl": "https://www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage/",
+      "originalUrl": "https://www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 102,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/voicemod.jpg?w=1200&strip=all",
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62ab4ceac506a1afd8f2b684/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -602,166 +390,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/15/voicemod-is-using-real-time-ai-to-power-voice-conversion/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/15/voicemod-is-using-real-time-ai-to-power-voice-conversion/amp/",
-      "publishedDateTime": "2022-06-15T14:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-customize-pronunciations-using-amazon-polly.md",
-      "title": "Customize pronunciations using Amazon Polly",
-      "excerpt": "Amazon Polly breathes life into text by converting it into lifelike speech. This empowers developers and businesses to create applications that can converse in real time, thereby offering an enhanced interactive experience. Text-to-speech (TTS) in Amazon Polly supports a variety of languages and locales,",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/customize-pronunciations-using-amazon-polly/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/customize-pronunciations-using-amazon-polly/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/15/customizing-pronounciation.jpg",
-          "width": 1248,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T13:42:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-demystifying-machine-learning-at-the-edge-through-real-use-cases.md",
-      "title": "Demystifying machine learning at the edge through real use cases",
-      "excerpt": "Edge is a term that refers to a location, far from the cloud or a big data center, where you have a computer device (edge device) capable of running (edge) applications. Edge computing is the act of running workloads on these edge devices. Machine learning at the edge (ML@Edge) is a concept that brings",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/demystifying-machine-learning-at-the-edge-through-real-use-cases/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/demystifying-machine-learning-at-the-edge-through-real-use-cases/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/15/demystifying-edge.jpg",
-          "width": 1241,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T13:37:44-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-procter-gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing.md",
-      "title": "Procter & Gamble Partners With Microsoft To Transform And Accelerate Digital Manufacturing",
-      "excerpt": "Cielica continued, “P&G and Microsoft both share a passion for data and AI and are working together to find innovative ways to apply those capabilities to transform the work we do together. This new collaboration uses Microsoft Azure data and AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tonybradley/2022/06/15/procter--gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing/",
-      "originalUrl": "https://www.forbes.com/sites/tonybradley/2022/06/15/procter--gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62aa368a0331ac091509c8a9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tonybradley/2022/06/15/procter--gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tonybradley/2022/06/15/procter--gamble-partners-with-microsoft-to-transform-and-accelerate-digital-manufacturing/amp/",
-      "publishedDateTime": "2022-06-15T12:46:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/gilpress/2022/06/16/110-million-in-new-funding-for-ai-helping-hospitals-address-acute-labor-shortage/amp/",
+      "publishedDateTime": "2022-06-16T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -784,26 +415,25 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-16-hundreds-of-crashes-linked-to-autonomous-vehicles-and-self-driving-technology-new-report-shows.md",
-      "title": "Hundreds of crashes linked to autonomous vehicles and self-driving technology, new report shows",
-      "excerpt": "A new report shows that nearly 400 crashes in the United States involved cars that used some form of driver-assistance technology.",
+      "path": "_news/2022-06-16-ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families.md",
+      "title": "Ukraine is using controversial facial recognition tech to identify the dead and reunite families",
+      "excerpt": "To build a case for war crimes, the country has been using software by Clearview AI, a firm fined in the UK for collecting images of social media users.",
       "sourceUrl": null,
-      "webUrl": "https://www.fox23.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/",
-      "originalUrl": "https://www.fox23.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/",
+      "webUrl": "https://scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
+      "originalUrl": "https://scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 101,
       "tags": null,
       "images": [
         {
-          "url": "https://cmg-cmg-tv-10100-prod.cdn.arcpublishing.com/resizer/fybcXK6vaZtyfshG7CiqG9GXVpU=/1440x810/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/cmg/3JYGPSKCSBH67IK3ANWFKSHFDA.jpg",
-          "width": 1440,
-          "height": 810,
+          "url": "https://s01.sgp1.cdn.digitaloceanspaces.com/book/175818-upjeejhxrg-1655298615.jpg",
+          "width": 600,
+          "height": 315,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -811,13 +441,237 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.fox23.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-fox23-com.cdn.ampproject.org/c/s/www.fox23.com/news/trending/hundreds-crashes-linked-autonomous-vehicles-self-driving-technology-new-report-shows/6RTS7LR4PFDC3DG67447B4H3PE/?outputType=amp",
-      "publishedDateTime": "2022-06-15T11:22:00-07:00",
+      "ampWebUrl": "https://amp.scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
+      "cdnAmpWebUrl": "https://amp-scroll-in.cdn.ampproject.org/c/s/amp.scroll.in/article/1026244/ukraine-is-using-controversial-facial-recognition-tech-to-identify-the-dead-and-reunite-families",
+      "publishedDateTime": "2022-06-16T09:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox 23",
-        "domain": "fox23.com",
+        "name": "Scroll",
+        "domain": "scroll.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-nuvei-launches-groundbreaking-machine-learning-solution-to-boost-risk-management.md",
+      "title": "Nuvei Launches Groundbreaking Machine Learning Solution to Boost Risk Management",
+      "excerpt": "Nuvei Corporation (“Nuvei” or the “Company”) (Nasdaq: NVEI) (TSX: NVEI), tomorrow’s payment platform, announces today the launch of a new risk management model underpinned by cutting-edge machine learning technology for its Instant Bank Transfer product in North America.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-847c6bb9f6b92d2d071375514df4a494",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-847c6bb9f6b92d2d071375514df4a494",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T07:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-ableai-exits-stealth-with-20m-to-help-big-lenders-speed-up-making-high-value-loans.md",
+      "title": "Able.ai exits stealth with $20M to help big lenders speed up making high-value loans",
+      "excerpt": "In the latest development, a startup called Able has built an engine ... computer vision and other forms of AI to ingest and process data related to loans as part of their evaluation process.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/16/able-ai-exits-stealth-with-20m-to-help-big-lenders-speed-up-making-high-value-loans/",
+      "originalUrl": "https://techcrunch.com/2022/06/16/able-ai-exits-stealth-with-20m-to-help-big-lenders-speed-up-making-high-value-loans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2020/01/GettyImages-951640954.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/16/able-ai-exits-stealth-with-20m-to-help-big-lenders-speed-up-making-high-value-loans/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/16/able-ai-exits-stealth-with-20m-to-help-big-lenders-speed-up-making-high-value-loans/amp/",
+      "publishedDateTime": "2022-06-16T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-ancient-tea-technique-finds-new-popular-recognition.md",
+      "title": "Ancient tea technique finds new popular recognition",
+      "excerpt": "The process of making chabaixi, a unique technique that creates a pattern on the surface of tea soup via water injection and agitation in Song Dynasty (960-1279), later becaming a",
+      "sourceUrl": null,
+      "webUrl": "https://www.globaltimes.cn/page/202206/1268327.shtml",
+      "originalUrl": "https://www.globaltimes.cn/page/202206/1268327.shtml",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globaltimes.cn/Portals/0/attachment/2022/2022-06-16/15eb179f-f0a5-4add-83e7-bf1195b17dec.jpeg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T06:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Global Times",
+        "domain": "globaltimes.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-wipro-eros-investments-partner-to-scale-ai-based-solutions-to-global-media-industry.md",
+      "title": "Wipro-Eros Investments partner to scale AI-based solutions to global media industry",
+      "excerpt": "The solution will automate the manual content localization process of subtitling and dubbing with near human-level accuracy, driving significant cost and time savings for global media organizations and over-the-top (OTT) streaming platforms,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/information-tech/wipro-eros-investments-partner-to-scale-ai-based-solutions-to-global-media-industry/articleshow/92257817.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/information-tech/wipro-eros-investments-partner-to-scale-ai-based-solutions-to-global-media-industry/articleshow/92257817.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-267230,msid-92258202/eros-partners-with-wipro-to-develop-a-speech-to-text-models-solution-for-the-global-media-and-entertainment-industry.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/information-tech/wipro-eros-investments-partner-to-scale-ai-based-solutions-to-global-media-industry/amp_articleshow/92257817.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/wipro-eros-investments-partner-to-scale-ai-based-solutions-to-global-media-industry/amp_articleshow/92257817.cms",
+      "publishedDateTime": "2022-06-16T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-baidu-again-reported-to-be-considering-selling-iqiyi-stake.md",
+      "title": "Baidu again reported to be considering selling iQiyi stake",
+      "excerpt": "Every Wednesday and Friday, TechNode’s Briefing newsletter delivers a roundup of the most important news in China tech, straight to your inbox.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
+      "originalUrl": "https://technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
+          "width": 540,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
+      "publishedDateTime": "2022-06-16T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -832,21 +686,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-16-why-cognitive-shortfalls-are-fodder-for-humorous-gibes.md",
-      "title": "Why Cognitive Shortfalls Are Fodder for Humorous Gibes",
-      "excerpt": "The next category would include those that factor in the creation of cognitive humor. Just as physical and emotional shortcomings can be co-opted to inspire laughter intentionally, so can ...",
+      "path": "_news/2022-06-16-yseops-ai-natural-language-platform-scaled-by-sanofi-to-accelerate-medical-writing-and-reporting-processes.md",
+      "title": "Yseop’s AI Natural Language Platform Scaled by Sanofi to Accelerate Medical Writing and Reporting Processes",
+      "excerpt": "NEW YORK, June 16, 2022 (GLOBE NEWSWIRE) -- Yseop, the world-leading AI software company and pioneer in Natural Language Processing (NLP), today announced that Sanofi, the global healthcare ...",
       "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/laughter-and-humor-101/202206/why-cognitive-shortfalls-are-fodder-humorous-gibes",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/laughter-and-humor-101/202206/why-cognitive-shortfalls-are-fodder-humorous-gibes",
+      "webUrl": "https://www.kron4.com/business/press-releases/globenewswire/8573085/yseops-ai-natural-language-platform-scaled-by-sanofi-to-accelerate-medical-writing-and-reporting-processes/",
+      "originalUrl": "https://www.kron4.com/business/press-releases/globenewswire/8573085/yseops-ai-natural-language-platform-scaled-by-sanofi-to-accelerate-medical-writing-and-reporting-processes/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/pexels-george-becker-374918_crop.jpg?itok=qDTdkUyK",
-          "width": 1528,
-          "height": 800,
+          "url": "https://www.kron4.com/wp-content/uploads/sites/11/2019/06/KRON4_Transparent-Equal-Height.png",
+          "width": 598,
+          "height": 208,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -854,13 +708,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/laughter-and-humor-101/202206/why-cognitive-shortfalls-are-fodder-humorous-gibes?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/laughter-and-humor-101/202206/why-cognitive-shortfalls-are-fodder-humorous-gibes?amp",
-      "publishedDateTime": "2022-06-15T11:16:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T06:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
+        "name": "KRON4",
+        "domain": "kron4.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -870,26 +724,26 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "Natural Language Processing",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-16-insect-inspired-ai-for-autonomous-robots.md",
-      "title": "Insect-inspired AI for autonomous robots",
-      "excerpt": "Small autonomous mobile robots, such as drones, rovers, and legged robots, promise to perform a wide range of tasks, from autonomously monitoring crops in greenhouses to last-kilometer delivery. These applications require robots to operate for extended periods while performing complex tasks,",
+      "path": "_news/2022-06-16-microsoft-viva-sales-aims-to-take-the-busy-work-out-of-crm.md",
+      "title": "Microsoft Viva Sales aims to take the busy work out of CRM",
+      "excerpt": "The 'Sales' version will work with all other CRM services, such as Salesforce or Freshworks, Microsoft has confirmed. Viva Sales will take customer engagement data from Microsoft 365 and Microsoft ...",
       "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.html",
-      "originalUrl": "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.html",
+      "webUrl": "https://www.itpro.co.uk/marketing-comms/customer-relationship-management-crm/368306/microsoft-launches-viva-sales",
+      "originalUrl": "https://www.itpro.co.uk/marketing-comms/customer-relationship-management-crm/368306/microsoft-launches-viva-sales",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 146,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/insect-inspired-ai-for-1.jpg",
-          "width": 640,
-          "height": 427,
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1655377468/itpro/Microsoft_Viva_Sales.png",
+          "width": 1260,
+          "height": 710,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -897,13 +751,186 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-insect-inspired-ai-autonomous-robots.amp",
-      "publishedDateTime": "2022-06-15T11:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T06:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-aidoc-raises-110m-to-address-the-increasing-challenges-facing-health-systems-by-using-artificial-intelligence.md",
+      "title": "Aidoc raises $110M to Address the Increasing Challenges Facing Health Systems by Using Artificial Intelligence",
+      "excerpt": "Healthcare leaders face an increasingly tough economic environment and it's going to require that we use technology like artificial intelligence to re-think ways to do business\" says David Shulkin ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wpri.com/business/press-releases/cision/20220616LN91345/aidoc-raises-110m-to-address-the-increasing-challenges-facing-health-systems-by-using-artificial-intelligence/",
+      "originalUrl": "https://www.wpri.com/business/press-releases/cision/20220616LN91345/aidoc-raises-110m-to-address-the-increasing-challenges-facing-health-systems-by-using-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPRI 12",
+        "domain": "wpri.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-toyota-financial-services-recognizes-conduent-with-supplier-excellence-award-for-the-second.md",
+      "title": "Toyota Financial Services Recognizes Conduent with Supplier Excellence Award for the Second ...",
+      "excerpt": "Toyota Financial Services named Conduent Incorporated (Nasdaq: CNDT), a business process services and solutions company, a 2022 Toyota Supplier of the",
+      "sourceUrl": null,
+      "webUrl": "https://www.bakersfield.com/ap/news/toyota-financial-services-recognizes-conduent-with-supplier-excellence-award-for-the-second/article_96d4ba86-48d6-5557-93ec-51bb698ae028.html",
+      "originalUrl": "https://www.bakersfield.com/ap/news/toyota-financial-services-recognizes-conduent-with-supplier-excellence-award-for-the-second/article_96d4ba86-48d6-5557-93ec-51bb698ae028.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bakersfield Californian",
+        "domain": "bakersfield.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-driverless-car-market-size-report-2022-analysis-report-by-industry-segmentation-region-manufactures-cost-structure.md",
+      "title": "Driverless Car Market Size Report 2022 Analysis Report by Industry Segmentation, Region, Manufactures, Cost Structure",
+      "excerpt": "Jun 16, 2022 (The Expresswire) -- Driverless Car Market report gives inside and out investigation of the Driverless Car market, market size and total yearly development rate CAGR for the figure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/driverless-car-market-size-report-2022-analysis-report-by-industry-segmentation-region-manufactures-cost-structure-2022-06-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/driverless-car-market-size-report-2022-analysis-report-by-industry-segmentation-region-manufactures-cost-structure-2022-06-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T05:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-robot-sales-in-north-america-see-their-best-q1-ever.md",
+      "title": "Robot Sales in North America See Their Best Q1 Ever",
+      "excerpt": "R ising consumer prices amid rampant global inflation apparently didn't stop spending on robotics in North America. Sales were up 28% compared to the same quarter a year ago. Addi",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/robot-sales-in-north-america-see-their-best-q1-ever",
+      "originalUrl": "https://www.nasdaq.com/articles/robot-sales-in-north-america-see-their-best-q1-ever",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/robot-sales-in-north-america-see-their-best-q1-ever?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robot-sales-in-north-america-see-their-best-q1-ever?amp",
+      "publishedDateTime": "2022-06-16T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -914,25 +941,26 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
+        "AI",
+        "AI in Sales"
       ]
     },
     {
-      "path": "_news/2022-06-15-intel-arc-alchemist-a380-is-finally-here-to-rival-amds-entry-level-gpu.md",
-      "title": "Intel Arc Alchemist A380 is finally here to rival AMD’s entry-level GPU",
-      "excerpt": "The entry-level GPU is positioned to be the rival to AMD’s Radeon RX 6400. The bad news is that you likely won’t be able to get your hands on Intel’s first graphics card for a while yet.",
+      "path": "_news/2022-06-16-ai-weekly-lamdas-sentient-ai-debate-triggers-memories-of-ibm-watson.md",
+      "title": "AI Weekly: LaMDA’s ‘sentient’ AI debate triggers memories of IBM Watson",
+      "excerpt": "I learned a bit about how LaMDA triggers memories of IBM Watson. Transform 2022 Join us at the leading event on applied AI for enterprise business and technology decision makers in-person July 19 ...",
       "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/",
-      "originalUrl": "https://www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/",
+      "webUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/",
+      "originalUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 156,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/06/INTEL-ARC-A380-3.jpg?p=1",
-          "width": 1858,
-          "height": 979,
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-108024053-e1655405017212.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 683,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -940,16 +968,69 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/intel-announces-arc-alchemist-a380-desktop-gpu/?amp",
-      "publishedDateTime": "2022-06-15T09:46:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-weekly-lamdas-sentient-ai-triggers-memories-of-ibm-watson/amp/",
+      "publishedDateTime": "2022-06-16T04:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-edge-artificial-intelligence-ai-chip-market-size-share-to-expand-at-151-cagr-through-2028.md",
+      "title": "Edge Artificial Intelligence (AI) Chip Market Size, Share to Expand At 15.1% CAGR Through 2028",
+      "excerpt": "Jun 16, 2022 (Market Insight Reports) -- The Edge Artificial Intelligence (AI) Chip market size study provides a detailed analysis to identify important growth drivers, challenges, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-size-share-to-expand-at-151-cagr-through-2028-2022-06-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-size-share-to-expand-at-151-cagr-through-2028-2022-06-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -970,89 +1051,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-15-baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources.md",
-      "title": "Baidu in talks to sell majority stake in iQIYI, China's answer to Netflix -sources",
-      "excerpt": "The divestment plan, not previously disclosed by Baidu, comes after the firm deemed iQIYI to be a non-core asset, and as it seeks to sharpen its focus on developing its capital-intensive artificial intelligence and autonomous driving units, said the first ...",
+      "path": "_news/2022-06-16-the-1-way-ai-is-transforming-grocery-shopping.md",
+      "title": "The #1 way AI is transforming grocery shopping",
+      "excerpt": "\"It's pretty overwhelming to get your food right each week,\" says Alex Weinstein, Chief Digital Officer of Hungryroot an AI grocery company. \"Customers tell us all the time - it takes many hours each week to plan, shop for, and finally cook meals for their ...",
       "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/business-pmn/baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources",
-      "originalUrl": "https://financialpost.com/pmn/business-pmn/baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources",
+      "webUrl": "https://www.zdnet.com/article/1-way-ai-is-transforming-grocery-shopping/",
+      "originalUrl": "https://www.zdnet.com/article/1-way-ai-is-transforming-grocery-shopping/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://financialpost.com/pmn/business-pmn/baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources/wcm/90d97914-f16b-4e1e-8cd1-03dbba5d6782/amp/",
-      "cdnAmpWebUrl": "https://financialpost-com.cdn.ampproject.org/c/s/financialpost.com/pmn/business-pmn/baidu-in-talks-to-sell-majority-stake-in-iqiyi-chinas-answer-to-netflix-sources/wcm/90d97914-f16b-4e1e-8cd1-03dbba5d6782/amp/",
-      "publishedDateTime": "2022-06-15T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-ai-speeds-up-molecular-fingerprint-analysis.md",
-      "title": "AI Speeds Up Molecular \"Fingerprint\" Analysis",
-      "excerpt": "With her team she has now investigated how the computing time can be shortened by using methods from artificial intelligence. The idea: a computer programme from the group of \"graphical neural networks\" or GNN receives small molecules as input with the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.technologynetworks.com/analysis/news/ai-speeds-up-molecular-fingerprint-analysis-362647",
-      "originalUrl": "https://www.technologynetworks.com/analysis/news/ai-speeds-up-molecular-fingerprint-analysis-362647",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T09:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "technologynetworks",
-        "domain": "technologynetworks.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-boca-raton-fla-police-to-join-facial-recognition-program.md",
-      "title": "Boca Raton, Fla., Police to Join Facial Recognition Program",
-      "excerpt": "The city of Boca Raton is letting its police force participate in a statewide facial recognition program, joining hundreds of communities in Florida employing the controversial crime-fighting technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program",
-      "originalUrl": "https://www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
+      "heat": 97,
       "tags": null,
       "images": [
         {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/49e944a/2147483647/strip/true/crop/940x490+0+82/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F29%2F48%2Fbaa77fdd2c0d5e2e1b638358070a%2Fshutterstock-797603911.jpg",
-          "width": 840,
-          "height": 438,
+          "url": "https://www.zdnet.com/a/img/resize/5de1e47772871d2cdede7663cb5514cc764a5e8a/2022/06/08/adfb4415-c4ca-4702-9690-fe2133e65f9d/hungryroot.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1060,60 +1073,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/public-safety/boca-raton-fla-police-to-join-facial-recognition-program?_amp=true",
-      "publishedDateTime": "2022-06-15T09:24:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/1-way-ai-is-transforming-grocery-shopping/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/1-way-ai-is-transforming-grocery-shopping/",
+      "publishedDateTime": "2022-06-16T04:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-the-hands-off-tech-era-is-over.md",
-      "title": "The Hands-Off Tech Era Is Over",
-      "excerpt": "More government intervention will slow tech down. Is that good or bad? Send any friend a story As a subscriber, you have 10 gift articles to give each month. Anyone can read what you share. By Shira Ovide It’s clear more than ever that governments will no longer leave technology alone.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/06/15/technology/government-intervention-tech.html",
-      "originalUrl": "https://www.nytimes.com/2022/06/15/technology/government-intervention-tech.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/06/15/business/15OnTech-laissezfaire-NL/15OnTech-laissezfaire-NL-facebookJumbo.png",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/06/15/technology/government-intervention-tech.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/06/15/technology/government-intervention-tech.amp.html",
-      "publishedDateTime": "2022-06-15T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1121,6 +1090,48 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-baidu-tipped-to-roll-credits-on-iqiyi-stake.md",
+      "title": "Baidu tipped to roll credits on iQIYI stake",
+      "excerpt": "Chinese internet giant Baidu reportedly entered talks on selling a majority stake in iQIYI, a deal which could value the video streaming platform at about $7 billion and help fund the company’s development of emerging technologies. Reuters reported Baidu ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake",
+      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2022/06/iQIYI_SS_generic.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake/amp",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake/amp",
+      "publishedDateTime": "2022-06-16T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

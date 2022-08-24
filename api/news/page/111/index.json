@@ -2,236 +2,21 @@
   "page": 111,
   "value": [
     {
-      "path": "_news/2022-05-27-these-earthworm-inspired-robots-may-one-day-crawl-through-aircraft-engines.md",
-      "title": "These earthworm-inspired robots may one day crawl through aircraft engines",
-      "excerpt": "Researchers developed a robot that uses electrical charges to power \"muscles\" that cause the devices to move through a small pipe, like an earthworm.",
+      "path": "_news/2022-05-27-ai-in-fintech-market-size-industry-trends-share-analysis-growth-and-forecast-2030.md",
+      "title": "AI in Fintech Market Size Industry Trends Share Analysis Growth and Forecast 2030",
+      "excerpt": "This section includes regional segmentation that accentuates the recent and future demand for AI in Fintech market across North America, Europe, Asia-Pacific, Middle East & Africa, and South America.",
       "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/earthworm-robots-aircraft-engines",
-      "originalUrl": "https://interestingengineering.com/earthworm-robots-aircraft-engines",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/qrwB17P365/sizes/screen-shot-2022-05-26-at-114723-am_resize_md.png",
-          "width": 744,
-          "height": 446,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/earthworm-robots-aircraft-engines",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/earthworm-robots-aircraft-engines",
-      "publishedDateTime": "2022-05-26T14:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models.md",
-      "title": "Allen Institute launches new benchmark for general-purpose computer vision models",
-      "excerpt": "The Allen Institute for AI, also known as AI2, recently worked jointly with the University of Illinois at Urbana-Champaign to develop a new, unifying benchmark called GRIT (General Robust Image Task) for general purpose computer vision models.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/26/allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models/",
-      "originalUrl": "https://venturebeat.com/2022/05/26/allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1209778574.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/26/allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/allen-institute-launches-new-benchmark-for-general-purpose-computer-vision-models/amp/",
-      "publishedDateTime": "2022-05-26T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-emersons-zedi-cloud-moves-to-microsoft-azure.md",
-      "title": "Emerson’s Zedi Cloud Moves to Microsoft Azure",
-      "excerpt": "By synchronizing this data, cloud platforms can enable end-to-end planning and visibility that would be difficult or impossible if local, on-premises servers were used instead. Moreover, the cloud is increasingly seen as a key factor in helping companies meet sustainability goals.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automationworld.com/analytics/article/22249489/emersons-zedi-cloud-microsoft-azure",
-      "originalUrl": "https://www.automationworld.com/analytics/article/22249489/emersons-zedi-cloud-microsoft-azure",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T13:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation World",
-        "domain": "automationworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-how-to-use-windows-speech-to-text-for-hands-free-typing.md",
-      "title": "How to Use Windows Speech-to-Text for Hands-Free Typing",
-      "excerpt": "Both versions of speech-to-text use online speech recognition to convert your spoken words into text, so you’ll need an internet connection for the technology to work. Speech-to-text is built ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techlicious.com/tip/how-to-use-windows-speech-to-text/",
-      "originalUrl": "https://www.techlicious.com/tip/how-to-use-windows-speech-to-text/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T12:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Techlicious",
-        "domain": "techlicious.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-a-face-search-engine-anyone-can-use-is-alarmingly-accurate.md",
-      "title": "A Face Search Engine Anyone Can Use Is Alarmingly Accurate",
-      "excerpt": "Unlike Clearview AI, a similar facial recognition tool available only to law enforcement, PimEyes does not include results from social media sites. The sometimes surprising images that PimEyes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/05/26/technology/pimeyes-facial-recognition-search.html",
-      "originalUrl": "https://www.nytimes.com/2022/05/26/technology/pimeyes-facial-recognition-search.html",
+      "webUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-size-industry-trends-share-analysis-growth-and-forecast-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-fintech-market-size-industry-trends-share-analysis-growth-and-forecast-2030",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static01.nyt.com/images/2022/05/29/business/00PimEyes-Kashmir-Hill/00PimEyes-Kashmir-Hill-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/05/26/technology/pimeyes-facial-recognition-search.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/26/technology/pimeyes-facial-recognition-search.amp.html",
-      "publishedDateTime": "2022-05-26T11:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-california-dmv-suspends-another-ponyai-test-permit.md",
-      "title": "California DMV suspends another Pony.ai test permit",
-      "excerpt": "Pony.ai had its permit to test its autonomous vehicle technology with a driver revoked due to the DMV's concerns about its safety drivers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/california-dmv-suspends-another-pony-ai-test-permit/",
-      "originalUrl": "https://www.therobotreport.com/california-dmv-suspends-another-pony-ai-test-permit/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/featured-web-ponyai.jpg",
-          "width": 770,
-          "height": 500,
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Trump-Capitol-Riots-Washington-AFP-1K-01-600x337.jpg",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -241,259 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T11:25:00-07:00",
+      "publishedDateTime": "2022-05-27T06:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-microsoft-build-conference-heralds-era-of-ai-assisted-software-development.md",
-      "title": "Microsoft Build Conference Heralds Era of AI-Assisted Software Development",
-      "excerpt": "Years from now, looking back, the 2022 Microsoft Build developer conference might be seen as the dawn of a new era of AI-assisted development. \"AI and coding have become deeply entwined, and at Build,",
-      "sourceUrl": null,
-      "webUrl": "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx",
-      "originalUrl": "https://visualstudiomagazine.com/articles/2022/05/26/build-ai.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Visual Studio Magazine",
-        "domain": "visualstudiomagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-northwestern-engineers-invent-worlds-smallest-remote-controlled-walking-robots.md",
-      "title": "Northwestern engineers invent world's smallest remote-controlled walking robots",
-      "excerpt": "Engineers at Northwestern University have invented the world's smallest remote-controlled walking robots. Each one is about half a millimeter wide, not even as thick as a penny. The students designed robots that looked like crabs and other animals.",
-      "sourceUrl": null,
-      "webUrl": "https://abc7chicago.com/northwestern-university-robots-robot-worlds-smallest/11896519/",
-      "originalUrl": "https://abc7chicago.com/northwestern-university-robots-robot-worlds-smallest/11896519/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.abcotvs.com/dip/images/11896776_052622-wls-cnn-nu-mini-robots-7avo-vid.jpg?w=1600",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T11:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ABC 7 Chicago",
-        "domain": "abc7chicago.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-responsible-ai-institute-and-standards-council-of-canada-launch-first-artificial-intelligence-certification-pilot.md",
-      "title": "Responsible AI Institute and Standards Council of Canada Launch First Artificial Intelligence Certification Pilot",
-      "excerpt": "AUSTIN, Texas, May 26, 2022 (GLOBE NEWSWIRE) -- Responsible AI Institute (RAII), the leading non-profit dedicated to independent AI assessments and certification, today announced its partnership ...",
-      "sourceUrl": null,
-      "webUrl": "https://fox8.com/business/press-releases/globenewswire/8560844/responsible-ai-institute-and-standards-council-of-canada-launch-first-artificial-intelligence-certification-pilot/",
-      "originalUrl": "https://fox8.com/business/press-releases/globenewswire/8560844/responsible-ai-institute-and-standards-council-of-canada-launch-first-artificial-intelligence-certification-pilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox8.com/wp-content/uploads/sites/12/2020/02/logo-fox8.png",
-          "width": 800,
-          "height": 340,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T10:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX8 Cleveland",
-        "domain": "fox8.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-amd-instincttm-mi200-adopted-for-large-scale-ai-training-in-microsoft-azure.md",
-      "title": "AMD Instinct(TM) MI200 Adopted for Large-Scale AI Training in Microsoft Azure",
-      "excerpt": "Microsoft Azure is the first public cloud to deploy AMD Instinct MI200 accelerators SANTA CLARA, Calif., May 26, 2022 (GLOBE NEWSWIRE) -- AMD (NASDAQ: AMD) and Microsoft continued their collaboration in the cloud,",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/amd-instinct-tm-mi200-adopted-for-large-scale-ai-training-in-microsoft-azure-01653570399",
-      "originalUrl": "https://www.barrons.com/articles/amd-instinct-tm-mi200-adopted-for-large-scale-ai-training-in-microsoft-azure-01653570399",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-researchers-build-worlds-smallest-remote-controlled-walking-robot.md",
-      "title": "Researchers build world's smallest remote-controlled walking robot",
-      "excerpt": "The tiny bot is able to walk, crawl, bend, twist and even jump. According to lead researcher Yonggang Huang, it can walk at an average speed",
-      "sourceUrl": null,
-      "webUrl": "https://www.techspot.com/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html",
-      "originalUrl": "https://www.techspot.com/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.techspot.com/images2/news/bigimage/2022/05/2022-05-26-image-17.jpg",
-          "width": 2388,
-          "height": 1624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techspot.com/amp/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html",
-      "cdnAmpWebUrl": "https://www-techspot-com.cdn.ampproject.org/c/s/www.techspot.com/amp/news/94734-researchers-build-world-smallest-remote-controlled-walking-robot.html",
-      "publishedDateTime": "2022-05-26T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechSpot",
-        "domain": "techspot.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techspot.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-4how-high-frequency-trading-machines-are-taking-billions-of-dollars.md",
-      "title": "4How High-Frequency Trading Machines Are Taking Billions Of Dollars...",
-      "excerpt": "Moreover, machine learning can analyze gigabytes of data to read and react to financial markets rapidly ... of dollars just to purchase that service. BuyAlerts believes it’s critical to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/markets/22/05/27423676/how-high-frequency-trading-machines-are-taking-billions-of-dollars-from-retail-investors-each-year",
-      "originalUrl": "https://www.benzinga.com/markets/22/05/27423676/how-high-frequency-trading-machines-are-taking-billions-of-dollars-from-retail-investors-each-year",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.benzinga.com/files/images/story/2022/05/26/screenshot_2022-05-26_at_9.00.12_pm.png?width=1200&height=800&fit=crop",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/27423676",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27423676",
-      "publishedDateTime": "2022-05-26T09:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -508,35 +45,26 @@
       ]
     },
     {
-      "path": "_news/2022-05-26-ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says.md",
-      "title": "AI less about ‘killer robots,’ more about Pentagon transformation, Groen says",
-      "excerpt": "Implementation in the department, of course, is always a challenge,” the director said, “as new technology meets legacy processes, legacy organizations and legacy technology.”",
+      "path": "_news/2022-05-27-ids-imaging-development-systems-gmbh-unveils-block-based-editor-to-enable-users-to-create-vision-apps-without-programming-knowledge.md",
+      "title": "IDS Imaging Development Systems GmbH unveils Block-based Editor to enable users to create Vision Apps without programming knowledge",
+      "excerpt": "With the Block-based Editor, which is also new, users can configure their own programme sequences with AI image processing functions, such as object recognition or classification, without any programming knowledge. Users create simple sequences in a few ...",
       "sourceUrl": null,
-      "webUrl": "https://www.defensenews.com/artificial-intelligence/2022/05/26/ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says/",
-      "originalUrl": "https://www.defensenews.com/artificial-intelligence/2022/05/26/ai-less-about-killer-robots-more-about-pentagon-transformation-groen-says/",
+      "webUrl": "https://www.sourcesecurity.com/news/ids-imaging-development-systems-gmbh-block-based-editor-users-vision-apps-programming-knowledge-co-12175-ga-npr.1653641379.html",
+      "originalUrl": "https://www.sourcesecurity.com/news/ids-imaging-development-systems-gmbh-block-based-editor-users-vision-apps-programming-knowledge-co-12175-ga-npr.1653641379.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.defensenews.com/resizer/ONcq6SIv1d1nvIPTPhqzHchK3Z0=/1024x0/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/mco/QJ6RVWDRVZGCRIYT4HX4ZLAZY4.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T09:08:00-07:00",
+      "publishedDateTime": "2022-05-27T06:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Defense News",
-        "domain": "defensenews.com",
+        "name": "SourceSecurity",
+        "domain": "sourcesecurity.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -546,26 +74,26 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Computer Vision",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-05-26-pramana-labs-to-power-natural-language-search-in-the-domo-platform.md",
-      "title": "Pramana Labs to Power Natural Language Search in the Domo Platform",
-      "excerpt": "Raleigh, N.C., May 26, 2022 (GLOBE NEWSWIRE) -- Raleigh, N.C. - Pramana Labs, an AI technology company, today announced that its powerful natural language processing (NLP) will be integrated into ...",
+      "path": "_news/2022-05-27-natural-language-processing-nlp-in-healthcare-and-life-sciences-analysis-with-growth-forecast-2030.md",
+      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Analysis with Growth Forecast 2030",
+      "excerpt": "This section includes regional segmentation that accentuates the recent and future demand for Natural Language Processing (NLP) in Healthcare and Life Sciences market across North America ...",
       "sourceUrl": null,
-      "webUrl": "https://ktla.com/business/press-releases/globenewswire/8560791/pramana-labs-to-power-natural-language-search-in-the-domo-platform/",
-      "originalUrl": "https://ktla.com/business/press-releases/globenewswire/8560791/pramana-labs-to-power-natural-language-search-in-the-domo-platform/",
+      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-in-healthcare-and-life-sciences-analysis-with-growth-forecast-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-nlp-in-healthcare-and-life-sciences-analysis-with-growth-forecast-2030",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://ktla.com/wp-content/uploads/sites/4/2022/02/75-YEARS_LAS-VERY-OWN-logo_FINAL.png",
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/051a518886e702eb4a9eea9982a177f13dd2078e-600x337.jpg",
           "width": 600,
-          "height": 207,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -575,11 +103,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T08:52:00-07:00",
+      "publishedDateTime": "2022-05-27T06:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "KTLA",
-        "domain": "ktla.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -590,25 +118,26 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
-      "path": "_news/2022-05-26-ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity.md",
-      "title": "Ethical AI Development: A Moral Responsibility And A Commercial Necessity",
-      "excerpt": "The full potential of AI will only be unleashed when its human inputs are truly valued and properly nurtured believes Shoma Kimura, Senior Director of AI Services for TaskUs. Amid the high-tech excitement and ever-rising expectations surrounding it,",
+      "path": "_news/2022-05-27-how-to-make-it-easier-to-implement-ai-in-your-business.md",
+      "title": "How To Make It Easier To Implement AI In Your Business",
+      "excerpt": "AI continuously proves to be an asset for businesses and has been revolutionizing the way they operate. It goes a long way in helping to cut operational costs, automate and simplify business processes,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/",
-      "originalUrl": "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6286108612fba45d9fab7b9e/0x0.jpg?format=jpg&width=1200",
-          "width": 904,
-          "height": 732,
+          "url": "https://imageio.forbes.com/specials-images/imageserve//628e43a297056cd9dc21d426/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -616,9 +145,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/taskus/2022/05/26/ethical-ai-development-a-moral-responsibility-and-a-commercial-necessity/amp/",
-      "publishedDateTime": "2022-05-26T08:11:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/27/how-to-make-it-easier-to-implement-ai-in-your-business/amp/",
+      "publishedDateTime": "2022-05-27T06:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -642,33 +171,42 @@
       ],
       "topics": [
         "AI",
-        "AI Ethics"
+        "Facebook AI"
       ]
     },
     {
-      "path": "_news/2022-05-26-baidu-announces-first-quarter-2022-results.md",
-      "title": "Baidu Announces First Quarter 2022 Results",
-      "excerpt": "\"Baidu delivered solid first quarter results, especially with regard to our cloud and intelligent driving businesses. Baidu AI Cloud reported another quarter of strong revenue growth and Apollo Go ...",
+      "path": "_news/2022-05-27-artificial-general-intelligence-whats-behind-you.md",
+      "title": "Artificial General Intelligence: What's Behind You?",
+      "excerpt": "AGI is the hypothetical ability of an intelligent agent to understand or learn any intellectual task that a human being can.",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-first-quarter-2022-results-1031490339",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/baidu-announces-first-quarter-2022-results-1031490339",
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/artificial-general-intelligence-whats-behind-you/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/artificial-general-intelligence-whats-behind-you/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//628fa8b49fde0d3d854d8a2f/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T07:57:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/artificial-general-intelligence-whats-behind-you/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/27/artificial-general-intelligence-whats-behind-you/amp/",
+      "publishedDateTime": "2022-05-27T05:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -684,26 +222,27 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
       ]
     },
     {
-      "path": "_news/2022-05-26-is-california-still-investigating-teslas-self-driving-claims.md",
-      "title": "Is California Still Investigating Tesla’s Self-Driving Claims?",
-      "excerpt": "(TNS) — It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the $12,000 software package that supposedly enables a Tesla car to drive itself through city ...",
+      "path": "_news/2022-05-27-from-weeks-to-hours-how-ai-slashes-the-time-to-optimize-in-the-cloud.md",
+      "title": "From weeks to hours: How AI slashes the time to optimize in the cloud",
+      "excerpt": "Cloud is not a one-and-done thing - it's a journey. That's where AI and ML come in, to truly deliver on the promise of the cloud.",
       "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims",
-      "originalUrl": "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims",
+      "webUrl": "https://venturebeat.com/2022/05/27/from-weeks-to-hours-how-ai-slashes-the-time-to-optimize-in-the-cloud/",
+      "originalUrl": "https://venturebeat.com/2022/05/27/from-weeks-to-hours-how-ai-slashes-the-time-to-optimize-in-the-cloud/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 154,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/dac6b4f/2147483647/strip/true/crop/1169x610+0+85/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F9b%2F10%2F047551f6e89d9c93c1029ed26dce%2Fshutterstock-369110243.jpg",
-          "width": 840,
-          "height": 438,
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-646867384.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 640,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -711,13 +250,116 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/fs/is-california-still-investigating-teslas-self-driving-claims?_amp=true",
-      "publishedDateTime": "2022-05-26T07:53:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2022/05/27/from-weeks-to-hours-how-ai-slashes-the-time-to-optimize-in-the-cloud/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/27/from-weeks-to-hours-how-ai-slashes-the-time-to-optimize-in-the-cloud/amp/",
+      "publishedDateTime": "2022-05-27T05:20:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-lessons-learned-about-ai-from-a-healthcare-technology-startup-leader.md",
+      "title": "Lessons Learned About AI From A Healthcare Technology Startup Leader",
+      "excerpt": "So far, my personal crash course has made healthcare’s massive size and complexity even more apparent, and it occurred to me that others can benefit if I write about my learnings and observations.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//628ce443a25ac26736ea9402/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/27/lessons-learned-about-ai-from-a-healthcare-technology-startup-leader/amp/",
+      "publishedDateTime": "2022-05-27T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-the-worlds-new-youngest-self-made-billionaire-is-a-25-year-old-college-dropout.md",
+      "title": "The world’s new youngest self-made billionaire is a 25-year-old college dropout",
+      "excerpt": "The new youngest self-made billionaire of the world Alexandr Wang is a 25 year old college dropout from New Mexico.",
+      "sourceUrl": null,
+      "webUrl": "https://techstory.in/the-worlds-new-youngest-self-made-billionaire-is-a-25-year-old-college-dropout/",
+      "originalUrl": "https://techstory.in/the-worlds-new-youngest-self-made-billionaire-is-a-25-year-old-college-dropout/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techstory.in/wp-content/uploads/2022/05/darikNews.img361.jpeg",
+          "width": 800,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-27T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "tech",
+        "domain": "techstory.in",
         "images": null,
         "publishers": null,
         "authors": null
@@ -732,21 +374,21 @@
       ]
     },
     {
-      "path": "_news/2022-05-26-will-ai-text-to-image-generators-put-illustrators-out-of-a-job.md",
-      "title": "Will AI text-to-image generators put illustrators out of a job?",
-      "excerpt": "Imagen, from Google, is the latest example of an AI seemingly able to produce high-quality images from a text prompt – but they aren't quite ready to replace human illustrators",
+      "path": "_news/2022-05-27-biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company.md",
+      "title": "Biography: Meet Zimbabwe’s Serial Entrepreneur William Sachiti Who Owns UK’s First Black-Owned Driverless Car Company",
+      "excerpt": "From creating digital advertising bins to driverless cars, the serial inventor is not ... In 2015 Sachiti enrolled at Aberystwyth University in Wales, where he studied artificial intelligence and robotics. He kept fledging and flourishing at the university ...",
       "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/",
-      "originalUrl": "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/",
+      "webUrl": "https://iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/",
+      "originalUrl": "https://iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/05/26114929/SEI_106436363.jpg?width=1200&enable=upscale",
+          "url": "https://cy4ad5.c2.acecdn.net/wp-content/uploads/2022/05/william-sachiti-1.jpg",
           "width": 1200,
-          "height": 798,
+          "height": 846,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -754,13 +396,81 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2322056-will-ai-text-to-image-generators-put-illustrators-out-of-a-job/amp/",
-      "publishedDateTime": "2022-05-26T07:33:00-07:00",
+      "ampWebUrl": "https://iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/amp/",
+      "cdnAmpWebUrl": "https://iharare-com.cdn.ampproject.org/c/s/iharare.com/biography-meet-zimbabwes-serial-entrepreneur-william-sachiti-who-owns-uks-first-black-owned-driverless-car-company/amp/",
+      "publishedDateTime": "2022-05-27T02:16:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
+        "name": "iHarare News",
+        "domain": "iharare.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-tech-shares-lead-hk-market-higher-amid-hopes-for-better-china-us-ties.md",
+      "title": "Tech shares lead HK market higher amid hopes for better China-U.S. ties",
+      "excerpt": "Hong Kong stocks jumped nearly 3% on Friday, led by tech shares following forecast-beating results from Alibaba Group and Baidu, while comments by a U.S. official on relations with China were interpreted by some as positive. We apologize, but this video ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-pmn/tech-shares-lead-hk-market-higher-amid-hopes-for-better-china-u-s-ties",
+      "originalUrl": "https://financialpost.com/pmn/business-pmn/tech-shares-lead-hk-market-higher-amid-hopes-for-better-china-u-s-ties",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-27T02:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-artificial-intelligence-in-marketing-market-to-grow-at.md",
+      "title": "Artificial Intelligence in Marketing Market to grow at",
+      "excerpt": "Artificial intelligence in marketing market report offers a comprehensive analysis by Deployment (On-premise and Cloud) and Geography (North America, APAC, Europe, Middle East, and Africa, and South America) NEW YORK,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-marketing-market-grow-a-cagr-2684-/2022/05/27/9610662.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-marketing-market-grow-a-cagr-2684-/2022/05/27/9610662.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-27T01:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -771,25 +481,59 @@
       ],
       "topics": [
         "AI",
-        "Machine Learning"
+        "AI in Marketing"
       ]
     },
     {
-      "path": "_news/2022-05-26-managing-disaster-and-disruption-with-ai-one-tree-at-a-time.md",
-      "title": "Managing disaster and disruption with AI, one tree at a time",
-      "excerpt": "Ingesting loads of fine-grained data helps, but it's not enough to make fine-grained predictions. You need domain expertise too, and that's what AiDash is applying for its Disaster and Disruption Management System.",
+      "path": "_news/2022-05-27-nearly-50-percent-of-uae-residents-say-government-must-invest-in-self-driving-cars-ai-3d-printing-survey.md",
+      "title": "Nearly 50 percent of UAE residents say government must invest in self-driving cars, AI, 3D printing: survey",
+      "excerpt": "UAE residents believe that artificial intelligence, virtual reality, and self-driving cars will have a positive impact, with half of respondents in a YouGov survey saying the government should invest in AI. With its favourable business legislation and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/managing-disaster-and-disruption-with-ai-one-tree-at-a-time/",
-      "originalUrl": "https://www.zdnet.com/article/managing-disaster-and-disruption-with-ai-one-tree-at-a-time/",
+      "webUrl": "https://www.arabianbusiness.com/industries/technology/nearly-50-percent-of-uae-residents-say-government-must-invest-in-self-driving-cars-ai-3d-printing-survey",
+      "originalUrl": "https://www.arabianbusiness.com/industries/technology/nearly-50-percent-of-uae-residents-say-government-must-invest-in-self-driving-cars-ai-3d-printing-survey",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-27T01:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Arabian Business",
+        "domain": "arabianbusiness.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-artificial-intelligence-in-marketing-market-to.md",
+      "title": "Artificial Intelligence in Marketing Market to...",
+      "excerpt": "The artificial intelligence in marketing market share growth by the on-premise segment will be significant for revenue generation. Primarily, marketers can reach customers in real-time via on-premise marketing. It is about how companies utilize in-store ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/05/n27435408/artificial-intelligence-in-marketing-market-to-grow-at-a-cagr-of-26-84-by-2026-increasing-digitali",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/n27435408/artificial-intelligence-in-marketing-market-to-grow-at-a-cagr-of-26-84-by-2026-increasing-digitali",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/img/resize/73bae000afbb29e45de6d36562f743d03de03834/2020/03/04/1467e396-e73a-4bed-9fa9-9071765a45f9/bushfires-2020-1024x341.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 400,
+          "url": "https://mma.prnewswire.com/media/1825868/Artificial_Intelligence.jpg",
+          "width": 400,
+          "height": 225,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -797,9 +541,164 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/managing-disaster-and-disruption-with-ai-one-tree-at-a-time/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/managing-disaster-and-disruption-with-ai-one-tree-at-a-time/",
-      "publishedDateTime": "2022-05-26T06:56:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27435408",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27435408",
+      "publishedDateTime": "2022-05-27T00:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-accused-of-cheating-by-an-algorithm-and-a-professor-she-had-never-met.md",
+      "title": "Accused of Cheating by an Algorithm, and a Professor She Had Never Met",
+      "excerpt": "She was, she said in an email to The New York Times, a Black woman who had been “wrongfully accused of academic dishonesty by an algorithm.” What happened, however, was more complicated than a simple algorithmic mistake.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html",
+      "originalUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/05/27/business/00cheating/00cheating-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/05/27/technology/college-students-cheating-software-honorlock.amp.html",
+      "publishedDateTime": "2022-05-27T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-portrait-of-the-queen-painted-by-ai-robot-artist-is-unveiled.md",
+      "title": "Portrait of the Queen painted by AI robot artist is unveiled",
+      "excerpt": "was painted by Ai-Da Robot – an artificial intelligence robot built in 2019 that creates drawings, painting, and sculptures. To start, Ai-Da Robot uses cameras in its eyes and its computer ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.itv.com/news/2022-05-26/portrait-of-the-queen-painted-by-robot-artist-ai-da-is-unveiled",
+      "originalUrl": "https://www.itv.com/news/2022-05-26/portrait-of-the-queen-painted-by-robot-artist-ai-da-is-unveiled",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITV",
+        "domain": "itv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-silicon-overdrive-achieves-aws-education-competency.md",
+      "title": "Silicon Overdrive achieves AWS Education Competency",
+      "excerpt": "South African IT Services company, Silicon Overdrive, successfully achieved its Amazon Web Services (AWS) Education Competency status. Click here to learn how Silicon Overdrive helped educational ...",
+      "sourceUrl": null,
+      "webUrl": "https://mybroadband.co.za/news/industrynews/446128-silicon-overdrive-achieves-aws-education-competency.html",
+      "originalUrl": "https://mybroadband.co.za/news/industrynews/446128-silicon-overdrive-achieves-aws-education-competency.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T23:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyBroadband",
+        "domain": "mybroadband.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit.md",
+      "title": "Singapore touts need for AI transparency in launch of test toolkit",
+      "excerpt": "New pilot framework and toolkit will enable businesses to demonstrate their \"objective and verifiable\" use of artificial intelligence, says the Singapore government, which hopes to drive transparency in AI deployments through technical and process checks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-touts-need-for-ai-transparency-in-launch-of-test-toolkit/",
+      "publishedDateTime": "2022-05-26T22:45:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -822,58 +721,26 @@
         "news"
       ],
       "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-05-26-intrado-offers-mosaicx-conversational-artificial-intelligence-on-google-cloud-marketplace.md",
-      "title": "Intrado Offers Mosaicx Conversational Artificial Intelligence on Google Cloud Marketplace",
-      "excerpt": "Intrado Corporation, a global leader in technology-enabled services, today announced Mosaicx, its conversational artificial intelligence (“AI”) solution, is now available on Google Cloud Marketplace.",
+      "path": "_news/2022-05-27-fortinet-introduces-self-learning-ai-capabilities-in-new-network-detection-and-response-offering.md",
+      "title": "Fortinet Introduces Self-Learning AI Capabilities In New Network Detection And Response Offering",
+      "excerpt": "FortiNDR leverages machine learning and deep neural networks – the next-generation ... and response offering that leverages powerful artificial intelligence and pragmatic analytics to enable ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-57554ef7b9c1eb51e45f1967359ce9d5",
-      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-artificial-intelligence-57554ef7b9c1eb51e45f1967359ce9d5",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-baidu-beats-revenue-estimates-helped-by-ai-cloud-services.md",
-      "title": "Baidu beats revenue estimates helped by AI, cloud services",
-      "excerpt": "Last month Baidu received permits to deploy robotaxis without humans in the driving seat on open Chinese roads for the first time. read more Apollo Go, Baidu's robotaxi service, currently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-05-26/",
-      "originalUrl": "https://www.reuters.com/technology/baidu-beats-quarterly-revenue-estimates-2022-05-26/",
+      "webUrl": "https://menafn.com/1104279520/Fortinet-Introduces-Self-Learning-AI-Capabilities-In-New-Network-Detection-And-Response-Offering",
+      "originalUrl": "https://menafn.com/1104279520/Fortinet-Introduces-Self-Learning-AI-Capabilities-In-New-Network-Detection-And-Response-Offering",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/bt56uaK0VeprSa4dkcOzpiHOTlI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6AZP3TMSZFJ65FSRIOARA2MSEQ.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://menafn.com/updates/pr/2022-05/26/M_ae5e7image_story.jpg",
+          "width": 500,
+          "height": 500,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -883,191 +750,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T06:33:00-07:00",
+      "publishedDateTime": "2022-05-26T22:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-top-7-ways-to-cultivate-creative-excellence-with-ai.md",
-      "title": "Top 7 Ways to Cultivate Creative Excellence with AI",
-      "excerpt": "Today's world of work is moving fast, and the most successful leaders have a laser focus on the future, one in which change is constant and inevitable. And as technology and automation continue to transform the way we work,",
-      "sourceUrl": null,
-      "webUrl": "https://www.entrepreneur.com/article/426406",
-      "originalUrl": "https://www.entrepreneur.com/article/426406",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.entrepreneur.com/content/3x2/2000/1652821115-GettyImages-454204749.jpg",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T06:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Entrepreneur",
-        "domain": "entrepreneur.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-the-dmv-said-it-would-investigate-tesla-over-self-driving-claims-then-crickets.md",
-      "title": "The DMV said it would investigate Tesla over self-driving claims. Then, crickets.",
-      "excerpt": "It's been a year since the California Department of Motor Vehicles opened an investigation into Tesla's sales pitch for its Full Self-Driving feature, the $12,000 software package that supposedly enables a Tesla car to drive itself through city and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.aol.com/news/dmv-said-investigate-tesla-over-120059178.html",
-      "originalUrl": "https://www.aol.com/news/dmv-said-investigate-tesla-over-120059178.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/OsmwzgiZQI3JRU4IML5KOA--~B/aD01MjQ7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/aol_la_times_articles_830/0e6f928d9e0be878635e948bc13ce1f3",
-          "width": 840,
-          "height": 524,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-facial-recognition-technology-not-about-mass-surveillance-mcentee.md",
-      "title": "Facial recognition technology 'not about mass surveillance' - McEntee",
-      "excerpt": "The Minister for Justice has said the introduction of legislation to enable gardaí to use facial recognition technology (FRT) in criminal investigations \"is not about mass surveillance\".",
-      "sourceUrl": null,
-      "webUrl": "https://www.rte.ie/news/crime/2022/0524/1300983-facial-recognition-ireland/",
-      "originalUrl": "https://www.rte.ie/news/crime/2022/0524/1300983-facial-recognition-ireland/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.rasset.ie/001bca3b-1600.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T05:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "RTE Online",
-        "domain": "www.rte.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-26-ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts.md",
-      "title": "AI and machine learning are improving weather forecasts, but they won’t replace human experts",
-      "excerpt": "Would you trust a weather forecast made by a machine that had learned how weather systems behaved by reviewing thousands of past weather maps?",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts-182498",
-      "originalUrl": "https://theconversation.com/ai-and-machine-learning-are-improving-weather-forecasts-but-they-wont-replace-human-experts-182498",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T05:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1078,6 +765,326 @@
       ],
       "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-amazon-chooses-top-startups-for-2022-aws-space-accelerator-programme.md",
+      "title": "Amazon chooses top startups for 2022 AWS Space Accelerator programme",
+      "excerpt": "Amazon Web Services (AWS) - the cloud computing wing of Amazon - has selected ten participants for its 2022 AWS Space Accelerator programme, chosen for the",
+      "sourceUrl": null,
+      "webUrl": "https://www.electronicsweekly.com/news/amazon-chooses-top-startups-2022-aws-space-accelerator-programme-2022-05/",
+      "originalUrl": "https://www.electronicsweekly.com/news/amazon-chooses-top-startups-2022-aws-space-accelerator-programme-2022-05/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.electronicsweekly.com/wp-content/uploads/2022/05/26181543/AWS-accelerator.jpg",
+          "width": 919,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T22:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electronics Weekly",
+        "domain": "electronicsweekly.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-platinum-jubilee-ai-robot-paints-queens-portrait.md",
+      "title": "Platinum Jubilee: AI robot paints Queen's portrait",
+      "excerpt": "A portrait of the Queen painted by a humanoid robot artist has been unveiled ahead of the Platinum Jubilee. Algorithm Queen, was painted by Ai-Da Robot, an artificial intelligence (AI) robot. It has cameras in its eyes and draws on computer memory to turn digital data into physical drawings and paintings using a robotic arm.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523",
+      "originalUrl": "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/B895/production/_124935274_mediaitem124935040.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/uk-england-oxfordshire-61600523.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/uk-england-oxfordshire-61600523.amp",
+      "publishedDateTime": "2022-05-26T21:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-why-baidu-was-rocketing-higher-today.md",
+      "title": "Why Baidu Was Rocketing Higher Today",
+      "excerpt": "You’re reading a free article with opinions that may differ from The Motley Fool’s Premium Investing Services. Become a Motley Fool member today to get instant access to our top analyst ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/2022/05/26/why-baidu-was-rocketing-higher-today/",
+      "originalUrl": "https://www.fool.com/investing/2022/05/26/why-baidu-was-rocketing-higher-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/editorial/images/682128/gettyimages-1284372539.jpg",
+          "width": 3840,
+          "height": 2160,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T21:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally.md",
+      "title": "Asian markets rise, encouraged by earnings and Wall Street’s rally",
+      "excerpt": "“Improved risk sentiments in Wall Street, along with earnings outperformance from Alibaba and Baidu, may aid to fuel ... banks and retailers driving much of the rally. While trading has remained ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/story/asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally-01653623800",
+      "originalUrl": "https://www.marketwatch.com/story/asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally-01653623800",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.mktw.net/im-552884/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.marketwatch.com/amp/story/asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally-01653623800",
+      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/asian-markets-rise-encouraged-by-earnings-and-wall-streets-rally-01653623800",
+      "publishedDateTime": "2022-05-26T21:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-precision-medicine-in-stroke-towards-personalized-outcome-predictions-using-artificial-intelligence.md",
+      "title": "Precision Medicine in Stroke: Towards Personalized Outcome Predictions Using Artificial Intelligence",
+      "excerpt": "Following modern rhythms, the next revolution might well be the strategic use of the steadily increasing amounts of patient-related data for generating models enabling individualized outcome predictions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medscape.com/viewarticle/973222",
+      "originalUrl": "https://www.medscape.com/viewarticle/973222",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T21:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medscape",
+        "domain": "medscape.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-simpleshow-explainer-videos-powered-by-artificial-intelligence.md",
+      "title": "simpleshow Explainer Videos Powered by Artificial Intelligence",
+      "excerpt": "We all know that artificial intelligence (AI) will have a significant impact on our future. In reality, we can see that AI is already operational in our daily lives and at work. Self-driving cars, vacuum cleaner robots, image analysis, and virtual ...",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/simpleshow-explainer-videos-powered-by-artificial-intelligence/",
+      "originalUrl": "https://techbullion.com/simpleshow-explainer-videos-powered-by-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/simpleshow-explainer-videos-powered-by-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/simpleshow-explainer-videos-powered-by-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-05-26T20:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-27-how-microsoft-plans-to-improve-the-low-code-landscape.md",
+      "title": "How Microsoft plans to improve the low-code landscape",
+      "excerpt": "Microsoft's series of new product announcements this week at Build 2022 gives new options for orgs to achieve low-code development goals.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape%EF%BF%BC/",
+      "originalUrl": "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape%EF%BF%BC/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/12/microsoft-building.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 750,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/26/how-microsoft-plans-to-improve-the-low-code-landscape/amp/",
+      "publishedDateTime": "2022-05-26T20:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     }

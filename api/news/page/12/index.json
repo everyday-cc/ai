@@ -2,21 +2,21 @@
   "page": 12,
   "value": [
     {
-      "path": "_news/2022-08-10-did-a-robot-help-create-that-ad-the-answer-increasingly-is-yes.md",
-      "title": "Did a Robot Help Create That Ad? The Answer, Increasingly, Is Yes.",
-      "excerpt": "More marketers are using artificial intelligence tools to help develop creative ideas.",
+      "path": "_news/2022-08-11-clearview-consent-launches-presentation-attack-detection.md",
+      "title": "Clearview Consent Launches Presentation Attack Detection",
+      "excerpt": "Clearview Consent, the leading facial recognition technology developer API, announced the launch of its state-of-the",
       "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/did-a-robot-help-create-that-ad-the-answer-increasingly-is-yes-11660125601",
-      "originalUrl": "https://www.wsj.com/articles/did-a-robot-help-create-that-ad-the-answer-increasingly-is-yes-11660125601",
+      "webUrl": "https://www.marketwatch.com/press-release/clearview-consent-launches-presentation-attack-detection-2022-08-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/clearview-consent-launches-presentation-attack-detection-2022-08-11",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://images.wsj.net/im-600009/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/did-a-robot-help-create-that-ad-the-answer-increasingly-is-yes-11660125601",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/did-a-robot-help-create-that-ad-the-answer-increasingly-is-yes-11660125601",
-      "publishedDateTime": "2022-08-10T02:00:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -41,6 +41,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-executive-qa-southwest-research-institute-leader-on-the-future-of-robotics.md",
+      "title": "Executive Q&A: Southwest Research Institute leader on the future of robotics",
+      "excerpt": "I thought of it as a robot arm, which means a few motors working together in close, computer-controlled coordination to accomplish a task. Fast-forward to today, I think of a lot of different ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.expressnews.com/sa-inc/article/San-Antonio-science-research-17364647.php",
+      "originalUrl": "https://www.expressnews.com/sa-inc/article/San-Antonio-science-research-17364647.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/26/74/34/22791998/3/rawImage.jpg",
+          "width": 2048,
+          "height": 1365,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T02:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "San Antonio Express-News",
+        "domain": "expressnews.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -54,64 +97,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-10-baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities.md",
-      "title": "Baidu rolls out driverless taxi service in two Chinese cities",
-      "excerpt": "Chinese autonomous vehicle maker launches commercial driverless robotaxi services in Wuhan and Chongqing this week, when the government has released its first draft guidelines on the deployment of self-driving vehicles in public transport.",
+      "path": "_news/2022-08-11-for-fun-not-phishing-is-why-most-users-change-their-voice-identity-online.md",
+      "title": "For Fun, Not Phishing, Is Why Most Users Change Their Voice Identity Online",
+      "excerpt": "In a world where the transparency of online communications is touted as a virtue, you might question the motives of people using voice-changing technology tools. Is it for mischief or malice? While cynics may assume that voice tech is only associated with basement hackers and scam artists,",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities/",
-      "originalUrl": "https://www.zdnet.com/article/baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities/",
-      "publishedDateTime": "2022-08-10T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-self-driving-taxi-market-is-going-to-boom-easymile-waymo-navya.md",
-      "title": "Self Driving Taxi Market is Going to Boom | EasyMile, Waymo, NAVYA",
-      "excerpt": "Worldwide Self Driving Taxi Market In-depth Research Report 2021, Forecast to 2026 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/self-driving-taxi-market-is-going-to-boom-easymile-waymo-navya",
-      "originalUrl": "https://www.digitaljournal.com/pr/self-driving-taxi-market-is-going-to-boom-easymile-waymo-navya",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-spain-phishing-c89293d42bf144cd969a7479ed1166e0",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-spain-phishing-c89293d42bf144cd969a7479ed1166e0",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/Bitcoin-fintech-AFP-1K-01-e1642145563739-600x337.jpg",
-          "width": 600,
-          "height": 337,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -121,11 +121,54 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-10T00:19:00-07:00",
+      "publishedDateTime": "2022-08-11T02:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row.md",
+      "title": "Tesla's self-driving tech's 'failure' to detect kids on road sparks row",
+      "excerpt": "The Guardian reported that a professional test driver found that the FSD software \"failed to detect the child-sized figure at an average speed of 25mph and the car then hit the mannequin\". Now, Electrek reports that there was a real problem with the test,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/industry/renewables/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row/articleshow/93497474.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/industry/renewables/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row/articleshow/93497474.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-34974,msid-93497493/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/industry/renewables/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row/amp_articleshow/93497474.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/renewables/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row/amp_articleshow/93497474.cms",
+      "publishedDateTime": "2022-08-11T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -140,21 +183,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-10-south-africas-dataprophet-closes-10m-to-scale-its-ai-as-a-service-platform-for-manufacturers.md",
-      "title": "South Africa’s DataProphet closes $10M to scale its AI-as-a-service platform for manufacturers",
-      "excerpt": "DataProphet provides prescriptive advice and suggested changes to manufacturers’ recipes to avoid making the defects that cause their products to be scrapped.",
+      "path": "_news/2022-08-11-aramcos-prosperity7-powers-ai-drug-firm-insilicos-95m-round.md",
+      "title": "Aramco’s Prosperity7 powers AI drug firm Insilico’s $95M round",
+      "excerpt": "Hong Kong-based drug discovery and development company Insilico has secured fresh capital at a time that its CEO described as a “biotech winter.” The firm has raised $35 million on the heels of its last tranche in June,",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/10/south-africas-dataprophet-closes-10m-to-scale-its-ai-as-a-service-platform-for-manufacturers/",
-      "originalUrl": "https://techcrunch.com/2022/08/10/south-africas-dataprophet-closes-10m-to-scale-its-ai-as-a-service-platform-for-manufacturers/",
+      "webUrl": "https://techcrunch.com/2022/08/10/aramcos-prosperity7-ai-drug-insilicos/",
+      "originalUrl": "https://techcrunch.com/2022/08/10/aramcos-prosperity7-ai-drug-insilicos/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 85,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/Funding-Announcement.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/Screenshot-2022-08-11-at-10.41.19-AM.png?w=1024",
+          "width": 1022,
+          "height": 603,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -162,9 +205,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/10/south-africas-dataprophet-closes-10m-to-scale-its-ai-as-a-service-platform-for-manufacturers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/10/south-africas-dataprophet-closes-10m-to-scale-its-ai-as-a-service-platform-for-manufacturers/amp/",
-      "publishedDateTime": "2022-08-10T00:05:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2022/08/10/aramcos-prosperity7-ai-drug-insilicos/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/10/aramcos-prosperity7-ai-drug-insilicos/amp/",
+      "publishedDateTime": "2022-08-10T19:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -191,15 +234,164 @@
       ]
     },
     {
-      "path": "_news/2022-08-10-europe-ai-in-computer-vision-market-production-growth-share-demand-and-applications-forecast-to-2028.md",
-      "title": "Europe AI in Computer Vision Market Production, Growth, Share, Demand and Applications Forecast to 2028",
-      "excerpt": "Pune,india-Business market insights Latest update on Europe AI in Computer Vision Analysis, Europe AI in Computer",
+      "path": "_news/2022-08-11-intel-foundry-services-announces-mediatek-as-first-wafer-customer.md",
+      "title": "Intel Foundry Services Announces MediaTek As First Wafer Customer",
+      "excerpt": "Ranked Industry Analyst Patrick Moorhead dives into Intel's announcement of its first official wafer fabrication customer with MediaTek.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/europe-ai-in-computer-vision-market-production-growth-share-demand-and-applications-forecast-to-2028-2022-08-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/europe-ai-in-computer-vision-market-production-growth-share-demand-and-applications-forecast-to-2028-2022-08-10",
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/10/intel-foundry-services-announces-mediatek-as-first-wafer-customer/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/10/intel-foundry-services-announces-mediatek-as-first-wafer-customer/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62f4654c546802fe027ff4e0/0x0.png?format=png&width=1200",
+          "width": 1100,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/10/intel-foundry-services-announces-mediatek-as-first-wafer-customer/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/08/10/intel-foundry-services-announces-mediatek-as-first-wafer-customer/amp/",
+      "publishedDateTime": "2022-08-10T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-a-beginners-guide-to-the-ai-apocalypse-the-democratization-of-expertise.md",
+      "title": "A beginner’s guide to the AI apocalypse: The democratization of ‘expertise’",
+      "excerpt": "They say \"garbage in, garbage out,\" but what happens when our data's the garbage and big tech starts feeding it back to us in a nice wrapper?",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/beginners-guide-ai-apocalypse-the-democratization-of-expertise",
+      "originalUrl": "https://thenextweb.com/news/beginners-guide-ai-apocalypse-the-democratization-of-expertise",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F05%2Frobot-1.jpg&signature=0f5c63425d8da190315e4e4944783307",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T18:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-tesla-full-self-driving-technology-under-fire-as-video-seems-to-show-it-failing-to-detect-child-sized-object.md",
+      "title": "Tesla full self-driving technology under fire as video seems to show it failing to detect child-sized object",
+      "excerpt": "A pair of testing videos have been released in recent days, showing Tesla vehicles failing to stop for child-sized objects",
+      "sourceUrl": null,
+      "webUrl": "https://www.whichcar.com.au/news/tesla-full-self-driving-technology-under-fire-as-video-seems-to-show-it-failing-to-detect-child-sized-object",
+      "originalUrl": "https://www.whichcar.com.au/news/tesla-full-self-driving-technology-under-fire-as-video-seems-to-show-it-failing-to-detect-child-sized-object",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.whichcar.com.au/image/private/s--4xsgqGIQ--/ar_1.9047619047619047,c_fill,f_auto,g_xy_center,q_auto:good,x_817,y_328/c_scale,w_1200/Tesla_Model_3_FSD_pedestrian_The_Dawn_Project.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T17:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "whichcar",
+        "domain": "whichcar.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-computer-vision-in-healthcare-market-size-2022-global-industry-share-growth-segments-revenue-manufacturers-and-2028-forecast-research-report.md",
+      "title": "Computer Vision in Healthcare Market Size 2022, Global Industry Share, Growth, Segments, Revenue, Manufacturers and 2028 Forecast Research Report",
+      "excerpt": "Aug 11, 2022 (The Expresswire) -- Global “Computer Vision in Healthcare Market” (2022-2028) research report by researcher gives an insight into the trending modern situation, size, share ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-size-2022-global-industry-share-growth-segments-revenue-manufacturers-and-2028-forecast-research-report-2022-08-11",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-size-2022-global-industry-share-growth-segments-revenue-manufacturers-and-2028-forecast-research-report-2022-08-11",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
       "tags": null,
       "images": [
         {
@@ -215,7 +407,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T23:51:00-07:00",
+      "publishedDateTime": "2022-08-10T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",
@@ -239,25 +431,26 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
-      "path": "_news/2022-08-10-the-best-examples-of-human-and-robot-collaboration.md",
-      "title": "The Best Examples Of Human And Robot Collaboration",
-      "excerpt": "As robots are becoming more intelligent and able to perform more complex tasks, it is important to figure out the right way to split the work so humans and robots are each doing the work best suited for each other.",
+      "path": "_news/2022-08-11-realising-scientists-are-the-real-superheroes.md",
+      "title": "Realising scientists are the real superheroes",
+      "excerpt": "Meet Edgar Duéñez-Guzmán, a research engineer on our Multi-Agent Research team who’s drawing on knowledge of game theory, computer science, and social evolution to get AI agents working better together.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/10/the-best-examples-of-human-and-robot-collaboration/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/10/the-best-examples-of-human-and-robot-collaboration/",
+      "webUrl": "https://www.deepmind.com/blog/realising-scientists-are-the-real-superheroes",
+      "originalUrl": "https://www.deepmind.com/blog/realising-scientists-are-the-real-superheroes",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f33bc82e274eb23360c8b8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62f516bc468339104801f2f1_wl2I21nq-QCbxjIjaCxCZd7W8yXbI9RDLNmxAzLo_TlANeVaOYr3NrrhOa1zTQVyJcvI9QE-OWTEdNS84Ar4yhxNAF1hytPWm6Bq00RHmLZVDSGBFht7shAF384TcP4b-DNBYQpoWkTBF6FdoVPSSWs.jpeg",
+          "width": 1600,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -265,16 +458,120 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/10/the-best-examples-of-human-and-robot-collaboration/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/08/10/the-best-examples-of-human-and-robot-collaboration/amp/",
-      "publishedDateTime": "2022-08-09T22:03:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "DeepMind",
+        "domain": "deepmind.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-metas-new-ai-powered-chatbot-isnt-crazy-about-facebook.md",
+      "title": "Meta's New AI-Powered Chatbot Isn't 'Crazy' About Facebook",
+      "excerpt": "Sitting in front of a computer screen, I'm typing messages to a new chatbot created by Facebook parent company Meta. We talk about pizza, politics and even social media. \"What do you think about Facebook?",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/social-media/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/",
+      "originalUrl": "https://www.cnet.com/news/social-media/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 209,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/3abc51f996503ec0faa83f567236fed169e31f5c/2022/05/16/06eca44f-31a2-4125-bb40-44bdda74f935/meta-with-facebook-emoji-reaction-faces-blue.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/metas-new-ai-powered-chatbot-isnt-crazy-about-facebook/",
+      "publishedDateTime": "2022-08-10T16:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-robottrade-offers-a-200-discount-on-its-lifetime-arbitrage-robot-plan-on-auto-trading-software.md",
+      "title": "Robot.Trade offers a $200 discount on its lifetime arbitrage robot plan on Auto trading software.",
+      "excerpt": "Robot.Trade brings a straightforward and easy solution by developing Best crypto trading bot. For traders who wish to jump into the arbitrage market, the company has established a platform where excessive robot utilization allows traders to relax from trading tasks and watch their profits increase daily.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/robottrade-offers-a-200-discount-on-its-lifetime-arbitrage-robot-plan-on-auto-trading-software-2022-08-10",
+      "originalUrl": "https://www.marketwatch.com/press-release/robottrade-offers-a-200-discount-on-its-lifetime-arbitrage-robot-plan-on-auto-trading-software-2022-08-10",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -291,26 +588,25 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-08-10-ai-a-world-of-new-opportunity-and-risk.md",
-      "title": "AI: A World of New Opportunity and Risk",
-      "excerpt": "And here we are, at the dawn of the AI revolution, where the advent of cloud computing and computer processing power, cheap storage, new algorithms, as well as new product and service innovations realises the benefits of a technology – from driverless cars and virtual reality to medical diagnostics and predictive machine maintenance.",
+      "path": "_news/2022-08-11-microsoft-makes-its-3d-emoji-library-available-on-github-and-figma.md",
+      "title": "Microsoft makes its 3D emoji library available on GitHub and Figma",
+      "excerpt": "and PowerPoints into apps by using Microsoft cognitive AI tech to scan the inputs and produce working app controls backed with data storage. The company also is working on a Canva-like tool called ...",
       "sourceUrl": null,
-      "webUrl": "https://knowledge.insead.edu/leadership-organisations/ai-world-new-opportunity-and-risk",
-      "originalUrl": "https://knowledge.insead.edu/leadership-organisations/ai-world-new-opportunity-and-risk",
+      "webUrl": "https://www.zdnet.com/article/microsoft-makes-its-3d-emoji-library-available-on-github-and-figma/",
+      "originalUrl": "https://www.zdnet.com/article/microsoft-makes-its-3d-emoji-library-available-on-github-and-figma/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/images/2022/01/gettyimages-1305439287.jpg?itok=e_Bi0Lm3",
-          "width": 2517,
-          "height": 1190,
+          "url": "https://www.zdnet.com/a/img/resize/b57d8a198543fddaa3d95993722019034d1e7984/2022/08/10/2160b01d-1efb-4126-954e-2ca6664587a9/microsoftemojigithub.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 682,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -318,102 +614,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T20:00:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-makes-its-3d-emoji-library-available-on-github-and-figma/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-makes-its-3d-emoji-library-available-on-github-and-figma/",
+      "publishedDateTime": "2022-08-10T14:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "INSEAD",
-        "domain": "insead.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-nation-releases-first-draft-of-rules-on-self-driving-vehicles-in-public.md",
-      "title": "Nation releases first draft of rules on self-driving vehicles in public",
-      "excerpt": "The country will encourage the use of self-driving vehicles such as buses in an enclosed Bus Rapid Transit or BRT system, and allow autonomous vehicles to offer taxi services under simple and relatively controllable scenarios,",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202208/10/62f3069ea310fd2bec9b5dbc.jpeg",
-          "width": 536,
-          "height": 357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T19:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-setting-our-heart-attack-predicting-ai-loose-with-no-code-tools.md",
-      "title": "Setting our heart-attack-predicting AI loose with “no-code” tools",
-      "excerpt": "AutoML is a big chunk of what sits behind Canvas; it evaluates the data and tries a number of different algorithm types to determine what's best After that's done, we'll take a swing using one of ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/08/no-code-no-problem-part-two-setting-the-ai-loose-with-the-easy-button/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/08/no-code-no-problem-part-two-setting-the-ai-loose-with-the-easy-button/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/machine-learning-disected-go-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T18:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -421,316 +631,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president.md",
-      "title": "Meta AI chatbot says Zuckerberg 'too creepy' and Trump will always be US president",
-      "excerpt": "Meta (formerly Facebook) just unveiled an artificial intelligence ... tweeted that she tried out the new chatbot Meta created for AI research and had the most bizarre conversation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/",
-      "originalUrl": "https://www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://st1.bgr.in/wp-content/uploads/2021/12/Mark-Zuckerberg-w.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/amp/",
-      "cdnAmpWebUrl": "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/news/meta-ai-chatbot-says-zuckerberg-too-creepy-and-trump-will-always-be-us-president-1308360/amp/",
-      "publishedDateTime": "2022-08-09T17:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "www.bgr.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-computer-vision-market-2022-to-see-huge-growth-by-2029-basler-omron-keyence-national-instruments-by-vmr.md",
-      "title": "Computer Vision Market 2022 to See Huge Growth by 2029 | Basler, Omron, Keyence, National Instruments By VMR",
-      "excerpt": "New Jersey United State – The Computer Vision Market Report contains key market data, new trends, product usage, and driving factors for customers and competitors. This excellent market report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/computer-vision-market-2022-to-see-huge-growth-by-2029-basler-omron-keyence-national-instruments-by-vmr",
-      "originalUrl": "https://www.digitaljournal.com/pr/computer-vision-market-2022-to-see-huge-growth-by-2029-basler-omron-keyence-national-instruments-by-vmr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/58367ef44d2678d0579a5fa3c510df3b6b4d6737-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-object-recognition-imaging-systems-market-2022-covid-19-impact-growth-factors-top-venders-and-forecast-till-2030.md",
-      "title": "Object Recognition Imaging Systems Market 2022 Covid-19 Impact, Growth Factors, Top Venders and Forecast Till 2030",
-      "excerpt": "Aug 10, 2022 (Alliance News via COMTEX) -- Key Companies Covered in the Object Recognition Imaging Systems Research are Quanergy, Xiris Automation Inc, Pieper Automation, Logos Systems Int’l ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-2022-covid-19-impact-growth-factors-top-venders-and-forecast-till-2030-2022-08-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-2022-covid-19-impact-growth-factors-top-venders-and-forecast-till-2030-2022-08-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-ai-ecg-heart-trace-can-accurately-predict-diabetes-and-pre-diabetes.md",
-      "title": "AI + ECG heart trace can accurately predict diabetes and pre-diabetes",
-      "excerpt": "An artificial intelligence (AI) algorithm, derived from the features of individual heartbeats recorded on an ECG (electrocardiogram), can accurately predict diabetes and pre-diabetes, suggests preliminary research published in the online journal BMJ Innovations.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2017/heartbeat.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ai-ecg-heart-accurately-diabetes.amp",
-      "publishedDateTime": "2022-08-09T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-machine-learning-as-a-service-mlaas-market-size-projections-future-opportunities-recorded-for-the-period-2022-2031.md",
-      "title": "Machine Learning as a Service (MLaaS) Market Size Projections & Future Opportunities Recorded for the Period 2022-2031",
-      "excerpt": "Market analyze market size, share, growth, trends, segmentation, top key players, strategies, demand, statistics, competitive landscape and forecast. Market Overview The Machine Learning as a Service (MLaaS) Market was valued at USD 1.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-projections-future-opportunities-recorded-for-the-period-2022-2031-2022-08-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-mlaas-market-size-projections-future-opportunities-recorded-for-the-period-2022-2031-2022-08-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T14:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-new-texas-partnership-aims-to-define-ethics-in-artificial-intelligence.md",
-      "title": "New Texas partnership aims to define ethics in artificial intelligence",
-      "excerpt": "It seems like every day there are new headlines about what artificial intelligence can do. However, a new research partnership at the University of Texas at Austin is more interested how it works. The initiative between UT-Austin’s Good Systems program and the MITRE Corporation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.keranews.org/science-technology/2022-08-09/new-texas-partnership-aims-to-define-ethics-in-artificial-intelligence",
-      "originalUrl": "https://www.keranews.org/science-technology/2022-08-09/new-texas-partnership-aims-to-define-ethics-in-artificial-intelligence",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://npr.brightspotcdn.com/dims4/default/25496e8/2147483647/strip/true/crop/980x604+0+22/resize/880x542!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F67%2F23%2F2ef3dfd6434497caf6c327fe908e%2Ftexas-capital-building.JPG",
-          "width": 880,
-          "height": 542,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.keranews.org/science-technology/2022-08-09/new-texas-partnership-aims-to-define-ethics-in-artificial-intelligence?_amp=true",
-      "cdnAmpWebUrl": "https://www-keranews-org.cdn.ampproject.org/c/s/www.keranews.org/science-technology/2022-08-09/new-texas-partnership-aims-to-define-ethics-in-artificial-intelligence?_amp=true",
-      "publishedDateTime": "2022-08-09T13:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KERA News",
-        "domain": "keranews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-the-pandemic-revealed-technology-deficits-microsoft-azure-is-growing-to-fill-in-the-gaps.md",
-      "title": "The Pandemic Revealed Technology Deficits, Microsoft Azure is Growing to Fill in the Gaps",
-      "excerpt": "The recent pandemic revealed numerous shortcomings in relying on legacy on-premise applications and IT operations, strengthening arguments for a move to cloud computing across industries. With a greater number of employees transitioning to work remotely during the height of COVID-19,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/08/09/9653251.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/08/09/9653251.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -744,29 +644,38 @@
       ]
     },
     {
-      "path": "_news/2022-08-10-metas-new-ai-chatbot-cant-stop-bashing-facebook.md",
-      "title": "Meta’s new AI chatbot can’t stop bashing Facebook",
-      "excerpt": "‘Stop trying to be TikTok’: how video-centric Instagram sparked a revolt Launched on Friday, BlenderBot is a prototype of Meta’s conversational AI, which, according to Facebook’s parent ...",
+      "path": "_news/2022-08-11-amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better.md",
+      "title": "Amazon's Alexa scientists demonstrate bigger AI isn't always better",
+      "excerpt": "Despite deep learning's obsession with big models and generalist approaches, Amazon shows top results can be had with economical and somewhat focused, if not specialized, models.",
       "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook",
-      "originalUrl": "https://www.theguardian.com/technology/2022/aug/09/blenderbot-meta-chatbot-facebook",
+      "webUrl": "https://www.zdnet.com/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
+      "originalUrl": "https://www.zdnet.com/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 97,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5e79d4892d800fecee63c8b5bde6410152fd6bcc/2022/08/10/7374585a-a866-491a-8405-4352c3c6e2a1/amazon-2022-alextm-20b-summarizing.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T11:14:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
+      "publishedDateTime": "2022-08-10T12:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
+        "name": "ZDNet",
+        "domain": "zdnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -782,26 +691,74 @@
         "news"
       ],
       "topics": [
-        "Facebook AI",
-        "AI"
+        "AI",
+        "AI Ethics",
+        "Machine Learning",
+        "Natural Language Processing",
+        "AI Hardware",
+        "Google AI"
       ]
     },
     {
-      "path": "_news/2022-08-10-deeply-disturbing-video-appears-to-show-a-tesla-in-full-self-driving-mode-repeatedly-running-over-a-child-sized-mannequin-in-controlled-test.md",
-      "title": "'Deeply disturbing' video appears to show a Tesla in full self-driving mode repeatedly running over a child-sized mannequin in 'controlled test conditions'",
-      "excerpt": "A spokesperson said this included the full self driving software and that the agency 'considers all relevant data and information that may assist its investigation'. Autopilot uses cameras ...",
+      "path": "_news/2022-08-10-use-computer-vision-to-measure-agriculture-yield-with-amazon-rekognition-custom-labels.md",
+      "title": "Use computer vision to measure agriculture yield with Amazon Rekognition Custom Labels",
+      "excerpt": "In the agriculture sector, the problem of identifying and counting the amount of fruit on trees plays an important role in crop estimation. The concept of renting and leasing a tree is becoming popular, where a tree owner leases the tree every year before the harvest based on the estimated fruit yeild.",
       "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-11095775/Tesla-self-driving-mode-appears-run-child-sized-mannequin-test-conditions.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-11095775/Tesla-self-driving-mode-appears-run-child-sized-mannequin-test-conditions.html",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-computer-vision-to-measure-agriculture-yield-with-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-computer-vision-to-measure-agriculture-yield-with-amazon-rekognition-custom-labels/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 103,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T12:02:12-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-08-11-10-top-artificial-intelligence-ai-solutions-in-2022.md",
+      "title": "10 top artificial intelligence (AI) solutions in 2022",
+      "excerpt": "As AI-powered technologies continue to advance and more organizations adopt them, IT leaders must be sure to ask themselves how the solutions they choose fit into their goals as a business.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/",
+      "originalUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
       "tags": null,
       "images": [
         {
-          "url": "https://i.dailymail.co.uk/1s/2022/08/09/17/61222157-0-image-a-61_1660062334365.jpg",
-          "width": 636,
-          "height": 382,
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1131331897-e1655419471228.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 611,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -809,13 +766,69 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-11095775/amp/Tesla-self-driving-mode-appears-run-child-sized-mannequin-test-conditions.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-11095775/amp/Tesla-self-driving-mode-appears-run-child-sized-mannequin-test-conditions.html",
-      "publishedDateTime": "2022-08-09T10:51:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/",
+      "publishedDateTime": "2022-08-10T11:40:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI",
+        "AI in Healthcare",
+        "Microsoft AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-researchers-embrace-artificial-intelligence-to-tackle-banana-disease-in-burundi.md",
+      "title": "Researchers Embrace Artificial Intelligence to Tackle Banana Disease in Burundi",
+      "excerpt": "A group of scientists involved in finding solutions to minimize the impact of a devastating banana virus in Burundi have developed an Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://iafrica.com/researchers-embrace-artificial-intelligence-to-tackle-banana-disease-in-burundi/",
+      "originalUrl": "https://iafrica.com/researchers-embrace-artificial-intelligence-to-tackle-banana-disease-in-burundi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://iafrica.com/wp-content/uploads/2022/08/8.jpeg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iafrica",
+        "domain": "iafrica.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -825,26 +838,124 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-08-10-the-chips-act-is-a-boon-for-american-innovation.md",
-      "title": "The CHIPS Act Is A Boon For American Innovation",
-      "excerpt": "The CHIPS Act marks a huge shift in US policy that will benefit the global supply chain — with the help of digital manufacturers.",
+      "path": "_news/2022-08-10-the-importance-of-international-norms-in-artificial-intelligence-ethics.md",
+      "title": "The Importance of International Norms in Artificial Intelligence Ethics",
+      "excerpt": "Artificial intelligence has arrived as a multi-purpose tool. The United States and its allies need to do more to establish norms and ensure AI is used in a way that does not harm human rights.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/daveevans/2022/08/09/the-chips-act-is-a-boon-for-american-innovation/",
-      "originalUrl": "https://www.forbes.com/sites/daveevans/2022/08/09/the-chips-act-is-a-boon-for-american-innovation/",
+      "webUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics",
+      "originalUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 90,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f29a1a654dcc48001d9c76/0x0.jpg?format=jpg&width=1200",
+          "url": "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2022/08/G7leaders.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp",
+      "cdnAmpWebUrl": "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp",
+      "publishedDateTime": "2022-08-10T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cfr.org",
+        "domain": "cfr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-amazon-sagemaker-automatic-model-tuning-now-supports-sagemaker-training-instance-fallbacks.md",
+      "title": "Amazon SageMaker Automatic Model Tuning now supports SageMaker Training Instance Fallbacks",
+      "excerpt": "Today Amazon SageMaker announced the support of SageMaker training instance fallbacks for Amazon SageMaker Automatic Model Tuning (AMT) that allow users to specify alternative compute resource configurations. SageMaker automatic model tuning finds the best version of a model by running many training",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-supports-sagemaker-training-instance-fallbacks/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-supports-sagemaker-training-instance-fallbacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/10/sagemaker-automatic-model-tuning-instance-fallbacks.jpg",
+          "width": 1328,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T08:57:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-tesla-self-driving-smear-campaign-releases-test-that-fails-to-realize-fsd-never-engaged.md",
+      "title": "Tesla self-driving smear campaign releases ‘test’ that fails to realize FSD never engaged",
+      "excerpt": "A Tesla Full Self-Driving smear campaign started by a California billionaire running for Senate has a new attack ad based on a FSD Beta “test,” where they failed to realize they never engaged FSD Beta during the test.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/",
+      "originalUrl": "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Full-SElf-Driving-Beta-failed-test.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
           "width": 1200,
-          "height": 953,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -852,68 +963,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/daveevans/2022/08/09/the-chips-act-is-a-boon-for-american-innovation/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/daveevans/2022/08/09/the-chips-act-is-a-boon-for-american-innovation/amp/",
-      "publishedDateTime": "2022-08-09T10:44:00-07:00",
+      "ampWebUrl": "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/amp/",
+      "publishedDateTime": "2022-08-10T08:56:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "Electrek",
+        "domain": "electrek.co",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-teslas-self-driving-technology-fails-to-detect-children-in-the-road-tests-find.md",
-      "title": "Tesla’s self-driving technology fails to detect children in the road, tests find",
-      "excerpt": "Professional test driver using Tesla’s Full Self-Driving mode repeatedly hit a child-sized mannequin in its path A safe-technology advocacy group issued claimed on Tuesday that Tesla’s full ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/aug/09/tesla-self-driving-technology-safety-children?source=Snapzu",
-      "originalUrl": "https://www.theguardian.com/technology/2022/aug/09/tesla-self-driving-technology-safety-children?source=Snapzu",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/6618f44ee85df1594f8482429ec86c85ae6385a6/0_275_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=fbf921f078e580f8b039211ce1212cdb",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/aug/09/tesla-self-driving-technology-safety-children",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/09/tesla-self-driving-technology-safety-children",
-      "publishedDateTime": "2022-08-09T10:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -934,19 +993,97 @@
       ]
     },
     {
-      "path": "_news/2022-08-10-artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months.md",
-      "title": "Artificial intelligence innovation among automotive industry companies has dropped off in the last three months",
-      "excerpt": "Analysis of patent filings shows a shrinking level of AI related applications in the industry over the past three months, compared to last year",
+      "path": "_news/2022-08-10-7-artificial-intelligence-updates-this-year.md",
+      "title": "7 artificial intelligence updates this year",
+      "excerpt": "From robotic joint replacements to predicting pain outcomes, artificial intelligence is being used in a variety of ways in orthopedics.",
       "sourceUrl": null,
-      "webUrl": "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/",
-      "originalUrl": "https://www.just-auto.com/analysis/artificial-intelligence-innovation-among-automotive-industry-companies-has-dropped-off-in-the-last-three-months/",
+      "webUrl": "https://www.beckersspine.com/spinal-tech/item/54944-7-artificial-intelligence-updates-this-year.html",
+      "originalUrl": "https://www.beckersspine.com/spinal-tech/item/54944-7-artificial-intelligence-updates-this-year.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Spine Review",
+        "domain": "beckersspine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-how-artificial-intelligence-can-make-our-food-safer.md",
+      "title": "How artificial intelligence can make our food safer",
+      "excerpt": "Food recalls could be a thing of the past if artificial intelligence (AI) is utilized in food production, according to a recent study from UBC and the University of Guelph.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-food-safer.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-food-safer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/how-artificial-intelli.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-food-safer.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-artificial-intelligence-food-safer.amp",
+      "publishedDateTime": "2022-08-10T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-industrial-robotics-and-generation-change-ahead.md",
+      "title": "Industrial robotics and generation change ahead",
+      "excerpt": "has announced partnership with Kawasaki Robotics on a project that aims to automate the programming, deployment and control of its industrial robots. The partnership is described as a gamechanger ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/interview/industrial-robotics-and-generation-change-ahead/",
+      "originalUrl": "https://www.just-auto.com/interview/industrial-robotics-and-generation-change-ahead/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/KrBV9-1038x778.png",
+          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/Kawasaki-spot-welding-cell-showing-RapidPlan-in-action-1038x778.jpg",
           "width": 1038,
           "height": 778,
           "title": null,
@@ -958,7 +1095,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T10:00:00-07:00",
+      "publishedDateTime": "2022-08-10T08:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Just Auto",
@@ -972,162 +1109,26 @@
         "news"
       ],
       "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-08-10-artificial-intelligence-innovation-among-power-industry-companies-has-dropped-off-in-the-last-three-months.md",
-      "title": "Artificial intelligence innovation among power industry companies has dropped off in the last three months",
-      "excerpt": "Research and innovation in artificial intelligence in the power industry operations and technologies sector has declined in the last year. The most recent figures show that the number of AI related patent applications in the industry stood at 286 in the th ...",
+      "path": "_news/2022-08-10-machine-learning-at-the-forefront-of-telemental-health.md",
+      "title": "Machine Learning At The Forefront Of Telemental Health",
+      "excerpt": "Michael Stefferson received his PhD in Physics from the University of Colorado before deciding to make the jump into machine learning (ML). Here's why he did, and why AI can transform the future of telemental health.",
       "sourceUrl": null,
-      "webUrl": "https://www.power-technology.com/analysis/artificial-intelligence-innovation-among-power-industry-companies-has-dropped-off-in-the-last-three-months/",
-      "originalUrl": "https://www.power-technology.com/analysis/artificial-intelligence-innovation-among-power-industry-companies-has-dropped-off-in-the-last-three-months/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.power-technology.com/wp-content/uploads/sites/21/2022/08/s0jN5-1038x778.png",
-          "width": 1038,
-          "height": 778,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "power-technology",
-        "domain": "power-technology.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-ai-autopilot-could-let-autonomous-aircraft-fly-in-busy-airspaces.md",
-      "title": "AI autopilot could let autonomous aircraft fly in busy airspaces",
-      "excerpt": "While pilots commonly use an autopilot when cruising at high altitudes, they typically switch to manual control when entering crowded lower airspaces. However, what if the plane has no pilot? Well, a new AI autopilot system for busy airspaces may be the answer.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/aircraft/ai-autopilot-autonomous-aircraft-crowded-airspaces/",
-      "originalUrl": "https://newatlas.com/aircraft/ai-autopilot-autonomous-aircraft-crowded-airspaces/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/f32670e/2147483647/strip/true/crop/1620x851+0+115/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F90%2F9d%2F637f2282401688a38dc8240fee33%2Fai-pilot-02.jpeg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T09:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-skin-like-computing-chip-examines-health-data-with-brain-mimicking-ai.md",
-      "title": "Skin-Like Computing Chip Examines Health Data With Brain-Mimicking AI",
-      "excerpt": "According to researchers, skin-like computing chip can analyse health data using brain-mimicking AI. Know the details.",
-      "sourceUrl": null,
-      "webUrl": "https://www.onlymyhealth.com/skin-like-computing-chip-examines-health-data-with-brain-mimicking-ai-1660058336",
-      "originalUrl": "https://www.onlymyhealth.com/skin-like-computing-chip-examines-health-data-with-brain-mimicking-ai-1660058336",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.onlymyhealth.com//imported/images/2022/August/09_Aug_2022/Main10chip.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.onlymyhealth.com/amp/skin-like-computing-chip-examines-health-data-with-brain-mimicking-ai-1660058336",
-      "cdnAmpWebUrl": "https://www-onlymyhealth-com.cdn.ampproject.org/c/s/www.onlymyhealth.com/amp/skin-like-computing-chip-examines-health-data-with-brain-mimicking-ai-1660058336",
-      "publishedDateTime": "2022-08-09T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Onlymyhealth",
-        "domain": "onlymyhealth.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-ai-is-going-mainstream-top-ideas-from-the-my-first-million-podcast.md",
-      "title": "AI Is Going Mainstream - Top Ideas From The My First Million Podcast",
-      "excerpt": "When it comes to AI, My First Million co-host Shaan Puri and Sam Parr see big potential, and they share a number of the most exciting and interesting applications using AI right now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/08/09/ai-is-going-mainstreamtop-ideas-from-the-my-first-million-podcast/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/08/09/ai-is-going-mainstreamtop-ideas-from-the-my-first-million-podcast/",
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/08/10/machine-learning-at-the-forefront-of-telemental-health/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/08/10/machine-learning-at-the-forefront-of-telemental-health/",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f26984a8524fb68860c8b6/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62f3c73336ae7d0584fe6374/0x0.jpg?format=jpg&width=1200",
+          "width": 956,
+          "height": 561,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1135,9 +1136,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/08/09/ai-is-going-mainstreamtop-ideas-from-the-my-first-million-podcast/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/08/09/ai-is-going-mainstreamtop-ideas-from-the-my-first-million-podcast/amp/",
-      "publishedDateTime": "2022-08-09T08:06:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/08/10/machine-learning-at-the-forefront-of-telemental-health/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/08/10/machine-learning-at-the-forefront-of-telemental-health/amp/",
+      "publishedDateTime": "2022-08-10T08:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1160,7 +1161,50 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-the-worldwide-artificial-intelligence-ai-in-drug-discovery-industry-is-expected-to-reach-23-billion-by-2027-researchandmarketscom.md",
+      "title": "The Worldwide Artificial Intelligence (AI) in Drug Discovery Industry is Expected to Reach $2.3 Billion by 2027 - ResearchAndMarkets.com",
+      "excerpt": "The Global Artificial Intelligence (AI) in Drug Discovery Market is estimated to be USD 792.45 Mn in 2022 and is expected to reach USD 2337.25 Mn by 2027, growing at a CAGR of 24.15%. Market dynamics are forces that impact the prices and behaviors of the Global Artificial Intelligence (AI) in Drug Discovery Market stakeholders.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-f1500da2065941639bebd64db2cf18e2",
+      "originalUrl": "https://apnews.com/press-release/business-wire/covid-technology-health-middle-east-f1500da2065941639bebd64db2cf18e2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T07:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     }

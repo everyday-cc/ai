@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Microsoft AI
 
 images:
   - url: "https://semiengineering.com/wp-content/uploads/AdobeStock_176809492-data-explosion-green-09-22-21-scaled.jpeg?fit=2560%2C1440&ssl=1"

@@ -143,6 +143,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
+  - title: "Healthcare Artificial Intelligence Market Global Demand, Growth, Size, Share, Trends, Opportunities and Forecast to 2027"
+    excerpt: "In the healthcare industry, artificial intelligence is being utilized to investigate the link between treatment methods and patient outcomes. Medication management, treatment regimens, and drug ..."
+    publishedDateTime: 2022-08-22T13:57:00Z
+    webUrl: "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-global-demand-growth-size-share-trends-opportunities-and-forecast-to-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 29
+    images:
+      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/f4f04bbf0a33e2251f03a5748650712826f14ff2-2-600x337.jpg"
+        width: 600
+        height: 337
+        isCached: true
   - title: "Computer Vision System Market Size, Growth, Share, 2022 Top Key Players Review, Demand and Global Analysis by Forecast 2028"
     excerpt: "Global “Computer Vision System Market” (2022) report provides the detailed study of business analysis, competitor landscape, development trends, future scope, detailed cost analysis ..."
     publishedDateTime: 2022-08-22T06:37:00Z

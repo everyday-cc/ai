@@ -2,6 +2,503 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-10-the-importance-of-international-norms-in-artificial-intelligence-ethics.md",
+      "title": "The Importance of International Norms in Artificial Intelligence Ethics",
+      "excerpt": "Artificial intelligence has arrived as a multi-purpose tool. The United States and its allies need to do more to establish norms and ensure AI is used in a way that does not harm human rights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics",
+      "originalUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2022/08/G7leaders.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp",
+      "cdnAmpWebUrl": "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp",
+      "publishedDateTime": "2022-08-10T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cfr.org",
+        "domain": "cfr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-amazon-sagemaker-automatic-model-tuning-now-supports-sagemaker-training-instance-fallbacks.md",
+      "title": "Amazon SageMaker Automatic Model Tuning now supports SageMaker Training Instance Fallbacks",
+      "excerpt": "Today Amazon SageMaker announced the support of SageMaker training instance fallbacks for Amazon SageMaker Automatic Model Tuning (AMT) that allow users to specify alternative compute resource configurations. SageMaker automatic model tuning finds the best version of a model by running many training",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-supports-sagemaker-training-instance-fallbacks/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-supports-sagemaker-training-instance-fallbacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/10/sagemaker-automatic-model-tuning-instance-fallbacks.jpg",
+          "width": 1328,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T08:57:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-setting-our-heart-attack-predicting-ai-loose-with-no-code-tools.md",
+      "title": "Setting our heart-attack-predicting AI loose with “no-code” tools",
+      "excerpt": "AutoML is a big chunk of what sits behind Canvas; it evaluates the data and tries a number of different algorithm types to determine what's best After that's done, we'll take a swing using one of ...",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/08/no-code-no-problem-part-two-setting-the-ai-loose-with-the-easy-button/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/08/no-code-no-problem-part-two-setting-the-ai-loose-with-the-easy-button/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/machine-learning-disected-go-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T18:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-global-ai-in-fintech-market-to-garner-6130-billion-by-2031-amazon-web-services-inc-cisco-systems-inc-complyadvantage.md",
+      "title": "Global AI in Fintech Market to Garner $61.30 Billion by 2031 | Amazon Web Services, Inc., Cisco Systems, Inc., ComplyAdvantage",
+      "excerpt": "Allied Market Research published a report, titled, “AI in Fintech Market by Component (Solution, Services), by Deployment Mode (On-premise, Cloud), by Application (Virtual Assistants (Chatbots ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/global-ai-in-fintech-market-to-garner-61-30-billion-by-2031-amazon-web-services-inc-cisco-systems-inc-complyadvantage",
+      "originalUrl": "https://www.digitaljournal.com/pr/global-ai-in-fintech-market-to-garner-61-30-billion-by-2031-amazon-web-services-inc-cisco-systems-inc-complyadvantage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amarketplaceresearch.com/wp-content/uploads/2022/08/AI-in-Fintech-Market.png",
+          "width": 847,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T01:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass.md",
+      "title": "MLOps at the edge with Amazon SageMaker Edge Manager and AWS IoT Greengrass",
+      "excerpt": "Internet of Things (IoT) has enabled customers in multiple industries, such as manufacturing, automotive, and energy, to monitor and control real-world environments. By deploying a variety of edge IoT devices such as cameras, thermostats, and sensors, you can collect data, send it to the cloud, and build",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/mlops-at-the-edge-with-amazon-sagemaker-edge-manager-and-aws-iot-greengrass/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/08/mlops-at-edge.jpg",
+          "width": 1325,
+          "height": 662,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T09:48:21-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-08-veritone-creates-ai-driven-revenue-opportunities-on-aws.md",
+      "title": "Veritone creates AI-driven revenue opportunities on AWS",
+      "excerpt": "Veritone, the creator of aiWARE, a hyper-expansive enterprise Artificial Intelligence (AI) platform, has announced an extension of its work with Amazon and Amazon Web Services (AWS) to support its media and entertainment customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.intelligentcio.com/north-america/2022/08/08/veritone-creates-ai-driven-revenue-opportunities-on-aws/",
+      "originalUrl": "https://www.intelligentcio.com/north-america/2022/08/08/veritone-creates-ai-driven-revenue-opportunities-on-aws/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.intelligentcio.com/north-america/wp-content/uploads/sites/45/2022/08/AdobeStock_452528209_Editorial_Use_Only-w.jpg",
+          "width": 1000,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "intelligentcio.com",
+        "domain": "intelligentcio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-06-riot-games-aws-reimagine-esports-with-stats-power-rankings-and-more.md",
+      "title": "Riot Games, AWS Reimagine Esports with Stats, Power Rankings, and More",
+      "excerpt": "Riot Games and Amazon Web Services (AWS) have teamed up to transform how Riot’s Esports content is created and distributed in the cloud. Riot is the first company to use AWS’s data analytics integration for Esports broadcasts to reimagine how fans experience League of Legends (LoL),",
+      "sourceUrl": null,
+      "webUrl": "https://www.avnetwork.com/news/riot-games-aws-reimagine-esports-with-stats-power-rankings-and-more",
+      "originalUrl": "https://www.avnetwork.com/news/riot-games-aws-reimagine-esports-with-stats-power-rankings-and-more",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/uHT3YVVHypGFFRubmjx3jT-1200-80.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-05T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AV Network",
+        "domain": "avnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-veritone-extends-partnership-with-aws.md",
+      "title": "Veritone Extends Partnership with AWS",
+      "excerpt": "Veritone, creator of aiWARE, a hyper-expansive enterprise artificial intelligence (AI) platform, has extended its work with Amazon and Amazon Web Services (AWS) to support its media and entertainment customers. Last year, Veritone joined the AWS for Media ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154274",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154274",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/147142-0822_SCS_UJET_480x610-ORG.png",
+          "width": 480,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-05T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-nextgen-and-aws-launch-second-security-foundations-program.md",
+      "title": "Nextgen and AWS launch second Security Foundations program",
+      "excerpt": "Nextgen Distribution and Amazon Web Services (AWS) are jointly launching the second series of their Security Foundations program, which is part of the AWS Partner Academy. Nextgen developed the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/700496/nextgen-aws-launch-second-security-foundations-program/",
+      "originalUrl": "https://www.arnnet.com.au/article/700496/nextgen-aws-launch-second-security-foundations-program/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-veritone-creates-ai-driven-revenue-opportunities-for-enterprise-media-entertainment-companies-on-aws-morningstar.md",
+      "title": "Veritone Creates AI-Driven Revenue Opportunities for Enterprise Media & Entertainment Companies on AWS | Morningstar",
+      "excerpt": "Get 7 Days Free Sign In Sign In Topics",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/business-wire/20220804005271/veritone-creates-ai-driven-revenue-opportunities-for-enterprise-media-entertainment-companies-on-aws",
+      "originalUrl": "https://www.morningstar.com/news/business-wire/20220804005271/veritone-creates-ai-driven-revenue-opportunities-for-enterprise-media-entertainment-companies-on-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T05:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-veritone-creates-ai-driven-revenue-opportunities-for-enterprise-media-entertainment-companies-on-aws.md",
+      "title": "Veritone Creates AI-Driven Revenue Opportunities for Enterprise Media & Entertainment Companies on AWS",
+      "excerpt": "a hyper-expansive enterprise artificial intelligence (AI) platform, has announced an extension of its work with Amazon (NASDAQ: AMZN) and Amazon Web Services (AWS) to support its Media ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/veritone-creates-ai-driven-revenue-opportunities-for-enterprise-media-entertainment-companies-on-aws-2022-08-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/veritone-creates-ai-driven-revenue-opportunities-for-enterprise-media-entertainment-companies-on-aws-2022-08-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-aws-and-microsoft-eye-economy-in-a-bid-to-control-cloud-cost.md",
       "title": "AWS and Microsoft eye economy in a bid to control cloud cost",
       "excerpt": "Microsoft and Amazon pledged to control costs for cloud customers during quarterly earnings calls last week, acknowledging the financial and operation strains inflation and rising interest rates have put on their customers.",
@@ -871,473 +1368,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-iron-mountain-insight-saas-platform-extends-capabilities-on-aws.md",
-      "title": "Iron Mountain InSight® SaaS Platform Extends Capabilities On AWS",
-      "excerpt": "Get 7 Days Free Sign In Sign In Topics",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20220728005349/iron-mountain-insight-saas-platform-extends-capabilities-on-aws",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20220728005349/iron-mountain-insight-saas-platform-extends-capabilities-on-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-28T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-artificial-intelligence-to-reduce-waiting-list-for-neurology-appointments.md",
-      "title": "Artificial intelligence to reduce waiting list for neurology appointments",
-      "excerpt": "The Walton Centre NHS Trust is working with Tata Consultancy Services to apply digital technology to its operation, starting with a time-saving AI chatbot.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerweekly.com/news/252523260/Artificial-intelligence-to-reduce-waiting-list-for-neurology-appointments",
-      "originalUrl": "https://www.computerweekly.com/news/252523260/Artificial-intelligence-to-reduce-waiting-list-for-neurology-appointments",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.computerweekly.com/visuals/German/article/chatbot-mobile-phone-adobe.jpg",
-          "width": 1200,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerweekly.com/news/252523260/Artificial-intelligence-to-reduce-waiting-list-for-neurology-appointments?amp=1",
-      "cdnAmpWebUrl": "https://www-computerweekly-com.cdn.ampproject.org/c/s/www.computerweekly.com/news/252523260/Artificial-intelligence-to-reduce-waiting-list-for-neurology-appointments?amp=1",
-      "publishedDateTime": "2022-07-28T01:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computer Weekly",
-        "domain": "computerweekly.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-business-intelligence-administrator-aws-at-datafin-recruitment-western-cape-cape-town.md",
-      "title": "Business Intelligence Administrator (AWS) at Datafin Recruitment – Western Cape Cape Town",
-      "excerpt": "The successful candidate must possess a suitable 3-year/NQF aligned tertiary qualification with an AWS Certification such as AWS Cloud Practitioner/AWS Solutions Architect or AWS Developer. You must have up to 6 years’ IT experience including 3 years in ...",
-      "sourceUrl": null,
-      "webUrl": "https://it-online.co.za/2022/07/28/business-intelligence-administrator-aws-at-datafin-recruitment-western-cape-cape-town/",
-      "originalUrl": "https://it-online.co.za/2022/07/28/business-intelligence-administrator-aws-at-datafin-recruitment-western-cape-cape-town/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT-Online",
-        "domain": "it-online.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-business-intelligence-administrator-aws-at-datafin-recruitment.md",
-      "title": "Business Intelligence Administrator (AWS) at Datafin Recruitment",
-      "excerpt": "The successful candidate must possess a suitable 3-year/NQF aligned tertiary qualification with an AWS Certification such as AWS Cloud Practitioner/AWS Solutions Architect or AWS Developer. You must have up to 6 years’ IT experience including 3 years in ...",
-      "sourceUrl": null,
-      "webUrl": "https://it-online.co.za/2022/07/28/business-intelligence-administrator-aws-at-datafin-recruitment/",
-      "originalUrl": "https://it-online.co.za/2022/07/28/business-intelligence-administrator-aws-at-datafin-recruitment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT-Online",
-        "domain": "it-online.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-sense-selects-iguazio-for-ai-chatbot-automation-with-aws-snowflake-and-nvidia.md",
-      "title": "Sense Selects Iguazio for AI Chatbot Automation with AWS, Snowflake and NVIDIA",
-      "excerpt": "Iguazio, the MLOps platform provider, and Sense, a market leader in artificial intelligence (AI) driven talent engagement for recruiting, today announced that the Iguazio MLOps platform has been selected to power a wide range of AI products aimed at increasing the efficiency and scalability of Sense’s AI operations.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-artificial-intelligence-15332cff664d4f82ad60035847f28e10",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-artificial-intelligence-15332cff664d4f82ad60035847f28e10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T06:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-investment-app-delphia-names-aws-lead-scientist-andrew-arnold-as-chief-science-officer.md",
-      "title": "Investment App Delphia Names AWS Lead Scientist Andrew Arnold as Chief Science Officer",
-      "excerpt": "Get 7 Days Free Sign In Sign In Topics",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/pr-newswire/20220727ny28210/investment-app-delphia-names-aws-lead-scientist-andrew-arnold-as-chief-science-officer",
-      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20220727ny28210/investment-app-delphia-names-aws-lead-scientist-andrew-arnold-as-chief-science-officer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T05:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-cio-100-us-9-award-winning-government-it-projects.md",
-      "title": "CIO 100 US: 9 award-winning government IT projects",
-      "excerpt": "Public-sector agencies and institutions are turning to tech to streamline processes, facilitate scale and innovation, and improve the lives of those they serve.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/403501/cio-100-us-9-award-winning-government-it-projects.html",
-      "originalUrl": "https://www.cio.com/article/403501/cio-100-us-9-award-winning-government-it-projects.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/07/cio100-usa-award1200-100898713-large-100899934-orig-5.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/403501/cio-100-us-9-award-winning-government-it-projects.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/403501/cio-100-us-9-award-winning-government-it-projects.html/amp",
-      "publishedDateTime": "2022-07-27T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-aws-heres-how-our-cloud-computing-infrastructure-dealt-with-amazon-prime-day.md",
-      "title": "AWS: Here's how our cloud-computing infrastructure dealt with Amazon Prime day",
-      "excerpt": "Amazon's Prime Day is an online-buying frenzy for consumers. Here's how Amazon Web Services dealt with it. AWS has detailed how its cloud-computing infrastructure supported Amazon's huge Prime Day sales event.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/aws-heres-how-our-cloud-computing-infrastructure-dealt-with-amazon-prime-day/",
-      "originalUrl": "https://www.zdnet.com/article/aws-heres-how-our-cloud-computing-infrastructure-dealt-with-amazon-prime-day/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/6b8c0b7217d81a01ae0b961e7ac3437108bc0df3/2022/05/06/9e61669f-d64d-4a65-841d-04500f54a339/zd-cloud-computing.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/aws-heres-how-our-cloud-computing-infrastructure-dealt-with-amazon-prime-day/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/aws-heres-how-our-cloud-computing-infrastructure-dealt-with-amazon-prime-day/",
-      "publishedDateTime": "2022-07-27T01:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-amazon-facial-recognition-falsely-links-27-athletes-to-mugshots-in-aclu-study.md",
-      "title": "Amazon Facial Recognition Falsely Links 27 Athletes to Mugshots in ACLU Study",
-      "excerpt": "The Massachusetts chapter of the American Civil Liberties Union (ACLU) announced this month that Amazon’s “Rekognition” technology falsely linked the faces of 27 professional athletes in New ...",
-      "sourceUrl": null,
-      "webUrl": "https://hyperallergic.com/525209/amazon-facial-recognition-aclu/",
-      "originalUrl": "https://hyperallergic.com/525209/amazon-facial-recognition-aclu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/hyperallergic-newspack.s3.amazonaws.com/uploads/2019/10/New-England-Patriots-1000.jpg?fit=1000%2C618&quality=100&ssl=1",
-          "width": 1000,
-          "height": 618,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hyperallergic",
-        "domain": "hyperallergic.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-tiny-cars-and-big-talent-show-canadian-policymakers-the-power-of-machine-learning.md",
-      "title": "Tiny cars and big talent show Canadian policymakers the power of machine learning",
-      "excerpt": "In the end, it came down to 213 thousandths of a second! That was the difference between the two best times in the finale of the first AWS AWS DeepRacer Student Wildcard event hosted in Ottawa, Canada this May. I watched in awe as 13 students competed in a live wildcard race for the AWS […]",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/tiny-cars-and-big-talent-show-canadian-policymakers-the-power-of-machine-learning/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/tiny-cars-and-big-talent-show-canadian-policymakers-the-power-of-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/26/deepracerevents.jpg",
-          "width": 1193,
-          "height": 671,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T13:15:57-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-predict-shipment-eta-with-no-code-machine-learning-using-amazon-sagemaker-canvas.md",
-      "title": "Predict shipment ETA with no-code machine learning using Amazon SageMaker Canvas",
-      "excerpt": "Logistics and transportation companies track ETA (estimated time of arrival), which is a key metric for their business. Their downstream supply chain activities are planned based on this metric. However, delays often occur, and the ETA might differ from the product’s or shipment’s actual time of arrival",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predict-shipment-eta-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predict-shipment-eta-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/26/shipment-eta.jpg",
-          "width": 1323,
-          "height": 662,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T13:10:53-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],

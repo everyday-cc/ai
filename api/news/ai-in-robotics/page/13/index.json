@@ -2,6 +2,309 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-05-24-arv-and-varuna-launch-ai-robotics-hackathon-2022.md",
+      "title": "ARV and VARUNA launch AI & Robotics Hackathon 2022",
+      "excerpt": "Thailand's leading technology development and venture building company dedicated to leveraging cutting-edge AI & Robotics technologies, as a technology spin-off from PTTEP, an upstream national oil & gas company of Thailand,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-arv-varuna-launch-ai-robotics-hackathon-2022-/2022/05/24/9607586.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-arv-varuna-launch-ai-robotics-hackathon-2022-/2022/05/24/9607586.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1824548/ARV_Hackathon_KV.jpg",
+          "width": 400,
+          "height": 283,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T02:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-remy-robotics-exits-stealth-mode-with-launch-of-third-autonomous-robotic-kitchen.md",
+      "title": "Remy Robotics exits stealth mode with launch of third autonomous robotic kitchen",
+      "excerpt": "Pioneer in robot-enabled delivery-only restaurants expands its reach and opens to new partners to boost food operators' scalability BARCELONA, Spain, May 24, 2022 /PRNewswire/ -- Remy Robotics, a food technology startup leading the disruption of delivery-only restaurants through the use of adaptive robotics and culinary engineering,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wearegreenbay.com/business/press-releases/cision/20220524LN66199/remy-robotics-exits-stealth-mode-with-launch-of-third-autonomous-robotic-kitchen/",
+      "originalUrl": "https://www.wearegreenbay.com/business/press-releases/cision/20220524LN66199/remy-robotics-exits-stealth-mode-with-launch-of-third-autonomous-robotic-kitchen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "We Are Green Bay",
+        "domain": "wearegreenbay.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-artificial-intelligence-ai-chipset-market-demand-2022-size-share-future-growth-potential-survey-by-2030.md",
+      "title": "Artificial Intelligence (Ai) Chipset Market [DEMAND] 2022 Size, Share, Future Growth Potential Survey By 2030",
+      "excerpt": "Quadintel published a new report on the Artificial Intelligence (Ai) Chipset Market. The research report consists of thorough information about",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chipset-market-demand-2022-size-share-future-growth-potential-survey-by-2030",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chipset-market-demand-2022-size-share-future-growth-potential-survey-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/4ba28c3d33d39eec6ca39ee6ec73278277796002-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T23:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI in Healthcare",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-hondas-asimo-gets-mind-control-interface.md",
+      "title": "Honda's Asimo gets mind control interface",
+      "excerpt": "From there, we assume, it's only a matter of time before the bots learn to reverse the process, initiating a mind control link over their would-be masters. [Via Robot Gossip] All products ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/2006-05-24-hondas-asimo-gets-mind-control-interface.html",
+      "originalUrl": "https://www.engadget.com/2006-05-24-hondas-asimo-gets-mind-control-interface.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-new-massrobotics-award-to-honor-female-robotics-researchers.md",
+      "title": "New MassRobotics award to honor female robotics researchers",
+      "excerpt": "MassRobotics' The Robotics Medal recognizes the wide-ranging impact of female researchers around the development of robotics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/new-massrobotics-award-to-honor-female-robotics-researchers/",
+      "originalUrl": "https://www.therobotreport.com/new-massrobotics-award-to-honor-female-robotics-researchers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 214,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/massrobotics-the-robotics-medal.jpg",
+          "width": 635,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-autel-robotics-evo-lite.md",
+      "title": "Autel Robotics Evo Lite+",
+      "excerpt": "The Autel Robotics Evo Lite+ folding drone ... quality here simply because creators have more control with the Raw DNG format. If you don't mind a saturated look, however, the video profiles ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/drones/140524/autel-robotics-evo-lite",
+      "originalUrl": "https://uk.pcmag.com/drones/140524/autel-robotics-evo-lite",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/review/a/autel-robo/autel-robotics-evo-lite_x4p9.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-meet-13-robotics-startups-in-denmarks-beyond-beta.md",
+      "title": "Meet 13 robotics startups in Denmark’s Beyond Beta",
+      "excerpt": "The startups will receive coaching and mentoring from robotics experts and exposure through Odense Robotics during the Beyond Beta program.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/meet-13-robotics-startups-in-denmarks-beyond-beta/",
+      "originalUrl": "https://www.therobotreport.com/meet-13-robotics-startups-in-denmarks-beyond-beta/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/featured-web-beyond-beta.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-23-surgical-robotics-market-size-to-hit-us-213-billion-by-2030.md",
       "title": "Surgical Robotics Market Size to Hit US$ 21.3 Billion by 2030",
       "excerpt": "The global surgical robotics market size was valued at US$ 5.36 bn in 2021. This device enables a surgeon to perform complex surgical procedures with higher precision. They are",
@@ -1021,319 +1324,6 @@
         "AI",
         "AI in Autos",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-40.md",
-      "title": "How AI-driven robots and drones bring cognitive intelligence to Industry 4.0",
-      "excerpt": "The robots, drones and cameras that inspect machines to perform predictive maintenance and relay analog information to operations staff can now function autonomously. Even better – the longer they’re at their jobs,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/",
-      "originalUrl": "https://venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 121,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/AI_robots.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/17/how-ai-driven-robots-and-drones-bring-cognitive-intelligence-to-industry-4-0/amp/",
-      "publishedDateTime": "2022-05-17T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-bristol-robotics-start-up-signs-deal-with-energy-giant-enel.md",
-      "title": "Bristol robotics start-up signs deal with energy giant Enel",
-      "excerpt": "The company was founded by three University of Bristol graduates in 2016 and uses tech to inspect wind turbines",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-live.co.uk/technology/bristol-robotics-start-up-signs-23972623",
-      "originalUrl": "https://www.business-live.co.uk/technology/bristol-robotics-start-up-signs-23972623",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i2-prod.business-live.co.uk/incoming/article23972743.ece/ALTERNATES/s615/0_HBBRI_160522-perceptual-robotics-bristol.jpg",
-          "width": 615,
-          "height": 409,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.business-live.co.uk/technology/bristol-robotics-start-up-signs-23972623.amp",
-      "cdnAmpWebUrl": "https://www-business--live-co-uk.cdn.ampproject.org/c/s/www.business-live.co.uk/technology/bristol-robotics-start-up-signs-23972623.amp",
-      "publishedDateTime": "2022-05-16T23:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "business-live",
-        "domain": "business-live.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-the-robot-will-do-your-angioplasty-now.md",
-      "title": "The Robot Will Do Your Angioplasty Now",
-      "excerpt": "From a control station shielded against radiation ... There is no doubt in my mind that the future of interventional cardiology lies in integrating robotics.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.mddionline.com/cardiovascular/robot-will-do-your-angioplasty-now",
-      "originalUrl": "https://www.mddionline.com/cardiovascular/robot-will-do-your-angioplasty-now",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MD&M East",
-        "domain": "mddionline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-artificial-intelligence-chip-market-to-reach-1949-bn-globally-by-2030-at-374-cagr.md",
-      "title": "Artificial Intelligence Chip Market to Reach $194.9 Bn, Globally, by 2030 at 37.4% CAGR",
-      "excerpt": "Allied Market Research recently published a report, titled, “Artificial Intelligence Chip Market by Chip Type (GPU, ASIC, FPGA, CPU, and",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4-cagr",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-chip-market-to-reach-194-9-bn-globally-by-2030-at-37-4-cagr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/585f6a150862e51a16899b4f510761cac1d121fd-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI Hardware",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-16-cisce-to-introduce-robotics-ai-ml-and-data-science-curriculum-teams-up-with-iit-delhi.md",
-      "title": "CISCE to introduce robotics, AI, ML and data science curriculum, teams up with IIT-Delhi",
-      "excerpt": "Last year, the Central Board of Secondary Education collaborated with Intel to launch an artificial intelligence learning community and platform called AI Students Community.",
-      "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/cisce-to-introduce-robotics-ai-ml-and-data-science-curriculum-teams-up-with-iit-delhi/",
-      "originalUrl": "https://analyticsindiamag.com/cisce-to-introduce-robotics-ai-ml-and-data-science-curriculum-teams-up-with-iit-delhi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/05/IIT-delhi.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-16T03:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-15-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-545-in-april.md",
-      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Short Interest Up 54.5% in April",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) was the target of a significant growth in short interest in the month of April. As of April 30th ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/05/15/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-54-5-in-april/",
-      "originalUrl": "https://www.etfdailynews.com/2022/05/15/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-54-5-in-april/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks7.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/05/15/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-54-5-in-april/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/05/15/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-short-interest-up-54-5-in-april/amp/",
-      "publishedDateTime": "2022-05-15T01:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-15-students-build-a-robot-arm-you-control-with-the-wink-of-an-eye.md",
-      "title": "Students build a robot arm you control with the wink of an eye",
-      "excerpt": "Want proof that you don't need big, specialized equipment to produce a mind-controlled robot arm? Just look at a recent University of Toronto student project. Ryan Mintz and crew have created an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2014-05-15-student-wink-controlled-robot-arm.html",
-      "originalUrl": "https://www.engadget.com/2014-05-15-student-wink-controlled-robot-arm.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/uu/api/res/1.2/jgyCbMFwv7sGlh7jhgMvIw--~B/aD0zNzc7dz02MzA7YXBwaWQ9eXRhY2h5b24-/https://o.aolcdn.com/hss/storage/midas/dcf85bce8c96928ddbba456dc7bae75/200120065/u-of-t-thought-controlled-arm.jpg",
-          "width": 630,
-          "height": 377,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

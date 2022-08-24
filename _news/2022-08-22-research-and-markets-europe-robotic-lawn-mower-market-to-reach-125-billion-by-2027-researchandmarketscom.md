@@ -33,6 +33,29 @@ related:
         width: 400
         height: 400
         isCached: true
+  - title: "Urban Security Screening Market to Accrue $22.3 Bn, Globally, by 2031 at 10.1% CAGR: Allied Market Research"
+    excerpt: "Allied Market Research recently published a report, titled, \"Urban Security Screening Market by Product Type (Baggage Scanners,"
+    publishedDateTime: 2022-08-24T11:30:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/urban-security-screening-market-to-accrue-22-3-bn-globally-by-2031-at-10-1-cagr-allied-market-research-832138770.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 23
+    images:
+      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg?p=facebook"
+        width: 2000
+        height: 1046
+        isCached: true
+  - title: "The Worldwide Computer Vision in Manufacturing Industry is Expected to Reach $4.7 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The \"Computer Vision in Manufacturing Market Research Report by Product (PC-Based Vision and Smart Cameras-Based Vision), Component, Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-08-22T14:46:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-22-the-worldwide-computer-vision-in-manufacturing-industry-is-expected-to-reach-47-billion-by-2027-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "RoMFJimFa2O4ziGpa55Xu0xE5Jcnf8DvzqAx3+bwXnywUn2nxffbV5TRrW3lpp1wSYsSimlWIVMxHIRJRlXCGt2ebjU95TJK5pe390iEQ/WZI62VZ+v2CUkRmJOIKpkWnIg9CH285Nm6ffo4fPOdF0rvAQUmVGlsAvKRsp7iyBxFS8IJXkaKX07ka6qN3OJBJdPdIkUi8hzsTyGBXwVWMhp9/jPd56WvIN4H4ORmMok4oeYqkEbT1R3K6ScfRk3fTjlmr6WJfFa60cPxCbfisJ/U0HTxlZwB8ODgKlAfKR/vSQK3IK3GE1dKARKMPQkmx+Ugxu5h2YnZu/P74gib7rQmWMpbCEqcGrlqUqkLHXE=;Vo9Fuz7TwKCK3S8qih8M/g=="
 ---

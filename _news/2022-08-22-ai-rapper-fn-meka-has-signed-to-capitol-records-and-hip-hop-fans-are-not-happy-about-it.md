@@ -112,6 +112,15 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "First AI celebrity signs with major record label then gets dropped"
+    excerpt: "An Artificial Intelligence-powered rapper is now the first virtual celebrity to sign with a major record label after getting millions of views on TikTok."
+    publishedDateTime: 2022-08-24T10:33:00Z
+    webUrl: "https://www.tweaktown.com/news/88099/first-ai-celebrity-signs-with-major-record-label-then-gets-dropped/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 17
 
 secured: "vhCIN2eY8elujutIdADSNqyU1qz7vFesoVSBTPkDGkADWd0jA1tCf+26eslwmrOV4ekLcpSmz/O5Av/Szj792mI5YU2xnEwbHHJcjOwnB162klzkm/4ynYtdU2C09IEWBidNO5QuKC0282u+1hD+r9CXUUnyUOy8RoFmgs7tfL75K1Oze6ERa1zp7scgbRr03kU1qVZdaWdkVzcDRkAwCgIKwgpy7u7Kadfk7estx1bxxrgxHWyaZzTqFj/WyS1tZQv/1T2mIVz/u1EGKdp5tGW4gAKkUmurb7q7geHlct3oxpd8ER+fsaZzv6AVB1DPf3LzmSYMB98oag3l2TiWoESKO3A81MdMLzXMw+fjKEprJ7auB+r2dH9ud6YIo40x/JAqFMGg2vhqIqhe1qFcuA2K6/vIurbxb9dZAcLX80c90UXTDS2W/q5/yP5CHM2Qk0defPNlDThJiCR6WcoWMbEDJkPaOAlJVS+xC4sVrEJXlHOZImQpza3AUsfgt3FSwTplUjCj2p8n5BDlpUaL0Q==;OA3ic7jV+GOeEbZK+el6xA=="
 ---

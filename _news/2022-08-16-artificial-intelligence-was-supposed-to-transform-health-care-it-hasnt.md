@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.politico.com/dims4/default/4f273a8/2147483647/strip/true/crop/5760x3840+0+0/resize/630x420!/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fb9%2F7c%2F82577dfc4c5dae11d5816fe2da8f%2Fhealth-care-artificial-intelligence-78020.jpg"

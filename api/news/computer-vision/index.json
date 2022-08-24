@@ -158,7 +158,7 @@
       "originalUrl": "https://www.thehindu.com/sci-tech/technology/explained-delhi-polices-use-of-facial-recognition-technology/article65793897.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -189,7 +189,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
+        "AI",
+        "AWS AI"
       ]
     },
     {
@@ -326,6 +327,49 @@
       "provider": {
         "name": "The Australian",
         "domain": "theaustralian.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-drdo-develops-a-facial-recognition-system-that-can-penetrate-masks-disguise.md",
+      "title": "DRDO develops a facial recognition system that can penetrate masks, disguise",
+      "excerpt": "“The video feed received from the robot is analysed by an AI software utilising object recognition. The software detects movement and human presence automatically, generates an audio alarm and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/drdo-develops-a-facial-recognition-system-that-can-penetrate-masks-disguise-9048981.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/drdo-develops-a-facial-recognition-system-that-can-penetrate-masks-disguise-9048981.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2020/06/Face-recognition_.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/drdo-develops-a-facial-recognition-system-that-can-penetrate-masks-disguise-9048981.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/drdo-develops-a-facial-recognition-system-that-can-penetrate-masks-disguise-9048981.html/amp",
+      "publishedDateTime": "2022-08-18T01:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -786,6 +830,49 @@
       "provider": {
         "name": "beckersdental",
         "domain": "beckersdental.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-read-analogue-gauges-electronically-with-nicla-vision.md",
+      "title": "Read analogue gauges electronically with Nicla Vision",
+      "excerpt": "The system uses embedded machine learning and computer vision in order to autonomously read values and has been developed by the Zalmotek team. Nicla Vision features a powerful processor with a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geeky-gadgets.com/nicla-vision-15-08-2022/",
+      "originalUrl": "https://www.geeky-gadgets.com/nicla-vision-15-08-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.geeky-gadgets.com/wp-content/uploads/2022/08/Nicla-Vision.jpg",
+          "width": 700,
+          "height": 505,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-15T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Geeky Gadgets",
+        "domain": "geeky-gadgets.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1288,101 +1375,6 @@
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
       "publishedDateTime": "2022-08-09T23:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-computer-vision-market-2022-to-see-huge-growth-by-2029-basler-omron-keyence-national-instruments-by-vmr.md",
-      "title": "Computer Vision Market 2022 to See Huge Growth by 2029 | Basler, Omron, Keyence, National Instruments By VMR",
-      "excerpt": "New Jersey United State – The Computer Vision Market Report contains key market data, new trends, product usage, and driving factors for customers and competitors. This excellent market report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/computer-vision-market-2022-to-see-huge-growth-by-2029-basler-omron-keyence-national-instruments-by-vmr",
-      "originalUrl": "https://www.digitaljournal.com/pr/computer-vision-market-2022-to-see-huge-growth-by-2029-basler-omron-keyence-national-instruments-by-vmr",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/58367ef44d2678d0579a5fa3c510df3b6b4d6737-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-object-recognition-imaging-systems-market-2022-covid-19-impact-growth-factors-top-venders-and-forecast-till-2030.md",
-      "title": "Object Recognition Imaging Systems Market 2022 Covid-19 Impact, Growth Factors, Top Venders and Forecast Till 2030",
-      "excerpt": "Aug 10, 2022 (Alliance News via COMTEX) -- Key Companies Covered in the Object Recognition Imaging Systems Research are Quanergy, Xiris Automation Inc, Pieper Automation, Logos Systems Int’l ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-2022-covid-19-impact-growth-factors-top-venders-and-forecast-till-2030-2022-08-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/object-recognition-imaging-systems-market-2022-covid-19-impact-growth-factors-top-venders-and-forecast-till-2030-2022-08-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "MarketWatch",

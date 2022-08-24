@@ -2,21 +2,21 @@
   "page": 103,
   "value": [
     {
-      "path": "_news/2022-06-02-c3ai-shares-swoon-as-guidance-disappoints.md",
-      "title": "C3.ai Shares Swoon As Guidance Disappoints",
-      "excerpt": "For the July quarter, C3.ai sees revenue of $65 million to $67 million, falling well shy of the Street consensus at $74.4 million.",
+      "path": "_news/2022-06-03-clearview-ai-draws-another-fine-uk-ico-assesses-75-million-for-scraping-of-facial-recognition-data.md",
+      "title": "Clearview AI Draws Another Fine; UK ICO Assesses £7.5 Million for Scraping of Facial Recognition Data",
+      "excerpt": "Clearview AI will be fined £7,552,800, and has been ordered to stop collecting facial recognition data in the UK and to delete all of the data it had previously collected.",
       "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/c3-ai-shares-guidance-disappoints-51654128388",
-      "originalUrl": "https://www.barrons.com/articles/c3-ai-shares-guidance-disappoints-51654128388",
+      "webUrl": "https://www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/",
+      "originalUrl": "https://www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 71,
       "tags": null,
       "images": [
         {
-          "url": "https://images.barrons.com/im-449799/social",
-          "width": 1280,
-          "height": 640,
+          "url": "https://www.cpomagazine.com/wp-content/uploads/2022/06/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data_1500.jpg",
+          "width": 1500,
+          "height": 860,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,13 +24,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/c3-ai-shares-guidance-disappoints-51654128388",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/c3-ai-shares-guidance-disappoints-51654128388",
-      "publishedDateTime": "2022-06-01T17:08:00-07:00",
+      "ampWebUrl": "https://www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/amp/",
+      "cdnAmpWebUrl": "https://www-cpomagazine-com.cdn.ampproject.org/c/s/www.cpomagazine.com/cyber-security/clearview-ai-draws-another-fine-uk-ico-assesses-7-5-million-for-scraping-of-facial-recognition-data/amp/",
+      "publishedDateTime": "2022-06-02T15:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
+        "name": "CPO Magazine",
+        "domain": "cpomagazine.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -40,25 +40,27 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "Computer Vision",
+        "AI",
+        "Facebook AI"
       ]
     },
     {
-      "path": "_news/2022-06-02-cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco.md",
-      "title": "Cruise can finally charge for driverless robotaxi rides in San Francisco",
-      "excerpt": "Cruise, the autonomous vehicle unit of General Motors, has finally been given the green light to start charging fares for its driverless robotaxi service in San Francisco. The California Public ...",
+      "path": "_news/2022-06-03-pinterest-acquires-ai-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec.md",
+      "title": "Pinterest acquires AI-powered shopping startup The Yes, co-founded by former Stitch Fix exec",
+      "excerpt": "As Pinterest sets its eyes on improving the online shopping experience on its platform, the company announced this afternoon it’s acquiring the AI-powered shopping service for fashion known as The Yes,",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/02/cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco/",
-      "originalUrl": "https://techcrunch.com/2022/06/02/cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco/",
+      "webUrl": "https://techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec/",
+      "originalUrl": "https://techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 166,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Screen-Shot-2022-06-03-at-10.25.00-am.png",
-          "width": 723,
-          "height": 404,
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/the-yes.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -66,9 +68,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/02/cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/02/cruise-can-finally-charge-for-driverless-robotaxi-rides-in-san-francisco/amp/",
-      "publishedDateTime": "2022-06-01T17:00:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/02/pinterest-acquires-a-i-powered-shopping-startup-the-yes-co-founded-by-former-stitch-fix-exec/amp/",
+      "publishedDateTime": "2022-06-02T14:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "TechCrunch",
@@ -91,26 +93,25 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-02-ethical-artificial-intelligence-potential-standards-for-medical-device-manufacturers.md",
-      "title": "Ethical Artificial Intelligence: Potential Standards for Medical Device Manufacturers",
-      "excerpt": "While artificial intelligence (AI) has the potential to revolutionize a number of industries, the technology isn’t without its controversies. Over the past few years, researchers and developers have raised concerns around the potential impacts of ...",
+      "path": "_news/2022-06-03-traffic-noise-around-primary-schools-slows-cognitive-development-in-children-study-warns.md",
+      "title": "Traffic noise around primary schools slows cognitive development in children, study warns",
+      "excerpt": "To study possible effects on cognitive development, the team assessed two abilities that develop rapidly during preadolescence and are essential for learning and success in school — attention ...",
       "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/industry/ethical-artificial-intelligence-potential-standards-medical-device-manufacturers",
-      "originalUrl": "https://www.designnews.com/industry/ethical-artificial-intelligence-potential-standards-medical-device-manufacturers",
+      "webUrl": "https://www.express.co.uk/news/science/1620050/traffic-noise-around-primary-schools-slows-cognitive-development-children-attention-memory",
+      "originalUrl": "https://www.express.co.uk/news/science/1620050/traffic-noise-around-primary-schools-slows-cognitive-development-children-attention-memory",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.designnews.com/sites/designnews.com/files/artificial-intelligence-3382507_640-3_web.jpg",
-          "width": 770,
-          "height": 400,
+          "url": "https://cdn.images.express.co.uk/img/dynamic/151/590x/road-noise-top-1620050.jpg?r=1654202340687",
+          "width": 590,
+          "height": 350,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -118,57 +119,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T17:00:00-07:00",
+      "ampWebUrl": "https://www.express.co.uk/news/science/1620050/traffic-noise-around-primary-schools-slows-cognitive-development-children-attention-memory/amp",
+      "cdnAmpWebUrl": "https://www-express-co-uk.cdn.ampproject.org/c/s/www.express.co.uk/news/science/1620050/traffic-noise-around-primary-schools-slows-cognitive-development-children-attention-memory/amp",
+      "publishedDateTime": "2022-06-02T14:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-microsoft-leverages-fpgas-for-real-time-ai.md",
-      "title": "Microsoft Leverages FPGAs for Real-Time AI",
-      "excerpt": "Microsoft already enjoys a widely distributed FPGA infrastructure thanks to its data centers and services like its search engine ... of course, Microsoft's Cognitive Toolkit. When run on Intel Stratix 10 FPGAs Microsoft's Project Brainwave performed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/microsoft-leverages-fpgas-real-time-ai",
-      "originalUrl": "https://www.designnews.com/electronics-test/microsoft-leverages-fpgas-real-time-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Hot-Chips-Stratix-10-board-1-.jpg",
-          "width": 1044,
-          "height": 403,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
+        "name": "Daily Express",
+        "domain": "express.co.uk",
         "images": null,
         "publishers": null,
         "authors": null
@@ -183,141 +140,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-02-self-driving-cars-reliability-challenges-solutions-and-social-adoption.md",
-      "title": "Self-Driving Cars: Reliability Challenges, Solutions, and Social Adoption",
-      "excerpt": "Manish Gupta is working on making self-driving cars, machine learning, and artificial intelligence safer and more reliable. (Image source: Manish Gupta) The strict reliability standards are critical for human safety and to help drive social acceptance of ...",
+      "path": "_news/2022-06-03-oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases.md",
+      "title": "Oregon dropping AI tool used to help decide child abuse cases",
+      "excerpt": "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions.",
       "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/self-driving-cars-reliability-challenges-solutions-and-social-adoption",
-      "originalUrl": "https://www.designnews.com/electronics-test/self-driving-cars-reliability-challenges-solutions-and-social-adoption",
+      "webUrl": "https://www.pbs.org/newshour/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
+      "originalUrl": "https://www.pbs.org/newshour/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/01-Manish_GUPTA_0.jpg",
-          "width": 1449,
-          "height": 1449,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-the-battle-of-ai-processors-begins-in-2018.md",
-      "title": "The Battle of AI Processors Begins in 2018",
-      "excerpt": "Are GPU's Destined for AI? Which brings us to GPUs. Call it a happy accident or serendipity. But GPU makers have found themselves holding the technology that could be at the forefront of the AI revolution. Once thought of as a complementary unit to CPUs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/battle-ai-processors-begins-2018",
-      "originalUrl": "https://www.designnews.com/electronics-test/battle-ai-processors-begins-2018",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-cloud-ai-chip-market-size-and-share-2022-global-industry-dynamics-growth-analysis-solution-and-services-report-by-forecast-2028.md",
-      "title": "Cloud AI Chip Market Size and Share 2022: Global Industry Dynamics, Growth Analysis, Solution and Services Report by Forecast 2028",
-      "excerpt": "Jun 01, 2022 (Heraldkeepers) -- The Cloud AI Chip market report gives a complete analysis of the market’s pandemic. This information contains, among other things, the present influence on ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/cloud-ai-chip-market-size-and-share-2022-global-industry-dynamics-growth-analysis-solution-and-services-report-by-forecast-2028-2022-06-01",
-      "originalUrl": "https://www.marketwatch.com/press-release/cloud-ai-chip-market-size-and-share-2022-global-industry-dynamics-growth-analysis-solution-and-services-report-by-forecast-2028-2022-06-01",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T15:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-google-bans-deepfake-generating-ai-from-colab.md",
-      "title": "Google bans deepfake-generating AI from Colab",
-      "excerpt": "In a recent policy change, Google has banned deepfake-generating AI projects from Colab, its platform for hosting and running arbitrary Python code.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/01/2328459/",
-      "originalUrl": "https://techcrunch.com/2022/06/01/2328459/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/07/GettyImages-1207206237.jpg?w=1024",
+          "url": "https://d3i6fh83elv35t.cloudfront.net/static/2018/07/DarkWeb-1024x682.jpg",
           "width": 1024,
-          "height": 683,
+          "height": 682,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -325,64 +162,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/01/2328459/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/01/2328459/amp/",
-      "publishedDateTime": "2022-06-01T14:51:00-07:00",
+      "ampWebUrl": "https://www.pbs.org/newshour/amp/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
+      "cdnAmpWebUrl": "https://www-pbs-org.cdn.ampproject.org/c/s/www.pbs.org/newshour/amp/nation/oregon-dropping-ai-tool-used-to-help-decide-child-abuse-cases",
+      "publishedDateTime": "2022-06-02T14:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-laredoan-leads-self-driving-car-racing-team.md",
-      "title": "Laredoan leads self-driving car racing team",
-      "excerpt": "When Cindy Heredia gets her MBA, she will have been part of a team which ran a car around a race track at 200 miles per hour with no one in it. Hopefully, at least. The 2013 graduate of AlexanderMIT-Pitt-RW autonomous racing team,",
-      "sourceUrl": null,
-      "webUrl": "https://www.lmtonline.com/sports/article/Laredoan-leads-self-driving-car-racing-team-17212271.php",
-      "originalUrl": "https://www.lmtonline.com/sports/article/Laredoan-leads-self-driving-car-racing-team-17212271.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.hdnux.com/photos/01/26/00/63/22547674/3/rawImage.jpg",
-          "width": 1536,
-          "height": 2048,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.lmtonline.com/sports/amp/Laredoan-leads-self-driving-car-racing-team-17212271.php",
-      "cdnAmpWebUrl": "https://www-lmtonline-com.cdn.ampproject.org/c/s/www.lmtonline.com/sports/amp/Laredoan-leads-self-driving-car-racing-team-17212271.php",
-      "publishedDateTime": "2022-06-01T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Laredo Morning Times",
-        "domain": "lmtonline.com",
+        "name": "PBS",
+        "domain": "pbs.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -392,26 +178,25 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-02-the-text-to-image-revolution-explained.md",
-      "title": "The text-to-image revolution, explained",
-      "excerpt": "Beginning in January 2021, advances in AI research have produced a plethora of deep-learning models capable of generating original images from simple text prompts, effectively extending the human ...",
+      "path": "_news/2022-06-03-latchbio-raises-28m-to-corral-bio-data.md",
+      "title": "LatchBio raises $28M to corral bio data",
+      "excerpt": "LatchBio's goal is to give researchers a simple, integrated tool that can analyze bio data without hiring a computer scientist.",
       "sourceUrl": null,
-      "webUrl": "https://www.vox.com/23150422/text-to-image-ai-deep-learning",
-      "originalUrl": "https://www.vox.com/23150422/text-to-image-ai-deep-learning",
+      "webUrl": "https://venturebeat.com/2022/06/02/latchbio-raises-28m-to-corral-bio-data/",
+      "originalUrl": "https://venturebeat.com/2022/06/02/latchbio-raises-28m-to-corral-bio-data/",
       "featuredContent": null,
       "highlight": null,
       "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://cdn.vox-cdn.com/thumbor/X8CftIvYJxoLOZguk3hhAr41GsM=/0x0:1920x1080/1400x1050/filters:focal(807x387:1113x693):no_upscale()/cdn.vox-cdn.com/uploads/chorus_image/image/70932893/thumb_clean.0.png",
-          "width": 1400,
-          "height": 1050,
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1213042830-e1654116197955.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -419,16 +204,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.vox.com/platform/amp/23150422/text-to-image-ai-deep-learning",
-      "cdnAmpWebUrl": "https://www-vox-com.cdn.ampproject.org/c/s/www.vox.com/platform/amp/23150422/text-to-image-ai-deep-learning",
-      "publishedDateTime": "2022-06-01T14:11:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2022/06/02/latchbio-raises-28m-to-corral-bio-data/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/02/latchbio-raises-28m-to-corral-bio-data/amp/",
+      "publishedDateTime": "2022-06-02T14:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Vox",
-        "domain": "vox.com",
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/vox.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -444,17 +229,61 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Finance",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy.md",
+      "title": "MCRI launches new study regarding the Apple Watch’s ECG app for children in cancer therapy",
+      "excerpt": "Murdoch Children’s Research Institute in Australia is launching a study to validate Apple Watch’s ECG application in children during and after cancer therapy, according to MyHealthyApple. Murdoch Chil",
+      "sourceUrl": null,
+      "webUrl": "https://www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/",
+      "originalUrl": "https://www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mactech.com/wp-content/uploads/2022/06/Apple-Watch-ECG-883x1024.jpg",
+          "width": 883,
+          "height": 1024,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/amp/",
+      "cdnAmpWebUrl": "https://www-mactech-com.cdn.ampproject.org/c/s/www.mactech.com/2022/06/02/mcri-launches-new-study-regarding-the-apple-watchs-ecg-app-for-children-in-cancer-therapy/amp/",
+      "publishedDateTime": "2022-06-02T13:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacTech",
+        "domain": "mactech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-02-snowflake-vs-databricks-data-platform-comparison-2022.md",
-      "title": "Snowflake vs. Databricks: Data Platform Comparison 2022",
-      "excerpt": "The comparison between data platforms Snowflake and Databricks is crucial for today’s business, because data analytics and data management are now deeply essential to businesses",
+      "path": "_news/2022-06-03-children-who-attend-schools-with-more-traffic-noise-show-slower-cognitive-development.md",
+      "title": "Children who attend schools with more traffic noise show slower cognitive development",
+      "excerpt": "In order to assess the possible impact of traffic noise on cognitive development, the researchers focused on two abilities that develop rapidly during preadolescence and are essential for learning ...",
       "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/snowflake-vs-databricks/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/snowflake-vs-databricks/",
+      "webUrl": "https://www.sciencedaily.com/releases/2022/06/220602140809.htm",
+      "originalUrl": "https://www.sciencedaily.com/releases/2022/06/220602140809.htm",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -464,14 +293,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T13:36:00-07:00",
+      "publishedDateTime": "2022-06-02T13:22:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
+        "name": "Science Daily",
+        "domain": "sciencedaily.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -492,21 +321,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-02-c3ai-plunges-as-after-q4-loss-widens-sees-sales-slowdown-in-2023.md",
-      "title": "C3.ai plunges as after Q4 loss widens, sees sales slowdown in 2023",
-      "excerpt": "C3.ai (AI) shares plunged 20% in after-hours trading after the enterprise software company posted mixed fourth-quarter results and said sales for fiscal 2023 would come in",
+      "path": "_news/2022-06-03-aws-and-amazon-sagemaker-c-the-commercialization-of-machine-learning-services.md",
+      "title": "AWS and Amazon SageMaker (C): The Commercialization of Machine Learning Services",
+      "excerpt": "Lakhani, Karim R., Shane Greenstein, and Kerry Herman. \"AWS and Amazon SageMaker (C): The Commercialization of Machine Learning Services.\" Harvard Business School Supplement 622-087, May 2022.",
       "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/news/3844745-c3ai-plunges-as-after-q4-loss-widens-sees-sales-slowdown-in-2023",
-      "originalUrl": "https://seekingalpha.com/news/3844745-c3ai-plunges-as-after-q4-loss-widens-sees-sales-slowdown-in-2023",
+      "webUrl": "https://www.hbs.edu/faculty/Pages/item.aspx?num=62416",
+      "originalUrl": "https://www.hbs.edu/faculty/Pages/item.aspx?num=62416",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1347310666/image_1347310666.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 422,
+          "url": "https://www.hbs.edu/Style%20Library/api/headshot.aspx?id=240491",
+          "width": 440,
+          "height": 464,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -516,11 +345,227 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T13:30:00-07:00",
+      "publishedDateTime": "2022-06-02T12:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
+        "name": "Harvard Business School",
+        "domain": "hbs.edu",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-traffic-noise-may-impair-childrens-cognitive-development-study.md",
+      "title": "Traffic noise may impair children’s cognitive development: study",
+      "excerpt": "“Our study supports the hypothesis that childhood is a vulnerable period during which external stimuli such as noise can affect the rapid process of cognitive development that takes place before ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/equilibrium-sustainability/3509834-traffic-noise-may-impair-childrens-cognitive-development-study/",
+      "originalUrl": "https://thehill.com/policy/equilibrium-sustainability/3509834-traffic-noise-may-impair-childrens-cognitive-development-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/04/traffic_infrastructure_033017gn3_lead.jpg?w=1280",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/equilibrium-sustainability/3509834-traffic-noise-may-impair-childrens-cognitive-development-study/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/equilibrium-sustainability/3509834-traffic-noise-may-impair-childrens-cognitive-development-study/amp/",
+      "publishedDateTime": "2022-06-02T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-midlife-insomnia-tied-to-later-cognitive-problems.md",
+      "title": "Midlife Insomnia Tied to Later Cognitive Problems",
+      "excerpt": "THURSDAY, June 2, 2022 (HealthDay News) -- Severe insomnia symptoms in midlife are associated with worse cognitive function in retired individuals, according to a study published online April 28 ...",
+      "sourceUrl": null,
+      "webUrl": "https://siouxcityjournal.com/lifestyles/health-med-fit/midlife-insomnia-tied-to-later-cognitive-problems/article_44e4bc1d-b6ff-5f2f-8215-aa9764537acf.html",
+      "originalUrl": "https://siouxcityjournal.com/lifestyles/health-med-fit/midlife-insomnia-tied-to-later-cognitive-problems/article_44e4bc1d-b6ff-5f2f-8215-aa9764537acf.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/2/c5/2c5952d1-d27a-5df3-bfeb-9e3d6971678c/629901ee7d3de.image.jpg?crop=600%2C315%2C0%2C11&resize=600%2C315&order=crop%2Cresize",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sioux City Journal",
+        "domain": "siouxcityjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-merge-cells-and-column-headers-in-amazon-textract-tables.md",
+      "title": "Merge cells and column headers in Amazon Textract tables",
+      "excerpt": "Financial documents such as bank, loan, or mortgage statements are often formatted to be visually appealing and easy to read for the human eye. These same features can also make automated processing challenging at times. For instance, in the following sample statement, merging rows or columns in a table",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/merge-cells-and-column-headers-in-amazon-textract-tables/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/merge-cells-and-column-headers-in-amazon-textract-tables/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T11:37:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-oregon-dropping-ai-tool-used-in-child-abuse-cases.md",
+      "title": "Oregon dropping AI tool used in child abuse cases",
+      "excerpt": "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nhregister.com/news/article/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php",
+      "originalUrl": "https://www.nhregister.com/news/article/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.hdnux.com/photos/01/26/01/67/22552019/3/ratio3x2_400.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nhregister.com/news/amp/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php",
+      "cdnAmpWebUrl": "https://www-nhregister-com.cdn.ampproject.org/c/s/www.nhregister.com/news/amp/Oregon-dropping-AI-tool-used-in-child-abuse-cases-17214780.php",
+      "publishedDateTime": "2022-06-02T11:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Haven Register",
+        "domain": "nhregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-artificial-intelligence-societal-impact-and-the-future-of-education.md",
+      "title": "Artificial Intelligence, Societal Impact, and the Future of Education",
+      "excerpt": "Siddhartha Paul Tiwari Today, investing in artificial intelligence (AI) has the potential to address some of the biggest challenges facing the education industry. The technology can be used to introduce innovative teaching and learning practices,",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/",
+      "originalUrl": "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/uploads/2022/06/Screenshot-2022-06-02-210508.jpg",
+          "width": 471,
+          "height": 354,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-societal-impact-and-the-future-of-education/amp/",
+      "publishedDateTime": "2022-06-02T09:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -531,16 +576,17 @@
       ],
       "topics": [
         "AI",
-        "AI in Sales"
+        "AI in Education",
+        "AI in Healthcare"
       ]
     },
     {
-      "path": "_news/2022-06-02-zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace.md",
-      "title": "Zeta Marketing Platform Becomes the First Marketing Cloud Available in AWS Marketplace",
-      "excerpt": "“AWS and Zeta are delivering a simplified and effective ... and unstructured data points to predict consumer intent by leveraging sophisticated artificial intelligence to personalize experiences at scale. Founded in 2007 by David A.",
+      "path": "_news/2022-06-02-vhc-health-becomes-first-health-system-in-dmv-to-utilize-certify-healths-facial-recognition-technology.md",
+      "title": "VHC Health Becomes First Health System in DMV to Utilize CERTIFY Health’s Facial Recognition Technology",
+      "excerpt": "CERTIFY Health is excited to announce that VHC Health (VHC), a community-based health system providing medical services to the Washington, DC metropolitan area, will be implementing its positive patient identification (PPID) using facial biometrics at all VHC locations,",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace/article_d92aff26-0c18-5f19-a4ad-fe75fef25e43.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace/article_d92aff26-0c18-5f19-a4ad-fe75fef25e43.html",
+      "webUrl": "https://www.joplinglobe.com/region/national_business/vhc-health-becomes-first-health-system-in-dmv-to-utilize-certify-health-s-facial-recognition/article_07286e3f-7769-5a4a-88d6-3bdb05535744.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/vhc-health-becomes-first-health-system-in-dmv-to-utilize-certify-health-s-facial-recognition/article_07286e3f-7769-5a4a-88d6-3bdb05535744.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -559,133 +605,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T13:27:00-07:00",
+      "publishedDateTime": "2022-06-02T08:36:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Joplin Globe",
         "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-magnetic-encoders-support-the-stabilization-control-of-a-self-balancing-two-wheeled-robotic-vehicle.md",
-      "title": "Magnetic encoders support the stabilization control of a self-balancing two-wheeled robotic vehicle",
-      "excerpt": "In the design of a self-balancing two-wheeled robotic vehicle, accurate high-speed measurement of angular rotation is a key requirement. Furthermore, the",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/magnetic-encoders-support-the-stabilization-control-of-a-self-balancing-two-wheeled-robotic-vehicle/",
-      "originalUrl": "https://www.therobotreport.com/magnetic-encoders-support-the-stabilization-control-of-a-self-balancing-two-wheeled-robotic-vehicle/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/renishaw-sponsored-featured-image-june2022.png",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T13:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-artificial-intelligence-in-platform-as-a-service-market-to-eyewitness-massive-growth-by-key-players-rainbird-ai-azure-wipro.md",
-      "title": "Artificial Intelligence in Platform as a Service Market to Eyewitness Massive Growth by key players Rainbird AI, Azure, Wipro",
-      "excerpt": "Ample Market Research published a new research report Artificial Intelligence in Platform as a Service (PaaS) market contains a clear arrangement of the declared information as pie charts, follows, the line follows,",
-      "sourceUrl": null,
-      "webUrl": "https://xaralite.com/373750/news/artificial-intelligence-in-platform-as-a-service-market-to-eyewitness-massive-growth-by-key-players-rainbird-ai-azure-wipro/",
-      "originalUrl": "https://xaralite.com/373750/news/artificial-intelligence-in-platform-as-a-service-market-to-eyewitness-massive-growth-by-key-players-rainbird-ai-azure-wipro/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T11:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "xaralite.com",
-        "domain": "xaralite.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-business-travelers-face-higher-prices-and-packed-flights-hotels.md",
-      "title": "Business travelers face higher prices, and packed flights, hotels",
-      "excerpt": "After a pandemic freeze, business travel is coming back, but upgrades to premium airline seats and hotel rooms are harder to come by and amenities have been scaled back.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/business/business-news/business-travel-returns-high-prices-packed-flights-hotels-rcna29089",
-      "originalUrl": "https://www.nbcnews.com/business/business-news/business-travel-returns-high-prices-packed-flights-hotels-rcna29089",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-03/220323-newark-liberty-intl-travelers-2021-ac-631p-857e75.jpg",
-          "width": 2500,
-          "height": 1667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna29089",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna29089",
-      "publishedDateTime": "2022-06-01T10:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -700,21 +624,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-02-azure-active-directory-logs-are-lagging-alerts-may-be-wrong-or-missing.md",
-      "title": "Azure Active Directory logs are lagging, alerts may be wrong or missing",
-      "excerpt": "\"Customers using Azure Active Directory and other downstream impacted services may experience a significant delay in availability of logging data for resources,\" the Azure status page explains. Tools including Azure Portal,",
+      "path": "_news/2022-06-02-evaluating-brain-mri-scans-with-the-help-of-artificial-intelligence.md",
+      "title": "Evaluating brain MRI scans with the help of artificial intelligence",
+      "excerpt": "This is where technical innovations such as artificial intelligence can offer support in interpreting clinical images. One such tool is the AI-Rad Companion Brain MR 3. Part of a family of AI-based, decision-support solutions for imaging, AI-Rad Companion ...",
       "sourceUrl": null,
-      "webUrl": "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/",
-      "originalUrl": "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/",
+      "webUrl": "https://www.technologyreview.com/2022/06/02/1052942/evaluating-brain-mri-scans-with-the-help-of-artificial-intelligence/",
+      "originalUrl": "https://www.technologyreview.com/2022/06/02/1052942/evaluating-brain-mri-scans-with-the-help-of-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 74,
       "tags": null,
       "images": [
         {
-          "url": "https://regmedia.co.uk/2021/05/25/azure.jpg",
-          "width": 1000,
-          "height": 666,
+          "url": "https://wp.technologyreview.com/wp-content/uploads/2022/05/1738_U_Screen_Retusche_AIRC_16-9_1920px.jpg",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -722,13 +646,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/06/01/azure_ad_logging_problem/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/01/azure_ad_logging_problem/",
-      "publishedDateTime": "2022-06-01T10:02:00-07:00",
+      "ampWebUrl": "https://www.technologyreview.com/2022/06/02/1052942/evaluating-brain-mri-scans-with-the-help-of-artificial-intelligence/amp/",
+      "cdnAmpWebUrl": "https://www-technologyreview-com.cdn.ampproject.org/c/s/www.technologyreview.com/2022/06/02/1052942/evaluating-brain-mri-scans-with-the-help-of-artificial-intelligence/amp/",
+      "publishedDateTime": "2022-06-02T08:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
+        "name": "MIT Technology Review",
+        "domain": "technologyreview.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -738,40 +662,31 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI"
+        "AI",
+        "AI in Healthcare"
       ]
     },
     {
-      "path": "_news/2022-06-01-invia-robotics-wins-the-2022-technology-innovation-goods-to-person-robotics-award-from-frost-sullivan.md",
-      "title": "inVia Robotics Wins the 2022 Technology Innovation Goods-to-Person Robotics Award from Frost & Sullivan",
-      "excerpt": "Leading eCommerce logistics Automation Company is recognized for providing innovative solutions to supply chain challenges WESTLAKE VILLAGE, Calif., June 1, 2022 /PRNewswire/ -- inVia Robotics –– a leader in eCommerce fulfillment automation systems –– has been awarded this year’s Best Practices Technology Innovation Leadership Award in the North American goods-to-person robotics market by Frost & Sullivan,",
+      "path": "_news/2022-06-02-biologically-plausible-spatiotemporal-adjustment-helps-train-deep-spiking-neural-networks.md",
+      "title": "Biologically plausible spatiotemporal adjustment helps train deep spiking neural networks",
+      "excerpt": "Spiking neural networks (SNNs) capture the most important aspects of brain information processing. They are considered a promising approach for next-generation artificial intelligence. However ...",
       "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-robotics-caa17338884ab022e55ec35c9121a2fa",
-      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-robotics-caa17338884ab022e55ec35c9121a2fa",
+      "webUrl": "https://www.eurekalert.org/news-releases/954275",
+      "originalUrl": "https://www.eurekalert.org/news-releases/954275",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T09:34:00-07:00",
+      "publishedDateTime": "2022-06-02T08:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -781,26 +696,68 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "Machine Learning",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-01-automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda.md",
-      "title": "Automate vending Amazon SageMaker notebooks with Amazon EventBridge and AWS Lambda",
-      "excerpt": "Having an environment capable of delivering Amazon SageMaker notebook instances quickly allows data scientists and business analysts to efficiently respond to organizational needs. Data is the lifeblood of an organization, and analyzing that data efficiently provides useful insights for businesses. A",
+      "path": "_news/2022-06-02-oral-bs-toothbrush-uses-ai-to-grade-your-teeth-brushing-habits.md",
+      "title": "Oral-B's toothbrush uses AI to grade your teeth brushing habits",
+      "excerpt": "Your teeth might not be the first thing you think about when it comes to a beauty routine. But you, like most of us, are probably in constant pursuit of a healthy and pearly white smile. Enter: the Oral-B iO Series 9 toothbrush,",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda/",
+      "webUrl": "https://mashable.com/article/oral-b-io-series-9-ai-toothbrush-review",
+      "originalUrl": "https://mashable.com/article/oral-b-io-series-9-ai-toothbrush-review",
       "featuredContent": null,
       "highlight": null,
-      "heat": 98,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/26/ML-5603-image001.png",
-          "width": 811,
-          "height": 441,
+          "url": "https://helios-i.mashable.com/imagery/articles/02RW1mKe0esLHwloSTAeh8Q/hero-image.fill.size_1200x675.v1654116314.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mashable.com/article/oral-b-io-series-9-ai-toothbrush-review?amp",
+      "cdnAmpWebUrl": "https://mashable-com.cdn.ampproject.org/c/s/mashable.com/article/oral-b-io-series-9-ai-toothbrush-review?amp",
+      "publishedDateTime": "2022-06-02T08:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-artificial-intelligence-ai-in-healthcare-market-to-see-major-growth-by-2028-medtronic-stryker-careskore.md",
+      "title": "Artificial Intelligence (AI) in Healthcare Market to See Major Growth by 2028 | Medtronic, Stryker, Careskore",
+      "excerpt": "The Latest research study released by HTF MI “Global Artificial Intelligence (AI) in Healthcare Market” with 100+ pages of analysis on business Strategy taken up by key and emerging industry ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-healthcare-market-to-see-major-growth-by-2028-medtronic-stryker-careskore",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-healthcare-market-to-see-major-growth-by-2028-medtronic-stryker-careskore",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/14d29a7a7e47b1a888bb643ae38ecb5e6b509a72-600x337.jpg",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -810,14 +767,100 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T09:29:13-07:00",
+      "publishedDateTime": "2022-06-02T08:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-big-pharma-in-the-balance.md",
+      "title": "Big Pharma in the Balance",
+      "excerpt": "Healthcare AI company Deep Mind (a Google Health company) was in pole position followed by IBM Watson Health and Oncora Medical. However, many companies such as Babylon Health and Caption Health are waiting to jump on the podium (3). Investment in AI has ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.pharmtech.com/view/big-pharma-in-the-balance",
+      "originalUrl": "https://www.pharmtech.com/view/big-pharma-in-the-balance",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.sanity.io/images/0vv8moc6/pharmtech/ade7d5321bf41851488473972cbb2bd8c7657a95-3281x1846.png?fit=crop&auto=format",
+          "width": 3281,
+          "height": 1846,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PharmTech",
+        "domain": "pharmtech.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-biden-delivers-speech-on-gun-violence.md",
+      "title": "Biden delivers speech on gun violence",
+      "excerpt": "President Biden is delivering remarks from the White House on guns and the recent mass shootings in the country. Follow here for the latest news updates.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/us/live-news/tulsa-oklahoma-hospital-shooting-06-02-22/h_133f06b43789f44e578d30709847d1f2",
+      "originalUrl": "https://www.cnn.com/us/live-news/tulsa-oklahoma-hospital-shooting-06-02-22/h_133f06b43789f44e578d30709847d1f2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dynaimage.cdn.cnn.com/cnn/digital-images/w_900,h_599/831bde8f-89f2-459f-a376-e73bcad44a7c.jpg",
+          "width": 900,
+          "height": 599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/us/live-news/tulsa-oklahoma-hospital-shooting-06-02-22/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/us/live-news/tulsa-oklahoma-hospital-shooting-06-02-22/index.html",
+      "publishedDateTime": "2022-06-02T07:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -833,26 +876,26 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-06-01-intel-arc-mobile-graphics-performance-preview-a-new-player-enters-the-gpu-game.md",
-      "title": "Intel Arc Mobile Graphics Performance Preview: A New Player Enters The GPU Game",
-      "excerpt": "I was able to not only go under the hood of an Intel Arc Graphics reference platform laptop from one of its OEM partners, but I can also now share with you an extensive array of performance metrics as well.",
+      "path": "_news/2022-06-02-state-dropping-artificial-intelligence-tool-used-in-child-abuse-cases.md",
+      "title": "State dropping artificial intelligence tool used in child abuse cases",
+      "excerpt": "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/06/01/intel-arc-mobile-graphics-performance-preview-a-new-player-enters-the-gpu-game/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/06/01/intel-arc-mobile-graphics-performance-preview-a-new-player-enters-the-gpu-game/",
+      "webUrl": "https://www.bendbulletin.com/localstate/state/oregon-dropping-ai-tool-used-in-child-abuse-cases/article_eda5bca2-a8ea-5a13-ae45-f65b86ff8a3d.html",
+      "originalUrl": "https://www.bendbulletin.com/localstate/state/oregon-dropping-ai-tool-used-in-child-abuse-cases/article_eda5bca2-a8ea-5a13-ae45-f65b86ff8a3d.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62965cf3efbd9026d0d94143/0x0.jpg?format=jpg&width=1200",
+          "url": "https://bloximages.newyork1.vip.townnews.com/bendbulletin.com/content/tncms/assets/v3/editorial/8/74/87447892-e2b7-11ec-af3a-671aa4c84ef6/629926ce936d9.image.jpg?crop=1762%2C928%2C0%2C123&resize=1200%2C632&order=crop%2Cresize",
           "width": 1200,
-          "height": 674,
+          "height": 632,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -862,7 +905,51 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T09:28:00-07:00",
+      "publishedDateTime": "2022-06-02T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bulletin",
+        "domain": "bendbulletin.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-10-ai-predictions-for-the-next-10-years.md",
+      "title": "10 AI Predictions For The Next 10 Years",
+      "excerpt": "The past several years have been an exciting period for artificial intelligence (AI). We used to think of it as science fiction, yet today, AI has become an everyday component of life. This is especially true with advances during the global pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-predictions-for-the-next-10-years/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-predictions-for-the-next-10-years/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//60a2963f177a3e9f63eec918/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 645,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-predictions-for-the-next-10-years/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/02/10-ai-predictions-for-the-next-10-years/amp/",
+      "publishedDateTime": "2022-06-02T07:15:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -870,6 +957,134 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-pcie-ai-accelerator-cards-powered-by-hailo-8-ai-processors.md",
+      "title": "PCIe AI accelerator cards powered by Hailo-8 AI processors",
+      "excerpt": "Lanner Electronics announced its first Hailo-8AI-powered PCIe accelerator card, the Falcon H8. Lanner Electronics collaborated with leading AI (Artificial Intelligence) chipmaker Hailo to design the Falcon H8,",
+      "sourceUrl": null,
+      "webUrl": "https://www.eeworldonline.com/pcie-ai-accelerator-cards-powered-by-hailo-8-ai-processors/",
+      "originalUrl": "https://www.eeworldonline.com/pcie-ai-accelerator-cards-powered-by-hailo-8-ai-processors/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eeworldonline.com/wp-content/uploads/2022/06/LinkedIn_1.jpg",
+          "width": 1200,
+          "height": 627,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eeworldonline",
+        "domain": "eeworldonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-artificial-intelligence-centered-cancer-nanomedicine-diagnostics-therapeutics-and-bioethics.md",
+      "title": "Artificial Intelligence Centered Cancer Nanomedicine: Diagnostics, Therapeutics and Bioethics",
+      "excerpt": "morality and fair access to the knowledge for possible beneficial of therapy. The book entitled “Artificial Intelligence Based Cancer Nanomedicine: Diagnostics, Therapeutics and Bioethics”.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/954670",
+      "originalUrl": "https://www.eurekalert.org/news-releases/954670",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T06:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-new-processors-make-edge-ai-more-accessible-while-cutting-power-consumption-in-half.md",
+      "title": "New processors make edge AI more accessible while cutting power consumption in half",
+      "excerpt": "Expanding on its history of delivering highly integrated processors, Texas Instruments (TI) (Nasdaq: TXN) today introduced new Sitara™ AM62 processors that help expand edge artificial intelligence (AI) processing into next-generation applications.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/new-processors-make-edge-ai-more-accessible-while-cutting-power-consumption-in-half-1031505370",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/new-processors-make-edge-ai-more-accessible-while-cutting-power-consumption-in-half-1031505370",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1831042/22_25337_AM62_Texas_Instruments.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -886,251 +1101,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-run-text-classification-with-amazon-sagemaker-jumpstart-using-tensorflow-hub-and-hugging-face-models.md",
-      "title": "Run text classification with Amazon SageMaker JumpStart using TensorFlow Hub and Hugging Face models",
-      "excerpt": "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models across popular",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-text-classification-with-amazon-sagemaker-jumpstart-using-tensorflow-hub-and-huggingface-models/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-text-classification-with-amazon-sagemaker-jumpstart-using-tensorflow-hub-and-huggingface-models/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 148,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/01/text-classification-jumpstart.jpg",
-          "width": 1000,
-          "height": 501,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T09:25:01-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Google AI",
-        "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-finish-robotics-brings-robotic-painting-to-life.md",
-      "title": "Finish Robotics Brings Robotic Painting To Life",
-      "excerpt": "Finish Robotics brings factory-level automation and productivity to the construction site. Pittsburgh, PA - Finish Robotics, a recent entrant into the",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/finish-robotics-brings-robotic-painting-to-life",
-      "originalUrl": "https://www.digitaljournal.com/pr/finish-robotics-brings-robotic-painting-to-life",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.getnews.info/uploads/d9e065ff2a5a506c56bb783399a24f49.png",
-          "width": 526,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-henson-group-and-ingram-micro-cloud-align-to-target-record-breaking-azure-sales.md",
-      "title": "Henson Group and Ingram Micro Cloud Align to Target Record-Breaking Azure Sales",
-      "excerpt": "The Henson Group, an elite Azure Expert MSP, and Ingram Micro Cloud, operator of one of the world's largest cloud marketplaces for the channel, have announced a multi-year agreement designed",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/henson-group-and-ingram-micro-cloud-align-to-target-record-breaking-azure-sales/article_e04529a6-5caf-5a1f-8d6a-c751005e5149.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/henson-group-and-ingram-micro-cloud-align-to-target-record-breaking-azure-sales/article_e04529a6-5caf-5a1f-8d6a-c751005e5149.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-resisting-the-urge-to-be-impressed-knowing-what-to-talk-about-when-we-talk-about-ai.md",
-      "title": "Resisting the urge to be impressed, knowing what to talk about when we talk about AI",
-      "excerpt": "The barrage of new AI models released by the likes of DeepMind, Google, Meta and OpenAI is intensifying. Each of them is different in some way, each of them renewing the conversation about their achievements, applications, and implications. Imagen ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
-      "originalUrl": "https://www.zdnet.com/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 102,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/728bdcace26af7271985d45af09c70fc07b98765/2021/10/18/7064a693-160b-4306-b2fa-82172337ef98/innovation-ai-automation.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
-      "publishedDateTime": "2022-06-01T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-ai-ethics-and-legal-ai-experts-greatly-alarmed-about-dual-use-ai-which-empowers-so-called-doctor-evil-projects.md",
-      "title": "AI Ethics And Legal AI Experts Greatly Alarmed About Dual-Use AI Which Empowers So-Called Doctor Evil Projects,...",
-      "excerpt": "(Answer: There is a growing push about publicizing and promulgating AI Ethics, which is one of several fronts being pursued). What types of controls or limits can be pressed into service regarding dual-use AI to aid in preventing potential societal calamities?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/01/ai-ethics-and-legal-ai-experts-greatly-alarmed-about-dual-use-ai-which-empowers-so-called-doctor-evil-projects-including-possibly-for-ai-self-driving-cars/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/01/ai-ethics-and-legal-ai-experts-greatly-alarmed-about-dual-use-ai-which-empowers-so-called-doctor-evil-projects-including-possibly-for-ai-self-driving-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6293e3735e5e40627fd631af/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/01/ai-ethics-and-legal-ai-experts-greatly-alarmed-about-dual-use-ai-which-empowers-so-called-doctor-evil-projects-including-possibly-for-ai-self-driving-cars/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/01/ai-ethics-and-legal-ai-experts-greatly-alarmed-about-dual-use-ai-which-empowers-so-called-doctor-evil-projects-including-possibly-for-ai-self-driving-cars/amp/",
-      "publishedDateTime": "2022-06-01T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

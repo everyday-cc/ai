@@ -21,6 +21,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Innodisk Announces AI Strategy with Leading Partners to Empower Intelligent Operations"
+    excerpt: "Innodisk, a global leader in industrial storage and embedded peripherals has officially announced Innodisk Group's new development"
+    publishedDateTime: 2022-08-24T10:50:00Z
+    webUrl: "https://www.prnewswire.co.uk/news-releases/innodisk-announces-ai-strategy-with-leading-partners-to-empower-intelligent-operations-878263629.html"
+    type: article
+    provider:
+      name: PR Newswire
+      domain: prnewswire.co.uk
+    quality: 29
+    images:
+      - url: "https://mma.prnewswire.com/media/1882319/PR_Photo_01.jpg?p=facebook"
+        width: 1616
+        height: 846
+        isCached: true
+
 secured: "LkXZTrhZIQaY/OQq11HPVXYsFZ2N4kXSmQHxgW8mOy/u63HjlZWh5m5E05K5kFSPre+Fw6Zx0kq+KiqlXzJwq6R+nXZipeM/Azn37Mue1PVWMFsADMXxRsLRTHnjulru+Fp50EhS2xhmfHDHfVZBCztEwTP6Wwq7djx17ClzAfgtg8JWs6QU8Q+fIcw8yuzyf+q0i5P/r8ek0VPztLhUeYoyKyFQAUfYooJjMwDUBIF3krN91T434OSCn9aqvDFHunEQXBRSQ/Dg6ZbJZ50d2PjIyv8F6dwGO6WacEuvsNOmvqpy9IPcF4Ku2kJy86eln1pHlpSh4iasekeHB8beMPhFbAVzN2XxmUUYHazQaWM=;RLcp8KGKza8gnvkO34xeaA=="
 ---
 

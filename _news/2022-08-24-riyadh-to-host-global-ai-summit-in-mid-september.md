@@ -9,7 +9,7 @@ ampWebUrl: "https://english.aawsat.com/home/article/3833841/riyadh-host-global-a
 cdnAmpWebUrl: "https://english-aawsat-com.cdn.ampproject.org/c/s/english.aawsat.com/home/article/3833841/riyadh-host-global-ai-summit-mid-september?amp"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 480
     height: 320
     isCached: true
+
+related:
+  - title: "Tech Startup ReviewReply.AI to Launch in Late September"
+    excerpt: "This is a big step forward for busy owners and operators looking to spend more time building their business without sacrificing their reputation.” ReviewReply.AI generates coherent and specific responses to incoming reviews via artificial intelligence."
+    publishedDateTime: 2022-08-24T11:53:00Z
+    webUrl: "https://www.qsrmagazine.com/news/tech-startup-reviewreplyai-launch-late-september"
+    type: article
+    provider:
+      name: QSR magazine
+      domain: qsrmagazine.com
+    quality: 37
+    images:
+      - url: "https://www.qsrmagazine.com/img-src/current-cover"
+        width: 781
+        height: 1000
+        isCached: true
 
 secured: "08y+qxXtxxGxskM2zV1J0S8ALKPARfuiM2zcpbUB+12NBUqRWsO1cP1ILKD1BAWyikzKdOhbwCzHr+kCLEjVjbe2/SinJiuS3YGUUqW2igiEYLqlBJ6PcwsrIv8uQTXrJI5a4l2GwxF8wLowj7k8FdyMjk5aGu8qRXYWLJrnmfT7dI43VgHKiy/FCY1rjBtPeQuokp+lqjXNwln2fcKjpVBP2tZkvdLyYY7ocfgysQQolQPRCQG9VQPrLsHMP1kw6RKQpJx1LkX5JQz3GHEkmoxO+zAz39NTpfgvrQEN7khSptt8c5zNy5jPB9qq79KcElyFwbT9IJq1YSVTL9Ne03n5xyJXJR8mxuUr4U9nc8A=;6dDIvIS5qwLtzOL8cb35OA=="
 ---

@@ -2,6 +2,325 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-06-06-tiny-robotic-crab-is-smallest-ever-remote-controlled-robot.md",
+      "title": "Tiny robotic crab is smallest-ever remote-controlled robot",
+      "excerpt": "In a recent study published in Science Robotics, engineers at Northwestern University have developed the smallest-ever remote-controlled walking robot -- and it comes in the form of a tiny, adorable peekytoe crab. Because the beginning of the end of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.labroots.com/trending/technology/22885/tiny-robotic-crab-smallest-ever-remote-controlled-robot-2",
+      "originalUrl": "https://www.labroots.com/trending/technology/22885/tiny-robotic-crab-smallest-ever-remote-controlled-robot-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.labroots.com/trending/technology/22885/tiny-robotic-crab-smallest-ever-remote-controlled-robot-2/amp",
+      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/22885/tiny-robotic-crab-smallest-ever-remote-controlled-robot-2/amp",
+      "publishedDateTime": "2022-06-05T11:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Labroots",
+        "domain": "labroots.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-05-technical-training-for-school-students-to-promote-robotics-ai.md",
+      "title": "Technical Training For School Students To Promote Robotics, AI",
+      "excerpt": "Learning curves have drastically shifted for school students in the past 2.5 years, owing to the Covid-19 induced challenges.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehansindia.com/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
+      "originalUrl": "https://www.thehansindia.com/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.thehansindia.com/h-upload/2022/06/04/1296068-training.jpg",
+          "width": 1200,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehansindia.com/amp/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
+      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/hans/education-careers/technical-training-for-school-students-to-promote-robotics-ai-746797",
+      "publishedDateTime": "2022-06-04T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hans India",
+        "domain": "thehansindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-artificial-intelligence-will-never-replace-these-skills.md",
+      "title": "Artificial intelligence will NEVER replace THESE skills",
+      "excerpt": "According to a McKinsey report, depending on the adoption scenario, automation will displace between 400 and 800 million jobs by 2030.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dnaindia.com/technology/report-artificial-intelligence-will-never-replace-these-skills-2957945",
+      "originalUrl": "https://www.dnaindia.com/technology/report-artificial-intelligence-will-never-replace-these-skills-2957945",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.dnaindia.com/sites/default/files/styles/half/public/2022/06/04/2139148-untitled-design-2022-06-04t160005.913.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dnaindia.com/technology/report-artificial-intelligence-will-never-replace-these-skills-2957945/amp",
+      "cdnAmpWebUrl": "https://www-dnaindia-com.cdn.ampproject.org/c/s/www.dnaindia.com/technology/report-artificial-intelligence-will-never-replace-these-skills-2957945/amp",
+      "publishedDateTime": "2022-06-04T03:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DNA India",
+        "domain": "dnaindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-agtech-robotics-firm-farmwise-just-raised-another-45-million.md",
+      "title": "Agtech robotics firm FarmWise just raised another $45 million",
+      "excerpt": "FarmWise, makers of autonomous weeding robotics, announced a $45 million raise, led by Fall Line Capital and Middleland Capital.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/",
+      "originalUrl": "https://techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 129,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2019/03/FarmWise-Robot.png?w=1024",
+          "width": 1024,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/03/agtech-robotics-firm-farmwise-just-raised-another-45-million/amp/",
+      "publishedDateTime": "2022-06-03T14:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls.md",
+      "title": "This business is deploying 40 Samsung-powered robots to roam its halls",
+      "excerpt": "Using a shared, cloud-based \"brain,\" the robots will move around three floors, delivering packages, coffee and lunch boxes to employees",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
+      "originalUrl": "https://www.zdnet.com/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/746c29f1daf507879ca69ec2c2afbb9217436925/2022/06/03/7459195f-c993-4e50-b290-c295f124b5ff/naver-package.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/this-business-is-deploying-40-samsung-powered-robots-to-roam-its-halls/",
+      "publishedDateTime": "2022-06-03T14:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-scythe-robotics-ceo-jack-morrison-discusses-autonomous-mowing.md",
+      "title": "Scythe Robotics CEO Jack Morrison discusses autonomous mowing",
+      "excerpt": "This week, we talk to Scythe Robotics CEO and Co-founder Jack Morrison about the market for commercial autonomous mowers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/scythe-robotics-ceo-jack-morrison-discusses-autonomous-mowing/",
+      "originalUrl": "https://www.therobotreport.com/scythe-robotics-ceo-jack-morrison-discusses-autonomous-mowing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/scythe-mower-featured-web.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-03T10:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-04-meet-the-researchers-revolutionizing-micro-scale-robots-for-medical-use.md",
+      "title": "Meet the researchers revolutionizing micro-scale robots for medical use",
+      "excerpt": "Northwestern University professor John Rogers led the research to invent the smallest-ever remotely controlled walking robot. Rogers explains why he, along with his team of engineers, focus on research to support real-life applications in medical fields.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/videos/business/2022/06/03/researcher-northwestern-university-smallest-robot-orig-ht.cnn-business",
+      "originalUrl": "https://www.cnn.com/videos/business/2022/06/03/researcher-northwestern-university-smallest-robot-orig-ht.cnn-business",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220603133025-smallest-robot2-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/videos/business/2022/06/03/researcher-northwestern-university-smallest-robot-orig-ht.cnn-business",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business/2022/06/03/researcher-northwestern-university-smallest-robot-orig-ht.cnn-business",
+      "publishedDateTime": "2022-06-03T10:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-04-bionic-arms-developed-at-u-move-science-fiction-into-the-realm-of-fact.md",
       "title": "Bionic Arms Developed At U Move Science-Fiction Into The Realm Of Fact",
       "excerpt": "It comes in the form of a robotic arm ... computer and the mind interact with each other, understand each other, and that will result with the patient (being) able to control the prothesis in ...",
@@ -990,319 +1309,6 @@
         "AI in Robotics",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-local-robotics-team-finishes-competition-season-with-stellar-showing.md",
-      "title": "Local robotics team finishes competition season with stellar showing",
-      "excerpt": "“We call FIRST Robotics Competition the ultimate Sport for the Mind,” the organization’s website reads ... where the Titanium Titans practice driving their robot with a remote control. Competition season kicks off in February.",
-      "sourceUrl": null,
-      "webUrl": "https://observer-reporter.com/news/localnews/local-robotics-team-finishes-competition-season-with-stellar-showing/article_2d539ea8-bc10-11ec-9128-57845c1174a7.html",
-      "originalUrl": "https://observer-reporter.com/news/localnews/local-robotics-team-finishes-competition-season-with-stellar-showing/article_2d539ea8-bc10-11ec-9128-57845c1174a7.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/observer-reporter.com/content/tncms/assets/v3/editorial/4/3d/43d33fd8-bc2b-11ec-9731-6f55b7bbde32/6258798ee1bc0.image.jpg?resize=1024%2C640",
-          "width": 1024,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://observer-reporter.com/news/localnews/local-robotics-team-finishes-competition-season-with-stellar-showing/article_2d539ea8-bc10-11ec-9128-57845c1174a7.amp.html",
-      "cdnAmpWebUrl": "https://observer--reporter-com.cdn.ampproject.org/c/s/observer-reporter.com/news/localnews/local-robotics-team-finishes-competition-season-with-stellar-showing/article_2d539ea8-bc10-11ec-9128-57845c1174a7.amp.html",
-      "publishedDateTime": "2022-05-30T20:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Observer-Reporter",
-        "domain": "observer-reporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-nwu-engineers-develop-a-tiny-remote-controlled-robot-crab.md",
-      "title": "NWU Engineers Develop A Tiny Remote-Controlled Robot Crab!",
-      "excerpt": "Northwestern University engineers have unveiled the world’s tiniest remote-controlled walking robot – a tiny robotic crab! The machine is only a half-millimeter broad and can fit on the edge of a penny with room to spare,",
-      "sourceUrl": null,
-      "webUrl": "https://www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab",
-      "originalUrl": "https://www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.electronicsforu.com/wp-contents/uploads/2022/05/Low-Res_Fig.-1D-2.jpg-e1653898568941.png",
-          "width": 500,
-          "height": 294,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab/amp",
-      "cdnAmpWebUrl": "https://www-electronicsforu-com.cdn.ampproject.org/c/s/www.electronicsforu.com/news/whats-new/nwu-engineers-develop-a-tiny-remote-controlled-robot-crab/amp",
-      "publishedDateTime": "2022-05-30T01:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electronics For You",
-        "domain": "electronicsforu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success.md",
-      "title": "Human Vs. Artificial Intelligence: Why Finding The Right Balance Is Key To Success",
-      "excerpt": "In short, now that we have increasingly capable robots and artificial intelligence (AI) systems – capable of taking on tasks that were previously the sole domain of humans – it’s easier than ever for organizations to leverage intelligent machines.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//629450cfe45063944fd631b9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/05/30/human-vs-artificial-intelligence-why-finding-the-right-balance-is-key-to-success/amp/",
-      "publishedDateTime": "2022-05-29T22:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-meet-the-smallest-ever-remote-controlled-walking-robot.md",
-      "title": "Meet the smallest ever remote-controlled walking robot",
-      "excerpt": "Engineers have unveiled the smallest remote-controlled walking robot ever created - even tinier than a flea. The tiny robotic crab can \"walk, bend, twist, turn and jump\" according to engineers ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.sky.com/story/meet-the-smallest-ever-remote-controlled-walking-robot-12622380?dcmp=snt-sf-twitter",
-      "originalUrl": "https://news.sky.com/story/meet-the-smallest-ever-remote-controlled-walking-robot-12622380?dcmp=snt-sf-twitter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://e3.365dm.com/22/05/1600x900/skynews-robot-coin-tiny-crab_5785721.jpg?20220527114832",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://news.sky.com/story/amp/meet-the-smallest-ever-remote-controlled-walking-robot-12622380",
-      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/meet-the-smallest-ever-remote-controlled-walking-robot-12622380",
-      "publishedDateTime": "2022-05-29T15:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Sky",
-        "domain": "sky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-28-ranking-the-episodes-of-love-death-robots-volume-3.md",
-      "title": "Ranking the Episodes of 'Love, Death, & Robots: Volume 3'",
-      "excerpt": "Netflix’s mind-bending and ambitious anthology series Love, Death & Robots recently returned to ... army of creatures that humans can control, leading to unforeseen dangers.",
-      "sourceUrl": null,
-      "webUrl": "https://collider.com/ranking-the-episodes-of-love-death-robots-volume-3/",
-      "originalUrl": "https://collider.com/ranking-the-episodes-of-love-death-robots-volume-3/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T20:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Collider",
-        "domain": "collider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-28-ai-robotics-security-leader-aitxs-new-software-update-will-include-weapon-detection.md",
-      "title": "AI Robotics Security Leader AITX's New Software Update will Include Weapon Detection",
-      "excerpt": "AITX announced that its wholly owned subsidiary Robotic Assistance Devices, Inc. (RAD) will include gun detection",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-robotics-security-leader-aitxs-new-software-update-will-include-weapon-detection-2022-05-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-robotics-security-leader-aitxs-new-software-update-will-include-weapon-detection-2022-05-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-28-this-tiny-robotic-crab-is-the-worlds-smallest-remote-controlled-walking-robot.md",
-      "title": "This Tiny Robotic Crab Is the World’s Smallest Remote-Controlled Walking Robot",
-      "excerpt": "Engineers at Northwestern University have unveiled a tiny robotic crab that they claim is the smallest ever remote-controlled walking robot. According to the team’s new paper published Wednesday ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedailybeast.com/this-tiny-robotic-crab-is-the-worlds-smallest-remote-controlled-walking-robot",
-      "originalUrl": "https://www.thedailybeast.com/this-tiny-robotic-crab-is-the-worlds-smallest-remote-controlled-walking-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_295,w_525,x_0,y_154/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1653663548/Low-Res_Fig._1D-1.jpg_yevk1y",
-          "width": 525,
-          "height": 295,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Daily Beast",
-        "domain": "thedailybeast.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

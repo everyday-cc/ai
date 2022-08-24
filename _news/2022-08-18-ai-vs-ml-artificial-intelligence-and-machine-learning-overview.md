@@ -21,6 +21,8 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - Microsoft AI
+  - AI in Autos
 
 images:
   - url: "https://www.eweek.com/wp-content/uploads/2022/01/BMC-DSOM-Image02-800x800-1.jpg"

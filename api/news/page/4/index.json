@@ -2,6 +2,550 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-19-ceat-transforms-digitally-with-aws-iot-and-analytics.md",
+      "title": "CEAT transforms digitally with AWS IoT and analytics",
+      "excerpt": "CEAT uses Amazon Redshift, a cloud data warehouse, and Amazon SageMaker for an experimental solution. The solution automatically scans stock-keeping unit names and tyre serial numbers, registering ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/",
+      "originalUrl": "https://www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/05/Capture-75-620x400-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/lite/",
+      "publishedDateTime": "2022-08-19T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-otterai-challenger-airgram-raises-10m-to-transcribe-and-time-your-video-calls.md",
+      "title": "Otter.ai challenger Airgram raises $10M to transcribe and time your video calls",
+      "excerpt": "There’re plenty of tools out there competing to help people make their video calls breezier. Some, like voice transcription service Otter.ai, have been getting a boost from the COVID-19 pandemic and pulling in handsome investments.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/",
+      "originalUrl": "https://techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/1171660816481_.pic_.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/amp/",
+      "publishedDateTime": "2022-08-19T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-microsoft-and-map-bengaluru-develop-new-ai-powered-platform.md",
+      "title": "Microsoft and MAP, Bengaluru, Develop New AI-Powered Platform",
+      "excerpt": "Bengaluru, have developed a new artificial intelligence-powered platform for connecting artworks and cultures around the world",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399.html",
+      "originalUrl": "https://www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/08/19/1600x900/20220819_132009_0000_1660901560159_1660901569762_1660901569762.png",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399-amp.html",
+      "publishedDateTime": "2022-08-19T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-europe-artificial-intelligence-ai-in-healthcare-market-to-witness-growth-acceleration-during-2022-2027.md",
+      "title": "Europe Artificial Intelligence (AI) in Healthcare Market to Witness Growth Acceleration During 2022-2027",
+      "excerpt": "Pune, India -The artificial intelligence in healthcare market in Europe is expected to grow from US$ 1,368.59 million in",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-ai-in-healthcare-market-to-witness-growth-acceleration-during-2022-2027-2022-08-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-ai-in-healthcare-market-to-witness-growth-acceleration-during-2022-2027-2022-08-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-otterai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all.md",
+      "title": "Otter.ai slashes free monthly transcription minutes to 300, but opens recorder bot to all",
+      "excerpt": "There’s good news and bad news for users of the Otter.ai transcription service. The good news is that Otter Assistant — a bot that can be configured to record meetings automatically — will now be available to everyone,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/19/otter-ai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all/",
+      "originalUrl": "https://techcrunch.com/2022/08/19/otter-ai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/Otter-changes.jpg?w=680",
+          "width": 680,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/19/otter-ai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/19/otter-ai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all/amp/",
+      "publishedDateTime": "2022-08-19T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-natural-language-processing-market-nlp-demands-key-players-size-growth-trends-technology-and-forecasts-to-2027-reportsnreports.md",
+      "title": "Natural Language Processing Market (NLP) Demands, Key Players, Size, Growth, Trends, Technology and Forecasts to 2027 - ReportsnReports",
+      "excerpt": "ReportsnReports added Global Natural Language Processing (NLP) Market Report to its research database with its 336 no. of research pages report. The Natural Language Processing (NLP) Market size to grow from USD 15.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-nlp-demands-key-players-size-growth-trends-technology-and-forecasts-to-2027---reportsnreports-2022-08-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-nlp-demands-key-players-size-growth-trends-technology-and-forecasts-to-2027---reportsnreports-2022-08-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-when-we-might-meet-the-first-intelligent-machines.md",
+      "title": "When we might meet the first intelligent machines",
+      "excerpt": "LeCun’s paper on intelligent machines is defining AI like Alan Turing’s 1936 paper defined the modern digital computer.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/when-we-might-meet-the-first-intelligent-machines/",
+      "originalUrl": "https://venturebeat.com/ai/when-we-might-meet-the-first-intelligent-machines/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1323774184.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 642,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/when-we-might-meet-the-first-intelligent-machines/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/when-we-might-meet-the-first-intelligent-machines/amp/",
+      "publishedDateTime": "2022-08-18T20:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-artificial-intelligence-ai-chips-market-2022-market-growth-at-a-cagr-of-3828-to-outstrip-usd-6723166-million-till-2027.md",
+      "title": "Artificial Intelligence (AI) Chips Market 2022: Market Growth at a CAGR of 38.28% to Outstrip USD 67231.66 Million till 2027",
+      "excerpt": "Aug 19, 2022 (The Expresswire) -- Artificial Intelligence (AI) Chips Market Insight: Report on \"Artificial Intelligence (AI) Chips Market\" 2022-2027 Report helps to Development Strategy for Pre ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-market-growth-at-a-cagr-of-3828-to-outstrip-usd-6723166-million-till-2027-2022-08-19-131971136",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-market-growth-at-a-cagr-of-3828-to-outstrip-usd-6723166-million-till-2027-2022-08-19-131971136",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-ibm-ceo-fears-about-artificial-intelligence-are-not-positioned-properly.md",
+      "title": "IBM CEO: Fears About Artificial Intelligence 'Are Not Positioned Properly'",
+      "excerpt": "IBM's cognitive computer Watson has struck ... Rather than completely replacing most jobs, artificial intelligence will help complement jobs done by humans, she claimed. \"Most important, you ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thestreet.com/investing/stocks/ibm-ceo-fears-about-artificial-intelligence-are-not-positioned-properly-13956309",
+      "originalUrl": "https://www.thestreet.com/investing/stocks/ibm-ceo-fears-about-artificial-intelligence-are-not-positioned-properly-13956309",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thestreet.com/.image/c_fit%2Ccs_srgb%2Cfl_progressive%2Cq_auto:good%2Cw_620/MTY4NjQ5NjQzMjk2MDQwODU1/ibm-beats-estimates-but-devil-is-in-the-details.jpg",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thestreet.com/.amp/investing/stocks/ibm-ceo-fears-about-artificial-intelligence-are-not-positioned-properly-13956309",
+      "cdnAmpWebUrl": "https://www-thestreet-com.cdn.ampproject.org/c/s/www.thestreet.com/.amp/investing/stocks/ibm-ceo-fears-about-artificial-intelligence-are-not-positioned-properly-13956309",
+      "publishedDateTime": "2022-08-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TheStreet.com",
+        "domain": "thestreet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing.md",
+      "title": "Rad Intelligence (RAD AI) and LA HOPE DEALER Join Forces to Integrate AI-infused Street Art and Marketing",
+      "excerpt": "Press Release RAD INTELLIGENCE (RAD AI) and LA HOPE DEALER today announced the formation of a strategic partnership designed to conceive and execute authentic, purpose-driven brand campaigns through the combination of creator marketing,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing/",
+      "originalUrl": "https://venturebeat.com/business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/mms.businesswire.com/media/20220818005157/en/1547385/4/The_LA_Hope_Dealer.jpg?strip=all&ssl=1",
+          "width": 480,
+          "height": 383,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing/amp/",
+      "publishedDateTime": "2022-08-18T16:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-experts-warn-no-easy-answer-to-how-safe-self-driving-cars-should-be.md",
+      "title": "Experts warn no easy answer to how safe self-driving cars should be",
+      "excerpt": "The Centre for Data Ethics and Innovation (CDEI) report warns that it might not be enough for self-driving cars to be safer than human drivers. It suggests the public may have much higher expectations of self-driving car safety.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-62598618?at_medium=RSS&at_campaign=KARANGA",
+      "originalUrl": "https://www.bbc.com/news/technology-62598618?at_medium=RSS&at_campaign=KARANGA",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/310D/production/_126375521_selfdrivinggettyimages-928081066.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-62598618.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62598618.amp",
+      "publishedDateTime": "2022-08-18T16:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-h20ais-prashant-natarajan-on-ai-and-computer-vision.md",
       "title": "H20.ai’s Prashant Natarajan on AI and Computer Vision",
       "excerpt": "I spoke with Prashant Natarajan, VP of Strategy & Products at H2O.ai, about the development and potential of the computer vision sector, including the role of deep learning technology. As you survey the computer vision market,",
@@ -245,6 +789,50 @@
       ]
     },
     {
+      "path": "_news/2022-08-18-ring-security-flaw-could-have-allowed-hackers-to-spy-on-your-saved-videos-what-to-do.md",
+      "title": "Ring security flaw could have allowed hackers to spy on your saved videos — what to do",
+      "excerpt": "A high-severity vulnerability in Amazon’s Ring app for Android which could have allowed hackers to spy on users’ saved camera recordings has been discovered and quickly patched by the video doorbell giant.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tomsguide.com/news/ring-security-flaw-could-have-allowed-hackers-to-spy-on-your-saved-videos-what-to-do",
+      "originalUrl": "https://www.tomsguide.com/news/ring-security-flaw-could-have-allowed-hackers-to-spy-on-your-saved-videos-what-to-do",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/XKL3ytNFxq6qeBf3zNENuF-1200-80.jpg",
+          "width": 1000,
+          "height": 569,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T09:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tom's Guide",
+        "domain": "tomsguide.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-exploring-ai-ethics-and-accountability.md",
       "title": "Exploring AI ethics and accountability",
       "excerpt": "A schoolchild? The dilemma and its variants are often cited as the type of problems artificial intelligence will have to grapple with as it becomes ever more prevalent in our lives. Driverless cars, for example, will have split seconds to make exactly ...",
@@ -291,17 +879,17 @@
     {
       "path": "_news/2022-08-18-amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage.md",
       "title": "Amazon's Ring Patches Flaw That Could've Let Hackers Access Camera Footage",
-      "excerpt": "Checkmarx researchers also took their proof-of-concept attack further by showing how Amazon’s own computer vision technology, called Rekognition, could be used to help an attacker quickly sift ...",
+      "excerpt": "The flaw required Ring users with Android devices to install a malicious app. The company quietly released a patch for the problem in May.",
       "sourceUrl": null,
-      "webUrl": "https://au.pcmag.com/home-security-cameras/95736/amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage",
-      "originalUrl": "https://au.pcmag.com/home-security-cameras/95736/amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage",
+      "webUrl": "https://uk.pcmag.com/home-security-cameras/142156/amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage",
+      "originalUrl": "https://uk.pcmag.com/home-security-cameras/142156/amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://sm.pcmag.com/t/pcmag_au/news/a/amazons-ri/amazons-ring-patches-flaw-that-couldve-let-hackers-access-ca_qkxt.1200.jpg",
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/a/amazons-ri/amazons-ring-patches-flaw-that-couldve-let-hackers-access-ca_9rcq.1200.jpg",
           "width": 1200,
           "height": 675,
           "title": null,
@@ -313,7 +901,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T08:51:00-07:00",
+      "publishedDateTime": "2022-08-18T08:41:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "PC Magazine",
@@ -321,6 +909,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-ring-patched-an-android-bug-that-could-have-exposed-video-footage.md",
+      "title": "Ring patched an Android bug that could have exposed video footage",
+      "excerpt": "Amazon quietly but quickly patched a vulnerability in its Ring app that could have exposed users' camera recordings and other data, according to security firm Checkmarx. Checkmarx researchers write in a blog post that Ring's Android app,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/08/ring-patched-an-android-bug-that-could-have-exposed-video-footage/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/08/ring-patched-an-android-bug-that-could-have-exposed-video-footage/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/20201118_US_packaging_image_lifestyle_flcprogen1_pov_family_front_yard_rgb_crop-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -581,587 +1221,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-innovation-and-the-implications-of-the-chips-and-science-act-with-synopsys-ceo.md",
-      "title": "Innovation And The Implications Of The CHIPS And Science Act With Synopsys CEO",
-      "excerpt": "The CHIPS and Science Act is a comprehensive piece of legislation that will ultimately inject upwards of $280 billion into the U.S. economy, in an effort to solidify and spur growth and innovation in a number of key",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2022/08/18/innovation-and-the-implications-of-the-chips-and-science-act-with-synopsys-ceo/",
-      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2022/08/18/innovation-and-the-implications-of-the-chips-and-science-act-with-synopsys-ceo/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62fd7f0764f2cba6bbce7c7c/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 778,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2022/08/18/innovation-and-the-implications-of-the-chips-and-science-act-with-synopsys-ceo/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2022/08/18/innovation-and-the-implications-of-the-chips-and-science-act-with-synopsys-ceo/amp/",
-      "publishedDateTime": "2022-08-18T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-what-will-humanoid-robots-be-used-for-in-the-future.md",
-      "title": "What will humanoid robots be used for in the future?",
-      "excerpt": "The humanoid robot war is already raging between the United States' Tesla and China's Xiaomi. The Chinese company unveiled their AI robots",
-      "sourceUrl": null,
-      "webUrl": "https://www.citizen.co.za/lifestyle/3175680/humanoid-robots-xiamoi-cyberone/",
-      "originalUrl": "https://www.citizen.co.za/lifestyle/3175680/humanoid-robots-xiamoi-cyberone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.citizen.co.za/wp-content/uploads/2022/08/xiaomi-AI.jpg",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.citizen.co.za/lifestyle/3175680/humanoid-robots-xiamoi-cyberone/",
-      "cdnAmpWebUrl": "https://amp-citizen-co-za.cdn.ampproject.org/c/s/amp.citizen.co.za/lifestyle/3175680/humanoid-robots-xiamoi-cyberone/",
-      "publishedDateTime": "2022-08-18T06:44:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Citizen",
-        "domain": "citizen.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-artificial-intelligence-chip-market-size-worth-usd-832527-mn-by-2027-the-insight-partners.md",
-      "title": "Artificial Intelligence Chip Market Size Worth USD 83,252.7 Mn By 2027 | The Insight Partners",
-      "excerpt": "According to The Insight Partners' research, the Artificial Intelligence Chip Market to 2027 – Global Analysis and",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-mn-by-2027-the-insight-partners-2022-08-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-chip-market-size-worth-usd-832527-mn-by-2027-the-insight-partners-2022-08-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T06:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-artificial-intelligence-in-drug-discovery-market-share-size-analysis-prominent-players-and-forecast-2028.md",
-      "title": "Artificial Intelligence in Drug Discovery Market Share, Size, Analysis, Prominent Players and Forecast 2028",
-      "excerpt": "The Global Artificial Intelligence in Drug Discovery Market is poised to value USD 5740 million by 2028 end at a CAGR",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-share-size-analysis-prominent-players-and-forecast-2028-2022-08-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-share-size-analysis-prominent-players-and-forecast-2028-2022-08-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T05:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-call-to-halt-gambler-facial-recognition.md",
-      "title": "Call to halt gambler facial recognition",
-      "excerpt": "Gambling and alcohol reform advocates have called for a moratorium on facial recognition technology in pubs, bars and casinos across the country until appropriate safeguards are put in place around the increasingly affordable and widely available technology.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theaustralian.com.au/nation/call-to-halt-gambler-facial-recognition/news-story/2b0f62ff431f3cc300190b53cc8c8f02",
-      "originalUrl": "https://www.theaustralian.com.au/nation/call-to-halt-gambler-facial-recognition/news-story/2b0f62ff431f3cc300190b53cc8c8f02",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsapi.com.au/image/v1/190cc9bd208e4f03c9fbd513d32d4b72",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theaustralian.com.au/nation/call-to-halt-gambler-facial-recognition/news-story/2b0f62ff431f3cc300190b53cc8c8f02",
-      "cdnAmpWebUrl": "https://amp-theaustralian-com-au.cdn.ampproject.org/c/s/amp.theaustralian.com.au/nation/call-to-halt-gambler-facial-recognition/news-story/2b0f62ff431f3cc300190b53cc8c8f02",
-      "publishedDateTime": "2022-08-18T02:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Australian",
-        "domain": "theaustralian.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-google-uses-ai-language-models-to-improve-home-helper-robots.md",
-      "title": "Google uses AI language models to improve home helper robots",
-      "excerpt": "Researchers at Everyday Robots are tapping large-scale language models to help robots avoid misconstruing human communications in ways that might",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-uses-ai-language-models-to-improve-home-helper-robots/",
-      "originalUrl": "https://www.zdnet.com/article/google-uses-ai-language-models-to-improve-home-helper-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/767cd3eb64bfcd005e721331322b11bb282d5231/2022/08/17/41088cc8-8d87-4f6b-a8c7-049ee79fa6e6/kitchen-robot-gettyimages.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-uses-ai-language-models-to-improve-home-helper-robots/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-uses-ai-language-models-to-improve-home-helper-robots/",
-      "publishedDateTime": "2022-08-18T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-machine-learning-in-healthcare-market-next-big-thing-major-giants-deepmind-technologies-microsoft-nvidia-intel.md",
-      "title": "Machine Learning in Healthcare Market Next Big Thing | Major Giants DeepMind Technologies, Microsoft, NVIDIA, Intel",
-      "excerpt": "Advance Market Analytics published a new research publication on “Machine Learning in Healthcare Market Insights, to 2027” with 232 pages and enriched with self-explained Tables and charts in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/machine-learning-in-healthcare-market-next-big-thing-major-giants-deepmind-technologies-microsoft-nvidia-intel",
-      "originalUrl": "https://www.digitaljournal.com/pr/machine-learning-in-healthcare-market-next-big-thing-major-giants-deepmind-technologies-microsoft-nvidia-intel",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/ab7f3269651c1b7147d1916b39da6c740fd66e6c-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning",
-        "AI in Healthcare",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-mubadala-backed-ai-firm-g42-sets-up-10-bln-tech-fund.md",
-      "title": "Mubadala-backed AI firm G42 sets up $10 bln tech fund",
-      "excerpt": "Emirati artificial intelligence firm G42, chaired by the Gulf state's national security advisor, on Thursday launched a $10 billion fund to invest in late-stage technology companies. DUBAI, Aug 18 (Reuters) - Emirati artificial intelligence firm G42,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/mubadala-backed-ai-firm-g42-sets-up-%2410-bln-tech-fund",
-      "originalUrl": "https://www.nasdaq.com/articles/mubadala-backed-ai-firm-g42-sets-up-%2410-bln-tech-fund",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/mubadala-backed-ai-firm-g42-sets-up-$10-bln-tech-fund?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/mubadala-backed-ai-firm-g42-sets-up-$10-bln-tech-fund?amp",
-      "publishedDateTime": "2022-08-18T00:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-critical-analysis-baidu-nasdaqbidu-and-grom-social-enterprises-nasdaqgrom.md",
-      "title": "Critical Analysis: Baidu (NASDAQ:BIDU) and Grom Social Enterprises (NASDAQ:GROM)",
-      "excerpt": "Grom Social Enterprises (NASDAQ:GROM – Get Rating) and Baidu (NASDAQ:BIDU – Get Rating) are both computer and technology companies, but which is the superior business? We will compare the two companies based on the strength of their risk,",
-      "sourceUrl": null,
-      "webUrl": "https://www.defenseworld.net/2022/08/18/critical-analysis-baidu-nasdaqbidu-and-grom-social-enterprises-nasdaqgrom.html",
-      "originalUrl": "https://www.defenseworld.net/2022/08/18/critical-analysis-baidu-nasdaqbidu-and-grom-social-enterprises-nasdaqgrom.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T23:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Defense World",
-        "domain": "defenseworld.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-amazon-testing-new-tiktok-style-feature-on-its-app-ai-firm-says.md",
-      "title": "Amazon testing new TikTok-style feature on its app, AI firm says",
-      "excerpt": "The feature, called Inspire, allows customers to like, save and share posts of products, and purchase items directly from the feed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.whas11.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049",
-      "originalUrl": "https://www.whas11.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.whas11.com/assets/CCT/images/e3e15506-7b16-49cb-8cc1-aff6d305ea71/e3e15506-7b16-49cb-8cc1-aff6d305ea71_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049",
-      "cdnAmpWebUrl": "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049",
-      "publishedDateTime": "2022-08-17T20:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WHAS11 News",
-        "domain": "whas11.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-discovering-when-an-agent-is-present-in-a-system.md",
-      "title": "Discovering when an agent is present in a system",
-      "excerpt": "We want to build safe, aligned artificial general intelligence (AGI) systems that pursue the intended goals of its designers. Causal influence diagrams (CIDs) are a way to model decision-making situations that allow us to reason about agent incentives. By relating training setups to the incentives that",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/discovering-when-an-agent-is-present-in-a-system",
-      "originalUrl": "https://www.deepmind.com/blog/discovering-when-an-agent-is-present-in-a-system",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62fe436b27ff91584631343b_X2e5np_pjgn4n_V6ncNi4z22-oe0Ti9QTXiwgISZRqdNbgk_9EYTiMYhf799hpk6_-BhqP7MRebeIPo9GdAfZF9ntAJOy6pQnrTvSx2e72qVLzvpbldHZ51SShyWbBDopG5VEfKIV8sjBmcflHmD1OxwqyHMCTvyRg_xzMAYujIF5qIiU8yvX-9brd0.png",
-          "width": 1400,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-no-one-size-fits-all-artificial-intelligence-approach-works-for-prevention-diagnosis-or-treatment-using-precision-medicine.md",
-      "title": "No one-size-fits-all artificial intelligence approach works for prevention, diagnosis or treatment using precision medicine",
-      "excerpt": "A Rutgers analysis of dozens of artificial intelligence (AI) software programs used in precision, or personalized, medicine to prevent, diagnose and treat disease found that no program exists that can be used for all treatments.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/962274",
-      "originalUrl": "https://www.eurekalert.org/news-releases/962274",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-pm-to-visit-torres-strait-for-voice-talks.md",
-      "title": "PM to visit Torres Strait for voice talks",
-      "excerpt": "Prime Minister Anthony Albanese will meet Indigenous elders on a visit to the Torres Strait for talks on what form a voice to parliament would look like.",
-      "sourceUrl": null,
-      "webUrl": "https://thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-albanese-torres-strait/",
-      "originalUrl": "https://thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-albanese-torres-strait/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thenewdaily.com.au/wp-content/uploads/2022/07/1659093904-albanese-NT.png?resize=834%2C540",
-          "width": 834,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-albanese-torres-strait/amp/",
-      "cdnAmpWebUrl": "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-albanese-torres-strait/amp/",
-      "publishedDateTime": "2022-08-17T15:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Daily",
-        "domain": "thenewdaily.com.au",
-        "images": null,
         "publishers": null,
         "authors": null
       },

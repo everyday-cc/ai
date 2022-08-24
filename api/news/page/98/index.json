@@ -2,21 +2,21 @@
   "page": 98,
   "value": [
     {
-      "path": "_news/2022-06-06-thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-research-and-unlocking-deeper-analytical-insights.md",
-      "title": "Thermo Fisher Scientific Showcases Solutions for Accelerating Next Generation Vaccine and Therapy Research and Unlocking Deeper Analytical Insights",
-      "excerpt": "For proteomic scientists, Thermo Scientific Proteome Discoverer 3.0 software interprets data from Thermo Scientific Orbitrap mass spectrometers and applies artificial intelligence (AI), giving researchers a faster method to identify and analyze billions of ...",
+      "path": "_news/2022-06-07-phishing-attacks-will-use-powerful-text-generation-say-machine-learning-engineers.md",
+      "title": "Phishing attacks will use powerful text generation, say machine-learning engineers",
+      "excerpt": "The most basic phishing attacks in the future will come from personas with detailed web presences, machine-learning engineers with Armorblox will argue at the RSA Conference on Tuesday.",
       "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-research-and-unlocking/article_e05cd7a9-d5ba-5112-8d8a-523669037733.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-research-and-unlocking/article_e05cd7a9-d5ba-5112-8d8a-523669037733.html",
+      "webUrl": "https://www.scmagazine.com/analysis/rsac/phishing-attacks-will-use-powerful-text-generation-say-machine-learning-engineers",
+      "originalUrl": "https://www.scmagazine.com/analysis/rsac/phishing-attacks-will-use-powerful-text-generation-say-machine-learning-engineers",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
-          "width": 415,
-          "height": 539,
+          "url": "https://files.scmagazine.com/wp-content/uploads/2022/06/060622_artificial_intelligence.jpg",
+          "width": 1500,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,54 +26,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T05:17:00-07:00",
+      "publishedDateTime": "2022-06-07T05:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-were-told-ai-neural-networks-learn-the-way-humans-do-a-neuroscientist-explains-why-thats-not-the-case.md",
-      "title": "We’re told AI neural networks ‘learn’ the way humans do. A neuroscientist explains why that’s not the case",
-      "excerpt": "Most recent AI is built from artificial neural networks, or “neural nets” for short. The term “neural” is used because these networks are inspired by the human brain, in which billions of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.canadianmanufacturing.com/features/were-told-ai-neural-networks-learn-the-way-humans-do-a-neuroscientist-explains-why-thats-not-the-case/",
-      "originalUrl": "https://www.canadianmanufacturing.com/features/were-told-ai-neural-networks-learn-the-way-humans-do-a-neuroscientist-explains-why-thats-not-the-case/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.canadianmanufacturing.com/wp-content/uploads/2022/06/Neural_signaling.png",
-          "width": 640,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T04:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Canadian Manufacturing",
-        "domain": "canadianmanufacturing.com",
+        "name": "SC Media",
+        "domain": "scmagazine.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -88,19 +45,62 @@
       ]
     },
     {
-      "path": "_news/2022-06-06-conversational-ai-trends-forecasts-application-options.md",
-      "title": "Conversational AI: Trends, Forecasts, Application Options",
-      "excerpt": "Text-to-speech dictation and language translation are two ways AI can help with accessibility. This can in turn help companies reduce entry barriers and become more accessible. As can be seen from above, AI chatbots and apps can reduce time and improve ...",
+      "path": "_news/2022-06-07-next-emerging-trend-in-fintech-sector-is-neobanking-easebuzz-cto.md",
+      "title": "Next emerging trend in fintech sector is Neobanking: Easebuzz CTO",
+      "excerpt": "Software-enabled payments collection and payouts platform Easebuzz aims to speed up payment collection and reduce credit periods with a smooth end-user experience, Amit Kumar, CTO, said on Tuesday. According to Kumar,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/",
-      "originalUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/",
+      "webUrl": "https://www.daijiworld.com/news/newsDisplay?newsID=966403",
+      "originalUrl": "https://www.daijiworld.com/news/newsDisplay?newsID=966403",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//629a305769a5cdb9454fcbbb/0x0.jpg?format=jpg&width=1200",
+          "url": "https://daijiworld.ap-south-1.linodeobjects.com/Linode/images3/square_daijiworld247.jpg",
+          "width": 280,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daijiworld",
+        "domain": "daijiworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-can-a-recruiting-robot-be-ethical.md",
+      "title": "Can A Recruiting Robot Be Ethical?",
+      "excerpt": "Ethics as they relate to AI and hiring employees can be divided into 4 categories: Fairness, Accountability, Privacy and Transparency. It is my feeling that transparency should be the first priority. Without transparency there is no place to start the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/",
+      "originalUrl": "https://www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//629f30684b84f80d22b62126/0x0.jpg?format=jpg&width=1200",
           "width": 1200,
           "height": 800,
           "title": null,
@@ -110,61 +110,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesfinancecouncil/2022/06/06/conversational-ai-trends-forecasts-application-options/amp/",
-      "publishedDateTime": "2022-06-06T04:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever.md",
-      "title": "As The Society Grows Older, Will Cognitive Robotics Become More Relevant Than Ever?",
-      "excerpt": "Robots can be very relevant in elderly care, offering companionship, assistance in doing mundane tasks, feeding and cleaning the owner and more. They can be preprogrammed with instructions or have a semi or fully automated mode of operation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/06/06/as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever/",
-      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/06/06/as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//628dce5105c629476f59856e/0x0.png?format=png&width=1200",
-          "width": 1200,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/06/06/as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/06/06/as-the-society-grows-older-will-cognitive-robotics-become-more-relevant-than-ever/amp/",
-      "publishedDateTime": "2022-06-06T04:30:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/sap/2022/06/07/can-a-recruiting-robot-be-ethical/amp/",
+      "publishedDateTime": "2022-06-07T04:12:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -188,155 +136,26 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-cloud-natural-language-processing-market-2022-industry-size-trends-share-growth-analysis-and-forecast-to-2028.md",
-      "title": "Cloud Natural Language Processing Market 2022, Industry Size, Trends, Share, Growth, Analysis and Forecast to 2028",
-      "excerpt": "A New Market Study, Titled “Cloud Natural Language Processing Market Upcoming Trends, Growth Drivers and Challenges” has been featured on fusionmarketresearch. This report provides in-depth ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/cloud-natural-language-processing-market-2022-industry-size-trends-share-growth-analysis-and-forecast-to-2028",
-      "originalUrl": "https://www.digitaljournal.com/pr/cloud-natural-language-processing-market-2022-industry-size-trends-share-growth-analysis-and-forecast-to-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/14d29a7a7e47b1a888bb643ae38ecb5e6b509a72-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-from-e-commerce-to-omnichannel-consumers-drive-retails-digital-transformation-in-mea.md",
-      "title": "From e-commerce to Omnichannel, Consumers Drive Retail’s Digital Transformation in MEA",
-      "excerpt": "By Ola Williams The pandemic left little room for error when it came to adapting to the new normal. For retail this meant e-commerce experienced a renaissance, “omnichannel” received a lot of",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2022/06/06/from-e-commerce-to-omnichannel-consumers-drive-retails-digital-transformation-in-mea/",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2022/06/06/from-e-commerce-to-omnichannel-consumers-drive-retails-digital-transformation-in-mea/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/0b19560d-img-20220607-wa0004.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-ai-translates-maths-problems-into-code-to-make-them-easier-to-solve.md",
-      "title": "AI translates maths problems into code to make them easier to solve",
-      "excerpt": "An artificial intelligence that can turn mathematical concepts written in English into a formal proving language for computers could make problems easier for other AIs to solve",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2322999-ai-translates-maths-problems-into-code-to-make-them-easier-to-solve/",
-      "originalUrl": "https://www.newscientist.com/article/2322999-ai-translates-maths-problems-into-code-to-make-them-easier-to-solve/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/06/06114333/SEI_107484895.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI",
-        "Math for AI"
+        "AI Ethics"
       ]
     },
     {
-      "path": "_news/2022-06-06-how-traditional-enterprises-can-supercharge-legacy-products-and-operations-with-ai-and-wide-data.md",
-      "title": "How Traditional Enterprises Can Supercharge Legacy Products And Operations With AI And Wide Data",
-      "excerpt": "Many traditional enterprises are looking to artificial intelligence (AI) to help drive digital transformation. That might mean supercharging a company's own software or hardware products with AI capabilities that are being sold to their customer base and/or transforming their internal business processes.",
+      "path": "_news/2022-06-07-ibm-bolsters-cyber-security-offerings-with-randori-acquisition.md",
+      "title": "IBM bolsters cyber security offerings with Randori acquisition",
+      "excerpt": "IBM hopes the acquisition will advance its hybrid cloud and AI skills and capabilities. This will be its fourth acquisition of 2022 and it revealed it has acquired over 20 companies since Arvind ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/06/how-traditional-enterprises-can-supercharge-legacy-products-and-operations-with-ai-and-wide-data/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/06/how-traditional-enterprises-can-supercharge-legacy-products-and-operations-with-ai-and-wide-data/",
+      "webUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/368106/ibm-bolsters-cyber-security-offerings-with-randori-buy",
+      "originalUrl": "https://www.itpro.co.uk/business-strategy/mergers-and-acquisitions/368106/ibm-bolsters-cyber-security-offerings-with-randori-buy",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6239f1f3eb42ed971885909e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1594223123/itpro/IBM_building_shutterstock.jpg",
+          "width": 1260,
+          "height": 710,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -344,16 +163,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/06/how-traditional-enterprises-can-supercharge-legacy-products-and-operations-with-ai-and-wide-data/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/06/how-traditional-enterprises-can-supercharge-legacy-products-and-operations-with-ai-and-wide-data/amp/",
-      "publishedDateTime": "2022-06-06T03:45:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T04:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -369,25 +188,27 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "IBM AI",
+        "AI",
+        "AI in Security"
       ]
     },
     {
-      "path": "_news/2022-06-06-sex-robots-could-soon-feel-things-just-like-humans-thanks-to-creepy-ai-touch-tech.md",
-      "title": "Sex robots could soon feel things 'just like humans' thanks to creepy AI touch tech",
-      "excerpt": "A new breakthrough in 'printed skin' gives robots a sense of touch just like humans - it could make sex robots even more advanced for steaming hot romps with doll lovers in the bedroom",
+      "path": "_news/2022-06-07-video-students-of-bengaluru-school-get-brand-new-robotics-artificial-intelligence-lab.md",
+      "title": "Video | Students of Bengaluru school get brand new Robotics & Artificial Intelligence lab",
+      "excerpt": "National English School in Bengaluru has set up a Robotics and Artificial Intelligence (AI) Lab in its campus in collaboration with Intel and Sirena Technologies. The lab was inaugurated by Chief Minister Basavaraj Bommai on June 6,",
       "sourceUrl": null,
-      "webUrl": "https://www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933",
-      "originalUrl": "https://www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933",
+      "webUrl": "https://www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece",
+      "originalUrl": "https://www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 92,
       "tags": null,
       "images": [
         {
-          "url": "https://i2-prod.dailystar.co.uk/incoming/article27157316.ece/ALTERNATES/s615/0_Inside-Londons-first-sex-robot-party-where-humans-romp-with-dolls.jpg",
+          "url": "https://www.thehindu.com/news/cities/bangalore/cd54jc/article65503499.ece/alternates/LANDSCAPE_615/Robotics%20and%20Artificial%20Intelligence%20AI%20Lab%20in%20National%20High%20School%20Basavanagudi%20Bengaluru.jpg",
           "width": 615,
-          "height": 409,
+          "height": 383,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -395,13 +216,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933.amp",
-      "cdnAmpWebUrl": "https://www-dailystar-co-uk.cdn.ampproject.org/c/s/www.dailystar.co.uk/tech/news/sex-robots-could-soon-feel-27156933.amp",
-      "publishedDateTime": "2022-06-06T03:21:00-07:00",
+      "ampWebUrl": "https://www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/bangalore/video-sd-of-bengaluru-school-get-robotics-artificial-intelligence-lab/article65503486.ece/amp/",
+      "publishedDateTime": "2022-06-07T03:43:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Star",
-        "domain": "dailystar.co.uk",
+        "name": "The Hindu",
+        "domain": "thehindu.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -411,26 +232,27 @@
         "news"
       ],
       "topics": [
+        "AI",
         "AI in Robotics",
-        "AI"
+        "AI in Autos"
       ]
     },
     {
-      "path": "_news/2022-06-06-rstudio-is-now-available-on-azure-ml.md",
-      "title": "RStudio is now available on Azure ML",
-      "excerpt": "RStudio has announced a new partnership with Azure ML to deliver RStudio WorkBench on the Azure platform. RStudio, an integrated development environment (IDE) for programming language R, provides open source and enterprise-ready professional software for data science,",
+      "path": "_news/2022-06-07-defacto-a-french-fintech-startup-that-offers-loans-to-small-businesses-just-raised-16-million-using-a-15-slide-pitch-deck.md",
+      "title": "Defacto, a French fintech startup that offers loans to small businesses, just raised $16 million using a 15-slide pitch deck",
+      "excerpt": "French fintech startup Defacto has raised $16 million in fresh funding ... Defacto's products by optimizing its underwriting using business revenues, invoices, and AI. The Series A round was led by Northzone, with additional backing from previous backers ...",
       "sourceUrl": null,
-      "webUrl": "https://analyticsindiamag.com/rstudio-is-now-available-on-azure-ml/",
-      "originalUrl": "https://analyticsindiamag.com/rstudio-is-now-available-on-azure-ml/",
+      "webUrl": "https://www.businessinsider.com/defacto-french-embedded-finance-startup-raises-16m-from-northzone-2022-6",
+      "originalUrl": "https://www.businessinsider.com/defacto-french-embedded-finance-startup-raises-16m-from-northzone-2022-6",
       "featuredContent": null,
       "highlight": null,
-      "heat": 71,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/06/Untitled-design-24.png",
-          "width": 2240,
-          "height": 1260,
+          "url": "https://i.insider.com/629e27cc7bc6a80018b67f15?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -440,11 +262,54 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T02:07:00-07:00",
+      "publishedDateTime": "2022-06-07T02:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Analytics India Magazine",
-        "domain": "analyticsindiamag.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-silicon-overdrive-achieves-100-aws-certifications.md",
+      "title": "Silicon Overdrive achieves 100 AWS certifications",
+      "excerpt": "Over the past 25 years, Silicon Overdrive has gained various achievements including AWS Public Sector Partner of the Year – Sub-Saharan Africa 2021 and AWS Consulting Partner of the Year – Sub ...",
+      "sourceUrl": null,
+      "webUrl": "https://mybroadband.co.za/news/industrynews/447422-silicon-overdrive-achieves-100-aws-certifications.html",
+      "originalUrl": "https://mybroadband.co.za/news/industrynews/447422-silicon-overdrive-achieves-100-aws-certifications.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mybroadband.co.za/news/industrynews/447422-silicon-overdrive-achieves-100-aws-certifications.html/amp",
+      "cdnAmpWebUrl": "https://mybroadband-co-za.cdn.ampproject.org/c/s/mybroadband.co.za/news/industrynews/447422-silicon-overdrive-achieves-100-aws-certifications.html/amp",
+      "publishedDateTime": "2022-06-07T01:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyBroadband",
+        "domain": "mybroadband.co.za",
         "images": null,
         "publishers": null,
         "authors": null
@@ -454,113 +319,69 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1.md",
+      "title": "AMPD Signs Deal with Variational AI to Increase Its Machine Learning Platform at DC1",
+      "excerpt": "VANCOUVER, BC / ACCESSWIRE / June 6, 2022 / AMPD Ventures Inc. (CSE:AMPD) (OTCQB:AMPDF) (FRA:2Q0) ('AMPD' or the 'Company'), a next-generation digital infrastructure provider, is pleased to announce that it has signed a deal with Variational AI Inc.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/272577578/ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1",
+      "originalUrl": "https://www.bignewsnetwork.com/news/272577578/ampd-signs-deal-with-variational-ai-to-increase-its-machine-learning-platform-at-dc1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/cus1655614273766.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T19:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI",
         "Machine Learning"
       ]
     },
     {
-      "path": "_news/2022-06-06-aws-and-hkstp-announce-strategic-collaboration-to-accelerate-innovation-and-technology-development-in-hong-kong.md",
-      "title": "AWS and HKSTP Announce Strategic Collaboration to Accelerate Innovation and Technology Development in Hong Kong",
-      "excerpt": "Amazon Web Services (AWS) and Hong Kong Science and Technology Parks Corporation (HKSTP) announced a strategic collaboration today, aiming to foster a robust Innovation and Technology (I&T) ecosystem in Hong Kong.",
+      "path": "_news/2022-06-07-do-ai-systems-really-have-their-own-secret-language.md",
+      "title": "Do AI systems really have their own secret language?",
+      "excerpt": "Snoswell is a post-doctoral research fellow in Computational Law & AI Accountability at Queensland ... You may recall the hullabaloo in 2017 over some Facebook chat-bots that “invented their ...",
       "sourceUrl": null,
-      "webUrl": "https://www.kentuckytoday.com/news/business/aws-and-hkstp-announce-strategic-collaboration-to-accelerate-innovation-and-technology-development-in-hong-kong/article_64945d21-d100-57b1-8869-ee0b2c471f28.html",
-      "originalUrl": "https://www.kentuckytoday.com/news/business/aws-and-hkstp-announce-strategic-collaboration-to-accelerate-innovation-and-technology-development-in-hong-kong/article_64945d21-d100-57b1-8869-ee0b2c471f28.html",
+      "webUrl": "https://www.stuff.co.nz/technology/300607508/do-ai-systems-really-have-their-own-secret-language",
+      "originalUrl": "https://www.stuff.co.nz/technology/300607508/do-ai-systems-really-have-their-own-secret-language",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315",
-          "width": 600,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T02:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kentucky Today",
-        "domain": "kentuckytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain.md",
-      "title": "Chitti The Robot Got Competition! Indian Researcher Develops E-Skin That Can Actually Feel Pain",
-      "excerpt": "The artificial skin was developed by Ravinder Dahiya's team at the university using a novel sort of processing system based on synaptic transistors.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/32832/chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain",
-      "originalUrl": "https://in.mashable.com/tech/32832/chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/781e9c68-ff8c-4e9b-9f9f-e20bd4397e4c_95zq.620.jpg",
-          "width": 619,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/32832/chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/32832/chitti-the-robot-got-competition-indian-researcher-develops-e-skin-that-can-actually-feel-pain?amp=1",
-      "publishedDateTime": "2022-06-06T02:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-bumrungrad-launches-radiology-ai-assisting-radiologists-in-analyzing-locating-abnormalities-in-the-lungs-and-detecting-breast-cancer.md",
-      "title": "Bumrungrad launches Radiology AI--assisting radiologists in analyzing & locating abnormalities in the lungs and detecting breast cancer.",
-      "excerpt": "At present, Artificial intelligence (AI) has attracted global interest because it can analyze large amounts of data to revolutionize businesses and industries, especially in the medical sciences. Further,",
-      "sourceUrl": null,
-      "webUrl": "https://www.ryt9.com/en/prg/258881",
-      "originalUrl": "https://www.ryt9.com/en/prg/258881",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.ryt9.com/img/files/20220606/iqd2f93359617c9fd89d7e6628834b8968.jpg",
-          "width": 1200,
+          "url": "https://resources.stuff.co.nz/content/dam/images/4/y/z/2/8/g/image.related.StuffLandscapeSixteenByNine.1420x800.4yz28k.png/1654561300186.jpg",
+          "width": 1420,
           "height": 800,
           "title": null,
           "attribution": null,
@@ -571,202 +392,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-05T19:39:00-07:00",
+      "publishedDateTime": "2022-06-06T17:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "RYT9",
-        "domain": "ryt9.com",
+        "name": "Stuff.co.nz",
+        "domain": "stuff.co.nz",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-self-driving-car-market-2022-new-market-opportunities-size-share-demands-and-research-report-2030.md",
-      "title": "Self-driving Car Market 2022 New Market Opportunities Size, Share, Demands and Research Report 2030",
-      "excerpt": "Car manufacturers are investing heavily in artificial intelligence to succeed in the ... and automobile industry players (Waymo, Toyota, General Motors, Tesla, Volvo, and Nissan) The report ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-2022-new-market-opportunities-size-share-demands-and-research-report-2030-2022-06-06",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-car-market-2022-new-market-opportunities-size-share-demands-and-research-report-2030-2022-06-06",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-05T19:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.md",
-      "title": "Automating Signature Recognition Using Capgemini MLOps Pipeline on AWS",
-      "excerpt": "Signature-recognition technologies can help reduce human error, time, and limitations involved in manual verification processes. With Capgemini and AWS, creating the necessary machine learning models is easy.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/400313/automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.html",
-      "originalUrl": "https://www.cio.com/article/400313/automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/06/iStock-1322050816.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/400313/automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/400313/automating-signature-recognition-using-capgemini-mlops-pipeline-on-aws.html/amp",
-      "publishedDateTime": "2022-06-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-gut-bacterial-metabolite-promotes-neural-cell-death-leading-to-cognitive-decline.md",
-      "title": "Gut bacterial metabolite promotes neural cell death leading to cognitive decline",
-      "excerpt": "In their paper published in the journal Cell Host & Microbe, the group describes their study of the metabolite isoamylamine (IAA) and its impact on cognitive decline. Prior research has suggested ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/gut-bacterial-metaboli.jpg",
-          "width": 996,
-          "height": 996,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-gut-bacterial-metabolite-neural-cell.amp",
-      "publishedDateTime": "2022-06-05T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-roadblocks-to-getting-real-time-ai-right.md",
-      "title": "Roadblocks to getting real-time AI right",
-      "excerpt": "Specialized hedge funds and big-name AI players – like Google and Facebook – make use of real ... This makes transitions from research to production expensive and labor-intensive.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/05/roadblocks-to-getting-real-time-ai-right/",
-      "originalUrl": "https://venturebeat.com/2022/06/05/roadblocks-to-getting-real-time-ai-right/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1171820924.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 624,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/05/roadblocks-to-getting-real-time-ai-right/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/05/roadblocks-to-getting-real-time-ai-right/amp/",
-      "publishedDateTime": "2022-06-05T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },
@@ -780,21 +411,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-06-plasma-nfl-linked-with-cognitive-processing-speed-in-relapsing-ms.md",
-      "title": "Plasma NfL Linked With Cognitive Processing Speed in Relapsing MS",
-      "excerpt": "Plasma neurofilament light (NfL) concentration was tied to cognitive scores in people with relapsing MS, data from the phase III SUNBEAM trial of ozanimod (Zeposia) suggested. A post hoc analysis ...",
+      "path": "_news/2022-06-07-a-modern-ai-powered-mayflower-just-crossed-the-atlantic.md",
+      "title": "A modern AI-powered Mayflower just crossed the Atlantic",
+      "excerpt": "This robotic research vessel, which was two years in the making, sailed with no human crew and was piloted by an artificial intelligence software supplied by IBM. “After a 40-day and 3,500 ...",
       "sourceUrl": null,
-      "webUrl": "https://www.medpagetoday.com/meetingcoverage/cmsc/99068",
-      "originalUrl": "https://www.medpagetoday.com/meetingcoverage/cmsc/99068",
+      "webUrl": "https://www.popsci.com/technology/ibm-autonomous-mayflower-ocean-research/",
+      "originalUrl": "https://www.popsci.com/technology/ibm-autonomous-mayflower-ocean-research/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://assets.medpagetoday.net/media/images/99xxx/99068.jpg",
-          "width": 1600,
-          "height": 900,
+          "url": "https://www.popsci.com/uploads/2022/06/06/MAS-in-seatrials-March-2021-002-scaled.jpg?auto=webp",
+          "width": 2560,
+          "height": 1440,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -802,13 +433,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-05T13:30:00-07:00",
+      "ampWebUrl": "https://www.popsci.com/technology/ibm-autonomous-mayflower-ocean-research/?amp",
+      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/ibm-autonomous-mayflower-ocean-research/?amp",
+      "publishedDateTime": "2022-06-06T17:18:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MedPage Today",
-        "domain": "medpagetoday.com",
+        "name": "Popular Science",
+        "domain": "popsci.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -818,26 +449,26 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "IBM AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-06-people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong.md",
-      "title": "People are entering relationships with AI…but pop culture’s view is all wrong",
-      "excerpt": "AI is new, and its ability to help humans is promising. But if all you know about AI is from Hollywood, you should think again.",
+      "path": "_news/2022-06-07-amazons-ai-is-helping-the-police-watch-you.md",
+      "title": "Amazon's AI Is Helping the Police Watch You",
+      "excerpt": "Amazon markets the AI, called Rekognition, for a variety of applications from the innocuous (allowing videos to be searchable by the people and objects that appear in them) to more concerning applications, such as real-time tracking and security.",
       "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/05/people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong/",
-      "originalUrl": "https://venturebeat.com/2022/06/05/people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong/",
+      "webUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/amazons-ai-helping-police-watch-you",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-594827903.jpg?fit=800%2C403&strip=all",
-          "width": 799,
-          "height": 403,
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Traffic%20cameras.jpg",
+          "width": 1280,
+          "height": 856,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -845,9 +476,396 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/05/people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/05/people-are-entering-relationships-with-aibut-pop-cultures-view-is-all-wrong/amp/",
-      "publishedDateTime": "2022-06-05T13:20:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-googles-cloud-automl-is-an-ai-to-help-engineers-program-ai.md",
+      "title": "Google's Cloud AutoML Is An AI To Help Engineers Program AI",
+      "excerpt": "In late 2017 Google announced it had been working on AutoML (short for “automated machine learning”), a machine learning algorithm that is essentially capable of programming and training other algorithms. Now Google has introduced an alpha version of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
+      "originalUrl": "https://www.designnews.com/electronics-test/googles-cloud-automl-ai-help-engineers-program-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Google%20Cloud%20AutoML%20Vision.png",
+          "width": 1708,
+          "height": 962,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-ibm-bids-farewell-to-watson-health-assets.md",
+      "title": "IBM Bids Farewell to Watson Health Assets",
+      "excerpt": "IBM shook up the digital health space Friday with the news that it is selling its healthcare data and analytics assets, currently part of the Watson Health business, to an investment firm. The sale price is reportedly more than $1 billion, although the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/industry/ibm-bids-farewell-watson-health-assets",
+      "originalUrl": "https://www.designnews.com/industry/ibm-bids-farewell-watson-health-assets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/IBM%20corporate%20headquarters%20sign.png",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-introducing-gtgraffiti-the-robot-that-paints-like-a-human.md",
+      "title": "Introducing GTGraffiti: The robot that paints like a human",
+      "excerpt": "Graduate students at the Georgia Institute of Technology have built the first graffiti-painting robot system that mimics the fluidity of human movement. Aptly named GTGraffiti, the system uses motion capture technology to record human painting motions and then composes and processes the gestures to program a cable-driven robot that spray paints graffiti artwork.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/955273",
+      "originalUrl": "https://www.eurekalert.org/news-releases/955273",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/c8a4441b-281d-4365-b00a-29206dcbf9b5/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-machine-learning-helps-determine-health-of-soybean-fields.md",
+      "title": "Machine learning helps determine health of soybean fields",
+      "excerpt": "Using a combination of drones and machine learning techniques, researchers from The Ohio State University have recently developed a novel method for determining crop health and used it to create a new tool that may aid future farmers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/955101",
+      "originalUrl": "https://www.eurekalert.org/news-releases/955101",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-machine-learning-or-automation-whats-the-difference.md",
+      "title": "Machine Learning or Automation: What’s the Difference?",
+      "excerpt": "Machine learning is a rapidly developing subset of artificial intelligence that focuses on analyzing large data quantities, typically to make predictions. AI systems can’t truly think yet ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessnewsdaily.com/10352-machine-learning-vs-automation.html",
+      "originalUrl": "https://www.businessnewsdaily.com/10352-machine-learning-vs-automation.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.businessnewsdaily.com/app/uploads/2022/04/04075911/1554238485.jpeg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business News Daily",
+        "domain": "businessnewsdaily.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-tenstorrent-is-changing-the-way-we-think-about-ai-chips.md",
+      "title": "Tenstorrent Is Changing the Way We Think About AI Chips",
+      "excerpt": "“GPUs are essentially at the end of their evolutionary curve,” Ljubisa Bajic, CEO of AI chip startup Tenstorrent told Design News. “[GPUs] have done a great job; they’ve pushed the field to to the point where it is now. But in order to make any ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/tenstorrent-changing-way-we-think-about-ai-chips-0",
+      "originalUrl": "https://www.designnews.com/electronics-test/tenstorrent-changing-way-we-think-about-ai-chips-0",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Tenstorrent%20Grayskull.png",
+          "width": 278,
+          "height": 278,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-natural-language-processing-market-booming-worldwide-as-rising-usage-of-smart-devices-to-facilitate-smart-environments.md",
+      "title": "Natural Language Processing Market Booming Worldwide As Rising Usage Of Smart Devices To Facilitate Smart Environments",
+      "excerpt": "Natural Language Processing Market Size – USD 11.80 Billion in 2021, Market Growth - CAGR of 21.5%, Market Trends – Proliferation of smart devices NEW YORK, NY, UNITED STATES, June 6 ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104331060/Natural-Language-Processing-Market-Booming-Worldwide-As-Rising-Usage-Of-Smart-Devices-To-Facilitate-Smart-Environments",
+      "originalUrl": "https://menafn.com/1104331060/Natural-Language-Processing-Market-Booming-Worldwide-As-Rising-Usage-Of-Smart-Devices-To-Facilitate-Smart-Environments",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-06/06/EP_e8dc8image_story.jpeg",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T16:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones.md",
+      "title": "Axon’s AI Ethics Board resigns over plan to surveil schools with armed drones",
+      "excerpt": "Axon to advise its technology decisions have resigned, citing the company’s plan to install Taser-equipped drones and pervasive surveillance at schools. “After several years of work, the company has fundamentally failed to embrace the",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/",
+      "originalUrl": "https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 201,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/taser-drone.jpg?w=1024",
+          "width": 1024,
+          "height": 722,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/06/axons-ai-ethics-board-resigns-over-plan-to-surveil-schools-with-armed-drones/amp/",
+      "publishedDateTime": "2022-06-06T16:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science.md",
+      "title": "Does cognitive computing offer the next wave of analytics beyond data science?",
+      "excerpt": "Cognitive computing goes beyond AI and ML by leveraging systems such as pattern recognition that strive to simulate human thought processing.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/",
+      "originalUrl": "https://venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1327016094-e1654538126130.jpg?fit=800%2C533&strip=all",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/06/does-cognitive-computing-offer-the-next-wave-of-analytics-beyond-data-science%EF%BF%BC/amp/",
+      "publishedDateTime": "2022-06-06T15:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -870,60 +888,17 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-autonomous-mayflower-reaches-american-shores-in-canada.md",
-      "title": "Autonomous Mayflower reaches American shores -- in Canada",
-      "excerpt": "Piloted by artificial intelligence technology, the 50-foot (15-meter) Mayflower Autonomous Ship didn't have a captain, navigator or any humans on board — though it might have helped to have a ...",
-      "sourceUrl": null,
-      "webUrl": "https://mtstandard.com/lifestyles/technology/autonomous-mayflower-reaches-american-shores----in-canada/article_55cd450f-bf27-5756-8e45-7077d2887ec7.html",
-      "originalUrl": "https://mtstandard.com/lifestyles/technology/autonomous-mayflower-reaches-american-shores----in-canada/article_55cd450f-bf27-5756-8e45-7077d2887ec7.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/mtstandard.com/content/tncms/assets/v3/editorial/e/64/e640da40-f529-55b5-92b0-b424f9ce5389/629cfd8bf3b06.image.jpg?crop=1894%2C994%2C0%2C49&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-05T12:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Montana Standard",
-        "domain": "mtstandard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
+        "Microsoft AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-06-tiny-robotic-crab-is-smallest-ever-remote-controlled-robot.md",
-      "title": "Tiny robotic crab is smallest-ever remote-controlled robot",
-      "excerpt": "In a recent study published in Science Robotics, engineers at Northwestern University have developed the smallest-ever remote-controlled walking robot -- and it comes in the form of a tiny, adorable peekytoe crab. Because the beginning of the end of ...",
+      "path": "_news/2022-06-07-how-to-implement-ai-ethics-in-a-company-part-2.md",
+      "title": "How to Implement AI Ethics in a Company, Part 2",
+      "excerpt": "AI ethics like data privacy and transparent algorithms are rapidly becoming a key risk requirement, as AI becomes a business necessity.",
       "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/technology/22885/tiny-robotic-crab-smallest-ever-remote-controlled-robot-2",
-      "originalUrl": "https://www.labroots.com/trending/technology/22885/tiny-robotic-crab-smallest-ever-remote-controlled-robot-2",
+      "webUrl": "https://www.brinknews.com/how-to-implement-ai-ethics-in-a-company-part-2/",
+      "originalUrl": "https://www.brinknews.com/how-to-implement-ai-ethics-in-a-company-part-2/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -931,13 +906,13 @@
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/technology/22885/tiny-robotic-crab-smallest-ever-remote-controlled-robot-2/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/22885/tiny-robotic-crab-smallest-ever-remote-controlled-robot-2/amp",
-      "publishedDateTime": "2022-06-05T11:15:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T15:01:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
+        "name": "Brink – The Edge of Risk",
+        "domain": "brinknews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -947,26 +922,26 @@
         "news"
       ],
       "topics": [
-        "AI in Robotics",
+        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-05-satellites-and-ai-can-help-solve-big-problemsif-given-the-chance.md",
-      "title": "Satellites and AI Can Help Solve Big Problems—If Given the Chance",
-      "excerpt": "Traditional hurdles stand in the way of ambitious plans to use imagery to help feed people, reduce poverty, and protect the planet.",
+      "path": "_news/2022-06-07-axons-taser-drone-plans-prompt-ai-ethics-board-resignations.md",
+      "title": "Axon’s Taser Drone Plans Prompt AI Ethics Board Resignations",
+      "excerpt": "A majority of Axon’s AI ethics board resigned in protest yesterday, following an announcement last week that the company planned to equip drones with Tasers and cameras as a way to end mass shootings in schools. The company backed down on its proposal ...",
       "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/satellite-images-ai-solve-problems-governments/",
-      "originalUrl": "https://www.wired.com/story/satellite-images-ai-solve-problems-governments/",
+      "webUrl": "https://www.wired.com/story/taser-drone-axon-ai-ethics-board/",
+      "originalUrl": "https://www.wired.com/story/taser-drone-axon-ai-ethics-board/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 244,
       "tags": null,
       "images": [
         {
-          "url": "https://media.wired.com/photos/629a411d034df35b6080c33c/master/pass/Satellite-AI-Solve-Big-Problems-Deforestation-Amazon-Brazil-Business-1318751110.jpg",
+          "url": "https://media.wired.com/photos/629e51d2726e817487080861/master/pass/business-axon-drone-wired.jpg",
           "width": 2400,
-          "height": 1697,
+          "height": 1350,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -974,9 +949,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/satellite-images-ai-solve-problems-governments/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/satellite-images-ai-solve-problems-governments/amp",
-      "publishedDateTime": "2022-06-05T04:00:00-07:00",
+      "ampWebUrl": "https://www.wired.com/story/taser-drone-axon-ai-ethics-board/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/taser-drone-axon-ai-ethics-board/amp",
+      "publishedDateTime": "2022-06-06T13:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Wired",
@@ -999,25 +974,60 @@
         "news"
       ],
       "topics": [
+        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-05-ai-in-business-the-one-thing-every-board-member-asks.md",
-      "title": "AI In Business: The One Thing Every Board Member Asks",
-      "excerpt": "Board members already have a long list of mission-critical issues in their sights, including risk and reputation management, advising and encouraging the CEO, financial performance, and growth opportunities.",
+      "path": "_news/2022-06-07-deepsig-named-to-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-for-2022.md",
+      "title": "DeepSig Named to CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups for 2022",
+      "excerpt": "DeepSig, a leader in artificial intelligence (AI) and machine-learning (ML) innovation in wireless communications, today announced that it has ranked on CB Insights annual AI 100 list. The AI 100 ranking recognizes the 100 most promising private artificial intelligence companies in the world.",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/glenngow/2022/06/05/ai-in-business-the-one-thing-every-board-member-asks/",
-      "originalUrl": "https://www.forbes.com/sites/glenngow/2022/06/05/ai-in-business-the-one-thing-every-board-member-asks/",
+      "webUrl": "https://www.tmcnet.com/usubmit/-deepsig-named-cb-insights-ai-100-list-most-/2022/06/06/9615837.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-deepsig-named-cb-insights-ai-100-list-most-/2022/06/06/9615837.htm",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-its-time-for-people-facing-ai.md",
+      "title": "It’s Time For “People-Facing” AI",
+      "excerpt": "Learn how leading organizations are unlocking the full potential of AI – and massive customer and seller engagement data sets – to improve sales performance by refocusing their design criteria on simplifying the seller experience and improving seller adoption and utilization.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/stephendiorio/2022/06/06/its-time-for-people-facing-ai/",
+      "originalUrl": "https://www.forbes.com/sites/stephendiorio/2022/06/06/its-time-for-people-facing-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//629c02df38edd6aca34fcbbb/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 550,
+          "url": "https://imageio.forbes.com/specials-images/imageserve//629e5d98dfe70c6f1e93c9a0/0x0.jpg?format=jpg&crop=3250,1523,x0,y119,safe&width=1200",
+          "width": 1200,
+          "height": 562,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1025,9 +1035,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2022/06/05/ai-in-business-the-one-thing-every-board-member-asks/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/06/05/ai-in-business-the-one-thing-every-board-member-asks/amp/",
-      "publishedDateTime": "2022-06-05T03:00:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/stephendiorio/2022/06/06/its-time-for-people-facing-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/stephendiorio/2022/06/06/its-time-for-people-facing-ai/amp/",
+      "publishedDateTime": "2022-06-06T13:06:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -1050,85 +1060,34 @@
         "news"
       ],
       "topics": [
+        "Facebook AI",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-05-ai-facial-recognition-and-the-slippery-surveillance-slope.md",
-      "title": "AI facial recognition and the slippery surveillance slope",
-      "excerpt": "Increasingly governments around the world are turning to AI facial recognition apps as cost saving surveillance measures.",
+      "path": "_news/2022-06-06-reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas.md",
+      "title": "Reinventing retail with no-code machine learning: Sales forecasting using Amazon SageMaker Canvas",
+      "excerpt": "Retail businesses are data-driven—they analyze data to get insights about consumer behavior, understand shopping trends, make product recommendations, optimize websites, plan for inventory, and forecast sales. A common approach for sales forecasting is to use historical sales data to predict future demand.",
       "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/radionational/programs/sundayextra/ai-facial-recogntion-and-the-slippery-surveillance-slope/13911830",
-      "originalUrl": "https://www.abc.net.au/radionational/programs/sundayextra/ai-facial-recogntion-and-the-slippery-surveillance-slope/13911830",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/reinventing-retail-with-no-code-machine-learning-sales-forecasting-using-amazon-sagemaker-canvas/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 165,
       "tags": null,
-      "images": [
-        {
-          "url": "https://www.abc.net.au/cm/rimage/13911960-16x9-large.jpg?v=4",
-          "width": 700,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-04T14:13:00-07:00",
+      "publishedDateTime": "2022-06-06T12:23:18-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-05-how-ai-could-help-predictand-avoidsports-injuries-boost-performance.md",
-      "title": "How AI Could Help Predict—and Avoid—Sports Injuries, Boost Performance",
-      "excerpt": "Computer vision, the technology behind facial recognition, will change the game in real-time analysis of athletes and sharpen training prescriptions, analytics experts say.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916?mod=hp_listc_pos3",
-      "originalUrl": "https://www.wsj.com/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916?mod=hp_listc_pos3",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-555376/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/how-ai-could-revolutionize-sports-trainers-tap-algorithms-to-boost-performance-prevent-injury-11654353916",
-      "publishedDateTime": "2022-06-04T14:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1144,7 +1103,10 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "AWS AI",
+        "Machine Learning",
+        "AI in Sales"
       ]
     }
   ],

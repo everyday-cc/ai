@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Face recognition struggles to recognise us after five years of ageing"
+    excerpt: "As we age, our faces change, becoming slowly different from images used for facial recognition – so new photos may be needed more frequently to maintain accuracy and security"
+    publishedDateTime: 2022-08-24T11:14:00Z
+    webUrl: "https://www.newscientist.com/article/2334375-face-recognition-struggles-to-recognise-us-after-five-years-of-ageing/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 39
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/08/24105817/SEI_120628051.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
   - title: "Lossy image compression negatively affects facial recognition algorithms, research shows"
     excerpt: "Experimental research by a team from the Department of Computer Science in the University of Durham, UK, demonstrates that image compression techniques that remove data have a negative bearing on the way facial recognition algorithms function with regard ..."
     publishedDateTime: 2022-08-23T18:01:00Z

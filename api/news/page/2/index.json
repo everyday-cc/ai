@@ -2,6 +2,256 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-23-artificial-intelligence-ai-for-security-market-size-share-growth-2022-key-players-revenue-trends-opportunities-and-regional-forecast.md",
+      "title": "Artificial Intelligence (AI) for Security Market Size, Share, Growth, 2022 Key Players, Revenue, Trends, Opportunities and Regional Forecast to 2028",
+      "excerpt": "Global “Artificial Intelligence (AI) for Security Market” (2022) report provides the detailed study of business",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-for-security-market-size-share-growth-2022-key-players-revenue-trends-opportunities-and-regional-forecast-to-2028-2022-08-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-for-security-market-size-share-growth-2022-key-players-revenue-trends-opportunities-and-regional-forecast-to-2028-2022-08-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 200,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T02:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact.md",
+      "title": "Singapore looks to drive AI research, capabilities with Google Cloud pact",
+      "excerpt": "Touted as the Singapore government's first private-sector partnership in artificial intelligence, the collaboration will see both sides jointly develop and testbed applications as well as work on issues pertaining to AI governance and ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
+      "publishedDateTime": "2022-08-22T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-ai-detects-parkinsons-disease-by-tracking-your-breathing-patterns.md",
+      "title": "AI detects Parkinson’s disease by tracking your breathing patterns",
+      "excerpt": "A compelling new study indicates Parkinson’s disease (PD) could be diagnosed by remotely tracking a person’s breathing patterns. Led by researchers from MIT, the study presents an AI system that uses radio waves to monitor breathing while a person sleeps.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/health-wellbeing/ai-parkinsons-disease-sleep-breathing-patterns-mit",
+      "originalUrl": "https://newatlas.com/health-wellbeing/ai-parkinsons-disease-sleep-breathing-patterns-mit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/1f864fd/2147483647/strip/true/crop/800x420+0+90/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F61%2F90%2F1e3d4dc9497c909b9aeb6bf860f0%2Fparkinson-ai-breath-detector-mit-00-0.jpg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-22T16:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-nexla-to-provide-pre-packaged-ready-to-use-datasets-with-latest-acquisition.md",
+      "title": "Nexla to provide pre-packaged ready-to-use datasets with latest acquisition",
+      "excerpt": "California-based Nexla has announced the acquisition of Fidap to provide enterprises with pre-packaged, ready-to-use datasets.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/nexla-to-provide-pre-packaged-ready-to-use-datasets-with-latest-acquisition/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/nexla-to-provide-pre-packaged-ready-to-use-datasets-with-latest-acquisition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1330516352.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/nexla-to-provide-pre-packaged-ready-to-use-datasets-with-latest-acquisition/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/nexla-to-provide-pre-packaged-ready-to-use-datasets-with-latest-acquisition/amp/",
+      "publishedDateTime": "2022-08-22T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-new-gartner-survey-only-half-of-ai-models-make-it-into-production.md",
+      "title": "New Gartner survey: Only half of AI models make it into production",
+      "excerpt": "A new artificial intelligence survey from Gartner reported that, on average, only 54% of AI models move from pilot to production.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/new-gartner-survey-only-half-of-ai-models-make-it-into-production/",
+      "originalUrl": "https://venturebeat.com/ai/new-gartner-survey-only-half-of-ai-models-make-it-into-production/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1134028859-e1653340548357.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/new-gartner-survey-only-half-of-ai-models-make-it-into-production/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/new-gartner-survey-only-half-of-ai-models-make-it-into-production/amp/",
+      "publishedDateTime": "2022-08-22T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-22-intelligently-search-alfresco-content-using-amazon-kendra.md",
       "title": "Intelligently search Alfresco content using Amazon Kendra",
       "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). With Amazon Kendra, you can easily aggregate content from a variety of content repositories into a centralized index that lets you quickly search all your enterprise data and find the most accurate answer. Many organizations",
@@ -624,7 +874,7 @@
       "originalUrl": "https://www.wdbj7.com/2022/08/21/capitol-records-signs-first-ai-virtual-rapper-fn-meka/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 117,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -654,6 +904,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-unprecedented-ai-chip-could-revolutionise-artificial-intelligence.md",
+      "title": "‘Unprecedented’ AI chip could revolutionise artificial intelligence",
+      "excerpt": "An “unprecedented” new computer chip could help revolutionise AI, according to its creators. The system should allow increasingly complex artificial intelligence to live on chips themselves ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/ai-artificial-intelligence-chip-memory-ram-b2146974.html?amp",
+      "originalUrl": "https://www.independent.co.uk/tech/ai-artificial-intelligence-chip-memory-ram-b2146974.html?amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/08/17/16/Low-Res_UCSD-JacobsSchool-20220815-Cauwenberghs-NeuRRam-00621-e-8MP.jpg.png?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.independent.co.uk/tech/ai-artificial-intelligence-chip-memory-ram-b2146974.html?amp",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/ai-artificial-intelligence-chip-memory-ram-b2146974.html?amp",
+      "publishedDateTime": "2022-08-21T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -863,7 +1156,7 @@
       "originalUrl": "https://www.thehindu.com/sci-tech/technology/explained-delhi-polices-use-of-facial-recognition-technology/article65793897.ece",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 86,
       "tags": null,
       "images": [
         {
@@ -894,302 +1187,8 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says.md",
-      "title": "Amazon testing TikTok-style feed on its app, AI firm says",
-      "excerpt": "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform.The",
-      "sourceUrl": null,
-      "webUrl": "https://whdh.com/entertainment/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says-2/",
-      "originalUrl": "https://whdh.com/entertainment/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says-2/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://whdh.com/wp-content/uploads/sites/3/2022/04/pexels-photo-3766218.jpeg?quality=60&strip=color&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://whdh.com/entertainment/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says-2/amp/",
-      "cdnAmpWebUrl": "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/entertainment/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says-2/amp/",
-      "publishedDateTime": "2022-08-21T10:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WHDH",
-        "domain": "whdh.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-21-anthony-levandowski-is-the-messiah-of-his-new-ai-god.md",
-      "title": "Anthony Levandowski is the Messiah of his new AI God",
-      "excerpt": "It then reveals some of his innovative projects, like the robot he made in 2001 that could count Monopoly money, and the driverless ... potential of artificial intelligence is something that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/anthony-levandowski-is-the-messiah-of-his-new-ai-god/",
-      "originalUrl": "https://www.neowin.net/news/anthony-levandowski-is-the-messiah-of-his-new-ai-god/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2017/09/1506594532_ai_god_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/anthony-levandowski-is-the-messiah-of-his-new-ai-god/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/anthony-levandowski-is-the-messiah-of-his-new-ai-god/",
-      "publishedDateTime": "2022-08-21T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-21-why-youve-never-heard-of-this-top-ai-company.md",
-      "title": "Why You’ve Never Heard Of This Top AI Company",
-      "excerpt": "with the only notable vendor-specific response (AWS SageMaker) trailing in the 5th spot. This doesn’t mean that companies aren’t using vendors for those open source implementations, not at all. This does mean that they aren’t focusing on the vendor ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-heard-of-this-top-ai-company/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-heard-of-this-top-ai-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630176959a27f7799058f19a/0x0.jpg?format=jpg&crop=4153,2336,x0,y13,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-heard-of-this-top-ai-company/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-heard-of-this-top-ai-company/amp/",
-      "publishedDateTime": "2022-08-20T22:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-21-after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans.md",
-      "title": "After binge-watching TV, Google's DeepMind AI can now read lips better than humans",
-      "excerpt": "Google’s DeepMind artificial intelligence system has learned another useful skill. The soon-to-become-Skynet AI can now read lips with a higher accuracy than humans, after it watched thousands ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans/",
-      "originalUrl": "https://www.neowin.net/news/after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2016/11/1479985769_hal_9000_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans/",
-      "publishedDateTime": "2022-08-20T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-21-why-ai-regulation-will-resemble-privacy-regulation.md",
-      "title": "Why AI regulation will resemble privacy regulation",
-      "excerpt": "Concerns over data privacy have sparked regulations in the U.S. and Europe. How will AI regulations look as they come to fruition?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-ai-regulation-will-resemble-privacy-regulation/",
-      "originalUrl": "https://venturebeat.com/ai/why-ai-regulation-will-resemble-privacy-regulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1037155966.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-ai-regulation-will-resemble-privacy-regulation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-ai-regulation-will-resemble-privacy-regulation/amp/",
-      "publishedDateTime": "2022-08-20T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-21-this-student-aspires-for-a-career-in-ai.md",
-      "title": "This student aspires for a career in AI",
-      "excerpt": "He was also part of his school’s programming and AI clubs thanks to which he honed his skills to participate in the Kolmogorov Reading Conference for scientific papers. ‘‘I wrote a research paper titled Detection and Classification of brain tumors in MRIs using CNN,",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/friday/art-people/this-student-aspires-for-a-career-in-ai-1.89858003",
-      "originalUrl": "https://gulfnews.com/friday/art-people/this-student-aspires-for-a-career-in-ai-1.89858003",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2022/08/18/Hale-image_182b0415f36_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/friday/art-people/this-student-aspires-for-a-career-in-ai-1.89858003",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/friday/art-people/this-student-aspires-for-a-career-in-ai-1.89858003",
-      "publishedDateTime": "2022-08-20T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
+        "AWS AI"
       ]
     }
   ],

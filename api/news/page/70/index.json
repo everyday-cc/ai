@@ -2,67 +2,15 @@
   "page": 70,
   "value": [
     {
-      "path": "_news/2022-06-24-amazon-shows-off-alexa-feature-that-mimics-the-voices-of-your-dead-relatives.md",
-      "title": "Amazon shows off Alexa feature that mimics the voices of your dead relatives",
-      "excerpt": "Amazon has revealed an experimental Alexa feature that allows the AI assistant to mimic the voices of users’ dead relatives. The company demoed the feature at its annual MARS conference ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theverge.com/2022/6/23/23179748/amazon-alexa-feature-mimic-voice-dead-relative-ai",
-      "originalUrl": "https://www.theverge.com/2022/6/23/23179748/amazon-alexa-feature-mimic-voice-dead-relative-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.vox-cdn.com/thumbor/InAzvn-WcHBy1UXFlR62QNMNS6g=/0x148:2050x1221/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/21989893/dseifert_201025_4263_0007.0.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T19:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Verge",
-        "domain": "theverge.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-nigerias-oil-sector-looks-as-robotics-adoption-picks-up.md",
-      "title": "Nigeria’s oil sector looks as robotics adoption picks up",
+      "path": "_news/2022-06-25-nigerias-oil-sector-looks-on-as-robotics-adoption-picks-up.md",
+      "title": "Nigeria’s oil sector looks on as robotics adoption picks up",
       "excerpt": "The world is prepping for an oil and gas industry where completely unmanned assets are operated, inspected and maintained with digitisation and artificial",
       "sourceUrl": null,
-      "webUrl": "https://businessday.ng/uncategorized/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
-      "originalUrl": "https://businessday.ng/uncategorized/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
+      "webUrl": "https://businessday.ng/energy/oilandgas/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
+      "originalUrl": "https://businessday.ng/energy/oilandgas/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -76,9 +24,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://businessday.ng/amp/uncategorized/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
-      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/uncategorized/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
-      "publishedDateTime": "2022-06-23T18:05:00-07:00",
+      "ampWebUrl": "https://businessday.ng/amp/energy/oilandgas/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/energy/oilandgas/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
+      "publishedDateTime": "2022-06-24T22:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "businessday",
@@ -97,89 +45,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-24-b5-prospective-cohort-analysis-of-normal-versus-mild-cognitive-impairment-for-quality-of-life-outcome-following-dbs-for-parkinsons-disease.md",
-      "title": "B.5 Prospective cohort analysis of normal versus mild cognitive impairment for quality of life outcome following DBS for Parkinson’s disease",
-      "excerpt": "It is unclear where this cut-off should occur and if patients with mild cognitive impairment (MCI) do not do as well. This prospective cohort analysis assessed if pre-operative cognition affected post-operative quality of life. Methods: PD patients ...",
+      "path": "_news/2022-06-25-three-insights-you-might-have-missed-from-snowflake-summit-2022.md",
+      "title": "Three insights you might have missed from Snowflake Summit 2022",
+      "excerpt": "Cloud data warehouse disruptor Snowflake Inc. is the rockstar of the data management scene. So, it is appropriate that the energy at Snowflake Summit 2022 was akin to the buzz at a live concert ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/canadian-journal-of-neurological-sciences/article/b5-prospective-cohort-analysis-of-normal-versus-mild-cognitive-impairment-for-quality-of-life-outcome-following-dbs-for-parkinsons-disease/5A516A47945EA0A34EABA4BEDC0E8C04",
-      "originalUrl": "https://www.cambridge.org/core/journals/canadian-journal-of-neurological-sciences/article/b5-prospective-cohort-analysis-of-normal-versus-mild-cognitive-impairment-for-quality-of-life-outcome-following-dbs-for-parkinsons-disease/5A516A47945EA0A34EABA4BEDC0E8C04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-p002-saccade-parameters-reveal-cognitive-impairment-and-differentially-associate-with-cognitive-domains-across-neurodegenerative-diseases.md",
-      "title": "P.002 Saccade parameters reveal cognitive impairment and differentially associate with cognitive domains across neurodegenerative diseases",
-      "excerpt": "Characterizing oculomotor behaviour in context of cognitive function may enhance disease diagnosis and monitoring. We therefore aimed to quantify cognitive impairment in neurodegenerative disease using saccade behaviour and neuropsychology. Methods ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cambridge.org/core/journals/canadian-journal-of-neurological-sciences/article/p002-saccade-parameters-reveal-cognitive-impairment-and-differentially-associate-with-cognitive-domains-across-neurodegenerative-diseases/2B76FAA8D609DE44A0B5EC6FBA261041",
-      "originalUrl": "https://www.cambridge.org/core/journals/canadian-journal-of-neurological-sciences/article/p002-saccade-parameters-reveal-cognitive-impairment-and-differentially-associate-with-cognitive-domains-across-neurodegenerative-diseases/2B76FAA8D609DE44A0B5EC6FBA261041",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cambridge University Press",
-        "domain": "cambridge.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-robots-and-artificial-intelligence.md",
-      "title": "Robots and Artificial Intelligence",
-      "excerpt": "Why DoD’s New Approach to Data and Artificial Intelligence Should Enhance National Defense The DoD’s updated efforts on artificial intelligence (AI) are requiring some disruptive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cfr.org/robots-and-artificial-intelligence",
-      "originalUrl": "https://www.cfr.org/robots-and-artificial-intelligence",
+      "webUrl": "https://siliconangle.com/2022/06/24/3-insights-might-missed-snowflake-summit-snowflakesummit/",
+      "originalUrl": "https://siliconangle.com/2022/06/24/3-insights-might-missed-snowflake-summit-snowflakesummit/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.cfr.org//themes/custom/cfr_theme/src/assets/images/cfr-logo-og.png",
-          "width": 1200,
-          "height": 628,
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/Frank-Slootman-Snowflake-Summit-2022.jpg",
+          "width": 6240,
+          "height": 4160,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -189,11 +69,106 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T17:00:00-07:00",
+      "publishedDateTime": "2022-06-24T16:19:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Cfr.org",
-        "domain": "cfr.org",
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-choose-specific-timeseries-to-forecast-with-amazon-forecast.md",
+      "title": "Choose specific timeseries to forecast with Amazon Forecast",
+      "excerpt": "Today, we’re excited to announce that&nbsp;Amazon Forecast&nbsp;offers the ability to generate forecasts on a selected subset of items. This helps you to leverage the full value of your data, and apply it selectively on your choice of items reducing the time and effort to get forecasted results. Generating",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/choose-specific-timeseries-to-forecast-with-amazon-forecast/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/choose-specific-timeseries-to-forecast-with-amazon-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/choose-timeseries.jpg",
+          "width": 1246,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T16:11:36-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-flawed-ai-makes-robots-racist-sexist.md",
+      "title": "Flawed AI makes robots racist, sexist",
+      "excerpt": "The work, led by Johns Hopkins University, the Georgia Institute of Technology, and University of Washington researchers, is believed to be the first to show that robots loaded with an accepted and widely used model operate with significant gender and racial biases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/957065",
+      "originalUrl": "https://www.eurekalert.org/news-releases/957065",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/7667c6ad-9eb3-4059-bf6d-ab9842d2fbc4/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null
@@ -208,21 +183,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-24-dall-e-mini-what-you-need-to-know-about-the-bizarre-ai-art-creator.md",
-      "title": "Dall-E Mini: What You Need to Know About the Bizarre AI Art Creator",
-      "excerpt": "Dall-E Mini, an AI tool capturing attention on social media thanks to the weird, funny and occasionally disturbing images it creates out of text prompts. Dall-E Mini lets you type a short phrase describing an image,",
+      "path": "_news/2022-06-25-how-ai-is-quietly-revolutionizing-the-back-office.md",
+      "title": "How AI is quietly revolutionizing the back office",
+      "excerpt": "The challenge for enterprises is to allow AI to place traditionally manual processes under fully automated control.",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/culture/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/",
-      "originalUrl": "https://www.cnet.com/culture/everything-to-know-about-dall-e-mini-the-bizarre-ai-art-creator/",
+      "webUrl": "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/",
+      "originalUrl": "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 137,
       "tags": null,
       "images": [
         {
-          "url": "https://www.cnet.com/a/img/resize/9fa7f29c17d7567ce910aa00dd74dcd88ae8faaf/2022/06/14/5b9aa6e4-3e9e-4dc4-81f8-4685f7d0b64f/screen-shot-2022-06-14-at-10-41-06-am-cropped.png?auto=webp&fit=crop&height=630&width=1200",
+          "url": "https://venturebeat.com/wp-content/uploads/2018/10/AI.enterprise.shutterstock_1039492387.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 630,
+          "height": 850,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -230,596 +205,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/dall-e-mini-what-you-need-to-know-about-the-bizarre-ai-art-creator/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/dall-e-mini-what-you-need-to-know-about-the-bizarre-ai-art-creator/",
-      "publishedDateTime": "2022-06-23T15:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-how-ibm-watson-is-set-to-serve-up-a-smart-fan-experience-at-wimbledon-2022.md",
-      "title": "How IBM Watson is set to serve up a smart fan experience at Wimbledon 2022",
-      "excerpt": "and improved match insights powered by IBM’s Watson AI system. “We're very excited about this year,” noted the AELTC’s Communications & Marketing Director Alexandra Willis, “But ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/au/news/how-ibm-watson-is-set-to-serve-up-a-smart-fan-experience-at-wimbledon-2022",
-      "originalUrl": "https://www.techradar.com/au/news/how-ibm-watson-is-set-to-serve-up-a-smart-fan-experience-at-wimbledon-2022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-aws-sent-a-snowcone-to-space.md",
-      "title": "AWS sent a Snowcone to space",
-      "excerpt": "At its re:Mars conference, Amazon today announced that it quietly sent one of its AWS Snowcone edge computing and storage devices into space on the Axiom mission to the International Space Station.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/23/aws-sent-a-snowcone-to-space/",
-      "originalUrl": "https://techcrunch.com/2022/06/23/aws-sent-a-snowcone-to-space/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/image002.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/23/aws-sent-a-snowcone-to-space/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/23/aws-sent-a-snowcone-to-space/amp/",
-      "publishedDateTime": "2022-06-23T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-gm-cruise-takes-first-fares-for-paid-driverless-taxi-in-san-francisco.md",
-      "title": "GM Cruise takes first fares for paid driverless taxi in San Francisco",
-      "excerpt": "GM’s autonomous driving division, Cruise, has begun its paid driverless taxi service in San Francisco and officially took its first fares last night. Cruise’s program is still quite limited ...",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/06/23/gm-cruise-takes-first-fares-for-paid-driverless-taxi-in-san-francisco/",
-      "originalUrl": "https://electrek.co/2022/06/23/gm-cruise-takes-first-fares-for-paid-driverless-taxi-in-san-francisco/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/cruise-bolt-2000.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/06/23/gm-cruise-takes-first-fares-for-paid-driverless-taxi-in-san-francisco/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/23/gm-cruise-takes-first-fares-for-paid-driverless-taxi-in-san-francisco/amp/",
-      "publishedDateTime": "2022-06-23T13:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-10-smart-artificial-intelligence-ai-stocks-to-buy.md",
-      "title": "10 Smart Artificial Intelligence (AI) Stocks to Buy",
-      "excerpt": "Artificial intelligence (AI), for all of its futuristic elements, is not a new category – not by a long shot. The roots of the technology go all the way back to the late 1950s, when computers started to become much more powerful.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy",
-      "originalUrl": "https://www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/10-smart-artificial-intelligence-ai-stocks-to-buy?amp",
-      "publishedDateTime": "2022-06-23T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI Hardware",
-        "Natural Language Processing",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-what-happens-if-we-put-a-sentient-ai-inside-of-a-lab-grown-brain.md",
-      "title": "What happens if we put a ‘sentient’ AI inside of a lab-grown brain?",
-      "excerpt": "At the intersection of synthetic organs, artificial general intelligence, and brain-computer-interfaces lies the future. Let's take a peek!",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/what-happens-if-we-put-sentient-ai-inside-of-a-lab-grown-brain",
-      "originalUrl": "https://thenextweb.com/news/what-happens-if-we-put-sentient-ai-inside-of-a-lab-grown-brain",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F07%2Fbirdbrain.jpg&signature=cf04805fb464744027e21949538c2d03",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022.md",
-      "title": "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022",
-      "excerpt": "It hosts and processes data from matches that is fed into AI models built using IBM Watson Studio and IBM Watson Discovery to produce insights for fans, commentators and media. Alexandra ...",
-      "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1262726&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1262726&cat=PR News Wire",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-pentagons-long-awaited-responsible-ai-pathway-highlights-flexibility-trust.md",
-      "title": "Pentagon’s long-awaited ‘Responsible AI’ pathway highlights flexibility, ‘trust’",
-      "excerpt": "One key element is ensuring a transformation from \"viewing AI as an enigmatic and incomprehensible technology to understanding the capabilities and limitations of this widely adopted and accepted technology.",
-      "sourceUrl": null,
-      "webUrl": "https://breakingdefense.com/2022/06/pentagons-long-awaited-responsible-ai-pathway-highlights-flexibility-trust/",
-      "originalUrl": "https://breakingdefense.com/2022/06/pentagons-long-awaited-responsible-ai-pathway-highlights-flexibility-trust/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sites.breakingmedia.com/uploads/sites/3/2021/02/KathHicks.jpg",
-          "width": 1800,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://breakingdefense.com/2022/06/pentagons-long-awaited-responsible-ai-pathway-highlights-flexibility-trust/amp/",
-      "cdnAmpWebUrl": "https://breakingdefense-com.cdn.ampproject.org/c/s/breakingdefense.com/2022/06/pentagons-long-awaited-responsible-ai-pathway-highlights-flexibility-trust/amp/",
-      "publishedDateTime": "2022-06-23T10:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Breaking Defense",
-        "domain": "breakingdefense.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-instagram-tests-using-ai-other-tools-for-age-verification.md",
-      "title": "Instagram tests using AI, other tools for age verification",
-      "excerpt": "By BARBARA ORTUTAY and MATT O’BRIEN AP Technology Writers Instagram is testing new ways to verify the age of people using its service, including a face-scanning artificial intelligence tool, having mutual friends verify their age or uploading an ID.",
-      "sourceUrl": null,
-      "webUrl": "https://krdo.com/news/ap-national-business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/",
-      "originalUrl": "https://krdo.com/news/ap-national-business/2022/06/23/instagram-tests-using-ai-other-tools-for-age-verification/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://krdo.b-cdn.net/2021/06/krdo-biz-and-tech.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T10:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRDO",
-        "domain": "krdo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-deep-learning-in-machine-vision-market-is-predicted-to-see-lucrative-gains-of-usd-926240-million-by-2029.md",
-      "title": "Deep Learning in Machine Vision Market Is Predicted to See Lucrative Gains of USD 9,262.40 Million By 2029",
-      "excerpt": "Deep learning in machine vision market is expected to gain market growth in the forecast period of 2022 to 2029. Data Bridge Market Research analyses that the market is growing with a CAGR of 12 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-in-machine-vision-market-is-predicted-to-see-lucrative-gains-of-usd-9262-40-million-by-2029",
-      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-in-machine-vision-market-is-predicted-to-see-lucrative-gains-of-usd-9262-40-million-by-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Oceans-Plastic-AFP-1K-02-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T10:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program.md",
-      "title": "AdTheorent Wins \"Machine Learning Innovation Award\" in 2022 Artificial Intelligence (AI) Breakthrough Awards Program",
-      "excerpt": "Marks AdTheorent's Fifth Consecutive AI Breakthrough Awards Win . NEW YORK, June 23, 2022 /PRNewswire/ -- AdTheorent Holding Company, Inc. (\"AdTheorent\" or the \"Company) (Nas",
-      "sourceUrl": null,
-      "webUrl": "https://www.barrons.com/articles/adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program-01655989537",
-      "originalUrl": "https://www.barrons.com/articles/adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program-01655989537",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.barrons.com/asset/barrons/images/social_highres.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.barrons.com/amp/articles/adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program-01655989537",
-      "cdnAmpWebUrl": "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/adtheorent-wins-machine-learning-innovation-award-in-2022-artificial-intelligence-ai-breakthrough-awards-program-01655989537",
-      "publishedDateTime": "2022-06-23T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Barron's",
-        "domain": "barrons.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-how-machine-learning-ai-is-going-to-change-gaming-forever.md",
-      "title": "How machine learning AI is going to change gaming forever",
-      "excerpt": "Services like Craiyon that automatically generate rough AI images based on virtually any input prompt have produced a range of wild and wacky collages across the net, which you ca",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/gaming/xbox/how-machine-learning-ai-is-going-to-change-gaming-forever",
-      "originalUrl": "https://www.windowscentral.com/gaming/xbox/how-machine-learning-ai-is-going-to-change-gaming-forever",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/YgRKrmyt2cCFtKFtsxCGmd-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-instagram-is-testing-ai-powered-video-selfies-to-verify-age.md",
-      "title": "Instagram is testing AI-powered video selfies to verify age",
-      "excerpt": "Continuing on with its push for age verification and the enforcement of its age requirement, Instagram announced that it would be testing new age-verification methods to help primarily younger users verify their ages with the popular photo and video sharing app.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/",
-      "originalUrl": "https://www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 217,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/04/smartphone-with-instagram-app-on-it.jpg?p=1",
-          "width": 1500,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/social-media/instagram-is-testing-ai-powered-video-selfies-to-verify-age/?amp",
-      "publishedDateTime": "2022-06-23T09:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-ai-weekly-microsofts-new-moves-in-responsible-ai.md",
-      "title": "AI Weekly: Microsoft’s new moves in responsible AI",
-      "excerpt": "“We might also see the release of more tools and capabilities within the Azure platform that will make some of the standards mentioned in their Responsible AI Standard more broadly accessible to ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/",
-      "originalUrl": "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 186,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1238869000.jpg?w=1200&strip=all",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/23/ai-weekly-microsofts-new-moves-in-responsible-ai/amp/",
-      "publishedDateTime": "2022-06-23T09:31:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/24/how-ai-is-quietly-revolutionizing-the-back-office/amp/",
+      "publishedDateTime": "2022-06-24T15:05:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -842,27 +230,25 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Ethics"
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-06-23-amazon-launches-ground-truth-synthetics-to-create-virtual-objects-for-ai-model-training.md",
-      "title": "Amazon launches Ground Truth Synthetics to create virtual objects for AI model training",
-      "excerpt": "It takes massive amounts of data to train AI models. But sometimes, that data simply isn’t available from real-world sources, so data scientists use synthetic data to make up for that. In machine vision applications,",
+      "path": "_news/2022-06-25-covid-cognitive-decline-more-widespread-than-thought-say-researchers-at-australias-first-long-covid-clinic.md",
+      "title": "COVID cognitive decline more widespread than thought, say researchers at Australia's first long-COVID clinic",
+      "excerpt": "And the team has found something startling. Around one quarter of the ADAPT study's participants were experiencing noticeable cognitive decline a year after getting COVID. And, some sort of ...",
       "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/23/amazon-launches-ground-truth-synthetics-to-create-virtual-objects-for-ai-model-training/",
-      "originalUrl": "https://techcrunch.com/2022/06/23/amazon-launches-ground-truth-synthetics-to-create-virtual-objects-for-ai-model-training/",
+      "webUrl": "https://www.abc.net.au/news/2022-06-25/long-covid-clinic-st-vincents-cognitive-decline/101178450",
+      "originalUrl": "https://www.abc.net.au/news/2022-06-25/long-covid-clinic-st-vincents-cognitive-decline/101178450",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/IMG_7753.jpg",
-          "width": 4032,
-          "height": 3024,
+          "url": "https://live-production.wcms.abc-cdn.net.au/ffb1a11f12f1797b90baf63522d04857?impolicy=wcms_crop_resize&cropH=394&cropW=700&xPos=0&yPos=0&width=862&height=485",
+          "width": 700,
+          "height": 394,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -870,16 +256,59 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/23/amazon-launches-ground-truth-synthetics-to-create-virtual-objects-for-ai-model-training/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/23/amazon-launches-ground-truth-synthetics-to-create-virtual-objects-for-ai-model-training/amp/",
-      "publishedDateTime": "2022-06-23T09:20:00-07:00",
+      "ampWebUrl": "https://amp.abc.net.au/article/101178450",
+      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101178450",
+      "publishedDateTime": "2022-06-24T14:58:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-ai-powered-video-platform-salesroom-comes-out-of-stealth.md",
+      "title": "AI-Powered Video Platform Salesroom Comes Out Of Stealth",
+      "excerpt": "\"You’re talking too fast; consider slowing down.\" That's a statement you’d expect coming from a mentor or friend. But they’re computer-generated prompts designed to help someone trying to sell a product via video call.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/24/ai-powered-video-platform-salesroom-comes-out-of-stealth/",
+      "originalUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/24/ai-powered-video-platform-salesroom-comes-out-of-stealth/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62b62578551931f3067a1f15/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/phoebeliu/2022/06/24/ai-powered-video-platform-salesroom-comes-out-of-stealth/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/phoebeliu/2022/06/24/ai-powered-video-platform-salesroom-comes-out-of-stealth/amp/",
+      "publishedDateTime": "2022-06-24T14:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -895,26 +324,25 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "AWS AI"
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-06-23-predict-types-of-machine-failures-with-no-code-machine-learning-using-amazon-sagemaker-canvas.md",
-      "title": "Predict types of machine failures with no-code machine learning using Amazon SageMaker Canvas",
-      "excerpt": "Predicting common machine failure types is critical in manufacturing industries. Given a set of characteristics of a product that is tied to a given type of failure, you can develop a model that can predict the failure type when you feed those attributes to a machine learning (ML) model. ML can help",
+      "path": "_news/2022-06-25-deepracer-machine-learning-platform-offers-a-fun-way-to-learn-ml.md",
+      "title": "DeepRacer machine learning platform offers a fun way to learn ML",
+      "excerpt": "MARS event spotlighted cutting edge technologies, including machine learning, automation, robotics and space exploration. Machine learning, in particular, has seen advanced by leaps and bounds recently,",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/predict-types-of-machine-failures-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/predict-types-of-machine-failures-with-no-code-machine-learning-using-amazon-sagemaker-canvas/",
+      "webUrl": "https://siliconangle.com/2022/06/24/deepracer-machine-learning-platform-offers-fun-way-learn-ml-remars/",
+      "originalUrl": "https://siliconangle.com/2022/06/24/deepracer-machine-learning-platform-offers-fun-way-learn-ml-remars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 160,
+      "heat": 88,
       "tags": null,
       "images": [
         {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/23/predict-machine-failures.jpg",
-          "width": 1237,
-          "height": 622,
+          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/06/Mike-Miller-Amazon-reMARS-2022.jpg",
+          "width": 5472,
+          "height": 3648,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -924,7 +352,52 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T09:02:54-07:00",
+      "publishedDateTime": "2022-06-24T13:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker.md",
+      "title": "Improve ML developer productivity with Weights & Biases: A computer vision example on Amazon SageMaker",
+      "excerpt": "The content and opinions in this post are those of the third-party author and AWS is not responsible for the content or accuracy of this post. As more organizations use deep learning techniques such as computer vision and natural language processing, the machine learning (ML) developer persona needs",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/improve-ml-developer-productivity-with-weights-biases-a-computer-vision-example-on-amazon-sagemaker/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/weights-and-biases.jpg",
+          "width": 1245,
+          "height": 620,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T13:33:42-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",
@@ -949,33 +422,77 @@
       "topics": [
         "AI",
         "AWS AI",
-        "Machine Learning"
+        "Machine Learning",
+        "Computer Vision"
       ]
     },
     {
-      "path": "_news/2022-06-23-russias-yandex-opens-public-access-to-ai-large-language-model.md",
-      "title": "Russia's Yandex Opens Public Access to AI Large Language Model",
-      "excerpt": "Russian technology company Yandex said on Thursday it had made a large language model for artificial intelligence research open to the public, hoping to spawn faster and deeper development of certain AI technologies.",
+      "path": "_news/2022-06-25-westworld-cast-previews-whats-new-plus-the-uneasiness-of-season-4-video.md",
+      "title": "‘Westworld’ Cast Previews What’s New, Plus the Uneasiness of Season 4 (VIDEO)",
+      "excerpt": "It picks up seven years after the 2020 Season 3 finale, in which clever robot Dolores (Evan Rachel Wood) died after freeing humans from the mind control of a massive A.I. (This despite years of abuse at the hands of mortals when she was one of the hosts in the Westworld theme park.",
       "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2022-06-23/russias-yandex-opens-public-access-to-ai-large-language-model",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-06-23/russias-yandex-opens-public-access-to-ai-large-language-model",
+      "webUrl": "https://www.mdjonline.com/neighbor_newspapers/entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_4333c0c1-7e4d-5d63-8958-cdf5c5edd9c2.html",
+      "originalUrl": "https://www.mdjonline.com/neighbor_newspapers/entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_4333c0c1-7e4d-5d63-8958-cdf5c5edd9c2.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 77,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/custom/image/8e14a090-8f54-11e7-9a2a-7f0e56ddb42e.jpg?resize=600%2C400",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marietta Daily Journal",
+        "domain": "mdjonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-an-ai-learned-to-play-minecraft-and-its-actually-pretty-good.md",
+      "title": "An AI Learned to Play Minecraft, and It's Actually Pretty Good",
+      "excerpt": "Open AI engineers revealed their experiment in a research paper and subsequent blog post this week. OpenAI’s model was able to move beyond basic crafting and survival and actually perform many ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533",
+      "originalUrl": "https://gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
       "tags": null,
       "images": null,
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2022-06-23/russias-yandex-opens-public-access-to-ai-large-language-model?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-06-23/russias-yandex-opens-public-access-to-ai-large-language-model?context=amp",
-      "publishedDateTime": "2022-06-23T08:55:00-07:00",
+      "ampWebUrl": "https://gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/openai-taught-an-ai-to-play-minecraft-1849106533/amp",
+      "publishedDateTime": "2022-06-24T12:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -995,21 +512,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-23-amazon-robots-will-join-its-warehouse-workforce.md",
-      "title": "Amazon Robots Will Join Its Warehouse Workforce",
-      "excerpt": "While Amazon's Astro started hauling drinks from room to room in some homes this year, two new working robots will start hauling and sorting boxes at the company's warehouses in 2023. O, Amazon gave a first look at Proteus and Cardinal,",
+      "path": "_news/2022-06-25-artificial-intelligence-ai-in-higher-education-market-may-see-a-big-move-major-giants-cerevrum-ibm-google.md",
+      "title": "Artificial Intelligence (AI) in Higher Education Market May See a Big Move | Major Giants Cerevrum, IBM, Google",
+      "excerpt": "Artificial Intelligence (AI) in Higher Education Market, Global Outlook and Forecast 2022-2028 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting ...",
       "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/amazon-robots-will-join-its-warehouse-workforce/",
-      "originalUrl": "https://www.cnet.com/tech/amazon-robots-will-join-its-warehouse-workforce/",
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-higher-education-market-may-see-a-big-move-major-giants-cerevrum-ibm-google",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-in-higher-education-market-may-see-a-big-move-major-giants-cerevrum-ibm-google",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.cnet.com/a/img/resize/c58b82d01bac03ecddd20850eaf2bc8d99d26ca3/2022/06/22/c974b7b0-bbfe-4bcf-8ada-b6bbcd7d7e67/gettyimages-1241014040-amazon-building.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/Supreme-Court-USA-SCOTUS-Kavanaugh-Roberts-600x337.jpg",
+          "width": 600,
+          "height": 337,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1017,16 +534,346 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-robots-will-join-its-warehouse-workforce/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-robots-will-join-its-warehouse-workforce/",
-      "publishedDateTime": "2022-06-23T08:16:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T12:49:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-research-finds-babies-can-help-unlock-next-generation-of-artificial-intelligence.md",
+      "title": "Research finds babies can help unlock 'next generation' of artificial intelligence",
+      "excerpt": "According to neuroscientists at the Trinity College Dublin babies can help unlock the next generation of artificial intelligence AI",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/272598316/research-finds-babies-can-help-unlock-next-generation-of-artificial-intelligence",
+      "originalUrl": "https://www.bignewsnetwork.com/news/272598316/research-finds-babies-can-help-unlock-next-generation-of-artificial-intelligence",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/ani1656095078.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-entrepreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs.md",
+      "title": "Entrepreneurs, architects and artists: Why people with dyslexia could be drawn to certain jobs",
+      "excerpt": "Estimates suggest that up to 20% of the population have dyslexia - and the study's aim was to better understand their cognitive strengths. Lead author Dr Helen Taylor said \"the deficit-centred ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.sky.com/story/entrepreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
+      "originalUrl": "https://news.sky.com/story/entrepreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://e3.365dm.com/22/06/1600x900/skynews-richard-branson-dyslexia_5813744.jpg?20220624114741",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://news.sky.com/story/amp/entrepreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
+      "cdnAmpWebUrl": "https://news-sky-com.cdn.ampproject.org/c/s/news.sky.com/story/amp/entrepreneurs-architects-and-artists-why-people-with-dyslexia-could-be-drawn-to-certain-jobs-12639682",
+      "publishedDateTime": "2022-06-24T11:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sky",
+        "domain": "sky.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-analyze-and-tag-assets-stored-in-veeva-vault-promomats-using-amazon-appflow-and-amazon-ai-services.md",
+      "title": "Analyze and tag assets stored in Veeva Vault PromoMats using Amazon AppFlow and Amazon AI Services",
+      "excerpt": "In a previous post, we talked about analyzing and tagging assets stored in Veeva Vault PromoMats using Amazon AI services and the Veeva Vault Platform’s APIs. In this post, we explore how to use Amazon AppFlow, a fully managed integration service that enables you to securely transfer data from software",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-and-tag-assets-stored-in-veeva-vault-promomats-using-amazon-appflow-and-amazon-ai-services/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/analyze-and-tag-assets-stored-in-veeva-vault-promomats-using-amazon-appflow-and-amazon-ai-services/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/24/analyze-and-tag-assets-veeva.jpg",
+          "width": 1248,
+          "height": 621,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T10:56:40-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-everything-you-need-to-know-about-model-free-and-model-based-reinforcement-learning.md",
+      "title": "Everything you need to know about model-free and model-based reinforcement learning",
+      "excerpt": "However, while inductive biases might be easy to understand for an object recognition task, they become a lot more complicated for abstract problems such as building social relationships.",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/everything-you-need-to-know-about-model-free-and-model-based-reinforcement-learning",
+      "originalUrl": "https://thenextweb.com/news/everything-you-need-to-know-about-model-free-and-model-based-reinforcement-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2FModel-free-reinforcement-learning-hed.jpg&signature=f17cf502cd5c0a56428d0d9336650ba5",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-the-smartest-way-to-play-the-autonomous-vehicle-boom.md",
+      "title": "The Smartest Way to Play the Autonomous Vehicle Boom",
+      "excerpt": "Breuer “invented” the concept of self-driving cars. At the time, it was considered a wild concept from a zany novelist. But over the following century, Breuer’s concept of autonomy inspired ...",
+      "sourceUrl": null,
+      "webUrl": "https://investorplace.com/hypergrowthinvesting/2022/06/the-autonomous-vehicle-boom-self-driving-car-stocks/",
+      "originalUrl": "https://investorplace.com/hypergrowthinvesting/2022/06/the-autonomous-vehicle-boom-self-driving-car-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://investorplace.com/wp-content/uploads/2022/02/electric-autonomous-vehicles-city.png",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InvestorPlace",
+        "domain": "investorplace.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-on-crm-viva-adds-to-microsofts-organized-chaos-of-apps.md",
+      "title": "On CRM: Viva Adds To Microsoft's Organized Chaos Of Apps",
+      "excerpt": "In Microsoft's case, yes. The software giant makes…well…software. Lots and lots of it. Too much of it, actually. Just think of the company's primary business application offerings, many of which are under the brand of Microsoft 365.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/",
+      "originalUrl": "https://www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62b5923e3cff2c268c7a1f0b/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/quickerbettertech/2022/06/24/on-crm-viva-adds-to-microsofts-organized-chaos-of-apps/amp/",
+      "publishedDateTime": "2022-06-24T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-robots-become-racist-and-sexist-bigots-due-to-flawed-ai-study-says.md",
+      "title": "Robots Become Racist and Sexist Bigots Due to Flawed AI, Study Says",
+      "excerpt": "This is according to an international study conducted by a number of universities, including Johns Hopkins University, which said in a statement obtained by Zenger News on Tuesday: \"A robot operating with a popular Internet-based artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989",
+      "originalUrl": "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2065423/robot-ai-research.jpg",
+          "width": 2000,
+          "height": 1718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989?amp=1",
+      "publishedDateTime": "2022-06-24T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1047,21 +894,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-23-gms-cruise-starts-charging-fares-for-driverless-rides-in-san-francisco.md",
-      "title": "GM's Cruise starts charging fares for driverless rides in San Francisco",
-      "excerpt": "June 23 (Reuters) - General Motors Co's (GM.N) Cruise has started charging fares for driverless rides in San Francisco, the company said on Thursday, a step towards commercialization of the service.",
+      "path": "_news/2022-06-24-teslas-enhanced-autopilot-back-again-after-full-self-driving-criticism.md",
+      "title": "Tesla’s ‘Enhanced Autopilot’ Back Again After Full-Self Driving Criticism",
+      "excerpt": "Tesla brought back Enhanced Autopilot after a three-year hiatus, and its $6,000 price tag has some owners questioning the value.",
       "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/gms-cruise-starts-charging-fares-driverless-rides-san-francisco-2022-06-23/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/gms-cruise-starts-charging-fares-driverless-rides-san-francisco-2022-06-23/",
+      "webUrl": "https://www.thedrive.com/news/teslas-enhanced-autopilot-back-again-after-full-self-driving-criticism",
+      "originalUrl": "https://www.thedrive.com/news/teslas-enhanced-autopilot-back-again-after-full-self-driving-criticism",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 78,
       "tags": null,
       "images": [
         {
-          "url": "https://www.reuters.com/resizer/MOAR8CRw1cjC3hfAaS31AxUss7c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6CPCJS5RENKQFCLZ7ABT3Q2FHU.jpg",
-          "width": 1200,
-          "height": 628,
+          "url": "https://www.thedrive.com/uploads/2022/06/24/20220624-Tesla-Model-Y-Driving.jpg?auto=webp",
+          "width": 1920,
+          "height": 1080,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1071,21 +918,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T08:12:00-07:00",
+      "publishedDateTime": "2022-06-24T08:50:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "The Drive",
+        "domain": "thedrive.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1099,21 +937,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-23-octoml-launches-new-machine-learning-platform-expansion.md",
-      "title": "OctoML launches new machine learning platform expansion",
-      "excerpt": "Today OctoML, provider of a machine learning acceleration platform, released a major platform expansion in order to accelerate the development of AI-powered applications by eliminating bottlenecks ...",
+      "path": "_news/2022-06-24-how-to-use-human-centered-ai-with-forethought-and-nea.md",
+      "title": "How to use human-centered AI with Forethought and NEA",
+      "excerpt": "Deon Nicholas is the CEO and co-founder of Forethought, the AI company whose mission is to transform customer experiences with human-centered AI. Forethought has raised over $100 million in venture capital,",
       "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/octoml-launches-new-machine-learning-platform-expansion/",
-      "originalUrl": "https://sdtimes.com/ai/octoml-launches-new-machine-learning-platform-expansion/",
+      "webUrl": "https://techcrunch.com/2022/06/24/how-to-use-human-centered-ai-with-forethought-and-nea/",
+      "originalUrl": "https://techcrunch.com/2022/06/24/how-to-use-human-centered-ai-with-forethought-and-nea/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 84,
+      "heat": 117,
       "tags": null,
       "images": [
         {
-          "url": "https://sdtimes.com/wp-content/uploads/2022/06/8d0b569cbf3ee6cec31affcb22c63988-490x326.jpg",
-          "width": 490,
-          "height": 326,
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/TCL-2022-06-29-featured-1920x1080-1.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1121,16 +959,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T08:09:00-07:00",
+      "ampWebUrl": "https://techcrunch.com/2022/06/24/how-to-use-human-centered-ai-with-forethought-and-nea/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/24/how-to-use-human-centered-ai-with-forethought-and-nea/amp/",
+      "publishedDateTime": "2022-06-24T08:38:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1146,7 +984,168 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-new-deep-learning-model-helps-the-automated-screening-of-common-eye-disorders.md",
+      "title": "New deep-learning model helps the automated screening of common eye disorders",
+      "excerpt": "More information: Parmanand Sharma et al, A lightweight deep learning model for automatic segmentation and analysis of ophthalmic images, Scientific Reports (2022). DOI: 10.1038/s41598-022-12486-w ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-06-deep-learning-automated-screening-common-eye.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-06-deep-learning-automated-screening-common-eye.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/new-deep-learning-mode.jpg",
+          "width": 466,
+          "height": 402,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-06-deep-learning-automated-screening-common-eye.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-deep-learning-automated-screening-common-eye.amp",
+      "publishedDateTime": "2022-06-24T08:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-speech-and-voice-recognition-market-worth-281-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
+      "title": "Speech and Voice Recognition Market worth $28.1 billion by 2027 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "The key factors contributing to the growth of the speech and voice recognition market include increasing demand in healthcare for improving efficiency and the growing use of smart appliances are among the factors driving the growth of the speech and voice recognition market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/06/24/9628229.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/06/24/9628229.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T07:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-chatbots-can-use-ai-to-guide-customers-to-the-right-human-based-experience.md",
+      "title": "Chatbots can use AI to guide customers to the right human-based experience",
+      "excerpt": "Chatbots that use more advanced AI algorithms could give customers a seamless experience transitioning between technology and humans.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/chatbots-will-link-artificial-intelligence-and-human-interaction-2022-6",
+      "originalUrl": "https://www.businessinsider.com/chatbots-will-link-artificial-intelligence-and-human-interaction-2022-6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/612e98ba12b9cc001963956a?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/chatbots-will-link-artificial-intelligence-and-human-interaction-2022-6?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/chatbots-will-link-artificial-intelligence-and-human-interaction-2022-6?amp",
+      "publishedDateTime": "2022-06-24T07:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-westworld-ep-teases-new-worlds-ed-harris-secrets-in-season-4.md",
+      "title": "‘Westworld’ EP Teases New ‘Worlds’ & Ed Harris’ Secrets in Season 4",
+      "excerpt": "Some things are very, very, very different. Some things have stayed the same,' says executive producer Lisa Joy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.the-messenger.com/lifestyles/entertainment/article_56b03c3f-4eaa-57ba-8f79-fdd8a928af56.html",
+      "originalUrl": "https://www.the-messenger.com/lifestyles/entertainment/article_56b03c3f-4eaa-57ba-8f79-fdd8a928af56.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Messenger",
+        "domain": "the-messenger.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

@@ -2,6 +2,103 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-22-microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai.md",
+      "title": "Microsoft Restricts Its Facial Recognition Tools Citing The Need for 'Responsible AI'",
+      "excerpt": "The tech releases a Responsible AI Standard document that lays out its goals toward equitable and trustworthy AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/",
+      "originalUrl": "https://www.cnet.com/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/290f770fd6283318e4d4c021da82022ea12a273c/2020/06/30/f91e01e4-1013-4fbf-af9c-f59f543d90cd/facial-recognition-face-id-passw.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/",
+      "publishedDateTime": "2022-06-21T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-sea-machines-debuts-ai-ris-computer-vision-for-commercial-vessels.md",
+      "title": "Sea Machines Debuts AI-ris Computer Vision for Commercial Vessels",
+      "excerpt": "Marine perception sensor aims to provide high-def situational awareness to eliminate at-sea collisions and allisionsSea",
+      "sourceUrl": null,
+      "webUrl": "https://www.marinetechnologynews.com/news/machines-debuts-computer-vision-620557",
+      "originalUrl": "https://www.marinetechnologynews.com/news/machines-debuts-computer-vision-620557",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.marinetechnologynews.com/images/maritime/w800/image-courtesy-machines-133099.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T06:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "marinetechnologynews.com",
+        "domain": "marinetechnologynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-20-face-recognition-technology-market-is-expected-to-boom-daonkeylemontechno-brainibmidemiaanimetricsfacefirst-incnec.md",
       "title": "Face Recognition Technology Market Is Expected to Boom | Daon,Keylemon,Techno Brain,IBM,Idemia,Animetrics,Facefirst Inc.,NEC",
       "excerpt": "This report studies the Face Recognition Technology Market with many aspects of the industry like the market size, market status, market trends and forecast, the report also provides brief ...",
@@ -1214,84 +1311,6 @@
         "AI",
         "Google AI",
         "TensorFlow"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-stats-perform-to-launch-opta-vision.md",
-      "title": "Stats Perform To Launch Opta Vision",
-      "excerpt": "The Next Generation of Sports Data Delivering On the Promise of Richer Insights LONDON, June 10, 2022 /PRNewswire/ --Stats Perform, the sports",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/stats-perform-to-launch-opta-vision-1031521412",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/stats-perform-to-launch-opta-vision-1031521412",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-10T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-how-vision-systems-work-in-robotics.md",
-      "title": "How Vision Systems Work in Robotics",
-      "excerpt": "Robot vision systems are commonly referred to as machine vision. This vision tool is used in several industrial processes, including material inspection, object recognition, and pattern recognition. Each industry applies its particular values to machine ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/automation/how-vision-systems-work-robotics",
-      "originalUrl": "https://www.designnews.com/automation/how-vision-systems-work-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

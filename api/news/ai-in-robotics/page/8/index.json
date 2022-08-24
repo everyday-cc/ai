@@ -2,6 +2,307 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-06-27-area-high-school-students-learn-about-robotics-at-summer-camp.md",
+      "title": "Area high school students learn about robotics at summer camp",
+      "excerpt": "Isa Alstrom and Brody Guajardo worked together Tuesday to build a robot and create a program that will allow the robot to detect colors using sensors during the University of",
+      "sourceUrl": null,
+      "webUrl": "https://www.victoriaadvocate.com/news/area-high-school-students-learn-about-robotics-at-summer-camp/article_7846e020-f264-11ec-8346-2f09bd6ec0c0.html",
+      "originalUrl": "https://www.victoriaadvocate.com/news/area-high-school-students-learn-about-robotics-at-summer-camp/article_7846e020-f264-11ec-8346-2f09bd6ec0c0.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/victoriaadvocate.com/content/tncms/assets/v3/editorial/c/02/c02058d6-f264-11ec-b8b3-3f74528f226c/62b3730067bfb.image.jpg?resize=400%2C302",
+          "width": 400,
+          "height": 302,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-26T12:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Victoria Advocate",
+        "domain": "victoriaadvocate.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-flagship-harbor-advisors-llc.md",
+      "title": "First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT) Shares Purchased by Flagship Harbor Advisors LLC",
+      "excerpt": "Flagship Harbor Advisors LLC raised its holdings in shares of First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT – Get Rating) by 5.2% in the first quarter, according to the company in its most recent filing with the Securities ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/06/25/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-flagship-harbor-advisors-llc/",
+      "originalUrl": "https://www.etfdailynews.com/2022/06/25/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-flagship-harbor-advisors-llc/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/logos/generic-stocks7.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/06/25/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-flagship-harbor-advisors-llc/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/25/first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt-shares-purchased-by-flagship-harbor-advisors-llc/amp/",
+      "publishedDateTime": "2022-06-25T02:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-nigerias-oil-sector-looks-on-as-robotics-adoption-picks-up.md",
+      "title": "Nigeria’s oil sector looks on as robotics adoption picks up",
+      "excerpt": "The world is prepping for an oil and gas industry where completely unmanned assets are operated, inspected and maintained with digitisation and artificial",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/energy/oilandgas/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
+      "originalUrl": "https://businessday.ng/energy/oilandgas/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2017/11/How-robots-will-change-dynamics-of-shared-services-centralised-processing-1-1.jpg?resize=450%2C300&ssl=1",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessday.ng/amp/energy/oilandgas/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/energy/oilandgas/article/nigerias-oil-sector-looks-as-robotics-adoption-picks-up/",
+      "publishedDateTime": "2022-06-24T22:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-flawed-ai-makes-robots-racist-sexist.md",
+      "title": "Flawed AI makes robots racist, sexist",
+      "excerpt": "The work, led by Johns Hopkins University, the Georgia Institute of Technology, and University of Washington researchers, is believed to be the first to show that robots loaded with an accepted and widely used model operate with significant gender and racial biases.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/957065",
+      "originalUrl": "https://www.eurekalert.org/news-releases/957065",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/7667c6ad-9eb3-4059-bf6d-ab9842d2fbc4/Rendition/low-res/Content/Public",
+          "width": 700,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T15:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-25-westworld-cast-previews-whats-new-plus-the-uneasiness-of-season-4-video.md",
+      "title": "‘Westworld’ Cast Previews What’s New, Plus the Uneasiness of Season 4 (VIDEO)",
+      "excerpt": "It picks up seven years after the 2020 Season 3 finale, in which clever robot Dolores (Evan Rachel Wood) died after freeing humans from the mind control of a massive A.I. (This despite years of abuse at the hands of mortals when she was one of the hosts in the Westworld theme park.",
+      "sourceUrl": null,
+      "webUrl": "https://www.mdjonline.com/neighbor_newspapers/entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_4333c0c1-7e4d-5d63-8958-cdf5c5edd9c2.html",
+      "originalUrl": "https://www.mdjonline.com/neighbor_newspapers/entertainment/westworld-cast-previews-what-s-new-plus-the-uneasiness-of-season-4-video/article_4333c0c1-7e4d-5d63-8958-cdf5c5edd9c2.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/mdjonline.com/content/tncms/custom/image/8e14a090-8f54-11e7-9a2a-7f0e56ddb42e.jpg?resize=600%2C400",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Marietta Daily Journal",
+        "domain": "mdjonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-robots-become-racist-and-sexist-bigots-due-to-flawed-ai-study-says.md",
+      "title": "Robots Become Racist and Sexist Bigots Due to Flawed AI, Study Says",
+      "excerpt": "This is according to an international study conducted by a number of universities, including Johns Hopkins University, which said in a statement obtained by Zenger News on Tuesday: \"A robot operating with a popular Internet-based artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989",
+      "originalUrl": "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d.newsweek.com/en/full/2065423/robot-ai-research.jpg",
+          "width": 2000,
+          "height": 1718,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989?amp=1",
+      "cdnAmpWebUrl": "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/robots-become-racist-sexist-bigots-due-flawed-ai-study-says-1718989?amp=1",
+      "publishedDateTime": "2022-06-24T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Newsweek",
+        "domain": "newsweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-westworld-ep-teases-new-worlds-ed-harris-secrets-in-season-4.md",
+      "title": "‘Westworld’ EP Teases New ‘Worlds’ & Ed Harris’ Secrets in Season 4",
+      "excerpt": "Some things are very, very, very different. Some things have stayed the same,' says executive producer Lisa Joy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.the-messenger.com/lifestyles/entertainment/article_56b03c3f-4eaa-57ba-8f79-fdd8a928af56.html",
+      "originalUrl": "https://www.the-messenger.com/lifestyles/entertainment/article_56b03c3f-4eaa-57ba-8f79-fdd8a928af56.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-24T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Messenger",
+        "domain": "the-messenger.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-24-gilbert-student-wins-international-robotics-award.md",
       "title": "Gilbert student wins international robotics award",
       "excerpt": "Humans have been exploring the topic of machines surpassing us and becoming a threat as far back as 1872, when the novel “Erewhon” worried about them gaining consciousness and being",
@@ -1056,309 +1357,6 @@
       "provider": {
         "name": "Futurism",
         "domain": "futurism.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-new-ai-limbs-let-amputees-control-robotic-arms-with-just-the-power-of-their-mind.md",
-      "title": "New AI limbs let amputees control robotic arms with just the power of their mind",
-      "excerpt": "AMPUTEES could use the power of their minds to control new AI robotic arms, research shows. A team of scientists has created prosthetic technology that enables people to control robot arms by",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/",
-      "originalUrl": "https://www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/06/RL-offplat-brain-power.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/18915787/amputees-control-artificial-intelligence-limbs-mind-power/amp/",
-      "publishedDateTime": "2022-06-16T18:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance.md",
-      "title": "Robot artist Ai-Da paints Glastonbury headliners ahead of festival attendance",
-      "excerpt": "Ai-Da Robot has created four portraits of the Somerset festival’s headline acts: Billie Eilish, Diana Ross, Kendrick Lamar and Sir Paul McCartney. To start, Ai-Da Robot uses cameras in its eyes ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html",
-      "originalUrl": "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.independent.ie/entertainment/music/da2ce/41761859.ece/AUTOCROP/w1240h700/ipanews_35e76834-6e7c-4944-b8c4-e926f0e92322_1",
-          "width": 1240,
-          "height": 700,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html",
-      "cdnAmpWebUrl": "https://www-independent-ie.cdn.ampproject.org/c/s/www.independent.ie/entertainment/music/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-41761862.html",
-      "publishedDateTime": "2022-06-16T17:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Independent.ie",
-        "domain": "independent.ie",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-funding-the-robot-revolution.md",
-      "title": "Funding the robot revolution",
-      "excerpt": "I also had the opportunity to get a peek at a few projects from Pieter Abbeel’s lab at Berkeley Artificial Intelligence Research ... ve seen with the larger startup. The past couple of years ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/16/funding-the-robot-revolution/",
-      "originalUrl": "https://techcrunch.com/2022/06/16/funding-the-robot-revolution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/prime-air-drone-deliver-04.jpeg?w=1024",
-          "width": 1024,
-          "height": 656,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/16/funding-the-robot-revolution/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/16/funding-the-robot-revolution/amp/",
-      "publishedDateTime": "2022-06-16T11:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-horizon-robotics-releases-robot-development-platform.md",
-      "title": "Horizon Robotics releases robot development platform",
-      "excerpt": "The Horizon Hobot Platform consists of the company's Sunrise chip, the TogetherROS operating system, Boxs reference algorithm, robot application examples and supporting development tools.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/horizon-robotics-releases-robot-development-platform/",
-      "originalUrl": "https://www.therobotreport.com/horizon-robotics-releases-robot-development-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/06/featured-web-horizon-robotics.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T11:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-robot-sales-in-north-america-see-their-best-q1-ever.md",
-      "title": "Robot Sales in North America See Their Best Q1 Ever",
-      "excerpt": "R ising consumer prices amid rampant global inflation apparently didn't stop spending on robotics in North America. Sales were up 28% compared to the same quarter a year ago. Addi",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/robot-sales-in-north-america-see-their-best-q1-ever",
-      "originalUrl": "https://www.nasdaq.com/articles/robot-sales-in-north-america-see-their-best-q1-ever",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/robot-sales-in-north-america-see-their-best-q1-ever?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robot-sales-in-north-america-see-their-best-q1-ever?amp",
-      "publishedDateTime": "2022-06-16T05:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots.md",
-      "title": "Acceleration Robotics Launch ROBOTCORE™ to Speed-up ROS 2 Robots",
-      "excerpt": "While providing a vendor-agnostic ROS-centric development flow, ROBOTCORE™ solves customer design challenges in robotic areas including sensing, perception, mapping, localization, motion control, low-level control or actuation, with speedups surpassing ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/",
-      "originalUrl": "https://www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.01net.it/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/amp/",
-      "cdnAmpWebUrl": "https://www-01net-it.cdn.ampproject.org/c/s/www.01net.it/acceleration-robotics-launch-robotcore-to-speed-up-ros-2-robots/amp/",
-      "publishedDateTime": "2022-06-16T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "01Net",
-        "domain": "01net.it",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance.md",
-      "title": "Robot artist Ai-Da paints Glastonbury headliners ahead of festival attendance",
-      "excerpt": "Portraits of the acts headlining this year’s Glastonbury Festival have been painted by an ultra-realistic humanoid robot artist ahead of the event. The paintings, each of which is a colourful ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kentonline.co.uk/news/national/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-61337/",
-      "originalUrl": "https://www.kentonline.co.uk/news/national/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-61337/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kentonline.co.uk/_media/img/A051U1L3QEUC7V2L8Y6K.jpg",
-          "width": 1620,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kentonline.co.uk/news/national/amp/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-61337/",
-      "cdnAmpWebUrl": "https://www-kentonline-co-uk.cdn.ampproject.org/c/s/www.kentonline.co.uk/news/national/amp/robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance-61337/",
-      "publishedDateTime": "2022-06-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kent Online",
-        "domain": "kentonline.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

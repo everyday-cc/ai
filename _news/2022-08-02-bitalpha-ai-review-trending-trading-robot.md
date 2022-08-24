@@ -14,6 +14,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://augustafreepress.com/wp-content/uploads/2022/08/bitalpha-ai-bot.png"

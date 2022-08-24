@@ -1,29 +1,26 @@
 ---
 category: news
 title: "Kardome Expands Voice Technology Offerings"
-excerpt: "The voice technology company adds Voice Biometrics and Wake Word detection to its portfolio of speech recognition enhancement technologies Kardome, a leading provider of speech recognition enhancement solutions for ASR systems,"
-publishedDateTime: 2022-08-17T16:49:00Z
-originalUrl: "https://apnews.com/press-release/kisspr/technology-biometrics-bf36a3be5cea86342bcb0ab3369eae4b"
-webUrl: "https://apnews.com/press-release/kisspr/technology-biometrics-bf36a3be5cea86342bcb0ab3369eae4b"
+excerpt: "Tel Aviv, Israel - Newsfile Corp. - August 17, 2022 - Kardome, a leading provider of speech recognition enhancement solutions for ASR systems, today announced the expansion of its offerings with ..."
+publishedDateTime: 2022-08-17T16:04:00Z
+originalUrl: "https://www.asiaone.com/business/kardome-expands-voice-technology-offerings"
+webUrl: "https://www.asiaone.com/business/kardome-expands-voice-technology-offerings"
 type: article
-quality: 24
-heat: 24
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Asia One
+  domain: asiaone.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2022/8225_0.jpg?h=bde28bee&itok=Myedg5-4"
+    width: 600
+    height: 316
     isCached: true
 
-secured: "MBx8PVgM7jW+RGgHd7gs1r6GaKJfyn9OMcqMz+CRHur1ebrInj2lFtkFCUs5ZtFlZyQrT/lH6Mda1m8FLahMWmRQ3w9wizHWDJWo08069wW4jdTqe8SXL3FDVRD2n9sbaVc7zR391X+3eSRgXZu5NyBjrPSrYTz4UmYPKu95fXL6AWY7jOKypC0eB3/g/b1tO5z2CeGkl9v+xubetkQfkF5aaeXxV4f8AFi2yjixnKOVUInLnM76eWdbrG5LFqlzCfpv5+KxiedXu8rwNgN6JQvG3QYOrqO+tQhUCuXaHpcvIZ3a8ofXutkO0rJ1ip+76pVkilbN/JlfGBp/Cio6g46fnAJ1vHQ91OIlpOdiX/U=;fbA3LTLt/WS6JJYVWb+qdQ=="
+secured: "9lQ52M9Z7gV2zeOiLyCi1708OMXmTFiD2woIU6+BePiDZhs/nSk3v/JbiTChUrdvSnYWpfpKf/eI0XkVo1t/XWFbLVvD42auCCq+w2SQrzIe10VF6qTbr47jX6TW18H1F2FAZ38vBBvWnV9AfY9o43kBcwAf/jPgSkAP1qG/ZXxEhYHLcHWeyU91b8Jnacr/xoS/B0pFoqrmLLhV0BPulHjPOv3rvcOKh+2nzN/bPmn2O7djWW3eeji2oG5zX0YJ45inqHXSNOKU6xqrYLsi+S4TNcyofanw+TbsTNe32CzL/9rH2bB8cGy0V39m2s5g5uMqQ5mid142aBDqyfhcPGw5+j5+7ULKlqI5KLF3KRM=;m3Vu5AVpVVr95uePUQa32w=="
 ---
 

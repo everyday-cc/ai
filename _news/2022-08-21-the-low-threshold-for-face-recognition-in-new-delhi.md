@@ -33,7 +33,7 @@ related:
     provider:
       name: The Hindu
       domain: thehindu.com
-    quality: 74
+    quality: 76
     images:
       - url: "https://th-i.thgim.com/public/incoming/69w7u9/article65793992.ece/alternates/LANDSCAPE_615/iStock-1280436988.jpg"
         width: 615

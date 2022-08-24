@@ -1,56 +1,30 @@
 ---
 category: news
 title: "OK Google, get me a Coke: AI giant demos soda-fetching robots"
-excerpt: "Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
-publishedDateTime: 2022-08-16T18:27:00Z
-originalUrl: "https://www.ksl.com/article/50458756/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots"
-webUrl: "https://www.ksl.com/article/50458756/ok-google-get-me-a-coke-ai-giant-demos-soda-fetching-robots"
+excerpt: "The mechanical waiters, shown in action to reporters last week, embody an artificial intelligence breakthrough ... SK invests $100 million in EV-focused startup Atom Power, article with image ..."
+publishedDateTime: 2022-08-17T03:45:00Z
+originalUrl: "https://www.reuters.com/technology/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-2022-08-16/"
+webUrl: "https://www.reuters.com/technology/ok-google-get-me-coke-ai-giant-demos-soda-fetching-robots-2022-08-16/"
 type: article
-quality: 54
-heat: -1
-published: false
 
 provider:
-  name: KSL
-  domain: ksl.com
+  name: Reuters
+  domain: reuters.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Robotics
   - AI
 
 images:
-  - url: "https://img.ksl.com/slc/2889/288904/28890475.JPG?filter=kslv2/responsive_story_lg"
-    width: 1228
-    height: 690
+  - url: "https://www.reuters.com/resizer/bjkxshKYbY-aflWiRgzZTSy3SBo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/FDVFGQ47PFNBLG4QVUBQ5GGNNQ.jpg"
+    width: 1200
+    height: 628
     isCached: true
 
-related:
-  - title: "Ok Google, Get Me A Soda! Take A Look At The AI Giant Soda-Fetching Robots"
-    excerpt: "Speaking orders are naturally understood by robots, who consider their options in light of their capabilities and make little plans to carry out the request."
-    publishedDateTime: 2022-08-17T10:39:00Z
-    webUrl: "https://in.mashable.com/tech/36870/ok-google-get-me-a-soda-take-a-look-at-the-ai-giant-soda-fetching-robots"
-    ampWebUrl: "https://in.mashable.com/tech/36870/ok-google-get-me-a-soda-take-a-look-at-the-ai-giant-soda-fetching-robots?amp=1"
-    cdnAmpWebUrl: "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/36870/ok-google-get-me-a-soda-take-a-look-at-the-ai-giant-soda-fetching-robots?amp=1"
-    type: article
-    provider:
-      name: Mashable
-      domain: mashable.com
-    quality: 87
-    images:
-      - url: "https://sm.mashable.com/t/mashable_in/photo/default/cb8857d3-f1ac-4a86-a6e7-c49f1fb29ef2_drtz.620.jpg"
-        width: 619
-        height: 374
-        isCached: true
-  - title: "OK Google, get me a Coke: AI giant demos soda-fetching robots"
-    excerpt: "Alphabet Inc.'s Google is combining the eyes and arms of physical robots with the knowledge and conversation skills of virtual chatbots to help its employees fetch soda and chips from breakrooms with ease."
-    publishedDateTime: 2022-08-19T13:03:00Z
-    webUrl: "https://www.gmanetwork.com/news/scitech/technology/842151/ok-google-get-me-a-coke-ai-giant-demos-soda-fhing-robots/story/"
-    type: article
-    provider:
-      name: GMA Network
-      domain: gmanetwork.com
-    quality: 34
-
-secured: "Q6bKzLr/8FYSj5evUk6WqccNuF+hoV3ltGc3SSD//xgDTu6dpzIKBupsFp/pJ4lur7rIV7QPHY7fMfZdTEwnwx5xlEEgOIDdietFzDiEuMCPWvcliQY+UORdcrbNiaKwy1kF5qX+jrpQ0hluAhbOaHBrOqX/V24ozQ1EsRB2mEdI0ZosE4npPEcSx17A+X5zkswzc1X06Z2pk7bgREeDPqz1UmTxdTnrVN6hxm5dLWpZwCv1nDFrLL8Zu0EJXI3KzBtLPWP42CTF0yjFGviGF9WOl/MxbaCsftCoVb2hKBFQIwfRMv0+5LZokDkZacYqF2lciErO4tHKKkHnDtPTVf3OTg/y3LJGfZIm3+y8YG0aW/y0Dewa+R1eoX6S/wNUNNQr4vMRtQQLHAYoLXtUhS5G90L+Wr/rDSIt4XZTP8y4AFIO4PhRbIFAEl+bQ5KHDL3MrnO+1h0/hYij0ex76Bhfex6REUiYa8lwrxYZRsh+yjM97hGJrlKTujrbvR/ZwodDUlPPwqV+x/Qadb+TQQ==;d0nuHETA9El/3y9Kpvt5SA=="
+secured: "x7FIg3kWytP9kkcG853aZmdci2bv+SMQEJu/tL67wZjasZHy5Ys4tPCJfBI5f8lzR7HyC6fCzATj6gc2zIeyYE8WGfaMCafS2Dm/4/B5vuzp2ghqUzdh0LQompuCxAqdc8pqIM6n/Yf5zpwFVuFpgmL6GkA0eIa9FvJ4542YYZ+aJKcEfh7fjmT5smD4xOmgH8edJp1ZvHkS6vq4QU0fRlxM8eNf9dHKl5l8+sWEemKjBC9NLZMU297z9PpBrYaXG/mjF88yEOHhlYYxVnYvs9OB4dnwiyL3e4UEjY4wKZ67FlB7DoxSW4fZYfPKByd5p19ZJV6zPgkv0VSq4+cxu28Exmb3YaKsVmQb9TQpDS0=;fzKpUx7+IiLwqz6FUZd5Hg=="
 ---
 

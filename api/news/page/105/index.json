@@ -2,54 +2,12 @@
   "page": 105,
   "value": [
     {
-      "path": "_news/2022-06-01-singsing-the-first-sing-to-earn-project-with-ai-scoring-technology.md",
-      "title": "SingSing: The first sing-to-earn project with AI-scoring technology",
-      "excerpt": "SingSing will soon become the first musical social finance (SocialFi) platform, with sing-to-earn features targeting a community of about four billion music lovers in Asia.",
+      "path": "_news/2022-06-02-snowflake-vs-databricks-data-platform-comparison-2022.md",
+      "title": "Snowflake vs. Databricks: Data Platform Comparison 2022",
+      "excerpt": "The comparison between data platforms Snowflake and Databricks is crucial for today’s business, because data analytics and data management are now deeply essential to businesses",
       "sourceUrl": null,
-      "webUrl": "https://cointelegraph.com/press-releases/singsing-the-first-sing-to-earn-project-with-ai-scoring-technology",
-      "originalUrl": "https://cointelegraph.com/press-releases/singsing-the-first-sing-to-earn-project-with-ai-scoring-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.cointelegraph.com/images/740_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS9zdG9yYWdlL3VwbG9hZHMvdmlldy8yODZiM2FjYjczZjljY2JiODA5NTVmMGIxMzk4ZTMzYi5qcGc=.jpg",
-          "width": 740,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://cointelegraph.com/press-releases/singsing-the-first-sing-to-earn-project-with-ai-scoring-technology/amp",
-      "cdnAmpWebUrl": "https://cointelegraph-com.cdn.ampproject.org/c/s/cointelegraph.com/press-releases/singsing-the-first-sing-to-earn-project-with-ai-scoring-technology/amp",
-      "publishedDateTime": "2022-06-01T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CoinTelegraph",
-        "domain": "cointelegraph.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-face-recognition-door-lock-market-size-share-and-major-industry-players-forecast-2021-2028.md",
-      "title": "Face Recognition Door Lock Market Size, Share And Major Industry Players Forecast (2021-2028)",
-      "excerpt": "The global “Face Recognition Door Lock Market Size ” research report encompasses a thorough study of the current situation of the global market along with several market dynamics. To formulate this report,",
-      "sourceUrl": null,
-      "webUrl": "https://xaralite.com/369617/news/face-recognition-door-lock-market-size-share-and-major-industry-players-forecast-2021-2028-2/",
-      "originalUrl": "https://xaralite.com/369617/news/face-recognition-door-lock-market-size-share-and-major-industry-players-forecast-2021-2028-2/",
+      "webUrl": "https://www.eweek.com/big-data-and-analytics/snowflake-vs-databricks/",
+      "originalUrl": "https://www.eweek.com/big-data-and-analytics/snowflake-vs-databricks/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -59,11 +17,228 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T23:38:00-07:00",
+      "publishedDateTime": "2022-06-01T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-c3ai-plunges-as-after-q4-loss-widens-sees-sales-slowdown-in-2023.md",
+      "title": "C3.ai plunges as after Q4 loss widens, sees sales slowdown in 2023",
+      "excerpt": "C3.ai (AI) shares plunged 20% in after-hours trading after the enterprise software company posted mixed fourth-quarter results and said sales for fiscal 2023 would come in",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3844745-c3ai-plunges-as-after-q4-loss-widens-sees-sales-slowdown-in-2023",
+      "originalUrl": "https://seekingalpha.com/news/3844745-c3ai-plunges-as-after-q4-loss-widens-sees-sales-slowdown-in-2023",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1347310666/image_1347310666.jpg?io=getty-c-w750",
+          "width": 750,
+          "height": 422,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T13:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace.md",
+      "title": "Zeta Marketing Platform Becomes the First Marketing Cloud Available in AWS Marketplace",
+      "excerpt": "“AWS and Zeta are delivering a simplified and effective ... and unstructured data points to predict consumer intent by leveraging sophisticated artificial intelligence to personalize experiences at scale. Founded in 2007 by David A.",
+      "sourceUrl": null,
+      "webUrl": "https://www.joplinglobe.com/region/national_business/zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace/article_d92aff26-0c18-5f19-a4ad-fe75fef25e43.html",
+      "originalUrl": "https://www.joplinglobe.com/region/national_business/zeta-marketing-platform-becomes-the-first-marketing-cloud-available-in-aws-marketplace/article_d92aff26-0c18-5f19-a4ad-fe75fef25e43.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://static.cnhionline.com/joplinglobe/jmag/jop-jmag_05192022.jpg",
+          "width": 415,
+          "height": 539,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T13:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Joplin Globe",
+        "domain": "joplinglobe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-magnetic-encoders-support-the-stabilization-control-of-a-self-balancing-two-wheeled-robotic-vehicle.md",
+      "title": "Magnetic encoders support the stabilization control of a self-balancing two-wheeled robotic vehicle",
+      "excerpt": "In the design of a self-balancing two-wheeled robotic vehicle, accurate high-speed measurement of angular rotation is a key requirement. Furthermore, the",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/magnetic-encoders-support-the-stabilization-control-of-a-self-balancing-two-wheeled-robotic-vehicle/",
+      "originalUrl": "https://www.therobotreport.com/magnetic-encoders-support-the-stabilization-control-of-a-self-balancing-two-wheeled-robotic-vehicle/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/renishaw-sponsored-featured-image-june2022.png",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T13:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-artificial-intelligence-in-platform-as-a-service-market-to-eyewitness-massive-growth-by-key-players-rainbird-ai-azure-wipro.md",
+      "title": "Artificial Intelligence in Platform as a Service Market to Eyewitness Massive Growth by key players Rainbird AI, Azure, Wipro",
+      "excerpt": "Ample Market Research published a new research report Artificial Intelligence in Platform as a Service (PaaS) market contains a clear arrangement of the declared information as pie charts, follows, the line follows,",
+      "sourceUrl": null,
+      "webUrl": "https://xaralite.com/373750/news/artificial-intelligence-in-platform-as-a-service-market-to-eyewitness-massive-growth-by-key-players-rainbird-ai-azure-wipro/",
+      "originalUrl": "https://xaralite.com/373750/news/artificial-intelligence-in-platform-as-a-service-market-to-eyewitness-massive-growth-by-key-players-rainbird-ai-azure-wipro/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T11:03:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "xaralite.com",
         "domain": "xaralite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-business-travelers-face-higher-prices-and-packed-flights-hotels.md",
+      "title": "Business travelers face higher prices, and packed flights, hotels",
+      "excerpt": "After a pandemic freeze, business travel is coming back, but upgrades to premium airline seats and hotel rooms are harder to come by and amenities have been scaled back.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nbcnews.com/business/business-news/business-travel-returns-high-prices-packed-flights-hotels-rcna29089",
+      "originalUrl": "https://www.nbcnews.com/business/business-news/business-travel-returns-high-prices-packed-flights-hotels-rcna29089",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-03/220323-newark-liberty-intl-travelers-2021-ac-631p-857e75.jpg",
+          "width": 2500,
+          "height": 1667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna29089",
+      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna29089",
+      "publishedDateTime": "2022-06-01T10:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NBC News",
+        "domain": "nbcnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -78,21 +253,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-01-3-brilliant-minutes-artificial-intelligence-raises-questions.md",
-      "title": "3 BRILLIANT MINUTES: Artificial intelligence raises questions",
-      "excerpt": "In today’s edition of 3 Brilliant Minutes, Brad Spakowitz brings up a sticky situation related to artificial intelligence. If you could transfer ownership from the AI inventor to a person, is it the original software writer of the AI?",
+      "path": "_news/2022-06-02-azure-active-directory-logs-are-lagging-alerts-may-be-wrong-or-missing.md",
+      "title": "Azure Active Directory logs are lagging, alerts may be wrong or missing",
+      "excerpt": "\"Customers using Azure Active Directory and other downstream impacted services may experience a significant delay in availability of logging data for resources,\" the Azure status page explains. Tools including Azure Portal,",
       "sourceUrl": null,
-      "webUrl": "https://www.wbay.com/2022/06/01/3-brilliant-minutes-artificial-intelligence-raises-questions/",
-      "originalUrl": "https://www.wbay.com/2022/06/01/3-brilliant-minutes-artificial-intelligence-raises-questions/",
+      "webUrl": "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/",
+      "originalUrl": "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://gray-wbay-prod.cdn.arcpublishing.com/resizer/FwdWle11_tBInLmtCmBnBtFLPhM=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/FJ4NAQ7UHVBZZOXQOUSOAXEPDI.jpg",
-          "width": 800,
-          "height": 450,
+          "url": "https://regmedia.co.uk/2021/05/25/azure.jpg",
+          "width": 1000,
+          "height": 666,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -100,81 +275,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wbay.com/2022/06/01/3-brilliant-minutes-artificial-intelligence-raises-questions/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wbay-com.cdn.ampproject.org/c/s/www.wbay.com/2022/06/01/3-brilliant-minutes-artificial-intelligence-raises-questions/?outputType=amp",
-      "publishedDateTime": "2022-05-31T22:41:00-07:00",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/06/01/azure_ad_logging_problem/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/01/azure_ad_logging_problem/",
+      "publishedDateTime": "2022-06-01T10:02:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WBAY",
-        "domain": "wbay.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements.md",
-      "title": "Fintech AI Leader Photon Commerce Partners With Identifee to Enable Banks to Instantly Digitize and Analyze Statements",
-      "excerpt": "Photon Commerce, the leader in artificial intelligence for fintech, today announced a strategic collaboration with Identifee, the connected platform for financial services, to enable banks to instantly digitize,",
-      "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-6-1-fintech-ai-leader-photon-commerce-partners-with-identifee-to-enable-banks-to-instantly-digitize-and-analyze-statements",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T22:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-the-new-marketing-is-a-cognitive-process.md",
-      "title": "The New Marketing Is a Cognitive Process",
-      "excerpt": "It’s not. Branding needs to forge new connections with consumers. Branding is all about understanding how consumers choose products and services. Cognitive science is all about understanding how our brain works and makes decisions. It encompasses ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=153181",
-      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=153181",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T21:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Destination CRM",
-        "domain": "destinationcrm.com",
+        "name": "theregister",
+        "domain": "theregister.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -185,26 +292,25 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI",
-        "AI in Marketing"
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-06-01-ai-ethics-what-it-is-and-why-it-matters.md",
-      "title": "AI Ethics: What It Is And Why It Matters",
-      "excerpt": "As AI proliferates, and governments attempt to catch up in structure and law to the fast growing technology, AI Ethics has emerged as a critical topic that everyone should be aware of.",
+      "path": "_news/2022-06-01-invia-robotics-wins-the-2022-technology-innovation-goods-to-person-robotics-award-from-frost-sullivan.md",
+      "title": "inVia Robotics Wins the 2022 Technology Innovation Goods-to-Person Robotics Award from Frost & Sullivan",
+      "excerpt": "Leading eCommerce logistics Automation Company is recognized for providing innovative solutions to supply chain challenges WESTLAKE VILLAGE, Calif., June 1, 2022 /PRNewswire/ -- inVia Robotics –– a leader in eCommerce fulfillment automation systems –– has been awarded this year’s Best Practices Technology Innovation Leadership Award in the North American goods-to-person robotics market by Frost & Sullivan,",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters/",
-      "originalUrl": "https://www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters/",
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-robotics-caa17338884ab022e55ec35c9121a2fa",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-robotics-caa17338884ab022e55ec35c9121a2fa",
       "featuredContent": null,
       "highlight": null,
-      "heat": 104,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6296d7085f56620471be2bda/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 805,
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -212,9 +318,104 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/nishatalagala/2022/05/31/ai-ethics-what-it-is-and-why-it-matters/amp/",
-      "publishedDateTime": "2022-05-31T20:58:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T09:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda.md",
+      "title": "Automate vending Amazon SageMaker notebooks with Amazon EventBridge and AWS Lambda",
+      "excerpt": "Having an environment capable of delivering Amazon SageMaker notebook instances quickly allows data scientists and business analysts to efficiently respond to organizational needs. Data is the lifeblood of an organization, and analyzing that data efficiently provides useful insights for businesses. A",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/automate-vending-amazon-sagemaker-notebooks-with-amazon-eventbridge-and-aws-lambda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/04/26/ML-5603-image001.png",
+          "width": 811,
+          "height": 441,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T09:29:13-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-intel-arc-mobile-graphics-performance-preview-a-new-player-enters-the-gpu-game.md",
+      "title": "Intel Arc Mobile Graphics Performance Preview: A New Player Enters The GPU Game",
+      "excerpt": "I was able to not only go under the hood of an Intel Arc Graphics reference platform laptop from one of its OEM partners, but I can also now share with you an extensive array of performance metrics as well.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/06/01/intel-arc-mobile-graphics-performance-preview-a-new-player-enters-the-gpu-game/",
+      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/06/01/intel-arc-mobile-graphics-performance-preview-a-new-player-enters-the-gpu-game/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62965cf3efbd9026d0d94143/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T09:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -237,26 +438,26 @@
         "news"
       ],
       "topics": [
-        "AI Ethics",
+        "AI Hardware",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-01-type-2-diabetes-linked-to-cognitive-decline-in-older-age.md",
-      "title": "Type 2 diabetes linked to cognitive decline in older age",
-      "excerpt": "The finding comes from a large UK study of people with and without diabetes, based on cognitive tests and brain scans. Type 2 diabetes involves blood sugar rising too high after meals, often ...",
+      "path": "_news/2022-06-01-run-text-classification-with-amazon-sagemaker-jumpstart-using-tensorflow-hub-and-hugging-face-models.md",
+      "title": "Run text classification with Amazon SageMaker JumpStart using TensorFlow Hub and Hugging Face models",
+      "excerpt": "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models across popular",
       "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2322347-type-2-diabetes-linked-to-cognitive-decline-in-older-age/",
-      "originalUrl": "https://www.newscientist.com/article/2322347-type-2-diabetes-linked-to-cognitive-decline-in-older-age/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-text-classification-with-amazon-sagemaker-jumpstart-using-tensorflow-hub-and-huggingface-models/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-text-classification-with-amazon-sagemaker-jumpstart-using-tensorflow-hub-and-huggingface-models/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 148,
       "tags": null,
       "images": [
         {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/05/31112108/SEI_107193938.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 800,
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/01/text-classification-jumpstart.jpg",
+          "width": 1000,
+          "height": 501,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -264,13 +465,110 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2322347-type-2-diabetes-linked-to-cognitive-decline-in-older-age/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2322347-type-2-diabetes-linked-to-cognitive-decline-in-older-age/amp/",
-      "publishedDateTime": "2022-05-31T19:46:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T09:25:01-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Google AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-finish-robotics-brings-robotic-painting-to-life.md",
+      "title": "Finish Robotics Brings Robotic Painting To Life",
+      "excerpt": "Finish Robotics brings factory-level automation and productivity to the construction site. Pittsburgh, PA - Finish Robotics, a recent entrant into the",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/finish-robotics-brings-robotic-painting-to-life",
+      "originalUrl": "https://www.digitaljournal.com/pr/finish-robotics-brings-robotic-painting-to-life",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.getnews.info/uploads/d9e065ff2a5a506c56bb783399a24f49.png",
+          "width": 526,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-henson-group-and-ingram-micro-cloud-align-to-target-record-breaking-azure-sales.md",
+      "title": "Henson Group and Ingram Micro Cloud Align to Target Record-Breaking Azure Sales",
+      "excerpt": "The Henson Group, an elite Azure Expert MSP, and Ingram Micro Cloud, operator of one of the world's largest cloud marketplaces for the channel, have announced a multi-year agreement designed",
+      "sourceUrl": null,
+      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/henson-group-and-ingram-micro-cloud-align-to-target-record-breaking-azure-sales/article_e04529a6-5caf-5a1f-8d6a-c751005e5149.html",
+      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/henson-group-and-ingram-micro-cloud-align-to-target-record-breaking-azure-sales/article_e04529a6-5caf-5a1f-8d6a-c751005e5149.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WFMZ-TV",
+        "domain": "wfmz.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -281,25 +579,26 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "AI in Sales"
       ]
     },
     {
-      "path": "_news/2022-06-01-googles-massive-language-translation-work-identifies-where-it-goofs-up.md",
-      "title": "Google's massive language translation work identifies where it goofs up",
-      "excerpt": "For low-resource languages such as kalaallisut and Fula, a big effort to find out what is lost in translation.",
+      "path": "_news/2022-06-01-resisting-the-urge-to-be-impressed-knowing-what-to-talk-about-when-we-talk-about-ai.md",
+      "title": "Resisting the urge to be impressed, knowing what to talk about when we talk about AI",
+      "excerpt": "The barrage of new AI models released by the likes of DeepMind, Google, Meta and OpenAI is intensifying. Each of them is different in some way, each of them renewing the conversation about their achievements, applications, and implications. Imagen ...",
       "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/googles-massive-language-translation-work-identifies-where-it-goofs-up/",
-      "originalUrl": "https://www.zdnet.com/article/googles-massive-language-translation-work-identifies-where-it-goofs-up/",
+      "webUrl": "https://www.zdnet.com/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
+      "originalUrl": "https://www.zdnet.com/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 102,
       "tags": null,
       "images": [
         {
-          "url": "https://www.zdnet.com/a/img/resize/139ace89f7e872d7780a9232cf7c9507f505a04e/2022/06/01/aaee0f3c-fa3b-4649-92ea-b6c077ec2e32/c201c7dd-7cfe-44db-8c07-bb63391efdce.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "url": "https://www.zdnet.com/a/img/resize/728bdcace26af7271985d45af09c70fc07b98765/2021/10/18/7064a693-160b-4306-b2fa-82172337ef98/innovation-ai-automation.jpg?width=1200&fit=bounds&auto=webp",
           "width": 1200,
-          "height": 788,
+          "height": 802,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -307,9 +606,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/googles-massive-language-translation-work-identifies-where-it-goofs-up/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/googles-massive-language-translation-work-identifies-where-it-goofs-up/",
-      "publishedDateTime": "2022-05-31T19:34:00-07:00",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/resisting-the-urge-to-be-impressed-and-knowing-what-we-are-talking-about-when-we-talk-about-ai/",
+      "publishedDateTime": "2022-06-01T07:54:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "ZDNet",
@@ -332,232 +631,26 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot.md",
-      "title": "Chick-fil-A taps Refraction AI for autonomous delivery pilot",
-      "excerpt": "The deal with Chick-fil-A is part of tests Refraction is running to understand how it could serve quick service restaurants by maximizing profitability/effectiveness of robotic delivery",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/31/chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot/",
-      "originalUrl": "https://techcrunch.com/2022/05/31/chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/SoCo_5.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/31/chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/31/chick-fil-a-taps-refraction-ai-for-autonomous-delivery-pilot/amp/",
-      "publishedDateTime": "2022-05-31T17:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-gretel-keeps-the-data-trail-hidden.md",
-      "title": "Gretel Keeps the Data Trail Hidden",
-      "excerpt": "In the financial services area, Gretel often helps companies identify ... do we augment our existing real world customer data with synthetic data to help my machine learning algorithms do better.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.datanami.com/2022/06/01/gretel-keeps-the-data-trail-hidden/",
-      "originalUrl": "https://www.datanami.com/2022/06/01/gretel-keeps-the-data-trail-hidden/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/06/data_twist_shutterstock_Yurchanka-Siarhei.jpg",
-          "width": 679,
-          "height": 373,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "datanami.com",
-        "domain": "datanami.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-tiny-robot-crab-to-perform-tasks-inside-body.md",
-      "title": "Tiny Robot Crab to Perform Tasks Inside Body",
-      "excerpt": "Engineers at Northwestern University have developed a tiny remote controlled crab robot. The device is just half a millimeter wide, and can perform a variety of impressive tasks, including jumping ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.medgadget.com/2022/06/tiny-robot-crab-to-perform-tasks-inside-body.html",
-      "originalUrl": "https://www.medgadget.com/2022/06/tiny-robot-crab-to-perform-tasks-inside-body.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medgadget",
-        "domain": "medgadget.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-us-pushes-light-regulations-for-ai-in-contrast-to-europe.md",
-      "title": "US pushes light regulations for AI, in contrast to Europe",
-      "excerpt": "The guidelines encourage driverless-car manufacturers to submit safety self ... But they do aim to deliver on von der Leyen’s promise to initiate legislation on artificial intelligence within her first 100 days in office, a pledge she made last summer ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
-      "originalUrl": "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2020/01/GettyImages-1035331888.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/us-pushes-light-regulations-for-ai-in-contrast-to-europe/amp/",
-      "publishedDateTime": "2022-05-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "POLITICO",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-virtual-cognitive-behavioral-therapy-services-offered-at-carolina-behavioral-therapy.md",
-      "title": "Virtual Cognitive Behavioral Therapy Services Offered At Carolina Behavioral Therapy",
-      "excerpt": "Columbia, SC based Carolina Behavioral Therapy would like to shed light on Cognitive Behavioral Therapy ... let Carolina Behavioral Therapy help. All services at Carolina Behavioral Therapy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/05/g27490201/virtual-cognitive-behavioral-therapy-services-offered-at-carolina-behavioral-therapy",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/g27490201/virtual-cognitive-behavioral-therapy-services-offered-at-carolina-behavioral-therapy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T16:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
-        "AI in Healthcare"
+        "Google AI"
       ]
     },
     {
-      "path": "_news/2022-06-01-sentient-hubs-deploys-holistic-modelling-solution-on-microsoft-azure-to-help-protect-wetlands.md",
-      "title": "Sentient Hubs deploys holistic modelling solution on Microsoft Azure to help protect wetlands",
-      "excerpt": "Due to the complexity of the modelling and the inaccessible nature of many water sources, however, this isn’t always easy. But one Australian company believes that technology could offer a way forward.",
+      "path": "_news/2022-06-01-ai-ethics-and-legal-ai-experts-greatly-alarmed-about-dual-use-ai-which-empowers-so-called-doctor-evil-projects.md",
+      "title": "AI Ethics And Legal AI Experts Greatly Alarmed About Dual-Use AI Which Empowers So-Called Doctor Evil Projects,...",
+      "excerpt": "(Answer: There is a growing push about publicizing and promulgating AI Ethics, which is one of several fronts being pursued). What types of controls or limits can be pressed into service regarding dual-use AI to aid in preventing potential societal calamities?",
       "sourceUrl": null,
-      "webUrl": "https://news.microsoft.com/en-au/features/sentient-hubs-deploys-holistic-modelling-solution-on-microsoft-azure-to-help-protect-wetlands/",
-      "originalUrl": "https://news.microsoft.com/en-au/features/sentient-hubs-deploys-holistic-modelling-solution-on-microsoft-azure-to-help-protect-wetlands/",
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/01/ai-ethics-and-legal-ai-experts-greatly-alarmed-about-dual-use-ai-which-empowers-so-called-doctor-evil-projects-including-possibly-for-ai-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/01/ai-ethics-and-legal-ai-experts-greatly-alarmed-about-dual-use-ai-which-empowers-so-called-doctor-evil-projects-including-possibly-for-ai-self-driving-cars/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 82,
       "tags": null,
       "images": [
         {
-          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/66/2022/05/xan-y-X7L9FoIcMEE-unsplash-scaled.jpg",
-          "width": 2560,
-          "height": 1704,
+          "url": "https://imageio.forbes.com/specials-images/imageserve//6293e3735e5e40627fd631af/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -565,16 +658,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T15:17:00-07:00",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/01/ai-ethics-and-legal-ai-experts-greatly-alarmed-about-dual-use-ai-which-empowers-so-called-doctor-evil-projects-including-possibly-for-ai-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/01/ai-ethics-and-legal-ai-experts-greatly-alarmed-about-dual-use-ai-which-empowers-so-called-doctor-evil-projects-including-possibly-for-ai-self-driving-cars/amp/",
+      "publishedDateTime": "2022-06-01T07:47:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Microsoft",
-        "domain": "microsoft.com",
+        "name": "Forbes",
+        "domain": "forbes.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -590,26 +683,26 @@
         "news"
       ],
       "topics": [
-        "Microsoft AI",
+        "AI Ethics",
         "AI"
       ]
     },
     {
-      "path": "_news/2022-06-01-self-driving-cars-to-be-tested-at-boca-raton-innovation-campus.md",
-      "title": "Self-driving cars to be tested at Boca Raton Innovation Campus",
-      "excerpt": "The future has arrived in Boca Raton. The city is now testing self-driving cars with the hope of eventually adding them alongside drivers on the road.",
+      "path": "_news/2022-06-01-tensorflow-defaults-to-intel-onednn-ai-optimizations.md",
+      "title": "TensorFlow defaults to Intel oneDNN AI optimizations",
+      "excerpt": "Following Google and Intel's partnership, the open-source TensorFlow has announced that their machine learning library is being updated.",
       "sourceUrl": null,
-      "webUrl": "https://www.wptv.com/marketplace/automotive/self-driving-cars-to-be-tested-at-boca-raton-innovation-campus",
-      "originalUrl": "https://www.wptv.com/marketplace/automotive/self-driving-cars-to-be-tested-at-boca-raton-innovation-campus",
+      "webUrl": "https://enterprisetalk.com/quick-bytes/tensorflow-defaults-to-intel-onednn-ai-optimizations/",
+      "originalUrl": "https://enterprisetalk.com/quick-bytes/tensorflow-defaults-to-intel-onednn-ai-optimizations/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
+      "heat": 91,
       "tags": null,
       "images": [
         {
-          "url": "https://x-default-stgec.uplynk.com/ausw/slices/842/2fbf8a5e953e4a01960f2f5161cc4953/842bd12b85384a098ef07b66a1d5a77e/poster_59ad2966ce3a4100afb888e2f6338a3a.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://enterprisetalk.com/wp-content/uploads/2022/06/TensorFlow-defaults-to-Intel-oneDNN-AI-optimizations-1024x585.png",
+          "width": 1024,
+          "height": 585,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -617,13 +710,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.wptv.com/marketplace/automotive/self-driving-cars-to-be-tested-at-boca-raton-innovation-campus?_amp=true",
-      "cdnAmpWebUrl": "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/marketplace/automotive/self-driving-cars-to-be-tested-at-boca-raton-innovation-campus?_amp=true",
-      "publishedDateTime": "2022-05-31T14:31:00-07:00",
+      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/tensorflow-defaults-to-intel-onednn-ai-optimizations/amp/",
+      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/tensorflow-defaults-to-intel-onednn-ai-optimizations/amp/",
+      "publishedDateTime": "2022-06-01T07:37:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WPTV",
-        "domain": "wptv.com",
+        "name": "enterprisetalk",
+        "domain": "enterprisetalk.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -633,60 +726,27 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI",
+        "Google AI",
+        "TensorFlow"
       ]
     },
     {
-      "path": "_news/2022-06-01-mariadb-and-mindsdb-raise-the-iq-for-cloud-databases.md",
-      "title": "MariaDB and MindsDB Raise the IQ for Cloud Databases",
-      "excerpt": "MariaDB Corporation  and MindsDB, the leader in in-database machine learning, today together announced a technology collaboration that makes machine learning predictions easy and accessible to cloud database users.",
+      "path": "_news/2022-06-01-rendered-ai-streamlines-synthetic-data-for-gis-digital-twins.md",
+      "title": "Rendered AI streamlines synthetic data for GIS digital twins",
+      "excerpt": "Satellite imagery promises to play an essential role in creating digital twins that could help model carbon emissions, increase farming yields and monitor the oceans.",
       "sourceUrl": null,
-      "webUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1258317&cat=PR News Wire",
-      "originalUrl": "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1258317&cat=PR News Wire",
+      "webUrl": "https://venturebeat.com/2022/06/01/rendered-ai-streamlines-synthetic-data-for-gis-digital-twins/",
+      "originalUrl": "https://venturebeat.com/2022/06/01/rendered-ai-streamlines-synthetic-data-for-gis-digital-twins/",
       "featuredContent": null,
       "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T13:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Webindia 123",
-        "domain": "webindia123.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-tensorflow-now-defaults-to-intel-onednn-ai-optimizations.md",
-      "title": "TensorFlow now defaults to Intel oneDNN AI optimizations",
-      "excerpt": "OneDNN is an open-source cross-platform library intended for devs of deep learning applications and frameworks such as TensorFlow.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/",
-      "originalUrl": "https://venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
+      "heat": 87,
       "tags": null,
       "images": [
         {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1216705894-e1644616451773.jpg?w=1200&strip=all",
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1337105696.jpg?w=1200&strip=all",
           "width": 1200,
-          "height": 675,
+          "height": 927,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -694,9 +754,9 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/31/tensorflow-now-defaults-to-intel-onednn-ai-optimizations/amp/",
-      "publishedDateTime": "2022-05-31T13:48:00-07:00",
+      "ampWebUrl": "https://venturebeat.com/2022/06/01/rendered-ai-streamlines-synthetic-data-for-gis-digital-twins/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/01/rendered-ai-streamlines-synthetic-data-for-gis-digital-twins/amp/",
+      "publishedDateTime": "2022-06-01T07:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "VentureBeat",
@@ -719,27 +779,25 @@
         "news"
       ],
       "topics": [
-        "AI",
-        "Google AI",
-        "TensorFlow"
+        "AI"
       ]
     },
     {
-      "path": "_news/2022-06-01-google-assistant-personalized-speech-recognition-makes-the-ai-better.md",
-      "title": "Google Assistant Personalized Speech Recognition Makes The AI Better",
-      "excerpt": "... up to provide even better results to voice commands on a personal level thanks to newly-spotted “Personalized speech recognition” features. That’s based on an APK teardown of the latest Google app release performed by 9to5Google. Specifically ...",
+      "path": "_news/2022-06-01-ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game.md",
+      "title": "AI and natural language processing are here to change the IELTS prep game!",
+      "excerpt": "IELTS test aspirants, over the years, have been confounded by how to self-assess their writing and speaking skills. It is not as if you can have a certified tutor available at hand all the time. But thanks to natural language processing and artificial intelligence,",
       "sourceUrl": null,
-      "webUrl": "https://www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html",
-      "originalUrl": "https://www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html",
+      "webUrl": "https://www.edexlive.com/news/2022/jun/01/ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game-29147.html",
+      "originalUrl": "https://www.edexlive.com/news/2022/jun/01/ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game-29147.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 94,
+      "heat": 72,
       "tags": null,
       "images": [
         {
-          "url": "https://www.androidheadlines.com/wp-content/uploads/2022/02/00-Google-Assistant-speed-DG-AH-2022.jpg",
-          "width": 1600,
-          "height": 1200,
+          "url": "https://images.edexlive.com/uploads/user/imagelibrary/2022/6/1/w600X390/DELSEP2021430_06062246.jpg",
+          "width": 600,
+          "height": 390,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -747,13 +805,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html/amp",
-      "cdnAmpWebUrl": "https://www-androidheadlines-com.cdn.ampproject.org/c/s/www.androidheadlines.com/2022/05/google-assistant-personalized-speech-recognition-makes-the-ai-better.html/amp",
-      "publishedDateTime": "2022-05-31T13:40:00-07:00",
+      "ampWebUrl": "https://m.edexlive.com/news/2022/jun/01/ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game-29147.amp",
+      "cdnAmpWebUrl": "https://m-edexlive-com.cdn.ampproject.org/c/s/m.edexlive.com/news/2022/jun/01/ai-and-natural-language-processing-are-here-to-change-the-ielts-prep-game-29147.amp",
+      "publishedDateTime": "2022-06-01T07:28:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Android",
-        "domain": "androidheadlines.com",
+        "name": "edexlive",
+        "domain": "edexlive.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -768,21 +826,21 @@
       ]
     },
     {
-      "path": "_news/2022-06-01-pmis-beat-technology-leads-gains.md",
-      "title": "PMIs Beat, Technology Leads Gains",
-      "excerpt": "“Baidu delivered solid first quarter results, especially regarding our cloud and intelligent driving businesses. Baidu AI Cloud reported another quarter of strong revenue growth and Apollo Go ...",
+      "path": "_news/2022-06-01-artificial-intelligence-in-drug-discovery-market-type-application-and-region-global-trends-and-forecast-to-2030.md",
+      "title": "Artificial Intelligence in Drug Discovery Market Type, Application and Region – Global Trends and Forecast to 2030",
+      "excerpt": "Artificial intelligence plays an important role in ... the U.S.-based provider of biomarkers-based therapy, Nucleai signed a collaboration agreement with Debiopharm, pharma company pioneering ...",
       "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/",
-      "originalUrl": "https://www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/",
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-type-application-and-region-global-trends-and-forecast-to-2030-2022-06-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-drug-discovery-market-type-application-and-region-global-trends-and-forecast-to-2030-2022-06-01",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6296381d6805b5b22ed94143/0x0.jpg?format=jpg&width=1200",
-          "width": 1024,
-          "height": 410,
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -790,9 +848,156 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brendanahern/2022/05/31/pmis-beat-technology-leads-gains/amp/",
-      "publishedDateTime": "2022-05-31T12:42:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-computer-vision-market-2022-size-revenue-growth-rate-restraints-and-forecast-analysis-by-2030.md",
+      "title": "Computer Vision Market 2022 Size, Revenue, Growth Rate, Restraints, and Forecast Analysis by 2030",
+      "excerpt": "Jun 01, 2022 (Alliance News via COMTEX) -- Computer vision Market 2022 with Size, Status, and Development Strategy Pre and Post COVID-19, by Corporate Strategy Analysis, Landscape, Type ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2022-size-revenue-growth-rate-restraints-and-forecast-analysis-by-2030-2022-06-01",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-2022-size-revenue-growth-rate-restraints-and-forecast-analysis-by-2030-2022-06-01",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 111,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-fine-tuning-a-bert-model-with-orbit.md",
+      "title": "Fine-tuning a BERT model with Orbit",
+      "excerpt": "This example will work through fine-tuning a BERT model using the Orbit training library. Orbit is a flexible, lightweight library designed to make it easy to write custom training loops in TensorFlow. Orbit handles common model training tasks such as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/text/tutorials/bert_orbit",
+      "originalUrl": "https://www.tensorflow.org/text/tutorials/bert_orbit",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T06:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-amazon-remars-is-the-place-to-be-if-youre-into-machine-learning-ai-robotics-and-space.md",
+      "title": "Amazon Re:Mars Is The Place To Be If You're Into Machine Learning, AI, Robotics And Space",
+      "excerpt": "Naturally, since AI will impact everyone, it's crucial to have a diverse ... technology and actual product integrations—what's already out there and how to start bringing it into their daily operations. Next, we discussed the \"final frontier\" of the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/06/01/amazon-remars-is-the-place-to-be-if-youre-into-machine-learning-ai-robotics-and-space/",
+      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/06/01/amazon-remars-is-the-place-to-be-if-youre-into-machine-learning-ai-robotics-and-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T06:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "Forbes",
@@ -815,31 +1020,136 @@
         "news"
       ],
       "topics": [
-        "AI in Autos",
-        "AI"
+        "AI",
+        "Machine Learning",
+        "AI in Robotics"
       ]
     },
     {
-      "path": "_news/2022-06-01-signal-detection-theory-may-be-useful-for-characterizing-cognitive-fatigue-in-multiple-sclerosis-patients.md",
-      "title": "Signal detection theory may be useful for characterizing cognitive fatigue in multiple sclerosis patients",
-      "excerpt": "These findings were reported in Frontiers in Behavioral Neuroscience on March 16, 2022, in the open access article \"Signal Detection Theory as a Novel Tool to Understand Cognitive Fatigue in ...",
+      "path": "_news/2022-06-01-standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research.md",
+      "title": "Standigm Signs MOU with Merck Korea for AI drug Discovery Research",
+      "excerpt": "Merck's retrosynthesis AI software 'SYNTHIA™ retrosynthesis software' accelerates Standigm's synthesis capabilitySEOUL, South Korea, June 9,",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-05-theory-characterizing-cognitive-fatigue-multiple.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-05-theory-characterizing-cognitive-fatigue-multiple.html",
+      "webUrl": "https://markets.businessinsider.com/news/stocks/standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research-1031518190",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/standigm-signs-mou-with-merck-korea-for-ai-drug-discovery-research-1031518190",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1836296/Standigm_Merck_MOU.jpg",
+          "width": 400,
+          "height": 323,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T12:36:00-07:00",
+      "publishedDateTime": "2022-06-01T06:07:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-inrule-technology-democratizes-machine-learning-by-enhancing-platform-with-automl-capabilities.md",
+      "title": "InRule Technology® Democratizes Machine Learning by Enhancing Platform with AutoML Capabilities",
+      "excerpt": "InRule Technology ®, an intelligence automation company providing integrated decisioning, explainable AI and digital process automation software to the enterprise, today announced the addition of AutoML within xAI Workbench,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-science-88732301aa0f482ba19422aa8a334ed2",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-science-88732301aa0f482ba19422aa8a334ed2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-01T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-01-azure-active-directory-logs-are-lagging-and-alerts-may-be-wrong-or-missing.md",
+      "title": "Azure Active Directory logs are lagging, and alerts may be wrong or missing",
+      "excerpt": "\"Customers using Azure Active Directory and other downstream impacted services may experience a significant delay in availability of logging data for resources,\" the Azure status page explains. Tools including Azure Portal,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/?td=rt-3a",
+      "originalUrl": "https://www.theregister.com/2022/06/01/azure_ad_logging_problem/?td=rt-3a",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2021/05/25/azure.jpg",
+          "width": 1000,
+          "height": 666,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/06/01/azure_ad_logging_problem/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/06/01/azure_ad_logging_problem/",
+      "publishedDateTime": "2022-06-01T05:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -851,238 +1161,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-deere-co-taps-into-technology-to-drive-revenue-growth-julian-sanchez-and-joshua-jepsen-discuss.md",
-      "title": "Deere & Co Taps Into Technology to Drive Revenue Growth; Julian Sanchez and Joshua Jepsen Discuss",
-      "excerpt": "BONDURANT, IA - As technological advancements continue to drive agricultural development, Deere & Co is tapping into the sector to meet demand and up its revenue growth.",
-      "sourceUrl": null,
-      "webUrl": "https://www.andnowuknow.com/behind-greens/deere-tapping-technology-drive-revenue-growth-julian-sanchez-and-joshua-jepsen/melissa-de-leon-chavez/78665",
-      "originalUrl": "https://www.andnowuknow.com/behind-greens/deere-tapping-technology-drive-revenue-growth-julian-sanchez-and-joshua-jepsen/melissa-de-leon-chavez/78665",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "And Now U Know",
-        "domain": "andnowuknow.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-ethics-adviser-questions-pm-over-partygate-fine.md",
-      "title": "Ethics adviser questions PM over Partygate fine",
-      "excerpt": "Boris Johnson must explain why he has not broken the ministerial code after being fined over Partygate, his ethics adviser says",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbc.com/news/uk-politics-61653755",
-      "originalUrl": "https://www.bbc.com/news/uk-politics-61653755",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bbc.com/news/uk-politics-61653755.amp",
-      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/uk-politics-61653755.amp",
-      "publishedDateTime": "2022-05-31T10:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BBC",
-        "domain": "bbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform.md",
-      "title": "US Senate candidate runs on anti-Tesla “Full Self Driving” platform",
-      "excerpt": "Single-issue candidates for the US Senate aren't the usual fodder for Ars' car coverage, but it seems like an exception might exist for Dan O'Dowd. O'Dowd, an engineer and CEO of a software company, is running for one of California's Senate seats on a platform to ban Tesla's \"Full Self Driving\" feature.",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/cars/2022/05/us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform/",
-      "originalUrl": "https://arstechnica.com/cars/2022/05/us-senate-candidate-runs-on-anti-tesla-full-self-driving-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/unsafe-at-any-speed-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T10:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-01-how-ai-can-assist-in-coral-reef-restoration.md",
-      "title": "How AI Can Assist In Coral Reef Restoration",
-      "excerpt": "By learning the difference between how healthy and unhealthy reefs sound, this AI algorithm may able to support coral conservation efforts.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/priyashukla/2022/05/31/how-ai-can-assist-in-coral-reef-restoration/",
-      "originalUrl": "https://www.forbes.com/sites/priyashukla/2022/05/31/how-ai-can-assist-in-coral-reef-restoration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 127,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62959c2799ec499d9535a8d4/0x0.jpg?format=jpg&width=1200",
-          "width": 1149,
-          "height": 766,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/priyashukla/2022/05/31/how-ai-can-assist-in-coral-reef-restoration/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/priyashukla/2022/05/31/how-ai-can-assist-in-coral-reef-restoration/amp/",
-      "publishedDateTime": "2022-05-31T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-how-to-leverage-ai-in-influencer-marketing.md",
-      "title": "How to Leverage AI in Influencer Marketing",
-      "excerpt": "Artificial intelligence is a growing tool in any digital marketer's arsenal. Enabling quick analysis of data, machine learning",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/how-to-leverage-ai-in-influencer-marketing",
-      "originalUrl": "https://www.digitaljournal.com/pr/how-to-leverage-ai-in-influencer-marketing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.getnews.info/uploads/34f213753bed451d6f1428fceae18a59.jpg",
-          "width": 480,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

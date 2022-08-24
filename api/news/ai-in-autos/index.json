@@ -442,6 +442,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-18-artificial-intelligence-could-make-our-food-safer-but-at-what-cost.md",
+      "title": "Artificial intelligence could make our food safer — but at what cost?",
+      "excerpt": "But according to a new study by Yada and his colleagues, these serious or fatal incidents could soon be a thing of the past with the employment of artificial intelligence (AI) in food production. Currently, the study explains, most food safety errors are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.burnabynow.com/highlights/artificial-intelligence-could-make-our-food-safer-but-at-what-cost-5709691",
+      "originalUrl": "https://www.burnabynow.com/highlights/artificial-intelligence-could-make-our-food-safer-but-at-what-cost-5709691",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.vmcdn.ca/f/files/glaciermedia/images/getty-images/potatochipproduction.jpg;w=1200;h=800;mode=crop",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Burnaby Now",
+        "domain": "burnabynow.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-critical-analysis-baidu-nasdaqbidu-and-grom-social-enterprises-nasdaqgrom.md",
       "title": "Critical Analysis: Baidu (NASDAQ:BIDU) and Grom Social Enterprises (NASDAQ:GROM)",
       "excerpt": "Grom Social Enterprises (NASDAQ:GROM – Get Rating) and Baidu (NASDAQ:BIDU – Get Rating) are both computer and technology companies, but which is the superior business? We will compare the two companies based on the strength of their risk,",
@@ -473,6 +516,150 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-unprecedented-ai-chip-could-revolutionise-artificial-intelligence.md",
+      "title": "‘Unprecedented’ AI chip could revolutionise artificial intelligence",
+      "excerpt": "The system should allow increasingly complex artificial intelligence to live on chips themselves, without having to send information to the cloud. At the moment, most applications of AI are not ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/ai-artificial-intelligence-chip-memory-ram-b2146974.html",
+      "originalUrl": "https://www.independent.co.uk/tech/ai-artificial-intelligence-chip-memory-ram-b2146974.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/08/17/16/Low-Res_UCSD-JacobsSchool-20220815-Cauwenberghs-NeuRRam-00621-e-8MP.jpg.png?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-ai-vs-ml-artificial-intelligence-and-machine-learning-overview.md",
+      "title": "AI vs. ML: Artificial Intelligence and Machine Learning Overview",
+      "excerpt": "In 1982, John Hopfield showed that a neural network could process information in far more advanced ways. Various forms of AI began to take shape, and the first artificial neural network (ANN ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/enterprise-apps/ai-vs-ml/",
+      "originalUrl": "https://www.eweek.com/enterprise-apps/ai-vs-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-DSOM-Image02-800x800-1.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-artificial-intelligence-teaches-microrobots-how-to-swim.md",
+      "title": "Artificial Intelligence Teaches Microrobots how to Swim",
+      "excerpt": "In a recent study published in Communications Physics, a collaborative team of researchers from Santa Clara University, New Jersey Institute of Technology, | Technology",
+      "sourceUrl": null,
+      "webUrl": "https://www.labroots.com/trending/technology/23380/artificial-intelligence-teaches-microrobots-swim-2",
+      "originalUrl": "https://www.labroots.com/trending/technology/23380/artificial-intelligence-teaches-microrobots-swim-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.labroots.com/_public/_files/system/ck/trending/FEATURED%20IMAGE_e0ee8c1743ad40b40477db0302e5f1e7.png",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.labroots.com/trending/technology/23380/artificial-intelligence-teaches-microrobots-swim-2/amp",
+      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/23380/artificial-intelligence-teaches-microrobots-swim-2/amp",
+      "publishedDateTime": "2022-08-17T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Labroots",
+        "domain": "labroots.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics",
+        "AI in Healthcare",
+        "AI in Autos"
       ]
     },
     {
@@ -517,6 +704,144 @@
         "AI in Robotics",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-tech-bytes-lyft-launching-driverless-fleet.md",
+      "title": "Tech Bytes: Lyft launching driverless fleet",
+      "excerpt": "Lyft and car company Motional are rolling out a new fleet of driverless electric vehicles ... be charged with any light source — natural or artificial — and they provide 80 hours of playback ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-lyft-launching-driverless-fleet/",
+      "originalUrl": "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-lyft-launching-driverless-fleet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.abc27.com/wp-content/uploads/sites/55/2022/05/AP_827812619956_1540634580368_60320023_ver1.0.jpg?w=1280",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-lyft-launching-driverless-fleet/amp/",
+      "cdnAmpWebUrl": "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/news/us-world/tech/tech-bytes/tech-bytes-lyft-launching-driverless-fleet/amp/",
+      "publishedDateTime": "2022-08-17T08:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "abc27",
+        "domain": "abc27.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-whats-happening-with-baidu-stock.md",
+      "title": "What’s Happening With Baidu Stock?",
+      "excerpt": "Baidu is also making solid progress with its AI developments such as autonomous driving. Last week, the company became the first robo taxi operator in China to receive permits for offering rides ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/08/17/whats-happening-with-baidu-stock/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/08/17/whats-happening-with-baidu-stock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61b4a97d18c00d162ce1cfc2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/08/17/whats-happening-with-baidu-stock/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/08/17/whats-happening-with-baidu-stock/amp/",
+      "publishedDateTime": "2022-08-17T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-lyft-motional-roll-out-new-fleet-of-driverless-electric-vehicles-in-las-vegas.md",
+      "title": "Lyft, Motional roll out new fleet of driverless electric vehicles in Las Vegas",
+      "excerpt": "This week’s launch is the initial phase in the lead-up to a fully driverless service Motional and Lyft hope to expand to multiple cities using the IONIQ 5 AV. Ride-hailing service Lyft is ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/changing-america/resilience/smart-cities/3604194-lyft-motional-roll-out-new-fleet-of-driverless-electric-vehicles-in-las-vegas/",
+      "originalUrl": "https://thehill.com/changing-america/resilience/smart-cities/3604194-lyft-motional-roll-out-new-fleet-of-driverless-electric-vehicles-in-las-vegas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/08/CA_lyftmotional_081622Motional.jpg?w=1280",
+          "width": 1280,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/changing-america/resilience/smart-cities/3604194-lyft-motional-roll-out-new-fleet-of-driverless-electric-vehicles-in-las-vegas/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/resilience/smart-cities/3604194-lyft-motional-roll-out-new-fleet-of-driverless-electric-vehicles-in-las-vegas/amp/",
+      "publishedDateTime": "2022-08-16T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -616,6 +941,59 @@
       ]
     },
     {
+      "path": "_news/2022-08-16-marketing-artificial-intelligence-a-nice-time-slice-view-of-ai-in-one-arena.md",
+      "title": "Marketing Artificial Intelligence – A Nice Time Slice View Of AI In One Arena",
+      "excerpt": "Marketing Artificial Intelligence, by Paul Roetzer & Mike Kaput, is a nice image of the state of artificial intelligence (AI) focused on marketing solutions. This is a good book to introduce ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/davidteich/2022/08/16/marketing-artificial-intelligence--a-nice-time-slice-view-of-ai-in-one-arena/",
+      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/08/16/marketing-artificial-intelligence--a-nice-time-slice-view-of-ai-in-one-arena/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y23,safe&width=1200",
+          "width": 876,
+          "height": 493,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/08/16/marketing-artificial-intelligence--a-nice-time-slice-view-of-ai-in-one-arena/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/08/16/marketing-artificial-intelligence--a-nice-time-slice-view-of-ai-in-one-arena/amp/",
+      "publishedDateTime": "2022-08-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-tesla-releases-new-picture-of-its-upgraded-supercomputer-one-of-the-best-in-the-world.md",
       "title": "Tesla releases new picture of its upgraded supercomputer – one of the best in the world",
       "excerpt": "Tesla has released a new picture of its upgraded supercomputer, which is now believed to be the seventh most powerful computer in the world by GPU. For years now, Tesla has been teasing the development of a new supercomputer in-house optimized for neural net video training.",
@@ -666,6 +1044,49 @@
         "Computer Vision",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-costs-of-sydneys-driverless-train-conversion-outweigh-the-benefits.md",
+      "title": "Costs of Sydney’s driverless train conversion outweigh the benefits",
+      "excerpt": "But even without overruns pushing the cost of the driverless-train project to more than A$55 billion, the economics of the “Sydney Metro” project are questionable – in particular the ...",
+      "sourceUrl": null,
+      "webUrl": "https://theconversation.com/costs-of-sydneys-driverless-train-conversion-outweigh-the-benefits-188210",
+      "originalUrl": "https://theconversation.com/costs-of-sydneys-driverless-train-conversion-outweigh-the-benefits-188210",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.theconversation.com/files/479092/original/file-20220815-485-8q5rsz.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
+          "width": 320,
+          "height": 213,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://theconversation.com/amp/costs-of-sydneys-driverless-train-conversion-outweigh-the-benefits-188210",
+      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/costs-of-sydneys-driverless-train-conversion-outweigh-the-benefits-188210",
+      "publishedDateTime": "2022-08-15T13:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Conversation",
+        "domain": "theconversation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -954,267 +1375,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-12-tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai.md",
-      "title": "Tata Elxsi brings new age solutions for driverless cars, connected vehicles and more: Tata Elxsi CMO Nitin Pai",
-      "excerpt": "The result is product engineering services to help customers transform their products, and our own platforms such as Autonomai for driverless ... such as AI (artificial intelligence), robotics ...",
+      "path": "_news/2022-08-12-dont-miss-tata-elxsis-new-age-solutions-for-driverless-cars-stock-zooms-1158-in-5-years.md",
+      "title": "Don't Miss Tata Elxsi's New Age Solutions For Driverless Cars, Stock Zooms 1158% In 5 Years",
+      "excerpt": "Equipped with new-age technology, design and tech service provider Tata Elxsi is helping customers reimagine products and services in the three key verticals of transportation, media and telecom and healthcare,",
       "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/express-mobility/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/2627006/",
-      "originalUrl": "https://www.financialexpress.com/express-mobility/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/2627006/",
+      "webUrl": "https://www.goodreturns.in/news/don-t-miss-tata-elxsi-s-new-age-solutions-for-driverless-cars-stock-zooms-1158-in-5-years-1258512.html",
+      "originalUrl": "https://www.goodreturns.in/news/don-t-miss-tata-elxsi-s-new-age-solutions-for-driverless-cars-stock-zooms-1158-in-5-years-1258512.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/06/NRuL3vXfEXmPiaFdkrVv.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/express-mobility/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/2627006/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/2627006/lite/",
-      "publishedDateTime": "2022-08-11T23:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-artificial-intelligence-based-security-market-key-player-competition-weakness-and-strengths-from-2022-to-2028.md",
-      "title": "Artificial Intelligence-based Security Market Key Player, Competition Weakness and Strengths from 2022 to 2028",
-      "excerpt": "This study examines the \"Artificial Intelligence-based Security Market\" from a variety of perspectives, including market size, market status, market trends, and forecasts 2022 - 2028. With an examination of each area, the research provides significant ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-security-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-08-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-security-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-08-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-driverless-cars-shouldnt-be-a-race.md",
-      "title": "Driverless Cars Shouldn’t Be a Race",
-      "excerpt": "the Chinese company Baidu, and Waymo, a sibling company of Google, are regularly described as being in a horse race to make self-driving vehicles ready for widespread use. Some U.S. policy ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/08/11/technology/driverless-cars.html",
-      "originalUrl": "https://www.nytimes.com/2022/08/11/technology/driverless-cars.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/08/11/business/11OnTech-SelfDriving-promo/11OnTech-SelfDriving-promo-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/08/11/technology/driverless-cars.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/08/11/technology/driverless-cars.amp.html",
-      "publishedDateTime": "2022-08-11T16:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-degrees-of-the-future-2022-artificial-intelligence.md",
-      "title": "Degrees of the Future 2022: Artificial Intelligence",
-      "excerpt": "The Degrees of the Future 2022 top Artificial Intelligence programs are: How did Gizmodo determine this year’s honorees? Check out the methodology or return to the full Degrees of the Future 2022 list.",
-      "sourceUrl": null,
-      "webUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946",
-      "originalUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 143,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/dc30f627e6d8c6a9a28ee89504a69ebe.jpg",
-          "width": 800,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gizmodo.com/artificial-intelligence-college-program-degree-1849354946/amp",
-      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/artificial-intelligence-college-program-degree-1849354946/amp",
-      "publishedDateTime": "2022-08-11T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmodo",
-        "domain": "gizmodo.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-how-artificial-intelligence-could-lower-nuclear-energy-costs.md",
-      "title": "How artificial intelligence could lower nuclear energy costs",
-      "excerpt": "Nuclear power plants provide large amounts of electricity without releasing planet-warming pollution. But the expense of running these plants has made it difficult for them to stay open. If nuclear is to play a role in the U.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.html",
-      "originalUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2019/1-nuclear.jpg",
-          "width": 1920,
-          "height": 1278,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-artificial-intelligence-nuclear-energy.amp",
-      "publishedDateTime": "2022-08-11T11:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row.md",
-      "title": "Tesla's self-driving tech's 'failure' to detect kids on road sparks row",
-      "excerpt": "The Guardian reported that a professional test driver found that the FSD software \"failed to detect the child-sized figure at an average speed of 25mph and the car then hit the mannequin\". Now, Electrek reports that there was a real problem with the test,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/industry/renewables/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row/articleshow/93497474.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/industry/renewables/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row/articleshow/93497474.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-34974,msid-93497493/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row.jpg",
+          "url": "https://www.goodreturns.in/img/2021/10/stock-1633078633.jpg",
           "width": 600,
-          "height": 450,
+          "height": 338,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1222,211 +1397,14 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/industry/renewables/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row/amp_articleshow/93497474.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/renewables/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row/amp_articleshow/93497474.cms",
-      "publishedDateTime": "2022-08-11T01:16:00-07:00",
+      "ampWebUrl": "https://www.goodreturns.in/amphtml/news/don-t-miss-tata-elxsi-s-new-age-solutions-for-driverless-cars-stock-zooms-1158-in-5-years-1258512.html",
+      "cdnAmpWebUrl": "https://www-goodreturns-in.cdn.ampproject.org/c/s/www.goodreturns.in/amphtml/news/don-t-miss-tata-elxsi-s-new-age-solutions-for-driverless-cars-stock-zooms-1158-in-5-years-1258512.html",
+      "publishedDateTime": "2022-08-12T00:39:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
+        "name": "Goodreturns",
+        "domain": "goodreturns.in",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-tesla-full-self-driving-technology-under-fire-as-video-seems-to-show-it-failing-to-detect-child-sized-object.md",
-      "title": "Tesla full self-driving technology under fire as video seems to show it failing to detect child-sized object",
-      "excerpt": "A pair of testing videos have been released in recent days, showing Tesla vehicles failing to stop for child-sized objects",
-      "sourceUrl": null,
-      "webUrl": "https://www.whichcar.com.au/news/tesla-full-self-driving-technology-under-fire-as-video-seems-to-show-it-failing-to-detect-child-sized-object",
-      "originalUrl": "https://www.whichcar.com.au/news/tesla-full-self-driving-technology-under-fire-as-video-seems-to-show-it-failing-to-detect-child-sized-object",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.whichcar.com.au/image/private/s--4xsgqGIQ--/ar_1.9047619047619047,c_fill,f_auto,g_xy_center,q_auto:good,x_817,y_328/c_scale,w_1200/Tesla_Model_3_FSD_pedestrian_The_Dawn_Project.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-10T17:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "whichcar",
-        "domain": "whichcar.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-10-top-artificial-intelligence-ai-solutions-in-2022.md",
-      "title": "10 top artificial intelligence (AI) solutions in 2022",
-      "excerpt": "As AI-powered technologies continue to advance and more organizations adopt them, IT leaders must be sure to ask themselves how the solutions they choose fit into their goals as a business.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/",
-      "originalUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1131331897-e1655419471228.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/",
-      "publishedDateTime": "2022-08-10T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI",
-        "AI in Healthcare",
-        "Microsoft AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-the-importance-of-international-norms-in-artificial-intelligence-ethics.md",
-      "title": "The Importance of International Norms in Artificial Intelligence Ethics",
-      "excerpt": "Artificial intelligence has arrived as a multi-purpose tool. The United States and its allies need to do more to establish norms and ensure AI is used in a way that does not harm human rights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics",
-      "originalUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2022/08/G7leaders.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp",
-      "cdnAmpWebUrl": "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp",
-      "publishedDateTime": "2022-08-10T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cfr.org",
-        "domain": "cfr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare",
-        "AWS AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-tesla-self-driving-smear-campaign-releases-test-that-fails-to-realize-fsd-never-engaged.md",
-      "title": "Tesla self-driving smear campaign releases ‘test’ that fails to realize FSD never engaged",
-      "excerpt": "A Tesla Full Self-Driving smear campaign started by a California billionaire running for Senate has a new attack ad based on a FSD Beta “test,” where they failed to realize they never engaged FSD Beta during the test.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/",
-      "originalUrl": "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 175,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Full-SElf-Driving-Beta-failed-test.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/amp/",
-      "publishedDateTime": "2022-08-10T08:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

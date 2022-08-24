@@ -104,6 +104,15 @@ related:
         width: 1600
         height: 1067
         isCached: true
+  - title: "First AI celebrity signs with major record label then gets dropped"
+    excerpt: "An Artificial Intelligence-powered rapper is now the first virtual celebrity to sign with a major record label after getting millions of views on TikTok."
+    publishedDateTime: 2022-08-24T10:33:00Z
+    webUrl: "https://www.tweaktown.com/news/88099/first-ai-celebrity-signs-with-major-record-label-then-gets-dropped/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 17
   - title: "AI Rapper FN Meka Has Signed To Capitol Records, And Hip-Hop Fans Are Not Happy About It"
     excerpt: "Labels wanna be cheap and not have to pay real artists so they’re making bots [so] they can keep 100% profit,’ said one Twitter user."
     publishedDateTime: 2022-08-21T19:36:00Z
@@ -114,6 +123,6 @@ related:
       domain: uproxx.com
     quality: 8
 
-secured: "3o9m848Fgw23ht9yiIdPJ/CeGO8gje16z0/Xhyp3jOLHm5gDnA+3b5fmgt8kWa+1euAFxZxIElIkrg4JmmlkGTRe5yboLGIYhTymeXOomgNTu6D7wYU1m8mJl+LupDPVeG9/nr9AVtR5331RINxLCxAAHK1jRJ9+EoRDjBP8+mEMZk6eywTqzcq2rOQxSU01i/Acv4IpFUZwP0Mv4HB8UN467+bHLIleHqqWBSsj0wqCEDUgE/y9VcX6tq/k8jZoELaAsW9G1bmTdl8Lwn1Eg0YxRG4vGGJEyxgIH6lfIkHvyBuTe+r8X6iKGH4XJPmDlU2SgIRlobaR01HD2KlcLMwL1MWqKI+i91IbpNPmzko=;KMNKXeHTCw+1VAjoit2mcg=="
+secured: "hRnQZ9Hk5t3oX0bMcOuBBxiQXO84WhPfKg4+o1qvHs8SlSlrEHN/+MMszazpubhJIsr/fSqNvW/KI6ak9LEbAdLxSK7iIIBg5NLYUARx2AoYsaX6pC/iMUQX80dRdR3eSlKbIsSQkiYZwc/DHlPuiEh3k7hSdiAjiZPSCHQVUMqqhOmvVjQAanhNt0GSovpHKdkD6OHQDodeOTFOhsmQiAbGtS8LwMA9I+OB4YiTzrhl/SmTDM4ze7GXKiCXIBkcaj9oXGz0g90IsQ2srRbAZlGdidHk9kijyHcpcxCaiI8ioQe2mT3TJ5g3gMGX5OVzbQ3neFPM49O64fPjb8CHqBKZ2fqgtdXQBszV1qYwLZF1lLMHXlLw+cgaLdJy4seDSQn/hfKjAyiPoW9xBdKZuqZGTbV/V+53ASzAR6fhIm70I1dKYw1ratlypzPoYHBPIDXzpMfno5YbVqIBVDOWO0m9Or2XkU2aLsHTRZSNRuo/CcuXWsy/b8/C1Spz7wWE7N9/aGGVEagx5jQRVpOEjg==;1taY/qxidtusUDqG9HR1VA=="
 ---
 

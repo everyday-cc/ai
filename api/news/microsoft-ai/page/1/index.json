@@ -2,6 +2,154 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-23-hot-it-skills-to-develop-now.md",
+      "title": "Hot IT Skills To Develop Now",
+      "excerpt": "Technology continually evolves, and our skills need to evolve with it to remain relevant and keep our careers on track. As the global CIO at NPD, I’ve met many amazing CIO/CTO colleagues and watched as the key issues we collectively face have evolved from pre-pandemic planning to supporting our business through the pandemic,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/hot-it-skills-to-develop-now/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/hot-it-skills-to-develop-now/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5f3ac7cf80a528019291bfb9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/hot-it-skills-to-develop-now/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/23/hot-it-skills-to-develop-now/amp/",
+      "publishedDateTime": "2022-08-23T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-nexla-to-provide-pre-packaged-ready-to-use-datasets-with-latest-acquisition.md",
+      "title": "Nexla to provide pre-packaged ready-to-use datasets with latest acquisition",
+      "excerpt": "California-based Nexla has announced the acquisition of Fidap to provide enterprises with pre-packaged, ready-to-use datasets.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/nexla-to-provide-pre-packaged-ready-to-use-datasets-with-latest-acquisition/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/nexla-to-provide-pre-packaged-ready-to-use-datasets-with-latest-acquisition/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1330516352.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/nexla-to-provide-pre-packaged-ready-to-use-datasets-with-latest-acquisition/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/nexla-to-provide-pre-packaged-ready-to-use-datasets-with-latest-acquisition/amp/",
+      "publishedDateTime": "2022-08-22T16:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-21-enterprise-artificial-intelligence-ai-market-growing-massively-by-ibm-microsoft-aws.md",
+      "title": "Enterprise Artificial Intelligence (AI) Market Growing Massively by Ibm, Microsoft, Aws",
+      "excerpt": "New Jersey, N.J., Aug 21, 2022 Enterprise AI is a category of enterprise software that leverages advanced artificial intelligence techniques, including machine learning, to drive digital ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/enterprise-artificial-intelligence-ai-market-growing-massively-by-ibm-microsoft-aws",
+      "originalUrl": "https://www.digitaljournal.com/pr/enterprise-artificial-intelligence-ai-market-growing-massively-by-ibm-microsoft-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/f4f04bbf0a33e2251f03a5748650712826f14ff2-2-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-21T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-10-top-cybersecurity-online-courses-and-certifications-in-2022.md",
       "title": "10 top cybersecurity online courses and certifications in 2022",
       "excerpt": "Are you interested in cybersecurity certifications? Whether you're changing careers or upskilling your team, there's help available.",
@@ -192,6 +340,60 @@
         "Machine Learning",
         "AI in Healthcare",
         "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-ai-vs-ml-artificial-intelligence-and-machine-learning-overview.md",
+      "title": "AI vs. ML: Artificial Intelligence and Machine Learning Overview",
+      "excerpt": "In 1982, John Hopfield showed that a neural network could process information in far more advanced ways. Various forms of AI began to take shape, and the first artificial neural network (ANN ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/enterprise-apps/ai-vs-ml/",
+      "originalUrl": "https://www.eweek.com/enterprise-apps/ai-vs-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-DSOM-Image02-800x800-1.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "AI in Autos"
       ]
     },
     {
@@ -491,6 +693,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-12-microsofts-new-azure-fluid-relay-service-now-generally-available.md",
+      "title": "Microsoft’s New Azure Fluid Relay Service Now Generally Available",
+      "excerpt": "Currently, the Azure Fluid Relay service is available in around 10 Azure regions – half of which are in the US – on a pay-as-you-go basis. More details on pricing are available on the pricing ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoq.com/news/2022/08/azure-fluid-relay-service/",
+      "originalUrl": "https://www.infoq.com/news/2022/08/azure-fluid-relay-service/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.infoq.com/news/2022/08/azure-fluid-relay-service/en/headerimage/generatedHeaderImage-1659899905932.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoQ",
+        "domain": "infoq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-office-2016-and-2019-users-wont-be-cut-off-from-microsoft-365-back-end-services-next-year.md",
       "title": "Office 2016 and 2019 users won't be cut off from Microsoft 365 back-end services next year",
       "excerpt": "Even though Microsoft is all-in on the cloud, it still is continuing to roll out \"perpetual\" (non-subscription) versions of Office every few years. Recently, some of those users -- namely those ...",
@@ -530,40 +775,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-clearview-consent-launches-presentation-attack-detection.md",
-      "title": "Clearview Consent Launches Presentation Attack Detection",
-      "excerpt": "Hoan Ton-That, Clearview AI’s CEO said, “The launch of our Presentation Attack ... facial recognition technology providers such as Amazon Rekognition and Microsoft Azure, while delivering superior performance and accuracy. Clearview Consent is also ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/clearview-consent-launches-presentation-attack-detection/article_6a7b3ee4-b5f4-5e24-9959-440750cf3226.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/clearview-consent-launches-presentation-attack-detection/article_6a7b3ee4-b5f4-5e24-9959-440750cf3226.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T03:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1257,189 +1468,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-how-enlighten-designs-is-balancing-professional-services-sales-and-delivery.md",
-      "title": "How Enlighten Designs is balancing professional services, sales and delivery",
-      "excerpt": "Hamilton-based IT services and consulting partner Enlighten Designs is focused on ‘keeping a finger on the pulse’ of customer requirements to remain agile and seeking market expansion through growing its expertise.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reseller.co.nz/article/700525/how-enlighten-designs-balancing-professional-services-sales-delivery/",
-      "originalUrl": "https://www.reseller.co.nz/article/700525/how-enlighten-designs-balancing-professional-services-sales-delivery/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d1abomko0vm8t1.cloudfront.net/article/images/600x315/promoted_content/promo/damon_kelly-1.jpg",
-          "width": 458,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T19:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reseller News",
-        "domain": "reseller.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-microsoft-spreads-fud-on-office-connections-to-microsoft-365-services.md",
-      "title": "Microsoft Spreads FUD on Office Connections to Microsoft 365 Services",
-      "excerpt": "Microsoft appears to be deliberately trying to confuse the public on Office 2016 and Office 2019 connections to Microsoft 365 services. In a July Redmond article, I reported on Microsoft's plans ...",
-      "sourceUrl": null,
-      "webUrl": "https://redmondmag.com/articles/2022/08/08/microsoft-spreads-fud-on-office-connections-to-microsoft-365-services.aspx",
-      "originalUrl": "https://redmondmag.com/articles/2022/08/08/microsoft-spreads-fud-on-office-connections-to-microsoft-365-services.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://redmondmag.com/-/media/ECG/redmondmag/Images/IntroImages2017/0817red_WinInsider.jpg",
-          "width": 647,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Redmond Magazine",
-        "domain": "redmondmag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-accelerating-azure-databricks-runtime-for-machine-learning.md",
-      "title": "Accelerating Azure Databricks Runtime for Machine Learning",
-      "excerpt": "Intel-optimized ML libraries on Azure Databricks Databricks Runtime for Machine Learning includes the stock versions of scikit-learn and TensorFlow. To boost performance, however, Intel engineers ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3669311/accelerating-azure-databricks-runtime-for-machine-learning.html",
-      "originalUrl": "https://www.infoworld.com/article/3669311/accelerating-azure-databricks-runtime-for-machine-learning.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2022/08/istock-1135710814-article-3-100930991-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-05T15:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-06-cognitive-rehab-may-help-older-adults-clear-covid-related-brain-fog.md",
-      "title": "Cognitive Rehab May Help Older Adults Clear Covid-Related Brain Fog",
-      "excerpt": "Eight months after falling ill with covid-19, the 73-year-old woman couldn’t remember what her husband had told her a few hours before. She would forget to remove laundry from the dryer at the ...",
-      "sourceUrl": null,
-      "webUrl": "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/",
-      "originalUrl": "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://khn.org/wp-content/uploads/sites/2/2022/08/GettyImages-1333713912.jpeg",
-          "width": 3840,
-          "height": 2560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/amp/",
-      "cdnAmpWebUrl": "https://khn-org.cdn.ampproject.org/c/s/khn.org/news/article/cognitive-rehab-older-adults-covid-brain-fog/amp/",
-      "publishedDateTime": "2022-08-05T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Kaiser Health News",
-        "domain": "khn.org",
-        "images": null,
         "publishers": null,
         "authors": null
       },
