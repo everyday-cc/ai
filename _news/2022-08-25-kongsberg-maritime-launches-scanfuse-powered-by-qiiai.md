@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-24T17:08:00Z
 originalUrl: "https://www.marinetechnologynews.com/news/kongsberg-maritime-launches-scanfuse-622049"
 webUrl: "https://www.marinetechnologynews.com/news/kongsberg-maritime-launches-scanfuse-622049"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: marinetechnologynews.com

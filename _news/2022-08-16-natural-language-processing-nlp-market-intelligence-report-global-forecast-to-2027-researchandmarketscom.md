@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Natural Language Processing (NLP) Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com"
-excerpt: "The \"Natural Language Processing Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Natural Language Processing Market is projected to reach USD 40."
-publishedDateTime: 2022-08-16T09:59:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-natural-language-processing-nlp-market-intelligence-report-global-forecast-to-2027-researchandmarketscom"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-natural-language-processing-nlp-market-intelligence-report-global-forecast-to-2027-researchandmarketscom"
+excerpt: "The \"Natural Language Processing Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Natural Language Processing Market is ..."
+publishedDateTime: 2022-08-16T10:10:00Z
+originalUrl: "https://www.wsiltv.com/news/illinois/natural-language-processing-nlp-market-intelligence-report---global-forecast-to-2027--/article_42a9a5a7-967b-5eee-80ae-b8652cf90343.html"
+webUrl: "https://www.wsiltv.com/news/illinois/natural-language-processing-nlp-market-intelligence-report---global-forecast-to-2027--/article_42a9a5a7-967b-5eee-80ae-b8652cf90343.html"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: WSIL-TV
+  domain: wsiltv.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "tZ4ACljUQ59xPn30uB5rxc7V6JkIlSil7LpJbGc1iQ7CiQV19n99ug4tB2qfmxMQoyKeEcYor8xnwNTFA/cDDSuCmaVU0oXh3gHVd+22/ymGq2GVH/GS7OCPHLpBAZiVwpw+RTKXklcyXC7bAXmYpACa/g+oWW2/EqFC0Dzftvn8uB2vptvjGwTDel//OPgjL1tbM7IRAnpfF7syvD8gNk0DLRclpvDztWP9gC7Z6qVa4a2tqm7tL/FMf/seTd7F/ZVvuaxZ03FcN+ZCl1pr4MXcsd3kTXp+HSZfltcpCYhvuPuYzbPITb/GuM3Gyx8rYZyjdDWhtlz//tzI0RG+gz3pZPgBgk30iVZyBs+Kz1k=;IXTxsb/J06JT8LCm5ype8A=="
+secured: "Z17V92FS8tPZtCE0y/5hFbRid+TuyvCCXQhLykbFzr528bl4mrFeRE6H0aLxPRVAaJK7gWIRH29L/pmxlMM+qoDdrr7rzVwKFgpX54texxdycCF0rWRkcm+1vsy00qgSTJAGWmZFyKz5Rcau85rhomTYN7E6ZTH+sidIRyIq18E1QCMDf4Ux5cy0aQ3Al0oDmY5SOgdRHWzZxX1XgXhG2Kul1ZOc517JxcRHfhkkoyPx/F8G6iZ0TV/w4D6/PZaVJsJWSfbVaVFU6Y8Mgpb3aU+4Y3+0cW7cHZq5Mym8IxTJCdnMu65Q6sfUonV+zMj0fQIAGyrJ30vQuNkmiGFndSSNTVDucwKrku1HJGOiOmI=;pTHUoWdnAJdPtEVSV6x6Yw=="
 ---
 

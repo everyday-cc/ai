@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-23T01:51:00Z
 originalUrl: "https://www.wxyz.com/news/national/robots-could-help-reduce-chemical-use-in-farming"
 webUrl: "https://www.wxyz.com/news/national/robots-could-help-reduce-chemical-use-in-farming"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: WXYZ Detroit

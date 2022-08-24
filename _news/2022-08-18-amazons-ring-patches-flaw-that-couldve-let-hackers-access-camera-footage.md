@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Amazon's Ring Patches Flaw That Could've Let Hackers Access Camera Footage"
-excerpt: "Checkmarx researchers also took their proof-of-concept attack further by showing how Amazon’s own computer vision technology, called Rekognition, could be used to help an attacker quickly sift ..."
-publishedDateTime: 2022-08-18T15:51:00Z
-originalUrl: "https://au.pcmag.com/home-security-cameras/95736/amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage"
-webUrl: "https://au.pcmag.com/home-security-cameras/95736/amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage"
+excerpt: "The flaw required Ring users with Android devices to install a malicious app. The company quietly released a patch for the problem in May."
+publishedDateTime: 2022-08-18T15:41:00Z
+originalUrl: "https://uk.pcmag.com/home-security-cameras/142156/amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage"
+webUrl: "https://uk.pcmag.com/home-security-cameras/142156/amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage"
 type: article
 
 provider:
@@ -19,6 +19,12 @@ topics:
   - AWS AI
   - AI
 
-secured: "GD4iKmODeOdP4WEn0PhzpfOaLVlyxAyOEzvI8d2M6kfwZCdGmsSyEDyS/F8uE+Wu7+HdapVm2UsDR/cDFqxpfzMgqfGB4ALmL2NCpCHTnSjxx1oWdi8LTSQyaBxGqYcUJyTygqqG+khLmuRazgH6fgHX8qm3pnCHxdfff+gkxa32mQDgoiB7SUxglWXqXEzDyxDMbBeV0Scha7G4a41vAr5Z85oDEOMUPkaHS70ELiMZbk6hv6grxtBZpIUofHN5ohQphzJp1MSIREeGBbqRgtZYfqVUpHfPR/YhegfMUKP/YeXJT0XTc1YPHTpCzF/p3GpJa0Z/7ly/FjGQ0K57jUghQa9Egg4rvqevHPd7NVo=;Wrfpxd+tJzV5GiIOYmqN0Q=="
+images:
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/a/amazons-ri/amazons-ring-patches-flaw-that-couldve-let-hackers-access-ca_9rcq.1200.jpg"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "A3nSeBNpTaBAnFjR05cIxHhnlnPRbSatbHcawmiMQB2Td17uwN7Z1S+2HY+Ehkt9gw8aRh1k1nzL6qTXy31FpB2Nsgzq2iJeaXfBO41jgMQ+9EWgTM2SawDa/ih0wzGueUM+xPacPB1C65x6eeK+pBEkqgXmfto32wxPsgz9VbIYca03gBoRAn1QG/fR0TJ1Q7JY8c6Y0CrlTsLHyDmX9OImyhbsGPdhMiViRaWMwZFlCLkuaMCMs6qO0gyhw1CKA7qgxJYGWh0+4cQWY8nrs6SaRWnB+tkUXkcXILW23RwTKlhnOVZfqYw0iGTfjTdoRwkJnzfHfTMA/KtaeN23JFg6hFp/9TpVxslnqJPgXvQ=;KkXI4ODlYRh5RVG0n7rF8A=="
 ---
 

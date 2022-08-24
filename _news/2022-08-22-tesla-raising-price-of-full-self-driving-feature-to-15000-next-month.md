@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/tesla-raising-price-of-full-se
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442"
 type: article
 quality: 103
-heat: 413
+heat: 423
 published: true
 
 provider:
@@ -444,6 +444,15 @@ related:
     provider:
       name: Guru3D.com
       domain: guru3d.com
+    quality: 19
+  - title: "Why Tesla Expects to Develop Self-Driving Cars First in the Industry"
+    excerpt: "Continuing its battle to change the transportation business, Tesla has unveiled the artificial intelligence system it has developed to educate its thousands of cars to drive themselves. Dojo, the AI system revealed on Tuesday at the Hot Chips conference,"
+    publishedDateTime: 2022-08-23T18:00:00Z
+    webUrl: "https://bestgamingpro.com/why-tesla-expects-to-develop-self-driving-cars-first-in-the-industry/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
     quality: 19
   - title: "Tesla Is Doubling Down on ‘Full Self-Driving.’ Ralph Nader Wants It Recalled."
     excerpt: "Tesla is hiking the price of its sometimes controversial driver-assistance software it calls Full Self-Driving."

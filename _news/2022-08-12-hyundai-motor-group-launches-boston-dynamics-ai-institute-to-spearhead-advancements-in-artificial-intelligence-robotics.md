@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics"
-excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across"
-publishedDateTime: 2022-08-12T06:04:00Z
-originalUrl: "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4"
-webUrl: "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4"
+excerpt: "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across the technical areas of cognitive AI,"
+publishedDateTime: 2022-08-12T09:00:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70"
 type: article
 
 provider:
-  name: The NewsMarket
-  domain: thenewsmarket.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Robotics
   - AI
 
-secured: "FGz2Ysrlqjg59/QIRN9H2PVpA1G99a86ae+Orn6tmX+wqPBwsSdVtu5f7f6lSGIRLuJv1KE9QpxPMLP8LvMXTfVDIPM5eDf56NTikQg1FpuiwdsWOQejISPyad36PsD9oCRB8qKDREyhq7UsTQD/L35QAizXfN2r2J5xCezncNp8UGhVujtfk8JXXuLIuyOYousKZ28xSW14XDpC7dZWzxAikfA1ti2oHg8dz2C3MVYfCXSOG4EHYq00xOYrskFLqbiue71L/+3cnVyBmGkgBxatr16AVbOgE+OHlsUYR1L8RvT0e8LInjaTNia5cGKItaO6xh/2uK+1Y1lxLv0Y/P9HxIX+aw8CnDVQTQywPZn1iX84VPTKNFPp9UcrKdYB7cHYJrxClyqyyWBkH93Cqp2K2J83u0g5Y1rtRt5TVicvofyMC5wEXOdQrLmeO6ORmqYJgztHcUqiVhrHU9VPdBLPw/Wr9oDc8OYBkZG3O6+kiZAmzxxTOlMLCFSObva1EQLmtFy7JMDM+LAzwvUUjA==;xxftBlkwZUzyQL1Z/JmRYw=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "S3usPcz7gypCEK0obqHv5+OjAY3SzPy1ISAeFqfgjF3fuy3siiUKPtQYBHl+7xQ5Ff3e0XNprAh2HniIL3Wmnb0VzwvqsNB/dp9PWkdvU2Z83uZYuvduUwIuxIEuDTNSSgsordESsxi0WaafxBWQaTDAd+WUkKXUAKYQzXHAFsIuw/9IhZhCPPEfVxjHPQNubiJE8TXVtrXtTdJiAI93faKrIk3RMjQq4VZkOt4lTYnS3S8bHusOIKdkL4vKYXFnadQh2imB36z9ULbo/IsHEU0ZOUQVjX9LRRACn2s4kdk95HW+qZIpLqvnMOE/k6+P0HY/E3sbWVu5AZj5sI31VjvGjLlTAVlhe1hz6KwjaK8=;MPoiH2LftG/qGmaYw4k27A=="
 ---
 

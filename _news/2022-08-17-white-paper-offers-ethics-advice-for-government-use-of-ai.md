@@ -1,10 +1,10 @@
 ---
 category: news
 title: "White Paper Offers Ethics Advice for Government Use of AI"
-excerpt: "Titled ‘AI's Redress Problem,’ the white paper was published by the University of California, Berkeley, and it joins an accelerating cross-sector conversation about the importance of incorporating ethics as AI develops."
-publishedDateTime: 2022-08-17T00:28:00Z
-originalUrl: "https://govtech.com/products/white-paper-offers-ethics-advice-for-government-use-of-ai"
-webUrl: "https://govtech.com/products/white-paper-offers-ethics-advice-for-government-use-of-ai"
+excerpt: "Published by the University of California, Berkeley, the paper is titled AI’s Redress Problem, and it joins an accelerating, cross-sector conversation about how to ensure that ethics and ..."
+publishedDateTime: 2022-08-16T22:44:00Z
+originalUrl: "https://www.govtech.com/products/white-paper-offers-ethics-advice-for-government-use-of-ai"
+webUrl: "https://www.govtech.com/products/white-paper-offers-ethics-advice-for-government-use-of-ai"
 ampWebUrl: "https://www.govtech.com/products/white-paper-offers-ethics-advice-for-government-use-of-ai?_amp=true"
 cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/products/white-paper-offers-ethics-advice-for-government-use-of-ai?_amp=true"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 438
     isCached: true
 
-secured: "AtBoUQAafM/B+OwzKbsIc4TxTXXoNWzED/kGhf7V/GzsFrxX1gnL+wC3DYRMUzm74XVdxOR4OsGCB91TypX6vfxf6708KNBKsi1va80mhoD5AZrJucXoiTl24H0iVAiTvBsw86La5sPB07QwqBmieiTIfNrvMMc67CRpG1Xex3y0mFrar97j91HYVjau95TCMYiZ6QOoZv/+gxJv+/u6daBBdfLaH3SQeX7Gmc54rPz5/76sEG3XrW/hIv+wBw0t5DBg+j4b9fhET2auac3y0T8CcnjcIutmMbAvEDYFBLRICz3ya0PzOVtsKmggPEUYXq93LV+p9AQr2VXa60Opo2JA5y8nVvd0ZqX5UvHT6xmRtEWFQNpVFvd8B4zDJeOYQhLCK6UPfb4tSs0uyKikAQytu4/LI5QJGlT9h4H7ca688zaOi5SBDXBEUXzpJwEVvOk5b3dtQllPMFTKOwyiOqqp3zX3SDp18zwSl6cK4HCxWE11mDhg+6aob2Cs0wmaxk3NvS4WDSkLMG/9JHdjVQ==;wMuVHqR0A4+57kJY91Xhgw=="
+secured: "4JmcD7uFjVECN3h8NjsVVpkHpv2/j2s6L5hZ5RVmAid5Q/GHhoPE5uEUuO7+ZaoFe5ood2NbAhG65cmU6SUjk4jsoPatdO6bvuOyO/jUldwdLZGxmHudB33qNht4wmYEXze+Cggn53xya5n10bJWo2I/mC+TBJUGXpGzD6qO2b1If5NnLuAyjBxZbQ1gaWq1FLr6PMtsATRJ/vNBVCQukpObgp7Md6TVsaPdMzGcGhbmCtaAZEL+VzlixgfT6Sx7+QAJrkUSlSEc/oyt32MUeP4jOlzZnSW0fo0x2U7uIFT/o7baKoj0hz2x0DUFKj7a9yIcUgchu+F0CF6PWIfICmY9k2aKO9UnugP8Eg+KShc=;1ypO/6avPQRjOgBv/RAoyQ=="
 ---
 

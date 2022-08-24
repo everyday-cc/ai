@@ -42,6 +42,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "The Intersection Of Physical, Mental, And Financial Health: What The Fintech Journey Can Teach Us"
+    excerpt: "The connection between different facets of our health is more obvious than ever. The pandemic highlighted the ways decreased physical mental health and physical health are intertwined –and recent research shows that ongoing stressors around finances also impact mental and physical health."
+    publishedDateTime: 2022-08-24T18:49:00Z
+    webUrl: "https://www.forbes.com/sites/jennifertescher/2022/08/24/the-intersection-of-physical-mental-and-financial-health-what-the-fintech-journey-can-teach-us/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 21
   - title: "GCV Leads £695K Investment in Finexos, a Fintech Focused on Making Credit More Accessible"
     excerpt: "GCV has led a £695,000 investment round into Finexos, a fintech platform set \"to improve access to credit for millions of people around the world.\""
     publishedDateTime: 2022-08-24T12:38:00Z

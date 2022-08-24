@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-24T19:13:00Z
 originalUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-continues-to-expand-the-capabilities-of-cross-border-payments/"
 webUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-continues-to-expand-the-capabilities-of-cross-border-payments/"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: List of Banks in Belarus

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-24T19:40:00Z
 originalUrl: "https://tdwi.org/articles/2022/08/24/appen-state-of-ai-ml-report.aspx"
 webUrl: "https://tdwi.org/articles/2022/08/24/appen-state-of-ai-ml-report.aspx"
 type: article
+quality: 27
+heat: 27
+published: false
 
 provider:
   name: TDWI

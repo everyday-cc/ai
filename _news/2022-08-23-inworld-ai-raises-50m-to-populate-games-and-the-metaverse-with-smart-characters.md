@@ -55,6 +55,24 @@ related:
         width: 1798
         height: 900
         isCached: true
+  - title: "Metaverse in healthcare market to reach $72B by 2030"
+    excerpt: "The 2021 metaverse global market size is about $6.85 billion. According to an Aug. 24 news release from Precedence Research, it is expected to surpass $70.1 billion by 2030 with a compound annual growth rate of 28."
+    publishedDateTime: 2022-08-24T18:53:00Z
+    webUrl: "https://www.beckershospitalreview.com/finance/metaverse-in-healthcare-market-to-reach-72b-by-2030.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
+  - title: "Kura Technologies’ Artificial Intelligence Generated Optics Deliver the Highest Performance for the Future of the Metaverse"
+    excerpt: "Kura Technologies, an award-winning developer of the best-in-class augmented reality (AR) smart glasses and platform, today announced that its fully custom and highly-anticipated development kit optics are up and running in the lab with production to start later this year."
+    publishedDateTime: 2022-08-24T11:03:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-artificial-intelligence-cb79e856aa4687dc27cfa96827935080"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 0
 
 secured: "HIMv288qvWOz9F7VZLvjbraj8cpwCFPww7oghQTmWWhnpf7p4Q+mwQg1Oa8lLCjCGLEDuoZt0sIzVxXzY0pxaXfgfilBLYUcXuISGYyn6Fn7iu889/F+Z/8zvxg5PYFhALi0X/Ix5eH0kuU1sTOI1H7JdCG7P2DFc3jlasmCwTaaNuw2bnxAhirMmMEhu/fv8WGEtFJ5TVel4dfiDokVy7FKGf+zA1ChOyjNLyZMLaxcC6xgxrvQiAvwZVAFCHgw9+0LyJFyi9kMuNN/dUrduQmryy4Y6mfLlHoq9+PUTfQ9W6bd6t+vO5Os7ka+umxHzSAG6QhW5lsYXYdTd9Lr9pH+f3NgTMmdJ2dDUOjHeMxd+tCYU2pCAi94Bjj9NymFIiTRQjIN/Tjhgot0B3kYIWKosAyDm7yFMLS+Y1Pvx8RFjYOrBe0p+OSaA7/kYHoivVFGRj3KvmTrAAGFFT63BpnY8rv65ttgx+3fF964Dmtdhv/tVsgYUjgiwECOrmpu1ZsJ1wyGK9Ok8e0QC3AmWw==;VgfmD+KzPr8hbDo51n3BfQ=="
 ---

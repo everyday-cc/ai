@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-24T16:17:00Z
 originalUrl: "https://www.beckershospitalreview.com/hr/nurses-at-oregon-hospital-seek-union-recognition.html"
 webUrl: "https://www.beckershospitalreview.com/hr/nurses-at-oregon-hospital-seek-union-recognition.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Becker's Hospital Review

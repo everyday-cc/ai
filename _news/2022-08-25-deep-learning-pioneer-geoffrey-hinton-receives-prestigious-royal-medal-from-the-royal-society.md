@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-24T18:16:00Z
 originalUrl: "https://www.utoronto.ca/news/deep-learning-pioneer-geoffrey-hinton-receives-prestigious-royal-medal-royal-society"
 webUrl: "https://www.utoronto.ca/news/deep-learning-pioneer-geoffrey-hinton-receives-prestigious-royal-medal-royal-society"
 type: article
+quality: 8
+heat: 8
+published: false
 
 provider:
   name: University of Toronto

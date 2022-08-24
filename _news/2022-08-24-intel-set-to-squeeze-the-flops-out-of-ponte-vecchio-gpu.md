@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-23T19:50:00Z
 originalUrl: "https://www.theregister.com/2022/08/23/intel_ponte_vecchio/"
 webUrl: "https://www.theregister.com/2022/08/23/intel_ponte_vecchio/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: theregister

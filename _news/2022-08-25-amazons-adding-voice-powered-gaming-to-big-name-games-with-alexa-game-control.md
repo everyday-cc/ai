@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-24T18:27:00Z
 originalUrl: "https://techcrunch.com/2022/08/24/amazons-adding-voice-powered-gaming-to-big-name-games-with-alexa-game-control/"
 webUrl: "https://techcrunch.com/2022/08/24/amazons-adding-voice-powered-gaming-to-big-name-games-with-alexa-game-control/"
 type: article
+quality: 30
+heat: 30
+published: false
 
 provider:
   name: TechCrunch

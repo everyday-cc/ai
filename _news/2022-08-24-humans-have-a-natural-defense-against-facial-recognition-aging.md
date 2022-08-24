@@ -7,7 +7,7 @@ originalUrl: "https://www.pcmag.com/news/humans-have-a-natural-defense-against-f
 webUrl: "https://www.pcmag.com/news/humans-have-a-natural-defense-against-facial-recognition-aging"
 type: article
 quality: 84
-heat: 124
+heat: 134
 published: true
 
 provider:
@@ -74,6 +74,15 @@ related:
     provider:
       name: The Australian
       domain: theaustralian.com.au
+    quality: 4
+  - title: "Vets’ contribution needs social recognition"
+    excerpt: "Recent floods in Odisha have given substance to the fact that veterinary department is the forerunner in reaching out to distressed people in marooned and inundated areas. It’s quite apparent that a basket of essential services like electricity,"
+    publishedDateTime: 2022-08-24T19:03:00Z
+    webUrl: "https://www.dailypioneer.com/2022/state-editions/vets----contribution-needs-social-recognition.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
     quality: 4
 
 secured: "ONdZIPUxWQV7Noi3ndDGGtctyButi+Iy0o/ZCsl6akQpDt4pPm1XHHiPEvF/Zw61HF3xjUbfjUuK5H2SKAy/LEGrzpDXu1cu0BFFF1yW3O90TXxZs7xI4bj/mIwMsXWsoVpnFj/1gsF5xCnMbJ/k2mVIOnNFrnbw9Te5V0b5jNyuooXVQiqTbO6Q1pDeT/AfINmOD8OxRZM8TlBUvRoGrLnPyT65fwCfFD5AELA+4VJukS75xug9JG+EiArG+5T3qehAOiUaa9gelV3v1SQNKMKYcZIvNb+oZpyG9FPFJb+/361mnTzufna9i3TE6G5xUzLGzQ/mtemO5A5c0izWxlnh3gOOJy8rW8BOyqO5P0ZxeedTCw6bP54KkY9FD9LJcxqoPw4E7eoWRim7NnMM2N8OFkJSuHzEpkUxFElFRSsNUAMoB5b8jtxMh59ntxe+rnVlTJcAO0hcKxXl/dPVY/nYu+7Dtq1TKYlTnov2XrnE/OV4TiBI2mWCejLJ6Xf5gCaUxxe1oo5vdlEDEmrVrQ==;zr2J2SFU/HbUldaNwDVYgQ=="

@@ -71,6 +71,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 4
+  - title: "Vets’ contribution needs social recognition"
+    excerpt: "Recent floods in Odisha have given substance to the fact that veterinary department is the forerunner in reaching out to distressed people in marooned and inundated areas. It’s quite apparent that a basket of essential services like electricity,"
+    publishedDateTime: 2022-08-24T19:03:00Z
+    webUrl: "https://www.dailypioneer.com/2022/state-editions/vets----contribution-needs-social-recognition.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 4
 
 secured: "XMzIOWZXjjNDLRLYhCJmb0znGZE7QALn7bFy3y0ITsKbK3ceLSt8RxtwlrMVJt+9vkzWZDus9F0wQAEb6LuZPo0PuutXBDx2hlxKQrQ1zj3QLxc1/6//smWKQ+AkoBvzn8TDL/iAMwFVoC5WVD8QahUDP0G5TPlprWRK1L1KfhWOC2NVaSxuBMu4cdNN5xIj+xDydRhgMdC8/1Hv5GxoeqgO8iKYF9/oJX8QIJFEUadKDb5ehJb+axSc1++Iu317IzZTXC1rxgqE4m0Ry0Rtu+kqocaYcNlvf7g6YF5EIEOcmNRaXOS08Ot4e8LTM1MlZBUBKMC1uMiauqTKaZk3RY21vwEVudwSguIi9QoX1XU=;VhCcVfp6Gpliocgto7bmtQ=="
 ---

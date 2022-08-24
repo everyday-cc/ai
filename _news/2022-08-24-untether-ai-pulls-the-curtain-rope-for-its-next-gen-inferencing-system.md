@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2022/08/23/untether-ai-pulls-the-curtai
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/08/23/untether-ai-pulls-the-curtain-rope-for-its-next-gen-inferencing-system/amp/"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "Untether AI Unveils At-Memory Compute Architecture at Hot Chips"
+    excerpt: "Untether AI, an at-memory computation company for artificial intelligence (AI) workloads, today announced at the HOT CHIPS 2022 conference its next-generation architecture for accelerating AI inference workloads called speedAI devices,"
+    publishedDateTime: 2022-08-24T18:41:00Z
+    webUrl: "https://insidehpc.com/2022/08/untether-ai-unveils-at-memory-compute-architecture-at-hot-chips/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 58
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/08/generic-bits-bytes-data-shutterstock_1091146922.png"
+        width: 600
+        height: 300
+        isCached: true
   - title: "Untether AI Unveils Its Second-Generation At-Memory Compute Architecture at HOT CHIPS 2022"
     excerpt: "Untether AITM, the leader in at-memory computation for artificial intelligence (AI) workloads, today announced at the HOT CHIPS 2022 conference its next-generation architecture for accelerating AI inference workloads called speedAI devices,"
     publishedDateTime: 2022-08-23T15:16:00Z

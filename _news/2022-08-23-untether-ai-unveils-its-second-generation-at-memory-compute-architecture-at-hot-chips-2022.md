@@ -42,6 +42,20 @@ related:
         width: 807
         height: 500
         isCached: true
+  - title: "Untether AI Unveils At-Memory Compute Architecture at Hot Chips"
+    excerpt: "Untether AI, an at-memory computation company for artificial intelligence (AI) workloads, today announced at the HOT CHIPS 2022 conference its next-generation architecture for accelerating AI inference workloads called speedAI devices,"
+    publishedDateTime: 2022-08-24T18:41:00Z
+    webUrl: "https://insidehpc.com/2022/08/untether-ai-unveils-at-memory-compute-architecture-at-hot-chips/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 58
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/08/generic-bits-bytes-data-shutterstock_1091146922.png"
+        width: 600
+        height: 300
+        isCached: true
   - title: "Untether AI moves to floating point for SpeedAI architecture"
     excerpt: "At this week's HotChips 2022, UntetherAI has announced its second generation at-memory architecture to accelerate AI interference. SpeedAI (codenamed"
     publishedDateTime: 2022-08-23T16:00:00Z

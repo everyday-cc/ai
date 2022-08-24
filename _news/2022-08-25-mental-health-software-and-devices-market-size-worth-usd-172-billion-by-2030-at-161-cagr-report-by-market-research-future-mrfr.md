@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-24T19:00:00Z
 originalUrl: "https://menafn.com/1104749781/Mental-Health-Software-And-Devices-Market-Size-Worth-USD-172-Billion-By-2030-At-161-CAGR-Report-By-Market-Research-Future-MRFR"
 webUrl: "https://menafn.com/1104749781/Mental-Health-Software-And-Devices-Market-Size-Worth-USD-172-Billion-By-2030-At-161-CAGR-Report-By-Market-Research-Future-MRFR"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

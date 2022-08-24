@@ -26,7 +26,7 @@ images:
 related:
   - title: "Capitol Records Pulls Plug On Racist ‘AI Rapper’ After Barely A Week"
     excerpt: "The record label pulled the controversial artist it \"signed\" after an activist group called it \"an amalgamation of gross stereotypes.\""
-    publishedDateTime: 2022-08-24T08:31:00Z
+    publishedDateTime: 2022-08-24T12:31:00Z
     webUrl: "https://www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7"
     ampWebUrl: "https://www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7/amp"
     cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7/amp"
@@ -56,6 +56,15 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "AI rapper FN Meka dropped by Capitol over racial stereotyping"
+    excerpt: "A record label has cut ties with an AI rapper after criticism it contained racial stereotypes, including repeated use of the N-word. FN Meka is an artificial intelligence musician given the appearance of a black male cyborg."
+    publishedDateTime: 2022-08-24T14:56:00Z
+    webUrl: "https://www.bbc.com/news/newsbeat-62659741.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 47
   - title: "AI Rapper FN Meka Was Dropped From Capitol Records After Fans Called Out Its Racist Overtones"
     excerpt: "Just a few weeks after it was announced that Capitol Records had signed an artificial intelligence rapper named FN Meka, the label dropped the project after hip-hop fans called out the decision online,"
     publishedDateTime: 2022-08-23T21:45:00Z
@@ -70,6 +79,15 @@ related:
         width: 710
         height: 400
         isCached: true
+  - title: "Viral AI rapper dropped from major record label for racist content"
+    excerpt: "Capitol Music Group 'signed' FN Meka on August 14. The ensuing backlash ended the partnership in less than two weeks."
+    publishedDateTime: 2022-08-24T18:00:00Z
+    webUrl: "https://www.popsci.com/technology/racist-ai-rapper-dropped-label/"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 17
 
 secured: "0aaUWgo/tIS0eKYcbvOrH3L4Eg/8UA6/F+Higj9SjNxy4Qi5XuSI7CUodnaeJiOwPzRek/R9zUooOJpW1xoH25cDtKGGfG7k58NPjEG+7HRlC9hLccqS8z36jhVbCQLA16GawG4kJHgj8/TnvIW8DJMt4+raV0n9zbbLVAXkjL4x98rL+QFzmEYo4x4ooUGN8JuPlfWbyETC98YzebhGX29iI/3SEOIQ7J92GoagWIXJVoYTxoosHRDHRhJ/4iAKCLDZr5el+UpLcREBMlg6Dcod84zIPWNjWWcwNFTHDoVPAvIeCe9MLppePCdHD/WahqwWGxKLJfwEA3N8CSrzBhp+n6m/cN5KZytL25lJIaA1GS3/zfsLThdpJjVYVf3ukoP0XRtJ0zuUsEFiN0ehYYU7zDESst++CSwODL40CG8TI0D9aEzuwfQ5GmyIwSwnYIaat38aGMLP5GFbHGspmDuZrgQ8GU707nMS9gzdXqTTCtvD08Ao7hUQUsv1FPLB29/qYS5fJbo2btHDX4QuGw==;61wTBReXfmj/IETd/6r0Uw=="
 ---

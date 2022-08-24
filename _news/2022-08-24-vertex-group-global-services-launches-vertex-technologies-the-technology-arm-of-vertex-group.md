@@ -26,6 +26,17 @@ images:
     height: 450
     isCached: true
 
+related:
+  - title: "Vertex Group (Global Services) launches Vertex Technologies - The technology arm of Vertex Group"
+    excerpt: "Technology has opened up new possibilities for accelerating growth and information transmission. These are the two significant objectives behind the launch of this new line of business under Vertex Group."
+    publishedDateTime: 2022-08-24T20:26:00Z
+    webUrl: "https://news.webindia123.com/news/articles/Business/20220824/3976237.html"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 0
+
 secured: "s8E4kbzEZD184X9NCAmSvwyEIco/Ij8xt2HvXl8YiYeLOYuh/R5+Os0021ccNaO7iqcGBY0ClSd0Zmv0s4lGSQrEOMJAiPyUlMl/LBRQAsk22plJu6wqlbkyxh1fJX7udMf67KD3iWq2mB9nUMLzWdlBcrmsErClql/k28pWr6BEY2PlpZQlYOeeH2ZNvy45NSsHhuo5yBn1JYn3P3jlkan8MyQVLnqik2t8q1X/tpkHdiTI4fI+Y4cnuuPs24QniOvxijz9vacghDxxBTOIMvvUlh5wGyiJWwddd2zpqI9jzDOFSP5Y9STRMveW7FxqzMWZ1CfDEePfo86Pg/Qw+tT3WXA+YoV79WledxCRmF0=;3kcEPoTlfl2x4mp/6NXx1w=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-24T19:42:00Z
 originalUrl: "https://www.popularmechanics.com/cars/car-technology/a39826958/autonomous-driving/"
 webUrl: "https://www.popularmechanics.com/cars/car-technology/a39826958/autonomous-driving/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Popular Mechanics

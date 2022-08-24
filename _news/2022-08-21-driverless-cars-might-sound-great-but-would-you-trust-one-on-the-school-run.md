@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thesun.co.uk/news/19568179/driverless-cars-trust-school-
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/19568179/driverless-cars-trust-school-run/amp/"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -25,6 +25,17 @@ images:
     width: 1920
     height: 1080
     isCached: true
+
+related:
+  - title: "Driverless cars: From science fiction to a road near you"
+    excerpt: "Self-driving cars, coaches, and lorries could on UK motorways next year - how is it working in China? | ITV National News"
+    publishedDateTime: 2022-08-24T20:19:00Z
+    webUrl: "https://www.itv.com/news/2022-08-24/driverless-cars-from-science-fiction-to-a-road-near-you"
+    type: article
+    provider:
+      name: ITV
+      domain: itv.com
+    quality: 19
 
 secured: "mI6yAML8ufY5blBj8XSacYBoCcUUc7e6aXTF0BFrkD4XmqkUh9qQWo7d8BRba+Ccgm+0SGe5wYl1SZkvQ7JigUTPAx195dGnn/EOs3Q3DXrjNKRIfLw8OImw21NAWnvuOHcoQxRv4N0iYkJ2/LMsJHuI0yeUNnwYgB7400JT1lFuflbZastdc8frIyjtyLKmD6W0WeJE9ldSBkaKbpY4wpFc3Pd+tjj19t103xPGe370boM2qZ4GeGVyX+v0vM4nKet/sJXXzGgvb2nSE6Wcq+4I+0QQgt87N4yD6MSjame8EhLumxZfesQFhu9jOF7yO75dKqPp+ZXizVrIeEBGcso5r4sGEt+L/yWhl9QA3enJPMCv2le6cYNp6FHtC8jebYZNAHiKH1QtubhwAqG27dZ4ebVfqQKwJ9EnwSlT6KrzbEZuswlwmvoDBNoTwEoIPJksNgnIPaJNyzIPS5cvaIw9KYpMbTB+Av8hj9gAo34CVRz9BL313kcGPeC2scICF7qLwmO5PBED3N23q5N5cg==;uJq6Izo7g+CWoRmpWW0BHw=="
 ---

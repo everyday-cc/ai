@@ -43,6 +43,22 @@ related:
         width: 1024
         height: 682
         isCached: true
+  - title: "The UK is upgrading military buggies into self-driving vehicles"
+    excerpt: "The purpose of the upgrade is to allow for a buggy to be able to carry out a resupply mission autonomously, keeping humans out of danger."
+    publishedDateTime: 2022-08-24T21:01:00Z
+    webUrl: "https://www.popsci.com/technology/self-driving-military-buggy/"
+    ampWebUrl: "https://www.popsci.com/technology/self-driving-military-buggy/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/self-driving-military-buggy/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 44
+    images:
+      - url: "https://www.popsci.com/uploads/2022/08/24/2022_08_16_TeleOperation_Rheinmetall_Path_for_Theseus_2_2.jpeg?auto=webp"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Proposed UK Law: Humans Not Liable for Self-Driving Vehicle Accidents"
     excerpt: "Self-driving cars could begin operating on major UK highways within the next year ahead of wider 2025 rollout, but humans won't be liable for accidents that occur when the vehicle is in control, according to proposed regulations."
     publishedDateTime: 2022-08-22T13:38:00Z
@@ -52,20 +68,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 34
-  - title: "Self-driving vehicles on UK roads by 2025 under new government plans"
-    excerpt: "Self-driving vehicles could be on British roads by 2025 under new plans unveiled by the government and backed by a £100 million (RM530.5mil) investment to boost the rollout."
-    publishedDateTime: 2022-08-20T04:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/20/self-driving-vehicles-on-uk-roads-by-2025-under-new-government-plans"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/20/1704057.jpeg"
-        width: 1240
-        height: 795
-        isCached: true
   - title: "Self-driving cars could be on UK roads by 2025"
     excerpt: "The UK's roads could see self-driving vehicles rolled out by 2025 under new government plans backed by a 100 million pound ($118 million) investment."
     publishedDateTime: 2022-08-22T03:58:00Z

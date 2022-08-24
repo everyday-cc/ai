@@ -34,6 +34,15 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "The Intersection Of Physical, Mental, And Financial Health: What The Fintech Journey Can Teach Us"
+    excerpt: "The connection between different facets of our health is more obvious than ever. The pandemic highlighted the ways decreased physical mental health and physical health are intertwined –and recent research shows that ongoing stressors around finances also impact mental and physical health."
+    publishedDateTime: 2022-08-24T18:49:00Z
+    webUrl: "https://www.forbes.com/sites/jennifertescher/2022/08/24/the-intersection-of-physical-mental-and-financial-health-what-the-fintech-journey-can-teach-us/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 21
   - title: "Urban Money by Square Yards is spearheading fintech revolution in real estate"
     excerpt: "lies a suite of tech capabilities driving its fintech powertrain, helping the company disburse paperless mortgages in a matter of minutes instead of days or weeks. Once a customer fills his financial requirements online, an AI-based eligibility engine dete ..."
     publishedDateTime: 2022-08-22T13:24:00Z
