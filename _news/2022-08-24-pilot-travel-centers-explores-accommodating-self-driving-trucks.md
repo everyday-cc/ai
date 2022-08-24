@@ -7,8 +7,8 @@ originalUrl: "https://www.wsj.com/articles/pilot-travel-centers-explores-accommo
 webUrl: "https://www.wsj.com/articles/pilot-travel-centers-explores-accommodating-self-driving-trucks-11661299412"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Wall Street Journal
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Former Apple engineer pleads guilty to stealing self-driving car trade secrets"
+    excerpt: "Former Apple Inc. engineer Xiaolang Zhang pleaded guilty Monday to theft of trade secrets from the company’s self-driving vehicle program. According to filings with the US District Court for the"
+    publishedDateTime: 2022-08-24T09:14:00Z
+    webUrl: "https://www.jurist.org/news/2022/08/former-apple-engineer-pleads-guilty-to-stealing-self-driving-car-trade-secrets/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 20
+    images:
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2022/05/apple_inc._1652985256.jpg"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "Former Apple engineer takes plea deal for stealing self-driving trade secrets before working for XPeng"
     excerpt: "Former Apple engineer Xiaolang Zhang has pleaded guilty to trade secret theft after being accused of stealing information surrounding Apple’s self-driving technology. Zhang would go on to work for XPeng Motors in China,"
     publishedDateTime: 2022-08-23T13:23:00Z

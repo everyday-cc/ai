@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-24T12:27:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-veritone-voice-network-provides-multilingual-custom-ai-voice-/2022/08/24/9661367.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-veritone-voice-network-provides-multilingual-custom-ai-voice-/2022/08/24/9661367.htm"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: TMCnet

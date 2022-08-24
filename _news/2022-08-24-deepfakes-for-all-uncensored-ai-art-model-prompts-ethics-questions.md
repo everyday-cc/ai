@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-24T12:15:00Z
 originalUrl: "https://techcrunch.com/2022/08/24/deepfakes-for-all-uncensored-ai-art-model-prompts-ethics-questions/"
 webUrl: "https://techcrunch.com/2022/08/24/deepfakes-for-all-uncensored-ai-art-model-prompts-ethics-questions/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: TechCrunch

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nextplatform.com/2022/08/23/untether-ai-pulls-the-curtai
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/08/23/untether-ai-pulls-the-curtain-rope-for-its-next-gen-inferencing-system/amp/"
 type: article
 quality: 61
-heat: 71
+heat: 81
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
         height: 450
+        isCached: true
+  - title: "Untether AI moves to floating point for SpeedAI architecture"
+    excerpt: "At this week's HotChips 2022, UntetherAI has announced its second generation at-memory architecture to accelerate AI interference. SpeedAI (codenamed"
+    publishedDateTime: 2022-08-23T16:00:00Z
+    webUrl: "https://www.electronicsweekly.com/market-sectors/automotive-electronics/untether-ai-moves-to-floating-point-for-speedai-architecture-2022-08/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 41
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/08/19113105/23-08-2022-untetherAI-speedAI-7P6A9757-Edit-hires-bkg-scaled.jpg"
+        width: 2560
+        height: 1536
         isCached: true
 
 secured: "UoE9f11/iF23scGz2hxpdWDF9nRN9j/jzqAymwyOv3T7+lVa5bM50vTu5Fiwv8G1Llr+iVQ2X3HjVLR16ch33TDV6Xk3EC/aGppkTo/RQfp0twgT9sOc2VwrlFhoOCkZWG44TiWEAoYTx4V+sioHpJdxPfP1ITH2xA77tTY4prV/y+WZHbQVnrZQDLRMLOvWrf7LBQ5k9ClceOde29zyG61sw77+Vpf1RRFDZLq9gCC9iPReuBo9hNMZN4Z2bKKK4X8yHjDmQp15Tso9fWWx2dplt+6mzmVJ1U9UGa4GsJ4e54IOC5EkLMhrzWuEkvHOHnlECf/CwcwhcDhxtr6L8qXVWSKjvttIBqGODOUmifj32laJKbHoplg0e5NJzb7yArtuJ7bisBQ31zd27RNnvVx28sDewbow49xjODp6gAmgkxHxWRUOH1MDuniVnLaSa5vuCGNM1fwytslgKtfKwRC3vsKDLsIf1HZRzFxaXUjqPgmvziF5wehr960Me9QU7SfCgd5v3yT02J0XMD1T8A==;VCgfnzR3J5Vc6gunKP1dYA=="

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-24T12:45:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/24/evolving-big-data-strategies-with-data-lakehouses-and-data-mesh/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/24/evolving-big-data-strategies-with-data-lakehouses-and-data-mesh/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Forbes

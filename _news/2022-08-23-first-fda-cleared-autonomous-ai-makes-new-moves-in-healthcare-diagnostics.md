@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/first-fda-cleared-autonomous-ai-makes-new
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/first-fda-cleared-autonomous-ai-makes-new-moves-in-healthcare-diagnostics/amp/"
 type: article
 quality: 103
-heat: 103
+heat: 113
 published: true
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "OSF Ventures invests in company bringing AI diagnosis to health care locations across the country"
+    excerpt: "OSF Ventures, the investment arm of OSF HealthCare, has joined a $75 million Series B financing round to support Iowa-based Digital Diagnostics’ efforts to speed growth, implementation and sales, plus deepen the development pipeline for digital tools aimed at improving patient access to early disease detection and treatment."
+    publishedDateTime: 2022-08-24T15:15:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-peoria-124b734daf4cc2f07f261a1400e32cae"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "dsITXPm9CZl4BBVJGpmvUo2ihCIsjwRUJospRI9pi0S8dic/srBTuKmJdYM4weR7TNvGcNxbNvAnJ9VPwur2nqHJupv/o70mL0y+xONFRb/mZKhCPJsGDKXBLGsMtyvi9mMI3DgRFkEeM8syz3EJU5ZqAKMRbpTG8NUny0DfO6arEc+FceTQ+/map4uVEQrsRV9iyipHetc4qGA59pTha8mYMgUKrZXmAkoj2k9emuonomYq6RDTrJwIsDoLek6XoTl9UzY5R0znRLiuhrwnU8w5/wGusteCWbapNk6HpVQWvER//5NKYwW9CDRyq3mf6AVfCKdao4SFq1p0FH2p2pqOh5NaUGIjJGjfH2MWZ6GUiNLJFa/M2qap6drwKfTiVqv2ERKy9pXc5sBOpCmbC/nFFTw92+r7xHsSAFr9xk0i7gCrZgtrzISWoMxOzUAAYJyxOu+ss8qCahgcRVVGcMuNWFsmnfQsnejPKdlzzfsoEc2kwETR2qzcYXBYYBibvUusVcfLtBnAB6NuvMspJw==;aTdDMmqThe6azFQLxIQNpg=="
 ---

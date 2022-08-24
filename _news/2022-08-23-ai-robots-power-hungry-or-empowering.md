@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/ai-robots-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/23/ai-robots-power-hungry-or-empowering/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 114
 published: true
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "AI: powering healthcare, empowering patients Physician perceptions of AI and the future of pharma"
+    excerpt: "According to a report by the British Medical Journal (BMJ), soon after COVID-19 was declared a global pandemic, the World Health Organization (WHO) indicated both AI and ML could be important tools for managing the crisis,"
+    publishedDateTime: 2022-08-24T13:38:00Z
+    webUrl: "https://www.pmlive.com/pharma_intelligence/AI_powering_healthcare,_empowering_patients_Physician_perceptions_of_AI_and_the_future_of_pharma_1453023"
+    type: article
+    provider:
+      name: PMLiVE
+      domain: pmlive.com
+    quality: 21
 
 secured: "8ECD9ACyRHmtLvEEwrX+6fdwDl2h72XfGu+jO2qQkP9ZQ1PIGfVCHz5ACrBh4FSo1D9MuA9fkQKjyus3BaRy5aerKH5uVRgUQOUpf4QD/oow5IEeXTZcSCaZXmrvoK7vIUtCnI6Q/lWPUMMbaXhFrOYyYBsZ4S9ygBTPgmtCxInGdb9iV00UFLzdFHZa3IIbasYFuoXrMc+fQCaAQ088r87v1XCK5NCsgO6mPCsutx0qZNpldFlm4d98ZwoYU4aDBHbw8oH+t6ztGLnpbhpoH0xH1q6ARmyy03FERIj5MCfXsn5lmuJy/wOk9VCCkrmP3ylQp62pVp52N3A79KABTmtzGq4ETwHy1oKOX3HiHQnTO6ehEnio1uAtwgWOw8/J+xyX26L/eOeOOT3kxpT6vbwzV5qi7Q5YKaOk1j19Ij2MnoSdJoTrFNkyir5Mt9+hhOj7S8IkuOW1cSfA4nN9njkITRmHtVlJMggOh+rDIJXNNYjsK60AP2qvUSI7O70t1VqKJnnCFuUlyXNTzc8ZBA==;4jmWswD1p1olYntyMG4Xlg=="
 ---

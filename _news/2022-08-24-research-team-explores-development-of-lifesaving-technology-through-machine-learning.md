@@ -7,7 +7,7 @@ originalUrl: "https://medicalxpress.com/news/2022-08-team-explores-lifesaving-te
 webUrl: "https://medicalxpress.com/news/2022-08-team-explores-lifesaving-technology-machine.html"
 type: article
 quality: 12
-heat: -1
+heat: 12
 published: false
 
 provider:
@@ -17,22 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Teacher inspires early love of technology through robotics"
-    excerpt: "\"We lead with entertainment and fun first,\" Hanchar said. \"So (Cozmo) is more of a fun robot where you control it like a toy. It's more like a toy experience where you have direct remote control ..."
-    publishedDateTime: 2022-08-19T22:55:00Z
-    webUrl: "https://www.jconline.com/story/news/local/lafayette/2022/08/19/teacher-inspires-early-love-of-technology-through-robotics/65400001007/"
-    type: article
-    provider:
-      name: Journal & Courier
-      domain: jconline.com
-    quality: 54
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/08/18/PLAI/5acea327-850b-484b-9c3f-7a435ccd9817-081522UkrainianStudent106.JPG?auto=webp&crop=3949,2222,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
 
 secured: "M5pm937qiI1lAr7hG2dYbo3hVY+wCmgASSI3KJIXTRTwd6UOEo88Nyq1mH1Heyo5uihVmLxyhf7kyUUl6KQ1ZGEww25MP0HfpMJdUlUlL20QFTLu+p1bgCG/b49krQTZP1A0H6n0IZKdg3WWL5q9FD2pmccOJWeGwXQjKX8EaUIj8MX+Z/x9yZh2EPKdJhoGMj3Ms9D09HZkDoNamm6wZJ2RlHqncmogvsODzj9ta5lDLhd0rm/I66/oWEzU2HMK0z9O+iwTdSloa0+IRM/KH/VawatZg/CDnDmUSWuf5Al+8dGA+hHmcgYpUUGEkJ2FI0bTsX4T3jYlG7THtHhQA/ucN5etgrgL+w7fGKpXvMWrqvcs1t/LwzXK6JoUQja9uTygcySt83yqZvixwS7NfL9aReQsJjPJa7DxFvctej3Bkd/8/27OXO7AkAhP1nZ8gs2juxqL0hYm97etn47X670QEhK1UGnVwG3sbyP3XBhMwDQryvF7zCc7ztzTfGwfmHko0L96E9jTgPzNKKmphw==;1L6BXdZsSnTHmI7t8l0wMA=="
 ---

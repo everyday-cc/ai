@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-24T13:57:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/-echo360-offers-innovative-ai-captioning-from-rev-/2022/08/24/9661510.htm"
 webUrl: "https://www.tmcnet.com/usubmit/-echo360-offers-innovative-ai-captioning-from-rev-/2022/08/24/9661510.htm"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: TMCnet

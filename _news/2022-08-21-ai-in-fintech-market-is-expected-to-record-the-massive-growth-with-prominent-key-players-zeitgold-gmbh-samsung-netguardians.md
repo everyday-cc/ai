@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-21T07:16:00Z
 originalUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-is-expected-to-record-the-massive-growth-with-prominent-key-players-zeitgold-gmbh-samsung-netguardians"
 webUrl: "https://www.digitaljournal.com/pr/ai-in-fintech-market-is-expected-to-record-the-massive-growth-with-prominent-key-players-zeitgold-gmbh-samsung-netguardians"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Digital Journal

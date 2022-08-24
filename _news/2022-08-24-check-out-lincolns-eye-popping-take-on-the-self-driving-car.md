@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-24T12:15:00Z
 originalUrl: "https://www.zdnet.com/article/check-out-lincolns-eye-popping-take-on-the-self-driving-car/"
 webUrl: "https://www.zdnet.com/article/check-out-lincolns-eye-popping-take-on-the-self-driving-car/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: ZDNet

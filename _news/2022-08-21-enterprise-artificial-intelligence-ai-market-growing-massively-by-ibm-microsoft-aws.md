@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/enterprise-artificial-intelligen
 webUrl: "https://www.digitaljournal.com/pr/enterprise-artificial-intelligence-ai-market-growing-massively-by-ibm-microsoft-aws"
 type: article
 quality: 78
-heat: 98
+heat: 88
 published: true
 
 provider:
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "How Microsoft’s AI convinced me to switch to Edge, and where the browser still falls short"
-    excerpt: "I finally broke down and switched to Microsoft’s Edge browser this week on my Windows PC, after many years of using Google Chrome. No, it wasn’t the incessant and annoying… Read More"
-    publishedDateTime: 2022-08-19T19:31:00Z
-    webUrl: "https://www.geekwire.com/2022/how-microsofts-ai-convinced-me-to-switch-to-edge-and-where-the-browser-still-falls-short/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 54
   - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
     excerpt: "New Jersey, NJ -- (SBWIRE) -- 08/21/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
     publishedDateTime: 2022-08-21T06:20:00Z

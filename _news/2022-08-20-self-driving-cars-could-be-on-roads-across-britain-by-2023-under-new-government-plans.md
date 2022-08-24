@@ -25,102 +25,21 @@ images:
     isCached: true
 
 related:
-  - title: "Britain sets out roadmap for self driving vehicle usage by 2025"
-    excerpt: "Britain said on Friday it wanted a widespread rollout of self-driving vehicles on roads by 2025, announcing plans for new laws and 100 million pounds ($119.09 million) of funding."
-    publishedDateTime: 2022-08-19T22:14:00Z
-    webUrl: "https://www.reuters.com/business/autos-transportation/britain-sets-out-roadmap-self-driving-vehicle-usage-by-2025-2022-08-19/"
+  - title: "FIVE at FIVE: Bitcoin’s big dip; Cineworld mulls bankruptcy; Greatland Gold hails Newcrest move, UK delays self-driving cars;"
+    excerpt: "Here’s Proactive’s round-up of the top financial stories of the day, with helpful links taking you directly to the news The Department for Transport today said it wants new legislation to allow for the “safe wider rollout” of self-driving vehicles ..."
+    publishedDateTime: 2022-08-20T06:31:00Z
+    webUrl: "https://www.proactiveinvestors.com.au/companies/news/990590/five-at-five-bitcoin-s-big-dip-cineworld-mulls-bankruptcy-greatland-gold-hails-newcrest-move-uk-delays-self-driving-cars-990590.html"
+    ampWebUrl: "https://www.proactiveinvestors.com.au/companies/amp/news/990590"
+    cdnAmpWebUrl: "https://www-proactiveinvestors-com-au.cdn.ampproject.org/c/s/www.proactiveinvestors.com.au/companies/amp/news/990590"
     type: article
     provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 84
+      name: Proactiveinvestors UK
+      domain: proactiveinvestors.com.au
+    quality: 32
     images:
-      - url: "https://www.reuters.com/resizer/-bD145K776yCk-35pfGOxAdMuxA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LAUS5LTOURJXXD3N5LFTSFEYMA.jpg"
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA4XC9tb25leS10ZWV0aF82MmZmYTVjNWUwYzcyLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
         width: 1200
-        height: 628
-        isCached: true
-  - title: "Human drivers in UK won’t be liable for accidents when vehicle is self-driving"
-    excerpt: "Manufacturers operating self-driving vehicles in the UK will be liable for a vehicle’s actions when in autonomous mode, according to the country’s new roadmap to achieve a widespread rollout of self-driving vehicles by 2025. The British government ..."
-    publishedDateTime: 2022-08-22T03:51:00Z
-    webUrl: "https://techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/"
-    ampWebUrl: "https://techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 70
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1185460611.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "AI market can be worth USD 7.8 billion by 2025 | AI career roadmap for beginners"
-    excerpt: "Here are some of the skills that you would require to make a successful career in the field of AI and Machine Learning."
-    publishedDateTime: 2022-08-22T11:07:00Z
-    webUrl: "https://www.indiatoday.in/education-today/jobs-and-careers/story/ai-market-can-touch-up-to-usd-7-8-billion-in-india-by-2025-here-s-the-career-roadmap-for-beginners-1991099-2022-08-22"
-    ampWebUrl: "https://www.indiatoday.in/amp/education-today/jobs-and-careers/story/ai-market-can-touch-up-to-usd-7-8-billion-in-india-by-2025-here-s-the-career-roadmap-for-beginners-1991099-2022-08-22"
-    cdnAmpWebUrl: "https://www-indiatoday-in.cdn.ampproject.org/c/s/www.indiatoday.in/amp/education-today/jobs-and-careers/story/ai-market-can-touch-up-to-usd-7-8-billion-in-india-by-2025-here-s-the-career-roadmap-for-beginners-1991099-2022-08-22"
-    type: article
-    provider:
-      name: India Today
-      domain: indiatoday.in
-    quality: 52
-    images:
-      - url: "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202208/technology-3435575__340-647x363.jpeg?ctomwJL8F1TFTnIcypr0wTy_FS85UjtX"
-        width: 647
-        height: 363
-        isCached: true
-  - title: "Proposed UK Law: Humans Not Liable for Self-Driving Vehicle Accidents"
-    excerpt: "Self-driving cars could begin operating on major UK highways within the next year ahead of wider 2025 rollout, but humans won't be liable for accidents that occur when the vehicle is in control, according to proposed regulations."
-    publishedDateTime: 2022-08-22T13:38:00Z
-    webUrl: "https://www.pcmag.com/news/proposed-uk-law-humans-not-liable-for-self-driving-vehicle-accidents"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 34
-  - title: "Self-driving vehicles on UK roads by 2025 under new government plans"
-    excerpt: "Self-driving vehicles could be on British roads by 2025 under new plans unveiled by the government and backed by a £100 million (RM530.5mil) investment to boost the rollout."
-    publishedDateTime: 2022-08-20T04:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/20/self-driving-vehicles-on-uk-roads-by-2025-under-new-government-plans"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 24
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/20/1704057.jpeg"
-        width: 1240
-        height: 795
-        isCached: true
-  - title: "Self-driving cars could be on UK roads by 2025"
-    excerpt: "The UK's roads could see self-driving vehicles rolled out by 2025 under new government plans backed by a 100 million pound ($118 million) investment."
-    publishedDateTime: 2022-08-22T03:58:00Z
-    webUrl: "https://www.thehansindia.com/auto/auto-news/self-driving-cars-could-be-on-uk-roads-by-2025-758748"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 24
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2022/08/22/1308950-self-driving-vehicles.jpg"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "UK prepares funding, roadmap for self-driving vehicles"
-    excerpt: "The UK has announced plans for new laws and funding of 100 million pounds for the widespread rollout of self-driving vehicles on the nation roads by 2025"
-    publishedDateTime: 2022-08-23T07:30:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272662580/uk-prepares-funding-roadmap-for-self-driving-vehicles"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1661188007650.jpg"
-        width: 630
-        height: 420
+        height: 740
         isCached: true
 
 secured: "8vUqWtUIJ+Xtn8Wh0e0Xu7k2ljNrdhBVD99PdAG6rp2ffCm4GsXwtdetbMi+Nd1fHcG3H/fJmJOjyC6ByAOrRnSB1NBMmt18LIPoc+rgkzHWhI3ojbCr+RaCxCx3T17ugNvCMzMpxLPwl8myw0pgbIiBoH7Vs62Q2RKLAR7XbIgBIWEPqVzmHKZtWxKIwgYWnFYiggvBbmc45+dcwhzXR+btXWkQBpcq5Zqjsq2FL24sAgTlLH6WHWcHrkT/tv6TXLOEDSA1MSzja8AqeCicSgC39v/ALEeiUweFmDM5PWAREt9MK7iP2aeidRibxIxYAgfEqdkoitVh3N1B6MZkAlrxDezdMQPEnpudi7xm/d4=;a/DfZic2jYpQJvEer+rBeQ=="

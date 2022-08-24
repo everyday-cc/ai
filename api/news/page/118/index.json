@@ -2,6 +2,979 @@
   "page": 118,
   "value": [
     {
+      "path": "_news/2022-05-24-microsoft-expands-azure-openai-service-with-fine-tuning-features-and-more.md",
+      "title": "Microsoft expands Azure OpenAI Service with fine-tuning features and more",
+      "excerpt": "It will be similar to other transparency notes for Azure Cognitive Services, found here. Transparency notes are part of a broader effort at Microsoft to put our AI principles into practice.”",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/24/microsoft-expands-azure-openai-service-with-fine-tuning-features-and-more/",
+      "originalUrl": "https://techcrunch.com/2022/05/24/microsoft-expands-azure-openai-service-with-fine-tuning-features-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/03/GettyImages-1238869000.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/24/microsoft-expands-azure-openai-service-with-fine-tuning-features-and-more/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/24/microsoft-expands-azure-openai-service-with-fine-tuning-features-and-more/amp/",
+      "publishedDateTime": "2022-05-24T09:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-invenio-imaging-receives-ce-mark-to-detect-cancer-at-the-time-of-surgery-using-artificial-intelligence.md",
+      "title": "Invenio Imaging Receives CE Mark to Detect Cancer at the Time of Surgery using Artificial Intelligence",
+      "excerpt": "Invenio Imaging, the leader in intraoperative fresh tissue imaging, announced today the CE Mark for the NIO Glioma Reveal image analysis module. NIO Glioma Reveal is based on deep learning and allows neurosurgeons to identify areas of cancer infiltration in patients undergoing primary treatment of a diffuse glioma.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-health-cancer-artificial-intelligence-c93e1680ec8ce4105e11fb794029b423",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-health-cancer-artificial-intelligence-c93e1680ec8ce4105e11fb794029b423",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T09:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-microsoft-is-turning-to-popular-2-billion-data-science-startup-hugging-face-to-court-machine-learning-experts.md",
+      "title": "Microsoft is turning to popular $2 billion data science startup Hugging Face to court machine learning experts",
+      "excerpt": "An curved arrow pointing right. As the competition for capturing the machine learning industry heats up, Microsoft is turning to a popular $2 billion startup to get an edge over rivals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/microsoft-azure-hugging-face-integration-machine-learning-models-2022-5",
+      "originalUrl": "https://www.businessinsider.com/microsoft-azure-hugging-face-integration-machine-learning-models-2022-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6206cc39e2fe3c0019ea47aa?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-activists-protest-amazons-cloud-conference-over-companys-work-with-police-immigration-agencies.md",
+      "title": "Activists protest Amazon’s cloud conference over company’s work with police, immigration agencies",
+      "excerpt": "AWS’s Rekognition software has been criticized, including by Amazon’s own employees, as being less accurate in identifying people of color. At least three Black men have been incorrectly ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/technology/3500041-activists-protest-amazons-cloud-conference-over-companys-work-with-police-immigration-agencies/",
+      "originalUrl": "https://thehill.com/policy/technology/3500041-activists-protest-amazons-cloud-conference-over-companys-work-with-police-immigration-agencies/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/05/20220524_050826070_iOS-e1653422932564.jpg?w=1280",
+          "width": 979,
+          "height": 548,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/technology/3500041-activists-protest-amazons-cloud-conference-over-companys-work-with-police-immigration-agencies/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/technology/3500041-activists-protest-amazons-cloud-conference-over-companys-work-with-police-immigration-agencies/amp/",
+      "publishedDateTime": "2022-05-24T09:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solutions-stock-symbol-aitx.md",
+      "title": "First UK Authorized Dealer Signed for AI Robotics Leader: Artificial Intelligence Technology Solutions (Stock Symbol: AITX)",
+      "excerpt": "Robotic Assistance Devices (RAD) is a high-tech start-up that delivers robotics and artificial intelligence-based solutions that empower organizations to gain new insight, solve complex security challenges, and fuel new business ideas at reduced costs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/05/ab27375720/first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solut",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/ab27375720/first-uk-authorized-dealer-signed-for-ai-robotics-leader-artificial-intelligence-technology-solut",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh6.googleusercontent.com/M1OxQKTUKmexu_qMJWIZJkmS83Vi_TIycMFimESotLhW5g8EADqqnpG2vOFT5hFjGjk5Pirv_qgbIEs8lEvIKGd-VxkWuVsorceloGyE7m8ey7gfRHdj-YUaSqN8ebGrESX4NXdlYwYTKk9fEg",
+          "width": 791,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27375720",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27375720",
+      "publishedDateTime": "2022-05-24T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-toggle-ai-announces-zero-commission-initiative-with-interactive-brokers.md",
+      "title": "TOGGLE AI Announces Zero-Commission Initiative With Interactive Brokers",
+      "excerpt": "TOGGLE AI to offer commission-free trading and subscriber-exclusive options pricing for new IBKR usersNEW YORK--(BUSINESS WIRE)--TOGGLE AI today announced an initiative that enables their customers to trade commission-free on Interactive Brokers.",
+      "sourceUrl": null,
+      "webUrl": "https://us.acrofan.com/detail.php?number=669020",
+      "originalUrl": "https://us.acrofan.com/detail.php?number=669020",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://us.acrofan.com/news_images/2021/01/14/mark/20210114482917.jpg",
+          "width": 580,
+          "height": 339,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T08:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "아크로팬",
+        "domain": "acrofan.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-nvidia-details-plans-to-transform-data-centers-into-ai-factories.md",
+      "title": "Nvidia details plans to transform data centers into AI factories",
+      "excerpt": "At Computex, Nvidia announced hardware milestones and new innovations toward its roadmap for more powerful AI-enabled data centers.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/24/nvidia-details-strategy-to-transform-data-centers-into-ai-factories/",
+      "originalUrl": "https://venturebeat.com/2022/05/24/nvidia-details-strategy-to-transform-data-centers-into-ai-factories/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/09/chip.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 707,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/24/nvidia-details-strategy-to-transform-data-centers-into-ai-factories/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/nvidia-details-strategy-to-transform-data-centers-into-ai-factories/amp/",
+      "publishedDateTime": "2022-05-24T08:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-two-nhs-surgeons-are-using-azure-ai-to-spot-patients-facing-increased-risks-during-surgery.md",
+      "title": "Two NHS surgeons are using Azure AI to spot patients facing increased risks during surgery",
+      "excerpt": "An NHS trust is exploring how AI could help reduce waiting times, support recommendations from healthcare teams and help patients.",
+      "sourceUrl": null,
+      "webUrl": "https://news.microsoft.com/en-gb/features/two-nhs-surgeons-are-using-azure-ai-to-spot-patients-facing-increased-risks-during-surgery/",
+      "originalUrl": "https://news.microsoft.com/en-gb/features/two-nhs-surgeons-are-using-azure-ai-to-spot-patients-facing-increased-risks-during-surgery/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 134,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/68/2022/05/Microsoft_9716b-1-scaled.jpg",
+          "width": 2560,
+          "height": 1439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Microsoft",
+        "domain": "microsoft.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/microsoft.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-heres-why-you-should-retain-change-healthcare-chng-stock.md",
+      "title": "Here's Why You Should Retain Change Healthcare (CHNG) Stock",
+      "excerpt": "Change Healthcare Inc. CHNG is well-poised for growth backed by strength in artificial intelligence (AI) and machine learning (ML) initiatives and strategic deals. However, stiff competition remains a concern.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-2",
+      "originalUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-2?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/heres-why-you-should-retain-change-healthcare-chng-stock-2?amp",
+      "publishedDateTime": "2022-05-24T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-geisinger-selects-aws-as-strategic-cloud-provider.md",
+      "title": "Geisinger selects AWS as strategic cloud provider",
+      "excerpt": "Geisinger's cloud migration to AWS will enable the healthcare system to develop new, innovative technological advancements in areas like artificial intelligence, machine learning and more that ...",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/geisinger-selects-aws-as-strategic-cloud-provider-1031485427",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/geisinger-selects-aws-as-strategic-cloud-provider-1031485427",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T08:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.md",
+      "title": "Build 2022: Power Platform gets more web development tools and AI assistance",
+      "excerpt": "Lamanna noted that the Power Pages tools have been tested by several large customers. One interesting example comes from the New Zealand Ministry of Business, Innovation, and Empl",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3661556/build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.html",
+      "originalUrl": "https://www.infoworld.com/article/3661556/build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/29/11/10-most-powerful-network-companies-primary2-100730524-large-100923007-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3661556/build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3661556/build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.amp.html",
+      "publishedDateTime": "2022-05-24T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-microsoft-brings-support-for-arm-based-ai-chips-to-windows.md",
+      "title": "Microsoft brings support for Arm-based AI chips to Windows",
+      "excerpt": "With Project Volterra and software tooling, including from Qualcomm, Microsoft is making it easier to develop AI-accelerated apps using Windows.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/24/microsoft-brings-support-for-arm-based-ai-chips-to-windows/",
+      "originalUrl": "https://techcrunch.com/2022/05/24/microsoft-brings-support-for-arm-based-ai-chips-to-windows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 481,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/Build_Blog_Project_Volterra.png?w=680",
+          "width": 679,
+          "height": 302,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/24/microsoft-brings-support-for-arm-based-ai-chips-to-windows/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/24/microsoft-brings-support-for-arm-based-ai-chips-to-windows/amp/",
+      "publishedDateTime": "2022-05-24T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-madrona-and-pitchbook-partner-to-bring-machine-intelligence-to-the-intelligent-applications-40-ia40-list.md",
+      "title": "Madrona and PitchBook Partner to Bring Machine Intelligence to the Intelligent Applications 40 (#IA40) List",
+      "excerpt": "PitchBook Previews a New Machine Learning Intelligent Application that Predicts Company Outcomes and Finds that late stage IA40 companies are 60% more likely to IPO than the average late-stage company Madrona,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/05/b27374218/madrona-and-pitchbook-partner-to-bring-machine-intelligence-to-the-intelligent-applications-40-ia4",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/b27374218/madrona-and-pitchbook-partner-to-bring-machine-intelligence-to-the-intelligent-applications-40-ia4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27374218",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27374218",
+      "publishedDateTime": "2022-05-24T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-artificial-intelligence-ai-a-potential-without-limits.md",
+      "title": "Artificial Intelligence (AI), a potential without limits",
+      "excerpt": "The combination of Artificial Intelligence and the Internet of Things (IoT) will allow companies to have “very powerful” solutions, say the experts. ICEMD Innovation Series was created with the aim of being an annual reference document that helps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telefonica.com/en/communication-room/blog/ai-a-potential-without-limits/",
+      "originalUrl": "https://www.telefonica.com/en/communication-room/blog/ai-a-potential-without-limits/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telefonica.com/en/wp-content/uploads/sites/5/2022/05/pexels-tara-winstead-8386369.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telefonica.com/en/communication-room/blog/ai-a-potential-without-limits/amp/",
+      "cdnAmpWebUrl": "https://www-telefonica-com.cdn.ampproject.org/c/s/www.telefonica.com/en/communication-room/blog/ai-a-potential-without-limits/amp/",
+      "publishedDateTime": "2022-05-24T07:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Telefonica",
+        "domain": "telefonica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-deepminds-meta-learning-sparse-compression-networks-set-new-sota-on-diverse-modality-data-compression.md",
+      "title": "DeepMind’s Meta-Learning Sparse Compression Networks Set New SOTA on Diverse Modality Data Compression",
+      "excerpt": "Data representation is a core aspect of deep learning. While researchers have typically represented images or 3D shapes as multi-dimensional arrays, the use of implicit neural representations (INRs) has emerged as an attractive alternative.",
+      "sourceUrl": null,
+      "webUrl": "https://syncedreview.com/2022/05/24/deepminds-meta-learning-sparse-compression-networks-set-new-sota-on-diverse-modality-data-compression/",
+      "originalUrl": "https://syncedreview.com/2022/05/24/deepminds-meta-learning-sparse-compression-networks-set-new-sota-on-diverse-modality-data-compression/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/syncedreview.com/wp-content/uploads/2021/01/image-122.png?resize=790%2C320&ssl=1",
+          "width": 790,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://syncedreview.com/2022/05/24/deepminds-meta-learning-sparse-compression-networks-set-new-sota-on-diverse-modality-data-compression/amp/",
+      "cdnAmpWebUrl": "https://syncedreview-com.cdn.ampproject.org/c/s/syncedreview.com/2022/05/24/deepminds-meta-learning-sparse-compression-networks-set-new-sota-on-diverse-modality-data-compression/amp/",
+      "publishedDateTime": "2022-05-24T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "syncedreview",
+        "domain": "syncedreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-cognitive-analytics-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-valueopportunity-forecast-to-2028.md",
+      "title": "Cognitive Analytics Market Share, Size Global Growth Analysis, Trends, Industry Analysis, Key Players and Value,Opportunity Forecast to 2028",
+      "excerpt": "May 24, 2022 (The Expresswire) -- Global Cognitive Analytics Market Research Report is an In-Depth Analysis of the Latest Developments, Market Size, Status, upcoming technologies, industry drivers ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-valueopportunity-forecast-to-2028-2022-05-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/cognitive-analytics-market-share-size-global-growth-analysis-trends-industry-analysis-key-players-and-valueopportunity-forecast-to-2028-2022-05-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-why-mastercards-new-face-recognition-payment-system-raises-concerns.md",
+      "title": "Why Mastercard's new face recognition payment system raises concerns",
+      "excerpt": "Mastercard's \"smile to pay\" system, announced last week, is supposed to save time for customers at checkouts. It is being trialed in Brazil, with future pilots planned for the Middle East and Asia.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-05-mastercard-recognition-payment.html",
+      "originalUrl": "https://techxplore.com/news/2022-05-mastercard-recognition-payment.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 124,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/why-mastercards-new-fa.jpg",
+          "width": 1356,
+          "height": 668,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-05-mastercard-recognition-payment.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-05-mastercard-recognition-payment.amp",
+      "publishedDateTime": "2022-05-24T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology.md",
+      "title": "IT ministry holds brainstorming session with startups on AI, language technology",
+      "excerpt": "The meeting was chaired by Minister of State for Information Technology Rajeev Chandrasekhar. The new initiative, named Digital India BHASHINI or BHASHa INterface for India- is a part of the National Language Translation Mission.",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/articleshow/91770359.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/articleshow/91770359.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-79986,msid-91770378/eds-handout-photo-made-available-from-pib-on-thursday-feb-24-2022-new-d-.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/amp_articleshow/91770359.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/amp_articleshow/91770359.cms",
+      "publishedDateTime": "2022-05-24T07:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-remarkable-science-exploring-our-ai-and-robot-supported-future.md",
+      "title": "Remarkable science: Exploring our AI and robot-supported future",
+      "excerpt": "On May 13, the Day of AI, we brought together a panel of experts to talk about the future of AI and robots. This is the first installment of our series Remarkable Science -- featuring conversations with scientists about their discoveries,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wwno.org/2022-05-24/remarkable-science-exploring-our-ai-and-robot-supported-future",
+      "originalUrl": "https://www.wwno.org/2022-05-24/remarkable-science-exploring-our-ai-and-robot-supported-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WWNO",
+        "domain": "wwno.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-neuromorphic-chips-up-to-16-times-more-energy-efficient-for-deep-learning.md",
+      "title": "Neuromorphic chips 'up to 16 times more energy efficient' for deep learning",
+      "excerpt": "Neuromorphic chips have been endorsed in research showing that they are much more energy efficient at operating large deep learning networks than non-neuromorphic hardware. This may become important as AI adoption increases.",
+      "sourceUrl": null,
+      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/05/24/neuromorphic_chips_up_to_16/",
+      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/05/24/neuromorphic_chips_up_to_16/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://regmedia.co.uk/2016/08/02/brain_neuron.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/24/neuromorphic_chips_up_to_16/",
+      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/24/neuromorphic_chips_up_to_16/",
+      "publishedDateTime": "2022-05-24T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "theregister",
+        "domain": "theregister.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-fortinet-introduces-self-learning-ai-capabilities-in-new-network-detection-and-response-offering.md",
+      "title": "Fortinet Introduces Self-Learning AI Capabilities in New Network Detection and Response Offering",
+      "excerpt": "John Maddison, EVP of Products and CMO at Fortinet “With the introduction of FortiNDR, we’re adding robust network detection and response to the Fortinet Security Fabric. Powered by purpose-built machine learning,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-09f9dfe7e8006acb9b75e63bedaa2fbd",
+      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-09f9dfe7e8006acb9b75e63bedaa2fbd",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges.md",
+      "title": "92% of HR Leaders Will Increase Use of Artificial Intelligence as Solution for Rising Talent Challenges",
+      "excerpt": "Survey results indicate organizations are embracing AI to make critical talent decisions at scale and align workforce strategies with shifting business priorities. SANTA CLARA, Ca",
+      "sourceUrl": null,
+      "webUrl": "https://www.localsyr.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/",
+      "originalUrl": "https://www.localsyr.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "LocalSYR",
+        "domain": "localsyr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-how-to-make-ai-marketing-initiatives-actually-deliver.md",
       "title": "How To Make AI Marketing Initiatives Actually Deliver",
       "excerpt": "Trying to decide on channels? How much to invest in a campaign? Which demographics to target? AI can ingest the relevant data and then produce forecasts and analyses to help you make the right choice.",
@@ -136,987 +1109,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-the-top-10-trends-all-startup-ctos-need-to-know.md",
-      "title": "The Top 10 Trends All Startup CTOs Need To Know",
-      "excerpt": "As CEO of a company specializing in software development, these are the 10 trends I think it’s most important for CTOs to consider for their businesses.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/24/the-top-10-trends-all-startup-ctos-need-to-know/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/24/the-top-10-trends-all-startup-ctos-need-to-know/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//628b9294c1ea0bd82bea9402/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 721,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/24/the-top-10-trends-all-startup-ctos-need-to-know/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/24/the-top-10-trends-all-startup-ctos-need-to-know/amp/",
-      "publishedDateTime": "2022-05-24T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-couponxoo-personalizes-in-digital-user-experience-with-artificial-intelligence-and-machine-learning.md",
-      "title": "CouponXOO Personalizes in Digital User Experience with Artificial Intelligence and Machine Learning",
-      "excerpt": "Since 2022, CouponXOO has concentrated on developing and innovating their digital coupon platform to improve the personalization in user experience on the internet. In April 2022, CouponXOO partly succeeded in the personalization in user experience and this is a promising revolution for both digital users as well as brands and marketers on CouponXOO coupon platform.",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc27.com/business/press-releases/globenewswire/8558758/couponxoo-personalizes-in-digital-user-experience-with-artificial-intelligence-and-machine-learning/",
-      "originalUrl": "https://www.abc27.com/business/press-releases/globenewswire/8558758/couponxoo-personalizes-in-digital-user-experience-with-artificial-intelligence-and-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://api.blockchainwire.io/uploads/Etkaan/editor_image/c84c63ba-2979-48f1-a2a7-032cb9fae2c5.png",
-          "width": 261,
-          "height": 264,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T04:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abc27",
-        "domain": "abc27.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-a-novelist-and-an-ai-cowrote-your-next-cringe-read.md",
-      "title": "A Novelist and an AI Cowrote Your Next Cringe-Read",
-      "excerpt": "It was something of an accident. In 2020, I was invited by a friend to test a user interface she was developing for an AI program called GPT-3. I began experimenting and wrote my first book, Pharmako-AI, over a period of two weeks in the summer of 2020.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/k-allado-mcdowell-gpt-3-amor-cringe/",
-      "originalUrl": "https://www.wired.com/story/k-allado-mcdowell-gpt-3-amor-cringe/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/628c23fd9246e3542c4985f8/master/pass/Novelist-AI-Cowrote-Cringe-Novel-Culture-1306551338.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/k-allado-mcdowell-gpt-3-amor-cringe/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/k-allado-mcdowell-gpt-3-amor-cringe/amp",
-      "publishedDateTime": "2022-05-24T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-hong-kong-still-a-regional-tech-hub-for-ai-and-big-data-but-more-work-needed-to-provide-solid-regulatory-framework-survey.md",
-      "title": "Hong Kong still a regional tech hub for AI and big data but more work needed to provide solid regulatory framework: survey",
-      "excerpt": "Start-up ADDX links investors to pre-IPO companies via security tokens Financial technology, or fintech, involves applying AI, blockchain, cloud computing, big data and other technologies to financial services such as payments, insurance and investment ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3178975/hong-kong-still-regional-tech-hub-ai-and-big-data-more-work-needed",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3178975/hong-kong-still-regional-tech-hub-ai-and-big-data-more-work-needed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/05/24/cf2b3020-db77-493d-990e-d68655292a6b_9e83e377.jpg?itok=vJK9joVm&v=1653386892",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3178975/hong-kong-still-regional-tech-hub-ai-and-big-data-more-work-needed",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3178975/hong-kong-still-regional-tech-hub-ai-and-big-data-more-work-needed",
-      "publishedDateTime": "2022-05-24T03:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-the-future-of-ai-accountability.md",
-      "title": "The Future Of AI Accountability",
-      "excerpt": "As Uncle Ben says in Spiderman, \"With great power comes great responsibility.\" This is one of my favorite sayings because it holds true for every walk of life, especially as a leader in the workplace, where you are responsible for the success of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/24/the-future-of-ai-accountability/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/24/the-future-of-ai-accountability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//628b8de7a18d8436b8782e88/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/24/the-future-of-ai-accountability/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/24/the-future-of-ai-accountability/amp/",
-      "publishedDateTime": "2022-05-24T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-unc-scientists-using-machine-learning-in-latest-efforts-against-long-covid.md",
-      "title": "UNC scientists using machine learning in latest efforts against ‘long’ COVID",
-      "excerpt": "A study published in The Lancet Digital Health led by UNC School of Medicine’s Emily R. Pfaff, PhD, shows how the National COVID Cohort Collaborative used XGBoost machine learning models to better define long COVID and identify potential long COVID patients with a high degree of accuracy.",
-      "sourceUrl": null,
-      "webUrl": "https://wraltechwire.com/2022/05/24/unc-scientists-using-machine-learning-in-latest-efforts-against-long-covid/",
-      "originalUrl": "https://wraltechwire.com/2022/05/24/unc-scientists-using-machine-learning-in-latest-efforts-against-long-covid/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://wraltechwire.com/wp-content/uploads/2020/08/Coronavirus_Testing_Research-DMID1-5nrd77mz1-1280x720.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wraltechwire.com/2022/05/24/unc-scientists-using-machine-learning-in-latest-efforts-against-long-covid/?amp=1",
-      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/05/24/unc-scientists-using-machine-learning-in-latest-efforts-against-long-covid/?amp=1",
-      "publishedDateTime": "2022-05-24T02:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WRAL TechWire",
-        "domain": "wraltechwire.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-arv-and-varuna-launch-ai-robotics-hackathon-2022.md",
-      "title": "ARV and VARUNA launch AI & Robotics Hackathon 2022",
-      "excerpt": "Thailand's leading technology development and venture building company dedicated to leveraging cutting-edge AI & Robotics technologies, as a technology spin-off from PTTEP, an upstream national oil & gas company of Thailand,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-arv-varuna-launch-ai-robotics-hackathon-2022-/2022/05/24/9607586.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-arv-varuna-launch-ai-robotics-hackathon-2022-/2022/05/24/9607586.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1824548/ARV_Hackathon_KV.jpg",
-          "width": 400,
-          "height": 283,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T02:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-at-300-cagr-deep-learning-chip-market-is-emerging-with-us-2131-billion-by-2027.md",
-      "title": "At 30.0% CAGR, Deep Learning Chip Market is Emerging with US$ 21.31 Billion by 2027",
-      "excerpt": "The Global Deep Learning Chip Market 2021 Research Report is a professional and in-depth study on the current state of Deep Learning Chip Market. With the",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/at-30-0-cagr-deep-learning-chip-market-is-emerging-with-us-21-31-billion-by-2027",
-      "originalUrl": "https://www.digitaljournal.com/pr/at-30-0-cagr-deep-learning-chip-market-is-emerging-with-us-21-31-billion-by-2027",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/4ba28c3d33d39eec6ca39ee6ec73278277796002-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T01:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-remy-robotics-exits-stealth-mode-with-launch-of-third-autonomous-robotic-kitchen.md",
-      "title": "Remy Robotics exits stealth mode with launch of third autonomous robotic kitchen",
-      "excerpt": "Pioneer in robot-enabled delivery-only restaurants expands its reach and opens to new partners to boost food operators' scalability BARCELONA, Spain, May 24, 2022 /PRNewswire/ -- Remy Robotics, a food technology startup leading the disruption of delivery-only restaurants through the use of adaptive robotics and culinary engineering,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wearegreenbay.com/business/press-releases/cision/20220524LN66199/remy-robotics-exits-stealth-mode-with-launch-of-third-autonomous-robotic-kitchen/",
-      "originalUrl": "https://www.wearegreenbay.com/business/press-releases/cision/20220524LN66199/remy-robotics-exits-stealth-mode-with-launch-of-third-autonomous-robotic-kitchen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "We Are Green Bay",
-        "domain": "wearegreenbay.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-ai-and-lowno-code-what-they-can-and-cant-do-together.md",
-      "title": "AI and low/no code: What they can and can’t do together",
-      "excerpt": "Low-code and no-code are intended to make it simpler to create new applications and services, so much so that even nonprogrammers can create the tools they need to complete their own tasks. If this technology can be combined with AI to help guide development efforts,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/23/__trashed-21/",
-      "originalUrl": "https://venturebeat.com/2022/05/23/__trashed-21/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/04/GettyImages-1170935904.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 566,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/23/__trashed-21/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/23/__trashed-21/amp/",
-      "publishedDateTime": "2022-05-23T23:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-artificial-intelligence-ai-chipset-market-demand-2022-size-share-future-growth-potential-survey-by-2030.md",
-      "title": "Artificial Intelligence (Ai) Chipset Market [DEMAND] 2022 Size, Share, Future Growth Potential Survey By 2030",
-      "excerpt": "Quadintel published a new report on the Artificial Intelligence (Ai) Chipset Market. The research report consists of thorough information about",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chipset-market-demand-2022-size-share-future-growth-potential-survey-by-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chipset-market-demand-2022-size-share-future-growth-potential-survey-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/4ba28c3d33d39eec6ca39ee6ec73278277796002-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T23:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-africas-ai-and-startup-scene-prepares-to-change-the-world.md",
-      "title": "Africa’s AI and startup scene prepares to change the world",
-      "excerpt": "Global perceptions of Africa’s tech landscape does not do justice to the many bright minds who bring revolutionary products to market, writes CELINA LEE, CEO of Zindi",
-      "sourceUrl": null,
-      "webUrl": "https://gadget.co.za/africas-ai-and-startup-scene-prepares-to-change-the-world/",
-      "originalUrl": "https://gadget.co.za/africas-ai-and-startup-scene-prepares-to-change-the-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/05/Celina-Lee-CEO-at-Zindi-scaled.jpg?resize=1000%2C600&#038;ssl=1",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T23:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadget.co.za",
-        "domain": "gadget.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-supermicro-to-add-nvidia-grace-cpu-superchip-based-servers-to-the-industry-leading-portfolio-for-hpc-data-analytics-and-cloud-gaming-applications.md",
-      "title": "Supermicro to Add NVIDIA Grace CPU Superchip-Based Servers to the Industry-Leading Portfolio for HPC, Data Analytics, and Cloud Gaming Applications",
-      "excerpt": "(Nasdaq: SMCI), a global leader in enterprise computing, storage, networking, and green computing technology, will deploy the NVIDIA Grace CPU Superchip in a wide range of servers optimized for AI, HPC,",
-      "sourceUrl": null,
-      "webUrl": "https://who13.com/business/press-releases/cision/20220524SF66950/supermicro-to-add-nvidia-grace-cpu-superchip-based-servers-to-the-industry-leading-portfolio-for-hpc-data-analytics-and-cloud-gaming-applications/",
-      "originalUrl": "https://who13.com/business/press-releases/cision/20220524SF66950/supermicro-to-add-nvidia-grace-cpu-superchip-based-servers-to-the-industry-leading-portfolio-for-hpc-data-analytics-and-cloud-gaming-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg",
-          "width": 400,
-          "height": 206,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T21:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "who13",
-        "domain": "who13.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-qct-announces-support-of-nvidia-grace-cpu-superchips-for-use-in-hpc-and-ai-applications.md",
-      "title": "QCT Announces Support of NVIDIA Grace CPU Superchips for Use in HPC and AI Applications",
-      "excerpt": "Quanta Cloud Technology (QCT), a global data center solution provider, today announced new servers that will support the NVIDIA Grace ™ CPU Superchip and Grace™ Hopper™ Superchip. QCT is incorporating the NVIDIA Grace™ CPU,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-taiwan-artificial-intelligence-ff4e22d94016467a933d490ce2252022",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-taiwan-artificial-intelligence-ff4e22d94016467a933d490ce2252022",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T21:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-aws-announces-general-availability-of-ec2-c7g-instances-with-custom-graviton3-chips.md",
-      "title": "AWS announces general availability of EC2 C7g instances with custom Graviton3 chips",
-      "excerpt": "The AWS EC2 C7g instances were announced in November, along with the introduction of the Amazon EX2 Trn1 instance for training artificial intelligence models. The Amazon-designed Graviton3 ...",
-      "sourceUrl": null,
-      "webUrl": "https://siliconangle.com/2022/05/23/aws-announces-general-availability-ec2-c7g-instances-custom-graviton3-chips/",
-      "originalUrl": "https://siliconangle.com/2022/05/23/aws-announces-general-availability-ec2-c7g-instances-custom-graviton3-chips/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2021/11/aws.png",
-          "width": 850,
-          "height": 471,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T19:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SiliconANGLE",
-        "domain": "siliconangle.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-drive-io-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars.md",
-      "title": "Drive I/O | Shanghai automakers hit by lockdowns, China’s new push for driverless cars",
-      "excerpt": "Baidu and self-driving unicorn Pony.ai received permits to offer fully autonomous rides to the Beijing public in late April, the first service of its kind in the country. Domestic battery suppliers saw profits plunge in the first quarter amid rising raw ...",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/",
-      "originalUrl": "https://technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2022/05/屏幕快照-2020-05-07-下午4.16.18.jpg?fit=1200%2C601&ssl=1",
-          "width": 1200,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/05/24/drive-i-o-shanghai-automakers-hit-by-lockdowns-chinas-new-push-for-driverless-cars/",
-      "publishedDateTime": "2022-05-23T17:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-artificial-intelligence-is-breaking-patent-law.md",
-      "title": "Artificial intelligence is breaking patent law",
-      "excerpt": "The patent system assumes that inventors are human. Inventions devised by machines require their own intellectual property law and an international treaty.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nature.com/articles/d41586-022-01391-x",
-      "originalUrl": "https://www.nature.com/articles/d41586-022-01391-x",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nature",
-        "domain": "nature.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-building-a-culture-of-pioneering-responsibly.md",
-      "title": "Building a culture of pioneering responsibly",
-      "excerpt": "When I joined DeepMind as COO, I did so in large part because I could tell that the founders and team had the same focus on positive social impact. In fact, at DeepMind, we now champion a term that perfectly captures my own values and hopes for integrating technology into people’s daily lives: pioneering",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/building-a-culture-of-pioneering-responsibly",
-      "originalUrl": "https://www.deepmind.com/blog/building-a-culture-of-pioneering-responsibly",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/628bb10c9262d40040f15edb_Lila_Ibrahim__Blog__16x9-0.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-hondas-asimo-gets-mind-control-interface.md",
-      "title": "Honda's Asimo gets mind control interface",
-      "excerpt": "From there, we assume, it's only a matter of time before the bots learn to reverse the process, initiating a mind control link over their would-be masters. [Via Robot Gossip] All products ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/2006-05-24-hondas-asimo-gets-mind-control-interface.html",
-      "originalUrl": "https://www.engadget.com/2006-05-24-hondas-asimo-gets-mind-control-interface.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-ibm-is-calling-on-all-companies-to-adhere-to-its-responsible-ai-and-data-principles.md",
-      "title": "IBM is calling on all companies to adhere to its responsible AI and data principles",
-      "excerpt": "They should also be able to explain how AI reaches a decision and show proof for that. According to the company, those principles are built into Watson. IBM believes that any company putting AI on ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/ibm-is-calling-on-all-companies-to-adhere-to-its-responsible-ai-and-data-principles/",
-      "originalUrl": "https://sdtimes.com/ai/ibm-is-calling-on-all-companies-to-adhere-to-its-responsible-ai-and-data-principles/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2018/05/Dd9CHKPVQAAsCI6.jpg",
-          "width": 1024,
-          "height": 645,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-significant-energy-savings-using-neuromorphic-hardware.md",
-      "title": "Significant energy savings using neuromorphic hardware",
-      "excerpt": "For the first time TU Graz's Institute of Theoretical Computer Science and Intel Labs demonstrated experimentally that a large neural network can ... of worldwide artificial intelligence (AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/05/220524100612.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/05/220524100612.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-aws-announces-general-availability-of-amazon-ec2-c7g-instances-powered-by-aws-designed-graviton3-processors.md",
-      "title": "AWS Announces General Availability of Amazon EC2 C7g Instances Powered by AWS-designed Graviton3 Processors",
-      "excerpt": "Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the general availability of Amazon Elastic Compute Cloud (Amazon EC2) C7g instances, the next generation of compute-optimized instances powered by AWS-designed Graviton3 processors.",
-      "sourceUrl": null,
-      "webUrl": "https://cloud-computing.tmcnet.com/news/2022/05/23/9607396.htm",
-      "originalUrl": "https://cloud-computing.tmcnet.com/news/2022/05/23/9607396.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T15:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

@@ -2,6 +2,403 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-20-3-myths-about-chatbot-design-busted.md",
+      "title": "3 myths about chatbot design, busted",
+      "excerpt": "A chatbot’s design plays a more strategic role than one might think and requires an immense amount of human input to create.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/3-myths-about-chatbot-design-busted/",
+      "originalUrl": "https://venturebeat.com/ai/3-myths-about-chatbot-design-busted/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1349390539.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/3-myths-about-chatbot-design-busted/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/3-myths-about-chatbot-design-busted/amp/",
+      "publishedDateTime": "2022-08-19T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-ring-camera-recordings-exposed-due-to-vulnerability-in-android-app.md",
+      "title": "Ring Camera Recordings Exposed Due to Vulnerability in Android App",
+      "excerpt": "A vulnerability patched recently by Amazon in the Android app for its Ring surveillance cameras exposed user data and video recordings, according to cybersecurity firm Checkmarx, whose researchers identified the flaw.",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityweek.com/ring-camera-recordings-exposed-due-vulnerability-android-app",
+      "originalUrl": "https://www.securityweek.com/ring-camera-recordings-exposed-due-vulnerability-android-app",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security Week",
+        "domain": "securityweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-whirlpool-ceo-ai-is-making-kitchens-and-appliances-smarter.md",
+      "title": "Whirlpool CEO: AI is making kitchens and appliances smarter",
+      "excerpt": "Marc Bitzer reveals why Whirlpool is a magnet for AI tech experts.",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/videos/watch/whirlpool-ceo%3A-ai-is-making-kitchens-and-appliances-smarter-/7c21f374-e607-4cb5-845d-f4674a9d6e52",
+      "originalUrl": "https://fortune.com/videos/watch/whirlpool-ceo%3A-ai-is-making-kitchens-and-appliances-smarter-/7c21f374-e607-4cb5-845d-f4674a9d6e52",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/7c21f374-e607-4cb5-845d-f4674a9d6e52/Images/posterImage-ver1-1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/whirlpool-ceo%3A-ai-is-making-kitchens-and-appliances-smarter-/7c21f374-e607-4cb5-845d-f4674a9d6e52/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/whirlpool-ceo%3A-ai-is-making-kitchens-and-appliances-smarter-/7c21f374-e607-4cb5-845d-f4674a9d6e52/amp",
+      "publishedDateTime": "2022-08-19T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-nvidia-will-disclose-grace-hopper-architectural-details-at-hot-chips.md",
+      "title": "Nvidia will disclose Grace Hopper architectural details at Hot Chips",
+      "excerpt": "Nvidia is delivering four technical presentations at next week's Hot Chips focused on the Grace CPU, Hopper GPU, Orin SoC and NVLink.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/nvidia-will-disclose-grace-hopper-architectural-details-at-hot-chips/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/nvidia-will-disclose-grace-hopper-architectural-details-at-hot-chips/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/nvidia-Corporate-Blog-Press-Graphic_Grace-and-Grace-Hopper.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/nvidia-will-disclose-grace-hopper-architectural-details-at-hot-chips/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/nvidia-will-disclose-grace-hopper-architectural-details-at-hot-chips/amp/",
+      "publishedDateTime": "2022-08-19T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-ai-powered-delivery-automation-streamlined-for-the-enterprise.md",
+      "title": "AI-powered delivery automation streamlined for the enterprise",
+      "excerpt": "The last two years saw a rise in home deliveries, and with it came demand for digital transformation and automation across the supply chain.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/automation/ai-powered-delivery-automation-streamlined-for-the-enterprise/",
+      "originalUrl": "https://venturebeat.com/automation/ai-powered-delivery-automation-streamlined-for-the-enterprise/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/01/package.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/automation/ai-powered-delivery-automation-streamlined-for-the-enterprise/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/automation/ai-powered-delivery-automation-streamlined-for-the-enterprise/amp/",
+      "publishedDateTime": "2022-08-19T06:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-robotics-and-automation-are-the-future-of-healthcare.md",
+      "title": "Robotics and automation are the future of healthcare",
+      "excerpt": "Advanced technologies, such as AI-guided robotics and automation, offer a potential solution to the provider shortage by freeing healthcare professionals from repetitive and time-consuming tasks and allow clinicians to focus on tasks that require a specialized touch.",
+      "sourceUrl": null,
+      "webUrl": "https://medcitynews.com/2022/08/robotics-and-automation-are-the-future-of-healthcare/",
+      "originalUrl": "https://medcitynews.com/2022/08/robotics-and-automation-are-the-future-of-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://medcitynews.com/uploads/2020/12/GettyImages-1158546914.jpg",
+          "width": 703,
+          "height": 497,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedCity News",
+        "domain": "medcitynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more.md",
+      "title": "MediaTek Pentonic 700 SoC for 4K televisions announced: AI image enhancements, Dolby Vision IQ, and more",
+      "excerpt": "MediaTek announced T830 chipset for routers and mobile hotspot devices. Now the Taiwanese semiconductor manufacturer has launched Pentonic 700 processor for premium and high-end televisions. Last year,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/08/19/mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more/",
+      "originalUrl": "https://www.gizmochina.com/2022/08/19/mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/08/MediaTek-Pentonic-700.jpeg",
+          "width": 629,
+          "height": 475,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/08/19/mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/19/mediatek-pentonic-700-soc-for-4k-televisions-announced-ai-image-enhancements-dolby-vision-iq-and-more/?amp=1",
+      "publishedDateTime": "2022-08-19T04:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-10-top-cybersecurity-online-courses-and-certifications-in-2022.md",
+      "title": "10 top cybersecurity online courses and certifications in 2022",
+      "excerpt": "Are you interested in cybersecurity certifications? Whether you're changing careers or upskilling your team, there's help available.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/10-top-cybersecurity-online-courses-and-certifications-in-2022/",
+      "originalUrl": "https://venturebeat.com/security/10-top-cybersecurity-online-courses-and-certifications-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-certificate_certification_1335802150-e1660857259342.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/10-top-cybersecurity-online-courses-and-certifications-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/10-top-cybersecurity-online-courses-and-certifications-in-2022/amp/",
+      "publishedDateTime": "2022-08-19T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-ceat-transforms-digitally-with-aws-iot-and-analytics.md",
       "title": "CEAT transforms digitally with AWS IoT and analytics",
       "excerpt": "CEAT uses Amazon Redshift, a cloud data warehouse, and Amazon SageMaker for an experimental solution. The solution automatically scans stock-keeping unit names and tyre serial numbers, registering ...",
@@ -295,6 +692,40 @@
       ]
     },
     {
+      "path": "_news/2022-08-19-cognitive-rehab-may-help-older-adults-clear-covid-related-brain-fog.md",
+      "title": "Cognitive rehab may help older adults clear COVID-related brain fog",
+      "excerpt": "It’s a suite of interventions designed to help people recover from brain injuries, if possible, and adapt to ongoing cognitive impairment. Services are typically provided by speech and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailynewsonline.com/news/publicservicenews/cognitive-rehab-may-help-older-adults-clear-covid-related-brain-fog/article_f58172b2-2819-5695-8081-6d6aef4f3104.html",
+      "originalUrl": "https://www.thedailynewsonline.com/news/publicservicenews/cognitive-rehab-may-help-older-adults-clear-covid-related-brain-fog/article_f58172b2-2819-5695-8081-6d6aef4f3104.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T01:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily News Online",
+        "domain": "thedailynewsonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-when-we-might-meet-the-first-intelligent-machines.md",
       "title": "When we might meet the first intelligent machines",
       "excerpt": "LeCun’s paper on intelligent machines is defining AI like Alan Turing’s 1936 paper defined the modern digital computer.",
@@ -442,6 +873,40 @@
       ]
     },
     {
+      "path": "_news/2022-08-19-build-up-your-cognitive-reserves-to-lower-your-risk-of-dementia.md",
+      "title": "Build Up Your Cognitive Reserves to Lower Your Risk of Dementia",
+      "excerpt": "Using data from a national survey of health and development that began in 1946, the researchers looked at the cognitive reserves of more than 1,000 study participants at 69 years of age.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/blog/cravings/202208/build-your-cognitive-reserves-lower-your-risk-dementia",
+      "originalUrl": "https://www.psychologytoday.com/us/blog/cravings/202208/build-your-cognitive-reserves-lower-your-risk-dementia",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T16:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-rad-intelligence-rad-ai-and-la-hope-dealer-join-forces-to-integrate-ai-infused-street-art-and-marketing.md",
       "title": "Rad Intelligence (RAD AI) and LA HOPE DEALER Join Forces to Integrate AI-infused Street Art and Marketing",
       "excerpt": "Press Release RAD INTELLIGENCE (RAD AI) and LA HOPE DEALER today announced the formation of a strategic partnership designed to conceive and execute authentic, purpose-driven brand campaigns through the combination of creator marketing,",
@@ -542,6 +1007,40 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-feeling-burnt-out-scientists-now-know-whats-going-on-inside-your-brain-when-this-happens.md",
+      "title": "Feeling burnt out? Scientists now know what's going on inside your brain when this happens",
+      "excerpt": "Feeling burned out, mentally exhausted, or brain-fried are all colloquial ways of talking about what neurologists formally refer to as \"cognitive fatigue.\" It's a common feeling that nearly all of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.salon.com/2022/08/17/cognitive-fatigue/",
+      "originalUrl": "https://www.salon.com/2022/08/17/cognitive-fatigue/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Salon",
+        "domain": "salon.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
         "AI"
       ]
     },
@@ -689,547 +1188,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-taziai-launches-adaptive-machine-learning-solutions-to-speed-up-and-democratize-machine-learning.md",
-      "title": "TAZI.AI Launches Adaptive Machine Learning Solutions to Speed up and Democratize Machine Learning",
-      "excerpt": "Press Release TAZI.AI today announced the official launch of its Machine Learning (ML) solutions especially for insurance, healthcare and pharma industries, built on its SaaS ML Platform. In as little as 40 days,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/business/tazi-ai-launches-adaptive-machine-learning-solutions-to-speed-up-and-democratize-machine-learning/",
-      "originalUrl": "https://venturebeat.com/business/tazi-ai-launches-adaptive-machine-learning-solutions-to-speed-up-and-democratize-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/business/tazi-ai-launches-adaptive-machine-learning-solutions-to-speed-up-and-democratize-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/business/tazi-ai-launches-adaptive-machine-learning-solutions-to-speed-up-and-democratize-machine-learning/amp/",
-      "publishedDateTime": "2022-08-18T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-the-three-true-robotic-startup-outcomes.md",
-      "title": "The three true robotic startup outcomes",
-      "excerpt": "Allow me to borrow a phrase from baseball for a moment. If you follow the sport, you’re likely aware of the concept of the “three true outcomes.” They are, specifically, a home run, a strikeout, and a walk.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/",
-      "originalUrl": "https://techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/pYcC1goDf3wvfku_.2022-08-11-12_31_38.gif",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/amp/",
-      "publishedDateTime": "2022-08-18T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-ring-security-flaw-could-have-allowed-hackers-to-spy-on-your-saved-videos-what-to-do.md",
-      "title": "Ring security flaw could have allowed hackers to spy on your saved videos — what to do",
-      "excerpt": "A high-severity vulnerability in Amazon’s Ring app for Android which could have allowed hackers to spy on users’ saved camera recordings has been discovered and quickly patched by the video doorbell giant.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tomsguide.com/news/ring-security-flaw-could-have-allowed-hackers-to-spy-on-your-saved-videos-what-to-do",
-      "originalUrl": "https://www.tomsguide.com/news/ring-security-flaw-could-have-allowed-hackers-to-spy-on-your-saved-videos-what-to-do",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/XKL3ytNFxq6qeBf3zNENuF-1200-80.jpg",
-          "width": 1000,
-          "height": 569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T09:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Tom's Guide",
-        "domain": "tomsguide.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-exploring-ai-ethics-and-accountability.md",
-      "title": "Exploring AI ethics and accountability",
-      "excerpt": "A schoolchild? The dilemma and its variants are often cited as the type of problems artificial intelligence will have to grapple with as it becomes ever more prevalent in our lives. Driverless cars, for example, will have split seconds to make exactly ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/",
-      "originalUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2018/02/GettyImages-679721306.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/",
-      "cdnAmpWebUrl": "https://www-politico-eu.cdn.ampproject.org/c/s/www.politico.eu/article/artificial-intelligence-ethics-dilemma-ai-special-report-introduction/amp/",
-      "publishedDateTime": "2022-08-18T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Politico Europe",
-        "domain": "politico.eu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage.md",
-      "title": "Amazon's Ring Patches Flaw That Could've Let Hackers Access Camera Footage",
-      "excerpt": "The flaw required Ring users with Android devices to install a malicious app. The company quietly released a patch for the problem in May.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/home-security-cameras/142156/amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage",
-      "originalUrl": "https://uk.pcmag.com/home-security-cameras/142156/amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/a/amazons-ri/amazons-ring-patches-flaw-that-couldve-let-hackers-access-ca_9rcq.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-ring-patched-an-android-bug-that-could-have-exposed-video-footage.md",
-      "title": "Ring patched an Android bug that could have exposed video footage",
-      "excerpt": "Amazon quietly but quickly patched a vulnerability in its Ring app that could have exposed users' camera recordings and other data, according to security firm Checkmarx. Checkmarx researchers write in a blog post that Ring's Android app,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/08/ring-patched-an-android-bug-that-could-have-exposed-video-footage/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/08/ring-patched-an-android-bug-that-could-have-exposed-video-footage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/20201118_US_packaging_image_lifestyle_flcprogen1_pov_family_front_yard_rgb_crop-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-can-conversational-ai-reduce-nlp-model-training-yellow-ai-has-a-plan.md",
-      "title": "Can conversational AI reduce NLP model training? Yellow AI has a plan",
-      "excerpt": "DynamicNLP eradicates the need for enterprises to go through the time-consuming process of manually labeling data to train a conversational AI bot.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/can-conversational-ai-reduce-nlp-model-training-yellow-ai-has-a-plan/",
-      "originalUrl": "https://venturebeat.com/ai/can-conversational-ai-reduce-nlp-model-training-yellow-ai-has-a-plan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1404154730.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/can-conversational-ai-reduce-nlp-model-training-yellow-ai-has-a-plan/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/can-conversational-ai-reduce-nlp-model-training-yellow-ai-has-a-plan/amp/",
-      "publishedDateTime": "2022-08-18T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-helping-people-understand-ai.md",
-      "title": "Helping people understand AI",
-      "excerpt": "If you’re like me, you may have noticed that AI has become a part of daily life. I wake up each morning and ask my smart assistant about the weather. I recently applied for a new credit card and the credit limit was likely determined by a machine learning model. And while typing the previous sentence,",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/helping-people-understand-ai/",
-      "originalUrl": "https://blog.google/technology/ai/helping-people-understand-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01_VWU2fWb.max-1300x1300.png",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/helping-people-understand-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/helping-people-understand-ai/amp/",
-      "publishedDateTime": "2022-08-18T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-onemeta-ai-accepted-as-a-part-of-microsoft-for-startups-founders-hub.md",
-      "title": "OneMeta AI Accepted as a Part of Microsoft for Startups Founders Hub",
-      "excerpt": "LAS VEGAS, NV / ACCESSWIRE / August / OneMeta AI (  (OTCMarkets:ONEI). Today OneMeta AI announced acceptance as part of Microsoft of Startups Founders Hub. \"This is a great milestone that we are thankful for;",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/onemeta-ai-accepted-as-a-part-of-microsoft-for-startups-founders-hub-2022-08-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/onemeta-ai-accepted-as-a-part-of-microsoft-for-startups-founders-hub-2022-08-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-pairaphrase-integrates-amazon-translates-engine-into-its-tms-software.md",
-      "title": "PAIRAPHRASE INTEGRATES AMAZON TRANSLATE’S ENGINE INTO ITS TMS SOFTWARE",
-      "excerpt": "Enterprise language translation software company Pairaphrase has integrated Amazon Web Services’ machine translation engine into its premium translation software solution. Its users now have the option to translate with Amazon Translate to create custom translations,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-software-738f633edc00cc4d75cd3d5f33f09275",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-software-738f633edc00cc4d75cd3d5f33f09275",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-natural-language-processing-nlp-market-worth-494-billion-by-2027-exclusive-report-by-marketsandmarketstm.md",
-      "title": "Natural Language Processing (NLP) Market worth $49.4 billion by 2027 - Exclusive Report by MarketsandMarkets(TM)",
-      "excerpt": "With natural language processing applications, organizations can analyze text and extract information about people, places, and events to better understand social media sentiment and customer conversations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-worth-494-billion-by-2027---exclusive-report-by-marketsandmarketstm-2022-08-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-market-worth-494-billion-by-2027---exclusive-report-by-marketsandmarketstm-2022-08-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 103,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

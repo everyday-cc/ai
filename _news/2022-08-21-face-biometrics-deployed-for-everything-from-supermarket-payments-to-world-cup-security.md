@@ -20,20 +20,6 @@ topics:
   - AI in Security
 
 related:
-  - title: "Mexican soccer removes face biometrics from Fan ID security scheme"
-    excerpt: "The deployment of the face biometrics tool was intended to identify those involved with violence and prevent them from entering stadiums."
-    publishedDateTime: 2022-08-19T20:29:00Z
-    webUrl: "https://www.biometricupdate.com/202208/mexican-soccer-removes-face-biometrics-from-fan-id-security-scheme"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 41
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/07/25124143/facial-recognition-crowd-scaled.jpg"
-        width: 2048
-        height: 1333
-        isCached: true
   - title: "Biometrics work too well with face masks for criminals to hide; or for anonymity"
     excerpt: "An increasing number of face biometrics developers have stepped up their efforts to improve the recognition rates of individuals wearing masks."
     publishedDateTime: 2022-08-23T20:26:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-24T13:46:00Z
 originalUrl: "https://economictimes.indiatimes.com/news/india/ai-startups-fintech-upi-could-be-future-areas-of-indo-bangla-coop-shringla/articleshow/93758241.cms"
 webUrl: "https://economictimes.indiatimes.com/news/india/ai-startups-fintech-upi-could-be-future-areas-of-indo-bangla-coop-shringla/articleshow/93758241.cms"
 type: article
+quality: 15
+heat: 15
+published: false
 
 provider:
   name: India Times

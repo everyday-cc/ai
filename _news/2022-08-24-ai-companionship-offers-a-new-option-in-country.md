@@ -24,6 +24,17 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "Fraud Prevention Company Invents a New Way to Protect People with Artificial Intelligence"
+    excerpt: "Fraud prevention platform Honey Badger has developed a user-friendly way to authenticate people — and it's powered by Machine Learning. This new approach to user authentication was developed as a more secure,"
+    publishedDateTime: 2022-08-24T14:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/08/24/9661512.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
+
 secured: "gs+jWyvGm+YxG9vVKVw6NDoJZBYsxgZKP3x/aJmFwKqX+48K2TWDX2lHyNH61TMIR0dUlzMfCSlCGmO3/Go+OZ0RwjT7NiBZt3TAxSpR11uLBcHLo+3SjHz8FMB8uJtQCYSxNRc4IV3bSGJVoInzB4zYC4TIpd8KoPcE2PRbTFmIsXCik993Ab/nnDdHcGAm7ZQWRZXihcQLMi2aTtDcsJ6/rCx6NgNsdO9vkT35XkVDvnq07WV5iLjJ8WAFhhmJ0JfXMbO0ClJXngSoL0ku6tTo3rKIiY83HswU/2sWOrIfoQSTukR9wcCQMK4i95iMySkoMqFyrlPpRK7CDfRt0gVVjA0XcCsOybRRyfpD99Y=;JWiD2of5/FQS6sLB1LDtMw=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-24T12:27:00Z
 originalUrl: "https://analyticsindiamag.com/revsure-ai-raises-3-5-million-to-transform-b2b-pipeline-readiness/"
 webUrl: "https://analyticsindiamag.com/revsure-ai-raises-3-5-million-to-transform-b2b-pipeline-readiness/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Analytics India Magazine

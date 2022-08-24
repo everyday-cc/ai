@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/assembly-ai-offers-ai-as-a-service-api-to
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/assembly-ai-offers-ai-as-a-service-api-to-ease-model-development/amp/"
 type: article
 quality: 93
-heat: 123
+heat: 163
 published: true
 
 provider:
@@ -33,6 +33,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Leaders Are Using AI As A Problem-Solving Tool"
+    excerpt: "Leaders face more complex decisions than ever in today’s volitile world. So how can they get them right? The answer lies in using AI as a problem-solving too say experts"
+    publishedDateTime: 2022-08-24T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/benjaminlaker/2022/08/24/how-leaders-are-using-ai-as-a-problem-solving-tool/"
+    ampWebUrl: "https://www.forbes.com/sites/benjaminlaker/2022/08/24/how-leaders-are-using-ai-as-a-problem-solving-tool/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/benjaminlaker/2022/08/24/how-leaders-are-using-ai-as-a-problem-solving-tool/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6305d74a12727c38691b5fd1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "White paper offers ethics advice for use of AI in the US"
     excerpt: "This new white paper encourages all stakeholders — government among them — to consider potential harm that AI can do, and to plan for addressing that."
     publishedDateTime: 2022-08-22T02:00:00Z
@@ -47,6 +63,15 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "How AIaaS (AI-as-a-service) can help democratize AI"
+    excerpt: "“SMEs [small- to medium-sized enterprises] are often plagued with the problem of scaling their operations on account of huge financial ... vertical services provisioning such as inference-as-a-service, annotation-as-a-service, and machine learning ..."
+    publishedDateTime: 2022-08-24T13:40:00Z
+    webUrl: "https://venturebeat.com/ai/how-ai-as-a-service-can-help-democratize-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 51
   - title: "Early adopters are doubling down on AI"
     excerpt: "Although 39 per cent of the 950 companies analysed in a recent Dataiku-sponsored IDC InfoBrief said they were using AI during 2021, that percentage was the same as during 2020 – suggesting that the technology’s growth has stalled."
     publishedDateTime: 2022-08-23T03:11:00Z
@@ -61,6 +86,15 @@ related:
         width: 1000
         height: 561
         isCached: true
+  - title: "GNS and Servier Announce AI Collaboration to Advance Multiple Myeloma Drug Discovery and Clinical Development"
+    excerpt: "\"This collaboration furthers Servier's goal to accelerate its drug discovery and clinical development efforts through AI and biosimulation and other digital initiatives,\" said Claude Bertrand, EVP of Research and Development at Servier."
+    publishedDateTime: 2022-08-24T14:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gns-and-servier-announce-ai-collaboration-to-advance-multiple-myeloma-drug-discovery-and-clinical-development-1031703502"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
   - title: "Inworld AI raises $50M for its AI-powered, no-code virtual character development studio"
     excerpt: "The round adds to a hefty $20 million seed funding round announced in March, bringing Inworld AI’s total amount raised to $70 million. Inworld AI, which is officially known as Theai Inc., is the creator of a unique platform that allows developers,"
     publishedDateTime: 2022-08-23T13:00:00Z
@@ -75,6 +109,15 @@ related:
         width: 1030
         height: 562
         isCached: true
+  - title: "AI Ethics Advisory Board Offers Guidance on How to Develop and Deploy AI Responsibly"
+    excerpt: "Artificial Intelligence AI Ethics Advisory Board Offers Guidance on How to Develop and Deploy AI Responsibly By Rhea Kelly 08/18/22 Northeastern University's Institute for Experiential AI is ..."
+    publishedDateTime: 2022-08-21T14:44:00Z
+    webUrl: "https://ohsonline.com/EDU/Campus-Technology/Articles/2022/08/18/AI-Ethics-Advisory-Board-Offers-Guidance-on-How-to-Develop-and-Deploy-AI-Responsibly.aspx"
+    type: article
+    provider:
+      name: Ohsonline.com
+      domain: ohsonline.com
+    quality: 27
 
 secured: "I58ffOpGqo/iDHe6MhuepwxBqG0v7EB8+CxMkwqbMMtrEJ4TNXRXh2cuSNol0IB8IMBmEl1S519udgLOmWxI8snFFT3qHgv2sHZl2GliCCj61Rxd04dVtvTvz0jSMRFJsh3WX/5QgU01SyywS/bzwz0lSRxT35BOCTyA8q3wQMNNNbgL/nB03KmlF0EU5Cp9Zc4c/IGBp92oYHtWdTCcrg337lun1A0ZCtQ8kfhrDbtn4LuE81l1qcjvv2wJ5dVXu4IsEMBf6KVdM70OYskGnf6L4FMjUlEA8KQ37NCfOf5sm3zEFexIW2naICxMa+b2PtqoPb/87oe5dEfxd1xoc8xYiQWFCChEYNE3ImvOS2M1ZyWtDrNPICDCyAwGXLMnToLL9N53NnajffvuCXIQw204im6NKGshCCQ1BaJr8vjhilaN6IqhwQY83jxYSUd1TnLIJExeE2SB2lkWzGJl4hnJNt6jI3HRZy6/+XnKAKpgh6tg0MsDlA4r3zpJkYiffiGzJEaeMByczYGtM3rE7g==;pxsuOyc6U5iuWL/etiLFig=="
 ---

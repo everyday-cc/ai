@@ -40,6 +40,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "How Leaders Are Using AI As A Problem-Solving Tool"
+    excerpt: "Leaders face more complex decisions than ever in today’s volitile world. So how can they get them right? The answer lies in using AI as a problem-solving too say experts"
+    publishedDateTime: 2022-08-24T14:00:00Z
+    webUrl: "https://www.forbes.com/sites/benjaminlaker/2022/08/24/how-leaders-are-using-ai-as-a-problem-solving-tool/"
+    ampWebUrl: "https://www.forbes.com/sites/benjaminlaker/2022/08/24/how-leaders-are-using-ai-as-a-problem-solving-tool/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/benjaminlaker/2022/08/24/how-leaders-are-using-ai-as-a-problem-solving-tool/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 89
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/6305d74a12727c38691b5fd1/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "White paper offers ethics advice for use of AI in the US"
     excerpt: "This new white paper encourages all stakeholders — government among them — to consider potential harm that AI can do, and to plan for addressing that."
     publishedDateTime: 2022-08-22T02:00:00Z
@@ -54,6 +70,15 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "How AIaaS (AI-as-a-service) can help democratize AI"
+    excerpt: "“SMEs [small- to medium-sized enterprises] are often plagued with the problem of scaling their operations on account of huge financial ... vertical services provisioning such as inference-as-a-service, annotation-as-a-service, and machine learning ..."
+    publishedDateTime: 2022-08-24T13:40:00Z
+    webUrl: "https://venturebeat.com/ai/how-ai-as-a-service-can-help-democratize-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 51
   - title: "Early adopters are doubling down on AI"
     excerpt: "Although 39 per cent of the 950 companies analysed in a recent Dataiku-sponsored IDC InfoBrief said they were using AI during 2021, that percentage was the same as during 2020 – suggesting that the technology’s growth has stalled."
     publishedDateTime: 2022-08-23T03:11:00Z
@@ -68,6 +93,24 @@ related:
         width: 1000
         height: 561
         isCached: true
+  - title: "GNS and Servier Announce AI Collaboration to Advance Multiple Myeloma Drug Discovery and Clinical Development"
+    excerpt: "\"This collaboration furthers Servier's goal to accelerate its drug discovery and clinical development efforts through AI and biosimulation and other digital initiatives,\" said Claude Bertrand, EVP of Research and Development at Servier."
+    publishedDateTime: 2022-08-24T14:13:00Z
+    webUrl: "https://markets.businessinsider.com/news/stocks/gns-and-servier-announce-ai-collaboration-to-advance-multiple-myeloma-drug-discovery-and-clinical-development-1031703502"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 30
+  - title: "AI Ethics Advisory Board Offers Guidance on How to Develop and Deploy AI Responsibly"
+    excerpt: "Artificial Intelligence AI Ethics Advisory Board Offers Guidance on How to Develop and Deploy AI Responsibly By Rhea Kelly 08/18/22 Northeastern University's Institute for Experiential AI is ..."
+    publishedDateTime: 2022-08-21T14:44:00Z
+    webUrl: "https://ohsonline.com/EDU/Campus-Technology/Articles/2022/08/18/AI-Ethics-Advisory-Board-Offers-Guidance-on-How-to-Develop-and-Deploy-AI-Responsibly.aspx"
+    type: article
+    provider:
+      name: Ohsonline.com
+      domain: ohsonline.com
+    quality: 27
 
 secured: "PnefXY3+qGFJR6smZVe6kCYfMhjZXjKzVd9BMrRBYqSFJx4T4s/sgXzGxdcLMDjSxxA84aOiJXkNdDSawBuVLvnJJKFrgXNZBdxZe9E3iWsBq+6AJzD85aEN/S74NL/IMaC8eudlR4p4s+dOzMkI3G5gaNizf47RfMo+WxrY1ymrLRGJ3vGK+RZwy8lE3Z4syu2UkjDWWKsiSAy9W5zfWzfZLwmEnH8n238Z5P1tp9TUGw+VxLk4JAIykJ7ffBc6b+ybTFYnEn/PwDHhZf6D9rP1+fwbaN9epa+zZQZ2wPnqClGlNFeuxvzrexH8nMwuS6/y9PAfXOQUIIXXHBLJ5K0cy4vy5YgE/4GwlGY8u3w=;RsE/JBLfnS2mblgeB6y4kg=="
 ---

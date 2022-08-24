@@ -7,7 +7,7 @@ originalUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-company-vo
 webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-company-vody-launches-cutting-edge-new-/2022/08/23/9661229.htm"
 type: article
 quality: 8
-heat: 8
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,19 @@ provider:
 topics:
   - AI
   - Machine Learning
+
+related:
+  - title: "ARTIFICIAL INTELLIGENCE COMPANY VODY LAUNCHES CUTTING-EDGE NEW TOOL SUITE AT LA TECH WEEK'S MARQUEE MACHINE LEARNING EVENT"
+    excerpt: "Titans of the Los Angeles tech scene gathered for the reveal of Vody's groundbreaking new offering and a panel conversation featuring Vody head of research SEAN WILNER, former AWS AI executive IAN SWANSON, March Capital partner JULIA KLEIN, and BotNot ..."
+    publishedDateTime: 2022-08-23T23:44:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28609925/artificial-intelligence-company-vody-launches-cutting-edge-new-tool-suite-at-la-tech-weeks-marquee"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28609925"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28609925"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 28
 
 secured: "hlX4dnTezoDDTnh3mEVKylOUntsudpAQYGXl/IgCKIF7uLutLzzVxifjEr5AXOCuYJ5Rr3AYHsTV/vrCX+aptoVUFNGO7ocY9vmCAIvz2UfhJrkF3GBL88UUoUvKW77QHx08a7GgOZgeG1t7yAAwpXXUE3ZHWyujSO2KKiN8qV6kNht99f2vXbYrfwBb1a0SsRjA3vttJS7LHAM9utOEnoSzbK7spTJ9zJmy4i1x41TyEwoAppLTCOeRcHUQfwXotv45AuBCzLFgEzQUqq9hHpG37nm7adIMr9+IyqkxBAq6c5m14awvfN9ZNG0BdNmXWoC/nLlS/3V3VpYef91BS0CMLaNpiLN7EHce9M/yV7skutOpSYL0Nh8c7fr7rsQzrbBTzrcNCJwKtNyJyZ5rvA5nQgl99irVRBNz8Kb1bY3FBCo9ajI9Ft4OTOIQNCSXF6hk4QXnthF2YZjSWr03YaP47SOztrgRNxSA/TtmDhfyv+G0P5c1+N3J8y9f5B1A5OCoY1C7+mgdJhCYprU+kQ==;/Pc5uaO4H5c1UEx63E+C5A=="
 ---

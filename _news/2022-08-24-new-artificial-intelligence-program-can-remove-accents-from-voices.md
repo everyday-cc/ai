@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-24T12:28:00Z
 originalUrl: "https://www.tweaktown.com/news/88112/new-artificial-intelligence-program-can-remove-accents-from-voices/index.html"
 webUrl: "https://www.tweaktown.com/news/88112/new-artificial-intelligence-program-can-remove-accents-from-voices/index.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: TweakTown

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-24T13:16:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-tampa-21139f104329b685c0a5bdc16f04aeae"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-tampa-21139f104329b685c0a5bdc16f04aeae"
 type: article
+quality: 3
+heat: 3
+published: false
 
 provider:
   name: Associated Press

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-24T11:00:00Z
 originalUrl: "https://www.jsonline.com/story/entertainment/music/2022/08/24/phox-baraboo-wisconsin-monica-martin-steps-out-solo-artist-help-marcus-mumford-james-blake/7867959001/"
 webUrl: "https://www.jsonline.com/story/entertainment/music/2022/08/24/phox-baraboo-wisconsin-monica-martin-steps-out-solo-artist-help-marcus-mumford-james-blake/7867959001/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Milwaukee Journal Sentinel

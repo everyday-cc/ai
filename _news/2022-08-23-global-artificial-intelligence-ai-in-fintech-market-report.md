@@ -42,6 +42,15 @@ related:
       name: Mint
       domain: livemint.com
     quality: 1
+  - title: "GCV Leads £695K Investment in Finexos, a Fintech Focused on Making Credit More Accessible"
+    excerpt: "GCV has led a £695,000 investment round into Finexos, a fintech platform set \"to improve access to credit for millions of people around the world.\""
+    publishedDateTime: 2022-08-24T12:38:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/08/195140-gcv-leads-695k-investment-in-finexos-a-fintech-focused-on-making-credit-more-accessible/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 0
 
 secured: "qYDyw+GkW9ahAA7y4auvU7vmaqiDWjTfvqEYXu1i5YAYI4VsZhDVqWlkwym3TEXLWT5fLymdfehd4yMBzJbLfnVuBa7mN/I+hI4Pn8r82bnWZEwuDDVNsOmwxNptn80qVFj3KLyi0G3LJAjabWLYwW1qKysV1V+fYlwo2m0BlOVkqkBd5njVpI1DR2JTXL+8LBS/r0kYT/2KCCosgL7rvFIx6y2LQu0EU7rMNEcYaRcB0pHIsyM6ErFxwnRIcFl6nmorLRl25/yMiq4/q8F4mPKIVE71qwlhLGXA2l7QayVVTUmfrH5yqN2q0lhn92x2B8/YOZ2i9zW9HyHuQgjyevwup0tYZVCiy7QGHczcOwk=;cF4Jw+Q3p7OrKoxjAvikUg=="
 ---

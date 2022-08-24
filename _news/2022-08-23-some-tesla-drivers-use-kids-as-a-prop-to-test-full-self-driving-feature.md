@@ -93,22 +93,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Podcast: Tesla Full Self-Driving Beta test, VPP event, Tesla Semi, and more"
-    excerpt: "This week on the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. This week, we discussed our Tesla Full Self-Driving Beta test, Tesla’s first VPP event,"
-    publishedDateTime: 2022-08-19T19:33:00Z
-    webUrl: "https://electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi/"
-    ampWebUrl: "https://electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/19/podcast-tesla-full-self-driving-beta-test-vpp-event-tesla-semi/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 87
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2017/12/business_card-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla Is Raising the Price of Full Self-Driving to $15,000"
     excerpt: "I've been writing about tech, including everything from privacy and security to consumer electronics and startups, since 2011 for a variety of publications."
     publishedDateTime: 2022-08-21T17:34:00Z
@@ -418,6 +402,15 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Elon Musk scolds Tesla owner for complaining about glitchy self-driving system"
+    excerpt: "The customer wrote that he’s spent more than $32,000 paying for Tesla's Full Self-Driving system multiple times."
+    publishedDateTime: 2022-08-24T14:30:00Z
+    webUrl: "https://www.detroitnews.com/story/business/autos/2022/08/24/elon-musk-scolds-tesla-owner-complaining-self-driving-system/7883785001/"
+    type: article
+    provider:
+      name: Detroit News
+      domain: detroitnews.com
+    quality: 30
   - title: "Elon Musk announces price hike for Tesla's Full Self-Driving feature"
     excerpt: "SpaceX CEO Elon Musk has announced a price hike for Tesla's Full Self-Driving feature that will be implemented into its pricing next month."
     publishedDateTime: 2022-08-22T10:50:00Z

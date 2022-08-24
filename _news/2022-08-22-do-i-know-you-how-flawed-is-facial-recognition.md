@@ -7,7 +7,7 @@ originalUrl: "https://www.electropages.com/blog/2022/08/do-i-know-you-how-flawed
 webUrl: "https://www.electropages.com/blog/2022/08/do-i-know-you-how-flawed-facial-recognition"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Humans Have a Natural Defense Against Facial Recognition: Aging"
+    excerpt: "After just 5 years, facial recognition systems start struggling to identify us, and after 20 years they have no chance."
+    publishedDateTime: 2022-08-24T14:50:00Z
+    webUrl: "https://www.pcmag.com/news/humans-have-a-natural-defense-against-facial-recognition-aging"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 84
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05Pz8HRnBQxyCwqrSeEy3it-1.fit_lim.size_1200x630.v1661351863.jpg"
+        width: 1121
+        height: 630
+        isCached: true
   - title: "Face recognition struggles to recognise us after five years of ageing"
     excerpt: "As we age, our faces change, becoming slowly different from images used for facial recognition – so new photos may be needed more frequently to maintain accuracy and security"
     publishedDateTime: 2022-08-24T11:14:00Z
@@ -39,15 +53,24 @@ related:
         width: 2500
         height: 1667
         isCached: true
-  - title: "Lossy image compression negatively affects facial recognition algorithms, research shows"
-    excerpt: "Experimental research by a team from the Department of Computer Science in the University of Durham, UK, demonstrates that image compression techniques that remove data have a negative bearing on the way facial recognition algorithms function with regard ..."
-    publishedDateTime: 2022-08-23T18:01:00Z
-    webUrl: "https://www.biometricupdate.com/202208/lossy-image-compression-negatively-affects-facial-recognition-algorithms-research-shows"
+  - title: "Improved Facial Recognition Software Attracts Revived Interest"
+    excerpt: "Many state and local governments in California are considering using facial recognition tools after a state ban expires in January, citing a rise in crime during the pandemic, and claims of its improved accuracy."
+    publishedDateTime: 2022-08-24T13:46:00Z
+    webUrl: "https://thecrimereport.org/2022/08/24/improved-facial-recognition-software-attracts-revived-interest/"
     type: article
     provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 10
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 21
+  - title: "Voice to Parliament the 'wrong form' of recognition: Tony Abbott"
+    excerpt: "Former prime minister Tony Abbott says the Indigenous Voice to Parliament is the “wrong form of recognition”. He said he thinks it’s wrong in principle to “divide Australians by race”. “And I think the more people see of this voice,"
+    publishedDateTime: 2022-08-23T12:46:00Z
+    webUrl: "https://www.theaustralian.com.au/commentary/voice-to-parliament-the-wrong-form-of-recognition-tony-abbott/video/156a3a234beb85d3010a8c4afbe6f9ec"
+    type: article
+    provider:
+      name: The Australian
+      domain: theaustralian.com.au
+    quality: 4
 
 secured: "h6QS5RRfe+xa/5MvA4NMTEmLODM6QuX+3UHhsfhoYgvdrWus3gzIOH64jwLgDH5iihftGxfZ0f/uOu+pIpTVX9YSNfzkqIVkJULX1xD890uOlbw0yXMv0TI0TX/opc+EDEWEC3jGVSOZYRPEOGHxgZVXmEeTE4rUe+SvDSwUbr87s2S+xmm/c6MEPJjiffnQZskXC7vQR52vZ/s5WXGd/Jojk3CDfGpkZFy0fMSxbSZC+100Yf34t3G3vrZ2uQDZuvcstgR9vR5+94hVA5m4nGuCLtx9Nq7MA/9WxHdrkhZRoiW2mjfzXyaiKHg9rbGWbY2m28eSt+qO3lQRFiwdFUgx/qby/ciPBaatGzhDghmgXIGCJTh1R8SHsOYAiwWQg73a6gVD23dru/f1G5m9HUZeua2j6Wv8wEaWCsck87gWF6wzyfDW7KZUDdryR38Ba8M0yazrX9DeR7uX6gtPu+bILU7aTiQ/Wk+RYEj9FzwhI+aBYS8IHdqpqNTJAbicoxozK8NTMvG7BCzrH1kEJg==;3lOUDmH6U3HuNtl8emsGkg=="
 ---

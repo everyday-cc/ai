@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-24T13:05:00Z
 originalUrl: "https://techcrunch.com/2022/08/24/lumachain-computer-vision-meat-production/"
 webUrl: "https://techcrunch.com/2022/08/24/lumachain-computer-vision-meat-production/"
 type: article
+quality: 57
+heat: 57
+published: false
 
 provider:
   name: TechCrunch

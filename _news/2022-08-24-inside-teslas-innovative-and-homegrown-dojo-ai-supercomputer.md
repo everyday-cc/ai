@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nextplatform.com/2022/08/23/inside-teslas-innovative-and
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/08/23/inside-teslas-innovative-and-homegrown-dojo-ai-supercomputer/amp/"
 type: article
 quality: 76
-heat: 86
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Next Platform
@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Tesla's in-house supercomputer is something special - but the next will be even better"
-    excerpt: "Tesla Engineering Manager Tim Zaman claims this would place the machine 7th in the world by GPU count ... followers to \"consider joining our AI or computer/chip teams if this sounds interesting\"."
-    publishedDateTime: 2022-08-21T11:03:00Z
-    webUrl: "https://www.techradar.com/news/teslas-in-house-supercomputer-is-something-special-but-the-next-will-be-even-better"
+  - title: "Tesla releases new deep-dive presentations on its Dojo AI supercomputer"
+    excerpt: "Tesla has released two new deep-dive presentations into its Dojo AI supercomputer ahead of its upcoming AI Day 2. You can check the slides from both presentations below. Dojo is Tesla’s own custom supercomputer platform built from the ground up for AI machine learning and more specifically for video training using the video data coming"
+    publishedDateTime: 2022-08-24T14:32:00Z
+    webUrl: "https://electrek.co/2022/08/24/tesla-deep-dive-presentations-dojo-ai-supercomputer/"
+    ampWebUrl: "https://electrek.co/2022/08/24/tesla-deep-dive-presentations-dojo-ai-supercomputer/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/24/tesla-deep-dive-presentations-dojo-ai-supercomputer/amp/"
     type: article
     provider:
-      name: TechRadar
-      domain: techradar.com
-    quality: 63
+      name: Electrek
+      domain: electrek.co
+    quality: 106
     images:
-      - url: "https://cdn.mos.cms.futurecdn.net/XBZBxbuMHoHZsPHfA6NZtU-1200-80.jpg"
-        width: 970
-        height: 545
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/What-is-Tesla-Dojo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "19r7n+mnQ4YO33l1fG4sNd+kIYlC2J/xE8Ga/Yr77vvSm/KftAsvMBXTvsF52LLPqrT5T0gZt2/X2vjyJtw8mp7DeKFOK7Nv7f71Wk7fC1jN6Yg5AqAWdkzubT/pxKtSk7FTpx3UqfC4i12JaXubY6WOI7dT0nS4gqGPtFNuq2ZLTikvJrB+yU+3cce+vKJrWZZtoj1/Dt2LuYC72Sc5y8ySMtUJpH8t805uYREZNytJ+u0ZhdQtBfbnPZOyyLlx4pyCQn+jtWfu8Sl9SoDo7IuAVZkMLWDl1TUhurLniRquV3biFtcBUZeFIodr6+pNwX2+ZJ1JpmyBLaQl8e2l5kyrc/9Ekh/3bhcmIppHUCcrcL4XEymGX3J76rnoEZQu8yDBDTUcK/rhenbdE13Q+TKN8NnLnsOT4m8Oohywib55U4Jnm4cUT6hMNdop1PK9/KV6zdqmv4uvjO4rtXBVZfuAMkiHu17aLbpNYblu3DVsCOIXdes0On5cF/88KsyiKK+oWuX7eOFtRj7YuhSHBg==;S9Jlr5KuTn4D6Cu/ilru7Q=="
