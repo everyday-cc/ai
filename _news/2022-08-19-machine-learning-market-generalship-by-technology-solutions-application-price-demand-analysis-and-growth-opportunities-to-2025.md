@@ -30,10 +30,10 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence in Law Market 2022 Key Regions, Comprehensive Analysis, Growth Drivers and Forecast to 2028 |AIBrain, Amazon, Anki"
-    excerpt: "Global Artificial Intelligence in Law Market report has recently added by Infinity Business Insights which helps"
-    publishedDateTime: 2022-08-19T15:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-2022-key-regions-comprehensive-analysis-growth-drivers-and-forecast-to-2028-aibrain-amazon-anki-2022-08-19"
+  - title: "Deep Learning Chip Market Size 2022-2028, Organization Growth, Industry Share, Upcoming Trends, Key Dynamics, Opportunities, Top Manufacturers"
+    excerpt: "The global “Deep Learning Chip Market” report includes upcoming growth trends, restraints, drivers, key dynamics size"
+    publishedDateTime: 2022-08-22T12:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-2022-2028-organization-growth-industry-share-upcoming-trends-key-dynamics-opportunities-top-manufacturers-2022-08-22"
     type: article
     provider:
       name: MarketWatch
@@ -43,6 +43,29 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence Supply Chain Market 2022 Key Dynamics, Regional Insights, Growth Statistics and Business Strategies by 2028"
+    excerpt: "The Global Artificial Intelligence Supply Chain Market 2022 by Company, Regions, Type and Application, Forecast"
+    publishedDateTime: 2022-08-21T19:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-supply-chain-market-2022-key-dynamics-regional-insights-growth-statistics-and-business-strategies-by-2028-2022-08-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+  - title: "Global Social Robots Market Report (2022 to 2027) - Industry Trends, Share, Size, Growth, Opportunity and Forecasts - ResearchAndMarkets.com"
+    excerpt: "The global social robots market size reached US$ 2.6 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 13.3 Billion by 2027, exhibiting a CAGR of 31.26% during 2021-2027."
+    publishedDateTime: 2022-08-23T10:36:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-robotics-4b17d57561be47bc829b850f140e63e1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "y/x+5ozJ2sqcXSyJJKD1nYlaCljxPQmLQxPFcxIYLuwgSAdGouDrbyEspjfxsM3TX3lnXtj+w3yW5g0i+Vjj2p37AcKnsRO2JrIZt3CEWMO5Zm8wt0fTIMeyKm92fpYtGclf93MoRRUXjtfpru5Jf5L59GUHXBnQKxlsiaLI18rcBDGYM0DlV8UCas2R//JXvY54sR92fFIHtnh3GQIUt9ACNoZQng70BASSxD1w7rvVQ6uC3wy8OhItHcRKVa4mWXDy7bdfrQ59CdNLTScnM5myLE5+4r9Ih4txrx15O4OJmMYx4OkpYVNgLod3/6mcJKf/IRM0im75TKfHWk1UrRSsrr5eNnNzCH62l1OMCtw=;2bkWJX9CJBsWja8a+m49Ag=="

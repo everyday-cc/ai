@@ -121,22 +121,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk slows down rollout of Tesla’s next ‘Full Self-Driving Beta’ update"
-    excerpt: "Elon Musk announced that Tesla is slowing down the rollout of its next “Full Self-Driving Beta” software update (10.69) due to “many major code changes.” It is reportedly still coming tomorrow, but only to ~1,"
-    publishedDateTime: 2022-08-19T10:15:00Z
-    webUrl: "https://electrek.co/2022/08/19/elon-musk-slows-down-rollout-tesla-full-self-driving-beta-update/"
-    ampWebUrl: "https://electrek.co/2022/08/19/elon-musk-slows-down-rollout-tesla-full-self-driving-beta-update/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/19/elon-musk-slows-down-rollout-tesla-full-self-driving-beta-update/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 86
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-FSD-Beta-pedestrian-Blue-Ridge-Mountains.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Tesla Is Raising the Price of Full Self-Driving to $15,000"
     excerpt: "I've been writing about tech, including everything from privacy and security to consumer electronics and startups, since 2011 for a variety of publications."
     publishedDateTime: 2022-08-21T17:34:00Z

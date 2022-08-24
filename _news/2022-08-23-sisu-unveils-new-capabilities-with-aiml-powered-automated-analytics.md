@@ -7,7 +7,7 @@ originalUrl: "https://www.datanami.com/this-just-in/sisu-unveils-new-capabilitie
 webUrl: "https://www.datanami.com/this-just-in/sisu-unveils-new-capabilities-with-ai-ml-powered-automated-analytics/"
 type: article
 quality: 34
-heat: -1
+heat: 34
 published: false
 
 provider:
@@ -19,22 +19,6 @@ topics:
   - Machine Learning
 
 related:
-  - title: "CEAT transforms digitally with AWS IoT and analytics"
-    excerpt: "CEAT uses Amazon Redshift, a cloud data warehouse, and Amazon SageMaker for an experimental solution. The solution automatically scans stock-keeping unit names and tyre serial numbers, registering ..."
-    publishedDateTime: 2022-08-19T10:44:00Z
-    webUrl: "https://www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/"
-    ampWebUrl: "https://www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/05/Capture-75-620x400-1.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Observe.AI wants to boost contact center performance with advanced reporting and analytics"
     excerpt: "The idea is that business leaders can leverage those insights to improve business performance and outcomes, the company said today. Observe.ai is the creator of an intelligent call center platform that helps human operators with tasks such as customer service."
     publishedDateTime: 2022-08-23T13:00:00Z

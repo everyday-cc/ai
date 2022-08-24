@@ -55,22 +55,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Self-driving vehicles planned for UK roads by 2025, but public trust is an issue"
-    excerpt: "Report warns that driverless cars will need to be 100 times safer than human drivers for the public to accept them as they do trains or airplanes."
-    publishedDateTime: 2022-08-19T10:51:00Z
-    webUrl: "https://www.zdnet.com/article/self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/self-driving-vehicles-planned-for-uk-roads-by-2025-but-public-trust-is-an-issue/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 69
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/0841c7ba5b4b5c23ac57e7ec2fa6125277f003d8/2019/12/23/55acbfb8-8ff7-4f41-a6ec-06d145e7d05f/istock-1079995912.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 739
-        isCached: true
   - title: "Driverless cars: Self-driving cars on UK roads by 2025, says report"
     excerpt: "It might sound like something from science fiction, but, according to a new government report, fully self-driving vehicles could be on UK roads by 2025. Some cars, coaches and lorries with self-driving features could even be on motorways in the next year,"
     publishedDateTime: 2022-08-19T15:49:00Z
@@ -174,20 +158,6 @@ related:
         width: 1200
         height: 770
         isCached: true
-  - title: "UK sets out roadmap for self-driving vehicle usage by 2025"
-    excerpt: "New laws for autonomous vehicles will make automakers responsible for the vehicle's actions when self-driving, not human drivers."
-    publishedDateTime: 2022-08-19T09:13:00Z
-    webUrl: "https://europe.autonews.com/automakers/uk-sets-out-roadmap-self-driving-vehicle-usage-2025"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 24
-    images:
-      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Toyota%20automated%20behind%20wheel%20web.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Self-driving vehicles on UK roads by 2025 under new government plans"
     excerpt: "Self-driving vehicles could be on British roads by 2025 under new plans unveiled by the government and backed by a £100 million (RM530.5mil) investment to boost the rollout."
     publishedDateTime: 2022-08-20T04:00:00Z
@@ -243,20 +213,6 @@ related:
       - url: "https://www.imeche.org/IME/ui/img/header/logo/imeche-logo.png"
         width: 400
         height: 300
-        isCached: true
-  - title: "'Self-driving revolution': Government sets out vision for autonomous cars backed by £100m funding"
-    excerpt: "Self-driving vehicles could be on UK roads by as soon as 2025 under plans unveiled today by the Department for Transport, which is offering up £100m funding alongside changes to road safety legislation in order to support the growth of the nascent sector."
-    publishedDateTime: 2022-08-19T10:36:00Z
-    webUrl: "https://www.businessgreen.com/news/4055015/self-driving-revolution-government-sets-vision-autonomous-cars-backed-gbp100m-funding"
-    type: article
-    provider:
-      name: Business Green
-      domain: businessgreen.com
-    quality: 11
-    images:
-      - url: "https://image.chitra.live/api/v1/wps/bd4af5c/45ec0e67-bd43-4079-a53c-2205d0e4603f/6/iStock-1343808854-370x229.jpg"
-        width: 370
-        height: 229
         isCached: true
   - title: "Self-driving cars to hit UK roads by 2025 under government plans"
     excerpt: "UK Transport Secretary has announced a £100m investment to boost the rollout of autonomous vehicles on the country's roads."

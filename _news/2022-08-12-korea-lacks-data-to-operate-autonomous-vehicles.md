@@ -3,8 +3,8 @@ category: news
 title: "Korea lacks data to operate autonomous vehicles"
 excerpt: "Baidu conducted a test drive of 21 million ... As of last year, more than 1,400 cars were launched on a self-driving pilot service in the U.S. As a result, the U.S. and China are conducting ..."
 publishedDateTime: 2022-08-12T16:08:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/tech/2022/08/419_334345.html"
-webUrl: "https://www.koreatimes.co.kr/www/tech/2022/08/419_334345.html"
+originalUrl: "https://www.koreatimes.co.kr/www/nation/2022/08/419_334345.html"
+webUrl: "https://www.koreatimes.co.kr/www/nation/2022/08/419_334345.html"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=334345"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=334345"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 653
     isCached: true
 
-secured: "Nw9cOK91LwQm4dK6APbpFZAPEbh6nPyWlWyIsqd0XxGsR8tPJWbvH3VkuENNI7w/NX51AHLAG54VGPzWrREMPmvtCMF4bKP2JfDeRQLmQfY4bh/V/RMFNqx7PWgGoZhRR1rQKQ/2sjbymOG4bW4eEYk99Fahm5jUSu1MAc+yuGatpgNb0Z0ieChqsWuLOZ760OFkHi7FxRffc9bbs8dG2sX3oPd4rHZtB3gGct2jyfFoIWPvjGRHj/fIhdGTDqOuwQhAuKDrrnMBti/6YhkPKbf5vP6V3da46wNU7XrRYVKEQ98Q8ct1M9onLHFVC5tn4SI2qD3b2S40wUILNfwXqClnpJN+zrZrNEV+M2iY10A=;Vz8zs8/AeznIi5DislaNvA=="
+secured: "haDcmY7RyahZCutGGe/BXYdJMri4udbC9cFT9UNqgnmzUzVpArGp8nJixUjrtaVvZ50SBHew2V/PEs4AjceH7wouMxzxWiD7BIZcYOuXegzpalpbCBcWrFf4w7GHEyOQ3U4aMmYv+56+6FelTxTi/VIkP7Pf2XcOFTJrGK5wEXGQUIWkEsXaCuXdcEh2vSnYdOAoML2fcQ+DCasLlHgVLB72u+0R4YPQ7IXNLa0+cPjKIFjupPWD1AMuAeAncPEwNe5xn7NT4lga6iZcA+4VDcGxHRPyFayXjEb8+XFivxSUfuW2YggDuhPJtuNKscLIE/G1WKH4j2iKk6cmHK3ezc2bQQxlxG9WErXFl3W7uWQ=;jOVciNeDAKlixsW+230WtQ=="
 ---
 

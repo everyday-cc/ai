@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "CEAT transforms digitally with AWS IoT and analytics"
-    excerpt: "CEAT uses Amazon Redshift, a cloud data warehouse, and Amazon SageMaker for an experimental solution. The solution automatically scans stock-keeping unit names and tyre serial numbers, registering ..."
-    publishedDateTime: 2022-08-19T10:44:00Z
-    webUrl: "https://www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/"
-    ampWebUrl: "https://www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/05/Capture-75-620x400-1.jpg"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Sisu Unveils New Capabilities with AI/ML-powered Automated Analytics"
     excerpt: "Sisu Data, the decision intelligence company, is expanding the capabilities of the Sisu Decision Intelligence Engine with"
     publishedDateTime: 2022-08-23T15:51:00Z

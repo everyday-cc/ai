@@ -1,12 +1,12 @@
 ---
 category: news
 title: "AI Metrics, an AI Medical Imaging Technology Startup, Announces New Chief Medical Officer and CEO"
-excerpt: "Changes to executive leadership team will drive a continued focus on innovation in imaging, radiology and oncology BIRMINGHAM, Ala., Aug. 23, 2022 /PRNewswire-PRWeb/ -- AI Metrics, an early stage radi"
+excerpt: "Changes to executive leadership team will drive a continued focus on innovation in imaging, radiology and oncology BIRMINGHAM, Ala. (PRWEB) August 23, 2022 AI Metrics, an early stage radiology software company,"
 publishedDateTime: 2022-08-23T19:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28606922/ai-metrics-an-ai-medical-imaging-technology-startup-announces-new-chief-medical-officer-and-ceo"
-webUrl: "https://www.benzinga.com/pressreleases/22/08/n28606922/ai-metrics-an-ai-medical-imaging-technology-startup-announces-new-chief-medical-officer-and-ceo"
-ampWebUrl: "https://www.benzinga.com/amp/content/28606922"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28606922"
+originalUrl: "https://www.benzinga.com/pressreleases/22/08/p28606973/ai-metrics-an-ai-medical-imaging-technology-startup-announces-new-chief-medical-officer-and-ceo"
+webUrl: "https://www.benzinga.com/pressreleases/22/08/p28606973/ai-metrics-an-ai-medical-imaging-technology-startup-announces-new-chief-medical-officer-and-ceo"
+ampWebUrl: "https://www.benzinga.com/amp/content/28606973"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28606973"
 type: article
 quality: 24
 heat: 24
@@ -19,6 +19,6 @@ provider:
 topics:
   - AI
 
-secured: "LQRupUvRm0j4b5H8PdsJoLqTDs8KOLAXHXhIOCkaQdh5uLNdw0jVmnGZnKQjeSM+7u/mkQoErTqEB7R4tE/wlJObsiePqf+rUEBNjTCe/ZMu6SP3cnepx4anj1niDZxJXDKuKFXDioDGnzhCbjWJofI8LiIGfYuSTv8hiU8j3X0jwSjnVZECRvEUifqjwGDV0wBXlsgx60/akMl/lFfR7JqfTH++IjY72FU9Z/eLUxazwOVm5KoC4b332xGePSeYerNs1yLL4t6+DDwCGnM8xW/5dXAF2fJhVwdDwmts/LCyBX3kgm07xYXN1y48iGdd/6dH/BoBhQ3RbgYgGzrMFzSKBSuoqSY2VpC0uo9Ehx0=;LZ5DjwFPKV566pMKeo8W1A=="
+secured: "UUWOrOCXo482cUhxWYXYpEqE1zpW5CNe4zEQnsK2rY+2midKHEPZDQNN2nEMs0E1Z5Wnk3ziLBV+wpdPV7lSzOB3N6fFSh4Lxi8lIndNDe106jPzFdqcBrXQS//Ym4TrsUx9ZFWcHCB+VNoMIlarA3L2UA1VRPjQTWL8oL6nndyTTVcyN2IRJfSdl9oCPseX9rrW+lscclC/ulx4RM65jRuX7Z17ZznUjxHZLHExMuZCOlJaETSs2rAmJfD4t1FVjWPMog/FE+ffRjZ5PB9bJb7LRq6EneQDkh3vX/WZk6LOyiQMspWXpJ3EZGBnFiusWXvdesijVydWkNi86Y+40BRXgtroIKWO+fQ28CLCPZY=;n+b5HqgVTqi4QrC4796tvQ=="
 ---
 

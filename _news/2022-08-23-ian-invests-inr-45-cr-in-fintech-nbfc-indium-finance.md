@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence (AI) in Fintech Market Report"
+    excerpt: "The global artificial intelligence in fintech market size is expected to reach USD 41.16 billion by 2030, growing at a CAGR of 16.5% from 2022 to 2030. Artificial intelligence (AI"
+    publishedDateTime: 2022-08-22T18:36:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-ai-fintech-market-report-2022-/2022/08/22/9660159.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
   - title: "Urban Money by Square Yards is spearheading fintech revolution in real estate"
     excerpt: "lies a suite of tech capabilities driving its fintech powertrain, helping the company disburse paperless mortgages in a matter of minutes instead of days or weeks. Once a customer fills his financial requirements online, an AI-based eligibility engine dete ..."
     publishedDateTime: 2022-08-22T13:24:00Z

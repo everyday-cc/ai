@@ -23,22 +23,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Microsoft and MAP, Bengaluru, Develop New AI-Powered Platform"
-    excerpt: "Bengaluru, have developed a new artificial intelligence-powered platform for connecting artworks and cultures around the world"
-    publishedDateTime: 2022-08-19T09:48:00Z
-    webUrl: "https://www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399.html"
-    ampWebUrl: "https://www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 74
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/08/19/1600x900/20220819_132009_0000_1660901560159_1660901569762_1660901569762.png"
-        width: 1600
-        height: 899
-        isCached: true
   - title: "How Microsoft’s AI convinced me to switch to Edge, and where the browser still falls short"
     excerpt: "I finally broke down and switched to Microsoft’s Edge browser this week on my Windows PC, after many years of using Google Chrome. No, it wasn’t the incessant and annoying… Read More"
     publishedDateTime: 2022-08-19T19:31:00Z
@@ -48,6 +32,15 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 54
+  - title: "Microsoft: When Who's The CEO Matters"
+    excerpt: "Microsoft shares have returned a near 14-bagger since naming Satya Nadella chief executive officer in early 2014. Read more here."
+    publishedDateTime: 2022-08-23T12:07:00Z
+    webUrl: "https://seekingalpha.com/article/4536356-microsoft-when-who-is-the-ceo-matters"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
 
 secured: "JL0xfUokB0HH6aJaE6n5kcx+oYs7EDU+ESIoW7vT0BmS9pFu8hebZTfdlxA6ppqWPikrbP0GTKyp5rsDrgI1NAMlmmWxxnt6vpIYPuhCJEnUnpdd5OFwHl1XWJRKvw2sS9vZ+7Pz/F6bBL00Bzuim39jZe860FMnbNS8RKFF29zX62nS0IssT8Y9uLUVMu+zqBhSg9Bacfj15R5bHXMwKL2iELzUWQDp8Kw12jNMDZGtNbIqo4V4piCNArgtkgJts09AHW/iSHpFB9n1JTkM6arZrh+DC7f3TB+/+F91u9HciaUvQRQgrQ/qNLfEmExnbanmOHu3MJ0G84EH+59hEqJl1T1aW8ezcsG39JCZ+Hw=;hoAs9UWjFDtPLtM5v9+tqg=="
 ---

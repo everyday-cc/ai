@@ -9,7 +9,7 @@ ampWebUrl: "https://gulfnews.com/amp/friday/art-people/this-student-aspires-for-
 cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/friday/art-people/this-student-aspires-for-a-career-in-ai-1.89858003"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -42,6 +42,20 @@ related:
       - url: "https://www.financialexpress.com/wp-content/uploads/2022/08/Explainable-artificial-intellige.jpg"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Lu studies potential benefits of AI in health care"
+    excerpt: "Chenyang Lu at the McKelvey School of Engineering is leading a charge to bring artificial intelligence into hospitals for the benefit of patients’ health — and doctors’ well-being."
+    publishedDateTime: 2022-08-23T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/962605"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 39
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/bbe7c01f-5e62-4c0b-859c-22d1411cd28e/Rendition/low-res/Content/Public"
+        width: 700
+        height: 467
         isCached: true
   - title: "Rooting for Dedicated Legislation in AI"
     excerpt: "India is part of the Global Partnership on Artificial Intelligence, which is guiding responsible development and use of AI"

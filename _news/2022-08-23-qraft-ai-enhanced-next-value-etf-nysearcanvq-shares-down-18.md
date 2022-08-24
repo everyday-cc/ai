@@ -27,15 +27,6 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 16
-  - title: "iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV) Shares Purchased by Advisor Group Holdings Inc."
-    excerpt: "Advisor Group Holdings Inc. boosted its position in iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV – Get Rating) by 0.9% in the 1st quarter, according to its most recent filing with the Securities and Exchange Commission."
-    publishedDateTime: 2022-08-19T09:28:00Z
-    webUrl: "https://www.defenseworld.net/2022/08/19/ishares-self-driving-ev-and-tech-etf-nysearcaidrv-shares-purchased-by-advisor-group-holdings-inc.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 0
 
 secured: "Be7NdaB3A8me5aLAckEUcruUdMjZbC9zbm0Hg1mHiIXlrOjFP2OTFeGyU/VWkq0qRwFjB2KJM96P+9QGha/xHiMEsAC8H0mogsAY9y0JRv2YGDyzvZNyKNt9JohIyVAbgIPGiOjwfuJRWD++lu3mDHF1yQ+uT1o2qzsrX1iXJbX3jF/wJt1rKIjQsYJOpHQRBQCmD874y6VqW8NfL67kIjZo4DIkq4KRdK3B0mW42tAtUj2QxKmZ4rMLMDciq073IaHwCtPfImcXOHgwKG6BejCvlKYEOAQZrowy76p3cge5leh1qz5JxEnQthHklNN1w1mUpZpDHLylWq0LNJp97UId+cwIYTxNNDMmS4zW6qs=;2wc2smtfHMLyr3L51NXXEg=="
 ---

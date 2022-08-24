@@ -19,29 +19,29 @@ topics:
   - AI
 
 related:
-  - title: "Europe Artificial Intelligence (AI) in Healthcare Market to Witness Growth Acceleration During 2022-2027"
-    excerpt: "Pune, India -The artificial intelligence in healthcare market in Europe is expected to grow from US$ 1,368.59 million in"
-    publishedDateTime: 2022-08-19T09:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-ai-in-healthcare-market-to-witness-growth-acceleration-during-2022-2027-2022-08-19"
+  - title: "IAN invests INR 4.5 Cr in Fintech NBFC Indium Finance"
+    excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
+    publishedDateTime: 2022-08-23T11:38:00Z
+    webUrl: "https://www.indianweb2.com/2022/08/ian-invests-inr-45-cr-in-fintech-nbfc.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 82
+      name: indianweb2.com
+      domain: indianweb2.com
+    quality: 39
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWDW235eX6cvKA5gq9rYjLoySyHVExF6-jPSoaghf45tGl9R--EMI0UDquI5WdfKqi_oaqpM4mYdZZyOBn7ibJ-EqlEYUXJZPOBKMcg3u3d8qAhwO_H6TtKPZL5LPLsAjPR6WxM22crVwY-_yu2vBLKaPuwp5q9Z2lpEQ-6K33XoZMiTM0wZHOc9mm/s16000/indium-finance.jpg"
+        width: 900
+        height: 506
         isCached: true
-  - title: "North America AI in Computer Vision Market is estimated to grow with a CAGR of 45.0% from 2020-2027"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 19, 2022 (Heraldkeepers) -- Pune, India- The AI in computer vision market in North America is expected to grow from US$ 1,761.21 million in 2019 to US$ 32,565.09 million ..."
-    publishedDateTime: 2022-08-19T10:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-ai-in-computer-vision-market-is-estimated-to-grow-with-a-cagr-of-450-from-2020-2027-2022-08-19"
+  - title: "Urban Money by Square Yards is spearheading fintech revolution in real estate"
+    excerpt: "lies a suite of tech capabilities driving its fintech powertrain, helping the company disburse paperless mortgages in a matter of minutes instead of days or weeks. Once a customer fills his financial requirements online, an AI-based eligibility engine dete ..."
+    publishedDateTime: 2022-08-22T13:24:00Z
+    webUrl: "https://www.livemint.com/brand-stories/urban-money-by-square-yards-is-spearheading-fintech-revolution-in-real-estate-11661174451540.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
+      name: Mint
+      domain: livemint.com
+    quality: 1
 
 secured: "qYDyw+GkW9ahAA7y4auvU7vmaqiDWjTfvqEYXu1i5YAYI4VsZhDVqWlkwym3TEXLWT5fLymdfehd4yMBzJbLfnVuBa7mN/I+hI4Pn8r82bnWZEwuDDVNsOmwxNptn80qVFj3KLyi0G3LJAjabWLYwW1qKysV1V+fYlwo2m0BlOVkqkBd5njVpI1DR2JTXL+8LBS/r0kYT/2KCCosgL7rvFIx6y2LQu0EU7rMNEcYaRcB0pHIsyM6ErFxwnRIcFl6nmorLRl25/yMiq4/q8F4mPKIVE71qwlhLGXA2l7QayVVTUmfrH5yqN2q0lhn92x2B8/YOZ2i9zW9HyHuQgjyevwup0tYZVCiy7QGHczcOwk=;cF4Jw+Q3p7OrKoxjAvikUg=="
 ---
