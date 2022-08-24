@@ -39,15 +39,6 @@ related:
         width: 400
         height: 267
         isCached: true
-  - title: "US Open marks IBM extension with new redesigned, AI-driven app and website"
-    excerpt: "IBM has provided AI-driven insights to its sports partners for several years, using its Watson cognitive computing platform to analyse millions of data points to develops or insights. For example, SlamTracker analyses real time match data to explain ..."
-    publishedDateTime: 2022-08-19T11:39:00Z
-    webUrl: "https://www.sportspromedia.com/news/us-open-official-app-ibm-usta/"
-    type: article
-    provider:
-      name: SportsPro
-      domain: sportspromedia.com
-    quality: 17
 
 secured: "hv8RevyoEuzQbQ/aZ3hTtQda2Q8PGhiDmA3nKf0PyCGDa1ZBlIXb+tOeOmgtqxeosN/fYU2bf/zKt1jYNYIBS75nr+6lLfN8q9tlHLzc+QK4OtApwQ7neZVDngSaHwjbci8KhcvZbjaJMjyb4A1FjrDdhYomEdr4x54/CTsHAkRAyx/XSjpQ5ciKb0UEbgH3JwHGyp0CQyQ9eS24cLhKCnsiAo6YTB8p6xBU0AZYBp++VhG5cxTmkYxrx3BmFfmYfgBFxSm0UTwoJWQeiFOOxko8e9EetYrAAjYihNq1fROXC7mVphEeHD94mimNYKCTUHXof4PrKC8gyf0/FCriw+VqSTW2fgJg3ZgYKgB53o0=;m/W70tMXYctzGNDsHoW0vA=="
 ---

@@ -1,24 +1,31 @@
 ---
 category: news
 title: "Deep learning algorithm may streamline lung cancer radiotherapy treatment"
-excerpt: "Lung cancer, the most common cancer worldwide, is targeted with radiation therapy (RT) in nearly one-half of cases ... working under the Artificial Intelligence in Medicine Program of Mass General Brigham, developed and validated a deep learning algorithm ..."
-publishedDateTime: 2022-08-23T22:41:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/962454"
-webUrl: "https://www.eurekalert.org/news-releases/962454"
+excerpt: "Lung cancer, the most common cancer worldwide, is targeted with radiation therapy (RT) in nearly one-half of cases. RT planning is a manual, resource-intensive process that can take days to weeks to complete,"
+publishedDateTime: 2022-08-23T22:30:00Z
+originalUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html"
+webUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp"
 type: article
-quality: 50
-heat: 50
-published: false
+quality: 73
+heat: 73
+published: true
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
-  - AI in Healthcare
-  - AI
   - Machine Learning
+  - AI
 
-secured: "HVScVqZ6TLALzNT7ui8CDcBktUWoQo+KzwkWUWCZtgZFPl5yik7qaaKemXuiWeiPQEdjRr16I45X+PtKtDTL8slvO5mOFx0KdOy72NMwgxUwt0RD6a6fJChExHSgS+P0rnTMJa3puaL6fD0S5/bRUfHKCXDdLe2VGsa2zwRqvo57i1QmZGpxsXHE9uM3ZFU1H7mu4el3CcL7rireG6dKlSionnXYdDFK6IyEwzX7Kxjqkhch3aHZ1QZYaKrOMu/K5c4am6NnhbnKnaHPSwclAquu22XXFel6UiqoYJUxWY2cU+N1mTf3DbVPHI65iwL4+I4qT4QvLpQvbNiUp8IdYhm8klACIUsBeIOjhwOpO18=;ISZ6TF2cmUbR1EvsDP9ebQ=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/lung-scan.jpg"
+    width: 2880
+    height: 1966
+    isCached: true
+
+secured: "0jjf45G7iP/iJSBQOdVq1Jj7B1H7IoXGdUaAYa0jV9nzTU4zqzpgapaG4lQMccHXG2FLFIGowfv6a0aSGxogHodcx+cjWmZAuLPrQbTaArPgbaeA81gMIRBJG66a3pVQMm2I9w38+oYmmrtN5wTh3irZWWkYs70J1bWW9RdL+OR9p2qMZGBfQ8E4yI7MbsHLbAR2yRj9mZQBP9CSohjVvy750bM1ARQxrJ2Z7QJLWgNSBVgILToEtE5uXttyyACvceutWtHrr+CfhP1IFRPZPDReucr1SNuBLKemUWmoy6zzz/+PDnL9cV/oLLzdp0TUGSUQVRSK5UnPBS4o2E5FTAlnGTk5FYXW6dOJnleT2zo=;szz77yAR1iqARJVkm6kpdA=="
 ---
 

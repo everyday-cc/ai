@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/temperature-measurement-
 webUrl: "https://www.marketwatch.com/press-release/temperature-measurement-and-face-recognition-all-in-one-machine-market-global-outlook-and-forecast-2022-to-2028-2022-08-19"
 type: article
 quality: 28
-heat: -1
+heat: 28
 published: false
 
 provider:
@@ -21,31 +21,6 @@ provider:
 topics:
   - Computer Vision
   - AI
-
-related:
-  - title: "Global Voice Recognition Market Research Report 2022 (Status and Outlook) by Sales, Price, Revenue, Gross Margin, Market Size and Forecast to 2028"
-    excerpt: "Aug 23, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Voice Recognition Market\""
-    publishedDateTime: 2022-08-23T09:53:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-market-research-report-2022-status-and-outlook-by-sales-price-revenue-gross-margin-market-size-and-forecast-to-2028-2022-08-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence Market Size, business Share, Total Revenue rate of growth by Key Players Forecast until 2026 | 117 Insights Report"
-    excerpt: "Aug 23, 2022 (The Expresswire) -- \"\"Artificial Intelligence Market\"\" Insights 2022 By Types, Applications (, Network Optimization, Network Security,"
-    publishedDateTime: 2022-08-23T05:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-business-share-total-revenue-rate-of-growth-by-key-players-forecast-until-2026-117-insights-report-2022-08-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 13
 
 secured: "zw0jaOFpIInpEaNkkOxPc8rkuS4BSudbJeqipXRjhaAJX9W56+shmCwHCFg0dUkrhLbBT+541VrIvwc+qOhwEAYT1V3ch1RAaTBhVVCuWQAh6E5r23OgN/+N0JoFd9Q8IHA83FRkzFqZ05GRzXVe9b6NiauKoR20XTrJhNb+7IfjsyDVuzF01fWP6kCoYrpHoq3yz9GhfeFOoBCIuOwOJBDhnRlWcb3LuYn65r+ifhUzNxFsQ2kAQrkyfAyZ/1eZqrbxX/i4EMZeU2O/0G631Kvcb6X0auYF3w7y7pJQvYncZDCH64tqtUqyrkkw6bwMewZAN8sj/oKAIwK1dOoXDaRys4rmLEI8vSCPFOWvXxI=;EwfMRPxXYH/iljp159zBdg=="
 ---

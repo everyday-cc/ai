@@ -2,49 +2,6 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-08-07-a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence.md",
-      "title": "A bionic chip analyzes health data with brain-mimicking artificial intelligence",
-      "excerpt": "A team of US researchers have developed a flexible, stretchable computing chip that processes information by mimicking the human brain. The device, described in the journal Matter, aims to change the way health data is processed.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digit.in/news/general/a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence-64607.html",
-      "originalUrl": "https://www.digit.in/news/general/a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence-64607.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 145,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.digit.in/default/9965a991f124a48186e400c6cd712e646cb7c34d.jpeg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digit.in/article/amp/general/64607/a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence",
-      "cdnAmpWebUrl": "https://www-digit-in.cdn.ampproject.org/c/s/www.digit.in/article/amp/general/64607/a-bionic-chip-analyzes-health-data-with-brain-mimicking-artificial-intelligence",
-      "publishedDateTime": "2022-08-07T08:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digit",
-        "domain": "digit.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
       "path": "_news/2022-08-07-why-i-downclock-my-powerful-gpu-and-you-should-too.md",
       "title": "Why I downclock my powerful GPU, and you should too",
       "excerpt": "Let me explain. I appreciate that off the back of a GPU pricing crisis, which saw almost everyone unable to find a card like this (let alone afford it), that sounds super wrong. I’m lucky that ...",
@@ -1456,6 +1413,49 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-07-20-fibocom-launches-ai-smart-module-sca825-w-unleashing-the-potential-of-aiot-with-superior-computing-power.md",
+      "title": "Fibocom Launches AI Smart Module SCA825-W, Unleashing the Potential of AIoT with Superior Computing Power",
+      "excerpt": "The combination of AI and IoT has opened up new possibilities for industries requiring automated real-time decision-making and data analysis. The demand for 5G AIoT solutions is expected to skyrocket,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-8534a23541c6ab9feb351fbe8858cb40",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T03:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
       ]
     }
   ],

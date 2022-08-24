@@ -2,58 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-08-19-can-we-replicate-humanness-in-a-robots-behavior.md",
-      "title": "Can We Replicate Humanness In A Robot’s Behavior?",
-      "excerpt": "Researchers at Istituto Italiano di Tecnologia are looking at why its possible to create humanness in robotic behavior.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2022/08/18/is-it-possible-to-replicate-humanness-in-a-robots-behavior/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2022/08/18/is-it-possible-to-replicate-humanness-in-a-robots-behavior/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f3efa554d746cc809bd91b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2022/08/18/is-it-possible-to-replicate-humanness-in-a-robots-behavior/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2022/08/18/is-it-possible-to-replicate-humanness-in-a-robots-behavior/amp/",
-      "publishedDateTime": "2022-08-18T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-19-googles-deepmind-ai-can-transframe-a-single-image-into-a-video.md",
       "title": "Google’s DeepMind AI can ‘transframe’ a single image into a video",
       "excerpt": "Earlier this week, the team behind Google’s advanced DeepMind neural network unveiled a new ability dubbed Transframer, which allows AI to generate 30-second videos from a single image input. It’s a nifty little trick at first glance,",
@@ -1172,6 +1120,58 @@
       "topics": [
         "Machine Learning",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-intel-vp-talks-ai-strategy-as-company-takes-on-nvidia.md",
+      "title": "Intel VP talks AI strategy as company takes on Nvidia",
+      "excerpt": "Intel is on an AI mission to compete in the AI software and hardware space, according to Wei Li, VP and GM of AI and analytics at Intel.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/intel-vp-talks-ai-strategy-as-company-takes-on-nvidia/",
+      "originalUrl": "https://venturebeat.com/ai/intel-vp-talks-ai-strategy-as-company-takes-on-nvidia/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-664440974.jpg?w=1200&strip=all",
+          "width": 1024,
+          "height": 684,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/intel-vp-talks-ai-strategy-as-company-takes-on-nvidia/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/intel-vp-talks-ai-strategy-as-company-takes-on-nvidia/amp/",
+      "publishedDateTime": "2022-08-17T11:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
       ]
     }
   ],

@@ -19,6 +19,22 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "NVIDIA GTC to feature CEO Jensen Huang keynote announcing new AI and metaverse technologies, 200+ sessions with top tech business execs"
+    excerpt: "ARTIFICIAL INTELLIGENCE EVENT INVITE 19 SEPTEMBER 2022. NVIDIA will host its next GTC conference virtually from 19–22 September (20–23 in ANZ), featuring a news-packed keynote by founder and CEO Jensen Huang,"
+    publishedDateTime: 2022-08-24T04:29:00Z
+    webUrl: "https://itwire.com/business-it-news/data/nvidia-gtc-to-feature-ceo-jensen-huang-keynote-announcing-new-ai-and-metaverse-technologies,-200-sessions-with-top-tech-business-execs.html"
+    type: article
+    provider:
+      name: ITWire
+      domain: itwire.com
+    quality: 7
+    images:
+      - url: "https://itwire.com/images/authors-images/stanbeer/iTWire_TV_600x260.jpeg"
+        width: 600
+        height: 260
+        isCached: true
+
 secured: "UUWOrOCXo482cUhxWYXYpEqE1zpW5CNe4zEQnsK2rY+2midKHEPZDQNN2nEMs0E1Z5Wnk3ziLBV+wpdPV7lSzOB3N6fFSh4Lxi8lIndNDe106jPzFdqcBrXQS//Ym4TrsUx9ZFWcHCB+VNoMIlarA3L2UA1VRPjQTWL8oL6nndyTTVcyN2IRJfSdl9oCPseX9rrW+lscclC/ulx4RM65jRuX7Z17ZznUjxHZLHExMuZCOlJaETSs2rAmJfD4t1FVjWPMog/FE+ffRjZ5PB9bJb7LRq6EneQDkh3vX/WZk6LOyiQMspWXpJ3EZGBnFiusWXvdesijVydWkNi86Y+40BRXgtroIKWO+fQ28CLCPZY=;n+b5HqgVTqi4QrC4796tvQ=="
 ---
 

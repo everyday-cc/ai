@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence (AI) for Security Market Size, Share, Growth, 2022 Key Players, Revenue, Trends, Opportunities and Regional Forecast to 2028"
+    excerpt: "Global “Artificial Intelligence (AI) for Security Market” (2022) report provides the detailed study of business"
+    publishedDateTime: 2022-08-23T09:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-for-security-market-size-share-growth-2022-key-players-revenue-trends-opportunities-and-regional-forecast-to-2028-2022-08-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Europe Artificial Intelligence In Retail Market Size, Analytical Overview, Growth Factors, Demand and Trends Forecast to 2027"
     excerpt: "According to the research report titled 'Europe Artificial Intelligence in Retail Market Forecast 2027 By Application, By Component, By Technology, Research Report, Country Outlook, COVID-19 Impact Statistics,"
     publishedDateTime: 2022-08-22T13:55:00Z
@@ -57,6 +71,20 @@ related:
     excerpt: "Global Artificial Intelligence in Law Market report has recently added by Infinity Business Insights which helps"
     publishedDateTime: 2022-08-19T15:02:00Z
     webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-2022-key-regions-comprehensive-analysis-growth-drivers-and-forecast-to-2028-aibrain-amazon-anki-2022-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 50
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Deep Learning Chip Market Size 2022-2028, Organization Growth, Industry Share, Upcoming Trends, Key Dynamics, Opportunities, Top Manufacturers"
+    excerpt: "The global “Deep Learning Chip Market” report includes upcoming growth trends, restraints, drivers, key dynamics size"
+    publishedDateTime: 2022-08-22T12:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-2022-2028-organization-growth-industry-share-upcoming-trends-key-dynamics-opportunities-top-manufacturers-2022-08-22"
     type: article
     provider:
       name: MarketWatch
@@ -109,15 +137,70 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Research and Markets: Europe Robotic Lawn Mower Market to Reach $1.25 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The Europe robotic lawn"
-    publishedDateTime: 2022-08-22T11:32:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56865346-research-and-markets-europe-robotic-lawn-mower-market-to-reach-dollar-1-25-billion-by-2027-researchandmarkets-com-004.htm"
+  - title: "Global Voice Recognition Market Research Report 2022 (Status and Outlook) by Sales, Price, Revenue, Gross Margin, Market Size and Forecast to 2028"
+    excerpt: "Aug 23, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Voice Recognition Market\""
+    publishedDateTime: 2022-08-23T09:53:00Z
+    webUrl: "https://www.marketwatch.com/press-release/global-voice-recognition-market-research-report-2022-status-and-outlook-by-sales-price-revenue-gross-margin-market-size-and-forecast-to-2028-2022-08-23"
     type: article
     provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 33
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Artificial Intelligence Supply Chain Market 2022 Key Dynamics, Regional Insights, Growth Statistics and Business Strategies by 2028"
+    excerpt: "The Global Artificial Intelligence Supply Chain Market 2022 by Company, Regions, Type and Application, Forecast"
+    publishedDateTime: 2022-08-21T19:45:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-supply-chain-market-2022-key-dynamics-regional-insights-growth-statistics-and-business-strategies-by-2028-2022-08-21"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+  - title: "Artificial Intelligence in Energy Market 2021 Huge Demand, Growth Opportunities and Expansion by 2025"
+    excerpt: "Global \"Artificial Intelligence in Energy Market\" in the forecast period of 2022-2025. Artificial Intelligence in"
+    publishedDateTime: 2022-08-23T08:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-2021-huge-demand-growth-opportunities-and-expansion-by-2025-2022-08-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+  - title: "Artificial Intelligence Market Size, business Share, Total Revenue rate of growth by Key Players Forecast until 2026 | 117 Insights Report"
+    excerpt: "Aug 23, 2022 (The Expresswire) -- \"\"Artificial Intelligence Market\"\" Insights 2022 By Types, Applications (, Network Optimization, Network Security,"
+    publishedDateTime: 2022-08-23T05:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-business-share-total-revenue-rate-of-growth-by-key-players-forecast-until-2026-117-insights-report-2022-08-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 13
+  - title: "Artificial Intelligence-based Cybersecurity Market Size From 2022 To 2025 And Unlimited Opportunities for New Companies and Latest Developments"
+    excerpt: "The Artificial Intelligence-based Cybersecurity report understands the current and future competitive scenario across types, countries, and applications.It provides accurate, up-t"
+    publishedDateTime: 2022-08-23T08:58:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-cybersecurity-market-size-from-2022-to-2025-and-unlimited-opportunities-for-new-companies-and-latest-developments-2022-08-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 11
+  - title: "Global Social Robots Market Report (2022 to 2027) - Industry Trends, Share, Size, Growth, Opportunity and Forecasts - ResearchAndMarkets.com"
+    excerpt: "The global social robots market size reached US$ 2.6 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 13.3 Billion by 2027, exhibiting a CAGR of 31.26% during 2021-2027."
+    publishedDateTime: 2022-08-23T10:36:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/covid-technology-health-robotics-4b17d57561be47bc829b850f140e63e1"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "AoeYmaXV8Y5gnLyZtP0FfKZoCKlsTmWPEz2mr48vOsRbmXYKsX4lk/gn/Gvnhk9pSCRRJZk2oFDQJKsjf5shPQe/I5eaOASFfhB1GsaNtfZDb3sWIyCHcmIQ/xUz+GnRd6s1QlfW8hcFZd0wvoQZEJBKi8uQvqzkm5s3Sh+LUgJL5PGyM3iRk2kVJtsUEAgMEYGQCuvafGNd7LsDHsKIeVrZVwj3+KQ9LcuN6yZzZix7wJdoDL1xfUCYDq6OG8YPP82QfYTgEWmMYcI1jS0jRV8oNBMzAXYB/cKXlsrc2MO/3Q54fHhjkeXbZxktTbP6uytCWtlB1IyS88rdkOmxEZUI6jsmt39/Z8bp1bNjjvM=;sVGqkZNsQNldEKNHR8Yp3A=="
 ---

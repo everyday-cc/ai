@@ -8,8 +8,8 @@ webUrl: "https://www.nextplatform.com/2022/08/23/inside-teslas-innovative-and-ho
 ampWebUrl: "https://www.nextplatform.com/2022/08/23/inside-teslas-innovative-and-homegrown-dojo-ai-supercomputer/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/08/23/inside-teslas-innovative-and-homegrown-dojo-ai-supercomputer/amp/"
 type: article
-quality: 74
-heat: 84
+quality: 76
+heat: 86
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Autos
+  - AI Hardware
 
 images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/08/tesla-dojo-logo.jpg"
@@ -42,6 +43,6 @@ related:
         height: 545
         isCached: true
 
-secured: "msJjCYu3jUY13pagW1UIx1FA6S5xc0jgJNWQGJYVgOII2rdecv1JsB5vIZiVnzBZSVCKDU8c+D1lEjvk8u1Us/eOIB+4NX748gXW/X8GAZ36oUj0BBamKLgv49QAjIlTIugJ7XYD8HpeW9yAcOEtA5qF5Tn1oW0VNb59YmcHo0yBUNXeO/EsBjtxXV2z2XpPzLE9pqkvDcSoCZZuPp1wiiOBWdLcHZIrXZqw9/y4h5dfJAmOhqU2Q6GhbkoQKy6UPQt6hgJqBf6cq68hHgkCv/lXbxGrsqjag5kOBxttRDxGmq5xN/UNsOVobrQ0QrQ9L6aTSfbnzQznacqAvo2G9Aar/igccPxLvCgG2hNzUNA=;50fbpPsxEJZ5xpw6c5wzEw=="
+secured: "19r7n+mnQ4YO33l1fG4sNd+kIYlC2J/xE8Ga/Yr77vvSm/KftAsvMBXTvsF52LLPqrT5T0gZt2/X2vjyJtw8mp7DeKFOK7Nv7f71Wk7fC1jN6Yg5AqAWdkzubT/pxKtSk7FTpx3UqfC4i12JaXubY6WOI7dT0nS4gqGPtFNuq2ZLTikvJrB+yU+3cce+vKJrWZZtoj1/Dt2LuYC72Sc5y8ySMtUJpH8t805uYREZNytJ+u0ZhdQtBfbnPZOyyLlx4pyCQn+jtWfu8Sl9SoDo7IuAVZkMLWDl1TUhurLniRquV3biFtcBUZeFIodr6+pNwX2+ZJ1JpmyBLaQl8e2l5kyrc/9Ekh/3bhcmIppHUCcrcL4XEymGX3J76rnoEZQu8yDBDTUcK/rhenbdE13Q+TKN8NnLnsOT4m8Oohywib55U4Jnm4cUT6hMNdop1PK9/KV6zdqmv4uvjO4rtXBVZfuAMkiHu17aLbpNYblu3DVsCOIXdes0On5cF/88KsyiKK+oWuX7eOFtRj7YuhSHBg==;S9Jlr5KuTn4D6Cu/ilru7Q=="
 ---
 

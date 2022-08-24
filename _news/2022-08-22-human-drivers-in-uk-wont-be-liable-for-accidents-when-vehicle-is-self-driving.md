@@ -109,22 +109,6 @@ related:
         width: 900
         height: 506
         isCached: true
-  - title: "UK pushes back self-driving cars, unlocks funding for more research"
-    excerpt: "The Department for Transport said it wants new legislation to allow for a wide rollout of self-driving vehicles by 2025, with £34mln"
-    publishedDateTime: 2022-08-19T11:03:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/990567/uk-pushes-back-self-driving-cars-unlocks-funding-for-more-research-990567.html"
-    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/990567"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/990567"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 44
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA4XC8yMDIyLTA4LTE5LTEyLTAxLTMxLThjNTRmMmViODY4ZDY5MjQxMmIyYjg4NGUyMTE3Njg4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
-        width: 1200
-        height: 740
-        isCached: true
   - title: "Proposed UK Law: Humans Not Liable for Self-Driving Vehicle Accidents"
     excerpt: "Self-driving cars could begin operating on major UK highways within the next year ahead of wider 2025 rollout, but humans won't be liable for accidents that occur when the vehicle is in control, according to proposed regulations."
     publishedDateTime: 2022-08-22T13:38:00Z
@@ -218,24 +202,6 @@ related:
         width: 400
         height: 300
         isCached: true
-  - title: "Self-driving cars to hit UK roads by 2025 under government plans"
-    excerpt: "UK Transport Secretary has announced a £100m investment to boost the rollout of autonomous vehicles on the country's roads."
-    publishedDateTime: 2022-08-19T12:07:00Z
-    webUrl: "https://eandt.theiet.org/content/articles/2022/08/self-driving-cars-to-hit-uk-roads-by-2025-under-government-plans/"
-    type: article
-    provider:
-      name: IET
-      domain: theiet.org
-    quality: 4
-  - title: "Self-driving vehicles could be on UK roads 'next year' creating thousands of jobs"
-    excerpt: "The Department for Transport said the self-driving industry could create up to 38,000 jobs and be worth £42 billion."
-    publishedDateTime: 2022-08-19T11:53:00Z
-    webUrl: "https://www.dailyrecord.co.uk/lifestyle/motoring/self-driving-vehicles-could-uk-27782365"
-    type: article
-    provider:
-      name: Daily Record
-      domain: dailyrecord.co.uk
-    quality: 0
 
 secured: "Rb6ltW9ezzwZNWUFiQe3UMGeZrma+U+fo4fSZ6fhgaiIvC6dBob+UueOzRjSXVHGAFa2hw4wSoFY/gdVr7KIIyit1djDHwgiGkmB9i0S1AHils16ev34TRlBhVP+GwdKYd+bhLICAU9/wwCqIkBwyf6/tGZUh5CEj3I6eVpVnW/q/pi9TSCMlXWJhLsVu1l858L6LU69t4D1eQ20LjNIV40Umgewlp5XwjOQictgMuQIM7WORz8sonOdCeaOx9nWdFDda11bOVGyUk69UzeykFDZ9wvU+0KR2PnkVMUd3Fb0+H6p0bzLiSz+SwJtqknq/xR3us7sPctsw7VBALQ3aJlTBAt0C2zmd9mHUdy/Vc/ZzbhdTXXbH6CwyUyRYt99ud+VXrRConghRvuB3zRlyz0ZeW0IPPwdlR0XEL+R9TbIBtPYYZZCII6scljXjAwrRb5qyD11piRaWJnGYdo3MgYJt1yIp/7X0FGYBEGmJhlt3fJW6cxHYwKvSHBpBIipnwX4EMOT8cnvtawouwHRrQ==;91dGEy2IeCPCq8EajXQW3w=="
 ---

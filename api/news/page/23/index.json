@@ -2,49 +2,6 @@
   "page": 23,
   "value": [
     {
-      "path": "_news/2022-08-02-traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.md",
-      "title": "Traceable AI adds eBPF to security platform for deeper API observability and visibility",
-      "excerpt": "API security firm says eBPF will be used to map the API attack surface area of customers, addressing key API security challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.html",
-      "originalUrl": "https://www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2019/11/cso_api_security_alert_software_development_flow_chart_diagram_by_spainter_vfx_gettyimages-912158954_2400x1600-100817487-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.amp.html",
-      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3668908/traceable-ai-adds-ebpf-to-security-platform-for-deeper-api-observability-and-visibility.amp.html",
-      "publishedDateTime": "2022-08-01T21:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CSOonline",
-        "domain": "csoonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
       "path": "_news/2022-08-02-activision-blizzard-hits-financial-targets-with-q2-bookings-of-164b.md",
       "title": "Activision Blizzard hits financial targets with Q2 bookings of $1.64B",
       "excerpt": "Activision Blizzard reported that its Q2 bookings hit $1.64 billion, slightly better than expected by analysts, while earnings hit the mark exactly.",
@@ -1145,6 +1102,49 @@
       ],
       "topics": [
         "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-robots-help-farmers-say-goodbye-to-repetitive-tasks.md",
+      "title": "Robots help farmers say goodbye to repetitive tasks",
+      "excerpt": "We do not often think about the labor that goes into bringing our favorite fruits and vegetables to our table. For farmers, growing healthy crops involves repetitive tasks such as weeding and spraying while the crop is growing.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-08-robots-farmers-goodbye-repetitive-tasks.html",
+      "originalUrl": "https://phys.org/news/2022-08-robots-farmers-goodbye-repetitive-tasks.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/robots-help-farmers-sa.jpg",
+          "width": 688,
+          "height": 516,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-08-robots-farmers-goodbye-repetitive-tasks.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-robots-farmers-goodbye-repetitive-tasks.amp",
+      "publishedDateTime": "2022-08-01T06:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

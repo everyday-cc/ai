@@ -16,11 +16,11 @@ topics:
   - AI
 
 images:
-  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/0133800f8469e4d6b3fd83c806c59bb6c1de303c-600x337.jpg"
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/82d625d22a4478f1ab026b48cafea9d5054dc2c1-600x337.jpg"
     width: 600
     height: 337
     isCached: true
 
-secured: "qIrI7wBYUiBQduUq95Yk7Nk8Xldn20UHy0rpjoulcXhahN1iGJhLFlaWxDmRZR6gWeoFbA7L5DdtdWbIRqeUg2uNAR5j6fpxmlfITWopeY61hBcIyZkzlAJoeg387zazdmX9oYvyd1fVxa7EKcm9nLNJk6wr8J2IDbTnQhYTSFjUq9Qh/GoQGoLbS2k+f3mLmdg1Rh5xvmFTvjgGaoUEUQxOcGv+kzsG4xhsKpMslsgEQmw+7KYXFMzcjLNWCJbJwIjBoGHZxqJm1M9oS0GSZEpZs9wAXkQMLQaKWYqFjVMqSzqqL0vBtbpD6+gxF3TgZuEmJvSbzZOomPT2N+7/jsccNXzaDsF6GMwg4ZNe7U8=;5Jvzn5kLaq5WvUfOUzM7kw=="
+secured: "Egx41zBnk/4tyAWOpkH2bV+MnIWdDcMuC41XeqIWYZ/1oy+ZYLxU9jwvfA6jyZh6CjuvhoNaq8NEGGcGK77ZPQPYxoyssGNl9eXrQgbfXSKS6A2Hnafga3E1MmyWxZtTa+DSsSYMgqsLoIWeo8VpW2Jo03ExLrcEmKNC7j+MPHUhwrMIMzAoBQGKC1lIypcvilCxg3KZoW+4wYJtlNvLxrZn1zOfsBnzBznl/OQdboPVSOzQDoX8Zm8KG7RBXp/7dxdAzJNTO1j28p1b4ywz/UjnB1BzJU3hsFrRh7w4P2mLfJ5jpjeYNKKJpCuXCzPh+E6RdbDALI/hmcI1yKMUf9CFQxJavUSRZsdcgymXpb8=;FjYK4Gj/thONZMnK9jQ9lg=="
 ---
 

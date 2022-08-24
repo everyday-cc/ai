@@ -2,49 +2,6 @@
   "page": 57,
   "value": [
     {
-      "path": "_news/2022-07-04-deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are.md",
-      "title": "Deepmind’s New AI May Be Better at Distributing Society’s Resources Than Humans Are",
-      "excerpt": "The problem of how humans should redistribute the wealth they create has plagued philosophers, economists, and political scientists for years.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/",
-      "originalUrl": "https://singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/07/human-resources-g52f502e44_1280.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/07/04/deepminds-new-ai-may-be-better-at-distributing-societys-resources-than-humans-are/?amp=1",
-      "publishedDateTime": "2022-07-04T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-04-obsbot-tiny-4k-is-a-petite-uhd-webcam-with-ai-powered-tracking.md",
       "title": "OBSBOT Tiny 4K is a petite UHD webcam with AI-powered tracking",
       "excerpt": "Webcams aren't generally smart, but the OBSBOT Tiny 4K UHD webcam is, thanks to AI-powered tracking and autofocus support. Learn more about it.",
@@ -1078,6 +1035,58 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-03-sound-and-word-recognition-for-android.md",
+      "title": "Sound and word recognition for Android",
+      "excerpt": "This tutorial shows you how to use TensorFlow Lite with pre-built machine learning models to recognize sounds and spoken words in an Android app. Audio classification models like the ones shown in this tutorial can be used to detect activity, identify ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/lite/android/tutorials/audio_classification",
+      "originalUrl": "https://www.tensorflow.org/lite/android/tutorials/audio_classification",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-02T11:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
         "AI"
       ]
     }

@@ -56,6 +56,20 @@ related:
         width: 750
         height: 422
         isCached: true
+  - title: "Hyundai Establishes Boston Dynamics AI Institute"
+    excerpt: "Hyundai establishes Boston Dynamics AI Institute . August 23, 2022 by Mark Allinson Leave a Comment . Hyundai Motor Group have launched the Bo"
+    publishedDateTime: 2022-08-24T04:42:00Z
+    webUrl: "https://menafn.com/1104744734/Hyundai-Establishes-Boston-Dynamics-AI-Institute"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 39
+    images:
+      - url: "https://menafn.com/updates/pr/2022-08/23/R&AN_1be59image_story.png"
+        width: 800
+        height: 984
+        isCached: true
 
 secured: "MHKm4Jeb7I30Fn6Z45WrmJpwxj1nTBPmK62h+q/pvMA5VtdQTcV3bV3gx4DM90duTXRUIsAoAzsx9rB7TqnKTroq8FXdEsjADYPE/xYbvSTEtpy7PTkEhy3l7ay6KPbVIaMuuWkBweWY8lOHy/KezrXWA9mAtw5NaF0Fx/Eow+GGuK9eYq3PyUWMabXi0AK0iJvdwZzVJH3kBuABv9IUCsFQGvdkkWWtTFyrqjvWH5vt8YGBDAp/5OrUd1/4SO9SZvQIrHrWmb52L6ZIhUlFPvZxYcQMIsr7dIVPcBjzVATWl0GIJySmDewvKw88Z7Rhl3amihSzlPinSEMiDkq3Tt5DciXQFUQVj6M5nucx3lcEZeJEQaUMtNqjt7LRJ3T/F2Nv/WMcUJSA46cDdhulEjhgv964WmRjf8qz7XcoGKN429w1n9g9SRmizCmkPKVPj/WFeya7qrRShTW5lA/VCcB7MbtroCMTdqubI0s/bxP1p0TEdFxdaPlavMo30fDhFlfzVaMC84FHKnClmRfGdQ==;km/elxhTB8xusZDQXj96pQ=="
 ---
