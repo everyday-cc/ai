@@ -33,15 +33,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 45
-  - title: "Inworld AI raises $50M to populate games and the metaverse with smart characters"
-    excerpt: "Inworld AI has raised $50 million for its developer platform for creating AI-driven virtual characters in video games and the metaverse."
-    publishedDateTime: 2022-08-23T12:28:00Z
-    webUrl: "https://venturebeat.com/game-development/inworld-ai-raises-50m-to-populate-games-and-the-metaverse-with-smart-characters/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 44
   - title: "A Mountain View startup that helps companies build virtual characters raised a $50M Series A"
     excerpt: "A startup specializing in virtual characters for games has raised some real and serious cash. Inworld AI announced Tuesday it's raised $50 million in a Series A round. Since it was founded a little more than a year ago, the Mountain View company has now ..."
     publishedDateTime: 2022-08-23T22:02:00Z

@@ -29,17 +29,6 @@ images:
 related:
   - title: "Amazon testing TikTok-style feed on its app, AI firm says"
     excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."
-    publishedDateTime: 2022-08-19T23:05:00Z
-    webUrl: "https://www.star-telegram.com/news/nation-world/national/article264624466.html"
-    ampWebUrl: "https://amp.star-telegram.com/news/nation-world/national/article264624466.html"
-    cdnAmpWebUrl: "https://amp-star--telegram-com.cdn.ampproject.org/c/s/amp.star-telegram.com/news/nation-world/national/article264624466.html"
-    type: article
-    provider:
-      name: Fort Worth Star-Telegram
-      domain: star-telegram.com
-    quality: 39
-  - title: "Amazon testing TikTok-style feed on its app, AI firm says"
-    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."
     publishedDateTime: 2022-08-21T04:42:00Z
     webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article264624466.html"
     ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article264624466.html"
@@ -49,6 +38,20 @@ related:
       name: The Sun News
       domain: myrtlebeachonline.com
     quality: 37
+  - title: "TikTok’s viral AI death prediction trend is truly scary"
+    excerpt: "A new scary trend allows TikTok users to get a 'prediction' of their own deaths using artificial intelligence."
+    publishedDateTime: 2022-08-24T16:25:00Z
+    webUrl: "https://www.dexerto.com/entertainment/tiktoks-viral-ai-death-prediction-trend-is-truly-scary-1913242/"
+    type: article
+    provider:
+      name: Dexerto.com
+      domain: dexerto.com
+    quality: 37
+    images:
+      - url: "https://editors.dexerto.com/wp-content/uploads/2022/08/24/dexerto-feature-images-with-correct-dimensions-28.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "Facebook is losing its grip as a ‘Top 10’ app as BeReal and TikTok grow"
     excerpt: "Facebook this year has been struggling to maintain its position among the Top 10 apps on the U.S. App Store, according to an analysis of iPhone"
     publishedDateTime: 2022-08-22T03:32:00Z

@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Inworld AI raises $50M to populate games and the metaverse with smart characters"
-    excerpt: "Inworld AI has raised $50 million for its developer platform for creating AI-driven virtual characters in video games and the metaverse."
-    publishedDateTime: 2022-08-23T12:28:00Z
-    webUrl: "https://venturebeat.com/game-development/inworld-ai-raises-50m-to-populate-games-and-the-metaverse-with-smart-characters/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 44
   - title: "Qloo, the Leading Artificial Intelligence Platform for Culture and Taste Preferences, Raises $15M in Series B"
     excerpt: "Qloo, the leading artificial intelligence platform for culture and taste preferences, announced today that it has raised $15M in Series B funding from Eldridge and AXA Venture Partners. This latest round of funding brings Qloo’s total capital raised to $30M,"
     publishedDateTime: 2022-08-23T15:02:00Z

@@ -23,38 +23,38 @@ topics:
   - AI
 
 related:
-  - title: "Disney-backed Inworld raises new cash for its AI-powered virtual characters"
-    excerpt: "Inworld, which is developing a platform that allows customers to create AI-powered virtual characters with personality and common knowledge, has raised $50 million in a new venture round."
-    publishedDateTime: 2022-08-23T13:17:00Z
-    webUrl: "https://techcrunch.com/2022/08/23/disney-backed-inworld-raises-new-cash-from-for-its-ai-powered-virtual-characters/"
+  - title: "Jobs in the metaverse: This AI startup founder wants to change the future of work"
+    excerpt: "Adam Turaev, the founder of Praktika.ai, an AI-based learning platform, believes the metaverse will remove barriers in workplace. He is striving to help non-native English speakers — or their avatars — to be hired by the international companies."
+    publishedDateTime: 2022-08-24T15:45:00Z
+    webUrl: "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/"
+    ampWebUrl: "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/amp/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 45
-  - title: "Qloo, the Leading Artificial Intelligence Platform for Culture and Taste Preferences, Raises $15M in Series B"
-    excerpt: "Qloo, the leading artificial intelligence platform for culture and taste preferences, announced today that it has raised $15M in Series B funding from Eldridge and AXA Venture Partners. This latest round of funding brings Qloo’s total capital raised to $30M,"
-    publishedDateTime: 2022-08-23T15:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-ff592ea3291240c9ab4c46631a3da560"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
+      name: Impacts
+      domain: techbullion.com
+    quality: 52
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
+        width: 735
+        height: 552
         isCached: true
-  - title: "A Mountain View startup that helps companies build virtual characters raised a $50M Series A"
-    excerpt: "A startup specializing in virtual characters for games has raised some real and serious cash. Inworld AI announced Tuesday it's raised $50 million in a Series A round. Since it was founded a little more than a year ago, the Mountain View company has now ..."
-    publishedDateTime: 2022-08-23T22:02:00Z
-    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2022/08/23/mountain-view-based-startup-raises-50m-series-a.html"
+  - title: "Jobs in the metaverse are disappearing as Google and Facebook slow hiring"
+    excerpt: "USA: Employment in the metaverse is declining, according to workplace research firm Revalio Labs. According to Revlio, new monthly job posti..|News Track"
+    publishedDateTime: 2022-08-21T10:06:00Z
+    webUrl: "https://english.newstracklive.com/news/jobs-in-the-metaverse-are-disappearing-as-google-and-facebook-slow-hiring-sc57-nu355-ta355-1245982-1.html"
+    ampWebUrl: "https://english.newstracklive.com/ampnews/jobs-in-the-metaverse-are-disappearing-as-google-and-facebook-slow-hiring-sc57-nu355-ta355-1245982-1.html"
+    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/jobs-in-the-metaverse-are-disappearing-as-google-and-facebook-slow-hiring-sc57-nu355-ta355-1245982-1.html"
     type: article
     provider:
-      name: The Business Journals
-      domain: bizjournals.com
-    quality: 6
+      name: News Track
+      domain: newstracklive.com
+    quality: 43
+    images:
+      - url: "https://media.newstrack.in/amp/uploads/latest-news/politics-news/Aug/21/big_thumb/Screenshot-2022-08-21-152246_6302007ed76aa.png"
+        width: 1798
+        height: 900
+        isCached: true
 
 secured: "HIMv288qvWOz9F7VZLvjbraj8cpwCFPww7oghQTmWWhnpf7p4Q+mwQg1Oa8lLCjCGLEDuoZt0sIzVxXzY0pxaXfgfilBLYUcXuISGYyn6Fn7iu889/F+Z/8zvxg5PYFhALi0X/Ix5eH0kuU1sTOI1H7JdCG7P2DFc3jlasmCwTaaNuw2bnxAhirMmMEhu/fv8WGEtFJ5TVel4dfiDokVy7FKGf+zA1ChOyjNLyZMLaxcC6xgxrvQiAvwZVAFCHgw9+0LyJFyi9kMuNN/dUrduQmryy4Y6mfLlHoq9+PUTfQ9W6bd6t+vO5Os7ka+umxHzSAG6QhW5lsYXYdTd9Lr9pH+f3NgTMmdJ2dDUOjHeMxd+tCYU2pCAi94Bjj9NymFIiTRQjIN/Tjhgot0B3kYIWKosAyDm7yFMLS+Y1Pvx8RFjYOrBe0p+OSaA7/kYHoivVFGRj3KvmTrAAGFFT63BpnY8rv65ttgx+3fF964Dmtdhv/tVsgYUjgiwECOrmpu1ZsJ1wyGK9Ok8e0QC3AmWw==;VgfmD+KzPr8hbDo51n3BfQ=="
 ---

@@ -47,6 +47,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Elon Musk tells early Tesla Full Self-Driving Beta testers not to complain"
+    excerpt: "Elon Musk has told an early Tesla Full Self-Driving Beta tester not to complain about the new FSD Beta update. Isn’t that kind of their job? A job that not only they are not paid for, but that Tesla is paying for? FSD Beta enables Tesla vehicles to drive ..."
+    publishedDateTime: 2022-08-24T17:10:00Z
+    webUrl: "https://electrek.co/2022/08/24/elon-musk-tells-early-tesla-full-self-driving-beta-testers-not-complain/"
+    ampWebUrl: "https://electrek.co/2022/08/24/elon-musk-tells-early-tesla-full-self-driving-beta-testers-not-complain/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/24/elon-musk-tells-early-tesla-full-self-driving-beta-testers-not-complain/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 102
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/05/Elon-Musk-Game-of-Thrones-FI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Tesla’s Full-Self Driving software is going up in price again"
     excerpt: "Tesla’s increasing the price of its Full-Self Driving (FSD) software to $15,000. In a post on Twitter, Tesla CEO Elon Musk announced that the new price will go into effect in North America starting September 5th,"
     publishedDateTime: 2022-08-21T16:42:00Z

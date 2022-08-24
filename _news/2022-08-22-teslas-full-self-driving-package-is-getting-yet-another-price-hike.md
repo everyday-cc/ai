@@ -41,6 +41,22 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Elon Musk tells early Tesla Full Self-Driving Beta testers not to complain"
+    excerpt: "Elon Musk has told an early Tesla Full Self-Driving Beta tester not to complain about the new FSD Beta update. Isn’t that kind of their job? A job that not only they are not paid for, but that Tesla is paying for? FSD Beta enables Tesla vehicles to drive ..."
+    publishedDateTime: 2022-08-24T17:10:00Z
+    webUrl: "https://electrek.co/2022/08/24/elon-musk-tells-early-tesla-full-self-driving-beta-testers-not-complain/"
+    ampWebUrl: "https://electrek.co/2022/08/24/elon-musk-tells-early-tesla-full-self-driving-beta-testers-not-complain/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/24/elon-musk-tells-early-tesla-full-self-driving-beta-testers-not-complain/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 102
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/05/Elon-Musk-Game-of-Thrones-FI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk says Tesla is raising price of ‘Full Self-Driving’ feature to $15,000"
     excerpt: "Elon Musk on Sunday announced the price of Tesla Inc.’s “Full Self-Driving” feature will rise by 25% next month, from $12,000 to $15,000. “After wide release of FSD Beta 10.69.2, price of FSD will rise to $15k in North America on September 5th ..."
     publishedDateTime: 2022-08-22T14:08:00Z

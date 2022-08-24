@@ -130,6 +130,20 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "AI Uses Nocturnal Breathing Patterns to Detect Parkinson's Disease"
+    excerpt: "An artificial intelligence-enabled system incorporates nocturnal breathing signals to diagnose Parkinson's disease -- and could be a new biomarker for the condition, new research suggests."
+    publishedDateTime: 2022-08-24T17:22:00Z
+    webUrl: "https://www.medscape.com/viewarticle/979684"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 37
+    images:
+      - url: "https://img.medscape.com/thumbnail_library/shs_220824_old_man_sleeping_800x450.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Scientists invent device that can detect Parkinson’s disease when you’re asleep"
     excerpt: "Scientists have developed a device that can detect the presence of Parkinson’s disease — one of the fastest-growing neurological conditions in the world. Parkinson’s disease is notoriously difficult to diagnose as it relies primarily on the appearance of motor symptoms such as tremors,"
     publishedDateTime: 2022-08-23T15:58:00Z

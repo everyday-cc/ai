@@ -19,16 +19,21 @@ topics:
   - AI
 
 related:
-  - title: "Govt keen to use AI in e-Marketplace: Goyal"
-    excerpt: "Union Minister Piyush Goyal on Tuesday said the Centre is keen to use Artificial Intelligence in the Government e-Marketplace procurement process to make it more effective and sought industry cooperation to achieve this."
-    publishedDateTime: 2022-08-23T18:40:00Z
-    webUrl: "https://www.dailypioneer.com/2022/business/govt-keen-to-use-ai-in--e-marketplace--goyal.html"
+  - title: "Passenger Vehicle Voice Recognition Market 2022 Business Scenario, Corporate Profiles, Size and Dynamic Innovation by 2028"
+    excerpt: "According to a recent study by MarketsandResearch.biz the report Global Passenger Vehicle Voice Recognition Market is expected to rise, particularly between 2022 and 2028. The data projects a market share evaluation of quantities for the projection period."
+    publishedDateTime: 2022-08-24T09:23:00Z
+    webUrl: "https://www.marketwatch.com/press-release/passenger-vehicle-voice-recognition-market-2022-business-scenario-corporate-profiles-size-and-dynamic-innovation-by-2028-2022-08-24"
     type: article
     provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 17
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 28
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
-secured: "6K4oh4F7b3Ge4P81Bsx5hKVKD3YTU1u6+Jm/7+rUQADg3NDmIGurPzSbfHF+vfGGg1rr4eNB30NRx+qCo5QU7VwxVTNnAH1ihmPbzmocRFPHnP00eSIb+f9sk1B9Zt65uSFekRR8IcBedMHF3fybZxHJuB+SsLH/xebZAnRgQlqFUZoEvJxk7LHkJA9+2cNUvpLinooKTToSexQ6M1n5gBoFz8QHRVJz1H9a7bTTl166p1ZO/ygFvYBva2rWvq3w4M6uypOGmotYkprbBIPpLPr2/TEpgaARLDuG+Ie8niFeFqkguJMdnxwP5jc6+LuvS7hpNAJ7jQ1+/uHrbMxHt1yGFtcpgqY88gAXgBNbdlVIRpEhk46QYzHTHSAM6YUv3HKOsdsFPDJ0ymCWqdeoFdVb0d8T2S3nnsvMEgQRm8B8M0xxusJcGuBlJSfih2wsVEmju+h6gwI0teyK0pUDzHx5RlnIKvtodtIpIGe5Y/kEHtuZzukr3kc85wFGQQ0Zeb+lnMmZBJW9977RMufhMQ==;ohyYxTcEeiKd3j7/ZMd1xQ=="
+secured: "bhhiAFfdNEDwyUFeEex8BMPXhGgbZAARQhOQT7QcrpLaRm8HAywCF/4N2Mg9z74qXwXB+/EFxi4MXrbtucxDAM7mwGN4QgO7rlUaScdqVxGp3HHhLZohWMfhKabE2uo1pszh987Qg7yU4QOta561UzuS6J5RAwGsp+zlE1ZwLtaWXzWnh1XCjBXluxmKOOXm/PwXtHD6zP9HEJaCufAS3li+KW9nkrAXnMIfxcp0ETC8X8cXsr4/0wuXiMW3ZG6FoDDibM7xXSmdyg+Cybxyu6vy5stN/XD4F/WWyADQ61x6LWhL4j53bOWwmMb2VZeXdBirHRaun9VTLQl0szh3KNpJbjDl2j25KyJLzIXhOMU6Xd5eSl754/QBquHte4QLpdN9fb9wcfZq01/Q+5kpqh5IVielgxjiqrA5q8zzuoJ6neWDE3yaYl6aOj6e3ZoJzh6NObT/kDdpEJhpXhO6liuWAKX6Xbx0udW/4eVKzOQTsRdu+112nfqBgNDKMIHq62E867r1coLfsLR1KrBJrw==;PlCH6/+w+5z3uCZykNUVMw=="
 ---
 

@@ -1,0 +1,41 @@
+---
+category: news
+title: "Intel introduces Data Center GPU Flex series (Arctic Sound-M)"
+excerpt: "Delivering 5x media transcode throughput performance and up to 68 simultaneous cloud gaming streams, Flex Series GPU is designed to meet the requirements for intelligent visual cloud"
+publishedDateTime: 2022-08-24T16:51:00Z
+originalUrl: "https://www.guru3d.com/news-story/intel-introduces-data-center-gpu-flex-series-(arctic-sound-m).html"
+webUrl: "https://www.guru3d.com/news-story/intel-introduces-data-center-gpu-flex-series-(arctic-sound-m).html"
+type: article
+quality: 19
+heat: -1
+published: false
+
+provider:
+  name: Guru3D.com
+  domain: guru3d.com
+
+topics:
+  - AI Hardware
+  - AI
+
+related:
+  - title: "Intel Launches Flex Series Arctic Sound-M GPU For Visual Cloud Workloads"
+    excerpt: "Intel's Arctic Sound has finally made its way to market. Intel just formally introduced the datacenter GPU, now known properly as the \"Data Center GPU Flex Series.\" The cards, which come in at least two variants,"
+    publishedDateTime: 2022-08-24T16:10:00Z
+    webUrl: "https://hothardware.com/news/intel-launch-arctic-sound-m-data-center-gpu-flex-series"
+    ampWebUrl: "https://amp.hothardware.com/news/intel-launch-arctic-sound-m-data-center-gpu-flex-series"
+    cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-launch-arctic-sound-m-data-center-gpu-flex-series"
+    type: article
+    provider:
+      name: HotHardware
+      domain: hothardware.com
+    quality: 58
+    images:
+      - url: "https://images.hothardware.com/contentimages/newsitem/59427/content/small_intel-datacenter-gpu-arctic-sound-1.jpg"
+        width: 708
+        height: 450
+        isCached: true
+
+secured: "5P2DMyKdXm174YUTvLNilq1XnM7QHkQIlisDbEz0tiA5oShtYBflQ1SFuW5/k9P+Rz8z0uNu2BIFZgzwSeKkBMVe038sNUT7lr7u3Ol4LIsnLs0HMOXHkqYl56KG7Zdq23Crc/u1hTAtqGeq34uzwgUHYSqz3zWLNx/WqB8Z2c3apzlzsJnrS90sXIXAbNmC5z7d1OjVTMMRJO+d9EIiLB2JuLEVyo+8CUesWpY6kKE8poNOlVPIzki05ZsGQcn4xagp07tlG0mpISqRtjmrglAO13pD/GTJHtaz6Dzf/D4rX/ZdNLqEzbVEW63vjaqQh1jShvo0QLsWK/fhWsxRI3lgQYVjOmo2fKbT2mrB1Bk=;r27A0uMygOm/zgFovCyU3A=="
+---
+

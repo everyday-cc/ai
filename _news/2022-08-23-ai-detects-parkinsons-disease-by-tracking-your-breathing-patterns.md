@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/health-wellbeing/ai-parkinsons-disease-sleep-
 webUrl: "https://newatlas.com/health-wellbeing/ai-parkinsons-disease-sleep-breathing-patterns-mit"
 type: article
 quality: 67
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -119,6 +119,20 @@ related:
       - url: "https://www.medicaldesignandoutsourcing.com/wp-content/uploads/2022/08/MIT-Parkinsons-algorithm.png"
         width: 770
         height: 500
+        isCached: true
+  - title: "AI Uses Nocturnal Breathing Patterns to Detect Parkinson's Disease"
+    excerpt: "An artificial intelligence-enabled system incorporates nocturnal breathing signals to diagnose Parkinson's disease -- and could be a new biomarker for the condition, new research suggests."
+    publishedDateTime: 2022-08-24T17:22:00Z
+    webUrl: "https://www.medscape.com/viewarticle/979684"
+    type: article
+    provider:
+      name: Medscape
+      domain: medscape.com
+    quality: 37
+    images:
+      - url: "https://img.medscape.com/thumbnail_library/shs_220824_old_man_sleeping_800x450.jpg"
+        width: 800
+        height: 450
         isCached: true
   - title: "In early research, an AI model detects signs of Parkinson’s using breathing patterns"
     excerpt: "\"We’ve seen no major breakthroughs for treating Parkinson’s this century, suggesting that the status quo is not working,\" said University of Rochester researcher Ray Dorsey."

@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-23T16:00:00Z
 originalUrl: "https://www.newscientist.com/article/2333833-ai-created-lenses-let-camera-ignore-some-objects-when-taking-pictures/"
 webUrl: "https://www.newscientist.com/article/2333833-ai-created-lenses-let-camera-ignore-some-objects-when-taking-pictures/"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI Hardware
 
 images:
   - url: "https://images.newscientist.com/wp-content/uploads/2022/08/23121435/SEI_120702584.jpg"

@@ -8,8 +8,8 @@ webUrl: "https://www.cityam.com/artificial-intelligence-is-the-new-frontier-of-e
 ampWebUrl: "https://www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/?amp=1"
 cdnAmpWebUrl: "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/?amp=1"
 type: article
-quality: 78
-heat: 78
+quality: 80
+heat: 80
 published: true
 
 provider:
@@ -21,6 +21,7 @@ topics:
   - AI
   - AI Ethics
   - AI in Autos
+  - AI in Healthcare
 
 images:
   - url: "https://www.cityam.com/wp-content/uploads/2022/08/GettyImages-928215790.jpg"
