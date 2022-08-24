@@ -1,30 +1,29 @@
 ---
 category: news
 title: "Emotional AI and gen Z: The attitude towards new technology and its concerns"
-excerpt: "AI has ubiquitous presence in technology. Yet, it had been lacking a crucial feature: the ability to engage human emotions."
-publishedDateTime: 2022-08-23T12:27:00Z
-originalUrl: "https://techxplore.com/news/2022-08-emotional-ai-gen-attitude-technology.html"
-webUrl: "https://techxplore.com/news/2022-08-emotional-ai-gen-attitude-technology.html"
-ampWebUrl: "https://techxplore.com/news/2022-08-emotional-ai-gen-attitude-technology.amp"
-cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-emotional-ai-gen-attitude-technology.amp"
+excerpt: "Artificial intelligence that gauges and engages human emotions, known as emotional AI, is a growing industry with widespread applications. However, its unregulated nature and lack of recalibration for cultural differences makes it important to understand its acceptability among Generation Z,"
+publishedDateTime: 2022-08-23T04:04:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/962490"
+webUrl: "https://www.eurekalert.org/news-releases/962490"
 type: article
-quality: 54
-heat: 54
+quality: 36
+heat: 36
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
+  - AI Ethics
   - AI
 
 images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/emotional-ai-and-gen-z.jpg"
-    width: 2880
-    height: 1620
+  - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/9a9e26ba-e094-41a0-87c7-c898e70bfad8/Rendition/low-res/Content/Public"
+    width: 700
+    height: 394
     isCached: true
 
-secured: "dMX2XVthX5WrtAaRYEjq2YowNo8pbGAMY2X+kZJdZ7O+LGFEc5Il4uXk65/5rcyS905b471BRRcdMR6Fa+56nyGUQcca2rGfc8vfGJPONT5TWeRVlTdyF+WmyS3Yt4aywpJ60DYM34o+Gsm+pi8mtrMX0qPcODsqXyUZufW8j9E3FS+7quNFsbJR8pfrPcJGg4/MHfQ54bBGOK/ksl5Up7Q1lHz5DIAhaAZ8/uKsahvx1VLMrath5fAg/KiQpAQw5Udy9cQGVPwY2LVaYIZA1OrygaL6QhyCqZ4HCKemqXayRJOGCaOrMnlfjyV8PtuDfJFBNDlG8SeeFe2dSB31nQsF7I7ZvC6kuRqTMyw/cLQ=;pn1nR8yJDheXO5N9x156ow=="
+secured: "FsT5qC+R67r8ngdPMupNaGLVa5q4F5d5JYMXyeJzqFrfcqhqBvScfkkQlqLIRuNMMMa1+EEl4NV3dSZH2DjqD2wNxvzHdi8qRhXmC8mvVzcx0FnBVY6NE4OirJTuqTiPhY/uvyNxMuil4KS5+1Kz/TgdxHH21vk/cS2MmSCmsXuWmUBj/ADiNX+LZ18A75gg4//SUPAoksrgKY/GsMzoJBmRf3keujx/dZZ2/HvkKrGpOByIQwjoE7C/yImc74NdoomfGIvPgPn+P0bIhdKFOWmEeXjLk82fqoGkPlcHcwNgffopMQOijGQ6FyfL0iek75C0zJxMU8pzrrlgPjs1nXCz5a13USSXxwhdCu8ABu0=;ewzosVizsPqXBDvA4+lIpQ=="
 ---
 

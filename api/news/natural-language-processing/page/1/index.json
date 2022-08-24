@@ -143,49 +143,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-21-the-9-trends-defining-ecommerce-ai-in-2022-2023.md",
-      "title": "The 9 Trends Defining eCommerce AI in 2022 & 2023",
-      "excerpt": "From more sophisticated fraud detection to virtual try-on technology, here are the top nine trends to look out for in eCommerce AI",
-      "sourceUrl": null,
-      "webUrl": "https://www.geektime.com/the-9-trends-defining-ecommerce-ai-in-2022-2023/",
-      "originalUrl": "https://www.geektime.com/the-9-trends-defining-ecommerce-ai-in-2022-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.geektime.com/content/images/2022/04/icon-andro.png",
-          "width": 512,
-          "height": 512,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.geektime.com/the-9-trends-defining-ecommerce-ai-in-2022-2023/amp/",
-      "cdnAmpWebUrl": "https://www-geektime-com.cdn.ampproject.org/c/s/www.geektime.com/the-9-trends-defining-ecommerce-ai-in-2022-2023/amp/",
-      "publishedDateTime": "2022-08-20T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Geektime",
-        "domain": "geektime.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-21-this-student-aspires-for-a-career-in-ai.md",
       "title": "This student aspires for a career in AI",
       "excerpt": "He was also part of his school’s programming and AI clubs thanks to which he honed his skills to participate in the Kolmogorov Reading Conference for scientific papers. ‘‘I wrote a research paper titled Detection and Classification of brain tumors in MRIs using CNN,",
@@ -1456,6 +1413,58 @@
         "AI",
         "Natural Language Processing",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-ai-autopilot-could-let-autonomous-aircraft-fly-in-busy-airspaces.md",
+      "title": "AI autopilot could let autonomous aircraft fly in busy airspaces",
+      "excerpt": "While pilots commonly use an autopilot when cruising at high altitudes, they typically switch to manual control when entering crowded lower airspaces. However, what if the plane has no pilot? Well, a new AI autopilot system for busy airspaces may be the answer.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/aircraft/ai-autopilot-autonomous-aircraft-crowded-airspaces/",
+      "originalUrl": "https://newatlas.com/aircraft/ai-autopilot-autonomous-aircraft-crowded-airspaces/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/f32670e/2147483647/strip/true/crop/1620x851+0+115/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F90%2F9d%2F637f2282401688a38dc8240fee33%2Fai-pilot-02.jpeg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T09:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     }
   ],

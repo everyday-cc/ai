@@ -93,22 +93,6 @@ related:
         width: 647
         height: 363
         isCached: true
-  - title: "Self-driving vehicles 'will be on UK roads by 2025' under new plans"
-    excerpt: "Some cars, coaches and lorries with self-driving features could be operating on motorways as early as next year."
-    publishedDateTime: 2022-08-19T06:12:00Z
-    webUrl: "https://news.stv.tv/world/self-driving-vehicles-will-be-on-uk-roads-by-2025-under-new-government-plans"
-    ampWebUrl: "https://news.stv.tv/world/self-driving-vehicles-will-be-on-uk-roads-by-2025-under-new-government-plans?amp"
-    cdnAmpWebUrl: "https://news-stv-tv.cdn.ampproject.org/c/s/news.stv.tv/world/self-driving-vehicles-will-be-on-uk-roads-by-2025-under-new-government-plans?amp"
-    type: article
-    provider:
-      name: STV
-      domain: news.stv.tv
-    quality: 44
-    images:
-      - url: "https://news.stv.tv/wp-content/uploads/2022/01/9bd1dc42b7cd2162512d6f985bb45d2e-9-social-default.jpg"
-        width: 1280
-        height: 672
-        isCached: true
   - title: "UK plans for first self-driving vehicles on roads by 2025"
     excerpt: "Aug 19 2022, 21:48 ist updated: Aug 19 2022, 21:48 ist A verification email has been sent to your inbox. Please verify to complete the subscription."
     publishedDateTime: 2022-08-19T16:29:00Z
@@ -207,20 +191,6 @@ related:
       - url: "https://www.thetimes.co.uk/imageserver/image/%2Fmethode%2Ftimes%2Fprod%2Fweb%2Fbin%2F36f646ac-1f36-11ed-add4-d333562d46fb.jpg?crop=3696%2C2079%2C167%2C70&resize=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Self-driving vehicles could be on UK roads by 2025"
-    excerpt: "Self-driving vehicles could be on UK roads by 2025 under new plans unveiled by the Government and backed by a £100 million investment to boost the rollout."
-    publishedDateTime: 2022-08-19T05:53:00Z
-    webUrl: "https://www.yorkshirepost.co.uk/lifestyle/cars/self-driving-vehicles-could-be-on-uk-roads-by-2025-3811713"
-    type: article
-    provider:
-      name: The Yorkshire Post
-      domain: yorkshirepost.co.uk
-    quality: 24
-    images:
-      - url: "https://www.yorkshirepost.co.uk/webimg/QVNIMTI2NzQ1NDI5.jpg?width=1200&enable=upscale"
-        width: 1200
-        height: 800
         isCached: true
   - title: "UK sets out roadmap for self-driving vehicle usage by 2025"
     excerpt: "New laws for autonomous vehicles will make automakers responsible for the vehicle's actions when self-driving, not human drivers."

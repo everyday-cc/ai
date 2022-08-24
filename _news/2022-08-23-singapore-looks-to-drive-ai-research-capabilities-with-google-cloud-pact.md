@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-looks-to-drive-ai
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/"
 type: article
 quality: 68
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -25,17 +25,6 @@ topics:
   - AI Ethics
 
 related:
-  - title: "Singapore AI startup partners cancer institute to help estimate treatment costs"
-    excerpt: "Powered by Bot MD's artificial intelligence (AI) engine, the chemotherapy cost calculator is touted to help frontline medical professionals estimate monthly expenses patients need to set aside based on key factors,"
-    publishedDateTime: 2022-08-19T07:00:00Z
-    webUrl: "https://www.zdnet.com/article/singapore-ai-startup-partners-cancer-institute-to-help-estimate-treatment-costs/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-ai-startup-partners-cancer-institute-to-help-estimate-treatment-costs/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-ai-startup-partners-cancer-institute-to-help-estimate-treatment-costs/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 63
   - title: "Google beefs up Singapore investments, cloud unit inks AI partnership with govt"
     excerpt: "GOOGLE is strengthening its investments in Singapore - with its third data centre and an enhanced skills training programme - while its cloud business will work with the government to co-create AI solutions in a public-private partnership."
     publishedDateTime: 2022-08-23T02:57:00Z

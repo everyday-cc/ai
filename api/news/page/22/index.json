@@ -2,6 +2,49 @@
   "page": 22,
   "value": [
     {
+      "path": "_news/2022-08-02-inmoment-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-for-best-ai-based-solution-for-retail.md",
+      "title": "InMoment Recognized for Artificial Intelligence Innovation in 2022 AI Breakthrough Awards for Best AI-Based Solution for Retail",
+      "excerpt": "InMoment®, the leading provider of Experience Improvement (XI)™ solutions, today announced that it has been selected as the winner of the “Best AI-based Solution for Retail” award in the 5 th annual AI Breakthrough Awards program conducted by AI Breakthrough,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-2cb1432dc38440639eadcd99ea755d30",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-artificial-intelligence-2cb1432dc38440639eadcd99ea755d30",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-02T06:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-wimi-hologram-academy-deep-learning-hardware-technology-based-on-in-memory-computing-structure.md",
       "title": "WIMI Hologram Academy: Deep learning hardware technology based on in-memory computing structure",
       "excerpt": "WIMI Hologram Academy, working in partnership with the Holographic Science Innovation Center, has written a new technical article describing their exploration of deep learning hardware technology based on in-memory computing structure.",
@@ -1087,49 +1130,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-eating-ultra-processed-food-can-lead-to-overall-cognitive-decline-new-study-says.md",
-      "title": "Eating Ultra-Processed Food Can Lead To Overall Cognitive Decline, New Study Says",
-      "excerpt": "Signs of cognitive decline can include forgetting dates, conversations, and events. It can also include feeling overwhelmed by decision making or not understanding directions. \"People who consumed ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.com/eating-ultra-processed-food-can-lead-overall-cognitive-decline-new-study-says-3593573",
-      "originalUrl": "https://www.ibtimes.com/eating-ultra-processed-food-can-lead-overall-cognitive-decline-new-study-says-3593573",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d.ibtimes.com/en/full/2572397/fast-food.jpg",
-          "width": 2500,
-          "height": 1594,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ibtimes.com/eating-ultra-processed-food-can-lead-overall-cognitive-decline-new-study-says-3593573?amp=1",
-      "cdnAmpWebUrl": "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/eating-ultra-processed-food-can-lead-overall-cognitive-decline-new-study-says-3593573?amp=1",
-      "publishedDateTime": "2022-08-01T15:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "International Business Times",
-        "domain": "ibtimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -41,20 +41,6 @@ related:
         width: 1426
         height: 808
         isCached: true
-  - title: "Hyundai and Boston Dynamics to build AI, Robotics Research Centre"
-    excerpt: "Hyundai Motor Group and Boston Dynamics have announced that they are to invest $424mn to establish an artificial intelligence research centre in the US."
-    publishedDateTime: 2022-08-19T07:00:00Z
-    webUrl: "https://www.newelectronics.co.uk/content/news/hyundai-and-boston-dynamics-to-build-ai-robotics-research-centre"
-    type: article
-    provider:
-      name: New Electronics
-      domain: newelectronics.co.uk
-    quality: 69
-    images:
-      - url: "https://www.newelectronics.co.uk/media/1u1nz5bb/boston.jpg?width=1200&height=630&mode=crop"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Untether AI moves to floating point for SpeedAI architecture"
     excerpt: "At this week's HotChips 2022, UntetherAI has announced its second generation at-memory architecture to accelerate AI interference. SpeedAI (codenamed"
     publishedDateTime: 2022-08-23T16:00:00Z

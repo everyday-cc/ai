@@ -50,6 +50,22 @@ related:
         width: 560
         height: 320
         isCached: true
+  - title: "AI rapper FN Meka dropped by Capitol Records following backlash over racial stereotypes"
+    excerpt: "In a statement, Capitol Records wrote, 'we offer our deepest apologies to the Black community for our insensitivity in signing this project.'"
+    publishedDateTime: 2022-08-23T23:44:00Z
+    webUrl: "https://www.latimes.com/entertainment-arts/music/story/2022-08-23/fn-meka-ai-rapper-dropped-capitol-records"
+    ampWebUrl: "https://www.latimes.com/entertainment-arts/music/story/2022-08-23/fn-meka-ai-rapper-dropped-capitol-records?_amp=true"
+    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/music/story/2022-08-23/fn-meka-ai-rapper-dropped-capitol-records?_amp=true"
+    type: article
+    provider:
+      name: Los Angeles Times
+      domain: latimes.com
+    quality: 49
+    images:
+      - url: "https://ca-times.brightspotcdn.com/dims4/default/3072813/2147483647/strip/true/crop/3926x2626+0+1141/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc5%2F91%2Fa7b47d3c4a278a1399a865b252f2%2F967024-et-ralfy-the-plug-portrait-04-mjc-2.jpg"
+        width: 320
+        height: 214
+        isCached: true
   - title: "An AI-powered rapper? What you should know as a TikTok-famous virtual artist is signed by a record label"
     excerpt: "An announcement by Capitol Records to sign a virtual artist has generated some level of controversy, as well as curiosity over musicians that do not exist in flesh and blood. Here's what you need to know about virtual artists,"
     publishedDateTime: 2022-08-23T04:49:00Z
@@ -80,6 +96,22 @@ related:
         width: 710
         height: 400
         isCached: true
+  - title: "Capitol Records Severs Ties With FN Meka, an AI-Generated ‘Virtual Rapper,’ Over Stereotypes, Lack of Black Creative Involvement"
+    excerpt: "Not long after announcing that the label had signed a computer-generated rapper dubbed FN Meka, Capitol Music Group announced that it is severing ties with the project. The move Tuesday came after"
+    publishedDateTime: 2022-08-23T23:21:00Z
+    webUrl: "https://variety.com/2022/music/news/capitol-drops-fn-meka-artificial-intelligence-rapper-objections-1235348786/"
+    ampWebUrl: "https://variety.com/2022/music/news/capitol-drops-fn-meka-artificial-intelligence-rapper-objections-1235348786/amp/"
+    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2022/music/news/capitol-drops-fn-meka-artificial-intelligence-rapper-objections-1235348786/amp/"
+    type: article
+    provider:
+      name: Variety
+      domain: variety.com
+    quality: 28
+    images:
+      - url: "https://variety.com/wp-content/uploads/2022/08/FN-Meka-e1661294823805.jpg?w=1024"
+        width: 1024
+        height: 558
+        isCached: true
   - title: "AI Rapper FN Meka Was Dropped From Capitol Records After Fans Called Out Its Racist Overtones"
     excerpt: "Just a few weeks after it was announced that Capitol Records had signed an artificial intelligence rapper named FN Meka, the label dropped the project after hip-hop fans called out the decision online,"
     publishedDateTime: 2022-08-23T21:45:00Z
@@ -93,6 +125,22 @@ related:
       - url: "https://uproxx.com/wp-content/uploads/2022/08/FN-Meka-GRID.jpg?w=710"
         width: 710
         height: 400
+        isCached: true
+  - title: "Capitol Records “Severs Ties” With AI Rapper FN Meka, Issues Apology To The Black Community For Not “Asking Enough Questions About Equity”"
+    excerpt: "Capitol Records has “severed ties” with the recently signed AI rapper FN Meka, who came under intense scrutiny after clips of the project using the N-word went viral. Social-media users also pointed out a photo shared on one of Meka’s accounts showing the rapper in scenes of police brutality."
+    publishedDateTime: 2022-08-23T22:39:00Z
+    webUrl: "https://www.stereogum.com/2197251/capitol-records-severs-ties-with-ai-rapper-fn-meka-issues-apology-to-the-black-community-for-not-asking-enough-questions-about-equity/news/"
+    ampWebUrl: "https://www.stereogum.com/2197251/capitol-records-severs-ties-with-ai-rapper-fn-meka-issues-apology-to-the-black-community-for-not-asking-enough-questions-about-equity/news/amp/"
+    cdnAmpWebUrl: "https://www-stereogum-com.cdn.ampproject.org/c/s/www.stereogum.com/2197251/capitol-records-severs-ties-with-ai-rapper-fn-meka-issues-apology-to-the-black-community-for-not-asking-enough-questions-about-equity/news/amp/"
+    type: article
+    provider:
+      name: Stereogum
+      domain: stereogum.com
+    quality: 23
+    images:
+      - url: "https://static.stereogum.com/uploads/2022/08/fn-meka-1661297862.jpg"
+        width: 1600
+        height: 1067
         isCached: true
 
 secured: "vhCIN2eY8elujutIdADSNqyU1qz7vFesoVSBTPkDGkADWd0jA1tCf+26eslwmrOV4ekLcpSmz/O5Av/Szj792mI5YU2xnEwbHHJcjOwnB162klzkm/4ynYtdU2C09IEWBidNO5QuKC0282u+1hD+r9CXUUnyUOy8RoFmgs7tfL75K1Oze6ERa1zp7scgbRr03kU1qVZdaWdkVzcDRkAwCgIKwgpy7u7Kadfk7estx1bxxrgxHWyaZzTqFj/WyS1tZQv/1T2mIVz/u1EGKdp5tGW4gAKkUmurb7q7geHlct3oxpd8ER+fsaZzv6AVB1DPf3LzmSYMB98oag3l2TiWoESKO3A81MdMLzXMw+fjKEprJ7auB+r2dH9ud6YIo40x/JAqFMGg2vhqIqhe1qFcuA2K6/vIurbxb9dZAcLX80c90UXTDS2W/q5/yP5CHM2Qk0defPNlDThJiCR6WcoWMbEDJkPaOAlJVS+xC4sVrEJXlHOZImQpza3AUsfgt3FSwTplUjCj2p8n5BDlpUaL0Q==;OA3ic7jV+GOeEbZK+el6xA=="

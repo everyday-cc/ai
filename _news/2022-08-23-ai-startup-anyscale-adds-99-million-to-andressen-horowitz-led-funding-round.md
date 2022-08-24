@@ -3,8 +3,8 @@ category: news
 title: "AI Startup Anyscale Adds $99 Million to Andressen Horowitz-Led Funding Round"
 excerpt: "The company initially announced a $100 million Series C venture investment round led by Andressen Horowitz in December."
 publishedDateTime: 2022-08-23T10:30:00Z
-originalUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
-webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
+originalUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?mod=newsviewer_click"
+webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?mod=newsviewer_click"
 ampWebUrl: "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
 type: article
@@ -90,6 +90,20 @@ related:
         width: 2640
         height: 1080
         isCached: true
+  - title: "Anyscale raises $99M to build out its distributed AI computing platform"
+    excerpt: "Anyscale is the developer of the open-source Python framework Ray, which is used to run distributed computing projects. Ray includes both a universal serverless compute application programming interface and an expanded ecosystem of libraries."
+    publishedDateTime: 2022-08-23T23:51:00Z
+    webUrl: "https://siliconangle.com/2022/08/23/anyscale-raises-99m-build-distributed-ai-computing-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/https___specials-images.forbesimg.com_imageserve_61aeadfcd3156eea4c6c19fd_Anyscale-founders_0x0.jpg"
+        width: 960
+        height: 640
+        isCached: true
   - title: "SCALE AI announces a major financing round in artificial intelligence: $50 million to support 12 new projects"
     excerpt: "With an additional 12 projects representing more than $50 million in investments announced today by SCALE AI, artificial intelligence (AI) is continuing on its path of rapid adoption by Canadian industry leaders."
     publishedDateTime: 2022-08-22T17:24:00Z
@@ -105,6 +119,6 @@ related:
         height: 400
         isCached: true
 
-secured: "+bQa/V9QtELI9K8TBAGe7ITtV2CrTOClQjTNxWsfglc97z2Bz+Qtad0DxrVKINlNP/Kva4cETK83foymqrDlRpQeaDZWaHY8l9uAx/FjeEBtJD9zOXADjUvc9ejF/OrTsGJONRpOsrvUnxIx1yJq/N/P/yC8wxpqUVnMKjzVZCBaedKOOPXgl0BagWbFaOoH+y2BWWJQfvm05qYSd2tyNPnDw5Gexavt+7BQ5VPLJm5sYLXObG158+Cb6l+zXysfQUTwnvz713N1bXro45kOLDfp8YPuhdXkQ4qf6Fi0+f8VGUDE5vL0zXjQPb6o44Uijhnhah20W/xx9xMY8d9FzAu9paObE0qQaZOZXLYptrI=;CjtlHXbIp7teCxSXRlbzUw=="
+secured: "5VBKh0PrEZ/TjOnFmv1VvrcuIxQpjoPogiIEBLRuBEY9cZg/m/l0soqyL9tXvRLa3XLV6W+riLmZenNFzyQ4ByIv33/dDvIMwHbgykUr3v4bEbPsvj8Gb+8Lfc2Yp0b9t0E2PWuG5HTml6RkpqU8F5v4oVREm/dxsluXv3wh3gfcKZmPqPnyRe2yIDIIEgNE3bWgq48jInkRNMqsjcsovhZPWIZIzDpEm6/ERKyHphffrryxrWWAIAGoTuVt0MdoExt7yiY5/Nq8RcjAKqf5RTBRW2m7zgzCkjkxIY/fjb28EPwypeJ8DyGUTf5NDW7OdBpYWnGgZFPu7BEVWR8luqBvKO9dvQRAN+vGnu1Sss8=;ejqBh7MTJOrsA4xS0OhqNw=="
 ---
 

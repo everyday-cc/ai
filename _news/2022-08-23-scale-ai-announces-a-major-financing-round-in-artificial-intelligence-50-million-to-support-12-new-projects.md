@@ -44,7 +44,7 @@ related:
   - title: "AI Startup Anyscale Adds $99 Million to Andressen Horowitz-Led Funding Round"
     excerpt: "The company initially announced a $100 million Series C venture investment round led by Andressen Horowitz in December."
     publishedDateTime: 2022-08-23T10:30:00Z
-    webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
+    webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?mod=newsviewer_click"
     ampWebUrl: "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
     cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
     type: article
@@ -100,6 +100,20 @@ related:
       - url: "https://www.beckershospitalreview.com/images/Reviewer_Button6.23.jpg"
         width: 2640
         height: 1080
+        isCached: true
+  - title: "Anyscale raises $99M to build out its distributed AI computing platform"
+    excerpt: "Anyscale is the developer of the open-source Python framework Ray, which is used to run distributed computing projects. Ray includes both a universal serverless compute application programming interface and an expanded ecosystem of libraries."
+    publishedDateTime: 2022-08-23T23:51:00Z
+    webUrl: "https://siliconangle.com/2022/08/23/anyscale-raises-99m-build-distributed-ai-computing-platform/"
+    type: article
+    provider:
+      name: SiliconANGLE
+      domain: siliconangle.com
+    quality: 37
+    images:
+      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/https___specials-images.forbesimg.com_imageserve_61aeadfcd3156eea4c6c19fd_Anyscale-founders_0x0.jpg"
+        width: 960
+        height: 640
         isCached: true
 
 secured: "VUIZEM3iDYy1QHKUXQ0LhXs2NviVdmvHf0miCEJ3qj/IRXRUG3cvJ+6c5aqmBQfD8DZ2X64ShkscBbfCbalBECJHfv8YqXKG0a/vamiWRg4QSnw8y2dfD7i350RsRyukQDBNQ3pt+nKoncjXeilv6GYA6nkGwveuWplbjZQ3V8ts9lMHQPPIBDcsXEGLYJ4DHYXYbW2L7dEIHbfocUcS/Zo1D1TUq2FMq24Pw6IOitSZDn4WLMaJSO0k20iGRY0GWEcj4DnWyQdYZIVCxaj0rYUhFtFnVQ/qj/f8sc30GBOJHuz5bDZrTYcTHxM4MN1oLrMypAHoePU/hxbkr2PtLemPLxYKGvze9lycUWRQbSYMH1tNeRvC4FfsIXAs8OlAHuVeAzCEJnBIzhslODm8Yd+Kc6Bc6j4zhTp7KanfxRAymDare7KehGOR1y7z7Wo0J40lq1UM8dS4FoV73F89fBNxb6DziDw8FoYZDUB3dZ7ZAg+prZAx1x+bMY6lAWd9FE0kTs3dnRDvO49HdmvSkA==;pw8jXHqsILuAbNIwSvPQCg=="

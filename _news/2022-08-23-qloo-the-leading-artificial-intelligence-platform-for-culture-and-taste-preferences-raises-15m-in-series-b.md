@@ -42,6 +42,15 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 44
+  - title: "A Mountain View startup that helps companies build virtual characters raised a $50M Series A"
+    excerpt: "A startup specializing in virtual characters for games has raised some real and serious cash. Inworld AI announced Tuesday it's raised $50 million in a Series A round. Since it was founded a little more than a year ago, the Mountain View company has now ..."
+    publishedDateTime: 2022-08-23T22:02:00Z
+    webUrl: "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2022/08/23/mountain-view-based-startup-raises-50m-series-a.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 6
 
 secured: "vnSqD4gXCijfqURybY6b25p215bFOA00jX1hPfOA9OyGRYfyqI9vp4UrvZGB4Tu+jtVTvUPajgsTufMEcQFzw7VgRbAWXJp8WQjtXWOUB4S6HKn9onskoMqm1z/IuDo40VLdIhYiV8kYdlbBTYgwwDjFxi9HIx/cYUQtJjgz3/1KPOYj0AT9Re8AqUkxNgfkD5ntcnWoPY75UlV2Kz3gWQbVOgeopC5KE+45BoyQcTHvzR+HpBcfYr/Wcy9VRCZ8xK6DDU0iMrTOibEMEBdBuGMYt2AVb/myYDXYg2tbx4nmttHAGcySpt7al+B2gTG8oWlt1zTjWNuD0rwcJlT3aiEDqkDUXyLZOzr5rou71Hk=;fejQBBZxlrUNieYBhZLHtA=="
 ---

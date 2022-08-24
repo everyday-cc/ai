@@ -32,17 +32,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 68
-  - title: "Singapore AI startup partners cancer institute to help estimate treatment costs"
-    excerpt: "Powered by Bot MD's artificial intelligence (AI) engine, the chemotherapy cost calculator is touted to help frontline medical professionals estimate monthly expenses patients need to set aside based on key factors,"
-    publishedDateTime: 2022-08-19T07:00:00Z
-    webUrl: "https://www.zdnet.com/article/singapore-ai-startup-partners-cancer-institute-to-help-estimate-treatment-costs/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/singapore-ai-startup-partners-cancer-institute-to-help-estimate-treatment-costs/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-ai-startup-partners-cancer-institute-to-help-estimate-treatment-costs/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 63
   - title: "Google Cloud further commits to accelerate AI innovation in Singapore"
     excerpt: "It will work with SNDGG to co-create solutions, deepen AI capabilities in public service, and shape AI governance and ethics."
     publishedDateTime: 2022-08-23T06:20:00Z

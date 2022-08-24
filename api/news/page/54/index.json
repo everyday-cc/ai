@@ -2,6 +2,50 @@
   "page": 54,
   "value": [
     {
+      "path": "_news/2022-07-07-ai-boosts-rural-connectivity-healthcare.md",
+      "title": "AI boosts rural connectivity & healthcare",
+      "excerpt": "A total of 15 villages in different parts of the country may soon be seamlessly connected through a next-generation networking solution that can address congestion issues in 4G infrastructure and prov",
+      "sourceUrl": null,
+      "webUrl": "https://orissadiary.com/ai-boosts-rural-connectivity-healthcare/",
+      "originalUrl": "https://orissadiary.com/ai-boosts-rural-connectivity-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/orissadiary.com/wp-content/uploads/2022/07/image00120E0.jpg?fit=624%2C416&ssl=1",
+          "width": 624,
+          "height": 416,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T22:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Odisha Diary",
+        "domain": "orissadiary.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-computer-vision-is-primed-for-business-value.md",
       "title": "Computer vision is primed for business value",
       "excerpt": "Over the past few years, computer vision applications have become ubiquitous. From phones that recognise the faces of their users, to cars that drive themselves, to satellites that track ship movements, the value of computer vision has never been clear.",
@@ -1106,50 +1150,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-precision-accuracy-scale-and-experience-all-matter-with-ai.md",
-      "title": "Precision, Accuracy, Scale – And Experience – All Matter With AI",
-      "excerpt": "When it comes to building any platform, the hardware is the easiest part and, for many of us, the fun part. But more than anything else, particularly at",
-      "sourceUrl": null,
-      "webUrl": "https://www.nextplatform.com/2022/07/06/precision-accuracy-scale-and-experience-all-matter-with-ai/",
-      "originalUrl": "https://www.nextplatform.com/2022/07/06/precision-accuracy-scale-and-experience-all-matter-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2021/02/samba-nova-logo.jpg",
-          "width": 432,
-          "height": 293,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nextplatform.com/2022/07/06/precision-accuracy-scale-and-experience-all-matter-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/07/06/precision-accuracy-scale-and-experience-all-matter-with-ai/amp/",
-      "publishedDateTime": "2022-07-06T10:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Platform",
-        "domain": "nextplatform.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],
