@@ -1,31 +1,24 @@
 ---
 category: news
-title: "QpiAI announces AI Enabled QpiAISense platform for worldwide deployment for controlling superconducting, spin and ion-trap qubits"
-excerpt: "India], August 24 (ANI/BusinessWire India): QpiAI, a leader in quantum computing and AI today announced QpiAISense platform for room temperature qubit control. QpiAISense accelerates ML library using"
-publishedDateTime: 2022-08-24T09:10:00Z
-originalUrl: "https://www.business-standard.com/content/press-releases-ani/qpiai-announces-ai-enabled-qpiaisense-platform-for-worldwide-deployment-for-controlling-superconducting-spin-and-ion-trap-qubits-122082400669_1.html"
-webUrl: "https://www.business-standard.com/content/press-releases-ani/qpiai-announces-ai-enabled-qpiaisense-platform-for-worldwide-deployment-for-controlling-superconducting-spin-and-ion-trap-qubits-122082400669_1.html"
-ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/qpiai-announces-ai-enabled-qpiaisense-platform-for-worldwide-deployment-for-controlling-superconducting-spin-and-ion-trap-qubits-122082400669_1.html"
-cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/qpiai-announces-ai-enabled-qpiaisense-platform-for-worldwide-deployment-for-controlling-superconducting-spin-and-ion-trap-qubits-122082400669_1.html"
+title: "QpiAI Announces AI Enabled QpiAISense™ Platform for Worldwide Deployment for Controlling Superconducting, Spin and Ion-Trap Qubits"
+excerpt: "Press Release QpiAI, a leader in quantum computing and AI, today announced QpiAISense™ platform for room temperature qubit control. QpiAISense™ accelerates ML library using discrete FPGA DSPs currently."
+publishedDateTime: 2022-08-24T13:25:00Z
+originalUrl: "https://venturebeat.com/business/qpiai-announces-ai-enabled-qpiaisense-platform-for-worldwide-deployment-for-controlling-superconducting-spin-and-ion-trap-qubits/"
+webUrl: "https://venturebeat.com/business/qpiai-announces-ai-enabled-qpiaisense-platform-for-worldwide-deployment-for-controlling-superconducting-spin-and-ion-trap-qubits/"
 type: article
-quality: 30
-heat: 30
-published: false
 
 provider:
-  name: Business Standard
-  domain: business-standard.com
+  name: VentureBeat
+  domain: venturebeat.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI Hardware
   - AI
 
-images:
-  - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-08/24/full/20220824125616.jpg"
-    width: 600
-    height: 450
-    isCached: true
-
-secured: "FW+274+KWAVbx/JDCDheRqP7YNYoTUq3YeP9T03tICOJHBXBDwcMfdZMd1ESt0KF5hxg5uQ5luu61vNK5pwiooUTgFjOoVBxiq/1Bsnc0mpCaIOhDdbtSi4CZb3HTCAkMxTvbZIuGm0OYqHjMsjbYq9hsUkDPTIXPms/V/6m+Ro1xkbIfK3N2SRNbNJSAExXfSJm6eZqnlx7dU4kgJDjzWXNsMJkdL87rbm+w2jyr0Zk/MzeAfm7j/+UqW2CCGmDb5Mvy31vyAPlVxWec7gC/m/va8nlcoQswFwgkRIu8/58l//dQTTUFgV5Mkjr8L/ucDPIXponlQu94UhPhjnIBo4eXRBGKZsNvJS2HWtFFUM=;DUHPs1QNynS7onfnh+aLWw=="
+secured: "jTnNbk/1asRE1//8bxYVu9ADTt7ktNE6wzLMALofa43kebHnCyLRuz/S1j9sZYGmLL4v+XCUuOZKYGX90HFRGYwaLouKw6z/Z3/NLYWNd6Qu1tXQKdZHEDEqWwN0RKZSbWFTEKbUmSBZiUgogQ1ZcE7pGj2alflYkCLUarbK6FYgN1GrGxSRMlvdwA9ZELfs5Hsi2ify3vkTf/6isGH9H/C+puimxIwN629MJoa/AQw4pz0jqxKVjtGH8e19jzqVjXN43rddmvKpLMfQXSxAOcBAJkv249r3/j491ry76oDTYR67l7ibbA8PhUkzLRMDsB/ptS2E/ToXFTLbLA0BWs/bvLRC2qwPS5TRADn9GZh1tUvyN6NZCsjwNBK7uNcjxHi63+xdsGiaher2ezgUgn3odiqFyce3NKQdghPaOgTYOaT5tNkiXK4Y66tUtOdzmqAADizA+exMoioty/T9A1NTsS1wNiqPbPHYIwmJxUTdq9RKAXSoIA+8do5pNexz12HTlf002ruV/JSmyg8sBQ==;/k3zo0orC8eDFXPsWB73UA=="
 ---
 

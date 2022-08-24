@@ -17,6 +17,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.totaltele.com/res/image/tech%20stuff/manila%20philippines%20resize.jpg"
