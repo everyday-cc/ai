@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-21-after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans.md",
+      "title": "After binge-watching TV, Google's DeepMind AI can now read lips better than humans",
+      "excerpt": "Google’s DeepMind artificial intelligence system has learned another useful skill. The soon-to-become-Skynet AI can now read lips with a higher accuracy than humans, after it watched thousands ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.neowin.net/news/after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans/",
+      "originalUrl": "https://www.neowin.net/news/after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.neow.in/news/images/uploaded/2016/11/1479985769_hal_9000_story.jpg",
+          "width": 760,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.neowin.net/amp/after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans/",
+      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans/",
+      "publishedDateTime": "2022-08-20T15:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neowin",
+        "domain": "neowin.net",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-best-practices-for-tensorflow-1x-acceleration-training-on-amazon-sagemaker.md",
       "title": "Best practices for TensorFlow 1.x acceleration training on Amazon SageMaker",
       "excerpt": "Today, a lot of customers are using TensorFlow to train deep learning models for their clickthrough rate in advertising and personalization recommendations in ecommerce. As the behavior of their clients change, they can accumulate large amounts of new data every day. Model iteration is one of a data",
@@ -1323,58 +1375,6 @@
       "topics": [
         "AI",
         "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-movinet-for-streaming-action-recognition.md",
-      "title": "MoViNet for streaming action recognition",
-      "excerpt": "This tutorial runs a pretrained Video Classification model to classify an activity (such as dancing, swimming, biking etc) in the given video. The model architecture used in this tutorial is called MoViNet (Mobile Video Networks). MoVieNets are a family of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/hub/tutorials/movinet",
-      "originalUrl": "https://www.tensorflow.org/hub/tutorials/movinet",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-hub-logo-social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
       ]
     }
   ],

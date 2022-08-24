@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-07-29-movinet-for-streaming-action-recognition.md",
+      "title": "MoViNet for streaming action recognition",
+      "excerpt": "This tutorial runs a pretrained Video Classification model to classify an activity (such as dancing, swimming, biking etc) in the given video. The model architecture used in this tutorial is called MoViNet (Mobile Video Networks). MoVieNets are a family of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/hub/tutorials/movinet",
+      "originalUrl": "https://www.tensorflow.org/hub/tutorials/movinet",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-hub-logo-social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-deepminds-releasing-ai-predictions-for-virtually-every-protein-known-to-science.md",
       "title": "Deepmind’s Releasing AI Predictions for Virtually Every Protein Known to Science",
       "excerpt": "Today’s one of those watershed moments. Alphabet-owned Deepmind on Thursday announced it’s releasing a database of predictions for virtually every protein currently known to science ...",
@@ -1358,58 +1410,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-mahima-pushkarna-is-making-data-easier-to-understand.md",
-      "title": "Mahima Pushkarna is making data easier to understand",
-      "excerpt": "Five years ago, information designer Mahima Pushkarna joined Google to make data easier to understand. As a senior interaction designer on the People + AI Research (PAIR) team, she designed Data Cards to help everyone better understand the contexts of the data they are using. The Data Cards Playbook",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/research/mahima-pushkarna-interview/",
-      "originalUrl": "https://blog.google/technology/research/mahima-pushkarna-interview/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Mahima_Pushkarna_Keyword2x.max-1300x1300.png",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/research/mahima-pushkarna-interview/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/research/mahima-pushkarna-interview/amp/",
-      "publishedDateTime": "2022-06-30T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

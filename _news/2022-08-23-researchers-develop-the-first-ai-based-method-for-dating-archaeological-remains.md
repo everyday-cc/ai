@@ -9,7 +9,7 @@ ampWebUrl: "https://phys.org/news/2022-08-ai-based-method-dating-archaeological.
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-ai-based-method-dating-archaeological.amp"
 type: article
 quality: 53
-heat: 63
+heat: -1
 published: false
 
 provider:
@@ -26,15 +26,20 @@ images:
     isCached: true
 
 related:
-  - title: "AI-based method for dating archeological remains"
-    excerpt: "By analyzing DNA with the help of artificial intelligence (AI), an international research team has developed a method that can accurately date up to ten-thousand year-old human remains."
-    publishedDateTime: 2022-08-23T20:57:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/08/220823162730.htm"
+  - title: "Researchers announce new AI-based technology that can create short videos based on single images"
+    excerpt: "The new framework's name (and, in some ways, concept) are a nod to another AI-based model known as Transformer. Originally introduced in 2017, Transformer is a"
+    publishedDateTime: 2022-08-20T15:51:00Z
+    webUrl: "https://www.techspot.com/news/95701-researchers-announce-new-ai-based-technology-can-create.html"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 47
+      name: TechSpot
+      domain: techspot.com
+    quality: 54
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2022/08/2022-08-19-image-27.jpg"
+        width: 1680
+        height: 840
+        isCached: true
 
 secured: "dW7DrPSvjYopdLwZA+BlBLix5FXVch/AzMlX38CcAK0Iu2ZtS6s3X1YR2tZEYR6oiOFEDacecOaO9pSQKIXh9cf3NbYEi5Qupnj79TiUp2W56pdFqb9ZZYzxqEzS+Vrvg0dx7jqogf1WU+TtgOi8UwDBe5GGfj0mmvhlC1553x2r1thQwaO+r2CZBO55rdW0E7Q0zZWMuIux5vQPdVC0I7VLZBLtNNGOcgmaSkXuScnPH8T+zP/fSyiEB5Q3/Fa2CnGLSEoi3ZoyDNjoJqaRQiGJ2fcMMLrjbMN/ixuAO8NnHsCaUiifnjFQlK744j8GLwo+iqIvHI1HZcRqqYyQ6af1P4uyJ2t3cmt/6e3F+yq3H5or7v/80M5eQl8FUXmX/igPf+n1Xg4BFqAW8V/Cq8KeNcW1yyHcAf5U0W7GrakzUzgICAzkqH3rvwXOKYYS/QIzDL3+JRVTyTuYXSAYSZTZ1cX5ksxuCTKI2FlWUnsobjyicofAn2KWu3Zrb/8vUmugbVdGyuC4jDHBdy4ANA==;TYZQHzpI8KiHsb3LXeZyrQ=="
 ---

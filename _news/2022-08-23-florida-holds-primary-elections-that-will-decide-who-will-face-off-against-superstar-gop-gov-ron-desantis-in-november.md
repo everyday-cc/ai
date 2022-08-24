@@ -9,8 +9,8 @@ ampWebUrl: "https://www.businessinsider.com/florida-primaries-for-senate-and-gov
 cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8?amp"
 type: article
 quality: 65
-heat: 65
-published: false
+heat: 75
+published: true
 
 provider:
   name: Business Insider
@@ -29,6 +29,24 @@ images:
     width: 1200
     height: 600
     isCached: true
+
+related:
+  - title: "LIVE RESULTS: Democrat Charlie Crist to face superstar GOP Gov. Ron DeSantis in November"
+    excerpt: "Rep. Val Demings, a former Orlando police chief, also won the Democratic nomination to face GOP Sen. Marco Rubio."
+    publishedDateTime: 2022-08-24T00:02:00Z
+    webUrl: "https://www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8"
+    ampWebUrl: "https://www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8?amp"
+    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8?amp"
+    type: article
+    provider:
+      name: Business Insider
+      domain: businessinsider.com
+    quality: 65
+    images:
+      - url: "https://i.insider.com/6303e6c2c9a2da00180920c2?width=1200&format=jpeg"
+        width: 1200
+        height: 600
+        isCached: true
 
 secured: "uPXzr2haMdX9vqQ2nCTMFQ4D+qRTYCFpOzH2WG20EnzTFFVyZNuYVy/huPutby8llvRDXUOgg64BNlCW+8Gw2B+MnLaU2K8/118DgxjBIIOMMoEWkLTXelbjpsJTIcNzVxuu4VMDdDi8rCfVLOY61B0x3Hl1QRH8O4XUPuU96zECQ1cTGuCpmWyp/kPu0nyH9zyqI70nOyOudGbSh+Cy3xz6GtiVYRrE1z1z3zwW2jUcPyHUu1P9dMrzLM4KOk+f/+JPrAIRJuZw1QJa2xl/HoHMseJaGgK7icDCJ219/aU2VFfREdZuQyjbdijTg61FVcBqmkmSgiBUj3O33ZkKeqhfetfC9bPK3pw7nHDakrE=;3rzNN24OJ8PVqqzZmVSGfw=="
 ---

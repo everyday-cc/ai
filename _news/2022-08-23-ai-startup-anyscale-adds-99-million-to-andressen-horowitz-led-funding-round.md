@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 144
+published: true
 
 provider:
   name: Wall Street Journal
@@ -33,14 +33,12 @@ related:
   - title: "AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round"
     excerpt: "The company initially announced a $100 million Series C venture investment round led by Andreessen Horowitz in December."
     publishedDateTime: 2022-08-23T12:15:00Z
-    webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?mod=lead_feature_below_a_pos1"
-    ampWebUrl: "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
+    webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?tpl=vc"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 84
+    quality: 64
     images:
       - url: "https://images.wsj.net/im-608499/social"
         width: 1279
@@ -119,6 +117,6 @@ related:
         height: 400
         isCached: true
 
-secured: "5VBKh0PrEZ/TjOnFmv1VvrcuIxQpjoPogiIEBLRuBEY9cZg/m/l0soqyL9tXvRLa3XLV6W+riLmZenNFzyQ4ByIv33/dDvIMwHbgykUr3v4bEbPsvj8Gb+8Lfc2Yp0b9t0E2PWuG5HTml6RkpqU8F5v4oVREm/dxsluXv3wh3gfcKZmPqPnyRe2yIDIIEgNE3bWgq48jInkRNMqsjcsovhZPWIZIzDpEm6/ERKyHphffrryxrWWAIAGoTuVt0MdoExt7yiY5/Nq8RcjAKqf5RTBRW2m7zgzCkjkxIY/fjb28EPwypeJ8DyGUTf5NDW7OdBpYWnGgZFPu7BEVWR8luqBvKO9dvQRAN+vGnu1Sss8=;ejqBh7MTJOrsA4xS0OhqNw=="
+secured: "ehcJ1dI48SB8c2vtv94rez21n9iwzoT8bZkBjQGCIg0p4wZaxIzgj0R9eWGwPAX472cImAUHFwPsrm7THFmVipmqaGXuxyy5jp+MnuNcAbU9l+aTXmg60tMAs8G3cCRp4J5k2f7y5ZQnwDPiW4UjOzNVQEZ79CYSEqEArGeqH8+I4vSMPTykExAb3XV3DHDylqSmuDKuzMOWuTXhQy7v+XnzNph0zZ5JbhzC2CaaxK+KMgKYHDB1g+tFXOS2Gdy5LPA4TFyp/TY8+TK3a1YjIkZc0XEPjGkU4h/G0W8d+6CIs/I4E2Hxo4XGyMj8p/yuSwb4/r0qCId0nvgaOmjzdzt0muXy4ZbqYP/Kr6hmNS98pQBp1wGBA41o4tahzDedI9s2Y9EiIh4j1CXYWe1r2iGeWJhtzvpJTvr1MtIyxht5vuMZiGLBILJJZ5BcX1NMjJTqCPgxKmCl3ohE7bdl5D9Cy4CEQyeauIui2dVw+LKJ6ChBTXMJBgRlJWOi1BKZV0mOwoXrv38PPilyXdlGeA==;fjkK+34VNG2I5HXHKv8E1w=="
 ---
 

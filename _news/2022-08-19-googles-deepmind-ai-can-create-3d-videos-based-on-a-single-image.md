@@ -7,7 +7,7 @@ originalUrl: "https://www.independent.co.uk/tech/google-s-deepmind-ai-3d-video-i
 webUrl: "https://www.independent.co.uk/tech/google-s-deepmind-ai-3d-video-image-b2148496.html"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -26,19 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Researchers announce new AI-based technology that can create short videos based on single images"
-    excerpt: "The new framework's name (and, in some ways, concept) are a nod to another AI-based model known as Transformer. Originally introduced in 2017, Transformer is a"
-    publishedDateTime: 2022-08-20T15:51:00Z
-    webUrl: "https://www.techspot.com/news/95701-researchers-announce-new-ai-based-technology-can-create.html"
+  - title: "After binge-watching TV, Google's DeepMind AI can now read lips better than humans"
+    excerpt: "Google’s DeepMind artificial intelligence system has learned another useful skill. The soon-to-become-Skynet AI can now read lips with a higher accuracy than humans, after it watched thousands ..."
+    publishedDateTime: 2022-08-20T22:53:00Z
+    webUrl: "https://www.neowin.net/news/after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans/"
+    ampWebUrl: "https://www.neowin.net/amp/after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans/"
+    cdnAmpWebUrl: "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans/"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 54
+      name: Neowin
+      domain: neowin.net
+    quality: 98
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2022/08/2022-08-19-image-27.jpg"
-        width: 1680
-        height: 840
+      - url: "https://cdn.neow.in/news/images/uploaded/2016/11/1479985769_hal_9000_story.jpg"
+        width: 760
+        height: 428
         isCached: true
 
 secured: "vHAH/j7qt/Y0G7VJsQ+8iLCztNHTA2/SchSPK4+9RDCXmw1u5MIM3fy3QCThfiQQN6a7297OkcjGHygXfLBH1087/WtmsXDzwkdPK7BScJsihTllw5JXBlzmSeFpvQksD5rLaJ+B6LcmkFOfD+ABnoZorO+WrYivuozZ5EUBR0C/IC7TaZwSG0lugW11dRo22Yn+4R2fih9CDybyu724B6wUw6V21mbl8hpAQoO33x1NYXHIlnMQ6e9gQXlMLIMePT+h5lBVKkF95BT+AaREKpaU4MukENAhKyDZZ7h72FNm/8qb0Z2WJy8MtPzlJIHo1PPhIpu4p2OkKuHqLIE3aqydUWJ/LTGkl+3rItxj9dU=;FbrUq2jBQQyj/b4tZ5piMQ=="

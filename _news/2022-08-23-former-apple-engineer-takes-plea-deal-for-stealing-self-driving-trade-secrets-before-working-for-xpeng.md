@@ -23,51 +23,19 @@ topics:
   - AI
 
 related:
-  - title: "Former Apple engineer pleads guilty to stealing self-driving vehicle secrets, faces decade in prison"
-    excerpt: "Federal agents stopped Zhang at San Jose International Airport as he departed for Beijing using a ticket bought at the \"last second.\" He"
-    publishedDateTime: 2022-08-23T11:15:00Z
-    webUrl: "https://www.techspot.com/news/95726-former-apple-engineer-pleads-guilty-stealing-self-driving.html"
+  - title: "Pilot Travel Centers Explores Accommodating Self-Driving Trucks"
+    excerpt: "Pilot Travel Centers LLC, one of the largest operators of roadside travel centers in North America, said it made an equity investment in self-driving trucking startup Kodiak Robotics Inc. and is partnering with the company to incorporate services for ..."
+    publishedDateTime: 2022-08-23T23:03:00Z
+    webUrl: "https://www.wsj.com/articles/pilot-travel-centers-explores-accommodating-self-driving-trucks-11661299412"
     type: article
     provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 39
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 54
     images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/11/2021-11-18-image-19.jpg"
-        width: 1500
-        height: 809
-        isCached: true
-  - title: "Ex-Apple Engineer Admits To Stealing Trade Secrets While Working On Self-Driving Car Project"
-    excerpt: "The former hardware engineer was arrested at the San Jose International Airport in 2018 while he was trying to leave the United States."
-    publishedDateTime: 2022-08-23T04:13:00Z
-    webUrl: "https://www.ibtimes.com/ex-apple-engineer-admits-stealing-trade-secrets-while-working-self-driving-car-project-3604629"
-    ampWebUrl: "https://www.ibtimes.com/ex-apple-engineer-admits-stealing-trade-secrets-while-working-self-driving-car-project-3604629?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ex-apple-engineer-admits-stealing-trade-secrets-while-working-self-driving-car-project-3604629?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 33
-    images:
-      - url: "https://d.ibtimes.com/en/full/3804069/illustration-shows-apple-logo.jpg"
-        width: 1200
-        height: 813
-        isCached: true
-  - title: "Former Apple (AAPL) engineer pleads guilty to trade secret theft from self-driving vehicle division"
-    excerpt: "He was accused of stealing computer files containing trade secrets related to the company's unannounced self-driving car division. U.S. federal prosecutors alleged that Zhang downloaded a 25-page engineering document containing the schematics of main ..."
-    publishedDateTime: 2022-08-23T06:08:00Z
-    webUrl: "https://www.shacknews.com/article/131962/apple-aapl-trade-secret-theft-ev-fsd"
-    ampWebUrl: "https://www.shacknews.com/article/131962/apple-aapl-trade-secret-theft-ev-fsd?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/131962/apple-aapl-trade-secret-theft-ev-fsd?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 30
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/08/22/apple-car-carplay-ev-fsd-trade-secret-theft_feature.jpg"
-        width: 1960
-        height: 1102
+      - url: "https://images.wsj.net/im-609383/social"
+        width: 1280
+        height: 640
         isCached: true
 
 secured: "zEgnym5QWutxsZE5kzFPMT4HrlLVh9+s7BYnLCEYGfwJuwtlikixm1pgpItpWYWjfsbC8H8IHoX7rpeQCeylQJJ6e+yP0j6EAcxFtiZ73Ak6UaIe1+TFV5JfOxtHW6Dm8OuQCHibc6Xnbiy/F0IMYqLuK1VPUdEG/6EcLaXuve/lrVcVdGKZFShaGY2sdlN2RT7dZNkvM18IFcF0aUIrUZIaa/w8LOluYU5gHeHRcsGjwszUsn+I2ruWF7Uz32j7PticocxYlQM56Xe6w9862MyoNDT8ml1Df5NmDzOlHZd/uoS7cSQE5ELFUJFZHd64mDcr2g4XB8i9g2YnX0WJvAkFzmmJ8ic9CBSvYNeCWaca580nggd8vPFNZlxI1fDFCU3CbyTL31L8yBr3UwJDxRMK/eockAx4zbtInY2+H7I47dbCc4XQwOuzPlQtWZWqwQua2JHIUYC0sdCp+PcyquncxpzV2aBtMjpnBA1maNHZKUAjmf3KFUWbnB9y023k8IMs2Fbov29IsH8Cj9tW0g==;9hsKeI3rKtB/hpqrKeRLJA=="

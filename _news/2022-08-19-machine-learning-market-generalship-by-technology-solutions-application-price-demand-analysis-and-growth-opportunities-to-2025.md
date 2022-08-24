@@ -30,29 +30,20 @@ images:
     isCached: true
 
 related:
-  - title: "Natural Language Processing Market (NLP) Demands, Key Players, Size, Growth, Trends, Technology and Forecasts to 2027 - ReportsnReports"
-    excerpt: "ReportsnReports added Global Natural Language Processing (NLP) Market Report to its research database with its 336 no. of research pages report. The Natural Language Processing (NLP) Market size to grow from USD 15."
-    publishedDateTime: 2022-08-19T08:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-market-nlp-demands-key-players-size-growth-trends-technology-and-forecasts-to-2027---reportsnreports-2022-08-19"
+  - title: "Artificial Intelligence in Law Market 2022 Key Regions, Comprehensive Analysis, Growth Drivers and Forecast to 2028 |AIBrain, Amazon, Anki"
+    excerpt: "Global Artificial Intelligence in Law Market report has recently added by Infinity Business Insights which helps"
+    publishedDateTime: 2022-08-19T15:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-2022-key-regions-comprehensive-analysis-growth-drivers-and-forecast-to-2028-aibrain-amazon-anki-2022-08-19"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 52
+    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Market Size, business Share, Total Revenue rate of growth by Key Players Forecast until 2026 | 117 Insights Report"
-    excerpt: "Aug 23, 2022 (The Expresswire) -- \"\"Artificial Intelligence Market\"\" Insights 2022 By Types, Applications (, Network Optimization, Network Security,"
-    publishedDateTime: 2022-08-23T05:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-business-share-total-revenue-rate-of-growth-by-key-players-forecast-until-2026-117-insights-report-2022-08-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 13
 
 secured: "y/x+5ozJ2sqcXSyJJKD1nYlaCljxPQmLQxPFcxIYLuwgSAdGouDrbyEspjfxsM3TX3lnXtj+w3yW5g0i+Vjj2p37AcKnsRO2JrIZt3CEWMO5Zm8wt0fTIMeyKm92fpYtGclf93MoRRUXjtfpru5Jf5L59GUHXBnQKxlsiaLI18rcBDGYM0DlV8UCas2R//JXvY54sR92fFIHtnh3GQIUt9ACNoZQng70BASSxD1w7rvVQ6uC3wy8OhItHcRKVa4mWXDy7bdfrQ59CdNLTScnM5myLE5+4r9Ih4txrx15O4OJmMYx4OkpYVNgLod3/6mcJKf/IRM0im75TKfHWk1UrRSsrr5eNnNzCH62l1OMCtw=;2bkWJX9CJBsWja8a+m49Ag=="
 ---

@@ -2,6 +2,229 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2022-07-21-check-out-baidus-futuristic-robotaxi.md",
+      "title": "Check out Baidu’s futuristic robotaxi",
+      "excerpt": "Chinese tech giant Baidu says its next-generation autonomous taxi features the capabilities of a \"skilled driver with 20 years of experience.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/",
+      "originalUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/07/baidu-auto-car-1.jpg?p=1",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/?amp",
+      "publishedDateTime": "2022-07-21T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-new-ai-tool-that-turns-words-into-art-enters-testing-phase.md",
+      "title": "New AI tool that turns words into art enters testing phase",
+      "excerpt": "A million people eager to dabble with a new artificial intelligence tool that lets them create images simply by describing them with words will soon get their wish, its creators said Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-07-ai-tool-words-art-phase.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-ai-tool-words-art-phase.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/a-photo-illustration-s.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-07-ai-tool-words-art-phase.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-ai-tool-words-art-phase.amp",
+      "publishedDateTime": "2022-07-21T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-driverless-vehicles-on-course-in-chongqing.md",
+      "title": "Driverless vehicles on course in Chongqing",
+      "excerpt": "After introducing China's first fully automated bus service in November last year, Yongchuan district in Chongqing is steering toward becoming more than just a regional powerhouse for autonomous driving in western China.",
+      "sourceUrl": null,
+      "webUrl": "https://global.chinadaily.com.cn/a/202207/21/WS62d8a09ba310fd2b29e6d85e.html",
+      "originalUrl": "https://global.chinadaily.com.cn/a/202207/21/WS62d8a09ba310fd2b29e6d85e.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img2.chinadaily.com.cn/images/202207/21/62d8a09aa310fd2bec977493.jpeg",
+          "width": 720,
+          "height": 479,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T00:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-oracle-partners-with-microsoft-to-offer-database-service-for-azure.md",
+      "title": "Oracle partners with Microsoft to offer database service for Azure",
+      "excerpt": "Oracle Database Service for Azure gives Microsoft Azure customers direct access to Oracle databases residing in Oracle Cloud Infrastructure.",
+      "sourceUrl": null,
+      "webUrl": "https://www.arnnet.com.au/article/700044/oracle-partners-microsoft-offer-database-service-azure/",
+      "originalUrl": "https://www.arnnet.com.au/article/700044/oracle-partners-microsoft-offer-database-service-azure/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_108483497_1.jpg",
+          "width": 473,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-20T23:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ARN",
+        "domain": "arnnet.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-new-ai-creates-images-from-text-in-testing-phase.md",
+      "title": "New AI creates images from text in testing phase",
+      "excerpt": "Entering its testing phase, a new artificial neural network that creates images from text captions will offer a chance to a million enthusiasts to",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news",
+      "originalUrl": "https://www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/07/21/thumbs/800x531/219647.jpg",
+          "width": 1600,
+          "height": 1062,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news/amp",
+      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news/amp",
+      "publishedDateTime": "2022-07-20T23:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Sabah",
+        "domain": "dailysabah.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-baidu-unveils-autonomous-vehicle-without-steering-wheel.md",
       "title": "Baidu unveils autonomous vehicle without steering wheel",
       "excerpt": "China's search engine giant Baidu Inc on Thursday unveiled its new autonomous vehicle (AV) with a detachable steering wheel, with plans to put it to use for its robotaxi service in China next year. Cost per unit will drop to 250,",
@@ -910,224 +1133,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-the-worldwide-ai-in-healthcare-industry-is-expected-to-reach-2082-billion-by-2030.md",
-      "title": "The Worldwide AI in Healthcare Industry is Expected to Reach $208.2 Billion by 2030",
-      "excerpt": "The global artificial intelligence in healthcare market size is expected to reach USD 208.2 billion by 2030. The market is expected to expand at a CAGR of 38.4% from 2022 to 2030. The growing demand for personalized medicine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-worldwide-ai-healthcare-industry-expected-reach-2082-billion-/2022/07/20/9642355.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-worldwide-ai-healthcare-industry-expected-reach-2082-billion-/2022/07/20/9642355.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-amazon-extends-alexa-to-enable-ambient-intelligence.md",
-      "title": "Amazon extends Alexa to enable ambient intelligence",
-      "excerpt": "At Amazon's Alexa Live 2022 event, the company announced updates and outlined its general strategy for enabling ambient intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/20/amazon-extends-alexa-to-enable-ambient-intelligence/",
-      "originalUrl": "https://venturebeat.com/2022/07/20/amazon-extends-alexa-to-enable-ambient-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1240129511-1-e1658272820429.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/20/amazon-extends-alexa-to-enable-ambient-intelligence/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/20/amazon-extends-alexa-to-enable-ambient-intelligence/amp/",
-      "publishedDateTime": "2022-07-20T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-using-artificial-intelligence-to-train-teams-of-robots-to-work-together.md",
-      "title": "Using artificial intelligence to train teams of robots to work together",
-      "excerpt": "When communication lines are open, individual agents such as robots or drones can work together to collaborate and complete a task. But what if they aren't equipped with the right hardware or the signals are blocked,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.html",
-      "originalUrl": "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/using-artificial-intel-7.jpg",
-          "width": 500,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-artificial-intelligence-teams-robots.amp",
-      "publishedDateTime": "2022-07-20T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-look-whats-happening-tomorrow-at-tc-sessions-robotics.md",
-      "title": "Look what’s happening tomorrow at TC Sessions: Robotics",
-      "excerpt": "Who’s ready for robots? Tomorrow, July 21, is the big day when the global community of people who live, breathe and build robots gather to talk about the latest developments in the field and get a look at demos of the newest robotics products and artificial intelligence applications.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/",
-      "originalUrl": "https://techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/TC22_Sessions_Robotics_Wordpress-Post-Header_1-Days-Left-Early-Bird-Countdown_1200x628.png?w=1024",
-          "width": 1024,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/20/look-whats-happening-tomorrow-at-tc-sessions-robotics/amp/",
-      "publishedDateTime": "2022-07-20T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-5-best-ai-stocks-to-invest-in-2022.md",
-      "title": "5 Best AI Stocks to Invest In 2022",
-      "excerpt": "Today’s technology world has been dominated by artificial intelligence in many areas, such as self-driving cars, high-tech computing, enterprise solutions, robotics, and disaster recovery solutions, just to name a few.",
-      "sourceUrl": null,
-      "webUrl": "https://marketingsentinel.com/2022/07/20/5-best-ai-stocks-to-invest-in-2022/",
-      "originalUrl": "https://marketingsentinel.com/2022/07/20/5-best-ai-stocks-to-invest-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "marketingsentinel",
-        "domain": "marketingsentinel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
       ]
     }
   ],

@@ -62,6 +62,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 28
+  - title: "Artificial Intelligence Market Size, business Share, Total Revenue rate of growth by Key Players Forecast until 2026 | 117 Insights Report"
+    excerpt: "Aug 23, 2022 (The Expresswire) -- \"\"Artificial Intelligence Market\"\" Insights 2022 By Types, Applications (, Network Optimization, Network Security,"
+    publishedDateTime: 2022-08-23T05:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-business-share-total-revenue-rate-of-growth-by-key-players-forecast-until-2026-117-insights-report-2022-08-23"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 13
 
 secured: "9D59mlQc8JVmbGbiHJ+Y1l9c983+sd+tGO6bQOrOhjT16qmqEkBnN16jDR7Uwm1Zw5wmL8+7rmcxUFuaYg5zBeIm4qUMyWbX49KmQa3LNB7hiTA+Y9NEria5gRexmeGJ/o0GY06oGDj9RAHS2BMJUucjp4eW1RCeZsyArsz9PclZKncTfDwhTePQGEILjUt+mHgWs3l4sVXU/3DJvnOfF0nTWnYNWkvAuIu9+WueG9Zq5e9zs+UgEzR/6D1NpacxLm3Wo8JL+HnZyc2PvOh6ayfrBtCo49WsKFMN6kTpa2bpOyKqT0srq47m3L5IplT805bPBhUuZDy6Remu+xA5he69lfJ4dg6SbOzFVOyTozk=;YpZW/cfWhUMw+WIUERyMew=="
 ---

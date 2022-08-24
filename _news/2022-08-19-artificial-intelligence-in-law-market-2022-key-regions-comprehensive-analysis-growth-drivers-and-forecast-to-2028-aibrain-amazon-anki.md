@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-2022-key-regions-comprehensive-analysis-growth-drivers-and-forecast-to-2028-aibrain-amazon-anki-2022-08-19"
 type: article
 quality: 50
-heat: 50
+heat: 60
 published: false
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Machine Learning Market generalship by Technology, Solutions, Application, Price, Demand Analysis and Growth Opportunities to 2025"
+    excerpt: "Global Machine Learning Market Report focuses on the major drivers and restraints for the key players. These Research Report also provides granular analysis of the market share, segmentation, revenue forecasts and geographic regions of the market."
+    publishedDateTime: 2022-08-19T12:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-generalship-by-technology-solutions-application-price-demand-analysis-and-growth-opportunities-to-2025-2022-08-19"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 41
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "B6CBiKK4BMVqIMN2ZLjyQXpSfpd7+6NaevMVp4Yv/xCdxuRGCwPmNbdQN/RxgpPJSq8qrIo2b3OKQjrGnGdVANOFDNBs+X9kXQ9wCPk2OHz4WhvN1WKjGFcbdOBwl20AoGmzAB04gjPrgVju0mqkHZW0/KGNiFcxLOJwpDdozbwpbeVXhcPqI1Z4rQ0J4xhbIqaf1NKeLU/7P2wsdG0yWIkgKeI1V8cC6BRDY5Dg80Mo3Mjob/eyPku+6OjqftTI05ES1e/rBFfIG7/S+0SSIx/zJeLHA0d++PHK+JCOjiyw5uNyT4P7575dCoGhi5ROwxmk8tYlCwhWHaqLCmjgGp85tOn0qOd83dgaoceta3w=;IGZLt3dbVuSPs5e5Rp46Og=="
 ---

@@ -36,15 +36,6 @@ related:
       name: Defense World
       domain: defenseworld.net
     quality: 0
-  - title: "Simplex Trading LLC Sells 3,000 Shares of iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV)"
-    excerpt: "Simplex Trading LLC decreased its holdings in iShares Self-Driving EV and Tech ETF (NYSEARCA:IDRV – Get Rating) by 84.0% in the first quarter, according to the company in its most recent disclosure with the Securities & Exchange Commission."
-    publishedDateTime: 2022-08-19T08:28:00Z
-    webUrl: "https://www.defenseworld.net/2022/08/19/simplex-trading-llc-sells-3000-shares-of-ishares-self-driving-ev-and-tech-etf-nysearcaidrv.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 0
 
 secured: "Be7NdaB3A8me5aLAckEUcruUdMjZbC9zbm0Hg1mHiIXlrOjFP2OTFeGyU/VWkq0qRwFjB2KJM96P+9QGha/xHiMEsAC8H0mogsAY9y0JRv2YGDyzvZNyKNt9JohIyVAbgIPGiOjwfuJRWD++lu3mDHF1yQ+uT1o2qzsrX1iXJbX3jF/wJt1rKIjQsYJOpHQRBQCmD874y6VqW8NfL67kIjZo4DIkq4KRdK3B0mW42tAtUj2QxKmZ4rMLMDciq073IaHwCtPfImcXOHgwKG6BejCvlKYEOAQZrowy76p3cge5leh1qz5JxEnQthHklNN1w1mUpZpDHLylWq0LNJp97UId+cwIYTxNNDMmS4zW6qs=;2wc2smtfHMLyr3L51NXXEg=="
 ---

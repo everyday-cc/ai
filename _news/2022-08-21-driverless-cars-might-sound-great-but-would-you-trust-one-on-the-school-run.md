@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thesun.co.uk/news/19568179/driverless-cars-trust-school-
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/19568179/driverless-cars-trust-school-run/amp/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: The Sun
@@ -42,20 +42,6 @@ related:
       - url: "https://i2-prod.hulldailymail.co.uk/incoming/article7484439.ece/ALTERNATES/s1200/1_GettyImages-1074867670.jpg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "The risks and rewards as UK Government unveils its plans for driverless car roll out by 2025"
-    excerpt: "Vehicles that can drive themselves on motorways could be on sale within the next year, according to newly released plans by the Department for Transport"
-    publishedDateTime: 2022-08-19T07:33:00Z
-    webUrl: "https://inews.co.uk/news/self-driving-cars-uk-roads-2025-government-plans-1802805"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 28
-    images:
-      - url: "https://wp.inews.co.uk/wp-content/uploads/2022/08/SEI_120003947.jpg"
-        width: 2500
-        height: 1604
         isCached: true
 
 secured: "mI6yAML8ufY5blBj8XSacYBoCcUUc7e6aXTF0BFrkD4XmqkUh9qQWo7d8BRba+Ccgm+0SGe5wYl1SZkvQ7JigUTPAx195dGnn/EOs3Q3DXrjNKRIfLw8OImw21NAWnvuOHcoQxRv4N0iYkJ2/LMsJHuI0yeUNnwYgB7400JT1lFuflbZastdc8frIyjtyLKmD6W0WeJE9ldSBkaKbpY4wpFc3Pd+tjj19t103xPGe370boM2qZ4GeGVyX+v0vM4nKet/sJXXzGgvb2nSE6Wcq+4I+0QQgt87N4yD6MSjame8EhLumxZfesQFhu9jOF7yO75dKqPp+ZXizVrIeEBGcso5r4sGEt+L/yWhl9QA3enJPMCv2le6cYNp6FHtC8jebYZNAHiKH1QtubhwAqG27dZ4ebVfqQKwJ9EnwSlT6KrzbEZuswlwmvoDBNoTwEoIPJksNgnIPaJNyzIPS5cvaIw9KYpMbTB+Av8hj9gAo34CVRz9BL313kcGPeC2scICF7qLwmO5PBED3N23q5N5cg==;uJq6Izo7g+CWoRmpWW0BHw=="

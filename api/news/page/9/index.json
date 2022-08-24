@@ -2,6 +2,92 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-08-12-deep-learning-chipset-market-future-trends-outlook-2022-and-forecast-to-2028-nvidia-intel-ibm-qualcomm.md",
+      "title": "Deep Learning Chipset Market Future Trends Outlook 2022, and Forecast to 2028 | NVIDIA, Intel, IBM, Qualcomm",
+      "excerpt": "The report provides a basic overview of the Deep Learning Chipset market including definitions, classifications, applications and market chain structure. And development policies and plans are discussed as well as manufacturing processes and cost structures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-future-trends-outlook-2022-and-forecast-to-2028-nvidia-intel-ibm-qualcomm-2022-08-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-chipset-market-future-trends-outlook-2022-and-forecast-to-2028-nvidia-intel-ibm-qualcomm-2022-08-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-12T01:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai.md",
+      "title": "Tata Elxsi brings new age solutions for driverless cars, connected vehicles and more: Tata Elxsi CMO Nitin Pai",
+      "excerpt": "The result is product engineering services to help customers transform their products, and our own platforms such as Autonomai for driverless ... such as AI (artificial intelligence), robotics ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/express-mobility/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/2627006/",
+      "originalUrl": "https://www.financialexpress.com/express-mobility/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/2627006/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/06/NRuL3vXfEXmPiaFdkrVv.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/express-mobility/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/2627006/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/tata-elxsi-brings-new-age-solutions-for-driverless-cars-connected-vehicles-and-more-tata-elxsi-cmo-nitin-pai/2627006/lite/",
+      "publishedDateTime": "2022-08-11T23:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-podcast-transcript-can-ai-and-it-teams-coexist.md",
       "title": "Podcast transcript: Can AI and IT teams coexist?",
       "excerpt": "The past few years have been a boon time for AI with machine learning tools and use cases growing in number and complexity. Larger companies have been gradually investing in the infrastructure and skills needed to deploy AI systems in the field,",
@@ -51,6 +137,49 @@
       "topics": [
         "AI",
         "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics.md",
+      "title": "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics",
+      "excerpt": "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across",
+      "sourceUrl": null,
+      "webUrl": "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4",
+      "originalUrl": "https://www.thenewsmarket.com/news/hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-in/s/8b479350-03c4-4a96-9940-2f60b12f3ba4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://preview.thenewsmarket.com/Previews/kiam/StillAssets/960x540/563394_v3.jpg",
+          "width": 1164,
+          "height": 657,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T23:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The NewsMarket",
+        "domain": "thenewsmarket.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     },
     {
@@ -1074,153 +1203,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-stratum-ai-revolutionizes-miners-deep-learning-of-whats-below-ground.md",
-      "title": "Stratum AI Revolutionizes Miners’ Deep Learning Of What’s Below Ground",
-      "excerpt": "Mining operators need more accurate estimations of where target minerals are located beneath the ground so they can drill and extract once instead of multiple times. Stratum AI provides a deep learning algorithm to better model the exact location of where wanted minerals are located underground.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/frederickdaso/2022/08/11/stratum-ai-revolutionizes-miners-deep-learning-of-whats-below-ground/",
-      "originalUrl": "https://www.forbes.com/sites/frederickdaso/2022/08/11/stratum-ai-revolutionizes-miners-deep-learning-of-whats-below-ground/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f444e3a8d44458ee750efd/0x0.jpg?format=jpg&crop=2048,1152,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/frederickdaso/2022/08/11/stratum-ai-revolutionizes-miners-deep-learning-of-whats-below-ground/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/frederickdaso/2022/08/11/stratum-ai-revolutionizes-miners-deep-learning-of-whats-below-ground/amp/",
-      "publishedDateTime": "2022-08-11T07:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-artificial-intelligence-improves-outcomes-of-cognitive-behavioral-therapy-in-chronic-pain-jama.md",
-      "title": "Artificial intelligence improves outcomes of cognitive behavioral therapy in chronic pain: JAMA",
-      "excerpt": "USA: Use of artificial intelligence for adjusting treatment in cognitive behavioral therapy intervention for chronic pain (AI-CBT-CP) can achieve noninferior and possibly better outcomes relative to standard cognitive behavioral therapy while increasing access and reducing therapist costs,",
-      "sourceUrl": null,
-      "webUrl": "https://medicaldialogues.in/medicine/news/artificial-intelligence-improves-outcomes-of-cognitive-behavioral-therapy-in-chronic-pain-jama-97291",
-      "originalUrl": "https://medicaldialogues.in/medicine/news/artificial-intelligence-improves-outcomes-of-cognitive-behavioral-therapy-in-chronic-pain-jama-97291",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://medicaldialogues.in/h-upload/2022/08/09/182903-untitled-design-2022-08-09t135154100.jpg",
-          "width": 1500,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicaldialogues.in/amp/medicine/news/artificial-intelligence-improves-outcomes-of-cognitive-behavioral-therapy-in-chronic-pain-jama-97291",
-      "cdnAmpWebUrl": "https://medicaldialogues-in.cdn.ampproject.org/c/s/medicaldialogues.in/amp/medicine/news/artificial-intelligence-improves-outcomes-of-cognitive-behavioral-therapy-in-chronic-pain-jama-97291",
-      "publishedDateTime": "2022-08-11T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily",
-        "domain": "medicaldialogues.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-the-power-of-now-how-ai-is-propelling-customer-experience-transformation.md",
-      "title": "The power of now: How AI is propelling customer experience transformation",
-      "excerpt": "Conversational AI is becoming the key to positive customer experiences, automated self-service and real-time agent support.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/the-power-of-now-how-ai-is-propelling-customer-experience-transformation/",
-      "originalUrl": "https://venturebeat.com/ai/the-power-of-now-how-ai-is-propelling-customer-experience-transformation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 108,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1338918342.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 636,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/the-power-of-now-how-ai-is-propelling-customer-experience-transformation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-power-of-now-how-ai-is-propelling-customer-experience-transformation/amp/",
-      "publishedDateTime": "2022-08-11T06:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

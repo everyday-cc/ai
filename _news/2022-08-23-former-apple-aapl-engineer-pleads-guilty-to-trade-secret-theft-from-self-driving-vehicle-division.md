@@ -57,15 +57,6 @@ related:
         width: 1200
         height: 813
         isCached: true
-  - title: "Former Apple engineer takes plea deal for stealing self-driving trade secrets before working for XPeng"
-    excerpt: "Former Apple engineer Xiaolang Zhang has pleaded guilty to trade secret theft after being accused of stealing information surrounding Apple’s self-driving technology. Zhang would go on to work for XPeng Motors in China,"
-    publishedDateTime: 2022-08-23T13:23:00Z
-    webUrl: "https://electrek.co/2022/08/23/apple-engineer-stealing-self-driving-secrets-xpeng/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 18
 
 secured: "xCOoZFb5OEaSm/jC2qLRcMEMM+iH/ftbzsGOnX7Z0yRPFt1iZjtBBQELg8n/6enNEIwnEc3hBzaokB6V/zCg3uOsUcke+i1WqsuUg+jFZ9vCcCqePhPTvgwpl0h0bh1uGpNXQCvxNLLbEer0PpXlGqP/qWw7gyZHZ+aFL9/KBYX1Xe4yvV6Z6AS08IUIuNb8WlJkOkD9SUqLrZW/NyP85kJ6Vlco9YRTt6Lkf0+JzUIoR4Buzil8KIonyF8ok0K95Kg0FUq6F6atKT3fE1/q8wFjGFMA4OTCFnllQ96rIH3pfkr/SKA1ofvAE6dZoUawI/yjTfn77jGtv/U7k9fTDim8GFFIaA0wWXF8ku3nZpA=;r75VikY720E+CEjkk3m5KA=="
 ---

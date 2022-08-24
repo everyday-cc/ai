@@ -43,20 +43,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "The risks and rewards as UK Government unveils its plans for driverless car roll out by 2025"
-    excerpt: "Vehicles that can drive themselves on motorways could be on sale within the next year, according to newly released plans by the Department for Transport"
-    publishedDateTime: 2022-08-19T07:33:00Z
-    webUrl: "https://inews.co.uk/news/self-driving-cars-uk-roads-2025-government-plans-1802805"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 28
-    images:
-      - url: "https://wp.inews.co.uk/wp-content/uploads/2022/08/SEI_120003947.jpg"
-        width: 2500
-        height: 1604
-        isCached: true
 
 secured: "stji8ROvxnbbsk+JpAwEqRs5GiW2gUPshCKa/w2VdfKwVHI1/h7TYPuUcT4zBmdz3ndlVOayW4omq6fkYLyK7uFNzG0xX/EJczOJDbKE88HfE32lgsllyuRbN74XMP7Q/1Xd5ca9krKzNP69UctqAN/TwZtiVKbqmbNZTNFynqqGHB7/130cd6g0dC27XxNXwjRzxEfYWUFvBzJlFfLdQToYbkBKH5+yTSQcnVdrY1oBUl188Bii+JbagB2OM+jf1n0Jqqtz8GniAZcc9wfVIjAkipHrh8ZaAMcDE/fVhduthfYmYclyQUe2angQ4UrML2Cw6BJzS1SRb2I/RhURg3Sw67mUA/HAB9CNY3gnztg=;GLSDa9MgaS0ZODBNZW76eg=="
 ---

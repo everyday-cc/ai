@@ -2,6 +2,50 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-20-hyundai-motor-group-launches-new-ai-institute-to-build-better-robots-for-the-future.md",
+      "title": "Hyundai Motor Group Launches New AI Institute to Build Better Robots for the Future",
+      "excerpt": "Hyundai Motor Group announced the launch of Boston Dynamics AI Institute (the Institute), which will work toward making strides in artificial intelligence (AI), robotics, and intelligent machines. The",
+      "sourceUrl": null,
+      "webUrl": "https://www.natlawreview.com/article/hyundai-motor-group-launches-new-ai-institute-to-build-better-robots-future",
+      "originalUrl": "https://www.natlawreview.com/article/hyundai-motor-group-launches-new-ai-institute-to-build-better-robots-future",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
+          "width": 1426,
+          "height": 808,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.natlawreview.com/article/hyundai-motor-group-launches-new-ai-institute-to-build-better-robots-future?amp",
+      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/hyundai-motor-group-launches-new-ai-institute-to-build-better-robots-future?amp",
+      "publishedDateTime": "2022-08-19T15:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The National Law Review",
+        "domain": "natlawreview.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-08-20-britain-sets-out-roadmap-for-self-driving-vehicle-usage-by-2025.md",
       "title": "Britain sets out roadmap for self driving vehicle usage by 2025",
       "excerpt": "Britain said on Friday it wanted a widespread rollout of self-driving vehicles on roads by 2025, announcing plans for new laws and 100 million pounds ($119.09 million) of funding.",
@@ -10,7 +54,7 @@
       "originalUrl": "https://www.reuters.com/business/autos-transportation/britain-sets-out-roadmap-self-driving-vehicle-usage-by-2025-2022-08-19/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -1193,58 +1237,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-the-three-true-robotic-startup-outcomes.md",
-      "title": "The three true robotic startup outcomes",
-      "excerpt": "Allow me to borrow a phrase from baseball for a moment. If you follow the sport, you’re likely aware of the concept of the “three true outcomes.” They are, specifically, a home run, a strikeout, and a walk.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/",
-      "originalUrl": "https://techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/pYcC1goDf3wvfku_.2022-08-11-12_31_38.gif",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/amp/",
-      "publishedDateTime": "2022-08-18T11:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
       ]
     }
   ],

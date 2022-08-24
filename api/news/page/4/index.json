@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-19-the-three-true-robotic-startup-outcomes.md",
+      "title": "The three true robotic startup outcomes",
+      "excerpt": "Allow me to borrow a phrase from baseball for a moment. If you follow the sport, you’re likely aware of the concept of the “three true outcomes.” They are, specifically, a home run, a strikeout, and a walk.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/",
+      "originalUrl": "https://techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/pYcC1goDf3wvfku_.2022-08-11-12_31_38.gif",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/18/the-three-true-robotic-outcomes/amp/",
+      "publishedDateTime": "2022-08-18T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-exploring-ai-ethics-and-accountability.md",
       "title": "Exploring AI ethics and accountability",
       "excerpt": "A schoolchild? The dilemma and its variants are often cited as the type of problems artificial intelligence will have to grapple with as it becomes ever more prevalent in our lives. Driverless cars, for example, will have split seconds to make exactly ...",
@@ -43,6 +95,58 @@
         "AI in Autos",
         "AI",
         "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage.md",
+      "title": "Amazon's Ring Patches Flaw That Could've Let Hackers Access Camera Footage",
+      "excerpt": "Checkmarx researchers also took their proof-of-concept attack further by showing how Amazon’s own computer vision technology, called Rekognition, could be used to help an attacker quickly sift ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/home-security-cameras/142156/amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage",
+      "originalUrl": "https://uk.pcmag.com/home-security-cameras/142156/amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/a/amazons-ri/amazons-ring-patches-flaw-that-couldve-let-hackers-access-ca_9rcq.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-18T09:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
       ]
     },
     {
@@ -1075,110 +1179,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-incrementally-update-a-dataset-with-a-bulk-import-mechanism-in-amazon-personalize.md",
-      "title": "Incrementally update a dataset with a bulk import mechanism in Amazon Personalize",
-      "excerpt": "We are excited to announce that Amazon Personalize now supports incremental bulk dataset imports; a new option for updating your data and improving the quality of your recommendations. Keeping your datasets current is an important part of maintaining the relevance of your recommendations. Prior to this",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/incrementally-update-a-dataset-with-a-bulk-import-mechanism-in-amazon-personalize/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/incrementally-update-a-dataset-with-a-bulk-import-mechanism-in-amazon-personalize/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/17/incrementally-update-personalize.jpg",
-          "width": 1535,
-          "height": 766,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T10:44:34-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-google-robot-tech-can-understand-you-on-a-human-level.md",
-      "title": "Google Robot Tech Can Understand You on a Human Level",
-      "excerpt": "AI language skills let you command robots in plain English and help them navigate the chaos of the real world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/ai-language-skills-coax-google-robots-into-the-real-world/",
-      "originalUrl": "https://www.cnet.com/tech/computing/ai-language-skills-coax-google-robots-into-the-real-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/fa16c58da5f935f2df3f3e9280845f5ec8f15b77/2022/08/16/2c7e4708-4dcc-4ecb-904e-5de08919629b/20220811-google-palm-saycan-robot-01.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/ai-language-skills-coax-google-robots-into-the-real-world/",
-      "publishedDateTime": "2022-08-17T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

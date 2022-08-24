@@ -2,6 +2,231 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2022-07-22-all-symbols-in-tensorflow-datasets.md",
+      "title": "All symbols in TensorFlow Datasets",
+      "excerpt": "[{ \"type\": \"thumb-down\", \"id\": \"missingTheInformationINeed\", \"label\":\"Missing the information I need\" },{ \"type\": \"thumb-down\", \"id\": \"tooComplicatedTooManySteps ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols",
+      "originalUrl": "https://www.tensorflow.org/datasets/api_docs/python/tfds/all_symbols",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.tensorflow.org/images/tf_logo_social.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TensorFlow",
+        "domain": "tensorflow.org",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "TensorFlow",
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-content-analytics-discovery-and-cognitive-software-market-is-booming-worldwide-with-facebook-google-microsoft.md",
+      "title": "Content Analytics Discovery and Cognitive Software Market Is Booming Worldwide with Facebook, Google, Microsoft",
+      "excerpt": "and give advisory services relating to a variety of unstructured data are together referred to as Content Analytics, Discovery, and Cognitive Systems. by Type (Test Softwares (in Multiple ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/content-analytics-discovery-and-cognitive-software-market-is-booming-worldwide-with-facebook-google-microsoft",
+      "originalUrl": "https://www.digitaljournal.com/pr/content-analytics-discovery-and-cognitive-software-market-is-booming-worldwide-with-facebook-google-microsoft",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/Markets-Srore-shopping-AFP-1K-01-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-ibm-watson-gets-a-factory-job.md",
+      "title": "IBM Watson Gets a Factory Job",
+      "excerpt": "The goal is to combine ABB’s domain knowledge and digital solutions with IBM’s artificial intelligence and machine-learning capabilities. The first two joint industry solutions powered by ABB Ability and Watson were designed to bring real-time ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/automation-motion-control/ibm-watson-gets-factory-job",
+      "originalUrl": "https://www.designnews.com/automation-motion-control/ibm-watson-gets-factory-job",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/IBM_Watson_2.PNG",
+          "width": 800,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-uw-medicine-researchers-train-artificial-intelligence-to-build-vaccines-medications.md",
+      "title": "UW Medicine researchers 'train' artificial intelligence to build vaccines, medications",
+      "excerpt": "Researchers with UW Medicine and Harvard have developed AI software to build proteins used in health science. These can be used to make vaccines, cancer treatments or even pull carbon pollution out of the air,",
+      "sourceUrl": null,
+      "webUrl": "https://www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins",
+      "originalUrl": "https://www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.foxtv.com/static.q13fox.com/www.q13fox.com/content/uploads/2022/07/932/470/dall-e-2.png?ve=1&tl=1",
+          "width": 932,
+          "height": 470,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins.amp",
+      "cdnAmpWebUrl": "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/uw-medicine-researchers-train-artificial-intelligence-to-build-proteins.amp",
+      "publishedDateTime": "2022-07-21T16:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Q13 FOX News",
+        "domain": "q13fox.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-22-fico-and-israels-open-financeai-to-streamline-decision-making-in-credit-insurance.md",
+      "title": "FICO and Israel’s Open-Finance.ai to Streamline Decision-Making in Credit, Insurance",
+      "excerpt": "Global analytics software provider FICO (NYSE: FICO) announced a partnership agreement with Israel’s Open-Finance.ai.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2018/10/Tel-Aviv-Israel-1-1024x885.jpg",
+          "width": 1024,
+          "height": 885,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/07/193932-fico-and-israels-open-finance-ai-to-streamline-decision-making-in-credit-insurance/amp/",
+      "publishedDateTime": "2022-07-21T15:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-new-orleans-reverses-facial-recognition-ban-amid-surging-crime.md",
       "title": "New Orleans reverses facial recognition ban amid surging crime",
       "excerpt": "City leaders in New Orleans voted to reinstate the use of facial recognition technology, despite privacy concerns, as crime continues to trend upward.",
@@ -912,229 +1137,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-check-out-baidus-futuristic-robotaxi.md",
-      "title": "Check out Baidu’s futuristic robotaxi",
-      "excerpt": "Chinese tech giant Baidu says its next-generation autonomous taxi features the capabilities of a \"skilled driver with 20 years of experience.”",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/",
-      "originalUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 199,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/07/baidu-auto-car-1.jpg?p=1",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/?amp",
-      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/?amp",
-      "publishedDateTime": "2022-07-21T02:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Trends",
-        "domain": "digitaltrends.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-new-ai-tool-that-turns-words-into-art-enters-testing-phase.md",
-      "title": "New AI tool that turns words into art enters testing phase",
-      "excerpt": "A million people eager to dabble with a new artificial intelligence tool that lets them create images simply by describing them with words will soon get their wish, its creators said Wednesday.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-07-ai-tool-words-art-phase.html",
-      "originalUrl": "https://techxplore.com/news/2022-07-ai-tool-words-art-phase.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/a-photo-illustration-s.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-07-ai-tool-words-art-phase.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-ai-tool-words-art-phase.amp",
-      "publishedDateTime": "2022-07-21T00:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-driverless-vehicles-on-course-in-chongqing.md",
-      "title": "Driverless vehicles on course in Chongqing",
-      "excerpt": "After introducing China's first fully automated bus service in November last year, Yongchuan district in Chongqing is steering toward becoming more than just a regional powerhouse for autonomous driving in western China.",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202207/21/WS62d8a09ba310fd2b29e6d85e.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202207/21/WS62d8a09ba310fd2b29e6d85e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202207/21/62d8a09aa310fd2bec977493.jpeg",
-          "width": 720,
-          "height": 479,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-21T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-oracle-partners-with-microsoft-to-offer-database-service-for-azure.md",
-      "title": "Oracle partners with Microsoft to offer database service for Azure",
-      "excerpt": "Oracle Database Service for Azure gives Microsoft Azure customers direct access to Oracle databases residing in Oracle Cloud Infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://www.arnnet.com.au/article/700044/oracle-partners-microsoft-offer-database-service-azure/",
-      "originalUrl": "https://www.arnnet.com.au/article/700044/oracle-partners-microsoft-offer-database-service-azure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/dimg/dreamstime_s_108483497_1.jpg",
-          "width": 473,
-          "height": 315,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T23:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ARN",
-        "domain": "arnnet.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-new-ai-creates-images-from-text-in-testing-phase.md",
-      "title": "New AI creates images from text in testing phase",
-      "excerpt": "Entering its testing phase, a new artificial neural network that creates images from text captions will offer a chance to a million enthusiasts to",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news",
-      "originalUrl": "https://www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/07/21/thumbs/800x531/219647.jpg",
-          "width": 1600,
-          "height": 1062,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news/amp",
-      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/arts/new-ai-creates-images-from-text-in-testing-phase/news/amp",
-      "publishedDateTime": "2022-07-20T23:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Sabah",
-        "domain": "dailysabah.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

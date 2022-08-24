@@ -2,13 +2,10 @@
 category: news
 title: "Amazon's Ring Patches Flaw That Could've Let Hackers Access Camera Footage"
 excerpt: "Checkmarx researchers also took their proof-of-concept attack further by showing how Amazon’s own computer vision technology, called Rekognition, could be used to help an attacker quickly sift ..."
-publishedDateTime: 2022-08-18T15:51:00Z
-originalUrl: "https://au.pcmag.com/home-security-cameras/95736/amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage"
-webUrl: "https://au.pcmag.com/home-security-cameras/95736/amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage"
+publishedDateTime: 2022-08-18T16:09:00Z
+originalUrl: "https://uk.pcmag.com/home-security-cameras/142156/amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage"
+webUrl: "https://uk.pcmag.com/home-security-cameras/142156/amazons-ring-patches-flaw-that-couldve-let-hackers-access-camera-footage"
 type: article
-quality: 52
-heat: 52
-published: false
 
 provider:
   name: PC Magazine
@@ -23,11 +20,11 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_au/news/a/amazons-ri/amazons-ring-patches-flaw-that-couldve-let-hackers-access-ca_qkxt.1200.jpg"
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/a/amazons-ri/amazons-ring-patches-flaw-that-couldve-let-hackers-access-ca_9rcq.1200.jpg"
     width: 1200
     height: 675
     isCached: true
 
-secured: "sEQ0h1Q8N1iXE73/ZtSe70fq7yep0qQl9w1MMrCFUTsqIMYCqVuGpfJ5lbzvWcuWGCrEo0T3PX0Q5qIMbDBo3HIAXXbMaidbQFfg7+moH3UqAww/R5KmS0z+A4hS8tgs3vQmGar50mFZuy9A/sSx757GWJ9S7uk+k8sDhEJmRvxedwUMfWzFsGQqTcd8CvSjkujSVZ/YXX6Zqj5B3ZQiCBKTDcrcx4XGBGs2eMov+TKW5JDrI0Z2ORPOga3Y9du5B+lva/L7JkiAU8pTfgpvlMCrOErGbtKXdS+odc0kaqpIWANbZe/OWpMrnBuLROdYPaPZbW3MSW8hJ201cFxzW32PpQtiuLfZZdCee5AiAnk=;vuzLcNmea+6UQT+DDy8Dzw=="
+secured: "3fg9iD9bY8o3rIzPbvM8D/eF4DZEnwTGCA3pROL4zMpHAoZITN6xyjc7Navd9sIiR9CMJ2SnCB10kDIQq7ZusxjLDGyV6+96YE6gRemAEFVq50rwfrtuo4bQpN7eT5YImWGu1IQ6bIm45Z0WVxmb0zkOwBOjrGJqydFzyaoK6O4jiBSJEUQOEMGRx7sBb/NBhwJVvlxwFTrReQL9/ElOud1QBNRmM3Yb5kwi9xNcPzrkK4WcvZi2pXgfN99zxIXTGEwh4NCA4epH0paB44Ai7g04B4hDpyBFSnqcWDQz9Z1Dyu0NwN1XRIaRYddz4Rxnu9Q9rIvJ/DpqbRYdaRuZBRPqQNY9DowFN+pjLiqWzcg=;fxlDnglyZI4y6nAmzFgEaw=="
 ---
 

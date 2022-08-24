@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-06-first-they-banned-facial-recognition-now-theyre-not-so-sure.md",
+      "title": "First, they banned facial recognition. Now they're not so sure",
+      "excerpt": "(CNN Business)Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html",
+      "originalUrl": "https://www.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220803111936-new-orleans-law-enforcement-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html",
+      "publishedDateTime": "2022-08-05T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-06-uk-plans-to-use-smartwatches-facial-recognition-to-surveil-convicted-migrants.md",
+      "title": "UK Plans To Use Smartwatches & Facial Recognition To Surveil Convicted Migrants",
+      "excerpt": "Migrants convicted of a crime in the U.K. may soon have to submit five daily facial recognition scans via a smartwatch as part of sweeping new surveillance practices under consideration by the country’s Home Office and Ministry of Justice.",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952",
+      "originalUrl": "https://gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/uk-smartwatch-facial-recognition-tracking-migrants-1849376952/amp",
+      "publishedDateTime": "2022-08-05T10:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-uk-may-use-facial-recognition-smartwatches-to-monitor-migrant-criminals.md",
       "title": "UK may use facial recognition smartwatches to monitor migrant criminals",
       "excerpt": "The UK government may soon start using facial recognition smartwatches to monitor migrants who have been convicted of crimes. The offenders would need to scan their faces up to five times per day, according to The Guardian.",
@@ -1270,101 +1365,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-bunnings-kmart-stop-using-facial-recognition.md",
-      "title": "Bunnings, Kmart stop using facial recognition",
-      "excerpt": "It was last month revealed that Wesfarmers-owned Kmart and Bunnings, and whitegoods retailer the Good Guys, quietly began using facial recognition in some stores without express consent from their customers.",
-      "sourceUrl": null,
-      "webUrl": "https://ia.acs.org.au/article/2022/bunnings--kmart-stop-using-facial-recognition.html",
-      "originalUrl": "https://ia.acs.org.au/article/2022/bunnings--kmart-stop-using-facial-recognition.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ia.acs.org.au/content/dam/ia/article/images/2022/bunnings%20facial%20recognition%20end.jpg",
-          "width": 819,
-          "height": 461,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-25T18:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ia.acs",
-        "domain": "acs.org.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-nvidia-ai-enterprise-21-bolsters-support-for-open-source.md",
-      "title": "Nvidia AI Enterprise 2.1 bolsters support for open source",
-      "excerpt": "Nvidia updated its AI Enterprise to version 2.1, providing new tools to help run AI and ML workloads for enterprise use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/",
-      "originalUrl": "https://venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/NVIDIA.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/amp/",
-      "publishedDateTime": "2022-07-25T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

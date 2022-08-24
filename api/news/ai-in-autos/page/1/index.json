@@ -195,49 +195,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-21-driverless-cars-might-sound-great-but-would-you-trust-one-on-the-school-run.md",
-      "title": "Driverless cars might sound great but would YOU trust one on the school run?",
-      "excerpt": "IMAGINE a future when you can ditch the school run and bung your kids into a driverless car while you put your feet up. Apparently, that day isn’t too far off. It might sound amazing — but I’m",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/news/19568179/driverless-cars-trust-school-run/",
-      "originalUrl": "https://www.thesun.co.uk/news/19568179/driverless-cars-trust-school-run/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/08/comp-ap-6469-atkinson-op.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/news/19568179/driverless-cars-trust-school-run/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/news/19568179/driverless-cars-trust-school-run/amp/",
-      "publishedDateTime": "2022-08-20T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-20-britain-sets-out-roadmap-for-self-driving-vehicle-usage-by-2025.md",
       "title": "Britain sets out roadmap for self driving vehicle usage by 2025",
       "excerpt": "Britain said on Friday it wanted a widespread rollout of self-driving vehicles on roads by 2025, announcing plans for new laws and 100 million pounds ($119.09 million) of funding.",
@@ -246,7 +203,7 @@
       "originalUrl": "https://www.reuters.com/business/autos-transportation/britain-sets-out-roadmap-self-driving-vehicle-usage-by-2025-2022-08-19/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 274,
+      "heat": 264,
       "tags": null,
       "images": [
         {
@@ -845,6 +802,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-korea-lacks-data-to-operate-autonomous-vehicles.md",
+      "title": "Korea lacks data to operate autonomous vehicles",
+      "excerpt": "Baidu conducted a test drive of 21 million ... As of last year, more than 1,400 cars were launched on a self-driving pilot service in the U.S. As a result, the U.S. and China are conducting ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.koreatimes.co.kr/www/tech/2022/08/419_334345.html",
+      "originalUrl": "https://www.koreatimes.co.kr/www/tech/2022/08/419_334345.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202208/c40267b5ede741dcbca9d7766b4329b6.jpg",
+          "width": 980,
+          "height": 653,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=334345",
+      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=334345",
+      "publishedDateTime": "2022-08-12T09:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Korea Times",
+        "domain": "koreatimes.co.kr",
+        "images": null,
         "publishers": null,
         "authors": null
       },
