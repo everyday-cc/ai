@@ -2,6 +2,49 @@
   "page": 95,
   "value": [
     {
+      "path": "_news/2022-06-08-unmanned-combat-robot-disarmed-for-reconnaissance-duties.md",
+      "title": "Unmanned combat robot disarmed for reconnaissance duties",
+      "excerpt": "Milrem Robotics has rolled out its latest THeMIS Observe battlefield robot variant based on its modular THeMIS UGV platform, with an emphasis on Intelligence, Surveillance and Reconnaissance (ISR ...",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/military/milrem-robotics-themis-observe-unmanned-robot-isr/",
+      "originalUrl": "https://newatlas.com/military/milrem-robotics-themis-observe-unmanned-robot-isr/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-verilys-new-collaboration-to-change-prostate-cancer-digital-pathology.md",
       "title": "Verily’s New Collaboration to Change Prostate Cancer Digital Pathology",
       "excerpt": "The agreement between the two companies will bring together Verily’s artificial intelligence algorithms with Lumea ... and guide prostate cancer therapy selection with improved objectivity and efficiency. Currently, pathologists use the Gleason grading ...",
@@ -1070,50 +1113,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics.md",
-      "title": "AICTE Onboards Microsoft, AWS And More To Promote Technical Training To Students, Academics",
-      "excerpt": "Marching towards making India the globe hub of future technologies, government bodies and private players have come together to provide necessary technical skill training to 1 crore youths in",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehansindia.com/technology/tech-news/aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics-747318",
-      "originalUrl": "https://www.thehansindia.com/technology/tech-news/aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics-747318",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.thehansindia.com/h-upload/2022/06/07/1296568-aicte.jpg",
-          "width": 1200,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehansindia.com/amp/technology/tech-news/aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics-747318",
-      "cdnAmpWebUrl": "https://www-thehansindia-com.cdn.ampproject.org/c/s/www.thehansindia.com/amp/technology/tech-news/aicte-onboards-microsoft-aws-and-more-to-promote-technical-training-to-students-academics-747318",
-      "publishedDateTime": "2022-06-07T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hans India",
-        "domain": "thehansindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Microsoft AI"
       ]
     }
   ],

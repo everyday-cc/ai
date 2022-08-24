@@ -55,22 +55,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Driverless cars: Self-driving cars on UK roads by 2025, says report"
-    excerpt: "It might sound like something from science fiction, but, according to a new government report, fully self-driving vehicles could be on UK roads by 2025. Some cars, coaches and lorries with self-driving features could even be on motorways in the next year,"
-    publishedDateTime: 2022-08-19T15:49:00Z
-    webUrl: "https://www.bbc.co.uk/newsround/62604275"
-    ampWebUrl: "https://www.bbc.co.uk/newsround/62604275.amp"
-    cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/newsround/62604275.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.co.uk
-    quality: 59
-    images:
-      - url: "https://ichef.bbci.co.uk/news/640/cpsprodpb/1F52/production/_126381080_gettyimages-1365468618.jpg"
-        width: 640
-        height: 360
-        isCached: true
   - title: "AI market can be worth USD 7.8 billion by 2025 | AI career roadmap for beginners"
     excerpt: "Here are some of the skills that you would require to make a successful career in the field of AI and Machine Learning."
     publishedDateTime: 2022-08-22T11:07:00Z
@@ -87,38 +71,6 @@ related:
         width: 647
         height: 363
         isCached: true
-  - title: "UK plans for first self-driving vehicles on roads by 2025"
-    excerpt: "Aug 19 2022, 21:48 ist updated: Aug 19 2022, 21:48 ist A verification email has been sent to your inbox. Please verify to complete the subscription."
-    publishedDateTime: 2022-08-19T16:29:00Z
-    webUrl: "https://www.deccanherald.com/international/uk-plans-for-first-self-driving-vehicles-on-roads-by-2025-1137568.html"
-    ampWebUrl: "https://www.deccanherald.com/amp/international/uk-plans-for-first-self-driving-vehicles-on-roads-by-2025-1137568.html"
-    cdnAmpWebUrl: "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/international/uk-plans-for-first-self-driving-vehicles-on-roads-by-2025-1137568.html"
-    type: article
-    provider:
-      name: Deccan Herald
-      domain: deccanherald.com
-    quality: 44
-    images:
-      - url: "https://www.deccanherald.com/sites/dh/files/articleimages/2022/08/19/self-driving-istock-1137568-1660925888.png"
-        width: 1280
-        height: 720
-        isCached: true
-  - title: "UK plans for first self-driving vehicles on roads by next year"
-    excerpt: "Government would prioritise safety through new laws and create thousands of new jobs in the industry: Department for Transport"
-    publishedDateTime: 2022-08-19T15:26:00Z
-    webUrl: "https://www.telegraphindia.com/world/united-kingdom-plans-for-first-self-driving-vehicles-on-roads-by-next-year/cid/1881160"
-    ampWebUrl: "https://www.telegraphindia.com/amp/world/united-kingdom-plans-for-first-self-driving-vehicles-on-roads-by-next-year/cid/1881160"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/world/united-kingdom-plans-for-first-self-driving-vehicles-on-roads-by-next-year/cid/1881160"
-    type: article
-    provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 44
-    images:
-      - url: "https://assets.telegraphindia.com/telegraph/2022/Aug/1660922714_car-driving.jpg"
-        width: 900
-        height: 506
-        isCached: true
   - title: "Proposed UK Law: Humans Not Liable for Self-Driving Vehicle Accidents"
     excerpt: "Self-driving cars could begin operating on major UK highways within the next year ahead of wider 2025 rollout, but humans won't be liable for accidents that occur when the vehicle is in control, according to proposed regulations."
     publishedDateTime: 2022-08-22T13:38:00Z
@@ -128,20 +80,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 34
-  - title: "Self-driving cars could be on roads across Britain by 2023 under new government plans"
-    excerpt: "Self-driving cars could be on British roads by 2023 under new plans unveiled by the government. Transport secretary Grant Shapps has said that the first cars, coaches and lorries with self-driving features could be operating on motorways next year."
-    publishedDateTime: 2022-08-19T16:11:00Z
-    webUrl: "https://www.independent.co.uk/independentpremium/uk-news/selfdriving-cars-2023-grant-shapps-motorway-b2148739.html"
-    type: article
-    provider:
-      name: The Independent
-      domain: independent.co.uk
-    quality: 32
-    images:
-      - url: "https://static.independent.co.uk/2022/08/19/00/7d022aca70ddfa13f23ea7e255dbdcd3Y29udGVudHNlYXJjaGFwaSwxNjYwOTE2NTcx-2.68208156.jpg?quality=75&width=1200&auto=webp"
-        width: 1200
-        height: 770
-        isCached: true
   - title: "Self-driving cars could be on roads across Britain by 2023 under new government plans"
     excerpt: "Self-driving cars could be on British roads by 2023 under new plans unveiled by the government. Transport secretary Grant Shapps has said that the first cars, coaches and lorries with self-driving features could be operating on motorways next year."
     publishedDateTime: 2022-08-20T00:38:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/08/23/ai-cant-be-fooled-by-gam
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/08/23/ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 97
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Kimberly Rosales explains the relationship between artificial intelligence and blockchain"
-    excerpt: "The blockchain and artificial intelligence (AI) have been two technologies of high recognition in recent years, which is why the expert in the cryptographic space, Kimberly Rosales, explains the relationship between the two."
-    publishedDateTime: 2022-08-19T16:29:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/webwire-2022-8-19-kimberly-rosales-explains-the-relationship-between-artificial-intelligence-and-blockchain"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 23
   - title: "XRPL Awards Second Grant to AnChain.AI, Delivering Industry Leading Blockchain Intelligence to XRPL Developers"
     excerpt: "This grant further expands upon AnChain.AI's initial award, through which the AnChain team integrated XRPL transaction data into its BEI blockchain intelligence platform, bringing unprecedented transaction monitoring and KYW (Know Your Wallet) capabilities to the entire XRPL developer base."
     publishedDateTime: 2022-08-23T15:46:00Z

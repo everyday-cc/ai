@@ -2,6 +2,49 @@
   "page": 33,
   "value": [
     {
+      "path": "_news/2022-07-26-bunnings-kmart-stop-using-facial-recognition.md",
+      "title": "Bunnings, Kmart stop using facial recognition",
+      "excerpt": "It was last month revealed that Wesfarmers-owned Kmart and Bunnings, and whitegoods retailer the Good Guys, quietly began using facial recognition in some stores without express consent from their customers.",
+      "sourceUrl": null,
+      "webUrl": "https://ia.acs.org.au/article/2022/bunnings--kmart-stop-using-facial-recognition.html",
+      "originalUrl": "https://ia.acs.org.au/article/2022/bunnings--kmart-stop-using-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ia.acs.org.au/content/dam/ia/article/images/2022/bunnings%20facial%20recognition%20end.jpg",
+          "width": 819,
+          "height": 461,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-25T18:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ia.acs",
+        "domain": "acs.org.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-insight-earns-2022-microsoft-partner-of-the-year-award-for-manufacturing.md",
       "title": "Insight Earns 2022 Microsoft Partner of the Year Award for Manufacturing",
       "excerpt": "Insight used its Insight Lens™ framework to migrate multiple siloed datasets into an optimized Azure machine learning architecture built on Databricks. The result is an increase in about $20 million in annual sales for the client, and the chip ...",
@@ -1111,49 +1154,6 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-could-artificial-intelligence-soon-be-able-to-see.md",
-      "title": "Could artificial intelligence soon be able to see?",
-      "excerpt": "Researchers from the University of Central Florida have unveiled new artificial intelligence that can see, recognise shapes and identify objects. This technology could be used in robotics or to improve autonomous car systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thestar.com.my/tech/tech-news/2022/07/25/could-artificial-intelligence-soon-be-able-to-see",
-      "originalUrl": "https://www.thestar.com.my/tech/tech-news/2022/07/25/could-artificial-intelligence-soon-be-able-to-see",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apicms.thestar.com.my/uploads/images/2022/07/25/1671562.jpg",
-          "width": 1240,
-          "height": 796,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-24T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Star",
-        "domain": "thestar.com.my",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

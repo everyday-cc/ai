@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Former Apple employee admits stealing self-driving car secrets"
+    excerpt: "Zhang, a hardware engineer who worked on the technology, allegedly stole information about prototypes, reference manuals and a 25-page document that detailed engineering plans for a circuit board for a self-driving car. Zhang, who was boarding a flight to ..."
+    publishedDateTime: 2022-08-24T09:21:00Z
+    webUrl: "https://metro.co.uk/2022/08/24/former-apple-employee-admits-stealing-self-driving-car-secrets-17232523/"
+    ampWebUrl: "https://metro.co.uk/2022/08/24/former-apple-employee-admits-stealing-self-driving-car-secrets-17232523/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/08/24/former-apple-employee-admits-stealing-self-driving-car-secrets-17232523/amp/"
+    type: article
+    provider:
+      name: Metro
+      domain: metro.co.uk
+    quality: 44
+    images:
+      - url: "https://metro.co.uk/wp-content/uploads/2022/07/SEI_116830933.jpg?quality=90&strip=all&zoom=1&resize=600%2C399"
+        width: 600
+        height: 399
+        isCached: true
   - title: "Former Apple engineer pleads guilty to stealing self-driving vehicle secrets, faces decade in prison"
     excerpt: "Federal agents stopped Zhang at San Jose International Airport as he departed for Beijing using a ticket bought at the \"last second.\" He"
     publishedDateTime: 2022-08-23T11:15:00Z
@@ -40,6 +56,34 @@ related:
       - url: "https://static.techspot.com/images2/news/bigimage/2021/11/2021-11-18-image-19.jpg"
         width: 1500
         height: 809
+        isCached: true
+  - title: "Engineer admits details about Apple's mythical self-driving project"
+    excerpt: "Engineer Stole manuals of Titan circuit boards An ex-Apple engineer who worked on Titan the outfit's imaginary self-driving car project – admitted to stealing proprietary tech while he was working for the company."
+    publishedDateTime: 2022-08-24T08:54:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/55370-engineer-admits-details-about-apple-s-mythical-self-driving-project"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/3b5cde225a6ba384158fa58d5381edcd_L.jpg"
+        width: 620
+        height: 405
+        isCached: true
+  - title: "The cutting-edge UMaine lab researching self-driving cars and virtual reality"
+    excerpt: "The VEMI Lab has now grown to take over all of Carnegie Hall, the imposing granite campus building that once housed UMaine’s art department."
+    publishedDateTime: 2022-08-22T11:12:00Z
+    webUrl: "https://www.bangordailynews.com/2022/08/22/news/bangor/umaine-lab-self-driving-cars-joam40zk0w/"
+    type: article
+    provider:
+      name: Bangor Daily News
+      domain: bangordailynews.com
+    quality: 36
+    images:
+      - url: "https://bdn-data.s3.amazonaws.com/uploads/2022/08/VEMI-Lab-A-LCO-scaled.jpg"
+        width: 2560
+        height: 1741
         isCached: true
   - title: "Ex-Apple Engineer Admits To Stealing Trade Secrets While Working On Self-Driving Car Project"
     excerpt: "The former hardware engineer was arrested at the San Jose International Airport in 2018 while he was trying to leave the United States."

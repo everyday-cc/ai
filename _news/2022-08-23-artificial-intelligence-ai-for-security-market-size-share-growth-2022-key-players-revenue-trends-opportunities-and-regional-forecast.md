@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-for-security-market-size-share-growth-2022-key-players-revenue-trends-opportunities-and-regional-forecast-to-2028-2022-08-23"
 type: article
 quality: 60
-heat: 200
+heat: 190
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 54
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Law Market 2022 Key Regions, Comprehensive Analysis, Growth Drivers and Forecast to 2028 |AIBrain, Amazon, Anki"
-    excerpt: "Global Artificial Intelligence in Law Market report has recently added by Infinity Business Insights which helps"
-    publishedDateTime: 2022-08-19T15:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-law-market-2022-key-regions-comprehensive-analysis-growth-drivers-and-forecast-to-2028-aibrain-amazon-anki-2022-08-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

@@ -63,15 +63,6 @@ related:
       name: The Sun News
       domain: myrtlebeachonline.com
     quality: 37
-  - title: "Amazon Testing TikTok-Style Feed On Its App, AI Firm Says"
-    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."
-    publishedDateTime: 2022-08-19T16:19:00Z
-    webUrl: "https://www.news9.com/story/62ffb82b525191072cda0b1a/amazon-testing-tiktokstyle-feed-on-its-app-ai-firm-says"
-    type: article
-    provider:
-      name: News9
-      domain: news9.com
-    quality: 19
 
 secured: "M6TE3g/qVUMGa7KhuAL8GGaenIcLKFGo8/tG9uyfM7ntNwc5DgTmU3EBItDvNvvsYZQ3X532ZZ2V/hd20lcSzB84yAYdBXdx5BCpd4CoSVjBbArwR4vAMHGPJ+yTpnTNup4+PTNd9udTT5Ji2LuQziJbLEvob935mknViG+p5KWxIKebW20r5qnl/2far/9gwrTpudWVAPJc6SLaXBtvc/loosjOo/u+QEH6yvD+fqMTaGofH1QVy8zXYHkaJhsPDB+kKQZFtlViqV/yzxR47Ph9fPb+OH4u/dudsMkXGYXeQtXBwZV9ITPmlT2kAj7y9xVdVA7D4Ak2fRHXG59j0fpXysLSYpXdwBdUYHfiZADhh6g4tcphHuKdDtFSDz0SYaAQGfvDeL7CAUEgrs9syn2ewF2zfcHKZJeJI0q7bTMbB5xXAaVnNXV5Rsd9L5OezLxuH5aJ7EUrMts9g4fyEK/+7YPYe4Kk0HbrjFZLUV936MYfiMTKV6RJ7T1YjigU7ID01JG3I+KTYbIt/JJLRg==;StRTfbl0+Mgn1BMUfb1Z+g=="
 ---

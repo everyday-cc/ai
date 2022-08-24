@@ -62,15 +62,6 @@ related:
         width: 800
         height: 600
         isCached: true
-  - title: "Amazon Testing TikTok-Style Feed On Its App, AI Firm Says"
-    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."
-    publishedDateTime: 2022-08-19T16:19:00Z
-    webUrl: "https://www.news9.com/story/62ffb82b525191072cda0b1a/amazon-testing-tiktokstyle-feed-on-its-app-ai-firm-says"
-    type: article
-    provider:
-      name: News9
-      domain: news9.com
-    quality: 19
 
 secured: "pHHfWcPHfSkvQDzfjhD2prvGjtEzkHxHIiad0qK4A+y/9xSK8uPBNBr13Chnn3w9axLnDJwIC6GFzMS1svarvbCU/OodcBFgkTHJ067Ki/yknRh9kniD/kfQUY32eJCJGnFCJyj0xkzRsaOa+eZ1hoAMiq7hUZOz8y99jfCZdLosm78CgKUBv8EUXemxLA0/dvrjbXSmKo7o40iJSTpeX/Bghv9LLHzjeG9CUeofThpABseeZ4jonElHRcu6aecq8QBoM44WpRTw9PBIgBCD5583v+UkBDl74+QPWG2ps4FgnAynmDTOwBXX+HPu/ZcIJyfWo1ZX4Qyov0Qv3kh0iFyNsC6Eix1c+Bg0eW6MP4iEMskGtkCNEEUbpEAPCE5Md2WyHtlVyip5BhMWpVB5ztOwLsyUbt+pjSSsIx9MCjkw9lZrUtFbiQopnAauIsUd87gxkH8T6nUp/55Du+eh3yTSVBO2Po8MvDqbZ9DiALy1m/bewhjNjbjVKGPzM0ys3W/0ZZgHbSIvyCcyxIt6Eg==;HQM7HOPbc4iEIvV/Jsve/A=="
 ---

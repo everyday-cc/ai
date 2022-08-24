@@ -7,7 +7,7 @@ originalUrl: "https://labusinessjournal.com/technology/graymatter-robotics-raise
 webUrl: "https://labusinessjournal.com/technology/graymatter-robotics-raises-20m-in-series-a-funding/"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -25,29 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "AI-powered imaging startup AIRS Medical raises $20M Series B"
-    excerpt: "South Korea-based healthcare startup AIRS Medical announced today that it raised approximately $20 million in a Series B funding round."
-    publishedDateTime: 2022-08-19T16:07:00Z
-    webUrl: "https://www.massdevice.com/ai-imaging-startup-airs-medical-20m-series-b/"
+  - title: "SaaS solutions provider RevSure.AI raises $3.5 mn in seed funding"
+    excerpt: "RevSure.AI announced on Wednesday that it has raised $3.5 million in seed funding and has launched out of stealth mode. The investment was led by Innovation Endeavors, with participation from angel investors Katrin Ribant,"
+    publishedDateTime: 2022-08-24T08:34:00Z
+    webUrl: "https://www.business-standard.com/article/companies/saas-solutions-provider-revsure-ai-raises-3-5-mn-in-seed-funding-122082400584_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/saas-solutions-provider-revsure-ai-raises-3-5-mn-in-seed-funding-122082400584_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/saas-solutions-provider-revsure-ai-raises-3-5-mn-in-seed-funding-122082400584_1.html"
     type: article
     provider:
-      name: MassDevice
-      domain: massdevice.com
-    quality: 43
+      name: Business Standard
+      domain: business-standard.com
+    quality: 57
     images:
-      - url: "https://www.massdevice.com/wp-content/uploads/2022/08/AIRS-Medical.jpg"
-        width: 770
-        height: 500
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-08/24/full/1661329340-8151.jpg"
+        width: 620
+        height: 464
         isCached: true
-  - title: "Healthcare AI startup raises $20M for global expansion"
-    excerpt: "South Korea healthcare startup AIRS Medical has raised $20 million in series B funding. The software company, founded in 2018, specializes in artificial intelligence-based diagnostics tests and robotic technologies for patients and healthcare providers and won the 2019 and 2020 fastMRI challenge,"
-    publishedDateTime: 2022-08-19T16:16:00Z
-    webUrl: "https://www.beckershospitalreview.com/innovation/healthcare-ai-startup-raises-20m-for-global-expansion.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 34
   - title: "Inworld AI Closes $50M Series A Funding"
     excerpt: "Inworld AI, a San Francisco, CA-based developer platform for creating AI-driven virtual characters, raised $50M in Series A funding. The round was led by Section 32 and Intel Capital with participation from Founders Fund, Accelerator Investments LLC ..."
     publishedDateTime: 2022-08-24T07:02:00Z

@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-24-capitol-records-pulls-plug-on-racist-ai-rapper-after-barely-a-week.md",
+      "title": "Capitol Records Pulls Plug On Racist ‘AI Rapper’ After Barely A Week",
+      "excerpt": "The record label pulled the controversial artist it \"signed\" after an activist group called it \"an amalgamation of gross stereotypes.\"",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7",
+      "originalUrl": "https://www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/6305a8232500001f00245b2f.png?cache=JGZtNfCIZ7&ops=1200_630",
+          "width": 1198,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7/amp",
+      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7/amp",
+      "publishedDateTime": "2022-08-24T01:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-untether-ai-pulls-the-curtain-rope-for-its-next-gen-inferencing-system.md",
       "title": "Untether AI Pulls the Curtain Rope For Its Next-Gen Inferencing System",
       "excerpt": "When we last focused on Untether AI in 2021, the AI inferencing hardware startup had just secured $125 million in funding, which came a year after the",
@@ -637,7 +688,7 @@
       "originalUrl": "https://www.forbes.com/sites/qai/2022/08/23/ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 97,
       "tags": null,
       "images": [
         {
@@ -730,6 +781,57 @@
         "AI in Finance",
         "AI",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-ai-startup-anyscale-adds-99-million-to-andreessen-horowitz-led-funding-round.md",
+      "title": "AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round",
+      "excerpt": "The company initially announced a $100 million Series C venture investment round led by Andreessen Horowitz in December.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
+      "originalUrl": "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-608499/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
+      "publishedDateTime": "2022-08-23T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -881,57 +983,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-23-ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round.md",
-      "title": "AI Startup Anyscale Adds $99 Million to Andressen Horowitz-Led Funding Round",
-      "excerpt": "The company initially announced a $100 million Series C venture investment round led by Andressen Horowitz in December.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?mod=newsviewer_click",
-      "originalUrl": "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?mod=newsviewer_click",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-608499?width=860&height=573",
-          "width": 860,
-          "height": 573,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
-      "publishedDateTime": "2022-08-23T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-23-ai-robots-power-hungry-or-empowering.md",
       "title": "AI Robots: Power Hungry Or Empowering?",
       "excerpt": "IT leaders in consumer-facing organizations who have not yet made the plunge into AI but wish to remain competitive are scrambling to figure out how to incorporate AI technology into their contact centers and customer engagement hubs.",
@@ -992,7 +1043,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-for-security-market-size-share-growth-2022-key-players-revenue-trends-opportunities-and-regional-forecast-to-2028-2022-08-23",
       "featuredContent": null,
       "highlight": null,
-      "heat": 200,
+      "heat": 190,
       "tags": null,
       "images": [
         {
@@ -1179,58 +1230,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-intelligently-search-alfresco-content-using-amazon-kendra.md",
-      "title": "Intelligently search Alfresco content using Amazon Kendra",
-      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). With Amazon Kendra, you can easily aggregate content from a variety of content repositories into a centralized index that lets you quickly search all your enterprise data and find the most accurate answer. Many organizations",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-alfresco-content-using-amazon-kendra/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-alfresco-content-using-amazon-kendra/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/22/alfresco-kendra.jpg",
-          "width": 1530,
-          "height": 763,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T13:40:20-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

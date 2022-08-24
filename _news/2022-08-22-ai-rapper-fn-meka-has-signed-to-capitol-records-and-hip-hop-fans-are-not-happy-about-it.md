@@ -50,22 +50,6 @@ related:
         width: 560
         height: 320
         isCached: true
-  - title: "AI rapper FN Meka dropped by Capitol Records following backlash over racial stereotypes"
-    excerpt: "In a statement, Capitol Records wrote, 'we offer our deepest apologies to the Black community for our insensitivity in signing this project.'"
-    publishedDateTime: 2022-08-23T23:44:00Z
-    webUrl: "https://www.latimes.com/entertainment-arts/music/story/2022-08-23/fn-meka-ai-rapper-dropped-capitol-records"
-    ampWebUrl: "https://www.latimes.com/entertainment-arts/music/story/2022-08-23/fn-meka-ai-rapper-dropped-capitol-records?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/music/story/2022-08-23/fn-meka-ai-rapper-dropped-capitol-records?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 49
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/3072813/2147483647/strip/true/crop/3926x2626+0+1141/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc5%2F91%2Fa7b47d3c4a278a1399a865b252f2%2F967024-et-ralfy-the-plug-portrait-04-mjc-2.jpg"
-        width: 320
-        height: 214
-        isCached: true
   - title: "An AI-powered rapper? What you should know as a TikTok-famous virtual artist is signed by a record label"
     excerpt: "An announcement by Capitol Records to sign a virtual artist has generated some level of controversy, as well as curiosity over musicians that do not exist in flesh and blood. Here's what you need to know about virtual artists,"
     publishedDateTime: 2022-08-23T04:49:00Z
@@ -82,19 +66,19 @@ related:
         width: 932
         height: 470
         isCached: true
-  - title: "Capitol Records Drops AI Rapper FN Meka After Backlash"
-    excerpt: "Just a few weeks after it was announced that Capitol Records had signed an artificial intelligence rapper named FN Meka, the label dropped the project after hip-hop fans called out the decision online,"
-    publishedDateTime: 2022-08-23T21:45:00Z
-    webUrl: "https://uproxx.com/music/capitol-records-drops-ai-rapper-fn-meka-after-backlash/"
+  - title: "Capitol Music Group drops AI rapper FN Meka amid backlash over racial stereotyping"
+    excerpt: "But the announcement prompted a backlash over the project, including an open letter from Industry Blackout. The group of Black industry professionals slammed FN Meka as being a “direct insult to the Black community and our culture”."
+    publishedDateTime: 2022-08-24T09:34:00Z
+    webUrl: "https://www.musicweek.com/labels/read/capitol-music-group-drops-ai-rapper-fn-meka-amid-backlash-over-racial-stereotyping/086427"
     type: article
     provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 37
+      name: Music Week
+      domain: musicweek.com
+    quality: 31
     images:
-      - url: "https://uproxx.com/wp-content/uploads/2022/08/FN-Meka-GRID.jpg?w=710"
-        width: 710
-        height: 400
+      - url: "http://www.musicweek.com/cimages/ce52b1ad2f5576ac99a34264fa4c71b9.jpeg"
+        width: 1200
+        height: 630
         isCached: true
   - title: "Capitol Records Severs Ties With FN Meka, an AI-Generated ‘Virtual Rapper,’ Over Stereotypes, Lack of Black Creative Involvement"
     excerpt: "Not long after announcing that the label had signed a computer-generated rapper dubbed FN Meka, Capitol Music Group announced that it is severing ties with the project. The move Tuesday came after"
@@ -111,20 +95,6 @@ related:
       - url: "https://variety.com/wp-content/uploads/2022/08/FN-Meka-e1661294823805.jpg?w=1024"
         width: 1024
         height: 558
-        isCached: true
-  - title: "AI Rapper FN Meka Was Dropped From Capitol Records After Fans Called Out Its Racist Overtones"
-    excerpt: "Just a few weeks after it was announced that Capitol Records had signed an artificial intelligence rapper named FN Meka, the label dropped the project after hip-hop fans called out the decision online,"
-    publishedDateTime: 2022-08-23T21:45:00Z
-    webUrl: "https://uproxx.com/music/ai-rapper-fn-meka-dropped-from-capitol-records/"
-    type: article
-    provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 26
-    images:
-      - url: "https://uproxx.com/wp-content/uploads/2022/08/FN-Meka-GRID.jpg?w=710"
-        width: 710
-        height: 400
         isCached: true
   - title: "Capitol Records “Severs Ties” With AI Rapper FN Meka, Issues Apology To The Black Community For Not “Asking Enough Questions About Equity”"
     excerpt: "Capitol Records has “severed ties” with the recently signed AI rapper FN Meka, who came under intense scrutiny after clips of the project using the N-word went viral. Social-media users also pointed out a photo shared on one of Meka’s accounts showing the rapper in scenes of police brutality."

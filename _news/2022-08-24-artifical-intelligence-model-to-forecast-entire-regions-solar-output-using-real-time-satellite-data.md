@@ -23,6 +23,17 @@ images:
     height: 939
     isCached: true
 
+related:
+  - title: "At Artificial General Intelligence (AGI)..."
+    excerpt: "The 15 th annual Artificial General Intelligence (AGI) Conference opens today at Seattle's Crocodile Venue. Running from August 19-22, the AGI conference event includes in-person events, live streaming,"
+    publishedDateTime: 2022-08-19T17:39:00Z
+    webUrl: "https://news.webindia123.com/news/press_showdetailsPR.asp?id=1271325&cat=PR News Wire"
+    type: article
+    provider:
+      name: Webindia 123
+      domain: webindia123.com
+    quality: 2
+
 secured: "zpxY26apiyLP7SGEemJImRHSUablgQJtJXq8tRqRQDRy5BU1kMgKD3YwUXxoCvVBJAahJ4yvi4PC5OPhRTNEOVIa+XXF0xjPb9Goyl31ZVjvFLZrFP4MiFG7WdUz81JSxB6ip3t4uTfJddK3GjsFZ2ieQgZgoT132l9x3+/V+qphbfXXXmXT0jS4uenVYk1F/TPV1AILNCTiGbFyQLWBnQuShXz+Yg0xjyI/yZs5wfTFaPbuVudRYvvN7XWmBEQDPSqdD/IwTxjux5G8GR3Sxs2PMRGcN6QwwPHobrWmjv+LmmRptJ0fhocBckABCb4KG6X6/X2mTRMgJSxkpyyekmXecT/adEgTb4Mmnnpw2yk=;PLkOB2JoXaN8kq09vmMXsA=="
 ---
 

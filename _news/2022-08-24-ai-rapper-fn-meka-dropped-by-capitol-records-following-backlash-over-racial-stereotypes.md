@@ -26,53 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "Capitol Records signs first AI virtual rapper FN Meka"
-    excerpt: "A robot rapper that has over 10 million followers on TikTok has signed FN Meka is the world’s first augmented reality – or “AR” – artist to sign with a major label. He has over one billion views on TikTok as the platform’s top “virtual being."
-    publishedDateTime: 2022-08-21T23:05:00Z
-    webUrl: "https://www.wdbj7.com/2022/08/21/capitol-records-signs-first-ai-virtual-rapper-fn-meka/"
-    ampWebUrl: "https://www.wdbj7.com/2022/08/21/capitol-records-signs-first-ai-virtual-rapper-fn-meka/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2022/08/21/capitol-records-signs-first-ai-virtual-rapper-fn-meka/?outputType=amp"
+  - title: "Capitol Records Pulls Plug On Racist ‘AI Rapper’ After Barely A Week"
+    excerpt: "The record label pulled the controversial artist it \"signed\" after an activist group called it \"an amalgamation of gross stereotypes.\""
+    publishedDateTime: 2022-08-24T08:31:00Z
+    webUrl: "https://www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7"
+    ampWebUrl: "https://www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7/amp"
+    cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7/amp"
     type: article
     provider:
-      name: WDBJ
-      domain: wdbj7.com
-    quality: 57
+      name: HuffPost
+      domain: huffpost.com
+    quality: 87
     images:
-      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/74vYc1YhLLYjMUbeMTM99DkupAQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/ACCBL2VU6NOOZKVLG7AIZNKJQ4.png"
-        width: 800
-        height: 450
-        isCached: true
-  - title: "Capitol Records blasted for promoting AI rapper FN Meka using n word"
-    excerpt: "Capitol Records blasted for promoting an AI rapper named FN Meka that was created by a white man and uses the n word"
-    publishedDateTime: 2022-08-23T15:06:00Z
-    webUrl: "https://bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/"
-    ampWebUrl: "https://bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/amp/"
-    cdnAmpWebUrl: "https://bossip-com.cdn.ampproject.org/c/s/bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/amp/"
-    type: article
-    provider:
-      name: Bossip
-      domain: bossip.com
-    quality: 57
-    images:
-      - url: "https://bossip.com/wp-content/uploads/sites/28/2022/08/16612612898745.jpg?w=560&h=320&crop=1&strip=all&quality=80"
-        width: 560
-        height: 320
-        isCached: true
-  - title: "An AI-powered rapper? What you should know as a TikTok-famous virtual artist is signed by a record label"
-    excerpt: "An announcement by Capitol Records to sign a virtual artist has generated some level of controversy, as well as curiosity over musicians that do not exist in flesh and blood. Here's what you need to know about virtual artists,"
-    publishedDateTime: 2022-08-23T04:49:00Z
-    webUrl: "https://www.fox10phoenix.com/news/ai-powered-rapper-what-to-know-as-tiktok-famous-virtual-artist-gets-record-label-deal"
-    ampWebUrl: "https://www.fox10phoenix.com/news/ai-powered-rapper-what-to-know-as-tiktok-famous-virtual-artist-gets-record-label-deal.amp"
-    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/ai-powered-rapper-what-to-know-as-tiktok-famous-virtual-artist-gets-record-label-deal.amp"
-    type: article
-    provider:
-      name: FOX 10 Phoenix
-      domain: fox10phoenix.com
-    quality: 40
-    images:
-      - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2022/08/932/470/GettyImages-1230726502.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
+      - url: "https://img.huffingtonpost.com/asset/6305a8232500001f00245b2f.png?cache=JGZtNfCIZ7&ops=1200_630"
+        width: 1198
+        height: 630
         isCached: true
   - title: "Capitol Records Drops AI Rapper FN Meka After Backlash"
     excerpt: "Just a few weeks after it was announced that Capitol Records had signed an artificial intelligence rapper named FN Meka, the label dropped the project after hip-hop fans called out the decision online,"
@@ -88,22 +56,6 @@ related:
         width: 710
         height: 400
         isCached: true
-  - title: "Capitol Records Severs Ties With FN Meka, an AI-Generated ‘Virtual Rapper,’ Over Stereotypes, Lack of Black Creative Involvement"
-    excerpt: "Not long after announcing that the label had signed a computer-generated rapper dubbed FN Meka, Capitol Music Group announced that it is severing ties with the project. The move Tuesday came after"
-    publishedDateTime: 2022-08-23T23:21:00Z
-    webUrl: "https://variety.com/2022/music/news/capitol-drops-fn-meka-artificial-intelligence-rapper-objections-1235348786/"
-    ampWebUrl: "https://variety.com/2022/music/news/capitol-drops-fn-meka-artificial-intelligence-rapper-objections-1235348786/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2022/music/news/capitol-drops-fn-meka-artificial-intelligence-rapper-objections-1235348786/amp/"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 28
-    images:
-      - url: "https://variety.com/wp-content/uploads/2022/08/FN-Meka-e1661294823805.jpg?w=1024"
-        width: 1024
-        height: 558
-        isCached: true
   - title: "AI Rapper FN Meka Was Dropped From Capitol Records After Fans Called Out Its Racist Overtones"
     excerpt: "Just a few weeks after it was announced that Capitol Records had signed an artificial intelligence rapper named FN Meka, the label dropped the project after hip-hop fans called out the decision online,"
     publishedDateTime: 2022-08-23T21:45:00Z
@@ -118,31 +70,6 @@ related:
         width: 710
         height: 400
         isCached: true
-  - title: "Capitol Records “Severs Ties” With AI Rapper FN Meka, Issues Apology To The Black Community For Not “Asking Enough Questions About Equity”"
-    excerpt: "Capitol Records has “severed ties” with the recently signed AI rapper FN Meka, who came under intense scrutiny after clips of the project using the N-word went viral. Social-media users also pointed out a photo shared on one of Meka’s accounts showing the rapper in scenes of police brutality."
-    publishedDateTime: 2022-08-23T22:39:00Z
-    webUrl: "https://www.stereogum.com/2197251/capitol-records-severs-ties-with-ai-rapper-fn-meka-issues-apology-to-the-black-community-for-not-asking-enough-questions-about-equity/news/"
-    ampWebUrl: "https://www.stereogum.com/2197251/capitol-records-severs-ties-with-ai-rapper-fn-meka-issues-apology-to-the-black-community-for-not-asking-enough-questions-about-equity/news/amp/"
-    cdnAmpWebUrl: "https://www-stereogum-com.cdn.ampproject.org/c/s/www.stereogum.com/2197251/capitol-records-severs-ties-with-ai-rapper-fn-meka-issues-apology-to-the-black-community-for-not-asking-enough-questions-about-equity/news/amp/"
-    type: article
-    provider:
-      name: Stereogum
-      domain: stereogum.com
-    quality: 23
-    images:
-      - url: "https://static.stereogum.com/uploads/2022/08/fn-meka-1661297862.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
-  - title: "AI Rapper FN Meka Has Signed To Capitol Records, And Hip-Hop Fans Are Not Happy About It"
-    excerpt: "Labels wanna be cheap and not have to pay real artists so they’re making bots [so] they can keep 100% profit,’ said one Twitter user."
-    publishedDateTime: 2022-08-21T19:36:00Z
-    webUrl: "https://uproxx.com/music/reactions-fn-meka-signing/"
-    type: article
-    provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 8
 
 secured: "Pqzo7/Lob253O7hZDoChz8p6pWmFJMlFmrbgx6zRyiiRliZ3YQpaiflJQGF+Tr2hZ08ymhC14F3/neVQCFMIUyTpZPoZN3B7ZbO8N1QQDIIGsfiOfQmgzYUm2I7cNrwhghwHEmxRrDPnpow63FgXAGnxCzULksSq0FVuSzRM5GzPYqiwGnju9kcKc2zski2SlNi+KEuqnJ44v6yXMNVNd54GRY4gETfPCAUN+DKM+23HrX3YjG2bENICRp3UP5zy6HUdPv08oCqeHQO3SHexZ7INqQy2H6qEM/F5YiQBLYQ84ODiafui666KpWIr9NKAKLrAoKd0YI++OLt0LOgS1UxHQPSCwHl/Nm+4LRYhPns=;XAeWeyPyJoLtRnqfmxAiEw=="
 ---

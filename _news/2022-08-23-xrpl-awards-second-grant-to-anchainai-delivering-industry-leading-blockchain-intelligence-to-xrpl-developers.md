@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Kimberly Rosales explains the relationship between artificial intelligence and blockchain"
-    excerpt: "The blockchain and artificial intelligence (AI) have been two technologies of high recognition in recent years, which is why the expert in the cryptographic space, Kimberly Rosales, explains the relationship between the two."
-    publishedDateTime: 2022-08-19T16:29:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/webwire-2022-8-19-kimberly-rosales-explains-the-relationship-between-artificial-intelligence-and-blockchain"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 23
 
 secured: "iP/CXO9kHQZ0cyfL2jTNnSNVnr2/RNVVdn892BEF/1PILqeSCyP7pH7179BeYGmR125Woetsx69gprRrokbXZneO310C2aFARVn+ncXOst5odVI2iG4KMlgEvGWkRBIfhPs+SKXAT7yC40iTZrGBJ+4wTe1uAK9CVJUMZsRD7s7dQfCYoL4a4A3CIewKR3TAYT4Q/XU68ZKr0Ny7Y+lLsBvkCiA6vGeBSbK2im8sHz1syEo0LwdpMqt0iGsTDrJftYmXie68j8F9+cO+gzZb5vEeLO5uizAzRfs+Y+rHwZrticWauHoKGgNV76+YJpp41hC65ADoxba+U5IfsaK+WOZm80j2bJV6jLKh7mzBCYc=;cAszuMbohNMcG80L+ueZaA=="
 ---

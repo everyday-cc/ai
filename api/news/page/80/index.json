@@ -2,6 +2,57 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2022-06-17-ai-could-mitigate-bias-in-advertising-tech.md",
+      "title": "AI could mitigate bias in advertising tech",
+      "excerpt": "A fairness solution applied to advertising could help reduce bias and potentially help brands get a better return on their media spending.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/16/ai-could-mitigate-bias-in-advertising-tech/",
+      "originalUrl": "https://venturebeat.com/2022/06/16/ai-could-mitigate-bias-in-advertising-tech/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1194402627.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/16/ai-could-mitigate-bias-in-advertising-tech/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/16/ai-could-mitigate-bias-in-advertising-tech/amp/",
+      "publishedDateTime": "2022-06-16T18:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-17-robot-artist-ai-da-paints-glastonbury-headliners-ahead-of-festival-attendance.md",
       "title": "Robot artist Ai-Da paints Glastonbury headliners ahead of festival attendance",
       "excerpt": "Ai-Da Robot has created four portraits of the Somerset festival’s headline acts: Billie Eilish, Diana Ross, Kendrick Lamar and Sir Paul McCartney. To start, Ai-Da Robot uses cameras in its eyes ...",
@@ -1077,49 +1128,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-yseops-ai-natural-language-platform-scaled-by-sanofi-to-accelerate-medical-writing-and-reporting-processes.md",
-      "title": "Yseop’s AI Natural Language Platform Scaled by Sanofi to Accelerate Medical Writing and Reporting Processes",
-      "excerpt": "NEW YORK, June 16, 2022 (GLOBE NEWSWIRE) -- Yseop, the world-leading AI software company and pioneer in Natural Language Processing (NLP), today announced that Sanofi, the global healthcare ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kron4.com/business/press-releases/globenewswire/8573085/yseops-ai-natural-language-platform-scaled-by-sanofi-to-accelerate-medical-writing-and-reporting-processes/",
-      "originalUrl": "https://www.kron4.com/business/press-releases/globenewswire/8573085/yseops-ai-natural-language-platform-scaled-by-sanofi-to-accelerate-medical-writing-and-reporting-processes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.kron4.com/wp-content/uploads/sites/11/2019/06/KRON4_Transparent-Equal-Height.png",
-          "width": 598,
-          "height": 208,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T06:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KRON4",
-        "domain": "kron4.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

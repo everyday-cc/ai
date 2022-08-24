@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/brucerogers/2022/08/19/luminous-computi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brucerogers/2022/08/19/luminous-computing-aims-to-accelerate-ai-with-photonic-computing/amp/"
 type: article
 quality: 89
-heat: 99
+heat: 109
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Driving marketing with AI"
+    excerpt: "AI brings with it the ability to automate many administrative-intensive functions at scale. When it comes to marketing, AI can help identify new audiences while optimising spend on campaigns. “Organisations and agencies are looking for increasingly inventive ways to get the most value possible from their marketing investments."
+    publishedDateTime: 2022-08-24T09:12:00Z
+    webUrl: "https://www.itweb.co.za/content/dgp45MaB6GRqX9l8"
+    ampWebUrl: "https://www.itweb.co.za/amp/content/dgp45MaB6GRqX9l8"
+    cdnAmpWebUrl: "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/dgp45MaB6GRqX9l8"
+    type: article
+    provider:
+      name: ITWeb
+      domain: itweb.co.za
+    quality: 74
+    images:
+      - url: "https://lh3.googleusercontent.com/6CQGvYDSh--Sm_7AYF84B0Fadg8d_JsUSp_EOIvFHcw5_A9T1idJHuJI8sGVRBeTZdPKbutL1VGu2X6fE1lHWsK2YVRpdGmBXyGQ=w816-h428"
+        width: 761
+        height: 428
+        isCached: true
   - title: "Is That Trump Photo Real? Free AI Tools Come With Risks"
     excerpt: "Mostaque’s release is part of a broader push to make AI more freely available, reasoning that it shouldn’t be controlled by a handful of Big Tech firms. It’s a noble sentiment, but one that also comes with risks."
     publishedDateTime: 2022-08-24T04:00:00Z
