@@ -20,6 +20,7 @@ topics:
   - AI in Healthcare
   - AI
   - AI in Robotics
+  - Microsoft AI
 
 images:
   - url: "https://cdn.benzinga.com/files/images/story/2022/08/17/shutterstock_1663029574.jpg?width=1200&height=800&fit=crop"

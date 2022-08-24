@@ -2,27 +2,19 @@
 category: news
 title: "Scientists doubt that DeepMind's AI is as good for fractional-charge systems as it seems"
 excerpt: "DeepMind constructed a neural network based density functional designated as DM21, trained on fractional-electron systems, such as a hydrogen atom with half an electron."
-publishedDateTime: 2022-08-15T00:00:00Z
-originalUrl: "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.html"
-webUrl: "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.html"
-ampWebUrl: "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.amp"
-cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.amp"
+publishedDateTime: 2022-08-15T15:12:00Z
+originalUrl: "https://www.eurekalert.org/news-releases/961844"
+webUrl: "https://www.eurekalert.org/news-releases/961844"
 type: article
 
 provider:
-  name: Phys.org
-  domain: phys.org
+  name: EurekAlert!
+  domain: eurekalert.org
 
 topics:
   - Google AI
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/2022/scientists-doubt-that.jpg"
-    width: 512
-    height: 482
-    isCached: true
-
-secured: "GoVnE/cSBv0mFSafH0YTz9W3P5LTw4GEYSyjh76P5j689lgC50V/b/vrEDmxdO8y4B5C8f76PW2GptmBH1St1SdMJDZd/vH8ZkQuHkgn0k4vIGkYJYdc19H3YYONlJcEckQw4ioHVsuHINo2ZF6x2i9zXlEb8qqjEKAS2JQIWA8hUdirJEOekL1hf9KWaxNDtwhwTE/2SmqqkOTgsJae8I4oj/GOCRv4mqwMX7RnJ2GWb9yM7xYOj7Vs6jCzXx3A3VjZb1zzlD/nb4hHQnoiC25gEAqUvi0McEisvB6y8qw9y6aAnGbw0LqlBagPUTrEvyHJblYc3qNX0ff0qcPAJC0RCoKN/7Zfnbg7dCUoHpY=;/qxzsA0X89qWcVd3QUUdzQ=="
+secured: "ljICeW6ainLVEHmGx56HAmF+Di3URSSD5NU+iFvc6bjRszUThRKvEH6Rw8xHAVVJVBNN2NrmGrVWCQGcNLUVQzdoa/jZXAr3apkLYlDOM6GaKWJ+f1FWX369RZqxZcWTZZ4GmIYjbAzbnbKZB+64ieePq7B/+MiugwSojfqomngvWtCoHSJTsAnO3+cvLfLIxFPqbBuS7pFc3UIL8Xyku+2p6rxb7V7Kg9Oq6kXbUScttpT3fiFK0RtTdt6xC2e2uuMr4L5eArcYP8fa3VrNZqWoWGBNDXzl3pW1WnNF2Gtbn+nMEg4bptrecsUtWVJSRZkv2UYBmTE8ZvyhHSnxAZO5QH3FQYdwn3IosSt4PmY=;iFN3Z3zRInQEiL/uqwiskQ=="
 ---
 
