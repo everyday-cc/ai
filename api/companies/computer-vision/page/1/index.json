@@ -23,7 +23,7 @@
       "twitter": {
         "username": "OpenAI",
         "url": "https://twitter.com/OpenAI",
-        "followers": 813946
+        "followers": 813989
       },
       "size": "51-200 employees",
       "yearFounded": 2015,
@@ -137,7 +137,7 @@
       "twitter": {
         "username": "NvidiaAI",
         "url": "https://twitter.com/NvidiaAI",
-        "followers": 98101
+        "followers": 98105
       },
       "size": "10,001+ employees",
       "yearFounded": 1993,
@@ -341,7 +341,7 @@
       "twitter": {
         "username": "BaiduResearch",
         "url": "https://twitter.com/BaiduResearch",
-        "followers": 58632
+        "followers": 58634
       },
       "size": "10,001+ employees",
       "yearFounded": 2000,
@@ -448,7 +448,7 @@
       "twitter": {
         "username": "airaio",
         "url": "https://twitter.com/airaio",
-        "followers": 4600
+        "followers": 4601
       },
       "size": "11-50 employees",
       "yearFounded": 2015,
@@ -564,7 +564,7 @@
       "twitter": {
         "username": "trueface_ai",
         "url": "https://twitter.com/trueface_ai",
-        "followers": 1597
+        "followers": 1595
       },
       "size": "11-50 employees",
       "yearFounded": 2013,
@@ -1206,7 +1206,7 @@
         "AI",
         "Computer Vision"
       ],
-      "heat": 43,
+      "heat": 42,
       "tags": [
         "Image Recognition"
       ],
@@ -1378,7 +1378,7 @@
       "twitter": {
         "username": "getnarrative",
         "url": "https://twitter.com/getnarrative",
-        "followers": 23084
+        "followers": 23085
       },
       "size": "11-50 employees",
       "yearFounded": 2012,
