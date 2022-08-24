@@ -7,7 +7,7 @@ originalUrl: "https://www.tweaktown.com/news/88042/nvidias-next-gen-hopper-gpu-w
 webUrl: "https://www.tweaktown.com/news/88042/nvidias-next-gen-hopper-gpu-will-be-detailed-at-hot-chips-week/index.html"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -19,22 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Nvidia will disclose Grace Hopper architectural details at Hot Chips"
-    excerpt: "Nvidia is delivering four technical presentations at next week's Hot Chips focused on the Grace CPU, Hopper GPU, Orin SoC and NVLink."
-    publishedDateTime: 2022-08-19T15:00:00Z
-    webUrl: "https://venturebeat.com/data-infrastructure/nvidia-will-disclose-grace-hopper-architectural-details-at-hot-chips/"
-    ampWebUrl: "https://venturebeat.com/data-infrastructure/nvidia-will-disclose-grace-hopper-architectural-details-at-hot-chips/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/nvidia-will-disclose-grace-hopper-architectural-details-at-hot-chips/amp/"
+  - title: "NVIDIA Hopper H100 GPU detailed: TSMC 4nm, HBM3 VRAM, 80B transistors"
+    excerpt: "TSMC 4nm process node, 80 billions transistors, PCIe 5.0, world's first HBM3 memory. NVIDIA has detailed its next-gen Hopper H100 GPU at the Hot Chips 34 event, with the new Hopper H100 GPU being made on TSMC's fresh 4nm process node."
+    publishedDateTime: 2022-08-23T06:14:00Z
+    webUrl: "https://www.tweaktown.com/news/88080/nvidia-hopper-h100-gpu-detailed-tsmc-4nm-hbm3-vram-80b-transistors/index.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 104
-    images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/08/nvidia-Corporate-Blog-Press-Graphic_Grace-and-Grace-Hopper.jpg?w=1200&strip=all"
-        width: 1200
-        height: 675
-        isCached: true
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 34
 
 secured: "ExNJari+HeXfDueWC1BwQMci7R8lWU8qAURqyMAUjT5dcVLaQttwcBj2weMRwQqKSix6scYxUPAF/NLtBfBeRCEOi29iTozfI56bWHYWnbQw0EiHs6HvQcV0zzHKIE/qpJRrL8eOagXvAY5y9+6SCaoP0tBZYM+RTWNOMwW9JkHJjJPx+YGmihHbKr1dgZ3r3cQv8FIw5tlqZLuwz7o63zNRxSel8gNgZ8lEmNi11wPJ2/o0FOTDMORXB8KKdF0BJMJjirbN/9zloIzYBr2qIb2D5/cmJo4TIqtEsALl3nDMc1uB5GzGkPbtCuGwd/nH4xzxPcCmClE0hvIC4TeCobDZpFdnNvXZcxoVDeWBR84=;Eke+vfCdvk4uVLVdTKBBJA=="
 ---

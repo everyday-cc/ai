@@ -1,29 +1,30 @@
 ---
 category: news
-title: "QpiAI Announces AI Enabled QpiAISense™ Platform for Worldwide Deployment for Controlling Superconducting, Spin and Ion-Trap Qubits"
-excerpt: "QpiAI Announces AI Enabled QpiAISense™ Platform for Worldwide Deployment for Controlling Superconducting, Spin and Ion-Trap Qubits"
-publishedDateTime: 2022-08-24T04:43:00Z
-originalUrl: "https://www.businesswireindia.com/qpiai-announces-ai-enabled-qpiaisense-platform-for-worldwide-deployment-for-controlling-superconducting-spin-and-ion-trap-qubits-80320.html"
-webUrl: "https://www.businesswireindia.com/qpiai-announces-ai-enabled-qpiaisense-platform-for-worldwide-deployment-for-controlling-superconducting-spin-and-ion-trap-qubits-80320.html"
+title: "QpiAI announces AI Enabled QpiAISense platform for worldwide deployment for controlling superconducting, spin and ion-trap qubits"
+excerpt: "Milpitas (California) [US]/Bengaluru (Karnataka) [India], August 24 (ANI/BusinessWire India): QpiAI, a leader in quantum computing and AI today announced QpiAISense platform for room temperature qubit control. QpiAISense accelerates ML library using ..."
+publishedDateTime: 2022-08-24T07:45:00Z
+originalUrl: "https://theprint.in/ani-press-releases/qpiai-announces-ai-enabled-qpiaisense-platform-for-worldwide-deployment-for-controlling-superconducting-spin-and-ion-trap-qubits-2/1097501/"
+webUrl: "https://theprint.in/ani-press-releases/qpiai-announces-ai-enabled-qpiaisense-platform-for-worldwide-deployment-for-controlling-superconducting-spin-and-ion-trap-qubits-2/1097501/"
+ampWebUrl: "https://theprint.in/ani-press-releases/qpiai-announces-ai-enabled-qpiaisense-platform-for-worldwide-deployment-for-controlling-superconducting-spin-and-ion-trap-qubits-2/1097501/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/ani-press-releases/qpiai-announces-ai-enabled-qpiaisense-platform-for-worldwide-deployment-for-controlling-superconducting-spin-and-ion-trap-qubits-2/1097501/?amp"
 type: article
-quality: 9
-heat: 9
+quality: 28
+heat: 28
 published: false
 
 provider:
-  name: Business Wire
-  domain: businesswireindia.com
+  name: ThePrint
+  domain: theprint.in
 
 topics:
-  - AI Hardware
   - AI
 
 images:
-  - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_Multimedialog_80320.jpg"
-    width: 1200
-    height: 630
+  - url: "https://static.theprint.in/wp-content/uploads/2022/08/ANI-20220824072542.jpg"
+    width: 600
+    height: 450
     isCached: true
 
-secured: "3IO+jpI0C+YCHKucSFPS/FmfTpPpsCXl6ElysHv/boSCvOwkSQf+6CtHpT/ScM8aLkjlBGiCtFHHKoWAeoJFLc8rWhq92L07e0DStveFwVHwKRk2sUAc58udWa8QCQyxcDqSiKAjPNvaMIkFIhwFICltFkZG9JyMZjwDlasYii2wQqDxduPMt/M7bEsjzZDT4jgyG0GUAoEJj20FXDeHEH4ZMubrAn/x2+/W1KhsE+OiBl6RL7hdLgEdysYUavwwz8OvuNt2xm52qxtuGnKhgFMH0nP+uhFd/82wbrMXt2qHn5+AZ3Lz75hUUIKEhMkjxyzeF7xdhT/O9Vu4ys43tDpkVSIZj2S5tRSODNFHKZU=;ZqFT2N0xdtdc6f0oekZyIw=="
+secured: "vIAdm0RKJ8e3+HUUgXCeCSrW1W7wjZoiV+sUI1+Be4H1aTdcc9Q7McNIcy70jg1ZR1TSQCBri+djYKm7x1luoFEd9IVKoQrTbq7I87qGi9IYbNieBVB9q0OsstJIxpPek9doGZSa4gdvNAA80XZ83OrlukalZK94W3GLFcu6tqhCet9KquokbQ4R4aiuzQNHAvMLFMu/c+KQstiFjYed4ivBpcTE4c2FoQvxbYDvWdZMP4rK+C9rNwYswLfoUeCMyAYtr618v/Re/7vkH90dyt9WDc/Q8NWrkK0bvD3XYZtd86bhzqe8+iN/pfi4bTzmLKBmDejb6RpA0dX4aUhC7oAnbADzz0M/i9S3ZltCaxQ=;UFSHF3v8MT9617nXPIzq2g=="
 ---
 

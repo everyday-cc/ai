@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/britain-sets
 webUrl: "https://www.reuters.com/business/autos-transportation/britain-sets-out-roadmap-self-driving-vehicle-usage-by-2025-2022-08-19/"
 type: article
 quality: 84
-heat: 204
+heat: 194
 published: true
 
 provider:
@@ -187,20 +187,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/cus1661188007650.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "Self-driving vehicles without onboard drivers to join UK roads from 2025"
-    excerpt: "Self-driving vehicles used for public transport or deliveries could travel on UK roads without a qualified human driver onboard from 2025, according to government plans. Vehicles with some self-driving features,"
-    publishedDateTime: 2022-08-19T14:36:00Z
-    webUrl: "https://www.imeche.org/news/news-article/self-driving-vehicles-without-onboard-drivers-to-join-uk-roads-from-2025"
-    type: article
-    provider:
-      name: Institution of Mechanical Engineers
-      domain: imeche.org
-    quality: 23
-    images:
-      - url: "https://www.imeche.org/IME/ui/img/header/logo/imeche-logo.png"
-        width: 400
-        height: 300
         isCached: true
 
 secured: "yEu7GDRbf6f1KeN7C3DrBw00Hulyn65/h54G8ogwGJziLjBPiR9rg2YsGZwVWKFKHfbYpj7mF8I4PA1qb1Zsps4g+Tf3S1AqD4/plwjl223f2dEbXUS480aP4bCgAempfdTQiWM9iZiSdoVWZpoPq8o0rR+6+hcfl1tFT0TmSNG61tWhXArrk6elB9MBo/xYhRvT34i0ciymN6W1U+xAbA+xIdhH1ObIaC1dIeQFTMFU6oaZl5uQnNL5ZT1a/Wh+bYDEERfHcxQKMpgAvK7AdQnc4U4DEB5qbs6Es6QZFGf5oJUpcPhyE3Hc7SPwtpHJPNB6m2nM+2SR7fppbDo+BYn68uOIHYe2rgq9gqI3h+ym6ssu3sdOJ5rRunnZRJI04k3EwInzDaStF1qTNbPzMq0PjFTcGOJkJhffhNuFNWlf5JDthKWgMC8EVkl/nhqZhADnURPLzu8T9TFtbXMr47eXScppS08Z19NhnSS0ruRiHHs2xRERezW8rWqdyyBu1uvHgK00UtgEAnDy8RxFgw==;6NaSi8EiUbEtCVGn0T1WTg=="

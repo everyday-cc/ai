@@ -57,15 +57,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Self-driving cars: UK motorways change sparks AA warning amid new government plans"
-    excerpt: "The Government has unveiled new plans which mean self-driving vehicles could be 'on UK roads by 2025' and they're backed by a £100 million investment to boost the rollout. Motorways could even see some cars,"
-    publishedDateTime: 2022-08-19T13:53:00Z
-    webUrl: "https://www.theboltonnews.co.uk/news/20675179.self-driving-cars-uk-motorways-change-sparks-aa-warning-amid-new-government-plans/"
-    type: article
-    provider:
-      name: The Bolton News
-      domain: theboltonnews.co.uk
-    quality: 0
 
 secured: "fWMB8HB8Q/egMXwPH1MGuqObdX9BCdTWGjv/pNdZwhXqydy5lk+DgXSihsv6vAWv4PWixwOBaq8zSQLVR/nP6dXJf5QBGnjvGGDv/RQmTUOYuu8H2byimBoINuE/5TU0JiGhGv4M8juWt+MdCjXai7LQrIM4RutwyI9CBBva8RlFwauGSZdgxlY9+1c4F08uw/NZf62ViAWj/Xzli5kdt5WPLAU8saW+iy3/d7EfSQhSXl7ejLOHEaNhg6Etff/qZkGzV6dvlWsD5qcEI/fWyIshxJjpypn42Bv8TPIyG+FaRnHUYcA58AmiZxBXfPrPxDI9vAaDmUDwWvswJKY4Utx7mrNzBkP0rBVCR+FqeGs=;1sKlgU74POlHKvpHxCEIVg=="
 ---

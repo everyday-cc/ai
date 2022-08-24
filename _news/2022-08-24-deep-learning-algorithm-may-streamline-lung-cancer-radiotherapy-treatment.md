@@ -8,8 +8,8 @@ webUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radio
 ampWebUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp"
 type: article
-quality: 73
-heat: 73
+quality: 90
+heat: 90
 published: true
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/lung-scan.jpg"
@@ -26,6 +27,6 @@ images:
     height: 1966
     isCached: true
 
-secured: "0jjf45G7iP/iJSBQOdVq1Jj7B1H7IoXGdUaAYa0jV9nzTU4zqzpgapaG4lQMccHXG2FLFIGowfv6a0aSGxogHodcx+cjWmZAuLPrQbTaArPgbaeA81gMIRBJG66a3pVQMm2I9w38+oYmmrtN5wTh3irZWWkYs70J1bWW9RdL+OR9p2qMZGBfQ8E4yI7MbsHLbAR2yRj9mZQBP9CSohjVvy750bM1ARQxrJ2Z7QJLWgNSBVgILToEtE5uXttyyACvceutWtHrr+CfhP1IFRPZPDReucr1SNuBLKemUWmoy6zzz/+PDnL9cV/oLLzdp0TUGSUQVRSK5UnPBS4o2E5FTAlnGTk5FYXW6dOJnleT2zo=;szz77yAR1iqARJVkm6kpdA=="
+secured: "lijK9irxUfFDxL0ITr3tbg6aF/tFidNbKn1k3a+sahvWqxjCNsTyQdwdHiybzKU5uuCj1ybntiz16rzbuOmQKljBHOPUZJyQNC2za9wdhMXlZeiJGnl12HUGQYSfImBAyF96SroRxygjJoem+X1oHcvWKvQIy21G4zDV2w8IjgYWAAoYAySvKhBiQGgiVQTB24qxj1xVmMcXy6DmyM/AO8anY+HMCuyShd//Gz+LZqnKuBirEnBciCfqeZBvS1EO5IQkc1IuQ9u2ztVXL30R1lZvfBdi/oC+cNVQ7bAOsS6Zx0R64kZCbD80EjCbQRAGj84qEo8JDBxIhqUQwIbqc2GKxLhWkmlKgfEtHwvgtwjnTZiiP6Znfen+/yk+O+/YyGXloXV4dx7xgd0qdFYU2CoTGoUvaxtBSfSjM67fYBcmYhMywrzJqE2did53DuuoCKvO5Jgx4vvz60ufu917Rf0W4GHwu7vcVA9+nMVFT/nLwjGDTWkqeVRIIJA1+cfimMvqd88kYgORaAUIUTGIyg==;d/d0d8aDa5lz+l92s8KBkQ=="
 ---
 

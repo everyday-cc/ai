@@ -7,8 +7,8 @@ originalUrl: "https://www.geekwire.com/2022/how-microsofts-ai-convinced-me-to-sw
 webUrl: "https://www.geekwire.com/2022/how-microsofts-ai-convinced-me-to-switch-to-edge-and-where-the-browser-still-falls-short/"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: GeekWire
@@ -23,15 +23,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Artificial Intelligence in Agriculture Market Business overview 2022, and Forecast to 2030 | By -IBM, John Deere, Microsoft"
-    excerpt: "The strong development of the Artificial Intelligence in Agriculture market can be ascribed to the elements related which incorporate market drivers, limitations and amazing open doors, market propensities of each and every present and future,"
-    publishedDateTime: 2022-08-19T14:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-agriculture-market-business-overview-2022-and-forecast-to-2030-by--ibm-john-deere-microsoft-2022-08-19"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
   - title: "Microsoft: When Who's The CEO Matters"
     excerpt: "Microsoft shares have returned a near 14-bagger since naming Satya Nadella chief executive officer in early 2014. Read more here."
     publishedDateTime: 2022-08-23T12:07:00Z

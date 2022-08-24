@@ -47,6 +47,15 @@ related:
         width: 770
         height: 500
         isCached: true
+  - title: "Inworld AI Closes $50M Series A Funding"
+    excerpt: "Inworld AI, a San Francisco, CA-based developer platform for creating AI-driven virtual characters, raised $50M in Series A funding. The round was led by Section 32 and Intel Capital with participation from Founders Fund, Accelerator Investments LLC ..."
+    publishedDateTime: 2022-08-24T07:02:00Z
+    webUrl: "https://www.finsmes.com/2022/08/inworld-ai-closes-50m-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 17
 
 secured: "5GR1G8L1dpmxVYeX1ASYeQd2tcuOxlKeY4UkkEvJz7257VTX9xshA9tMeFQ+P02AfC+JK9m7owb78I+vQzUCtFUtjnJa1yAArXZ14ggyCuBR4UxxVokwqZOM7Z0HLHSZ6GlTBHzIrcczfj7XEu7sm9yhgEPCiDBbQdRZNjwyk0mMVx+1I9+yz903wo7DbzfoBx0EXVFy/pzCwCRu5aEXzGvL2C/9gU66a7pl6uJAJrc9vSB0ASdLgM/5Rh1Pj3i/4Tpyse8KwyUqLCMmAkTcuKOZ8ueTJaj7XWw4GJ2gRoHdTcOEQe1wWrs6Y8SU9A8dxExLCbOF3OjTuW5YTfgC5FmvPp+spTBhrW9MvOp5mZo=;bNxmrZWZWcgCSSfotn5MSA=="
 ---

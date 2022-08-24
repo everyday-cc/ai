@@ -184,20 +184,6 @@ related:
         width: 1200
         height: 720
         isCached: true
-  - title: "Self-driving vehicles without onboard drivers to join UK roads from 2025"
-    excerpt: "Self-driving vehicles used for public transport or deliveries could travel on UK roads without a qualified human driver onboard from 2025, according to government plans. Vehicles with some self-driving features,"
-    publishedDateTime: 2022-08-19T14:36:00Z
-    webUrl: "https://www.imeche.org/news/news-article/self-driving-vehicles-without-onboard-drivers-to-join-uk-roads-from-2025"
-    type: article
-    provider:
-      name: Institution of Mechanical Engineers
-      domain: imeche.org
-    quality: 23
-    images:
-      - url: "https://www.imeche.org/IME/ui/img/header/logo/imeche-logo.png"
-        width: 400
-        height: 300
-        isCached: true
 
 secured: "tIqTpVlhLyXilSEnQzM6K5mODra6Ftb/kCE+DJ1DSP/0UNQCTOJfKQxOEZb3f15IOrVuu9oDojoWmbRHksQSR1OojVpyOGisjbcHV8EtZoSmzFz+buy5RfAi33ZLboOPWYP/Eyfcr0HMA4nUENm4sM2oMo4JA3cR6+8fe0862x9qTIzl8nlZF4MYPJ3BKnDtDQGnq2+ysGac0CVQhYCO6kzAgrGTpfbhbvKufzjNC/GttV64y+Iix4kZuJPdMjwkvrz+DN2aJq3ZLbRgTIxgBEVxCfcOsSd2BJf8VfLzOh9+pfWGLBu2rXIzojSovI9QdcO1Fa3fyCQhDRr/VERqh3h3Fuocb+5WDyMBA2m4iek=;zreXLK+Br1F1dZSD3RxOEw=="
 ---

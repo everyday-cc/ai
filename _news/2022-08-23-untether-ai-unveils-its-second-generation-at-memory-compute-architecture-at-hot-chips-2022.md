@@ -36,7 +36,7 @@ related:
     provider:
       name: The Next Platform
       domain: nextplatform.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/08/untether-ai-logo.jpg"
         width: 807

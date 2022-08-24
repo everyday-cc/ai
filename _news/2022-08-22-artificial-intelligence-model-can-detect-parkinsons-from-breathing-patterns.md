@@ -57,6 +57,22 @@ related:
         width: 554
         height: 600
         isCached: true
+  - title: "Now AI can detect Parkinson's disease while you are sleeping"
+    excerpt: "Parkinson's disease, a central nervous system disorder that affects movement, sometimes causing tremors, doesn't come with a warning. It is the world's second-most common neurolog"
+    publishedDateTime: 2022-08-24T06:45:00Z
+    webUrl: "https://economictimes.indiatimes.com/magazines/panache/now-ai-can-detect-parkinsons-disease-while-you-are-sleeping/articleshow/93747223.cms"
+    ampWebUrl: "https://m.economictimes.com/magazines/panache/now-ai-can-detect-parkinsons-disease-while-you-are-sleeping/amp_articleshow/93747223.cms"
+    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/now-ai-can-detect-parkinsons-disease-while-you-are-sleeping/amp_articleshow/93747223.cms"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 57
+    images:
+      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-42184,msid-93747444/robot-ai-brain_istock.jpg"
+        width: 600
+        height: 450
+        isCached: true
   - title: "MIT’s new artificial intelligence technology can detect Parkinson’s early using breathing patterns"
     excerpt: "A new MIT-developed artificial intelligence model can detect Parkinson's early on after disease onset from a person's breathing patterns."
     publishedDateTime: 2022-08-23T23:56:00Z

@@ -8,9 +8,9 @@ webUrl: "https://www.nextplatform.com/2022/08/23/untether-ai-pulls-the-curtain-r
 ampWebUrl: "https://www.nextplatform.com/2022/08/23/untether-ai-pulls-the-curtain-rope-for-its-next-gen-inferencing-system/amp/"
 cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/08/23/untether-ai-pulls-the-curtain-rope-for-its-next-gen-inferencing-system/amp/"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: The Next Platform
@@ -19,6 +19,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI Hardware
 
 images:
   - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/08/untether-ai-logo.jpg"
@@ -42,6 +43,6 @@ related:
         height: 450
         isCached: true
 
-secured: "xlhHbsqUjyxH74KkKVz2PEAywAuDxUAHd1nfX4tG5J5/UXrgdioiwiH+6l8inA+ygKmLQhcUcVxrS64ePdnXFI4KdWOFkdJn1bY2eiOZ6sLJJzy0efiaFkdFSZir5PHeGBVDTVDyNHrTxcYBRnVxurQYvjZgKeY8aWSIyMxw7jKCdeEdast1jsrJpkJPy+c1WZhG2ubsYx2rDA1Iv819SgKQwuyuhdqnPL/NnpwaGMl4GBtGBLdRAEZixcwdX+xktEjw5haczsi8jSpoHVI4Pt2p8wOuL0vKrZPwBBwZlz18/cAHsOKBX8s45H9He9UZ6mjsG5uaKEvTjgPRqADouZ9aHvKMj+GlBtMYpaMg0MU=;XFGDVs1XuHbdtCis6EuN+Q=="
+secured: "UoE9f11/iF23scGz2hxpdWDF9nRN9j/jzqAymwyOv3T7+lVa5bM50vTu5Fiwv8G1Llr+iVQ2X3HjVLR16ch33TDV6Xk3EC/aGppkTo/RQfp0twgT9sOc2VwrlFhoOCkZWG44TiWEAoYTx4V+sioHpJdxPfP1ITH2xA77tTY4prV/y+WZHbQVnrZQDLRMLOvWrf7LBQ5k9ClceOde29zyG61sw77+Vpf1RRFDZLq9gCC9iPReuBo9hNMZN4Z2bKKK4X8yHjDmQp15Tso9fWWx2dplt+6mzmVJ1U9UGa4GsJ4e54IOC5EkLMhrzWuEkvHOHnlECf/CwcwhcDhxtr6L8qXVWSKjvttIBqGODOUmifj32laJKbHoplg0e5NJzb7yArtuJ7bisBQ31zd27RNnvVx28sDewbow49xjODp6gAmgkxHxWRUOH1MDuniVnLaSa5vuCGNM1fwytslgKtfKwRC3vsKDLsIf1HZRzFxaXUjqPgmvziF5wehr960Me9QU7SfCgd5v3yT02J0XMD1T8A==;VCgfnzR3J5Vc6gunKP1dYA=="
 ---
 
