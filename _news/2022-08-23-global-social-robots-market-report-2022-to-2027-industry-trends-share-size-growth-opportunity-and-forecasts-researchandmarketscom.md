@@ -109,6 +109,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Market Size 2022, Share, Growth with Recent Trends, Development, Revenue, Demand and Forecast to 2026"
+    excerpt: "The Latest research study released by expert Global Artificial Intelligence in Market with analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development,"
+    publishedDateTime: 2022-08-24T10:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-market-size-2022-share-growth-with-recent-trends-development-revenue-demand-and-forecast-to-2026-2022-08-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Voice Recognition Market Research Report 2022 (Status and Outlook) by Sales, Price, Revenue, Gross Margin, Market Size and Forecast to 2028"
     excerpt: "Aug 23, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Voice Recognition Market\""
     publishedDateTime: 2022-08-23T09:53:00Z

@@ -56,6 +56,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "OpenAI Announces New Pricing Model for its API"
+    excerpt: "OpenAI, the AI company behind the GPT-3 language model for advanced natural language processing, has announced that it will be lowering its pricing for the OpenAI API. The price change for the API, which provides access to all GPT-3 models,"
+    publishedDateTime: 2022-08-24T22:30:00Z
+    webUrl: "https://www.programmableweb.com/news/openai-announces-new-pricing-model-its-api/brief/2022/08/24"
+    ampWebUrl: "https://www.programmableweb.com/news/openai-announces-new-pricing-model-its-api/brief/2022/08/24?amp"
+    cdnAmpWebUrl: "https://www-programmableweb-com.cdn.ampproject.org/c/s/www.programmableweb.com/news/openai-announces-new-pricing-model-its-api/brief/2022/08/24?amp"
+    type: article
+    provider:
+      name: ProgrammableWeb
+      domain: programmableweb.com
+    quality: 59
+    images:
+      - url: "https://www.programmableweb.com/sites/default/files/OpenAI-Announces-New-Pricing-Model-for-its-API-featured.png"
+        width: 640
+        height: 367
+        isCached: true
   - title: "White paper offers ethics advice for use of AI in the US"
     excerpt: "This new white paper encourages all stakeholders — government among them — to consider potential harm that AI can do, and to plan for addressing that."
     publishedDateTime: 2022-08-22T02:00:00Z
@@ -126,6 +142,6 @@ related:
       domain: ohsonline.com
     quality: 27
 
-secured: "KKvXGaDA80rGimF5fPRzdG3T7pMbAOzfiQwZe8cekpL/kLRTKrgI2Mq5GtUFO01WkD0qGxhATpYvGb3W5YvK7vrHscztaFdsquD6yhlTL1i027D95P+gXUwK6QjgN4xvU4ebo/zBqAukTofGRXpcNqPFenZy6NemFUE65xJVQYP542xnpDKL7zchk0mSRmipiwNHhsT/VTEWPXRwMb25ifIu6NM8EL/IRJh5AdFcabntA0UmtLIFz6l1OWo3Q6+F3080SUxlg9tfkdh7WQqPi+N7PvGL8j4YfH9L3iODJv64lqFBkqvchagODLSrcKfEHKwWcmASg05zcyLecfJqDqjBGk3se/nZrz6Ms9vS/LE=;IE/nyDZNdqvnxM0RFS0MLA=="
+secured: "bgX/QqjmhOGMtifXZfTCMEl31Z5begqBr4WrZqpWx0RpUFkkfEwu8w7D6UeGzcedFOVAE6mGw+vAEkVSlGVjFTbSm6XViBal/ZtmVGiu0yex3GNf6t3hmcP6ab0Zq/LMqXWYfhcjTvWzl+aNc7Bq5bpFC/gwe/m6RHUGA9oXAMCEcjrGvIwF9Kt98LjOAWI77T+y0N3YgVTgfHiseMIP6bXlY/IpUaLfZXjGnR7r8NX5YlnkXVY90ZyWYK0jPEy/4VN2HywMc03UEROXEM7E9W0M9K3e7iXMPIA0Ix4lpJUHOrAs5P6bNpDkGdoaPx4qWJtRjPnTqXhGOxFEXI0aLTAfin0fuj5/mGtFEGU1kDeyR0DEq3Oz35tgOLe2rtZbXWjnxz3nul692/k4FyPrqzUdYbYE7FtgNDZ+hnjOPuwxBUMqlVSqLhisrCubaInzwBOAeqIlbdGAeG8H2XHHuDPTSyV5A7y8z5VbH+eCb6qJGKZKQ0nWIXTS5Z8XB2OJj17Ry8Wi4Pc9YpJFsB2yIA==;T4iPt+wblRYQBT+PszKalQ=="
 ---
 

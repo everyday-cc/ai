@@ -3,8 +3,8 @@ category: news
 title: "Automotive Artificial Intelligence Market worth $7.0 Billion by 2027 - Exclusive Report by MarketsandMarkets™"
 excerpt: "Automotive Artificial Intelligence market size is projected to grow from USD 2.3 Billion in 2022 to USD 7.0 Billion by 2027; it is expected to grow at a CAGR of 24.1% from 2022 to 2027, according to a new report by MarketsandMarkets™."
 publishedDateTime: 2022-08-24T14:58:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/24/9661661.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/24/9661661.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-automotive-artificial-intelligence-market-worth-70-billion-2027-/2022/08/24/9661661.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-automotive-artificial-intelligence-market-worth-70-billion-2027-/2022/08/24/9661661.htm"
 type: article
 quality: 0
 heat: -1
@@ -15,7 +15,6 @@ provider:
   domain: tmcnet.com
 
 topics:
-  - Computer Vision
   - AI
 
 related:
@@ -34,6 +33,6 @@ related:
         height: 630
         isCached: true
 
-secured: "lF/4ygoBKQfVdzEIEbnYuyt0JlK4X/AD2OSF/z01sQ79Xir+4hQbvBM2xLGKvUdfks6kKMbeJBIzJKceQ0OIMn3aE0SPhcUSIcckZ1u6Zh6fGQNNM9PSfvt0SUiFqss5EQTCagOFpxyPenWh+hOTc6BIndUunn7dVSMO3SAlLBgYzF8GaMmOevxlnMATM8jsyD4O0JMLa4fW8QGhQCgmoKHesjy/hZ0ZdaWe4MIinPWc4EHJOd88qL/rnZ4WZ6HYcEYWTMJYrT4yHdvg9+JP6VG1Mx5FphvPNjQa3VN/aIkLNogBYOSsjgMLoxJkBngEU90qcxyi3bsDs2OPhNkPf2zFh0KSYTFiWFTlnCx2Vxu9C5ZPhwBqO+IO1s6Ee7+GZO9q826hvqHyWYKAwqVYeaHsGN2J774cVaeClofbBOTnowHbFc9nlC73uEp9cUdTkBKy5AeiZT1TrqO5P11eIjYAo88FjEW1jNnLP58d8hCn27tR71fVPdb+jne4HQCIUQjHuvyemIvV1935ojvxGQ==;zdUdMdQe2WaoAWeP/XBBAQ=="
+secured: "WMG0t5Kiq97qFH2bxwGhPck7HQA1jQMsI51WfHYlXXuQTAI8ut8Pj11FZorgCkd40g8Do93kTEa/tig2a0iGmhejyIAYqI8IH8uNxFgFIAhzjuNPXM50pJzHXkVtLlDdA2U5eNeh/5VkDJuaPRDdTrXe53FnVjtmj4zhaqvtHzGDfQ1+k6ypd6qr30p21YQ4AMa0NbVURmyuIOTv01z+NRR1gP5pnrWsqLJQ4PMBqLBlia6D4Dz/kAb4a/ieZ6ztoS6i3CdMY9c50b0E+GEP28SjECbWg/LmWXIQymWwCggkgLhTFALbXL0mIKTpGTRSoh8iELe9YYl2acv5eQOoVYxY/lVgQZBNPy12SGoY6ZqmSGFEMklDy6dCmhrW0aglY2nHJyqfU8pMYTzQ90QMjxIDWV1CwVRyJ0Rkxc+p2PnqYzE06ZQ33ruc7ij/oBuyCASyfEwctOLxnmUwf8fcN85730cUtqIubKaeeG1ndbqsz4Wm0Rq7Q8wNWWiFgSVtl+nBIkEBFrCincyPqmkuTA==;STijHMa2JUBeZIG7XvTAlA=="
 ---
 

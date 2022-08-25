@@ -51,6 +51,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "OpenAI Announces New Pricing Model for its API"
+    excerpt: "OpenAI, the AI company behind the GPT-3 language model for advanced natural language processing, has announced that it will be lowering its pricing for the OpenAI API. The price change for the API, which provides access to all GPT-3 models,"
+    publishedDateTime: 2022-08-24T22:30:00Z
+    webUrl: "https://www.programmableweb.com/news/openai-announces-new-pricing-model-its-api/brief/2022/08/24"
+    ampWebUrl: "https://www.programmableweb.com/news/openai-announces-new-pricing-model-its-api/brief/2022/08/24?amp"
+    cdnAmpWebUrl: "https://www-programmableweb-com.cdn.ampproject.org/c/s/www.programmableweb.com/news/openai-announces-new-pricing-model-its-api/brief/2022/08/24?amp"
+    type: article
+    provider:
+      name: ProgrammableWeb
+      domain: programmableweb.com
+    quality: 59
+    images:
+      - url: "https://www.programmableweb.com/sites/default/files/OpenAI-Announces-New-Pricing-Model-for-its-API-featured.png"
+        width: 640
+        height: 367
+        isCached: true
   - title: "White paper offers ethics advice for use of AI in the US"
     excerpt: "This new white paper encourages all stakeholders — government among them — to consider potential harm that AI can do, and to plan for addressing that."
     publishedDateTime: 2022-08-22T02:00:00Z

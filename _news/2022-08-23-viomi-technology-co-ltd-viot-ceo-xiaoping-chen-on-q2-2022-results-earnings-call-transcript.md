@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Perimeter Medical Imaging AI, Inc. (PYNKF) CEO Jeremy Sobotta on Q2 2022 Results - Earnings Call Transcript"
+    excerpt: "Q2 2022 Earnings Conference Call August 24, 2022 5:00 PM ET Company Participants Mark Komonoski - Integrous Communications,"
+    publishedDateTime: 2022-08-25T03:10:00Z
+    webUrl: "https://seekingalpha.com/article/4536871-perimeter-medical-imaging-ai-inc-pynkf-ceo-jeremy-sobotta-on-q2-2022-results-earnings-call"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 19
+    images:
+      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
+        width: 1200
+        height: 1200
+        isCached: true
   - title: "NVIDIA Corporation (NVDA) CEO Jensen Huang on Q2 2023 Results - Earnings Call Transcript"
     excerpt: "Q2 2023 Results Conference Call August 24, 2022 05:00 PM ET Company Participants Simona Jankowski - Head of IR Jensen Huang - President and"
     publishedDateTime: 2022-08-25T01:22:00Z
