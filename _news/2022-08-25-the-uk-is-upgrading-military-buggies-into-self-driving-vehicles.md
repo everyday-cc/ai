@@ -43,22 +43,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Self-driving cars: UK motorways change sparks AA warning amid new government plans"
-    excerpt: "The Government has unveiled new plans which mean self-driving vehicles could be 'on UK roads by 2025' and they're backed by a £100 million investment to boost the rollout. Motorways could even see some cars,"
-    publishedDateTime: 2022-08-20T15:41:00Z
-    webUrl: "https://www.theargus.co.uk/news/20679617.self-driving-cars-uk-motorways-change-sparks-aa-warning-amid-new-government-plans/"
-    ampWebUrl: "https://www.theargus.co.uk/news/20679617.amp/"
-    cdnAmpWebUrl: "https://www-theargus-co-uk.cdn.ampproject.org/c/s/www.theargus.co.uk/news/20679617.amp/"
-    type: article
-    provider:
-      name: The Argus
-      domain: theargus.co.uk
-    quality: 38
-    images:
-      - url: "https://www.theargus.co.uk/resources/images/14493174/?type=responsive-gallery"
-        width: 650
-        height: 417
-        isCached: true
   - title: "Proposed UK Law: Humans Not Liable for Self-Driving Vehicle Accidents"
     excerpt: "Self-driving cars could begin operating on major UK highways within the next year ahead of wider 2025 rollout, but humans won't be liable for accidents that occur when the vehicle is in control, according to proposed regulations."
     publishedDateTime: 2022-08-22T13:38:00Z

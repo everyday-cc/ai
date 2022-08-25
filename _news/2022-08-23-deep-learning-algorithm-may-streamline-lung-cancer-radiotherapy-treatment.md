@@ -50,6 +50,20 @@ related:
         width: 400
         height: 240
         isCached: true
+  - title: "Artificial Intelligence Simplifies Lung Cancer Radiotherapy Treatment"
+    excerpt: "Researchers developed a deep learning algorithm to identify and outline lung cancer tumors for faster diagnosis and treatment Researchers used an Artificial Intelligence algorithm to target problems caused due to conventional radiation therapy techniques,"
+    publishedDateTime: 2022-08-25T06:40:00Z
+    webUrl: "https://www.electronicsforu.com/technology-trends/research-papers/artificial-intelligence-simplifies-lung-cancer-radiotherapy-treatment"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 54
+    images:
+      - url: "https://www.electronicsforu.com/wp-contents/uploads/2022/08/pexels-cottonbro-5723884-e1661407548787.jpg"
+        width: 500
+        height: 333
+        isCached: true
 
 secured: "+jECg9oPw5bjSfkVWWlOXTLcbWmLE2L7LJ1ehuOw2VD6JlsZVqSuq080Bz/fxGVhhkUEvLQ7fX2YAvnE2huIpstWRirJ8tqLqAZfC4V7XRcXWTSIL+c90XAOn6qVqMXbLCx72h8e+ww47nuPwaPflpq5i/KE/EMJ1dr/SZV+uUqghOURUr1AVeMdm1GIJy7FJKof712JEBMA63q+2C7cndY+dRksV1VkE5eliebe5i1IMwimAP1sf4tRtaosF1uIswx4pW2pE4sdoMNIX91dTXlAm2KsXXoR+iN12ZAUia5h285iEtez70GBGna5nLRB4HFZFAO9DiiSZAWWkW+rfBnLJwayM/25C8pHLU3gIXY=;O4A6YHoIkV2KZCw2yiXF0A=="
 ---

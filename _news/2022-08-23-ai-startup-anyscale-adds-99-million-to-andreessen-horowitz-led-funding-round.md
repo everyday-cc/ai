@@ -3,8 +3,8 @@ category: news
 title: "AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round"
 excerpt: "The company initially announced a $100 million Series C venture investment round led by Andreessen Horowitz in December."
 publishedDateTime: 2022-08-23T12:15:00Z
-originalUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
-webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
+originalUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?mod=markets_major_pos12"
+webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?mod=markets_major_pos12"
 ampWebUrl: "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
 type: article
@@ -119,6 +119,6 @@ related:
         height: 400
         isCached: true
 
-secured: "7RoDRGbZRLvIjqNMmZYJengcNX5KwrL7opQc0O8jjUutWvlZ7Vug4TPIq3JsJs1yHsz483u2VhzuVL0+kolegpdWuhKNz5cQNHJEFu36rZkNhI++4X7zfFzqhePkFg5gK+6BujSFnQtIrkFa3whBanRnKGST2AAvTzBjKuHI5pckcOWoeLRfejmZP935/VUprTrFe2Bj30pm3u1hk2FfqBTlce0lZpFC9GwqABVpQx/eNRQN7PDsa02sp+NyUnL1rtao5Mx841NU1VR48hz9ZDZB44WjOerc9DGGF2yHDTWZlukORYBaR8tlGw481Xr/abDsIO2TnT3iyHazMmiJhGN3n0s0RV+ySvmhlreONQ8=;P5il1h0nRjjVp5NeGBjwhg=="
+secured: "as7imjGYbWpHbZm52YGv2dSpqTCfO7mAxgP7ZZhcnD/zEqmpb/6Ns0eeHIh0Ndd5Z46WWwKkgnlGUXEG2ymharyDhLEjgEO+JdS7jBR5BUSMdPBRI0BZ5qbDTVLN5Qc0W047Onc9EDKjZrGuAX8u8r57jZvP+HGgRFY9dzhBA1sLIjK5nmNC9FqQdToWU4MSZpqflU4UhjlniM4zCwjG51yepwLOuRztOrPrXYaomN+UIh9w5vDrId+sXhRMG/8DKRVlml8CIdjYirmlJO3Yivb8xB9+8Otw7AM+0fxjClx2Y9tmmJrUqWUUOTQH5E8OKwFFFMyC4/MQvRFIWIgy/K2icTlUB2ZWaBhATkKyVbs=;7O7PyFkljtAWopJDk2miMg=="
 ---
 

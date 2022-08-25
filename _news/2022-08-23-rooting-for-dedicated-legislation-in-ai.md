@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/rooting-for-dedicated-legislation-in
 webUrl: "https://analyticsindiamag.com/rooting-for-dedicated-legislation-in-ai/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,51 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "This student aspires for a career in AI"
-    excerpt: "He was also part of his school’s programming and AI clubs thanks to which he honed his skills to participate in the Kolmogorov Reading Conference for scientific papers. ‘‘I wrote a research paper titled Detection and Classification of brain tumors in MRIs using CNN,"
-    publishedDateTime: 2022-08-20T17:01:00Z
-    webUrl: "https://gulfnews.com/friday/art-people/this-student-aspires-for-a-career-in-ai-1.89858003"
-    ampWebUrl: "https://gulfnews.com/amp/friday/art-people/this-student-aspires-for-a-career-in-ai-1.89858003"
-    cdnAmpWebUrl: "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/friday/art-people/this-student-aspires-for-a-career-in-ai-1.89858003"
+  - title: "The Center for Data Innovation regarding the AI report card."
+    excerpt: "That’s one takeaway from a new report card from the Information Technology Innovation Foundation. Hodan Omaar is a policy analyst who helped develop that report card for ITIF’s center for data innovation."
+    publishedDateTime: 2022-08-23T15:24:00Z
+    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2022/08/the-center-for-data-innovation-regarding-the-ai-report-card/"
     type: article
     provider:
-      name: Gulf News
-      domain: gulfnews.com
-    quality: 59
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
+    quality: 37
     images:
-      - url: "https://imagevars.gulfnews.com/2022/08/18/Hale-image_182b0415f36_medium.jpg"
-        width: 540
-        height: 405
-        isCached: true
-  - title: "AI-based vehicles paving way for software engineers to build a career in the auto industry"
-    excerpt: "Click to share on Twitter (Opens in new window) Click to share on Facebook (Opens in new window ... are all highly dependent on the softwares like cloud computing, AI, ML, etc which literally has made the vehicle what we call ‘computer on wheels’."
-    publishedDateTime: 2022-08-22T15:21:00Z
-    webUrl: "https://www.financialexpress.com/express-mobility/ai-based-vehicles-paving-way-for-software-engineers-to-build-a-career-in-the-auto-industry/2640219/"
-    ampWebUrl: "https://www.financialexpress.com/express-mobility/ai-based-vehicles-paving-way-for-software-engineers-to-build-a-career-in-the-auto-industry/2640219/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/ai-based-vehicles-paving-way-for-software-engineers-to-build-a-career-in-the-auto-industry/2640219/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 49
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/08/Explainable-artificial-intellige.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Lu studies potential benefits of AI in health care"
-    excerpt: "Chenyang Lu at the McKelvey School of Engineering is leading a charge to bring artificial intelligence into hospitals for the benefit of patients’ health — and doctors’ well-being."
-    publishedDateTime: 2022-08-23T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/962605"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/bbe7c01f-5e62-4c0b-859c-22d1411cd28e/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2022/01/GettyImages-1040557296-1-scaled-e1643147374857.jpg"
+        width: 1843
+        height: 1158
         isCached: true
   - title: "Hale Education: This student aspires for a career in AI"
     excerpt: "He was also part of his school’s programming and AI clubs thanks to which he honed his skills to participate in the Kolmogorov Reading Conference for scientific papers. ‘‘I wrote a research paper titled Detection and Classification of brain tumors in MRIs using CNN,"
