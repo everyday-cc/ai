@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-ra
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp"
 type: article
 quality: 90
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 400
         height: 240
         isCached: true
+  - title: "Deep learning algorithm may streamline lung cancer radiotherapy treatment"
+    excerpt: "Brigham and Women’s Hospital researchers and collaborators, working under the Artificial Intelligence in Medicine Program of Mass General Brigham, developed and validated a deep learning algorithm that can identify and outline (“segment”) a non-small cell lung cancer (NSCLC) tumor on a computed tomography (CT) scan within seconds."
+    publishedDateTime: 2022-08-23T00:00:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/962454"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 50
 
 secured: "lijK9irxUfFDxL0ITr3tbg6aF/tFidNbKn1k3a+sahvWqxjCNsTyQdwdHiybzKU5uuCj1ybntiz16rzbuOmQKljBHOPUZJyQNC2za9wdhMXlZeiJGnl12HUGQYSfImBAyF96SroRxygjJoem+X1oHcvWKvQIy21G4zDV2w8IjgYWAAoYAySvKhBiQGgiVQTB24qxj1xVmMcXy6DmyM/AO8anY+HMCuyShd//Gz+LZqnKuBirEnBciCfqeZBvS1EO5IQkc1IuQ9u2ztVXL30R1lZvfBdi/oC+cNVQ7bAOsS6Zx0R64kZCbD80EjCbQRAGj84qEo8JDBxIhqUQwIbqc2GKxLhWkmlKgfEtHwvgtwjnTZiiP6Znfen+/yk+O+/YyGXloXV4dx7xgd0qdFYU2CoTGoUvaxtBSfSjM67fYBcmYhMywrzJqE2did53DuuoCKvO5Jgx4vvz60ufu917Rf0W4GHwu7vcVA9+nMVFT/nLwjGDTWkqeVRIIJA1+cfimMvqd88kYgORaAUIUTGIyg==;d/d0d8aDa5lz+l92s8KBkQ=="
 ---

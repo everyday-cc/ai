@@ -3,8 +3,8 @@ category: news
 title: "Cardinality.ai Joins the AWS Partner Network"
 excerpt: "The Advanced Technology Partner Status reduces complexity to adopt digital practices and confidence of integration for our shared public sector customers; Three Cardinality.ai sol"
 publishedDateTime: 2022-08-16T19:34:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9657222.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9657222.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-cardinalityai-joins-aws-partner-network-/2022/08/16/9657222.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-cardinalityai-joins-aws-partner-network-/2022/08/16/9657222.htm"
 type: article
 
 provider:
@@ -15,6 +15,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "cMASLxYasonXvpQ2TdowmO/PXh5n4O/IUgu1+v8LESYAYY2GXgGFuwcLCSI67r+Szbb/1sOO6wly4PmOYKFLSdXbSkuPbAbtRdVgc85itldjTz9U29IsgU4Y+jqo8rxoneWPhpilRgYRcAW0PFOmtO2qFvSc9+96kxxESbejhG96uQsKKvta56K7hk9p0ek16cA5JqUXc3UsJC6Xx4ysMo7TQVFZTycZlEzN7Rxw63CF2zsOnvlf2yKsu9v0nbRg+e4ZqymV4T4bbLO1WkZ+iIWLCpCXq5xGaS7eaoeEt25aUBd0b/Bo1CccL3bVsHsubvK1AyHJ4NZm8KSqvTyjgkiN+hf70GyNrx+4vlKFg4I=;799GGqV8Ys0EJ9cXmglk8g=="
+secured: "bKX3AVqAogV9DWitdtJ+DJbfkAJSvQCo7RLy+mq4tw6rsFr/P1f38VbgqJR8/K5J1i10LHWxj6MhFHFySUOep6htOjghASxOjzgUWiEVcb+PmK1NDKYjrYsP2ZVZEZvBLjsANt+IhceUR7bLBNWXudzU7Hr+kxLP4/r/0ZsuPyWSejj3oeZeiDHEAekLqGaGtJ2dSv+2/8Gk8/cR0jxH4bE8viicwb8nezUDoJAqQl245NfHMq7aHHC6GCCmnQOWPKhB3HHjHZSg9rAIpAI5Tv74oXQwtN7ox+o4EMqQiAQo61jMXp9BTekTml49XcA7YQp6y6esqVED1+hx8LjQbHIXEcjFXjCC7Qo7+OYEqoU=;IDko1PZ34XfH+d6+HBSN8g=="
 ---
 

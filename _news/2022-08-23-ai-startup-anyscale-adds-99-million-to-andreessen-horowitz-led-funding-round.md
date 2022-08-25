@@ -3,12 +3,14 @@ category: news
 title: "AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round"
 excerpt: "The company initially announced a $100 million Series C venture investment round led by Andreessen Horowitz in December."
 publishedDateTime: 2022-08-23T12:15:00Z
-originalUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?tpl=vc"
-webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?tpl=vc"
+originalUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
+webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
+ampWebUrl: "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
 type: article
-quality: 64
-heat: -1
-published: false
+quality: 84
+heat: 144
+published: true
 
 provider:
   name: Wall Street Journal
@@ -117,6 +119,6 @@ related:
         height: 400
         isCached: true
 
-secured: "1rhotK5QhWb9xRKv4Q0XmekB6bst3TmNJIZWpY+eIsViUkV5ylMAQZSYFpoPmk8rgBlD7BEm+ymYJXSCmrR58FiSM0ctXsjxgWpvDaKRXkDUpqVkmLT3WgF1na/wtjX5giGcfDJGPLIbrT9bCRDGPH2kyl69e9XUwhkCYj2KTzXfgG+1dYogK9GE52UQjIpCfDU8WrHRbuY7ws1y/W3cCJlRaf0uc+Vm3DlhsqEXjEEV3LIo2A6X/+bE0o1u6wffCXPm1OqYu6Y1MWtBLSYEbQKdJYefDrP0PCwAdbJeuJCoJbU71HwxhkyO8e1BOc4acwgDNcnVR7sVifculkzcaeHyiWFqTw8UnDmu2b9ttfQ=;qONooqxDG7bOPi95Xpermg=="
+secured: "7RoDRGbZRLvIjqNMmZYJengcNX5KwrL7opQc0O8jjUutWvlZ7Vug4TPIq3JsJs1yHsz483u2VhzuVL0+kolegpdWuhKNz5cQNHJEFu36rZkNhI++4X7zfFzqhePkFg5gK+6BujSFnQtIrkFa3whBanRnKGST2AAvTzBjKuHI5pckcOWoeLRfejmZP935/VUprTrFe2Bj30pm3u1hk2FfqBTlce0lZpFC9GwqABVpQx/eNRQN7PDsa02sp+NyUnL1rtao5Mx841NU1VR48hz9ZDZB44WjOerc9DGGF2yHDTWZlukORYBaR8tlGw481Xr/abDsIO2TnT3iyHazMmiJhGN3n0s0RV+ySvmhlreONQ8=;P5il1h0nRjjVp5NeGBjwhg=="
 ---
 
