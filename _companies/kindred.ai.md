@@ -4,7 +4,7 @@ otherNames:
   - "Kindred Systems Inc"
 overview: "Since its founding in 2014, Kindred has been exploring and engineering systems that enable robots to interact with the physical world, with the ultimate goal of a future where intelligent machines can solve valuable real world problems. Kindred has developed the first reinforcement learning robot that is currently in commercial use at e-commerce leaders like Gap, Inc. and other global retailers. The robot, Kindred SORT, works alongside warehouse staff to more quickly and accurately sort items into individual customer orders. The robots arrive pre-trained and adapt to each center’s unique processes, with algorithms that improve performance over time."
 type: "profile"
-heat: 50
+heat: 42
 
 website: https://www.kindred.ai/
 
@@ -47,6 +47,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=kjKPL53Tgw8"
 
-secured: "gDtPnv/V9q+Nffqs44OtOcg2wdj8Q4/h0lTxjc0jeoGFHrohzRWdgSQZkzNeeS/bc5a0sH1sMHkEUDMl1eoZxsWl0y5M5xqxqVRnTNVnGU/gxCydJjTjqGHnX21kq8RzFf11UCvInvAn5Pvy6N0O3yQSDH0XdCHF2XfG9T8nTEiHmZjktH4YijiHg/S3FNEXZCWcXKKgQhpm7Ji/psgiGjJXGNF03YCXjNMhV1ykGZYsdSWR70Nfeu8j9sndGbkVvAv12sewkYovCAshY5oRTjqOFhZLgUEnEdc30RFDKcmb3HWmXcLyg4movfIsCJ601MdFC74lAevNNC0xz92xJ5jyXEsw3WX57YkIaxjCsvInTdCM0Ceg59svEkrhxlLVmuJpo512OgQgEMbv5ZrUfKFIsSzQ/GbfLPz4FjiGGsI=;fycBS9SIF9GfjdTid8O3uw=="
+secured: "viPOTEt5dC7e6yTV1lqz2lsQWL8djCcRCN3CyWinfVIrsq2wRU6qk3o/3n6FhsSxsOfRLuLcxfKaBY5twyNjdxt5pVwMClwqcdRQta1QMPopLaKBidpVseE7NHWW3AbeoPXbLCfzWTuBJizLcu45USEtde3qhfZtSnWp+DoA/8jmI2fsRozMnR/WkY2ZtOAIeQc2z3bWFSJp7w9eDaDhXSYYxx/gL/01k9nkof3HhEH6BMAvCyLQw1OxBYkPh6I6EU3ietAgAam2ZWJBSwZlr2T0VWj4OorB1mZHFhuk/HPP5xp6/cb+KbwLnfmS0SZn+PXQX8fN6gIczz5dhgsDo54rM1EHGlBGmnKblmo4LMLTdqybxO+RQdhDW+jXUf/aky+gevJR1NuhO8EvJMhbnXIo2lkn5I96cqsBz/TcpmM=;5aYMpWWeDfaXo94upHuwhQ=="
 ---
 

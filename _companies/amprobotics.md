@@ -2,7 +2,7 @@
 name: "AMP Robotics"
 overview: "AMP Robotics™ is an industrial artificial intelligence and robotics company that is changing the economics of material recovery and recycling."
 type: "profile"
-heat: 42
+heat: 57
 
 website: http://amprobotics.com/
 
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=C1PEsXWl-ZM"
 
-secured: "MRWvSJc3nGaArcT9QsQI1Vl72K7IZ7yO9Hv34mCmOP1nWOE1LXMFW/x/ERc2Qha+OgGZC4Vyael6IaXNvSM6IMJH6m3rw0M1bkNzLvpyHS3EEtUybv0R+HlUMo3kUZHHyHEKvIJreRuZiixTzMQvXsdWLta8/riQ3/FXdvu201aJmq0Xd/WuaHEOhxR5oqoTlhQjl+JrlImsVSb4PT7CAAlBw1nMQfgydEamtSceOrljLB9EMCcukMX5HpXObiIRKVhbiCnYWk8ds/DqZ2/0tY0fV7Opq0GNP3cLAwPNShKIgOBAvCZuOSEfbxofyI4z6KjbQ2Vjl+47LIFMJbj3aP+1ob6YC6cGFIrXbhJ6KnbE36iJ5Ku9N+P5wtDxG7A0CfXUP9cXhYyPuYgXH0H6fwRcUd6rCWSvI+Ee5qCVXW8=;VmaQibCkxYumq00//XvylQ=="
+secured: "A6DliD9/SCpbIvOsF3y9xRu6qGoAOgsHifZ7+9pz2/MYW6cVHfzPWe4kVoBpyEX0CFUIgOxVuckACLI//tJFYJh7phyOwS5YBhbj2pTFXX+Woh3AEekRznNySMZgL0BYopMW1XtNZMMIvbSsjxVTp86c57Tf07EJCHfOs0IHViY0BwQyGNeIRfAqtH24+4pYqb7Nx5ewfD96u01uPqJIJbhppA3aXG+YbY7YQXt5a8BN7F/UpLuFIhl5WHDVjgu7Iro8ldfo5Bz94Up4YgF+ZeWJyXdMHXGZNGlgMR5CxdwIS2HKD2EoNJ8LbeTZYWSuVFQh5Dj4jgijanmxEZsgdjRFNe9mDLqXvPGDYQbqLCBRM85IiRjrKeLARXrbxW+T7tjcwq5KUwuMglUbx8LSSFV1WWKQzpbBgWk9S/EYBKs=;/wYJG05jWXnMG23YYzp7wA=="
 ---
 
