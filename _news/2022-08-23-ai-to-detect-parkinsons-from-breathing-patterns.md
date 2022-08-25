@@ -103,6 +103,15 @@ related:
         width: 2000
         height: 1333
         isCached: true
+  - title: "See How This AI Analyzes Breathing Patterns For Early Detection Of Parkinson’s"
+    excerpt: "A new study shows that an AI algorithm can detect whether someone has Parkinson’s Disease early on and estimate the severity of their disease."
+    publishedDateTime: 2022-08-25T18:49:00Z
+    webUrl: "https://www.forbes.com/sites/jenniferhicks/2022/08/25/see-how-this-ai-analyzes-breathing-patterns-for-early-detection-of-parkinsons/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 45
   - title: "How AI could detect Parkinson’s using breathing patterns"
     excerpt: "Researchers at MIT recently developed an artificial intelligence model that can detect Parkinson's from breathing patterns."
     publishedDateTime: 2022-08-23T15:48:00Z

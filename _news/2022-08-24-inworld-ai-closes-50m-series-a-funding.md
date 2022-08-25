@@ -48,6 +48,15 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "BUET graduate’s robotics startup raises $20M in Series A investment"
+    excerpt: "Co-founded by BUET graduate Ariyan Kabir, the robotics startup GrayMatter Robotics recently raised a $20M Series A investment led by Bow Capital."
+    publishedDateTime: 2022-08-25T18:02:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/buet-graduates-robotics-startup-raises-20m-series-investment-3103351"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 49
 
 secured: "hRdGPyqFSyoMuU0yMFZsw4qM8xWDykjpIanIKOGF0MC/3H78VomgqMeTj9mOsuwsoHMtHN7y7GCKcoDwFPFC0o+WSS2d0AMwMhkqkB+6KSeNYUQU14J4xgK4vQ7+0Ua0pkqxpWY45H5FW8nn2tGNCKILHrxGLhWKv560AymSb+89Y4tsuKvXIPtNNmnD/BMQi1XxIg0LT7sGiEYPcWqqaM1KrWFKOGMPf51hf2TWJvhAJaSHdxfgTZVVLAnbiLhZYIwdKhxN8Xk5vEaPe4pRYEmdk0QsBRgumqtfSFznhsG/EWmwB98H+A4lSaoiITcKVb38Fm6fan01n+EZpp3FIZyuxWx2IBFPFH2qZeZblTM=;Ldu61b1aN2/RWefCQIuLMQ=="
 ---

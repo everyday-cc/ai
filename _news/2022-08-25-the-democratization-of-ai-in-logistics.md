@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/25/the-democr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/25/the-democratization-of-ai-in-logistics/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence Can Improve Organizational Decision Making"
+    excerpt: "Artificial intelligence (AI) is reimagining the business world, boosting innovation and productivity, and helping organizations think bigger. Organizations can use AI to improve their products ..."
+    publishedDateTime: 2022-08-23T13:02:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/how-artificial-intelligence-can-improve-organizational-decision-making/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
   - title: "Rooting for Dedicated Legislation in AI"
     excerpt: "India is part of the Global Partnership on Artificial Intelligence, which is guiding responsible development and use of AI"
     publishedDateTime: 2022-08-23T09:30:00Z

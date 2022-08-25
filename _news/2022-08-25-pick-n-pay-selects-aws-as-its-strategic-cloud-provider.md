@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-25T05:24:00Z
 originalUrl: "https://www.tmcnet.com/usubmit/2022/08/25/9662000.htm"
 webUrl: "https://www.tmcnet.com/usubmit/2022/08/25/9662000.htm"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: TMCnet

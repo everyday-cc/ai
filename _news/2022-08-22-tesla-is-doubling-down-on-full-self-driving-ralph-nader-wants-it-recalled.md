@@ -113,6 +113,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Tesla ‘full self-driving’ debate escalates with legal threats, banned videos"
+    excerpt: "Tesla fans rushed to defend the automaker after a prominent critic released a video showing one of the company's cars with the feature it calls \"full self-driving\" plowing into child-size mannequins."
+    publishedDateTime: 2022-08-25T20:41:00Z
+    webUrl: "https://www.cnn.com/2022/08/25/business/tesla-dan-odowd-videos/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/08/25/business/tesla-dan-odowd-videos/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/25/business/tesla-dan-odowd-videos/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 86
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220825123609-03-tesla-autopilot-file-restricted-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Tesla Is Raising the Price of Full Self-Driving to $15,000"
     excerpt: "I've been writing about tech, including everything from privacy and security to consumer electronics and startups, since 2011 for a variety of publications."
     publishedDateTime: 2022-08-21T17:34:00Z
@@ -434,6 +450,15 @@ related:
     provider:
       name: Bestgamingpro
       domain: bestgamingpro.com
+    quality: 19
+  - title: "Tesla wants anti-self-driving car video taken down"
+    excerpt: "Tesla sent a cease-and-desist letter to an advocacy group critical of self-driving vehicles after it posted a video showing a Tesla car running over a child-sized mannequin."
+    publishedDateTime: 2022-08-25T19:18:00Z
+    webUrl: "https://www.washingtontimes.com/news/2022/aug/25/tesla-wants-anti-self-driving-car-video-taken-down/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
     quality: 19
 
 secured: "LOD+LXImdAAqjR3czFZ9nmqUvyXvFSaxAaZXirecHUnOGacNgyxbDd/aNbI/s3s9fO0MVDE+rfAbacSApGWxWLmhg36/KWD45sC2NZ0AtvvKP4Hao1Jd92PP5VCY/q6qrjO1M4NjazVET4HNVayQnY6ti5ki3UbAEmQj10A1rAANiM6rROa4EGaNiqnq2YdIqDX7oO747zaR0YCgjNggGRrxUbLAC3RVArkSAqTNTR98Nfb/t+Jk712A6Qg7UfBQjMEWnUE7GtSTF6V2/bjWWFLhj2qztZMGSTua7tbMhVqtsnPossxtHD53hvqw7Ph6E+FFxkNMOLFOmWrwFafC+hZbLbVxx1hud+HS/t7hwbPKx61svq7Y48lcX22b28rmvNsRI503s8q2ZreY3MOobVAvfl35Vc6fDgqF6T3I7yAeRksdwqTxRkZvkbwCodvOGR+oWoF7hq5NLkoFQSn3UhhpqX+kfe/CIvNVs71GqU/FgAT3c16s4DWWjvPttvLWQlB5sBYgO8z3t2WwndAc8w==;5j24uOgLXxJalBzqm3nhRQ=="

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cbsnews.com/amp/newyork/news/south-shore-university-hosp
 cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/newyork/news/south-shore-university-hospital-using-ai-to-detect-polyps-that-can-lead-to-colon-cancer/"
 type: article
 quality: 49
-heat: 49
+heat: -1
 published: false
 
 provider:
@@ -26,20 +26,31 @@ images:
     isCached: true
 
 related:
-  - title: "New AI helps detect potentially cancerous polyps in the colon"
-    excerpt: "Artificial intelligence is now at work at a Long Island hospital, helping doctors save lives. The new AI is detecting polyps in the colon that can lead to cancer. CBS2's Carolyn Gusoff met one of the first patients in the nation who had a colonoscopy using this technology."
-    publishedDateTime: 2022-08-24T21:34:00Z
-    webUrl: "https://www.cbsnews.com/newyork/video/new-ai-helps-detect-potentially-cancerous-polyps-in-the-colon/"
+  - title: "Can Artificial Intelligence Improve Colorectal Cancer Recurrence Prediction"
+    excerpt: "Using artificial intelligence (AI), scientists have created an algorithm to improve the prediction of colorectal cancer recurrence."
+    publishedDateTime: 2022-08-25T18:43:00Z
+    webUrl: "https://www.medindia.net/news/can-artificial-intelligence-improve-colorectal-cancer-recurrence-prediction-208408-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/can-artificial-intelligence-improve-colorectal-cancer-recurrence-prediction-208408-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-improve-colorectal-cancer-recurrence-prediction-208408-1.htm"
     type: article
     provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 37
+      name: Medindia
+      domain: medindia.net
+    quality: 57
     images:
-      - url: "https://assets2.cbsnewsstatic.com/hub/i/r/2022/08/24/94ef3889-64e2-4e12-877e-66a04ea4c056/thumbnail/1200x630/359ac7dc9ec14733232a4894ae7fa1b7/b85efd41844bb9e9c0f3b788b7d5f943.jpg"
+      - url: "https://images.medindia.net/amp-images/health-images/colon-cancer.jpg"
         width: 1200
-        height: 630
+        height: 1000
         isCached: true
+  - title: "Mayo Clinic study shows AI may improve prediction of colorectal cancer recurrence"
+    excerpt: "In a multinational study led by a Mayo Clinic research team using artificial intelligence (AI), investigators developed an algorithm to improve the prediction of colorectal cancer recurrence. Study results are published in Gastroenterology."
+    publishedDateTime: 2022-08-25T15:16:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/962851"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 14
 
 secured: "k/PD3ypW2Hy4EW8okiYXcMP4977XDNPDkTDrIiTDmnlC+ZSWasOe+uD8FJhGSYvHikBErMgFvC+UGWhyf0Js5SXkH1stu7QTv9Ir6NoYLuJFgToEyf0pp1bpHucgKKB5UzFlHb/wsuJnVe2bJE1u1J66PkCk7RBPmBM1rVBl+/tEX/xiCx/IL175zTE7pVZmvnyZ5Zr17j1p7k+eAa2bCvsGz1TcP1Fu7OXgWQzjOD8B5q/piVXJV+0b5yVnWafHkXLXpkHUbyU3WYL9DMPbNBxAkAoEmFsUtaeni03NWgJerU3bI9/5kqKlN/w5HfHdfcGWsn9Un57qiBeHePUjBjYAxh62KhcRli32TjlBEB527WCQ1aOJv51p9jQY1u/reyulqQy83kKTs3QjwK1EV7/R+zJfq7Wes0lrdVySfK1Q9Jem/6EFmz/3BvKLxDJusiXCd64kUXDXLu43extKWKPZ6w8ncUsXs/+Zd6N31+1+y5q3kCLgPgy4+TZV5TCmLIh6OkzwkYKVhOoZl09gMQ==;oY7WvvuIYGugQknYXS4g4Q=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://labusinessjournal.com/technology/graymatter-robotics-raise
 webUrl: "https://labusinessjournal.com/technology/graymatter-robotics-raises-20m-in-series-a-funding/"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -41,6 +41,15 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "BUET graduate’s robotics startup raises $20M in Series A investment"
+    excerpt: "Co-founded by BUET graduate Ariyan Kabir, the robotics startup GrayMatter Robotics recently raised a $20M Series A investment led by Bow Capital."
+    publishedDateTime: 2022-08-25T18:02:00Z
+    webUrl: "https://www.thedailystar.net/tech-startup/news/buet-graduates-robotics-startup-raises-20m-series-investment-3103351"
+    type: article
+    provider:
+      name: The Daily Star
+      domain: thedailystar.net
+    quality: 49
   - title: "Inworld AI Closes $50M Series A Funding"
     excerpt: "Inworld AI, a San Francisco, CA-based developer platform for creating AI-driven virtual characters, raised $50M in Series A funding. The round was led by Section 32 and Intel Capital with participation from Founders Fund, Accelerator Investments LLC ..."
     publishedDateTime: 2022-08-24T07:02:00Z

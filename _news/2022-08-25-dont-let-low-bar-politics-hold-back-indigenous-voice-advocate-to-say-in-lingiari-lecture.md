@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-25T16:30:00Z
 originalUrl: "https://www.theguardian.com/australia-news/2022/aug/26/dont-let-low-bar-politics-hold-back-indigenous-voice-advocate-to-say-in-lingiari-lecture"
 webUrl: "https://www.theguardian.com/australia-news/2022/aug/26/dont-let-low-bar-politics-hold-back-indigenous-voice-advocate-to-say-in-lingiari-lecture"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: The Guardian

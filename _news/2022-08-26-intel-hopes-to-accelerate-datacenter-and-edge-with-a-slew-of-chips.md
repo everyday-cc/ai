@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-25T19:48:00Z
 originalUrl: "https://www.nextplatform.com/2022/08/25/intel-hopes-to-accelerate-datacenter-and-edge-with-a-slew-of-chips/"
 webUrl: "https://www.nextplatform.com/2022/08/25/intel-hopes-to-accelerate-datacenter-and-edge-with-a-slew-of-chips/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: The Next Platform

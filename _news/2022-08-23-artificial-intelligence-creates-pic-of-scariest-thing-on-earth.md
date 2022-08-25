@@ -8,8 +8,8 @@ webUrl: "https://www.ndtv.com/world-news/artificial-intelligence-creates-pic-of-
 ampWebUrl: "https://www.ndtv.com/world-news/artificial-intelligence-creates-pic-of-scariest-thing-on-earth-3278852/amp/1"
 cdnAmpWebUrl: "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/artificial-intelligence-creates-pic-of-scariest-thing-on-earth-3278852/amp/1"
 type: article
-quality: 57
-heat: -1
+quality: 59
+heat: 69
 published: false
 
 provider:

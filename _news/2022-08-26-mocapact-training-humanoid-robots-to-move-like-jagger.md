@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-25T17:38:00Z
 originalUrl: "https://www.microsoft.com/en-us/research/blog/mocapact-training-humanoid-robots-to-move-like-jagger/"
 webUrl: "https://www.microsoft.com/en-us/research/blog/mocapact-training-humanoid-robots-to-move-like-jagger/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Microsoft

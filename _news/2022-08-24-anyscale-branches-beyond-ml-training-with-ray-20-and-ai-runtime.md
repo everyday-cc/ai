@@ -41,6 +41,20 @@ related:
         width: 860
         height: 573
         isCached: true
+  - title: "AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round"
+    excerpt: "The company initially announced a $100 million Series C venture investment round led by Andreessen Horowitz in December."
+    publishedDateTime: 2022-08-23T12:15:00Z
+    webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?tpl=vc"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 64
+    images:
+      - url: "https://images.wsj.net/im-608499/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "SCALE AI announces a major financing round in artificial intelligence: $50 million to support 12 new projects"
     excerpt: "CNW Telbec/ - With an additional 12 projects representing more than $50 million in investments announced today by SCALE AI, artificial intelligence (AI) is continuing on its path of rapid"
     publishedDateTime: 2022-08-22T15:28:00Z
@@ -57,15 +71,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round"
-    excerpt: "The company initially announced a $100 million Series C venture investment round led by Andreessen Horowitz in December."
-    publishedDateTime: 2022-08-23T12:15:00Z
-    webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?tpl=vc"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 44
   - title: "AI startup Anyscale raises $99M"
     excerpt: "To keep up with the growing computational requirements and engineering complexities of AI projects, companies such as Uber, IBM and Meta have turned to the firm's Ray framework. \"Ray and the Anyscale platform have made tremendous progress in advancing the scaling of machine learning and Python workloads,"
     publishedDateTime: 2022-08-23T16:08:00Z

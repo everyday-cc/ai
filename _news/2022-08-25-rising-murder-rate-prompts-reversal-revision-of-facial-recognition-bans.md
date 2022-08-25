@@ -113,6 +113,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep-learning advance improves facial recognition for people wearing veils"
+    excerpt: "A new paper from a team of researchers claims they have developed a facial recognition algorithm which accurately matches faces occluded by a niqab."
+    publishedDateTime: 2022-08-25T20:10:00Z
+    webUrl: "https://www.biometricupdate.com/202208/deep-learning-advance-improves-facial-recognition-for-people-wearing-veils"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/25160459/niqab-scaled.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
   - title: "Lossy image compression negatively affects facial recognition algorithms, research shows"
     excerpt: "Experimental research by a team from the Department of Computer Science in the University of Durham, UK, demonstrates that image compression techniques that remove data have a negative bearing on the way facial recognition algorithms function with regard ..."
     publishedDateTime: 2022-08-23T18:01:00Z

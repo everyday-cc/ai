@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/advancing-conservation-with-ai-based
 webUrl: "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles"
 type: article
 quality: 106
-heat: 196
+heat: 206
 published: true
 
 provider:
@@ -103,6 +103,20 @@ related:
       - url: "https://www.electropages.com/storage/app/media/2022/Aug/ai-facial-recognition-og.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Deep-learning advance improves facial recognition for people wearing veils"
+    excerpt: "A new paper from a team of researchers claims they have developed a facial recognition algorithm which accurately matches faces occluded by a niqab."
+    publishedDateTime: 2022-08-25T20:10:00Z
+    webUrl: "https://www.biometricupdate.com/202208/deep-learning-advance-improves-facial-recognition-for-people-wearing-veils"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/25160459/niqab-scaled.jpg"
+        width: 2048
+        height: 1367
         isCached: true
   - title: "Rising Murder Rate Prompts Reversal, Revision of Facial Recognition Bans"
     excerpt: "A number of cities and states have reversed or altered their facial recognition bans after recognizing a need for the technology."

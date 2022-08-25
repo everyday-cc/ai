@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-25T18:28:00Z
 originalUrl: "https://www.accountingtoday.com/news/the-more-inequality-the-less-people-like-robots"
 webUrl: "https://www.accountingtoday.com/news/the-more-inequality-the-less-people-like-robots"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Accounting Today

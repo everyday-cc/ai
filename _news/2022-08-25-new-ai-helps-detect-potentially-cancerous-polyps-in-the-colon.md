@@ -7,7 +7,7 @@ originalUrl: "https://www.cbsnews.com/newyork/video/new-ai-helps-detect-potentia
 webUrl: "https://www.cbsnews.com/newyork/video/new-ai-helps-detect-potentially-cancerous-polyps-in-the-colon/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,24 +22,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "South Shore University Hospital using AI to detect polyps that can lead to colon cancer"
-    excerpt: "GI Genius technology giving doctors a second set of eyes when looking for what could lead to second-most deadly cancer."
-    publishedDateTime: 2022-08-24T21:46:00Z
-    webUrl: "https://www.cbsnews.com/newyork/news/south-shore-university-hospital-using-ai-to-detect-polyps-that-can-lead-to-colon-cancer/"
-    ampWebUrl: "https://www.cbsnews.com/amp/newyork/news/south-shore-university-hospital-using-ai-to-detect-polyps-that-can-lead-to-colon-cancer/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/newyork/news/south-shore-university-hospital-using-ai-to-detect-polyps-that-can-lead-to-colon-cancer/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 49
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/08/24/3f481e8e-9e46-4aa3-bedf-d9a8a4516ea5/thumbnail/1200x630/1db831793d4413a2e246c1803d162330/artificial-intelligence-colonoscopy.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "KoCwKqzw8lcAB+yf4ERXwIieAAr7zvQuYn/xYdA81uk3I2z7E1puDkqH0cN2k405wuKNRPIN2ppCyprhgmG7aA9R6J961NqbPAzqBlPuvUdMzfPSjuCQAxun2HhnXZkcR5Q9nKKxJJV1y2Ywh+ZqdeYCrP08ya/ZqVHO9oVqMOo5FWJEYrzzcvy5rM88XcMYIbBlP8sEQ2PGMM3zETQsoqmPgCwXv/c3VPdKSyWybSIFxUA+C6y+6Q8CR9GWNkJfUBfmzw3djwfc7B7ShMGby2RQOYZcmMpV/RzAIAFZTZP83M8QtLKzmf7/PojhwEYBX6HD0xpJXmyM9ijnYwpfuggk2IJoQ4ZKFj3aSOZbRyui26mCqSYzt5PjdMj39LsA2Wgp2Su9P0HvqO7jMtgoMZKHGFLiSzOMtWWvEqDs+N0Sqs2N2X/iYhxSaxfWX4Kl/kwn2ygzJ7HlXQMKs4diRw+QoSJP4gWbyejC5omb2pkdGu4MGpyBDl/19XZfmpc29ivRHDaZgJPDlW1Ue2rjng==;chNhAJiNzhpxDN39QS74WA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/tesla-raising-price-of-full-se
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442"
 type: article
 quality: 103
-heat: 403
+heat: 423
 published: true
 
 provider:
@@ -106,6 +106,22 @@ related:
     quality: 88
     images:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/220822182904-tesla-driver-kid-prop-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
+  - title: "Tesla ‘full self-driving’ debate escalates with legal threats, banned videos"
+    excerpt: "Tesla fans rushed to defend the automaker after a prominent critic released a video showing one of the company's cars with the feature it calls \"full self-driving\" plowing into child-size mannequins."
+    publishedDateTime: 2022-08-25T20:41:00Z
+    webUrl: "https://www.cnn.com/2022/08/25/business/tesla-dan-odowd-videos/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/08/25/business/tesla-dan-odowd-videos/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/25/business/tesla-dan-odowd-videos/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 86
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220825123609-03-tesla-autopilot-file-restricted-super-tease.jpg"
         width: 1100
         height: 619
         isCached: true
@@ -430,6 +446,15 @@ related:
     provider:
       name: Bestgamingpro
       domain: bestgamingpro.com
+    quality: 19
+  - title: "Tesla wants anti-self-driving car video taken down"
+    excerpt: "Tesla sent a cease-and-desist letter to an advocacy group critical of self-driving vehicles after it posted a video showing a Tesla car running over a child-sized mannequin."
+    publishedDateTime: 2022-08-25T19:18:00Z
+    webUrl: "https://www.washingtontimes.com/news/2022/aug/25/tesla-wants-anti-self-driving-car-video-taken-down/"
+    type: article
+    provider:
+      name: Washington Times
+      domain: washingtontimes.com
     quality: 19
   - title: "Tesla Is Doubling Down on ‘Full Self-Driving.’ Ralph Nader Wants It Recalled."
     excerpt: "Tesla is hiking the price of its sometimes controversial driver-assistance software it calls Full Self-Driving."

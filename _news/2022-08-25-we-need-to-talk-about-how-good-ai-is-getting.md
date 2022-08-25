@@ -23,6 +23,17 @@ images:
     height: 489
     isCached: true
 
+related:
+  - title: "Viewpoint: AI is getting good"
+    excerpt: "Five years ago, the top AI story was how a machine learning tool from Google's DeepMind could defeat the top-performing humans at the board game Go, Mr. Roose wrote. This summer, however, another DeepMind AI system predicted the 3-D structures of most of the 200 million proteins known to scientists,"
+    publishedDateTime: 2022-08-25T21:43:00Z
+    webUrl: "https://www.beckershospitalreview.com/innovation/viewpoint-ai-is-getting-good.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
+
 secured: "kerU3wdCxVWS0T8cOwggcr08tKVRrcpRbgxcmvjqxZNCRLs4G3henaSjHVOQS/T990k7IMDQLrQY2GeekuGR5xkBKPC4TUuSNIqvk7IZScvh/olMnuebLx2Cu9DGikDBHk3IdXE3hRuaZDRIW2VS4cR9MQNAtehh3GWYIMJk5P3E4TSlJqAZnQpjQI37FZHSGJK8lI//Y7rAohQFOo9ScljPaAGKbTRkfTF9vPXkMDFS4hp2C4zWM4v61EaiR8ftbm7QcGhn6jPRygICU60qy8QaXG+w+Nfx7TOfSW5tCxJgcDMbMLd4hijryMgyqZIA1tkp1mwPxaUeEE1gqDU9lcitUIcrH0KhIHzVWPdhKoQ=;PRKyDxzJBODlBxmKTTg0PA=="
 ---
 

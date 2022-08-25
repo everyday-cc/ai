@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-25T18:46:00Z
 originalUrl: "https://mashable.com/video/infratonal-louk-amidou-art"
 webUrl: "https://mashable.com/video/infratonal-louk-amidou-art"
 type: article
+quality: 42
+heat: 42
+published: false
 
 provider:
   name: Mashable

@@ -99,6 +99,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Deep-learning advance improves facial recognition for people wearing veils"
+    excerpt: "A new paper from a team of researchers claims they have developed a facial recognition algorithm which accurately matches faces occluded by a niqab."
+    publishedDateTime: 2022-08-25T20:10:00Z
+    webUrl: "https://www.biometricupdate.com/202208/deep-learning-advance-improves-facial-recognition-for-people-wearing-veils"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/25160459/niqab-scaled.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
   - title: "Rising Murder Rate Prompts Reversal, Revision of Facial Recognition Bans"
     excerpt: "A number of cities and states have reversed or altered their facial recognition bans after recognizing a need for the technology."
     publishedDateTime: 2022-08-25T14:42:00Z
@@ -146,6 +160,6 @@ related:
         height: 450
         isCached: true
 
-secured: "CnvxcRpJFuNpj7dA/vvbg9xEvw7yHm9UK6AhspVQuJLD3WdvKobrNGHiDTEKuFTzyvBWLY6P39Rzq1Ab0qQ8GCFFySa8Cw/pZ5mymHYeK7dNZi3Zm7A2/NebuY+TUD67mPNFZaJYW3Ida48qbRXiPmodFM2JR45L6TSa8pSi3dzE28glfDvDeRYmO2nLLkUQZpMGlXCwzyhQaPS+llgsf1Q8iI15xhBzNtz4It77x9Nuiqo+VAKN/96OpjoKtPpKp+IkVOR1VB2cC0cMB+5//VdEiQPNJetIECojSPfxW/RHk7qDvv8GdPm4fBr3ZGekHKZdcEoNHTs8wkMeAi8W95lM0Mpe6c1k4uTmVRJASgQ=;ve9XEpH7rtgFlpiKVaqEyA=="
+secured: "coJ/La+0MOJvOldtZ0xhHCYVCh4P7dY5yTjxhwkcuRESywBY1LYQ9ZkSEGz4PaVKDFnZIhH1vcoESKv07KHZL0g0hVrrBoicfnApVDKoEI22lxlhJV3ozZf3I7exANq5zTR5CrSgz6bBH+pO8mkaRJFEtAg1EY7ejkQhp3HGGyqOPzoGO3gGxS0LfxhD1MCn97o5Uph0YoqBSTWmHih/mi4EGaPz8ba72y6nyrTMHjQCLdN+DmqZu3s/5wxfAq090smyD6qMaR9dPxB3EI2/CyOZhwWIMLKAb4++VL0FicB7MYXRKPR+51fFU+fi+Y8bxKzV5j2F74OExko3jyyTAxmbnixD82t3Ho3zmRisk6IYswC3/rC2ZTGGSmqDinDOuBbA2p3BkNJI8Ev0bqHxSoL/8xSg9b3OSHzqCQbHV7vE/+yMxteXRa17cwtpGiZvjOuxHbfgtVAQpzym/6xMWqpxRvzuJt4EPmcJpncsiOdhPGydx5R4gVdNPHBNPGQrlwooW7oWsY5001TKz6pO8A==;aWlRDLaffo23FJVSNsZvhA=="
 ---
 

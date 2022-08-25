@@ -40,6 +40,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How Artificial Intelligence Can Improve Organizational Decision Making"
+    excerpt: "Artificial intelligence (AI) is reimagining the business world, boosting innovation and productivity, and helping organizations think bigger. Organizations can use AI to improve their products ..."
+    publishedDateTime: 2022-08-23T13:02:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/how-artificial-intelligence-can-improve-organizational-decision-making/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 49
 
 secured: "LSFEfvsEPzHoK1RIB14UMWGih3Jyt9Sbt3M4dre2FD8BSXEbzvASJzLLeqaeHHtx2I6xmmnsPfuX0suUhS3vxCv+dEVlNX0f8zTxF+BAtxrbHKSiu+NRDJrHnagioEyyPfs7rcnvMRVias7z23Wzl6Mnd5v/OLqKeF2CIp0C2BGQnwvHQh4aOLLOG/3LBGqYucXbOaqAUg/dZQspnqPZ+WMkusXpnsIzmIt5jsiIJI7PFwMvo6MxgYI3T7xvIzti31RN3vmOmC3ZYLhsKpIDoYbKwnyUsoTawYwxNZuFRL86wjYH7WhupFSK7EOVbtjnsQ5HJNmZc2/j/pAMGjRz2nbNPN1FlGR1f1XfvShCnt0=;ku934+h7mxLx747A2HQAzw=="
 ---

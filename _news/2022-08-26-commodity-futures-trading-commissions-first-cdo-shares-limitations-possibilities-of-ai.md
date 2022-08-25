@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-25T19:11:00Z
 originalUrl: "https://federalnewsnetwork.com/artificial-intelligence/2022/08/commodity-futures-trading-commissions-first-cdo-shares-limitations-possibilities-of-ai/"
 webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2022/08/commodity-futures-trading-commissions-first-cdo-shares-limitations-possibilities-of-ai/"
 type: article
+quality: 10
+heat: 10
+published: false
 
 provider:
   name: federalnewsnetwork.com

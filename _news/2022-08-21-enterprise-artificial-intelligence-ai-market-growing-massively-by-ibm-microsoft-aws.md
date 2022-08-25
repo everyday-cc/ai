@@ -7,7 +7,7 @@ originalUrl: "https://www.digitaljournal.com/pr/enterprise-artificial-intelligen
 webUrl: "https://www.digitaljournal.com/pr/enterprise-artificial-intelligence-ai-market-growing-massively-by-ibm-microsoft-aws"
 type: article
 quality: 78
-heat: 98
+heat: 108
 published: true
 
 provider:
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "How a former Microsoft researcher used AI to grow award-winning lettuce from 5,000 miles away"
+    excerpt: "It’s pretty impressive to grow award-winning lettuce in a greenhouse competition against 42 teams from nearly two dozens countries. It’s even more remarkable when you do it from 5,000 miles… Read More"
+    publishedDateTime: 2022-08-25T21:43:00Z
+    webUrl: "https://www.geekwire.com/2022/how-a-former-microsoft-researcher-used-ai-to-grow-award-winning-lettuce-from-5000-miles-away/"
+    type: article
+    provider:
+      name: GeekWire
+      domain: geekwire.com
+    quality: 53
   - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
     excerpt: "New Jersey, NJ -- (SBWIRE) -- 08/21/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
     publishedDateTime: 2022-08-21T06:20:00Z

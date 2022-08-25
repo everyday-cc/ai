@@ -39,6 +39,15 @@ related:
         width: 444
         height: 250
         isCached: true
+  - title: "Human Computer Interference Cognitive Computing Market Size, Share, Future Trends, Competitive Landscape and Growing CAGR of 29.40% Forecast by 2028"
+    excerpt: "The major players covered in the human computer interference cognitive computing market report are Microsoft, IBM, SAS Institute Inc., Amazon Web Services, Inc., Cognitive Scale, Numenta, Enterra Solutions, Expert System S.p.A., Google LLC, Virtusa corp ..."
+    publishedDateTime: 2022-08-23T23:59:00Z
+    webUrl: "https://www.marketwatch.com/press-release/human-computer-interference-cognitive-computing-market-size-share-future-trends-competitive-landscape-and-growing-cagr-of-2940-forecast-by-2028-2022-08-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 0
   - title: "Vision Screeners Market is expected to grow at a CAGR of 5.9% during the forecast period 2022-2029"
     excerpt: "Global vision screener sales are likely to near US$ 500 Mn by the end of 2022. According to a new research intelligence study presented by Future Market Insights (FMI), the Vision Screeners Market will continue to witness an average 5."
     publishedDateTime: 2022-08-25T09:17:00Z

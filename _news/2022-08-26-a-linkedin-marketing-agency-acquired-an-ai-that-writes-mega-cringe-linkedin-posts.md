@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-25T18:38:00Z
 originalUrl: "https://gizmodo.com/linkedin-viral-post-generator-cringe-acquired-taplio-1849457178"
 webUrl: "https://gizmodo.com/linkedin-viral-post-generator-cringe-acquired-taplio-1849457178"
 type: article
+quality: 59
+heat: 59
+published: false
 
 provider:
   name: gizmodo

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-25T18:37:00Z
 originalUrl: "https://www.globalbankingandfinance.com/empowering-leaders-how-ai-can-enable-better-decision-making-and-success/"
 webUrl: "https://www.globalbankingandfinance.com/empowering-leaders-how-ai-can-enable-better-decision-making-and-success/"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: List of Banks in Belarus

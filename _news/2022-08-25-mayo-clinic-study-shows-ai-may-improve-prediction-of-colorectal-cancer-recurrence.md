@@ -7,7 +7,7 @@ originalUrl: "https://www.eurekalert.org/news-releases/962851"
 webUrl: "https://www.eurekalert.org/news-releases/962851"
 type: article
 quality: 14
-heat: 14
+heat: -1
 published: false
 
 provider:
@@ -17,6 +17,40 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+
+related:
+  - title: "Can Artificial Intelligence Improve Colorectal Cancer Recurrence Prediction"
+    excerpt: "Using artificial intelligence (AI), scientists have created an algorithm to improve the prediction of colorectal cancer recurrence."
+    publishedDateTime: 2022-08-25T18:43:00Z
+    webUrl: "https://www.medindia.net/news/can-artificial-intelligence-improve-colorectal-cancer-recurrence-prediction-208408-1.htm"
+    ampWebUrl: "https://www.medindia.net/amp/news/can-artificial-intelligence-improve-colorectal-cancer-recurrence-prediction-208408-1.htm"
+    cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-improve-colorectal-cancer-recurrence-prediction-208408-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 57
+    images:
+      - url: "https://images.medindia.net/amp-images/health-images/colon-cancer.jpg"
+        width: 1200
+        height: 1000
+        isCached: true
+  - title: "South Shore University Hospital using AI to detect polyps that can lead to colon cancer"
+    excerpt: "GI Genius technology giving doctors a second set of eyes when looking for what could lead to second-most deadly cancer."
+    publishedDateTime: 2022-08-24T21:46:00Z
+    webUrl: "https://www.cbsnews.com/newyork/news/south-shore-university-hospital-using-ai-to-detect-polyps-that-can-lead-to-colon-cancer/"
+    ampWebUrl: "https://www.cbsnews.com/amp/newyork/news/south-shore-university-hospital-using-ai-to-detect-polyps-that-can-lead-to-colon-cancer/"
+    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/newyork/news/south-shore-university-hospital-using-ai-to-detect-polyps-that-can-lead-to-colon-cancer/"
+    type: article
+    provider:
+      name: CBS News
+      domain: cbsnews.com
+    quality: 49
+    images:
+      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/08/24/3f481e8e-9e46-4aa3-bedf-d9a8a4516ea5/thumbnail/1200x630/1db831793d4413a2e246c1803d162330/artificial-intelligence-colonoscopy.jpg"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "EwhNuI6xPwD0GL2wyyeGVwCToQpTNNDtzxiAgDrgKkuFOXvRKArwt2xpRnmtIN0SJijytiYAXFbGMOi/uYGCx+yJrSh6KVG8C26y89Gx+88s3WugWL6oYApEO3w6WJTfpgPKQ7fE2O/3BUrq68sct3G9IkP9yPoC3hJUUpjr4MNEP7GhBfbSU+DgcANBPCcRR1o63EGoUgty8aRa5p+63TznlBtLRc26KpTmpYt+kQMB7lnJbSz2dT6P542kX0HFIiCI5nhn6kl3heIysoYiOZbyfr98xb79cdE2MAnpOeEbr/4uHVFTS8mAfX3T7Yrlh4/q1Dldo7n/Y9Q7yEE7w3LzMzVrZl8PG/ggaIIHhEA=;XZxJCvNCehQPyUMl5Jm1EA=="
 ---

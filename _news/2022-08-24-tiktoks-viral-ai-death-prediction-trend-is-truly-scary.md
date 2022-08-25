@@ -40,17 +40,6 @@ related:
         width: 1024
         height: 682
         isCached: true
-  - title: "Amazon testing TikTok-style feed on its app, AI firm says"
-    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."
-    publishedDateTime: 2022-08-21T04:42:00Z
-    webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article264624466.html"
-    ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article264624466.html"
-    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article264624466.html"
-    type: article
-    provider:
-      name: The Sun News
-      domain: myrtlebeachonline.com
-    quality: 37
   - title: "Facebook is losing its grip as a ‘Top 10’ app as BeReal and TikTok grow"
     excerpt: "Facebook this year has been struggling to maintain its position among the Top 10 apps on the U.S. App Store, according to an analysis of iPhone"
     publishedDateTime: 2022-08-22T03:32:00Z

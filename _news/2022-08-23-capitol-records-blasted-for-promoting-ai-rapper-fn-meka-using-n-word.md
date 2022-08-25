@@ -42,6 +42,22 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "FN Meka, the racist AI 'rapper,' is a symptom of a bigger problem"
+    excerpt: "Capitol Records ended its record deal with a stereotypical 'rapper' that rhymes in the digital world. The controversy showed a major pitfall of AI."
+    publishedDateTime: 2022-08-25T20:07:00Z
+    webUrl: "https://www.msnbc.com/the-reidout/reidout-blog/fn-meka-capitol-records-ai-rapper-rcna44785"
+    ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna44785"
+    cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna44785"
+    type: article
+    provider:
+      name: MSNBC
+      domain: msnbc.com
+    quality: 57
+    images:
+      - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-08/220825-ROB-Ai-rapper-an-b434e7.jpg"
+        width: 2500
+        height: 1250
+        isCached: true
   - title: "An AI-powered rapper? What you should know as a TikTok-famous virtual artist is signed by a record label"
     excerpt: "An announcement by Capitol Records to sign a virtual artist has generated some level of controversy, as well as curiosity over musicians that do not exist in flesh and blood. Here's what you need to know about virtual artists,"
     publishedDateTime: 2022-08-23T04:49:00Z
@@ -57,6 +73,20 @@ related:
       - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2022/08/932/470/GettyImages-1230726502.jpg?ve=1&tl=1"
         width: 932
         height: 470
+        isCached: true
+  - title: "Black Artists Sound Off on Why AI Rapper FN Meka Was So Horribly Offensive"
+    excerpt: "Capitol Records signed—and then quickly dropped—the robot rapper, who was accused of appropriating Black culture and dropping the N-word in its songs."
+    publishedDateTime: 2022-08-25T21:02:00Z
+    webUrl: "https://www.thedailybeast.com/black-artists-sound-off-on-why-ai-rapper-fn-meka-was-so-horribly-offensive"
+    type: article
+    provider:
+      name: The Daily Beast
+      domain: thedailybeast.com
+    quality: 35
+    images:
+      - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_528,w_940,x_2,y_337/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1661459340/Screen_Shot_2022-08-25_at_4.28.14_PM_zei9m2"
+        width: 940
+        height: 528
         isCached: true
   - title: "Capitol Music Group drops AI rapper FN Meka amid backlash over racial stereotyping"
     excerpt: "But the announcement prompted a backlash over the project, including an open letter from Industry Blackout. The group of Black industry professionals slammed FN Meka as being a “direct insult to the Black community and our culture”."
