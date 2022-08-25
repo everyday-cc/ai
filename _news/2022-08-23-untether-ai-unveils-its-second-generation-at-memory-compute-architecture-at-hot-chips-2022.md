@@ -1,23 +1,28 @@
 ---
 category: news
 title: "Untether AI Unveils Its Second-Generation At-Memory Compute Architecture at HOT CHIPS 2022"
-excerpt: "AI architecture delivers 2 PetaFlops of performance at 30 TeraFlops/W of energy efficiency Untether AITM, the leader in at-memory computation for artificial intelligence (AI) workloads, today announce"
-publishedDateTime: 2022-08-23T15:15:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/08/b28603325/untether-ai-unveils-its-second-generation-at-memory-compute-architecture-at-hot-chips-2022"
-webUrl: "https://www.benzinga.com/pressreleases/22/08/b28603325/untether-ai-unveils-its-second-generation-at-memory-compute-architecture-at-hot-chips-2022"
-ampWebUrl: "https://www.benzinga.com/amp/content/28603325"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28603325"
+excerpt: "Untether AITM, the leader in at-memory computation for artificial intelligence (AI) workloads, today announced at the HOT CHIPS 2022 conference its next-generation architecture for accelerating AI inference workloads called speedAI devices,"
+publishedDateTime: 2022-08-23T15:16:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c"
+webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c"
 type: article
-quality: 27
+quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
+  - AI Hardware
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "Untether AI Pulls the Curtain Rope For Its Next-Gen Inferencing System"
@@ -74,6 +79,6 @@ related:
       domain: design-reuse.com
     quality: 34
 
-secured: "HyERu/bcaTeF8M+pnE9ICCdfUIjMAcoPnRAfWlxFcGAUWGQIPGNQTpmlBq55J4JPgiakhOnADRB76iuG9up1+ylDAYPZSVtn1J5Ap+iqGxc2OcV/cfpCoenYGd7Xjdo3PxuLEnTYjcjUsYLy6SpM3aw0cj//j9Ojv+cqdqM65H+IuUxJei1QXqcchN28vwiFWdJXiNvmFxwMU0FGPv4f6sFcqdVPi4vyT3KAvE4QJE1xnHMVKTR64QY9CNtv16fOv28UKFCxFxbwngn5szY0rK7c67htTF5+H5Bmal77rzsbSHNb5TTBTXfzj91rl4lMS51kYqQddX5aaSCf9BfTKL6Pb8RwTxy8XrBUoeBguaQ=;SfxrUUQ5ZNVKyw4L4k/ukg=="
+secured: "/XxuMLtoD5ZDa6/ljPTDaVUdOSYCH5d7zwap9Aetp4UfWaIeMRcpy2xf/+WOX2YIJHKh+FTXIdaJqEhIU4YzPdsW8u4POC1uLdnXVE8X0/6Z8bHrgPejjHbycTXXhktMnwSnQmMw5I6w+rnaUfAE0t0r1h2q1YuOVqnLNKZJQHzLPrmWTGviX9wWnq70uI0o/ldAJvNmOMK7nclTDPpHKSNvrdzWeZtScdMU2Fx5nEnqXpFGwfsCTLJjQEhCRrj55TrgWWXSbnVrup7s290U1YNwGi5/XLsMa5vxJQZvx3urhYK4K3+5XS5NOd6E3OeJZjE6PcwNL3GdnoQyIyvXoHPpBFpVx9zTi6HF/C+CHf0=;NvtabymRH+gddsjiD5GwqA=="
 ---
 

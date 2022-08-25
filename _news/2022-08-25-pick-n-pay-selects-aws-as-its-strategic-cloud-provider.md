@@ -3,8 +3,8 @@ category: news
 title: "Pick n Pay Selects AWS as Its Strategic Cloud Provider"
 excerpt: "View the full release here:  \"Leveraging the cloud to achieve greater operational efficiency and improved customer experiences is a game-changing strategy for Pick n Pay and the South African retail sector."
 publishedDateTime: 2022-08-25T05:24:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/25/9662000.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/25/9662000.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-pick-n-pay-selects-aws-as-its-strategic-/2022/08/25/9662000.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-pick-n-pay-selects-aws-as-its-strategic-/2022/08/25/9662000.htm"
 type: article
 quality: 19
 heat: 19
@@ -18,6 +18,6 @@ topics:
   - AWS AI
   - AI
 
-secured: "R3anLlvGM20G8zGSDmLt1orZ/GzCeQmA/zxlSjyLRK4cUXMvsclT6UP8pnYoZBJ3rYCoH/TLvhO4BctijgD4MNKgHL/JfJFWMmzVTuDW7TOM/f3zxT6VKuzYt3XokkG7RXMEnbIY0uHQ0R8qV/fbxMXoJSI4f8a44tnhISqq2ILXQqxIbTlvP/1G3IfJo8WMR1xryUDzCwkpkG36kLFY/vKHNt83Hz+cyfBNaE81jdG289s1+Ee2und5uj8y6MdpcblORlyIISA4vSq31LGQgR/Rs5f//F2PHZA6+DH7Uf/cI/FdVrRfsv8sKD3FUUM1jCqKEM7Yn3KCfRzr0AVMYOiSXkKwQHcXOe5iLeQ1XBfLoMWVdW29SyMi+WcLU22xfRF802/cI/Sz/jkHkPzxvX7qg0b2Z//dOndJ+KIMwJbfqfVjztvjyoawy2iJDrMT8lFYhZZ6qVZY2wcXIk3+VDp7j/72FVqDE9fDlMjTQpdiPrg8o5O/CQVjhk3df3iFdor2+H/UDII0N81fQFF/5A==;0O0i3GJ3f/l7PGkSyoEqVA=="
+secured: "IIrmMqWDwzJ0iqg8Em4eG0QKxxmL3vZxPNwJYh8lVVXgdN8BQQKR+Q0L4PkQc4hCuGj66Hk1kv0WcBsWI72EDvO1icMmDuhkXeiKQBPn5HSu8pGA0VMiGBc1i3e31lN81ZugbjJSYZATw7tAQo3zR9hYyneOGLlPa2oP1lmz2gQR23kO6ab1Gmp3LY2vGwBj5kwLN4QazQsNfhHv83BB5HCxakKk/5Jef6BzHEwUI1gFPB+8rjZ7P8es4IXGgrmg75mgDJ1NXuEirB1jXEeh08wEPKkJjz1tcYFQj6TLUbnMhwSKhqRogsHE33rs03e739C6p73VVcL3XFmzZrUqzmEz5KdPBMP7QCV6cXbW2zvw7/lU0Pbu48d5UGHOOHVN6kV2ykfjMfThBICMW17BMXr0dD7/EZ5ZuHuyVMv5iDuZ+gkVEqtxMiHBqx9/TRCWGVAnIQSqSlsdrNw4H+L5B/L/kBYfa91LoV92WFy/MKBC8c/F8+K5Pv0OdlM9yxrP935Yh4ITZ9IEDGvrTNw/bQ==;CmgYJBiJ3P2k2nxVTVp4gg=="
 ---
 

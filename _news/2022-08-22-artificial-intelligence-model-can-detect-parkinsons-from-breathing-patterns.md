@@ -140,7 +140,7 @@ related:
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 34
+    quality: 36
     images:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8d8886a4-bd40-4f27-8eb6-2a0d3246e4e9/Rendition/thumbnail/Content/Public"
         width: 300
@@ -160,6 +160,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "New research analyzes breathing patterns to detect Parkinson's disease"
+    excerpt: "Researchers at MIT are using artificial intelligence to diagnose Parkinson's disease before symptoms begin. Joining us to talk about this development as part of our biweekly segment, Tech Talk, is Boston Globe technology writer Hiawatha Bray Tech."
+    publishedDateTime: 2022-08-25T16:21:00Z
+    webUrl: "https://www.wbur.org/radioboston/2022/08/25/mit-parkinsons-research"
+    ampWebUrl: "https://amp.wbur.org/radioboston/2022/08/25/mit-parkinsons-research"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/radioboston/2022/08/25/mit-parkinsons-research"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 24
   - title: "Scientists invent device that can detect Parkinson’s disease when you’re asleep"
     excerpt: "Scientists have developed a device that can detect the presence of Parkinson’s disease — one of the fastest-growing neurological conditions in the world. Parkinson’s disease is notoriously difficult to diagnose as it relies primarily on the appearance of motor symptoms such as tremors,"
     publishedDateTime: 2022-08-23T15:58:00Z

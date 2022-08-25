@@ -147,7 +147,7 @@ related:
     provider:
       name: EurekAlert!
       domain: eurekalert.org
-    quality: 34
+    quality: 36
     images:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8d8886a4-bd40-4f27-8eb6-2a0d3246e4e9/Rendition/thumbnail/Content/Public"
         width: 300
@@ -167,6 +167,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "New research analyzes breathing patterns to detect Parkinson's disease"
+    excerpt: "Researchers at MIT are using artificial intelligence to diagnose Parkinson's disease before symptoms begin. Joining us to talk about this development as part of our biweekly segment, Tech Talk, is Boston Globe technology writer Hiawatha Bray Tech."
+    publishedDateTime: 2022-08-25T16:21:00Z
+    webUrl: "https://www.wbur.org/radioboston/2022/08/25/mit-parkinsons-research"
+    ampWebUrl: "https://amp.wbur.org/radioboston/2022/08/25/mit-parkinsons-research"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/radioboston/2022/08/25/mit-parkinsons-research"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 24
 
 secured: "Jq1SCu4RKWn9/CRyyaDpQ+foGPFRbVINAQj4wzdYrY6ba4dglYJMn/FTD6Y/CMq2hUe0UcyutuwhVeZSWbptMsn9FMTAXXggJJ6j+Rnwv+0VAqBx9b2tXH3MYTbhUeqlH57MkJ4LSvtbeTSRmFktx080mA8dMueucwn2Qw0ML5+6xEbHSlRtwk06hrgSBZBaestLchnISjAac4Xdek/TaA5b5GQtIx3Mz5sXtAs96y5+E48uUNb2Ae7fRkVz34YIZi22oCkl4VEiXluJSb9uoQWso0vvzkMx6tYboXzI1rXx4x67FLcyO8r0BgHH6u7fYiUgi+ObTBMByJkEaLJkbmBEdkYm5P+2kbMVFzXsKQJV5YnTvBMJ2Kd+UjFvM5EkGmTCqq7xQ3Y6++eIpLZRZ9GKqxPX//0/oTaabhvM9BQYBv8YtXQNznH42I8Xa8QtRC6ZEqPQN4j9RAujlubApHKGfTBfiXevWx+D4OUWRtfBVF8dskSC8lm/NQBr8ejPw1Ggadrxcdi1SmTqoryZww==;Y2kiDfU7xSVlSK/edb4gHQ=="
 ---

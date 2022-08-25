@@ -55,6 +55,20 @@ related:
         width: 400
         height: 240
         isCached: true
+  - title: "AI Algorithm May Streamline Lung Cancer Radiotherapy"
+    excerpt: "Researchers have developed and validated a deep learning algorithm that can identify and outline a non-small cell lung cancer tumor on a computed tomography scan within seconds."
+    publishedDateTime: 2022-08-24T09:33:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/ai-algorithm-may-streamline-lung-cancer-radiotherapy-365009"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 54
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/365009/ai-algorithm-may-streamline-lung-cancer-radiotherapy-365009-640x360.jpg?cb=20220824"
+        width: 640
+        height: 360
+        isCached: true
   - title: "Streamline healthcare operations with machine learning"
     excerpt: "Across the entire healthcare continuum, patients and practitioners are benefiting from machine learning (ML) and the way in which it streamlines day-to-day treatment processes. From bedside care to data mining and beyond, cutting-edge ML technology is ..."
     publishedDateTime: 2022-08-22T14:30:00Z

@@ -5,6 +5,8 @@ excerpt: "The system should allow increasingly complex artificial intelligence t
 publishedDateTime: 2022-08-17T22:31:00Z
 originalUrl: "https://www.independent.co.uk/tech/ai-artificial-intelligence-chip-memory-ram-b2146974.html"
 webUrl: "https://www.independent.co.uk/tech/ai-artificial-intelligence-chip-memory-ram-b2146974.html"
+ampWebUrl: "https://www.independent.co.uk/tech/ai-artificial-intelligence-chip-memory-ram-b2146974.html"
+cdnAmpWebUrl: "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/ai-artificial-intelligence-chip-memory-ram-b2146974.html"
 type: article
 
 provider:
@@ -15,6 +17,7 @@ topics:
   - AI in Autos
   - AI
   - AI Hardware
+  - AI in Healthcare
 
 images:
   - url: "https://static.independent.co.uk/2022/08/17/16/Low-Res_UCSD-JacobsSchool-20220815-Cauwenberghs-NeuRRam-00621-e-8MP.jpg.png?quality=75&width=1200&auto=webp"

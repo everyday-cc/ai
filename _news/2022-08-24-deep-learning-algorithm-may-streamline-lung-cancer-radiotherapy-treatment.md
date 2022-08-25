@@ -9,7 +9,7 @@ ampWebUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-ra
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp"
 type: article
 quality: 90
-heat: 140
+heat: 150
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://healthcare-in-europe.com/media/story/27271/rect-01-adobestock-296280067.jpg"
         width: 400
         height: 240
+        isCached: true
+  - title: "AI Algorithm May Streamline Lung Cancer Radiotherapy"
+    excerpt: "Researchers have developed and validated a deep learning algorithm that can identify and outline a non-small cell lung cancer tumor on a computed tomography scan within seconds."
+    publishedDateTime: 2022-08-24T09:33:00Z
+    webUrl: "https://www.technologynetworks.com/tn/news/ai-algorithm-may-streamline-lung-cancer-radiotherapy-365009"
+    type: article
+    provider:
+      name: technologynetworks
+      domain: technologynetworks.com
+    quality: 54
+    images:
+      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/365009/ai-algorithm-may-streamline-lung-cancer-radiotherapy-365009-640x360.jpg?cb=20220824"
+        width: 640
+        height: 360
         isCached: true
   - title: "Artificial Intelligence Simplifies Lung Cancer Radiotherapy Treatment"
     excerpt: "Researchers developed a deep learning algorithm to identify and outline lung cancer tumors for faster diagnosis and treatment Researchers used an Artificial Intelligence algorithm to target problems caused due to conventional radiation therapy techniques,"

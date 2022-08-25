@@ -27,6 +27,15 @@ related:
       name: The Australian
       domain: theaustralian.com.au
     quality: 4
+  - title: "Executive Voice: Industry veteran leads construction firm's Triangle growth"
+    excerpt: "Seth London, a second-generation construction professional with more than 25 years of industry experience under his belt, is charged with leading the Triangle efforts of LeChase Construction."
+    publishedDateTime: 2022-08-25T16:17:00Z
+    webUrl: "https://www.bizjournals.com/triangle/news/2022/08/25/seth-london-guides-lechase-construction-growth.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 2
 
 secured: "S13NpfVBo008LMlKmkRZrtE3KiZiMj+lEU89HijwZEeyr8EWld0NMD7kVcRH0hnpxVD3/t5BOSPftkElrnaYRfqw3Y7mKwy5l6KPr11uFRuHaY9cZOJPva0cHv1528dnFhs4jgPqG6oU/RVvhm8zNQdMu1xUeEBj43g56As7jzw0G2zlcdPVvb5xBbUv9MHIN5LV2US4jaWlLPRPciybZAWhJy4kQhp2vPKRGq6WOuGnblNEXZWpO+8Tpd8vFEHmpGWvZzEttETHc6H7QPoIoriZCG1CjZ74i2rYipG1G0yjtT/6HaSShi7YooucstYy65IXEfuORK0qAqmbxECkKoqwPDBoGR02XFXx+s9zZA+zmOmFS4OLMvqsWCHweReChvufpp0zddP14PNoUJTpWsXs5oHhUuVJpmwgdPIDT5599BBwGgdLvJxHF28RyNwRQxdEp2JIh7DkS/m3N7Pc0xEkMzb0FjsDqmoN9dDiBE2N0LzseKrg5BmJn2fJJ2kxwWcvf2g9d3xxHAsbTnRu0Q==;G9g1OMeX+OxiYol+lU85Mg=="
 ---

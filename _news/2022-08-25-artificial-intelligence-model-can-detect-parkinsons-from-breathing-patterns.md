@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-25T15:14:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/962870"
 webUrl: "https://www.eurekalert.org/news-releases/962870"
 type: article
-quality: 34
+quality: 36
 heat: -1
 published: false
 
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Machine Learning
 
 images:
   - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8d8886a4-bd40-4f27-8eb6-2a0d3246e4e9/Rendition/thumbnail/Content/Public"
@@ -158,6 +159,17 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "New research analyzes breathing patterns to detect Parkinson's disease"
+    excerpt: "Researchers at MIT are using artificial intelligence to diagnose Parkinson's disease before symptoms begin. Joining us to talk about this development as part of our biweekly segment, Tech Talk, is Boston Globe technology writer Hiawatha Bray Tech."
+    publishedDateTime: 2022-08-25T16:21:00Z
+    webUrl: "https://www.wbur.org/radioboston/2022/08/25/mit-parkinsons-research"
+    ampWebUrl: "https://amp.wbur.org/radioboston/2022/08/25/mit-parkinsons-research"
+    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/radioboston/2022/08/25/mit-parkinsons-research"
+    type: article
+    provider:
+      name: WBUR
+      domain: wbur.org
+    quality: 24
   - title: "Scientists invent device that can detect Parkinson’s disease when you’re asleep"
     excerpt: "Scientists have developed a device that can detect the presence of Parkinson’s disease — one of the fastest-growing neurological conditions in the world. Parkinson’s disease is notoriously difficult to diagnose as it relies primarily on the appearance of motor symptoms such as tremors,"
     publishedDateTime: 2022-08-23T15:58:00Z
@@ -168,6 +180,6 @@ related:
       domain: metro.co.uk
     quality: 0
 
-secured: "OBZd8au+ORX4W7RIBqG/lSR3NOQMGl7XfLKLYEnbbK22hAhIYvju7hMxT1NxZJuDB+UfC+zmuBHlAd3bE+fM80yaCHjSp74iY04RIy7GCkdYy8DF57RVGvh5z6WQ6D762VPe/gsIRxuHS9ygDRa7qhCn+UZHQL2TAzSFQgjHaRFzQRodILjrbb1gczuTAwKh7c17SP7W7LhsmgIaPBvEI7+a1ccu78ethZq9Uw3A+Cqk2ig7cm9pkaq78ZcsZQ8JOV/YdLUl2x0C+q5PpTsRIj8ivvzNVE3M8jdLTtJSxUgZgKknAuYzI7nkM/TqG34JWhyRWQx/Au4WeXsSqtauvYmTtvzW6crPoVvAlhg6QKA=;6jyLQQYSYBIWnH+EZOLP/Q=="
+secured: "jqO/qcPvTamkTIw7LDXlRo5fktYRJPpweJW2TD3MMIn6hIzmMQJPuJlpsrWvdYIqVpuhbRE499cunk/0S+JRJm/awNpZb5DmtnKDJ7A/UOVrMu3umHdjqcQ6Yy5X60WRNDKilwHMzlm25XHE+Ua4KAnQn6avfdVcDes+86w+5/qvZOMdvVkosYicTwdY1RfhPJy0o0HOA/Ze78It9w9FTebmApxbrIBbH2k4RUe9wtOUpt13LSCrZks41L6QOhIsKwOS6L4NJDW7c6r/pH6gBRZ25X87EMkh9LCjLRUWNQxlcRDRSBF7FvZqVCmvVJQ7qEaztTAtiR4RGbugO020S7RVrHiuf1E/xVeGyMKj1+/HHYjNfw+mz+UXd7Ze5o47PCBuNoMv5KCBYEWUzM4yneUOwIvdRZyP41PnGKYkmIVHpB5fKPKIzUCzT0uxEnBVQVsmd22h6NTIOKF4BaAgQCdFxABInK6ZCmZo2azugqMi09NNOdM6z2gPSdySujX64HTrFLagVNA+Curx2TirBg==;oEbHX5Do8OSm4l4x7PbMXw=="
 ---
 

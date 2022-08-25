@@ -194,7 +194,7 @@
       "originalUrl": "https://venturebeat.com/ai/assembly-ai-offers-ai-as-a-service-api-to-ease-model-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 183,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -706,8 +706,8 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
+      "ampWebUrl": "https://www.independent.co.uk/tech/ai-artificial-intelligence-chip-memory-ram-b2146974.html",
+      "cdnAmpWebUrl": "https://www-independent-co-uk.cdn.ampproject.org/c/s/www.independent.co.uk/tech/ai-artificial-intelligence-chip-memory-ram-b2146974.html",
       "publishedDateTime": "2022-08-17T15:31:00-07:00",
       "updatedDateTime": null,
       "provider": {
@@ -724,7 +724,8 @@
       "topics": [
         "AI in Autos",
         "AI",
-        "AI Hardware"
+        "AI Hardware",
+        "AI in Healthcare"
       ]
     },
     {

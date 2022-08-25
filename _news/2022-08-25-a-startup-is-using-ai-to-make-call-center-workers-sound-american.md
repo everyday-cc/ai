@@ -9,7 +9,7 @@ ampWebUrl: "https://www.popsci.com/technology/startup-call-center-voices-ai-amer
 cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/startup-call-center-voices-ai-american-accent/?amp"
 type: article
 quality: 57
-heat: 67
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI Startup Wants to Make Foreign Call Center Employees Sound White"
+    excerpt: "Sanas argues that its technology can be empowering for call center employees by removing bias and limiting misunderstandings during phone conversations. Critics say it's erasure."
+    publishedDateTime: 2022-08-25T16:56:00Z
+    webUrl: "https://www.pcmag.com/news/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/05P40am6RlXf9q8pCpYsR1f-1.fit_lim.size_1200x630.v1661442988.jpg"
+        width: 1120
+        height: 630
+        isCached: true
   - title: "The AI startup erasing call center worker accents: is it fighting bias – or perpetuating it?"
     excerpt: "A Silicon Valley startup offers voice-altering tech to call center workers around the world: ‘Yes, this is wrong … but a lot of things exist in the world’"
     publishedDateTime: 2022-08-24T13:13:00Z
@@ -43,6 +57,6 @@ related:
         height: 372
         isCached: true
 
-secured: "runT+B3Ul9Loe5N238bYlG1FADn22BURal3CmrhZ2O6UlQ+tWb+ysJZCgxRmMrdt2VabmOKCwmXX70dShr07jYfJl/DtDM8KdPJv5HvofUsfU8OdXjkI8Py4vZWzWtT2W5Gb6I0oz2IZaX/ahWOt1jJgZvDFdyRX2s6mTqhmCIrZlB029xbWn44CBb7mQcu83GFNe+t9SiJMizcxX/9gJ511zgtwWhCng+/5GqjqVhAGu31U9JmjEvDlC+Bf+dS5qgxVQbMZr6efvqob8XP5HXonTQkLXW1+jr/Fp81gXwC7XmjoFd+0jA5K/qUQnvClpxmLFkComm8eV4/Xlc3mQ6FSLnX4Ma8K9SDFzDWu418=;mBPI2wo4blJQzEtIoK88WA=="
+secured: "TDCJvCQZNp5A5t5r/BzYiNHMsm7BEmk+FyaDPkDH6Z01IkFl+Di/NCrljyRDnWCL9fAmaZmhFW39RE9+z9nVgu5XIkT3qVt5+AOje5vlw1N+zdZxW3uyTNmVeucmtvsSrXLY49EebemA9RLSOXQETlpFWZmZerKwNNuhDZ276iYtBaZt8VXQa3Xz9nhvB/w00UjEEurikK8gqkAlhQ+gbcU7/WdTt1pH0ahiadYapidcXmu1IFyfpGlLhmK6LQJJvSApBfqBBM+SVC68WtqHRE5d0kkg/rGUL8tdUGLo7X6brFOhG2EigV+DM8gOTI6ieBqkDoKjwE7eVOil1zpR1bIVLDknQ/pms5QaGffCLY9hxUjRoanIs5ipod07qlUtJDDpdfB+uS5VZaT5D2j8cMMNly05HJOvcQvxQedpC+E1c734IYZF5zOkpnswjEm9PWZYmtERvt1OlJud/mbHPtR9zJC0dF+bWPPxRoZPv+hPbl5a0NhxavIjcU9CjBt0rPEbsDbSDzGf9v0dv8VNfQ==;nDJQdnMxOzC0ku7L3pmXMg=="
 ---
 

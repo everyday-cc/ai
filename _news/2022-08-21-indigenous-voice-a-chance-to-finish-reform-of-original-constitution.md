@@ -28,6 +28,15 @@ related:
       name: Just Auto
       domain: just-auto.com
     quality: 17
+  - title: "Executive Voice: Industry veteran leads construction firm's Triangle growth"
+    excerpt: "Seth London, a second-generation construction professional with more than 25 years of industry experience under his belt, is charged with leading the Triangle efforts of LeChase Construction."
+    publishedDateTime: 2022-08-25T16:17:00Z
+    webUrl: "https://www.bizjournals.com/triangle/news/2022/08/25/seth-london-guides-lechase-construction-growth.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 2
 
 secured: "fVp7/ravhP+bZH0oUDM7/p6RjhiApWRShchM9I8VHqMnEi07SSUfaiHZL2xVi0D1YIXxMUHaqrVYF6+H6vmvbwoGtCuQppNpnMOT9OBAMlDp9+WrSPTbt8IxLpOueNVb+wxF3hJJcD7jevUI3Wk8WwXFbrCgADcH6a8T50Y9qed3/GJnZiWagoiI/H8ECBx4q4gLRBl1x2hzxXFnWAMS++03REeSYamj9umZbYVZLB5CGwTTvTXrrdwaMYG2ER4eHkCve0e6ntcA8myi207OC3aGWeUq73/LAsRHnBehE83QEqNS+pQEwOOlYIFWWrHq+uU8ECE0mbn6bVXXEHxgGRcLGqS0geqvix4Z+Oy02QIypTJTkUheyYAHKQvBu2oyLSz4lFibJN3+FHVT+tOIhebB7YYZ+WUBOKrjCrfrLjbt2rvGqseKpj3NBtw6g5m6ttJ0cE1fLto88yvnTMr3E+o5ZQ6jY1f+jjZwDtYB98cq8AuogvlKe2NJM3ctsyQGG3YizKYj0FdPgTdX7JooUw==;feMK7YAI6761jZzRR3hJbA=="
 ---

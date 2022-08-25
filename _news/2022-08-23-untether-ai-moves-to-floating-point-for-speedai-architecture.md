@@ -56,6 +56,20 @@ related:
         width: 600
         height: 300
         isCached: true
+  - title: "Untether AI Unveils Its Second-Generation At-Memory Compute Architecture at HOT CHIPS 2022"
+    excerpt: "Untether AITM, the leader in at-memory computation for artificial intelligence (AI) workloads, today announced at the HOT CHIPS 2022 conference its next-generation architecture for accelerating AI inference workloads called speedAI devices,"
+    publishedDateTime: 2022-08-23T15:16:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 44
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Untether Unveils 2-PFLOPS AI Chip, Edge Roadmap"
     excerpt: "At Hot Chips this week, Untether unveiled its second-gen architecture for AI inference, the first chip using this architecture, as well as plans to expand to edge and endpoint accelerators."
     publishedDateTime: 2022-08-23T00:00:00Z
@@ -65,17 +79,6 @@ related:
       name: Design-Reuse
       domain: design-reuse.com
     quality: 34
-  - title: "Untether AI Unveils Its Second-Generation At-Memory Compute Architecture at HOT CHIPS 2022"
-    excerpt: "AI architecture delivers 2 PetaFlops of performance at 30 TeraFlops/W of energy efficiency Untether AITM, the leader in at-memory computation for artificial intelligence (AI) workloads, today announce"
-    publishedDateTime: 2022-08-23T15:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/b28603325/untether-ai-unveils-its-second-generation-at-memory-compute-architecture-at-hot-chips-2022"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28603325"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28603325"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 27
 
 secured: "MHKm4Jeb7I30Fn6Z45WrmJpwxj1nTBPmK62h+q/pvMA5VtdQTcV3bV3gx4DM90duTXRUIsAoAzsx9rB7TqnKTroq8FXdEsjADYPE/xYbvSTEtpy7PTkEhy3l7ay6KPbVIaMuuWkBweWY8lOHy/KezrXWA9mAtw5NaF0Fx/Eow+GGuK9eYq3PyUWMabXi0AK0iJvdwZzVJH3kBuABv9IUCsFQGvdkkWWtTFyrqjvWH5vt8YGBDAp/5OrUd1/4SO9SZvQIrHrWmb52L6ZIhUlFPvZxYcQMIsr7dIVPcBjzVATWl0GIJySmDewvKw88Z7Rhl3amihSzlPinSEMiDkq3Tt5DciXQFUQVj6M5nucx3lcEZeJEQaUMtNqjt7LRJ3T/F2Nv/WMcUJSA46cDdhulEjhgv964WmRjf8qz7XcoGKN429w1n9g9SRmizCmkPKVPj/WFeya7qrRShTW5lA/VCcB7MbtroCMTdqubI0s/bxP1p0TEdFxdaPlavMo30fDhFlfzVaMC84FHKnClmRfGdQ==;km/elxhTB8xusZDQXj96pQ=="
 ---
