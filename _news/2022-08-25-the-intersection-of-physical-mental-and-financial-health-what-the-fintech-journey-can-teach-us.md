@@ -46,6 +46,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "Top 7 Fintech Startups in Vietnam in 2022"
+    excerpt: "To get a sense of Vietnam’s up-and-coming fintech startups, we look today at seven fast-growing Vietnamese fintech companies that have made notable strives over the past year and which have attracted the interest of some of the world’s most prominent startup investors."
+    publishedDateTime: 2022-08-25T01:21:00Z
+    webUrl: "https://fintechnews.sg/63399/vietnam/top-7-fintech-startups-in-vietnam-in-2022/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/08/Top-7-Fintech-Startups-in-Vietnam-in-2022.png?x82653"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "Urban Money by Square Yards is spearheading fintech revolution in real estate"
     excerpt: "lies a suite of tech capabilities driving its fintech powertrain, helping the company disburse paperless mortgages in a matter of minutes instead of days or weeks. Once a customer fills his financial requirements online, an AI-based eligibility engine dete ..."
     publishedDateTime: 2022-08-22T13:24:00Z

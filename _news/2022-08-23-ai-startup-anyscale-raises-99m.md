@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round"
+    excerpt: "The company initially announced a $100 million Series C venture investment round led by Andreessen Horowitz in December."
+    publishedDateTime: 2022-08-23T12:15:00Z
+    webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
+    ampWebUrl: "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-608499/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "AI Startup Anyscale Adds $99 Million to Andressen Horowitz-Led Funding Round"
     excerpt: "The company initially announced a $100 million Series C venture investment round led by Andressen Horowitz in December."
     publishedDateTime: 2022-08-23T10:30:00Z
@@ -70,15 +86,6 @@ related:
         width: 400
         height: 400
         isCached: true
-  - title: "AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round"
-    excerpt: "The company initially announced a $100 million Series C venture investment round led by Andreessen Horowitz in December."
-    publishedDateTime: 2022-08-23T12:15:00Z
-    webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?tpl=vc"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 44
   - title: "Anyscale raises $99M to build out its distributed AI computing platform"
     excerpt: "Anyscale is the developer of the open-source Python framework Ray, which is used to run distributed computing projects. Ray includes both a universal serverless compute application programming interface and an expanded ecosystem of libraries."
     publishedDateTime: 2022-08-23T23:51:00Z

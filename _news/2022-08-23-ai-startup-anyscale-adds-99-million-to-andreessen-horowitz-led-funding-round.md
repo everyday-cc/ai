@@ -3,12 +3,14 @@ category: news
 title: "AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round"
 excerpt: "The company initially announced a $100 million Series C venture investment round led by Andreessen Horowitz in December."
 publishedDateTime: 2022-08-23T12:15:00Z
-originalUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?tpl=vc"
-webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?tpl=vc"
+originalUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
+webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
+ampWebUrl: "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
+cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
 type: article
-quality: 44
-heat: -1
-published: false
+quality: 84
+heat: 144
+published: true
 
 provider:
   name: Wall Street Journal
@@ -20,6 +22,12 @@ provider:
 
 topics:
   - AI
+
+images:
+  - url: "https://images.wsj.net/im-608499/social"
+    width: 1279
+    height: 640
+    isCached: true
 
 related:
   - title: "AI Startup Anyscale Adds $99 Million to Andressen Horowitz-Led Funding Round"
@@ -111,6 +119,6 @@ related:
         height: 400
         isCached: true
 
-secured: "NJgs1OU/00WUiJecBdfCVL6n6iYwbT9Q9s7wz/B59AWSOmCb6OrLRsRUtvpZVyyaPCEeqvDkmcEKmOD+ZYOVAqJL7Y0Htp0AsvKmPIn8Qf9WpBemgEnEtuc5JkhliBftQoReKTw9GDAbIz8lsANQVlhOZhsN/MyGD2nCPqe5lSkaoXph7SDZal3rrUVbq57jME7L0Be5LKmuppshscwwPU2WT110fcoTLkHVQhYILzFZ4KeQ6WSIWRTY0D/Ddi7yvSgTsSwKojjaScqZnadppqTAj81mDBeIuB/X2OllKVeePcgjXjsr+mSnZR8hlzuk7PY9qMsqNlj4f1pfI2hX5kTkx03fm15qPi71Uio6UH7HoCok82pYVEiyvAL+vc/AcTngFdMWJP5Xh4M1bg8zxdWmFCvpVxKPRhNla6H3iaemuXO4kqvJ23gR8LPUvZsEmVZGLuLNo+pOXyq77MxTN3ASI3oAPV7apsc+5nnnyI2vTtUUoiGd8e8LhoPZ2UM1hkCDJxNaM0fA84Xf+UJ5Ww==;mVA+/qac1Y+iKU12tPRtkg=="
+secured: "6TdCcjo1Xs1pdXHfJ8U/PKss57Q7o5BZTvHhN/+Jn6XCrLX5OvnNJRNtnC6+gSMMA4QHBA5y82rUUAUdW/OnL2MWRCllGLrILjkmCD1CxC4LR09ExSuPsMfmVAU1HUMSnKozKDF7PORY95klkBLgRH6K3qb3QuymaTA6R2HHAWCYVNzhpR8OiESSj91plR7VtIj9Nfz3kKPzCPkPuCNtbosjcynQARhvWjMb6KwJwwvu9xQTTMWOX0+vbzGGUqZ6kxQhAUUKDwH0nNyOgAZqbG9x0uj4afbOFWSMQu6SpmuKH+CM/CrB8g6hK9XDwB+Z6Wc4Gu0q52FGcSdn8fhXavb99NtGSBE6AfJQMs04lJw=;alz549Nvf0hTpe+Xni+4lw=="
 ---
 

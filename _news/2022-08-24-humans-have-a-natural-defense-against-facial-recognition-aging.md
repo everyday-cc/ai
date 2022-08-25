@@ -66,14 +66,14 @@ related:
       name: thecrimereport.org
       domain: thecrimereport.org
     quality: 21
-  - title: "Voice to Parliament the 'wrong form' of recognition: Tony Abbott"
+  - title: "Voice to Parliament the ‘wrong form’ of recognition: Tony Abbott"
     excerpt: "Former prime minister Tony Abbott says the Indigenous Voice to Parliament is the “wrong form of recognition”. He said he thinks it’s wrong in principle to “divide Australians by race”. “And I think the more people see of this voice,"
-    publishedDateTime: 2022-08-23T12:46:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/voice-to-parliament-the-wrong-form-of-recognition-tony-abbott/video/156a3a234beb85d3010a8c4afbe6f9ec"
+    publishedDateTime: 2022-08-23T11:50:00Z
+    webUrl: "https://www.news.com.au/national/voice-to-parliament-the-wrong-form-of-recognition-tony-abbott/video/156a3a234beb85d3010a8c4afbe6f9ec"
     type: article
     provider:
-      name: The Australian
-      domain: theaustralian.com.au
+      name: News.com.au
+      domain: news.com.au
     quality: 4
   - title: "Vets’ contribution needs social recognition"
     excerpt: "Recent floods in Odisha have given substance to the fact that veterinary department is the forerunner in reaching out to distressed people in marooned and inundated areas. It’s quite apparent that a basket of essential services like electricity,"

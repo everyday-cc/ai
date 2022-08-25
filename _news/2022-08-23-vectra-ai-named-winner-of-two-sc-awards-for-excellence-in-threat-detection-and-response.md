@@ -20,12 +20,12 @@ topics:
 related:
   - title: "Horizon3.ai Wins Most Promising Early-Stage Startup in 2022 SC Awards"
     excerpt: "Horizon3.ai, a cybersecurity firm focused on autonomous penetration testing, today announced that it has been recognized as an Excellence Award winner in the Most Promising Early-Stage Startup category for the 2022 SC Awards."
-    publishedDateTime: 2022-08-22T14:36:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-horizon3ai-wins-most-promising-early-stage-startup-2022-/2022/08/22/9659988.htm"
+    publishedDateTime: 2022-08-22T13:01:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-22-horizon3ai-wins-most-promising-early-stage-startup-in-2022-sc-awards"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 17
   - title: "Most Promising Early-Stage Start Up | Horizon3.ai"
     excerpt: "Horizon3.ai has developed, NodeZero, an autonomous penetration testing platform that continuously assesses an enterprise's attack surface, identifying ways an attacker could chain together harvested credentials, misconfigurations, dangerous product ..."

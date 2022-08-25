@@ -34,6 +34,20 @@ related:
       name: TMCnet
       domain: tmcnet.com
     quality: 34
+  - title: "Top 7 Fintech Startups in Vietnam in 2022"
+    excerpt: "To get a sense of Vietnam’s up-and-coming fintech startups, we look today at seven fast-growing Vietnamese fintech companies that have made notable strives over the past year and which have attracted the interest of some of the world’s most prominent startup investors."
+    publishedDateTime: 2022-08-25T01:21:00Z
+    webUrl: "https://fintechnews.sg/63399/vietnam/top-7-fintech-startups-in-vietnam-in-2022/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/08/Top-7-Fintech-Startups-in-Vietnam-in-2022.png?x82653"
+        width: 1024
+        height: 567
+        isCached: true
   - title: "The Intersection Of Physical, Mental, And Financial Health: What The Fintech Journey Can Teach Us"
     excerpt: "The connection between different facets of our health is more obvious than ever. The pandemic highlighted the ways decreased physical mental health and physical health are intertwined –and recent research shows that ongoing stressors around finances also impact mental and physical health."
     publishedDateTime: 2022-08-24T18:49:00Z

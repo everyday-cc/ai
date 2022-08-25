@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round"
+    excerpt: "The company initially announced a $100 million Series C venture investment round led by Andreessen Horowitz in December."
+    publishedDateTime: 2022-08-23T12:15:00Z
+    webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
+    ampWebUrl: "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
+    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
+    type: article
+    provider:
+      name: Wall Street Journal
+      domain: wsj.com
+    quality: 84
+    images:
+      - url: "https://images.wsj.net/im-608499/social"
+        width: 1279
+        height: 640
+        isCached: true
   - title: "AI Startup Anyscale Adds $99 Million to Andressen Horowitz-Led Funding Round"
     excerpt: "The company initially announced a $100 million Series C venture investment round led by Andressen Horowitz in December."
     publishedDateTime: 2022-08-23T10:30:00Z
@@ -56,15 +72,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round"
-    excerpt: "The company initially announced a $100 million Series C venture investment round led by Andreessen Horowitz in December."
-    publishedDateTime: 2022-08-23T12:15:00Z
-    webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?tpl=vc"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 44
   - title: "AI startup Anyscale raises $99M"
     excerpt: "To keep up with the growing computational requirements and engineering complexities of AI projects, companies such as Uber, IBM and Meta have turned to the firm's Ray framework. \"Ray and the Anyscale platform have made tremendous progress in advancing the scaling of machine learning and Python workloads,"
     publishedDateTime: 2022-08-23T16:08:00Z
