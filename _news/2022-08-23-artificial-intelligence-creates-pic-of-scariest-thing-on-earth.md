@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://c.ndtvimg.com/2022-08/kshej0p_artificial-intelligence-scary-image-650_625x300_23_August_22.jpg"
