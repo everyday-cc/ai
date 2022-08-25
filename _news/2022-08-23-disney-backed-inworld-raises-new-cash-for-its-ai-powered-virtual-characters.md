@@ -24,18 +24,13 @@ topics:
 related:
   - title: "Qloo, the Leading Artificial Intelligence Platform for Culture and Taste Preferences, Raises $15M in Series B"
     excerpt: "Qloo, the leading artificial intelligence platform for culture and taste preferences, announced today that it has raised $15M in Series B funding from Eldridge and AXA Venture Partners. This latest round of funding brings Qloo’s total capital raised to $30M,"
-    publishedDateTime: 2022-08-23T15:02:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-ff592ea3291240c9ab4c46631a3da560"
+    publishedDateTime: 2022-08-23T15:00:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-23-qloo-the-leading-artificial-intelligence-platform-for-culture-and-taste-preferences-raises-15m-in-series-b"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 33
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 13
   - title: "A Mountain View startup that helps companies build virtual characters raised a $50M Series A"
     excerpt: "A startup specializing in virtual characters for games has raised some real and serious cash. Inworld AI announced Tuesday it's raised $50 million in a Series A round. Since it was founded a little more than a year ago, the Mountain View company has now ..."
     publishedDateTime: 2022-08-23T22:02:00Z

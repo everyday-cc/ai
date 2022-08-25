@@ -114,20 +114,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Speech Recognition Market Growth 2022: Industry Overview, Company Profiles, Emerging Technologies, Regional Data and Forecast 2027"
-    excerpt: "Global Speech Recognition Market Industry Research Report focuses on the global Speech Recognition Services status,"
-    publishedDateTime: 2022-08-20T10:51:00Z
-    webUrl: "https://www.marketwatch.com/press-release/speech-recognition-market-growth-2022-industry-overview-company-profiles-emerging-technologies-regional-data-and-forecast-2027-2022-08-20"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 39
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence Supply Chain Market 2022 Key Dynamics, Regional Insights, Growth Statistics and Business Strategies by 2028"
     excerpt: "The Global Artificial Intelligence Supply Chain Market 2022 by Company, Regions, Type and Application, Forecast"
     publishedDateTime: 2022-08-21T19:45:00Z

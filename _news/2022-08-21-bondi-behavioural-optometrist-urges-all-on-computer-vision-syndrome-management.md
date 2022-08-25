@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Bondi Behavioural Optometrist Urges All On Computer Vision Syndrome Management"
-excerpt: "Bondi Beach,Australia - August 21, 2022 /PressCable/ — Computer Vision Syndrome – Tips to reduce digital eye strain Computer Vision Syndrome or CVS is a name given to eye problems that are ..."
-publishedDateTime: 2022-08-21T15:12:00Z
-originalUrl: "https://menafn.com/1104730557/Bondi-Behavioural-Optometrist-Urges-All-On-Computer-Vision-Syndrome-Management"
-webUrl: "https://menafn.com/1104730557/Bondi-Behavioural-Optometrist-Urges-All-On-Computer-Vision-Syndrome-Management"
+excerpt: "Computer Vision Syndrome or CVS is a name given to eye problems that are caused by prolonged computer use. When people use computers, tablets or mobile phones their eyes are required to converge closely and keep focus for long periods of time."
+publishedDateTime: 2022-08-21T14:00:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/marketersmedia-2022-8-21-bondi-behavioural-optometrist-urges-all-on-computer-vision-syndrome-management"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/marketersmedia-2022-8-21-bondi-behavioural-optometrist-urges-all-on-computer-vision-syndrome-management"
 type: article
-quality: 35
-heat: 35
+quality: 15
+heat: 15
 published: false
 
 provider:
-  name: MENAFN
-  domain: menafn.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://menafn.com/updates/pr/2022-08/21/M_ef26895a-e_Image_In_Body.jpg"
-    width: 600
-    height: 400
-    isCached: true
-
-secured: "+mBx6vZ7H8Te3fCwROI+3/xmjJgfrhzogi1OGCaaJQRB3JVhyrkmLaaQURbGGAnF5boxAroUYjoj5wQbv0dnb7MEFNALapG93BC2Z+XpQCYN+r7LXR76WJMNBz5MxKzKVQBK+T7Ig9tsJ40MqeUMBub4MAoLyqj3ya9cJZoj26NX9a3Z+U3Tnnko706LmdPvu/J47+ZVpWVqPDtw86gCHx7sXmR7sOWBdnFvacDFWTZESzB3PhVKt2Gv5JOF8fE3w1lU1UP8sjHR5makWfuPd0+Yn1TOKwEnm6PE/HuVE3EbB1lX/evlA5+AYuPat3FWGcyOT4gqMdpOa2bRcM/Ixqc9avghP0/T/PYdArrBMWM=;eB5MyQ9bhDMg2WkYQP7VDA=="
+secured: "hfuga8dScAGxr5gobkHmvcqH3k6V1Cact0l7fAx1avUoGekBgm73w6J8Ea99zQECpT0zsVLiM0B95DU0DyZP8/m1K7H/tlYW45EOgsaUOaGnJDwQpk96UKnzPopHbC6cx0APq025iqZuDBtdGqKbds7hXK44wr1blaeir9sk4HjBcBMQJZJHD00xbvsssX0pS12fFblKD/ke+b/uHW7L+GNeKw8cr/aySZA7HHXFfK9khAPGt3duuIt6tD5Z2KLT8GxPZCJBfVWnfymTPE3Dhz3aDhTLIRKLXzkmD0hhejg/T6G8u46gwbt6ihtZfit9zQ0G09X3KS/x4TQV+OnTLVTpnBBI6V6H/hJHuwp7KYmmElI9IO/nh4aprUnfvgisBNmMagd8AcfBKiqfmwsuM/hOaur6rRihV5ntp6VPhB84pBxkTB7tK2enSmd4NzPnb52u+xc+DBCBG28BIctnkOK8LWfAD0PXxufb0sNJIrcedXWwM51IYDUVdCte2U2EqGMjMjYZM1Ns9fYx+kkqoA==;07TymDj3Fg0bjbJ+WLIFrg=="
 ---
 

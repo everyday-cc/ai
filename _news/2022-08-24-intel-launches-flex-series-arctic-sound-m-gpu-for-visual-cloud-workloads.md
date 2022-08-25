@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.hothardware.com/news/intel-launch-arctic-sound-m-data-ce
 cdnAmpWebUrl: "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-launch-arctic-sound-m-data-center-gpu-flex-series"
 type: article
 quality: 58
-heat: 68
-published: false
+heat: 78
+published: true
 
 provider:
   name: HotHardware
@@ -35,6 +35,15 @@ related:
     provider:
       name: Guru3D.com
       domain: guru3d.com
+    quality: 19
+  - title: "Intel hides Arc GPU name: Arctic Sound-M rebranded to Flex GPU series"
+    excerpt: "Intel unveils its new Data Center GPU 'Flex' series graphics cards, rebranding its Arctic Sound-M series with the new Flex Series 170 and Flex Series 140."
+    publishedDateTime: 2022-08-25T01:41:00Z
+    webUrl: "https://www.tweaktown.com/news/88123/intel-hides-arc-gpu-name-arctic-sound-rebranded-to-flex-series/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
     quality: 19
 
 secured: "/H+IjGIhYGfdbDdWbYON8/VgAhHuccOkR1DmSe5y/ywqcCRwARW53ZwN2VV3NhzEmJ2sHW96Kqxg7WmoDg2Jnu/NcLVkppr+Evpjp9atv2nBPEPbb8rxD509G858VuAnWetMa7jhkmMNlQl2P7YwFYbRHpNyQyS/Ny5wdkE+FEufGMjdT96FzNTe87My+EOjOay/D5Dx69a0qFqg7Bw2lyFJlCVJDlPvTFwo/GsvbxeOtlB+o0tD7z4u77a9z8u3mus4dCL5DuB/G+ujdY2EvBAD3Pr1IENYp4kmb3p1Vm7iIU1CDEBnSZT6fXPUI1WDHgAmFP8rvhAhULeFQwB2pbXwMld7QbS7GkzH4B+o4SB/VfhPmEmm82LDYYWfDBx49gACkDjtNB8I2Yp7TP2TKFnzs6aoUywZVU0iWKP4StGCfM8YqBXCycWzEST/k80Nx4qRBHP6NaQ9sfYv7kBra8jgtUwxCHBWpzNRzwtZ0OMEoY79A8L9xN2OMFWfivumN0wnaI9b4DLjGLTuCnT1AQ==;xsK5xZs1ZPTP6rMjwrBwdw=="

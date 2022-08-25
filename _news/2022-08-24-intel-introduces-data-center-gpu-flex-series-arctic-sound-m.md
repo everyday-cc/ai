@@ -35,6 +35,15 @@ related:
         width: 708
         height: 450
         isCached: true
+  - title: "Intel hides Arc GPU name: Arctic Sound-M rebranded to Flex GPU series"
+    excerpt: "Intel unveils its new Data Center GPU 'Flex' series graphics cards, rebranding its Arctic Sound-M series with the new Flex Series 170 and Flex Series 140."
+    publishedDateTime: 2022-08-25T01:41:00Z
+    webUrl: "https://www.tweaktown.com/news/88123/intel-hides-arc-gpu-name-arctic-sound-rebranded-to-flex-series/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
 
 secured: "5P2DMyKdXm174YUTvLNilq1XnM7QHkQIlisDbEz0tiA5oShtYBflQ1SFuW5/k9P+Rz8z0uNu2BIFZgzwSeKkBMVe038sNUT7lr7u3Ol4LIsnLs0HMOXHkqYl56KG7Zdq23Crc/u1hTAtqGeq34uzwgUHYSqz3zWLNx/WqB8Z2c3apzlzsJnrS90sXIXAbNmC5z7d1OjVTMMRJO+d9EIiLB2JuLEVyo+8CUesWpY6kKE8poNOlVPIzki05ZsGQcn4xagp07tlG0mpISqRtjmrglAO13pD/GTJHtaz6Dzf/D4rX/ZdNLqEzbVEW63vjaqQh1jShvo0QLsWK/fhWsxRI3lgQYVjOmo2fKbT2mrB1Bk=;r27A0uMygOm/zgFovCyU3A=="
 ---

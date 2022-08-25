@@ -23,6 +23,22 @@ images:
     height: 270
     isCached: true
 
+related:
+  - title: "Hello Clever, an Australian “Buy-to-Earn” Fintech, Secures A$4.5M in Funding"
+    excerpt: "Established last year, Hello Clever is a payments and financial management platform that’s focused on serving Australia’s Gen Z that is considered to be an alternative to debt-based BNPL platforms. At its center is an API enabled by Australia ‘s Payments Platform (NPP) and the associated PayTo and PayID services."
+    publishedDateTime: 2022-08-25T03:41:00Z
+    webUrl: "https://www.crowdfundinsider.com/2022/08/195144-hello-clever-an-australian-buy-to-earn-fintech-secures-a4-5m-in-funding/"
+    type: article
+    provider:
+      name: Crowdfund Insider
+      domain: crowdfundinsider.com
+    quality: 21
+    images:
+      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2016/02/Australia-Money.png"
+        width: 674
+        height: 510
+        isCached: true
+
 secured: "X/L4on9YY9x0wiEb+l2/JxYSzpIe37huhrWqGCGxSGvXQKN90xuIAoioElUlQAm4OkX1XgisNzxaQzY1tJ1lheGEIyJipgmRKnArVOCqfTXTxwzjvCQ5DsEigIn3/z1VjokwoOKci7SDG9LjKfh+eKqKR2TQ0rICFIqTKKIXFXa1vM187dQAkW/W+8YzIVH5Q9pwJl5BFVNxRMBEoBdE999Y1Uynl7dl+KvncoOsAkykf5R3jIBgPgTvF7vwLNNurm2oQNPL2coo2zIkzSE+JzzAg4mrsUsUHsM6NYRA64mmXWNMfmznpfJpWnNMNxTrCdrgGB35huxajRkLSM2JDWAGE3O50R5uvX8yqy5qqj40Vw2IjFWn6PfiftY8TTJWQI/JeWHhD6M8uggf3hrNWOfXD1yL2I0wrjQfLqF6NzqL23IXGSaQn4CpXY9ydfC0IQqN6xdsMdbK0uSwJcYI24bBP8OdVFl9nuqoW3G5FDK3ujlYgHuXt3e9tbNsCyGZt3upxIXIYC3LChKcwKSGIw==;U0d3mpt2cwbyVrSEWJibiQ=="
 ---
 

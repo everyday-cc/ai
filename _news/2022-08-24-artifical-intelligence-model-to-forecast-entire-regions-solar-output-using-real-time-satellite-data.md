@@ -7,7 +7,7 @@ originalUrl: "https://www.pv-magazine.com/2022/08/24/artifical-intelligence-mode
 webUrl: "https://www.pv-magazine.com/2022/08/24/artifical-intelligence-model-to-forecast-entire-regions-solar-output-using-real-time-satellite-data/"
 type: article
 quality: 7
-heat: 7
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 1200
     height: 939
     isCached: true
+
+related:
+  - title: "New Study Highlights Opportunities for Artificial Emotional Intelligence"
+    excerpt: "Emotion AI, also known as artificial emotional intelligence, is a subset of AI that reacts, simulates, quantifies, and comprehends human emotions. Affective computing is computing"
+    publishedDateTime: 2022-08-24T22:20:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 43
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-08/pic9722.jpg?itok=l-EICJdi"
+        width: 1528
+        height: 800
+        isCached: true
 
 secured: "zpxY26apiyLP7SGEemJImRHSUablgQJtJXq8tRqRQDRy5BU1kMgKD3YwUXxoCvVBJAahJ4yvi4PC5OPhRTNEOVIa+XXF0xjPb9Goyl31ZVjvFLZrFP4MiFG7WdUz81JSxB6ip3t4uTfJddK3GjsFZ2ieQgZgoT132l9x3+/V+qphbfXXXmXT0jS4uenVYk1F/TPV1AILNCTiGbFyQLWBnQuShXz+Yg0xjyI/yZs5wfTFaPbuVudRYvvN7XWmBEQDPSqdD/IwTxjux5G8GR3Sxs2PMRGcN6QwwPHobrWmjv+LmmRptJ0fhocBckABCb4KG6X6/X2mTRMgJSxkpyyekmXecT/adEgTb4Mmnnpw2yk=;PLkOB2JoXaN8kq09vmMXsA=="
 ---
