@@ -3,8 +3,8 @@ category: news
 title: "AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round"
 excerpt: "The company initially announced a $100 million Series C venture investment round led by Andreessen Horowitz in December."
 publishedDateTime: 2022-08-23T12:15:00Z
-originalUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?mod=markets_major_pos12"
-webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?mod=markets_major_pos12"
+originalUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
+webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
 ampWebUrl: "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
 type: article
@@ -119,6 +119,6 @@ related:
         height: 400
         isCached: true
 
-secured: "as7imjGYbWpHbZm52YGv2dSpqTCfO7mAxgP7ZZhcnD/zEqmpb/6Ns0eeHIh0Ndd5Z46WWwKkgnlGUXEG2ymharyDhLEjgEO+JdS7jBR5BUSMdPBRI0BZ5qbDTVLN5Qc0W047Onc9EDKjZrGuAX8u8r57jZvP+HGgRFY9dzhBA1sLIjK5nmNC9FqQdToWU4MSZpqflU4UhjlniM4zCwjG51yepwLOuRztOrPrXYaomN+UIh9w5vDrId+sXhRMG/8DKRVlml8CIdjYirmlJO3Yivb8xB9+8Otw7AM+0fxjClx2Y9tmmJrUqWUUOTQH5E8OKwFFFMyC4/MQvRFIWIgy/K2icTlUB2ZWaBhATkKyVbs=;7O7PyFkljtAWopJDk2miMg=="
+secured: "9rAEvCMNt3bC2R8R7YjuJdIFp549XHVL29yH84N6Ehvndk11+OW9Ub6On6P0C0DVSuZ5A2vaWWgV0s+hOp6ImP6qYhN+o3t2XbNJ2WOfC7Pa9MgH5cQzCakfOcUsHcmY+zh+HnWeBdUOeN3BCbjNmyAsedP6kJ+kLeoQQE+6XRarzbCTIpxCfytKhfDnKXGdT5SRCsvyhKTiNOLElEJzsh0xHnV5hc2URLrMdTKy0SxAQsRFM4jQro6PRwMO3TL0qtIb7sGTEl5e7Q0baIrcrqA8LsWz37VhBURcY3XQLDVyswC0p8Y0JgOoDMz52J5hxhD4j7ir7h3ohxHktsS5nVet7BfXWjTulFhPGyoHUiU=;M8lNLgBgEh2OUgQkcKOvWg=="
 ---
 

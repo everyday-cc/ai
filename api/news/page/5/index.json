@@ -2,6 +2,299 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-19-10-top-cybersecurity-online-courses-and-certifications-in-2022.md",
+      "title": "10 top cybersecurity online courses and certifications in 2022",
+      "excerpt": "Are you interested in cybersecurity certifications? Whether you're changing careers or upskilling your team, there's help available.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/security/10-top-cybersecurity-online-courses-and-certifications-in-2022/",
+      "originalUrl": "https://venturebeat.com/security/10-top-cybersecurity-online-courses-and-certifications-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-certificate_certification_1335802150-e1660857259342.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 598,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/security/10-top-cybersecurity-online-courses-and-certifications-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/security/10-top-cybersecurity-online-courses-and-certifications-in-2022/amp/",
+      "publishedDateTime": "2022-08-19T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-ceat-transforms-digitally-with-aws-iot-and-analytics.md",
+      "title": "CEAT transforms digitally with AWS IoT and analytics",
+      "excerpt": "CEAT uses Amazon Redshift, a cloud data warehouse, and Amazon SageMaker for an experimental solution. The solution automatically scans stock-keeping unit names and tyre serial numbers, registering ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/",
+      "originalUrl": "https://www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/05/Capture-75-620x400-1.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/express-mobility/ceat-transforms-digitally-with-aws-iot-and-analytics/2633972/lite/",
+      "publishedDateTime": "2022-08-19T03:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-otterai-challenger-airgram-raises-10m-to-transcribe-and-time-your-video-calls.md",
+      "title": "Otter.ai challenger Airgram raises $10M to transcribe and time your video calls",
+      "excerpt": "There’re plenty of tools out there competing to help people make their video calls breezier. Some, like voice transcription service Otter.ai, have been getting a boost from the COVID-19 pandemic and pulling in handsome investments.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/",
+      "originalUrl": "https://techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/1171660816481_.pic_.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/19/otter-ai-airgram-transcribe-video-calls/amp/",
+      "publishedDateTime": "2022-08-19T03:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-microsoft-and-map-bengaluru-develop-new-ai-powered-platform.md",
+      "title": "Microsoft and MAP, Bengaluru, Develop New AI-Powered Platform",
+      "excerpt": "Bengaluru, have developed a new artificial intelligence-powered platform for connecting artworks and cultures around the world",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399.html",
+      "originalUrl": "https://www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/08/19/1600x900/20220819_132009_0000_1660901560159_1660901569762_1660901569762.png",
+          "width": 1600,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/brand-stories/microsoft-and-map-bengaluru-develop-new-ai-powered-platform-101660901165399-amp.html",
+      "publishedDateTime": "2022-08-19T02:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-europe-artificial-intelligence-ai-in-healthcare-market-to-witness-growth-acceleration-during-2022-2027.md",
+      "title": "Europe Artificial Intelligence (AI) in Healthcare Market to Witness Growth Acceleration During 2022-2027",
+      "excerpt": "Pune, India -The artificial intelligence in healthcare market in Europe is expected to grow from US$ 1,368.59 million in",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-ai-in-healthcare-market-to-witness-growth-acceleration-during-2022-2027-2022-08-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/europe-artificial-intelligence-ai-in-healthcare-market-to-witness-growth-acceleration-during-2022-2027-2022-08-19",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 102,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-otterai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all.md",
+      "title": "Otter.ai slashes free monthly transcription minutes to 300, but opens recorder bot to all",
+      "excerpt": "There’s good news and bad news for users of the Otter.ai transcription service. The good news is that Otter Assistant — a bot that can be configured to record meetings automatically — will now be available to everyone,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/19/otter-ai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all/",
+      "originalUrl": "https://techcrunch.com/2022/08/19/otter-ai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/Otter-changes.jpg?w=680",
+          "width": 680,
+          "height": 566,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/19/otter-ai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/19/otter-ai-slashes-free-monthly-transcription-minutes-to-300-but-opens-recorder-bot-to-all/amp/",
+      "publishedDateTime": "2022-08-19T02:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-natural-language-processing-market-nlp-demands-key-players-size-growth-trends-technology-and-forecasts-to-2027-reportsnreports.md",
       "title": "Natural Language Processing Market (NLP) Demands, Key Players, Size, Growth, Trends, Technology and Forecasts to 2027 - ReportsnReports",
       "excerpt": "PUNE, India, Aug. 19, 2022 /PRNewswire/ -- ReportsnReports added Global Natural Language Processing (NLP) Market Report to its research database with its 336 no. of research pages report.",
@@ -846,293 +1139,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-ring-patched-an-android-bug-that-could-have-exposed-video-footage.md",
-      "title": "Ring patched an Android bug that could have exposed video footage",
-      "excerpt": "Amazon quietly but quickly patched a vulnerability in its Ring app that could have exposed users' camera recordings and other data, according to security firm Checkmarx. Checkmarx researchers write in a blog post that Ring's Android app,",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/information-technology/2022/08/ring-patched-an-android-bug-that-could-have-exposed-video-footage/",
-      "originalUrl": "https://arstechnica.com/information-technology/2022/08/ring-patched-an-android-bug-that-could-have-exposed-video-footage/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/20201118_US_packaging_image_lifestyle_flcprogen1_pov_family_front_yard_rgb_crop-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-can-conversational-ai-reduce-nlp-model-training-yellow-ai-has-a-plan.md",
-      "title": "Can conversational AI reduce NLP model training? Yellow AI has a plan",
-      "excerpt": "DynamicNLP eradicates the need for enterprises to go through the time-consuming process of manually labeling data to train a conversational AI bot.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/can-conversational-ai-reduce-nlp-model-training-yellow-ai-has-a-plan/",
-      "originalUrl": "https://venturebeat.com/ai/can-conversational-ai-reduce-nlp-model-training-yellow-ai-has-a-plan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1404154730.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/can-conversational-ai-reduce-nlp-model-training-yellow-ai-has-a-plan/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/can-conversational-ai-reduce-nlp-model-training-yellow-ai-has-a-plan/amp/",
-      "publishedDateTime": "2022-08-18T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-dealing-with-cognitive-load-using-observability.md",
-      "title": "Dealing with Cognitive Load Using Observability",
-      "excerpt": "We can make good decisions with speed when we limit the cognitive load on any one person or team. Observability can help to increase delivery speed, by providing information to developers that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/08/cognitive-load-observability/",
-      "originalUrl": "https://www.infoq.com/news/2022/08/cognitive-load-observability/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-helping-people-understand-ai.md",
-      "title": "Helping people understand AI",
-      "excerpt": "If you’re like me, you may have noticed that AI has become a part of daily life. I wake up each morning and ask my smart assistant about the weather. I recently applied for a new credit card and the credit limit was likely determined by a machine learning model. And while typing the previous sentence,",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/helping-people-understand-ai/",
-      "originalUrl": "https://blog.google/technology/ai/helping-people-understand-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/01_VWU2fWb.max-1300x1300.png",
-          "width": 1300,
-          "height": 733,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/helping-people-understand-ai/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/helping-people-understand-ai/amp/",
-      "publishedDateTime": "2022-08-18T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-onemeta-ai-accepted-as-a-part-of-microsoft-for-startups-founders-hub.md",
-      "title": "OneMeta AI Accepted as a Part of Microsoft for Startups Founders Hub",
-      "excerpt": "LAS VEGAS, NV / ACCESSWIRE / August / OneMeta AI (  (OTCMarkets:ONEI). Today OneMeta AI announced acceptance as part of Microsoft of Startups Founders Hub. \"This is a great milestone that we are thankful for;",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/onemeta-ai-accepted-as-a-part-of-microsoft-for-startups-founders-hub-2022-08-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/onemeta-ai-accepted-as-a-part-of-microsoft-for-startups-founders-hub-2022-08-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-pairaphrase-integrates-amazon-translates-engine-into-its-tms-software.md",
-      "title": "PAIRAPHRASE INTEGRATES AMAZON TRANSLATE’S ENGINE INTO ITS TMS SOFTWARE",
-      "excerpt": "Enterprise language translation software company Pairaphrase has integrated Amazon Web Services’ machine translation engine into its premium translation software solution. Its users now have the option to translate with Amazon Translate to create custom translations,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-software-738f633edc00cc4d75cd3d5f33f09275",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-software-738f633edc00cc4d75cd3d5f33f09275",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T07:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "Natural Language Processing",
-        "AWS AI"
       ]
     }
   ],

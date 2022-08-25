@@ -8,8 +8,8 @@ webUrl: "https://diginomica.com/good-vibrations-how-augurys-ai-sounds-factory-up
 ampWebUrl: "https://diginomica.com/good-vibrations-how-augurys-ai-sounds-factory-uptime?amp"
 cdnAmpWebUrl: "https://diginomica-com.cdn.ampproject.org/c/s/diginomica.com/good-vibrations-how-augurys-ai-sounds-factory-uptime?amp"
 type: article
-quality: 59
-heat: 59
+quality: 61
+heat: 61
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
 images:
   - url: "https://diginomica.com/sites/default/files/images/2022-08/BD984B88-F21E-4B1D-A70F-D5E8CB5176A6.jpeg"
@@ -26,6 +27,6 @@ images:
     height: 378
     isCached: true
 
-secured: "UR1fXm5pHnE1hgTRWEWhpc8nSZ55SMrQCDZ3xXYxcj1YbHOFnYx+TTF52FdsxtLmkvwuPD5nctkpaMWQfTWXtGl0IbyabHjDEEvJdaFRwChRBaPFPLXB1GVYxXDOMj/+U91+okgfI9rCTaDXWY2XO8Fl2PiSbD82A/b8kTWFdF/HmZtT+MaOWavKY7bhGAYN6mERwT/ARDkVigXt3mYyoXRt8eor9skmNpo2lPpCVYCaS8lzOXvUzo5SwX9quV2txxZcqnkuqNqTS1Vi2fgfKrFrH89ecIVO9NOrH0EM+ud0NhApAl23x24j/qkt4VHqbpaXvKPUebs2ZHJAqUbySs9Ro2HEw43zLOk3kVTloDs=;ja3c7IhpvhnFj7RpopX6AQ=="
+secured: "qtf2LzkAtbeJO31LMWRtDI6HSDTC368UIPv5gXSCMlwBvuNuZ6icToWRidr6+4ypvDS+uO4r52iIJwkEkgUFzo40IAtm0/7dPen6VvNnnlz0eTXMLMETS61wZCKGPrCXmEhaD5qYSYW8pjVZIcO/u+4J/LiYNEwPo5NknS0BOMGZOMsJ2GlqRuI0c+jHLid0JoroyHL/VzjoA6K3gY0xLHD/tNUtRvz4rTWdpBXy89bcw1oXpfVdgZl+/ANpNTFmliVzo39RZCJdk7nswhH48IbogwkG2DYaIR+7R8Neg+7MHnjAD4btHyUPSYiy4h07Ir3Hn032KxJE1blPAaUH99ziisb57Th3l8wKrmU1Iabln0J1jLc4FuzgOQAByVuCMEBwo9pgqnnkDBUNSr1pSGC+rlYogFrmRcIj3iS+FbhIHnzI7ERpAMgjVr80dIXyaJOtQPt1t3g7CRjavboHaHTYB0C/7V4qThBhO3EEa81dmQaBNLmUB2zLByW19Y8y7k5LLzoH6bkP32d0ec1ffA==;QCzUxC3UZR5vnV1rgouohA=="
 ---
 

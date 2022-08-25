@@ -2,6 +2,260 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-18-no-one-size-fits-all-artificial-intelligence-approach-works-for-prevention-diagnosis-or-treatment-using-precision-medicine.md",
+      "title": "No one-size-fits-all artificial intelligence approach works for prevention, diagnosis or treatment using precision medicine",
+      "excerpt": "A Rutgers analysis of dozens of artificial intelligence (AI) software programs used in precision, or personalized, medicine to prevent, diagnose and treat disease found that no program exists that can be used for all treatments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.eurekalert.org/news-releases/962274",
+      "originalUrl": "https://www.eurekalert.org/news-releases/962274",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "EurekAlert!",
+        "domain": "eurekalert.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-unprecedented-ai-chip-could-revolutionise-artificial-intelligence.md",
+      "title": "‘Unprecedented’ AI chip could revolutionise artificial intelligence",
+      "excerpt": "The system should allow increasingly complex artificial intelligence to live on chips themselves, without having to send information to the cloud. At the moment, most applications of AI are not ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.independent.co.uk/tech/ai-artificial-intelligence-chip-memory-ram-b2146974.html",
+      "originalUrl": "https://www.independent.co.uk/tech/ai-artificial-intelligence-chip-memory-ram-b2146974.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.independent.co.uk/2022/08/17/16/Low-Res_UCSD-JacobsSchool-20220815-Cauwenberghs-NeuRRam-00621-e-8MP.jpg.png?quality=75&width=1200&auto=webp",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Independent",
+        "domain": "independent.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-pm-to-visit-torres-strait-for-voice-talks.md",
+      "title": "PM to visit Torres Strait for voice talks",
+      "excerpt": "Prime Minister Anthony Albanese will meet Indigenous elders on a visit to the Torres Strait for talks on what form a voice to parliament would look like.",
+      "sourceUrl": null,
+      "webUrl": "https://thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-albanese-torres-strait/",
+      "originalUrl": "https://thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-albanese-torres-strait/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thenewdaily.com.au/wp-content/uploads/2022/07/1659093904-albanese-NT.png?resize=834%2C540",
+          "width": 834,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-albanese-torres-strait/amp/",
+      "cdnAmpWebUrl": "https://thenewdaily-com-au.cdn.ampproject.org/c/s/thenewdaily.com.au/news/indigenous-news/2022/08/18/anthony-albanese-torres-strait/amp/",
+      "publishedDateTime": "2022-08-17T15:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The New Daily",
+        "domain": "thenewdaily.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-natural-language-processing-nlp-market-trends-size-share-growth-industry-analysis-advance-technology-and-forecast-2027.md",
+      "title": "Natural Language Processing (NLP) Market Trends, Size, Share, Growth, Industry Analysis, Advance Technology and Forecast 2027",
+      "excerpt": "Natural Language Processing (NLP) Market by Component (Solutions & Services), Application (Sentiment Analysis, Social Media Monitoring), Technology (IVR, OCR, Auto Coding), Vertical (BFSI ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/08/ab28542958/natural-language-processing-nlp-market-trends-size-share-growth-industry-analysis-advance-technol",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/ab28542958/natural-language-processing-nlp-market-trends-size-share-growth-industry-analysis-advance-technol",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28542958",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28542958",
+      "publishedDateTime": "2022-08-17T14:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-ai-vs-ml-artificial-intelligence-and-machine-learning-overview.md",
+      "title": "AI vs. ML: Artificial Intelligence and Machine Learning Overview",
+      "excerpt": "In 1982, John Hopfield showed that a neural network could process information in far more advanced ways. Various forms of AI began to take shape, and the first artificial neural network (ANN ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.eweek.com/enterprise-apps/ai-vs-ml/",
+      "originalUrl": "https://www.eweek.com/enterprise-apps/ai-vs-ml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.eweek.com/wp-content/uploads/2022/01/BMC-DSOM-Image02-800x800-1.jpg",
+          "width": 800,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "eWeek",
+        "domain": "eweek.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-18-teslas-humanoid-robot-is-being-built-to-mow-your-lawn.md",
+      "title": "Tesla's Humanoid Robot Is Being Built to Mow Your Lawn",
+      "excerpt": "The robots are coming...to relieve you of doing the dishes. Tesla CEO Elon Musk recently revealed new details about Optimus, an artificial intelligence humanoid robot which he envisions will take ...",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/tesla-ai-robot-optimus-elon-musk-1849423918",
+      "originalUrl": "https://gizmodo.com/tesla-ai-robot-optimus-elon-musk-1849423918",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T12:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-08-18-whos-looking-out-for-aging-doctors-susceptible-to-cognitive-decline.md",
       "title": "Who's looking out for aging doctors susceptible to cognitive decline?",
       "excerpt": "At the same time, they may be at risk of cognitive decline, raising concerns about job performance deficits. That's according to Sharona Hoffman, the Edgar A. Hahn Professor of Law and co-director ...",
@@ -865,300 +1119,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-computer-vision-market-size-share-to-account-for-over-usd-13470-million-by-2028.md",
-      "title": "Computer Vision Market Size, Share To Account For Over USD 13470 Million By 2028",
-      "excerpt": "The Computer Vision market research report identifies and analyses all the parameters that positively or negatively influence the industry performance, to guide stakeholders in making right choices.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104711729/Computer-Vision-Market-Size-Share-To-Account-For-Over-USD-13470-Million-By-2028",
-      "originalUrl": "https://menafn.com/1104711729/Computer-Vision-Market-Size-Share-To-Account-For-Over-USD-13470-Million-By-2028",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?846073",
-          "width": 374,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T04:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MENAFN",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-the-role-of-ethics-in-the-evolving-world-of-marketing-ai.md",
-      "title": "The Role Of Ethics In The Evolving World Of Marketing AI",
-      "excerpt": "Marketing today requires a delicate balance between engaging smart, predictive technologies, such as ML and AI, and honoring the ethical standards that build trust between brands and customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-role-of-ethics-in-the-evolving-world-of-marketing-ai/",
-      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-role-of-ethics-in-the-evolving-world-of-marketing-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 161,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f135ac5e7a94fea526433e/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-role-of-ethics-in-the-evolving-world-of-marketing-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-role-of-ethics-in-the-evolving-world-of-marketing-ai/amp/",
-      "publishedDateTime": "2022-08-17T04:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-supervised-autonomy-why-it-will-shape-the-human-robot-workforce-of-the-future.md",
-      "title": "Supervised Autonomy: Why It Will Shape The Human-Robot Workforce Of The Future",
-      "excerpt": "While we are years away from fully autonomous robots that can think, act and error-correct on their own, robotic systems using supervised autonomy are being demonstrated today.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/17/supervised-autonomy-why-it-will-shape-the-human-robot-workforce-of-the-future/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/17/supervised-autonomy-why-it-will-shape-the-human-robot-workforce-of-the-future/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/60c1237064a123408842d1ce/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/17/supervised-autonomy-why-it-will-shape-the-human-robot-workforce-of-the-future/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/17/supervised-autonomy-why-it-will-shape-the-human-robot-workforce-of-the-future/amp/",
-      "publishedDateTime": "2022-08-17T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-ok-google-get-me-a-soda-take-a-look-at-the-ai-giant-soda-fetching-robots.md",
-      "title": "Ok Google, Get Me A Soda! Take A Look At The AI Giant Soda-Fetching Robots",
-      "excerpt": "Speaking orders are naturally understood by robots, who consider their options in light of their capabilities and make little plans to carry out the request.",
-      "sourceUrl": null,
-      "webUrl": "https://in.mashable.com/tech/36870/ok-google-get-me-a-soda-take-a-look-at-the-ai-giant-soda-fetching-robots",
-      "originalUrl": "https://in.mashable.com/tech/36870/ok-google-get-me-a-soda-take-a-look-at-the-ai-giant-soda-fetching-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.mashable.com/t/mashable_in/photo/default/cb8857d3-f1ac-4a86-a6e7-c49f1fb29ef2_drtz.620.jpg",
-          "width": 619,
-          "height": 374,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://in.mashable.com/tech/36870/ok-google-get-me-a-soda-take-a-look-at-the-ai-giant-soda-fetching-robots?amp=1",
-      "cdnAmpWebUrl": "https://in-mashable-com.cdn.ampproject.org/c/s/in.mashable.com/tech/36870/ok-google-get-me-a-soda-take-a-look-at-the-ai-giant-soda-fetching-robots?amp=1",
-      "publishedDateTime": "2022-08-17T03:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-artificial-intelligence-in-medicine-market-2022-size-share-current-trends-growth-analysis-and-plans-investment-and-forecast-to-2027.md",
-      "title": "Artificial Intelligence in Medicine Market 2022 Size, Share, Current Trends, Growth Analysis and Plans, Investment and Forecast to 2027",
-      "excerpt": "Global Artificial Intelligence in Medicine Market Report Demand develops Rapidly as Our Research Analyst covers the key boundaries Required for your Research Need. This Artificial Intelligence in Medicine Market Report covers worldwide,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-2022-size-share-current-trends-growth-analysis-and-plans-investment-and-forecast-to-2027-2022-08-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-medicine-market-2022-size-share-current-trends-growth-analysis-and-plans-investment-and-forecast-to-2027-2022-08-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T03:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-datadog-database-monitoring-extends-to-sql-server-and-azure-database-platforms.md",
-      "title": "Datadog Database Monitoring extends to SQL Server and Azure database platforms",
-      "excerpt": "Datadog has announced its Database Monitoring service now supports Microsoft SQL Server and Microsoft Azure database platforms. The expanded support enables engineers and database administrators to swiftly identify and resolve database performance issues including slow queries,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/data-insights/databases/368822/datadog-database-monitoring-extends-to-sql-server-and-azure-database",
-      "originalUrl": "https://www.itpro.co.uk/data-insights/databases/368822/datadog-database-monitoring-extends-to-sql-server-and-azure-database",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816740/itpro/2019/01/sql_shutterstock_1055747219.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T02:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

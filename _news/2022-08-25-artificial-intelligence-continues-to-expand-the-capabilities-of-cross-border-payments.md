@@ -7,7 +7,7 @@ originalUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-co
 webUrl: "https://www.globalbankingandfinance.com/artificial-intelligence-continues-to-expand-the-capabilities-of-cross-border-payments/"
 type: article
 quality: 10
-heat: -1
+heat: 10
 published: false
 
 provider:
@@ -16,24 +16,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Building the customer, communication and commerce synergy with conversational AI"
-    excerpt: "Customer is the king and that continues to be the truth, more so in today’s digitally connected world. According to a report released by KPMG, improving customer experience (CX) is key to sustained value creation"
-    publishedDateTime: 2022-08-25T04:23:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/building-the-customer-communication-and-commerce-synergy-with-conversational-ai/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/building-the-customer-communication-and-commerce-synergy-with-conversational-ai/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/building-the-customer-communication-and-commerce-synergy-with-conversational-ai/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
 
 secured: "X2v9PUhV35edpVJc19cRIfc+OmGXMdb05vvhiOevhRxd5lrLFq1loHs1faS3UjGk98S33sWTs6/cd4rQOg45BQYQQ+yRzRvFwZ9Sm8BX3+WVNR2+3cXCxEWx24zlG83WLSmGZPq7DpdFA8WGjDK2Of7AP3IuHMH9hMA0ZA55JU3ce87xJ0qmDGDPEN8UA7aejcGV6runkyyF6LDQSGlQmZe4CZIf7cjZ+f9k8cBvJRUVCQz6QF0/n1EqRKNkWOAOOshWZrnlzx01hRAotrlwG8u4sXcXFQEtSXPfcwsuSFTDyV99vyqUV2Pr0VnistHkbzFfiUK0Bqi6c5gf6vrfzqTsk15cHr5XBxdnuZrppHk2g/idSJf6xcHPRnScWIv4JI889OkmIBMfE/8dgl1b3HCBHc2XF+gQ2vbqWMhwcanxvmHNU178/SaWGQRqkHVDrXr5yKdxL9H4X9umow246lPrqK66labFxb9Aak1O+bBpHCJ3ZFa0VEmyaH+eirfVSnI2AysIX4jJ4TVCC0IX9Q==;wKcFw2My2Xt9ShUSKKvmoQ=="
 ---

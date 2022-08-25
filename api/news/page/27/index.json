@@ -2,6 +2,282 @@
   "page": 27,
   "value": [
     {
+      "path": "_news/2022-08-02-self-driving-truck-accident-draws-attention-to-safety-at-tusimple.md",
+      "title": "Self-Driving Truck Accident Draws Attention to Safety at TuSimple",
+      "excerpt": "For example, a safety driver—a person who sits in the truck to backstop the artificial intelligence—should never be able to engage a self-driving system that isn’t properly functioning ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/self-driving-truck-accident-draws-attention-to-safety-at-tusimple-11659346202?tpl=venturecapital",
+      "originalUrl": "https://www.wsj.com/articles/self-driving-truck-accident-draws-attention-to-safety-at-tusimple-11659346202?tpl=venturecapital",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-591288/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-automating-neutron-experiments-with-ai.md",
+      "title": "Automating neutron experiments with AI",
+      "excerpt": "Oak Ridge National Laboratory researchers are developing a first-of-its-kind artificial intelligence device for neutron scattering called Hyperspectral Computed Tomography, or HyperCT. The fully automated,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-08-automating-neutron-ai.html",
+      "originalUrl": "https://phys.org/news/2022-08-automating-neutron-ai.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/automating-neutron-exp.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-08-automating-neutron-ai.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-automating-neutron-ai.amp",
+      "publishedDateTime": "2022-08-01T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-who-drives-a-driverless-train.md",
+      "title": "Who Drives A Driverless Train?",
+      "excerpt": "Driverless systems like the one in Sydney represent the future of urban clean and efficient transport. In this article, train manufacturer Alstom answers some key questions about driverless trains ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104627148/Who-Drives-A-Driverless-Train",
+      "originalUrl": "https://menafn.com/1104627148/Who-Drives-A-Driverless-Train",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-08/01/R&AN_1fcbbimage_story.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T11:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer.md",
+      "title": "Ann Arbor’s new ‘SamurAI sorting robot’ is a plastics recycling game-changer",
+      "excerpt": "Michigan is now one of the nation’s three best states for recycling plastics, according to a recent <a href=\" Voter study.",
+      "sourceUrl": null,
+      "webUrl": "https://www.clickondetroit.com/sponsored/2022/08/01/ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer/",
+      "originalUrl": "https://www.clickondetroit.com/sponsored/2022/08/01/ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/DYROQW7ZBBCEFAMS4ASYQDGH2Q.jpg?_a=ATAK9d60",
+          "width": 700,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.clickondetroit.com/sponsored/2022/08/01/ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-clickondetroit-com.cdn.ampproject.org/c/s/www.clickondetroit.com/sponsored/2022/08/01/ann-arbors-new-samurai-sorting-robot-is-a-plastics-recycling-game-changer/?outputType=amp",
+      "publishedDateTime": "2022-08-01T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "clickondetroit.com",
+        "domain": "clickondetroit.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-simplify-iterative-machine-learning-model-development-by-adding-features-to-existing-feature-groups-in-amazon-sagemaker-feature-store.md",
+      "title": "Simplify iterative machine learning model development by adding features to existing feature groups in Amazon SageMaker Feature Store",
+      "excerpt": "Feature engineering is one of the most challenging aspects of the machine learning (ML) lifecycle and a phase where the most amount of time is spent—data scientists and ML engineers spend 60–70% of their time on feature engineering. AWS introduced Amazon SageMaker Feature Store during AWS re:Invent 2020,",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-iterative-machine-learning-model-development-by-adding-features-to-existing-feature-groups-in-amazon-sagemaker-feature-store/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/simplify-iterative-machine-learning-model-development-by-adding-features-to-existing-feature-groups-in-amazon-sagemaker-feature-store/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/25/architecture-new-1199x630.png",
+          "width": 1199,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T10:58:16-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-08-02-how-deepminds-use-of-ai-is-fast-changing-biology.md",
+      "title": "How Deepmind’s use of AI is fast changing biology",
+      "excerpt": "Alphabet’s Deepmind Technologies recently released 3D predicted structures of over 200 million proteins. Generated by its AI system AlphaFold, it aims to help researchers enhance their understanding of how proteins — the building blocks of life — may fold.",
+      "sourceUrl": null,
+      "webUrl": "https://www.livemint.com/technology/tech-news/how-deepmind-s-use-of-ai-is-fast-changing-biology-11659375765946.html",
+      "originalUrl": "https://www.livemint.com/technology/tech-news/how-deepmind-s-use-of-ai-is-fast-changing-biology-11659375765946.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.livemint.com/img/2022/08/01/600x338/AI_1659376032405_1659376046675_1659376046675.jpg",
+          "width": 600,
+          "height": 338,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.livemint.com/technology/tech-news/how-deepmind-s-use-of-ai-is-fast-changing-biology/amp-11659375765946.html",
+      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/how-deepmind-s-use-of-ai-is-fast-changing-biology/amp-11659375765946.html",
+      "publishedDateTime": "2022-08-01T10:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mint",
+        "domain": "livemint.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-01-kaid-health-technology-demonstrates-the-value-of-natural-language-processing-to-improve-preoperative-care.md",
       "title": "KAID Health Technology Demonstrates the Value of Natural Language Processing to Improve Preoperative Care",
       "excerpt": "BOSTON–(BUSINESS WIRE)–KAID Health, an AI-powered health care data analysis and provider engagement platform, announced the results of a study that validates the potential utility of its Natural Language Processing (NLP) technology to improve provider ...",
@@ -851,302 +1127,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-deepminds-perceiver-ar-a-step-toward-more-ai-efficiency.md",
-      "title": "DeepMind's Perceiver AR: a step toward more AI efficiency",
-      "excerpt": "The auto-regressive attention at the heart of the Transformer, and programs like it, becomes a scaling nightmare. A recent DeepMind/Google work proposes a way to put such programs on a diet.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/deepminds-perceiver-ar-a-step-toward-more-ai-efficiency/",
-      "originalUrl": "https://www.zdnet.com/article/deepminds-perceiver-ar-a-step-toward-more-ai-efficiency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/1ca1c71e44c68dcca6cd4405a9acd075d5cd7bfc/2022/08/01/36a1f60d-c3f1-4438-956c-df33405caee8/perceiver-ar-crop-for-twitter.jpg?auto=webp&fit=crop&height=675&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-31T20:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Google AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-voice-to-parliament-detail-demands-only-mask-rejection-of-entire-recognition-project.md",
-      "title": "Voice to Parliament: ‘detail’ demands only mask rejection of entire recognition project",
-      "excerpt": "Rest assured, if Anthony Albanese had unveiled a detailed model for an Indigenous Voice to Parliament on the weekend -- say, the local and regional/national Voice model outlined in last year's ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.crikey.com.au/2022/08/01/indigenous-voice-to-parliament-details-demand/",
-      "originalUrl": "https://www.crikey.com.au/2022/08/01/indigenous-voice-to-parliament-details-demand/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crikey.com.au/wp-content/uploads/2022/08/Voice_740x400.jpg",
-          "width": 740,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-31T18:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crikey",
-        "domain": "crikey.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-self-driving-cars-market-size-worth-636-billion-usd-by-2022-2025-cagr-203.md",
-      "title": "Self-Driving Cars Market Size Worth 6.36 billion USD by 2022-2025 | CAGR: 20.3%",
-      "excerpt": "Aug 01, 2022 (Market Insight Reports) -- The study highlights important advancements in organic and inorganic growth strategies in the worldwide Self-Driving Cars market. A lot of corporations are ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/self-driving-cars-market-size-worth-636-billion-usd-by-2022-2025-cagr-203-2022-08-01?tesla=y",
-      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-cars-market-size-worth-636-billion-usd-by-2022-2025-cagr-203-2022-08-01?tesla=y",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-31T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-the-future-of-supply-chains-with-artificial-intelligence.md",
-      "title": "The Future of Supply Chains with Artificial Intelligence",
-      "excerpt": "It is undeniable that AI & machine learning is revolutionizing several sectors, particularly supply chain and logistics. Fremont, CA: Given",
-      "sourceUrl": null,
-      "webUrl": "https://www.cioapplications.com/news/the-future-of-supply-chains-with-artificial-intelligence-nid-10080.html",
-      "originalUrl": "https://www.cioapplications.com/news/the-future-of-supply-chains-with-artificial-intelligence-nid-10080.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cioapplications.com/newstransfer/upload/shv96cio-appli450308.jpg",
-          "width": 450,
-          "height": 308,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-31T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO Applications",
-        "domain": "cioapplications.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5.md",
-      "title": "Why Corporate Purpose And AI Ethics Must Be A Leadership And Risk Management Priority (Blog 5 Of 5)",
-      "excerpt": "This is the final blog in a 5 part blog series looking at corporate purpose, AI, ML and data management foundations. Practical questions are identified to guide board directors and CEOs to improve their governance leadership practices regarding AI/ML.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d4657ccc8d05991df35bd4/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 851,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-5-of-5/amp/",
-      "publishedDateTime": "2022-07-31T13:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-bam-ai-exits-the-batcave-to-confront-the-jobs-market.md",
-      "title": "Bam! AI exits the Batcave to confront the jobs market",
-      "excerpt": "AI, like Batman, is viewed by some people with suspicion and fear. But it can be a force for good, creating jobs for a modern workforce.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/31/bam-ai-exits-the-batcave-to-confront-the-jobs-market/",
-      "originalUrl": "https://venturebeat.com/2022/07/31/bam-ai-exits-the-batcave-to-confront-the-jobs-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-185883522.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 663,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/31/bam-ai-exits-the-batcave-to-confront-the-jobs-market/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/31/bam-ai-exits-the-batcave-to-confront-the-jobs-market/amp/",
-      "publishedDateTime": "2022-07-31T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

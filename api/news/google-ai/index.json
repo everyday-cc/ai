@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-25-advancing-conservation-with-ai-based-facial-recognition-of-turtles.md",
+      "title": "Advancing conservation with AI-based facial recognition of turtles",
+      "excerpt": "We came across Zindi – a dedicated partner with complementary goals – who are the largest community of African data scientists and host competitions that focus on solving Africa’s most pressing problems. Our Science team’s Diversity, Equity, and Inclusion (DE&I) team worked with Zindi to identify a scientific",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles",
+      "originalUrl": "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 176,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/63061177d7f69d1362d8131e_w-VkMnf2sMOOlIQBg5mgjxCmIR8jzbdk4dNkoVyq55So3N0zNdWUa2xSQs0hRJxneQhGae3Nz62pNaqLggj4tm-EN8XO229WRDuZYUBcCtOdGsEsKMAQBLW5UkyFfhlPwtOozh-6VcDJ50RV0SZZXleKsSytCDJr422G1RwVKwcftW3p_2XXpFufsJKeO0dDa6PUQZVRnRmKCK-FKwzbd8yYSjLsHz-eaw.png",
+          "width": 1600,
+          "height": 1427,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-08-21-after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans.md",
       "title": "After binge-watching TV, Google's DeepMind AI can now read lips better than humans",
       "excerpt": "Google’s DeepMind artificial intelligence system has learned another useful skill. The soon-to-become-Skynet AI can now read lips with a higher accuracy than humans, after it watched thousands ...",
@@ -1323,58 +1376,6 @@
       "topics": [
         "Google AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters.md",
-      "title": "Why Google's DeepMind AI Prediction of 200 Million Protein Structures Matters",
-      "excerpt": "At last, the decades-old protein folding problem may finally be put to rest. It wasn't until 1957 when scientists earned special access to the molecular third dimension. After 22 years of grueling experimentation,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/biology/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/",
-      "originalUrl": "https://www.cnet.com/science/biology/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 171,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/07fd24f6e895baa36441c82a2b640657f3f2cbd8/2022/07/28/8f1688f9-ef38-476c-b270-5967d88de874/gettyimages-154963443.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/why-googles-deepmind-ai-prediction-of-200-million-protein-structures-matters/",
-      "publishedDateTime": "2022-07-29T09:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
       ]
     }
   ],

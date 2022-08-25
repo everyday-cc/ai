@@ -2,6 +2,291 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-22-intelligently-search-alfresco-content-using-amazon-kendra.md",
+      "title": "Intelligently search Alfresco content using Amazon Kendra",
+      "excerpt": "Amazon Kendra is an intelligent search service powered by machine learning (ML). With Amazon Kendra, you can easily aggregate content from a variety of content repositories into a centralized index that lets you quickly search all your enterprise data and find the most accurate answer. Many organizations",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-alfresco-content-using-amazon-kendra/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/intelligently-search-alfresco-content-using-amazon-kendra/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/22/alfresco-kendra.jpg",
+          "width": 1530,
+          "height": 763,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-22T13:40:20-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-inclusive-design-will-help-create-ai-that-works-for-everyone.md",
+      "title": "Inclusive design will help create AI that works for everyone",
+      "excerpt": "An international expert on gender in science and technology discusses tools she developed to help professionals build more inclusive AI.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/inclusive-design-will-help-create-ai-that-works-for-everyone/",
+      "originalUrl": "https://venturebeat.com/ai/inclusive-design-will-help-create-ai-that-works-for-everyone/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1206796363-e1654038927332.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 638,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/inclusive-design-will-help-create-ai-that-works-for-everyone/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/inclusive-design-will-help-create-ai-that-works-for-everyone/amp/",
+      "publishedDateTime": "2022-08-22T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry.md",
+      "title": "Can AI serve as a 'great equalizer' in the real estate industry?",
+      "excerpt": "Implementing artificial intelligence in real estate can help diversify home ownership, claims Anywhere Real Estate.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry/",
+      "originalUrl": "https://www.zdnet.com/article/can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/c6577b3060d93d9e16841239a58f5f621ecf0f5c/2021/11/12/807a95d0-c6f4-46b6-a879-5c477d972029/for-sale.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry/",
+      "publishedDateTime": "2022-08-22T07:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-the-best-indoor-home-security-cameras-in-2022.md",
+      "title": "The best indoor home security cameras in 2022",
+      "excerpt": "The best Indoor security cameras can add an extra layer of peace of mind to your home, and the latest models keep a better eye on your surrounds than ever and integrate more smoothly with your smart home gear,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/cnn-underscored/reviews/best-indoor-security-camera",
+      "originalUrl": "https://www.cnn.com/cnn-underscored/reviews/best-indoor-security-camera",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.cnn.com/api/v1/images/stellar/prod/inddor-security-camera-group.jpg?q=w_800,c_fill",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/cnn-underscored/reviews/best-indoor-security-camera",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/cnn-underscored/reviews/best-indoor-security-camera",
+      "publishedDateTime": "2022-08-22T07:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans.md",
+      "title": "Google Gave Its Helper Robots AI Language Skills to Better Work With Humans",
+      "excerpt": "Google has started to close the gap by marrying the latest language AI with state-of-the-art robots ... created new control software that taps into PaLM’s language skills to translate spoken or written commands from a human into the actions required ...",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/",
+      "originalUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/08/Google-everyday-robots.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
+      "publishedDateTime": "2022-08-22T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now.md",
+      "title": "2 Artificial Intelligence Growth Stocks Down 84% and 92% to Buy Now",
+      "excerpt": "Shares of Upstart Holdings (NASDAQ: UPST) and Lemonade (NYSE: LMND) currently trade 92% and 84% off their highs, respectively, but both AI stocks could produce market-crushing returns in the years ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now",
+      "originalUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now?amp",
+      "publishedDateTime": "2022-08-22T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-22-honeywell-shrinks-the-industrial-skills-gap-with-ai.md",
       "title": "Honeywell Shrinks The Industrial Skills Gap With AI",
       "excerpt": "Massive labor shortages will require companies to rethink how technology can help their clients thrive in such an untenable position.",
@@ -614,7 +899,7 @@
       "originalUrl": "https://www.marketwatch.com/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442?mod=mw_latestnews",
       "featuredContent": null,
       "highlight": null,
-      "heat": 423,
+      "heat": 403,
       "tags": null,
       "images": [
         {
@@ -889,300 +1174,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-21-why-youve-never-heard-of-this-top-ai-company.md",
-      "title": "Why You’ve Never Heard Of This Top AI Company",
-      "excerpt": "with the only notable vendor-specific response (AWS SageMaker) trailing in the 5th spot. This doesn’t mean that companies aren’t using vendors for those open source implementations, not at all. This does mean that they aren’t focusing on the vendor ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-heard-of-this-top-ai-company/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-heard-of-this-top-ai-company/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/630176959a27f7799058f19a/0x0.jpg?format=jpg&crop=4153,2336,x0,y13,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-heard-of-this-top-ai-company/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/21/why-youve-never-heard-of-this-top-ai-company/amp/",
-      "publishedDateTime": "2022-08-20T22:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-21-after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans.md",
-      "title": "After binge-watching TV, Google's DeepMind AI can now read lips better than humans",
-      "excerpt": "Google’s DeepMind artificial intelligence system has learned another useful skill. The soon-to-become-Skynet AI can now read lips with a higher accuracy than humans, after it watched thousands ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans/",
-      "originalUrl": "https://www.neowin.net/news/after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2016/11/1479985769_hal_9000_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/after-binge-watching-tv-googles-deepmind-ai-can-now-read-lips-better-than-humans/",
-      "publishedDateTime": "2022-08-20T15:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-21-why-ai-regulation-will-resemble-privacy-regulation.md",
-      "title": "Why AI regulation will resemble privacy regulation",
-      "excerpt": "Concerns over data privacy have sparked regulations in the U.S. and Europe. How will AI regulations look as they come to fruition?",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-ai-regulation-will-resemble-privacy-regulation/",
-      "originalUrl": "https://venturebeat.com/ai/why-ai-regulation-will-resemble-privacy-regulation/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1037155966.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-ai-regulation-will-resemble-privacy-regulation/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-ai-regulation-will-resemble-privacy-regulation/amp/",
-      "publishedDateTime": "2022-08-20T13:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-21-this-student-aspires-for-a-career-in-ai.md",
-      "title": "This student aspires for a career in AI",
-      "excerpt": "He was also part of his school’s programming and AI clubs thanks to which he honed his skills to participate in the Kolmogorov Reading Conference for scientific papers. ‘‘I wrote a research paper titled Detection and Classification of brain tumors in MRIs using CNN,",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/friday/art-people/this-student-aspires-for-a-career-in-ai-1.89858003",
-      "originalUrl": "https://gulfnews.com/friday/art-people/this-student-aspires-for-a-career-in-ai-1.89858003",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2022/08/18/Hale-image_182b0415f36_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/friday/art-people/this-student-aspires-for-a-career-in-ai-1.89858003",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/friday/art-people/this-student-aspires-for-a-career-in-ai-1.89858003",
-      "publishedDateTime": "2022-08-20T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-are-you-making-these-deadly-mistakes-with-your-ai-projects.md",
-      "title": "Are You Making These Deadly Mistakes With Your AI Projects?",
-      "excerpt": "You need enough, but not too much. “Goldilocks data” is what people often say: not too much, not too little, but just right. Unfortunately, far too often, organizations are jumping into AI projects without first addressing an understanding of their data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/20/are-you-making-these-deadly-mistakes-with-your-ai-projects/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/20/are-you-making-these-deadly-mistakes-with-your-ai-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62ffdc7f74be310fb95f25ec/0x0.jpg?format=jpg&crop=3000,1689,x0,y74,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/20/are-you-making-these-deadly-mistakes-with-your-ai-projects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/20/are-you-making-these-deadly-mistakes-with-your-ai-projects/amp/",
-      "publishedDateTime": "2022-08-19T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-stanford-university-stanford-engineers-present-new-chip-that-ramps-up-ai-computing-efficiency.md",
-      "title": "Stanford University: Stanford engineers present new chip that ramps up AI computing efficiency",
-      "excerpt": "AI-powered edge computing is already pervasive in our lives. Devices like drones, smart wearables, and industrial IoT sensors are equipped with AI-enabled chips so that computing can occur at the “edge” of the internet,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/stanford-university-stanford-engineers-present-new-chip-that-ramps-up-ai-computing-efficiency/",
-      "originalUrl": "https://indiaeducationdiary.in/stanford-university-stanford-engineers-present-new-chip-that-ramps-up-ai-computing-efficiency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/10/1500x500.jpg?fit=1024%2C341&ssl=1",
-          "width": 1023,
-          "height": 341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/stanford-university-stanford-engineers-present-new-chip-that-ramps-up-ai-computing-efficiency/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/stanford-university-stanford-engineers-present-new-chip-that-ramps-up-ai-computing-efficiency/",
-      "publishedDateTime": "2022-08-19T20:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

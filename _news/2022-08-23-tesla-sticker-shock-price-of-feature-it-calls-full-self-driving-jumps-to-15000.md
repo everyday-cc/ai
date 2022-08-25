@@ -151,20 +151,6 @@ related:
         width: 1200
         height: 740
         isCached: true
-  - title: "Tesla Full Self-Driving Test Involving Kids Gets Pulled From YouTube"
-    excerpt: "YouTube has removed a video in which Tesla investors test claims that the latest beta version of the company's Full Self-Driving technology won't prevent the vehicles from running over children. There's a bit to unpack here."
-    publishedDateTime: 2022-08-20T17:20:00Z
-    webUrl: "https://www.pcmag.com/news/tesla-full-self-driving-test-involving-kids-gets-pulled-from-youtube"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/03ObNFQ2eVXU4AeGWQ5gNHD-1.fit_lim.size_1200x630.v1661015027.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Tesla Is Doubling Down On Full Self Driving While Ralph Nader Wants It Recalled."
     excerpt: "Tesla is hiking the price of its sometimes controversial driver assistance software it calls Full Self Driving."
     publishedDateTime: 2022-08-21T15:56:00Z
@@ -312,15 +298,6 @@ related:
         width: 1200
         height: 603
         isCached: true
-  - title: "YouTube Pulls Video of Tesla Full Self-Driving Test Involving Kids"
-    excerpt: "The video, which depicts a Tesla investor driving a Model 3 toward one of his own children, reportedly violates YouTube's child safety policy."
-    publishedDateTime: 2022-08-20T17:36:00Z
-    webUrl: "https://www.pcmag.com/news/tesla-full-self-driving-test-involving-kids-gets-pulled-from-youtube"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 49
   - title: "People are now testing Tesla’s ‘full self-driving’ on real kids"
     excerpt: "Carmine Cupani wanted to set the record straight. So he asked his young son to stand in the path of his Tesla as it sped through a parking lot."
     publishedDateTime: 2022-08-21T09:02:00Z

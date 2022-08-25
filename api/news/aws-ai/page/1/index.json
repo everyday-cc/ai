@@ -1371,24 +1371,15 @@
     {
       "path": "_news/2022-08-11-clearview-consent-launches-presentation-attack-detection.md",
       "title": "Clearview Consent Launches Presentation Attack Detection",
-      "excerpt": "Clearview Consent, the leading facial recognition technology developer API, announced the launch of its state-of-the",
+      "excerpt": "That, Clearview AI’s CEO said, “The launch of our Presentation Attack Detection, also known as ‘liveness detection,’ will help governmental and commercial entities stay one step ahead of crime and fraud.",
       "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/clearview-consent-launches-presentation-attack-detection-2022-08-11",
-      "originalUrl": "https://www.marketwatch.com/press-release/clearview-consent-launches-presentation-attack-detection-2022-08-11",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-11-clearview-consent-launches-presentation-attack-detection",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-11-clearview-consent-launches-presentation-attack-detection",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
@@ -1396,18 +1387,9 @@
       "publishedDateTime": "2022-08-11T03:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },

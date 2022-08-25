@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-08-24-humans-have-a-natural-defense-against-facial-recognition-aging.md",
-      "title": "Humans Have a Natural Defense Against Facial Recognition: Aging",
-      "excerpt": "After just 5 years, facial recognition systems start struggling to identify us, and after 20 years they have no chance.",
+      "path": "_news/2022-08-25-advancing-conservation-with-ai-based-facial-recognition-of-turtles.md",
+      "title": "Advancing conservation with AI-based facial recognition of turtles",
+      "excerpt": "We came across Zindi – a dedicated partner with complementary goals – who are the largest community of African data scientists and host competitions that focus on solving Africa’s most pressing problems. Our Science team’s Diversity, Equity, and Inclusion (DE&I) team worked with Zindi to identify a scientific",
       "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/humans-have-a-natural-defense-against-facial-recognition-aging",
-      "originalUrl": "https://www.pcmag.com/news/humans-have-a-natural-defense-against-facial-recognition-aging",
+      "webUrl": "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles",
+      "originalUrl": "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles",
       "featuredContent": null,
       "highlight": null,
-      "heat": 134,
+      "heat": 176,
       "tags": null,
       "images": [
         {
-          "url": "https://i.pcmag.com/imagery/articles/05Pz8HRnBQxyCwqrSeEy3it-1.fit_lim.size_1200x630.v1661351863.jpg",
-          "width": 1121,
-          "height": 630,
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/63061177d7f69d1362d8131e_w-VkMnf2sMOOlIQBg5mgjxCmIR8jzbdk4dNkoVyq55So3N0zNdWUa2xSQs0hRJxneQhGae3Nz62pNaqLggj4tm-EN8XO229WRDuZYUBcCtOdGsEsKMAQBLW5UkyFfhlPwtOozh-6VcDJ50RV0SZZXleKsSytCDJr422G1RwVKwcftW3p_2XXpFufsJKeO0dDa6PUQZVRnRmKCK-FKwzbd8yYSjLsHz-eaw.png",
+          "width": 1600,
+          "height": 1427,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -26,14 +26,14 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T07:50:00-07:00",
+      "publishedDateTime": "2022-08-24T17:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
+        "name": "DeepMind",
+        "domain": "deepmind.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,8 +49,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "AI",
+        "Google AI",
+        "Computer Vision"
       ]
     },
     {

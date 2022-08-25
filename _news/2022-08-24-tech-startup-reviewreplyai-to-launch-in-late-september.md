@@ -40,6 +40,20 @@ related:
         width: 480
         height: 320
         isCached: true
+  - title: "Nvidia to unveil its next-gen GPU architecture in September at GTC"
+    excerpt: "Jen-Hsun Huang's September 20 keynote promises to \"share new advances of RTX reinventing 3D graphics and gaming.\""
+    publishedDateTime: 2022-08-25T10:33:00Z
+    webUrl: "https://www.pcgamer.com/nvidia-gtc-lovelace-announcement/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/awJKGgXMiHgn63zKjqXBKG-1200-80.gif"
+        width: 480
+        height: 270
+        isCached: true
 
 secured: "1ylZohlx8LVE4dP+fV8I6ReLASC9ThrCK7uScWylPfg+GZdvRG7FjOrF9J+AUQQiinqgga0ysS76emNT2ET84Aj+g8JfAPi0X7+q5Y3tmfPkM8HOZw9tHp4OVao6FpZwCULVRRy+GMpmFudXt/30oVLGjGsMDMJrrBljNo3MjFBmaFuTVUJMXrnkJWvAijN8G4B/XrVRrIPHpDu2//9dlHSwET5fIs6RMkzp3WN6EHUp6Y1AMcFm/HNECcGNCwStVyv3o2wZ7nyiNKHYtKQkbkR5Cst2Ctirta3qyilBlfrL6tSfBB6/gIQEtO7MPJG4mOI1+iFuBQ76qVjXbZxel/+JXXGI3+G6KFtCjpL1mVo=;t53RXbbp4pezvntuVO7etA=="
 ---

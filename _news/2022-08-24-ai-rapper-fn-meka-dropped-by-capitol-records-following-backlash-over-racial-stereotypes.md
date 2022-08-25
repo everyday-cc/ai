@@ -44,14 +44,14 @@ related:
         isCached: true
   - title: "Capitol Records drops artificial intelligence rapper after just one week"
     excerpt: "The AI-created rapper named FN Meka was meant to be the first augmented reality music artists to be signed to a major label."
-    publishedDateTime: 2022-08-25T01:36:00Z
-    webUrl: "https://www.kristv.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
-    ampWebUrl: "https://www.kristv.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week?_amp=true"
-    cdnAmpWebUrl: "https://www-kristv-com.cdn.ampproject.org/c/s/www.kristv.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week?_amp=true"
+    publishedDateTime: 2022-08-25T01:34:00Z
+    webUrl: "https://www.thedenverchannel.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
+    ampWebUrl: "https://www.thedenverchannel.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week?_amp=true"
+    cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week?_amp=true"
     type: article
     provider:
-      name: KRISTV.com
-      domain: kristv.com
+      name: 7News and TheDenverChannel.com
+      domain: thedenverchannel.com
     quality: 56
     images:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/36f0c0d/2147483647/strip/true/crop/3719x2092+54+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F7a%2F22%2Fcaf7db494a18a01db7c00f559d55%2Fscreen-shot-2022-08-24-at-10.27.58%20PM.png"

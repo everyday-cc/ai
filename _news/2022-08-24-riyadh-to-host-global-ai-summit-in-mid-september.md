@@ -9,8 +9,8 @@ ampWebUrl: "https://english.aawsat.com/home/article/3833841/riyadh-host-global-a
 cdnAmpWebUrl: "https://english-aawsat-com.cdn.ampproject.org/c/s/english.aawsat.com/home/article/3833841/riyadh-host-global-ai-summit-mid-september?amp"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: الشرق الأوسط
@@ -26,6 +26,20 @@ images:
     isCached: true
 
 related:
+  - title: "Nvidia to unveil its next-gen GPU architecture in September at GTC"
+    excerpt: "Jen-Hsun Huang's September 20 keynote promises to \"share new advances of RTX reinventing 3D graphics and gaming.\""
+    publishedDateTime: 2022-08-25T10:33:00Z
+    webUrl: "https://www.pcgamer.com/nvidia-gtc-lovelace-announcement/"
+    type: article
+    provider:
+      name: PC Gamer
+      domain: pcgamer.com
+    quality: 39
+    images:
+      - url: "https://cdn.mos.cms.futurecdn.net/awJKGgXMiHgn63zKjqXBKG-1200-80.gif"
+        width: 480
+        height: 270
+        isCached: true
   - title: "Tech Startup ReviewReply.AI to Launch in Late September"
     excerpt: "This is a big step forward for busy owners and operators looking to spend more time building their business without sacrificing their reputation.” ReviewReply.AI generates coherent and specific responses to incoming reviews via artificial intelligence."
     publishedDateTime: 2022-08-24T11:53:00Z

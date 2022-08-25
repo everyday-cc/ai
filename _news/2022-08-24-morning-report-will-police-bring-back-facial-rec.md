@@ -39,6 +39,15 @@ related:
         width: 2048
         height: 1360
         isCached: true
+  - title: "Improved Facial Recognition Software Attracts Revived Interest"
+    excerpt: "Many state and local governments in California are considering using facial recognition tools after a state ban expires in January, citing a rise in crime during the pandemic, and claims of its improved accuracy."
+    publishedDateTime: 2022-08-24T13:46:00Z
+    webUrl: "https://thecrimereport.org/2022/08/24/improved-facial-recognition-software-attracts-revived-interest/"
+    type: article
+    provider:
+      name: thecrimereport.org
+      domain: thecrimereport.org
+    quality: 21
 
 secured: "Te7/PlbXzNjl3eT/dEfJPPrPzpA27jYWrLwDrY7dx6wbnPg+IfHxyYB6UKHnlvmdyi0Ce/x8jHzeYkRiXUViaEP69Micp5a8BpHpmKLaftSCOtX7e8QXwqB7rx/AFvZyv/4c3X7zz6i7rm/ao+nc3o12XirUEO6XDlliXUj1f4Rtt9rpZUw0k7Y5EO2mie8b98IiJGmF2vIy05gUjXqPrZgI3xavABad95PxW5lDSOIhhCzoENex4Iq7e3qTsL24qePGRzVqg3ikeprOQLL8Gq/D2J46qlPiSbuN5+b0O13WysjmntJVU23ZhdfaB0tfrFXi9CF2BGtvNTSkvVp3NFyNxq5WWeJOvhRLL7muAmIP+txujaP1q8FxWiQgH+XLodGVuIMqu7E6ka+nC81CJmGmrGhLiYPnDhmbEhW0IPKSMLtEeRQ0nbqrR78Rw2EdthbzWJRws69/NqPsqViXDIPgFxtFyTZMQXHVTnOlbJk0//tCY5p18h8j6+Yl2NzCn5l9vLKltG35eXRkXRv1Xw==;9UZG1Jw4CaudSIEQLX5yCg=="
 ---

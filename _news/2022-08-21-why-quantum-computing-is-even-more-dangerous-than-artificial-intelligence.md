@@ -7,7 +7,7 @@ originalUrl: "https://foreignpolicy.com/2022/08/21/quantum-computing-artificial-
 webUrl: "https://foreignpolicy.com/2022/08/21/quantum-computing-artificial-intelligence-ai-technology-regulation/"
 type: article
 quality: 40
-heat: 40
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,33 @@ images:
     width: 1000
     height: 666
     isCached: true
+
+related:
+  - title: "Quantum computing is an even bigger threat than artificial intelligence – here’s why"
+    excerpt: "Given the potential scope and capabilities of quantum technology, it is absolutely crucial not to repeat the mistakes made with AI—where regulatory failure has given the world algorithmic bias that hypercharges human prejudices,"
+    publishedDateTime: 2022-08-25T11:14:00Z
+    webUrl: "https://wraltechwire.com/2022/08/25/quantum-computing-is-an-even-bigger-threat-than-artificial-intelligence-heres-why/"
+    ampWebUrl: "https://wraltechwire.com/2022/08/25/quantum-computing-is-an-even-bigger-threat-than-artificial-intelligence-heres-why/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/25/quantum-computing-is-an-even-bigger-threat-than-artificial-intelligence-heres-why/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 50
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
+        width: 772
+        height: 434
+        isCached: true
+  - title: "Why An AI Portfolio Is Better Than A Traditional Fund Manager"
+    excerpt: "Beyond superior data analysis, Artificial Intelligence can beat out professional fund managers thanks to lower costs and investment minimums. Learn why AI is better than a human fund manager here."
+    publishedDateTime: 2022-08-23T13:24:00Z
+    webUrl: "https://www.forbes.com/sites/qai/2022/08/23/why-an-ai-portfolio-is-better-than-a-traditional-fund-manager/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 47
 
 secured: "NbJUGOCmNm5DzJZrVR07ziELy10/pt/zH1pEARrTYNWmFukdChRKezZLMWemSSIZKinjYfztM0mxfA99bIvuX069HyUGyreQq4pSGdlSB1Vgr5IqygpC+i1BupbQ4LfmOOFi4+vQjNsDx8E3ZCAz7Oe6A2GK67e+zAac+wAo9wxjo9N+h2khylbBHna0d36Dosk9UThJHKYqduw0wqH/DR4o7jt2ypKhWgrGPQn08GKkGl2VzAZ5hWCdY91ox67uc5nk3w9UMa2hSay0fQ2RMqvyr8b+BlkxW84A1ik/9G2jwuf44IavbRyuKp7k7eHwhDECK805K/K1wXoFKR0ag7sgeWIeEtn48mvxi4+/gootMhLkg1m8ZoYkuxoRnuQMoVwr+XVp7tRVoI8AJr3QhWEhn4L6JnuwHCTumDlIYsFfx4DYyJY7ixHZmgo6DVX6/Pr0rwPWgfq/xUpWIyfY71z9UjDtxIO1jZn6VJFFgeLZ63mMEUj+4bKbgM9DgsKqz5BGwjNARpzU2DePGDrXmw==;jL1Xh6weTZMatVgPkMfBcg=="
 ---

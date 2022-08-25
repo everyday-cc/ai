@@ -7,7 +7,7 @@ originalUrl: "https://www.newscientist.com/article/2334375-face-recognition-stru
 webUrl: "https://www.newscientist.com/article/2334375-face-recognition-struggles-to-recognise-us-after-five-years-of-ageing/"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,43 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Humans Have a Natural Defense Against Facial Recognition: Aging"
-    excerpt: "After just 5 years, facial recognition systems start struggling to identify us, and after 20 years they have no chance."
-    publishedDateTime: 2022-08-24T14:50:00Z
-    webUrl: "https://www.pcmag.com/news/humans-have-a-natural-defense-against-facial-recognition-aging"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05Pz8HRnBQxyCwqrSeEy3it-1.fit_lim.size_1200x630.v1661351863.jpg"
-        width: 1121
-        height: 630
-        isCached: true
-  - title: "Do I Know You? How Flawed is Facial Recognition?"
-    excerpt: "The Viola-Jones algorithm is an object-recognition framework that allows the detection of image features in real-time and is one of the most powerful algorithms of its time. However, the tests’ results were disappointing regarding the accuracy levels ..."
-    publishedDateTime: 2022-08-22T11:31:00Z
-    webUrl: "https://www.electropages.com/blog/2022/08/do-i-know-you-how-flawed-facial-recognition"
-    type: article
-    provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 39
-    images:
-      - url: "https://www.electropages.com/storage/app/media/2022/Aug/ai-facial-recognition-og.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Improved Facial Recognition Software Attracts Revived Interest"
-    excerpt: "Many state and local governments in California are considering using facial recognition tools after a state ban expires in January, citing a rise in crime during the pandemic, and claims of its improved accuracy."
-    publishedDateTime: 2022-08-24T13:46:00Z
-    webUrl: "https://thecrimereport.org/2022/08/24/improved-facial-recognition-software-attracts-revived-interest/"
-    type: article
-    provider:
-      name: thecrimereport.org
-      domain: thecrimereport.org
-    quality: 21
   - title: "Voice to Parliament the ‘wrong form’ of recognition: Tony Abbott"
     excerpt: "Former prime minister Tony Abbott says the Indigenous Voice to Parliament is the “wrong form of recognition”. He said he thinks it’s wrong in principle to “divide Australians by race”. “And I think the more people see of this voice,"
     publishedDateTime: 2022-08-23T11:50:00Z
@@ -70,15 +33,6 @@ related:
     provider:
       name: News.com.au
       domain: news.com.au
-    quality: 4
-  - title: "Vets’ contribution needs social recognition"
-    excerpt: "Recent floods in Odisha have given substance to the fact that veterinary department is the forerunner in reaching out to distressed people in marooned and inundated areas. It’s quite apparent that a basket of essential services like electricity,"
-    publishedDateTime: 2022-08-24T19:03:00Z
-    webUrl: "https://www.dailypioneer.com/2022/state-editions/vets----contribution-needs-social-recognition.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
     quality: 4
 
 secured: "izXWSb1GAByMwxEjxSwxhaKlcUpCqUoR+ziT9RE44h7Cc2Y2ARMrJhcN9Q/lSeLuLMcZJ2yoHvjtJU7LOcOGPXa761/CeREu3BNLrRjbSeXC+bEcBQj5EsA1N4LLMzjQ0i1kPsUEAHI4xNgpTP8fuvPMxOtZzpUHJxfJjvVqtum26p0WrtzEW6Uz2Iq2EXfWTPPh8FPUTFnyaSSwnlyPGHqdVKGLv4MUcCzyVOAtZibzvzMUGjkJ7dEh/DcHtMbJM23q/Bjqmubt9qKg/Z9tZDOL2AJ1DYB3PtxGe5nV5AAapLdZ3saBeHufurTm0r1F/NfIJN1LD4twEL43IGPzbj1cNdnVVae7XkaZfiLMSxu4gfoaBbFPeOoQjaKGepJsT7YCAlKbXut0kWYf662BKACG5CWahWXGfMYSwkrcOiUOg8/3bikr78R4698nuiA/XrMaAT3n1OqgE5SpxYzvGNXU/d/EF/toZCkoRZr4SmgPkrXIFznBl/XoEfFN0N5lR59Dz2dnySLJc9dkmNuBKw==;lp5TNZd4eVWDfD+ubbx/1w=="
