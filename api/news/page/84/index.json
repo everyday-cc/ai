@@ -2,6 +2,41 @@
   "page": 84,
   "value": [
     {
+      "path": "_news/2022-06-16-robot-sales-in-north-america-see-their-best-q1-ever.md",
+      "title": "Robot Sales in North America See Their Best Q1 Ever",
+      "excerpt": "R ising consumer prices amid rampant global inflation apparently didn't stop spending on robotics in North America. Sales were up 28% compared to the same quarter a year ago. Addi",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/robot-sales-in-north-america-see-their-best-q1-ever",
+      "originalUrl": "https://www.nasdaq.com/articles/robot-sales-in-north-america-see-their-best-q1-ever",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/robot-sales-in-north-america-see-their-best-q1-ever?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/robot-sales-in-north-america-see-their-best-q1-ever?amp",
+      "publishedDateTime": "2022-06-16T05:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-ai-weekly-lamdas-sentient-ai-debate-triggers-memories-of-ibm-watson.md",
       "title": "AI Weekly: LaMDA’s ‘sentient’ AI debate triggers memories of IBM Watson",
       "excerpt": "I learned a bit about how LaMDA triggers memories of IBM Watson. Transform 2022 Join us at the leading event on applied AI for enterprise business and technology decision makers in-person July 19 ...",
@@ -1082,49 +1117,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-ibms-watson-ai-created-this-trailer-for-the-horror-movie-morgan.md",
-      "title": "IBM's Watson AI created this trailer for the horror movie 'Morgan'",
-      "excerpt": "The biggest stories of the day delivered to your inbox. By signing up to the Mashable newsletter you agree to receive electronic communications from Mashable that may sometimes include ...",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/video/morgan-watson-ai-trailer",
-      "originalUrl": "https://mashable.com/video/morgan-watson-ai-trailer",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/videos/0077tuwcH9dDDYcy2i4lZUt/hero-image.fill.size_1200x675.v1614265845.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
         "AI"
       ]
     }

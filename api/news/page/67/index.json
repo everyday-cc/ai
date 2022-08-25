@@ -2,6 +2,49 @@
   "page": 67,
   "value": [
     {
+      "path": "_news/2022-06-29-ibm-unit-partners-to-boost-digital-skills.md",
+      "title": "IBM unit, partners to boost digital skills",
+      "excerpt": "Sawat Asdaron, managing director of IBM Thailand, said AI, hybrid cloud, data science, automation and cybersecurity are new areas that are in high demand by businesses. \"Skilled IT workforce is a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.bangkokpost.com/business/2335903/ibm-unit-partners-to-boost-digital-skills",
+      "originalUrl": "https://www.bangkokpost.com/business/2335903/ibm-unit-partners-to-boost-digital-skills",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.bangkokpost.com/newdesign/assets/images/bg/business/images_business_1.jpg?v=0.1",
+          "width": 620,
+          "height": 413,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bangkok Post",
+        "domain": "bangkokpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-yugabyte-intros-new-migration-engine-for-its-powerful-distributed-database.md",
       "title": "Yugabyte intros new migration engine for its powerful distributed database",
       "excerpt": "Yugabyte Inc. today announced what it says are the most extensive set of updates ever made to its database ecosystem. The startup is the chief developer behind YugabyteDB, an open-source and high ...",
@@ -1012,49 +1055,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-arkx-laboratories-launches-custom-wake-word-and-command-sets-for-brand-voice-experiences.md",
-      "title": "ArkX Laboratories Launches Custom Wake-Word and Command Sets for Brand Voice Experiences",
-      "excerpt": "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced the launch of EveryWord™ Voice Control featuring the Sensory TrulyHandsfree™ SDK technology suite.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-84b118b5dacd4af18c29a551e91a13d1",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-84b118b5dacd4af18c29a551e91a13d1",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-28T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

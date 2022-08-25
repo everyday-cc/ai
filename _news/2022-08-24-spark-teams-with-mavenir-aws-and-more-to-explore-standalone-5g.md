@@ -3,8 +3,8 @@ category: news
 title: "Spark teams with Mavenir, AWS and more to explore 'standalone' 5G"
 excerpt: "Spark has created and run two proof-of-concepts for standalone 5G with technology providers Mavenir, AWS, Nokia and Oppo."
 publishedDateTime: 2022-08-23T21:31:00Z
-originalUrl: "https://www.reseller.co.nz/article/700934/spark-teams-mavenir-aws-more-explore-standalone-5g/"
-webUrl: "https://www.reseller.co.nz/article/700934/spark-teams-mavenir-aws-more-explore-standalone-5g/"
+originalUrl: "https://www.reseller.co.nz/article/700934/spark-teams-mavenir-aws-more-explore-standalone-5g/?fpid=1"
+webUrl: "https://www.reseller.co.nz/article/700934/spark-teams-mavenir-aws-more-explore-standalone-5g/?fpid=1"
 type: article
 quality: 39
 heat: 39
@@ -44,6 +44,6 @@ related:
       domain: scoop.co.nz
     quality: 4
 
-secured: "tywSeNU6fZH9iZL7SDDTEb55SQk62cBHs0ZJxFXdz49pcIjScJJTtSon7XUZtPNLuntJ3cnWxSAC3DAOnph99ZbfDEM6XCjnL9Ox/ZU+z6nZ7U7muFioCN6kje02INK7Ttd3FCb0HScWj/SsVaMmMitrjsJvIPONxPjAEc5Op5ilD+Cb8iYBCDJlkWgtFB2Ms+GnqYXT2W8mecB8tkXHVNcS1dJGSC04xYWccklf5sDyIpe03wxOLCQdsEjScqyFEq7ivp2S73w9xZ/P+OoZ44DBQ4A2SBkLrSz8jf4QqH1Y6AOeleCab/vNqLK2YYt911sQaJd8QNwE/taX2cu9+nOdGRSA5+paZWJfjl20G1mvubIx6HKnmfSfW4syIHf3H+iM9LfVzcRIdYAYTtKJfNQUZYuZbPy6w3wxrpr468FD3z64ncpPvxQQgzhjzQWuM3T1ZMgwXp/sEuvgAtAWQf9U7mehAKVGhJ4UsImyqe/PDqKLcgweh/hnMwSDxp4tQyCwOwZAZXptSszZR2NvQA==;BLMN1rtM2FC/a3ztmH3vmw=="
+secured: "cNqOayB7kQN/j1JkczcfuuWOMxQqXIh/C4R6vTP0nggWisuJC//ZVAJIcn7BJ4QczwYIU5OZM6JzfaZKodhpOIzaCdrgeDxH/zI7o+U3G6kwKtv6dYbH0O80KKmetSB8U7X0i8VbwPj9/EhkkNMTV7vFMBubpFhrynA1xiXUTXsZdd23NNBwwaFZCdbgOeqZwG8sTEXV9WKYv89+Y7ujKJHzi/6xXYp5961/SwJq/JC10e5JtoZzp310UiW+nMQtAGT3CEP5V9F0dt+xzEzxweGo9oBfpVgR5wZU6IyhzvZwfevrJso4D9TobhhiViRv/G1/Teo9t9NzdOtmYQLFE/X48usjqDxxD8vEPkZvT6M=;2J8yHiIE3ZmI8cbtFmStsA=="
 ---
 

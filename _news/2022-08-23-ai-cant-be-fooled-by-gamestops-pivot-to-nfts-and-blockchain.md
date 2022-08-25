@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/qai/2022/08/23/ai-cant-be-fooled-by-gam
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/08/23/ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Ex Qantas exec’s AI-based blockchain-based provenance startup bags $28 million"
+    excerpt: "The round in Jamila Gordon's Lumachain was led by US VC Bessemer Venture Partners as the business ramps up its US focus."
+    publishedDateTime: 2022-08-24T23:17:00Z
+    webUrl: "https://www.startupdaily.net/topic/funding/ex-qantas-execs-ai-based-blockchain-based-provenance-startup-bags-28-million/"
+    type: article
+    provider:
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 33
+    images:
+      - url: "https://www.startupdaily.net/wp-content/uploads/2022/08/Jamila-Gordon.jpg"
+        width: 770
+        height: 513
+        isCached: true
   - title: "XRPL Awards Second Grant to AnChain.AI, Delivering Industry Leading Blockchain Intelligence to XRPL Developers"
     excerpt: "This grant further expands upon AnChain.AI's initial award, through which the AnChain team integrated XRPL transaction data into its BEI blockchain intelligence platform, bringing unprecedented transaction monitoring and KYW (Know Your Wallet) capabilities to the entire XRPL developer base."
     publishedDateTime: 2022-08-23T15:46:00Z

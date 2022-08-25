@@ -74,6 +74,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 51
+  - title: "5 Best Artificial Intelligence Stocks To Buy Now"
+    excerpt: "In this article, we discuss 5 best artificial intelligence stocks to buy now. If you want to read the introduction and detailed analysis of the artificial intelligence market, go to 11 Best Artificial Intelligence Stocks To Buy Now."
+    publishedDateTime: 2022-08-22T13:05:00Z
+    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-now-1058867/"
+    type: article
+    provider:
+      name: Insider Monkey
+      domain: insidermonkey.com
+    quality: 37
+    images:
+      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/29221800/istockphoto-1274437411-170667a.jpg"
+        width: 584
+        height: 296
+        isCached: true
   - title: "Early adopters are doubling down on AI"
     excerpt: "Although 39 per cent of the 950 companies analysed in a recent Dataiku-sponsored IDC InfoBrief said they were using AI during 2021, that percentage was the same as during 2020 – suggesting that the technology’s growth has stalled."
     publishedDateTime: 2022-08-23T03:11:00Z

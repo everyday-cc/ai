@@ -2,6 +2,40 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2022-06-22-cerebras-systems-sets-ai-training-record-with-its-wafer-scale-chip.md",
+      "title": "Cerebras Systems sets AI training record with its ‘wafer-scale’ chip",
+      "excerpt": "The CS-2 is a data center appliance powered by Cerebras’ WSE-2 chip. The WSE-2 (pictured) features a so-called wafer-scale architecture optimized for AI workloads and includes 2.6 trillion ...",
+      "sourceUrl": null,
+      "webUrl": "https://siliconangle.com/2022/06/22/cerebras-systems-sets-ai-training-record-wafer-scale-chip/",
+      "originalUrl": "https://siliconangle.com/2022/06/22/cerebras-systems-sets-ai-training-record-wafer-scale-chip/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T07:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SiliconANGLE",
+        "domain": "siliconangle.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-investornewsbreaks-infobird-co-ltd-nasdaq-ifbd-selected-by-leading-fintech-provider-to-deliver-intelligent-customer-engagement-solution.md",
       "title": "InvestorNewsBreaks – Infobird Co. Ltd. (NASDAQ: IFBD) Selected by Leading Fintech Provider to Deliver Intelligent Customer Engagement Solution",
       "excerpt": "Infobird (NASDAQ: IFBD), a leading provider of AI-powered customer engagement solutions in China, announced its entry into a cooperation agreement with a leading global fintech service provider. Under the agreement,",
@@ -1104,49 +1138,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-what-would-a-sentient-conscious-robot-mean-for-humans.md",
-      "title": "What would a sentient, conscious robot mean for humans?",
-      "excerpt": "A Google engineer claimed an AI software of theirs became sentient. Now there is debate on if these sentient machines have a place in the world.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thedenverchannel.com/news/national/what-would-a-sentient-conscious-robot-mean-for-humans",
-      "originalUrl": "https://www.thedenverchannel.com/news/national/what-would-a-sentient-conscious-robot-mean-for-humans",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.newsy.com/images/videos/m/1655851252_oKWgGT.jpg",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thedenverchannel.com/news/national/what-would-a-sentient-conscious-robot-mean-for-humans?_amp=true",
-      "cdnAmpWebUrl": "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/what-would-a-sentient-conscious-robot-mean-for-humans?_amp=true",
-      "publishedDateTime": "2022-06-21T19:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "7News and TheDenverChannel.com",
-        "domain": "thedenverchannel.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

@@ -2,6 +2,50 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2022-06-02-state-dropping-artificial-intelligence-tool-used-in-child-abuse-cases.md",
+      "title": "State dropping artificial intelligence tool used in child abuse cases",
+      "excerpt": "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will",
+      "sourceUrl": null,
+      "webUrl": "https://www.bendbulletin.com/localstate/state/oregon-dropping-ai-tool-used-in-child-abuse-cases/article_eda5bca2-a8ea-5a13-ae45-f65b86ff8a3d.html",
+      "originalUrl": "https://www.bendbulletin.com/localstate/state/oregon-dropping-ai-tool-used-in-child-abuse-cases/article_eda5bca2-a8ea-5a13-ae45-f65b86ff8a3d.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/bendbulletin.com/content/tncms/assets/v3/editorial/8/74/87447892-e2b7-11ec-af3a-671aa4c84ef6/629926ce936d9.image.jpg?crop=1762%2C928%2C0%2C123&resize=1200%2C632&order=crop%2Cresize",
+          "width": 1200,
+          "height": 632,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T07:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bulletin",
+        "domain": "bendbulletin.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-06-02-10-ai-predictions-for-the-next-10-years.md",
       "title": "10 AI Predictions For The Next 10 Years",
       "excerpt": "The past several years have been an exciting period for artificial intelligence (AI). We used to think of it as science fiction, yet today, AI has become an everyday component of life. This is especially true with advances during the global pandemic.",
@@ -1079,40 +1123,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-the-battle-of-ai-processors-begins-in-2018.md",
-      "title": "The Battle of AI Processors Begins in 2018",
-      "excerpt": "Are GPU's Destined for AI? Which brings us to GPUs. Call it a happy accident or serendipity. But GPU makers have found themselves holding the technology that could be at the forefront of the AI revolution. Once thought of as a complementary unit to CPUs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/battle-ai-processors-begins-2018",
-      "originalUrl": "https://www.designnews.com/electronics-test/battle-ai-processors-begins-2018",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

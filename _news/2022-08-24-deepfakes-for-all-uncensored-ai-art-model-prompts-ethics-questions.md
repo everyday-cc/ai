@@ -7,7 +7,7 @@ originalUrl: "https://techcrunch.com/2022/08/24/deepfakes-for-all-uncensored-ai-
 webUrl: "https://techcrunch.com/2022/08/24/deepfakes-for-all-uncensored-ai-art-model-prompts-ethics-questions/"
 type: article
 quality: 64
-heat: 64
+heat: -1
 published: false
 
 provider:
@@ -21,6 +21,24 @@ provider:
 topics:
   - AI Ethics
   - AI
+
+related:
+  - title: "Daily Crunch: 4chan users exploit AI image generator’s ability to create realistic nude deepfakes"
+    excerpt: "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package."
+    publishedDateTime: 2022-08-24T22:05:00Z
+    webUrl: "https://techcrunch.com/2022/08/24/daily-crunch-4chan-users-exploit-ai-image-generators-ability-to-create-realistic-nude-deepfakes/"
+    ampWebUrl: "https://techcrunch.com/2022/08/24/daily-crunch-4chan-users-exploit-ai-image-generators-ability-to-create-realistic-nude-deepfakes/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/24/daily-crunch-4chan-users-exploit-ai-image-generators-ability-to-create-realistic-nude-deepfakes/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 76
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?w=1024"
+        width: 1024
+        height: 576
+        isCached: true
 
 secured: "djwsjIsdpfk42ooGOY5VAuupaAuG3EhSu+cbmDkHgRinjj5v/Xn/3jcSOBY4De3HtbNJb7W9LEFX6/qf0gGeDcpSHXHawRFbhlASceFNGNDNvxEMRYFZKrrIBZRpgToSCuW5SXCmTNtf4PxiTE7kdTk6V+iJn5m3Q/1qURYhEbqcIj3rEcD9J4oMPTHgbQo6nqp5yABvnn0P6TlIdt3uh05GBsrnmEq927YDx0rh3NN0HcJPoMBDe935LbOSCh588i2IJ18KOzwEbPUR5ho16YNGdwy6GcHQJetj9Kb7Zdhc+ocfCyZtQTtQjPFfuxxU3OgIxkNE1j9gLJ8zz9jifS3GV6y1NsNsl7HusA9FJKNwYc5Plr2hpoMZwBflIG/bs2fnEKI5m/uPcF68ur9HD6EJ9hIuNG6pjplblkSpjT+apsdwS5GXrBYUiCOUXd8OmHxfsfCixdVrDV+jfwHuGhMIClNibKkqGzwYIZyzN+aDcxA5qzZ9HIIkG1WO4qkGvCfeZ0uAQVbpGhhfDFFVNA==;tR7K1uuICRmnzihbMHiqvA=="
 ---
