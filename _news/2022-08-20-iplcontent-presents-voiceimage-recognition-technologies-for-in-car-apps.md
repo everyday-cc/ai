@@ -1,23 +1,20 @@
 ---
 category: news
 title: "IpLContent Presents Voice/Image Recognition Technologies for In-Car Apps"
-excerpt: "but the challenge of this resides in the complexity of voice recognition. You may wish to look up directions with Google Maps, play a playlist from Spotify, or call your friend from your car all during a single driving session. So how does a driver safely ..."
-publishedDateTime: 2022-08-19T17:23:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-c840b6e66e2844fb87f9c5cc7322f512"
-webUrl: "https://apnews.com/press-release/business-wire/technology-c840b6e66e2844fb87f9c5cc7322f512"
+excerpt: "but the challenge of this resides in the complexity of voice recognition. You may wish to look up directions with Google Maps, play a playlist from Spotify, or call your friend from your car all ..."
+publishedDateTime: 2022-08-19T17:36:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/08/b28570001/iplcontent-presents-voiceimage-recognition-technologies-for-in-car-apps"
+webUrl: "https://www.benzinga.com/pressreleases/22/08/b28570001/iplcontent-presents-voiceimage-recognition-technologies-for-in-car-apps"
 type: article
-quality: 3
-heat: 3
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "/01V8ltd8nYWYP3DZW82QvS6seTMLz/QV6APEaj6WBNKejKy9qJVM0wxN7wsrlYlFMR1BGBa8qUK05Kuf01KD5g5C39AJS8gfCI7kKnMb/FZSEiQ1aEdQuIfV+0fMbmesAgbRfXAbnBX4/1QZx+0sANn0QNbylLZNKDmd0rUEO5N5j7GaSr614hBA9MMGbRdhEXszriQY0ez6TJFY+i9ndEp+8KNBfnBTRQzqdf1KrKeyi2ZyVgQEi0yyys52dRkH+mmT0t2SiuShm9QqVcmTYpomdfsBWt3M3i/3eJFYXCFxrnCkDwoV5DNapjlSjHMMxaLVAI0LlbK6k7V6ZNWuq2U9JDEtxjhTmA+xmaTM14=;0/I8Rulyn+KqxtMenZWZDQ=="
+secured: "RocHqnntCEFrYIbVwk5kjHwThQlltqZU+EgJWOlYmgB84jundYWQmnFoyH1xDa9SSBC2GLueOwzFTV7Q1yBlfeYFOs7JY+zs8uR2fXEChAtrmXwlJ+A8XR7ooNwh8Nq/A/xj9Dqa4Wr0YurcS7CYLtEYwULX9yQeCl6XFI6whyV3EE6/0gfwVMHDaAcrXVORGelT4btLxbQZDDsv7fsUtFnlfDEH5ansQ0/j/sbcOtY3mKg/6S7GbifyhPolQX/ccMpvlSeuH/jLRLcG/jONGJI1D/InlG3rzbNUXucYhwsFcIfp8vZEQQ4qx8kbBq0sIBKa/OGHCKCqk1C3FWokA0LzOThKg7txQCb8z/HN2IU=;Q6z3Gj/hKyP0G9q0HN/auQ=="
 ---
 

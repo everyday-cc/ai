@@ -19,6 +19,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Autos
 
 images:
   - url: "https://images.medindia.net/amp-images/health-images/risk-factors-for-alzheimers-disease.jpg"

@@ -1,20 +1,24 @@
 ---
 category: news
 title: "Clearview Consent Launches Presentation Attack Detection"
-excerpt: "That, Clearview AI’s CEO said, “The launch of our Presentation Attack Detection, also known as ‘liveness detection,’ will help governmental and commercial entities stay one step ahead of crime and fraud."
+excerpt: "Clearview Consent, the leading facial recognition technology developer API, announced the launch of its state-of-the"
 publishedDateTime: 2022-08-11T10:00:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-11-clearview-consent-launches-presentation-attack-detection"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-11-clearview-consent-launches-presentation-attack-detection"
+originalUrl: "https://www.marketwatch.com/press-release/clearview-consent-launches-presentation-attack-detection-2022-08-11"
+webUrl: "https://www.marketwatch.com/press-release/clearview-consent-launches-presentation-attack-detection-2022-08-11"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
-secured: "fbAp8N//PkxbAp2FWvPX7V8iAy/dFlkvQVMFJOLBEo9G6ExLieU2B+9I+Os9/IngpuOuOK/Qen8dG6gTTNMvOVrpbcCwmNqulAJtnIrruyqVoEkLVKwQLSsfsHNQijg8EgCBtM0/RJjORdHAcdQpbpq8Kzue1uaPD4MU8HsnKJn3QeRREEtr0/Pd+mRFOcg6bwXdXKPmDnnigDFyi9mHJVAT4hFnrnj2pGx1V/E3G9VfY5mYL2dzy2w15tESkYAAPkVMu6kVn3WF/mkYuFm0vy2qiBDhW+2YvJUoa8eLtj95jya5wcSwHblWnzaNOcrGzO90FXo3mFAEoMf5xZb+dM2eKPAJm4YZORQR38QaZLE=;onZ0QrG7pbZZtazjTRy+dw=="
+secured: "ccyj+9/83lTdYcFGffqZRibcCihzTnb74gRlBNST/awpogp1SdYqzXrkWw7vNnFW0KNE7/sAp/oDFg139tD1ldCRdIUhkAQApGvM4+UmjR3wp13PveO66oGfAc0VZQxMtRsaF2X1DX8/rHPMozn07aLxdW9eBG1oeLSEz02fuxlsS3j0y6N+ClllLoNpF/crd0Ivzsl+ADnIphj4JXKEklhF42I7Jz5HACE9KJl6YWb2OiftgBacVqRMXlBhi10yaKFL5tco2hLD0x8f5xoNfJbxuXdjbsKFVzW0gxLPtODkk9Oh/upo9Bs8/eZbN7D8mIBbc656tuwA+ucBEPGSUK4Ftez2NNr+nRTgmMETQVQ=;07b0bVDU4fDMPQrjsYRPGg=="
 ---
 

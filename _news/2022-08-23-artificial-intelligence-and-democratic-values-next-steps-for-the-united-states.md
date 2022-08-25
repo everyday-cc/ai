@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI Ethics
+  - AI in Autos
 
 images:
   - url: "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2022/08/blinken_podium.jpg"

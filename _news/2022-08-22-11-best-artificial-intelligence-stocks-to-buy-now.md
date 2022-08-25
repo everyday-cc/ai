@@ -17,6 +17,7 @@ provider:
 topics:
   - IBM AI
   - AI
+  - AI in Autos
 
 related:
   - title: "2 Artificial Intelligence Growth Stocks Down 84% and 92% to Buy Now"

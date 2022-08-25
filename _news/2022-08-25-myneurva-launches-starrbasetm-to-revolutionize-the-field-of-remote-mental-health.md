@@ -1,33 +1,20 @@
 ---
 category: news
 title: "Myneurva launches StarrbaseTM to revolutionize the field of Remote Mental Health."
-excerpt: "Delivering Affordable Solutions to traditional mental health treatments using cutting edge science'AUSTIN, Texas, Aug. 25, 2022 /PRNewswire/ --"
-publishedDateTime: 2022-08-25T11:52:00Z
-originalUrl: "https://markets.businessinsider.com/news/stocks/myneurva-launches-starrbasetm-to-revolutionize-the-field-of-remote-mental-health-1031705545"
-webUrl: "https://markets.businessinsider.com/news/stocks/myneurva-launches-starrbasetm-to-revolutionize-the-field-of-remote-mental-health-1031705545"
+excerpt: "Myneurva offers concierge-based Quantitative Electroencephalogram and Neurofeedback to anyone with a brain and an internet connection around the globe. Starrbase works via a cloud computing system and artificial intelligence algorithms developed and tested for over ten years."
+publishedDateTime: 2022-08-25T11:49:00Z
+originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-mental-artificial-intelligence-4a3a81b0b49966ded610f9d9e9a44c36"
+webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-mental-artificial-intelligence-4a3a81b0b49966ded610f9d9e9a44c36"
 type: article
-quality: 49
-heat: 49
-published: false
 
 provider:
-  name: Business Insider
-  domain: businessinsider.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://mma.prnewswire.com/media/1883951/Starrbase_Snip5.jpg"
-    width: 400
-    height: 284
-    isCached: true
-
-secured: "9AbfLKnhK22DGycq/1PbOmMIbfjaA4CMxZw1yHsEdIVaUapXIu5vbnfyApdpzFUtfvCtbZW5fsarDYiTaibLs+/6/1ZKu6p/NJTz/CteUmVQybk/hjkzqqyPOljIPBIlhQCEUbNRNQ/70LHHMxv918LwLDrNmBn28NtXszJlxugLkLHsMzBblsIDTwIGsa4Yc1XMqxwCIF2tihZw9bDMop8S6Wh0heeF0RW97cnFjvBbqVVuT+qKqVGBlNzN/N7l50BKDfLZuZBRlh6B7Ov420ruJNtdQqi2/i+9qamqm+HWd1FsIVG+qUfJbsSIVOmmwjx3gVSwnpFMhi/hCKhckiPQ32ZtfupNY9vcmzWwtbQ=;XfDeYEia8503mUUPR5Bxiw=="
+secured: "BJJExiQoEfXN9TCBE0m1mVkSkQIGbd0M2X1urwq2DQdl1LO/xbusAmKmYS4JKuMiNIZfqq/kwrya73jnsZI6Xlj+6BR3KvlQWLFWNYxuOjEhbRzJPnzLTC0QlqNs7NgqcTlbDf4/z4ZiW3tE0aRdQGP+lxBWle/+1NIhqILoPtIYYvAHsgF1qSL61G/jJ5leqjwgMHe1uJ8HYEXVD1D4aXhzrerOaUk05BI0a0TnbS5lKKRJeAMqX8iwyrv49E8ZqgGIkcDx+SGJwhvP1uUldGedauwqRy3Cwh4wbYGaRRErRReeIrAyldDoz9OYm+3LOfe+5VyhpqIgPEZY8yiu+GM1SvZojYinp59AX3NCNME=;8U2/gHyKmz2dU7YOc5mbVw=="
 ---
 
