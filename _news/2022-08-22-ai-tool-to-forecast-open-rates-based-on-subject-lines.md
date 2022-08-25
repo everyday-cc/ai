@@ -7,7 +7,7 @@ originalUrl: "https://www.adnews.com.au/news/ai-tool-to-forecast-open-rates-base
 webUrl: "https://www.adnews.com.au/news/ai-tool-to-forecast-open-rates-based-on-subject-lines"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 300
     height: 225
     isCached: true
+
+related:
+  - title: "TN Forest Dept’s AI-based warning system to cover 13 km of vulnerable railway lines"
+    excerpt: "The plan by the Tamil Nadu Forest Department to install artificial intelligence (AI) based warning system to prevent elephant fatalities on railway lines will cover a stretch of 13 km passing through Madukkarai forest range of Coimbatore Forest Division that has been identified as “vulnerable”."
+    publishedDateTime: 2022-08-25T13:57:00Z
+    webUrl: "https://www.thehindu.com/news/cities/Coimbatore/tn-forest-depts-ai-based-warning-system-to-cover-13-km-of-vulnerable-railway-lines/article65810562.ece"
+    ampWebUrl: "https://www.thehindu.com/news/cities/Coimbatore/tn-forest-depts-ai-based-warning-system-to-cover-13-km-of-vulnerable-railway-lines/article65810562.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/cities/Coimbatore/tn-forest-depts-ai-based-warning-system-to-cover-13-km-of-vulnerable-railway-lines/article65810562.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 51
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/6lyubr/article65810679.ece/alternates/LANDSCAPE_615/elephant.jpg"
+        width: 615
+        height: 383
+        isCached: true
 
 secured: "UEA4AqpYV+GAozYzZx3vMd5Fre/2HkdeI0Le7B9ua9Ta9eit60rWfbHDR5/w6rz3nd993Ml1UwYyPp8DEmjOpkzXD0exbju/R2maM+wr7OqDT3i43f2CKv4WxGt74aKp8QjZuDXzpB5DcyTUE/LlEUtGvrSor6BdlMRBtNjbcbFCCH/v9+ujmIeLbQZ9XHFS64zLICKHWZfyF4uRWO3sBd/RHkTuietov08ANNcC56vZokGrvpV6d/jBxi2kVQTDKGn8Ylf4vrWBRp2rFqqPbWxttRXb4Df3pbiHK17zkh55AWaGlYvIETdxuvCJ3wFRRVrwXn+VEkXiUc5EgpeWMi4zeBhA5WycRsijWDvqT+U=;XuyakWABAlw6cfEBGI0wdQ=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-25T13:00:00Z
 originalUrl: "https://insidehpc.com/2022/08/improving-ai-inference-performance-with-gpu-acceleration-in-aerospace-and-defense/"
 webUrl: "https://insidehpc.com/2022/08/improving-ai-inference-performance-with-gpu-acceleration-in-aerospace-and-defense/"
 type: article
+quality: 29
+heat: 29
+published: false
 
 provider:
   name: insideHPC

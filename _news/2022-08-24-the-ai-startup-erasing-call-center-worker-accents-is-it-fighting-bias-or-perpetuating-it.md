@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/23/voice-accent-tech
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
 type: article
 quality: 48
-heat: 48
+heat: -1
 published: false
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 620
     height: 372
     isCached: true
+
+related:
+  - title: "A startup is using AI to make call center workers sound ‘American’"
+    excerpt: "Sanas says its aim is to cut through some Americans' biases towards minorities. Critics argue their services may make things worse."
+    publishedDateTime: 2022-08-25T14:00:00Z
+    webUrl: "https://www.popsci.com/technology/startup-call-center-voices-ai-american-accent/"
+    ampWebUrl: "https://www.popsci.com/technology/startup-call-center-voices-ai-american-accent/?amp"
+    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/startup-call-center-voices-ai-american-accent/?amp"
+    type: article
+    provider:
+      name: Popular Science
+      domain: popsci.com
+    quality: 57
+    images:
+      - url: "https://www.popsci.com/uploads/2022/08/24/Depositphotos_156054790_XL.jpg?auto=webp"
+        width: 2000
+        height: 1500
+        isCached: true
 
 secured: "K+zrntMyrw2hDNexxuQl5wv1gQDUmgcAQd1yLM0XJqsbm+vFGHF9yIOa12Oj2y6negjWCiHjKGWhHvYbsvZNwyo+6MJKG/OsaiG+PBLoGUM/dyWgCX0fws1a0JsIFGPp1nIRU6++IywDSColSftss74L2SoMlpetFPp0oPj/5IWUbwibE862f7sdGpHUS2lJK5wyCMayxm6UmXS/R1JhC+vEr+oR4mPZ+4NTrcBvRvJvW/pXUrq8aFzP6UUbVoGe2bmKcu3joUidXdDK7o+GiA4v9P4UXCuoM8e0wOEv4SsLvPwNrMkW4qqL+Kr3MGahmwYglw29HGvOZvwAE2X/k5KrBXt++bpTSVbM64cVvMe7qxdBvPald3lI3AB1K0Ei0H+l8l0u2LzL0zx6ioe2Ge+IrL1Y9Befgh5npGJxE9ZTxE6Ic7bHWZlfTN50X3gt15rnetC6wpELWwH90sgSNvo6MuVWLc60ig/cFZ+yS6TcM9EpKLbM4DBC1mbW6KL2KKoKLFx4U1RfthkVSpt0iQ==;PldMjtH2kaPdDOFr8T/KYQ=="
 ---

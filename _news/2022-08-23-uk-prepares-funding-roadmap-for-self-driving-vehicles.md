@@ -80,6 +80,20 @@ related:
         width: 1200
         height: 720
         isCached: true
+  - title: "Self-Driving Vehicles Not Ready for Prime Time, Toyota Says"
+    excerpt: "Toyota engineers express doubts about full self-driving technology during an event highlighting its own technology, including a trailer that follows the “tow” vehicle autonomous instead of being physically connected by a hitch."
+    publishedDateTime: 2022-08-25T14:20:00Z
+    webUrl: "https://www.thedetroitbureau.com/2022/08/self-driving-vehicles-not-ready-for-prime-time-toyota-says/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 24
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/06/Teammate-head-up-display.jpg"
+        width: 1600
+        height: 1067
+        isCached: true
 
 secured: "tIqTpVlhLyXilSEnQzM6K5mODra6Ftb/kCE+DJ1DSP/0UNQCTOJfKQxOEZb3f15IOrVuu9oDojoWmbRHksQSR1OojVpyOGisjbcHV8EtZoSmzFz+buy5RfAi33ZLboOPWYP/Eyfcr0HMA4nUENm4sM2oMo4JA3cR6+8fe0862x9qTIzl8nlZF4MYPJ3BKnDtDQGnq2+ysGac0CVQhYCO6kzAgrGTpfbhbvKufzjNC/GttV64y+Iix4kZuJPdMjwkvrz+DN2aJq3ZLbRgTIxgBEVxCfcOsSd2BJf8VfLzOh9+pfWGLBu2rXIzojSovI9QdcO1Fa3fyCQhDRr/VERqh3h3Fuocb+5WDyMBA2m4iek=;zreXLK+Br1F1dZSD3RxOEw=="
 ---

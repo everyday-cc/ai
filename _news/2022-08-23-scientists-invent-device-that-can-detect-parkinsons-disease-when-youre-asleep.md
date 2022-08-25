@@ -49,6 +49,22 @@ related:
         width: 554
         height: 600
         isCached: true
+  - title: "Artificial intelligence model can detect Parkinson's from breathing patterns"
+    excerpt: "Parkinson's disease is notoriously difficult to diagnose as it relies primarily on the appearance of motor symptoms such as tremors, stiffness, and slowness, but these symptoms often appear several years after the disease onset."
+    publishedDateTime: 2022-08-22T16:22:00Z
+    webUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-parkinson-patterns.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-parkinson-patterns.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-parkinson-patterns.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 58
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-58.jpg"
+        width: 900
+        height: 600
+        isCached: true
   - title: "Now AI can detect Parkinson's disease while you are sleeping"
     excerpt: "Parkinson's disease, a central nervous system disorder that affects movement, sometimes causing tremors, doesn't come with a warning. It is the world's second-most common neurolog"
     publishedDateTime: 2022-08-24T06:45:00Z
@@ -64,22 +80,6 @@ related:
       - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-42184,msid-93747444/robot-ai-brain_istock.jpg"
         width: 600
         height: 450
-        isCached: true
-  - title: "Artificial intelligence model can detect Parkinson's from breathing patterns"
-    excerpt: "Parkinson's disease is notoriously difficult to diagnose as it relies primarily on the appearance of motor symptoms such as tremors, stiffness, and slowness, but these symptoms often appear several years after the disease onset."
-    publishedDateTime: 2022-08-22T16:22:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-parkinson-patterns.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-parkinson-patterns.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-parkinson-patterns.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 56
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-58.jpg"
-        width: 900
-        height: 600
         isCached: true
   - title: "MIT’s new artificial intelligence technology can detect Parkinson’s early using breathing patterns"
     excerpt: "A new MIT-developed artificial intelligence model can detect Parkinson's early on after disease onset from a person's breathing patterns."
@@ -138,6 +138,20 @@ related:
       - url: "https://img.medscape.com/thumbnail_library/shs_220824_old_man_sleeping_800x450.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Artificial intelligence model can detect Parkinson’s from breathing patterns"
+    excerpt: "Now, Dina Katabi, the Thuan (1990) and Nicole Pham Professor in the Department of Electrical Engineering and Computer Science (EECS) at MIT and principal investigator at MIT Jameel Clinic, and her team have developed an artificial intelligence model that ..."
+    publishedDateTime: 2022-08-25T15:14:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/962870"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 34
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8d8886a4-bd40-4f27-8eb6-2a0d3246e4e9/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 225
         isCached: true
   - title: "In early research, an AI model detects signs of Parkinson’s using breathing patterns"
     excerpt: "\"We’ve seen no major breakthroughs for treating Parkinson’s this century, suggesting that the status quo is not working,\" said University of Rochester researcher Ray Dorsey."

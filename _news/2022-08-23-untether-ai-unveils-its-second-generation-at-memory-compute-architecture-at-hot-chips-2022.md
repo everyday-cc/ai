@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Untether AI Unveils Its Second-Generation At-Memory Compute Architecture at HOT CHIPS 2022"
-excerpt: "Untether AITM, the leader in at-memory computation for artificial intelligence (AI) workloads, today announced at the HOT CHIPS 2022 conference its next-generation architecture for accelerating AI inference workloads called speedAI devices,"
-publishedDateTime: 2022-08-23T15:16:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c"
-webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c"
+excerpt: "AI architecture delivers 2 PetaFlops of performance at 30 TeraFlops/W of energy efficiency Untether AITM, the leader in at-memory computation for artificial intelligence (AI) workloads, today announce"
+publishedDateTime: 2022-08-23T15:15:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/08/b28603325/untether-ai-unveils-its-second-generation-at-memory-compute-architecture-at-hot-chips-2022"
+webUrl: "https://www.benzinga.com/pressreleases/22/08/b28603325/untether-ai-unveils-its-second-generation-at-memory-compute-architecture-at-hot-chips-2022"
+ampWebUrl: "https://www.benzinga.com/amp/content/28603325"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28603325"
 type: article
-quality: 46
+quality: 27
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Benzinga.com
+  domain: benzinga.com
 
 topics:
-  - AI Hardware
   - AI
-  - Machine Learning
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Untether AI Pulls the Curtain Rope For Its Next-Gen Inferencing System"
@@ -70,7 +64,16 @@ related:
         width: 2560
         height: 1536
         isCached: true
+  - title: "Untether Unveils 2-PFLOPS AI Chip, Edge Roadmap"
+    excerpt: "At Hot Chips this week, Untether unveiled its second-gen architecture for AI inference, the first chip using this architecture, as well as plans to expand to edge and endpoint accelerators."
+    publishedDateTime: 2022-08-23T00:00:00Z
+    webUrl: "https://www.design-reuse.com/news/52539/untether-2-pflops-ai-chip.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 34
 
-secured: "R2Kzd90elN7+JOkQDzApbosLP7xF9TsqrSBKMHL0wFk1oOI9PDYgp6RulOl86ZqzAJ4STHfcqOEvYbiBm8DQT8nHykaNlkoOpcH/z4x+S/3tqfiwBLUlqH0l4cmlXfgKcwa4AOUSbIiL++0nKP4xsyaYGDkIqiGK7FeMyRhsXsPm9c9FtonkyYA3uMGDXmIOL7iE1faZyhfB+Z0TsBKB64NHo76gYqtIqma5Dpyk4Eic921fbs2Jdn2o1Wv8JdDbAB/dN/SYFe5nMLycz/6zJRXPAZq2nDDsdYXDIxS8uq1GCUs2/UA6xtdXaRI1sXx2q9SYDLNls0qOD5ttpcIr2W5lKtlKP/r3LHmrn2+/ruk=;DPMQdxHww3jkCkkYh6vo0A=="
+secured: "HyERu/bcaTeF8M+pnE9ICCdfUIjMAcoPnRAfWlxFcGAUWGQIPGNQTpmlBq55J4JPgiakhOnADRB76iuG9up1+ylDAYPZSVtn1J5Ap+iqGxc2OcV/cfpCoenYGd7Xjdo3PxuLEnTYjcjUsYLy6SpM3aw0cj//j9Ojv+cqdqM65H+IuUxJei1QXqcchN28vwiFWdJXiNvmFxwMU0FGPv4f6sFcqdVPi4vyT3KAvE4QJE1xnHMVKTR64QY9CNtv16fOv28UKFCxFxbwngn5szY0rK7c67htTF5+H5Bmal77rzsbSHNb5TTBTXfzj91rl4lMS51kYqQddX5aaSCf9BfTKL6Pb8RwTxy8XrBUoeBguaQ=;SfxrUUQ5ZNVKyw4L4k/ukg=="
 ---
 

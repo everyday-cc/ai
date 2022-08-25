@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence In Livestock Farming Market To Record An Exponential CAGR By 2030 -By Insightace Analytic"
+    excerpt: "InsightAce Analytic Pvt. Ltd. announces the release of a market assessment report on the 'Global Artificial Intelligence in Livestock Farming Market - by Component (Solution/ Software/ App, IoT Sensors,"
+    publishedDateTime: 2022-08-25T12:30:00Z
+    webUrl: "https://menafn.com/1104755124/Global-Artificial-Intelligence-In-Livestock-Farming-Market-To-Record-An-Exponential-CAGR-By-2030-By-Insightace-Analytic"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 14
+    images:
+      - url: "https://menafn.com/updates/pr/2022-08/25/EP_3b9ecimage_story.jpeg"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Urban Security Screening Market To Accrue $22.3 Bn, Globally, By 2031 At 10.1% CAGR: Allied Market Research'"
     excerpt: "Rise in the smart cities generated demand for security systems at airports, thereby boosting the growth of the global urban security screening ma"
     publishedDateTime: 2022-08-24T12:32:00Z

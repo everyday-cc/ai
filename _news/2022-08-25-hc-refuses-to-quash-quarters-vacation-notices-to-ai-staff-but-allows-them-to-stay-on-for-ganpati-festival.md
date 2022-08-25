@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-25T13:12:00Z
 originalUrl: "https://www.outlookindia.com/national/hc-refuses-to-quash-quarters-vacation-notices-to-ai-staff-but-allows-them-to-stay-on-for-ganpati-festival-news-218855"
 webUrl: "https://www.outlookindia.com/national/hc-refuses-to-quash-quarters-vacation-notices-to-ai-staff-but-allows-them-to-stay-on-for-ganpati-festival-news-218855"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Outlookindia

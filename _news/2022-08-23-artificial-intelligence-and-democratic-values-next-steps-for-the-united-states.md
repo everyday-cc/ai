@@ -8,8 +8,8 @@ webUrl: "https://www.cfr.org/blog/artificial-intelligence-and-democratic-values-
 ampWebUrl: "https://www.cfr.org/blog/artificial-intelligence-and-democratic-values-next-steps-united-states?amp"
 cdnAmpWebUrl: "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/artificial-intelligence-and-democratic-values-next-steps-united-states?amp"
 type: article
-quality: 55
-heat: 55
+quality: 57
+heat: 57
 published: false
 
 provider:

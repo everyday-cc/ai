@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-25T11:49:00Z
 originalUrl: "https://apnews.com/press-release/pr-newswire/technology-health-mental-artificial-intelligence-4a3a81b0b49966ded610f9d9e9a44c36"
 webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-mental-artificial-intelligence-4a3a81b0b49966ded610f9d9e9a44c36"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

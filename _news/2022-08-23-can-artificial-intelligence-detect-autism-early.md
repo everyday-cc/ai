@@ -8,9 +8,9 @@ webUrl: "https://www.medindia.net/news/can-artificial-intelligence-detect-autism
 ampWebUrl: "https://www.medindia.net/amp/news/can-artificial-intelligence-detect-autism-early-208373-1.htm"
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-detect-autism-early-208373-1.htm"
 type: article
-quality: 59
-heat: 69
-published: false
+quality: 61
+heat: 71
+published: true
 
 provider:
   name: Medindia

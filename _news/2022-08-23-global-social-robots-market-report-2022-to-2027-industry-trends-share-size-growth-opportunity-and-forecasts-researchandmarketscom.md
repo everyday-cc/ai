@@ -229,6 +229,15 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 11
+  - title: "Data Wrangling Market Research Insights With Upcoming Trends, Opportunities, Competitive Analysis, Forecast To 2022-2031"
+    excerpt: "Recognition software consists of various modules used for object, voice, speech, image, gesture, facial, and character recognition. The recognition software provides highly integrated tools that help bot developers integrate AI into the software to enable ..."
+    publishedDateTime: 2022-08-25T11:56:00Z
+    webUrl: "https://menafn.com/1104754933/Data-Wrangling-Market-Research-Insights-With-Upcoming-Trends-Opportunities-Competitive-Analysis-Forecast-To-2022-2031"
+    type: article
+    provider:
+      name: MENAFN
+      domain: menafn.com
+    quality: 0
 
 secured: "C/esrtIAGoNdQyNy7Hx9phLPh9LmBHRmP9B0ssuaTAlZLlAoGGvnacTYTYhn4Fwiq+/Fi/3qk2UZP/nS3Tma/JYeJyeJBZlzw4UbThuZ3ZL6kEGVLzB9s9eziVoGhW1EzaJJucwSHA2Ttwe1B2W1KoinIQUHRi7tviniEbKIuPiekpJyOguwYa5wpBUNmfqIpAa2RaoCvYSPRMJUZuKtdKmVTlfvEc7aXaKUBPfoIRouH4hZjoUaMOmaKKrM0lJvf7E/QTUNzuKi4IIhLFw3WOZiet2cclt/PBMB2aHycef9hBsMvN3ndFNOYEpCFDrww9cgHpev/DLXWqdjbLDzT36rnfcKzmZ4hihfH/phgkU=;D65Ej+d/YuHS22HHlEkGfw=="
 ---

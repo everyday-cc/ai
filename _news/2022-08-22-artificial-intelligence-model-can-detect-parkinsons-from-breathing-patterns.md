@@ -8,7 +8,7 @@ webUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-parkinso
 ampWebUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-parkinson-patterns.amp"
 cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-parkinson-patterns.amp"
 type: article
-quality: 56
+quality: 58
 heat: -1
 published: false
 
@@ -131,6 +131,20 @@ related:
       - url: "https://img.medscape.com/thumbnail_library/shs_220824_old_man_sleeping_800x450.jpg"
         width: 800
         height: 450
+        isCached: true
+  - title: "Artificial intelligence model can detect Parkinson’s from breathing patterns"
+    excerpt: "Now, Dina Katabi, the Thuan (1990) and Nicole Pham Professor in the Department of Electrical Engineering and Computer Science (EECS) at MIT and principal investigator at MIT Jameel Clinic, and her team have developed an artificial intelligence model that ..."
+    publishedDateTime: 2022-08-25T15:14:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/962870"
+    type: article
+    provider:
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 34
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8d8886a4-bd40-4f27-8eb6-2a0d3246e4e9/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 225
         isCached: true
   - title: "In early research, an AI model detects signs of Parkinson’s using breathing patterns"
     excerpt: "\"We’ve seen no major breakthroughs for treating Parkinson’s this century, suggesting that the status quo is not working,\" said University of Rochester researcher Ray Dorsey."

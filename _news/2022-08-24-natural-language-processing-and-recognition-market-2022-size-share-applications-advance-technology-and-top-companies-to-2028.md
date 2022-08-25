@@ -233,6 +233,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Data Wrangling Market Research Insights With Upcoming Trends, Opportunities, Competitive Analysis, Forecast To 2022-2031"
+    excerpt: "Recognition software consists of various modules used for object, voice, speech, image, gesture, facial, and character recognition. The recognition software provides highly integrated tools that help bot developers integrate AI into the software to enable ..."
+    publishedDateTime: 2022-08-25T11:56:00Z
+    webUrl: "https://menafn.com/1104754933/Data-Wrangling-Market-Research-Insights-With-Upcoming-Trends-Opportunities-Competitive-Analysis-Forecast-To-2022-2031"
+    type: article
+    provider:
+      name: MENAFN
+      domain: menafn.com
+    quality: 0
 
 secured: "spiahIySOWV47qvbh8Cu29zFuBqN7rUvNmihJdzVJuiHQv4herH4pDxAPXij7No7BfTwPFY1Y7WMZCALEr7qx+/fhCHFQzsPwkApwFSPb6YL4wNjSw4xJMBDioJA475g/5NiW3mCeL/lDZPYvnCe2QcpnldhpCRbDiLsvz2a5VUQNMWry7L8efnzUGTCtt+geUjv0dC4itCsXnZydsJps5aYHAYr4F0b9nPBJadmJ8hm2m/ZMks/WPHrQzEAkgpWhdOPVwiYAFkLLSuR3ZCW0+DSXuQ2lyNH0W4LbdFWWovcE3FRs8tttsnu7/6KhBdFnqhxThgCSOQrYNvcbPWKCy+IsSuVl7qBVV+4YJOzyL8=;nmDaziNlXikKOron0E2p+g=="
 ---

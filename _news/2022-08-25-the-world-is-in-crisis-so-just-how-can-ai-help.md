@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-25T09:32:00Z
 originalUrl: "https://www.theregister.com/2022/08/25/the_world_is_in_crisis/"
 webUrl: "https://www.theregister.com/2022/08/25/the_world_is_in_crisis/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: theregister

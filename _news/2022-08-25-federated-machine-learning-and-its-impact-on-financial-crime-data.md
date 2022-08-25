@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-25T13:00:00Z
 originalUrl: "https://insidebigdata.com/2022/08/25/federated-machine-learning-and-its-impact-on-financial-crime-data/"
 webUrl: "https://insidebigdata.com/2022/08/25/federated-machine-learning-and-its-impact-on-financial-crime-data/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: insidebigdata.com

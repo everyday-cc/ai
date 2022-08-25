@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-22T13:06:00Z
 originalUrl: "https://www.insidermonkey.com/blog/11-best-artificial-intelligence-stocks-to-buy-now-1058861/"
 webUrl: "https://www.insidermonkey.com/blog/11-best-artificial-intelligence-stocks-to-buy-now-1058861/"
 type: article
-quality: 19
+quality: 21
 heat: -1
 published: false
 

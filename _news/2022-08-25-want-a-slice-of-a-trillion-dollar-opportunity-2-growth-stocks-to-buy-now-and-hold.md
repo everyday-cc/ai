@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-25T12:19:00Z
 originalUrl: "https://www.nasdaq.com/articles/want-a-slice-of-a-trillion-dollar-opportunity-2-growth-stocks-to-buy-now-and-hold"
 webUrl: "https://www.nasdaq.com/articles/want-a-slice-of-a-trillion-dollar-opportunity-2-growth-stocks-to-buy-now-and-hold"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: Nasdaq

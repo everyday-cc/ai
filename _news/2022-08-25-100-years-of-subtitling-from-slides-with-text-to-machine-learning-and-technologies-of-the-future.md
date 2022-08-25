@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-25T11:47:00Z
 originalUrl: "https://www.tvbeurope.com/production-post/100-years-of-subtitling-from-slides-with-text-on-them-to-machine-learning-and-technologies-of-the-future"
 webUrl: "https://www.tvbeurope.com/production-post/100-years-of-subtitling-from-slides-with-text-on-them-to-machine-learning-and-technologies-of-the-future"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: tvbeurope.com

@@ -114,7 +114,7 @@
       "originalUrl": "https://www.nextplatform.com/2022/08/23/untether-ai-pulls-the-curtain-rope-for-its-next-gen-inferencing-system/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -320,6 +320,40 @@
       "provider": {
         "name": "Gulf News",
         "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-20-iplcontent-presents-voiceimage-recognition-technologies-for-in-car-apps.md",
+      "title": "IpLContent Presents Voice/Image Recognition Technologies for In-Car Apps",
+      "excerpt": "but the challenge of this resides in the complexity of voice recognition. You may wish to look up directions with Google Maps, play a playlist from Spotify, or call your friend from your car all ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/08/b28570001/iplcontent-presents-voiceimage-recognition-technologies-for-in-car-apps",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/b28570001/iplcontent-presents-voiceimage-recognition-technologies-for-in-car-apps",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T10:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1202,10 +1236,10 @@
     {
       "path": "_news/2022-08-16-natural-language-processing-nlp-market-intelligence-report-global-forecast-to-2027-researchandmarketscom.md",
       "title": "Natural Language Processing (NLP) Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com",
-      "excerpt": "The \"Natural Language Processing Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Natural Language Processing Market is ...",
+      "excerpt": "The \"Natural Language Processing Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Natural Language Processing Market is projected to reach USD 40.",
       "sourceUrl": null,
-      "webUrl": "https://www.wsiltv.com/news/illinois/natural-language-processing-nlp-market-intelligence-report---global-forecast-to-2027--/article_42a9a5a7-967b-5eee-80ae-b8652cf90343.html",
-      "originalUrl": "https://www.wsiltv.com/news/illinois/natural-language-processing-nlp-market-intelligence-report---global-forecast-to-2027--/article_42a9a5a7-967b-5eee-80ae-b8652cf90343.html",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-natural-language-processing-nlp-market-intelligence-report-global-forecast-to-2027-researchandmarketscom",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-16-natural-language-processing-nlp-market-intelligence-report-global-forecast-to-2027-researchandmarketscom",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -1215,11 +1249,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T03:10:00-07:00",
+      "publishedDateTime": "2022-08-16T02:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "WSIL-TV",
-        "domain": "wsiltv.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1328,58 +1362,6 @@
         "Natural Language Processing",
         "AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-5-ways-ai-is-shaping-the-future-of-investment-research.md",
-      "title": "5 Ways AI is shaping the future of investment research",
-      "excerpt": "Financial analysts need access to high-quality data and information on emerging trends to deliver timely, insightful research and maintain their competitive edge.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bloomberg.com/professional/blog/5-ways-ai-is-shaping-the-future-of-investment-research-draft/",
-      "originalUrl": "https://www.bloomberg.com/professional/blog/5-ways-ai-is-shaping-the-future-of-investment-research-draft/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2FScreenshot-NLP.png&width=800",
-          "width": 800,
-          "height": 522,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-12T03:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bloomberg",
-        "domain": "bloomberg.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

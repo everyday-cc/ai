@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-25T13:18:00Z
 originalUrl: "https://bc.ctvnews.ca/germ-fighting-robots-disinfected-62-000-rooms-during-covid-19-pandemic-1.6040832"
 webUrl: "https://bc.ctvnews.ca/germ-fighting-robots-disinfected-62-000-rooms-during-covid-19-pandemic-1.6040832"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: CTV News

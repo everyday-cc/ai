@@ -2,6 +2,49 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-06-28-arkx-laboratories-launches-custom-wake-word-and-command-sets-for-brand-voice-experiences.md",
+      "title": "ArkX Laboratories Launches Custom Wake-Word and Command Sets for Brand Voice Experiences",
+      "excerpt": "ArkX Laboratories, a leading provider of advanced far-field voice capture and speech recognition technology, announced the launch of EveryWord™ Voice Control featuring the Sensory TrulyHandsfree™ SDK technology suite.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-84b118b5dacd4af18c29a551e91a13d1",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-84b118b5dacd4af18c29a551e91a13d1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-speechmatics-raises-62m-for-its-inclusive-approach-to-speech-to-text-ai.md",
       "title": "Speechmatics raises $62M for its inclusive approach to speech-to-text AI",
       "excerpt": "I wrote about an AI startup that’s building technology that can alter, in real time, the accent of someone’s speech. But what if the AI goal instead is to make it possible for people speaking in whatever way they do,",
@@ -1319,50 +1362,6 @@
       "provider": {
         "name": "Businessworld",
         "domain": "businessworld.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-eros-investments-partners-with-wipro-to-scale-ai-ml-powered-content-localization-solution.md",
-      "title": "Eros Investments partners with Wipro to scale AI & ML powered content localization solution",
-      "excerpt": "Accurate automated translation solution will accelerate subtitling and dubbing of films and television series to extend global reach.",
-      "sourceUrl": null,
-      "webUrl": "https://www.indiainfoline.com/article/news-top-story/eros-investments-partners-with-wipro-to-scale-ai-ml-powered-content-localization-solution-122061700136_1.html",
-      "originalUrl": "https://www.indiainfoline.com/article/news-top-story/eros-investments-partners-with-wipro-to-scale-ai-ml-powered-content-localization-solution-122061700136_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://content.indiainfoline.com/_media/iifl/img/article/default/news.jpg",
-          "width": 350,
-          "height": 233,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.indiainfoline.com/article-amp/news-top-story/eros-investments-partners-with-wipro-to-scale-ai-ml-powered-content-localization-solution-122061700136_1.html",
-      "cdnAmpWebUrl": "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/eros-investments-partners-with-wipro-to-scale-ai-ml-powered-content-localization-solution-122061700136_1.html",
-      "publishedDateTime": "2022-06-17T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Infoline",
-        "domain": "indiainfoline.com",
         "images": null,
         "publishers": null,
         "authors": null

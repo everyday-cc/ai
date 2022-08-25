@@ -24,6 +24,17 @@ images:
     height: 480
     isCached: true
 
+related:
+  - title: "Facial recognition algorithms show genetic similarities in genetically unrelated look-alike humans"
+    excerpt: "In a new study, researchers identified look-alike humans who were genetically unrelated using facial recognition (FR) algorithms for multi-omics studies."
+    publishedDateTime: 2022-08-25T13:39:00Z
+    webUrl: "https://www.news-medical.net/news/20220825/Facial-recognition-algorithms-show-genetic-similarities-in-genetically-unrelated-look-alike-humans.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 5
+
 secured: "wGSh+WbB7lV+pKU/egPAwzNT9YuEkvka37rBhy+E++egWcTEIsi+u8UOUXXyO6ELmAeEvEK642wPkun1GuqIzIcuoYtrm5HdAp+50zOYpiytuvMYQXfE69rkbvONHohuDAJ9u/Mpsm/TWQZAZwdoLUKazhM/wWA6MePs15KOpaiXuw7g2mLw5K2G/hD4unH6s50o6LmhMbZq5oWYaCODdvfZmQku4uhVQbQ3SEEriiiNsPu4TNc3OcSwtNVvmhhb8rL+Z0kAMg9sQzLWK85w7HN4NvH/q0RNqWlwwjrO82gJ790jFzDnZKZaLlAwQZYzD9QVpGWMGHo6283ooEC+0TL/TXuQkQHNyj+iVgzrOz0=;MsDfKJGwftoqUXHlzGb94A=="
 ---
 

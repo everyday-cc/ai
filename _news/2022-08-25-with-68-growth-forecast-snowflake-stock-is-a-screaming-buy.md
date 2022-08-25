@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-25T12:53:00Z
 originalUrl: "https://www.forbes.com/sites/petercohan/2022/08/25/with-68-growth-forecast-snowflake-stock-is-a-screaming-buy/"
 webUrl: "https://www.forbes.com/sites/petercohan/2022/08/25/with-68-growth-forecast-snowflake-stock-is-a-screaming-buy/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Forbes

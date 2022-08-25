@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Korea lacks data to operate autonomous vehicles"
-excerpt: "Baidu conducted a test drive of 21 million ... As of last year, more than 1,400 cars were launched on a self-driving pilot service in the U.S. As a result, the U.S. and China are conducting ..."
-publishedDateTime: 2022-08-12T16:08:00Z
-originalUrl: "https://www.koreatimes.co.kr/www/nation/2022/08/419_334345.html"
-webUrl: "https://www.koreatimes.co.kr/www/nation/2022/08/419_334345.html"
+excerpt: "Amid intensifying competition to gain an edge in the self-driving vehicle market, concerns are rising that Korea might lose in the game as it lacks data to implement autonomous driving. Industry experts stress that a better environment should be established to accumulate autonomous driving data as in other leading countries such as China and the U."
+publishedDateTime: 2022-08-12T07:08:00Z
+originalUrl: "https://www.koreatimes.co.kr/www/tech/2022/08/419_334345.html"
+webUrl: "https://www.koreatimes.co.kr/www/tech/2022/08/419_334345.html"
 ampWebUrl: "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=334345"
 cdnAmpWebUrl: "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=334345"
 type: article
@@ -23,6 +23,6 @@ images:
     height: 653
     isCached: true
 
-secured: "kDNT5aPOW9Ygr/WO6rYZnUVvDDYYvsDwgsdJ1vIoiTdYkPp1QTTUCTt9fuhMrx50seT/YB9M1VnxAOIQEYMoDf2gkaOyd9TVWe6lNA9AvMHUpmUellmiugKN0fph8dU7uLHdt9iF+LULV93nVIGmePHN8NPfAroCLqCnUZDemWt84WNMzmMMOx5whOto/tCZlP0n33kzi830YcFoA7QbMWNYPAhaP2/47MrhpbhmQMB2/POxne5pq1Zo2cxW7QpUl9e/UK/Gkr2wpOCtPo9AhWWAQxWmrrg/ZJGyFOSlaNlXiF+pz/E/bHKWz4chf5WwHa8eOSmUQb3299G+LxyA96GdUsd2PkGJu8lsXk2904w=;zGhbHd5Gw7ZIxgJMNPxCbw=="
+secured: "4rhvqkYomhctfpTYMTZdhp2gCAY83VKweAd5/zl2+t1NnEhyJzJtOZt5n/wBhKXtZAkmzAgXWSws9XdCfmqd5MJV/ZXgRcLI7dYLAT5Tfk0Hm63cBMcddAqK+akZzAaVpljR1gTPXrOQm2PLlA3ewwUh8L53QB97weti9F8ZAdFCsY/FquxZGAn72J3ym30heZaVitSAgU5MuC3Hi6FQ1gypXaSJ82zmaAIHb5xK+Z7A0mHaLS9JDr6xPlmAHZvqILxVhHvcrWeU6lSnB7Cf+52z4XFZRhZ6Flw1UCmsDgkVL2312KKqB6waCBW1XOCUgy0+Kx+9ny2LD2ahgNEWRbX6+XNI66LEXUKxrhAe+wc=;R2oor4YP8ieNch8gz21e2A=="
 ---
 

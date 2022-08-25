@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-for-security-market-size-share-growth-2022-key-players-revenue-trends-opportunities-and-regional-forecast-to-2028-2022-08-23"
 type: article
 quality: 60
-heat: 220
+heat: 230
 published: true
 
 provider:
@@ -233,6 +233,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "Data Wrangling Market Research Insights With Upcoming Trends, Opportunities, Competitive Analysis, Forecast To 2022-2031"
+    excerpt: "Recognition software consists of various modules used for object, voice, speech, image, gesture, facial, and character recognition. The recognition software provides highly integrated tools that help bot developers integrate AI into the software to enable ..."
+    publishedDateTime: 2022-08-25T11:56:00Z
+    webUrl: "https://menafn.com/1104754933/Data-Wrangling-Market-Research-Insights-With-Upcoming-Trends-Opportunities-Competitive-Analysis-Forecast-To-2022-2031"
+    type: article
+    provider:
+      name: MENAFN
+      domain: menafn.com
+    quality: 0
 
 secured: "jYG9DkYmaYDlgLlu00tupyRiko5aII5f76zLUoZQOhzTTwoBxZmRVM9R3d7iT2oMlVWWcD4+VzY/NmThpSiEBtEVuEZoAHTZ/rt2mi4grYuKvtlaPmSxmp4hXeZOHLyQpdRq7XQg3nj/niJox4LzTZauCUQK7hz86zNC0Q4WAEm6eJgCpjBpeLN83tg3jGZFnwJv0rTl9qTYnOa7mwPwWu94RKpgNRjmWetlpuwJ7zqjVuk6IWIC1fintGAg3XIlpw1o+4XFLI0RZQn+Z6cMw66jqqqqaN13Fw+8GlXuWlhobSADt+hmfR8pnZRQyfr+MgzhinwlExq12Tx36TnKSh0ToX/jIRPxtcnwrsEiHeU=;kkhF95qLvjwyH3ASrsZhMQ=="
 ---

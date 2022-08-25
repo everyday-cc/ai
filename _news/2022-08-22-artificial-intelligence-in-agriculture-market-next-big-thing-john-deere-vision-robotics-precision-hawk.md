@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-22T07:53:00Z
 originalUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-agriculture-market-next-big-thing-john-deere-vision-robotics-precision-hawk"
 webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-in-agriculture-market-next-big-thing-john-deere-vision-robotics-precision-hawk"
 type: article
+quality: 31
+heat: 31
+published: false
 
 provider:
   name: Digital Journal

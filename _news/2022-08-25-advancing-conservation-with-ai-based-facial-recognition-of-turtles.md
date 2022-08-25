@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/advancing-conservation-with-ai-based
 webUrl: "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles"
 type: article
 quality: 106
-heat: 176
+heat: 196
 published: true
 
 provider:
@@ -76,6 +76,20 @@ related:
         width: 330
         height: 300
         isCached: true
+  - title: "Perception of Robots and AI as Threats to Jobs in Countries with Social Inequality"
+    excerpt: "According to new research by scientists from the University of Central Florida, employees in countries with more income and social discrimination were more likely to see artificial intelligence and robots as threats to jobs."
+    publishedDateTime: 2022-08-25T15:35:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13181"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 48
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13181_16614213882438205.jpg"
+        width: 1200
+        height: 800
+        isCached: true
   - title: "Do I Know You? How Flawed is Facial Recognition?"
     excerpt: "The Viola-Jones algorithm is an object-recognition framework that allows the detection of image features in real-time and is one of the most powerful algorithms of its time. However, the tests’ results were disappointing regarding the accuracy levels ..."
     publishedDateTime: 2022-08-22T11:31:00Z
@@ -89,6 +103,20 @@ related:
       - url: "https://www.electropages.com/storage/app/media/2022/Aug/ai-facial-recognition-og.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Rising Murder Rate Prompts Reversal, Revision of Facial Recognition Bans"
+    excerpt: "A number of cities and states have reversed or altered their facial recognition bans after recognizing a need for the technology."
+    publishedDateTime: 2022-08-25T14:42:00Z
+    webUrl: "https://www.campussafetymagazine.com/news/rising-murder-rate-prompts-reversal-revision-of-facial-recognition-bans/"
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 38
+    images:
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2022/08/New-Orleans-Adobe-SeanPavonePhoto.jpeg"
+        width: 500
+        height: 300
         isCached: true
   - title: "Lossy image compression negatively affects facial recognition algorithms, research shows"
     excerpt: "Experimental research by a team from the Department of Computer Science in the University of Durham, UK, demonstrates that image compression techniques that remove data have a negative bearing on the way facial recognition algorithms function with regard ..."

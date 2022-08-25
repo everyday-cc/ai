@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-23T00:00:00Z
 originalUrl: "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/"
 webUrl: "https://hackaday.com/2019/11/04/how-smart-are-ai-chips-really/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Hackaday

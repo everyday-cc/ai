@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-25T13:50:00Z
 originalUrl: "https://www.prnewswire.co.uk/news-releases/telematics-provider-abax-enters-new-business-sector-motor-insurance-using-ai-analysis-from-greater-than-826264414.html"
 webUrl: "https://www.prnewswire.co.uk/news-releases/telematics-provider-abax-enters-new-business-sector-motor-insurance-using-ai-analysis-from-greater-than-826264414.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: PR Newswire

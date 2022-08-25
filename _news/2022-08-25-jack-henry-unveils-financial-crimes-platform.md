@@ -1,0 +1,29 @@
+---
+category: news
+title: "Jack Henry unveils financial crimes platform"
+excerpt: "Jack Henry™ (Nasdaq:JKHY) announced today the development of Jack Henry Financial Crimes DefenderTM, the company’s next-generation financial crimes platform."
+publishedDateTime: 2022-08-25T14:33:00Z
+originalUrl: "https://www.finextra.com/pressarticle/93831/jack-henry-unveils-financial-crimes-platform"
+webUrl: "https://www.finextra.com/pressarticle/93831/jack-henry-unveils-financial-crimes-platform"
+type: article
+quality: 24
+heat: 24
+published: false
+
+provider:
+  name: Finextra
+  domain: finextra.com
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://www.finextra.com/about/finextra-logo.png"
+    width: 512
+    height: 512
+    isCached: true
+
+secured: "MotNpzW+KdIwG80ITJ/BsPVA9nEyWhtFPJ8iSvlfgmcjhGknVRq9jhZqCeCUNODVD0PWRuvkIxrJZfPtc0/88Nhtyx4nOg3Wy9WEeE2ou+XRAN5liRxaSCcNRPqORLPrTx7lgrMmHoZpaNpUftaQllZAqAlZwbHgey7UoUngmrFycB8iXH+aNsXPCP85SFMNkYrxN8PQMWdERr4i5xjDtLVWezThKyL9P2ymlbDfgQS2ohEiIpQUar+cujyhMfyqu0RGGy5jhmv188AlHHMUnp12Z4toPA/LthzyZSvbN2O5/3NYMP9SR86fev+ciePH/ZBLp5QD90yRpQldn72vSXzYAVUlJMdaq8eI2ZVXbl0=;Rb1bxxDqCG6jXrB0qJM5ZQ=="
+---
+

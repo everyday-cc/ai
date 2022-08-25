@@ -2,19 +2,19 @@
 category: news
 title: "Capitol Records drops artificial intelligence rapper after just one week"
 excerpt: "The AI-created rapper named FN Meka was meant to be the first augmented reality music artists to be signed to a major label."
-publishedDateTime: 2022-08-25T01:34:00Z
-originalUrl: "https://www.thedenverchannel.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
-webUrl: "https://www.thedenverchannel.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
-ampWebUrl: "https://www.thedenverchannel.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week?_amp=true"
-cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week?_amp=true"
+publishedDateTime: 2022-08-25T12:56:00Z
+originalUrl: "https://www.wkbw.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
+webUrl: "https://www.wkbw.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
+ampWebUrl: "https://www.wkbw.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week?_amp=true"
+cdnAmpWebUrl: "https://www-wkbw-com.cdn.ampproject.org/c/s/www.wkbw.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week?_amp=true"
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: 7News and TheDenverChannel.com
-  domain: thedenverchannel.com
+  name: WKBW
+  domain: wkbw.com
 
 topics:
   - AI
@@ -105,6 +105,6 @@ related:
       domain: popsci.com
     quality: 17
 
-secured: "EqL6mlmWseVF4YUGk9YER+NpZuYN8S6u8vQnVwwsxatIRCONV1v9GIK3p5qszy0aGx1e2Hii7fdu0dU2jAMvl0WTR3MbJhw8yxTZcDElx2JZ/xLgahbuyjIg4YGEWSx5CkaPkE64/okOSE6U4/eiW9oaNpKJ8JZZr8PA9oJPV8aw6QmGNp+3alEU80c/s10qaBDIUP9gugBtJkfW9F63nUpXq2z5rdY7Yz08slj5uc43jTUB2HQCYa/u9BgJSSLQX6FEcTqKXR7qhumTnrw4AmlyLP6IxvWWZ9F20bMrdU3zCbn6xcbjH1OPwmlkQulnQxrAsnm0JTKKx91ZuZa3BeCaFJPC3AftrtW78JPwSBzA+AUL7ha9YxAH7R/Cs+9X1o/TqBN2eCObIThJyADvEv33oKqMh0LJLChxd8/OWm/aumijRu0tOamTySaDHgDmAPpNjqVX+534Tun/pNwt37MEz3r5t33XZS0TNaj4bRHIjzzR9BkYoZhKSm4p1dMtPHtfbzO9aLEwHSfeKPhrQA==;74jOf6wCZyE9WbmfFOZQ/g=="
+secured: "0kO2WtN3TDbNI+cdMGven9StSQpZamodZqZRH1saqlcq6hX5t8Yb1driVcFHzf92nZ1zQHA4SqBn6ca5qiI8YQHIsPK3mSAURKDGI2vNk5jHPn9NBCZqJmLLfjhfIKYQj7EfVsI2TzBzN1egcIfyGsPgg7/4P76Y9SWWy8Xzei+dNLkDMi4tDfG0cy5yhs54saz1+g8mdE3ubSxwWbqddLrhq1VEpm1oK1hvNYF9WZaUgZt7HLomsSVZ7rqS9kEoZSbCDMddTde3JrBCiMU7H1QWMlaWDMDtB0Mk4onNmsioPPRSFl5xbka01F7UuHqJJZsiIIuMAovQNw7guaPfToWj/aNF6MWH6w0GBsN8YhU=;XtW0Q8Y1C7ECDI1dQN1KFA=="
 ---
 

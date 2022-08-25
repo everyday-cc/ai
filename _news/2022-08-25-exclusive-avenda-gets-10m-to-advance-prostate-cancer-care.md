@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-25T12:00:00Z
 originalUrl: "https://www.axios.com/pro/health-tech-deals/2022/08/25/avenda-health-v-capital-prostate-cancer-artificial-intelligence-ai"
 webUrl: "https://www.axios.com/pro/health-tech-deals/2022/08/25/avenda-health-v-capital-prostate-cancer-artificial-intelligence-ai"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Axios

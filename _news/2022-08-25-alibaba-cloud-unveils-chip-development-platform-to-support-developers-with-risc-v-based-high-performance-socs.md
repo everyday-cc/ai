@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-25T13:38:00Z
 originalUrl: "https://www.design-reuse.com/news/52536/alibaba-cloud-risc-v-chip-development-platform.html"
 webUrl: "https://www.design-reuse.com/news/52536/alibaba-cloud-risc-v-chip-development-platform.html"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Design-Reuse
@@ -14,6 +17,45 @@ provider:
 topics:
   - AI Hardware
   - AI
+
+related:
+  - title: "Imagination’s GPU and neural processor in Alibaba Risc-V chip"
+    excerpt: "Alibaba Group's T-Head chip design company has adopted Imagination Technologies B-Series GPU and Series3NX neural network accelerator for an artificial"
+    publishedDateTime: 2022-08-25T15:24:00Z
+    webUrl: "https://www.electronicsweekly.com/news/products/micros/imaginations-gpu-and-neural-processor-in-alibaba-risc-v-chip-2022-08/"
+    type: article
+    provider:
+      name: Electronics Weekly
+      domain: electronicsweekly.com
+    quality: 56
+    images:
+      - url: "https://static.electronicsweekly.com/wp-content/uploads/2017/11/29070024/armrisc.png"
+        width: 512
+        height: 512
+        isCached: true
+  - title: "Imagination's GPU and AI Accelerator Licensed for the latest AIoT RISC-V-based applications"
+    excerpt: "Imagination Technologies announces that its IMG B-Series GPU and PowerVR Series3NX NNA cores have been licensed for the latest RISC-V-based SoCs of Alibaba Group’s T-Head Semiconductor for AIoT (Artificial Intelligence of Things) applications."
+    publishedDateTime: 2022-08-25T14:56:00Z
+    webUrl: "https://www.design-reuse.com/news/52537/imagination-gpu-ai-accelerator-alibaba-t-head-aiot-risc-v.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 44
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage52537/Imagination_technologies_logo.png"
+        width: 900
+        height: 500
+        isCached: true
+  - title: "Alibaba Cloud unveils chip development platform"
+    excerpt: "Wujian 600 helps global developers in the design of high-performance Systems-on-Chip (SoCs). Alibaba Cloud unveils chip development platform. AI, Alibaba, alibaba cloud, Wujian 600. Business."
+    publishedDateTime: 2022-08-24T13:58:00Z
+    webUrl: "https://www.itp.net/business/alibaba-cloud-unveils-chip-development-platform"
+    type: article
+    provider:
+      name: GDPR fines
+      domain: itp.net
+    quality: 19
 
 secured: "lUbOqi7o2b+VZeleczFRNa0ZOcQ9Rf8Kpcuo6xSZC9spRxSPp+9vp33hmoNaF+kcq+LANCyOAGxf9zv97YbucIstFgmlJIei4/z2rxOLKic93w+wByOb8tUnEH+50hmFxendD3+KffqEBiRQh9O2cAaiaBbskCG1iTokDdTQzBfihYHT2QwOQil+cS0MzIRC5Y4FfMvQEsL67kY6EJ2Ihx5RUD1mpKJJv3YXqN+oA0N1DtpOBWGXjHqr8wXbh0s/SkDYkUmnVfTNMowDlbC5v/4DW8yJ0b+psCPzO0uLa30qtzJLv4gLWxQKMrfmrhImX8xR6fIxy5cxSuLdlJ2l80GjRnzwXkj5WunAw7bXAIJ84hFWTTzC2jG8Xumc+cvDtgF1+ENFHLNqmMVurh6ZYmpM+fUlD/8x55WS+aGbehOHGFDyBOQKXLYvzE3sPTuy0VFyd+oMxcqPpHnb5QsVIxIHe0YcB93Od6ggLD/7zdMc4Wh9j5Kia07Zt14qr/MHYrqs/OinafNkTqWNiXuM5A==;DWEhViZX8Q4F/cGGM2qfdw=="
 ---

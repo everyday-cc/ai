@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/amp/"
 type: article
 quality: 70
-heat: 110
+heat: 120
 published: true
 
 provider:
@@ -83,6 +83,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/cus1661188007650.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Self-Driving Vehicles Not Ready for Prime Time, Toyota Says"
+    excerpt: "Toyota engineers express doubts about full self-driving technology during an event highlighting its own technology, including a trailer that follows the “tow” vehicle autonomous instead of being physically connected by a hitch."
+    publishedDateTime: 2022-08-25T14:20:00Z
+    webUrl: "https://www.thedetroitbureau.com/2022/08/self-driving-vehicles-not-ready-for-prime-time-toyota-says/"
+    type: article
+    provider:
+      name: TheDetroitBureau
+      domain: thedetroitbureau.com
+    quality: 24
+    images:
+      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/06/Teammate-head-up-display.jpg"
+        width: 1600
+        height: 1067
         isCached: true
 
 secured: "Rb6ltW9ezzwZNWUFiQe3UMGeZrma+U+fo4fSZ6fhgaiIvC6dBob+UueOzRjSXVHGAFa2hw4wSoFY/gdVr7KIIyit1djDHwgiGkmB9i0S1AHils16ev34TRlBhVP+GwdKYd+bhLICAU9/wwCqIkBwyf6/tGZUh5CEj3I6eVpVnW/q/pi9TSCMlXWJhLsVu1l858L6LU69t4D1eQ20LjNIV40Umgewlp5XwjOQictgMuQIM7WORz8sonOdCeaOx9nWdFDda11bOVGyUk69UzeykFDZ9wvU+0KR2PnkVMUd3Fb0+H6p0bzLiSz+SwJtqknq/xR3us7sPctsw7VBALQ3aJlTBAt0C2zmd9mHUdy/Vc/ZzbhdTXXbH6CwyUyRYt99ud+VXrRConghRvuB3zRlyz0ZeW0IPPwdlR0XEL+R9TbIBtPYYZZCII6scljXjAwrRb5qyD11piRaWJnGYdo3MgYJt1yIp/7X0FGYBEGmJhlt3fJW6cxHYwKvSHBpBIipnwX4EMOT8cnvtawouwHRrQ==;91dGEy2IeCPCq8EajXQW3w=="
