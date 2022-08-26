@@ -119,15 +119,6 @@ related:
         width: 1030
         height: 562
         isCached: true
-  - title: "AI Ethics Advisory Board Offers Guidance on How to Develop and Deploy AI Responsibly"
-    excerpt: "Artificial Intelligence AI Ethics Advisory Board Offers Guidance on How to Develop and Deploy AI Responsibly By Rhea Kelly 08/18/22 Northeastern University's Institute for Experiential AI is ..."
-    publishedDateTime: 2022-08-21T14:44:00Z
-    webUrl: "https://ohsonline.com/EDU/Campus-Technology/Articles/2022/08/18/AI-Ethics-Advisory-Board-Offers-Guidance-on-How-to-Develop-and-Deploy-AI-Responsibly.aspx"
-    type: article
-    provider:
-      name: Ohsonline.com
-      domain: ohsonline.com
-    quality: 27
 
 secured: "Lon/xYpgOjABQ81NgJ1PrvlmAlUYOaWh0MmEEMwcueZ3q9Udow/Wpze4fEc2G9qZc1qJXawf5OCkWezklt3IAj333ZITogT7LWWSRvc5IZsWBOB1wSIpe7lgvnDCT1DiUTbi0ZQ2zPl184YQlcLDWYGbH8hvjfW2ENGBeLA21WY3fN3y4mgWIjg68ziJfuX9B966x2Djsp5GuAvd8o29cCZhNcjb0d+ij/geATZxBDqLWlLo9Zt/KEApkiO9yXWOKRyrytYsWHuK0Pc9hCRfRikrHWxc8uq4DUeFC+toUem40H/+iTRlI/8DpNcuXjJvRy7vHTWdAkZ+a5oAeQDepJ41Ik8DLPY6LlSOPCw7+ek=;OfiNikosOjvDNsJZQKTPpQ=="
 ---

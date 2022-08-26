@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-for-security-market-size-share-growth-2022-key-players-revenue-trends-opportunities-and-regional-forecast-to-2028-2022-08-23"
 type: article
 quality: 60
-heat: 240
+heat: 250
 published: true
 
 provider:
@@ -230,6 +230,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 11
+  - title: "Autonomous Delivery Robots Market: Trends, Demands, Size, Share, Business Opportunities, CAGR Of ~49% During The Forecast Period 2022 2031"
+    excerpt: "The global autonomous delivery robots market is estimated to occupy a large amount of revenue by growing at a CAGR of ~49% during the forecast period, i.e., 2022 – 2031 , ascribing to the rising affordability and return on investment on several infrastructure light robots,"
+    publishedDateTime: 2022-08-26T07:02:00Z
+    webUrl: "https://menafn.com/1104759820/Autonomous-Delivery-Robots-Market-Trends-Demands-Size-Share-Business-Opportunities-CAGR-Of-49-During-The-Forecast-Period-2022-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 5
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?336595"
+        width: 374
+        height: 250
+        isCached: true
   - title: "Global Social Robots Market Report (2022 to 2027) - Industry Trends, Share, Size, Growth, Opportunity and Forecasts - ResearchAndMarkets.com"
     excerpt: "The global social robots market size reached US$ 2.6 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 13.3 Billion by 2027, exhibiting a CAGR of 31.26% during 2021-2027."
     publishedDateTime: 2022-08-23T10:36:00Z

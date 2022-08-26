@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/counterpoint-ai-far-more-dangerous-tha
 webUrl: "https://thenextweb.com/news/counterpoint-ai-far-more-dangerous-than-quantum-computing"
 type: article
 quality: 67
-heat: 87
+heat: 88
 published: true
 
 provider:

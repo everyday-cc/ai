@@ -2,58 +2,6 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-08-25-ai-startup-wants-to-make-foreign-call-center-employees-sound-white.md",
-      "title": "AI Startup Wants to Make Foreign Call Center Employees Sound White",
-      "excerpt": "Sanas argues that its technology can be empowering for call center employees by removing bias and limiting misunderstandings during phone conversations. Critics say it's erasure.",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white",
-      "originalUrl": "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/a/ai-startup/ai-startup-wants-to-make-foreign-call-center-employees-sound_3ra4.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T09:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-25-the-next-technological-time-warp.md",
       "title": "The Next Technological Time Warp",
       "excerpt": "Even if you look at other modalities, like early image generation models and their ability to generate faces—not to mention today’s image generation capabilities with models such as DALL-E 2—telling the difference between human-generated and AI-generated content has been difficult for quite some time now.",
@@ -1379,6 +1327,50 @@
         "Natural Language Processing",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-deepfakes-expose-vulnerabilities-in-certain-facial-recognition-technology.md",
+      "title": "Deepfakes expose vulnerabilities in certain facial recognition technology",
+      "excerpt": "Mobile devices use facial recognition technology to help users quickly and securely unlock their phones, make a financial transaction or access medical records. But facial recognition technologies that employ a specific user-detection method are highly vulnerable to deepfake-based attacks that could lead to significant security concerns for users and applications,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-deepfakes-expose-vulnerabilities-facial-recognition.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-deepfakes-expose-vulnerabilities-facial-recognition.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/face-recognition.jpg",
+          "width": 1920,
+          "height": 1274,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-deepfakes-expose-vulnerabilities-facial-recognition.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-deepfakes-expose-vulnerabilities-facial-recognition.amp",
+      "publishedDateTime": "2022-08-12T08:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
       ]
     }
   ],

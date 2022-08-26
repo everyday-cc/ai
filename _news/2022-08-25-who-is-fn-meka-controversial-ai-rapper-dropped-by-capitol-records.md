@@ -1,25 +1,33 @@
 ---
 category: news
-title: "AI rapper FN Meka dropped by Capitol over racial stereotyping"
-excerpt: "A record label has cut ties with an AI rapper after criticism it contained racial stereotypes, including repeated use of the N-word. FN Meka is an artificial intelligence musician given the appearance of a black male cyborg."
-publishedDateTime: 2022-08-24T14:56:00Z
-originalUrl: "https://www.bbc.com/news/newsbeat-62659741.amp"
-webUrl: "https://www.bbc.com/news/newsbeat-62659741.amp"
+title: "Who Is FN Meka? Controversial AI Rapper Dropped by Capitol Records"
+excerpt: "Capitol Records announced Tuesday that it dropped FN Meka, an artificial intelligence (AI) rapper that critics have condemned as an appropriation of Black culture. The record label made waves within the music industry when it announced on August 12 that it had signed Meka,"
+publishedDateTime: 2022-08-24T18:34:00Z
+originalUrl: "https://www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588"
+webUrl: "https://www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588"
+ampWebUrl: "https://www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588?amp=1"
+cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588?amp=1"
 type: article
-quality: 47
+quality: 87
 heat: -1
 published: false
 
 provider:
-  name: BBC
-  domain: bbc.com
+  name: Newsweek
+  domain: newsweek.com
   images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/newsweek.com-50x50.jpg"
       width: 50
       height: 50
 
 topics:
   - AI
+
+images:
+  - url: "https://d.newsweek.com/en/full/2103606/capitol-records-building-pictured-2020.jpg"
+    width: 3100
+    height: 2068
+    isCached: true
 
 related:
   - title: "Capitol Records Pulls Plug On Racist ‘AI Rapper’ After Barely A Week"
@@ -37,22 +45,6 @@ related:
       - url: "https://img.huffingtonpost.com/asset/6305a8232500001f00245b2f.png?cache=JGZtNfCIZ7&ops=1200_630"
         width: 1198
         height: 630
-        isCached: true
-  - title: "Who Is FN Meka? Controversial AI Rapper Dropped by Capitol Records"
-    excerpt: "Capitol Records announced Tuesday that it dropped FN Meka, an artificial intelligence (AI) rapper that critics have condemned as an appropriation of Black culture. The record label made waves within the music industry when it announced on August 12 that it had signed Meka,"
-    publishedDateTime: 2022-08-24T18:34:00Z
-    webUrl: "https://www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588"
-    ampWebUrl: "https://www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 87
-    images:
-      - url: "https://d.newsweek.com/en/full/2103606/capitol-records-building-pictured-2020.jpg"
-        width: 3100
-        height: 2068
         isCached: true
   - title: "Capitol Records drops artificial intelligence rapper after just one week"
     excerpt: "The AI-created rapper named FN Meka was meant to be the first augmented reality music artists to be signed to a major label."
@@ -86,6 +78,15 @@ related:
         width: 320
         height: 214
         isCached: true
+  - title: "AI rapper FN Meka dropped by Capitol over racial stereotyping"
+    excerpt: "A record label has cut ties with an AI rapper after criticism it contained racial stereotypes, including repeated use of the N-word. FN Meka is an artificial intelligence musician given the appearance of a black male cyborg."
+    publishedDateTime: 2022-08-24T14:56:00Z
+    webUrl: "https://www.bbc.com/news/newsbeat-62659741.amp"
+    type: article
+    provider:
+      name: BBC
+      domain: bbc.com
+    quality: 47
   - title: "Capitol Records Drops AI Rapper FN Meka After Backlash"
     excerpt: "Just a few weeks after it was announced that Capitol Records had signed an artificial intelligence rapper named FN Meka, the label dropped the project after hip-hop fans called out the decision online,"
     publishedDateTime: 2022-08-23T21:45:00Z
@@ -124,6 +125,6 @@ related:
       domain: popsci.com
     quality: 17
 
-secured: "q+wQPmeEsn00FxyxzI5Ts2SiTGTEuR+/8Wbqms3rnT5cpcbqZ6FP8nUaO00AHfBqFrN8rlllFssUZpnxVqLemup7kHYcMx9hWj7G23HojgESGzo1MThzINroSSz+iUKIKMV7W3l2cd9uG4btRJ8saN/e/3qLQ/hPO9Cz4F41weRsTYAOyC+Pwl2JPJwIxueusrdx857oOPBZDxW49ox20rm7b8sQDwaVXUic/EtM0UiVbBaXGOTEOdnkIwVYSf1kwxoFjDEn7NGMeasc5rCzlnDIyJLCSxNFkpHvLYoYxlG2ot8ZCqh/aNVApgoHytTzaKTMoN2iadl7qdcxRszBAjliiAjIPMBFZhg7J1+CUAylS9N7yqpInc6ZBXvN38dtnr/xGZuYvvWktfq5GigxpEi9EpI1qndrx2N7K+3McPPmP6YtcG5NIHctgRAtcNyXvobw2/jttaMIIBdokdQzfJR0XIIuXXt4BOs8TGE1Ve+7l8yAdew5MKqAE5L4eGmBkaiIfpJGUIuGU3Ac/vc8xw==;XNrvLZ+/XG0sNOFeewSJvQ=="
+secured: "Ruwwa4VvQFsueIiqvATu61KFRcgGxrl6lbdX0HBeS/ZXpcutz3qxxxGt1ZnAqzZ2BiWo8syoyrv++zmMNmKPAS1TPCRjEpYd5oVoYfZ20U1U5diWM9nGmyWBJu2uz2eHRi5BM5EZGegpfyjLx4RsCq8/lSDQbrrrLUCAenkI2dXnncFXEs76ThniStuxfA1ZOYT90Ne1XAU+Zl2ur3MLq9lmndRuRO82rTitY3OOnLloFFzP95j2RI+ouCIo40Fociup25O3s/rC1NVSfuiXhY9K3VeInGFa+dWsHGiECVJpMHqBTbTmAqp+cQZEv97jeQMY76pSUKyltk6SOc65zh4PyGHOHGh+lHztYcFOEkA=;clVSde+gJZEqMADebxrCuQ=="
 ---
 

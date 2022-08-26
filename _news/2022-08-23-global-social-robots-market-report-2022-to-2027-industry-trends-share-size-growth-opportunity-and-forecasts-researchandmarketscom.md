@@ -240,6 +240,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 11
+  - title: "Autonomous Delivery Robots Market: Trends, Demands, Size, Share, Business Opportunities, CAGR Of ~49% During The Forecast Period 2022 2031"
+    excerpt: "The global autonomous delivery robots market is estimated to occupy a large amount of revenue by growing at a CAGR of ~49% during the forecast period, i.e., 2022 – 2031 , ascribing to the rising affordability and return on investment on several infrastructure light robots,"
+    publishedDateTime: 2022-08-26T07:02:00Z
+    webUrl: "https://menafn.com/1104759820/Autonomous-Delivery-Robots-Market-Trends-Demands-Size-Share-Business-Opportunities-CAGR-Of-49-During-The-Forecast-Period-2022-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 5
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?336595"
+        width: 374
+        height: 250
+        isCached: true
   - title: "Data Wrangling Market Research Insights With Upcoming Trends, Opportunities, Competitive Analysis, Forecast To 2022-2031"
     excerpt: "Recognition software consists of various modules used for object, voice, speech, image, gesture, facial, and character recognition. The recognition software provides highly integrated tools that help bot developers integrate AI into the software to enable ..."
     publishedDateTime: 2022-08-25T11:56:00Z

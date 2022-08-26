@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Indigenous voice: A chance to finish reform of original Constitution"
-    excerpt: "The arguments for constitutional recognition have been widely canvassed since John Howard committed to it in the lead-up to the 2007 general election. The nature of Australias federation has thrown up legal complexities that have stymied a growing popular will to achieve meaningful constitutional recognition."
-    publishedDateTime: 2022-08-21T13:30:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/indigenous-voice-a-chance-to-finish-reform-of-original-constitution/news-story/ad08d5c1519cc1472190d5b27688be65"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
   - title: "Executive Voice: Industry veteran leads construction firm's Triangle growth"
     excerpt: "Seth London, a second-generation construction professional with more than 25 years of industry experience under his belt, is charged with leading the Triangle efforts of LeChase Construction."
     publishedDateTime: 2022-08-25T16:17:00Z

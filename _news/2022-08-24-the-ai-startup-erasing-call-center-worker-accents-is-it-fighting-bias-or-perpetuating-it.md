@@ -34,16 +34,16 @@ related:
   - title: "AI Startup Wants to Make Foreign Call Center Employees Sound White"
     excerpt: "Sanas argues that its technology can be empowering for call center employees by removing bias and limiting misunderstandings during phone conversations. Critics say it's erasure."
     publishedDateTime: 2022-08-25T16:56:00Z
-    webUrl: "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
+    webUrl: "https://www.pcmag.com/news/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
-    quality: 69
+    quality: 67
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/a/ai-startup/ai-startup-wants-to-make-foreign-call-center-employees-sound_3ra4.1200.jpg"
-        width: 1200
-        height: 675
+      - url: "https://i.pcmag.com/imagery/articles/05P40am6RlXf9q8pCpYsR1f-1.fit_lim.size_1200x630.v1661442988.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "A startup is using AI to make call center workers sound ‘American’"
     excerpt: "Sanas says its aim is to cut through some Americans' biases towards minorities. Critics argue their services may make things worse."
@@ -62,6 +62,6 @@ related:
         height: 1500
         isCached: true
 
-secured: "sUB+ClHtAbk+PclPRdFP/5Aqn1HC+v60lKpAORLrPoy9yLbdLSm4xSdSmdtdF6ucJYfuW8FAKMdOCZPI3P7sWoZxBHINq/LEj3Hfi8lw7IAn5ZA5yKRUF1z12cgoqVv03iYzOOIG6ZIASLwwAi0/MIZP6aOY73UkdJhzOReah5xyOYvzcsL8OiV1Sen8JblrrqtNNmhBUud3ZNfZvzSHuNs+Tfd/RJQqnqpJqouWpQHRxrxAyHpxisUN9wA+VuNP5+ErGs/yKz/NK198Uw7h9Fbv6GZrPVhn5qdMKZcZYGaqgsJ4TN4AifQt+PG+345614nVRtUTXubqqVqiFVSfJzxT8kM9fjabiS5XD/WQLU4=;7rJ91iRxy4kIWzEj8ML3HA=="
+secured: "ed2qniQ71JjyP+sC4RhQ+G9Juuf5wbFxMfqQYMGP+DEq5/0sEhQI0tfQ6nfroXacjPVUgO3jMuLCIhwu0N/73FUwR8jfb5maxDO7Aobh76BELJf5YHgOSS8s/VJLjBK+dRSrFnwfycXvmUIELSYkH/LOMBpY4Bc0d+HxdgLnHWBlKxiqPUvD24x7PaK1BDCd6L0/4ggZJTYFFqZ3O9knw1bqq2aYbCemWxWz9qtnkbcmQTyODMWEVvUV+sIL2cUe1iwTV8UC6P6oHBak4QvKXaJZe9l+/QbJrq4qdlJoN6t9SaYSPeAndiohi68/ZkVyPSMSigtSZ9LWYDpoEmGtSLbeb33dohlC+IgwREi+61xx9bFOlSFW5MRKGLSG9pPr/hHR5Lc9ujE+3oZuH4qsXfrEoVZ9Y4IVcIXBFpDw7ZXoEJgRZBcbLh3hGeZHni8RHt8p3H8kDJxaWJjZRRe6Oe4qBcxM1h5td3Rk3dKm9ld6Q35NXc08PUQp0WjnQIwnNypJOs1Du2U0tdlXq47Kjw==;TyOXD7EvcKQ2iD/vWKsqjg=="
 ---
 

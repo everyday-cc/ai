@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/assembly-ai-offers-ai-as-a-service-api-to
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/assembly-ai-offers-ai-as-a-service-api-to-ease-model-development/amp/"
 type: article
 quality: 93
-heat: 173
+heat: 163
 published: true
 
 provider:
@@ -125,15 +125,6 @@ related:
         width: 1030
         height: 562
         isCached: true
-  - title: "AI Ethics Advisory Board Offers Guidance on How to Develop and Deploy AI Responsibly"
-    excerpt: "Artificial Intelligence AI Ethics Advisory Board Offers Guidance on How to Develop and Deploy AI Responsibly By Rhea Kelly 08/18/22 Northeastern University's Institute for Experiential AI is ..."
-    publishedDateTime: 2022-08-21T14:44:00Z
-    webUrl: "https://ohsonline.com/EDU/Campus-Technology/Articles/2022/08/18/AI-Ethics-Advisory-Board-Offers-Guidance-on-How-to-Develop-and-Deploy-AI-Responsibly.aspx"
-    type: article
-    provider:
-      name: Ohsonline.com
-      domain: ohsonline.com
-    quality: 27
 
 secured: "I58ffOpGqo/iDHe6MhuepwxBqG0v7EB8+CxMkwqbMMtrEJ4TNXRXh2cuSNol0IB8IMBmEl1S519udgLOmWxI8snFFT3qHgv2sHZl2GliCCj61Rxd04dVtvTvz0jSMRFJsh3WX/5QgU01SyywS/bzwz0lSRxT35BOCTyA8q3wQMNNNbgL/nB03KmlF0EU5Cp9Zc4c/IGBp92oYHtWdTCcrg337lun1A0ZCtQ8kfhrDbtn4LuE81l1qcjvv2wJ5dVXu4IsEMBf6KVdM70OYskGnf6L4FMjUlEA8KQ37NCfOf5sm3zEFexIW2naICxMa+b2PtqoPb/87oe5dEfxd1xoc8xYiQWFCChEYNE3ImvOS2M1ZyWtDrNPICDCyAwGXLMnToLL9N53NnajffvuCXIQw204im6NKGshCCQ1BaJr8vjhilaN6IqhwQY83jxYSUd1TnLIJExeE2SB2lkWzGJl4hnJNt6jI3HRZy6/+XnKAKpgh6tg0MsDlA4r3zpJkYiffiGzJEaeMByczYGtM3rE7g==;pxsuOyc6U5iuWL/etiLFig=="
 ---

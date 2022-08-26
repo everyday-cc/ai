@@ -32,7 +32,7 @@ related:
   - title: "Automotive Artificial Intelligence Market worth $7.0 Billion by 2027 - Exclusive Report by MarketsandMarkets™"
     excerpt: "Automotive Artificial Intelligence market size is projected to grow from USD 2.3 Billion in 2022 to USD 7.0 Billion by 2027; it is expected to grow at a CAGR of 24.1% from 2022 to 2027, according to a new report by MarketsandMarkets™."
     publishedDateTime: 2022-08-24T14:58:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-automotive-artificial-intelligence-market-worth-70-billion-2027-/2022/08/24/9661661.htm"
+    webUrl: "https://www.tmcnet.com/usubmit/2022/08/24/9661661.htm"
     type: article
     provider:
       name: TMCnet
