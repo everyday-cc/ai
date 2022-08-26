@@ -1,28 +1,29 @@
 ---
 category: news
-title: "Deep-learning advance improves facial recognition for people wearing veils"
-excerpt: "A new paper from a team of researchers claims they have developed a facial recognition algorithm which accurately matches faces occluded by a niqab."
-publishedDateTime: 2022-08-25T20:10:00Z
-originalUrl: "https://www.biometricupdate.com/202208/deep-learning-advance-improves-facial-recognition-for-people-wearing-veils"
-webUrl: "https://www.biometricupdate.com/202208/deep-learning-advance-improves-facial-recognition-for-people-wearing-veils"
+title: "The worrying spread of facial recognition tech"
+excerpt: "Facial recognition technology uses machine learning algorithms to extract data points from a person’s face to create a digital signature. This signature is then compared with an existing database to find possible matches."
+publishedDateTime: 2022-08-25T19:04:00Z
+originalUrl: "https://www.livemint.com/technology/tech-news/with-absent-laws-face-tracking-proliferates-11661453943678.html"
+webUrl: "https://www.livemint.com/technology/tech-news/with-absent-laws-face-tracking-proliferates-11661453943678.html"
+ampWebUrl: "https://www.livemint.com/technology/tech-news/with-absent-laws-face-tracking-proliferates/amp-11661453943678.html"
+cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/with-absent-laws-face-tracking-proliferates/amp-11661453943678.html"
 type: article
-quality: 39
+quality: 59
 heat: -1
 published: false
 
 provider:
-  name: Biometric Companies
-  domain: biometricupdate.com
+  name: Mint
+  domain: livemint.com
 
 topics:
-  - Machine Learning
-  - AI
   - Computer Vision
+  - AI
 
 images:
-  - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/25160459/niqab-scaled.jpg"
-    width: 2048
-    height: 1367
+  - url: "https://images.livemint.com/img/2022/08/25/600x338/facial_1661454053797_1661454059841_1661454059841.jpg"
+    width: 600
+    height: 338
     isCached: true
 
 related:
@@ -70,22 +71,6 @@ related:
         width: 761
         height: 428
         isCached: true
-  - title: "The worrying spread of facial recognition tech"
-    excerpt: "Facial recognition technology uses machine learning algorithms to extract data points from a person’s face to create a digital signature. This signature is then compared with an existing database to find possible matches."
-    publishedDateTime: 2022-08-25T19:04:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/with-absent-laws-face-tracking-proliferates-11661453943678.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/with-absent-laws-face-tracking-proliferates/amp-11661453943678.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/with-absent-laws-face-tracking-proliferates/amp-11661453943678.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2022/08/25/600x338/facial_1661454053797_1661454059841_1661454059841.jpg"
-        width: 600
-        height: 338
-        isCached: true
   - title: "Building the customer, communication and commerce synergy with conversational AI"
     excerpt: "Customer is the king and that continues to be the truth, more so in today’s digitally connected world. According to a report released by KPMG, improving customer experience (CX) is key to sustained value creation"
     publishedDateTime: 2022-08-25T04:23:00Z
@@ -129,6 +114,20 @@ related:
       - url: "https://www.electropages.com/storage/app/media/2022/Aug/ai-facial-recognition-og.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Deep-learning advance improves facial recognition for people wearing veils"
+    excerpt: "A new paper from a team of researchers claims they have developed a facial recognition algorithm which accurately matches faces occluded by a niqab."
+    publishedDateTime: 2022-08-25T20:10:00Z
+    webUrl: "https://www.biometricupdate.com/202208/deep-learning-advance-improves-facial-recognition-for-people-wearing-veils"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/25160459/niqab-scaled.jpg"
+        width: 2048
+        height: 1367
         isCached: true
   - title: "Rising Murder Rate Prompts Reversal, Revision of Facial Recognition Bans"
     excerpt: "A number of cities and states have reversed or altered their facial recognition bans after recognizing a need for the technology."
@@ -177,6 +176,6 @@ related:
         height: 450
         isCached: true
 
-secured: "L3Zkqtskh8Ua71xacVTgVCL3DbGN+l4rCKkhrAOLLMVX8H1zQIR0hPMCrrr7RoO6zdw0MWJfA9ETX32pgzDnOPxIdmxv/8+593C7+6TTvRMghhwXSIaY8ecRfGPGyMdEUDIPGQRb47YLUxre+DobGLsGKjupJrvqd68Qxh7A6X5P6KFqK5zECLopOPNrjKT3f8UtQWm3plSr5B9YseyFV0Kp/PaSLvdY2u8hxcmtQCss4Qeb11vKRHOjOGh5ij27lTX53Y+lBOWsk5tehcIPJ/MjFSaKyjZ/mIecEoFRg8lWj3FJti6B7RIzjSUhXRe0PLe3i8rNQW4HqZd22zqIgtV3JSExcutb9yNNl79H7px1dU2k5Fja75gPnRDvW+u30NQeLDWMAf6TkRaElTxqtAkw0mbXAxqkxhX7tTLGKti5JWvE0Nb1a8jOmj4akKR2FQ0dIO9oJrtgS2S6N2x01C2+2Gp2xq+N8SGoLaaeW4sh5Uc7jo4Y9dho2smGb+G6AeC6XYxsGztS9tgDg1u9hA==;glsnclgHp+pDl/N4diP5aw=="
+secured: "USv9g96BUbtWQItFO3jWr003Kd7XuGtKeAYeQWrma9WW9+TeQWml1Yro5m2wn9aAGpJWjzRO7p554oh6j4YaZT5rqQywmfewyfQDo05XFZGHKLkrtjcnXbNQz50mBI7eyuw8ClfUqLj3q8IpDHzDVOxliKqhMmuykOjP/PYKiBu3CiUeTpLeu3mfwMsVonpDIEk6q60GpmA0EUk+ZqF4IwfqsxOcucvFUsgRF//9W+JJsKlAHN+FK5yZrKsj4D9GBWEjeArib8tBsSgDzGWu0QfoIMyulYOfY0YD2Iz540QmLwQg+p1AYGZ503vUBnMkOgqOuEjg2M2sPwTuuzWDyFWflv4DnZvXbx4Euiripyk=;9NB5BDvP5GJWxnU9uBthzA=="
 ---
 

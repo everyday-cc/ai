@@ -71,6 +71,22 @@ related:
         width: 761
         height: 428
         isCached: true
+  - title: "The worrying spread of facial recognition tech"
+    excerpt: "Facial recognition technology uses machine learning algorithms to extract data points from a person’s face to create a digital signature. This signature is then compared with an existing database to find possible matches."
+    publishedDateTime: 2022-08-25T19:04:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/with-absent-laws-face-tracking-proliferates-11661453943678.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/with-absent-laws-face-tracking-proliferates/amp-11661453943678.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/with-absent-laws-face-tracking-proliferates/amp-11661453943678.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2022/08/25/600x338/facial_1661454053797_1661454059841_1661454059841.jpg"
+        width: 600
+        height: 338
+        isCached: true
   - title: "Perception of Robots and AI as Threats to Jobs in Countries with Social Inequality"
     excerpt: "According to new research by scientists from the University of Central Florida, employees in countries with more income and social discrimination were more likely to see artificial intelligence and robots as threats to jobs."
     publishedDateTime: 2022-08-25T15:35:00Z

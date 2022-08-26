@@ -114,6 +114,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Examine the Role of Artificial Intelligence (AI) in the Global Mammography Markets"
+    excerpt: "The \"Global Mammography Vendor Profiles and Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This study examines the role of"
+    publishedDateTime: 2022-08-25T11:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/g28629426/examine-the-role-of-artificial-intelligence-ai-in-the-global-mammography-markets"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28629426"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28629426"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 46
   - title: "Natural Language Processing and Recognition Market 2022 Size, Share, Applications, Advance Technology and Top Companies to 2028"
     excerpt: "The report is a comprehensive guide to comprehending the structure of the global Natural Language Processing and Recognition industry and the future trends that the industry is the potential to experience and thus would help plan an optimal approach to succeed in this Natural Language Processing and Recognition market."
     publishedDateTime: 2022-08-24T06:02:00Z

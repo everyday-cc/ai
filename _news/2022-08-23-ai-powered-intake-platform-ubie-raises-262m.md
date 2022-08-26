@@ -27,15 +27,6 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "Disney-backed Inworld raises new cash for its AI-powered virtual characters"
-    excerpt: "Inworld, which is developing a platform that allows customers to create AI-powered virtual characters with personality and common knowledge, has raised $50 million in a new venture round."
-    publishedDateTime: 2022-08-23T13:17:00Z
-    webUrl: "https://techcrunch.com/2022/08/23/disney-backed-inworld-raises-new-cash-from-for-its-ai-powered-virtual-characters/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 45
   - title: "Qloo, the Leading Artificial Intelligence Platform for Culture and Taste Preferences, Raises $15M in Series B"
     excerpt: "Qloo, the leading artificial intelligence platform for culture and taste preferences, announced today that it has raised $15M in Series B funding from Eldridge and AXA Venture Partners. This latest round of funding brings Qloo’s total capital raised to $30M,"
     publishedDateTime: 2022-08-23T15:00:00Z

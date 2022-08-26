@@ -1,26 +1,20 @@
 ---
 category: news
-title: "Syncwords Complements Its Machine Translations With Human And AI Capabilities'"
-excerpt: "SyncWords has been the leading captioning and translation services provider in the media industry for over 20 years.. While SyncWords Live can be used as a primary tool to help deaf and hard-of-hearing audiences,"
-publishedDateTime: 2022-08-16T14:40:00Z
-originalUrl: "https://menafn.com/1104704287/Syncwords-Complements-Its-Machine-Translations-With-Human-And-AI-Capabilities"
-webUrl: "https://menafn.com/1104704287/Syncwords-Complements-Its-Machine-Translations-With-Human-And-AI-Capabilities"
+title: "SyncWords Complements Its Machine Translations With Human and AI Capabilities"
+excerpt: "SyncWords, the leading live captioning and translation services provider is thrilled to announce SyncWords Offline, which includes human tr"
+publishedDateTime: 2022-08-16T12:16:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9656612.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9656612.htm"
 type: article
 
 provider:
-  name: Middle East North Africa Financial Network
-  domain: menafn.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://menafn.com/updates/pr/2022-08/16/PN_dd9c33f1-e_Image_In_Body.jpg"
-    width: 400
-    height: 225
-    isCached: true
-
-secured: "cwlZqOSRgifbQaxGsKXuw0ZCEiHIJrmrklXKkcaQZ1/TJ49Qrf+A3VCANT8dcKcMUQveZknT2UlnMbt/dmPv98lctaYGw7a1Lv9q3iobTI5+tjfcYU1e01teBhCHyG/x4o/BhFBGiYTSJ48eaghMZBxsKgp3CcC8jjy1NHY/ohje3zWevTSkbLe3066uIYU5hMfbJ1aKRlS1N2TWJHsJBuGlAeNqKIQvC3lMV1hNqZhdeewBBld0mgLWuS8eKKwdlkGG9X+5LP2+J2fKn/XOUhSekNttmwI42vG6VmDTEK/G1sEbu24OkRIJ+Z+aocej+YBrIUv2QK5ukTzxDFRJr6Qf+pCYDa/ekFyQyoSvEbxAmlQcdHqhohVYHycZ6c5O0K2IJv4WEI4t2C+YidoYGUkO20kE6Zogo1xeEChwJ070Bv1fQhVFJXDlWXJua/fwafRf6hQWbeSqMybOGr9Tky57uAqmaa2PdORA7Vx/yn6s/hX2fhY75MbXIz0rRMT3lvXfM87pRQjA0Zq+liYJkg==;LPbrdFupDfTBAHDjSCipgw=="
+secured: "5DYH7G3f9a58HJO0LZGyar6dsoYihNuFWUFwldSttQnalCHP656lKm6eiSkQdMYCCirdDhGqvE5FTonRNgmqXn3tGDFV1xwnDzzRjkNlVL0PgKXFhHHAwGMMOgE8wKFD2bHVqxZcRsnfdPuWS00mflmEVppC2d+CFLpvcgaWsf6XGGima9QB0eBDC1RHWGAeMivxBm9aWB/zdDczaKtd2Q3ZrV0wSqLfhmdA9H9jpK5u7aw2p970kOUt98hwqO0j5Xd16SugIx/YOwmpyMSXYLo8VHwwY5Ex2gfQzccI7ZDItcHhpaL5JLnk5/Y4Abq1B/TaCq6Ku+ITUY9l3c06G5yhiExgE8d/v2jd5P+RXNE=;jlqrnWnGEQ/oJXitJsp7Pw=="
 ---
 

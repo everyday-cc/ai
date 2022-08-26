@@ -22,15 +22,6 @@ topics:
   - AI
 
 related:
-  - title: "Disney-backed Inworld raises new cash for its AI-powered virtual characters"
-    excerpt: "Inworld, which is developing a platform that allows customers to create AI-powered virtual characters with personality and common knowledge, has raised $50 million in a new venture round."
-    publishedDateTime: 2022-08-23T13:17:00Z
-    webUrl: "https://techcrunch.com/2022/08/23/disney-backed-inworld-raises-new-cash-from-for-its-ai-powered-virtual-characters/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 45
   - title: "AI-powered intake platform Ubie raises $26.2M"
     excerpt: "Ubie, a tech startup that offers a medical intake platform powered by artificial intelligence, has raised $26.2 million in series C funding. The firm offers a questionnaire to guide patients to the right healthcare institution at the right time and give physicians and pharmaceutical companies up-to-date medical research."
     publishedDateTime: 2022-08-22T17:15:00Z

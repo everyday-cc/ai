@@ -113,6 +113,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Examine the Role of Artificial Intelligence (AI) in the Global Mammography Markets"
+    excerpt: "The \"Global Mammography Vendor Profiles and Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This study examines the role of"
+    publishedDateTime: 2022-08-25T11:13:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/g28629426/examine-the-role-of-artificial-intelligence-ai-in-the-global-mammography-markets"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28629426"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28629426"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 46
   - title: "Artificial Intelligence in Market Size 2022, Share, Growth with Recent Trends, Development, Revenue, Demand and Forecast to 2026"
     excerpt: "The Latest research study released by expert Global Artificial Intelligence in Market with analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development,"
     publishedDateTime: 2022-08-24T10:55:00Z

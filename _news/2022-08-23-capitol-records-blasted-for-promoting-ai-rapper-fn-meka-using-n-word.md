@@ -74,6 +74,20 @@ related:
         width: 932
         height: 470
         isCached: true
+  - title: "Who Is FN Meka? The AI Rapper Causing Controversy"
+    excerpt: "Entertainment Weekly reported on Tuesday (August 23) that FN Meka was created by Factory New, a “media company focused solely on virtual and digital talent,” according to co-founder Anthony Martini. His business partner Brandon Le designed the AI rapper by “using thousands of data points compiled from video games and social media."
+    publishedDateTime: 2022-08-25T23:22:00Z
+    webUrl: "https://uproxx.com/music/who-is-fn-meka-ai-rapper/"
+    type: article
+    provider:
+      name: Uproxx
+      domain: uproxx.com
+    quality: 37
+    images:
+      - url: "https://uproxx.com/wp-content/uploads/2022/08/raps-grid-uproxx.jpg?w=710"
+        width: 710
+        height: 400
+        isCached: true
   - title: "Black Artists Sound Off on Why AI Rapper FN Meka Was So Horribly Offensive"
     excerpt: "Capitol Records signed—and then quickly dropped—the robot rapper, who was accused of appropriating Black culture and dropping the N-word in its songs."
     publishedDateTime: 2022-08-25T21:02:00Z
