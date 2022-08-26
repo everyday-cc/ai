@@ -101,6 +101,20 @@ related:
         width: 1960
         height: 1102
         isCached: true
+  - title: "How Self-Driving Cars Will Change the Roads"
+    excerpt: "Are self-driving cars coming to a dealership near you? Here’s what you need to know about this tech and what it means for the future."
+    publishedDateTime: 2022-08-25T16:03:00Z
+    webUrl: "https://www.rd.com/article/self-driving-cars/"
+    type: article
+    provider:
+      name: Reader's Digest
+      domain: rd.com
+    quality: 24
+    images:
+      - url: "https://www.rd.com/wp-content/uploads/2022/08/self-driving-cars-GettyImages-1292394282-JVedit.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
 
 secured: "yIh7EBGblp0cnfaY8JsXvcQyl3LqCBN7PtkIuEm2//iNUClaQzIj8+/ybCYrLG1/aN2W8TFaOEPxFMWMjhLkts7s8VvQ42uGlDV7fVafyKESsdOX576ntj2z3JtUzSaUmVwU0jRSK5mClGAnEHahHxTby6fTnH87s+vIN2hrciK7iX/lbBD5oAvE+xMm3p0ORmSxGc0Hh+Zq8m2OJwcH8vr1Nha1HJHbb5ytkZpipkTme0xDqVCHJuOLtoEaIh3fjwq7MbjiCoJfJXXSo1yg1hMeOq+QMjjvKHVCkFjO+jLSW6nZTZLF+eNUsLxI1szYqt79VnhyvE2fJlHuN/tKn4N8JiR7eEgNL3aUocqiumCA3h8k4PKV8lCmZgEQC7h6edwR711LaLgpzUkII6Pb2OSzZkq0wMZ9EoZtEegSnm6jH7OI7/JaV9xTAIfhtD3rPoh+NfVg71cKtPehFE7zdaETNZT4fz7vlz0QSuGKuWUaRb8kazjRajf4bvxh+ZmMBa3w3ayypdy+J5nduRH5nQ==;PpcqTKrwCepiTsepvUEjeg=="
 ---

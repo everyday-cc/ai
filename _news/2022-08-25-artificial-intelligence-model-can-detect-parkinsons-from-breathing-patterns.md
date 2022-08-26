@@ -154,6 +154,15 @@ related:
         width: 800
         height: 450
         isCached: true
+  - title: "Artificial intelligence model can detect Parkinson's from breathing patterns, researchers show"
+    excerpt: "A device with the appearance of a Wi-Fi router uses a neural network to discern the presence and severity of one of the fastest-growing neurological diseases in the world."
+    publishedDateTime: 2022-08-25T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/08/220825120322.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 37
   - title: "In early research, an AI model detects signs of Parkinson’s using breathing patterns"
     excerpt: "\"We’ve seen no major breakthroughs for treating Parkinson’s this century, suggesting that the status quo is not working,\" said University of Rochester researcher Ray Dorsey."
     publishedDateTime: 2022-08-22T16:37:00Z

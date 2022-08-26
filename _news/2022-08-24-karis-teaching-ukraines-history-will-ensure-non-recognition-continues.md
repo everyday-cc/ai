@@ -24,17 +24,6 @@ images:
     height: 420
     isCached: true
 
-related:
-  - title: "AI for Ukraine is a New Project from AI HOUSE to Support Ukrainian Tech Community"
-    excerpt: "AI for Ukraine” is a series of workshops and lectures held by international artificial intelligence experts to support the development"
-    publishedDateTime: 2022-08-22T17:12:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ai-for-ukraine-is-a-new-project-from-ai-house-to-support-ukrainian-tech-community/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 14
-
 secured: "QQ4b5n9g/sqH662H/5XZsWZIBkqguJU6a+uI6VycOyopFsbgoz3dAuRaSbS0T3rnzhpUar8IjoU4zc+CkFfRLAg8L4PiMnBwqR4kWM/mY+q5uy3B0pW99Z1EUmrPskFmruO6mORYAUY5G0fZN2DwlBjT4xKF5mTIxe9Qpqd0TWK/F7yP5HoL6iMqLBkXkxoPuzBMku/PKoXeulGR0YaTapojCN63B9+Y4jYOKpjpjI3yeZMFKSs3SDCEFRJujYc+eOI073nhAMPXmUQJ8wLfNI0j/bV99apuntcyICqIm2m09U4mmdKFUTzV1KQJ4hrjz1QppKJI/UmnJgvtZMTq75nQHr+9kJ+Th8l6mevNwnkKIYwaPNesNphrcsvSJjmcWyzMqEfkGL/NV5idb2k9KCnCNEvWovHXYgWhrfy+n+w8voV5Yk5vf5gRDBtNkeWRC7uLOahbgrkrwnevsrGgPxVXG0Pi4R/jz+zubBRA63Wg8NsfL+9AzFL+AoEG1Nsp+d9rqAFEpazisn6g9Dwl4g==;BnhQQTnFA+ze5epYXfrJrQ=="
 ---
 

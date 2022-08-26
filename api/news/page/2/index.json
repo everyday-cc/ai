@@ -2,6 +2,214 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-25-lyft-and-motionals-new-electric-robotaxis-now-offering-rides-in-las-vegas.md",
+      "title": "Lyft and Motional's New Electric Robotaxis Now Offering Rides in Las Vegas",
+      "excerpt": "The updated ride comes ahead of Lyft and Motional's plans to offer a fully driverless service in the city in 2023. The Hyundai Ioniq 5-based car (Motional is a joint venture company between ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/roadshow/news/lyft-and-motionals-new-electric-robotaxis-now-offering-rides-in-las-vegas/",
+      "originalUrl": "https://www.cnet.com/roadshow/news/lyft-and-motionals-new-electric-robotaxis-now-offering-rides-in-las-vegas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/c752f13170ff1355ede91cf58e7cf5dd48a85687/2022/08/22/4b3e9a87-fb25-46cb-a631-6d8b8641422b/ioniq-motional-lyft-branded.jpg?auto=webp&fit=crop&height=630&precrop=1824,1025,x126,y99&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/lyft-and-motionals-new-electric-robotaxis-now-offering-rides-in-las-vegas/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lyft-and-motionals-new-electric-robotaxis-now-offering-rides-in-las-vegas/",
+      "publishedDateTime": "2022-08-24T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-can-nist-move-trustworthy-ai-forward-with-new-draft-of-ai-risk-management-framework.md",
+      "title": "Can NIST move ‘trustworthy AI’ forward with new draft of AI risk management framework?",
+      "excerpt": "NIST releases an expanded draft of the AI Risk Management Framework but the impact on trustworthy AI remains unclear.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-risk-management-framework/",
+      "originalUrl": "https://venturebeat.com/ai/ai-risk-management-framework/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-robot_machine_learning_AI_1323774184-e1659571276418.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-risk-management-framework/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-risk-management-framework/amp/",
+      "publishedDateTime": "2022-08-24T10:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-aws-deep-learning-challenge-sees-innovative-and-impactful-use-of-amazon-ec2-dl1-instances.md",
+      "title": "AWS Deep Learning Challenge sees innovative and impactful use of Amazon EC2 DL1 instances",
+      "excerpt": "In the AWS Deep Learning Challenge held from January 5, 2022, to March 1, 2022, participants from academia, startups, and enterprise organizations joined to test their skills and train a deep learning model of their choice using Amazon Elastic Compute Cloud (Amazon EC2) DL1 instances and Habana’s SynapseAI",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-challenge-sees-innovative-and-impactful-use-of-amazon-ec2-dl1-instances/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/aws-deep-learning-challenge-sees-innovative-and-impactful-use-of-amazon-ec2-dl1-instances/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/23/Site-Merch-Design_Amazon-EC2_DL1_Blog.png",
+          "width": 768,
+          "height": 385,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T09:41:48-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-lily-ai-lands-new-capital-to-help-retailers-match-customers-with-products.md",
+      "title": "Lily AI lands new capital to help retailers match customers with products",
+      "excerpt": "Lily AI, a company developing an AI system that tries to surface products customers will buy, has raised $25 million in new venture capital.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/24/lily-ai-lands-new-capital-to-help-retailers-match-customers-with-products/",
+      "originalUrl": "https://techcrunch.com/2022/08/24/lily-ai-lands-new-capital-to-help-retailers-match-customers-with-products/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/GettyImages-1210935014.jpg?w=1024",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/24/lily-ai-lands-new-capital-to-help-retailers-match-customers-with-products/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/24/lily-ai-lands-new-capital-to-help-retailers-match-customers-with-products/amp/",
+      "publishedDateTime": "2022-08-24T09:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-intel-launches-flex-series-arctic-sound-m-gpu-for-visual-cloud-workloads.md",
       "title": "Intel Launches Flex Series Arctic Sound-M GPU For Visual Cloud Workloads",
       "excerpt": "Intel's Arctic Sound has finally made its way to market. Intel just formally introduced the datacenter GPU, now known properly as the \"Data Center GPU Flex Series.\" The cards, which come in at least two variants,",
@@ -283,6 +491,50 @@
         "AI",
         "AI Ethics",
         "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-streamlining-lung-cancer-radiotherapy-with-deep-learning.md",
+      "title": "Streamlining lung cancer radiotherapy with Deep Learning",
+      "excerpt": "Lung cancer, the most common cancer worldwide, is targeted with radiation therapy (RT) in nearly one-half of cases. RT planning is a manual, resource-intensive process that can take days to weeks to complete,",
+      "sourceUrl": null,
+      "webUrl": "https://healthcare-in-europe.com/en/news/lung-cancer-radiotherapy-deep-learning.html",
+      "originalUrl": "https://healthcare-in-europe.com/en/news/lung-cancer-radiotherapy-deep-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthcare-in-europe.com/media/story/27271/rect-01-adobestock-296280067.jpg",
+          "width": 400,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "healthcare-in-europe.com",
+        "domain": "healthcare-in-europe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
       ]
     },
     {
@@ -664,50 +916,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-24-deep-learning-algorithm-may-streamline-lung-cancer-radiotherapy-treatment.md",
-      "title": "Deep learning algorithm may streamline lung cancer radiotherapy treatment",
-      "excerpt": "Lung cancer, the most common cancer worldwide, is targeted with radiation therapy (RT) in nearly one-half of cases. RT planning is a manual, resource-intensive process that can take days to weeks to complete,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 150,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/lung-scan.jpg",
-          "width": 2880,
-          "height": 1966,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp",
-      "publishedDateTime": "2022-08-23T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-08-24-ray-the-machine-learning-tech-behind-openai-levels-up-to-ray-20.md",
       "title": "Ray, the machine learning tech behind OpenAI, levels up to Ray 2.0",
       "excerpt": "Ray, which enables machine learning models to scale across hardware resources, has released Ray 2.0 to simplify building AI workloads.",
@@ -1008,205 +1216,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-oppo-unveils-its-latest-ai-technology-for-creating-animated-digital-avatar.md",
-      "title": "OPPO unveils its latest AI technology for creating Animated Digital Avatar",
-      "excerpt": "This marks a breakthrough in OPPO AI technology. It is an AI-driven technology that can create animated digital avatars using a few phones. The new OPPO AI technology is adept at loose clothes appearance learning and skeleton motion modeling. The new OPPO ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/",
-      "originalUrl": "https://www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/08/OPPO-Digital-Avatar-Technology-2.jpg",
-          "width": 1024,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/?amp=1",
-      "publishedDateTime": "2022-08-23T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-how-is-machine-learning-affecting-advertising-and-marketing.md",
-      "title": "How is Machine Learning Affecting Advertising and Marketing?",
-      "excerpt": "Machine learning is transforming the dynamics of the advertising and marketing industry by segmenting and targeting specific audiences with relevant messages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/how-is-machine-learning-affecting-advertising-and-marketing",
-      "originalUrl": "https://www.bbntimes.com/technology/how-is-machine-learning-affecting-advertising-and-marketing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/How_is_Machine_Learning_Affecting_Advertising_and_Marketing_.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-florida-holds-primary-elections-that-will-decide-who-will-face-off-against-superstar-gop-gov-ron-desantis-in-november.md",
-      "title": "Florida holds primary elections that will decide who will face off against superstar GOP Gov. Ron DeSantis in November",
-      "excerpt": "The Democratic nomination for US Senate is expected to go to Rep. Val Demings, a former Orlando police chief who'd face off against GOP Sen. Marco Rubio.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8",
-      "originalUrl": "https://www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6303e6c2c9a2da00180920c2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8?amp",
-      "publishedDateTime": "2022-08-23T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain.md",
-      "title": "AI Can’t Be Fooled By GameStop’s Pivot To NFTs And Blockchain",
-      "excerpt": "The company has been struggling for profitability, and is now looking to pivot to a digital first strategy, built on blockchain and web 3.0 gaming and an NFT marketplace.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/qai/2022/08/23/ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain/",
-      "originalUrl": "https://www.forbes.com/sites/qai/2022/08/23/ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6304e73098803cc60c9de1d7/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/08/23/ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/08/23/ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain/amp/",
-      "publishedDateTime": "2022-08-23T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

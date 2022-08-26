@@ -3,12 +3,12 @@ category: news
 title: "The AI startup erasing call center worker accents: is it fighting bias – or perpetuating it?"
 excerpt: "A Silicon Valley startup offers voice-altering tech to call center workers around the world: ‘Yes, this is wrong … but a lot of things exist in the world’"
 publishedDateTime: 2022-08-24T13:13:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
-webUrl: "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
+originalUrl: "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american?amp;amp;amp;amp"
+webUrl: "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american?amp;amp;amp;amp"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
 type: article
-quality: 48
+quality: 46
 heat: -1
 published: false
 
@@ -22,7 +22,6 @@ provider:
 
 topics:
   - AI
-  - Natural Language Processing
 
 images:
   - url: "https://i.guim.co.uk/img/media/b78a80dcbe5e356a1d5b5cdcb8bec72fd38da9e8/453_682_6496_3898/master/6496.jpg?width=620&quality=85&auto=format&fit=max&s=506613242ac1f196cf1c3c70b0c77f6a"
@@ -34,16 +33,16 @@ related:
   - title: "AI Startup Wants to Make Foreign Call Center Employees Sound White"
     excerpt: "Sanas argues that its technology can be empowering for call center employees by removing bias and limiting misunderstandings during phone conversations. Critics say it's erasure."
     publishedDateTime: 2022-08-25T16:56:00Z
-    webUrl: "https://www.pcmag.com/news/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
+    webUrl: "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
-    quality: 67
+    quality: 69
     images:
-      - url: "https://i.pcmag.com/imagery/articles/05P40am6RlXf9q8pCpYsR1f-1.fit_lim.size_1200x630.v1661442988.jpg"
-        width: 1120
-        height: 630
+      - url: "https://sm.pcmag.com/t/pcmag_uk/news/a/ai-startup/ai-startup-wants-to-make-foreign-call-center-employees-sound_3ra4.1200.jpg"
+        width: 1200
+        height: 675
         isCached: true
   - title: "A startup is using AI to make call center workers sound ‘American’"
     excerpt: "Sanas says its aim is to cut through some Americans' biases towards minorities. Critics argue their services may make things worse."
@@ -62,6 +61,6 @@ related:
         height: 1500
         isCached: true
 
-secured: "K+zrntMyrw2hDNexxuQl5wv1gQDUmgcAQd1yLM0XJqsbm+vFGHF9yIOa12Oj2y6negjWCiHjKGWhHvYbsvZNwyo+6MJKG/OsaiG+PBLoGUM/dyWgCX0fws1a0JsIFGPp1nIRU6++IywDSColSftss74L2SoMlpetFPp0oPj/5IWUbwibE862f7sdGpHUS2lJK5wyCMayxm6UmXS/R1JhC+vEr+oR4mPZ+4NTrcBvRvJvW/pXUrq8aFzP6UUbVoGe2bmKcu3joUidXdDK7o+GiA4v9P4UXCuoM8e0wOEv4SsLvPwNrMkW4qqL+Kr3MGahmwYglw29HGvOZvwAE2X/k5KrBXt++bpTSVbM64cVvMe7qxdBvPald3lI3AB1K0Ei0H+l8l0u2LzL0zx6ioe2Ge+IrL1Y9Befgh5npGJxE9ZTxE6Ic7bHWZlfTN50X3gt15rnetC6wpELWwH90sgSNvo6MuVWLc60ig/cFZ+yS6TcM9EpKLbM4DBC1mbW6KL2KKoKLFx4U1RfthkVSpt0iQ==;PldMjtH2kaPdDOFr8T/KYQ=="
+secured: "isFZDy6Jx6S6S07l2XtabyRd1u4xBsSSCkVGPGD/hQvrhXV9QISshVxw8WwfltxBsI6aiN2TvocBCgT15r1EIL2nOSaYkRd8J0MN9WyydgjVuji7kyXFgDc+u55biIeu2/MAaZffXIEKE7gG/JR171Y+8POGcbUvhBjiINb2Xm5KtmpNX2iqZi+eOnQc1+w6MNozMgTzu/i4DDgJmn9214s8tvo5UYMQnRrYRHKcDibs1OnuHWZEYzVZN7r7+mbFXdLKFRwJKhNBv2ETLdmdPyFGJmN6iwTUO9Fzqgbp2L6GeCfd+iGw+pdgMS7Rlp9Jxe8+cz4F9EoqVaW7LQ21G+0w/2laP+wu3uuiCdZK6lM=;iYBhF3rNRRImVmUMMe1e4A=="
 ---
 

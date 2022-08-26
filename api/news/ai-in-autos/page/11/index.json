@@ -2,6 +2,50 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-06-15-your-subconscious-is-the-ultimate-artificial-intelligence.md",
+      "title": "Your subconscious is the ultimate ‘artificial intelligence’",
+      "excerpt": "I’ve been thinking a lot about Artificial Intelligence (AI), not about its potentials like all the articles are writing about, but about how it works, how",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
+      "originalUrl": "https://businessday.ng/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2021/01/Untitled-design-2021-01-13T165155.785.png?resize=450%2C300&ssl=1",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessday.ng/amp/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/opinion/article/your-subconscious-is-the-ultimate-artificial-intelligence/",
+      "publishedDateTime": "2022-06-14T23:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-15-for-tesla-facebook-and-others-ais-flaws-are-getting-harder-to-ignore.md",
       "title": "For Tesla, Facebook and others, AI’s flaws are getting harder to ignore",
       "excerpt": "What do Facebook Inc. co-founder Mark Zuckerberg ... from putting faith in artificial intelligence systems that have underdelivered. This could be due to a conflict with your ad-blocking or ...",
@@ -1314,49 +1358,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-hyundais-self-driving-roboride-taxi-ready-for-gangnams-streets.md",
-      "title": "Hyundai’s self-driving RoboRide taxi ready for Gangnam’s streets",
-      "excerpt": "Hyundai has launched its self-driving taxis in the streets of Gangnam, South Korea that is equipped with Level 4 autonomous driving technology.",
-      "sourceUrl": null,
-      "webUrl": "https://philkotse.com/market-news/hyundai-roboride-autonomous-self-driving-taxi-12831",
-      "originalUrl": "https://philkotse.com/market-news/hyundai-roboride-autonomous-self-driving-taxi-12831",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.philkotse.com/2022/06/10/O3IWXvly/1-c8f8_wm.jpg",
-          "width": 900,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://philkotse.com/market-news/hyundai-roboride-autonomous-self-driving-taxi-12831/amp",
-      "cdnAmpWebUrl": "https://philkotse-com.cdn.ampproject.org/c/s/philkotse.com/market-news/hyundai-roboride-autonomous-self-driving-taxi-12831/amp",
-      "publishedDateTime": "2022-06-09T20:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Philkotse",
-        "domain": "philkotse.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

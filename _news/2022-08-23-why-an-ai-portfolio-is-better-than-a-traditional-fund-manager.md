@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/qai/2022/08/23/why-an-ai-portfolio-is
 webUrl: "https://www.forbes.com/sites/qai/2022/08/23/why-an-ai-portfolio-is-better-than-a-traditional-fund-manager/"
 type: article
 quality: 47
-heat: -1
+heat: 47
 published: false
 
 provider:
@@ -20,24 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Quantum computing is an even bigger threat than artificial intelligence – here’s why"
-    excerpt: "Given the potential scope and capabilities of quantum technology, it is absolutely crucial not to repeat the mistakes made with AI—where regulatory failure has given the world algorithmic bias that hypercharges human prejudices,"
-    publishedDateTime: 2022-08-25T11:14:00Z
-    webUrl: "https://wraltechwire.com/2022/08/25/quantum-computing-is-an-even-bigger-threat-than-artificial-intelligence-heres-why/"
-    ampWebUrl: "https://wraltechwire.com/2022/08/25/quantum-computing-is-an-even-bigger-threat-than-artificial-intelligence-heres-why/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/25/quantum-computing-is-an-even-bigger-threat-than-artificial-intelligence-heres-why/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 50
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
-        width: 772
-        height: 434
-        isCached: true
 
 secured: "W9MvhU07kBGi7w3KteIwVzsyYvKm+9/lBCcVVYcnmNvj5Vmc3A/8WRpDEF3rNIg44lpCf0gubEvWyTTNi/O0tHkEr4Yh28TTNcLMJbVkLRQo6r/ZWrmz+z/XxyF3VQz27JJfllKcFCVM9SZT3zAL11RHXWAt5Y5TJC6+bf2UgrsmVZg/QEIo2PTQmCfezdNQWVtCszLC/T4RSfkhxawq610bRip2OBLHdD5a8Ri2aP01uO3/CpLYStnEefX5Nhb4O++IxSgV1f4dfol7byXJpLifRfnuZ5u27zh9oEpajsGe/gjIibBbQmL48UxlaVXw1gcengOG9YtuV+BU8K34jxM6cEomBC9gZDyouZ2M6nY0oYnnPnVv/qzfO12DUzooLpyY6v2aqtgGuwjQ9EUZytWaFzX/NNBFx9oXCJdlFFZjO6iFN5LBlb217JGKaUrgPnsD25UqAQtjRFWT+1HceYxvR9i3mqNgBtooiGyT5VrorTtWNQ+fdAq82/4e6/28mW9YZmQ/37T6Uv18yDMDTQ==;Pa7G7c7hARFeORvc6mHn2A=="
 ---

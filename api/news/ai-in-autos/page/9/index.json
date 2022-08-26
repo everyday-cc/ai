@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-06-24-gm-cruise-takes-first-fares-for-paid-driverless-taxi-in-san-francisco.md",
+      "title": "GM Cruise takes first fares for paid driverless taxi in San Francisco",
+      "excerpt": "GM’s autonomous driving division, Cruise, has begun its paid driverless taxi service in San Francisco and officially took its first fares last night. Cruise’s program is still quite limited ...",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/06/23/gm-cruise-takes-first-fares-for-paid-driverless-taxi-in-san-francisco/",
+      "originalUrl": "https://electrek.co/2022/06/23/gm-cruise-takes-first-fares-for-paid-driverless-taxi-in-san-francisco/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/12/cruise-bolt-2000.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/06/23/gm-cruise-takes-first-fares-for-paid-driverless-taxi-in-san-francisco/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/23/gm-cruise-takes-first-fares-for-paid-driverless-taxi-in-san-francisco/amp/",
+      "publishedDateTime": "2022-06-23T13:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-24-10-smart-artificial-intelligence-ai-stocks-to-buy.md",
       "title": "10 Smart Artificial Intelligence (AI) Stocks to Buy",
       "excerpt": "Artificial intelligence (AI), for all of its futuristic elements, is not a new category – not by a long shot. The roots of the technology go all the way back to the late 1950s, when computers started to become much more powerful.",
@@ -1304,50 +1356,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-how-artificial-intelligence-is-revolutionising-healthcare.md",
-      "title": "How Artificial Intelligence is revolutionising healthcare",
-      "excerpt": "Artificial Intelligence (AI) may never be able to adopt the comforting 'bedside manner' that good doctors are known for, but it may be better equipped to diagnose your ailments accurately.",
-      "sourceUrl": null,
-      "webUrl": "https://www.euronews.com/next/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
-      "originalUrl": "https://www.euronews.com/next/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.euronews.com/articles/stories/06/77/95/72/1000x563_cmsv2_318135f2-319f-5def-a5e6-ef3157a46aa7-6779572.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.euronews.com/next/amp/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
-      "cdnAmpWebUrl": "https://www-euronews-com.cdn.ampproject.org/c/s/www.euronews.com/next/amp/2022/06/20/how-artificial-intelligence-is-revolutionising-healthcare",
-      "publishedDateTime": "2022-06-20T03:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Euronews",
-        "domain": "euronews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

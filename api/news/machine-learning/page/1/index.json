@@ -239,21 +239,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-24-deep-learning-algorithm-may-streamline-lung-cancer-radiotherapy-treatment.md",
-      "title": "Deep learning algorithm may streamline lung cancer radiotherapy treatment",
+      "path": "_news/2022-08-24-streamlining-lung-cancer-radiotherapy-with-deep-learning.md",
+      "title": "Streamlining lung cancer radiotherapy with Deep Learning",
       "excerpt": "Lung cancer, the most common cancer worldwide, is targeted with radiation therapy (RT) in nearly one-half of cases. RT planning is a manual, resource-intensive process that can take days to weeks to complete,",
       "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html",
+      "webUrl": "https://healthcare-in-europe.com/en/news/lung-cancer-radiotherapy-deep-learning.html",
+      "originalUrl": "https://healthcare-in-europe.com/en/news/lung-cancer-radiotherapy-deep-learning.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 150,
+      "heat": 131,
       "tags": null,
       "images": [
         {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/lung-scan.jpg",
-          "width": 2880,
-          "height": 1966,
+          "url": "https://healthcare-in-europe.com/media/story/27271/rect-01-adobestock-296280067.jpg",
+          "width": 400,
+          "height": 240,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -261,13 +261,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp",
-      "publishedDateTime": "2022-08-23T15:30:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T04:51:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
+        "name": "healthcare-in-europe.com",
+        "domain": "healthcare-in-europe.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -277,9 +277,9 @@
         "news"
       ],
       "topics": [
-        "Machine Learning",
+        "AI in Healthcare",
         "AI",
-        "AI in Healthcare"
+        "Machine Learning"
       ]
     },
     {

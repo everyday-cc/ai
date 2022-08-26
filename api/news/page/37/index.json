@@ -2,6 +2,197 @@
   "page": 37,
   "value": [
     {
+      "path": "_news/2022-07-26-artificial-intelligence-market-size-to-grow-by-usd-71520-mn-accenture-plc-and-alphabet-inc-among-key-vendors-technavio.md",
+      "title": "Artificial Intelligence Market Size to Grow by USD 715.20 Mn, Accenture Plc and Alphabet Inc. Among Key Vendors - Technavio",
+      "excerpt": "The artificial intelligence-based personalization market size is expected to grow by USD 715.20 mn. Moreover, the growth momentum of the market will accelerate at a CAGR of 19.17% during the forecast period.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-size-grow-usd-71520-mn-/2022/07/26/9644662.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-artificial-intelligence-market-size-grow-usd-71520-mn-/2022/07/26/9644662.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1865572/Technavio_Global_Artificial_Intelligence_Based_Personalization_Market_Report.jpg",
+          "width": 400,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T05:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-experts-weigh-in-on-voice-control-technologys-pros-cons-and-future.md",
+      "title": "Experts Weigh In On Voice Control Technology’s Pros, Cons And Future",
+      "excerpt": "Perhaps you’ve had desperate moments with voice control technology in your own home when you just wanted to shut the whole thing down.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/",
+      "originalUrl": "https://www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62df283e2cad6567902ace2e/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jamiegold/2022/07/26/experts-weigh-in-on-voice-control-technologys-pros-cons-and-future/amp/",
+      "publishedDateTime": "2022-07-26T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-its-finally-time-for-ai-in-healthcare.md",
+      "title": "It’s Finally Time For AI In Healthcare",
+      "excerpt": "Artificial intelligence (AI) has been the promise of healthcare for nearly a decade, but the industry has yet to adopt it widely. Applications of AI in arguably more difficult domains, such as search,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 136,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/609e821d654474333e16c7cf/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/26/its-finally-time-for-ai-in-healthcare/amp/",
+      "publishedDateTime": "2022-07-26T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-26-natural-language-processing-market-size-share-industry-outlook-global-forecast-to-2031.md",
+      "title": "Natural Language Processing Market Size, Share, Industry Outlook & Global Forecast To 2031",
+      "excerpt": "Shibuya-ku, Tokyo, Japan, Japan, Jul 26, 2022, 06:04 /Comserve / -- Impact Analysis of COVID-19 on the Global Natural Language Processing Market: As per the study of Research Dive, the Global ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104592541/Natural-Language-Processing-Market-Size-Share-Industry-Outlook-Global-Forecast-To-2031",
+      "originalUrl": "https://menafn.com/1104592541/Natural-Language-Processing-Market-Size-Share-Industry-Outlook-Global-Forecast-To-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?357472",
+          "width": 374,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-26T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-3-green-flags-for-c3ais-future.md",
       "title": "3 Green Flags for C3.ai's Future",
       "excerpt": "C3.ai's stock trades below $20 a share for three simple reasons. First, its valuations had reached unsustainable levels. At its peak, it was valued at $17 billion -- or 93 times the revenue it would actually generate in fiscal 2021 (which ended last April).",
@@ -920,187 +1111,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-insight-earns-2022-microsoft-partner-of-the-year-award-for-manufacturing.md",
-      "title": "Insight Earns 2022 Microsoft Partner of the Year Award for Manufacturing",
-      "excerpt": "Insight used its Insight Lens™ framework to migrate multiple siloed datasets into an optimized Azure machine learning architecture built on Databricks. The result is an increase in about $20 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/07/b28190502/insight-earns-2022-microsoft-partner-of-the-year-award-for-manufacturing",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/b28190502/insight-earns-2022-microsoft-partner-of-the-year-award-for-manufacturing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media1.giphy.com/media/EzXPrmT1OkFzSOZCYk/giphy.gif?cid=790b76117b7eac17bcda03db891dbf848ba5609ab58125f6&rid=giphy.gif&ct=g",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28190502",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28190502",
-      "publishedDateTime": "2022-07-25T09:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-chess-playing-robot-breaks-young-boys-finger-during-match-in-moscow.md",
-      "title": "Chess-playing robot breaks young boy's finger during match in Moscow",
-      "excerpt": "The incident happened after the 7-year-old hurried the artificial intelligence-powered robot, the president of the Moscow Chess Federation told the Russian state news agency Tass.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nbcnews.com/news/world/chess-robot-breaks-boys-finger-during-match-moscow-tournament-rcna39784",
-      "originalUrl": "https://www.nbcnews.com/news/world/chess-robot-breaks-boys-finger-during-match-moscow-tournament-rcna39784",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-07/220725-chess-robot-al-0643-2bfcae.jpg",
-          "width": 2500,
-          "height": 1691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nbcnews.com/news/amp/rcna39784",
-      "cdnAmpWebUrl": "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna39784",
-      "publishedDateTime": "2022-07-25T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC News",
-        "domain": "nbcnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-nvidia-ai-enterprise-21-bolsters-support-for-open-source.md",
-      "title": "Nvidia AI Enterprise 2.1 bolsters support for open source",
-      "excerpt": "Nvidia updated its AI Enterprise to version 2.1, providing new tools to help run AI and ML workloads for enterprise use cases.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/",
-      "originalUrl": "https://venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 169,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/NVIDIA.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 748,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/25/nvidia-ai-enterprise-2-1-bolsters-support-for-open-source/amp/",
-      "publishedDateTime": "2022-07-25T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-07-25-as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best.md",
-      "title": "As Meta’s new AI translation tools make waves, these language learning systems are still the best",
-      "excerpt": "There is a big difference between using a translation tool, such as Meta’s No Language Left Behind, and learning another language’s nuances via a course.",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc27.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/",
-      "originalUrl": "https://www.abc27.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.abc27.com/wp-content/uploads/sites/55/2022/07/while-meta-s-new-ai-powered-translation-tools-are-making-waves-these-language-learning-systems-are-54d0b6.jpg?w=1280",
-          "width": 1040,
-          "height": 585,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.abc27.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/",
-      "cdnAmpWebUrl": "https://www-abc27-com.cdn.ampproject.org/c/s/www.abc27.com/reviews/as-metas-new-ai-translation-tools-make-waves-these-language-learning-systems-are-still-the-best/amp/",
-      "publishedDateTime": "2022-07-25T07:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "abc27",
-        "domain": "abc27.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

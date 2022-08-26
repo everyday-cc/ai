@@ -3,11 +3,11 @@ category: news
 title: "AI Startup Wants to Make Foreign Call Center Employees Sound White"
 excerpt: "Sanas argues that its technology can be empowering for call center employees by removing bias and limiting misunderstandings during phone conversations. Critics say it's erasure."
 publishedDateTime: 2022-08-25T16:56:00Z
-originalUrl: "https://www.pcmag.com/news/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
-webUrl: "https://www.pcmag.com/news/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
+originalUrl: "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
+webUrl: "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
 type: article
-quality: 67
-heat: 87
+quality: 69
+heat: 89
 published: true
 
 provider:
@@ -19,12 +19,13 @@ provider:
       height: 50
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://i.pcmag.com/imagery/articles/05P40am6RlXf9q8pCpYsR1f-1.fit_lim.size_1200x630.v1661442988.jpg"
-    width: 1120
-    height: 630
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/a/ai-startup/ai-startup-wants-to-make-foreign-call-center-employees-sound_3ra4.1200.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -47,20 +48,20 @@ related:
   - title: "The AI startup erasing call center worker accents: is it fighting bias – or perpetuating it?"
     excerpt: "A Silicon Valley startup offers voice-altering tech to call center workers around the world: ‘Yes, this is wrong … but a lot of things exist in the world’"
     publishedDateTime: 2022-08-24T13:13:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
+    webUrl: "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american?amp;amp;amp;amp"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 48
+    quality: 46
     images:
       - url: "https://i.guim.co.uk/img/media/b78a80dcbe5e356a1d5b5cdcb8bec72fd38da9e8/453_682_6496_3898/master/6496.jpg?width=620&quality=85&auto=format&fit=max&s=506613242ac1f196cf1c3c70b0c77f6a"
         width: 620
         height: 372
         isCached: true
 
-secured: "YjZE/YvyKcUbtwSsbhaxVUNi+Q27RqyeKvOsNUNuy5jU8SaE0+AtL4VSji02vgeCTmEpUBnupqSMkOJy42xMl4CkIJuKuhlnQzl5Ce0LTnxfeMFD2MjqmexgvKRzDI019eqD+ju5By4QMkI3gPqCtgoRTVu4oP3b7Ax5z6ylK8ojKNcyI5i4in83nlACu4iWEFQ3CcE0/tCZb8gz6+VLvjBm0UFP0s08plFfuIPwyUdZPzOVzxpgpGr7TYW1NLRNkFPDBft9nosCTdNYiMnndMIupaTxJQD1/mT8I9UlInLxA+/SnC5NTboq/34zjFnd0ds1YUcF2XIo3tuGdNYCn4q/8WKsiPQpHupWD/xhXKo=;O7qwfN1El0+mgTe+5bzayw=="
+secured: "sSeiiA2mW53oCwHN84n0th8ttbhR9RxiXupxkBFL60SBad9M7MFXrKKhA5tT1RCz9juaixWh95pjo6oWio5+I/yhjvcXx3OKFuD7XHO/IwVMn2sxtle86GBteYTRMWvt24gtEw28nqx4DofeYTVqEh1jxWoahB/HsV+VIWCqfDhFYQ/InfKXm+YTnGgYyWuUOldEuuMHjK5fmTXrIj6xHNT/CNGk8XgzTQ8ynSa1O0s+1baDY08BEtlpAp1b2vXcj5uEHQdILvjXS36p7C8U2XHqC6LCFDyj0vhEV6WVSfH5oNuQPyYWvhqymP5aJWkBXfUcx5W8O+gXxql8w72K/Ewk9XAIwP7c65IZuJuxG+g=;rNpiaKiG/oVXh9htaHm+gw=="
 ---
 

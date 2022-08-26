@@ -19,19 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "We need to talk about how good AI is getting"
-    excerpt: "We’re in a golden age of progress in artificial intelligence. It’s time to start taking its potential and risks seriously."
-    publishedDateTime: 2022-08-25T07:19:00Z
-    webUrl: "https://www.japantimes.co.jp/news/2022/08/25/business/tech/ai-technology-reckoning/"
+  - title: "Counterpoint: AI is far more dangerous than quantum computing"
+    excerpt: "A respectful counterpoint to an op-ed article published earlier this week declaring quantum computing a greater threat than AI."
+    publishedDateTime: 2022-08-25T19:35:00Z
+    webUrl: "https://thenextweb.com/news/counterpoint-ai-far-more-dangerous-than-quantum-computing"
     type: article
     provider:
-      name: ジャパンタイムズ
-      domain: japantimes.co.jp
-    quality: 37
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 67
     images:
-      - url: "https://cdn-japantimes.com/wp-content/uploads/2022/08/np_file_178532-870x489.jpeg"
-        width: 870
-        height: 489
+      - url: "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Fscaredrobot.jpg&signature=33af3f0f76c643a35c6038c920c40200"
+        width: 1280
+        height: 640
+        isCached: true
+  - title: "Quantum computing is an even bigger threat than artificial intelligence – here’s why"
+    excerpt: "Given the potential scope and capabilities of quantum technology, it is absolutely crucial not to repeat the mistakes made with AI—where regulatory failure has given the world algorithmic bias that hypercharges human prejudices,"
+    publishedDateTime: 2022-08-25T11:14:00Z
+    webUrl: "https://wraltechwire.com/2022/08/25/quantum-computing-is-an-even-bigger-threat-than-artificial-intelligence-heres-why/"
+    ampWebUrl: "https://wraltechwire.com/2022/08/25/quantum-computing-is-an-even-bigger-threat-than-artificial-intelligence-heres-why/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/25/quantum-computing-is-an-even-bigger-threat-than-artificial-intelligence-heres-why/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 50
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
+        width: 772
+        height: 434
         isCached: true
 
 secured: "d2W1VN8J0H+W8pjK6vIGY7IwuPsqsTyX4+2ICSzTqa8MhwZ480IoeKm6nlW6U2gjYr4AvICC8HeevLuyj8tUnhqhbv1Z5rg/iNskGeaKwCwCNM9f10IO8/jjXSkg/pQMQy71KXS+Bqoc4He+9GIO5p0ooL5uLbBqSs5aOloT4FZIPn7THuEgochArE0250BQsEHXLHIIBqw3rI+5kIj4zyUI25tOH+VWn1y/+41BtyKmGPgUpMAwpXQSFjaLHkoXynWCnPiInhT96Iqf65qjgegmSkm6Q8wy1ovGG//pSJsXKrToOajCMijm62EcmggTvhcaJBfEafSDhMdlCjpJ5PtkjQW5m/onQVjyakwIa/g=;Zi4l5Xod6/Cp6PgBwKHVdA=="

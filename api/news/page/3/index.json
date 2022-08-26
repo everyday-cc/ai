@@ -2,6 +2,205 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-23-oppo-unveils-its-latest-ai-technology-for-creating-animated-digital-avatar.md",
+      "title": "OPPO unveils its latest AI technology for creating Animated Digital Avatar",
+      "excerpt": "This marks a breakthrough in OPPO AI technology. It is an AI-driven technology that can create animated digital avatars using a few phones. The new OPPO AI technology is adept at loose clothes appearance learning and skeleton motion modeling. The new OPPO ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/",
+      "originalUrl": "https://www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmochina.com/wp-content/uploads/2022/08/OPPO-Digital-Avatar-Technology-2.jpg",
+          "width": 1024,
+          "height": 574,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/?amp=1",
+      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/?amp=1",
+      "publishedDateTime": "2022-08-23T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmochina",
+        "domain": "gizmochina.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-how-is-machine-learning-affecting-advertising-and-marketing.md",
+      "title": "How is Machine Learning Affecting Advertising and Marketing?",
+      "excerpt": "Machine learning is transforming the dynamics of the advertising and marketing industry by segmenting and targeting specific audiences with relevant messages.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbntimes.com/technology/how-is-machine-learning-affecting-advertising-and-marketing",
+      "originalUrl": "https://www.bbntimes.com/technology/how-is-machine-learning-affecting-advertising-and-marketing",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.bbntimes.com/images/articles/global-economy/How_is_Machine_Learning_Affecting_Advertising_and_Marketing_.jpg",
+          "width": 1000,
+          "height": 563,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "bbntimes",
+        "domain": "bbntimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-florida-holds-primary-elections-that-will-decide-who-will-face-off-against-superstar-gop-gov-ron-desantis-in-november.md",
+      "title": "Florida holds primary elections that will decide who will face off against superstar GOP Gov. Ron DeSantis in November",
+      "excerpt": "The Democratic nomination for US Senate is expected to go to Rep. Val Demings, a former Orlando police chief who'd face off against GOP Sen. Marco Rubio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8",
+      "originalUrl": "https://www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6303e6c2c9a2da00180920c2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8?amp",
+      "publishedDateTime": "2022-08-23T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain.md",
+      "title": "AI Can’t Be Fooled By GameStop’s Pivot To NFTs And Blockchain",
+      "excerpt": "The company has been struggling for profitability, and is now looking to pivot to a digital first strategy, built on blockchain and web 3.0 gaming and an NFT marketplace.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/08/23/ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/08/23/ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6304e73098803cc60c9de1d7/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/08/23/ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/08/23/ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain/amp/",
+      "publishedDateTime": "2022-08-23T07:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-why-some-ai-companies-are-securing-massive-funding-despite-economic-downturn.md",
       "title": "Why some AI companies are securing massive funding despite economic downturn",
       "excerpt": "Despite the economic downturn, some AI startups have had no trouble raising huge investment rounds, hinting at the AI market's future.",
@@ -548,7 +747,7 @@
       "originalUrl": "https://newatlas.com/health-wellbeing/ai-parkinsons-disease-sleep-breathing-patterns-mit",
       "featuredContent": null,
       "highlight": null,
-      "heat": 187,
+      "heat": 197,
       "tags": null,
       "images": [
         {
@@ -1028,182 +1227,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-artificial-intelligence-is-the-new-frontier-of-ethical-tests.md",
-      "title": "Artificial intelligence is the new frontier of ethical tests",
-      "excerpt": "This has, predictably, put the debate over artificial intelligence centre stage ... dilemma around who to save when there are choices and how does one stop a robot going “rogue?” As AI becomes more common-place, regulators have been seeking to grapple ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/",
-      "originalUrl": "https://www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2022/08/GettyImages-928215790.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/?amp=1",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/?amp=1",
-      "publishedDateTime": "2022-08-22T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-graymatter-robotics-raises-20m-in-series-a-funding.md",
-      "title": "GrayMatter Robotics Raises $20M in Series A Funding",
-      "excerpt": "GrayMatter Robotics, an artificial intelligence robotics solutions company, announced last week it raised $20 million in Series A investment led by Bow Capital and joined by B Capital Group, Calibrate Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://labusinessjournal.com/technology/graymatter-robotics-raises-20m-in-series-a-funding/",
-      "originalUrl": "https://labusinessjournal.com/technology/graymatter-robotics-raises-20m-in-series-a-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3evu7qlt2vui6.cloudfront.net/wp-content/uploads/2022/08/PG04_GRAYMATTER_0822_scansand-scaled-e1660932740192.jpeg",
-          "width": 1162,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Business Journal",
-        "domain": "labusinessjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills.md",
-      "title": "How to become an AI Engineer? Check out to know education, roles and skills",
-      "excerpt": "In fact, there has been a massive 154% growth in the worldwide AI market. Artificial Intelligence impacts how machines may improve human life, from driverless automobiles to android systems in phones, apps, and other electronic gadgets. And to maintain and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/edugraph/career/how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills/cid/1881672",
-      "originalUrl": "https://www.telegraphindia.com/edugraph/career/how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills/cid/1881672",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telegraphindia.com/telegraph/2022/Aug/1661151572_untitled-3.jpg",
-          "width": 428,
-          "height": 285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraphindia.com/amp/edugraph/career/how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills/cid/1881672",
-      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/career/how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills/cid/1881672",
-      "publishedDateTime": "2022-08-22T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "telegraphindia.com",
-        "domain": "telegraphindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment.md",
-      "title": "Israeli Fintech Vyzer Selects Salt Edge to Provide Open Banking Boost to Investment",
-      "excerpt": "Vyzer, an Israeli-based fintech consumer focused startup, joined forces with Salt Edge, a key player in offering open banking solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/03/Israel-Tel-Aviv-2019.jpg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/amp/",
-      "publishedDateTime": "2022-08-21T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

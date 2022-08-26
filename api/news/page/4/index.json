@@ -2,6 +2,182 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-22-artificial-intelligence-is-the-new-frontier-of-ethical-tests.md",
+      "title": "Artificial intelligence is the new frontier of ethical tests",
+      "excerpt": "This has, predictably, put the debate over artificial intelligence centre stage ... dilemma around who to save when there are choices and how does one stop a robot going “rogue?” As AI becomes more common-place, regulators have been seeking to grapple ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/",
+      "originalUrl": "https://www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cityam.com/wp-content/uploads/2022/08/GettyImages-928215790.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/?amp=1",
+      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/?amp=1",
+      "publishedDateTime": "2022-08-22T00:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "City A.M.",
+        "domain": "cityam.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-graymatter-robotics-raises-20m-in-series-a-funding.md",
+      "title": "GrayMatter Robotics Raises $20M in Series A Funding",
+      "excerpt": "GrayMatter Robotics, an artificial intelligence robotics solutions company, announced last week it raised $20 million in Series A investment led by Bow Capital and joined by B Capital Group, Calibrate Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://labusinessjournal.com/technology/graymatter-robotics-raises-20m-in-series-a-funding/",
+      "originalUrl": "https://labusinessjournal.com/technology/graymatter-robotics-raises-20m-in-series-a-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3evu7qlt2vui6.cloudfront.net/wp-content/uploads/2022/08/PG04_GRAYMATTER_0822_scansand-scaled-e1660932740192.jpeg",
+          "width": 1162,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-22T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Business Journal",
+        "domain": "labusinessjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills.md",
+      "title": "How to become an AI Engineer? Check out to know education, roles and skills",
+      "excerpt": "In fact, there has been a massive 154% growth in the worldwide AI market. Artificial Intelligence impacts how machines may improve human life, from driverless automobiles to android systems in phones, apps, and other electronic gadgets. And to maintain and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/edugraph/career/how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills/cid/1881672",
+      "originalUrl": "https://www.telegraphindia.com/edugraph/career/how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills/cid/1881672",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2022/Aug/1661151572_untitled-3.jpg",
+          "width": 428,
+          "height": 285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/edugraph/career/how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills/cid/1881672",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/career/how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills/cid/1881672",
+      "publishedDateTime": "2022-08-22T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telegraphindia.com",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment.md",
+      "title": "Israeli Fintech Vyzer Selects Salt Edge to Provide Open Banking Boost to Investment",
+      "excerpt": "Vyzer, an Israeli-based fintech consumer focused startup, joined forces with Salt Edge, a key player in offering open banking solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/03/Israel-Tel-Aviv-2019.jpg",
+          "width": 1280,
+          "height": 960,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/amp/",
+      "publishedDateTime": "2022-08-21T22:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-22-human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving.md",
       "title": "Human drivers in UK won’t be liable for accidents when vehicle is self-driving",
       "excerpt": "Manufacturers operating self-driving vehicles in the UK will be liable for a vehicle’s actions when in autonomous mode, according to the country’s new roadmap to achieve a widespread rollout of self-driving vehicles by 2025. The British government ...",
@@ -1007,197 +1183,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-chips-are-down-american-semiconductors-falter-as-long-awaited-chips-act-arrives.md",
-      "title": "Chips Are Down: American Semiconductors Falter as Long-Awaited CHIPS Act Arrives",
-      "excerpt": "The Philadelphia semiconductor index dropped 4.6% on Tuesday, its biggest setback in roughly two months, with all the index firms losing ground. So how do we make sense of the chip sector",
-      "sourceUrl": null,
-      "webUrl": "https://www.wane.com/news/national-world/chips-are-down-american-semiconductors-falter-as-long-awaited-chips-act-arrives/",
-      "originalUrl": "https://www.wane.com/news/national-world/chips-are-down-american-semiconductors-falter-as-long-awaited-chips-act-arrives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wane.com/wp-content/uploads/sites/21/2022/08/chips-photo.jpg?w=1280",
-          "width": 400,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wane.com/news/national-world/chips-are-down-american-semiconductors-falter-as-long-awaited-chips-act-arrives/amp/",
-      "cdnAmpWebUrl": "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/news/national-world/chips-are-down-american-semiconductors-falter-as-long-awaited-chips-act-arrives/amp/",
-      "publishedDateTime": "2022-08-19T16:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wane",
-        "domain": "wane.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-a-critical-review-of-the-eus-ethics-guidelines-for-trustworthy-ai.md",
-      "title": "A critical review of the EU’s ‘Ethics Guidelines for Trustworthy AI’",
-      "excerpt": "The European Union might have the most human-centric, robust AI governance strategy on the planet... but it could use a little fine-tuning.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/critical-review-eus-ethics-guidelines-for-trustworthy-ai",
-      "originalUrl": "https://thenextweb.com/news/critical-review-eus-ethics-guidelines-for-trustworthy-ai",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F08%2FEUAI.jpg&signature=740c3dea8a0b8105b0874dc13e95b57e",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-hyundai-motor-group-launches-new-ai-institute-to-build-better-robots-for-the-future.md",
-      "title": "Hyundai Motor Group Launches New AI Institute to Build Better Robots for the Future",
-      "excerpt": "Hyundai Motor Group announced the launch of Boston Dynamics AI Institute (the Institute), which will work toward making strides in artificial intelligence (AI), robotics, and intelligent machines. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/hyundai-motor-group-launches-new-ai-institute-to-build-better-robots-future",
-      "originalUrl": "https://www.natlawreview.com/article/hyundai-motor-group-launches-new-ai-institute-to-build-better-robots-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/hyundai-motor-group-launches-new-ai-institute-to-build-better-robots-future?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/hyundai-motor-group-launches-new-ai-institute-to-build-better-robots-future?amp",
-      "publishedDateTime": "2022-08-19T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-britain-sets-out-roadmap-for-self-driving-vehicle-usage-by-2025.md",
-      "title": "Britain sets out roadmap for self driving vehicle usage by 2025",
-      "excerpt": "Britain said on Friday it wanted a widespread rollout of self-driving vehicles on roads by 2025, announcing plans for new laws and 100 million pounds ($119.09 million) of funding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/britain-sets-out-roadmap-self-driving-vehicle-usage-by-2025-2022-08-19/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/britain-sets-out-roadmap-self-driving-vehicle-usage-by-2025-2022-08-19/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/-bD145K776yCk-35pfGOxAdMuxA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LAUS5LTOURJXXD3N5LFTSFEYMA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://images.axios.com/r6dMsuHu9l_rds8BmSeTqxcg4UI=/0x0:1920x1080/1366x768/2022/08/17/1660696922141.jpg"

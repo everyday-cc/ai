@@ -2,6 +2,200 @@
   "page": 127,
   "value": [
     {
+      "path": "_news/2022-05-19-machine-learning-framework-pytorch-enabling-gpu-accelerated-training-on-apple-silicon-macs.md",
+      "title": "Machine Learning Framework PyTorch Enabling GPU-Accelerated Training on Apple Silicon Macs",
+      "excerpt": "In collaboration with the Metal engineering team at Apple, PyTorch today announced that its open source machine learning framework will soon support GPU-accelerated model training on Apple silicon Macs powered by M1, M1 Pro, or M1 Max chips. Until now ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.macrumors.com/2022/05/18/pytorch-gpu-accelerated-training-apple-silicon/",
+      "originalUrl": "https://www.macrumors.com/2022/05/18/pytorch-gpu-accelerated-training-apple-silicon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.macrumors.com/t/j1xq0VbOUNTowCRcKQkyv9DRnM0=/2000x/article-new/2022/05/pytorch.jpg",
+          "width": 2000,
+          "height": 1125,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MacRumors",
+        "domain": "macrumors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-too-little-too-late-apple-reverses-remote-work-policy-after-machine-learning-head-decamps-to-alphabet.md",
+      "title": "Too Little Too Late: Apple Reverses Remote Work Policy After Machine Learning Head Decamps to Alphabet",
+      "excerpt": "That job switch marks a major blow for Apple, a company that’s struggled to appease workers at odds with its return to work strategy. Goodfellow, who’s the most senior member known to have jumped ship over remote work so far,",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742",
+      "originalUrl": "https://gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/1df6fad1a744c6167d22b8a2880b1d68.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/apple-return-to-work-policy-alphabet-machine-learnin-1848942742/amp",
+      "publishedDateTime": "2022-05-18T09:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant.md",
+      "title": "Univ. of Washington and Meta partner on program linking PhD students to AI mentors at tech giant",
+      "excerpt": "Allen School of Computer Science & Engineering to form the Meta AI Mentorship Program ... might engage on such things as representation learning, natural language generation, machine translation, question answering, semantic parsing and large-scale ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.geekwire.com/2022/univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant/",
+      "originalUrl": "https://www.geekwire.com/2022/univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.geekwire.com/2022/univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant/amp/",
+      "cdnAmpWebUrl": "https://www-geekwire-com.cdn.ampproject.org/c/s/www.geekwire.com/2022/univ-of-washington-and-meta-partner-on-program-linking-phd-students-to-ai-mentors-at-tech-giant/amp/",
+      "publishedDateTime": "2022-05-18T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GeekWire",
+        "domain": "geekwire.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/geekwire.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-18-aws-and-temenos-team-up-for-speedier-banking.md",
+      "title": "AWS and Temenos team up for speedier banking",
+      "excerpt": "Amazon Web Services (AWS) has joined with cloud banking software provider ... He has a wide range of specialities including cybersecurity, fintech, cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/uk/news/aws-and-temenos-team-up-for-speedier-banking",
+      "originalUrl": "https://www.techradar.com/uk/news/aws-and-temenos-team-up-for-speedier-banking",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/7RB6x6ga3Yjd83zESPEq2L-1200-80.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-performing-artists-push-for-copyright-protection-from-ai-deepfakes.md",
       "title": "Performing artists push for copyright protection from AI deepfakes",
       "excerpt": "When a friend messaged voice actor Bev Standing to ask whether she was the voice of TikTok's text-to-speech feature, the Canadian performer's surprise soon turned to irritation.",
@@ -949,179 +1143,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-tesla-increases-top-speed-of-autopilot-with-tesla-vision-to-85-mph.md",
-      "title": "Tesla increases top speed of Autopilot with ‘Tesla Vision’ to 85 mph",
-      "excerpt": "Tesla has started to push a new software update to increase the top speed limit of Autopilot for vehicles with ‘Tesla Vision’ to 85 mph. It is almost a year to the day that Tesla announced the transition to its “Tesla Vision” Autopilot without radar.",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/05/18/tesla-increases-top-speed-autopilot-vision/",
-      "originalUrl": "https://electrek.co/2022/05/18/tesla-increases-top-speed-autopilot-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/07/Tesla-Autopilot-hero-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/05/18/tesla-increases-top-speed-autopilot-vision/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/18/tesla-increases-top-speed-autopilot-vision/amp/",
-      "publishedDateTime": "2022-05-18T02:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round.md",
-      "title": "Indian Robotics Firm GreyOrange Raises $110 Mn In A Funding Round",
-      "excerpt": "Tiger Global-backed Indian robotics firm GreyOrange has raised $110 Mn in the latest funding round, as per reports.",
-      "sourceUrl": null,
-      "webUrl": "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/",
-      "originalUrl": "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inc42.com/wp-content/uploads/2022/05/Feature-fashion-300x225.png",
-          "width": 300,
-          "height": 225,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/amp/",
-      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/amp/",
-      "publishedDateTime": "2022-05-18T02:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "inc42.com",
-        "domain": "inc42.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-movai-partners-with-ouster-to-equip-autonomous-mobile-robots-with-high-resolution-digital-lidar-for-challenging-warehouse-environments.md",
-      "title": "MOV.AI Partners with Ouster to Equip Autonomous Mobile Robots with High-Resolution Digital Lidar for Challenging Warehouse Environments",
-      "excerpt": "Combining Ouster's high-resolution data with the MOV.AI Robotics Engine Platform TM, advanced SLAM navigation, obstacle avoidance, and risk avoidance solutions, AMRs can operate efficiently and continuously in challenging warehouse environments ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wate.com/business/press-releases/cision/20220518LN60539/mov-ai-partners-with-ouster-to-equip-autonomous-mobile-robots-with-high-resolution-digital-lidar-for-challenging-warehouse-environments/",
-      "originalUrl": "https://www.wate.com/business/press-releases/cision/20220518LN60539/mov-ai-partners-with-ouster-to-equip-autonomous-mobile-robots-with-high-resolution-digital-lidar-for-challenging-warehouse-environments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WATE 6 On Your Side",
-        "domain": "wate.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-build-back-better-business-solutions-with-azure-and-microsoft-365.md",
-      "title": "Build Back Better: Business Solutions with Azure and Microsoft 365",
-      "excerpt": "How to build innovative solutions that solve real business problems using Azure and Microsoft 365. No code, low code and pro code.",
-      "sourceUrl": null,
-      "webUrl": "https://www.sharepointeurope.com/events/build-back-better-business-solutions-with-azure-and-microsoft-365/",
-      "originalUrl": "https://www.sharepointeurope.com/events/build-back-better-business-solutions-with-azure-and-microsoft-365/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.sharepointeurope.com/wp-content/uploads/speakers/2016/03/Bill-Ayers-2.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T01:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SharePoint",
-        "domain": "sharepointeurope.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

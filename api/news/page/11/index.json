@@ -2,6 +2,187 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-08-16-delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again.md",
+      "title": "Delhi Police’s facial recognition tech at 80% accuracy, stokes privacy concerns again!",
+      "excerpt": "The accuracy rates of facial-recognition software can go as high as 99.97% in ideal conditions. In 2019, Delhi Police had reported accuracy levels of 2%. While 80% may seem like a drastic improvement,",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/articleshow/93587861.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/articleshow/93587861.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 96,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-211252,msid-93588009/delhi-police-personnel.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/amp_articleshow/93587861.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/amp_articleshow/93587861.cms",
+      "publishedDateTime": "2022-08-16T01:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-brainchip-and-prophesee-optimize-computer-vision-ai-performance.md",
+      "title": "BrainChip and Prophesee Optimize Computer Vision AI Performance",
+      "excerpt": "The partnership combines Prophesee’s computer vision technology with BrainChip’s neuromorphic processor Akida to deliver a complete high-performance and ultra-low-power solution. Nature of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/uncategorized/brainchip-and-prophesee-optimize-computer-vision-ai-performance/",
+      "originalUrl": "https://www.just-auto.com/uncategorized/brainchip-and-prophesee-optimize-computer-vision-ai-performance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/shutterstock_796709485-1.jpg",
+          "width": 500,
+          "height": 247,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T00:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-heres-how-observeai-is-building-an-intelligent-workforce-platform-with-aws.md",
+      "title": "Here’s how Observe.ai is building an intelligent workforce platform with AWS",
+      "excerpt": "Their platform is built on AWS, and they leverage a lot of capabilities from them, including AWS Lambda, AWS Fargate, as well as Amazon SageMaker. “We offer the above capabilities built on the ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2022/08/observeai-aws-building-intelligent-workforce-platform/amp",
+      "originalUrl": "https://yourstory.com/2022/08/observeai-aws-building-intelligent-workforce-platform/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/21ccd920843c11ec88170b5512a0f9d5/Imager6c5-1660729189734.jpg ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2022/08/observeai-aws-building-intelligent-workforce-platform/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/08/observeai-aws-building-intelligent-workforce-platform/amp",
+      "publishedDateTime": "2022-08-15T23:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YourStory",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-google-makes-robots-smarter-by-teaching-them-about-their-limitations.md",
+      "title": "Google makes robots smarter by teaching them about their limitations",
+      "excerpt": "Teaching robots what to do for repetitive tasks in controlled spaces where humans aren’t allowed isn’t easy, but it’s more or less a solved problem. Rivian’s recent factory tour was a ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/16/google-robotics/",
+      "originalUrl": "https://techcrunch.com/2022/08/16/google-robotics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/DSC08850.jpg?w=1024",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/16/google-robotics/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/16/google-robotics/amp/",
+      "publishedDateTime": "2022-08-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-marketing-artificial-intelligence-a-nice-time-slice-view-of-ai-in-one-arena.md",
       "title": "Marketing Artificial Intelligence – A Nice Time Slice View Of AI In One Arena",
       "excerpt": "Marketing Artificial Intelligence, by Paul Roetzer & Mike Kaput, is a nice image of the state of artificial intelligence (AI) focused on marketing solutions. This is a good book to introduce ...",
@@ -997,187 +1178,6 @@
         "AI in Robotics",
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-meet-brillo-the-robot-bartender-for-when-youre-tired-of-human-interaction.md",
-      "title": "Meet BRILLO: The robot bartender for when you're tired of human interaction",
-      "excerpt": "Have you ever wanted all the benefits of going to a bar without having to talk to the actual human being serving your drinks? You're in luck, because Italian scientists at the University of Naples Federico II have developed a machine that can do just that.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/brillo-the-italian-bartending-robot",
-      "originalUrl": "https://mashable.com/article/brillo-the-italian-bartending-robot",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/00yOu5puoFrfaLCQqs3F1Ua/hero-image.fill.size_1200x675.v1660488402.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-14T19:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-5-best-stocks-to-buy-right-now-for-2022.md",
-      "title": "5 Best Stocks to Buy Right Now for 2022",
-      "excerpt": "Nvidia's chips are powering everything from cryptocurrencies to driverless cars to artificial intelligence ... on driverless cars than Alphabet's Waymo, an actual driverless car project.",
-      "sourceUrl": null,
-      "webUrl": "https://moneymorning.com/tag/Stocks-to-buy/?bsft_aaid=8da0c2c8-9042-4b3e-bb76-8056465c4919&bsft_lx=23&bsft_tv=4",
-      "originalUrl": "https://moneymorning.com/tag/Stocks-to-buy/?bsft_aaid=8da0c2c8-9042-4b3e-bb76-8056465c4919&bsft_lx=23&bsft_tv=4",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://moneymorning.com/wp-content/blogs.dir/1/files/2020/08/stocks-to-buy.jpg",
-          "width": 550,
-          "height": 214,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Money Morning",
-        "domain": "moneymorning.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-scientists-doubt-that-deepminds-ai-is-as-good-for-fractional-charge-systems-as-it-seems.md",
-      "title": "Scientists doubt that DeepMind's AI is as good for fractional-charge systems as it seems",
-      "excerpt": "DeepMind constructed a neural network based density functional designated as DM21, trained on fractional-electron systems, such as a hydrogen atom with half an electron.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.html",
-      "originalUrl": "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/scientists-doubt-that.jpg",
-          "width": 512,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.amp",
-      "publishedDateTime": "2022-08-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-the-new-artificial-intelligence-supply-chain-happiness-ecosystemsblog-series-1.md",
-      "title": "The New Artificial Intelligence Supply Chain: Happiness Ecosystems(Blog Series #1)",
-      "excerpt": "Happiness Ecosystems and identifies the facts accelerating the importance of happiness and underscores the leadership imperative to build stronger corporate cultures, processes and practices to accelerate the growth of Happiness Production Systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/08/14/the-new-artificial-intelligence-supply-chain-happiness-ecosystemsblog-series-1/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/08/14/the-new-artificial-intelligence-supply-chain-happiness-ecosystemsblog-series-1/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f94fac9d83860fa638a5f9/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/08/14/the-new-artificial-intelligence-supply-chain-happiness-ecosystemsblog-series-1/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/08/14/the-new-artificial-intelligence-supply-chain-happiness-ecosystemsblog-series-1/amp/",
-      "publishedDateTime": "2022-08-14T14:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

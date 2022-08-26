@@ -20,22 +20,6 @@ topics:
   - AI in Healthcare
 
 related:
-  - title: "Deep learning algorithm may streamline lung cancer radiotherapy treatment"
-    excerpt: "Lung cancer, the most common cancer worldwide, is targeted with radiation therapy (RT) in nearly one-half of cases. RT planning is a manual, resource-intensive process that can take days to weeks to complete,"
-    publishedDateTime: 2022-08-23T22:30:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 90
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/lung-scan.jpg"
-        width: 2880
-        height: 1966
-        isCached: true
   - title: "Streamlining lung cancer radiotherapy with Deep Learning"
     excerpt: "Lung cancer, the most common cancer worldwide, is targeted with radiation therapy (RT) in nearly one-half of cases. RT planning is a manual, resource-intensive process that can take days to weeks to complete,"
     publishedDateTime: 2022-08-24T11:51:00Z
@@ -50,6 +34,15 @@ related:
         width: 400
         height: 240
         isCached: true
+  - title: "Deep learning algorithm may streamline lung cancer radiotherapy treatment"
+    excerpt: "Researchers have developed and validated a deep learning algorithm that can identify and outline ('segment') a non-small cell lung cancer (NSCLC) tumor on a computed tomography (CT) scan within seconds."
+    publishedDateTime: 2022-08-24T00:00:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/08/220824152208.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 63
   - title: "AI Algorithm May Streamline Lung Cancer Radiotherapy"
     excerpt: "Researchers have developed and validated a deep learning algorithm that can identify and outline a non-small cell lung cancer tumor on a computed tomography scan within seconds."
     publishedDateTime: 2022-08-24T09:33:00Z
