@@ -3,12 +3,12 @@ category: news
 title: "The AI startup erasing call center worker accents: is it fighting bias – or perpetuating it?"
 excerpt: "A Silicon Valley startup offers voice-altering tech to call center workers around the world: ‘Yes, this is wrong … but a lot of things exist in the world’"
 publishedDateTime: 2022-08-24T13:13:00Z
-originalUrl: "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american?amp;amp;amp;amp"
-webUrl: "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american?amp;amp;amp;amp"
+originalUrl: "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
+webUrl: "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
 ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
 type: article
-quality: 46
+quality: 48
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
       height: 50
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
@@ -61,6 +62,6 @@ related:
         height: 1500
         isCached: true
 
-secured: "hy+OemKXb6ZqCiHxhv4diSoUIQ0yTiIakfEqufj4ABBGgtlxHkDAjnq0vF3vwBKLpimF1S4WzBLXcYEMt8FyaM15dBb6LUIbMb/1Jv8THtuM500ehe47lOtasFFPTxoYul9QRDdCazV+kbI6SjT3DMP8vqTbi/Vtg5UhJK1s8a2eYcmjyrd27c0lct3TQiZlugiRZgxT1CPLp2yZgy9kD7EQw8FyyMuiZ4JZ9TX0KbURvmJGymFUtpD1+pKKQM7AcIshg6RAfecCsz4duzlNN+7chF4WE9T4azyYjTmOSctpXFfZG+YcLQltx5aRn1TiL2ZGvUGRcvMTvgxV74UEd2ng7IcwqIdddrsJcmrj+nU=;39FUjosY2182mq0rBlwREA=="
+secured: "sUB+ClHtAbk+PclPRdFP/5Aqn1HC+v60lKpAORLrPoy9yLbdLSm4xSdSmdtdF6ucJYfuW8FAKMdOCZPI3P7sWoZxBHINq/LEj3Hfi8lw7IAn5ZA5yKRUF1z12cgoqVv03iYzOOIG6ZIASLwwAi0/MIZP6aOY73UkdJhzOReah5xyOYvzcsL8OiV1Sen8JblrrqtNNmhBUud3ZNfZvzSHuNs+Tfd/RJQqnqpJqouWpQHRxrxAyHpxisUN9wA+VuNP5+ErGs/yKz/NK198Uw7h9Fbv6GZrPVhn5qdMKZcZYGaqgsJ4TN4AifQt+PG+345614nVRtUTXubqqVqiFVSfJzxT8kM9fjabiS5XD/WQLU4=;7rJ91iRxy4kIWzEj8ML3HA=="
 ---
 

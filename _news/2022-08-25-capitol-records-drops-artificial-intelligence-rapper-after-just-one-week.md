@@ -2,19 +2,19 @@
 category: news
 title: "Capitol Records drops artificial intelligence rapper after just one week"
 excerpt: "The AI-created rapper named FN Meka was meant to be the first augmented reality music artists to be signed to a major label."
-publishedDateTime: 2022-08-25T01:46:00Z
-originalUrl: "https://www.abcactionnews.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
-webUrl: "https://www.abcactionnews.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
-ampWebUrl: "https://www.abcactionnews.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week?_amp=true"
-cdnAmpWebUrl: "https://www-abcactionnews-com.cdn.ampproject.org/c/s/www.abcactionnews.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week?_amp=true"
+publishedDateTime: 2022-08-25T01:36:00Z
+originalUrl: "https://www.katc.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
+webUrl: "https://www.katc.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
+ampWebUrl: "https://www.katc.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week?_amp=true"
+cdnAmpWebUrl: "https://www-katc-com.cdn.ampproject.org/c/s/www.katc.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week?_amp=true"
 type: article
 quality: 56
 heat: -1
 published: false
 
 provider:
-  name: ABC Action News
-  domain: abcactionnews.com
+  name: KATC
+  domain: katc.com
 
 topics:
   - AI
@@ -105,6 +105,6 @@ related:
       domain: popsci.com
     quality: 17
 
-secured: "A38Oxu3PVCeiWfJpGOcpKFHQSla/je2Uf7arR/tM7bN/dMMQ5S//bHonK9F3wSPCxkb54bRF1eqShuYr84YaHzR1f0cOqhtjiVmOXtewiomMU+NHN6sOYkDVGEs84hnmswfJseCQrwqSApu8B3s/eodV8bp36TyRi9p1FBVFTJytJjgFt0TuSDpm8etiGGacFOM+soDfZlz8wV0ND8CaNrc1ajWvR1LNuUX/Jy417r0JGAK2IT06fOZ0tMyhsJrWDd4cpmt3W64SwRr7LsHS0jkHoVm2hAU2duNGrcPU/OigBmdueDTlVfowW8zOjrAJOciw6lp10WYQuMX9DELg8lfhfKscOSvQrastgXmxRd8=;AMgxHJnegXSMPbWPHEInOQ=="
+secured: "04OWMqwxkig6CLuzmcOfrvADetaBHi/0yQ7+Wsq7Wr7XJomNquZRM0nMJAQeEq69C1RNfiiHts9DAuWFjQL9XzUYc0zoXwkfifxbZ4g+QDN/DFkWxjmOtPiaJT4sGqI9GtwFcg583Alk4MDb5H+tTEGZ2me3x4Xp0ny54gnLRHbhE9zEIWimvfqOd5e7m0gpMbijXmymepODfpuhK2RCzUaIsiAxq2yPgOldb2TVJ4Z+rokBT+Ooe0dOja7jr9hGX5DJ3YWZAvWCbAUDpN4OdOZp9ZsOcWtfJymLDW7YGqSgiuTv/bb5ahRxA90nTcziVHOsmehiw+rzDGWz4RJLbvHJfDaJ4K8+6EGqeg05VlM=;GiCAFvRWZ3zpnMZGRTT86g=="
 ---
 

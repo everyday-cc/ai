@@ -43,14 +43,14 @@ related:
   - title: "The AI startup erasing call center worker accents: is it fighting bias – or perpetuating it?"
     excerpt: "A Silicon Valley startup offers voice-altering tech to call center workers around the world: ‘Yes, this is wrong … but a lot of things exist in the world’"
     publishedDateTime: 2022-08-24T13:13:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american?amp;amp;amp;amp"
+    webUrl: "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 46
+    quality: 48
     images:
       - url: "https://i.guim.co.uk/img/media/b78a80dcbe5e356a1d5b5cdcb8bec72fd38da9e8/453_682_6496_3898/master/6496.jpg?width=620&quality=85&auto=format&fit=max&s=506613242ac1f196cf1c3c70b0c77f6a"
         width: 620

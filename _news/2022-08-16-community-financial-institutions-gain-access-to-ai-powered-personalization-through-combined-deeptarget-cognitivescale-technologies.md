@@ -1,23 +1,26 @@
 ---
 category: news
 title: "Community Financial Institutions Gain Access to AI-Powered Personalization Through Combined DeepTarget & CognitiveScale Technologies"
-excerpt: "For the first time, CFIs will be able to identify predictable revenue opportunities across all 15+ lending and fee based products and services ... M12 (Microsoft Ventures), Anthem and USAA."
-publishedDateTime: 2022-08-16T14:08:00Z
-originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56821950-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies-200.htm"
-webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56821950-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies-200.htm"
+excerpt: "Financial Education Technology Company Elevates Its Digital Experience Platform™ (DXP) & 3D Story™ to a New Level of Personalization powered by Machine Learning from AI Technology Leader AUSTIN, TX / ACCESSWIRE / August 16,"
+publishedDateTime: 2022-08-16T12:06:00Z
+originalUrl: "https://apnews.com/press-release/accesswire/technology-austin-patents-a1fa1a2e2808b1fb6433de96a1922d8e"
+webUrl: "https://apnews.com/press-release/accesswire/technology-austin-patents-a1fa1a2e2808b1fb6433de96a1922d8e"
 type: article
-quality: 0
-heat: 0
-published: false
 
 provider:
-  name: Finanznachrichten
-  domain: finanznachrichten.de
+  name: Associated Press
+  domain: apnews.com
 
 topics:
-  - Microsoft AI
+  - AI in Finance
   - AI
 
-secured: "Zti9I7ULU8ndX1h7ltE4EUT2jugGQUsGhrTZ5Z+5nPEL0OySQP7kxUqjc9fatfAf+HBvLkeP8kfpN/QnbgkPjhDcfsB4OJhy3cghouHMvw+/0CIMnGPvP7yom9ir23fLIuKThz+MYhoOtYfzDk5utiQbkgKpZsuirJ4SxRXH5g6SUZp1xZiLMW2ti6zc0mss9P1XbE1nIFOMASj/O+pHLSNT/ULeoUMxWLEMnK3D34TUfTKXoazUvcJU/0jlS0LiK2iBK7x7HAjVPE/O2pu6Rh1sgarYtSDY/eOFAVdR3YOEXLdU9qhVC+4Vb56y8VXyvkjU1v4gtJ1/zPUfu//ppIvS0Nl6t8vROzTiCMZq1bQ=;vuaMr0bcL4YUACXmMr1qHA=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "Yic1Yc6CU3sHsP47HQMS/iL+NwklYl2gnFw7dKoIlfFcmbl1MhfryzUr1Fu1IqmArEnOUBTOXHbfU5qZt/U6Uj2Gpaq0S53zudCucHuX9U0xRRrGsuxp1mFb1yqUwtWRBD9RaM4B6HfGNyqNMP051VrDFkUln5oOdHmZ49WrNkCFEUx8qxDLTyaBpcTxAc/qHBytSZacIkRtzUVqUqtFwEr6BomYF5Iz9cE6FKxt55cU0lW6MFbGF8rrwaMJ9rJuev17hPt7b2h59TEySqcDIG+3N6R9wFw0RQCGcWstqphYnw4KexQyMWkBQSc5NrQ/SiTMCnDj44EaB8eJcqLrvrEu7HlEQdYy3NWHo/wZqsk=;xepHwDMZNK/2Ncisdas9XQ=="
 ---
 

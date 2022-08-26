@@ -3,11 +3,11 @@ category: news
 title: "Democracies must use AI to defend open societies"
 excerpt: "The Russian initiative followed the Pentagon’s announcement last year that it was intensifying efforts to achieve AI superiority. The US Department of Defense was “working to create a competitive military advantage by embracing and leveraging AI,"
 publishedDateTime: 2022-08-25T12:22:00Z
-originalUrl: "https://www.ft.com/content/a4e8da53-84e2-498b-82f6-1b01e1291bd9"
-webUrl: "https://www.ft.com/content/a4e8da53-84e2-498b-82f6-1b01e1291bd9"
+originalUrl: "https://www.ft.com/content/a4e8da53-84e2-498b-82f6-1b01e1291bd9?shareType=nongift"
+webUrl: "https://www.ft.com/content/a4e8da53-84e2-498b-82f6-1b01e1291bd9?shareType=nongift"
 type: article
-quality: 19
-heat: 19
+quality: 37
+heat: 37
 published: false
 
 provider:
@@ -15,9 +15,14 @@ provider:
   domain: ft.com
 
 topics:
-  - AI in Robotics
   - AI
 
-secured: "egGwhBpTYRKqxcdDxBmJ/mEfqYmqemC8GgEzw4pw86qqp0tiyYsvMlbbD94xCGiwnrpg8vTW4YGhkuEbatE4vSqzqVhrvUbGE2ppoiuG3o13OeZSjYQDsG/UvF4+nuSIFZ8MdxBS0kYpmAQjJRr9JbqrEE2/YzsHUHFStoE2ND8wOoIOpyUILCX8trSPD8nwm88mEBpE9d8S30CvJ6y0I7bWbPNf0K2eeaP9yydIE0A85krU0nHqsM+k8QWHnQ32WPPuqRBCYNjFXSIdKHvNZfsd5knYcZ6ZicPB0DRrkgfSwFVqg3XcSkDj7J/mlO2qcTb5iGoVjRcKRMJ/fV+Y9lqz3xkbxAsQiwqd85oFd1o=;xU0wcN6cy5i04vO6LVlLUA=="
+images:
+  - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+    width: 619
+    height: 377
+    isCached: true
+
+secured: "yNQ4TnKHmI9zGc4i/AYXt1Ond012kAvhk/YWSU9Gqf2MISQqgv5yCTUgQGbl2b487LQ+/OOFATwzfsC25C6xvyHU79EYu0rbY7TG8qyHvQCl5CHd4zxtDAsqLtodLo3sVZCe6tjPX8GP4r5f3t62aDEpj7AgrWWQ198Sj9PRWtVl86EwVIjp8SOeRTjT594iBAlDR/q9po+vFCH+AJsIkwoFOe3CbbUBwkQqHUlkPMl0RWSHv1g5Daaz0wpZwyUoBBUEDZrcnNa7bxsuerMhpZTpuyys2sYD1PQlr5F5inSDdtxnX3Vyy75YfUv41q/nefwsihjNHF3t/gim7m7ahg+Yf0Wm/JE0CZXFiPDBcpU=;wjaA15lrH9R4dtP6ffqkNw=="
 ---
 

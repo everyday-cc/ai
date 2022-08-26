@@ -48,20 +48,20 @@ related:
   - title: "The AI startup erasing call center worker accents: is it fighting bias – or perpetuating it?"
     excerpt: "A Silicon Valley startup offers voice-altering tech to call center workers around the world: ‘Yes, this is wrong … but a lot of things exist in the world’"
     publishedDateTime: 2022-08-24T13:13:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american?amp;amp;amp;amp"
+    webUrl: "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
     type: article
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 46
+    quality: 48
     images:
       - url: "https://i.guim.co.uk/img/media/b78a80dcbe5e356a1d5b5cdcb8bec72fd38da9e8/453_682_6496_3898/master/6496.jpg?width=620&quality=85&auto=format&fit=max&s=506613242ac1f196cf1c3c70b0c77f6a"
         width: 620
         height: 372
         isCached: true
 
-secured: "JZV+pP7+50r3GJT1vv+X0QsJB4tQ0ZNfArAkcjAWKL6z13qAq/OUKcLgZIEm++b2vst3K4B563/Fc2g1FxPSXBguNQ+FnmZnqBYdJEkWE7/pvYqEiX9UkUACIfz6JwiCzpC5pFX+HUIm2xtr7oIoR/VEKKlTbzApjMwPl7p5bX4U/6rGlhbD2tRc9m8l9EpUP3DaIceb92GVu9UmkVFW6CI/wcQKABu4pjEB4Qm3BfXyXJ11uu4uUNoYA446kj5Nr/wTh/regl6EJrinBKUSPcD03q8eZJdBZminSV22mu8TSsoRzIaCV/okQIphpqW+TECe9TCjFSuLTDhCVnh+9rRmHz+rzy9NAAc1XcszJE4=;V41PuJKScRbTRl7NL4iT6w=="
+secured: "XHTbvKwLGhdPLMMgG5JcVrheXWhCgESlleQ+ZGcpO+cr9DEMXZAs7VS/xgOxB4VwZODqqZRFZb+GQ6J0OcVs8Zu9me9CBN/cZyP4GT0drr99VVeMCdbadjZTZuONpVGK2/BfFEg557oLFqlv25Yhluhx4lh7dkii5VOi017xUSFLAjbTy/acOaCT34GKHUlVMOH2aT34FzY3by0ib473FGyYTkrEuU2TFkdmTSOtfJOMkKeNDPhPsRcgCRvjT1h5+NBQtRq3otnDmhPJu3fqyOGVveC7aT28BD4TeBw1bTiabKofPUPvOeu6tRkWofDKStjhFdZXZ/rz9sIo+ac0ueTbI8ku1r8EsM48JJGSesU=;TML0NsggeAr7E18s4IKHOw=="
 ---
 
