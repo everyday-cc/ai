@@ -67,20 +67,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Tesla’s Full-Self Driving software is going up in price again"
-    excerpt: "Tesla’s increasing the price of its Full-Self Driving (FSD) software to $15,000. In a post on Twitter, Tesla CEO Elon Musk announced that the new price will go into effect in North America starting September 5th,"
-    publishedDateTime: 2022-08-21T16:42:00Z
-    webUrl: "https://www.theverge.com/2022/8/21/23315270/tesla-full-self-driving-fsd-feature-price-increase-electric-vehicle-elon-musk"
-    type: article
-    provider:
-      name: The Verge
-      domain: theverge.com
-    quality: 99
-    images:
-      - url: "https://cdn.vox-cdn.com/thumbor/wEmS6qeSqPoyWcc1aVYbTgsWqPY=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11423501/acastro_180524_1777_tesla_0003.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Elon Musk says Tesla is raising the price of its full self-driving feature to $15,000"
     excerpt: "Despite the name, the technology does not allow Tesla vehicles to drive themselves without human participation."
     publishedDateTime: 2022-08-22T21:32:00Z
@@ -158,22 +144,6 @@ related:
       - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA4XC8yMDIyLTAxLTI2LTExLTQ5LTQxLTNiM2I0YTcwZDkzYzM5OWI3ZTQyY2ZlZDkwZDhiNDNkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
         width: 1200
         height: 740
-        isCached: true
-  - title: "Tesla Is Doubling Down On Full Self Driving While Ralph Nader Wants It Recalled."
-    excerpt: "Tesla is hiking the price of its sometimes controversial driver assistance software it calls Full Self Driving."
-    publishedDateTime: 2022-08-21T15:56:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-raises-price-for-full-self-driving-51661097330"
-    ampWebUrl: "https://www.barrons.com/amp/articles/tesla-raises-price-for-full-self-driving-51661097330"
-    cdnAmpWebUrl: "https://www-barrons-com.cdn.ampproject.org/c/s/www.barrons.com/amp/articles/tesla-raises-price-for-full-self-driving-51661097330"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 69
-    images:
-      - url: "https://images.barrons.com/im-600983/social"
-        width: 1280
-        height: 640
         isCached: true
   - title: "Elon Musk Announced Tesla's 'Full Self-Driving' Technology Will Cost $3,000 More"
     excerpt: "The price of Tesla's \"full self-driving\" beta mode technology is increasing after September 5, Tesla CEO Elon Musk announced in a Tweet."
@@ -377,6 +347,20 @@ related:
       - url: "https://images.cars.com/cldstatic/wp-content/uploads/tesla-model-y-2021-08-exterior-dynamic-front-angle-scaled.jpg"
         width: 1200
         height: 800
+        isCached: true
+  - title: "Tesla defends self-driving software"
+    excerpt: "Tesla has defended its self-driving software after videos of cars running over child-size mannequins hit the internet. Added14 minutes ago A Los Angeles police officer has saved a baby's life using CPR,"
+    publishedDateTime: 2022-08-26T08:53:00Z
+    webUrl: "https://www.9news.com.au/videos/world/tesla-defends-self-driving-software/cl7a80lxi000s0jo457zvemxd"
+    type: article
+    provider:
+      name: Nine News Australia
+      domain: 9news.com.au
+    quality: 39
+    images:
+      - url: "https://vms-network-images-prod.s3-ap-southeast-2.amazonaws.com/2022/08/450137/pickerimage.jpg"
+        width: 1024
+        height: 576
         isCached: true
   - title: "Tesla hikes price of Full Self-Driving to $15,000 on September 5, expands beta test"
     excerpt: "The price has been $12,000 since October 2020, and this latest price hike corresponds with a broader rollout of beta testing."

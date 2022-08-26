@@ -9,8 +9,8 @@ ampWebUrl: "https://techxplore.com/news/2022-08-machine-algorithm-electric-vehic
 cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-machine-algorithm-electric-vehicle-batteries.amp"
 type: article
 quality: 50
-heat: 60
-published: false
+heat: 70
+published: true
 
 provider:
   name: techxplore
@@ -36,6 +36,17 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 40
+  - title: "Deep-Learning Model Predicts Physician Burnout Using EHR Logs"
+    excerpt: "Researchers from Washington University in St. Louis have developed a deep-learning model that can predict physician burnout using clinical actions and timestamps from EHR logs."
+    publishedDateTime: 2022-08-24T17:00:00Z
+    webUrl: "https://healthitanalytics.com/news/deep-learning-model-predicts-physician-burnout-using-ehr-logs"
+    ampWebUrl: "https://healthitanalytics.com/news/amp/deep-learning-model-predicts-physician-burnout-using-ehr-logs"
+    cdnAmpWebUrl: "https://healthitanalytics-com.cdn.ampproject.org/c/s/healthitanalytics.com/news/amp/deep-learning-model-predicts-physician-burnout-using-ehr-logs"
+    type: article
+    provider:
+      name: Analytics
+      domain: healthitanalytics.com
+    quality: 24
 
 secured: "0cUG57Jq2QGNXOkuIZqA2jeYpoKlP6IBD5yv1AtncuOy0BSJbhiXS6eBBowaNgMqp98OGroDiiMS/wccyGZqksiBQVYFNXoFnlYwpQ1/MFZKfAqxOFhXyYiroH3jnvLYbbvrGu7H0cuSzyxWr4Volh62dTkfPhZ7biXxc6xZ5kcpec+crSTJ+p3gGQfBPYHMCZ2e5qpcFsAFFoQpyN+rG823+b9NqtyN3Dtq+At3kYctzz3P4ce6InnqsHeuHV9C2DFt2An+Hast17/HuK1GR9DQ9Bs5L44RLpgF4DlKWPFseSZ6RE38Q7u/Gf7YOWLrVqY4kbS+k/q5ESXcJ2PXQRTsRDBfqdfk2M6rDgTEwvs=;cH5zH6KVHW+wVeTqhYICyw=="
 ---

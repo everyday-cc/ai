@@ -3,11 +3,11 @@ category: news
 title: "AI Startup Wants to Make Foreign Call Center Employees Sound White"
 excerpt: "Sanas argues that its technology can be empowering for call center employees by removing bias and limiting misunderstandings during phone conversations. Critics say it's erasure."
 publishedDateTime: 2022-08-25T16:56:00Z
-originalUrl: "https://www.pcmag.com/news/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
-webUrl: "https://www.pcmag.com/news/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
+originalUrl: "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
+webUrl: "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
 type: article
-quality: 67
-heat: 87
+quality: 69
+heat: 89
 published: true
 
 provider:
@@ -19,12 +19,13 @@ provider:
       height: 50
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://i.pcmag.com/imagery/articles/05P40am6RlXf9q8pCpYsR1f-1.fit_lim.size_1200x630.v1661442988.jpg"
-    width: 1120
-    height: 630
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/a/ai-startup/ai-startup-wants-to-make-foreign-call-center-employees-sound_3ra4.1200.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -61,6 +62,6 @@ related:
         height: 372
         isCached: true
 
-secured: "bWLfCqJ8RTI35rePD1Gh6btL5sCKHBtkrdLIKJcLgZ3s5DvHdP3itVVj00qm9XFSwEB9BH1cS3K7cEpADkYdgnHn+1DBNpzXt+IxSdXh0CMi0fuFOlE7W/ijdGgrtDHYxN2gN79Z7vvB3MSUzntrw/SLfnj2/uXkFciHvBZl7oouTrtO+CpzglhAIcVYcIDsJZuGqMWdEXjajXpxdOkftdrK/YCgl0giKGwA45OV7mMUd6bn0Kudvcj726fmLC86IPI6eQY/CRG2RzlY6A/57rRQQz6U7RKg8zjgxbHPLucauUHUSFOJNb2u8pGvHP2P1d0WzyAIpqLDCumqELY92aD/zZI9o8FAktOIHOnTIqE=;VPieIV6XphpWi8U29BUQiQ=="
+secured: "yqhkjINCdjVtSzNTiTC+ciaFl9gLrkq0Ie2j/+cTGJj0fABTBFX45GYij9bchFz+DRwvxR2An0+REXVoarMPIcdBNzwAi8XNo+10qiu8CFRLFgO/Y7C9Z/hiifIA6bM8WuPV+97ZsHwow7s/HMy90EXYxFJbozEZyfg8k2m/o+BGiW8+9+qhilVBV67FJPMgHgZhmi4fbjIUo4R0tc7VQ7MmiC94qwAdlZouIA/9yUfsSYxC6usBwz3jO4YM4E+ukDcsmnjYy8YAOj0wnp7X89+eltVPD2aRqnjOK06LQ6Ysc39ILJn8QBZycBdhl/tt3t4qxet8LjK+etQlaZ9ubvsVW/T72at5ajdPrqxNYcE=;boAN6YlKjoOrtNy9ZZEgqQ=="
 ---
 

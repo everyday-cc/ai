@@ -183,6 +183,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
+  - title: "Far-field Speech Recognition Market Industry Share, Size, Growth : 2022 Market Research with Manufacturers, Segments and 2028 Forecasts Research"
+    excerpt: "Global Far-field Speech Recognition Market research report 2022 provides comprehensive information about market"
+    publishedDateTime: 2022-08-25T06:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-recognition-market-industry-share-size-growth-2022-market-research-with-manufacturers-segments-and-2028-forecasts-research-2022-08-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Healthcare Artificial Intelligence Market Global Demand, Growth, Size, Share, Trends, Opportunities and Forecast to 2027"
     excerpt: "In the healthcare industry, artificial intelligence is being utilized to investigate the link between treatment methods and patient outcomes. Medication management, treatment regimens, and drug ..."
     publishedDateTime: 2022-08-22T13:57:00Z

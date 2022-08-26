@@ -174,6 +174,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
+  - title: "Far-field Speech Recognition Market Industry Share, Size, Growth : 2022 Market Research with Manufacturers, Segments and 2028 Forecasts Research"
+    excerpt: "Global Far-field Speech Recognition Market research report 2022 provides comprehensive information about market"
+    publishedDateTime: 2022-08-25T06:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-recognition-market-industry-share-size-growth-2022-market-research-with-manufacturers-segments-and-2028-forecasts-research-2022-08-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI Platforms Software Market Size and Share 2022 Analysis Report by Key Players, Geographical Regions, Future Development and Forecast to 2028"
     excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI Platforms Software Market”"
     publishedDateTime: 2022-08-25T08:07:00Z

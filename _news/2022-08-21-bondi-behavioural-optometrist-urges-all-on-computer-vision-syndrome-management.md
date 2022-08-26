@@ -6,9 +6,6 @@ publishedDateTime: 2022-08-21T16:45:00Z
 originalUrl: "https://www.digitaljournal.com/pr/bondi-behavioural-optometrist-urges-all-on-computer-vision-syndrome-management"
 webUrl: "https://www.digitaljournal.com/pr/bondi-behavioural-optometrist-urges-all-on-computer-vision-syndrome-management"
 type: article
-quality: 35
-heat: 35
-published: false
 
 provider:
   name: Digital Journal
@@ -24,6 +21,6 @@ images:
     height: 400
     isCached: true
 
-secured: "WSo+iYW+KePj5lgX7ykv6M9leMl7W85unBSArmrXd1iM5wCARYbNC2kB1LtLFGmm4p1NbtCbqW32E9EEZasGjWBeCIBUB6i2vbDMk9DPfmwhZ4ugixXfQObXb8hvHWl/CpXmPACvrmrZD5NZ/tkFQ3raT/iJdvI/vgwFsKx47kQVTM1H7JR3z1L9AkGjl2yvFH3tyrrvXD+SvmMsmRfhkUMUttL1vBgNHfWO5eaJnlW6LlM9GzsFgEgcQ6CFZKPTQvQnOZfYY+gpKK0a5USgiMSvV/dMzWM7etT6NcT7G54KnJImghTb9inO0Yu6rTYbfSIUrdftD2qVNd4LJ51m23VuDrcXkiMHq1k5JZhSL4E=;hDQWNsJfRW5XyB17f/l6lg=="
+secured: "EH4hKji8myqTLDSmLzj0TZHBrQ6UU/ZNKChNjWYbh5deIP4sUiyFYxrU+C/r4z97umIZ7K35beGeSHoTsUwMM84ICQDsw141gFEwonq8BRCVLAbDj5000r+G1c0/vfeFjlAg9PZK+PKG7U6aaFGf+ky+Cwai8PYR9wVVCuEf6gr2stK3JTWYVASuqqwqOItC+853dIrGs3xdLWR/LgaQBnTVXmEoku+55dLbJSGwm+RyTxXCaV9LvBfWQ359KqnU8oh0W1cC24ueN4BZXY18DtOwYi8ZIIFmkViulF9ti8XROLwqUqLA/KpALYPjuYv7VsNS+QUYIejNm9IE3QkV0CIYrCe0sOdJnxTW6wmc3hM=;4SSsaJ+OxYlYivf2TcYRRw=="
 ---
 
