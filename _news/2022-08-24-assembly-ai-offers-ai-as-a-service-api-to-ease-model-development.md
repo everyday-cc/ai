@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/assembly-ai-offers-ai-as-a-service-api-to
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/assembly-ai-offers-ai-as-a-service-api-to-ease-model-development/amp/"
 type: article
 quality: 93
-heat: 163
+heat: 173
 published: true
 
 provider:
@@ -74,6 +74,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 51
+  - title: "Automated Techniques Could Make It Easier to Develop AI"
+    excerpt: "A growing field called automated machine learning, or autoML, aims to eliminate the guesswork. The idea is to have algorithms take over the decisions that researchers currently have to make when designing models."
+    publishedDateTime: 2022-08-26T16:08:00Z
+    webUrl: "https://www.automation.com/en-us/articles/august-2022/automated-techniques-develop-ai"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 39
+    images:
+      - url: "https://www.automation.com/getmedia/cde773d6-6ad4-4f66-9696-b69a085b0b09/MIT-feature-Aug-26-2022-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "5 Best Artificial Intelligence Stocks To Buy Now"
     excerpt: "In this article, we discuss 5 best artificial intelligence stocks to buy now. If you want to read the introduction and detailed analysis of the artificial intelligence market, go to 11 Best Artificial Intelligence Stocks To Buy Now."
     publishedDateTime: 2022-08-22T13:05:00Z

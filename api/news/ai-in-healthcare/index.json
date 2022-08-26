@@ -98,6 +98,50 @@
       ]
     },
     {
+      "path": "_news/2022-08-24-streamlining-lung-cancer-radiotherapy-with-deep-learning.md",
+      "title": "Streamlining lung cancer radiotherapy with Deep Learning",
+      "excerpt": "Lung cancer, the most common cancer worldwide, is targeted with radiation therapy (RT) in nearly one-half of cases. RT planning is a manual, resource-intensive process that can take days to weeks to complete,",
+      "sourceUrl": null,
+      "webUrl": "https://healthcare-in-europe.com/en/news/lung-cancer-radiotherapy-deep-learning.html",
+      "originalUrl": "https://healthcare-in-europe.com/en/news/lung-cancer-radiotherapy-deep-learning.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 131,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://healthcare-in-europe.com/media/story/27271/rect-01-adobestock-296280067.jpg",
+          "width": 400,
+          "height": 240,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T04:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "healthcare-in-europe.com",
+        "domain": "healthcare-in-europe.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-how-artificial-intelligence-can-improve-organizational-decision-making.md",
       "title": "How Artificial Intelligence Can Improve Organizational Decision Making",
       "excerpt": "Artificial intelligence (AI) is reimagining the business world, boosting innovation and productivity, and helping organizations think bigger. Organizations can use AI to improve their products ...",
@@ -341,52 +385,6 @@
         "AI",
         "AI in Healthcare",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-artificial-intelligence-is-the-new-frontier-of-ethical-tests.md",
-      "title": "Artificial intelligence is the new frontier of ethical tests",
-      "excerpt": "This has, predictably, put the debate over artificial intelligence centre stage ... dilemma around who to save when there are choices and how does one stop a robot going “rogue?” As AI becomes more common-place, regulators have been seeking to grapple ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/",
-      "originalUrl": "https://www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2022/08/GettyImages-928215790.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/?amp=1",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/?amp=1",
-      "publishedDateTime": "2022-08-22T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     },
     {

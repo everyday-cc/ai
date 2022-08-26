@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-27-the-uses-of-ethical-ai-in-hiring-opaque-vs-transparent-ai.md",
+      "title": "The uses of ethical AI in hiring: Opaque vs. transparent AI",
+      "excerpt": "Ethical AI enables organizations to understand the technology’s processes and audit them to make sure the AI remains unbiased.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/the-uses-of-ethical-ai-in-hiring-opaque-vs-transparent-ai/",
+      "originalUrl": "https://venturebeat.com/ai/the-uses-of-ethical-ai-in-hiring-opaque-vs-transparent-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2020/02/intellectual_property.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 873,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/the-uses-of-ethical-ai-in-hiring-opaque-vs-transparent-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-uses-of-ethical-ai-in-hiring-opaque-vs-transparent-ai/amp/",
+      "publishedDateTime": "2022-08-26T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics.md",
       "title": "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics",
       "excerpt": "Hyundai Motor Group (the Group) today announced the launch of Boston Dynamics AI Institute (the Institute), with the goal of making fundamental advances",
@@ -139,52 +191,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-artificial-intelligence-is-the-new-frontier-of-ethical-tests.md",
-      "title": "Artificial intelligence is the new frontier of ethical tests",
-      "excerpt": "This has, predictably, put the debate over artificial intelligence centre stage ... dilemma around who to save when there are choices and how does one stop a robot going “rogue?” As AI becomes more common-place, regulators have been seeking to grapple ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/",
-      "originalUrl": "https://www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2022/08/GettyImages-928215790.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/?amp=1",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/?amp=1",
-      "publishedDateTime": "2022-08-22T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     },
     {

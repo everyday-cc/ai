@@ -40,6 +40,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Protecting AI Data in Manufacturing Is a New Frontier"
+    excerpt: "Big data and AI have revolutionized the manufacturing industry, making factories autonomous as well as smart. With the advent of novel sensors and the Internet of Things, current manufacturing facilities are collecting trillions of bytes of data from ..."
+    publishedDateTime: 2022-08-25T21:24:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/digital-tools/article/21249490/protecting-ai-data-in-manufacturing-is-a-new-frontier"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 37
+    images:
+      - url: "https://img.industryweek.com/files/base/ebm/industryweek/image/2022/08/AI_FActory.6307e2ab38448.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "E-Learning Market Size Surpassed $315 Billion In 2021 And Projected To Hit 20% CAGR From 2022 To 2028"
     excerpt: "The education sector is evolving globally, creating growth opportunities for the e-learning market. Several education institutes, are transitioning to an online higher education curriculum to support students in completing their degrees."
     publishedDateTime: 2022-08-23T12:30:00Z

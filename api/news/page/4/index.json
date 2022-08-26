@@ -2,6 +2,232 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-23-artificial-intelligence-creates-pic-of-scariest-thing-on-earth.md",
+      "title": "Artificial Intelligence Creates Pic Of \"Scariest Thing On Earth\"",
+      "excerpt": "Artificial Intelligence (AI) has created the images of \"scariest thing on Earth\", while responding to the queries from users. The results are horrifying, with the images showing monsters with long sharp teeth and empty eye sockets. The images have been ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ndtv.com/world-news/artificial-intelligence-creates-pic-of-scariest-thing-on-earth-3278852",
+      "originalUrl": "https://www.ndtv.com/world-news/artificial-intelligence-creates-pic-of-scariest-thing-on-earth-3278852",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://c.ndtvimg.com/2022-08/kshej0p_artificial-intelligence-scary-image-650_625x300_23_August_22.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ndtv.com/world-news/artificial-intelligence-creates-pic-of-scariest-thing-on-earth-3278852/amp/1",
+      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/artificial-intelligence-creates-pic-of-scariest-thing-on-earth-3278852/amp/1",
+      "publishedDateTime": "2022-08-23T03:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NDTV",
+        "domain": "ndtv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-ai-robots-power-hungry-or-empowering.md",
+      "title": "AI Robots: Power Hungry Or Empowering?",
+      "excerpt": "IT leaders in consumer-facing organizations who have not yet made the plunge into AI but wish to remain competitive are scrambling to figure out how to incorporate AI technology into their contact centers and customer engagement hubs.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/ai-robots-power-hungry-or-empowering/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/ai-robots-power-hungry-or-empowering/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61f030570018a072dc46d1ec/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/ai-robots-power-hungry-or-empowering/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/23/ai-robots-power-hungry-or-empowering/amp/",
+      "publishedDateTime": "2022-08-23T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-can-artificial-intelligence-detect-autism-early.md",
+      "title": "Can Artificial Intelligence Detect Autism Early?",
+      "excerpt": "Scientists are collaborating to develop machine learning that can assist in detecting autism spectrum disorder early.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/can-artificial-intelligence-detect-autism-early-208373-1.htm",
+      "originalUrl": "https://www.medindia.net/news/can-artificial-intelligence-detect-autism-early-208373-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/risk-factors-for-alzheimers-disease.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/can-artificial-intelligence-detect-autism-early-208373-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-detect-autism-early-208373-1.htm",
+      "publishedDateTime": "2022-08-23T00:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact.md",
+      "title": "Singapore looks to drive AI research, capabilities with Google Cloud pact",
+      "excerpt": "Touted as the Singapore government's first private-sector partnership in artificial intelligence, the collaboration will see both sides jointly develop and testbed applications as well as work on issues pertaining to AI governance and ethics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
+      "originalUrl": "https://www.zdnet.com/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
+      "publishedDateTime": "2022-08-22T19:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-robots-could-help-reduce-chemical-use-in-farming.md",
+      "title": "Robots could help reduce chemical use in farming",
+      "excerpt": "A robotics manufacturer is looking at the possibility of developing machines that will remove weeds and tend farmland without the need for so many chemicals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktnv.com/news/national/robots-could-help-reduce-chemical-use-in-farming",
+      "originalUrl": "https://www.ktnv.com/news/national/robots-could-help-reduce-chemical-use-in-farming",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/cb84d0e/2147483647/strip/true/crop/3666x2062+61+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F07%2F00%2Fe618017b4f60acd3ac6f7b3020e4%2Fscreen-shot-2022-08-22-at-10.50.57%20PM.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ktnv.com/news/national/robots-could-help-reduce-chemical-use-in-farming?_amp=true",
+      "cdnAmpWebUrl": "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/news/national/robots-could-help-reduce-chemical-use-in-farming?_amp=true",
+      "publishedDateTime": "2022-08-22T18:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTNV Las Vegas",
+        "domain": "ktnv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-ai-detects-parkinsons-disease-by-tracking-your-breathing-patterns.md",
       "title": "AI detects Parkinson’s disease by tracking your breathing patterns",
       "excerpt": "A compelling new study indicates Parkinson’s disease (PD) could be diagnosed by remotely tracking a person’s breathing patterns. Led by researchers from MIT, the study presents an AI system that uses radio waves to monitor breathing while a person sleeps.",
@@ -545,52 +771,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-22-artificial-intelligence-is-the-new-frontier-of-ethical-tests.md",
-      "title": "Artificial intelligence is the new frontier of ethical tests",
-      "excerpt": "This has, predictably, put the debate over artificial intelligence centre stage ... dilemma around who to save when there are choices and how does one stop a robot going “rogue?” As AI becomes more common-place, regulators have been seeking to grapple ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/",
-      "originalUrl": "https://www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2022/08/GettyImages-928215790.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/?amp=1",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/?amp=1",
-      "publishedDateTime": "2022-08-22T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-08-22-graymatter-robotics-raises-20m-in-series-a-funding.md",
       "title": "GrayMatter Robotics Raises $20M in Series A Funding",
       "excerpt": "GrayMatter Robotics, an artificial intelligence robotics solutions company, announced last week it raised $20 million in Series A investment led by Bow Capital and joined by B Capital Group, Calibrate Ventures,",
@@ -1002,203 +1182,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-can-artificial-intelligence-transform-the-supply-chain.md",
-      "title": "Can Artificial Intelligence transform the supply chain?",
-      "excerpt": "The logistics industry represents 12% of global GDP and is growing at a compounded annual growth rate (CAGR) of 5% per year.  Based on these estimates, global logistics spending will surge to more than $15 trillion by 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.deccanherald.com/business/technology/can-artificial-intelligence-transform-the-supply-chain-1138083.html",
-      "originalUrl": "https://www.deccanherald.com/business/technology/can-artificial-intelligence-transform-the-supply-chain-1138083.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.deccanherald.com/sites/dh/files/articleimages/2022/08/22/file7mejcv2pqmqqymn5ki5-1138083-1661117353.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.deccanherald.com/amp/business/technology/can-artificial-intelligence-transform-the-supply-chain-1138083.html",
-      "cdnAmpWebUrl": "https://www-deccanherald-com.cdn.ampproject.org/c/s/www.deccanherald.com/amp/business/technology/can-artificial-intelligence-transform-the-supply-chain-1138083.html",
-      "publishedDateTime": "2022-08-21T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deccan Herald",
-        "domain": "deccanherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-survive-layoffs-succeed-with-upskilling-through-ai.md",
-      "title": "Survive layoffs, succeed with upskilling through AI",
-      "excerpt": "Despite the looming recession, orgs must invest in upskilling existing employees — lest they lose talent. AI can help.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/survive-layoffs-succeed-with-upskilling-through-ai/",
-      "originalUrl": "https://venturebeat.com/ai/survive-layoffs-succeed-with-upskilling-through-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/NLP.GettyImages-1199031078.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/survive-layoffs-succeed-with-upskilling-through-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/survive-layoffs-succeed-with-upskilling-through-ai/amp/",
-      "publishedDateTime": "2022-08-21T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-tesla-raising-price-of-full-self-driving-feature-to-15000-next-month.md",
-      "title": "Tesla raising price of ‘Full Self-Driving’ feature to $15,000 next month",
-      "excerpt": "Elon Musk on Sunday announced the price of Tesla Inc.'s \"Full Self-Driving\" feature will rise by 25% next month, to from $12,000 to $15,000.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442?mod=mw_latestnews",
-      "originalUrl": "https://www.marketwatch.com/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442?mod=mw_latestnews",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 393,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-528682/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442",
-      "publishedDateTime": "2022-08-21T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-why-ai-is-the-differentiator-in-todays-experience-market.md",
-      "title": "Why AI is the differentiator in today’s experience market",
-      "excerpt": "Experience is everything. From what we buy to where we work, everyone is seeking a more intuitive, personalized experience surrounding all that we do. The best user experiences feel effortless, offering instant recommendations that give us what we want without requiring us to spend valuable time providing our preferences.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-ai-is-the-differentiator-in-todays-experience-market/",
-      "originalUrl": "https://venturebeat.com/ai/why-ai-is-the-differentiator-in-todays-experience-market/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1264510281.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 629,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-ai-is-the-differentiator-in-todays-experience-market/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-ai-is-the-differentiator-in-todays-experience-market/amp/",
-      "publishedDateTime": "2022-08-21T11:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

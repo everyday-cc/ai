@@ -81,6 +81,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 51
+  - title: "Automated Techniques Could Make It Easier to Develop AI"
+    excerpt: "A growing field called automated machine learning, or autoML, aims to eliminate the guesswork. The idea is to have algorithms take over the decisions that researchers currently have to make when designing models."
+    publishedDateTime: 2022-08-26T16:08:00Z
+    webUrl: "https://www.automation.com/en-us/articles/august-2022/automated-techniques-develop-ai"
+    type: article
+    provider:
+      name: Automation
+      domain: automation.com
+    quality: 39
+    images:
+      - url: "https://www.automation.com/getmedia/cde773d6-6ad4-4f66-9696-b69a085b0b09/MIT-feature-Aug-26-2022-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
+        isCached: true
   - title: "Early adopters are doubling down on AI"
     excerpt: "Although 39 per cent of the 950 companies analysed in a recent Dataiku-sponsored IDC InfoBrief said they were using AI during 2021, that percentage was the same as during 2020 – suggesting that the technology’s growth has stalled."
     publishedDateTime: 2022-08-23T03:11:00Z

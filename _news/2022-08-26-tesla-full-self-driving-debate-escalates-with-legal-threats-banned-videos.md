@@ -316,6 +316,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Why Tesla Expects to Develop Self-Driving Cars First in the Industry"
+    excerpt: "Continuing its battle to change the transportation business, Tesla has unveiled the artificial intelligence system it has developed to educate its thousands of cars to drive themselves. Dojo, the AI system revealed on Tuesday at the Hot Chips conference,"
+    publishedDateTime: 2022-08-23T18:00:00Z
+    webUrl: "https://bestgamingpro.com/why-tesla-expects-to-develop-self-driving-cars-first-in-the-industry/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 39
+    images:
+      - url: "https://bestgamingpro.com/wp-content/uploads/2022/08/Why-Tesla-Thinks-It-Will-Build-Self-Driving-Cars-Before-Everyone-Else.png"
+        width: 600
+        height: 365
+        isCached: true
   - title: "Tesla defends self-driving software"
     excerpt: "Tesla has defended its self-driving software after videos of cars running over child-size mannequins hit the internet. Added14 minutes ago A Los Angeles police officer has saved a baby's life using CPR,"
     publishedDateTime: 2022-08-26T08:53:00Z
@@ -338,6 +352,17 @@ related:
     provider:
       name: Detroit News
       domain: detroitnews.com
+    quality: 34
+  - title: "Elon Musk Hits Out At Beta Tester For “Complaining” About Full Self-Driving Beta"
+    excerpt: "Musk quickly clapped back at Locke on Twitter, telling him that he shouldn’t complain having previously asked to be included in early releases of Tesla’s Full Self-Driving beta software. “10.69 is in limited release for a reason."
+    publishedDateTime: 2022-08-26T16:00:00Z
+    webUrl: "https://www.carscoops.com/2022/08/elon-musk-hits-out-at-beta-tester-for-complaining-about-full-self-driving-beta/"
+    ampWebUrl: "https://www.carscoops.com/2022/08/elon-musk-hits-out-at-beta-tester-for-complaining-about-full-self-driving-beta/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/elon-musk-hits-out-at-beta-tester-for-complaining-about-full-self-driving-beta/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
     quality: 34
   - title: "Tesla hikes price of Full Self-Driving to $15,000 on September 5, expands beta test"
     excerpt: "The price has been $12,000 since October 2020, and this latest price hike corresponds with a broader rollout of beta testing."
@@ -379,15 +404,6 @@ related:
     provider:
       name: Guru3D.com
       domain: guru3d.com
-    quality: 19
-  - title: "Why Tesla Expects to Develop Self-Driving Cars First in the Industry"
-    excerpt: "Continuing its battle to change the transportation business, Tesla has unveiled the artificial intelligence system it has developed to educate its thousands of cars to drive themselves. Dojo, the AI system revealed on Tuesday at the Hot Chips conference,"
-    publishedDateTime: 2022-08-23T18:00:00Z
-    webUrl: "https://bestgamingpro.com/why-tesla-expects-to-develop-self-driving-cars-first-in-the-industry/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
     quality: 19
   - title: "Tesla wants anti-self-driving car video taken down"
     excerpt: "Tesla sent a cease-and-desist letter to an advocacy group critical of self-driving vehicles after it posted a video showing a Tesla car running over a child-sized mannequin."

@@ -2,6 +2,325 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2022-08-04-cognitive-computing-market-is-anticipated-to-have-prodigious-cagr-of-287-during-the-period-of-2022-2032.md",
+      "title": "Cognitive Computing Market is Anticipated to have Prodigious CAGR of 28.7% During the Period of 2022-2032",
+      "excerpt": "Additionally, there is an increase in the demand for cognitive systems in large organizations and this is expected to increase in SMBs owing to cloud-based services. As cloud-based deployment ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/cognitive-computing-market-is-anticipated-to-have-prodigious-cagr-of-28-7-during-the-period-of-2022-2032",
+      "originalUrl": "https://www.digitaljournal.com/pr/cognitive-computing-market-is-anticipated-to-have-prodigious-cagr-of-28-7-during-the-period-of-2022-2032",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/077787ed8274d4370cac36f9e7f70c511534e1d3-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-neurable-wants-to-let-you-control-any-device-with-your-mind.md",
+      "title": "Neurable Wants to Let You Control Any Device With Your Mind",
+      "excerpt": "There were no handheld controllers, mice, motion trackers, or keyboards, no HP Z Backpack computers, no robots ... just a chair ... Neurable's mission – “creating a world without limits,” where control over any device is a simple thought away.",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/neurable-wants-let-you-control-any-device-your-mind",
+      "originalUrl": "https://www.designnews.com/electronics-test/neurable-wants-let-you-control-any-device-your-mind",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Neurable%20headset.jpg",
+          "width": 833,
+          "height": 655,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-fedex-to-expand-robotics-technology-artificial-intelligence.md",
+      "title": "FedEx to expand robotics technology, artificial intelligence",
+      "excerpt": "Berkshire Grey and FedEx are strategically aligned. These new agreements reflect our mutual commitment to innovations in robotic automation that can remove barriers within the",
+      "sourceUrl": null,
+      "webUrl": "https://www.localmemphis.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
+      "originalUrl": "https://www.localmemphis.com/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.tegna-media.com/assets/WATN/images/8a9eb14f-8b13-4393-888f-6ca911584cb0/8a9eb14f-8b13-4393-888f-6ca911584cb0_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.localmemphis.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
+      "cdnAmpWebUrl": "https://www-localmemphis-com.cdn.ampproject.org/c/s/www.localmemphis.com/amp/article/money/business/fedex-expand-robotics-technology-artificial-intelligence-ai/522-4b449d3a-d106-4fd8-888f-54e350153e72",
+      "publishedDateTime": "2022-08-03T16:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Local 24 News",
+        "domain": "localmemphis.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete.md",
+      "title": "This startup just raised $320M to make long-term care inside hospitals obsolete",
+      "excerpt": "Cera, a UK provider of healthcare inside people’s homes augmented by a platform that allows carers to monitor a patient’s health and potentially flag problems, has raised $320m (£260m) in an equity and debt financing round,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/03/this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete/",
+      "originalUrl": "https://techcrunch.com/2022/08/03/this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 93,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/Cera-frontline-2.jpg?w=799",
+          "width": 799,
+          "height": 448,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/03/this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/03/this-startup-just-raised-320m-to-make-long-term-care-inside-hospitals-obsolete/amp/",
+      "publishedDateTime": "2022-08-03T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-regular-exercise-program-may-stall-cognitive-decline.md",
+      "title": "Regular Exercise Program May Stall Cognitive Decline",
+      "excerpt": "Sedentary older adults with amnestic mild cognitive impairment who engaged in regular exercise for a year maintained their cognition without decline, topline data from the EXERT trial showed.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medpagetoday.com/meetingcoverage/aaic/100054",
+      "originalUrl": "https://www.medpagetoday.com/meetingcoverage/aaic/100054",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.medpagetoday.net/media/images/100xxx/100054.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T14:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MedPage Today",
+        "domain": "medpagetoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-cognitive-decline-can-be-avoided-with-simple-everyday-exercises-new-study-suggests.md",
+      "title": "Cognitive decline can be avoided with simple everyday exercises, new study suggests",
+      "excerpt": "While scientists have always recommended physical activity to keep the brain healthy, research now shows regular stretching and motion exercises can help older people with mild memory troubles.",
+      "sourceUrl": null,
+      "webUrl": "https://www.foxnews.com/health/cognitive-decline-avoided-simple-everday-exercises-new-study-suggests",
+      "originalUrl": "https://www.foxnews.com/health/cognitive-decline-avoided-simple-everday-exercises-new-study-suggests",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://a57.foxnews.com/cf-images.us-east-1.prod.boltdns.net/v1/static/694940094001/2d65e022-dec5-405d-9c8f-df89169b5319/3965b698-d2da-45fb-91c0-f7b83924295d/1280x720/match/1200/675/image.jpg?ve=1&tl=1",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.foxnews.com/health/cognitive-decline-avoided-simple-everday-exercises-new-study-suggests.amp",
+      "cdnAmpWebUrl": "https://www-foxnews-com.cdn.ampproject.org/c/s/www.foxnews.com/health/cognitive-decline-avoided-simple-everday-exercises-new-study-suggests.amp",
+      "publishedDateTime": "2022-08-03T14:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fox News",
+        "domain": "foxnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/foxnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-aws-and-microsoft-eye-economy-in-a-bid-to-control-cloud-cost.md",
+      "title": "AWS and Microsoft eye economy in a bid to control cloud cost",
+      "excerpt": "Microsoft and Amazon pledged to control costs for cloud customers during quarterly earnings calls last week, acknowledging the financial and operation strains inflation and rising interest rates have put on their customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ciodive.com/news/AWS-Microsoft-Azure-Cloud-Cost/628823/",
+      "originalUrl": "https://www.ciodive.com/news/AWS-Microsoft-Azure-Cloud-Cost/628823/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 116,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.ciodive.com/imgproxy/n5FZkMy-IWVuDlOHzZ-XELfiyAL-yXkAZb6FFzDfdaY/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL0dldHR5SW1hZ2VzLTY3MTAzMzA4MC5qcGc.jpg",
+          "width": 770,
+          "height": 364,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-03T14:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO Dive",
+        "domain": "ciodive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-how-analog-ai-hardware-may-one-day-reduce-costs-and-carbon-emissions.md",
       "title": "How analog AI hardware may one day reduce costs and carbon emissions",
       "excerpt": "This is a type of artificial neural network in which physical analog hardware is used to emulate neurons as opposed to software-based approaches. “One of the obvious benefits of using analog ...",
@@ -819,337 +1138,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-computer-vision-in-healthcare-market-2022-research-report-with-revenue-gross-margin-and-future-prospects-till-2030.md",
-      "title": "Computer Vision in Healthcare Market 2022 Research Report With Revenue, Gross Margin, And Future Prospects Till 2030",
-      "excerpt": "Aug 03, 2022 (Heraldkeepers) -- The global Computer Vision in Healthcare market report provides geographic analysis covering regions, such as North America, Europe, Asia-Pacific, and Rest of the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-2022-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-08-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-2022-research-report-with-revenue-gross-margin-and-future-prospects-till-2030-2022-08-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T08:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-google-translate-camera-makes-it-super-easy-to-translate-text-from-an-image.md",
-      "title": "Google Translate camera makes it super easy to translate text from an image",
-      "excerpt": "The Google Translate app uses artificial intelligence to translate text from photos in a matter of seconds Since camera and AI technology have advanced so much, translating between languages has become a whole lot easier.",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitalcameraworld.com/news/google-translate-camera-makes-it-super-easy-to-translate-text-from-an-image",
-      "originalUrl": "https://www.digitalcameraworld.com/news/google-translate-camera-makes-it-super-easy-to-translate-text-from-an-image",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/KskZgw3fzEALBhKZvsRVfD-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "digitalcameraworld",
-        "domain": "digitalcameraworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-remote-surgical-robot-could-join-astronauts-on-future-mars-missions.md",
-      "title": "Remote Surgical Robot Could Join Astronauts on Future Mars Missions",
-      "excerpt": "No matter how mentally and physically prepared they are, future astronauts bound for deep space can't escape their mortal restrictions. At some point during their long and isolated journeys, these pioneers might need medical care.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/science/space/remote-surgical-robot-could-join-astronauts-on-future-mars-missions/",
-      "originalUrl": "https://www.cnet.com/science/space/remote-surgical-robot-could-join-astronauts-on-future-mars-missions/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/911220a96b805e2ac7b05240e8a22ec27f064c4b/2022/08/02/023fcd76-f93b-4116-8f7c-00d46a29a584/mira.jpg?auto=webp",
-          "width": 4240,
-          "height": 2832,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/remote-surgical-robot-could-join-astronauts-on-future-mars-missions/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/remote-surgical-robot-could-join-astronauts-on-future-mars-missions/",
-      "publishedDateTime": "2022-08-03T08:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-spb-2022-q2-artificial-intelligence-biometric-privacy-quarterly-review-newsletter.md",
-      "title": "SPB 2022 Q2 Artificial Intelligence & Biometric Privacy Quarterly Review Newsletter",
-      "excerpt": "Q2 did not disappoint in the AI and biometric privacy space, with a number of noteworthy litigation, legislative, and regulatory developments having taken place in these two rapidly developing areas o",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/spb-2022-q2-artificial-intelligence-biometric-privacy-quarterly-review-newsletter",
-      "originalUrl": "https://www.natlawreview.com/article/spb-2022-q2-artificial-intelligence-biometric-privacy-quarterly-review-newsletter",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/spb-2022-q2-artificial-intelligence-biometric-privacy-quarterly-review-newsletter?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/spb-2022-q2-artificial-intelligence-biometric-privacy-quarterly-review-newsletter?amp",
-      "publishedDateTime": "2022-08-03T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-artificial-intelligence-in-drug-discovery-market-intelligence-report-global-forecast-to-2027-researchandmarketscom.md",
-      "title": "Artificial Intelligence in Drug Discovery Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com",
-      "excerpt": "The Global Artificial Intelligence in Drug Discovery Market is projected to reach USD 2,760.77 million by 2027 from USD 701.05 million in 2021, at a CAGR 25.66% during the forecast period. In this report,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-health-middle-east-artificial-intelligence-1b8c9708e82647dc93f750b81f4ae85f",
-      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-health-middle-east-artificial-intelligence-1b8c9708e82647dc93f750b81f4ae85f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T07:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-healthcare-artificial-intelligence-ai-market-research-report-competitive-analysis-and-forecast-period-during-2027.md",
-      "title": "Healthcare Artificial Intelligence (AI) Market research report - competitive analysis and forecast period during 2027",
-      "excerpt": "The global healthcare artificial intelligence (AI) market size is estimated to secure a lucrative CAGR from 2021",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-research-report---competitive-analysis-and-forecast-period-during-2027-2022-08-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/healthcare-artificial-intelligence-ai-market-research-report---competitive-analysis-and-forecast-period-during-2027-2022-08-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-03-artificial-intelligence-ai-chipsets-market-growth-analysis-statistics-key-insights-and-trend-2022-to-2026.md",
-      "title": "Artificial Intelligence (AI) Chipsets Market growth analysis, statistics, key insights and trend 2022 to 2026",
-      "excerpt": "Artificial Intelligence (AI) chipsets market is undergoing constant changes as several companies across the world are indulging in heavy investments to introduce advanced technologies in automotive safety systems.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-growth-analysis-statistics-key-insights-and-trend-2022-to-2026-2022-08-03",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipsets-market-growth-analysis-statistics-key-insights-and-trend-2022-to-2026-2022-08-03",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T07:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI Hardware"
       ]
     }
   ],

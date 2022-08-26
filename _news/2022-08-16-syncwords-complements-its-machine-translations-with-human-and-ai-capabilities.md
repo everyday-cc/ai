@@ -1,20 +1,26 @@
 ---
 category: news
-title: "SyncWords Complements Its Machine Translations With Human and AI Capabilities"
-excerpt: "SyncWords, the leading live captioning and translation services provider is thrilled to announce SyncWords Offline, which includes human tr"
-publishedDateTime: 2022-08-16T12:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9656612.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9656612.htm"
+title: "Syncwords Complements Its Machine Translations With Human And AI Capabilities'"
+excerpt: "SyncWords has been the leading captioning and translation services provider in the media industry for over 20 years.. While SyncWords Live can be used as a primary tool to help deaf and hard-of-hearing audiences,"
+publishedDateTime: 2022-08-16T14:40:00Z
+originalUrl: "https://menafn.com/1104704287/Syncwords-Complements-Its-Machine-Translations-With-Human-And-AI-Capabilities"
+webUrl: "https://menafn.com/1104704287/Syncwords-Complements-Its-Machine-Translations-With-Human-And-AI-Capabilities"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "/aJiCDV56GWnwAUXigb28+5tWAPF5Yw8U6F0MSlgJXQSFCjU6BhTIMJVs1DZ/KD1px+yjU2TdTRHTP0GxceRkTRNqySk7voQvlRhejRHpQ2xnDZ4ExYdRUEn41EwlC8odgwf5eU9wbArSZ3X8R7VurNn9d6M4COq2TA3EmQo4YpccFs7iU3HQBd59fjszrh+RX484Y61uLN2Q8OBVGb4RxryUOn/e8/ikYJ/z45HToD42Ingr4VSZ6wRPVAQveGX350HPqX0job3LUSIYVp6qGYc0ZAVW1KY6W+9kU0RWEz1ve/Nf/72ayuixvAF3CS8WezmYWIpzrmFNuItKMxejSqMt7JxVdAaVIHQ6R0bDmM=;n3/W03b1jjqL70A5LR9Q2w=="
+images:
+  - url: "https://menafn.com/updates/pr/2022-08/16/PN_dd9c33f1-e_Image_In_Body.jpg"
+    width: 400
+    height: 225
+    isCached: true
+
+secured: "+txI0UN06EdkZKCQxwa8+C8yobcNW2JZb4XnYAGoaZG7zGdjYrGcL7fbK1tVoEl86kz7Kfny0mtnGq7ZNhxXWQK8ouTDLxSY2pnMR7eXDYr2Dk4DeOyCswhzw8k8pMYUvqGFmrCr7XddCgpEN/o7/Z2Z+OKo89G+HU7scBzyelTQbG2AHiwfVr7Q5ZShC8SUjkYRQ6Oe4RY9AJz28DBoCcfKF72XROX/Gzwm21oMedHUnmTBLAGZ+v76/7/vRg6FOxcDtCBXh2gluppyv/JQKHDs3ZJmZ+BG/xa95chA5jQHrTaviyxo2C3ICQGk2SzOqO2Gxag5I1bowRoN/g4FuEc5NabYc9BEMh00H6Kb0jg=;2I79xPaemMRMvDx0zRTniw=="
 ---
 

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-11-build-an-air-quality-anomaly-detector-using-amazon-lookout-for-metrics.md",
+      "title": "Build an air quality anomaly detector using Amazon Lookout for Metrics",
+      "excerpt": "Today, air pollution is a familiar environmental issue that creates severe respiratory and heart conditions, which pose serious health threats. Acid rain, depletion of the ozone layer, and global warming are also adverse consequences of air pollution. There is a need for intelligent monitoring and automation",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-air-quality-anomaly-detector-using-amazon-lookout-for-metrics/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-an-air-quality-anomaly-detector-using-amazon-lookout-for-metrics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/27/ML-7925-image001-1225x630.png",
+          "width": 1225,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T13:46:49-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-why-diversity-should-have-a-critical-impact-on-data-privacy.md",
       "title": "Why diversity should have a critical impact on data privacy",
       "excerpt": "Exploring why diversity must play a critical role in data privacy and how companies can create more inclusive and ethical technologies.",
@@ -1324,59 +1376,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-identify-the-location-of-anomalies-using-amazon-lookout-for-vision-at-the-edge-without-using-a-gpu.md",
-      "title": "Identify the location of anomalies using Amazon Lookout for Vision at the edge without using a GPU",
-      "excerpt": "Automated defect detection using computer vision helps improve quality and lower the cost of inspection. Defect detection involves identifying the presence of a defect, classifying types of defects, and identifying where the defects are located. Many manufacturing processes require detection at a low",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identify-the-location-of-anomalies-using-amazon-lookout-for-vision-at-the-edge-without-using-a-gpu/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identify-the-location-of-anomalies-using-amazon-lookout-for-vision-at-the-edge-without-using-a-gpu/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/29/identify-toy-alien-anomalies.jpg",
-          "width": 1323,
-          "height": 659,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T13:13:31-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "AI Hardware"
       ]
     }
   ],

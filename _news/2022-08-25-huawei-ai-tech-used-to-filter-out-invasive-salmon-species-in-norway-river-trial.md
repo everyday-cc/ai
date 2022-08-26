@@ -7,8 +7,8 @@ originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/3688
 webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368884/huawei-ai-filter-invasive-salmon-norway-rivers"
 type: article
 quality: 63
-heat: 63
-published: false
+heat: 73
+published: true
 
 provider:
   name: IT Pro
@@ -26,6 +26,22 @@ images:
     width: 1260
     height: 710
     isCached: true
+
+related:
+  - title: "Huawei and Partners Install World’s First AI Filtering System for Salmon in a Natural River in Norway"
+    excerpt: "Huawei and local partner Berlevåg Jeger-og Fiskerforening (BJFF) have successfully deployed an AI-powered filtering system in Norway’s Storelva River that allows Atlantic salmon to pass upstream and filters Pacific salmon – an invasive species – into a holding tank."
+    publishedDateTime: 2022-08-25T03:00:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/norway-salmon-invasive-species-0cd1508927aea55c30cac9ac021418d3"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 22
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "pem7Y3hsfOkQWb8K4uhJUQaqv13B0e/HjUdRQpq/l5lA2hLey/ZKkX/0PvGglG2tTVnbR0Yi51eqJ6yniALG+t8VuwwaXJ1xEOf9meDj1Ouk/7aVGvU4Ci0gICEHuEzUQ6Y0osNJPYiyRuK8k2V1PKdwdbMuLOlXMR4e82A017wm2QggtZNh6mVQQZNK9Dc4R+KORoQz2663IffW2kRcxycoyEURme0a407NIqBoaw8C96NWrPPNn1B8yLw82nuCq5ii19TGuXWr+GGLmE26TjYfGelO2KwAAjF10s/Ylws/ZAD6xlkbUwZTOKMVK3uwRNgRPmq964qwsv7YQDqYxXRSFwJIPiLZy6iUzxxhN2k=;QeDymEnxz4OODi3RK02HNA=="
 ---

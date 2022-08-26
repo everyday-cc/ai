@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-23T18:00:00Z
 originalUrl: "https://bestgamingpro.com/why-tesla-expects-to-develop-self-driving-cars-first-in-the-industry/"
 webUrl: "https://bestgamingpro.com/why-tesla-expects-to-develop-self-driving-cars-first-in-the-industry/"
 type: article
-quality: 19
+quality: 39
 heat: -1
 published: false
 
@@ -17,6 +17,12 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://bestgamingpro.com/wp-content/uploads/2022/08/Why-Tesla-Thinks-It-Will-Build-Self-Driving-Cars-Before-Everyone-Else.png"
+    width: 600
+    height: 365
+    isCached: true
 
 related:
   - title: "Elon Musk tells early Tesla Full Self-Driving Beta testers not to complain"
@@ -343,6 +349,17 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 34
+  - title: "Elon Musk Hits Out At Beta Tester For “Complaining” About Full Self-Driving Beta"
+    excerpt: "Musk quickly clapped back at Locke on Twitter, telling him that he shouldn’t complain having previously asked to be included in early releases of Tesla’s Full Self-Driving beta software. “10.69 is in limited release for a reason."
+    publishedDateTime: 2022-08-26T16:00:00Z
+    webUrl: "https://www.carscoops.com/2022/08/elon-musk-hits-out-at-beta-tester-for-complaining-about-full-self-driving-beta/"
+    ampWebUrl: "https://www.carscoops.com/2022/08/elon-musk-hits-out-at-beta-tester-for-complaining-about-full-self-driving-beta/amp/"
+    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/elon-musk-hits-out-at-beta-tester-for-complaining-about-full-self-driving-beta/amp/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 34
   - title: "Tesla hikes price of Full Self-Driving to $15,000 on September 5, expands beta test"
     excerpt: "The price has been $12,000 since October 2020, and this latest price hike corresponds with a broader rollout of beta testing."
     publishedDateTime: 2022-08-22T15:45:00Z
@@ -421,6 +438,6 @@ related:
       domain: cspdailynews.com
     quality: 4
 
-secured: "//G38ZXJSAEaApDB1mrfXObmLcK6jHLGENbIIfSrqjAHVBLPYUL5ns6KeApNtmvlZH82ZSRA3gdNt/Z1q11mkmyGqcOxQfppd2StckVaHlxjx7xalhVQNPCplPpMtu3WDCU8rVYz/e7Yoc+Mt12hrIBVXpgT+MQ46oVcTAQDoSS00yJHmNHBy6E/l1nEBo+XcowDZ+yywiSNrd1L+6JsqyFoTDDfEjb1v/vSmqgcXJAIL5Wwu9vsm+fWcB9z4Z1uC+4l9aTT09E4KepPfao24CuGCYMKWBTDvE1Slh4bm+PnB6qJKAW3C3UIpraCtUYIgNavaWbVC5t4YLjxDXbMVLUidH7fLbHW3HsmVECsSRo=;eYhYS8CXefWJiWQhsrLGig=="
+secured: "5RMghykHhWUgAaidQtw1atVDop+xaWkvd03a2+Tt3Q9ZbRO/wWQgqToI0he0yNeBSjj+hEznvm1Z3pUvx5QGb4miVdgRhws/IvLjj2/knuPZMtUjZGXLu2pAknI3sF2OM581SD+krwDwKfwowAJdEkpsXZdX3KHUD1ESMUn2DROY32AF+oyn9m6D52YcbGyXXff2d3LU7V0My/PuELxCpKiqtsZMZuJB3lvepztWYOHNTPOpWTGJ+wtggDl0cnwH7YXFtox9Pa8CsKBDYLOISk4Bl2iztETDBLrYk2WxFo8nroZdzl0q4eGtejquADH0/EfxPOwyYKvq+eRGddKdiaQnr5mitPt/vVplwQyNkro=;8P5epKoMQ2CmdHJJlEzZEQ=="
 ---
 

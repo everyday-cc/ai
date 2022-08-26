@@ -2,6 +2,59 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-07-29-identify-the-location-of-anomalies-using-amazon-lookout-for-vision-at-the-edge-without-using-a-gpu.md",
+      "title": "Identify the location of anomalies using Amazon Lookout for Vision at the edge without using a GPU",
+      "excerpt": "Automated defect detection using computer vision helps improve quality and lower the cost of inspection. Defect detection involves identifying the presence of a defect, classifying types of defects, and identifying where the defects are located. Many manufacturing processes require detection at a low",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/identify-the-location-of-anomalies-using-amazon-lookout-for-vision-at-the-edge-without-using-a-gpu/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/identify-the-location-of-anomalies-using-amazon-lookout-for-vision-at-the-edge-without-using-a-gpu/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/29/identify-toy-alien-anomalies.jpg",
+          "width": 1323,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-29T13:13:31-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-07-29-build-and-train-ml-models-using-a-data-mesh-architecture-on-aws-part-1.md",
       "title": "Build and train ML models using a data mesh architecture on AWS: Part 1",
       "excerpt": "Organizations across various industries are using artificial intelligence (AI) and machine learning (ML) to solve business challenges specific to their industry. For example, in the financial services industry, you can use AI and ML to solve challenges around fraud detection, credit risk prediction,",
@@ -1274,50 +1327,6 @@
       "topics": [
         "AWS AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-generate-synchronized-closed-captions-and-audio-using-the-amazon-polly-subtitle-generator.md",
-      "title": "Generate synchronized closed captions and audio using the Amazon Polly subtitle generator",
-      "excerpt": "Amazon Polly, an AI generated text-to-speech service, enables you to automate and scale your interactive voice solutions, helping to improve productivity and reduce costs. As our customers continue to use Amazon Polly for its rich set of features and ease of use, we have observed a demand for the ability",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/generate-synchronized-closed-captions-and-audio-using-the-amazon-polly-subtitle-generator/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/generate-synchronized-closed-captions-and-audio-using-the-amazon-polly-subtitle-generator/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T11:15:54-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -41,6 +41,20 @@ related:
         width: 1300
         height: 731
         isCached: true
+  - title: "Google's Test Kitchen App Asks You Talk to AI About Dogs"
+    excerpt: "LaMDA is a prototype AI system capable of deciphering a conversation's intent, and Google needs your help testing it out via the Test Kitchen app."
+    publishedDateTime: 2022-08-26T13:30:00Z
+    webUrl: "https://www.pcmag.com/news/googles-test-kitchen-app-asks-you-talk-to-ai-about-dogs"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/02aFSmyk24iY6AKYmO4LH89-2.fit_lim.size_1200x630.v1661520065.png"
+        width: 830
+        height: 467
+        isCached: true
   - title: "How Artificial Intelligence Is Positively Impacting Bitcoin And The Future Of Money"
     excerpt: "Bitcoin and blockchain technology are two of the most prominent innovations that have come from the Internet of Things (IoT) revolution. That’s only"
     publishedDateTime: 2022-08-23T06:05:00Z
@@ -57,15 +71,6 @@ related:
         width: 1350
         height: 900
         isCached: true
-  - title: "Google's Test Kitchen App Asks You Talk to AI About Dogs"
-    excerpt: "LaMDA is a prototype AI system capable of deciphering a conversation's intent, and Google needs your help testing it out via the Test Kitchen app."
-    publishedDateTime: 2022-08-26T13:30:00Z
-    webUrl: "https://www.pcmag.com/news/googles-test-kitchen-app-asks-you-talk-to-ai-about-dogs"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
   - title: "Solidus AI Tech Secures New Boost From High-Profile Investor 'The Bitcoin Man'"
     excerpt: "Solidus AI Tech Limited was established in January 2021 as the Artificial Intelligence arm of the parent company Solidus Technologies. United States - August 24, 2022 /MarketersMEDIA/ — Solidus AI Tech (AI-Tech.io), the company behind the world's first ..."
     publishedDateTime: 2022-08-24T04:17:00Z

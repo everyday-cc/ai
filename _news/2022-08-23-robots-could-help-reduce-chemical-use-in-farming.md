@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ktnv.com/news/national/robots-could-help-reduce-chemical
 cdnAmpWebUrl: "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/news/national/robots-could-help-reduce-chemical-use-in-farming?_amp=true"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: KTNV Las Vegas
@@ -27,6 +27,22 @@ images:
     isCached: true
 
 related:
+  - title: "Robots could help reduce chemical use in farming"
+    excerpt: "He said, \"if we can begin to eliminate chemicals or cut the use of them and take that money and spend on robots or some other way to help control weeds, that sounds good.” The robot's developers ..."
+    publishedDateTime: 2022-08-24T06:18:00Z
+    webUrl: "https://www.thedenverchannel.com/news/national/robots-could-help-reduce-chemical-use-in-farming"
+    ampWebUrl: "https://www.thedenverchannel.com/news/national/robots-could-help-reduce-chemical-use-in-farming?_amp=true"
+    cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/robots-could-help-reduce-chemical-use-in-farming?_amp=true"
+    type: article
+    provider:
+      name: Denver7
+      domain: thedenverchannel.com
+    quality: 59
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/cb84d0e/2147483647/strip/true/crop/3666x2062+61+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F07%2F00%2Fe618017b4f60acd3ac6f7b3020e4%2Fscreen-shot-2022-08-22-at-10.50.57%20PM.png"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Stäubli to Demo Robotic Machine Tending, Mobile Cobots at IMTS 2022"
     excerpt: "Stäubli Robotics (North Hall, Booth #236262) will exhibit advanced robots at IMTS 2022 in Chicago that can be used to help manufacturers meet new challenges and changing market demands across a range of industries."
     publishedDateTime: 2022-08-23T17:36:00Z

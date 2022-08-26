@@ -2,6 +2,314 @@
   "page": 121,
   "value": [
     {
+      "path": "_news/2022-05-25-ai-reveals-unsuspected-math-underlying-search-for-exoplanets.md",
+      "title": "AI reveals unsuspected math underlying search for exoplanets",
+      "excerpt": "Artificial intelligence (AI) algorithms trained on real astronomical observations now outperform astronomers in sifting through massive amounts of data to find new exploding stars, identify new types of galaxies and detect the mergers of massive stars,",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-05-ai-reveals-unsuspected-math-underlying.html",
+      "originalUrl": "https://phys.org/news/2022-05-ai-reveals-unsuspected-math-underlying.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2014/1-exoplanet.jpg",
+          "width": 850,
+          "height": 637,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-05-ai-reveals-unsuspected-math-underlying.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-ai-reveals-unsuspected-math-underlying.amp",
+      "publishedDateTime": "2022-05-24T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Math for AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-specialization-is-key-in-an-exploding-ai-chatbot-market.md",
+      "title": "Specialization is key in an exploding AI chatbot market",
+      "excerpt": "Zowie, which claims to be the only AI-powered chatbot technology specifically built for ecommerce companies that use customer support to drive sales has secured $14 million in series A funding.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/",
+      "originalUrl": "https://venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2018/08/chatbot.shutterstock_1139070611-e1588276688496.jpg?w=1200&#038;strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/23/specialization-is-key-in-an-exploding-ai-chatbot-market/amp/",
+      "publishedDateTime": "2022-05-24T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-informaticas-new-data-management-clouds-target-health-finance-services.md",
+      "title": "Informatica’s new data management clouds target health, finance services",
+      "excerpt": "Just after launching a focused data management platform for retail customers in March, enterprise data management vendor Informatica has now released two more industry-specific versions of its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cio.com/article/350352/informaticas-new-data-management-clouds-target-health-finance-services.html",
+      "originalUrl": "https://www.cio.com/article/350352/informaticas-new-data-management-clouds-target-health-finance-services.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T11:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CIO",
+        "domain": "cio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-facial-recognition-market-report-2022-2027-top-companies-new-technology-size-and-forecast.md",
+      "title": "Facial Recognition Market Report 2022-2027: Top Companies, New Technology, Size and Forecast",
+      "excerpt": "According to IMARC Group latest report titled “Facial Recognition Market: Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027”, offers a comprehensive analysis of the industry,",
+      "sourceUrl": null,
+      "webUrl": "https://xaralite.com/247195/technology/facial-recognition-market-report-2022-2027-top-companies-new-technology-size-and-forecast/",
+      "originalUrl": "https://xaralite.com/247195/technology/facial-recognition-market-report-2022-2027-top-companies-new-technology-size-and-forecast/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T10:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "xaralite.com",
+        "domain": "xaralite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai.md",
+      "title": "Iterate integrates more visual tools with Interplay 7 low-code platform update for AI",
+      "excerpt": "Iterate's release integrates a new workflow engine that enables users to work with multiple AI nodes for building apps and ML models.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/",
+      "originalUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1333245117-Andrey-Suslov.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 603,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/iterate-integrates-more-visual-tools-with-interplay-7-low-code-platform-update-for-ai/amp/",
+      "publishedDateTime": "2022-05-24T10:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-geisinger-selects-aws-as-strategic-cloud-provider.md",
+      "title": "Geisinger selects AWS as strategic cloud provider",
+      "excerpt": "Project will be one of the largest electronic health record cloud migrations to AWS to date, expected to enable life-saving technologies and save Geisinger several million annually DANVILLE, Pa., May 24,",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox46.com/business/press-releases/cision/20220524DC67473/geisinger-selects-aws-as-strategic-cloud-provider/",
+      "originalUrl": "https://www.fox46.com/business/press-releases/cision/20220524DC67473/geisinger-selects-aws-as-strategic-cloud-provider/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1653214/Geisinger_School_of_Medicine_Faculty_Return_Logo.jpg?p=publish",
+          "width": 1960,
+          "height": 790,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-24T10:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "fox46",
+        "domain": "fox46.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-how-will-ai-be-used-ethically-in-the-future-ai-responsibility-lab-has-a-plan.md",
+      "title": "How will AI be used ethically in the future? AI Responsibility Lab has a plan",
+      "excerpt": "AI Responsibility Lab's Mission Control provides a framework for teams to create standardized processes for ML and AI operations.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/24/how-will-ai-be-used-ethically-in-the-future-ai-responsibility-lab-has-a-plan/",
+      "originalUrl": "https://venturebeat.com/2022/05/24/how-will-ai-be-used-ethically-in-the-future-ai-responsibility-lab-has-a-plan/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1134028859-e1653340548357.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/24/how-will-ai-be-used-ethically-in-the-future-ai-responsibility-lab-has-a-plan/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/how-will-ai-be-used-ethically-in-the-future-ai-responsibility-lab-has-a-plan/amp/",
+      "publishedDateTime": "2022-05-24T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-hugging-face-collaborates-with-microsoft-for-new-ai-powered-azure-service.md",
       "title": "Hugging Face collaborates with Microsoft for new AI-powered Azure service",
       "excerpt": "Available through Azure Machine Learning Services ... a large South African bank and financial services group. It’ll be free during the preview period, with customers only having to pay for ...",
@@ -827,289 +1135,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology.md",
-      "title": "IT ministry holds brainstorming session with startups on AI, language technology",
-      "excerpt": "The meeting was chaired by Minister of State for Information Technology Rajeev Chandrasekhar. The new initiative, named Digital India BHASHINI or BHASHa INterface for India- is a part of the National Language Translation Mission.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/articleshow/91770359.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/articleshow/91770359.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-79986,msid-91770378/eds-handout-photo-made-available-from-pib-on-thursday-feb-24-2022-new-d-.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/amp_articleshow/91770359.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/it-ministry-holds-brainstorming-session-with-startups-on-ai-language-technology/amp_articleshow/91770359.cms",
-      "publishedDateTime": "2022-05-24T07:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-remarkable-science-exploring-our-ai-and-robot-supported-future.md",
-      "title": "Remarkable science: Exploring our AI and robot-supported future",
-      "excerpt": "On May 13, the Day of AI, we brought together a panel of experts to talk about the future of AI and robots. This is the first installment of our series Remarkable Science -- featuring conversations with scientists about their discoveries,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wwno.org/2022-05-24/remarkable-science-exploring-our-ai-and-robot-supported-future",
-      "originalUrl": "https://www.wwno.org/2022-05-24/remarkable-science-exploring-our-ai-and-robot-supported-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WWNO",
-        "domain": "wwno.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-neuromorphic-chips-up-to-16-times-more-energy-efficient-for-deep-learning.md",
-      "title": "Neuromorphic chips 'up to 16 times more energy efficient' for deep learning",
-      "excerpt": "Neuromorphic chips have been endorsed in research showing that they are much more energy efficient at operating large deep learning networks than non-neuromorphic hardware. This may become important as AI adoption increases.",
-      "sourceUrl": null,
-      "webUrl": "https://go.theregister.com/feed/www.theregister.com/2022/05/24/neuromorphic_chips_up_to_16/",
-      "originalUrl": "https://go.theregister.com/feed/www.theregister.com/2022/05/24/neuromorphic_chips_up_to_16/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://regmedia.co.uk/2016/08/02/brain_neuron.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theregister.com/AMP/2022/05/24/neuromorphic_chips_up_to_16/",
-      "cdnAmpWebUrl": "https://www-theregister-com.cdn.ampproject.org/c/s/www.theregister.com/AMP/2022/05/24/neuromorphic_chips_up_to_16/",
-      "publishedDateTime": "2022-05-24T06:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "theregister",
-        "domain": "theregister.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-fortinet-introduces-self-learning-ai-capabilities-in-new-network-detection-and-response-offering.md",
-      "title": "Fortinet Introduces Self-Learning AI Capabilities in New Network Detection and Response Offering",
-      "excerpt": "John Maddison, EVP of Products and CMO at Fortinet “With the introduction of FortiNDR, we’re adding robust network detection and response to the Fortinet Security Fabric. Powered by purpose-built machine learning,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/GlobeNewswire/technology-09f9dfe7e8006acb9b75e63bedaa2fbd",
-      "originalUrl": "https://apnews.com/press-release/GlobeNewswire/technology-09f9dfe7e8006acb9b75e63bedaa2fbd",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T06:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges.md",
-      "title": "92% of HR Leaders Will Increase Use of Artificial Intelligence as Solution for Rising Talent Challenges",
-      "excerpt": "Survey results indicate organizations are embracing AI to make critical talent decisions at scale and align workforce strategies with shifting business priorities. SANTA CLARA, Ca",
-      "sourceUrl": null,
-      "webUrl": "https://www.localsyr.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/",
-      "originalUrl": "https://www.localsyr.com/business/press-releases/cision/20220524SF67183/92-of-hr-leaders-will-increase-use-of-artificial-intelligence-as-solution-for-rising-talent-challenges/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "LocalSYR",
-        "domain": "localsyr.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-how-to-make-ai-marketing-initiatives-actually-deliver.md",
-      "title": "How To Make AI Marketing Initiatives Actually Deliver",
-      "excerpt": "Trying to decide on channels? How much to invest in a campaign? Which demographics to target? AI can ingest the relevant data and then produce forecasts and analyses to help you make the right choice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/24/how-to-make-ai-marketing-initiatives-actually-deliver/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/24/how-to-make-ai-marketing-initiatives-actually-deliver/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T05:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-informatica-announces-multidomain-master-data-management-as-a-service-on-microsoft-azure.md",
-      "title": "Informatica Announces Multidomain Master Data Management-as-a-Service on Microsoft Azure",
-      "excerpt": "Informatica Deepens Collaboration with Microsoft using Power BI to Deliver End-to-End Data Governance Capabilities on AzureREDWOOD CITY, Calif.,",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/informatica-announces-multidomain-master-data-management-as-a-service-on-microsoft-azure-1031484872",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/informatica-announces-multidomain-master-data-management-as-a-service-on-microsoft-azure-1031484872",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T05:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

@@ -2,27 +2,25 @@
 category: news
 title: "Capitol Records drops artificial intelligence rapper after just one week"
 excerpt: "The AI-created rapper named FN Meka was meant to be the first augmented reality music artists to be signed to a major label."
-publishedDateTime: 2022-08-25T01:46:00Z
-originalUrl: "https://www.thedenverchannel.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
-webUrl: "https://www.thedenverchannel.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
-ampWebUrl: "https://www.thedenverchannel.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week?_amp=true"
-cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week?_amp=true"
+publishedDateTime: 2022-08-25T01:36:00Z
+originalUrl: "https://www.news5cleveland.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
+webUrl: "https://www.news5cleveland.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
 type: article
-quality: 56
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: 7News and TheDenverChannel.com
-  domain: thedenverchannel.com
+  name: Cleveland
+  domain: news5cleveland.com
 
 topics:
   - AI
 
 images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/36f0c0d/2147483647/strip/true/crop/3719x2092+54+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F7a%2F22%2Fcaf7db494a18a01db7c00f559d55%2Fscreen-shot-2022-08-24-at-10.27.58%20PM.png"
-    width: 1280
-    height: 720
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/76a0d07/2147483647/strip/true/crop/3828x2010+0+41/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F7a%2F22%2Fcaf7db494a18a01db7c00f559d55%2Fscreen-shot-2022-08-24-at-10.27.58%20PM.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -121,6 +119,6 @@ related:
       domain: popsci.com
     quality: 17
 
-secured: "sJAyZAcyBrXUoHbhOdnXWgeagfY4Vo5f7JzUWPKrUno/v+jJLhvYEE2CPlLeB/uW6aubM7wYptS5gYG0YTRNWkwJtMcMllCBAEyOhZPfOdWiX411wlxsYGNxB0BLSjxJOwmAm4Pi7lBfArwk80spQ6+EVYIjrCvAhqeYwDn3sFLWhNrW+t3neQtvoOS5J4sFdkdgiPeQ0wAJ8ElLX7E0hOQbrSvbvPusxhojR+u/tGKDHMlCD/vIyuAQy9I3q+Ns4efZ45Xga3sEc5mAvyIA8QN6t7vPZLQQ+OqxMmAoYT/b93FR10sgAGIogKarnQRZscxrDBpekI0TA8Qr8vvA6VzlQ3KkMm8OSX+1RyEFdLRH3AnunvWp+oyeqUQ4cmT2lio3ufxALbRB4HqVaEk2CHbs8lmYCbx7jHW3cUci1D3ebTp1BB6Z349UOOiK5jG96Li8Tz3cADnAKJwpfpMRiUaRqnAFl5FGY8vs8yGUtAjyHIm742bRj8T9KWO8IVxkl0jlHqt8ryxoek0e56KdeQ==;hFqFRVM5TN8hnQaizO6HPg=="
+secured: "idmN7lXVr2UqlsuaoAKG0arm6BJz2cyFge/SfNSZFyIqc9sI5xH8bxFsBaq68K3ksw6blwLtKyEwP9XuUQzRLMAp6rhxON8QDHlzAQKmRbRmR1Wi8HrHCAnh90QHgXaAr3mvI+JjSXQ+17TGbo7R4CpYuO2xQX5I5OsuS7BUeHw0XOdaTRvw6bQbF9x4q01Ev1TFQdej5uDVSzLOZslm7c1EusWvrDwasAtpskJTqialhKy71nrUbIMIrKi8jg8qAZC6dECI2tBKiUjLpJ47Tt4iiiVwXJw5iNnJn8TwZm+U7XeH+7Ymey6sxpQZxTKMYABovdIEFzKno1Dk7r2CwnM3l632iuIVPR2+SOlFC6M=;HDHrm4PKzxQSymSdJ6vOsQ=="
 ---
 

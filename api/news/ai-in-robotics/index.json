@@ -365,6 +365,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-23-robots-could-help-reduce-chemical-use-in-farming.md",
+      "title": "Robots could help reduce chemical use in farming",
+      "excerpt": "A robotics manufacturer is looking at the possibility of developing machines that will remove weeds and tend farmland without the need for so many chemicals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktnv.com/news/national/robots-could-help-reduce-chemical-use-in-farming",
+      "originalUrl": "https://www.ktnv.com/news/national/robots-could-help-reduce-chemical-use-in-farming",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/cb84d0e/2147483647/strip/true/crop/3666x2062+61+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F07%2F00%2Fe618017b4f60acd3ac6f7b3020e4%2Fscreen-shot-2022-08-22-at-10.50.57%20PM.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ktnv.com/news/national/robots-could-help-reduce-chemical-use-in-farming?_amp=true",
+      "cdnAmpWebUrl": "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/news/national/robots-could-help-reduce-chemical-use-in-farming?_amp=true",
+      "publishedDateTime": "2022-08-22T18:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTNV Las Vegas",
+        "domain": "ktnv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-22-can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry.md",
       "title": "Can AI serve as a 'great equalizer' in the real estate industry?",
       "excerpt": "Implementing artificial intelligence in real estate can help diversify home ownership, claims Anywhere Real Estate.",
@@ -459,52 +502,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-artificial-intelligence-is-the-new-frontier-of-ethical-tests.md",
-      "title": "Artificial intelligence is the new frontier of ethical tests",
-      "excerpt": "This has, predictably, put the debate over artificial intelligence centre stage ... dilemma around who to save when there are choices and how does one stop a robot going “rogue?” As AI becomes more common-place, regulators have been seeking to grapple ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/",
-      "originalUrl": "https://www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cityam.com/wp-content/uploads/2022/08/GettyImages-928215790.jpg",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/?amp=1",
-      "cdnAmpWebUrl": "https://www-cityam-com.cdn.ampproject.org/c/s/www.cityam.com/artificial-intelligence-is-the-new-frontier-of-ethical-tests/?amp=1",
-      "publishedDateTime": "2022-08-22T00:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "City A.M.",
-        "domain": "cityam.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     },
     {

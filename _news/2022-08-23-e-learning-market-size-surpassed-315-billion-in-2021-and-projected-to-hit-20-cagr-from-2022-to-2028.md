@@ -33,6 +33,20 @@ related:
         width: 1000
         height: 563
         isCached: true
+  - title: "Protecting AI Data in Manufacturing Is a New Frontier"
+    excerpt: "Big data and AI have revolutionized the manufacturing industry, making factories autonomous as well as smart. With the advent of novel sensors and the Internet of Things, current manufacturing facilities are collecting trillions of bytes of data from ..."
+    publishedDateTime: 2022-08-25T21:24:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/digital-tools/article/21249490/protecting-ai-data-in-manufacturing-is-a-new-frontier"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 37
+    images:
+      - url: "https://img.industryweek.com/files/base/ebm/industryweek/image/2022/08/AI_FActory.6307e2ab38448.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Pilot Company and Kodiak Robotics Partner to Bring Self-Driving Truck Services to Pilot and Flying J Travel Centers"
     excerpt: "Pilot Company makes a strategic investment in Kodiak and will join Kodiak's Board of Directors. The companies are working together to bring autonomous truck inspections, maintenance, refueling, data offloading and load pick-up and drop-offs to commercial trucking customers."
     publishedDateTime: 2022-08-23T20:28:00Z

@@ -3,8 +3,8 @@ category: news
 title: "Nexar utilizes crowdsourced vision data to foster autonomous driving"
 excerpt: "Data is the foundation of autonomous driving. Nexar, an AI computer vision company, analyzes street information through a network supported by its dash cams. Integrating real-time data with human driving behaviors, the Israel-based company aims for a ..."
 publishedDateTime: 2022-08-25T03:48:00Z
-originalUrl: "https://www.digitimes.com/news/a20220825VL201/adas-autonomous-driving-av-israel-japan-singapore.html?chid=12"
-webUrl: "https://www.digitimes.com/news/a20220825VL201/adas-autonomous-driving-av-israel-japan-singapore.html?chid=12"
+originalUrl: "https://www.digitimes.com/news/a20220825VL201/adas-autonomous-driving-av-israel-japan-singapore.html?chid=10"
+webUrl: "https://www.digitimes.com/news/a20220825VL201/adas-autonomous-driving-av-israel-japan-singapore.html?chid=10"
 type: article
 quality: 24
 heat: 24
@@ -24,6 +24,6 @@ images:
     height: 853
     isCached: true
 
-secured: "Nkao2eEWOiRsw3e6gnw6L85SWyl9ENZRttZmCB4sjqZ5UF3QSAwXI+E500OR+KuXMBBFrFDsiEtaV4GeljcaeEHDGv+BpB2D/OFNul27zkCsmQICRiTeQf8pfCnJ7XZcSov3hsUYIWFgiBAOTJJXBNiyj50VAUcFvlRMyA2EyKiCQae0kcIFMeXdjQuPbdjb6thXqqqcekjsXh81x1xi4ca6OdZ/HwjW18pDeUlT1OpulXCwXutey2w/uMkUrCHJhRicoV7KBt2VH57nfSLLSVaBdKS7iKEqSO0Rzu/G/eB5LcGgzfeqhSMDNMGM2nmL7X6XzYHv4XITaZwXSr/iwr0IVVGWTl5F8Q16GenIcayrDOysBjC3f1nkgEueiXoduGm7rNEdvN+s2JksTIhyKXOlpWr1lRxqs4V3bbScVmV7yTnRDM0kb6iluUeIfUzjeIDw5U/zWiMXPzYpZ86q/+5VDgpyAPg8MH7TKdx4iFDQhBFrX/rpFS6BkBo1KkMYSlhRGLxNk7qPrscQnSQ69A==;Sxuq+IVpKXu+Q31s/JsDsQ=="
+secured: "+PkwyU79dT41+cCK7NHnC77gvi2WdKWaYxEQ66cyucXPQkKsH7xHLAh03uKaCEg3sCRDd7/9ue/sW957+r5CY/lvjao3qlfa+zhQJNY1wpJgKX0Lwdlrm/f4xWuo4XnMmpzYC70OR+0LZXi4yY0WuaYFRvdb4aqRWYcyMAS9m32LPNaprVRrs1LHGgRjI2Lwl6cew7ach31PUmX5SMIYnACzHuuixvlTrbjp9ulBVCyzNk/+bpl6Rp59cIhZteO/aQB0vsxu1UlHxFw+veTDwIYswWIJkOyAIvL59AJ/3bI+wqYsorhWU1w9yF2/b7Kn9KZf514hJzLkuf5uu17svwIezVWRcMcECyXGiUDxGTE=;GR/l8KtLZ9T62QsHeCrj8g=="
 ---
 

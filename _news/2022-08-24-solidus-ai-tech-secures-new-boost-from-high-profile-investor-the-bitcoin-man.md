@@ -40,6 +40,20 @@ related:
         width: 1300
         height: 731
         isCached: true
+  - title: "Google's Test Kitchen App Asks You Talk to AI About Dogs"
+    excerpt: "LaMDA is a prototype AI system capable of deciphering a conversation's intent, and Google needs your help testing it out via the Test Kitchen app."
+    publishedDateTime: 2022-08-26T13:30:00Z
+    webUrl: "https://www.pcmag.com/news/googles-test-kitchen-app-asks-you-talk-to-ai-about-dogs"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/02aFSmyk24iY6AKYmO4LH89-2.fit_lim.size_1200x630.v1661520065.png"
+        width: 830
+        height: 467
+        isCached: true
   - title: "How Artificial Intelligence Is Positively Impacting Bitcoin And The Future Of Money"
     excerpt: "Bitcoin and blockchain technology are two of the most prominent innovations that have come from the Internet of Things (IoT) revolution. That’s only"
     publishedDateTime: 2022-08-23T06:05:00Z
@@ -70,15 +84,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "Google's Test Kitchen App Asks You Talk to AI About Dogs"
-    excerpt: "LaMDA is a prototype AI system capable of deciphering a conversation's intent, and Google needs your help testing it out via the Test Kitchen app."
-    publishedDateTime: 2022-08-26T13:30:00Z
-    webUrl: "https://www.pcmag.com/news/googles-test-kitchen-app-asks-you-talk-to-ai-about-dogs"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
 
 secured: "4KwZcUzsHi48A0oVVItbpf6hnsSZ06nAZ42H9ySIcc4YWKfmIZlrDF775QTbFemeI9Mhs+mozJ1D5FAYDv9iyWl1zhbJVPo0ANA7HKVqwFHwORaC7z0cnTDEYngWL6JJqDlQqIklvNzBfoetlQGG9UleDI7360DoiyBk508ExJZWXCe6Rq01zTqvKO42fDBeJKXd01kBcCdd5UVkSy/vTPOR5C4T6PO+X1+OfuXJqz/pbr+HRnjoPzDH+KMU+aAzCDtzUcj1txyaie2pPn5HelVWOPlq3oZk747LpIDQhgGZt4dnNLk6UmsxnABPYEgMR9UxqfV+H9m63NZSmfKXs80ctU7VTInBH75GZn8F9Ho=;t9VZqn/lY3CLbzQQ18UbJQ=="
 ---

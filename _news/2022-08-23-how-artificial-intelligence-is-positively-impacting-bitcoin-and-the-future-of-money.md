@@ -44,6 +44,20 @@ related:
         width: 1300
         height: 731
         isCached: true
+  - title: "Google's Test Kitchen App Asks You Talk to AI About Dogs"
+    excerpt: "LaMDA is a prototype AI system capable of deciphering a conversation's intent, and Google needs your help testing it out via the Test Kitchen app."
+    publishedDateTime: 2022-08-26T13:30:00Z
+    webUrl: "https://www.pcmag.com/news/googles-test-kitchen-app-asks-you-talk-to-ai-about-dogs"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 67
+    images:
+      - url: "https://i.pcmag.com/imagery/articles/02aFSmyk24iY6AKYmO4LH89-2.fit_lim.size_1200x630.v1661520065.png"
+        width: 830
+        height: 467
+        isCached: true
   - title: "White paper offers ethics advice for use of AI in the US"
     excerpt: "This new white paper encourages all stakeholders — government among them — to consider potential harm that AI can do, and to plan for addressing that."
     publishedDateTime: 2022-08-22T02:00:00Z
@@ -58,15 +72,6 @@ related:
         width: 1240
         height: 826
         isCached: true
-  - title: "Google's Test Kitchen App Asks You Talk to AI About Dogs"
-    excerpt: "LaMDA is a prototype AI system capable of deciphering a conversation's intent, and Google needs your help testing it out via the Test Kitchen app."
-    publishedDateTime: 2022-08-26T13:30:00Z
-    webUrl: "https://www.pcmag.com/news/googles-test-kitchen-app-asks-you-talk-to-ai-about-dogs"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 47
   - title: "Solidus AI Tech Secures New Boost From High-Profile Investor 'The Bitcoin Man'"
     excerpt: "Solidus AI Tech Limited was established in January 2021 as the Artificial Intelligence arm of the parent company Solidus Technologies. United States - August 24, 2022 /MarketersMEDIA/ — Solidus AI Tech (AI-Tech.io), the company behind the world's first ..."
     publishedDateTime: 2022-08-24T04:17:00Z

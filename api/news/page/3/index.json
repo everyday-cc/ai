@@ -2,6 +2,196 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-24-restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages.md",
+      "title": "Restaurants Send More Customer Calls to Voice Bots Amid Staffing Shortages",
+      "excerpt": "Some executives say automating phone lines will ease pressure on stretched hospitality staff—but others question whether hungry customers are ready to order from a nonhuman voice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
+      "originalUrl": "https://www.wsj.com/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-609305/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
+      "publishedDateTime": "2022-08-24T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-scalenuts-ai-copywriter-also-helps-content-make-a-dent-in-search-engine-results.md",
+      "title": "Scalenut’s AI copywriter also helps content make a dent in search engine results",
+      "excerpt": "AI copywriters are getting a lot of attention from investors. A couple that have recently raised funding include Copy.ai and Copysmith. Now Scalenut is entering the arena with a $3.1 million funding round led by Saama Capital and Amit Singhal,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/23/scalenuts-ai-copywriter-also-helps-content-make-a-dent-in-search-engine-results/",
+      "originalUrl": "https://techcrunch.com/2022/08/23/scalenuts-ai-copywriter-also-helps-content-make-a-dent-in-search-engine-results/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/From-L-to-R-Gaurav-Goyal-Saurabh-Wadhawan-Mayank-Jain-1.jpg?w=680",
+          "width": 680,
+          "height": 453,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/23/scalenuts-ai-copywriter-also-helps-content-make-a-dent-in-search-engine-results/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/23/scalenuts-ai-copywriter-also-helps-content-make-a-dent-in-search-engine-results/amp/",
+      "publishedDateTime": "2022-08-23T21:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-untether-ai-pulls-the-curtain-rope-for-its-next-gen-inferencing-system.md",
+      "title": "Untether AI Pulls the Curtain Rope For Its Next-Gen Inferencing System",
+      "excerpt": "When we last focused on Untether AI in 2021, the AI inferencing hardware startup had just secured $125 million in funding, which came a year after the",
+      "sourceUrl": null,
+      "webUrl": "https://www.nextplatform.com/2022/08/23/untether-ai-pulls-the-curtain-rope-for-its-next-gen-inferencing-system/",
+      "originalUrl": "https://www.nextplatform.com/2022/08/23/untether-ai-pulls-the-curtain-rope-for-its-next-gen-inferencing-system/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/08/untether-ai-logo.jpg",
+          "width": 807,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nextplatform.com/2022/08/23/untether-ai-pulls-the-curtain-rope-for-its-next-gen-inferencing-system/amp/",
+      "cdnAmpWebUrl": "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/08/23/untether-ai-pulls-the-curtain-rope-for-its-next-gen-inferencing-system/amp/",
+      "publishedDateTime": "2022-08-23T21:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Platform",
+        "domain": "nextplatform.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-disney-collaborates-with-miko-a-historic-first-for-the-consumer-robotics-space.md",
+      "title": "Disney Collaborates with Miko: A Historic First For The Consumer Robotics Space",
+      "excerpt": "The magical worlds of Disney and Pixar have arrived on the Miko 3 robot. The collaboration is a historic “first” for the consumer robotics space and the latest indication that AI will play a growing role in the future of kid’s entertainment.",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/disney-collaborates-with-miko-a-historic-first-for-the-consumer-robotics-space/",
+      "originalUrl": "https://indiaeducationdiary.in/disney-collaborates-with-miko-a-historic-first-for-the-consumer-robotics-space/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2022/08/Disney-on-Miko-3.jpg?fit=508%2C287&ssl=1",
+          "width": 508,
+          "height": 287,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/disney-collaborates-with-miko-a-historic-first-for-the-consumer-robotics-space/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/disney-collaborates-with-miko-a-historic-first-for-the-consumer-robotics-space/",
+      "publishedDateTime": "2022-08-23T19:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-pilot-travel-centers-explores-accommodating-self-driving-trucks.md",
       "title": "Pilot Travel Centers Explores Accommodating Self-Driving Trucks",
       "excerpt": "Pilot Travel Centers LLC, one of the largest operators of roadside travel centers in North America, said it made an equity investment in self-driving trucking startup Kodiak Robotics Inc. and is partnering with the company to incorporate services for ...",
@@ -50,49 +240,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-deep-learning-algorithm-may-streamline-lung-cancer-radiotherapy-treatment.md",
-      "title": "Deep learning algorithm may streamline lung cancer radiotherapy treatment",
-      "excerpt": "Lung cancer, the most common cancer worldwide, is targeted with radiation therapy (RT) in nearly one-half of cases. RT planning is a manual, resource-intensive process that can take days to weeks to complete,",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 133,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/lung-scan.jpg",
-          "width": 2880,
-          "height": 1966,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp",
-      "publishedDateTime": "2022-08-23T15:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     },
@@ -157,7 +304,7 @@
       "originalUrl": "https://venturebeat.com/ai/assembly-ai-offers-ai-as-a-service-api-to-ease-model-development/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 163,
+      "heat": 173,
       "tags": null,
       "images": [
         {
@@ -503,7 +650,7 @@
       "originalUrl": "https://www.bbntimes.com/technology/how-is-machine-learning-affecting-advertising-and-marketing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 78,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -588,6 +735,48 @@
       ],
       "topics": [
         "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word.md",
+      "title": "Capitol Records blasted for promoting AI rapper FN Meka using n word",
+      "excerpt": "Capitol Records blasted for promoting an AI rapper named FN Meka that was created by a white man and uses the n word",
+      "sourceUrl": null,
+      "webUrl": "https://bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/",
+      "originalUrl": "https://bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bossip.com/wp-content/uploads/sites/28/2022/08/16612612898745.jpg?w=560&h=320&crop=1&strip=all&quality=80",
+          "width": 560,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/amp/",
+      "cdnAmpWebUrl": "https://bossip-com.cdn.ampproject.org/c/s/bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/amp/",
+      "publishedDateTime": "2022-08-23T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bossip",
+        "domain": "bossip.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1040,189 +1229,6 @@
         "AI",
         "Machine Learning",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-artificial-intelligence-creates-pic-of-scariest-thing-on-earth.md",
-      "title": "Artificial Intelligence Creates Pic Of \"Scariest Thing On Earth\"",
-      "excerpt": "Artificial Intelligence (AI) has created the images of \"scariest thing on Earth\", while responding to the queries from users. The results are horrifying, with the images showing monsters with long sharp teeth and empty eye sockets. The images have been ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/world-news/artificial-intelligence-creates-pic-of-scariest-thing-on-earth-3278852",
-      "originalUrl": "https://www.ndtv.com/world-news/artificial-intelligence-creates-pic-of-scariest-thing-on-earth-3278852",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://c.ndtvimg.com/2022-08/kshej0p_artificial-intelligence-scary-image-650_625x300_23_August_22.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/world-news/artificial-intelligence-creates-pic-of-scariest-thing-on-earth-3278852/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/world-news/artificial-intelligence-creates-pic-of-scariest-thing-on-earth-3278852/amp/1",
-      "publishedDateTime": "2022-08-23T03:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-ai-robots-power-hungry-or-empowering.md",
-      "title": "AI Robots: Power Hungry Or Empowering?",
-      "excerpt": "IT leaders in consumer-facing organizations who have not yet made the plunge into AI but wish to remain competitive are scrambling to figure out how to incorporate AI technology into their contact centers and customer engagement hubs.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/ai-robots-power-hungry-or-empowering/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/ai-robots-power-hungry-or-empowering/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/61f030570018a072dc46d1ec/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/ai-robots-power-hungry-or-empowering/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/23/ai-robots-power-hungry-or-empowering/amp/",
-      "publishedDateTime": "2022-08-23T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-can-artificial-intelligence-detect-autism-early.md",
-      "title": "Can Artificial Intelligence Detect Autism Early?",
-      "excerpt": "Scientists are collaborating to develop machine learning that can assist in detecting autism spectrum disorder early.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/can-artificial-intelligence-detect-autism-early-208373-1.htm",
-      "originalUrl": "https://www.medindia.net/news/can-artificial-intelligence-detect-autism-early-208373-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/risk-factors-for-alzheimers-disease.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/can-artificial-intelligence-detect-autism-early-208373-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-detect-autism-early-208373-1.htm",
-      "publishedDateTime": "2022-08-23T00:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact.md",
-      "title": "Singapore looks to drive AI research, capabilities with Google Cloud pact",
-      "excerpt": "Touted as the Singapore government's first private-sector partnership in artificial intelligence, the collaboration will see both sides jointly develop and testbed applications as well as work on issues pertaining to AI governance and ethics.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
-      "originalUrl": "https://www.zdnet.com/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/singapore-looks-to-drive-ai-research-capabilities-with-google-cloud-pact/",
-      "publishedDateTime": "2022-08-22T19:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

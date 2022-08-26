@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Capitol Records signs first AI virtual rapper FN Meka"
-    excerpt: "A robot rapper that has over 10 million followers on TikTok has signed FN Meka is the world’s first augmented reality – or “AR” – artist to sign with a major label. He has over one billion views on TikTok as the platform’s top “virtual being."
-    publishedDateTime: 2022-08-21T23:05:00Z
-    webUrl: "https://www.wdbj7.com/2022/08/21/capitol-records-signs-first-ai-virtual-rapper-fn-meka/"
-    ampWebUrl: "https://www.wdbj7.com/2022/08/21/capitol-records-signs-first-ai-virtual-rapper-fn-meka/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wdbj7-com.cdn.ampproject.org/c/s/www.wdbj7.com/2022/08/21/capitol-records-signs-first-ai-virtual-rapper-fn-meka/?outputType=amp"
-    type: article
-    provider:
-      name: WDBJ
-      domain: wdbj7.com
-    quality: 57
-    images:
-      - url: "https://gray-wdbj-prod.cdn.arcpublishing.com/resizer/74vYc1YhLLYjMUbeMTM99DkupAQ=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/ACCBL2VU6NOOZKVLG7AIZNKJQ4.png"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Capitol Records blasted for promoting AI rapper FN Meka using n word"
     excerpt: "Capitol Records blasted for promoting an AI rapper named FN Meka that was created by a white man and uses the n word"
     publishedDateTime: 2022-08-23T15:06:00Z
@@ -72,21 +56,21 @@ related:
         width: 2500
         height: 1250
         isCached: true
-  - title: "An AI-powered rapper? What you should know as a TikTok-famous virtual artist is signed by a record label"
-    excerpt: "An announcement by Capitol Records to sign a virtual artist has generated some level of controversy, as well as curiosity over musicians that do not exist in flesh and blood. Here's what you need to know about virtual artists,"
-    publishedDateTime: 2022-08-23T04:49:00Z
-    webUrl: "https://www.fox10phoenix.com/news/ai-powered-rapper-what-to-know-as-tiktok-famous-virtual-artist-gets-record-label-deal"
-    ampWebUrl: "https://www.fox10phoenix.com/news/ai-powered-rapper-what-to-know-as-tiktok-famous-virtual-artist-gets-record-label-deal.amp"
-    cdnAmpWebUrl: "https://www-fox10phoenix-com.cdn.ampproject.org/c/s/www.fox10phoenix.com/news/ai-powered-rapper-what-to-know-as-tiktok-famous-virtual-artist-gets-record-label-deal.amp"
+  - title: "Major record label drops ‘offensive’ AI rapper after outcry over racial stereotyping"
+    excerpt: "Capitol Records has apologised to ‘the Black community’ after signing FN Meka, an AI-generated rapper that used the N-word and was shown being beaten by police"
+    publishedDateTime: 2022-08-24T03:47:00Z
+    webUrl: "https://www.theguardian.com/music/2022/aug/24/major-record-label-drops-offensive-ai-rapper-after-outcry-over-racial-stereotyping"
+    ampWebUrl: "https://amp.theguardian.com/music/2022/aug/24/major-record-label-drops-offensive-ai-rapper-after-outcry-over-racial-stereotyping"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2022/aug/24/major-record-label-drops-offensive-ai-rapper-after-outcry-over-racial-stereotyping"
     type: article
     provider:
-      name: FOX 10 Phoenix
-      domain: fox10phoenix.com
-    quality: 40
+      name: The Guardian
+      domain: theguardian.com
+    quality: 50
     images:
-      - url: "https://images.foxtv.com/static.fox10phoenix.com/www.fox10phoenix.com/content/uploads/2022/08/932/470/GettyImages-1230726502.jpg?ve=1&tl=1"
-        width: 932
-        height: 470
+      - url: "https://i.guim.co.uk/img/media/7a8d3ba9b40fc875351c1ef85bc504113c1844d1/0_17_2000_1200/master/2000.jpg?width=620&quality=85&auto=format&fit=max&s=65bdf42ee8f1a05f70983b6afbba7fe5"
+        width: 620
+        height: 372
         isCached: true
   - title: "Who Is FN Meka? The AI Rapper Causing Controversy"
     excerpt: "Entertainment Weekly reported on Tuesday (August 23) that FN Meka was created by Factory New, a “media company focused solely on virtual and digital talent,” according to co-founder Anthony Martini. His business partner Brandon Le designed the AI rapper by “using thousands of data points compiled from video games and social media."
@@ -162,15 +146,6 @@ related:
         width: 1600
         height: 1067
         isCached: true
-  - title: "First AI celebrity signs with major record label then gets dropped"
-    excerpt: "An Artificial Intelligence-powered rapper is now the first virtual celebrity to sign with a major record label after getting millions of views on TikTok."
-    publishedDateTime: 2022-08-24T10:33:00Z
-    webUrl: "https://www.tweaktown.com/news/88099/first-ai-celebrity-signs-with-major-record-label-then-gets-dropped/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 17
 
 secured: "lPMIR56XrQlrZn2CuKaPrxOxCzWuYODwDvfhaWxE4NLm8HmTka0/DYJMCIs+TfHah0F7npv/Er1APNnJ0Qvf7dGZ5vE8L80BF/nvkgm0AJL6M0bWSG2LlDd6GeY/EVH03lRFcTRLJUu4CEKD3P7e151LHWN3Q4/X/Pun8yXs8y3WpK1SG0Qv3DuNJ3BRIHvI5UUqsH7zYgOAy5y8FzBdWCgqo6rWjL3WEbxy1ZbG5wz929uPo7ys5v/mBPDNRhlahAiANM7DV0DdBfmXRVwz2rtHsL13sfJWRt0/XBhIceRc/fp55h1JAFodbj11ppC14qnwp5VQ4t1NDXlL8rdIIORITgxhHS6gfjzPLOfVrIV6PyGAazC3ZpAAwLsIt5639vagEot9vzeCYWvJBbhSPqVKLqNf8sgfqhU+fWyNVaip9p42l4IzUvIwVGSB6PtndlZH0jcUnFjDIYMYLFihlkzd9x+HlmSjtcLgdglYBtGT+dF6OAEoWLb1/tdw+Mtr2vUedCxnV9g8GjL/JGwVIA==;TPN7MYYLQD0G1cC7Ctk3Ww=="
 ---
