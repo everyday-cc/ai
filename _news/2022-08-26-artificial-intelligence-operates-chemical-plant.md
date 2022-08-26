@@ -17,6 +17,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - AI in Autos
 
 related:
   - title: "Practical AI Techniques for Operationalizing Big Data in Enterprises"
