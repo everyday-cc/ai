@@ -5,6 +5,8 @@ excerpt: "Conversational AI at scale doesn’t require sci-fi packaging — even
 publishedDateTime: 2022-08-13T18:10:00Z
 originalUrl: "https://venturebeat.com/ai/why-conversational-ai-needs-to-feel-more-human-not-sound-more-human/"
 webUrl: "https://venturebeat.com/ai/why-conversational-ai-needs-to-feel-more-human-not-sound-more-human/"
+ampWebUrl: "https://venturebeat.com/ai/why-conversational-ai-needs-to-feel-more-human-not-sound-more-human/amp/"
+cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-conversational-ai-needs-to-feel-more-human-not-sound-more-human/amp/"
 type: article
 quality: 49
 heat: 49
@@ -21,6 +23,13 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - IBM AI
+
+images:
+  - url: "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1314542398.jpg?fit=800%2C450&strip=all"
+    width: 800
+    height: 450
+    isCached: true
 
 related:
   - title: "Advertisers Need More Than AI. They Need Diverse Human Talent"
@@ -61,6 +70,6 @@ related:
       domain: businessinsider.com
     quality: 22
 
-secured: "TlmCyUgFEBjas5fRrUiEwgslZFiZibqU2M6WPMyqgO9V2ZvBwRMNJ6p6Ab6l2dM/RPbPNUUHmnwwsTss0U4ojPvse+jIhysRfTbGD2fXhODeyAkkvAlDbr+MIO0JxuzxAybxYc3E6kW3tHTVEtNzyIttjVdIdC6TRqzo3QieVVwaSe6Ktg8ZeUkiyibi3y3DQK2rdG0NYFrosWlx5oSyKRLP/UrGtvwIvGgrvx+jIRaByJI9X+dxFCPF5i7wJFk91WLZCbfwf4MeGp6rtJd3bicXJ1YKwLHaH34Fm+llj5nXRYbgR0tB+f3/JQreNc4RVcPBQpqR5LPE3ylSFOAfr4ESL3OIW0EzCtmkVAUTy++TZs8pHdVUzxXn1AYtbte+DxyrNUBJ4UhLLooMWGwWh00ygelNFgbUN/AM5mQzSFRhLZKVzFSom2gCICf7mboSaZvUIqe3KGXdefKB9cEgXXaFGd51yj2Z7AKjUkwRcAZIbpiGPXeOaKYpFYgo3cyfCzGPO/ArBZwjmYCUfXnGag==;o7U0zUR2etfSMejX02ubYQ=="
+secured: "r2j3j4oqW9LCLERCaf+LfLf+68coiU3wkiJCLGr7UAxV/uzjvfZulEbfVgnYQqta+l2x88XGnDj7GLF5XyGusPkCECLoe4gsYji/E8QLG8VZqifOPCLhObfDHZmO81TdjfPUmbvQ/uwZh7jKRxkcHpukbUYajox6RfB4tu9xkvkvmFj3oCJRBTLS8Rqp3HGajc1ienzsYPGrjoey2NCVs4BZXi4/kVQIL2gLQ8jsAq4H7n1LanBmw38Qa6rvRDuL+nHUogHAKibw+8j3F5jH+ZtOgtu4qFNK7A+8AlRozz7AW2uC1LlUnNGHnQM/A/9+Gg+aSE7bNR8vHOZ0emjjOI2AsapgfMGx8qB8npEB5pA=;3GqHPyIAVVO6ekcNeyJNVg=="
 ---
 

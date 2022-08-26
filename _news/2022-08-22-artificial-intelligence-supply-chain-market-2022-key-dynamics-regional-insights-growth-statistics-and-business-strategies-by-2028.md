@@ -22,6 +22,20 @@ topics:
   - AI
 
 related:
+  - title: "Artificial Intelligence In Healthcare Sector Market 2022 Size, Share, Sales, Growth, Dynamics, Top Vendors, and Forecast to 2028"
+    excerpt: "Global “Artificial Intelligence In Healthcare Sector Market” research report provides technological trends and new"
+    publishedDateTime: 2022-08-26T09:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-2022-size-share-sales-growth-dynamics-top-vendors-and-forecast-to-2028-2022-08-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 72
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence (AI) for Security Market Size, Share, Growth, 2022 Key Players, Revenue, Trends, Opportunities and Regional Forecast to 2028"
     excerpt: "Global “Artificial Intelligence (AI) for Security Market” (2022) report provides the detailed study of business"
     publishedDateTime: 2022-08-23T09:23:00Z
@@ -45,20 +59,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "North America Artificial Intelligence In Retail Market Size, Key Companies, Trends, Growth and Regional Forecasts Research 2027"
-    excerpt: "Improved efficiency, speed, and accuracy in the retail sector is the pivotal factor boosting North America artificial intelligence in retail market growth. Availability of advanced data and information due to the incorporation of AI in business is enabling store owners to materialize data driven business strategies."
-    publishedDateTime: 2022-08-22T13:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-in-retail-market-size-key-companies-trends-growth-and-regional-forecasts-research-2027-2022-08-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 54
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -106,17 +106,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Examine the Role of Artificial Intelligence (AI) in the Global Mammography Markets"
-    excerpt: "The \"Global Mammography Vendor Profiles and Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This study examines the role of"
-    publishedDateTime: 2022-08-25T11:13:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/g28629426/examine-the-role-of-artificial-intelligence-ai-in-the-global-mammography-markets"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28629426"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28629426"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 46
   - title: "Natural Language Processing and Recognition Market 2022 Size, Share, Applications, Advance Technology and Top Companies to 2028"
     excerpt: "The report is a comprehensive guide to comprehending the structure of the global Natural Language Processing and Recognition industry and the future trends that the industry is the potential to experience and thus would help plan an optimal approach to succeed in this Natural Language Processing and Recognition market."
     publishedDateTime: 2022-08-24T06:02:00Z
@@ -145,6 +134,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Edge AI Processor Market to Grow with a Significant CAGR During the forecast period 2022-2028| Exclusive Report Spread Across 90 Pages"
+    excerpt: "Edge AI Processor Market Research Report is spread across 90 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. We have been tracking the direct impact of COVID-19 on this market,"
+    publishedDateTime: 2022-08-25T18:02:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-ai-processor-market-to-grow-with-a-significant-cagr-during-the-forecast-period-2022-2028-exclusive-report-spread-across-90-pages-2022-08-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 35
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Global Voice Recognition Market Research Report 2022 (Status and Outlook) by Sales, Price, Revenue, Gross Margin, Market Size and Forecast to 2028"
     excerpt: "Aug 23, 2022 (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global \"Voice Recognition Market\""
     publishedDateTime: 2022-08-23T09:53:00Z
@@ -159,15 +162,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Energy Market 2021 Huge Demand, Growth Opportunities and Expansion by 2025"
-    excerpt: "Global \"Artificial Intelligence in Energy Market\" in the forecast period of 2022-2025. Artificial Intelligence in"
-    publishedDateTime: 2022-08-23T08:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-2021-huge-demand-growth-opportunities-and-expansion-by-2025-2022-08-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
   - title: "Far-field Speech Recognition Market Industry Share, Size, Growth : 2022 Market Research with Manufacturers, Segments and 2028 Forecasts Research"
     excerpt: "Global Far-field Speech Recognition Market research report 2022 provides comprehensive information about market"
     publishedDateTime: 2022-08-25T06:34:00Z
@@ -224,38 +218,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Artificial Intelligence Market Size, business Share, Total Revenue rate of growth by Key Players Forecast until 2026 | 117 Insights Report"
-    excerpt: "Aug 23, 2022 (The Expresswire) -- \"\"Artificial Intelligence Market\"\" Insights 2022 By Types, Applications (, Network Optimization, Network Security,"
-    publishedDateTime: 2022-08-23T05:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-market-size-business-share-total-revenue-rate-of-growth-by-key-players-forecast-until-2026-117-insights-report-2022-08-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 13
-  - title: "Artificial Intelligence-based Cybersecurity Market Size From 2022 To 2025 And Unlimited Opportunities for New Companies and Latest Developments"
-    excerpt: "The Artificial Intelligence-based Cybersecurity report understands the current and future competitive scenario across types, countries, and applications.It provides accurate, up-t"
-    publishedDateTime: 2022-08-23T08:58:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-based-cybersecurity-market-size-from-2022-to-2025-and-unlimited-opportunities-for-new-companies-and-latest-developments-2022-08-23"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 11
-  - title: "Autonomous Delivery Robots Market: Trends, Demands, Size, Share, Business Opportunities, CAGR Of ~49% During The Forecast Period 2022 2031"
-    excerpt: "The global autonomous delivery robots market is estimated to occupy a large amount of revenue by growing at a CAGR of ~49% during the forecast period, i.e., 2022 – 2031 , ascribing to the rising affordability and return on investment on several infrastructure light robots,"
-    publishedDateTime: 2022-08-26T07:02:00Z
-    webUrl: "https://menafn.com/1104759820/Autonomous-Delivery-Robots-Market-Trends-Demands-Size-Share-Business-Opportunities-CAGR-Of-49-During-The-Forecast-Period-2022-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 5
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?336595"
-        width: 374
-        height: 250
-        isCached: true
   - title: "Global Social Robots Market Report (2022 to 2027) - Industry Trends, Share, Size, Growth, Opportunity and Forecasts - ResearchAndMarkets.com"
     excerpt: "The global social robots market size reached US$ 2.6 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 13.3 Billion by 2027, exhibiting a CAGR of 31.26% during 2021-2027."
     publishedDateTime: 2022-08-23T10:36:00Z
@@ -270,15 +232,6 @@ related:
         width: 700
         height: 450
         isCached: true
-  - title: "Data Wrangling Market Research Insights With Upcoming Trends, Opportunities, Competitive Analysis, Forecast To 2022-2031"
-    excerpt: "Recognition software consists of various modules used for object, voice, speech, image, gesture, facial, and character recognition. The recognition software provides highly integrated tools that help bot developers integrate AI into the software to enable ..."
-    publishedDateTime: 2022-08-25T11:56:00Z
-    webUrl: "https://menafn.com/1104754933/Data-Wrangling-Market-Research-Insights-With-Upcoming-Trends-Opportunities-Competitive-Analysis-Forecast-To-2022-2031"
-    type: article
-    provider:
-      name: MENAFN
-      domain: menafn.com
-    quality: 0
 
 secured: "t5EW1Pta57bvazX2Th/YxVaQYop6yc6yfRZlYjbZuFAWu9L4jVrbMoxXTVnlkihb1M3eGWEYguadSijvUckEDK0VJVEUXmREQieyh/keq5jOacWnSkKjFCHh0z7WUCguYr6o2BOTvA6lBQeRRMQVOz/uVelzN7Jw76Wf0txuvLOrfg0poBt2XcJB0WaScDBq7QTCtgF8XeH5JwkoAp1c9LPM/+pgWE5+X7uHWQIJ9l0KpPgef/lckwc5Hb5JDBpJiJlpKmpiiGCwyYnqprM1ao71XCJBa5687iOLw4cvbCIDL49WfhV7Efjb1uNOxEbZqhhQs5PiF4zmrYO96GuUE1T3WbKOMpcFmEdymW68HWE=;Hj+bfz2Y7OMfVUYCIfGuxw=="
 ---

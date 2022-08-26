@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "The era of the Artificial-Intelligence fashion designer is getting closer"
+    excerpt: "The industries are flourishing and expanding and the technological advancements in the fashion industry are growing exponentially. With passing time, personalization has gotten much attention and has become one of the biggest trends,"
+    publishedDateTime: 2022-08-26T11:22:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-era-of-the-artificial-intelligence-fashion-designer-is-getting-closer/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-era-of-the-artificial-intelligence-fashion-designer-is-getting-closer/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-era-of-the-artificial-intelligence-fashion-designer-is-getting-closer/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 21
   - title: "Artifical intelligence model to forecast entire region’s solar output using real-time satellite data"
     excerpt: "Combining satellite images of Australian rooftops with those of real-time cloud cover to create accurate forecasts of distributed solar output for suburbs and perhaps even whole regions and states is the focus of a new Australian startup,"
     publishedDateTime: 2022-08-24T05:30:00Z

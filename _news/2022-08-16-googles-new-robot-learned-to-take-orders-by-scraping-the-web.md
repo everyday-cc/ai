@@ -20,6 +20,7 @@ provider:
 topics:
   - AI in Robotics
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://media.wired.com/photos/62fae4897e7512dc132d18dd/master/pass/PaLM-SayCan-Robot-Still-Business.jpg"

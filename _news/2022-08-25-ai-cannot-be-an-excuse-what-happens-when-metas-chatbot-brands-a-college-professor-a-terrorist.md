@@ -25,22 +25,6 @@ images:
     height: 1000
     isCached: true
 
-related:
-  - title: "AI Chatbot Speeds Answers to Customers"
-    excerpt: "The Tetra Tech’s Federal IT Innovation Lab recently launched Auxilium, a high-end artificial intelligence (AI) solution."
-    publishedDateTime: 2022-08-22T15:12:00Z
-    webUrl: "https://www.csrwire.com/press_releases/752956-ai-chatbot-speeds-answers-customers"
-    type: article
-    provider:
-      name: CSR Wire
-      domain: csrwire.com
-    quality: 37
-    images:
-      - url: "https://back.3blmedia.com/sites/default/files/inline-images/AI-Chatbot-Speeds-Answers-to-Customers-IS22-009-960.jpeg"
-        width: 960
-        height: 540
-        isCached: true
-
 secured: "qAHuWc8DZnb6hxjQw3IIJ70vya6tW0FHjDWrXULdhUA1htk55Hc6jvdp7TekJ8aQw9MTj5Z3kObWWRXSzDd6FPCcFO6YzD2hJgwTiv+UEb3T/sjnJP4H6JqsZAFV8I3DsnIxvVTujahGRFyaWXfqAmxDD83aGVYLN/33+ai/VEuPZflW7Sg8nvfA7XxAPEYbjuRsIS37ifMgZYqGOV8aHXQjKibgJkClNsP2aep7+zCsp8fDKmRigPxNFvoEqVh/YMcRUCfBGXduNadBqIJyXPXq3gju0EaiT6/gzj1Hya4Rx2KvI4dxdh5ttfIvwWZEGrdrQJScNpG7/IdWpwoKD++rMm1LrD9T9Cnog3pfqmE=;HI4esTZ0QzSdTnobpAIRLQ=="
 ---
 

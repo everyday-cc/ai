@@ -48,15 +48,6 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "Research and Markets: Europe Robotic Lawn Mower Market to Reach $1.25 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The Europe robotic lawn"
-    publishedDateTime: 2022-08-22T11:32:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56865346-research-and-markets-europe-robotic-lawn-mower-market-to-reach-dollar-1-25-billion-by-2027-researchandmarkets-com-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
   - title: "The Worldwide Computer Vision in Manufacturing Industry is Expected to Reach $4.7 Billion by 2027 - ResearchAndMarkets.com"
     excerpt: "The \"Computer Vision in Manufacturing Market Research Report by Product (PC-Based Vision and Smart Cameras-Based Vision), Component, Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
     publishedDateTime: 2022-08-22T14:46:00Z

@@ -39,6 +39,20 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "Why AI is crucial to the innovation market"
+    excerpt: "Companies that utilise their data through AI will have a head start when managing their patent portfolios, argues Justin Delfino of Evalueserve In 2022, the chief problem with big data lies not in obtaining it – there are plenty of established routes for ..."
+    publishedDateTime: 2022-08-22T12:09:00Z
+    webUrl: "https://www.managingip.com/article/2aiw8d1qowtufs7yi69kw/why-ai-is-crucial-to-the-innovation-market"
+    type: article
+    provider:
+      name: Managingip.com
+      domain: managingip.com
+    quality: 37
+    images:
+      - url: "https://assets.euromoneydigital.com/dims4/default/3c4b4b6/2147483647/strip/true/crop/2000x1050+0+93/resize/1200x630!/quality/90/?url=http%3A%2F%2Feuromoney-brightspot.s3.amazonaws.com%2Fe0%2Ff3%2F1a7b421b4e5589e063cda5edef66%2Fdata-innovation-comp.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Rooting for Dedicated Legislation in AI"
     excerpt: "India is part of the Global Partnership on Artificial Intelligence, which is guiding responsible development and use of AI"
     publishedDateTime: 2022-08-23T09:30:00Z

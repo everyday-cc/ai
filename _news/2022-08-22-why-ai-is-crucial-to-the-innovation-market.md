@@ -24,31 +24,45 @@ images:
     isCached: true
 
 related:
-  - title: "Why AI is the differentiator in today’s experience market"
-    excerpt: "Experience is everything. From what we buy to where we work, everyone is seeking a more intuitive, personalized experience surrounding all that we do. The best user experiences feel effortless, offering instant recommendations that give us what we want without requiring us to spend valuable time providing our preferences."
-    publishedDateTime: 2022-08-21T18:10:00Z
-    webUrl: "https://venturebeat.com/ai/why-ai-is-the-differentiator-in-todays-experience-market/"
-    ampWebUrl: "https://venturebeat.com/ai/why-ai-is-the-differentiator-in-todays-experience-market/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-ai-is-the-differentiator-in-todays-experience-market/amp/"
+  - title: "The Democratization Of AI In Logistics"
+    excerpt: "AI can level the playing field in logistics, allowing small shippers and freight forwarders the ability to get to the same level of predictability and actionability as their much bigger counterparts."
+    publishedDateTime: 2022-08-25T11:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/25/the-democratization-of-ai-in-logistics/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/25/the-democratization-of-ai-in-logistics/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/25/the-democratization-of-ai-in-logistics/amp/"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 89
+      name: Forbes
+      domain: forbes.com
+    quality: 87
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1264510281.jpg?w=1200&strip=all"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/626946974c931989078c7b6c/0x0.jpg?format=jpg&crop=1497,842,x0,y212,safe&width=1200"
         width: 1200
-        height: 629
+        height: 675
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market is Rising Exponentially"
-    excerpt: "Data Bridge Market Research analyses that the artificial intelligence in healthcare market is expected to undergo a CAGR of 51.37% during the forecast period of 2022-2029. This indicates that the market value,"
-    publishedDateTime: 2022-08-22T07:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-rising-exponentially-growth-rate-/2022/08/22/9659634.htm"
+  - title: "How Artificial Intelligence Can Improve Organizational Decision Making"
+    excerpt: "Artificial intelligence (AI) is reimagining the business world, boosting innovation and productivity, and helping organizations think bigger. Organizations can use AI to improve their products ..."
+    publishedDateTime: 2022-08-23T13:02:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/how-artificial-intelligence-can-improve-organizational-decision-making/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
+      name: Forbes
+      domain: forbes.com
+    quality: 49
+  - title: "Rooting for Dedicated Legislation in AI"
+    excerpt: "India is part of the Global Partnership on Artificial Intelligence, which is guiding responsible development and use of AI"
+    publishedDateTime: 2022-08-23T09:30:00Z
+    webUrl: "https://analyticsindiamag.com/rooting-for-dedicated-legislation-in-ai/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 37
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/Ai-and-legislation.jpg"
+        width: 1600
+        height: 900
+        isCached: true
 
 secured: "wNRyHyDtoyjTyBuh2YTupNKK+a2ZHSX9+dOtW6/tipnf7T5aEO1Jm3jFf7PQCbMrnqI1rcwVoTKNtAD9QwtlmIOMXKpqLwOGnEpHsTEhvZ+5Y224+9ji4WbmOPosjg54MR9DVF2DWam00zIfBTU1PPsBMdKmlK+B9yDFKAC8A+fpS1Z0z60a6hHUwyRuGRP6E4JTCCGh03PcG+Tlc7l/EqYfPHtNIsMuF81c+SpzjjnaSLziwGIqIULPaW+uYp+ePyUDT3QqGea77XPRHny/vyEM+NjdmsM6shMwrljkiEPtS5T1lX1H4p1V95+NLtuyMRZQ0lGS3G93s1B7IHe9F72Azciy0yEC19wNOnxZYtk=;rCAQwVB67n9/5JtWXchbiw=="
 ---

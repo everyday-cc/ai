@@ -123,20 +123,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Tesla Is Raising the Price of Full Self-Driving to $15,000"
-    excerpt: "I've been writing about tech, including everything from privacy and security to consumer electronics and startups, since 2011 for a variety of publications."
-    publishedDateTime: 2022-08-21T17:34:00Z
-    webUrl: "https://www.pcmag.com/news/tesla-is-raising-the-price-of-full-self-driving-to-15000"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/01bLyAOQRoX0e6vFlTkWQX7-1.fit_lim.size_1200x630.v1661103237.jpg"
-        width: 1120
-        height: 630
-        isCached: true
   - title: "Elon Musk Announced Tesla's 'Full Self-Driving' Technology Will Cost $3,000 More"
     excerpt: "The price of Tesla's \"full self-driving\" beta mode technology is increasing after September 5, Tesla CEO Elon Musk announced in a Tweet."
     publishedDateTime: 2022-08-22T16:33:00Z

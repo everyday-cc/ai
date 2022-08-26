@@ -40,6 +40,17 @@ related:
         width: 1528
         height: 800
         isCached: true
+  - title: "The era of the Artificial-Intelligence fashion designer is getting closer"
+    excerpt: "The industries are flourishing and expanding and the technological advancements in the fashion industry are growing exponentially. With passing time, personalization has gotten much attention and has become one of the biggest trends,"
+    publishedDateTime: 2022-08-26T11:22:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-era-of-the-artificial-intelligence-fashion-designer-is-getting-closer/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-era-of-the-artificial-intelligence-fashion-designer-is-getting-closer/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-era-of-the-artificial-intelligence-fashion-designer-is-getting-closer/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 21
 
 secured: "zpxY26apiyLP7SGEemJImRHSUablgQJtJXq8tRqRQDRy5BU1kMgKD3YwUXxoCvVBJAahJ4yvi4PC5OPhRTNEOVIa+XXF0xjPb9Goyl31ZVjvFLZrFP4MiFG7WdUz81JSxB6ip3t4uTfJddK3GjsFZ2ieQgZgoT132l9x3+/V+qphbfXXXmXT0jS4uenVYk1F/TPV1AILNCTiGbFyQLWBnQuShXz+Yg0xjyI/yZs5wfTFaPbuVudRYvvN7XWmBEQDPSqdD/IwTxjux5G8GR3Sxs2PMRGcN6QwwPHobrWmjv+LmmRptJ0fhocBckABCb4KG6X6/X2mTRMgJSxkpyyekmXecT/adEgTb4Mmnnpw2yk=;PLkOB2JoXaN8kq09vmMXsA=="
 ---

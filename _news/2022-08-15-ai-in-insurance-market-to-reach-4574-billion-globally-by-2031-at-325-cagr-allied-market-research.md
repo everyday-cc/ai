@@ -1,22 +1,30 @@
 ---
 category: news
 title: "AI in Insurance Market to Reach $45.74 Billion, Globally, by 2031 at 32.5% CAGR: Allied Market Research"
-excerpt: "Allied Market Research published a report, titled, \" AI in Insurance Market by Offering (Hardware, Software, Service), by Deployment Model (On-premise, Cloud), by Technology (Machine Learning, Natural Language Processing,"
-publishedDateTime: 2022-08-15T12:54:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/-ai-insurance-market-reach-4574-billion-globally-2031-/2022/08/15/9655654.htm"
-webUrl: "https://www.tmcnet.com/usubmit/-ai-insurance-market-reach-4574-billion-globally-2031-/2022/08/15/9655654.htm"
+excerpt: "Increase in investment by insurance companies in AI & machine learning and rise in preference for personalized insurance servicesboost the growth of the global AI in insurance market. PORTLAND, Ore.,"
+publishedDateTime: 2022-08-15T11:30:00Z
+originalUrl: "https://www.marketwatch.com/press-release/ai-in-insurance-market-to-reach-4574-billion-globally-by-2031-at-325-cagr-allied-market-research-2022-08-15-72033049"
+webUrl: "https://www.marketwatch.com/press-release/ai-in-insurance-market-to-reach-4574-billion-globally-by-2031-at-325-cagr-allied-market-research-2022-08-15-72033049"
 type: article
-quality: 1
-heat: 1
-published: false
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
+  - IBM AI
   - AI
 
-secured: "cLYU6i1fFa76A/inknixwrcyhFXO6QUlwJXmYQc8L+fOUUGMX/YafJUzBaboNm9bFYPNv8HSkVGsPR4NOeTda1ADLXzPaHe/e8VDGC3LxIZc+FSkjc55fEzlKPDCT4gJ6s5u/E7KGO2jPZsYJ3jKfPdo1oHAwbo9l0PnBb0kwYhcjCiIEqiGWkBLpeEN8mgv4foSOUeQrB3pt++jdJhj95W+PlYHrsJdZlnmZMVFkx8TzLcujrjoHLueUhWSKhxRbraQ25kDwXwIaO0zx1Ej2JKSLbKAO7CoBUNSk6GRSHwG4w6C/i3ego4OUOTPlZdTX8lulHPTMxhr+H/Ij6HXhFKmjIliWGhWPsgq7IfLzsAkOofkoTNJoHEmF8gw7RLL2R0QCTHgzbDu/fPriJqCm9pojhz+zZ7HXFph9LIrII9cCl/mCdndGFAoki66Iilix66RjPXjOGVIecVdcE+pmeGGXYw8b3asT2qWUkVVDN18VoRXoqsK6ugVJllFHxHOJlB1elDhdO4TnvWLEvVWZg==;Pmxd2j7ldZK9XXImxjn8WA=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "u5YljdIMWiGeSd9tFvxWSKxyceaVIkD/qg7+0/Y7V8E3JjTvevxjmdRUOnGckzzAsnO8j6FNmux8nFgQ2xlZ1m1gN9pBMKojUYpF46BLSQjpCqtfqqCBrDQi9dpBltT9/26hFN0w02jXXrUeFwXoVCGIgozRVxtDfjyw/hauOpokXp5UvXHjanryxT3RsRCpLkDJL7WFawLtzPi0D6NclnaNoRzovJ2yZDAmI5PXkUNbQUfnYD545Q9Z7o9XvWYbcxwPLaC4MGMU7tocuin4WQSYjpsyBBoe9gTwGdHbgqnsfLHYvq4moFSlC8S0t1SZCkWRZq7OFBdibwGEuJVox5JKjQAm4/Y3svHukLFzXLo=;4iA1blYwm+UIAkMQLPHfAg=="
 ---
 

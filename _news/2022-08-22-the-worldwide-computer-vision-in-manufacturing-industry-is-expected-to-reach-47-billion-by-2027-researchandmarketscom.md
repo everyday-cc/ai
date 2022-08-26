@@ -56,15 +56,6 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 2
-  - title: "Research and Markets: Europe Robotic Lawn Mower Market to Reach $1.25 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's offering. The Europe robotic lawn"
-    publishedDateTime: 2022-08-22T11:32:00Z
-    webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56865346-research-and-markets-europe-robotic-lawn-mower-market-to-reach-dollar-1-25-billion-by-2027-researchandmarkets-com-004.htm"
-    type: article
-    provider:
-      name: Finanznachrichten
-      domain: finanznachrichten.de
-    quality: 0
 
 secured: "HkiMhgtHy6LSeU2QmA3lBXafblaiUhhlVJ/ocbtfqJsJVYWzUaSyRTGE04lZUVMlgMMhIwPgwbLGaSu8VrVLkRDOxpmTyizUWWC5tgjbXYhgUeLTq+dh1owGQQRIqmUWNUYfppfp9SKtsL3Ap4A2ZHnzuQyXeNwGlmF3Rz0rEM7OXqwXivdEjHN0zvthyaWvcVwbNsBcEqW8z8UeSUrQTZ12AcNUfuNjbsrHTabR1FCAWEGDfPMBIgSY9VKu006awibl76rT2o+EpNH/mIJL3jWDp/924TST8AIkcYeFKtrLhsoqyeteNfpuaXrNm+sv/cZRH8MbAAC4Lc7mv8Res0JJRvneAZOkX6cpiaHtQZY=;rT/cJZAFXWypHJXyeIf7vQ=="
 ---
