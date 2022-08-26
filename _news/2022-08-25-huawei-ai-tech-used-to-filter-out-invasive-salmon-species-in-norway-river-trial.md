@@ -7,8 +7,8 @@ originalUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/3688
 webUrl: "https://www.itpro.co.uk/technology/artificial-intelligence-ai/368884/huawei-ai-filter-invasive-salmon-norway-rivers"
 type: article
 quality: 63
-heat: 73
-published: true
+heat: -1
+published: false
 
 provider:
   name: IT Pro
@@ -28,6 +28,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-enabled fish gate filters invasive salmon out of Norwegian waterways"
+    excerpt: "After being introduced to Russia's White Sea in the 1950s, non-native Pacific salmon have since spread along Norway's coastline and into its rivers. In an effort to control their numbers, an AI-enabled fish-identifying gate has recently been installed on a Norwegian river."
+    publishedDateTime: 2022-08-26T20:11:00Z
+    webUrl: "https://newatlas.com/environment/ai-fish-gate-atlantic-pacific-salmon/"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 67
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/06faac6/2147483647/strip/true/crop/1161x610+0+82/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F07%2F97%2F0dadfea54ffc8c1d4c7ec4584179%2Fscreen-shot-2022-08-26-at-1.02.26%20PM.jpeg&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Huawei and Partners Install World’s First AI Filtering System for Salmon in a Natural River in Norway"
     excerpt: "Huawei and local partner Berlevåg Jeger-og Fiskerforening (BJFF) have successfully deployed an AI-powered filtering system in Norway’s Storelva River that allows Atlantic salmon to pass upstream and filters Pacific salmon – an invasive species – into a holding tank."
     publishedDateTime: 2022-08-25T03:00:00Z

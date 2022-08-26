@@ -6,6 +6,9 @@ publishedDateTime: 2022-12-01T00:00:00Z
 originalUrl: "https://www.deepmind.com/blog/on-the-expressivity-of-markov-reward"
 webUrl: "https://www.deepmind.com/blog/on-the-expressivity-of-markov-reward"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: DeepMind

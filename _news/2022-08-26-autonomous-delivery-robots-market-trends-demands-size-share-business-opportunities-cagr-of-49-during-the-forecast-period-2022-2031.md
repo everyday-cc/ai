@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104759820/Autonomous-Delivery-Robots-Market-Tr
 webUrl: "https://menafn.com/1104759820/Autonomous-Delivery-Robots-Market-Trends-Demands-Size-Share-Business-Opportunities-CAGR-Of-49-During-The-Forecast-Period-2022-2031"
 type: article
 quality: 5
-heat: 5
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,17 @@ images:
     width: 374
     height: 250
     isCached: true
+
+related:
+  - title: "Cognitive Systems Market Is Booming with Progressive Trends and Future Opportunities by 2028| IBM, Accenture, HP, Microsoft, Intel"
+    excerpt: "Aug 26, 2022 (Market Insight Reports) -- New Jersey, United States-The Cognitive Systems Market research examines ... revenue, innovative services, the actual status of demand and supply, and pricing strategy. In addition to this, this report also delivers ..."
+    publishedDateTime: 2022-08-26T18:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-systems-market-is-booming-with-progressive-trends-and-future-opportunities-by-2028-ibm-accenture-hp-microsoft-intel-2022-08-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
 
 secured: "x2YE2x9bspd7vZzqP7DK0QqID1DCBXtjriYHXKhHYP60patn8VQP/S2PDgvaB/+rbBUYIKrsRwb3pbx2JygP0JRQWrXTAt+H7w+ekmFddiV+DcsZIca/c0KXS6VwOc+dWrjGAYzz1VmtlDRAWYM2PjwjW3zmIzpfxJhsi34GwB9qNVp1RLWJhdIqMtuGqRihF2Mn90t9iVduMlOUTAwFCH1vaIJpSl2ZMBpjHAHN3iyKDMjAsfPVpWDZHwNPP3usgwlwGm9YyMbZhGlwV7BHFiSHN9yvt0g5X3I1mqszGuaIHcD2nreXkt65WrVz3x4raUC2sCvVV8x4gzGMrpA/eg7T0rUo4syS8sKc9l+o5lQ=;rSD4BKn0mBPnQ60WilLXjw=="
 ---

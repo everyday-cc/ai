@@ -38,6 +38,17 @@ related:
         width: 480
         height: 360
         isCached: true
+  - title: "Seeing in the dark: Google researchers use AI to create novel HDR views from noisy raw images"
+    excerpt: "Google researchers have used Neural Radiance Fields (NeRF) and high dynamic range raw input data to create HDR view synthesis with extremely low noise and high levels of detail."
+    publishedDateTime: 2022-08-25T18:43:00Z
+    webUrl: "https://www.dpreview.com/news/6268499546/seeing-in-the-dark-google-researchers-use-ai-to-create-novel-hdr-views-from-noisy-raw-images"
+    ampWebUrl: "https://m.dpreview.com/news/6268499546/seeing-in-the-dark-google-researchers-use-ai-to-create-novel-hdr-views-from-noisy-raw-images.amp"
+    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/6268499546/seeing-in-the-dark-google-researchers-use-ai-to-create-novel-hdr-views-from-noisy-raw-images.amp"
+    type: article
+    provider:
+      name: Digital Photography Review
+      domain: dpreview.com
+    quality: 26
 
 secured: "LoCyv15BQiMmI5lyvoxR5ewN43QcWMrftyfn5aF/lGLgp4iT8nB+POS8G6iqpqEktk8mVqiXM6DxFBUznNGGUk3r854x02G4JbCmkrvLOzavNO7UYhTUmINLiSdO9gSX7yGwGoz1phDPlLpOGSAFpBQ1jyaG0scsBbEyFSlN+cte+uSen5V3p6tUiESC8WjOctYHnTBElr6i1uWqtYLAvw/TvUeaD1O/KQ6AryW1m/922mLy/4nXr17/e4bsOfZuXR0etu7o8ZTDQV7vCrK5QiCjFZ/2jDQcHMAxeYsNQWCJ1Tk9zvmo7RSw4LKcueIlid+gkOMn2RJEK4jIFiVy6MIhrXV01EOepm7ClYuVyuvsUvKOJbhHxAgute2cZ8nStNLAgiXTFFpkhJvztu/eLvT/+19VrTAfiE0QC2tsUXIhr9CxYJqyNjuAqX57+uhAH18VPEVrUKGyGCswuhsnXOOgzBCxkOp6dyKvQyavkMRKhO6UHSIM0fQ30LcSluC7tgBh63GnJrz4sIQVhsxvhA==;FI1EbnTuhgd5aZe6aBMSCw=="
 ---

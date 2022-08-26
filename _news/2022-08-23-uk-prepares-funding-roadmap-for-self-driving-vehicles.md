@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Human drivers in UK won’t be liable for accidents when vehicle is self-driving"
-    excerpt: "Manufacturers operating self-driving vehicles in the UK will be liable for a vehicle’s actions when in autonomous mode, according to the country’s new roadmap to achieve a widespread rollout of self-driving vehicles by 2025. The British government ..."
-    publishedDateTime: 2022-08-22T03:51:00Z
-    webUrl: "https://techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/"
-    ampWebUrl: "https://techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 70
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1185460611.jpg?w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "The UK is upgrading military buggies into self-driving vehicles"
     excerpt: "The purpose of the upgrade is to allow for a buggy to be able to carry out a resupply mission autonomously, keeping humans out of danger."
     publishedDateTime: 2022-08-24T21:01:00Z
@@ -66,34 +50,6 @@ related:
       name: PC Magazine
       domain: pcmag.com
     quality: 34
-  - title: "Self-driving cars could be on UK roads by 2025"
-    excerpt: "The UK's roads could see self-driving vehicles rolled out by 2025 under new government plans backed by a 100 million pound ($118 million) investment."
-    publishedDateTime: 2022-08-22T03:58:00Z
-    webUrl: "https://www.thehansindia.com/auto/auto-news/self-driving-cars-could-be-on-uk-roads-by-2025-758748"
-    type: article
-    provider:
-      name: The Hans India
-      domain: thehansindia.com
-    quality: 24
-    images:
-      - url: "https://assets.thehansindia.com/h-upload/2022/08/22/1308950-self-driving-vehicles.jpg"
-        width: 1200
-        height: 720
-        isCached: true
-  - title: "Self-Driving Vehicles Not Ready for Prime Time, Toyota Says"
-    excerpt: "Toyota engineers express doubts about full self-driving technology during an event highlighting its own technology, including a trailer that follows the “tow” vehicle autonomous instead of being physically connected by a hitch."
-    publishedDateTime: 2022-08-25T14:20:00Z
-    webUrl: "https://www.thedetroitbureau.com/2022/08/self-driving-vehicles-not-ready-for-prime-time-toyota-says/"
-    type: article
-    provider:
-      name: TheDetroitBureau
-      domain: thedetroitbureau.com
-    quality: 24
-    images:
-      - url: "https://www.thedetroitbureau.com/wp-content/uploads/2021/06/Teammate-head-up-display.jpg"
-        width: 1600
-        height: 1067
-        isCached: true
 
 secured: "tIqTpVlhLyXilSEnQzM6K5mODra6Ftb/kCE+DJ1DSP/0UNQCTOJfKQxOEZb3f15IOrVuu9oDojoWmbRHksQSR1OojVpyOGisjbcHV8EtZoSmzFz+buy5RfAi33ZLboOPWYP/Eyfcr0HMA4nUENm4sM2oMo4JA3cR6+8fe0862x9qTIzl8nlZF4MYPJ3BKnDtDQGnq2+ysGac0CVQhYCO6kzAgrGTpfbhbvKufzjNC/GttV64y+Iix4kZuJPdMjwkvrz+DN2aJq3ZLbRgTIxgBEVxCfcOsSd2BJf8VfLzOh9+pfWGLBu2rXIzojSovI9QdcO1Fa3fyCQhDRr/VERqh3h3Fuocb+5WDyMBA2m4iek=;zreXLK+Br1F1dZSD3RxOEw=="
 ---

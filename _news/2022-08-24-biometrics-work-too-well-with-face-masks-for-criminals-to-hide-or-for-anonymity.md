@@ -7,7 +7,7 @@ originalUrl: "https://www.biometricupdate.com/202208/biometrics-work-too-well-wi
 webUrl: "https://www.biometricupdate.com/202208/biometrics-work-too-well-with-face-masks-for-criminals-to-hide-or-for-anonymity"
 type: article
 quality: 19
-heat: 19
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 2048
     height: 1365
     isCached: true
+
+related:
+  - title: "Kardome expands speech recognition enhancement portfolio with voice biometrics"
+    excerpt: "Israeli startup Kardome has added voice biometrics and wake-up word detection to its speech recognition product enhancement portfolio."
+    publishedDateTime: 2022-08-26T20:25:00Z
+    webUrl: "https://www.biometricupdate.com/202208/kardome-expands-speech-recognition-enhancement-portfolio-with-voice-biometrics"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 35
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2018/01/09162857/voice-biometrics-large2.jpg"
+        width: 900
+        height: 499
+        isCached: true
 
 secured: "d2gvi/PlwVknVu0WFXFgr6AvQbCm9/0B+wDK2lePYTrHQBng6pPVwKultZmtyhZtkq4R1rX+z/w637ityy8uqPAVfInbPLI6a9DkIFxwPoeuRAXiWxCxbir/vGDk/+TbltMsP+C4ZdR13uPCj/TdvIOv0+U4ZnM9PrInGCOVk037ooAtvj5LD18CdV6LQACpdagP205OfD7/J1Ul0liaB7aJ7/jSqS3S7KxuUgcjAES+kI78+KdMaOVwtpFtGXauaEuctNz8ljrfEHryadJIF1aYrUzBAu7mEOaFbrf1f6oVyOG3hK8P9yunuHTWjKw7NfybM2Eylay2ip5COJsYzOJSrugl/GsowRCh3MryWnaeROmTqS2JbePXn+ayhRibfpdilUgYqX59yiReYwfd+ynX8chjpgGKZYUPdEM/C2GjIvM546YHfEFVLZrkzmnPwRqlPqAC0NGb2YNp0IilJYfWaAT7YsgKiCNlPsTkR1jDxwnasAUWmNqJMb1pfGtJFc7IMUG5GXR8gfJe6uBgQw==;BRvNwgK1bJFyJgNsomk7eg=="
 ---

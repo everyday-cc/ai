@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-26T19:54:00Z
 originalUrl: "https://www.bbntimes.com/technology/ibm-is-empowering-the-us-open"
 webUrl: "https://www.bbntimes.com/technology/ibm-is-empowering-the-us-open"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: bbntimes

@@ -37,6 +37,17 @@ related:
         width: 1280
         height: 640
         isCached: true
+  - title: "Waymo Increases Number of Self-Driving Trucks in Texas"
+    excerpt: "The tech company has partnered with the trucking company Daimler to increase its fleet of autonomous semitractor-trailers to 60 vehicles running on I-45 between Dallas and Houston."
+    publishedDateTime: 2022-08-26T20:47:00Z
+    webUrl: "https://www.governing.com/next/waymo-increases-number-of-self-driving-trucks-in-texas"
+    ampWebUrl: "https://www.governing.com/next/waymo-increases-number-of-self-driving-trucks-in-texas?_amp=true"
+    cdnAmpWebUrl: "https://www-governing-com.cdn.ampproject.org/c/s/www.governing.com/next/waymo-increases-number-of-self-driving-trucks-in-texas?_amp=true"
+    type: article
+    provider:
+      name: Governing
+      domain: governing.com
+    quality: 39
   - title: "Former Apple engineer pleads guilty to stealing self-driving car trade secrets"
     excerpt: "Former Apple Inc. engineer Xiaolang Zhang pleaded guilty Monday to theft of trade secrets from the company’s self-driving vehicle program. According to filings with the US District Court for the"
     publishedDateTime: 2022-08-24T09:14:00Z

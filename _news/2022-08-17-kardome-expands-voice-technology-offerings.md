@@ -15,6 +15,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "xhwggUbk0Kni1+GktkL0dDd4KsdXvge0vNLsviIB/U0HBKSwrQmZbbS9ifEnGSG2KN4Ne+GFslzdmWSnuUKHCuEfiZDVQFVce1IQAKYcCIK1Ya2meGYEmGEfkOXvCH/GH2Xu34JU91L89G0qKH3L7jOqFZfjmpyiEmmzC0uh6t3g9X9YDo1gMs3Y6ldpChxn3KTOA59OasQWtVa/GxzaJucQ4nyTCyfnwhs2xBf9hSXoq4JFvCHSM1YlC678y8s7OdgUDCEGbZpaVyL69ts1Bezzo1w1ukRKQcuL16QwD4JH4VNL3B+6nO5CFTS86KjIflu+xzkWVSA21njDLCt3L+fzBvqOrCJe9Dq47zXGhOk=;HcnXBS5aezqFh+ssxacN6A=="
+images:
+  - url: "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Aug2022/8225_0.jpg?h=bde28bee&itok=Myedg5-4"
+    width: 600
+    height: 316
+    isCached: true
+
+secured: "QOo58Pp41BSTqck03OHH0UTxoAHkjUAOoM9jZHqxVNNPY7qtAUuTwVtCr+ko2uRv2J5S8OMhh4p7BeIHBR9r5383jJNWC0HH59vTBRn6F3q2QG95AyXJzypdgnC5j+xI8qlHbpwjQ7kTkOykLLlXmvfyEg9Uj/30h2hE/vr8DJs5AN9IpnYSyHQyReE+NgCnMDGvBJn/Vxar3KsRRNf6zm0ZAiqNdWUnTBRDo7TVfb9QZIvKB4OBCioYDL+hEMs08Z19mzCNMqeKDJbAdCJaCvUcHhrPaoDIxT0nfCmIRxgbxc6PuFxHStiLv7vaORg+NLL40LZ+OqziWBYf4+Q7QPDxsGcH50loJm/ZPQPoXZY=;Cyz/0wKhe/SzkjM66TxS1Q=="
 ---
 

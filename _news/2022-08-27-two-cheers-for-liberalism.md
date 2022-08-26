@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-26T19:55:00Z
 originalUrl: "https://www.city-journal.org/liberalism-and-its-discontents-by-francis-fukuyama"
 webUrl: "https://www.city-journal.org/liberalism-and-its-discontents-by-francis-fukuyama"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: City Journal

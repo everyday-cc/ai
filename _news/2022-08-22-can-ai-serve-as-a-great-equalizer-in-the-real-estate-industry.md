@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/can-ai-serve-as-a-great-equ
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry/"
 type: article
 quality: 91
-heat: 112
+heat: 102
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "When Will AI Beat The Eroom’s Law In The Pharmaceutical Industry?"
-    excerpt: "Collaboration and greater sharing of information might be a good place to start. But the only real way of beating Eroom’s law in the pharmaceutical industry is through AI. Several attempts have been made throughout the last few years to use AI to defeat ..."
-    publishedDateTime: 2022-08-22T04:23:00Z
-    webUrl: "https://www.forbes.com/sites/alexzhavoronkov/2022/08/22/when-will-ai-beat-the-erooms-law-in-the-pharmaceutical-industry/"
-    ampWebUrl: "https://www.forbes.com/sites/alexzhavoronkov/2022/08/22/when-will-ai-beat-the-erooms-law-in-the-pharmaceutical-industry/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/alexzhavoronkov/2022/08/22/when-will-ai-beat-the-erooms-law-in-the-pharmaceutical-industry/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6302890ec86f1253bb12b4a6/0x0.jpg?format=jpg&crop=1664,936,x0,y381,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
   - title: "Artificial intelligence can serve as a 'great equalizer' in the real estate industry"
     excerpt: "Whether it be by telling Alexa to play your favorite song or using face recognition to unlock your phone, artificial intelligence is making your life easier on a daily basis. As more industries continue to undergo digital transformation,"
     publishedDateTime: 2022-08-22T10:05:00Z

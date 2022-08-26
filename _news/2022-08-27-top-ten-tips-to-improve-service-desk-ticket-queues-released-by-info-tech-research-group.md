@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-26T18:21:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/top-ten-tips-to-improve-service-desk-ticket-queues-released-by-info-tech-research-group-1031708830"
 webUrl: "https://markets.businessinsider.com/news/stocks/top-ten-tips-to-improve-service-desk-ticket-queues-released-by-info-tech-research-group-1031708830"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: Business Insider

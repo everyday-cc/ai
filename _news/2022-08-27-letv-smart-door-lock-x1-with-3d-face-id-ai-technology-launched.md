@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-26T19:26:00Z
 originalUrl: "https://www.gizmochina.com/2022/08/26/letv-smart-door-lock-x1-3d-face-id-ai-technology-launched/"
 webUrl: "https://www.gizmochina.com/2022/08/26/letv-smart-door-lock-x1-3d-face-id-ai-technology-launched/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: Gizmochina

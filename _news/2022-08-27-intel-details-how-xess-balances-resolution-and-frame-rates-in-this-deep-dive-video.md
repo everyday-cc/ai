@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-26T18:05:00Z
 originalUrl: "https://hothardware.com/news/intel-details-xess-in-this-deep-dive-video"
 webUrl: "https://hothardware.com/news/intel-details-xess-in-this-deep-dive-video"
 type: article
+quality: 13
+heat: 13
+published: false
 
 provider:
   name: HotHardware

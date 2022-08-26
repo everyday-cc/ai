@@ -2,22 +2,22 @@
 category: news
 title: "Concentric AI Grows Leadership Team to Meet Accelerating Demand for Data Security Posture Management Solutions"
 excerpt: "Concentric AI, a leading vendor of intelligent AI-based solutions for autonomous data security posture management, today announced it has named former Fidelis Cybersecurity sales executive Daniel Emanuele as its first Senior Vice President of Sales."
-publishedDateTime: 2022-08-23T12:03:00Z
-originalUrl: "https://www.eagletribune.com/region/concentric-ai-grows-leadership-team-to-meet-accelerating-demand-for-data-security-posture-management-solutions/article_08fc26b1-5bd0-5cb4-8744-6e57fb8bc3bc.html"
-webUrl: "https://www.eagletribune.com/region/concentric-ai-grows-leadership-team-to-meet-accelerating-demand-for-data-security-posture-management-solutions/article_08fc26b1-5bd0-5cb4-8744-6e57fb8bc3bc.html"
+publishedDateTime: 2022-08-23T14:06:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/08/23/9660630.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/08/23/9660630.htm"
 type: article
 quality: 14
 heat: 14
 published: false
 
 provider:
-  name: Eagle-Tribune
-  domain: eagletribune.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AI
   - AI in Security
 
-secured: "rqMHaa+N8p/j2MaB6i7N1PY9aWXj/EtgW3tfpjtmhgjlbrSXgd+3gHMDLM6yYULXUEBgRlJnEvElkZL9fv6wJ3zBb1AyCRZpYFSa57ZDKnvrNwAEheWGZYiGCNWKwHcdhP4M2vdmXImXv7qeDZfl/QLvI3KF+sSvu0VTcdeMqKkPTqQYvD/bzouqE1tDrNVtRcOsU8fe5PHHwg6xOJkXEFh1XCTkC1hQBtMqggUVKS7fxn5gKeThvbgJOutuDHPQWlIljPwMX4K+p2K4z2lgouoLnIZj9rm+8ftDhgY7XjbTphTfTNd3IZ2iCWh6O0rxdla98y4U2CLkBkNr6mmWAMYiUextyBDRc763kyx7RC/obguEIeMcQzo6OmrdnER69YgTnWA+g9YQ3frAflcopLY0aoBjvOr4xVOaitjZ9Wp9EtSmtO4ylZ746vJyVgM6BdEoNboeEoTuGXabvihRNtPCLkyAPKqowJuUeDIdDMzOvP3eZfcBmvRo7Tq96hOsUQ9zsAG+IbhGAqXU/pmVng==;6qCECt1A0EhntDCoBBefQA=="
+secured: "/18+fkapIOoPix9+y60c9p9d88E5k0mEbpLZ3ae3UoUvhGN2VaTP7TkIDCQyxRg50Gf5L6+/9U240TJbnxJ7LobqwW6DJJA4/YyKH+sJJTfRXZn3I0ushf4sgiFrrvIEu73pdsT21fhuNOf6UuYGxFjcp4nKofQhFCvCpOznfqX0bUmwf+Vc91rW0atcK2MXi5IwPTwjh+EGAYXdv/UiRjRGOr4u6d/J0Y/r/pJ6Ck4kEaemE7TypglD9VQ6zgJrIHP6SCW147pwt8aOG2/h7DJtUicNV4oxnQ0FLn8M+coXqOaOlNSow40FZO9Q/gOoQLjTDxPgClfuP9DHFEX02VdqtmZBV2b19rVVhtC+NdYc4eoMuIkTBAhogCx0yQ3nbrxbrmQCgIWi9RDKK0N6CYS2e1jqtK2xSy79h4nZ1qGXbHk6wblMTuSEZtvXItWu327jYTcFIwThwy8H4b4QUDPGMHtoS+//J9FHIek6ZibyVbZBYp/TwzWC9BASWIVPJAss2cHbv0kOsNnk3PtuSw==;dl5rpB8jjFWrgdzN9E67iw=="
 ---
 

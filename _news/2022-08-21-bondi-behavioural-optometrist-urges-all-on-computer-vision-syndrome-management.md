@@ -15,6 +15,12 @@ topics:
   - Computer Vision
   - AI
 
-secured: "SJCsEu4EX8NnN1X1andsv5761jv4/r/y5VZO2tLtkac4gsDUnv/J/iw/AYb18/IRxJm/v/f2JOHJcMUIuJf5zkzMw5J66/8OotRilsTz5SBQF+kQKRkfM3QWKdUmQAxTVIpb2DwRXXDiN+pDUXoJVUFLhtVRgyrsAszxQ+YylBAsLcQG42LWhmoTZ6KozODsHjY+xgwM4thj7Gb7gJoJ87Ucn4k/CB5pEP9WeLbjfjyhLMy8UXy3S/yUBxeoYsPuEXeb5xdTWQim4ilVavm05PlxLpAEtBltti62DhsyRgOK116Y+FlznfEyYtxGtMn90DrvMPPx+mXac2Z2Ht0OaikYIUV9RIL8pR/MTIBIrIY=;QtGR9Q1uLlVKs0GRGdOx5w=="
+images:
+  - url: "https://storage.googleapis.com/mmstudio-images/gallery/featured/pr-89080350-1660810204257.jpg"
+    width: 600
+    height: 400
+    isCached: true
+
+secured: "ZPmxL/MR3I6OUP900w2HIsoLJdxCOvgsv8PEKZi6CdcvOxd0mzfw6FXsvuKnD7XJVGoB+X6zN1C6HY6izdTO25EZR3AkKOYqN5GAaCDZDQ9LNRVZ2dooRZGqomvI21xmBETCMm42OjxC2jEmG2RdohBN+p9pQASTcdiwp/Df6SPp/LSGpjx9og7+NP+ha4jnpAP25+fTnZ/z66hvolKMwy97GqXsdjcx2ZPoueJXBDzut15BoD/jTQk5Sub8Hdmw8ABPSKH9k7m94Zquf/ijerFDJ3T93Mo3u/djZQkuLfddoov8gIwxMTDGtiG6pE9w8ri7gb7ck6Dm3jVarRngvb1gIMRTI5jRXCEziH8yUwY=;vqFWXpEKF9KXDeRKvIQZ2Q=="
 ---
 

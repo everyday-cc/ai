@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-26T13:00:00Z
 originalUrl: "https://www.automationworld.com/factory/iiot/video/22405870/yokogawa-ai-operates-jsr-chemical-plant"
 webUrl: "https://www.automationworld.com/factory/iiot/video/22405870/yokogawa-ai-operates-jsr-chemical-plant"
 type: article
-quality: 19
-heat: 19
+quality: 21
+heat: 21
 published: false
 
 provider:

@@ -5,7 +5,12 @@ excerpt: "In a new report, McKinsey identifies innovative ways industries can be
 publishedDateTime: 2022-08-26T19:01:00Z
 originalUrl: "https://www.zdnet.com/article/5-exciting-applications-for-artificial-intelligence/"
 webUrl: "https://www.zdnet.com/article/5-exciting-applications-for-artificial-intelligence/"
+ampWebUrl: "https://www.zdnet.com/google-amp/article/5-exciting-applications-for-artificial-intelligence/"
+cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-exciting-applications-for-artificial-intelligence/"
 type: article
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: ZDNet
@@ -18,7 +23,14 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI in Healthcare
 
-secured: "m7h0CXmljYWhZqyp5wj/jbBDjRkAUtuDl4zegYmZpq5hMtToNXv9Bk0x6kZC3YV4tMNkb5fQFjk+Tyj6HJMHdG1/m8Wrbox1hbx+cOduRM5KzKtKlGDqGdPfgIuzS1/1GxcTaOa9FS0wAytU0+7t5KWQ5Y5yQbvzdG+KrBLKSYTfXLatRwbjoyQ4FOuAJ8Z7yb/YUpyTor0qmoMI0CbbIOgwXudo02ccIYBP/h9zEadGwyK4zYvOHnkYIFkTDurYwAMDvqgcP3x28hxj+twcTcp5R5nEZ758e6hqMMJdvIhu9zklAWktxWmtNisz8rlTwc5o322OQ5aCTkKyLrYOg/qJC+iLCkmY+lgnRHr/4V2PtH9T+jtMZeuDRx2KP+oDClqvkcRIFqiC5+BIMc0xcVOOEELtOlIPdnf9bkQ5cFwUgrlhBDNL6g5eQE6iYeTNJDTD7wK4Xbxox8e/GYaQiP++D5EfEjcGBmZHASL2EOghuQiPfnzS3r1ByYM1rSGFNT7DywF0BEzzFIWfjR8SlQ==;W8gDAig4woQ3XUQF6mMG0w=="
+images:
+  - url: "https://www.zdnet.com/a/img/resize/68716ea71e49a4f803ff4c87db10cb98a74f1d1c/2022/08/26/ab2058b7-690d-41d1-b96b-ad7db04fd805/ai-assistant-smarttphone-iot-innovation.jpg?width=1200&fit=bounds&auto=webp"
+    width: 1200
+    height: 800
+    isCached: true
+
+secured: "P2PYe7itVXe7QpAKf+3pAjQVnqAFbu6pySj4NHP30KMOdUM7ZeaAppgTGGlvqu1hhvUHYYjJnLp1G8R0eHcU7xU3rrQBMQ1J5qORrlsfBT1/C/aeKKJ9nL9CAYluaW5qZotg6dcsR2bTRTrz8P3med0pYnIsDG46DJYWB0DWxdWWFOxWnfyfIX7dcSW9SnmaehKEaloieDvwKMPecGhN9u6iaJbN7e8ri6JcP7c014xSd+cIBj3dJerNpxxJMoZNPXSiO59y6M2WOz8b697xA9+hvmRO4ZuDpT+FqAkoYkWyMYf/cUl29Z5yqdZyRzusNPWY7a8jAr2WMWgvE8tDUrND1Q9cxrLRzI1VdV04ddw=;hRaPMus3clmM7nMKQyYvaw=="
 ---
 

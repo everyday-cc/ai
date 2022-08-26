@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/amp
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/join-us-in-the-ai-test-kitchen/amp/"
 type: article
 quality: 109
-heat: 149
+heat: 139
 published: true
 
 provider:
@@ -60,20 +60,6 @@ related:
       - url: "https://www.androidheadlines.com/wp-content/uploads/2022/08/Bitcoin-image-84394398340.jpg"
         width: 1350
         height: 900
-        isCached: true
-  - title: "White paper offers ethics advice for use of AI in the US"
-    excerpt: "This new white paper encourages all stakeholders — government among them — to consider potential harm that AI can do, and to plan for addressing that."
-    publishedDateTime: 2022-08-22T02:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/22/white-paper-offers-ethics-advice-for-use-of-ai-in-the-us"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 54
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/19/1703835.jpg"
-        width: 1240
-        height: 826
         isCached: true
   - title: "Solidus AI Tech Secures New Boost From High-Profile Investor 'The Bitcoin Man'"
     excerpt: "Solidus AI Tech Limited was established in January 2021 as the Artificial Intelligence arm of the parent company Solidus Technologies. United States - August 24, 2022 /MarketersMEDIA/ — Solidus AI Tech (AI-Tech.io), the company behind the world's first ..."

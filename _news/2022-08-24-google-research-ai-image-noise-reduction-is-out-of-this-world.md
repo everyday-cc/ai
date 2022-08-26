@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/08/23/nerf-in-the-dark/amp/"
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/23/nerf-in-the-dark/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,6 +39,17 @@ related:
       name: TechSpot
       domain: techspot.com
     quality: 47
+  - title: "Seeing in the dark: Google researchers use AI to create novel HDR views from noisy raw images"
+    excerpt: "Google researchers have used Neural Radiance Fields (NeRF) and high dynamic range raw input data to create HDR view synthesis with extremely low noise and high levels of detail."
+    publishedDateTime: 2022-08-25T18:43:00Z
+    webUrl: "https://www.dpreview.com/news/6268499546/seeing-in-the-dark-google-researchers-use-ai-to-create-novel-hdr-views-from-noisy-raw-images"
+    ampWebUrl: "https://m.dpreview.com/news/6268499546/seeing-in-the-dark-google-researchers-use-ai-to-create-novel-hdr-views-from-noisy-raw-images.amp"
+    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/6268499546/seeing-in-the-dark-google-researchers-use-ai-to-create-novel-hdr-views-from-noisy-raw-images.amp"
+    type: article
+    provider:
+      name: Digital Photography Review
+      domain: dpreview.com
+    quality: 26
 
 secured: "pFIg14Vg3Qe6nuJWKNBVmbCyomyzYYi20wu7lN3L87bx48j6NYfljL5B2sLt3YNvyG7IbXX31mc9MvAXoHzlimlnrJUFpKpCjEOrxOVNhaq0cXAD+GQd07NUB5SkIYIrbKH6JhH9mf7mogxLLvOx9TA0+qHnsE/2/iUjodJa2XQRTaflmf5e+1gtwKvoLeZMhakdXic8RgHdA0eXnQ7Ngcuy1aynCZzQMUQoZjrHyMRKHABrVTwEZbGIY4z1rXL6uI5SRtqGm3jhPppWm+IAquwVGo2r+eRVPiZo8WFMs4GlMdVlS8LiSF15lUon4/KhECSwBn9Y2i10NigdiBa4joQczlXJ1uSa98BCUrJT0F3wAnTvC05Z/dKrJMdEGYvBVaE+WR02bG9s7nrsGL8JToq4HZiclNir7C7eKfBLBeOi1L+2PpuNHRDIqblV3UEGRU7/Gclfg/xRVOpu2pAkSvDvybV5VGM9dL3Kvn7ElNoY5CjdGu4lubgg7A12MBCkYguYGeZ8jLNGc2TlKSrUeQ==;74yIwBQL95sIvpAmi07PiA=="
 ---

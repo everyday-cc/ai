@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-26T19:30:00Z
 originalUrl: "https://variety.com/2022/artisans/news/the-champion-ai-adapt-entertainment-1235352086/"
 webUrl: "https://variety.com/2022/artisans/news/the-champion-ai-adapt-entertainment-1235352086/"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: Variety

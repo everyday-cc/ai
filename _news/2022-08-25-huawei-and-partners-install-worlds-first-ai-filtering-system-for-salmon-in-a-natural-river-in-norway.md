@@ -24,6 +24,20 @@ images:
     isCached: true
 
 related:
+  - title: "AI-enabled fish gate filters invasive salmon out of Norwegian waterways"
+    excerpt: "After being introduced to Russia's White Sea in the 1950s, non-native Pacific salmon have since spread along Norway's coastline and into its rivers. In an effort to control their numbers, an AI-enabled fish-identifying gate has recently been installed on a Norwegian river."
+    publishedDateTime: 2022-08-26T20:11:00Z
+    webUrl: "https://newatlas.com/environment/ai-fish-gate-atlantic-pacific-salmon/"
+    type: article
+    provider:
+      name: New Atlas
+      domain: newatlas.com
+    quality: 67
+    images:
+      - url: "https://assets.newatlas.com/dims4/default/06faac6/2147483647/strip/true/crop/1161x610+0+82/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F07%2F97%2F0dadfea54ffc8c1d4c7ec4584179%2Fscreen-shot-2022-08-26-at-1.02.26%20PM.jpeg&na.image_optimisation=0"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Huawei AI tech used to filter out invasive salmon species in Norway river trial"
     excerpt: "Norway's delicate coastal ecosystem has been damaged over the past few decades, largely due to the introduction of the Pacific salmon species into Russia’s White Sea in the 1950s, which have since made its way south into Norwegian waters."
     publishedDateTime: 2022-08-25T10:01:00Z

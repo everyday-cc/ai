@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/26/how-to-pre
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/26/how-to-prepare-for-ai-driven-next-generation-customer-service/amp/"
 type: article
 quality: 87
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -28,6 +28,17 @@ images:
     width: 1200
     height: 675
     isCached: true
+
+related:
+  - title: "How an award-winning AI film was brought to life by text-to-video generation"
+    excerpt: "Text-to-video generators are already creating award-winning short films. Are AI-generated blockbusters coming next?"
+    publishedDateTime: 2022-08-26T17:49:00Z
+    webUrl: "https://thenextweb.com/news/text-to-image-generator-creates-award-winning-ai-film-the-crow"
+    type: article
+    provider:
+      name: The Next Web
+      domain: thenextweb.com
+    quality: 44
 
 secured: "TzoBjp2WGPyEecA4kIaAEN8PaLPyDShLjD5lf+dyP3unVm1lt+9kMO4smQQG6FmHkZTTUXLbhFVsp2LYWWeH958ro2H6jIcOo6yT/mkycvVNA9WiuMfF0ZnkRsXw8F/LHUVy4bT7eKOsuwywBffG+I90o6QU/ydUxm6CPlmh87ySYPOaYfPsLIqZiTBe2SJttflne+8O5EJ08WHdHqFqpDXpLcugbUQZ+YygWrESDC/ws78TqrX2npuk0k/E2PeymvlWmWOQmHflkkylnyfNY1k+j/x9UhRod626gH3vFVe3eOf8hyn9nJ3VZmAbd2y9JSbuE8/0fwH1vFlBGVT5LiWRfLHTtCDvFs6+hGhZf9E=;nu1z3sIg9tYM8TeZZUKHVA=="
 ---
