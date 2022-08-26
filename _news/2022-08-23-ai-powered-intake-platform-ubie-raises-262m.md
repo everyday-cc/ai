@@ -27,15 +27,34 @@ related:
       name: TechCrunch
       domain: techcrunch.com
     quality: 47
-  - title: "Qloo, the Leading Artificial Intelligence Platform for Culture and Taste Preferences, Raises $15M in Series B"
-    excerpt: "Qloo, the leading artificial intelligence platform for culture and taste preferences, announced today that it has raised $15M in Series B funding from Eldridge and AXA Venture Partners. This latest round of funding brings Qloo’s total capital raised to $30M,"
-    publishedDateTime: 2022-08-23T15:00:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-23-qloo-the-leading-artificial-intelligence-platform-for-culture-and-taste-preferences-raises-15m-in-series-b"
+  - title: "AI-Powered Videoconferencing Platform Headroom Raises USD 9M"
+    excerpt: "Headroom, a startup developing AI-powered software to make meetings ostensibly more efficient, has announced that it raised USD 9 million"
+    publishedDateTime: 2022-08-26T14:49:00Z
+    webUrl: "https://enterprisetalk.com/quick-bytes/ai-powered-videoconferencing-platform-headroom-raises-usd-9m/"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 13
+      name: enterprisetalk
+      domain: enterprisetalk.com
+    quality: 37
+    images:
+      - url: "https://enterprisetalk.com/wp-content/uploads/2022/08/AI-Powered-Videoconferencing-Platform-Headroom-Raises-USD-9M.jpg"
+        width: 700
+        height: 400
+        isCached: true
+  - title: "Qloo, the Leading Artificial Intelligence Platform for Culture and Taste Preferences, Raises $15M in Series B"
+    excerpt: "Qloo, the leading artificial intelligence platform for culture and taste preferences, announced today that it has raised $15M in Series B funding from Eldridge and AXA Venture Partners. This latest round of funding brings Qloo’s total capital raised to $30M,"
+    publishedDateTime: 2022-08-23T15:02:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-ff592ea3291240c9ab4c46631a3da560"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 33
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "5goMZQuzuNVf2+LWxLY7MIXGMZB3nmf9RLUAfWYcfepDpwV9Bgdb0qfF0BfUDXLJeTBL1PQ2OzNVXFn9Kt/OK43UPVeuo7YrYJ7zZOCFdpodp2kJpvgrVetVQEPluWktUG+XOc/78shzaLf5BmQrSv5gm4i01kiRI2HKyyzriq8+NWOIdmquP15S/hHpeSURb/13r7gXYd4ZU8xTLqltdlAui5GqLx4/7GNd7L9gcnNYsPABhGfHD6bXGhhuiZi3m4OblEV98bqQV3AnKe8cyKhDLPbitGsOfXzZ5TltqRAg1txWE3GYPRWEMksYSJ0cQq1HI1cHG7xI6eVDNnE+s395AHPrOW3M/FCQHodDW/8=;Syxs4rG9eq6jJh+AZW7GZg=="
 ---

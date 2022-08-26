@@ -168,15 +168,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Supply Chain Market 2022 Key Dynamics, Regional Insights, Growth Statistics and Business Strategies by 2028"
-    excerpt: "The Global Artificial Intelligence Supply Chain Market 2022 by Company, Regions, Type and Application, Forecast"
-    publishedDateTime: 2022-08-21T19:45:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-supply-chain-market-2022-key-dynamics-regional-insights-growth-statistics-and-business-strategies-by-2028-2022-08-21"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
   - title: "Far-field Speech Recognition Market Industry Share, Size, Growth : 2022 Market Research with Manufacturers, Segments and 2028 Forecasts Research"
     excerpt: "Global Far-field Speech Recognition Market research report 2022 provides comprehensive information about market"
     publishedDateTime: 2022-08-25T06:34:00Z
@@ -190,6 +181,20 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Artificial Intelligence (AI) Chips Market: Trends, Growth, Size, Manufacturers Analysis, SWOT Analysis, Opportunity Assessment by Forecast to 2027"
+    excerpt: "The Artificial Intelligence (AI) Chips Market report describes the forecast till 2027, Analysis and discussion of important industry trends, size, key players, current industry trend, market share ..."
+    publishedDateTime: 2022-08-23T15:05:00Z
+    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chips-market-trends-growth-size-manufacturers-analysis-swot-analysis-opportunity-assessment-by-forecast-to-2027"
+    type: article
+    provider:
+      name: Digital Journal
+      domain: digitaljournal.com
+    quality: 31
+    images:
+      - url: "https://i.postimg.cc/VNFBndzq/Social-Media-Graph-01-1-500.png"
+        width: 500
+        height: 300
         isCached: true
   - title: "Healthcare Artificial Intelligence Market Global Demand, Growth, Size, Share, Trends, Opportunities and Forecast to 2027"
     excerpt: "In the healthcare industry, artificial intelligence is being utilized to investigate the link between treatment methods and patient outcomes. Medication management, treatment regimens, and drug ..."

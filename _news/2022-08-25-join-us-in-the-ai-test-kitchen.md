@@ -9,7 +9,7 @@ ampWebUrl: "https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/amp
 cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/join-us-in-the-ai-test-kitchen/amp/"
 type: article
 quality: 109
-heat: 139
+heat: 149
 published: true
 
 provider:
@@ -61,6 +61,15 @@ related:
         width: 1240
         height: 826
         isCached: true
+  - title: "Google's Test Kitchen App Asks You Talk to AI About Dogs"
+    excerpt: "LaMDA is a prototype AI system capable of deciphering a conversation's intent, and Google needs your help testing it out via the Test Kitchen app."
+    publishedDateTime: 2022-08-26T13:30:00Z
+    webUrl: "https://www.pcmag.com/news/googles-test-kitchen-app-asks-you-talk-to-ai-about-dogs"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 47
   - title: "Solidus AI Tech Secures New Boost From High-Profile Investor 'The Bitcoin Man'"
     excerpt: "Solidus AI Tech Limited was established in January 2021 as the Artificial Intelligence arm of the parent company Solidus Technologies. United States - August 24, 2022 /MarketersMEDIA/ — Solidus AI Tech (AI-Tech.io), the company behind the world's first ..."
     publishedDateTime: 2022-08-24T04:17:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-26T10:51:00Z
 originalUrl: "https://www.nasdaq.com/articles/factors-to-note-ahead-of-pure-storages-pstg-q2-earnings"
 webUrl: "https://www.nasdaq.com/articles/factors-to-note-ahead-of-pure-storages-pstg-q2-earnings"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Nasdaq

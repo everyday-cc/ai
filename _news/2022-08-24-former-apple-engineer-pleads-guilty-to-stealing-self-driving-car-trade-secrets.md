@@ -48,15 +48,6 @@ related:
       name: Electrek
       domain: electrek.co
     quality: 18
-  - title: "Pilot Tests Self-Driving Trucks"
-    excerpt: "Pilot Co. is partnering with Kodiak Robotics, a self-driving trucking company, to develop autonomous truck services at Pilot and Flying J travel centers. Pilot and Kodiak are in the process of creating an autonomous truckport in the Atlanta area to evaluate potential service offerings and explore scalable solutions."
-    publishedDateTime: 2022-08-24T17:57:00Z
-    webUrl: "https://www.cspdailynews.com/fuels/pilot-tests-self-driving-trucks"
-    type: article
-    provider:
-      name: Convenience Store News
-      domain: cspdailynews.com
-    quality: 4
 
 secured: "Yj1YyZQSimmoSBiXhEfuq95auvvQQcP0c3nzMIpTEpE4KpemYqSH2Qa/l4Y7wuPvcK/oythHd0XarzcmZILPufM/WB8sl6hNNBhJeq8nvQvc9QjpxzSCUTI0iPHe5DAKiFKZ1zWuxVExrsOFe5hEWoILpt3kjQWc2B2yVZ2eSJvl3gr2idXgXZLUzi9h/E5o7xNxhfXFSUxGurpVdhCuLbtroNVKn0WlXzdOWQWGMmTHlwRhcFBY/EDp22788nL31PIzTPvQCxFzcS11/8KzFGSvHWzfk8nZhF9NRmGOKtZo9X0ZvOhFGmeOPklQX4YJ+5L0drL2fO8o0/OLy/4Z5WF4rwQO8TahXxbm2ivuEivA39dSjEsdYUUW0pMkwrtMj6TsHUhF3mABGgyU51O0KoNhOzDBYyH+sgqPEJ6NPbCqUGbwERDKeMYIxRSFIBK5aDHgbrCICJG1I5JpgqqHIxRi6LvjNG/96hIFQ5FnSz6i+VdKzZ9IhB1R74eLlVLpOljYmld/mVzaU3xk0l+Acg==;+qJjcXuQM9IWesfyPpO6Lw=="
 ---

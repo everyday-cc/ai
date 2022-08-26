@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-23T13:10:00Z
 originalUrl: "https://www.businessinsider.in/science/research/news/drdo-has-developed-a-facial-recognition-system-that-claims-to-see-through-masks-and-disguise/articleshow/93726351.cms"
 webUrl: "https://www.businessinsider.in/science/research/news/drdo-has-developed-a-facial-recognition-system-that-claims-to-see-through-masks-and-disguise/articleshow/93726351.cms"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: Business Insider India

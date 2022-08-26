@@ -7,8 +7,8 @@ originalUrl: "https://markets.businessinsider.com/news/stocks/chipotle-workers-i
 webUrl: "https://markets.businessinsider.com/news/stocks/chipotle-workers-in-michigan-vote-to-join-teamsters-1031707091"
 type: article
 quality: 54
-heat: 64
-published: false
+heat: 74
+published: true
 
 provider:
   name: Business Insider
@@ -29,6 +29,15 @@ images:
     isCached: true
 
 related:
+  - title: "Chipotle Employees In Michigan Vote To Form Union"
+    excerpt: "Employees of a Chipotle Mexican Grill restaurant in Lansing, Michigan voted to form a union, for the first time among the chain's some 3,000 locations. Unified workers at the store voted 11-to-3 to form a union with the International Brotherhood of Teamsters."
+    publishedDateTime: 2022-08-26T12:30:00Z
+    webUrl: "https://www.nasdaq.com/articles/chipotle-employees-in-michigan-vote-to-form-union"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
   - title: "Machine-readable financial reports get a look in Michigan"
     excerpt: "The University of Michigan is studying the use of XBRL technology for local government financial reports with the state Department of Treasury set to act next."
     publishedDateTime: 2022-08-23T18:32:00Z

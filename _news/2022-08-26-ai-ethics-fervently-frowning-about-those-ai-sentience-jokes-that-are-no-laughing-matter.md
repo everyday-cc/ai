@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-26T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/26/ai-ethics-fervently-frowning-about-those-ai-sentience-jokes-that-are-no-laughing-matter/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/26/ai-ethics-fervently-frowning-about-those-ai-sentience-jokes-that-are-no-laughing-matter/"
 type: article
+quality: 56
+heat: 56
+published: false
 
 provider:
   name: Forbes

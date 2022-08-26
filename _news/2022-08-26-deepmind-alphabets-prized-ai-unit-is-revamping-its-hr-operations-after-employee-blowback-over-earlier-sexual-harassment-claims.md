@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-26T13:41:00Z
 originalUrl: "https://www.businessinsider.com/deepmind-ai-unit-revamps-hr-operations-after-employee-blowback-2022-8"
 webUrl: "https://www.businessinsider.com/deepmind-ai-unit-revamps-hr-operations-after-employee-blowback-2022-8"
 type: article
+quality: 35
+heat: 35
+published: false
 
 provider:
   name: Business Insider

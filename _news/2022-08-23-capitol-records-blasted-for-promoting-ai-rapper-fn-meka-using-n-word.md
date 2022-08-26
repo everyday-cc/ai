@@ -116,6 +116,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Indiecast Talks Arctic Monkeys’ Anticipated Return And Controversial AI Rapper FN Meka"
+    excerpt: "Plus, hosts Steven Hyden and Ian Cohen discuss a Harry Styles cover story which outraged Michael Jackson fans."
+    publishedDateTime: 2022-08-26T14:29:00Z
+    webUrl: "https://uproxx.com/indie/indiecast-episode-103-arctic-monkeys-fn-meka-harry-styles/"
+    type: article
+    provider:
+      name: Uproxx
+      domain: uproxx.com
+    quality: 31
+    images:
+      - url: "https://uproxx.com/wp-content/uploads/2021/11/arctic-monkeys-1.jpg?w=710"
+        width: 710
+        height: 400
+        isCached: true
   - title: "Capitol Records Severs Ties With FN Meka, an AI-Generated ‘Virtual Rapper,’ Over Stereotypes, Lack of Black Creative Involvement"
     excerpt: "Not long after announcing that the label had signed a computer-generated rapper dubbed FN Meka, Capitol Music Group announced that it is severing ties with the project. The move Tuesday came after"
     publishedDateTime: 2022-08-23T23:21:00Z
@@ -157,15 +171,6 @@ related:
       name: TweakTown
       domain: tweaktown.com
     quality: 17
-  - title: "AI Rapper FN Meka Has Signed To Capitol Records, And Hip-Hop Fans Are Not Happy About It"
-    excerpt: "Labels wanna be cheap and not have to pay real artists so they’re making bots [so] they can keep 100% profit,’ said one Twitter user."
-    publishedDateTime: 2022-08-21T19:36:00Z
-    webUrl: "https://uproxx.com/music/reactions-fn-meka-signing/"
-    type: article
-    provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 8
 
 secured: "qQQPwu+5GCVdZRTS4oiR4afcerF5WoCGAjWFDC7eqDkGF1VbUjAPcA7gnAxTHJWSA2iyNBLOh5Q0LjPXcZcQ8Pc0TOKDcMlWRwqjmy9NXQ+RQgCZjdc7D+yELglk3kSIBz+TMIANZ8L6fzsXr8WY7UNDTDaZopQAl3P38a5Vw+DdVYny4iSq8LGUy9eSNgd+jA/c70ok1qmSMNxeng65AXRNk86n0A/7gQAivnEl6W/OAx/qgMElQfr5Oul6Xy9sCsmWkStcPMcuX0hK3Ft2Jk4/if95oNBuxRZEZ0jnc4nMXS8XEPtBHdwOLfCGObsoZkhDqWvJr+eEtbrurMaNP0Xaq5+NZraPCjeOQ3O+2pChSzW1CdZrsI0dxa+g1dNNEqLVaRvFO60ddrB/PzgZoR6dGWt/nzcteQ9KRhXj3hmHZ59iNIzK3QNt7oyP54EUv5tpAw+Aj3hSeMSuXAgQafTWDgY4VJDQf3d/eDVr73IY/BlIZST7SnmdqQwmW9762Iibky+rFo+MbukP2eqQ2w==;QSy0BXNJMi/d8sDMLo+9GQ=="
 ---

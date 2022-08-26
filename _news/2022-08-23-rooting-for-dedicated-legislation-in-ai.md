@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "How Artificial Intelligence Can Improve Organizational Decision Making"
+    excerpt: "Artificial intelligence (AI) is reimagining the business world, boosting innovation and productivity, and helping organizations think bigger. Organizations can use AI to improve their products ..."
+    publishedDateTime: 2022-08-23T13:02:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/how-artificial-intelligence-can-improve-organizational-decision-making/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/how-artificial-intelligence-can-improve-organizational-decision-making/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/23/how-artificial-intelligence-can-improve-organizational-decision-making/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 91
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62fe50ecae9e5f3393053f36/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 681
+        isCached: true
   - title: "The Democratization Of AI In Logistics"
     excerpt: "AI can level the playing field in logistics, allowing small shippers and freight forwarders the ability to get to the same level of predictability and actionability as their much bigger counterparts."
     publishedDateTime: 2022-08-25T11:30:00Z
@@ -40,29 +56,15 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How Artificial Intelligence Can Improve Organizational Decision Making"
-    excerpt: "Artificial intelligence (AI) is reimagining the business world, boosting innovation and productivity, and helping organizations think bigger. Organizations can use AI to improve their products ..."
-    publishedDateTime: 2022-08-23T13:02:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/how-artificial-intelligence-can-improve-organizational-decision-making/"
+  - title: "Empowering Leaders: How AI Can Enable Better Decision-Making and Success"
+    excerpt: "By Richard Boyd, Founder and CEO of artificial intelligence and machine learning company Tanjo Inc As if straight from science fiction, Artificial Intelligence, perhaps the buzzword of the 21st century,"
+    publishedDateTime: 2022-08-25T18:37:00Z
+    webUrl: "https://www.globalbankingandfinance.com/empowering-leaders-how-ai-can-enable-better-decision-making-and-success/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Why AI is crucial to the innovation market"
-    excerpt: "Companies that utilise their data through AI will have a head start when managing their patent portfolios, argues Justin Delfino of Evalueserve In 2022, the chief problem with big data lies not in obtaining it – there are plenty of established routes for ..."
-    publishedDateTime: 2022-08-22T12:09:00Z
-    webUrl: "https://www.managingip.com/article/2aiw8d1qowtufs7yi69kw/why-ai-is-crucial-to-the-innovation-market"
-    type: article
-    provider:
-      name: Managingip.com
-      domain: managingip.com
-    quality: 37
-    images:
-      - url: "https://assets.euromoneydigital.com/dims4/default/3c4b4b6/2147483647/strip/true/crop/2000x1050+0+93/resize/1200x630!/quality/90/?url=http%3A%2F%2Feuromoney-brightspot.s3.amazonaws.com%2Fe0%2Ff3%2F1a7b421b4e5589e063cda5edef66%2Fdata-innovation-comp.jpg"
-        width: 1200
-        height: 630
-        isCached: true
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 16
 
 secured: "LSFEfvsEPzHoK1RIB14UMWGih3Jyt9Sbt3M4dre2FD8BSXEbzvASJzLLeqaeHHtx2I6xmmnsPfuX0suUhS3vxCv+dEVlNX0f8zTxF+BAtxrbHKSiu+NRDJrHnagioEyyPfs7rcnvMRVias7z23Wzl6Mnd5v/OLqKeF2CIp0C2BGQnwvHQh4aOLLOG/3LBGqYucXbOaqAUg/dZQspnqPZ+WMkusXpnsIzmIt5jsiIJI7PFwMvo6MxgYI3T7xvIzti31RN3vmOmC3ZYLhsKpIDoYbKwnyUsoTawYwxNZuFRL86wjYH7WhupFSK7EOVbtjnsQ5HJNmZc2/j/pAMGjRz2nbNPN1FlGR1f1XfvShCnt0=;ku934+h7mxLx747A2HQAzw=="
 ---

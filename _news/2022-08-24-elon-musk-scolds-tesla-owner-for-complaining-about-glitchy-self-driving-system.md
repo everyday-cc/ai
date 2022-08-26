@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Tesla raising price of ‘Full Self-Driving’ feature to $15,000 next month"
-    excerpt: "Elon Musk on Sunday announced the price of Tesla Inc.'s \"Full Self-Driving\" feature will rise by 25% next month, to from $12,000 to $15,000."
-    publishedDateTime: 2022-08-21T19:17:00Z
-    webUrl: "https://www.marketwatch.com/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442?mod=mw_latestnews"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 103
-    images:
-      - url: "https://images.mktw.net/im-528682/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Elon Musk tells early Tesla Full Self-Driving Beta testers not to complain"
     excerpt: "Elon Musk has told an early Tesla Full Self-Driving Beta tester not to complain about the new FSD Beta update. Isn’t that kind of their job? A job that not only they are not paid for, but that Tesla is paying for? FSD Beta enables Tesla vehicles to drive ..."
     publishedDateTime: 2022-08-24T17:10:00Z
@@ -130,6 +114,22 @@ related:
       - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA4XC8yMDIyLTAxLTI2LTExLTQ5LTQxLTNiM2I0YTcwZDkzYzM5OWI3ZTQyY2ZlZDkwZDhiNDNkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
         width: 1200
         height: 740
+        isCached: true
+  - title: "Tesla raises price of feature it calls 'full self-driving' to US$15,000"
+    excerpt: "Tesla is raising the price of its controversial driver-assist feature it calls \"full self-driving\" to US$15,000. Tesla CEO Elon Musk has said for years that the price of \"full self-driving\" would ..."
+    publishedDateTime: 2022-08-23T23:58:00Z
+    webUrl: "https://www.ctvnews.ca/autos/tesla-raises-price-of-feature-it-calls-full-self-driving-to-us-15-000-1.6038361"
+    ampWebUrl: "https://beta.ctvnews.ca/national/autos/2022/8/23/1_6038361.amp.html"
+    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/autos/2022/8/23/1_6038361.amp.html"
+    type: article
+    provider:
+      name: CTV News
+      domain: ctvnews.ca
+    quality: 74
+    images:
+      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/6/3/1_5931897.jpg"
+        width: 1020
+        height: 574
         isCached: true
   - title: "Elon Musk Announced Tesla's 'Full Self-Driving' Technology Will Cost $3,000 More"
     excerpt: "The price of Tesla's \"full self-driving\" beta mode technology is increasing after September 5, Tesla CEO Elon Musk announced in a Tweet."
@@ -278,20 +278,6 @@ related:
         width: 1276
         height: 716
         isCached: true
-  - title: "Man from NC test Tesla's 'full self-driving' on a real kid"
-    excerpt: "A North Carolina resident sets out to refute a widely circulated video of a Tesla with the company's \"full self-driving\" beta software."
-    publishedDateTime: 2022-08-21T20:21:00Z
-    webUrl: "https://abc11.com/north-carolina-tesla-full-self-driving-test-carmine-cupani/12150489/"
-    type: article
-    provider:
-      name: WTVD
-      domain: abc11.com
-    quality: 39
-    images:
-      - url: "https://cdn.abcotvs.com/dip/images/12150501_tesla.png?w=1600"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Tesla introduces a price increase for its Full Self-Driving software"
     excerpt: "Tesla Inc. Chief Executive Elon Musk said on Sunday that the cost of his company’s Full Self-Driving software, FSD, will go up from $12,000 to $15,000. Musk said the increase will be for cars bought after Sept."
     publishedDateTime: 2022-08-22T16:21:00Z
@@ -416,6 +402,24 @@ related:
       name: Barron's
       domain: barrons.com
     quality: 16
+  - title: "When It Comes to Semi-Autonomous Driving Systems, It’s Tesla Versus Everyone Else"
+    excerpt: "Tesla is currently—for better or for worse—leading the charge with “full self-driving” (FSD), which remains blockaded by legal red tape. Just last year Elon said that FSD-equipped Teslas will be able to drive themselves with safety levels ..."
+    publishedDateTime: 2022-08-24T19:42:00Z
+    webUrl: "https://www.popularmechanics.com/cars/car-technology/a39826958/autonomous-driving/"
+    type: article
+    provider:
+      name: Popular Mechanics
+      domain: popularmechanics.com
+    quality: 14
+  - title: "Pilot Tests Self-Driving Trucks"
+    excerpt: "Pilot Co. is partnering with Kodiak Robotics, a self-driving trucking company, to develop autonomous truck services at Pilot and Flying J travel centers. Pilot and Kodiak are in the process of creating an autonomous truckport in the Atlanta area to evaluate potential service offerings and explore scalable solutions."
+    publishedDateTime: 2022-08-24T17:57:00Z
+    webUrl: "https://www.cspdailynews.com/fuels/pilot-tests-self-driving-trucks"
+    type: article
+    provider:
+      name: Convenience Store News
+      domain: cspdailynews.com
+    quality: 4
 
 secured: "hJI276iT7qcb02POsjZn8RsjM9s4H0UnQslp/bqTMSv0zaKETzBJt4smcMPDL83b1JPbyqTpakNNfMF1mq8zRZWhnAOYPlwQnUqWSqv+AWF7J7gssRocF5lu2M+EkMNRG0eZ5iJmSz809ow9qZJrkBHHUgPcvaIxfXFFVCTK1zb2yfjZSPONdulnUKE9Dk3fpqafXXnNNOdl1O31eNpdrFQNusX1/GON2IFj3GvpcTBvcqErtesdMnu1m1yiFcTDyUkr7TMqnTI80KCqIBcnxgCdEi2bIfNFNMUBkz7FFHKj6Ps06EfnWFsoeIP855yg32Qa5yFHDPYYJgs3TpU2HlWFA1Dd3nDBqP3SJigRUXr+Id/trqfvf5cNtm5X+th5WjXDuhsBdbw7c3hFUtxRNtR7Lx0ITk38IHH3lANYxSvWTH+lOKc0eugNEso8QYPCaxwppjr4Gvc33x0Th7jT0gcvaWxxGCWdn0S8USljGN9lOaNX6dwHqGWn3KP+4hHZBAoBcpYN0mchIyr2pnOOdA==;gT1EC7IeX96W2hw4PnH0Ng=="
 ---

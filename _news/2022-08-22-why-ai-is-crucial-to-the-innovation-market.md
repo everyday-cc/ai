@@ -7,7 +7,7 @@ originalUrl: "https://www.managingip.com/article/2aiw8d1qowtufs7yi69kw/why-ai-is
 webUrl: "https://www.managingip.com/article/2aiw8d1qowtufs7yi69kw/why-ai-is-crucial-to-the-innovation-market"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,45 +24,38 @@ images:
     isCached: true
 
 related:
-  - title: "The Democratization Of AI In Logistics"
-    excerpt: "AI can level the playing field in logistics, allowing small shippers and freight forwarders the ability to get to the same level of predictability and actionability as their much bigger counterparts."
-    publishedDateTime: 2022-08-25T11:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/25/the-democratization-of-ai-in-logistics/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/25/the-democratization-of-ai-in-logistics/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/25/the-democratization-of-ai-in-logistics/amp/"
+  - title: "The Center for Data Innovation regarding the AI report card."
+    excerpt: "That’s one takeaway from a new report card from the Information Technology Innovation Foundation. Hodan Omaar is a policy analyst who helped develop that report card for ITIF’s center for data innovation."
+    publishedDateTime: 2022-08-23T15:24:00Z
+    webUrl: "https://federalnewsnetwork.com/artificial-intelligence/2022/08/the-center-for-data-innovation-regarding-the-ai-report-card/"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/626946974c931989078c7b6c/0x0.jpg?format=jpg&crop=1497,842,x0,y212,safe&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "How Artificial Intelligence Can Improve Organizational Decision Making"
-    excerpt: "Artificial intelligence (AI) is reimagining the business world, boosting innovation and productivity, and helping organizations think bigger. Organizations can use AI to improve their products ..."
-    publishedDateTime: 2022-08-23T13:02:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/how-artificial-intelligence-can-improve-organizational-decision-making/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 49
-  - title: "Rooting for Dedicated Legislation in AI"
-    excerpt: "India is part of the Global Partnership on Artificial Intelligence, which is guiding responsible development and use of AI"
-    publishedDateTime: 2022-08-23T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/rooting-for-dedicated-legislation-in-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
+      name: federalnewsnetwork.com
+      domain: federalnewsnetwork.com
     quality: 37
     images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/Ai-and-legislation.jpg"
-        width: 1600
-        height: 900
+      - url: "https://federalnewsnetwork.com/wp-content/uploads/2022/01/GettyImages-1040557296-1-scaled-e1643147374857.jpg"
+        width: 1843
+        height: 1158
         isCached: true
+  - title: "Artificial Intelligence in Healthcare Market is Rising Exponentially"
+    excerpt: "Data Bridge Market Research analyses that the artificial intelligence in healthcare market is expected to undergo a CAGR of 51.37% during the forecast period of 2022-2029. This indicates that the market value,"
+    publishedDateTime: 2022-08-22T07:53:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-rising-exponentially-growth-rate-/2022/08/22/9659634.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 34
+  - title: "Govt keen to use AI in e-Marketplace: Goyal"
+    excerpt: "Union Minister Piyush Goyal on Tuesday said the Centre is keen to use Artificial Intelligence in the Government e-Marketplace procurement process to make it more effective and sought industry cooperation to achieve this."
+    publishedDateTime: 2022-08-23T18:40:00Z
+    webUrl: "https://www.dailypioneer.com/2022/business/govt-keen-to-use-ai-in--e-marketplace--goyal.html"
+    type: article
+    provider:
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 17
 
 secured: "wNRyHyDtoyjTyBuh2YTupNKK+a2ZHSX9+dOtW6/tipnf7T5aEO1Jm3jFf7PQCbMrnqI1rcwVoTKNtAD9QwtlmIOMXKpqLwOGnEpHsTEhvZ+5Y224+9ji4WbmOPosjg54MR9DVF2DWam00zIfBTU1PPsBMdKmlK+B9yDFKAC8A+fpS1Z0z60a6hHUwyRuGRP6E4JTCCGh03PcG+Tlc7l/EqYfPHtNIsMuF81c+SpzjjnaSLziwGIqIULPaW+uYp+ePyUDT3QqGea77XPRHny/vyEM+NjdmsM6shMwrljkiEPtS5T1lX1H4p1V95+NLtuyMRZQ0lGS3G93s1B7IHe9F72Azciy0yEC19wNOnxZYtk=;rCAQwVB67n9/5JtWXchbiw=="
 ---

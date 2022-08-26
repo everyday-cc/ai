@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-26T13:57:00Z
 originalUrl: "https://www.telecomtv.com/content/5g/spark-trials-new-zealand-s-first-end-to-end-5g-standalone-network-45259/"
 webUrl: "https://www.telecomtv.com/content/5g/spark-trials-new-zealand-s-first-end-to-end-5g-standalone-network-45259/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: TelecomTV

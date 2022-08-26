@@ -36,7 +36,7 @@ related:
     provider:
       name: NDTV
       domain: ndtv.com
-    quality: 59
+    quality: 61
     images:
       - url: "https://c.ndtvimg.com/2022-08/kshej0p_artificial-intelligence-scary-image-650_625x300_23_August_22.jpg"
         width: 650

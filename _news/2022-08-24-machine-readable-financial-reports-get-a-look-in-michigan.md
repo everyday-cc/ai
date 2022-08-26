@@ -33,6 +33,15 @@ related:
         width: 320
         height: 400
         isCached: true
+  - title: "Chipotle Employees In Michigan Vote To Form Union"
+    excerpt: "Employees of a Chipotle Mexican Grill restaurant in Lansing, Michigan voted to form a union, for the first time among the chain's some 3,000 locations. Unified workers at the store voted 11-to-3 to form a union with the International Brotherhood of Teamsters."
+    publishedDateTime: 2022-08-26T12:30:00Z
+    webUrl: "https://www.nasdaq.com/articles/chipotle-employees-in-michigan-vote-to-form-union"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 34
 
 secured: "BUf295nvG6Je5vf32wA7Rj8ddc0+bE8MBKsB3x9Jt567TW8CVY5FNS6bSfv+L+uF+ylMeAVWf7psQtVBjqmfTabGEMQoUlXa/Ivq6ioK6ZYnxJoa6bvR8FIjWL8bbPM1SLgYdQNZX4NiwQT1hjaWRKvipUts0BxQMpelgS73ipX97lzk91Tko1jy26qLqqB3AUmP4aRbRfDTFSn3ydPZAV6rW98CiVplGBwCOo3NIlgfhOKUn4iuKY4xh+2MdFmDt1Zm3TFsekzMxvYxSzRz21h1UCEBMnlYRUaEMODVNAX7pBXjXQRhuBqsqyvhBzCsaUm9pfwj3QjarSPLFNPy/I5tvskabH5yPjEOTDqDuJagDsLcgYSBpYpNpfc2/LHmUe/8xp0cS0jDp+Qwnry53jB2PuYaM3JaGkYlZusMtpcyR5vs2IDhFcusjdIYyELoIArHG6RyAK6/sM74xyb2BHBc8vVZJ2epgYr0OSKmuWdww+X04IEY/dbMVijXvCjabl019X4Q9LeLoCu+Cgisuw==;4yK3VHXQ4eBBXD1+Z6KSyg=="
 ---

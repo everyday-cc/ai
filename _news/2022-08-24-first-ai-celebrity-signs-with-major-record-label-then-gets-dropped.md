@@ -124,6 +124,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Indiecast Talks Arctic Monkeys’ Anticipated Return And Controversial AI Rapper FN Meka"
+    excerpt: "Plus, hosts Steven Hyden and Ian Cohen discuss a Harry Styles cover story which outraged Michael Jackson fans."
+    publishedDateTime: 2022-08-26T14:29:00Z
+    webUrl: "https://uproxx.com/indie/indiecast-episode-103-arctic-monkeys-fn-meka-harry-styles/"
+    type: article
+    provider:
+      name: Uproxx
+      domain: uproxx.com
+    quality: 31
+    images:
+      - url: "https://uproxx.com/wp-content/uploads/2021/11/arctic-monkeys-1.jpg?w=710"
+        width: 710
+        height: 400
+        isCached: true
   - title: "Capitol Records Severs Ties With FN Meka, an AI-Generated ‘Virtual Rapper,’ Over Stereotypes, Lack of Black Creative Involvement"
     excerpt: "Not long after announcing that the label had signed a computer-generated rapper dubbed FN Meka, Capitol Music Group announced that it is severing ties with the project. The move Tuesday came after"
     publishedDateTime: 2022-08-23T23:21:00Z
@@ -156,15 +170,6 @@ related:
         width: 1600
         height: 1067
         isCached: true
-  - title: "AI Rapper FN Meka Has Signed To Capitol Records, And Hip-Hop Fans Are Not Happy About It"
-    excerpt: "Labels wanna be cheap and not have to pay real artists so they’re making bots [so] they can keep 100% profit,’ said one Twitter user."
-    publishedDateTime: 2022-08-21T19:36:00Z
-    webUrl: "https://uproxx.com/music/reactions-fn-meka-signing/"
-    type: article
-    provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 8
 
 secured: "voaUTpRrVfIKw1q+CtvPHf+Q8fndreWheNwdbNTt65FxW7fVT+qBWgdbJ5+7CP2WTDV/XDaavLE5IhrfEokrb/YuHtyzHY7GN9O0mkZscPSDpcw4Z7VbYyRBvokZR1zGJ9g1l8S2eUXFh8soRLLkF35BVj+MdgKd1YHmQstYgg+kADJZP/a/vRYcT61Lb19uiZMXZOH+ZERfejh9xUqedAw3SWprdI2Xg09QjQoC5Y9FXnjrnUBSfkdnOaleoJnfephl8xBi0MIpeOEzh/1io5Y102gEQTU4xvea0nmq8k4szK3x7SOEkcPcN6GK+wx2w022nzsG06BlmVNq/PZTXv8WCd9drLlZ3S6wWoFP6WI=;vkAMLoh5rWGWhtAxdDx2hg=="
 ---

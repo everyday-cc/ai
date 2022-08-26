@@ -5,7 +5,12 @@ excerpt: "For companies that are eager but new to next-generation customer servi
 publishedDateTime: 2022-08-26T12:30:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/26/how-to-prepare-for-ai-driven-next-generation-customer-service/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/26/how-to-prepare-for-ai-driven-next-generation-customer-service/"
+ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/26/how-to-prepare-for-ai-driven-next-generation-customer-service/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/26/how-to-prepare-for-ai-driven-next-generation-customer-service/amp/"
 type: article
+quality: 87
+heat: 87
+published: true
 
 provider:
   name: Forbes
@@ -18,6 +23,12 @@ provider:
 topics:
   - AI
 
-secured: "gy2LU6HXWkza8KtYjuAzk45t+pOb+GTAQB3ty3UUxo0yFeIYUDiVA1eVH1wZAg5FcScpEjMPAggy+onY9G5m3zcEbosRsxQBvg88gzZJzaEhKabVlDe71pstrvy3zR8OqfPy7QEUwIThfzQGtbKxOLKpvWzjA1/kYKFbP6VOS334oyzyepTznD6JHcOQaLSzST5JpTUpda2xcJj/SYmaMcLrbEwIJ+vyBChitZ6AZ78SncpM61rQnY6AiQiBIhIzYI7VWyovFlesWx/ywyVfZf2DaoxE1u+2+OGj42AHbL44511W33trfLc6p+FzfkF66kK4kqLp71tv582obCG3SDW+oNCQm/cQDAwMWVMTRmw=;1bp+1spKl/vY2hsHk2Nr7g=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&crop=2433,1369,x0,y175,safe&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
+secured: "TzoBjp2WGPyEecA4kIaAEN8PaLPyDShLjD5lf+dyP3unVm1lt+9kMO4smQQG6FmHkZTTUXLbhFVsp2LYWWeH958ro2H6jIcOo6yT/mkycvVNA9WiuMfF0ZnkRsXw8F/LHUVy4bT7eKOsuwywBffG+I90o6QU/ydUxm6CPlmh87ySYPOaYfPsLIqZiTBe2SJttflne+8O5EJ08WHdHqFqpDXpLcugbUQZ+YygWrESDC/ws78TqrX2npuk0k/E2PeymvlWmWOQmHflkkylnyfNY1k+j/x9UhRod626gH3vFVe3eOf8hyn9nJ3VZmAbd2y9JSbuE8/0fwH1vFlBGVT5LiWRfLHTtCDvFs6+hGhZf9E=;nu1z3sIg9tYM8TeZZUKHVA=="
 ---
 

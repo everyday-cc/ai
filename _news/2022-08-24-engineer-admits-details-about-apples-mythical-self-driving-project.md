@@ -115,6 +115,15 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Former Apple employer admits stealing trade secrets for self-driving car project"
+    excerpt: "An engineer who had access to information about Apple’s self-driving car project has pleaded guilty to stealing trade secrets about the project"
+    publishedDateTime: 2022-08-26T06:42:00Z
+    webUrl: "https://www.pulse.ng/business/local/former-apple-employee-admits-stealing-trade-secrets-for-self-driving-car-project/3cd8yyj"
+    type: article
+    provider:
+      name: Naija Gist - Latest
+      domain: pulse.ng
+    quality: 0
 
 secured: "GI+GFeMx+TuBXvelSha9YMt6YEyCNGPG9dKdxV4cR02qo611YgUt1da9LN7FuxjP8AEUOKYZrmyx9570v25eaHZHNQeQbCf3Kd4DfpV13m+4C/VSuVjEiEe38I4BKVCk9KB0gcesyEAHSGPfIWQS7tvQhYnkxiQwB+i7ij6YaSsV9mvl8hVH9iAbpypHlTZBjWF7oRfwQ+jbYv9bpi4K4BNCjmtZDDWAJWqHmtQs7bvMRr5PJsWewcz7ewY23FoZ/rLIf185HoCIt/dfSruwdAEhw3vSKbkT+Jmpm5H4cMO5svLJhFRhPdA2bDy7cM+liztWGz4AW2PEnLqBtI+FGiO+4fAKyAkg7/+9k0qHSNEYI0Fgq5YOlp5aDJfpjsA6ydSIVEBujWOI49J9vtTxCgxG7rnw0AWGejxfWT1CNuXKGWMk3h3G3eExhq/RLlhZR0w2LyFFZF3ND9Fi87APLfERIjdQUj65OvOEi1WT+v8b8L5Hx6kI1zlQiw1FsN01QGAjH0WEw6+CpuwxyAs8mw==;eST83Jg1GZivqQ3s5R1kww=="
 ---

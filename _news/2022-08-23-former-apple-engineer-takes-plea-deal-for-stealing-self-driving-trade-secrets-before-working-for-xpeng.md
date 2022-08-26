@@ -51,15 +51,6 @@ related:
         width: 1280
         height: 960
         isCached: true
-  - title: "Pilot Tests Self-Driving Trucks"
-    excerpt: "Pilot Co. is partnering with Kodiak Robotics, a self-driving trucking company, to develop autonomous truck services at Pilot and Flying J travel centers. Pilot and Kodiak are in the process of creating an autonomous truckport in the Atlanta area to evaluate potential service offerings and explore scalable solutions."
-    publishedDateTime: 2022-08-24T17:57:00Z
-    webUrl: "https://www.cspdailynews.com/fuels/pilot-tests-self-driving-trucks"
-    type: article
-    provider:
-      name: Convenience Store News
-      domain: cspdailynews.com
-    quality: 4
 
 secured: "zEgnym5QWutxsZE5kzFPMT4HrlLVh9+s7BYnLCEYGfwJuwtlikixm1pgpItpWYWjfsbC8H8IHoX7rpeQCeylQJJ6e+yP0j6EAcxFtiZ73Ak6UaIe1+TFV5JfOxtHW6Dm8OuQCHibc6Xnbiy/F0IMYqLuK1VPUdEG/6EcLaXuve/lrVcVdGKZFShaGY2sdlN2RT7dZNkvM18IFcF0aUIrUZIaa/w8LOluYU5gHeHRcsGjwszUsn+I2ruWF7Uz32j7PticocxYlQM56Xe6w9862MyoNDT8ml1Df5NmDzOlHZd/uoS7cSQE5ELFUJFZHd64mDcr2g4XB8i9g2YnX0WJvAkFzmmJ8ic9CBSvYNeCWaca580nggd8vPFNZlxI1fDFCU3CbyTL31L8yBr3UwJDxRMK/eockAx4zbtInY2+H7I47dbCc4XQwOuzPlQtWZWqwQua2JHIUYC0sdCp+PcyquncxpzV2aBtMjpnBA1maNHZKUAjmf3KFUWbnB9y023k8IMs2Fbov29IsH8Cj9tW0g==;9hsKeI3rKtB/hpqrKeRLJA=="
 ---
