@@ -17,11 +17,11 @@
       "twitter": {
         "username": "ylecun",
         "url": "https://twitter.com/ylecun",
-        "followers": 346767
+        "followers": 346788
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=WLN3QrAAAAAJ",
-        "citations": 258797
+        "citations": 259111
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Yann_LeCun"
@@ -37,13 +37,55 @@
         "Computer Vision",
         "AI in Robotics"
       ],
-      "heat": 344,
+      "heat": 315,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Yann LeCun",
+          "isCached": true
+        }
+      ],
+      "content": "\r\n"
+    },
+    {
+      "path": "_people/alexandr-wang.md",
+      "title": "Alexandr Wang",
+      "excerpt": "Founder and CEO at Scale AI - a data platform for AI.",
+      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alexandr-wang/index.json",
+      "webUrl": "https://everyday.cc/ai/people/alexandr-wang/",
+      "type": "profile",
+      "name": "Alexandr Wang",
+      "bio": "Founder and CEO at Scale AI - a data platform for AI.",
+      "location": "San Francisco, CA",
+      "website": "https://scale.com/",
+      "twitter": {
+        "username": "alexandr_wang",
+        "url": "https://twitter.com/alexandr_wang",
+        "followers": 24790
+      },
+      "linkedin": {
+        "url": "https://www.linkedin.com/in/alexandrwang/"
+      },
+      "affiliation": {
+        "path": "",
+        "name": "Scale",
+        "domain": "scale.com"
+      },
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "Computer Vision",
+        "AI in Autos"
+      ],
+      "heat": 145,
+      "images": [
+        {
+          "url": "https://pbs.twimg.com/profile_images/1498032872116002816/5ECdf5AC_400x400.jpg",
+          "width": 400,
+          "height": 400,
+          "title": "Alexandr Wang",
           "isCached": true
         }
       ],
@@ -63,11 +105,11 @@
       "twitter": {
         "username": "drfeifei",
         "url": "https://twitter.com/drfeifei",
-        "followers": 405893
+        "followers": 405889
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=rDfyQnIAAAAJ",
-        "citations": 174002
+        "citations": 174266
       },
       "wikipedia": {
         "url": "https://en.wikipedia.org/wiki/Fei-Fei_Li"
@@ -97,55 +139,13 @@
         "Computer Vision",
         "AI in Healthcare"
       ],
-      "heat": 211,
+      "heat": 145,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/841385099799085056/R1iX4QGX_400x400.jpg",
           "width": 400,
           "height": 400,
           "title": "Fei-Fei Li",
-          "isCached": true
-        }
-      ],
-      "content": "\r\n"
-    },
-    {
-      "path": "_people/alexandr-wang.md",
-      "title": "Alexandr Wang",
-      "excerpt": "Founder and CEO at Scale AI - a data platform for AI.",
-      "sourceUrl": "https://everyday-cc.github.io/ai/api/people/alexandr-wang/index.json",
-      "webUrl": "https://everyday.cc/ai/people/alexandr-wang/",
-      "type": "profile",
-      "name": "Alexandr Wang",
-      "bio": "Founder and CEO at Scale AI - a data platform for AI.",
-      "location": "San Francisco, CA",
-      "website": "https://scale.com/",
-      "twitter": {
-        "username": "alexandr_wang",
-        "url": "https://twitter.com/alexandr_wang",
-        "followers": 24787
-      },
-      "linkedin": {
-        "url": "https://www.linkedin.com/in/alexandrwang/"
-      },
-      "affiliation": {
-        "path": "",
-        "name": "Scale",
-        "domain": "scale.com"
-      },
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "Computer Vision",
-        "AI in Autos"
-      ],
-      "heat": 108,
-      "images": [
-        {
-          "url": "https://pbs.twimg.com/profile_images/1498032872116002816/5ECdf5AC_400x400.jpg",
-          "width": 400,
-          "height": 400,
-          "title": "Alexandr Wang",
           "isCached": true
         }
       ],
@@ -199,7 +199,7 @@
       "bio": "Michigan State University",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=g-_ZXGsAAAAJ",
-        "citations": 241061
+        "citations": 241149
       },
       "affiliation": {
         "path": "",
@@ -234,7 +234,7 @@
       "bio": "Professor of EECS, UC Berkeley. Jitendra is known for his research in computer vision.",
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=oY9R5YQAAAAJ",
-        "citations": 183433
+        "citations": 183576
       },
       "affiliation": {
         "path": "",
@@ -272,7 +272,7 @@
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=TwMib_QAAAAJ",
-        "citations": 165787
+        "citations": 165965
       },
       "affiliation": {
         "path": "",
@@ -310,7 +310,7 @@
       "twitter": {
         "username": "harryshum",
         "url": "https://twitter.com/harryshum",
-        "followers": 17297
+        "followers": 17296
       },
       "googleScholar": {
         "url": "https://scholar.google.com/citations?user=9akH-n8AAAAJ",
@@ -337,7 +337,7 @@
         "Microsoft AI",
         "Computer Vision"
       ],
-      "heat": 6,
+      "heat": 41,
       "images": [
         {
           "url": "https://pbs.twimg.com/profile_images/473379244840480769/Y4YeRso7_400x400.png",
