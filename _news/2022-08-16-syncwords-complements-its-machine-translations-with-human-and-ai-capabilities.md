@@ -1,20 +1,20 @@
 ---
 category: news
-title: "SyncWords Complements Its Machine Translations With Human and AI Capabilities"
-excerpt: "SyncWords, the leading live captioning and translation services provider is thrilled to announce SyncWords Offline, which includes human tr"
-publishedDateTime: 2022-08-16T12:16:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9656612.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/16/9656612.htm"
+title: "Syncwords Complements Its Machine Translations With Human And AI Capabilities'"
+excerpt: "SyncWords has been the leading captioning and translation services provider in the media industry for over 20 years.. While SyncWords Live can be used as a primary tool to help deaf and hard-of-hearing audiences,"
+publishedDateTime: 2022-08-16T14:40:00Z
+originalUrl: "https://menafn.com/1104704287/Syncwords-Complements-Its-Machine-Translations-With-Human-And-AI-Capabilities"
+webUrl: "https://menafn.com/1104704287/Syncwords-Complements-Its-Machine-Translations-With-Human-And-AI-Capabilities"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Middle East North Africa Financial Network
+  domain: menafn.com
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "tiyOBvC+Lkkg4v5Z7GQ3Chcy+7OhSVyTLz+iL8gEyt5xVKrh83JrA3sPxwMTRnHlefDdu83mjPGdCNmM+ZDAVo5DOPlss80znrkgtI1ydxLl1aYk3osXYBM62s+62v+3OUSGUNGqs5ntUtZ7cb+zKaQSZmEMOwnJQgOnfWooMdDRncdZAPb8UvAFq9//6+GumBPiF4Z8/I2Wx3ZcBCo08Y3Tm+jLl0orULbGHYP0BonjSdPMc/sHffhYU8wYGjqiKoIttDGvRqYplKMi6M0tcjHwPwjV49wGrZQ9xNEXIeMZ//bK4Vs4vbF7g62EiXkvpDeSrbgjZUAdOy1Cpd9SQkLxDSHhNjvlmGWm/Y+JkHA=;7jtFemHxhDdhRiVXXt9f9g=="
+secured: "QohHyLMO9u0GjgmuP9qQqh66YzDWWbkfRK0hrXrTNnZOTNPTW7QgjV7U/ns4nUJh+xaY/WGSceFn6VAR1VhMgugZf71ugxTDU+qpT7KBDa+hLFsPFtOgbioksFTX23hXjFa2Fk3tsG0hoB7t6ohnA5Nppi55j5XO5BJ/WP9Pl1uBcZ/OKDLazL2oV6Kisf3/S6ZSYbCB+I4+UhOeFl1H644iBpJ1NW/RkJgAupDghKHD1cNEuyauWwZN+o6gjGXzouPK3mDxbSv6M66LnEe7AbaXmx+So7v2+e+7b130kUUl0Kyns54977UreOMt31g4sLF8gHSHI9HASO2dDw24G6B+3mu5WI5YiLxmujiKpGmf8dXHi91uFyB8aRSKevaLuWqDOOAin8T0lb0UY+fiXoTc+BKfajbOgFqNtr1rzN7ZzeyRfCpIc6T7pxZOM3ckivy0UowEbF4FeGU1cOIYVCRv6Dog1cxS8VdeLymTDoxWEtAQIUc58CTMC7dZKRJ+85V7ScV6Nd2vMaMRxsdZlg==;qVeE54oMFoXnfi+KtCX4Bw=="
 ---
 
