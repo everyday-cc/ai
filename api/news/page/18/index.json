@@ -2,6 +2,58 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-08-09-global-ai-in-healthcare-market-to-hit-usd-446-billion-globally-by-2026-at-448-cagr-infinium-global-research.md",
+      "title": "Global AI in Healthcare Market to Hit USD 44.6 Billion , Globally By 2026 at 44.8% CAGR | Infinium Global Research",
+      "excerpt": "The AI in Healthcare Market Research Report Study. Covers global and regional markets with an in-depth analysis of",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/global-ai-in-healthcare-market-to-hit-usd-446-billion-globally-by-2026-at-448-cagr-infinium-global-research-2022-08-09",
+      "originalUrl": "https://www.marketwatch.com/press-release/global-ai-in-healthcare-market-to-hit-usd-446-billion-globally-by-2026-at-448-cagr-infinium-global-research-2022-08-09",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-09T05:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-nnaisense-announces-release-of-evotorch-a-rare-open-source-evolutionary-algorithm.md",
       "title": "NNAISENSE announces release of EvoTorch, a rare open-source evolutionary algorithm",
       "excerpt": "AI vendor NNAISENSE today announced the formal release of its EvoTorch open-source evolutionary algorithm technology.",
@@ -1116,58 +1168,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine.md",
-      "title": "Microsoft's Azure named official cloud partner of the Unity game engine",
-      "excerpt": "The long-time collaborators made it official, positioning Microsoft's Azure as the cloud platform of choice for Unity's future 3D worlds as they are deployed on everything from Xbox game consoles to enterprise clouds.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine/",
-      "originalUrl": "https://www.zdnet.com/article/microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 124,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/39d0861ae7c64367b6174547c351fc2765343ca5/2022/08/08/6e5d5ba4-23bd-41cd-82ff-466cb008df64/unity-x-microsoft.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsofts-azure-named-official-cloud-partner-of-the-unity-game-engine/",
-      "publishedDateTime": "2022-08-08T12:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

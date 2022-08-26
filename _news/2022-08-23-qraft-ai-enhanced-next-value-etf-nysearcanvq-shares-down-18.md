@@ -17,17 +17,6 @@ provider:
 topics:
   - AI
 
-related:
-  - title: "ROBO Global Artificial Intelligence ETF (NYSEARCA:THNQ) Trading Down 3.3%"
-    excerpt: "ROBO Global Artificial Intelligence ETF (NYSEARCA:THNQ – Get Rating) shares traded down 3.3% during mid-day trading on Friday . The stock traded as low as $30.53 and last traded at $30.63. 2,018 shares were traded during trading,"
-    publishedDateTime: 2022-08-21T09:28:00Z
-    webUrl: "https://www.defenseworld.net/2022/08/21/robo-global-artificial-intelligence-etf-nysearcathnq-trading-down-3-3.html"
-    type: article
-    provider:
-      name: Defense World
-      domain: defenseworld.net
-    quality: 16
-
 secured: "Be7NdaB3A8me5aLAckEUcruUdMjZbC9zbm0Hg1mHiIXlrOjFP2OTFeGyU/VWkq0qRwFjB2KJM96P+9QGha/xHiMEsAC8H0mogsAY9y0JRv2YGDyzvZNyKNt9JohIyVAbgIPGiOjwfuJRWD++lu3mDHF1yQ+uT1o2qzsrX1iXJbX3jF/wJt1rKIjQsYJOpHQRBQCmD874y6VqW8NfL67kIjZo4DIkq4KRdK3B0mW42tAtUj2QxKmZ4rMLMDciq073IaHwCtPfImcXOHgwKG6BejCvlKYEOAQZrowy76p3cge5leh1qz5JxEnQthHklNN1w1mUpZpDHLylWq0LNJp97UId+cwIYTxNNDMmS4zW6qs=;2wc2smtfHMLyr3L51NXXEg=="
 ---
 

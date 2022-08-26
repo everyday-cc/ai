@@ -2,6 +2,40 @@
   "page": 90,
   "value": [
     {
+      "path": "_news/2022-06-14-devnagri-indias-first-ai-powered-translation-engine-as-language-partner-at-assocham-fintech-festival-india.md",
+      "title": "Devnagri - India's first AI-powered translation engine as language partner at Assocham Fintech Festival India",
+      "excerpt": "Devnagri is the language partner of Fintech. Devnagri is India's first AI-powered translation engine. This platform combines AI and human-powered translation with machine learning for both brands ...",
+      "sourceUrl": null,
+      "webUrl": "https://news.webindia123.com/news/articles/Business/20220614/3952002.html",
+      "originalUrl": "https://news.webindia123.com/news/articles/Business/20220614/3952002.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T05:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Webindia 123",
+        "domain": "webindia123.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-consumers-drive-retails-digital-transformation-says-microsoft.md",
       "title": "Consumers drive retail’s digital transformation, says Microsoft",
       "excerpt": "From e-commerce to omnichannel, customers drive retail’s digital transformation in the Middle East and Africa (MEA), Microsoft, the software manufacturing",
@@ -1095,48 +1129,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-14-spotify-to-acquire-ai-voice-startup-sonantic.md",
-      "title": "Spotify to Acquire AI Voice Startup Sonantic",
-      "excerpt": "Sonantic has also worked with Val Kilmer, who was diagnosed with throat cancer and underwent a tracheotomy in 2014, to develop an AI voice model based on past audio recordings of Kilmer’s voice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/#!",
-      "originalUrl": "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/#!",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.hollywoodreporter.com/wp-content/uploads/2022/06/GettyImages-1013933284-H-2022.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/amp/",
-      "cdnAmpWebUrl": "https://www-hollywoodreporter-com.cdn.ampproject.org/c/s/www.hollywoodreporter.com/business/digital/spotify-sonantic-ai-voice-1235164648/amp/",
-      "publishedDateTime": "2022-06-13T22:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hollywood Reporter",
-        "domain": "hollywoodreporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

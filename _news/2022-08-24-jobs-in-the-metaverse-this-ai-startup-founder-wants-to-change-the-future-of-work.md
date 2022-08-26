@@ -9,7 +9,7 @@ ampWebUrl: "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founde
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/amp/"
 type: article
 quality: 52
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -35,22 +35,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 44
-  - title: "Jobs in the metaverse are disappearing as Google and Facebook slow hiring"
-    excerpt: "USA: Employment in the metaverse is declining, according to workplace research firm Revalio Labs. According to Revlio, new monthly job posti..|News Track"
-    publishedDateTime: 2022-08-21T10:06:00Z
-    webUrl: "https://english.newstracklive.com/news/jobs-in-the-metaverse-are-disappearing-as-google-and-facebook-slow-hiring-sc57-nu355-ta355-1245982-1.html"
-    ampWebUrl: "https://english.newstracklive.com/ampnews/jobs-in-the-metaverse-are-disappearing-as-google-and-facebook-slow-hiring-sc57-nu355-ta355-1245982-1.html"
-    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/jobs-in-the-metaverse-are-disappearing-as-google-and-facebook-slow-hiring-sc57-nu355-ta355-1245982-1.html"
-    type: article
-    provider:
-      name: News Track
-      domain: newstracklive.com
-    quality: 43
-    images:
-      - url: "https://media.newstrack.in/amp/uploads/latest-news/politics-news/Aug/21/big_thumb/Screenshot-2022-08-21-152246_6302007ed76aa.png"
-        width: 1798
-        height: 900
-        isCached: true
   - title: "Metaverse in healthcare market to reach $72B by 2030"
     excerpt: "The 2021 metaverse global market size is about $6.85 billion. According to an Aug. 24 news release from Precedence Research, it is expected to surpass $70.1 billion by 2030 with a compound annual growth rate of 28."
     publishedDateTime: 2022-08-24T18:53:00Z

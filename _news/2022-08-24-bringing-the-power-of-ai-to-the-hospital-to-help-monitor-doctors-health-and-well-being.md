@@ -40,6 +40,20 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "AI being used to monitor sensitive online posts"
+    excerpt: "To avoid any miscreant’s activity on sensitive occasions like Muharram [and] other religious occasions or even volatile political situations, we have special IT-based arrangements to monitor such movement,"
+    publishedDateTime: 2022-08-26T01:22:00Z
+    webUrl: "https://www.dawn.com/news/1706833/ai-being-used-to-monitor-sensitive-online-posts"
+    type: article
+    provider:
+      name: Dawn
+      domain: dawn.com
+    quality: 37
+    images:
+      - url: "http://www.dawn.com/_img/social-default.jpg"
+        width: 375
+        height: 375
+        isCached: true
 
 secured: "qsdXKeeRMiniHBJFTyl2hJbIqXxhXrzIA0D33IwqnxJEK3gjp057b9WnRxKnJ7LbszbySmDGKitisyrnv0GsHITbqt0+UqdKTModSUFmnx7t7vVUB9/NugIkLhrrwNAmcmOdaL8m/VNd8qs60RWuwrErxUi47yX9PH1dJXOArVWpu9Lo2SSbnqUqaEIqX0hLNebyRrBOFjdfPX6XGcz6bxSrA1vpeFgfy7B8ljbU7tIgUZ1HEC7Rms1jEi6xPArHDbMSnKD8jLWa8Ol6qoduKj1aiQOTscbH09VL4iCvM7b8TOi5JHJbazbKX+SLuQkvUkhoETmYHCl7VFtL8cKsDzRHNYsQToBednKMLMhF04jKxbB8HUWG142DELiuGK3mZZETD8y4YrJoPaeHa0KN+Js8slA6gaE/3OM9+h19lfAMsH/QcCjmpp3gtEMPoDuOBDRFTclV8L1crdddFTV8ItiMpihP7ixg1YlSwZk5iBT7ZhY+lSrNvFs/d3za6rUJKxW+vWC0aIlBcuRSFSS68w==;B6R6XVE5fCYeYeKYNDAcDw=="
 ---

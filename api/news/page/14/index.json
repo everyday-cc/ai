@@ -2,6 +2,59 @@
   "page": 14,
   "value": [
     {
+      "path": "_news/2022-08-12-artificial-intelligence-based-security-market-key-player-competition-weakness-and-strengths-from-2022-to-2028.md",
+      "title": "Artificial Intelligence-based Security Market Key Player, Competition Weakness and Strengths from 2022 to 2028",
+      "excerpt": "This study examines the \"Artificial Intelligence-based Security Market\" from a variety of perspectives, including market size, market status, market trends, and forecasts 2022 - 2028. With an examination of each area, the research provides significant ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-security-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-08-12",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-based-security-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-08-12",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-11T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-microsofts-new-azure-fluid-relay-service-now-generally-available.md",
       "title": "Microsoft’s New Azure Fluid Relay Service Now Generally Available",
       "excerpt": "Currently, the Azure Fluid Relay service is available in around 10 Azure regions – half of which are in the US – on a pay-as-you-go basis. More details on pricing are available on the pricing ...",
@@ -1144,58 +1197,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-implementing-ai-youd-better-think-about-security-first.md",
-      "title": "Implementing AI? You'd Better Think About Security First",
-      "excerpt": "While AI has been a game-changer for solving complex business problems, there is a security risk landscape associated with it. Let's explore three areas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/11/implementing-ai-youd-better-think-about-security-first/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/11/implementing-ai-youd-better-think-about-security-first/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f7376dc40469ab26495a8e5/0x0.jpg?format=jpg&crop=6000,4000,x0,y209,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/11/implementing-ai-youd-better-think-about-security-first/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/11/implementing-ai-youd-better-think-about-security-first/amp/",
-      "publishedDateTime": "2022-08-11T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

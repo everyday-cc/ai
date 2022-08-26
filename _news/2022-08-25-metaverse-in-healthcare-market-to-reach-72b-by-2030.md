@@ -44,22 +44,6 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 44
-  - title: "Jobs in the metaverse are disappearing as Google and Facebook slow hiring"
-    excerpt: "USA: Employment in the metaverse is declining, according to workplace research firm Revalio Labs. According to Revlio, new monthly job posti..|News Track"
-    publishedDateTime: 2022-08-21T10:06:00Z
-    webUrl: "https://english.newstracklive.com/news/jobs-in-the-metaverse-are-disappearing-as-google-and-facebook-slow-hiring-sc57-nu355-ta355-1245982-1.html"
-    ampWebUrl: "https://english.newstracklive.com/ampnews/jobs-in-the-metaverse-are-disappearing-as-google-and-facebook-slow-hiring-sc57-nu355-ta355-1245982-1.html"
-    cdnAmpWebUrl: "https://english-newstracklive-com.cdn.ampproject.org/c/s/english.newstracklive.com/ampnews/jobs-in-the-metaverse-are-disappearing-as-google-and-facebook-slow-hiring-sc57-nu355-ta355-1245982-1.html"
-    type: article
-    provider:
-      name: News Track
-      domain: newstracklive.com
-    quality: 43
-    images:
-      - url: "https://media.newstrack.in/amp/uploads/latest-news/politics-news/Aug/21/big_thumb/Screenshot-2022-08-21-152246_6302007ed76aa.png"
-        width: 1798
-        height: 900
-        isCached: true
   - title: "Kura Technologies’ Artificial Intelligence Generated Optics Deliver the Highest Performance for the Future of the Metaverse"
     excerpt: "Kura Technologies, an award-winning developer of the best-in-class augmented reality (AR) smart glasses and platform, today announced that its fully custom and highly-anticipated development kit optics are up and running in the lab with production to start later this year."
     publishedDateTime: 2022-08-24T11:03:00Z

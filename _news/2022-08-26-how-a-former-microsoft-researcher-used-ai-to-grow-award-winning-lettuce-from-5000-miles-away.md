@@ -7,7 +7,7 @@ originalUrl: "https://www.geekwire.com/2022/how-a-former-microsoft-researcher-us
 webUrl: "https://www.geekwire.com/2022/how-a-former-microsoft-researcher-used-ai-to-grow-award-winning-lettuce-from-5000-miles-away/"
 type: article
 quality: 53
-heat: -1
+heat: 63
 published: false
 
 provider:
@@ -23,20 +23,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Enterprise Artificial Intelligence (AI) Market Growing Massively by Ibm, Microsoft, Aws"
-    excerpt: "New Jersey, N.J., Aug 21, 2022 Enterprise AI is a category of enterprise software that leverages advanced artificial intelligence techniques, including machine learning, to drive digital ..."
-    publishedDateTime: 2022-08-21T10:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/enterprise-artificial-intelligence-ai-market-growing-massively-by-ibm-microsoft-aws"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 78
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/f4f04bbf0a33e2251f03a5748650712826f14ff2-2-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
     excerpt: "New Jersey, NJ -- (SBWIRE) -- 08/22/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
     publishedDateTime: 2022-08-22T13:08:00Z

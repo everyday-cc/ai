@@ -1,23 +1,32 @@
 ---
 category: news
 title: "UltraSight Receives CE Mark for Novel Cardiac AI Technology"
-excerpt: "UltraSight, an Israeli-based digital health pioneer transforming cardiac imaging through the power of artificial intelligence, announced it"
-publishedDateTime: 2022-08-25T12:30:00Z
-originalUrl: "https://www.prnewswire.co.uk/news-releases/ultrasight-receives-ce-mark-for-novel-cardiac-ai-technology-873922200.html"
-webUrl: "https://www.prnewswire.co.uk/news-releases/ultrasight-receives-ce-mark-for-novel-cardiac-ai-technology-873922200.html"
+excerpt: "Landmark achievement paves the way for increased patient access to cardiac imaging and optimized care across Europe in 2023BARCELONA, Spain, Aug."
+publishedDateTime: 2022-08-25T12:35:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/ultrasight-receives-ce-mark-for-novel-cardiac-ai-technology-1031705733"
+webUrl: "https://markets.businessinsider.com/news/stocks/ultrasight-receives-ce-mark-for-novel-cardiac-ai-technology-1031705733"
 type: article
-quality: 19
-heat: 19
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: PR Newswire
-  domain: prnewswire.co.uk
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI in Healthcare
   - AI
 
-secured: "P19JoSuetegUIZHk58sUusLdiIReE7n9zD1D1XdzVT4vkX0tOV8GGks2k7WTJxuyk4DOT0uuV2jYIwB7hOa8htAns5ARHPCQM251EUioIMOrMfCb1EQNVEMxxqUOP2r/Ijc94ZuLsWo5MowwpAFM9TofcDpvN3FYNYk6USIUlS1eUOTgLxnK/xcwKRqBZXAAJglCOXhFGZAu0DNU4xuLJNKZASCoubfFIxyMwiu6P1DvmMou7I/w289rX9f290bgHkmAXIVJzM2jj+A6pN4D6PEXeYWof6Mm/tZQ5nDqe6oK10+Wj51/RPxc+sFXwBN4qf1dX1GxRnDyTBoWykgb72TReC0/OnZIMuoopAqtUJk0iqnZtReoiwEvLgaOi4wJCcnd/1bCoCAqGviWIJ0nmv8JSGNwKPCyFtLPeY/OLiUnwZPvIGAoVPrX+j/EZMTTsW84dfvD7+StKCC/uMq/2gxocQs4mSzxKUkPDn7N/J/dsse78b0tXo1ic15rBIDJw4J/pycjNxdWnHhu473TqA==;8ULwlezqgkuFqRYx6M7RHg=="
+images:
+  - url: "https://mma.prnewswire.com/media/1809124/UltraSight_logo_Logo.jpg"
+    width: 400
+    height: 400
+    isCached: true
+
+secured: "FXJI6LuUoXgF3piJKXbOZl4QdsrvQh0EPpk6P3eCX+G8j2nbqKChiG6CpfaKM/TFU7oa+5mV59dlk4ikneco0vu/JYDUimYYAdQK1KywYbF3wgSE3XhRyNriJDw3n1orU/u7emZi3Ee0N0BaBzKprFddVmRlHIvP9mXj3je+039t3sVdjNLbbRKuivRHQXYdmQxB5xQq2dBs4NZ2jlroxC7b8Lnxec0QKlia0Fp5v+xhajvAl0lTqataGx85eEGeGG0Wu6LLE77+ZmeYQuyhAJXRnbdYGb88P1ynculUQdvxVp+j4mnbxS+mtEdByx4oqSZfQdKdkeJLiOEsdJ96Aj7CqpuoD8Qf4iHZWL6s33E=;p9jsjVU3MYmX/GHy7LXNdA=="
 ---
 

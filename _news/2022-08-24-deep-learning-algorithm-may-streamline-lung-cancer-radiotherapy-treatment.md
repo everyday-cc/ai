@@ -1,26 +1,30 @@
 ---
 category: news
 title: "Deep learning algorithm may streamline lung cancer radiotherapy treatment"
-excerpt: "Researchers have developed and validated a deep learning algorithm that can identify and outline ('segment') a non-small cell lung cancer (NSCLC) tumor on a computed tomography (CT) scan within seconds."
-publishedDateTime: 2022-08-24T00:00:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/08/220824152208.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/08/220824152208.htm"
+excerpt: "Lung cancer, the most common cancer worldwide, is targeted with radiation therapy (RT) in nearly one-half of cases. RT planning is a manual, resource-intensive process that can take days to weeks to complete,"
+publishedDateTime: 2022-08-23T22:30:00Z
+originalUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html"
+webUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp"
 type: article
-quality: 63
-heat: -1
-published: false
+quality: 73
+heat: 133
+published: true
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
+
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/lung-scan.jpg"
+    width: 2880
+    height: 1966
+    isCached: true
 
 related:
   - title: "Streamlining lung cancer radiotherapy with Deep Learning"
@@ -98,6 +102,6 @@ related:
         height: 630
         isCached: true
 
-secured: "5gvbgWjDEXw1YDx8ZIvaIgXhn7ZVWa3X1nUoSMLykh68Z1pqfjDpX+5LcMgEwgqCRIRH+P+1+uzbrcWndLzo3OkaU6mKkG0VXBooV4BC9gk3xR1s/aiKytHqNau1PgyNZblUSCp+BB0AfrFZMLytZ/TgwSczvFjr/S5FVQv6zE50//qW83ogdOBeMdprvL4fxpi9OGmrflXWucdF1sEgudFo25e2G5wFiiaIzEihJskfozA7mLasYADzG9p4aT9ijWHixJPtWZwlKNh1KcHbcN0w69+/VIL0xlP/pWL0zgMVSdZTxDG6Ilyf4EsZjDvRgu6yF+OE1gMFMmNBqI2l+TTyFF3Ax/chPCB0h37mn7s=;07E2pllmHtiI2pxcWiowIw=="
+secured: "KPcq/zUfFqbrYI3wbryCe2zq4z1wdl8LjXWreVz6RsPNQvrK8CMLuxITwhkbhBE36fvB8zm9ZGRZyT5hizcgY7tRMjuhpAbKBAjcroxMHN7ajlhxLjswVucdga8qRIo3Uz9VXxKd+7bi6D9LxQg5joboOl4KZkCcPD426lWzuVJIMYipk00QNKITnBOZfEDTI/b7kxVFOF6GirhToeApQJhzncP1UUW6GMzE+PGzf3vo+ntk0HkpPaievsyzjNppwSAi7eAI+RUXKUypEbtSZCzPjlZyJcvjf0n4V+4BrN/4bdUwp77xJ0ghE0VfIh+KI4LIxLso5jVQGG+/gnLxCeeDLmrW1z+4g2sXp6GJo5U=;OVe1Ba9ztxEzNxYDy1N5DQ=="
 ---
 

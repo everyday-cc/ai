@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-06-29-qa-the-investment-case-for-robotics.md",
+      "title": "Q&A: The Investment Case for Robotics",
+      "excerpt": "As robotics and artificial intelligence advance together, more complex tasks can be automated. There are two key areas where we see the next generation of robotics driving change: logistics and ...",
+      "sourceUrl": null,
+      "webUrl": "https://money.usnews.com/financial-advisors/articles/q-a-the-investment-case-for-robotics",
+      "originalUrl": "https://money.usnews.com/financial-advisors/articles/q-a-the-investment-case-for-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T12:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "U.S. News & World Report",
+        "domain": "usnews.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-tesla-stock-split-seen-drawing-ai-investors.md",
       "title": "Tesla Stock Split Seen Drawing AI Investors",
       "excerpt": "Tesla (TSLA)’s planned three-for-one stock split is expected to broaden its investor base, drawing artificial intelligence (AI) buyers. This should happen as the electric vehicle (EV) maker times its AI Day 2 event to generate buzz around its humanoid robot and ‘a few other exciting things.",
@@ -1252,49 +1295,6 @@
       "provider": {
         "name": "Defense World",
         "domain": "defenseworld.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-robots-become-racist-and-sexist-when-programmed-with-common-ai-system-researchers-claim.md",
-      "title": "Robots become racist and sexist when programmed with common AI system, researchers claim",
-      "excerpt": "A ROBOT programmed with a popular artificial intelligence system turned racist and sexist, according to researchers. The robot was found to prefer men to women and white people over people of color.",
-      "sourceUrl": null,
-      "webUrl": "https://www.thesun.co.uk/tech/18974467/racist-sexist-robot-ai-artificial-intelligence/",
-      "originalUrl": "https://www.thesun.co.uk/tech/18974467/racist-sexist-robot-ai-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/06/me-off-plat-racist-robot.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thesun.co.uk/tech/18974467/racist-sexist-robot-ai-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/tech/18974467/racist-sexist-robot-ai-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-06-22T14:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Sun",
-        "domain": "thesun.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

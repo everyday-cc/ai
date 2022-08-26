@@ -2,6 +2,58 @@
   "page": 99,
   "value": [
     {
+      "path": "_news/2022-06-08-chinas-jidu-robo-1-looks-like-its-from-the-future-maybe-it-is.md",
+      "title": "China’s Jidu Robo-1 Looks Like It’s From the Future. Maybe It Is",
+      "excerpt": "The autonomous driving technology for Jidu’s car will be a custom version of Apollo, an open platform developed by Baidu and several partners that dozens of carmakers use in China. Jidu says its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/",
+      "originalUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/629ff1ed853b24d07fae362d/master/pass/JiDU-ROBO-1-Baidu-First-Car-Business.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baidu-jidu-robo-1-autonomous-car/amp",
+      "publishedDateTime": "2022-06-08T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-investing-in-ai-stocks.md",
       "title": "Investing in AI Stocks",
       "excerpt": "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ...",
@@ -1056,58 +1108,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-theres-still-time-to-join-leading-ai-and-data-thought-leaders-on-stage-at-transform-2022.md",
-      "title": "There’s still time to join leading AI and data thought leaders on stage at Transform 2022",
-      "excerpt": "Does your org have an AI and data solution case study to share? There's still time for sponsors to apply to get on stage at Transform 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/07/theres-still-time-to-join-leading-ai-and-data-thought-leaders-on-stage-at-transform-2022/",
-      "originalUrl": "https://venturebeat.com/2022/06/07/theres-still-time-to-join-leading-ai-and-data-thought-leaders-on-stage-at-transform-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/transform-2022-call-for-sponsors.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/07/theres-still-time-to-join-leading-ai-and-data-thought-leaders-on-stage-at-transform-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/07/theres-still-time-to-join-leading-ai-and-data-thought-leaders-on-stage-at-transform-2022/amp/",
-      "publishedDateTime": "2022-06-07T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
       ]
     }
   ],

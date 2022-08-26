@@ -9,8 +9,8 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 144
+published: true
 
 provider:
   name: Wall Street Journal
@@ -33,14 +33,12 @@ related:
   - title: "AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round"
     excerpt: "The company initially announced a $100 million Series C venture investment round led by Andreessen Horowitz in December."
     publishedDateTime: 2022-08-23T12:15:00Z
-    webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
-    ampWebUrl: "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
-    cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
+    webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?tpl=vc"
     type: article
     provider:
       name: Wall Street Journal
       domain: wsj.com
-    quality: 84
+    quality: 64
     images:
       - url: "https://images.wsj.net/im-608499/social"
         width: 1279

@@ -162,6 +162,20 @@ related:
       name: Science Daily
       domain: sciencedaily.com
     quality: 37
+  - title: "AI can detect Parkinson’s from nighttime breathing patterns"
+    excerpt: "Researchers develop an artificial intelligence-based model to detect Parkinson’s disease and track its progression from nocturnal breathing signals."
+    publishedDateTime: 2022-08-26T02:20:00Z
+    webUrl: "https://www.news-medical.net/news/20220825/AI-can-detect-Parkinsone28099s-from-nighttime-breathing-patterns.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 37
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_723435_16614783056225644.jpg"
+        width: 1000
+        height: 667
+        isCached: true
   - title: "Artificial intelligence model can detect Parkinson’s from breathing patterns"
     excerpt: "Now, Dina Katabi, the Thuan (1990) and Nicole Pham Professor in the Department of Electrical Engineering and Computer Science (EECS) at MIT and principal investigator at MIT Jameel Clinic, and her team have developed an artificial intelligence model that ..."
     publishedDateTime: 2022-08-25T15:14:00Z

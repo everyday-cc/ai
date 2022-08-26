@@ -526,25 +526,43 @@
     {
       "path": "_news/2022-08-19-natural-language-processing-market-nlp-demands-key-players-size-growth-trends-technology-and-forecasts-to-2027-reportsnreports.md",
       "title": "Natural Language Processing Market (NLP) Demands, Key Players, Size, Growth, Trends, Technology and Forecasts to 2027 - ReportsnReports",
-      "excerpt": "PUNE, India, Aug. 19, 2022 /PRNewswire/ -- ReportsnReports added Global Natural Language Processing (NLP) Market Report to its research database with its 336 no. of research pages report.",
+      "excerpt": "ReportsnReports added Global Natural Language Processing (NLP) Market Report to its research database with its 336 no. of research pages report. The Natural Language Processing (NLP) Market size to grow from USD 15.",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-market-nlp-demands-key-players-size-growth-trends-technology-and-forecasts-to-2027-reportsnreports-807719247.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/natural-language-processing-market-nlp-demands-key-players-size-growth-trends-technology-and-forecasts-to-2027-reportsnreports-807719247.html",
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-nlp-demands-key-players-size-growth-trends-technology-and-forecasts-to-2027---reportsnreports-2022-08-19",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-market-nlp-demands-key-players-size-growth-trends-technology-and-forecasts-to-2027---reportsnreports-2022-08-19",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T01:31:00-07:00",
+      "publishedDateTime": "2022-08-19T01:30:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },

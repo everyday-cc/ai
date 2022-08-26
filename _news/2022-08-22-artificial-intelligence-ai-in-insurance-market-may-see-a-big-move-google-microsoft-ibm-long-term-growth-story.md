@@ -20,20 +20,6 @@ topics:
   - Microsoft AI
 
 related:
-  - title: "Enterprise Artificial Intelligence (AI) Market Growing Massively by Ibm, Microsoft, Aws"
-    excerpt: "New Jersey, N.J., Aug 21, 2022 Enterprise AI is a category of enterprise software that leverages advanced artificial intelligence techniques, including machine learning, to drive digital ..."
-    publishedDateTime: 2022-08-21T10:24:00Z
-    webUrl: "https://www.digitaljournal.com/pr/enterprise-artificial-intelligence-ai-market-growing-massively-by-ibm-microsoft-aws"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 78
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/f4f04bbf0a33e2251f03a5748650712826f14ff2-2-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "How a former Microsoft researcher used AI to grow award-winning lettuce from 5,000 miles away"
     excerpt: "It’s pretty impressive to grow award-winning lettuce in a greenhouse competition against 42 teams from nearly two dozens countries. It’s even more remarkable when you do it from 5,000 miles… Read More"
     publishedDateTime: 2022-08-25T21:43:00Z

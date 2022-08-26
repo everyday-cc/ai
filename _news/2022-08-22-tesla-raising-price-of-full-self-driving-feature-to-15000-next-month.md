@@ -9,7 +9,7 @@ ampWebUrl: "https://www.marketwatch.com/amp/story/tesla-raising-price-of-full-se
 cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442"
 type: article
 quality: 103
-heat: 423
+heat: 413
 published: true
 
 provider:
@@ -317,20 +317,6 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2022/02/tesla-g25a581eab_1280-e1645184278103.jpg"
         width: 1276
         height: 716
-        isCached: true
-  - title: "People are now testing Tesla’s ‘full self-driving’ on real kids"
-    excerpt: "Carmine Cupani wanted to set the record straight. So he asked his young son to stand in the path of his Tesla as it sped through a parking lot."
-    publishedDateTime: 2022-08-21T09:02:00Z
-    webUrl: "https://wtop.com/business-finance/2022/08/people-are-now-testing-teslas-full-self-driving-on-real-kids/"
-    type: article
-    provider:
-      name: WTOP News
-      domain: wtop.com
-    quality: 39
-    images:
-      - url: "https://wtop.com/wp-content/uploads/2022/08/hypatia-h_4fd547b46a83e3dc53c4381d431c0c5c-h_f8a961dbfb54f5a6e7ed7fba093894c9-300.jpg"
-        width: 2000
-        height: 1333
         isCached: true
   - title: "Man from NC test Tesla's 'full self-driving' on a real kid"
     excerpt: "A North Carolina resident sets out to refute a widely circulated video of a Tesla with the company's \"full self-driving\" beta software."

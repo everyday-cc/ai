@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thehindu.com/sci-tech/technology/explained-delhi-polices
 cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/explained-delhi-polices-use-of-facial-recognition-technology/article65793897.ece/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 615
     height: 383
     isCached: true
-
-related:
-  - title: "The Low Threshold for Face Recognition in New Delhi"
-    excerpt: "Police in India's capital say they only require an 80 percent accuracy rate for matches, raising new alarm bells for civil liberty advocates."
-    publishedDateTime: 2022-08-21T11:00:00Z
-    webUrl: "https://www.wired.com/story/delhi-police-facial-recognition/"
-    type: article
-    provider:
-      name: Wired
-      domain: wired.com
-    quality: 49
 
 secured: "QFuLhe6Hheu+2dyeML0wvtNbVis3kh+DOIQR/Mp7J19hm3cO6bbKW8W/SNMT+85PyEo8KSjH2ft+PTWhEv/yL0vc4F++uEqD5BlXzP+LOCdPKW+QPbhh1qywU2pr9b/hdAIYLHO/unACniHlv2FSp/yHiW4Qmg2/+EYgBoS1mK8x5pOzubEa9dqkzYxtFMnBp10jGJOJ3UjHmQ3BG73Y3m+CZtPf+IeR9undIYN08bWb+A3i1CMH7aZiAVfOEBTOmGlHWhTRw7rWZXhMELhOwYVIUfReg0TaohBD/yQ8Wl9exGqFvelulFFbRJNfFZevkuqRO46hvRBOE6P4kB3RfDEUpO5oMK1UWb3+2defroKXK0gsOhdHlVV52xSIqgFQfom52lvXEhilkLjIHlzD56zTEGpzX9TO2dG8PR+lED0l/HyM/eAFniCUus0Ogk9fcgtnb2h+5IS+EEWLWTCW+J812h4iNrWZd8djjUIxPlOggR02w4seo3m+VXU+2CJ3TmDCrXJ0CGYPxv4fT77XGA==;YGXvlFwRVO59MmuvVfaTYA=="
 ---
