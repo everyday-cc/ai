@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/revsure-ai-raises-3-5-million-to-tra
 webUrl: "https://analyticsindiamag.com/revsure-ai-raises-3-5-million-to-transform-b2b-pipeline-readiness/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -16,6 +16,33 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "SaaS solutions provider RevSure.AI raises $3.5 mn in seed funding"
+    excerpt: "RevSure.AI announced on Wednesday that it has raised $3.5 million in seed funding and has launched out of stealth mode. The investment was led by Innovation Endeavors, with participation from angel investors Katrin Ribant,"
+    publishedDateTime: 2022-08-24T08:34:00Z
+    webUrl: "https://www.business-standard.com/article/companies/saas-solutions-provider-revsure-ai-raises-3-5-mn-in-seed-funding-122082400584_1.html"
+    ampWebUrl: "https://wap.business-standard.com/article-amp/companies/saas-solutions-provider-revsure-ai-raises-3-5-mn-in-seed-funding-122082400584_1.html"
+    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/saas-solutions-provider-revsure-ai-raises-3-5-mn-in-seed-funding-122082400584_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 57
+    images:
+      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-08/24/full/1661329340-8151.jpg"
+        width: 620
+        height: 464
+        isCached: true
+  - title: "Inworld AI Closes $50M Series A Funding"
+    excerpt: "Inworld AI, a San Francisco, CA-based developer platform for creating AI-driven virtual characters, raised $50M in Series A funding. The round was led by Section 32 and Intel Capital with participation from Founders Fund, Accelerator Investments LLC ..."
+    publishedDateTime: 2022-08-24T07:02:00Z
+    webUrl: "https://www.finsmes.com/2022/08/inworld-ai-closes-50m-series-a-funding.html"
+    type: article
+    provider:
+      name: finsmes.com
+      domain: finsmes.com
+    quality: 17
 
 secured: "uBfs8d8jhUtfQw+ioFZpp2tgl6kAMTtj+V3+8mO1QSVGAU55OlqSdE5Rm9IIEbgIRp78WYSCubgBjLsiftbrvRXzTkmYt2MPOPuNlfTLX7pxin4nz6QPS5VXOyKqhoLU/4gRSvS81kAVDsXaGMYxdPk+3g/QmqeN1Fn3lOTfSMTKliJisFr9u9OmOftwg1NXBR6Qc+4oGfTxK5huFQb5+bxmt/ETPAGazTvm27BFaYcRoLmMez0YsVb8Q53aI230d8neajuCYn4RDtrGJ3OOYygUDRy79ml24864rX5Br6T3qii7faOVsQoY1Jn7iqsp1uq+2vcTLaGFbABqwr6F0Ty5sc9NFBH4nEFV6BSgyw8ZacmbNsOVqQDGdMDU4GYo4MIvgbNI3IbCATH0dm/pnU/5G1+EYVec827M7zJS+1ESuqtCxJH0K5IQ6cQVUEah6J+Vwz4ykK6k8bHlbMSqg2ExJIW2/JALx4w9sp5BMFO1teXUkn4Lj6NNgKGKCNDa5TuNKBblAhuXYhTtsqjihw==;Q7oOKHddrrXwtZBjVkSJUg=="
 ---

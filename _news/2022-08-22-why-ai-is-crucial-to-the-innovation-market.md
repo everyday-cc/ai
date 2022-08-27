@@ -38,15 +38,6 @@ related:
         width: 1843
         height: 1158
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market is Rising Exponentially"
-    excerpt: "Data Bridge Market Research analyses that the artificial intelligence in healthcare market is expected to undergo a CAGR of 51.37% during the forecast period of 2022-2029. This indicates that the market value,"
-    publishedDateTime: 2022-08-22T07:53:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-artificial-intelligence-healthcare-market-rising-exponentially-growth-rate-/2022/08/22/9659634.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
   - title: "Govt keen to use AI in e-Marketplace: Goyal"
     excerpt: "Union Minister Piyush Goyal on Tuesday said the Centre is keen to use Artificial Intelligence in the Government e-Marketplace procurement process to make it more effective and sought industry cooperation to achieve this."
     publishedDateTime: 2022-08-23T18:40:00Z

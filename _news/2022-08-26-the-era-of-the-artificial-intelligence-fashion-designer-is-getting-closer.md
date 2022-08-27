@@ -23,14 +23,14 @@ related:
   - title: "New Study Highlights Opportunities for Artificial Emotional Intelligence"
     excerpt: "Emotion AI, also known as artificial emotional intelligence, is a subset of AI that reacts, simulates, quantifies, and comprehends human emotions. Affective computing is computing"
     publishedDateTime: 2022-08-24T22:20:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence?amp"
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence?amp"
     type: article
     provider:
       name: Psychology Today
       domain: psychologytoday.com
-    quality: 41
+    quality: 43
     images:
       - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-08/pic9722.jpg?itok=l-EICJdi"
         width: 1528

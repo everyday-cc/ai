@@ -19,20 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Global Artificial Intelligence (A.I.) In Beauty And Cosmetics Market Worth US$ 13.34 Billion By 2030-Insightace Analytic"
-    excerpt: "In Beauty and Cosmetics Market INFO. Global Artificial Intelligence (AI) In Beauty and Cosmetics Market segment. Global"
-    publishedDateTime: 2022-08-22T07:53:00Z
-    webUrl: "https://menafn.com/1104733066/Global-Artificial-Intelligence-AI-In-Beauty-And-Cosmetics-Market-Worth-US-1334-Billion-By-2030-Insightace-Analytic"
+  - title: "Europe Robotic Lawn Mower Market to Reach $1.25 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The Europe robotic lawn mower market size reached US$ 617 Million in 2021. Looking forward, the publisher expects the market to reach US$ 1,256 Million by 2027, exhibiting a CAGR of 12.58% during 2021-2027."
+    publishedDateTime: 2022-08-22T11:24:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-22-europe-robotic-lawn-mower-market-to-reach-125-billion-by-2027-researchandmarketscom"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 12
-    images:
-      - url: "https://menafn.com/updates/pr/2022-08/22/EP_07aeaimage_story.jpeg"
-        width: 600
-        height: 314
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 10
 
 secured: "AEG3rwE+XaVl+w6MczvMwN5Fz5D+Brjx95UPd0Cu13fyjn3CKIwgOBNZertMDdM+2yBMhRpxhw34rp8tcOLxyteTkBZB9JYufTn/7RiUWcpMgBERsJq+oStoLbvdFe0z7DKsVGXAUEvSMw0LXoq1T+X4gVXbMOOf6I/MbQZOYLiYjc0qZrUPLHREr8RPz/FNNuGogrCeOq8v5yYBFREjiQUOUCfwVYsJF8ARlKZTZ6IznCCzYlIvIL2WMV+gSL+awt1Z5i24ag8vFS9m8I/DM2QTUjsxNkQyhbkG+QE3k4tDg/b+qz2NueOSDf5wMER2M3Ua6+92NGKwu5Sv8GI1xLdzkyxTj6HHcJBLVrrf548=;O/9VLO24+raGRo22y5rcIQ=="
 ---

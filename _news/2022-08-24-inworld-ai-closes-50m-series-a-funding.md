@@ -18,20 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "GrayMatter Robotics Raises $20M in Series A Funding"
-    excerpt: "GrayMatter Robotics, an artificial intelligence robotics solutions company, announced last week it raised $20 million in Series A investment led by Bow Capital and joined by B Capital Group, Calibrate Ventures,"
-    publishedDateTime: 2022-08-22T07:05:00Z
-    webUrl: "https://labusinessjournal.com/technology/graymatter-robotics-raises-20m-in-series-a-funding/"
-    type: article
-    provider:
-      name: Los Angeles Business Journal
-      domain: labusinessjournal.com
-    quality: 69
-    images:
-      - url: "https://d3evu7qlt2vui6.cloudfront.net/wp-content/uploads/2022/08/PG04_GRAYMATTER_0822_scansand-scaled-e1660932740192.jpeg"
-        width: 1162
-        height: 1200
-        isCached: true
   - title: "SaaS solutions provider RevSure.AI raises $3.5 mn in seed funding"
     excerpt: "RevSure.AI announced on Wednesday that it has raised $3.5 million in seed funding and has launched out of stealth mode. The investment was led by Innovation Endeavors, with participation from angel investors Katrin Ribant,"
     publishedDateTime: 2022-08-24T08:34:00Z
@@ -48,15 +34,15 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "BUET graduate’s robotics startup raises $20M in Series A investment"
-    excerpt: "Co-founded by BUET graduate Ariyan Kabir, the robotics startup GrayMatter Robotics recently raised a $20M Series A investment led by Bow Capital."
-    publishedDateTime: 2022-08-25T18:02:00Z
-    webUrl: "https://www.thedailystar.net/tech-startup/news/buet-graduates-robotics-startup-raises-20m-series-investment-3103351"
+  - title: "RevSure.AI Raises $3.5 Million to Transform B2B Pipeline Readiness"
+    excerpt: "RevSure.AI, an AI-fueled startup has raised $3.5 million in the seed round to transform B2B pipeline readiness. The round was led by Innovation Endeavors, along with the participation of angel investors Katrin Ribant,"
+    publishedDateTime: 2022-08-24T12:27:00Z
+    webUrl: "https://analyticsindiamag.com/revsure-ai-raises-3-5-million-to-transform-b2b-pipeline-readiness/"
     type: article
     provider:
-      name: The Daily Star
-      domain: thedailystar.net
-    quality: 49
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 17
 
 secured: "hRdGPyqFSyoMuU0yMFZsw4qM8xWDykjpIanIKOGF0MC/3H78VomgqMeTj9mOsuwsoHMtHN7y7GCKcoDwFPFC0o+WSS2d0AMwMhkqkB+6KSeNYUQU14J4xgK4vQ7+0Ua0pkqxpWY45H5FW8nn2tGNCKILHrxGLhWKv560AymSb+89Y4tsuKvXIPtNNmnD/BMQi1XxIg0LT7sGiEYPcWqqaM1KrWFKOGMPf51hf2TWJvhAJaSHdxfgTZVVLAnbiLhZYIwdKhxN8Xk5vEaPe4pRYEmdk0QsBRgumqtfSFznhsG/EWmwB98H+A4lSaoiITcKVb38Fm6fan01n+EZpp3FIZyuxWx2IBFPFH2qZeZblTM=;Ldu61b1aN2/RWefCQIuLMQ=="
 ---

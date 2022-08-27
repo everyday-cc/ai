@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-23T15:16:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c"
 webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c"
 type: article
-quality: 46
+quality: 29
 heat: -1
 published: false
 
@@ -15,9 +15,8 @@ provider:
   domain: apnews.com
 
 topics:
-  - AI Hardware
-  - AI
   - Machine Learning
+  - AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -80,6 +79,6 @@ related:
       domain: design-reuse.com
     quality: 34
 
-secured: "/XxuMLtoD5ZDa6/ljPTDaVUdOSYCH5d7zwap9Aetp4UfWaIeMRcpy2xf/+WOX2YIJHKh+FTXIdaJqEhIU4YzPdsW8u4POC1uLdnXVE8X0/6Z8bHrgPejjHbycTXXhktMnwSnQmMw5I6w+rnaUfAE0t0r1h2q1YuOVqnLNKZJQHzLPrmWTGviX9wWnq70uI0o/ldAJvNmOMK7nclTDPpHKSNvrdzWeZtScdMU2Fx5nEnqXpFGwfsCTLJjQEhCRrj55TrgWWXSbnVrup7s290U1YNwGi5/XLsMa5vxJQZvx3urhYK4K3+5XS5NOd6E3OeJZjE6PcwNL3GdnoQyIyvXoHPpBFpVx9zTi6HF/C+CHf0=;NvtabymRH+gddsjiD5GwqA=="
+secured: "PI9unWVC6kJqXWHPmNcogyqQC9TJtUtVskPh+NkkvR51kB+SIS3A7xoxsnC9CwSMT2yhvpDW5tcirsD5TpdzwKoLc53uKmL4jJAbJF8xP15IobFyb6TKdfORlI6Tzm4fD8goRLxR9b6hZ0R3A+60mTh0vXMwKgRwx1VlUgizrU74QgvuoO7f4C2h3Cxp4t2mqRPM9r2wxab9/Z4ot564Q0syZCdzin8oG733KBWp2QVOxQR2iBX2D6TupF657/WNrvQCGHvSmg23il/KQotrjiD+y6QdsQD2f7Lwfv3ZL9HcbmMrRY7wBEsxN0ZCwfvIjCzGCkydBtxkhzWXJIOlmA2NzglMjR1SBpZx7CG8W7A=;sB8Jo/xD4oFCqn30P54dVw=="
 ---
 

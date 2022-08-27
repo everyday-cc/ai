@@ -1,28 +1,22 @@
 ---
 category: news
 title: "Industry Leader Adopts CIM Platform as its Enterprise Integrity Management Solution for Global Pipeline Operations"
-excerpt: "(“OneBridge”) to adopt Cognitive Integrity Management™ (“CIM”) platform and software-as-a-service products for management of its pipeline assets. Headquartered in the U.S.A., the Client is one of the global oil and gas industry leaders and conducts business in the U."
-publishedDateTime: 2022-08-23T11:31:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/technology-science-software-oil-and-gas-industry-c5ac845ab4efb487bfcff16249f70339"
-webUrl: "https://apnews.com/press-release/accesswire/technology-science-software-oil-and-gas-industry-c5ac845ab4efb487bfcff16249f70339"
+excerpt: "(\" OneBridge \") to adopt Cognitive Integrity Management™ (\" CIM \") platform and software-as-a-service products for management of its pipeline assets. Headquartered in the U.S.A., the Client is one of the global oil and gas industry leaders and conducts business in the U."
+publishedDateTime: 2022-08-23T11:30:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/accwirecq-2022-8-23-industry-leader-adopts-cim-platform-as-its-enterprise-integrity-management-solution-for-global-pipeline-operations"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/accwirecq-2022-8-23-industry-leader-adopts-cim-platform-as-its-enterprise-integrity-management-solution-for-global-pipeline-operations"
 type: article
-quality: 2
-heat: 2
+quality: 0
+heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - Microsoft AI
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Cloud talent leaders join forces to deliver integrated global recruitment solutions"
@@ -34,7 +28,16 @@ related:
       name: responsesource.com
       domain: responsesource.com
     quality: 0
+  - title: "Focus Cloud acquires Cognitive Group to form new global leader in cloud recruitment"
+    excerpt: "Leading European IT recruitment group, Focus Cloud, has acquired specialist Microsoft recruitment firm, Cognitive Group. Together, they have formed a new global brand, the Focus Cloud Group, which will provide global recruitment solutions across major cloud platforms Microsoft,"
+    publishedDateTime: 2022-08-23T07:10:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-focus-cloud-acquires-cognitive-group-form-new-global-/2022/08/23/9660330.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
-secured: "fw82A4VlNKkWAC8JxGqZgqij+r7U1synZvtD3dW180CSzhVd5hb3WCHNhD680+KT1dsdzoVam9UZUEaYFnXGYHgqulztMJiu7XtJU0h+i+7rK9KpUKd55iGs8OwpWbjIZwiymfZK1VKvJQ5SouSo6GmAUz0uj5mKh6zLV3NaXx24mh9tzlbUwsg1ZHuLeI6XFDhDmpAenUxCg7K+RM2jSlq9KhtCeZFRT/ggki1Re6qdUQGKg6tg70SSm2HdVyEBYtfdK7a6Tz8TX0m5J3TDz73w0JqxPzkhfQ7im/s24RuQMD7mqDtR3yvKbfEIKDudCpQa8+o1kEWfeyqaNN+2EUtS4KjJGl6UYw5tbOgKxqs=;njgNTlaV3UcvtXL8ef5OZA=="
+secured: "1x0b4aMZRvrYmORMU/UQnqZHHHzy/knJHdD8nj2GL+D4KpbUdBm9bSQIufMSZVe35rcePLNAAXX31fDKuHIaI9kYHovchVnZdRMAQIgocRPhkU894HWPxEEfVY9I3jd9R+PMaJkfEloAP9NNK2cfcslCr9n3ncdt6cQIVrCm9w0ncaMdvCLCthZglhQ26egg+W7CJ4wpOX+RMpUO7j3Ptxzb+FL+EOcNd4Z1RLDX7lnBrczfuVODUEW45x2otyu+Az9BVHTuUrxhAS8/YcCuZsJ5FtLnKTyPzkK1S0M65F+i5C9Qtpzk22PAg2oZrStI2wUIyxesULD7dJQv8m1V92z9iluTlcxTSddJQQJjbdE=;nOVH3nkj+cERbOznAOefWg=="
 ---
 

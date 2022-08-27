@@ -2,6 +2,49 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-20-microsoft-teams-will-turn-you-into-a-language-whizz-with-zero-effort.md",
+      "title": "Microsoft Teams will turn you into a language whizz with zero effort",
+      "excerpt": "Ploughing through Microsoft Teams using your school-level foreign languages may soon be a thing of the past thanks to a new update. The video conferencing tool has announced another upgrade to its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/news/microsoft-teams-will-turn-you-into-a-language-whizz-with-zero-effort",
+      "originalUrl": "https://www.techradar.com/news/microsoft-teams-will-turn-you-into-a-language-whizz-with-zero-effort",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T11:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-20-inflation-flat-for-the-first-time-in-decades-forbes-ai-newsletter-august-13th.md",
       "title": "Inflation Flat For The First Time In Decades: Forbes AI Newsletter - August 13th",
       "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
@@ -1119,49 +1162,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-self-driving-cars-get-green-light-to-hit-roads-next-year-with-100million-pledge-to-speed-up-rollout.md",
-      "title": "Self-driving cars get green light to hit roads next year with £100million pledge to speed up rollout",
-      "excerpt": "Self-driving vehicles could be on British roads as early as next year, the Government has said. Ministers want to pass legislation so that some cars, coaches and lorries with self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-11125513/Self-driving-cars-green-light-hit-roads-year-100million-pledge-speed-rollout.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-11125513/Self-driving-cars-green-light-hit-roads-year-100million-pledge-speed-rollout.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/08/18/23/61524377-0-image-a-13_1660863054852.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-11125513/amp/Self-driving-cars-green-light-hit-roads-year-100million-pledge-speed-rollout.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11125513/amp/Self-driving-cars-green-light-hit-roads-year-100million-pledge-speed-rollout.html",
-      "publishedDateTime": "2022-08-18T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

@@ -202,38 +202,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Elon Musk announces a price hike for Tesla's self-driving system. Check here"
-    excerpt: "Tesla Chief Elon Musk took to Twitter to announce that the price of Tesla's Full Self-Driving System (FSD) will increase to $15,000 in North America. Musk informed that the price increase would be in effect from September 5."
-    publishedDateTime: 2022-08-22T07:09:00Z
-    webUrl: "https://auto.hindustantimes.com/auto/electric-vehicles/elon-musk-announces-a-price-hike-for-tesla-s-self-driving-system-check-here-41661145166030.html"
-    ampWebUrl: "https://auto.hindustantimes.com/auto/electric-vehicles/elon-musk-announces-a-price-hike-for-tesla-s-self-driving-system-check-here/amp-41661145166030.html"
-    cdnAmpWebUrl: "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/electric-vehicles/elon-musk-announces-a-price-hike-for-tesla-s-self-driving-system-check-here/amp-41661145166030.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 56
-    images:
-      - url: "https://images.hindustantimes.com/auto/img/2022/08/22/1600x900/AFP_9L8894_1629439212600_1661145332809_1661145332809.jpg"
-        width: 1600
-        height: 900
-        isCached: true
-  - title: "Elon Musk hikes Tesla's self-driving system price as US probes its safety woes"
-    excerpt: "The second hike in the full-self driving system price in a year comes at a time when Tesla has come under scrutiny from the US auto-safety regulators over its in-camera systems as part of an investigation whether the company's automated-driving technology is defective."
-    publishedDateTime: 2022-08-22T08:34:00Z
-    webUrl: "https://www.hindustantimes.com/car-bike/elon-musk-hikes-tesla-s-self-driving-system-price-as-us-probes-its-safety-woes-101661156335543.html"
-    ampWebUrl: "https://www.hindustantimes.com/car-bike/elon-musk-hikes-tesla-s-self-driving-system-price-as-us-probes-its-safety-woes-101661156335543-amp.html"
-    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/car-bike/elon-musk-hikes-tesla-s-self-driving-system-price-as-us-probes-its-safety-woes-101661156335543-amp.html"
-    type: article
-    provider:
-      name: Hindustan Times
-      domain: hindustantimes.com
-    quality: 55
-    images:
-      - url: "https://images.hindustantimes.com/img/2022/08/22/1600x900/Elon_Musk_1661156439232_1661156439483_1661156439483.JPG"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Musk says Tesla raising 'Full Self-Driving' price to $15,000"
     excerpt: "Driving,' or FSD, has been criticized because the features require active supervision and don’t make its vehicles autonomous."
     publishedDateTime: 2022-08-22T10:30:00Z
@@ -390,15 +358,6 @@ related:
     provider:
       name: TweakTown
       domain: tweaktown.com
-    quality: 19
-  - title: "Tesla's Full Self-Driving System will soon cost $15,000 USD."
-    excerpt: "Tesla, by way of Elon Musk has stated that anyone interested in purchasing the Full Potential for Autonomous Driving option for their Tesla would soon have to spend"
-    publishedDateTime: 2022-08-22T07:19:00Z
-    webUrl: "https://www.guru3d.com/news-story/teslas-full-self-driving-system-will-soon-cost-15000-usd.html"
-    type: article
-    provider:
-      name: Guru3D.com
-      domain: guru3d.com
     quality: 19
   - title: "Tesla wants anti-self-driving car video taken down"
     excerpt: "Tesla sent a cease-and-desist letter to an advocacy group critical of self-driving vehicles after it posted a video showing a Tesla car running over a child-sized mannequin."

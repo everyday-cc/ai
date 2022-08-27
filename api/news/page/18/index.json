@@ -2,6 +2,49 @@
   "page": 18,
   "value": [
     {
+      "path": "_news/2022-08-10-baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities.md",
+      "title": "Baidu rolls out driverless taxi service in two Chinese cities",
+      "excerpt": "Chinese autonomous vehicle maker launches commercial driverless robotaxi services in Wuhan and Chongqing this week, when the government has released its first draft guidelines on the deployment of self-driving vehicles in public transport.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities/",
+      "originalUrl": "https://www.zdnet.com/article/baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities/",
+      "publishedDateTime": "2022-08-10T01:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-self-driving-taxi-market-is-going-to-boom-easymile-waymo-navya.md",
       "title": "Self Driving Taxi Market is Going to Boom | EasyMile, Waymo, NAVYA",
       "excerpt": "Worldwide Self Driving Taxi Market In-depth Research Report 2021, Forecast to 2026 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities ...",
@@ -1110,41 +1153,6 @@
       "topics": [
         "Facebook AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-artificial-intelligence-market-worth-4070-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
-      "title": "Artificial Intelligence Market Worth $407.0 Billion By 2027 - Exclusive Report by MarketsandMarkets",
-      "excerpt": "Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.2% during the forecast period, to reach USD 407.0",
-      "sourceUrl": null,
-      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56765242-artificial-intelligence-market-worth-dollar-407-0-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm",
-      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-08/56765242-artificial-intelligence-market-worth-dollar-407-0-billion-by-2027-exclusive-report-by-marketsandmarkets-008.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T08:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Finanznachrichten",
-        "domain": "finanznachrichten.de",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
