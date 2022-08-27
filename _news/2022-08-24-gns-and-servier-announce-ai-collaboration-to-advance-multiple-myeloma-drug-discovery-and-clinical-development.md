@@ -94,20 +94,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "Early adopters are doubling down on AI"
-    excerpt: "Although 39 per cent of the 950 companies analysed in a recent Dataiku-sponsored IDC InfoBrief said they were using AI during 2021, that percentage was the same as during 2020 – suggesting that the technology’s growth has stalled."
-    publishedDateTime: 2022-08-23T03:11:00Z
-    webUrl: "https://ia.acs.org.au/article/2022/early-adopters-are-doubling-down-on-ai.html"
-    type: article
-    provider:
-      name: ia.acs
-      domain: acs.org.au
-    quality: 37
-    images:
-      - url: "https://ia.acs.org.au/content/dam/ia/article/images/2022/ai%20in%20business.jpg"
-        width: 1000
-        height: 561
-        isCached: true
   - title: "Inworld AI raises $50M for its AI-powered, no-code virtual character development studio"
     excerpt: "The round adds to a hefty $20 million seed funding round announced in March, bringing Inworld AI’s total amount raised to $70 million. Inworld AI, which is officially known as Theai Inc., is the creator of a unique platform that allows developers,"
     publishedDateTime: 2022-08-23T13:00:00Z
@@ -122,6 +108,15 @@ related:
         width: 1030
         height: 562
         isCached: true
+  - title: "Human-level AI is a giant risk. Why are we entrusting its development to tech CEOs?"
+    excerpt: "But the plan of cutting-edge tech entrepreneurs is now to build way more powerful human-level AI, which will have much larger effects on society. These effects could, in theory, be very positive: automating intelligence could for example release us from work that we prefer not to do."
+    publishedDateTime: 2022-08-27T15:25:00Z
+    webUrl: "https://www.salon.com/2022/08/27/human-level-ai-is-a-giant-risk-why-are-we-entrusting-its-development-to-tech-ceos/"
+    type: article
+    provider:
+      name: Salon
+      domain: salon.com
+    quality: 13
 
 secured: "VlIF0m/JLXh61QRG/+m6rW5SRXHeXqZLmxX4S9ziapyRTYBF84F0p+qjO/C2jnKfusLFCG4JLSlE3h7BeF7E9Nrcv0cAoLg4m7pF1NeCNNJcxfl/ExhcfuwvSyK3ye1x1DbTOoVIktaBe5GWSsNxt7ue7yEh1mlSNEHoYzwzQOVYmV3xY/dbeul1pHUquYsrwKOiDWbWgXHROL7JoFITpVahlPHUdi7xvYraSJ5FEAROqAYYnW+UVDzWsMh/EXR9k9QVjhWzlqi4wIsNmAoUtYLHpKQOvBTq00PI+QaXkcWBv8m+E/4ZA5+u4Qm03snTepwhZ2//fEIeUIhfoaErUy0OTHpmeYMNB0hZF0ZphyacRJ0xihEjdwFrUMDZ1Bgg2OYmH0jdE7LmJV/C9pP/fzc390jEhMw5R1ElppLeQnyTIqa2lKsmQMKAhzkK67jLQlxqfBbK6BIB4PHNtJN43EUxOnaMqnmLKAj/uD80IxYV1Y7imHgNQN/HYlcZqBfaUpel+7hVcR61GE3EP8eccQ==;BJIjNDHt6zdBi0/cmYqGEg=="
 ---

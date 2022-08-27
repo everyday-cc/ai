@@ -71,22 +71,6 @@ related:
         width: 620
         height: 405
         isCached: true
-  - title: "Ex-Apple Engineer Admits To Stealing Trade Secrets While Working On Self-Driving Car Project"
-    excerpt: "The former hardware engineer was arrested at the San Jose International Airport in 2018 while he was trying to leave the United States."
-    publishedDateTime: 2022-08-23T04:13:00Z
-    webUrl: "https://www.ibtimes.com/ex-apple-engineer-admits-stealing-trade-secrets-while-working-self-driving-car-project-3604629"
-    ampWebUrl: "https://www.ibtimes.com/ex-apple-engineer-admits-stealing-trade-secrets-while-working-self-driving-car-project-3604629?amp=1"
-    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/ex-apple-engineer-admits-stealing-trade-secrets-while-working-self-driving-car-project-3604629?amp=1"
-    type: article
-    provider:
-      name: International Business Times
-      domain: ibtimes.com
-    quality: 33
-    images:
-      - url: "https://d.ibtimes.com/en/full/3804069/illustration-shows-apple-logo.jpg"
-        width: 1200
-        height: 813
-        isCached: true
   - title: "How Self-Driving Cars Will Change the Roads"
     excerpt: "Are self-driving cars coming to a dealership near you? Here’s what you need to know about this tech and what it means for the future."
     publishedDateTime: 2022-08-25T16:03:00Z

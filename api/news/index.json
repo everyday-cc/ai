@@ -107,6 +107,48 @@
       ]
     },
     {
+      "path": "_news/2022-08-27-ai-tool-to-track-vascular-inflammation-in-covid-19-patients.md",
+      "title": "AI tool to track vascular inflammation in Covid-19 patients",
+      "excerpt": "The study constructed a new imaging technology based on AI that allows us to detect the degree of vascular inflammation caused by Covid-19. Those patients, who do develop this inflammation in their arteries due to Covid-19, have up to eight times higher ...",
+      "sourceUrl": null,
+      "webUrl": "https://indianexpress.com/article/lifestyle/health-specials/ai-vascular-inflammation-covid-19-patients-8115182/",
+      "originalUrl": "https://indianexpress.com/article/lifestyle/health-specials/ai-vascular-inflammation-covid-19-patients-8115182/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.indianexpress.com/2022/08/charis.jpg",
+          "width": 1200,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indianexpress.com/article/lifestyle/health-specials/ai-vascular-inflammation-covid-19-patients-8115182/lite/",
+      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/lifestyle/health-specials/ai-vascular-inflammation-covid-19-patients-8115182/lite/",
+      "publishedDateTime": "2022-08-27T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Indian Express",
+        "domain": "indianexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-27-analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine.md",
       "title": "Analytics, AI and robotics help MLB teams get a step closer to a perfect pitching machine",
       "excerpt": "Advances in AI, stat tracking, advanced metrics and robotics could fit together nicely for a proper 21st-century twist on a pitching machine.",
@@ -115,7 +157,7 @@
       "originalUrl": "https://techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 120,
+      "heat": 121,
       "tags": null,
       "images": [
         {
@@ -1173,58 +1215,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-build-a-multi-lingual-document-translation-workflow-with-domain-specific-and-language-specific-customization.md",
-      "title": "Build a multi-lingual document translation workflow with domain-specific and language-specific customization",
-      "excerpt": "In the digital world, providing information in a local language isn’t novel, but it can be a tedious and expensive task. Advancements in machine learning (ML) and natural language processing (NLP) have made this task much easier and less expensive. We have seen increased adoption of ML for multi-lingual",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-lingual-document-translation-workflow-with-domain-specific-and-language-specific-customization/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-lingual-document-translation-workflow-with-domain-specific-and-language-specific-customization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/25/multi-lingual-document-translation.jpg",
-          "width": 1533,
-          "height": 762,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
       ]
     }
   ],

@@ -1,20 +1,20 @@
 ---
 category: news
 title: "BitOoda Partners with CoreWeave to Deliver High Performance Compute Solutions for Financial Markets"
-excerpt: "BitOoda, a pioneering Digital Asset investment Bank, announced a partnership with CoreWeave, the leading specialized cloud provider of high-performance compute solutions. The partnership will accelerate the penetration of CoreWeave's services for compute-heavy workloads in financial applications."
-publishedDateTime: 2022-08-19T22:06:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/19/9659533.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/19/9659533.htm"
+excerpt: "BitOoda, a pioneering Digital Asset investment Bank, announced a partnership with CoreWeave, the leading specialized cloud provider of high-performance compute solutions. The partnership will accelerate the penetration of CoreWeave’s services for compute-heavy workloads in financial applications."
+publishedDateTime: 2022-08-19T22:08:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-19-bitooda-partners-with-coreweave-to-deliver-high-performance-compute-solutions-for-financial-markets"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-19-bitooda-partners-with-coreweave-to-deliver-high-performance-compute-solutions-for-financial-markets"
 type: article
 
 provider:
-  name: TMCnet
-  domain: tmcnet.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Finance
   - AI
 
-secured: "bFaWxjoPKaicXYpOLgZfxuzqKAJ7hkpVLclH5DvAO8BFSWW5PpJkZ1azUimUefYraaCPalz2Uvm80Yrt44khoCkeawFNAnMeHCUn0a/ZRyAVJu4t5cKVjiZXMVAOKFVE3Da0YCKPUbFf+VWx3WwD+4BbXLHuNkFX4GNECO9Bga2hq2KqlzlxpCW2jTZujTknpWuRlKfYG0PDhfV2o3E+/wNP+EiDCpR6p7z9yU4D/bmSF8yoiH0igXSDS73zYGMGVq4/iXmiTDWOOFT94pIwyjWlOSDlAeU+lR2hOnPEY5MFff4GSKpgzI9N6TMuGg7wWVVV6jOGO1+fLFrBK+PRfWtA/GcXvpw4QOSUspqCLvA=;6ncDG07tyFK1rRmzWQWIbQ=="
+secured: "XPqjNPjQzULdTm5euoRsHlYBa9cy9lZcQ4vsAzPX6LAFN8E4ADbBiN+VzkQ6Kz/dgjNfcadT8bgKHLUQu5gmRmYHIVrhUOw4kJV24nIHtWl2naGSoUAd/PEA5pd20fOmbsNP3hLs/5L/76qMoI8FSeo4rUR9Z8d0wMBtJOYUcekJjNKvMZoLJBkNTmuJ8kFwpeZbaWqt14NAkhWJ5Anc0P7mNsU4HJ28VAwaI/qoaTJwOCXFEA6rky4sp5T7xtXQuWStfCzxFrjlojIhRybkth9Fb4wGFIV2nmmNPJfscRIIv9LIj/lqQMkUDJrYqC7FZnzYJUY8KuFytiSFu8M7xAqFMH0Jf9rWK9xMYgoWoEg=;oz3RKBhgYJc9vMsmBHmoEg=="
 ---
 

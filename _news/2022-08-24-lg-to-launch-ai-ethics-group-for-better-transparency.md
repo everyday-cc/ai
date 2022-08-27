@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-24T05:39:00Z
 originalUrl: "https://www.koreaherald.com/view.php?ud=20220824000600"
 webUrl: "https://www.koreaherald.com/view.php?ud=20220824000600"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: The Korea Herald

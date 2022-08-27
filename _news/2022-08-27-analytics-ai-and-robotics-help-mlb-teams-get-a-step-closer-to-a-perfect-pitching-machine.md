@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/amp/"
 type: article
 quality: 110
-heat: 120
+heat: 121
 published: true
 
 provider:
