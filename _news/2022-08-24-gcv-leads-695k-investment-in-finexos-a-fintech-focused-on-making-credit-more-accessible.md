@@ -56,6 +56,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 21
+  - title: "Growth Capital Ventures leads six-figure funding into fintech firm"
+    excerpt: "County Durham-based Growth Capital Ventures has led a £695,000 investment into a fintech platform, which aims to improve access to credit for people around the world."
+    publishedDateTime: 2022-08-24T07:20:00Z
+    webUrl: "https://www.insidermedia.com/news/Yorkshire/growth-capital-ventures-leads-six-figure-funding-into-fintech-firm"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 4
   - title: "Urban Money by Square Yards is spearheading fintech revolution in real estate"
     excerpt: "lies a suite of tech capabilities driving its fintech powertrain, helping the company disburse paperless mortgages in a matter of minutes instead of days or weeks. Once a customer fills his financial requirements online, an AI-based eligibility engine dete ..."
     publishedDateTime: 2022-08-22T13:24:00Z

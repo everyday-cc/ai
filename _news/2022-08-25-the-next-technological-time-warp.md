@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/servicenow/2022/08/24/the-next-technolo
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/amp/"
 type: article
 quality: 74
-heat: 75
+heat: 74
 published: true
 
 provider:

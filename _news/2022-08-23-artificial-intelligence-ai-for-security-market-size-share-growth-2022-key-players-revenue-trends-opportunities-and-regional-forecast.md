@@ -211,20 +211,6 @@ related:
         width: 600
         height: 337
         isCached: true
-  - title: "Computer Vision System Market Size, Growth, Share, 2022 Top Key Players Review, Demand and Global Analysis by Forecast 2028"
-    excerpt: "Global “Computer Vision System Market” (2022) report provides the detailed study of business analysis, competitor landscape, development trends, future scope, detailed cost analysis ..."
-    publishedDateTime: 2022-08-22T06:37:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computer-vision-system-market-size-growth-share-2022-top-key-players-review-demand-and-global-analysis-by-forecast-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 13
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/b52601b263f73e4793ac74bc834d38fe31e103bd-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
   - title: "Global Social Robots Market Report (2022 to 2027) - Industry Trends, Share, Size, Growth, Opportunity and Forecasts - ResearchAndMarkets.com"
     excerpt: "The global social robots market size reached US$ 2.6 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 13.3 Billion by 2027, exhibiting a CAGR of 31.26% during 2021-2027."
     publishedDateTime: 2022-08-23T10:36:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/lg-introduces-240hz-curved-oled
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lg-introduces-240hz-curved-oled-ultragear-monitor-monitor-with-ai-tracking/"
 type: article
 quality: 85
-heat: 85
+heat: 95
 published: true
 
 provider:
@@ -28,6 +28,24 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "LG UltraGear OLED gaming monitor and Ultrafine Display Ergo AI with 4K resolution launched"
+    excerpt: "LG has unveiled UltraGear 240Hz curved OLED gaming monitor and UltraFine Display Ergo AI. The devices have model numbers 45GR95QE and 32UQ890. The company also confirmed its presence at the upcoming event after a two-year break due to the pandemic."
+    publishedDateTime: 2022-08-26T14:06:00Z
+    webUrl: "https://www.gizmochina.com/2022/08/26/lg-ultragear-oled-gaming-monitor-and-ultrafine-display-ergo-ai-with-4k-resolution-launched/"
+    ampWebUrl: "https://www.gizmochina.com/2022/08/26/lg-ultragear-oled-gaming-monitor-and-ultrafine-display-ergo-ai-with-4k-resolution-launched/?amp=1"
+    cdnAmpWebUrl: "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/26/lg-ultragear-oled-gaming-monitor-and-ultrafine-display-ergo-ai-with-4k-resolution-launched/?amp=1"
+    type: article
+    provider:
+      name: Gizmochina
+      domain: gizmochina.com
+    quality: 77
+    images:
+      - url: "https://www.gizmochina.com/wp-content/uploads/2022/08/LG-UltraGear-OLED-monitor-and-Ultrafine-Display.png"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "0PgitdKJ2OTaxXq0A2vWtAKuyYmVWHCxiwmFWdBhPI1pHUh5g/bzBmQ/Xc+6vH33mJqcgbHF2JcTVSz25w3/j03fVdUSbxVqULijfDxyYvnbHfGu3xEOssSgEUWohyvPH/AatUU/8pBeoFSHUjE2LgFk7oqA71RSK0spWQBeNVSOI4erqLy6Rb4rWROr0aKq0SFLZSwGPxaQI4zGxGMKN50cy95KTjvmhwFqkD0S4/28PXQqEVpL563nQU4bYwCD78Pu/h9vZEAZY8nisy/HdmoxKn76gCOO+yMYYbdnkV2ffulJWnA38Im9tDqKDJwPkrTkM/NwStbLR+7aK/2EGTbwNgVUgzn0tOHgvTDBbsM=;0WmSUp4+Awp89YGU1bg4Ig=="
 ---

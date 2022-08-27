@@ -56,6 +56,15 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 21
+  - title: "Growth Capital Ventures leads six-figure funding into fintech firm"
+    excerpt: "County Durham-based Growth Capital Ventures has led a £695,000 investment into a fintech platform, which aims to improve access to credit for people around the world."
+    publishedDateTime: 2022-08-24T07:20:00Z
+    webUrl: "https://www.insidermedia.com/news/Yorkshire/growth-capital-ventures-leads-six-figure-funding-into-fintech-firm"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 4
   - title: "GCV Leads £695K Investment in Finexos, a Fintech Focused on Making Credit More Accessible"
     excerpt: "GCV has led a £695,000 investment round into Finexos, a fintech platform set \"to improve access to credit for millions of people around the world.\""
     publishedDateTime: 2022-08-24T12:38:00Z

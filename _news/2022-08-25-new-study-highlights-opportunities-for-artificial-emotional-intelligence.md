@@ -1,15 +1,15 @@
 ---
 category: news
 title: "New Study Highlights Opportunities for Artificial Emotional Intelligence"
-excerpt: "How will artificial intelligence (AI ... Other projects include a scalable AI recommender system to customize therapy recommendations to improve mental health based on the user’s current ..."
-publishedDateTime: 2022-08-24T22:56:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence"
-webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence?amp"
+excerpt: "Emotion AI, also known as artificial emotional intelligence, is a subset of AI that reacts, simulates, quantifies, and comprehends human emotions. Affective computing is computing"
+publishedDateTime: 2022-08-24T22:20:00Z
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence?amp"
 type: article
-quality: 43
-heat: 43
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,7 +17,6 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -53,6 +52,6 @@ related:
         height: 939
         isCached: true
 
-secured: "oY09LoiccPvfjEI2t58eaplw6J+46+M0lOWiaZZP4MARvvbeS5wbbfd/tLs5a2LR53AKddKSl/wCQNGKpASzbDXidcAHou4U0L+5JGTEQ5nJHCVVJpfnGU4M9O+pGJ9xxkC5Tfn9YHZ0i2Wj9QrGmrHAnuSi0u91/UO615hsC1cq0ZTOYgD8uqZPO5qzlVS4Iget9X003quE/c7qQ1cTFj/Q6w/YZOrGVj5hzH8634rtk6X49uLf4vCSb8SIhptTcbpt7B9z2vw7Bz0+pIFX2kq9oHSbFHOas9iC/6HshdLEfmbtiU1iXAjXf/oqePhQhY717QM4B/Dx/dB1Igxrmdb7ylqIdLVoVBjUmjcg6iE=;PXBiX16b9+bRlHCdquUF9A=="
+secured: "7WDzkirWbiQcaO7DRkMdgdLmA7RrXX2xIqK5kWe+JGrA2+XVIyFWoiLmspGLIYQbfeTcg9q+oQx8ojHBEZ6RFZ0npG1pX6SSjNZBZn8Fkte8t7kFAPiTiXdLmAI6QD+RONWDExKWRNTVcC4gtIumoSBw/m/w7f78a8EQUhbxCV4PYTClLBKP7gv+V824PZhgrvymLkqeQmVDmbW9X4g04YNZWJZ7CPbRJJfZV13yLWKAq3jmooOxELWH4l1P+s+U4CNSxI+jRWpKFYHfvnvIz3LeWLZE9wcvNF4fIt3bf/PgVDXh0o7D/XkglEMBJ3xzNE1LBdcemXvqETmAud0ucW5B7BEUEpA3BylQikn9THQ=;IezOIp23EgGYwBBikKIn0Q=="
 ---
 

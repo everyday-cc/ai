@@ -9,7 +9,7 @@ ampWebUrl: "https://www.crowdfundinsider.com/2022/08/195215-jack-henry-announces
 cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/08/195215-jack-henry-announces-plan-for-financial-crimes-platform/amp/"
 type: article
 quality: 44
-heat: 44
+heat: -1
 published: false
 
 provider:
@@ -27,6 +27,17 @@ images:
     isCached: true
 
 related:
+  - title: "Jack Henry (JKHY) to Unveil Financial Crimes Defender Platform"
+    excerpt: "JKHY equipped the platform’s analytics engine with the globally largest RiskOps platform called Feedzai. With the Financial Crimes Defender platform, Jack Henry aims to provide financial institutions with advanced technological capabilities,"
+    publishedDateTime: 2022-08-26T20:01:00Z
+    webUrl: "https://www.nasdaq.com/articles/jack-henry-jkhy-to-unveil-financial-crimes-defender-platform"
+    ampWebUrl: "https://www.nasdaq.com/articles/jack-henry-jkhy-to-unveil-financial-crimes-defender-platform?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/jack-henry-jkhy-to-unveil-financial-crimes-defender-platform?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Jack Henry unveils financial crimes platform"
     excerpt: "Jack Henry™ (Nasdaq:JKHY) announced today the development of Jack Henry Financial Crimes DefenderTM, the company’s next-generation financial crimes platform."
     publishedDateTime: 2022-08-25T14:33:00Z

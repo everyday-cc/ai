@@ -25,6 +25,17 @@ images:
     isCached: true
 
 related:
+  - title: "Jack Henry (JKHY) to Unveil Financial Crimes Defender Platform"
+    excerpt: "JKHY equipped the platform’s analytics engine with the globally largest RiskOps platform called Feedzai. With the Financial Crimes Defender platform, Jack Henry aims to provide financial institutions with advanced technological capabilities,"
+    publishedDateTime: 2022-08-26T20:01:00Z
+    webUrl: "https://www.nasdaq.com/articles/jack-henry-jkhy-to-unveil-financial-crimes-defender-platform"
+    ampWebUrl: "https://www.nasdaq.com/articles/jack-henry-jkhy-to-unveil-financial-crimes-defender-platform?amp"
+    cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/jack-henry-jkhy-to-unveil-financial-crimes-defender-platform?amp"
+    type: article
+    provider:
+      name: Nasdaq
+      domain: nasdaq.com
+    quality: 54
   - title: "Jack Henry Announces Plan for Financial Crimes Platform"
     excerpt: "Jack Henry™ (Nasdaq:JKHY) announced the development of Jack Henry Financial Crimes Defender™, the company's financial crimes platform."
     publishedDateTime: 2022-08-26T16:47:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-2022-size-share-sales-growth-dynamics-top-vendors-and-forecast-to-2028-2022-08-26"
 type: article
 quality: 72
-heat: 222
+heat: 212
 published: true
 
 provider:
@@ -209,20 +209,6 @@ related:
     quality: 29
     images:
       - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/f4f04bbf0a33e2251f03a5748650712826f14ff2-2-600x337.jpg"
-        width: 600
-        height: 337
-        isCached: true
-  - title: "Computer Vision System Market Size, Growth, Share, 2022 Top Key Players Review, Demand and Global Analysis by Forecast 2028"
-    excerpt: "Global “Computer Vision System Market” (2022) report provides the detailed study of business analysis, competitor landscape, development trends, future scope, detailed cost analysis ..."
-    publishedDateTime: 2022-08-22T06:37:00Z
-    webUrl: "https://www.digitaljournal.com/pr/computer-vision-system-market-size-growth-share-2022-top-key-players-review-demand-and-global-analysis-by-forecast-2028"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 13
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/07/b52601b263f73e4793ac74bc834d38fe31e103bd-600x337.jpg"
         width: 600
         height: 337
         isCached: true
