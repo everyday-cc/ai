@@ -7,7 +7,7 @@ originalUrl: "https://cameroon-tribune.cm/article.html/50569/en.html/robotics-ar
 webUrl: "https://cameroon-tribune.cm/article.html/50569/en.html/robotics-artificial-intelligence-competition-spur-production"
 type: article
 quality: 67
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/2022/researchers-use-ai-to-2.jpg"
         width: 1000
         height: 598
+        isCached: true
+  - title: "Half of AI Models Never Make It To Production: Gartner"
+    excerpt: "The recently released Gartner 2022 AI in Organizations survey found that 80% of executives believe automation can be applied to any business decision. As"
+    publishedDateTime: 2022-08-22T23:35:00Z
+    webUrl: "https://www.datanami.com/2022/08/22/half-of-ai-models-never-make-it-to-production-gartner/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 37
+    images:
+      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/AI_Ops_automation-1024x764.png"
+        width: 1024
+        height: 764
         isCached: true
 
 secured: "vpj+LQ56hUki/c6PWyWz4Sq+vNC/0H9Ot+KllWhOYZWM9JlUpnF+G6bDXbvdisomRrqU07n4FT/gtRae8vlgmqsFPns2RoqD3QZiUmDi3SrsEcBXAOamcZSj8hwh8HMcz20JisXv6Ol+frLe+mSvZqfVoJ3SrkVFh6M6GYtRSizqXvK/4mPbgGiteOpoxLfvVFugVqMp0AOGpNBU69/KOo640IA/39eRlolCY8NXscP1dWhOHdnYnCtWbBLiQqH7vaXrKZv4yH1sdun7Yyj9ok+0GuwWb6fBZfDjs9zHxug+7RhcXGL4C2sMJztwmnrQZQIZEqDgeYkP1eQuD4LEvzfY1V/GlaSDtB5WCVfsEwdWzcgZb5xbbNWzx01WZ3gCu/7ey5xC9UCVxKEm/uCCjSM/7B8A1Lkl29i0xNwLy8DZlGYiN7EVZBOS+6zdAhdUAWJhO/CodMyNjrhsw6hVPBrELKjXc6jtgQVSSRCMgcBvlpsN6x4XS9p7WCcpttd3HwASmO+yfx3u92rOFRZKwQ==;AD1/Ke3uCQ71c1qqIyYOSw=="

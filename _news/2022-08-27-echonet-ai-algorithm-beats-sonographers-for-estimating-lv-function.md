@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-27T12:50:00Z
 originalUrl: "https://www.tctmd.com/news/echonet-ai-algorithm-beats-sonographers-estimating-lv-function"
 webUrl: "https://www.tctmd.com/news/echonet-ai-algorithm-beats-sonographers-estimating-lv-function"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: TCTMD

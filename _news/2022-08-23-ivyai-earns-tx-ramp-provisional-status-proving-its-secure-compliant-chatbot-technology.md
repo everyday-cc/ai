@@ -52,20 +52,15 @@ related:
         width: 627
         height: 418
         isCached: true
-  - title: "A Data Platform for Chatbot Development"
-    excerpt: "One of the most compelling use cases for AI at the moment is developing chatbots and conversational agents. While the AI part of the equation works"
-    publishedDateTime: 2022-08-22T21:31:00Z
-    webUrl: "https://www.datanami.com/2022/08/22/a-data-platform-for-chatbot-development/"
+  - title: "Google wants you to use its AI chatbot at your own risk"
+    excerpt: "Google has opened its experimental artificial intelligence (AI) chatbot for the public and you can now register to chat with the AI-driven bot trained on the company`s controversial language model."
+    publishedDateTime: 2022-08-27T12:27:00Z
+    webUrl: "https://www.dnaindia.com/india/report-google-wants-you-to-use-its-ai-chatbot-at-your-own-risk-2980085"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 24
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/08/chatbot_army_shutterstock_sdecoret.jpg"
-        width: 1000
-        height: 669
-        isCached: true
+      name: DNA India
+      domain: dnaindia.com
+    quality: 17
 
 secured: "Y9hGe+IzbZRmL80iaT8/IJxHSOiTt/tzIX1nRPsF6iFxChmAp6SyYALSRV+U2URauNv0Na/gSS1zlXhu2dVns0Sd66b/JJArFtf0OONe5An9D+8fAfQlTFuzDy7pD3m+NIzOD4L0Uvb8n3QIUKL+k+k9wJwSeh3FaB7Q5b1ntbVPbl34cGQC9fPdf3oE5cgQvFfREqX5x2EZ9giVx/6tfVZup0zGJGmmfWNj8xrelH3MLAcLvv6G4+MtXEbOheUzWh5lNgHTgQ21ZnwXBWUTCLvCZS8MbJOUJD815kCPZ5pOdSwSNzLGesj29AVLjQ38Lb5WBIpJNbS7pY4jYrfnMObC18/lrChTi4Gwanw5isI=;3wIbhCtdt93PimJiaeEXIg=="
 ---

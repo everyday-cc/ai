@@ -5,7 +5,12 @@ excerpt: "In this week's edition of Perceptron, TechCrunch's semiregular AI rese
 publishedDateTime: 2022-08-27T12:15:00Z
 originalUrl: "https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/"
 webUrl: "https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/"
+ampWebUrl: "https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/amp/"
+cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/amp/"
 type: article
+quality: 95
+heat: 95
+published: true
 
 provider:
   name: TechCrunch
@@ -18,7 +23,14 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - AI Hardware
 
-secured: "4Z4PtlCsKfuPSS3E2GYHbiyv//JXtSejpVr9ZyuM5VPjJiTwbA3wuqxgpckqZ6mV8JR0eOswkeaVpJzjLgMq6ex38RGEpXMIx3uTTUhzJBSMlZnTww5Lw0q4k47TOSOJJ63OxOGfxrHpJq3TuA82PQBQak1OwBlBuP1Gt2Rp6qochtrGdNXtar1dVZd4fsKEq8jl2ACqZwhmdzElfHyDeIR8nQLCyoKHC666yni7OrOAev9h6zTJec6EnyNCxXm3Te3I0CgvmMh81Dy7HQjg+B3fo2llwn2I8LDu/K41OpYe/eDyvKd6QJD/0Eks+CLnfda8nf+uqe6pTmIJoaGjHHTNIT3z0J2PlNMh01T9wDLNcjzm6R9XLHn8pkPByB0B2+Dh0/pgHfd61e5QOpbRzLo6ZyF6vJhx02/QORrstCjxOeeNRf3RkmsJDarX8aDytMUVnp0hg2asGBIHn7sgIeWmekttxr/6dURECT4VHBTgVWgUfiwFcVh0QwAQ73rXlMxMmQyLmGtc6CnVDUKuLg==;ob1eiNsq8eG8Txl9yBJD9w=="
+images:
+  - url: "https://techcrunch.com/wp-content/uploads/2022/08/resized_brain_cover.png"
+    width: 768
+    height: 480
+    isCached: true
+
+secured: "P8PHBAmAziGFbS3+3fu54BoQ2eWy5ZWGR5jU6St+/vYgWzs+afrfsm3Rcmrs0ugOeT1y4wkUZSAhaT0BhFDCfgiRcEl62ajsYUgSDRRnYNsqsyrbhjMEK9aUyxGmFJv/itwheK513KljbaixbyWyaxKN9YvkuCacbCwoeokoisACZ2kolMxIho4JvOufGuEqM2lsUIOcy2qMTUuLOo1t7AUkD/03DbhCgbbCOHhDUm+YW4xoeUWLTtHaDzfresFJc4sIfnTjrK4yul4PDR1WZZU4AxfLb2u/055xNypbzeg8OSy+5QKRPpJH2eokIUCW8VSvG9av5n4CssBuzBAvn0fXrmXXq0tvRRKTCYq8vMs=;+a7Ju6ZLspC0+DcTU2te7A=="
 ---
 

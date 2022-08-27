@@ -175,6 +175,15 @@ related:
       name: WBUR
       domain: wbur.org
     quality: 24
+  - title: "AI Model Detects Parkinson’s From Breathing Patterns"
+    excerpt: "A team of researchers at MIT has developed an artificial intelligence (AI) model that can detect Parkinson’s from reading a person’s breathing patterns.  The neural network is able to assess a person’s nocturnal breathing,"
+    publishedDateTime: 2022-08-27T13:52:00Z
+    webUrl: "https://www.unite.ai/ai-model-detects-parkinsons-from-breathing-patterns/"
+    type: article
+    provider:
+      name: unite
+      domain: unite.ai
+    quality: 19
   - title: "Scientists invent device that can detect Parkinson’s disease when you’re asleep"
     excerpt: "Scientists have developed a device that can detect the presence of Parkinson’s disease — one of the fastest-growing neurological conditions in the world. Parkinson’s disease is notoriously difficult to diagnose as it relies primarily on the appearance of motor symptoms such as tremors,"
     publishedDateTime: 2022-08-23T15:58:00Z

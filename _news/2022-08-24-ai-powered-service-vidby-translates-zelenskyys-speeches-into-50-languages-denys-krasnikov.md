@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-23T20:18:00Z
 originalUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-8-23-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov"
 webUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-8-23-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov"
 type: article
+quality: 23
+heat: 23
+published: false
 
 provider:
   name: Buffalo News
@@ -15,6 +18,6 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "4jLhKHE1iBJkvLqzaMkF9BYcfOHBnJ5TgDJalZn3SKVSFlhzWMYrwQvEk2FkgB3CpJu9FEk/HiIWYyimAR1sNB8lAXbjoNqKPIJLncpN2wes7NfIf5BYhBS1aq2ijk19dpuXxb1eWcN/bFN+iTLrHrNpi5q+Re3tBxuxtwK7sytAqypsq8qlBKcgZ3MaPAs0QBJ2q/aMqnbyLvm7/cq9SvC60g864RdqnJL85INGE31IoOKrCkoPRTQCMaZokchv5gbY3xpe0Eo6OTxF7sCJOiYHjZl9rwwJDjWnOzdEK4Luvp8AgysT1tdCCYBEdA6jDYgcLFGOCPeXyXG+HQ6ZA+HJyIFkd5Nh5NIY0MOTw7tU1QO1H6vr4fTGGZdqrIIJaOa+KtR7toXPU+cbejc+oRGkVRNSsm2gu/wwn8LFla7ikOg04swph+0AfMw8v9AeQTLIp/kmENyT5mZ67bjMetAmFZMwXToFOfXmD7rZxPYiOJIKFb355NfegN3l+/jhpw+Um6370cIVT4jfBbsTHA==;mLfoqXDUKhbR45o8fxhVsA=="
+secured: "DvlmfXWabAHLUf20nLCMCRPEspTVr4Nc77R76x5d5BgBvcuo3kbmRphbVKf7XzMEHMMA2WaYHC94GCp+lOKhSWGc6WVLZEx/xfqwp5YLda4aId2ZyTfJ8gHDYPLFI2lOnhUM4uKbIJLKYrCDDXlLoFbuNqsj5U7RQGtGfu70rRlDeSPc/sYLs7cay84yJDVH2XsHRECSm5pJQiHFvA4X18cJybkL3MsUElXxqRR7w8EOVSltlVQhtwoYvntS1mlKZy+9nNJMtvaRh9MTbIXoioI/Lbm8lDP4F140n8s2FOOuaj1yvvS+RN+DyoZ4sKkycaNl8Y4ccopubqBoIwNQK5QHsX6DPo7nmwLqEoEziF4rSO6qFJz7Wh6fvJx1qQzgSYr78n/BOL1o0kU1QLOIe1mnHfRhT93ZKsZNR2DF9CuwtwFJDGrwUvJRIHHYJ8bUS7bGtA7yd4Lg7mF/sQo2D1W923a9/1JRA5apbdyMjzzt2cSpryh5uuwm95ZIgNNY09QVCE8thMtSk1K7moI/Jg==;N0Nrn3JUcYjjJgxpr61tqg=="
 ---
 

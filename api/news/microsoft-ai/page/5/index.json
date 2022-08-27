@@ -2,6 +2,101 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-18-microsoft-launches-simulator-to-train-drone-ai-systems.md",
+      "title": "Microsoft launches simulator to train drone AI systems",
+      "excerpt": "Microsoft has launched a platform to train the artificial intelligence (AI) systems of autonomous aircraft. Project AirSim is, in effect, a flight simulator for drones, which companies can use to train and develop software controlling them.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/technology-62202118",
+      "originalUrl": "https://www.bbc.com/news/technology-62202118",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 234,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/AB45/production/_125954834_airtonomy.png",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/technology-62202118.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62202118.amp",
+      "publishedDateTime": "2022-07-18T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-conversational-systems-market-with-tremendous-growth-by-2029-google-cognitive-scale-ibm.md",
+      "title": "Conversational Systems Market with Tremendous growth by 2029 Google, Cognitive Scale, IBM",
+      "excerpt": "This growth can be attributed to the growing demand for artificial intelligence (AI)-based customer support services ... Google, Cognitive Scale, IBM, Hewlett Packard, Microsoft, Oracle, Nuance ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/conversational-systems-market-with-tremendous-growth-by-2029-google-cognitive-scale-ibm",
+      "originalUrl": "https://www.digitaljournal.com/pr/conversational-systems-market-with-tremendous-growth-by-2029-google-cognitive-scale-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/6e04d9a5ed4a928ffe1ba6550cca9746849a3076-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-whats-the-better-passive-income-tech-stock-ibm-or-verizon.md",
       "title": "What's the Better Passive Income Tech Stock: IBM or Verizon?",
       "excerpt": "It has built on that move by acquiring over 20 smaller companies since the former head of the cloud and cognitive software ... a CAGR of 52% for the global 5G services market.",
@@ -1257,92 +1352,6 @@
       "provider": {
         "name": "The Peninsula",
         "domain": "thepeninsulaqatar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-03-googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought.md",
-      "title": "Google's powerful AI spotlights human cognitive glitch: Mistaking fluent speech for fluent thought",
-      "excerpt": "This cognitive process saves you a lot of time ... the US Department of Defense, IBM, Google, and Microsoft. Nancy Kanwisher receives funding from NIH and NSF. Anna A. Ivanova and Idan Asher ...",
-      "sourceUrl": null,
-      "webUrl": "https://rapidcityjournal.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_f8d59b3b-963b-5800-bbdc-0c1c29f65abe.html",
-      "originalUrl": "https://rapidcityjournal.com/lifestyles/technology/googles-powerful-ai-spotlights-human-cognitive-glitch-mistaking-fluent-speech-for-fluent-thought/article_f8d59b3b-963b-5800-bbdc-0c1c29f65abe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/rapidcityjournal.com/content/tncms/assets/v3/editorial/f/8d/f8d59b3b-963b-5800-bbdc-0c1c29f65abe/62bc9a94703e2.preview.jpg?crop=610%2C320%2C0%2C38&resize=610%2C320&order=crop%2Cresize",
-          "width": 610,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T18:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Rapid City Journal",
-        "domain": "rapidcityjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-03-cwallet-microsoft-qatar-partner-to-bring-latest-fintech-services-to-organisations-through-azure.md",
-      "title": "CWallet, Microsoft Qatar partner to bring latest fintech services to organisations through Azure",
-      "excerpt": "Under the new agreement, CWallet will leverage a number of Microsoft products and services including, but not limited to, Azure Machine Learning, Cosmos DB, Power BI, Kubernetes, Application ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gulf-times.com/story/720344/CWallet-Microsoft-Qatar-partner-to-bring-latest-fi",
-      "originalUrl": "https://www.gulf-times.com/story/720344/CWallet-Microsoft-Qatar-partner-to-bring-latest-fi",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gulf-times.com/Content/Upload/Slider/720222201945358555002.jpg",
-          "width": 620,
-          "height": 355,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-02T13:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf Times",
-        "domain": "gulf-times.com",
         "images": null,
         "publishers": null,
         "authors": null

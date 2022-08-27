@@ -42,20 +42,6 @@ related:
         width: 600
         height: 338
         isCached: true
-  - title: "AI weapons, robot subs & silent drones: the military tech startup created by the Oculus founder lands in Australia"
-    excerpt: "Anduril produces flying drones and has a deal to produce three robotic submarines for Australia for surveillance, reconnaissance, and war."
-    publishedDateTime: 2022-08-22T21:39:00Z
-    webUrl: "https://www.startupdaily.net/topic/global-tech/ai-weapons-robot-subs-silent-drones-military-tech-startup-anduril-lands-in-australia/"
-    type: article
-    provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 32
-    images:
-      - url: "https://www.startupdaily.net/wp-content/uploads/2022/08/Anduril-2.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
 
 secured: "Q0E5CwXSkJDZo5g7v8jZLrbu81WCGJy+Tt6kitEif+WtY1yj9chapped2Prjp0T6tep1CTQgDqvDD/sF/bhJ9lftf2OUw5U5Geqtt+tg64HTOrqpc0ihQvSRUEskt9yYUfUFalSP4ktOK8kecuocyjYKT0g3Tah7XqqtxVqz4mlu7gIY5psD8v2PYLEQT64tO2NEeQYQmjfntQVJh3itV5SgGbxVXtxDYWPCrhycyvVtkD1NbsyBnQSFhJ7mspJWxTErS5QIdTlz7h+vj+Uzsa1SH0C+5gSiI/PdMCcYAXEXqlHxrWBk3u5NKzDAwP6cbVKBzivCPyHP6bBEdtoPL0N9kR5jUsoE7N1zKMuttUN5Z0tgvefeMFBGGt/MvHwCyStLY5TTxN5b28gjp/xrIz9kDNWxWnyMGiI0uvdC+ICBUNaoIQgUIz8cdR+vzHiDYRnPWp7I0YZ80WiHm4A2iqAvjjtRjKo01FT2cTaR5Q5LSrjQXAg0pO+lGEmgaIrwXEbMXxXHpCO3EnDffy1Olw==;JyD98NLUCwM2WH8QY5iVsA=="
 ---

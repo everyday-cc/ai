@@ -2,6 +2,111 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-27-perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators.md",
+      "title": "Perceptron: Face-tracking ‘earables,’ analog AI chips, and accelerating particle accelerators",
+      "excerpt": "In this week's edition of Perceptron, TechCrunch's semiregular AI research roundup, we highlight an 'earable' that uses sonar to record facial expressions and a superfast processor for AI training.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/",
+      "originalUrl": "https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/resized_brain_cover.png",
+          "width": 768,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/amp/",
+      "publishedDateTime": "2022-08-27T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine.md",
+      "title": "Analytics, AI and robotics help MLB teams get a step closer to a perfect pitching machine",
+      "excerpt": "Advances in AI, stat tracking, advanced metrics and robotics could fit together nicely for a proper 21st-century twist on a pitching machine.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/",
+      "originalUrl": "https://techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/2527842396.2022-08-26-16_13_02.gif",
+          "width": 800,
+          "height": 494,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/amp/",
+      "publishedDateTime": "2022-08-27T04:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-27-shaquille-oneal-to-help-australian-indigenous-voice-campaign.md",
       "title": "Shaquille O'Neal to help Australian Indigenous 'Voice' campaign",
       "excerpt": "Hailed as the greatest basketball player and center of all time, American basketballer Shaquille O'Neal announces his support behind the",
@@ -581,6 +686,58 @@
       ]
     },
     {
+      "path": "_news/2022-08-26-artificial-intelligence-supply-chain-market-worldwide-demand-development-growth-and-business-attractions-2028-ibm-microsoft-google-amazon.md",
+      "title": "Artificial Intelligence Supply Chain Market Worldwide Demand, Development Growth and Business Attractions 2028 | IBM, Microsoft, Google, Amazon",
+      "excerpt": "The Artificial Intelligence Supply Chain report offers in-depth assessment of the growth and other aspects of the Artificial Intelligence Supply Chain market in important regions. Key regions covered in the report are North America,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-supply-chain-market-worldwide-demand-development-growth-and-business-attractions-2028-ibm-microsoft-google-amazon-2022-08-26",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-supply-chain-market-worldwide-demand-development-growth-and-business-attractions-2028-ibm-microsoft-google-amazon-2022-08-26",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-26T01:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-26-artificial-intelligence-key-for-daisy.md",
       "title": "Artificial intelligence key for Daisy",
       "excerpt": "Daisy Hill take a break from league action tomorrow when they travel to Liverpool to face Lower Breck in the first qualifying round of the FA",
@@ -786,7 +943,7 @@
       "originalUrl": "https://www.cnet.com/personal-finance/googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 95,
+      "heat": 105,
       "tags": null,
       "images": [
         {
@@ -1077,143 +1234,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-join-us-in-the-ai-test-kitchen.md",
-      "title": "Join us in the AI Test Kitchen",
-      "excerpt": "As AI technologies continue to advance, they have the potential to unlock new experiences that support more natural human-computer interactions. We see a future where you can find the information you’re looking for in the same conversational way you speak to friends and family. While there’s still lots",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/",
-      "originalUrl": "https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image_louDEPv.max-1300x1300.png",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/join-us-in-the-ai-test-kitchen/amp/",
-      "publishedDateTime": "2022-08-25T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-googles-new-app-lets-you-experimental-ai-systems-like-lamda.md",
-      "title": "Google’s new app lets you experimental AI systems like LaMDA",
-      "excerpt": "Google has launched AI Test Kitchen, an app previewed at Google I/O 2022 that lets users test experimental systems, including LaMDA, developed by the company's internal research divisions.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/",
-      "originalUrl": "https://techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1230444599-1-e1660816546129.jpg?w=1024",
-          "width": 1024,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/amp/",
-      "publishedDateTime": "2022-08-25T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-the-humanoid-robots-are-coming.md",
-      "title": "The Humanoid Robots Are Coming",
-      "excerpt": "Especially as we see an increase in humanoid robot investments (which are designed and constructed to look and behave as human as possible). It’s feasible to imagine one robot flipping burgers while another takes orders in a customer-facing role.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-humanoid-robots-are-coming",
-      "originalUrl": "https://www.nasdaq.com/articles/the-humanoid-robots-are-coming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-humanoid-robots-are-coming?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-humanoid-robots-are-coming?amp",
-      "publishedDateTime": "2022-08-25T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

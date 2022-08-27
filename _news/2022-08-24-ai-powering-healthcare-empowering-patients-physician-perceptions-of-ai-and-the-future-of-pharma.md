@@ -43,7 +43,7 @@ related:
     provider:
       name: Packaging World
       domain: packworld.com
-    quality: 54
+    quality: 71
     images:
       - url: "https://img.packworld.com/files/base/pmmi/all/image/2022/07/Mitarbeiter_Cobot_032_20211020.62d891ea15c52.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
         width: 1200

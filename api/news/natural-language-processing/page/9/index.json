@@ -2,6 +2,112 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-06-09-how-service-providers-can-use-natural-language-processing-to-gain-insights-from-customer-tickets-with-amazon-comprehend.md",
+      "title": "How service providers can use natural language processing to gain insights from customer tickets with Amazon Comprehend",
+      "excerpt": "Today, customers can raise support tickets through multiple channels like – web, mobile, chat-bots, emails, or phone calls. When a support ticket is raised by a customer, it is processed and assigned to a category based on the information provided in the ticket. It is then routed to the support group",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-service-providers-can-use-natural-language-processing-to-gain-insights-from-customer-tickets-with-amazon-comprehend/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-service-providers-can-use-natural-language-processing-to-gain-insights-from-customer-tickets-with-amazon-comprehend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/31/ML-8570-image001.jpg",
+          "width": 1092,
+          "height": 406,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T16:41:01-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-how-emagazines-utilizes-amazon-polly-to-voice-articles-for-school-aged-kids.md",
+      "title": "How eMagazines utilizes Amazon Polly to voice articles for school-aged kids",
+      "excerpt": "This is a guest post by Andrew Degenholtz, CEO and Founder of eMagazines, the parent company of ReadAlong.ai. eMagazines’ technology seamlessly transforms print products into premium digital and audio experiences. Leveraging Amazon technology, ReadAlong.ai offers a simple, turn-key way for publishers",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/how-emagazines-utilizes-amazon-polly-to-voice-articles-for-school-aged-kids/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/how-emagazines-utilizes-amazon-polly-to-voice-articles-for-school-aged-kids/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/09/emagazines-polly.jpg",
+          "width": 1247,
+          "height": 622,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T14:39:23-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-ai-dubbing-startup-papercup-raises-20m-from-sky-others.md",
       "title": "AI Dubbing Startup Papercup Raises $20M From Sky, Others",
       "excerpt": "The capital injection will allow the British firm to invest in bringing \"more human-like voices\" and \"human emotion\" to artificial intelligence dubbing.",
@@ -1287,84 +1393,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-one-ai-raises-8m-usd-to-simplify-natural-language-processing-projects.md",
-      "title": "One AI Raises 8M USD to simplify natural language processing projects",
-      "excerpt": "One AI Inc., a startup that helps firms add natural language processing functionality to their apps, has emerged from stealth mode",
-      "sourceUrl": null,
-      "webUrl": "https://enterprisetalk.com/quick-bytes/one-ai-raises-8m-usd-to-simplify-natural-language-processing-projects/",
-      "originalUrl": "https://enterprisetalk.com/quick-bytes/one-ai-raises-8m-usd-to-simplify-natural-language-processing-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://enterprisetalk.com/wp-content/uploads/2022/05/One-AI-Raises-8M-USD-to-simplify-natural-language-processing-projects.png",
-          "width": 1945,
-          "height": 1112,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://enterprisetalk.com/quick-bytes/one-ai-raises-8m-usd-to-simplify-natural-language-processing-projects/amp/",
-      "cdnAmpWebUrl": "https://enterprisetalk-com.cdn.ampproject.org/c/s/enterprisetalk.com/quick-bytes/one-ai-raises-8m-usd-to-simplify-natural-language-processing-projects/amp/",
-      "publishedDateTime": "2022-05-31T07:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "enterprisetalk",
-        "domain": "enterprisetalk.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-healthcare-natural-language-processing-market-is-projected-to-reach-us-146-billion-by-2032.md",
-      "title": "Healthcare Natural Language Processing Market is projected to reach US$ 14.6 Billion by 2032",
-      "excerpt": "The healthcare natural language processing market is expected to rise at a CAGR of 16.7%, with the market valuation reaching US$ 14.6 Bn by the end of 2032. One of the key drivers and investors in the natural language processing business is large corporations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fmiblog.com/2022/05/31/healthcare-natural-language-processing-market-is-projected-to-reach-us-14-6-billion-by-2032/",
-      "originalUrl": "https://www.fmiblog.com/2022/05/31/healthcare-natural-language-processing-market-is-projected-to-reach-us-14-6-billion-by-2032/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T05:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Future Market Insights",
-        "domain": "fmiblog.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

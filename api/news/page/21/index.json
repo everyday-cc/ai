@@ -2,6 +2,49 @@
   "page": 21,
   "value": [
     {
+      "path": "_news/2022-08-08-neural-networks-being-used-to-improve-the-performance-of-high-power-wind-turbines.md",
+      "title": "Neural networks being used to improve the performance of high-power wind turbines",
+      "excerpt": "Research at the Vitoria-Gasteiz Faculty of Engineering of the UPV/EHU has used convolutional neural networks to predict airflow characteristics in the aerodynamic profiles of high-power wind turbines,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-neural-networks-high-power-turbines.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-neural-networks-high-power-turbines.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/neural-networks-being.jpg",
+          "width": 775,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-neural-networks-high-power-turbines.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-neural-networks-high-power-turbines.amp",
+      "publishedDateTime": "2022-08-08T07:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-08-google-sues-sonos-over-voice-control-technology.md",
       "title": "Google Sues Sonos Over Voice Control Technology",
       "excerpt": "Google is suing speaker-maker Sonos over alleged patent infringement. In two lawsuits filed in California federal court on Monday, Google alleges that Sonos' latest voice-assistant technology violates seven different patents that relate it's technology for Google Assistant.",
@@ -1067,58 +1110,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-siri-or-skynet-how-to-separate-ai-fact-from-fiction.md",
-      "title": "Siri or Skynet? How to separate AI fact from fiction",
-      "excerpt": "Determining the way artificial intelligence is used and governed ... To take one example, should manufacturers be allowed to test “driverless cars” on public roads, potentially risking ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/technology/2022/aug/07/siri-or-skynet-how-to-separate-artificial-intelligence-fact-from-fiction?amp;amp;amp",
-      "originalUrl": "https://www.theguardian.com/technology/2022/aug/07/siri-or-skynet-how-to-separate-artificial-intelligence-fact-from-fiction?amp;amp;amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/aea92510a8f227a5ff3c89d310e04c9d6703044e/0_0_5000_3000/master/5000.jpg?width=620&quality=85&auto=format&fit=max&s=ed73cb558295ce3c6728ab1ce55be43b",
-          "width": 620,
-          "height": 372,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/technology/2022/aug/07/siri-or-skynet-how-to-separate-artificial-intelligence-fact-from-fiction",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/07/siri-or-skynet-how-to-separate-artificial-intelligence-fact-from-fiction",
-      "publishedDateTime": "2022-08-07T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

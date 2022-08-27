@@ -2,6 +2,59 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-27-perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators.md",
+      "title": "Perceptron: Face-tracking ‘earables,’ analog AI chips, and accelerating particle accelerators",
+      "excerpt": "In this week's edition of Perceptron, TechCrunch's semiregular AI research roundup, we highlight an 'earable' that uses sonar to record facial expressions and a superfast processor for AI training.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/",
+      "originalUrl": "https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/resized_brain_cover.png",
+          "width": 768,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/amp/",
+      "publishedDateTime": "2022-08-27T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-08-26-nvidia-set-to-unveil-next-gen-gpu-architecture-in-september.md",
       "title": "Nvidia Set To Unveil Next-Gen GPU Architecture In September",
       "excerpt": "Multinational technology company, Nvidia is getting set to announce Lovelace, its next-gen GPU architecture. With Ampere being the current GPU",
@@ -1412,62 +1465,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better.md",
-      "title": "Amazon's Alexa scientists demonstrate bigger AI isn't always better",
-      "excerpt": "Despite deep learning's obsession with big models and generalist approaches, Amazon shows top results can be had with economical and somewhat focused, if not specialized, models.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
-      "originalUrl": "https://www.zdnet.com/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5e79d4892d800fecee63c8b5bde6410152fd6bcc/2022/08/10/7374585a-a866-491a-8405-4352c3c6e2a1/amazon-2022-alextm-20b-summarizing.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 643,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
-      "publishedDateTime": "2022-08-10T12:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "Machine Learning",
-        "Natural Language Processing",
-        "AI Hardware",
-        "Google AI"
       ]
     }
   ],

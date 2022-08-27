@@ -2,6 +2,62 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-11-amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better.md",
+      "title": "Amazon's Alexa scientists demonstrate bigger AI isn't always better",
+      "excerpt": "Despite deep learning's obsession with big models and generalist approaches, Amazon shows top results can be had with economical and somewhat focused, if not specialized, models.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
+      "originalUrl": "https://www.zdnet.com/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/5e79d4892d800fecee63c8b5bde6410152fd6bcc/2022/08/10/7374585a-a866-491a-8405-4352c3c6e2a1/amazon-2022-alextm-20b-summarizing.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/amazons-alexa-scientists-demonstrate-bigger-ai-isnt-always-better/",
+      "publishedDateTime": "2022-08-10T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "Machine Learning",
+        "Natural Language Processing",
+        "AI Hardware",
+        "Google AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-memryx-begins-customer-sampling-of-ai-accelerator-chip.md",
       "title": "MemryX Begins Customer Sampling of AI Accelerator Chip",
       "excerpt": "MemryX Inc., a pioneering start-up that designs breakthrough silicon for artificial intelligence (AI) processing for edge devices, announced today it has begun customer sampling of its ...",
@@ -1365,49 +1421,6 @@
       "provider": {
         "name": "Associated Press",
         "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-announcing-android-cloud-gaming-media-processing-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m.md",
-      "title": "Announcing Android Cloud Gaming & Media Processing & Delivery Solutions Based on the New Intel Data Center GPU Codenamed Arctic Sound-M",
-      "excerpt": "Supermicro solutions that will contain the Intel Data Center GPUs codenamed Arctic Sound-M, include the 4U 10x GPU server for transcoding ... CloudDC server for edge AI inferencing, and the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/announcing-android-cloud-gaming-amp-media-processing-amp-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m-837202959.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/announcing-android-cloud-gaming-amp-media-processing-amp-delivery-solutions-based-on-the-new-intel-data-center-gpu-codenamed-arctic-sound-m-837202959.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1867895/Supermicro__gaming.jpg?p=facebook",
-          "width": 1426,
-          "height": 749,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T17:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
         "images": null,
         "publishers": null,
         "authors": null

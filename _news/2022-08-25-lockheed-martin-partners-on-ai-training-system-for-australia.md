@@ -9,8 +9,8 @@ ampWebUrl: "https://www.janes.com/amp/lockheed-martin-partners-on-ai-training-sy
 cdnAmpWebUrl: "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/lockheed-martin-partners-on-ai-training-system-for-australia/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Jane's Information Group
@@ -39,20 +39,6 @@ related:
       - url: "https://www.energymagazine.com.au/wp-content/uploads/2022/08/Energy-8.png"
         width: 680
         height: 387
-        isCached: true
-  - title: "AI weapons, robot subs & silent drones: the military tech startup created by the Oculus founder lands in Australia"
-    excerpt: "Anduril produces flying drones and has a deal to produce three robotic submarines for Australia for surveillance, reconnaissance, and war."
-    publishedDateTime: 2022-08-22T21:39:00Z
-    webUrl: "https://www.startupdaily.net/topic/global-tech/ai-weapons-robot-subs-silent-drones-military-tech-startup-anduril-lands-in-australia/"
-    type: article
-    provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 32
-    images:
-      - url: "https://www.startupdaily.net/wp-content/uploads/2022/08/Anduril-2.jpg"
-        width: 2000
-        height: 1333
         isCached: true
 
 secured: "S4spTueuXFMf2ALrSm0Y5ZF3Div8z1V6lEQcXOSBFOaF1NGbSYSMSH4F0jCS3htOVFkOoB5qJMIaATRp4Rn46WjctSQ7stxN6LiCQibbeaAX3Y+vGsFsm2fTkBjsmWi7I9J/alXHyKP09Iu8Bt2G2Jp+KBD3zYINpqebJF9Wkyz/h97wLOEmkLUoXhSSEQEr5jnL+xRgL1j2hQmo65suiScCZk9ZVRwsk8zeSD+qNNRm/cZ0PklHwNOr38qBpO2g33yao2TNXB1B3PXBiJOBdDKp4f9UOsPSgtptkSHDi/bGxPZHiiEqjAF1Ihp0j8WE8oBrExPI4cUIh3BpSjqiasobyyGTQ15Mw6AQqo/OFHs=;I5IAVYWh+oqyKW+bVLRYuw=="

@@ -38,6 +38,22 @@ related:
         width: 1600
         height: 1427
         isCached: true
+  - title: "Improving AI-assisted conversation with zero-shot learning"
+    excerpt: "Zero-shot learning can improve conversation AI — bolstering everything from human interaction, to sales, to training and career coaching."
+    publishedDateTime: 2022-08-27T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/"
+    ampWebUrl: "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/amp/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 89
+    images:
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1169246375.jpg?w=1200&strip=all"
+        width: 1200
+        height: 652
+        isCached: true
   - title: "Humans Have a Natural Defense Against Facial Recognition: Aging"
     excerpt: "After just 5 years, facial recognition systems start struggling to identify us, and after 20 years they have no chance."
     publishedDateTime: 2022-08-24T14:50:00Z
@@ -68,6 +84,15 @@ related:
         width: 761
         height: 428
         isCached: true
+  - title: "Humans Have a Natural Defense Against Facial Recognition: Aging"
+    excerpt: "Facial recognition systems have become very adept at identifying people in a crowd, but it turns out they don't cope very well with us getting older. As New Scientist reports, the algorithms used ..."
+    publishedDateTime: 2022-08-25T02:26:00Z
+    webUrl: "https://uk.pcmag.com/security/142247/humans-have-a-natural-defense-against-facial-recognition-aging"
+    type: article
+    provider:
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 64
   - title: "The worrying spread of facial recognition tech"
     excerpt: "Facial recognition technology uses machine learning algorithms to extract data points from a person’s face to create a digital signature. This signature is then compared with an existing database to find possible matches."
     publishedDateTime: 2022-08-25T19:04:00Z

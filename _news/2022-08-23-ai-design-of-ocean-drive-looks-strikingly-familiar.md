@@ -23,22 +23,6 @@ images:
     height: 768
     isCached: true
 
-related:
-  - title: "Despite AI, Humans Must Drive Future Mobility Design"
-    excerpt: "You simply type—or if you prefer, to speak—what you are looking for and let AI do the rest. Now, the results are still very low-fidelity and require a lot of human intervention, but one can easily see where this is going. CCS student William Dubois ..."
-    publishedDateTime: 2022-08-22T19:51:00Z
-    webUrl: "https://www.autoweek.com/opinion/a40911080/despite-artificial-intelligence-humans-must-drive-future-mobility-design/"
-    type: article
-    provider:
-      name: Autoweek
-      domain: autoweek.com
-    quality: 37
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/koneill-ccs-vrlab-2022-01-1660680548.jpg?crop=1.00xw:0.752xh;0,0.121xh&resize=1200:*"
-        width: 1200
-        height: 602
-        isCached: true
-
 secured: "L8C/gvsWPyEJ36ZdAVhlrRF9s6ulXgtiulQ7sAtHMQMWKxgLTQ22l9EGuUG6uPmBSaBBHLh3N1yoWx3bNK6LPddjPLPA8E5v+8WCYvJ0loYKTFWB70vdoYuZPC6uyJ5CVA+Xxs6tZVRdnkWsteBqhugEmCkzoOTT+hkM4FPuGFVZqPar/sPt8SklbmsN9GFTy8um/RdqIkmisaanNrU6Zx3ibWubAzdMEEe+8ps9WOpXQ2n4n/ejbwqLHRkjlrqxmWZ7NPFPJUBAciHfJWzmbNinXNZO5jv4pPpka+95x5L9Nc8IzwVll7Xbh/8Piyx9Io5Rbn4FfB1ixq1nQgOL8Mvydrx1Ry8n/69UrFykn6U=;KtUB1T2rlNN4NsRPdMq+vg=="
 ---
 

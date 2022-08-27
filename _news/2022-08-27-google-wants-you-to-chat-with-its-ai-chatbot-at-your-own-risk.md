@@ -49,20 +49,15 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
-  - title: "A Data Platform for Chatbot Development"
-    excerpt: "One of the most compelling use cases for AI at the moment is developing chatbots and conversational agents. While the AI part of the equation works"
-    publishedDateTime: 2022-08-22T21:31:00Z
-    webUrl: "https://www.datanami.com/2022/08/22/a-data-platform-for-chatbot-development/"
+  - title: "Google wants you to use its AI chatbot at your own risk"
+    excerpt: "Google has opened its experimental artificial intelligence (AI) chatbot for the public and you can now register to chat with the AI-driven bot trained on the company`s controversial language model."
+    publishedDateTime: 2022-08-27T12:27:00Z
+    webUrl: "https://www.dnaindia.com/india/report-google-wants-you-to-use-its-ai-chatbot-at-your-own-risk-2980085"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 24
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/08/chatbot_army_shutterstock_sdecoret.jpg"
-        width: 1000
-        height: 669
-        isCached: true
+      name: DNA India
+      domain: dnaindia.com
+    quality: 17
 
 secured: "d3QDcTr9/4XN+iEEvL4Cc6+fBvQgJa3dkITMzU2fi4XJC2iosFexNANDTgrcndewflZzTziGEjbmYBVjKqq5R+1YtMRhOrwmaiVB477dy9FD6gNqVzJSs3lsWswVN0vb7GtNXOspIuy6gT4sijILEDPoK6AlkxDyzfeyJwtbn2qhqT9Cpx9Idm/hlRY6H58k2UDTR2GKXLhPRjtmF05+PZcmqp+0CV6R0xs64FLwtkPlltSmnTzgv+axvXAsGLOKzcFZDA5ufSvxGBCO4p5F9onwskzl7kmEbBKy40SZuFa6hwi7BC5bvTcvIGS2ufHAtkqJpj0TajCPJkzVEwxUT/dv39fRphCXytB0tNdhBx0=;jnZmihoDfuudw3KEDRaA7w=="
 ---

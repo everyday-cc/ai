@@ -2,6 +2,143 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-25-join-us-in-the-ai-test-kitchen.md",
+      "title": "Join us in the AI Test Kitchen",
+      "excerpt": "As AI technologies continue to advance, they have the potential to unlock new experiences that support more natural human-computer interactions. We see a future where you can find the information you’re looking for in the same conversational way you speak to friends and family. While there’s still lots",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/",
+      "originalUrl": "https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 139,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image_louDEPv.max-1300x1300.png",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/join-us-in-the-ai-test-kitchen/amp/",
+      "publishedDateTime": "2022-08-25T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-googles-new-app-lets-you-experimental-ai-systems-like-lamda.md",
+      "title": "Google’s new app lets you experimental AI systems like LaMDA",
+      "excerpt": "Google has launched AI Test Kitchen, an app previewed at Google I/O 2022 that lets users test experimental systems, including LaMDA, developed by the company's internal research divisions.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/",
+      "originalUrl": "https://techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1230444599-1-e1660816546129.jpg?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/amp/",
+      "publishedDateTime": "2022-08-25T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-the-humanoid-robots-are-coming.md",
+      "title": "The Humanoid Robots Are Coming",
+      "excerpt": "Especially as we see an increase in humanoid robot investments (which are designed and constructed to look and behave as human as possible). It’s feasible to imagine one robot flipping burgers while another takes orders in a customer-facing role.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/the-humanoid-robots-are-coming",
+      "originalUrl": "https://www.nasdaq.com/articles/the-humanoid-robots-are-coming",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/the-humanoid-robots-are-coming?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-humanoid-robots-are-coming?amp",
+      "publishedDateTime": "2022-08-25T08:55:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-why-we-need-ai-for-sustainable-infrastructure.md",
       "title": "Why We Need AI For Sustainable Infrastructure",
       "excerpt": "The ability of AI, and specifically machine learning, to recognize patterns and respond instantly might be the key to a future of sustainable infrastructure.",
@@ -306,48 +443,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-25-lockheed-martin-partners-on-ai-training-system-for-australia.md",
-      "title": "Lockheed Martin partners on AI training system for Australia",
-      "excerpt": "STELaRLab, the research and development (R&D) arm of Lockheed Martin Australia, has collaborated with the Royal Australian Air Force (RAAF) and the government's",
-      "sourceUrl": null,
-      "webUrl": "https://www.janes.com/defence-news/defence/latest/lockheed-martin-partners-on-ai-training-system-for-australia",
-      "originalUrl": "https://www.janes.com/defence-news/defence/latest/lockheed-martin-partners-on-ai-training-system-for-australia",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.janes.com/images/default-source/news-images/bsp_35244-jdw-18749.jpg?sfvrsn=5b75a452_2",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.janes.com/amp/lockheed-martin-partners-on-ai-training-system-for-australia/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
-      "cdnAmpWebUrl": "https://www-janes-com.cdn.ampproject.org/c/s/www.janes.com/amp/lockheed-martin-partners-on-ai-training-system-for-australia/ZnlJK3dHVU9mZ28xajRJVkc5dVI5VFp1cVMwPQ2",
-      "publishedDateTime": "2022-08-25T04:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Jane's Information Group",
-        "domain": "janes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-25-samsung-galaxy-watch-5-pro-review-smartwatch-fitness-watch-a-good-mix.md",
       "title": "Samsung Galaxy Watch 5 Pro Review: Smartwatch + Fitness Watch = a Good Mix",
       "excerpt": "There's a lot to like about the $450 Samsung Galaxy Watch 5 Pro. Not only does it have all the trimmings of a smartwatch, but it adds extra sports functions that athletes may want -- and for almost half the price of some other outdoor watches with similar construction like the $900 Garmin Epix 2.",
@@ -548,7 +643,7 @@
       "originalUrl": "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 226,
       "tags": null,
       "images": [
         {
@@ -705,7 +800,7 @@
       "originalUrl": "https://venturebeat.com/ai/ai-risk-management-framework/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 93,
       "tags": null,
       "images": [
         {
@@ -745,7 +840,8 @@
       ],
       "topics": [
         "Facebook AI",
-        "AI"
+        "AI",
+        "Microsoft AI"
       ]
     },
     {
@@ -757,7 +853,7 @@
       "originalUrl": "https://electrek.co/2022/08/24/elon-musk-tells-early-tesla-full-self-driving-beta-testers-not-complain/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 232,
+      "heat": 212,
       "tags": null,
       "images": [
         {
@@ -990,48 +1086,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-24-disrupting-the-cx-contact-center-experience-with-ai-powered-smart-routing.md",
-      "title": "Disrupting the CX contact center experience with AI-powered smart routing",
-      "excerpt": "The question is: How can you capitalize on these different personalities to drive consistent, measurable improvements? – With AI-powered smart routing. Personalize customer experience with AI-powered smart routing “AI can be a valuable tool for ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/disrupting-the-cx-contact-center-experience-with-ai-powered-smart-routing/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/disrupting-the-cx-contact-center-experience-with-ai-powered-smart-routing/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Rahul-Joshi_CTO_CSS-Corp.jpeg",
-          "width": 1280,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/disrupting-the-cx-contact-center-experience-with-ai-powered-smart-routing/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/disrupting-the-cx-contact-center-experience-with-ai-powered-smart-routing/",
-      "publishedDateTime": "2022-08-24T08:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-24-tesla-releases-new-deep-dive-presentations-on-its-dojo-ai-supercomputer.md",
       "title": "Tesla releases new deep-dive presentations on its Dojo AI supercomputer",
       "excerpt": "Tesla has released two new deep-dive presentations into its Dojo AI supercomputer ahead of its upcoming AI Day 2. You can check the slides from both presentations below. Dojo is Tesla’s own custom supercomputer platform built from the ground up for AI machine learning and more specifically for video training using the video data coming",
@@ -1186,49 +1240,6 @@
         "AI",
         "AI Ethics",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-best-robot-vacuums-for-pet-hair-in-2022-according-to-reviewers.md",
-      "title": "Best robot vacuums for pet hair in 2022, according to reviewers",
-      "excerpt": "The iRobot Roomba j7+ is designed with the issue of dog poop in mind ... better to control the appliance remotely. Pet owners, including this verified purchaser, love the Lefant robot vacuum ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cbsnews.com/essentials/the-best-robot-vacuums-for-pet-hair-according-to-reviewers/",
-      "originalUrl": "https://www.cbsnews.com/essentials/the-best-robot-vacuums-for-pet-hair-according-to-reviewers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/27/4604bf4c-ab99-4e25-ab66-5d3d51e6e2cc/thumbnail/1200x630/6650ffd64506ce0b99930afb0d07a219/robot-vacuum-pet-header.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/the-best-robot-vacuums-for-pet-hair-according-to-reviewers/",
-      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/the-best-robot-vacuums-for-pet-hair-according-to-reviewers/",
-      "publishedDateTime": "2022-08-24T04:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CBS News",
-        "domain": "cbsnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

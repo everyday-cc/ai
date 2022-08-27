@@ -2,6 +2,49 @@
   "page": 29,
   "value": [
     {
+      "path": "_news/2022-08-02-global-artificial-intelligence-computing-software-market-analysis-2021-2026.md",
+      "title": "Global Artificial Intelligence Computing Software Market Analysis 2021-2026",
+      "excerpt": "The \"Artificial Intelligence Computing Software: Market Analysis\" report has been added to ResearchAndMarkets.com's offering. Market is predicted to grow from $",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/08/g28304243/global-artificial-intelligence-computing-software-market-analysis-2021-2026",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/g28304243/global-artificial-intelligence-computing-software-market-analysis-2021-2026",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28304243",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28304243",
+      "publishedDateTime": "2022-08-02T01:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-02-mint-group-mitigates-tech-skills-shortage-with-erp-academy.md",
       "title": "Mint Group mitigates tech skills shortage with ERP Academy",
       "excerpt": "Designed to empower potential Microsoft Dynamics 365 F&O Consultants with both technical knowledge and non-technical skills, the Mint Academy programme was established because of the need to identify talent in the ERP space.",
@@ -1094,49 +1137,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-how-to-use-ios-16s-expanded-sound-recognition-tool.md",
-      "title": "How to use iOS 16's expanded sound recognition tool",
-      "excerpt": "Sound recognition can also be incorporated into ... to find a customization option that most closely aligns with the object you want to record, whether an alarm or appliance.",
-      "sourceUrl": null,
-      "webUrl": "https://mashable.com/article/apple-ios-how-to-use-sound-recognition",
-      "originalUrl": "https://mashable.com/article/apple-ios-how-to-use-sound-recognition",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://helios-i.mashable.com/imagery/articles/04Hh8SbnXWh0qWWcwO2IimI/hero-image.fill.size_1200x675.v1659105953.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T08:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mashable",
-        "domain": "mashable.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

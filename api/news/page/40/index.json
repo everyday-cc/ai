@@ -2,6 +2,59 @@
   "page": 40,
   "value": [
     {
+      "path": "_news/2022-07-25-is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it.md",
+      "title": "Is It Ethical To Use Robots In War? What Are The Risks Associated With It?",
+      "excerpt": "The use of robots in combat has always raised the ‘ethics’ question. This post tries to answer it by taking a detailed look at the pros and cons of using robots in wars.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62d7bf3b38b838131187f422/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/07/25/is-it-ethical-to-use-robots-in-war-what-are-the-risks-associated-with-it/amp/",
+      "publishedDateTime": "2022-07-25T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-07-25-google-fires-software-engineer-that-claimed-that-its-ai-chatbot-is-self-aware.md",
       "title": "Google fires software engineer that claimed that its AI chatbot is self aware",
       "excerpt": "Google announced that it has just fired a senior software engineer after he began claiming that the company’s AI (artificial intelligence) chatbot was a sentient being (became self aware). According to a Reuters report,",
@@ -1102,48 +1155,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-23-detecting-covert-consciousness-with-eeg-and-artificial-intelligence.md",
-      "title": "Detecting Covert Consciousness with EEG and Artificial Intelligence",
-      "excerpt": "For those who appear totally unresponsive, researchers have discovered that signs of covert consciousness or subtle brainwaves detected by an EEG (ElectroE | Health And Medicine",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/health-and-medicine/23245/detecting-covert-consciousness-eeg-artificial-intelligence-2",
-      "originalUrl": "https://www.labroots.com/trending/health-and-medicine/23245/detecting-covert-consciousness-eeg-artificial-intelligence-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.labroots.com/_public/_files/system/ck/trending/IMG_0154_4ff1954b914dfc72b4ed6408d0168a4c.PNG",
-          "width": 1280,
-          "height": 915,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/health-and-medicine/23245/detecting-covert-consciousness-eeg-artificial-intelligence-2/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/health-and-medicine/23245/detecting-covert-consciousness-eeg-artificial-intelligence-2/amp",
-      "publishedDateTime": "2022-07-23T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

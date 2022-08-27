@@ -2,6 +2,109 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-08-16-speech-and-voice-recognition-market-future-scenario-key-insights-top-companies-2028.md",
+      "title": "Speech and Voice Recognition Market – Future Scenario, Key Insights, Top Companies 2028",
+      "excerpt": "The Global Speech and Voice Recognition Market 2022 that centers around Speech and Voice Recognition market examines the significant components with a top to bottom methodology and empowers the client to survey the drawn-out based interest additionally predicts explicit executions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-future-scenario-key-insights-top-companies-2028-2022-08-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-market-future-scenario-key-insights-top-companies-2028-2022-08-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T03:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-what-will-a-dystopian-world-with-ai-in-charge-be-like.md",
+      "title": "What Will A Dystopian World With AI In Charge Be Like?",
+      "excerpt": "Artificial intelligence has been around for a long time, ever since computers have been able to make decisions based on inputs and conditions. When we see AI gone rogue in the movies, it's the system's malevolence combined with the power of some machines that frightens people.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/16/what-will-a-dystopian-world-with-ai-in-charge-be-like/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/16/what-will-a-dystopian-world-with-ai-in-charge-be-like/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e8de3551653d7fcab80b06/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/16/what-will-a-dystopian-world-with-ai-in-charge-be-like/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/08/16/what-will-a-dystopian-world-with-ai-in-charge-be-like/amp/",
+      "publishedDateTime": "2022-08-16T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-natural-language-processing-nlp-market-intelligence-report-global-forecast-to-2027-researchandmarketscom.md",
       "title": "Natural Language Processing (NLP) Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com",
       "excerpt": "The \"Natural Language Processing Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Natural Language Processing Market is ...",
@@ -404,41 +507,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-integrateai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data.md",
-      "title": "integrate.ai Announces Availability of New Platform for Collaborative Machine Learning and Analytics Across Sensitive Data",
-      "excerpt": "Traditional approaches to machine learning and analytics require centralization and ... In the heavily regulated worlds of healthcare, financial services, and manufacturing, roadblocks to collaborating with sensitive data abound – from existing and ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/integrate-ai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data",
-      "originalUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/integrate-ai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     },
     {
@@ -1089,57 +1157,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-tiktok-adds-an-ai-image-generator-but-its-no-dall-e.md",
-      "title": "TikTok adds an AI image generator, but it's no DALL-E",
-      "excerpt": "You don't need to fire up DALL-E if you want AI to create images from text — you just need a popular social media app. The Verge notes TikTok has introduced a rudimentary \"AI greenscreen\" effect in its Android and iOS apps that turns your text descriptions into artwork.",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/tiktok-ai-text-to-image-generator-142534525.html",
-      "originalUrl": "https://www.engadget.com/tiktok-ai-text-to-image-generator-142534525.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 207,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2021-05/63a2fa70-ae89-11eb-adf7-03b9a23b7e63",
-          "width": 5000,
-          "height": 3333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.engadget.com/amp/tiktok-ai-text-to-image-generator-142534525.html",
-      "cdnAmpWebUrl": "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/tiktok-ai-text-to-image-generator-142534525.html",
-      "publishedDateTime": "2022-08-15T08:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

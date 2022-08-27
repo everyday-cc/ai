@@ -5,7 +5,12 @@ excerpt: "Major language translation device market participants include Sourcene
 publishedDateTime: 2022-08-23T10:33:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28596363/language-translation-device-market-to-hit-usd-2-5-bn-by-2030-says-global-market-insights-inc"
 webUrl: "https://www.benzinga.com/pressreleases/22/08/n28596363/language-translation-device-market-to-hit-usd-2-5-bn-by-2030-says-global-market-insights-inc"
+ampWebUrl: "https://www.benzinga.com/amp/content/28596363"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28596363"
 type: article
+quality: 32
+heat: 32
+published: false
 
 provider:
   name: Benzinga.com
@@ -15,6 +20,12 @@ topics:
   - Natural Language Processing
   - AI
 
-secured: "FWWrNTghlED/xv0nd61G2N/VdstXRPF6hc6sW0G9cv8MrU400MLraEnAxwk1AoogIRpcYs5DlQLnDIe8OVPalXxCOmBEAip/8dWVSB8nZz96SPWE/jS2zlVDilnCcHDcVkhXTBj2EkF5vXmK1Eh95PU+mk61EhdhPkYuI3LwLOXxOPJRjCYfA6TIUOrUOVD0d8x20bj6iv4NfpvLLmozzSuQPcrtx+lOZ/V3XrIFNQFrZMsa7WsQ4VKUUJ5OGBSufw8i+qiAzW6VgJgpNLHySEZ3vvksQUAY6dvUCLLN6QB4siIDH9yn2rUsc85eDCVURNYcLKcNyTYR/ErSouYsMAW1ZBwy119vR8WQxUpmTEo=;O1TgJhYSQOa+UTHDoGY9Ow=="
+images:
+  - url: "https://mma.prnewswire.com/media/1883515/Language_Translation_Device_Market.jpg"
+    width: 400
+    height: 209
+    isCached: true
+
+secured: "qzqjs9Ya+BtxgS1aHvFa4zUBCWSfm5t4KrFhGy3Y787dalH30t94csrWZj+Ye5Sb3j59EJC1YuMtQ2OFOkEgn0J7EPQ+ZkPe52yVlgg6wJLiQmiNrxtan3ZN3k0AzwfZuQGRV+J5i9F0B2S5HTPu5J0mbLbZXh83qdZ0RvXXXu5MX5VCng+o8DGOCjjleGDyR89qLSrdkUgQZk5xoWqZABKPJQxVd2jOKATVmqrIw3k97ohIhDNtDSveiMkg+y4vtQ6NpOMKkYoCcIPE7OG21mDrDQAVb8pcuYvYDoPZ+WZQEaxInc02mqlcXV/dgxIiGVZoMGGmj+S6QgjQzDyQ1K5gRISocMdbKFJFtkXj2nc=;C0IsQwck/FD/OCrpb4vqzw=="
 ---
 

@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://www.fudzilla.com/media/k2/items/cache/cf8fb1e6031e9eb102d230bd10eaa25f_L.jpg"

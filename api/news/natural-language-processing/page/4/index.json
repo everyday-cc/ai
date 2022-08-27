@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-28-iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology.md",
+      "title": "IIT Madras launches ‘Nilekani Centre at AI4Bharat’ to advance Indian language technology",
+      "excerpt": "AI4Bharat will further contribute to and accelerate the Indic language AI work as a public good and ... has helped develop models for Machine Translation and Speech Recognition, among other ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology-8907751.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology-8907751.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2022/07/Mr-Nandan-Nilekani-3rd-R-Prof-V-Kamakoti-L-Director-IIT-Madras-at-launch-of-‘Nilekani-Centre-at-AI4Bharat’-set-up-at-IIT-Madras-588x435.jpg",
+          "width": 588,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology-8907751.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/iit-madras-launches-nilekani-centre-at-ai4bharat-to-advance-indian-language-technology-8907751.html/amp",
+      "publishedDateTime": "2022-07-28T05:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-28-lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles.md",
+      "title": "LG, SoundHound Team Up for Advanced AI Voice Control in Vehicles",
+      "excerpt": "SoundHound's voice recognition technology will be integrated with LG's in-vehicle infotainment (IVI) system, allowing drivers to control key functions using natural language commands. Just as you ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/cars-auto/141746/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles",
+      "originalUrl": "https://uk.pcmag.com/cars-auto/141746/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehicles",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/l/lg-soundho/lg-soundhound-team-up-for-advanced-ai-voice-control-in-vehic_8gdq.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-28T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why.md",
       "title": "A gold-rush of NLP startups is about to arrive — here’s why",
       "excerpt": "Remember Natural Language Processing? NLP arose several years ago but it was only in 2018 that AI researchers proved it was possible to train a neural network once on a large amount of data and use it again and again for different tasks.",
@@ -1268,92 +1363,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners.md",
-      "title": "Far North iwi media hub launches app to support te reo language learners",
-      "excerpt": "Te Hiku Media has officially launched its Rongo mobile app, designed to get more people speaking te reo Māori, with correct pronunciation, in the comfort of their own homes. The app was supported by Te Mātāwai - Māori Language Revitalisation through the Te Reo Tukutuku fund.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nzherald.co.nz/northland-age/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
-      "originalUrl": "https://www.nzherald.co.nz/northland-age/news/far-north-iwi-media-hub-launches-app-to-support-te-reo-language-learners/UEDH3O4T3CSPLEXYKGPILVO2II/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T11:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The New Zealand Herald",
-        "domain": "nzherald.co.nz",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple.md",
-      "title": "Baidu Announces Breakthrough In Speech Recognition, Claiming To Top Google And Apple",
-      "excerpt": "But he couldn't help revealing better speech recognition as a key area of interest in the age of the smartphone. Today, Baidu, often called China's Google, unveiled the first results of what the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/roberthof/2014/12/18/baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple/",
-      "originalUrl": "https://www.forbes.com/sites/roberthof/2014/12/18/baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/blogs-images/roberthof/files/2014/12/andrewngbaidu.jpg?format=jpg&width=1200",
-          "width": 664,
-          "height": 443,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/roberthof/2014/12/18/baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/roberthof/2014/12/18/baidu-announces-breakthrough-in-speech-recognition-claiming-to-top-google-and-apple/amp/",
-      "publishedDateTime": "2022-07-18T10:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

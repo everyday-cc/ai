@@ -8,8 +8,8 @@ webUrl: "https://venturebeat.com/ai/ai-risk-management-framework/"
 ampWebUrl: "https://venturebeat.com/ai/ai-risk-management-framework/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-risk-management-framework/amp/"
 type: article
-quality: 81
-heat: 91
+quality: 83
+heat: 93
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - Facebook AI
   - AI
+  - Microsoft AI
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-robot_machine_learning_AI_1323774184-e1659571276418.jpg?w=1200&strip=all"

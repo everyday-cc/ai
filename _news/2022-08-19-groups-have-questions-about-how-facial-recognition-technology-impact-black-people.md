@@ -1,26 +1,29 @@
 ---
 category: news
 title: "Groups have questions about how facial recognition technology impact Black people"
-excerpt: "Several organizations are voicing concerns about the use of facial recognition technology, and its accuracy and fairness. A recently released Pew Research Center study shows Black Americans are ..."
-publishedDateTime: 2022-08-19T16:03:00Z
-originalUrl: "https://www.aol.com/groups-questions-facial-recognition-technology-154900553.html"
-webUrl: "https://www.aol.com/groups-questions-facial-recognition-technology-154900553.html"
+excerpt: "Simply put, the technology–with varying degrees of accuracy–has difficulty identifying faces, especially Black and brown ones, under less-than-ideal circumstances. “This technology is ..."
+publishedDateTime: 2022-08-19T16:04:00Z
+originalUrl: "https://thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/"
+webUrl: "https://thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/"
+ampWebUrl: "https://thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/amp/"
+cdnAmpWebUrl: "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/amp/"
 type: article
 
 provider:
-  name: AOL
-  domain: aol.com
+  name: The Grio
+  domain: thegrio.com
 
 topics:
-  - Computer Vision
+  - Natural Language Processing
   - AI
+  - Computer Vision
 
 images:
-  - url: "https://s.yimg.com/uu/api/res/1.2/OX5BwgXD4_uVzwQkbOLXjw--~B/aD02NTk7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_thegrio_365/2ea75693490473c6c26a2f528b7276b3"
-    width: 1024
-    height: 659
+  - url: "https://thegrio.com/wp-content/uploads/2019/12/Facial-Recognition.jpg"
+    width: 1250
+    height: 805
     isCached: true
 
-secured: "989oZ/1TZKqB5PW1Y9atqJun6pbtHa8Y8990rkjCmkgee1GtEdS5uRXH9XaUEgMRJer9SiKcLL9fDL8ioO3TPCXVKvJA325C6HhHzACm/FTqWmG/qPHh7/pB+finacoDEWybeEWxe3bJFbsfmnZMOra12quCOat9euIooXs2+Qg99CyhjA2Zjs4jJwGr5Rnbms70NLT1t4iKhK+y5V0CgNuh9UkhhXqOFERsasdcqywF6gwBThXCdtsS6lMdxcavcaVwHME6IctaEp7Obp8ijtkFuPj8RxGujR1lW8+20AErK+vU8ogW4ENlVIzuc9g/2ywhV+3a6cI4KcFqjzjck6JsXeFmYTGD2Yb5gXVluJA=;mRHul81LpcRWCTTmXXtUMQ=="
+secured: "I6RzSJ83Rbvx8YYgD/WVE9622yt5bQLccZ0T5wN06e27fYWLJmUkrTGzuOjEzV0E8zXAvqeMBo/HT30FCv6pVKi/F/YYJTlqo95y1jZugMq4Fk8jLIP0N7jdOVnGFlV6hY/RyPkQzeTdy08vPwg67zUZZ0WVppkfZ9NJg/A4EAhEEYB6wEEKNjKUDmj4GsHV0e5LEUeBks9hBZAclcYsM1i3/1NgY3TZtcR1iJ3dfbaQwQGeoBCOv+qSetMHdGN164/tN7QSYY3Wq/a4JbfRnUvLtzZ/+hCjzjhPcaIMFH6d0njjW4y5LibXM7JXPh3qeQ/gfNubf+mTGXtwGKDVjdPHZ/N7nR/naDtFjoaYnyg=;nv/Q7gLL6DtEsPw5nw3YUw=="
 ---
 

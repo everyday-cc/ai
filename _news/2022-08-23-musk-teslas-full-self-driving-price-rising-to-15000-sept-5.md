@@ -41,38 +41,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk says Tesla is raising the price of its full self-driving feature to $15,000"
-    excerpt: "Despite the name, the technology does not allow Tesla vehicles to drive themselves without human participation."
-    publishedDateTime: 2022-08-22T21:32:00Z
-    webUrl: "https://www.nbcnews.com/business/autos/tesla-full-self-driving-capability-price-hike-rcna44290"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna44290"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna44290"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 97
-    images:
-      - url: "https://iframe.nbcnews.com/amp169/thumbnail"
-        width: 640
-        height: 360
-        isCached: true
-  - title: "Some Tesla drivers use kids as a prop to test 'full self-driving' feature"
-    excerpt: "A software CEO is asking Tesla to ban their 'self-driving' feature until they can prove the software will detect children. In defense of the company, some Tesla enthusiasts used their children as props to show that the feature really works."
-    publishedDateTime: 2022-08-22T22:54:00Z
-    webUrl: "https://www.cnn.com/videos/business-money/2022/08/22/tesla-driver-uses-kids-as-prop-full-self-driving-tapper-sot-vpx.cnn"
-    ampWebUrl: "https://amp.cnn.com/cnn/videos/business-money/2022/08/22/tesla-driver-uses-kids-as-prop-full-self-driving-tapper-sot-vpx.cnn"
-    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/videos/business-money/2022/08/22/tesla-driver-uses-kids-as-prop-full-self-driving-tapper-sot-vpx.cnn"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 88
-    images:
-      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220822182904-tesla-driver-kid-prop-super-tease.jpg"
-        width: 1100
-        height: 619
-        isCached: true
   - title: "Tesla ‘full self-driving’ debate escalates with legal threats, banned videos"
     excerpt: "Tesla fans rushed to defend the automaker after a prominent critic released a video showing one of the company's cars with the feature it calls \"full self-driving\" plowing into child-size mannequins."
     publishedDateTime: 2022-08-25T20:41:00Z

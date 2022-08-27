@@ -40,7 +40,7 @@ related:
     provider:
       name: VentureBeat
       domain: venturebeat.com
-    quality: 81
+    quality: 83
     images:
       - url: "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-robot_machine_learning_AI_1323774184-e1659571276418.jpg?w=1200&strip=all"
         width: 1200

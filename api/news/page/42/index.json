@@ -2,6 +2,49 @@
   "page": 42,
   "value": [
     {
+      "path": "_news/2022-07-22-baidu-rolls-out-apollo-rt6-vrooming-for-ride-hailing.md",
+      "title": "Baidu rolls out Apollo RT6 vrooming for ride-hailing",
+      "excerpt": "Beijing officially launched China's first pilot area for commercial autonomous driving vehicle services on Wednesday. Baidu and self-driving startup Pony.ai are the first batches of enterprises ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html",
+      "originalUrl": "https://www.chinadaily.com.cn/a/202207/22/WS62d9fddfa310fd2b29e6dca4.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://img2.chinadaily.com.cn/images/202207/22/62d9fddfa310fd2bec97c698.jpeg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-22T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "中国日报网",
+        "domain": "chinadaily.com.cn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-22-on-a-mission-to-eliminate-135-million-road-crash-deaths-using-ai-and-robotic-technologies.md",
       "title": "On a mission to eliminate 1.35 million road crash deaths using AI and robotic technologies",
       "excerpt": "Researchers at Lero, Lero, the Science Foundation Ireland Research Centre for Software, are teaming up with automotive perception company Provizio to",
@@ -1087,58 +1130,6 @@
       ],
       "topics": [
         "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics.md",
-      "title": "Sign up for free and tune in today for TC Sessions: Robotics",
-      "excerpt": "Robotics is finally here, and we can’t wait to get things started! If you don’t have your free pass yet, no worries — sign in here to register. Then join more than 3,000 global attendees online for a full day exploring the latest news,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/21/sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics/",
-      "originalUrl": "https://techcrunch.com/2022/07/21/sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/07/TC22_Sessions_Robotics_Wordpress-Post-Header_0-Days-Left-Early-Bird-Countdown_1200x628.png?w=1024",
-          "width": 1024,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/21/sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/21/sign-up-for-free-and-tune-in-today-for-tc-sessions-robotics/amp/",
-      "publishedDateTime": "2022-07-21T07:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

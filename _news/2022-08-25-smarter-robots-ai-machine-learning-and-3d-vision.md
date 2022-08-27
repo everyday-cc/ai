@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-25T16:51:00Z
 originalUrl: "https://www.packworld.com/machinery/robotics/article/22340562/smarter-robots-ai-machine-learning-and-3d-vision"
 webUrl: "https://www.packworld.com/machinery/robotics/article/22340562/smarter-robots-ai-machine-learning-and-3d-vision"
 type: article
-quality: 54
+quality: 71
 heat: -1
 published: false
 

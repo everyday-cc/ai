@@ -315,19 +315,19 @@
     {
       "path": "_news/2022-08-19-groups-have-questions-about-how-facial-recognition-technology-impact-black-people.md",
       "title": "Groups have questions about how facial recognition technology impact Black people",
-      "excerpt": "Several organizations are voicing concerns about the use of facial recognition technology, and its accuracy and fairness. A recently released Pew Research Center study shows Black Americans are ...",
+      "excerpt": "Simply put, the technology–with varying degrees of accuracy–has difficulty identifying faces, especially Black and brown ones, under less-than-ideal circumstances. “This technology is ...",
       "sourceUrl": null,
-      "webUrl": "https://www.aol.com/groups-questions-facial-recognition-technology-154900553.html",
-      "originalUrl": "https://www.aol.com/groups-questions-facial-recognition-technology-154900553.html",
+      "webUrl": "https://thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/",
+      "originalUrl": "https://thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://s.yimg.com/uu/api/res/1.2/OX5BwgXD4_uVzwQkbOLXjw--~B/aD02NTk7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_thegrio_365/2ea75693490473c6c26a2f528b7276b3",
-          "width": 1024,
-          "height": 659,
+          "url": "https://thegrio.com/wp-content/uploads/2019/12/Facial-Recognition.jpg",
+          "width": 1250,
+          "height": 805,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -335,13 +335,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T09:03:00-07:00",
+      "ampWebUrl": "https://thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/amp/",
+      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/amp/",
+      "publishedDateTime": "2022-08-19T09:04:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "AOL",
-        "domain": "aol.com",
+        "name": "The Grio",
+        "domain": "thegrio.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -351,8 +351,9 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
-        "AI"
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
       ]
     },
     {

@@ -2,6 +2,49 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2022-08-01-how-to-use-ios-16s-expanded-sound-recognition-tool.md",
+      "title": "How to use iOS 16's expanded sound recognition tool",
+      "excerpt": "Sound recognition can also be incorporated into ... to find a customization option that most closely aligns with the object you want to record, whether an alarm or appliance.",
+      "sourceUrl": null,
+      "webUrl": "https://mashable.com/article/apple-ios-how-to-use-sound-recognition",
+      "originalUrl": "https://mashable.com/article/apple-ios-how-to-use-sound-recognition",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://helios-i.mashable.com/imagery/articles/04Hh8SbnXWh0qWWcwO2IimI/hero-image.fill.size_1200x675.v1659105953.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mashable",
+        "domain": "mashable.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-01-deepmind-research-predicts-structure-of-almost-every-known-protein.md",
       "title": "DeepMind research predicts structure of almost every known protein",
       "excerpt": "The breakthrough will help to tackle major global challenges such as developing malaria vaccines and fighting plastic pollution, experts say. Proteins are the building blocks of life, and their ...",
@@ -1104,58 +1147,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5.md",
-      "title": "Why Corporate Purpose And AI Ethics Must be A Leadership And Risk Management Priority (Blog 4 Of 5)",
-      "excerpt": "This blog series looks at the meaning of corporate purpose, the importance of AI Ethics, and evolving audit practices internally and externally to improve risk management practices, and advance digital literacy foundations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e6bd39f8e4f0e5ea6d6fd8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/amp/",
-      "publishedDateTime": "2022-07-31T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

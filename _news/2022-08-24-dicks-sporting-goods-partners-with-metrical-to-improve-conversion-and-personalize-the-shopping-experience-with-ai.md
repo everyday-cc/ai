@@ -34,20 +34,6 @@ related:
         width: 1280
         height: 1280
         isCached: true
-  - title: "Observe.AI wants to boost contact center performance with advanced reporting and analytics"
-    excerpt: "The idea is that business leaders can leverage those insights to improve business performance and outcomes, the company said today. Observe.ai is the creator of an intelligent call center platform that helps human operators with tasks such as customer service."
-    publishedDateTime: 2022-08-23T13:00:00Z
-    webUrl: "https://siliconangle.com/2022/08/23/observe-ai-wants-boost-contact-center-performance-advanced-reporting-analytics/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 27
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/female-hacker-cracking-binary-code.jpg"
-        width: 1500
-        height: 1000
-        isCached: true
 
 secured: "nVW/Q6qjrQmrcOOSGpv2HhvrFG67/SIG5W45ol9IfugU61gfwp7fSlBI2xJDffO0F0V/vvZwI6uzQ3ZsDIE0zC7zN9eogejTayGgU74OALJ911CObjoHHYKIlDFT80dxMLeKUTMT9zNGXAkoEASTgYiy+zCF6FlxbpHH1DApGapAb7FX8YLZLGku2N1+p3ipokrOtvfkH47s9Xw/CdyAtnHDEgGd8nA2KkOd1FwRU6J1B/I0krvoqKyIPn36odelWPGfSsv9r8xSd3AMsBAwCzOhfE65t5oanFBHx78hvxq17yy4QoR+3/eOIwMhbzgjZyk8Bk4HGnCwNAPw+c1Jk8Ytg8AYuCB+oiQPnWZmaWE=;QwZnlLQH/jpAWonJppXSzw=="
 ---

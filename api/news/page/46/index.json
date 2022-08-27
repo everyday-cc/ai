@@ -2,6 +2,40 @@
   "page": 46,
   "value": [
     {
+      "path": "_news/2022-07-19-hyfe-joins-forces-with-merck-to-deploy-its-artificial-intelligence-powered-cough-detection-and-counting-technology.md",
+      "title": "Hyfe Joins Forces with Merck to Deploy Its Artificial Intelligence-Powered Cough Detection and Counting Technology",
+      "excerpt": "Hyfe, Inc., the global leader in AI-powered cough detection, tracking and classification, has entered into an agreement with Merck, known as MSD outside the United States and Canada, to integrate its artificial intelligence-powered (AI) cough tracker technology into Merck’s consumer disease educational efforts.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-e6f89d9e8e464b0385a9bd3858264d44",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-united-states-artificial-intelligence-e6f89d9e8e464b0385a9bd3858264d44",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-top-8-uses-of-data-analytics-in-accounting-and-finance.md",
       "title": "Top 8 Uses Of Data Analytics In Accounting And Finance",
       "excerpt": "Over the last couple of decades, data analytics has become the ultimate business dialect for better decision-making, with organizations integrating some form of data science into their business operations.",
@@ -1067,57 +1101,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-19-global-legaltech-artificial-intelligence-market-new-innovations-and-future-expansion-2022-2028.md",
-      "title": "Global LegalTech Artificial Intelligence Market New Innovations and Future Expansion 2022-2028",
-      "excerpt": "The report involves six major parameters namely market analysis, market definition, market segmentation, key developments in the global LegalTech Artificial Intelligence market, competitive analysis,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-legaltech-artificial-intelligence-market-new-innovations-and-future-expansion-2022-2028-2022-07-18",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-legaltech-artificial-intelligence-market-new-innovations-and-future-expansion-2022-2028-2022-07-18",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T19:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
