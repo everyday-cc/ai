@@ -3,13 +3,13 @@ category: news
 title: "New Study Highlights Opportunities for Artificial Emotional Intelligence"
 excerpt: "Emotion AI, also known as artificial emotional intelligence, is a subset of AI that reacts, simulates, quantifies, and comprehends human emotions. Affective computing is computing"
 publishedDateTime: 2022-08-24T22:20:00Z
-originalUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence"
-webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence"
-ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence?amp"
-cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence?amp"
+originalUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence"
+webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence"
+ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence?amp"
+cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence?amp"
 type: article
-quality: 43
-heat: 43
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,7 +17,6 @@ provider:
   domain: psychologytoday.com
 
 topics:
-  - AI in Healthcare
   - AI
 
 images:
@@ -53,6 +52,6 @@ related:
         height: 939
         isCached: true
 
-secured: "0dIsT21X3Hv2n8LxGexxsqRjfRHX+urtfU0E+IIfJXKuPsdo0recSBUVhRe10zCVJfMSBCi42HwKjLe92YVUaUxHZVIr7kqbeWYMoZMbImZUmNyCEA4izCwSpnrOx5T8sz75DO1MNnRq7WvIafenIL3iqodHd4/bq/OtLchN+eGBdNQs+ARkdYPdQHVtkCwaSpL9scBsPnrwmMaeyS71DAO3ZPafs6IYxdN3lfErp51/hu42Dp/e4M+BwdbNCsA/PBi4a1gTCPddrcpmFbBpNKVFTmE7HfmTBW8TW1G05waSlPSipkpdO6Bsj1ZKqemHyyre0E9QwwuY720cQXCt8aJpIAzHqEe1lpHortxjNW0=;ZVEc/CqCpPXIIHmaFuvHTw=="
+secured: "mvNXlQdkYBNvHIc6El+wvdegWkFAjixGdXzv0a99ljA4VXCPqX041vm351rczYKiXZDgA8wT0tXU0QOP2tmAznk/4JsAJ6i6xslhT3FjXxyqZ0r131riw3vql9blwqJsJes2ohf5dsHF+Mb9lA9tgs9Qwmd6vvYAx6yEFd8v8vQRaWnQginelLrizNuVsHDK+RLZ2IsnSuhNX9JaWn39E4+53SXKfPQhucJcfOoF8CSRtZ3xF5HeOnjjNF6bLtQmyqzLrPAPLWiC6DMmL1nvt4UDEEIVXCX6h/8g1UQzvrLqQAC0YWEDEZCLSW5Hj6ssmd4Ne/tkvNHL0CrOxLj2hYMQvAPwHeZVef4LbfXcKbk=;sItxXVOGO8ozSJSUT94qLA=="
 ---
 

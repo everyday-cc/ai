@@ -2,6 +2,48 @@
   "page": 56,
   "value": [
     {
+      "path": "_news/2022-07-12-argo-ai-lays-off-150-closes-washington-dc-operation.md",
+      "title": "Argo AI lays off 150, closes Washington D.C. operation",
+      "excerpt": "Argo AI, a well-funded driverless car company, said it is making prudent adjustments to best continue on a path for success.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/argo-ai-lays-off-150-closes-washington-d-c-operation/",
+      "originalUrl": "https://www.therobotreport.com/argo-ai-lays-off-150-closes-washington-d-c-operation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/07/argo-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-11T10:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-11-gpu-as-a-service-market-to-value-usd-65-billion-by-2030-says-global-market-insights-inc.md",
       "title": "GPU As A Service Market To Value USD 65 Billion By 2030, Says Global Market Insights Inc.'",
       "excerpt": "GPU as a Service (GPUaaS ... as a service market share by 2030 led by growing adoption of cloud computing and AI technologies across various industries. Various enterprises are adopting cloud ...",
@@ -1084,57 +1126,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-10-this-ai-powered-text-to-speech-tool-makes-voiceovers-sound-true-to-life.md",
-      "title": "This AI powered text-to-speech tool makes voiceovers sound true to life",
-      "excerpt": "The problem is that they often make videos sound robotic and lifeless, which is never good. Wish there was a better option? Then check out Speechnow, an AI-powered tool that makes video voiceovers sound true to life.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcworld.com/article/804788/this-ai-powered-text-to-speech-tool-makes-voiceovers-sound-true-to-life.html",
-      "originalUrl": "https://www.pcworld.com/article/804788/this-ai-powered-text-to-speech-tool-makes-voiceovers-sound-true-to-life.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.pcworld.com/wp-content/uploads/2022/07/sale_314201_article_image-1.jpeg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcworld.com/article/804788/this-ai-powered-text-to-speech-tool-makes-voiceovers-sound-true-to-life.html/amp",
-      "cdnAmpWebUrl": "https://www-pcworld-com.cdn.ampproject.org/c/s/www.pcworld.com/article/804788/this-ai-powered-text-to-speech-tool-makes-voiceovers-sound-true-to-life.html/amp",
-      "publishedDateTime": "2022-07-10T07:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC World",
-        "domain": "pcworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -1127,57 +1127,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-23-ai-startup-anyscale-adds-99-million-to-andreessen-horowitz-led-funding-round.md",
-      "title": "AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round",
-      "excerpt": "The company initially announced a $100 million Series C venture investment round led by Andreessen Horowitz in December.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
-      "originalUrl": "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 144,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-608499/social",
-          "width": 1279,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
-      "publishedDateTime": "2022-08-23T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-23-first-fda-cleared-autonomous-ai-makes-new-moves-in-healthcare-diagnostics.md",
       "title": "First FDA-cleared autonomous AI makes new moves in healthcare diagnostics",
       "excerpt": "The first autonomous AI system authorized by the FDA, for diagnosing diabetic retinopathy, has raised $75M in a series B funding round.",
@@ -1227,6 +1176,49 @@
       "topics": [
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-robotics-artificial-intelligence-competition-to-spur-production-underway.md",
+      "title": "Robotics, Artificial Intelligence : Competition to Spur Production Underway",
+      "excerpt": "Some 60 students, start-upers, researchers from across the country that were preselected have begun competing for prizes.",
+      "sourceUrl": null,
+      "webUrl": "https://cameroon-tribune.cm/article.html/50569/en.html/robotics-artificial-intelligence-competition-spur-production",
+      "originalUrl": "https://cameroon-tribune.cm/article.html/50569/en.html/robotics-artificial-intelligence-competition-spur-production",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cameroon-tribune.cm//administrateur/photo/normal_7b6e847.jpg",
+          "width": 960,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cameroon",
+        "domain": "cameroon-tribune.cm",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
       ]
     }
   ],

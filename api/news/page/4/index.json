@@ -2,49 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-08-23-robotics-artificial-intelligence-competition-to-spur-production-underway.md",
-      "title": "Robotics, Artificial Intelligence : Competition to Spur Production Underway",
-      "excerpt": "Some 60 students, start-upers, researchers from across the country that were preselected have begun competing for prizes.",
-      "sourceUrl": null,
-      "webUrl": "https://cameroon-tribune.cm/article.html/50569/en.html/robotics-artificial-intelligence-competition-spur-production",
-      "originalUrl": "https://cameroon-tribune.cm/article.html/50569/en.html/robotics-artificial-intelligence-competition-spur-production",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cameroon-tribune.cm//administrateur/photo/normal_7b6e847.jpg",
-          "width": 960,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cameroon",
-        "domain": "cameroon-tribune.cm",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-23-raising-startup-funding-used-to-be-easynot-anymore.md",
       "title": "Raising Startup Funding Used to Be Easy—Not Anymore",
       "excerpt": "In recent years investors greeted founders with generous checks and warm smiles, but now CEOs seeking cash encounter cold shoulders.",
@@ -182,6 +139,57 @@
         "AI",
         "AI in Healthcare",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round.md",
+      "title": "AI Startup Anyscale Adds $99 Million to Andressen Horowitz-Led Funding Round",
+      "excerpt": "The company initially announced a $100 million Series C venture investment round led by Andressen Horowitz in December.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?mod=newsviewer_click",
+      "originalUrl": "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?mod=newsviewer_click",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 144,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-608499?width=860&height=573",
+          "width": 860,
+          "height": 573,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200",
+      "publishedDateTime": "2022-08-23T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -633,7 +641,7 @@
       "originalUrl": "https://www.zdnet.com/article/can-ai-serve-as-a-great-equalizer-in-the-real-estate-industry/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 101,
+      "heat": 91,
       "tags": null,
       "images": [
         {

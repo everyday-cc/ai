@@ -428,6 +428,58 @@
       ]
     },
     {
+      "path": "_news/2022-08-14-i-am-in-fact-a-person-can-artificial-intelligence-ever-be-sentient.md",
+      "title": "‘I am, in fact, a person’: can artificial intelligence ever be sentient?",
+      "excerpt": "Friendly robots: Google’s chatbot LaMDA told ... These are visible on its website, where Google promises to “develop artificial intelligence responsibly in order to benefit people and society”.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/aug/14/can-artificial-intelligence-ever-be-sentient-googles-new-ai-program-is-raising-questions",
+      "originalUrl": "https://www.theguardian.com/technology/2022/aug/14/can-artificial-intelligence-ever-be-sentient-googles-new-ai-program-is-raising-questions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/79666117553f3c948df7e3dc2dc6cbc12fb53c5e/0_456_7196_4317/master/7196.jpg?width=620&quality=85&auto=format&fit=max&s=1d5e2d965cbc21c08ae023a1180d3c75",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/aug/14/can-artificial-intelligence-ever-be-sentient-googles-new-ai-program-is-raising-questions",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/14/can-artificial-intelligence-ever-be-sentient-googles-new-ai-program-is-raising-questions",
+      "publishedDateTime": "2022-08-14T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-13-cyberone-xiaomi-unveils-humanoid-robot-capable-of-sensing-human-emotions.md",
       "title": "CyberOne: Xiaomi unveils humanoid robot capable of sensing human emotions",
       "excerpt": "Also Read Samsung Galaxy Watch 5, Watch 5 Pro India prices revealed; pre-bookings to start from August 16 Samsung ... “CyberOne’s AI and mechanical capabilities are all self-developed by ...",
@@ -1359,49 +1411,6 @@
       "provider": {
         "name": "techxplore",
         "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-top-5-bitcoin-trading-robots-for-2022.md",
-      "title": "Top 5 Bitcoin Trading Robots for 2022",
-      "excerpt": "Crypto trading robots must be alert and available to trade at all times if they want to make the greatest transactions. Once again, some traders can lose out on successful transactions due to trading slowdowns and transaction delays.",
-      "sourceUrl": null,
-      "webUrl": "https://www.peacefmonline.com/pages/business/news/202208/471995.php",
-      "originalUrl": "https://www.peacefmonline.com/pages/business/news/202208/471995.php",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://w5p2r8x5.stackpathcdn.com/photos/news/202111/768212374_698734.jpg",
-          "width": 600,
-          "height": 444,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-10T04:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Peace FM Online",
-        "domain": "peacefmonline.com",
         "images": null,
         "publishers": null,
         "authors": null

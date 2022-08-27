@@ -208,20 +208,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Musk says Tesla raising 'Full Self-Driving' price to $15,000"
-    excerpt: "Driving,' or FSD, has been criticized because the features require active supervision and don’t make its vehicles autonomous."
-    publishedDateTime: 2022-08-22T10:30:00Z
-    webUrl: "https://www.autonews.com/regulation-safety/musk-says-tesla-raising-full-self-driving-price-15000"
-    type: article
-    provider:
-      name: Automotive News
-      domain: autonews.com
-    quality: 54
-    images:
-      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Tesla%20Hood-MAIN_0.jpg"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Tesla sticker shock: Price of feature it calls ‘full self-driving’ jumps to $15,000"
     excerpt: "Tesla is raising the price of its controversial driver-assist feature it calls \"full self-driving\" to $15,000. But Tesla buyers can purchase it for $12,000 until Sept. 5."
     publishedDateTime: 2022-08-23T16:05:00Z
@@ -351,15 +337,6 @@ related:
       name: Detroit News
       domain: detroitnews.com
     quality: 30
-  - title: "Elon Musk announces price hike for Tesla's Full Self-Driving feature"
-    excerpt: "SpaceX CEO Elon Musk has announced a price hike for Tesla's Full Self-Driving feature that will be implemented into its pricing next month."
-    publishedDateTime: 2022-08-22T10:50:00Z
-    webUrl: "https://www.tweaktown.com/news/88053/elon-musk-announces-price-hike-for-teslas-full-self-driving-feature/index.html"
-    type: article
-    provider:
-      name: TweakTown
-      domain: tweaktown.com
-    quality: 19
   - title: "Tesla wants anti-self-driving car video taken down"
     excerpt: "Tesla sent a cease-and-desist letter to an advocacy group critical of self-driving vehicles after it posted a video showing a Tesla car running over a child-sized mannequin."
     publishedDateTime: 2022-08-25T19:18:00Z

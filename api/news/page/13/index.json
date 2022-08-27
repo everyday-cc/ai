@@ -730,6 +730,58 @@
       ]
     },
     {
+      "path": "_news/2022-08-14-i-am-in-fact-a-person-can-artificial-intelligence-ever-be-sentient.md",
+      "title": "‘I am, in fact, a person’: can artificial intelligence ever be sentient?",
+      "excerpt": "Friendly robots: Google’s chatbot LaMDA told ... These are visible on its website, where Google promises to “develop artificial intelligence responsibly in order to benefit people and society”.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/aug/14/can-artificial-intelligence-ever-be-sentient-googles-new-ai-program-is-raising-questions",
+      "originalUrl": "https://www.theguardian.com/technology/2022/aug/14/can-artificial-intelligence-ever-be-sentient-googles-new-ai-program-is-raising-questions",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/79666117553f3c948df7e3dc2dc6cbc12fb53c5e/0_456_7196_4317/master/7196.jpg?width=620&quality=85&auto=format&fit=max&s=1d5e2d965cbc21c08ae023a1180d3c75",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/aug/14/can-artificial-intelligence-ever-be-sentient-googles-new-ai-program-is-raising-questions",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/14/can-artificial-intelligence-ever-be-sentient-googles-new-ai-program-is-raising-questions",
+      "publishedDateTime": "2022-08-14T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-14-the-one-practice-that-is-separating-the-ai-successes-from-the-failures.md",
       "title": "The One Practice That Is Separating The AI Successes From The Failures",
       "excerpt": "What are the 20% of successful AI organizations doing that are setting themselves apart from the failures, leading their projects to success?",
@@ -1113,49 +1165,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-the-role-of-motion-control-in-medical-robotics.md",
-      "title": "The Role of Motion Control in Medical Robotics",
-      "excerpt": "Finding the right motion control solution can support robotic advances for minimally invasive procedures. Motion control is a critical component of almost all of today’s robotic applications, explains Aleksandar Nacev,",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/motion-control/role-motion-control-medical-robotics",
-      "originalUrl": "https://www.designnews.com/motion-control/role-motion-control-medical-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/motion%20control%20webinar%20DT613X.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-12T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

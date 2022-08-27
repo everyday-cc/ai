@@ -44,6 +44,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 44
+  - title: "Who will establish metaverse ethics?"
+    excerpt: "The metaverse is not a new concept. The term was coined by science fiction novelist Neal Stephenson in his 1992 book Snow Crash, which depicts a hyper-capitalist dystopia in which humanity has collectively opted into life in virtual environments."
+    publishedDateTime: 2022-08-27T03:40:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202208/27/WS6309699da310fd2b29e74891.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202208/27/6309699da310fd2bec9e80f9.jpeg"
+        width: 669
+        height: 840
+        isCached: true
   - title: "Kura Technologies’ Artificial Intelligence Generated Optics Deliver the Highest Performance for the Future of the Metaverse"
     excerpt: "Kura Technologies, an award-winning developer of the best-in-class augmented reality (AR) smart glasses and platform, today announced that its fully custom and highly-anticipated development kit optics are up and running in the lab with production to start later this year."
     publishedDateTime: 2022-08-24T11:03:00Z

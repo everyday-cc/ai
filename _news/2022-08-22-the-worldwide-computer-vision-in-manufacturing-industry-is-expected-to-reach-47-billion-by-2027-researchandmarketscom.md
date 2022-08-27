@@ -19,43 +19,24 @@ topics:
   - AI
 
 related:
-  - title: "AI in Oil and Gas Market to Reach $7.99 Bn, Globally, by 2031 at 13.5% CAGR: Allied Market Research"
-    excerpt: "Allied Market Research published a report, titled, \" AI in Oil and Gas Market by Component (Solution, Services), by Operation (Upstream, Midstream, Downstream): Global Opportunity Analysis and Industry Forecast,"
-    publishedDateTime: 2022-08-22T10:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-ai-oil-gas-market-reach-799-bn-globally-/2022/08/22/9659711.htm"
+  - title: "Europe Robotic Lawn Mower Market to Reach $1.25 Billion by 2027 - ResearchAndMarkets.com"
+    excerpt: "The Europe robotic lawn mower market size reached US$ 617 Million in 2021. Looking forward, the publisher expects the market to reach US$ 1,256 Million by 2027, exhibiting a CAGR of 12.58% during 2021-2027."
+    publishedDateTime: 2022-08-22T11:24:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-22-europe-robotic-lawn-mower-market-to-reach-125-billion-by-2027-researchandmarketscom"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 10
+  - title: "Procurement Analytics Market Size Worth $18.18 Billion By 2030: Grand View Research, Inc."
+    excerpt: "The global procurement analytics market size is expected to reach USD 18.18 billion by 2030, according to a new report by Grand View Research, Inc. It is expected to expand at a CAGR of 23.6% from 2022 to 2030."
+    publishedDateTime: 2022-08-25T14:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/08/25/9662484.htm"
     type: article
     provider:
       name: TMCnet
       domain: tmcnet.com
-    quality: 23
-    images:
-      - url: "https://mma.prnewswire.com/media/636519/Allied_Market_Research_Logo.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Global Artificial Intelligence In Livestock Farming Market To Record An Exponential CAGR By 2030 -By Insightace Analytic"
-    excerpt: "InsightAce Analytic Pvt. Ltd. announces the release of a market assessment report on the 'Global Artificial Intelligence in Livestock Farming Market - by Component (Solution/ Software/ App, IoT Sensors,"
-    publishedDateTime: 2022-08-25T12:30:00Z
-    webUrl: "https://menafn.com/1104755124/Global-Artificial-Intelligence-In-Livestock-Farming-Market-To-Record-An-Exponential-CAGR-By-2030-By-Insightace-Analytic"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 14
-    images:
-      - url: "https://menafn.com/updates/pr/2022-08/25/EP_3b9ecimage_story.jpeg"
-        width: 600
-        height: 314
-        isCached: true
-  - title: "Urban Security Screening Market To Accrue $22.3 Bn, Globally, By 2031 At 10.1% CAGR: Allied Market Research'"
-    excerpt: "Rise in the smart cities generated demand for security systems at airports, thereby boosting the growth of the global urban security screening ma"
-    publishedDateTime: 2022-08-24T12:32:00Z
-    webUrl: "https://menafn.com/1104748013/Urban-Security-Screening-Market-To-Accrue-223-Bn-Globally-By-2031-At-101-CAGR-Allied-Market-Research"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 2
+    quality: 0
 
 secured: "HkiMhgtHy6LSeU2QmA3lBXafblaiUhhlVJ/ocbtfqJsJVYWzUaSyRTGE04lZUVMlgMMhIwPgwbLGaSu8VrVLkRDOxpmTyizUWWC5tgjbXYhgUeLTq+dh1owGQQRIqmUWNUYfppfp9SKtsL3Ap4A2ZHnzuQyXeNwGlmF3Rz0rEM7OXqwXivdEjHN0zvthyaWvcVwbNsBcEqW8z8UeSUrQTZ12AcNUfuNjbsrHTabR1FCAWEGDfPMBIgSY9VKu006awibl76rT2o+EpNH/mIJL3jWDp/924TST8AIkcYeFKtrLhsoqyeteNfpuaXrNm+sv/cZRH8MbAAC4Lc7mv8Res0JJRvneAZOkX6cpiaHtQZY=;rT/cJZAFXWypHJXyeIf7vQ=="
 ---

@@ -2,6 +2,58 @@
   "page": 126,
   "value": [
     {
+      "path": "_news/2022-05-20-machine-learning-as-a-service-market-foresee-scrutiny-and-demand-with-predict-recapitulation-to-2025.md",
+      "title": "Machine Learning as a Service Market foresee scrutiny and Demand with predict recapitulation To 2025",
+      "excerpt": "Global Machine Learning as a Service Market Report by Market Study report scrutinizes the overall market synopsis globally, their restraining factors, drivers, major challenges, opportunities, latest trends to stabilize the global Machine Learning as a Service market situation,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-foresee-scrutiny-and-demand-with-predict-recapitulation-to-2025-2022-05-20",
+      "originalUrl": "https://www.marketwatch.com/press-release/machine-learning-as-a-service-market-foresee-scrutiny-and-demand-with-predict-recapitulation-to-2025-2022-05-20",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-20T06:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-20-ai-experts-are-in-short-supply-thats-making-the-skills-crisis-worse.md",
       "title": "AI experts are in short supply. That's making the skills crisis worse",
       "excerpt": "A study by IBM concluded that the UK is falling behind its European neighbours in AI adoption, with employers blaming a lack of skills in areas like software engineering, problem solving, and knowledge of programming languages.",
@@ -1072,49 +1124,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-edge-artificial-intelligence-ai-software-market-analysis-worth-usd-25193-million-in-2028-emergen-research.md",
-      "title": "Edge Artificial Intelligence (AI) Software Market Analysis Worth USD 2,519.3 Million In 2028 | Emergen Research",
-      "excerpt": "which are crucial for robotics and self-driving vehicles. The Global Edge Artificial Intelligence (AI) Software Market Research Report has been formulated by analysis of key business details and ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104243093/Edge-Artificial-Intelligence-AI-Software-Market-Analysis-Worth-USD-25193-Million-In-2028-Emergen-Research?source=304",
-      "originalUrl": "https://menafn.com/1104243093/Edge-Artificial-Intelligence-AI-Software-Market-Analysis-Worth-USD-25193-Million-In-2028-Emergen-Research?source=304",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?996390",
-          "width": 344,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-19T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

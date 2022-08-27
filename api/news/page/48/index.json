@@ -2,6 +2,41 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2022-07-18-insight-financial-marketing-celebrates-20th-year-anniversary.md",
+      "title": "Insight Financial Marketing Celebrates 20th Year Anniversary",
+      "excerpt": "IFM's services provide financial institutions with large scale transactional analysis and consulting identifying opportunities to help strengthen and grow their client relationships. Founded on July 16,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/n28098898/insight-financial-marketing-celebrates-20th-year-anniversary",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/n28098898/insight-financial-marketing-celebrates-20th-year-anniversary",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-advance-auto-parts-introduces-superfan-ed-vance-giving-emerging-auto-enthusiasts-a-new-voice-in-growing-category.md",
       "title": "Advance Auto Parts Introduces Superfan ‘Ed Vance,’ Giving Emerging Auto Enthusiasts a New Voice In Growing Category",
       "excerpt": "Advance Auto Parts (NYSE: AAP), a leading automotive aftermarket parts provider, today introduced its No. 1 fan \"Ed Vance,” revolutionizing the category by representing the voice of an emerging segment of automobile enthusiasts – those learning to DIY and craving a partner on their journey.",
@@ -1089,50 +1124,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-artificial-intelligence-in-pakistan.md",
-      "title": "Artificial intelligence in Pakistan",
-      "excerpt": "Those films portray a highly advanced version of AI, formally known as Artificial General Intelligence (AGI), which is currently close to impossible. Unlike Hollywood, AI today focuses on narrow problems,",
-      "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan",
-      "originalUrl": "https://tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": " https://i.tribune.com.pk/media/images/China-AI1633983096-0/China-AI1633983096-0.jpg  ",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan?amp=1",
-      "publishedDateTime": "2022-07-17T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],
