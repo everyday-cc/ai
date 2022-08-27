@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/24/tesla-deep-dive-presentations-dojo-ai
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/24/tesla-deep-dive-presentations-dojo-ai-supercomputer/amp/"
 type: article
 quality: 106
-heat: 116
+heat: 126
 published: true
 
 provider:
@@ -48,6 +48,17 @@ related:
         width: 583
         height: 439
         isCached: true
+  - title: "Musk Announces Tesla Bot Launch On AI Day 2022"
+    excerpt: "SpaceX CEO Elon Musk shared an update about the Tesla Bot “Optimus.” He announced that his company’s android would debut on AI Day, September 30, 2022. “Tesla Bots are initially positioned"
+    publishedDateTime: 2022-08-27T07:15:00Z
+    webUrl: "https://technology.inquirer.net/117492/elon-musk-announces-tesla-bot"
+    ampWebUrl: "https://technology.inquirer.net/117492/elon-musk-announces-tesla-bot/amp"
+    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/117492/elon-musk-announces-tesla-bot/amp"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 54
 
 secured: "wacyg6OBlqaGjifAs81N+T0yvLYXUdtXw5xYB5BC3IwqjDht1CHaPG/SzqK/clIVNkI5scmL9GP/66c2CHuZawnn2yVu2LkoSJboWKQw9CALUuzey0eDp9O+QEKJMi3qlJsUkMtYESJAArrxzoXsVzfpOBm1K1xZYjVBdJTGG8geaxquKFiOydSRvHjxwszUoCPDdESo1d+/OEttlT8KnlmJ2x/bPPySCmuS7jUb7ZGULvNJXmVjEgw5m/e6YlBLzDg6MLXI5yUWc572+frJEgolQg/6JHA1sMJ162uGiMykz8TEDRy6wOX32nbnlAvYfLRRjo0ZGuVBFJOv7oTEliCedfxARTXB4AYUxuZEKPh27yVk84IrCgjcdivI/eCHvvfSzVJaDeHV7ULCYmcWor3KFuCuwIaMPoxJvbg3jNR/qIaW03SeLxSCB6e+37OpmgDArR2Zl9CQjnGz7yGF33xAuCUkbAsVOymW7C3Q608MiMkU138PbtoUTdfxF8kjQPSUVPUX0CxD211ZIF7tfQ==;gYTEseB9LLV0jd+u6zAURw=="
 ---

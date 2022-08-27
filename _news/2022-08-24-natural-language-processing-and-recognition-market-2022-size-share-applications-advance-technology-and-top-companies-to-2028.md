@@ -57,34 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Europe Artificial Intelligence In Retail Market Size, Analytical Overview, Growth Factors, Demand and Trends Forecast to 2027"
-    excerpt: "According to the research report titled 'Europe Artificial Intelligence in Retail Market Forecast 2027 By Application, By Component, By Technology, Research Report, Country Outlook, COVID-19 Impact Statistics,"
-    publishedDateTime: 2022-08-22T13:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-in-retail-market-size-analytical-overview-growth-factors-demand-and-trends-forecast-to-2027-2022-08-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud AI Developer Services Market 2022 Leading Players Updates, Demand, Current & Future Plans By Forecast To 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 22, 2022 (The Expresswire) -- The research report of the global Cloud AI Developer Services Market is thorough ..."
-    publishedDateTime: 2022-08-22T14:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-developer-services-market-2022-leading-players-updates-demand-current-future-plans-by-forecast-to-2028-2022-08-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence in Market Size 2022, Share, Growth with Recent Trends, Development, Revenue, Demand and Forecast to 2026"
     excerpt: "The Latest research study released by expert Global Artificial Intelligence in Market with analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development,"
     publishedDateTime: 2022-08-24T10:55:00Z
@@ -168,20 +140,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Healthcare Artificial Intelligence Market Global Demand, Growth, Size, Share, Trends, Opportunities and Forecast to 2027"
-    excerpt: "In the healthcare industry, artificial intelligence is being utilized to investigate the link between treatment methods and patient outcomes. Medication management, treatment regimens, and drug ..."
-    publishedDateTime: 2022-08-22T13:57:00Z
-    webUrl: "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-global-demand-growth-size-share-trends-opportunities-and-forecast-to-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 29
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/f4f04bbf0a33e2251f03a5748650712826f14ff2-2-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
   - title: "Global Social Robots Market Report (2022 to 2027) - Industry Trends, Share, Size, Growth, Opportunity and Forecasts - ResearchAndMarkets.com"
     excerpt: "The global social robots market size reached US$ 2.6 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 13.3 Billion by 2027, exhibiting a CAGR of 31.26% during 2021-2027."

@@ -65,15 +65,6 @@ related:
       name: Insider
       domain: insidermedia.com
     quality: 4
-  - title: "Urban Money by Square Yards is spearheading fintech revolution in real estate"
-    excerpt: "lies a suite of tech capabilities driving its fintech powertrain, helping the company disburse paperless mortgages in a matter of minutes instead of days or weeks. Once a customer fills his financial requirements online, an AI-based eligibility engine dete ..."
-    publishedDateTime: 2022-08-22T13:24:00Z
-    webUrl: "https://www.livemint.com/brand-stories/urban-money-by-square-yards-is-spearheading-fintech-revolution-in-real-estate-11661174451540.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 1
 
 secured: "+5XyWUEtJ2kLY/4Qoe00Hz4AGFqG0L4uThK8Q3jVRdaufAx93efwjR3IgN5bmCuYw59aksjlYYMLsxnBVjDa+qqRzNCnrgBdpXS3Nrngf2W6y+dXFs6dLAkuizRvUaM1bR9Ib5Ojdut2zhDXpgBEb56OyxOd/eDJ6TYZKYziTaJoYKrtNzZO4z+jhdNP5DD1uTKGX6B7eoQfvPAJg4ZWR84JLpmgnjBzoKC8wRkCRM3chYBe+klBZz5xopJqRryr2F03I3RXiRZ6tRAMezNvo+TrAi1T5Boo3+s4l1wEfJ/jRXInFSy/LmqdvrANI0yWm+gsdJ7719QyQWDzfsztj2HuPeMZdsE1PJkY0Qa7WwQ=;tHmIIO2IreYLHXjPky5V5A=="
 ---

@@ -78,29 +78,6 @@ related:
         width: 500
         height: 333
         isCached: true
-  - title: "Streamline healthcare operations with machine learning"
-    excerpt: "Across the entire healthcare continuum, patients and practitioners are benefiting from machine learning (ML) and the way in which it streamlines day-to-day treatment processes. From bedside care to data mining and beyond, cutting-edge ML technology is ..."
-    publishedDateTime: 2022-08-22T14:30:00Z
-    webUrl: "https://www.embedded.com/streamline-healthcare-operations-with-machine-learning/"
-    type: article
-    provider:
-      name: Embedded
-      domain: embedded.com
-    quality: 51
-  - title: "Streaming-First Infrastructure for Real-Time Machine Learning"
-    excerpt: "and continual learning, when machine learning models are capable of continually adapting to change in data distributions in production. Kate Wardin discusses seven tips to foster an enjoyable and ..."
-    publishedDateTime: 2022-08-22T13:21:00Z
-    webUrl: "https://www.infoq.com/articles/streaming-first-real-time-ml/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 39
-    images:
-      - url: "https://res.infoq.com/articles/streaming-first-real-time-ml/en/headerimage/streaming-ml-header-logo-1660833205193.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "+jECg9oPw5bjSfkVWWlOXTLcbWmLE2L7LJ1ehuOw2VD6JlsZVqSuq080Bz/fxGVhhkUEvLQ7fX2YAvnE2huIpstWRirJ8tqLqAZfC4V7XRcXWTSIL+c90XAOn6qVqMXbLCx72h8e+ww47nuPwaPflpq5i/KE/EMJ1dr/SZV+uUqghOURUr1AVeMdm1GIJy7FJKof712JEBMA63q+2C7cndY+dRksV1VkE5eliebe5i1IMwimAP1sf4tRtaosF1uIswx4pW2pE4sdoMNIX91dTXlAm2KsXXoR+iN12ZAUia5h285iEtez70GBGna5nLRB4HFZFAO9DiiSZAWWkW+rfBnLJwayM/25C8pHLU3gIXY=;O4A6YHoIkV2KZCw2yiXF0A=="
 ---

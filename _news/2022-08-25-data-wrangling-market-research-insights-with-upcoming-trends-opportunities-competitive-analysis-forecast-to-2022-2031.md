@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "North America Artificial Intelligence In Retail Market Size, Key Companies, Trends, Growth and Regional Forecasts Research 2027"
-    excerpt: "Improved efficiency, speed, and accuracy in the retail sector is the pivotal factor boosting North America artificial intelligence in retail market growth. Availability of advanced data and information due to the incorporation of AI in business is enabling store owners to materialize data driven business strategies."
-    publishedDateTime: 2022-08-22T13:54:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-in-retail-market-size-key-companies-trends-growth-and-regional-forecasts-research-2027-2022-08-22"
+  - title: "Deep Learning in Drug Discovery and Diagnostics Market Reliable Business Data Analysis and Forecast by 2028"
+    excerpt: "The study also includes information on current product releases, technological breakthroughs, and other developments to provide the buyers with a complete picture of the Deep Learning in Drug Discovery and Diagnostics industry."
+    publishedDateTime: 2022-08-24T09:03:00Z
+    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-drug-discovery-and-diagnostics-market-reliable-business-data-analysis-and-forecast-by-2028-2022-08-24"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 54
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

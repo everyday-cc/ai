@@ -56,15 +56,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 21
-  - title: "Urban Money by Square Yards is spearheading fintech revolution in real estate"
-    excerpt: "lies a suite of tech capabilities driving its fintech powertrain, helping the company disburse paperless mortgages in a matter of minutes instead of days or weeks. Once a customer fills his financial requirements online, an AI-based eligibility engine dete ..."
-    publishedDateTime: 2022-08-22T13:24:00Z
-    webUrl: "https://www.livemint.com/brand-stories/urban-money-by-square-yards-is-spearheading-fintech-revolution-in-real-estate-11661174451540.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 1
   - title: "GCV Leads £695K Investment in Finexos, a Fintech Focused on Making Credit More Accessible"
     excerpt: "GCV has led a £695,000 investment round into Finexos, a fintech platform set \"to improve access to credit for millions of people around the world.\""
     publishedDateTime: 2022-08-24T12:38:00Z

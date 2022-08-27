@@ -2,27 +2,25 @@
 category: news
 title: "Capitol Records drops artificial intelligence rapper after just one week"
 excerpt: "The AI-created rapper named FN Meka was meant to be the first augmented reality music artists to be signed to a major label."
-publishedDateTime: 2022-08-25T01:38:00Z
-originalUrl: "https://www.wptv.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
-webUrl: "https://www.wptv.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
-ampWebUrl: "https://www.wptv.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week?_amp=true"
-cdnAmpWebUrl: "https://www-wptv-com.cdn.ampproject.org/c/s/www.wptv.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week?_amp=true"
+publishedDateTime: 2022-08-25T01:36:00Z
+originalUrl: "https://www.news5cleveland.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
+webUrl: "https://www.news5cleveland.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
 type: article
-quality: 56
+quality: 36
 heat: -1
 published: false
 
 provider:
-  name: WPTV
-  domain: wptv.com
+  name: Cleveland
+  domain: news5cleveland.com
 
 topics:
   - AI
 
 images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/36f0c0d/2147483647/strip/true/crop/3719x2092+54+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F7a%2F22%2Fcaf7db494a18a01db7c00f559d55%2Fscreen-shot-2022-08-24-at-10.27.58%20PM.png"
-    width: 1280
-    height: 720
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/76a0d07/2147483647/strip/true/crop/3828x2010+0+41/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F7a%2F22%2Fcaf7db494a18a01db7c00f559d55%2Fscreen-shot-2022-08-24-at-10.27.58%20PM.png"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -121,6 +119,6 @@ related:
       domain: popsci.com
     quality: 17
 
-secured: "NqpB+Gl7LIdPH5iFmlVbUThpHmZfQIVQhyQ/p5zwINZhe5OU2AKYq5nABRZxWHUw2ykgxmv/2ERlIg8Mv9/Sfo0MOQy1c/owrNGQOSotdjhLUwhl5pomKcl1/LbeVSaLGcsxRd6uTMhNtOHvXGDh15q6HSm3KL21UqV898/ZgyG2umocfuIF8oVzfduaYqBYsrqw0UEuHzykV1MKElq9spi8maQ++sayMoY7flnntY8AabVsRAEfdeaE/p2kDWdmGPGI3zMbQuynX62x0GyGwq/FCQ9tziiFz0PqW9BejnUTyGNOcHFzh30bNLydyBJNf0iXUZdb6nE5rMkdgT7gdVSGgMUcbOq29GDtFyvtJSI=;aErSF0j6Dm5+pUlJinBefw=="
+secured: "K53ZHFDGcWg3e9HfniyCxXEEhTyBicHjEU9rQ0rjRV7692xQAFMYj8so0BWql3kywhceuW6fy/GRh3nYweTb3UcWFldApaUH+cwdymf7JkncQT2fRnlho+UCoPIUAX7fVRkiSiu8R+mldQVD6iBabwo6N3vlS4h/uaoI+LvoHgu/FzECO4FOecHFHmSib1WCCJrR32W5uChgzHIs5N+uTMaS1jMpEk/I+xV2h/kInDDuXSqsVF/Vrmddb1Y0Ltv2Ser/fkXwcHCedxQqvYuKxn+epnFPB44oNRf2HejXw4lGq+fe0gTGxmPpyF1gvwbqdqC2Pxpsp2beZCLVlFiBgROBR6l9Vqbi81vyPEyNSCk=;/4PodbxoT2DEHWwhZN1L2g=="
 ---
 

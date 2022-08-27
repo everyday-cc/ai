@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/08/26/microsoft-tiktok-parent-bytedanc
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/26/microsoft-tiktok-parent-bytedance-collaborate-on-ai-project-kuberay.html"
 type: article
 quality: 91
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -45,15 +45,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
-    excerpt: "New Jersey, NJ -- (SBWIRE) -- 08/22/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
-    publishedDateTime: 2022-08-22T13:08:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-41"
-    type: article
-    provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 28
 
 secured: "gra/j3FOYIH7bXfn+kspiZxoiN/2bGbEQZQReG7Vh5uBRHL+SqjAzXEY9nhVRY7pGcs4ek8LDcz8cXGhgygUFd4IqNvr0R0zO5l1eSPNM8dbIv4hInoDM6I9Q7ZQDlszyJ4V2AtesvZODQb2OWcfeKY2OvyvpsOZ6bnnMw/XiadzbGQAJC89aEnoa3hxCmY7NIKytX6VOjr+kPplAPaB/iDT4+8uuqhlNpk+wRwKnnFpBKB97Ww8cP2O9ChHh0dcbGYsrhuiYTcXVQsp7MNYMcxe3qp9SkkWZLLl1bwOkB+oG44TOfl1IDXEpWAfklZVONhDpxdb25TX792O/w8Fc76+T6qpAKwfR3QAfzFjUTgVaeascSXNuEJ58Lyir4TKPf8yLE8VW4QnOcoqCFssqESzCKYS76xcWGSdf8LBKzIf5oMyk88JxDrkM5GOAC1V0yGnh1dogfut43VtxPHlpICUEwKu9MT+Zor5q1G05DLFqKK90/PZXYFkBqo7wONjhEzkYl3YwDljvaq9RGNN3g==;D4xHveNc68DJhnMh6RAM1g=="
 ---

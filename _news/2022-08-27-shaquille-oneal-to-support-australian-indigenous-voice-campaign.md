@@ -41,6 +41,22 @@ related:
         width: 836
         height: 540
         isCached: true
+  - title: "Shaquille O’Neal meets with PM in support of Indigenous voice to parliament"
+    excerpt: "Anthony Albanese announces the NBA legend will be part of the effort to mobilise support in the lead-up to a referendum"
+    publishedDateTime: 2022-08-27T06:12:00Z
+    webUrl: "https://www.theguardian.com/australia-news/2022/aug/27/shaquille-oneal-meets-with-pm-in-support-of-indigenous-voice-to-parliament"
+    ampWebUrl: "https://amp.theguardian.com/australia-news/2022/aug/27/shaquille-oneal-meets-with-pm-in-support-of-indigenous-voice-to-parliament"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/aug/27/shaquille-oneal-meets-with-pm-in-support-of-indigenous-voice-to-parliament"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 42
+    images:
+      - url: "https://i.guim.co.uk/img/media/6f5db949c8cc9f329d607d2847af3ff1fc02fcba/0_550_8256_4954/master/8256.jpg?width=620&quality=85&auto=format&fit=max&s=5d7a4495d0db1d78aa4fe4ed492844a7"
+        width: 620
+        height: 372
+        isCached: true
   - title: "Shaquille O'Neal joins PM as Anthony Albanese says 'world is watching' Voice to Parliament debate"
     excerpt: "Prime Minister Anthony Albanese enlists the support of NBA legend Shaquille O'Neal in calling for constitutional recognition of Indigenous Australians and a Voice to Parliament."
     publishedDateTime: 2022-08-27T04:23:00Z
@@ -71,6 +87,15 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Shaquille O’Neal to support Australia’s Indigenous ‘Voice’ campaign"
+    excerpt: "SYDNEY: American basketballer Shaquille O’Neal will throw his support behind the Australian government’s campaign to create an Indigenous “Voice to Parliament”, Prime Minister Anthony Albanese said today."
+    publishedDateTime: 2022-08-27T07:23:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/world/2022/08/27/shaquille-oneal-to-support-australias-indigenous-voice-campaign/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
   - title: "Anthony Albanese and Linda Burney meet with Shaquille O'Neal as government seeks to mobilise support for Voice to Parliament"
     excerpt: "Prime Minister Anthony Albanese and Indigenous Australians Minister Linda Burney have met with American basketball great Shaquille O'Neal as the government seeks to mobilise support for the Voice to Parliament."
     publishedDateTime: 2022-08-27T02:26:00Z

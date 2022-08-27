@@ -53,34 +53,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Europe Artificial Intelligence In Retail Market Size, Analytical Overview, Growth Factors, Demand and Trends Forecast to 2027"
-    excerpt: "According to the research report titled 'Europe Artificial Intelligence in Retail Market Forecast 2027 By Application, By Component, By Technology, Research Report, Country Outlook, COVID-19 Impact Statistics,"
-    publishedDateTime: 2022-08-22T13:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/europe-artificial-intelligence-in-retail-market-size-analytical-overview-growth-factors-demand-and-trends-forecast-to-2027-2022-08-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 55
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud AI Developer Services Market 2022 Leading Players Updates, Demand, Current & Future Plans By Forecast To 2028"
-    excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 22, 2022 (The Expresswire) -- The research report of the global Cloud AI Developer Services Market is thorough ..."
-    publishedDateTime: 2022-08-22T14:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-ai-developer-services-market-2022-leading-players-updates-demand-current-future-plans-by-forecast-to-2028-2022-08-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing and Recognition Market 2022 Size, Share, Applications, Advance Technology and Top Companies to 2028"
     excerpt: "The report is a comprehensive guide to comprehending the structure of the global Natural Language Processing and Recognition industry and the future trends that the industry is the potential to experience and thus would help plan an optimal approach to succeed in this Natural Language Processing and Recognition market."
     publishedDateTime: 2022-08-24T06:02:00Z
@@ -178,20 +150,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Healthcare Artificial Intelligence Market Global Demand, Growth, Size, Share, Trends, Opportunities and Forecast to 2027"
-    excerpt: "In the healthcare industry, artificial intelligence is being utilized to investigate the link between treatment methods and patient outcomes. Medication management, treatment regimens, and drug ..."
-    publishedDateTime: 2022-08-22T13:57:00Z
-    webUrl: "https://www.digitaljournal.com/pr/healthcare-artificial-intelligence-market-global-demand-growth-size-share-trends-opportunities-and-forecast-to-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 29
-    images:
-      - url: "https://www.digitaljournal.com/wp-content/uploads/2022/04/f4f04bbf0a33e2251f03a5748650712826f14ff2-2-600x337.jpg"
-        width: 600
-        height: 337
         isCached: true
 
 secured: "C/esrtIAGoNdQyNy7Hx9phLPh9LmBHRmP9B0ssuaTAlZLlAoGGvnacTYTYhn4Fwiq+/Fi/3qk2UZP/nS3Tma/JYeJyeJBZlzw4UbThuZ3ZL6kEGVLzB9s9eziVoGhW1EzaJJucwSHA2Ttwe1B2W1KoinIQUHRi7tviniEbKIuPiekpJyOguwYa5wpBUNmfqIpAa2RaoCvYSPRMJUZuKtdKmVTlfvEc7aXaKUBPfoIRouH4hZjoUaMOmaKKrM0lJvf7E/QTUNzuKi4IIhLFw3WOZiet2cclt/PBMB2aHycef9hBsMvN3ndFNOYEpCFDrww9cgHpev/DLXWqdjbLDzT36rnfcKzmZ4hihfH/phgkU=;D65Ej+d/YuHS22HHlEkGfw=="

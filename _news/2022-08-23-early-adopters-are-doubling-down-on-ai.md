@@ -95,20 +95,6 @@ related:
         width: 500
         height: 313
         isCached: true
-  - title: "5 Best Artificial Intelligence Stocks To Buy Now"
-    excerpt: "In this article, we discuss 5 best artificial intelligence stocks to buy now. If you want to read the introduction and detailed analysis of the artificial intelligence market, go to 11 Best Artificial Intelligence Stocks To Buy Now."
-    publishedDateTime: 2022-08-22T13:05:00Z
-    webUrl: "https://www.insidermonkey.com/blog/5-best-artificial-intelligence-stocks-to-buy-now-1058867/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 37
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/09/29221800/istockphoto-1274437411-170667a.jpg"
-        width: 584
-        height: 296
-        isCached: true
   - title: "GNS and Servier Announce AI Collaboration to Advance Multiple Myeloma Drug Discovery and Clinical Development"
     excerpt: "\"This collaboration furthers Servier's goal to accelerate its drug discovery and clinical development efforts through AI and biosimulation and other digital initiatives,\" said Claude Bertrand, EVP of Research and Development at Servier."
     publishedDateTime: 2022-08-24T14:13:00Z

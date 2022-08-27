@@ -45,22 +45,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "Elon Musk says Tesla is raising price of ‘Full Self-Driving’ feature to $15,000"
-    excerpt: "Elon Musk on Sunday announced the price of Tesla Inc.’s “Full Self-Driving” feature will rise by 25% next month, from $12,000 to $15,000. “After wide release of FSD Beta 10.69.2, price of FSD will rise to $15k in North America on September 5th ..."
-    publishedDateTime: 2022-08-22T14:08:00Z
-    webUrl: "https://www.marketwatch.com/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442"
-    ampWebUrl: "https://www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442"
-    cdnAmpWebUrl: "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 100
-    images:
-      - url: "https://images.mktw.net/im-528682/social"
-        width: 1280
-        height: 640
-        isCached: true
   - title: "Elon Musk says Tesla is raising the price of its full self-driving feature to $15,000"
     excerpt: "Despite the name, the technology does not allow Tesla vehicles to drive themselves without human participation."
     publishedDateTime: 2022-08-22T21:32:00Z
@@ -225,20 +209,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/david-von-diemar-ZBWn5DvO0hg-unsplash.jpg"
         width: 640
         height: 385
-        isCached: true
-  - title: "Tesla’s Full Self-Driving package is getting yet another price hike"
-    excerpt: "Tesla is raising the price of its Full Self-Driving (FSD) package to $15,000. The new price increase goes into effect for North American customers on September 5. That price increase coincides with a wider rollout of FSD Beta,"
-    publishedDateTime: 2022-08-22T14:00:00Z
-    webUrl: "https://knowtechie.com/teslas-full-self-driving-package-is-getting-yet-another-price-hike/"
-    type: article
-    provider:
-      name: KnowTechie
-      domain: knowtechie.com
-    quality: 39
-    images:
-      - url: "https://knowtechie.com/wp-content/uploads/2022/01/tesla-badge-rear-1000x600.jpg"
-        width: 1000
-        height: 600
         isCached: true
   - title: "Musk: Tesla’s Full Self-Driving Price Rising to $15,000 Sept. 5"
     excerpt: "Current price will be honored for orders made before Sept 5th, but delivered later. As of now, Full Self-Driving is still in Beta testing and available to a select number of Tesla-owning volunteer “testers” who have achieved a high enough,"

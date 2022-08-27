@@ -7,7 +7,7 @@ originalUrl: "https://www.insidermonkey.com/blog/10-best-small-cap-ai-stocks-105
 webUrl: "https://www.insidermonkey.com/blog/10-best-small-cap-ai-stocks-1058178/"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -22,22 +22,6 @@ images:
     width: 1920
     height: 1044
     isCached: true
-
-related:
-  - title: "11 Best Artificial Intelligence Stocks To Buy Now"
-    excerpt: "Artificial intelligence is defined as the intelligence displayed by machines, while natural intelligence is the term coined for the intelligence demonstrated by humans. Over the years, AI has developed multiple applications such as search engines,"
-    publishedDateTime: 2022-08-22T13:06:00Z
-    webUrl: "https://www.insidermonkey.com/blog/11-best-artificial-intelligence-stocks-to-buy-now-1058861/"
-    type: article
-    provider:
-      name: Insider Monkey
-      domain: insidermonkey.com
-    quality: 43
-    images:
-      - url: "https://d2gr5kl7dt2z3t.cloudfront.net/blog/wp-content/uploads/2021/06/07041450/lucas-law-44F07VuR9vQ-unsplash.jpg"
-        width: 1920
-        height: 1282
-        isCached: true
 
 secured: "0WvzOCVEfK3M8T8vLdaCOMaP5QrEvix0gvn4W++DtWqljwmJgRbymhn9p2SjrKJnMSDbE069oGbMDASckFvPbZr9l5iBU1oksl7RFPrTHK9AXHF/Jl3q+Yc+DIt5EG+UJKfR9ZfyS4wE1lcj79JN6BLKh6nu2oYHlxLmF40qDezbtrtx6TiqxcDqS8mpAOn1lshWfdH0rwL+FWcdNzUVBQxcGmmKsJ+iMD1vPc3RyY9Si1VvjUl2gtDao37O7IOx1ei71mX2VxL1jz13EYZjq3HhiKnDe0Tl+POSjNpsOc9NXeL4CuiR8Xvqjr4UNR8+vVsssZNf6T71cbjFfyThbI/0gtGSejhQCsBzZLpbm2RP+QwGCDli2WL/7+DPqAeg25jQuDfjzxCpg5cBtunJOXJKDHbTbz24XO+EQfoiT1ap9vMicTLJ3mVj+obTR3Ia1Qx2janBe03Ee15zbb3vcuXB6h4DKSvbv13jzdoHiIhqh5q5+2VVLLGgYNJWmXIkL1VPRz92u6slshCp+epuBg==;AOZygg9gBHtGTVOGLVajHA=="
 ---

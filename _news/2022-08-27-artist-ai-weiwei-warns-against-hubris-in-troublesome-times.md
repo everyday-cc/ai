@@ -1,30 +1,28 @@
 ---
 category: news
-title: "Artist Ai Weiwei warns against hubris in 'troublesome times'"
-excerpt: "Chinese dissident and artist Ai Weiwei lampoons the surveillance state and social media with his first glass sculpture, made on the Venetian island of Murano"
+title: "Artist Ai Weiwei Warns Against Hubris in 'Troublesome' Times"
+excerpt: "Chinese dissident and artist Ai Weiwei lampoons the surveillance state and social media with his first glass sculpture, made on the Venetian island of Murano."
 publishedDateTime: 2022-08-26T18:14:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/artist-ai-weiwei-warns-hubris-troublesome-times-88903036"
-webUrl: "https://abcnews.go.com/International/wireStory/artist-ai-weiwei-warns-hubris-troublesome-times-88903036"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/artist-ai-weiwei-warns-hubris-troublesome-times-88903036"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/artist-ai-weiwei-warns-hubris-troublesome-times-88903036"
+originalUrl: "https://www.usnews.com/news/entertainment/articles/2022-08-26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times"
+webUrl: "https://www.usnews.com/news/entertainment/articles/2022-08-26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times"
+ampWebUrl: "https://www.usnews.com/news/entertainment/articles/2022-08-26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times?context=amp"
+cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/entertainment/articles/2022-08-26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times?context=amp"
 type: article
-quality: 57
-heat: 57
+quality: 67
+heat: 67
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: U.S. News & World Report
+  domain: usnews.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI
 
-images:
-  - url: "https://s.abcnews.com/images/International/WireAP_90f8d3cb75274e19b69ddebc049849aa_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
-
-secured: "SBUxZCydBzjXwit1ZfPTM2mfVyO7kdh0/cdmCMc9w2lcj+fDetPNMUG2C3BgYt07gwbaV4sS4R/Zk7JlGurBjF3j+jm3C2sAHcninWFCLK+512on8qqWmJ9aBp4Ia5XQMDq1+6DMrMVOdaQijAxBUGsRFNlF3/nA57vyplHcWlH+lWRtAoyYEYBLryWLITewitxzWelLFH3nF1+Zd7faCJgpRpVhv+FOdxtDB00L4nylMh9jIFNlW4yC8ghVm9/iH6A0fHFN3eq0SQt3yP89eoFLFZYcague/1fGauEKuTJ8/7h5+Mb662U4bg8qLxomnq9KBQfO1CsxMsVKPMUVMX7wARE9YgOkW0enJYiwRN4=;B4LyPogXu2EJac2P6MIy6A=="
+secured: "jed3kfJdEiBn8O3RKK3PzEzy/N5H8wNjxrg7qLM2XKjwPg5dCa8UlfmepnxyK3KLNA6B+cHAFkBOLxNwt+CzO86ZuOp0rhSq9Oo0Ib8qXZT4XnkReEjzBX80A+X2Y11Xxl2RTv2qXLNVcwZj93b2QU7aqsYoo2NbAVZvoDETejlI0aFvUqgPGeX6seiS8wvIHBZhe8ZsD4q1it8SE4yWSC+6nx87RWsZSZwM3D4YMBmk+K9b1M4BPXdApUC0WyyTzhNToguGOqsXlIjlN2SLxxftTi/S38CRigAcpDSupYEzesOmlr4kiQOC2oWMZc9yvsBjghmSsy1vFp2QSx/V6AkArgIXVNIW9GGDqmhvtsAl86iysoiASzystrgL4m8oVKjKMSo/2jQ3yj8SV3mT8ppzjBFhi3UCoTW+3aHnbAvid0UghfKQAE3y/zEBdcDVmeU/qyP8wgmaZwxixfanrDUT1kvfWbO13c9qzZEr5Q3444EF2QZVbpuCXEfzcD0Jqyh+znbI+mjPiMtdsso5eA==;/yycDsmNv8spBQVlaEe6xw=="
 ---
 
