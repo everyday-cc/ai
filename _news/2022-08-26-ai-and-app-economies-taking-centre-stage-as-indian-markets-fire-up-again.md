@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial Intelligence: Path-breaking revolution in Indian Healthcare System"
+    excerpt: "In the form of machine learning, AI has the capability for the development of precision medicine, which is the future of advanced care. Although early.."
+    publishedDateTime: 2022-08-27T07:37:00Z
+    webUrl: "https://health.economictimes.indiatimes.com/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886"
+    ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886"
+    cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 71
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-93813886,imgsize-159690,width-1200,height-628,overlay-ethealthworld/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "AI To Eliminate Hiring Bias, Find Skilled Workers For Indian Firms"
     excerpt: "About 50 per cent of recruiters believe that AI will become a regular part of their hiring process in the coming years."
     publishedDateTime: 2022-08-23T08:23:00Z

@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-23T15:16:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c"
 webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c"
 type: article
-quality: 29
+quality: 46
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI Hardware
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"
@@ -69,15 +70,6 @@ related:
         width: 2560
         height: 1536
         isCached: true
-  - title: "Untether Unveils 2-PFLOPS AI Chip, Edge Roadmap"
-    excerpt: "At Hot Chips this week, Untether unveiled its second-gen architecture for AI inference, the first chip using this architecture, as well as plans to expand to edge and endpoint accelerators."
-    publishedDateTime: 2022-08-23T00:00:00Z
-    webUrl: "https://www.design-reuse.com/news/52539/untether-2-pflops-ai-chip.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 34
 
 secured: "w9bPQz0qgXQDci69idttJwEEEWdPMzGwlX+VbRmMdm1aV2ZP/fln8CqWxS2OwQwjhqVKcLcoyygLsLvqE/ooyCIBuoO8IG9jc7YHRvv7E/rF2SwvlDWyMOsl33DTp+BcwxtKY5E8H3tBX6hMiPfZXTild4R8E8hm8/CLBPTrc5nKNnA+gEwjiONBG8BqFUDD5XD6YLvvg/Y0cNIKzdWpyUKWaFwYCHvoOskBbWCgLOAi7/DSke1az3Max+iyl/EHRSmIwUYymNKdQrhU8DcvebtMm+6aUMeFrqWJrfXzvjgQvGN2nxQEwALVtKxVm2QmgtpWe2qEyUoceQDSMHkmeT2al/pikn00cx1oHNZ9Mm8=;lZdMlApzwRtVdO/YaLjrPQ=="
 ---

@@ -54,40 +54,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-25-the-humanoid-robots-are-coming.md",
-      "title": "The Humanoid Robots Are Coming",
-      "excerpt": "Especially as we see an increase in humanoid robot investments (which are designed and constructed to look and behave as human as possible). It’s feasible to imagine one robot flipping burgers while another takes orders in a customer-facing role.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/the-humanoid-robots-are-coming",
-      "originalUrl": "https://www.nasdaq.com/articles/the-humanoid-robots-are-coming",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/the-humanoid-robots-are-coming?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-humanoid-robots-are-coming?amp",
-      "publishedDateTime": "2022-08-25T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-25-boom-or-bust-how-robots-can-help-meet-supply-chain-demands-amid-a-persistent-labor-shortage.md",
       "title": "Boom Or Bust: How Robots Can Help Meet Supply Chain Demands Amid A Persistent Labor Shortage",
       "excerpt": "Today, orders are overwhelming distribution facilities, labor is near impossible to find or keep and customers expect next-day delivery.",
@@ -330,7 +296,7 @@
       "originalUrl": "https://cameroon-tribune.cm/article.html/50569/en.html/robotics-artificial-intelligence-competition-spur-production",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -446,6 +412,49 @@
       "provider": {
         "name": "KTNV Las Vegas",
         "domain": "ktnv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-local-startup-tests-delivery-robot-in-msheireb.md",
+      "title": "Local Startup Tests Delivery Robot In Msheireb",
+      "excerpt": "A local startup Pass ... This robot weighs about 50 kg and has a length of 1 m and a width of 45 cm. With advanced machine learning and artificial intelligence technology, the device is more ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104736564/Local-Startup-Tests-Delivery-Robot-In-Msheireb",
+      "originalUrl": "https://menafn.com/1104736564/Local-Startup-Tests-Delivery-Robot-In-Msheireb",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-08/22/TP_6ff9dimage_story.jpg",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-22T11:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MENAFN",
+        "domain": "menafn.com",
         "images": null,
         "publishers": null,
         "authors": null

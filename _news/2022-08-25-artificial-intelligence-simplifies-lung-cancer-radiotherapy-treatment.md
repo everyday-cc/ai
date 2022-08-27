@@ -69,15 +69,6 @@ related:
         width: 640
         height: 360
         isCached: true
-  - title: "Deep learning algorithm may streamline lung cancer radiotherapy treatment"
-    excerpt: "Brigham and Women’s Hospital researchers and collaborators, working under the Artificial Intelligence in Medicine Program of Mass General Brigham, developed and validated a deep learning algorithm that can identify and outline (“segment”) a non-small cell lung cancer (NSCLC) tumor on a computed tomography (CT) scan within seconds."
-    publishedDateTime: 2022-08-23T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/962454"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 50
 
 secured: "svXqe+XheAHZk9aCGcxos0/xB1FIscHJNadMEP8ZgX1D0BSEH2V+Gj0LRg21pKnJbIibHFXZBlBNp9BhUUv1zdPbWv9pQ8VRAbIoU10F6DJT7QKu2CG9A1yyCS+wBCy3tsDw9r+Z/hvZhW+KoL6Ny57VQpR/tqQA6IDRn8F04FRVmV+pf4MYmVN1rE1VsYkfGdcjGQ7HOdk97kaQVaNfmAxLc/hUPpN/bPP5PUhrfiCCWufUywRTS81BtHLtRUXn6OiL8jpUZX2hqMArgDUTxFKPHNvur02wHFtqES9UeMmRneYJrZcE2NLtriR0EO+AP2pzSXS707vlCMy220BputfYhBfLrqjHEagRr99j+5A=;E/7bVUgBmmxCbv/lo9R+Sg=="
 ---

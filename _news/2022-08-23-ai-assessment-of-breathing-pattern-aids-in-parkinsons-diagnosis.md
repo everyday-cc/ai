@@ -9,8 +9,8 @@ ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=13174"
 cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=13174"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 179
+published: true
 
 provider:
   name: Azorobotics
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI detects Parkinson’s disease by tracking your breathing patterns"
-    excerpt: "A compelling new study indicates Parkinson’s disease (PD) could be diagnosed by remotely tracking a person’s breathing patterns. Led by researchers from MIT, the study presents an AI system that uses radio waves to monitor breathing while a person sleeps."
-    publishedDateTime: 2022-08-22T23:49:00Z
-    webUrl: "https://newatlas.com/health-wellbeing/ai-parkinsons-disease-sleep-breathing-patterns-mit"
-    type: article
-    provider:
-      name: New Atlas
-      domain: newatlas.com
-    quality: 67
-    images:
-      - url: "https://assets.newatlas.com/dims4/default/1f864fd/2147483647/strip/true/crop/800x420+0+90/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F61%2F90%2F1e3d4dc9497c909b9aeb6bf860f0%2Fparkinson-ai-breath-detector-mit-00-0.jpg&na.image_optimisation=0"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Now AI can detect Parkinson's disease while you are sleeping"
     excerpt: "Parkinson's disease, a central nervous system disorder that affects movement, sometimes causing tremors, doesn't come with a warning. It is the world's second-most common neurolog"
     publishedDateTime: 2022-08-24T06:45:00Z

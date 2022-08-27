@@ -1,0 +1,46 @@
+---
+category: news
+title: "Failed AI start-up lent founder $4.7 million for ‘personal asset purchases’"
+excerpt: "An artificial intelligence marketing start-up once valued at $1 billion collapsed into administration with just $20,000 in the bank and an outstanding loan of $4.7 million to its sole director and ..."
+publishedDateTime: 2022-08-24T19:45:00Z
+originalUrl: "https://www.smh.com.au/business/entrepreneurship/failed-ai-start-up-lent-founder-4-7-million-for-personal-asset-purchases-20220824-p5bc9x.html"
+webUrl: "https://www.smh.com.au/business/entrepreneurship/failed-ai-start-up-lent-founder-4-7-million-for-personal-asset-purchases-20220824-p5bc9x.html"
+ampWebUrl: "https://amp.smh.com.au/business/entrepreneurship/failed-ai-start-up-lent-founder-4-7-million-for-personal-asset-purchases-20220824-p5bc9x.html"
+cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/business/entrepreneurship/failed-ai-start-up-lent-founder-4-7-million-for-personal-asset-purchases-20220824-p5bc9x.html"
+type: article
+quality: 55
+heat: 65
+published: false
+
+provider:
+  name: The Sydney Morning Herald
+  domain: smh.com.au
+
+topics:
+  - AI
+
+images:
+  - url: "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png"
+    width: 300
+    height: 300
+    isCached: true
+
+related:
+  - title: "Failed AI start-up lent founder $4.7 million for ‘personal asset purchases’"
+    excerpt: "An artificial intelligence marketing start-up once valued at $1 billion collapsed into administration with just $20,000 in the bank and an outstanding loan of $4.7 million to its sole director and chief executive which was allegedly used to fund ..."
+    publishedDateTime: 2022-08-24T09:45:00Z
+    webUrl: "https://www.watoday.com.au/business/entrepreneurship/failed-ai-start-up-lent-founder-4-7-million-for-personal-asset-purchases-20220824-p5bc9x.html"
+    type: article
+    provider:
+      name: WAtoday
+      domain: watoday.com.au
+    quality: 35
+    images:
+      - url: "https://static.ffx.io/images/$zoom_0.5515625%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_55/t_crop_custom/q_86%2Cf_auto/t_watoday_no_label_no_age_social_wm/193932f5e10b28533bde5efd79ab7b45257c8646"
+        width: 1200
+        height: 628
+        isCached: true
+
+secured: "/RdFg+M9ppBMXlhW0WWU55HyrEstjdC6B2Fww1/5S0l9Be5O3X5KHHswAG269Sog0j4igMKgTr3SL7s+XAKbMTRlRtWcB36pAIGqi64lAHFcO3pS+Q92iNhOdKIoxEeGuRYjyOg2VK6jPU8FZ1UowI8THH7isf/EN/0wF05yK1OlPwfLAJwHMd/cPN7nP9NCl857cLtcedAkdq8WoNqRSP+QkH4mFhhlY4JjxQxquIvjNq/0LwFx3Mx4PiupZbihcLy0yd3xPpgqG9AZUBy1UGD4zQLerczdVp8e9r94tBfunbf/FedHyeDMDx4QsW7UZMMRtcM2l5UiC73FCwT1bVfEhPg/posbxptY4Q28W6c=;ajxNx2xsph14QLI78lOYBw=="
+---
+

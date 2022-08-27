@@ -26,6 +26,22 @@ images:
     height: 900
     isCached: true
 
+related:
+  - title: "Self-driving cars: a primer"
+    excerpt: "Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won't drive at all. Along the way, automakers will ..."
+    publishedDateTime: 2022-08-24T18:55:00Z
+    webUrl: "https://www.motorauthority.com/news/1108904_self-driving-cars-a-primer"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg"
+        width: 1500
+        height: 1003
+        isCached: true
+
 secured: "fWMB8HB8Q/egMXwPH1MGuqObdX9BCdTWGjv/pNdZwhXqydy5lk+DgXSihsv6vAWv4PWixwOBaq8zSQLVR/nP6dXJf5QBGnjvGGDv/RQmTUOYuu8H2byimBoINuE/5TU0JiGhGv4M8juWt+MdCjXai7LQrIM4RutwyI9CBBva8RlFwauGSZdgxlY9+1c4F08uw/NZf62ViAWj/Xzli5kdt5WPLAU8saW+iy3/d7EfSQhSXl7ejLOHEaNhg6Etff/qZkGzV6dvlWsD5qcEI/fWyIshxJjpypn42Bv8TPIyG+FaRnHUYcA58AmiZxBXfPrPxDI9vAaDmUDwWvswJKY4Utx7mrNzBkP0rBVCR+FqeGs=;1sKlgU74POlHKvpHxCEIVg=="
 ---
 

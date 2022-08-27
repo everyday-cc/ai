@@ -9,8 +9,8 @@ ampWebUrl: "https://www.nasdaq.com/articles/the-humanoid-robots-are-coming?amp"
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/the-humanoid-robots-are-coming?amp"
 type: article
 quality: 69
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: Nasdaq
@@ -19,22 +19,6 @@ provider:
 topics:
   - AI in Robotics
   - AI
-
-related:
-  - title: "What will humanoid robots be used for in the future?"
-    excerpt: "While waiting for other players to enter the fray, the humanoid robot war is already raging between the United States’ Tesla and China’s Xiaomi. From assembly line work to personal services, these robots could have very practical uses once they’re made operational."
-    publishedDateTime: 2022-08-23T00:00:00Z
-    webUrl: "https://www.thestar.com.my/tech/tech-news/2022/08/19/what-will-humanoid-robots-be-used-for-in-the-future"
-    type: article
-    provider:
-      name: The Star
-      domain: thestar.com.my
-    quality: 39
-    images:
-      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/18/1702859.jpg"
-        width: 1240
-        height: 531
-        isCached: true
 
 secured: "LrKNftfCl5C/3iqIYlZ7AEgRVuvKKEiDk73p8W68UIGJY7LET6rt0nzApcwVV/JHQAmBwWPm1ON+SzBHKNdGoJZuqf9cu1wy+4qhAc6iWhwePln3rEGV3wq/PSNcq3WL/Bp4rjHkMXpvA2cGjVrKdQ8bGJD5uY8Clhvajjr1RMKrA6i7g4CDpB1vLVzSTg/rNaLSObz/4vifZ6ZGqZfnJnAZ6rw3KQSl928TJm9aLr1kvfd8FvBER4EbmSvQTsio5I7x09CUjmOGm8oh25adUNl+Uw7HWbr1amjY4D4TfzBpkMyAI8+TEtj5vm6nmMQoUqyjG8gQvxFABx+rmIxKNpxU2KDklX6YHqDUmzPJ8yf+xyNMGF/YLGr9MB1iILZjfdZEC3FwsrjEnHiPf5CrVTpcjGa2gitopu5jb6Tb/x0AdO3FT1K8RDdntUR6LeaCmQea3nlHBS0KlO4hSEhy8+vAHLF+u6QoE/uJhokjKSkPOD+26LkssMfOp3b9OWxTwYmaXZ06xlDkh9x+6rGatw==;wRHzLnKKjNTmYTRewuBBKw=="
 ---

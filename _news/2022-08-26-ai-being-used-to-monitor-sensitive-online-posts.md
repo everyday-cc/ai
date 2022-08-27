@@ -40,20 +40,6 @@ related:
         width: 1920
         height: 1280
         isCached: true
-  - title: "Lu studies potential benefits of AI in health care"
-    excerpt: "Chenyang Lu at the McKelvey School of Engineering is leading a charge to bring artificial intelligence into hospitals for the benefit of patients’ health — and doctors’ well-being."
-    publishedDateTime: 2022-08-23T00:00:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/962605"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 39
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/bbe7c01f-5e62-4c0b-859c-22d1411cd28e/Rendition/low-res/Content/Public"
-        width: 700
-        height: 467
-        isCached: true
 
 secured: "c5NGqRh8ZDJ5txweSglgGwDGAUXTO52UkWnE0/i7jfcCki2S/c1uSquOBeuncSQhozGG7wMI7igjhnQF+WRONy1ztAm7+KQEnsvv6d98cXs7gSuT75j+Mrj7FU02zELwxTKeQeiyGK9DLBOp4Hn9pn2+ujwhbWY1TJeTnFOMcezsLl2B+D0jk5gzcursA9EK16PIZg2h3tFZQKFyGBPmOLG/atEMvonLoZpt7BbQ1eo5ncSqyuAzV1yl+l+YRxaC0qlvI/c5BBVA/gLNdaJPfNA38HMyXfZa9ywnzNcLfwH1Vd3Z7b5KuB2L67Ro4Q7fMNaALfjRn3pQUwGyJqRk9YoLryV+EdTCcTBWpqh64/o=;g3G3rspklilguGUItC+gSw=="
 ---

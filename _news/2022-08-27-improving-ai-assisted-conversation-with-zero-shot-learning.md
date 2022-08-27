@@ -8,7 +8,7 @@ webUrl: "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero
 ampWebUrl: "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/amp/"
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/amp/"
 type: article
-quality: 89
+quality: 91
 heat: -1
 published: false
 
@@ -23,6 +23,7 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Finance
 
 images:
   - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1169246375.jpg?w=1200&strip=all"
@@ -191,6 +192,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Ycs59b2Vt2mPNzwMYeXZj3kwyFb3lfZUeQagIq/wbtim3Tz2uG6I0cLFk09+o7MtI/ibmtU3BBVWcA1cNz47Cj1YfEYt9Zte/vv9JA+wQkUKSkZCkeDCxdWaYIUVtKILTpDvi6+9KqN75LSay/dcYvnTfFyy8U1dRNpMYrv5uZwgwNnW8V74C/DDWXsZBHlLCi34q2Ti5HzLqD4fMhOMf64L70XOFdwf2Le4BJX44pS5qBQpLo/gpdCeYnQJlFj7+uXK9GGmHoeuVpA/6Y2sXaLGYpTqvh//KFJmyJ1emUBtceWTAccjYpEe1kLh0XKJUof8Uhzc5skUZKpRTPXWKGaC8k/jMXam+QrflkzV4ko=;bXqJ6xKTb+natHg7QScJQA=="
+secured: "arQpOQIbY58/WmoCbrh7+k1PmEn1gPoIbFjbFlgIMyQ5XY0FHPOSbpqzyjlPvBSlw0ZExhta+T9Q1NntC+v/5rZDWRWTljBbhi749KIe0btYsqs+0N6c0TaPbVSzsL7VLcfIXM+YQcUe0Lni0OSS2zzlXhoVbYmv+8blWuUtXGqqQ76Uyxz18wuc/OFbMcc2kkv8Ivk9zxPBA428GqGg3RIhuXSq5mBizI8ajae12wtEYXZxoGVAa0fyW74qwY11mOEiPA6HmkNhXIOLeDQ94D1sugDdv1HD9L7IszT45OPfMqAAgId2vugymUK3kR7/dHVO2mABJu0SV33NGvMuf9tdkCGpYT6oXH9lqxSU84Q18z/b7IfI4Bk24YLcOCirCT9T0dCZjpLCHrz59z4SnNAQ1fW0biPZ5ecW/GGELZGx9txw6eQXNt9ZGKUlwzcsKGRiug+w5/ukLH5ojg5jEFyU5UUIJd5HUR6iV4byDieZchlHdXV7jpqHFSuMnF2K3HfPPN7jas58tia24jU+HA==;wtGTFy7G2FmTWJZ3Mi1qRw=="
 ---
 

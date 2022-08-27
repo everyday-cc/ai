@@ -56,15 +56,6 @@ related:
         width: 600
         height: 300
         isCached: true
-  - title: "Untether Unveils 2-PFLOPS AI Chip, Edge Roadmap"
-    excerpt: "At Hot Chips this week, Untether unveiled its second-gen architecture for AI inference, the first chip using this architecture, as well as plans to expand to edge and endpoint accelerators."
-    publishedDateTime: 2022-08-23T00:00:00Z
-    webUrl: "https://www.design-reuse.com/news/52539/untether-2-pflops-ai-chip.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 34
   - title: "Untether AI Unveils Its Second-Generation At-Memory Compute Architecture at HOT CHIPS 2022"
     excerpt: "Untether AITM, the leader in at-memory computation for artificial intelligence (AI) workloads, today announced at the HOT CHIPS 2022 conference its next-generation architecture for accelerating AI inference workloads called speedAI devices,"
     publishedDateTime: 2022-08-23T15:16:00Z
@@ -73,7 +64,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 29
+    quality: 46
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700
