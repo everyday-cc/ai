@@ -2,49 +2,6 @@
   "page": 25,
   "value": [
     {
-      "path": "_news/2022-08-04-advanced-intelligent-robotics-speedcargo-announces-collaboration-with-gudel.md",
-      "title": "Advanced intelligent robotics: SPEEDCARGO announces collaboration with Güdel",
-      "excerpt": "Through this partnership, Güdel brings in know-how in intralogistics and material handling, while SPEEDCARGO brings two decades of experience and know-how in computer vision, robot control, AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.stattimes.com/air-cargo/advanced-intelligent-robotics-speedcargo-announces-collaboration-with-gdel-1346160",
-      "originalUrl": "https://www.stattimes.com/air-cargo/advanced-intelligent-robotics-speedcargo-announces-collaboration-with-gdel-1346160",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.stattimes.com/h-upload/2022/08/04/28540-cargo-armpr1.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.stattimes.com/amp/air-cargo/advanced-intelligent-robotics-speedcargo-announces-collaboration-with-gdel-1346160",
-      "cdnAmpWebUrl": "https://www-stattimes-com.cdn.ampproject.org/c/s/www.stattimes.com/amp/air-cargo/advanced-intelligent-robotics-speedcargo-announces-collaboration-with-gdel-1346160",
-      "publishedDateTime": "2022-08-04T01:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "air cargo",
-        "domain": "stattimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-04-automatic-speech-recognition-apps-market-industry-key-players-trends-sales-supply-demand-analysis-and-forecast-to-2031.md",
       "title": "Automatic Speech Recognition Apps Market Industry Key Players, Trends, Sales, Supply, Demand, Analysis and Forecast to 2031",
       "excerpt": "The automatic speech recognition apps market is anticipated to witness significant growth on account of the escalating use of electronic products across the globe. The extensive use of voice ...",
@@ -1131,6 +1088,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history.md",
+      "title": "Vin Scully, Voice Of The Dodgers For 67 Years, Saw Much Baseball History",
+      "excerpt": "A legend long before the Dodgers moved to Los Angeles in 1958, Scully was so good behind the microphone that worked games alone – a rare feat for a 21st century announcer. Scully, who died Tuesday at age 94,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/danschlossberg/2022/08/03/vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history/",
+      "originalUrl": "https://www.forbes.com/sites/danschlossberg/2022/08/03/vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62eaae20a4b525b4d6b80b31/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/danschlossberg/2022/08/03/vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danschlossberg/2022/08/03/vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history/amp/",
+      "publishedDateTime": "2022-08-03T10:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

@@ -49,6 +49,17 @@ related:
         width: 600
         height: 300
         isCached: true
+  - title: "Untether AI Unveils Its Second-Generation At-Memory Compute Architecture at HOT CHIPS 2022"
+    excerpt: "the leader in at-memory computation for artificial intelligence (AI) workloads, today announced at the HOT CHIPS 2022 conference its next-generation architecture for accelerating AI inference ..."
+    publishedDateTime: 2022-08-23T15:18:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/b28603325/untether-ai-unveils-its-second-generation-at-memory-compute-architecture-at-hot-chips-2022"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28603325"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28603325"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 44
   - title: "Untether AI moves to floating point for SpeedAI architecture"
     excerpt: "At this week's HotChips 2022, UntetherAI has announced its second generation at-memory architecture to accelerate AI interference. SpeedAI (codenamed"
     publishedDateTime: 2022-08-23T16:00:00Z
@@ -62,20 +73,6 @@ related:
       - url: "https://static.electronicsweekly.com/wp-content/uploads/2022/08/19113105/23-08-2022-untetherAI-speedAI-7P6A9757-Edit-hires-bkg-scaled.jpg"
         width: 2560
         height: 1536
-        isCached: true
-  - title: "Untether AI Unveils Its Second-Generation At-Memory Compute Architecture at HOT CHIPS 2022"
-    excerpt: "Untether AITM, the leader in at-memory computation for artificial intelligence (AI) workloads, today announced at the HOT CHIPS 2022 conference its next-generation architecture for accelerating AI inference workloads called speedAI devices,"
-    publishedDateTime: 2022-08-23T15:16:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "wit2YJrxSDVZJaJjqmMZwlRce0Qgj9TLSBIjzPX4w0JxHCx3Nj2vwUJ+8qljG6PtHRljPbtxYWTEeCMjIQIQAPU6dM/KVNcg+pbepMe5YWC2cyGSJ8Akf9jGK97Z58GcpxV6TedLXpT+29JxrPhdhs+YoUsTgupG7qDiBbyhY72+oseYI84WuwF65Z+47fcBNOVSQUpTFBrYlLt14+JPBC0zB1Y6oiKXZtfF0tCZh2TYh7HHAr2r5E+JsfaSHXiQdaLYRos2AOIpfpc8PvM3RKwl+ZVeEcCaLywaeRmBlNqYpS2MnCM2RF7nmDZRKNLoCSXVJtCg0Py1VzJz6ELt1+U50daIsDPReHd+xRsqGos=;olUpdWXOTw3nO215G4fCYA=="

@@ -109,22 +109,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Tesla CEO Elon Musk says Full-Self Driving price to rise to US$15,000"
-    excerpt: "The price of Tesla Inc (NASDAQ:TSLA)’s Full Self-Driving (FSD) software will rise to US$15,000 in North America on 5 September 2022, the company’s CEO Elon Musk announced on T"
-    publishedDateTime: 2022-08-22T11:44:00Z
-    webUrl: "https://www.proactiveinvestors.com/companies/news/990681/tesla-ceo-elon-musk-says-full-self-driving-price-to-rise-to-us-15-000-990681.html"
-    ampWebUrl: "https://www.proactiveinvestors.com/companies/amp/news/990681"
-    cdnAmpWebUrl: "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/990681"
-    type: article
-    provider:
-      name: Proactiveinvestors
-      domain: proactiveinvestors.com
-    quality: 74
-    images:
-      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA4XC8yMDIyLTAxLTI2LTExLTQ5LTQxLTNiM2I0YTcwZDkzYzM5OWI3ZTQyY2ZlZDkwZDhiNDNkLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ=="
-        width: 1200
-        height: 740
-        isCached: true
   - title: "Tesla raises price of feature it calls 'full self-driving' to US$15,000"
     excerpt: "Tesla is raising the price of its controversial driver-assist feature it calls \"full self-driving\" to US$15,000. Tesla CEO Elon Musk has said for years that the price of \"full self-driving\" would ..."
     publishedDateTime: 2022-08-23T23:58:00Z
@@ -350,15 +334,6 @@ related:
       name: Washington Times
       domain: washingtontimes.com
     quality: 19
-  - title: "Tesla Is Doubling Down on ‘Full Self-Driving.’ Ralph Nader Wants It Recalled."
-    excerpt: "Tesla is hiking the price of its sometimes controversial driver-assistance software it calls Full Self-Driving."
-    publishedDateTime: 2022-08-22T12:28:00Z
-    webUrl: "https://www.barrons.com/articles/tesla-fsd-full-self-driving-price-51661097330"
-    type: article
-    provider:
-      name: Barron's
-      domain: barrons.com
-    quality: 16
   - title: "When It Comes to Semi-Autonomous Driving Systems, It’s Tesla Versus Everyone Else"
     excerpt: "Tesla is currently—for better or for worse—leading the charge with “full self-driving” (FSD), which remains blockaded by legal red tape. Just last year Elon said that FSD-equipped Teslas will be able to drive themselves with safety levels ..."
     publishedDateTime: 2022-08-24T19:42:00Z

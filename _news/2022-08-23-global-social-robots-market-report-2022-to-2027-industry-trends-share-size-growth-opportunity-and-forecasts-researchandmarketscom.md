@@ -67,34 +67,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Deep Learning Chip Market Size 2022-2028, Organization Growth, Industry Share, Upcoming Trends, Key Dynamics, Opportunities, Top Manufacturers"
-    excerpt: "The global “Deep Learning Chip Market” report includes upcoming growth trends, restraints, drivers, key dynamics size"
-    publishedDateTime: 2022-08-22T12:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-chip-market-size-2022-2028-organization-growth-industry-share-upcoming-trends-key-dynamics-opportunities-top-manufacturers-2022-08-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 50
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Consulting Market Size, Share, Trends, Future Opportunities with COVID-19 Impact Analysis and Forecast to 2028"
-    excerpt: "The production, revenue, price, market share, and growth rate of each type are displayed in the Artificial Intelligence (AI) Consulting Market study. This research focuses on the"
-    publishedDateTime: 2022-08-22T11:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-consulting-market-size-share-trends-future-opportunities-with-covid-19-impact-analysis-and-forecast-to-2028-2022-08-22"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 48
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cloud AI Developer Services Market 2022 Leading Players Updates, Demand, Current & Future Plans By Forecast To 2028"
     excerpt: "The MarketWatch News Department was not involved in the creation of this content. Aug 22, 2022 (The Expresswire) -- The research report of the global Cloud AI Developer Services Market is thorough ..."
     publishedDateTime: 2022-08-22T14:19:00Z

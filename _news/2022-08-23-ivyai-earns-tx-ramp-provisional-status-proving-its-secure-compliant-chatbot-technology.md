@@ -66,15 +66,6 @@ related:
         width: 1000
         height: 669
         isCached: true
-  - title: "Westpac pours millions into US AI chatbot firm"
-    excerpt: "Westpac is looking to expand the use and efficacy of AI chatbots across the bank, and has invested millions of dollars into the US tech company that makes them work."
-    publishedDateTime: 2022-08-22T13:00:00Z
-    webUrl: "https://www.afr.com/technology/westpac-pours-millions-into-us-ai-chatbot-firm-20220818-p5bayi"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 19
 
 secured: "Y9hGe+IzbZRmL80iaT8/IJxHSOiTt/tzIX1nRPsF6iFxChmAp6SyYALSRV+U2URauNv0Na/gSS1zlXhu2dVns0Sd66b/JJArFtf0OONe5An9D+8fAfQlTFuzDy7pD3m+NIzOD4L0Uvb8n3QIUKL+k+k9wJwSeh3FaB7Q5b1ntbVPbl34cGQC9fPdf3oE5cgQvFfREqX5x2EZ9giVx/6tfVZup0zGJGmmfWNj8xrelH3MLAcLvv6G4+MtXEbOheUzWh5lNgHTgQ21ZnwXBWUTCLvCZS8MbJOUJD815kCPZ5pOdSwSNzLGesj29AVLjQ38Lb5WBIpJNbS7pY4jYrfnMObC18/lrChTi4Gwanw5isI=;3wIbhCtdt93PimJiaeEXIg=="
 ---

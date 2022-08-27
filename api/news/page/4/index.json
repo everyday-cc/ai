@@ -783,57 +783,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-22-north-america-artificial-intelligence-in-retail-market-size-key-companies-trends-growth-and-regional-forecasts-research-2027.md",
-      "title": "North America Artificial Intelligence In Retail Market Size, Key Companies, Trends, Growth and Regional Forecasts Research 2027",
-      "excerpt": "Improved efficiency, speed, and accuracy in the retail sector is the pivotal factor boosting North America artificial intelligence in retail market growth. Availability of advanced data and information due to the incorporation of AI in business is enabling store owners to materialize data driven business strategies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-in-retail-market-size-key-companies-trends-growth-and-regional-forecasts-research-2027-2022-08-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/north-america-artificial-intelligence-in-retail-market-size-key-companies-trends-growth-and-regional-forecasts-research-2027-2022-08-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T06:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-22-2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now.md",
       "title": "2 Artificial Intelligence Growth Stocks Down 84% and 92% to Buy Now",
       "excerpt": "Shares of Upstart Holdings (NASDAQ: UPST) and Lemonade (NYSE: LMND) currently trade 92% and 84% off their highs, respectively, but both AI stocks could produce market-crushing returns in the years ahead.",
@@ -1200,6 +1149,50 @@
       ],
       "topics": [
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-artificial-intelligence-now-available-to-detect-weapons-as-they-approach-schools.md",
+      "title": "Artificial Intelligence now available to detect weapons as they approach schools",
+      "excerpt": "The newest trend in school security, is artificial intelligence. Iterate.ai is applying the same kind tech that helps track down criminals with license plate and face recognition, to detect weapons on people who are approaching a school. Iterate founder ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kfvs12.com/2022/08/22/artificial-intelligence-now-available-detect-weapons-they-approach-schools/",
+      "originalUrl": "https://www.kfvs12.com/2022/08/22/artificial-intelligence-now-available-detect-weapons-they-approach-schools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-kfvs12-prod.cdn.arcpublishing.com/resizer/GIVFL0VDB5wGVpa1JRApvm0TfeI=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/QTQ2H3I44ZADXJIKETRNIYTKPM.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.kfvs12.com/2022/08/22/artificial-intelligence-now-available-detect-weapons-they-approach-schools/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-kfvs12-com.cdn.ampproject.org/c/s/www.kfvs12.com/2022/08/22/artificial-intelligence-now-available-detect-weapons-they-approach-schools/?outputType=amp",
+      "publishedDateTime": "2022-08-21T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KFVS12",
+        "domain": "kfvs12.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
       ]
     }
   ],

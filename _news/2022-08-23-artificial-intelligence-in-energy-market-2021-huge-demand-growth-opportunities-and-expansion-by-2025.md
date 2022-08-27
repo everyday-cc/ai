@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-energy-market-2021-huge-demand-growth-opportunities-and-expansion-by-2025-2022-08-23"
 type: article
 quality: 32
-heat: 32
+heat: -1
 published: false
 
 provider:
@@ -22,20 +22,29 @@ topics:
   - AI
 
 related:
-  - title: "Global Artificial Intelligence Market Size to Grow by USD 94.5 billion, Increasing Demand from the Technology Industry to Drive Growth 2022-2032"
-    excerpt: "The Artificial Intelligence market size was estimated at USD 94.5 billion in 2021. From 2023 to 2032, it will grow at a CAGR, of 36.8%. Artificial"
-    publishedDateTime: 2022-08-22T18:21:00Z
-    webUrl: "https://eturbonews.com/global-artificial-intelligence-market-size-to-grow-by-usd-94-5-billion-increasing-demand-from-the-technology-industry-to-drive-growth-2022-2032/"
+  - title: "AI Recruitment Market 2022 Rising Consumer Demand, Major Manufacturers Performance, Growth and Segmentation 2028"
+    excerpt: "An exhaustive analysis of market trends for 2022 to 2028 is discussed in Global AI Recruitment Market published"
+    publishedDateTime: 2022-08-24T09:52:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-recruitment-market-2022-rising-consumer-demand-major-manufacturers-performance-growth-and-segmentation-2028-2022-08-24"
     type: article
     provider:
-      name: eTurboNews
-      domain: eturbonews.com
-    quality: 2
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 46
     images:
-      - url: "https://eturbonews.com/wp-content/uploads/2019/08/cropped-etn-logo2.jpg"
-        width: 512
-        height: 512
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
+  - title: "Concentric AI Grows Leadership Team to Meet Accelerating Demand for Data Security Posture Management Solutions"
+    excerpt: "Concentric AI, a leading vendor of intelligent AI-based solutions for autonomous data security posture management, today announced it has named former Fidelis Cybersecurity sales executive Daniel Emanuele as its first Senior Vice President of Sales."
+    publishedDateTime: 2022-08-23T14:06:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/08/23/9660630.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 14
 
 secured: "0lANPN60GZR8srCTojje/ZUymYHUpMLIjAX0JMtkTFGkIvJcDmuKlPbbOYEB79TSolpDuSdKHO8vmvb7lijBnandZ1SSQNKBYJKKqBzfSKwkJVD7TK4+LzcYjYSCW4dPfSEd4IYhDUxW/ntY0YsA6W5QYe38yJIoryPqVdU0HQQzMwHJDxiTitAVhQCVqDWAxKMcixODoLv8W0euED1Wf2FsdJRNCiDJs1B+T6dKHUFzgGBTGlSwSvLHlKDgFpdEPQxCkC8+fCnxI9a8qbkfi1hXF4Th/v0xP5BOSfYa66CNRaEsR7YcnxDO4pTDtIVnlOpmy3zaomPgGJHbn+digJE28aLq0cGAAdkQzam/e6k=;LAfQf3kgOhD1Uxtndd8lVw=="
 ---

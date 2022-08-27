@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/the-uses-of-ethical-ai-in-hiring-opaque-v
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/the-uses-of-ethical-ai-in-hiring-opaque-vs-transparent-ai/amp/"
 type: article
 quality: 104
-heat: 104
+heat: 105
 published: true
 
 provider:

@@ -2,49 +2,6 @@
   "page": 19,
   "value": [
     {
-      "path": "_news/2022-08-09-facebooks-ai-chatbot-still-thinks-donald-trump-is-president.md",
-      "title": "Facebook’s AI chatbot still thinks Donald Trump is president",
-      "excerpt": "The chatbot also seemed to propagate anti-semitic conspiracy theories (Credits: AP) Facebook owner, Meta’s new Artificial Intelligence ... collected through research studies with annotators ...",
-      "sourceUrl": null,
-      "webUrl": "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/",
-      "originalUrl": "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://metro.co.uk/wp-content/uploads/2022/06/SEI_108824475.jpg?quality=90&strip=all&zoom=1&resize=600%2C400",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/amp/",
-      "cdnAmpWebUrl": "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/08/09/facebooks-ai-chatbot-still-thinks-donald-trump-is-president-17152552/amp/",
-      "publishedDateTime": "2022-08-09T08:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Metro",
-        "domain": "metro.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-09-artificial-intelligence-market-worth-4070-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
       "title": "Artificial Intelligence Market Worth $407.0 Billion By 2027 - Exclusive Report by MarketsandMarkets",
       "excerpt": "Artificial Intelligence Market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 36.2% during the forecast period, to reach USD 407.0",
@@ -1171,6 +1128,58 @@
       ],
       "topics": [
         "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-future-of-work-beyond-bossware-and-job-killing-robots.md",
+      "title": "Future of work: Beyond bossware and job-killing robots",
+      "excerpt": "To encourage a human-centered workplace, we must rethink AI-driven automation, bossware, labor taxes and corporate R&D.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/",
+      "originalUrl": "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/surveillance-camera.GettyImages-182214587.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/amp/",
+      "publishedDateTime": "2022-08-08T20:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     }

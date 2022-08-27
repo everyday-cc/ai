@@ -24,20 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI hiring levels in the apparel industry rose in July 2022"
-    excerpt: "The proportion of apparel supply chain companies hiring for AI related positions rose in July 2022 compared with the same month last year."
-    publishedDateTime: 2022-08-22T11:30:00Z
-    webUrl: "https://www.just-style.com/analysis/ai-hiring-levels-in-the-apparel-industry-rose-in-july-2022/"
-    type: article
-    provider:
-      name: Companies
-      domain: just-style.com
-    quality: 37
-    images:
-      - url: "https://www.just-style.com/wp-content/uploads/sites/27/2022/08/Kj2Nq-1038x778.png"
-        width: 1038
-        height: 778
-        isCached: true
   - title: "AI hiring levels in the automotive industry rose in July 2022"
     excerpt: "The proportion of automotive manufacturing and supply companies hiring for AI related positions rose significantly in July 2022 compared with the equivalent month last year, with 66.2% of the companies included in our analysis recruiting for at least one such position."
     publishedDateTime: 2022-08-22T17:00:00Z

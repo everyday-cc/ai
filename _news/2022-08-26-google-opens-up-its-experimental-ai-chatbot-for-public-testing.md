@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-opens-up-its-experim
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-opens-up-its-experimental-ai-chatbot-for-public-testing/"
 type: article
 quality: 87
-heat: 128
+heat: 118
 published: true
 
 provider:
@@ -67,15 +67,6 @@ related:
         width: 1000
         height: 669
         isCached: true
-  - title: "Westpac pours millions into US AI chatbot firm"
-    excerpt: "Westpac is looking to expand the use and efficacy of AI chatbots across the bank, and has invested millions of dollars into the US tech company that makes them work."
-    publishedDateTime: 2022-08-22T13:00:00Z
-    webUrl: "https://www.afr.com/technology/westpac-pours-millions-into-us-ai-chatbot-firm-20220818-p5bayi"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 19
 
 secured: "hF8opeDFk9DyA5AhkHgq0Kil+bPDfnK2AlQNo2NGBzMyPXg4+izpE1wfqSHW2PLFSvXWQe4072nvOuZpvF0bqm1naU+fRu9ZF3gKoWEr/ZGO4ecSXFZVyZa4AoNBhCEOxip6W8iAwPutaoGKeHbVgVQQ1RzlMj00hKFUQQeDIdKdDzq1STTlYRxyzHaCcLvah2+NC8lNrOKP/0pENYvjkj8a3mqXwJOOmqyyJ9d/+L/cQR67W2Gwtw1a/ggmD+mDhR8PAowP93p/q2b8J7BgbAycEl5UNoKldjGfdham3CPzyKhceWUUtXerQS9x8qQgq5Hz7fXv/o0nP8/C1FU6YSdg5fGk2k1G9TWOQukFlgJWQXPMSuZB2BMw+tYo8HNBCM4notTtdkkhphsH9LHtmQyayIdyj6E4v9W3K1rS7zBTDIoExQT3o3YTN9AIzcjnBn3wQk2RISCNfJp6qzp2qxcrxdOuhH9VH6sClTpJKuNv8PFASmsSee1PInChBxdzRG1BmRQcXRwQWi6MIJAbrA==;lt65yXXUUL2h7OqlR9+y9g=="
 ---

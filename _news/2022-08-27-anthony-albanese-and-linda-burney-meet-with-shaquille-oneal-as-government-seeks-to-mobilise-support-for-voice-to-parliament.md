@@ -41,6 +41,36 @@ related:
         width: 836
         height: 540
         isCached: true
+  - title: "Shaquille O’Neal to support Australian Indigenous ‘Voice’ campaign"
+    excerpt: "American basketballer Shaquille O’Neal will throw his support behind the Australian government’s campaign to create an Indigenous “Voice to"
+    publishedDateTime: 2022-08-27T04:25:00Z
+    webUrl: "https://www.malaymail.com/news/sports/2022/08/27/shaquille-oneal-to-support-australian-indigenous-voice-campaign/25038"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 39
+    images:
+      - url: "https://cdn4.premiumread.com/?url=https://www.malaymail.com/malaymail/uploads/images/2022/08/27/44900.JPG&w=700&q=100&f=jpg&v=1661580060"
+        width: 700
+        height: 466
+        isCached: true
+  - title: "Shaquille O'Neal joins PM as Anthony Albanese says 'world is watching' Voice to Parliament debate"
+    excerpt: "Prime Minister Anthony Albanese enlists the support of NBA legend Shaquille O'Neal in calling for constitutional recognition of Indigenous Australians and a Voice to Parliament."
+    publishedDateTime: 2022-08-27T04:23:00Z
+    webUrl: "https://www.abc.net.au/news/2022-08-27/shaquille-o-neal-anthony-albanese-voice-to-parliament/101379246"
+    ampWebUrl: "https://amp.abc.net.au/article/101379246"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101379246"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 31
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/64eb45a3df5852167f784b70a03a5730?impolicy=wcms_crop_resize&cropH=3327&cropW=4990&xPos=0&yPos=0&width=862&height=575"
+        width: 862
+        height: 575
+        isCached: true
   - title: "NBA star meets PM over Indigenous voice"
     excerpt: "One of the world’s most famous NBA stars is lending his support to the campaign for an Indigenous voice to parliament."
     publishedDateTime: 2022-08-27T03:17:00Z

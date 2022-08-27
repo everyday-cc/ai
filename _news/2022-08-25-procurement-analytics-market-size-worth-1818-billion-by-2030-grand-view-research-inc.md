@@ -19,23 +19,14 @@ topics:
   - AI
 
 related:
-  - title: "Europe Robotic Lawn Mower Market to Reach $1.25 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The Europe robotic lawn mower market size reached US$ 617 Million in 2021. Looking forward, the publisher expects the market to reach US$ 1,256 Million by 2027, exhibiting a CAGR of 12.58% during 2021-2027."
-    publishedDateTime: 2022-08-22T11:24:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-22-europe-robotic-lawn-mower-market-to-reach-125-billion-by-2027-researchandmarketscom"
+  - title: "Mental Health Software And Devices Market Size Worth USD 17.2 Billion By 2030 At 16.1% CAGR - Report By Market Research Future (MRFR)"
+    excerpt: "According to a Comprehensive Research Report by Market Research Future (MRFR),“Mental Health Software and Devices Market Information By Software, Functionality, End User, And Region - Forecast till 2030 ',"
+    publishedDateTime: 2022-08-24T19:00:00Z
+    webUrl: "https://menafn.com/1104749781/Mental-Health-Software-And-Devices-Market-Size-Worth-USD-172-Billion-By-2030-At-161-CAGR-Report-By-Market-Research-Future-MRFR"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 10
-  - title: "The Worldwide Computer Vision in Manufacturing Industry is Expected to Reach $4.7 Billion by 2027 - ResearchAndMarkets.com"
-    excerpt: "The \"Computer Vision in Manufacturing Market Research Report by Product (PC-Based Vision and Smart Cameras-Based Vision), Component, Application, Region (Americas, Asia-Pacific, and Europe, Middle East & Africa) - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
-    publishedDateTime: 2022-08-22T14:46:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-22-the-worldwide-computer-vision-in-manufacturing-industry-is-expected-to-reach-47-billion-by-2027-researchandmarketscom"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 0
 
 secured: "AEG3rwE+XaVl+w6MczvMwN5Fz5D+Brjx95UPd0Cu13fyjn3CKIwgOBNZertMDdM+2yBMhRpxhw34rp8tcOLxyteTkBZB9JYufTn/7RiUWcpMgBERsJq+oStoLbvdFe0z7DKsVGXAUEvSMw0LXoq1T+X4gVXbMOOf6I/MbQZOYLiYjc0qZrUPLHREr8RPz/FNNuGogrCeOq8v5yYBFREjiQUOUCfwVYsJF8ARlKZTZ6IznCCzYlIvIL2WMV+gSL+awt1Z5i24ag8vFS9m8I/DM2QTUjsxNkQyhbkG+QE3k4tDg/b+qz2NueOSDf5wMER2M3Ua6+92NGKwu5Sv8GI1xLdzkyxTj6HHcJBLVrrf548=;O/9VLO24+raGRo22y5rcIQ=="

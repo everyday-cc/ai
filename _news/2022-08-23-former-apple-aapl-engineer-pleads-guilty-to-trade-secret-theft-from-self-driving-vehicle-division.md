@@ -71,20 +71,6 @@ related:
         width: 620
         height: 405
         isCached: true
-  - title: "The cutting-edge UMaine lab researching self-driving cars and virtual reality"
-    excerpt: "The VEMI Lab has now grown to take over all of Carnegie Hall, the imposing granite campus building that once housed UMaine’s art department."
-    publishedDateTime: 2022-08-22T11:12:00Z
-    webUrl: "https://www.bangordailynews.com/2022/08/22/news/bangor/umaine-lab-self-driving-cars-joam40zk0w/"
-    type: article
-    provider:
-      name: Bangor Daily News
-      domain: bangordailynews.com
-    quality: 36
-    images:
-      - url: "https://bdn-data.s3.amazonaws.com/uploads/2022/08/VEMI-Lab-A-LCO-scaled.jpg"
-        width: 2560
-        height: 1741
-        isCached: true
   - title: "Ex-Apple Engineer Admits To Stealing Trade Secrets While Working On Self-Driving Car Project"
     excerpt: "The former hardware engineer was arrested at the San Jose International Airport in 2018 while he was trying to leave the United States."
     publishedDateTime: 2022-08-23T04:13:00Z

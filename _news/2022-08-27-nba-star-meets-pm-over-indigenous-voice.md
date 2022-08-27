@@ -41,6 +41,36 @@ related:
         width: 836
         height: 540
         isCached: true
+  - title: "Shaquille O’Neal to support Australian Indigenous ‘Voice’ campaign"
+    excerpt: "American basketballer Shaquille O’Neal will throw his support behind the Australian government’s campaign to create an Indigenous “Voice to"
+    publishedDateTime: 2022-08-27T04:25:00Z
+    webUrl: "https://www.malaymail.com/news/sports/2022/08/27/shaquille-oneal-to-support-australian-indigenous-voice-campaign/25038"
+    type: article
+    provider:
+      name: malaymail
+      domain: malaymail.com
+    quality: 39
+    images:
+      - url: "https://cdn4.premiumread.com/?url=https://www.malaymail.com/malaymail/uploads/images/2022/08/27/44900.JPG&w=700&q=100&f=jpg&v=1661580060"
+        width: 700
+        height: 466
+        isCached: true
+  - title: "Shaquille O'Neal joins PM as Anthony Albanese says 'world is watching' Voice to Parliament debate"
+    excerpt: "Prime Minister Anthony Albanese enlists the support of NBA legend Shaquille O'Neal in calling for constitutional recognition of Indigenous Australians and a Voice to Parliament."
+    publishedDateTime: 2022-08-27T04:23:00Z
+    webUrl: "https://www.abc.net.au/news/2022-08-27/shaquille-o-neal-anthony-albanese-voice-to-parliament/101379246"
+    ampWebUrl: "https://amp.abc.net.au/article/101379246"
+    cdnAmpWebUrl: "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101379246"
+    type: article
+    provider:
+      name: Australian Broadcasting Corporation
+      domain: abc.net.au
+    quality: 31
+    images:
+      - url: "https://live-production.wcms.abc-cdn.net.au/64eb45a3df5852167f784b70a03a5730?impolicy=wcms_crop_resize&cropH=3327&cropW=4990&xPos=0&yPos=0&width=862&height=575"
+        width: 862
+        height: 575
+        isCached: true
   - title: "Anthony Albanese and Linda Burney meet with Shaquille O'Neal as government seeks to mobilise support for Voice to Parliament"
     excerpt: "Prime Minister Anthony Albanese and Indigenous Australians Minister Linda Burney have met with American basketball great Shaquille O'Neal as the government seeks to mobilise support for the Voice to Parliament."
     publishedDateTime: 2022-08-27T02:26:00Z
@@ -56,6 +86,6 @@ related:
         height: 720
         isCached: true
 
-secured: "WH4/jQ3q7Wjx+pBRC7dNG/oJXnFeiw2aKaIk70RYzgA4WoU2lJH0YX+3G3Q7o1/7dKRh9OHfzp5Vf7REUA3WTyB78ZMZeBYF3Y/G5vhCwaDv/1hdP47qAIcAW7edFbcFhatRFQxRjwlvWWW1PdmZCNwzSjcjN6qikEN07zFJiuYOkfgzX+MCMjBXtnOPotJD11G4p3jXC+9O2giUwUQM5qn1s9K/x/ISXKeivp7juLbZkdeT5MqUH5f8xWqAgmm7F1UAIHB0k1GKzu70XqAYwiRp6/liry/Jxy4PUexmIOLLjI2+rPEu1ovpAiH7GFUaYisoEGGUcdlPQHYs7a2Nv0wuLcaZWKcGNT6DXPLhc9I=;oal0oNF/6PQYdE3YtIB+iA=="
+secured: "CA4dx35rgTbKCMiKJe/tTFBXMwgAHXnYQp1V968uc6hybxtiLqlj1RG+FH6UzkoC53J5A6hswopIjr2baMW9cxhZ+nqJZFlzUCNXER80+vjhc0VACX8dy934EAQwy64UmCX/rtPQz2uWmL6wmC5qoh2IC8Y9kOmpheUwvzf83t+l7LQuNyWvSqSRTLAFg5KCHfecCB3yeIV2aGG52bumOQqPkc3f3io9+5qODlXx0Km66bdzmq05n1h6gfKJkIONwLCDADMORJRz4poPqLTZKMz9itUPy4+L4iMvCu+zCzl/jO4yc2dcM6BCnjxJbThmhOwnKEAHEUkQGyCU7Hgnhk6guYcR9QDt0FqoAfLg6h58s335H17BIN5hTrm6I9JK9ZbxotKXQSXYCGVgulSp0T0CnIDnBWyTMaoij3NypEDChcsxaLZ006XvWUoGuJg7V3DWP4SnGwVppG5MhHFnJSlDQwlTE8w3os82MwtRo5Eujn4eGqBeOo2lP5IgEGLBmeV2znpaQ+fFldYpbTFGFQ==;MTc9AIRdcsj+AKJgy2sQXg=="
 ---
 

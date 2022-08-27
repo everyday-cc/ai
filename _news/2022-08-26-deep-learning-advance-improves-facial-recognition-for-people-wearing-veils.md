@@ -116,20 +116,6 @@ related:
         width: 1200
         height: 800
         isCached: true
-  - title: "Do I Know You? How Flawed is Facial Recognition?"
-    excerpt: "The Viola-Jones algorithm is an object-recognition framework that allows the detection of image features in real-time and is one of the most powerful algorithms of its time. However, the tests’ results were disappointing regarding the accuracy levels ..."
-    publishedDateTime: 2022-08-22T11:31:00Z
-    webUrl: "https://www.electropages.com/blog/2022/08/do-i-know-you-how-flawed-facial-recognition"
-    type: article
-    provider:
-      name: Electropages
-      domain: electropages.com
-    quality: 39
-    images:
-      - url: "https://www.electropages.com/storage/app/media/2022/Aug/ai-facial-recognition-og.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Rising Murder Rate Prompts Reversal, Revision of Facial Recognition Bans"
     excerpt: "A number of cities and states have reversed or altered their facial recognition bans after recognizing a need for the technology."
     publishedDateTime: 2022-08-25T14:42:00Z
