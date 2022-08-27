@@ -2,7 +2,7 @@
 name: "PathAI"
 overview: "Spearheading the future of mobility by building world-class autonomous driving technology - safely, reliably, and at scale"
 type: "profile"
-heat: 64
+heat: 72
 
 website: http://Pathai.com
 
@@ -34,6 +34,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=cUeScCtTng4"
 
-secured: "F6zDT0KAqU5NhJm6MTWLWJmLpZtBRuZ3tGFhnd9+FzcyMvMUzaVbpuC0r/TLTdXOk+UAq4rpGgYqnO94gUDGLIEJYlT1QzcuQoIP2u9enatD41sbKpkfPLTTJ7iWXMvynZMK4Aafud8zqkzHtDG9o/u6jRuEtCHCkb21JANE7jurx+KJt+wKAjRUsMBeuqoZqs1YWtP5+WhKi1HNB01DeoFxbhNunwAi59EnBJS08ALmHywUxpiatmvwtzm33F6aolcvnvPWC5JNY/F1MfjMW5pqbI2bynfpbkxQkvAwMMn6VtKAtz5L1XO+HdlnAAZy+p1UpNtjNWdeR2YkW5IWLmDRQqaMjNCGP9C0/pXiCEc5ovAJae/AB/utKGpyz/JMEzdTcA1qluGLx4UZQLBC9w==;By55GMRVW3YLc2jo+AoHuQ=="
+secured: "iHX/iIR/js8vJhCX+ZR6o7VX3SXAg9c0lMMmNaB5Ojcz1msUd3tSbI/J0iFYQ17aUsegS6TYLVkbrrE4No914/UHSGTJyw+o6lPh1J3Kvle+Jx5451MYewY4HSTYWa1QIyXnVN1kdbqsAlKdPfNOgpXWhryvUwOx4ywsqJMx7uyYP/Ycf18vO8y/MvORHcnYu4oexQzbiAyU6hTOh0Xz/BItTVPVf1GRxD/m4wMRWzl20vLL7vm9N1no+/eLdhWNXLbSL0tjuXvG62GvGkxVHIzqwPceUjExvP3gerLw9x9FS1Flf59ezYS/EsNdYAilllGRHtExadSZKHt+Ma7Zk3RaVsnU2+nh278A2ERBBHYlqMZbi1LCEc/PphXxdT3i9k0uFqhSKgmIW9dGyZ19BQ==;lhKf2AJPEE+tFRKdTSLxQQ=="
 ---
 
