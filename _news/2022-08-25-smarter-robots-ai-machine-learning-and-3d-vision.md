@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://img.packworld.com/files/base/pmmi/all/image/2022/07/Mitarbeiter_Cobot_032_20211020.62d891ea15c52.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
@@ -51,6 +52,6 @@ related:
       domain: pmlive.com
     quality: 21
 
-secured: "gZJaoWSZIKXaFMhGNv/sHH+Gan4ZXKp7uUErq2cDZdRyH4ui9jMeX/KIDT+rqixynwhmy2D4pBQ37RW87R/sMR+r2oSBTBLXOYrAOL1fPdgB/6CsvHcqokgHUsfEn1xEq3nT+DjJp6LQMHbnhylyZEVZiHj06FU5Xa/aSuNtXfVZrdL3hOjbpQIkFEX8vESaQb9Nzg/2WfF1hXChAMDU7gE3goZCEQ4V589/QoPgpuMd/y+G11NjfdImikUqk/EjnUlaK6rIiARwI0+iNTeanmxnaV1Yn1W5qu67GvjdQG1T0ZucrDU85zrOWPfBCjik9jqr7lY4UjnLIwbeuGXq4IhdOkdR7xSO1TDvDH79dDY=;gly9S3DrLcL58BJbNU45/A=="
+secured: "av3UpIVzsxlsdY22Y/1OV5OM17C4zYehnuEJDmTa7eTxr4DUj8Y7RMSxX6g0SgFAmmKVuony4zPE2af6DmxlnsHJkMa2Xfa2yLcwsOoIMnRoCtqvkTDPiqsAmzXmnVytdcn4w2ITucZtuBH5PSINP8cv9J5d/z/6e4htkvWcHgy4QqO8VZ7+yyse/FELgkf3wSWbnDp+eH1Rj2f4WBCgoreuDoopQpql7KFCj4p0vhOB9mIEVz8tLBNOkjflEfQuEWDigkXLhWxDTECR5RXADaIn0h/AT+F/NOrz9A9e2iUX8WvCPxAycWMRGTWeUZQbKzR6FnUSImEZohZKPrSkbNey5Hix0Bcp9OzUNrGb50kyjRx1cb7cAVAufI64P4HaV4dJM1921BbSCmgkSm76XsJJznYryoV1hNTH/BK5ALQmsasDGFGMhmlEwdN1qz0Dir78kHCiod9DjSaL+6T7tFWYV7DoBL8FYdUEYAU8MF88G9BqtyL5TjUSQLHpaHYunXwxzYmzETVqvzFvxYNEYg==;my1YpLN+9FLCqfgWchtyEw=="
 ---
 
