@@ -2,6 +2,144 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2022-08-04-cloud-natural-language-processing-market-growth-factors-details-for-business-development.md",
+      "title": "Cloud Natural Language Processing Market Growth Factors Details for Business Development",
+      "excerpt": "In a quest to fill the chasm between computer understanding and human communication, stakeholders in cloud natural language processing market are vying to augment the automation. Soaring traction towards cloud NLP has been spurred by palpable penetration of commercial applications in the market.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-growth-factors-details-for-business-development-2022-08-04",
+      "originalUrl": "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-growth-factors-details-for-business-development-2022-08-04",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T01:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-worlds-largest-metaverse-nobody-is-talking-about.md",
+      "title": "World’s Largest Metaverse nobody is talking about",
+      "excerpt": "Blue Shark’, ‘Project Avengers’ and ‘AI Dogfighting’, which sound like titles of Marvel movies, are some of the billion-dollar metaverse projects of the US army. The metaverse project of the US army is believed to be much bigger than Meta’s metaverse.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/worlds-largest-metaverse-nobody-is-talking-about/",
+      "originalUrl": "https://analyticsindiamag.com/worlds-largest-metaverse-nobody-is-talking-about/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/military-robots.jpeg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-04T01:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-04-advanced-intelligent-robotics-speedcargo-announces-collaboration-with-gudel.md",
+      "title": "Advanced intelligent robotics: SPEEDCARGO announces collaboration with Güdel",
+      "excerpt": "Through this partnership, Güdel brings in know-how in intralogistics and material handling, while SPEEDCARGO brings two decades of experience and know-how in computer vision, robot control, AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.stattimes.com/air-cargo/advanced-intelligent-robotics-speedcargo-announces-collaboration-with-gdel-1346160",
+      "originalUrl": "https://www.stattimes.com/air-cargo/advanced-intelligent-robotics-speedcargo-announces-collaboration-with-gdel-1346160",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.stattimes.com/h-upload/2022/08/04/28540-cargo-armpr1.jpg",
+          "width": 1920,
+          "height": 1280,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.stattimes.com/amp/air-cargo/advanced-intelligent-robotics-speedcargo-announces-collaboration-with-gdel-1346160",
+      "cdnAmpWebUrl": "https://www-stattimes-com.cdn.ampproject.org/c/s/www.stattimes.com/amp/air-cargo/advanced-intelligent-robotics-speedcargo-announces-collaboration-with-gdel-1346160",
+      "publishedDateTime": "2022-08-04T01:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "air cargo",
+        "domain": "stattimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-04-automatic-speech-recognition-apps-market-industry-key-players-trends-sales-supply-demand-analysis-and-forecast-to-2031.md",
       "title": "Automatic Speech Recognition Apps Market Industry Key Players, Trends, Sales, Supply, Demand, Analysis and Forecast to 2031",
       "excerpt": "The automatic speech recognition apps market is anticipated to witness significant growth on account of the escalating use of electronic products across the globe. The extensive use of voice ...",
@@ -994,152 +1132,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-truera-joins-intel-disruptor-program-to-advance-ai-model-quality.md",
-      "title": "TruEra joins Intel Disruptor program to advance AI model quality",
-      "excerpt": "TruEra has been selected for the Intel Disrupter Initiative, which brings technical partnership and go-to-market support for participants.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/applied-ai/truera-joins-intel-disruptor-program-to-advance-ai-model-quality/",
-      "originalUrl": "https://venturebeat.com/applied-ai/truera-joins-intel-disruptor-program-to-advance-ai-model-quality/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2016/03/machine-learning.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 736,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/applied-ai/truera-joins-intel-disruptor-program-to-advance-ai-model-quality/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/applied-ai/truera-joins-intel-disruptor-program-to-advance-ai-model-quality/amp/",
-      "publishedDateTime": "2022-08-03T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-artificial-intelligence-in-drug-discovery-market-intelligence-report-global-forecast-to-2027-researchandmarketscom.md",
-      "title": "Artificial Intelligence in Drug Discovery Market Intelligence Report - Global Forecast to 2027 - ResearchAndMarkets.com",
-      "excerpt": "DUBLIN--(BUSINESS WIRE)--The \"Artificial Intelligence in Drug Discovery Market Intelligence Report - Global Forecast to 2027\" report has been added to ResearchAndMarkets.com's offering. The Global Artificial Intelligence in Drug Discovery Market is ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pharmiweb.com/press-release/2022-08-03/artificial-intelligence-in-drug-discovery-market-intelligence-report-global-forecast-to-2027-res",
-      "originalUrl": "https://www.pharmiweb.com/press-release/2022-08-03/artificial-intelligence-in-drug-discovery-market-intelligence-report-global-forecast-to-2027-res",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png",
-          "width": 1200,
-          "height": 448,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-03T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PharmiWeb",
-        "domain": "pharmiweb.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history.md",
-      "title": "Vin Scully, Voice Of The Dodgers For 67 Years, Saw Much Baseball History",
-      "excerpt": "A legend long before the Dodgers moved to Los Angeles in 1958, Scully was so good behind the microphone that worked games alone – a rare feat for a 21st century announcer. Scully, who died Tuesday at age 94,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/danschlossberg/2022/08/03/vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history/",
-      "originalUrl": "https://www.forbes.com/sites/danschlossberg/2022/08/03/vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62eaae20a4b525b4d6b80b31/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/danschlossberg/2022/08/03/vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/danschlossberg/2022/08/03/vin-scully-voice-of-the-dodgers-for-67-years-saw-much-baseball-history/amp/",
-      "publishedDateTime": "2022-08-03T10:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     }

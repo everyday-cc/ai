@@ -2,6 +2,154 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-08-15-ai-gaming-and-esports-startup-regression-games-raises-42m-in-seed-funding-from-nea-and-a16z.md",
+      "title": "AI Gaming and Esports Startup Regression Games Raises $4.2M in Seed Funding from NEA and a16z",
+      "excerpt": "AI Gaming and Esports Startup Regression Games Raises $4.2M in Seed Funding from NEA and a16z Aug 15, 2022 (PRNewswire via COMTEX) -- PR",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-gaming-and-esports-startup-regression-games-raises-42m-in-seed-funding-from-nea-and-a16z-2022-08-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-gaming-and-esports-startup-regression-games-raises-42m-in-seed-funding-from-nea-and-a16z-2022-08-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-15T07:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-15-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-key-player-competition-weakness-and-strengths-from-2022-to-2028.md",
+      "title": "Natural Language Processing (NLP) in Healthcare and Life Sciences Market Key Player, Competition Weakness and Strengths from 2022 to 2028",
+      "excerpt": "The \" Natural Language Processing (NLP) in Healthcare and Life Sciences Market Research Report \" for comprises important strategies and plans to control cost and improve efficiency. The report also focuses on demand and supply of the Natural Language Processing (NLP) in Healthcare and Life Sciences industry.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-08-15",
+      "originalUrl": "https://www.marketwatch.com/press-release/natural-language-processing-nlp-in-healthcare-and-life-sciences-market-key-player-competition-weakness-and-strengths-from-2022-to-2028-2022-08-15",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-15T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-15-no-code-wrapped-our-ml-experiment-concludes-but-did-the-machine-win.md",
+      "title": "No code, wrapped: Our ML experiment concludes, but did the machine win?",
+      "excerpt": "And while I know my way around a Jupyter notebook and have written a good amount of Python code, I do not profess to be anything close to a machine learning expert. So when I performed the first part of our no-code/low-code machine learning experiment and got better than a 90 percent accuracy rate on a model,",
+      "sourceUrl": null,
+      "webUrl": "https://arstechnica.com/information-technology/2022/08/no-code-wrapped-our-ml-experiment-concludes-but-did-the-machine-win/",
+      "originalUrl": "https://arstechnica.com/information-technology/2022/08/no-code-wrapped-our-ml-experiment-concludes-but-did-the-machine-win/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/robot-holding-monitored-heart-760x380.jpg",
+          "width": 760,
+          "height": 380,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-15T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ars Technica",
+        "domain": "arstechnica.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-15-dronedek-partners-with-facial-recognition-provider-scylla.md",
       "title": "Dronedek Partners with Facial Recognition Provider Scylla",
       "excerpt": "Dronedek Partners with Facial Recognition Provider Scylla Aug 15, 2022 (PRNewswire via COMTEX) -- PR Newswire INDIANAPOLIS, Aug. 15, 2022 INDIANAPOLIS,",
@@ -1017,143 +1165,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-driverless-trucks-can-be-safe-and-efficient.md",
-      "title": "Driverless Trucks Can Be Safe and Efficient",
-      "excerpt": "Higher pay has also put upward pressure on rates. There is an obvious long-term solution to both these problems: driverless trucks. But only if the industry gets off on the right foot with maximum ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/driverless-trucks-canbe-safe-and-efficient/2022/08/12/e2d42ca8-1a47-11ed-b998-b2ab68f58468_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/driverless-trucks-canbe-safe-and-efficient/2022/08/12/e2d42ca8-1a47-11ed-b998-b2ab68f58468_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
-          "width": 1484,
-          "height": 779,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-12T14:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-the-role-of-motion-control-in-medical-robotics.md",
-      "title": "The Role of Motion Control in Medical Robotics",
-      "excerpt": "Finding the right motion control solution can support robotic advances for minimally invasive procedures. Motion control is a critical component of almost all of today’s robotic applications, explains Aleksandar Nacev,",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/motion-control/role-motion-control-medical-robotics",
-      "originalUrl": "https://www.designnews.com/motion-control/role-motion-control-medical-robotics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.designnews.com/sites/designnews.com/files/motion%20control%20webinar%20DT613X.jpg",
-          "width": 770,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-12T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-13-fractal-analytics-ceo-pranay-agrawal-on-trends-in-ai.md",
-      "title": "Fractal Analytics CEO Pranay Agrawal on Trends in AI",
-      "excerpt": "I spoke with Pranay Agrawal, CEO and Co-Founder at Fractal Analytics, about what’s driving the AI sector, and how companies can best strategize to maximize their AI deployment. It seems like many companies seek to get on board with AI,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/big-data-and-analytics/fractal-analytics-ceo-ai-trends/",
-      "originalUrl": "https://www.eweek.com/big-data-and-analytics/fractal-analytics-ceo-ai-trends/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/08/New-eSPEAKS-thumbnail.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-12T14:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

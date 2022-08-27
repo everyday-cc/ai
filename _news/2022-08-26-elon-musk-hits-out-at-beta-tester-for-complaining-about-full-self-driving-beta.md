@@ -101,31 +101,6 @@ related:
         width: 1020
         height: 574
         isCached: true
-  - title: "Tesla raises price of feature it calls 'full self-driving' to $15,000"
-    excerpt: "Tesla is raising the price of its controversial driver-assist feature it calls \"full self-driving\" to $15,000."
-    publishedDateTime: 2022-08-22T18:52:00Z
-    webUrl: "https://www.cnn.com/2022/08/22/business/tesla-fsd-price-increase/index.html"
-    type: article
-    provider:
-      name: CNN
-      domain: cnn.com
-    quality: 64
-  - title: "Tesla Increases Full Self-Driving Price as Regulators Close In"
-    excerpt: "Despite what the name would infer, Tesla's Full Self-Driving setup is not yet fully autonomous, requiring vehicle occupants put their hands on the steering wheel periodically and"
-    publishedDateTime: 2022-08-22T19:01:00Z
-    webUrl: "https://www.motortrend.com/news/tesla-full-self-driving-price-increase-regulators/"
-    ampWebUrl: "https://www.motortrend.com/news/tesla-full-self-driving-price-increase-regulators/amp/"
-    cdnAmpWebUrl: "https://www-motortrend-com.cdn.ampproject.org/c/s/www.motortrend.com/news/tesla-full-self-driving-price-increase-regulators/amp/"
-    type: article
-    provider:
-      name: Motor Trend
-      domain: motortrend.com
-    quality: 59
-    images:
-      - url: "https://www.motortrend.com/uploads/sites/5/2020/05/2020-Tesla-Model-Y-vs-Model-3-1.jpg"
-        width: 1920
-        height: 1080
-        isCached: true
   - title: "Tesla sticker shock: Price of feature it calls ‘full self-driving’ jumps to $15,000"
     excerpt: "Tesla is raising the price of its controversial driver-assist feature it calls \"full self-driving\" to $15,000. But Tesla buyers can purchase it for $12,000 until Sept. 5."
     publishedDateTime: 2022-08-23T16:05:00Z
@@ -184,15 +159,6 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Tesla raises price of 'Full Self-Driving' to $15,000"
-    excerpt: "Tesla Inc. will start charging $15,000 for the driver-assistance system it calls Full Self-Driving, raising the price of the controversial product for the second time this year. The hike for customers in North America will take effect Sept. 5, Chief ..."
-    publishedDateTime: 2022-08-22T17:22:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/08/22/tesla-raises-price-full-self-driving-15000/7866555001/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 34
   - title: "Elon Musk scolds Tesla owner for complaining about glitchy self-driving system"
     excerpt: "The customer wrote that he’s spent more than $32,000 paying for Tesla's Full Self-Driving system multiple times."
     publishedDateTime: 2022-08-24T14:30:00Z

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/ai-robots-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/23/ai-robots-power-hungry-or-empowering/amp/"
 type: article
 quality: 104
-heat: 114
+heat: 124
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "Smarter Robots: AI, Machine Learning, and 3D Vision"
+    excerpt: "New systems from ABB, AMT, Pearson Packaging Systems, Schubert, and Shape Process Automation include new Artificial Intelligence features."
+    publishedDateTime: 2022-08-25T16:51:00Z
+    webUrl: "https://www.packworld.com/machinery/robotics/article/22340562/smarter-robots-ai-machine-learning-and-3d-vision"
+    type: article
+    provider:
+      name: Packaging World
+      domain: packworld.com
+    quality: 54
+    images:
+      - url: "https://img.packworld.com/files/base/pmmi/all/image/2022/07/Mitarbeiter_Cobot_032_20211020.62d891ea15c52.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
+        width: 1200
+        height: 899
+        isCached: true
   - title: "AI: powering healthcare, empowering patients Physician perceptions of AI and the future of pharma"
     excerpt: "According to a report by the British Medical Journal (BMJ), soon after COVID-19 was declared a global pandemic, the World Health Organization (WHO) indicated both AI and ML could be important tools for managing the crisis,"
     publishedDateTime: 2022-08-24T13:38:00Z

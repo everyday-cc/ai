@@ -2,6 +2,49 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-24-knowledgehut-upgrad-launches-ai-engineering-bootcamps.md",
+      "title": "KnowledgeHut upGrad launches AI engineering bootcamps",
+      "excerpt": "According to the statement, in the foundation phase, candidates will learn about data warehousing, Linux, Python, SQL, Hadoop, MongoDB, Big Data processing, Big Data security, and AWS.",
+      "sourceUrl": null,
+      "webUrl": "https://www.financialexpress.com/education-2/knowledgehut-upgrad/2642713/",
+      "originalUrl": "https://www.financialexpress.com/education-2/knowledgehut-upgrad/2642713/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.financialexpress.com/wp-content/uploads/2022/08/Edtech-1200-1-5.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.financialexpress.com/education-2/knowledgehut-upgrad/2642713/lite/",
+      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/knowledgehut-upgrad/2642713/lite/",
+      "publishedDateTime": "2022-08-24T04:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Financial Express",
+        "domain": "financialexpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf.md",
       "title": "Zilliz, the startup behind the Milvus open-source vector database for AI applications, raises $60M and relocates to SF",
       "excerpt": "Chinese startup Zilliz — which builds cloud-native software to process data for AI applications and unstructured data analytics, and is the creator of Milvus, the popular open source vector database for similarity searches — raised $43 million to scale its business and prep",
@@ -1176,49 +1219,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-robotics-artificial-intelligence-competition-to-spur-production-underway.md",
-      "title": "Robotics, Artificial Intelligence : Competition to Spur Production Underway",
-      "excerpt": "Some 60 students, start-upers, researchers from across the country that were preselected have begun competing for prizes.",
-      "sourceUrl": null,
-      "webUrl": "https://cameroon-tribune.cm/article.html/50569/en.html/robotics-artificial-intelligence-competition-spur-production",
-      "originalUrl": "https://cameroon-tribune.cm/article.html/50569/en.html/robotics-artificial-intelligence-competition-spur-production",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cameroon-tribune.cm//administrateur/photo/normal_7b6e847.jpg",
-          "width": 960,
-          "height": 460,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T04:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cameroon",
-        "domain": "cameroon-tribune.cm",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

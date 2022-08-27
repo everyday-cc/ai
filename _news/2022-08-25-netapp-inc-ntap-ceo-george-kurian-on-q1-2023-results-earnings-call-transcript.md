@@ -54,20 +54,6 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Viomi Technology Co., Ltd (VIOT) CEO Xiaoping Chen on Q2 2022 Results - Earnings Call Transcript"
-    excerpt: "Q2 2022 Earnings Conference Call August 22, 2022, 08:00 AM ET Company Participants Xiaoping Chen - Founder, Chairman and CEO Wickham Thai"
-    publishedDateTime: 2022-08-22T17:15:00Z
-    webUrl: "https://seekingalpha.com/article/4536189-viomi-technology-co-ltd-viot-ceo-xiaoping-chen-on-q2-2022-results-earnings-call-transcript"
-    type: article
-    provider:
-      name: Seeking Alpha
-      domain: seekingalpha.com
-    quality: 11
-    images:
-      - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
-        width: 1200
-        height: 1200
-        isCached: true
 
 secured: "YLz7lYPLVtb6jDbTY6yWsxPNDsjEKdtBckQFWX9RSrrGHSr8h/NuDFUwJ5B0SsJzOfjintvDbvLZVhZFONaZ6xka3ya7crqgJcJcghkWEP8cHX3G7wBDy2QJDLV63t8C2PrpsJWMeBx2nBbnnwG9B6Dh5LAYYGNRzCL5KlMrEKKao7aOrQ9c4qIIDpsSryOwkZc0Kh8JdWlA9nGiGdmZBzBDiByqXE6dnc97zV3XkSmX806myUilkvicfiLyXX5IFeKAJbTZ/ST+FYxpBFMzmQM+Cv9GyxxUt+PltB2RfQQpfHbljxxQaCTGwDg65vgv3MeveFds6fYleNeVo+zG42cWEUnOdLJviSuzVKi0TcE=;yumpEyU6hb+lIohsd6SGZQ=="
 ---

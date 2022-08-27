@@ -47,15 +47,6 @@ related:
         width: 700
         height: 400
         isCached: true
-  - title: "AI-powered intake platform Ubie raises $26.2M"
-    excerpt: "Ubie, a tech startup that offers a medical intake platform powered by artificial intelligence, has raised $26.2 million in series C funding. The firm offers a questionnaire to guide patients to the right healthcare institution at the right time and give physicians and pharmaceutical companies up-to-date medical research."
-    publishedDateTime: 2022-08-22T17:15:00Z
-    webUrl: "https://www.beckershospitalreview.com/digital-health/ai-powered-intake-platform-ubie-raises-26-2m.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 17
 
 secured: "Y2tY9rnL8gSqUxP5vpGlJA1v4NzV1Ivw/W5WhNr5mirwZBNOng1rwa494otluYg3R5sibE6lcY7DtIHPKkGNHlAImOQgiIZ5pmcVG2TBmfz5WJjZTyyYCQUvM/KMQsncNwP3cz4+dzH7/9+gU5V9wxIhGF21fjs/Gr9icOM2ZDfXELJlnSSrRnvSSbEtRI4naxc61ZalAUPpD0U6H9S5hAWievyFJ9sr0G+uS9X+u4Fu4GpXVnV2qfDnLOt41WZAkTpjWQV2LrwhYQ8rV60ZyW+NBEKaAENJzikbX/ic7yaXeYzrhxPIID8RFxp2dzqH3uosRDkJZD11qi0MYCwwzifO0qWv0iOmDEj5Lhkm3yo=;j/TDAnWuyNN/NTzIQI7LHA=="
 ---

@@ -2,6 +2,153 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-08-09-discovering-new-planets-using-artificial-intelligence.md",
+      "title": "Discovering New Planets Using Artificial Intelligence",
+      "excerpt": "The possibilities of artificial intelligence are endless. Even astronomers have begun applying this technology to",
+      "sourceUrl": null,
+      "webUrl": "https://i-hls.com/archives/115488",
+      "originalUrl": "https://i-hls.com/archives/115488",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-hls.com/wp-content/uploads/2022/08/space-1548139_1280.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-08T21:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AUS&R",
+        "domain": "i-hls.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-ai-regulation-a-state-by-state-roundup-of-ai-bills.md",
+      "title": "AI regulation: A state-by-state roundup of AI bills",
+      "excerpt": "Wondering where AI regulation stands in your state? Check out this roundup of AI-related bills at the state and local level.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/",
+      "originalUrl": "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1161855919.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/ai-regulation-a-state-by-state-roundup-of-ai-bills/amp/",
+      "publishedDateTime": "2022-08-08T20:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-09-future-of-work-beyond-bossware-and-job-killing-robots.md",
+      "title": "Future of work: Beyond bossware and job-killing robots",
+      "excerpt": "To encourage a human-centered workplace, we must rethink AI-driven automation, bossware, labor taxes and corporate R&D.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/",
+      "originalUrl": "https://venturebeat.com/2022/08/08/future-of-work-beyond-bossware-and-job-killing-robots/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/05/surveillance-camera.GettyImages-182214587.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 617,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/datadecisionmakers/future-of-work-beyond-bossware-and-job-killing-robots/amp/",
+      "publishedDateTime": "2022-08-08T20:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-09-chinas-baidu-wins-first-permits-for-fully-driverless-robotaxis.md",
       "title": "China's Baidu wins first permits for fully driverless 'robotaxis'",
       "excerpt": "SHANGHAI -- China's Baidu said Monday that it has secured ... after the search engine group released a new generation of self-driving vehicles with production costs roughly half those of its ...",
@@ -989,153 +1136,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-google-sues-sonos-over-voice-control-technology.md",
-      "title": "Google Sues Sonos Over Voice Control Technology",
-      "excerpt": "Google is suing speaker-maker Sonos over alleged patent infringement. In two lawsuits filed in California federal court on Monday, Google alleges that Sonos' latest voice-assistant technology violates seven different patents that relate it's technology for Google Assistant.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/home-entertainment/google-sues-sonos-over-voice-control-technology/",
-      "originalUrl": "https://www.cnet.com/tech/home-entertainment/google-sues-sonos-over-voice-control-technology/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/1ab8c1ec92e7e5a7577256e1cb142c4ea645c6e2/2022/04/15/32b089bd-0635-49e7-813b-e3d2410c60c1/google-logo-2022-443.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/google-sues-sonos-over-voice-control-technology/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/google-sues-sonos-over-voice-control-technology/",
-      "publishedDateTime": "2022-08-08T07:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-baidu-to-offer-robo-taxis-in-more-cities-alibaba-prepares-for-southbound-connect-eligibility.md",
-      "title": "Baidu To Offer Robo Taxis In More Cities, Alibaba Prepares For Southbound Connect Eligibility",
-      "excerpt": "Asian equity markets were largely higher on light summer volumes as Pakistan was closed for Ashura, an important Islamic holiday that occurs on the tenth day of Muharram, the first month in the lunar calendar.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/brendanahern/2022/08/08/baidu-to-offer-robo-taxis-in-more-cities-alibaba-prepares-for-southbound-connect-eligibility/",
-      "originalUrl": "https://www.forbes.com/sites/brendanahern/2022/08/08/baidu-to-offer-robo-taxis-in-more-cities-alibaba-prepares-for-southbound-connect-eligibility/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f11fcf7fe1776868257314/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/brendanahern/2022/08/08/baidu-to-offer-robo-taxis-in-more-cities-alibaba-prepares-for-southbound-connect-eligibility/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/brendanahern/2022/08/08/baidu-to-offer-robo-taxis-in-more-cities-alibaba-prepares-for-southbound-connect-eligibility/amp/",
-      "publishedDateTime": "2022-08-08T07:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-baidu-bags-first-permits-for-fully-driverless-robotaxis-in-china.md",
-      "title": "Baidu Bags First Permits For Fully Driverless 'Robotaxis' In China",
-      "excerpt": "The search engine group recently showcased a new generation of self-driving vehicles. Baidu has now secured permits to offer a fully driverless commercial robotaxi service, with no human driver ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104662107/Baidu-Bags-First-Permits-For-Fully-Driverless-Robotaxis-In-China",
-      "originalUrl": "https://menafn.com/1104662107/Baidu-Bags-First-Permits-For-Fully-Driverless-Robotaxis-In-China",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?459094",
-          "width": 375,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-08T07:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

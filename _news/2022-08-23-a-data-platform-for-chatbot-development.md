@@ -50,6 +50,20 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
+  - title: "Google wants you to chat with its AI chatbot at your own risk"
+    excerpt: "Google has opened its experimental artificial intelligence (AI) chatbot for the public and you can now register to chat with the AI-driven bot trained on the company's controversial language model."
+    publishedDateTime: 2022-08-27T11:07:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/google-wants-you-to-chat-with-its-ai-chatbot-at-your-own-risk-425943"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 37
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/8/2022_8$largeimg_521464923.jpg"
+        width: 627
+        height: 418
+        isCached: true
 
 secured: "8TwjVS+BF5cL2Wagw7aZLVzqmLT9DwF2gr0V1DgZRRgSF2kByzXJWCxOBiNRxQ3uGSK1pya9RTyNTH7pufncHuP+Gb9EDrppWdRA5fpvSQi5q7+R0EbRiU6vJYx4EkvBOndv/mOwPsWn52I/rqeLi7xjv6EIYDFYq00f4bLA8hNFzfjXX6AvLqKYD2E5jiLnz0vNdXh1IyubOhi81ZWVyw9MtE8My48QFFusueZ6vnijs8Gr43G4LqSlbQgQh242DjWDYvKkaCMG3OcPN7CfFZE/yYK3yLrBoQN+RMMEcJdHv9AZOXypojUG4meyztB5NvgDLKdHkSV9xk+25F/AZdoq7dW0/RTP4VqoKM22hRZcW+9b+BOper+42rjsT63JPFOADD93ityMLE6F6mNW+Ia8XWN7MFkjr7606ROmxmLzmPvmo2bJ5gAwcijnJiERQALA2l+C2ACxYnN2ESnhrXdwPFnGTk9joGslffYk6//ZR55quPRDnDNCeigrBsMH8iW602/W+LsIVek554xNwg==;DUmfRnWQIIjy12OM2AhWgA=="
 ---

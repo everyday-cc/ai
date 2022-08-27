@@ -2,6 +2,127 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2022-07-18-conversational-systems-market-with-tremendous-growth-by-2029-google-cognitive-scale-ibm.md",
+      "title": "Conversational Systems Market with Tremendous growth by 2029 Google, Cognitive Scale, IBM",
+      "excerpt": "This growth can be attributed to the growing demand for artificial intelligence (AI)-based customer support services ... Google, Cognitive Scale, IBM, Hewlett Packard, Microsoft, Oracle, Nuance ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/conversational-systems-market-with-tremendous-growth-by-2029-google-cognitive-scale-ibm",
+      "originalUrl": "https://www.digitaljournal.com/pr/conversational-systems-market-with-tremendous-growth-by-2029-google-cognitive-scale-ibm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/6e04d9a5ed4a928ffe1ba6550cca9746849a3076-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T06:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-three-ways-ai-ifying-your-organization-can-reap-tremendous-results.md",
+      "title": "Three ways AI-ifying your organization can reap tremendous results",
+      "excerpt": "AI offers a host of possibilities, and successful execution can lead traditional enterprises into a new era of digital transformation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.fastcompany.com/90767812/three-ways-ai-ifying-your-organization-can-reap-tremendous-results",
+      "originalUrl": "https://www.fastcompany.com/90767812/three-ways-ai-ifying-your-organization-can-reap-tremendous-results",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/07/Three-ways-AI-ifying-your-organization-can-reap-tremendous-results.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fast Company",
+        "domain": "fastcompany.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-18-insight-financial-marketing-celebrates-20th-year-anniversary.md",
+      "title": "Insight Financial Marketing Celebrates 20th Year Anniversary",
+      "excerpt": "IFM's services provide financial institutions with large scale transactional analysis and consulting identifying opportunities to help strengthen and grow their client relationships. Founded on July 16,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/n28098898/insight-financial-marketing-celebrates-20th-year-anniversary",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/n28098898/insight-financial-marketing-celebrates-20th-year-anniversary",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T05:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
       "path": "_news/2022-07-18-advance-auto-parts-introduces-superfan-ed-vance-giving-emerging-auto-enthusiasts-a-new-voice-in-growing-category.md",
       "title": "Advance Auto Parts Introduces Superfan ‘Ed Vance,’ Giving Emerging Auto Enthusiasts a New Voice In Growing Category",
       "excerpt": "Advance Auto Parts (NYSE: AAP), a leading automotive aftermarket parts provider, today introduced its No. 1 fan \"Ed Vance,” revolutionizing the category by representing the voice of an emerging segment of automobile enthusiasts – those learning to DIY and craving a partner on their journey.",
@@ -985,154 +1106,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-how-to-make-the-most-of-your-aiml-investments-start-with-your-data-infrastructure.md",
-      "title": "How to make the most of your AI/ML investments: Start with your data infrastructure",
-      "excerpt": "A successful AI/ML program doesn’t start with a big team of data scientists. It starts with strong data infrastructure.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/17/how-to-make-the-most-of-your-ai-ml-investments-start-with-your-data-infrastructure/",
-      "originalUrl": "https://venturebeat.com/2022/07/17/how-to-make-the-most-of-your-ai-ml-investments-start-with-your-data-infrastructure/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 98,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-1294874384.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 602,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/17/how-to-make-the-most-of-your-ai-ml-investments-start-with-your-data-infrastructure/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/17/how-to-make-the-most-of-your-ai-ml-investments-start-with-your-data-infrastructure/amp/",
-      "publishedDateTime": "2022-07-17T14:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority.md",
-      "title": "Why Corporate Purpose And AI Ethics Must Be a Leadership And Risk Management Priority",
-      "excerpt": "In today’s challenging world, there is an imperative to advance Corporate Purpose leadership at all levels of an organization. AI Ethics and Happiness Foundations must be integrated into Corporate Purpose.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/07/17/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/07/17/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62d46626059d45a508f35bc8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 677,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/07/17/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/07/17/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority/amp/",
-      "publishedDateTime": "2022-07-17T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-artificial-intelligence-in-pakistan.md",
-      "title": "Artificial intelligence in Pakistan",
-      "excerpt": "Those films portray a highly advanced version of AI, formally known as Artificial General Intelligence (AGI), which is currently close to impossible. Unlike Hollywood, AI today focuses on narrow problems,",
-      "sourceUrl": null,
-      "webUrl": "https://tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan",
-      "originalUrl": "https://tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": " https://i.tribune.com.pk/media/images/China-AI1633983096-0/China-AI1633983096-0.jpg  ",
-          "width": 960,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan?amp=1",
-      "cdnAmpWebUrl": "https://tribune-com-pk.cdn.ampproject.org/c/s/tribune.com.pk/story/2366462/artificial-intelligence-in-pakistan?amp=1",
-      "publishedDateTime": "2022-07-17T13:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Express Tribune",
-        "domain": "tribune.com.pk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

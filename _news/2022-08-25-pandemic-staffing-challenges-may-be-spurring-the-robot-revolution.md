@@ -9,7 +9,7 @@ ampWebUrl: "https://amp.wbur.org/news/2022/08/25/robotics-automation-workforce"
 cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/news/2022/08/25/robotics-automation-workforce"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 3000
     height: 2001
     isCached: true
-
-related:
-  - title: "Empowering the Next Revolution"
-    excerpt: "Tosoh Bioscience’s recent strategic investments in SkillPak prepacked chromatography columns and multicolumn chromatography (MCC) technology."
-    publishedDateTime: 2022-08-22T18:24:00Z
-    webUrl: "https://bioprocessintl.com/sponsored-content/skillpak-chromatography-columns-empowering-the-next-revolution/"
-    type: article
-    provider:
-      name: BioProcess International
-      domain: bioprocessintl.com
-    quality: 4
 
 secured: "ObI9W6KX9eXer4OBCGA9uILU0hodq9h+UUqQsimja8koBPoRhkVqLwz7tb7FGe9+t+4ziarlE/EXF78oKMRJHkh7U4KgaNayfi9afN/o1Gx7FcJI6vdnMenOKg5EMSuKJrrPwQmpRUJzjBMrAzzi2k7bY9Nwu/+v54sDu9++K5Sk13Gwq+qJ/qd2AXYBt1GX75dwWXlbsLkW2q4mTNyM3V9V5QAKW46qCNfxXwhbc3nVeJ1T+31kj7XvvCKqEO2Jl+NpHn+UKAwJtVFbZsgOzx5etl2hz44G+rERyV/YW2CXGirOXvwwBs+qDRmsnI8BCH+Jwz+ROZN1ndaQRLN5kLdsakrAPXl8yl7qvdJ8w3iRAZfJM+yL46ojzNvPJyYWch+zdWNvcpnMbbUslhNt4LwarF4Bk2R6HJm4ouEIelLIXukHqnhB0/WeIMRgvpYDfIgEnJOzSmijyGniiFAfW/w3dRKNmOqhsi9FfGPg6iQJdTHl+JabJm0qYeRKkS+SAdu4RXChHZ6NqYCLGZ0MNg==;42an9Z89PAch0Phx48PL8A=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/bc-eu-russia-ukraine-war_n_6307ecf4e4
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/bc-eu-russia-ukraine-war_n_6307ecf4e4b0581766d1dc03/amp"
 type: article
 quality: 89
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,17 +29,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "AI for Ukraine is a New Project from AI HOUSE to Support Ukrainian Tech Community"
-    excerpt: "AI for Ukraine” is a series of workshops and lectures held by international artificial intelligence experts to support the development"
-    publishedDateTime: 2022-08-22T17:12:00Z
-    webUrl: "https://www.datanami.com/this-just-in/ai-for-ukraine-is-a-new-project-from-ai-house-to-support-ukrainian-tech-community/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 14
 
 secured: "66fUwwubsIAqlT/QrzuguNUaMFxo28Th5pCPrI0hb6bnkOLJPApPlj8h+Iq+hJ5i10PaHeL1G4TLcKmRwaZ49zSUVnRDNmQzq3KF34JfpAPzmIXAgMFWkEoz2Z0n8rLttFXUdE/utbLWYkTC9LQ11uFOZtaJk0bghuiFghIhp2svvfvGtj7lpww0jpnWT2fuWkLYfxmhO2bwaVyzWABqOtDzqrWB6qPUJLVAfmtBj8JGE+irB8ZUdRx0eE19m+b+sl6wIcT0EjJwz03qAyCaga55iPiAYiGAvpjqW/qGGca0c1Y2XTt3LK35fGOxC5YB0cs1cVr1FW5cpW9Pcy1tu5Y2MUO2VQ7tbKEfGm+XmMw=;N/vy0NPBQ2jT8bg+Ia4kmA=="
 ---

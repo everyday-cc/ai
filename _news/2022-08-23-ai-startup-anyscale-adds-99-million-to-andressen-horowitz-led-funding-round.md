@@ -9,7 +9,7 @@ ampWebUrl: "https://www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million
 cdnAmpWebUrl: "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200"
 type: article
 quality: 84
-heat: 134
+heat: 124
 published: true
 
 provider:
@@ -85,20 +85,6 @@ related:
       - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/https___specials-images.forbesimg.com_imageserve_61aeadfcd3156eea4c6c19fd_Anyscale-founders_0x0.jpg"
         width: 960
         height: 640
-        isCached: true
-  - title: "SCALE AI announces a major financing round in artificial intelligence: $50 million to support 12 new projects"
-    excerpt: "With an additional 12 projects representing more than $50 million in investments announced today by SCALE AI, artificial intelligence (AI) is continuing on its path of rapid adoption by Canadian industry leaders."
-    publishedDateTime: 2022-08-22T17:24:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/08/22/9660109.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 35
-    images:
-      - url: "https://mma.prnewswire.com/media/1882672/Scale_AI_SCALE_AI_announces_a_major_financing_round_in_artificia.jpg"
-        width: 400
-        height: 400
         isCached: true
 
 secured: "ehcJ1dI48SB8c2vtv94rez21n9iwzoT8bZkBjQGCIg0p4wZaxIzgj0R9eWGwPAX472cImAUHFwPsrm7THFmVipmqaGXuxyy5jp+MnuNcAbU9l+aTXmg60tMAs8G3cCRp4J5k2f7y5ZQnwDPiW4UjOzNVQEZ79CYSEqEArGeqH8+I4vSMPTykExAb3XV3DHDylqSmuDKuzMOWuTXhQy7v+XnzNph0zZ5JbhzC2CaaxK+KMgKYHDB1g+tFXOS2Gdy5LPA4TFyp/TY8+TK3a1YjIkZc0XEPjGkU4h/G0W8d+6CIs/I4E2Hxo4XGyMj8p/yuSwb4/r0qCId0nvgaOmjzdzt0muXy4ZbqYP/Kr6hmNS98pQBp1wGBA41o4tahzDedI9s2Y9EiIh4j1CXYWe1r2iGeWJhtzvpJTvr1MtIyxht5vuMZiGLBILJJZ5BcX1NMjJTqCPgxKmCl3ohE7bdl5D9Cy4CEQyeauIui2dVw+LKJ6ChBTXMJBgRlJWOi1BKZV0mOwoXrv38PPilyXdlGeA==;fjkK+34VNG2I5HXHKv8E1w=="

@@ -10,7 +10,7 @@
       "originalUrl": "https://www.huffpost.com/entry/bc-eu-russia-ukraine-war_n_6307ecf4e4b0581766d1dc03",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -423,6 +423,49 @@
       "provider": {
         "name": "Daily Herald",
         "domain": "dailyherald.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-groups-have-questions-about-how-facial-recognition-technology-impact-black-people.md",
+      "title": "Groups have questions about how facial recognition technology impact Black people",
+      "excerpt": "Several organizations are voicing concerns about the use of facial recognition technology, and its accuracy and fairness. A recently released Pew Research Center study shows Black Americans are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/groups-questions-facial-recognition-technology-154900553.html",
+      "originalUrl": "https://www.aol.com/groups-questions-facial-recognition-technology-154900553.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/OX5BwgXD4_uVzwQkbOLXjw--~B/aD02NTk7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_thegrio_365/2ea75693490473c6c26a2f528b7276b3",
+          "width": 1024,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -991,6 +1034,58 @@
       ]
     },
     {
+      "path": "_news/2022-08-16-facial-recognition-on-smartphones-is-it-secure-and-should-you-use-it.md",
+      "title": "Facial recognition on smartphones: Is it secure and should you use it?",
+      "excerpt": "Facial recognition on personal use devices like smartphones and laptops has become increasingly common. The concept seems downright futuristic on the surface — most of us used a PIN, password ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidauthority.com/face-unlock-smartphones-3043993/",
+      "originalUrl": "https://www.androidauthority.com/face-unlock-smartphones-3043993/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidauthority.com/wp-content/uploads/2018/10/huawei-mate-20-pro-review-aa-notch-3d-face-unlock-earpiece-11.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-15T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Android Authority",
+        "domain": "androidauthority.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/androidauthority.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-tesla-releases-new-picture-of-its-upgraded-supercomputer-one-of-the-best-in-the-world.md",
       "title": "Tesla releases new picture of its upgraded supercomputer – one of the best in the world",
       "excerpt": "Tesla has released a new picture of its upgraded supercomputer, which is now believed to be the seventh most powerful computer in the world by GPU. For years now, Tesla has been teasing the development of a new supercomputer in-house optimized for neural net video training.",
@@ -1279,103 +1374,6 @@
       "provider": {
         "name": "techxplore",
         "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-computer-vision-in-healthcare-market-size-revenue-key-players-latest-trends-and-forecast-2028.md",
-      "title": "Computer Vision in Healthcare Market Size, Revenue, Key Players, Latest Trends, and Forecast 2028",
-      "excerpt": "The Global Computer Vision in Healthcare Market is forecasted to register a CAGR of over 47.2% during the forecast",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-size-revenue-key-players-latest-trends-and-forecast-2028-2022-08-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-size-revenue-key-players-latest-trends-and-forecast-2028-2022-08-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-12T03:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-new-ai-facial-recognition-and-emotion-detection-solution-powered-by-intetics.md",
-      "title": "New AI Facial Recognition and Emotion Detection Solution Powered by Intetics",
-      "excerpt": "As a natural progression of facial recognition technology, emotion recognition is a field of computer vision that is gaining more and more attention in mass media. It involves facial emotion detection",
-      "sourceUrl": null,
-      "webUrl": "https://www.benzinga.com/pressreleases/22/08/n28459827/new-ai-facial-recognition-and-emotion-detection-solution-powered-by-intetics",
-      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/n28459827/new-ai-facial-recognition-and-emotion-detection-solution-powered-by-intetics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 123,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g",
-          "width": 300,
-          "height": 250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.benzinga.com/amp/content/28459827",
-      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28459827",
-      "publishedDateTime": "2022-08-11T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Benzinga.com",
-        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

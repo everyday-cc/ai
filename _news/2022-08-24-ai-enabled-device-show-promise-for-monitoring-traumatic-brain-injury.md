@@ -23,17 +23,6 @@ images:
     height: 630
     isCached: true
 
-related:
-  - title: "New AI-enabled, optical fiber sensor device could help monitor brain injury"
-    excerpt: "A new AI-enabled, optical fiber sensor device developed at Imperial College London can measure key biomarkers of traumatic brain injury simultaneously"
-    publishedDateTime: 2022-08-22T18:03:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-ai-enabled-optical-fiber-sensor-device.html"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 15
-
 secured: "H4sALQ+UR8DpkbU/BYMHMxrqIIF0nCRZx7ERlaZRQiSqlLUpmN5ufigOKvWd/AXeposF8/2vnzHq2TNI98nykBVZMoUf8bbGcBZi6DVqbydmJq1Fp6xJ+Kb8z5/WyAVSzyHPBfidLMHf8IUJ/GIaoyFP1HDmHOWpMqC8rYP2fGA3cGYeEuhlPHnhi+WL9Y5PPINJlzyhZDZrTb2CTUjuli4fW09Pa60Pv/K3DSX+3UZuoe5snokX10Lcl188jQei5vr0COIUiNaFeOhhm/X5cqi6dE/ocwIX0fhzoGAmH3/UhsXUU3qHVQ70vJSHlRde+tD9/KhRLFuQ5KLYvj+FhowLtApYjTe0MTR5j9zwlzI=;SpLO7sIhzsdK3pLQYpqsXg=="
 ---
 

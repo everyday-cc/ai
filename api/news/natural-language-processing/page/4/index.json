@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-28-a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why.md",
+      "title": "A gold-rush of NLP startups is about to arrive — here’s why",
+      "excerpt": "Remember Natural Language Processing? NLP arose several years ago but it was only in 2018 that AI researchers proved it was possible to train a neural network once on a large amount of data and use it again and again for different tasks.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/28/a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why/",
+      "originalUrl": "https://techcrunch.com/2022/07/28/a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/07/Google-Duplex.jpeg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/28/a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/28/a-gold-rush-of-nlp-startups-is-about-to-arrive-heres-why/amp/",
+      "publishedDateTime": "2022-07-28T01:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-global-us-283-billion-speech-and-voice-recognition-market-outlook-to-2026.md",
       "title": "Global US $ 28.3 Billion Speech and Voice Recognition Market Outlook to 2026",
       "excerpt": "Jul 28, 2022 (The Expresswire) -- [160 Pages Report] The \"Speech and Voice Recognition Market\" report contains detailed information on factors influencing demand, growth, opportunities ...",
@@ -1292,49 +1344,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-three-ways-ai-ifying-your-organization-can-reap-tremendous-results.md",
-      "title": "Three ways AI-ifying your organization can reap tremendous results",
-      "excerpt": "AI offers a host of possibilities, and successful execution can lead traditional enterprises into a new era of digital transformation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.fastcompany.com/90767812/three-ways-ai-ifying-your-organization-can-reap-tremendous-results",
-      "originalUrl": "https://www.fastcompany.com/90767812/three-ways-ai-ifying-your-organization-can-reap-tremendous-results",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2022/07/Three-ways-AI-ifying-your-organization-can-reap-tremendous-results.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fast Company",
-        "domain": "fastcompany.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

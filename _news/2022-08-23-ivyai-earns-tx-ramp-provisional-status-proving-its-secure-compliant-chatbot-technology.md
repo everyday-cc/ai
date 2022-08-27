@@ -38,6 +38,20 @@ related:
         width: 1200
         height: 670
         isCached: true
+  - title: "Google wants you to chat with its AI chatbot at your own risk"
+    excerpt: "Google has opened its experimental artificial intelligence (AI) chatbot for the public and you can now register to chat with the AI-driven bot trained on the company's controversial language model."
+    publishedDateTime: 2022-08-27T11:07:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/google-wants-you-to-chat-with-its-ai-chatbot-at-your-own-risk-425943"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 37
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/8/2022_8$largeimg_521464923.jpg"
+        width: 627
+        height: 418
+        isCached: true
   - title: "A Data Platform for Chatbot Development"
     excerpt: "One of the most compelling use cases for AI at the moment is developing chatbots and conversational agents. While the AI part of the equation works"
     publishedDateTime: 2022-08-22T21:31:00Z

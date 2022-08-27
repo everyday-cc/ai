@@ -2,6 +2,145 @@
   "page": 122,
   "value": [
     {
+      "path": "_news/2022-05-24-build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.md",
+      "title": "Build 2022: Power Platform gets more web development tools and AI assistance",
+      "excerpt": "Lamanna noted that the Power Pages tools have been tested by several large customers. One interesting example comes from the New Zealand Ministry of Business, Innovation, and Empl",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3661556/build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.html",
+      "originalUrl": "https://www.infoworld.com/article/3661556/build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/idge/imported/imageapi/2022/03/29/11/10-most-powerful-network-companies-primary2-100730524-large-100923007-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3661556/build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3661556/build-2022-power-platform-gets-more-web-development-tools-and-ai-assistance.amp.html",
+      "publishedDateTime": "2022-05-24T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-microsoft-brings-support-for-arm-based-ai-chips-to-windows.md",
+      "title": "Microsoft brings support for Arm-based AI chips to Windows",
+      "excerpt": "With Project Volterra and software tooling, including from Qualcomm, Microsoft is making it easier to develop AI-accelerated apps using Windows.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/24/microsoft-brings-support-for-arm-based-ai-chips-to-windows/",
+      "originalUrl": "https://techcrunch.com/2022/05/24/microsoft-brings-support-for-arm-based-ai-chips-to-windows/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 481,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/Build_Blog_Project_Volterra.png?w=680",
+          "width": 679,
+          "height": 302,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/05/24/microsoft-brings-support-for-arm-based-ai-chips-to-windows/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/24/microsoft-brings-support-for-arm-based-ai-chips-to-windows/amp/",
+      "publishedDateTime": "2022-05-24T08:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-24-madrona-and-pitchbook-partner-to-bring-machine-intelligence-to-the-intelligent-applications-40-ia40-list.md",
+      "title": "Madrona and PitchBook Partner to Bring Machine Intelligence to the Intelligent Applications 40 (#IA40) List",
+      "excerpt": "PitchBook Previews a New Machine Learning Intelligent Application that Predicts Company Outcomes and Finds that late stage IA40 companies are 60% more likely to IPO than the average late-stage company Madrona,",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/05/b27374218/madrona-and-pitchbook-partner-to-bring-machine-intelligence-to-the-intelligent-applications-40-ia4",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/05/b27374218/madrona-and-pitchbook-partner-to-bring-machine-intelligence-to-the-intelligent-applications-40-ia4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27374218",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27374218",
+      "publishedDateTime": "2022-05-24T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-24-artificial-intelligence-ai-a-potential-without-limits.md",
       "title": "Artificial Intelligence (AI), a potential without limits",
       "excerpt": "The combination of Artificial Intelligence and the Internet of Things (IoT) will allow companies to have “very powerful” solutions, say the experts. ICEMD Innovation Series was created with the aim of being an annual reference document that helps ...",
@@ -979,136 +1118,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-artificial-intelligence-ai-chipset-market-demand-2022-size-share-future-growth-potential-survey-by-2030.md",
-      "title": "Artificial Intelligence (Ai) Chipset Market [DEMAND] 2022 Size, Share, Future Growth Potential Survey By 2030",
-      "excerpt": "Quadintel published a new report on the Artificial Intelligence (Ai) Chipset Market. The research report consists of thorough information about",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chipset-market-demand-2022-size-share-future-growth-potential-survey-by-2030",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chipset-market-demand-2022-size-share-future-growth-potential-survey-by-2030",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/4ba28c3d33d39eec6ca39ee6ec73278277796002-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T23:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-africas-ai-and-startup-scene-prepares-to-change-the-world.md",
-      "title": "Africa’s AI and startup scene prepares to change the world",
-      "excerpt": "Global perceptions of Africa’s tech landscape does not do justice to the many bright minds who bring revolutionary products to market, writes CELINA LEE, CEO of Zindi",
-      "sourceUrl": null,
-      "webUrl": "https://gadget.co.za/africas-ai-and-startup-scene-prepares-to-change-the-world/",
-      "originalUrl": "https://gadget.co.za/africas-ai-and-startup-scene-prepares-to-change-the-world/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/gadget.co.za/wp-content/uploads/2022/05/Celina-Lee-CEO-at-Zindi-scaled.jpg?resize=1000%2C600&#038;ssl=1",
-          "width": 1000,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T23:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "gadget.co.za",
-        "domain": "gadget.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-24-supermicro-to-add-nvidia-grace-cpu-superchip-based-servers-to-the-industry-leading-portfolio-for-hpc-data-analytics-and-cloud-gaming-applications.md",
-      "title": "Supermicro to Add NVIDIA Grace CPU Superchip-Based Servers to the Industry-Leading Portfolio for HPC, Data Analytics, and Cloud Gaming Applications",
-      "excerpt": "(Nasdaq: SMCI), a global leader in enterprise computing, storage, networking, and green computing technology, will deploy the NVIDIA Grace CPU Superchip in a wide range of servers optimized for AI, HPC,",
-      "sourceUrl": null,
-      "webUrl": "https://who13.com/business/press-releases/cision/20220524SF66950/supermicro-to-add-nvidia-grace-cpu-superchip-based-servers-to-the-industry-leading-portfolio-for-hpc-data-analytics-and-cloud-gaming-applications/",
-      "originalUrl": "https://who13.com/business/press-releases/cision/20220524SF66950/supermicro-to-add-nvidia-grace-cpu-superchip-based-servers-to-the-industry-leading-portfolio-for-hpc-data-analytics-and-cloud-gaming-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1443241/Supermicro_Logo.jpg",
-          "width": 400,
-          "height": 206,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T21:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "who13",
-        "domain": "who13.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

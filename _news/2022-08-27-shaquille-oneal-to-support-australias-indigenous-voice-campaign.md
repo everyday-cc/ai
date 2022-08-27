@@ -19,6 +19,22 @@ topics:
   - AI
 
 related:
+  - title: "Shaquille O'Neal to help Australian Indigenous 'Voice' campaign"
+    excerpt: "Hailed as the greatest basketball player and center of all time, American basketballer Shaquille O'Neal announces his support behind the"
+    publishedDateTime: 2022-08-27T09:55:00Z
+    webUrl: "https://www.dailysabah.com/sports/basketball/shaquille-oneal-to-help-australian-indigenous-voice-campaign"
+    ampWebUrl: "https://www.dailysabah.com/sports/basketball/shaquille-oneal-to-help-australian-indigenous-voice-campaign/amp"
+    cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/sports/basketball/shaquille-oneal-to-help-australian-indigenous-voice-campaign/amp"
+    type: article
+    provider:
+      name: Daily Sabah
+      domain: dailysabah.com
+    quality: 59
+    images:
+      - url: "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/08/27/thumbs/800x531/227323.jpg"
+        width: 1600
+        height: 1062
+        isCached: true
   - title: "Hoops legend Shaquille O’Neal puts his weight behind Indigenous voice"
     excerpt: "One of the world's most famous NBA stars is lending his support to the campaign for an Indigenous voice to parliament, as he met with the prime minister."
     publishedDateTime: 2022-08-27T01:58:00Z
@@ -80,20 +96,6 @@ related:
       - url: "https://live-production.wcms.abc-cdn.net.au/64eb45a3df5852167f784b70a03a5730?impolicy=wcms_crop_resize&cropH=3327&cropW=4990&xPos=0&yPos=0&width=862&height=575"
         width: 862
         height: 575
-        isCached: true
-  - title: "NBA star meets PM over Indigenous voice"
-    excerpt: "One of the world’s most famous NBA stars is lending his support to the campaign for an Indigenous voice to parliament."
-    publishedDateTime: 2022-08-27T03:17:00Z
-    webUrl: "https://www.afr.com/politics/federal/nba-star-meets-pm-over-indigenous-voice-20220827-p5bd81"
-    type: article
-    provider:
-      name: The Australian Financial Review
-      domain: afr.com
-    quality: 24
-    images:
-      - url: "https://static.ffx.io/images/$zoom_0.4844%2C$multiply_1%2C$ratio_1.777778%2C$width_1059%2C$x_1198%2C$y_187/t_crop_custom/c_scale%2Cw_800%2Cq_88%2Cf_jpg/t_afr_no_label_no_age_social_wm/5d1acfd60e1b460cb494d3e8a98dab85dac8914e"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Anthony Albanese and Linda Burney meet with Shaquille O'Neal as government seeks to mobilise support for Voice to Parliament"
     excerpt: "Prime Minister Anthony Albanese and Indigenous Australians Minister Linda Burney have met with American basketball great Shaquille O'Neal as the government seeks to mobilise support for the Voice to Parliament."

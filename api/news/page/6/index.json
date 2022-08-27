@@ -2,6 +2,57 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-20-inflation-flat-for-the-first-time-in-decades-forbes-ai-newsletter-august-13th.md",
+      "title": "Inflation Flat For The First Time In Decades: Forbes AI Newsletter - August 13th",
+      "excerpt": "Subscribe to the Forbes AI newsletter to stay in the loop and get AI-backed investing insights, the latest news and more delivered directly to your inbox every weekend.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/qai/2022/08/19/inflation-flat-for-the-first-time-in-decades-forbes-ai-newsletteraugust-13th/",
+      "originalUrl": "https://www.forbes.com/sites/qai/2022/08/19/inflation-flat-for-the-first-time-in-decades-forbes-ai-newsletteraugust-13th/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62ffd34179bd8c11cfb74238/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 777,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/qai/2022/08/19/inflation-flat-for-the-first-time-in-decades-forbes-ai-newsletteraugust-13th/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/08/19/inflation-flat-for-the-first-time-in-decades-forbes-ai-newsletteraugust-13th/amp/",
+      "publishedDateTime": "2022-08-19T11:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-best-practices-for-tensorflow-1x-acceleration-training-on-amazon-sagemaker.md",
       "title": "Best practices for TensorFlow 1.x acceleration training on Amazon SageMaker",
       "excerpt": "Today, a lot of customers are using TensorFlow to train deep learning models for their clickthrough rate in advertising and personalization recommendations in ecommerce. As the behavior of their clients change, they can accumulate large amounts of new data every day. Model iteration is one of a data",
@@ -258,6 +309,49 @@
       ],
       "topics": [
         "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-groups-have-questions-about-how-facial-recognition-technology-impact-black-people.md",
+      "title": "Groups have questions about how facial recognition technology impact Black people",
+      "excerpt": "Several organizations are voicing concerns about the use of facial recognition technology, and its accuracy and fairness. A recently released Pew Research Center study shows Black Americans are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/groups-questions-facial-recognition-technology-154900553.html",
+      "originalUrl": "https://www.aol.com/groups-questions-facial-recognition-technology-154900553.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/OX5BwgXD4_uVzwQkbOLXjw--~B/aD02NTk7dz0xMDI0O2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/aol_thegrio_365/2ea75693490473c6c26a2f528b7276b3",
+          "width": 1024,
+          "height": 659,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T09:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1068,101 +1162,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-self-driving-cars-get-green-light-to-hit-roads-next-year-with-100million-pledge-to-speed-up-rollout.md",
-      "title": "Self-driving cars get green light to hit roads next year with £100million pledge to speed up rollout",
-      "excerpt": "Self-driving vehicles could be on British roads as early as next year, the Government has said. Ministers want to pass legislation so that some cars, coaches and lorries with self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/news/article-11125513/Self-driving-cars-green-light-hit-roads-year-100million-pledge-speed-rollout.html",
-      "originalUrl": "https://www.dailymail.co.uk/news/article-11125513/Self-driving-cars-green-light-hit-roads-year-100million-pledge-speed-rollout.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/08/18/23/61524377-0-image-a-13_1660863054852.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/news/article-11125513/amp/Self-driving-cars-green-light-hit-roads-year-100million-pledge-speed-rollout.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/news/article-11125513/amp/Self-driving-cars-green-light-hit-roads-year-100million-pledge-speed-rollout.html",
-      "publishedDateTime": "2022-08-18T17:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-artificial-intelligence-ai-chips-market-2022-market-growth-at-a-cagr-of-3828-to-outstrip-usd-6723166-million-till-2027.md",
-      "title": "Artificial Intelligence (AI) Chips Market 2022: Market Growth at a CAGR of 38.28% to Outstrip USD 67231.66 Million till 2027",
-      "excerpt": "Aug 19, 2022 (The Expresswire) -- Artificial Intelligence (AI) Chips Market Insight: Report on \"Artificial Intelligence (AI) Chips Market\" 2022-2027 Report helps to Development Strategy for Pre ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-market-growth-at-a-cagr-of-3828-to-outstrip-usd-6723166-million-till-2027-2022-08-19-131971136",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chips-market-2022-market-growth-at-a-cagr-of-3828-to-outstrip-usd-6723166-million-till-2027-2022-08-19-131971136",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

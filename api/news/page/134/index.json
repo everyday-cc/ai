@@ -2,6 +2,152 @@
   "page": 134,
   "value": [
     {
+      "path": "_news/2022-05-13-leave-it-to-the-robots-what-the-jetsons-got-right-about-ai.md",
+      "title": "Leave It To The Robots: What The Jetsons Got Right About AI",
+      "excerpt": "While the show exaggerated futuristic technology, it can help us think about the real role AI can and should play in the workforce.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5ee90f75a2b06400077bbb41/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/05/13/leave-it-to-the-robots-what-the-jetsons-got-right-about-ai/amp/",
+      "publishedDateTime": "2022-05-13T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-dubai-students-invent-robot-that-can-disarm-explosives-in-war-zones.md",
+      "title": "Dubai students invent robot that can disarm explosives in war zones",
+      "excerpt": "A group of university students in the UAE have developed an autonomous robotic device that can disarm explosives. Students from Canadian University Dubai (CUD) have developed a high-tech, safe, and cost-effective solution to neutralize hazardous environments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.khaleejtimes.com/tech/dubai-students-invent-robot-that-can-disarm-explosives-in-war-zones",
+      "originalUrl": "https://www.khaleejtimes.com/tech/dubai-students-invent-robot-that-can-disarm-explosives-in-war-zones",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://image.khaleejtimes.com?uuid=3d0c1d0e-a429-5cb9-a5df-eba5be79e73f&function=cropresize&type=preview&source=false&q=75&crop_w=0.99999&crop_h=0.84326&x=0&y=0&width=1200&height=675",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.khaleejtimes.com/tech/dubai-students-invent-robot-that-can-disarm-explosives-in-war-zones?amp=1",
+      "cdnAmpWebUrl": "https://www-khaleejtimes-com.cdn.ampproject.org/c/s/www.khaleejtimes.com/tech/dubai-students-invent-robot-that-can-disarm-explosives-in-war-zones?amp=1",
+      "publishedDateTime": "2022-05-13T02:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Khaleej Times",
+        "domain": "khaleejtimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-13-artificial-neural-networks-market-industry-share-size2022-market-research-with-growth-manufacturers-segments-and-2027-forecasts-research.md",
+      "title": "Artificial Neural Networks Market Industry Share, Size2022 Market Research with Growth, Manufacturers, Segments and 2027 Forecasts Research",
+      "excerpt": "Global Artificial Neural Networks Market (2022-2027) includes Precise company profiling of leading players of the Artificial Neural Networks market. All of the segments studied in the report are analyzed based on different factors such as market share,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-industry-share-size2022-market-research-with-growth-manufacturers-segments-and-2027-forecasts-research-2022-05-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-industry-share-size2022-market-research-with-growth-manufacturers-segments-and-2027-forecasts-research-2022-05-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-13T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-13-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-short-interest-up-1011-in-april.md",
       "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Short Interest Up 101.1% in April",
       "excerpt": "Get Global X Robotics & Artificial Intelligence ETF alerts: Shares of NASDAQ BOTZ opened at $21.29 on Friday. Global X Robotics & Artificial Intelligence ETF has a 12 month low of $20.88 and a 12 ...",
@@ -1009,144 +1155,6 @@
       "topics": [
         "AI",
         "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-idc-analysis-ibm-providing-ai-solutions-to-government.md",
-      "title": "IDC Analysis: IBM Providing AI Solutions to Government",
-      "excerpt": "As technology continues to modernize society, some government agencies are struggling to efficiently connect citizens to the services they need. The COVID-19 pandemic has exacerbated this challenge, resulting in agencies turning to emerging data and artificial intelligence (AI) technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www3.technologyevaluation.com/publications/idc-analysis-ibm-providing-ai-solutions-to-government-58883",
-      "originalUrl": "https://www3.technologyevaluation.com/publications/idc-analysis-ibm-providing-ai-solutions-to-government-58883",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://technologyevaluation.azureedge.net/getattachment/ba6918b9-c3b7-50d0-bdf3-44bc0cd296e9/IDC-Analysis-IBM-Providing-AI-Solutions-to-Government-1-221626.jpg?source=tw2&ext=.jpg",
-          "width": 270,
-          "height": 349,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-12T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TEC",
-        "domain": "technologyevaluation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven.md",
-      "title": "Microsoft is enabling Kubernetes for Windows edge-computing devices via 'Project Haven'",
-      "excerpt": "Wondering what Microsoft has up its sleeve for Build 2022? Here are a few tidbits gleaned from the hundreds of sessions listed on its web site, including a new Kubernetes-at-the-edge effort.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/a52ae7d89b8c9f6c7d7ce376c59cc30a6a73fb9c/2022/05/12/5944f6ae-7d42-4eb9-97cb-248e7b042c8f/build2022.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 569,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/microsoft-is-enabling-kubernetes-for-windows-edge-computing-devices-via-project-haven/",
-      "publishedDateTime": "2022-05-12T08:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-12-scientists-enhance-x-ray-data-analysis-with-artificial-intelligence.md",
-      "title": "Scientists enhance X-ray data analysis with artificial intelligence",
-      "excerpt": "Artificial intelligence (AI ... task of analyzing data from high-energy X-ray experiments. With a new neural network-based method called BraggNN, the Argonne team can more precisely identify ...",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-05-scientists-x-ray-analysis-artificial-intelligence.html",
-      "originalUrl": "https://phys.org/news/2022-05-scientists-x-ray-analysis-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/scientists-enhance-x-r.jpg",
-          "width": 534,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-05-scientists-x-ray-analysis-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-05-scientists-x-ray-analysis-artificial-intelligence.amp",
-      "publishedDateTime": "2022-05-12T08:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],
