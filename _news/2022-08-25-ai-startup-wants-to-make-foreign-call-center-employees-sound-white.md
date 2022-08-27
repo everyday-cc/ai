@@ -7,7 +7,7 @@ originalUrl: "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-
 webUrl: "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
 type: article
 quality: 69
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -61,7 +61,21 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "AI tech can make foreign call centre workers sound ‘like us’, but we should respect different accents"
+    excerpt: "Perhaps I could have done with new voice-changing technology that makes you sound more “Western”. Sanas, a Silicon Valley startup, is offering tech that enables call centre workers around the world to sound less foreign."
+    publishedDateTime: 2022-08-27T08:00:00Z
+    webUrl: "https://inews.co.uk/opinion/ai-tech-foreign-call-centre-workers-different-accents-1817526"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 22
+    images:
+      - url: "https://wp.inews.co.uk/wp-content/uploads/2022/08/SEI_121192344.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
-secured: "it4xkFMoa0MaKnnq4pg2J7dxfCn1wY7o2qRmifeqHFOuDzDTc443xD1tCPK6XPJE7OBCuQYPKreEmyMw768JjQ2aAA0e/FWVno5bMYTmYGNC9HKrffBoh5cYKfNoBrQ2AauUrDlgK7GQhcDCq8iMVynvXMvNDncGfFflafTVIiKRS3k7hVEX+Wd9FG5U7vDSB3jbT9u+itK1NDs49yBmEs/ABpew5SOLPaaPowE9OdKN53PYPzeQ3pApzOUBkzfgD/ZNxy/Qh/IRni5B0H0fL0RanMZjA59qhOo2jQTeyUSAL18LAkSWg5DgNXYReXU0vOUfdh4KNXRYP7teBxKnCuGT9vjSkQaght9cOiIGFT8=;tz8rYIgB+kiJq7aLAyaKBg=="
+secured: "PmD3mYSwwXwuAvWzzsCyLmenbWZAXLQo0O8ukGFEaL2T5Csc4LF7hYn733zkZHkVpEmbak5/B0UjdqhZ1toID9OhtYWGTm2D2+7L9JFzj2Td9iUQtMpWsh8V+/cfIFiDTaYUQ3PT0Jg1I8/uZQJpsl1DEFjdK0b6hbn6/PHhqLaiErbU4XGG0QqBo7ULCjJIXduHaObm4O1ru//9HcSJjIH1+5/uqouh+EufsnMdsiJ+cP29wB9Qf1Z1zRVyQDiWbbsgkaIgR/hSAPeZoUPVwGqMH6/2uJqItgRddVDwb+q5aMcBVx4WO0LM2mIv0+jzPnCZHRvdVfnl5B+zF67whV/UuBG2rzIVWKn9B6p5F2g=;UyRWMgT5m0PtqinlC/zKSg=="
 ---
 

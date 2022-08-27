@@ -99,20 +99,6 @@ related:
         width: 1020
         height: 574
         isCached: true
-  - title: "Elon Musk Announced Tesla's 'Full Self-Driving' Technology Will Cost $3,000 More"
-    excerpt: "The price of Tesla's \"full self-driving\" beta mode technology is increasing after September 5, Tesla CEO Elon Musk announced in a Tweet."
-    publishedDateTime: 2022-08-22T16:33:00Z
-    webUrl: "https://www.entrepreneur.com/article/433877"
-    type: article
-    provider:
-      name: Entrepreneur
-      domain: entrepreneur.com
-    quality: 64
-    images:
-      - url: "https://assets.entrepreneur.com/content/3x2/2000/1661183177-GettyImages-493893226.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "Tesla raises price of feature it calls 'full self-driving' to $15,000"
     excerpt: "Tesla is raising the price of its controversial driver-assist feature it calls \"full self-driving\" to $15,000."
     publishedDateTime: 2022-08-22T18:52:00Z
@@ -122,38 +108,6 @@ related:
       name: CNN
       domain: cnn.com
     quality: 64
-  - title: "YouTube removes video of Tesla fans using kids to test whether the carmaker's Full Self-Driving software stops for children"
-    excerpt: "An curved arrow pointing right. YouTube removed a video that showed Tesla fans testing out with real children whether the carmaker's Full Self-Driving (FSD) software would stop for kids. The video was posted by Whole Mars Blog's on YouTube last week after ..."
-    publishedDateTime: 2022-08-22T15:40:00Z
-    webUrl: "https://www.businessinsider.com/tesla-fans-full-self-driving-test-on-kids-removed-youtube-2022-8"
-    ampWebUrl: "https://www.businessinsider.com/tesla-fans-full-self-driving-test-on-kids-removed-youtube-2022-8?amp"
-    cdnAmpWebUrl: "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/tesla-fans-full-self-driving-test-on-kids-removed-youtube-2022-8?amp"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 63
-    images:
-      - url: "https://i.insider.com/630383dcc9a2da001809031b?width=1200&format=jpeg"
-        width: 1200
-        height: 600
-        isCached: true
-  - title: "Elon Musk’s Tesla hiking price of Full Self-Driving system to $15,000"
-    excerpt: "Tesla CEO Elon Musk announced on Twitter that the price of its Full Self-Driving system, known as FSD, will increase to $15,000 on Sept. 5. Musk made the announcement in a tweet on Saturday, stating that the price change will happen after the wide release of FSD Beta 10."
-    publishedDateTime: 2022-08-22T16:12:00Z
-    webUrl: "https://nypost.com/2022/08/22/elon-musks-tesla-hiking-price-of-full-self-driving-system-to-15000/"
-    ampWebUrl: "https://nypost.com/2022/08/22/elon-musks-tesla-hiking-price-of-full-self-driving-system-to-15000/amp/"
-    cdnAmpWebUrl: "https://nypost-com.cdn.ampproject.org/c/s/nypost.com/2022/08/22/elon-musks-tesla-hiking-price-of-full-self-driving-system-to-15000/amp/"
-    type: article
-    provider:
-      name: New York Post
-      domain: nypost.com
-    quality: 59
-    images:
-      - url: "https://nypost.com/wp-content/uploads/sites/2/2022/08/elon-musk-tesla.jpg?quality=75&strip=all&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
   - title: "Tesla Increases Full Self-Driving Price as Regulators Close In"
     excerpt: "Despite what the name would infer, Tesla's Full Self-Driving setup is not yet fully autonomous, requiring vehicle occupants put their hands on the steering wheel periodically and"
     publishedDateTime: 2022-08-22T19:01:00Z
@@ -170,20 +124,6 @@ related:
         width: 1920
         height: 1080
         isCached: true
-  - title: "Tesla Raises Prices On \"Full Self-Driving\" Software"
-    excerpt: "The new price of $15,000 is a $3,000 increase on the product that continues to not actually make your car fully self-driving."
-    publishedDateTime: 2022-08-22T15:21:00Z
-    webUrl: "https://www.roadandtrack.com/news/a40957021/tesla-raises-prices-on-full-self-driving-software/"
-    type: article
-    provider:
-      name: Road & Track
-      domain: roadandtrack.com
-    quality: 54
-    images:
-      - url: "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/roa120121bob-teslaplaid-002-1637346766.jpg?crop=1.00xw:0.670xh;0,0.311xh&resize=1200:*"
-        width: 1200
-        height: 603
-        isCached: true
   - title: "Tesla sticker shock: Price of feature it calls ‘full self-driving’ jumps to $15,000"
     excerpt: "Tesla is raising the price of its controversial driver-assist feature it calls \"full self-driving\" to $15,000. But Tesla buyers can purchase it for $12,000 until Sept. 5."
     publishedDateTime: 2022-08-23T16:05:00Z
@@ -199,20 +139,6 @@ related:
       - url: "https://wraltechwire.com/wp-content/uploads/2022/02/tesla-g25a581eab_1280-e1645184278103.jpg"
         width: 1276
         height: 716
-        isCached: true
-  - title: "Tesla introduces a price increase for its Full Self-Driving software"
-    excerpt: "Tesla Inc. Chief Executive Elon Musk said on Sunday that the cost of his company’s Full Self-Driving software, FSD, will go up from $12,000 to $15,000. Musk said the increase will be for cars bought after Sept."
-    publishedDateTime: 2022-08-22T16:21:00Z
-    webUrl: "https://siliconangle.com/2022/08/22/tesla-introduces-price-increase-full-self-driving-software/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 39
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/david-von-diemar-ZBWn5DvO0hg-unsplash.jpg"
-        width: 640
-        height: 385
         isCached: true
   - title: "Musk: Tesla’s Full Self-Driving Price Rising to $15,000 Sept. 5"
     excerpt: "Current price will be honored for orders made before Sept 5th, but delivered later. As of now, Full Self-Driving is still in Beta testing and available to a select number of Tesla-owning volunteer “testers” who have achieved a high enough,"
@@ -276,20 +202,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 34
-  - title: "Tesla hikes price of Full Self-Driving to $15,000 on September 5, expands beta test"
-    excerpt: "The price has been $12,000 since October 2020, and this latest price hike corresponds with a broader rollout of beta testing."
-    publishedDateTime: 2022-08-22T15:45:00Z
-    webUrl: "https://www.greencarreports.com/news/1136902_tesla-hikes-price-of-full-self-driving-to-15-000-on-september-5-expands-beta-test"
-    type: article
-    provider:
-      name: Green Car Reports
-      domain: greencarreports.com
-    quality: 33
-    images:
-      - url: "https://images.hgmsites.net/lrg/tesla-model-s-dashboard-in-autopilot-testing-with-iihs-credit-iihs_100665437_l.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Tesla wants anti-self-driving car video taken down"
     excerpt: "Tesla sent a cease-and-desist letter to an advocacy group critical of self-driving vehicles after it posted a video showing a Tesla car running over a child-sized mannequin."
     publishedDateTime: 2022-08-25T19:18:00Z

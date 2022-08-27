@@ -56,6 +56,20 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "AI tech can make foreign call centre workers sound ‘like us’, but we should respect different accents"
+    excerpt: "Perhaps I could have done with new voice-changing technology that makes you sound more “Western”. Sanas, a Silicon Valley startup, is offering tech that enables call centre workers around the world to sound less foreign."
+    publishedDateTime: 2022-08-27T08:00:00Z
+    webUrl: "https://inews.co.uk/opinion/ai-tech-foreign-call-centre-workers-different-accents-1817526"
+    type: article
+    provider:
+      name: i
+      domain: inews.co.uk
+    quality: 22
+    images:
+      - url: "https://wp.inews.co.uk/wp-content/uploads/2022/08/SEI_121192344.jpg"
+        width: 2500
+        height: 1667
+        isCached: true
 
 secured: "TDCJvCQZNp5A5t5r/BzYiNHMsm7BEmk+FyaDPkDH6Z01IkFl+Di/NCrljyRDnWCL9fAmaZmhFW39RE9+z9nVgu5XIkT3qVt5+AOje5vlw1N+zdZxW3uyTNmVeucmtvsSrXLY49EebemA9RLSOXQETlpFWZmZerKwNNuhDZ276iYtBaZt8VXQa3Xz9nhvB/w00UjEEurikK8gqkAlhQ+gbcU7/WdTt1pH0ahiadYapidcXmu1IFyfpGlLhmK6LQJJvSApBfqBBM+SVC68WtqHRE5d0kkg/rGUL8tdUGLo7X6brFOhG2EigV+DM8gOTI6ieBqkDoKjwE7eVOil1zpR1bIVLDknQ/pms5QaGffCLY9hxUjRoanIs5ipod07qlUtJDDpdfB+uS5VZaT5D2j8cMMNly05HJOvcQvxQedpC+E1c734IYZF5zOkpnswjEm9PWZYmtERvt1OlJud/mbHPtR9zJC0dF+bWPPxRoZPv+hPbl5a0NhxavIjcU9CjBt0rPEbsDbSDzGf9v0dv8VNfQ==;nDJQdnMxOzC0ku7L3pmXMg=="
 ---

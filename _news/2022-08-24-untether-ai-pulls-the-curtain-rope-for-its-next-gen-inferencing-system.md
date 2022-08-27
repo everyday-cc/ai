@@ -42,6 +42,20 @@ related:
         width: 600
         height: 300
         isCached: true
+  - title: "Untether AI Unveils Its Second-Generation At-Memory Compute Architecture at HOT CHIPS 2022"
+    excerpt: "Untether AITM, the leader in at-memory computation for artificial intelligence (AI) workloads, today announced at the HOT CHIPS 2022 conference its next-generation architecture for accelerating AI inference workloads called speedAI devices,"
+    publishedDateTime: 2022-08-23T15:16:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 46
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Untether AI moves to floating point for SpeedAI architecture"
     excerpt: "At this week's HotChips 2022, UntetherAI has announced its second generation at-memory architecture to accelerate AI interference. SpeedAI (codenamed"
     publishedDateTime: 2022-08-23T16:00:00Z
@@ -65,20 +79,6 @@ related:
       name: Design-Reuse
       domain: design-reuse.com
     quality: 34
-  - title: "Untether AI Unveils Its Second-Generation At-Memory Compute Architecture at HOT CHIPS 2022"
-    excerpt: "Untether AITM, the leader in at-memory computation for artificial intelligence (AI) workloads, today announced at the HOT CHIPS 2022 conference its next-generation architecture for accelerating AI inference workloads called speedAI devices,"
-    publishedDateTime: 2022-08-23T15:16:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 29
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "UoE9f11/iF23scGz2hxpdWDF9nRN9j/jzqAymwyOv3T7+lVa5bM50vTu5Fiwv8G1Llr+iVQ2X3HjVLR16ch33TDV6Xk3EC/aGppkTo/RQfp0twgT9sOc2VwrlFhoOCkZWG44TiWEAoYTx4V+sioHpJdxPfP1ITH2xA77tTY4prV/y+WZHbQVnrZQDLRMLOvWrf7LBQ5k9ClceOde29zyG61sw77+Vpf1RRFDZLq9gCC9iPReuBo9hNMZN4Z2bKKK4X8yHjDmQp15Tso9fWWx2dplt+6mzmVJ1U9UGa4GsJ4e54IOC5EkLMhrzWuEkvHOHnlECf/CwcwhcDhxtr6L8qXVWSKjvttIBqGODOUmifj32laJKbHoplg0e5NJzb7yArtuJ7bisBQ31zd27RNnvVx28sDewbow49xjODp6gAmgkxHxWRUOH1MDuniVnLaSa5vuCGNM1fwytslgKtfKwRC3vsKDLsIf1HZRzFxaXUjqPgmvziF5wehr960Me9QU7SfCgd5v3yT02J0XMD1T8A==;VCgfnzR3J5Vc6gunKP1dYA=="
 ---

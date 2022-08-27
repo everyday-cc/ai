@@ -3,31 +3,33 @@ category: news
 title: "Capitol Records drops artificial intelligence rapper after just one week"
 excerpt: "The AI-created rapper named FN Meka was meant to be the first augmented reality music artists to be signed to a major label."
 publishedDateTime: 2022-08-25T01:36:00Z
-originalUrl: "https://www.news5cleveland.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
-webUrl: "https://www.news5cleveland.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
+originalUrl: "https://www.ksby.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
+webUrl: "https://www.ksby.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
+ampWebUrl: "https://www.ksby.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week?_amp=true"
+cdnAmpWebUrl: "https://www-ksby-com.cdn.ampproject.org/c/s/www.ksby.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week?_amp=true"
 type: article
-quality: 36
+quality: 56
 heat: -1
 published: false
 
 provider:
-  name: Cleveland
-  domain: news5cleveland.com
+  name: KSBY 6
+  domain: ksby.com
 
 topics:
   - AI
 
 images:
-  - url: "https://ewscripps.brightspotcdn.com/dims4/default/76a0d07/2147483647/strip/true/crop/3828x2010+0+41/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F7a%2F22%2Fcaf7db494a18a01db7c00f559d55%2Fscreen-shot-2022-08-24-at-10.27.58%20PM.png"
-    width: 1200
-    height: 630
+  - url: "https://ewscripps.brightspotcdn.com/dims4/default/36f0c0d/2147483647/strip/true/crop/3719x2092+54+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F7a%2F22%2Fcaf7db494a18a01db7c00f559d55%2Fscreen-shot-2022-08-24-at-10.27.58%20PM.png"
+    width: 1280
+    height: 720
     isCached: true
 
 related:
   - title: "Capitol Records Pulls Plug On Racist ‘AI Rapper’ After Barely A Week"
     excerpt: "The record label pulled the controversial artist it \"signed\" after an activist group called it \"an amalgamation of gross stereotypes.\""
     publishedDateTime: 2022-08-24T12:31:00Z
-    webUrl: "https://www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7"
+    webUrl: "https://www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7?d_id=4814382&ncid_tag=tweetlnkushpmg00000050"
     ampWebUrl: "https://www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7/amp"
     cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7/amp"
     type: article
@@ -55,6 +57,22 @@ related:
       - url: "https://d.newsweek.com/en/full/2103606/capitol-records-building-pictured-2020.jpg"
         width: 3100
         height: 2068
+        isCached: true
+  - title: "Capitol Records cuts ties with AI-generated rapper FN Meka over racist stereotypes"
+    excerpt: "The record company apologized to “the Black community” for promoting the robot rapper that critics said was “appropriative” and included “slurs infused in lyrics.”"
+    publishedDateTime: 2022-08-24T15:59:00Z
+    webUrl: "https://www.nbcnews.com/news/nbcblk/capitol-records-cuts-ties-ai-generated-rapper-fn-meka-racist-stereotyp-rcna44593"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna44593"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna44593"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 81
+    images:
+      - url: "https://iframe.nbcnews.com/amp169/thumbnail"
+        width: 640
+        height: 360
         isCached: true
   - title: "AI rapper FN Meka dropped by Capitol Records following backlash over racial stereotypes"
     excerpt: "In a statement, Capitol Records wrote, 'we offer our deepest apologies to the Black community for our insensitivity in signing this project.'"
@@ -119,6 +137,6 @@ related:
       domain: popsci.com
     quality: 17
 
-secured: "K53ZHFDGcWg3e9HfniyCxXEEhTyBicHjEU9rQ0rjRV7692xQAFMYj8so0BWql3kywhceuW6fy/GRh3nYweTb3UcWFldApaUH+cwdymf7JkncQT2fRnlho+UCoPIUAX7fVRkiSiu8R+mldQVD6iBabwo6N3vlS4h/uaoI+LvoHgu/FzECO4FOecHFHmSib1WCCJrR32W5uChgzHIs5N+uTMaS1jMpEk/I+xV2h/kInDDuXSqsVF/Vrmddb1Y0Ltv2Ser/fkXwcHCedxQqvYuKxn+epnFPB44oNRf2HejXw4lGq+fe0gTGxmPpyF1gvwbqdqC2Pxpsp2beZCLVlFiBgROBR6l9Vqbi81vyPEyNSCk=;/4PodbxoT2DEHWwhZN1L2g=="
+secured: "Do+fm5h2z2R9iONO/xwJpK/PDay7iQAefNdWA3W6r0th04gSvn6bzaTuZQAM5fE3/PN80AltauQ2WChzepjFJvaq411RmOf9ja1Ivr8X6ximOpwlwOeId27imntJETxR9wlQvkr8my+6/MmWC0S1rCb2W9STMwKPira6lIY1iz+zM8l5hYJZbuC7ilQcoG/X1Em1seut0WNkDu+B34ijhbDf3mYiAHWwP0wcG0FVOaFadWx4JZ0REcBQIaBdCLLtHOg0y+qW5T3R5bgIc7bdLxF1DnuGlT81E0iojoM+VzeT38zWpL5xjBPfB4iH910dM2LNKzKerEu1zy2cEckQKE3KeZ6kxoOtHAqOZXTG/mE=;FXSTKs1UZd5sWwDQkSLJ+Q=="
 ---
 

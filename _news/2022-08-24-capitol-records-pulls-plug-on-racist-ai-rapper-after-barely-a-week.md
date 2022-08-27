@@ -3,13 +3,13 @@ category: news
 title: "Capitol Records Pulls Plug On Racist ‘AI Rapper’ After Barely A Week"
 excerpt: "The record label pulled the controversial artist it \"signed\" after an activist group called it \"an amalgamation of gross stereotypes.\""
 publishedDateTime: 2022-08-24T12:31:00Z
-originalUrl: "https://www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7"
-webUrl: "https://www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7"
+originalUrl: "https://www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7?d_id=4814382&ncid_tag=tweetlnkushpmg00000050"
+webUrl: "https://www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7?d_id=4814382&ncid_tag=tweetlnkushpmg00000050"
 ampWebUrl: "https://www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7/amp"
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7/amp"
 type: article
 quality: 87
-heat: 157
+heat: 167
 published: true
 
 provider:
@@ -45,6 +45,38 @@ related:
       - url: "https://d.newsweek.com/en/full/2103606/capitol-records-building-pictured-2020.jpg"
         width: 3100
         height: 2068
+        isCached: true
+  - title: "Capitol Records cuts ties with AI-generated rapper FN Meka over racist stereotypes"
+    excerpt: "The record company apologized to “the Black community” for promoting the robot rapper that critics said was “appropriative” and included “slurs infused in lyrics.”"
+    publishedDateTime: 2022-08-24T15:59:00Z
+    webUrl: "https://www.nbcnews.com/news/nbcblk/capitol-records-cuts-ties-ai-generated-rapper-fn-meka-racist-stereotyp-rcna44593"
+    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna44593"
+    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna44593"
+    type: article
+    provider:
+      name: NBC News
+      domain: nbcnews.com
+    quality: 81
+    images:
+      - url: "https://iframe.nbcnews.com/amp169/thumbnail"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Capitol Records drops artificial intelligence rapper after just one week"
+    excerpt: "The AI-created rapper named FN Meka was meant to be the first augmented reality music artists to be signed to a major label."
+    publishedDateTime: 2022-08-25T01:36:00Z
+    webUrl: "https://www.ksby.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
+    ampWebUrl: "https://www.ksby.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week?_amp=true"
+    cdnAmpWebUrl: "https://www-ksby-com.cdn.ampproject.org/c/s/www.ksby.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week?_amp=true"
+    type: article
+    provider:
+      name: KSBY 6
+      domain: ksby.com
+    quality: 56
+    images:
+      - url: "https://ewscripps.brightspotcdn.com/dims4/default/36f0c0d/2147483647/strip/true/crop/3719x2092+54+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F7a%2F22%2Fcaf7db494a18a01db7c00f559d55%2Fscreen-shot-2022-08-24-at-10.27.58%20PM.png"
+        width: 1280
+        height: 720
         isCached: true
   - title: "AI rapper FN Meka dropped by Capitol Records following backlash over racial stereotypes"
     excerpt: "In a statement, Capitol Records wrote, 'we offer our deepest apologies to the Black community for our insensitivity in signing this project.'"
@@ -85,20 +117,6 @@ related:
         width: 710
         height: 400
         isCached: true
-  - title: "Capitol Records drops artificial intelligence rapper after just one week"
-    excerpt: "The AI-created rapper named FN Meka was meant to be the first augmented reality music artists to be signed to a major label."
-    publishedDateTime: 2022-08-25T01:36:00Z
-    webUrl: "https://www.news5cleveland.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
-    type: article
-    provider:
-      name: Cleveland
-      domain: news5cleveland.com
-    quality: 36
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/76a0d07/2147483647/strip/true/crop/3828x2010+0+41/resize/1200x630!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F7a%2F22%2Fcaf7db494a18a01db7c00f559d55%2Fscreen-shot-2022-08-24-at-10.27.58%20PM.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Rapper FN Meka Was Dropped From Capitol Records After Fans Called Out Its Racist Overtones"
     excerpt: "Just a few weeks after it was announced that Capitol Records had signed an artificial intelligence rapper named FN Meka, the label dropped the project after hip-hop fans called out the decision online,"
     publishedDateTime: 2022-08-23T21:45:00Z
@@ -123,6 +141,6 @@ related:
       domain: popsci.com
     quality: 17
 
-secured: "cVfMhNeEJ84n7TFjGV5g/0KNNrBhiY+kbVf2E8qyMN5KdqCthjRZp3wPGgFhMtZZcyu456BE0OY1WLYMxR4yc8EtDw2gf6ip4mxzhDjrSdMWieB9cPpuCH0eaMg6b+FYEOLEFm2XXi5WkzvH9HZxuazZro4oTOXdla8c5BgS9iN+Fvrt1Ocu0pXAjKRZDtjFaoAuccAMQKwSH/JLa9yXPNXAPUOCMyX4co9FuD71lkVCEB7bulQgIE4f8hH1nkReHGGGH4+BdpWUVLk9BKhPncTLee/RdA/djad/QViTNpbeZgCqJQWOzN1ZuoqCZeafRxvLPjec2padooBPxtU8VvY5LtVbnuau1tQ6JFKxdwwUyEonn0JC3quvNFVLglYASr+n+9iLPxfwGR+CAzYDxyb/2un8xI4q3Z17ZGO7SVTb8Uj+jG+kb4mHVS9dd6VG95m6hrpuve8qOmP/LnKLbybpHcsTq4x1pNmejs6qcdjFrYaPagMkPFHyv/2bwWXyQ0VC5oIgBJGpJQs92VjDfQ==;LLyuPrC5WoYQpPPP2+QGDg=="
+secured: "Cjh5+EM8LMveVa3RjUitMt996EMC2LDQ43D9ta2So03DqWWet/8bmLFYFMnPoq6n/xw6iWIt5Pq5u+rbYkZslaT1qMTudIzmSVlrSWmqdj/yfz/Z3MbrzVfxX9jJduwfsFt9Zw1Ssjf93iaGGhI09Cil/uYrtU2f4DNQwBKBmieTXeEvgRZdUDP3Gll2ZkgUxabet5w+fkPaf1Epv2/mfkBdBajVI8QSllTWrRm1ZCZu6hx9ngZLO045DWStdQb5EtRWqBNSZO4X8pce/wlGNXpiTXtYYBz5KAPG3yO6MxuAN5SXUfjATiJZMOFChKkj9B+K1GAHzO2rYOhM5fpCQPyAK7jxtJkCF6rOB4PnLaA=;bbVS01F5/2htpAd/wn7uLg=="
 ---
 

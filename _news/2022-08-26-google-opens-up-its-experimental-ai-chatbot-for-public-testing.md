@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-opens-up-its-experim
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-opens-up-its-experimental-ai-chatbot-for-public-testing/"
 type: article
 quality: 87
-heat: 118
+heat: 108
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 38
-  - title: "AI Chatbot Speeds Answers to Customers"
-    excerpt: "The Tetra Tech’s Federal IT Innovation Lab recently launched Auxilium, a high-end artificial intelligence (AI) solution."
-    publishedDateTime: 2022-08-22T15:12:00Z
-    webUrl: "https://www.csrwire.com/press_releases/752956-ai-chatbot-speeds-answers-customers"
-    type: article
-    provider:
-      name: CSR Wire
-      domain: csrwire.com
-    quality: 37
-    images:
-      - url: "https://back.3blmedia.com/sites/default/files/inline-images/AI-Chatbot-Speeds-Answers-to-Customers-IS22-009-960.jpeg"
-        width: 960
-        height: 540
-        isCached: true
   - title: "A Data Platform for Chatbot Development"
     excerpt: "One of the most compelling use cases for AI at the moment is developing chatbots and conversational agents. While the AI part of the equation works"
     publishedDateTime: 2022-08-22T21:31:00Z

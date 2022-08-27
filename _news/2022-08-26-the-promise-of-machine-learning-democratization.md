@@ -7,7 +7,7 @@ originalUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-promise-of-ma
 webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-promise-of-machine-learning-democratization/"
 type: article
 quality: 19
-heat: -1
+heat: 19
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "The Science of Deep Learning"
-    excerpt: "The Science of Deep Learning emerged from courses taught by the author that have provided thousands of students with training and experience for their academic studies, and prepared them for careers in deep learning, machine learning, and artificial ..."
-    publishedDateTime: 2022-08-22T16:51:00Z
-    webUrl: "https://www.cambridge.org/gb/academic/subjects/computer-science/pattern-recognition-and-machine-learning/science-deep-learning?format=HB"
-    type: article
-    provider:
-      name: Cambridge University Press
-      domain: cambridge.org
-    quality: 19
 
 secured: "TRjM+vIYzLKsDW1PveGXrD9B/w1g65ioVgM7uNmJcgqbBYrnMR+IWKh8hjNMoD84qZpPIhvtK8o20Fg6gZMQP8PC7t1nafJdVWR8WAf05Xvcym4RKptMAhnv8FoXEqbe/KvwbiIs8zUp/u5UYfZzKogKfkH/Qui7o+jNu0Vd11GtZMMJJc8/gTt9VBD7jCYzvLslZiW9vnkuyEaY1ilKX+3J7zTrg3y4yjPCpCCUfjvdozcivwTZAjUWdLzZ9aczGAKzQoL7nj8twJ39CCnnLiv+TnGQWM8pPK9leDIA1x75sf2SXiTpHbv16kxIBi7SluiB7R3RZvmlu6P2L4c4x8E+DhEirXpe27eQndRbdEYQBdHNMZ2HV8dzBG8R7oL3leF3s09OCYDD4YAGXWo2aa0XeLMAF+ptU/N01wAjaK0V8CJf3hxuAnzR20x+jVP48Pz1oVKbqNhxGWmN56mvJnUG6ecuQnSXNfki83+5OYcYtb53BAcf4xWHafPpEuIymzhKU6bqQstGRuG8ixgFxw==;UoKYCSyCt6torILNgUKhRg=="
 ---

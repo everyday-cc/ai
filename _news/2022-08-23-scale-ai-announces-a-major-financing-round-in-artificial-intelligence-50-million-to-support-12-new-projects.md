@@ -69,22 +69,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "SCALE AI announces a major financing round in artificial intelligence: $50 million to support 12 new projects"
-    excerpt: "CNW Telbec/ - With an additional 12 projects representing more than $50 million in investments announced today by SCALE AI, artificial intelligence (AI) is continuing on its path of rapid"
-    publishedDateTime: 2022-08-22T15:28:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28587177/scale-ai-announces-a-major-financing-round-in-artificial-intelligence-50-million-to-support-12-new"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28587177"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28587177"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 53
-    images:
-      - url: "https://mma.prnewswire.com/media/1882672/Scale_AI_SCALE_AI_announces_a_major_financing_round_in_artificia.jpg"
-        width: 400
-        height: 400
-        isCached: true
   - title: "AI startup Anyscale raises $99M"
     excerpt: "To keep up with the growing computational requirements and engineering complexities of AI projects, companies such as Uber, IBM and Meta have turned to the firm's Ray framework. \"Ray and the Anyscale platform have made tremendous progress in advancing the scaling of machine learning and Python workloads,"
     publishedDateTime: 2022-08-23T16:08:00Z

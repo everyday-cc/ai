@@ -57,22 +57,6 @@ related:
         width: 554
         height: 600
         isCached: true
-  - title: "Artificial intelligence model can detect Parkinson's from breathing patterns"
-    excerpt: "Parkinson's disease is notoriously difficult to diagnose as it relies primarily on the appearance of motor symptoms such as tremors, stiffness, and slowness, but these symptoms often appear several years after the disease onset."
-    publishedDateTime: 2022-08-22T16:22:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-parkinson-patterns.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-parkinson-patterns.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-parkinson-patterns.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 58
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-58.jpg"
-        width: 900
-        height: 600
-        isCached: true
   - title: "Now AI can detect Parkinson's disease while you are sleeping"
     excerpt: "Parkinson's disease, a central nervous system disorder that affects movement, sometimes causing tremors, doesn't come with a warning. It is the world's second-most common neurolog"
     publishedDateTime: 2022-08-24T06:45:00Z
@@ -176,20 +160,6 @@ related:
       - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8d8886a4-bd40-4f27-8eb6-2a0d3246e4e9/Rendition/thumbnail/Content/Public"
         width: 300
         height: 225
-        isCached: true
-  - title: "In early research, an AI model detects signs of Parkinson’s using breathing patterns"
-    excerpt: "\"We’ve seen no major breakthroughs for treating Parkinson’s this century, suggesting that the status quo is not working,\" said University of Rochester researcher Ray Dorsey."
-    publishedDateTime: 2022-08-22T16:37:00Z
-    webUrl: "https://www.statnews.com/2022/08/22/parkinsons-disease-artificial-intelligence-breathing/"
-    type: article
-    provider:
-      name: STAT
-      domain: statnews.com
-    quality: 30
-    images:
-      - url: "https://www.statnews.com/wp-content/uploads/2021/12/AdobeStock_118570981-1024x576.jpeg"
-        width: 1024
-        height: 576
         isCached: true
   - title: "New research analyzes breathing patterns to detect Parkinson's disease"
     excerpt: "Researchers at MIT are using artificial intelligence to diagnose Parkinson's disease before symptoms begin. Joining us to talk about this development as part of our biweekly segment, Tech Talk, is Boston Globe technology writer Hiawatha Bray Tech."

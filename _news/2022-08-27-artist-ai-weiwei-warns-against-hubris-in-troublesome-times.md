@@ -1,28 +1,46 @@
 ---
 category: news
-title: "Artist Ai Weiwei Warns Against Hubris in 'Troublesome' Times"
-excerpt: "Chinese dissident and artist Ai Weiwei lampoons the surveillance state and social media with his first glass sculpture, made on the Venetian island of Murano."
-publishedDateTime: 2022-08-26T18:14:00Z
-originalUrl: "https://www.usnews.com/news/entertainment/articles/2022-08-26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times"
-webUrl: "https://www.usnews.com/news/entertainment/articles/2022-08-26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times"
-ampWebUrl: "https://www.usnews.com/news/entertainment/articles/2022-08-26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times?context=amp"
-cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/entertainment/articles/2022-08-26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times?context=amp"
+title: "Artist Ai Weiwei warns against hubris in 'troublesome' times"
+excerpt: "Chinese dissident and artist Ai Weiwei lampoons the surveillance state and social media with his first glass sculpture, made on the Venetian island of Murano"
+publishedDateTime: 2022-08-27T01:01:00Z
+originalUrl: "https://abcnews.go.com/International/wireStory/artist-ai-weiwei-warns-hubris-troublesome-times-88903036"
+webUrl: "https://abcnews.go.com/International/wireStory/artist-ai-weiwei-warns-hubris-troublesome-times-88903036"
+ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/artist-ai-weiwei-warns-hubris-troublesome-times-88903036"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/artist-ai-weiwei-warns-hubris-troublesome-times-88903036"
 type: article
-quality: 67
+quality: 57
 heat: 67
 published: false
 
 provider:
-  name: U.S. News & World Report
-  domain: usnews.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: ABC
+  domain: abcnews.go.com
 
 topics:
   - AI
 
-secured: "jed3kfJdEiBn8O3RKK3PzEzy/N5H8wNjxrg7qLM2XKjwPg5dCa8UlfmepnxyK3KLNA6B+cHAFkBOLxNwt+CzO86ZuOp0rhSq9Oo0Ib8qXZT4XnkReEjzBX80A+X2Y11Xxl2RTv2qXLNVcwZj93b2QU7aqsYoo2NbAVZvoDETejlI0aFvUqgPGeX6seiS8wvIHBZhe8ZsD4q1it8SE4yWSC+6nx87RWsZSZwM3D4YMBmk+K9b1M4BPXdApUC0WyyTzhNToguGOqsXlIjlN2SLxxftTi/S38CRigAcpDSupYEzesOmlr4kiQOC2oWMZc9yvsBjghmSsy1vFp2QSx/V6AkArgIXVNIW9GGDqmhvtsAl86iysoiASzystrgL4m8oVKjKMSo/2jQ3yj8SV3mT8ppzjBFhi3UCoTW+3aHnbAvid0UghfKQAE3y/zEBdcDVmeU/qyP8wgmaZwxixfanrDUT1kvfWbO13c9qzZEr5Q3444EF2QZVbpuCXEfzcD0Jqyh+znbI+mjPiMtdsso5eA==;/yycDsmNv8spBQVlaEe6xw=="
+images:
+  - url: "https://s.abcnews.com/images/International/WireAP_90f8d3cb75274e19b69ddebc049849aa_16x9_992.jpg"
+    width: 992
+    height: 558
+    isCached: true
+
+related:
+  - title: "Ai Weiwei's new work lampoons the surveillance culture, social media"
+    excerpt: "We are talking about immigrants, about deaths, about the war, about many, many issues,″ said Ai in Venice on Friday. He stands by his 9m (29.5-foot), nearly 3-tonne black glass sculpture, which is suspended over the central nave of the deconsecrated church of San Giorgio Maggiore,"
+    publishedDateTime: 2022-08-27T08:53:00Z
+    webUrl: "https://www.thestar.com.my/lifestyle/culture/2022/08/27/ai-weiwei039s-new-work-lampoons-the-surveillance-culture-social-media"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com.my
+    quality: 37
+    images:
+      - url: "https://apicms.thestar.com.my/uploads/images/2022/08/27/1714425.jpg"
+        width: 1240
+        height: 826
+        isCached: true
+
+secured: "Ecmbi5aBhnwWLjY7Djvv6zcr6jQcosoZUEask+KC6tXj+NBZwJeDhJcv1c0Khqg1klIx7cJ0fi0S2woh7BD93bafeTvh7UYoC9jdKebYUcBEvQU5RZM8kiSXdmj1Bx2B/LrS7qDGJyGzVTapoE+wvm70zKGTtXktclGMjMFxT+cC7ZcP+S0Q6bjlNMS1xWJtOLbV5LWl6y7VdDEI2LF8E8T55lhc9ZDFz0TN841DUk84dpmpZ8q+j2Khbydw9XTQcki1ZyX7V596vfFePnSVXxJ/4ekJ4RW0edREKF4WRoGzSucRi2r4iXEGK3963rhjjjkKuyWY/cspBEakR0hNdeyg8rNmbLoSZJLZU0oBW4I=;Xn8Eyu/I1/I3eGJAqSOdpQ=="
 ---
 
