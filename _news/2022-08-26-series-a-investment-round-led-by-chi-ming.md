@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "North America AI in Computer Vision Market Facts & Figures, Analytical Insights and Future Forecast 2027"
+    excerpt: "Pune, India- North America AI in Computer Vision Market is expected to grow from US$ 1,761.21 million in 2019 to"
+    publishedDateTime: 2022-08-25T13:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-ai-in-computer-vision-market-facts-figures-analytical-insights-and-future-forecast-2027-2022-08-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
   - title: "Human Computer Interference Cognitive Computing Market Size, Share, Future Trends, Competitive Landscape and Growing CAGR of 29.40% Forecast by 2028"
     excerpt: "The major players covered in the human computer interference cognitive computing market report are Microsoft, IBM, SAS Institute Inc., Amazon Web Services, Inc., Cognitive Scale, Numenta, Enterra Solutions, Expert System S.p.A., Google LLC, Virtusa corp ..."
     publishedDateTime: 2022-08-23T23:59:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-28T08:00:00Z
 originalUrl: "https://www.cbc.ca/news/science/ai-machine-learning-climate-change-1.6561790"
 webUrl: "https://www.cbc.ca/news/science/ai-machine-learning-climate-change-1.6561790"
 type: article
+quality: 14
+heat: 14
+published: false
 
 provider:
   name: CBC.ca

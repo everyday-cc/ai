@@ -3,8 +3,8 @@ category: news
 title: "Procurement Analytics Market Size Worth $18.18 Billion By 2030: Grand View Research, Inc."
 excerpt: "The global procurement analytics market size is expected to reach USD 18.18 billion by 2030, according to a new report by Grand View Research, Inc. It is expected to expand at a CAGR of 23.6% from 2022 to 2030."
 publishedDateTime: 2022-08-25T14:52:00Z
-originalUrl: "https://www.tmcnet.com/usubmit/2022/08/25/9662484.htm"
-webUrl: "https://www.tmcnet.com/usubmit/2022/08/25/9662484.htm"
+originalUrl: "https://www.tmcnet.com/usubmit/-procurement-analytics-market-size-worth-1818-billion-2030-/2022/08/25/9662484.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-procurement-analytics-market-size-worth-1818-billion-2030-/2022/08/25/9662484.htm"
 type: article
 quality: 0
 heat: -1
@@ -75,6 +75,6 @@ related:
       domain: menafn.com
     quality: 0
 
-secured: "MOsBGVDGyJ+bfGOiit4u2uDTHapMBcARZwvZZqvGObE2GHVi3fqWUMior9nqiysAXNgGfi9aaKIfEtKK2HjaYE0519TAFkKAVV4iGQ3FiOp6DKZz/iMe/a5F+iPteRkc2cOJtdLyKDwQ42kSFalvLg4Y0mbNgvRTefn25a1e6VoJ/TgAqN/9LxwBhnmDbD+3+3WrikbMdTy4X8IxD8J9jx0Aj0dy3VDgy9vuNH7UBlMjm7UkvQ2bmTLn9oHH8TxG9FvgaSGBqoMDyo2sUtUyjygxjC5txzvBsufQPWaWKtkkDQdcph+hNK6SwXdMd/qgbpewEIx8XR7abs1jWGQyywVMLFI2R8eZ2b8p2WMFvhA=;AM78ce2+tMN3HCwe2wLtpA=="
+secured: "xzHJW93q+sAPSzeu/SE8BPfkuQ9zG4QIQdVtqjAr/7yM3mip+bOnOccrYrxzcSKl9HwWpboFIxQHUtF9+Z2rMC86mbWKMT6bkEOqBSlYmoERM/ifT387lPryX2njyS28y26vcrrAqZYnBzeyfuJBQTSdaII6q6Yuoun5ke6cHkRcOU4GB/KQJbgx76hwVAmn+Xuae5uVPjwsNXXN2P+LYUw7ih+sKzJ+iWejmHgWlyxvVQGJPzGlUGzfkzB991ia3orEoP9kvQpFhboJ7t4E/bvGk849lt7kS0W71Vph87p6Ci80LpMOOa2UvOZFdU83UH9tmfsYwjzOBS9veRtH82aVTNToqr8OZMGXrs1isKk=;/6lwo9xJtaqj+Ojqg8Y+NQ=="
 ---
 

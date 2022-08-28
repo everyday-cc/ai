@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/pilot-travel-centers-explores-accommo
 webUrl: "https://www.wsj.com/articles/pilot-travel-centers-explores-accommodating-self-driving-trucks-11661299412"
 type: article
 quality: 54
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -40,20 +40,6 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
-  - title: "Pilot Company and Kodiak Robotics Partner to Bring Self-Driving Truck Services to Pilot and Flying J Travel Centers"
-    excerpt: "Pilot Company makes a strategic investment in Kodiak and will join Kodiak's Board of Directors. The companies are working together to bring autonomous truck inspections, maintenance, refueling, data offloading and load pick-up and drop-offs to commercial trucking customers."
-    publishedDateTime: 2022-08-23T20:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-pilot-company-kodiak-robotics-partner-bring-self-driving-/2022/08/23/9661157.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1081236/PIlot_Company_Logo.jpg"
-        width: 400
-        height: 203
-        isCached: true
   - title: "Former Apple engineer pleads guilty to stealing self-driving car trade secrets"
     excerpt: "Former Apple Inc. engineer Xiaolang Zhang pleaded guilty Monday to theft of trade secrets from the company’s self-driving vehicle program. According to filings with the US District Court for the"
     publishedDateTime: 2022-08-24T09:14:00Z

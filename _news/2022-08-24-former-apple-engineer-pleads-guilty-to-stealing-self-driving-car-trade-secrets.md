@@ -50,20 +50,6 @@ related:
       name: Governing
       domain: governing.com
     quality: 39
-  - title: "Pilot Company and Kodiak Robotics Partner to Bring Self-Driving Truck Services to Pilot and Flying J Travel Centers"
-    excerpt: "Pilot Company makes a strategic investment in Kodiak and will join Kodiak's Board of Directors. The companies are working together to bring autonomous truck inspections, maintenance, refueling, data offloading and load pick-up and drop-offs to commercial trucking customers."
-    publishedDateTime: 2022-08-23T20:28:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-pilot-company-kodiak-robotics-partner-bring-self-driving-/2022/08/23/9661157.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 34
-    images:
-      - url: "https://mma.prnewswire.com/media/1081236/PIlot_Company_Logo.jpg"
-        width: 400
-        height: 203
-        isCached: true
 
 secured: "Yj1YyZQSimmoSBiXhEfuq95auvvQQcP0c3nzMIpTEpE4KpemYqSH2Qa/l4Y7wuPvcK/oythHd0XarzcmZILPufM/WB8sl6hNNBhJeq8nvQvc9QjpxzSCUTI0iPHe5DAKiFKZ1zWuxVExrsOFe5hEWoILpt3kjQWc2B2yVZ2eSJvl3gr2idXgXZLUzi9h/E5o7xNxhfXFSUxGurpVdhCuLbtroNVKn0WlXzdOWQWGMmTHlwRhcFBY/EDp22788nL31PIzTPvQCxFzcS11/8KzFGSvHWzfk8nZhF9NRmGOKtZo9X0ZvOhFGmeOPklQX4YJ+5L0drL2fO8o0/OLy/4Z5WF4rwQO8TahXxbm2ivuEivA39dSjEsdYUUW0pMkwrtMj6TsHUhF3mABGgyU51O0KoNhOzDBYyH+sgqPEJ6NPbCqUGbwERDKeMYIxRSFIBK5aDHgbrCICJG1I5JpgqqHIxRi6LvjNG/96hIFQ5FnSz6i+VdKzZ9IhB1R74eLlVLpOljYmld/mVzaU3xk0l+Acg==;+qJjcXuQM9IWesfyPpO6Lw=="
 ---

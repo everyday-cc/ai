@@ -7,7 +7,7 @@ originalUrl: "https://www.crowdfundinsider.com/2022/08/195144-hello-clever-an-au
 webUrl: "https://www.crowdfundinsider.com/2022/08/195144-hello-clever-an-australian-buy-to-earn-fintech-secures-a4-5m-in-funding/"
 type: article
 quality: 21
-heat: -1
+heat: 21
 published: false
 
 provider:
@@ -25,20 +25,15 @@ images:
     isCached: true
 
 related:
-  - title: "Aussie buy-to-earn startup Hello Clever raises A$4.5m"
-    excerpt: "The startup uses open banking, fast payments, and AI technologies to help customers find the best merchants for their needs and ensure they get rewards. Lead investor Mark Munoz says: \"We forecast Hello Clever being able to grow into Southeast Asia through ..."
-    publishedDateTime: 2022-08-23T22:18:00Z
-    webUrl: "https://www.finextra.com/newsarticle/40853/aussie-buy-to-earn-startup-hello-clever-raises-a45m"
+  - title: "PayTo fintech Hello Clever raises $4.5 million Seed round"
+    excerpt: "The announcement came just days after Hello Clever became the first payment platform in Australia to offer PayTo pre-authorised payments"
+    publishedDateTime: 2022-08-25T01:24:00Z
+    webUrl: "https://www.startupdaily.net/topic/funding/payto-fintech-hello-clever-raises-4-5-million-seed-round/"
     type: article
     provider:
-      name: Finextra
-      domain: finextra.com
-    quality: 37
-    images:
-      - url: "https://www.finextra.com/finextra-images/top_pics/xl/2811.jpg"
-        width: 480
-        height: 270
-        isCached: true
+      name: Startup Daily
+      domain: startupdaily.net
+    quality: 19
 
 secured: "ZoGHRBwY6S0n+fHTUsx3JPnG7EfAlsgAfjoPOHmRDbYeaBWqXqv3fuwfujeRuRScrwovHGyxO8D4GLLq/gfa2aG+KSICEmbh/X0bcISiP80xbsIrD/uy6FcDp8NfgQ+JCtK8XdVuy+tLNpkBG654NJ1s2SWy+N0s+RofyUDjudzStBgHg5u4hH5/tzcveG80Wu2mp+HqByZdY6tNMGGPCowz+4i72dcTJJdcNYrtEFS+8SlZKfr0Jt6wkQ8ksJo8M70Qgk82RnLjvYksqS/YrJRsc+mPwpXmU0izOQ12x2jg4y9TMSgb+9oZjwR6KStQAnzMqWOTvMHFpYeP/aFw6BbgiFedwNK2ZY1f23SjlTU=;JvJRTfgG/hCW/JKCoHbl6A=="
 ---

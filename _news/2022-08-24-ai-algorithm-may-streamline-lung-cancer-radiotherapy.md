@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Deep learning algorithm may streamline lung cancer radiotherapy treatment"
-    excerpt: "Lung cancer, the most common cancer worldwide, is targeted with radiation therapy (RT) in nearly one-half of cases. RT planning is a manual, resource-intensive process that can take days to weeks to complete,"
-    publishedDateTime: 2022-08-23T22:30:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 90
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/lung-scan.jpg"
-        width: 2880
-        height: 1966
-        isCached: true
   - title: "Streamlining lung cancer radiotherapy with Deep Learning"
     excerpt: "Lung cancer, the most common cancer worldwide, is targeted with radiation therapy (RT) in nearly one-half of cases. RT planning is a manual, resource-intensive process that can take days to weeks to complete,"
     publishedDateTime: 2022-08-24T11:51:00Z

@@ -107,34 +107,6 @@ related:
       name: BBC
       domain: bbc.com
     quality: 47
-  - title: "Capitol Records Drops AI Rapper FN Meka After Backlash"
-    excerpt: "Just a few weeks after it was announced that Capitol Records had signed an artificial intelligence rapper named FN Meka, the label dropped the project after hip-hop fans called out the decision online,"
-    publishedDateTime: 2022-08-23T21:45:00Z
-    webUrl: "https://uproxx.com/music/capitol-records-drops-ai-rapper-fn-meka-after-backlash/"
-    type: article
-    provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 37
-    images:
-      - url: "https://uproxx.com/wp-content/uploads/2022/08/FN-Meka-GRID.jpg?w=710"
-        width: 710
-        height: 400
-        isCached: true
-  - title: "AI Rapper FN Meka Was Dropped From Capitol Records After Fans Called Out Its Racist Overtones"
-    excerpt: "Just a few weeks after it was announced that Capitol Records had signed an artificial intelligence rapper named FN Meka, the label dropped the project after hip-hop fans called out the decision online,"
-    publishedDateTime: 2022-08-23T21:45:00Z
-    webUrl: "https://uproxx.com/music/ai-rapper-fn-meka-dropped-from-capitol-records/"
-    type: article
-    provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 26
-    images:
-      - url: "https://uproxx.com/wp-content/uploads/2022/08/FN-Meka-GRID.jpg?w=710"
-        width: 710
-        height: 400
-        isCached: true
 
 secured: "zV1h7gN5zzpTvPEzpq9cJFMtJBJxq6JDxpdDqTQUaNr+YG82jfpu+dsezewPiSh4btIxPxj86yALQJttRp1FPZdWdioWAIFOPRMjwLG3SL3sCGACl0/Vr8B2pMkqFq5ExBygqqWX8BmXu1EhL76H92GI1Rzv7TwYy0d0dMtYpg4yNlKzk4GqhwiFzFFdzaRAGigTD2D544Rb3DMtJMmNPo6fja4oLsKVp6xasp7PCDXTEEt2eQ+Z/nwox9RyDnYEFRwS53RulbbTKre7oJ2gAb/5yjFJeP6Ff0ZtTjOa/dy36bvbReZGyujcbD2q0heibAfnz6eEEJCvShvNl+1VYGkAnHrQzTwuvPD82mqeRZt8sGEEKNufYwHDxQcYrZOq+Wuy7vliU4oI229EhU+UNLWytsy+JbmPXiDQYamenEM8JDa5s8+6/ghVGB6kV++ElyeKVC7VDl28i7hcAk0gSrgP/QICIDjlW/t9fwUZgfOV+C9aJRroYO9VOs1mGpw+NOT15bfd/Nv9xdP1vKPg9A==;6U/jEBKOeb0exoQK/J7BRw=="
 ---

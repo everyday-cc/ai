@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/amp/"
 type: article
 quality: 110
-heat: 112
+heat: 122
 published: true
 
 provider:
@@ -29,6 +29,24 @@ images:
     width: 800
     height: 494
     isCached: true
+
+related:
+  - title: "Conference on healthcare data analytics"
+    excerpt: "A two-day conference on healthcare data analytics was organised by The Sankara Nethralaya Academy in hybrid mode. The conference was inaugurated by Girish Shiva Rao, president of Medical Research Foundation,"
+    publishedDateTime: 2022-08-28T14:49:00Z
+    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/conference-on-healthcare-data-analytics/article65822543.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/conference-on-healthcare-data-analytics/article65822543.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/conference-on-healthcare-data-analytics/article65822543.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
 
 secured: "GeWGbL2cSXZiz1am+R8O7GUP/Qq3CMsaNLZA154arba5/tZoyR7lP7SUUY7oOwNV3zFeySlq6u2mJo+tosCzXtulK+HKwBezbENDmzMzudUfFxA7oc+khnomFW7UJ5fx096aVyh2m/7k9q2aSLZX0FP39C2w0EbRMFKGRSOnali9bl2DU3Z7cyIW2Q3vKeiMlJH7O1XLL61YQcD8WXS1hgyoxunCu8ZJOzUS/l5b/n5r7wEOFJ96QQbDHnWaTIZuZm40mgkSqlKK33QZTadS/q4Rjpg4pIf3sqV7TDb0eXf7zYdMLOvoEUGEJ9bN8qQj9nbWsmzP0XFERGN49aebzU4OpuRGoGou/LWoEUVxUKnKE9cIBxsHuDNa3OhJlLGG/56LZ84cpvXU9MVWOw6GPxABjiZm9XuqTnCLl898vgRv3HOVxnRV8GJWvLrxLyx7RmFOePcwJRbT3qHQg9VYyQy/paMI9+/4twWAjerL1AZBEhKqpuS6NkzvyB6ukobuFxabGxUYtOIjS6S31DoSAA==;VJ0HQ48ycGO3MDrggtGaHQ=="
 ---

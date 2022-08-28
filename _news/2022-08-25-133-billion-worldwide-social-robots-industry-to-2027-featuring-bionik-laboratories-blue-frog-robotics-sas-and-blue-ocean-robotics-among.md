@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-25T13:00:00Z
 originalUrl: "https://www.marketwatch.com/press-release/133-billion-worldwide-social-robots-industry-to-2027---featuring-bionik-laboratories-blue-frog-robotics-sas-and-blue-ocean-robotics-among-others-2022-08-25"
 webUrl: "https://www.marketwatch.com/press-release/133-billion-worldwide-social-robots-industry-to-2027---featuring-bionik-laboratories-blue-frog-robotics-sas-and-blue-ocean-robotics-among-others-2022-08-25"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: MarketWatch

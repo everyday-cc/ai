@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-28T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/28/ai-ethics-and-the-almost-sensible-question-of-whether-humans-will-outlive-ai/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/28/ai-ethics-and-the-almost-sensible-question-of-whether-humans-will-outlive-ai/"
 type: article
+quality: 61
+heat: 61
+published: false
 
 provider:
   name: Forbes

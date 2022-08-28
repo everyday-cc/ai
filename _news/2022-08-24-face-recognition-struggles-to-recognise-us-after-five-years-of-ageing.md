@@ -24,17 +24,6 @@ images:
     height: 1667
     isCached: true
 
-related:
-  - title: "Voice to Parliament the 'wrong form' of recognition: Tony Abbott"
-    excerpt: "Former prime minister Tony Abbott says the Indigenous Voice to Parliament is the “wrong form of recognition”. He said he thinks it’s wrong in principle to “divide Australians by race”. “And I think the more people see of this voice,"
-    publishedDateTime: 2022-08-23T21:19:00Z
-    webUrl: "https://www.theaustralian.com.au/commentary/voice-to-parliament-the-wrong-form-of-recognition-tony-abbott/video/156a3a234beb85d3010a8c4afbe6f9ec"
-    type: article
-    provider:
-      name: The Australian
-      domain: theaustralian.com.au
-    quality: 4
-
 secured: "izXWSb1GAByMwxEjxSwxhaKlcUpCqUoR+ziT9RE44h7Cc2Y2ARMrJhcN9Q/lSeLuLMcZJ2yoHvjtJU7LOcOGPXa761/CeREu3BNLrRjbSeXC+bEcBQj5EsA1N4LLMzjQ0i1kPsUEAHI4xNgpTP8fuvPMxOtZzpUHJxfJjvVqtum26p0WrtzEW6Uz2Iq2EXfWTPPh8FPUTFnyaSSwnlyPGHqdVKGLv4MUcCzyVOAtZibzvzMUGjkJ7dEh/DcHtMbJM23q/Bjqmubt9qKg/Z9tZDOL2AJ1DYB3PtxGe5nV5AAapLdZ3saBeHufurTm0r1F/NfIJN1LD4twEL43IGPzbj1cNdnVVae7XkaZfiLMSxu4gfoaBbFPeOoQjaKGepJsT7YCAlKbXut0kWYf662BKACG5CWahWXGfMYSwkrcOiUOg8/3bikr78R4698nuiA/XrMaAT3n1OqgE5SpxYzvGNXU/d/EF/toZCkoRZr4SmgPkrXIFznBl/XoEfFN0N5lR59Dz2dnySLJc9dkmNuBKw==;lp5TNZd4eVWDfD+ubbx/1w=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-2022-size-share-sales-growth-dynamics-top-vendors-and-forecast-to-2028-2022-08-26"
 type: article
 quality: 72
-heat: 132
+heat: 142
 published: true
 
 provider:
@@ -114,6 +114,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Accelerator Chip Market Research Report 2022 , Market Overview, Market Share, Product Dynamics, and Consumer Demographics Trends from 2022 2028"
+    excerpt: "The \" AI Accelerator Chip Market \" research report 2022 - 2028 examines the AI Accelerator Chip Market's growth potential and threats in terms of business tactics, sales volume, and recent developments."
+    publishedDateTime: 2022-08-24T09:00:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-research-report-2022-market-overview-market-share-product-dynamics-and-consumer-demographics-trends-from-2022-2028-2022-08-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
 
 secured: "9qlr8azvZl4HM/qFkc4FZ7/Ojqz2dJdkWvGLcghWdJQGnw0KM/xovMihH4dAORk6gOD9pCeYMTTweAfX65n5BF4/Tb4akMZhxj9OQoGMkWOzfwAXtUlojIErChgTLbZvRp6Eqq53G3cQ4ec1xULRn9U5Gcrj68lHmWMtEc0VGpwJeHLq90PCmtH/DMdEYLmR7+sRZHDp42Y7EyyExcV5YKQKWmHsJblQ2Acb1iQCUauC91BDP2IGnRnf5VrHl3mlMiODJsDkt9Nzb9nly7EKRTWzCxAAeBgkadAK0+D0PSHsipdOyUi979WcYNFvwsuCHNNQ2T2O0O6mwd265SaZ2QHzTw3abUm4WhofNusgnz0=;oVlJYjILIivs5rTMep/oSA=="
 ---

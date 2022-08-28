@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/north-america-deep-learn
 webUrl: "https://www.marketwatch.com/press-release/north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-08-25"
 type: article
 quality: 61
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -30,6 +30,15 @@ images:
     isCached: true
 
 related:
+  - title: "North America AI in Computer Vision Market Facts & Figures, Analytical Insights and Future Forecast 2027"
+    excerpt: "Pune, India- North America AI in Computer Vision Market is expected to grow from US$ 1,761.21 million in 2019 to"
+    publishedDateTime: 2022-08-25T13:47:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-ai-in-computer-vision-market-facts-figures-analytical-insights-and-future-forecast-2027-2022-08-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 47
   - title: "Series A investment round led by Chi Ming"
     excerpt: "Deepway, a joint venture between Chinese IT company Baidu and freight transport company Schao, succeeded in attracting additional investment. Based on investment, Deepway is speeding up the commercialization of smart trucks that it aims to deliver at the end of the year."
     publishedDateTime: 2022-08-26T04:27:00Z
