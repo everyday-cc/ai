@@ -2,6 +2,204 @@
   "page": 55,
   "value": [
     {
+      "path": "_news/2022-07-13-aws-announces-general-availability-of-three-new-serverless-analytics-offerings.md",
+      "title": "AWS Announces General Availability of Three New Serverless Analytics Offerings",
+      "excerpt": "(NASDAQ: AMZN), today announced the general availability of three new serverless analytics offerings that make it even easier for customers to analyze vast amounts of data without having to configure,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/12/9637393.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/12/9637393.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T10:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps.md",
+      "title": "FuriosaAI forays into North American AI chip market, welcomes former Intel and Western Digital VPs",
+      "excerpt": "FuriosaAI develops high performance AI accelerators targeted at data centers and enterprise customers. The company offers efficient AI hardware",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps-1031581751",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps-1031581751",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-intel-releases-open-source-ai-reference-kits.md",
+      "title": "Intel Releases Open Source AI Reference Kits",
+      "excerpt": "Open source designs simplify AI development for solutions across healthcare, manufacturing, retail and other industries. What's New: Intel has released the first set of open source AI reference kits s",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/07/b28037885/intel-releases-open-source-ai-reference-kits",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/07/b28037885/intel-releases-open-source-ai-reference-kits",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.giphy.com/media/24JHiU0JOGODSPOimH/giphy.gif?cid=790b76113561031f0bde683ac71425183202c113c6521c52&rid=giphy.gif&ct=g",
+          "width": 900,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28037885",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28037885",
+      "publishedDateTime": "2022-07-12T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-the-best-amazon-prime-day-2022-robot-vacuum-deals-on-roomba-samsung-jet-bot-more.md",
+      "title": "The best Amazon Prime Day 2022 robot vacuum deals on Roomba, Samsung Jet Bot, more",
+      "excerpt": "Amazon Prime Day 2022 is a great time to pick up deals on robot vacuums. Shop on Prime Day and score savings on a smart-home appliance that'll clean your floors while you're out living your life. Here are the best deals we found on Amazon on top-rated,",
+      "sourceUrl": null,
+      "webUrl": "https://www.cbsnews.com/essentials/amazon-prime-day-2022-robot-vacuums-deals/",
+      "originalUrl": "https://www.cbsnews.com/essentials/amazon-prime-day-2022-robot-vacuums-deals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets3.cbsnewsstatic.com/hub/i/r/2022/07/07/f7a3df6f-2008-4e3a-8f75-077de5b2df8f/thumbnail/1200x630/ab8ffa1608ae5b817695d99e881bdabb/robot-vacuum-hero.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cbsnews.com/amp/essentials/amazon-prime-day-2022-robot-vacuums-deals/",
+      "cdnAmpWebUrl": "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/essentials/amazon-prime-day-2022-robot-vacuums-deals/",
+      "publishedDateTime": "2022-07-12T09:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CBS News",
+        "domain": "cbsnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-07-12-aws-announces-general-availability-of-aws-cloud-wan.md",
+      "title": "AWS Announces General Availability of AWS Cloud WAN",
+      "excerpt": "AWS makes it easy for customers to connect cloud and on-premises environments using AWS networking services (e.g., Amazon Virtual Private Cloud, AWS Transit Gateway, and AWS Direct Connect). However,",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-aws-cloud-wan-/2022/07/12/9637362.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-aws-announces-general-availability-aws-cloud-wan-/2022/07/12/9637362.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T09:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-voxprotect-a-witnesss-voice-is-not-protected.md",
       "title": "VOXPROTECT - A Witness’s voice is not protected",
       "excerpt": "Unfortunately, nowadays, one of the necessary means of witness protection used in all news reports and criminal cases remains the voice modification by linear effects existing on the market, such as the “pitch” effect: a transformation of the tone of a processed signal.",
@@ -853,223 +1051,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-ai-goes-multilingual-with-hugging-faces-bloom.md",
-      "title": "AI goes multilingual with Hugging Face’s BLOOM",
-      "excerpt": "Hugging Face's Teven Le Scao says the BLOOM large language model \"supports 46 human languages and 13 programming languages.\"",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/",
-      "originalUrl": "https://venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1226941220_multilingual_computer-e1657589130957.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/12/ai-goes-multilingual-with-hugging-faces-bloom-large-language-model/amp/",
-      "publishedDateTime": "2022-07-12T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-universal-electronics-to-launch-new-voice-remotes-for-rdk-platform-at-rdk-tech-summit.md",
-      "title": "Universal Electronics to Launch New Voice Remotes for RDK Platform at RDK Tech Summit",
-      "excerpt": "(UEI) (NASDAQ:UEIC), the world leader in universal control technology for entertainment and smart home, at the 2022 RDK Tech Summit has announced the release of two new voice remotes for RDK. RDK is one of the leading broadband and pay-tv platforms for the cable industry,",
-      "sourceUrl": null,
-      "webUrl": "https://www.joplinglobe.com/region/national_business/universal-electronics-to-launch-new-voice-remotes-for-rdk-platform-at-rdk-tech-summit/article_0d0a76c6-e072-5cf0-a3fa-a07ec3b22d3d.html",
-      "originalUrl": "https://www.joplinglobe.com/region/national_business/universal-electronics-to-launch-new-voice-remotes-for-rdk-platform-at-rdk-tech-summit/article_0d0a76c6-e072-5cf0-a3fa-a07ec3b22d3d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-12T00:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Joplin Globe",
-        "domain": "joplinglobe.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-aws-women-in-tech-leveraging-the-power-of-aiml-to-drive-societal-impact.md",
-      "title": "AWS Women in Tech: Leveraging the power of AI/ML to drive societal impact",
-      "excerpt": "Voiro’s Kavita, Spyne’s Deepti, and JIFFY.ai’s Payeli are blazing the trail in the fields of Artificial Intelligence and Machine Learning. However, there is a persistent absence of women in ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/herstory/2022/07/aws-women-tech-leveraging-ai-ml-driving-societal-impact",
-      "originalUrl": "https://yourstory.com/herstory/2022/07/aws-women-tech-leveraging-ai-ml-driving-societal-impact",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/4/21ccd920843c11ec88170b5512a0f9d5/Imagedi6b-1657559310003.jpg?fm=png&auto=format",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T22:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-apples-self-driving-electric-car-efforts-still-remain-stalled-report.md",
-      "title": "Apple's self-driving, electric car efforts still remain stalled: Report",
-      "excerpt": "Apple had first revealed its self-driving tech aspirations in 2016 and since then saw autonomous driving systems as a core technology for the future.",
-      "sourceUrl": null,
-      "webUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report-41657594877454.html",
-      "originalUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report-41657594877454.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hindustantimes.com/auto/img/2022/07/12/1600x900/Apple_car_1657603020858_1657603167004_1657603167004.JPG",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html",
-      "cdnAmpWebUrl": "https://auto-hindustantimes-com.cdn.ampproject.org/c/s/auto.hindustantimes.com/auto/news/apples-self-driving-electric-car-efforts-still-remain-stalled-report/amp-41657594877454.html",
-      "publishedDateTime": "2022-07-11T22:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-12-stm32cubeai-your-software-tool-to-optimize-artificial-neural-networks-on-stm32.md",
-      "title": "STM32Cube.AI, your software tool to optimize Artificial Neural Networks on STM32",
-      "excerpt": "This webinar introduces Artificial Intelligence for edge computing and shows you how ST's offer can help you run Neural Networks on microcontrollers and microprocessors. Thanks to practical examples, you will learn how to run Artificial Neural Networks and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.st.com/content/st_com/en/campaigns/stm32cube-ai.html",
-      "originalUrl": "https://www.st.com/content/st_com/en/campaigns/stm32cube-ai.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.st.com/content/dam/logos/open-graph-logo.png",
-          "width": 750,
-          "height": 560,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-11T22:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ST",
-        "domain": "st.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

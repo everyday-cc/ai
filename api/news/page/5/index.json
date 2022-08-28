@@ -2,6 +2,221 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-22-google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans.md",
+      "title": "Google Gave Its Helper Robots AI Language Skills to Better Work With Humans",
+      "excerpt": "Google has started to close the gap by marrying the latest language AI with state-of-the-art robots ... created new control software that taps into PaLM’s language skills to translate spoken or written commands from a human into the actions required ...",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/",
+      "originalUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/08/Google-everyday-robots.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
+      "publishedDateTime": "2022-08-22T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now.md",
+      "title": "2 Artificial Intelligence Growth Stocks Down 84% and 92% to Buy Now",
+      "excerpt": "Shares of Upstart Holdings (NASDAQ: UPST) and Lemonade (NYSE: LMND) currently trade 92% and 84% off their highs, respectively, but both AI stocks could produce market-crushing returns in the years ahead.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now",
+      "originalUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now?amp",
+      "publishedDateTime": "2022-08-22T03:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-honeywell-shrinks-the-industrial-skills-gap-with-ai.md",
+      "title": "Honeywell Shrinks The Industrial Skills Gap With AI",
+      "excerpt": "Massive labor shortages will require companies to rethink how technology can help their clients thrive in such an untenable position.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/maribellopez/2022/08/22/honeywell-shrinks-the-industrial-skills-gap-with-ai/",
+      "originalUrl": "https://www.forbes.com/sites/maribellopez/2022/08/22/honeywell-shrinks-the-industrial-skills-gap-with-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/63027314dced4a5c05f3e7ef/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2022/08/22/honeywell-shrinks-the-industrial-skills-gap-with-ai/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2022/08/22/honeywell-shrinks-the-industrial-skills-gap-with-ai/amp/",
+      "publishedDateTime": "2022-08-22T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-graymatter-robotics-raises-20m-in-series-a-funding.md",
+      "title": "GrayMatter Robotics Raises $20M in Series A Funding",
+      "excerpt": "GrayMatter Robotics, an artificial intelligence robotics solutions company, announced last week it raised $20 million in Series A investment led by Bow Capital and joined by B Capital Group, Calibrate Ventures,",
+      "sourceUrl": null,
+      "webUrl": "https://labusinessjournal.com/technology/graymatter-robotics-raises-20m-in-series-a-funding/",
+      "originalUrl": "https://labusinessjournal.com/technology/graymatter-robotics-raises-20m-in-series-a-funding/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d3evu7qlt2vui6.cloudfront.net/wp-content/uploads/2022/08/PG04_GRAYMATTER_0822_scansand-scaled-e1660932740192.jpeg",
+          "width": 1162,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-22T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Los Angeles Business Journal",
+        "domain": "labusinessjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-22-how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills.md",
+      "title": "How to become an AI Engineer? Check out to know education, roles and skills",
+      "excerpt": "In fact, there has been a massive 154% growth in the worldwide AI market. Artificial Intelligence impacts how machines may improve human life, from driverless automobiles to android systems in phones, apps, and other electronic gadgets. And to maintain and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraphindia.com/edugraph/career/how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills/cid/1881672",
+      "originalUrl": "https://www.telegraphindia.com/edugraph/career/how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills/cid/1881672",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.telegraphindia.com/telegraph/2022/Aug/1661151572_untitled-3.jpg",
+          "width": 428,
+          "height": 285,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.telegraphindia.com/amp/edugraph/career/how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills/cid/1881672",
+      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/career/how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills/cid/1881672",
+      "publishedDateTime": "2022-08-22T00:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "telegraphindia.com",
+        "domain": "telegraphindia.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2022-08-22-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment.md",
       "title": "Israeli Fintech Vyzer Selects Salt Edge to Provide Open Banking Boost to Investment",
       "excerpt": "Vyzer, an Israeli-based fintech consumer focused startup, joined forces with Salt Edge, a key player in offering open banking solutions.",
@@ -931,237 +1146,6 @@
       "topics": [
         "AI",
         "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-21-this-student-aspires-for-a-career-in-ai.md",
-      "title": "This student aspires for a career in AI",
-      "excerpt": "He was also part of his school’s programming and AI clubs thanks to which he honed his skills to participate in the Kolmogorov Reading Conference for scientific papers. ‘‘I wrote a research paper titled Detection and Classification of brain tumors in MRIs using CNN,",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/friday/art-people/this-student-aspires-for-a-career-in-ai-1.89858003",
-      "originalUrl": "https://gulfnews.com/friday/art-people/this-student-aspires-for-a-career-in-ai-1.89858003",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2022/08/18/Hale-image_182b0415f36_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/friday/art-people/this-student-aspires-for-a-career-in-ai-1.89858003",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/friday/art-people/this-student-aspires-for-a-career-in-ai-1.89858003",
-      "publishedDateTime": "2022-08-20T10:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-are-you-making-these-deadly-mistakes-with-your-ai-projects.md",
-      "title": "Are You Making These Deadly Mistakes With Your AI Projects?",
-      "excerpt": "You need enough, but not too much. “Goldilocks data” is what people often say: not too much, not too little, but just right. Unfortunately, far too often, organizations are jumping into AI projects without first addressing an understanding of their data.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/20/are-you-making-these-deadly-mistakes-with-your-ai-projects/",
-      "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/20/are-you-making-these-deadly-mistakes-with-your-ai-projects/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62ffdc7f74be310fb95f25ec/0x0.jpg?format=jpg&crop=3000,1689,x0,y74,safe&width=1200",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/20/are-you-making-these-deadly-mistakes-with-your-ai-projects/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/20/are-you-making-these-deadly-mistakes-with-your-ai-projects/amp/",
-      "publishedDateTime": "2022-08-19T22:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-stanford-university-stanford-engineers-present-new-chip-that-ramps-up-ai-computing-efficiency.md",
-      "title": "Stanford University: Stanford engineers present new chip that ramps up AI computing efficiency",
-      "excerpt": "AI-powered edge computing is already pervasive in our lives. Devices like drones, smart wearables, and industrial IoT sensors are equipped with AI-enabled chips so that computing can occur at the “edge” of the internet,",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/stanford-university-stanford-engineers-present-new-chip-that-ramps-up-ai-computing-efficiency/",
-      "originalUrl": "https://indiaeducationdiary.in/stanford-university-stanford-engineers-present-new-chip-that-ramps-up-ai-computing-efficiency/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2020/10/1500x500.jpg?fit=1024%2C341&ssl=1",
-          "width": 1023,
-          "height": 341,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/stanford-university-stanford-engineers-present-new-chip-that-ramps-up-ai-computing-efficiency/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/stanford-university-stanford-engineers-present-new-chip-that-ramps-up-ai-computing-efficiency/",
-      "publishedDateTime": "2022-08-19T20:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-john-carmacks-agi-startup-raises-20m-from-sequoia-nat-friedman-patrick-collison-and-others.md",
-      "title": "John Carmack’s AGI startup raises $20M from Sequoia, Nat Friedman, Patrick Collison and others",
-      "excerpt": "John Carmack, the game developer who co-founded id Software and served as Oculus's CTO, is working on a new venture -- and has attracted capital from big names.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/19/john-carmack-agi-keen-raises-20-million-from-sequoia-nat-friedman-and-others/",
-      "originalUrl": "https://techcrunch.com/2022/08/19/john-carmack-agi-keen-raises-20-million-from-sequoia-nat-friedman-and-others/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-515877128.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/19/john-carmack-agi-keen-raises-20-million-from-sequoia-nat-friedman-and-others/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/19/john-carmack-agi-keen-raises-20-million-from-sequoia-nat-friedman-and-others/amp/",
-      "publishedDateTime": "2022-08-19T16:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-chips-are-down-american-semiconductors-falter-as-long-awaited-chips-act-arrives.md",
-      "title": "Chips Are Down: American Semiconductors Falter as Long-Awaited CHIPS Act Arrives",
-      "excerpt": "The Philadelphia semiconductor index dropped 4.6% on Tuesday, its biggest setback in roughly two months, with all the index firms losing ground. So how do we make sense of the chip sector",
-      "sourceUrl": null,
-      "webUrl": "https://www.wane.com/news/national-world/chips-are-down-american-semiconductors-falter-as-long-awaited-chips-act-arrives/",
-      "originalUrl": "https://www.wane.com/news/national-world/chips-are-down-american-semiconductors-falter-as-long-awaited-chips-act-arrives/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.wane.com/wp-content/uploads/sites/21/2022/08/chips-photo.jpg?w=1280",
-          "width": 400,
-          "height": 224,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wane.com/news/national-world/chips-are-down-american-semiconductors-falter-as-long-awaited-chips-act-arrives/amp/",
-      "cdnAmpWebUrl": "https://www-wane-com.cdn.ampproject.org/c/s/www.wane.com/news/national-world/chips-are-down-american-semiconductors-falter-as-long-awaited-chips-act-arrives/amp/",
-      "publishedDateTime": "2022-08-19T16:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wane",
-        "domain": "wane.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

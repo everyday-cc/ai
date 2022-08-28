@@ -25,22 +25,73 @@ images:
     isCached: true
 
 related:
-  - title: "Unnoticed eye movements can be key for better self-driving cars: Study"
-    excerpt: "Artificial neural networks that learn to recognize objects more quickly and accurately have been developed by Andrea Benucci and colleagues at the RIKEN Center for Brain Science. The study, recently published in the scientific journal PLOS Computational Biology,"
-    publishedDateTime: 2022-08-23T09:04:00Z
-    webUrl: "https://timesofindia.indiatimes.com/videos/news/unnoticed-eye-movements-can-be-key-for-better-self-driving-cars-study/videoshow/93728478.cms"
-    ampWebUrl: "https://m.timesofindia.com/videos/news/unnoticed-eye-movements-can-be-key-for-better-self-driving-cars-study/amp_videoshow/93728478.cms"
-    cdnAmpWebUrl: "https://m-timesofindia-com.cdn.ampproject.org/c/s/m.timesofindia.com/videos/news/unnoticed-eye-movements-can-be-key-for-better-self-driving-cars-study/amp_videoshow/93728478.cms"
+  - title: "Former Apple employee admits stealing self-driving car secrets"
+    excerpt: "Zhang, a hardware engineer who worked on the technology, allegedly stole information about prototypes, reference manuals and a 25-page document that detailed engineering plans for a circuit board for a self-driving car. Zhang, who was boarding a flight to ..."
+    publishedDateTime: 2022-08-24T09:21:00Z
+    webUrl: "https://metro.co.uk/2022/08/24/former-apple-employee-admits-stealing-self-driving-car-secrets-17232523/"
+    ampWebUrl: "https://metro.co.uk/2022/08/24/former-apple-employee-admits-stealing-self-driving-car-secrets-17232523/amp/"
+    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/08/24/former-apple-employee-admits-stealing-self-driving-car-secrets-17232523/amp/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
+      name: Metro
+      domain: metro.co.uk
     quality: 44
     images:
-      - url: "https://static.toiimg.com/photo/msid-93728478/videos/news/unnoticed-eye-movements-can-be-key-for-better-self-driving-cars-study.jpg"
-        width: 1600
-        height: 900
+      - url: "https://metro.co.uk/wp-content/uploads/2022/07/SEI_116830933.jpg?quality=90&strip=all&zoom=1&resize=600%2C399"
+        width: 600
+        height: 399
         isCached: true
+  - title: "Former Apple engineer pleads guilty to stealing self-driving vehicle secrets, faces decade in prison"
+    excerpt: "Federal agents stopped Zhang at San Jose International Airport as he departed for Beijing using a ticket bought at the \"last second.\" He"
+    publishedDateTime: 2022-08-23T11:15:00Z
+    webUrl: "https://www.techspot.com/news/95726-former-apple-engineer-pleads-guilty-stealing-self-driving.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 39
+    images:
+      - url: "https://static.techspot.com/images2/news/bigimage/2021/11/2021-11-18-image-19.jpg"
+        width: 1500
+        height: 809
+        isCached: true
+  - title: "Engineer admits details about Apple's mythical self-driving project"
+    excerpt: "Engineer Stole manuals of Titan circuit boards An ex-Apple engineer who worked on Titan the outfit's imaginary self-driving car project – admitted to stealing proprietary tech while he was working for the company."
+    publishedDateTime: 2022-08-24T08:54:00Z
+    webUrl: "https://www.fudzilla.com/news/automotive/55370-engineer-admits-details-about-apple-s-mythical-self-driving-project"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 39
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/3b5cde225a6ba384158fa58d5381edcd_L.jpg"
+        width: 620
+        height: 405
+        isCached: true
+  - title: "How Self-Driving Cars Will Change the Roads"
+    excerpt: "Are self-driving cars coming to a dealership near you? Here’s what you need to know about this tech and what it means for the future."
+    publishedDateTime: 2022-08-25T16:03:00Z
+    webUrl: "https://www.rd.com/article/self-driving-cars/"
+    type: article
+    provider:
+      name: Reader's Digest
+      domain: rd.com
+    quality: 24
+    images:
+      - url: "https://www.rd.com/wp-content/uploads/2022/08/self-driving-cars-GettyImages-1292394282-JVedit.jpg"
+        width: 2400
+        height: 1600
+        isCached: true
+  - title: "Former Apple employer admits stealing trade secrets for self-driving car project"
+    excerpt: "An engineer who had access to information about Apple’s self-driving car project has pleaded guilty to stealing trade secrets about the project"
+    publishedDateTime: 2022-08-26T06:42:00Z
+    webUrl: "https://www.pulse.ng/business/local/former-apple-employee-admits-stealing-trade-secrets-for-self-driving-car-project/3cd8yyj"
+    type: article
+    provider:
+      name: Naija Gist - Latest
+      domain: pulse.ng
+    quality: 0
 
 secured: "5WY658rRwXPJAUvyhttwTtl8BeCtGDX87RlEwbnBXjasjnFjU0rqk+or9RadhTPVP7PQ8RrqTrKJBiaJ8+ZLCwT1wGuw5bNhGP5r/C+qABTqtC90oQBR3MpQnpLsmDUZve8DH+9p8DS/ouizxnVZ2MD/fZ6bmdAWoyOiq8gzEbT85Y0bFz9PZuPLVIhlfGw+hXpGDrYB9z+hAgVZx0v5WMoskTEGP9YRhAiV5Tb57D+oOen5Ixy1mtIIy/64A38yBYl+pCwaENe1DAQ5DeUeBUvL6gWqhiOyQgzwi/sgmSmeLVE5sAIamxO3LpXYytZkXGJViks26RkyWI4/4EUIibWNzkZncCIqWgRdy0Mp46w=;kRKglFkaXAYnzeDL0f7LdQ=="
 ---

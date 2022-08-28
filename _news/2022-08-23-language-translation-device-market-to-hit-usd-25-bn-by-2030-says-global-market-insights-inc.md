@@ -8,9 +8,6 @@ webUrl: "https://www.benzinga.com/pressreleases/22/08/n28596363/language-transla
 ampWebUrl: "https://www.benzinga.com/amp/content/28596363"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28596363"
 type: article
-quality: 32
-heat: 32
-published: false
 
 provider:
   name: Benzinga.com
@@ -26,6 +23,6 @@ images:
     height: 209
     isCached: true
 
-secured: "Z9gP8I3b4gzeni+JyOSH66OKX1Nc8T3HTWW9Z3/5Xm+xHVDeDNwk6FtZnu17unkWZGYxdEwonKcsC10bYPi9Q6E0rpYKtNv3v1GwQt5kAf1FRT8SA2AZr+5m0ePvkMA6ZItk7g2ZFN677/DvJMrI6x5yKubGn9FBL20JggzDg+owtbrzbdZ42VC3yWaNHmzWY104EI2Bk864FnDPu7ZV6rweER/KDHqpnF08K85X67EqPH8qTRrMeLXr6dttbxowPcNCfX0v5JI0zkRMD8Ve9XvhhfVNvSjrNO112JFArWkGqFnFcnlZM6x4ntM2JlsihPblNKnqGm6sanb7t6KEs1TmT4fRWUfXJFYPoFsh+aQ=;Yor2O+Xp36XuDvHoEHCW8g=="
+secured: "w7w4yyVK82eZ6QlblXxgEOLVNQ17xIKm2QKdqk3S4jRh51ldBwRSqcPWdy2pZEdviPWkMYTUujspLrqZdijOuDuzuXmF71+bUbZazWVqQYJVQ4tPwJ6t0cQE96pfpZ45x8EdbZ5POt19K7PAf5LA+jmlf38dkoVedt598z5cKwCJojBo1twG2Svo8Qb6IZQ9ND+xD9KYcefeIoILRRAiyJuHOuxTFfcWVQUUS+PVHShDBFbeqLfuDDgKsrHnsf4e7c+caPA03KstorCmZNlwDA+xpHH/LYASXA7jG4cq9rJHO5z1fnGGKx10sqQqinxmT+aHHm0YzgDCHQDmf2bGAGvvPXevUieQ1CSFCokgTgQ=;11A3N6+hWJaFS0YVm32YuA=="
 ---
 

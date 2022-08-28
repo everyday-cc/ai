@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/how-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/23/how-artificial-intelligence-can-improve-organizational-decision-making/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 111
 published: true
 
 provider:
@@ -47,20 +47,6 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/626946974c931989078c7b6c/0x0.jpg?format=jpg&crop=1497,842,x0,y212,safe&width=1200"
         width: 1200
         height: 675
-        isCached: true
-  - title: "Rooting for Dedicated Legislation in AI"
-    excerpt: "India is part of the Global Partnership on Artificial Intelligence, which is guiding responsible development and use of AI"
-    publishedDateTime: 2022-08-23T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/rooting-for-dedicated-legislation-in-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/Ai-and-legislation.jpg"
-        width: 1600
-        height: 900
         isCached: true
   - title: "Empowering Leaders: How AI Can Enable Better Decision-Making and Success"
     excerpt: "By Richard Boyd, Founder and CEO of artificial intelligence and machine learning company Tanjo Inc As if straight from science fiction, Artificial Intelligence, perhaps the buzzword of the 21st century,"

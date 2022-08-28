@@ -19,35 +19,35 @@ topics:
   - AI
 
 related:
-  - title: "AI Robots: Power Hungry Or Empowering?"
-    excerpt: "IT leaders in consumer-facing organizations who have not yet made the plunge into AI but wish to remain competitive are scrambling to figure out how to incorporate AI technology into their contact centers and customer engagement hubs."
-    publishedDateTime: 2022-08-23T10:15:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/ai-robots-power-hungry-or-empowering/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/ai-robots-power-hungry-or-empowering/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/23/ai-robots-power-hungry-or-empowering/amp/"
+  - title: "Bringing the power of AI to the hospital to help monitor doctors' health and well-being"
+    excerpt: "Chenyang Lu, the Fullgraf Professor of computer science and engineering in the Washington University in St. Louis McKelvey School of Engineering, is combining artificial intelligence with data to improve patient care and outcomes."
+    publishedDateTime: 2022-08-23T17:23:00Z
+    webUrl: "https://medicalxpress.com/news/2022-08-power-ai-hospital-doctors-health.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-08-power-ai-hospital-doctors-health.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-power-ai-hospital-doctors-health.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 104
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 49
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/61f030570018a072dc46d1ec/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-2.jpg"
+        width: 1920
+        height: 1280
         isCached: true
-  - title: "Smarter Robots: AI, Machine Learning, and 3D Vision"
-    excerpt: "New systems from ABB, AMT, Pearson Packaging Systems, Schubert, and Shape Process Automation include new Artificial Intelligence features."
-    publishedDateTime: 2022-08-25T16:51:00Z
-    webUrl: "https://www.packworld.com/machinery/robotics/article/22340562/smarter-robots-ai-machine-learning-and-3d-vision"
+  - title: "AI being used to monitor sensitive online posts"
+    excerpt: "To avoid any miscreant’s activity on sensitive occasions like Muharram [and] other religious occasions or even volatile political situations, we have special IT-based arrangements to monitor such movement,"
+    publishedDateTime: 2022-08-26T01:22:00Z
+    webUrl: "https://www.dawn.com/news/1706833/ai-being-used-to-monitor-sensitive-online-posts"
     type: article
     provider:
-      name: Packaging World
-      domain: packworld.com
-    quality: 71
+      name: Dawn
+      domain: dawn.com
+    quality: 37
     images:
-      - url: "https://img.packworld.com/files/base/pmmi/all/image/2022/07/Mitarbeiter_Cobot_032_20211020.62d891ea15c52.png?auto=format%2Ccompress&fit=max&q=70&w=1200"
-        width: 1200
-        height: 899
+      - url: "http://www.dawn.com/_img/social-default.jpg"
+        width: 375
+        height: 375
         isCached: true
 
 secured: "EMVGQbym+rVsl1V87Asi5Mi9YHoPCkDiTWeKtRK+TqxCA2PHASQSwJLW06C+0QQzl1wCkNEZc0LR34m/8DgadPskjbLIPWQu/A2TYo15JFR9S4pZVbAX12GdQgLmWqyoQ/yjC8mg7CkyJ51aBqPknHBJrjrUyZafD0ZAMMiDhn//Kfc+EjFuRjBkG/fvB4VwPfjR/ZEhSYStavRJztKXubSZ0K1XuXFmFlaeBY7WjwRpZFEOUPd71ZCnrrOa+owlMaG839ZX/gtZXB4HVepsgCb60Md6c8Nj45XzorVxdo3wq8o18aZ/QBcDiiRjM3UOlpXvQzSkyw2l9V4FKLNgiNPZ4KG1BPuXxbY8edYN/PQ6w46MbkSPM9LS48a2x7CLTaYEKOBpOQBtdyjGksleN5Luu/9lScX+28Pwq8liQ0XrqlY7TGx/lQHoJ9/eklwXiGidVbSBa5CZBJm2K05rVsR7NTUMQZOwLw7fIqL4QzNg/MPL5MdHO/t9+fzRvp1KgLPiBLdc1pxfAfOJMi40uw==;e67qb3RWzSqq5TQ8iwgdVA=="

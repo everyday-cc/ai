@@ -46,20 +46,6 @@ related:
         width: 1200
         height: 681
         isCached: true
-  - title: "Rooting for Dedicated Legislation in AI"
-    excerpt: "India is part of the Global Partnership on Artificial Intelligence, which is guiding responsible development and use of AI"
-    publishedDateTime: 2022-08-23T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/rooting-for-dedicated-legislation-in-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/Ai-and-legislation.jpg"
-        width: 1600
-        height: 900
-        isCached: true
   - title: "Empowering Leaders: How AI Can Enable Better Decision-Making and Success"
     excerpt: "By Richard Boyd, Founder and CEO of artificial intelligence and machine learning company Tanjo Inc As if straight from science fiction, Artificial Intelligence, perhaps the buzzword of the 21st century,"
     publishedDateTime: 2022-08-25T18:37:00Z

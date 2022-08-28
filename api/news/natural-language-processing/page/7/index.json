@@ -2,6 +2,110 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-07-02-ai-powered-speech-recognition-is-entering-a-new-phase-total-global-comprehension.md",
+      "title": "AI-powered speech recognition is entering a new phase: Total global comprehension",
+      "excerpt": "A new speech recognition startup has taken an ambitious path to leapfrog Apple, Google and other tech giants. Can AI understand all 7,000 languages in the world?",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
+      "originalUrl": "https://www.zdnet.com/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/9411a919483b45a96f423ef5d2fc198e85feafc1/2022/07/01/86d710b8-0303-4e57-8529-c789deded6df/gettyimages-1279453193.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-powered-speech-recognition-is-entering-a-new-phase/",
+      "publishedDateTime": "2022-07-01T14:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-02-reddit-acquires-natural-language-processing-company-meaningcloud.md",
+      "title": "Reddit acquires natural language processing company MeaningCloud",
+      "excerpt": "Reddit announced Friday that it’s acquiring MeaningCloud, a natural language processing company, for an undisclosed amount. The MeaningCloud team has joined Reddit and will support machine learning projects across its product,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/",
+      "originalUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/04/reddit-app-icon-ios.webp?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/01/reddit-acquires-natural-language-processing-company-meaningcloud/amp/",
+      "publishedDateTime": "2022-07-01T13:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-01-the-quest-to-understand-every-voice-globally.md",
       "title": "The quest to understand every voice globally",
       "excerpt": "In a quest to enable a computer to understand every voice in the world. DeepMind: Why is AI so good at language? It's something in language itself AI experts are in short supply. That's making the skills crisis worse I tried Google's AI job interview practice tool,",
@@ -1290,113 +1394,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-the-power-and-pitfalls-of-ai-for-us-intelligence.md",
-      "title": "The Power and Pitfalls of AI for US Intelligence",
-      "excerpt": "From cyber operations to disinformation, artificial intelligence extends the reach of national security threats that can target individuals and whole societies with precision, speed, and scale. As the US competes to stay ahead,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/",
-      "originalUrl": "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62b225d8e0a13316321d22ea/master/pass/Artificial-Intelligence-Communities-Security-GettyImages-1293344881.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-machine-learning-us-intelligence-community/amp",
-      "publishedDateTime": "2022-06-21T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai.md",
-      "title": "Microsoft Restricts Its Facial Recognition Tools Citing The Need for 'Responsible AI'",
-      "excerpt": "The tech releases a Responsible AI Standard document that lays out its goals toward equitable and trustworthy AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/",
-      "originalUrl": "https://www.cnet.com/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 156,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/290f770fd6283318e4d4c021da82022ea12a273c/2020/06/30/f91e01e4-1013-4fbf-af9c-f59f543d90cd/facial-recognition-face-id-passw.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/",
-      "publishedDateTime": "2022-06-21T11:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing"
       ]
     }
   ],

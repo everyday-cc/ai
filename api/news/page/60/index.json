@@ -2,6 +2,232 @@
   "page": 60,
   "value": [
     {
+      "path": "_news/2022-07-07-rehab-boost-launches-advisory-board-appointing-seasoned-healthcare-executive-bruce-lawrence-chair.md",
+      "title": "Rehab Boost Launches Advisory Board Appointing Seasoned Healthcare Executive Bruce Lawrence Chair",
+      "excerpt": "Rehab Boost Launches Advisory Board Appointing Seasoned Healthcare Executive Bruce Lawrence Chair. MIAMI, July 7, 2022 /PRNewswire/ -- Rehab Boost Inc, a pioneer in artificial int",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobilitytechzone.com/lte/news/2022/07/07/9635083.htm",
+      "originalUrl": "https://www.mobilitytechzone.com/lte/news/2022/07/07/9635083.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T09:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobility Techzone",
+        "domain": "mobilitytechzone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-meta-ai-machine-to-solve-language-barrier-in-africa-others.md",
+      "title": "Meta AI machine to solve language barrier in Africa, others",
+      "excerpt": "NLLB-200, a single AI machine that translates across 200 different languages, including 55 African languages with state-of-the-art results, has been",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/technology/article/meta-ai-machine-to-solve-language-barrier-in-africa-others/",
+      "originalUrl": "https://businessday.ng/technology/article/meta-ai-machine-to-solve-language-barrier-in-africa-others/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2022/07/Meta.png?resize=450%2C300&ssl=1",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessday.ng/amp/technology/article/meta-ai-machine-to-solve-language-barrier-in-africa-others/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/technology/article/meta-ai-machine-to-solve-language-barrier-in-africa-others/",
+      "publishedDateTime": "2022-07-07T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts.md",
+      "title": "Microsoft and AWS awarded Ukrainian peace prize for cloud efforts",
+      "excerpt": "AWS certainly has the means to support humanitarian ... cryptocurrency, blockchain, artificial intelligence, cloud computing, payments, retail technology, and venture capital investment.",
+      "sourceUrl": null,
+      "webUrl": "https://www.techradar.com/au/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts",
+      "originalUrl": "https://www.techradar.com/au/news/microsoft-and-aws-awarded-ukrainian-peace-prize-for-cloud-efforts",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.mos.cms.futurecdn.net/TTiZmapEoTEgNmiUGUdSUf-1200-80.jpg",
+          "width": 970,
+          "height": 545,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T08:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechRadar",
+        "domain": "techradar.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-how-ai-can-boost-rural-connectivity-healthcare.md",
+      "title": "How AI Can Boost Rural Connectivity & Healthcare",
+      "excerpt": "The network solution called GigaMesh wirelessly provides fibre-like backhaul capacity and paves the road for 5G.",
+      "sourceUrl": null,
+      "webUrl": "https://pragativadi.com/how-ai-can-boost-rural-connectivity-healthcare/",
+      "originalUrl": "https://pragativadi.com/how-ai-can-boost-rural-connectivity-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://pragativadi.com/wp-content/uploads/2022/07/Untitled-design-1-13.png",
+          "width": 748,
+          "height": 445,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Pragativadi",
+        "domain": "pragativadi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-ai-at-the-forefront-of-media-and-entertainment.md",
+      "title": "AI At The Forefront Of Media And Entertainment",
+      "excerpt": "Malav Shah is a Data Scientist II at DIRECTV. In this wide-ranging interview, he shares best practices for deploying machine learning models at the forefront of media and telecommunications.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/",
+      "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c5ede123bc69e839783dae/0x0.jpg?format=jpg&width=1200",
+          "width": 500,
+          "height": 343,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/07/07/ai-at-the-forefront-of-media-and-entertainment/amp/",
+      "publishedDateTime": "2022-07-07T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-kiromic-biopharma-achieves-milestone-with-timely-completion-of-expanded-cgmp-manufacturing-facility-to-support-cell-therapy-oncology-pipeline.md",
       "title": "Kiromic BioPharma Achieves Milestone with Timely Completion of Expanded cGMP Manufacturing Facility to Support Cell Therapy Oncology Pipeline",
       "excerpt": "Kiromic BioPharma, Inc. (NASDAQ: KRBP) (\"Kiromic\" or the \"Company\"), a clinical-stage fully integrated biotherapeutics company using its proprietary DIAMOND ® artificial intelligence and data mining platform to develop cell and gene therapies with a focus on immuno-oncology,",
@@ -941,232 +1167,6 @@
         "AI",
         "Natural Language Processing",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here.md",
-      "title": "Xiaomi’s self-driving car spotted with a lidar sensor, will compete against Tesla: Details here",
-      "excerpt": "The upcoming Xiaomi vehicle is likely to be autonomous. The lidar sensor seen on the roof of the car is a key component of any self-driving vehicle.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bgr.in/automobile/xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here-1294594/",
-      "originalUrl": "https://www.bgr.in/automobile/xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here-1294594/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://st1.bgr.in/wp-content/uploads/2022/07/Xiaomi-Car-.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.bgr.in/automobile/xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here-1294594/amp/",
-      "cdnAmpWebUrl": "https://www-bgr-in.cdn.ampproject.org/c/s/www.bgr.in/automobile/xiaomis-self-driving-car-spotted-with-a-lidar-sensor-will-compete-against-tesla-details-here-1294594/amp/",
-      "publishedDateTime": "2022-07-07T00:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BGR",
-        "domain": "www.bgr.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-sk-telecom-sk-hynix-offer-ai-chip-curriculum-to-universities.md",
-      "title": "SK Telecom, SK hynix offer AI, chip curriculum to universities",
-      "excerpt": "SK Telecom and SK hynix jointly developed the SK ICT Curriculum education course to share practical knowledge on artificial intelligence (AI) and semiconductor technologies, which has been introduced at over 20 domestic universities so far,",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreatimes.co.kr/www/nation/2022/07/419_332345.html?fl",
-      "originalUrl": "https://www.koreatimes.co.kr/www/nation/2022/07/419_332345.html?fl",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.koreatimes.co.kr/upload/newsV2/images/202207/df4f6d66dda4407ea2613c045295f652.jpg",
-          "width": 980,
-          "height": 691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=332345",
-      "cdnAmpWebUrl": "https://m-koreatimes-co-kr.cdn.ampproject.org/c/s/m.koreatimes.co.kr/pages/article.amp.asp?newsIdx=332345",
-      "publishedDateTime": "2022-07-07T00:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Times",
-        "domain": "koreatimes.co.kr",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.md",
-      "title": "Microsoft backs off facial recognition analysis, but big questions remain",
-      "excerpt": "Microsoft is backing off its support for some AI-driven features, including facial recognition. Although it's good Microsoft is acknowledging discrimination and accuracy issues, it had years to fix the problems and didn’t.",
-      "sourceUrl": null,
-      "webUrl": "https://www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.html",
-      "originalUrl": "https://www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2017/11/facial_recognition_system_identification_digital_id_security_scanning_thinkstock_858236252_3x3-100740902-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.amp.html",
-      "cdnAmpWebUrl": "https://www-computerworld-com.cdn.ampproject.org/c/s/www.computerworld.com/article/3665109/microsoft-backs-off-facial-recognition-analysis-but-big-questions-remain.amp.html",
-      "publishedDateTime": "2022-07-07T00:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Computerworld",
-        "domain": "computerworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof.md",
-      "title": "Xiaomi’s Self-Driving Test Car Spotted with a Lidar Sensor on the Roof",
-      "excerpt": "Apparently, a car blogger who goes by the username Deroy has shared a picture of Xiaomi’s self-driving test car. The car can be seen to have a sleek design with a lidar sensor on the roof.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/",
-      "originalUrl": "https://www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/07/Xiaomi-self-driving-car.jpeg",
-          "width": 690,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/07/07/xiaomis-self-driving-test-car-spotted-with-a-lidar-sensor-on-the-roof/?amp=1",
-      "publishedDateTime": "2022-07-06T23:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-tech-firms-slug-it-out-to-create-ultimate-ai-translator.md",
-      "title": "Tech firms slug it out to create ultimate AI translator",
-      "excerpt": "The universal translator is a staple of science fiction, but Google, Meta and others are locked in a battle to get as many languages as possible working with their AI models. Meta chief Mark Zuckerberg announced on Wednesday that his firm now had a block of 200 languages that could be translated into each other,",
-      "sourceUrl": null,
-      "webUrl": "https://dunyanews.tv/en/Technology/658931-Tech-firms-slug-it-out-to-create-ultimate-AI-translator",
-      "originalUrl": "https://dunyanews.tv/en/Technology/658931-Tech-firms-slug-it-out-to-create-ultimate-AI-translator",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.dunyanews.tv/news/2022/July/07-07-22/news_big_images/658931_75796259.jpg",
-          "width": 752,
-          "height": 423,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://dunyanews.tv/amp/english/658931.php",
-      "cdnAmpWebUrl": "https://dunyanews-tv.cdn.ampproject.org/c/s/dunyanews.tv/amp/english/658931.php",
-      "publishedDateTime": "2022-07-06T22:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dunya News",
-        "domain": "dunyanews.tv",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

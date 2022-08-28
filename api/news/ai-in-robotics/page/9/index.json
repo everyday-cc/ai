@@ -2,6 +2,58 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-06-23-can-wall-crawling-robots-help-solve-our-infrastructure-problems.md",
+      "title": "Can wall crawling robots help solve our infrastructure problems?",
+      "excerpt": "With federal dollars for infrastructure increasing, the technology could have additional public sector applications. But how big a difference can robots make? Is it too little too",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/can-wall-crawling-robots-solve-infrastructure-problems/",
+      "originalUrl": "https://www.zdnet.com/article/can-wall-crawling-robots-solve-infrastructure-problems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/f40053e0e058a596fc5c696dd4c51098272ee76d/2022/06/22/59c9d5d3-83d7-4825-8fd1-20e550c568c2/brooklyn-bridge.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 799,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/can-wall-crawling-robots-solve-infrastructure-problems/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/can-wall-crawling-robots-solve-infrastructure-problems/",
+      "publishedDateTime": "2022-06-23T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-sales-of-painting-robots-market-will-grow-by-101-cagr-by-end-of-2031-future-market-insights-inc.md",
       "title": "Sales Of Painting Robots Market Will Grow By 10.1% CAGR By End of 2031, Future Market Insights Inc.",
       "excerpt": "Overall sales of painting robots will grow by 10.1% CAGR between 2021 and 2031. East Asia and Europe are likely to account for over half of the global demand for painting robots through 2031. The global painting robots market grew at a CAGR of more than 2.",
@@ -1280,40 +1332,6 @@
       "provider": {
         "name": "poandpo.com",
         "domain": "poandpo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-15-global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest.md",
-      "title": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ) Sees Significant Drop in Short Interest",
-      "excerpt": "Global X Robotics & Artificial Intelligence ETF (NASDAQ:BOTZ – Get Rating BOTZ opened at $20.90 on Wednesday. The company has a 50 day moving average of $23.96 and a 200 day moving average of ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/",
-      "originalUrl": "https://www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/15/global-x-robotics-artificial-intelligence-etf-nasdaqbotz-sees-significant-drop-in-short-interest/amp/",
-      "publishedDateTime": "2022-06-14T22:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
         "images": null,
         "publishers": null,
         "authors": null

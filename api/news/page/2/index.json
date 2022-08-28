@@ -2,6 +2,49 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-26-can-artificial-intelligence-improve-colorectal-cancer-recurrence-prediction.md",
+      "title": "Can Artificial Intelligence Improve Colorectal Cancer Recurrence Prediction",
+      "excerpt": "Using artificial intelligence (AI), scientists have created an algorithm to improve the prediction of colorectal cancer recurrence.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/can-artificial-intelligence-improve-colorectal-cancer-recurrence-prediction-208408-1.htm",
+      "originalUrl": "https://www.medindia.net/news/can-artificial-intelligence-improve-colorectal-cancer-recurrence-prediction-208408-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/colon-cancer.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/can-artificial-intelligence-improve-colorectal-cancer-recurrence-prediction-208408-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-improve-colorectal-cancer-recurrence-prediction-208408-1.htm",
+      "publishedDateTime": "2022-08-25T11:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-build-a-multi-lingual-document-translation-workflow-with-domain-specific-and-language-specific-customization.md",
       "title": "Build a multi-lingual document translation workflow with domain-specific and language-specific customization",
       "excerpt": "In the digital world, providing information in a local language isn’t novel, but it can be a tedious and expensive task. Advancements in machine learning (ML) and natural language processing (NLP) have made this task much easier and less expensive. We have seen increased adoption of ML for multi-lingual",
@@ -156,6 +199,50 @@
       "topics": [
         "Natural Language Processing",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-smarter-robots-ai-machine-learning-and-3d-vision.md",
+      "title": "Smarter Robots: AI, Machine Learning, and 3D Vision",
+      "excerpt": "New systems from ABB, AMT, Pearson Packaging Systems, Schubert, and Shape Process Automation include new Artificial Intelligence features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.packworld.com/machinery/robotics/article/22340562/smarter-robots-ai-machine-learning-and-3d-vision",
+      "originalUrl": "https://www.packworld.com/machinery/robotics/article/22340562/smarter-robots-ai-machine-learning-and-3d-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.packworld.com/files/base/pmmi/all/image/2022/07/Mitarbeiter_Cobot_032_20211020.62d891ea15c52.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Packaging World",
+        "domain": "packworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -406,6 +493,59 @@
       "topics": [
         "Facebook AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027.md",
+      "title": "North America Deep Learning Chip Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2027",
+      "excerpt": "Driving factor such as the rising investments in deep learning chip start-ups is propelling the growth of the deep learning chip market. Further, the increasing adoption of cloud-based computing across several industries is anticipated to boost the deep learning chip market growth in the near future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-08-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-08-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
       ]
     },
     {
@@ -976,7 +1116,7 @@
       "originalUrl": "https://electrek.co/2022/08/24/elon-musk-tells-early-tesla-full-self-driving-beta-testers-not-complain/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 212,
+      "heat": 222,
       "tags": null,
       "images": [
         {
@@ -1121,144 +1261,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-intel-launches-flex-series-arctic-sound-m-gpu-for-visual-cloud-workloads.md",
-      "title": "Intel Launches Flex Series Arctic Sound-M GPU For Visual Cloud Workloads",
-      "excerpt": "Intel's Arctic Sound has finally made its way to market. Intel just formally introduced the datacenter GPU, now known properly as the \"Data Center GPU Flex Series.\" The cards, which come in at least two variants,",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/intel-launch-arctic-sound-m-data-center-gpu-flex-series",
-      "originalUrl": "https://hothardware.com/news/intel-launch-arctic-sound-m-data-center-gpu-flex-series",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.hothardware.com/contentimages/newsitem/59427/content/small_intel-datacenter-gpu-arctic-sound-1.jpg",
-          "width": 708,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.hothardware.com/news/intel-launch-arctic-sound-m-data-center-gpu-flex-series",
-      "cdnAmpWebUrl": "https://amp-hothardware-com.cdn.ampproject.org/c/s/amp.hothardware.com/news/intel-launch-arctic-sound-m-data-center-gpu-flex-series",
-      "publishedDateTime": "2022-08-24T09:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HotHardware",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work.md",
-      "title": "Jobs in the metaverse: This AI startup founder wants to change the future of work",
-      "excerpt": "Adam Turaev, the founder of Praktika.ai, an AI-based learning platform, believes the metaverse will remove barriers in workplace. He is striving to help non-native English speakers — or their avatars — to be hired by the international companies.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/",
-      "originalUrl": "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/amp/",
-      "publishedDateTime": "2022-08-24T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-tesla-releases-new-deep-dive-presentations-on-its-dojo-ai-supercomputer.md",
-      "title": "Tesla releases new deep-dive presentations on its Dojo AI supercomputer",
-      "excerpt": "Tesla has released two new deep-dive presentations into its Dojo AI supercomputer ahead of its upcoming AI Day 2. You can check the slides from both presentations below. Dojo is Tesla’s own custom supercomputer platform built from the ground up for AI machine learning and more specifically for video training using the video data coming",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/08/24/tesla-deep-dive-presentations-dojo-ai-supercomputer/",
-      "originalUrl": "https://electrek.co/2022/08/24/tesla-deep-dive-presentations-dojo-ai-supercomputer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/What-is-Tesla-Dojo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/08/24/tesla-deep-dive-presentations-dojo-ai-supercomputer/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/24/tesla-deep-dive-presentations-dojo-ai-supercomputer/amp/",
-      "publishedDateTime": "2022-08-24T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

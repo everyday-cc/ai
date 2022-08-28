@@ -2,6 +2,113 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-06-22-the-power-and-pitfalls-of-ai-for-us-intelligence.md",
+      "title": "The Power and Pitfalls of AI for US Intelligence",
+      "excerpt": "From cyber operations to disinformation, artificial intelligence extends the reach of national security threats that can target individuals and whole societies with precision, speed, and scale. As the US competes to stay ahead,",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/",
+      "originalUrl": "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/62b225d8e0a13316321d22ea/master/pass/Artificial-Intelligence-Communities-Security-GettyImages-1293344881.jpg",
+          "width": 2400,
+          "height": 1600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-machine-learning-us-intelligence-community/amp",
+      "publishedDateTime": "2022-06-21T13:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai.md",
+      "title": "Microsoft Restricts Its Facial Recognition Tools Citing The Need for 'Responsible AI'",
+      "excerpt": "The tech releases a Responsible AI Standard document that lays out its goals toward equitable and trustworthy AI.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/",
+      "originalUrl": "https://www.cnet.com/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 156,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/290f770fd6283318e4d4c021da82022ea12a273c/2020/06/30/f91e01e4-1013-4fbf-af9c-f59f543d90cd/facial-recognition-face-id-passw.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/microsoft-restricts-its-facial-recognition-tools-citing-the-need-for-responsible-ai/",
+      "publishedDateTime": "2022-06-21T11:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Computer Vision",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-googles-ai-is-something-even-stranger-than-conscious.md",
       "title": "Google’s AI Is Something Even Stranger Than Conscious",
       "excerpt": "LaMDA is no more conscious than a pocket calculator. More importantly, the silly fantasy of machine sentience has once again been allowed to dominate the artificial-intelligence conversation when much stranger and richer,",
@@ -1265,93 +1372,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-11-ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns.md",
-      "title": "AI systems have their own ‘secret language’. And it might come with security concerns",
-      "excerpt": "The findings support the theory that AI language models don’t read text the way you and I do. Instead, they break input text up into 'tokens'.",
-      "sourceUrl": null,
-      "webUrl": "https://theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/",
-      "originalUrl": "https://theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.theprint.in/wp-content/uploads/2021/08/artificial-intelligence-4389372_1280-e1599296856435-1024x576-1.jpg",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/?amp",
-      "cdnAmpWebUrl": "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/world/ai-systems-have-their-own-secret-language-and-it-might-come-with-security-concerns/992535/?amp",
-      "publishedDateTime": "2022-06-10T20:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ThePrint",
-        "domain": "theprint.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-10-global-us-283-bn-speech-and-voice-recognition-market-outlook-to-2026.md",
-      "title": "Global US $ 28.3 Bn Speech and Voice Recognition Market Outlook to 2026",
-      "excerpt": "The global speech and voice recognition market size is expected to grow at a Compound Annual Growth Rate (CAGR) of 19.8% during the forecast period, to Reach USD 28.3 Billion by 2026, from USD 6.9 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/global-us-28-3-bn-speech-and-voice-recognition-market-outlook-to-2026",
-      "originalUrl": "https://www.digitaljournal.com/pr/global-us-28-3-bn-speech-and-voice-recognition-market-outlook-to-2026",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ibb.co/TBSytXx/Speech-and-Voice-Recognition-Market-Overview.png",
-          "width": 623,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-10T02:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

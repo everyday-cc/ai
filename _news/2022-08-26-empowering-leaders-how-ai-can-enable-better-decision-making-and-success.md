@@ -50,20 +50,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Rooting for Dedicated Legislation in AI"
-    excerpt: "India is part of the Global Partnership on Artificial Intelligence, which is guiding responsible development and use of AI"
-    publishedDateTime: 2022-08-23T09:30:00Z
-    webUrl: "https://analyticsindiamag.com/rooting-for-dedicated-legislation-in-ai/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 37
-    images:
-      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/Ai-and-legislation.jpg"
-        width: 1600
-        height: 900
-        isCached: true
 
 secured: "kvgiULVzksUIXr4+34W9XbvGcF7xaD8TuIQalMCtkOjIuR5WpIXg0cfRnuGxfKHbNIhfyp/njZQIm3AaFC6Qw7ew1+aiKwUa4hPr11DuZBFgAVg3kJWBXUHx6PZFAvfrvyzx6xbIL7XCOGVpcVWtABHaQIlHDVVXJGFgnz1wuxkfYGL1c0Dy41CCiCACFEi4y69ok9YL83LrHeaHNzr6zAd5XE0+rAIQznWncUdJYmbL7AsiU1xkqt/BoZkXlmP1WOuhxt7SmYgujDhZoKrqA0T2RF0hMKTurUKI/40BVS48K7Hm4qtX587z90/Z/luS9TckUQcqlk+46vn/JS0CyW+GG0UaEPbCppMd1aLU16c9/ptDsmoN/ZwkXQ5wDVGXHZKztd/UxaEmOdnKtjrt0Ayj13TXEoL0IC7lpsxEcO+Su8AC4gFUcuzdLkKWYUbUN/BqcYmTxUmUI70XPK7HW9IkBUUSF7YKq9s4PNmB2Tlfl4Elo59Bu0DoGnhtg/F5ASlK6uv6xTkMvAHkohuG7g==;PXcHoPKeL6wQQyzb+mEcqQ=="
 ---

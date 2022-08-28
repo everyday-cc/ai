@@ -2,6 +2,223 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2022-06-09-baidus-first-car-will-target-tesla-model-y-executive.md",
+      "title": "Baidu’s first car will target Tesla Model Y: executive",
+      "excerpt": "Baidu’s electric vehicle (EV) subsidiary Jidu Auto unveiled its first concept car on Wednesday, with representatives promising the model will be 90%",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2022/06/09/baidus-first-car-will-target-tesla-model-y-executive/",
+      "originalUrl": "https://technode.com/2022/06/09/baidus-first-car-will-target-tesla-model-y-executive/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
+          "width": 540,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2022/06/09/baidus-first-car-will-target-tesla-model-y-executive/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/06/09/baidus-first-car-will-target-tesla-model-y-executive/",
+      "publishedDateTime": "2022-06-08T23:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-insilico-medicine-plans-to-launch-a-fully-automated-ai-driven-robotics-lab-for-drug-discovery.md",
+      "title": "Insilico Medicine plans to launch a fully automated AI-driven robotics lab for drug discovery",
+      "excerpt": "Insilico Medicine's end-to-end AI-driven drug discovery platform, Pharma.AI, draws its strength from the quality and quantity of its data. As Insilico scientific advisory board member and Nobel Prize laureate in chemistry Dr.",
+      "sourceUrl": null,
+      "webUrl": "https://www.news-medical.net/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx",
+      "originalUrl": "https://www.news-medical.net/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/Drug_use_and_prohibited_substances._-_Image_-_Monika_Gruszewicz_A1_b3acfd6d2daf44ecbd36979af20eb378-620x480.jpg",
+          "width": 620,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.news-medical.net/amp/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx",
+      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220609/Insilico-Medicine-plans-to-launch-a-fully-automated-AI-driven-robotics-lab-for-drug-discovery.aspx",
+      "publishedDateTime": "2022-06-08T21:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "News Medical",
+        "domain": "news-medical.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-ai-based-traffic-management-system-in-delhi-soon-officials.md",
+      "title": "AI-based traffic management system in Delhi soon: Officials",
+      "excerpt": "The new system that works on machine learning and artificial intelligence will also play a vital role in facilitating a quick passage to emergency vehicles such as ambulances and fire tenders ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/india/ai-based-traffic-management-system-in-delhi-soon-officials-8600601.html",
+      "originalUrl": "https://www.moneycontrol.com/news/india/ai-based-traffic-management-system-in-delhi-soon-officials-8600601.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2017/12/RTX3LJGB.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/india/ai-based-traffic-management-system-in-delhi-soon-officials-8600601.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/india/ai-based-traffic-management-system-in-delhi-soon-officials-8600601.html/amp",
+      "publishedDateTime": "2022-06-08T19:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-kiyaai-introduces-indian-banking-metaverse.md",
+      "title": "Kiya.ai Introduces Indian Banking Metaverse",
+      "excerpt": "Kiya.ai - one of the most \"innovative\" digital solution providers, announced the launch of India’s \"first-ever\" Banking Metaverse – Kiyaverse.",
+      "sourceUrl": null,
+      "webUrl": "https://www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/",
+      "originalUrl": "https://www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2020/06/India-Money-Rupees-Coins-1.jpeg",
+          "width": 1600,
+          "height": 1291,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/amp/",
+      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/06/191874-kiya-ai-introduces-indian-banking-metaverse/amp/",
+      "publishedDateTime": "2022-06-08T19:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crowdfund Insider",
+        "domain": "crowdfundinsider.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning.md",
+      "title": "Ministry of Education, AICTE and AWS to Upskill Students in India in Cloud Computing and Machine Learning",
+      "excerpt": "The Ministry of Education is working with Amazon Web Services (AWS) with an aim to impart cloud computing and machine learning (ML) skills to higher education students in India. A Memorandum of Unders",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
+      "originalUrl": "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://indiaeducationdiary.in/wp-content/uploads/2020/08/Default-Image-IED.png",
+          "width": 534,
+          "height": 462,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/ministry-of-education-aicte-and-aws-to-upskill-students-in-india-in-cloud-computing-and-machine-learning/",
+      "publishedDateTime": "2022-06-08T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Machine Learning",
+        "AI in Education"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-link-between-cognitive-polygenic-risk-scores-and-clinical-progression-after-a-first-psychotic-episode.md",
       "title": "Link between cognitive polygenic risk scores and clinical progression after a first-psychotic episode",
       "excerpt": "Methods The sample comprised of 233 first-episode psychosis (FEP) subjects with clinical and cognitive data assessed periodically for a 2-year period and 150 matched controls. Polygenic risk scores (PRSs) for schizophrenia, bipolar disorder, depression ...",
@@ -871,240 +1088,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-video-better-screening-for-cognitive-issues-needed.md",
-      "title": "VIDEO: Better screening for cognitive issues needed",
-      "excerpt": "Forester BP, et al. Enhancing clinical care and collaboration with aging patients: Geriatric psychiatry and new models of care. Presented at: American Psychiatric Association annual meeting; May ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healio.com/news/psychiatry/20220608/video-better-screening-for-cognitive-issues-needed",
-      "originalUrl": "https://www.healio.com/news/psychiatry/20220608/video-better-screening-for-cognitive-issues-needed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.healio.com/~/media/images/fscss/i3wyanokecdncom/healio_safe_image.png",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healio",
-        "domain": "healio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-a-new-optical-brain-like-chip-can-process-2-billion-images-per-second.md",
-      "title": "A new optical brain-like chip can process 2 billion images per second",
-      "excerpt": "Researchers at the Penn School of Engineering and Applied Science have created a new optical brain-like chip that processes 2 billion images a second.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/optical-chip-2-billion-images-per-second",
-      "originalUrl": "https://interestingengineering.com/optical-chip-2-billion-images-per-second",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/lV6DaWMDwx/sizes/new-penn-chip_resize_md.jpg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/optical-chip-2-billion-images-per-second",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/optical-chip-2-billion-images-per-second",
-      "publishedDateTime": "2022-06-08T08:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-neurologist-discusses-mild-cognitive-impairment.md",
-      "title": "Neurologist discusses mild cognitive impairment",
-      "excerpt": "These are normal signs of aging. But, if such events begin to happen more frequently or escalate, then it could be something called mild cognitive impairment, often called MCI. Mild cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-06-neurologist-discusses-mild-cognitive-impairment.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-06-neurologist-discusses-mild-cognitive-impairment.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/dementia-2.jpg",
-          "width": 1600,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-06-neurologist-discusses-mild-cognitive-impairment.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-neurologist-discusses-mild-cognitive-impairment.amp",
-      "publishedDateTime": "2022-06-08T07:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-baidus-jidu-auto-releases-virtual-concept-robocar-as-intelligent-ev-unit-moves-towards-mass-production-in-2023.md",
-      "title": "Baidu’s Jidu Auto releases virtual concept robocar as intelligent EV unit moves towards mass production in 2023",
-      "excerpt": "Baidu-backed EV firm WM applies to list in ... Tesla’s founder Elon Musk recently said that Tesla aims to have self-driving cars, without the need for human intervention, by May 2023.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit?module=more_top_stories_int&pgtype=homepage",
-      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit?module=more_top_stories_int&pgtype=homepage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/08/a7880824-98af-4131-80cb-aeb9f88421db_36043c23.jpg?itok=OKP7ptvz&v=1654696184",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T07:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-chinas-jidu-robo-1-looks-like-its-from-the-future-maybe-it-is.md",
-      "title": "China’s Jidu Robo-1 Looks Like It’s From the Future. Maybe It Is",
-      "excerpt": "The autonomous driving technology for Jidu’s car will be a custom version of Apollo, an open platform developed by Baidu and several partners that dozens of carmakers use in China. Jidu says its ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/",
-      "originalUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/629ff1ed853b24d07fae362d/master/pass/JiDU-ROBO-1-Baidu-First-Car-Business.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baidu-jidu-robo-1-autonomous-car/amp",
-      "publishedDateTime": "2022-06-08T06:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
         "AI"
       ]
     }

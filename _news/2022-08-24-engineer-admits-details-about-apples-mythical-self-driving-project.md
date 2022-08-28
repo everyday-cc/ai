@@ -69,6 +69,20 @@ related:
         width: 2400
         height: 1600
         isCached: true
+  - title: "Self-driving cars: a primer"
+    excerpt: "Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won't drive at all. Along the way, automakers will ..."
+    publishedDateTime: 2022-08-24T18:55:00Z
+    webUrl: "https://www.motorauthority.com/news/1108904_self-driving-cars-a-primer"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg"
+        width: 1500
+        height: 1003
+        isCached: true
   - title: "Former Apple employer admits stealing trade secrets for self-driving car project"
     excerpt: "An engineer who had access to information about Apple’s self-driving car project has pleaded guilty to stealing trade secrets about the project"
     publishedDateTime: 2022-08-26T06:42:00Z

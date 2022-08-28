@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Why Tesla Thinks It'll Build Self-Driving Cars Before Everyone Else"
+    excerpt: "Their job is to process video from the fleet of Tesla cars on the road today to learn how real-world driving works. That training process is the foundation for the FSD, short for Full Self Driving ..."
+    publishedDateTime: 2022-08-25T07:44:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/resize/271a46fb3adb415aeca54f56d60baeddc11e3033/2022/08/24/0f2b65be-0d7e-461e-b630-2d3103b9c76e/tesla-d1-dojo-chip.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla ‘full self-driving’ debate escalates with legal threats, banned videos"
     excerpt: "Tesla fans rushed to defend the automaker after a prominent critic released a video showing one of the company's cars with the feature it calls \"full self-driving\" plowing into child-size mannequins."
     publishedDateTime: 2022-08-25T20:41:00Z

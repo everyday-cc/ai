@@ -40,6 +40,15 @@ related:
         width: 375
         height: 375
         isCached: true
+  - title: "AI: powering healthcare, empowering patients Physician perceptions of AI and the future of pharma"
+    excerpt: "According to a report by the British Medical Journal (BMJ), soon after COVID-19 was declared a global pandemic, the World Health Organization (WHO) indicated both AI and ML could be important tools for managing the crisis,"
+    publishedDateTime: 2022-08-24T13:38:00Z
+    webUrl: "https://www.pmlive.com/pharma_intelligence/AI_powering_healthcare,_empowering_patients_Physician_perceptions_of_AI_and_the_future_of_pharma_1453023"
+    type: article
+    provider:
+      name: PMLiVE
+      domain: pmlive.com
+    quality: 21
 
 secured: "qsdXKeeRMiniHBJFTyl2hJbIqXxhXrzIA0D33IwqnxJEK3gjp057b9WnRxKnJ7LbszbySmDGKitisyrnv0GsHITbqt0+UqdKTModSUFmnx7t7vVUB9/NugIkLhrrwNAmcmOdaL8m/VNd8qs60RWuwrErxUi47yX9PH1dJXOArVWpu9Lo2SSbnqUqaEIqX0hLNebyRrBOFjdfPX6XGcz6bxSrA1vpeFgfy7B8ljbU7tIgUZ1HEC7Rms1jEi6xPArHDbMSnKD8jLWa8Ol6qoduKj1aiQOTscbH09VL4iCvM7b8TOi5JHJbazbKX+SLuQkvUkhoETmYHCl7VFtL8cKsDzRHNYsQToBednKMLMhF04jKxbB8HUWG142DELiuGK3mZZETD8y4YrJoPaeHa0KN+Js8slA6gaE/3OM9+h19lfAMsH/QcCjmpp3gtEMPoDuOBDRFTclV8L1crdddFTV8ItiMpihP7ixg1YlSwZk5iBT7ZhY+lSrNvFs/d3za6rUJKxW+vWC0aIlBcuRSFSS68w==;B6R6XVE5fCYeYeKYNDAcDw=="
 ---

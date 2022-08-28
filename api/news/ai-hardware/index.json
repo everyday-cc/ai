@@ -195,6 +195,59 @@
       ]
     },
     {
+      "path": "_news/2022-08-25-north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027.md",
+      "title": "North America Deep Learning Chip Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2027",
+      "excerpt": "Driving factor such as the rising investments in deep learning chip start-ups is propelling the growth of the deep learning chip market. Further, the increasing adoption of cloud-based computing across several industries is anticipated to boost the deep learning chip market growth in the near future.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-08-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-08-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T07:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-intel-launches-flex-series-arctic-sound-m-gpu-for-visual-cloud-workloads.md",
       "title": "Intel Launches Flex Series Arctic Sound-M GPU For Visual Cloud Workloads",
       "excerpt": "Intel's Arctic Sound has finally made its way to market. Intel just formally introduced the datacenter GPU, now known properly as the \"Data Center GPU Flex Series.\" The cards, which come in at least two variants,",
@@ -1413,58 +1466,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-memryx-is-a-new-ai-company-we-actually-need.md",
-      "title": "MemryX Is A New AI Company We Actually Need",
-      "excerpt": "Ranked Industry Analyst Patrick Moorhead takes a closer look into MemryX, a new startup with a focus on AI processing for edge devices, is creating new technologies to address this emerging market and its direction on how it might be different from the pack.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/",
-      "originalUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f52016b7bb71d6ba750efd/MemryX-AI-Accelerator-s--can-be-directly-plugged-into-an-existing-USB-or-PCIe-port-/960x0.jpg?height=487&width=711&fit=bounds",
-          "width": 711,
-          "height": 487,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/patrickmoorhead/2022/08/11/memryx-is-a-new-ai-company-we-actually-need/amp/",
-      "publishedDateTime": "2022-08-11T08:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

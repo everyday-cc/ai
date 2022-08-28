@@ -1,29 +1,33 @@
 ---
 category: news
-title: "Tesla sticker shock: Price of feature it calls ‘full self-driving’ jumps to $15,000"
-excerpt: "Tesla is raising the price of its controversial driver-assist feature it calls \"full self-driving\" to $15,000. But Tesla buyers can purchase it for $12,000 until Sept. 5."
-publishedDateTime: 2022-08-23T16:05:00Z
-originalUrl: "https://wraltechwire.com/2022/08/23/tesla-sticker-shock-price-of-feature-it-calls-full-self-driving-jumps-to-15000/"
-webUrl: "https://wraltechwire.com/2022/08/23/tesla-sticker-shock-price-of-feature-it-calls-full-self-driving-jumps-to-15000/"
-ampWebUrl: "https://wraltechwire.com/2022/08/23/tesla-sticker-shock-price-of-feature-it-calls-full-self-driving-jumps-to-15000/?amp=1"
-cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/23/tesla-sticker-shock-price-of-feature-it-calls-full-self-driving-jumps-to-15000/?amp=1"
+title: "Why Tesla Thinks It'll Build Self-Driving Cars Before Everyone Else"
+excerpt: "Their job is to process video from the fleet of Tesla cars on the road today to learn how real-world driving works. That training process is the foundation for the FSD, short for Full Self Driving ..."
+publishedDateTime: 2022-08-25T07:44:00Z
+originalUrl: "https://www.cnet.com/roadshow/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/"
+webUrl: "https://www.cnet.com/roadshow/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/"
+ampWebUrl: "https://www.cnet.com/google-amp/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/"
+cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/"
 type: article
-quality: 53
+quality: 89
 heat: -1
 published: false
 
 provider:
-  name: WRAL TechWire
-  domain: wraltechwire.com
+  name: CNET
+  domain: cnet.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://wraltechwire.com/wp-content/uploads/2022/02/tesla-g25a581eab_1280-e1645184278103.jpg"
-    width: 1276
-    height: 716
+  - url: "https://www.cnet.com/a/img/resize/271a46fb3adb415aeca54f56d60baeddc11e3033/2022/08/24/0f2b65be-0d7e-461e-b630-2d3103b9c76e/tesla-d1-dojo-chip.jpg?auto=webp&fit=crop&height=630&width=1200"
+    width: 1200
+    height: 630
     isCached: true
 
 related:
@@ -42,22 +46,6 @@ related:
       - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/05/Elon-Musk-Game-of-Thrones-FI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
         width: 1200
         height: 628
-        isCached: true
-  - title: "Why Tesla Thinks It'll Build Self-Driving Cars Before Everyone Else"
-    excerpt: "Their job is to process video from the fleet of Tesla cars on the road today to learn how real-world driving works. That training process is the foundation for the FSD, short for Full Self Driving ..."
-    publishedDateTime: 2022-08-25T07:44:00Z
-    webUrl: "https://www.cnet.com/roadshow/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 89
-    images:
-      - url: "https://www.cnet.com/a/img/resize/271a46fb3adb415aeca54f56d60baeddc11e3033/2022/08/24/0f2b65be-0d7e-461e-b630-2d3103b9c76e/tesla-d1-dojo-chip.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Tesla ‘full self-driving’ debate escalates with legal threats, banned videos"
     excerpt: "Tesla fans rushed to defend the automaker after a prominent critic released a video showing one of the company's cars with the feature it calls \"full self-driving\" plowing into child-size mannequins."
@@ -90,6 +78,22 @@ related:
       - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/6/3/1_5931897.jpg"
         width: 1020
         height: 574
+        isCached: true
+  - title: "Tesla sticker shock: Price of feature it calls ‘full self-driving’ jumps to $15,000"
+    excerpt: "Tesla is raising the price of its controversial driver-assist feature it calls \"full self-driving\" to $15,000. But Tesla buyers can purchase it for $12,000 until Sept. 5."
+    publishedDateTime: 2022-08-23T16:05:00Z
+    webUrl: "https://wraltechwire.com/2022/08/23/tesla-sticker-shock-price-of-feature-it-calls-full-self-driving-jumps-to-15000/"
+    ampWebUrl: "https://wraltechwire.com/2022/08/23/tesla-sticker-shock-price-of-feature-it-calls-full-self-driving-jumps-to-15000/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/23/tesla-sticker-shock-price-of-feature-it-calls-full-self-driving-jumps-to-15000/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 53
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2022/02/tesla-g25a581eab_1280-e1645184278103.jpg"
+        width: 1276
+        height: 716
         isCached: true
   - title: "Musk: Tesla’s Full Self-Driving Price Rising to $15,000 Sept. 5"
     excerpt: "Current price will be honored for orders made before Sept 5th, but delivered later. As of now, Full Self-Driving is still in Beta testing and available to a select number of Tesla-owning volunteer “testers” who have achieved a high enough,"
@@ -181,6 +185,6 @@ related:
       domain: cspdailynews.com
     quality: 4
 
-secured: "DCKusdVar8RANm5186LrbLZZ3fcLG4sqj7az1CZ7e2ReJ5N2DHGg7hmMoVXzJYuaFyWuzpMZdJdy61xb9tnOaUnOCt2KP+tzXC7vcR2OVXQEyd+XnmjPmoG1DjxuRCWcXmDMgVKNFHDWHGSluy4RPHTVRLczchiFSufQXreleMUmMZzCzd0jDtUeFuGs8mLw+k+Y4vAkyyWPMOpitUYH6Y5LBlL53ncbNQcaMvU/sToojx8A9Fy7M9YhGTpRei3SF/RIxdqbbF1N4CLQxxNJ4gDlgMB2O4o+BRe6ULi5nZE9BnJnU1mWWi5sWeGEA/niKdbqkynO+xKYMu0ERt+heh+RZoqjip/it9h9Sq/6eo0PuMRXwW7afgB/q+gneA+ZPwe1ainUu85o+W4vXtq+nk4GPhxpWpDhqS+1iwVQy+KgQpHwutxpQOLLZL7mSsvwgar+usOKd5BUrkTue6MtRz5b8xSdm3hUzPZ2ZWnXCDP5oBksV7Qa29l/XvyGDd4HeR0w2cDMF8Pcl6m4r48nHw==;JAxMNSrclSbKs0GgALd50g=="
+secured: "TpNh98tKtKemHBORYMFERbdDPJtWJ0ZaYwUUsDfk/NwSekbeX5mLrMVWjGjKE0mt07t/Kn/y0L2s6hJap0Po/LuMagKBsZPqSCH1l58rXw6g3WHl0dKoz+Kp2lovcfzKUI2pyd1z8VgWAilaodr64vEY5mKMbuFLOzSg3YCjjEqDlrqrmINf/uP34sak+y59Z8yQZf6D99o4qF2k9k+JMfMac05eCNiUPXaZK8cLCQDwerJNIELHJ46kiH4OfvLCdOYmoWTET5OREIKWzrOySn6T9S+h09LpkAU67gSaFJER0Q8L1lWr2WqJ9TrrBBL2d0cwVeWZSV9wNhu6WlGs5KslWf3aG7bPDhqh74STvvg=;dOHZb/KjZj3EzMbqdZjIig=="
 ---
 

@@ -2,6 +2,222 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2022-06-23-computer-chips-powered-by-human-brain-cells-already-exist-but-is-it-ethical.md",
+      "title": "Computer chips powered by human brain cells already exist — but is it ethical?",
+      "excerpt": "A fusion of silicon and neuron.” Cortical Labs believes its hybrid chips could be the key to the kinds of complex reasoning that today’s computers and AI cannot produce. Another start-up ...",
+      "sourceUrl": null,
+      "webUrl": "https://thenextweb.com/news/computer-chips-powered-by-human-brain-cells-already-exist-but-is-it-ethical",
+      "originalUrl": "https://thenextweb.com/news/computer-chips-powered-by-human-brain-cells-already-exist-but-is-it-ethical",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2Fcomputer-chip-brain-cells.jpg&signature=a0ea842bb93c94d62b1ec2f299347e26",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Next Web",
+        "domain": "thenextweb.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-global-industry-analysts-predicts-the-world-artificial-intelligence-chipsets-market-to-reach-507-billion-by-2026.md",
+      "title": "Global Industry Analysts Predicts the World Artificial Intelligence Chipsets Market to Reach $50.7 Billion by 2026",
+      "excerpt": "Companies: 37 - Players covered include Advanced Micro Devices, Inc.; Amazon Web Services (AWS); Fujitsu ... to today`s busy business executive`s intelligence needs! This influencer driven ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27828765/global-industry-analysts-predicts-the-world-artificial-intelligence-chipsets-market-to-reach-50-7-",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27828765/global-industry-analysts-predicts-the-world-artificial-intelligence-chipsets-market-to-reach-50-7-",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T07:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-ross-lets-worry-about-the-google-ais-ethics-and-discretion-not-its-soul.md",
+      "title": "Ross: Let’s worry about the Google AI’s ethics and discretion, not its soul",
+      "excerpt": "Google wants a truly conversational search engine, with immediate real-time access to the sum total of online information.",
+      "sourceUrl": null,
+      "webUrl": "https://mynorthwest.com/3529075/ross-google-ai-morality-ethics-soul-blake-lemoine-engineer/",
+      "originalUrl": "https://mynorthwest.com/3529075/ross-google-ai-morality-ethics-soul-blake-lemoine-engineer/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mynorthwest.com/wp-content/uploads/2022/06/GettyImages-1241233246.jpg",
+          "width": 900,
+          "height": 506,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mynorthwest.com/3529075/ross-google-ai-morality-ethics-soul-blake-lemoine-engineer/amp/",
+      "cdnAmpWebUrl": "https://mynorthwest-com.cdn.ampproject.org/c/s/mynorthwest.com/3529075/ross-google-ai-morality-ethics-soul-blake-lemoine-engineer/amp/",
+      "publishedDateTime": "2022-06-23T07:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MyNorthwest.com",
+        "domain": "mynorthwest.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-asapp-autotranscribe-worlds-most-accurate-real-time-speech-to-text-technology-for-contact-centers-now-available-as-api.md",
+      "title": "ASAPP AutoTranscribe, World’s Most Accurate Real-time Speech-to-Text Technology for Contact Centers, Now Available as API",
+      "excerpt": "ASAPP, Inc., the AI Cloud company for Contact Centers launched AutoTranscribe —the most accurate, real-time, speech-to-text transcription service. ASAPP has built a world-class speech team with the goal of providing the fastest and best transcription accuracy in the contact center environment.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/globe-newswire/technology-3b9b4a1538d89e41394fb55b0a99c14e",
+      "originalUrl": "https://apnews.com/press-release/globe-newswire/technology-3b9b4a1538d89e41394fb55b0a99c14e",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T06:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-23-develop-regulations-to-guide-all-actors-in-artificial-intelligence-industry.md",
+      "title": "Develop regulations to guide all actors in artificial intelligence industry",
+      "excerpt": "Recently, Google employee Blake Lemoine made headlines when he claimed that the Artificial Intelligence ... in case of an accident involving a self-driving car which uses components and software ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.standardmedia.co.ke/opinion/article/2001448682/develop-regulations-to-guide-all-actors-in-artificial-intelligence-industry",
+      "originalUrl": "https://www.standardmedia.co.ke/opinion/article/2001448682/develop-regulations-to-guide-all-actors-in-artificial-intelligence-industry",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.standardmedia.co.ke/images/articles/thumbnails/uQ6YkBPcVsizubEzC0VCPtMs56VG4IJTJDkHWYSq.jpg",
+          "width": 800,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T06:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Standard Digital",
+        "domain": "standardmedia.co.ke",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-23-eigen-technologies-recognized-for-artificial-intelligence-innovation-in-2022-ai-breakthrough-awards-program.md",
       "title": "Eigen Technologies Recognized for Artificial Intelligence Innovation in 2022 AI Breakthrough Awards Program",
       "excerpt": "Awards Program Honors Standout AI and Machine Learning Solutions and Companies NEW YORK & LONDON--(BUSINESS WIRE)--Eigen",
@@ -912,204 +1128,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022.md",
-      "title": "IBM Reveals New AI and Cloud Powered Fan Experiences for Wimbledon 2022",
-      "excerpt": "IBM (NYSE: IBM) and the All England Lawn Tennis Club today unveil new ways for Wimbledon fans around the world to experience The Championships digitally, powered by artificial intelligence (AI) running on IBM Cloud and hybrid cloud technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/",
-      "originalUrl": "https://indiaeducationdiary.in/ibm-reveals-new-ai-and-cloud-powered-fan-experiences-for-wimbledon-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T14:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-amd-xilinx-makes-machine-vision-ai-development-quick-easy-and-affordable.md",
-      "title": "AMD Xilinx Makes Machine Vision AI Development Quick, Easy And Affordable",
-      "excerpt": "A host of software tools, code samples, an app store, and pre-configured Linux images make getting started surprisingly simple.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/marcochiappetta/2022/06/22/amd-xilinx-makes-machine-vision-ai-development-quick-easy-and-affordable/",
-      "originalUrl": "https://www.forbes.com/sites/marcochiappetta/2022/06/22/amd-xilinx-makes-machine-vision-ai-development-quick-easy-and-affordable/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62b37f46922813ea4349c831/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 727,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/marcochiappetta/2022/06/22/amd-xilinx-makes-machine-vision-ai-development-quick-easy-and-affordable/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/marcochiappetta/2022/06/22/amd-xilinx-makes-machine-vision-ai-development-quick-easy-and-affordable/amp/",
-      "publishedDateTime": "2022-06-22T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-biomech-elizur-announce-partnership-integrating-ai-enabled-motion-analytics-into-physical-therapy-solution.md",
-      "title": "BioMech, ēlizur Announce Partnership Integrating AI-Enabled Motion Analytics into Physical Therapy Solution",
-      "excerpt": "BioMech Health and ēlizur announce an agreement to integrate BioMech Lab Into the Shoulder Strengthening and Stabilization System (SSS).",
-      "sourceUrl": null,
-      "webUrl": "https://ptproductsonline.com/exercise-rehab/biomech-elizur-announce-partnership-integrating-ai-enabled-motion-analytics-into-physical-therapy-solution/",
-      "originalUrl": "https://ptproductsonline.com/exercise-rehab/biomech-elizur-announce-partnership-integrating-ai-enabled-motion-analytics-into-physical-therapy-solution/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://ptproductsonline.com/wp-content/uploads/2022/06/integration.jpg",
-          "width": 978,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Physical Therapy Products",
-        "domain": "ptproductsonline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-can-we-make-artificial-intelligence-less-racist.md",
-      "title": "Can we make artificial intelligence less racist?",
-      "excerpt": "Three years ago, a Georgia Tech study uncovered a major flaw in self-driving vehicles ... were testing how accurately the vehicles’ artificial intelligence–based object detection models ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.thespec.com/ts/business/mars/2022/06/22/can-we-make-artificial-intelligence-less-racist.html",
-      "originalUrl": "https://www.thespec.com/ts/business/mars/2022/06/22/can-we-make-artificial-intelligence-less-racist.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T12:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Hamilton Spectator",
-        "domain": "thespec.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-panasas-joins-mlcommons-to-advance-machine-learning-storage-innovation.md",
-      "title": "Panasas Joins MLCommons to Advance Machine Learning Storage Innovation",
-      "excerpt": "MLCommons invited Panasas to attend the foundational meetings, after which Curtis Anderson, software architect at Panasas, was named co-chair. \"The end goal of the MLPerf Storage",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/06/22/9626840.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/06/22/9626840.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-22T11:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -47,6 +47,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Why Tesla Thinks It'll Build Self-Driving Cars Before Everyone Else"
+    excerpt: "Their job is to process video from the fleet of Tesla cars on the road today to learn how real-world driving works. That training process is the foundation for the FSD, short for Full Self Driving ..."
+    publishedDateTime: 2022-08-25T07:44:00Z
+    webUrl: "https://www.cnet.com/roadshow/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 89
+    images:
+      - url: "https://www.cnet.com/a/img/resize/271a46fb3adb415aeca54f56d60baeddc11e3033/2022/08/24/0f2b65be-0d7e-461e-b630-2d3103b9c76e/tesla-d1-dojo-chip.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Tesla raises price of feature it calls 'full self-driving' to US$15,000"
     excerpt: "Tesla is raising the price of its controversial driver-assist feature it calls \"full self-driving\" to US$15,000. Tesla CEO Elon Musk has said for years that the price of \"full self-driving\" would ..."
     publishedDateTime: 2022-08-23T23:58:00Z

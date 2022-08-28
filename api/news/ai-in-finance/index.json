@@ -223,10 +223,10 @@
     {
       "path": "_news/2022-08-20-bitooda-partners-with-coreweave-to-deliver-high-performance-compute-solutions-for-financial-markets.md",
       "title": "BitOoda Partners with CoreWeave to Deliver High Performance Compute Solutions for Financial Markets",
-      "excerpt": "BitOoda, a pioneering Digital Asset investment Bank, announced a partnership with CoreWeave, the leading specialized cloud provider of high-performance compute solutions. The partnership will accelerate the penetration of CoreWeave's services for compute-heavy workloads in financial applications.",
+      "excerpt": "BitOoda, a pioneering Digital Asset investment Bank, announced a partnership with CoreWeave, the leading specialized cloud provider of high-performance compute solutions. The partnership will accelerate the penetration of CoreWeave’s services for compute-heavy workloads in financial applications.",
       "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/08/19/9659533.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/08/19/9659533.htm",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-19-bitooda-partners-with-coreweave-to-deliver-high-performance-compute-solutions-for-financial-markets",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-19-bitooda-partners-with-coreweave-to-deliver-high-performance-compute-solutions-for-financial-markets",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -236,11 +236,11 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T15:06:00-07:00",
+      "publishedDateTime": "2022-08-19T15:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -506,6 +506,59 @@
       ]
     },
     {
+      "path": "_news/2022-08-16-integrateai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data.md",
+      "title": "integrate.ai Announces Availability of New Platform for Collaborative Machine Learning and Analytics Across Sensitive Data",
+      "excerpt": "TORONTO, (BUSINESS WIRE) -- integrate.ai, a SaaS company helping developers solve the world’s most important problems without risking sensitive data,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/integrateai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data-2022-08-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/integrateai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data-2022-08-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T06:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies.md",
       "title": "Community Financial Institutions Gain Access to AI-Powered Personalization Through Combined DeepTarget & CognitiveScale Technologies",
       "excerpt": "Financial Education Technology Company Elevates Its Digital Experience Platform™ (DXP) & 3D Story™ to a New Level of Personalization powered by Machine Learning from AI Technology Leader AUSTIN, TX / ACCESSWIRE / August 16,",
@@ -546,41 +599,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-integrateai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data.md",
-      "title": "integrate.ai Announces Availability of New Platform for Collaborative Machine Learning and Analytics Across Sensitive Data",
-      "excerpt": "Traditional approaches to machine learning and analytics require centralization and ... In the heavily regulated worlds of healthcare, financial services, and manufacturing, roadblocks to collaborating with sensitive data abound – from existing and ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/integrate-ai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data",
-      "originalUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/integrate-ai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     },
     {

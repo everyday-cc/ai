@@ -2,6 +2,143 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-23-florida-holds-primary-elections-that-will-decide-who-will-face-off-against-superstar-gop-gov-ron-desantis-in-november.md",
+      "title": "Florida holds primary elections that will decide who will face off against superstar GOP Gov. Ron DeSantis in November",
+      "excerpt": "The Democratic nomination for US Senate is expected to go to Rep. Val Demings, a former Orlando police chief who'd face off against GOP Sen. Marco Rubio.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8",
+      "originalUrl": "https://www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6303e6c2c9a2da00180920c2?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8?amp",
+      "publishedDateTime": "2022-08-23T08:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word.md",
+      "title": "Capitol Records blasted for promoting AI rapper FN Meka using n word",
+      "excerpt": "Capitol Records blasted for promoting an AI rapper named FN Meka that was created by a white man and uses the n word",
+      "sourceUrl": null,
+      "webUrl": "https://bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/",
+      "originalUrl": "https://bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bossip.com/wp-content/uploads/sites/28/2022/08/16612612898745.jpg?w=560&h=320&crop=1&strip=all&quality=80",
+          "width": 560,
+          "height": 320,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/amp/",
+      "cdnAmpWebUrl": "https://bossip-com.cdn.ampproject.org/c/s/bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/amp/",
+      "publishedDateTime": "2022-08-23T08:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bossip",
+        "domain": "bossip.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-ai-assessment-of-breathing-pattern-aids-in-parkinsons-diagnosis.md",
+      "title": "AI Assessment of Breathing Pattern Aids in Parkinson’s Diagnosis",
+      "excerpt": "Relying mainly on the advent of motor symptoms like stiffness, slowness, and tremors, Parkinson’s disease is extremely challenging to detect. However, these symptoms usually occur after many years of disease onset.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=13174",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=13174",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 179,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13174_1661249402144469.jpg",
+          "width": 554,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=13174",
+      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=13174",
+      "publishedDateTime": "2022-08-23T07:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain.md",
       "title": "AI Can’t Be Fooled By GameStop’s Pivot To NFTs And Blockchain",
       "excerpt": "The company has been struggling for profitability, and is now looking to pivot to a digital first strategy, built on blockchain and web 3.0 gaming and an NFT marketplace.",
@@ -166,7 +303,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/23/how-artificial-intelligence-can-improve-organizational-decision-making/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -208,6 +345,57 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-ai-startup-anyscale-adds-99-million-to-andreessen-horowitz-led-funding-round.md",
+      "title": "AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round",
+      "excerpt": "The company initially announced a $100 million Series C venture investment round led by Andreessen Horowitz in December.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?tpl=vc",
+      "originalUrl": "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?tpl=vc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-608499/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     },
     {
@@ -399,6 +587,49 @@
         "AI",
         "Machine Learning",
         "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-language-translation-device-market-to-hit-usd-25-bn-by-2030-says-global-market-insights-inc.md",
+      "title": "Language Translation Device Market to hit USD 2.5 Bn by 2030, Says Global Market Insights Inc.",
+      "excerpt": "Major language translation device market participants include Sourcenext Inc., Jarvisen (iFLYTEK), Cheetah Mobile, Inc., Vasco Electronics LLC, Waverly Labs Inc., and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/08/n28596363/language-translation-device-market-to-hit-usd-2-5-bn-by-2030-says-global-market-insights-inc",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/n28596363/language-translation-device-market-to-hit-usd-2-5-bn-by-2030-says-global-market-insights-inc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1883515/Language_Translation_Device_Market.jpg",
+          "width": 400,
+          "height": 209,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28596363",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28596363",
+      "publishedDateTime": "2022-08-23T03:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -995,221 +1226,6 @@
         "Computer Vision",
         "AI",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans.md",
-      "title": "Google Gave Its Helper Robots AI Language Skills to Better Work With Humans",
-      "excerpt": "Google has started to close the gap by marrying the latest language AI with state-of-the-art robots ... created new control software that taps into PaLM’s language skills to translate spoken or written commands from a human into the actions required ...",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/",
-      "originalUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/08/Google-everyday-robots.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
-      "publishedDateTime": "2022-08-22T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now.md",
-      "title": "2 Artificial Intelligence Growth Stocks Down 84% and 92% to Buy Now",
-      "excerpt": "Shares of Upstart Holdings (NASDAQ: UPST) and Lemonade (NYSE: LMND) currently trade 92% and 84% off their highs, respectively, but both AI stocks could produce market-crushing returns in the years ahead.",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now",
-      "originalUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/2-artificial-intelligence-growth-stocks-down-84-and-92-to-buy-now?amp",
-      "publishedDateTime": "2022-08-22T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-honeywell-shrinks-the-industrial-skills-gap-with-ai.md",
-      "title": "Honeywell Shrinks The Industrial Skills Gap With AI",
-      "excerpt": "Massive labor shortages will require companies to rethink how technology can help their clients thrive in such an untenable position.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/maribellopez/2022/08/22/honeywell-shrinks-the-industrial-skills-gap-with-ai/",
-      "originalUrl": "https://www.forbes.com/sites/maribellopez/2022/08/22/honeywell-shrinks-the-industrial-skills-gap-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/63027314dced4a5c05f3e7ef/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/maribellopez/2022/08/22/honeywell-shrinks-the-industrial-skills-gap-with-ai/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/maribellopez/2022/08/22/honeywell-shrinks-the-industrial-skills-gap-with-ai/amp/",
-      "publishedDateTime": "2022-08-22T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-graymatter-robotics-raises-20m-in-series-a-funding.md",
-      "title": "GrayMatter Robotics Raises $20M in Series A Funding",
-      "excerpt": "GrayMatter Robotics, an artificial intelligence robotics solutions company, announced last week it raised $20 million in Series A investment led by Bow Capital and joined by B Capital Group, Calibrate Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://labusinessjournal.com/technology/graymatter-robotics-raises-20m-in-series-a-funding/",
-      "originalUrl": "https://labusinessjournal.com/technology/graymatter-robotics-raises-20m-in-series-a-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3evu7qlt2vui6.cloudfront.net/wp-content/uploads/2022/08/PG04_GRAYMATTER_0822_scansand-scaled-e1660932740192.jpeg",
-          "width": 1162,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Business Journal",
-        "domain": "labusinessjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills.md",
-      "title": "How to become an AI Engineer? Check out to know education, roles and skills",
-      "excerpt": "In fact, there has been a massive 154% growth in the worldwide AI market. Artificial Intelligence impacts how machines may improve human life, from driverless automobiles to android systems in phones, apps, and other electronic gadgets. And to maintain and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.telegraphindia.com/edugraph/career/how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills/cid/1881672",
-      "originalUrl": "https://www.telegraphindia.com/edugraph/career/how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills/cid/1881672",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.telegraphindia.com/telegraph/2022/Aug/1661151572_untitled-3.jpg",
-          "width": 428,
-          "height": 285,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.telegraphindia.com/amp/edugraph/career/how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills/cid/1881672",
-      "cdnAmpWebUrl": "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/edugraph/career/how-to-become-an-ai-engineer-check-out-to-know-education-roles-and-skills/cid/1881672",
-      "publishedDateTime": "2022-08-22T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "telegraphindia.com",
-        "domain": "telegraphindia.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Education"
       ]
     }
   ],

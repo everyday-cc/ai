@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-28-save-money-and-time-with-this-discounted-voice-transcription-tool.md",
+      "title": "Save money and time with this discounted voice transcription tool",
+      "excerpt": "Unfortunately, the ensuing transcription process can be tedious and time-consuming unless you have the right tools. The Voicetapp Speech-to-Text Transcription app is designed to turn speech into text with a wide range accurately.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/save-money-and-time-with-this-discounted-voice-transcription-tool/",
+      "originalUrl": "https://www.zdnet.com/article/save-money-and-time-with-this-discounted-voice-transcription-tool/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/0fbe20e62a2990db89dce2cde0609b94f773f980/2022/08/25/7e74fefe-a2fd-4cbc-a63a-23bed18e527d/zd-voicetapp-speec.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/save-money-and-time-with-this-discounted-voice-transcription-tool/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/save-money-and-time-with-this-discounted-voice-transcription-tool/",
+      "publishedDateTime": "2022-08-27T20:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-28-solve-the-problem-of-unstructured-data-with-machine-learning.md",
       "title": "Solve the problem of unstructured data with machine learning",
       "excerpt": "As unstructured data is used in more business decisions and ops, ML-based quality controls help ensure your data is accurate and useful.",
@@ -10,7 +62,7 @@
       "originalUrl": "https://venturebeat.com/data-infrastructure/solve-the-problem-of-unstructured-data-with-machine-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 90,
       "tags": null,
       "images": [
         {
@@ -423,7 +475,7 @@
       "originalUrl": "https://www.zdnet.com/article/5-exciting-applications-for-artificial-intelligence/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 88,
       "tags": null,
       "images": [
         {
@@ -735,7 +787,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-2022-size-share-sales-growth-dynamics-top-vendors-and-forecast-to-2028-2022-08-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 132,
+      "heat": 102,
       "tags": null,
       "images": [
         {
@@ -1172,49 +1224,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-can-artificial-intelligence-improve-colorectal-cancer-recurrence-prediction.md",
-      "title": "Can Artificial Intelligence Improve Colorectal Cancer Recurrence Prediction",
-      "excerpt": "Using artificial intelligence (AI), scientists have created an algorithm to improve the prediction of colorectal cancer recurrence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/can-artificial-intelligence-improve-colorectal-cancer-recurrence-prediction-208408-1.htm",
-      "originalUrl": "https://www.medindia.net/news/can-artificial-intelligence-improve-colorectal-cancer-recurrence-prediction-208408-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/colon-cancer.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/can-artificial-intelligence-improve-colorectal-cancer-recurrence-prediction-208408-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-improve-colorectal-cancer-recurrence-prediction-208408-1.htm",
-      "publishedDateTime": "2022-08-25T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -1,21 +1,31 @@
 ---
 category: news
 title: "integrate.ai Announces Availability of New Platform for Collaborative Machine Learning and Analytics Across Sensitive Data"
-excerpt: "Traditional approaches to machine learning and analytics require centralization and ... In the heavily regulated worlds of healthcare, financial services, and manufacturing, roadblocks to collaborating with sensitive data abound – from existing and ..."
-publishedDateTime: 2022-08-16T00:00:00Z
-originalUrl: "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/integrate-ai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data"
-webUrl: "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/integrate-ai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data"
+excerpt: "TORONTO, (BUSINESS WIRE) -- integrate.ai, a SaaS company helping developers solve the world’s most important problems without risking sensitive data,"
+publishedDateTime: 2022-08-16T13:05:00Z
+originalUrl: "https://www.marketwatch.com/press-release/integrateai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data-2022-08-16"
+webUrl: "https://www.marketwatch.com/press-release/integrateai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data-2022-08-16"
 type: article
 
 provider:
-  name: Financial Post
-  domain: financialpost.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-secured: "2b5a3I5CAY1fG05pwiow3ZHFPI/c5rOGqxxoP+tzPHZNCn2qGiY4bkatT68KFT2NrLvv4/Jd4OqXfF9PopdxuS5DOItqX0K3y02DlGD4c5YjxrnNF/ul7B+kh4pN4GtmK4w3WyGag4P7Poy4HH/L+wSgmxQmiTVnP391P1mUNHhwwyNCjDUoQJgu266cLwa9JAGVjgPYA0AGl7vDJJFNkVx3+V5q6820LBWmtKmDgkFp/UKCzVz+UtTtKXa+fbWd3Qdg13lKiIxbFj0Xf8jseLBKvapbNj59UmKkxbGkpPlK9kMKU5qGD50mrt+nqZcFD92gnRPV3gj/or9bKkhEGYDBB1+ec/majCKWSDjahsg=;r/T+JpDsT1o2iMjkfNAc/g=="
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+secured: "Mtj33k0XEM14NV3THCuCNNZ0sEtF1FM2jsx2ZbjLgxroIJpjD9QdC8/BMKBbrAasjpWUTpqkVABdP4BDJLWUug3v2Wc0sQMdk2xnCPIOadciQycRfWI4WbYlgZTFgsLkHd9nSVGNTNZdU3IFnktfVux7UJUQttPSnUnRZP1PoAvcFUmzKDUfPTtqRVyC8qQ4M2Go8VgXEPWOz7K+CyqwduY1Dz3rJsolMEGZDFS5OO6K8K4TnAGMNynTAPtRLUaukpQGnAVufHZHCsVojHdL0+M0tdkFanuJZGswrPQPRN2B+M9kDiMU7/KHZzYpa21qCoyT0NWJh2O9DDuoR2ts77NXOJXOG8C+YyIYoUCbHQ4=;Eby8Q1aJnoDtYxHRqHHIKw=="
 ---
 
