@@ -6,9 +6,6 @@ publishedDateTime: 2022-08-25T16:56:00Z
 originalUrl: "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
 webUrl: "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
 type: article
-quality: 69
-heat: 89
-published: true
 
 provider:
   name: PC Magazine
@@ -22,44 +19,6 @@ topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://sm.pcmag.com/t/pcmag_uk/news/a/ai-startup/ai-startup-wants-to-make-foreign-call-center-employees-sound_3ra4.1200.jpg"
-    width: 1200
-    height: 675
-    isCached: true
-
-related:
-  - title: "The AI startup erasing call center worker accents: is it fighting bias – or perpetuating it?"
-    excerpt: "A Silicon Valley startup offers voice-altering tech to call center workers around the world: ‘Yes, this is wrong … but a lot of things exist in the world’"
-    publishedDateTime: 2022-08-24T13:13:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 48
-    images:
-      - url: "https://i.guim.co.uk/img/media/b78a80dcbe5e356a1d5b5cdcb8bec72fd38da9e8/453_682_6496_3898/master/6496.jpg?width=620&quality=85&auto=format&fit=max&s=506613242ac1f196cf1c3c70b0c77f6a"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "AI tech can make foreign call centre workers sound ‘like us’, but we should respect different accents"
-    excerpt: "Perhaps I could have done with new voice-changing technology that makes you sound more “Western”. Sanas, a Silicon Valley startup, is offering tech that enables call centre workers around the world to sound less foreign."
-    publishedDateTime: 2022-08-27T08:00:00Z
-    webUrl: "https://inews.co.uk/opinion/ai-tech-foreign-call-centre-workers-different-accents-1817526"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 22
-    images:
-      - url: "https://wp.inews.co.uk/wp-content/uploads/2022/08/SEI_121192344.jpg"
-        width: 2500
-        height: 1667
-        isCached: true
-
-secured: "7tUGrjDVsgq6Ja3YeYg2P3L8bEgrbQ8qgc/fc9730BjK9Z6+T7NqCCssQ8ONepmEb7+KAfOwRGY6S5CR0VVVQWBaX9jI0nxpN8DCWfW/ZU3nMh7htugx3Uow3CvYZD6utQ3Svmb2VJNGUXCtTmTgUqNlivnRhOBJnyng9Jf6d2fMTYcrRsIu6TMcWa1tKZTgIsZkS9u2EkMx5QptwjyLhUD5GypVR7UdtKoeZXHGhPF1JFNpAzluIEljU0EwMDVJ5UIjCYObI3Sd0u3t861PHN03ntPVNje7dzyrRvVDeiEvLIXmkCoHVa8GVuR9KKs/LJvvBNeo3AJjKIz78LzuD0BjjEr6AXxTs0SAjN4QyIQ=;R96vxulbkogPexUy9i59kQ=="
+secured: "CPf02Ze+MHoHUfPTecsGnqI7zTXCz3D5out99KVMP0o0roe7X0M4qqrvZIKQ2y8RqBVtdHPq/8pJhlcxVZAuDaGqnSUTpR5pMKcbhHDLWdtOXB8aczELL3e/x/hq1RggLy2nOUkbx7ay+nGCCeXTavsQBp5xEwvE5/OcCh4C9sdHUeqe4fu5oImFGU2iCJ42nIS8hMwPa6OfoWzR0e/8fM3Jr8zRpjzuj1scppiQWxKMgqs5POR1OgsOlo4GI5YaPIthgQ3bbkpL/90i5Zb8wQZXOsl6Jy1DqxXyKxii3essjt0zGlnbHwT7+ZYK0RIxIoftnt4H/2HPAibEjJwj0SyhCYTh7LYSWATVVNQH6yV8BK9fFbW10Wo0dl3YJWFxthbvG+ne1EenZJWF70rcM0pCiDo1k7uu0OYJPTpfE5ussqFRybb21o9sLggTYsazUNY2dJYFXAU7nJvlrTbPUYDy5+gMh63G3RSICDrZdck6BF6zHOsZ8k11Db+7GrAM4nkNm2Q5S530SKG5Db5M1Q==;Yoxl4/wF/hDj3PUiNHqTqg=="
 ---
 
