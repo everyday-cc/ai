@@ -2,6 +2,144 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-19-groups-have-questions-about-how-facial-recognition-technology-impact-black-people.md",
+      "title": "Groups have questions about how facial recognition technology impact Black people",
+      "excerpt": "Simply put, the technology–with varying degrees of accuracy–has difficulty identifying faces, especially Black and brown ones, under less-than-ideal circumstances. “This technology is ...",
+      "sourceUrl": null,
+      "webUrl": "https://thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/",
+      "originalUrl": "https://thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thegrio.com/wp-content/uploads/2019/12/Facial-Recognition.jpg",
+          "width": 1250,
+          "height": 805,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/amp/",
+      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/amp/",
+      "publishedDateTime": "2022-08-19T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Grio",
+        "domain": "thegrio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-ring-camera-recordings-exposed-due-to-vulnerability-in-android-app.md",
+      "title": "Ring Camera Recordings Exposed Due to Vulnerability in Android App",
+      "excerpt": "A vulnerability patched recently by Amazon in the Android app for its Ring surveillance cameras exposed user data and video recordings, according to cybersecurity firm Checkmarx, whose researchers identified the flaw.",
+      "sourceUrl": null,
+      "webUrl": "https://www.securityweek.com/ring-camera-recordings-exposed-due-vulnerability-android-app",
+      "originalUrl": "https://www.securityweek.com/ring-camera-recordings-exposed-due-vulnerability-android-app",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png",
+          "width": 256,
+          "height": 256,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-19T08:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Security Week",
+        "domain": "securityweek.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-19-whirlpool-ceo-ai-is-making-kitchens-and-appliances-smarter.md",
+      "title": "Whirlpool CEO: AI is making kitchens and appliances smarter",
+      "excerpt": "Marc Bitzer reveals why Whirlpool is a magnet for AI tech experts.",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/videos/watch/whirlpool-ceo%3A-ai-is-making-kitchens-and-appliances-smarter-/7c21f374-e607-4cb5-845d-f4674a9d6e52",
+      "originalUrl": "https://fortune.com/videos/watch/whirlpool-ceo%3A-ai-is-making-kitchens-and-appliances-smarter-/7c21f374-e607-4cb5-845d-f4674a9d6e52",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/7c21f374-e607-4cb5-845d-f4674a9d6e52/Images/posterImage-ver1-1280x720.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/whirlpool-ceo%3A-ai-is-making-kitchens-and-appliances-smarter-/7c21f374-e607-4cb5-845d-f4674a9d6e52/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/whirlpool-ceo%3A-ai-is-making-kitchens-and-appliances-smarter-/7c21f374-e607-4cb5-845d-f4674a9d6e52/amp",
+      "publishedDateTime": "2022-08-19T08:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-nvidia-will-disclose-grace-hopper-architectural-details-at-hot-chips.md",
       "title": "Nvidia will disclose Grace Hopper architectural details at Hot Chips",
       "excerpt": "Nvidia is delivering four technical presentations at next week's Hot Chips focused on the Grace CPU, Hopper GPU, Orin SoC and NVLink.",
@@ -1024,153 +1162,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-h20ais-prashant-natarajan-on-ai-and-computer-vision.md",
-      "title": "H20.ai’s Prashant Natarajan on AI and Computer Vision",
-      "excerpt": "I spoke with Prashant Natarajan, VP of Strategy & Products at H2O.ai, about the development and potential of the computer vision sector, including the role of deep learning technology. As you survey the computer vision market,",
-      "sourceUrl": null,
-      "webUrl": "https://www.eweek.com/cloud/ai-and-computer-vision/",
-      "originalUrl": "https://www.eweek.com/cloud/ai-and-computer-vision/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.eweek.com/wp-content/uploads/2022/08/eSPEAKS-thumbnail-4.png",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-18T15:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "eWeek",
-        "domain": "eweek.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/eweek.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-can-we-replicate-humanness-in-a-robots-behavior.md",
-      "title": "Can We Replicate Humanness In A Robot’s Behavior?",
-      "excerpt": "Researchers at Istituto Italiano di Tecnologia are looking at why its possible to create humanness in robotic behavior.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/jenniferhicks/2022/08/18/is-it-possible-to-replicate-humanness-in-a-robots-behavior/",
-      "originalUrl": "https://www.forbes.com/sites/jenniferhicks/2022/08/18/is-it-possible-to-replicate-humanness-in-a-robots-behavior/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f3efa554d746cc809bd91b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/jenniferhicks/2022/08/18/is-it-possible-to-replicate-humanness-in-a-robots-behavior/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/jenniferhicks/2022/08/18/is-it-possible-to-replicate-humanness-in-a-robots-behavior/amp/",
-      "publishedDateTime": "2022-08-18T15:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-googles-deepmind-ai-can-transframe-a-single-image-into-a-video.md",
-      "title": "Google’s DeepMind AI can ‘transframe’ a single image into a video",
-      "excerpt": "Earlier this week, the team behind Google’s advanced DeepMind neural network unveiled a new ability dubbed Transframer, which allows AI to generate 30-second videos from a single image input. It’s a nifty little trick at first glance,",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/technology/one-image-video-deepmind/",
-      "originalUrl": "https://www.popsci.com/technology/one-image-video-deepmind/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2022/08/18/deepmind-ai-video-from-image.jpg?auto=webp",
-          "width": 2000,
-          "height": 1500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/technology/one-image-video-deepmind/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/one-image-video-deepmind/?amp",
-      "publishedDateTime": "2022-08-18T15:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
         "AI"
       ]
     }

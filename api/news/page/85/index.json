@@ -2,6 +2,134 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2022-06-20-artificial-intelligence-may-diagnose-dementia-as-accurately-as-clinicians.md",
+      "title": "Artificial intelligence may diagnose dementia as accurately as clinicians",
+      "excerpt": "June 20 (UPI) --To solve the conundrum of how to get timely medical care to people with memory loss or other impaired cognitive functioning, a new study suggests that artificial intelligence may ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.upi.com/Health_News/2022/06/20/Alzheimers-dementia-diagnosis-artificial-intelligence-Boston-University-study/4591655741676/",
+      "originalUrl": "https://www.upi.com/Health_News/2022/06/20/Alzheimers-dementia-diagnosis-artificial-intelligence-Boston-University-study/4591655741676/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-19T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "UPI.com",
+        "domain": "upi.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-20-dall-e-mini-everything-to-know-about-the-strange-ai-art-creator.md",
+      "title": "Dall-E Mini: Everything to Know About the Strange AI Art Creator",
+      "excerpt": "Dall-E Mini, an AI tool capturing attention on social media thanks to the weird, funny and occasionally disturb",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/culture/dall-e-mini-everything-to-know-about-the-strange-ai-art-creator/",
+      "originalUrl": "https://www.cnet.com/culture/dall-e-mini-everything-to-know-about-the-strange-ai-art-creator/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 117,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/9fa7f29c17d7567ce910aa00dd74dcd88ae8faaf/2022/06/14/5b9aa6e4-3e9e-4dc4-81f8-4685f7d0b64f/screen-shot-2022-06-14-at-10-41-06-am-cropped.png?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/dall-e-mini-everything-to-know-about-the-strange-ai-art-creator/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/dall-e-mini-everything-to-know-about-the-strange-ai-art-creator/",
+      "publishedDateTime": "2022-06-19T15:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-20-brainchip-partners-with-prophesee-optimizing-computer-vision-ai-performance-and-efficiency.md",
+      "title": "BrainChip Partners with Prophesee Optimizing Computer Vision AI Performance and Efficiency",
+      "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / June 19, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world's first commercial producer of neuromorphic AI IP, and Prophesee, the inventor of the world's most advanced neuromorphic vision systems,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bignewsnetwork.com/news/272591460/brainchip-partners-with-prophesee-optimizing-computer-vision-ai-performance-and-efficiency",
+      "originalUrl": "https://www.bignewsnetwork.com/news/272591460/brainchip-partners-with-prophesee-optimizing-computer-vision-ai-performance-and-efficiency",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.bignewsnetwork.com/cus1656315095168.jpg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-19T14:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Big News Network.com",
+        "domain": "bignewsnetwork.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-20-bgsu-professor-qing-tian-working-on-improving-safety-of-self-driving-cars.md",
       "title": "BGSU professor Qing Tian working on improving safety of self-driving cars",
       "excerpt": "From BGSU OFFICE OF MARKETING & BRAND STRATEGY. As auto makers continue to explore the possibility of self-driving cars, a Bowling Green State University professor is conducting r",
@@ -1047,144 +1175,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-the-truth-about-ai-and-roi-can-artificial-intelligence-really-deliver.md",
-      "title": "The truth about AI and ROI: Can artificial intelligence really deliver?",
-      "excerpt": "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! More than ever, organizations are putting their confidence – and investment –  into the potential of artificial intelligence (AI) and machine learning (ML).",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/17/the-truth-about-ai-and-roi-can-artificial-intelligence-really-deliver/",
-      "originalUrl": "https://venturebeat.com/2022/06/17/the-truth-about-ai-and-roi-can-artificial-intelligence-really-deliver/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1359132436.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/17/the-truth-about-ai-and-roi-can-artificial-intelligence-really-deliver/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/17/the-truth-about-ai-and-roi-can-artificial-intelligence-really-deliver/amp/",
-      "publishedDateTime": "2022-06-17T07:53:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-drivers-of-self-driving-cars-can-rely-too-much-on-autopilot-and-thats-a-recipe-for-disaster.md",
-      "title": "Drivers of self-driving cars can rely too much on autopilot, and that's a recipe for disaster",
-      "excerpt": "We were promised a very near future where autonomous machines would be serving our needs and vehicle ownership would be rendered unnecessary: robots would quickly and efficiently deliver our orders and we could squeeze in a few more hours of work or sleep while being chauffeured around in self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.html",
-      "originalUrl": "https://techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-drivers-self-driving-cars-autopilot-recipe.amp",
-      "publishedDateTime": "2022-06-17T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-amy-raises-6m-to-help-enterprises-sell-better-with-ai.md",
-      "title": "Amy raises $6M to help enterprises sell better with AI",
-      "excerpt": "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! Israeli startup Amy, which provides an AI-driven solution to help enterprise reps build better ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/17/amy-raises-6m-to-help-enterprises-sell-better-with-ai/",
-      "originalUrl": "https://venturebeat.com/2022/06/17/amy-raises-6m-to-help-enterprises-sell-better-with-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1097999080-Thomas-Barwick.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/17/amy-raises-6m-to-help-enterprises-sell-better-with-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/17/amy-raises-6m-to-help-enterprises-sell-better-with-ai/amp/",
-      "publishedDateTime": "2022-06-17T06:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

@@ -47,7 +47,7 @@ related:
     provider:
       name: CNET
       domain: cnet.com
-    quality: 89
+    quality: 91
     images:
       - url: "https://www.cnet.com/a/img/resize/271a46fb3adb415aeca54f56d60baeddc11e3033/2022/08/24/0f2b65be-0d7e-461e-b630-2d3103b9c76e/tesla-d1-dojo-chip.jpg?auto=webp&fit=crop&height=630&width=1200"
         width: 1200

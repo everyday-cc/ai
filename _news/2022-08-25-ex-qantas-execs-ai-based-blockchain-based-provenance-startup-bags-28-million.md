@@ -7,7 +7,7 @@ originalUrl: "https://www.startupdaily.net/topic/funding/ex-qantas-execs-ai-base
 webUrl: "https://www.startupdaily.net/topic/funding/ex-qantas-execs-ai-based-blockchain-based-provenance-startup-bags-28-million/"
 type: article
 quality: 33
-heat: -1
+heat: 33
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Can’t Be Fooled By GameStop’s Pivot To NFTs And Blockchain"
-    excerpt: "The company has been struggling for profitability, and is now looking to pivot to a digital first strategy, built on blockchain and web 3.0 gaming and an NFT marketplace."
-    publishedDateTime: 2022-08-23T14:43:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2022/08/23/ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2022/08/23/ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/08/23/ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6304e73098803cc60c9de1d7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "XRPL Awards Second Grant to AnChain.AI, Delivering Industry Leading Blockchain Intelligence to XRPL Developers"
     excerpt: "This grant further expands upon AnChain.AI's initial award, through which the AnChain team integrated XRPL transaction data into its BEI blockchain intelligence platform, bringing unprecedented transaction monitoring and KYW (Know Your Wallet) capabilities to the entire XRPL developer base."
     publishedDateTime: 2022-08-23T15:46:00Z

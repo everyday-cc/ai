@@ -21,22 +21,6 @@ topics:
   - AI
 
 related:
-  - title: "AI Assessment of Breathing Pattern Aids in Parkinson’s Diagnosis"
-    excerpt: "Relying mainly on the advent of motor symptoms like stiffness, slowness, and tremors, Parkinson’s disease is extremely challenging to detect. However, these symptoms usually occur after many years of disease onset."
-    publishedDateTime: 2022-08-23T14:52:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13174"
-    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=13174"
-    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=13174"
-    type: article
-    provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 59
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13174_1661249402144469.jpg"
-        width: 554
-        height: 600
-        isCached: true
   - title: "Now AI can detect Parkinson's disease while you are sleeping"
     excerpt: "Parkinson's disease, a central nervous system disorder that affects movement, sometimes causing tremors, doesn't come with a warning. It is the world's second-most common neurolog"
     publishedDateTime: 2022-08-24T06:45:00Z

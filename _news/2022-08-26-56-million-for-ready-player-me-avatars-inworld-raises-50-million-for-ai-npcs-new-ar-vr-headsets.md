@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/charliefink/2022/08/25/56-million-for
 webUrl: "https://www.forbes.com/sites/charliefink/2022/08/25/56-million-for-ready-player-me-avatars-inworld-raises-50-million-for-ai-npcs-new-ar-vr-headsets/"
 type: article
 quality: 52
-heat: 62
+heat: 52
 published: false
 
 provider:
@@ -26,17 +26,6 @@ images:
     width: 1200
     height: 675
     isCached: true
-
-related:
-  - title: "Disney-backed Inworld raises new cash for its AI-powered virtual characters"
-    excerpt: "Inworld, which is developing a platform that allows customers to create AI-powered virtual characters with personality and common knowledge, has raised $50 million in a new venture round."
-    publishedDateTime: 2022-08-23T13:17:00Z
-    webUrl: "https://techcrunch.com/2022/08/23/disney-backed-inworld-raises-new-cash-from-for-its-ai-powered-virtual-characters/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 45
 
 secured: "kGHUkMGK+kngxBI1cpe25tndVW6rXE4KMU51EeCZr/zPaykiY1K4q/ebwr5h1/vkROa1wvMEz2Hn1QEVXDIPc5FbCOBLsuqiOBqzX5EBi4rqa6/xS+jYk50Q5YXXdvopEG1QhwkAuO5wmvqhGDPjGaJ5edKidlzcmgMHxAfzwzlmdbhaUKaoR9UkMTliPrcp2yyxsjqeZdvOU2hvh8qerhRpxV9JzVmqBCS1ETxq4ugfw7SirSJnPXhXyEzfrJ/3iPr2RSu3144YIpHC/wFVDLnzeOljmRbxl8hDIXBYuqmgUUCTpRqyrArQBT+LZxwOdtDTRhWGiAxGhpBydlKxGIoQQeGWFpcD34pPAQV6UJdIWnc9R23M651H7QnVjJH3lzCklqKAwYq83Q98T+/RhnGgGjDjXTTrKKAxFdqIjdfCKqD7fo7Tfag5NHKmXObCk7Eufwq3V+3XKoUyn+V7o8vrLav/EhkBmZwl4V5zBu9uM5mmoJklZuoUb1HaIuF+a6EwK2znTET6OMtFb+08NA==;j13cVIxC6Xrtq31n+5JujQ=="
 ---

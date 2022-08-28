@@ -18,22 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "AI Can’t Be Fooled By GameStop’s Pivot To NFTs And Blockchain"
-    excerpt: "The company has been struggling for profitability, and is now looking to pivot to a digital first strategy, built on blockchain and web 3.0 gaming and an NFT marketplace."
-    publishedDateTime: 2022-08-23T14:43:00Z
-    webUrl: "https://www.forbes.com/sites/qai/2022/08/23/ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain/"
-    ampWebUrl: "https://www.forbes.com/sites/qai/2022/08/23/ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/qai/2022/08/23/ai-cant-be-fooled-by-gamestops-pivot-to-nfts-and-blockchain/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/6304e73098803cc60c9de1d7/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Ex Qantas exec’s AI-based blockchain-based provenance startup bags $28 million"
     excerpt: "The round in Jamila Gordon's Lumachain was led by US VC Bessemer Venture Partners as the business ramps up its US focus."
     publishedDateTime: 2022-08-24T23:17:00Z

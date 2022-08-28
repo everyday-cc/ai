@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/run-image-segmentati
 webUrl: "https://aws.amazon.com/blogs/machine-learning/run-image-segmentation-with-amazon-sagemaker-jumpstart/"
 type: article
 quality: 69
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -32,20 +32,6 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 64
-  - title: "Amazon Announces New Capabilities on Local Environments for SageMaker Canvas and Pipelines"
-    excerpt: "Subscribe for free. Business analysts can create reliable ML forecasts on their own with SageMaker Canvas, a visual point-and-click interface, without any prior machine learning knowledge or ..."
-    publishedDateTime: 2022-08-23T15:01:00Z
-    webUrl: "https://www.infoq.com/news/2022/08/aws-sagemaker-canvas-pipelines/"
-    type: article
-    provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 29
-    images:
-      - url: "https://res.infoq.com/news/2022/08/aws-sagemaker-canvas-pipelines/en/headerimage/generatedHeaderImage-1661133708843.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Apkc6+lUDVD1QwfF7swi1s50pB+B4Wx9VeaTLk+BAMkW2+B3Fx5Js6A2CGlZvRK3N2KG0UUlUHtVfBkO2ecUmGi9VTr79Nocu5sMznaO98OU5qqETMfUE836p9moLZR2l51JX2GOF9IPwPOfSXiqP0tGiofVKTGliEouw+1kEGL3OU+kdMk0WoWJONu3W6wuzeR5V3KP4YShZ2mkZXjxFnn4myKrMud5Re796MdoN5HDPo7mDlLBcPmozQu7/nk0fIE7TuX/OWbh83e/IBHOyi3hN8eRn1FS9G/eOTecXUulaaKn8unk0U7HYdgCkAoWjkL6fZkSs6zqXWylBnk8qn/JxeaJ7JUTy1y3Nfyj+cw=;Z51yXKnK7BeDM+hC69Ky5g=="
 ---

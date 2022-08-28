@@ -7,7 +7,7 @@ originalUrl: "https://www.asiaone.com/business/visualcortex-and-firmus-announce-
 webUrl: "https://www.asiaone.com/business/visualcortex-and-firmus-announce-alliance-make-sustainable-computer-vision-attainable"
 type: article
 quality: 32
-heat: -1
+heat: 32
 published: false
 
 provider:
@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "VisualCortex and Firmus announce alliance to make sustainable computer vision attainable"
-    excerpt: "Video Intelligence Platform provider, VisualCortex, teams-up with Firmus’ Supercloud to make enterprise-wide visual computing initiatives environmentally and economically sustainable. Video Intelligence Platform,"
-    publishedDateTime: 2022-08-23T14:39:00Z
-    webUrl: "https://www.intelligentcio.com/apac/2022/08/23/visualcortex-and-firmus-announce-alliance-to-make-sustainable-computer-vision-attainable/"
-    type: article
-    provider:
-      name: intelligentcio.com
-      domain: intelligentcio.com
-    quality: 45
-    images:
-      - url: "https://www.intelligentcio.com/apac/wp-content/uploads/sites/44/2022/08/x.jpg"
-        width: 1000
-        height: 450
-        isCached: true
   - title: "VisualCortex and Firmus announce alliance, make sustainable computer vision attainable for Australian organisations"
     excerpt: "Firmus, Supercloud, VisualCortex, Video Intelligence Platform, video analytics, computer vision, computer vision models, visual computing applications"
     publishedDateTime: 2022-08-25T04:54:00Z

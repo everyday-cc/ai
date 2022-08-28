@@ -2,6 +2,125 @@
   "page": 121,
   "value": [
     {
+      "path": "_news/2022-05-25-ai-redefined-welcomes-new-hires-continues-commercial-research-expansion.md",
+      "title": "AI Redefined Welcomes New Hires, Continues Commercial & Research Expansion",
+      "excerpt": "AI Redefined (AIR), a company focused on building software products for human-AI collaboration, has added to its leadership team with two new hires: Jordy Berson, who joins the company as Chief Product Officer,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-alberta-canada-3af4befd08cc482fa43948ec4498fec1",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-alberta-canada-3af4befd08cc482fa43948ec4498fec1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-artificial-intelligence-ai-in-medical-insights-and-upcoming-business-opportunities-2022-2030nvidia-intel-ibm.md",
+      "title": "Artificial Intelligence (AI) in Medical Insights, and Upcoming Business Opportunities 2022-2030|NVIDIA, Intel, IBM",
+      "excerpt": "Artificial Intelligence (AI) in Medical Market Prime Factors And Competitive Outlook 2022-2030. Market.biz has published another report named Artificial Intelligence (AI) in Medic",
+      "sourceUrl": null,
+      "webUrl": "https://xaralite.com/262043/business/artificial-intelligence-ai-in-medical-market-growth-and-new-developments-2022-2030/",
+      "originalUrl": "https://xaralite.com/262043/business/artificial-intelligence-ai-in-medical-market-growth-and-new-developments-2022-2030/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T05:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "xaralite.com",
+        "domain": "xaralite.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-25-10-finalists-named-in-cowen-startup-challenge-winner-chosen-at-automate-june-7.md",
+      "title": "10 Finalists Named in Cowen Startup Challenge; Winner Chosen at Automate June 7",
+      "excerpt": "Ten cutting-edge startups will compete for a $10,000 prize in “ The Cowen Startup Challenge: Automate to Outperform ” June 7 at the Automate 2022 Show and Conference, North America’s largest automation and robotics showcase.",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/BusinessWire/technology-north-america-ann-arbor-robotics-02d90fc30c51493eb4fff467de61d3d6",
+      "originalUrl": "https://apnews.com/press-release/BusinessWire/technology-north-america-ann-arbor-robotics-02d90fc30c51493eb4fff467de61d3d6",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-25T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-tigergraph-ml-workbench-delivers-deep-learning-and-graph-neural-network-frameworks-for-rapid-accurate-ml-and-ai-modeling.md",
       "title": "TigerGraph ML Workbench Delivers Deep Learning and Graph Neural Network Frameworks for Rapid, Accurate ML and AI Modeling",
       "excerpt": "TigerGraph, provider of a leading graph analytics platform, today announced the TigerGraph ML (Machine Learning) Workbench — a powerful toolkit that enables data scientists to significantly improve ML model accuracy,",
@@ -968,144 +1087,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex.md",
-      "title": "Nvidia Tips New Liquid-Cooled GPU, Jetson AI Devices at Computex",
-      "excerpt": "Peak performance and cooling in ever-smaller spaces matters to data centers, and Nvidia's liquid-cooled A100 card targets that market. The chip giant also detailed new Jetson devices and designs for data-center systems.",
-      "sourceUrl": null,
-      "webUrl": "https://au.pcmag.com/graphics-cards/94217/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex",
-      "originalUrl": "https://au.pcmag.com/graphics-cards/94217/nvidia-tips-new-liquid-cooled-gpu-jetson-ai-devices-at-computex",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T15:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-how-amalgamated-learning-could-scale-medical-ai.md",
-      "title": "How amalgamated learning could scale medical AI",
-      "excerpt": "A promising new AI and machine learning technique called amalgamated learning might help overcome these silos to find new cures for diseases, prevent fraud and improve industrial equipment. It may also provide a way to construct digital twins from inconsistent forms of data.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/05/24/how-amalgamated-learning-could-scale-medical-ai/",
-      "originalUrl": "https://venturebeat.com/2022/05/24/how-amalgamated-learning-could-scale-medical-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/01/GettyImages-1251551899-e1642523643912.jpg?fit=800%2C450&strip=all",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/05/24/how-amalgamated-learning-could-scale-medical-ai/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/24/how-amalgamated-learning-could-scale-medical-ai/amp/",
-      "publishedDateTime": "2022-05-24T15:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-mit-researchers-help-robots-navigate-uncertain-environments.md",
-      "title": "MIT researchers help robots navigate uncertain environments",
-      "excerpt": "MIT's research team hopes that its findings could help autonomous robots explore remote exoplanets with unknown conditions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.therobotreport.com/mit-researchers-help-robots-navigate-uncertain-environments/",
-      "originalUrl": "https://www.therobotreport.com/mit-researchers-help-robots-navigate-uncertain-environments/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.therobotreport.com/wp-content/uploads/2022/05/featured-web-MIT-trajectories.jpg",
-          "width": 770,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-24T14:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Robot Report",
-        "domain": "therobotreport.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }
