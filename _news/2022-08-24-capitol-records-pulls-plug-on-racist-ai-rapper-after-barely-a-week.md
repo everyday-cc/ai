@@ -9,7 +9,7 @@ ampWebUrl: "https://www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305
 cdnAmpWebUrl: "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/ai-rapper-capitol-records-ends_n_6305a3e9e4b0e323a25a07d7/amp"
 type: article
 quality: 87
-heat: 147
+heat: 137
 published: true
 
 provider:
@@ -77,22 +77,6 @@ related:
       - url: "https://ewscripps.brightspotcdn.com/dims4/default/36f0c0d/2147483647/strip/true/crop/3719x2092+54+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F7a%2F22%2Fcaf7db494a18a01db7c00f559d55%2Fscreen-shot-2022-08-24-at-10.27.58%20PM.png"
         width: 1280
         height: 720
-        isCached: true
-  - title: "AI rapper FN Meka dropped by Capitol Records following backlash over racial stereotypes"
-    excerpt: "In a statement, Capitol Records wrote, 'we offer our deepest apologies to the Black community for our insensitivity in signing this project.'"
-    publishedDateTime: 2022-08-23T23:44:00Z
-    webUrl: "https://www.latimes.com/entertainment-arts/music/story/2022-08-23/fn-meka-ai-rapper-dropped-capitol-records"
-    ampWebUrl: "https://www.latimes.com/entertainment-arts/music/story/2022-08-23/fn-meka-ai-rapper-dropped-capitol-records?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/music/story/2022-08-23/fn-meka-ai-rapper-dropped-capitol-records?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 49
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/3072813/2147483647/strip/true/crop/3926x2626+0+1141/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc5%2F91%2Fa7b47d3c4a278a1399a865b252f2%2F967024-et-ralfy-the-plug-portrait-04-mjc-2.jpg"
-        width: 320
-        height: 214
         isCached: true
   - title: "AI rapper FN Meka dropped by Capitol over racial stereotyping"
     excerpt: "A record label has cut ties with an AI rapper after criticism it contained racial stereotypes, including repeated use of the N-word. FN Meka is an artificial intelligence musician given the appearance of a black male cyborg."

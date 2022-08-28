@@ -86,22 +86,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI rapper FN Meka dropped by Capitol Records following backlash over racial stereotypes"
-    excerpt: "In a statement, Capitol Records wrote, 'we offer our deepest apologies to the Black community for our insensitivity in signing this project.'"
-    publishedDateTime: 2022-08-23T23:44:00Z
-    webUrl: "https://www.latimes.com/entertainment-arts/music/story/2022-08-23/fn-meka-ai-rapper-dropped-capitol-records"
-    ampWebUrl: "https://www.latimes.com/entertainment-arts/music/story/2022-08-23/fn-meka-ai-rapper-dropped-capitol-records?_amp=true"
-    cdnAmpWebUrl: "https://www-latimes-com.cdn.ampproject.org/c/s/www.latimes.com/entertainment-arts/music/story/2022-08-23/fn-meka-ai-rapper-dropped-capitol-records?_amp=true"
-    type: article
-    provider:
-      name: Los Angeles Times
-      domain: latimes.com
-    quality: 49
-    images:
-      - url: "https://ca-times.brightspotcdn.com/dims4/default/3072813/2147483647/strip/true/crop/3926x2626+0+1141/resize/320x214!/quality/90/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fc5%2F91%2Fa7b47d3c4a278a1399a865b252f2%2F967024-et-ralfy-the-plug-portrait-04-mjc-2.jpg"
-        width: 320
-        height: 214
-        isCached: true
   - title: "Viral AI rapper dropped from major record label for racist content"
     excerpt: "Capitol Music Group 'signed' FN Meka on August 14. The ensuing backlash ended the partnership in less than two weeks."
     publishedDateTime: 2022-08-24T18:00:00Z

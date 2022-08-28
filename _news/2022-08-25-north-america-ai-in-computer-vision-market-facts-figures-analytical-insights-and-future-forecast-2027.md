@@ -51,15 +51,6 @@ related:
         width: 2000
         height: 800
         isCached: true
-  - title: "Human Computer Interference Cognitive Computing Market Size, Share, Future Trends, Competitive Landscape and Growing CAGR of 29.40% Forecast by 2028"
-    excerpt: "The major players covered in the human computer interference cognitive computing market report are Microsoft, IBM, SAS Institute Inc., Amazon Web Services, Inc., Cognitive Scale, Numenta, Enterra Solutions, Expert System S.p.A., Google LLC, Virtusa corp ..."
-    publishedDateTime: 2022-08-23T23:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/human-computer-interference-cognitive-computing-market-size-share-future-trends-competitive-landscape-and-growing-cagr-of-2940-forecast-by-2028-2022-08-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 0
 
 secured: "X+v3pEuPF5ZvR5i+fMjND/Pq3J9h7K8gdITovtvrJtQ2al7exALtKhJQxRmSSUK62PnUBBom6rW7sExLjgQRTlZClB8ohsXhLEt15eqBuSyuEUffv7PtfAHAV2VhFmSs8Fdjo9QKDKHu6UiYZmdGBLJ/70vTlfGorlIQDewpg5i+PJR7ZvwkmjIYeQlnpi8pbLuIQ9sTcTcXhJsfCuWjNjKp0pWrwVyOJrL6v7NrYtbzC3lqxVtFvwHtLUCJrgcdIojLpRC5PnDgRj0eDx5vC08A/v9H/vZMKO5GSZ0RvYhWt1bYqmdvphsoVujqQEcPTC1cvyH1jNOCkclRT26ZwqapugkzhL3rHPa0gihM0ZA=;pxDx0uw6qqPT0UXzIrNh8g=="
 ---

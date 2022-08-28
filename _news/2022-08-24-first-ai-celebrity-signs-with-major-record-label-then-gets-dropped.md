@@ -34,22 +34,6 @@ related:
         width: 620
         height: 372
         isCached: true
-  - title: "Capitol Records Severs Ties With FN Meka, an AI-Generated ‘Virtual Rapper,’ Over Stereotypes, Lack of Black Creative Involvement"
-    excerpt: "Not long after announcing that the label had signed a computer-generated rapper dubbed FN Meka, Capitol Music Group announced that it is severing ties with the project. The move Tuesday came after"
-    publishedDateTime: 2022-08-23T23:21:00Z
-    webUrl: "https://variety.com/2022/music/news/capitol-drops-fn-meka-artificial-intelligence-rapper-objections-1235348786/"
-    ampWebUrl: "https://variety.com/2022/music/news/capitol-drops-fn-meka-artificial-intelligence-rapper-objections-1235348786/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2022/music/news/capitol-drops-fn-meka-artificial-intelligence-rapper-objections-1235348786/amp/"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 28
-    images:
-      - url: "https://variety.com/wp-content/uploads/2022/08/FN-Meka-e1661294823805.jpg?w=1024"
-        width: 1024
-        height: 558
-        isCached: true
 
 secured: "voaUTpRrVfIKw1q+CtvPHf+Q8fndreWheNwdbNTt65FxW7fVT+qBWgdbJ5+7CP2WTDV/XDaavLE5IhrfEokrb/YuHtyzHY7GN9O0mkZscPSDpcw4Z7VbYyRBvokZR1zGJ9g1l8S2eUXFh8soRLLkF35BVj+MdgKd1YHmQstYgg+kADJZP/a/vRYcT61Lb19uiZMXZOH+ZERfejh9xUqedAw3SWprdI2Xg09QjQoC5Y9FXnjrnUBSfkdnOaleoJnfephl8xBi0MIpeOEzh/1io5Y102gEQTU4xvea0nmq8k4szK3x7SOEkcPcN6GK+wx2w022nzsG06BlmVNq/PZTXv8WCd9drLlZ3S6wWoFP6WI=;vkAMLoh5rWGWhtAxdDx2hg=="
 ---

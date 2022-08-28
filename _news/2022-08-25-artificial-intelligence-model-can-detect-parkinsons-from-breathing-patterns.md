@@ -41,22 +41,6 @@ related:
         width: 600
         height: 450
         isCached: true
-  - title: "MIT’s new artificial intelligence technology can detect Parkinson’s early using breathing patterns"
-    excerpt: "A new MIT-developed artificial intelligence model can detect Parkinson's early on after disease onset from a person's breathing patterns."
-    publishedDateTime: 2022-08-23T23:56:00Z
-    webUrl: "https://www.boston.com/news/health/2022/08/23/mit-ai-model-detect-parkinsons-disease-early-breathing-patterns/"
-    ampWebUrl: "https://www.boston.com/news/health/2022/08/23/mit-ai-model-detect-parkinsons-disease-early-breathing-patterns/?amp=1"
-    cdnAmpWebUrl: "https://www-boston-com.cdn.ampproject.org/c/s/www.boston.com/news/health/2022/08/23/mit-ai-model-detect-parkinsons-disease-early-breathing-patterns/?amp=1"
-    type: article
-    provider:
-      name: Boston.com
-      domain: boston.com
-    quality: 45
-    images:
-      - url: "https://www.boston.com/wp-content/uploads/2022/08/https___assets.bwbx_.io_images_users_iqjWHBFdfxIU_iVlj9xsrt3hA_v2_piFq5T3pJF0qzS8rF9LjsWaQ_-1x-1-630442096b088.jpg"
-        width: 2000
-        height: 1333
-        isCached: true
   - title: "See How This AI Analyzes Breathing Patterns For Early Detection Of Parkinson’s"
     excerpt: "A new study shows that an AI algorithm can detect whether someone has Parkinson’s Disease early on and estimate the severity of their disease."
     publishedDateTime: 2022-08-25T18:49:00Z

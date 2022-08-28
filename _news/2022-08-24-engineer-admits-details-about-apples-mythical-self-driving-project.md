@@ -55,6 +55,20 @@ related:
         width: 1500
         height: 1003
         isCached: true
+  - title: "Former Apple engineer pleads guilty to stealing self-driving car trade secrets"
+    excerpt: "Former Apple Inc. engineer Xiaolang Zhang pleaded guilty Monday to theft of trade secrets from the company’s self-driving vehicle program. According to filings with the US District Court for the"
+    publishedDateTime: 2022-08-24T09:14:00Z
+    webUrl: "https://www.jurist.org/news/2022/08/former-apple-engineer-pleads-guilty-to-stealing-self-driving-car-trade-secrets/"
+    type: article
+    provider:
+      name: Jurist
+      domain: jurist.org
+    quality: 20
+    images:
+      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2022/05/apple_inc._1652985256.jpg"
+        width: 1280
+        height: 960
+        isCached: true
   - title: "Former Apple employer admits stealing trade secrets for self-driving car project"
     excerpt: "An engineer who had access to information about Apple’s self-driving car project has pleaded guilty to stealing trade secrets about the project"
     publishedDateTime: 2022-08-26T06:42:00Z

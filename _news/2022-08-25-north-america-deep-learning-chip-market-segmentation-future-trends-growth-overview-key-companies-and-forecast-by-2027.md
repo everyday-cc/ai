@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/north-america-deep-learn
 webUrl: "https://www.marketwatch.com/press-release/north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-08-25"
 type: article
 quality: 61
-heat: 91
+heat: 81
 published: true
 
 provider:
@@ -53,15 +53,6 @@ related:
         width: 2000
         height: 800
         isCached: true
-  - title: "Human Computer Interference Cognitive Computing Market Size, Share, Future Trends, Competitive Landscape and Growing CAGR of 29.40% Forecast by 2028"
-    excerpt: "The major players covered in the human computer interference cognitive computing market report are Microsoft, IBM, SAS Institute Inc., Amazon Web Services, Inc., Cognitive Scale, Numenta, Enterra Solutions, Expert System S.p.A., Google LLC, Virtusa corp ..."
-    publishedDateTime: 2022-08-23T23:59:00Z
-    webUrl: "https://www.marketwatch.com/press-release/human-computer-interference-cognitive-computing-market-size-share-future-trends-competitive-landscape-and-growing-cagr-of-2940-forecast-by-2028-2022-08-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 0
 
 secured: "LnekAjhWlIptHcNFx4IpcPrCYydjykRdqeiPdXllaVXEyBO6PW5nykZWMd1LyTKLnKVr02vK19E0LQKhyipxRnBgir4qA3Bsih4BZTGJNwBsmd6xhGmTNZaraXawAr3QuOtEY5CFytni+SKtRcK7KLQNZnW9I8hUEfZtFArzYmTNWjdBS9A49lHWTFRZirOlRZb4AE4u4AFxKub8XRVQinX3y17hMeQIPH9Q0Iu3ljmDs5r4NtE0IYSzlghPK5cxKeos+cnlw2iLbuv+fr5MEqsFbapJsoLDLgiKbq9TQzzqsvhCM/gOAfXK5UPf0nxpkfcu2JatuUdV9Hqi9hqaxH1zLXcSsA01rd4b4YmBSXA=;+QEY7NAEjTGeBsjF6tulzw=="
 ---

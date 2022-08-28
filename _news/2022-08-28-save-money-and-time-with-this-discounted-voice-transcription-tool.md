@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/save-money-and-time-with-th
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/save-money-and-time-with-this-discounted-voice-transcription-tool/"
 type: article
 quality: 74
-heat: 74
+heat: 76
 published: true
 
 provider:

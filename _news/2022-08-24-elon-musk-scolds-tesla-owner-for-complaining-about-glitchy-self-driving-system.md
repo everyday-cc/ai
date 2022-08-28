@@ -67,22 +67,6 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Tesla raises price of feature it calls 'full self-driving' to US$15,000"
-    excerpt: "Tesla is raising the price of its controversial driver-assist feature it calls \"full self-driving\" to US$15,000. Tesla CEO Elon Musk has said for years that the price of \"full self-driving\" would ..."
-    publishedDateTime: 2022-08-23T23:58:00Z
-    webUrl: "https://www.ctvnews.ca/autos/tesla-raises-price-of-feature-it-calls-full-self-driving-to-us-15-000-1.6038361"
-    ampWebUrl: "https://beta.ctvnews.ca/national/autos/2022/8/23/1_6038361.amp.html"
-    cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/autos/2022/8/23/1_6038361.amp.html"
-    type: article
-    provider:
-      name: CTV News
-      domain: ctvnews.ca
-    quality: 74
-    images:
-      - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/6/3/1_5931897.jpg"
-        width: 1020
-        height: 574
-        isCached: true
   - title: "Tesla defends self-driving software"
     excerpt: "Tesla has defended its self-driving software after videos of cars running over child-size mannequins hit the internet. Added14 minutes ago A Los Angeles police officer has saved a baby's life using CPR,"
     publishedDateTime: 2022-08-26T08:53:00Z

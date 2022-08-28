@@ -9,8 +9,8 @@ ampWebUrl: "https://amp.theguardian.com/music/2022/aug/24/major-record-label-dro
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2022/aug/24/major-record-label-drops-offensive-ai-rapper-after-outcry-over-racial-stereotyping"
 type: article
 quality: 50
-heat: 70
-published: true
+heat: 60
+published: false
 
 provider:
   name: The Guardian
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "Capitol Records Severs Ties With FN Meka, an AI-Generated ‘Virtual Rapper,’ Over Stereotypes, Lack of Black Creative Involvement"
-    excerpt: "Not long after announcing that the label had signed a computer-generated rapper dubbed FN Meka, Capitol Music Group announced that it is severing ties with the project. The move Tuesday came after"
-    publishedDateTime: 2022-08-23T23:21:00Z
-    webUrl: "https://variety.com/2022/music/news/capitol-drops-fn-meka-artificial-intelligence-rapper-objections-1235348786/"
-    ampWebUrl: "https://variety.com/2022/music/news/capitol-drops-fn-meka-artificial-intelligence-rapper-objections-1235348786/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2022/music/news/capitol-drops-fn-meka-artificial-intelligence-rapper-objections-1235348786/amp/"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 28
-    images:
-      - url: "https://variety.com/wp-content/uploads/2022/08/FN-Meka-e1661294823805.jpg?w=1024"
-        width: 1024
-        height: 558
-        isCached: true
   - title: "First AI celebrity signs with major record label then gets dropped"
     excerpt: "An Artificial Intelligence-powered rapper is now the first virtual celebrity to sign with a major record label after getting millions of views on TikTok."
     publishedDateTime: 2022-08-24T10:33:00Z
