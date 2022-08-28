@@ -9,7 +9,7 @@ ampWebUrl: "https://www.albawaba.com/amp/business/pr/hyundai-motor-group-launche
 cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/hyundai-motor-group-launches-boston-dynamics-ai-institute-spearhead-advancements"
 type: article
 quality: 81
-heat: 101
+heat: 91
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Hyundai Establishes Boston Dynamics AI Institute"
-    excerpt: "Hyundai establishes Boston Dynamics AI Institute . August 23, 2022 by Mark Allinson Leave a Comment . Hyundai Motor Group have launched the Bo"
-    publishedDateTime: 2022-08-24T04:42:00Z
-    webUrl: "https://menafn.com/1104744734/Hyundai-Establishes-Boston-Dynamics-AI-Institute"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 39
-    images:
-      - url: "https://menafn.com/updates/pr/2022-08/23/R&AN_1be59image_story.png"
-        width: 800
-        height: 984
-        isCached: true
   - title: "Hyundai Motor Group and Boston Dynamics create AI Institute"
     excerpt: "Smart robots only a matter of time Hyundai Motor Group and Boston Dynamics recently announced the launch of the Boston Dynamics AI Institute and according to Marc Raibert who will run it, it will create \"future generations of advanced robots and the world’s smartest and most capable"
     publishedDateTime: 2022-08-26T07:59:00Z

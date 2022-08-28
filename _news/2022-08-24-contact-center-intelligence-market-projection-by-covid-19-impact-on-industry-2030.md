@@ -54,15 +54,6 @@ related:
       name: CTV News
       domain: ctvnews.ca
     quality: 19
-  - title: "Non-hospitalized COVID patients show only minor cognitive impairments at long-term follow up"
-    excerpt: "A recent review that involved neuropsychological test data of people who had recent severe acute respiratory syndrome coronavirus 2 (SARS‑CoV‑2) infection reported cognitive impairments as ..."
-    publishedDateTime: 2022-08-24T01:40:00Z
-    webUrl: "https://www.news-medical.net/news/20220823/Non-hospitalized-COVID-patients-show-only-minor-cognitive-impairments-at-long-term-follow-up.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 8
 
 secured: "pse8cLvTtaLXsGOIH1KDTYpM4N7lJzfbl/I4SbsuNNLN79pvgcXB4lHpGrvNQ3tAu/Voye/erSmOL4Kd9fJoHcFiXcrzcBWlN379ao2dl6yKSClLyTw2H0MFOJIHf9PyGAmDMDjNhHmdGgVfaLswffJZotOTk9pdu179N/h0kLdhskuNfFBh016IuZdb87ryHYsmSP8Yr1yl/GnrF+QW4gYjhb1ia5BEWUnrpM8nmB2/PGn5+8Oddp12jTl9mJNV0u0RKMgJl2zebAAUW01R91KyA1PXZjix9OvCrKQD0WjR/lz9IUAehVdraR9Y4EJbe6UIHzzpgLvyh62SHUnbwZ13vzh5NyKLoKhTDxuHR+g=;CKYqqGLaIVJs2VM01p4Z4g=="
 ---

@@ -24,6 +24,17 @@ images:
     height: 628
     isCached: true
 
+related:
+  - title: "Voters are very confused over Indigenous Voice: survey"
+    excerpt: "Anthony Albanese’s proposed referendum to adopt an Indigenous Voice to Parliament faces a severe lack of understanding of what it is about, a new survey indicates."
+    publishedDateTime: 2022-08-28T19:00:00Z
+    webUrl: "https://www.afr.com/politics/federal/voters-are-very-confused-over-indigenous-voice-survey-20220827-p5bd96"
+    type: article
+    provider:
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 4
+
 secured: "CA4dx35rgTbKCMiKJe/tTFBXMwgAHXnYQp1V968uc6hybxtiLqlj1RG+FH6UzkoC53J5A6hswopIjr2baMW9cxhZ+nqJZFlzUCNXER80+vjhc0VACX8dy934EAQwy64UmCX/rtPQz2uWmL6wmC5qoh2IC8Y9kOmpheUwvzf83t+l7LQuNyWvSqSRTLAFg5KCHfecCB3yeIV2aGG52bumOQqPkc3f3io9+5qODlXx0Km66bdzmq05n1h6gfKJkIONwLCDADMORJRz4poPqLTZKMz9itUPy4+L4iMvCu+zCzl/jO4yc2dcM6BCnjxJbThmhOwnKEAHEUkQGyCU7Hgnhk6guYcR9QDt0FqoAfLg6h58s335H17BIN5hTrm6I9JK9ZbxotKXQSXYCGVgulSp0T0CnIDnBWyTMaoij3NypEDChcsxaLZ006XvWUoGuJg7V3DWP4SnGwVppG5MhHFnJSlDQwlTE8w3os82MwtRo5Eujn4eGqBeOo2lP5IgEGLBmeV2znpaQ+fFldYpbTFGFQ==;MTc9AIRdcsj+AKJgy2sQXg=="
 ---
 

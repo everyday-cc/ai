@@ -49,15 +49,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Non-hospitalized COVID patients show only minor cognitive impairments at long-term follow up"
-    excerpt: "A recent review that involved neuropsychological test data of people who had recent severe acute respiratory syndrome coronavirus 2 (SARS‑CoV‑2) infection reported cognitive impairments as ..."
-    publishedDateTime: 2022-08-24T01:40:00Z
-    webUrl: "https://www.news-medical.net/news/20220823/Non-hospitalized-COVID-patients-show-only-minor-cognitive-impairments-at-long-term-follow-up.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 8
 
 secured: "VKOzHEeqPh9qCzDMJMxuEEspOsSyoEzUtvIZv8zHAUm7ujKaCUdx39LXhpsPSMtsx/IlkA7ekEKwbVvl+HSA82pn3CGbonwNTgZ7/Z5m3u8BqqHAG6yn/AAyGw9LNGWqK5MKOE37g1a4XoTxWXZEYxx8hKQg4jHiYhvnDIiWIndUFYN3ZZlz0PNgp00um4NozK09dbj+wzzPnpsha7cjcPUBftC8mGMIg7whShmK3UAsheEn6l9yi7PptlSKr2b/qaAqGIXzrI8YLalmprbUXi4zowTw7mwY6YpuuxrLFJqovBsJzB4vv37gGhwlNYlGqbmkB/nqq1h7Y7WWjxMVV7fm+ZbZ4Iy/cW6Np+YJnJU=;Ty+kyGRKMXoLLKlLhqKuVw=="
 ---

@@ -44,20 +44,6 @@ related:
         width: 1300
         height: 731
         isCached: true
-  - title: "Solidus AI Tech Secures New Boost From High-Profile Investor 'The Bitcoin Man'"
-    excerpt: "Solidus AI Tech Limited was established in January 2021 as the Artificial Intelligence arm of the parent company Solidus Technologies. United States - August 24, 2022 /MarketersMEDIA/ — Solidus AI Tech (AI-Tech.io), the company behind the world's first ..."
-    publishedDateTime: 2022-08-24T04:17:00Z
-    webUrl: "https://menafn.com/1104745051/Solidus-AI-Tech-Secures-New-Boost-From-High-Profile-Investor-The-Bitcoin-Man"
-    type: article
-    provider:
-      name: MENAFN
-      domain: menafn.com
-    quality: 33
-    images:
-      - url: "https://menafn.com/updates/pr/2022-08/24/M_28ac0fbe-6_Image_In_Body.jpg"
-        width: 800
-        height: 533
-        isCached: true
 
 secured: "BSWwaf7p3i5K2XqWoxicnm8+4No3D0gOYcgX1NUhGzuYIrzMXvTXigXe9CVBQgQ/e+pj1j6sBkTJe3eEoPgIHIO0rjc3DIWFGxlOTuz/vvvMDWdq8XJAiBTQPceOGfI0k8m76eLl/e2GLbSYuYgTEwdOF01HdFgPlTVjWm69gbdeMMlfIYRziCFUJBUZjeVvCo1jjOE8NTR/ME0JRuie9cfxpSTeQkQzLc+VSMxL73rHIj5TYhasWC3/tfOqNLuvvWA2F1x7EFQN6FVwKXBAJKKifV9Ur7UNbKdS/dFXAAl9PQXyVKWGxDPEjwTv3KTftQ6v/bl9ewHFcd40W2NRA+AitjlfRd7MyQuEQXzUcFjMzH+jlEzup/oB0+ZLWzGgMGPS7XQmdIuKT6PqYQzqOUCR+8unK14RNt6iR25eV6/DtpJYK7/Tr2ooG4ZDenNrDk5DS0Jo2hNrP5ezSB5lip+CAakoWMsU75k4IMseKGuXFD+RbI5WQT7lSmCaa2t0yAXfGmHF0uIir6mkdMLu4g==;cJKBPMP+tFXUK1i2Ifog9Q=="
 ---

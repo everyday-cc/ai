@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/25/the-democr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/25/the-democratization-of-ai-in-logistics/amp/"
 type: article
 quality: 87
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -48,6 +48,15 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 19
+  - title: "Artificial Intelligence in Fashion Design"
+    excerpt: "The industries are flourishing and expanding and the technological advancements in the Fashion Industry are growing exponentially."
+    publishedDateTime: 2022-08-28T18:47:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/artificial-intelligence-in-fashion-design-759586"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 17
 
 secured: "xnA9+wcr/lJlIm7g9cus5OOMJQLwy5E5BWmR3//78TNExy7WKqIuJM34GngI+BOLidwIn0lESAmvL4o7XCRftaWyfJ5wP8la9zmBxBMwl5rx+nAbNSSql0cwlepX2sI/wlL4puXtWw0dkoHaIK/vtllny9Qg6TU5wQUFj3KlxubggKhndpz8TLrXMnGWP7frgBxy6OMH/loU4WjjxojgfG9y04m6wdZ3xGLuXpbaHbSKyXf/GrDxuBJrUzQaPueftWCsRaSuR6DBnaancBwhkdxluihPCyppNOu+RXAAEFOMh73+k7e7B2JXngvTyfs/p55CRZQlU7V2BesyNHx7TAx+0ulFuNI0a7lPn2B0CJ8QdWBMapMizB19MzzIKo+nuCnYCdGyfR21Y3SR3/7BhzXDRKUuwz5pxsugohFuat+bsivs2OxXFOgT5MDb6cwEUPSKOKp/DkfbMEcren//C/YfUoOHzJbnYeGqZxveWXYV/KBeG8tRR5/gl2hfMdvDqzX9+R0YXsv0ZsSRWY8EiA==;EzN0HGqnturX6stguwk5Gg=="
 ---

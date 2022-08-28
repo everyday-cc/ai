@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/24/tesla-deep-dive-presentations-dojo-ai
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/24/tesla-deep-dive-presentations-dojo-ai-supercomputer/amp/"
 type: article
 quality: 106
-heat: 126
+heat: 116
 published: true
 
 provider:
@@ -32,22 +32,6 @@ images:
     isCached: true
 
 related:
-  - title: "Inside Tesla’s Innovative And Homegrown “Dojo” AI Supercomputer"
-    excerpt: "How expensive and difficult does hyperscale-class AI training have to be for a maker of self-driving electric cars to take a side excursion to spend how"
-    publishedDateTime: 2022-08-24T03:35:00Z
-    webUrl: "https://www.nextplatform.com/2022/08/23/inside-teslas-innovative-and-homegrown-dojo-ai-supercomputer/"
-    ampWebUrl: "https://www.nextplatform.com/2022/08/23/inside-teslas-innovative-and-homegrown-dojo-ai-supercomputer/amp/"
-    cdnAmpWebUrl: "https://www-nextplatform-com.cdn.ampproject.org/c/s/www.nextplatform.com/2022/08/23/inside-teslas-innovative-and-homegrown-dojo-ai-supercomputer/amp/"
-    type: article
-    provider:
-      name: The Next Platform
-      domain: nextplatform.com
-    quality: 76
-    images:
-      - url: "https://3s81si1s5ygj3mzby34dq6qf-wpengine.netdna-ssl.com/wp-content/uploads/2022/08/tesla-dojo-logo.jpg"
-        width: 583
-        height: 439
-        isCached: true
   - title: "Musk Announces Tesla Bot Launch On AI Day 2022"
     excerpt: "SpaceX CEO Elon Musk shared an update about the Tesla Bot “Optimus.” He announced that his company’s android would debut on AI Day, September 30, 2022. “Tesla Bots are initially positioned"
     publishedDateTime: 2022-08-27T07:15:00Z
