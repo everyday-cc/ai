@@ -1,0 +1,71 @@
+---
+category: news
+title: "5G In Healthcare Market to be Worth $454.7 Billion By 2030: Grand View Research, Inc."
+excerpt: "Grand View Research, Inc. SAN FRANCISCO, /PRNewswire/ -- The global 5G in healthcare market size is expected to reach USD 454.7 billion by 2030, based on a new report by Grand View Research, Inc, expanding at a CAGR of 34."
+publishedDateTime: 2022-08-24T13:30:00Z
+originalUrl: "https://www.marketwatch.com/press-release/5g-in-healthcare-market-to-be-worth-4547-billion-by-2030-grand-view-research-inc-2022-08-24"
+webUrl: "https://www.marketwatch.com/press-release/5g-in-healthcare-market-to-be-worth-4547-billion-by-2030-grand-view-research-inc-2022-08-24"
+type: article
+quality: 62
+heat: 102
+published: true
+
+provider:
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Healthcare
+  - AI
+
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
+
+related:
+  - title: "Metaverse in healthcare market to reach $72B by 2030"
+    excerpt: "The 2021 metaverse global market size is about $6.85 billion. According to an Aug. 24 news release from Precedence Research, it is expected to surpass $70.1 billion by 2030 with a compound annual growth rate of 28."
+    publishedDateTime: 2022-08-24T18:53:00Z
+    webUrl: "https://www.beckershospitalreview.com/finance/metaverse-in-healthcare-market-to-reach-72b-by-2030.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
+  - title: "Automotive Artificial Intelligence Market worth $7.0 Billion by 2027 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Automotive Artificial Intelligence market size is projected to grow from USD 2.3 Billion in 2022 to USD 7.0 Billion by 2027; it is expected to grow at a CAGR of 24.1% from 2022 to 2027, according to a new report by MarketsandMarkets™."
+    publishedDateTime: 2022-08-24T14:58:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-automotive-artificial-intelligence-market-worth-70-billion-2027-/2022/08/24/9661661.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "Mental Health Software And Devices Market Size Worth USD 17.2 Billion By 2030 At 16.1% CAGR - Report By Market Research Future (MRFR)"
+    excerpt: "According to a Comprehensive Research Report by Market Research Future (MRFR),“Mental Health Software and Devices Market Information By Software, Functionality, End User, And Region - Forecast till 2030 ',"
+    publishedDateTime: 2022-08-24T19:00:00Z
+    webUrl: "https://menafn.com/1104749781/Mental-Health-Software-And-Devices-Market-Size-Worth-USD-172-Billion-By-2030-At-161-CAGR-Report-By-Market-Research-Future-MRFR"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
+  - title: "Procurement Analytics Market Size Worth $18.18 Billion By 2030: Grand View Research, Inc."
+    excerpt: "The global procurement analytics market size is expected to reach USD 18.18 billion by 2030, according to a new report by Grand View Research, Inc. It is expected to expand at a CAGR of 23.6% from 2022 to 2030."
+    publishedDateTime: 2022-08-25T14:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/08/25/9662484.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+
+secured: "8c6vTpHyj5sARFG6AnoJutI1sw4bMVwYayXDK2ZtTVzTks3d0aJNWBzcRTxAmm0+QlImYCOrDKeR2R3n8EVqKddZSBLj0hh/XrnOJi3drwmjfDCSh9LZSyQihe7TzC679BiqLHU8SIqm8IlDJQ2FMvOxFh0fhbxSjaZM8Zf7re5g8p/OQuqs5pWJjsgdbrdJwKA+BOIukpf2PjjZwIXtGOIjD7OvqfmJnKo3wC2DVPKKrbgZIIofyeoIiuputw07tJD+LTQ8COBwqlWKzEPwjFdM7NeSl1sS3uaQMdOVYXfHytf6J0zJY/Gj4WVWi4RPdWKs3ZvlMnmEdAeAXRfxySNNYjAQl+g58gcqQ62FdMA=;oETHLvsdBpyrr3rqonm/UQ=="
+---
+

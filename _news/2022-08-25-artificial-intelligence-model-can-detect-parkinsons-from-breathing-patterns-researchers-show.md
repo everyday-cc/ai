@@ -64,20 +64,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 45
-  - title: "How AI could detect Parkinson’s using breathing patterns"
-    excerpt: "Researchers at MIT recently developed an artificial intelligence model that can detect Parkinson's from breathing patterns."
-    publishedDateTime: 2022-08-23T15:48:00Z
-    webUrl: "https://www.medicaldesignandoutsourcing.com/how-ai-could-detect-parkinsons-using-breathing-patterns/"
-    type: article
-    provider:
-      name: Medical Design and Outsourcing
-      domain: medicaldesignandoutsourcing.com
-    quality: 39
-    images:
-      - url: "https://www.medicaldesignandoutsourcing.com/wp-content/uploads/2022/08/MIT-Parkinsons-algorithm.png"
-        width: 770
-        height: 500
-        isCached: true
   - title: "AI Uses Nocturnal Breathing Patterns to Detect Parkinson's Disease"
     excerpt: "An artificial intelligence-enabled system incorporates nocturnal breathing signals to diagnose Parkinson's disease -- and could be a new biomarker for the condition, new research suggests."
     publishedDateTime: 2022-08-24T17:22:00Z
@@ -140,15 +126,6 @@ related:
       name: unite
       domain: unite.ai
     quality: 19
-  - title: "Scientists invent device that can detect Parkinson’s disease when you’re asleep"
-    excerpt: "Scientists have developed a device that can detect the presence of Parkinson’s disease — one of the fastest-growing neurological conditions in the world. Parkinson’s disease is notoriously difficult to diagnose as it relies primarily on the appearance of motor symptoms such as tremors,"
-    publishedDateTime: 2022-08-23T15:58:00Z
-    webUrl: "https://metro.co.uk/2022/08/23/scientists-invent-device-to-detect-parkinsons-disease-when-asleep-17230585/?ico=amp_tag-post-strip_item_3_news"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 0
 
 secured: "p82h8A38W3z0ebQRVqrJN8NoRsK8JCaZNH1C+GM9aob0JBv3JFvoaKw60YE5SGrZgkJKmYN9xS1pA2tgAJJ221GiXEuXnrC3QZhXBeQGcCcV+3v/JsiQnojnx7Ea4zG673rIUeNiBfeJ2x2tP5Kn8b+E5M+1Wys+LFJTmy//+9i0iqBHMl1JQuR5tYcOTfRijeGI+uieyGG/SyKUghw0Iej882zRHjxOlsxIS9g7Cbm3as87GxZ37D+5qqM++hEj5fYVaJjFQXTxpQ+qWRSuSOEorMh8koilhHcztH4n411bRNHpAUjSYt/Y91yz8Emw7msg913MZKDJPf8x3o6LE5xEbHt4LDxniKgHHJKZjzs=;UWhM+rhZOtxZDBNivHjyGA=="
 ---

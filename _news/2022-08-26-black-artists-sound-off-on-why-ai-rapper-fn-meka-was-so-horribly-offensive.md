@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Capitol Records blasted for promoting AI rapper FN Meka using n word"
-    excerpt: "Capitol Records blasted for promoting an AI rapper named FN Meka that was created by a white man and uses the n word"
-    publishedDateTime: 2022-08-23T15:06:00Z
-    webUrl: "https://bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/"
-    ampWebUrl: "https://bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/amp/"
-    cdnAmpWebUrl: "https://bossip-com.cdn.ampproject.org/c/s/bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/amp/"
-    type: article
-    provider:
-      name: Bossip
-      domain: bossip.com
-    quality: 57
-    images:
-      - url: "https://bossip.com/wp-content/uploads/sites/28/2022/08/16612612898745.jpg?w=560&h=320&crop=1&strip=all&quality=80"
-        width: 560
-        height: 320
-        isCached: true
   - title: "FN Meka, the racist AI 'rapper,' is a symptom of a bigger problem"
     excerpt: "Capitol Records ended its record deal with a stereotypical 'rapper' that rhymes in the digital world. The controversy showed a major pitfall of AI."
     publishedDateTime: 2022-08-25T20:07:00Z
@@ -55,22 +39,6 @@ related:
       - url: "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-08/220825-ROB-Ai-rapper-an-b434e7.jpg"
         width: 2500
         height: 1250
-        isCached: true
-  - title: "Major record label drops ‘offensive’ AI rapper after outcry over racial stereotyping"
-    excerpt: "Capitol Records has apologised to ‘the Black community’ after signing FN Meka, an AI-generated rapper that used the N-word and was shown being beaten by police"
-    publishedDateTime: 2022-08-24T03:47:00Z
-    webUrl: "https://www.theguardian.com/music/2022/aug/24/major-record-label-drops-offensive-ai-rapper-after-outcry-over-racial-stereotyping"
-    ampWebUrl: "https://amp.theguardian.com/music/2022/aug/24/major-record-label-drops-offensive-ai-rapper-after-outcry-over-racial-stereotyping"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/music/2022/aug/24/major-record-label-drops-offensive-ai-rapper-after-outcry-over-racial-stereotyping"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 50
-    images:
-      - url: "https://i.guim.co.uk/img/media/7a8d3ba9b40fc875351c1ef85bc504113c1844d1/0_17_2000_1200/master/2000.jpg?width=620&quality=85&auto=format&fit=max&s=65bdf42ee8f1a05f70983b6afbba7fe5"
-        width: 620
-        height: 372
         isCached: true
   - title: "Who Is FN Meka? The AI Rapper Causing Controversy"
     excerpt: "Entertainment Weekly reported on Tuesday (August 23) that FN Meka was created by Factory New, a “media company focused solely on virtual and digital talent,” according to co-founder Anthony Martini. His business partner Brandon Le designed the AI rapper by “using thousands of data points compiled from video games and social media."
@@ -99,52 +67,6 @@ related:
       - url: "http://www.musicweek.com/cimages/ce52b1ad2f5576ac99a34264fa4c71b9.jpeg"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Indiecast Talks Arctic Monkeys’ Anticipated Return And Controversial AI Rapper FN Meka"
-    excerpt: "Plus, hosts Steven Hyden and Ian Cohen discuss a Harry Styles cover story which outraged Michael Jackson fans."
-    publishedDateTime: 2022-08-26T14:29:00Z
-    webUrl: "https://uproxx.com/indie/indiecast-episode-103-arctic-monkeys-fn-meka-harry-styles/"
-    type: article
-    provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 31
-    images:
-      - url: "https://uproxx.com/wp-content/uploads/2021/11/arctic-monkeys-1.jpg?w=710"
-        width: 710
-        height: 400
-        isCached: true
-  - title: "Capitol Records Severs Ties With FN Meka, an AI-Generated ‘Virtual Rapper,’ Over Stereotypes, Lack of Black Creative Involvement"
-    excerpt: "Not long after announcing that the label had signed a computer-generated rapper dubbed FN Meka, Capitol Music Group announced that it is severing ties with the project. The move Tuesday came after"
-    publishedDateTime: 2022-08-23T23:21:00Z
-    webUrl: "https://variety.com/2022/music/news/capitol-drops-fn-meka-artificial-intelligence-rapper-objections-1235348786/"
-    ampWebUrl: "https://variety.com/2022/music/news/capitol-drops-fn-meka-artificial-intelligence-rapper-objections-1235348786/amp/"
-    cdnAmpWebUrl: "https://variety-com.cdn.ampproject.org/c/s/variety.com/2022/music/news/capitol-drops-fn-meka-artificial-intelligence-rapper-objections-1235348786/amp/"
-    type: article
-    provider:
-      name: Variety
-      domain: variety.com
-    quality: 28
-    images:
-      - url: "https://variety.com/wp-content/uploads/2022/08/FN-Meka-e1661294823805.jpg?w=1024"
-        width: 1024
-        height: 558
-        isCached: true
-  - title: "Capitol Records “Severs Ties” With AI Rapper FN Meka, Issues Apology To The Black Community For Not “Asking Enough Questions About Equity”"
-    excerpt: "Capitol Records has “severed ties” with the recently signed AI rapper FN Meka, who came under intense scrutiny after clips of the project using the N-word went viral. Social-media users also pointed out a photo shared on one of Meka’s accounts showing the rapper in scenes of police brutality."
-    publishedDateTime: 2022-08-23T22:39:00Z
-    webUrl: "https://www.stereogum.com/2197251/capitol-records-severs-ties-with-ai-rapper-fn-meka-issues-apology-to-the-black-community-for-not-asking-enough-questions-about-equity/news/"
-    ampWebUrl: "https://www.stereogum.com/2197251/capitol-records-severs-ties-with-ai-rapper-fn-meka-issues-apology-to-the-black-community-for-not-asking-enough-questions-about-equity/news/amp/"
-    cdnAmpWebUrl: "https://www-stereogum-com.cdn.ampproject.org/c/s/www.stereogum.com/2197251/capitol-records-severs-ties-with-ai-rapper-fn-meka-issues-apology-to-the-black-community-for-not-asking-enough-questions-about-equity/news/amp/"
-    type: article
-    provider:
-      name: Stereogum
-      domain: stereogum.com
-    quality: 23
-    images:
-      - url: "https://static.stereogum.com/uploads/2022/08/fn-meka-1661297862.jpg"
-        width: 1600
-        height: 1067
         isCached: true
 
 secured: "lPMIR56XrQlrZn2CuKaPrxOxCzWuYODwDvfhaWxE4NLm8HmTka0/DYJMCIs+TfHah0F7npv/Er1APNnJ0Qvf7dGZ5vE8L80BF/nvkgm0AJL6M0bWSG2LlDd6GeY/EVH03lRFcTRLJUu4CEKD3P7e151LHWN3Q4/X/Pun8yXs8y3WpK1SG0Qv3DuNJ3BRIHvI5UUqsH7zYgOAy5y8FzBdWCgqo6rWjL3WEbxy1ZbG5wz929uPo7ys5v/mBPDNRhlahAiANM7DV0DdBfmXRVwz2rtHsL13sfJWRt0/XBhIceRc/fp55h1JAFodbj11ppC14qnwp5VQ4t1NDXlL8rdIIORITgxhHS6gfjzPLOfVrIV6PyGAazC3ZpAAwLsIt5639vagEot9vzeCYWvJBbhSPqVKLqNf8sgfqhU+fWyNVaip9p42l4IzUvIwVGSB6PtndlZH0jcUnFjDIYMYLFihlkzd9x+HlmSjtcLgdglYBtGT+dF6OAEoWLb1/tdw+Mtr2vUedCxnV9g8GjL/JGwVIA==;TPN7MYYLQD0G1cC7Ctk3Ww=="

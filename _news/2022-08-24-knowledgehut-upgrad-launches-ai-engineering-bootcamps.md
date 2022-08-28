@@ -9,8 +9,8 @@ ampWebUrl: "https://www.financialexpress.com/education-2/knowledgehut-upgrad/264
 cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/knowledgehut-upgrad/2642713/lite/"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Financial Express
@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Mark Cuban Foundation AI Bootcamps- Application Closing Soon!"
-    excerpt: "The Mark Cuban Foundation will host Artificial Intelligence (AI) Bootcamps for high school students in the Fall of 2022. The No Cost AI Bootcamp will be targeted at high school"
-    publishedDateTime: 2022-08-23T16:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/g28604874/mark-cuban-foundation-ai-bootcamps-application-closing-soon"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28604874"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28604874"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
   - title: "Mark Cuban Foundation AI Bootcamps- Application Closing Soon!"
     excerpt: "The Mark Cuban Foundation will host Artificial Intelligence (AI) Bootcamps for high school students in the Fall of 2022. The No Cost AI Bootcamp will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
     publishedDateTime: 2022-08-23T18:20:00Z

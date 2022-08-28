@@ -89,22 +89,6 @@ related:
         width: 1020
         height: 574
         isCached: true
-  - title: "Tesla sticker shock: Price of feature it calls ‘full self-driving’ jumps to $15,000"
-    excerpt: "Tesla is raising the price of its controversial driver-assist feature it calls \"full self-driving\" to $15,000. But Tesla buyers can purchase it for $12,000 until Sept. 5."
-    publishedDateTime: 2022-08-23T16:05:00Z
-    webUrl: "https://wraltechwire.com/2022/08/23/tesla-sticker-shock-price-of-feature-it-calls-full-self-driving-jumps-to-15000/"
-    ampWebUrl: "https://wraltechwire.com/2022/08/23/tesla-sticker-shock-price-of-feature-it-calls-full-self-driving-jumps-to-15000/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/23/tesla-sticker-shock-price-of-feature-it-calls-full-self-driving-jumps-to-15000/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 53
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2022/02/tesla-g25a581eab_1280-e1645184278103.jpg"
-        width: 1276
-        height: 716
-        isCached: true
   - title: "Tesla defends self-driving software"
     excerpt: "Tesla has defended its self-driving software after videos of cars running over child-size mannequins hit the internet. Added14 minutes ago A Los Angeles police officer has saved a baby's life using CPR,"
     publishedDateTime: 2022-08-26T08:53:00Z

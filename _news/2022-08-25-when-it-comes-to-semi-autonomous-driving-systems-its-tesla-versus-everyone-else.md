@@ -83,22 +83,6 @@ related:
         width: 1020
         height: 574
         isCached: true
-  - title: "Tesla sticker shock: Price of feature it calls ‘full self-driving’ jumps to $15,000"
-    excerpt: "Tesla is raising the price of its controversial driver-assist feature it calls \"full self-driving\" to $15,000. But Tesla buyers can purchase it for $12,000 until Sept. 5."
-    publishedDateTime: 2022-08-23T16:05:00Z
-    webUrl: "https://wraltechwire.com/2022/08/23/tesla-sticker-shock-price-of-feature-it-calls-full-self-driving-jumps-to-15000/"
-    ampWebUrl: "https://wraltechwire.com/2022/08/23/tesla-sticker-shock-price-of-feature-it-calls-full-self-driving-jumps-to-15000/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/23/tesla-sticker-shock-price-of-feature-it-calls-full-self-driving-jumps-to-15000/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 53
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2022/02/tesla-g25a581eab_1280-e1645184278103.jpg"
-        width: 1276
-        height: 716
-        isCached: true
   - title: "Why Tesla Expects to Develop Self-Driving Cars First in the Industry"
     excerpt: "Continuing its battle to change the transportation business, Tesla has unveiled the artificial intelligence system it has developed to educate its thousands of cars to drive themselves. Dojo, the AI system revealed on Tuesday at the Hot Chips conference,"
     publishedDateTime: 2022-08-23T18:00:00Z

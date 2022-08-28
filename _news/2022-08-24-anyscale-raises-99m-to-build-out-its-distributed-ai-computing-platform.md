@@ -52,20 +52,6 @@ related:
         width: 1000
         height: 563
         isCached: true
-  - title: "AI startup Anyscale raises $99M"
-    excerpt: "To keep up with the growing computational requirements and engineering complexities of AI projects, companies such as Uber, IBM and Meta have turned to the firm's Ray framework. \"Ray and the Anyscale platform have made tremendous progress in advancing the scaling of machine learning and Python workloads,"
-    publishedDateTime: 2022-08-23T16:08:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/ai-startup-anyscale-raises-99m.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 37
-    images:
-      - url: "https://www.beckershospitalreview.com/images/Reviewer_Button6.23.jpg"
-        width: 2640
-        height: 1080
-        isCached: true
 
 secured: "od4Y5VzHUqXemLwhTMn0bfYhr52+oee+hhvu/jw2kLlmEBFTbhHcbmuNIkr8rZTri2dF2BKPEW0K1dTQxBhUPrdDCRGtsof+mDW6+qL+blt48DPujc0BBNqX59U4agUDMXPGbtncYx7GAgbS60aElNk1nYCeFdDIADkzg/0YI8S1zkQ0UTrInw+H7dZshfpzoAmDgw1CTvkk32mHqKB2AszC4cwbXLdwL4jbg1Bpb5Z2C3bsS+4Lr5HV78G0RSMjavpFuIfIcbi+so01qB82nr+veJ8lHFOGgjIYFvX1P+phlB33sSiKyUI5dPNnxPHs1+wzKXGsknYWMH72UufII+WQGUCu9VXNWBo43AEMIbr9yke7zpbvjQI2hXyuWMan8jHLLNANMhmS4KJJBvB4rbalNWMfBlHri61FUn36AXlCa+KJddvd/IbkZArVTzDByEHw/2E0PnmP13IzM+XhD27BYYrZUr+ZpOSALuyczwynJFedLURrwau5eby2Yjs/ZRyX03UtSgdP5QnHp49kNw==;CMQxj6js7vaqsw2+G+Vc6Q=="
 ---

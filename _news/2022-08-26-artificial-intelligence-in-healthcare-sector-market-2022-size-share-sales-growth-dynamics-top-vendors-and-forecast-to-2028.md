@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-2022-size-share-sales-growth-dynamics-top-vendors-and-forecast-to-2028-2022-08-26"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -57,20 +57,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Artificial Intelligence (AI) Chips Market: Trends, Growth, Size, Manufacturers Analysis, SWOT Analysis, Opportunity Assessment by Forecast to 2027"
-    excerpt: "The Artificial Intelligence (AI) Chips Market report describes the forecast till 2027, Analysis and discussion of important industry trends, size, key players, current industry trend, market share ..."
-    publishedDateTime: 2022-08-23T15:05:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chips-market-trends-growth-size-manufacturers-analysis-swot-analysis-opportunity-assessment-by-forecast-to-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 31
-    images:
-      - url: "https://i.postimg.cc/VNFBndzq/Social-Media-Graph-01-1-500.png"
-        width: 500
-        height: 300
         isCached: true
 
 secured: "9qlr8azvZl4HM/qFkc4FZ7/Ojqz2dJdkWvGLcghWdJQGnw0KM/xovMihH4dAORk6gOD9pCeYMTTweAfX65n5BF4/Tb4akMZhxj9OQoGMkWOzfwAXtUlojIErChgTLbZvRp6Eqq53G3cQ4ec1xULRn9U5Gcrj68lHmWMtEc0VGpwJeHLq90PCmtH/DMdEYLmR7+sRZHDp42Y7EyyExcV5YKQKWmHsJblQ2Acb1iQCUauC91BDP2IGnRnf5VrHl3mlMiODJsDkt9Nzb9nly7EKRTWzCxAAeBgkadAK0+D0PSHsipdOyUi979WcYNFvwsuCHNNQ2T2O0O6mwd265SaZ2QHzTw3abUm4WhofNusgnz0=;oVlJYjILIivs5rTMep/oSA=="

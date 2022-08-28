@@ -23,17 +23,6 @@ images:
     height: 513
     isCached: true
 
-related:
-  - title: "XRPL Awards Second Grant to AnChain.AI, Delivering Industry Leading Blockchain Intelligence to XRPL Developers"
-    excerpt: "This grant further expands upon AnChain.AI's initial award, through which the AnChain team integrated XRPL transaction data into its BEI blockchain intelligence platform, bringing unprecedented transaction monitoring and KYW (Know Your Wallet) capabilities to the entire XRPL developer base."
-    publishedDateTime: 2022-08-23T15:46:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/2022/08/23/9660959.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
-
 secured: "5ew2e0Aup/Qa2MuEyMHwbUPlRanivWQOw4huJDPYM6H54PgeuG1/uKoLuYKjIu5xklVo28iBmad4NFNIVYO1cUa/d489/JTio+gQiIUbGRm9A/LX8XUrV4VBuPBsCzh3d0DrrYm0JA3dWkUeteG/ux3eTuIr37a0rXyODQvDXrCygKdW3DY1PRxabG9Uz9cHCUvRMz16JQbPghR+zzXklYLJP+FIWrp+ECI19Ijts8jcqYl4Q+0HqD7jkYzlUyzrICYx6vVZ4W0NB73TsyNXQ5eIcsIao7Qud/l9YsC1nJwgPa85pZOXWIRgQiqFRF2olsNIV+myZIsEo2+dRh9elh3hLWts/4L1NNUFua57Qe7sYuTBLXlKLmvVh/94xyJRbAziMJIPy4Rv/bSOUsohq96nByDEeD3UdarUiyCoSwCYMZa2R4dAnwci7t6hB0GW0vnFbJss0tfUq+AEmWxCpTqcXR4Pcd4NVn6CeOef6Fy1ciijPtUthG7nV8qveCUYMQLnO9VWDb05S8g1KxRT/A==;Cf7ixljxKJy0uzOQCFeTTw=="
 ---
 

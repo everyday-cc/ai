@@ -35,17 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "Mark Cuban Foundation AI Bootcamps- Application Closing Soon!"
-    excerpt: "The Mark Cuban Foundation will host Artificial Intelligence (AI) Bootcamps for high school students in the Fall of 2022. The No Cost AI Bootcamp will be targeted at high school"
-    publishedDateTime: 2022-08-23T16:49:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/g28604874/mark-cuban-foundation-ai-bootcamps-application-closing-soon"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28604874"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28604874"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 39
 
 secured: "btCZJdduFo3m40hDDgVzjiYdSnFp5oRh2p5pOGDMSnaMfjLrB2NHPEw2v8M3hVz8p28LbHb/2mPl/XGW+5l+9yLt36iYtvwZdr3+GWIsSpRWawvONWgjR9mQlTPwhtl22RdEMbfrCkGZufVrow+PEyBxDIkaNswAcq4iHLMDuqQM1I5ohMDcIXBYnOt3Lx9YN6059R5O1ApR0+V0cMMP3zGPr7P4JAd87XqA4BbhQvs2W5rOeuUH43jUqSMLGql/Cy+HokzNevyJ4fzCx5gwL3p+qljMvZw92pzh2GaEqXt2VzpXmYhp2u1S3phj7LhFnI6Z+fUP6rgJ+UdbUga7sR17yfcXXcGfaWEZTDPC6zY=;a3Fs8St7flvL7Rv0EH5PeA=="
 ---

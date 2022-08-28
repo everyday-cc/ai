@@ -57,20 +57,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence (AI) Chips Market: Trends, Growth, Size, Manufacturers Analysis, SWOT Analysis, Opportunity Assessment by Forecast to 2027"
-    excerpt: "The Artificial Intelligence (AI) Chips Market report describes the forecast till 2027, Analysis and discussion of important industry trends, size, key players, current industry trend, market share ..."
-    publishedDateTime: 2022-08-23T15:05:00Z
-    webUrl: "https://www.digitaljournal.com/pr/artificial-intelligence-ai-chips-market-trends-growth-size-manufacturers-analysis-swot-analysis-opportunity-assessment-by-forecast-to-2027"
-    type: article
-    provider:
-      name: Digital Journal
-      domain: digitaljournal.com
-    quality: 31
-    images:
-      - url: "https://i.postimg.cc/VNFBndzq/Social-Media-Graph-01-1-500.png"
-        width: 500
-        height: 300
-        isCached: true
 
 secured: "/IOMZljlxRF2C2EowJT2JqQBPFqDYDWkujHzMYw6vQhlGmKTlQ95aJNL6iazs6YPb22kuyiRpVZuoaT3OQL18kKU/Dx4YZ2rVN5umoiUob+EclQk+lVTDdiImHUkzMr+VBWc4+NP87Tnda1oE7901Bp0E8MvAdrsRrifGSsM9MIJq/3TzOJ+BCukuEGePNDABmNdfo59JUmsZT8Bqwt31ZwPCCpRDHSB+HphO64RgAUikbNxDU+A2D7gamg+caaOQN09UlbDI4vnWBY6wq2Hq4gDivQu9vtL/H4iIz5SWx0DKglQeDi1DRbV+DUnnOd53i0lgNegomA620fn2xouoMdj+wVaKeGxHu2YXP3laZU=;UmnNNgtfA4d5/OhQC/cLcA=="
 ---

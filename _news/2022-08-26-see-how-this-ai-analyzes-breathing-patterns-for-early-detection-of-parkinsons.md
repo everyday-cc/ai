@@ -55,20 +55,6 @@ related:
         width: 2000
         height: 1333
         isCached: true
-  - title: "How AI could detect Parkinson’s using breathing patterns"
-    excerpt: "Researchers at MIT recently developed an artificial intelligence model that can detect Parkinson's from breathing patterns."
-    publishedDateTime: 2022-08-23T15:48:00Z
-    webUrl: "https://www.medicaldesignandoutsourcing.com/how-ai-could-detect-parkinsons-using-breathing-patterns/"
-    type: article
-    provider:
-      name: Medical Design and Outsourcing
-      domain: medicaldesignandoutsourcing.com
-    quality: 39
-    images:
-      - url: "https://www.medicaldesignandoutsourcing.com/wp-content/uploads/2022/08/MIT-Parkinsons-algorithm.png"
-        width: 770
-        height: 500
-        isCached: true
   - title: "AI Uses Nocturnal Breathing Patterns to Detect Parkinson's Disease"
     excerpt: "An artificial intelligence-enabled system incorporates nocturnal breathing signals to diagnose Parkinson's disease -- and could be a new biomarker for the condition, new research suggests."
     publishedDateTime: 2022-08-24T17:22:00Z
@@ -140,15 +126,6 @@ related:
       name: unite
       domain: unite.ai
     quality: 19
-  - title: "Scientists invent device that can detect Parkinson’s disease when you’re asleep"
-    excerpt: "Scientists have developed a device that can detect the presence of Parkinson’s disease — one of the fastest-growing neurological conditions in the world. Parkinson’s disease is notoriously difficult to diagnose as it relies primarily on the appearance of motor symptoms such as tremors,"
-    publishedDateTime: 2022-08-23T15:58:00Z
-    webUrl: "https://metro.co.uk/2022/08/23/scientists-invent-device-to-detect-parkinsons-disease-when-asleep-17230585/?ico=amp_tag-post-strip_item_3_news"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 0
 
 secured: "sK/7JCiVPdQSnYIu4fwo7pQ5IToQiBmHj9G1+Rh0TNBmXD6Cz0JopI97bpdsGszp1iSSlsgNvkw6q/T4HdN57fkmEbJ/dUHDiAqkFqxG+FTCgZPlKwpxikR7JnJGaGvpjxAEbFlKQJLGusAcvxyo2pbxzA0+vKRwZcLiyOiOX3rggEOBEfTIbEu9Fm7vqG0TcdFAx17zqK0SEXtQ0oUuEUjqvgmRpFFaKNJ1BuzJJoFM1tRCBB3jY8L5812+jQeS1DFPvcypj+Vj9zj0vZuyIpl9GXhwnaPugKegtyxLT6ey9b7Qz+Grv2zqVfT/jPsfUrAlfX/DvfNvOG/aBoKsW8JXqpPtermRyqt7GHCe5TovBn9DtQN87mLiSHkBl0PRlCzZ5lY4kDP+GP71xeRgpIfGUall9z6H53fIkBZJMTPGz0dpkDOuqGEC9AHooMM3iiluzD7Ne2yDA40dusgwg4JGEXw3F0u7PaxKqUBGT+BrKl8K9snFptuLLcs755M/vJx7p1MTnXWeg2UMwMFGhQ==;54pQyWqzynXGvxNYzQkM9A=="
 ---

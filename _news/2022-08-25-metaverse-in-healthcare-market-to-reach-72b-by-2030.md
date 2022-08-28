@@ -19,44 +19,46 @@ topics:
   - AI
 
 related:
-  - title: "Jobs in the metaverse: This AI startup founder wants to change the future of work"
-    excerpt: "Adam Turaev, the founder of Praktika.ai, an AI-based learning platform, believes the metaverse will remove barriers in workplace. He is striving to help non-native English speakers — or their avatars — to be hired by the international companies."
-    publishedDateTime: 2022-08-24T15:45:00Z
-    webUrl: "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/"
-    ampWebUrl: "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/amp/"
+  - title: "5G In Healthcare Market to be Worth $454.7 Billion By 2030: Grand View Research, Inc."
+    excerpt: "Grand View Research, Inc. SAN FRANCISCO, /PRNewswire/ -- The global 5G in healthcare market size is expected to reach USD 454.7 billion by 2030, based on a new report by Grand View Research, Inc, expanding at a CAGR of 34."
+    publishedDateTime: 2022-08-24T13:30:00Z
+    webUrl: "https://www.marketwatch.com/press-release/5g-in-healthcare-market-to-be-worth-4547-billion-by-2030-grand-view-research-inc-2022-08-24"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 52
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 62
     images:
-      - url: "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "Who will establish metaverse ethics?"
-    excerpt: "The metaverse is not a new concept. The term was coined by science fiction novelist Neal Stephenson in his 1992 book Snow Crash, which depicts a hyper-capitalist dystopia in which humanity has collectively opted into life in virtual environments."
-    publishedDateTime: 2022-08-27T03:40:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202208/27/WS6309699da310fd2b29e74891.html"
+  - title: "Automotive Artificial Intelligence Market worth $7.0 Billion by 2027 - Exclusive Report by MarketsandMarkets™"
+    excerpt: "Automotive Artificial Intelligence market size is projected to grow from USD 2.3 Billion in 2022 to USD 7.0 Billion by 2027; it is expected to grow at a CAGR of 24.1% from 2022 to 2027, according to a new report by MarketsandMarkets™."
+    publishedDateTime: 2022-08-24T14:58:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-automotive-artificial-intelligence-market-worth-70-billion-2027-/2022/08/24/9661661.htm"
     type: article
     provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202208/27/6309699da310fd2bec9e80f9.jpeg"
-        width: 669
-        height: 840
-        isCached: true
-  - title: "Kura Technologies’ Artificial Intelligence Generated Optics Deliver the Highest Performance for the Future of the Metaverse"
-    excerpt: "Kura Technologies, an award-winning developer of the best-in-class augmented reality (AR) smart glasses and platform, today announced that its fully custom and highly-anticipated development kit optics are up and running in the lab with production to start later this year."
-    publishedDateTime: 2022-08-24T11:03:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-artificial-intelligence-cb79e856aa4687dc27cfa96827935080"
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
+  - title: "Mental Health Software And Devices Market Size Worth USD 17.2 Billion By 2030 At 16.1% CAGR - Report By Market Research Future (MRFR)"
+    excerpt: "According to a Comprehensive Research Report by Market Research Future (MRFR),“Mental Health Software and Devices Market Information By Software, Functionality, End User, And Region - Forecast till 2030 ',"
+    publishedDateTime: 2022-08-24T19:00:00Z
+    webUrl: "https://menafn.com/1104749781/Mental-Health-Software-And-Devices-Market-Size-Worth-USD-172-Billion-By-2030-At-161-CAGR-Report-By-Market-Research-Future-MRFR"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
+  - title: "Procurement Analytics Market Size Worth $18.18 Billion By 2030: Grand View Research, Inc."
+    excerpt: "The global procurement analytics market size is expected to reach USD 18.18 billion by 2030, according to a new report by Grand View Research, Inc. It is expected to expand at a CAGR of 23.6% from 2022 to 2030."
+    publishedDateTime: 2022-08-25T14:52:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/08/25/9662484.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "JK0S/yMw1+iEYsqnasg/vYvagWIEnrp6062oQot8GQYTHatG9sFMVhGD7jFb/Y8oCqP1cpZvjK9zMLATcumAPwgdVEnZg8LQtP+9B4o35qEE8w0mq3DBB7EDedNIFOUNGJ1PtzZFgq0yNrthQKKLwWxWBK1EGJOLfYBRKofDwoQAzWkrA7HYi2dnYfqGl1ElFQCbIbcY+0BQNXq65h5hIbihWe9jlAjYbljQMcC4dVZrw+ZgViRgtLn7skH9SahU27Cz2uunwutvmP7yyPkv30Jl2GD/4BQR7A3d5XeDBIGOZikjemgfkQNPH5Fk+exbHsSm7MgH+SlnLajhkA4aDNtwfSwdZqyQc6lUGrOliv0=;FZJfQr/bqKAY1hLLTeiPLw=="

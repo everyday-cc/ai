@@ -39,20 +39,6 @@ related:
         width: 1279
         height: 640
         isCached: true
-  - title: "AI startup Anyscale raises $99M"
-    excerpt: "To keep up with the growing computational requirements and engineering complexities of AI projects, companies such as Uber, IBM and Meta have turned to the firm's Ray framework. \"Ray and the Anyscale platform have made tremendous progress in advancing the scaling of machine learning and Python workloads,"
-    publishedDateTime: 2022-08-23T16:08:00Z
-    webUrl: "https://www.beckershospitalreview.com/healthcare-information-technology/ai-startup-anyscale-raises-99m.html"
-    type: article
-    provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 37
-    images:
-      - url: "https://www.beckershospitalreview.com/images/Reviewer_Button6.23.jpg"
-        width: 2640
-        height: 1080
-        isCached: true
   - title: "Anyscale raises $99M to build out its distributed AI computing platform"
     excerpt: "Anyscale is the developer of the open-source Python framework Ray, which is used to run distributed computing projects. Ray includes both a universal serverless compute application programming interface and an expanded ecosystem of libraries."
     publishedDateTime: 2022-08-23T23:51:00Z

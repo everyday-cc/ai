@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/magazines/panache/now-ai-can-detect-park
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/now-ai-can-detect-parkinsons-disease-while-you-are-sleeping/amp_articleshow/93747223.cms"
 type: article
 quality: 57
-heat: 157
+heat: 137
 published: true
 
 provider:
@@ -51,20 +51,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 45
-  - title: "How AI could detect Parkinson’s using breathing patterns"
-    excerpt: "Researchers at MIT recently developed an artificial intelligence model that can detect Parkinson's from breathing patterns."
-    publishedDateTime: 2022-08-23T15:48:00Z
-    webUrl: "https://www.medicaldesignandoutsourcing.com/how-ai-could-detect-parkinsons-using-breathing-patterns/"
-    type: article
-    provider:
-      name: Medical Design and Outsourcing
-      domain: medicaldesignandoutsourcing.com
-    quality: 39
-    images:
-      - url: "https://www.medicaldesignandoutsourcing.com/wp-content/uploads/2022/08/MIT-Parkinsons-algorithm.png"
-        width: 770
-        height: 500
-        isCached: true
   - title: "AI Uses Nocturnal Breathing Patterns to Detect Parkinson's Disease"
     excerpt: "An artificial intelligence-enabled system incorporates nocturnal breathing signals to diagnose Parkinson's disease -- and could be a new biomarker for the condition, new research suggests."
     publishedDateTime: 2022-08-24T17:22:00Z
@@ -136,15 +122,6 @@ related:
       name: unite
       domain: unite.ai
     quality: 19
-  - title: "Scientists invent device that can detect Parkinson’s disease when you’re asleep"
-    excerpt: "Scientists have developed a device that can detect the presence of Parkinson’s disease — one of the fastest-growing neurological conditions in the world. Parkinson’s disease is notoriously difficult to diagnose as it relies primarily on the appearance of motor symptoms such as tremors,"
-    publishedDateTime: 2022-08-23T15:58:00Z
-    webUrl: "https://metro.co.uk/2022/08/23/scientists-invent-device-to-detect-parkinsons-disease-when-asleep-17230585/?ico=amp_tag-post-strip_item_3_news"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 0
 
 secured: "CkNdrlB1mo+S9CIK04SfN2PN23SK4NnlUGfWd1t01/d7XG+jaPVt9d3beFa3G1A65Cd9SikDdJhje7m75hc8diq/UNjXwBPYC2oR7fmpLRZ/grMnYybfR9LwX8Of1iHM8LGHQCacRO3SrLmU43cn5NzqHHTuc4jX5vz9KGixE+EKdw2ahi3Yliz8w1AXmPnhRdulYaqALPaxLwUXsvYeNBNx9teAQ8f0TMg+kxYhKVEUWPExQKoxrPhWKfYohD5YmD/njnAM6Ms3BrTtEPrvxy3AVgh/kHobS+zAXSIc/OTN5F1w2ZuRXBeJc+BD+4kZurgUlAtRnCq+SmQ5chvXFLJEAlaz4IrCvBKVbm99i9L5QSnopNdNeNMeT5KVm5RoALKKQil1tKUcs8NcQe6ryRN15zUfFYrcLOmukGX9wLYR8FUwN4WM3w34J8EKRu4oGcrNxS/rcFl/hjoyTMF6OoPqm8XtBN2CCx/tgFXMxRKXNzWqY7SyZvM11G9uQj9CNuuU6/By6LKGSdH14u/12Q==;yaDAuCf+y6g4+O776JURXQ=="
 ---
