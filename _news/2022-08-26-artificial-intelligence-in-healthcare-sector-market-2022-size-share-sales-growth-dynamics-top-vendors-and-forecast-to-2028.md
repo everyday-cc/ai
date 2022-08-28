@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-2022-size-share-sales-growth-dynamics-top-vendors-and-forecast-to-2028-2022-08-26"
 type: article
 quality: 72
-heat: 162
+heat: 132
 published: true
 
 provider:
@@ -39,34 +39,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing and Recognition Market 2022 Size, Share, Applications, Advance Technology and Top Companies to 2028"
-    excerpt: "The report is a comprehensive guide to comprehending the structure of the global Natural Language Processing and Recognition industry and the future trends that the industry is the potential to experience and thus would help plan an optimal approach to succeed in this Natural Language Processing and Recognition market."
-    publishedDateTime: 2022-08-24T06:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-and-recognition-market-2022-size-share-applications-advance-technology-and-top-companies-to-2028-2022-08-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Artificial Intelligence in Market Size 2022, Share, Growth with Recent Trends, Development, Revenue, Demand and Forecast to 2026"
-    excerpt: "The Latest research study released by expert Global Artificial Intelligence in Market with analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development,"
-    publishedDateTime: 2022-08-24T10:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-market-size-2022-share-growth-with-recent-trends-development-revenue-demand-and-forecast-to-2026-2022-08-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -127,20 +99,6 @@ related:
       - url: "https://i.postimg.cc/VNFBndzq/Social-Media-Graph-01-1-500.png"
         width: 500
         height: 300
-        isCached: true
-  - title: "AI Platforms Software Market Size and Share 2022 Analysis Report by Key Players, Geographical Regions, Future Development and Forecast to 2028"
-    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI Platforms Software Market”"
-    publishedDateTime: 2022-08-25T08:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-platforms-software-market-size-and-share-2022-analysis-report-by-key-players-geographical-regions-future-development-and-forecast-to-2028-2022-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
   - title: "Global Social Robots Market Report (2022 to 2027) - Industry Trends, Share, Size, Growth, Opportunity and Forecasts - ResearchAndMarkets.com"
     excerpt: "The global social robots market size reached US$ 2.6 Billion in 2021. Looking forward, the publisher expects the market to reach US$ 13.3 Billion by 2027, exhibiting a CAGR of 31.26% during 2021-2027."

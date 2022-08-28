@@ -26,22 +26,6 @@ images:
     height: 667
     isCached: true
 
-related:
-  - title: "UK prepares funding, roadmap for self-driving vehicles"
-    excerpt: "The UK has announced plans for new laws and funding of 100 million pounds for the widespread rollout of self-driving vehicles on the nation roads by 2025"
-    publishedDateTime: 2022-08-23T07:30:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272662580/uk-prepares-funding-roadmap-for-self-driving-vehicles"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 24
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1661188007650.jpg"
-        width: 630
-        height: 420
-        isCached: true
-
 secured: "E4v2B3fP8QysqBv/CdLocBf2zTFRxG2S7y0P8w29O4BOViidwPyP87oXoWMJlRFVDdWk1ntyjaSYB6/o3O2+E3O3pRsU6jAc4HMyXVWhWDulPFRFaRcT2NhrY6iU8TfpZD9tb0TMmC+Upm/jFnOzRLXnXBeDaJBwednIJX5MIr0FCNtFV2GfRtlAzO2slQjncr5FFcJ/oG3OEvwXodhal6LGb0wNUK4bo+hWQtHJKRE8PypMeuUzm+q4UR0MbryBzQgrqFgcNTlY0lkjB3eMynvnBE/hsWgzwQx9z42AzbvaJEi1LMVa9dVEXpkTpud03JzG6iVeex+/3TwzaIM1Up6gcb8r9LknK9X8tK2w8hJkhkeCK2oDTtRysUumr8e5yvqKTnyu1VTBhO84bsGZFms2tOIMwf4MUAr6yWb7jABdzsT4lSorEmuYCkoKfJroO1slPxK6YsE1a8BjNQ8XFM/ntFcD5DicJYqAUJ+VyROjOCC6JUiStC4DrHHUt4P0QjPpFGvSluFErK793W/+CA==;SOqTYAhckwm+UCP5A7AxNA=="
 ---
 

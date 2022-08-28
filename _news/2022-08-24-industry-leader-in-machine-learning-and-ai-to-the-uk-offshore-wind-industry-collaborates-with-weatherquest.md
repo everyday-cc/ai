@@ -24,6 +24,17 @@ images:
     height: 627
     isCached: true
 
+related:
+  - title: "Machine and deep learning are a MUST at the North-West University"
+    excerpt: "Our world is speeding up, and never in human existence have we been able to search as fast, travel as far or delve as deep."
+    publishedDateTime: 2022-08-25T12:46:00Z
+    webUrl: "https://mybroadband.co.za/news/industrynews/458001-machine-and-deep-learning-are-a-must-at-the-north-west-university.html"
+    type: article
+    provider:
+      name: MyBroadband
+      domain: mybroadband.co.za
+    quality: 19
+
 secured: "KBrq2YC7t8NNt06NXOnKSYiuX3H/5lJ/RCoNpY4wF2hZUOcZA02Ltb4khdzp4dyHe0yDkQ2FNSiwkJpPsCeUY6sjgnufwhnztjCyqThcvAWdqhew7Tzmr+liXUfVE4yUMUKjI4DCRMaAK6ak7aq8g77lH9g8mNGIkwe294ZhtJgzzRz2FGwBY5AYHSssxHDZ0+o6tR3eyJxV2W0h2i7Zvjw6oks7HVmUT3+Irxt4/OUXygrTsSLqhbfbuOA88J2K35TQAU+m5q8VT2V8n4dT6YEZTuD34zYkLK1jc+iI61sNPbvJhQ3rF6EF5yfwdnve4drjKh5cjLJ3dOazGzRwPMP/V8NbCqXmj4WN98gR+8n3vmy1i181/EboiGLs9/Zdr1Mz87qWuw886ZRDoQ6kEsqYbvN0jKBS43pcfz0uRO5GFoW2IcCCcC9+zYXWMOmEfV6ymKudp2xyCLZnIhGK7L2nAIOziGSwcaNBAXrdtmuzEtUgZBAUsNCNX2CSe71O1al04Ovpxnic79mGWs/CRA==;Ec0qImkwqIYjQPHVfCBOIw=="
 ---
 

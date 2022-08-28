@@ -42,22 +42,6 @@ related:
         width: 1200
         height: 628
         isCached: true
-  - title: "AI To Eliminate Hiring Bias, Find Skilled Workers For Indian Firms"
-    excerpt: "About 50 per cent of recruiters believe that AI will become a regular part of their hiring process in the coming years."
-    publishedDateTime: 2022-08-23T08:23:00Z
-    webUrl: "https://www.india.com/technology/ai-to-eliminate-hiring-bias-find-skilled-workers-for-indian-firms-5588873/"
-    ampWebUrl: "https://www.india.com/technology/ai-to-eliminate-hiring-bias-find-skilled-workers-for-indian-firms-5588873/amp/"
-    cdnAmpWebUrl: "https://www-india-com.cdn.ampproject.org/c/s/www.india.com/technology/ai-to-eliminate-hiring-bias-find-skilled-workers-for-indian-firms-5588873/amp/"
-    type: article
-    provider:
-      name: India.com
-      domain: india.com
-    quality: 57
-    images:
-      - url: "https://static.india.com/wp-content/uploads/2021/08/Artificial-Intelligence-AI-in-India.jpg"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "T2aBYlhWJ6gUXM2tM8RGoNxzZ77TiKoDUyqWpDUdAd9RQ7Pbm+vOg0+wN8AZjN4Nl1YoG4jw5flgLCU0/evu10O7FlU+6GJP1WHxhJiBbLEQysk6zdDhX4l5hAh8YcWtlHgmxY7RfQZDaHoI1sCh7DCTq5bQWp5vW5C41rYlNRBYILIi7YgRnSlSk5UnvwIiocZnx0b79iOhbOCKCh1rZ/JzqCL5YHHo5cfLKjv7ghpNit/n8fyd5xQrZVV0cE14TbtOx2s2kfB2UmL4Egi0FwoLyIKDPP5VPwXUHkPZB8WkqY9j8cq+WiYTPmBRvCtW674WOJAgBKaen7aw0uAtWama5f7NAU/Uoj1GJ8fTFfh8mgwr8RWPo8IgWvytwebpwXlluXqfjiL//5IvQCb4dPQUS8zbkFRdkZhdl0mqlg9cITVU1jUZgVnwRF6ZfmqmDXKvlQehGjxDRS6T6LneLTRdJELF9ULHbNJLZPXUL1w0ykqZXhmkT97BMIFtn+t7bFgs3aMKXnuXsosJhAsNGQ==;bKZI5yIpmBF8v55GlXpgtQ=="
 ---

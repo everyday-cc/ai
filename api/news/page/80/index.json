@@ -2,6 +2,49 @@
   "page": 80,
   "value": [
     {
+      "path": "_news/2022-06-22-egat-drives-sustainable-operations-with-ibm-ai.md",
+      "title": "EGAT drives sustainable operations with IBM AI",
+      "excerpt": "In addition, the proven increased production efficiency also leads to the expanded use of IBM's AI-powered asset management system at our hydroelectric and solar power plants. This drive towards ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.asiaone.com/business/egat-drives-sustainable-operations-ibm-ai",
+      "originalUrl": "https://www.asiaone.com/business/egat-drives-sustainable-operations-ibm-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.asiaone.com/sites/default/files/styles/a1_600x316/public/original_images/Jun2022/pr-newswire_500_4_1288.jpg?h=7de12b8a&itok=z2jGRmC9",
+          "width": 600,
+          "height": 316,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Asia One",
+        "domain": "asiaone.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-cerebras-systems-sets-record-for-largest-ai-models-ever-trained-on-a-single-device.md",
       "title": "Cerebras Systems Sets Record for Largest AI Models Ever Trained on a Single Device",
       "excerpt": "Cerebras Systems, the pioneer in high performance artificial intelligence (AI) computing, today announced, for the first time ever, the ability to train models with up to 20 billion parameters on a single CS-2 system – a feat not possible on any other single device.",
@@ -1101,49 +1144,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-uncovering-links-between-grit-and-cognitive-function.md",
-      "title": "Uncovering links between grit and cognitive function",
-      "excerpt": "Gritty people may be more able to self-regulate and show 'cautious control' -- but don't necessarily have greater cognitive ability, according to a new study. A new analysis of the personality ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/06/220622141825.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/06/220622141825.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

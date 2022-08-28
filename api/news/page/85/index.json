@@ -2,6 +2,49 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2022-06-19-opinion-too-many-flaws-in-commonwealths-facial-recognition-law.md",
+      "title": "Opinion: Too many flaws in commonwealth’s facial recognition law",
+      "excerpt": "Virginia’s new law does not adequately address the risks facial recognition poses, Georgetown Law's Jameson Spivack writes in a guest column.",
+      "sourceUrl": null,
+      "webUrl": "https://www.dailypress.com/opinion/vp-ed-column-spivack-0619-20220618-uuduf5u7a5blhp6ya2pmd4gmxm-story.html",
+      "originalUrl": "https://www.dailypress.com/opinion/vp-ed-column-spivack-0619-20220618-uuduf5u7a5blhp6ya2pmd4gmxm-story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.dailypress.com/resizer/aqlo7BFfe8I2VRn2WP7gYdR2q88=/1200x630/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/tronc/YLHLP4YUU4VYXXQW3NOMXA2F2Y.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-18T15:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Daily Press",
+        "domain": "dailypress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-19-real-world-data-show-efficacy-of-digital-cognitive-behavioral-therapy-for-insomnia.md",
       "title": "Real-world Data Show Efficacy of Digital Cognitive Behavioral Therapy for Insomnia",
       "excerpt": "Real-world data showed that cognitive behavioral therapy for insomnia (CBT-I) delivered via a digital therapeutic was effective, according to a study published in Behaviour Research and Therapy.",
@@ -1112,48 +1155,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions.md",
-      "title": "Maruti invests Rs 2 cr in AI startup Sociograph Solutions",
-      "excerpt": "Maruti plans to use the visual artificial intelligence (AI) platform of SSPL to enhance the digital sales experience of its customers, it added.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/tech/startups/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions/articleshow/92276837.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/tech/startups/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions/articleshow/92276837.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-22704,msid-92276855/maruti-.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/tech/startups/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions/amp_articleshow/92276837.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/startups/maruti-invests-rs-2-cr-in-ai-startup-sociograph-solutions/amp_articleshow/92276837.cms",
-      "publishedDateTime": "2022-06-17T01:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
