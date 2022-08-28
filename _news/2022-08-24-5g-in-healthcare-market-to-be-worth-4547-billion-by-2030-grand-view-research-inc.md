@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/5g-in-healthcare-market-
 webUrl: "https://www.marketwatch.com/press-release/5g-in-healthcare-market-to-be-worth-4547-billion-by-2030-grand-view-research-inc-2022-08-24"
 type: article
 quality: 62
-heat: 102
+heat: 112
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "The global AI in the education market is projected to reach USD 11.68 billion by 2031 at a CAGR of 47% during the forecast period 2022 till 2031"
+    excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on Artificial intelligence (AI) in Education Marketwhich emphasizes on the latest trends, key opportunities,"
+    publishedDateTime: 2022-08-25T06:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-global-ai-in-the-education-market-is-projected-to-reach-usd-1168-billion-by-2031-at-a-cagr-of-47-during-the-forecast-period-2022-till-2031-2022-08-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Metaverse in healthcare market to reach $72B by 2030"
     excerpt: "The 2021 metaverse global market size is about $6.85 billion. According to an Aug. 24 news release from Precedence Research, it is expected to surpass $70.1 billion by 2030 with a compound annual growth rate of 28."
     publishedDateTime: 2022-08-24T18:53:00Z

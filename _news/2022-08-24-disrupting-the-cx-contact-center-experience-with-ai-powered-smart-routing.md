@@ -9,7 +9,7 @@ ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/disrupting-the-cx-c
 cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/disrupting-the-cx-contact-center-experience-with-ai-powered-smart-routing/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 1280
     height: 1280
     isCached: true
-
-related:
-  - title: "DICK'S Sporting Goods Partners with Metrical to Improve Conversion and Personalize the Shopping Experience with AI"
-    excerpt: "Predictive AI Decision Engine Drives Improvement in Cart Abandonment, Loyalty, Brand Support, Revenue and Targeted Engagement That Delivers a More Personalized Shopping Experience. EL CERRITO, Calif."
-    publishedDateTime: 2022-08-23T19:00:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/p28606737/dicks-sporting-goods-partners-with-metrical-to-improve-conversion-and-personalize-the-shopping-exp"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 0
 
 secured: "RRGbO/yu4mfcUDD/HA35LdHE10fmNKzwdfiCTXu096XTJ5qiKEAmczhzVpB7xIdZWu0SVJSFrHeQcw+t/lnH0R71aWP2yo2Wy+UixIeo2aF/UW+DJmWoWw45nwQUy6qPwUXeXWLxEd/H4xcA2VTN8sBlB2YKJcwjd6aOjQQSNacmLssGucCKrF9TXMc63Hrtjy1DTfSHrUGcMtNPQAb3/qa/N/KRTw9eiALK3ig1uaYxdLISOdAn+R68Qy/9CEZUIwsfhVC2cesKjpPSG1EmUy+zXmBw83A8iwj+TceibcmXmMB80UQ+0xxmQYLQlNRLv89uCxkeLG8PexVBXGWmDMjjVXLiMw7y7Loy/N02TZg=;Fg9pFXZam65PfmSwjRBmrg=="
 ---

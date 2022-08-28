@@ -2,6 +2,57 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-28-the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life.md",
+      "title": "The Labor Shortage Is Killing American Manufacturing. Here’s How AI Can Bring It Back To Life.",
+      "excerpt": "The manufacturing labor shortage has paved the way for widespread deployment of some very exciting innovations in Artificial Intelligence for manufacturing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630a2dd5ded4dcda937d1fd9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/amp/",
+      "publishedDateTime": "2022-08-28T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-28-one-mans-dream-of-fusing-ai-with-common-sense.md",
       "title": "One Man’s Dream of Fusing A.I. With Common Sense",
       "excerpt": "Artificial intelligence systems can process vast amounts of data in seconds, but they can’t make sense of the world or explain their decisions. David Ferrucci wants to change that.",
@@ -925,7 +976,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-2022-size-share-sales-growth-dynamics-top-vendors-and-forecast-to-2028-2022-08-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 92,
+      "heat": 132,
       "tags": null,
       "images": [
         {
@@ -1155,57 +1206,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-lg-introduces-240hz-curved-oled-ultragear-monitor-monitor-with-ai-tracking.md",
-      "title": "LG Introduces 240Hz Curved OLED UltraGear Monitor, Monitor with AI Tracking",
-      "excerpt": "LG also launched a quirky-sounding 32-inch UltraFine Display Ergo AI (32UQ890). It uses a camera to analyze your posture, adjusting the height and tilt of the monitor to keep you from \"remaining in a single position for too long or from falling into poor ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/lg-introduces-240hz-curved-oled-ultragear-monitor-monitor-with-ai-tracking/",
-      "originalUrl": "https://www.cnet.com/tech/computing/lg-introduces-240hz-curved-oled-ultragear-monitor-monitor-with-ai-tracking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/0252c1b9404973e60017e041d1ae811fb5d1c144/2022/08/25/dcd3bbb6-ba5b-4931-8bfe-d77391823502/lg-ultragear-oled-gaming-monitor45gr95qe-01-kv.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/lg-introduces-240hz-curved-oled-ultragear-monitor-monitor-with-ai-tracking/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lg-introduces-240hz-curved-oled-ultragear-monitor-monitor-with-ai-tracking/",
-      "publishedDateTime": "2022-08-25T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

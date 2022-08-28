@@ -2,6 +2,102 @@
   "page": 64,
   "value": [
     {
+      "path": "_news/2022-07-05-natural-language-processing-market-development-and-opportunities-with-forecast-2024.md",
+      "title": "Natural language processing market Development and Opportunities with Forecast 2024",
+      "excerpt": "Various industrial sectors today including healthcare, manufacturing, BFSI, automotive, and advertising are growing adoption of different advanced technologies in order to offer superior quality ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/natural-language-processing-market-development-and-opportunities-with-forecast-2024",
+      "originalUrl": "https://www.digitaljournal.com/pr/natural-language-processing-market-development-and-opportunities-with-forecast-2024",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/AAA-6-1-600x337.png",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-05T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-05-microsoft-is-scrapping-some-bad-ai-facial-recognition-tools.md",
+      "title": "Microsoft Is Scrapping Some Bad A.I. Facial Recognition Tools",
+      "excerpt": "As an outspoken proponent to properly regulate facial recognition technology, Microsoft﻿ announced it would get rid of its A.I. tools in this space. The tech giant is ending its role in the potential for facial recognition technology abuse,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/",
+      "originalUrl": "https://www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/1139859542/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 943,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/korihale/2022/07/05/microsoft-is-scrapping-some-bad-ai-facial-recognition-tools/amp/",
+      "publishedDateTime": "2022-07-05T03:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-05-global-machine-learning-market-is-expected-to-reach-usd-19254-billion-at-a-cagr-of-46-and-forecast-to-2027.md",
       "title": "Global Machine Learning Market Is Expected To Reach USD 192.54 Billion At A CAGR Of 46% And Forecast To 2027",
       "excerpt": "A thorough picture of the competitive landscape of major competitors in the Machine Learning market by goods and services, revenue, financial situation, portfolio, growth plans, and geographical ...",
@@ -1016,90 +1112,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-employee-experience-automation-human-ai-care-for-your-workforce.md",
-      "title": "Employee experience automation: Human-AI care for your workforce",
-      "excerpt": "Apps for AI-enabled automation are for more than customer support and engagement. They offer value for many people-management activities.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/03/employee-experience-automation-human-ai-care-for-your-workforce/",
-      "originalUrl": "https://venturebeat.com/2022/07/03/employee-experience-automation-human-ai-care-for-your-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1169246375.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/03/employee-experience-automation-human-ai-care-for-your-workforce/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/03/employee-experience-automation-human-ai-care-for-your-workforce/amp/",
-      "publishedDateTime": "2022-07-03T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-ai-image-generation-sharpens-your-bad-photos-and-kills-photography.md",
-      "title": "AI Image Generation Sharpens Your Bad Photos And Kills Photography?",
-      "excerpt": "We don’t fully understand the appeal of asking an AI for a picture of a gorilla eating a waffle while wearing headphones is worthwhile. However, [Micael Widell] shows something in a recent",
-      "sourceUrl": null,
-      "webUrl": "https://hackaday.com/2022/07/03/ai-image-generation-sharpens-your-bad-photos-and-kills-photography/",
-      "originalUrl": "https://hackaday.com/2022/07/03/ai-image-generation-sharpens-your-bad-photos-and-kills-photography/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-03T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Hackaday",
-        "domain": "hackaday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

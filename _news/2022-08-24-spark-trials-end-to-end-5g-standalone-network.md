@@ -33,15 +33,6 @@ related:
         width: 473
         height: 315
         isCached: true
-  - title: "Spark Trials New Zealand’s First End-to-End 5G Standalone Network"
-    excerpt: "First New Zealand mobile network provider to progress the development of its end-to-end 5G standalone network and test ‘true 5G’ Spark has created and run two proof-of-concepts to lay the groundwork for 5G standalone roll out in New Zealand,"
-    publishedDateTime: 2022-08-23T17:12:00Z
-    webUrl: "https://www.scoop.co.nz/stories/BU2208/S00306/spark-trials-new-zealands-first-end-to-end-5g-standalone-network.htm"
-    type: article
-    provider:
-      name: Scoop
-      domain: scoop.co.nz
-    quality: 4
 
 secured: "gnpQTOuM9rrBjjlbc5vKUDrdyPTWJuRpPZSSOpo3mDSr3rEQDEKzo8IraybYQEEW6YSn/G0V1fC4QMYi+SdIHJqESp1SgFe+lr7jdbOBZ/T/Crn8O/deUms0owFCsAS4C7FW6PtP4cgLNno8iRnSGCIu/Blbklo+C6GVjOnNQmgNCU/MkvZMyI+JC3wvDl/MRsgZCsJQB5FicCNXKK8Mqv2oX6YFWSU0aSS6AGcMEzDpu1q8xfBwc/kARWbllbhynJNKvEMZb0tDGBVKPU9j3TjpJEpn9zO/tMBA23ZygxwXQ22UwnPOLqHmubtY7HB5Kzdz4P3Ps1a+8jHbK0nXP1Tl0ZkA3+G01q8F6sR1dUo=;Y4wnKbGZDvixcNvLSM7YGg=="
 ---

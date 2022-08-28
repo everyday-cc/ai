@@ -22,33 +22,33 @@ topics:
   - AI
 
 related:
-  - title: "Google research AI image noise reduction is out of this world"
-    excerpt: "If you have great lighting, a good photographer can take decent photos even with the crappiest camera imaginable. In low light, though, all bets are off. Sure, some cameras can shoot haunting video lit only by the light of the moon,"
-    publishedDateTime: 2022-08-23T17:25:00Z
-    webUrl: "https://techcrunch.com/2022/08/23/nerf-in-the-dark/"
-    ampWebUrl: "https://techcrunch.com/2022/08/23/nerf-in-the-dark/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/23/nerf-in-the-dark/amp/"
+  - title: "This new Google Photo AI tool is a game-changer- it can see in the dark"
+    excerpt: "Google is working on a new RawNeRF tool to outperform the deep raw de-noisers in low-light settings. This is how it will change night photography."
+    publishedDateTime: 2022-08-25T07:53:00Z
+    webUrl: "https://tech.hindustantimes.com/tech/news/this-new-google-photo-ai-tool-is-a-game-changer-it-can-see-in-the-dark-71661413682138.html"
+    ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/this-new-google-photo-ai-tool-is-a-game-changer-it-can-see-in-the-dark-71661413682138.html"
+    cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/this-new-google-photo-ai-tool-is-a-game-changer-it-can-see-in-the-dark-71661413682138.html"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 87
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 57
     images:
-      - url: "https://i.ytimg.com/vi/JtBS4KBcKVc/hqdefault.jpg"
-        width: 480
-        height: 360
+      - url: "https://images.hindustantimes.com/tech/img/2022/08/25/1600x900/joey-huang-t1zrbUSg8Qg-unsplash_1661413886615_1661413909755_1661413909755.jpg"
+        width: 1600
+        height: 882
         isCached: true
-  - title: "Seeing in the dark: Google researchers use AI to create novel HDR views from noisy raw images"
-    excerpt: "Google researchers have used Neural Radiance Fields (NeRF) and high dynamic range raw input data to create HDR view synthesis with extremely low noise and high levels of detail."
-    publishedDateTime: 2022-08-25T18:43:00Z
-    webUrl: "https://www.dpreview.com/news/6268499546/seeing-in-the-dark-google-researchers-use-ai-to-create-novel-hdr-views-from-noisy-raw-images"
-    ampWebUrl: "https://m.dpreview.com/news/6268499546/seeing-in-the-dark-google-researchers-use-ai-to-create-novel-hdr-views-from-noisy-raw-images.amp"
-    cdnAmpWebUrl: "https://m-dpreview-com.cdn.ampproject.org/c/s/m.dpreview.com/news/6268499546/seeing-in-the-dark-google-researchers-use-ai-to-create-novel-hdr-views-from-noisy-raw-images.amp"
+  - title: "Tenzai emerges as a winner at the NASSCOM AI Gamechanger Awards"
+    excerpt: "Tenzai Systems, a purpose-driven AI and Data Science Solutions provider, won the prestigious NASSCOM AI Gamechangers 2022 Award in the Business Intelligence category for its Supply Chain optimization solution."
+    publishedDateTime: 2022-08-25T22:35:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/ab28642365/tenzai-emerges-as-a-winner-at-the-nasscom-ai-gamechanger-awards"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28642365"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28642365"
     type: article
     provider:
-      name: Digital Photography Review
-      domain: dpreview.com
-    quality: 26
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 37
 
 secured: "LoCyv15BQiMmI5lyvoxR5ewN43QcWMrftyfn5aF/lGLgp4iT8nB+POS8G6iqpqEktk8mVqiXM6DxFBUznNGGUk3r854x02G4JbCmkrvLOzavNO7UYhTUmINLiSdO9gSX7yGwGoz1phDPlLpOGSAFpBQ1jyaG0scsBbEyFSlN+cte+uSen5V3p6tUiESC8WjOctYHnTBElr6i1uWqtYLAvw/TvUeaD1O/KQ6AryW1m/922mLy/4nXr17/e4bsOfZuXR0etu7o8ZTDQV7vCrK5QiCjFZ/2jDQcHMAxeYsNQWCJ1Tk9zvmo7RSw4LKcueIlid+gkOMn2RJEK4jIFiVy6MIhrXV01EOepm7ClYuVyuvsUvKOJbhHxAgute2cZ8nStNLAgiXTFFpkhJvztu/eLvT/+19VrTAfiE0QC2tsUXIhr9CxYJqyNjuAqX57+uhAH18VPEVrUKGyGCswuhsnXOOgzBCxkOp6dyKvQyavkMRKhO6UHSIM0fQ30LcSluC7tgBh63GnJrz4sIQVhsxvhA==;FI1EbnTuhgd5aZe6aBMSCw=="
 ---

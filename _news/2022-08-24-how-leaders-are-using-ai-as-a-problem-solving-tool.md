@@ -9,8 +9,8 @@ ampWebUrl: "https://www.forbes.com/sites/benjaminlaker/2022/08/24/how-leaders-ar
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/benjaminlaker/2022/08/24/how-leaders-are-using-ai-as-a-problem-solving-tool/amp/"
 type: article
 quality: 89
-heat: -1
-published: false
+heat: 109
+published: true
 
 provider:
   name: Forbes
@@ -31,79 +31,29 @@ images:
     isCached: true
 
 related:
-  - title: "Assembly AI offers AI-as-a-service API to ease model development"
-    excerpt: "Offered as an AI-as-a-service model, Assembly AI's latest APIs can perform various tasks ranging from summarization and content moderation to topic detection."
-    publishedDateTime: 2022-08-23T17:50:00Z
-    webUrl: "https://venturebeat.com/ai/assembly-ai-offers-ai-as-a-service-api-to-ease-model-development/"
-    ampWebUrl: "https://venturebeat.com/ai/assembly-ai-offers-ai-as-a-service-api-to-ease-model-development/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/assembly-ai-offers-ai-as-a-service-api-to-ease-model-development/amp/"
+  - title: "Protecting AI Data in Manufacturing Is a New Frontier"
+    excerpt: "Big data and AI have revolutionized the manufacturing industry, making factories autonomous as well as smart. With the advent of novel sensors and the Internet of Things, current manufacturing facilities are collecting trillions of bytes of data from ..."
+    publishedDateTime: 2022-08-25T21:24:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/digital-tools/article/21249490/protecting-ai-data-in-manufacturing-is-a-new-frontier"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 93
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 37
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2022/08/Assembly-AI.jpg?fit=800%2C450&strip=all"
-        width: 800
-        height: 450
+      - url: "https://img.industryweek.com/files/base/ebm/industryweek/image/2022/08/AI_FActory.6307e2ab38448.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
         isCached: true
-  - title: "OpenAI Announces New Pricing Model for its API"
-    excerpt: "OpenAI, the AI company behind the GPT-3 language model for advanced natural language processing, has announced that it will be lowering its pricing for the OpenAI API. The price change for the API, which provides access to all GPT-3 models,"
-    publishedDateTime: 2022-08-24T22:30:00Z
-    webUrl: "https://www.programmableweb.com/news/openai-announces-new-pricing-model-its-api/brief/2022/08/24"
-    ampWebUrl: "https://www.programmableweb.com/news/openai-announces-new-pricing-model-its-api/brief/2022/08/24?amp"
-    cdnAmpWebUrl: "https://www-programmableweb-com.cdn.ampproject.org/c/s/www.programmableweb.com/news/openai-announces-new-pricing-model-its-api/brief/2022/08/24?amp"
+  - title: "Empowering Leaders: How AI Can Enable Better Decision-Making and Success"
+    excerpt: "By Richard Boyd, Founder and CEO of artificial intelligence and machine learning company Tanjo Inc As if straight from science fiction, Artificial Intelligence, perhaps the buzzword of the 21st century,"
+    publishedDateTime: 2022-08-25T18:37:00Z
+    webUrl: "https://www.globalbankingandfinance.com/empowering-leaders-how-ai-can-enable-better-decision-making-and-success/"
     type: article
     provider:
-      name: ProgrammableWeb
-      domain: programmableweb.com
-    quality: 59
-    images:
-      - url: "https://www.programmableweb.com/sites/default/files/OpenAI-Announces-New-Pricing-Model-for-its-API-featured.png"
-        width: 640
-        height: 367
-        isCached: true
-  - title: "How AIaaS (AI-as-a-service) can help democratize AI"
-    excerpt: "“SMEs [small- to medium-sized enterprises] are often plagued with the problem of scaling their operations on account of huge financial ... vertical services provisioning such as inference-as-a-service, annotation-as-a-service, and machine learning ..."
-    publishedDateTime: 2022-08-24T13:40:00Z
-    webUrl: "https://venturebeat.com/ai/how-ai-as-a-service-can-help-democratize-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 51
-  - title: "Automated Techniques Could Make It Easier to Develop AI"
-    excerpt: "A growing field called automated machine learning, or autoML, aims to eliminate the guesswork. The idea is to have algorithms take over the decisions that researchers currently have to make when designing models."
-    publishedDateTime: 2022-08-26T16:08:00Z
-    webUrl: "https://www.automation.com/en-us/articles/august-2022/automated-techniques-develop-ai"
-    type: article
-    provider:
-      name: Automation
-      domain: automation.com
-    quality: 39
-    images:
-      - url: "https://www.automation.com/getmedia/cde773d6-6ad4-4f66-9696-b69a085b0b09/MIT-feature-Aug-26-2022-web.png?width=500&height=313&ext=.png"
-        width: 500
-        height: 313
-        isCached: true
-  - title: "GNS and Servier Announce AI Collaboration to Advance Multiple Myeloma Drug Discovery and Clinical Development"
-    excerpt: "\"This collaboration furthers Servier's goal to accelerate its drug discovery and clinical development efforts through AI and biosimulation and other digital initiatives,\" said Claude Bertrand, EVP of Research and Development at Servier."
-    publishedDateTime: 2022-08-24T14:13:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/gns-and-servier-announce-ai-collaboration-to-advance-multiple-myeloma-drug-discovery-and-clinical-development-1031703502"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 30
-  - title: "Human-level AI is a giant risk. Why are we entrusting its development to tech CEOs?"
-    excerpt: "But the plan of cutting-edge tech entrepreneurs is now to build way more powerful human-level AI, which will have much larger effects on society. These effects could, in theory, be very positive: automating intelligence could for example release us from work that we prefer not to do."
-    publishedDateTime: 2022-08-27T15:25:00Z
-    webUrl: "https://www.salon.com/2022/08/27/human-level-ai-is-a-giant-risk-why-are-we-entrusting-its-development-to-tech-ceos/"
-    type: article
-    provider:
-      name: Salon
-      domain: salon.com
-    quality: 13
+      name: List of Banks in Belarus
+      domain: globalbankingandfinance.com
+    quality: 16
 
 secured: "O4GVgtoOUyyAZUW2omecwGSt3Tdzab4X4d/WPW/Vfrlj6yWuw8j+KZlC9EQaw3gzkV7HQvxOYN0PQVVoPIIbS+pn874oGVrNgl0lFjAD5CI4iEZWhdOXrLsu2qHqWXzp4xSWG/egTVTMXG6G4hEDp6maJKL6suuqt1yjmJ0Ank9ePcUnc/ZSi3DKTGls6Fr16A/CPqWL+kxQe7RKui4RvTkPPvhXBHL73GSAVdmUJiIGkRvP0RbfaGRC6bGwMoLws6c8xwJ56JNQX4C/lEe6O1qGk1hC9OEQgn69rCMA/JDhK+EMxsYIqDHJ7YwyBqSKdAR8bRtpaZWNBFZQ4RDw79Cr3dI/TFQXrNKv2iocrzT8qh+Uj8Hue9u6a+MD2zwJNBlo4It2K35rz3D6yAb8khHwiCfS2LqvltB6EPRlNiBT55FnOHgyKr7ckkMnIFl1ARM0yiOPd94IpiKycStmj9RY1CVeQFNYRKZH639opfTD35KUtMcnP0LEqTRdGBwqX/to2dJKRM0TYNjRr20r0g==;WW029+d34rOVYKjucAI4XA=="
 ---

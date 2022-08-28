@@ -38,20 +38,6 @@ related:
         width: 1279
         height: 640
         isCached: true
-  - title: "Anyscale Branches Beyond ML Training with Ray 2.0 and AI Runtime"
-    excerpt: "Anyscale today came one step closer to fulfilling its goal of enabling any Python application to scale to an arbitrarily large degree with the launch of"
-    publishedDateTime: 2022-08-23T17:29:00Z
-    webUrl: "https://www.datanami.com/2022/08/23/anyscale-branches-beyond-ml-training-with-ray-2-0-and-ai-runtime/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/08/data_center_shutterstock_kwarkot.jpg"
-        width: 1000
-        height: 563
-        isCached: true
 
 secured: "od4Y5VzHUqXemLwhTMn0bfYhr52+oee+hhvu/jw2kLlmEBFTbhHcbmuNIkr8rZTri2dF2BKPEW0K1dTQxBhUPrdDCRGtsof+mDW6+qL+blt48DPujc0BBNqX59U4agUDMXPGbtncYx7GAgbS60aElNk1nYCeFdDIADkzg/0YI8S1zkQ0UTrInw+H7dZshfpzoAmDgw1CTvkk32mHqKB2AszC4cwbXLdwL4jbg1Bpb5Z2C3bsS+4Lr5HV78G0RSMjavpFuIfIcbi+so01qB82nr+veJ8lHFOGgjIYFvX1P+phlB33sSiKyUI5dPNnxPHs1+wzKXGsknYWMH72UufII+WQGUCu9VXNWBo43AEMIbr9yke7zpbvjQI2hXyuWMan8jHLLNANMhmS4KJJBvB4rbalNWMfBlHri61FUn36AXlCa+KJddvd/IbkZArVTzDByEHw/2E0PnmP13IzM+XhD27BYYrZUr+ZpOSALuyczwynJFedLURrwau5eby2Yjs/ZRyX03UtSgdP5QnHp49kNw==;CMQxj6js7vaqsw2+G+Vc6Q=="
 ---

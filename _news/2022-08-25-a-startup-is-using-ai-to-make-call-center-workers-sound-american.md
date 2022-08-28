@@ -26,49 +26,21 @@ images:
     isCached: true
 
 related:
-  - title: "AI Startup Wants to Make Foreign Call Center Employees Sound White"
-    excerpt: "Sanas argues that its technology can be empowering for call center employees by removing bias and limiting misunderstandings during phone conversations. Critics say it's erasure."
-    publishedDateTime: 2022-08-25T16:56:00Z
-    webUrl: "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
+  - title: "The Labor Shortage Is Killing American Manufacturing. Here’s How AI Can Bring It Back To Life."
+    excerpt: "The manufacturing labor shortage has paved the way for widespread deployment of some very exciting innovations in Artificial Intelligence for manufacturing."
+    publishedDateTime: 2022-08-28T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/"
+    ampWebUrl: "https://www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/amp/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 69
+      name: Forbes
+      domain: forbes.com
+    quality: 75
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/a/ai-startup/ai-startup-wants-to-make-foreign-call-center-employees-sound_3ra4.1200.jpg"
+      - url: "https://imageio.forbes.com/specials-images/imageserve/630a2dd5ded4dcda937d1fd9/0x0.jpg?format=jpg&width=1200"
         width: 1200
-        height: 675
-        isCached: true
-  - title: "The AI startup erasing call center worker accents: is it fighting bias – or perpetuating it?"
-    excerpt: "A Silicon Valley startup offers voice-altering tech to call center workers around the world: ‘Yes, this is wrong … but a lot of things exist in the world’"
-    publishedDateTime: 2022-08-24T13:13:00Z
-    webUrl: "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
-    ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 48
-    images:
-      - url: "https://i.guim.co.uk/img/media/b78a80dcbe5e356a1d5b5cdcb8bec72fd38da9e8/453_682_6496_3898/master/6496.jpg?width=620&quality=85&auto=format&fit=max&s=506613242ac1f196cf1c3c70b0c77f6a"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "AI tech can make foreign call centre workers sound ‘like us’, but we should respect different accents"
-    excerpt: "Perhaps I could have done with new voice-changing technology that makes you sound more “Western”. Sanas, a Silicon Valley startup, is offering tech that enables call centre workers around the world to sound less foreign."
-    publishedDateTime: 2022-08-27T08:00:00Z
-    webUrl: "https://inews.co.uk/opinion/ai-tech-foreign-call-centre-workers-different-accents-1817526"
-    type: article
-    provider:
-      name: i
-      domain: inews.co.uk
-    quality: 22
-    images:
-      - url: "https://wp.inews.co.uk/wp-content/uploads/2022/08/SEI_121192344.jpg"
-        width: 2500
-        height: 1667
+        height: 800
         isCached: true
 
 secured: "TDCJvCQZNp5A5t5r/BzYiNHMsm7BEmk+FyaDPkDH6Z01IkFl+Di/NCrljyRDnWCL9fAmaZmhFW39RE9+z9nVgu5XIkT3qVt5+AOje5vlw1N+zdZxW3uyTNmVeucmtvsSrXLY49EebemA9RLSOXQETlpFWZmZerKwNNuhDZ276iYtBaZt8VXQa3Xz9nhvB/w00UjEEurikK8gqkAlhQ+gbcU7/WdTt1pH0ahiadYapidcXmu1IFyfpGlLhmK6LQJJvSApBfqBBM+SVC68WtqHRE5d0kkg/rGUL8tdUGLo7X6brFOhG2EigV+DM8gOTI6ieBqkDoKjwE7eVOil1zpR1bIVLDknQ/pms5QaGffCLY9hxUjRoanIs5ipod07qlUtJDDpdfB+uS5VZaT5D2j8cMMNly05HJOvcQvxQedpC+E1c734IYZF5zOkpnswjEm9PWZYmtERvt1OlJud/mbHPtR9zJC0dF+bWPPxRoZPv+hPbl5a0NhxavIjcU9CjBt0rPEbsDbSDzGf9v0dv8VNfQ==;nDJQdnMxOzC0ku7L3pmXMg=="

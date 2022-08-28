@@ -7,7 +7,7 @@ originalUrl: "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-
 webUrl: "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
 type: article
 quality: 69
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "A startup is using AI to make call center workers sound ‘American’"
-    excerpt: "Sanas says its aim is to cut through some Americans' biases towards minorities. Critics argue their services may make things worse."
-    publishedDateTime: 2022-08-25T14:00:00Z
-    webUrl: "https://www.popsci.com/technology/startup-call-center-voices-ai-american-accent/"
-    ampWebUrl: "https://www.popsci.com/technology/startup-call-center-voices-ai-american-accent/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/startup-call-center-voices-ai-american-accent/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2022/08/24/Depositphotos_156054790_XL.jpg?auto=webp"
-        width: 2000
-        height: 1500
-        isCached: true
   - title: "The AI startup erasing call center worker accents: is it fighting bias – or perpetuating it?"
     excerpt: "A Silicon Valley startup offers voice-altering tech to call center workers around the world: ‘Yes, this is wrong … but a lot of things exist in the world’"
     publishedDateTime: 2022-08-24T13:13:00Z
@@ -76,6 +60,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "ccauq9Re5n2PR41lFcKWWhCNG7lT573EWrj5yMX1Rvuo3iRNEuLTEF9MtXD/cEuhK7mztQkNE0el/HJUpX+LcnZaMP1QDhdBIsr8BsEtY6sl/+cmGBFnd/k0qhqiZAWW+glQNa1KHKce2Avwu9FzjpnHbdcZcoz4+rgG2SU9mD2N9l4ZF0gH0dQn4kWgpl05qRAjN6e1nPy4IvEsae8o8ij6VnKRzwKiYXWy1/+7pEx815BTKw4XnpiZRySY61psDWqKZj7r3Tyg6KXn8nSC4k9YuVvDKBCLzB6dynQh3axNcYuUVmAZOeT09gQeJNbXFNuxvufv0JPf5EIK6pXkMgmiXh3AMsA25hvzhMrleNo=;rnOh7kt1p4dJKaBbwsomuA=="
+secured: "7tUGrjDVsgq6Ja3YeYg2P3L8bEgrbQ8qgc/fc9730BjK9Z6+T7NqCCssQ8ONepmEb7+KAfOwRGY6S5CR0VVVQWBaX9jI0nxpN8DCWfW/ZU3nMh7htugx3Uow3CvYZD6utQ3Svmb2VJNGUXCtTmTgUqNlivnRhOBJnyng9Jf6d2fMTYcrRsIu6TMcWa1tKZTgIsZkS9u2EkMx5QptwjyLhUD5GypVR7UdtKoeZXHGhPF1JFNpAzluIEljU0EwMDVJ5UIjCYObI3Sd0u3t861PHN03ntPVNje7dzyrRvVDeiEvLIXmkCoHVa8GVuR9KKs/LJvvBNeo3AJjKIz78LzuD0BjjEr6AXxTs0SAjN4QyIQ=;R96vxulbkogPexUy9i59kQ=="
 ---
 

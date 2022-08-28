@@ -89,20 +89,6 @@ related:
         width: 1020
         height: 574
         isCached: true
-  - title: "Why Tesla Expects to Develop Self-Driving Cars First in the Industry"
-    excerpt: "Continuing its battle to change the transportation business, Tesla has unveiled the artificial intelligence system it has developed to educate its thousands of cars to drive themselves. Dojo, the AI system revealed on Tuesday at the Hot Chips conference,"
-    publishedDateTime: 2022-08-23T18:00:00Z
-    webUrl: "https://bestgamingpro.com/why-tesla-expects-to-develop-self-driving-cars-first-in-the-industry/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 39
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/08/Why-Tesla-Thinks-It-Will-Build-Self-Driving-Cars-Before-Everyone-Else.png"
-        width: 600
-        height: 365
-        isCached: true
   - title: "Elon Musk Hits Out At Beta Tester For “Complaining” About Full Self-Driving Beta"
     excerpt: "Musk quickly clapped back at Locke on Twitter, telling him that he shouldn’t complain having previously asked to be included in early releases of Tesla’s Full Self-Driving beta software. “10.69 is in limited release for a reason."
     publishedDateTime: 2022-08-26T16:00:00Z

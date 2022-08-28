@@ -7,7 +7,7 @@ originalUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-t
 webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?tpl=venturecapital"
 type: article
 quality: 64
-heat: 84
+heat: 74
 published: true
 
 provider:
@@ -28,20 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Anyscale Branches Beyond ML Training with Ray 2.0 and AI Runtime"
-    excerpt: "Anyscale today came one step closer to fulfilling its goal of enabling any Python application to scale to an arbitrarily large degree with the launch of"
-    publishedDateTime: 2022-08-23T17:29:00Z
-    webUrl: "https://www.datanami.com/2022/08/23/anyscale-branches-beyond-ml-training-with-ray-2-0-and-ai-runtime/"
-    type: article
-    provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 54
-    images:
-      - url: "https://2s7gjr373w3x22jf92z99mgm5w-wpengine.netdna-ssl.com/wp-content/uploads/2022/08/data_center_shutterstock_kwarkot.jpg"
-        width: 1000
-        height: 563
-        isCached: true
   - title: "Anyscale raises $99M to build out its distributed AI computing platform"
     excerpt: "Anyscale is the developer of the open-source Python framework Ray, which is used to run distributed computing projects. Ray includes both a universal serverless compute application programming interface and an expanded ecosystem of libraries."
     publishedDateTime: 2022-08-23T23:51:00Z

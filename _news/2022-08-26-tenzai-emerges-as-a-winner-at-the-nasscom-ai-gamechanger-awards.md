@@ -36,6 +36,15 @@ related:
         width: 1600
         height: 882
         isCached: true
+  - title: "Google's new AI image noise reduction tool could be a game changer"
+    excerpt: "Computational photography has come a long way, and nowadays it is prevalent in smartphones and post-processing software. Noise reduction is arguably one of the most valued"
+    publishedDateTime: 2022-08-24T18:58:00Z
+    webUrl: "https://www.techspot.com/news/95747-google-new-ai-image-noise-reduction-tool-could.html"
+    type: article
+    provider:
+      name: TechSpot
+      domain: techspot.com
+    quality: 47
 
 secured: "8vO7PFyktixtQZj2agekhNt5eJMWLaaZMQ015KySiq/xdr1r6QhG/qKcjdz6oIuxyO5nEsBb2cMQyjZTfuG/Z7I1CWMyUCEu1qwvGiK02S3F9N7ciLhtCyi6+Vad0bwpCCENBWKoe0/chE7LygFrmJ6YZpcPzWxCnP0EjTA/D7WX7g3AYDFUJwsD+n8Ma3Akfc2VuG9SKT8r3xfqzkjfwh5J9IgjuSZNbfw1hjgdBOerUhbC9RQlwX7kdTQamC0q2OS4CryvVCAkIh9kZPdjrBf8xpQIKTtqDnDDSJMGJzxrm3FlR+15lo05Nb1SyR7Tm0i4p41Y8FPHxu6GAM9LSbPRAJZfu7NqUnsI5QdDDPHygPLJ4PZikf4ld4EwMXsz9Cspi+nHcphdK7j7dx/8z8hMq8qITrmW0isHSEHlnKE/xSweESO9f6GaLPsu1sbTpB3/3Y/0oEJ4XbwWe7o7b5H55UgTQ3S2Gdm2kya+jR3bTG0HgnbZAhHEF1MyT2VABr1qNdp+JPHWRsaUERSDIQ==;dVhfZYYzCU7U6cdK/4lt2g=="
 ---

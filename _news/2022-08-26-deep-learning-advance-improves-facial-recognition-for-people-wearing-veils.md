@@ -155,15 +155,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Lossy image compression negatively affects facial recognition algorithms, research shows"
-    excerpt: "Experimental research by a team from the Department of Computer Science in the University of Durham, UK, demonstrates that image compression techniques that remove data have a negative bearing on the way facial recognition algorithms function with regard ..."
-    publishedDateTime: 2022-08-23T18:01:00Z
-    webUrl: "https://www.biometricupdate.com/202208/lossy-image-compression-negatively-affects-facial-recognition-algorithms-research-shows"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 10
   - title: "Vets’ contribution needs social recognition"
     excerpt: "Recent floods in Odisha have given substance to the fact that veterinary department is the forerunner in reaching out to distressed people in marooned and inundated areas. It’s quite apparent that a basket of essential services like electricity,"
     publishedDateTime: 2022-08-24T19:03:00Z

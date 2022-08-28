@@ -2,21 +2,21 @@
   "page": 2,
   "value": [
     {
-      "path": "_news/2022-08-26-chipotle-workers-in-michigan-vote-to-join-teamsters.md",
-      "title": "CHIPOTLE WORKERS IN MICHIGAN VOTE TO JOIN TEAMSTERS",
-      "excerpt": "Workers in Lansing Vote Overwhelmingly to Join Teamsters Local 243, Becoming First to Organize Among Restaurant Chain's 3,000 Locations LANSING,",
+      "path": "_news/2022-08-26-lg-introduces-240hz-curved-oled-ultragear-monitor-monitor-with-ai-tracking.md",
+      "title": "LG Introduces 240Hz Curved OLED UltraGear Monitor, Monitor with AI Tracking",
+      "excerpt": "LG also launched a quirky-sounding 32-inch UltraFine Display Ergo AI (32UQ890). It uses a camera to analyze your posture, adjusting the height and tilt of the monitor to keep you from \"remaining in a single position for too long or from falling into poor ...",
       "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/chipotle-workers-in-michigan-vote-to-join-teamsters-1031707091",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/chipotle-workers-in-michigan-vote-to-join-teamsters-1031707091",
+      "webUrl": "https://www.cnet.com/tech/computing/lg-introduces-240hz-curved-oled-ultragear-monitor-monitor-with-ai-tracking/",
+      "originalUrl": "https://www.cnet.com/tech/computing/lg-introduces-240hz-curved-oled-ultragear-monitor-monitor-with-ai-tracking/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 74,
+      "heat": 95,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/33969/international_brotherhood_of_teamsters_logo.jpg",
-          "width": 320,
-          "height": 400,
+          "url": "https://www.cnet.com/a/img/resize/0252c1b9404973e60017e041d1ae811fb5d1c144/2022/08/25/dcd3bbb6-ba5b-4931-8bfe-d77391823502/lg-ultragear-oled-gaming-monitor45gr95qe-01-kv.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,16 +24,16 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T16:45:00-07:00",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/lg-introduces-240hz-curved-oled-ultragear-monitor-monitor-with-ai-tracking/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lg-introduces-240hz-curved-oled-ultragear-monitor-monitor-with-ai-tracking/",
+      "publishedDateTime": "2022-08-25T18:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
+        "name": "CNET",
+        "domain": "cnet.com",
         "images": [
           {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -49,7 +49,6 @@
         "news"
       ],
       "topics": [
-        "Computer Vision",
         "AI"
       ]
     },
@@ -355,7 +354,7 @@
       "originalUrl": "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -911,7 +910,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/25/the-democratization-of-ai-in-logistics/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -1002,6 +1001,48 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-this-new-google-photo-ai-tool-is-a-game-changer-it-can-see-in-the-dark.md",
+      "title": "This new Google Photo AI tool is a game-changer- it can see in the dark",
+      "excerpt": "Google is working on a new RawNeRF tool to outperform the deep raw de-noisers in low-light settings. This is how it will change night photography.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/this-new-google-photo-ai-tool-is-a-game-changer-it-can-see-in-the-dark-71661413682138.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/this-new-google-photo-ai-tool-is-a-game-changer-it-can-see-in-the-dark-71661413682138.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2022/08/25/1600x900/joey-huang-t1zrbUSg8Qg-unsplash_1661413886615_1661413909755_1661413909755.jpg",
+          "width": 1600,
+          "height": 882,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/this-new-google-photo-ai-tool-is-a-game-changer-it-can-see-in-the-dark-71661413682138.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/this-new-google-photo-ai-tool-is-a-game-changer-it-can-see-in-the-dark-71661413682138.html",
+      "publishedDateTime": "2022-08-25T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1154,7 +1195,7 @@
       "originalUrl": "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles",
       "featuredContent": null,
       "highlight": null,
-      "heat": 226,
+      "heat": 216,
       "tags": null,
       "images": [
         {
@@ -1196,58 +1237,6 @@
         "AI",
         "Google AI",
         "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-daily-crunch-4chan-users-exploit-ai-image-generators-ability-to-create-realistic-nude-deepfakes.md",
-      "title": "Daily Crunch: 4chan users exploit AI image generator’s ability to create realistic nude deepfakes",
-      "excerpt": "Hello, friends, and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/24/daily-crunch-4chan-users-exploit-ai-image-generators-ability-to-create-realistic-nude-deepfakes/",
-      "originalUrl": "https://techcrunch.com/2022/08/24/daily-crunch-4chan-users-exploit-ai-image-generators-ability-to-create-realistic-nude-deepfakes/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/ai-gen-unfiltered.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/24/daily-crunch-4chan-users-exploit-ai-image-generators-ability-to-create-realistic-nude-deepfakes/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/24/daily-crunch-4chan-users-exploit-ai-image-generators-ability-to-create-realistic-nude-deepfakes/amp/",
-      "publishedDateTime": "2022-08-24T15:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

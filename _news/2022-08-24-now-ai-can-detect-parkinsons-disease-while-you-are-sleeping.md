@@ -9,7 +9,7 @@ ampWebUrl: "https://m.economictimes.com/magazines/panache/now-ai-can-detect-park
 cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/now-ai-can-detect-parkinsons-disease-while-you-are-sleeping/amp_articleshow/93747223.cms"
 type: article
 quality: 57
-heat: 137
+heat: 147
 published: true
 
 provider:
@@ -51,6 +51,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 45
+  - title: "Breakthrough in detecting Parkinson’s using AI and breathing patterns"
+    excerpt: "An MIT Jameel Clinic-developed device with the appearance of a Wi-Fi router uses a neural network to discern the presence and severity of one of the fastest-growing neurological diseases in the world"
+    publishedDateTime: 2022-08-28T11:30:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/breakthrough-in-detecting-parkinsons-using-ai-and-breathing-patterns-ueqok5qc"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 39
+    images:
+      - url: "https://static.zawya.com/version/c:M2ZhMjgwNjEtZjYxMi00:NzBhNTEz/edroom-jpg.jpg?f=3%3A2"
+        width: 889
+        height: 593
+        isCached: true
   - title: "AI Uses Nocturnal Breathing Patterns to Detect Parkinson's Disease"
     excerpt: "An artificial intelligence-enabled system incorporates nocturnal breathing signals to diagnose Parkinson's disease -- and could be a new biomarker for the condition, new research suggests."
     publishedDateTime: 2022-08-24T17:22:00Z

@@ -2,6 +2,92 @@
   "page": 62,
   "value": [
     {
+      "path": "_news/2022-07-07-global-natural-language-processing-market-to-be-worth-usd-4394-billion-at-a-cagr-of-2110-by-the-year-2027.md",
+      "title": "Global Natural Language Processing Market to be Worth USD 43.94 Billion At A CAGR Of 21.10% by the Year 2027",
+      "excerpt": "Global Natural Language Processing Market Is Expected To Reach USD 43.94 Billion By 2027 At A CAGR Of 21.10 percent. A report on the Global Natural Language Processing Market by Maximize Market ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/global-natural-language-processing-market-to-be-worth-usd-43-94-billion-at-a-cagr-of-21-10-by-the-year-2027",
+      "originalUrl": "https://www.digitaljournal.com/pr/global-natural-language-processing-market-to-be-worth-usd-43-94-billion-at-a-cagr-of-21-10-by-the-year-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/07/da27e1d0cfdc0cb35577339dc1eb00792ba71b27-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-07-how-ai-at-the-edge-is-defining-next-generation-hardware-platforms.md",
+      "title": "How AI at the Edge Is Defining Next-Generation Hardware Platforms",
+      "excerpt": "Figure 3: IoT management using edge inference. Small, Medium, and Deep Learning Models for Edge-based AI It is easy to assume the edge tier approach with simple GPU inference hardware for IoT can be scaled up for more complex hardware system such as ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/electronics-test/how-ai-edge-defining-next-generation-hardware-platforms",
+      "originalUrl": "https://www.designnews.com/electronics-test/how-ai-edge-defining-next-generation-hardware-platforms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/Design%20News/Cheng_AIEdge_Figure5.png",
+          "width": 1361,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-06T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-07-imagine-cup-2022-creating-accessibility-to-sign-language-one-sentence-at-a-time.md",
       "title": "Imagine Cup 2022: Creating accessibility to sign language, one sentence at a time",
       "excerpt": "With the help of the Microsoft Azure Learning Machine, the team integrated the AI model built using technology for sign recognition into Sign2Sign app effortlessly. The app provides real-time feedback for users to have two-way signing conversations through ...",
@@ -1065,112 +1151,6 @@
       "topics": [
         "IBM AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-metas-no-language-left-behind-ai-can-now-translate-200-languages.md",
-      "title": "Meta's 'No Language Left Behind' AI Can Now Translate 200 Languages",
-      "excerpt": "The translation tool will be put to work on Facebook and Instagram and will also be open source for others to use.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/news/social-media/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
-      "originalUrl": "https://www.cnet.com/news/social-media/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 398,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/08db5935e4bf42296493609feca5ab5c73e1ad95/2022/06/29/38883dfb-6d93-41cb-88e1-0fbe4233f4b9/nllb-1.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/metas-no-language-left-behind-ai-can-now-translate-200-languages/",
-      "publishedDateTime": "2022-07-06T06:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "Natural Language Processing",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-06-an-outsiders-view-into-healthcarewhat-ai-can-and-cant-do.md",
-      "title": "An Outsider’s View Into Healthcare—What AI Can And Can’t Do",
-      "excerpt": "As most physicians are only beginning to become familiar with AI and understand its use cases, what can AI currently do in medical settings, and where is more time and innovation needed?",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/an-outsiders-view-into-healthcare-what-ai-can-and-cant-do/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/an-outsiders-view-into-healthcare-what-ai-can-and-cant-do/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 134,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62c44a474428774f0742918d/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/06/an-outsiders-view-into-healthcare-what-ai-can-and-cant-do/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/06/an-outsiders-view-into-healthcare-what-ai-can-and-cant-do/amp/",
-      "publishedDateTime": "2022-07-06T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

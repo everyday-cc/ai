@@ -162,15 +162,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Lossy image compression negatively affects facial recognition algorithms, research shows"
-    excerpt: "Experimental research by a team from the Department of Computer Science in the University of Durham, UK, demonstrates that image compression techniques that remove data have a negative bearing on the way facial recognition algorithms function with regard ..."
-    publishedDateTime: 2022-08-23T18:01:00Z
-    webUrl: "https://www.biometricupdate.com/202208/lossy-image-compression-negatively-affects-facial-recognition-algorithms-research-shows"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 10
   - title: "AI-Based Transit Signal Prioritization Helps Buses in Silicon Valley Get Residents Living in Zero-Vehicle Households to Destinations Faster"
     excerpt: "Sustainable Silicon Valley formed a powerful coalition to pilot a solution that improved the flow of buses along busy Silicon Valley corridor SANTA CLARA, Calif., Aug. 24, 2022 (SEND2PRESS NEWSWIRE) — The City/County Association of Governments of San Mateo County C/CAG) and the Intelligent Transit Signal Prioritization (iTSP) project partners have successfully completed a pilot project that demonstrated a positive impact on improved transit performance in East Palo Alto,"
     publishedDateTime: 2022-08-24T15:37:00Z

@@ -38,22 +38,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "A startup is using AI to make call center workers sound ‘American’"
-    excerpt: "Sanas says its aim is to cut through some Americans' biases towards minorities. Critics argue their services may make things worse."
-    publishedDateTime: 2022-08-25T14:00:00Z
-    webUrl: "https://www.popsci.com/technology/startup-call-center-voices-ai-american-accent/"
-    ampWebUrl: "https://www.popsci.com/technology/startup-call-center-voices-ai-american-accent/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/startup-call-center-voices-ai-american-accent/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2022/08/24/Depositphotos_156054790_XL.jpg?auto=webp"
-        width: 2000
-        height: 1500
-        isCached: true
   - title: "The AI startup erasing call center worker accents: is it fighting bias – or perpetuating it?"
     excerpt: "A Silicon Valley startup offers voice-altering tech to call center workers around the world: ‘Yes, this is wrong … but a lot of things exist in the world’"
     publishedDateTime: 2022-08-24T13:13:00Z

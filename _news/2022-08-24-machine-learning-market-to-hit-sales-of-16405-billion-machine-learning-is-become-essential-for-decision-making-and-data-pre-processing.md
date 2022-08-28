@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-24T14:26:00Z
 originalUrl: "https://www.marketwatch.com/press-release/machine-learning-market-to-hit-sales-of-16405-billion-machine-learning-is-become-essential-for-decision-making-and-data-pre-processing-2022-08-24"
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-to-hit-sales-of-16405-billion-machine-learning-is-become-essential-for-decision-making-and-data-pre-processing-2022-08-24"
 type: article
-quality: 52
-heat: 52
+quality: 54
+heat: 54
 published: false
 
 provider:
@@ -22,6 +22,7 @@ topics:
   - Machine Learning
   - AI
   - AI in Sales
+  - AI in Finance
 
 images:
   - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"

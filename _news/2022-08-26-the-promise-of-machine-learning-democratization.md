@@ -35,6 +35,15 @@ related:
         width: 1200
         height: 675
         isCached: true
+  - title: "How AIaaS (AI-as-a-service) can help democratize AI"
+    excerpt: "“SMEs [small- to medium-sized enterprises] are often plagued with the problem of scaling their operations on account of huge financial ... vertical services provisioning such as inference-as-a-service, annotation-as-a-service, and machine learning ..."
+    publishedDateTime: 2022-08-24T13:40:00Z
+    webUrl: "https://venturebeat.com/ai/how-ai-as-a-service-can-help-democratize-ai/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 51
 
 secured: "TRjM+vIYzLKsDW1PveGXrD9B/w1g65ioVgM7uNmJcgqbBYrnMR+IWKh8hjNMoD84qZpPIhvtK8o20Fg6gZMQP8PC7t1nafJdVWR8WAf05Xvcym4RKptMAhnv8FoXEqbe/KvwbiIs8zUp/u5UYfZzKogKfkH/Qui7o+jNu0Vd11GtZMMJJc8/gTt9VBD7jCYzvLslZiW9vnkuyEaY1ilKX+3J7zTrg3y4yjPCpCCUfjvdozcivwTZAjUWdLzZ9aczGAKzQoL7nj8twJ39CCnnLiv+TnGQWM8pPK9leDIA1x75sf2SXiTpHbv16kxIBi7SluiB7R3RZvmlu6P2L4c4x8E+DhEirXpe27eQndRbdEYQBdHNMZ2HV8dzBG8R7oL3leF3s09OCYDD4YAGXWo2aa0XeLMAF+ptU/N01wAjaK0V8CJf3hxuAnzR20x+jVP48Pz1oVKbqNhxGWmN56mvJnUG6ecuQnSXNfki83+5OYcYtb53BAcf4xWHafPpEuIymzhKU6bqQstGRuG8ixgFxw==;UoKYCSyCt6torILNgUKhRg=="
 ---

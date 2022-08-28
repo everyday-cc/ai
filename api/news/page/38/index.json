@@ -2,6 +2,83 @@
   "page": 38,
   "value": [
     {
+      "path": "_news/2022-07-27-investment-app-delphia-names-aws-lead-scientist-andrew-arnold-as-chief-science-officer.md",
+      "title": "Investment App Delphia Names AWS Lead Scientist Andrew Arnold as Chief Science Officer",
+      "excerpt": "Get 7 Days Free Sign In Sign In Topics",
+      "sourceUrl": null,
+      "webUrl": "https://www.morningstar.com/news/pr-newswire/20220727ny28210/investment-app-delphia-names-aws-lead-scientist-andrew-arnold-as-chief-science-officer",
+      "originalUrl": "https://www.morningstar.com/news/pr-newswire/20220727ny28210/investment-app-delphia-names-aws-lead-scientist-andrew-arnold-as-chief-science-officer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T05:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Morningstar%2c Inc.",
+        "domain": "morningstar.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-27-sony-ai-wins-2022-acm-sigai-industry-award-for-excellence-in-artificial-intelligence.md",
+      "title": "Sony AI Wins 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence",
+      "excerpt": "Sony AI, established with the mission to unleash human imagination and creativity with artificial intelligence (AI), today announced that it has received the 2022 ACM SIGAI Industry Award for Excellence in Artificial Intelligence (AI) for its recent breakthrough in AI,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-artificial-intelligence-ab2188b926181d3f81c8f9f8142a1488",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-27T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-27-ai-from-drug-discovery-to-robotics.md",
       "title": "AI: From Drug Discovery To Robotics",
       "excerpt": "First, companies began using artificial intelligence to transform drug discovery. Now, they are jumping into the robotics race.",
@@ -1073,92 +1150,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-corsight-ai-facial-recognition-tech-ranks-top-in-nist-bias-testing.md",
-      "title": "Corsight AI facial recognition tech ranks top in NIST bias testing",
-      "excerpt": "Company's latest algorithm leads the way in NIST FRVT testing by tackling bias and minimizing the false positive demographic effects",
-      "sourceUrl": null,
-      "webUrl": "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/press-release/21275405/corsight-corsight-ai-facial-recognition-tech-ranks-top-in-nist-bias-testing",
-      "originalUrl": "https://www.securityinfowatch.com/access-identity/biometrics/facial-recognition-solutions/press-release/21275405/corsight-corsight-ai-facial-recognition-tech-ranks-top-in-nist-bias-testing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.securityinfowatch.com/files/base/cygnus/siw/image/2022/07/corsight_logo.62e046c333a2c.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security",
-        "domain": "securityinfowatch.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-27-meta-hopes-to-increase-accuracy-of-wikipedia-with-new-ai-model.md",
-      "title": "Meta Hopes to Increase Accuracy of Wikipedia with New AI Model",
-      "excerpt": "There have been a lot of innovations and developments in the AI and ML space since last year ... passage that supports the claim. Natural-language-understanding (NLU) techniques are used to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/07/meta-wikipedia-new-AI-model/",
-      "originalUrl": "https://www.infoq.com/news/2022/07/meta-wikipedia-new-AI-model/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/07/meta-wikipedia-new-AI-model/en/headerimage/Meta-hopes-to-Increase-Accuracy-of-Wikipedia-With-New-AI-Model-header-image-1658746842464.jpg",
-          "width": 1199,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-26T12:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

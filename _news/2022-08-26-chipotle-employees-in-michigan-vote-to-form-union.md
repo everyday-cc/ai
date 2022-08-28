@@ -33,15 +33,6 @@ related:
         width: 320
         height: 400
         isCached: true
-  - title: "Machine-readable financial reports get a look in Michigan"
-    excerpt: "The University of Michigan is studying the use of XBRL technology for local government financial reports with the state Department of Treasury set to act next."
-    publishedDateTime: 2022-08-23T18:32:00Z
-    webUrl: "https://www.bondbuyer.com/news/machine-readable-financial-reports-get-a-look-in-michigan"
-    type: article
-    provider:
-      name: The Bond Buyer
-      domain: bondbuyer.com
-    quality: 4
 
 secured: "BcBRu09LVO0gy5TBQti85+Asma/Mp38ODl4peVVEPsEtay4uRxDChwopX7PN76UB/mxPMvvWPOvY5jJndhzm9S9Pn3U3obsfSZsqmBXymEPdrWdgPbZY1l3IuVnd3C46bhd+Sh6tN7DDLAW7WOJm9loXO5RDOd8gozq1T3eHFUeViiPBUWOd0FF4H4pBFQroOP7Z+tlytN+xiaTJuU/Dni6u8iKf31LXKsH4BW37PAl6xsNjrsLzoXYzVociOCRzD8HOAD3SIfFtcchq0zLiUQ9ADzNhm9MmO5+KBrfB1dxdqTMyOH7qbwiP2EKrdEeN4GXR6+UAZWA/6z7S5dLzGV1fA6sNqMnX3Lsblpo3TMwQSoP7YfwHyNlQMXg9gbBLZTSMb0YcItoPFN1d7eLE2kcFYf5GNz6bb4JruG1jX0BcP5bKG4OMbD+/ASkfGmwe6Rb/sT+bpqq1vnfeL5bhwHYkpC7h/PQ7YPAwdjX+pKN9rPvgNY0pLWdczzU4ELg/vH05RBwOGzkLKmrmtZdHxw==;VECyotMB9GUGhe1vIuDeSw=="
 ---

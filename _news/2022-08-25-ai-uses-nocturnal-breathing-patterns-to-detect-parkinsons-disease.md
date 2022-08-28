@@ -65,6 +65,20 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 45
+  - title: "Breakthrough in detecting Parkinson’s using AI and breathing patterns"
+    excerpt: "An MIT Jameel Clinic-developed device with the appearance of a Wi-Fi router uses a neural network to discern the presence and severity of one of the fastest-growing neurological diseases in the world"
+    publishedDateTime: 2022-08-28T11:30:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/breakthrough-in-detecting-parkinsons-using-ai-and-breathing-patterns-ueqok5qc"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 39
+    images:
+      - url: "https://static.zawya.com/version/c:M2ZhMjgwNjEtZjYxMi00:NzBhNTEz/edroom-jpg.jpg?f=3%3A2"
+        width: 889
+        height: 593
+        isCached: true
   - title: "Artificial intelligence model can detect Parkinson's from breathing patterns, researchers show"
     excerpt: "A device with the appearance of a Wi-Fi router uses a neural network to discern the presence and severity of one of the fastest-growing neurological diseases in the world."
     publishedDateTime: 2022-08-25T00:00:00Z

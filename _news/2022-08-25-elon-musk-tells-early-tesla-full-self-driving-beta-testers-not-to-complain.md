@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/24/elon-musk-tells-early-tesla-full-self
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/24/elon-musk-tells-early-tesla-full-self-driving-beta-testers-not-complain/amp/"
 type: article
 quality: 102
-heat: 202
+heat: 192
 published: true
 
 provider:
@@ -78,20 +78,6 @@ related:
       - url: "https://beta.ctvnews.ca/content/dam/ctvnews/images/2022/6/3/1_5931897.jpg"
         width: 1020
         height: 574
-        isCached: true
-  - title: "Why Tesla Expects to Develop Self-Driving Cars First in the Industry"
-    excerpt: "Continuing its battle to change the transportation business, Tesla has unveiled the artificial intelligence system it has developed to educate its thousands of cars to drive themselves. Dojo, the AI system revealed on Tuesday at the Hot Chips conference,"
-    publishedDateTime: 2022-08-23T18:00:00Z
-    webUrl: "https://bestgamingpro.com/why-tesla-expects-to-develop-self-driving-cars-first-in-the-industry/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 39
-    images:
-      - url: "https://bestgamingpro.com/wp-content/uploads/2022/08/Why-Tesla-Thinks-It-Will-Build-Self-Driving-Cars-Before-Everyone-Else.png"
-        width: 600
-        height: 365
         isCached: true
   - title: "Tesla defends self-driving software"
     excerpt: "Tesla has defended its self-driving software after videos of cars running over child-size mannequins hit the internet. Added14 minutes ago A Los Angeles police officer has saved a baby's life using CPR,"

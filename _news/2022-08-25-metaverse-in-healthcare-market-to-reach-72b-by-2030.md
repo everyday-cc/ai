@@ -33,6 +33,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "The global AI in the education market is projected to reach USD 11.68 billion by 2031 at a CAGR of 47% during the forecast period 2022 till 2031"
+    excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on Artificial intelligence (AI) in Education Marketwhich emphasizes on the latest trends, key opportunities,"
+    publishedDateTime: 2022-08-25T06:49:00Z
+    webUrl: "https://www.marketwatch.com/press-release/the-global-ai-in-the-education-market-is-projected-to-reach-usd-1168-billion-by-2031-at-a-cagr-of-47-during-the-forecast-period-2022-till-2031-2022-08-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 49
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Automotive Artificial Intelligence Market worth $7.0 Billion by 2027 - Exclusive Report by MarketsandMarkets™"
     excerpt: "Automotive Artificial Intelligence market size is projected to grow from USD 2.3 Billion in 2022 to USD 7.0 Billion by 2027; it is expected to grow at a CAGR of 24.1% from 2022 to 2027, according to a new report by MarketsandMarkets™."
     publishedDateTime: 2022-08-24T14:58:00Z
