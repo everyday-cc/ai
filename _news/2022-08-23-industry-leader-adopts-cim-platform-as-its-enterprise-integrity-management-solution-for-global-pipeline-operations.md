@@ -7,7 +7,7 @@ originalUrl: "https://finance.dailyherald.com/dailyherald/article/accwirecq-2022
 webUrl: "https://finance.dailyherald.com/dailyherald/article/accwirecq-2022-8-23-industry-leader-adopts-cim-platform-as-its-enterprise-integrity-management-solution-for-global-pipeline-operations"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,26 +17,6 @@ provider:
 topics:
   - Microsoft AI
   - AI
-
-related:
-  - title: "Cloud talent leaders join forces to deliver integrated global recruitment solutions"
-    excerpt: "Leading European IT recruitment group, Focus Cloud, has acquired specialist Microsoft recruitment firm, Cognitive Group. Together, they have formed a new global brand, the Focus Cloud Group, which"
-    publishedDateTime: 2022-08-23T07:00:00Z
-    webUrl: "https://pressreleases.responsesource.com/news/103111/cloud-talent-leaders-join-forces-to-deliver-integrated-global-recruitment/"
-    type: article
-    provider:
-      name: responsesource.com
-      domain: responsesource.com
-    quality: 0
-  - title: "Focus Cloud acquires Cognitive Group to form new global leader in cloud recruitment"
-    excerpt: "Leading European IT recruitment group, Focus Cloud, has acquired specialist Microsoft recruitment firm, Cognitive Group. Together, they have formed a new global brand, the Focus Cloud Group, which will provide global recruitment solutions across major cloud platforms Microsoft,"
-    publishedDateTime: 2022-08-23T07:10:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-focus-cloud-acquires-cognitive-group-form-new-global-/2022/08/23/9660330.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
 
 secured: "1x0b4aMZRvrYmORMU/UQnqZHHHzy/knJHdD8nj2GL+D4KpbUdBm9bSQIufMSZVe35rcePLNAAXX31fDKuHIaI9kYHovchVnZdRMAQIgocRPhkU894HWPxEEfVY9I3jd9R+PMaJkfEloAP9NNK2cfcslCr9n3ncdt6cQIVrCm9w0ncaMdvCLCthZglhQ26egg+W7CJ4wpOX+RMpUO7j3Ptxzb+FL+EOcNd4Z1RLDX7lnBrczfuVODUEW45x2otyu+Az9BVHTuUrxhAS8/YcCuZsJ5FtLnKTyPzkK1S0M65F+i5C9Qtpzk22PAg2oZrStI2wUIyxesULD7dJQv8m1V92z9iluTlcxTSddJQQJjbdE=;nOVH3nkj+cERbOznAOefWg=="
 ---

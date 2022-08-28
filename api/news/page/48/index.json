@@ -2,6 +2,49 @@
   "page": 48,
   "value": [
     {
+      "path": "_news/2022-07-19-how-cornerstone-ai-is-making-data-right-for-healthcare-industry.md",
+      "title": "How Cornerstone AI is making data ‘right’ for healthcare industry",
+      "excerpt": "California-based Cornerstone AI has raised $5 million seed funding to solve the data quality problem for the healthcare industry.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/18/how-cornerstone-ai-is-making-data-right-for-healthcare-industry/",
+      "originalUrl": "https://venturebeat.com/2022/07/18/how-cornerstone-ai-is-making-data-right-for-healthcare-industry/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-18T11:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-ghost-imaging-using-human-vision-and-ai-opens-up-novel-applications.md",
       "title": "Ghost imaging using human vision and AI opens up novel applications",
       "excerpt": "In the second phase of the research, the Russian scientists developed two artificial neural networks (ANN). They trained the first one with data to create images from visual \"noise\" in three of ...",
@@ -1087,52 +1130,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-18-real-world-artificial-intelligence-for-security-safety-and-operations.md",
-      "title": "Real-World Artificial Intelligence for Security, Safety, and Operations",
-      "excerpt": "More AI is being applied in the real-world and proving its value. Here’s how thought leaders are assessing today’s AI landscape.",
-      "sourceUrl": null,
-      "webUrl": "https://www.campussafetymagazine.com/news/artificial-intelligence-security-safety-operations/",
-      "originalUrl": "https://www.campussafetymagazine.com/news/artificial-intelligence-security-safety-operations/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.campussafetymagazine.com/wp-content/uploads/2022/07/Control_Room_Monitoring_Using_Deep_Learning_Analytics-2-1000x500-1.jpg",
-          "width": 1000,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-18T01:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Campus Safety Magazine",
-        "domain": "campussafetymagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Security",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

@@ -55,22 +55,6 @@ related:
         width: 1500
         height: 809
         isCached: true
-  - title: "Former Apple (AAPL) engineer pleads guilty to trade secret theft from self-driving vehicle division"
-    excerpt: "He was accused of stealing computer files containing trade secrets related to the company's unannounced self-driving car division. U.S. federal prosecutors alleged that Zhang downloaded a 25-page engineering document containing the schematics of main ..."
-    publishedDateTime: 2022-08-23T06:08:00Z
-    webUrl: "https://www.shacknews.com/article/131962/apple-aapl-trade-secret-theft-ev-fsd"
-    ampWebUrl: "https://www.shacknews.com/article/131962/apple-aapl-trade-secret-theft-ev-fsd?amphtml=1"
-    cdnAmpWebUrl: "https://www-shacknews-com.cdn.ampproject.org/c/s/www.shacknews.com/article/131962/apple-aapl-trade-secret-theft-ev-fsd?amphtml=1"
-    type: article
-    provider:
-      name: Shacknews
-      domain: shacknews.com
-    quality: 30
-    images:
-      - url: "https://d1lss44hh2trtw.cloudfront.net/assets/article/2022/08/22/apple-car-carplay-ev-fsd-trade-secret-theft_feature.jpg"
-        width: 1960
-        height: 1102
-        isCached: true
   - title: "How Self-Driving Cars Will Change the Roads"
     excerpt: "Are self-driving cars coming to a dealership near you? Here’s what you need to know about this tech and what it means for the future."
     publishedDateTime: 2022-08-25T16:03:00Z

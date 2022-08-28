@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-08-16-ai-could-help-patients-with-chronic-pain-avoid-opioids.md",
+      "title": "AI Could Help Patients With Chronic Pain Avoid Opioids",
+      "excerpt": "Cognitive behavioral therapy for pain that is supported by artificial intelligence renders the same results as guideline-recommended programs while requiring less clinician time, thus making the option more accessible for patients.",
+      "sourceUrl": null,
+      "webUrl": "https://neurosciencenews.com/pain-ai-21240/",
+      "originalUrl": "https://neurosciencenews.com/pain-ai-21240/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://neurosciencenews.com/files/2022/08/pain-ai-neurosinces-public.jpg",
+          "width": 770,
+          "height": 513,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-15T15:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Neuroscience News",
+        "domain": "neurosciencenews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-costs-of-sydneys-driverless-train-conversion-outweigh-the-benefits.md",
       "title": "Costs of Sydney’s driverless train conversion outweigh the benefits",
       "excerpt": "But even without overruns pushing the cost of the driverless-train project to more than A$55 billion, the economics of the “Sydney Metro” project are questionable – in particular the ...",
@@ -1121,49 +1164,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-14-cognitive-biases-and-brain-biology-help-explain-why-facts-dont-change-minds.md",
-      "title": "Cognitive biases and brain biology help explain why facts don’t change minds",
-      "excerpt": "Cognitive psychology and neuroscience studies have found that the exact opposite is often true when it comes to politics: People form opinions based on emotions, such as fear, contempt and anger ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.salon.com/2022/08/14/cognitive-biases-and-brain-biology-help-explain-why-facts-dont-changeminds_partner/",
-      "originalUrl": "https://www.salon.com/2022/08/14/cognitive-biases-and-brain-biology-help-explain-why-facts-dont-changeminds_partner/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mediaproxy.salon.com/width/1200/https://media.salon.com/2021/03/qanon-0312211.jpg",
-          "width": 1200,
-          "height": 810,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-14T07:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Salon",
-        "domain": "salon.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

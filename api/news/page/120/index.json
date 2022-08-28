@@ -2,6 +2,49 @@
   "page": 120,
   "value": [
     {
+      "path": "_news/2022-05-25-recognition-of-fear-anger-impaired-in-psychosis-patients.md",
+      "title": "Recognition of fear, anger impaired in psychosis patients",
+      "excerpt": "Facial anger recognition was significantly associated with the schizophrenia polygenic risk score in a pooled analysis and controlling for confounders. \"Our results indicate a predominantly ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-05-recognition-anger-impaired-psychosis-patients.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-05-recognition-anger-impaired-psychosis-patients.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/recognition-of-fear-an.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-05-recognition-anger-impaired-psychosis-patients.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-05-recognition-anger-impaired-psychosis-patients.amp",
+      "publishedDateTime": "2022-05-25T09:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-25-clearview-ai-says-its-bringing-facial-recognition-to-schools.md",
       "title": "Clearview AI Says It's Bringing Facial Recognition to Schools",
       "excerpt": "The company revealed it's working with a U.S. company selling visitor management systems to schools within hours of a horrific school shooting.",
@@ -1080,49 +1123,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-05-25-public-confidence-must-for-using-facial-recognition-with-ai-ktr.md",
-      "title": "Public confidence must for using facial recognition with AI: KTR",
-      "excerpt": "Gaining people's confidence is a big challenge in using technologies like facial recognition with Artificial Intelligence, said Telangana's Industry and Information Technology Minister K.T. Rama Rao.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
-      "originalUrl": "https://www.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://data1.ibtimes.co.in/en/full/772421/ktr.jpg?w=570&h=451",
-          "width": 570,
-          "height": 451,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
-      "cdnAmpWebUrl": "https://amp-ibtimes-co-in.cdn.ampproject.org/c/s/amp.ibtimes.co.in/public-confidence-must-using-facial-recognition-ai-ktr-848805",
-      "publishedDateTime": "2022-05-25T00:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBTimes India",
-        "domain": "ibtimes.co.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

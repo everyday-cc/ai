@@ -2,6 +2,49 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2022-06-10-task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government.md",
+      "title": "Task force to assess use of facial recognition by Colorado law enforcement, government",
+      "excerpt": "A bill signed into law Wednesday will establish a task force to look into the use of facial recognition technology by law enforcement and government agencies in Colorado.",
+      "sourceUrl": null,
+      "webUrl": "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html",
+      "originalUrl": "https://www.coloradopolitics.com/legislature/task-force-to-assess-use-of-facial-recognition-by-colorado-law-enforcement-government/article_52846144-e83e-11ec-b930-7fe52b4e1214.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/coloradopolitics.com/content/tncms/assets/v3/editorial/5/28/528cece6-8f43-11ec-82d8-9f3a7ed6fa74/620d2325a4674.image.png?crop=1280%2C672%2C0%2C197&resize=1200%2C630&order=crop%2Cresize",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T14:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Colorado Statesman",
+        "domain": "coloradopolitics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-how-emagazines-utilizes-amazon-polly-to-voice-articles-for-school-aged-kids.md",
       "title": "How eMagazines utilizes Amazon Polly to voice articles for school-aged kids",
       "excerpt": "This is a guest post by Andrew Degenholtz, CEO and Founder of eMagazines, the parent company of ReadAlong.ai. eMagazines’ technology seamlessly transforms print products into premium digital and audio experiences. Leveraging Amazon technology, ReadAlong.ai offers a simple, turn-key way for publishers",
@@ -1147,59 +1190,6 @@
         "Machine Learning",
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-neural-network-software-market-size-share-and-developments-by-type-sales-channel-application-and-segment-estimates-for-the-years-2022-2028.md",
-      "title": "Neural Network Software Market Size, share, and developments by type, sales channel, application, and segment estimates for the years 2022-2028",
-      "excerpt": "Jun 09, 2022 (Heraldkeepers) -- The Neural Network Software Market is segmented on the lines of its artificial component, type, vertical and regional. Based on artificial component segmentation it ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-share-and-developments-by-type-sales-channel-application-and-segment-estimates-for-the-years-2022-2028-2022-06-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/neural-network-software-market-size-share-and-developments-by-type-sales-channel-application-and-segment-estimates-for-the-years-2022-2028-2022-06-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-09T07:24:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Sales"
       ]
     }
   ],

@@ -2,6 +2,49 @@
   "page": 130,
   "value": [
     {
+      "path": "_news/2022-05-18-indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round.md",
+      "title": "Indian Robotics Firm GreyOrange Raises $110 Mn In A Funding Round",
+      "excerpt": "Tiger Global-backed Indian robotics firm GreyOrange has raised $110 Mn in the latest funding round, as per reports.",
+      "sourceUrl": null,
+      "webUrl": "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/",
+      "originalUrl": "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://inc42.com/wp-content/uploads/2022/05/Feature-fashion-300x225.png",
+          "width": 300,
+          "height": 225,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/amp/",
+      "cdnAmpWebUrl": "https://inc42-com.cdn.ampproject.org/c/s/inc42.com/buzz/indian-robotics-firm-greyorange-raises-110-mn-in-a-funding-round/amp/",
+      "publishedDateTime": "2022-05-18T02:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "inc42.com",
+        "domain": "inc42.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-18-movai-partners-with-ouster-to-equip-autonomous-mobile-robots-with-high-resolution-digital-lidar-for-challenging-warehouse-environments.md",
       "title": "MOV.AI Partners with Ouster to Equip Autonomous Mobile Robots with High-Resolution Digital Lidar for Challenging Warehouse Environments",
       "excerpt": "Combining Ouster's high-resolution data with the MOV.AI Robotics Engine Platform TM, advanced SLAM navigation, obstacle avoidance, and risk avoidance solutions, AMRs can operate efficiently and continuously in challenging warehouse environments ...",
@@ -1104,49 +1147,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-17-using-ai-to-predict-heart-attacks.md",
-      "title": "Using AI to predict heart attacks",
-      "excerpt": "We have been working with artificial intelligence (AI) to improve the prediction of cardiovascular ... allow them to find out the effects of therapy and lifestyle on their heart health. What do you believe the future of AI in healthcare to look like?",
-      "sourceUrl": null,
-      "webUrl": "https://www.news-medical.net/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
-      "originalUrl": "https://www.news-medical.net/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_712225_16512184408622117.jpg",
-          "width": 1000,
-          "height": 554,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
-      "cdnAmpWebUrl": "https://www-news--medical-net.cdn.ampproject.org/c/s/www.news-medical.net/amp/news/20220517/Using-AI-to-predict-heart-attacks.aspx",
-      "publishedDateTime": "2022-05-17T07:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "News Medical",
-        "domain": "news-medical.net",
-        "images": null,
         "publishers": null,
         "authors": null
       },

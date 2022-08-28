@@ -2,6 +2,40 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-26-chinese-carmakers-jostle-for-edge-in-autonomous-driving.md",
+      "title": "Chinese carmakers jostle for edge in autonomous driving",
+      "excerpt": "Shenzhen published a new set of rules which will allow autonomous commercial driving services to be offered in the tech hub from next month. That includes fully autonomous cars if such technology ever comes to fruition and meets safety requirements.",
+      "sourceUrl": null,
+      "webUrl": "https://www.freemalaysiatoday.com/category/business/2022/07/26/chinese-carmakers-jostle-for-edge-in-autonomous-driving/",
+      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2022/07/26/chinese-carmakers-jostle-for-edge-in-autonomous-driving/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-25T23:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Free Malaysia Today",
+        "domain": "freemalaysiatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-26-advanced-driver-assistance-system-market-size-is.md",
       "title": "Advanced Driver Assistance System Market Size is...",
       "excerpt": "By supporting the driver through artificial intelligence and other cutting-edge ... Tesla, Volkswagen, Ford, GM, and Waymo will release fully autonomous vehicles in the following years.",
@@ -1270,51 +1304,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-using-artificial-intelligence-to-train-teams-of-robots-to-work-together.md",
-      "title": "Using artificial intelligence to train teams of robots to work together",
-      "excerpt": "When communication lines are open, individual agents such as robots or drones can work together to collaborate and complete a task. But what if they aren't equipped with the right hardware or the signals are blocked,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.html",
-      "originalUrl": "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/using-artificial-intel-7.jpg",
-          "width": 500,
-          "height": 310,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-07-artificial-intelligence-teams-robots.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-artificial-intelligence-teams-robots.amp",
-      "publishedDateTime": "2022-07-20T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI in Healthcare"
       ]
     }
   ],

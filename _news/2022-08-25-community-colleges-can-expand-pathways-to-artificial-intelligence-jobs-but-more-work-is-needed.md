@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-25T14:20:00Z
 originalUrl: "https://www.newamerica.org/education-policy/edcentral/community-colleges-can-expand-pathways-to-artificial-intelligence-jobs-but-more-work-is-needed/"
 webUrl: "https://www.newamerica.org/education-policy/edcentral/community-colleges-can-expand-pathways-to-artificial-intelligence-jobs-but-more-work-is-needed/"
 type: article
-quality: 25
-heat: 25
+quality: 27
+heat: 27
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://d1y8sb8igg2f8e.cloudfront.net/images/shutterstock_1092234560.2e16d0ba.fill-1200x630.png"
