@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-27-rbi-crackdown-on-digital-lenders-to-hit-nbfc-fintech-business-models-raise-costs.md",
+      "title": "RBI crackdown on digital lenders to hit NBFC, fintech business models, raise costs",
+      "excerpt": "Amit Das, CEO and Co-founder of Think360.ai concurred. “In the current guidelines, there are several changes that hit at the heart of fintech-RE relationships, commercial structures, and product ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/business/banks/rbi-crackdown-on-digital-lenders-to-hit-nbfc-fintech-business-models-raise-costs-9074131.html",
+      "originalUrl": "https://www.moneycontrol.com/news/business/banks/rbi-crackdown-on-digital-lenders-to-hit-nbfc-fintech-business-models-raise-costs-9074131.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2021/03/RBI_shutterstock_1686527644-2.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/business/banks/rbi-crackdown-on-digital-lenders-to-hit-nbfc-fintech-business-models-raise-costs-9074131.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/banks/rbi-crackdown-on-digital-lenders-to-hit-nbfc-fintech-business-models-raise-costs-9074131.html/amp",
+      "publishedDateTime": "2022-08-27T08:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-27-jack-henry-jkhy-to-unveil-financial-crimes-defender-platform.md",
       "title": "Jack Henry (JKHY) to Unveil Financial Crimes Defender Platform",
       "excerpt": "JKHY equipped the platform’s analytics engine with the globally largest RiskOps platform called Feedzai. With the Financial Crimes Defender platform, Jack Henry aims to provide financial institutions with advanced technological capabilities,",
@@ -88,7 +131,7 @@
       "originalUrl": "https://www.bbntimes.com/technology/how-is-machine-learning-affecting-advertising-and-marketing",
       "featuredContent": null,
       "highlight": null,
-      "heat": 88,
+      "heat": 78,
       "tags": null,
       "images": [
         {
@@ -1249,49 +1292,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-overview-cloud-as-a-service-in-the-financial-services-sector.md",
-      "title": "Overview: Cloud as a service in the financial services sector",
-      "excerpt": "This has resulted in the integration of financial services, secure communications ... tools like – Artificial intelligence, Machine Learning is defining the way our customer excellence centres ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/overview-cloud-as-a-service-in-the-financial-services-sector/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/overview-cloud-as-a-service-in-the-financial-services-sector/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/07/Mr.-Madhusudan-Warrier_Head-of-IT_Mirae-Asset.jpg",
-          "width": 1956,
-          "height": 2021,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/overview-cloud-as-a-service-in-the-financial-services-sector/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/overview-cloud-as-a-service-in-the-financial-services-sector/",
-      "publishedDateTime": "2022-07-27T10:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

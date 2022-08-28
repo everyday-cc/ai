@@ -7,7 +7,7 @@ originalUrl: "https://www.crowdfundinsider.com/2022/08/195140-gcv-leads-695k-inv
 webUrl: "https://www.crowdfundinsider.com/2022/08/195140-gcv-leads-695k-investment-in-finexos-a-fintech-focused-on-making-credit-more-accessible/"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,54 +17,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "IAN invests INR 4.5 Cr in Fintech NBFC Indium Finance"
-    excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
-    publishedDateTime: 2022-08-23T11:38:00Z
-    webUrl: "https://www.indianweb2.com/2022/08/ian-invests-inr-45-cr-in-fintech-nbfc.html"
-    type: article
-    provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 39
-    images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWDW235eX6cvKA5gq9rYjLoySyHVExF6-jPSoaghf45tGl9R--EMI0UDquI5WdfKqi_oaqpM4mYdZZyOBn7ibJ-EqlEYUXJZPOBKMcg3u3d8qAhwO_H6TtKPZL5LPLsAjPR6WxM22crVwY-_yu2vBLKaPuwp5q9Z2lpEQ-6K33XoZMiTM0wZHOc9mm/s16000/indium-finance.jpg"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "Top 7 Fintech Startups in Vietnam in 2022"
-    excerpt: "To get a sense of Vietnam’s up-and-coming fintech startups, we look today at seven fast-growing Vietnamese fintech companies that have made notable strives over the past year and which have attracted the interest of some of the world’s most prominent startup investors."
-    publishedDateTime: 2022-08-25T01:21:00Z
-    webUrl: "https://fintechnews.sg/63399/vietnam/top-7-fintech-startups-in-vietnam-in-2022/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/08/Top-7-Fintech-Startups-in-Vietnam-in-2022.png?x82653"
-        width: 1024
-        height: 567
-        isCached: true
-  - title: "The Intersection Of Physical, Mental, And Financial Health: What The Fintech Journey Can Teach Us"
-    excerpt: "The connection between different facets of our health is more obvious than ever. The pandemic highlighted the ways decreased physical mental health and physical health are intertwined –and recent research shows that ongoing stressors around finances also impact mental and physical health."
-    publishedDateTime: 2022-08-24T18:49:00Z
-    webUrl: "https://www.forbes.com/sites/jennifertescher/2022/08/24/the-intersection-of-physical-mental-and-financial-health-what-the-fintech-journey-can-teach-us/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 21
-  - title: "Growth Capital Ventures leads six-figure funding into fintech firm"
-    excerpt: "County Durham-based Growth Capital Ventures has led a £695,000 investment into a fintech platform, which aims to improve access to credit for people around the world."
-    publishedDateTime: 2022-08-24T07:20:00Z
-    webUrl: "https://www.insidermedia.com/news/Yorkshire/growth-capital-ventures-leads-six-figure-funding-into-fintech-firm"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 4
 
 secured: "+5XyWUEtJ2kLY/4Qoe00Hz4AGFqG0L4uThK8Q3jVRdaufAx93efwjR3IgN5bmCuYw59aksjlYYMLsxnBVjDa+qqRzNCnrgBdpXS3Nrngf2W6y+dXFs6dLAkuizRvUaM1bR9Ib5Ojdut2zhDXpgBEb56OyxOd/eDJ6TYZKYziTaJoYKrtNzZO4z+jhdNP5DD1uTKGX6B7eoQfvPAJg4ZWR84JLpmgnjBzoKC8wRkCRM3chYBe+klBZz5xopJqRryr2F03I3RXiRZ6tRAMezNvo+TrAi1T5Boo3+s4l1wEfJ/jRXInFSy/LmqdvrANI0yWm+gsdJ7719QyQWDzfsztj2HuPeMZdsE1PJkY0Qa7WwQ=;tHmIIO2IreYLHXjPky5V5A=="
 ---

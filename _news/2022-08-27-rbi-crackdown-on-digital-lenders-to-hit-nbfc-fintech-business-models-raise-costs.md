@@ -1,0 +1,51 @@
+---
+category: news
+title: "RBI crackdown on digital lenders to hit NBFC, fintech business models, raise costs"
+excerpt: "Amit Das, CEO and Co-founder of Think360.ai concurred. “In the current guidelines, there are several changes that hit at the heart of fintech-RE relationships, commercial structures, and product ..."
+publishedDateTime: 2022-08-27T15:18:00Z
+originalUrl: "https://www.moneycontrol.com/news/business/banks/rbi-crackdown-on-digital-lenders-to-hit-nbfc-fintech-business-models-raise-costs-9074131.html"
+webUrl: "https://www.moneycontrol.com/news/business/banks/rbi-crackdown-on-digital-lenders-to-hit-nbfc-fintech-business-models-raise-costs-9074131.html"
+ampWebUrl: "https://www.moneycontrol.com/news/business/banks/rbi-crackdown-on-digital-lenders-to-hit-nbfc-fintech-business-models-raise-costs-9074131.html/amp"
+cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/banks/rbi-crackdown-on-digital-lenders-to-hit-nbfc-fintech-business-models-raise-costs-9074131.html/amp"
+type: article
+quality: 53
+heat: 73
+published: true
+
+provider:
+  name: moneycontrol.com
+  domain: moneycontrol.com
+
+topics:
+  - AI in Finance
+  - AI
+
+images:
+  - url: "https://images.moneycontrol.com/static-mcnews/2021/03/RBI_shutterstock_1686527644-2.jpg"
+    width: 1280
+    height: 720
+    isCached: true
+
+related:
+  - title: "The Intersection Of Physical, Mental, And Financial Health: What The Fintech Journey Can Teach Us"
+    excerpt: "The connection between different facets of our health is more obvious than ever. The pandemic highlighted the ways decreased physical mental health and physical health are intertwined –and recent research shows that ongoing stressors around finances also impact mental and physical health."
+    publishedDateTime: 2022-08-24T18:49:00Z
+    webUrl: "https://www.forbes.com/sites/jennifertescher/2022/08/24/the-intersection-of-physical-mental-and-financial-health-what-the-fintech-journey-can-teach-us/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 21
+  - title: "Growth Capital Ventures leads six-figure funding into fintech firm"
+    excerpt: "County Durham-based Growth Capital Ventures has led a £695,000 investment into a fintech platform, which aims to improve access to credit for people around the world."
+    publishedDateTime: 2022-08-24T07:20:00Z
+    webUrl: "https://www.insidermedia.com/news/Yorkshire/growth-capital-ventures-leads-six-figure-funding-into-fintech-firm"
+    type: article
+    provider:
+      name: Insider
+      domain: insidermedia.com
+    quality: 4
+
+secured: "LUkrfqvjHFh/gjizjJ860mc6pdaVYnBuO3X72bXQ//ODJ+MhScHU2hQo4Mv3L3gYwdKgXoU1qgk3OitTNwCPnnVSdpeoYxLFzuuqxOvQ4ikcozZRmqnY2Vym9NUyUoBvl7a12nAmQyBzPdXUXzbWfMGlpHuxGtQQ9ZwYIZMPK2w+xqdESjKqxOyOR2rXjpmCNqizSA3hd7Lk1BvaPmDAGBBbasDsAl5kA3PMK7QwTneKLzlC1tHane0Zktj2ZeG0Z6b2FFI3KNPby5hx9DKYASVBRiAUfrFcaVuc7ecQs2BnmTELIfJ6We2MneUPvkMwcN0MICEgW2mmyMvNUqKMyUPMKeGIEEIMI6jhWBSRCTo=;jk3g7WykvHay7qe55lBSLw=="
+---
+

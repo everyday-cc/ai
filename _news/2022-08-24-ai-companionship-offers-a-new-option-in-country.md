@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "OSF Ventures invests in company bringing AI diagnosis to health care locations across the country"
+    excerpt: "OSF Ventures, the investment arm of OSF HealthCare, has joined a $75 million Series B financing round to support Iowa-based Digital Diagnostics’ efforts to speed growth, implementation and sales, plus deepen the development pipeline for digital tools aimed at improving patient access to early disease detection and treatment."
+    publishedDateTime: 2022-08-24T15:15:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-peoria-124b734daf4cc2f07f261a1400e32cae"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Fraud Prevention Company Invents a New Way to Protect People with Artificial Intelligence"
     excerpt: "Fraud prevention platform Honey Badger has developed a user-friendly way to authenticate people — and it's powered by Machine Learning. This new approach to user authentication was developed as a more secure,"
     publishedDateTime: 2022-08-24T14:27:00Z

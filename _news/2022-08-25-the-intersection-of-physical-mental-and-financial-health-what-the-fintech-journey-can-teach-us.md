@@ -23,33 +23,21 @@ topics:
   - AI
 
 related:
-  - title: "IAN invests INR 4.5 Cr in Fintech NBFC Indium Finance"
-    excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
-    publishedDateTime: 2022-08-23T11:38:00Z
-    webUrl: "https://www.indianweb2.com/2022/08/ian-invests-inr-45-cr-in-fintech-nbfc.html"
+  - title: "RBI crackdown on digital lenders to hit NBFC, fintech business models, raise costs"
+    excerpt: "Amit Das, CEO and Co-founder of Think360.ai concurred. “In the current guidelines, there are several changes that hit at the heart of fintech-RE relationships, commercial structures, and product ..."
+    publishedDateTime: 2022-08-27T15:18:00Z
+    webUrl: "https://www.moneycontrol.com/news/business/banks/rbi-crackdown-on-digital-lenders-to-hit-nbfc-fintech-business-models-raise-costs-9074131.html"
+    ampWebUrl: "https://www.moneycontrol.com/news/business/banks/rbi-crackdown-on-digital-lenders-to-hit-nbfc-fintech-business-models-raise-costs-9074131.html/amp"
+    cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/banks/rbi-crackdown-on-digital-lenders-to-hit-nbfc-fintech-business-models-raise-costs-9074131.html/amp"
     type: article
     provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 39
+      name: moneycontrol.com
+      domain: moneycontrol.com
+    quality: 53
     images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWDW235eX6cvKA5gq9rYjLoySyHVExF6-jPSoaghf45tGl9R--EMI0UDquI5WdfKqi_oaqpM4mYdZZyOBn7ibJ-EqlEYUXJZPOBKMcg3u3d8qAhwO_H6TtKPZL5LPLsAjPR6WxM22crVwY-_yu2vBLKaPuwp5q9Z2lpEQ-6K33XoZMiTM0wZHOc9mm/s16000/indium-finance.jpg"
-        width: 900
-        height: 506
-        isCached: true
-  - title: "Top 7 Fintech Startups in Vietnam in 2022"
-    excerpt: "To get a sense of Vietnam’s up-and-coming fintech startups, we look today at seven fast-growing Vietnamese fintech companies that have made notable strives over the past year and which have attracted the interest of some of the world’s most prominent startup investors."
-    publishedDateTime: 2022-08-25T01:21:00Z
-    webUrl: "https://fintechnews.sg/63399/vietnam/top-7-fintech-startups-in-vietnam-in-2022/"
-    type: article
-    provider:
-      name: Fintech Singapore
-      domain: fintechnews.sg
-    quality: 24
-    images:
-      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/08/Top-7-Fintech-Startups-in-Vietnam-in-2022.png?x82653"
-        width: 1024
-        height: 567
+      - url: "https://images.moneycontrol.com/static-mcnews/2021/03/RBI_shutterstock_1686527644-2.jpg"
+        width: 1280
+        height: 720
         isCached: true
   - title: "Growth Capital Ventures leads six-figure funding into fintech firm"
     excerpt: "County Durham-based Growth Capital Ventures has led a £695,000 investment into a fintech platform, which aims to improve access to credit for people around the world."
@@ -60,15 +48,6 @@ related:
       name: Insider
       domain: insidermedia.com
     quality: 4
-  - title: "GCV Leads £695K Investment in Finexos, a Fintech Focused on Making Credit More Accessible"
-    excerpt: "GCV has led a £695,000 investment round into Finexos, a fintech platform set \"to improve access to credit for millions of people around the world.\""
-    publishedDateTime: 2022-08-24T12:38:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/08/195140-gcv-leads-695k-investment-in-finexos-a-fintech-focused-on-making-credit-more-accessible/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
 
 secured: "y5vIapSUDnmSdyOzN/UFjldK4mFBIEkEp90Av6xD+liZ/z7wu4t77Ibqk/gs3aOOobiey3bZ/lEoxsQjRfTIYoC6+FVqAhkd/3M8jOmiRzxp2oIGfkEscYem/isJcp7kau7HkZUEhMyBcghr9TXqUbUIvoD0G94AffzdCsxaKK60tyaTCo649HrZdUBYeiqIb0Spv8sM97Wi1kTTAZphqsApF5H/IEQ5fKMTJw8lMjMrL5AaqLUyKX4P6+zx9V+f91+0zyZFrKPl31LJDhkln8IRnu2DUYM2FNIgBGhj/PXCH0i6n0eqUdG4qNF8ihY+MRwNTU/1aBV7b7oZkeUoDtFwZM5Il8otxdzVv8KYoJhlkL9gOhdZDBAuaxdUhsHWm4rv7BTmjuXmWhZptNWpg662ePXBlnJzTI3VhMFr2/XpV761QmCXTSk/vqF180E1CyjhVB4ARJxB0A5pVtQqjeSBPjde/hjrFI59qcfef+I/aQsRAnnnpzALV9bvYLKnq4UGzArMybd3kZXznbsq4A==;bo664dLy4X0KQdh322aiLQ=="
 ---

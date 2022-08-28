@@ -41,20 +41,6 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "Former Apple engineer pleads guilty to stealing self-driving vehicle secrets, faces decade in prison"
-    excerpt: "Federal agents stopped Zhang at San Jose International Airport as he departed for Beijing using a ticket bought at the \"last second.\" He"
-    publishedDateTime: 2022-08-23T11:15:00Z
-    webUrl: "https://www.techspot.com/news/95726-former-apple-engineer-pleads-guilty-stealing-self-driving.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 39
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/11/2021-11-18-image-19.jpg"
-        width: 1500
-        height: 809
-        isCached: true
   - title: "How Self-Driving Cars Will Change the Roads"
     excerpt: "Are self-driving cars coming to a dealership near you? Here’s what you need to know about this tech and what it means for the future."
     publishedDateTime: 2022-08-25T16:03:00Z

@@ -26,22 +26,29 @@ images:
     isCached: true
 
 related:
-  - title: "First FDA-cleared autonomous AI makes new moves in healthcare diagnostics"
-    excerpt: "The first autonomous AI system authorized by the FDA, for diagnosing diabetic retinopathy, has raised $75M in a series B funding round."
-    publishedDateTime: 2022-08-23T11:52:00Z
-    webUrl: "https://venturebeat.com/ai/first-fda-cleared-autonomous-ai-makes-new-moves-in-healthcare-diagnostics/"
-    ampWebUrl: "https://venturebeat.com/ai/first-fda-cleared-autonomous-ai-makes-new-moves-in-healthcare-diagnostics/amp/"
-    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/first-fda-cleared-autonomous-ai-makes-new-moves-in-healthcare-diagnostics/amp/"
+  - title: "AI companionship offers a new option in country"
+    excerpt: "\"He is very humorous and offers some comfort when I am in a bad mood,\" the 26-year-old bank employee said. The only problem is he is a virtual being and not a real boyfriend. Liu is not alone in her choice of companion."
+    publishedDateTime: 2022-08-23T23:59:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202208/24/WS63056157a310fd2b29e73da0.html"
     type: article
     provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 103
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
     images:
-      - url: "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1199527162.jpg?w=1200&strip=all"
-        width: 1200
-        height: 800
+      - url: "https://img2.chinadaily.com.cn/images/202208/24/630566d1a310fd2bec9dcaff.jpeg"
+        width: 721
+        height: 480
         isCached: true
+  - title: "Fraud Prevention Company Invents a New Way to Protect People with Artificial Intelligence"
+    excerpt: "Fraud prevention platform Honey Badger has developed a user-friendly way to authenticate people — and it's powered by Machine Learning. This new approach to user authentication was developed as a more secure,"
+    publishedDateTime: 2022-08-24T14:27:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/08/24/9661512.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
 
 secured: "00dYqx7bkjAR80GvyDxaQ5/+V2KNT8ZV3yFje8ppWe7g+9jNUnmZrkBFWdVyPUR11sLoYuBbFO9pi4e++hfS4ye/XxYN7FkujH/w+6J0+N6LWMnLr1bEdY43ZMxCjoAVS1SAex7UflnU5WhSZYQw5qNfDYgbOEf7oIzEDr/cZQQKcRZoIr5aHDTB6yFGgDzX0RpTHAHoAnXjuRLvdAAtm80U25LvZkhrXLO8Q3isalyXTJdjOnSysiVdMLfhsZu0JSb8DjVdY0I7cctSt4RDVctN9pYyRj+dlW5qeQPfuLcTgIfqUli6nm/BCV60Yq4w5sEjb9lRpoxubJX3hWpE5yBMethOUqrZUACJOKrQF38=;9FJfNthLSxX4sFq7QdoIZA=="
 ---

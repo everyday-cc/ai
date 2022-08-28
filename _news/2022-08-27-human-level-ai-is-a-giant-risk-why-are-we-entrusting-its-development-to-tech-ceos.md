@@ -99,20 +99,6 @@ related:
       name: Business Insider
       domain: businessinsider.com
     quality: 30
-  - title: "Inworld AI raises $50M for its AI-powered, no-code virtual character development studio"
-    excerpt: "The round adds to a hefty $20 million seed funding round announced in March, bringing Inworld AI’s total amount raised to $70 million. Inworld AI, which is officially known as Theai Inc., is the creator of a unique platform that allows developers,"
-    publishedDateTime: 2022-08-23T13:00:00Z
-    webUrl: "https://siliconangle.com/2022/08/23/inworld-ai-raises-50m-ai-powered-no-code-virtual-character-development-studio/"
-    type: article
-    provider:
-      name: SiliconANGLE
-      domain: siliconangle.com
-    quality: 29
-    images:
-      - url: "https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2022/08/inworld-ai-character.png"
-        width: 1030
-        height: 562
-        isCached: true
 
 secured: "QgziIoF2lOwXddKJ4tn1Jhe2XjMAKIGJXKWMltAWFwv0bEFisETSEgvItB5TPYeu7LBNg63Bqb1DF4Xtqp3qAX8av2RYlTIQx5K1iy0j72DUtqvFQMWkBdUyDUw4tSG7LmVOYrGyLiqvwb98WHey/jgaTPUIJ6i3d7vaFqM80TXrrKdy6i2yYqeNBsjLttS3j+alRr3ADJbIK4paC6yAhcQTMf25DXhyEa040AUj0XZYF4uV+K8zJUlpsv8zAVr17xL0/gdmbg29OeAF5E2W4n/9qqB1V5td/EOqETqHZ7PUpzoh7zPu25lZd3pnLQt018no7lA7U0CNsq9CTKArMN+m3TrnrkB+kJIWkulBSYnFcHlLXJN4dEdQyPfEC1SncP5008fJgvCqo/bhhNvuyvCAEy/qZ856Mxv209xoZByLXHyhr21WjIUs8XIT+CphEYGA5aUGLi5Gn2SGmLUO69NAsfDTsEOFLIqdY5xxBCs0piVnfBwv9XOBh93t/gVPu7b+bUfHuaugrHaoKcKDag==;bKz69yv0vDwIN7QcThhdFA=="
 ---

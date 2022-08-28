@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/amp/"
 type: article
 quality: 95
-heat: 96
+heat: 97
 published: true
 
 provider:

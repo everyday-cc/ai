@@ -25,20 +25,6 @@ images:
 
 related:
   - title: "AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round"
-    excerpt: "The company initially announced a $100 million Series C venture investment round led by Andreessen Horowitz in December."
-    publishedDateTime: 2022-08-23T12:15:00Z
-    webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?tpl=vc"
-    type: article
-    provider:
-      name: Wall Street Journal
-      domain: wsj.com
-    quality: 64
-    images:
-      - url: "https://images.wsj.net/im-608499/social"
-        width: 1279
-        height: 640
-        isCached: true
-  - title: "AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round"
     excerpt: "Mr. Stoica is the executive chairman and former chief executive of Databricks, an AI startup he also co-founded that emerged from the university’s computer lab and recently surpassed $1 billion ..."
     publishedDateTime: 2022-08-24T00:32:00Z
     webUrl: "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?tpl=venturecapital"

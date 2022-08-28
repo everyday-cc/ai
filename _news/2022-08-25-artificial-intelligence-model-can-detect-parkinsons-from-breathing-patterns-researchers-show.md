@@ -80,20 +80,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 45
-  - title: "AI to detect Parkinson’s from breathing patterns"
-    excerpt: "A device developed at the Massachusetts Institute of Technology (MIT) with the appearance of a Wi-Fi router uses a neural network to discern the presence and severity of one of the fastest-growing neurological diseases in the world."
-    publishedDateTime: 2022-08-23T11:47:00Z
-    webUrl: "https://healthcare-in-europe.com/en/news/ai-detect-parkinsons-breathing.html"
-    type: article
-    provider:
-      name: healthcare-in-europe.com
-      domain: healthcare-in-europe.com
-    quality: 39
-    images:
-      - url: "https://healthcare-in-europe.com/media/story/27266/rect-01-ai-parkinsons2.jpg"
-        width: 400
-        height: 240
-        isCached: true
   - title: "How AI could detect Parkinson’s using breathing patterns"
     excerpt: "Researchers at MIT recently developed an artificial intelligence model that can detect Parkinson's from breathing patterns."
     publishedDateTime: 2022-08-23T15:48:00Z

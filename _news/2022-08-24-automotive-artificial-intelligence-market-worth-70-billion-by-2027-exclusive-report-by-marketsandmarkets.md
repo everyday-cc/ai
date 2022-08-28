@@ -18,20 +18,15 @@ topics:
   - AI
 
 related:
-  - title: "Passenger Vehicle Voice Recognition Market 2022 Business Scenario, Corporate Profiles, Size and Dynamic Innovation by 2028"
-    excerpt: "According to a recent study by MarketsandResearch.biz the report Global Passenger Vehicle Voice Recognition Market is expected to rise, particularly between 2022 and 2028. The data projects a market share evaluation of quantities for the projection period."
-    publishedDateTime: 2022-08-24T09:23:00Z
-    webUrl: "https://www.marketwatch.com/press-release/passenger-vehicle-voice-recognition-market-2022-business-scenario-corporate-profiles-size-and-dynamic-innovation-by-2028-2022-08-24"
+  - title: "Govt keen to use AI in e-Marketplace: Goyal"
+    excerpt: "Union Minister Piyush Goyal on Tuesday said the Centre is keen to use Artificial Intelligence in the Government e-Marketplace procurement process to make it more effective and sought industry cooperation to achieve this."
+    publishedDateTime: 2022-08-23T18:40:00Z
+    webUrl: "https://www.dailypioneer.com/2022/business/govt-keen-to-use-ai-in--e-marketplace--goyal.html"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 28
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: The Pioneer
+      domain: dailypioneer.com
+    quality: 17
 
 secured: "4s8srYIO58t6PByruQrWxDi/E/LKa/fm3475gqBTRx7ZMyiHVrUEHwOa2AYvV7ic66ltlga3E9zZEj7GuX2qkye9dhqAJA7A/+Ipm0i1vN+eOBUFifmszIj0vYnFkRlqJQ6W/15vpFNfM7Ukfgc41VN7c+0VMrgkEe2kesBPSCKrT4dYp7qRqrdwkdMMQTfEPEpsc03r34VacIGtgTAssag/Xi88MpnzGLuhNInoffDnJhEWPVTFnUAUpjpaWmJzh5oLsBNMPTQ/YREdhwXQCykBwc8pQxS5BA4G2SpeAA1LnfDFtMoDbXS4xBSnCDIKIHtyTbKQS1QrMl4vNO0updpsyX8FUcxGc+CKolKTkLfBuuJBhQ8iYvthlIYvoh0K9gbWvYbnxRQeQfz2ZstEu2N/bH0dwJTJPkV4QzZuuOZGEMZocJjpRy6qn+ZtbHHy5C6MYTHOus0a1vpVgAZa+9KTfsFZvcUZyX2UKxkFMnqPS/7KvrycmAnBN6dJ+3Vxngo2tBeZBx3RMHKfBoBN+w==;q46K2cNSDrYtvEbV5PQdUA=="
 ---

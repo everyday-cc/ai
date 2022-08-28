@@ -32,6 +32,20 @@ related:
         width: 721
         height: 480
         isCached: true
+  - title: "OSF Ventures invests in company bringing AI diagnosis to health care locations across the country"
+    excerpt: "OSF Ventures, the investment arm of OSF HealthCare, has joined a $75 million Series B financing round to support Iowa-based Digital Diagnostics’ efforts to speed growth, implementation and sales, plus deepen the development pipeline for digital tools aimed at improving patient access to early disease detection and treatment."
+    publishedDateTime: 2022-08-24T15:15:00Z
+    webUrl: "https://apnews.com/press-release/pr-newswire/technology-health-peoria-124b734daf4cc2f07f261a1400e32cae"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 28
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
 
 secured: "VL+WbNpKRzPbx1+Ha176Ba+1msKZRlb7xXT2wIhhPDjpK8GWtMS5COpb2shmWyMt6iWP5o/tWDj4IvaaFqUTFMejCbjdIL0KqIrRdRd6bD9ao7G923ZAGMhhN2jIDDYft9JI60OYfWOMA9Rz+AULAYgY52yV9+Er53OfKLXpD/tWJkizmefX+SpOrFJ0K9B+tiT4FptpAux0Jft82SnsyQdEn8sDM4bAEltQqaMT3TpLaoOFaq27JhnnMNMMuAD9VwCeID5mcUxfZ8XbyFzxSPbyuaOorDBs4V4R88/8kUycYq2bZ6O0AGUfQ/eRktv82V2R/ajpBHrRd6CnY5fJNXOgcA1K7CKWfOKz86zzaO0=;4ES1IWEDgcLICCUaPwNRAg=="
 ---

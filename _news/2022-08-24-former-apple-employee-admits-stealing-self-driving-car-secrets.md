@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Former Apple engineer pleads guilty to stealing self-driving vehicle secrets, faces decade in prison"
-    excerpt: "Federal agents stopped Zhang at San Jose International Airport as he departed for Beijing using a ticket bought at the \"last second.\" He"
-    publishedDateTime: 2022-08-23T11:15:00Z
-    webUrl: "https://www.techspot.com/news/95726-former-apple-engineer-pleads-guilty-stealing-self-driving.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 39
-    images:
-      - url: "https://static.techspot.com/images2/news/bigimage/2021/11/2021-11-18-image-19.jpg"
-        width: 1500
-        height: 809
-        isCached: true
   - title: "Engineer admits details about Apple's mythical self-driving project"
     excerpt: "Engineer Stole manuals of Titan circuit boards An ex-Apple engineer who worked on Titan the outfit's imaginary self-driving car project – admitted to stealing proprietary tech while he was working for the company."
     publishedDateTime: 2022-08-24T08:54:00Z

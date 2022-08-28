@@ -7,7 +7,7 @@ originalUrl: "https://fintechnews.sg/63399/vietnam/top-7-fintech-startups-in-vie
 webUrl: "https://fintechnews.sg/63399/vietnam/top-7-fintech-startups-in-vietnam-in-2022/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -25,47 +25,20 @@ images:
     isCached: true
 
 related:
-  - title: "IAN invests INR 4.5 Cr in Fintech NBFC Indium Finance"
-    excerpt: "News reports, trends, analysis and Daily Updates on Business, New Emerging Technology, Startups, Funding, and Innovation in India and across the World"
-    publishedDateTime: 2022-08-23T11:38:00Z
-    webUrl: "https://www.indianweb2.com/2022/08/ian-invests-inr-45-cr-in-fintech-nbfc.html"
+  - title: "News: Fintech startup TIFIN appoints Natashaa Bhalla as vice president, human resource"
+    excerpt: "Bhalla s hiring is in line with TIFIN s vision to put Indian talent at the forefront of fintech AI innovation on a global scale"
+    publishedDateTime: 2022-08-24T06:36:00Z
+    webUrl: "https://www.peoplematters.in/news/appointments/fintech-startup-tifin-appoints-natashaa-bhalla-as-vice-president-human-resource-35020"
     type: article
     provider:
-      name: indianweb2.com
-      domain: indianweb2.com
-    quality: 39
+      name: People Matters
+      domain: peoplematters.in
+    quality: 16
     images:
-      - url: "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWDW235eX6cvKA5gq9rYjLoySyHVExF6-jPSoaghf45tGl9R--EMI0UDquI5WdfKqi_oaqpM4mYdZZyOBn7ibJ-EqlEYUXJZPOBKMcg3u3d8qAhwO_H6TtKPZL5LPLsAjPR6WxM22crVwY-_yu2vBLKaPuwp5q9Z2lpEQ-6K33XoZMiTM0wZHOc9mm/s16000/indium-finance.jpg"
-        width: 900
-        height: 506
+      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1660291337/ad-drezxt5v.jpg"
+        width: 990
+        height: 550
         isCached: true
-  - title: "The Intersection Of Physical, Mental, And Financial Health: What The Fintech Journey Can Teach Us"
-    excerpt: "The connection between different facets of our health is more obvious than ever. The pandemic highlighted the ways decreased physical mental health and physical health are intertwined –and recent research shows that ongoing stressors around finances also impact mental and physical health."
-    publishedDateTime: 2022-08-24T18:49:00Z
-    webUrl: "https://www.forbes.com/sites/jennifertescher/2022/08/24/the-intersection-of-physical-mental-and-financial-health-what-the-fintech-journey-can-teach-us/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 21
-  - title: "Growth Capital Ventures leads six-figure funding into fintech firm"
-    excerpt: "County Durham-based Growth Capital Ventures has led a £695,000 investment into a fintech platform, which aims to improve access to credit for people around the world."
-    publishedDateTime: 2022-08-24T07:20:00Z
-    webUrl: "https://www.insidermedia.com/news/Yorkshire/growth-capital-ventures-leads-six-figure-funding-into-fintech-firm"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 4
-  - title: "GCV Leads £695K Investment in Finexos, a Fintech Focused on Making Credit More Accessible"
-    excerpt: "GCV has led a £695,000 investment round into Finexos, a fintech platform set \"to improve access to credit for millions of people around the world.\""
-    publishedDateTime: 2022-08-24T12:38:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/08/195140-gcv-leads-695k-investment-in-finexos-a-fintech-focused-on-making-credit-more-accessible/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 0
 
 secured: "EzQsm26wFNpKq+kVnM5Sya/Bil2gsgm06JtXDSZ12KVRBBvEZug9bE3deNny16Idy/0ZgCWX5ABqwcilTuYAtNtlQw/NUV4mzYwtG71UATtXFWOQFZq462QhC9gck1OzzqMxW8bRYpLQ0Tl/8bqaGyvJ1wNWpyHrKwSbnq3RW6BShQqenAFLEyGxnUxzdZRokTyNFA4LgF7lviBSsnPzFPQv+wGVXDzM6kWQZOTQpjR/4S3fD4Dq49bpXOFCIu9YNo2bXRpd8+F7YC5/msPHaQpYREvqM6YwbCV60Ki1xaezrmZLRYlAWQQhouoXimNB3yE2gJ3f4V6aQQ9JH0ntKssxhWtyZkaec9Mm0KSQzZg=;SaU71H9mshbik3znD5KpjQ=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://www.peoplematters.in/news/appointments/fintech-startup-tif
 webUrl: "https://www.peoplematters.in/news/appointments/fintech-startup-tifin-appoints-natashaa-bhalla-as-vice-president-human-resource-35020"
 type: article
 quality: 16
-heat: 16
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,22 @@ images:
     width: 990
     height: 550
     isCached: true
+
+related:
+  - title: "Top 7 Fintech Startups in Vietnam in 2022"
+    excerpt: "To get a sense of Vietnam’s up-and-coming fintech startups, we look today at seven fast-growing Vietnamese fintech companies that have made notable strives over the past year and which have attracted the interest of some of the world’s most prominent startup investors."
+    publishedDateTime: 2022-08-25T01:21:00Z
+    webUrl: "https://fintechnews.sg/63399/vietnam/top-7-fintech-startups-in-vietnam-in-2022/"
+    type: article
+    provider:
+      name: Fintech Singapore
+      domain: fintechnews.sg
+    quality: 24
+    images:
+      - url: "https://c9k9c9v3.stackpathcdn.com/wp-content/uploads/2022/08/Top-7-Fintech-Startups-in-Vietnam-in-2022.png?x82653"
+        width: 1024
+        height: 567
+        isCached: true
 
 secured: "NtsCp86MQEDYctU1tswGWlgW0qUTpft30VXSFVa1Axx1AOdY/hauAd2yfPV8tdWRG4D+adx4EZ9TERWpHF2XW2eEgWIToCkDVSCVpx+B+Nnyr/2QlZjrluwbPfKW8tXniKm3FiSFPgVOOBVzFW0VFx6KZAGkEfLFgBXVQvlhABzKx73inY0ZYVMfQGyhWESa6pjNWYkeIESYkP9YF/VteR5uFCy2B6unoMXRZ3N4CEGcpnYYlIPErHVix6UzxSnRST1nWqDbj5e19c6T4gZcO6OAs97d6kjogAsr35Mek/jjxYE3kwXOru1yjKnC4aHC6M3BCj2DZiLaMjcuZzBEEtfXwOT7xralUnu3KICWfOq5qxs5lymTiOFVdwNrkxeLPFCt59keGyDBYLxMaVFCV2rYLYxV4ufbRtxdesViICuL+8Ut/NiOipD0yruOSDVL7p6vgmW2o1r2AyTqBRJFWpe6HEzHxGMeYAoqLs6Qe9A/epKXTz58nqy9GVXuPAE6n9caJIBCKJPKelKtsEQvtw==;E1lmClgNzv8Cd26XkfRH/Q=="
 ---

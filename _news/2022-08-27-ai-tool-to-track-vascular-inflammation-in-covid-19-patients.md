@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/lifestyle/health-specials/ai-vascu
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/lifestyle/health-specials/ai-vascular-inflammation-covid-19-patients-8115182/lite/"
 type: article
 quality: 57
-heat: 77
+heat: 78
 published: true
 
 provider:

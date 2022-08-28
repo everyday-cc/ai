@@ -2,6 +2,135 @@
   "page": 100,
   "value": [
     {
+      "path": "_news/2022-06-09-ai-as-a-cyber-security-enabler.md",
+      "title": "AI as a cyber security enabler",
+      "excerpt": "AI makes it possible for businesses to handle significantly higher volumes of incidents than was previously possible.",
+      "sourceUrl": null,
+      "webUrl": "https://www.itweb.co.za/content/wbrpO7g2zWKvDLZn",
+      "originalUrl": "https://www.itweb.co.za/content/wbrpO7g2zWKvDLZn",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://lh3.googleusercontent.com/vTByOfnu0MpUBJcpeD4A9yShoqR5sVw5vKs25Jpm6QrSQyoxuPOic_XyD5no2_rK_ALmHaM8AaNCn0lEr66IvxOxUvYNFzJgJhQk=w816-h428",
+          "width": 761,
+          "height": 428,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.itweb.co.za/amp/content/wbrpO7g2zWKvDLZn",
+      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/wbrpO7g2zWKvDLZn",
+      "publishedDateTime": "2022-06-09T00:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ITWeb",
+        "domain": "itweb.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-timnit-gebru-and-the-fight-to-make-artificial-intelligence-work-for-africa.md",
+      "title": "Timnit Gebru and the fight to make artificial intelligence work for Africa",
+      "excerpt": "This encompasses everything from self-driving cars to automatic translation and facial recognition programs. The ultimate prize is a concept known as Artificial General Intelligence — a computer ...",
+      "sourceUrl": null,
+      "webUrl": "https://mg.co.za/africa/2022-06-09-timnit-gebru-and-the-fight-to-make-artificial-intelligence-work-for-africa/",
+      "originalUrl": "https://mg.co.za/africa/2022-06-09-timnit-gebru-and-the-fight-to-make-artificial-intelligence-work-for-africa/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.mg.co.za/wp-media/2022/06/3b4747bd-gettyimages-1028811892.jpg",
+          "width": 1600,
+          "height": 1067,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://mg.co.za/africa/2022-06-09-timnit-gebru-and-the-fight-to-make-artificial-intelligence-work-for-africa/?amp",
+      "cdnAmpWebUrl": "https://mg-co-za.cdn.ampproject.org/c/s/mg.co.za/africa/2022-06-09-timnit-gebru-and-the-fight-to-make-artificial-intelligence-work-for-africa/?amp",
+      "publishedDateTime": "2022-06-09T00:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "mg.co.za",
+        "domain": "mg.co.za",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-baidus-electric-vehicle-firm-jidu-unveils-first-robot-car.md",
+      "title": "Baidu’s electric vehicle firm Jidu unveils first ‘robot’ car",
+      "excerpt": "Baidu’s electric vehicle (EV) arm Jidu Auto on Wednesday launched a “robot” concept car, the first vehicle to be revealed by a Chinese internet company. The concept car, which is free of door handles and can be fully controlled via voice recognition,",
+      "sourceUrl": null,
+      "webUrl": "https://www.ariananews.af/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car/",
+      "originalUrl": "https://www.ariananews.af/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g7t9m5v9.stackpathcdn.com/wp-content/uploads/2022/06/robo-car-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ariananews.af/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car/amp/",
+      "cdnAmpWebUrl": "https://www-ariananews-af.cdn.ampproject.org/c/s/www.ariananews.af/baidus-electric-vehicle-firm-jidu-unveils-first-robot-car/amp/",
+      "publishedDateTime": "2022-06-08T23:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Ariana News",
+        "domain": "ariananews.af",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-baidus-first-car-will-target-tesla-model-y-executive.md",
       "title": "Baidu’s first car will target Tesla Model Y: executive",
       "excerpt": "Baidu’s electric vehicle (EV) subsidiary Jidu Auto unveiled its first concept car on Wednesday, with representatives promising the model will be 90%",
@@ -950,144 +1079,6 @@
       ],
       "topics": [
         "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-ai-speras-criminal-ip-makes-a-debut-at-rsa-conference-2022.md",
-      "title": "AI Spera's Criminal IP Makes a Debut at RSA Conference 2022",
-      "excerpt": "On June 6, AI Spera, the provider of AI-driven Cyber Threat Intelligence platform, introduced its VPN IP threat detection solutions at the world's largest cyber security conference, RSA Conference 2022 in San Francisco.",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/ai-spera-s-criminal-ip-makes-a-debut-at-rsa-conference-2022-1031517024",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/ai-spera-s-criminal-ip-makes-a-debut-at-rsa-conference-2022-1031517024",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1834303/1.jpg",
-          "width": 400,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-deep-learning-solves-nuisance-alarms-and-tailgating-in-access-control.md",
-      "title": "Deep learning solves nuisance alarms and tailgating in access control",
-      "excerpt": "Access control systems are plagued by problems, such as false alarms and tailgating. Hakimo is a new company that applies concepts of deep learning to reduce false alarms and tailgating, and to make access control more accurate. False or nuisance alarms ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sourcesecurity.com/tags/cloud-security/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html",
-      "originalUrl": "https://www.sourcesecurity.com/tags/cloud-security/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.sourcesecurity.com/amp/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html",
-      "cdnAmpWebUrl": "https://www-sourcesecurity-com.cdn.ampproject.org/c/s/www.sourcesecurity.com/amp/insights/deep-learning-nuisance-alarms-tailgating-access-control-co-1637761998-ga-sb.1652683790.html",
-      "publishedDateTime": "2022-06-08T09:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SourceSecurity",
-        "domain": "sourcesecurity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-an-ai-chatbot-trained-on-4chan-has-sparked-outrage-and-fascination.md",
-      "title": "An AI chatbot trained on 4chan has sparked outrage and fascination",
-      "excerpt": "An AI trained on 4chan's /pol/ was let loose on the board. The bot provides a horrifying glimpse into a future of automated discrimination",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/ai-chatbot-trained-on-4chan-pol-automates-bigotry-at-scale",
-      "originalUrl": "https://thenextweb.com/news/ai-chatbot-trained-on-4chan-pol-automates-bigotry-at-scale",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F06%2FUntitled-design.jpg&signature=f1c9f1ed4b18584595859aa4d249dde1",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
         "AI"
       ]
     }

@@ -34,15 +34,6 @@ related:
         width: 1200
         height: 670
         isCached: true
-  - title: "Ivy.ai earns TX-RAMP provisional status, proving its secure, compliant chatbot technology"
-    excerpt: "Public Higher Education institutions in Texas can deploy Ivy's solutions with confidence.BOULDER, Colo., Aug. 23, 2022 /PRNewswire/ -- Ivy.ai —"
-    publishedDateTime: 2022-08-23T13:01:00Z
-    webUrl: "https://markets.businessinsider.com/news/stocks/ivy-ai-earns-tx-ramp-provisional-status-proving-its-secure-compliant-chatbot-technology-1031700517"
-    type: article
-    provider:
-      name: Business Insider
-      domain: businessinsider.com
-    quality: 38
   - title: "Google wants you to chat with its AI chatbot at your own risk"
     excerpt: "Google has opened its experimental artificial intelligence (AI) chatbot for the public and you can now register to chat with the AI-driven bot trained on the company's controversial language model."
     publishedDateTime: 2022-08-27T11:07:00Z

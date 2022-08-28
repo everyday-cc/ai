@@ -91,20 +91,6 @@ related:
         width: 1276
         height: 716
         isCached: true
-  - title: "Musk: Tesla’s Full Self-Driving Price Rising to $15,000 Sept. 5"
-    excerpt: "Current price will be honored for orders made before Sept 5th, but delivered later. As of now, Full Self-Driving is still in Beta testing and available to a select number of Tesla-owning volunteer “testers” who have achieved a high enough,"
-    publishedDateTime: 2022-08-23T12:03:00Z
-    webUrl: "https://www.cars.com/articles/musk-teslas-full-self-driving-price-rising-to-15000-sept-5-455881/"
-    type: article
-    provider:
-      name: Cars.com
-      domain: cars.com
-    quality: 39
-    images:
-      - url: "https://images.cars.com/cldstatic/wp-content/uploads/tesla-model-y-2021-08-exterior-dynamic-front-angle-scaled.jpg"
-        width: 1200
-        height: 800
-        isCached: true
   - title: "Why Tesla Expects to Develop Self-Driving Cars First in the Industry"
     excerpt: "Continuing its battle to change the transportation business, Tesla has unveiled the artificial intelligence system it has developed to educate its thousands of cars to drive themselves. Dojo, the AI system revealed on Tuesday at the Hot Chips conference,"
     publishedDateTime: 2022-08-23T18:00:00Z

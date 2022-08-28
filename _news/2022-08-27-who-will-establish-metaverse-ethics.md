@@ -41,15 +41,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "Inworld AI raises $50M to populate games and the metaverse with smart characters"
-    excerpt: "Inworld AI has raised $50 million for its developer platform for creating AI-driven virtual characters in video games and the metaverse."
-    publishedDateTime: 2022-08-23T12:28:00Z
-    webUrl: "https://venturebeat.com/game-development/inworld-ai-raises-50m-to-populate-games-and-the-metaverse-with-smart-characters/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 44
   - title: "Metaverse in healthcare market to reach $72B by 2030"
     excerpt: "The 2021 metaverse global market size is about $6.85 billion. According to an Aug. 24 news release from Precedence Research, it is expected to surpass $70.1 billion by 2030 with a compound annual growth rate of 28."
     publishedDateTime: 2022-08-24T18:53:00Z

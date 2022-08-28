@@ -35,15 +35,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "Inworld AI raises $50M to populate games and the metaverse with smart characters"
-    excerpt: "Inworld AI has raised $50 million for its developer platform for creating AI-driven virtual characters in video games and the metaverse."
-    publishedDateTime: 2022-08-23T12:28:00Z
-    webUrl: "https://venturebeat.com/game-development/inworld-ai-raises-50m-to-populate-games-and-the-metaverse-with-smart-characters/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 44
   - title: "Who will establish metaverse ethics?"
     excerpt: "The metaverse is not a new concept. The term was coined by science fiction novelist Neal Stephenson in his 1992 book Snow Crash, which depicts a hyper-capitalist dystopia in which humanity has collectively opted into life in virtual environments."
     publishedDateTime: 2022-08-27T03:40:00Z
