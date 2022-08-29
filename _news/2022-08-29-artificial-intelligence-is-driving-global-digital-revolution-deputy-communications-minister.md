@@ -56,20 +56,6 @@ related:
         height: 652
         isCached: true
   - title: "Humans Have a Natural Defense Against Facial Recognition: Aging"
-    excerpt: "After just 5 years, facial recognition systems start struggling to identify us, and after 20 years they have no chance."
-    publishedDateTime: 2022-08-24T14:50:00Z
-    webUrl: "https://www.pcmag.com/news/humans-have-a-natural-defense-against-facial-recognition-aging"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05Pz8HRnBQxyCwqrSeEy3it-1.fit_lim.size_1200x630.v1661351863.jpg"
-        width: 1121
-        height: 630
-        isCached: true
-  - title: "Humans Have a Natural Defense Against Facial Recognition: Aging"
     excerpt: "Facial recognition systems have become very adept at identifying people in a crowd, but it turns out they don't cope very well with us getting older. As New Scientist reports, the algorithms used ..."
     publishedDateTime: 2022-08-25T02:26:00Z
     webUrl: "https://uk.pcmag.com/security/142247/humans-have-a-natural-defense-against-facial-recognition-aging"
@@ -176,6 +162,6 @@ related:
         height: 450
         isCached: true
 
-secured: "/3yOaXczz9O+XvUGAJROqC+qxazA+EDbAiIyAy98vF8tfcxn/o+8PPTNaYTszIK8xWUftFp52wCi1RlyK1MoEEhUEvYbeOV8GeYJ/UQkeMKKzX14vABwbeGb1sP8SRKS2Y6WSa4Ha/rcq3PLfBHZeLyi17LUzycI/ddYIACigS/nsCAbBYPcq4tzr52IrBVI3T12hQkt7LzM9urOsYpEJEeQm6uNvj++wb2NPy+AB9zhDNIGMdhMUJs4rZuH0lRb/Gx6vu0UoaaofxW7+2ftt6j1fpRjU/n385ImFbJcIpN6P1sH6eTwKG6D4YxDlv9d/ITBPnv9Ywv4SaNCmQdpT7V0OzBQFdkjoNQvOyFVTpc=;nLkTPv7pICWvkf/wKIgWcg=="
+secured: "O1Qexb3WDU6nqHqZgK5GXXP+Ts34uwfZXE3qQOR8m3uQ7SJ6Y/6U10t/WcLC2gcb0/oQPVRpkfKfyKYJH0BxEX1C7iO4H+JVxGNvkhuEkZz62XQEz8v2CPp3thPkPTRNTsDDndMyLGpNPjnk5bwKBbMjYJxn7IehqJewqxCxnIfsg1oLV/ERjblvGGervVXehHi8gxgj/wakXt2HpvU26ZpXIeTRofxrGqnThrIEvP1zvt71XUEdtD1umG2WytXeUJp7uE7281GXVczv3bB8He18ItvNhvTX7P3JwaNbrIlmc31uVqVAhFaWKMZ8oVUV7qzyQRQlPv0FnYbZ5mtSquPTqB1UdmUk1JElllxQA3u/XE/a9soWa/satYYhS8h50U3NxWDbQ6Ry2ufxpO5SlH80fcVj5s/3wNoiAtxVgUkCbfsImzapUh022FjQhsMwYAQmfHtn/dTxdEd+fl/kfLUdL9ndjgnFctVzqpH6RIquiXfqi5D+CiJMKhgRJCDO0FYD/rN8kiR8014YOHGvXw==;6d8tEsB8UaNYs1oUXglwbQ=="
 ---
 

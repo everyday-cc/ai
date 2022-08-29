@@ -2,6 +2,101 @@
   "page": 9,
   "value": [
     {
+      "path": "_news/2022-06-14-governance-planning-intranets-and-microsoft-365.md",
+      "title": "Governance Planning, Intranets, and Microsoft 365",
+      "excerpt": "At KMWorld 2021, Microsoft MVP Susan Hanley discussed how she develops effective governance plans for her clients. A key part of planning is to consider these questions, she said: What are we going to allow? What are we not going to allow? How are we going ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=153458",
+      "originalUrl": "https://www.kmworld.com/Articles/ReadArticle.aspx?ArticleID=153458",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/KMWorld/TemplateImages/KMW21_Sub-Cover-Image.gif",
+          "width": 772,
+          "height": 594,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-14T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KMWorld Magazine",
+        "domain": "kmworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-14-arkestro-brings-ai-to-erp.md",
+      "title": "Arkestro brings AI to ERP",
+      "excerpt": "We are excited to bring Transform 2022 back in-person July 19 and virtually July 20 - 28. Join AI and data leaders for insightful talks and exciting networking opportunities. Register today!",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/14/arkestro-brings-ai-to-erp/",
+      "originalUrl": "https://venturebeat.com/2022/06/14/arkestro-brings-ai-to-erp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1317265017.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/14/arkestro-brings-ai-to-erp/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/14/arkestro-brings-ai-to-erp/amp/",
+      "publishedDateTime": "2022-06-14T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-consumers-drive-retails-digital-transformation-says-microsoft.md",
       "title": "Consumers drive retail’s digital transformation, says Microsoft",
       "excerpt": "From e-commerce to omnichannel, customers drive retail’s digital transformation in the Middle East and Africa (MEA), Microsoft, the software manufacturing",
@@ -1229,83 +1324,6 @@
         "AI",
         "AI in Healthcare",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-5-ways-to-help-reduce-risk-of-cognitive-decline.md",
-      "title": "5 ways to help reduce risk of cognitive decline",
-      "excerpt": "During Alzheimer’s & Brain Awareness Month in June, the Alzheimer’s Association is encouraging all Americans to adopt healthy lifestyle behaviors that may help reduce the risk of cognitive ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fortmorgantimes.com/2022/06/08/5-ways-to-help-reduce-risk-of-cognitive-decline/",
-      "originalUrl": "https://www.fortmorgantimes.com/2022/06/08/5-ways-to-help-reduce-risk-of-cognitive-decline/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.fortmorgantimes.com/2022/06/08/5-ways-to-help-reduce-risk-of-cognitive-decline/amp/",
-      "cdnAmpWebUrl": "https://www-fortmorgantimes-com.cdn.ampproject.org/c/s/www.fortmorgantimes.com/2022/06/08/5-ways-to-help-reduce-risk-of-cognitive-decline/amp/",
-      "publishedDateTime": "2022-06-08T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fort Morgan Times",
-        "domain": "fortmorgantimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-video-better-screening-for-cognitive-issues-needed.md",
-      "title": "VIDEO: Better screening for cognitive issues needed",
-      "excerpt": "Forester BP, et al. Enhancing clinical care and collaboration with aging patients: Geriatric psychiatry and new models of care. Presented at: American Psychiatric Association annual meeting; May ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.healio.com/news/psychiatry/20220608/video-better-screening-for-cognitive-issues-needed",
-      "originalUrl": "https://www.healio.com/news/psychiatry/20220608/video-better-screening-for-cognitive-issues-needed",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.healio.com/~/media/images/fscss/i3wyanokecdncom/healio_safe_image.png",
-          "width": 1024,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healio",
-        "domain": "healio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

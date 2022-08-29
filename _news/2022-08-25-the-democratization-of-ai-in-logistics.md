@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/25/the-democr
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/25/the-democratization-of-ai-in-logistics/amp/"
 type: article
 quality: 87
-heat: 117
+heat: 107
 published: true
 
 provider:
@@ -30,15 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "How AIaaS (AI-as-a-service) can help democratize AI"
-    excerpt: "“SMEs [small- to medium-sized enterprises] are often plagued with the problem of scaling their operations on account of huge financial ... vertical services provisioning such as inference-as-a-service, annotation-as-a-service, and machine learning ..."
-    publishedDateTime: 2022-08-24T13:40:00Z
-    webUrl: "https://venturebeat.com/ai/how-ai-as-a-service-can-help-democratize-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 51
   - title: "The promise of machine learning democratization"
     excerpt: "Machine learning and artificial intelligence (AI) were once concepts relegated to only the most optimistic observers, much like self-driving electric vehicles and smartphones once were. But if it isn’t obvious,"
     publishedDateTime: 2022-08-26T12:08:00Z

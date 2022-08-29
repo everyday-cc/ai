@@ -55,20 +55,6 @@ related:
         height: 652
         isCached: true
   - title: "Humans Have a Natural Defense Against Facial Recognition: Aging"
-    excerpt: "After just 5 years, facial recognition systems start struggling to identify us, and after 20 years they have no chance."
-    publishedDateTime: 2022-08-24T14:50:00Z
-    webUrl: "https://www.pcmag.com/news/humans-have-a-natural-defense-against-facial-recognition-aging"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 84
-    images:
-      - url: "https://i.pcmag.com/imagery/articles/05Pz8HRnBQxyCwqrSeEy3it-1.fit_lim.size_1200x630.v1661351863.jpg"
-        width: 1121
-        height: 630
-        isCached: true
-  - title: "Humans Have a Natural Defense Against Facial Recognition: Aging"
     excerpt: "Facial recognition systems have become very adept at identifying people in a crowd, but it turns out they don't cope very well with us getting older. As New Scientist reports, the algorithms used ..."
     publishedDateTime: 2022-08-25T02:26:00Z
     webUrl: "https://uk.pcmag.com/security/142247/humans-have-a-natural-defense-against-facial-recognition-aging"

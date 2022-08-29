@@ -10,7 +10,7 @@
       "originalUrl": "https://venturebeat.com/ai/why-metas-large-language-model-does-not-work-for-researchers/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 75,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -286,6 +286,58 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-the-ai-startup-erasing-call-center-worker-accents-is-it-fighting-bias-or-perpetuating-it.md",
+      "title": "The AI startup erasing call center worker accents: is it fighting bias – or perpetuating it?",
+      "excerpt": "A Silicon Valley startup offers voice-altering tech to call center workers around the world: ‘Yes, this is wrong … but a lot of things exist in the world’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american?source=Snapzu",
+      "originalUrl": "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american?source=Snapzu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b78a80dcbe5e356a1d5b5cdcb8bec72fd38da9e8/453_682_6496_3898/master/6496.jpg?width=620&quality=85&auto=format&fit=max&s=506613242ac1f196cf1c3c70b0c77f6a",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american",
+      "publishedDateTime": "2022-08-24T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
@@ -1336,50 +1388,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-top-4-ai-based-face-recognition-applications.md",
-      "title": "Top 4 AI-based Face Recognition Applications",
-      "excerpt": "Besides mobile face recognition, voice recognition is also used to enhance security. The user’s voice and face work as a password and is like the biometric key to unlocking all the apps. AppLock amalgamates the speaker and face recognition technology to ...",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/top-4-ai-based-face-recognition-applications/",
-      "originalUrl": "https://techbullion.com/top-4-ai-based-face-recognition-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/08/Some-popular-face-recognition-apps.jpg",
-          "width": 918,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/top-4-ai-based-face-recognition-applications/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-4-ai-based-face-recognition-applications/amp/",
-      "publishedDateTime": "2022-08-17T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

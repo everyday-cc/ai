@@ -43,6 +43,48 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Edge Computing AI Chips Market Trend From 2022 To 2028 And Unlimited Opportunities for New Companies"
+    excerpt: "Pre and Post Covid is covered and Report Customization is available. In the forecast period of 2022-2028, the Global"
+    publishedDateTime: 2022-08-26T07:37:00Z
+    webUrl: "https://www.marketwatch.com/press-release/edge-computing-ai-chips-market-trend-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-2022-08-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 69
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Machine learning Market Latest Trends, Size, Key Players, Revenue and Forecast 2022-2031"
+    excerpt: "A report on Machine learning Market was recently added by Kenneth Research into its database, which is aimed at"
+    publishedDateTime: 2022-08-26T05:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-latest-trends-size-key-players-revenue-and-forecast-2022-2031-2022-08-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 60
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Computer Vision Image Software Market Overview by Top Players, Segments, Demand and Forecast till 2028"
+    excerpt: "The Global Computer Vision Image Software Market 2022 that centers around Computer Vision Image Software market examines the significant components with a top to bottom methodology and empowers the client to survey the drawn-out based interest additionally predicts explicit executions."
+    publishedDateTime: 2022-08-26T05:50:00Z
+    webUrl: "https://www.marketwatch.com/press-release/computer-vision-image-software-market-overview-by-top-players-segments-demand-and-forecast-till-2028-2022-08-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 53
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Artificial Intelligence in Healthcare Market Size In 2022 Profiling Key Players with Top Countries Data Share Who Are the Top Key Player Till 2030"
     excerpt: "Aug 25, 2022 (Alliance News via COMTEX) -- The report covers the analysis and forecast of the global artificial intelligence in healthcare market as well as regional level. The study provides historic data of 2016 along with the forecast for the period ..."
     publishedDateTime: 2022-08-25T09:30:00Z
@@ -94,20 +136,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "AI Platforms Software Market Size and Share 2022 Analysis Report by Key Players, Geographical Regions, Future Development and Forecast to 2028"
-    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI Platforms Software Market”"
-    publishedDateTime: 2022-08-25T08:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-platforms-software-market-size-and-share-2022-analysis-report-by-key-players-geographical-regions-future-development-and-forecast-to-2028-2022-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

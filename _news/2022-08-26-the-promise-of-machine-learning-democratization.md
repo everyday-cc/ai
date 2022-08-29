@@ -35,15 +35,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "How AIaaS (AI-as-a-service) can help democratize AI"
-    excerpt: "“SMEs [small- to medium-sized enterprises] are often plagued with the problem of scaling their operations on account of huge financial ... vertical services provisioning such as inference-as-a-service, annotation-as-a-service, and machine learning ..."
-    publishedDateTime: 2022-08-24T13:40:00Z
-    webUrl: "https://venturebeat.com/ai/how-ai-as-a-service-can-help-democratize-ai/"
-    type: article
-    provider:
-      name: VentureBeat
-      domain: venturebeat.com
-    quality: 51
   - title: "Artificial Intelligence in Fashion Design"
     excerpt: "The industries are flourishing and expanding and the technological advancements in the Fashion Industry are growing exponentially."
     publishedDateTime: 2022-08-28T18:47:00Z

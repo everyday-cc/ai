@@ -1,52 +1,30 @@
 ---
 category: news
 title: "Mark Cuban Foundation AI Bootcamps- Application Closing Soon!"
-excerpt: "The Mark Cuban Foundation will host Artificial Intelligence (AI) Bootcamps for high school students in the Fall of 2022. The No Cost AI Bootcamp will be targeted at high school"
+excerpt: "The Mark Cuban Foundation will host Artificial Intelligence (AI) Bootcamps for high school students in the Fall of 2022. The No Cost AI Bootcamp will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
 publishedDateTime: 2022-08-23T16:49:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/08/g28604874/mark-cuban-foundation-ai-bootcamps-application-closing-soon"
-webUrl: "https://www.benzinga.com/pressreleases/22/08/g28604874/mark-cuban-foundation-ai-bootcamps-application-closing-soon"
-ampWebUrl: "https://www.benzinga.com/amp/content/28604874"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28604874"
+originalUrl: "https://www.marketwatch.com/press-release/mark-cuban-foundation-ai-bootcamps--application-closing-soon-2022-08-23"
+webUrl: "https://www.marketwatch.com/press-release/mark-cuban-foundation-ai-bootcamps--application-closing-soon-2022-08-23"
 type: article
-quality: 39
-heat: -1
-published: false
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Microsoft AI
   - AI
 
-related:
-  - title: "KnowledgeHut upGrad launches AI engineering bootcamps"
-    excerpt: "According to the statement, in the foundation phase, candidates will learn about data warehousing, Linux, Python, SQL, Hadoop, MongoDB, Big Data processing, Big Data security, and AWS."
-    publishedDateTime: 2022-08-24T11:28:00Z
-    webUrl: "https://www.financialexpress.com/education-2/knowledgehut-upgrad/2642713/"
-    ampWebUrl: "https://www.financialexpress.com/education-2/knowledgehut-upgrad/2642713/lite/"
-    cdnAmpWebUrl: "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/education-2/knowledgehut-upgrad/2642713/lite/"
-    type: article
-    provider:
-      name: The Financial Express
-      domain: financialexpress.com
-    quality: 59
-    images:
-      - url: "https://www.financialexpress.com/wp-content/uploads/2022/08/Edtech-1200-1-5.jpg"
-        width: 1200
-        height: 675
-        isCached: true
-  - title: "Mark Cuban Foundation AI Bootcamps- Application Closing Soon!"
-    excerpt: "The Mark Cuban Foundation will host Artificial Intelligence (AI) Bootcamps for high school students in the Fall of 2022. The No Cost AI Bootcamp will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills."
-    publishedDateTime: 2022-08-23T18:20:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-mark-cuban-foundation-ai-bootcamps-application-closing-soon-/2022/08/23/9661107.htm"
-    type: article
-    provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 19
+images:
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
+    isCached: true
 
-secured: "U3qn4Xq2JlphMkSVYxmqeekxK3+YKKvFq/rnNgN9CnqxjjI808juMt/CxxQ3U5A1uoZNp1z1/3vLGTyYDoNWUGkJbCJA16PCanuYowMWdIacvQ04HiwQpiD5Ch1dLpUUc6pCy/nBx5z0QXdhajmcPbkygZuJlQCJkyxCD11U3l143/lswG669bcUUuyUS/fcrALAjD1gb4cq2gdm1Acl7isuQaI/nS6qCYUH8xX+LuQQ8eSJfqly5bbqizxslKkYxPciRvJd1lCLV+VS6Y/7v5BJS+Vg+GUqDaCBRXXeZacf2S+i1TjxCp5EvHkkzHzGyFZ9q9qze3O2bE+BUiDs3QjipoFeA6lspyFMDvBb0DU=;weSdZEiJckk5eepwd+Pnpw=="
+secured: "RMZiHWIgUXRXQ9piz+G+fB0/tjd9MLC9vCeylxbDPyMDvkQR/m0TfCupcVjb1lsLEANnZtiDw/MEyvUz70jul/3QiFR9xeu5OmnVYpECNBouPGlc1NEETNm3HCMFtc4OMhU+nsnUwYkGv/QoBRG73WG5bcOyGCiSJT9uXPRRLnOxIySYf5fBED8KPH6ZqHCI7r9R9ePIBbaO1juFYGpCVFX0PQ4wPMbpXeULfpwB3GMEeM0ztgfI9o/oV7EZRV2rRG6mPmc+9mY2bGM9ZoiTeybE7ktPZkE1Z4/939HV+q3AQnZVcwN5WZvv6hfc9AfOMb2D3wFrJznocvp9S3BAXI2OD7V6Ra+zspxmYDThT1g=;5lzf1wiKAtFSCwQ3ortB9g=="
 ---
 

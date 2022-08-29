@@ -64,6 +64,17 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "Musk Announces Tesla Bot Launch On AI Day 2022"
+    excerpt: "SpaceX CEO Elon Musk shared an update about the Tesla Bot “Optimus.” He announced that his company’s android would debut on AI Day, September 30, 2022. “Tesla Bots are initially positioned"
+    publishedDateTime: 2022-08-27T07:15:00Z
+    webUrl: "https://technology.inquirer.net/117492/elon-musk-announces-tesla-bot"
+    ampWebUrl: "https://technology.inquirer.net/117492/elon-musk-announces-tesla-bot/amp"
+    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/117492/elon-musk-announces-tesla-bot/amp"
+    type: article
+    provider:
+      name: Philippine Daily Inquirer
+      domain: inquirer.net
+    quality: 54
   - title: "Tesla defends self-driving software"
     excerpt: "Tesla has defended its self-driving software after videos of cars running over child-size mannequins hit the internet. Added14 minutes ago A Los Angeles police officer has saved a baby's life using CPR,"
     publishedDateTime: 2022-08-26T08:53:00Z
@@ -89,15 +100,6 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 34
-  - title: "Elon Musk scolds Tesla owner for complaining about glitchy self-driving system"
-    excerpt: "The customer wrote that he’s spent more than $32,000 paying for Tesla's Full Self-Driving system multiple times."
-    publishedDateTime: 2022-08-24T14:30:00Z
-    webUrl: "https://www.detroitnews.com/story/business/autos/2022/08/24/elon-musk-scolds-tesla-owner-complaining-self-driving-system/7883785001/"
-    type: article
-    provider:
-      name: Detroit News
-      domain: detroitnews.com
-    quality: 30
   - title: "Tesla wants anti-self-driving car video taken down"
     excerpt: "Tesla sent a cease-and-desist letter to an advocacy group critical of self-driving vehicles after it posted a video showing a Tesla car running over a child-sized mannequin."
     publishedDateTime: 2022-08-25T19:18:00Z

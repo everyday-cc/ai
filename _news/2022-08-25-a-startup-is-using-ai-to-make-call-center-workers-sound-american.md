@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Protecting AI Data in Manufacturing Is a New Frontier"
+    excerpt: "Big data and AI have revolutionized the manufacturing industry, making factories autonomous as well as smart. With the advent of novel sensors and the Internet of Things, current manufacturing facilities are collecting trillions of bytes of data from ..."
+    publishedDateTime: 2022-08-25T21:24:00Z
+    webUrl: "https://www.industryweek.com/technology-and-iiot/digital-tools/article/21249490/protecting-ai-data-in-manufacturing-is-a-new-frontier"
+    type: article
+    provider:
+      name: IndustryWeek
+      domain: industryweek.com
+    quality: 37
+    images:
+      - url: "https://img.industryweek.com/files/base/ebm/industryweek/image/2022/08/AI_FActory.6307e2ab38448.png?auto=format,compress&fit=fill&fill=blur&w=1200&h=630"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "TDCJvCQZNp5A5t5r/BzYiNHMsm7BEmk+FyaDPkDH6Z01IkFl+Di/NCrljyRDnWCL9fAmaZmhFW39RE9+z9nVgu5XIkT3qVt5+AOje5vlw1N+zdZxW3uyTNmVeucmtvsSrXLY49EebemA9RLSOXQETlpFWZmZerKwNNuhDZ276iYtBaZt8VXQa3Xz9nhvB/w00UjEEurikK8gqkAlhQ+gbcU7/WdTt1pH0ahiadYapidcXmu1IFyfpGlLhmK6LQJJvSApBfqBBM+SVC68WtqHRE5d0kkg/rGUL8tdUGLo7X6brFOhG2EigV+DM8gOTI6ieBqkDoKjwE7eVOil1zpR1bIVLDknQ/pms5QaGffCLY9hxUjRoanIs5ipod07qlUtJDDpdfB+uS5VZaT5D2j8cMMNly05HJOvcQvxQedpC+E1c734IYZF5zOkpnswjEm9PWZYmtERvt1OlJud/mbHPtR9zJC0dF+bWPPxRoZPv+hPbl5a0NhxavIjcU9CjBt0rPEbsDbSDzGf9v0dv8VNfQ==;nDJQdnMxOzC0ku7L3pmXMg=="
 ---

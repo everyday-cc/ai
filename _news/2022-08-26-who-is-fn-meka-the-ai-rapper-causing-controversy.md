@@ -88,15 +88,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI rapper FN Meka dropped by Capitol over racial stereotyping"
-    excerpt: "A record label has cut ties with an AI rapper after criticism it contained racial stereotypes, including repeated use of the N-word. FN Meka is an artificial intelligence musician given the appearance of a black male cyborg."
-    publishedDateTime: 2022-08-24T14:56:00Z
-    webUrl: "https://www.bbc.com/news/newsbeat-62659741.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 47
   - title: "Black Artists Sound Off on Why AI Rapper FN Meka Was So Horribly Offensive"
     excerpt: "Capitol Records signed—and then quickly dropped—the robot rapper, who was accused of appropriating Black culture and dropping the N-word in its songs."
     publishedDateTime: 2022-08-25T21:02:00Z

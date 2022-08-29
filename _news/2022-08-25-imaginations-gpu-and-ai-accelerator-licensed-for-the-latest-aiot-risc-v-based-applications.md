@@ -39,15 +39,6 @@ related:
         width: 512
         height: 512
         isCached: true
-  - title: "Alibaba Cloud unveils chip development platform"
-    excerpt: "Wujian 600 helps global developers in the design of high-performance Systems-on-Chip (SoCs). Alibaba Cloud unveils chip development platform. AI, Alibaba, alibaba cloud, Wujian 600. Business."
-    publishedDateTime: 2022-08-24T13:58:00Z
-    webUrl: "https://www.itp.net/business/alibaba-cloud-unveils-chip-development-platform"
-    type: article
-    provider:
-      name: GDPR fines
-      domain: itp.net
-    quality: 19
   - title: "Alibaba Cloud Unveils Chip Development Platform to Support Developers with RISC-V based High-performance SoCs"
     excerpt: "Alibaba Cloud has unveiled its latest chip development platform, named Wujian 600. It has been created to help global developers in the design of high-performance Systems-on-Chip (SoCs) for edge-AI computing leveraging the RISC-V instruction-set architecture in an efficient and cost-effective way."
     publishedDateTime: 2022-08-25T13:38:00Z

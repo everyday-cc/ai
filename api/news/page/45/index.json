@@ -2,6 +2,348 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2022-07-21-econ-corp-services-dba-investorideascom-ai-tech-stocks-and-the-growing-implementation-in-the-sports-market.md",
+      "title": "Econ Corp Services DBA Investorideas.com: AI Tech Stocks and the Growing Implementation in the Sports Market",
+      "excerpt": "July 21, 2022) - Investorideas.com ( a global investor news source covering Artificial Intelligence (AI) stocks releases a sector snapshot looking at the growing AI tech implementation in the sports market,",
+      "sourceUrl": null,
+      "webUrl": "https://www.finanznachrichten.de/nachrichten-2022-07/56608968-econ-corp-services-dba-investorideas-com-ai-tech-stocks-and-the-growing-implementation-in-the-sports-market-296.htm",
+      "originalUrl": "https://www.finanznachrichten.de/nachrichten-2022-07/56608968-econ-corp-services-dba-investorideas-com-ai-tech-stocks-and-the-growing-implementation-in-the-sports-market-296.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T05:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Finanznachrichten",
+        "domain": "finanznachrichten.de",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-baidus-new-robotaxi-comes-with-no-steering-wheel-and-costs-50-less.md",
+      "title": "Baidu's new robotaxi comes with no steering wheel and costs 50% less",
+      "excerpt": "Apollo RT6 will reportedly begin operating on Chinese roads in the second half of next year under Baidu's self-driving robotaxi programme. In November, Beijing city approved Apollo Go, the company's robotaxi business, to begin charging fares for rides in ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.com/companies/news/988040/baidu-s-new-robotaxi-comes-with-no-steering-wheel-and-costs-50-less-988040.html",
+      "originalUrl": "https://www.proactiveinvestors.com/companies/news/988040/baidu-s-new-robotaxi-comes-with-no-steering-wheel-and-costs-50-less-988040.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA3XC8yMDIyLTA3LTIxLTA4LTI1LTM2LWVkYTQ0N2QwMjdjMjRlODg2YjFkNWJlYTQ5ZjcwY2E4LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo3NDAsImZpdCI6ImNvdmVyIn19fQ==",
+          "width": 1200,
+          "height": 740,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.proactiveinvestors.com/companies/amp/news/988040",
+      "cdnAmpWebUrl": "https://www-proactiveinvestors-com.cdn.ampproject.org/c/s/www.proactiveinvestors.com/companies/amp/news/988040",
+      "publishedDateTime": "2022-07-21T05:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactiveinvestors",
+        "domain": "proactiveinvestors.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-vdot-preparing-to-use-artificial-intelligence-to-predict-traffic.md",
+      "title": "VDOT preparing to use artificial intelligence to predict traffic",
+      "excerpt": "State transportation officials are gearing up to use artificial intelligence to monitor emerging traffic conditions in NoVa and Fredericksburg",
+      "sourceUrl": null,
+      "webUrl": "https://www.virginiamercury.com/2022/07/21/vdot-preparing-to-use-artificial-intelligence-to-predict-traffic/",
+      "originalUrl": "https://www.virginiamercury.com/2022/07/21/vdot-preparing-to-use-artificial-intelligence-to-predict-traffic/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.virginiamercury.com/wp-content/uploads/2022/06/American-Legion-Bridge-June-14-2022-scaled-1024x683-1.jpg",
+          "width": 1024,
+          "height": 683,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Virginia Mercury",
+        "domain": "virginiamercury.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-amazon-web-services-announces-presence-in-nigeria-with-infrastructure-investment.md",
+      "title": "Amazon Web Services announces presence in Nigeria with infrastructure investment",
+      "excerpt": "Amazon Web Services is making what can be described as the first announcement of its presence in Nigeria with the launch of ‘AWS Outposts’, an",
+      "sourceUrl": null,
+      "webUrl": "https://businessday.ng/technology/article/amazon-web-services-announces-presence-in-nigeria-with-infrastructure-investment/",
+      "originalUrl": "https://businessday.ng/technology/article/amazon-web-services-announces-presence-in-nigeria-with-infrastructure-investment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/businessday.ng/wp-content/uploads/2022/07/Amazon-web-services.png?resize=450%2C300&ssl=1",
+          "width": 450,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://businessday.ng/amp/technology/article/amazon-web-services-announces-presence-in-nigeria-with-infrastructure-investment/",
+      "cdnAmpWebUrl": "https://businessday-ng.cdn.ampproject.org/c/s/businessday.ng/amp/technology/article/amazon-web-services-announces-presence-in-nigeria-with-infrastructure-investment/",
+      "publishedDateTime": "2022-07-21T04:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "businessday",
+        "domain": "businessday.ng",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-cognitive-services-market-report-covers-future-trends-growth-factors-and-forecast-2029-ibm-microsoft-google.md",
+      "title": "Cognitive Services Market Report Covers Future Trends, Growth Factors and Forecast 2029| IBM, Microsoft, Google",
+      "excerpt": "The Cognitive Services Market Report includes a detailed analysis of current market conditions, Key players, regions, types, and applications. The report offers a thorough analysis of growth ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/cognitive-services-market-report-covers-future-trends-growth-factors-and-forecast-2029-ibm-microsoft-google",
+      "originalUrl": "https://www.digitaljournal.com/pr/cognitive-services-market-report-covers-future-trends-growth-factors-and-forecast-2029-ibm-microsoft-google",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://nazukaresearch.files.wordpress.com/2022/07/cognitive-services.jpg",
+          "width": 1200,
+          "height": 629,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T03:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-moneyhub-joins-forces-with-pennyworth-to-democratise-financial-planning.md",
+      "title": "Moneyhub Joins Forces with Pennyworth to Democratise Financial Planning",
+      "excerpt": "Moneyhub, the market-leading Open Data and payments platform, is partnering with Pennyworth, a financial planning and banking app, to redesign digital banking for the aspiring-affluent consumer. Pennyworth,",
+      "sourceUrl": null,
+      "webUrl": "https://financialit.net/news/open-banking/moneyhub-joins-forces-pennyworth-democratise-financial-planning",
+      "originalUrl": "https://financialit.net/news/open-banking/moneyhub-joins-forces-pennyworth-democratise-financial-planning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://financialit.net/sites/default/files/copy_of_financial_it_-_news_template_updated_53.png",
+          "width": 900,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-21T02:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial IT",
+        "domain": "financialit.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-check-out-baidus-futuristic-robotaxi.md",
+      "title": "Check out Baidu’s futuristic robotaxi",
+      "excerpt": "Chinese tech giant Baidu says its next-generation autonomous taxi features the capabilities of a \"skilled driver with 20 years of experience.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/",
+      "originalUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/07/baidu-auto-car-1.jpg?p=1",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/?amp",
+      "publishedDateTime": "2022-07-21T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-21-new-ai-tool-that-turns-words-into-art-enters-testing-phase.md",
+      "title": "New AI tool that turns words into art enters testing phase",
+      "excerpt": "A million people eager to dabble with a new artificial intelligence tool that lets them create images simply by describing them with words will soon get their wish, its creators said Wednesday.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-07-ai-tool-words-art-phase.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-ai-tool-words-art-phase.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/a-photo-illustration-s.jpg",
+          "width": 1024,
+          "height": 682,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-07-ai-tool-words-art-phase.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-ai-tool-words-art-phase.amp",
+      "publishedDateTime": "2022-07-21T00:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-driverless-vehicles-on-course-in-chongqing.md",
       "title": "Driverless vehicles on course in Chongqing",
       "excerpt": "After introducing China's first fully automated bus service in November last year, Yongchuan district in Chongqing is steering toward becoming more than just a regional powerhouse for autonomous driving in western China.",
@@ -749,383 +1091,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-dall-es-powerful-ai-image-generator-is-now-available-in-beta.md",
-      "title": "DALL-E's powerful AI image generator is now available in beta",
-      "excerpt": "The beta also expands the usage rights to include commercial projects. You can print the images on shirts or children's books, for instance. OpenAI will still reject DALL-E image uploads that include realistic faces,",
-      "sourceUrl": null,
-      "webUrl": "https://www.engadget.com/openai-dall-e-beta-availability-release-date-171009337.html",
-      "originalUrl": "https://www.engadget.com/openai-dall-e-beta-availability-release-date-171009337.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-07/08fb3150-084c-11ed-8bae-00915c7d9e77",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T10:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Engadget",
-        "domain": "engadget.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-21-transform-2022-intel-on-why-orgs-are-stalling-in-their-ai-efforts-and-how-to-gun-the-engine.md",
-      "title": "Transform 2022: Intel on why orgs are stalling in their AI efforts — and how to gun the engine",
-      "excerpt": "Learn why the secret to turning infinite amounts of data into actionable insights is the democratization of data and AI.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/20/transform-2022-intel-on-why-orgs-are-stalling-in-their-ai-efforts-and-how-to-gun-the-engine/",
-      "originalUrl": "https://venturebeat.com/2022/07/20/transform-2022-intel-on-why-orgs-are-stalling-in-their-ai-efforts-and-how-to-gun-the-engine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/Screen-Shot-2022-07-20-at-1.27.44-PM.png?w=1200&strip=all",
-          "width": 1200,
-          "height": 661,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/20/transform-2022-intel-on-why-orgs-are-stalling-in-their-ai-efforts-and-how-to-gun-the-engine/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/20/transform-2022-intel-on-why-orgs-are-stalling-in-their-ai-efforts-and-how-to-gun-the-engine/amp/",
-      "publishedDateTime": "2022-07-20T10:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system.md",
-      "title": "OpenAI expands access to DALL-E 2, its powerful image-generating AI system",
-      "excerpt": "OpenAI is expanding access to DALL-E 2, its image-generating AI system, with the goal of onboarding around 1 million people from the waitlist within weeks.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/",
-      "originalUrl": "https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 165,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2019/03/lp-logo-3.jpg?w=1024",
-          "width": 1024,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/20/openai-expands-access-to-dall-e-2-its-powerful-image-generating-ai-system/amp/",
-      "publishedDateTime": "2022-07-20T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-artificial-intelligence-ai-and-the-risk-of-bias-in-recruitment-decisions.md",
-      "title": "Artificial Intelligence (AI) and the Risk of Bias in Recruitment Decisions",
-      "excerpt": "As part of the UK data protection authority’s new three-year strategy (ICO25), launched on 14 July, UK Information Commissioner John Edwards announced an investigation into the use of AI systems",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-and-risk-bias-recruitment-decisions",
-      "originalUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-and-risk-bias-recruitment-decisions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/artificial-intelligence-ai-and-risk-bias-recruitment-decisions?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/artificial-intelligence-ai-and-risk-bias-recruitment-decisions?amp",
-      "publishedDateTime": "2022-07-20T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-new-jersey-health-foundation-awards-three-grants-to-kessler-foundation-to-advance-cognitive-and-mobility-research-in-neurological-disabilities.md",
-      "title": "New Jersey Health Foundation awards three grants to Kessler Foundation to advance cognitive and mobility research in neurological disabilities",
-      "excerpt": "This year, grants were awarded to three researchers at Kessler Foundation. “With decreased motor and cognitive abilities, the elderly are at risk for falls when they walk. In addition to old age ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/959358",
-      "originalUrl": "https://www.eurekalert.org/news-releases/959358",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/1cc71b83-0843-4e9d-972d-6b0095ccd4bf/Rendition/thumbnail/Content/Public",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T09:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-build-taxonomy-based-contextual-targeting-using-aws-media-intelligence-and-hugging-face-bert.md",
-      "title": "Build taxonomy-based contextual targeting using AWS Media Intelligence and Hugging Face BERT",
-      "excerpt": "As new data privacy regulations like GDPR (General Data Protection Regulation, 2017) have come into effect, customers are under increased pressure to monetize media assets while abiding by the new rules. Monetizing media while respecting privacy regulations requires the ability to automatically extract",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-taxonomy-based-contextual-targeting-using-aws-media-intelligence-and-hugging-face-bert/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-taxonomy-based-contextual-targeting-using-aws-media-intelligence-and-hugging-face-bert/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 88,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/07/05/citm-solution-overview.png",
-          "width": 1142,
-          "height": 614,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T09:29:48-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-the-worldwide-ai-in-healthcare-industry-is-expected-to-reach-2082-billion-by-2030.md",
-      "title": "The Worldwide AI in Healthcare Industry is Expected to Reach $208.2 Billion by 2030",
-      "excerpt": "The global artificial intelligence in healthcare market size is expected to reach USD 208.2 billion by 2030. The market is expected to expand at a CAGR of 38.4% from 2022 to 2030. The growing demand for personalized medicine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-worldwide-ai-healthcare-industry-expected-reach-2082-billion-/2022/07/20/9642355.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-worldwide-ai-healthcare-industry-expected-reach-2082-billion-/2022/07/20/9642355.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-amazon-extends-alexa-to-enable-ambient-intelligence.md",
-      "title": "Amazon extends Alexa to enable ambient intelligence",
-      "excerpt": "At Amazon's Alexa Live 2022 event, the company announced updates and outlined its general strategy for enabling ambient intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/07/20/amazon-extends-alexa-to-enable-ambient-intelligence/",
-      "originalUrl": "https://venturebeat.com/2022/07/20/amazon-extends-alexa-to-enable-ambient-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1240129511-1-e1658272820429.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/07/20/amazon-extends-alexa-to-enable-ambient-intelligence/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/20/amazon-extends-alexa-to-enable-ambient-intelligence/amp/",
-      "publishedDateTime": "2022-07-20T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "Natural Language Processing"
       ]
     }
   ],

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1
 cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588?amp=1"
 type: article
 quality: 87
-heat: 167
+heat: 157
 published: true
 
 provider:
@@ -78,15 +78,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "AI rapper FN Meka dropped by Capitol over racial stereotyping"
-    excerpt: "A record label has cut ties with an AI rapper after criticism it contained racial stereotypes, including repeated use of the N-word. FN Meka is an artificial intelligence musician given the appearance of a black male cyborg."
-    publishedDateTime: 2022-08-24T14:56:00Z
-    webUrl: "https://www.bbc.com/news/newsbeat-62659741.amp"
-    type: article
-    provider:
-      name: BBC
-      domain: bbc.com
-    quality: 47
   - title: "Who Is FN Meka? The AI Rapper Causing Controversy"
     excerpt: "Entertainment Weekly reported on Tuesday (August 23) that FN Meka was created by Factory New, a “media company focused solely on virtual and digital talent,” according to co-founder Anthony Martini. His business partner Brandon Le designed the AI rapper by “using thousands of data points compiled from video games and social media."
     publishedDateTime: 2022-08-25T23:22:00Z

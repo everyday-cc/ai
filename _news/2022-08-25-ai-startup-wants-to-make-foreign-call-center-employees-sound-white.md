@@ -30,8 +30,8 @@ images:
 
 related:
   - title: "The AI startup erasing call center worker accents: is it fighting bias – or perpetuating it?"
-    excerpt: "A Silicon Valley startup offers voice-altering tech to call center workers around the world: ‘Yes, this is wrong … but a lot of things exist in the world’"
-    publishedDateTime: 2022-08-24T13:13:00Z
+    excerpt: "A Silicon Valley startup offers voice-altering tech to call ... accents and how they correspond to each other, Sanas’s AI engine can transform a speaker’s accent into what passes for another ..."
+    publishedDateTime: 2022-08-24T23:20:00Z
     webUrl: "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
     ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
     cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
@@ -39,7 +39,7 @@ related:
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 48
+    quality: 46
     images:
       - url: "https://i.guim.co.uk/img/media/b78a80dcbe5e356a1d5b5cdcb8bec72fd38da9e8/453_682_6496_3898/master/6496.jpg?width=620&quality=85&auto=format&fit=max&s=506613242ac1f196cf1c3c70b0c77f6a"
         width: 620
@@ -60,6 +60,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "Uniuz1+IRIUe3wq0irmLox+7eZaof2J29/r3O4sff33yaWDl8sUokFksAoqxcvHoX84ERbevfL/IwlP6TwoJ8PnextJ4vJEF292Gmzx2s26O2ExomPN7rKjjfmRrn4IMxXtJBrW/J16ZUpGvl2a+OKi4n5lRnrgSbqyG+aLSe9JfBB3cHbaKh3HtBLJakIaX17r5HbSDYMU5gJjmR/mXISwqL0XJhflOD44Duagt7lTW8eeIBzM3Nsvut0lyVSe3kWsXBuZvIAyOulvAXP0GM0yBgC4Stzz6ub8k9kUIwaPSRpcLKxpeTrhMY24aUm1j7CMQRrirtFWK/SLpz1H+53UG6QmIypNT+DPFUPmLXIc=;k+PHoanseUd2na9haAXb2Q=="
+secured: "SQV9zkgWiat6wLQ1LEMwVVwfgK+WHdharfFyt69xIseGxxj7rtjd90/BjCvnOhWvj+flR/mqMY2pBSgQeRbjFznGrcZP0IaFdERxf0d5G8BmbyMjmNT08HItNHQTEv8SX/FfamtDGK/6QbnakH9ZT7eh80mBSh+PNiX6AvRAAM/RaWiZBpLP5Yg0JQdzR00Wpwcg/eBhIUj2/UEnNbRyB46YFAwSCNIE74lEFAruYirGargksd5bxTae/8rMEewNs+wq5KTcy3AtTaQ5zbrF3+Cjs0sKPUcdccnaXblW8MaK0S0CgCIjYJVk5NB4RVS9FE7krNXJN/OiuOWyLX4Z0fOORlOl6FQxKKN/nWjm7Ec=;AFShzQSXwZSdQgtlNBYNKQ=="
 ---
 

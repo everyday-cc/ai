@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/the-global-ai-in-the-edu
 webUrl: "https://www.marketwatch.com/press-release/the-global-ai-in-the-education-market-is-projected-to-reach-usd-1168-billion-by-2031-at-a-cagr-of-47-during-the-forecast-period-2022-till-2031-2022-08-25"
 type: article
 quality: 49
-heat: -1
+heat: 49
 published: false
 
 provider:
@@ -30,38 +30,62 @@ images:
     isCached: true
 
 related:
-  - title: "5G In Healthcare Market to be Worth $454.7 Billion By 2030: Grand View Research, Inc."
-    excerpt: "Grand View Research, Inc. SAN FRANCISCO, /PRNewswire/ -- The global 5G in healthcare market size is expected to reach USD 454.7 billion by 2030, based on a new report by Grand View Research, Inc, expanding at a CAGR of 34."
-    publishedDateTime: 2022-08-24T13:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/5g-in-healthcare-market-to-be-worth-4547-billion-by-2030-grand-view-research-inc-2022-08-24"
+  - title: "Artificial Intelligence for Edge Devices Market Is Projected To Thriving At A CAGR of 26.9% During 2022-2026 | 90 Report Pages"
+    excerpt: "Artificial Intelligence for Edge Devices Market gives a top to bottom and investigation-based organization. The report offers data about the overall business perspectives that imp"
+    publishedDateTime: 2022-08-26T05:14:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-is-projected-to-thriving-at-a-cagr-of-269-during-2022-2026-90-report-pages-2022-08-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 62
+    quality: 41
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Metaverse in healthcare market to reach $72B by 2030"
-    excerpt: "The 2021 metaverse global market size is about $6.85 billion. According to an Aug. 24 news release from Precedence Research, it is expected to surpass $70.1 billion by 2030 with a compound annual growth rate of 28."
-    publishedDateTime: 2022-08-24T18:53:00Z
-    webUrl: "https://www.beckershospitalreview.com/finance/metaverse-in-healthcare-market-to-reach-72b-by-2030.html"
+  - title: "Global Artificial Intelligence In Livestock Farming Market To Record An Exponential CAGR By 2030 -By Insightace Analytic"
+    excerpt: "InsightAce Analytic Pvt. Ltd. announces the release of a market assessment report on the 'Global Artificial Intelligence in Livestock Farming Market - by Component (Solution/ Software/ App, IoT Sensors,"
+    publishedDateTime: 2022-08-25T12:30:00Z
+    webUrl: "https://menafn.com/1104755124/Global-Artificial-Intelligence-In-Livestock-Farming-Market-To-Record-An-Exponential-CAGR-By-2030-By-Insightace-Analytic"
     type: article
     provider:
-      name: Becker's Hospital Review
-      domain: beckershospitalreview.com
-    quality: 19
-  - title: "Automotive Artificial Intelligence Market worth $7.0 Billion by 2027 - Exclusive Report by MarketsandMarkets™"
-    excerpt: "Automotive Artificial Intelligence market size is projected to grow from USD 2.3 Billion in 2022 to USD 7.0 Billion by 2027; it is expected to grow at a CAGR of 24.1% from 2022 to 2027, according to a new report by MarketsandMarkets™."
-    publishedDateTime: 2022-08-24T14:58:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-automotive-artificial-intelligence-market-worth-70-billion-2027-/2022/08/24/9661661.htm"
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 14
+    images:
+      - url: "https://menafn.com/updates/pr/2022-08/25/EP_3b9ecimage_story.jpeg"
+        width: 600
+        height: 314
+        isCached: true
+  - title: "Vision Screeners Market is expected to grow at a CAGR of 5.9% during the forecast period 2022-2029"
+    excerpt: "Global vision screener sales are likely to near US$ 500 Mn by the end of 2022. According to a new research intelligence study presented by Future Market Insights (FMI), the Vision Screeners Market will continue to witness an average 5."
+    publishedDateTime: 2022-08-29T04:45:00Z
+    webUrl: "https://www.pharmiweb.com/press-release/2022-08-29/vision-screeners-market-is-expected-to-grow-at-a-cagr-of-59-during-the-forecast-period-2022-2029"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
-    quality: 0
+      name: PharmiWeb
+      domain: pharmiweb.com
+    quality: 10
+    images:
+      - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
+        width: 1200
+        height: 448
+        isCached: true
+  - title: "Autonomous Delivery Robots Market: Trends, Demands, Size, Share, Business Opportunities, CAGR Of ~49% During The Forecast Period 2022 2031"
+    excerpt: "The global autonomous delivery robots market is estimated to occupy a large amount of revenue by growing at a CAGR of ~49% during the forecast period, i.e., 2022 – 2031 , ascribing to the rising affordability and return on investment on several infrastructure light robots,"
+    publishedDateTime: 2022-08-26T07:02:00Z
+    webUrl: "https://menafn.com/1104759820/Autonomous-Delivery-Robots-Market-Trends-Demands-Size-Share-Business-Opportunities-CAGR-Of-49-During-The-Forecast-Period-2022-2031"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 5
+    images:
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?336595"
+        width: 374
+        height: 250
+        isCached: true
   - title: "Mental Health Software And Devices Market Size Worth USD 17.2 Billion By 2030 At 16.1% CAGR - Report By Market Research Future (MRFR)"
     excerpt: "According to a Comprehensive Research Report by Market Research Future (MRFR),“Mental Health Software and Devices Market Information By Software, Functionality, End User, And Region - Forecast till 2030 ',"
     publishedDateTime: 2022-08-24T19:00:00Z
@@ -71,14 +95,14 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 0
-  - title: "Procurement Analytics Market Size Worth $18.18 Billion By 2030: Grand View Research, Inc."
-    excerpt: "The global procurement analytics market size is expected to reach USD 18.18 billion by 2030, according to a new report by Grand View Research, Inc. It is expected to expand at a CAGR of 23.6% from 2022 to 2030."
-    publishedDateTime: 2022-08-25T14:52:00Z
-    webUrl: "https://www.tmcnet.com/usubmit/-procurement-analytics-market-size-worth-1818-billion-2030-/2022/08/25/9662484.htm"
+  - title: "Vision Screeners Market is expected to grow at a CAGR of 5.9% during the forecast period 2022-2029"
+    excerpt: "Global vision screener sales are likely to near US$ 500 Mn by the end of 2022. According to a new research intelligence study presented by Future Market Insights (FMI), the Vision Screeners Market will continue to witness an average 5."
+    publishedDateTime: 2022-08-25T09:17:00Z
+    webUrl: "https://www.fmiblog.com/2022/08/25/vision-screeners-market-is-expected-to-grow-at-a-cagr-of-5-9-during-the-forecast-period-2022-2029-8/"
     type: article
     provider:
-      name: TMCnet
-      domain: tmcnet.com
+      name: Future Market Insights
+      domain: fmiblog.com
     quality: 0
 
 secured: "RsYX/YvYmszlWtBhHbNtI9WarahwzeVDzyIHn33bfTLtsezIngE9WM9iNNr/rrdmehYu38GcHwL4xebsbloUXKg7sYJyeSe9TYQJMMswBMRRi6o6eMLs1+LYrxs5pH/Cz9WXXVdjx3fiqAny6G1N0/txTul5XOUbewyvg2tlWZWxvqCIlgmhLuXQFpxeNag/pj388TiGea9Redlh5whpARGBNrq2ZOGxYHCe3GilRklcrOT2tZODHreBiSPB1dUWL1Oam0oy28/cM2igi801bAI9na29DYDTZq++ii0Y6BNsu9draw74bh2yYxrDsxuuh/8XeRungQnYv3A66iqFwTgYW3uNh0dUYoY+X7hbRIw=;zKxuvHAt9me7+posTLdecg=="

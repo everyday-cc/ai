@@ -41,6 +41,15 @@ related:
         width: 735
         height: 552
         isCached: true
+  - title: "Metaverse in healthcare market to reach $72B by 2030"
+    excerpt: "The 2021 metaverse global market size is about $6.85 billion. According to an Aug. 24 news release from Precedence Research, it is expected to surpass $70.1 billion by 2030 with a compound annual growth rate of 28."
+    publishedDateTime: 2022-08-24T18:53:00Z
+    webUrl: "https://www.beckershospitalreview.com/finance/metaverse-in-healthcare-market-to-reach-72b-by-2030.html"
+    type: article
+    provider:
+      name: Becker's Hospital Review
+      domain: beckershospitalreview.com
+    quality: 19
 
 secured: "mLmmgExqRFpUYU1mNbp9UP0uGaTaG2xLZgrCOKya8/zvtD9UNVa+fGySJ15M4ZjJV2foTwsBE53jboQkf7/JgMKyGe4DovGIwmvFI83ZkGXL5mC82tkoaFBzrRdxKhjSJnYsXhXB8ZictH05m2LQFdykfv6JRJf32l0adkDGOZacedh/ZYid0wgSflO5GBrklFHLifrlH0Mlp0YRP3ZesUThjaw3khoxeQ5gwm5BFhmW8Va766LgMBYpN6GYzc9a05MsEzh/m51gUahg2jnguaDOC1U+cw6NeEQPC3MjYz+l6RXrDw9dHgPmLn8/XLJ1dIs2xIQIQjDc5V1hbeNMDfCyRpDs/CoEUGJHbwZZVxksL4dYGzwo/Ke3VdBgznDChdbCg3mQJyatdG1yMetwLXUB3J/DKFSIsEFGSDYoNo1W7wIobiz5nI9ZTrRY2pJiloxtAP0zdxWe/65CXCEteKUbDJ47HPdu2rB10mScJr1cnoJqyPA2GCdkpy1bo88VPu6FtbDeY49eYBIBDNo+dg==;IZicbbQFpImqjb8i+folog=="
 ---

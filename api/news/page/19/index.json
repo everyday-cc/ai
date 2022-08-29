@@ -2,6 +2,376 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-08-11-10-top-artificial-intelligence-ai-solutions-in-2022.md",
+      "title": "10 top artificial intelligence (AI) solutions in 2022",
+      "excerpt": "As AI-powered technologies continue to advance and more organizations adopt them, IT leaders must be sure to ask themselves how the solutions they choose fit into their goals as a business.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/",
+      "originalUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 122,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1131331897-e1655419471228.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 611,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/",
+      "publishedDateTime": "2022-08-10T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "IBM AI",
+        "AI in Healthcare",
+        "Microsoft AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-researchers-embrace-artificial-intelligence-to-tackle-banana-disease-in-burundi.md",
+      "title": "Researchers Embrace Artificial Intelligence to Tackle Banana Disease in Burundi",
+      "excerpt": "A group of scientists involved in finding solutions to minimize the impact of a devastating banana virus in Burundi have developed an Artificial Intelligence",
+      "sourceUrl": null,
+      "webUrl": "https://iafrica.com/researchers-embrace-artificial-intelligence-to-tackle-banana-disease-in-burundi/",
+      "originalUrl": "https://iafrica.com/researchers-embrace-artificial-intelligence-to-tackle-banana-disease-in-burundi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://iafrica.com/wp-content/uploads/2022/08/8.jpeg",
+          "width": 630,
+          "height": 420,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T09:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "iafrica",
+        "domain": "iafrica.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-the-importance-of-international-norms-in-artificial-intelligence-ethics.md",
+      "title": "The Importance of International Norms in Artificial Intelligence Ethics",
+      "excerpt": "Artificial intelligence has arrived as a multi-purpose tool. The United States and its allies need to do more to establish norms and ensure AI is used in a way that does not harm human rights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics",
+      "originalUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2022/08/G7leaders.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp",
+      "cdnAmpWebUrl": "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp",
+      "publishedDateTime": "2022-08-10T09:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cfr.org",
+        "domain": "cfr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics",
+        "AI in Healthcare",
+        "AWS AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-amazon-sagemaker-automatic-model-tuning-now-supports-sagemaker-training-instance-fallbacks.md",
+      "title": "Amazon SageMaker Automatic Model Tuning now supports SageMaker Training Instance Fallbacks",
+      "excerpt": "Today Amazon SageMaker announced the support of SageMaker training instance fallbacks for Amazon SageMaker Automatic Model Tuning (AMT) that allow users to specify alternative compute resource configurations. SageMaker automatic model tuning finds the best version of a model by running many training",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-supports-sagemaker-training-instance-fallbacks/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-automatic-model-tuning-now-supports-sagemaker-training-instance-fallbacks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/10/sagemaker-automatic-model-tuning-instance-fallbacks.jpg",
+          "width": 1328,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T08:57:57-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-tesla-self-driving-smear-campaign-releases-test-that-fails-to-realize-fsd-never-engaged.md",
+      "title": "Tesla self-driving smear campaign releases ‘test’ that fails to realize FSD never engaged",
+      "excerpt": "A Tesla Full Self-Driving smear campaign started by a California billionaire running for Senate has a new attack ad based on a FSD Beta “test,” where they failed to realize they never engaged FSD Beta during the test.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/",
+      "originalUrl": "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 175,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Tesla-Full-SElf-Driving-Beta-failed-test.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/10/tesla-self-driving-smear-campaign-releases-test-fails-fsd-never-engaged/amp/",
+      "publishedDateTime": "2022-08-10T08:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-7-artificial-intelligence-updates-this-year.md",
+      "title": "7 artificial intelligence updates this year",
+      "excerpt": "From robotic joint replacements to predicting pain outcomes, artificial intelligence is being used in a variety of ways in orthopedics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.beckersspine.com/spinal-tech/item/54944-7-artificial-intelligence-updates-this-year.html",
+      "originalUrl": "https://www.beckersspine.com/spinal-tech/item/54944-7-artificial-intelligence-updates-this-year.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Becker's Spine Review",
+        "domain": "beckersspine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-how-artificial-intelligence-can-make-our-food-safer.md",
+      "title": "How artificial intelligence can make our food safer",
+      "excerpt": "Food recalls could be a thing of the past if artificial intelligence (AI) is utilized in food production, according to a recent study from UBC and the University of Guelph.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-food-safer.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-food-safer.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/how-artificial-intelli.jpg",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-artificial-intelligence-food-safer.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-artificial-intelligence-food-safer.amp",
+      "publishedDateTime": "2022-08-10T08:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-10-industrial-robotics-and-generation-change-ahead.md",
+      "title": "Industrial robotics and generation change ahead",
+      "excerpt": "has announced partnership with Kawasaki Robotics on a project that aims to automate the programming, deployment and control of its industrial robots. The partnership is described as a gamechanger ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.just-auto.com/interview/industrial-robotics-and-generation-change-ahead/",
+      "originalUrl": "https://www.just-auto.com/interview/industrial-robotics-and-generation-change-ahead/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.just-auto.com/wp-content/uploads/sites/30/2022/08/Kawasaki-spot-welding-cell-showing-RapidPlan-in-action-1038x778.jpg",
+          "width": 1038,
+          "height": 778,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Just Auto",
+        "domain": "just-auto.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-machine-learning-at-the-forefront-of-telemental-health.md",
       "title": "Machine Learning At The Forefront Of Telemental Health",
       "excerpt": "Michael Stefferson received his PhD in Physics from the University of Colorado before deciding to make the jump into machine learning (ML). Here's why he did, and why AI can transform the future of telemental health.",
@@ -777,386 +1147,6 @@
         "AI",
         "Microsoft AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-did-a-robot-help-create-that-ad-the-answer-increasingly-is-yes.md",
-      "title": "Did a Robot Help Create That Ad? The Answer, Increasingly, Is Yes.",
-      "excerpt": "More marketers are using artificial intelligence tools to help develop creative ideas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/did-a-robot-help-create-that-ad-the-answer-increasingly-is-yes-11660125601",
-      "originalUrl": "https://www.wsj.com/articles/did-a-robot-help-create-that-ad-the-answer-increasingly-is-yes-11660125601",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-600009/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/did-a-robot-help-create-that-ad-the-answer-increasingly-is-yes-11660125601",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/did-a-robot-help-create-that-ad-the-answer-increasingly-is-yes-11660125601",
-      "publishedDateTime": "2022-08-10T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities.md",
-      "title": "Baidu rolls out driverless taxi service in two Chinese cities",
-      "excerpt": "Chinese autonomous vehicle maker launches commercial driverless robotaxi services in Wuhan and Chongqing this week, when the government has released its first draft guidelines on the deployment of self-driving vehicles in public transport.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities/",
-      "originalUrl": "https://www.zdnet.com/article/baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/baidu-rolls-out-driverless-taxi-service-in-two-chinese-cities/",
-      "publishedDateTime": "2022-08-10T01:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-self-driving-taxi-market-is-going-to-boom-easymile-waymo-navya.md",
-      "title": "Self Driving Taxi Market is Going to Boom | EasyMile, Waymo, NAVYA",
-      "excerpt": "Worldwide Self Driving Taxi Market In-depth Research Report 2021, Forecast to 2026 is latest research study released by HTF MI evaluating the market risk side analysis, highlighting opportunities ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/self-driving-taxi-market-is-going-to-boom-easymile-waymo-navya",
-      "originalUrl": "https://www.digitaljournal.com/pr/self-driving-taxi-market-is-going-to-boom-easymile-waymo-navya",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/01/Bitcoin-fintech-AFP-1K-01-e1642145563739-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-10T00:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-south-africas-dataprophet-closes-10m-to-scale-its-ai-as-a-service-platform-for-manufacturers.md",
-      "title": "South Africa’s DataProphet closes $10M to scale its AI-as-a-service platform for manufacturers",
-      "excerpt": "DataProphet provides prescriptive advice and suggested changes to manufacturers’ recipes to avoid making the defects that cause their products to be scrapped.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/10/south-africas-dataprophet-closes-10m-to-scale-its-ai-as-a-service-platform-for-manufacturers/",
-      "originalUrl": "https://techcrunch.com/2022/08/10/south-africas-dataprophet-closes-10m-to-scale-its-ai-as-a-service-platform-for-manufacturers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/Funding-Announcement.jpg?w=1024",
-          "width": 1024,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/10/south-africas-dataprophet-closes-10m-to-scale-its-ai-as-a-service-platform-for-manufacturers/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/10/south-africas-dataprophet-closes-10m-to-scale-its-ai-as-a-service-platform-for-manufacturers/amp/",
-      "publishedDateTime": "2022-08-10T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-europe-ai-in-computer-vision-market-production-growth-share-demand-and-applications-forecast-to-2028.md",
-      "title": "Europe AI in Computer Vision Market Production, Growth, Share, Demand and Applications Forecast to 2028",
-      "excerpt": "Pune,india-Business market insights Latest update on Europe AI in Computer Vision Analysis, Europe AI in Computer",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/europe-ai-in-computer-vision-market-production-growth-share-demand-and-applications-forecast-to-2028-2022-08-10",
-      "originalUrl": "https://www.marketwatch.com/press-release/europe-ai-in-computer-vision-market-production-growth-share-demand-and-applications-forecast-to-2028-2022-08-10",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T23:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-the-best-examples-of-human-and-robot-collaboration.md",
-      "title": "The Best Examples Of Human And Robot Collaboration",
-      "excerpt": "As robots are becoming more intelligent and able to perform more complex tasks, it is important to figure out the right way to split the work so humans and robots are each doing the work best suited for each other.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/10/the-best-examples-of-human-and-robot-collaboration/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/10/the-best-examples-of-human-and-robot-collaboration/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62f33bc82e274eb23360c8b8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/08/10/the-best-examples-of-human-and-robot-collaboration/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/08/10/the-best-examples-of-human-and-robot-collaboration/amp/",
-      "publishedDateTime": "2022-08-09T22:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-ai-a-world-of-new-opportunity-and-risk.md",
-      "title": "AI: A World of New Opportunity and Risk",
-      "excerpt": "And here we are, at the dawn of the AI revolution, where the advent of cloud computing and computer processing power, cheap storage, new algorithms, as well as new product and service innovations realises the benefits of a technology – from driverless cars and virtual reality to medical diagnostics and predictive machine maintenance.",
-      "sourceUrl": null,
-      "webUrl": "https://knowledge.insead.edu/leadership-organisations/ai-world-new-opportunity-and-risk",
-      "originalUrl": "https://knowledge.insead.edu/leadership-organisations/ai-world-new-opportunity-and-risk",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://knowledge.insead.edu/sites/knowledge/files/styles/image_token/public/images/2022/01/gettyimages-1305439287.jpg?itok=e_Bi0Lm3",
-          "width": 2517,
-          "height": 1190,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T20:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "INSEAD",
-        "domain": "insead.edu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-nation-releases-first-draft-of-rules-on-self-driving-vehicles-in-public.md",
-      "title": "Nation releases first draft of rules on self-driving vehicles in public",
-      "excerpt": "The country will encourage the use of self-driving vehicles such as buses in an enclosed Bus Rapid Transit or BRT system, and allow autonomous vehicles to offer taxi services under simple and relatively controllable scenarios,",
-      "sourceUrl": null,
-      "webUrl": "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html",
-      "originalUrl": "https://global.chinadaily.com.cn/a/202208/10/WS62f2e7bda310fd2b29e71420.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img2.chinadaily.com.cn/images/202208/10/62f3069ea310fd2bec9b5dbc.jpeg",
-          "width": 536,
-          "height": 357,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T19:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "中国日报网",
-        "domain": "chinadaily.com.cn",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

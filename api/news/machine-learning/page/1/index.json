@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-29-artificial-intelligence-machine-learning-applied-to-petroleum-exploration.md",
+      "title": "Artificial intelligence, machine learning applied to petroleum exploration",
+      "excerpt": "The Vietnam Petroleum Institute (VPI), a member of the Vietnam Oil and Gas Group (PetroVietnam), has applied artificial intelligence (AI) and machine learning to quickly identify the presence of fractured granite basement,",
+      "sourceUrl": null,
+      "webUrl": "https://en.vietnamplus.vn/artificial-intelligence-machine-learning-applied-to-petroleum-exploration/236440.vnp",
+      "originalUrl": "https://en.vietnamplus.vn/artificial-intelligence-machine-learning-applied-to-petroleum-exploration/236440.vnp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2022_08_29/bach_ho_oil_field.jpg",
+          "width": 660,
+          "height": 439,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://en.vietnamplus.vn/artificial-intelligence-machine-learning-applied-to-petroleum-exploration/236440.amp",
+      "cdnAmpWebUrl": "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/artificial-intelligence-machine-learning-applied-to-petroleum-exploration/236440.amp",
+      "publishedDateTime": "2022-08-28T22:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VietnamPlus",
+        "domain": "vietnamplus.vn",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-how-machine-learning-and-blockchain-can-solve-world-hunger.md",
       "title": "How Machine Learning and Blockchain can solve world hunger",
       "excerpt": "However, we live in an era of the digital age where advancements in technologies such as machine learning and blockchain have been catapulted by the progress of the fourth industrial revolution. With such advancements in technologies,",
@@ -10,7 +53,7 @@
       "originalUrl": "https://www.freepressjournal.in/education/how-machine-learning-and-blockchain-can-solve-world-hunger",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -185,7 +228,7 @@
       "originalUrl": "https://www.electronicsweekly.com/news/products/micros/imaginations-gpu-and-neural-processor-in-alibaba-risc-v-chip-2022-08/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 86,
+      "heat": 76,
       "tags": null,
       "images": [
         {
@@ -229,7 +272,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-08-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 91,
+      "heat": 101,
       "tags": null,
       "images": [
         {
@@ -464,6 +507,58 @@
         "AI in Healthcare",
         "AI",
         "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-deep-learning-in-machine-vision-market-2022-global-industry-analysis-by-trends-size-share-company-overview-growth-and-forecast-by-2029.md",
+      "title": "Deep Learning in Machine Vision Market 2022 Global Industry Analysis by Trends, Size, Share, Company Overview, Growth and Forecast by 2029",
+      "excerpt": "Pune, India Reportsweb report Global Deep Learning in Machine Vision Market Research and Forecast Report 2022-2028",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-2022-global-industry-analysis-by-trends-size-share-company-overview-growth-and-forecast-by-2029-2022-08-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-2022-global-industry-analysis-by-trends-size-share-company-overview-growth-and-forecast-by-2029-2022-08-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
       ]
     },
     {
@@ -1330,93 +1425,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-artificial-neural-networks-market-to-witness-a-healthy-growth-by-2029.md",
-      "title": "Artificial Neural Networks Market to Witness a Healthy Growth by 2029",
-      "excerpt": "Pune, India-Global Artificial Neural Networks Market Report Organization’s Researcher investigators specialists causes us",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-to-witness-a-healthy-growth-by-2029-2022-08-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-to-witness-a-healthy-growth-by-2029-2022-08-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T03:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-integrateai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data.md",
-      "title": "integrate.ai Announces Availability of New Platform for Collaborative Machine Learning and Analytics Across Sensitive Data",
-      "excerpt": "Traditional approaches to machine learning and analytics require centralization and ... In the heavily regulated worlds of healthcare, financial services, and manufacturing, roadblocks to collaborating with sensitive data abound – from existing and ...",
-      "sourceUrl": null,
-      "webUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/integrate-ai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data",
-      "originalUrl": "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/integrate-ai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial Post",
-        "domain": "financialpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI",
         "Machine Learning"
       ]

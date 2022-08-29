@@ -25,22 +25,54 @@ images:
     isCached: true
 
 related:
-  - title: "How Emotion AI will change the online learning landscape"
-    excerpt: "With the development of technology, it has become evident that comprehension of both the cognitive and affective channels of human connection is crucial. Emotion recognition is a branch of affective computing that seeks to"
-    publishedDateTime: 2022-08-28T09:15:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-emotion-ai-will-change-the-online-learning-landscape/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-emotion-ai-will-change-the-online-learning-landscape/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-emotion-ai-will-change-the-online-learning-landscape/"
+  - title: "Self-driving cars: A primer"
+    excerpt: "Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won’t drive at all."
+    publishedDateTime: 2022-08-28T21:22:00Z
+    webUrl: "https://wgnradio.com/automotive/self-driving-cars-a-primer/"
+    ampWebUrl: "https://wgnradio.com/automotive/self-driving-cars-a-primer/amp/"
+    cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/automotive/self-driving-cars-a-primer/amp/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 59
+      name: WGN Radio
+      domain: wgnradio.com
+    quality: 44
     images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Vishal-Soni-Co-Founder-Lightbulb.ai_.jpeg"
-        width: 350
-        height: 470
+      - url: "https://wgnradio.com/wp-content/uploads/sites/6/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280"
+        width: 1280
+        height: 855
         isCached: true
+  - title: "Self-driving cars: a primer"
+    excerpt: "Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won't drive at all. Along the way, automakers will ..."
+    publishedDateTime: 2022-08-24T18:55:00Z
+    webUrl: "https://www.motorauthority.com/news/1108904_self-driving-cars-a-primer"
+    type: article
+    provider:
+      name: Motor Authority
+      domain: motorauthority.com
+    quality: 24
+    images:
+      - url: "https://images.hgmsites.net/hug/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg"
+        width: 1500
+        height: 1003
+        isCached: true
+  - title: "Driverless cars: From science fiction to a road near you"
+    excerpt: "Self-driving cars, coaches, and lorries could on UK motorways next year - how is it working in China? | ITV National News"
+    publishedDateTime: 2022-08-24T20:19:00Z
+    webUrl: "https://www.itv.com/news/2022-08-24/driverless-cars-from-science-fiction-to-a-road-near-you"
+    type: article
+    provider:
+      name: ITV
+      domain: itv.com
+    quality: 19
+  - title: "Former Apple employer admits stealing trade secrets for self-driving car project"
+    excerpt: "An engineer who had access to information about Apple’s self-driving car project has pleaded guilty to stealing trade secrets about the project"
+    publishedDateTime: 2022-08-26T06:42:00Z
+    webUrl: "https://www.pulse.ng/business/local/former-apple-employee-admits-stealing-trade-secrets-for-self-driving-car-project/3cd8yyj"
+    type: article
+    provider:
+      name: Naija Gist - Latest
+      domain: pulse.ng
+    quality: 0
 
 secured: "Lqff/S2R0M/Rk48pA6HuO0WELg3NcYrWeKStL7m5/71Y7QECMbqufsgOit2LfbKHMUpTikGYsmSmlP5XteDlOVuHC+U0sNRMYX3Aeo1QNmdgKL2UwlUH79UuPb4GHPWUBrHkco7FChHhPqHJdnCxrjas5pL8JBBTw0nuL0mJsOUmBndbTIJ72Bmj+CcKkrGLY52nd0MEbAhcCBhRzrpAFW1MOim46Mdu3DxGM8CU/Y2YIZskI9Mq/L683vMfxX0wm21rikMaFYXbQj3hQRCBk4e1b2LzXL1OrpYgrwf+xGV7eeBU+lmrSqjo5rqCWvJee3iRN0lB8xX+htAtZi6hhSKAavwjD3rGqF14ejAHd6NgEKKGazcxovp2GoUwNNtxNUSnbupYqR6c31w9iKSWCiIFUh2ttgn59L0NC0NfS4FlAY00TMptnGQoe8d/N2b7tsWIMxbjYGdLx8wNxHYHF6vlSKPubn196o6G7flX9YOImmFFOSwy8RQKBIgnhfZJRkl5mfMm2vabsFtZBYnl1Q==;UNEm0K4g+wY5j7XRPtkfEw=="
 ---

@@ -2,6 +2,151 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-25-the-democratization-of-ai-in-logistics.md",
+      "title": "The Democratization Of AI In Logistics",
+      "excerpt": "AI can level the playing field in logistics, allowing small shippers and freight forwarders the ability to get to the same level of predictability and actionability as their much bigger counterparts.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/25/the-democratization-of-ai-in-logistics/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/25/the-democratization-of-ai-in-logistics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/626946974c931989078c7b6c/0x0.jpg?format=jpg&crop=1497,842,x0,y212,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/25/the-democratization-of-ai-in-logistics/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/25/the-democratization-of-ai-in-logistics/amp/",
+      "publishedDateTime": "2022-08-25T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-samsung-galaxy-watch-5-pro-review-smartwatch-fitness-watch-a-good-mix.md",
+      "title": "Samsung Galaxy Watch 5 Pro Review: Smartwatch + Fitness Watch = a Good Mix",
+      "excerpt": "There's a lot to like about the $450 Samsung Galaxy Watch 5 Pro. Not only does it have all the trimmings of a smartwatch, but it adds extra sports functions that athletes may want -- and for almost half the price of some other outdoor watches with similar construction like the $900 Garmin Epix 2.",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/mobile/samsung-galaxy-watch-5-pro-review-smartwatch-fitness-watch-a-good-mix/",
+      "originalUrl": "https://www.cnet.com/tech/mobile/samsung-galaxy-watch-5-pro-review-smartwatch-fitness-watch-a-good-mix/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/e72bc0cdbd8511a33e70399e8d819ec3ebbca69a/2022/08/23/b11065a1-cd37-40a8-bca7-8b31aa5bc64d/galaxywatch5pro-hero.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/samsung-galaxy-watch-5-pro-review-smartwatch-fitness-watch-a-good-mix/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/samsung-galaxy-watch-5-pro-review-smartwatch-fitness-watch-a-good-mix/",
+      "publishedDateTime": "2022-08-25T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-this-new-google-photo-ai-tool-is-a-game-changer-it-can-see-in-the-dark.md",
+      "title": "This new Google Photo AI tool is a game-changer- it can see in the dark",
+      "excerpt": "Google is working on a new RawNeRF tool to outperform the deep raw de-noisers in low-light settings. This is how it will change night photography.",
+      "sourceUrl": null,
+      "webUrl": "https://tech.hindustantimes.com/tech/news/this-new-google-photo-ai-tool-is-a-game-changer-it-can-see-in-the-dark-71661413682138.html",
+      "originalUrl": "https://tech.hindustantimes.com/tech/news/this-new-google-photo-ai-tool-is-a-game-changer-it-can-see-in-the-dark-71661413682138.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/tech/img/2022/08/25/1600x900/joey-huang-t1zrbUSg8Qg-unsplash_1661413886615_1661413909755_1661413909755.jpg",
+          "width": 1600,
+          "height": 882,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://tech.hindustantimes.com/amp/tech/news/this-new-google-photo-ai-tool-is-a-game-changer-it-can-see-in-the-dark-71661413682138.html",
+      "cdnAmpWebUrl": "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/this-new-google-photo-ai-tool-is-a-game-changer-it-can-see-in-the-dark-71661413682138.html",
+      "publishedDateTime": "2022-08-25T00:53:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics.md",
       "title": "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics",
       "excerpt": "Hyundai Motor Group (the Group) today announced the launch of Boston Dynamics AI Institute (the Institute), with the goal of making fundamental advances",
@@ -150,7 +295,7 @@
       "originalUrl": "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles",
       "featuredContent": null,
       "highlight": null,
-      "heat": 216,
+      "heat": 206,
       "tags": null,
       "images": [
         {
@@ -307,7 +452,7 @@
       "originalUrl": "https://www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588",
       "featuredContent": null,
       "highlight": null,
-      "heat": 167,
+      "heat": 157,
       "tags": null,
       "images": [
         {
@@ -602,6 +747,82 @@
       ]
     },
     {
+      "path": "_news/2022-08-24-jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work.md",
+      "title": "Jobs in the metaverse: This AI startup founder wants to change the future of work",
+      "excerpt": "Adam Turaev, the founder of Praktika.ai, an AI-based learning platform, believes the metaverse will remove barriers in workplace. He is striving to help non-native English speakers — or their avatars — to be hired by the international companies.",
+      "sourceUrl": null,
+      "webUrl": "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/",
+      "originalUrl": "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
+          "width": 735,
+          "height": 552,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/amp/",
+      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/amp/",
+      "publishedDateTime": "2022-08-24T08:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Impacts",
+        "domain": "techbullion.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-automotive-artificial-intelligence-market-worth-70-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
+      "title": "Automotive Artificial Intelligence Market worth $7.0 Billion by 2027 - Exclusive Report by MarketsandMarkets™",
+      "excerpt": "Automotive Artificial Intelligence market size is projected to grow from USD 2.3 Billion in 2022 to USD 7.0 Billion by 2027; it is expected to grow at a CAGR of 24.1% from 2022 to 2027, according to a new report by MarketsandMarkets™.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/08/24/9661661.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/08/24/9661661.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T07:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-tesla-releases-new-deep-dive-presentations-on-its-dojo-ai-supercomputer.md",
       "title": "Tesla releases new deep-dive presentations on its Dojo AI supercomputer",
       "excerpt": "Tesla has released two new deep-dive presentations into its Dojo AI supercomputer ahead of its upcoming AI Day 2. You can check the slides from both presentations below. Dojo is Tesla’s own custom supercomputer platform built from the ground up for AI machine learning and more specifically for video training using the video data coming",
@@ -755,6 +976,58 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-the-ai-startup-erasing-call-center-worker-accents-is-it-fighting-bias-or-perpetuating-it.md",
+      "title": "The AI startup erasing call center worker accents: is it fighting bias – or perpetuating it?",
+      "excerpt": "A Silicon Valley startup offers voice-altering tech to call center workers around the world: ‘Yes, this is wrong … but a lot of things exist in the world’",
+      "sourceUrl": null,
+      "webUrl": "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american?source=Snapzu",
+      "originalUrl": "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american?source=Snapzu",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.guim.co.uk/img/media/b78a80dcbe5e356a1d5b5cdcb8bec72fd38da9e8/453_682_6496_3898/master/6496.jpg?width=620&quality=85&auto=format&fit=max&s=506613242ac1f196cf1c3c70b0c77f6a",
+          "width": 620,
+          "height": 372,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american",
+      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american",
+      "publishedDateTime": "2022-08-24T06:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Guardian",
+        "domain": "theguardian.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     },
@@ -946,296 +1219,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf.md",
-      "title": "Zilliz, the startup behind the Milvus open-source vector database for AI applications, raises $60M and relocates to SF",
-      "excerpt": "Chinese startup Zilliz — which builds cloud-native software to process data for AI applications and unstructured data analytics, and is the creator of Milvus, the popular open source vector database for similarity searches — raised $43 million to scale its business and prep",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/24/zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf/",
-      "originalUrl": "https://techcrunch.com/2022/08/24/zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2021/08/GettyImages-95769788.jpg?w=1024",
-          "width": 1024,
-          "height": 691,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/24/zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/24/zilliz-the-startup-behind-the-milvus-open-source-vector-database-for-ai-applications-raises-60m-and-relocates-to-sf/amp/",
-      "publishedDateTime": "2022-08-24T04:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages.md",
-      "title": "Restaurants Send More Customer Calls to Voice Bots Amid Staffing Shortages",
-      "excerpt": "Some executives say automating phone lines will ease pressure on stretched hospitality staff—but others question whether hungry customers are ready to order from a nonhuman voice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
-      "originalUrl": "https://www.wsj.com/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-609305/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
-      "publishedDateTime": "2022-08-24T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-ai-in-computer-vision-market-key-players-overview-applications-and-analysis-2029.md",
-      "title": "AI in Computer Vision Market Key Players Overview Applications and Analysis 2029",
-      "excerpt": "Pune, India-Research Report on Global AI in Computer Vision Market 2022-2029 Report Demand develops Rapidly as Our",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-key-players-overview-applications-and-analysis-2029-2022-08-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-key-players-overview-applications-and-analysis-2029-2022-08-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-saas-solutions-provider-revsureai-raises-35-mn-in-seed-funding.md",
-      "title": "SaaS solutions provider RevSure.AI raises $3.5 mn in seed funding",
-      "excerpt": "RevSure.AI announced on Wednesday that it has raised $3.5 million in seed funding and has launched out of stealth mode. The investment was led by Innovation Endeavors, with participation from angel investors Katrin Ribant,",
-      "sourceUrl": null,
-      "webUrl": "https://www.business-standard.com/article/companies/saas-solutions-provider-revsure-ai-raises-3-5-mn-in-seed-funding-122082400584_1.html",
-      "originalUrl": "https://www.business-standard.com/article/companies/saas-solutions-provider-revsure-ai-raises-3-5-mn-in-seed-funding-122082400584_1.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-08/24/full/1661329340-8151.jpg",
-          "width": 620,
-          "height": 464,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/saas-solutions-provider-revsure-ai-raises-3-5-mn-in-seed-funding-122082400584_1.html",
-      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/saas-solutions-provider-revsure-ai-raises-3-5-mn-in-seed-funding-122082400584_1.html",
-      "publishedDateTime": "2022-08-24T01:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Standard",
-        "domain": "business-standard.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-now-ai-can-detect-parkinsons-disease-while-you-are-sleeping.md",
-      "title": "Now AI can detect Parkinson's disease while you are sleeping",
-      "excerpt": "Parkinson's disease, a central nervous system disorder that affects movement, sometimes causing tremors, doesn't come with a warning. It is the world's second-most common neurolog",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/now-ai-can-detect-parkinsons-disease-while-you-are-sleeping/articleshow/93747223.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/now-ai-can-detect-parkinsons-disease-while-you-are-sleeping/articleshow/93747223.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-42184,msid-93747444/robot-ai-brain_istock.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/magazines/panache/now-ai-can-detect-parkinsons-disease-while-you-are-sleeping/amp_articleshow/93747223.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/now-ai-can-detect-parkinsons-disease-while-you-are-sleeping/amp_articleshow/93747223.cms",
-      "publishedDateTime": "2022-08-23T23:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-scalenuts-ai-copywriter-also-helps-content-make-a-dent-in-search-engine-results.md",
-      "title": "Scalenut’s AI copywriter also helps content make a dent in search engine results",
-      "excerpt": "AI copywriters are getting a lot of attention from investors. A couple that have recently raised funding include Copy.ai and Copysmith. Now Scalenut is entering the arena with a $3.1 million funding round led by Saama Capital and Amit Singhal,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/23/scalenuts-ai-copywriter-also-helps-content-make-a-dent-in-search-engine-results/",
-      "originalUrl": "https://techcrunch.com/2022/08/23/scalenuts-ai-copywriter-also-helps-content-make-a-dent-in-search-engine-results/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 82,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/From-L-to-R-Gaurav-Goyal-Saurabh-Wadhawan-Mayank-Jain-1.jpg?w=680",
-          "width": 680,
-          "height": 453,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/23/scalenuts-ai-copywriter-also-helps-content-make-a-dent-in-search-engine-results/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/23/scalenuts-ai-copywriter-also-helps-content-make-a-dent-in-search-engine-results/amp/",
-      "publishedDateTime": "2022-08-23T21:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

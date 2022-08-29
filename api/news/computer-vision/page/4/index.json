@@ -2,6 +2,40 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-19-from-beautiful-playground-to-commerce-destination-inside-the-vision-of-pinterests-new-chief-shopping-officer.md",
+      "title": "From ‘Beautiful Playground’ to ‘Commerce Destination’: Inside the Vision of Pinterest’s New Chief Shopping Officer",
+      "excerpt": "Pinterest’s role in the world of social media is blurry — consumers use the platform very differently than they do Instagram or TikTok, for example. But following a series of major strategic moves, the role Pinterest hopes to play in the burgeoning realm of social commerce is crystal clear.",
+      "sourceUrl": null,
+      "webUrl": "https://www.retailtouchpoints.com/topics/digital-commerce/social-commerce/from-beautiful-playground-to-commerce-destination-inside-the-vision-of-pinterests-new-chief-shopping-officer",
+      "originalUrl": "https://www.retailtouchpoints.com/topics/digital-commerce/social-commerce/from-beautiful-playground-to-commerce-destination-inside-the-vision-of-pinterests-new-chief-shopping-officer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-19T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Retail TouchPoints",
+        "domain": "retailtouchpoints.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-digi-yatra-using-facial-recognition-to-begin-in-august-at-bluru-varanasi-airports-scindia.md",
       "title": "Digi Yatra using Facial Recognition to begin in August at B'luru, Varanasi airports: Scindia",
       "excerpt": "Digi Yatra is proposed to be rolled out at two airports, Varanasi and Bengaluru, in August and at five airports, Pune, Vijayawada, Kolkata, Delhi and Hyderabad, by March next year.",
@@ -1338,49 +1372,6 @@
       "provider": {
         "name": "techxplore",
         "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements.md",
-      "title": "Snap Says Facial Recognition Technology Abuse Suit Fails to Meet Jurisdictional Requirements",
-      "excerpt": "A motion filed by Snap Inc., operator of the popular application Snapchat, said that the federal court has no authority to decide the Illinois Biometric",
-      "sourceUrl": null,
-      "webUrl": "https://lawstreetmedia.com/news/tech/snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements/",
-      "originalUrl": "https://lawstreetmedia.com/news/tech/snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lawstreetmedia.com/wp-content/uploads/2020/04/iStock-1139217536-1024x683.jpg",
-          "width": 1024,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://lawstreetmedia.com/news/tech/snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements/amp/",
-      "cdnAmpWebUrl": "https://lawstreetmedia-com.cdn.ampproject.org/c/s/lawstreetmedia.com/news/tech/snap-says-facial-recognition-technology-abuse-suit-fails-to-meet-jurisdictional-requirements/amp/",
-      "publishedDateTime": "2022-07-06T12:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Law Street Media",
-        "domain": "lawstreetmedia.com",
         "images": null,
         "publishers": null,
         "authors": null

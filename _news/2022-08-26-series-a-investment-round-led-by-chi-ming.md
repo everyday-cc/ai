@@ -62,6 +62,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
+  - title: "Face Recognition Turnstile Market size with concentrate on Top most Key Players, Future Analysis and Market Trends till the forecast period-2028"
+    excerpt: "The Global Face Recognition Turnstile Market Report provides a basic overview of the industry including definitions, classifications, applications and industry chain structure. The Face Recognition Turnstile market analysis is provided for the international markets including development trends,"
+    publishedDateTime: 2022-08-26T18:36:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-turnstile-market-size-with-concentrate-on-top-most-key-players-future-analysis-and-market-trends-till-the-forecast-period-2028-2022-08-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 32
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "N5XItxMLFVnibACetUdrFqCSUgS/YkX48IUM+xJU6DguN19KrlLEtt0wVQnkzKFqsJZepFD+Ndw2OCynrM11xY+WvK5i2JnHz+5v64cFiMpuNVq0aGtH2D7QfHjZVCpURJkb722K2qM//o1AJxY4KCb9gI8sqNholHzo4yZcxQ/+5LQ+9LpyKtdPf09T+GwMCXHuVAOrYdtZyAs7krZHPB73F21e3SjpJIIc+xEkaYUDzsXIh70moDGqEnQGLmgtLpdk2lqVu0WjWcxxt0OBRM+RlZ11pb1vHYGXTQ8AAmrJ++Nc5B//jFoDvIPSRy5bzmOFfHteQ+NlIAAVq5ek7AQyE28wNLOei85TMp7R2u4=;eWRH5w125TnNpoJBjDCGog=="
 ---
