@@ -1,35 +1,44 @@
 ---
 category: news
-title: "Advancing conservation with AI-based facial recognition of turtles"
-excerpt: "We came across Zindi – a dedicated partner with complementary goals – who are the largest community of African data scientists and host competitions that focus on solving Africa’s most pressing problems. Our Science team’s Diversity, Equity, and Inclusion (DE&I) team worked with Zindi to identify a scientific"
-publishedDateTime: 2022-08-25T00:00:00Z
-originalUrl: "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles"
-webUrl: "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles"
+title: "Artificial Intelligence is driving global digital revolution – Deputy Communications Minister"
+excerpt: "Madam Ama Pomaa Boateng, the Deputy Minister of Communication and Digitalisation, says Artificial Intelligence (AI) is now driving the global digital revolution and solving problems and challenges for emerging economies."
+publishedDateTime: 2022-08-29T02:10:00Z
+originalUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Artificial-Intelligence-is-driving-global-digital-revolution-Deputy-Communications-Minister-1612040"
+webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Artificial-Intelligence-is-driving-global-digital-revolution-Deputy-Communications-Minister-1612040"
 type: article
-quality: 106
-heat: 216
-published: true
+quality: 28
+heat: -1
+published: false
 
 provider:
-  name: DeepMind
-  domain: deepmind.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Ghanaweb.com
+  domain: ghanaweb.com
 
 topics:
+  - AI in Robotics
   - AI
-  - Google AI
-  - Computer Vision
 
 images:
-  - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/63061177d7f69d1362d8131e_w-VkMnf2sMOOlIQBg5mgjxCmIR8jzbdk4dNkoVyq55So3N0zNdWUa2xSQs0hRJxneQhGae3Nz62pNaqLggj4tm-EN8XO229WRDuZYUBcCtOdGsEsKMAQBLW5UkyFfhlPwtOozh-6VcDJ50RV0SZZXleKsSytCDJr422G1RwVKwcftW3p_2XXpFufsJKeO0dDa6PUQZVRnRmKCK-FKwzbd8yYSjLsHz-eaw.png"
-    width: 1600
-    height: 1427
+  - url: "https://cdn.ghanaweb.com/imagelib/pics/150/15012710.jpg"
+    width: 600
+    height: 399
     isCached: true
 
 related:
+  - title: "Advancing conservation with AI-based facial recognition of turtles"
+    excerpt: "We came across Zindi – a dedicated partner with complementary goals – who are the largest community of African data scientists and host competitions that focus on solving Africa’s most pressing problems. Our Science team’s Diversity, Equity, and Inclusion (DE&I) team worked with Zindi to identify a scientific"
+    publishedDateTime: 2022-08-25T00:00:00Z
+    webUrl: "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles"
+    type: article
+    provider:
+      name: DeepMind
+      domain: deepmind.com
+    quality: 106
+    images:
+      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/63061177d7f69d1362d8131e_w-VkMnf2sMOOlIQBg5mgjxCmIR8jzbdk4dNkoVyq55So3N0zNdWUa2xSQs0hRJxneQhGae3Nz62pNaqLggj4tm-EN8XO229WRDuZYUBcCtOdGsEsKMAQBLW5UkyFfhlPwtOozh-6VcDJ50RV0SZZXleKsSytCDJr422G1RwVKwcftW3p_2XXpFufsJKeO0dDa6PUQZVRnRmKCK-FKwzbd8yYSjLsHz-eaw.png"
+        width: 1600
+        height: 1427
+        isCached: true
   - title: "Improving AI-assisted conversation with zero-shot learning"
     excerpt: "Zero-shot learning can improve conversation AI — bolstering everything from human interaction, to sales, to training and career coaching."
     publishedDateTime: 2022-08-27T15:20:00Z
@@ -143,20 +152,6 @@ related:
         width: 500
         height: 300
         isCached: true
-  - title: "Artificial Intelligence is driving global digital revolution – Deputy Communications Minister"
-    excerpt: "Madam Ama Pomaa Boateng, the Deputy Minister of Communication and Digitalisation, says Artificial Intelligence (AI) is now driving the global digital revolution and solving problems and challenges for emerging economies."
-    publishedDateTime: 2022-08-29T02:10:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Artificial-Intelligence-is-driving-global-digital-revolution-Deputy-Communications-Minister-1612040"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 28
-    images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/150/15012710.jpg"
-        width: 600
-        height: 399
-        isCached: true
   - title: "Vets’ contribution needs social recognition"
     excerpt: "Recent floods in Odisha have given substance to the fact that veterinary department is the forerunner in reaching out to distressed people in marooned and inundated areas. It’s quite apparent that a basket of essential services like electricity,"
     publishedDateTime: 2022-08-24T19:03:00Z
@@ -181,6 +176,6 @@ related:
         height: 450
         isCached: true
 
-secured: "Dhvw6bp8Suaz/yIxMKqRnG2/sMfp3zOLGiV7J3OMISVSm4uWYnialYXqpFuMLnFZNORp6HO703vjiBqqNme4h+blZYVCZvB5Ybn6tvDICbGZ0Y6EbL7sxKwDie2W3f2gC1w27e/853n7ylZCLpG/zr5KcADfLlgrrdSZnXsYug5ywXVsntu0VY3DCKXaZ/KXHvtCnS3OacXzZO6YYK2AM5n/vpyFl+ERN4ITo2NaOKZjbKd9eLPTv6JjCBKLrQk5Blb/wDDRcCFxY8qod34YuzRLW//xeG4FdlyMPjUQKvWnWjU4fGWIdOSeGTXSs8ldBoEWWp1N98nv/Gez6EShnt6mr91bB2FEJMJRQ6u7v04=;7ap2mkZOl1w7lNK3wG8lhw=="
+secured: "/3yOaXczz9O+XvUGAJROqC+qxazA+EDbAiIyAy98vF8tfcxn/o+8PPTNaYTszIK8xWUftFp52wCi1RlyK1MoEEhUEvYbeOV8GeYJ/UQkeMKKzX14vABwbeGb1sP8SRKS2Y6WSa4Ha/rcq3PLfBHZeLyi17LUzycI/ddYIACigS/nsCAbBYPcq4tzr52IrBVI3T12hQkt7LzM9urOsYpEJEeQm6uNvj++wb2NPy+AB9zhDNIGMdhMUJs4rZuH0lRb/Gx6vu0UoaaofxW7+2ftt6j1fpRjU/n385ImFbJcIpN6P1sH6eTwKG6D4YxDlv9d/ITBPnv9Ywv4SaNCmQdpT7V0OzBQFdkjoNQvOyFVTpc=;nLkTPv7pICWvkf/wKIgWcg=="
 ---
 

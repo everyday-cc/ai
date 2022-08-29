@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/machine-learning-market-
 webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-to-hit-sales-of-16405-billion-machine-learning-is-become-essential-for-decision-making-and-data-pre-processing-2022-08-24"
 type: article
 quality: 54
-heat: 54
+heat: 64
 published: false
 
 provider:
@@ -29,6 +29,22 @@ images:
     width: 1200
     height: 630
     isCached: true
+
+related:
+  - title: "Maximizing the power of deep learning to save coral reefs"
+    excerpt: "Coral reefs are declining at an alarming rate, most notably by overfishing, pollution, and climate change Deep learning is significantly useful since it raises the likelihood that the new data will contain more important information Deep learning ..."
+    publishedDateTime: 2022-08-25T05:00:00Z
+    webUrl: "https://techwireasia.com/2022/08/maximizing-the-power-of-deep-learning-to-save-coral-reefs/"
+    type: article
+    provider:
+      name: techwireasia.com
+      domain: techwireasia.com
+    quality: 39
+    images:
+      - url: "https://techwireasia.com/wp-content/uploads/2022/08/shutterstock_1810557352-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "POEYbTn9gHr58eKCMvk8Zxgm7OY8Q9PsBLdJl3l9hICKDRFTdJANTnnYOq/x8dlxdS52zhWz8oPL+OHxmV16pwjmjm1ViCMlkdrlR6u0Spj7b4DY+7RUT/8sU2tbeunFklV1v7JCBpv7rB6trkO0lK/kWwACep2sNg0eDTPYFBVHoSTODurWY/CjyZpYvBF+fqg/POzq3vJYABQ0EuCH0Q3xifRWTdAseCBKztutcWjPS97Qb59dgDHVW9Am2RDd3X9pg48VHRHVLqHOola0jDyqGr2fLV4Gooo0LUMjbSvEKd3rgDKHciMd7T1wxLTCr5THLHIfaBcuyReeqEX+I2diDC2fjUElnwSHsWq7WdQ=;z5klzQFYffso+PgSrMLHGQ=="
 ---

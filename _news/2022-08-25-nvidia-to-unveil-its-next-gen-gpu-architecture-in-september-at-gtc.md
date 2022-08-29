@@ -55,20 +55,6 @@ related:
         width: 1600
         height: 900
         isCached: true
-  - title: "Tech Startup ReviewReply.AI to Launch in Late September"
-    excerpt: "This is a big step forward for busy owners and operators looking to spend more time building their business without sacrificing their reputation.” ReviewReply.AI generates coherent and specific responses to incoming reviews via artificial intelligence."
-    publishedDateTime: 2022-08-24T11:53:00Z
-    webUrl: "https://www.qsrmagazine.com/news/tech-startup-reviewreplyai-launch-late-september"
-    type: article
-    provider:
-      name: QSR magazine
-      domain: qsrmagazine.com
-    quality: 37
-    images:
-      - url: "https://www.qsrmagazine.com/img-src/current-cover"
-        width: 781
-        height: 1000
-        isCached: true
 
 secured: "DC6NJwemOMniRISnMsE+VxVTfNUdqJg6BZK+1D8iPE2JwjVrO884Woes+YKa7CLtXgNHzT+HyXCJHGdCZfqNx/+oD2jIjyPlAn68IC9qv1kT8LpEmLEBlG3Fnh2ZymnPR7BTKQu8YXEWK/CHaS3LE7MCnXX7w7VdYcTKW1nckBvLIFrnFBDTBmCwr8G3799W22sl6JcgDK0Rq6WowvNTeoaHUYS03I34xhazVF6yzxj9p003snLqnKpGMO1tTt8qI72b9u2z3CrKtvtyP5IoFLU7J911Kmldnp96Q+CTkDtQhLKEbDlV/an8qEELGCsPYP07fn1WeI4+ProdaPDDc76WO7O4CZWd6UwQ1UOZPJA=;SOKVLO6d/7EQuvKPdEq0uA=="
 ---

@@ -22,17 +22,6 @@ topics:
   - AI Hardware
   - AI
 
-related:
-  - title: "QpiAI Announces AI-Enabled QpiAISense™ Platform for Worldwide Deployment"
-    excerpt: "QpiAISense™ accelerates ML library using discrete FPGA DSPs currently. But in future it would support massive ML compute capability as much as 8000 trillion operations per second per watt (8000 Tops/w"
-    publishedDateTime: 2022-08-24T12:21:00Z
-    webUrl: "https://www.livemint.com/brand-stories/qpiai-announces-ai-enabled-qpiaisense-platform-for-worldwide-deployment-11661343071436.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 18
-
 secured: "jTnNbk/1asRE1//8bxYVu9ADTt7ktNE6wzLMALofa43kebHnCyLRuz/S1j9sZYGmLL4v+XCUuOZKYGX90HFRGYwaLouKw6z/Z3/NLYWNd6Qu1tXQKdZHEDEqWwN0RKZSbWFTEKbUmSBZiUgogQ1ZcE7pGj2alflYkCLUarbK6FYgN1GrGxSRMlvdwA9ZELfs5Hsi2ify3vkTf/6isGH9H/C+puimxIwN629MJoa/AQw4pz0jqxKVjtGH8e19jzqVjXN43rddmvKpLMfQXSxAOcBAJkv249r3/j491ry76oDTYR67l7ibbA8PhUkzLRMDsB/ptS2E/ToXFTLbLA0BWs/bvLRC2qwPS5TRADn9GZh1tUvyN6NZCsjwNBK7uNcjxHi63+xdsGiaher2ezgUgn3odiqFyce3NKQdghPaOgTYOaT5tNkiXK4Y66tUtOdzmqAADizA+exMoioty/T9A1NTsS1wNiqPbPHYIwmJxUTdq9RKAXSoIA+8do5pNexz12HTlf002ruV/JSmyg8sBQ==;/k3zo0orC8eDFXPsWB73UA=="
 ---
 

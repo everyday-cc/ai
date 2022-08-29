@@ -46,6 +46,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "LG's UltraFine Ergo AI Monitor has AI to track eyes and body, for auto adjustments"
+    excerpt: "LG has unveiled its new line of premium monitors at IFA 2022. New to the Korean company's range of monitors are the UltraFine Ergo AI Monitor and the UltraGear OLED Gaming Monitor.The UltraFine Ergo AI Monitor is the first LG monitor capable"
+    publishedDateTime: 2022-08-29T04:57:00Z
+    webUrl: "https://www.asiaone.com/digital/lgs-ultrafine-ergo-ai-monitor-has-ai-track-eyes-and-body-auto-adjustments"
+    type: article
+    provider:
+      name: Asia One
+      domain: asiaone.com
+    quality: 31
+    images:
+      - url: "https://media.asiaone.com/sites/default/files/styles/article_main_image/public/original_images/Aug2022/290822_moni_lg.jpg?itok=BSQNYmDk"
+        width: 800
+        height: 518
+        isCached: true
 
 secured: "vGbtA95jEYhUqNda61Qz10WFkJLj6DGIL9uhVEMwakniRhMgVPGk8DcZqHAsfRYqKerHVJEdF/gvovtM7KzkipMQHg+XgnTvO5gk273dUScqHVhQluWCYag/WHRY9w+tA3UGyi4D7ionv1ll5n2UQMmxYqwd8V1pB+8iXhgWZOoklydBAUTPZ6rQ6fbchfoFGXn+51bTKkUY9poi7QeumWCbXgIq4FhTvsYWtaI/e6uYJtDcXj0ohZqZKHUu9Fc4iyc9ALe+PQGrKf3X682Rc2bypG4c4wMSYJ9L3JP6/sHJsOQ9IzJiOANWbR0+86HBnBcRYal8hAe94FI9zphelj3gA2qDRNyTTqoxR4Zwum+siPNPhKIyB8Mbk7AqHq26Cs+qWFGt+VaR8/Uj7OIc+gcIjWkhquucf2wMUG5Ld48dWWQ76g/H7SdBURyuJGOeez5+PjuUWfk3Z1a7ZQrmtYkc5uPFX8g63+ORLLeofwf3juMc64VxUq0ua9PBSqHtMb5PppzlHVr9KDrsnXRsCw==;bGmkL3mlyt0Xqcte7F2EIw=="
 ---
