@@ -1,33 +1,23 @@
 ---
 category: news
 title: "ArtsBerry Interviews Microsoft Designer Ms. Su He"
-excerpt: "ArtsBerry Interviews Microsoft Designer Ms. Su He Aug 25, 2022 (PRNewswire via COMTEX) -- PR Newswire NEW YORK, NEW YORK, Aug. 25,"
-publishedDateTime: 2022-08-25T12:25:00Z
-originalUrl: "https://www.marketwatch.com/press-release/artsberry-interviews-microsoft-designer-ms-su-he-2022-08-25"
-webUrl: "https://www.marketwatch.com/press-release/artsberry-interviews-microsoft-designer-ms-su-he-2022-08-25"
+excerpt: "When I designed the Azure Cloud platform at Microsoft ... As a lead product designer at ByteDance, I took responsibility of an Artificial Intelligence (AI) product from the ground up. In 2021, floodwater submerged the city of Zhengzhou China."
+publishedDateTime: 2022-08-25T13:41:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/-artsberry-interviews-microsoft-designer-ms-su-he-/2022/08/25/9662276.htm"
+webUrl: "https://www.tmcnet.com/usubmit/-artsberry-interviews-microsoft-designer-ms-su-he-/2022/08/25/9662276.htm"
 type: article
-quality: 69
-heat: 69
+quality: 19
+heat: 19
 published: false
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - Microsoft AI
   - AI
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "kR1ucZlubUUdy7qFUFDmTnPalxXMPPi6k5EFQi3/PLosSPJgrmjvbpdbPv+TArh4r/aEsoS7OItzIcwjky5rKYv5TpKVF2gq3hAePppjQfjq56/N7t8X/wVY0hGw48PLTgihJHkuGx6/UTU3RGeDQXi7Ox3ERzQO7y98G2BxtPytpVA2vyRAavb01WrHOoDtDpHXPs0gsVth/msWVcAyotCIIcYmUn+XRqGnvTkTFsxn9Sv9+A3FDWiE17ja0XHRac3RYiV+z0bZoRy7Z3zVCiGCbQducHvPOWgX+UQ97vRM+h22vXgAvg1e3q/xFGJG3wfzmyirV3Acw4g5NwQcycGINeRhNAzgHHyaCaKO3Y4=;dAxPncXlHuVDNQR8Z1gE9g=="
+secured: "yPJYgBXN1Y99fbtHyPZFXXdMRAbuWJs43gdkP+o7yYbgiYSJgIWCXJdwlnFcHzHrWCJs88caht/mdRtbeI9+HMRwq6wWaoeohQShTIgWj6t7f8B3IQ0Dm8sMQ3me5dFqFROhrDRFdGP749gGus7CbR1Q+DbkhdNIxZJMGmK3WyJlz38iy0qREG2mOj+ZRUlFl6WabuZpokmn2ybsF3rKa8oTiPLXotJVDBRvX/v2KBhNxFhBejpi7i01irBQgJX9LuS6yxYFWCKZj0D0AD11RFQyicOSB1Au573jH0cQwS5B3/9bxLwmhdA7TExHlYBKQilpPZF/1QuBsGeQ4MxB9uLaoCOAir5hM82kUYr05H0=;b5Fzsb8Omew2pMOqZ1wQgA=="
 ---
 

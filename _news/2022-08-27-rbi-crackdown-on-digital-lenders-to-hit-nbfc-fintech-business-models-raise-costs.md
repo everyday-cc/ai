@@ -9,8 +9,8 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/banks/rbi-crackdown-on-di
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/banks/rbi-crackdown-on-digital-lenders-to-hit-nbfc-fintech-business-models-raise-costs-9074131.html/amp"
 type: article
 quality: 53
-heat: 73
-published: true
+heat: 63
+published: false
 
 provider:
   name: moneycontrol.com
@@ -36,15 +36,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 21
-  - title: "Growth Capital Ventures leads six-figure funding into fintech firm"
-    excerpt: "County Durham-based Growth Capital Ventures has led a £695,000 investment into a fintech platform, which aims to improve access to credit for people around the world."
-    publishedDateTime: 2022-08-24T07:20:00Z
-    webUrl: "https://www.insidermedia.com/news/Yorkshire/growth-capital-ventures-leads-six-figure-funding-into-fintech-firm"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 4
 
 secured: "LUkrfqvjHFh/gjizjJ860mc6pdaVYnBuO3X72bXQ//ODJ+MhScHU2hQo4Mv3L3gYwdKgXoU1qgk3OitTNwCPnnVSdpeoYxLFzuuqxOvQ4ikcozZRmqnY2Vym9NUyUoBvl7a12nAmQyBzPdXUXzbWfMGlpHuxGtQQ9ZwYIZMPK2w+xqdESjKqxOyOR2rXjpmCNqizSA3hd7Lk1BvaPmDAGBBbasDsAl5kA3PMK7QwTneKLzlC1tHane0Zktj2ZeG0Z6b2FFI3KNPby5hx9DKYASVBRiAUfrFcaVuc7ecQs2BnmTELIfJ6We2MneUPvkMwcN0MICEgW2mmyMvNUqKMyUPMKeGIEEIMI6jhWBSRCTo=;jk3g7WykvHay7qe55lBSLw=="
 ---

@@ -57,20 +57,6 @@ related:
         width: 1280
         height: 855
         isCached: true
-  - title: "Engineer admits details about Apple's mythical self-driving project"
-    excerpt: "Engineer Stole manuals of Titan circuit boards An ex-Apple engineer who worked on Titan the outfit's imaginary self-driving car project – admitted to stealing proprietary tech while he was working for the company."
-    publishedDateTime: 2022-08-24T08:54:00Z
-    webUrl: "https://www.fudzilla.com/news/automotive/55370-engineer-admits-details-about-apple-s-mythical-self-driving-project"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/3b5cde225a6ba384158fa58d5381edcd_L.jpg"
-        width: 620
-        height: 405
-        isCached: true
   - title: "Former Apple engineer pleads guilty to stealing self-driving car trade secrets"
     excerpt: "Former Apple Inc. engineer Xiaolang Zhang pleaded guilty Monday to theft of trade secrets from the company’s self-driving vehicle program. According to filings with the US District Court for the"
     publishedDateTime: 2022-08-24T09:14:00Z

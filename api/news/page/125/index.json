@@ -2,58 +2,6 @@
   "page": 125,
   "value": [
     {
-      "path": "_news/2022-05-24-building-a-culture-of-pioneering-responsibly.md",
-      "title": "Building a culture of pioneering responsibly",
-      "excerpt": "When I joined DeepMind as COO, I did so in large part because I could tell that the founders and team had the same focus on positive social impact. In fact, at DeepMind, we now champion a term that perfectly captures my own values and hopes for integrating technology into people’s daily lives: pioneering",
-      "sourceUrl": null,
-      "webUrl": "https://www.deepmind.com/blog/building-a-culture-of-pioneering-responsibly",
-      "originalUrl": "https://www.deepmind.com/blog/building-a-culture-of-pioneering-responsibly",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/628bb10c9262d40040f15edb_Lila_Ibrahim__Blog__16x9-0.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-23T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "DeepMind",
-        "domain": "deepmind.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-24-hondas-asimo-gets-mind-control-interface.md",
       "title": "Honda's Asimo gets mind control interface",
       "excerpt": "From there, we assume, it's only a matter of time before the bots learn to reverse the process, initiating a mind control link over their would-be masters. [Via Robot Gossip] All products ...",
@@ -1109,6 +1057,39 @@
       "topics": [
         "AI",
         "AWS AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-23-global-artificial-intelligence-in-big-data-analytics-and-iot-market-report-2022-2027-how-different-forms-of-ai-may-be-best-used-for-problem-solving.md",
+      "title": "Global Artificial Intelligence in Big Data Analytics and IoT Market Report 2022-2027: How Different Forms of AI May be Best Used for Problem-Solving",
+      "excerpt": "This report evaluates various AI technologies and their use relative to analytics solutions within the rapidly growing enterprise and industrial data arena. The report assesses em",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-big-data-analytics-iot-market-/2022/05/23/9606896.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-global-artificial-intelligence-big-data-analytics-iot-market-/2022/05/23/9606896.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-23T05:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

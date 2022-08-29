@@ -17,6 +17,7 @@ provider:
 topics:
   - AI Ethics
   - AI
+  - Machine Learning
 
 images:
   - url: "https://www-images.christianitytoday.com/images/130630.jpg?h=675&w=1200"

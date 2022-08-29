@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-2022-size-share-sales-growth-dynamics-top-vendors-and-forecast-to-2028-2022-08-26"
 type: article
 quality: 72
-heat: 142
+heat: 152
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence in Market Size 2022, Share, Growth with Recent Trends, Development, Revenue, Demand and Forecast to 2026"
+    excerpt: "The Latest research study released by expert Global Artificial Intelligence in Market with analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development,"
+    publishedDateTime: 2022-08-24T10:55:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-market-size-2022-share-growth-with-recent-trends-development-revenue-demand-and-forecast-to-2026-2022-08-24"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 38
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Edge AI Processor Market to Grow with a Significant CAGR During the forecast period 2022-2028| Exclusive Report Spread Across 90 Pages"
     excerpt: "Edge AI Processor Market Research Report is spread across 90 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. We have been tracking the direct impact of COVID-19 on this market,"
     publishedDateTime: 2022-08-25T18:02:00Z
@@ -100,6 +114,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI Platforms Software Market Size and Share 2022 Analysis Report by Key Players, Geographical Regions, Future Development and Forecast to 2028"
+    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI Platforms Software Market”"
+    publishedDateTime: 2022-08-25T08:07:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-platforms-software-market-size-and-share-2022-analysis-report-by-key-players-geographical-regions-future-development-and-forecast-to-2028-2022-08-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Machine Learning Market Size with CAGR Status, Competitive Landscape, Industry Share, Future Trends, Growth Opportunities and Forecast to 2022-2031"
     excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on Machine Learning"
     publishedDateTime: 2022-08-25T09:52:00Z
@@ -114,15 +142,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Accelerator Chip Market Research Report 2022 , Market Overview, Market Share, Product Dynamics, and Consumer Demographics Trends from 2022 2028"
-    excerpt: "The \" AI Accelerator Chip Market \" research report 2022 - 2028 examines the AI Accelerator Chip Market's growth potential and threats in terms of business tactics, sales volume, and recent developments."
-    publishedDateTime: 2022-08-24T09:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-accelerator-chip-market-research-report-2022-market-overview-market-share-product-dynamics-and-consumer-demographics-trends-from-2022-2028-2022-08-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
 
 secured: "9qlr8azvZl4HM/qFkc4FZ7/Ojqz2dJdkWvGLcghWdJQGnw0KM/xovMihH4dAORk6gOD9pCeYMTTweAfX65n5BF4/Tb4akMZhxj9OQoGMkWOzfwAXtUlojIErChgTLbZvRp6Eqq53G3cQ4ec1xULRn9U5Gcrj68lHmWMtEc0VGpwJeHLq90PCmtH/DMdEYLmR7+sRZHDp42Y7EyyExcV5YKQKWmHsJblQ2Acb1iQCUauC91BDP2IGnRnf5VrHl3mlMiODJsDkt9Nzb9nly7EKRTWzCxAAeBgkadAK0+D0PSHsipdOyUi979WcYNFvwsuCHNNQ2T2O0O6mwd265SaZ2QHzTw3abUm4WhofNusgnz0=;oVlJYjILIivs5rTMep/oSA=="
 ---

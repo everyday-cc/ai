@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 667
         isCached: true
-  - title: "Contact Center Intelligence Market Projection By COVID-19 Impact on Industry 2030"
-    excerpt: "The Contact Center Intelligence market size was US$ $$ billion in 2021, and the global market size is forecast to reach US$ $$ billion by 2030, growing at a compound annual growth rate (CAGR) of $$% during the forecast period from 2022 to 2030."
-    publishedDateTime: 2022-08-24T07:19:00Z
-    webUrl: "https://www.marketwatch.com/press-release/contact-center-intelligence-market-projection-by-covid-19-impact-on-industry-2030-2022-08-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 49
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "VKOzHEeqPh9qCzDMJMxuEEspOsSyoEzUtvIZv8zHAUm7ujKaCUdx39LXhpsPSMtsx/IlkA7ekEKwbVvl+HSA82pn3CGbonwNTgZ7/Z5m3u8BqqHAG6yn/AAyGw9LNGWqK5MKOE37g1a4XoTxWXZEYxx8hKQg4jHiYhvnDIiWIndUFYN3ZZlz0PNgp00um4NozK09dbj+wzzPnpsha7cjcPUBftC8mGMIg7whShmK3UAsheEn6l9yi7PptlSKr2b/qaAqGIXzrI8YLalmprbUXi4zowTw7mwY6YpuuxrLFJqovBsJzB4vv37gGhwlNYlGqbmkB/nqq1h7Y7WWjxMVV7fm+ZbZ4Iy/cW6Np+YJnJU=;Ty+kyGRKMXoLLKlLhqKuVw=="
 ---

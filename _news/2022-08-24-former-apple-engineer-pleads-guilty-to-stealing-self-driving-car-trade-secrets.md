@@ -57,20 +57,6 @@ related:
         width: 1280
         height: 855
         isCached: true
-  - title: "Engineer admits details about Apple's mythical self-driving project"
-    excerpt: "Engineer Stole manuals of Titan circuit boards An ex-Apple engineer who worked on Titan the outfit's imaginary self-driving car project – admitted to stealing proprietary tech while he was working for the company."
-    publishedDateTime: 2022-08-24T08:54:00Z
-    webUrl: "https://www.fudzilla.com/news/automotive/55370-engineer-admits-details-about-apple-s-mythical-self-driving-project"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/3b5cde225a6ba384158fa58d5381edcd_L.jpg"
-        width: 620
-        height: 405
-        isCached: true
   - title: "Self-driving cars: a primer"
     excerpt: "Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won't drive at all. Along the way, automakers will ..."
     publishedDateTime: 2022-08-24T18:55:00Z

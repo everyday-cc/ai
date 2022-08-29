@@ -43,20 +43,6 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "Engineer admits details about Apple's mythical self-driving project"
-    excerpt: "Engineer Stole manuals of Titan circuit boards An ex-Apple engineer who worked on Titan the outfit's imaginary self-driving car project – admitted to stealing proprietary tech while he was working for the company."
-    publishedDateTime: 2022-08-24T08:54:00Z
-    webUrl: "https://www.fudzilla.com/news/automotive/55370-engineer-admits-details-about-apple-s-mythical-self-driving-project"
-    type: article
-    provider:
-      name: Fudzilla
-      domain: fudzilla.com
-    quality: 39
-    images:
-      - url: "https://www.fudzilla.com/media/k2/items/cache/3b5cde225a6ba384158fa58d5381edcd_L.jpg"
-        width: 620
-        height: 405
-        isCached: true
   - title: "Self-driving cars: a primer"
     excerpt: "Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won't drive at all. Along the way, automakers will ..."
     publishedDateTime: 2022-08-24T18:55:00Z
@@ -95,6 +81,6 @@ related:
       domain: pulse.ng
     quality: 0
 
-secured: "xPqt5CNfetY6n2Jn7jYfz5QB5nmsheilaRp3tF4ne4bp7CowNWp1p9/Uc7KW4eVB/uWhr7xfYXCyEnlRPPwTUQFLTSggyQJPTzv7qE2cF9mZnUU++Lzga38nY7LGUJGgDbs8GILkqjUMuDJOtS6/uyLQNSamY3H9wxNSvtRcA09dyOR0ZKR5iaTjEvMGQtZcavQyp729sInQzWRYmPJSOmczLWjKerUvPbiRRfjtu7XKj+RQitalTcDauQNg0ty/CILJrZq1bii8geYp31F/XByqo/12c0F5qgzB3SQORI+B9Kyq/6XNAUZ1j52x6WikaZ4DRUTfwunbW/LHstF/SHuuDkWTiA/l7XmnehZO9Pg=;cKSaE58lQkuMqa3wLr7b0g=="
+secured: "eXyy/AbHXV+d1QzGP/YwBOKjJMlpdDlq+hatxz+5Rhxr7TNm/fMl6rXwB+GFiGSPxXzrQFETJdXIL0oEm8hQGazEDtUDj+3jAQ/wWFxhrEZvqrZz7rM3SRzO500AnDc7s94VQiOLHRA/gYsieKZnG8WVNK1Lkeo0F+nYdag3iIdb0JqVQw9vG3o4NtYZOc8NLcsvoVt2IqULuhjUzaAH9UYp34LTsFcoZJgKX9SxRS2hPzVO0GXZu9RlVOR6nWZWXyJXcSALipxyKgEOAnsrc25pSiBNKs7C3ezmh8dfm86/VSVRSqiNhrcioU5Wfpikne49wsHvIRZ+RoYJINbp2ZlmlMelGAjxet6T9OKibQVZdNOHtgZMrtPu1SeNbfDvYzv6NqkSYG3PYUz7QW6irShYZOkLegoM5cQn+VVzqMjElqYNiZmMOfQhmS6vdaSrC1Dyi9j73eOAx8CNlqniW+NbqdwwYxHREWwtoPuRjm4ZI0BhbltjMjRkegrhpI17FgwK9wm8eSu8CYQaeuOdDQ==;sTT176evIS4N25WwD1Lz7A=="
 ---
 

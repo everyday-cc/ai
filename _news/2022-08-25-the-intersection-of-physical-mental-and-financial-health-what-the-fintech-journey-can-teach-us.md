@@ -39,15 +39,6 @@ related:
         width: 1280
         height: 720
         isCached: true
-  - title: "Growth Capital Ventures leads six-figure funding into fintech firm"
-    excerpt: "County Durham-based Growth Capital Ventures has led a £695,000 investment into a fintech platform, which aims to improve access to credit for people around the world."
-    publishedDateTime: 2022-08-24T07:20:00Z
-    webUrl: "https://www.insidermedia.com/news/Yorkshire/growth-capital-ventures-leads-six-figure-funding-into-fintech-firm"
-    type: article
-    provider:
-      name: Insider
-      domain: insidermedia.com
-    quality: 4
 
 secured: "y5vIapSUDnmSdyOzN/UFjldK4mFBIEkEp90Av6xD+liZ/z7wu4t77Ibqk/gs3aOOobiey3bZ/lEoxsQjRfTIYoC6+FVqAhkd/3M8jOmiRzxp2oIGfkEscYem/isJcp7kau7HkZUEhMyBcghr9TXqUbUIvoD0G94AffzdCsxaKK60tyaTCo649HrZdUBYeiqIb0Spv8sM97Wi1kTTAZphqsApF5H/IEQ5fKMTJw8lMjMrL5AaqLUyKX4P6+zx9V+f91+0zyZFrKPl31LJDhkln8IRnu2DUYM2FNIgBGhj/PXCH0i6n0eqUdG4qNF8ihY+MRwNTU/1aBV7b7oZkeUoDtFwZM5Il8otxdzVv8KYoJhlkL9gOhdZDBAuaxdUhsHWm4rv7BTmjuXmWhZptNWpg662ePXBlnJzTI3VhMFr2/XpV761QmCXTSk/vqF180E1CyjhVB4ARJxB0A5pVtQqjeSBPjde/hjrFI59qcfef+I/aQsRAnnnpzALV9bvYLKnq4UGzArMybd3kZXznbsq4A==;bo664dLy4X0KQdh322aiLQ=="
 ---
