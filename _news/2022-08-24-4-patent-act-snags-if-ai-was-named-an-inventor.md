@@ -52,6 +52,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "Employing ‘Technology Analysis’ to Determine AI Inventorship"
+    excerpt: "Not long ago, Dr. Stephen Thaler, a member of the scientific community, began claiming that his AI machine, DABUS, was a bona fide inventor. The outcome so far has been that the claim has been rejected in most"
+    publishedDateTime: 2022-08-27T16:15:00Z
+    webUrl: "https://www.ipwatchdog.com/2022/08/27/employing-technology-analysis-determine-ai-inventorship/id=151046/"
+    type: article
+    provider:
+      name: IPWatchdog
+      domain: ipwatchdog.com
+    quality: 37
+    images:
+      - url: "https://www.ipwatchdog.com/wp-content/uploads/2022/08/Depositphotos_185517156_XL-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "w4ndm5mSnesOLLK3ZQsieBpH28YTT+rIq3GSkvp4AHQJid8otNqrpKWBeIh8E3ITaXYWTbDmGfZnoaHn75j9xB4Raly34PARwL5A4raYqSKu8SyAuP4956TdD64OrLY3T+z2WFL7xS0B/zaS6EA00COfVUONuWr/t/XCc++pIoNFczspYV32UzkFcfGE6zOGUJo894ySWKnWydOeoeiDClB2d8MFs7jg6ephQha8WI2aN3/UlEOMISh93BD2pR9Qh/JKtT6eMVC4rF7SxKvJHbOiU9VLBH32q/Gq9PZF/OsAUUl6xglR6YYx4DR0IfQkiiSP6ej/XuV7F/EJUfRHhGL1KnyU5C3Uq0LAD31z3ExLyIf4ETshpmm/CPnZO5M95fW+zz8U0Xfb9OSIXjwXhPM0dj+vCiD0bQO/Rujt7taW2UXjm9ngj1AQHn3XXrOBAAeYBV4WmVobf4NJrJGOSSg9AycgwCpu1BywG7U7+64WmoLJ9/7/smE6pRd4U/saZM5o9jOoOS+HplaNFZ8LDg==;V44WzBEVgbIwmYqOwjLX+w=="
 ---

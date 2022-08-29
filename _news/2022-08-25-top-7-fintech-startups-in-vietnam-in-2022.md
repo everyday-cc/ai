@@ -24,22 +24,6 @@ images:
     height: 567
     isCached: true
 
-related:
-  - title: "News: Fintech startup TIFIN appoints Natashaa Bhalla as vice president, human resource"
-    excerpt: "Bhalla s hiring is in line with TIFIN s vision to put Indian talent at the forefront of fintech AI innovation on a global scale"
-    publishedDateTime: 2022-08-24T06:36:00Z
-    webUrl: "https://www.peoplematters.in/news/appointments/fintech-startup-tifin-appoints-natashaa-bhalla-as-vice-president-human-resource-35020"
-    type: article
-    provider:
-      name: People Matters
-      domain: peoplematters.in
-    quality: 16
-    images:
-      - url: "https://res.cloudinary.com/people-matters/image/upload/q_auto,f_auto,w_990,h_550,c_fill/v1660291337/ad-drezxt5v.jpg"
-        width: 990
-        height: 550
-        isCached: true
-
 secured: "EzQsm26wFNpKq+kVnM5Sya/Bil2gsgm06JtXDSZ12KVRBBvEZug9bE3deNny16Idy/0ZgCWX5ABqwcilTuYAtNtlQw/NUV4mzYwtG71UATtXFWOQFZq462QhC9gck1OzzqMxW8bRYpLQ0Tl/8bqaGyvJ1wNWpyHrKwSbnq3RW6BShQqenAFLEyGxnUxzdZRokTyNFA4LgF7lviBSsnPzFPQv+wGVXDzM6kWQZOTQpjR/4S3fD4Dq49bpXOFCIu9YNo2bXRpd8+F7YC5/msPHaQpYREvqM6YwbCV60Ki1xaezrmZLRYlAWQQhouoXimNB3yE2gJ3f4V6aQQ9JH0ntKssxhWtyZkaec9Mm0KSQzZg=;SaU71H9mshbik3znD5KpjQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/jenniferhicks/2022/08/25/see-how-this
 webUrl: "https://www.forbes.com/sites/jenniferhicks/2022/08/25/see-how-this-ai-analyzes-breathing-patterns-for-early-detection-of-parkinsons/"
 type: article
 quality: 45
-heat: -1
+heat: 45
 published: false
 
 provider:
@@ -23,22 +23,6 @@ topics:
   - AI
 
 related:
-  - title: "Now AI can detect Parkinson's disease while you are sleeping"
-    excerpt: "Parkinson's disease, a central nervous system disorder that affects movement, sometimes causing tremors, doesn't come with a warning. It is the world's second-most common neurolog"
-    publishedDateTime: 2022-08-24T06:45:00Z
-    webUrl: "https://economictimes.indiatimes.com/magazines/panache/now-ai-can-detect-parkinsons-disease-while-you-are-sleeping/articleshow/93747223.cms"
-    ampWebUrl: "https://m.economictimes.com/magazines/panache/now-ai-can-detect-parkinsons-disease-while-you-are-sleeping/amp_articleshow/93747223.cms"
-    cdnAmpWebUrl: "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/now-ai-can-detect-parkinsons-disease-while-you-are-sleeping/amp_articleshow/93747223.cms"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 57
-    images:
-      - url: "https://m.economictimes.com/thumb/height-450,width-600,imgsize-42184,msid-93747444/robot-ai-brain_istock.jpg"
-        width: 600
-        height: 450
-        isCached: true
   - title: "Breakthrough in detecting Parkinson’s using AI and breathing patterns"
     excerpt: "An MIT Jameel Clinic-developed device with the appearance of a Wi-Fi router uses a neural network to discern the presence and severity of one of the fastest-growing neurological diseases in the world"
     publishedDateTime: 2022-08-28T11:30:00Z

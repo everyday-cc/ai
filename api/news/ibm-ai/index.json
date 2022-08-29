@@ -107,6 +107,59 @@
       ]
     },
     {
+      "path": "_news/2022-08-22-ai-in-medical-imaging-diagnosis-market-future-trends-outlook-2022-and-forecast-to-2030-by-ge-healthcare-ibm-watson-health-philips-healthcare.md",
+      "title": "AI in Medical Imaging Diagnosis Market Future Trends Outlook 2022, and Forecast to 2030 | By -GE Healthcare, IBM Watson Health, Philips Healthcare",
+      "excerpt": "Aug 22, 2022 (Market Insight Reports) -- New Jersey, United States- The strong development of the AI in Medical Imaging Diagnosis market can be ascribed to the elements related which incorporate market drivers, limitations and amazing open doors ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-medical-imaging-diagnosis-market-future-trends-outlook-2022-and-forecast-to-2030-by--ge-healthcare-ibm-watson-health-philips-healthcare-2022-08-22",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-medical-imaging-diagnosis-market-future-trends-outlook-2022-and-forecast-to-2030-by--ge-healthcare-ibm-watson-health-philips-healthcare-2022-08-22",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-21T22:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-08-19-ibm-ceo-fears-about-artificial-intelligence-are-not-positioned-properly.md",
       "title": "IBM CEO: Fears About Artificial Intelligence 'Are Not Positioned Properly'",
       "excerpt": "IBM's cognitive computer Watson has struck ... Rather than completely replacing most jobs, artificial intelligence will help complement jobs done by humans, she claimed. \"Most important, you ...",
@@ -1301,49 +1354,6 @@
       "provider": {
         "name": "Buffalo Rising",
         "domain": "buffalorising.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-teaching-ai-to-ask-clinical-questions.md",
-      "title": "Teaching AI to ask clinical questions",
-      "excerpt": "Researchers are working toward machine-learning models that can help doctors more efficiently find information in a patient’s health record.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eurekalert.org/news-releases/959260",
-      "originalUrl": "https://www.eurekalert.org/news-releases/959260",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/1e5cc45d-c6cd-4f37-9cbd-7e928649c5f0/Rendition/low-res/Content/Public",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-13T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "EurekAlert!",
-        "domain": "eurekalert.org",
         "images": null,
         "publishers": null,
         "authors": null

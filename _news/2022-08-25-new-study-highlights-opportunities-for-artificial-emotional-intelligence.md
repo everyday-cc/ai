@@ -38,20 +38,6 @@ related:
       name: India Times
       domain: indiatimes.com
     quality: 21
-  - title: "Artifical intelligence model to forecast entire region’s solar output using real-time satellite data"
-    excerpt: "Combining satellite images of Australian rooftops with those of real-time cloud cover to create accurate forecasts of distributed solar output for suburbs and perhaps even whole regions and states is the focus of a new Australian startup,"
-    publishedDateTime: 2022-08-24T05:30:00Z
-    webUrl: "https://www.pv-magazine.com/2022/08/24/artifical-intelligence-model-to-forecast-entire-regions-solar-output-using-real-time-satellite-data/"
-    type: article
-    provider:
-      name: pv magazine International
-      domain: pv-magazine.com
-    quality: 7
-    images:
-      - url: "https://www.pv-magazine.com/wp-content/uploads/2022/08/SolsticeAI-cloud-movement-forecasting-1501x1536-1-e1661243443512-1200x939.png"
-        width: 1200
-        height: 939
-        isCached: true
 
 secured: "i8ld4gr6suVrHfhWQbQVTo4EhQfmvYhpWByeJ0sZrSHH25fDWXqhAJkzeCzLTpPQ9MMfZ9nN7yczQum5oQynUaQbAW2eABkazpsV9LeC+DlrKTLhCAZ75gf47aIXAG5zdjKdPKM6n+Cc7sfeYcoWeIyPLIg8Ik7yESPvWZFIKtQYVY3s7TgwJSBWUxbu++sEyVBHg7DxE+lJSOKGfoIxBjD0jkXaZl7vWxbBevFWuYhm7cjxbd21yD+0DQxr/rRZvMhcbSWa6YFBtP8t16LxaI6hWvZRJLAd9MDDVV/tE8VmwMEODBUiBbObotRXYYCZ9WVplV2YLpRM8lslQQDBZ7HAQ4Q47YpmhNWBTFE8+GV4nsZdT/GQvfoUwJL4Tb02qVyAataDpZCoBUJjXPt1MBo4Fs2LplmfCxlTXChFH8rwuQJV68qu+jS8lV9tgbT0lM2XXw4kakXEnYGzgtvG39UoMh2wDtE9++gfklPIdIFkBdLRQnBJZnCIoeK1lh9iECn5Ofc+LPWWQFb0dAVitQ==;kZBGZM5N2sNW83wp8Qxd0A=="
 ---

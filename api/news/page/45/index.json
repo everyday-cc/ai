@@ -2,6 +2,58 @@
   "page": 45,
   "value": [
     {
+      "path": "_news/2022-07-21-check-out-baidus-futuristic-robotaxi.md",
+      "title": "Check out Baidu’s futuristic robotaxi",
+      "excerpt": "Chinese tech giant Baidu says its next-generation autonomous taxi features the capabilities of a \"skilled driver with 20 years of experience.”",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/",
+      "originalUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 199,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/07/baidu-auto-car-1.jpg?p=1",
+          "width": 1000,
+          "height": 667,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/cars/check-out-baidus-futuristic-robotaxi/?amp",
+      "publishedDateTime": "2022-07-21T02:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-21-new-ai-tool-that-turns-words-into-art-enters-testing-phase.md",
       "title": "New AI tool that turns words into art enters testing phase",
       "excerpt": "A million people eager to dabble with a new artificial intelligence tool that lets them create images simply by describing them with words will soon get their wish, its creators said Wednesday.",
@@ -1081,40 +1133,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-20-the-worldwide-ai-in-healthcare-industry-is-expected-to-reach-2082-billion-by-2030.md",
-      "title": "The Worldwide AI in Healthcare Industry is Expected to Reach $208.2 Billion by 2030",
-      "excerpt": "The global artificial intelligence in healthcare market size is expected to reach USD 208.2 billion by 2030. The market is expected to expand at a CAGR of 38.4% from 2022 to 2030. The growing demand for personalized medicine,",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-worldwide-ai-healthcare-industry-expected-reach-2082-billion-/2022/07/20/9642355.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-worldwide-ai-healthcare-industry-expected-reach-2082-billion-/2022/07/20/9642355.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-20T09:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

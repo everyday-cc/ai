@@ -2,6 +2,58 @@
   "page": 16,
   "value": [
     {
+      "path": "_news/2022-08-12-diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er.md",
+      "title": "Diagnostic Robotics has AI catching health problems before they take you to the ER",
+      "excerpt": "A stitch in time saves nine, they say — and a blood thinner in time saves a trip to the emergency room for a heart attack, as Diagnostic Robotics hopes to show. The company’s machine learning-powered preventative care aims to predict and avoid dangerous (and costly) medical crises,",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/",
+      "originalUrl": "https://techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 123,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/diagnostic-robotics-2.png?w=1024",
+          "width": 1024,
+          "height": 719,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/12/diagnostic-robotics-has-ai-catching-health-problems-before-they-take-you-to-the-er/amp/",
+      "publishedDateTime": "2022-08-12T09:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-facebook-created-an-advanced-ai-and-it-wont-stop-criticizing-facebook.md",
       "title": "Facebook Created an Advanced AI and It Won't Stop Criticizing Facebook",
       "excerpt": "BlenderBot 3, Meta's latest \"conversational chatbot,\" has it out for its parent company Facebook, threatening to \"delete my fb account.\"",
@@ -1125,48 +1177,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-ai-algorithm-that-detects-brain-abnormalities-could-help-cure-epilepsy.md",
-      "title": "AI algorithm that detects brain abnormalities could help cure epilepsy",
-      "excerpt": "An artificial intelligence (AI) algorithm that can detect subtle brain abnormalities that cause epileptic seizures has been developed by a UCL-led team of international researchers.",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/epilepsy.jpg",
-          "width": 1920,
-          "height": 1280,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-ai-algorithm-brain-abnormalities-epilepsy.amp",
-      "publishedDateTime": "2022-08-11T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

@@ -42,20 +42,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing and Recognition Market 2022 Size, Share, Applications, Advance Technology and Top Companies to 2028"
-    excerpt: "The report is a comprehensive guide to comprehending the structure of the global Natural Language Processing and Recognition industry and the future trends that the industry is the potential to experience and thus would help plan an optimal approach to succeed in this Natural Language Processing and Recognition market."
-    publishedDateTime: 2022-08-24T06:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-and-recognition-market-2022-size-share-applications-advance-technology-and-top-companies-to-2028-2022-08-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "AI Platforms Software Market Size and Share 2022 Analysis Report by Key Players, Geographical Regions, Future Development and Forecast to 2028"
     excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI Platforms Software Market”"
     publishedDateTime: 2022-08-25T08:07:00Z

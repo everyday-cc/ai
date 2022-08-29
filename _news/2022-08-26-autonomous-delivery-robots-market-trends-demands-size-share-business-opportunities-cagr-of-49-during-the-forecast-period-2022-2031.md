@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Speech and Voice Recognition Market Size [2019-2026] to Reach US $ 28.3 Billion and Exhibit a CAGR of 19.8%"
-    excerpt: "The speech and voice recognition market size was valued at USD 6.9 Billion in 2018, and is projected to reach USD 28.3 Billion by 2026 growing at a CAGR of 19.8% during the forecast period.  What Information does this report contain?"
-    publishedDateTime: 2022-08-24T05:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-size-2019-2026-to-reach-us-283-billion-and-exhibit-a-cagr-of-198-2022-08-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognitive Services Market Size Predicted To Increase At A Positive CAGR Of 42.6% From 2022 To 2031"
     excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Aug 24, 2022, 03:59 /Comserve / -- The report predicts the global Cognitive Services Market to grow with a CAGR of 42.6% over t"
     publishedDateTime: 2022-08-24T10:06:00Z

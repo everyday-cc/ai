@@ -2,26 +2,26 @@
 category: news
 title: "Self-driving cars: A primer"
 excerpt: "Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won’t drive at all."
-publishedDateTime: 2022-08-28T19:02:00Z
-originalUrl: "https://fox59.com/automotive/self-driving-cars-a-primer/"
-webUrl: "https://fox59.com/automotive/self-driving-cars-a-primer/"
-ampWebUrl: "https://fox59.com/automotive/self-driving-cars-a-primer/amp/"
-cdnAmpWebUrl: "https://fox59-com.cdn.ampproject.org/c/s/fox59.com/automotive/self-driving-cars-a-primer/amp/"
+publishedDateTime: 2022-08-28T21:22:00Z
+originalUrl: "https://wgnradio.com/automotive/self-driving-cars-a-primer/"
+webUrl: "https://wgnradio.com/automotive/self-driving-cars-a-primer/"
+ampWebUrl: "https://wgnradio.com/automotive/self-driving-cars-a-primer/amp/"
+cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/automotive/self-driving-cars-a-primer/amp/"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: FOX59 News
-  domain: fox59.com
+  name: WGN Radio
+  domain: wgnradio.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://fox59.com/wp-content/uploads/sites/21/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280"
+  - url: "https://wgnradio.com/wp-content/uploads/sites/6/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280"
     width: 1280
     height: 855
     isCached: true
@@ -95,6 +95,6 @@ related:
       domain: pulse.ng
     quality: 0
 
-secured: "+bFqNeuhWQXdAKHz2IoaYdzKscfuuZsPvxg0t1dmD2DuDYLlqJMA59QM3hIKGW4BCRsW0VLzjmz8k3l5DPVi965dHONqpZXSxzvXl8Ll4zEPkHH5g/zwCc8jaX0gr8CBCydTcYVVSgMyRbdLommxoMLW1qWTn1LJw+FsgO//OXgFrPH6Ny8+HqhO8gCrAlXGPXItYmI7EgEE63jM87yc9CMEwNjdSekeX2chfi6PU9e0nvauT+Ifr7G1ud9NfNu8R8sjZt9+PuziaqKFhr/ytk1kvJvhRnvJiI0kZLR4CngtfzTYv4AscRANcFGaSZdFkxvv+wgoP7VlNBRmQk6Kld612+Y8Ic8GXDqZJ5XV1GI=;yGd2s49E1+2uCk9SOdddAw=="
+secured: "xPqt5CNfetY6n2Jn7jYfz5QB5nmsheilaRp3tF4ne4bp7CowNWp1p9/Uc7KW4eVB/uWhr7xfYXCyEnlRPPwTUQFLTSggyQJPTzv7qE2cF9mZnUU++Lzga38nY7LGUJGgDbs8GILkqjUMuDJOtS6/uyLQNSamY3H9wxNSvtRcA09dyOR0ZKR5iaTjEvMGQtZcavQyp729sInQzWRYmPJSOmczLWjKerUvPbiRRfjtu7XKj+RQitalTcDauQNg0ty/CILJrZq1bii8geYp31F/XByqo/12c0F5qgzB3SQORI+B9Kyq/6XNAUZ1j52x6WikaZ4DRUTfwunbW/LHstF/SHuuDkWTiA/l7XmnehZO9Pg=;cKSaE58lQkuMqa3wLr7b0g=="
 ---
 

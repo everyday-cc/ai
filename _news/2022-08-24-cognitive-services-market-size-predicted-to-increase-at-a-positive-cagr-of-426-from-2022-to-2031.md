@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Global Speech and Voice Recognition Market Size [2019-2026] to Reach US $ 28.3 Billion and Exhibit a CAGR of 19.8%"
-    excerpt: "The speech and voice recognition market size was valued at USD 6.9 Billion in 2018, and is projected to reach USD 28.3 Billion by 2026 growing at a CAGR of 19.8% during the forecast period.  What Information does this report contain?"
-    publishedDateTime: 2022-08-24T05:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/global-speech-and-voice-recognition-market-size-2019-2026-to-reach-us-283-billion-and-exhibit-a-cagr-of-198-2022-08-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Autonomous Delivery Robots Market: Trends, Demands, Size, Share, Business Opportunities, CAGR Of ~49% During The Forecast Period 2022 2031"
     excerpt: "The global autonomous delivery robots market is estimated to occupy a large amount of revenue by growing at a CAGR of ~49% during the forecast period, i.e., 2022 – 2031 , ascribing to the rising affordability and return on investment on several infrastructure light robots,"
     publishedDateTime: 2022-08-26T07:02:00Z

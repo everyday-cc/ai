@@ -2,6 +2,40 @@
   "page": 76,
   "value": [
     {
+      "path": "_news/2022-06-26-if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.md",
+      "title": "If we’re ever going to accepting driverless cars, a trusted brand matters",
+      "excerpt": "But the idea of a fully automated driving mode, where artificial intelligence takes control ... in the United States do not feel safe in a driverless car. Even though consumers are skeptical ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thespec.com/ts/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html",
+      "originalUrl": "https://www.thespec.com/ts/autos/opinion/2022/06/25/if-were-ever-going-to-accepting-driverless-cars-a-trusted-brand-matters.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-25T16:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hamilton Spectator",
+        "domain": "thespec.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-26-is-artificial-intelligence-supported-caries-detection-cost-effective.md",
       "title": "Is Artificial Intelligence-supported Caries Detection Cost-effective?",
       "excerpt": "A new study assessed the cost-effectiveness of artificial intelligence-supported detection of proximal caries and its benefits in caries management.",
@@ -1116,57 +1150,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-how-to-use-human-centered-ai-with-forethought-and-nea.md",
-      "title": "How to use human-centered AI with Forethought and NEA",
-      "excerpt": "Deon Nicholas is the CEO and co-founder of Forethought, the AI company whose mission is to transform customer experiences with human-centered AI. Forethought has raised over $100 million in venture capital,",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/24/how-to-use-human-centered-ai-with-forethought-and-nea/",
-      "originalUrl": "https://techcrunch.com/2022/06/24/how-to-use-human-centered-ai-with-forethought-and-nea/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 117,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/TCL-2022-06-29-featured-1920x1080-1.jpg?w=1024",
-          "width": 1024,
-          "height": 576,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/24/how-to-use-human-centered-ai-with-forethought-and-nea/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/24/how-to-use-human-centered-ai-with-forethought-and-nea/amp/",
-      "publishedDateTime": "2022-06-24T08:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

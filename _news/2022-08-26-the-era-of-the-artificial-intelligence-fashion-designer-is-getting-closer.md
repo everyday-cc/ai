@@ -36,20 +36,6 @@ related:
         width: 1528
         height: 800
         isCached: true
-  - title: "Artifical intelligence model to forecast entire region’s solar output using real-time satellite data"
-    excerpt: "Combining satellite images of Australian rooftops with those of real-time cloud cover to create accurate forecasts of distributed solar output for suburbs and perhaps even whole regions and states is the focus of a new Australian startup,"
-    publishedDateTime: 2022-08-24T05:30:00Z
-    webUrl: "https://www.pv-magazine.com/2022/08/24/artifical-intelligence-model-to-forecast-entire-regions-solar-output-using-real-time-satellite-data/"
-    type: article
-    provider:
-      name: pv magazine International
-      domain: pv-magazine.com
-    quality: 7
-    images:
-      - url: "https://www.pv-magazine.com/wp-content/uploads/2022/08/SolsticeAI-cloud-movement-forecasting-1501x1536-1-e1661243443512-1200x939.png"
-        width: 1200
-        height: 939
-        isCached: true
 
 secured: "iyPYVwn0NQWyVpu867J9G2C4bnsRY1TVyrGhzaTa2yN8cp6pAqAZUgE+DO5aNwqPetU/eROoy0xkcmYu1+rYgVDy0owF/wiDdWkX/0fsIc0vb9XmX93Qh2cTfFfKiK6qaGl5pPpESUzscqon+nj4AGN8+kc+QnQrEooShrxiwAWErnWy+n9079IP9cm7+rCCc5zRyHvv+OxalZpD0uMMiDWDcaAYOYfULyM8ScF/w4xjMIDDGQahzox+bA5vquBI6x+PernAsTLaXdnxTV4fkXoIb3/RzVFzBtCMgkTy+rPCUypASZN7eZK245LW3D2xsnPVoQ17uguuTFbL13aLgBq2Pp8aOac4p6ekmXnp+wJHsTgi19tVjdR/1vgR7NHWbuvaZfLTZ8Yg/oM8Vk6/6yYhxC+0iPOPyGxLTrWjHJzJZObGxWmp1PBcuYmLOZhTwjPUyU0uc9GEatqJAEiUFsYFNa3xZ+OlBJdV4TcYZNErXAJCHCnN8TWBjHNSkjHFoBCwa2RlJn1OLC1nn+KtlQ==;bCZOYbbn/GGdKTbPl0Ncmw=="
 ---

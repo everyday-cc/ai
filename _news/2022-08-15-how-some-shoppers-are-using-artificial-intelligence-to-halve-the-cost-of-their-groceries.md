@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - Facebook AI
 
 images:
   - url: "https://resources.stuff.co.nz/content/dam/images/4/z/0/6/v/1/image.related.StuffLandscapeSixteenByNine.1420x800.254fg9.png/1660532362353.jpg"

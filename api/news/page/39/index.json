@@ -2,6 +2,49 @@
   "page": 39,
   "value": [
     {
+      "path": "_news/2022-07-27-facial-recognition-software-helps-reunite-lost-or-missing-pets.md",
+      "title": "Facial recognition software helps reunite lost or missing pets",
+      "excerpt": "That’s estimated to be over 10 million pets a year. But with Petco Love’s facial recognition technology, one click could bring them home.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets",
+      "originalUrl": "https://www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://x-default-stgec.uplynk.com/ausw/slices/85a/1caad701706c40c597cac38040cf164a/85abf601ec2949c0919fda7670f9e3ae/poster_257abd1768084f24bf2af558685367ec.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets?_amp=true",
+      "cdnAmpWebUrl": "https://www-ksby-com.cdn.ampproject.org/c/s/www.ksby.com/news/local-news/facial-recognition-software-helps-reunite-lost-or-missing-pets?_amp=true",
+      "publishedDateTime": "2022-07-26T17:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KSBY 6",
+        "domain": "ksby.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-27-a-top-data-scientist-at-bristol-myers-squibb-shares-how-artificial-intelligence-is-transforming-the-pharma-giant-from-chatbots-to-metrics.md",
       "title": "A top data scientist at Bristol Myers Squibb shares how artificial intelligence is transforming the pharma giant, from chatbots to metrics",
       "excerpt": "The New Jersey drug giant Bristol Myers Squibb is quietly testing several artificial-intelligence programs, hoping the ideas can make pharmaceutical research more efficient and powerful.",
@@ -1114,57 +1157,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-26-artificial-intelligence-in-agriculture-another-place-where-medical-techniques-can-help.md",
-      "title": "Artificial Intelligence In Agriculture – Another Place Where Medical Techniques Can Help",
-      "excerpt": "Tools which help to more efficiently manage agriculture are critical. Artificial intelligence is finding its way into an increasing number of agricultural applications, and analysis to minimize the impact of BRD is one of the latest.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davidteich/2022/07/26/artificial-intelligence-in-agriculture--another-place-where-medical-techniques-can-help/",
-      "originalUrl": "https://www.forbes.com/sites/davidteich/2022/07/26/artificial-intelligence-in-agriculture--another-place-where-medical-techniques-can-help/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/5f282315f48daeb3a6621465/0x0.jpg?format=jpg&crop=876,493,x0,y24,safe&width=1200",
-          "width": 876,
-          "height": 493,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davidteich/2022/07/26/artificial-intelligence-in-agriculture--another-place-where-medical-techniques-can-help/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davidteich/2022/07/26/artificial-intelligence-in-agriculture--another-place-where-medical-techniques-can-help/amp/",
-      "publishedDateTime": "2022-07-26T07:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

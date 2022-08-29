@@ -2,6 +2,40 @@
   "page": 105,
   "value": [
     {
+      "path": "_news/2022-06-07-how-to-implement-ai-ethics-in-a-company-part-2.md",
+      "title": "How to Implement AI Ethics in a Company, Part 2",
+      "excerpt": "AI ethics like data privacy and transparent algorithms are rapidly becoming a key risk requirement, as AI becomes a business necessity.",
+      "sourceUrl": null,
+      "webUrl": "https://www.brinknews.com/how-to-implement-ai-ethics-in-a-company-part-2/",
+      "originalUrl": "https://www.brinknews.com/how-to-implement-ai-ethics-in-a-company-part-2/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T15:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Brink – The Edge of Risk",
+        "domain": "brinknews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-07-axons-taser-drone-plans-prompt-ai-ethics-board-resignations.md",
       "title": "Axon’s Taser Drone Plans Prompt AI Ethics Board Resignations",
       "excerpt": "A majority of Axon’s AI ethics board resigned in protest yesterday, following an announcement last week that the company planned to equip drones with Tasers and cameras as a way to end mass shootings in schools. The company backed down on its proposal ...",
@@ -1104,49 +1138,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-06-from-e-commerce-to-omnichannel-consumers-drive-retails-digital-transformation-in-mea.md",
-      "title": "From e-commerce to Omnichannel, Consumers Drive Retail’s Digital Transformation in MEA",
-      "excerpt": "By Ola Williams The pandemic left little room for error when it came to adapting to the new normal. For retail this meant e-commerce experienced a renaissance, “omnichannel” received a lot of",
-      "sourceUrl": null,
-      "webUrl": "https://www.thisdaylive.com/index.php/2022/06/06/from-e-commerce-to-omnichannel-consumers-drive-retails-digital-transformation-in-mea/",
-      "originalUrl": "https://www.thisdaylive.com/index.php/2022/06/06/from-e-commerce-to-omnichannel-consumers-drive-retails-digital-transformation-in-mea/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/thisday-846548948316-wp-data/wp-media/0b19560d-img-20220607-wa0004.jpg",
-          "width": 1000,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-06T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "This Day",
-        "domain": "thisdaylive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }

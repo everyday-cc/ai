@@ -2,6 +2,49 @@
   "page": 36,
   "value": [
     {
+      "path": "_news/2022-07-28-campers-build-underwater-robots-that-help-fight-pollution-on-singer-island.md",
+      "title": "Campers build underwater robots that help fight pollution on Singer Island",
+      "excerpt": "IT ALSO HELPS THEM LEARN TO WORK AS A TEAM. NOW THESE ROBOTS WILL BE REMOTE CONTROLLED, MANY THAT MARINE SCIENTIST USE CAN HELP STUDY UNDERSEA VOLCANOS AND EVEN INSTALL SENSORS ON THE SEA FLOOR.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wpbf.com/article/florida-singer-island-robot-stem-camp-school-education/40743283",
+      "originalUrl": "https://www.wpbf.com/article/florida-singer-island-robot-stem-camp-school-education/40743283",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/poster-image-2022-07-28t121419-156-1659025030.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+          "width": 955,
+          "height": 537,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wpbf.com/amp/article/florida-singer-island-robot-stem-camp-school-education/40743283",
+      "cdnAmpWebUrl": "https://www-wpbf-com.cdn.ampproject.org/c/s/www.wpbf.com/amp/article/florida-singer-island-robot-stem-camp-school-education/40743283",
+      "publishedDateTime": "2022-07-28T09:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPBF",
+        "domain": "wpbf.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-28-how-ai-is-improving-warehouse-performance-and-easing-supply-chain-disruptions.md",
       "title": "How AI is improving warehouse performance and easing supply chain disruptions",
       "excerpt": "AI and ML are designed into the foundation of ... Stress-testing supply chains needs to start in the warehouse, where small process improvements made at scale can make a difference in keeping ...",
@@ -1119,59 +1162,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-28-gpu-as-a-service-market-to-gain-significant-momentum-across-the-healthcare-sector.md",
-      "title": "GPU as a service market to gain significant momentum across the healthcare sector",
-      "excerpt": "The MarketWatch News Department was not involved in the creation of this content. Jul 28, 2022 (Market Insight Reports) -- The increasing penetration of the Industrial Internet of Things (IIoT ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-to-gain-significant-momentum-across-the-healthcare-sector-2022-07-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/gpu-as-a-service-market-to-gain-significant-momentum-across-the-healthcare-sector-2022-07-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-27T22:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],
