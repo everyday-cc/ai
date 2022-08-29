@@ -20,17 +20,6 @@ topics:
   - Machine Learning
   - AI
 
-related:
-  - title: "Vertex Group (Global Services) launches Vertex Technologies - The technology arm of Vertex Group"
-    excerpt: "Technology has opened up new possibilities for accelerating growth and information transmission. These are the two significant objectives behind the launch of this new line of business under Vertex Group."
-    publishedDateTime: 2022-08-24T20:26:00Z
-    webUrl: "https://news.webindia123.com/news/articles/Business/20220824/3976237.html"
-    type: article
-    provider:
-      name: Webindia 123
-      domain: webindia123.com
-    quality: 0
-
 secured: "3yKRWE934oN0hgGtefvJyB6MHJBxMi1I3dM0Js47XOah+2v631bS1diUWFkE57zVuaJ1tu019kyyv5kAqgI2cxZL355AETUoGX819jMVzsx7KgHILUXOZPGNLT6AUD4f/CFx+OcG+jSNYPwuYIQvqRXFf8umwPSXxFJ5PFAAKdxs25WmX2IuAb+wfSb4oQ4NuMCR0Lx8gO3sNv1fWpeXNwTByCa2wT5j9+Tyg1b4v+YFCBoEE4WxT1D6ECBwIZ7z2P13p33tJh9hUCKub/5upFzJXwODRX0YQLvIW6rjZzPSM3bvPW3LKugX7sDu2YuEB1nwGnabY3YCTXyz874VTwMA33zoSP/XUX4zM0WL5i0=;ilQWfs4NMzpWv7hP5pDvTA=="
 ---
 

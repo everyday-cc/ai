@@ -2,6 +2,110 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-08-who-is-shivon-zilis-meet-the-neuralink-exec-and-ai-expert-who-had-twins-with-elon-musk.md",
+      "title": "Who is Shivon Zilis? Meet the Neuralink exec and AI expert who had twins with Elon Musk",
+      "excerpt": "Neuralink exec Shivon Zilis is reported to be the mother of Elon Musk's 9-month-old twins, who were born weeks prior to his second child with Grimes.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/shivon-zilis-reported-mother-elon-musk-twins-2022-7",
+      "originalUrl": "https://www.businessinsider.com/shivon-zilis-reported-mother-elon-musk-twins-2022-7",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 81,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/62c7374e99259b00181e5dcc?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/shivon-zilis-reported-mother-elon-musk-twins-2022-7?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/shivon-zilis-reported-mother-elon-musk-twins-2022-7?amp",
+      "publishedDateTime": "2022-07-07T12:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
+      "path": "_news/2022-07-08-artificial-intelligenceaichips-market-2022-risk-analysis-macroeconomic-trends-market-research-report.md",
+      "title": "Artificial Intelligence(AI)Chips Market 2022, Risk Analysis & Macroeconomic Trends Market Research Report",
+      "excerpt": "The global Artificial Intelligence(AI)Chips market size is projected to reach multi million by 2028, in comparision to 2021, at unexpected CAGR during 2022-2028 (Ask for Sample Report). The robust analysis of the Artificial Intelligence(AI)Chips is structured using a combination of primary and secondary factors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceaichips-market-2022-risk-analysis-macroeconomic-trends-market-research-report-2022-07-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligenceaichips-market-2022-risk-analysis-macroeconomic-trends-market-research-report-2022-07-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-07T11:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-08-chip-makers-press-for-standardized-fp8-format-for-ai.md",
       "title": "Chip Makers Press For Standardized FP8 Format For AI",
       "excerpt": "Nvidia introduced its GH100, the first GPU based on the new “Hopper” architecture, which is aimed at both HPC and AI workloads, and importantly",
@@ -1332,103 +1436,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-govt-unveils-w1tr-spending-package-for-ai-chip-dominance.md",
-      "title": "Govt. unveils W1tr spending package for AI chip dominance",
-      "excerpt": "The government will also support feasibility studies for AI chips and endorse collaborative research projects with counterparts in the United States. The Science Ministry said the nation‘s focus ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.koreaherald.com/view.php?ud=20220627000640",
-      "originalUrl": "https://www.koreaherald.com/view.php?ud=20220627000640",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://res.heraldm.com/phpwas/restmb_idxmake_amp.php?idx=680&simg=%2Fcontent%2Fimage%2F2022%2F06%2F27%2F20220627000640_0.jpg",
-          "width": 630,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.koreaherald.com/amp/view.php?ud=20220627000640",
-      "cdnAmpWebUrl": "https://m-koreaherald-com.cdn.ampproject.org/c/s/m.koreaherald.com/amp/view.php?ud=20220627000640",
-      "publishedDateTime": "2022-06-27T08:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Korea Herald",
-        "domain": "koreaherald.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-27-amazon-just-say-no-the-looming-horror-of-ai-voice-replication.md",
-      "title": "Amazon, just say no: The looming horror of AI voice replication",
-      "excerpt": "If an AI like Alexa really can convert less than a minute of recorded voice into real-time speech, it opens the door to dystopian gaslighting at a whole new level. It's frightening, creepy, and disturbing.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
-      "originalUrl": "https://www.zdnet.com/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 93,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/c88a1fe04f375fb5f453e199411c0f747b9bc8ce/2022/06/27/3d36094a-0ee2-4e13-92b8-74e1cd38fa8c/gettyimages-543194887-cloud-faces.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/just-say-no-the-potential-horrors-of-ai-voice-replication/",
-      "publishedDateTime": "2022-06-27T05:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Natural Language Processing",
-        "AI Hardware",
-        "AI in Robotics"
       ]
     }
   ],

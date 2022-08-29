@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-29T10:58:00Z
 originalUrl: "https://menafn.com/1104774038/Global-Artificial-Intelligence-In-Cancer-Diagnosis-And-Therapy-Market-Worth-562-Billion-By-2030"
 webUrl: "https://menafn.com/1104774038/Global-Artificial-Intelligence-In-Cancer-Diagnosis-And-Therapy-Market-Worth-562-Billion-By-2030"
 type: article
-quality: 40
+quality: 42
 heat: -1
 published: false
 
@@ -109,20 +109,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?336595"
         width: 374
         height: 250
-        isCached: true
-  - title: "AI in FinTech Global Market Report 2022: Need for Fraud Detection in Fintech & Financial Institutions Driving Adoption - ResearchAndMarkets.com"
-    excerpt: "The “AI in FinTech Global Market Report 2022” report has been added to ResearchAndMarkets.com’s offering. The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25."
-    publishedDateTime: 2022-08-29T10:26:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Digital Twin Financial Services And Insurance Market Size Worth USD 12.07 Billion By 2029, Growing A CAGR Of 16.30%"
     excerpt: "Global Digital Twin Financial Services and Insurance Market Sizing Digital Twin Market, By Technology (IoT and IIoT, Blockchain, Artificial Intelligence and Machine Learning, Augmented Reality, Virtual Reality, and Mixed Reality, Big Data Analytics ..."

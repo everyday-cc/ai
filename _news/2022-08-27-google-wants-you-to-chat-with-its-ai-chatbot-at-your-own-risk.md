@@ -49,6 +49,24 @@ related:
       name: DNA India
       domain: dnaindia.com
     quality: 17
+  - title: "Google AI Chatbot Now Open for Public Testing"
+    excerpt: "Registrations are open for early access, with AI Test Kitchen serving rotating demos centered around cutting-edge AI technologies"
+    publishedDateTime: 2022-08-29T13:06:00Z
+    webUrl: "https://analyticsindiamag.com/google-ai-chatbot-now-open-for-public-testing/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 17
+  - title: "Now is the time to queue up to speak with Google’s chatbot"
+    excerpt: "After all, LaMDA 2 is Google’s baby, and AI was given its own track at Google I/O 2022. Google revealed during the event that anyone may now contribute to the development of conversational AI. Beta users will be able to engage with the NLP model in a restricted fashion using the AI Test Kitchen app."
+    publishedDateTime: 2022-08-27T18:00:00Z
+    webUrl: "https://bestgamingpro.com/now-is-the-time-to-queue-up-to-speak-with-googles-chatbot/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 4
 
 secured: "d3QDcTr9/4XN+iEEvL4Cc6+fBvQgJa3dkITMzU2fi4XJC2iosFexNANDTgrcndewflZzTziGEjbmYBVjKqq5R+1YtMRhOrwmaiVB477dy9FD6gNqVzJSs3lsWswVN0vb7GtNXOspIuy6gT4sijILEDPoK6AlkxDyzfeyJwtbn2qhqT9Cpx9Idm/hlRY6H58k2UDTR2GKXLhPRjtmF05+PZcmqp+0CV6R0xs64FLwtkPlltSmnTzgv+axvXAsGLOKzcFZDA5ufSvxGBCO4p5F9onwskzl7kmEbBKy40SZuFa6hwi7BC5bvTcvIGS2ufHAtkqJpj0TajCPJkzVEwxUT/dv39fRphCXytB0tNdhBx0=;jnZmihoDfuudw3KEDRaA7w=="
 ---

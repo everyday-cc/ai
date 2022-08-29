@@ -155,6 +155,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Facial Recognition Devices Market Size and Share 2022 Analysis Report by Key Players, Geographical Regions, Future Development and Forecast to 2028"
+    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Facial Recognition Devices"
+    publishedDateTime: 2022-08-26T12:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-size-and-share-2022-analysis-report-by-key-players-geographical-regions-future-development-and-forecast-to-2028-2022-08-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "GzOS7gK/ybIwUsdfUiaaXOuRCo35GVYyMXm5VW15Mfn6hZpsW/HhJLMAFbD+YKozDEqptbcgESOydntF/doXbzodg/yAB0r4gnNvDWfWP0y4XlaTOEF3Q5yTFMuPE2C14RwQ9oDRFlQ7NuEpL8bzEfiML3VwdWwxpU4zwlY6CIAvR6oqg2x5k7tTxQM414XOF7rtLJXH/oVFvutkCw6EYF5dtTdU8LEYCyAJ8fLopmZxIGkP3BBdO60iuOb5PzDDuNXZH0Ju33o1EDZ5rTXv4VuFzMZdul7IVVmJXFnvacYA7ACeUtBx6oK0qO19Zn5ncIEn61Im2vHWYgTaMwXIuPj/mQ6n3izJ11FNJNmrkwA=;k/gPdFHhXwin9qDMAWJWpw=="
 ---

@@ -7,8 +7,8 @@ originalUrl: "https://uk.pcmag.com/cars-auto/142199/proposed-uk-law-humans-not-l
 webUrl: "https://uk.pcmag.com/cars-auto/142199/proposed-uk-law-humans-not-liable-for-self-driving-vehicle-accidents"
 type: article
 quality: 54
-heat: 74
-published: true
+heat: 64
+published: false
 
 provider:
   name: PC Magazine
@@ -29,22 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "The UK is upgrading military buggies into self-driving vehicles"
-    excerpt: "The purpose of the upgrade is to allow for a buggy to be able to carry out a resupply mission autonomously, keeping humans out of danger."
-    publishedDateTime: 2022-08-24T21:01:00Z
-    webUrl: "https://www.popsci.com/technology/self-driving-military-buggy/"
-    ampWebUrl: "https://www.popsci.com/technology/self-driving-military-buggy/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/self-driving-military-buggy/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 44
-    images:
-      - url: "https://www.popsci.com/uploads/2022/08/24/2022_08_16_TeleOperation_Rheinmetall_Path_for_Theseus_2_2.jpeg?auto=webp"
-        width: 1000
-        height: 667
-        isCached: true
   - title: "Self-Driving Vehicles Not Ready for Prime Time, Toyota Says"
     excerpt: "Toyota engineers express doubts about full self-driving technology during an event highlighting its own technology, including a trailer that follows the “tow” vehicle autonomous instead of being physically connected by a hitch."
     publishedDateTime: 2022-08-25T14:20:00Z

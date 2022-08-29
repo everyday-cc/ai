@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-29T12:02:00Z
 originalUrl: "https://apnews.com/press-release/business-wire/technology-science-applications-international-corp-e77558c483ad4820a6514611ca6911d0"
 webUrl: "https://apnews.com/press-release/business-wire/technology-science-applications-international-corp-e77558c483ad4820a6514611ca6911d0"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Associated Press

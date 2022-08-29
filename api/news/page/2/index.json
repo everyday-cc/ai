@@ -2,6 +2,177 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-27-artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system.md",
+      "title": "Artificial Intelligence: Path-breaking revolution in Indian Healthcare System",
+      "excerpt": "In the form of machine learning, AI has the capability for the development of precision medicine, which is the future of advanced care. Although early..",
+      "sourceUrl": null,
+      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-93813886,imgsize-159690,width-1200,height-628,overlay-ethealthworld/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886",
+      "publishedDateTime": "2022-08-27T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-how-artificial-intelligence-is-finding-critical-heart-failure-patients.md",
+      "title": "How artificial intelligence is finding critical heart failure patients",
+      "excerpt": "Over 6 million American adults suffer from heart failure. But now, doctors are harnessing AI technology to catch the problem before it's fatal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wqad.com/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
+      "originalUrl": "https://www.wqad.com/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.tegna-media.com/assets/WQAD/images/995c409e-08a4-4d28-9233-f96e3239ae90/995c409e-08a4-4d28-9233-f96e3239ae90_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wqad.com/amp/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
+      "cdnAmpWebUrl": "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
+      "publishedDateTime": "2022-08-26T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WQAD",
+        "domain": "wqad.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-ai-enabled-fish-gate-filters-invasive-salmon-out-of-norwegian-waterways.md",
+      "title": "AI-enabled fish gate filters invasive salmon out of Norwegian waterways",
+      "excerpt": "After being introduced to Russia's White Sea in the 1950s, non-native Pacific salmon have since spread along Norway's coastline and into its rivers. In an effort to control their numbers, an AI-enabled fish-identifying gate has recently been installed on a Norwegian river.",
+      "sourceUrl": null,
+      "webUrl": "https://newatlas.com/environment/ai-fish-gate-atlantic-pacific-salmon/",
+      "originalUrl": "https://newatlas.com/environment/ai-fish-gate-atlantic-pacific-salmon/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.newatlas.com/dims4/default/06faac6/2147483647/strip/true/crop/1161x610+0+82/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F07%2F97%2F0dadfea54ffc8c1d4c7ec4584179%2Fscreen-shot-2022-08-26-at-1.02.26%20PM.jpeg&na.image_optimisation=0",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-26T13:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Atlas",
+        "domain": "newatlas.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-jack-henry-jkhy-to-unveil-financial-crimes-defender-platform.md",
+      "title": "Jack Henry (JKHY) to Unveil Financial Crimes Defender Platform",
+      "excerpt": "JKHY equipped the platform’s analytics engine with the globally largest RiskOps platform called Feedzai. With the Financial Crimes Defender platform, Jack Henry aims to provide financial institutions with advanced technological capabilities,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/jack-henry-jkhy-to-unveil-financial-crimes-defender-platform",
+      "originalUrl": "https://www.nasdaq.com/articles/jack-henry-jkhy-to-unveil-financial-crimes-defender-platform",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/jack-henry-jkhy-to-unveil-financial-crimes-defender-platform?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/jack-henry-jkhy-to-unveil-financial-crimes-defender-platform?amp",
+      "publishedDateTime": "2022-08-26T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-26-run-image-segmentation-with-amazon-sagemaker-jumpstart.md",
       "title": "Run image segmentation with Amazon SageMaker JumpStart",
       "excerpt": "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models across popular",
@@ -357,7 +528,7 @@
       "originalUrl": "https://www.zdnet.com/article/google-opens-up-its-experimental-ai-chatbot-for-public-testing/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 127,
       "tags": null,
       "images": [
         {
@@ -408,7 +579,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-2022-size-share-sales-growth-dynamics-top-vendors-and-forecast-to-2028-2022-08-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 162,
+      "heat": 172,
       "tags": null,
       "images": [
         {
@@ -891,49 +1062,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-26-can-artificial-intelligence-improve-colorectal-cancer-recurrence-prediction.md",
-      "title": "Can Artificial Intelligence Improve Colorectal Cancer Recurrence Prediction",
-      "excerpt": "Using artificial intelligence (AI), scientists have created an algorithm to improve the prediction of colorectal cancer recurrence.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/can-artificial-intelligence-improve-colorectal-cancer-recurrence-prediction-208408-1.htm",
-      "originalUrl": "https://www.medindia.net/news/can-artificial-intelligence-improve-colorectal-cancer-recurrence-prediction-208408-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/colon-cancer.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/can-artificial-intelligence-improve-colorectal-cancer-recurrence-prediction-208408-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-improve-colorectal-cancer-recurrence-prediction-208408-1.htm",
-      "publishedDateTime": "2022-08-25T11:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
       "path": "_news/2022-08-25-build-a-multi-lingual-document-translation-workflow-with-domain-specific-and-language-specific-customization.md",
       "title": "Build a multi-lingual document translation workflow with domain-specific and language-specific customization",
       "excerpt": "In the digital world, providing information in a local language isn’t novel, but it can be a tedious and expensive task. Advancements in machine learning (ML) and natural language processing (NLP) have made this task much easier and less expensive. We have seen increased adoption of ML for multi-lingual",
@@ -1043,17 +1171,17 @@
       "title": "AI Startup Wants to Make Foreign Call Center Employees Sound White",
       "excerpt": "Sanas argues that its technology can be empowering for call center employees by removing bias and limiting misunderstandings during phone conversations. Critics say it's erasure.",
       "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/ai-startup-wants-to-make-foreign-call-center-employees-sound-white",
-      "originalUrl": "https://www.pcmag.com/news/ai-startup-wants-to-make-foreign-call-center-employees-sound-white",
+      "webUrl": "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white",
+      "originalUrl": "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://i.pcmag.com/imagery/articles/05P40am6RlXf9q8pCpYsR1f-1.fit_lim.size_1200x630.v1661442988.jpg",
-          "width": 1120,
-          "height": 630,
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/a/ai-startup/ai-startup-wants-to-make-foreign-call-center-employees-sound_3ra4.1200.jpg",
+          "width": 1200,
+          "height": 675,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -1086,153 +1214,7 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-smarter-robots-ai-machine-learning-and-3d-vision.md",
-      "title": "Smarter Robots: AI, Machine Learning, and 3D Vision",
-      "excerpt": "New systems from ABB, AMT, Pearson Packaging Systems, Schubert, and Shape Process Automation include new Artificial Intelligence features.",
-      "sourceUrl": null,
-      "webUrl": "https://www.packworld.com/machinery/robotics/article/22340562/smarter-robots-ai-machine-learning-and-3d-vision",
-      "originalUrl": "https://www.packworld.com/machinery/robotics/article/22340562/smarter-robots-ai-machine-learning-and-3d-vision",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.packworld.com/files/base/pmmi/all/image/2022/07/Mitarbeiter_Cobot_032_20211020.62d891ea15c52.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
-          "width": 1200,
-          "height": 899,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T09:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Packaging World",
-        "domain": "packworld.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-join-us-in-the-ai-test-kitchen.md",
-      "title": "Join us in the AI Test Kitchen",
-      "excerpt": "As AI technologies continue to advance, they have the potential to unlock new experiences that support more natural human-computer interactions. We see a future where you can find the information you’re looking for in the same conversational way you speak to friends and family. While there’s still lots",
-      "sourceUrl": null,
-      "webUrl": "https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/",
-      "originalUrl": "https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image_louDEPv.max-1300x1300.png",
-          "width": 1300,
-          "height": 731,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/amp/",
-      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/join-us-in-the-ai-test-kitchen/amp/",
-      "publishedDateTime": "2022-08-25T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Google",
-        "domain": "blog.google",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-googles-new-app-lets-you-experimental-ai-systems-like-lamda.md",
-      "title": "Google’s new app lets you experimental AI systems like LaMDA",
-      "excerpt": "Google has launched AI Test Kitchen, an app previewed at Google I/O 2022 that lets users test experimental systems, including LaMDA, developed by the company's internal research divisions.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/",
-      "originalUrl": "https://techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1230444599-1-e1660816546129.jpg?w=1024",
-          "width": 1024,
-          "height": 575,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/amp/",
-      "publishedDateTime": "2022-08-25T08:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

@@ -3,11 +3,11 @@ category: news
 title: "AI Startup Wants to Make Foreign Call Center Employees Sound White"
 excerpt: "Sanas argues that its technology can be empowering for call center employees by removing bias and limiting misunderstandings during phone conversations. Critics say it's erasure."
 publishedDateTime: 2022-08-25T16:56:00Z
-originalUrl: "https://www.pcmag.com/news/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
-webUrl: "https://www.pcmag.com/news/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
+originalUrl: "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
+webUrl: "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
 type: article
-quality: 67
-heat: 87
+quality: 69
+heat: 89
 published: true
 
 provider:
@@ -19,12 +19,13 @@ provider:
       height: 50
 
 topics:
+  - Natural Language Processing
   - AI
 
 images:
-  - url: "https://i.pcmag.com/imagery/articles/05P40am6RlXf9q8pCpYsR1f-1.fit_lim.size_1200x630.v1661442988.jpg"
-    width: 1120
-    height: 630
+  - url: "https://sm.pcmag.com/t/pcmag_uk/news/a/ai-startup/ai-startup-wants-to-make-foreign-call-center-employees-sound_3ra4.1200.jpg"
+    width: 1200
+    height: 675
     isCached: true
 
 related:
@@ -59,6 +60,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "Ificr7Koa8URQvaGo/ydQ+O9sMb+RM6vjkQa5mvEFi1SUncxAssbYPtx4wNvMiKOVeI8U/p/iDS1ncXyPJQANoDfOLbRx7VpWs/Qj2U+pqShjC/Ebi9uj7nw+dKCZ4fuVBzMgc3p+XV20Gr1toN3XWZxsavS3vUSONE8fTI6Y/IwmiVSrIiujP8aDCgcZL4QZ/ALmUio08NqfJeryaDu/vsdoilnqZpZc57BrFqwNTwPyV3Vb5vuxB0mGw7y/U5kLgdO4reJpiXjFL057Q7anFvM3tNEx0pho6n6XEfTEzLUhRn3rl5hwy0A32C8nCu33/LMqJx+igrcPBXKjmZqXdrE7PTiZJpCgDrjBpo1Vni/ScuZ3t3qAisXV3JCsfrP2dCF6DMIv9r2cyEUqkOR2BDsdM46tNml3CBWQBLtlWIos15b4pAI8SCeS1egMLpeMTTm2A2wymgcCwY73lEZK2FgiO6MaNLeuRsSxXLQE0n4jy0tLQMPlv0z3zdZPSmRWBQcN3DeCFyUYmpgC2EY1g==;9cXYdlJFisrRiqedvz5imQ=="
+secured: "/qOdq87RZdIvhOimftwVpdEeJ6Sihg4fJg2q8OIaBO6LpaMRFMTY0O0ufej86W2XzrvHS0zwgH6+zZgVSkbVWLdbhX7frXv4gsbGZ8ysAVvGz8RcW+wzvLngwDmVgNRWQ0Nj0+k6uF0e3zZRFJWrdO3Ei7aV/sVDLqCWMskFy1h/n5mA3YKyqw9/mITEuWdkc7Mt8kUmm0xx4/xzUMOs8DreVacR9Hl6VZC5fGHQrnP7XJf0JjavmW3akV9HEUTl1TnnriVS5w5D83j0arcuTnRReESZxOrYhXZTUXc7vLo+d2sZORUeZJ5JxLjOSr3F15LboZx8odrGx4eIBgn/VY7yM+tfja1lBg9ikxh9oxk=;750a4MR+sliwCeZ2ws4WEQ=="
 ---
 

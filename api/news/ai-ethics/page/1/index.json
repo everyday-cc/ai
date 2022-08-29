@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-29-ethics-in-the-time-of-artificial-intelligence-and-their-sentient-attorneys.md",
+      "title": "Ethics In The Time of Artificial Intelligence (and their sentient attorneys)",
+      "excerpt": "By Matt Heisie, co-founder and head of product marketing of Ferret, an AI platform that provides critical intelligence to empower companies and individuals. A Google engineer stated earlier this year that the company’s AI bot known as LaMDA not only had achieved sentience but perhaps in the most obvious sign of modern human intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/ethics-in-the-time-of-artificial-intelligence-and-their-sentient-attorneys/",
+      "originalUrl": "https://www.globalbankingandfinance.com/ethics-in-the-time-of-artificial-intelligence-and-their-sentient-attorneys/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/08/iStock-1049226620.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/ethics-in-the-time-of-artificial-intelligence-and-their-sentient-attorneys/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/ethics-in-the-time-of-artificial-intelligence-and-their-sentient-attorneys/",
+      "publishedDateTime": "2022-08-29T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-27-the-uses-of-ethical-ai-in-hiring-opaque-vs-transparent-ai.md",
       "title": "The uses of ethical AI in hiring: Opaque vs. transparent AI",
       "excerpt": "Ethical AI enables organizations to understand the technology’s processes and audit them to make sure the AI remains unbiased.",
@@ -1380,58 +1423,6 @@
       "topics": [
         "AI",
         "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-01-why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5.md",
-      "title": "Why Corporate Purpose And AI Ethics Must be A Leadership And Risk Management Priority (Blog 4 Of 5)",
-      "excerpt": "This blog series looks at the meaning of corporate purpose, the importance of AI Ethics, and evolving audit practices internally and externally to improve risk management practices, and advance digital literacy foundations.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/",
-      "originalUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e6bd39f8e4f0e5ea6d6fd8/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cindygordon/2022/07/31/why-corporate-purpose-and-ai-ethics-must-be-a-leadership-and-risk-management-priority-blog-4-of-5/amp/",
-      "publishedDateTime": "2022-07-31T10:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
       ]
     }
   ],

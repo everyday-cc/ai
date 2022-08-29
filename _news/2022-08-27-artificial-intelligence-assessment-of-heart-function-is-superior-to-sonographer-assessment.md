@@ -7,7 +7,7 @@ originalUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/224402"
 webUrl: "https://www.alphagalileo.org/en-gb/Item-Display/ItemId/224402"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     isCached: true
 
 related:
+  - title: "Artificial intelligence assessment of heart function is superior to sonographer assessment"
+    excerpt: "In patients undergoing echocardiographic evaluation of cardiac function, preliminary assessment by artificial intelligence (AI) is superior to initial sonographer assessment, according to late breaking research presented in a Hot Line session on 27 August at ESC Congress 2022."
+    publishedDateTime: 2022-08-29T14:50:00Z
+    webUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-heart-function-superior.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-heart-function-superior.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-heart-function-superior.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 47
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/2022/artificial-intelligenc-60.jpg"
+        width: 925
+        height: 428
+        isCached: true
   - title: "EchoNet AI Algorithm Beats Sonographers for Estimating LV Function"
     excerpt: "In what investigators say is the first randomized, controlled trial of AI in cardiology, big data boosted accuracy and efficiency."
     publishedDateTime: 2022-08-27T12:50:00Z

@@ -2,6 +2,58 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-17-datadog-database-monitoring-extends-to-sql-server-and-azure-database-platforms.md",
+      "title": "Datadog Database Monitoring extends to SQL Server and Azure database platforms",
+      "excerpt": "Datadog has announced its Database Monitoring service now supports Microsoft SQL Server and Microsoft Azure database platforms. The expanded support enables engineers and database administrators to swiftly identify and resolve database performance issues including slow queries,",
+      "sourceUrl": null,
+      "webUrl": "https://www.itpro.co.uk/data-insights/databases/368822/datadog-database-monitoring-extends-to-sql-server-and-azure-database",
+      "originalUrl": "https://www.itpro.co.uk/data-insights/databases/368822/datadog-database-monitoring-extends-to-sql-server-and-azure-database",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816740/itpro/2019/01/sql_shutterstock_1055747219.jpg",
+          "width": 1260,
+          "height": 710,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-17T02:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "IT Pro",
+        "domain": "itpro.co.uk",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-17-datadog-extends-monitoring-for-microsoft-sql-server-and-microsoft-azure-database-platforms.md",
       "title": "Datadog Extends Monitoring for Microsoft SQL Server and Microsoft Azure Database Platforms",
       "excerpt": "The expanded support provides visibility into query-level metrics and detailed explain plans so all Microsoft customers can benefit from Database",
@@ -1386,60 +1438,6 @@
       "topics": [
         "Microsoft AI",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-ghost-security-reinvents-app-security-with-unsupervised-machine-learning.md",
-      "title": "Ghost Security reinvents app security with unsupervised machine learning",
-      "excerpt": "Ghost Security is using an unsupervised machine learning approach in an industry where most app security products use supervised ML.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/",
-      "originalUrl": "https://venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-robot_machine_learning_AI_1323774184-e1659571276418.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/04/ghost-security-reinvents-app-security-with-unsupervised-machine-learning/amp/",
-      "publishedDateTime": "2022-08-04T08:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning",
-        "AI in Security"
       ]
     }
   ],

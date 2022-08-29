@@ -51,6 +51,29 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Elon Musk aims to have self-driving Teslas ready by year-end"
+    excerpt: "Tesla’s self-driving technology could be in wide release in the U.S. by the end of the year, and possibly also in Europe, depending on regulatory approval."
+    publishedDateTime: 2022-08-29T12:29:00Z
+    webUrl: "https://europe.autonews.com/automakers/elon-musk-aims-have-self-driving-teslas-ready-year-end"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 54
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Tesla%20self%20drive%20rtrs%20web_3.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Elon Musk wants self-driving Teslas in Europe by year-end"
+    excerpt: "Tesla chief Elon Musk said he aims to get the electric auto maker's self-driving technology ready by year-end and hopes it could be in wide release in the United States and possibly in Europe, depending on regulatory approval."
+    publishedDateTime: 2022-08-29T13:31:00Z
+    webUrl: "https://www.irishexaminer.com/business/technology/arid-40950212.html"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 19
 
 secured: "X8BYDIJ0B8MolZNd2Wl1GQrnmCvjuKHQTTPwdNNSVXtKCox8GrLnfcS1o9G5iACGAlBUnqD+koF/Uh1Iv7rRdxppBvPoqkiv7QwG36/srPMeQKHibDTuL6XuywpFzFOkWv77UruSKfNh9p9Y1n/vi7DKuYWC3AlmyMSKo/2Ok7Iwq7yCkbsPme3GNYMkETN65MbE73E/T+03xZDfXglcwqb7pjprXPk/otxe6kIBUyWzu064D5mDtSxOqi3+2e0LuWkBXBRlZCz80G2LVUf9UDY9nYjzDHUTUZ656IIuIZxiK80znqZmXqvWeC9cIu6w8Zu5hlE6pRye/eDcRIVDbrKws8LPF6LfWhQjIjcTpNbYPNK+8M6G2NOy7jzdrzUKklTRSvhPLLG54uO2jLoEyeyOOTVkEZhbKWrdiqwwHuESsqmcLYdpVedJ+oR+l6eHsGV9tEwmaiG3kA4IZDWznlNZ5guFbl6WZWPvXtQlxMqRVHTHswInKU7i9NWoXL9/j/O8uVFzg9/4elP2XcSE9Q==;Th6cO9AioWk6o7Az1U5DXA=="
 ---

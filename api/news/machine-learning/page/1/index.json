@@ -2,6 +2,113 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-29-why-artificial-general-intelligence-isnt-further-along.md",
+      "title": "Why Artificial General Intelligence Isn’t Further Along",
+      "excerpt": "For all the devastation it has caused, the Covid-19 pandemic could rightfully claim responsibility for accelerating the adaptation of artificial intelligence (AI) in the business world. Harris Poll, working with Appen, found that 55% of surveyed companies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/why-artificial-general-intelligence-isnt-further-along/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/why-artificial-general-intelligence-isnt-further-along/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c83cadb3da67a5ff548ecf/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/why-artificial-general-intelligence-isnt-further-along/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/29/why-artificial-general-intelligence-isnt-further-along/amp/",
+      "publishedDateTime": "2022-08-29T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-will-untether-ais-speedai240-boqueria-inferencing-chip-be-the-one.md",
+      "title": "Will Untether AI’s SpeedAI240 “Boqueria” Inferencing Chip Be “The One”?",
+      "excerpt": "One of the latest AI/ML chips to appear was revealed at last week’s Hot Chips 34 conference. Untether AI’s founder Martin Snelgrove and VP of Product Bob Beachler rolled out their company’s speedAI chip family,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630c2f17dc25910550390ffe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/amp/",
+      "publishedDateTime": "2022-08-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.md",
       "title": "TensorFlow, PyTorch, and JAX: Choosing a deep learning framework",
       "excerpt": "Three widely used frameworks are leading the way in deep learning research and production today. One is celebrated for ease of use, one for features and maturity, and one for immense scalability. Which one should you use?",
@@ -283,7 +390,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-08-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -1332,112 +1439,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-deepmind-feuds-with-russian-scientists-over-quantum-ai-research.md",
-      "title": "DeepMind feuds with Russian scientists over quantum AI research",
-      "excerpt": "Science is all well and fine, but what happens when Big Tech and the world of academia butt heads during the peer-review process?",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/deepmind-feuds-russian-scientists-over-quantum-ai-research",
-      "originalUrl": "https://thenextweb.com/news/deepmind-feuds-russian-scientists-over-quantum-ai-research",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2022%2F08%2Ffightrobots.jpg&signature=e7f71ca542a0269805511bc1ef788a54",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T12:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-broadcom-turbocharges-ai-and-ml-with-tomahawk-5.md",
-      "title": "Broadcom turbocharges AI and ML with Tomahawk 5",
-      "excerpt": "Artificial intelligence (AI) and machine learning (ML) are about more than algorithms: The right hardware to turbocharge your AI and ML computations is key. To speed up job completion, AI and ML training clusters need high bandwidth and dependable transport with predictable low-tail latency (tail latency is the 1 or 2% of a job that trails the rest of responses).",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/broadcom-turbocharges-ai-and-ml-with-tomahawk-5/",
-      "originalUrl": "https://venturebeat.com/ai/broadcom-turbocharges-ai-and-ml-with-tomahawk-5/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1327279470.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 840,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/broadcom-turbocharges-ai-and-ml-with-tomahawk-5/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/broadcom-turbocharges-ai-and-ml-with-tomahawk-5/amp/",
-      "publishedDateTime": "2022-08-16T10:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

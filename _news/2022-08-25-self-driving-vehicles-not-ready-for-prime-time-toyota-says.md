@@ -39,22 +39,6 @@ related:
         width: 1200
         height: 675
         isCached: true
-  - title: "The UK is upgrading military buggies into self-driving vehicles"
-    excerpt: "The purpose of the upgrade is to allow for a buggy to be able to carry out a resupply mission autonomously, keeping humans out of danger."
-    publishedDateTime: 2022-08-24T21:01:00Z
-    webUrl: "https://www.popsci.com/technology/self-driving-military-buggy/"
-    ampWebUrl: "https://www.popsci.com/technology/self-driving-military-buggy/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/self-driving-military-buggy/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 44
-    images:
-      - url: "https://www.popsci.com/uploads/2022/08/24/2022_08_16_TeleOperation_Rheinmetall_Path_for_Theseus_2_2.jpeg?auto=webp"
-        width: 1000
-        height: 667
-        isCached: true
 
 secured: "44SeeVVXmMfa4mzKwHBjsx5HopHv0x+pxbtruBpJ4Dwmc4ogjjEnS/oOdaNHRKrobzoST37Lgrv4769AYtmWl+XRqEu1eomdBRQVwemanhXANQRONDApNhtsbv2+Hyu3m+DffCrPkz8ffQjU3L1LT6hPEJfbQprCrp5y53wmSJAoMauW6MEi74V00Vkahkv9BENwShtFMRxMv3mlyL6qGEsr5wq2pQkBUE7bW9Y+Pxvbs/LeqKkivCPj1HMrmZkc2Xp/Fk4V6tzVJ3Ami/ZRqO1GrsOWuhJ5kPsz/gyqgLjZEPhamvE/rO/GsNbEvoeURPS+FT88l3yXNDd/EfsLAPvtdGC9iy+q6Uw0jRVW4a05qs9cWFAh5kk3xd0K6AuG80ywOZeE1ZtqpjKmOkZqVhfF4r2dCXIdLTsngwvEFpLDtRn0E3qvQe8DK7VUpGWZzm0K9B5WViqaDX6Vihjjf0wYlrCPnNlJIIHV2IKm7NWXSf5mnswtPtx2HeVQEQP9cciatI4l/UN0nhFfDOuRiw==;STt6+CMVJN4uQmJxipj8dA=="
 ---

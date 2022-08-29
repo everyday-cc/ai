@@ -2,6 +2,92 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-05-15-south-hills-area-robotics-team-offers-varied-learning-experiences.md",
+      "title": "South Hills area robotics team offers varied learning experiences",
+      "excerpt": "Picture a 125-pound, nearly three-foot-tall mechanical creation climb unassisted onto a set of monkey bars, amid a throng of folks who are rooting for it to succeed. “It’s as exciting as a hockey game or a football game,",
+      "sourceUrl": null,
+      "webUrl": "https://triblive.com/local/varsity-sport-for-the-mind-south-hills-area-robotics-team-offers-varied-learning-experiences/",
+      "originalUrl": "https://triblive.com/local/varsity-sport-for-the-mind-south-hills-area-robotics-team-offers-varied-learning-experiences/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-varnish.triblive.com/2022/05/5052719_web1_cv-titaniumtitans-052622-1.jpg",
+          "width": 640,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-14T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TribLIVE.com",
+        "domain": "triblive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-14-cisce-to-introduce-robotics-ai-others-as-subjects-in-icse-isc.md",
+      "title": "CISCE to introduce robotics, AI, others as subjects in ICSE, ISC",
+      "excerpt": "IIT Delhi’s tech innovation hub to help design CISCE curriculum in robotics, AI, machine learning and data science",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/cities/lucknow-news/cisce-to-introduce-robotics-ai-others-as-subjects-in-icse-isc-101652528125698.html",
+      "originalUrl": "https://www.hindustantimes.com/cities/lucknow-news/cisce-to-introduce-robotics-ai-others-as-subjects-in-icse-isc-101652528125698.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/05/14/1600x900/acc19fc0-d379-11ec-8c3e-83475041d003_1652528113795.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/cities/lucknow-news/cisce-to-introduce-robotics-ai-others-as-subjects-in-icse-isc-101652528125698-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/cities/lucknow-news/cisce-to-introduce-robotics-ai-others-as-subjects-in-icse-isc-101652528125698-amp.html",
+      "publishedDateTime": "2022-05-14T04:35:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-14-these-5-robotic-startups-are-impacting-healthcare-sector-with-their-innovation.md",
       "title": "These 5 robotic startups are impacting healthcare sector with their innovation",
       "excerpt": "The Indian healthcare sector has made significant advancements in the way healthcare is delivered in the country. Growing technological requirements in the healthcare sector have given birth to ...",

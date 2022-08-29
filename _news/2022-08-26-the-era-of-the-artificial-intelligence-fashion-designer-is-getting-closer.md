@@ -20,20 +20,20 @@ topics:
   - AI
 
 related:
-  - title: "New Study Highlights Opportunities for Artificial Emotional Intelligence"
-    excerpt: "Emotion AI, also known as artificial emotional intelligence, is a subset of AI that reacts, simulates, quantifies, and comprehends human emotions. Affective computing is computing"
-    publishedDateTime: 2022-08-24T22:20:00Z
-    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence"
-    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202208/new-study-highlights-opportunities-artificial-emotional-intelligence?amp"
+  - title: "Why Artificial General Intelligence Isn’t Further Along"
+    excerpt: "For all the devastation it has caused, the Covid-19 pandemic could rightfully claim responsibility for accelerating the adaptation of artificial intelligence (AI) in the business world. Harris Poll, working with Appen, found that 55% of surveyed companies ..."
+    publishedDateTime: 2022-08-29T13:30:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/why-artificial-general-intelligence-isnt-further-along/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/why-artificial-general-intelligence-isnt-further-along/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/29/why-artificial-general-intelligence-isnt-further-along/amp/"
     type: article
     provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 43
+      name: Forbes
+      domain: forbes.com
+    quality: 76
     images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-08/pic9722.jpg?itok=l-EICJdi"
-        width: 1528
+      - url: "https://imageio.forbes.com/specials-images/imageserve/62c83cadb3da67a5ff548ecf/0x0.jpg?format=jpg&width=1200"
+        width: 1200
         height: 800
         isCached: true
 

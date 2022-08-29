@@ -48,6 +48,24 @@ related:
         width: 627
         height: 418
         isCached: true
+  - title: "Google AI Chatbot Now Open for Public Testing"
+    excerpt: "Registrations are open for early access, with AI Test Kitchen serving rotating demos centered around cutting-edge AI technologies"
+    publishedDateTime: 2022-08-29T13:06:00Z
+    webUrl: "https://analyticsindiamag.com/google-ai-chatbot-now-open-for-public-testing/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 17
+  - title: "Now is the time to queue up to speak with Google’s chatbot"
+    excerpt: "After all, LaMDA 2 is Google’s baby, and AI was given its own track at Google I/O 2022. Google revealed during the event that anyone may now contribute to the development of conversational AI. Beta users will be able to engage with the NLP model in a restricted fashion using the AI Test Kitchen app."
+    publishedDateTime: 2022-08-27T18:00:00Z
+    webUrl: "https://bestgamingpro.com/now-is-the-time-to-queue-up-to-speak-with-googles-chatbot/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 4
 
 secured: "HlLpaMOYcdUxVKZe0im4g+75HEjtaTj2VjTd33jP1uCxTp8ww4v13ca3uWPe0VhRjh+LRp/Au1AID4ZwU11ylZkcLbcnUNFPcKQAdkrx9mLiUWVV+4HJKDc9j/V/akKNFGjLB+WLiMYR6WBhpcI3U0QR6CQJwaetELCPsrGA9fXRVWb20dhWY1i6E5JZD+kvF0+qlGy6XieYyQdqGAgur66nWUNw1OqHgSdloJNWA+ckwknNG1AKnagba+GpRJKVvK003V3NULdVvAdNPI/8+xUEBnuSkIe+X6FM1NL201U9ZpCXm/64SBtx51XcbkBIuTv8KNxPWFObQICNIBrg3bUM0cc2E1LZxmeIlS++2bwcHjTBaL7AnNi06GiQmeJNDRDiNonK8SDQDUIuGfjeJo/Ye3DfZQ3uqzStMqacm1P+tDhyfUpW0ussLSII9T1ZR389aT5+1c0LHp7rVWlkFOn6GhAtOLISpfESl3b5cijhLPqOwVzH7lm7bvxMPVgNlgKj/L3tz237UbgUn/jkpw==;JqrHFeRfny/ektHbpIBfew=="
 ---

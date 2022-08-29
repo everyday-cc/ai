@@ -2,6 +2,102 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-05-31-inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universitat-erlangen-nurnberg.md",
+      "title": "Inspur Information and MEGWARE Build a Leading GPU Cluster for the Friedrich-Alexander-Universität Erlangen-Nürnberg",
+      "excerpt": "Inspur information, a leading IT infrastructure solutions provider, and MEGWARE, a high-performance computing (HPC) solutions provider in Europe, combined efforts to bolster the scientific research capabilities of the Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) through its Erlangen National Center for High-Performance Computing (NHR@FAU).",
+      "sourceUrl": null,
+      "webUrl": "https://www.kentuckytoday.com/news/business/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universit-t/article_752e9a52-2c8d-58a1-8aaa-12e31deee52f.html",
+      "originalUrl": "https://www.kentuckytoday.com/news/business/inspur-information-and-megware-build-a-leading-gpu-cluster-for-the-friedrich-alexander-universit-t/article_752e9a52-2c8d-58a1-8aaa-12e31deee52f.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/kentuckytoday.com/content/tncms/custom/image/102b5a02-0453-11ec-9099-0b9a1e7cd50b.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-31T00:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Kentucky Today",
+        "domain": "kentuckytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research.md",
+      "title": "Nvidia’s AI-powered supercomputers advance nuclear fusion research",
+      "excerpt": "At the International Supercomputing Conference in Germany, Nvidia has detailed how its latest HPC systems work. Including how it is using the Nvidia Omniverse simulation platform to accelerate the design and development of a full-scale fusion reactor.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research/",
+      "originalUrl": "https://venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 161,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1283648497-e1653671703268.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/30/nvidias-ai-powered-supercomputers-advance-nuclear-fusion-research/amp/",
+      "publishedDateTime": "2022-05-30T09:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Facebook AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-30-media-alert-brainchip-discusses-impact-of-ai-with-marc-staimer-on-latest-this-is-our-mission-podcast.md",
       "title": "Media Alert: BrainChip Discusses Impact of AI with Marc Staimer on Latest ‘This is our Mission’ Podcast",
       "excerpt": "LAGUNA HILLS, CA / ACCESSWIRE / May 29, 2022 / BrainChip Holdings Ltd (ASX:BRN)(OTCQX:BRCHF)(ADR:BCHPY), the world’s first commercial producer of neuromorphic AI IP, today announced that Marc Staimer,",
@@ -1264,103 +1360,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-nec-selects-ddn-storage-for-japans-largest-corporate-ai-research-supercomputer.md",
-      "title": "NEC Selects DDN Storage for Japan's Largest Corporate AI Research Supercomputer",
-      "excerpt": "DDN ®, the global leader in artificial intelligence (AI) and multicloud data management solutions, today announced that NEC Corporation (NEC) has selected DDN storage for its new supercomputer dedicated to AI research.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/05/18/9604685.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/05/18/9604685.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1820615/DataDirect_Networks___DDN.jpg",
-          "width": 400,
-          "height": 252,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-18T06:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-18-elon-musk-announces-tesla-ai-day-2-with-many-cool-updates.md",
-      "title": "Elon Musk announces ‘Tesla AI Day #2’ with ‘many cool updates’",
-      "excerpt": "Elon Musk announced today that Tesla is going to hold a new ‘AI Day’ during which it will release “many cool updates”. It will be held on August 19. Over the last few years, Tesla has started to hold somewhat regular annual events with specific subjects at the center of the presentation – not unlike",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/05/17/tesla-ai-day-2-elon-musk-robot/",
-      "originalUrl": "https://electrek.co/2022/05/17/tesla-ai-day-2-elon-musk-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 128,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2021/08/Tesla-AI-Day.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/05/17/tesla-ai-day-2-elon-musk-robot/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/05/17/tesla-ai-day-2-elon-musk-robot/amp/",
-      "publishedDateTime": "2022-05-17T15:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Autos",
-        "AI Hardware"
       ]
     }
   ],

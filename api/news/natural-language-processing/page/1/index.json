@@ -2,6 +2,60 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-29-will-untether-ais-speedai240-boqueria-inferencing-chip-be-the-one.md",
+      "title": "Will Untether AI’s SpeedAI240 “Boqueria” Inferencing Chip Be “The One”?",
+      "excerpt": "One of the latest AI/ML chips to appear was revealed at last week’s Hot Chips 34 conference. Untether AI’s founder Martin Snelgrove and VP of Product Bob Beachler rolled out their company’s speedAI chip family,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630c2f17dc25910550390ffe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/amp/",
+      "publishedDateTime": "2022-08-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-why-metas-large-language-model-does-not-work-for-researchers.md",
       "title": "Why Meta’s large language model does not work for researchers",
       "excerpt": "Language models can revolutionize how scientific researchers study and approach different disciplines — thus spurring scientific innovation.",
@@ -199,6 +253,58 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-ai-startup-wants-to-make-foreign-call-center-employees-sound-white.md",
+      "title": "AI Startup Wants to Make Foreign Call Center Employees Sound White",
+      "excerpt": "Sanas argues that its technology can be empowering for call center employees by removing bias and limiting misunderstandings during phone conversations. Critics say it's erasure.",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white",
+      "originalUrl": "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/a/ai-startup/ai-startup-wants-to-make-foreign-call-center-employees-sound_3ra4.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T09:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
       ]
     },
     {
@@ -1284,102 +1390,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-marketers-can-harness-the-of-power-machine-translation-to-localise-their-websites-and-multilingual-campaigns-says-weglot.md",
-      "title": "MARKETERS CAN HARNESS THE OF POWER MACHINE TRANSLATION TO LOCALISE THEIR WEBSITES AND MULTILINGUAL CAMPAIGNS SAYS WEGLOT",
-      "excerpt": "MARKETERS CAN HARNESS THE OF POWER MACHINE TRANSLATION TO LOCALISE THEIR WEBSITES AND MULTILINGUAL CAMPAIGNS SAYS WEGLOT Aug (PRNewswire via",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/marketers-can-harness-the-of-power-machine-translation-to-localise-their-websites-and-multilingual-campaigns-says-weglot-2022-08-17",
-      "originalUrl": "https://www.marketwatch.com/press-release/marketers-can-harness-the-of-power-machine-translation-to-localise-their-websites-and-multilingual-campaigns-says-weglot-2022-08-17",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T07:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-top-4-ai-based-face-recognition-applications.md",
-      "title": "Top 4 AI-based Face Recognition Applications",
-      "excerpt": "Besides mobile face recognition, voice recognition is also used to enhance security. The user’s voice and face work as a password and is like the biometric key to unlocking all the apps. AppLock amalgamates the speaker and face recognition technology to ...",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/top-4-ai-based-face-recognition-applications/",
-      "originalUrl": "https://techbullion.com/top-4-ai-based-face-recognition-applications/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 126,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/08/Some-popular-face-recognition-apps.jpg",
-          "width": 918,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/top-4-ai-based-face-recognition-applications/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/top-4-ai-based-face-recognition-applications/amp/",
-      "publishedDateTime": "2022-08-17T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
       ]
     }
   ],

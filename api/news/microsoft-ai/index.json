@@ -212,6 +212,58 @@
       ]
     },
     {
+      "path": "_news/2022-08-25-artsberry-interviews-microsoft-designer-ms-su-he.md",
+      "title": "ArtsBerry Interviews Microsoft Designer Ms. Su He",
+      "excerpt": "ArtsBerry Interviews Microsoft Designer Ms. Su He Aug 25, 2022 (PRNewswire via COMTEX) -- PR Newswire NEW YORK, NEW YORK, Aug. 25,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artsberry-interviews-microsoft-designer-ms-su-he-2022-08-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/artsberry-interviews-microsoft-designer-ms-su-he-2022-08-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-can-nist-move-trustworthy-ai-forward-with-new-draft-of-ai-risk-management-framework.md",
       "title": "Can NIST move ‘trustworthy AI’ forward with new draft of AI risk management framework?",
       "excerpt": "NIST releases an expanded draft of the AI Risk Management Framework but the impact on trustworthy AI remains unclear.",
@@ -1264,58 +1316,6 @@
         "name": "News Medical",
         "domain": "news-medical.net",
         "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-17-datadog-database-monitoring-extends-to-sql-server-and-azure-database-platforms.md",
-      "title": "Datadog Database Monitoring extends to SQL Server and Azure database platforms",
-      "excerpt": "Datadog has announced its Database Monitoring service now supports Microsoft SQL Server and Microsoft Azure database platforms. The expanded support enables engineers and database administrators to swiftly identify and resolve database performance issues including slow queries,",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/data-insights/databases/368822/datadog-database-monitoring-extends-to-sql-server-and-azure-database",
-      "originalUrl": "https://www.itpro.co.uk/data-insights/databases/368822/datadog-database-monitoring-extends-to-sql-server-and-azure-database",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816740/itpro/2019/01/sql_shutterstock_1055747219.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-17T02:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
         "publishers": null,
         "authors": null
       },

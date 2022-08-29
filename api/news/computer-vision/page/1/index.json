@@ -114,7 +114,7 @@
       "originalUrl": "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 196,
       "tags": null,
       "images": [
         {
@@ -482,33 +482,24 @@
     {
       "path": "_news/2022-08-21-bondi-behavioural-optometrist-urges-all-on-computer-vision-syndrome-management.md",
       "title": "Bondi Behavioural Optometrist Urges All On Computer Vision Syndrome Management",
-      "excerpt": "Bondi Beach,Australia - August 21, 2022 /PressCable/ — Computer Vision Syndrome – Tips to reduce digital eye strain Computer Vision Syndrome or CVS is a name given to eye problems that are ...",
+      "excerpt": "Computer Vision Syndrome or CVS is a name given to eye problems that are caused by prolonged computer use. When people use computers, tablets or mobile phones their eyes are required to converge closely and keep focus for long periods of time.",
       "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104730557/Bondi-Behavioural-Optometrist-Urges-All-On-Computer-Vision-Syndrome-Management",
-      "originalUrl": "https://menafn.com/1104730557/Bondi-Behavioural-Optometrist-Urges-All-On-Computer-Vision-Syndrome-Management",
+      "webUrl": "https://finance.dailyherald.com/dailyherald/article/marketersmedia-2022-8-21-bondi-behavioural-optometrist-urges-all-on-computer-vision-syndrome-management",
+      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/marketersmedia-2022-8-21-bondi-behavioural-optometrist-urges-all-on-computer-vision-syndrome-management",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-08/21/M_ef26895a-e_Image_In_Body.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
+      "images": null,
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-21T08:12:00-07:00",
+      "publishedDateTime": "2022-08-21T07:00:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "MENAFN",
-        "domain": "menafn.com",
+        "name": "Daily Herald",
+        "domain": "dailyherald.com",
         "images": null,
         "publishers": null,
         "authors": null

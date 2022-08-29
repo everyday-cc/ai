@@ -2,6 +2,153 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-25-smarter-robots-ai-machine-learning-and-3d-vision.md",
+      "title": "Smarter Robots: AI, Machine Learning, and 3D Vision",
+      "excerpt": "New systems from ABB, AMT, Pearson Packaging Systems, Schubert, and Shape Process Automation include new Artificial Intelligence features.",
+      "sourceUrl": null,
+      "webUrl": "https://www.packworld.com/machinery/robotics/article/22340562/smarter-robots-ai-machine-learning-and-3d-vision",
+      "originalUrl": "https://www.packworld.com/machinery/robotics/article/22340562/smarter-robots-ai-machine-learning-and-3d-vision",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.packworld.com/files/base/pmmi/all/image/2022/07/Mitarbeiter_Cobot_032_20211020.62d891ea15c52.png?auto=format%2Ccompress&fit=max&q=70&w=1200",
+          "width": 1200,
+          "height": 899,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T09:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Packaging World",
+        "domain": "packworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-join-us-in-the-ai-test-kitchen.md",
+      "title": "Join us in the AI Test Kitchen",
+      "excerpt": "As AI technologies continue to advance, they have the potential to unlock new experiences that support more natural human-computer interactions. We see a future where you can find the information you’re looking for in the same conversational way you speak to friends and family. While there’s still lots",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/",
+      "originalUrl": "https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image_louDEPv.max-1300x1300.png",
+          "width": 1300,
+          "height": 731,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/join-us-in-the-ai-test-kitchen/amp/",
+      "publishedDateTime": "2022-08-25T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-googles-new-app-lets-you-experimental-ai-systems-like-lamda.md",
+      "title": "Google’s new app lets you experimental AI systems like LaMDA",
+      "excerpt": "Google has launched AI Test Kitchen, an app previewed at Google I/O 2022 that lets users test experimental systems, including LaMDA, developed by the company's internal research divisions.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/",
+      "originalUrl": "https://techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1230444599-1-e1660816546129.jpg?w=1024",
+          "width": 1024,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/amp/",
+      "publishedDateTime": "2022-08-25T08:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-why-we-need-ai-for-sustainable-infrastructure.md",
       "title": "Why We Need AI For Sustainable Infrastructure",
       "excerpt": "The ability of AI, and specifically machine learning, to recognize patterns and respond instantly might be the key to a future of sustainable infrastructure.",
@@ -113,7 +260,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-08-25",
       "featuredContent": null,
       "highlight": null,
-      "heat": 111,
+      "heat": 91,
       "tags": null,
       "images": [
         {
@@ -260,6 +407,58 @@
         "Facebook AI",
         "AI",
         "IBM AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-artsberry-interviews-microsoft-designer-ms-su-he.md",
+      "title": "ArtsBerry Interviews Microsoft Designer Ms. Su He",
+      "excerpt": "ArtsBerry Interviews Microsoft Designer Ms. Su He Aug 25, 2022 (PRNewswire via COMTEX) -- PR Newswire NEW YORK, NEW YORK, Aug. 25,",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artsberry-interviews-microsoft-designer-ms-su-he-2022-08-25",
+      "originalUrl": "https://www.marketwatch.com/press-release/artsberry-interviews-microsoft-designer-ms-su-he-2022-08-25",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T05:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
       ]
     },
     {
@@ -426,7 +625,7 @@
       "originalUrl": "https://www.cnet.com/roadshow/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 151,
+      "heat": 191,
       "tags": null,
       "images": [
         {
@@ -619,7 +818,7 @@
       "originalUrl": "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles",
       "featuredContent": null,
       "highlight": null,
-      "heat": 206,
+      "heat": 196,
       "tags": null,
       "images": [
         {
@@ -1067,187 +1266,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work.md",
-      "title": "Jobs in the metaverse: This AI startup founder wants to change the future of work",
-      "excerpt": "Adam Turaev, the founder of Praktika.ai, an AI-based learning platform, believes the metaverse will remove barriers in workplace. He is striving to help non-native English speakers — or their avatars — to be hired by the international companies.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/",
-      "originalUrl": "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png",
-          "width": 735,
-          "height": 552,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/amp/",
-      "publishedDateTime": "2022-08-24T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-automotive-artificial-intelligence-market-worth-70-billion-by-2027-exclusive-report-by-marketsandmarkets.md",
-      "title": "Automotive Artificial Intelligence Market worth $7.0 Billion by 2027 - Exclusive Report by MarketsandMarkets™",
-      "excerpt": "Automotive Artificial Intelligence market size is projected to grow from USD 2.3 Billion in 2022 to USD 7.0 Billion by 2027; it is expected to grow at a CAGR of 24.1% from 2022 to 2027, according to a new report by MarketsandMarkets™.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/2022/08/24/9661661.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/2022/08/24/9661661.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T07:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-tesla-releases-new-deep-dive-presentations-on-its-dojo-ai-supercomputer.md",
-      "title": "Tesla releases new deep-dive presentations on its Dojo AI supercomputer",
-      "excerpt": "Tesla has released two new deep-dive presentations into its Dojo AI supercomputer ahead of its upcoming AI Day 2. You can check the slides from both presentations below. Dojo is Tesla’s own custom supercomputer platform built from the ground up for AI machine learning and more specifically for video training using the video data coming",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/08/24/tesla-deep-dive-presentations-dojo-ai-supercomputer/",
-      "originalUrl": "https://electrek.co/2022/08/24/tesla-deep-dive-presentations-dojo-ai-supercomputer/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 116,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/What-is-Tesla-Dojo.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/08/24/tesla-deep-dive-presentations-dojo-ai-supercomputer/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/24/tesla-deep-dive-presentations-dojo-ai-supercomputer/amp/",
-      "publishedDateTime": "2022-08-24T07:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-how-leaders-are-using-ai-as-a-problem-solving-tool.md",
-      "title": "How Leaders Are Using AI As A Problem-Solving Tool",
-      "excerpt": "Leaders face more complex decisions than ever in today’s volitile world. So how can they get them right? The answer lies in using AI as a problem-solving too say experts",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/benjaminlaker/2022/08/24/how-leaders-are-using-ai-as-a-problem-solving-tool/",
-      "originalUrl": "https://www.forbes.com/sites/benjaminlaker/2022/08/24/how-leaders-are-using-ai-as-a-problem-solving-tool/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6305d74a12727c38691b5fd1/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/benjaminlaker/2022/08/24/how-leaders-are-using-ai-as-a-problem-solving-tool/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/benjaminlaker/2022/08/24/how-leaders-are-using-ai-as-a-problem-solving-tool/amp/",
-      "publishedDateTime": "2022-08-24T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

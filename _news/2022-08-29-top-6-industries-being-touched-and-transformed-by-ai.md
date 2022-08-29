@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-29T13:02:00Z
 originalUrl: "https://www.telegraphindia.com/edugraph/career/top-6-industries-being-touched-and-transformed-by-ai/cid/1883262"
 webUrl: "https://www.telegraphindia.com/edugraph/career/top-6-industries-being-touched-and-transformed-by-ai/cid/1883262"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Telegraph

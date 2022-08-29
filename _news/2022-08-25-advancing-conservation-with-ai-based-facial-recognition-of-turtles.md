@@ -7,7 +7,7 @@ originalUrl: "https://www.deepmind.com/blog/advancing-conservation-with-ai-based
 webUrl: "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles"
 type: article
 quality: 106
-heat: 206
+heat: 196
 published: true
 
 provider:
@@ -157,15 +157,6 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "Vets’ contribution needs social recognition"
-    excerpt: "Recent floods in Odisha have given substance to the fact that veterinary department is the forerunner in reaching out to distressed people in marooned and inundated areas. It’s quite apparent that a basket of essential services like electricity,"
-    publishedDateTime: 2022-08-24T19:03:00Z
-    webUrl: "https://www.dailypioneer.com/2022/state-editions/vets----contribution-needs-social-recognition.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 4
 
 secured: "Dhvw6bp8Suaz/yIxMKqRnG2/sMfp3zOLGiV7J3OMISVSm4uWYnialYXqpFuMLnFZNORp6HO703vjiBqqNme4h+blZYVCZvB5Ybn6tvDICbGZ0Y6EbL7sxKwDie2W3f2gC1w27e/853n7ylZCLpG/zr5KcADfLlgrrdSZnXsYug5ywXVsntu0VY3DCKXaZ/KXHvtCnS3OacXzZO6YYK2AM5n/vpyFl+ERN4ITo2NaOKZjbKd9eLPTv6JjCBKLrQk5Blb/wDDRcCFxY8qod34YuzRLW//xeG4FdlyMPjUQKvWnWjU4fGWIdOSeGTXSs8ldBoEWWp1N98nv/Gez6EShnt6mr91bB2FEJMJRQ6u7v04=;7ap2mkZOl1w7lNK3wG8lhw=="
 ---

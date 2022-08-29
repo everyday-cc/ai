@@ -2,6 +2,279 @@
   "page": 70,
   "value": [
     {
+      "path": "_news/2022-06-30-guardforce-stock-gains-on-collaboration-with-hong-kong-industrial-ai-robotics-centre.md",
+      "title": "Guardforce stock gains on collaboration with Hong Kong Industrial AI, Robotics Centre",
+      "excerpt": "Guardforce AI (GFAI) is rising 7.1% premarket on Thursday after it entered in a collaboration pact with Hong Kong Industrial Artificial Intelligence and Robotics Centre, founded by",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3853175-guardforce-stock-gains-on-collaboration-with-hong-kong-industrial-ai-robotics-centre",
+      "originalUrl": "https://seekingalpha.com/news/3853175-guardforce-stock-gains-on-collaboration-with-hong-kong-industrial-ai-robotics-centre",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T04:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-the-future-of-online-education-and-the-impact-of-ai.md",
+      "title": "The future of online education and the impact of AI",
+      "excerpt": "Online education is here to stay, no doubt. The practicality and accessibility of online courses cannot be denied.",
+      "sourceUrl": null,
+      "webUrl": "https://knowtechie.com/the-future-of-online-education-and-the-impact-of-ai/",
+      "originalUrl": "https://knowtechie.com/the-future-of-online-education-and-the-impact-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://knowtechie.com/wp-content/uploads/2022/01/apple-education-1000x600.jpg",
+          "width": 1000,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T04:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KnowTechie",
+        "domain": "knowtechie.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Education"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-why-no-one-trusts-your-ai-predictions-and-what-you-can-do-about-it.md",
+      "title": "Why No One Trusts Your AI Predictions And What You Can Do About It",
+      "excerpt": "Here are three core elements of trustworthy AI and tips on how to bridge the gap between data science and business users.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/30/why-no-one-trusts-your-ai-predictions-and-what-you-can-do-about-it/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/30/why-no-one-trusts-your-ai-predictions-and-what-you-can-do-about-it/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 88,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//5ff4714089da2fe280f7f974/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 776,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/30/why-no-one-trusts-your-ai-predictions-and-what-you-can-do-about-it/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/30/why-no-one-trusts-your-ai-predictions-and-what-you-can-do-about-it/amp/",
+      "publishedDateTime": "2022-06-30T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-heres-how-ai-is-helping-make-babies-by-revolutionizing-ivf.md",
+      "title": "Here’s How AI Is Helping Make Babies By Revolutionizing IVF",
+      "excerpt": "Infertility is rapidly becoming an epidemic. Although IVF has been around for over 40 years, it’s plagued by challenges. Here’s how AI is changing the game by reinventing fertility treatments.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/ganeskesari/2022/06/30/heres-how-ai-is-helping-make-babies-by-revolutionizing-ivf/",
+      "originalUrl": "https://www.forbes.com/sites/ganeskesari/2022/06/30/heres-how-ai-is-helping-make-babies-by-revolutionizing-ivf/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62bce1bfc47fa59c5e70f110/0x0.jpg?format=jpg&crop=2087,1174,x0,y191,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/ganeskesari/2022/06/30/heres-how-ai-is-helping-make-babies-by-revolutionizing-ivf/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/ganeskesari/2022/06/30/heres-how-ai-is-helping-make-babies-by-revolutionizing-ivf/amp/",
+      "publishedDateTime": "2022-06-30T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-tensor-core-equivalent-likely-to-get-embedded-in-amd-rdna3.md",
+      "title": "Tensor Core equivalent Likely to Get Embedded in AMD rDNA3",
+      "excerpt": "NVIDIA A100 is the first elastic, multi-instance GPU tha... TYAN Launches AI-Optimized Server Platforms Powered by NVIDIA V100S Tensor Core GPUs - 05/08/2020 08:23 AM TYAN launched the latest GPU ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.guru3d.com/news-story/tensor-core-equivalent-likely-to-get-embedded-in-amd-rdna3,9.html",
+      "originalUrl": "https://www.guru3d.com/news-story/tensor-core-equivalent-likely-to-get-embedded-in-amd-rdna3,9.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.nvidia.com/aem-dam/Solutions/Data-Center/tensorcore/Volta-Tensor-Core_30fps_FINAL_994x559.gif",
+          "width": 994,
+          "height": 559,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-30T03:11:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Guru3D.com",
+        "domain": "guru3d.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-30-abu-dhabis-hub71-is-getting-an-ai-centre-of-excellence.md",
+      "title": "Abu Dhabi’s Hub71 is getting an AI Centre of Excellence",
+      "excerpt": "AI could unlock $5.5 trillion to $12.6 trillion in value globally by 2030 and offer immense potential in sectors that are of strategic importance to Abu Dhabi’s socio-economi",
+      "sourceUrl": null,
+      "webUrl": "https://gulfnews.com/business/markets/abu-dhabis-hub71-is-getting-an-ai-centre-of-excellence-1.88949625",
+      "originalUrl": "https://gulfnews.com/business/markets/abu-dhabis-hub71-is-getting-an-ai-centre-of-excellence-1.88949625",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imagevars.gulfnews.com/2022/06/30/Hub71-and-e-_181b4149c0d_medium.jpg",
+          "width": 540,
+          "height": 405,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gulfnews.com/amp/business/markets/abu-dhabis-hub71-is-getting-an-ai-centre-of-excellence-1.88949625",
+      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/business/markets/abu-dhabis-hub71-is-getting-an-ai-centre-of-excellence-1.88949625",
+      "publishedDateTime": "2022-06-30T03:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gulf News",
+        "domain": "gulfnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-30-wealthcare-advisory-partners-llc-has-314000-position-in-ishares-robotics-and-artificial-intelligence-etf-nysearcairbo.md",
       "title": "Wealthcare Advisory Partners LLC Has $314,000 Position in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO)",
       "excerpt": "Wealthcare Advisory Partners LLC lessened its holdings in iShares Robotics and Artificial Intelligence ETF (NYSEARCA:IRBO – Get Rating) by 6.7% in the first quarter, according to the company in ...",
@@ -846,287 +1119,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Sales"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan.md",
-      "title": "Instagram is testing AI that verifies your age with selfie scan",
-      "excerpt": "It comes less than a year after disclosures from a Facebook whistleblower ... school’s Face Aging Group Research Lab, thinks Yoti’s technology is a good use of AI. “It’s a worthwhile ...",
-      "sourceUrl": null,
-      "webUrl": "https://nbc-2.com/news/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/",
-      "originalUrl": "https://nbc-2.com/news/2022/06/27/instagram-is-testing-ai-that-verifies-your-age-with-selfie-scan/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T13:34:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NBC2",
-        "domain": "nbc-2.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-tigergraph-cloud-adds-iam-capabilities.md",
-      "title": "TigerGraph Cloud adds IAM capabilities",
-      "excerpt": "Graph database as a service streamlines access management for enterprises and eases developer collaboration with a single login across multiple projects.",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoworld.com/article/3665630/tigergraph-cloud-adds-iam-capabilities.html",
-      "originalUrl": "https://www.infoworld.com/article/3665630/tigergraph-cloud-adds-iam-capabilities.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.idgesg.net/images/article/2018/05/tiger_by_blake_meyer_cc0_via_unsplash-100756522-large.jpg?auto=webp&quality=85,70",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.infoworld.com/article/3665630/tigergraph-cloud-adds-iam-capabilities.amp.html",
-      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3665630/tigergraph-cloud-adds-iam-capabilities.amp.html",
-      "publishedDateTime": "2022-06-29T13:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoWorld",
-        "domain": "infoworld.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-text-classification-for-online-conversations-with-machine-learning-on-aws.md",
-      "title": "Text classification for online conversations with machine learning on AWS",
-      "excerpt": "Online conversations are ubiquitous in modern life, spanning industries from video games to telecommunications. This has led to an exponential growth in the amount of online conversation data, which has helped in the development of state-of-the-art natural language processing (NLP) systems like chatbots",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/text-classification-for-online-conversations-with-machine-learning-on-aws/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/text-classification-for-online-conversations-with-machine-learning-on-aws/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T11:58:27-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-use-that-everyday-ai-in-your-pocket.md",
-      "title": "Use That Everyday A.I. in Your Pocket",
-      "excerpt": "Artificial intelligence powers more apps on your mobile devices than you may realize. Here’s how to take advantage of the technology — or turn it off. Send any friend a story As a subscriber ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nytimes.com/2022/06/29/technology/personaltech/use-that-everyday-ai-in-your-pocket.html",
-      "originalUrl": "https://www.nytimes.com/2022/06/29/technology/personaltech/use-that-everyday-ai-in-your-pocket.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static01.nyt.com/images/2022/06/30/technology/personaltech/29TECHTIP-TOPART/29TECHTIP-TOPART-facebookJumbo.jpg",
-          "width": 1050,
-          "height": 550,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nytimes.com/2022/06/29/technology/personaltech/use-that-everyday-ai-in-your-pocket.amp.html",
-      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/06/29/technology/personaltech/use-that-everyday-ai-in-your-pocket.amp.html",
-      "publishedDateTime": "2022-06-29T11:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New York Times",
-        "domain": "nytimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark.md",
-      "title": "Google, Nvidia split top marks in MLPerf AI training benchmark",
-      "excerpt": "Also: AI industry, obsessed with speed, is loathe to consider the energy cost in latest MLPerf benchmark Microsoft's Azure cloud unit took second place in the image segmentation competition, fourth place in the object detection competition with high ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/",
-      "originalUrl": "https://www.zdnet.com/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5d7aa0d3ffb09fd5719e8d55e7c6fe80d313c72e/2022/06/29/8988600a-5dc6-4aac-a4d0-69713f67fe07/d1097b1f-1af9-49a6-98b7-9a32308f9f1c.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/",
-      "publishedDateTime": "2022-06-29T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing",
-        "AI Hardware",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-genuine-marketing-group-inc-adds-ibm-alumnus-to-board-of-directors.md",
-      "title": "Genuine Marketing Group Inc. adds IBM Alumnus to Board of Directors",
-      "excerpt": "Genuine Marketing Group Inc. announces the appointment of William Le Voir-Barry to Chief Technology Officer and GMG Board Member. On June 22nd, the company",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/genuine-marketing-group-inc-adds-ibm-alumnus-to-board-of-directors/article_0171050c-74fd-500f-9332-829f502c3f80.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_technology/genuine-marketing-group-inc-adds-ibm-alumnus-to-board-of-directors/article_0171050c-74fd-500f-9332-829f502c3f80.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/assets/v3/editorial/8/b2/8b21842b-b8a6-59b5-8be9-6a713d302324/62bc9509c5036.image.jpg?crop=968%2C508%2C418%2C0&resize=968%2C508&order=crop%2Cresize",
-          "width": 968,
-          "height": 508,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T11:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Marketing"
       ]
     }
   ],

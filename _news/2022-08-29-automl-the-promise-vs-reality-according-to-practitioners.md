@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-29T09:50:00Z
 originalUrl: "https://www.infoq.com/articles/auto-ml-promise-reality/"
 webUrl: "https://www.infoq.com/articles/auto-ml-promise-reality/"
 type: article
-quality: 26
-heat: 26
+quality: 43
+heat: 43
 published: false
 
 provider:

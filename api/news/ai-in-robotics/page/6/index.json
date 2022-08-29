@@ -2,6 +2,101 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-07-19-teaching-home-robots-to-learn-by-watching-people.md",
+      "title": "Teaching home robots to learn by watching people",
+      "excerpt": "A team at Carnegie Mellon University is demonstrating the Wild Human Imitating Robot Learning, or WHIRL, an algorithm that can train a system by watching a video.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/18/teaching-home-robots-to-learn-by-watching-people/",
+      "originalUrl": "https://techcrunch.com/2022/07/18/teaching-home-robots-to-learn-by-watching-people/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.ytimg.com/vi/pIbHOuvuCl8/hqdefault.jpg",
+          "width": 480,
+          "height": 360,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/18/teaching-home-robots-to-learn-by-watching-people/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/18/teaching-home-robots-to-learn-by-watching-people/amp/",
+      "publishedDateTime": "2022-07-18T16:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-19-robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals.md",
+      "title": "Robots became racist after AI training, always chose Black faces as ‘criminals’",
+      "excerpt": "Scientists have confirmed that robots trained with artificial intelligence software perpetuates harmful racist stereotypes.",
+      "sourceUrl": null,
+      "webUrl": "https://thegrio.com/2022/07/18/robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals/",
+      "originalUrl": "https://thegrio.com/2022/07/18/robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thegrio.com/wp-content/uploads/2022/07/AdobeStock_240970277-scaled.jpeg",
+          "width": 1280,
+          "height": 575,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thegrio.com/2022/07/18/robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals/amp/",
+      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2022/07/18/robots-became-racist-after-ai-training-always-chose-black-faces-as-criminals/amp/",
+      "publishedDateTime": "2022-07-18T15:29:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Grio",
+        "domain": "thegrio.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-07-19-the-future-of-artificial-intelligence.md",
       "title": "The Future of Artificial Intelligence",
       "excerpt": "Even apart from the enduring dream of human-like intelligence, the future of AI is expected to play a deeply significant role in consumer and business markets.",
@@ -1263,92 +1358,6 @@
       "provider": {
         "name": "Analytics India Magazine",
         "domain": "analyticsindiamag.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-09-rajnath-singh-to-launch-75-ai-enabled-defence-products.md",
-      "title": "Rajnath Singh to launch 75 AI-enabled defence products",
-      "excerpt": "Defence Minister Rajnath Singh will launch the first-ever 'Artificial Intelligence in Defence' (AIDef) symposium and exhibition organised by the Department of Defence Production, Ministry of Defence on July 11 at Vigyan Bhawan in the national capital.",
-      "sourceUrl": null,
-      "webUrl": "https://www.catchnews.com/national-news/rajnath-singh-to-launch-75-ai-enabled-defence-products-236488.html",
-      "originalUrl": "https://www.catchnews.com/national-news/rajnath-singh-to-launch-75-ai-enabled-defence-products-236488.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 259,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://images.catchnews.com/upload/2020/09/02/rajnath.jpg",
-          "width": 730,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.catchnews.com/amp/national-news/rajnath-singh-to-launch-75-ai-enabled-defence-products-236488.html",
-      "cdnAmpWebUrl": "https://www-catchnews-com.cdn.ampproject.org/c/s/www.catchnews.com/amp/national-news/rajnath-singh-to-launch-75-ai-enabled-defence-products-236488.html",
-      "publishedDateTime": "2022-07-08T19:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Catch News",
-        "domain": "catchnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-08-75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday.md",
-      "title": "75 indigenously made AI-based defence products to be unveiled on Monday",
-      "excerpt": "Another 100 projects are in various stages of development,along with that infrastructure is also coming up for storing AI data which would enable work on classified applications related to country's d",
-      "sourceUrl": null,
-      "webUrl": "https://www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece",
-      "originalUrl": "https://www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 159,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bl-i.thgim.com/public/incoming/bnps89/article65617742.ece/alternates/LANDSCAPE_615/AJAY%20KUMAR.jpg",
-          "width": 615,
-          "height": 383,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece/amp/",
-      "cdnAmpWebUrl": "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/news/75-indigenously-made-ai-based-defence-products-to-be-unveiled-on-monday/article65617017.ece/amp/",
-      "publishedDateTime": "2022-07-08T09:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Line",
-        "domain": "thehindubusinessline.com",
         "images": null,
         "publishers": null,
         "authors": null

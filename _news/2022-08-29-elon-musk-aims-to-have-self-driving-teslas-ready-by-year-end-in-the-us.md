@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/elon-musk-aims-have-self-drivin
 webUrl: "https://www.reuters.com/technology/elon-musk-aims-have-self-driving-teslas-ready-by-year-end-us-2022-08-29/"
 type: article
 quality: 83
-heat: 103
+heat: 123
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
         width: 620
         height: 464
         isCached: true
+  - title: "Elon Musk aims to have self-driving Teslas ready by year-end"
+    excerpt: "Tesla’s self-driving technology could be in wide release in the U.S. by the end of the year, and possibly also in Europe, depending on regulatory approval."
+    publishedDateTime: 2022-08-29T12:29:00Z
+    webUrl: "https://europe.autonews.com/automakers/elon-musk-aims-have-self-driving-teslas-ready-year-end"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 54
+    images:
+      - url: "https://s3-prod-europe.autonews.com/s3fs-public/styles/1200x630/public/Tesla%20self%20drive%20rtrs%20web_3.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Elon Musk Hits Out At Beta Tester For “Complaining” About Full Self-Driving Beta"
     excerpt: "Musk quickly clapped back at Locke on Twitter, telling him that he shouldn’t complain having previously asked to be included in early releases of Tesla’s Full Self-Driving beta software. “10.69 is in limited release for a reason."
     publishedDateTime: 2022-08-26T16:00:00Z
@@ -56,6 +70,15 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 34
+  - title: "Elon Musk wants self-driving Teslas in Europe by year-end"
+    excerpt: "Tesla chief Elon Musk said he aims to get the electric auto maker's self-driving technology ready by year-end and hopes it could be in wide release in the United States and possibly in Europe, depending on regulatory approval."
+    publishedDateTime: 2022-08-29T13:31:00Z
+    webUrl: "https://www.irishexaminer.com/business/technology/arid-40950212.html"
+    type: article
+    provider:
+      name: Irish Examiner
+      domain: irishexaminer.com
+    quality: 19
 
 secured: "ZmZ+DSNOaagqwwD/uhSIwp8R2kw1g+jwfVwLizsVRIQ0cJCzVFlCiKf1cCh8Of3NaAkMVp5d+bb+dGEPzi+XqprA/ZQRdBbbC7gDOg2VkOi4Wyffaaeuge0seHIqVTIoiUAZCmU6xZJwDTZvetMxjhDGmKYamcVKcb/0rtwPOxnJINy48yXNjNf5QZ5ePAIvRTaCyOsd8bAkkZMGjsse7t4RvTlVpQkATcLwdM98D3ku4XEEiVeMRi+dMbwqBY3iwG0USuBY7q03PYPNZcP3mQ/3/QbRRvlSEOLU4TspG2spuOugi6T8I8pM8mSkVSI/kIC6KL0NDsWqK9cX9aJpOjsY44tonTkL2Qimr7mXnk2dkDUMmVc2nKryq7Dbop/OS5NJdGPYlRlUja60GSsYBcnIigoKlcMmeacYV6v8PZA5xxVkVwmushGKjFX7RS4jaNw6JLSj1Wn/C0hPwnGypPl7+rQlcZAk29vrJsq5rPtk+WJAFMnyAydnG1uLDfz3mPrO4BiomVnjNp8nXtbSZg==;g7TRenFR14YtwwKscaU4cg=="
 ---

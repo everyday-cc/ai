@@ -22,16 +22,16 @@ related:
   - title: "Self-driving cars: A primer"
     excerpt: "Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won’t drive at all."
     publishedDateTime: 2022-08-28T19:02:00Z
-    webUrl: "https://ktla.com/automotive/self-driving-cars-a-primer/"
-    ampWebUrl: "https://ktla.com/automotive/self-driving-cars-a-primer/amp/"
-    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/automotive/self-driving-cars-a-primer/amp/"
+    webUrl: "https://fox4kc.com/automotive/self-driving-cars-a-primer/"
+    ampWebUrl: "https://fox4kc.com/automotive/self-driving-cars-a-primer/amp/"
+    cdnAmpWebUrl: "https://fox4kc-com.cdn.ampproject.org/c/s/fox4kc.com/automotive/self-driving-cars-a-primer/amp/"
     type: article
     provider:
-      name: KTLA
-      domain: ktla.com
+      name: FOX4 Kansas City
+      domain: fox4kc.com
     quality: 44
     images:
-      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280"
+      - url: "https://fox4kc.com/wp-content/uploads/sites/16/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280"
         width: 1280
         height: 855
         isCached: true
@@ -49,15 +49,6 @@ related:
         width: 2400
         height: 1600
         isCached: true
-  - title: "Driverless cars: From science fiction to a road near you"
-    excerpt: "Self-driving cars, coaches, and lorries could on UK motorways next year - how is it working in China? | ITV National News"
-    publishedDateTime: 2022-08-24T20:19:00Z
-    webUrl: "https://www.itv.com/news/2022-08-24/driverless-cars-from-science-fiction-to-a-road-near-you"
-    type: article
-    provider:
-      name: ITV
-      domain: itv.com
-    quality: 19
 
 secured: "c05z1BP+ZTYwPlLTPYJ7V2HhsdteazIpFu5UunVB11csKvTTzzXAWzqX852nLBma2G9FV1SNbOJhyyENvfshqzeVQ2ZcgtKO7CspFNHMRI0bBjpliKokMM83SCtltAyfDRg/NSLEVaLRE6EkR1JHojNezljaeq955pdPeh8fKdMk5UuUPz+SGYtG5tZTuNpS4O1q1FIhQ/+yu/XsFpskZuJ9ZARaEqKFeSHJ9uK8qfHXmxFFN4EwBmrNUm5x6naOF47XFwNrWI4LwVsPRe7CdoxHT2N6rkYetLdPUKxX/PHbKltcYbbAODvk4x3Woybjwme+Uq6yoJ0GDSI/I9Hnvj2oJwemDSAhaSekm5pmNJlMn+KUaZ82MUNfz4DRMoRA77MjokeXN23AvIf/VQdd0B0nJmO8/WY8uYesvovO/wJv6SGJhbozK2Q8NOcoprlqq1skYzqaUrnxN4enFFBpikb0X6kaCMJxLPasz7er1h5DcLDr16IlOsECwyZbZiShPo1M8fnhRoOCQ6+34PahHQ==;Kk+ZiGi393kOmh64rFLhIA=="
 ---

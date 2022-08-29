@@ -2,6 +2,274 @@
   "page": 65,
   "value": [
     {
+      "path": "_news/2022-07-05-access-healthcare-to-hire-18000-people-in-12-months.md",
+      "title": "Access Healthcare to hire 18,000 people in 12 months",
+      "excerpt": "Access Healthcare, a leading provider of end-to-end healthcare revenue cycle and IT services, plans to hire more than 18,000 people in the next 12 months. The company is currently hiring people across its locations in Chennai,",
+      "sourceUrl": null,
+      "webUrl": "https://www.thehindu.com/business/access-healthcare-to-hire-18000-people-in-12-months/article65602782.ece",
+      "originalUrl": "https://www.thehindu.com/business/access-healthcare-to-hire-18000-people-in-12-months/article65602782.ece",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thehindu.com/theme/images/amp-og-image.jpg",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thehindu.com/business/access-healthcare-to-hire-18000-people-in-12-months/article65602782.ece/amp/",
+      "cdnAmpWebUrl": "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/business/access-healthcare-to-hire-18000-people-in-12-months/article65602782.ece/amp/",
+      "publishedDateTime": "2022-07-05T08:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hindu",
+        "domain": "thehindu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-05-mashgin-taps-computer-vision-to-improve-checkout-experience.md",
+      "title": "Mashgin taps computer vision to improve checkout experience",
+      "excerpt": "With its computer vision-powered self-checkouts, Mashgin wants to drive the future of the checkout experience at stadiums and grocery stores.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/05/mashgin-taps-computer-vision-to-improve-checkout-experience/",
+      "originalUrl": "https://venturebeat.com/2022/07/05/mashgin-taps-computer-vision-to-improve-checkout-experience/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 90,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/Mashgin-kiosk-e1656953769657.png?fit=800%2C482&strip=all",
+          "width": 800,
+          "height": 482,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/05/mashgin-taps-computer-vision-to-improve-checkout-experience/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/05/mashgin-taps-computer-vision-to-improve-checkout-experience/amp/",
+      "publishedDateTime": "2022-07-05T07:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-05-how-to-quickly-deploy-tinyml-on-mcus.md",
+      "title": "How to quickly deploy TinyML on MCUs",
+      "excerpt": "You’re curious about artificial intelligence (AI ... Under the hood, our AI relies on a neural network. You can think of a neural network as a collection of neurons, a bit like in our brains. That’s why in the case of a zombie apocalypse, AI would ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.embedded.com/how-to-quickly-deploy-tinyml-on-mcus/",
+      "originalUrl": "https://www.embedded.com/how-to-quickly-deploy-tinyml-on-mcus/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.embedded.com/wp-content/uploads/2022/07/07itemis_f5_t.png",
+          "width": 470,
+          "height": 358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-05T07:05:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Embedded",
+        "domain": "embedded.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-05-designing-next-generation-analog-chipsets-for-ai-applications.md",
+      "title": "Designing next generation analog chipsets for AI applications",
+      "excerpt": "Researchers at the Indian Institute of Science (IISc) have developed a design framework to build next-generation analog computing chipsets that could be faster and require less power than the digital chips found in most electronic devices.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.html",
+      "originalUrl": "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 146,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/designing-next-generat.jpg",
+          "width": 1000,
+          "height": 773,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-07-analog-chipsets-ai-applications.amp",
+      "publishedDateTime": "2022-07-05T07:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-07-05-bumrungrad-international-hospital-southeast-asias-largest-hospital-to-deploy-lunits-ai-cancer-screening-system.md",
+      "title": "Bumrungrad International Hospital, Southeast Asia’s Largest Hospital to Deploy Lunit’s AI Cancer Screening System",
+      "excerpt": "Aim to detect cancer in early stages and spearhead medical innovation through AI across the SEA region SEOUL, South Korea, July 5, 2022 /PRNewswire/ -- Lunit, a leading medical AI provider, announced that it has signed a contract with FujiFilm Thailand and Microsoft to supply AI cancer screening products to Bumrungrad International Hospital,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/PRNewswire/technology-health-asia-southeast-thailand-91e69832fde57e45578b343e6c24769f",
+      "originalUrl": "https://apnews.com/press-release/PRNewswire/technology-health-asia-southeast-thailand-91e69832fde57e45578b343e6c24769f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-05T06:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-05-artificial-intelligence-in-robotics-market-is-set-to-experience-a-significant-growth-of-28-cagr-from-2022-to-2031.md",
+      "title": "Artificial Intelligence in Robotics Market is Set to Experience a Significant Growth of 28% CAGR from 2022 To 2031",
+      "excerpt": "The Artificial Intelligence in Robotics market is expected to register a CAGR of 28% during the forecast period (2022 – 2031). Artificial intelligence (AI) and robotics prove to be a powerful ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-robotics-market-is-set-to-experience-a-significant-growth-of-28-cagr-from-2022-to-2031",
+      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-in-robotics-market-is-set-to-experience-a-significant-growth-of-28-cagr-from-2022-to-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Ukraine-Tank-war-AFP-1K-600x337.jpeg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-05T04:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-05-natural-language-processing-market-development-and-opportunities-with-forecast-2024.md",
       "title": "Natural language processing market Development and Opportunities with Forecast 2024",
       "excerpt": "Various industrial sectors today including healthcare, manufacturing, BFSI, automotive, and advertising are growing adoption of different advanced technologies in order to offer superior quality ...",
@@ -862,257 +1130,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-national-alzheimers-and-memory-services-helpline-records-over-5000-interactions.md",
-      "title": "National Alzheimer’s and Memory Services helpline records over 5,000 interactions",
-      "excerpt": "Doha: The National Alzheimer’s and Memory Services helpline ... for families caring for someone who has memory loss or cognitive decline as a result of a major illness or Alzheimer’s ...",
-      "sourceUrl": null,
-      "webUrl": "https://thepeninsulaqatar.com/article/04/07/2022/national-alzheimers-and-memory-services-helpline-records-over-5000-interactions",
-      "originalUrl": "https://thepeninsulaqatar.com/article/04/07/2022/national-alzheimers-and-memory-services-helpline-records-over-5000-interactions",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thepeninsulaqatar.com/assets/cdn/images/placeholder.jpg",
-          "width": 1280,
-          "height": 1024,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-04T00:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Peninsula",
-        "domain": "thepeninsulaqatar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-self-driving-car-market-size-2022-share-growth-rate-throughout-the-forecast-period-2031.md",
-      "title": "Self-Driving Car Market Size 2022 Share, Growth Rate Throughout The Forecast Period 2031",
-      "excerpt": "Self-driving cars have pre-installed control systems ... Nissan Motor Company, BMW AG, Baidu Inc., Daimler AG, Dutch Automated Vehicle Initiative (DAVI), Apple Inc., and Volkswagen among others.",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104473234/Self-Driving-Car-Market-Size-2022-Share-Growth-Rate-Throughout-The-Forecast-Period-2031",
-      "originalUrl": "https://menafn.com/1104473234/Self-Driving-Car-Market-Size-2022-Share-Growth-Rate-Throughout-The-Forecast-Period-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-04T00:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-factors-to-consider-regarding-ai-therapy.md",
-      "title": "Factors to Consider Regarding AI Therapy",
-      "excerpt": "In the first part of this post, we discussed how an effective AI therapist might be developed in the near future. In this second part, we will discuss some additional considerations of an AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/us/blog/understanding-hypnosis/202207/factors-consider-regarding-ai-therapy",
-      "originalUrl": "https://www.psychologytoday.com/us/blog/understanding-hypnosis/202207/factors-consider-regarding-ai-therapy",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_images/2022-07/willyam_bradberry_shutterstock.jpg?itok=fc36pwQy",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/us/blog/understanding-hypnosis/202207/factors-consider-regarding-ai-therapy?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/understanding-hypnosis/202207/factors-consider-regarding-ai-therapy?amp",
-      "publishedDateTime": "2022-07-03T22:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-digital-nursing-1-exploring-the-benefits-and-risks-of-artificial-intelligence.md",
-      "title": "Digital nursing 1: exploring the benefits and risks of artificial intelligence",
-      "excerpt": "Artificial intelligence is already being used to support advanced ... a robot for children that can respond to emotions; Paro, an animal therapy robot (Robert, 2019). A common theme in the literature on AI and robotics in healthcare is the expectation ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.nursingtimes.net/clinical-archive/healthcare-it/digital-nursing-1-exploring-the-benefits-and-risks-of-artificial-intelligence-04-07-2022/",
-      "originalUrl": "https://www.nursingtimes.net/clinical-archive/healthcare-it/digital-nursing-1-exploring-the-benefits-and-risks-of-artificial-intelligence-04-07-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.ps.emap.com/wp-content/uploads/sites/3/2022/07/INDEX-Disc_DigitalNursing-1_59109-series-440x330.jpg",
-          "width": 440,
-          "height": 330,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nursing Times",
-        "domain": "nursingtimes.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-ford-invests-1-billion-in-pittsburgh-robotics-startup-in-driverless-car-quest.md",
-      "title": "Ford invests $1 billion in Pittsburgh robotics startup in driverless car quest",
-      "excerpt": "Competitors such as NVIDIA have developed artificial intelligence that learns about ... In return for its funding, Argo will design its driverless system exclusively for Ford and then have a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wtae.com/article/ford-invests-in-pittsburgh-robotics-startup-driverless-cars/8729494",
-      "originalUrl": "https://www.wtae.com/article/ford-invests-in-pittsburgh-robotics-startup-driverless-cars/8729494",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://kubrick.htvapps.com/htv-prod/ibmig/cms/image/wtae/20602142-insurance-2013-ford-explorer-jpg.jpg?crop=1.00xw:0.846xh;0,0.0711xh&resize=1200:*",
-          "width": 1200,
-          "height": 676,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wtae.com/amp/article/ford-invests-in-pittsburgh-robotics-startup-driverless-cars/8729494",
-      "cdnAmpWebUrl": "https://www-wtae-com.cdn.ampproject.org/c/s/www.wtae.com/amp/article/ford-invests-in-pittsburgh-robotics-startup-driverless-cars/8729494",
-      "publishedDateTime": "2022-07-03T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTAE-TV",
-        "domain": "wtae.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-04-facial-recognition-works-on-seals-no-really.md",
-      "title": "Facial recognition works on seals. No, really.",
-      "excerpt": "SealNet is a brand new facial recognition for, you guessed it, seals. Biologists have been training and testing it in Maine for two years.",
-      "sourceUrl": null,
-      "webUrl": "https://www.popsci.com/environment/facial-recognition-software-seals/",
-      "originalUrl": "https://www.popsci.com/environment/facial-recognition-software-seals/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.popsci.com/uploads/2022/07/01/baby-harbor-seal-facial-recognition.jpg?auto=webp",
-          "width": 2000,
-          "height": 1333,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.popsci.com/environment/facial-recognition-software-seals/?amp",
-      "cdnAmpWebUrl": "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/environment/facial-recognition-software-seals/?amp",
-      "publishedDateTime": "2022-07-03T14:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Popular Science",
-        "domain": "popsci.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
       ]
     }
   ],

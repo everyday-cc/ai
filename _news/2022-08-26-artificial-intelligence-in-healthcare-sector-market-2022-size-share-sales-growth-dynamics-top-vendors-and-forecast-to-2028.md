@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-2022-size-share-sales-growth-dynamics-top-vendors-and-forecast-to-2028-2022-08-26"
 type: article
 quality: 72
-heat: 162
+heat: 172
 published: true
 
 provider:
@@ -146,6 +146,20 @@ related:
     excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on Machine Learning"
     publishedDateTime: 2022-08-25T09:52:00Z
     webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-with-cagr-status-competitive-landscape-industry-share-future-trends-growth-opportunities-and-forecast-to-2022-2031-2022-08-25"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Facial Recognition Devices Market Size and Share 2022 Analysis Report by Key Players, Geographical Regions, Future Development and Forecast to 2028"
+    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Facial Recognition Devices"
+    publishedDateTime: 2022-08-26T12:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-size-and-share-2022-analysis-report-by-key-players-geographical-regions-future-development-and-forecast-to-2028-2022-08-26"
     type: article
     provider:
       name: MarketWatch

@@ -152,15 +152,6 @@ related:
         width: 600
         height: 399
         isCached: true
-  - title: "Vets’ contribution needs social recognition"
-    excerpt: "Recent floods in Odisha have given substance to the fact that veterinary department is the forerunner in reaching out to distressed people in marooned and inundated areas. It’s quite apparent that a basket of essential services like electricity,"
-    publishedDateTime: 2022-08-24T19:03:00Z
-    webUrl: "https://www.dailypioneer.com/2022/state-editions/vets----contribution-needs-social-recognition.html"
-    type: article
-    provider:
-      name: The Pioneer
-      domain: dailypioneer.com
-    quality: 4
 
 secured: "E1JgzxGNYQynHlJ64NmsO3xPkqWqVIhWVFyW4/cCXroiPxKOrqN7JZySt/ymnSAMCbGua+5QUhycedL5aLl38MY/JJWPN3VTnk9+GKwFynhk4SFnCZKnt308mka5zrB9nsW/9DbltYfQvbLmH8ZItCT6cf4qnxLrZrCiZxDmNlO8R4IdfyW869oxyzS9PsZeQnDNyichbOuOo3nJb3+/ORSigsRTr12HExU3E/2nqHu7tQR2Balu11e9RCCrb8QJtXc9mhYgL3EbBW7JHSlODvP9Bk+Z+q+qVE+rCvC4qUI+U02LQ2cLOIvunZkqxbPm05ir2Ee/TGaWbmp3bE9MoQW+NS3HmPui/tWQOObFtd83VrEkllLsXhC+MTzPHtX22FOPTwD5zP2lgkcLMkajYvN506jBO7mgL6AXO4B/9tmV7gCL1/yWH3frVZM6VQPsx0IG/M1SUJGNz8kCoqEby9y7scUKQotvlthfY/If6NP0EHxFK2qBPmEiMVhkTid0UdYijOL49e2uf8znixk1SQ==;lkWG/ZaKJJRyEe7U5yf7xQ=="
 ---

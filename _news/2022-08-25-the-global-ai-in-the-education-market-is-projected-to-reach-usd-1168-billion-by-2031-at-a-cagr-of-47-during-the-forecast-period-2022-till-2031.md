@@ -30,6 +30,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence In Cancer Diagnosis And Therapy Market Worth $ 5.62 Billion By 2030"
+    excerpt: "Global Artificial Intelligence in Cancer Diagnosis and Therapy Market info. Global Artificial Intelligence in Cancer Diagnosis and Therapy Market seg. Glob"
+    publishedDateTime: 2022-08-29T10:58:00Z
+    webUrl: "https://menafn.com/1104774038/Global-Artificial-Intelligence-In-Cancer-Diagnosis-And-Therapy-Market-Worth-562-Billion-By-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 42
+    images:
+      - url: "https://menafn.com/updates/pr/2022-08/29/EP_6cb89image_story.jpeg"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Artificial Intelligence for Edge Devices Market Is Projected To Thriving At A CAGR of 26.9% During 2022-2026 | 90 Report Pages"
     excerpt: "Artificial Intelligence for Edge Devices Market gives a top to bottom and investigation-based organization. The report offers data about the overall business perspectives that imp"
     publishedDateTime: 2022-08-26T05:14:00Z
@@ -43,20 +57,6 @@ related:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
-        isCached: true
-  - title: "Global Artificial Intelligence In Cancer Diagnosis And Therapy Market Worth $ 5.62 Billion By 2030"
-    excerpt: "Global Artificial Intelligence in Cancer Diagnosis and Therapy Market info. Global Artificial Intelligence in Cancer Diagnosis and Therapy Market seg. Glob"
-    publishedDateTime: 2022-08-29T10:58:00Z
-    webUrl: "https://menafn.com/1104774038/Global-Artificial-Intelligence-In-Cancer-Diagnosis-And-Therapy-Market-Worth-562-Billion-By-2030"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 40
-    images:
-      - url: "https://menafn.com/updates/pr/2022-08/29/EP_6cb89image_story.jpeg"
-        width: 600
-        height: 314
         isCached: true
   - title: "Global Artificial Intelligence In Livestock Farming Market To Record An Exponential CAGR By 2030 -By Insightace Analytic"
     excerpt: "InsightAce Analytic Pvt. Ltd. announces the release of a market assessment report on the 'Global Artificial Intelligence in Livestock Farming Market - by Component (Solution/ Software/ App, IoT Sensors,"
@@ -113,20 +113,6 @@ related:
       - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?336595"
         width: 374
         height: 250
-        isCached: true
-  - title: "AI in FinTech Global Market Report 2022: Need for Fraud Detection in Fintech & Financial Institutions Driving Adoption - ResearchAndMarkets.com"
-    excerpt: "The “AI in FinTech Global Market Report 2022” report has been added to ResearchAndMarkets.com’s offering. The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25."
-    publishedDateTime: 2022-08-29T10:26:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
   - title: "Digital Twin Financial Services And Insurance Market Size Worth USD 12.07 Billion By 2029, Growing A CAGR Of 16.30%"
     excerpt: "Global Digital Twin Financial Services and Insurance Market Sizing Digital Twin Market, By Technology (IoT and IIoT, Blockchain, Artificial Intelligence and Machine Learning, Augmented Reality, Virtual Reality, and Mixed Reality, Big Data Analytics ..."

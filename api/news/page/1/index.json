@@ -2,6 +2,243 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-29-robot-sales-hit-record-high-in-north-america-for-third-straight-quarter.md",
+      "title": "Robot Sales Hit Record High in North America for Third-Straight Quarter",
+      "excerpt": "Association for Advancing Automation latest stats show the most robots sold in any quarter; automotive industry returns to historic norms, while food & consumer goods continues interest in automation to handle e-commerce logistics boom.",
+      "sourceUrl": null,
+      "webUrl": "https://www.automation.com/en-us/articles/august-2022/robot-sales-hit-record-high-north-america",
+      "originalUrl": "https://www.automation.com/en-us/articles/august-2022/robot-sales-hit-record-high-north-america",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.automation.com/getmedia/78715b12-b6e5-4559-9d38-61e4938d9b6f/Robots-news-Aug-29-2022-web.png?width=500&height=313&ext=.png",
+          "width": 500,
+          "height": 313,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T08:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automation",
+        "domain": "automation.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "AI in Sales"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-ethics-in-the-time-of-artificial-intelligence-and-their-sentient-attorneys.md",
+      "title": "Ethics In The Time of Artificial Intelligence (and their sentient attorneys)",
+      "excerpt": "By Matt Heisie, co-founder and head of product marketing of Ferret, an AI platform that provides critical intelligence to empower companies and individuals. A Google engineer stated earlier this year that the company’s AI bot known as LaMDA not only had achieved sentience but perhaps in the most obvious sign of modern human intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/ethics-in-the-time-of-artificial-intelligence-and-their-sentient-attorneys/",
+      "originalUrl": "https://www.globalbankingandfinance.com/ethics-in-the-time-of-artificial-intelligence-and-their-sentient-attorneys/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/08/iStock-1049226620.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/ethics-in-the-time-of-artificial-intelligence-and-their-sentient-attorneys/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/ethics-in-the-time-of-artificial-intelligence-and-their-sentient-attorneys/",
+      "publishedDateTime": "2022-08-29T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-lets-talk-about-robotics-ai-not-about-the-length-of-womens-dress.md",
+      "title": "\"Let’s talk about robotics, AI, not about the length of women’s dress\"",
+      "excerpt": "Education Minister Dr Dipu Moni today (August 29, 2022) said now is not the time to talk about the length of women’s dress.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/youth/education/news/lets-talk-about-robotics-ai-not-about-the-length-womens-dress-3106051",
+      "originalUrl": "https://www.thedailystar.net/youth/education/news/lets-talk-about-robotics-ai-not-about-the-length-womens-dress-3106051",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/feature/images/dipu_moni_2.jpg",
+          "width": 750,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/youth/education/news/lets-talk-about-robotics-ai-not-about-the-length-womens-dress-3106051?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/youth/education/news/lets-talk-about-robotics-ai-not-about-the-length-womens-dress-3106051?amp",
+      "publishedDateTime": "2022-08-29T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-why-artificial-general-intelligence-isnt-further-along.md",
+      "title": "Why Artificial General Intelligence Isn’t Further Along",
+      "excerpt": "For all the devastation it has caused, the Covid-19 pandemic could rightfully claim responsibility for accelerating the adaptation of artificial intelligence (AI) in the business world. Harris Poll, working with Appen, found that 55% of surveyed companies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/why-artificial-general-intelligence-isnt-further-along/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/why-artificial-general-intelligence-isnt-further-along/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c83cadb3da67a5ff548ecf/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/why-artificial-general-intelligence-isnt-further-along/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/29/why-artificial-general-intelligence-isnt-further-along/amp/",
+      "publishedDateTime": "2022-08-29T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-will-untether-ais-speedai240-boqueria-inferencing-chip-be-the-one.md",
+      "title": "Will Untether AI’s SpeedAI240 “Boqueria” Inferencing Chip Be “The One”?",
+      "excerpt": "One of the latest AI/ML chips to appear was revealed at last week’s Hot Chips 34 conference. Untether AI’s founder Martin Snelgrove and VP of Product Bob Beachler rolled out their company’s speedAI chip family,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630c2f17dc25910550390ffe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/amp/",
+      "publishedDateTime": "2022-08-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-new-ai-cryptographic-technology-can-help-combat-counterfeiting.md",
       "title": "New AI Cryptographic Technology Can Help Combat Counterfeiting",
       "excerpt": "The ability to implement an invisible cryptographic seal into existing packaging without changes to existing manufacturing and supply chain processes could transform the ability of companies to stop counterfeiting.",
@@ -159,7 +396,7 @@
       "originalUrl": "https://www.reuters.com/technology/elon-musk-aims-have-self-driving-teslas-ready-by-year-end-us-2022-08-29/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 103,
+      "heat": 123,
       "tags": null,
       "images": [
         {
@@ -976,229 +1213,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system.md",
-      "title": "Artificial Intelligence: Path-breaking revolution in Indian Healthcare System",
-      "excerpt": "In the form of machine learning, AI has the capability for the development of precision medicine, which is the future of advanced care. Although early..",
-      "sourceUrl": null,
-      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886",
-      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-93813886,imgsize-159690,width-1200,height-628,overlay-ethealthworld/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886",
-      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886",
-      "publishedDateTime": "2022-08-27T00:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-proposed-uk-law-humans-not-liable-for-self-driving-vehicle-accidents.md",
-      "title": "Proposed UK Law: Humans Not Liable for Self-Driving Vehicle Accidents",
-      "excerpt": "Self-driving cars could begin operating on major UK highways within the next year ahead of wider 2025 rollout, but humans won't be liable for accidents that occur when the vehicle is in control ...",
-      "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/cars-auto/142199/proposed-uk-law-humans-not-liable-for-self-driving-vehicle-accidents",
-      "originalUrl": "https://uk.pcmag.com/cars-auto/142199/proposed-uk-law-humans-not-liable-for-self-driving-vehicle-accidents",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/p/proposed-u/proposed-uk-law-humans-not-liable-for-self-driving-vehicle-a_86kg.1200.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T19:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-how-artificial-intelligence-is-finding-critical-heart-failure-patients.md",
-      "title": "How artificial intelligence is finding critical heart failure patients",
-      "excerpt": "Over 6 million American adults suffer from heart failure. But now, doctors are harnessing AI technology to catch the problem before it's fatal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wqad.com/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
-      "originalUrl": "https://www.wqad.com/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.tegna-media.com/assets/WQAD/images/995c409e-08a4-4d28-9233-f96e3239ae90/995c409e-08a4-4d28-9233-f96e3239ae90_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wqad.com/amp/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
-      "cdnAmpWebUrl": "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
-      "publishedDateTime": "2022-08-26T16:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WQAD",
-        "domain": "wqad.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-ai-enabled-fish-gate-filters-invasive-salmon-out-of-norwegian-waterways.md",
-      "title": "AI-enabled fish gate filters invasive salmon out of Norwegian waterways",
-      "excerpt": "After being introduced to Russia's White Sea in the 1950s, non-native Pacific salmon have since spread along Norway's coastline and into its rivers. In an effort to control their numbers, an AI-enabled fish-identifying gate has recently been installed on a Norwegian river.",
-      "sourceUrl": null,
-      "webUrl": "https://newatlas.com/environment/ai-fish-gate-atlantic-pacific-salmon/",
-      "originalUrl": "https://newatlas.com/environment/ai-fish-gate-atlantic-pacific-salmon/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.newatlas.com/dims4/default/06faac6/2147483647/strip/true/crop/1161x610+0+82/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnewatlas-brightspot.s3.amazonaws.com%2F07%2F97%2F0dadfea54ffc8c1d4c7ec4584179%2Fscreen-shot-2022-08-26-at-1.02.26%20PM.jpeg&na.image_optimisation=0",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T13:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Atlas",
-        "domain": "newatlas.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/newatlas.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-jack-henry-jkhy-to-unveil-financial-crimes-defender-platform.md",
-      "title": "Jack Henry (JKHY) to Unveil Financial Crimes Defender Platform",
-      "excerpt": "JKHY equipped the platform’s analytics engine with the globally largest RiskOps platform called Feedzai. With the Financial Crimes Defender platform, Jack Henry aims to provide financial institutions with advanced technological capabilities,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/jack-henry-jkhy-to-unveil-financial-crimes-defender-platform",
-      "originalUrl": "https://www.nasdaq.com/articles/jack-henry-jkhy-to-unveil-financial-crimes-defender-platform",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/jack-henry-jkhy-to-unveil-financial-crimes-defender-platform?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/jack-henry-jkhy-to-unveil-financial-crimes-defender-platform?amp",
-      "publishedDateTime": "2022-08-26T13:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }

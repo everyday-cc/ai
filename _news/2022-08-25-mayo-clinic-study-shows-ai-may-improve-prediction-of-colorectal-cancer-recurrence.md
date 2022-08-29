@@ -35,22 +35,6 @@ related:
         width: 1200
         height: 1000
         isCached: true
-  - title: "South Shore University Hospital using AI to detect polyps that can lead to colon cancer"
-    excerpt: "GI Genius technology giving doctors a second set of eyes when looking for what could lead to second-most deadly cancer."
-    publishedDateTime: 2022-08-24T21:46:00Z
-    webUrl: "https://www.cbsnews.com/newyork/news/south-shore-university-hospital-using-ai-to-detect-polyps-that-can-lead-to-colon-cancer/"
-    ampWebUrl: "https://www.cbsnews.com/amp/newyork/news/south-shore-university-hospital-using-ai-to-detect-polyps-that-can-lead-to-colon-cancer/"
-    cdnAmpWebUrl: "https://www-cbsnews-com.cdn.ampproject.org/c/s/www.cbsnews.com/amp/newyork/news/south-shore-university-hospital-using-ai-to-detect-polyps-that-can-lead-to-colon-cancer/"
-    type: article
-    provider:
-      name: CBS News
-      domain: cbsnews.com
-    quality: 49
-    images:
-      - url: "https://assets1.cbsnewsstatic.com/hub/i/r/2022/08/24/3f481e8e-9e46-4aa3-bedf-d9a8a4516ea5/thumbnail/1200x630/1db831793d4413a2e246c1803d162330/artificial-intelligence-colonoscopy.jpg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "EwhNuI6xPwD0GL2wyyeGVwCToQpTNNDtzxiAgDrgKkuFOXvRKArwt2xpRnmtIN0SJijytiYAXFbGMOi/uYGCx+yJrSh6KVG8C26y89Gx+88s3WugWL6oYApEO3w6WJTfpgPKQ7fE2O/3BUrq68sct3G9IkP9yPoC3hJUUpjr4MNEP7GhBfbSU+DgcANBPCcRR1o63EGoUgty8aRa5p+63TznlBtLRc26KpTmpYt+kQMB7lnJbSz2dT6P542kX0HFIiCI5nhn6kl3heIysoYiOZbyfr98xb79cdE2MAnpOeEbr/4uHVFTS8mAfX3T7Yrlh4/q1Dldo7n/Y9Q7yEE7w3LzMzVrZl8PG/ggaIIHhEA=;XZxJCvNCehQPyUMl5Jm1EA=="
 ---

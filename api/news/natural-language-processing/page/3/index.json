@@ -2,6 +2,106 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-07-8-ultimate-ai-projects-for-beginners.md",
+      "title": "8 Ultimate AI Projects for Beginners",
+      "excerpt": "So you have decided to take an Artificial Intelligence (AI) course to stay relevant in an increasingly digital",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/8-ultimate-ai-projects-for-beginners-2022-08-07",
+      "originalUrl": "https://www.marketwatch.com/press-release/8-ultimate-ai-projects-for-beginners-2022-08-07",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-07T08:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI",
+        "Machine Learning",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-07-ai-does-not-have-thoughts-no-matter-what-you-think.md",
+      "title": "AI does not have thoughts, no matter what you think",
+      "excerpt": "The technology can generate tweets and blog posts and even entire articles, and as researchers make gains, it is getting better at conversation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.moneycontrol.com/news/technology/ai-does-not-have-thoughts-no-matter-what-you-think-8970231.html",
+      "originalUrl": "https://www.moneycontrol.com/news/technology/ai-does-not-have-thoughts-no-matter-what-you-think-8970231.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.moneycontrol.com/static-mcnews/2019/09/artificial-intelligence-3382507_1280-e1576670917550-753x435.jpg",
+          "width": 753,
+          "height": 435,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.moneycontrol.com/news/technology/ai-does-not-have-thoughts-no-matter-what-you-think-8970231.html/amp",
+      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/technology/ai-does-not-have-thoughts-no-matter-what-you-think-8970231.html/amp",
+      "publishedDateTime": "2022-08-06T10:03:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "moneycontrol.com",
+        "domain": "moneycontrol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Machine Learning",
+        "AI Ethics",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-08-06-ai-ethics-asks-whether-it-makes-any-sense-to-ask-ai-if-ai-itself-is-sentient.md",
       "title": "AI Ethics Asks Whether It Makes Any Sense To Ask AI If AI Itself Is Sentient",
       "excerpt": "AI Ethics raises the thorny question as to whether the question asked of AI about AI itself being sentient is a bit overrated, including frowning at recent headlines boldly and falsely proclaiming sentient AI existence.",
@@ -1296,101 +1396,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-australia-pm-unveils-draft-indigenous-recognition-referendum-question.md",
-      "title": "Australia PM unveils draft Indigenous recognition referendum question",
-      "excerpt": "Australian Prime Minister Anthony Albanese on Saturday unveiled the wording of a draft referendum question as part of moves to",
-      "sourceUrl": null,
-      "webUrl": "https://kelo.com/2022/07/29/australia-pm-unveils-draft-indigenous-recognition-referendum-question/",
-      "originalUrl": "https://kelo.com/2022/07/29/australia-pm-unveils-draft-indigenous-recognition-referendum-question/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://storage.googleapis.com/media.mwcradio.com/mimesis/2022-07/30/2022-07-30T015528Z_1_LYNXMPEI6T00V_RTROPTP_3_ASIA-ENERGY.JPG",
-          "width": 800,
-          "height": 533,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-29T18:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KELO",
-        "domain": "kelo.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-29-how-businesses-can-use-video-translation-to-grow-their-global-influence.md",
-      "title": "How Businesses Can Use Video Translation To Grow Their Global Influence",
-      "excerpt": "Alexander Konovalov is the founder and CEO at vidby, a Swiss startup offering AI-powered video translation and dubbing across 70 languages. If you want to grow your business globally, it helps to speak the language of your customers.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/29/how-businesses-can-use-video-translation-to-grow-their-global-influence/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/29/how-businesses-can-use-video-translation-to-grow-their-global-influence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e28f5f373b64f5c2047183/0x0.jpg?format=jpg&width=1200",
-          "width": 1121,
-          "height": 747,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/07/29/how-businesses-can-use-video-translation-to-grow-their-global-influence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/07/29/how-businesses-can-use-video-translation-to-grow-their-global-influence/amp/",
-      "publishedDateTime": "2022-07-29T03:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
