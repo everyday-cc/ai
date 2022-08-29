@@ -18,17 +18,6 @@ topics:
   - AI in Autos
   - AI
 
-related:
-  - title: "Driverless cars: From science fiction to a road near you"
-    excerpt: "Self-driving cars, coaches, and lorries could on UK motorways next year - how is it working in China? | ITV National News"
-    publishedDateTime: 2022-08-24T20:19:00Z
-    webUrl: "https://www.itv.com/news/2022-08-24/driverless-cars-from-science-fiction-to-a-road-near-you"
-    type: article
-    provider:
-      name: ITV
-      domain: itv.com
-    quality: 19
-
 secured: "U7bIQN31ME4daevGLLBg0WzfPRO60mj83gxC6uUpQOhnDFZOunpqjMaKBPS3SYNEMSRfbDPmizcR4861PQK02TKGas+YEgB1xpNT11KybWxYSvnX9cYMohalcl/sQ/5uesUHOVgOjOMVfM25b8NPfDkHY0gKegBLoEh2CKf0RTcBdfLIP5p3IWzWHSjAG+gQlwnFmfhjUzkQRH3agzWKqyIfbiLQ41NbRIjQgmRF1+yYBjeo9i2ASb5lSl8yklUktTqeN4D17pSXJTiM1uplhtS8MZBRkyhHkM+6/g/gFOjWGgpqkKsMqUceChlBmSUQcV4aoUKjbre+SmTT6+i/E+sAu4s9ZtA0C/6v2NPofAY=;zeNAILnTj6hhAr7PufQZIw=="
 ---
 

@@ -2,49 +2,6 @@
   "page": 32,
   "value": [
     {
-      "path": "_news/2022-08-01-uipath-acquires-reinfer-bringing-natural-language-processing-to-enhance-everyday-customer-conversations-through-automation.md",
-      "title": "UiPath Acquires Re:infer Bringing Natural Language Processing to Enhance Everyday Customer Conversations Through Automation",
-      "excerpt": "Leading enterprise automation software company, UiPath (NYSE: PATH), today announced it has acquired Re:infer, a London-based natural language processing (NLP) company for unstructured documents and communications.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-e7387ed4fd5c4d83837ba78a0ee38411",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-e7387ed4fd5c4d83837ba78a0ee38411",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-01T05:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-01-can-artificial-intelligence-really-help-us-talk-to-the-animals.md",
       "title": "Can artificial intelligence really help us talk to the animals?",
       "excerpt": "to decode non-human communication using a form of artificial intelligence (AI) called machine learning, and make all the knowhow publicly available, thereby deepening our connection with other ...",
@@ -1154,6 +1111,49 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-31-facebook-engineers-panic-pull-plug-on-ai-after-bots-develop-their-own-language.md",
+      "title": "Facebook engineers panic, pull plug on AI after bots develop their own language",
+      "excerpt": "Facebook engineers were forced to pull the plug on one of the company’s AI systems after its bots began communicating with each other in a completely new language which humans simply couldn’t ...",
+      "sourceUrl": null,
+      "webUrl": "https://bgr.com/science/facebook-ai-shutdown-language/",
+      "originalUrl": "https://bgr.com/science/facebook-ai-shutdown-language/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bgr.com/wp-content/uploads/2016/02/facebooklogo.jpg?quality=82&strip=all",
+          "width": 1368,
+          "height": 1022,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://bgr.com/science/facebook-ai-shutdown-language/amp/",
+      "cdnAmpWebUrl": "https://bgr-com.cdn.ampproject.org/c/s/bgr.com/science/facebook-ai-shutdown-language/amp/",
+      "publishedDateTime": "2022-07-30T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BGR",
+        "domain": "bgr.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
         "AI"
       ]
     }

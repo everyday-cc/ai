@@ -39,20 +39,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Cognitive Services Market Size Predicted To Increase At A Positive CAGR Of 42.6% From 2022 To 2031"
-    excerpt: "Shibuya-ku, Tokyo, Japan, Japan, Aug 24, 2022, 03:59 /Comserve / -- The report predicts the global Cognitive Services Market to grow with a CAGR of 42.6% over t"
-    publishedDateTime: 2022-08-24T10:06:00Z
-    webUrl: "https://menafn.com/1104746503/Cognitive-Services-Market-Size-Predicted-To-Increase-At-A-Positive-CAGR-Of-426-From-2022-To-2031"
-    type: article
-    provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 25
-    images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?508575"
-        width: 333
-        height: 250
-        isCached: true
   - title: "Vision Screeners Market is expected to grow at a CAGR of 5.9% during the forecast period 2022-2029"
     excerpt: "Global vision screener sales are likely to near US$ 500 Mn by the end of 2022. According to a new research intelligence study presented by Future Market Insights (FMI), the Vision Screeners Market will continue to witness an average 5."
     publishedDateTime: 2022-08-25T09:17:00Z

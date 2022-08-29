@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-supply-chain-market-worldwide-demand-development-growth-and-business-attractions-2028-ibm-microsoft-google-amazon-2022-08-26"
 type: article
 quality: 63
-heat: 83
+heat: 73
 published: true
 
 provider:
@@ -29,20 +29,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Recruitment Market 2022 Rising Consumer Demand, Major Manufacturers Performance, Growth and Segmentation 2028"
-    excerpt: "An exhaustive analysis of market trends for 2022 to 2028 is discussed in Global AI Recruitment Market published"
-    publishedDateTime: 2022-08-24T09:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-recruitment-market-2022-rising-consumer-demand-major-manufacturers-performance-growth-and-segmentation-2028-2022-08-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognitive Systems Market Is Booming with Progressive Trends and Future Opportunities by 2028| IBM, Accenture, HP, Microsoft, Intel"
     excerpt: "Aug 26, 2022 (Market Insight Reports) -- New Jersey, United States-The Cognitive Systems Market research examines ... revenue, innovative services, the actual status of demand and supply, and pricing strategy. In addition to this, this report also delivers ..."
     publishedDateTime: 2022-08-26T18:56:00Z

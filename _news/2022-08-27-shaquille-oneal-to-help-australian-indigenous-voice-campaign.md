@@ -9,7 +9,7 @@ ampWebUrl: "https://www.dailysabah.com/sports/basketball/shaquille-oneal-to-help
 cdnAmpWebUrl: "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/sports/basketball/shaquille-oneal-to-help-australian-indigenous-voice-campaign/amp"
 type: article
 quality: 59
-heat: 119
+heat: 129
 published: true
 
 provider:
@@ -98,6 +98,22 @@ related:
       name: Free Malaysia Today
       domain: freemalaysiatoday.com
     quality: 19
+  - title: "Barnaby Joyce hits out at Anthony Albanese over Shaquille O'Neal Voice to Parliament presser as Tanya Plibersek defends move"
+    excerpt: "The Coalition has continued to heap criticism on Prime Minister Anthony Albanese over his decision to hold a press conference with American basketball star Shaquille O'Neal over the Indigenous Voice to Parliament."
+    publishedDateTime: 2022-08-29T02:38:00Z
+    webUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/barnaby-joyce-hits-out-at-anthony-albanese-over-shaquille-oneal-voice-to-parliament-presser-as-tanya-plibersek-defends-move/news-story/b9b8049da29bd01780ab37fb23352f34"
+    ampWebUrl: "https://www.skynews.com.au/australia-news/voice-to-parliament/barnaby-joyce-hits-out-at-anthony-albanese-over-shaquille-oneal-voice-to-parliament-presser-as-tanya-plibersek-defends-move/news-story/b9b8049da29bd01780ab37fb23352f34?amp"
+    cdnAmpWebUrl: "https://www-skynews-com-au.cdn.ampproject.org/c/s/www.skynews.com.au/australia-news/voice-to-parliament/barnaby-joyce-hits-out-at-anthony-albanese-over-shaquille-oneal-voice-to-parliament-presser-as-tanya-plibersek-defends-move/news-story/b9b8049da29bd01780ab37fb23352f34?amp"
+    type: article
+    provider:
+      name: Sky News Australia
+      domain: skynews.com.au
+    quality: 17
+    images:
+      - url: "https://content.api.news/v3/images/bin/da3de6e68e77393fbc7923736aa3d8ae"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Anthony Albanese and Linda Burney meet with Shaquille O'Neal as government seeks to mobilise support for Voice to Parliament"
     excerpt: "Prime Minister Anthony Albanese and Indigenous Australians Minister Linda Burney have met with American basketball great Shaquille O'Neal as the government seeks to mobilise support for the Voice to Parliament."
     publishedDateTime: 2022-08-27T02:26:00Z

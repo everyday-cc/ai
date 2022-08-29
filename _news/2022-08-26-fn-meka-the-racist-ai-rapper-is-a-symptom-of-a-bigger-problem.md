@@ -9,7 +9,7 @@ ampWebUrl: "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna44785"
 cdnAmpWebUrl: "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna44785"
 type: article
 quality: 57
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -53,20 +53,6 @@ related:
       - url: "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_528,w_940,x_2,y_337/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1661459340/Screen_Shot_2022-08-25_at_4.28.14_PM_zei9m2"
         width: 940
         height: 528
-        isCached: true
-  - title: "Capitol Music Group drops AI rapper FN Meka amid backlash over racial stereotyping"
-    excerpt: "But the announcement prompted a backlash over the project, including an open letter from Industry Blackout. The group of Black industry professionals slammed FN Meka as being a “direct insult to the Black community and our culture”."
-    publishedDateTime: 2022-08-24T09:34:00Z
-    webUrl: "https://www.musicweek.com/labels/read/capitol-music-group-drops-ai-rapper-fn-meka-amid-backlash-over-racial-stereotyping/086427"
-    type: article
-    provider:
-      name: Music Week
-      domain: musicweek.com
-    quality: 31
-    images:
-      - url: "http://www.musicweek.com/cimages/ce52b1ad2f5576ac99a34264fa4c71b9.jpeg"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "guBBC2A5v6FLUuxJpz4gAPV9/Sl01JnshVHhg+YvpvuPe2MK87AZK/y7ZsOEiwVCjhh7IDJUpLZ8OGtjCLtuuZrxz7jgaOrNZbHkWVSrG3mtayE91uSOw4Qo7YnNq968vfeoBuDSc6/V+zXLClq4l5e+5zsM1dijRIQQIa/QXdsL0m2BiIRpXRaJh9S8PaLpqVs7jkYBYVNGgK4g21vDUbrCo7+kqkS3mVel1yexVdTkeS9uqF+VCDSPfz5VqSZfrUnacAy1Mtb6dornC880BZiNCMOAxMjUI0HhaYZZoOc78m+VO+ku4/hOEnz/6kP8PpvyAmqvuT0wU/tmuTX7dQs65Dq4Zdjr9nmzyh1SaNQe2Zx5tDaFqxgHCmPybqeN7yAeOcK9BSOfMtZkDOf6pJDobUICRL/BVW9XDYfrLRX/BctXxVdu6avfiZHk9/9LC2uDBLi1n3oZLF2YPVWrRPqPNjLeCDr35Eh7PYxZX7XmlMs8S4BXc9po8BFxW/6jOD9+HY18pWZv3T0bDSjOWw==;FRFAjqEjgtNv7nvkOWMQpw=="

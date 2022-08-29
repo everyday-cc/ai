@@ -34,20 +34,6 @@ related:
         width: 2048
         height: 1365
         isCached: true
-  - title: "With State Ban Set to Expire, Local Police Could Bring Back Facial Rec"
-    excerpt: "But doing so in San Diego will be harder following reforms to the city’s use and acquisition of surveillance gear"
-    publishedDateTime: 2022-08-24T11:00:00Z
-    webUrl: "https://voiceofsandiego.org/2022/08/24/with-state-ban-set-to-expire-local-police-could-bring-back-facial-rec/"
-    type: article
-    provider:
-      name: Voice of San Diego
-      domain: voiceofsandiego.org
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/voiceofsandiego.org/wp-content/uploads/2018/07/Free-Our-Future-Rally_4.jpg?fit=2048%2C1360&ssl=1"
-        width: 2048
-        height: 1360
-        isCached: true
 
 secured: "XMzIOWZXjjNDLRLYhCJmb0znGZE7QALn7bFy3y0ITsKbK3ceLSt8RxtwlrMVJt+9vkzWZDus9F0wQAEb6LuZPo0PuutXBDx2hlxKQrQ1zj3QLxc1/6//smWKQ+AkoBvzn8TDL/iAMwFVoC5WVD8QahUDP0G5TPlprWRK1L1KfhWOC2NVaSxuBMu4cdNN5xIj+xDydRhgMdC8/1Hv5GxoeqgO8iKYF9/oJX8QIJFEUadKDb5ehJb+axSc1++Iu317IzZTXC1rxgqE4m0Ry0Rtu+kqocaYcNlvf7g6YF5EIEOcmNRaXOS08Ot4e8LTM1MlZBUBKMC1uMiauqTKaZk3RY21vwEVudwSguIi9QoX1XU=;VhCcVfp6Gpliocgto7bmtQ=="
 ---

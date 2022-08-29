@@ -41,15 +41,6 @@ related:
         width: 735
         height: 552
         isCached: true
-  - title: "Kura Technologies’ Artificial Intelligence Generated Optics Deliver the Highest Performance for the Future of the Metaverse"
-    excerpt: "Kura Technologies, an award-winning developer of the best-in-class augmented reality (AR) smart glasses and platform, today announced that its fully custom and highly-anticipated development kit optics are up and running in the lab with production to start later this year."
-    publishedDateTime: 2022-08-24T11:03:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-artificial-intelligence-cb79e856aa4687dc27cfa96827935080"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
 
 secured: "mLmmgExqRFpUYU1mNbp9UP0uGaTaG2xLZgrCOKya8/zvtD9UNVa+fGySJ15M4ZjJV2foTwsBE53jboQkf7/JgMKyGe4DovGIwmvFI83ZkGXL5mC82tkoaFBzrRdxKhjSJnYsXhXB8ZictH05m2LQFdykfv6JRJf32l0adkDGOZacedh/ZYid0wgSflO5GBrklFHLifrlH0Mlp0YRP3ZesUThjaw3khoxeQ5gwm5BFhmW8Va766LgMBYpN6GYzc9a05MsEzh/m51gUahg2jnguaDOC1U+cw6NeEQPC3MjYz+l6RXrDw9dHgPmLn8/XLJ1dIs2xIQIQjDc5V1hbeNMDfCyRpDs/CoEUGJHbwZZVxksL4dYGzwo/Ke3VdBgznDChdbCg3mQJyatdG1yMetwLXUB3J/DKFSIsEFGSDYoNo1W7wIobiz5nI9ZTrRY2pJiloxtAP0zdxWe/65CXCEteKUbDJ47HPdu2rB10mScJr1cnoJqyPA2GCdkpy1bo88VPu6FtbDeY49eYBIBDNo+dg==;IZicbbQFpImqjb8i+folog=="
 ---

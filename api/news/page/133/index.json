@@ -2,57 +2,6 @@
   "page": 133,
   "value": [
     {
-      "path": "_news/2022-05-17-tableau-enhances-links-to-salesforce-ai-as-it-works-to-blend-more-into-ecosystem.md",
-      "title": "Tableau enhances links to Salesforce AI as it works to blend more into ecosystem",
-      "excerpt": "When Salesforce spent almost $16 billion to buy Tableau in 2019, it was getting a company with a goal of bringing data to the masses. As a cloud solution, it fits nicely into the growing Salesforce federation of cloud products and services.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/05/17/tableau-announces-deeper-integration-with-salesforce-einstein-ai/",
-      "originalUrl": "https://techcrunch.com/2022/05/17/tableau-announces-deeper-integration-with-salesforce-einstein-ai/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 92,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/05/Screen-Shot-2022-05-16-at-3.18.20-PM.jpg?w=1024",
-          "width": 1024,
-          "height": 651,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/05/17/tableau-announces-deeper-integration-with-salesforce-einstein-ai/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/05/17/tableau-announces-deeper-integration-with-salesforce-einstein-ai/amp/",
-      "publishedDateTime": "2022-05-17T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-05-17-bristol-robotics-start-up-signs-deal-with-energy-giant-enel.md",
       "title": "Bristol robotics start-up signs deal with energy giant Enel",
       "excerpt": "The company was founded by three University of Bristol graduates in 2016 and uses tech to inspect wind turbines",
@@ -1109,6 +1058,58 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-cncf-launches-ethics-in-open-source-training-course.md",
+      "title": "CNCF launches ethics in open source training course",
+      "excerpt": "The Cloud Native Computing Foundation has developed a new certification for developers looking to better incorporate ethical-first thinking into their open source software design.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.html",
+      "originalUrl": "https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2020/05/cio-ethics-imageby-rapideye-gettyimages-162922472-100842471-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3660637/cncf-launches-ethics-in-open-source-training-course.amp.html",
+      "publishedDateTime": "2022-05-16T04:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
         "AI"
       ]
     }

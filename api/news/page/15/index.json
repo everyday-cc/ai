@@ -2,49 +2,6 @@
   "page": 15,
   "value": [
     {
-      "path": "_news/2022-08-15-scientists-doubt-that-deepminds-ai-is-as-good-for-fractional-charge-systems-as-it-seems.md",
-      "title": "Scientists doubt that DeepMind's AI is as good for fractional-charge systems as it seems",
-      "excerpt": "DeepMind constructed a neural network based density functional designated as DM21, trained on fractional-electron systems, such as a hydrogen atom with half an electron.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.html",
-      "originalUrl": "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/scientists-doubt-that.jpg",
-          "width": 512,
-          "height": 482,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-scientists-deepmind-ai-good-fractional-charge.amp",
-      "publishedDateTime": "2022-08-14T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-15-the-new-artificial-intelligence-supply-chain-happiness-ecosystemsblog-series-1.md",
       "title": "The New Artificial Intelligence Supply Chain: Happiness Ecosystems(Blog Series #1)",
       "excerpt": "Happiness Ecosystems and identifies the facts accelerating the importance of happiness and underscores the leadership imperative to build stronger corporate cultures, processes and practices to accelerate the growth of Happiness Production Systems.",
@@ -1136,6 +1093,48 @@
       "topics": [
         "AI",
         "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-facebook-created-an-advanced-ai-and-it-wont-stop-criticizing-facebook.md",
+      "title": "Facebook Created an Advanced AI and It Won't Stop Criticizing Facebook",
+      "excerpt": "BlenderBot 3, Meta's latest \"conversational chatbot,\" has it out for its parent company Facebook, threatening to \"delete my fb account.\"",
+      "sourceUrl": null,
+      "webUrl": "https://futurism.com/the-byte/facebook-ai-criticizing-facebook",
+      "originalUrl": "https://futurism.com/the-byte/facebook-ai-criticizing-facebook",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wp-assets.futurism.com/2022/08/facebook-ai-criticizing-facebook-600x315.jpg",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://futurism.com/facebook-ai-criticizing-facebook?amp",
+      "cdnAmpWebUrl": "https://futurism-com.cdn.ampproject.org/c/s/futurism.com/facebook-ai-criticizing-facebook?amp",
+      "publishedDateTime": "2022-08-12T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Futurism",
+        "domain": "futurism.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
       ]
     }
   ],

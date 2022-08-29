@@ -2,58 +2,6 @@
   "page": 105,
   "value": [
     {
-      "path": "_news/2022-06-07-axons-taser-drone-plans-prompt-ai-ethics-board-resignations.md",
-      "title": "Axon’s Taser Drone Plans Prompt AI Ethics Board Resignations",
-      "excerpt": "A majority of Axon’s AI ethics board resigned in protest yesterday, following an announcement last week that the company planned to equip drones with Tasers and cameras as a way to end mass shootings in schools. The company backed down on its proposal ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/taser-drone-axon-ai-ethics-board/",
-      "originalUrl": "https://www.wired.com/story/taser-drone-axon-ai-ethics-board/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 244,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/629e51d2726e817487080861/master/pass/business-axon-drone-wired.jpg",
-          "width": 2400,
-          "height": 1350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/taser-drone-axon-ai-ethics-board/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/taser-drone-axon-ai-ethics-board/amp",
-      "publishedDateTime": "2022-06-06T13:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-07-deepsig-named-to-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-for-2022.md",
       "title": "DeepSig Named to CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups for 2022",
       "excerpt": "DeepSig, a leader in artificial intelligence (AI) and machine-learning (ML) innovation in wireless communications, today announced that it has ranked on CB Insights annual AI 100 list. The AI 100 ranking recognizes the 100 most promising private artificial intelligence companies in the world.",
@@ -1148,6 +1096,50 @@
       "topics": [
         "Microsoft AI",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-06-ai-translates-maths-problems-into-code-to-make-them-easier-to-solve.md",
+      "title": "AI translates maths problems into code to make them easier to solve",
+      "excerpt": "An artificial intelligence that can turn mathematical concepts written in English into a formal proving language for computers could make problems easier for other AIs to solve",
+      "sourceUrl": null,
+      "webUrl": "https://www.newscientist.com/article/2322999-ai-translates-maths-problems-into-code-to-make-them-easier-to-solve/",
+      "originalUrl": "https://www.newscientist.com/article/2322999-ai-translates-maths-problems-into-code-to-make-them-easier-to-solve/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.newscientist.com/wp-content/uploads/2022/06/06114333/SEI_107484895.jpg",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T04:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New Scientist",
+        "domain": "newscientist.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "Math for AI"
       ]
     }
   ],

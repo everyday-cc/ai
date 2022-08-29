@@ -70,20 +70,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Market Size 2022, Share, Growth with Recent Trends, Development, Revenue, Demand and Forecast to 2026"
-    excerpt: "The Latest research study released by expert Global Artificial Intelligence in Market with analysis on business Strategy taken up by key and emerging industry players and delivers know how of the current market development,"
-    publishedDateTime: 2022-08-24T10:55:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-market-size-2022-share-growth-with-recent-trends-development-revenue-demand-and-forecast-to-2026-2022-08-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Artificial Intelligence as a Service Market Size In 2022 : 48.2% CAGR with Top Countries Data, Trends, Key Regions and Growth Forecast to 2031"
     excerpt: "The Artificial Intelligence (AI) as a service market is expected to grow at a Compound Annual Growth Rate (CAGR) of 48.2% during the forecast period. The AI as a service market is expected to grow from USD 1."
     publishedDateTime: 2022-08-25T06:28:00Z

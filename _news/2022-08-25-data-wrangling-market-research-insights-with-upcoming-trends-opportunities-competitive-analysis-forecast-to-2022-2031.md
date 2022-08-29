@@ -19,15 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Deep Learning in Drug Discovery and Diagnostics Market Reliable Business Data Analysis and Forecast by 2028"
-    excerpt: "The study also includes information on current product releases, technological breakthroughs, and other developments to provide the buyers with a complete picture of the Deep Learning in Drug Discovery and Diagnostics industry."
-    publishedDateTime: 2022-08-24T09:03:00Z
-    webUrl: "https://www.marketwatch.com/press-release/deep-learning-in-drug-discovery-and-diagnostics-market-reliable-business-data-analysis-and-forecast-by-2028-2022-08-24"
+  - title: "Face Recognition Access Locks Market 2022 To 2028, Top Companies Booming Strategies, Progression Status, and Business Trends."
+    excerpt: "This “Face Recognition Access Locks market research report” offers an all-inclusive analysis of regional and global markets based on growth prospects. The worldwide Face Recognition Access Locks market report offers a geographic analysis of regions like North America: United States,"
+    publishedDateTime: 2022-08-25T23:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/face-recognition-access-locks-market-2022-to-2028-top-companies-booming-strategies-progression-status-and-business-trends-2022-08-25"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
+    quality: 42
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

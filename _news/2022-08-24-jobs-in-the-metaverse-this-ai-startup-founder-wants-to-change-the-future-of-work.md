@@ -9,8 +9,8 @@ ampWebUrl: "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founde
 cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/amp/"
 type: article
 quality: 52
-heat: 72
-published: true
+heat: 62
+published: false
 
 provider:
   name: Impacts
@@ -40,15 +40,6 @@ related:
         width: 669
         height: 840
         isCached: true
-  - title: "Kura Technologies’ Artificial Intelligence Generated Optics Deliver the Highest Performance for the Future of the Metaverse"
-    excerpt: "Kura Technologies, an award-winning developer of the best-in-class augmented reality (AR) smart glasses and platform, today announced that its fully custom and highly-anticipated development kit optics are up and running in the lab with production to start later this year."
-    publishedDateTime: 2022-08-24T11:03:00Z
-    webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-artificial-intelligence-cb79e856aa4687dc27cfa96827935080"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 0
 
 secured: "yjp+eSitES156bUFXwgGl08gCmzuVYrQF5qa9hizd7aQuS7KanS5eX0C2rnR4wtK2JvprH3p5jAHRaWuux+9SBfKDWc5dkRtEkxCktfTr9Re3COR7LU/DEHAEiTOivJv2KEUnkr3h6pEOP41tmIW6uR60KASfpa8Z5HTSSHp2G/F7vO/oczvX9U8xmhLzzOyC3LgRNorc9j0HnEolFTD58us/aXH1dFA6eyl/Z9LPb0OhB77eW6yOQuTfKI7tyVySwUJHkXkmoFjLCL3YJZ/1/UjEVno/e2xu8ZzoGo+/FTwkLoHnCZNK4vBDfs6FjXMTQluFRHPQfvZ41roENrflIotkBHWdnTq+UPKYSIf+RQBkjykLoHq0vKmjJhILcZQqx83ypI3g3QtRR7Rz6egFXvJ5VbA1fZIzt1unrEV9iGQ81ZFO317+PQxVLXf0dyL644oc3dZkQ9z/OTGJIFqBndA2Bq8EZ+tyE0+YlUPpDmz+McNOb/3ZKSrOvQGHY8Jc4lIz2f56HuvDdmyta1vqg==;rEOvXk72afp4Y2BLQJEBTg=="
 ---

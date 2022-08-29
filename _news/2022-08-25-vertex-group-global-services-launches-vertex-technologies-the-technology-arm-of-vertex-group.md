@@ -19,22 +19,17 @@ topics:
   - AI
 
 related:
-  - title: "Vertex Group (Global Services) launches Vertex Technologies - The technology arm of Vertex Group"
-    excerpt: "Headquartered in Times Square New York, Vertex Group (Vertex Global Services), World's 19th most innovative company announced the launch of Vertex Technologies - The technological arm of the"
-    publishedDateTime: 2022-08-24T09:05:00Z
-    webUrl: "https://www.business-standard.com/content/press-releases-ani/vertex-group-global-services-launches-vertex-technologies-the-technology-arm-of-vertex-group-122082400660_1.html"
-    ampWebUrl: "https://wap.business-standard.com/content-amp/press-releases-ani/vertex-group-global-services-launches-vertex-technologies-the-technology-arm-of-vertex-group-122082400660_1.html"
-    cdnAmpWebUrl: "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/content-amp/press-releases-ani/vertex-group-global-services-launches-vertex-technologies-the-technology-arm-of-vertex-group-122082400660_1.html"
+  - title: "Dell Technologies Deep Learning Empowers Volunteers Worldwide To Protect The Great Barrier Reef"
+    excerpt: "New deep learning technology better informs conservation efforts as Citizens of the Great Barrier Reef launches next-generation Great Reef Census analysis platform Launched today, the next-generation Great Reef Census analysis platform is driven by new ..."
+    publishedDateTime: 2022-08-24T23:14:00Z
+    webUrl: "https://www.scoop.co.nz/stories/WO2208/S00172/dell-technologies-deep-learning-empowers-volunteers-worldwide-to-protect-the-great-barrier-reef.htm"
+    ampWebUrl: "https://m.scoop.co.nz/stories/WO2208/S00172/dell-technologies-deep-learning-empowers-volunteers-worldwide-to-protect-the-great-barrier-reef.htm"
+    cdnAmpWebUrl: "https://m-scoop-co-nz.cdn.ampproject.org/c/s/m.scoop.co.nz/stories/WO2208/S00172/dell-technologies-deep-learning-empowers-volunteers-worldwide-to-protect-the-great-barrier-reef.htm"
     type: article
     provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 31
-    images:
-      - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2022-08/24/full/20220824133056.jpg"
-        width: 600
-        height: 450
-        isCached: true
+      name: Scoop
+      domain: scoop.co.nz
+    quality: 27
 
 secured: "6Ru3D/GY1UxoiUR3nKAy4hrGF00webfgePdgebcqxivzxdjpj3k8dFEI5CGqnCHFUDdfods1xKaZXlbL1QikCT4H7OCDJVjZYklbTSwYY6dQnYQ4Kb11w0YDE1XueYjTsCaaCCWXbM3b26aIBWShhcw5Fy2tDQidmzJbNy9S2zE+NfJ2m6cmhriPs55oCFNISQGzEYofTGhRRHpA23O37dI8OpEWS8x1RnsYTtNMwHnvIZADWPhMwfj0Y1YwHC7TxGNHXeb7Rf+XrOeE5bguGmRof8gOxL7iv01F+F1o2QotkzCuMyoRuQ7EZAGZDfhqaUAxP/d/6Am8jsOZ8RzQdn3G42mlZivdwCRi/PmUs58=;JJ0RmY9PpcBU7hnwtHeFkg=="
 ---

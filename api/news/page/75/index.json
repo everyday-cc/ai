@@ -2,49 +2,6 @@
   "page": 75,
   "value": [
     {
-      "path": "_news/2022-06-27-were-at-risk-of-creating-a-generation-of-racist-and-sexist-robots-study-shows-artificial-intelligence-quickly-becomes-bigoted-after-learning.md",
-      "title": "'We're at risk of creating a generation of racist and sexist robots': Study shows artificial intelligence quickly becomes bigoted after learning 'toxic stereotypes' on the internet",
-      "excerpt": "Fears have been raised about the future of artificial intelligence after a robot was found to have learned 'toxic stereotypes' from the internet. The machine showed significant gender and racial ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailymail.co.uk/sciencetech/article-10957023/Fears-AI-create-sexist-bigots-test-learns-toxic-stereotypes.html",
-      "originalUrl": "https://www.dailymail.co.uk/sciencetech/article-10957023/Fears-AI-create-sexist-bigots-test-learns-toxic-stereotypes.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.dailymail.co.uk/1s/2022/06/27/13/59577011-0-image-a-34_1656333163498.jpg",
-          "width": 636,
-          "height": 382,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailymail.co.uk/sciencetech/article-10957023/amp/Fears-AI-create-sexist-bigots-test-learns-toxic-stereotypes.html",
-      "cdnAmpWebUrl": "https://www-dailymail-co-uk.cdn.ampproject.org/c/s/www.dailymail.co.uk/sciencetech/article-10957023/amp/Fears-AI-create-sexist-bigots-test-learns-toxic-stereotypes.html",
-      "publishedDateTime": "2022-06-27T06:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Mail",
-        "domain": "dailymail.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-27-artificial-intelligence-in-healthcare-global-market-to-grow-at-rate-of-48-through-2026.md",
       "title": "Artificial Intelligence In Healthcare Global Market To Grow At Rate Of 48% Through 2026",
       "excerpt": "Artificial Intelligence In Healthcare Market Report 2022 – Market Size, Trends, And Global Forecast 2022-2026 The Business Research Company's Artificial Intelligence In Healthcare Global Market ...",
@@ -1135,6 +1092,50 @@
       "topics": [
         "AI in Autos",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-26-is-artificial-intelligence-supported-caries-detection-cost-effective.md",
+      "title": "Is Artificial Intelligence-supported Caries Detection Cost-effective?",
+      "excerpt": "A new study assessed the cost-effectiveness of artificial intelligence-supported detection of proximal caries and its benefits in caries management.",
+      "sourceUrl": null,
+      "webUrl": "https://www.medindia.net/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm",
+      "originalUrl": "https://www.medindia.net/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.medindia.net/amp-images/health-images/teeth-1.jpg",
+          "width": 1200,
+          "height": 1000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.medindia.net/amp/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm",
+      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/is-artificial-intelligence-supported-caries-detection-cost-effective-207716-1.htm",
+      "publishedDateTime": "2022-06-25T11:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medindia",
+        "domain": "medindia.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos"
       ]
     }
   ],

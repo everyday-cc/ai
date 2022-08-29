@@ -25,20 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "With State Ban Set to Expire, Local Police Could Bring Back Facial Rec"
-    excerpt: "But doing so in San Diego will be harder following reforms to the city’s use and acquisition of surveillance gear"
-    publishedDateTime: 2022-08-24T11:00:00Z
-    webUrl: "https://voiceofsandiego.org/2022/08/24/with-state-ban-set-to-expire-local-police-could-bring-back-facial-rec/"
-    type: article
-    provider:
-      name: Voice of San Diego
-      domain: voiceofsandiego.org
-    quality: 24
-    images:
-      - url: "https://i0.wp.com/voiceofsandiego.org/wp-content/uploads/2018/07/Free-Our-Future-Rally_4.jpg?fit=2048%2C1360&ssl=1"
-        width: 2048
-        height: 1360
-        isCached: true
   - title: "Improved Facial Recognition Software Attracts Revived Interest"
     excerpt: "Many state and local governments in California are considering using facial recognition tools after a state ban expires in January, citing a rise in crime during the pandemic, and claims of its improved accuracy."
     publishedDateTime: 2022-08-24T13:46:00Z

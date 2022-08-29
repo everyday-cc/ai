@@ -2,49 +2,6 @@
   "page": 113,
   "value": [
     {
-      "path": "_news/2022-06-01-type-2-diabetes-linked-to-cognitive-decline-in-older-age.md",
-      "title": "Type 2 diabetes linked to cognitive decline in older age",
-      "excerpt": "The finding comes from a large UK study of people with and without diabetes, based on cognitive tests and brain scans. Type 2 diabetes involves blood sugar rising too high after meals, often ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2322347-type-2-diabetes-linked-to-cognitive-decline-in-older-age/",
-      "originalUrl": "https://www.newscientist.com/article/2322347-type-2-diabetes-linked-to-cognitive-decline-in-older-age/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/05/31112108/SEI_107193938.jpg?width=1200&enable=upscale",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.newscientist.com/article/2322347-type-2-diabetes-linked-to-cognitive-decline-in-older-age/amp/",
-      "cdnAmpWebUrl": "https://www-newscientist-com.cdn.ampproject.org/c/s/www.newscientist.com/article/2322347-type-2-diabetes-linked-to-cognitive-decline-in-older-age/amp/",
-      "publishedDateTime": "2022-05-31T19:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-06-01-googles-massive-language-translation-work-identifies-where-it-goofs-up.md",
       "title": "Google's massive language translation work identifies where it goofs up",
       "excerpt": "For low-resource languages such as kalaallisut and Fula, a big effort to find out what is lost in translation.",
@@ -1094,6 +1051,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-31-where-does-ai-go-next.md",
+      "title": "Where Does AI Go Next?",
+      "excerpt": "Many computer scientists, economists, and investors believe that we are at the threshold of enormous leaps forward in artificial intelligence and machine learning – with implications for both entrepreneurs and businesses.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/asheemchandna/2022/05/31/where-does-ai-go-next/",
+      "originalUrl": "https://www.forbes.com/sites/asheemchandna/2022/05/31/where-does-ai-go-next/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//629506ac879c5363c159c3d9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/asheemchandna/2022/05/31/where-does-ai-go-next/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/asheemchandna/2022/05/31/where-does-ai-go-next/amp/",
+      "publishedDateTime": "2022-05-31T07:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

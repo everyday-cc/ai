@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/why-metas-large-language-model-does-not-w
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-metas-large-language-model-does-not-work-for-researchers/amp/"
 type: article
 quality: 74
-heat: 74
+heat: 75
 published: true
 
 provider:
@@ -30,6 +30,6 @@ images:
     height: 608
     isCached: true
 
-secured: "XeIVBnrg7KziRwtNS82kPkmIPHvy6dMmap6MZ+pm9tFPm1b0yJdGsWu1x6Ryrsa3tZL3sQFcGferBo4ChrRegM5mb4eo5ufJtDE1ThTq123VjFcOzv/C8rURI1tuhdOyEirOnLb4OJcS2zwHJhe5tss7lRPgKLLoamDhK3jgax7AusvU9LBAqA0RbzRDO+e8/unrB+Kbj4t/ljAYgovmWU3EOAv7aNdCigC3yCXRWpHaj7lkhzcvqSTQtGSDkxI11COCQRAxFwbNwCEHDF1/uXTliGffFdfxcUrHDBdKsPtgbruYr/ntouW+olM0sHumCbaON6hhG1+23zaVkzJW460LmJ3ETpYzPt1PS28W+sU=;Le0ZbFQ2HQ4nkq7qNJkLOA=="
+secured: "Gdx3aarfEbM++bqEcAtM6V9VVmGuYp8z831PctfKcG1Ht64tXsvN9TWdPjeMu7Y/gwC81mkZcnFjTX6WhPX0A3dEalp7+NZOwr0q2Rw+bjoW+F/jjP801DbeCDMMpWyJ6i1yp0GmX+wvmrROTclXGa2YZq86MefEDnkTP6I5odetG+4U7IL6GlhPNbfXfHbzTsBWb7b2ngs8PZcVUXjaEJIVXynaSgChGqFZ9QSXm+LcLrQX8n9Kyu94AYiquxgJSeWdW3Iiu6TyI5XfvMUK0WZuXiOethjQymfaO3i3GNjfQraDauXzNwMkP2gZMAGuDjjqDazwcHIJdtOvTu/elqZ8OCC7Q6T+bwC1KntXAPuUaPTYppMU3YUUkUJvUKDSikp7I/IZ46fNs3kNxQdWiTMjlnutv1Zwocw/tTecPseTM1UNr++PIJ9juqPr3diLqo76Y5oKfltxb60KzeI1bk2SqKjvcbijCqNNLzf3gL5yBn4IIOxqo2qcr981BgbZnCayST0oc/kTThw4dcvQ0A==;IT+XMXGM8S+KHTI0XdIRYw=="
 ---
 

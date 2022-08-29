@@ -1,10 +1,10 @@
 ---
 category: news
-title: "People are now testing Tesla’s ‘full self-driving’ on real kids"
-excerpt: "The North Carolina resident set out to refute a widely circulated video of a Tesla with the company’s “full self-driving” beta software – which allows the car to steer, brake and ..."
-publishedDateTime: 2022-08-21T12:33:00Z
-originalUrl: "https://www.cnn.com/2022/08/21/business/tesla-fsd-tests-kids/index.html"
-webUrl: "https://www.cnn.com/2022/08/21/business/tesla-fsd-tests-kids/index.html"
+title: "People are now testing Tesla's 'full self-driving' on real kids"
+excerpt: "The North Carolina resident set out to refute a widely circulated video of a Tesla with the company's \"full self-driving\" beta software -- which allows the car to steer, brake and accelerate ..."
+publishedDateTime: 2022-08-21T10:30:00Z
+originalUrl: "https://edition.cnn.com/2022/08/21/business/tesla-fsd-tests-kids"
+webUrl: "https://edition.cnn.com/2022/08/21/business/tesla-fsd-tests-kids"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/08/21/business/tesla-fsd-tests-kids/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/21/business/tesla-fsd-tests-kids/index.html"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 619
     isCached: true
 
-secured: "xJ60OhPuoONTel4QkARVTU157xuZvIwdQGHDUjVJNgQRY1Kams/vkvPVtiZdX+LlYZ7XK8Fmuy7QV1/bx8TuSs9YQXeReIZHD9t+i0FVxu8eKnfLbSanhQTzynKVL4eZnM70Omfhc0mwTl0osOGx6MtDJa0IdpUp4iq13aGnZGo5k4S50XqT24GkfEJpdHv6fn8voAoDlQCI+5Neethv31X46mNWsA/2kNQ0q3wwJosCVbd0fcPtybLDGDU5Xl1ao3AsI4LvtoAfXJ5ncyhb6xFj2Q2zwGXn9dY6ncBT47oiaVJiyyqYTZsQn0qkaYVcAYbgxNzLTaKnO5GaJHWpfmhPEl2vbMvfJRbyGaqKoMo=;4VPoNl5Uz5Si9hbUNQx/3g=="
+secured: "TrfgroHIVqVJlNDrav3fSAOYx65qvYFipn006LmVZijaKku/pwKzmQe0Vekp5FOsvWXjXuHdXeSUzzNXUgnXEa4SXg7BpsUEIqou2CCFMziZ38CO5bRYSPSi4T+HokE//70bW6rDjvDEiLv1HCmNIfpKzH9A/BEcajQ917syL5/FpnihvLbJL0Aolad0yfln64IgkZW3bBpWJZHnwanQXMreoEVUjgfqYQdXjjL7srvbmU3orUTX5lCjianAQ6AzDS4gsY52u2NSyLYvaOnKyBbYkT0qp+mPh+z0qDyTuZOUCwJgZt8hivEagY/far//cTpYDlBdZQMQZfDpy8TUxuoyf08AvzAUziYQ3uJMgSc=;Vn9ovKqM5NEVJzvkCwp2yw=="
 ---
 

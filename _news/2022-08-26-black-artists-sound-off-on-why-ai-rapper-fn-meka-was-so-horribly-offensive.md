@@ -54,20 +54,6 @@ related:
         width: 710
         height: 400
         isCached: true
-  - title: "Capitol Music Group drops AI rapper FN Meka amid backlash over racial stereotyping"
-    excerpt: "But the announcement prompted a backlash over the project, including an open letter from Industry Blackout. The group of Black industry professionals slammed FN Meka as being a “direct insult to the Black community and our culture”."
-    publishedDateTime: 2022-08-24T09:34:00Z
-    webUrl: "https://www.musicweek.com/labels/read/capitol-music-group-drops-ai-rapper-fn-meka-amid-backlash-over-racial-stereotyping/086427"
-    type: article
-    provider:
-      name: Music Week
-      domain: musicweek.com
-    quality: 31
-    images:
-      - url: "http://www.musicweek.com/cimages/ce52b1ad2f5576ac99a34264fa4c71b9.jpeg"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "lPMIR56XrQlrZn2CuKaPrxOxCzWuYODwDvfhaWxE4NLm8HmTka0/DYJMCIs+TfHah0F7npv/Er1APNnJ0Qvf7dGZ5vE8L80BF/nvkgm0AJL6M0bWSG2LlDd6GeY/EVH03lRFcTRLJUu4CEKD3P7e151LHWN3Q4/X/Pun8yXs8y3WpK1SG0Qv3DuNJ3BRIHvI5UUqsH7zYgOAy5y8FzBdWCgqo6rWjL3WEbxy1ZbG5wz929uPo7ys5v/mBPDNRhlahAiANM7DV0DdBfmXRVwz2rtHsL13sfJWRt0/XBhIceRc/fp55h1JAFodbj11ppC14qnwp5VQ4t1NDXlL8rdIIORITgxhHS6gfjzPLOfVrIV6PyGAazC3ZpAAwLsIt5639vagEot9vzeCYWvJBbhSPqVKLqNf8sgfqhU+fWyNVaip9p42l4IzUvIwVGSB6PtndlZH0jcUnFjDIYMYLFihlkzd9x+HlmSjtcLgdglYBtGT+dF6OAEoWLb1/tdw+Mtr2vUedCxnV9g8GjL/JGwVIA==;TPN7MYYLQD0G1cC7Ctk3Ww=="
 ---

@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "AI Recruitment Market 2022 Rising Consumer Demand, Major Manufacturers Performance, Growth and Segmentation 2028"
-    excerpt: "An exhaustive analysis of market trends for 2022 to 2028 is discussed in Global AI Recruitment Market published"
-    publishedDateTime: 2022-08-24T09:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-recruitment-market-2022-rising-consumer-demand-major-manufacturers-performance-growth-and-segmentation-2028-2022-08-24"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "Ip8/+Kl8fb7Y84AvJ0YPy7fQzcNpnxnuvOqg6HAYIKKkmfglzBhGXOVyLV4SSpnS3KCTRcRFfUA8/JZsWP7buIcKGPEHkBV0AvYDcQnQYPnRYCEZsc+HcwtLhIeV/UqUGBCo4uq8dNrZ2ytKDrrCbWUca2iwhJo+R9Dme/wzH9kzSDP19FZrtvN5AjTep0vjbRi+YJH1VaAig6mPg64+A9NecieWxJ5FLmHtaieNeB4pNozkL5t1bAG2RDDHfsJHLUGXcb9Woxf4CQhQk4UOiJoPKKHyi3h/JngjlcJ1sclpakYQ42jR7oLgGzP7fBaZUuD43feC4vECS4TWZvewni6e9umeq28yJuuRPNNRF8I=;jDo1Y07PXaYk3B7eTM4C7Q=="
 ---

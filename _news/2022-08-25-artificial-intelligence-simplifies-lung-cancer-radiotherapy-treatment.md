@@ -39,20 +39,6 @@ related:
         width: 400
         height: 240
         isCached: true
-  - title: "AI Algorithm May Streamline Lung Cancer Radiotherapy"
-    excerpt: "Researchers have developed and validated a deep learning algorithm that can identify and outline a non-small cell lung cancer tumor on a computed tomography scan within seconds."
-    publishedDateTime: 2022-08-24T09:33:00Z
-    webUrl: "https://www.technologynetworks.com/tn/news/ai-algorithm-may-streamline-lung-cancer-radiotherapy-365009"
-    type: article
-    provider:
-      name: technologynetworks
-      domain: technologynetworks.com
-    quality: 54
-    images:
-      - url: "https://assets.technologynetworks.com/production/dynamic/images/content/365009/ai-algorithm-may-streamline-lung-cancer-radiotherapy-365009-640x360.jpg?cb=20220824"
-        width: 640
-        height: 360
-        isCached: true
 
 secured: "svXqe+XheAHZk9aCGcxos0/xB1FIscHJNadMEP8ZgX1D0BSEH2V+Gj0LRg21pKnJbIibHFXZBlBNp9BhUUv1zdPbWv9pQ8VRAbIoU10F6DJT7QKu2CG9A1yyCS+wBCy3tsDw9r+Z/hvZhW+KoL6Ny57VQpR/tqQA6IDRn8F04FRVmV+pf4MYmVN1rE1VsYkfGdcjGQ7HOdk97kaQVaNfmAxLc/hUPpN/bPP5PUhrfiCCWufUywRTS81BtHLtRUXn6OiL8jpUZX2hqMArgDUTxFKPHNvur02wHFtqES9UeMmRneYJrZcE2NLtriR0EO+AP2pzSXS707vlCMy220BputfYhBfLrqjHEagRr99j+5A=;E/7bVUgBmmxCbv/lo9R+Sg=="
 ---

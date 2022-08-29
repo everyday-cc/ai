@@ -9,7 +9,7 @@ ampWebUrl: "https://wgnradio.com/automotive/self-driving-cars-a-primer/amp/"
 cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/automotive/self-driving-cars-a-primer/amp/"
 type: article
 quality: 44
-heat: -1
+heat: 44
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Former Apple employee admits stealing self-driving car secrets"
-    excerpt: "Zhang, a hardware engineer who worked on the technology, allegedly stole information about prototypes, reference manuals and a 25-page document that detailed engineering plans for a circuit board for a self-driving car. Zhang, who was boarding a flight to ..."
-    publishedDateTime: 2022-08-24T09:21:00Z
-    webUrl: "https://metro.co.uk/2022/08/24/former-apple-employee-admits-stealing-self-driving-car-secrets-17232523/"
-    ampWebUrl: "https://metro.co.uk/2022/08/24/former-apple-employee-admits-stealing-self-driving-car-secrets-17232523/amp/"
-    cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/08/24/former-apple-employee-admits-stealing-self-driving-car-secrets-17232523/amp/"
-    type: article
-    provider:
-      name: Metro
-      domain: metro.co.uk
-    quality: 44
-    images:
-      - url: "https://metro.co.uk/wp-content/uploads/2022/07/SEI_116830933.jpg?quality=90&strip=all&zoom=1&resize=600%2C399"
-        width: 600
-        height: 399
-        isCached: true
   - title: "Self-driving cars: a primer"
     excerpt: "Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won't drive at all. Along the way, automakers will ..."
     publishedDateTime: 2022-08-24T18:55:00Z
@@ -57,20 +41,15 @@ related:
         width: 1500
         height: 1003
         isCached: true
-  - title: "Former Apple engineer pleads guilty to stealing self-driving car trade secrets"
-    excerpt: "Former Apple Inc. engineer Xiaolang Zhang pleaded guilty Monday to theft of trade secrets from the company’s self-driving vehicle program. According to filings with the US District Court for the"
-    publishedDateTime: 2022-08-24T09:14:00Z
-    webUrl: "https://www.jurist.org/news/2022/08/former-apple-engineer-pleads-guilty-to-stealing-self-driving-car-trade-secrets/"
+  - title: "Driverless cars: From science fiction to a road near you"
+    excerpt: "Self-driving cars, coaches, and lorries could on UK motorways next year - how is it working in China? | ITV National News"
+    publishedDateTime: 2022-08-24T20:19:00Z
+    webUrl: "https://www.itv.com/news/2022-08-24/driverless-cars-from-science-fiction-to-a-road-near-you"
     type: article
     provider:
-      name: Jurist
-      domain: jurist.org
-    quality: 20
-    images:
-      - url: "https://www.jurist.org/news/wp-content/uploads/sites/4/2022/05/apple_inc._1652985256.jpg"
-        width: 1280
-        height: 960
-        isCached: true
+      name: ITV
+      domain: itv.com
+    quality: 19
   - title: "Former Apple employer admits stealing trade secrets for self-driving car project"
     excerpt: "An engineer who had access to information about Apple’s self-driving car project has pleaded guilty to stealing trade secrets about the project"
     publishedDateTime: 2022-08-26T06:42:00Z

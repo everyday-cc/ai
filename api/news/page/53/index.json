@@ -2,49 +2,6 @@
   "page": 53,
   "value": [
     {
-      "path": "_news/2022-07-14-build-a-predictive-maintenance-solution-with-amazon-kinesis-aws-glue-and-amazon-sagemaker.md",
-      "title": "Build a predictive maintenance solution with Amazon Kinesis, AWS Glue, and Amazon SageMaker",
-      "excerpt": "Organizations are increasingly building and using machine learning (ML)-powered solutions for a variety of use cases and problems, including predictive maintenance of machine parts, product recommendations based on customer preferences, credit profiling, content moderation, fraud detection, and more.",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-predictive-maintenance-solution-with-amazon-kinesis-aws-glue-and-amazon-sagemaker/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-predictive-maintenance-solution-with-amazon-kinesis-aws-glue-and-amazon-sagemaker/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 129,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T09:26:40-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
       "path": "_news/2022-07-14-in-the-age-of-ai-energy-efficiency-in-the-data-center-cant-be-ignored.md",
       "title": "In the age of AI, energy efficiency in the data center can’t be ignored",
       "excerpt": "Using less energy in the first place can help us all get closer — especially when it comes to energy-hungry data centers faced with increasingly heavy workloads in the age of machine learning and AI.",
@@ -1126,6 +1083,57 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-14-bobidi-launches-to-reward-developers-for-testing-companies-ai-models.md",
+      "title": "Bobidi launches to reward developers for testing companies’ AI models",
+      "excerpt": "Bobidi, a new platform that rewards developers for testing companies' AI models, has raised $5.5 million in seed funding from investors",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/14/bobidi-launches-to-reward-developers-for-testing-companies-ai-models/",
+      "originalUrl": "https://techcrunch.com/2022/07/14/bobidi-launches-to-reward-developers-for-testing-companies-ai-models/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 107,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/02/GettyImages-1226864145.jpg?w=1024",
+          "width": 1024,
+          "height": 358,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/14/bobidi-launches-to-reward-developers-for-testing-companies-ai-models/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/14/bobidi-launches-to-reward-developers-for-testing-companies-ai-models/amp/",
+      "publishedDateTime": "2022-07-14T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,
