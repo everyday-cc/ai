@@ -72,20 +72,6 @@ related:
         width: 600
         height: 314
         isCached: true
-  - title: "Edge Computing Market Size Worth $132.11 Billion by 2028 at 21.6% CAGR | The Insight Partners"
-    excerpt: "The Insight Partners published latest research study on \"Edge Computing Market Forecast to 2028 - COVID-19 Impact and Global Analysis"
-    publishedDateTime: 2022-08-29T10:30:00Z
-    webUrl: "https://www.prnewswire.co.uk/news-releases/edge-computing-market-size-worth-132-11-billion-by-2028-at-21-6-cagr-the-insight-partners-839343495.html"
-    type: article
-    provider:
-      name: PR Newswire
-      domain: prnewswire.co.uk
-    quality: 13
-    images:
-      - url: "https://mma.prnewswire.com/media/1586348/The_Insight_Partners_Logo.jpg?p=facebook"
-        width: 598
-        height: 315
-        isCached: true
   - title: "Vision Screeners Market is expected to grow at a CAGR of 5.9% during the forecast period 2022-2029"
     excerpt: "Global vision screener sales are likely to near US$ 500 Mn by the end of 2022. According to a new research intelligence study presented by Future Market Insights (FMI), the Vision Screeners Market will continue to witness an average 5."
     publishedDateTime: 2022-08-29T04:45:00Z
@@ -114,6 +100,20 @@ related:
         width: 374
         height: 250
         isCached: true
+  - title: "AI in FinTech Global Market Report 2022: Need for Fraud Detection in Fintech & Financial Institutions Driving Adoption - ResearchAndMarkets.com"
+    excerpt: "The “AI in FinTech Global Market Report 2022” report has been added to ResearchAndMarkets.com’s offering. The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25."
+    publishedDateTime: 2022-08-29T10:26:00Z
+    webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 3
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
   - title: "Digital Twin Financial Services And Insurance Market Size Worth USD 12.07 Billion By 2029, Growing A CAGR Of 16.30%"
     excerpt: "Global Digital Twin Financial Services and Insurance Market Sizing Digital Twin Market, By Technology (IoT and IIoT, Blockchain, Artificial Intelligence and Machine Learning, Augmented Reality, Virtual Reality, and Mixed Reality, Big Data Analytics ..."
     publishedDateTime: 2022-08-29T10:53:00Z
@@ -136,6 +136,15 @@ related:
     provider:
       name: Future Market Insights
       domain: fmiblog.com
+    quality: 0
+  - title: "Edge Computing Market Size Worth $132.11 Billion by 2028 at 21.6% CAGR | The Insight Partners"
+    excerpt: "The Insight Partners published latest research study on \"Edge Computing Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Co"
+    publishedDateTime: 2022-08-29T11:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-edge-computing-market-size-worth-13211-billion-2028-/2022/08/29/9663269.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
     quality: 0
 
 secured: "RsYX/YvYmszlWtBhHbNtI9WarahwzeVDzyIHn33bfTLtsezIngE9WM9iNNr/rrdmehYu38GcHwL4xebsbloUXKg7sYJyeSe9TYQJMMswBMRRi6o6eMLs1+LYrxs5pH/Cz9WXXVdjx3fiqAny6G1N0/txTul5XOUbewyvg2tlWZWxvqCIlgmhLuXQFpxeNag/pj388TiGea9Redlh5whpARGBNrq2ZOGxYHCe3GilRklcrOT2tZODHreBiSPB1dUWL1Oam0oy28/cM2igi801bAI9na29DYDTZq++ii0Y6BNsu9draw74bh2yYxrDsxuuh/8XeRungQnYv3A66iqFwTgYW3uNh0dUYoY+X7hbRIw=;zKxuvHAt9me7+posTLdecg=="

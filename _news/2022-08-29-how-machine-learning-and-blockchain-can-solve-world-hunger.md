@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/education/how-machine-learning-a
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/education/how-machine-learning-and-blockchain-can-solve-world-hunger"
 type: article
 quality: 76
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -26,22 +26,6 @@ images:
     width: 715
     height: 402
     isCached: true
-
-related:
-  - title: "Ex Qantas exec’s AI-based blockchain-based provenance startup bags $28 million"
-    excerpt: "The round in Jamila Gordon's Lumachain was led by US VC Bessemer Venture Partners as the business ramps up its US focus."
-    publishedDateTime: 2022-08-24T23:17:00Z
-    webUrl: "https://www.startupdaily.net/topic/funding/ex-qantas-execs-ai-based-blockchain-based-provenance-startup-bags-28-million/"
-    type: article
-    provider:
-      name: Startup Daily
-      domain: startupdaily.net
-    quality: 33
-    images:
-      - url: "https://www.startupdaily.net/wp-content/uploads/2022/08/Jamila-Gordon.jpg"
-        width: 770
-        height: 513
-        isCached: true
 
 secured: "8iu/DsbhqMXhmVAlWKRwy7NDgu0r8tKT/rJCzmBNmzlQb7T0JvRhU8fi8BOBlhf7n+sKlFMGOHy7jdvPXAK0XsgLUY9wHA4HQeAZWWImr4MtDHDjDnnwshXsncuBQ8KsnYNQGmB/j/xZF5Uh7T1/WVFIYUiaZ41k4AjaX82T5ZKmnKTvk3AIUFpCX0KpAyWPwLWemNPgAr8QQZevd/qpyJ5Gy09ezZkXfH2PeqAthZYzM96d+uNGEYZbHFB8N/Z0S3Q0HI4CEWUXyzuKcERkTp6vzisgT3FwkCqRZycOBDHHpWddQpPZYay/GhLX/PTHKAeAuOfkLwBID+WTsbo33hkVmE1VlHC6fbr0MymjsQQ=;2+cQ0HwPwhCcGrBwHIlSqQ=="
 ---

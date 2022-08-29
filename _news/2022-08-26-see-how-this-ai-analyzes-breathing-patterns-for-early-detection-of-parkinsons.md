@@ -37,15 +37,20 @@ related:
         width: 889
         height: 593
         isCached: true
-  - title: "Artificial intelligence model can detect Parkinson's from breathing patterns, researchers show"
-    excerpt: "A device with the appearance of a Wi-Fi router uses a neural network to discern the presence and severity of one of the fastest-growing neurological diseases in the world."
-    publishedDateTime: 2022-08-25T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/08/220825120322.htm"
+  - title: "Artificial intelligence model can detect Parkinson’s from breathing patterns"
+    excerpt: "Now, Dina Katabi, the Thuan (1990) and Nicole Pham Professor in the Department of Electrical Engineering and Computer Science (EECS) at MIT and principal investigator at MIT Jameel Clinic, and her team have developed an artificial intelligence model that ..."
+    publishedDateTime: 2022-08-25T15:14:00Z
+    webUrl: "https://www.eurekalert.org/news-releases/962870"
     type: article
     provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 37
+      name: EurekAlert!
+      domain: eurekalert.org
+    quality: 38
+    images:
+      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8d8886a4-bd40-4f27-8eb6-2a0d3246e4e9/Rendition/thumbnail/Content/Public"
+        width: 300
+        height: 225
+        isCached: true
   - title: "AI can detect Parkinson’s from nighttime breathing patterns"
     excerpt: "Researchers develop an artificial intelligence-based model to detect Parkinson’s disease and track its progression from nocturnal breathing signals."
     publishedDateTime: 2022-08-26T02:20:00Z
@@ -59,20 +64,6 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_723435_16614783056225644.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Artificial intelligence model can detect Parkinson’s from breathing patterns"
-    excerpt: "Now, Dina Katabi, the Thuan (1990) and Nicole Pham Professor in the Department of Electrical Engineering and Computer Science (EECS) at MIT and principal investigator at MIT Jameel Clinic, and her team have developed an artificial intelligence model that ..."
-    publishedDateTime: 2022-08-25T15:14:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/962870"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 36
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8d8886a4-bd40-4f27-8eb6-2a0d3246e4e9/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 225
         isCached: true
   - title: "New research analyzes breathing patterns to detect Parkinson's disease"
     excerpt: "Researchers at MIT are using artificial intelligence to diagnose Parkinson's disease before symptoms begin. Joining us to talk about this development as part of our biweekly segment, Tech Talk, is Boston Globe technology writer Hiawatha Bray Tech."

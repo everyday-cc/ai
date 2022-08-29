@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Advancing conservation with AI-based facial recognition of turtles"
-    excerpt: "We came across Zindi – a dedicated partner with complementary goals – who are the largest community of African data scientists and host competitions that focus on solving Africa’s most pressing problems. Our Science team’s Diversity, Equity, and Inclusion (DE&I) team worked with Zindi to identify a scientific"
-    publishedDateTime: 2022-08-25T00:00:00Z
-    webUrl: "https://www.deepmind.com/blog/advancing-conservation-with-ai-based-facial-recognition-of-turtles"
-    type: article
-    provider:
-      name: DeepMind
-      domain: deepmind.com
-    quality: 106
-    images:
-      - url: "https://assets-global.website-files.com/621e749a546b7592125f38ed/63061177d7f69d1362d8131e_w-VkMnf2sMOOlIQBg5mgjxCmIR8jzbdk4dNkoVyq55So3N0zNdWUa2xSQs0hRJxneQhGae3Nz62pNaqLggj4tm-EN8XO229WRDuZYUBcCtOdGsEsKMAQBLW5UkyFfhlPwtOozh-6VcDJ50RV0SZZXleKsSytCDJr422G1RwVKwcftW3p_2XXpFufsJKeO0dDa6PUQZVRnRmKCK-FKwzbd8yYSjLsHz-eaw.png"
-        width: 1600
-        height: 1427
-        isCached: true
   - title: "Improving AI-assisted conversation with zero-shot learning"
     excerpt: "Zero-shot learning can improve conversation AI — bolstering everything from human interaction, to sales, to training and career coaching."
     publishedDateTime: 2022-08-27T15:20:00Z
@@ -57,100 +43,51 @@ related:
         width: 1200
         height: 652
         isCached: true
-  - title: "Humans Have a Natural Defense Against Facial Recognition: Aging"
-    excerpt: "Facial recognition systems have become very adept at identifying people in a crowd, but it turns out they don't cope very well with us getting older. As New Scientist reports, the algorithms used ..."
-    publishedDateTime: 2022-08-25T02:26:00Z
-    webUrl: "https://uk.pcmag.com/security/142247/humans-have-a-natural-defense-against-facial-recognition-aging"
+  - title: "Artificial intelligence, machine learning applied to petroleum exploration"
+    excerpt: "The Vietnam Petroleum Institute (VPI), a member of the Vietnam Oil and Gas Group (PetroVietnam), has applied artificial intelligence (AI) and machine learning to quickly identify the presence of fractured granite basement,"
+    publishedDateTime: 2022-08-29T05:38:00Z
+    webUrl: "https://en.vietnamplus.vn/artificial-intelligence-machine-learning-applied-to-petroleum-exploration/236440.vnp"
+    ampWebUrl: "https://en.vietnamplus.vn/artificial-intelligence-machine-learning-applied-to-petroleum-exploration/236440.amp"
+    cdnAmpWebUrl: "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/artificial-intelligence-machine-learning-applied-to-petroleum-exploration/236440.amp"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 64
-  - title: "The worrying spread of facial recognition tech"
-    excerpt: "Facial recognition technology uses machine learning algorithms to extract data points from a person’s face to create a digital signature. This signature is then compared with an existing database to find possible matches."
-    publishedDateTime: 2022-08-25T19:04:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/with-absent-laws-face-tracking-proliferates-11661453943678.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/with-absent-laws-face-tracking-proliferates/amp-11661453943678.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/with-absent-laws-face-tracking-proliferates/amp-11661453943678.html"
+      name: VietnamPlus
+      domain: vietnamplus.vn
+    quality: 72
+    images:
+      - url: "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2022_08_29/bach_ho_oil_field.jpg"
+        width: 660
+        height: 439
+        isCached: true
+  - title: "How Emotion AI will change the online learning landscape"
+    excerpt: "With the development of technology, it has become evident that comprehension of both the cognitive and affective channels of human connection is crucial. Emotion recognition is a branch of affective computing that seeks to"
+    publishedDateTime: 2022-08-28T09:15:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-emotion-ai-will-change-the-online-learning-landscape/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-emotion-ai-will-change-the-online-learning-landscape/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-emotion-ai-will-change-the-online-learning-landscape/"
     type: article
     provider:
-      name: Mint
-      domain: livemint.com
+      name: India Times
+      domain: indiatimes.com
     quality: 59
     images:
-      - url: "https://images.livemint.com/img/2022/08/25/600x338/facial_1661454053797_1661454059841_1661454059841.jpg"
-        width: 600
-        height: 338
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Vishal-Soni-Co-Founder-Lightbulb.ai_.jpeg"
+        width: 350
+        height: 470
         isCached: true
-  - title: "Perception of Robots and AI as Threats to Jobs in Countries with Social Inequality"
-    excerpt: "According to new research by scientists from the University of Central Florida, employees in countries with more income and social discrimination were more likely to see artificial intelligence and robots as threats to jobs."
-    publishedDateTime: 2022-08-25T15:35:00Z
-    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13181"
+  - title: "Yellow.ai named to Constellation ShortList for Conversational AI for Q3 2022"
+    excerpt: "Powered by Dynamic AI agents, Yellow.ai enables businesses to offer enriching, delightful, and personalized interactions with their customers and employees across their preferred choice of channel, language,"
+    publishedDateTime: 2022-08-29T08:27:00Z
+    webUrl: "https://www.zawya.com/en/press-release/companies-news/yellowai-named-to-constellation-shortlist-for-conversational-ai-for-q3-2022-gvsvn3q5"
     type: article
     provider:
-      name: Azorobotics
-      domain: azorobotics.com
-    quality: 48
-    images:
-      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13181_16614213882438205.jpg"
-        width: 1200
-        height: 800
-        isCached: true
-  - title: "Deep-learning advance improves facial recognition for people wearing veils"
-    excerpt: "A new paper from a team of researchers claims they have developed a facial recognition algorithm which accurately matches faces occluded by a niqab."
-    publishedDateTime: 2022-08-25T20:10:00Z
-    webUrl: "https://www.biometricupdate.com/202208/deep-learning-advance-improves-facial-recognition-for-people-wearing-veils"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/25160459/niqab-scaled.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
-  - title: "Rising Murder Rate Prompts Reversal, Revision of Facial Recognition Bans"
-    excerpt: "A number of cities and states have reversed or altered their facial recognition bans after recognizing a need for the technology."
-    publishedDateTime: 2022-08-25T14:42:00Z
-    webUrl: "https://www.campussafetymagazine.com/news/rising-murder-rate-prompts-reversal-revision-of-facial-recognition-bans/"
-    type: article
-    provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
+      name: Zawya
+      domain: zawya.com
     quality: 38
     images:
-      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2022/08/New-Orleans-Adobe-SeanPavonePhoto.jpeg"
-        width: 500
-        height: 300
-        isCached: true
-  - title: "AI driving global digital revolution – Deputy Communications Minister"
-    excerpt: "Madam Ama Pomaa Boateng, the Deputy Minister of Communication and Digitalisation, says Artificial Intelligence (AI) is now driving the global digital revolution and solving problems and challenges for emerging economies."
-    publishedDateTime: 2022-08-29T08:21:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/AI-driving-global-digital-revolution-Deputy-Communications-Minister-1612040"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 37
-    images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/150/15012710.jpg"
-        width: 600
-        height: 399
-        isCached: true
-  - title: "Artificial Intelligence is driving global digital revolution – Deputy Communications Minister"
-    excerpt: "Madam Ama Pomaa Boateng, the Deputy Minister of Communication and Digitalisation, says Artificial Intelligence (AI) is now driving the global digital revolution and solving problems and challenges for emerging economies."
-    publishedDateTime: 2022-08-29T02:10:00Z
-    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/Artificial-Intelligence-is-driving-global-digital-revolution-Deputy-Communications-Minister-1612040"
-    type: article
-    provider:
-      name: Ghanaweb.com
-      domain: ghanaweb.com
-    quality: 28
-    images:
-      - url: "https://cdn.ghanaweb.com/imagelib/pics/150/15012710.jpg"
-        width: 600
-        height: 399
+      - url: "https://static.zawya.com/version/c:NDVlN2VjZDgtNWE1MS00:ZmVlM2Q4/yellow-ai-jpg.jpg?f=3%3A2"
+        width: 810
+        height: 540
         isCached: true
 
 secured: "UNR7ueGeFO27C9XVpo5/0PN3wyen0nAcX7awk+xIBQZNtuisfFsChbG80BUCv3HWre3xfNg1uUitR5ZYXMrwoVFWVhlqQ7iO2RBiIOxxlsUaIPdR33EwCzNqSDk1sVJJwkAyZm5Ao2ju6usvvAtpTMn801csAQtaxVUttAEb4RzfrnSfyeZZt8471He5vuIdeQTJSQX9CN3K6jmuIO393t/CccBoICBYNLttZ9+ugN7EHxmQTnkD+9xkQ3p26HbZdIK9vmn8gmIHO1gxOaHS2sxP2MOFWtpzi2pXKZd/e3a7GVuTWxfBVWi8rpWM6b2Uoap0kXF2XWJVyFUEJDTPDQ4zKythqeM1jxGBug2kKJk=;aN89UEIua7OB0SNz7Rk2RA=="

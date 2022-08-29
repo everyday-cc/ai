@@ -26,19 +26,69 @@ images:
     isCached: true
 
 related:
-  - title: "ARM Institute conducting national AI survey"
-    excerpt: "The ARM Institute is currently looking for manufacturers and technology providers to sign up to complete a major, national survey."
-    publishedDateTime: 2022-08-26T16:22:00Z
-    webUrl: "https://www.therobotreport.com/arm-institute-conducting-national-ai-survey/"
+  - title: "Improving AI-assisted conversation with zero-shot learning"
+    excerpt: "Zero-shot learning can improve conversation AI — bolstering everything from human interaction, to sales, to training and career coaching."
+    publishedDateTime: 2022-08-27T15:20:00Z
+    webUrl: "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/"
+    ampWebUrl: "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/amp/"
+    cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/amp/"
     type: article
     provider:
-      name: The Robot Report
-      domain: therobotreport.com
-    quality: 69
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 91
     images:
-      - url: "https://www.therobotreport.com/wp-content/uploads/2022/08/featured-web-ARM-institute.jpg"
-        width: 770
-        height: 550
+      - url: "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1169246375.jpg?w=1200&strip=all"
+        width: 1200
+        height: 652
+        isCached: true
+  - title: "Artificial intelligence, machine learning applied to petroleum exploration"
+    excerpt: "The Vietnam Petroleum Institute (VPI), a member of the Vietnam Oil and Gas Group (PetroVietnam), has applied artificial intelligence (AI) and machine learning to quickly identify the presence of fractured granite basement,"
+    publishedDateTime: 2022-08-29T05:38:00Z
+    webUrl: "https://en.vietnamplus.vn/artificial-intelligence-machine-learning-applied-to-petroleum-exploration/236440.vnp"
+    ampWebUrl: "https://en.vietnamplus.vn/artificial-intelligence-machine-learning-applied-to-petroleum-exploration/236440.amp"
+    cdnAmpWebUrl: "https://en-vietnamplus-vn.cdn.ampproject.org/c/s/en.vietnamplus.vn/artificial-intelligence-machine-learning-applied-to-petroleum-exploration/236440.amp"
+    type: article
+    provider:
+      name: VietnamPlus
+      domain: vietnamplus.vn
+    quality: 72
+    images:
+      - url: "https://cdnimgen.vietnamplus.vn/t660/uploaded/wbxx/2022_08_29/bach_ho_oil_field.jpg"
+        width: 660
+        height: 439
+        isCached: true
+  - title: "How Emotion AI will change the online learning landscape"
+    excerpt: "With the development of technology, it has become evident that comprehension of both the cognitive and affective channels of human connection is crucial. Emotion recognition is a branch of affective computing that seeks to"
+    publishedDateTime: 2022-08-28T09:15:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-emotion-ai-will-change-the-online-learning-landscape/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-emotion-ai-will-change-the-online-learning-landscape/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-emotion-ai-will-change-the-online-learning-landscape/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 59
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Vishal-Soni-Co-Founder-Lightbulb.ai_.jpeg"
+        width: 350
+        height: 470
+        isCached: true
+  - title: "Building the customer, communication and commerce synergy with conversational AI"
+    excerpt: "Customer is the king and that continues to be the truth, more so in today’s digitally connected world. According to a report released by KPMG, improving customer experience (CX) is key to sustained value creation"
+    publishedDateTime: 2022-08-25T04:23:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/building-the-customer-communication-and-commerce-synergy-with-conversational-ai/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/building-the-customer-communication-and-commerce-synergy-with-conversational-ai/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/building-the-customer-communication-and-commerce-synergy-with-conversational-ai/"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 54
+    images:
+      - url: "https://static.toiimg.com/photo/75433510.cms"
+        width: 330
+        height: 300
         isCached: true
 
 secured: "W62XtnjlQ98mJaiFasu4NWU9Xn8ZdZev0kOLGliNtCcOBO9xkX5QsTw9PDR6EEoXPNFK16othGUt+4CY7s5AVeRXvHaMQktTo3LrJMHIrBdFd8VxBSeNxf9/xPFY4x1PagOoyUwrcYEidMAA8J8WOF52q4nXSG1ozNZx0ButGaBMy2OB42LMthCYLe1faMOAngwKPAR/U+rfTY1KoNiVi2QyQn+4to0qOyxjG5/K3SnVvNzIyPtATUt8gCV32CdO40sy6PKeu/Rp22LCD/UvJJpJen+L7Rf2qAZRbvU4UtBFxThj0yC0orAtOhGVNVeDqBrn12FCcz3ArxxegeF+My+zB8OF1aln7681ydkWjXBrsUXCTVwypOfqGZSdsSLiztXf4ecyKK2zXkjGqH3J8lzefdb/pxN4eSd53zYj1CeAr9JQAreW3aGnMZSd33bYyc+b3qPLbA4md9BtMfaDd40jGUe7bQjBE7z1XsBBlHLpqVyn6Em9rV5WqAoM4v2DxXrA0dHYCw98ybaknkAOuQ==;49l8PfM8Q4yveR0jwxVUBA=="

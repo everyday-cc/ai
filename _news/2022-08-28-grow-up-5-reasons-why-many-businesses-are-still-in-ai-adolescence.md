@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/grow-up-5-reasons-why-many-businesses-are
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/grow-up-5-reasons-why-many-businesses-are-still-in-ai-adolescence/amp/"
 type: article
 quality: 87
-heat: 88
+heat: 87
 published: true
 
 provider:

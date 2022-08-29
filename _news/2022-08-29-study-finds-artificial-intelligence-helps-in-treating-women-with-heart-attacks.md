@@ -1,0 +1,73 @@
+---
+category: news
+title: "Study finds Artificial Intelligence helps in treating Women with heart attacks"
+excerpt: "Heart attacks are one of the main causes of death worldwide, with women having a greater mortality rate than men. Cardiologists have been concerned about this for decades, and it has sparked debate in the medical community regarding the reasons and repercussions of potential gaps in treatment."
+publishedDateTime: 2022-08-29T16:43:00Z
+originalUrl: "https://theprint.in/health/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/1106846/"
+webUrl: "https://theprint.in/health/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/1106846/"
+ampWebUrl: "https://theprint.in/health/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/1106846/?amp"
+cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/health/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/1106846/?amp"
+type: article
+quality: 35
+heat: -1
+published: false
+
+provider:
+  name: ThePrint
+  domain: theprint.in
+
+topics:
+  - AI
+  - AI in Healthcare
+
+related:
+  - title: "Artificial intelligence improves treatment in women with heart attacks"
+    excerpt: "Heart attacks in women are more likely to be fatal than in men. The reasons are differences in age and in comorbidity burden which make risk assessment in women a challenge. Researchers at the University of Zurich have now developed a novel artificial-intelligence-based risk score that improves personalized care for female patients with heart attacks."
+    publishedDateTime: 2022-08-29T16:07:00Z
+    webUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-treatment-women-heart.html"
+    ampWebUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-treatment-women-heart.amp"
+    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-treatment-women-heart.amp"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 59
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-61.jpg"
+        width: 1320
+        height: 1465
+        isCached: true
+  - title: "Robots are much better than doctors at spotting heart attacks in women, experts find"
+    excerpt: "ROBOTS are much better than doctors at spotting heart attacks in women, experts have found. Medics are 50 per cent more likely to miss a potentially fatal cardiac problem in females than they are"
+    publishedDateTime: 2022-08-27T22:41:00Z
+    webUrl: "https://www.thesun.co.uk/health/19638535/robots-better-doctors-heart-attacks-women/"
+    ampWebUrl: "https://www.thesun.co.uk/health/19638535/robots-better-doctors-heart-attacks-women/amp/"
+    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/health/19638535/robots-better-doctors-heart-attacks-women/amp/"
+    type: article
+    provider:
+      name: The Sun
+      domain: thesun.co.uk
+    quality: 52
+    images:
+      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/08/OFFPLAT_TRP_ROBOTSURGERY.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+        width: 1920
+        height: 1080
+        isCached: true
+  - title: "Artificial intelligence-based risk score improves personalized care for women with heart attacks"
+    excerpt: "Heart attacks in women are more likely to be fatal than in men. The reasons are differences in age and in comorbidity burden which makes risk assessment in women a challenge."
+    publishedDateTime: 2022-08-29T17:14:00Z
+    webUrl: "https://www.news-medical.net/news/20220829/Artificial-intelligence-based-risk-score-improves-personalized-care-for-women-with-heart-attacks.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 24
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
+        isCached: true
+
+secured: "4S063mLV/rL2B4TJx6Y+F0HGSpG1SVMQ97XotkHmgdwYJ+kD15MQ2L2CVuZOFZVeMM3lcZS0yVqkmjKAOdgmDSY6WbV/4J5SJQ8g8mqzD1iEqP+uhQl+W9t0wts5D4numRivtEO6wuiUpGToe+7Oi2DUhwySsjg7tfkodKCa/qQwOsAZdPmTPQERv01S7aKRTmsj110anOB0fad15YHS4ppRz4OcjAT85bpMKMsToNRYKy0cYnOt3y+HvY9oQ44tzkUOUPikJkyv0ifObs16KcIu0GMfCEP1NDF3SjtSVIu7kt5D0hkfPf+ZL+h9mAHN2Hnbtj/cEybapR977K2B+UNSdZoULoiDoYY8iIjeYh8=;exVcx++8uMD1gY3ay516tw=="
+---
+

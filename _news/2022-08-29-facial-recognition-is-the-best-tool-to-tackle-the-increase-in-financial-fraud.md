@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/facial-recognition-is-the-be
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/facial-recognition-is-the-best-tool-to-tackle-the-increase-in-financial-fraud/"
 type: article
 quality: 56
-heat: 66
+heat: -1
 published: false
 
 provider:
@@ -27,21 +27,60 @@ images:
     isCached: true
 
 related:
-  - title: "AI in FinTech Global Market Report 2022: Need for Fraud Detection in Fintech & Financial Institutions Driving Adoption - ResearchAndMarkets.com"
-    excerpt: "The “AI in FinTech Global Market Report 2022” report has been added to ResearchAndMarkets.com’s offering. The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25."
-    publishedDateTime: 2022-08-29T10:26:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795"
+  - title: "Humans Have a Natural Defense Against Facial Recognition: Aging"
+    excerpt: "Facial recognition systems have become very adept at identifying people in a crowd, but it turns out they don't cope very well with us getting older. As New Scientist reports, the algorithms used ..."
+    publishedDateTime: 2022-08-25T02:26:00Z
+    webUrl: "https://uk.pcmag.com/security/142247/humans-have-a-natural-defense-against-facial-recognition-aging"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
+      name: PC Magazine
+      domain: pcmag.com
+    quality: 64
+  - title: "The worrying spread of facial recognition tech"
+    excerpt: "Facial recognition technology uses machine learning algorithms to extract data points from a person’s face to create a digital signature. This signature is then compared with an existing database to find possible matches."
+    publishedDateTime: 2022-08-25T19:04:00Z
+    webUrl: "https://www.livemint.com/technology/tech-news/with-absent-laws-face-tracking-proliferates-11661453943678.html"
+    ampWebUrl: "https://www.livemint.com/technology/tech-news/with-absent-laws-face-tracking-proliferates/amp-11661453943678.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/with-absent-laws-face-tracking-proliferates/amp-11661453943678.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
     images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
+      - url: "https://images.livemint.com/img/2022/08/25/600x338/facial_1661454053797_1661454059841_1661454059841.jpg"
+        width: 600
+        height: 338
+        isCached: true
+  - title: "Deep-learning advance improves facial recognition for people wearing veils"
+    excerpt: "A new paper from a team of researchers claims they have developed a facial recognition algorithm which accurately matches faces occluded by a niqab."
+    publishedDateTime: 2022-08-25T20:10:00Z
+    webUrl: "https://www.biometricupdate.com/202208/deep-learning-advance-improves-facial-recognition-for-people-wearing-veils"
+    type: article
+    provider:
+      name: Biometric Companies
+      domain: biometricupdate.com
+    quality: 39
+    images:
+      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/25160459/niqab-scaled.jpg"
+        width: 2048
+        height: 1367
+        isCached: true
+  - title: "Rising Murder Rate Prompts Reversal, Revision of Facial Recognition Bans"
+    excerpt: "A number of cities and states have reversed or altered their facial recognition bans after recognizing a need for the technology."
+    publishedDateTime: 2022-08-25T14:42:00Z
+    webUrl: "https://www.campussafetymagazine.com/news/rising-murder-rate-prompts-reversal-revision-of-facial-recognition-bans/"
+    type: article
+    provider:
+      name: Campus Safety Magazine
+      domain: campussafetymagazine.com
+    quality: 38
+    images:
+      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2022/08/New-Orleans-Adobe-SeanPavonePhoto.jpeg"
+        width: 500
+        height: 300
         isCached: true
 
-secured: "rKAnjNBptjqymK6EYUJ0Fmnx+NvXqk83IRsWm2DYqvent0h28yRTr5kxIxTTZZ5DUNy/f0/ZABx6LY5w/7f6oPd7Youl4Z9soC5zgiIXKjYDEn39ajoF73Ns4mbeQcKBSlAj276O8tQsLAOhJRlrdaThiWncMTAHVXnMeyhx77LsuIYT2fnQokT55OCYidcwV7UyGOTEo+o5Fgc364h24OoUa5/Ixl0qi0kIp5WNcPysti+mlDf5s15N0/eKLfdMnxVpEpEaCxGthndiJAuCVGugyOXuGP1TlC3xPIBZbjDYz376zeOULxPJzTaIshuX4wFKVKDv59D9vu8dpWeSWzY8sjqDV8WKu/GwhUB/oLE=;82kVWXN0WESJBSqYZRJwqA=="
+secured: "3Hf2Z/IqHc1tohXGASyyPKQ0HWmGSS4fxTuaeeoW5dUeolXvulEGShNa248Vt0zrNn7BTJwI/BltmRUWI5oqLix+5215Zbv+urb3B4NOyViiXizfBNQzJBjlBfB9u68dQnoo9Iu2cb3ZJxOyjsRt7UndrzXPsRE0CRMCLPRsOXR7nJd0Cd5+f2YHMYJ2dHOms+kB/UIwjLQmaBmxJuQM162xZJkcLtljYuWIS5qbZe8TVzYgpNoafzGS1PbDFZ6ggUtTcc1FanZP/keWHnWx5QdFM5t4SksSgyKTrDL9GA2VKaI+Q4elkrKstSb6LMV6CiTl2RIazD4b8ls70fGGrLyUwbWKjX0zDZ7LpYX46j6l5h717j248oYg0+xyEyGYIc9Bv7R2v8LkfxKUXrqNds65US8d5fNgpg0phazi+x6Uvluplggzk6x9X7B/ciqqRIO3UnJ0onXOK+1ddZj9yRnXUicRTdyOg/ZUpJ2Wr/zJ7Uu2ruMq3HAvui6vHBdQn9G6eET36UiOSSZzXWlUPg==;5dVezp56t/Y/XUuMQP7O3A=="
 ---
 

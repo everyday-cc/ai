@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-25T15:14:00Z
 originalUrl: "https://www.eurekalert.org/news-releases/962870"
 webUrl: "https://www.eurekalert.org/news-releases/962870"
 type: article
-quality: 36
+quality: 38
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI in Autos
 
 images:
   - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8d8886a4-bd40-4f27-8eb6-2a0d3246e4e9/Rendition/thumbnail/Content/Public"
@@ -48,15 +49,6 @@ related:
         width: 889
         height: 593
         isCached: true
-  - title: "Artificial intelligence model can detect Parkinson's from breathing patterns, researchers show"
-    excerpt: "A device with the appearance of a Wi-Fi router uses a neural network to discern the presence and severity of one of the fastest-growing neurological diseases in the world."
-    publishedDateTime: 2022-08-25T00:00:00Z
-    webUrl: "https://www.sciencedaily.com/releases/2022/08/220825120322.htm"
-    type: article
-    provider:
-      name: Science Daily
-      domain: sciencedaily.com
-    quality: 37
   - title: "AI can detect Parkinson’s from nighttime breathing patterns"
     excerpt: "Researchers develop an artificial intelligence-based model to detect Parkinson’s disease and track its progression from nocturnal breathing signals."
     publishedDateTime: 2022-08-26T02:20:00Z
