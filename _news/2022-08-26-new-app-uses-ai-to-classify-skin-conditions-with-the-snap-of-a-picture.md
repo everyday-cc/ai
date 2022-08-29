@@ -7,7 +7,7 @@ originalUrl: "https://scitechdaily.com/new-app-uses-ai-to-classify-skin-conditio
 webUrl: "https://scitechdaily.com/new-app-uses-ai-to-classify-skin-conditions-with-the-snap-of-a-picture/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,38 @@ images:
     width: 2560
     height: 1707
     isCached: true
+
+related:
+  - title: "The future of malicious artificial intelligence applications is here"
+    excerpt: "But it also opened a Pandora’s box of malicious AI applications. Text-generating AIs — or “language models” — can now be used to massively augment online influence campaigns. They can craft complex and compelling arguments,"
+    publishedDateTime: 2022-08-29T11:00:00Z
+    webUrl: "https://www.thestar.com/opinion/contributors/2022/08/29/the-future-of-malicious-artificial-intelligence-applications-is-here.html"
+    ampWebUrl: "https://www.thestar.com/amp/opinion/contributors/2022/08/29/the-future-of-malicious-artificial-intelligence-applications-is-here.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/opinion/contributors/2022/08/29/the-future-of-malicious-artificial-intelligence-applications-is-here.html"
+    type: article
+    provider:
+      name: The Star
+      domain: thestar.com
+    quality: 59
+    images:
+      - url: "https://www.thestar.com/content/dam/thestar/opinion/contributors/2022/08/29/stratfords-hamlet-teaches-us-lessons-on-modern-day-survellience/hamlet.jpg.size.custom.crop.640x360.jpg"
+        width: 640
+        height: 360
+        isCached: true
+  - title: "Imagination's GPU and AI Accelerator Licensed for the latest AIoT RISC-V-based applications"
+    excerpt: "Imagination Technologies announces that its IMG B-Series GPU and PowerVR Series3NX NNA cores have been licensed for the latest RISC-V-based SoCs of Alibaba Group’s T-Head Semiconductor for AIoT (Artificial Intelligence of Things) applications."
+    publishedDateTime: 2022-08-25T14:56:00Z
+    webUrl: "https://www.design-reuse.com/news/52537/imagination-gpu-ai-accelerator-alibaba-t-head-aiot-risc-v.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 44
+    images:
+      - url: "https://www.design-reuse.com/news_img2/homepage52537/Imagination_technologies_logo.png"
+        width: 900
+        height: 500
+        isCached: true
 
 secured: "1/SYHtGEf1gw2MlFBqN4xAPK49nNvbXNqiVhSV3H+dieohUAJTJNnu0jxYJ0GMMv203hVZVfmbXRVNmiwebnRIV6Rzw3bm2sMtt+g3RSL641AGbviL1tSYJQ8vAgtNV4GJFAgqRyt2AWb8razpLqA1NwMz4l5BxlVYnbSjurwh+ipB+7s3AOPXVZJSwNpZgfLKygKH0Cb5boTiNkPvHdL12jwYksMk/XhSw7kaEYsPpAOLCJnu1v568ONI4UqYD2bsBxp+PX+xvLGBXyjCHc6ZNEfw18t+fxnQSitUjIiQp3GJw40w8A7V2ttcDU2UcfMwh5o//jKSxewIxbuZN0XpkurNuX//bCw6ZTBsaD5MA=;IMp/OWd4GZ8j1+gpyeCxsA=="
 ---

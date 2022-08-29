@@ -43,6 +43,15 @@ related:
         width: 800
         height: 494
         isCached: true
+  - title: "Teradata Announces ClearScape Analytics: The Most Powerful, Open, and Connected Cloud Analytics Available in the Industry"
+    excerpt: "ClearScape Analytics – which encompasses the same high-performing analytics that Teradata is known for but with 50+ new analytic functions – is available as part of Teradata VantageCloud and the new Teradata VantageCloud Lake,"
+    publishedDateTime: 2022-08-29T10:55:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "nwwwyVY4Wj3I9UOFxCoHWM9JPS9k1OMCXC2KJ0ZYWv5Ynky5O7QsvCkQqnPf1WK5aX5cCW+V4ewGGIZmSOam0JRmog+vIQxLf/zcyOCpEGCg3k26r/5Yto5lGB3DaWuX7r3/nd+7es5KO3h2GsLr83D1eTu//4HtQ724i9PxpKaW1NLp5rpWn348XNtyQ1Qzjg88bZ7+0Ccf/VkvmU4+Z8ydxMIiN30FnV14q3vBySqOGG5/17mzuCDLzgETR0psxqGv4AGSsIEKz0N/oApXa9Ng5adMHxvmxweztkNUSfQ8Jjpjze/rOwkV1k2QskoaR3ANCiW0l0GU2WrYbsj1/jxpeEKjfO0VrZZuPK0xK1c=;O7AgwPOGa+dp4HbijDvBOg=="
 ---

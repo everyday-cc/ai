@@ -7,8 +7,8 @@ originalUrl: "https://www.electronicsweekly.com/news/products/micros/imagination
 webUrl: "https://www.electronicsweekly.com/news/products/micros/imaginations-gpu-and-neural-processor-in-alibaba-risc-v-chip-2022-08/"
 type: article
 quality: 56
-heat: 76
-published: true
+heat: 66
+published: false
 
 provider:
   name: Electronics Weekly
@@ -26,20 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Imagination's GPU and AI Accelerator Licensed for the latest AIoT RISC-V-based applications"
-    excerpt: "Imagination Technologies announces that its IMG B-Series GPU and PowerVR Series3NX NNA cores have been licensed for the latest RISC-V-based SoCs of Alibaba Group’s T-Head Semiconductor for AIoT (Artificial Intelligence of Things) applications."
-    publishedDateTime: 2022-08-25T14:56:00Z
-    webUrl: "https://www.design-reuse.com/news/52537/imagination-gpu-ai-accelerator-alibaba-t-head-aiot-risc-v.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 44
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage52537/Imagination_technologies_logo.png"
-        width: 900
-        height: 500
-        isCached: true
   - title: "Alibaba Cloud Unveils Chip Development Platform to Support Developers with RISC-V based High-performance SoCs"
     excerpt: "Alibaba Cloud has unveiled its latest chip development platform, named Wujian 600. It has been created to help global developers in the design of high-performance Systems-on-Chip (SoCs) for edge-AI computing leveraging the RISC-V instruction-set architecture in an efficient and cost-effective way."
     publishedDateTime: 2022-08-25T13:38:00Z

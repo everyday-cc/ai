@@ -9,8 +9,8 @@ ampWebUrl: "https://tech.hindustantimes.com/amp/tech/news/this-new-google-photo-
 cdnAmpWebUrl: "https://tech-hindustantimes-com.cdn.ampproject.org/c/s/tech.hindustantimes.com/amp/tech/news/this-new-google-photo-ai-tool-is-a-game-changer-it-can-see-in-the-dark-71661413682138.html"
 type: article
 quality: 57
-heat: 77
-published: true
+heat: 67
+published: false
 
 provider:
   name: Hindustan Times
@@ -26,15 +26,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google's new AI image noise reduction tool could be a game changer"
-    excerpt: "Computational photography has come a long way, and nowadays it is prevalent in smartphones and post-processing software. Noise reduction is arguably one of the most valued"
-    publishedDateTime: 2022-08-24T18:58:00Z
-    webUrl: "https://www.techspot.com/news/95747-google-new-ai-image-noise-reduction-tool-could.html"
-    type: article
-    provider:
-      name: TechSpot
-      domain: techspot.com
-    quality: 47
   - title: "Tenzai emerges as a winner at the NASSCOM AI Gamechanger Awards"
     excerpt: "Tenzai Systems, a purpose-driven AI and Data Science Solutions provider, won the prestigious NASSCOM AI Gamechangers 2022 Award in the Business Intelligence category for its Supply Chain optimization solution."
     publishedDateTime: 2022-08-25T22:35:00Z

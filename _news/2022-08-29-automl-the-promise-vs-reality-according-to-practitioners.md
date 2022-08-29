@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-29T09:50:00Z
 originalUrl: "https://www.infoq.com/articles/auto-ml-promise-reality/"
 webUrl: "https://www.infoq.com/articles/auto-ml-promise-reality/"
 type: article
-quality: 24
-heat: 24
+quality: 26
+heat: 26
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - Microsoft AI
   - AI
+  - AWS AI
 
 images:
   - url: "https://res.infoq.com/articles/auto-ml-promise-reality/en/headerimage/header-1661333792384.jpg"
@@ -24,6 +25,6 @@ images:
     height: 630
     isCached: true
 
-secured: "uW8tB0lpQSiw3Uny87HUuuxzw2xm6l2HR8IAU2eq2dWAmhhE4yzaBFtVm1mmbZyS8FejghGrE/R/la81wC+Qj0EvPTtmPsSFFqL/wpiUM1am99QKXehhawLDVEHkivJ7k4mFXRbJkewszfZnyo4fhrBkOLwdhhw/oCch12X+3Sa+cq7/sqzveiA9Vgs0hahV6FXYqP1C5JNRjJhE6T8EC3lbcw9psVE0M92E6tFMdBKE0oDNnwm5HbkIwLKNvjKYQlHv+MN+SFX8++IKYwMoANvcGj13zbdXDsRyKZP+KXGV9C9Yta/98BLAzv5gw07VMbicRHKmfyzsXOFT7b70ACJedqKa4lAkRQiVeQlkXkA=;RSYXGBIYb+NrXw4KuyEOoQ=="
+secured: "k0p+D/4A0npZX+oatrq3o0PqTFcZQx71vsb2HY7CrdddthgM+fF1fDVJ61idZh9KseLLExBMzdKstkobbgJnA8mxkUv51ECcgnOrW75pCHdPVOwU/TcJb5/VKyPOi98w78wEpBxePumlgeVC6l5nUvOiBnMLwaC3G9W+wYRkEG42wBRN5tORiJSyk1jv4yyCDLfzlZpMHYL96Pa8kIwd5UZg2IuE00IsbG68Go2KgzD3ue7SUk6gFgnEUYJpjphBvoabH8LMshlwQqwO4vylMh6DJXIKtku8s36DNigdbjBVAKZ+bGfgaRRpE4SBtvv6K+Zi4OV46fhxUfPmC45+2YlymqsFZTEvRRhKDt2El4ERJD6TPI5tqDkFdDiQx8avfBoVt+7BZiDNrGpzANnXWaxODJqN2sw1v7TIZ52oyWdfZy+kblNfU8mJdypSJP6o42hDcAjQwCzrkgQW3N689fgcm2GU2LanuB4jqBUOeaCxyn4oChTWMTyalCGrEQmHmgEQQJ21OD7CC+TZhqpGNg==;MG36cxKkidcy6qWrXfrlDQ=="
 ---
 

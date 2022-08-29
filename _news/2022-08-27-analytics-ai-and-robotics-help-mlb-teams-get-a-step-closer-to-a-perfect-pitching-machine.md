@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/amp/"
 type: article
 quality: 110
-heat: 120
+heat: 130
 published: true
 
 provider:
@@ -47,6 +47,15 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Teradata Announces ClearScape Analytics: The Most Powerful, Open, and Connected Cloud Analytics Available in the Industry"
+    excerpt: "ClearScape Analytics – which encompasses the same high-performing analytics that Teradata is known for but with 50+ new analytic functions – is available as part of Teradata VantageCloud and the new Teradata VantageCloud Lake,"
+    publishedDateTime: 2022-08-29T10:55:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "GeWGbL2cSXZiz1am+R8O7GUP/Qq3CMsaNLZA154arba5/tZoyR7lP7SUUY7oOwNV3zFeySlq6u2mJo+tosCzXtulK+HKwBezbENDmzMzudUfFxA7oc+khnomFW7UJ5fx096aVyh2m/7k9q2aSLZX0FP39C2w0EbRMFKGRSOnali9bl2DU3Z7cyIW2Q3vKeiMlJH7O1XLL61YQcD8WXS1hgyoxunCu8ZJOzUS/l5b/n5r7wEOFJ96QQbDHnWaTIZuZm40mgkSqlKK33QZTadS/q4Rjpg4pIf3sqV7TDb0eXf7zYdMLOvoEUGEJ9bN8qQj9nbWsmzP0XFERGN49aebzU4OpuRGoGou/LWoEUVxUKnKE9cIBxsHuDNa3OhJlLGG/56LZ84cpvXU9MVWOw6GPxABjiZm9XuqTnCLl898vgRv3HOVxnRV8GJWvLrxLyx7RmFOePcwJRbT3qHQg9VYyQy/paMI9+/4twWAjerL1AZBEhKqpuS6NkzvyB6ukobuFxabGxUYtOIjS6S31DoSAA==;VJ0HQ48ycGO3MDrggtGaHQ=="
 ---

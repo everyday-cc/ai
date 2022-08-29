@@ -21,17 +21,17 @@ topics:
 related:
   - title: "Self-driving cars: A primer"
     excerpt: "Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won’t drive at all."
-    publishedDateTime: 2022-08-28T21:22:00Z
-    webUrl: "https://wgnradio.com/automotive/self-driving-cars-a-primer/"
-    ampWebUrl: "https://wgnradio.com/automotive/self-driving-cars-a-primer/amp/"
-    cdnAmpWebUrl: "https://wgnradio-com.cdn.ampproject.org/c/s/wgnradio.com/automotive/self-driving-cars-a-primer/amp/"
+    publishedDateTime: 2022-08-28T19:02:00Z
+    webUrl: "https://ktla.com/automotive/self-driving-cars-a-primer/"
+    ampWebUrl: "https://ktla.com/automotive/self-driving-cars-a-primer/amp/"
+    cdnAmpWebUrl: "https://ktla-com.cdn.ampproject.org/c/s/ktla.com/automotive/self-driving-cars-a-primer/amp/"
     type: article
     provider:
-      name: WGN Radio
-      domain: wgnradio.com
+      name: KTLA
+      domain: ktla.com
     quality: 44
     images:
-      - url: "https://wgnradio.com/wp-content/uploads/sites/6/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280"
+      - url: "https://ktla.com/wp-content/uploads/sites/4/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280"
         width: 1280
         height: 855
         isCached: true
@@ -48,20 +48,6 @@ related:
       - url: "https://www.rd.com/wp-content/uploads/2022/08/self-driving-cars-GettyImages-1292394282-JVedit.jpg"
         width: 2400
         height: 1600
-        isCached: true
-  - title: "Self-driving cars: a primer"
-    excerpt: "Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won't drive at all. Along the way, automakers will ..."
-    publishedDateTime: 2022-08-24T18:55:00Z
-    webUrl: "https://www.motorauthority.com/news/1108904_self-driving-cars-a-primer"
-    type: article
-    provider:
-      name: Motor Authority
-      domain: motorauthority.com
-    quality: 24
-    images:
-      - url: "https://images.hgmsites.net/hug/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg"
-        width: 1500
-        height: 1003
         isCached: true
   - title: "Driverless cars: From science fiction to a road near you"
     excerpt: "Self-driving cars, coaches, and lorries could on UK motorways next year - how is it working in China? | ITV National News"

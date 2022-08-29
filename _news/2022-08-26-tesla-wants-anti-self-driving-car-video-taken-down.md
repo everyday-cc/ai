@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Elon Musk tells early Tesla Full Self-Driving Beta testers not to complain"
-    excerpt: "Elon Musk has told an early Tesla Full Self-Driving Beta tester not to complain about the new FSD Beta update. Isn’t that kind of their job? A job that not only they are not paid for, but that Tesla is paying for? FSD Beta enables Tesla vehicles to drive ..."
-    publishedDateTime: 2022-08-24T17:10:00Z
-    webUrl: "https://electrek.co/2022/08/24/elon-musk-tells-early-tesla-full-self-driving-beta-testers-not-complain/"
-    ampWebUrl: "https://electrek.co/2022/08/24/elon-musk-tells-early-tesla-full-self-driving-beta-testers-not-complain/amp/"
-    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/24/elon-musk-tells-early-tesla-full-self-driving-beta-testers-not-complain/amp/"
-    type: article
-    provider:
-      name: Electrek
-      domain: electrek.co
-    quality: 102
-    images:
-      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/05/Elon-Musk-Game-of-Thrones-FI.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Why Tesla Thinks It'll Build Self-Driving Cars Before Everyone Else"
     excerpt: "Their job is to process video from the fleet of Tesla cars on the road today to learn how real-world driving works. That training process is the foundation for the FSD, short for Full Self Driving ..."
     publishedDateTime: 2022-08-25T07:44:00Z
@@ -67,17 +51,20 @@ related:
         width: 1100
         height: 619
         isCached: true
-  - title: "Musk Announces Tesla Bot Launch On AI Day 2022"
-    excerpt: "SpaceX CEO Elon Musk shared an update about the Tesla Bot “Optimus.” He announced that his company’s android would debut on AI Day, September 30, 2022. “Tesla Bots are initially positioned"
-    publishedDateTime: 2022-08-27T07:15:00Z
-    webUrl: "https://technology.inquirer.net/117492/elon-musk-announces-tesla-bot"
-    ampWebUrl: "https://technology.inquirer.net/117492/elon-musk-announces-tesla-bot/amp"
-    cdnAmpWebUrl: "https://technology-inquirer-net.cdn.ampproject.org/c/s/technology.inquirer.net/117492/elon-musk-announces-tesla-bot/amp"
+  - title: "Tesla aims for self-driving vehicle approval by end of the year"
+    excerpt: "A new Tesla ( TSLA) full self-driving beta is going out to 1K people this week, with potentially 10K people being added to the beta if no major issues are seen. In regard to safety, the electric vehicle maker is utilizing a five-strike system focused on ensuring that FSD Beta testers are paying attention as they test the software."
+    publishedDateTime: 2022-08-29T11:17:00Z
+    webUrl: "https://seekingalpha.com/news/3877348-tesla-aims-for-self-driving-vehicle-approval-by-end-of-the-year"
     type: article
     provider:
-      name: Philippine Daily Inquirer
-      domain: inquirer.net
+      name: Seeking Alpha
+      domain: seekingalpha.com
     quality: 54
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/187005526/image_187005526.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
   - title: "Tesla defends self-driving software"
     excerpt: "Tesla has defended its self-driving software after videos of cars running over child-size mannequins hit the internet. Added14 minutes ago A Los Angeles police officer has saved a baby's life using CPR,"
     publishedDateTime: 2022-08-26T08:53:00Z
@@ -92,17 +79,20 @@ related:
         width: 1024
         height: 576
         isCached: true
-  - title: "Elon Musk Hits Out At Beta Tester For “Complaining” About Full Self-Driving Beta"
-    excerpt: "Musk quickly clapped back at Locke on Twitter, telling him that he shouldn’t complain having previously asked to be included in early releases of Tesla’s Full Self-Driving beta software. “10.69 is in limited release for a reason."
-    publishedDateTime: 2022-08-26T16:00:00Z
-    webUrl: "https://www.carscoops.com/2022/08/elon-musk-hits-out-at-beta-tester-for-complaining-about-full-self-driving-beta/"
-    ampWebUrl: "https://www.carscoops.com/2022/08/elon-musk-hits-out-at-beta-tester-for-complaining-about-full-self-driving-beta/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/elon-musk-hits-out-at-beta-tester-for-complaining-about-full-self-driving-beta/amp/"
+  - title: "Musk focused on getting self-driving Teslas in wide release by year-end"
+    excerpt: "Tesla chief Elon Musk said today he aimed to get the electric automaker's self-driving technology ready by the end of the year. He also said it hopes it could be in wide release in the US and possibly in Europe, depending on regulatory approval. Speaking ..."
+    publishedDateTime: 2022-08-29T11:55:00Z
+    webUrl: "https://www.rte.ie/news/business/2022/0829/1319400-musk-on-self-drive-cars-energy/"
     type: article
     provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 34
+      name: RTE Online
+      domain: www.rte.ie
+    quality: 39
+    images:
+      - url: "https://img.rasset.ie/001c5de0-1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
   - title: "When It Comes to Semi-Autonomous Driving Systems, It’s Tesla Versus Everyone Else"
     excerpt: "Tesla is currently—for better or for worse—leading the charge with “full self-driving” (FSD), which remains blockaded by legal red tape. Just last year Elon said that FSD-equipped Teslas will be able to drive themselves with safety levels ..."
     publishedDateTime: 2022-08-24T19:42:00Z
@@ -112,15 +102,6 @@ related:
       name: Popular Mechanics
       domain: popularmechanics.com
     quality: 14
-  - title: "Pilot Tests Self-Driving Trucks"
-    excerpt: "Pilot Co. is partnering with Kodiak Robotics, a self-driving trucking company, to develop autonomous truck services at Pilot and Flying J travel centers. Pilot and Kodiak are in the process of creating an autonomous truckport in the Atlanta area to evaluate potential service offerings and explore scalable solutions."
-    publishedDateTime: 2022-08-24T17:57:00Z
-    webUrl: "https://www.cspdailynews.com/fuels/pilot-tests-self-driving-trucks"
-    type: article
-    provider:
-      name: Convenience Store News
-      domain: cspdailynews.com
-    quality: 4
 
 secured: "MFYZJMabk5M2kWHb7abuLXOWE+iJcbGaRg6DHAfw+jQWdDDYjXyaMnt5J/+SUkL+ESyqw3dsVTPk67mVaMUUxvchDfgZvuaVuZeyGieErRbIBw+EyxuRuq280KBrGG4E30fWLTHcwHJkmh5iO6ovZJkr6Ac9wgiZ3WxGiOdPu/8twTqacsBzozEN5SnKG6Ep/1EhUKnz4t3M3rEVRTo3/6OoGuV/er4ubK4mUiZE+JrKZA2hdirsRnlpt8sQDG64u/ZNfYnAmyRiVLDojlOR0FyaZdegcSxhS85hwSLCn3gPyOFvW2fMvpj18qTU0VUFOMyXaZf/CjJFEEqQG3JMU1ltRBU7HsXqmmFYtJZ1ogEcB3QBJ5fMhShNQ28i7Qq3knLG5BAeGplex9mKhNWxJKOe+B3ab/ew36n/wAz4DJ4Sduzji3ty3+8JqBjuG6iNOqfOekBql1Y2KO7r5sqbbqkzxqdwVk/ZokQz1U9OIQrr5A8xHEPIrsLm0P6lmsgW/DorUlj/vQcEnYwASGVmNw==;BdUYE2LQh1QIoH+amAd8Hw=="
 ---

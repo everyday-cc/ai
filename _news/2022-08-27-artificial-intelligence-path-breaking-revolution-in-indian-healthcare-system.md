@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/artif
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886"
 type: article
 quality: 71
-heat: 81
+heat: 91
 published: true
 
 provider:
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "Behind Indian Government Supported AI & Robotics Innovation Firm"
+    excerpt: "If we can get self-driving cars to work on Silk Board in Bengaluru, it will work in the US, it will work in Europe, it will work in Elon Musk’s backyard as well."
+    publishedDateTime: 2022-08-29T10:30:00Z
+    webUrl: "https://analyticsindiamag.com/behind-indian-government-supported-ai-robotics-innovation-firm/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 71
+    images:
+      - url: "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/ARTPARK.jpeg"
+        width: 1766
+        height: 993
+        isCached: true
   - title: "AI and app economies taking centre stage as Indian markets fire up again"
     excerpt: "As India’s digital economy continues to grow, we’ll see more innovative, AI-integrated ways to manage and wield data. With the right automated man.."
     publishedDateTime: 2022-08-26T03:29:00Z

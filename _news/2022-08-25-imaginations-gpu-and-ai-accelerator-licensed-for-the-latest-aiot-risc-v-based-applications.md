@@ -25,29 +25,36 @@ images:
     isCached: true
 
 related:
-  - title: "Imagination’s GPU and neural processor in Alibaba Risc-V chip"
-    excerpt: "Alibaba Group's T-Head chip design company has adopted Imagination Technologies B-Series GPU and Series3NX neural network accelerator for an artificial"
-    publishedDateTime: 2022-08-25T15:24:00Z
-    webUrl: "https://www.electronicsweekly.com/news/products/micros/imaginations-gpu-and-neural-processor-in-alibaba-risc-v-chip-2022-08/"
+  - title: "The future of malicious artificial intelligence applications is here"
+    excerpt: "But it also opened a Pandora’s box of malicious AI applications. Text-generating AIs — or “language models” — can now be used to massively augment online influence campaigns. They can craft complex and compelling arguments,"
+    publishedDateTime: 2022-08-29T11:00:00Z
+    webUrl: "https://www.thestar.com/opinion/contributors/2022/08/29/the-future-of-malicious-artificial-intelligence-applications-is-here.html"
+    ampWebUrl: "https://www.thestar.com/amp/opinion/contributors/2022/08/29/the-future-of-malicious-artificial-intelligence-applications-is-here.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/opinion/contributors/2022/08/29/the-future-of-malicious-artificial-intelligence-applications-is-here.html"
     type: article
     provider:
-      name: Electronics Weekly
-      domain: electronicsweekly.com
-    quality: 56
+      name: The Star
+      domain: thestar.com
+    quality: 59
     images:
-      - url: "https://static.electronicsweekly.com/wp-content/uploads/2017/11/29070024/armrisc.png"
-        width: 512
-        height: 512
+      - url: "https://www.thestar.com/content/dam/thestar/opinion/contributors/2022/08/29/stratfords-hamlet-teaches-us-lessons-on-modern-day-survellience/hamlet.jpg.size.custom.crop.640x360.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "Alibaba Cloud Unveils Chip Development Platform to Support Developers with RISC-V based High-performance SoCs"
-    excerpt: "Alibaba Cloud has unveiled its latest chip development platform, named Wujian 600. It has been created to help global developers in the design of high-performance Systems-on-Chip (SoCs) for edge-AI computing leveraging the RISC-V instruction-set architecture in an efficient and cost-effective way."
-    publishedDateTime: 2022-08-25T13:38:00Z
-    webUrl: "https://www.design-reuse.com/news/52536/alibaba-cloud-risc-v-chip-development-platform.html"
+  - title: "New App Uses AI To Classify Skin Conditions With the Snap of a Picture"
+    excerpt: "Piction Health, founded by Susan Conover SM ’15, uses machine learning to help physicians identify and manage skin disease. When Susan Conover wanted to get a strange-looking mole checked out at the age of 22,"
+    publishedDateTime: 2022-08-26T10:15:00Z
+    webUrl: "https://scitechdaily.com/new-app-uses-ai-to-classify-skin-conditions-with-the-snap-of-a-picture/"
     type: article
     provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 0
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 37
+    images:
+      - url: "https://scitechdaily.com/images/Piction-Health-AI-Powered-App-scaled.jpg"
+        width: 2560
+        height: 1707
+        isCached: true
 
 secured: "snSdJISBOJuWWblewxmFIPU/EVPUVLjxhfHXJEoOxkukcR5KfdWu1wUUjRJMsXs5YLdX7qXGhMaQLMiJKtjIgvmRTgeTy3S70zIGiAq6uhGgT9PI5YefdVQtcr2dB/4e5oJkyl0psYCkhg66J3pIWWSkEWx0Xmg0Xvi6IwX/vuHQlQtW106NQjc3i5H1TKQBo7Gpt0X+pe88au3wnhjB2QVckIF46lHh7BeIg6IaM18ZegYVOxHjSbHwbBgkXYePNxWZBHEf7+8T6jWNegPsA/y3u/Xh2G8kktewEQUrICiN0PE8hS6Td3HrCC376Qsd8HctUuR+9OIESZFptfq/VUOgDtGdQpA8Cv/Mtf37x6b+qgpiRxf+dykcrl4Zd55bN40MfIyXg3CST+UvvnAGQPZt7P0dWcXtJKNhk+LRhPJ5vlgdcMSpHl0cZDL6LOy/r72wJ7C3KiwAFRpyBsT0M1HMknxaWfm/huv9LQAmLJfaMb71mgprZim0kO1EWWoYpPmVJDSCb/+84PlIsfJylQ==;+gu4lJ971QqTTBnjnPeMhg=="
 ---

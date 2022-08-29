@@ -9,7 +9,7 @@ ampWebUrl: "https://www.moneycontrol.com/news/business/banks/rbi-crackdown-on-di
 cdnAmpWebUrl: "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/banks/rbi-crackdown-on-digital-lenders-to-hit-nbfc-fintech-business-models-raise-costs-9074131.html/amp"
 type: article
 quality: 53
-heat: 63
+heat: 53
 published: false
 
 provider:
@@ -25,17 +25,6 @@ images:
     width: 1280
     height: 720
     isCached: true
-
-related:
-  - title: "The Intersection Of Physical, Mental, And Financial Health: What The Fintech Journey Can Teach Us"
-    excerpt: "The connection between different facets of our health is more obvious than ever. The pandemic highlighted the ways decreased physical mental health and physical health are intertwined –and recent research shows that ongoing stressors around finances also impact mental and physical health."
-    publishedDateTime: 2022-08-24T18:49:00Z
-    webUrl: "https://www.forbes.com/sites/jennifertescher/2022/08/24/the-intersection-of-physical-mental-and-financial-health-what-the-fintech-journey-can-teach-us/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 21
 
 secured: "LUkrfqvjHFh/gjizjJ860mc6pdaVYnBuO3X72bXQ//ODJ+MhScHU2hQo4Mv3L3gYwdKgXoU1qgk3OitTNwCPnnVSdpeoYxLFzuuqxOvQ4ikcozZRmqnY2Vym9NUyUoBvl7a12nAmQyBzPdXUXzbWfMGlpHuxGtQQ9ZwYIZMPK2w+xqdESjKqxOyOR2rXjpmCNqizSA3hd7Lk1BvaPmDAGBBbasDsAl5kA3PMK7QwTneKLzlC1tHane0Zktj2ZeG0Z6b2FFI3KNPby5hx9DKYASVBRiAUfrFcaVuc7ecQs2BnmTELIfJ6We2MneUPvkMwcN0MICEgW2mmyMvNUqKMyUPMKeGIEEIMI6jhWBSRCTo=;jk3g7WykvHay7qe55lBSLw=="
 ---

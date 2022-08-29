@@ -1,10 +1,10 @@
 ---
 category: news
-title: "Tesla's 'full self-driving' feature may have finally met its match"
-excerpt: "Washington, DC (CNN)\"Full self-driving,\" the controversially named driver-assist feature from Tesla, may have finally met its match. Tesla's foil isn't a silver-haired US Senator, world-class ..."
-publishedDateTime: 2022-08-15T18:12:00Z
-originalUrl: "https://edition.cnn.com/2022/08/15/business/tesla-fsd-california-dmv/index.html"
-webUrl: "https://edition.cnn.com/2022/08/15/business/tesla-fsd-california-dmv/index.html"
+title: "Tesla’s ‘full self-driving’ feature may have finally met its match"
+excerpt: "The California DMV has become the first US government entity to formally move against the naming of “full self-driving.” Automotive regulation has traditionally fallen to the National Highway ..."
+publishedDateTime: 2022-08-15T21:04:00Z
+originalUrl: "https://www.cnn.com/2022/08/15/business/tesla-fsd-california-dmv/index.html"
+webUrl: "https://www.cnn.com/2022/08/15/business/tesla-fsd-california-dmv/index.html"
 ampWebUrl: "https://amp.cnn.com/cnn/2022/08/15/business/tesla-fsd-california-dmv/index.html"
 cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/15/business/tesla-fsd-california-dmv/index.html"
 type: article
@@ -27,6 +27,6 @@ images:
     height: 619
     isCached: true
 
-secured: "XzbZj0b8MXjsqh8j+8iC4JEftZXzrE6q6ZoRzrShMukcAJ46evCHufee1IveZyTd7Le1gCe4JujfJXUsanRqjeD1J14Vro1wDx1LXBmNVJFt1buyle2ukTxCqB3zyV911exWTCuexjVW4vaGkBbuRFsgNla8SxcjQ8/fWJcZz4Ogj2lb5LAEVwDpv3/iqSrGA/LbQ6oqNEf3b6/b+NWdM1cHCWPRSNXcas9eb2LsSZzemgUryFZH3q+36tdWTnVYwQHIDoVPj4x67LbWhXMqGw9fD3iTIlNKD//hjj/vqUJ4C4KQl8Osu5ijIUHjqVC1ABMphte7M4aAx/E9Rt4W0YyN11CoOLF5hgrGwv7jzqU=;NJEe3gl5fdYT1n5qHJF1hA=="
+secured: "UuSMNeDgk2f0kEVSxc/tJVKHOAqUunKmLOkl4fk4vRMHGNxiHI2BrOjN8iQd0taYZKlwtJculAWiYSqFcrsrOz2z3CvbYkr9oVdATrxXVPTOqyTMBi8ceYNc41Xpw6IPowBqh2hCyGCdVQMYMyGUn7UVz4eAI4I0CTpn1KWNzfQipL60eJFybV3t9BqzTV4KpNKLxXZyHnCa/FUQ+Jahfg0LfT6l9xABZvQG6Vj2KhhBKRF4+9qYkhw0QFr+dzR6UasyX/c/KZkYIOH36HW7xOZEuTg46vfXQrPEeZ4gZQ9yKyaeyEbZn20HXqVfb7sKENoV/vtidRxhOubslHfc44qsOo+VmFE16PFybe8V/kI=;PPdviCWazSMku0sfB+iGqw=="
 ---
 

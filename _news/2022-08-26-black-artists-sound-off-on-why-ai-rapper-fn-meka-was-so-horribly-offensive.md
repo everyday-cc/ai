@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Who Is FN Meka? Controversial AI Rapper Dropped by Capitol Records"
-    excerpt: "Capitol Records announced Tuesday that it dropped FN Meka, an artificial intelligence (AI) rapper that critics have condemned as an appropriation of Black culture. The record label made waves within the music industry when it announced on August 12 that it had signed Meka,"
-    publishedDateTime: 2022-08-24T18:34:00Z
-    webUrl: "https://www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588"
-    ampWebUrl: "https://www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588?amp=1"
-    cdnAmpWebUrl: "https://www-newsweek-com.cdn.ampproject.org/c/s/www.newsweek.com/fn-meka-ai-rapper-dropped-capitol-records-1736588?amp=1"
-    type: article
-    provider:
-      name: Newsweek
-      domain: newsweek.com
-    quality: 87
-    images:
-      - url: "https://d.newsweek.com/en/full/2103606/capitol-records-building-pictured-2020.jpg"
-        width: 3100
-        height: 2068
-        isCached: true
   - title: "FN Meka, the racist AI 'rapper,' is a symptom of a bigger problem"
     excerpt: "Capitol Records ended its record deal with a stereotypical 'rapper' that rhymes in the digital world. The controversy showed a major pitfall of AI."
     publishedDateTime: 2022-08-25T20:07:00Z
@@ -56,22 +40,6 @@ related:
         width: 2500
         height: 1250
         isCached: true
-  - title: "Capitol Records drops artificial intelligence rapper after just one week"
-    excerpt: "The AI-created rapper named FN Meka was meant to be the first augmented reality music artists to be signed to a major label."
-    publishedDateTime: 2022-08-25T01:46:00Z
-    webUrl: "https://www.thedenverchannel.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week"
-    ampWebUrl: "https://www.thedenverchannel.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week?_amp=true"
-    cdnAmpWebUrl: "https://www-thedenverchannel-com.cdn.ampproject.org/c/s/www.thedenverchannel.com/news/national/capitol-records-drops-artificial-intelligence-rapper-after-just-one-week?_amp=true"
-    type: article
-    provider:
-      name: 7News and TheDenverChannel.com
-      domain: thedenverchannel.com
-    quality: 56
-    images:
-      - url: "https://ewscripps.brightspotcdn.com/dims4/default/36f0c0d/2147483647/strip/true/crop/3719x2092+54+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F7a%2F22%2Fcaf7db494a18a01db7c00f559d55%2Fscreen-shot-2022-08-24-at-10.27.58%20PM.png"
-        width: 1280
-        height: 720
-        isCached: true
   - title: "Who Is FN Meka? The AI Rapper Causing Controversy"
     excerpt: "Entertainment Weekly reported on Tuesday (August 23) that FN Meka was created by Factory New, a “media company focused solely on virtual and digital talent,” according to co-founder Anthony Martini. His business partner Brandon Le designed the AI rapper by “using thousands of data points compiled from video games and social media."
     publishedDateTime: 2022-08-25T23:22:00Z
@@ -86,29 +54,6 @@ related:
         width: 710
         height: 400
         isCached: true
-  - title: "Indiecast Talks Arctic Monkeys’ Anticipated Return And Controversial AI Rapper FN Meka"
-    excerpt: "Plus, hosts Steven Hyden and Ian Cohen discuss a Harry Styles cover story which outraged Michael Jackson fans."
-    publishedDateTime: 2022-08-26T14:29:00Z
-    webUrl: "https://uproxx.com/indie/indiecast-episode-103-arctic-monkeys-fn-meka-harry-styles/"
-    type: article
-    provider:
-      name: Uproxx
-      domain: uproxx.com
-    quality: 31
-    images:
-      - url: "https://uproxx.com/wp-content/uploads/2021/11/arctic-monkeys-1.jpg?w=710"
-        width: 710
-        height: 400
-        isCached: true
-  - title: "Viral AI rapper dropped from major record label for racist content"
-    excerpt: "Capitol Music Group 'signed' FN Meka on August 14. The ensuing backlash ended the partnership in less than two weeks."
-    publishedDateTime: 2022-08-24T18:00:00Z
-    webUrl: "https://www.popsci.com/technology/racist-ai-rapper-dropped-label/"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 17
 
 secured: "lPMIR56XrQlrZn2CuKaPrxOxCzWuYODwDvfhaWxE4NLm8HmTka0/DYJMCIs+TfHah0F7npv/Er1APNnJ0Qvf7dGZ5vE8L80BF/nvkgm0AJL6M0bWSG2LlDd6GeY/EVH03lRFcTRLJUu4CEKD3P7e151LHWN3Q4/X/Pun8yXs8y3WpK1SG0Qv3DuNJ3BRIHvI5UUqsH7zYgOAy5y8FzBdWCgqo6rWjL3WEbxy1ZbG5wz929uPo7ys5v/mBPDNRhlahAiANM7DV0DdBfmXRVwz2rtHsL13sfJWRt0/XBhIceRc/fp55h1JAFodbj11ppC14qnwp5VQ4t1NDXlL8rdIIORITgxhHS6gfjzPLOfVrIV6PyGAazC3ZpAAwLsIt5639vagEot9vzeCYWvJBbhSPqVKLqNf8sgfqhU+fWyNVaip9p42l4IzUvIwVGSB6PtndlZH0jcUnFjDIYMYLFihlkzd9x+HlmSjtcLgdglYBtGT+dF6OAEoWLb1/tdw+Mtr2vUedCxnV9g8GjL/JGwVIA==;TPN7MYYLQD0G1cC7Ctk3Ww=="
 ---

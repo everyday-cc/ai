@@ -2,6 +2,230 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2022-06-09-three-reasons-why-ai-customer-engagement-initiatives-fail.md",
+      "title": "Three Reasons Why AI Customer Engagement Initiatives Fail",
+      "excerpt": "Attempts to implement a catch-all, fix-all solution that solves all of these challenges in every industry today will only result in disappointment on the part of businesses and their customers.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/three-reasons-why-ai-customer-engagement-initiatives-fail/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/three-reasons-why-ai-customer-engagement-initiatives-fail/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//5f7376dc40469ab26495a8e5/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/09/three-reasons-why-ai-customer-engagement-initiatives-fail/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/09/three-reasons-why-ai-customer-engagement-initiatives-fail/amp/",
+      "publishedDateTime": "2022-06-09T06:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum.md",
+      "title": "Roborock S7 MaxV Ultra Wins T3 Award 2022 for Best Robot Vacuum",
+      "excerpt": "Considering the tough competition amongst its robovac peers, it's clear that the advanced object recognition technology, customized cleaning options and performance in cleaning hard floors and ...",
+      "sourceUrl": null,
+      "webUrl": "https://fox4kc.com/business/press-releases/cision/20220609CN84169/roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum/",
+      "originalUrl": "https://fox4kc.com/business/press-releases/cision/20220609CN84169/roborock-s7-maxv-ultra-wins-t3-award-2022-for-best-robot-vacuum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/1836333/Roborock_S7_MaxV_Ultra.jpg",
+          "width": 400,
+          "height": 267,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T06:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX4 Kansas City",
+        "domain": "fox4kc.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-jaxon-inc-receives-100000-start-award-from-massventures.md",
+      "title": "Jaxon, Inc. Receives $100,000 START Award From MassVentures",
+      "excerpt": "Jaxon, Inc. (“Jaxon”), an AI company developing breakthrough machine learning technology to speed up the human-machine collaboration process, was selected as a recipient of a START award from MassVentures,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3",
+      "originalUrl": "https://apnews.com/press-release/newswire/technology-scott-cohen-massachusetts-business-bfda59c4ee2958ed0b7091af661d58a3",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T04:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-shield-ai-raises-165m-at-a-23b-valuation-to-fuel-development-of-its-military-autonomous-flying-systems.md",
+      "title": "Shield AI raises $165M at a $2.3B valuation to fuel development of its military autonomous flying systems",
+      "excerpt": "Technology built with defense in mind is getting some significant and serious traction at the moment, spurred by world events, advances in technology, and a growing appetite from end users to invest in more innovative ways to protect themselves.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/06/09/shield-ai-raises-165m-at-a-2-3b-valuation-to-fuel-development-of-its-military-autonomous-flying-systems/",
+      "originalUrl": "https://techcrunch.com/2022/06/09/shield-ai-raises-165m-at-a-2-3b-valuation-to-fuel-development-of-its-military-autonomous-flying-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 120,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/06/f16.jpeg?w=944",
+          "width": 944,
+          "height": 698,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/06/09/shield-ai-raises-165m-at-a-2-3b-valuation-to-fuel-development-of-its-military-autonomous-flying-systems/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/09/shield-ai-raises-165m-at-a-2-3b-valuation-to-fuel-development-of-its-military-autonomous-flying-systems/amp/",
+      "publishedDateTime": "2022-06-09T03:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-09-global-artificial-intelligence-ai-partnering.md",
+      "title": "Global Artificial Intelligence (AI) Partnering...",
+      "excerpt": "DUBLIN, June 9, 2022 /PRNewswire/ -- The \"Global Artificial Intelligence (AI) Partnering Terms and Agreements 2010 to 2022\" report has been added to ResearchAndMarkets.com's offering. This report ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/06/n27622875/global-artificial-intelligence-ai-partnering-deals-directory-2010-2022-access-to-terms-and-agreeme",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/06/n27622875/global-artificial-intelligence-ai-partnering-deals-directory-2010-2022-access-to-terms-and-agreeme",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/27622875",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/27622875",
+      "publishedDateTime": "2022-06-09T03:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-09-how-wind-prediction-tech-will-change-clean-energy.md",
       "title": "How Wind-Prediction Tech Will Change Clean Energy",
       "excerpt": "Google’s artificial intelligence sister company, DeepMind, continues to expand its scope, scale and capabilities. Essentially, feed DeepMind with a big and difficult set of problems to solve and it can often solve them. In 2020, for instance ...",
@@ -863,239 +1087,6 @@
         "AI",
         "AI in Healthcare",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago.md",
-      "title": "Baidu’s first robocar looks like the future we pictured 20 years ago",
-      "excerpt": "Chinese tech giant Baidu has unveiled a concept robocar called the ROBO-01. With it, the company's EV car subsidiary JIDU, and Chinese automaker Geely hope to lead the charge into a world of fully ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/news/baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago",
-      "originalUrl": "https://www.techradar.com/news/baidus-first-robocar-looks-like-the-future-we-pictured-20-years-ago",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/Atczmc6ShrzgeTvTauUuw6-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T14:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-integrate-amazon-lex-and-uneeqs-digital-human-platform.md",
-      "title": "Integrate Amazon Lex and Uneeq’s digital human platform",
-      "excerpt": "In today’s digital landscape, customers are expecting a high-quality experience that is responsive and delightful. Chatbots and virtual assistants have transformed the customer experience from a point-and-click or a drag-and-drop experience to one that is driven by voice or text. You can create a more",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-amazon-lex-and-uneeqs-digital-human-platform/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/integrate-amazon-lex-and-uneeqs-digital-human-platform/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/05/26/ML-1416-image005.png",
-          "width": 782,
-          "height": 327,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T14:04:42-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-lee-health-investing-in-and-advancing-robotic-assisted-surgery-program.md",
-      "title": "Lee Health: Investing in and advancing robotic-assisted surgery program",
-      "excerpt": "Robotic-assisted surgery allows surgeons to perform complex procedures with advanced accuracy and more flexibility and control, which could result in smaller scars, shorter hospital stays ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.naplesnews.com/story/news/local/communities/the-banner/2022/06/08/lee-health-investing-and-advancing-robotic-assisted-surgery-program/7496057001/",
-      "originalUrl": "https://www.naplesnews.com/story/news/local/communities/the-banner/2022/06/08/lee-health-investing-and-advancing-robotic-assisted-surgery-program/7496057001/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-08T13:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Naples Daily News",
-        "domain": "naplesnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-axon-ethics-board-members-resign-over-taser-equipped-drone.md",
-      "title": "Axon ethics board members resign over taser-equipped drone",
-      "excerpt": "Taser maker Axon is walking back plans to make a taser-equipped drone after nine members of its AI Ethics board resigned. Axon, a technology company known for developing tasers and products for police and the military, wanted to market the product as a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/board-members-resign-over-taser-equipped-drone/",
-      "originalUrl": "https://www.zdnet.com/article/board-members-resign-over-taser-equipped-drone/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/01ebfe773288e8d7a3d952c1ec40e6414d3f0f2f/2022/06/08/2bda3fad-bfc5-4d9d-b98e-7f998203ab26/taser-drone.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 901,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/board-members-resign-over-taser-equipped-drone/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/board-members-resign-over-taser-equipped-drone/",
-      "publishedDateTime": "2022-06-08T13:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-09-snorkel-ai-named-a-2022-gartner-cool-vendor.md",
-      "title": "Snorkel AI Named a 2022 Gartner® Cool Vendor",
-      "excerpt": "Press Release Snorkel AI, the data-centric AI platform company, announced it has been named a 2022 Cool Vendor in Gartner's AI Core Technologies report. According to Gartner, \"Data challenges of accessibility,",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/08/snorkel-ai-named-a-2022-gartner-cool-vendor/",
-      "originalUrl": "https://venturebeat.com/2022/06/08/snorkel-ai-named-a-2022-gartner-cool-vendor/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/08/snorkel-ai-named-a-2022-gartner-cool-vendor/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/08/snorkel-ai-named-a-2022-gartner-cool-vendor/amp/",
-      "publishedDateTime": "2022-06-08T13:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
       ]
     }
   ],

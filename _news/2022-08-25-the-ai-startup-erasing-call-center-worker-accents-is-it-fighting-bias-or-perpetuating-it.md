@@ -34,16 +34,16 @@ related:
   - title: "AI Startup Wants to Make Foreign Call Center Employees Sound White"
     excerpt: "Sanas argues that its technology can be empowering for call center employees by removing bias and limiting misunderstandings during phone conversations. Critics say it's erasure."
     publishedDateTime: 2022-08-25T16:56:00Z
-    webUrl: "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
+    webUrl: "https://www.pcmag.com/news/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
     type: article
     provider:
       name: PC Magazine
       domain: pcmag.com
-    quality: 69
+    quality: 67
     images:
-      - url: "https://sm.pcmag.com/t/pcmag_uk/news/a/ai-startup/ai-startup-wants-to-make-foreign-call-center-employees-sound_3ra4.1200.jpg"
-        width: 1200
-        height: 675
+      - url: "https://i.pcmag.com/imagery/articles/05P40am6RlXf9q8pCpYsR1f-1.fit_lim.size_1200x630.v1661442988.jpg"
+        width: 1120
+        height: 630
         isCached: true
   - title: "AI tech can make foreign call centre workers sound ‘like us’, but we should respect different accents"
     excerpt: "Perhaps I could have done with new voice-changing technology that makes you sound more “Western”. Sanas, a Silicon Valley startup, is offering tech that enables call centre workers around the world to sound less foreign."
