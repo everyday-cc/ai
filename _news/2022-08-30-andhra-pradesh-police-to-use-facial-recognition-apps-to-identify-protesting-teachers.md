@@ -1,0 +1,20 @@
+---
+category: news
+title: "Andhra Pradesh police to use facial recognition apps to identify protesting teachers"
+excerpt: "Police and Intelligence Departments will use facial recognition apps to identify those taking part in the protest. Highly placed sources in the Department said special teams equipped with facial recognition cameras and mobile apps will be deployed at all bus stations,"
+publishedDateTime: 2022-08-29T18:04:00Z
+originalUrl: "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-police-to-use-facial-recognition-apps-to-identify-protesting-teachers/article65825486.ece"
+webUrl: "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-police-to-use-facial-recognition-apps-to-identify-protesting-teachers/article65825486.ece"
+type: article
+
+provider:
+  name: The Hindu
+  domain: thehindu.com
+
+topics:
+  - Computer Vision
+  - AI
+
+secured: "fvkVhRagFBSEH5M3Gg7kASroeG3e/Wj8L/J1RaM++sIBXjm2Hu7siVjnQNsz//dvyXPd7C6abW5mrnG613bLsNc1ZdZNbj4iGTO8cy7apqSAsvVNaRH/yZoA0mSsXYk5eDt7oQg2eDzrlJLD9mPXkYxtIwiebx/A9PJX3tlbaT6JOP8rJZi+oF0rgmnKR5jDUx0EuhZbECx4GZWT70YIWAh+PUDo0frTZe2lt2HEhrT4AHHxHmrqUXcjz9FDqMXiPkNUkgOJtPahE9uKPMR1Hg4IZ3ur6zP+gPsqi3ifbWPvyQgB7W6HvWO8AB/YhFL7gN8UciE5lLh8lHR3oBtunEwh9zHDj7EPf/2VCifhGeYXpRuJeCOHPXMfLKrpUxoDq8wYyGpzrqPKg/nT4iB2grXRLO6lcI7yJ9sP9ccWFkZmOuc74qCULq8YEvN4etAqzJqGHPOk+ExI0J8QiLsWmIkF2wXmNYM9tGQW4dUTreR92Q/XkdNVqPcpb+VxIhvGPWkdn8pECoNAl5YSHwPsnQ==;McwolvayYtgScivAH9BWpA=="
+---
+
