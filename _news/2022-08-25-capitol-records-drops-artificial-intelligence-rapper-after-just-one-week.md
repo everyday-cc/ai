@@ -42,22 +42,6 @@ related:
         width: 3100
         height: 2068
         isCached: true
-  - title: "Capitol Records cuts ties with AI-generated rapper FN Meka over racist stereotypes"
-    excerpt: "The record company apologized to “the Black community” for promoting the robot rapper that critics said was “appropriative” and included “slurs infused in lyrics.”"
-    publishedDateTime: 2022-08-24T15:59:00Z
-    webUrl: "https://www.nbcnews.com/news/nbcblk/capitol-records-cuts-ties-ai-generated-rapper-fn-meka-racist-stereotyp-rcna44593"
-    ampWebUrl: "https://www.nbcnews.com/news/amp/rcna44593"
-    cdnAmpWebUrl: "https://www-nbcnews-com.cdn.ampproject.org/c/s/www.nbcnews.com/news/amp/rcna44593"
-    type: article
-    provider:
-      name: NBC News
-      domain: nbcnews.com
-    quality: 81
-    images:
-      - url: "https://iframe.nbcnews.com/amp169/thumbnail"
-        width: 640
-        height: 360
-        isCached: true
   - title: "FN Meka, the racist AI 'rapper,' is a symptom of a bigger problem"
     excerpt: "Capitol Records ended its record deal with a stereotypical 'rapper' that rhymes in the digital world. The controversy showed a major pitfall of AI."
     publishedDateTime: 2022-08-25T20:07:00Z

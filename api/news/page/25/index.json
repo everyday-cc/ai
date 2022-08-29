@@ -2,6 +2,110 @@
   "page": 25,
   "value": [
     {
+      "path": "_news/2022-08-06-why-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics.md",
+      "title": "Why retailers are upping their investments in data infrastructure and advanced analytics",
+      "excerpt": "Retailers are seeking every advantage possible as they recover from the pandemic. That includes new investments in data infrastructure and advanced analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/08/05/how-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics/",
+      "originalUrl": "https://venturebeat.com/2022/08/05/how-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 100,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/02/GettyImages-89320698.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 661,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/08/05/how-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/08/05/how-retailers-are-upping-their-investments-in-data-infrastructure-and-advanced-analytics/amp/",
+      "publishedDateTime": "2022-08-05T11:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-06-first-they-banned-facial-recognition-now-theyre-not-so-sure.md",
+      "title": "First, they banned facial recognition. Now they're not so sure",
+      "excerpt": "(CNN Business)Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html",
+      "originalUrl": "https://www.cnn.com/2022/08/05/tech/facial-recognition-bans-reversed/index.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220803111936-new-orleans-law-enforcement-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/05/tech/facial-recognition-bans-reversed/index.html",
+      "publishedDateTime": "2022-08-05T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-06-uk-plans-to-use-smartwatches-facial-recognition-to-surveil-convicted-migrants.md",
       "title": "UK Plans To Use Smartwatches & Facial Recognition To Surveil Convicted Migrants",
       "excerpt": "Migrants convicted of a crime in the U.K. may soon have to submit five daily facial recognition scans via a smartwatch as part of sweeping new surveillance practices under consideration by the country’s Home Office and Ministry of Justice.",
@@ -994,101 +1098,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-create-a-tfx-pipeline-using-templates-with-local-orchestrator.md",
-      "title": "Create a TFX pipeline using templates with Local orchestrator",
-      "excerpt": "This document will provide instructions to create a TensorFlow Extended (TFX) pipeline using templates which are provided with TFX Python package. Most of instructions are Linux shell commands, and corresponding Jupyter Notebook code cells which invoke ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.tensorflow.org/tfx/tutorials/tfx/template_local",
-      "originalUrl": "https://www.tensorflow.org/tfx/tutorials/tfx/template_local",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-extended-tfx-logo-social.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TensorFlow",
-        "domain": "tensorflow.org",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/tensorflow.org-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-meet-russias-new-killer-robot.md",
-      "title": "Meet Russia’s New Killer Robot",
-      "excerpt": "The robot’s targeting mechanism works automatically ... Moscow is also planning to introduce mind-controlled dual-use exoskeletons within the next five years (see: “Will Russia Field Robo ...",
-      "sourceUrl": null,
-      "webUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
-      "originalUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thediplomat.com/wp-content/uploads/2015/07/sizes/td-story-s-2/thediplomat_2015-07-20_15-05-18.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Diplomat",
-        "domain": "thediplomat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

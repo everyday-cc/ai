@@ -8,7 +8,7 @@ webUrl: "https://www.theguardian.com/technology/2022/aug/23/voice-accent-technol
 ampWebUrl: "https://amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
 cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/technology/2022/aug/23/voice-accent-technology-call-center-white-american"
 type: article
-quality: 46
+quality: 48
 heat: -1
 published: false
 
@@ -22,6 +22,7 @@ provider:
 
 topics:
   - AI
+  - Natural Language Processing
 
 images:
   - url: "https://i.guim.co.uk/img/media/b78a80dcbe5e356a1d5b5cdcb8bec72fd38da9e8/453_682_6496_3898/master/6496.jpg?width=620&quality=85&auto=format&fit=max&s=506613242ac1f196cf1c3c70b0c77f6a"
@@ -59,6 +60,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "cEptscmiXw6MD++o1KbWUZoaH17Y9/3Xb1nTyxzVYyU+zlIrcDq+J3It7XDlNoRJyaXpRBEsA4ru3PzV95MYofOHDI43jpxplidp3yXcIXPfsVhRw4Z+hGZ4t84BRPLoC+oj5kxZ/rlvKxuO9L0hDq5QvlzSVrEYRjZrZPPuuFbWTiNDBKIoM240RjLvTXUaYgUIOs598hDkb+Yg10gPcizBwRfFVxSAd41P4lfzmbBVH+JRJrZ0xIc0wq9tsPptQUIrqov8rLzy+cbJwbL8Eci23gznaYneJQ4WyZqfn7FAawQGD9VSzDLax+Rso1l9nno/bKUSRqZPgMnT7kjClFPCQ06S9lhaBzZ93gWvX7A=;AkOiu3qV18IeP7fYgeoHgg=="
+secured: "/d7PCSvTIQoNNm3sTKkLjmr4sc9YM+k09CoXpKbeUn//F4HDrOt70+HHQg06r34oPZd63Am8CqkY8DMazQdFVn3DJxzCjysNrHAAaCJ0xgqcmrGNjDvmBN0/j/WoJBXS2OSElp5o7FedAnjOeCiy/MfGoFV8CXaR2kqqTZ9lWJyQ5/Otdd472OpymugT4457MxU6DMyZZHz7cyaqXsFB6k7hoKDkIy9liNj3dmBxqmbHQ+9nm8HSAg4Lkdj4VGJqMVPkZU8VRVtFSMkwBB8HT8+GRr0ykDieuBlBBQkDmZqnd5CDbaVlZp4sLFE6bcpltdk6NLFTWXGaOCTMQn7u+jraEiyeoHxHdCUFNtcGQlmmYkIbPS3QnIdBJkMdofJbWvDx4k1g8tMxDdCxCK4+Wz1rVzfOFA3jxHerkzveHuVstCcoT9F+NBo5kKxJ7mCOR1eVqdfN/XscROwLgNpX9NGQm/SgzdG5h+4axM1f8I+aSPbQ9MoV07CpjDbetCZmAfTp0FOAC8+NeDK4CKgnLw==;zmyWfxjj3Jdp5+kKp4J/Xg=="
 ---
 

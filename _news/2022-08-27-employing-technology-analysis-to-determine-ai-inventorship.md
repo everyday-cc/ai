@@ -40,20 +40,6 @@ related:
         isCached: true
   - title: "4 Patent Act Snags if AI Was Named An \"Inventor\""
     excerpt: "If in fact the U.S. followed suit behind Australia and South Africa to name AI as the inventor of a patent, it would bring up a handful of issues within the Patent Act that would result in a long road of litigation."
-    publishedDateTime: 2022-08-24T16:04:00Z
-    webUrl: "https://www.law.com/legaltechnews/2022/08/24/4-patent-act-snags-if-ai-was-named-an-inventor/"
-    type: article
-    provider:
-      name: Law
-      domain: law.com
-    quality: 37
-    images:
-      - url: "https://images.law.com/contrib/content/uploads/sites/397/2022/08/Artificial-Intelligence_2-767x633-1.jpg"
-        width: 767
-        height: 633
-        isCached: true
-  - title: "4 Patent Act Snags if AI Was Named An \"Inventor\""
-    excerpt: "If in fact the U.S. followed suit behind Australia and South Africa to name AI as the inventor of a patent, it would bring up a handful of issues within the Patent Act that would result in a long road of litigation."
     publishedDateTime: 2022-08-25T20:27:00Z
     webUrl: "https://www.law.com/nationallawjournal/2022/08/24/4-patent-act-snags-if-ai-was-named-an-inventor/"
     type: article

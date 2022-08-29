@@ -125,6 +125,20 @@ related:
         width: 500
         height: 300
         isCached: true
+  - title: "AI driving global digital revolution – Deputy Communications Minister"
+    excerpt: "Madam Ama Pomaa Boateng, the Deputy Minister of Communication and Digitalisation, says Artificial Intelligence (AI) is now driving the global digital revolution and solving problems and challenges for emerging economies."
+    publishedDateTime: 2022-08-29T08:21:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/business/AI-driving-global-digital-revolution-Deputy-Communications-Minister-1612040"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 37
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/150/15012710.jpg"
+        width: 600
+        height: 399
+        isCached: true
   - title: "Artificial Intelligence is driving global digital revolution – Deputy Communications Minister"
     excerpt: "Madam Ama Pomaa Boateng, the Deputy Minister of Communication and Digitalisation, says Artificial Intelligence (AI) is now driving the global digital revolution and solving problems and challenges for emerging economies."
     publishedDateTime: 2022-08-29T02:10:00Z
@@ -148,20 +162,6 @@ related:
       name: The Pioneer
       domain: dailypioneer.com
     quality: 4
-  - title: "AI-Based Transit Signal Prioritization Helps Buses in Silicon Valley Get Residents Living in Zero-Vehicle Households to Destinations Faster"
-    excerpt: "Sustainable Silicon Valley formed a powerful coalition to pilot a solution that improved the flow of buses along busy Silicon Valley corridor SANTA CLARA, Calif., Aug. 24, 2022 (SEND2PRESS NEWSWIRE) — The City/County Association of Governments of San Mateo County C/CAG) and the Intelligent Transit Signal Prioritization (iTSP) project partners have successfully completed a pilot project that demonstrated a positive impact on improved transit performance in East Palo Alto,"
-    publishedDateTime: 2022-08-24T15:37:00Z
-    webUrl: "https://apnews.com/press-release/send2press/technology-san-mateo-palo-alto-3ccb91e00a2fffd328ff2f047cad8b02"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
 
 secured: "L3Zkqtskh8Ua71xacVTgVCL3DbGN+l4rCKkhrAOLLMVX8H1zQIR0hPMCrrr7RoO6zdw0MWJfA9ETX32pgzDnOPxIdmxv/8+593C7+6TTvRMghhwXSIaY8ecRfGPGyMdEUDIPGQRb47YLUxre+DobGLsGKjupJrvqd68Qxh7A6X5P6KFqK5zECLopOPNrjKT3f8UtQWm3plSr5B9YseyFV0Kp/PaSLvdY2u8hxcmtQCss4Qeb11vKRHOjOGh5ij27lTX53Y+lBOWsk5tehcIPJ/MjFSaKyjZ/mIecEoFRg8lWj3FJti6B7RIzjSUhXRe0PLe3i8rNQW4HqZd22zqIgtV3JSExcutb9yNNl79H7px1dU2k5Fja75gPnRDvW+u30NQeLDWMAf6TkRaElTxqtAkw0mbXAxqkxhX7tTLGKti5JWvE0Nb1a8jOmj4akKR2FQ0dIO9oJrtgS2S6N2x01C2+2Gp2xq+N8SGoLaaeW4sh5Uc7jo4Y9dho2smGb+G6AeC6XYxsGztS9tgDg1u9hA==;glsnclgHp+pDl/N4diP5aw=="
 ---

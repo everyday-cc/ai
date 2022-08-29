@@ -24,6 +24,22 @@ images:
     height: 567
     isCached: true
 
+related:
+  - title: "29/08 – Weekly Fintech Recap"
+    excerpt: "Partnerships Wearable Tech Pioneer DIGISEQ Partners with AdornPay to Bring Passive Wearable Payments to the Netherlands DIGISEQ, the wearable payments tech pioneer, announced its partnership with Dutch wearable fashion brand,"
+    publishedDateTime: 2022-08-29T08:04:00Z
+    webUrl: "https://financialit.net/news/artificial-intelligence/2908-weekly-fintech-recap"
+    type: article
+    provider:
+      name: Financial IT
+      domain: financialit.net
+    quality: 24
+    images:
+      - url: "https://financialit.net/sites/default/files/photo_2022-01-21_15.28.21_20.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
+
 secured: "EzQsm26wFNpKq+kVnM5Sya/Bil2gsgm06JtXDSZ12KVRBBvEZug9bE3deNny16Idy/0ZgCWX5ABqwcilTuYAtNtlQw/NUV4mzYwtG71UATtXFWOQFZq462QhC9gck1OzzqMxW8bRYpLQ0Tl/8bqaGyvJ1wNWpyHrKwSbnq3RW6BShQqenAFLEyGxnUxzdZRokTyNFA4LgF7lviBSsnPzFPQv+wGVXDzM6kWQZOTQpjR/4S3fD4Dq49bpXOFCIu9YNo2bXRpd8+F7YC5/msPHaQpYREvqM6YwbCV60Ki1xaezrmZLRYlAWQQhouoXimNB3yE2gJ3f4V6aQQ9JH0ntKssxhWtyZkaec9Mm0KSQzZg=;SaU71H9mshbik3znD5KpjQ=="
 ---
 

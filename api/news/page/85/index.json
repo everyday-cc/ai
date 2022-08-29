@@ -2,6 +2,100 @@
   "page": 85,
   "value": [
     {
+      "path": "_news/2022-06-21-driverless-trains-will-become-more-attractive-than-striking-employees.md",
+      "title": "Driverless trains will become 'more attractive than striking employees'",
+      "excerpt": "Speaking to The Telegraph on Monday, Mr Shapps predicted that support for bringing in driverless trains – the technology for which exists – will soar this week. Mr Shapps said: “Every hour ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.telegraph.co.uk/politics/2022/06/20/grant-shapps-rail-strikes-will-make-public-demand-driverless/",
+      "originalUrl": "https://www.telegraph.co.uk/politics/2022/06/20/grant-shapps-rail-strikes-will-make-public-demand-driverless/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.telegraph.co.uk/content/dam/politics/2022/06/20/TELEMMGLPICT000300274433_1_trans_NvBQzQNjv4BqB0kPDfEJHmx8uZd_9tUv7YnlD9VzwhkrYRykakve5GE.jpeg?impolicy=logo-overlay",
+          "width": 1024,
+          "height": 536,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Telegraph",
+        "domain": "telegraph.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-learning-analytics-and-ai-best-practices-from-fractal.md",
+      "title": "Learning Analytics And AI Best Practices From Fractal",
+      "excerpt": "Analytics and AI groups within companies can learn best practices for working with their own internal clients from companies like Fractal Analytics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tomdavenport/2022/06/20/learning-analytics-and-ai-best-practices-from-fractal/",
+      "originalUrl": "https://www.forbes.com/sites/tomdavenport/2022/06/20/learning-analytics-and-ai-best-practices-from-fractal/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 147,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62b0e1fd2738373c85cbe185/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tomdavenport/2022/06/20/learning-analytics-and-ai-best-practices-from-fractal/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomdavenport/2022/06/20/learning-analytics-and-ai-best-practices-from-fractal/amp/",
+      "publishedDateTime": "2022-06-20T14:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-speech-recognition-market-overall-study-report-2030.md",
       "title": "Speech Recognition Market Overall Study Report 2030",
       "excerpt": "This section includes regional segmentation that accentuates the recent and future demand for Speech Recognition market across North America, Europe, Asia-Pacific, Middle East & Africa ...",
@@ -1032,92 +1126,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-ais-hold-over-humans-is-getting-stronger.md",
-      "title": "AI’s hold over humans is getting stronger",
-      "excerpt": "The question of whether computers will ever feel is awkward and thorny, in large part because there’s little scientific consensus on how consciousness in humans works.",
-      "sourceUrl": null,
-      "webUrl": "https://indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/",
-      "originalUrl": "https://indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.indianexpress.com/2022/06/Google_AP_1.jpeg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/lite/",
-      "cdnAmpWebUrl": "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/technology/opinion-technology/ais-hold-over-humans-is-getting-stronger/lite/",
-      "publishedDateTime": "2022-06-19T20:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Indian Express",
-        "domain": "indianexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-20-ais-hold-over-humans-is-starting-to-get-stronger.md",
-      "title": "AI’s Hold Over Humans Is Starting to Get Stronger",
-      "excerpt": "Artificial intelligence isn’t on the cusp of sentience. But its growing inscrutability and sway over us should still be cause for concern.",
-      "sourceUrl": null,
-      "webUrl": "https://www.washingtonpost.com/business/ais-hold-over-humans-is-starting-to-get-stronger/2022/06/20/00648326-f06d-11ec-ac16-8fbf7194cd78_story.html",
-      "originalUrl": "https://www.washingtonpost.com/business/ais-hold-over-humans-is-starting-to-get-stronger/2022/06/20/00648326-f06d-11ec-ac16-8fbf7194cd78_story.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/76LPBSHQNQI6ZLAWR67XDFGNPA.jpg&w=1440",
-          "width": 1440,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-19T19:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Washington Post",
-        "domain": "washingtonpost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
         "AI"
       ]
     }

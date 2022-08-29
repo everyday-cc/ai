@@ -2,6 +2,111 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-08-17-broadcom-turbocharges-ai-and-ml-with-tomahawk-5.md",
+      "title": "Broadcom turbocharges AI and ML with Tomahawk 5",
+      "excerpt": "Artificial intelligence (AI) and machine learning (ML) are about more than algorithms: The right hardware to turbocharge your AI and ML computations is key. To speed up job completion, AI and ML training clusters need high bandwidth and dependable transport with predictable low-tail latency (tail latency is the 1 or 2% of a job that trails the rest of responses).",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/broadcom-turbocharges-ai-and-ml-with-tomahawk-5/",
+      "originalUrl": "https://venturebeat.com/ai/broadcom-turbocharges-ai-and-ml-with-tomahawk-5/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 126,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/08/GettyImages-1327279470.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 840,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/broadcom-turbocharges-ai-and-ml-with-tomahawk-5/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/broadcom-turbocharges-ai-and-ml-with-tomahawk-5/amp/",
+      "publishedDateTime": "2022-08-16T10:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-5-ways-ai-is-shaping-the-future-of-investment-research.md",
+      "title": "5 Ways AI is Shaping the Future of Investment Research",
+      "excerpt": "Financial analysts need access to high-quality data and information on emerging trends to deliver timely, insightful research and maintain their competitive edge.",
+      "sourceUrl": null,
+      "webUrl": "https://www.bloomberg.com/professional/blog/5-ways-ai-is-shaping-the-future-of-investment-research-2/?tactic-page=597225",
+      "originalUrl": "https://www.bloomberg.com/professional/blog/5-ways-ai-is-shaping-the-future-of-investment-research-2/?tactic-page=597225",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets.bbhub.io/image/v1/resize?type=auto&url=https%3A%2F%2Fassets.bbhub.io%2Fprofessional%2Fsites%2F10%2FScreenshot-NLP.png&width=800",
+          "width": 800,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T09:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Bloomberg",
+        "domain": "bloomberg.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bloomberg.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-did-data-drift-in-ai-models-cause-the-equifax-credit-score-glitch.md",
       "title": "Did data drift in AI models cause the Equifax credit score glitch?",
       "excerpt": "Data drift is not an entirely uncommon phenomenon, but is it what caused Equifax to majorly misreport the credit scores of consumers?",
@@ -1058,92 +1163,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-global-artificial-intelligence-ai-in-operating-room-market-analysis-and-forecast-technologies-demand-growth-research-and-development.md",
-      "title": "Global Artificial Intelligence (AI) in Operating Room Market Analysis And Forecast | Technologies, Demand, Growth, Research And Development",
-      "excerpt": "Key Companies Covered in the Global Artificial Intelligence (AI) in Operating Room Research are Activ Surgical Inc., Brainomix Limited, Caresyntax Corp, DeepOR S.A.S, ExplORer Surgical Corp., Hanson Meditec Co.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-operating-room-market-analysis-and-forecast-technologies-demand-growth-research-and-development-2022-08-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-operating-room-market-analysis-and-forecast-technologies-demand-growth-research-and-development-2022-08-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T01:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again.md",
-      "title": "Delhi Police’s facial recognition tech at 80% accuracy, stokes privacy concerns again!",
-      "excerpt": "The accuracy rates of facial-recognition software can go as high as 99.97% in ideal conditions. In 2019, Delhi Police had reported accuracy levels of 2%. While 80% may seem like a drastic improvement,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/articleshow/93587861.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/articleshow/93587861.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-211252,msid-93588009/delhi-police-personnel.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/amp_articleshow/93587861.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/amp_articleshow/93587861.cms",
-      "publishedDateTime": "2022-08-16T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

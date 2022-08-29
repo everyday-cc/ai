@@ -2,6 +2,102 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-21-people-are-now-testing-teslas-full-self-driving-on-real-kids.md",
+      "title": "People are now testing Tesla's 'full self-driving' on real kids",
+      "excerpt": "The North Carolina resident set out to refute a widely circulated video of a Tesla with the company's \"full self-driving\" beta software -- which allows the car to steer, brake and accelerate ...",
+      "sourceUrl": null,
+      "webUrl": "https://edition.cnn.com/2022/08/21/business/tesla-fsd-tests-kids",
+      "originalUrl": "https://edition.cnn.com/2022/08/21/business/tesla-fsd-tests-kids",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220819141817-tesla-autopilot-steering-wheel-file-super-tease.jpg",
+          "width": 1100,
+          "height": 619,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/21/business/tesla-fsd-tests-kids/index.html",
+      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/21/business/tesla-fsd-tests-kids/index.html",
+      "publishedDateTime": "2022-08-21T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNN",
+        "domain": "cnn.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-21-enterprise-artificial-intelligence-ai-market-growing-massively-by-ibm-microsoft-aws.md",
+      "title": "Enterprise Artificial Intelligence (AI) Market Growing Massively by Ibm, Microsoft, Aws",
+      "excerpt": "New Jersey, N.J., Aug 21, 2022 Enterprise AI is a category of enterprise software that leverages advanced artificial intelligence techniques, including machine learning, to drive digital ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/enterprise-artificial-intelligence-ai-market-growing-massively-by-ibm-microsoft-aws",
+      "originalUrl": "https://www.digitaljournal.com/pr/enterprise-artificial-intelligence-ai-market-growing-massively-by-ibm-microsoft-aws",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/04/f4f04bbf0a33e2251f03a5748650712826f14ff2-2-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-21T03:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-21-anthony-levandowski-is-the-messiah-of-his-new-ai-god.md",
       "title": "Anthony Levandowski is the Messiah of his new AI God",
       "excerpt": "It then reveals some of his innovative projects, like the robot he made in 2001 that could count Monopoly money, and the driverless ... potential of artificial intelligence is something that ...",
@@ -1051,93 +1147,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-groups-have-questions-about-how-facial-recognition-technology-impact-black-people.md",
-      "title": "Groups have questions about how facial recognition technology impact Black people",
-      "excerpt": "Simply put, the technology–with varying degrees of accuracy–has difficulty identifying faces, especially Black and brown ones, under less-than-ideal circumstances. “This technology is ...",
-      "sourceUrl": null,
-      "webUrl": "https://thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/",
-      "originalUrl": "https://thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thegrio.com/wp-content/uploads/2019/12/Facial-Recognition.jpg",
-          "width": 1250,
-          "height": 805,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/amp/",
-      "cdnAmpWebUrl": "https://thegrio-com.cdn.ampproject.org/c/s/thegrio.com/2022/08/19/facial-recognition-technology-impact-black-people/amp/",
-      "publishedDateTime": "2022-08-19T09:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Grio",
-        "domain": "thegrio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-08-19-ring-camera-recordings-exposed-due-to-vulnerability-in-android-app.md",
-      "title": "Ring Camera Recordings Exposed Due to Vulnerability in Android App",
-      "excerpt": "A vulnerability patched recently by Amazon in the Android app for its Ring surveillance cameras exposed user data and video recordings, according to cybersecurity firm Checkmarx, whose researchers identified the flaw.",
-      "sourceUrl": null,
-      "webUrl": "https://www.securityweek.com/ring-camera-recordings-exposed-due-vulnerability-android-app",
-      "originalUrl": "https://www.securityweek.com/ring-camera-recordings-exposed-due-vulnerability-android-app",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.securityweek.com/sites/default/files/logos/Facebook-Security-Group.png",
-          "width": 256,
-          "height": 256,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T08:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Security Week",
-        "domain": "securityweek.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
         "AI"
       ]
     }

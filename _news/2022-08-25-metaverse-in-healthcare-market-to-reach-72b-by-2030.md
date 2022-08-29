@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Jobs in the metaverse: This AI startup founder wants to change the future of work"
-    excerpt: "Adam Turaev, the founder of Praktika.ai, an AI-based learning platform, believes the metaverse will remove barriers in workplace. He is striving to help non-native English speakers — or their avatars — to be hired by the international companies."
-    publishedDateTime: 2022-08-24T15:45:00Z
-    webUrl: "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/"
-    ampWebUrl: "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/amp/"
-    type: article
-    provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 52
-    images:
-      - url: "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
-        isCached: true
   - title: "Who will establish metaverse ethics?"
     excerpt: "The metaverse is not a new concept. The term was coined by science fiction novelist Neal Stephenson in his 1992 book Snow Crash, which depicts a hyper-capitalist dystopia in which humanity has collectively opted into life in virtual environments."
     publishedDateTime: 2022-08-27T03:40:00Z
@@ -48,6 +32,20 @@ related:
       - url: "https://img2.chinadaily.com.cn/images/202208/27/6309699da310fd2bec9e80f9.jpeg"
         width: 669
         height: 840
+        isCached: true
+  - title: "After $177 Billion in Investment, Why Do Metaverse Graphics Still Suck?"
+    excerpt: "The metaverse has been touted as the place where we’ll spend our lives in the future—but the visuals leave a lot to be desired."
+    publishedDateTime: 2022-08-27T17:10:00Z
+    webUrl: "https://decrypt.co/108201/after-177-billion-in-investment-why-do-metaverse-graphics-still-suck"
+    type: article
+    provider:
+      name: decrypt
+      domain: decrypt.co
+    quality: 24
+    images:
+      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/mark-zuckerberg-meta-metaverse-e1661424792823-gID_7.jpg"
+        width: 1024
+        height: 512
         isCached: true
 
 secured: "JK0S/yMw1+iEYsqnasg/vYvagWIEnrp6062oQot8GQYTHatG9sFMVhGD7jFb/Y8oCqP1cpZvjK9zMLATcumAPwgdVEnZg8LQtP+9B4o35qEE8w0mq3DBB7EDedNIFOUNGJ1PtzZFgq0yNrthQKKLwWxWBK1EGJOLfYBRKofDwoQAzWkrA7HYi2dnYfqGl1ElFQCbIbcY+0BQNXq65h5hIbihWe9jlAjYbljQMcC4dVZrw+ZgViRgtLn7skH9SahU27Cz2uunwutvmP7yyPkv30Jl2GD/4BQR7A3d5XeDBIGOZikjemgfkQNPH5Fk+exbHsSm7MgH+SlnLajhkA4aDNtwfSwdZqyQc6lUGrOliv0=;FZJfQr/bqKAY1hLLTeiPLw=="

@@ -2,19 +2,19 @@
 category: news
 title: "Corporate cop launches investigation into collapse of AI start-up Metigy"
 excerpt: "Metigy’s sole director and chief executive, David Fairfull, had a penchant for luxury houses that administrators believe was funded in part by a loan from the company."
-publishedDateTime: 2022-08-28T18:31:00Z
-originalUrl: "https://www.smh.com.au/business/entrepreneurship/corporate-cop-launches-investigation-into-collapse-of-ai-start-up-metigy-20220829-p5bdmy.html"
-webUrl: "https://www.smh.com.au/business/entrepreneurship/corporate-cop-launches-investigation-into-collapse-of-ai-start-up-metigy-20220829-p5bdmy.html"
-ampWebUrl: "https://amp.smh.com.au/business/entrepreneurship/corporate-cop-launches-investigation-into-collapse-of-ai-start-up-metigy-20220829-p5bdmy.html"
-cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/business/entrepreneurship/corporate-cop-launches-investigation-into-collapse-of-ai-start-up-metigy-20220829-p5bdmy.html"
+publishedDateTime: 2022-08-28T18:01:00Z
+originalUrl: "https://www.theage.com.au/business/entrepreneurship/corporate-cop-launches-investigation-into-collapse-of-ai-start-up-metigy-20220829-p5bdmy.html"
+webUrl: "https://www.theage.com.au/business/entrepreneurship/corporate-cop-launches-investigation-into-collapse-of-ai-start-up-metigy-20220829-p5bdmy.html"
+ampWebUrl: "https://amp.theage.com.au/business/entrepreneurship/corporate-cop-launches-investigation-into-collapse-of-ai-start-up-metigy-20220829-p5bdmy.html"
+cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/business/entrepreneurship/corporate-cop-launches-investigation-into-collapse-of-ai-start-up-metigy-20220829-p5bdmy.html"
 type: article
 quality: 36
 heat: -1
 published: false
 
 provider:
-  name: Sydney Morning Herald
-  domain: smh.com.au
+  name: The Age
+  domain: theage.com.au
 
 topics:
   - AI
@@ -53,6 +53,6 @@ related:
         height: 300
         isCached: true
 
-secured: "bwbGoeYMfxZpYM4u2KnJvfn9vtcapdpLKCTj++xiiGpayKbZiqKdxQziaQYIVefyncaYmNv5qKuCo5xAC/SubGFMZGzCSkcs+o1EVHcyGyCKKMeK6MBT9dMVZshTjKMh9FnYivBk2P4OeMOjsgTr+Qk6PFZwP+qm7uwaB90pGENHH9aIDPb7GloxTOuKeL8NgNZ8E6/KgYSfU4zhJMx9WBNqLr/Hp7hZDTfoDLp1V504LrMVXVkg19qnRNa1VFPAWiZXt8GbNQvxPBqgOdCt5KjF0CrtE8K3M3WqKoq1Sv7wvXA7FB3Qa9QxCN4kWDG2EP3S+yjtEifvjHkUS1G6DfhRzZZyupABQ/v4MtMSXUD083o6ZfL6cDSiEwWT9ptdRi8dvOvTPMvUh7a2Iadc3CJO1XYBddJoovKrpbKFh6C48CfR3tdRAft1cETYJsepEsfExa0gxXfukDTCFVjCl/X9z/8ejDMWN/UQLEjpVLJQTVNXM5O6HimuhFRg5NEg9jUQjgLYagXJHOX76HjTmQ==;9+kYQO5pLUvaMvJYiCzTVA=="
+secured: "EXRWz+j5m2x9V7V8hsB875ePyAHYJxINp13XyZDYyTKB9jIN3lezluHgkl4120Bqmw77XVJkC/25P3YKX5H/BscAEnq+sMeBoyepBInzxPxOpafAxtOPieHbMq4rKb6PuoQkaN1Af/bgXiAXO4bihnF1MSj5q07ej40YpIrh99LAX1Jtv6qo+mn3govSG3AgUGRZwx/Zs1r7VaasAZKohcjf4asbPgzTdru/G/f6IgCCe/ejSPvx25KgoizKqqDLfY52hhe70L884u5yACwJe0dhYVDd6fsCe/B0tLUeVind+TZSW4kT3seCng9YRRzRRfOOm10GZmpepgWtqHL75iKrIF/vMU454vzbgGVWdJ9QPnkJBtStkzGpfQRLJiRegB+rKtIYcq3plQVgBI3yisijYJ+W9sVtKSVf8MrtBVrsidJkUVYeyEkwEwaO0p+PMhiKDpLN6aopq8dh2I56KWqLZYt3aWh6ywfbD04f1XI/HhBleDt2jwdSyINGZ47vQWdJeMK5uPBwmRjIqJJjdw==;x2AuSZR1q2mUxiMdn2GRzA=="
 ---
 

@@ -2,6 +2,74 @@
   "page": 116,
   "value": [
     {
+      "path": "_news/2022-05-30-seniors-should-pick-a-financial-ally-before-cognitive-decline-hits-heres-how.md",
+      "title": "Seniors Should Pick a Financial Ally Before Cognitive Decline Hits. Here’s How.",
+      "excerpt": "Seniors often wait too long to simplify their finances, communicate financial goals, and eventually sign a power-of-attorney document that names someone to manage their money if they’re no ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.barrons.com/articles/retirement-cognitive-decline-51653667597",
+      "originalUrl": "https://www.barrons.com/articles/retirement-cognitive-decline-51653667597",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-30T04:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Barron's",
+        "domain": "barrons.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-30-3-top-artificial-intelligence-stocks-to-buy-right-now.md",
+      "title": "3 Top Artificial Intelligence Stocks to Buy Right Now",
+      "excerpt": "Artificial intelligence (AI) is an emerging field that many companies are taking advantage of in innovative ways. AI doesn't just mean talking robots destined to take over the planet one day. It's involved in maximizing advertising effectiveness,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2",
+      "originalUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/3-top-artificial-intelligence-stocks-to-buy-right-now-2?amp",
+      "publishedDateTime": "2022-05-30T03:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-30-one-ai-raises-8m-to-curate-business-specific-nlp-models.md",
       "title": "One AI raises $8M to curate business-specific NLP models",
       "excerpt": "Ben previously was the head of AI at LogMeIn after the company acquired his second startup, Nanorep, an AI and chatbot vendor. Dror helped to co-found Nanorep and served as a platform product ...",
@@ -1027,111 +1095,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-28-ai-robotics-security-leader-aitxs-new-software-update-will-include-weapon-detection.md",
-      "title": "AI Robotics Security Leader AITX's New Software Update will Include Weapon Detection",
-      "excerpt": "AITX announced that its wholly owned subsidiary Robotic Assistance Devices, Inc. (RAD) will include gun detection",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-robotics-security-leader-aitxs-new-software-update-will-include-weapon-detection-2022-05-27",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-robotics-security-leader-aitxs-new-software-update-will-include-weapon-detection-2022-05-27",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-27T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-05-28-this-facial-recognition-site-is-creeping-everyone-out.md",
-      "title": "This Facial Recognition Site Is Creeping Everyone Out",
-      "excerpt": "A facial recognition tool called PimEyes has recently gone from unknown to infamous. PimEyes makes it easy to find pictures of people that are strewn across the internet. That isn't necessarily surprising—reverse image searches have been a thing for years—but it turns out PimEyes is astoundingly good at identifying people with naught but a single photograph.",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/this-facial-recognition-site-is-creeping-everyone-out",
-      "originalUrl": "https://www.pcmag.com/news/this-facial-recognition-site-is-creeping-everyone-out",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/042tAv7BU4awCU1LoifhgMO-1.fit_lim.size_1200x630.v1653691896.jpg",
-          "width": 1121,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/this-facial-recognition-site-is-creeping-everyone-out?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/this-facial-recognition-site-is-creeping-everyone-out?amp=true",
-      "publishedDateTime": "2022-05-27T15:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

@@ -7,7 +7,7 @@ originalUrl: "https://global.chinadaily.com.cn/a/202208/27/WS6309699da310fd2b29e
 webUrl: "https://global.chinadaily.com.cn/a/202208/27/WS6309699da310fd2b29e74891.html"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -25,21 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Jobs in the metaverse: This AI startup founder wants to change the future of work"
-    excerpt: "Adam Turaev, the founder of Praktika.ai, an AI-based learning platform, believes the metaverse will remove barriers in workplace. He is striving to help non-native English speakers — or their avatars — to be hired by the international companies."
-    publishedDateTime: 2022-08-24T15:45:00Z
-    webUrl: "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/"
-    ampWebUrl: "https://techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/amp/"
-    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/jobs-in-the-metaverse-this-ai-startup-founder-wants-to-change-the-future-of-work/amp/"
+  - title: "After $177 Billion in Investment, Why Do Metaverse Graphics Still Suck?"
+    excerpt: "The metaverse has been touted as the place where we’ll spend our lives in the future—but the visuals leave a lot to be desired."
+    publishedDateTime: 2022-08-27T17:10:00Z
+    webUrl: "https://decrypt.co/108201/after-177-billion-in-investment-why-do-metaverse-graphics-still-suck"
     type: article
     provider:
-      name: Impacts
-      domain: techbullion.com
-    quality: 52
+      name: decrypt
+      domain: decrypt.co
+    quality: 24
     images:
-      - url: "https://techbullion.com/wp-content/plugins/accelerated-mobile-pages/images/SD-default-image.png"
-        width: 735
-        height: 552
+      - url: "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2022/08/mark-zuckerberg-meta-metaverse-e1661424792823-gID_7.jpg"
+        width: 1024
+        height: 512
         isCached: true
   - title: "Metaverse in healthcare market to reach $72B by 2030"
     excerpt: "The 2021 metaverse global market size is about $6.85 billion. According to an Aug. 24 news release from Precedence Research, it is expected to surpass $70.1 billion by 2030 with a compound annual growth rate of 28."

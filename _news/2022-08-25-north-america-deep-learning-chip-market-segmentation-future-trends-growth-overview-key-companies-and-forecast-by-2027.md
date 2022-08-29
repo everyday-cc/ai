@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/north-america-deep-learn
 webUrl: "https://www.marketwatch.com/press-release/north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-08-25"
 type: article
 quality: 61
-heat: 101
+heat: 111
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 57
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "North America Machine Learning Market Size Outlook, Share, Revenue, Regions & Forecast 2022-2031"
+    excerpt: "A report on North America Machine Learning Market was recently added by Kenneth Research into its database, which is"
+    publishedDateTime: 2022-08-26T05:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-machine-learning-market-size-outlook-share-revenue-regions-forecast-2022-2031-2022-08-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

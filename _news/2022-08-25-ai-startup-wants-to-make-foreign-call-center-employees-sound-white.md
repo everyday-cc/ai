@@ -39,7 +39,7 @@ related:
     provider:
       name: The Guardian
       domain: theguardian.com
-    quality: 46
+    quality: 48
     images:
       - url: "https://i.guim.co.uk/img/media/b78a80dcbe5e356a1d5b5cdcb8bec72fd38da9e8/453_682_6496_3898/master/6496.jpg?width=620&quality=85&auto=format&fit=max&s=506613242ac1f196cf1c3c70b0c77f6a"
         width: 620
@@ -60,6 +60,6 @@ related:
         height: 1667
         isCached: true
 
-secured: "SQV9zkgWiat6wLQ1LEMwVVwfgK+WHdharfFyt69xIseGxxj7rtjd90/BjCvnOhWvj+flR/mqMY2pBSgQeRbjFznGrcZP0IaFdERxf0d5G8BmbyMjmNT08HItNHQTEv8SX/FfamtDGK/6QbnakH9ZT7eh80mBSh+PNiX6AvRAAM/RaWiZBpLP5Yg0JQdzR00Wpwcg/eBhIUj2/UEnNbRyB46YFAwSCNIE74lEFAruYirGargksd5bxTae/8rMEewNs+wq5KTcy3AtTaQ5zbrF3+Cjs0sKPUcdccnaXblW8MaK0S0CgCIjYJVk5NB4RVS9FE7krNXJN/OiuOWyLX4Z0fOORlOl6FQxKKN/nWjm7Ec=;AFShzQSXwZSdQgtlNBYNKQ=="
+secured: "KMCEchOAMkpGmwRTRVFlJEH1SkD6TJET33kKWx268g942sD14Ayr5O1EXCYJe7bc6PEZSZlAp/oHq7QvdnMM/qBfKvDFB1NodJjlCxGmVFb+1YDGwqVaxTLbDQBnpbgV7zE5q056QAl3aVqqPBeqQ/5Q52HrnqbQ7BJoxlaYLKff8UUyOdcOMHq7bsf/69Zbk3XeUPAfoo4K8GDGaXqn/w2cyPS5YNhsiFE3iy5FTMypap0L1mtHtx+KbnAfRRhLAsjXAGPCQO4DROAfU29DwNW0CIsHJeTFnAaKHmONZv1ECBeaZPlcIhZJSAK/i9GlOyDrMksoST70Q5Y9XpIY0XEZTFMuCmJyoK81TYj2geY=;rjKDumy2wETRNrXa3vs03w=="
 ---
 

@@ -2,6 +2,73 @@
   "page": 53,
   "value": [
     {
+      "path": "_news/2022-07-15-actionable-news-insights-surfaced-by-trading-central-artificial-intelligence.md",
+      "title": "Actionable news insights surfaced by Trading Central Artificial Intelligence",
+      "excerpt": "Winner of the Best A.I. Product at the recent TA Awards, TC Market Buzz helps modern investors & traders tackle infobesity while improving brokerage platforms' return on news investment.. The cutting-edge technology employs proprietary artificial intelligence (AI) in particular natural language processing (NLP) trained by market analysts to crunch incredibly large amounts of content into simple actionable insights.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/2022/07/14/9639307.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/2022/07/14/9639307.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T13:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-15-enova-announces-date-of-second-quarter-2022-financial-results-conference-call.md",
+      "title": "Enova Announces Date of Second Quarter 2022 Financial Results Conference Call",
+      "excerpt": "is a leading financial technology company providing online financial services through its artificial intelligence and machine learning powered lending platform. Enova serves the needs of non-prime consumers and small businesses, who are frequently ...",
+      "sourceUrl": null,
+      "webUrl": "https://stockhouse.com/news/press-releases/2022/07/14/enova-announces-date-of-second-quarter-2022-financial-results-conference-call",
+      "originalUrl": "https://stockhouse.com/news/press-releases/2022/07/14/enova-announces-date-of-second-quarter-2022-financial-results-conference-call",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-14T13:17:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Stockhouse",
+        "domain": "stockhouse.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-15-houston-selected-as-host-site-for-artificial-intelligence-bootcamp-applications-now-open.md",
       "title": "Houston Selected as Host Site for Artificial Intelligence Bootcamp – APPLICATIONS NOW OPEN!",
       "excerpt": "Perficient will host a Mark Cuban Foundation Artificial Intelligence (AI) Bootcamp for high school students in the Fall of 2022. The No Cost AI Bootcamp in Houston will be targeted at high school students and will introduce underserved students in grades 9 through 12 to basic AI concepts and skills.",
@@ -1066,92 +1133,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-an-ai-model-named-bloom-larger-than-openais-gpt-3-and-metaais-opt-will-be-open-sourced.md",
-      "title": "An AI Model Named BLOOM, Larger than OpenAI’s GPT-3 and MetaAI’s OPT, Will Be Open Sourced",
-      "excerpt": "Its openness can democratize access to AI technologies, making a deep impact on society, according to experts talking at TheNextWeb.com. It’d free AI from bit tech labs that have spent millions of dollars developing systems such as LaMDA (Google) and GPT-3 (OpenAI).",
-      "sourceUrl": null,
-      "webUrl": "https://iblnews.org/a-powerful-ai-model-named-bloom-will-be-open-source/",
-      "originalUrl": "https://iblnews.org/a-powerful-ai-model-named-bloom-will-be-open-source/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://iblnews.org/wp-content/uploads/2022/07/bloom.jpg",
-          "width": 860,
-          "height": 510,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T06:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IBL News",
-        "domain": "iblnews.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-14-sentinels-recognized-as-a-top-ai-innovator-in-financial-services-across-the-world.md",
-      "title": "Sentinels Recognized as a Top AI Innovator in Financial Services Across the World",
-      "excerpt": "Sentinels, a Fenergo company and Europe’s leading intelligent transaction monitoring platform, has been recognized as one of the world’s most innovative AI solution providers by being included in the AI FinTech 100 List for 2022,",
-      "sourceUrl": null,
-      "webUrl": "https://financialit.net/news/artificial-intelligence/sentinels-recognized-top-ai-innovator-financial-services-across-world",
-      "originalUrl": "https://financialit.net/news/artificial-intelligence/sentinels-recognized-top-ai-innovator-financial-services-across-world",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://financialit.net/sites/default/files/sentinaels_0.png",
-          "width": 1366,
-          "height": 768,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-14T05:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Financial IT",
-        "domain": "financialit.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
         "AI"
       ]
     }
