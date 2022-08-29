@@ -4,7 +4,7 @@ otherNames:
   - "Fraugster Limited"
 overview: "A German-Israeli payment security company that uses AI to eliminate e-commerce fraud and increase customers’ profits. #fraudfree #AI #ecommerce"
 type: "profile"
-heat: 58
+heat: 50
 
 website: https://fraugster.com/
 
@@ -46,6 +46,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "/utS+PJ3vG55OvcxLnihI14QvnzBmkJ5RgdKvtKUuFXVIcp9FxGJD3DYLfGJxXEyWJoYav9M+qN9NaYw2W+/Bpo+phGDz4g4X9sIIcwyKdiX8x7A5ox2wBqH5/rjmxCjj3STIhtoFD1uWpANLC9rSmy2KWrHEAjuFOYVYIhFO3rwQgWiEgTedrCYdB2DSfkqcesHtzEKFdzBjzRBojix2tv8d0Tz9GyU4bG5AdL+yJb/1/eFdDtAZrlq5yygvX8VcP2ZmSFFxJGFoN9qLcD964AFtMCf7OJCqvjToVFvDflEypPPGkPN0+3rizGoNYZG0rktJwgUL44fb5WwrxKpZlx1I/UBahXbwmQEfv8bBL47sKiokgoyBsIWUvFwVPrMXuHdT9HqBpy/gwsxk4dc1w==;/C2cGhWJZkFnNvV2/t6XGQ=="
+secured: "L/W/VYXbPTPNfvZe98bci7ulLEPXnxDoBsOBE3way76haIsl9YXKbUTWPYYSMRuQEQyRDi0brT8BWXQpD2oPbptqNxMdwhzEMWzwaA+SMTI+Ayj7pMl8sEE1bnWBPX802oru4/35ePoUlyueFTebCy8luy2m9dX5wMq4rco+FHkWIfsVcoTA2bNQ/7UQLyvB6i7GSJMywOHeMOMIjdByILvEgVDvDRZAAC5+xrXfjMK1jNIuVD8D/nfSepuSbEhLKIuHr1vyPnYT6l18HU5HE7NiWUDEov+mgOYsZfHvaSqcVRji+SDN3Jn3gkO9WLjkJdNWYkhGPjKP/aFkFb6OnDjqfBC92qBKbaS+jl9BFjc3/7nqj9eMws6F82Ys58OBitCErHznmL8+rZHXqa3Xlw==;MKJv025vRdY6fnWMgfDcIA=="
 ---
 

@@ -2,7 +2,7 @@
 name: "AlphaSense"
 overview: "AlphaSense transforms the way companies get information and make critical decisions with its AI-powered market intelligence platform. The company mission is to organize and semantically index global investment and market research data, allowing clients to be more efficient and outdo the competition. Used by the largest and fastest-growing corporations and financial firms worldwide, AlphaSense is headquartered in NYC with offices in London, Helsinki, San Francisco, and Boston."
 type: "profile"
-heat: 50
+heat: 57
 
 website: https://www.alpha-sense.com
 
@@ -41,6 +41,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "QwHP+3jMmpf/DELAkbAXsrCN5zi2wVMtaZeCCeOww2MQrnR9vSplcLBiSeGtqaUHcxzKz9WWRdN09y7EsNB9PcAtgSnbLF6rKMMCTW49npydLoQNVcF1hI3xoYyR8uqZFpHgZTREV1S+CjopCAUwkwDvhO8ib/gfc1QNg+sbfjzkQlAKFDCx2OVR74v3+jojutgWTpiwxBEEYtf5tX8mvlntPobqZaiaoi2sOVPKNyH/JtyAsDUnMyGb9c9sW+FWnu0Tr2KgxNbEGfw7LPRAr7Po20r0hOjfHXexUGCv3MMD/fB8Nw4wXyB4E9BUYAI9uhBSManmh7OnzU8MU4EX8VsggB6fe+TqEyqkQi+9G/LZo2v4ft7tH/GwP80u+XMUFFzliTEvWtkHWteVyINsjZmNmMSf4rI/VE5kURAsgyM=;z6wbQ2Pl/62IQXk1Uhs1oQ=="
+secured: "T5WgHlAspzDaq7sABz8cM3aZ4TebtMrOMU7VUysMQQ132Yz9sOnDU2iFJlnh5P72NqVOr391s9caeONm1m1Em15ThvouuBsuOqln9pIBWb1Cqbel6GySXfWaryYS9Wu6vvlVXcrSjIHmARvGOFRwp13MR12yonYO6gc6kVkiZMYdS77V/za1ClqQtiBt+0h1+n+ah7G8UlZCBJdsCuy0Tumo4W9H454mF69XRewU+XESlSUnCMXqzK0dS0XSb3JEDtkHY4qFYkFgu7KV4Mai+l178pMwMgD8gTqmwg3kzzDl3xzrI9sJBPTYE3SQU9Yje6nepaB36gFe1pICkr2riiLybWv6GqkzC+iwnYdSNu8yh8X/ygyW8ihowB6vmeODhN2inTH53hgphKHiOjByu1HMjM7rMixqWLQVJsmbuxE=;bBvprR+l7kotJY2wJHfLeA=="
 ---
 
