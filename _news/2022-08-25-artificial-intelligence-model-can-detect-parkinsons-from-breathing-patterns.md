@@ -74,6 +74,20 @@ related:
       name: WBUR
       domain: wbur.org
     quality: 24
+  - title: "Effects of Exercise on Parkinson's Disorders"
+    excerpt: "and lead to neuroprotection and maybe even neurorestoration. Ultimately, this would would/could cause for an improvement in the motor, cognitive and variety of other non-motor symptoms in PD."
+    publishedDateTime: 2022-08-25T20:11:00Z
+    webUrl: "https://www.csus.edu/college/health-human-services/center-health-practice-policy-research/research/effects-exercise-parkinsons-disorders.html"
+    type: article
+    provider:
+      name: Sacramento State University
+      domain: csus.edu
+    quality: 24
+    images:
+      - url: "https://www.csus.edu/newcsus2019-global-assets/_internal/images/logo/primary-vertical/primary_vertical_2_color_gld_hnd.png"
+        width: 394
+        height: 399
+        isCached: true
   - title: "AI Model Detects Parkinson’s From Breathing Patterns"
     excerpt: "A team of researchers at MIT has developed an artificial intelligence (AI) model that can detect Parkinson’s from reading a person’s breathing patterns.  The neural network is able to assess a person’s nocturnal breathing,"
     publishedDateTime: 2022-08-27T13:52:00Z

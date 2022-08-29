@@ -2,6 +2,154 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-27-founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree.md",
+      "title": "Founder of collapsed AI start-up Metigy in $18m property buying spree",
+      "excerpt": "Administrators are now urging the sale of the properties - a mansion in Mosman and a luxury estate in Kangaroo Valley with a private rainforest waterfall - to claw back funds for creditors.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
+      "originalUrl": "https://www.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png",
+          "width": 300,
+          "height": 300,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
+      "cdnAmpWebUrl": "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
+      "publishedDateTime": "2022-08-27T09:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Age",
+        "domain": "theage.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-improving-ai-assisted-conversation-with-zero-shot-learning.md",
+      "title": "Improving AI-assisted conversation with zero-shot learning",
+      "excerpt": "Zero-shot learning can improve conversation AI — bolstering everything from human interaction, to sales, to training and career coaching.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/",
+      "originalUrl": "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1169246375.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/amp/",
+      "publishedDateTime": "2022-08-27T08:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators.md",
+      "title": "Perceptron: Face-tracking ‘earables,’ analog AI chips, and accelerating particle accelerators",
+      "excerpt": "In this week's edition of Perceptron, TechCrunch's semiregular AI research roundup, we highlight an 'earable' that uses sonar to record facial expressions and a superfast processor for AI training.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/",
+      "originalUrl": "https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/08/resized_brain_cover.png",
+          "width": 768,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/amp/",
+      "publishedDateTime": "2022-08-27T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-08-27-analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine.md",
       "title": "Analytics, AI and robotics help MLB teams get a step closer to a perfect pitching machine",
       "excerpt": "Advances in AI, stat tracking, advanced metrics and robotics could fit together nicely for a proper 21st-century twist on a pitching machine.",
@@ -10,7 +158,7 @@
       "originalUrl": "https://techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 130,
+      "heat": 150,
       "tags": null,
       "images": [
         {
@@ -191,7 +339,7 @@
       "originalUrl": "https://newatlas.com/environment/ai-fish-gate-atlantic-pacific-salmon/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 77,
       "tags": null,
       "images": [
         {
@@ -276,7 +424,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-image-segmentation-with-amazon-sagemaker-jumpstart/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 79,
+      "heat": 89,
       "tags": null,
       "images": null,
       "content": "\r\n",
@@ -528,7 +676,7 @@
       "originalUrl": "https://www.cnbc.com/2022/08/26/microsoft-tiktok-parent-bytedance-collaborate-on-ai-project-kuberay.html",
       "featuredContent": null,
       "highlight": null,
-      "heat": 121,
+      "heat": 111,
       "tags": null,
       "images": [
         {
@@ -1060,162 +1208,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-counterpoint-ai-is-far-more-dangerous-than-quantum-computing.md",
-      "title": "Counterpoint: AI is far more dangerous than quantum computing",
-      "excerpt": "A respectful counterpoint to an op-ed article published earlier this week declaring quantum computing a greater threat than AI.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/counterpoint-ai-far-more-dangerous-than-quantum-computing",
-      "originalUrl": "https://thenextweb.com/news/counterpoint-ai-far-more-dangerous-than-quantum-computing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Fscaredrobot.jpg&signature=33af3f0f76c643a35c6038c920c40200",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-build-a-multi-lingual-document-translation-workflow-with-domain-specific-and-language-specific-customization.md",
-      "title": "Build a multi-lingual document translation workflow with domain-specific and language-specific customization",
-      "excerpt": "In the digital world, providing information in a local language isn’t novel, but it can be a tedious and expensive task. Advancements in machine learning (ML) and natural language processing (NLP) have made this task much easier and less expensive. We have seen increased adoption of ML for multi-lingual",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-lingual-document-translation-workflow-with-domain-specific-and-language-specific-customization/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/build-a-multi-lingual-document-translation-workflow-with-domain-specific-and-language-specific-customization/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/25/multi-lingual-document-translation.jpg",
-          "width": 1533,
-          "height": 762,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T10:57:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-nvidia-grace-and-hopper-superchips-are-poised-to-be-ai-and-hpc-powerhouses.md",
-      "title": "NVIDIA Grace And Hopper Superchips Are Poised To Be AI And HPC Powerhouses",
-      "excerpt": "NVIDIA’s Grace Superchips will become part of a building inertia with respect to the highly scalable ArmV9 architecture in the data center, and give legacy x86 a run for its money.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/08/25/nvidia-grace-and-hopper-superchips-are-poised-to-be-ai-and-hpc-powerhouses/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/08/25/nvidia-grace-and-hopper-superchips-are-poised-to-be-ai-and-hpc-powerhouses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6307aa901bf7e61eb9653b4d/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/08/25/nvidia-grace-and-hopper-superchips-are-poised-to-be-ai-and-hpc-powerhouses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/08/25/nvidia-grace-and-hopper-superchips-are-poised-to-be-ai-and-hpc-powerhouses/amp/",
-      "publishedDateTime": "2022-08-25T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

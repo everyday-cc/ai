@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Humans Have a Natural Defense Against Facial Recognition: Aging"
-    excerpt: "Facial recognition systems have become very adept at identifying people in a crowd, but it turns out they don't cope very well with us getting older. As New Scientist reports, the algorithms used ..."
-    publishedDateTime: 2022-08-25T02:26:00Z
-    webUrl: "https://uk.pcmag.com/security/142247/humans-have-a-natural-defense-against-facial-recognition-aging"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 64
   - title: "The worrying spread of facial recognition tech"
     excerpt: "Facial recognition technology uses machine learning algorithms to extract data points from a person’s face to create a digital signature. This signature is then compared with an existing database to find possible matches."
     publishedDateTime: 2022-08-25T19:04:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-29T18:30:00Z
 originalUrl: "https://www.bbntimes.com/science/how-artificial-intelligence-augments-animal-healthcare"
 webUrl: "https://www.bbntimes.com/science/how-artificial-intelligence-augments-animal-healthcare"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: bbntimes

@@ -7,7 +7,7 @@ originalUrl: "https://newatlas.com/environment/ai-fish-gate-atlantic-pacific-sal
 webUrl: "https://newatlas.com/environment/ai-fish-gate-atlantic-pacific-salmon/"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -41,20 +41,6 @@ related:
       - url: "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1661419837/itpro/2022/August/Salmon_River_AI_fish_GettyImages-534962696.jpg"
         width: 1260
         height: 710
-        isCached: true
-  - title: "Huawei and Partners Install World’s First AI Filtering System for Salmon in a Natural River in Norway"
-    excerpt: "Huawei and local partner Berlevåg Jeger-og Fiskerforening (BJFF) have successfully deployed an AI-powered filtering system in Norway’s Storelva River that allows Atlantic salmon to pass upstream and filters Pacific salmon – an invasive species – into a holding tank."
-    publishedDateTime: 2022-08-25T03:00:00Z
-    webUrl: "https://apnews.com/press-release/pr-newswire/norway-salmon-invasive-species-0cd1508927aea55c30cac9ac021418d3"
-    type: article
-    provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 22
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
         isCached: true
 
 secured: "YkoUegRBG3KqxESLUwFqMm6/zGilZnDcUMmZSRPHzEGKzLweWkTCI9gNF0hhJSZO7D+pv9Z4Cb4vxvOXeW6pFXfv/ehW2lVv+ERAvS5pdtewmmMv2cKDi99P5cwqAJIYtKae7V5Ly7y4Gr7fpUgqdMaCk/XY012U0Q4l9dqEOOERQ3nYZePt0Rirsx+eHvt+06JyqswMsHRrpxjsQY61/0BVLXUMVYg5VJ1u0/ZdE663fQkMBG9whaT6hMzQu5J7T4z2gylN5EHXvAZEbExn1EnGpXDuFLVNBlWZHOVidGeIpyVOJLiNl6y3MmLFj9WMZOZHnPrF6k6LDPt2BUlnqXo6XTJV2rW7ah9WBIP8cVoni5dOaSGha+YSLjCCMUU4LhL0iQpv+e1umYq1eSBb2xaIGlwxoYJe+J6tmmW+wdRMSk1h5+D+sC8UsJZBr37uhGH7CtLNAQB3BMR8Tv4UxBB3PwOwQNYUSGXhiOiG8cr0ahFopRgopWYkBJOY2cuIqDpAl1++RACnizwFQten6g==;dXstFe+83i/dEpCA8DSi4g=="

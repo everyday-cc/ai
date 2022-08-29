@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-29T19:12:00Z
 originalUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/08/29/clouderas-new-cdp-one-removing-obstacles-to-adopt-industrial-grade-analytics-and-ml/"
 webUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/08/29/clouderas-new-cdp-one-removing-obstacles-to-adopt-industrial-grade-analytics-and-ml/"
 type: article
+quality: 43
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -19,6 +22,63 @@ topics:
   - Microsoft AI
   - AI
   - Machine Learning
+
+related:
+  - title: "Analytics, AI and robotics help MLB teams get a step closer to a perfect pitching machine"
+    excerpt: "Advances in AI, stat tracking, advanced metrics and robotics could fit together nicely for a proper 21st-century twist on a pitching machine."
+    publishedDateTime: 2022-08-27T11:05:00Z
+    webUrl: "https://techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/"
+    ampWebUrl: "https://techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/amp/"
+    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/amp/"
+    type: article
+    provider:
+      name: TechCrunch
+      domain: techcrunch.com
+    quality: 110
+    images:
+      - url: "https://techcrunch.com/wp-content/uploads/2022/08/2527842396.2022-08-26-16_13_02.gif"
+        width: 800
+        height: 494
+        isCached: true
+  - title: "Conference on healthcare data analytics"
+    excerpt: "A two-day conference on healthcare data analytics was organised by The Sankara Nethralaya Academy in hybrid mode. The conference was inaugurated by Girish Shiva Rao, president of Medical Research Foundation,"
+    publishedDateTime: 2022-08-28T14:49:00Z
+    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/conference-on-healthcare-data-analytics/article65822543.ece"
+    ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/conference-on-healthcare-data-analytics/article65822543.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/conference-on-healthcare-data-analytics/article65822543.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 59
+    images:
+      - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
+        width: 1200
+        height: 1200
+        isCached: true
+  - title: "SAS Develops Analytics to Study the Factors that Influence Water Quality"
+    excerpt: "The University of Florida's Center for Coastal Solutions (CCS) is partnering with analytics company SAS to study the factors that influence water quality in Charlotte Harbor."
+    publishedDateTime: 2022-08-29T21:29:00Z
+    webUrl: "https://www.environmentalleader.com/2022/08/sas-develops-analytics-to-study-the-factors-that-influence-water-quality/"
+    type: article
+    provider:
+      name: Environmental Leader
+      domain: environmentalleader.com
+    quality: 23
+    images:
+      - url: "http://ads.environmentalleader.com/www/delivery/avw.php?zoneid=97&cb=&n=abab4b2c"
+        width: 300
+        height: 250
+        isCached: true
+  - title: "Teradata Announces ClearScape Analytics: The Most Powerful, Open, and Connected Cloud Analytics Available in the Industry"
+    excerpt: "ClearScape Analytics – which encompasses the same high-performing analytics that Teradata is known for but with 50+ new analytic functions – is available as part of Teradata VantageCloud and the new Teradata VantageCloud Lake,"
+    publishedDateTime: 2022-08-29T10:55:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry"
+    type: article
+    provider:
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "9S37OXiNNTXLXoLXAHSaBuZITUlllVhUK14U5oIq+6A2O7kKHUmZ9sUJ6+9VQQlYZx8jlQ1wYXfXD1a9Kij5+Q7BpEspzBjBaIaGkKu9H3EC2mncqVcz0Y1irnBrnfClCCJJkzApZC+qVAQQHUGzXYCBTYm3duBMi6HvhvvUkZOUO+K1nFoNK2/ohZ+iq19+pKSf5vcOjOXbceqKgclakR7rxIZsIbibJi7pfUuvM7G8k1rxL2esBXB9K0EFh9hfmQ0uD/V6zTUlwJk+MwCx6BNLFHSj+sBvv6h2KVMAioLP34qGpdpBgqJOeHKsvXUtwbmE/5dqjfdwY0TZ4XVMBhu62pZ4A27lsLinOLTgcFesYLl5V18xHKlvBzkN3Jezx/d8t0hE1fjouWJbU8IMLbTV8n/Ebqdog1+QLYMIR8dVqYaver4H2PAMm7LuY2Ds02wh7ucTYtDgT2pggn3hbYnJFEGwwpBj3e9/uJbFLTOXrpJ/oN8uFnugyiLCUz+H3dfDlzgLGF+9bkPzmcTnEQ==;RULKRLET2m0RLV5L57cVVA=="
 ---

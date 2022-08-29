@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-29T19:36:00Z
 originalUrl: "https://www.zdnet.com/education/computers-tech/oregon-school-district-adopting-aws-to-improve-student-outcomes/"
 webUrl: "https://www.zdnet.com/education/computers-tech/oregon-school-district-adopting-aws-to-improve-student-outcomes/"
 type: article
+quality: 41
+heat: 41
+published: false
 
 provider:
   name: ZDNet

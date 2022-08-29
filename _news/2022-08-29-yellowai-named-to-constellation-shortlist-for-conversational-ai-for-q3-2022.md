@@ -74,22 +74,6 @@ related:
         width: 350
         height: 470
         isCached: true
-  - title: "Building the customer, communication and commerce synergy with conversational AI"
-    excerpt: "Customer is the king and that continues to be the truth, more so in today’s digitally connected world. According to a report released by KPMG, improving customer experience (CX) is key to sustained value creation"
-    publishedDateTime: 2022-08-25T04:23:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/building-the-customer-communication-and-commerce-synergy-with-conversational-ai/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/building-the-customer-communication-and-commerce-synergy-with-conversational-ai/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/building-the-customer-communication-and-commerce-synergy-with-conversational-ai/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
-        isCached: true
 
 secured: "W62XtnjlQ98mJaiFasu4NWU9Xn8ZdZev0kOLGliNtCcOBO9xkX5QsTw9PDR6EEoXPNFK16othGUt+4CY7s5AVeRXvHaMQktTo3LrJMHIrBdFd8VxBSeNxf9/xPFY4x1PagOoyUwrcYEidMAA8J8WOF52q4nXSG1ozNZx0ButGaBMy2OB42LMthCYLe1faMOAngwKPAR/U+rfTY1KoNiVi2QyQn+4to0qOyxjG5/K3SnVvNzIyPtATUt8gCV32CdO40sy6PKeu/Rp22LCD/UvJJpJen+L7Rf2qAZRbvU4UtBFxThj0yC0orAtOhGVNVeDqBrn12FCcz3ArxxegeF+My+zB8OF1aln7681ydkWjXBrsUXCTVwypOfqGZSdsSLiztXf4ecyKK2zXkjGqH3J8lzefdb/pxN4eSd53zYj1CeAr9JQAreW3aGnMZSd33bYyc+b3qPLbA4md9BtMfaDd40jGUe7bQjBE7z1XsBBlHLpqVyn6Em9rV5WqAoM4v2DxXrA0dHYCw98ybaknkAOuQ==;49l8PfM8Q4yveR0jwxVUBA=="
 ---

@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-z
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/amp/"
 type: article
 quality: 91
-heat: 131
+heat: 121
 published: true
 
 provider:
@@ -63,22 +63,6 @@ related:
       - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Vishal-Soni-Co-Founder-Lightbulb.ai_.jpeg"
         width: 350
         height: 470
-        isCached: true
-  - title: "Building the customer, communication and commerce synergy with conversational AI"
-    excerpt: "Customer is the king and that continues to be the truth, more so in today’s digitally connected world. According to a report released by KPMG, improving customer experience (CX) is key to sustained value creation"
-    publishedDateTime: 2022-08-25T04:23:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/building-the-customer-communication-and-commerce-synergy-with-conversational-ai/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/building-the-customer-communication-and-commerce-synergy-with-conversational-ai/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/building-the-customer-communication-and-commerce-synergy-with-conversational-ai/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 54
-    images:
-      - url: "https://static.toiimg.com/photo/75433510.cms"
-        width: 330
-        height: 300
         isCached: true
   - title: "Yellow.ai named to Constellation ShortList for Conversational AI for Q3 2022"
     excerpt: "Powered by Dynamic AI agents, Yellow.ai enables businesses to offer enriching, delightful, and personalized interactions with their customers and employees across their preferred choice of channel, language,"

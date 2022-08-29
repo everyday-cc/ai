@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-29T19:48:00Z
 originalUrl: "https://techxplore.com/news/2022-08-robe-array-small-companies-access.html"
 webUrl: "https://techxplore.com/news/2022-08-robe-array-small-companies-access.html"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: techxplore

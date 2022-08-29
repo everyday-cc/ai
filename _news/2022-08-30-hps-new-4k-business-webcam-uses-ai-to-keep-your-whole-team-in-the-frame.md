@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-29T19:54:00Z
 originalUrl: "https://www.theverge.com/2022/8/29/23321571/hp-business-965-4k-webcam-ai-follow-sony-starvis"
 webUrl: "https://www.theverge.com/2022/8/29/23321571/hp-business-965-4k-webcam-ai-follow-sony-starvis"
 type: article
+quality: 46
+heat: 46
+published: false
 
 provider:
   name: The Verge

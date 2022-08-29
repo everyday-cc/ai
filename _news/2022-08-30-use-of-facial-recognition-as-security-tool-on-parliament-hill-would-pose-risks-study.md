@@ -1,20 +1,20 @@
 ---
 category: news
 title: "Use of facial recognition as security tool on Parliament Hill would pose risks: study"
-excerpt: "A study prepared for the parliamentary protective unit says the use of facial recognition technology as a security tool on Parliament Hill would pose substantial legal, privacy and human rights risks -- and might even be unlawful."
-publishedDateTime: 2022-08-29T17:39:00Z
-originalUrl: "https://www.ctvnews.ca/politics/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study-1.6047069"
-webUrl: "https://www.ctvnews.ca/politics/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study-1.6047069"
-ampWebUrl: "https://beta.ctvnews.ca/national/politics/2022/8/29/1_6047069.amp.html"
-cdnAmpWebUrl: "https://beta-ctvnews-ca.cdn.ampproject.org/c/s/beta.ctvnews.ca/national/politics/2022/8/29/1_6047069.amp.html"
+excerpt: "The use of facial recognition technology as a security tool on Parliament Hill would pose substantial legal, privacy and human rights risks — and might even be unlawful, says a study prepared for the parliamentary security unit."
+publishedDateTime: 2022-08-29T19:51:00Z
+originalUrl: "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study"
+webUrl: "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study"
+ampWebUrl: "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study/wcm/76d2c4ba-41f1-4a11-81de-4fad006e2269/amp/"
+cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/canada-news-pmn/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study/wcm/76d2c4ba-41f1-4a11-81de-4fad006e2269/amp/"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
-  name: CTV News
-  domain: ctvnews.ca
+  name: National Post
+  domain: nationalpost.com
 
 topics:
   - Computer Vision
@@ -22,9 +22,9 @@ topics:
   - AI in Security
 
 images:
-  - url: "https://beta.ctvnews.ca/national/politics/2022/8/29/1_6047069/_jcr_content/root/responsivegrid/image.coreimg.jpg"
-    width: 1020
-    height: 574
+  - url: "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2022/08/rjb103-the-canadian-press-5.jpg"
+    width: 1000
+    height: 750
     isCached: true
 
 related:
@@ -39,7 +39,21 @@ related:
       name: Global News
       domain: globalnews.ca
     quality: 46
+  - title: "Facial recognition technology on Parliament Hill would pose privacy risks, study warns"
+    excerpt: "Amid concern over safety of politicians, study warns use of facial recognition technology on Parliament Hill would pose risks"
+    publishedDateTime: 2022-08-29T16:59:00Z
+    webUrl: "https://www.theglobeandmail.com/canada/article-study-warns-use-of-facial-recognition-technology-on-parliament-hill/"
+    type: article
+    provider:
+      name: The Globe and Mail
+      domain: theglobeandmail.com
+    quality: 31
+    images:
+      - url: "https://www.theglobeandmail.com/resizer/VF-bVRZC_AobClnx6-0KWjaOPb0=/1200x680/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/HDQY5KND2ZNU7HPZ5FFKKWA7X4.jpg"
+        width: 1200
+        height: 680
+        isCached: true
 
-secured: "M0GmS1GHzkAH0hc3SfJoUvRQ6KYSNMXMPgqYQ+PEqC/8Sjf+TYN2OXsAOuLrnyriW3lxUQRlCLgKo6gTj/lVoUc9qNA1LSwhYgWHOzZmYHjJsZsOfNr9eJLI7gpvoGzc8jr6D3qPWRImvgYvO5FWiJOPKzy3VMYAnDy1gZEO66hO9lowH3QvJRMUU8PG7n0OpDF6nqVlzlaC9aS5bRamH/pjeTvM9ToaIFP87uIrBl3xky+k5SdWopT+Yo4ckEldf204fIQ26iYe6lappwXy4cChvLOx6MbE58Mfe7O4/I/WlBpwqgHUjbxFMB4P7/hwx/C9n9k08YDONB+Cenjd0G4WPIDrxqK0dI9QOsxCP40=;Nhc/HUIBA6Jew7dZPmATIg=="
+secured: "xxcVtmcvvWBw8eVSzwISCP5V8Lats6hw5B0nTXyou44g9n4iSDMnqHAviawLq2K3mqUPBtRj+D5XaIFvGHJPIep3cc900mWvn+pnyXrcaQDX1CNnnk9ULG4fgbFw6NkuFjUi55PyrzSj2Gv0EOiXCzJkIPMwpipIBoMOIIXH4Veyx3c5xUyu+Vwde/EmZBZSKEKgYTPykyXB0ohWSdhqREFqg25x+XMEVdTPV1i04ArvDq8aEUL9DBqZhpEoJzwxjlEYwef5FQE1hXqoVhxEVN/mSVX1EFWw3fvIuxjXkzohFEeK5i+8ur5fqgEcGXb1tNIZLtfNLiaxlbO6NPjwsKz/gFW4GPt4hiQhf6I6Jxg=;3rv74IqH3H0lIvZQ/AaTpA=="
 ---
 

@@ -1,26 +1,20 @@
 ---
 category: news
 title: "Community Financial Institutions Gain Access to AI-Powered Personalization Through Combined DeepTarget & CognitiveScale Technologies"
-excerpt: "Financial Education Technology Company Elevates Its Digital Experience Platform™ (DXP) & 3D Story™ to a New Level of Personalization powered by Machine Learning from AI Technology Leader AUSTIN, TX / ACCESSWIRE / August 16,"
-publishedDateTime: 2022-08-16T12:06:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/technology-austin-patents-a1fa1a2e2808b1fb6433de96a1922d8e"
-webUrl: "https://apnews.com/press-release/accesswire/technology-austin-patents-a1fa1a2e2808b1fb6433de96a1922d8e"
+excerpt: "For the first time, CFIs will be able to identify predictable revenue opportunities across all 15+ lending and fee based products and services ... M12 (Microsoft Ventures), Anthem and USAA."
+publishedDateTime: 2022-08-16T14:08:00Z
+originalUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56821950-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies-200.htm"
+webUrl: "https://www.finanznachrichten.de/nachrichten-2022-08/56821950-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies-200.htm"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Finanznachrichten
+  domain: finanznachrichten.de
 
 topics:
-  - AI in Finance
+  - Microsoft AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "Yic1Yc6CU3sHsP47HQMS/iL+NwklYl2gnFw7dKoIlfFcmbl1MhfryzUr1Fu1IqmArEnOUBTOXHbfU5qZt/U6Uj2Gpaq0S53zudCucHuX9U0xRRrGsuxp1mFb1yqUwtWRBD9RaM4B6HfGNyqNMP051VrDFkUln5oOdHmZ49WrNkCFEUx8qxDLTyaBpcTxAc/qHBytSZacIkRtzUVqUqtFwEr6BomYF5Iz9cE6FKxt55cU0lW6MFbGF8rrwaMJ9rJuev17hPt7b2h59TEySqcDIG+3N6R9wFw0RQCGcWstqphYnw4KexQyMWkBQSc5NrQ/SiTMCnDj44EaB8eJcqLrvrEu7HlEQdYy3NWHo/wZqsk=;xepHwDMZNK/2Ncisdas9XQ=="
+secured: "lq0wz/peFq+zAtJdDDpyvXJD/ce2veS5LWih4Yv4eNmSfrEuTB1WDwvnZRWAPKZeawAxZ9mMiQ3BMPUI9ivV4kl7GtBRpbSwMgmRBBfvf9aBzLLplgWHKC5Yq6enXP2c1zoqyNnCdPfWu8kYhtsNT8ea+DxXKFtP0O3/x+TT8ytFoIXa+a/f9l6r1umqWk+eA2S6Yz3nBBouR0HdMvWT7guKQPBcC/7D9ttdPD6q37Ei1p5nXuk4/qc2EvopTwZWX/U9Q0apE4H3LM3VDwO8sKGPOsNyHStnm1Dvln2WIGYXO+HRdSPYevV2NnD9ed6FMVVtKEmbuhqSN8LSHwnCsC5egw7Nt3JulO9RitJw0k8=;Ae2bPlM8xxqpVEoqdppwLg=="
 ---
 

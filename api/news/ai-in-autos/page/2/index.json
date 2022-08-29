@@ -761,6 +761,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-16-the-costs-of-sydneys-driverless-train-conversion-outweigh-the-benefits.md",
+      "title": "The Costs of Sydney’s Driverless Train Conversion Outweigh the Benefits",
+      "excerpt": "But even without overruns pushing the cost of the driverless-train project to more than $55 billion, the economics of the “Sydney Metro” project are questionable – in particular the decision ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2022/08/driverless-trains-sydney/",
+      "originalUrl": "https://www.gizmodo.com.au/2022/08/driverless-trains-sydney/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/08/16/gizmodo.png?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2022/08/driverless-trains-sydney/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/08/driverless-trains-sydney/amp/",
+      "publishedDateTime": "2022-08-16T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "gizmodo",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-motional-lyft-take-next-step-toward-fully-driverless-robotaxi-service.md",
       "title": "Motional, Lyft take next step toward fully driverless robotaxi service",
       "excerpt": "Motional and Lyft are moving closer to launching their driverless robotaxi service in Las Vegas. Motional’s new all-electric Hyundai IONIQ 5 autonomous vehicle launched in Las Vegas on Tuesday ...",
@@ -1313,49 +1356,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-14-chinese-start-up-boldly-claims-its-autonomous-car-tech-will-overtake-tesla.md",
-      "title": "Chinese start-up boldly claims its autonomous car tech will overtake Tesla",
-      "excerpt": "Backed by China's Google rival Baidu and car maker Geely, Jidu Auto believes the autonomous technology in its vehicles will be better than the systems developed by Tesla.",
-      "sourceUrl": null,
-      "webUrl": "https://www.drive.com.au/news/jidu-auto-autonomous-car-better-than-tesla/",
-      "originalUrl": "https://www.drive.com.au/news/jidu-auto-autonomous-car-better-than-tesla/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.drive.com.au/driveau/image/upload/c_fill,h_720,w_1280/q_auto:eco/f_auto/v1/cms/uploads/xxzhadsur1fjfmyeymgb",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-13T12:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Drive.com.au",
-        "domain": "drive.com.au",
-        "images": null,
         "publishers": null,
         "authors": null
       },

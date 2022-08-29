@@ -44,6 +44,22 @@ related:
         width: 1300
         height: 731
         isCached: true
+  - title: "Panera Bread Tests Artificial Intelligence Technology in Drive-Thru Lanes"
+    excerpt: "Two Panera Bread locations in upstate New York are testing artificial intelligence technology that takes drive-thru orders. Restaurants have been investing in improving the drive-thru experience for customers, adding more lanes and testing tech that would ..."
+    publishedDateTime: 2022-08-29T13:33:00Z
+    webUrl: "https://www.nbcphiladelphia.com/news/business/money-report/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes/3347674/"
+    ampWebUrl: "https://www.nbcphiladelphia.com/news/business/money-report/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes/3347674/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/business/money-report/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes/3347674/?amp=1"
+    type: article
+    provider:
+      name: NBC 10 Philadelphia
+      domain: nbcphiladelphia.com
+    quality: 56
+    images:
+      - url: "https://media.nbcphiladelphia.com/2022/08/106972691-1636466150088-gettyimages-1280324270-1006_32_fl200924107.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
 
 secured: "BSWwaf7p3i5K2XqWoxicnm8+4No3D0gOYcgX1NUhGzuYIrzMXvTXigXe9CVBQgQ/e+pj1j6sBkTJe3eEoPgIHIO0rjc3DIWFGxlOTuz/vvvMDWdq8XJAiBTQPceOGfI0k8m76eLl/e2GLbSYuYgTEwdOF01HdFgPlTVjWm69gbdeMMlfIYRziCFUJBUZjeVvCo1jjOE8NTR/ME0JRuie9cfxpSTeQkQzLc+VSMxL73rHIj5TYhasWC3/tfOqNLuvvWA2F1x7EFQN6FVwKXBAJKKifV9Ur7UNbKdS/dFXAAl9PQXyVKWGxDPEjwTv3KTftQ6v/bl9ewHFcd40W2NRA+AitjlfRd7MyQuEQXzUcFjMzH+jlEzup/oB0+ZLWzGgMGPS7XQmdIuKT6PqYQzqOUCR+8unK14RNt6iR25eV6/DtpJYK7/Tr2ooG4ZDenNrDk5DS0Jo2hNrP5ezSB5lip+CAakoWMsU75k4IMseKGuXFD+RbI5WQT7lSmCaa2t0yAXfGmHF0uIir6mkdMLu4g==;cJKBPMP+tFXUK1i2Ifog9Q=="
 ---

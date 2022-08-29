@@ -9,8 +9,8 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/with-absent-laws-face-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/with-absent-laws-face-tracking-proliferates/amp-11661453943678.html"
 type: article
 quality: 59
-heat: -1
-published: false
+heat: 89
+published: true
 
 provider:
   name: Mint
@@ -27,15 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Humans Have a Natural Defense Against Facial Recognition: Aging"
-    excerpt: "Facial recognition systems have become very adept at identifying people in a crowd, but it turns out they don't cope very well with us getting older. As New Scientist reports, the algorithms used ..."
-    publishedDateTime: 2022-08-25T02:26:00Z
-    webUrl: "https://uk.pcmag.com/security/142247/humans-have-a-natural-defense-against-facial-recognition-aging"
-    type: article
-    provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 64
   - title: "Facial recognition is the best tool to tackle the increase in financial fraud"
     excerpt: "By Anton Nazarkin, Global Development Director at VisionLabs Financial fraud is on the rise and costs banks billions of dollars a year. Between 2016 to 2020, synthetic fraud[1] losses grew from $6 billion to $20 billion[2]."
     publishedDateTime: 2022-08-29T14:57:00Z

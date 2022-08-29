@@ -2,6 +2,204 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-08-23-ai-startup-anyscale-adds-99-million-to-andreessen-horowitz-led-funding-round.md",
+      "title": "AI Startup Anyscale Adds $99 Million to Andreessen Horowitz-Led Funding Round",
+      "excerpt": "The company initially announced a $100 million Series C venture investment round led by Andreessen Horowitz in December.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?tpl=vc",
+      "originalUrl": "https://www.wsj.com/articles/ai-startup-anyscale-adds-99-million-to-andressen-horowitz-led-funding-round-11661254200?tpl=vc",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-608499/social",
+          "width": 1279,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T05:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-packaging-corporation-of-america-selects-orion-to-provide-real-time-language-translation-for-logistics-operations.md",
+      "title": "Packaging Corporation of America Selects Orion to Provide Real-Time Language Translation for Logistics Operations",
+      "excerpt": "Packaging Corporation of America Selects Orion to Provide Real-Time Language Translation for Logistics Operations Aug 23, 2022 (PRNewswire via COMTEX) --",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/packaging-corporation-of-america-selects-orion-to-provide-real-time-language-translation-for-logistics-operations-2022-08-23",
+      "originalUrl": "https://www.marketwatch.com/press-release/packaging-corporation-of-america-selects-orion-to-provide-real-time-language-translation-for-logistics-operations-2022-08-23",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T05:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-first-fda-cleared-autonomous-ai-makes-new-moves-in-healthcare-diagnostics.md",
+      "title": "First FDA-cleared autonomous AI makes new moves in healthcare diagnostics",
+      "excerpt": "The first autonomous AI system authorized by the FDA, for diagnosing diabetic retinopathy, has raised $75M in a series B funding round.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/first-fda-cleared-autonomous-ai-makes-new-moves-in-healthcare-diagnostics/",
+      "originalUrl": "https://venturebeat.com/ai/first-fda-cleared-autonomous-ai-makes-new-moves-in-healthcare-diagnostics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1199527162.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/first-fda-cleared-autonomous-ai-makes-new-moves-in-healthcare-diagnostics/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/first-fda-cleared-autonomous-ai-makes-new-moves-in-healthcare-diagnostics/amp/",
+      "publishedDateTime": "2022-08-23T04:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-robotics-artificial-intelligence-competition-to-spur-production-underway.md",
+      "title": "Robotics, Artificial Intelligence : Competition to Spur Production Underway",
+      "excerpt": "Some 60 students, start-upers, researchers from across the country that were preselected have begun competing for prizes.",
+      "sourceUrl": null,
+      "webUrl": "https://cameroon-tribune.cm/article.html/50569/en.html/robotics-artificial-intelligence-competition-spur-production",
+      "originalUrl": "https://cameroon-tribune.cm/article.html/50569/en.html/robotics-artificial-intelligence-competition-spur-production",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cameroon-tribune.cm//administrateur/photo/normal_7b6e847.jpg",
+          "width": 960,
+          "height": 460,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T04:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Cameroon",
+        "domain": "cameroon-tribune.cm",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-raising-startup-funding-used-to-be-easynot-anymore.md",
       "title": "Raising Startup Funding Used to Be Easy—Not Anymore",
       "excerpt": "In recent years investors greeted founders with generous checks and warm smiles, but now CEOs seeking cash encounter cold shoulders.",
@@ -992,188 +1190,6 @@
         "AI in Autos",
         "AI",
         "AI in Education"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-ai-in-medical-imaging-diagnosis-market-future-trends-outlook-2022-and-forecast-to-2030-by-ge-healthcare-ibm-watson-health-philips-healthcare.md",
-      "title": "AI in Medical Imaging Diagnosis Market Future Trends Outlook 2022, and Forecast to 2030 | By -GE Healthcare, IBM Watson Health, Philips Healthcare",
-      "excerpt": "Aug 22, 2022 (Market Insight Reports) -- New Jersey, United States- The strong development of the AI in Medical Imaging Diagnosis market can be ascribed to the elements related which incorporate market drivers, limitations and amazing open doors ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-medical-imaging-diagnosis-market-future-trends-outlook-2022-and-forecast-to-2030-by--ge-healthcare-ibm-watson-health-philips-healthcare-2022-08-22",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-medical-imaging-diagnosis-market-future-trends-outlook-2022-and-forecast-to-2030-by--ge-healthcare-ibm-watson-health-philips-healthcare-2022-08-22",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-21T22:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment.md",
-      "title": "Israeli Fintech Vyzer Selects Salt Edge to Provide Open Banking Boost to Investment",
-      "excerpt": "Vyzer, an Israeli-based fintech consumer focused startup, joined forces with Salt Edge, a key player in offering open banking solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/",
-      "originalUrl": "https://www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.crowdfundinsider.com/wp-content/uploads/2019/03/Israel-Tel-Aviv-2019.jpg",
-          "width": 1280,
-          "height": 960,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/amp/",
-      "cdnAmpWebUrl": "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/08/195011-israeli-fintech-vyzer-selects-salt-edge-to-provide-open-banking-boost-to-investment/amp/",
-      "publishedDateTime": "2022-08-21T22:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Crowdfund Insider",
-        "domain": "crowdfundinsider.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-driverless-trucks-can-be-safe-and-efficient-by-thomas-black.md",
-      "title": "Driverless trucks can be safe and efficient, by Thomas Black",
-      "excerpt": "Higher pay has also put upward pressure on rates. There is an obvious long-term solution to both these problems: driverless trucks. But only if the industry gets off on the right foot with maximum ...",
-      "sourceUrl": null,
-      "webUrl": "https://pressofatlanticcity.com/opinion/columnists/driverless-trucks-can-be-safe-and-efficient-by-thomas-black/article_207c39b7-28ac-56e3-bde8-395eccaa10ac.html",
-      "originalUrl": "https://pressofatlanticcity.com/opinion/columnists/driverless-trucks-can-be-safe-and-efficient-by-thomas-black/article_207c39b7-28ac-56e3-bde8-395eccaa10ac.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-21T21:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Press of Atlantic City",
-        "domain": "pressofatlanticcity.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving.md",
-      "title": "Human drivers in UK won’t be liable for accidents when vehicle is self-driving",
-      "excerpt": "Manufacturers operating self-driving vehicles in the UK will be liable for a vehicle’s actions when in autonomous mode, according to the country’s new roadmap to achieve a widespread rollout of self-driving vehicles by 2025. The British government ...",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/",
-      "originalUrl": "https://techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 120,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1185460611.jpg?w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/21/human-drivers-in-uk-wont-be-liable-for-accidents-when-vehicle-is-self-driving/amp/",
-      "publishedDateTime": "2022-08-21T20:51:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
       ]
     }
   ],

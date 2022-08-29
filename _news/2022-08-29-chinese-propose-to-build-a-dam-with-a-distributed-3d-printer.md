@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-29T16:38:00Z
 originalUrl: "https://arstechnica.com/science/2022/08/chinese-propose-to-build-a-dam-with-a-distributed-3d-printer/"
 webUrl: "https://arstechnica.com/science/2022/08/chinese-propose-to-build-a-dam-with-a-distributed-3d-printer/"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Ars Technica

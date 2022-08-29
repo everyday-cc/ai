@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-29T19:56:00Z
 originalUrl: "https://menafn.com/1104777451/Cathy-Ross-Speaks-At-Amazon-Web-Services-Startup-Cxo-Roundtable"
 webUrl: "https://menafn.com/1104777451/Cathy-Ross-Speaks-At-Amazon-Web-Services-Startup-Cxo-Roundtable"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Middle East North Africa Financial Network

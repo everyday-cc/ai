@@ -33,6 +33,15 @@ related:
       name: AWS
       domain: aws.amazon.com
     quality: 69
+  - title: "Explore Amazon SageMaker Data Wrangler capabilities with sample datasets"
+    excerpt: "Data preparation is the process of collecting, cleaning, and transforming raw data to make it suitable for insight extraction through machine learning (ML) and analytics. Data preparation is crucial for ML and analytics pipelines. Your model and insights will only be as reliable as the data you use for"
+    publishedDateTime: 2022-08-29T18:30:04Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/explore-amazon-sagemaker-data-wrangler-capabilities-with-sample-datasets/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 68
 
 secured: "vvWQkvFsU+GmBYglM7HW05m3eB/BYesaGnhvVZ7iy6qPd3niSJNZ14Q7A6z9km72D2YLDQhSx40vFSwyGVvsI/n5c77kZf1isxr5zcSeeg/bx8HZiVyTzglHBtNzsrktadqYzSb+Yb7aQB4M5hpvhGn1DouBKTY7uredW+gKTUbUISx6nWwv/4ZVGOghnR/CaExdQNF7f25W6lQx5FyCSljvJOHPlSGAlhispPoziHZpL3WY8inc+jvWubAQoByILmA4zQmxo+iiZ0OuCy6CRuhX8AkkIDpMZlV2fWvLtfwUw9wnufclHoOemSR6qDnVNUchYwJxPhSnMakSnA5gnZnCpW4FDExFqovSwYFtc5o=;Zbs1Fa1YxTZw7fOSjateBw=="
 ---

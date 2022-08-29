@@ -1,26 +1,26 @@
 ---
 category: news
 title: "Auditoria.Al Tops the Constellation ShortList of AI-Driven Cognitive Applications for the Third Year in a Row"
-excerpt: "As an AI-driven Cognitive ... such as Microsoft 365 and Google Workspace. Constellation Research advises leaders on leveraging disruptive technologies to achieve business model transformation and streamline business processes. Products and services named ..."
-publishedDateTime: 2022-08-17T15:06:00Z
-originalUrl: "https://apnews.com/press-release/accesswire/technology-35e1a35b4d51cf0c419354ba1a459f27"
-webUrl: "https://apnews.com/press-release/accesswire/technology-35e1a35b4d51cf0c419354ba1a459f27"
+excerpt: "Constellation predicts that the total market for this autonomous enterprise market, including cognitive applications ... and collaboration tools such as Microsoft 365 and Google Workspace."
+publishedDateTime: 2022-08-17T15:07:00Z
+originalUrl: "https://www.digitaljournal.com/pr/auditoria-al-tops-the-constellation-shortlist-of-ai-driven-cognitive-applications-for-the-third-year-in-a-row"
+webUrl: "https://www.digitaljournal.com/pr/auditoria-al-tops-the-constellation-shortlist-of-ai-driven-cognitive-applications-for-the-third-year-in-a-row"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Digital Journal
+  domain: digitaljournal.com
 
 topics:
   - Microsoft AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://www.digitaljournal.com/wp-content/uploads/2022/08/DDD-8-600x337.png"
+    width: 600
+    height: 337
     isCached: true
 
-secured: "8D/TKz15XAimHNX4YaiMHntfmnSu03SZw4zDKqVEtG6TY2imGDDFugW/GyKnev5cu7GynjA9LSnsVhno6IWxBg9OmImelDy1sQP9GkcLiDb92dvt4UN1U+JOmnyBwPPKa8M1iCk785zLJzWksKmUGR5PpaJcXzfX/PoQh/3hiPTg7ceLO7iT132/2GBGnw2I9eLSwa/0GeYc1nadU/4wqR8HjHS25WBrZhvTLV2gWzoOPmVfoafMdwsu66mzLlQLa3AT6ZbBb+xMFz5Rfszf4uiNA9tyfAGzG6VsFgN/n203pTdQ8j9mpz2JkeYydWty01zD0SocS/lm6+IBHRhnn5tO3Sn4RHzyMskkMg3IeVk=;DCmREWY2pNzTganCvxpiBw=="
+secured: "xGI4BD3/C96T5NVCZ2ZjBs9mD0Be+/POQZ9HAML7V0w9ln3egidpXsg+VJkh3ID7UAWvrHwIYImlePwYZ3PDnIxYz6RwblUh7byNvXpT7l+nqIMzxH75NL0wPT2kSt13t5QwLN3kR6n+R4iEjQjIaHy4FWbATVZs5A3W13b6zCxVMI4u9TgsrKKJl7ibtqmNzlnSmvB2Z3Jw5HjiESr0bNRaRc/m0r1f/11WHQgIHpTsueS/BLdMembrvYpEe2m2/ce71+gX9hKhH5aV8ZGbTmgGIFaReGVDjopX7KLCx3QsZzTIuXZh8wcM4tQuJBg7mc9K8sxwGIK66FMjTVoV73JMopHlPhubQTFLf4KidYo=;x+ym5/QItHGQzyVS/2OqGw=="
 ---
 

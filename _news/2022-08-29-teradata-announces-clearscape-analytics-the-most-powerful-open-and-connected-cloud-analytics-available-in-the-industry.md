@@ -51,6 +51,29 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Cloudera’s New ‘CDP One’ Removing Obstacles To Adopt Industrial-Grade Analytics And ML"
+    excerpt: "Ranked Industry Analyst Patrick Moorhead dives in as Cloudera is a company that hopes to remove challenges and obstacles to AI deployment by recently launching a new software-as-a-service-based (SaaS)"
+    publishedDateTime: 2022-08-29T19:12:00Z
+    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/08/29/clouderas-new-cdp-one-removing-obstacles-to-adopt-industrial-grade-analytics-and-ml/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 43
+  - title: "SAS Develops Analytics to Study the Factors that Influence Water Quality"
+    excerpt: "The University of Florida's Center for Coastal Solutions (CCS) is partnering with analytics company SAS to study the factors that influence water quality in Charlotte Harbor."
+    publishedDateTime: 2022-08-29T21:29:00Z
+    webUrl: "https://www.environmentalleader.com/2022/08/sas-develops-analytics-to-study-the-factors-that-influence-water-quality/"
+    type: article
+    provider:
+      name: Environmental Leader
+      domain: environmentalleader.com
+    quality: 23
+    images:
+      - url: "http://ads.environmentalleader.com/www/delivery/avw.php?zoneid=97&cb=&n=abab4b2c"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "VS0FkwMiY06AMxmNWn5QTSX8jwvO8BUfDVFO9H+WNOCtsP5CcY5FHhw2yZ6cX3n28HSr56Deq24iCThko2V7EcxoEm+Lt/FmnkQ8cahbX852E5w4/BmBh+BS3UBBRoYzbRKmlj61GSXWYRBCtbzgWUD3qU446LRWnOw3AyJImBKYgF5HK0n6EN5YYt9MOHFms7lZjTUbt937BWcYO2rOVk4nmpDSzlXqIDguSJOVR+3CcE+tTjiIEnTpHLZzH8GyPQWORZ+bLdTSu5l45aARZsZ7W0utM4001lg605EIXoYE/gUrV1tqzjirxS7AYLN8F+3Jvp9gZMFIoZXxCBm/esI1vU2XD0k8ZXX74RIaTFY=;1x7Wjsrjow23taux2/wLJA=="
 ---

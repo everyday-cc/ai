@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnet.com/google-amp/news/this-is-why-tesla-thinks-itll-b
 cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/this-is-why-tesla-thinks-itll-build-self-driving-cars-before-everyone-else/"
 type: article
 quality: 91
-heat: 191
+heat: 221
 published: true
 
 provider:
@@ -76,6 +76,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Elon Musk says that the self-driving Tesla could be ready by the end of the year"
+    excerpt: "After a six-year wait, Musk says he's aiming for the self-driving technology to be released by the end of this year. However, precedent points to this being unlikely."
+    publishedDateTime: 2022-08-29T19:07:00Z
+    webUrl: "https://www.zdnet.com/article/elon-musk-says-that-the-self-driving-tesla-could-be-ready-by-the-end-of-the-year/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 44
   - title: "Tesla defends self-driving software"
     excerpt: "Tesla has defended its self-driving software after videos of cars running over child-size mannequins hit the internet. Added14 minutes ago A Los Angeles police officer has saved a baby's life using CPR,"
     publishedDateTime: 2022-08-26T08:53:00Z
@@ -118,6 +127,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Elon Musk says Tesla aims to roll out self-driving cars by year end"
+    excerpt: "Tesla is aiming to have its self-driving technology ready and widely available by the end of 2022, CEO Elon Musk announced Monday. Musk made the comments during an energy conference in Norway, saying the vehicles will not need human drivers."
+    publishedDateTime: 2022-08-29T19:13:00Z
+    webUrl: "https://nypost.com/2022/08/29/elon-musk-says-tesla-aims-to-roll-out-self-driving-cars-by-year-end/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 34
   - title: "Elon Musk Says Full Self-Driving Will Be ‘Self-Driving’ This Year, Maybe"
     excerpt: "Elon Musk is sure that this is the year Tesla’s Full Self-Driving system finally learns to self-drive, Honda is investing $4.5 billion in a U.S. battery plant, and France will offer EV leasing for as little as $100 a month."
     publishedDateTime: 2022-08-29T14:30:00Z
@@ -137,6 +155,15 @@ related:
     provider:
       name: Washington Times
       domain: washingtontimes.com
+    quality: 19
+  - title: "Musk Focused On Getting Self-Driving Teslas In Wide Release By Year-End"
+    excerpt: "Tesla chief Elon Musk said on Monday he aimed to get the electric auto maker's self-driving technology ready by year-end and hopes it could be in"
+    publishedDateTime: 2022-08-29T19:52:00Z
+    webUrl: "https://menafn.com/1104776987/Musk-Focused-On-Getting-Self-Driving-Teslas-In-Wide-Release-By-Year-End"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
     quality: 19
   - title: "Musk focuses on getting Tesla's self-driving tech in wide release by year-end"
     excerpt: "Elon Musk hopes Tesla’s self-driving technology could be in wide release in the U.S. by the end of the year, and possibly also in Europe, depending on regulatory approval."
