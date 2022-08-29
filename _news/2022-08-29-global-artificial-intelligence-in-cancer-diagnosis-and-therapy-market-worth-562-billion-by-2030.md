@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - IBM AI
 
 images:
   - url: "https://menafn.com/updates/pr/2022-08/29/EP_6cb89image_story.jpeg"

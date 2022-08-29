@@ -18,6 +18,7 @@ topics:
   - Microsoft AI
   - AI
   - AWS AI
+  - Machine Learning
 
 images:
   - url: "https://res.infoq.com/articles/auto-ml-promise-reality/en/headerimage/header-1661333792384.jpg"
