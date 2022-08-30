@@ -71,15 +71,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence in Healthcare Market Size In 2022 Profiling Key Players with Top Countries Data Share Who Are the Top Key Player Till 2030"
-    excerpt: "Aug 25, 2022 (Alliance News via COMTEX) -- The report covers the analysis and forecast of the global artificial intelligence in healthcare market as well as regional level. The study provides historic data of 2016 along with the forecast for the period ..."
-    publishedDateTime: 2022-08-25T09:30:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-market-size-in-2022-profiling-key-players-with-top-countries-data-share-who-are-the-top-key-player-till-2030-2022-08-25"
+  - title: "Natural Language Processing For Healthcare And Life Sciences Market 2022 Disclosing Latest Trends and Advancement Outlook 2028 by Key Players"
+    excerpt: "The “Global Natural Language Processing For Healthcare And Life Sciences Market Research Report 2022 to 2027”,"
+    publishedDateTime: 2022-08-27T21:25:00Z
+    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-by-key-players-2022-08-27"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 46
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
@@ -108,20 +108,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Machine Learning Market Size with CAGR Status, Competitive Landscape, Industry Share, Future Trends, Growth Opportunities and Forecast to 2022-2031"
-    excerpt: "Kenneth Research, in its repository of market research reports, have recently added a report on Machine Learning"
-    publishedDateTime: 2022-08-25T09:52:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-size-with-cagr-status-competitive-landscape-industry-share-future-trends-growth-opportunities-and-forecast-to-2022-2031-2022-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

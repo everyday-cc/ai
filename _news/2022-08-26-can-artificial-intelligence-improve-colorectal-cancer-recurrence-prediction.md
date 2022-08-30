@@ -8,8 +8,8 @@ webUrl: "https://www.medindia.net/news/can-artificial-intelligence-improve-color
 ampWebUrl: "https://www.medindia.net/amp/news/can-artificial-intelligence-improve-colorectal-cancer-recurrence-prediction-208408-1.htm"
 cdnAmpWebUrl: "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/can-artificial-intelligence-improve-colorectal-cancer-recurrence-prediction-208408-1.htm"
 type: article
-quality: 57
-heat: 67
+quality: 59
+heat: 69
 published: false
 
 provider:
@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - AI in Healthcare
+  - AI in Autos
 
 images:
   - url: "https://images.medindia.net/amp-images/health-images/colon-cancer.jpg"

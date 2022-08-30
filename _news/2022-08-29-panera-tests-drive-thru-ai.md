@@ -7,7 +7,7 @@ originalUrl: "https://www.restaurantdive.com/news/panera-tests-drive-thru-ai-tec
 webUrl: "https://www.restaurantdive.com/news/panera-tests-drive-thru-ai-technology/630678/"
 type: article
 quality: 37
-heat: 37
+heat: -1
 published: false
 
 provider:
@@ -22,6 +22,24 @@ images:
     width: 770
     height: 364
     isCached: true
+
+related:
+  - title: "Panera Bread Tests Artificial Intelligence Drive-Thru Ordering"
+    excerpt: "Panera Bread announced on Monday that it will be testing out artificial intelligence ordering technology at select locations with drive-thru services to analyze if the system can work more efficiently than currently."
+    publishedDateTime: 2022-08-29T23:31:00Z
+    webUrl: "https://www.ibtimes.com/panera-bread-tests-artificial-intelligence-drive-thru-ordering-3606957"
+    ampWebUrl: "https://www.ibtimes.com/panera-bread-tests-artificial-intelligence-drive-thru-ordering-3606957?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/panera-bread-tests-artificial-intelligence-drive-thru-ordering-3606957?amp=1"
+    type: article
+    provider:
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 57
+    images:
+      - url: "https://d.ibtimes.com/en/full/3395558/panera-bread-baguette-diamand-rings.jpg"
+        width: 1200
+        height: 800
+        isCached: true
 
 secured: "eq0GMUFYMIxlkHgRre02pGBI6LxeQyYdlny3Zb5s3KEaDGMt7vfWNtFeBQHbId8ndBHdnRw2IeqrXxkeLYxaCTrGPJAPatKm6cNzZu9F2p7SL/bko6qK4NEDMX9seMrmG693nzMncgPON8FOSNxYxet+FfGCWJz5AfayPB7+1P5w5LOjdGeLSXP9JG5D4QT8YNQlq4FPLeG6EIrPcMgjFl/pJxnAKj2QsjG3Nfgyb5dp4qFdJYB9NQ1dsOhLf6uQ2uem0OU0C031cISCTx29/ZR6j3WZYfbLyMUxb37KhZDeEvhulWR59Q5RCpqD9TTYj4iovMHadWqshhWwwz3CRUpw6Yjqy2vdYeedfXzOc7U=;hE//LVlKl0TvTan+FLuc+A=="
 ---

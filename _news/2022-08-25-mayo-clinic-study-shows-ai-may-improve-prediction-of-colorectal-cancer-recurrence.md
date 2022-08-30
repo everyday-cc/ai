@@ -29,7 +29,7 @@ related:
     provider:
       name: Medindia
       domain: medindia.net
-    quality: 57
+    quality: 59
     images:
       - url: "https://images.medindia.net/amp-images/health-images/colon-cancer.jpg"
         width: 1200
