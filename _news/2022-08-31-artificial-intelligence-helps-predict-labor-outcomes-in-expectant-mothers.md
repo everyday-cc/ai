@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-30T18:17:00Z
 originalUrl: "https://www.medindia.net/news/artificial-intelligence-helps-predict-labor-outcomes-in-expectant-mothers-208456-1.htm"
 webUrl: "https://www.medindia.net/news/artificial-intelligence-helps-predict-labor-outcomes-in-expectant-mothers-208456-1.htm"
 type: article
+quality: 18
+heat: 18
+published: false
 
 provider:
   name: Medindia

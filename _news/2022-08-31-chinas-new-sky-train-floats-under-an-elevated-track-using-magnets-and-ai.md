@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-30T18:47:00Z
 originalUrl: "https://www.zdnet.com/article/chinas-new-sky-train-floats-under-its-track-using-magnets-and-ai/"
 webUrl: "https://www.zdnet.com/article/chinas-new-sky-train-floats-under-its-track-using-magnets-and-ai/"
 type: article
+quality: 44
+heat: 44
+published: false
 
 provider:
   name: ZDNet

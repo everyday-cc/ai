@@ -43,6 +43,17 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "United States DoD Artificial Intelligence Market Analysis 2022: Programs Listed from the FY2022 DoD Budget Request and Contract Activity for FY2021"
+    excerpt: "The \"United States DoD Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This research service focuses on US"
+    publishedDateTime: 2022-08-30T20:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28692864/united-states-dod-artificial-intelligence-market-analysis-2022-programs-listed-from-the-fy2022-dod"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28692864"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28692864"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
 
 secured: "cWNHRB5c0GVwNwrTuQoZbHAbu2FtqWTLvi5Oru/FAEwxd9QeQeK8IY1MpvFsWa96d8gjyXB9MbxMUNR+BkFQf0lSkLmKjdJRSb90+drMejm+j/FnkIPu2ksbtvS1+mgsxFoIzoXt7GREsCbPlhm4tWQ9Zm7Q2w3qKGfVZlOwCCXBAv5GtkM+8vw00GgYhprGEjpoo5XQjEhCNsoxLm5kBdbKfyEOENKJ6pW21ImiW5FUocT6WZFFbzIiYQSEJsxKcdbbBg+b8UJFLzRVh4ORy+nvNrrs76HuN2Ku8+44i4lUyKrp4UEQneH6n41EzII82dK3jbLl5I9ZYAIIHy2baWMqrLceLnvuJIaGh5CXyUQ=;5XShDLGYaw3C4Zm9HiF2ug=="
 ---

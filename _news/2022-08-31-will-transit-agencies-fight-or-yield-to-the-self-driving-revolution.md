@@ -1,0 +1,46 @@
+---
+category: news
+title: "Will Transit Agencies Fight Or Yield To The Self-Driving Revolution?"
+excerpt: "Transit agencies resist solutions to transportation goals that are not transit. Should they have say over policy matters for their competition, and if not, how should policy be decided?"
+publishedDateTime: 2022-08-30T19:59:00Z
+originalUrl: "https://www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/"
+webUrl: "https://www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/"
+ampWebUrl: "https://www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bradtempleton/2022/08/30/will-transit-agencies-fight-or-yield-to-the-self-driving-revolution/amp/"
+type: article
+quality: 74
+heat: 84
+published: true
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/630e6b2bb16ae3b08215ba24/0x0.jpg?format=jpg&width=1200"
+    width: 1200
+    height: 898
+    isCached: true
+
+related:
+  - title: "How technology will revolutionise the quest for sustainability within Financial Services"
+    excerpt: "Research from CDG shows that within the business world, the financial sector is one of the worst offenders, having funded emissions over  700 times greater than its own. Banks, lenders and other financial institutions must sit up and take notice."
+    publishedDateTime: 2022-08-26T13:46:00Z
+    webUrl: "https://www.finextra.com/blogposting/22808/how-technology-will-revolutionise-the-quest-for-sustainability-within-financial-services"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 10
+
+secured: "Ao2XpphiInoZClm87WrEm+fjqKsKpHmuYSVCDA3ZlNkXIRyf3P4qykwy/xjJOMLTfqnuOLIsGk6D5LRdVxNl5avHOFhg4JuVrQ2nwzroMyzVl8DICNKpD5GW4f2+GmdYvzc6jqMfkUTn0sKgFbo016aDqv6kH+LZMtXV7BPkStT8Z7IReubvMMCJPm4qwNCM4UDybhV4bsEB3GGkMokatCP7zt7tOa7nyWr68yOpZ9sKqWKP3tR+tPqSYcnBT0Y+pdtm9MCttqqAK7rKYuZzeDs2uzimZ67irOy1tj62ugQ3YZZ4qRfak4TxXkerRcoTPIRASvppZsc1DNbHetiZQRD0+rfxGy/6/cxlJgU90ek=;fcTjZvth+mf7i6pyDDevWg=="
+---
+

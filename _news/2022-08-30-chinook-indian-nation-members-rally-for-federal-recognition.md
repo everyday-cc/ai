@@ -51,37 +51,21 @@ related:
         width: 1766
         height: 993
         isCached: true
-  - title: "AI and app economies taking centre stage as Indian markets fire up again"
-    excerpt: "As India’s digital economy continues to grow, we’ll see more innovative, AI-integrated ways to manage and wield data. With the right automated man.."
-    publishedDateTime: 2022-08-26T03:29:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-and-app-economies-taking-centre-stage-as-indian-markets-fire-up-again/93790060"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-and-app-economies-taking-centre-stage-as-indian-markets-fire-up-again/93790060"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-and-app-economies-taking-centre-stage-as-indian-markets-fire-up-again/93790060"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 56
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-93790060,imgsize-25308,width-1200,height-628,overlay-etcio/ai-and-app-economies-taking-centre-stage-as-indian-markets-fire-up-again.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Chinook Indian Nation members rally for federal recognition"
     excerpt: "Federal recognition would mean access to federal dollars for healthcare and housing for this group of tribes, which are based in Southwestern Washington."
-    publishedDateTime: 2022-08-30T17:16:00Z
-    webUrl: "https://www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
-    ampWebUrl: "https://www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
+    publishedDateTime: 2022-08-30T21:14:00Z
+    webUrl: "https://www.al.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
+    ampWebUrl: "https://www.al.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
     type: article
     provider:
-      name: Oregonian
-      domain: oregonlive.com
+      name: al.com
+      domain: al.com
     quality: 44
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BDPWLIXENRFN5FMNDB6TY6JQTM.jpg"
-        width: 3000
-        height: 2000
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LMMPTFFNCBH4FLHLG5BPF5DKTI.JPG"
+        width: 5184
+        height: 3456
         isCached: true
 
 secured: "1/wB78IZvTNVRzrBLSxhE5PmTlXVXJFXx9yQn8RIupdf2ax+UByZNGjsvvT4tAq38aKsNDHk91iBWiCFsjYN23Cth5qqMq3E46UVLoJeyJU9GuFtq0Fg2hNi2N2J0d9UpaGU9fNsi9eP4Q7GvA/g4effmn1BYlOIgq3FiKNZ420uoEfVllbh6yiT4mWU35NJ17Ro3MSN0ipa+1NUMbHDxZwxjZ9Grhc39xRdBzHQRLv/D3mNRdVFUmReTYopLVAyupE9Pu79QojcdOEaFgubRaFhXZm42X0/G2VEQK5s2Cy4JeDKC6KyBTm1sG56dntySF9viTAhNcqI3s+gjDjnn+4gl18pe6TCq0vVz9npvq9h0SIPYRz20NlUVWN8jrOvaPsgazqk8xkMm6XXEMwZfp5zjnF+VBtb8wULdD5DD0JMPYzrt8CAQc5hIcSdFuAhIZlvw3Avf7ienqG7oy0NN/sZwcuRonoammctFHpl/tY9QHl7MfKz3dQWobmk4GwRZKblS54QMhpY0mTZ3YFiew==;NUt8d8QZd0uFE+NTWnv65Q=="

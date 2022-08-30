@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-30T15:32:00Z
 originalUrl: "https://bloncampus.thehindubusinessline.com/columns/world-view/self-driving-trucks-they-will-be-here-sooner-than-you-think/article65829757.ece"
 webUrl: "https://bloncampus.thehindubusinessline.com/columns/world-view/self-driving-trucks-they-will-be-here-sooner-than-you-think/article65829757.ece"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: Business Line

@@ -9,7 +9,7 @@ ampWebUrl: "https://www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_de
 cdnAmpWebUrl: "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns.amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://static.zawya.com/version/c:M2ZhMjgwNjEtZjYxMi00:NzBhNTEz/edroom-jpg.jpg?f=3%3A2"
         width: 889
         height: 593
-        isCached: true
-  - title: "AI can detect Parkinson’s from nighttime breathing patterns"
-    excerpt: "Researchers develop an artificial intelligence-based model to detect Parkinson’s disease and track its progression from nocturnal breathing signals."
-    publishedDateTime: 2022-08-26T02:20:00Z
-    webUrl: "https://www.news-medical.net/news/20220825/AI-can-detect-Parkinsone28099s-from-nighttime-breathing-patterns.aspx"
-    type: article
-    provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 37
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_723435_16614783056225644.jpg"
-        width: 1000
-        height: 667
         isCached: true
   - title: "AI Model Detects Parkinson’s From Breathing Patterns"
     excerpt: "A team of researchers at MIT has developed an artificial intelligence (AI) model that can detect Parkinson’s from reading a person’s breathing patterns.  The neural network is able to assess a person’s nocturnal breathing,"

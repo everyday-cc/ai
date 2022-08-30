@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/26/why-automa
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/26/why-automating-financial-services-without-risk-management-can-be-reckless-and-how-to-automate-responsibly/amp/"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -29,6 +29,17 @@ images:
     width: 1200
     height: 800
     isCached: true
+
+related:
+  - title: "AI Startup Replicant Is Transforming Customer Service Centers By Making Them More Automated—And More Accessible"
+    excerpt: "The company is harnessing artificial intelligence and machine learning technology in an effort to remake call centers everywhere."
+    publishedDateTime: 2022-08-30T18:19:00Z
+    webUrl: "https://www.forbes.com/sites/stevenaquino/2022/08/30/ai-startup-replicant-is-transforming-customer-service-centers-by-making-them-more-automated-and-more-accessible/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 27
 
 secured: "JeEioJDfaY16dzYmDfpmvW8va4GoblpoH9tgAagJVkVocJ/m/viCD1RqAN/ucXfx0xsZn4rfbdE9z4iBxJFmSNEd4LYSOxegV8vjAww8DCq8TRsGtQ/lHNdIUltxa5aZTf3OsTcMU39fxBNJvuIHd8hTesFDXIVcAoNlOHzDzHRXJ3/ynAYE7dk8dDMKvrirPEwuptdJPRSwliWwG00YmW07naTj64U5n1A/xLcNKwShJxTnOgSzb7b5DQeqRqhvTNVIK1vQ0izqDrDU/rz+LvW4xZUUCRRJt2j5W5YURpZ3HCSszV1W3Blg0mpL7rX7BoMktZ6u4ZfFGsV9469uoJq66Fp1tHu8ANp/stegYF7HAPCyny7JU+gilBGXpKwZ3vr5QJpt27EpGUKL/Eznrg0oP3SKLjWnp+Qc9hx5YwUoE1U91HVv1vtB8u3KQ7wqLYA4nYrcX74DB+wjbGlkn9nfEDfueQFXVmU+IAfyx+muKnyX0yu/afbKg3OvOjrk2Mgb4vLT3rjkvDUjzWYMjA==;f5WP4/S4NtI903+6lFtaxQ=="
 ---

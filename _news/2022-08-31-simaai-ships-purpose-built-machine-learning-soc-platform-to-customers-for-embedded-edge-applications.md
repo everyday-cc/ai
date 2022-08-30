@@ -30,11 +30,39 @@ related:
     provider:
       name: Gadgets Now
       domain: gadgetsnow.com
-    quality: 74
+    quality: 91
     images:
       - url: "https://static.toiimg.com/thumb/resizemode-4,msid-93886418,imgsize-93072,width-800/93886418.jpg"
         width: 800
         height: 532
+        isCached: true
+  - title: "US startup SiMa.ai starts shipping machine learning chip, system"
+    excerpt: "The product, called MLSoC (machine learning system on chip), is designed to process video and images using machine learning and traditional computing on a single platform. It is designed for industrial robotics,"
+    publishedDateTime: 2022-08-30T20:25:00Z
+    webUrl: "https://www.itnews.com.au/news/us-startup-simaai-starts-shipping-machine-learning-chip-system-584645"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 71
+    images:
+      - url: "https://i.nextmedia.com.au/News/2022-08-30T130839Z_1_LYNXMPEI7T0IS_RTROPTP_4_CHIPS-SIMA.JPG"
+        width: 1000
+        height: 665
+        isCached: true
+  - title: "SiMa.ai, a U.S. startup by Indian-American founder, starts shipping machine learning chip and system"
+    excerpt: "Silicon Valley-based SiMa.ai, a machine learning startup founded by Indian American, Krishna Rangasayee, and backed by Fidelity Management & Research Company, said on Tuesday, August 30, 2022, it started shipping chips and systems to customers that are testing them,"
+    publishedDateTime: 2022-08-30T14:18:00Z
+    webUrl: "https://www.newsindiatimes.com/sima-ai-a-u-s-startup-by-indian-american-founder-starts-shipping-machine-learning-chip-and-system/"
+    type: article
+    provider:
+      name: News India Times
+      domain: newsindiatimes.com
+    quality: 58
+    images:
+      - url: "https://www.newsindiatimes.com/wp-content/uploads/2022/08/2022-08-30T130839Z_1_LYNXMPEI7T0IS_RTROPTP_4_CHIPS-SIMA.jpg"
+        width: 6048
+        height: 4024
         isCached: true
 
 secured: "rPiUZ9F34FrUqQbIr1q56LIUJ1CKUPyck2l1goc/pLukYeys3dKPVUqYFKwP1sXMOBIOJw2kaW3NrD2l40z6ww0jaoX29CmSEc/c9+EErJuDXchOZdBRm6Ib3ZB5To6guZQ1FxY22we3DVWr/P5rJorkzBL+LN5Too3pATghQxH/f45eKBLkpZAceIYn2HI+vEsv1i0xBHJf8kSiHBfPnEl5KbkJmRqvRGBY05xtii9bi9TMPn2JMbadBUKrVNXXFGEdzj9yiXxTujpQm1UmdSMYHQXEOa2o7RTks3wzEgbjxVkmHIx2ZjFXagFASj3Sh6l1GbBqyBAliyAoTfsbz7tZXKnD5y7QP8nczrdovno=;O5PxVJ1cd5iEXQA8/V3KRg=="

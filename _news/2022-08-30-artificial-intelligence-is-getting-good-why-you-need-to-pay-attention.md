@@ -8,8 +8,8 @@ webUrl: "https://www.firstpost.com/world/artificial-intelligence-is-getting-good
 ampWebUrl: "https://www.firstpost.com/world/artificial-intelligence-is-getting-good-why-you-need-to-pay-attention-11149141.html/amp"
 cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/world/artificial-intelligence-is-getting-good-why-you-need-to-pay-attention-11149141.html/amp"
 type: article
-quality: 57
-heat: 57
+quality: 59
+heat: 59
 published: false
 
 provider:

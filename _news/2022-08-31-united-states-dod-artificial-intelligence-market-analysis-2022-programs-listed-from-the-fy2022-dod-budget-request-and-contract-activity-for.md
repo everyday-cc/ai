@@ -1,0 +1,55 @@
+---
+category: news
+title: "United States DoD Artificial Intelligence Market Analysis 2022: Programs Listed from the FY2022 DoD Budget Request and Contract Activity for FY2021"
+excerpt: "The \"United States DoD Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This research service focuses on US"
+publishedDateTime: 2022-08-30T20:15:00Z
+originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28692864/united-states-dod-artificial-intelligence-market-analysis-2022-programs-listed-from-the-fy2022-dod"
+webUrl: "https://www.benzinga.com/pressreleases/22/08/n28692864/united-states-dod-artificial-intelligence-market-analysis-2022-programs-listed-from-the-fy2022-dod"
+ampWebUrl: "https://www.benzinga.com/amp/content/28692864"
+cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28692864"
+type: article
+quality: 1
+heat: -1
+published: false
+
+provider:
+  name: Benzinga.com
+  domain: benzinga.com
+
+topics:
+  - AI in Healthcare
+  - AI
+
+related:
+  - title: "Artificial Intelligence (AI) Chipset Market Growing Demand, Industry Synopsis, Opportunities and Analysis 2022 to 2028"
+    excerpt: "This report studies the Global Artificial Intelligence (AI) Chipset Market size, industry status and forecast, competition landscape, and growth opportunity. This research report categorizes the global Artificial Intelligence (AI) Chipset market by companies,"
+    publishedDateTime: 2022-08-28T20:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-growing-demand-industry-synopsis-opportunities-and-analysis-2022-to-2028-2022-08-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 58
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Body Temperature Test Face Recognition Devices Market Size From 2022 To 2028 And Unlimited Opportunities for New Companies"
+    excerpt: "This report shows market strategic analysis, micro and macro market trend and scenarios, pricing analysis, and a holistic review of the \" Body Temperature Test Face Recognition Devices market\" in the forecast period 2022 to 2028,"
+    publishedDateTime: 2022-08-26T10:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/body-temperature-test-face-recognition-devices-market-size-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-2022-08-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "QtD/4PI4OcJHt90E42iC8nsmnQHZJZ2eOdVI5Sc6ID3KqGEU6spt3lRT2kHes/x92uHn4bogEFBISF+dsarIbZXMGVUM74y9c+PSYV4OuRTiRBu7ec3NexWcinWm5R+t3UYykWVBVWBx2Js8OA1cnDPOs9Cxlmrg0NqeCQcmWF9um5rlxabD+qV0EPmZN6sgWqW5GD6TEvibXjgprXlBUE18Lwq0G8cK0tDESHAtNXEnH8+Nrs0AqKx8tlwK37RfoDucza1DyL572EkfWwrPIRopaRiwBqULhShOCgcCKt1CR0asOjMS7Nh+gwvzhA7sVDszl6MlLTaMuFkIrmmj//9N7axPmHqZKWeP6RMzjjg=;s0ebqd30SExzVvYJd+8IVQ=="
+---
+

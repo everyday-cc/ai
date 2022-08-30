@@ -1,21 +1,60 @@
 ---
 category: news
 title: "Robot Sales Hit Record High in North America for Third-Straight Quarter"
-excerpt: "For the third-straight quarter, robot sales in North America hit a record high, driven by a resurgence in sales to automotive companies and an ongoing need to manage increasing demand to automate logistics for e-commerce."
-publishedDateTime: 2022-08-29T13:18:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-robot-sales-hit-record-high-in-north-america-for-third-straight-quarter"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-robot-sales-hit-record-high-in-north-america-for-third-straight-quarter"
+excerpt: "Association for Advancing Automation latest stats show the most robots sold in any quarter; automotive industry returns to historic norms, while food & consumer goods continues interest in automation to handle e-commerce logistics boom."
+publishedDateTime: 2022-08-29T15:16:00Z
+originalUrl: "https://www.automation.com/en-us/articles/august-2022/robot-sales-hit-record-high-north-america"
+webUrl: "https://www.automation.com/en-us/articles/august-2022/robot-sales-hit-record-high-north-america"
 type: article
+quality: 71
+heat: 95
+published: true
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Automation
+  domain: automation.com
 
 topics:
   - AI in Robotics
   - AI
   - AI in Sales
 
-secured: "vKUvGwhPqAw0aT6nB8JwKzOiT9mAGYfw9jOjP23F05w0iq3N0ieUIYB3hKO5Co4aIO/Qvgc68Df/UZdFvbo9fXR9saSQOYehRerv8uX3ng9bPVNbBLdpDrRqntk9mA5h1qDM+T1wM1bHNTglDcf5/dhLbNi1kuEXoLKlZt7i7QM4Jn8uyuB827aXrPcpGxhLUaqDgKoBYZCO7uh6Z/cJTGBMh4tcAws468DM0zQAysa0uYGz+P0UabwXwgrgsdPI6alNsXLT6t7Zxef9nRnoe2c/XsoyvD+MhHbfTgKU1rCspr8F24xq3Upd+xGcsRmAkdkwjNdbrKNFbIsfiKomWZe7rrs6a9QtaueALicgV5PYpY56zPFN+au/cnjcd3zEGSsU3j9LG7yt+Rq3V1ESQF4D/qtMoq6Lz/psH9qpKTEUJrGeu73WgD1AfPlZyeEcddIaSt22fhGsFUmmDcC7zch8N7q3R7HrOLr4kJKAA3JlLhPFy5PNTK54tIAbfkZ1KmLfX8csdpsVDxw2AJsZXw==;Z0hETetebF47xN5FtJHEfA=="
+images:
+  - url: "https://www.automation.com/getmedia/78715b12-b6e5-4559-9d38-61e4938d9b6f/Robots-news-Aug-29-2022-web.png?width=500&height=313&ext=.png"
+    width: 500
+    height: 313
+    isCached: true
+
+related:
+  - title: "North America Machine Learning Market Size Outlook, Share, Revenue, Regions & Forecast 2022-2031"
+    excerpt: "A report on North America Machine Learning Market was recently added by Kenneth Research into its database, which is"
+    publishedDateTime: 2022-08-26T05:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-machine-learning-market-size-outlook-share-revenue-regions-forecast-2022-2031-2022-08-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Robot Sales Surge Across North America, Q2 Sales up 25% to $585M"
+    excerpt: "For the third-straight quarter, robot sales in North America hit a record high, driven by a resurgence in sales to automotive companies."
+    publishedDateTime: 2022-08-30T16:20:00Z
+    webUrl: "https://www.dbusiness.com/daily-news/robot-sales-surge-across-north-america-q2-sales-up-25-to-585m/"
+    type: article
+    provider:
+      name: DBusiness Magazine
+      domain: dbusiness.com
+    quality: 56
+    images:
+      - url: "https://cdn.dbusiness.com/wp-content/uploads/sites/33/2022/08/RobotSales8.22-800.jpg"
+        width: 800
+        height: 500
+        isCached: true
+
+secured: "1MTLY3zXvXhod8SKfoI9O3UstyuHnX9mEk6MYAuId7nF7/FDOSuJa3qkViYZUIoWxQ1ltFbllws9E4KO9vkiXsZ0CYgypq1Yvz3i2A1qNn5t2nTWCvIwunGnk4BmtGZASDD7CRqmPIDkwT3KmphEYu+wuIr0/OXpgN5YezsES9PXPmXMEsAdmYqNxExDvI9OQzPZ0xEtJaBPKr4hNRngb6Kh5kbX3jpfGGLdsRWnTSknrobhPQoEqoFEOfw0t20QDsd6dcxxgr5UD7L+L0vFL5GDOFrz5P2s7ZLRifAwAyLlteS6b5MzfMHWgOB9RBYdE7VXyfptbgGO/pquL/gN4jV+W5glbmvB1w4P0YMhWRI=;KegYFik89cznzC2flngw8g=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-30T19:21:00Z
 originalUrl: "https://homehealthcarenews.com/2022/08/voices-select-data-ceo-ed-buckley-on-the-next-phase-of-home-health-care-ai%EF%BF%BC/"
 webUrl: "https://homehealthcarenews.com/2022/08/voices-select-data-ceo-ed-buckley-on-the-next-phase-of-home-health-care-ai%EF%BF%BC/"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: Home Health Care News

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-30T18:30:00Z
 originalUrl: "https://hackaday.com/2022/08/30/monitoring-a-cats-litter-box-usage-with-ai/"
 webUrl: "https://hackaday.com/2022/08/30/monitoring-a-cats-litter-box-usage-with-ai/"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Hackaday

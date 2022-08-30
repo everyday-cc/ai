@@ -242,6 +242,15 @@ related:
       name: Middle East North Africa Financial Network
       domain: menafn.com
     quality: 19
+  - title: "Elon Musk Wants Self-Driving Teslas Ready Before The End Of The Year"
+    excerpt: "Tesla's CEO revealed his top priorities while speaking about the importance of fossil fuels in the ongoing energy crisis"
+    publishedDateTime: 2022-08-30T18:29:00Z
+    webUrl: "https://www.carscoops.com/2022/08/elon-musk-wants-self-driving-teslas-before-the-end-of-the-year/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 19
   - title: "Musk focuses on getting Tesla's self-driving tech in wide release by year-end"
     excerpt: "Elon Musk hopes Tesla’s self-driving technology could be in wide release in the U.S. by the end of the year, and possibly also in Europe, depending on regulatory approval."
     publishedDateTime: 2022-08-29T12:29:00Z

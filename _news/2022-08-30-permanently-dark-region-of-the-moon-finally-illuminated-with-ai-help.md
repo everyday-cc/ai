@@ -49,6 +49,15 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Artemis: Artificial intelligence shines a light on the Moon’s permanently shadowed regions"
+    excerpt: "A LIGHT is being shone on the Moon's permanently shadowed regions by artificial intelligence (AI) - and the findings will be used to help identify suitable locations for future lunar missions like the Artemis programme."
+    publishedDateTime: 2022-08-30T19:03:00Z
+    webUrl: "https://www.express.co.uk/news/science/1662435/artemis-artificial-intelligence-shines-light-moon-permanently-shadowed-regions"
+    type: article
+    provider:
+      name: Daily Express
+      domain: express.co.uk
+    quality: 7
 
 secured: "1F+ALwdpMCgkY7whVeOdfR+CdaJKqbNlUITAg59TL/FPp6QlTL3Fshkwd50PAuOWgMhAtSY6O73Z+OGXvarA9ybOJUyf4iT+jFwxV1Zchn/zp1uIzfCNt+D5fW9eoAh8hGaUiaHL+4X9zCNedkY+SK/RPCkrZhECoe00KG0JLY33Qtf1vGN+TknE3gAuvfOlz58YKFlzvTg760njokm6sj7yHL9xS+bZXQmIn+mm0BcXKc8AMpWwqWRKaFJWUwu7mja+jnGoFCTPk5xZ4heVMtbWkLD3k0uLMzkUY2Fz/KnSqsYrXF3e8ukmNRGe88sfJXeUIMWP4mJH6SY2c7Xuz3N/xTB5pLHwT26YqYoBg2E=;a8nR+gcplccAo338tTeBWQ=="
 ---

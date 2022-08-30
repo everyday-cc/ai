@@ -8,8 +8,8 @@ webUrl: "https://www.gadgetsnow.com/tech-news/us-startup-sima-ai-starts-shipping
 ampWebUrl: "https://www.gadgetsnow.com/tech-news/us-startup-sima-ai-starts-shipping-machine-learning-chips-and-systems/amp_articleshow/93886418.cms"
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/us-startup-sima-ai-starts-shipping-machine-learning-chips-and-systems/amp_articleshow/93886418.cms"
 type: article
-quality: 74
-heat: 84
+quality: 91
+heat: 121
 published: true
 
 provider:
@@ -28,6 +28,34 @@ images:
     isCached: true
 
 related:
+  - title: "US startup SiMa.ai starts shipping machine learning chip, system"
+    excerpt: "The product, called MLSoC (machine learning system on chip), is designed to process video and images using machine learning and traditional computing on a single platform. It is designed for industrial robotics,"
+    publishedDateTime: 2022-08-30T20:25:00Z
+    webUrl: "https://www.itnews.com.au/news/us-startup-simaai-starts-shipping-machine-learning-chip-system-584645"
+    type: article
+    provider:
+      name: IT News For Australia Business
+      domain: itnews.com.au
+    quality: 71
+    images:
+      - url: "https://i.nextmedia.com.au/News/2022-08-30T130839Z_1_LYNXMPEI7T0IS_RTROPTP_4_CHIPS-SIMA.JPG"
+        width: 1000
+        height: 665
+        isCached: true
+  - title: "SiMa.ai, a U.S. startup by Indian-American founder, starts shipping machine learning chip and system"
+    excerpt: "Silicon Valley-based SiMa.ai, a machine learning startup founded by Indian American, Krishna Rangasayee, and backed by Fidelity Management & Research Company, said on Tuesday, August 30, 2022, it started shipping chips and systems to customers that are testing them,"
+    publishedDateTime: 2022-08-30T14:18:00Z
+    webUrl: "https://www.newsindiatimes.com/sima-ai-a-u-s-startup-by-indian-american-founder-starts-shipping-machine-learning-chip-and-system/"
+    type: article
+    provider:
+      name: News India Times
+      domain: newsindiatimes.com
+    quality: 58
+    images:
+      - url: "https://www.newsindiatimes.com/wp-content/uploads/2022/08/2022-08-30T130839Z_1_LYNXMPEI7T0IS_RTROPTP_4_CHIPS-SIMA.jpg"
+        width: 6048
+        height: 4024
+        isCached: true
   - title: "SiMa.ai Ships Purpose-built Machine Learning SoC Platform to Customers for Embedded Edge Applications"
     excerpt: "SiMa.ai, the machine learning company enabling effortless deployment and scaling at the embedded edge, announced that it has begun shipping the industry’s first purpose-built software-centric Machine Learning System-on-Chip platform for the embedded edge – the MLSoC."
     publishedDateTime: 2022-08-30T17:23:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-30T19:08:00Z
 originalUrl: "https://techxplore.com/news/2022-08-specialty-standard-coffee-beans-multispectral.html"
 webUrl: "https://techxplore.com/news/2022-08-specialty-standard-coffee-beans-multispectral.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: techxplore

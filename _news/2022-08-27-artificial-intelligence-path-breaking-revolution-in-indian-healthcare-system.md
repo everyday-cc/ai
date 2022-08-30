@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/artif
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886"
 type: article
 quality: 71
-heat: 111
+heat: 101
 published: true
 
 provider:
@@ -41,37 +41,21 @@ related:
         width: 1766
         height: 993
         isCached: true
-  - title: "AI and app economies taking centre stage as Indian markets fire up again"
-    excerpt: "As India’s digital economy continues to grow, we’ll see more innovative, AI-integrated ways to manage and wield data. With the right automated man.."
-    publishedDateTime: 2022-08-26T03:29:00Z
-    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/ai-and-app-economies-taking-centre-stage-as-indian-markets-fire-up-again/93790060"
-    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-and-app-economies-taking-centre-stage-as-indian-markets-fire-up-again/93790060"
-    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/ai-and-app-economies-taking-centre-stage-as-indian-markets-fire-up-again/93790060"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 56
-    images:
-      - url: "https://etimg.etb2bimg.com/thumb/msid-93790060,imgsize-25308,width-1200,height-628,overlay-etcio/ai-and-app-economies-taking-centre-stage-as-indian-markets-fire-up-again.jpg"
-        width: 1200
-        height: 628
-        isCached: true
   - title: "Chinook Indian Nation members rally for federal recognition"
     excerpt: "Federal recognition would mean access to federal dollars for healthcare and housing for this group of tribes, which are based in Southwestern Washington."
-    publishedDateTime: 2022-08-30T17:16:00Z
-    webUrl: "https://www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
-    ampWebUrl: "https://www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
+    publishedDateTime: 2022-08-30T21:14:00Z
+    webUrl: "https://www.al.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
+    ampWebUrl: "https://www.al.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
     type: article
     provider:
-      name: Oregonian
-      domain: oregonlive.com
+      name: al.com
+      domain: al.com
     quality: 44
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BDPWLIXENRFN5FMNDB6TY6JQTM.jpg"
-        width: 3000
-        height: 2000
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LMMPTFFNCBH4FLHLG5BPF5DKTI.JPG"
+        width: 5184
+        height: 3456
         isCached: true
   - title: "Chinook Indian Nation members rally for federal recognition"
     excerpt: "Members of the Chinook Indian Nation rallied Monday on the steps of a federal building in Seattle to raise awareness for their long fight to get federal recognition."

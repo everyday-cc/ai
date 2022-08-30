@@ -48,9 +48,9 @@ related:
       domain: manhattan-institute.org
     quality: 4
   - title: "Don't trust self-driving cars? NC State researchers trying to change that"
-    excerpt: "If the idea of a self-driving vehicle zooming down Interstate 40 and trying to reach the offramp at rush hour scares you, you’re not alone. The autonomous vehicle market is projected to eclipse $724 billion by 2027, according to a report from Emergen ..."
-    publishedDateTime: 2022-08-30T12:00:00Z
-    webUrl: "https://www.bizjournals.com/triad/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
+    excerpt: "If the idea of a self-driving car zooming down Interstate 40 and trying to reach the offramp at rush hour scares you, you’re not alone. But research happening at N.C. State may change your mind."
+    publishedDateTime: 2022-08-30T11:00:00Z
+    webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
     type: article
     provider:
       name: The Business Journals

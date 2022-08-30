@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-30T18:33:00Z
 originalUrl: "https://www.infoq.com/news/2022/08/removing-jquery-gov-uk/"
 webUrl: "https://www.infoq.com/news/2022/08/removing-jquery-gov-uk/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: InfoQ

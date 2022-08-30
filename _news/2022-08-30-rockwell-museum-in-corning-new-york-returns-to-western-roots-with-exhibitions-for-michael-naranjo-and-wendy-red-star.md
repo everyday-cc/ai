@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-30T16:42:00Z
 originalUrl: "https://www.forbes.com/sites/chaddscott/2022/08/30/rockwell-museum-in-corning-ny-returns-to-western-roots-with-exhibitions-for-michael-naranjo-and-wendy-red-star/"
 webUrl: "https://www.forbes.com/sites/chaddscott/2022/08/30/rockwell-museum-in-corning-ny-returns-to-western-roots-with-exhibitions-for-michael-naranjo-and-wendy-red-star/"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: Forbes

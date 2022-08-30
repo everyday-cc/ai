@@ -23,6 +23,17 @@ topics:
   - AI
   - AI Ethics
 
+related:
+  - title: "LLMs have not learned our language — we’re trying to learn theirs"
+    excerpt: "The limits of large language models (LLMs) have given rise to a trend of research in which we are learning the language of LLMs and discovering ways to better communicate with them."
+    publishedDateTime: 2022-08-30T18:40:00Z
+    webUrl: "https://venturebeat.com/ai/llms-have-not-learned-our-language-were-trying-to-learn-theirs%EF%BF%BC/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 34
+
 secured: "qK6CBSI7/WLtO+IlGMylzenwK99cQ6FNfxHa2QPPIL6eoSO/HnzEOhaqt3NVRMOzsFsHCSx9k8gYNNRoG3yT5TOfL0jtZo3bPz6Me3HArzSqJjFxfVB5CGvQfzcaS7dnMUTCuViO6PvtK18mDJc9wmZnWM40pb4y1bvP3lBz49LISdRhDKeNEZ6jzWX3clUJUjMepc4AtH5VAfwL0IvcSza1RTKBaGU3+sO614K7beYIr3lTzKudUnGsgILD+W5qqOX/sWVBT5BPTYj8/4FiruHBKYo9UtQq9VTOYTIX6aCz4Yn3BVjw56xL2BbqpY+6qO0KDwJ/R0sAhUX36iW9i1eyHgfY8s/XiNxZ8KDIkoC51mPyIfTwjJTXAvNqRbGhGRPvIQDTOFLV0idRgs/zn97YY5nyXQ0GLj5W81sZ2lyS2xqucTQ0tmevfkzeODoSn2BOa1Ic1DW6m5HYH3TYml0A7/PAGz4RTE0JujJQwmjJOZYk9W+ITOVOctuCyflMqPmfE4vrLSJ/ztOm1VYhYw==;Aa/dNuHcd/+QdXX9LYXYLA=="
 ---
 

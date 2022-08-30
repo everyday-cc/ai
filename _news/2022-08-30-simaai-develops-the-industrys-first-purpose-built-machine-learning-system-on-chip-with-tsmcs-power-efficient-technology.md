@@ -1,23 +1,23 @@
 ---
 category: news
-title: "SiMa.ai Develops the Industry's First Purpose-Built Machine Learning System-on-Chip with TSMC's Power Efficient Technology"
-excerpt: "SiMa.ai, the machine learning company enabling effortless deployment and scaling at the embedded edge, today announced it has delivered a software-centric MLSoC Platform that enables quick and Effortless ML experiences for the embedded edge,"
-publishedDateTime: 2022-08-30T13:35:00Z
-originalUrl: "https://www.design-reuse.com/news/52562/sima-ai-machine-learning-system-on-chip-tsmc.html"
-webUrl: "https://www.design-reuse.com/news/52562/sima-ai-machine-learning-system-on-chip-tsmc.html"
+title: "SiMa.ai Develops the Industry’s First Purpose-Built Machine Learning System-on-Chip with TSMC’s Power Efficient Technology"
+excerpt: "The SiMa.ai MLSoC, which is shipping to customers now, addresses any computer vision application and delivers a 10x better performance/watt solution – operating at the most efficient frames per second/watt."
+publishedDateTime: 2022-08-30T13:05:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-30-simaai-develops-the-industrys-first-purpose-built-machine-learning-system-on-chip-with-tsmcs-power-efficient-technology"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-30-simaai-develops-the-industrys-first-purpose-built-machine-learning-system-on-chip-with-tsmcs-power-efficient-technology"
 type: article
 quality: 25
 heat: 25
 published: false
 
 provider:
-  name: Design-Reuse
-  domain: design-reuse.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
-  - AI Hardware
-  - AI
   - Machine Learning
+  - AI
+  - AI Hardware
 
 related:
   - title: "SiMa.ai Ships First Industry Leading Purpose-built Machine Learning SoC Platform to Customers for Embedded Edge Applications"
@@ -39,6 +39,6 @@ related:
       domain: apnews.com
     quality: 0
 
-secured: "atbpWqWASdJN57PEkNsgmx4pZDybFWHQNQbo8558XkmQljzqSlPzrzlH5mw3G4xNOEE3JU0sI1xZZTjxeE15aLHRfpXnzu8ibn9ToWRABzBsgdyzzcRlvbl7yUuAR9EHnuVfnAv0dt2dnCIrHfuc4Ume3NRp03PyXg2CaXhyrnu95jO77wZWAmLe3lmpz8cxWsTLfm9Cr7RQa+0sy3XEeiPUiCZpqr+IoZMzLwABXPF7q2iStYuZ89/EASa5gkKWVdn4C79V/f9meul0hegN9LCThqB5vVcZ9ny7GOqKzKiPKzQ9cnXf9qC1EnVypYlkSvVPdMmEeFjXyp/C3HbJHNl6+GMRHMC4V4ACmmX1Mm0=;T4Vt9TlHLB2n5HO7xE9kmg=="
+secured: "U+jE9y+LAmQ/MqzhYdtlD6kOxcakrvQWad5HiFNgvcw16sJCdtcCiWcslRAH1parPMp82DgB+TQT67h/UBeSbZGIc0nCInLu2abMPQuqM5kwfhmggEBM9cx86sGiunsKWk52fjYNAWYw119h2S5+76EteghI56HSi3zZW91K8EAo4yX0pl0pdbUrLYwT8C+AzKBaceiDyX+QgFkf9mzWv2ELU+yPlIQ0GMccNsIPOuFpFb9gHiV9+bgjU4KcsEB8Q/YJw4nxbKAQDonMW5gawy6BpWVGKzhL5ktjAaeYlHdfFz65O1Fq618F0ixDQ3xtdH7XvVKd2E9vaCJFZl6WLfGCeBv+CAg4HH80JjtgOfE=;FjP3U3V/Se5wc1tBVdOsZg=="
 ---
 
