@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-30T12:58:00Z
 originalUrl: "https://insidehpc.com/2022/08/nvidia-and-dell-technologies-announce-data-center-offering-for-zero-trust-security-and-ai/"
 webUrl: "https://insidehpc.com/2022/08/nvidia-and-dell-technologies-announce-data-center-offering-for-zero-trust-security-and-ai/"
 type: article
+quality: 27
+heat: -1
+published: false
 
 provider:
   name: insideHPC
@@ -15,6 +18,24 @@ topics:
   - AI Hardware
   - AI
   - AI in Security
+
+related:
+  - title: "Nvidia, Dell, VMware add AI, zero-trust security into new data center package"
+    excerpt: "Dell servers containing Nvidia DPUs, GPUs, and VMware vSphere 8 use multiple firewalls to improve security for cloud-based workloads."
+    publishedDateTime: 2022-08-30T13:04:00Z
+    webUrl: "https://www.zdnet.com/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 101
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/31ca8a86b0b988f06219255b37675f4373f61dcd/2021/06/09/9a678cf1-16a0-46b5-b168-4a1cf67d1a6c/data-center.png?width=1200&fit=bounds&format=pjpg&auto=webp"
+        width: 1200
+        height: 802
+        isCached: true
 
 secured: "9XMI8w7EpcD746vQnKTj4UaY1dHCE/OcOxAbsIcnd+qg9enPBYNQBk6mPpozfu6cMNrO8GpqXkkfO42CxHwDtggbqPVkffDTdm2K9oYVmedDaqsptaH3nG5AQRUTA2C8mdkLV7fZLhMySfN5JGmJKyRh/bTVtXoRc7J2KqYunihnJllNT9nr82Pi1GyErllPvi/j8jdI1QASWl6nunedLNNCr7ghuTvorjgE9JIuDmiwMl84d62jVxLxnsoVmkd7wLtras+ZqTl4J7UGScObqQldVz8Kw05aHgKz7kmyivWOwH82rti2Dp+fk5w/LQN77+442t49QNepk8HtsMHswpqVj5wNeXkEYH2P9Y68aZwSuaLADIeCSGBZSRwlS7G28ZXFQHZGvQsBbEuQQXuHIwEAKu4M13KJQfBwDR3KsEM+FpWwHYSzIdz2MgJadsvxtf5nZ5gB4TfLtQ7Cp85bsqFxMHjCFCsaEfMG8t6FvGTHm+GgeR+3Xx84KZEWQ2HekSs51GjygV1FM9+iYNTLUQ==;SDqjEEgo2+3dMZhnOEMQEw=="
 ---

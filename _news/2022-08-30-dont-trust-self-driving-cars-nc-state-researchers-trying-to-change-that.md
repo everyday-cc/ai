@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-30T12:00:00Z
 originalUrl: "https://www.bizjournals.com/triad/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
 webUrl: "https://www.bizjournals.com/triad/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
 type: article
+quality: 3
+heat: -1
+published: false
 
 provider:
   name: The Business Journals
@@ -14,6 +17,53 @@ provider:
 topics:
   - AI in Autos
   - AI
+
+related:
+  - title: "Self-driving cars: A primer"
+    excerpt: "Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won’t drive at all."
+    publishedDateTime: 2022-08-28T19:02:00Z
+    webUrl: "https://whnt.com/automotive/self-driving-cars-a-primer/"
+    ampWebUrl: "https://whnt.com/automotive/self-driving-cars-a-primer/amp/"
+    cdnAmpWebUrl: "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/automotive/self-driving-cars-a-primer/amp/"
+    type: article
+    provider:
+      name: WHNT
+      domain: whnt.com
+    quality: 44
+    images:
+      - url: "https://whnt.com/wp-content/uploads/sites/20/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280"
+        width: 1280
+        height: 855
+        isCached: true
+  - title: "Safety concerns over driverless and self-driving cars"
+    excerpt: "Just one in 20 drivers – some 6% - say they would feel safe travelling in a driverless car and almost a third (31%) would only trust a driverless car if they could take over the controls ..."
+    publishedDateTime: 2022-08-26T10:36:00Z
+    webUrl: "https://www.fleetnews.co.uk/news/fleet-industry-news/2022/08/26/safety-concerns-over-driverless-and-self-driving-cars"
+    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/fleet-industry-news/2022/08/26/safety-concerns-over-driverless-and-self-driving-cars"
+    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/fleet-industry-news/2022/08/26/safety-concerns-over-driverless-and-self-driving-cars"
+    type: article
+    provider:
+      name: Fleet News
+      domain: fleetnews.co.uk
+    quality: 39
+  - title: "Self-Driving Cars Will Save Countless Lives"
+    excerpt: "Policy-makers must keep up with technological developments in automobiles so that better cars can save lives.The black Mercedes-Benz sped south on L.A.’s La Brea Avenue at, allegedly, more than 90 miles per hour."
+    publishedDateTime: 2022-08-30T13:21:00Z
+    webUrl: "https://www.manhattan-institute.org/self-driving-cars-will-save-countless-lives"
+    type: article
+    provider:
+      name: Manhattan Institute
+      domain: manhattan-institute.org
+    quality: 4
+  - title: "Former Apple employer admits stealing trade secrets for self-driving car project"
+    excerpt: "An engineer who had access to information about Apple’s self-driving car project has pleaded guilty to stealing trade secrets about the project"
+    publishedDateTime: 2022-08-26T06:42:00Z
+    webUrl: "https://www.pulse.ng/business/local/former-apple-employee-admits-stealing-trade-secrets-for-self-driving-car-project/3cd8yyj"
+    type: article
+    provider:
+      name: Naija Gist - Latest
+      domain: pulse.ng
+    quality: 0
 
 secured: "eCQq2ahQs5y8llkEr3vu9M6nhJ04LCLP154I90rwSIfqKLRl4ltxdnxpGpTHL2ibyUGnQS2US2D5U4qz8RCqVW4/29tfXmLYZKzlCpZ0mHHyY8/mrMrB8AdQLoicLfBI+Gp4WH0wF+3j1/MRpBJYlCire/to3uXVLO3llDUJow93Q86s4HTwJFmpc8vqkLi2S9aDTXMeHyiYo4GR1pOyhTIjFOOPKmTUSKLaQ+jGZ+Edwja3L/zI4OH8qkJHQUd39a77RrdEh9/XZVjRqCfI/AhOk9HD0/i0p+si1vGdE5MnyD1CgtI3X2FH1jCyqkvtvQum0i3/3hn5pgNoONPTcxx/x4mEHahwizaS9iQzc7MfwCxaXAQECqWlRuKlmOXHSdxRfRkwhzB9ZyNLGQwSxeIjA0C65yCqRiaJ1gOkgkZI1gToHjotiAiyZpfeICgmuFgSi1ueTlTUIg6Onwcf5wj6/E4UMEmBwUTdLBLFdTXlvq/asVKZHmrrpCOQvd0CZZCTWDqYNz8RMYk2yI4P5Q==;cjWfR1DzN5gR+vzImKwY+w=="
 ---

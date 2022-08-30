@@ -5,6 +5,8 @@ excerpt: "More information: Hosny A et al. Clinical Validation of Deep Learning 
 publishedDateTime: 2022-08-23T22:32:00Z
 originalUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html"
 webUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html"
+ampWebUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp"
+cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp"
 type: article
 
 provider:
@@ -15,6 +17,12 @@ topics:
   - Machine Learning
   - AI
 
-secured: "7MOqkkcu56xyU6Xs5iB8I0Iw3rvcVfev+vX127tOJb4NC5CFeemyklbqBBPsduPrklhFsIxsZEmhcUm7x3rVxAbEBSNpI+vmQQbmXcF1VP+EP72Tgp6KUWcWtaggN0N9AmD0muQeguOtsJmGnSWq0jaOn9qZ7yP98WD8v6P+v1ANfxr5XfRYtF7IC0YjALcak/jCjM2c/r9EiO9m/tCp+dsbwmIHDTGf6GZhy8Jz+gyEYQ69raxWrmmsJk/L6ydlBRhgFCvtFSygM+rMelw30tpPOMjUydMi26wIYx1gMklGUSrCYhX6rLVkJGbxuq7CnyMpy8zlWwRTD5oiPBViSAOiGpUGV5dvtDl38LieTdQ=;hYI/pYwbfgggGvTcdAqPdQ=="
+images:
+  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/lung-scan.jpg"
+    width: 2880
+    height: 1966
+    isCached: true
+
+secured: "QjDvj2Xw5ukkb5di4nRl7UwzYbf69tdkFcRAgD54BxYngCspd7PB2UFS0jXOTnFg0SSP3X55L/bGxeid4/zQQ9ySKMC0es+Ya1XwO1YoEo1OUa9L6UGzMqNn1VNa+Oe5qxKmntzDq8WpxGQK1f/ttVmktflz0UWPBIRbZzP8PxviUfH2msvhGpX+WrDnBM6J+CxtpMoHwIxNdzILK3SiHQx5Nt4ySOcrlTHLN84ebWaWA6RMAfWoEqswSrMnGmTj34jg5miTropou4vAbrkQbhZZl499F7b/sCXh8+EqXGEiCYbn606ORzD2pEYW5htpxcN5n26Eaq3npRgd5UZRF0iIUdQUQZoJN9XDOQFF4SI=;V8gF1iI7o4chUEdDOCmlOw=="
 ---
 

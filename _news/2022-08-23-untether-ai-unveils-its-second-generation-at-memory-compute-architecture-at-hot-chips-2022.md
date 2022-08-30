@@ -1,20 +1,26 @@
 ---
 category: news
 title: "Untether AI Unveils Its Second-Generation At-Memory Compute Architecture at HOT CHIPS 2022"
-excerpt: "AI architecture delivers 2 PetaFlops of performance at 30 TeraFlops/W of energy efficiency. Untether AI TM, the leader in at-memory computation for artificial intelligence (A"
-publishedDateTime: 2022-08-23T15:15:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-23-untether-ai-unveils-its-second-generation-at-memory-compute-architecture-at-hot-chips-2022"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-23-untether-ai-unveils-its-second-generation-at-memory-compute-architecture-at-hot-chips-2022"
+excerpt: "Untether AITM, the leader in at-memory computation for artificial intelligence (AI) workloads, today announced at the HOT CHIPS 2022 conference its next-generation architecture for accelerating AI inference workloads called speedAI devices,"
+publishedDateTime: 2022-08-23T15:16:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c"
+webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c"
 type: article
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI Hardware
   - AI
 
-secured: "ia9hJUNBUiEivgK1Ex2FP9tDHeGfctJagM8OvRrSaR5nm6aPMZPVp1fsf4s4OqDbApOUtOpmP1UWJRvemwvmXWUil+w2O8qqTA7OzLi6Fii7RNn+/JZZjnwaaEeyGJa4K6KLYEwMqOXchvmnEJK6pzBQlRnZkxLGFZbWqHug5Z6fvpfUCshHUo/3va7uS2ml/ty7f23UhEpk8C5z2wRtlnM7XqOQulSQf3wl8iXRRKYT/uu6HW/AkLcQ85IrqE6SvPFsA19jQfK5wQCvgxs7P4Fhx4jl77okSkpm2hGJvVtEhAnytNPt/7WWMF3z4M3VC1WwMNx7S2jR6rKvp6bNfBTITqMII5UKLalTdoHfmg0=;8ZAHSRCVZ/Lcc0w8hq9Mkg=="
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
+
+secured: "iXBlAoeXdT5GMyZdu3ABGUnkYfINSRFJa73byR0PzcmKgQYEEoRIXu34Ahl37TPw5LLO4XQJt+S8Gx21Tdb3w+3Q/oeJJVufsLfiI5yb3nOFnUDtWlEpMRbBgF9RLR+2HLXdYxPsumiDITJZ7mhxxF9wUzNUf6dWpCkvClNyNCUTpJGPRF7Ky1vADbbDoW9lZrsmrZqq8o12LBHO6n6ZKwPqgp0QL6vknWo2iFovUYSJvAJevnu3xUL9N6NDRI2Nv3gQ6zNwu+P3Su+J4JEBhy8xIf/zddRQbBx/CTrmq6omXqLiWnqghSL1IadirTC8AZW1mro2Bz+v+Q6YCKii1qbX+ZYBYpYo+l/JutyLRtI=;IB4WDX25oPR56YZrwxLAmQ=="
 ---
 

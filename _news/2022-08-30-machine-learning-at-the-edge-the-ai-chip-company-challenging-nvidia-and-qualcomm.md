@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-30T13:00:00Z
 originalUrl: "https://venturebeat.com/ai/machine-learning-at-the-edge-the-ai-chip-company-challenging-nvidia-and-qualcomm/"
 webUrl: "https://venturebeat.com/ai/machine-learning-at-the-edge-the-ai-chip-company-challenging-nvidia-and-qualcomm/"
 type: article
+quality: 76
+heat: 76
+published: true
 
 provider:
   name: VentureBeat

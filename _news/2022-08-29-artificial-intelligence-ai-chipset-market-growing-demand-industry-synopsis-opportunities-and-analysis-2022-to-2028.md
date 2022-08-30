@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-growing-demand-industry-synopsis-opportunities-and-analysis-2022-to-2028-2022-08-28"
 type: article
 quality: 58
-heat: 88
+heat: 78
 published: true
 
 provider:
@@ -32,20 +32,6 @@ related:
     excerpt: "This report shows market strategic analysis, micro and macro market trend and scenarios, pricing analysis, and a holistic review of the \" Body Temperature Test Face Recognition Devices market\" in the forecast period 2022 to 2028,"
     publishedDateTime: 2022-08-26T10:31:00Z
     webUrl: "https://www.marketwatch.com/press-release/body-temperature-test-face-recognition-devices-market-size-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-2022-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Natural Language Processing in Life Science Market Size From 2022 To 2028 And Key Findings and Segments by End Use Industry"
-    excerpt: "The \"Natural Language Processing in Life Science market research report\" is an extensive research study that provides a unique, first-time market and competitive analysis of the size, segmentation, competition,"
-    publishedDateTime: 2022-08-25T20:00:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-in-life-science-market-size-from-2022-to-2028-and-key-findings-and-segments-by-end-use-industry-2022-08-25"
     type: article
     provider:
       name: MarketWatch

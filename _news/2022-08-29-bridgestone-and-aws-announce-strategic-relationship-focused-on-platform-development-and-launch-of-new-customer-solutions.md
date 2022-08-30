@@ -28,6 +28,17 @@ images:
     height: 239
     isCached: true
 
+related:
+  - title: "Bridgestone to launch last-mile marketplace with AWS"
+    excerpt: "Bridgestone Corp. ( OCTUS: BRDCY ), known as the world’s largest producer of tires, has announced it will be using Amazon Web Services to build a marketplace for last-mile services and fleet solutions."
+    publishedDateTime: 2022-08-30T13:47:00Z
+    webUrl: "https://www.freightwaves.com/news/bridgestone-to-launch-last-mile-marketplace-with-aws"
+    type: article
+    provider:
+      name: freightwaves.com
+      domain: freightwaves.com
+    quality: 19
+
 secured: "7WnUJdtEtpQVyN4TO7SNL31QOtp7U2wSjEhbsCGOsUr8Dgj/FNPHfApj8WKvosmbTq0bGOmOQ0Mxi5Hg0aB2IWrJmDXGOiZAk+i0JI2n8T1dTms8ztmR7OwYNwzQNUCJwmh+u4mNwHK+R3guL4UAROgvN9Sirui987bF6AIlDynjqlkxwdelYNKIfnxcb+Z6DSA+/7EcTILUsINKD4m7EMJ0/kkctjfu/wmcoiWO/job19Y2q+Xj8qW3nJ5jKpLvgxeUvyhBoOsm40sTLM6iXyHLqsJNmnUIeypyCciXOTXJpnkyh8AUVSRc9HhqCjTzDvvgKdAeLkrQno64KDGKgOrTmKhzdjtEqnBwyo3+WL8=;4kVrEezGaav0UhaM9JIAxQ=="
 ---
 

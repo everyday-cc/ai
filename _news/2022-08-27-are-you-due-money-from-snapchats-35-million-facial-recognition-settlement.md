@@ -24,22 +24,6 @@ topics:
   - Computer Vision
 
 related:
-  - title: "Google's $100 Million Facial Recognition Lawsuit: Who Can Claim Money From the Settlement?"
-    excerpt: "Dan is a writer on CNET's How-To team. His byline has appeared in Newsweek, NBC News, The New York Times, Architectural Digest, The Daily Mail and elsewhere. He is a crossword junkie and is interested in the intersection of tech and marginalized communities."
-    publishedDateTime: 2022-08-25T21:40:00Z
-    webUrl: "https://www.cnet.com/personal-finance/googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement/"
-    ampWebUrl: "https://www.cnet.com/google-amp/news/googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement/"
-    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement/"
-    type: article
-    provider:
-      name: CNET
-      domain: cnet.com
-    quality: 94
-    images:
-      - url: "https://www.cnet.com/a/img/resize/95ce5ca58f4c78b55da7303cc63a9f06721a1e3d/2022/08/25/f0a2866b-e71b-40d6-9c3d-2d0c873b3407/gettyimages-1242657903.jpg?auto=webp&fit=crop&height=630&width=1200"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Google's $100 Million Settlement: There's Still Time to See if You're Eligible for a Check"
     excerpt: "Google Photos' Face Grouping tool lets users organize images of the same person via facial recognition algorithms ... The deadline to opt out of or object to the settlement was Aug. 10. A final approval hearing for the settlement is scheduled for Sept."
     publishedDateTime: 2022-08-29T20:25:00Z

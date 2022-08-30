@@ -1,21 +1,40 @@
 ---
 category: news
 title: "Robot Sales Hit Record High in North America for Third-Straight Quarter"
-excerpt: "Association for Advancing Automation latest stats show the most robots sold in any quarter; automotive industry returns to historic norms, while food & consumer goods continues interest in automation to handle e-commerce logistics boom."
-publishedDateTime: 2022-08-29T15:16:00Z
-originalUrl: "https://www.automation.com/en-us/articles/august-2022/robot-sales-hit-record-high-north-america"
-webUrl: "https://www.automation.com/en-us/articles/august-2022/robot-sales-hit-record-high-north-america"
+excerpt: "For the third-straight quarter, robot sales in North America hit a record high, driven by a resurgence in sales to automotive companies and an ongoing need to manage increasing demand to automate logistics for e-commerce."
+publishedDateTime: 2022-08-29T13:18:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-robot-sales-hit-record-high-in-north-america-for-third-straight-quarter"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-robot-sales-hit-record-high-in-north-america-for-third-straight-quarter"
 type: article
+quality: 51
+heat: -1
+published: false
 
 provider:
-  name: Automation
-  domain: automation.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Robotics
   - AI
   - AI in Sales
 
-secured: "wMtnMTZjr1jTsKq0Ui4B68N1D8bbQwulONIxfHUvpetVZI0Or1ic6VxnZwc6Njm2hh3KA0Oooa38u0Gsdsh3ySq4aWQr0IT4trcEIxE5+fSyfdqLAB+rDltu/Mkdy3R1qicMRy/QVWdLP16DdiOAQePmu1ETMyryjHQgQnLIKoBVWBW5GTfZTCdgUriHMe+4CkLCmBUMtEIvHSyCDimRommdxJky0J+R080u2NRrTuuLXAmJ3qFqwWv7VbG1ZghKAmsOjGHjlD4KSAslygj++Ga1XuHX8ql5oaZVtzoFTGRfaqM7tSXNh8NYvBj87OtolSqC+VWyj64zebS0tISAXs2Psqp6nb5SOKo+vsrmz4mmlUdLVK7YZ5pWDnigeiq2flzlrtH8B1pfd6Qz18f8KMayKuR4t5bAyZflVUQFEortS2wYgZHoEvAy9vOhHbpgDC0a4yYewbOKclSrygc/BslM3I4yd5aVcXdM0pD8Pp2z8eNPiPe9WDd1ZDU3YsOZ5wV02DNPVCwI9GbIHaNlNg==;vhTa4x/TmW7j9HkJjrbzZw=="
+related:
+  - title: "North America Machine Learning Market Size Outlook, Share, Revenue, Regions & Forecast 2022-2031"
+    excerpt: "A report on North America Machine Learning Market was recently added by Kenneth Research into its database, which is"
+    publishedDateTime: 2022-08-26T05:06:00Z
+    webUrl: "https://www.marketwatch.com/press-release/north-america-machine-learning-market-size-outlook-share-revenue-regions-forecast-2022-2031-2022-08-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 56
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+
+secured: "jTVNdxIoGLdUdb/LNBdD+baWIPoB6WB1l4CY7KLByM1MdRI3rWHdAWX6/UrDfQ/cWIL1beMfPBKobf/rjMz/Afl4PcQQxttIVWuXHotjZADaA5g6b2zMa598XDqMFqbwg6GEEMotvBAlSaTFwElbVy8BnJOyMl2kZWSiA34Ec1FZFxSKiObU/ZlZmZojvUbPDkdXFOVH4I8ZEiPGXlpuw/aRA+KJc9i4hlu3A3NIGoQq/VmfzXcjOasyzsAEPVeQCv5tDG7A8dc3oGTk/YxPDpUiGWBfE7o5n4yyhlpvzKW+kgMujpxaKHkY6Jtc8GWPSt4RpHpV9POzdLV+oRqLOJc3ZD4FPi8G1JbcwmDEd0qcwqgBCudofM6bkv26/l6XFrfERkPY9EunykOnGccBzbUAp1X1mY/60OlZlYBTorL+EK/LQGuFs5l0i/VbJWYmUvcpm2NGRKqYOXq2ipA+UtkDnraSgX4uOf/jlNryMFrLpWrx+TIoDXyjVlB6tPZ1EZ4gO/hc8h+i0Ic1JnjdjQ==;hTdvdj9KBwtm/XICI0fE9Q=="
 ---
 

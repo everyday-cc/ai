@@ -25,6 +25,17 @@ images:
     height: 506
     isCached: true
 
+related:
+  - title: "Fintech Startup Impactsure Raises USD 1 Mn in Seed Funding"
+    excerpt: "The AI-powered analytics firm attracted investors from the US, UK, and India in its first-ever fund-raising activity"
+    publishedDateTime: 2022-08-30T11:43:00Z
+    webUrl: "https://analyticsindiamag.com/fintech-startup-impactsure-raises-usd-1-mn-in-seed-funding/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 19
+
 secured: "Vium12ZFCD3+84wHk2BseiZqBlDYiLfPZoit8GnUYlRx+K/bBem3UxiCCTmQsVJdW+/b8PzMUU563pkQfYTkGsYomAw1PBDxZ5FyZ795eQmG2qQ8LRA4MIH4ojwvf73TUkDaLXFlvmhK0qHQIMhHqFsEFrYMJ5ltkgYKoLCS/c13wXTCCUFm3M2gBACVj9Z2KP82CYo0riSqjcVGTbTfUVuoDp2QUWw7yHSYgQCgp4C+T//nig3t5pFti1vJSiwLCxYqRDAab/ndCJGT0uKu4fYdKjmNT8pjSKddoNU1YAX4pZ9/9BDeB0kXjwjKfXiN2rkxREPpeeIPqDpX/8GDEo3kB/jTXrZXKQh8JiRPZFc=;/IoBQpshc2h7YnB01GeN+Q=="
 ---
 

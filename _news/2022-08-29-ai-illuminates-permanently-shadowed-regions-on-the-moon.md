@@ -9,8 +9,8 @@ ampWebUrl: "https://phys.org/news/2022-08-ai-illuminates-permanently-shadowed-re
 cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-ai-illuminates-permanently-shadowed-regions.amp"
 type: article
 quality: 59
-heat: 69
-published: false
+heat: 79
+published: true
 
 provider:
   name: Phys.org
@@ -27,6 +27,20 @@ images:
     isCached: true
 
 related:
+  - title: "A new AI can finally illuminate the Moon's darkest places"
+    excerpt: "The Moon's rotation ensures it gets consistent sun around its equator. However, some pockets never receive any rays, deep craters, and pocks at high latitudes, as well as the Moon's polar regions, which have high walls that protect the crater floor from harsh solar radiation."
+    publishedDateTime: 2022-08-30T15:38:00Z
+    webUrl: "https://interestingengineering.com/innovation/new-ai-illuminate-moons-darkest-places"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 37
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/2022/08/30/image/jpeg/jOBQAgfPdKm0KUUC8sTLUuEgmespDS1LNKYuGztV.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Permanently dark region of the Moon finally illuminated with AI help"
     excerpt: "NASA's Lunar Reconnaissance Orbiter has captured the few photons that reach into the shadowed areas of the Lunar south pole to reveal what is inside."
     publishedDateTime: 2022-08-30T11:05:00Z

@@ -21,17 +21,17 @@ topics:
 related:
   - title: "Self-driving cars: A primer"
     excerpt: "Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won’t drive at all."
-    publishedDateTime: 2022-08-28T19:04:00Z
-    webUrl: "https://www.nbc4i.com/automotive/self-driving-cars-a-primer/"
-    ampWebUrl: "https://www.nbc4i.com/automotive/self-driving-cars-a-primer/amp/"
-    cdnAmpWebUrl: "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/automotive/self-driving-cars-a-primer/amp/"
+    publishedDateTime: 2022-08-28T19:02:00Z
+    webUrl: "https://whnt.com/automotive/self-driving-cars-a-primer/"
+    ampWebUrl: "https://whnt.com/automotive/self-driving-cars-a-primer/amp/"
+    cdnAmpWebUrl: "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/automotive/self-driving-cars-a-primer/amp/"
     type: article
     provider:
-      name: NBC4i
-      domain: nbc4i.com
+      name: WHNT
+      domain: whnt.com
     quality: 44
     images:
-      - url: "https://www.nbc4i.com/wp-content/uploads/sites/18/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280"
+      - url: "https://whnt.com/wp-content/uploads/sites/20/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280"
         width: 1280
         height: 855
         isCached: true
@@ -46,10 +46,19 @@ related:
       name: Fleet News
       domain: fleetnews.co.uk
     quality: 39
+  - title: "Self-Driving Cars Will Save Countless Lives"
+    excerpt: "Policy-makers must keep up with technological developments in automobiles so that better cars can save lives.The black Mercedes-Benz sped south on L.A.’s La Brea Avenue at, allegedly, more than 90 miles per hour."
+    publishedDateTime: 2022-08-30T13:21:00Z
+    webUrl: "https://www.manhattan-institute.org/self-driving-cars-will-save-countless-lives"
+    type: article
+    provider:
+      name: Manhattan Institute
+      domain: manhattan-institute.org
+    quality: 4
   - title: "Don't trust self-driving cars? NC State researchers trying to change that"
-    excerpt: "If the idea of a self-driving car zooming down Interstate 40 and trying to reach the offramp at rush hour scares you, you’re not alone. But research happening at N.C. State may change your mind."
-    publishedDateTime: 2022-08-30T11:00:00Z
-    webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
+    excerpt: "If the idea of a self-driving vehicle zooming down Interstate 40 and trying to reach the offramp at rush hour scares you, you’re not alone. The autonomous vehicle market is projected to eclipse $724 billion by 2027, according to a report from Emergen ..."
+    publishedDateTime: 2022-08-30T12:00:00Z
+    webUrl: "https://www.bizjournals.com/triad/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
     type: article
     provider:
       name: The Business Journals

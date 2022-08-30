@@ -44,36 +44,6 @@ related:
         width: 761
         height: 428
         isCached: true
-  - title: "The worrying spread of facial recognition tech"
-    excerpt: "Facial recognition technology uses machine learning algorithms to extract data points from a person’s face to create a digital signature. This signature is then compared with an existing database to find possible matches."
-    publishedDateTime: 2022-08-25T19:04:00Z
-    webUrl: "https://www.livemint.com/technology/tech-news/with-absent-laws-face-tracking-proliferates-11661453943678.html"
-    ampWebUrl: "https://www.livemint.com/technology/tech-news/with-absent-laws-face-tracking-proliferates/amp-11661453943678.html"
-    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/with-absent-laws-face-tracking-proliferates/amp-11661453943678.html"
-    type: article
-    provider:
-      name: Mint
-      domain: livemint.com
-    quality: 59
-    images:
-      - url: "https://images.livemint.com/img/2022/08/25/600x338/facial_1661454053797_1661454059841_1661454059841.jpg"
-        width: 600
-        height: 338
-        isCached: true
-  - title: "Deep-learning advance improves facial recognition for people wearing veils"
-    excerpt: "A new paper from a team of researchers claims they have developed a facial recognition algorithm which accurately matches faces occluded by a niqab."
-    publishedDateTime: 2022-08-25T20:10:00Z
-    webUrl: "https://www.biometricupdate.com/202208/deep-learning-advance-improves-facial-recognition-for-people-wearing-veils"
-    type: article
-    provider:
-      name: Biometric Companies
-      domain: biometricupdate.com
-    quality: 39
-    images:
-      - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/25160459/niqab-scaled.jpg"
-        width: 2048
-        height: 1367
-        isCached: true
 
 secured: "6IPQLLJsZ+OcncNgn6o9bKvukwydcXxygxL1vBjgfRnc4nG1JtINAFgcB/FfDQ+z65VDv8AqYoWZcP1KqY8enHrQoGbH4FPuXqCoxM0Gn742e4jqdeIeqFlFCllbQGtG/c682keq3iWQyCA4LIDNinbz3l9TMSMoOMU9WKFd00mNiK3ipMrwTSH2vj5zsVJvU+B1pFquvULsFo3qwi7ap2HgCYfeK/JHxroO9BVZflg32QADdYHnDjoZHWcbizzInSjh1x+/jN34FRIvJbTBQbgGwALK7wVXrvgR1zo7NGEXvtdCIQ/vWNafI/tGD8WQqHH6dfnvpn4TfI3B5kyUU8vpELMMjN4J9kG+GNZrbButLvnMUI5oIpCJJ0P++7tbu3/f6RkJ03srPxiMfBu1neyoHK9ssX5sK7V/Vx6MhlDhC0bwGpTk16qh6qz0S5TDGgxFlPdRanG5tYI6STVJ4UiIWNZe6z2858FSa79iOx5vYVzfvidPoqjYpcPPzWCEHYiY62rFeVoQpdq6/gcNEQ==;VPzkkOCF7vDs0p80zmt8UA=="
 ---

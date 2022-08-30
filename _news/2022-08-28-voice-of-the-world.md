@@ -30,17 +30,12 @@ related:
   - title: "Veterans Voice: Family clambake welcomes a world of naval officers to Rhode Island"
     excerpt: "Since 1956, the Kempenaar family has introduced incoming officers at the Naval War College to a New England tradition."
     publishedDateTime: 2022-08-29T09:01:00Z
-    webUrl: "https://www.dispatch.com/story/news/local/2022/08/29/veterans-voice-naval-officers-welcomed-ri-kempenaar-clambake/7903156001/"
+    webUrl: "https://www.providencejournal.com/story/news/local/2022/08/29/veterans-voice-naval-officers-welcomed-ri-kempenaar-clambake/7903156001/"
     type: article
     provider:
-      name: Columbus Dispatch
-      domain: dispatch.com
-    quality: 18
-    images:
-      - url: "https://www.gannett-cdn.com/presto/2022/08/26/NPRJ/71223f5c-415d-4a81-b52d-77a1eea9c9e2-1._rocky_linda_2.JPG?auto=webp&crop=1799,1012,x0,y0&format=pjpg&width=1200"
-        width: 1200
-        height: 675
-        isCached: true
+      name: Providence Journal
+      domain: providencejournal.com
+    quality: 0
 
 secured: "DU0uJbe95vXNwtlroaHgmkVrPQGg6umE3x/WePlrz0ocaxaRzhgGmTEdd4F8HO9S+a0HuSfIL0NHsnEbnuxS7Cu/7R3ewgJ+eV/HoCES6Pe5Mw/5nr8+zobEu+1diDVbU9KfEcZfzB/fl9a4uOOgv/2xaK79rscX71ibua7LG9apwrpwxwe/lpiohPGcmXdIQWg5C9qpGTaZEQ5G0BfmXK/aACrrejy6VHXtiMpSRec7I7mXi7zi80LmPH7z0VHwsc12oDVae4Dwlhk2u3yN4MKim22vXalKRCnnhN8R4rgAP7wNjRnj2oxhTMeo+jNivEYVbxDANR6uf9nvfQR5/4kFpgOsIm6sdzw305Ln2oE=;2C2D8eqh1zN2dzHSeMKxag=="
 ---

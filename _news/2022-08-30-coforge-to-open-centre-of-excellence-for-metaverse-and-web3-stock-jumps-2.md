@@ -9,7 +9,7 @@ ampWebUrl: "https://www.indiainfoline.com/article-amp/news-top-story/coforge-to-
 cdnAmpWebUrl: "https://www-indiainfoline-com.cdn.ampproject.org/c/s/www.indiainfoline.com/article-amp/news-top-story/coforge-to-open-centre-of-excellence-for-metaverse-and-web3-stock-jumps-2-122083000439_1.html"
 type: article
 quality: 41
-heat: 41
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,38 @@ images:
     width: 350
     height: 233
     isCached: true
+
+related:
+  - title: "Coforge sets up center of excellence for metaverse and web3"
+    excerpt: "IT firm Coforge, formerly known as NIIT Technologies, has announced the opening of its center of excellence for the metaverse and Web3. The facility will promote inter-disciplinary research and identify various use-cases using the metaverse and its intersection with digital technologies including blockchain,"
+    publishedDateTime: 2022-08-30T12:50:00Z
+    webUrl: "https://www.thehindubusinessline.com/info-tech/coforge-sets-up-center-of-excellence-for-metaverse-and-web3/article65830141.ece"
+    ampWebUrl: "https://www.thehindubusinessline.com/info-tech/coforge-sets-up-center-of-excellence-for-metaverse-and-web3/article65830141.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindubusinessline-com.cdn.ampproject.org/c/s/www.thehindubusinessline.com/info-tech/coforge-sets-up-center-of-excellence-for-metaverse-and-web3/article65830141.ece/amp/"
+    type: article
+    provider:
+      name: Business Line
+      domain: thehindubusinessline.com
+    quality: 44
+    images:
+      - url: "https://bl-i.thgim.com/public/incoming/nc4pw5/article65830197.ece/alternates/LANDSCAPE_615/IMG_CCI_UDHindu_KSL_U8O6_2_1_D9A2CSLE.jpg"
+        width: 615
+        height: 383
+        isCached: true
+  - title: "Who will establish metaverse ethics?"
+    excerpt: "The metaverse is not a new concept. The term was coined by science fiction novelist Neal Stephenson in his 1992 book Snow Crash, which depicts a hyper-capitalist dystopia in which humanity has collectively opted into life in virtual environments."
+    publishedDateTime: 2022-08-27T03:40:00Z
+    webUrl: "https://global.chinadaily.com.cn/a/202208/27/WS6309699da310fd2b29e74891.html"
+    type: article
+    provider:
+      name: 中国日报网
+      domain: chinadaily.com.cn
+    quality: 39
+    images:
+      - url: "https://img2.chinadaily.com.cn/images/202208/27/6309699da310fd2bec9e80f9.jpeg"
+        width: 669
+        height: 840
+        isCached: true
 
 secured: "hrgYlez3X2DGFXuRO0jX1XAURK39XX52UPmurSIhxGv4Kgi1iZoWThCMvm5bFfejDE6jlG6PFtrVnFql+iF0/PE4Q0Q5SjuzMJQ0vCaTifTufy5WLFDSQUyVXiG1MB/7zwnIpE74GW1w1eCwLU7ufg8O6PMoRReKz1AAmfqNIys7AxdeSVWnjm9UKCfgzIeb9IqYLFlzTmaZS2e9GG7GhdLMVIoFYgI3eoURE4vueedvGVSkTVwSDDDKBnc2zFlTq1tgmh7hM/Rcxf2X18P9OMYE81ysUIc3fzJS/pN9g3AHP2ZjAL/ipsuqPKHgI7JZL5OCTzDkiFFbCnBuJ1fjp65hr+bHw7aK2WXDt1dzMaQ=;RbKlawirvh2PypCLCgBa4g=="
 ---

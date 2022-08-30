@@ -75,6 +75,15 @@ related:
       name: Bestgamingpro
       domain: bestgamingpro.com
     quality: 4
+  - title: "Meta Open-Sources 175B Parameter Chatbot BlenderBot 3"
+    excerpt: "Meta AI Research open-sourced BlenderBot 3, a 175B parameter chatbot that can learn from live interactions with users \"in the wild.\" In evaluations by human judges, BlenderBot 3 achieves a 31% rating increase compared to the previous BlenderBot version."
+    publishedDateTime: 2022-08-30T13:35:00Z
+    webUrl: "https://www.infoq.com/news/2022/08/meta-blenderbot3-chatbot/"
+    type: article
+    provider:
+      name: InfoQ
+      domain: infoq.com
+    quality: 4
 
 secured: "nGk30L7KBRu62o3YBR2lGllftU/AjSdaklKnUy7Syr23g7vXhr6jpkwGEkGyLkl8O4BTRUxK3DMd7kVDkTSUxIS/lq6KKTylEzrfPVCgMaOvkDSEyi22htKSPfIOq9s9FtIMu/O4IOi5NF5I66xXYcGpkyk1BgpBs2OpXYMhxd/lZ78WiDD6fJD7IJj4HKs2wf5RFzr7569JGWxxb2LiE9838gQIcCAs6FG91D/qms4B/CiB+76GgSohA4ynERFyMYImSWIcdNyxWxT5Z4y5l4otvjn2XsAhWFo47CWF+3VNB5s4acSPw8Kd50rhxuncNe13DWfd2JPFFY4Ta/PdXXTO42tGlA1+8mclU9lw65+blqs+f1djWhlzOYxJCuxiQ+DW6Dhim6/04ljijaTHEdIx07iuOKSO7aPMGhMPStg3rHuwTzSVdafmhC+m4quu7nXKAU0+Y4RkZNV9buAEGwQyJ6jS4TWoDr2HI1nABIKWY+qeQLy1DZoX1slhCsPhukFG4EZVtPQcXXB2ft18Vg==;+uwNYZVHFqiEbQUgAatXvA=="
 ---

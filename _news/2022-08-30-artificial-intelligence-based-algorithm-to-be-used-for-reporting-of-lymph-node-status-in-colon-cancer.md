@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-30T13:38:00Z
 originalUrl: "https://www.labiotech.eu/trends-news/indica-labs-partners-with-icaird-on-ai-based-digital-pathology-solution/"
 webUrl: "https://www.labiotech.eu/trends-news/indica-labs-partners-with-icaird-on-ai-based-digital-pathology-solution/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: the Top 10

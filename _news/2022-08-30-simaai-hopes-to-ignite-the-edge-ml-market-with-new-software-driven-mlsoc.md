@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-30T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/karlfreund/2022/08/30/simaai-hopes-to-ignite-the-edge-ml-market-with-new-software-driven-mlsoc/"
 webUrl: "https://www.forbes.com/sites/karlfreund/2022/08/30/simaai-hopes-to-ignite-the-edge-ml-market-with-new-software-driven-mlsoc/"
 type: article
+quality: 64
+heat: 64
+published: false
 
 provider:
   name: Forbes

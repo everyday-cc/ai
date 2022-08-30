@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-30T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/30/ai-ethics-asking-aloud-whether-large-language-models-and-their-bossy-believers-are-taking-ai-down-a-dead-end-path/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/08/30/ai-ethics-asking-aloud-whether-large-language-models-and-their-bossy-believers-are-taking-ai-down-a-dead-end-path/"
 type: article
+quality: 45
+heat: 45
+published: false
 
 provider:
   name: Forbes

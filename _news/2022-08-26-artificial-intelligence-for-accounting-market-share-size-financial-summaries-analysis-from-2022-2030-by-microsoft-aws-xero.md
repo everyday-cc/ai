@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-share-size-financial-summaries-analysis-from-2022-2030-by--microsoft-aws-xero-2022-08-26"
 type: article
 quality: 72
-heat: 82
+heat: 72
 published: true
 
 provider:
@@ -28,17 +28,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "How a former Microsoft researcher used AI to grow award-winning lettuce from 5,000 miles away"
-    excerpt: "It’s pretty impressive to grow award-winning lettuce in a greenhouse competition against 42 teams from nearly two dozens countries. It’s even more remarkable when you do it from 5,000 miles… Read More"
-    publishedDateTime: 2022-08-25T21:43:00Z
-    webUrl: "https://www.geekwire.com/2022/how-a-former-microsoft-researcher-used-ai-to-grow-award-winning-lettuce-from-5000-miles-away/"
-    type: article
-    provider:
-      name: GeekWire
-      domain: geekwire.com
-    quality: 53
 
 secured: "FpJuOpqa+r3yrRzGsN0Pi2QxliD4OZcveErgz5YE0AEtsZ7ZpU+toJOfsrf+7zZl2P4sDlsCHsSJ4FuslM0fNEVKZQXaxuRYQBoL9/+dgyespbE7eo/htQgAPF541s6LXyuPbb3q72FUVvC8uHy+HFQIQRysK2DbQbAjOUdT/wo9TYH3DpiDFl3f3KPJu1+ldXaNw/J0Sea9QHsyrmguhUcDkIGepzbJIsRa0ngyxmm0djeLw6Jnpx5QUT8qxaHl9MCy+yI68TVkwEPI1wck0/e4YYLgT+fxCoBYikMwqAvAGclhWBpUNYiOdHwYj/mmB2y4VkcNjAtOgOHqs5MhIgRen+Xbjnt4kwWLmvxoJvs=;NRjF6T56dsh0wYYPnWcvfw=="
 ---

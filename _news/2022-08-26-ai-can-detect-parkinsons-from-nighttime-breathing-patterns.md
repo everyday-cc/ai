@@ -40,6 +40,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "AI Detects Parkinson’s Disease from Nocturnal Breathing"
+    excerpt: "There are over 10 million people worldwide living with Parkinson’s disease (PD) according to the Parkinson’s Foundation. A new study published in Nature Medicine shows how artificial intelligence (AI) machine learning can detect Parkinson’s disease and monitor its progression from nocturnal breathing."
+    publishedDateTime: 2022-08-30T13:31:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202208/ai-detects-parkinson-s-disease-nocturnal-breathing"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202208/ai-detects-parkinson-s-disease-nocturnal-breathing?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202208/ai-detects-parkinson-s-disease-nocturnal-breathing?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-08/pic1166.gif.jpg?itok=1yCRk8y8"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "Breakthrough in detecting Parkinson’s using AI and breathing patterns"
     excerpt: "An MIT Jameel Clinic-developed device with the appearance of a Wi-Fi router uses a neural network to discern the presence and severity of one of the fastest-growing neurological diseases in the world"
     publishedDateTime: 2022-08-28T11:30:00Z
@@ -53,20 +69,6 @@ related:
       - url: "https://static.zawya.com/version/c:M2ZhMjgwNjEtZjYxMi00:NzBhNTEz/edroom-jpg.jpg?f=3%3A2"
         width: 889
         height: 593
-        isCached: true
-  - title: "Effects of Exercise on Parkinson's Disorders"
-    excerpt: "and lead to neuroprotection and maybe even neurorestoration. Ultimately, this would would/could cause for an improvement in the motor, cognitive and variety of other non-motor symptoms in PD."
-    publishedDateTime: 2022-08-25T20:11:00Z
-    webUrl: "https://www.csus.edu/college/health-human-services/center-health-practice-policy-research/research/effects-exercise-parkinsons-disorders.html"
-    type: article
-    provider:
-      name: Sacramento State University
-      domain: csus.edu
-    quality: 24
-    images:
-      - url: "https://www.csus.edu/newcsus2019-global-assets/_internal/images/logo/primary-vertical/primary_vertical_2_color_gld_hnd.png"
-        width: 394
-        height: 399
         isCached: true
   - title: "AI Model Detects Parkinson’s From Breathing Patterns"
     excerpt: "A team of researchers at MIT has developed an artificial intelligence (AI) model that can detect Parkinson’s from reading a person’s breathing patterns.  The neural network is able to assess a person’s nocturnal breathing,"

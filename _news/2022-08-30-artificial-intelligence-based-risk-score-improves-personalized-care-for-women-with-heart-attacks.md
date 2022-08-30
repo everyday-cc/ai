@@ -7,7 +7,7 @@ originalUrl: "https://www.news-medical.net/news/20220829/Artificial-intelligence
 webUrl: "https://www.news-medical.net/news/20220829/Artificial-intelligence-based-risk-score-improves-personalized-care-for-women-with-heart-attacks.aspx"
 type: article
 quality: 26
-heat: 26
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,83 @@ images:
     width: 620
     height: 480
     isCached: true
+
+related:
+  - title: "AI to Treat Women with Heart Problems"
+    excerpt: "Women are more likely than men to die from heart attacks. The causes are age disparities and the burdens of comorbidities, which makes risk assessment in women difficult."
+    publishedDateTime: 2022-08-30T14:52:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13195"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=13195"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=13195"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 59
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13195_16618709843685787.jpg"
+        width: 1000
+        height: 666
+        isCached: true
+  - title: "Artificial Intelligence can help in treatment of heart attacks among women: Study"
+    excerpt: "The issue begins with the symptoms: unlike males, who typically experience chest pain spreading to the left arm, a heart attack in women frequently appears as abdomen discomfort radiating to the back or nausea and vomiting."
+    publishedDateTime: 2022-08-30T08:49:00Z
+    webUrl: "https://www.timesnownews.com/health/artificial-intelligence-can-help-in-treatment-of-heart-attacks-among-women-study-article-93875489"
+    ampWebUrl: "https://www.timesnownews.com/health/artificial-intelligence-can-help-in-treatment-of-heart-attacks-among-women-study-article-93875489/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/health/artificial-intelligence-can-help-in-treatment-of-heart-attacks-among-women-study-article-93875489/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 54
+    images:
+      - url: "https://static.tnn.in/thumb/msid-93875489,imgsize-100,width-1280,height-720,resizemode-75/93875489.jpg"
+        width: 1280
+        height: 720
+        isCached: true
+  - title: "Artificial Intelligence Improves Treatment in Women with Heart Attacks"
+    excerpt: "Heart attacks in women are more likely to be fatal than in men. The reasons are differences in age and in comorbidity burden which makes risk assessment in women a challenge. Researchers have now developed a novel artificial-intelligence-based risk score that improves personalized care for female patients with heart attacks."
+    publishedDateTime: 2022-08-29T19:01:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/08/220829112918.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 49
+  - title: "Study finds Artificial Intelligence helps in treating Women with heart attacks"
+    excerpt: "Heart attacks are one of the main causes of death worldwide, with women having a greater mortality rate than men. Cardiologists have been concerned about this for decades, and it has sparked debate in the medical community regarding the reasons and repercussions of potential gaps in treatment."
+    publishedDateTime: 2022-08-29T16:43:00Z
+    webUrl: "https://theprint.in/health/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/1106846/"
+    ampWebUrl: "https://theprint.in/health/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/1106846/?amp"
+    cdnAmpWebUrl: "https://theprint-in.cdn.ampproject.org/c/s/theprint.in/health/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/1106846/?amp"
+    type: article
+    provider:
+      name: ThePrint
+      domain: theprint.in
+    quality: 35
+  - title: "Study finds Artificial Intelligence helps in treating Women with heart attacks"
+    excerpt: "Heart attacks are one of the main causes of death worldwide with women having a greater mortality rate than men Cardiologists have been concerned about this f"
+    publishedDateTime: 2022-08-29T19:13:00Z
+    webUrl: "https://www.bignewsnetwork.com/news/272686119/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks"
+    type: article
+    provider:
+      name: Big News Network.com
+      domain: bignewsnetwork.com
+    quality: 35
+    images:
+      - url: "https://cdn.bignewsnetwork.com/ani1661797459.jpg"
+        width: 630
+        height: 420
+        isCached: true
+  - title: "Artificial Intelligence Enhances Heart Attack Treatment In Women"
+    excerpt: "The use of artificial intelligence for the management of heart attacks both in male and female patients will improve the survival of patients."
+    publishedDateTime: 2022-08-29T18:13:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-enhances-heart-attack-treatment-in-women-208444-1.htm"
+    type: article
+    provider:
+      name: Medindia
+      domain: medindia.net
+    quality: 19
 
 secured: "CGflCsEpn2G6+FH/rTnyliKcyscZS0jPeBANb+bRZPjhoHJSQk6/6Uo/lF4nIeeSa/dBfo84ee1kjlKwtS//AbIPlhzkOghl39qjtuJ8J7z6lsaWYEMov9I++qiSwDr8YT7F5G/NTQRaP968w773IPXaxiVY6RblKp87S7ipCBKpmevfdaGEl4ek3zremOx7j+KrsKspFaYCvDAw8WryaxYbICDLtGZ4hlrYgADlf8hdAPc/XzVLqVzjEB6f1lAaVa8XLUrHJvmGUinfov68dR21owOT7GxWOtxWKCSdiVyUrsz46k5wx5oO/F5DPdyI/MEA9Ft1sRI/XyDBjcOu0r/+/KQYbZ0iOtlKSVNwc9M=;QoNFjiMq/zPIcEmNpFFQ3Q=="
 ---

@@ -35,6 +35,22 @@ related:
         width: 1200
         height: 676
         isCached: true
+  - title: "AI Detects Parkinson’s Disease from Nocturnal Breathing"
+    excerpt: "There are over 10 million people worldwide living with Parkinson’s disease (PD) according to the Parkinson’s Foundation. A new study published in Nature Medicine shows how artificial intelligence (AI) machine learning can detect Parkinson’s disease and monitor its progression from nocturnal breathing."
+    publishedDateTime: 2022-08-30T13:31:00Z
+    webUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202208/ai-detects-parkinson-s-disease-nocturnal-breathing"
+    ampWebUrl: "https://www.psychologytoday.com/us/blog/the-future-brain/202208/ai-detects-parkinson-s-disease-nocturnal-breathing?amp"
+    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/us/blog/the-future-brain/202208/ai-detects-parkinson-s-disease-nocturnal-breathing?amp"
+    type: article
+    provider:
+      name: Psychology Today
+      domain: psychologytoday.com
+    quality: 57
+    images:
+      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-08/pic1166.gif.jpg?itok=1yCRk8y8"
+        width: 1528
+        height: 800
+        isCached: true
   - title: "Breakthrough in detecting Parkinson’s using AI and breathing patterns"
     excerpt: "An MIT Jameel Clinic-developed device with the appearance of a Wi-Fi router uses a neural network to discern the presence and severity of one of the fastest-growing neurological diseases in the world"
     publishedDateTime: 2022-08-28T11:30:00Z
@@ -62,20 +78,6 @@ related:
       - url: "https://d2jx2rerrg6sh3.cloudfront.net/images/news/ImageForNews_723435_16614783056225644.jpg"
         width: 1000
         height: 667
-        isCached: true
-  - title: "Effects of Exercise on Parkinson's Disorders"
-    excerpt: "and lead to neuroprotection and maybe even neurorestoration. Ultimately, this would would/could cause for an improvement in the motor, cognitive and variety of other non-motor symptoms in PD."
-    publishedDateTime: 2022-08-25T20:11:00Z
-    webUrl: "https://www.csus.edu/college/health-human-services/center-health-practice-policy-research/research/effects-exercise-parkinsons-disorders.html"
-    type: article
-    provider:
-      name: Sacramento State University
-      domain: csus.edu
-    quality: 24
-    images:
-      - url: "https://www.csus.edu/newcsus2019-global-assets/_internal/images/logo/primary-vertical/primary_vertical_2_color_gld_hnd.png"
-        width: 394
-        height: 399
         isCached: true
 
 secured: "5HVCBGe9CA3XpE4KDxVNaGTzeeKEvoJfyKtX2Al/b8/3iBbKH35ogL7AilMa3levtmehlorxBR7z6Z1gsg4e9ZyGJV3FoeMCFeZJUOg4mPzLREYbDJdjY4/rfq9j6SjY4w4MFKRAQNpk/1xcS9IArEsfYwxL9vAJwyOxOeMA6T9xDgeLfn1P8MWKI2US541x2Wq9OVdgpauJVvzUg52zTAtiAnyo2YSGfYCVulzc83vIsRtJ3vjiXpfkFWJb1rN+gwBALWHSfa3AcWUDaJNHCLKinNGPVW3hTmo3f3Dz2ekawMisgoSDJiZgUybjDoGfqH+ZkgJ98FHTtcMcYQZxkcP/1NByG4K7cR7z7/pBrsIqfbk1Rkdvk5wh0M2ZH8Qf05mSBitigOQjabay57IOn5OBLnq/QFP7qO+G2HiSzyjDZdzKZ8adu4NS3HM0ZzR3wkGAVx9+jT0bZKmVLZAFnlqhqWd6bXJz3QqNhAJ1tBY8pw++1YdzrcPRaF6QwrbQLg2vicTj5jBsUmuSK9dCRw==;Lpj5xAGn0Vhmcrlyoxw0vw=="

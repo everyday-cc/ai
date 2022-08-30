@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-30T12:59:00Z
 originalUrl: "https://channelbuzz.ca/2022/08/dell-technologies-vmware-introduce-three-new-major-announcements-around-new-integrations-39637/"
 webUrl: "https://channelbuzz.ca/2022/08/dell-technologies-vmware-introduce-three-new-major-announcements-around-new-integrations-39637/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Channel Buzz

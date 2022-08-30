@@ -21,6 +21,22 @@ topics:
   - AI in Healthcare
 
 related:
+  - title: "AI to Treat Women with Heart Problems"
+    excerpt: "Women are more likely than men to die from heart attacks. The causes are age disparities and the burdens of comorbidities, which makes risk assessment in women difficult."
+    publishedDateTime: 2022-08-30T14:52:00Z
+    webUrl: "https://www.azorobotics.com/News.aspx?newsID=13195"
+    ampWebUrl: "https://www.azorobotics.com/amp/news.aspx?newsID=13195"
+    cdnAmpWebUrl: "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=13195"
+    type: article
+    provider:
+      name: Azorobotics
+      domain: azorobotics.com
+    quality: 59
+    images:
+      - url: "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13195_16618709843685787.jpg"
+        width: 1000
+        height: 666
+        isCached: true
   - title: "Artificial Intelligence can help in treatment of heart attacks among women: Study"
     excerpt: "The issue begins with the symptoms: unlike males, who typically experience chest pain spreading to the left arm, a heart attack in women frequently appears as abdomen discomfort radiating to the back or nausea and vomiting."
     publishedDateTime: 2022-08-30T08:49:00Z
@@ -36,22 +52,6 @@ related:
       - url: "https://static.tnn.in/thumb/msid-93875489,imgsize-100,width-1280,height-720,resizemode-75/93875489.jpg"
         width: 1280
         height: 720
-        isCached: true
-  - title: "Robots are much better than doctors at spotting heart attacks in women, experts find"
-    excerpt: "ROBOTS are much better than doctors at spotting heart attacks in women, experts have found. Medics are 50 per cent more likely to miss a potentially fatal cardiac problem in females than they are"
-    publishedDateTime: 2022-08-27T22:41:00Z
-    webUrl: "https://www.thesun.co.uk/health/19638535/robots-better-doctors-heart-attacks-women/"
-    ampWebUrl: "https://www.thesun.co.uk/health/19638535/robots-better-doctors-heart-attacks-women/amp/"
-    cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/health/19638535/robots-better-doctors-heart-attacks-women/amp/"
-    type: article
-    provider:
-      name: The Sun
-      domain: thesun.co.uk
-    quality: 52
-    images:
-      - url: "https://www.thesun.co.uk/wp-content/uploads/2022/08/OFFPLAT_TRP_ROBOTSURGERY.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
-        width: 1920
-        height: 1080
         isCached: true
   - title: "Artificial Intelligence Improves Treatment in Women with Heart Attacks"
     excerpt: "Heart attacks in women are more likely to be fatal than in men. The reasons are differences in age and in comorbidity burden which makes risk assessment in women a challenge. Researchers have now developed a novel artificial-intelligence-based risk score that improves personalized care for female patients with heart attacks."
@@ -75,6 +75,20 @@ related:
       - url: "https://cdn.bignewsnetwork.com/ani1661797459.jpg"
         width: 630
         height: 420
+        isCached: true
+  - title: "Artificial intelligence-based risk score improves personalized care for women with heart attacks"
+    excerpt: "Heart attacks in women are more likely to be fatal than in men. The reasons are differences in age and in comorbidity burden which makes risk assessment in women a challenge."
+    publishedDateTime: 2022-08-29T17:14:00Z
+    webUrl: "https://www.news-medical.net/news/20220829/Artificial-intelligence-based-risk-score-improves-personalized-care-for-women-with-heart-attacks.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 26
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
   - title: "Artificial Intelligence Enhances Heart Attack Treatment In Women"
     excerpt: "The use of artificial intelligence for the management of heart attacks both in male and female patients will improve the survival of patients."

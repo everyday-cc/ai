@@ -35,6 +35,22 @@ related:
         width: 800
         height: 494
         isCached: true
+  - title: "How advanced analytics and machine learning are transforming the role of ‘Finance Controllers’"
+    excerpt: "Equipping Financial Controllers with predictive capabilities, advanced analytics and ML will help them elevate their role from providing back-office support to business partnering. The role of a finance controller is changing. It is expected that ..."
+    publishedDateTime: 2022-08-30T14:39:00Z
+    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers/"
+    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers/"
+    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers/"
+    type: article
+    provider:
+      name: Indiatimes
+      domain: indiatimes.com
+    quality: 64
+    images:
+      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/anshuman.jpg"
+        width: 400
+        height: 400
+        isCached: true
   - title: "Conference on healthcare data analytics"
     excerpt: "A two-day conference on healthcare data analytics was organised by The Sankara Nethralaya Academy in hybrid mode. The conference was inaugurated by Girish Shiva Rao, president of Medical Research Foundation,"
     publishedDateTime: 2022-08-28T14:49:00Z
@@ -74,6 +90,15 @@ related:
         width: 300
         height: 250
         isCached: true
+  - title: "UF Partners with SAS to Tackle Water Quality Challenges with Analytics"
+    excerpt: "The project will evaluate the connections between water quality and key economic sectors in the region. As part of the yearlong project, SAS and CCS will use SAS Viya on Microsoft Azure to develop a web-based water analytics platform to integrate a diversity of data streams to facilitate scientific research,"
+    publishedDateTime: 2022-08-30T14:18:00Z
+    webUrl: "https://www.datanami.com/this-just-in/uf-partners-with-sas-to-tackle-water-quality-challenges-with-analytics/"
+    type: article
+    provider:
+      name: datanami.com
+      domain: datanami.com
+    quality: 4
 
 secured: "VS0FkwMiY06AMxmNWn5QTSX8jwvO8BUfDVFO9H+WNOCtsP5CcY5FHhw2yZ6cX3n28HSr56Deq24iCThko2V7EcxoEm+Lt/FmnkQ8cahbX852E5w4/BmBh+BS3UBBRoYzbRKmlj61GSXWYRBCtbzgWUD3qU446LRWnOw3AyJImBKYgF5HK0n6EN5YYt9MOHFms7lZjTUbt937BWcYO2rOVk4nmpDSzlXqIDguSJOVR+3CcE+tTjiIEnTpHLZzH8GyPQWORZ+bLdTSu5l45aARZsZ7W0utM4001lg605EIXoYE/gUrV1tqzjirxS7AYLN8F+3Jvp9gZMFIoZXxCBm/esI1vU2XD0k8ZXX74RIaTFY=;1x7Wjsrjow23taux2/wLJA=="
 ---

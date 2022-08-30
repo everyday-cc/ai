@@ -9,7 +9,7 @@ ampWebUrl: "https://indianexpress.com/article/lifestyle/health-specials/ai-vascu
 cdnAmpWebUrl: "https://indianexpress-com.cdn.ampproject.org/c/s/indianexpress.com/article/lifestyle/health-specials/ai-vascular-inflammation-covid-19-patients-8115182/lite/"
 type: article
 quality: 57
-heat: 57
+heat: 67
 published: false
 
 provider:
@@ -24,6 +24,17 @@ images:
     width: 1200
     height: 667
     isCached: true
+
+related:
+  - title: "Using AI to predict COVID surges"
+    excerpt: "A team of researchers recently developed an artificial intelligence model that can predict which coronavirus variants will likely dominate and cause surges. The work was led by Jacob Lemieux, an assistant professor of medicine at Harvard Medical School and Massachusetts General Hospital,"
+    publishedDateTime: 2022-08-30T13:45:00Z
+    webUrl: "https://medicalxpress.com/news/2022-08-ai-covid-surges.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 17
 
 secured: "x5nmBlj6tzXvdvDf7qDSvdXtam+3elw5zCxaBek+4IJJ4f0RU4bWqd3jdtiRUgsDF5teqmXshwd/t0WBWSAFgocIC4EKfPhvgoK0yty2pkcxwkucaG7ZUr+tFN4VjY1SfWNBHptLw3pHD+rx4++E2zSUiBal3K/pvSojJTsC3rd7kRsQEAz5MG4C2lWgWSqEdFr3/UbHBcHfVGmHLzqCGdKsqNX+zxK2ybQcP4Yvi01P3Vf3Dz2OkOGIj+Gm78r1Hmf59nj3zecLferOw/eRf0491r+qPLsBhgXBVjdEwuFX3zH9h8d1w1JIj4RBka3prWYVQPP8A4NSvE6MekdxiEzrRbu5Tu8K8+2ozjaa14c=;Yw1szsnLY37rDMv8YMNtAQ=="
 ---

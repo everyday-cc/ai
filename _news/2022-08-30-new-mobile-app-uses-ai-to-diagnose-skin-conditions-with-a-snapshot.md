@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-30T12:40:00Z
 originalUrl: "https://www.ibtimes.com/new-mobile-app-uses-ai-diagnose-skin-conditions-snapshot-3607193"
 webUrl: "https://www.ibtimes.com/new-mobile-app-uses-ai-diagnose-skin-conditions-snapshot-3607193"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: International Business Times

@@ -3,27 +3,27 @@ category: news
 title: "AWS Launches Region in the United Arab Emirates"
 excerpt: "AWS is committed to helping customers in the UAE deploy the most advanced cloud technologies and achieve the highest levels of security, availability, and resiliency,” said Prasad Kalyanaraman, vice president of Infrastructure Services at AWS."
 publishedDateTime: 2022-08-30T06:27:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
-webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
+originalUrl: "https://www.bakersfield.com/ap/news/aws-launches-region-in-the-united-arab-emirates/article_bc472ba4-0945-559c-90a6-ad4084f5f93f.html"
+webUrl: "https://www.bakersfield.com/ap/news/aws-launches-region-in-the-united-arab-emirates/article_bc472ba4-0945-559c-90a6-ad4084f5f93f.html"
 type: article
 quality: 39
 heat: 39
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: The Bakersfield Californian
+  domain: bakersfield.com
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://bloximages.newyork1.vip.townnews.com/bakersfield.com/content/tncms/custom/image/d09180fc-6bee-11e7-8b72-ff928e2e17d5.png?resize=600%2C315"
+    width: 600
+    height: 315
     isCached: true
 
-secured: "JgNQwGyIjY43EkO5zVPbrHXk7DOCF+Ds7vkgf4J1COaxvTR1XT3dh4m6qJe05/b8hRI9HcGkd+egDFKLKEI5gKnXcN4+5i6gO/noltUE5ghFN7edhoGbT2muoCxc+8QTsFUUmfBx2fRpF6jISbEnBooPKf5K2LPl5rzknIJjiQOsEnzlLhPcckf4i2FX9jgt8VVrhL+orhb9B9TKzxdvjVkZHghk+Noo6pa/dOWXWpohJl/d7ojTx+UbRJfG2fDiy7LAH1iWhwnjpLKmQSAYTJUVCSvd8JCdtJd1ques5clKfdQnVbHCICLU/nVEn24iIKySBcpNqKdYfz/upYiQJy0pH6WC0slgU7M1GCxD+cM=;PPpJyPozK8g6yrOdGdMD6g=="
+secured: "5MGhUtRvYmp85Iv/BGPDzt2+eTqY5FVuq6zqJziFC1yMpjComX4M5BlDUn7dI63vj2zkkCM4bj2S57oavjdJoLAmsS8IJf9XjFe/sZOD2/Y6BZuf+POsxU7327G3d46gOb+EqYIHo+rwQNsYUWnHySjOu6f1Ts20FzMlTPo1Np7SaHVPAw7jiDiBYpk+pjE7UygwrxffVsdbGI0lcALkQv/Zdot0qCqi3pyELdbgcT2OhuhJAGwzglhDYb0xPDylz69ZLVwNjSHPLIAF+ZZyx28C3Uh14md7lRjjKpyg42Mv6p6e8xrtyo0aaaEMN/k9mSY4ruFBQWgw6AfNol2P45rIF96G7duX8iADQRKbQpc=;eFzAZXgP40spwQriKj43Bw=="
 ---
 

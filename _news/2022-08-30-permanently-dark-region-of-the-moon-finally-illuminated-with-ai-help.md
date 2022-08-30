@@ -35,6 +35,20 @@ related:
         width: 1286
         height: 643
         isCached: true
+  - title: "A new AI can finally illuminate the Moon's darkest places"
+    excerpt: "The Moon's rotation ensures it gets consistent sun around its equator. However, some pockets never receive any rays, deep craters, and pocks at high latitudes, as well as the Moon's polar regions, which have high walls that protect the crater floor from harsh solar radiation."
+    publishedDateTime: 2022-08-30T15:38:00Z
+    webUrl: "https://interestingengineering.com/innovation/new-ai-illuminate-moons-darkest-places"
+    type: article
+    provider:
+      name: Interesting Engineering
+      domain: interestingengineering.com
+    quality: 37
+    images:
+      - url: "https://inteng-storage.s3.amazonaws.com/2022/08/30/image/jpeg/jOBQAgfPdKm0KUUC8sTLUuEgmespDS1LNKYuGztV.jpg"
+        width: 1920
+        height: 1080
+        isCached: true
 
 secured: "1F+ALwdpMCgkY7whVeOdfR+CdaJKqbNlUITAg59TL/FPp6QlTL3Fshkwd50PAuOWgMhAtSY6O73Z+OGXvarA9ybOJUyf4iT+jFwxV1Zchn/zp1uIzfCNt+D5fW9eoAh8hGaUiaHL+4X9zCNedkY+SK/RPCkrZhECoe00KG0JLY33Qtf1vGN+TknE3gAuvfOlz58YKFlzvTg760njokm6sj7yHL9xS+bZXQmIn+mm0BcXKc8AMpWwqWRKaFJWUwu7mja+jnGoFCTPk5xZ4heVMtbWkLD3k0uLMzkUY2Fz/KnSqsYrXF3e8ukmNRGe88sfJXeUIMWP4mJH6SY2c7Xuz3N/xTB5pLHwT26YqYoBg2E=;a8nR+gcplccAo338tTeBWQ=="
 ---

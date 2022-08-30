@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-30T13:00:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/30/using-the-team-one-team-two-approach-to-recruiting-and-retaining-in-the-face-of-tech-turnover/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/30/using-the-team-one-team-two-approach-to-recruiting-and-retaining-in-the-face-of-tech-turnover/"
 type: article
+quality: 36
+heat: 36
+published: false
 
 provider:
   name: Forbes

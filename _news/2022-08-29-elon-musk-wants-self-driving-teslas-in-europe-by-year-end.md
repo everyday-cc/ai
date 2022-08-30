@@ -77,6 +77,34 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Tesla aims for self-driving vehicle approval by end of the year"
+    excerpt: "A new Tesla ( TSLA) full self-driving beta is going out to 1K people this week, with potentially 10K people being added to the beta if no major issues are seen. In regard to safety, the electric vehicle maker is utilizing a five-strike system focused on ensuring that FSD Beta testers are paying attention as they test the software."
+    publishedDateTime: 2022-08-29T11:17:00Z
+    webUrl: "https://seekingalpha.com/news/3877348-tesla-aims-for-self-driving-vehicle-approval-by-end-of-the-year"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 54
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/187005526/image_187005526.jpg?io=getty-c-w750"
+        width: 750
+        height: 500
+        isCached: true
+  - title: "Elon Musk aims to release full self-driving Tesla cars by end of year"
+    excerpt: "While speaking at the ONS 2022 energy conference, Tesla CEO Elon Musk commented on the company's full self-driving vehicle technology."
+    publishedDateTime: 2022-08-30T09:01:00Z
+    webUrl: "https://www.cbtnews.com/elon-musk-aims-to-release-full-self-driving-tesla-cars-by-end-of-year/"
+    type: article
+    provider:
+      name: cbtnews
+      domain: cbtnews.com
+    quality: 54
+    images:
+      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2022/08/Elon-Musk.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Musk aiming for widespread release of self-driving Teslas by end of year"
     excerpt: "Elon Musk says that he aims to get Tesla's self-driving technology ready for wide release in the US, and possibly Europe, by the end of the year. Nasa has postponed for at least four days the launch of its colossal next-generation rocket, Artemis I ..."
     publishedDateTime: 2022-08-29T15:34:00Z
@@ -105,6 +133,57 @@ related:
         width: 1200
         height: 799
         isCached: true
+  - title: "Elon Musk says that the self-driving Tesla could be ready by the end of the year"
+    excerpt: "After a six-year wait, Musk says he's aiming for the self-driving technology to be released by the end of this year. However, precedent points to this being unlikely."
+    publishedDateTime: 2022-08-29T19:07:00Z
+    webUrl: "https://www.zdnet.com/article/elon-musk-says-that-the-self-driving-tesla-could-be-ready-by-the-end-of-the-year/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 44
+  - title: "Tesla defends self-driving software"
+    excerpt: "Tesla has defended its self-driving software after videos of cars running over child-size mannequins hit the internet. Added14 minutes ago A Los Angeles police officer has saved a baby's life using CPR,"
+    publishedDateTime: 2022-08-26T08:53:00Z
+    webUrl: "https://www.9news.com.au/videos/world/tesla-defends-self-driving-software/cl7a80lxi000s0jo457zvemxd"
+    type: article
+    provider:
+      name: Nine News Australia
+      domain: 9news.com.au
+    quality: 39
+    images:
+      - url: "https://vms-network-images-prod.s3-ap-southeast-2.amazonaws.com/2022/08/450137/pickerimage.jpg"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Musk focused on getting self-driving Teslas in wide release by year-end"
+    excerpt: "Tesla chief Elon Musk said today he aimed to get the electric automaker's self-driving technology ready by the end of the year. He also said it hopes it could be in wide release in the US and possibly in Europe, depending on regulatory approval. Speaking ..."
+    publishedDateTime: 2022-08-29T11:55:00Z
+    webUrl: "https://www.rte.ie/news/business/2022/0829/1319400-musk-on-self-drive-cars-energy/"
+    type: article
+    provider:
+      name: RTE Online
+      domain: www.rte.ie
+    quality: 39
+    images:
+      - url: "https://img.rasset.ie/001c5de0-1600.jpg"
+        width: 1600
+        height: 900
+        isCached: true
+  - title: "Musk says he wants to get Tesla's self-driving tech in wide release by year-end"
+    excerpt: "Elon Musk hopes Tesla’s self-driving technology could be in wide release in the U.S. by the end of the year, and possibly also in Europe, depending on regulatory approval."
+    publishedDateTime: 2022-08-29T13:24:00Z
+    webUrl: "https://www.autonews.com/mobility-report/why-elon-musk-thinks-he-can-get-teslas-self-driving-tech-wide-release-year-end"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 35
+    images:
+      - url: "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/Tesla%20self%20drive%20rtrs%20web_2.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Elon Musk Hits Out At Beta Tester For “Complaining” About Full Self-Driving Beta"
     excerpt: "Musk quickly clapped back at Locke on Twitter, telling him that he shouldn’t complain having previously asked to be included in early releases of Tesla’s Full Self-Driving beta software. “10.69 is in limited release for a reason."
     publishedDateTime: 2022-08-26T16:00:00Z
@@ -116,6 +195,62 @@ related:
       name: Carscoops
       domain: carscoops.com
     quality: 34
+  - title: "Elon Musk says Tesla aims to roll out self-driving cars by year end"
+    excerpt: "Tesla is aiming to have its self-driving technology ready and widely available by the end of 2022, CEO Elon Musk announced Monday. Musk made the comments during an energy conference in Norway, saying the vehicles will not need human drivers."
+    publishedDateTime: 2022-08-29T19:13:00Z
+    webUrl: "https://nypost.com/2022/08/29/elon-musk-says-tesla-aims-to-roll-out-self-driving-cars-by-year-end/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 34
+  - title: "Elon Musk Says Full Self-Driving Will Be ‘Self-Driving’ This Year, Maybe"
+    excerpt: "Elon Musk is sure that this is the year Tesla’s Full Self-Driving system finally learns to self-drive, Honda is investing $4.5 billion in a U.S. battery plant, and France will offer EV leasing for as little as $100 a month."
+    publishedDateTime: 2022-08-29T14:30:00Z
+    webUrl: "https://jalopnik.com/elon-musk-says-full-self-driving-will-be-self-driving-1849468102"
+    ampWebUrl: "https://jalopnik.com/elon-musk-says-full-self-driving-will-be-self-driving-1849468102/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/elon-musk-says-full-self-driving-will-be-self-driving-1849468102/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 23
+  - title: "Elon Musk wants self-driving US Teslas ready by year end – report"
+    excerpt: "Tesla founder Elon Musk has said he aimed to get self driving Teslas ready by the end of 2022 and hoped they could be in wide release in the United States and possibly in Europe, depending on regulatory approval,"
+    publishedDateTime: 2022-08-30T11:23:00Z
+    webUrl: "https://www.just-auto.com/news/elon-musk-wants-self-driving-us-teslas-ready-by-year-end-report/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 19
+  - title: "Musk Focused On Getting Self-Driving Teslas In Wide Release By Year-End"
+    excerpt: "Tesla chief Elon Musk said on Monday he aimed to get the electric auto maker's self-driving technology ready by year-end and hopes it could be in"
+    publishedDateTime: 2022-08-29T19:52:00Z
+    webUrl: "https://menafn.com/1104776987/Musk-Focused-On-Getting-Self-Driving-Teslas-In-Wide-Release-By-Year-End"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 19
+  - title: "Musk focuses on getting Tesla's self-driving tech in wide release by year-end"
+    excerpt: "Elon Musk hopes Tesla’s self-driving technology could be in wide release in the U.S. by the end of the year, and possibly also in Europe, depending on regulatory approval."
+    publishedDateTime: 2022-08-29T12:29:00Z
+    webUrl: "https://europe.autonews.com/automakers/musk-focuses-getting-teslas-self-driving-tech-wide-release-year-end"
+    type: article
+    provider:
+      name: Automotive News
+      domain: autonews.com
+    quality: 16
+  - title: "Elon Musk says he's focused on wide release of self-driving Teslas by year-end"
+    excerpt: "\"The two technologies I am focused on, trying to ideally get done before the end of the year, are getting our Starship into orbit ... and then having Tesla cars to be able to do self-driving.\""
+    publishedDateTime: 2022-08-29T12:28:00Z
+    webUrl: "https://www.autoblog.com/2022/08/29/tesla-self-driving-end-of-2022-elon-musk/"
+    type: article
+    provider:
+      name: Autoblog
+      domain: autoblog.com
+    quality: 15
 
 secured: "UFOxWe+4ZGZ4Vbth1ifKKvngIuEklvmc8T+Xpck+R9oGuNfoBJQCI3Fu/a+AtPZ7SYsCgGW2xufU2yqHSke54F59o42QI6aP4188EOxhkVFiMEW/xsY+ELArW3Z4UaepiYKhAJSHdKa800fzqARCh93TdOvd+ha7UMUbihd607oyT4t8Vwt9eF1+Yn5dnI7mtcS3dwR9ChjWzyoUBDzvFe85DE0oGB5N48svTyCS0mFRaKPZnWeD2S8f/WZd6LAQwxKeaC1wH39bGnQer48SyiP3b9NBhveJ6T+q7kKzv1Zmyk+57qVgaUogaecxrZveLBzJEhzhv8P+BUt8MzC33aCcYkiQrmr1/fYNT3QS7wru8//8BtJVIyaRSON7sOqEMMT7HqU9xXdcE2wbErNDucnQVbVRI21cFZ2hfNa6HWGhjr0BNVU21MOabOfUfnGtBtcgOAtwggXxbRwK95EiPo+waA+8UvAlw6cQ+vEQ4q8qlX/e3pfjWQGC4I8LPCSO0hFBiehyt10o4ZIj7i9jFg==;PWYcMbnCgTj09s88aDhNkQ=="
 ---

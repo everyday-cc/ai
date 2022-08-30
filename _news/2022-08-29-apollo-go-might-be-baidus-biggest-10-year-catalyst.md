@@ -7,7 +7,7 @@ originalUrl: "https://seekingalpha.com/article/4537659-apollo-go-might-be-baidus
 webUrl: "https://seekingalpha.com/article/4537659-apollo-go-might-be-baidus-biggest-10-year-catalyst"
 type: article
 quality: 39
-heat: 39
+heat: -1
 published: false
 
 provider:
@@ -23,6 +23,24 @@ images:
     width: 750
     height: 490
     isCached: true
+
+related:
+  - title: "Baidu’s (BIDU) Apollo Go service strikes 1 million EV autonomous ride milestone in China"
+    excerpt: "Chinese tech giant Baidu (BIDU) beat Wall Street’s Q2 earnings estimates on Tuesday despite several headwinds in China’s economy. Baidu’s Apollo Go, its robotaxi business, unveiled its next-gen autonomous EV,"
+    publishedDateTime: 2022-08-30T14:56:00Z
+    webUrl: "https://electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/"
+    ampWebUrl: "https://electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/amp/"
+    cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/amp/"
+    type: article
+    provider:
+      name: Electrek
+      domain: electrek.co
+    quality: 80
+    images:
+      - url: "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Baidu-Apollo-Go.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "EcJ9PqG0vI3Q+/DbrAY9Rs/9It/iDcJiZ3zBBGkdqif5Wf4uXRcRPtXyPhGMmv+Dk0H3ZosLjXKGYx8LCIDZeCBkrCrn2q/2gjjWzfEJHBrCI1KURDLAN0YEWTGKgXc68NjJFucgaCYRm8b7qlPv2XymZTWhYkIjN/+sh9RWcCpon70kvFzDSWNL1DmEq2iQgHL/apwpthoand5EUsCtoSCZe8x1m/6oPSOao0kUMU9xa+n/1PhrvCNI8fZJA7wnfz8i/bs0Sv9dYGsGll+olVFBvymXzW/DDT46oKPL8sHRi2PJRoDqJZThpk7Ib16EIKbDwCF6nbiZ8IIee/E+xagZNAZyDVooZbnqDKzUbNtUWRJKpS8wazj2jA2HJwfD0Q6si7UVW/9ag/wNnWdwQOQSO/1x7weuzvxJy+1nLCpTyfi/YBfNYoLJigvvn6yUCK1dQ8gFYfylipizeJJD3tXAccS5Y8ki0oJeIOzQKY5btLCnNaENK4/iEofZ0KM5LPPHRYeVu+lXa4KUPpiOsg==;XQ0xquGldWtPA+vdo1Apww=="
 ---

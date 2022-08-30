@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/making-machine-learning-available-to
 webUrl: "https://analyticsindiamag.com/making-machine-learning-available-to-everyone-story-of-bigml/"
 type: article
 quality: 71
-heat: 72
+heat: 74
 published: true
 
 provider:

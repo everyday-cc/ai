@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-30T13:15:00Z
 originalUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/30/four-tips-for-hiring-ai-candidates-who-will-stick-around/"
 webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/30/four-tips-for-hiring-ai-candidates-who-will-stick-around/"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Forbes

@@ -2,6 +2,49 @@
   "page": 13,
   "value": [
     {
+      "path": "_news/2022-06-10-how-ai-is-useful-and-not-useful-for-cybersecurity.md",
+      "title": "How AI Is Useful — and Not Useful — for Cybersecurity",
+      "excerpt": "Artificial intelligence has advanced greatly in the past decade. On my phone, I'm reading Apple and Google news that is well-tailored to me, thanks to AI recommendation models. Self-driving cars ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.darkreading.com/attacks-breaches/how-ai-is-useful-and-not-useful-for-cybersecurity",
+      "originalUrl": "https://www.darkreading.com/attacks-breaches/how-ai-is-useful-and-not-useful-for-cybersecurity",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://eu-images.contentstack.com/v3/assets/blt66983808af36a8ef/bltde9425c06d16a1b9/629cd4823e67f920b951f264/AI_Prostock-studio_Alamy.jpg",
+          "width": 1290,
+          "height": 745,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-09T19:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Dark Reading",
+        "domain": "darkreading.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-10-driverless-hyundai-ioniq-5-hits-streets-of-seoul.md",
       "title": "Driverless Hyundai Ioniq 5 hits streets of Seoul",
       "excerpt": "The manufacturing giant converted two electric Hyundai Ioniq 5 cars to work as RoboRide taxis, adding new sensors and software to the machines with the help of artificial intelligence specialist ...",
@@ -1290,49 +1333,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-04-firm-proposes-taser-armed-drones-to-stop-school-shootings.md",
-      "title": "Firm proposes Taser-armed drones to stop school shootings",
-      "excerpt": "The publicly traded company, which sells Tasers and police body cameras, floated the idea of a new police drone product last year to its artificial intelligence ethics board, a group of well ...",
-      "sourceUrl": null,
-      "webUrl": "https://dothaneagle.com/lifestyles/technology/article_0d3bcadc-7c60-5540-a660-45449b23fd96.html",
-      "originalUrl": "https://dothaneagle.com/lifestyles/technology/article_0d3bcadc-7c60-5540-a660-45449b23fd96.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/dothaneagle.com/content/tncms/assets/v3/editorial/2/d9/2d9fd710-7dac-5cef-9db1-2a06500b749a/629bab2dcaa32.image.jpg?crop=1920%2C1008%2C0%2C35&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-03T11:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Dothan Eagle",
-        "domain": "dothaneagle.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },
