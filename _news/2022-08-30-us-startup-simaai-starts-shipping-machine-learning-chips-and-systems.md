@@ -19,6 +19,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - AI Hardware
 
 images:
   - url: "https://static.toiimg.com/thumb/resizemode-4,msid-93886418,imgsize-93072,width-800/93886418.jpg"
@@ -37,6 +38,6 @@ related:
       domain: insidebigdata.com
     quality: 21
 
-secured: "Agjb06m4aXnTcW9k5QZvRj2C65+CYc9miKnBXxfpT90trf2WrZPYv5Oikdt/EjHKK7QtQMEdrDdCBMNU209+EWSweBlP1Djs3+TfzPgFcwHVqehLduzW8t/4E1RYqcyFWpAEYANcNgGE0n3slNHWAc7hzqfH459UgufmcKiMw+T3v9LyzcDuS3Dv8C1g5Xx72zJfwpJMSfVg4GiO92vVTY/9jQU8VaRv+zUhmkFhmeAzr9gB+zJxZ4BR5LzvR5mGNNtrSYenJRbHdz6d9C3cilCgK99A4dVvyOVZiFLrMUMxEjnTTYNM3BV/g7iuoduO3SHU0P8XVNfkVx5QE1eZ7ibHINXZg6s2/+HtLO6yL+4=;dBnWRaR/lRKRB8WZkt0VUQ=="
+secured: "RdKOT/WLdxN5NJLhcvXApqEvAUbgZu8WmPYcIHaZEm/V8K45pGp2J/NUFnD63VNUfQjjkfFR+1+aUg1q6/wLyf8gM8kSjkCRVppbgnEQpn5bIBy3cm0FFEKWzqf7zhhll6PXLeCHf5FMTl9aexzh5/mebSF4VDORcKUpcFiVlz1AG+9GbuAqM/Byd251E7oZ9my3IyfyT7SPTNhaLWGDLAQSZo2aJqYyJW6T51NET9odP0IUu6dkaH+/ZA8UTEUi/WnPEJ/kgsnfsyDPYvuziEWbO6hf6ckgii15uTDHMcwSiopCZbaqWiauiAWuS+nNQ8w+KoXtQjqQpwgIkWWV6uoHWW93Yq3CFToQKhWmTL/k7qg8kZb0uh4TvM0yEpMl1tpSvC7+04+wzGv5Ojd/mkGRmnTUo7pSJbbBb8aW9aQy86uIaC6CnkV2tLOzL3A0R8azFYuf6V7+T1odaCeu77CsWOiGLuQ+zzDPjkHau/p9Tol7gsP5Wu+nw5n6wxDLKiKyQ+eyQ2RBTtW4rYmpMw==;+kZ3SeLmaCzLPnmkR4b5Fw=="
 ---
 

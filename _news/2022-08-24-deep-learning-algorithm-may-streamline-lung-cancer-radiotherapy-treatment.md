@@ -5,8 +5,6 @@ excerpt: "More information: Hosny A et al. Clinical Validation of Deep Learning 
 publishedDateTime: 2022-08-23T22:32:00Z
 originalUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html"
 webUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp"
 type: article
 
 provider:
@@ -17,12 +15,6 @@ topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/lung-scan.jpg"
-    width: 2880
-    height: 1966
-    isCached: true
-
-secured: "eAxr5rHY6zhcaiag5AI8CIteCgsxSsjkbRuOmFieDfhS0JRHIJacRMRTeg4ybB6vzolAWJbC2CRT9SnzAKwUAGT0MTZnDu9JqPYzxWAbZA6AFsD6kJi6cGpf6FAr2Z8t/1cGJ/Y2YgIUbQjMT3zPicmnX8kJX1H9eGfyeTcuPFYNUHdePI0qY4R2p4Ii5Pdh5bKLgwNCac2SdB/xC6EmgD1TELG0MHcehYn5kz4n5Oanni80ORMNeo/YTQC3MjsRs0UraPHYdUQhkoMbWqQ33/eQlZqI72u1MX8BXBz3Dgp5NwAFN0OW8iAqMtxDr9tk+r+x0CvDpbxEp6Cz+3bEVO3NcDFguEluklqpOkOSUG8=;54+M1mhqioRmaDb1LvC3ow=="
+secured: "ctbkGRGjVmBpSx4I4F46ftso+DHsmtvJlqEvnFJFyv4smRVd93hluFPfDlDwLYz9ZUTsv4QzcfGvKZj5MHe+FMrxWtdGUs3lLdgtyWOcPIhy5nFYx/9y7SuE/6IU5IvRdEOMYUwK7XYxcCXt9EER2jq2l7kxbV3juva2Q/w4JyvW4AYmUMSLeIgCRXdhduBe+A5jRWwUcEm4RZMpwo6MWBK08UPExJ4shCjtFbCeWqQr729NIlDla4IlMZz8hLJDnU7I1Z658F6wj/ontezmcmkNGmIqY5ndnMoQWZCk0s+mXkz89ePslCiIIRiP9WDVDE0hG/HS5ujSFO+NloTV/buUzdtYuNQNEto/gaUzkjk=;BX0vYtXH7kr+NwgMOq/pxw=="
 ---
 

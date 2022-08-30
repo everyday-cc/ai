@@ -1,0 +1,23 @@
+---
+category: news
+title: "AI Startup Replicant Is Transforming Customer Service Centers By Making Them More Automated—And More Accessible"
+excerpt: "The company is harnessing artificial intelligence and machine learning technology in an effort to remake call centers everywhere."
+publishedDateTime: 2022-08-30T18:19:00Z
+originalUrl: "https://www.forbes.com/sites/stevenaquino/2022/08/30/ai-startup-replicant-is-transforming-customer-service-centers-by-making-them-more-automated-and-more-accessible/"
+webUrl: "https://www.forbes.com/sites/stevenaquino/2022/08/30/ai-startup-replicant-is-transforming-customer-service-centers-by-making-them-more-automated-and-more-accessible/"
+type: article
+
+provider:
+  name: Forbes
+  domain: forbes.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+secured: "58NEP3/NhiV05VC3JUQaJmazMdDg4ysdlaOOHVr8jjlftax56CqKyAPvhgszDx+yyfm+fqlipwmcWOW8PRJkn4IRqj7t6gELLMDXHXTuW3hIDm6QgIWlaYB4YpUTpNT5KZP1rJYoCah0RMR8+i9DQz+ym9Aisw0pgp2hYR11g49oOB+JCsfvLsK46LvrvGqRfQKihRxDIQNOl+Q5uV7j8ozRVH1iTnGvz1nhHvtLOMAkEp3W1WcRHVZv7QXGSrtUyG3MgZeAcZdvra7Q5I/LoCcq92nyly8uGsvkHsu+xSSVNy7vuOq33j2LigGTewNfqerjxIaxLBmiMFZ+z2KpHI7OTyBmMZkLGo8AS++PxGDWae4wKS1SIlVV0q3r7lyXdeT9CnUyOUBDuRgUdw/lfJQydbkkKuDZRQOFNaKA/2JXaBdySRRy48rKmK2gt0qQV2xktW/CGH+AAXWHEzy9OyYDqTiEA33g/uuh56HIyk+C1Den6xTdpAQZoWkiZ6ttzWgMvNjpHotzHEoRzz+kvA==;ymoPPc4ug22xH2mLs78mOQ=="
+---
+

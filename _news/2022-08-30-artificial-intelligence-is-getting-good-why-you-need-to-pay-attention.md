@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI Ethics
 
 images:
   - url: "https://images.firstpost.com/wp-content/uploads/2022/08/ROOSE-COLUMN-3.jpg"
@@ -25,6 +26,6 @@ images:
     height: 363
     isCached: true
 
-secured: "+QZkoChhmQ73B05/Do2EPYdpm40H2Zff5UpaSvCCi/0quBrlus35VBDcdHMK0wq9NcD4KEJZ0osoiZHe92d8LlZMSO2hjf+o6xh2LvqnB5s5jQePxu67S+6YkFFc4x/dSYrTSS9yd3G0IcCIyApWM78HqLmiEDSNG6Ra2SvdbMU20auKndw7vJTn1hAzwIJFBfaJLmey53OInbETVEaFc8C+7QfsLFOpTr1tDdUmThiwstNm1mnLAc2kRg4YvRlODaab1DlHQSVp7Yslj+TNo4an8HiiUeuye0MtHamQRB/eA4alSagEa7mbRwqsDjTr3iHVe6Od/NoeiTZnOjcf8NffYgAHWwrk3w+8uDwH624=;xqP5h1xaLvNUrXJBEPQnlw=="
+secured: "B+uCK+vXWH4nGY32+LDhTBLWl6N0vBypxyXhf0NxrxJs7Ery/wKHMIBiqSjjBpdUnMYlCs6Rm9N89CkbVlIisa6zfJCHqV9VwwvOyDGyz5mE2NgYB5u0R51e47ysVfa77CppC1jA9poIpQ5m42d3d5YiFu9OayuDZIHuPHMNka0ayWfxJbTwnD4cQc1xLPdwqhkHr+0K1yyOVfXAhL+Cg6a47DrkJnC2II8h373mLYrj5F0/Y21UnnllpPsBuCQyXNwLMKyFSel4Xk91msho3fMtvV9ABRXGFm3j5bDwKiWfQk26lsBTjjmdVnAW+pxwMJhtjkT8Pb+XLKjme0M4CoLjTjS5ji2QYaJUrB+9X1152t34cyFjtaBc7t+RYrUku4aBeMEPpfftQy0/AjDdJID7P4SJVhrQRN2JoKo1YjO/GIdKSB2LomKkqcWjecr9LFudp+1D5cpCkBkNYCKMnbNBP/wl/Xlb8YBHrA3BraYofWuI1fvkFIYhCVdIVJ02fwU9HX82O7aTCuuSx8bDLQ==;epw8C87be1aGlGBE8i0hLA=="
 ---
 
