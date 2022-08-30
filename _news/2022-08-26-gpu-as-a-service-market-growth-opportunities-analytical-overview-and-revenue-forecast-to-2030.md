@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/gpu-as-a-service-market-
 webUrl: "https://www.marketwatch.com/press-release/gpu-as-a-service-market-growth-opportunities-analytical-overview-and-revenue-forecast-to-2030-2022-08-26"
 type: article
 quality: 57
-heat: 67
+heat: 57
 published: false
 
 provider:
@@ -27,22 +27,6 @@ images:
     width: 1200
     height: 630
     isCached: true
-
-related:
-  - title: "Body Temperature Test Face Recognition Devices Market Size From 2022 To 2028 And Unlimited Opportunities for New Companies"
-    excerpt: "This report shows market strategic analysis, micro and macro market trend and scenarios, pricing analysis, and a holistic review of the \" Body Temperature Test Face Recognition Devices market\" in the forecast period 2022 to 2028,"
-    publishedDateTime: 2022-08-26T10:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/body-temperature-test-face-recognition-devices-market-size-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-2022-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 43
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "E/E3rjiMzn/vxiHavDg5tmipw3toLdkVwun0dGzCzAZyvalz85Va7qcxaa7H8ahMfTbTzoZi2AwZFaEDj4za/O+T86uxgxM5kQlax6EH2uogk5xUSmpDDlCO3vEOcujQ14IqyyCrlR4ZrTHeVn8sRCmIoNKVW9tj9usCP/+BTVM3fL7Hu7drrSttvcskakPCMJ08gIXOXUrJMeZ31ih6Jg132Ly44FanVCQdwf62tU5/55pz5xJfXoY/Uw4MX0hdiQg/bzeg+wiU0XXAmgegyj33XuET7JKgWl4RLY1SPoWlNg6srWoeFAremEifY4OzIAMvJ3gpqHwGm0l8fAivTUYJBXW/eUjSh3g4iQTbbhU=;wux2zW/+NXTxNgMQGJztbg=="
 ---

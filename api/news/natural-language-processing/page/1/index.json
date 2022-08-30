@@ -309,21 +309,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-25-ai-startup-wants-to-make-foreign-call-center-employees-sound-white.md",
-      "title": "AI Startup Wants to Make Foreign Call Center Employees Sound White",
-      "excerpt": "Sanas argues that its technology can be empowering for call center employees by removing bias and limiting misunderstandings during phone conversations. Critics say it's erasure.",
+      "path": "_news/2022-08-25-paragraphai-announces-the-launch-of-natural-language-processing-ai-writing-assistant.md",
+      "title": "ParagraphAI Announces the Launch of Natural Language Processing AI Writing Assistant",
+      "excerpt": "ParagraphAI Inc., a leading developer of advanced AI-powered productivity tools, today announced the release of their natural language processing (\"NLP\") AI Writing Assistant. With internet access, ParagraphAI instantly drafts original and accurate paragraphs of text on any topic with proper grammar and tone correction.",
       "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white",
-      "originalUrl": "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white",
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=13185",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=13185",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/a/ai-startup/ai-startup-wants-to-make-foreign-call-center-employees-sound_3ra4.1200.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_13185_16614292719349538.jpg",
+          "width": 350,
+          "height": 215,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -333,21 +333,12 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T09:56:00-07:00",
+      "publishedDateTime": "2022-08-25T05:59:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -563,24 +554,33 @@
     {
       "path": "_news/2022-08-24-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov.md",
       "title": "AI-powered service Vidby translates Zelenskyy’s speeches into 50 languages – Denys Krasnikov",
-      "excerpt": "Meet Alexander Konovalov, Eugen von Rubenberg and Denys Krasnikov - the creators behind the unique machine video translation service called Vidby. Their online translation tool offers an unprecedented 99% translation accuracy - a result that as of now remains unmatched.",
+      "excerpt": "Now, thanks to Vidby, this information is made available in your first language. If you think that an AI-powered translation tool is not something you can afford, you are in for a surprise.",
       "sourceUrl": null,
-      "webUrl": "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-8-23-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov",
-      "originalUrl": "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-8-23-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov",
+      "webUrl": "https://www.digitaljournal.com/pr/ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov",
+      "originalUrl": "https://www.digitaljournal.com/pr/ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://www.abnewswire.com/uploads/1661205013.jpeg",
+          "width": 1024,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T13:18:00-07:00",
+      "publishedDateTime": "2022-08-23T11:25:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Buffalo News",
-        "domain": "buffalonews.com",
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -746,19 +746,19 @@
     {
       "path": "_news/2022-08-23-language-translation-device-market-to-hit-usd-25-bn-by-2030-says-global-market-insights-inc.md",
       "title": "Language Translation Device Market to hit USD 2.5 Bn by 2030, Says Global Market Insights Inc.",
-      "excerpt": "The language translation device market is expected to reach a valuation of USD 2.5 billion by 2030, as reported in a research study by",
+      "excerpt": "Major language translation device market participants include Sourcenext Inc., Jarvisen (iFLYTEK), Cheetah Mobile, Inc., Vasco Electronics LLC, Waverly Labs Inc., and ...",
       "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/language-translation-device-market-to-hit-usd-2-5-bn-by-2030-says-global-market-insights-inc--875237142.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/language-translation-device-market-to-hit-usd-2-5-bn-by-2030-says-global-market-insights-inc--875237142.html",
+      "webUrl": "https://www.benzinga.com/pressreleases/22/08/n28596363/language-translation-device-market-to-hit-usd-2-5-bn-by-2030-says-global-market-insights-inc",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/n28596363/language-translation-device-market-to-hit-usd-2-5-bn-by-2030-says-global-market-insights-inc",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://mma.prnewswire.com/media/1883515/Language_Translation_Device_Market.jpg?p=facebook",
-          "width": 1200,
-          "height": 628,
+          "url": "https://mma.prnewswire.com/media/1883515/Language_Translation_Device_Market.jpg",
+          "width": 400,
+          "height": 209,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -766,13 +766,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T03:15:00-07:00",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28596363",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28596363",
+      "publishedDateTime": "2022-08-23T03:33:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
         "images": null,
         "publishers": null,
         "authors": null

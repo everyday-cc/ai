@@ -9,7 +9,7 @@ ampWebUrl: "https://www.cnbc.com/amp/2022/08/26/microsoft-tiktok-parent-bytedanc
 cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/26/microsoft-tiktok-parent-bytedance-collaborate-on-ai-project-kuberay.html"
 type: article
 quality: 91
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -31,6 +31,22 @@ images:
     isCached: true
 
 related:
+  - title: "Jio Haptik collaborates with Microsoft Azure Cognitive Services to improve existing Hindi conversational AI models"
+    excerpt: "The translation model will enable organizations to offer seamlessly localized and multilingual customer experiences. Jio Mobility is set to address 2M.."
+    publishedDateTime: 2022-08-30T10:21:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/jio-haptik-collaborates-with-microsoft-azure-cognitive-services-to-improve-existing-hindi-conversational-ai-models/93877868"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/jio-haptik-collaborates-with-microsoft-azure-cognitive-services-to-improve-existing-hindi-conversational-ai-models/93877868"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/jio-haptik-collaborates-with-microsoft-azure-cognitive-services-to-improve-existing-hindi-conversational-ai-models/93877868"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 84
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-93877868,imgsize-21916,width-1200,height-628,overlay-etcio/jio-haptik-collaborates-with-microsoft-azure-cognitive-services-to-improve-existing-hindi-conversational-ai-models.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Canonical, Microsoft Bring Ubuntu on Arm to Azure"
     excerpt: "“These images provide the familiar Ubuntu experience, with an Azure-optimized kernel and configurations ... application servers, Machine Learning (ML), open-source databases, and in-memory caches.” Ampere Altra is also well suited for new use ..."
     publishedDateTime: 2022-08-29T17:33:00Z

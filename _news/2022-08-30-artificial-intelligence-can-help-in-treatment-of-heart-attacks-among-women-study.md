@@ -8,9 +8,9 @@ webUrl: "https://www.timesnownews.com/health/artificial-intelligence-can-help-in
 ampWebUrl: "https://www.timesnownews.com/health/artificial-intelligence-can-help-in-treatment-of-heart-attacks-among-women-study-article-93875489/amp"
 cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/health/artificial-intelligence-can-help-in-treatment-of-heart-attacks-among-women-study-article-93875489/amp"
 type: article
-quality: 52
-heat: -1
-published: false
+quality: 54
+heat: 104
+published: true
 
 provider:
   name: timesnownews
@@ -18,6 +18,7 @@ provider:
 
 topics:
   - AI
+  - AI in Healthcare
 
 images:
   - url: "https://static.tnn.in/thumb/msid-93875489,imgsize-100,width-1280,height-720,resizemode-75/93875489.jpg"
@@ -76,21 +77,16 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Artificial intelligence-based risk score improves personalized care for women with heart attacks"
-    excerpt: "Heart attacks in women are more likely to be fatal than in men. The reasons are differences in age and in comorbidity burden which makes risk assessment in women a challenge."
-    publishedDateTime: 2022-08-29T17:14:00Z
-    webUrl: "https://www.news-medical.net/news/20220829/Artificial-intelligence-based-risk-score-improves-personalized-care-for-women-with-heart-attacks.aspx"
+  - title: "Artificial Intelligence Enhances Heart Attack Treatment In Women"
+    excerpt: "The use of artificial intelligence for the management of heart attacks both in male and female patients will improve the survival of patients."
+    publishedDateTime: 2022-08-29T18:13:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-enhances-heart-attack-treatment-in-women-208444-1.htm"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 26
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
+      name: Medindia
+      domain: medindia.net
+    quality: 19
 
-secured: "6gXydzVMXJWZs24Pec7/6uzmo3l6TaHG6MTWMVnJh8ZKPP4veneutzsTOwLfr2bJ3vRJGyxl6Li4JEJ7CL2NDHXKYAlHxbY9N9+ldmGzOos9NHb/KIrjlFfQv3HsOoZP4kmz/BNxco8wKjHDswEGKTqMb80kwbZH5gxjBEJQsxCyrTctderpArvT0WnzNSaCtD9/rCIFkmuxeewEN4/lUtdtF94L9lUqYI99GY8jK947SCF2+AcKyybmqGTlKKX9j+mIUSktpNTJrrHoV/mYovByJwToWh4omzTK90Jtd4VXfZIn2VMG0XaNN7XL9LJFr1ntboUBK81d0hlJ6jI0M7eRfXTJRC+8266/JOZgS+8=;RqkVMFGlNgBV+OvweOGptg=="
+secured: "TQ8Z7fYlfb91JWMLViEtVZlVFvVhiz8aRBEu0Mwm0C5xBzfCclEaYIP1yttRsyEzy1zt/q4fl/p6GT/RXHik54q9Mb7Drvgpr8MOWI/tNCBRmpUnb54Mrq4dVSjnereNdTBcxWlBXnaqOT0Y9qZ6je/9jF6CNP8WL3QU4BjoCydWkidTUL4NNUvi58hq5XB4s56dmKZZMRIxgvdAGK2EYr6VmMhmrBkPO89OnTv37GDyd3kEO1tniuNzT0+7n2K6dK4G80M5GQoRCFzcHwQXUFjDWQWGdAHPxfXullpYsbKj/3o8qaSGgs4dAoTx9hA30Vki0p+UAgzoAG2w/pU1xV+54va4oqnckuTqAJosnUGZ9b84teeMEqoO3bzuzgsGyGSn05rTfiKFftzGa4mW8/88MwwB/5S/5k8GCNRBYnlugN9Vkq72wwRQ4tY0d4hppB2dsmjeHQpP5ZWtbXRPNwyuDQOZvmBon89OvxQXjN+yXRktRZ/ZxLfAKhTVVYhnH1pq75rFhcoZsTD8vjco8Q==;BNAN92kMkmw/Ergc5OW4hQ=="
 ---
 

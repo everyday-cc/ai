@@ -2,6 +2,203 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-26-artificial-intelligence-key-for-daisy.md",
+      "title": "Artificial intelligence key for Daisy",
+      "excerpt": "Daisy Hill take a break from league action tomorrow when they travel to Liverpool to face Lower Breck in the first qualifying round of the FA",
+      "sourceUrl": null,
+      "webUrl": "https://www.theboltonnews.co.uk/sport/20742576.artificial-intelligence-key-daisy/",
+      "originalUrl": "https://www.theboltonnews.co.uk/sport/20742576.artificial-intelligence-key-daisy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.theboltonnews.co.uk/resources/images/13226640/?type=responsive-gallery",
+          "width": 650,
+          "height": 867,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.theboltonnews.co.uk/sport/20742576.amp/",
+      "cdnAmpWebUrl": "https://www-theboltonnews-co-uk.cdn.ampproject.org/c/s/www.theboltonnews.co.uk/sport/20742576.amp/",
+      "publishedDateTime": "2022-08-25T22:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Bolton News",
+        "domain": "theboltonnews.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-nvidia-to-announce-next-gen-gpu-architecture-in-september-amid-rtx-4090-rumors.md",
+      "title": "Nvidia to announce next-gen GPU architecture in September amid RTX 4090 rumors",
+      "excerpt": "A new GPU architecture announce doesn’t mean we ... where we will share new advances of RTX reinventing 3D graphics in gaming, AI’s continuing breakthroughs, and building the metaverse ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/8/25/23321307/nvidia-next-gen-gpu-architecture-rtx-40-series-gtc-2022",
+      "originalUrl": "https://www.theverge.com/2022/8/25/23321307/nvidia-next-gen-gpu-architecture-rtx-40-series-gtc-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/veMh_fTCaXM9jyzunIzLKndS8UQ=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/16303089/DSC00697.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-putin-orders-troop-replenishment-in-face-of-ukraine-losses.md",
+      "title": "Putin Orders Troop Replenishment In Face Of Ukraine Losses",
+      "excerpt": "Russian President Vladimir Putin appears to be trying to replenish his military by ordering a 13% increase in the country’s troop strength.",
+      "sourceUrl": null,
+      "webUrl": "https://www.huffpost.com/entry/bc-eu-russia-ukraine-war_n_6307ecf4e4b0581766d1dc03",
+      "originalUrl": "https://www.huffpost.com/entry/bc-eu-russia-ukraine-war_n_6307ecf4e4b0581766d1dc03",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.huffingtonpost.com/asset/6307efa32300006000b5eb1d.jpeg?ops=1200_630",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.huffpost.com/entry/bc-eu-russia-ukraine-war_n_6307ecf4e4b0581766d1dc03/amp",
+      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/bc-eu-russia-ukraine-war_n_6307ecf4e4b0581766d1dc03/amp",
+      "publishedDateTime": "2022-08-25T18:52:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HuffPost",
+        "domain": "huffpost.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-lg-introduces-240hz-curved-oled-ultragear-monitor-monitor-with-ai-tracking.md",
+      "title": "LG Introduces 240Hz Curved OLED UltraGear Monitor, Monitor with AI Tracking",
+      "excerpt": "LG also launched a quirky-sounding 32-inch UltraFine Display Ergo AI (32UQ890). It uses a camera to analyze your posture, adjusting the height and tilt of the monitor to keep you from \"remaining in a single position for too long or from falling into poor ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.cnet.com/tech/computing/lg-introduces-240hz-curved-oled-ultragear-monitor-monitor-with-ai-tracking/",
+      "originalUrl": "https://www.cnet.com/tech/computing/lg-introduces-240hz-curved-oled-ultragear-monitor-monitor-with-ai-tracking/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 105,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.cnet.com/a/img/resize/0252c1b9404973e60017e041d1ae811fb5d1c144/2022/08/25/dcd3bbb6-ba5b-4931-8bfe-d77391823502/lg-ultragear-oled-gaming-monitor45gr95qe-01-kv.jpg?auto=webp&fit=crop&height=630&width=1200",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.cnet.com/google-amp/news/lg-introduces-240hz-curved-oled-ultragear-monitor-monitor-with-ai-tracking/",
+      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lg-introduces-240hz-curved-oled-ultragear-monitor-monitor-with-ai-tracking/",
+      "publishedDateTime": "2022-08-25T18:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CNET",
+        "domain": "cnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-26-googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement.md",
       "title": "Google's $100 Million Facial Recognition Lawsuit: Who Can Claim Money From the Settlement?",
       "excerpt": "Dan is a writer on CNET's How-To team. His byline has appeared in Newsweek, NBC News, The New York Times, Architectural Digest, The Daily Mail and elsewhere. He is a crossword junkie and is interested in the intersection of tech and marginalized communities.",
@@ -308,17 +505,17 @@
       "title": "AI Startup Wants to Make Foreign Call Center Employees Sound White",
       "excerpt": "Sanas argues that its technology can be empowering for call center employees by removing bias and limiting misunderstandings during phone conversations. Critics say it's erasure.",
       "sourceUrl": null,
-      "webUrl": "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white",
-      "originalUrl": "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white",
+      "webUrl": "https://www.pcmag.com/news/ai-startup-wants-to-make-foreign-call-center-employees-sound-white",
+      "originalUrl": "https://www.pcmag.com/news/ai-startup-wants-to-make-foreign-call-center-employees-sound-white",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
       "images": [
         {
-          "url": "https://sm.pcmag.com/t/pcmag_uk/news/a/ai-startup/ai-startup-wants-to-make-foreign-call-center-employees-sound_3ra4.1200.jpg",
-          "width": 1200,
-          "height": 675,
+          "url": "https://i.pcmag.com/imagery/articles/05P40am6RlXf9q8pCpYsR1f-1.fit_lim.size_1200x630.v1661442988.jpg",
+          "width": 1120,
+          "height": 630,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -351,7 +548,6 @@
         "news"
       ],
       "topics": [
-        "Natural Language Processing",
         "AI"
       ]
     },
@@ -711,6 +907,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-25-paragraphai-announces-the-launch-of-natural-language-processing-ai-writing-assistant.md",
+      "title": "ParagraphAI Announces the Launch of Natural Language Processing AI Writing Assistant",
+      "excerpt": "ParagraphAI Inc., a leading developer of advanced AI-powered productivity tools, today announced the release of their natural language processing (\"NLP\") AI Writing Assistant. With internet access, ParagraphAI instantly drafts original and accurate paragraphs of text on any topic with proper grammar and tone correction.",
+      "sourceUrl": null,
+      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=13185",
+      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=13185",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ThumbForNews_13185_16614292719349538.jpg",
+          "width": 350,
+          "height": 215,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T05:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Azorobotics",
+        "domain": "azorobotics.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-gatc-health-appoints-medical-ai-veteran-robert-keith-sorrentino-md-as-chief-medical-officer.md",
       "title": "GATC Health Appoints Medical AI Veteran Robert Keith Sorrentino, MD as Chief Medical Officer",
       "excerpt": "GATC Health, a science and technology company revolutionizing drug discovery and disease prediction using artificial intelligence (AI), today announced Robert Keith Sorrentino, MD, as Chief Medical Officer.",
@@ -1021,232 +1260,6 @@
         "AI in Autos",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-with-5137-cagr-artificial-intelligence-in-healthcare-market-would-rocket-up-to-usd-17522-billion-by-2029.md",
-      "title": "With 51.37% CAGR, Artificial Intelligence in Healthcare Market would rocket up to USD 175.22 billion by 2029",
-      "excerpt": "The significant Artificial Intelligence in Healthcare report offers comprehensive explanation of market definition, market segmentation, competitive analysis and key developments in the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/with-51-37-cagr-artificial-intelligence-in-healthcare-market-would-rocket-up-to-usd-175-22-billion-by-2029",
-      "originalUrl": "https://www.digitaljournal.com/pr/with-51-37-cagr-artificial-intelligence-in-healthcare-market-would-rocket-up-to-usd-175-22-billion-by-2029",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/DDD-8-600x337.png",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T23:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics.md",
-      "title": "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics",
-      "excerpt": "Hyundai Motor Group (the Group) today announced the launch of Boston Dynamics AI Institute (the Institute), with the goal of making fundamental advances",
-      "sourceUrl": null,
-      "webUrl": "https://www.albawaba.com/business/pr/hyundai-motor-group-launches-boston-dynamics-ai-institute-spearhead-advancements",
-      "originalUrl": "https://www.albawaba.com/business/pr/hyundai-motor-group-launches-boston-dynamics-ai-institute-spearhead-advancements",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 91,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2022-08/40039-Large370072020KonaElectric.jpg?itok=k2Z28teN",
-          "width": 595,
-          "height": 394,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/hyundai-motor-group-launches-boston-dynamics-ai-institute-spearhead-advancements",
-      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/hyundai-motor-group-launches-boston-dynamics-ai-institute-spearhead-advancements",
-      "publishedDateTime": "2022-08-24T22:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Al Bawaba News",
-        "domain": "albawaba.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-financial-companies-look-at-ai-and-machine-learning-to-reduce-cost-kpmg.md",
-      "title": "Financial companies look at AI and machine learning to reduce cost: KPMG",
-      "excerpt": "Banks would need to develop the skill set inhouse or bring in external experts. External subject matter experts can help them benchmark themselves with peer banks around risk management, controls and governance framework enhancements.",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/industry/banking/finance/financial-companies-look-at-ai-and-machine-learning-to-reduce-cost-kmpg/articleshow/93760985.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/industry/banking/finance/financial-companies-look-at-ai-and-machine-learning-to-reduce-cost-kmpg/articleshow/93760985.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-68408,msid-93760959/artificial-intelligence_thinkstock.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/industry/banking/finance/financial-companies-look-at-ai-and-machine-learning-to-reduce-cost-kmpg/amp_articleshow/93760985.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/banking/finance/financial-companies-look-at-ai-and-machine-learning-to-reduce-cost-kmpg/amp_articleshow/93760985.cms",
-      "publishedDateTime": "2022-08-24T21:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-nexar-utilizes-crowdsourced-vision-data-to-foster-autonomous-driving.md",
-      "title": "Nexar utilizes crowdsourced vision data to foster autonomous driving",
-      "excerpt": "Data is the foundation of autonomous driving. Nexar, an AI computer vision company, analyzes street information through a network supported by its dash cams. Integrating real-time data with human driving behaviors,",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitimes.com/news/a20220825VL201.html",
-      "originalUrl": "https://www.digitimes.com/news/a20220825VL201.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.digitimes.com/newsshow/20220825vl201_files/2_2b.jpg",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T20:48:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digi Times",
-        "domain": "digitimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-25-the-next-technological-time-warp.md",
-      "title": "The Next Technological Time Warp",
-      "excerpt": "Even if you look at other modalities, like early image generation models and their ability to generate faces—not to mention today’s image generation capabilities with models such as DALL-E 2—telling the difference between human-generated and AI-generated content has been difficult for quite some time now.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/",
-      "originalUrl": "https://www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6306c01dd2c11b73cd7d1fdb/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 801,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/amp/",
-      "publishedDateTime": "2022-08-24T17:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
       ]
     }
   ],

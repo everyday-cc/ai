@@ -2,6 +2,49 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-30-artificial-intelligence-can-help-in-treatment-of-heart-attacks-among-women-study.md",
+      "title": "Artificial Intelligence can help in treatment of heart attacks among women: Study",
+      "excerpt": "The issue begins with the symptoms: unlike males, who typically experience chest pain spreading to the left arm, a heart attack in women frequently appears as abdomen discomfort radiating to the back or nausea and vomiting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.timesnownews.com/health/artificial-intelligence-can-help-in-treatment-of-heart-attacks-among-women-study-article-93875489",
+      "originalUrl": "https://www.timesnownews.com/health/artificial-intelligence-can-help-in-treatment-of-heart-attacks-among-women-study-article-93875489",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.tnn.in/thumb/msid-93875489,imgsize-100,width-1280,height-720,resizemode-75/93875489.jpg",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.timesnownews.com/health/artificial-intelligence-can-help-in-treatment-of-heart-attacks-among-women-study-article-93875489/amp",
+      "cdnAmpWebUrl": "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/health/artificial-intelligence-can-help-in-treatment-of-heart-attacks-among-women-study-article-93875489/amp",
+      "publishedDateTime": "2022-08-30T01:49:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "timesnownews",
+        "domain": "timesnownews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare.md",
       "title": "Amazon Vs. Apple: Only One Will Rewrite The Rules Of Healthcare",
       "excerpt": "One company is dutifully abiding by an old, unwritten rule of health technology. The other is poised to rewrite the healthcare rulebook altogether.",
@@ -201,7 +244,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-2022-size-share-sales-growth-dynamics-top-vendors-and-forecast-to-2028-2022-08-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 152,
+      "heat": 142,
       "tags": null,
       "images": [
         {
@@ -1393,50 +1436,6 @@
       ],
       "topics": [
         "Natural Language Processing",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-15-ai-is-used-in-diagnostic-robotics-to-improve-patient-care.md",
-      "title": "AI is used in diagnostic robotics to improve patient care",
-      "excerpt": "What’s more, in this instance, the AI was taught using data from 65 million de-identified medical records. “We observe how individuals appear before the issues,” said Kira Radinsky, CEO and co-founder of Diagnostic Robotics.",
-      "sourceUrl": null,
-      "webUrl": "https://bestgamingpro.com/ai-is-used-in-diagnostic-robotics-to-improve-patient-care/",
-      "originalUrl": "https://bestgamingpro.com/ai-is-used-in-diagnostic-robotics-to-improve-patient-care/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bestgamingpro.com/wp-content/uploads/2022/08/Diagnostic-Robotics-puts-AI-to-work-in-preventative-care.png",
-          "width": 600,
-          "height": 365,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-15T03:22:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bestgamingpro",
-        "domain": "bestgamingpro.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI",
         "AI in Healthcare"
       ]

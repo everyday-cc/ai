@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Edge AI Processor Market to Grow with a Significant CAGR During the forecast period 2022-2028| Exclusive Report Spread Across 90 Pages"
-    excerpt: "Edge AI Processor Market Research Report is spread across 90 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. We have been tracking the direct impact of COVID-19 on this market,"
-    publishedDateTime: 2022-08-25T18:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-processor-market-to-grow-with-a-significant-cagr-during-the-forecast-period-2022-2028-exclusive-report-spread-across-90-pages-2022-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Facial Recognition Devices Market Size and Share 2022 Analysis Report by Key Players, Geographical Regions, Future Development and Forecast to 2028"
     excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Facial Recognition Devices"
     publishedDateTime: 2022-08-26T12:11:00Z

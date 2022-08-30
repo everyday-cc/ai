@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/28678753"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28678753"
 type: article
 quality: 50
-heat: 60
+heat: 50
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 474
     height: 279
     isCached: true
-
-related:
-  - title: "Face Recognition Access Locks Market 2022 To 2028, Top Companies Booming Strategies, Progression Status, and Business Trends."
-    excerpt: "This “Face Recognition Access Locks market research report” offers an all-inclusive analysis of regional and global markets based on growth prospects. The worldwide Face Recognition Access Locks market report offers a geographic analysis of regions like North America: United States,"
-    publishedDateTime: 2022-08-25T23:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-access-locks-market-2022-to-2028-top-companies-booming-strategies-progression-status-and-business-trends-2022-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "oNjb+6Io2J9ecfl7DDyMMH8TE61xH/j5RfsGLSPjc2pC5sbUO1+PzhX71eioNtBWAvNycX9QQVBkqMHOl8Wfcn3bkGHalYEwjwUln8L5U9MX71WPX4EIAAZ2d2oZuMHXsAinDD3YRSjSPBQY8XnV3Aa9vBqDKRhvfqBa17Tn1+nY7hO8dblqoAUMo99xiCP9jDsJHEUqYQHzIRk3Q1y/30M78ZC4+lJ9GWZWgVjC7f6C3vvglKmyDbREMwn0Ei7ymRWze0IRHjzmRgiYz+hnNRf9yJxhmwwWKaZRJkNbBQKVw6p5xr+iYJSI8ND2SrRjhqd8oSdaTWNUfNRJU/Ff9Xvj1l8iypnmjcpLUvBcD9Er7aWvN1atZb5rJPtSFgbmwJXE+v8bh6hvprmeOq3MdjgXWLiyqx2ubYoWUdJ2BOkkLL5PD+YM4/yCZIJz9rZBwGSRrJgXkZPTzAfKqX4R0sE8h+tx01JsfAsL5n6MOzU6t8Fgat5Wo2lZGvsvPb+y2Cm93NqIZ5oWy3/lbEaEYA==;o3ZxNPW0aeUSXoelZ9/9gA=="
 ---

@@ -113,20 +113,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Edge AI Processor Market to Grow with a Significant CAGR During the forecast period 2022-2028| Exclusive Report Spread Across 90 Pages"
-    excerpt: "Edge AI Processor Market Research Report is spread across 90 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. We have been tracking the direct impact of COVID-19 on this market,"
-    publishedDateTime: 2022-08-25T18:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-processor-market-to-grow-with-a-significant-cagr-during-the-forecast-period-2022-2028-exclusive-report-spread-across-90-pages-2022-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Automotive Artificial Intelligence Market Analysis with Industry Trends and Growth Rate by Manufacturers, Future Plans and Size Forecast 2022-2031"
     excerpt: "Trending Automotive Artificial Intelligence Market: The latest competent intelligence report published by QMI with the"
     publishedDateTime: 2022-08-26T08:05:00Z

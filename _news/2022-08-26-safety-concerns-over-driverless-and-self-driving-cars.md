@@ -24,19 +24,28 @@ related:
   - title: "Self-driving cars: A primer"
     excerpt: "Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won’t drive at all."
     publishedDateTime: 2022-08-28T19:04:00Z
-    webUrl: "https://www.abc4.com/automotive/self-driving-cars-a-primer/"
-    ampWebUrl: "https://www.abc4.com/automotive/self-driving-cars-a-primer/amp/"
-    cdnAmpWebUrl: "https://www-abc4-com.cdn.ampproject.org/c/s/www.abc4.com/automotive/self-driving-cars-a-primer/amp/"
+    webUrl: "https://www.nbc4i.com/automotive/self-driving-cars-a-primer/"
+    ampWebUrl: "https://www.nbc4i.com/automotive/self-driving-cars-a-primer/amp/"
+    cdnAmpWebUrl: "https://www-nbc4i-com.cdn.ampproject.org/c/s/www.nbc4i.com/automotive/self-driving-cars-a-primer/amp/"
     type: article
     provider:
-      name: abc4.com
-      domain: abc4.com
+      name: NBC4i
+      domain: nbc4i.com
     quality: 44
     images:
-      - url: "https://www.abc4.com/wp-content/uploads/sites/4/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280"
+      - url: "https://www.nbc4i.com/wp-content/uploads/sites/18/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280"
         width: 1280
         height: 855
         isCached: true
+  - title: "Don't trust self-driving cars? NC State researchers trying to change that"
+    excerpt: "If the idea of a self-driving car zooming down Interstate 40 and trying to reach the offramp at rush hour scares you, you’re not alone. But research happening at N.C. State may change your mind."
+    publishedDateTime: 2022-08-30T11:00:00Z
+    webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
+    type: article
+    provider:
+      name: The Business Journals
+      domain: bizjournals.com
+    quality: 3
   - title: "Former Apple employer admits stealing trade secrets for self-driving car project"
     excerpt: "An engineer who had access to information about Apple’s self-driving car project has pleaded guilty to stealing trade secrets about the project"
     publishedDateTime: 2022-08-26T06:42:00Z

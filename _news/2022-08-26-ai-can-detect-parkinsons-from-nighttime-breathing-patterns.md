@@ -24,15 +24,22 @@ images:
     isCached: true
 
 related:
-  - title: "See How This AI Analyzes Breathing Patterns For Early Detection Of Parkinson’s"
-    excerpt: "A new study shows that an AI algorithm can detect whether someone has Parkinson’s Disease early on and estimate the severity of their disease."
-    publishedDateTime: 2022-08-25T18:49:00Z
-    webUrl: "https://www.forbes.com/sites/jenniferhicks/2022/08/25/see-how-this-ai-analyzes-breathing-patterns-for-early-detection-of-parkinsons/"
+  - title: "MITs AI model can detect Parkinsons by tracking breathing patterns"
+    excerpt: "The U.S. Dina Katabi Dina Katabi, the Thuan and Nicole Pham Professor in the Department of Electrical Engineering and Computer Science (EECS) at MIT and principal investigator at MIT Jameel Clinic, and her team have developed an artificial intelligence model that can detect Parkinson’s just from reading a person’s breathing patterns."
+    publishedDateTime: 2022-08-30T11:27:00Z
+    webUrl: "https://www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns/"
+    ampWebUrl: "https://www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns.amp"
+    cdnAmpWebUrl: "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns.amp"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 45
+      name: poandpo.com
+      domain: poandpo.com
+    quality: 59
+    images:
+      - url: "https://res.cloudinary.com/scotfiles/image/fetch/https://www.histerius.com/hs0822/dina_katabi.jpg"
+        width: 1200
+        height: 676
+        isCached: true
   - title: "Breakthrough in detecting Parkinson’s using AI and breathing patterns"
     excerpt: "An MIT Jameel Clinic-developed device with the appearance of a Wi-Fi router uses a neural network to discern the presence and severity of one of the fastest-growing neurological diseases in the world"
     publishedDateTime: 2022-08-28T11:30:00Z

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-2022-size-share-sales-growth-dynamics-top-vendors-and-forecast-to-2028-2022-08-26"
 type: article
 quality: 72
-heat: 152
+heat: 142
 published: true
 
 provider:
@@ -95,20 +95,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Edge AI Processor Market to Grow with a Significant CAGR During the forecast period 2022-2028| Exclusive Report Spread Across 90 Pages"
-    excerpt: "Edge AI Processor Market Research Report is spread across 90 Pages and provides exclusive data, information, vital statistics, trends, and competitive landscape details in this niche sector. We have been tracking the direct impact of COVID-19 on this market,"
-    publishedDateTime: 2022-08-25T18:02:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-ai-processor-market-to-grow-with-a-significant-cagr-during-the-forecast-period-2022-2028-exclusive-report-spread-across-90-pages-2022-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 35
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

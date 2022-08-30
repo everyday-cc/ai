@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thesun.co.uk/health/19638535/robots-better-doctors-heart
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/health/19638535/robots-better-doctors-heart-attacks-women/amp/"
 type: article
 quality: 52
-heat: 102
-published: true
+heat: -1
+published: false
 
 provider:
   name: The Sun
@@ -37,7 +37,7 @@ related:
     provider:
       name: timesnownews
       domain: timesnownews.com
-    quality: 52
+    quality: 54
     images:
       - url: "https://static.tnn.in/thumb/msid-93875489,imgsize-100,width-1280,height-720,resizemode-75/93875489.jpg"
         width: 1280
@@ -77,20 +77,15 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Artificial intelligence-based risk score improves personalized care for women with heart attacks"
-    excerpt: "Heart attacks in women are more likely to be fatal than in men. The reasons are differences in age and in comorbidity burden which makes risk assessment in women a challenge."
-    publishedDateTime: 2022-08-29T17:14:00Z
-    webUrl: "https://www.news-medical.net/news/20220829/Artificial-intelligence-based-risk-score-improves-personalized-care-for-women-with-heart-attacks.aspx"
+  - title: "Artificial Intelligence Enhances Heart Attack Treatment In Women"
+    excerpt: "The use of artificial intelligence for the management of heart attacks both in male and female patients will improve the survival of patients."
+    publishedDateTime: 2022-08-29T18:13:00Z
+    webUrl: "https://www.medindia.net/news/artificial-intelligence-enhances-heart-attack-treatment-in-women-208444-1.htm"
     type: article
     provider:
-      name: News Medical
-      domain: news-medical.net
-    quality: 26
-    images:
-      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2019/5/futuristic_techno_design_on_background_of_supercomputer_data_center_-_Image_-_Timofeev_Vladimir_M1_402c068791b640469e416c4f55d84afe-620x480.jpg"
-        width: 620
-        height: 480
-        isCached: true
+      name: Medindia
+      domain: medindia.net
+    quality: 19
 
 secured: "RgjgA+YRzFQwjDHsLW/+XzRbUims/PSCRYgoNuxtiIlsj5cqtoYd91GVP+wG0eXwfjPf0i1NHmJmqfbW3rYSf86I7lbqcXQoJxX2rdXgvVFL0aTv9psCJLM6KNMt9wm22cBQ4icqqmnRxSyP/iI6zZIPXDrtsfqWpzJSOmeN5UC9Sf9ZOhQFmosEakhylVX9GWiwB57okYMWRloGNwPbCs9lo9KJNq1CQiBewwclBdItZsiryn7Lokd9fSoYtcd3CzG1VRmWIh+edj7eW4QE4W0rGRHPFuCas1VNWry64Qa9kRs1oJEm+YXHs9EjrtkOg1FE/GsS7fHPQe5A6aKBXJMr95WTtPnYgWeZnNAxiUI=;xI2U7u6kMez7AkdWdrvLuA=="
 ---

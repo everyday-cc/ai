@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/26/how-to-pre
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/26/how-to-prepare-for-ai-driven-next-generation-customer-service/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -39,6 +39,20 @@ related:
       name: The Next Web
       domain: thenextweb.com
     quality: 44
+  - title: "How AI Is Shaping the Future of Customer Interactions"
+    excerpt: "Artificial intelligence isn’t going anywhere. In fact, it’s beginning to take the lead on customer interactions — but not without challenges."
+    publishedDateTime: 2022-08-30T11:02:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/how-ai-is-shaping-the-future-of-customer-interactions/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/5fa25dc1474f429fac7153892ff8d022.ashx"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "TzoBjp2WGPyEecA4kIaAEN8PaLPyDShLjD5lf+dyP3unVm1lt+9kMO4smQQG6FmHkZTTUXLbhFVsp2LYWWeH958ro2H6jIcOo6yT/mkycvVNA9WiuMfF0ZnkRsXw8F/LHUVy4bT7eKOsuwywBffG+I90o6QU/ydUxm6CPlmh87ySYPOaYfPsLIqZiTBe2SJttflne+8O5EJ08WHdHqFqpDXpLcugbUQZ+YygWrESDC/ws78TqrX2npuk0k/E2PeymvlWmWOQmHflkkylnyfNY1k+j/x9UhRod626gH3vFVe3eOf8hyn9nJ3VZmAbd2y9JSbuE8/0fwH1vFlBGVT5LiWRfLHTtCDvFs6+hGhZf9E=;nu1z3sIg9tYM8TeZZUKHVA=="
 ---

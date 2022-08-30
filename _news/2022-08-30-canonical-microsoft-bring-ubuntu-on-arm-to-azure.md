@@ -41,6 +41,22 @@ related:
         width: 3500
         height: 2333
         isCached: true
+  - title: "Jio Haptik collaborates with Microsoft Azure Cognitive Services to improve existing Hindi conversational AI models"
+    excerpt: "The translation model will enable organizations to offer seamlessly localized and multilingual customer experiences. Jio Mobility is set to address 2M.."
+    publishedDateTime: 2022-08-30T10:21:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/corporate-news/jio-haptik-collaborates-with-microsoft-azure-cognitive-services-to-improve-existing-hindi-conversational-ai-models/93877868"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/jio-haptik-collaborates-with-microsoft-azure-cognitive-services-to-improve-existing-hindi-conversational-ai-models/93877868"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/jio-haptik-collaborates-with-microsoft-azure-cognitive-services-to-improve-existing-hindi-conversational-ai-models/93877868"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 84
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-93877868,imgsize-21916,width-1200,height-628,overlay-etcio/jio-haptik-collaborates-with-microsoft-azure-cognitive-services-to-improve-existing-hindi-conversational-ai-models.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
     excerpt: "New Jersey, NJ -- (SBWIRE) -- 08/26/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
     publishedDateTime: 2022-08-27T06:09:00Z
