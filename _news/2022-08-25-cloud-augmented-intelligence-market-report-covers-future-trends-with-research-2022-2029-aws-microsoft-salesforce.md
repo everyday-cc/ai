@@ -49,20 +49,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 53
-  - title: "AI Platforms Software Market Size and Share 2022 Analysis Report by Key Players, Geographical Regions, Future Development and Forecast to 2028"
-    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI Platforms Software Market”"
-    publishedDateTime: 2022-08-25T08:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-platforms-software-market-size-and-share-2022-analysis-report-by-key-players-geographical-regions-future-development-and-forecast-to-2028-2022-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "UcYUb7hdAMaQ7uDJZ6qvsigng+TqFUsi8IdCNHmCYfiTpBXL9crIC/FET5ESJRqlf5hhizXLxfz2cyDtceyUtcH3438Tk1ySWDD+J72QFVRo4DZyanMpUtl5ibC68NIjf70e+tzU6eRZaWevNhygIzripFZGtEMMpHc9ijKXWAjV2b3/70mYRJijElSOAwCuXxmgKmPcbUUVvaTHM8lWt149X9n5796jpNCK0sMF5wyityPFoXl0leyW7BsIPtHButBGLRVyGZkEeAAk/RzLwSVIepGB0sAl3LtxYjfurfku8hBvA0ZOAvZV75k+23rQU6J8tynbF0kYIM7qjTGabF3b5irAzRorAOo29lIIEylnYEz7rXXERTkTuPSb6FknnK888zFsVIFIaEL0IFCinV+Oa4tXBTsdkOxHca5Ob01TM/RICm8FFrEY4iQv9viYO1sVL0Ed17DRej1bUIsDmCVylSrEZChbegCCwEkSH6vbi3OW6gcEgYpeYPelyn0nJ1OhemZFuZGts5gO+cRr3g==;bngb7z4sH68t87XtQ1zQ5w=="
 ---

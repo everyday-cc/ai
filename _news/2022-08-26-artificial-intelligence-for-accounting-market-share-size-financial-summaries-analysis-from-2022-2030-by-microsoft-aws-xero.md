@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-share-size-financial-summaries-analysis-from-2022-2030-by--microsoft-aws-xero-2022-08-26"
 type: article
 quality: 72
-heat: 102
+heat: 92
 published: true
 
 provider:
@@ -52,20 +52,6 @@ related:
       - url: "https://cdn.bignewsnetwork.com/cus1661542547031.jpg"
         width: 630
         height: 420
-        isCached: true
-  - title: "AI Platforms Software Market Size and Share 2022 Analysis Report by Key Players, Geographical Regions, Future Development and Forecast to 2028"
-    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “AI Platforms Software Market”"
-    publishedDateTime: 2022-08-25T08:07:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-platforms-software-market-size-and-share-2022-analysis-report-by-key-players-geographical-regions-future-development-and-forecast-to-2028-2022-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
         isCached: true
 
 secured: "FpJuOpqa+r3yrRzGsN0Pi2QxliD4OZcveErgz5YE0AEtsZ7ZpU+toJOfsrf+7zZl2P4sDlsCHsSJ4FuslM0fNEVKZQXaxuRYQBoL9/+dgyespbE7eo/htQgAPF541s6LXyuPbb3q72FUVvC8uHy+HFQIQRysK2DbQbAjOUdT/wo9TYH3DpiDFl3f3KPJu1+ldXaNw/J0Sea9QHsyrmguhUcDkIGepzbJIsRa0ngyxmm0djeLw6Jnpx5QUT8qxaHl9MCy+yI68TVkwEPI1wck0/e4YYLgT+fxCoBYikMwqAvAGclhWBpUNYiOdHwYj/mmB2y4VkcNjAtOgOHqs5MhIgRen+Xbjnt4kwWLmvxoJvs=;NRjF6T56dsh0wYYPnWcvfw=="

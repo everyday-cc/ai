@@ -58,6 +58,36 @@ related:
         width: 620
         height: 372
         isCached: true
+  - title: "French tax officials use AI to spot 20,000 undeclared pools"
+    excerpt: "Scheme to be extended across the country after trial in nine departments led to extra €10m in tax receipts"
+    publishedDateTime: 2022-08-29T22:05:00Z
+    webUrl: "https://www.theguardian.com/world/2022/aug/29/french-tax-officials-use-ai-to-spot-20000-undeclared-pools?ref=upstract.com&curator=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/world/2022/aug/29/french-tax-officials-use-ai-to-spot-20000-undeclared-pools"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/aug/29/french-tax-officials-use-ai-to-spot-20000-undeclared-pools"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/b2e09692384a075af04aed6c188ac7353e0a7837/0_739_2577_1546/master/2577.jpg?width=620&quality=85&auto=format&fit=max&s=20aa812b23c81f8aba8eb2ff0f1f0104"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Google AI spots 20,000 undeclared pools in $14 million tax windfall for French government"
+    excerpt: "AI software developed by Google has found thousands of undeclared swimming pools in French backyards, resulting in a hefty tax bill for the owners."
+    publishedDateTime: 2022-08-30T01:55:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/google-ai-undeclared-pools-tax-windfall-france/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 28
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2017/02/computer-holiday-e1644452338610.jpg"
+        width: 681
+        height: 336
+        isCached: true
 
 secured: "ru6cdxBJOcE4VNH6duvVop0ovvfftQT9QDDCsfd/8rSTtEzr2wKijXOTdFfmUPpH/T1Ujnf96Uemi4gddcaQHzKZpOrwE4u1/HtdTlU8UHKlYXkzbTtnOIoBu1FR2SsbTdmU+UhGpxEMNKXOG0ecfqPvxJnr3w8Rwx5xTcoaQZewTxi6woEs7lsXc7+5IHWtmHhzPVB5JyU27lVPLYUHzLgu6uRS/OETHuLRzARsHfAnGoO3d5fkil/3wTRQtjGbvOmpN6zu4Jll/RI5mrilYUd4cwbKtFhLUBWI4XjOlOAJWCeULnxL1QNKQb/wM/BXD6XsQvrgnBhfmFf4yJZugxCYIrrN1JE4CxXixhFOa7fYgh9sbFNoRca868zcqi34Yrv3tqxx5wutkn62IteFtBCu2iuuvsG20MXVJMz3rbzjo5aA50oMmLPF1FKE6yPeYTBAEkVfff/seinop5sBYIiQcLFFZRpLYBgNbLykW7zsEcNaCTui9WMVje1Ob1GxeC7LLExLpo7Ou2LVomVfoA==;N9jgs9KdK01nksDfGSuSsg=="
 ---

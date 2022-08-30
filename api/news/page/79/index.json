@@ -2,6 +2,187 @@
   "page": 79,
   "value": [
     {
+      "path": "_news/2022-06-24-tesla-relaunches-6000-enhanced-autopilot-gutting-full-self-driving-package-in-the-process.md",
+      "title": "Tesla relaunches $6,000 Enhanced Autopilot – gutting Full Self-Driving package in the process",
+      "excerpt": "Tesla has relaunched its Enhanced Autopilot option and pulled almost all the features from its Full Self-Driving (FSD) package in the process. Over the years, Tesla has changed its Autopilot options and pricing so many times,",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/",
+      "originalUrl": "https://electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 98,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2019/07/Tesla-Autopilot-hero-4.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/06/24/tesla-relaunches-enhanced-autopilot-gutting-full-self-driving-package/amp/",
+      "publishedDateTime": "2022-06-24T02:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-coimbatore-airport-has-now-ai-powered-robots-know-how-they-help-flyers.md",
+      "title": "Coimbatore airport has now AI-powered robots. Know how they help flyers",
+      "excerpt": "The Airport Authority of India (AAI) said it is bringing the help desk to the passenger rather than passengers approaching the help desk.",
+      "sourceUrl": null,
+      "webUrl": "https://www.hindustantimes.com/india-news/coimbatore-airport-has-now-ai-powered-robots-know-how-they-help-flyers-101656061106109.html",
+      "originalUrl": "https://www.hindustantimes.com/india-news/coimbatore-airport-has-now-ai-powered-robots-know-how-they-help-flyers-101656061106109.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.hindustantimes.com/img/2022/06/24/1600x900/coimbatore_airport_robot_1656061098972_1656061099178.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.hindustantimes.com/india-news/coimbatore-airport-has-now-ai-powered-robots-know-how-they-help-flyers-101656061106109-amp.html",
+      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/india-news/coimbatore-airport-has-now-ai-powered-robots-know-how-they-help-flyers-101656061106109-amp.html",
+      "publishedDateTime": "2022-06-24T02:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Hindustan Times",
+        "domain": "hindustantimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-next-big-thing-in-the-future-of-finance-fintech-revolution.md",
+      "title": "Next big thing in the future of finance: Fintech revolution",
+      "excerpt": "Fintech has changed the lives and habits of people by making it easy to trade, bank, exchange money, take loans without the need for physical human interaction. Innovations and revolutions are what the technology",
+      "sourceUrl": null,
+      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/",
+      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 169,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/06/Pic-1-7.png",
+          "width": 487,
+          "height": 375,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/",
+      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/next-big-thing-in-the-future-of-finance-fintech-revolution/",
+      "publishedDateTime": "2022-06-23T22:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-24-cognitive-skills-for-engineering-success.md",
+      "title": "Cognitive Skills for Engineering Success",
+      "excerpt": "What follows will outline what I have found to be the most essential cognitive skills that contribute to engineering success. The primacy of critical thinking is such a worn-out aphorism that most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technewsworld.com/story/cognitive-skills-for-engineering-success-176867.html",
+      "originalUrl": "https://www.technewsworld.com/story/cognitive-skills-for-engineering-success-176867.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technewsworld.com/wp-content/uploads/sites/3/2022/03/digital-identity.jpg",
+          "width": 1000,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNewsWorld",
+        "domain": "technewsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-24-amazon-shows-off-alexa-feature-that-mimics-the-voices-of-your-dead-relatives.md",
       "title": "Amazon shows off Alexa feature that mimics the voices of your dead relatives",
       "excerpt": "Amazon has revealed an experimental Alexa feature that allows the AI assistant to mimic the voices of users’ dead relatives. The company demoed the feature at its annual MARS conference ...",
@@ -950,204 +1131,6 @@
         "AI",
         "AWS AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-russias-yandex-opens-public-access-to-ai-large-language-model.md",
-      "title": "Russia's Yandex Opens Public Access to AI Large Language Model",
-      "excerpt": "Russian technology company Yandex said on Thursday it had made a large language model for artificial intelligence research open to the public, hoping to spawn faster and deeper development of certain AI technologies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.usnews.com/news/technology/articles/2022-06-23/russias-yandex-opens-public-access-to-ai-large-language-model",
-      "originalUrl": "https://www.usnews.com/news/technology/articles/2022-06-23/russias-yandex-opens-public-access-to-ai-large-language-model",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.usnews.com/news/technology/articles/2022-06-23/russias-yandex-opens-public-access-to-ai-large-language-model?context=amp",
-      "cdnAmpWebUrl": "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-06-23/russias-yandex-opens-public-access-to-ai-large-language-model?context=amp",
-      "publishedDateTime": "2022-06-23T08:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "U.S. News & World Report",
-        "domain": "usnews.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/usnews.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-amazon-robots-will-join-its-warehouse-workforce.md",
-      "title": "Amazon Robots Will Join Its Warehouse Workforce",
-      "excerpt": "While Amazon's Astro started hauling drinks from room to room in some homes this year, two new working robots will start hauling and sorting boxes at the company's warehouses in 2023. O, Amazon gave a first look at Proteus and Cardinal,",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/amazon-robots-will-join-its-warehouse-workforce/",
-      "originalUrl": "https://www.cnet.com/tech/amazon-robots-will-join-its-warehouse-workforce/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/c58b82d01bac03ecddd20850eaf2bc8d99d26ca3/2022/06/22/c974b7b0-bbfe-4bcf-8ada-b6bbcd7d7e67/gettyimages-1241014040-amazon-building.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/amazon-robots-will-join-its-warehouse-workforce/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/amazon-robots-will-join-its-warehouse-workforce/",
-      "publishedDateTime": "2022-06-23T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-gms-cruise-starts-charging-fares-for-driverless-rides-in-san-francisco.md",
-      "title": "GM's Cruise starts charging fares for driverless rides in San Francisco",
-      "excerpt": "June 23 (Reuters) - General Motors Co's (GM.N) Cruise has started charging fares for driverless rides in San Francisco, the company said on Thursday, a step towards commercialization of the service.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/gms-cruise-starts-charging-fares-driverless-rides-san-francisco-2022-06-23/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/gms-cruise-starts-charging-fares-driverless-rides-san-francisco-2022-06-23/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/MOAR8CRw1cjC3hfAaS31AxUss7c=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6CPCJS5RENKQFCLZ7ABT3Q2FHU.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-23-octoml-launches-new-machine-learning-platform-expansion.md",
-      "title": "OctoML launches new machine learning platform expansion",
-      "excerpt": "Today OctoML, provider of a machine learning acceleration platform, released a major platform expansion in order to accelerate the development of AI-powered applications by eliminating bottlenecks ...",
-      "sourceUrl": null,
-      "webUrl": "https://sdtimes.com/ai/octoml-launches-new-machine-learning-platform-expansion/",
-      "originalUrl": "https://sdtimes.com/ai/octoml-launches-new-machine-learning-platform-expansion/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sdtimes.com/wp-content/uploads/2022/06/8d0b569cbf3ee6cec31affcb22c63988-490x326.jpg",
-          "width": 490,
-          "height": 326,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T08:09:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "SD Times",
-        "domain": "sdtimes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sdtimes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
       ]
     }
   ],

@@ -73,6 +73,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Musk aiming for widespread release of self-driving Teslas by end of year"
+    excerpt: "Elon Musk says that he aims to get Tesla's self-driving technology ready for wide release in the US, and possibly Europe, by the end of the year. Nasa has postponed for at least four days the launch of its colossal next-generation rocket, Artemis I ..."
+    publishedDateTime: 2022-08-29T15:34:00Z
+    webUrl: "https://www.irishtimes.com/video/business/innovation/2022/08/29/musk-aiming-for-widespread-release-of-self-driving-teslas-by-end-of-year/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 53
+    images:
+      - url: "https://www.irishtimes.com/resizer/dQciVMXz2ezmJUenHg1Yvu-uFNI=/1200x630/filters:format(jpg):quality(70)/d2j5ip5u6h2g6o.cloudfront.net/08-29-2022/t_86da0a683d634600b0da60f7b90f85c2_name_1242798333"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Elon Musk Hits Out At Beta Tester For “Complaining” About Full Self-Driving Beta"
     excerpt: "Musk quickly clapped back at Locke on Twitter, telling him that he shouldn’t complain having previously asked to be included in early releases of Tesla’s Full Self-Driving beta software. “10.69 is in limited release for a reason."
     publishedDateTime: 2022-08-26T16:00:00Z
@@ -94,6 +108,6 @@ related:
       domain: irishexaminer.com
     quality: 19
 
-secured: "aoYhY1EkjACpONl3MVgXFfELqvpfTQL+WKAnIOUzlhp4Tv4N9ossBMNHYXUMlFMWhz1BwA1/s8i1GeCFgSg1c72hV+uvkaJN8qUcEwbT6LU2b58s8HLFY3nfrBxzduaKlYnBSjH9VjlUeL/RZMAuSMhCJJmKN1BVy3PHilnvcG7HQw63fmoxTuYWW66C/ig1B9oNnv8KXp0XF17tMYhPs9j/tXCCFNswf7m1+d3lnyqV437adWXZQfEEdyZN83JMI79hbstr2evPCLvDgwYxJgvR0Wa3CaN28UzZ8CdeqHpJ30n3AKZw04Y1farZoy0J8WCRkFSFrkD2vosnGjisSdeJUmt1KoZ4Mf9P6o7ZBZg=;qi0urdqJTlZlMUbOtcbSXw=="
+secured: "r/L2a/icKmr4l1Ib2pHSMSX7AeUr+8P6pj6aNHPDSD9MNoTLAompzO7LpWf1VYOx/DsnN6YDORkBtfxQUbD8pfP4ziGPRcGxatzMwl03itJApdHoThS4UzY8i90Wzze5jFv7kA+2PFXlCCv2colcnJmG4mo0lPxmHV+LMqhT0OFDCPT3UaOa1+03hT8CTO3eYwN9kqRmxG30OZyB7Uf1p5685tyLmDVrTuVvTEDZrXKr71yBRMdqXXeNM9GCoVDAvTM3lf+TafZ/O7jKC4I2DLtozyAk6DZeqqn2gU4wkXAyRLNhuTMRgFaYnzLion6nzsuhDwaEmeMYWvC9oRzhIcrV/K7A98hjOnhiYNi3aCkV9CHtQoMB+Npojk7cI9OSh34Ah5A32tVPxg8O6cew94cuoltCs3g0oDlpl7bwLS80Z4tOHh55lKEsNdc0MkG1K/t+CHdvWQ4f8E/msGYby0A9lqnWis5oEmtwg23WF2ZMmwgoNh5AoUUmATelm4uXGjqiwpD/UZ6qlrA7ubhnFg==;yzhWQz2y7xWBLIkmNJ1hAw=="
 ---
 

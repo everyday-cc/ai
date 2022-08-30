@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thesun.co.uk/health/19638535/robots-better-doctors-heart
 cdnAmpWebUrl: "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/health/19638535/robots-better-doctors-heart-attacks-women/amp/"
 type: article
 quality: 52
-heat: -1
-published: false
+heat: 92
+published: true
 
 provider:
   name: The Sun
@@ -27,38 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence improves treatment in women with heart attacks"
-    excerpt: "Heart attacks in women are more likely to be fatal than in men. The reasons are differences in age and in comorbidity burden which make risk assessment in women a challenge. Researchers at the University of Zurich have now developed a novel artificial-intelligence-based risk score that improves personalized care for female patients with heart attacks."
-    publishedDateTime: 2022-08-29T16:07:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-treatment-women-heart.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-treatment-women-heart.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-treatment-women-heart.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-61.jpg"
-        width: 1320
-        height: 1465
-        isCached: true
-  - title: "Medical Moment: Artificial intelligence without internet"
-    excerpt: "Researchers at the University of Central Florida are developing devices that won’t rely on internet connections to work in remote areas."
-    publishedDateTime: 2022-08-29T21:58:00Z
-    webUrl: "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/"
-    ampWebUrl: "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wndu-com.cdn.ampproject.org/c/s/www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/?outputType=amp"
-    type: article
-    provider:
-      name: WNDU
-      domain: wndu.com
-    quality: 57
-    images:
-      - url: "https://gray-wndu-prod.cdn.arcpublishing.com/resizer/Zjrp52IWw1kfNqZiri7HqgaeAvY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/T5PZWRAKHRDDNBCFVXCYT3H66Q.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Artificial Intelligence Improves Treatment in Women with Heart Attacks"
     excerpt: "Heart attacks in women are more likely to be fatal than in men. The reasons are differences in age and in comorbidity burden which makes risk assessment in women a challenge. Researchers have now developed a novel artificial-intelligence-based risk score that improves personalized care for female patients with heart attacks."
     publishedDateTime: 2022-08-29T19:01:00Z
@@ -107,15 +75,6 @@ related:
         width: 620
         height: 480
         isCached: true
-  - title: "Artificial Intelligence Enhances Heart Attack Treatment In Women"
-    excerpt: "The use of artificial intelligence for the management of heart attacks both in male and female patients will improve the survival of patients."
-    publishedDateTime: 2022-08-29T18:13:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-enhances-heart-attack-treatment-in-women-208444-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 19
 
 secured: "RgjgA+YRzFQwjDHsLW/+XzRbUims/PSCRYgoNuxtiIlsj5cqtoYd91GVP+wG0eXwfjPf0i1NHmJmqfbW3rYSf86I7lbqcXQoJxX2rdXgvVFL0aTv9psCJLM6KNMt9wm22cBQ4icqqmnRxSyP/iI6zZIPXDrtsfqWpzJSOmeN5UC9Sf9ZOhQFmosEakhylVX9GWiwB57okYMWRloGNwPbCs9lo9KJNq1CQiBewwclBdItZsiryn7Lokd9fSoYtcd3CzG1VRmWIh+edj7eW4QE4W0rGRHPFuCas1VNWry64Qa9kRs1oJEm+YXHs9EjrtkOg1FE/GsS7fHPQe5A6aKBXJMr95WTtPnYgWeZnNAxiUI=;xI2U7u6kMez7AkdWdrvLuA=="
 ---

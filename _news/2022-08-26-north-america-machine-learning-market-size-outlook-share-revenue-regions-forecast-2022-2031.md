@@ -29,33 +29,19 @@ images:
     isCached: true
 
 related:
-  - title: "North America Deep Learning Chip Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2027"
-    excerpt: "Driving factor such as the rising investments in deep learning chip start-ups is propelling the growth of the deep learning chip market. Further, the increasing adoption of cloud-based computing across several industries is anticipated to boost the deep learning chip market growth in the near future."
-    publishedDateTime: 2022-08-25T14:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-08-25"
+  - title: "Robot Sales Hit Record High in North America for Third-Straight Quarter"
+    excerpt: "Association for Advancing Automation latest stats show the most robots sold in any quarter; automotive industry returns to historic norms, while food & consumer goods continues interest in automation to handle e-commerce logistics boom."
+    publishedDateTime: 2022-08-29T15:16:00Z
+    webUrl: "https://www.automation.com/en-us/articles/august-2022/robot-sales-hit-record-high-north-america"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
+      name: Automation
+      domain: automation.com
+    quality: 71
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "GPU as a Service Market Growth Opportunities, Analytical Overview And Revenue Forecast To 2030"
-    excerpt: "The increasing penetration of the Industrial Internet of Things (IIoT) across various industrial sectors is a prominent factor for the GPU as a service (GPUaaS) market expansion. With the greater need for scaling and speeding up business processes,"
-    publishedDateTime: 2022-08-26T06:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gpu-as-a-service-market-growth-opportunities-analytical-overview-and-revenue-forecast-to-2030-2022-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://www.automation.com/getmedia/78715b12-b6e5-4559-9d38-61e4938d9b6f/Robots-news-Aug-29-2022-web.png?width=500&height=313&ext=.png"
+        width: 500
+        height: 313
         isCached: true
   - title: "North America AI in Computer Vision Market Facts & Figures, Analytical Insights and Future Forecast 2027"
     excerpt: "Pune, India- North America AI in Computer Vision Market is expected to grow from US$ 1,761.21 million in 2019 to"
@@ -66,34 +52,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 47
-  - title: "Face Recognition Turnstile Market size with concentrate on Top most Key Players, Future Analysis and Market Trends till the forecast period-2028"
-    excerpt: "The Global Face Recognition Turnstile Market Report provides a basic overview of the industry including definitions, classifications, applications and industry chain structure. The Face Recognition Turnstile market analysis is provided for the international markets including development trends,"
-    publishedDateTime: 2022-08-26T18:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-turnstile-market-size-with-concentrate-on-top-most-key-players-future-analysis-and-market-trends-till-the-forecast-period-2028-2022-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Series A investment round led by Chi Ming"
-    excerpt: "Deepway, a joint venture between Chinese IT company Baidu and freight transport company Schao, succeeded in attracting additional investment. Based on investment, Deepway is speeding up the commercialization of smart trucks that it aims to deliver at the end of the year."
-    publishedDateTime: 2022-08-26T04:27:00Z
-    webUrl: "https://occipitals.net/series-a-investment-round-led-by-chi-ming/"
-    type: article
-    provider:
-      name: Occipitals
-      domain: occipitals.net
-    quality: 24
-    images:
-      - url: "https://occipitals.net/wp-content/uploads/2022/01/cropped-pngwing.com_.png"
-        width: 2000
-        height: 800
-        isCached: true
 
 secured: "4m0RuyyYbqx17V5TXdqG3YFg0jU03QYtKzD3Tv/HTdltU2NQG8bMKzcmmkzfe0CzXt/3vRkNv4zI8wkxwhmnbELuL68tLU5XjaUZSlxWVczfYnOSGmqwmR7bv5cGeqnpnkR0gUzf0ul7HIo+WQkdi9of6uqyAhNBCMBU31HcM1GRrucXW/WXmKouDXmZTduH8qVUhuO0MdPdyTs0EGjNPovZSZpa2TypaIMH73EMLtkeFC7rsqoRHjGUAmPEI3UHPxk82gx2qtDi2sOf4bjJFp45C5Oa04ZDWbUBkvwf0BXx9FVgEjG2hn4oETecWE4xsDgTgKYsOBWy2JoiMjTDsPkv8ebIooMdB/S76UX00I0=;4QsXhm6H5joy2PhHRKT9Uw=="
 ---

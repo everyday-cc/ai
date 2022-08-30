@@ -1,31 +1,21 @@
 ---
 category: news
 title: "integrate.ai Announces Availability of New Platform for Collaborative Machine Learning and Analytics Across Sensitive Data"
-excerpt: "TORONTO, (BUSINESS WIRE) -- integrate.ai, a SaaS company helping developers solve the world’s most important problems without risking sensitive data,"
-publishedDateTime: 2022-08-16T13:05:00Z
-originalUrl: "https://www.marketwatch.com/press-release/integrateai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data-2022-08-16"
-webUrl: "https://www.marketwatch.com/press-release/integrateai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data-2022-08-16"
+excerpt: "Traditional approaches to machine learning and analytics require centralization and ... In the heavily regulated worlds of healthcare, financial services, and manufacturing, roadblocks to collaborating with sensitive data abound – from existing and ..."
+publishedDateTime: 2022-08-16T00:00:00Z
+originalUrl: "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/integrate-ai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data"
+webUrl: "https://financialpost.com/pmn/press-releases-pmn/business-wire-news-releases-pmn/integrate-ai-announces-availability-of-new-platform-for-collaborative-machine-learning-and-analytics-across-sensitive-data"
 type: article
 
 provider:
-  name: MarketWatch
-  domain: marketwatch.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Financial Post
+  domain: financialpost.com
 
 topics:
   - AI in Finance
   - AI
   - Machine Learning
 
-images:
-  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-    width: 1200
-    height: 630
-    isCached: true
-
-secured: "2z1XGXCtko3ruAvyqgMSMiSJQ/Mhs6RIwekes+Smh5SLbkKBhiV2Sm4/N6RYQI80vUsW4iyaLblA0BTJmERjYQc0aHbeFnQ+9BFGpVRwyrQFzgxU8qp0n8sm1gpmOHHRnDSde5ue4HWQS8IOaVI/EvD1UGJewLszvhxo+QX4gC2XcxEAWDC2+Rjobq5fjs9ePasfsYcceoy5md3xL2tSj7NgNBlqQ3x4pa2LimvVTqqY42OZPWqAiZK6Z5y4ysOBdQZHYQxS48AA1kD9X/I1DmqJO1HWZ4EERYqc2hz50CA/fz+THxPELhKwA5jfO1iMcq5lMZel/FfI2S7KxOs8vKGU5O2NWa6zNy3qnJvzkZc=;h6K5ldnskfE4a3XQbA0qZA=="
+secured: "QuzMjmHXHvoUYejXlvP+MB03EVq32Iq27zt19GOHbz94/cPcCHRBRQkKfnnj6Bmk+ZXQu9hcv3H/kHsjkC7f+VmLvayzjxL5OFwdxUDWuS9TMJut5mfrveA0RXF9qGrNWw+5KfmXHX/BqN3TqZcru1CNTH78xoZlVkXyPtNJDNMU+a6KYpG8YtRmiI3vS0xd6Pb1N9TZDV8RoiaQbnTmTbhu2rEsPK0c2Gc06kT8f1gsrvPBvmV/Qmra7IGyxoHSSat65l3SwQhzYQEFOhu2eO7KQbfANZo1LouH7yNchKyPfckFpnx0jEpTZHFSWscAjnvPoINfYEDwJvLKLjf6G/DCfGFKb3YrHmtRMVdQ6W4=;cUKXVS0z0XcBuObXdIlukw=="
 ---
 

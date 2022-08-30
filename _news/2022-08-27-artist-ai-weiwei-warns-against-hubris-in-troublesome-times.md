@@ -1,29 +1,23 @@
 ---
 category: news
-title: "Artist Ai Weiwei warns against hubris in 'troublesome' times"
-excerpt: "Chinese dissident and artist Ai Weiwei lampoons the surveillance state and social media with his first glass sculpture, made on the Venetian island of Murano"
-publishedDateTime: 2022-08-27T01:01:00Z
-originalUrl: "https://abcnews.go.com/International/wireStory/artist-ai-weiwei-warns-hubris-troublesome-times-88903036"
-webUrl: "https://abcnews.go.com/International/wireStory/artist-ai-weiwei-warns-hubris-troublesome-times-88903036"
-ampWebUrl: "https://abcnews.go.com/amp/International/wireStory/artist-ai-weiwei-warns-hubris-troublesome-times-88903036"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/International/wireStory/artist-ai-weiwei-warns-hubris-troublesome-times-88903036"
+title: "Artist Ai Weiwei warns against hubris in ‘troublesome’ times"
+excerpt: "Chinese dissident and artist Ai Weiwei lampoons the surveillance state and social media with his first glass sculpture, made on the Venetian island of Murano."
+publishedDateTime: 2022-08-27T15:59:00Z
+originalUrl: "https://www.seattletimes.com/entertainment/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/"
+webUrl: "https://www.seattletimes.com/entertainment/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/"
+ampWebUrl: "https://www.seattletimes.com/entertainment/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/?amp=1"
+cdnAmpWebUrl: "https://www-seattletimes-com.cdn.ampproject.org/c/s/www.seattletimes.com/entertainment/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/?amp=1"
 type: article
-quality: 57
-heat: 67
+quality: 37
+heat: -1
 published: false
 
 provider:
-  name: ABC
-  domain: abcnews.go.com
+  name: Seattle Times
+  domain: seattletimes.com
 
 topics:
   - AI
-
-images:
-  - url: "https://s.abcnews.com/images/International/WireAP_90f8d3cb75274e19b69ddebc049849aa_16x9_992.jpg"
-    width: 992
-    height: 558
-    isCached: true
 
 related:
   - title: "Ai Weiwei's new work lampoons the surveillance culture, social media"
@@ -41,6 +35,6 @@ related:
         height: 826
         isCached: true
 
-secured: "Ux0bMetmRDlhUfhtV6HSh9BMHb7KnHFBACsWdw4HiUI2vlskFHyH/pJXaPe0mq+PK26XUhLwBL2Kbs0mRddwrcPU4HAuETubFY6WMb10Wn5l7ep6AKZTySMmG9jR7kfUfcXKazE29MPLbzzF6dqb+J1dfhWXMeOWWEzLTWiH9kMrHnrLKm7dTnu/4yVMXL2X5UsTFVB8PmhSlNtxbG27lFNu0jFJKTCGgEUh99PoeYm8+WFXRgxQQQbZ+40Y0Bo8YW+/di93gG6p+PCwmxe813eREYGCVW84gZroR27zeLZlNiKLge6sQRzRhVnAZugRqg2sPOB3KKyi3Dtx3cDnwwYHTabMBqVeA/eU3tF0dTsHa23UB5DE4PzLkF9kolpUChAtBTmTJNVyKC2lz2hnUn+VdHtO8SiFC+yoQqUF0CF//gWUzAeoWo37pFbtqtlTAM6ZxXN2+WN61/0NxFFTj0kAtTfqJgdIGwdSbL085SMTlvr8DfK0AtlpWEevRM7G6nsjvj7mfSaWPANxc9/8TA==;FF3M5WtfwVgisYGDeVWSyg=="
+secured: "YPi2Yh19ABAb4QUjT7Gs6wkeofqvgOC18ejpVT386Rb9WT1NvDVjaTBe8T4URomfLZ/yvBm3e1pXq6tpEnEYi8C6eq+iv4FW0MGhEn1WphVkQ9Yof/bxWsU53ES4j9YZCE5Enprrmfh/fHENFzBuQUAWAVB7M81FB/YEyPj5COEP0QXD7E6FVcCZzKogwjJuhCB3jJ7E6v9+cDUkVa9y67QBD6tUTLHpB7RbKp6DVxZxH/uDzqvRRfcocTy4U4of5VPBiruGHIshfvVbUc4diXo3mLkaSwsBuIE8iabvT05lmWTyUlD/3F3EosLyd3cu1sS6WD+AcC8Cm02SCyrxPo10DuQ2WWeaDo92FYUrFyCd7AgAHgsKU4waTD1DKH/hfh3aRpAVKFahRzXQRaBA0Ao9omAqhAYXP+eHwUmV1oTDmZjdABLx9s3aBpXmUL/2pNO1dPl4bwG3TNPWL7rljYHu0jUsn5je3cxI0nBDjGXykSVPXsDTWfKQTh7Z0NGgJSxosNMzVcuQ2n8hmUHaOA==;KcpZVXATdpAq/FTuBS0R4Q=="
 ---
 

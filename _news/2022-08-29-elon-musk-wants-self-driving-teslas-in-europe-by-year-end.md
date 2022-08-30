@@ -77,6 +77,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Musk aiming for widespread release of self-driving Teslas by end of year"
+    excerpt: "Elon Musk says that he aims to get Tesla's self-driving technology ready for wide release in the US, and possibly Europe, by the end of the year. Nasa has postponed for at least four days the launch of its colossal next-generation rocket, Artemis I ..."
+    publishedDateTime: 2022-08-29T15:34:00Z
+    webUrl: "https://www.irishtimes.com/video/business/innovation/2022/08/29/musk-aiming-for-widespread-release-of-self-driving-teslas-by-end-of-year/"
+    type: article
+    provider:
+      name: The Irish Times
+      domain: irishtimes.com
+    quality: 53
+    images:
+      - url: "https://www.irishtimes.com/resizer/dQciVMXz2ezmJUenHg1Yvu-uFNI=/1200x630/filters:format(jpg):quality(70)/d2j5ip5u6h2g6o.cloudfront.net/08-29-2022/t_86da0a683d634600b0da60f7b90f85c2_name_1242798333"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Elon Musk Hits Out At Beta Tester For “Complaining” About Full Self-Driving Beta"
     excerpt: "Musk quickly clapped back at Locke on Twitter, telling him that he shouldn’t complain having previously asked to be included in early releases of Tesla’s Full Self-Driving beta software. “10.69 is in limited release for a reason."
     publishedDateTime: 2022-08-26T16:00:00Z

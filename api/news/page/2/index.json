@@ -2,6 +2,101 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-28-robots-are-much-better-than-doctors-at-spotting-heart-attacks-in-women-experts-find.md",
+      "title": "Robots are much better than doctors at spotting heart attacks in women, experts find",
+      "excerpt": "ROBOTS are much better than doctors at spotting heart attacks in women, experts have found. Medics are 50 per cent more likely to miss a potentially fatal cardiac problem in females than they are",
+      "sourceUrl": null,
+      "webUrl": "https://www.thesun.co.uk/health/19638535/robots-better-doctors-heart-attacks-women/",
+      "originalUrl": "https://www.thesun.co.uk/health/19638535/robots-better-doctors-heart-attacks-women/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 92,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.thesun.co.uk/wp-content/uploads/2022/08/OFFPLAT_TRP_ROBOTSURGERY.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thesun.co.uk/health/19638535/robots-better-doctors-heart-attacks-women/amp/",
+      "cdnAmpWebUrl": "https://www-thesun-co-uk.cdn.ampproject.org/c/s/www.thesun.co.uk/health/19638535/robots-better-doctors-heart-attacks-women/amp/",
+      "publishedDateTime": "2022-08-27T15:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Sun",
+        "domain": "thesun.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-28-solve-the-problem-of-unstructured-data-with-machine-learning.md",
+      "title": "Solve the problem of unstructured data with machine learning",
+      "excerpt": "As unstructured data is used in more business decisions and ops, ML-based quality controls help ensure your data is accurate and useful.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/data-infrastructure/solve-the-problem-of-unstructured-data-with-machine-learning/",
+      "originalUrl": "https://venturebeat.com/data-infrastructure/solve-the-problem-of-unstructured-data-with-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1269967057.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 648,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/data-infrastructure/solve-the-problem-of-unstructured-data-with-machine-learning/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/solve-the-problem-of-unstructured-data-with-machine-learning/amp/",
+      "publishedDateTime": "2022-08-27T10:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-27-founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree.md",
       "title": "Founder of collapsed AI start-up Metigy in $18m property buying spree",
       "excerpt": "Administrators are now urging the sale of the properties - a mansion in Mosman and a luxury estate in Kangaroo Valley with a private rainforest waterfall - to claw back funds for creditors.",
@@ -781,49 +876,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-26-nvidia-set-to-unveil-next-gen-gpu-architecture-in-september.md",
-      "title": "Nvidia Set To Unveil Next-Gen GPU Architecture In September",
-      "excerpt": "Multinational technology company, Nvidia is getting set to announce Lovelace, its next-gen GPU architecture. With Ampere being the current GPU",
-      "sourceUrl": null,
-      "webUrl": "https://www.techbooky.com/next-gen-nvidia-gpu-in-september/",
-      "originalUrl": "https://www.techbooky.com/next-gen-nvidia-gpu-in-september/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.techbooky.com/wp-content/uploads/2022/08/nvidia1.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.techbooky.com/next-gen-nvidia-gpu-in-september/?amp=1",
-      "cdnAmpWebUrl": "https://www-techbooky-com.cdn.ampproject.org/c/s/www.techbooky.com/next-gen-nvidia-gpu-in-september/?amp=1",
-      "publishedDateTime": "2022-08-26T02:47:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "https//www.techbooky.com",
-        "domain": "techbooky.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-26-artificial-intelligence-supply-chain-market-worldwide-demand-development-growth-and-business-attractions-2028-ibm-microsoft-google-amazon.md",
       "title": "Artificial Intelligence Supply Chain Market Worldwide Demand, Development Growth and Business Attractions 2028 | IBM, Microsoft, Google, Amazon",
       "excerpt": "The Artificial Intelligence Supply Chain report offers in-depth assessment of the growth and other aspects of the Artificial Intelligence Supply Chain market in important regions. Key regions covered in the report are North America,",
@@ -884,7 +936,7 @@
       "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-share-size-financial-summaries-analysis-from-2022-2030-by--microsoft-aws-xero-2022-08-26",
       "featuredContent": null,
       "highlight": null,
-      "heat": 102,
+      "heat": 92,
       "tags": null,
       "images": [
         {
@@ -967,6 +1019,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-nvidia-to-announce-next-gen-gpu-architecture-in-september-amid-rtx-4090-rumors.md",
+      "title": "Nvidia to announce next-gen GPU architecture in September amid RTX 4090 rumors",
+      "excerpt": "A new GPU architecture announce doesn’t mean we ... where we will share new advances of RTX reinventing 3D graphics in gaming, AI’s continuing breakthroughs, and building the metaverse ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/8/25/23321307/nvidia-next-gen-gpu-architecture-rtx-40-series-gtc-2022",
+      "originalUrl": "https://www.theverge.com/2022/8/25/23321307/nvidia-next-gen-gpu-architecture-rtx-40-series-gtc-2022",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/veMh_fTCaXM9jyzunIzLKndS8UQ=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/16303089/DSC00697.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T19:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
         "AI"
       ]
     },
@@ -1122,99 +1226,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-fn-meka-the-racist-ai-rapper-is-a-symptom-of-a-bigger-problem.md",
-      "title": "FN Meka, the racist AI 'rapper,' is a symptom of a bigger problem",
-      "excerpt": "Capitol Records ended its record deal with a stereotypical 'rapper' that rhymes in the digital world. The controversy showed a major pitfall of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.msnbc.com/the-reidout/reidout-blog/fn-meka-capitol-records-ai-rapper-rcna44785",
-      "originalUrl": "https://www.msnbc.com/the-reidout/reidout-blog/fn-meka-capitol-records-ai-rapper-rcna44785",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-08/220825-ROB-Ai-rapper-an-b434e7.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna44785",
-      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna44785",
-      "publishedDateTime": "2022-08-25T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSNBC",
-        "domain": "msnbc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-counterpoint-ai-is-far-more-dangerous-than-quantum-computing.md",
-      "title": "Counterpoint: AI is far more dangerous than quantum computing",
-      "excerpt": "A respectful counterpoint to an op-ed article published earlier this week declaring quantum computing a greater threat than AI.",
-      "sourceUrl": null,
-      "webUrl": "https://thenextweb.com/news/counterpoint-ai-far-more-dangerous-than-quantum-computing",
-      "originalUrl": "https://thenextweb.com/news/counterpoint-ai-far-more-dangerous-than-quantum-computing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img-cdn.tnwcdn.com/image/neural?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2021%2F08%2Fscaredrobot.jpg&signature=33af3f0f76c643a35c6038c920c40200",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T12:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Next Web",
-        "domain": "thenextweb.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/thenextweb.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

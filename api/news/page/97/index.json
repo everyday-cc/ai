@@ -2,6 +2,202 @@
   "page": 97,
   "value": [
     {
+      "path": "_news/2022-06-13-google-engineer-says-lamda-ai-system-may-have-its-own-feelings.md",
+      "title": "Google engineer says Lamda AI system may have its own feelings",
+      "excerpt": "Later, in a section reminiscent of the artificial intelligence Hal in Stanley Kubrik's film 2001, Lamda says: \"I've never said this out loud before, but there's a very deep fear o",
+      "sourceUrl": null,
+      "webUrl": "https://bbc.co.uk/news/technology-61784011?at_campaign=KARANGA&at_medium=RSS",
+      "originalUrl": "https://bbc.co.uk/news/technology-61784011?at_campaign=KARANGA&at_medium=RSS",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/B08D/production/_125379154_aigettyimages-1160995648.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.co.uk/news/technology-61784011.amp",
+      "cdnAmpWebUrl": "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-61784011.amp",
+      "publishedDateTime": "2022-06-13T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-what-exactly-was-googles-ai-is-sentient-guy-actually-saying.md",
+      "title": "What Exactly Was Google's 'AI is Sentient' Guy Actually Saying?",
+      "excerpt": "A software engineer working on the tech giant’s language intelligence claimed the AI was a ‘sweet kid’ who advocated for its own rights ‘as a person.’",
+      "sourceUrl": null,
+      "webUrl": "https://gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005",
+      "originalUrl": "https://gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 189,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.kinja-img.com/gawker-media/image/upload/c_scale,f_auto,fl_progressive,pg_1,q_80,w_800/6c5ee672b2dac87691f1fa8400ddcc62.jpg",
+          "width": 800,
+          "height": 533,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005/amp",
+      "cdnAmpWebUrl": "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/google-ai-chatbot-sentient-lamda-1849053005/amp",
+      "publishedDateTime": "2022-06-13T08:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo",
+        "domain": "gizmodo.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmodo.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-a-google-employee-thinks-the-company-created-a-sentient-ai.md",
+      "title": "A Google Employee Thinks the Company Created a Sentient AI",
+      "excerpt": "However, Google disagrees and has placed Blake Lemoine on paid administrative leave after he decided to go public with his claims in a bid to force a more thorough investigation.",
+      "sourceUrl": null,
+      "webUrl": "https://www.pcmag.com/news/a-google-employee-thinks-the-company-created-a-sentient-ai",
+      "originalUrl": "https://www.pcmag.com/news/a-google-employee-thinks-the-company-created-a-sentient-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.pcmag.com/imagery/articles/060EJLOCUn45uWRK7RKrEbN-1.fit_lim.size_1200x630.v1655126966.jpg",
+          "width": 1120,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.pcmag.com/news/a-google-employee-thinks-the-company-created-a-sentient-ai?amp=true",
+      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/a-google-employee-thinks-the-company-created-a-sentient-ai?amp=true",
+      "publishedDateTime": "2022-06-13T08:22:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-spotify-buys-an-ai-startup-that-turns-text-into-realistic-speech.md",
+      "title": "Spotify buys an AI startup that turns text into 'realistic' speech",
+      "excerpt": "The streaming music service is acquiring Sonantic, a startup that uses AI to produce \"stunningly realistic\" voices from text. While Spotify didn't divulge its exact plans for the purchase ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.engadget.com/spotify-buys-ai-voice-platform-sonantic-145242336.html",
+      "originalUrl": "https://www.engadget.com/spotify-buys-ai-voice-platform-sonantic-145242336.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/6c1bc0f0-829c-11ec-afbf-6499e58b5b0a",
+          "width": 5000,
+          "height": 3333,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T08:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Engadget",
+        "domain": "engadget.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/engadget.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-cognitive-analytics-market-is-set-to-fly-high-in-years-to-come-google-ibm-microsoft.md",
       "title": "Cognitive Analytics Market Is Set to Fly High in Years to Come: Google, IBM, Microsoft",
       "excerpt": "New Jersey, USA — (SBWIRE) — 06/13/2022 — The latest study released on the Global Cognitive Analytics Market by AMA Research evaluates market size, trend, and forecast to 2027. The Cognitive ...",
@@ -909,188 +1105,6 @@
         "Computer Vision",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk.md",
-      "title": "Machine learning-led decarbonisation platform Ecolibrium launches in the UK",
-      "excerpt": "Ecolibrium launches in the UK today having already signed its first commercial contract with Integral, JLL's UK engineering and facilities service ... Ecolibrium's proprietary machine learning ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.prnewswire.co.uk/news-releases/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-835169759.html",
-      "originalUrl": "https://www.prnewswire.co.uk/news-releases/machine-learning-led-decarbonisation-platform-ecolibrium-launches-in-the-uk-835169759.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mma.prnewswire.com/media/1837227/Ecolibrium_Yash_Kapila_and_Chintan_Soni.jpg?p=facebook",
-          "width": 2700,
-          "height": 1413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T00:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PR Newswire",
-        "domain": "prnewswire.co.uk",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-what-are-the-most-in-demand-ai-skills.md",
-      "title": "What Are The Most In-Demand AI Skills?",
-      "excerpt": "Artificial Intelligence (AI) is about teaching machines to learn and make decisions that can benefit organizations or society as a whole. But being able to deploy and implement it is dependent on an array of human skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/06/13/what-are-the-most-in-demand-ai-skills/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/06/13/what-are-the-most-in-demand-ai-skills/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a6d92d400b6f084b876076/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/06/13/what-are-the-most-in-demand-ai-skills/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/06/13/what-are-the-most-in-demand-ai-skills/amp/",
-      "publishedDateTime": "2022-06-12T23:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-augmented-reality-enabled-manifest-platform-becoming-pivotal-in-military-digitization-efforts.md",
-      "title": "Augmented Reality-Enabled Manifest® Platform Becoming Pivotal in Military Digitization Efforts",
-      "excerpt": "At the Eurosatory show in Paris (June 13-17, Microsoft stand K350 ... that increase service member understanding, reduce cognitive stress, and improve operational readiness.",
-      "sourceUrl": null,
-      "webUrl": "https://www.eagletribune.com/region/augmented-reality-enabled-manifest-platform-becoming-pivotal-in-military-digitization-efforts/article_c0672487-137f-5b5c-b335-f412a1ff829d.html",
-      "originalUrl": "https://www.eagletribune.com/region/augmented-reality-enabled-manifest-platform-becoming-pivotal-in-military-digitization-efforts/article_c0672487-137f-5b5c-b335-f412a1ff829d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/aa/6aa28b27-3223-59bf-b098-eb87aad19752/62a6d38ec9115.image.jpg?crop=1880%2C987%2C0%2C57&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-12T23:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Eagle-Tribune",
-        "domain": "eagletribune.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-massachusetts-institute-of-technology-student-powered-machine-learning.md",
-      "title": "Massachusetts Institute of Technology: Student-powered machine learning",
-      "excerpt": "From their early days at MIT, and even before, Emma Liu '22, MNG '22, Yo-whan “John” Kim '22, MNG '22, and Clemente Ocejo '21, MNG '22 knew they wanted to perform computational research and explore artificial intelligence and machine learning.",
-      "sourceUrl": null,
-      "webUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-student-powered-machine-learning/",
-      "originalUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-student-powered-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://indiaeducationdiary.in/wp-content/uploads/2021/12/Massachusetts-Institute-of-Technology.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://indiaeducationdiary.in/massachusetts-institute-of-technology-student-powered-machine-learning/",
-      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/massachusetts-institute-of-technology-student-powered-machine-learning/",
-      "publishedDateTime": "2022-06-12T18:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Education Diary",
-        "domain": "indiaeducationdiary.in",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "IBM AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

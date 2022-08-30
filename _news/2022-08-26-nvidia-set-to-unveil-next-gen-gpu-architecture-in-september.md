@@ -9,8 +9,8 @@ ampWebUrl: "https://www.techbooky.com/next-gen-nvidia-gpu-in-september/?amp=1"
 cdnAmpWebUrl: "https://www-techbooky-com.cdn.ampproject.org/c/s/www.techbooky.com/next-gen-nvidia-gpu-in-september/?amp=1"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: -1
+published: false
 
 provider:
   name: https//www.techbooky.com
@@ -27,19 +27,19 @@ images:
     isCached: true
 
 related:
-  - title: "Nvidia CEO confirms “next-generation” GPU update next month"
-    excerpt: "The next generation of graphics cards is just around the corner, and Nvidia CEO Jensen Huang specified that we'd hear more about the upcoming RTX 40-series graphics cards at GTC 2022."
-    publishedDateTime: 2022-08-25T09:24:00Z
-    webUrl: "https://www.dexerto.com/tech/nvidia-ceo-cofirms-next-generation-gpu-update-1913806/"
+  - title: "Nvidia to announce next-gen GPU architecture in September amid RTX 4090 rumors"
+    excerpt: "A new GPU architecture announce doesn’t mean we ... where we will share new advances of RTX reinventing 3D graphics in gaming, AI’s continuing breakthroughs, and building the metaverse ..."
+    publishedDateTime: 2022-08-26T02:27:00Z
+    webUrl: "https://www.theverge.com/2022/8/25/23321307/nvidia-next-gen-gpu-architecture-rtx-40-series-gtc-2022"
     type: article
     provider:
-      name: Dexerto.com
-      domain: dexerto.com
-    quality: 39
+      name: The Verge
+      domain: theverge.com
+    quality: 65
     images:
-      - url: "https://editors.dexerto.com/wp-content/uploads/2022/08/25/Nvidia-CEO.jpg"
-        width: 1600
-        height: 900
+      - url: "https://cdn.vox-cdn.com/thumbor/veMh_fTCaXM9jyzunIzLKndS8UQ=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/16303089/DSC00697.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "Nvidia to unveil its next-gen GPU architecture in September at GTC"
     excerpt: "Jen-Hsun Huang's September 20 keynote promises to \"share new advances of RTX reinventing 3D graphics and gaming.\""

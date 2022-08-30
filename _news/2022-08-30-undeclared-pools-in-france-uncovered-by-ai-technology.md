@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-europe-62717599.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-62717599.amp"
 type: article
 quality: 87
-heat: 107
+heat: 127
 published: true
 
 provider:
@@ -61,6 +61,36 @@ related:
       - url: "https://i.guim.co.uk/img/media/b2e09692384a075af04aed6c188ac7353e0a7837/0_739_2577_1546/master/2577.jpg?width=620&quality=85&auto=format&fit=max&s=20aa812b23c81f8aba8eb2ff0f1f0104"
         width: 620
         height: 372
+        isCached: true
+  - title: "French tax officials use AI to spot 20,000 undeclared pools"
+    excerpt: "Scheme to be extended across the country after trial in nine departments led to extra €10m in tax receipts"
+    publishedDateTime: 2022-08-29T22:05:00Z
+    webUrl: "https://www.theguardian.com/world/2022/aug/29/french-tax-officials-use-ai-to-spot-20000-undeclared-pools?ref=upstract.com&curator=upstract.com"
+    ampWebUrl: "https://amp.theguardian.com/world/2022/aug/29/french-tax-officials-use-ai-to-spot-20000-undeclared-pools"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/aug/29/french-tax-officials-use-ai-to-spot-20000-undeclared-pools"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 57
+    images:
+      - url: "https://i.guim.co.uk/img/media/b2e09692384a075af04aed6c188ac7353e0a7837/0_739_2577_1546/master/2577.jpg?width=620&quality=85&auto=format&fit=max&s=20aa812b23c81f8aba8eb2ff0f1f0104"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Google AI spots 20,000 undeclared pools in $14 million tax windfall for French government"
+    excerpt: "AI software developed by Google has found thousands of undeclared swimming pools in French backyards, resulting in a hefty tax bill for the owners."
+    publishedDateTime: 2022-08-30T01:55:00Z
+    webUrl: "https://www.smartcompany.com.au/technology/google-ai-undeclared-pools-tax-windfall-france/"
+    type: article
+    provider:
+      name: SmartCompany
+      domain: smartcompany.com.au
+    quality: 28
+    images:
+      - url: "https://www.smartcompany.com.au/wp-content/uploads/2017/02/computer-holiday-e1644452338610.jpg"
+        width: 681
+        height: 336
         isCached: true
 
 secured: "oyUM26hW1ROhzQUJuGEMmB46jBKhxN8sNmS6VIwn1DVTep4LXhBIoBaprm06qYau4PVbm1XGcrEaZ6s5wm3GV019HzlLBW0iTrzHIOK59056DiDDwPdXlaqD94CBgrO/aOLCkvY/gYH6+ObF4slVb/dWyMZnFvfPoYa/j8XbST0p8edX0fSywyD2DTFNqg8ekEb7Fz1urD/CsO8E6OgdxQLTN1U+9+jywWt7mDEYfdvcAAPLcILKgdYNUYevJicckj8YojR1iD+7IU3TPPXDg4x06mxdlu9zdRTt65F6IGTkgRpZhCeY6rpl5/dc4yp0crxOziieIYFd4x5p0MjQcHL/bjJdMKKASO+wODneL/WvSPTEUeoNaTTi5fAScalgBTRaPOkuxvwkLtBCFSVVDU3t4svdRbDId9xMu4L+o6LagkXy+KT1/2dB8o75LQa1HC8GiHwhnzOyCYJVhNtXnHZW9mkAEg+esYvB5sfby9/zPGLKiyWTJuUWNXha6xlXYUJdEOSfxipdvILQUSKk5Q==;8Vzrl4mG/l8z0xVE0zjd6g=="

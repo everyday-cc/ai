@@ -25,38 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence improves treatment in women with heart attacks"
-    excerpt: "Heart attacks in women are more likely to be fatal than in men. The reasons are differences in age and in comorbidity burden which make risk assessment in women a challenge. Researchers at the University of Zurich have now developed a novel artificial-intelligence-based risk score that improves personalized care for female patients with heart attacks."
-    publishedDateTime: 2022-08-29T16:07:00Z
-    webUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-treatment-women-heart.html"
-    ampWebUrl: "https://medicalxpress.com/news/2022-08-artificial-intelligence-treatment-women-heart.amp"
-    cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-artificial-intelligence-treatment-women-heart.amp"
-    type: article
-    provider:
-      name: Medical Xpress
-      domain: medicalxpress.com
-    quality: 59
-    images:
-      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-61.jpg"
-        width: 1320
-        height: 1465
-        isCached: true
-  - title: "Medical Moment: Artificial intelligence without internet"
-    excerpt: "Researchers at the University of Central Florida are developing devices that won’t rely on internet connections to work in remote areas."
-    publishedDateTime: 2022-08-29T21:58:00Z
-    webUrl: "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/"
-    ampWebUrl: "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/?outputType=amp"
-    cdnAmpWebUrl: "https://www-wndu-com.cdn.ampproject.org/c/s/www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/?outputType=amp"
-    type: article
-    provider:
-      name: WNDU
-      domain: wndu.com
-    quality: 57
-    images:
-      - url: "https://gray-wndu-prod.cdn.arcpublishing.com/resizer/Zjrp52IWw1kfNqZiri7HqgaeAvY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/T5PZWRAKHRDDNBCFVXCYT3H66Q.jpg"
-        width: 800
-        height: 450
-        isCached: true
   - title: "Robots are much better than doctors at spotting heart attacks in women, experts find"
     excerpt: "ROBOTS are much better than doctors at spotting heart attacks in women, experts have found. Medics are 50 per cent more likely to miss a potentially fatal cardiac problem in females than they are"
     publishedDateTime: 2022-08-27T22:41:00Z
@@ -107,15 +75,6 @@ related:
         width: 630
         height: 420
         isCached: true
-  - title: "Artificial Intelligence Enhances Heart Attack Treatment In Women"
-    excerpt: "The use of artificial intelligence for the management of heart attacks both in male and female patients will improve the survival of patients."
-    publishedDateTime: 2022-08-29T18:13:00Z
-    webUrl: "https://www.medindia.net/news/artificial-intelligence-enhances-heart-attack-treatment-in-women-208444-1.htm"
-    type: article
-    provider:
-      name: Medindia
-      domain: medindia.net
-    quality: 19
 
 secured: "CGflCsEpn2G6+FH/rTnyliKcyscZS0jPeBANb+bRZPjhoHJSQk6/6Uo/lF4nIeeSa/dBfo84ee1kjlKwtS//AbIPlhzkOghl39qjtuJ8J7z6lsaWYEMov9I++qiSwDr8YT7F5G/NTQRaP968w773IPXaxiVY6RblKp87S7ipCBKpmevfdaGEl4ek3zremOx7j+KrsKspFaYCvDAw8WryaxYbICDLtGZ4hlrYgADlf8hdAPc/XzVLqVzjEB6f1lAaVa8XLUrHJvmGUinfov68dR21owOT7GxWOtxWKCSdiVyUrsz46k5wx5oO/F5DPdyI/MEA9Ft1sRI/XyDBjcOu0r/+/KQYbZ0iOtlKSVNwc9M=;QoNFjiMq/zPIcEmNpFFQ3Q=="
 ---
