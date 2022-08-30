@@ -2,7 +2,7 @@
 name: "LeapMind"
 overview: "We are carrying out research on original chip architectures in order to implement Neural Networks on a circuit with low power."
 type: "profile"
-heat: 32
+heat: 57
 
 website: http://leapmind.io/
 
@@ -41,6 +41,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=IsTf6hB0bGo"
 
-secured: "7jMuMs4NZVGnwEu552F7eJOoQUiGDhxmOXg0/dd/NDmJGqBGrsHN8e6NCrt1HGBY0DXCuPo0RlVa5aB4hlwqEGczqJdpEDQMkFPB/Uknok56xM7un5oP2BZ98xNBPtGr3NfMh/I/7Fku/RwBdMZ+g40JstWlocuFg5Ot1QzVCKjspRdOqo0yUCWxOVSsKBVuCLlt33y10iUJc7kZJ5I/7jFAEfmdv42HMDK9iVHFVMrxzftLGjwyBMU94tt/hW72Kz6yyuYs6PiWcm6407fPVMhNmIW3smkThJfBTZPxiaKN85pMymkUDVe00TZ7Tua5c2WmI4hnc0rZafXIDqgxs+CVtD5qscQfp9CgovfGS1l4EW6U4savwoT2QnYtnyaR81rOAeMdYzMEQ2ZK9n37zQ==;Yu8wAoXyHWPcZsk8em863Q=="
+secured: "suYIRhAH5CnVLfA1GUHkGA6TiC60e3AxteITm0HnAiM9Cxr28oHH4nQKRbWBOBeVUe2J19V8JH0KxBFuslCNmCreM6N8ztyr/mDv6H/2x4ExeNFDTZR1/v7fBWx0nqtkyKia+2ucE0iWYLj5Jz3dKj0QxYbIXe8bSLS5Q64/nq1HSZtw8sK9MzQ8a7wt3J0t+84ngYnYWtMIdCeogT0icZeTusY6PvoHimFliF9pgMTj/OmxnxlRQNjfXzxR66rdQMzWWljencpvVXR7GfE4XIjC8aXQlencrdhFMLpuXjIwlkQS77XeCquV+stHhYBx6HULW9A0EL7bL+lrsv8EI25oywxpUNc9iGReOnYUFPTzJXMj20YPuGFDi+L6kQ+miMvNgooDkvqgPP2c691ENQ==;+RcyxCehyiGOMhneivS1YA=="
 ---
 

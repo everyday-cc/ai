@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "healx"
   url: "https://twitter.com/healx"
-  followers: 2738
+  followers: 2739
 
 size: 11-50 employees
 yearFounded: 2014
@@ -45,6 +45,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=6ZsujFTH3-A"
 
-secured: "T4WFDgZvKZeMymCBh/sPB/bxLLIaZgfl/RaOruKYo3SkvaJHtzMVuJwrodDI2uH2QMFLJr9OUtsRNFLqyDJD9HaAX6I+UhmUqHHUskl2BFgoxaICCXZeRxSaAAXYexs5Wm+siIrziXI+TLjvOHMBAbFhmmDtEq/wWhN1tgvNZIsJrRlUrRu7oZ7CGq5DAyXbsZMbqCjGS7Tx+G1UE0Hk5tOfufSrtjzXqc/iIfNZ/u9DcG2y/J5h6/NUYEKM/KC8CA6gD8wtTdze7XtahDO4F66vu2qXEtC/ID9ZRIiAu0WPEIxJBVguP+lEIOSPwDJKVyjdriktFpAYoPK2APnrlQNUnVQCcScZ8vLQesomuwDUac/bwKHwsP3EoIxeX741AJ59LmcW92J5eBne0y2gx26bgMgpa2PhcUJhQaXqNOw=;1U9VAMjba8xwsBRlXytF8A=="
+secured: "i4amRAxN9lN5LFzY5hTaCDEm8wXkcnDcWNBW01qNA0VhAkObVXzeO3hn5pXn2kb90UU6fMUij5IrZKyTuYixc2AN3DIHD0TFpUkXpSluMy/8R8rx4WaFK2X6wo6bEIcGFwzkOF4EhhEYcDuOerQ9EySUqBCpZeCK5CoL+HkuuS7akixVbRbNB5M3EItsg6IKuNDYHB0nTShpNA0Cb35XnalB/2rghXGtstq0npkZlre3lK+SECj09JCST3XDP1ON6kdPTOp8ceIyC1Z7/MpWh5U28vKMU7DWYdD6XD91eUuKOsSWJoV7sBazqfXxoXs7RGQRJiBhsqarKRb0WVA+YHIh7C3TVVITJ3w/hdaswKGyLg3Y25thVqFLuMECHPt1jvIAT53vM53zp9+U876bWaZgfdwaMkNc3ZB+GPp2NUA=;Y6eURtWUDl7cJXnBu3ZktA=="
 ---
 

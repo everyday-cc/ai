@@ -2,7 +2,7 @@
 name: "Amazon"
 overview: "Amazon Web Services (AWS) has the broadest and deepest set of machine learning and AI services for your business. ... Our capabilities are built on the most comprehensive cloud platform, optimized for machine learning with high-performance compute, and no compromises on security and analytics."
 type: "profile"
-heat: 493
+heat: 497
 
 website: https://aws.amazon.com/machine-learning/
 
@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "amazon"
   url: "https://twitter.com/amazon"
-  followers: 4621244
+  followers: 4621456
 
 size: 10,001+ employees
 yearFounded: 1994
@@ -38,6 +38,6 @@ images:
     height: 400
     title: "logo"
 
-secured: "kzVh/w22Vi8coOQRmm97peEkb5Xy88TT52xdqHO++tWc2RglFgC5JDIk2TNMdvkfbkYk1OecPFJJ8lkkjS59wGVc0UGtsfKdhuo0yQJvKcRWOYvOgQoaJBUj43pVIFpXJv7w3RNvCQbKTcLXJkIVzOVtA7OxP5jj0ypj+L3DBS0bD2y273uiyFI1TxbV8clLgfTQwW6mQk2/RmH6vQvZPKLJFkbJO341n7JJBdJ2l4hYJOrZ559Kt4NaL0pfdF8h/dC/v3/QjByzl5ZQqYfR9lJk4tuZcdnyGMQ7u8OXxfqs/kb3BG/H1phumzqVC7HuppmJaVAIycAgUwLBoQQkTEVSHhs3i1sJYUiA4cmUYEaC7Mn7a163TI876FBnFKBTabDGO43q2jCEnAPS4uBONbuEQLs6huvtadHkejbloXs=;Qg3bXHWM3cayyzygZSwUcg=="
+secured: "H1jTERUyQgKEjwXBh5x5cqbDnabf1pV+IdX9L6nSGE8jhsbTpBG6WUyAzec0MrJqiUUEHV5IvQvCAf0ReqPP3SuC+kbX6Uw+Zn+2oSJBjUhWC83e3pHGdPKQlnj5rRYZ1xbvGwyqgojwubAyRKtL8/EAlztn8zDCSwHv9dhMfW7wsJzD0/62Yz8CtFrwIa7KpyzDLYa8HAQKkZspWELOybZ/WCMLobMnqVOSoNhZTJnthbFoqTOdg+gu00EWOxN7RHUWKHPJa2G+2QHgUHdIPX+ndweLpAw65zljSZ2aWVCl5pKyOl5WA104eajKnv2hmWsYOIudhlu41P0YMoUskQrOgb0DCXaXvrFcb0ImsvLFRqFp3Dxs/irkCG7gAi0rJcidnYMnSI0NgLNv9BKm1j5PWUB7SASb2dHATy8nF4g=;PHaemcCyQir8Iy1CBSElnw=="
 ---
 

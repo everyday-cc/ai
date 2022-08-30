@@ -2,7 +2,7 @@
 name: "Biofourmis"
 overview: "Biofourmis is a fast-growing global health IT start-up founded in Singapore that augments personalized patient care and therapies with Digital Therapeutics for better management of patients with complex chronic conditions. The company discovers, develops and delivers clinically validated software-based therapeutics to enable better outcomes for patients. These solutions include advanced tools for clinicians to deliver personalized care and cost-effective solutions for payers. Biofourmis has built Biovitals™, a highly sophisticated personalized artificial intelligence (AI)-powered health analytics platform that predicts clinical exacerbation days in advance before a critical event. Biovitals™ is the backbone of the company’s Digital Therapeutics product pipeline, which spans a number of therapeutic areas and disease states, including heart failure, acute coronary syndrome, COPD and chronic pain."
 type: "profile"
-heat: 42
+heat: 77
 
 website: http://www.biofourmis.com/
 
@@ -46,6 +46,6 @@ images:
 videos:
   - url: "https://www.youtube.com/watch?v=ui5HSwZJcvw"
 
-secured: "z4O3RRzOzws/3z4OGilV4nD4qSA06JaHP8nW87P7Q3Ywbvae+T/fMN2zlCUpsPyl2tEcqy8T2W+BRSGJIQY1YviCHiZ3J2WiuVJxv1UYIATLvlndfI+lJ5c973ORZBLK3pYVMezGo06FboOfLC2Emr6IzmbdzZJ0PrGXEApcE65C1ohG0NbZ2vbIvYJ/bPAFcHuR6Rs3wA4U0oSlymKBBBnx68tBcFi5VuhQ7z/Bqxs20666CaDvt2l/a9W5s1UMDUKxyUCKMwWfNu5+9B8Josi9Y3CXtWHfqj+YQA2Ou+q0YqNX7zeI/QQRgxFoxxclow0tV9sriUjJg1fUtvimkDNjFjoAox0+Awqtnqsh0MtRjkqHoV35jCL6UT9HakbtfLtMvgA9CdKhS0yxDZbKT60ZfFZnqPsP6GCu/TZigAU=;V3CLW5IJcxii657EDwv2Fg=="
+secured: "wvB/JbQIFDtg8dssaB6bfEpgokHVLXe7DySWIxaY51UiqC8avIYXGVA6ZEnYyoXxLRH2IYy2qMWuMKgusvYyEjI9cBcnE0F+gxUq+WaUDBBcm24CD4ChnIWrTfvcq5XCBczhpClbk3XTgWNJD9PNwt1iUoJpAgugcAaAEz0I8HkWiVq3MWcRrTaGknQN5cRvvcfvr7EXssusKydUx2SMCLD92VEk4v8vPJ0GN60AKfcbLcfBcAonJGfOSebaJE+ACsIDE2m4mGSy6Mrma1tne23/NcfSb9UicPBlMC2n7ttgoi02DxQTtO6p7jBbGu4mqGv7nP/vbw3RtjXhyocOXq89L5i58XdlQFWTkSZHjIHL9XYYpON880VQiFppmUKdBRkFReai26zXKRj9olp6Oi+J/fJLsMURkpBFVEj+HZI=;CZTwPrA4okjSR/ABDJsQ2Q=="
 ---
 
