@@ -18,22 +18,63 @@ topics:
   - AI
 
 related:
-  - title: "Google’s new app lets you experimental AI systems like LaMDA"
-    excerpt: "Google has launched AI Test Kitchen, an app previewed at Google I/O 2022 that lets users test experimental systems, including LaMDA, developed by the company's internal research divisions."
-    publishedDateTime: 2022-08-25T15:59:00Z
-    webUrl: "https://techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/"
-    ampWebUrl: "https://techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/25/googles-new-app-lets-you-experimental-ai-systems-like-lamda/amp/"
+  - title: "Google opens up its experimental AI chatbot for public testing"
+    excerpt: "Google opens up LaMDA to the public, but it's launching with guardrails that aim to prevent it generating offensive responses."
+    publishedDateTime: 2022-08-26T10:19:00Z
+    webUrl: "https://www.zdnet.com/article/google-opens-up-its-experimental-ai-chatbot-for-public-testing/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-opens-up-its-experimental-ai-chatbot-for-public-testing/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-opens-up-its-experimental-ai-chatbot-for-public-testing/"
     type: article
     provider:
-      name: TechCrunch
-      domain: techcrunch.com
+      name: ZDNet
+      domain: zdnet.com
     quality: 87
     images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/06/GettyImages-1230444599-1-e1660816546129.jpg?w=1024"
-        width: 1024
-        height: 575
+      - url: "https://www.zdnet.com/a/img/resize/9db5279cbc1c42989bbbf8be317fe71a59939735/2022/05/11/ffccbbc5-133e-4e08-87ac-25f7ad58c947/ai-test-kitchen.jpg?width=1200&fit=bounds&auto=webp"
+        width: 1200
+        height: 670
         isCached: true
+  - title: "Google wants you to chat with its AI chatbot at your own risk"
+    excerpt: "Google has opened its experimental artificial intelligence (AI) chatbot for the public and you can now register to chat with the AI-driven bot trained on the company's controversial language model."
+    publishedDateTime: 2022-08-27T11:07:00Z
+    webUrl: "https://www.tribuneindia.com/news/science-technology/google-wants-you-to-chat-with-its-ai-chatbot-at-your-own-risk-425943"
+    type: article
+    provider:
+      name: The Tribune
+      domain: tribuneindia.com
+    quality: 37
+    images:
+      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/8/2022_8$largeimg_521464923.jpg"
+        width: 627
+        height: 418
+        isCached: true
+  - title: "Google wants you to use its AI chatbot at your own risk"
+    excerpt: "Google has opened its experimental artificial intelligence (AI) chatbot for the public and you can now register to chat with the AI-driven bot trained on the company`s controversial language model."
+    publishedDateTime: 2022-08-27T12:27:00Z
+    webUrl: "https://www.dnaindia.com/india/report-google-wants-you-to-use-its-ai-chatbot-at-your-own-risk-2980085"
+    type: article
+    provider:
+      name: DNA India
+      domain: dnaindia.com
+    quality: 17
+  - title: "Google AI Chatbot Now Open for Public Testing"
+    excerpt: "Registrations are open for early access, with AI Test Kitchen serving rotating demos centered around cutting-edge AI technologies"
+    publishedDateTime: 2022-08-29T13:06:00Z
+    webUrl: "https://analyticsindiamag.com/google-ai-chatbot-now-open-for-public-testing/"
+    type: article
+    provider:
+      name: Analytics India Magazine
+      domain: analyticsindiamag.com
+    quality: 17
+  - title: "Now is the time to queue up to speak with Google’s chatbot"
+    excerpt: "After all, LaMDA 2 is Google’s baby, and AI was given its own track at Google I/O 2022. Google revealed during the event that anyone may now contribute to the development of conversational AI. Beta users will be able to engage with the NLP model in a restricted fashion using the AI Test Kitchen app."
+    publishedDateTime: 2022-08-27T18:00:00Z
+    webUrl: "https://bestgamingpro.com/now-is-the-time-to-queue-up-to-speak-with-googles-chatbot/"
+    type: article
+    provider:
+      name: Bestgamingpro
+      domain: bestgamingpro.com
+    quality: 4
 
 secured: "nGk30L7KBRu62o3YBR2lGllftU/AjSdaklKnUy7Syr23g7vXhr6jpkwGEkGyLkl8O4BTRUxK3DMd7kVDkTSUxIS/lq6KKTylEzrfPVCgMaOvkDSEyi22htKSPfIOq9s9FtIMu/O4IOi5NF5I66xXYcGpkyk1BgpBs2OpXYMhxd/lZ78WiDD6fJD7IJj4HKs2wf5RFzr7569JGWxxb2LiE9838gQIcCAs6FG91D/qms4B/CiB+76GgSohA4ynERFyMYImSWIcdNyxWxT5Z4y5l4otvjn2XsAhWFo47CWF+3VNB5s4acSPw8Kd50rhxuncNe13DWfd2JPFFY4Ta/PdXXTO42tGlA1+8mclU9lw65+blqs+f1djWhlzOYxJCuxiQ+DW6Dhim6/04ljijaTHEdIx07iuOKSO7aPMGhMPStg3rHuwTzSVdafmhC+m4quu7nXKAU0+Y4RkZNV9buAEGwQyJ6jS4TWoDr2HI1nABIKWY+qeQLy1DZoX1slhCsPhukFG4EZVtPQcXXB2ft18Vg==;+uwNYZVHFqiEbQUgAatXvA=="
 ---

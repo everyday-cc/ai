@@ -34,20 +34,6 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 45
-  - title: "Artificial intelligence model can detect Parkinson’s from breathing patterns"
-    excerpt: "Now, Dina Katabi, the Thuan (1990) and Nicole Pham Professor in the Department of Electrical Engineering and Computer Science (EECS) at MIT and principal investigator at MIT Jameel Clinic, and her team have developed an artificial intelligence model that ..."
-    publishedDateTime: 2022-08-25T15:14:00Z
-    webUrl: "https://www.eurekalert.org/news-releases/962870"
-    type: article
-    provider:
-      name: EurekAlert!
-      domain: eurekalert.org
-    quality: 38
-    images:
-      - url: "https://earimediaprodweb.azurewebsites.net/Api/v1/Multimedia/8d8886a4-bd40-4f27-8eb6-2a0d3246e4e9/Rendition/thumbnail/Content/Public"
-        width: 300
-        height: 225
-        isCached: true
   - title: "AI can detect Parkinson’s from nighttime breathing patterns"
     excerpt: "Researchers develop an artificial intelligence-based model to detect Parkinson’s disease and track its progression from nocturnal breathing signals."
     publishedDateTime: 2022-08-26T02:20:00Z
@@ -62,17 +48,6 @@ related:
         width: 1000
         height: 667
         isCached: true
-  - title: "New research analyzes breathing patterns to detect Parkinson's disease"
-    excerpt: "Researchers at MIT are using artificial intelligence to diagnose Parkinson's disease before symptoms begin. Joining us to talk about this development as part of our biweekly segment, Tech Talk, is Boston Globe technology writer Hiawatha Bray Tech."
-    publishedDateTime: 2022-08-25T16:21:00Z
-    webUrl: "https://www.wbur.org/radioboston/2022/08/25/mit-parkinsons-research"
-    ampWebUrl: "https://amp.wbur.org/radioboston/2022/08/25/mit-parkinsons-research"
-    cdnAmpWebUrl: "https://amp-wbur-org.cdn.ampproject.org/c/s/amp.wbur.org/radioboston/2022/08/25/mit-parkinsons-research"
-    type: article
-    provider:
-      name: WBUR
-      domain: wbur.org
-    quality: 24
   - title: "Effects of Exercise on Parkinson's Disorders"
     excerpt: "and lead to neuroprotection and maybe even neurorestoration. Ultimately, this would would/could cause for an improvement in the motor, cognitive and variety of other non-motor symptoms in PD."
     publishedDateTime: 2022-08-25T20:11:00Z

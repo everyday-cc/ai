@@ -9,8 +9,8 @@ ampWebUrl: "https://www.ibtimes.com/panera-bread-tests-artificial-intelligence-d
 cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/panera-bread-tests-artificial-intelligence-drive-thru-ordering-3606957?amp=1"
 type: article
 quality: 57
-heat: 67
-published: false
+heat: 77
+published: true
 
 provider:
   name: International Business Times
@@ -26,6 +26,22 @@ images:
     isCached: true
 
 related:
+  - title: "Panera Bread Tests Artificial Intelligence Technology in Drive-Thru Lanes"
+    excerpt: "Two Panera Bread locations in upstate New York are testing artificial intelligence technology that takes drive-thru orders. Restaurants have been investing in improving the drive-thru experience for customers, adding more lanes and testing tech that would ..."
+    publishedDateTime: 2022-08-29T13:33:00Z
+    webUrl: "https://www.nbcphiladelphia.com/news/business/money-report/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes/3347674/"
+    ampWebUrl: "https://www.nbcphiladelphia.com/news/business/money-report/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes/3347674/?amp=1"
+    cdnAmpWebUrl: "https://www-nbcphiladelphia-com.cdn.ampproject.org/c/s/www.nbcphiladelphia.com/news/business/money-report/panera-bread-tests-artificial-intelligence-technology-in-drive-thru-lanes/3347674/?amp=1"
+    type: article
+    provider:
+      name: NBC 10 Philadelphia
+      domain: nbcphiladelphia.com
+    quality: 56
+    images:
+      - url: "https://media.nbcphiladelphia.com/2022/08/106972691-1636466150088-gettyimages-1280324270-1006_32_fl200924107.jpeg?quality=85&strip=all&resize=1200%2C675"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "Panera tests drive-thru AI"
     excerpt: "The chain is working with OpenCity to deploy AI technology to two cafes in upstate New York, aiming to improve speed of service, order accuracy and personalization."
     publishedDateTime: 2022-08-29T15:57:00Z

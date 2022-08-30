@@ -37,6 +37,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Artificial Intelligence can help in treatment of heart attacks among women: Study"
+    excerpt: "The issue begins with the symptoms: unlike males, who typically experience chest pain spreading to the left arm, a heart attack in women frequently appears as abdomen discomfort radiating to the back or nausea and vomiting."
+    publishedDateTime: 2022-08-30T08:49:00Z
+    webUrl: "https://www.timesnownews.com/health/artificial-intelligence-can-help-in-treatment-of-heart-attacks-among-women-study-article-93875489"
+    ampWebUrl: "https://www.timesnownews.com/health/artificial-intelligence-can-help-in-treatment-of-heart-attacks-among-women-study-article-93875489/amp"
+    cdnAmpWebUrl: "https://www-timesnownews-com.cdn.ampproject.org/c/s/www.timesnownews.com/health/artificial-intelligence-can-help-in-treatment-of-heart-attacks-among-women-study-article-93875489/amp"
+    type: article
+    provider:
+      name: timesnownews
+      domain: timesnownews.com
+    quality: 52
+    images:
+      - url: "https://static.tnn.in/thumb/msid-93875489,imgsize-100,width-1280,height-720,resizemode-75/93875489.jpg"
+        width: 1280
+        height: 720
+        isCached: true
   - title: "Artificial Intelligence Improves Treatment in Women with Heart Attacks"
     excerpt: "Heart attacks in women are more likely to be fatal than in men. The reasons are differences in age and in comorbidity burden which makes risk assessment in women a challenge. Researchers have now developed a novel artificial-intelligence-based risk score that improves personalized care for female patients with heart attacks."
     publishedDateTime: 2022-08-29T19:01:00Z

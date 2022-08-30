@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/google-opens-up-its-experim
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-opens-up-its-experimental-ai-chatbot-for-public-testing/"
 type: article
 quality: 87
-heat: 127
+heat: 137
 published: true
 
 provider:
@@ -62,6 +62,15 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 17
+  - title: "Google wants you to chat with its experimental AI chatbot at your own risk"
+    excerpt: "Google has already warned that early previews of its LaMDA (Language Model for Dialogue Applications) model \"may display inaccurate or inappropriate content\"."
+    publishedDateTime: 2022-08-27T12:04:00Z
+    webUrl: "https://www.business-standard.com/article/international/google-wants-you-to-chat-with-its-experimental-ai-chatbot-at-your-own-risk-122082700599_1.html"
+    type: article
+    provider:
+      name: Business Standard
+      domain: business-standard.com
+    quality: 15
   - title: "Now is the time to queue up to speak with Google’s chatbot"
     excerpt: "After all, LaMDA 2 is Google’s baby, and AI was given its own track at Google I/O 2022. Google revealed during the event that anyone may now contribute to the development of conversational AI. Beta users will be able to engage with the NLP model in a restricted fashion using the AI Test Kitchen app."
     publishedDateTime: 2022-08-27T18:00:00Z

@@ -113,6 +113,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence Market Analysis with Industry Trends and Growth Rate by Manufacturers, Future Plans and Size Forecast 2022-2031"
+    excerpt: "Trending Automotive Artificial Intelligence Market: The latest competent intelligence report published by QMI with the"
+    publishedDateTime: 2022-08-26T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-analysis-with-industry-trends-and-growth-rate-by-manufacturers-future-plans-and-size-forecast-2022-2031-2022-08-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Facial Recognition Devices Market Size and Share 2022 Analysis Report by Key Players, Geographical Regions, Future Development and Forecast to 2028"
     excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Facial Recognition Devices"
     publishedDateTime: 2022-08-26T12:11:00Z

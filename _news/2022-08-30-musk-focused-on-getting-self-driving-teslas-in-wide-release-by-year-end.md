@@ -49,6 +49,20 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "Elon Musk aims to release full self-driving Tesla cars by end of year"
+    excerpt: "While speaking at the ONS 2022 energy conference, Tesla CEO Elon Musk commented on the company's full self-driving vehicle technology."
+    publishedDateTime: 2022-08-30T09:01:00Z
+    webUrl: "https://www.cbtnews.com/elon-musk-aims-to-release-full-self-driving-tesla-cars-by-end-of-year/"
+    type: article
+    provider:
+      name: cbtnews
+      domain: cbtnews.com
+    quality: 54
+    images:
+      - url: "https://d9s1543upwp3n.cloudfront.net/wp-content/uploads/2022/08/Elon-Musk.png"
+        width: 1920
+        height: 1080
+        isCached: true
   - title: "Elon Musk says that the self-driving Tesla could be ready by the end of the year"
     excerpt: "After a six-year wait, Musk says he's aiming for the self-driving technology to be released by the end of this year. However, precedent points to this being unlikely."
     publishedDateTime: 2022-08-29T19:07:00Z

@@ -127,6 +127,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Automotive Artificial Intelligence Market Analysis with Industry Trends and Growth Rate by Manufacturers, Future Plans and Size Forecast 2022-2031"
+    excerpt: "Trending Automotive Artificial Intelligence Market: The latest competent intelligence report published by QMI with the"
+    publishedDateTime: 2022-08-26T08:05:00Z
+    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-analysis-with-industry-trends-and-growth-rate-by-manufacturers-future-plans-and-size-forecast-2022-2031-2022-08-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 31
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "z6ZeAP7K+UFJqWL6UIzXlYiutp8lBdZQGyq5ojWBkTZQ18qnfT+CzFht6YCzobZ8r9V13VH61cbbQPVoVJKVAfu+Z+K/jNJ5lOnPbWN0Mq8cJOr2aE7Q8ieyq4dMhAMAKweLnEqSHkPatUPyBKtt4Spz3+IIxmCdcgI9DIsr94Fc3/gAa81hSlRt/PbcecArllz4LUsRv0lK2BgivxBmxwUs34VY/XX/LsmL4k+usvwdiD/HVOwjYRlklprpVwisI8Kc6CQWhGIyrxCGkNjz0KJ2m4zG7KFoOpeB8Dnv+Mm4c6xF8sqzkvi37gQWynWbWtnUFyANqKXNrbaPryx339CEKbygoeXMU1jZz58uy0I=;87xK8e/t46c9O2WcpDxkXA=="
 ---

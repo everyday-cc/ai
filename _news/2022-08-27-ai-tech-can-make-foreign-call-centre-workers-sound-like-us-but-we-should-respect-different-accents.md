@@ -24,19 +24,19 @@ images:
     isCached: true
 
 related:
-  - title: "AI Startup Wants to Make Foreign Call Center Employees Sound White"
-    excerpt: "Sanas argues that its technology can be empowering for call center employees by removing bias and limiting misunderstandings during phone conversations. Critics say it's erasure."
-    publishedDateTime: 2022-08-25T16:56:00Z
-    webUrl: "https://www.pcmag.com/news/ai-startup-wants-to-make-foreign-call-center-employees-sound-white"
+  - title: "Actors worry that AI is taking centre stage"
+    excerpt: "It seemed reasonable to assume that AI would transform or even eliminate jobs in sectors such as accountancy and insurance, while work associated with human traits such as creativity would be relatively untouched."
+    publishedDateTime: 2022-08-30T04:00:00Z
+    webUrl: "https://www.ft.com/content/7c26a93f-88ec-4a50-8529-7df81af86208?shareType=nongift"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: The Financial Times
+      domain: ft.com
+    quality: 37
     images:
-      - url: "https://i.pcmag.com/imagery/articles/05P40am6RlXf9q8pCpYsR1f-1.fit_lim.size_1200x630.v1661442988.jpg"
-        width: 1120
-        height: 630
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
         isCached: true
 
 secured: "e6LHo+mF3K/BUrX0WgNBa3NK+YnjjadLCynrl6m9PPN7tiaAxjNdq4dQl2EbYp+HRpJWxISfQ2WWd3dv0QxHtFtG/3WIXqNoxP9NTvP7zzO4blkd5FKqS5AJKN15K1cNJ1znv0FnMauw9iMiGDGn7uhvayFUcU0xPkxGqj0gaItMr5+C+oOWFrCtLlLQSAItJZqz+N0p5ouiZsdaXzF1I0R/1uB6ZUw8ngcnpwbavTcdDCN0DrzLd0PNXVrfHydAG4c203NgFXBepcwRe77uQx25BQNH0JKwbe6hyroAWZLR0OFJWzA1+H/2DaWWaEew0FDNgR2jsQfdeqYhvyTtclRlkcRM5s5vIzbyFwZQQ8g=;3d6ZPsF5m/3AlF5GdNZWcA=="

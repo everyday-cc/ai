@@ -38,20 +38,6 @@ related:
       name: Fleet News
       domain: fleetnews.co.uk
     quality: 39
-  - title: "How Self-Driving Cars Will Change the Roads"
-    excerpt: "Are self-driving cars coming to a dealership near you? Here’s what you need to know about this tech and what it means for the future."
-    publishedDateTime: 2022-08-25T16:03:00Z
-    webUrl: "https://www.rd.com/article/self-driving-cars/"
-    type: article
-    provider:
-      name: Reader's Digest
-      domain: rd.com
-    quality: 24
-    images:
-      - url: "https://www.rd.com/wp-content/uploads/2022/08/self-driving-cars-GettyImages-1292394282-JVedit.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
   - title: "Former Apple employer admits stealing trade secrets for self-driving car project"
     excerpt: "An engineer who had access to information about Apple’s self-driving car project has pleaded guilty to stealing trade secrets about the project"
     publishedDateTime: 2022-08-26T06:42:00Z

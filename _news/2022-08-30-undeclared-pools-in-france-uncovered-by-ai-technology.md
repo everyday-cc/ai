@@ -3,22 +3,18 @@ category: news
 title: "Undeclared pools in France uncovered by AI technology"
 excerpt: "The discovery of thousands of undeclared private swimming pools in France has provided an unexpected windfall for French tax authorities. Following an experiment using artificial intelligence (AI), more than 20,"
 publishedDateTime: 2022-08-29T21:00:00Z
-originalUrl: "https://www.bbc.com/news/world-europe-62717599"
-webUrl: "https://www.bbc.com/news/world-europe-62717599"
-ampWebUrl: "https://www.bbc.com/news/world-europe-62717599.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-62717599.amp"
+originalUrl: "https://www.bbc.co.uk/news/world-europe-62717599"
+webUrl: "https://www.bbc.co.uk/news/world-europe-62717599"
+ampWebUrl: "https://www.bbc.co.uk/news/world-europe-62717599.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/world-europe-62717599.amp"
 type: article
-quality: 87
-heat: 127
-published: true
+quality: 57
+heat: -1
+published: false
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI
@@ -46,38 +42,6 @@ related:
         width: 650
         height: 400
         isCached: true
-  - title: "French tax officials use AI to spot 20,000 undeclared pools"
-    excerpt: "Scheme to be extended across the country after trial in nine departments led to extra €10m in tax receipts"
-    publishedDateTime: 2022-08-29T14:43:00Z
-    webUrl: "https://www.theguardian.com/world/2022/aug/29/french-tax-officials-use-ai-to-spot-20000-undeclared-pools"
-    ampWebUrl: "https://amp.theguardian.com/world/2022/aug/29/french-tax-officials-use-ai-to-spot-20000-undeclared-pools"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/aug/29/french-tax-officials-use-ai-to-spot-20000-undeclared-pools"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/b2e09692384a075af04aed6c188ac7353e0a7837/0_739_2577_1546/master/2577.jpg?width=620&quality=85&auto=format&fit=max&s=20aa812b23c81f8aba8eb2ff0f1f0104"
-        width: 620
-        height: 372
-        isCached: true
-  - title: "French tax officials use AI to spot 20,000 undeclared pools"
-    excerpt: "Scheme to be extended across the country after trial in nine departments led to extra €10m in tax receipts"
-    publishedDateTime: 2022-08-29T22:05:00Z
-    webUrl: "https://www.theguardian.com/world/2022/aug/29/french-tax-officials-use-ai-to-spot-20000-undeclared-pools?ref=upstract.com&curator=upstract.com"
-    ampWebUrl: "https://amp.theguardian.com/world/2022/aug/29/french-tax-officials-use-ai-to-spot-20000-undeclared-pools"
-    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/aug/29/french-tax-officials-use-ai-to-spot-20000-undeclared-pools"
-    type: article
-    provider:
-      name: The Guardian
-      domain: theguardian.com
-    quality: 57
-    images:
-      - url: "https://i.guim.co.uk/img/media/b2e09692384a075af04aed6c188ac7353e0a7837/0_739_2577_1546/master/2577.jpg?width=620&quality=85&auto=format&fit=max&s=20aa812b23c81f8aba8eb2ff0f1f0104"
-        width: 620
-        height: 372
-        isCached: true
   - title: "Google AI spots 20,000 undeclared pools in $14 million tax windfall for French government"
     excerpt: "AI software developed by Google has found thousands of undeclared swimming pools in French backyards, resulting in a hefty tax bill for the owners."
     publishedDateTime: 2022-08-30T01:55:00Z
@@ -93,6 +57,6 @@ related:
         height: 336
         isCached: true
 
-secured: "oyUM26hW1ROhzQUJuGEMmB46jBKhxN8sNmS6VIwn1DVTep4LXhBIoBaprm06qYau4PVbm1XGcrEaZ6s5wm3GV019HzlLBW0iTrzHIOK59056DiDDwPdXlaqD94CBgrO/aOLCkvY/gYH6+ObF4slVb/dWyMZnFvfPoYa/j8XbST0p8edX0fSywyD2DTFNqg8ekEb7Fz1urD/CsO8E6OgdxQLTN1U+9+jywWt7mDEYfdvcAAPLcILKgdYNUYevJicckj8YojR1iD+7IU3TPPXDg4x06mxdlu9zdRTt65F6IGTkgRpZhCeY6rpl5/dc4yp0crxOziieIYFd4x5p0MjQcHL/bjJdMKKASO+wODneL/WvSPTEUeoNaTTi5fAScalgBTRaPOkuxvwkLtBCFSVVDU3t4svdRbDId9xMu4L+o6LagkXy+KT1/2dB8o75LQa1HC8GiHwhnzOyCYJVhNtXnHZW9mkAEg+esYvB5sfby9/zPGLKiyWTJuUWNXha6xlXYUJdEOSfxipdvILQUSKk5Q==;8Vzrl4mG/l8z0xVE0zjd6g=="
+secured: "f/sOrE0hUiPd1dXcg/s39DJG4LiLwGGon6arUI/AmqsGnBCjNdwFh24AP8ANMvF2fV10FJHButQ+ciTNfGcbJf/P0/iL7zDk+0ZJUaNehO6L2MU1Ol7ZPOfiLly+sCL0G7wLfNBuFemJs4wcMMFMBZoS/Q8ufRgyjNpRAkPo2b4zN/zNIcm/oov4Ih91FAa3gljTPolUXLTQVZNJwH0SEZvLdJTCJReRUhM3t4ljbip5NS6x13c2xJuD6ZhqSTtLTMHKKrMYJmrDbjDtLgapdjVwFRzCK8sOjJk4G7SWcSFt1X2RFwMlzzeibtnVUX61fTkgQL3Eb8uB45hyBUSklhZAtfcHyQBFzh6H6ZDV9cQ=;duMOI7olbRokQT+tKSHOkw=="
 ---
 

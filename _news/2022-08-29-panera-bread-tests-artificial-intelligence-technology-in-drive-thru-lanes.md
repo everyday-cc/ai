@@ -26,35 +26,35 @@ images:
     isCached: true
 
 related:
-  - title: "Join us in the AI Test Kitchen"
-    excerpt: "As AI technologies continue to advance, they have the potential to unlock new experiences that support more natural human-computer interactions. We see a future where you can find the information you’re looking for in the same conversational way you speak to friends and family. While there’s still lots"
-    publishedDateTime: 2022-08-25T16:00:00Z
-    webUrl: "https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/"
-    ampWebUrl: "https://blog.google/technology/ai/join-us-in-the-ai-test-kitchen/amp/"
-    cdnAmpWebUrl: "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/join-us-in-the-ai-test-kitchen/amp/"
+  - title: "Panera Bread Tests Artificial Intelligence Drive-Thru Ordering"
+    excerpt: "Panera Bread announced on Monday that it will be testing out artificial intelligence ordering technology at select locations with drive-thru services to analyze if the system can work more efficiently than currently."
+    publishedDateTime: 2022-08-29T23:31:00Z
+    webUrl: "https://www.ibtimes.com/panera-bread-tests-artificial-intelligence-drive-thru-ordering-3606957"
+    ampWebUrl: "https://www.ibtimes.com/panera-bread-tests-artificial-intelligence-drive-thru-ordering-3606957?amp=1"
+    cdnAmpWebUrl: "https://www-ibtimes-com.cdn.ampproject.org/c/s/www.ibtimes.com/panera-bread-tests-artificial-intelligence-drive-thru-ordering-3606957?amp=1"
     type: article
     provider:
-      name: Google
-      domain: blog.google
-    quality: 109
+      name: International Business Times
+      domain: ibtimes.com
+    quality: 57
     images:
-      - url: "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/image_louDEPv.max-1300x1300.png"
-        width: 1300
-        height: 731
+      - url: "https://d.ibtimes.com/en/full/3395558/panera-bread-baguette-diamand-rings.jpg"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "Google's Test Kitchen App Asks You Talk to AI About Dogs"
-    excerpt: "LaMDA is a prototype AI system capable of deciphering a conversation's intent, and Google needs your help testing it out via the Test Kitchen app."
-    publishedDateTime: 2022-08-26T13:30:00Z
-    webUrl: "https://www.pcmag.com/news/googles-test-kitchen-app-asks-you-talk-to-ai-about-dogs"
+  - title: "Panera tests drive-thru AI"
+    excerpt: "The chain is working with OpenCity to deploy AI technology to two cafes in upstate New York, aiming to improve speed of service, order accuracy and personalization."
+    publishedDateTime: 2022-08-29T15:57:00Z
+    webUrl: "https://www.restaurantdive.com/news/panera-tests-drive-thru-ai-technology/630678/"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: restaurantdive
+      domain: restaurantdive.com
+    quality: 37
     images:
-      - url: "https://i.pcmag.com/imagery/articles/02aFSmyk24iY6AKYmO4LH89-2.fit_lim.size_1200x630.v1661520065.png"
-        width: 830
-        height: 467
+      - url: "https://www.restaurantdive.com/imgproxy/R-5zHHNlyhWf7Wpieu8sHHPgWpXJKd3tBvULO0RA3nw/g:ce/rs:fill:770:364:0/bG9jYWw6Ly8vZGl2ZWltYWdlL1BhbmVyYV9OZXh0R2VuX0V4dGVyaW9yX0Zyb250X2lKYTlaMVIuanBn.jpg"
+        width: 770
+        height: 364
         isCached: true
 
 secured: "WvFNxf6NPTR58K6IV4cHsqiuv3WHDWO6//RS6BDPmEDFjL5O5tTeJ4o4XHR87urjJMcNoqIBcVQ4lnZdXG5suWcRBXnS2GJGRi9kPUTUED9R09KYTATSgncw0ajNQXMkLSoTdUsxpV86S68U7HbFS6WAHpsA5D7sUGU2R5LjpSwiyPKTGbCQMwx+94XEi9krc0F3t1GIpPklBWGMPPMV/UvsYg0zaVHBjsjr6aR70qbI5PvFNYvZqYNY0i9aT9bLwxb4DOnz7D0m31lQ08/JuP5UiqE7PCVdLS9+p/13MrWO0Vmv7D0/h47ox2J8ezaLyEcuLyUbRhonzuJlYP6HGaqPscBAnbjT8vytuUzkPRQ=;UTPzDAaGEqHKzPkicBkZPA=="

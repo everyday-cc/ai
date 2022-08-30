@@ -46,20 +46,6 @@ related:
       name: Fleet News
       domain: fleetnews.co.uk
     quality: 39
-  - title: "How Self-Driving Cars Will Change the Roads"
-    excerpt: "Are self-driving cars coming to a dealership near you? Here’s what you need to know about this tech and what it means for the future."
-    publishedDateTime: 2022-08-25T16:03:00Z
-    webUrl: "https://www.rd.com/article/self-driving-cars/"
-    type: article
-    provider:
-      name: Reader's Digest
-      domain: rd.com
-    quality: 24
-    images:
-      - url: "https://www.rd.com/wp-content/uploads/2022/08/self-driving-cars-GettyImages-1292394282-JVedit.jpg"
-        width: 2400
-        height: 1600
-        isCached: true
 
 secured: "c05z1BP+ZTYwPlLTPYJ7V2HhsdteazIpFu5UunVB11csKvTTzzXAWzqX852nLBma2G9FV1SNbOJhyyENvfshqzeVQ2ZcgtKO7CspFNHMRI0bBjpliKokMM83SCtltAyfDRg/NSLEVaLRE6EkR1JHojNezljaeq955pdPeh8fKdMk5UuUPz+SGYtG5tZTuNpS4O1q1FIhQ/+yu/XsFpskZuJ9ZARaEqKFeSHJ9uK8qfHXmxFFN4EwBmrNUm5x6naOF47XFwNrWI4LwVsPRe7CdoxHT2N6rkYetLdPUKxX/PHbKltcYbbAODvk4x3Woybjwme+Uq6yoJ0GDSI/I9Hnvj2oJwemDSAhaSekm5pmNJlMn+KUaZ82MUNfz4DRMoRA77MjokeXN23AvIf/VQdd0B0nJmO8/WY8uYesvovO/wJv6SGJhbozK2Q8NOcoprlqq1skYzqaUrnxN4enFFBpikb0X6kaCMJxLPasz7er1h5DcLDr16IlOsECwyZbZiShPo1M8fnhRoOCQ6+34PahHQ==;Kk+ZiGi393kOmh64rFLhIA=="
 ---

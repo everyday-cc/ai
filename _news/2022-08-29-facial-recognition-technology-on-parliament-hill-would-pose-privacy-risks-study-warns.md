@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Use of facial recognition as security tool on Parliament Hill would pose risks: study"
-    excerpt: "The use of facial recognition technology as a security tool on Parliament Hill would pose substantial legal, privacy and human rights risks — and might even be unlawful, says a study prepared for the parliamentary security unit."
-    publishedDateTime: 2022-08-29T19:51:00Z
-    webUrl: "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study"
-    ampWebUrl: "https://nationalpost.com/pmn/news-pmn/canada-news-pmn/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study/wcm/76d2c4ba-41f1-4a11-81de-4fad006e2269/amp/"
-    cdnAmpWebUrl: "https://nationalpost-com.cdn.ampproject.org/c/s/nationalpost.com/pmn/news-pmn/canada-news-pmn/use-of-facial-recognition-as-security-tool-on-parliament-hill-would-pose-risks-study/wcm/76d2c4ba-41f1-4a11-81de-4fad006e2269/amp/"
-    type: article
-    provider:
-      name: National Post
-      domain: nationalpost.com
-    quality: 69
-    images:
-      - url: "https://smartcdn.gprod.postmedia.digital/nationalpost/wp-content/uploads/2022/08/rjb103-the-canadian-press-5.jpg"
-        width: 1000
-        height: 750
-        isCached: true
   - title: "Facial recognition as Parliament Hill security tool would pose legal, privacy risks: study"
     excerpt: "The report was completed in April by the Leadership Lab at Toronto Metropolitan University at the request of the Parliamentary Protective Service, which funded the research."
     publishedDateTime: 2022-08-29T17:11:00Z
