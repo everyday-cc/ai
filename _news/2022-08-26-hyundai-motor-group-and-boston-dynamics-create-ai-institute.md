@@ -7,7 +7,7 @@ originalUrl: "https://www.fudzilla.com/news/55385-hyundai-motor-group-and-boston
 webUrl: "https://www.fudzilla.com/news/55385-hyundai-motor-group-and-boston-dynamics-create-ai-institute"
 type: article
 quality: 39
-heat: -1
+heat: 39
 published: false
 
 provider:
@@ -23,24 +23,6 @@ images:
     width: 620
     height: 465
     isCached: true
-
-related:
-  - title: "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics"
-    excerpt: "Hyundai Motor Group (the Group) today announced the launch of Boston Dynamics AI Institute (the Institute), with the goal of making fundamental advances"
-    publishedDateTime: 2022-08-25T05:41:00Z
-    webUrl: "https://www.albawaba.com/business/pr/hyundai-motor-group-launches-boston-dynamics-ai-institute-spearhead-advancements"
-    ampWebUrl: "https://www.albawaba.com/amp/business/pr/hyundai-motor-group-launches-boston-dynamics-ai-institute-spearhead-advancements"
-    cdnAmpWebUrl: "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/hyundai-motor-group-launches-boston-dynamics-ai-institute-spearhead-advancements"
-    type: article
-    provider:
-      name: Al Bawaba News
-      domain: albawaba.com
-    quality: 81
-    images:
-      - url: "https://www.albawaba.com/sites/default/files/styles/default/public/2022-08/40039-Large370072020KonaElectric.jpg?itok=k2Z28teN"
-        width: 595
-        height: 394
-        isCached: true
 
 secured: "n3v/EizZ/IBwVg32tBo2SL68rAZe/cljsNmkN+YDKheTtsRzpKV4rnqpM3ctHTA4GaqKSy4vEKnkZ/CllB9ORwTnde5M5EghLqHUH4eOgYx5nVtP4+CKlI2PPK5h71ybW5fLZLIaK3dJOeIjBb9GsOi1WvNR6eJnCJx5qDvCF5ApiHDhDxnhLEMy/nnQv/EZCiH5V7R7GlukEMZGOz5IaMGYpcR6eOjv5FCcr/lBy1Ey9OggpmvpquzbOFrweZAKS35oQpjZh++pT1L44efY6WZSXTR85D+FrI9CH8NbdlvOlNCTeZfd16KTNhXx11Uwk7uv4OtGbre6R+ehBWm+dgdnE9AY1vVlsd28yKCqr1VdmMWto/IUIfDcmiC94cxLZxLINc0ibtyw2Wu08RxYABq5/q3qZL+3SWrVYpyiKZaNJhmBDao1G8sGln+RNirZKc7WJ1F+kmGb6+v2XSvqDq/+EKdMDTIVdjAB55A4ABjG5hods37VZhDPOgM9fr1DMkXsxY5/raKKTXeOlTJknQ==;qkCyG1rmJ+/X3ItaRmHE3Q=="
 ---

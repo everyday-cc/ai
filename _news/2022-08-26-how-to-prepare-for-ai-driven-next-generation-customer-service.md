@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/26/how-to-pre
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/26/how-to-prepare-for-ai-driven-next-generation-customer-service/amp/"
 type: article
 quality: 87
-heat: 100
+heat: 97
 published: true
 
 provider:

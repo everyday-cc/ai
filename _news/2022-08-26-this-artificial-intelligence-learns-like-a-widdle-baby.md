@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-26T00:00:00Z
 originalUrl: "https://www.scientificamerican.com/podcast/episode/this-artificial-intelligence-learns-like-a-widdle-baby/"
 webUrl: "https://www.scientificamerican.com/podcast/episode/this-artificial-intelligence-learns-like-a-widdle-baby/"
 type: article
-quality: 39
-heat: 39
+quality: 41
+heat: 41
 published: false
 
 provider:
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Autos
   - AI
+  - Google AI
 
 images:
   - url: "https://static.scientificamerican.com/sciam/cache/file/66A04382-38BD-47EB-A55541BFB1722F68.jpeg"

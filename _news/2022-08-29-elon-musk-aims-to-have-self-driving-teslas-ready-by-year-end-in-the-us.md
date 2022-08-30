@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/elon-musk-aims-have-self-drivin
 webUrl: "https://www.reuters.com/technology/elon-musk-aims-have-self-driving-teslas-ready-by-year-end-us-2022-08-29/"
 type: article
 quality: 83
-heat: 123
+heat: 133
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Elon Musk: focused on getting self-driving Teslas in wide release by year-end"
+    excerpt: "The world must continue to extract oil and gas in order to sustain civilisation, while continuing to also develop sustainable sources of energy, Tesla founder Elon Musk told reporters at a conference in Norway on Monday."
+    publishedDateTime: 2022-08-29T16:23:00Z
+    webUrl: "https://www.reuters.com/business/energy/elon-musk-says-world-still-needs-oil-gas-2022-08-29/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 66
+    images:
+      - url: "https://www.reuters.com/resizer/R4cQPqkeAFIqFa7vRkbVIZLmGzE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RNKFK5ENWZLSBKGNTC4P5OADEE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Focused on getting self-driving Teslas in wide release by year-end: Musk"
     excerpt: "Speaking at an energy conference in Norway, Tesla CEO said his attention was currently focused on his SpaceX Starship spacecraft and self-driving Tesla electric cars"
     publishedDateTime: 2022-08-29T11:49:00Z

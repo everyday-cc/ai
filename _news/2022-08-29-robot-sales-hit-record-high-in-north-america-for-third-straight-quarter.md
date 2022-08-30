@@ -1,55 +1,24 @@
 ---
 category: news
 title: "Robot Sales Hit Record High in North America for Third-Straight Quarter"
-excerpt: "Association for Advancing Automation latest stats show the most robots sold in any quarter; automotive industry returns to historic norms, while food & consumer goods continues interest in automation to handle e-commerce logistics boom."
-publishedDateTime: 2022-08-29T15:16:00Z
-originalUrl: "https://www.automation.com/en-us/articles/august-2022/robot-sales-hit-record-high-north-america"
-webUrl: "https://www.automation.com/en-us/articles/august-2022/robot-sales-hit-record-high-north-america"
+excerpt: "For the third-straight quarter, robot sales in North America hit a record high, driven by a resurgence in sales to automotive companies and an ongoing need to manage increasing demand to automate logistics for e-commerce."
+publishedDateTime: 2022-08-29T13:18:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-robot-sales-hit-record-high-in-north-america-for-third-straight-quarter"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-robot-sales-hit-record-high-in-north-america-for-third-straight-quarter"
 type: article
-quality: 71
-heat: 95
-published: true
+quality: 51
+heat: 51
+published: false
 
 provider:
-  name: Automation
-  domain: automation.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Robotics
   - AI
   - AI in Sales
 
-images:
-  - url: "https://www.automation.com/getmedia/78715b12-b6e5-4559-9d38-61e4938d9b6f/Robots-news-Aug-29-2022-web.png?width=500&height=313&ext=.png"
-    width: 500
-    height: 313
-    isCached: true
-
-related:
-  - title: "North America Machine Learning Market Size Outlook, Share, Revenue, Regions & Forecast 2022-2031"
-    excerpt: "A report on North America Machine Learning Market was recently added by Kenneth Research into its database, which is"
-    publishedDateTime: 2022-08-26T05:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-machine-learning-market-size-outlook-share-revenue-regions-forecast-2022-2031-2022-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "North America AI in Computer Vision Market Facts & Figures, Analytical Insights and Future Forecast 2027"
-    excerpt: "Pune, India- North America AI in Computer Vision Market is expected to grow from US$ 1,761.21 million in 2019 to"
-    publishedDateTime: 2022-08-25T13:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-ai-in-computer-vision-market-facts-figures-analytical-insights-and-future-forecast-2027-2022-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 47
-
-secured: "ZJPKIsj1Pv7Bb7Kr4p+/aPV4lY4fA04r8lb0JpWdrudMZyufAKqfrGVE6gsbK+AjdQK+EdzBgMEwuaqSu/g4W6F5gX3c7k2DwAfpAeh9szSEsCfM+UVs2pV1erqM1pF4g6PXQ5uagY2ZQ30DOh+kwZNGalXhv6U3VeXsOK9iC34KVExco8R+vv/OU/itPs+Kgj/NY+zw9kvnYzEk9oxmgTA73sZqIFqQRRDATxb5GIq96bvASzSdeYKOL7w6KHceh5y558zv1K2L3LqRTG2w2c37BhXbqV/Isp+mVGBea0M2uHHL586+XzfvvHa1sIxea1KOR/pEcV5rMnSY+X6SyPgUkFbiBoqhzeY0LDT31Bk=;lLSS1/3TqDnNPIB5gVmPwA=="
+secured: "BmR0QGc+GzjRTEhUJeu4mviOM3Q2YB+PpVr/8rOHhRprqMbtqPnCjNWADyg0kKleI+rfUzQ4eR+4q6Fcglpu2rFta25S0TpTfKN5FjUGogdfEXe4vZl2GAehLButkTeJA9FUJap1LnFAy7JNW7REkGfcCkVteq9+0O19HYENVdYWwV2Tu6+piQjT48KWAQyXMnyseiJfHVBAbASIjipPUTUYG04tVANImpvrVNMynfk19F34YViHDMGHFJ08cHUENuOVdkCTVk3CSXLiyG1lDTxQcu7xOaQD/j4af60IkQb3U7oY6G8gVkf0pSrvmj5k2Y7AtfQp+4HLSrcy0NXKx7PcEVj9cc+BQSc++HZgZ8Aea6kJvMKhVVObLN1dmKM5+SWf2J9WBm2PUjYjVd0FGKiKrPHNTCBDLPN6SerMWKtdlTqgXK6e6JEC0GZcZ17nx0bSdi2vgYSMlCsEkdV+z/bNNpBduropi/rArlDUBXX0cwG54sMTvfMyCL3CLrwz2KLDSy4aak4kG5X6gjO8ew==;Gkbw4g6HXahWR4HWF92fzw=="
 ---
 

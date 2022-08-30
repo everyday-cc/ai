@@ -89,6 +89,38 @@ related:
         width: 700
         height: 466
         isCached: true
+  - title: "Selection of Shaquille O'Neal as spokesperson for Indigenous Voice push leaves Australians confused"
+    excerpt: "The prime minister claimed O'Neal reached out to him because \"he wanted to inform himself about what this debate was about\". Now O'Neal will be a part of the government's campaign"
+    publishedDateTime: 2022-08-29T23:23:00Z
+    webUrl: "https://www.newshub.co.nz/home/world/2022/08/selection-of-shaquille-o-neal-as-spokesperson-for-indigenous-voice-push-leaves-australians-confused.html"
+    ampWebUrl: "https://www.newshub.co.nz/home/world/2022/08/selection-of-shaquille-o-neal-as-spokesperson-for-indigenous-voice-push-leaves-australians-confused.amp.html"
+    cdnAmpWebUrl: "https://www-newshub-co-nz.cdn.ampproject.org/c/s/www.newshub.co.nz/home/world/2022/08/selection-of-shaquille-o-neal-as-spokesperson-for-indigenous-voice-push-leaves-australians-confused.amp.html"
+    type: article
+    provider:
+      name: Newshub
+      domain: newshub.co.nz
+    quality: 30
+    images:
+      - url: "https://www.newshub.co.nz/home/world/2022/07/changes-to-501-law-abandoned-by-australia/_jcr_content/par/video/image.dynimg.768.q75.jpg/v1658454095610/Albanese+Ardern+Getty+1120.jpg"
+        width: 768
+        height: 438
+        isCached: true
+  - title: "What does American basketballer Shaquille O’Neal have to do with the Indigenous Voice to Parliament?"
+    excerpt: "Is the Albanese government’s decision to bring NBA star Shaquille O'Neal in on Indigenous reform inspired or ‘cultural cringe’?"
+    publishedDateTime: 2022-08-29T09:35:00Z
+    webUrl: "https://theconversation.com/what-does-american-basketballer-shaquille-oneal-have-to-do-with-the-indigenous-voice-to-parliament-189533"
+    ampWebUrl: "https://theconversation.com/amp/what-does-american-basketballer-shaquille-oneal-have-to-do-with-the-indigenous-voice-to-parliament-189533"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/what-does-american-basketballer-shaquille-oneal-have-to-do-with-the-indigenous-voice-to-parliament-189533"
+    type: article
+    provider:
+      name: The Conversation
+      domain: theconversation.com
+    quality: 29
+    images:
+      - url: "https://images.theconversation.com/files/481533/original/file-20220829-13-i60s6d.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
   - title: "Shaquille O’Neal to support Australia’s Indigenous ‘Voice’ campaign"
     excerpt: "SYDNEY: American basketballer Shaquille O’Neal will throw his support behind the Australian government’s campaign to create an Indigenous “Voice to Parliament”, Prime Minister Anthony Albanese said today."
     publishedDateTime: 2022-08-27T07:23:00Z

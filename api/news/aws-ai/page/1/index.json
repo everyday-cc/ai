@@ -2,22 +2,31 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-08-26-run-image-segmentation-with-amazon-sagemaker-jumpstart.md",
-      "title": "Run image segmentation with Amazon SageMaker JumpStart",
-      "excerpt": "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models across popular",
+      "path": "_news/2022-08-29-use-amazon-sagemaker-pipeline-sharing-to-view-or-manage-pipelines-across-aws-accounts.md",
+      "title": "Use Amazon SageMaker pipeline sharing to view or manage pipelines across AWS accounts",
+      "excerpt": "On August 9, 2022, we announced the general availability of cross-account sharing of Amazon SageMaker Pipelines entities. You can now use cross-account support for Amazon SageMaker Pipelines to share pipeline entities across AWS accounts and access shared pipelines directly through Amazon SageMaker API",
       "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/run-image-segmentation-with-amazon-sagemaker-jumpstart/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/run-image-segmentation-with-amazon-sagemaker-jumpstart/",
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-pipeline-sharing-to-view-or-manage-pipelines-across-aws-accounts/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-pipeline-sharing-to-view-or-manage-pipelines-across-aws-accounts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 89,
+      "heat": 117,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/29/sagemaker-pipeline-sharing.jpg",
+          "width": 1532,
+          "height": 764,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T12:32:18-07:00",
+      "publishedDateTime": "2022-08-29T15:35:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "AWS",

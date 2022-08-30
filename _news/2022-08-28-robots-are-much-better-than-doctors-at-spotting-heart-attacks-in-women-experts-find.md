@@ -43,6 +43,22 @@ related:
         width: 1320
         height: 1465
         isCached: true
+  - title: "Medical Moment: Artificial intelligence without internet"
+    excerpt: "Researchers at the University of Central Florida are developing devices that won’t rely on internet connections to work in remote areas."
+    publishedDateTime: 2022-08-29T21:58:00Z
+    webUrl: "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/"
+    ampWebUrl: "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/?outputType=amp"
+    cdnAmpWebUrl: "https://www-wndu-com.cdn.ampproject.org/c/s/www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/?outputType=amp"
+    type: article
+    provider:
+      name: WNDU
+      domain: wndu.com
+    quality: 57
+    images:
+      - url: "https://gray-wndu-prod.cdn.arcpublishing.com/resizer/Zjrp52IWw1kfNqZiri7HqgaeAvY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/T5PZWRAKHRDDNBCFVXCYT3H66Q.jpg"
+        width: 800
+        height: 450
+        isCached: true
   - title: "Artificial Intelligence Improves Treatment in Women with Heart Attacks"
     excerpt: "Heart attacks in women are more likely to be fatal than in men. The reasons are differences in age and in comorbidity burden which makes risk assessment in women a challenge. Researchers have now developed a novel artificial-intelligence-based risk score that improves personalized care for female patients with heart attacks."
     publishedDateTime: 2022-08-29T19:01:00Z

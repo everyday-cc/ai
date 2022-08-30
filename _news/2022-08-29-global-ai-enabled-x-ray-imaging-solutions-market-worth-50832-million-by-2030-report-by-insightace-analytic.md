@@ -7,7 +7,7 @@ originalUrl: "https://menafn.com/1104773931/Global-AI-Enabled-X-Ray-Imaging-Solu
 webUrl: "https://menafn.com/1104773931/Global-AI-Enabled-X-Ray-Imaging-Solutions-Market-Worth-50832-Million-By-2030-Report-By-Insightace-Analytic"
 type: article
 quality: 20
-heat: 20
+heat: -1
 published: false
 
 provider:
@@ -25,6 +25,20 @@ images:
     isCached: true
 
 related:
+  - title: "Global Artificial Intelligence In Cancer Diagnosis And Therapy Market Worth $ 5.62 Billion By 2030"
+    excerpt: "Global Artificial Intelligence in Cancer Diagnosis and Therapy Market info. Global Artificial Intelligence in Cancer Diagnosis and Therapy Market seg. Glob"
+    publishedDateTime: 2022-08-29T10:58:00Z
+    webUrl: "https://menafn.com/1104774038/Global-Artificial-Intelligence-In-Cancer-Diagnosis-And-Therapy-Market-Worth-562-Billion-By-2030"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 42
+    images:
+      - url: "https://menafn.com/updates/pr/2022-08/29/EP_6cb89image_story.jpeg"
+        width: 600
+        height: 314
+        isCached: true
   - title: "Global AI In Biopharmaceutical Development Market Worth $ 16.4 Billion By 2030-Report By Insightace Analytic"
     excerpt: "Global AI in the Biopharmaceutical Development market is valued US$ 452.33 Million in 2021, and it is expected to reach US$ 16.4 Billion by 2030, CAGR of 49.3% Major market players operating in AI in the biopharmaceutical Development market include IBM Watson Health,"
     publishedDateTime: 2022-08-29T11:02:00Z

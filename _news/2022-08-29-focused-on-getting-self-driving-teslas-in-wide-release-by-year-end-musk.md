@@ -41,6 +41,20 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Elon Musk: focused on getting self-driving Teslas in wide release by year-end"
+    excerpt: "The world must continue to extract oil and gas in order to sustain civilisation, while continuing to also develop sustainable sources of energy, Tesla founder Elon Musk told reporters at a conference in Norway on Monday."
+    publishedDateTime: 2022-08-29T16:23:00Z
+    webUrl: "https://www.reuters.com/business/energy/elon-musk-says-world-still-needs-oil-gas-2022-08-29/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 66
+    images:
+      - url: "https://www.reuters.com/resizer/R4cQPqkeAFIqFa7vRkbVIZLmGzE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RNKFK5ENWZLSBKGNTC4P5OADEE.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Elon Musk aims to have self-driving Teslas ready by year-end"
     excerpt: "Tesla’s self-driving technology could be in wide release in the U.S. by the end of the year, and possibly also in Europe, depending on regulatory approval."
     publishedDateTime: 2022-08-29T12:29:00Z

@@ -56,20 +56,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Robots Market Report with Growth Strategies 2022 Industry Share, Revenue and Forecast to 2030"
-    excerpt: "Get a Complete report on Artificial Intelligence Robots Market ' (Including Full TOC, 100+ Tables & Figures, and charts). -Covers Precise Information on Pre & Post COVID-19 Market Outbreak by Region Global Artificial Intelligence (AI) Robots Market is valued approximately USD 6."
-    publishedDateTime: 2022-08-25T06:33:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-report-with-growth-strategies-2022-industry-share-revenue-and-forecast-to-2030-2022-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Machine learning Market Latest Trends, Size, Key Players, Revenue and Forecast 2022-2031"
     excerpt: "A report on Machine learning Market was recently added by Kenneth Research into its database, which is aimed at"
     publishedDateTime: 2022-08-26T05:06:00Z
@@ -112,29 +98,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence as a Service Market Size In 2022 : 48.2% CAGR with Top Countries Data, Trends, Key Regions and Growth Forecast to 2031"
-    excerpt: "The Artificial Intelligence (AI) as a service market is expected to grow at a Compound Annual Growth Rate (CAGR) of 48.2% during the forecast period. The AI as a service market is expected to grow from USD 1."
-    publishedDateTime: 2022-08-25T06:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-as-a-service-market-size-in-2022-482-cagr-with-top-countries-data-trends-key-regions-and-growth-forecast-to-2031-2022-08-25"
+  - title: "Cloud Natural Language Processing Market 2022 historical, projected revenue figures, growth rate throughout the forecast period 2028"
+    excerpt: "Global “ Cloud Natural Language Processing Market ” 2022 on sales, trends, outlook, current and future market overview and detailed search, value chain optimization, trade regulation, regional and national levels,"
+    publishedDateTime: 2022-08-28T17:17:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-2022-historical-projected-revenue-figures-growth-rate-throughout-the-forecast-period-2028-2022-08-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 33
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Far-field Speech Recognition Market Industry Share, Size, Growth : 2022 Market Research with Manufacturers, Segments and 2028 Forecasts Research"
-    excerpt: "Global Far-field Speech Recognition Market research report 2022 provides comprehensive information about market"
-    publishedDateTime: 2022-08-25T06:34:00Z
-    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-recognition-market-industry-share-size-growth-2022-market-research-with-manufacturers-segments-and-2028-forecasts-research-2022-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
+    quality: 38
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
