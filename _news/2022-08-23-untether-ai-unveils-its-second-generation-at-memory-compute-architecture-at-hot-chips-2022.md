@@ -1,27 +1,20 @@
 ---
 category: news
 title: "Untether AI Unveils Its Second-Generation At-Memory Compute Architecture at HOT CHIPS 2022"
-excerpt: "Untether AITM, the leader in at-memory computation for artificial intelligence (AI) workloads, today announced at the HOT CHIPS 2022 conference its next-generation architecture for accelerating AI inference workloads called speedAI devices,"
-publishedDateTime: 2022-08-23T15:16:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c"
-webUrl: "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c"
+excerpt: "AI architecture delivers 2 PetaFlops of performance at 30 TeraFlops/W of energy efficiency. Untether AI TM, the leader in at-memory computation for artificial intelligence (A"
+publishedDateTime: 2022-08-23T15:15:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-23-untether-ai-unveils-its-second-generation-at-memory-compute-architecture-at-hot-chips-2022"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-23-untether-ai-unveils-its-second-generation-at-memory-compute-architecture-at-hot-chips-2022"
 type: article
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI Hardware
   - AI
-  - Machine Learning
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "fk+o+zVFKf6LCf+tFYBrPQt/UL2i/afzG9SKw0efDq/CtMkA6MPOt+9Xt/SDqM1uMBDz0qE26MHeeaiyRDwBuxoEQoDRb8qvOOKYhSDdd2D3hE69xBwufkjRGp1m4M5ZrMX4N0KE2jJ5MpROY9IIWGKWQOkp2J3EbepGNnpCsYdA+ILp06BFwlkvaymRRg3vIZpTo/3eTnuxhpObo1tgsviA7I6TquLvg5d9gZp1Z5A8FilzHIMQNlgtBgVFbQI9VpVjxUZPB2vD/LVpmsi/ZJuCU7onNIsDnC/4CTyB1cAxb3zCRzqjUJClCUnzFgIajb/1g8Wug+IJouB8onBihjkmGYGWF2yjipFApfRLmLY=;VpQn4H+PO9IOSlLaIr2t4A=="
+secured: "ia9hJUNBUiEivgK1Ex2FP9tDHeGfctJagM8OvRrSaR5nm6aPMZPVp1fsf4s4OqDbApOUtOpmP1UWJRvemwvmXWUil+w2O8qqTA7OzLi6Fii7RNn+/JZZjnwaaEeyGJa4K6KLYEwMqOXchvmnEJK6pzBQlRnZkxLGFZbWqHug5Z6fvpfUCshHUo/3va7uS2ml/ty7f23UhEpk8C5z2wRtlnM7XqOQulSQf3wl8iXRRKYT/uu6HW/AkLcQ85IrqE6SvPFsA19jQfK5wQCvgxs7P4Fhx4jl77okSkpm2hGJvVtEhAnytNPt/7WWMF3z4M3VC1WwMNx7S2jR6rKvp6bNfBTITqMII5UKLalTdoHfmg0=;8ZAHSRCVZ/Lcc0w8hq9Mkg=="
 ---
 

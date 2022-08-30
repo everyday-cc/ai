@@ -17,6 +17,7 @@ provider:
 topics:
   - AI
   - Machine Learning
+  - Microsoft AI
 
 related:
   - title: "Putin Orders Troop Replenishment In Face Of Ukraine Losses"
