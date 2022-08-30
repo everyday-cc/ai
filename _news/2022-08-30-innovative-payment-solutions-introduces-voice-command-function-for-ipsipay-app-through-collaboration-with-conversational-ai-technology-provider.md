@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-30T13:17:00Z
 originalUrl: "https://apnews.com/press-release/globe-newswire/technology-43dd32330de56b40d4b503cdbbed5410"
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-43dd32330de56b40d4b503cdbbed5410"
 type: article
-quality: 0
+quality: 4
 heat: -1
 published: false
 
@@ -17,6 +17,8 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+  - AI in Finance
+  - Microsoft AI
 
 images:
   - url: "https://apnews.com/images/PaidContent3.png"

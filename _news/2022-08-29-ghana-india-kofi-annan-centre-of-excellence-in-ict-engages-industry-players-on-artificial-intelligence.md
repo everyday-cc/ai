@@ -26,6 +26,22 @@ images:
     height: 1067
     isCached: true
 
+related:
+  - title: "Ghana-India Kofi Annan Centre of Excellence in ICT engages industry players on Artificial Intelligence"
+    excerpt: "Ghana-India Kofi Annan Centre of Excellence in ICT has commenced Artificial Intelligence (AI) knowledge series with Tech industry players on leveraging technologies to address everyday problems."
+    publishedDateTime: 2022-08-30T15:18:00Z
+    webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Ghana-India-Kofi-Annan-Centre-of-Excellence-in-ICT-engages-industry-players-on-Artificial-Intelligence-1613327"
+    type: article
+    provider:
+      name: Ghanaweb.com
+      domain: ghanaweb.com
+    quality: 23
+    images:
+      - url: "https://cdn.ghanaweb.com/imagelib/pics/889/88956782.jpg"
+        width: 600
+        height: 800
+        isCached: true
+
 secured: "tNEaWyEmfQG9w97s42uh+jjbF0rzdTzREmAP3aPVGzqMHLiH+/MZvkj2ikO24Py5+Y/EGHls/72BHFl9tHBteWsx5H8ZJt7eyIgxkKLJ04c4BH9nWnvMo7Bz56ZhmWDS8y+dXiMkW7wRoZ53AzOkWWy6Fkpz83dc08OWSqX5oKmpZuSuHzbTJN0BMDgOSlD95EhhWJCPupnfgJMLpMD0AorwO/5CNQEZvP1MSwokrrgwJaaVnk8yrf5B9h0VcZIuteIQIdmorodbEGhBZYYQawDpCjuNPQir/OninSZVxEvY/WmQjiKwOOTuDIznjuw8UCmX/wRJkV6jg5t5mrgcDli83v6kw2eiTEVqyz0B+k3fUNG3pkWs+lx2/ZwBt1rtyDlNR5dKWvwF/3+BMQSDSfQK/9al8UCMOXqo35lot6K2RYxGjxmdjGcWq8CXxzxovoJGsuuAqIYNCv+Xx6qbPyyqyr3NEORMku/INWsq0KSFSQfwArWT8qfOvu2X41Bvn0qMm/CqGVihInMbUbAKAA==;vS8iIxxaeJOuoX3qChlOdw=="
 ---
 

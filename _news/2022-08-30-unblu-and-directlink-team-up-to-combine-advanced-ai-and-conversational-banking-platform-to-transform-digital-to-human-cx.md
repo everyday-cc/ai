@@ -30,7 +30,7 @@ related:
     provider:
       name: Associated Press
       domain: apnews.com
-    quality: 0
+    quality: 4
     images:
       - url: "https://apnews.com/images/PaidContent3.png"
         width: 700

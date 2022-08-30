@@ -2,6 +2,336 @@
   "page": 35,
   "value": [
     {
+      "path": "_news/2022-08-01-uipath-acquires-natural-language-processing-firm-reinfer.md",
+      "title": "UiPath acquires natural language processing firm Re:infer",
+      "excerpt": "To ensure this doesn’t happen in the future, please enable Javascript and cookies in your browser. Is this happening to you frequently? Please report it on our ...",
+      "sourceUrl": null,
+      "webUrl": "https://seekingalpha.com/news/3863660-uipath-acquires-natural-language-processing-firm-reinfer",
+      "originalUrl": "https://seekingalpha.com/news/3863660-uipath-acquires-natural-language-processing-firm-reinfer",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T01:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Seeking Alpha",
+        "domain": "seekingalpha.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-self-driving-truck-accident-draws-attention-to-safety-at-tusimple.md",
+      "title": "Self-Driving Truck Accident Draws Attention to Safety at TuSimple",
+      "excerpt": "The leading autonomous-truck developer blames human error, while analysts say it is the technology. Regulators are investigating.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/self-driving-truck-accident-draws-attention-to-safety-at-tusimple-11659346202",
+      "originalUrl": "https://www.wsj.com/articles/self-driving-truck-accident-draws-attention-to-safety-at-tusimple-11659346202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 94,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-591288/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-computer-vision-market-size-insights-2022-report-presents-revenue-share-by-manufacturers-future-scope-and-demand-forecast-to-2031.md",
+      "title": "Computer Vision Market Size Insights 2022: Report Presents Revenue Share By Manufacturers, Future Scope And Demand Forecast To 2031",
+      "excerpt": "Kenneth Research, in its repository of market research reports, have recently added a report on Computer Vision Market which emphasizes on the lat",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104623446/Computer-Vision-Market-Size-Insights-2022-Report-Presents-Revenue-Share-By-Manufacturers-Future-Scope-And-Demand-Forecast-To-2031",
+      "originalUrl": "https://menafn.com/1104623446/Computer-Vision-Market-Size-Insights-2022-Report-Presents-Revenue-Share-By-Manufacturers-Future-Scope-And-Demand-Forecast-To-2031",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?361127",
+          "width": 374,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-01T00:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-ai-can-revolutionise-medical-research-but-a-cautious-approach-is-needed.md",
+      "title": "AI can revolutionise medical research, but a cautious approach is needed",
+      "excerpt": "One week social-media users are generating and sharing amusing images using AI, the next we hear AI can predict the structure of over 200 million proteins.",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/technology/ai-can-revolutionise-medical-research-but-a-cautious-approach-is-needed-122080100234_1.html",
+      "originalUrl": "https://www.business-standard.com/article/technology/ai-can-revolutionise-medical-research-but-a-cautious-approach-is-needed-122080100234_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-06/16/full/1655400066-6121.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/technology/ai-can-revolutionise-medical-research-but-a-cautious-approach-is-needed-122080100234_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/technology/ai-can-revolutionise-medical-research-but-a-cautious-approach-is-needed-122080100234_1.html",
+      "publishedDateTime": "2022-07-31T23:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-deepminds-perceiver-ar-a-step-toward-more-ai-efficiency.md",
+      "title": "DeepMind's Perceiver AR: a step toward more AI efficiency",
+      "excerpt": "The auto-regressive attention at the heart of the Transformer, and programs like it, becomes a scaling nightmare. A recent DeepMind/Google work proposes a way to put such programs on a diet.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/deepminds-perceiver-ar-a-step-toward-more-ai-efficiency/",
+      "originalUrl": "https://www.zdnet.com/article/deepminds-perceiver-ar-a-step-toward-more-ai-efficiency/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 118,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/1ca1c71e44c68dcca6cd4405a9acd075d5cd7bfc/2022/08/01/36a1f60d-c3f1-4438-956c-df33405caee8/perceiver-ar-crop-for-twitter.jpg?auto=webp&fit=crop&height=675&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-31T20:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Google AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-voice-to-parliament-detail-demands-only-mask-rejection-of-entire-recognition-project.md",
+      "title": "Voice to Parliament: ‘detail’ demands only mask rejection of entire recognition project",
+      "excerpt": "Rest assured, if Anthony Albanese had unveiled a detailed model for an Indigenous Voice to Parliament on the weekend -- say, the local and regional/national Voice model outlined in last year's ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.crikey.com.au/2022/08/01/indigenous-voice-to-parliament-details-demand/",
+      "originalUrl": "https://www.crikey.com.au/2022/08/01/indigenous-voice-to-parliament-details-demand/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.crikey.com.au/wp-content/uploads/2022/08/Voice_740x400.jpg",
+          "width": 740,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-31T18:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Crikey",
+        "domain": "crikey.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-01-self-driving-cars-market-size-worth-636-billion-usd-by-2022-2025-cagr-203.md",
+      "title": "Self-Driving Cars Market Size Worth 6.36 billion USD by 2022-2025 | CAGR: 20.3%",
+      "excerpt": "Aug 01, 2022 (Market Insight Reports) -- The study highlights important advancements in organic and inorganic growth strategies in the worldwide Self-Driving Cars market. A lot of corporations are ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/self-driving-cars-market-size-worth-636-billion-usd-by-2022-2025-cagr-203-2022-08-01?tesla=y",
+      "originalUrl": "https://www.marketwatch.com/press-release/self-driving-cars-market-size-worth-636-billion-usd-by-2022-2025-cagr-203-2022-08-01?tesla=y",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-31T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-01-the-future-of-supply-chains-with-artificial-intelligence.md",
       "title": "The Future of Supply Chains with Artificial Intelligence",
       "excerpt": "It is undeniable that AI & machine learning is revolutionizing several sectors, particularly supply chain and logistics. Fremont, CA: Given",
@@ -826,352 +1156,6 @@
       ],
       "topics": [
         "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-intel-spacex-philip-morris-and-dozens-of-other-us-companies-were-in-a-leaked-database-of-users-for-a-russian-facial-recognition-company.md",
-      "title": "Intel, SpaceX, Philip Morris, and dozens of other US companies were in a leaked database of users for a Russian facial recognition company",
-      "excerpt": "NTech Lab claims that FindFace can do facial recognition, object recognition, license plate recognition, and detection of features (such as \"gender, age, emotions, glasses, face mask, beard ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/intel-spacex-philip-morris-leaked-database-users-ntech-russian-facial-recognition-company-2022-7",
-      "originalUrl": "https://www.businessinsider.com/intel-spacex-philip-morris-leaked-database-users-ntech-russian-facial-recognition-company-2022-7",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/62e04a07d8e3a400192cba76?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-30T06:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-ai-ethics-confronting-whether-humans-who-mistreat-ai-are-alarmingly-immoral.md",
-      "title": "AI Ethics Confronting Whether Humans Who Mistreat AI Are Alarmingly Immoral",
-      "excerpt": "Consider the AI ethics of humans that mistreat AI, including people that lash out at AI-based self-driving cars.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/30/ai-ethics-confronting-whether-irate-humans-that-violently-smash-or-mistreat-ai-is-alarmingly-immoral-such-as-those-angered-folks-that-lash-out-at-fully-autonomous-ai-systems/",
-      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/30/ai-ethics-confronting-whether-irate-humans-that-violently-smash-or-mistreat-ai-is-alarmingly-immoral-such-as-those-angered-folks-that-lash-out-at-fully-autonomous-ai-systems/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6216d47f3093472d144b2484/0x0.jpg?format=jpg&crop=1964,1105,x0,y101,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/07/30/ai-ethics-confronting-whether-irate-humans-that-violently-smash-or-mistreat-ai-is-alarmingly-immoral-such-as-those-angered-folks-that-lash-out-at-fully-autonomous-ai-systems/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/07/30/ai-ethics-confronting-whether-irate-humans-that-violently-smash-or-mistreat-ai-is-alarmingly-immoral-such-as-those-angered-folks-that-lash-out-at-fully-autonomous-ai-systems/amp/",
-      "publishedDateTime": "2022-07-30T06:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-back-to-school-study-justifies-nvidias-push-to-arm-students-with-deep-learning-laptops.md",
-      "title": "Back to school: study justifies Nvidia’s push to arm students with deep learning laptops",
-      "excerpt": "As we approach that time of year again, students are gearing up to return to (or begin) their studies, and that means sales of the best student laptops are about to spike once more. I recently ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.techradar.com/nz/features/back-to-school-study-justifies-nvidias-push-to-arm-students-with-deep-learning-laptops",
-      "originalUrl": "https://www.techradar.com/nz/features/back-to-school-study-justifies-nvidias-push-to-arm-students-with-deep-learning-laptops",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/5x79k7GhAsj9fYHxudJS6Z-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-30T03:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechRadar",
-        "domain": "techradar.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techradar.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-efforts-to-regulate-killer-robots-are-threatened-by-war-in-ukraine.md",
-      "title": "Efforts to regulate 'killer robots' are threatened by war in Ukraine",
-      "excerpt": "International attempts to regulate the use of autonomous weapons, sometimes called “killer robots”, are faltering ... without human oversight. Arms control groups are campaigning for the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.newscientist.com/article/2327965-efforts-to-regulate-killer-robots-are-threatened-by-war-in-ukraine/",
-      "originalUrl": "https://www.newscientist.com/article/2327965-efforts-to-regulate-killer-robots-are-threatened-by-war-in-ukraine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.newscientist.com/wp-content/uploads/2022/07/13104418/SEI_114200834.jpg",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-07-30T02:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "New Scientist",
-        "domain": "newscientist.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-ai-predicts-how-last-selfies-of-earth-before-it-dies-will-look-like-see-photos.md",
-      "title": "AI predicts how last selfies of Earth before it dies will look like, See photos",
-      "excerpt": "The haunting pictures of how the last selfies before Earth dies will look like, were shared by an account named 'Robot Overloads' on TikTok.",
-      "sourceUrl": null,
-      "webUrl": "https://www.livemint.com/news/world/ai-predicts-how-last-selfies-of-earth-before-it-dies-will-look-like-see-photos-11659166142718.html",
-      "originalUrl": "https://www.livemint.com/news/world/ai-predicts-how-last-selfies-of-earth-before-it-dies-will-look-like-see-photos-11659166142718.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 83,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.livemint.com/img/2022/07/30/600x338/Earth_1659168071219_1659168071477_1659168071477.PNG",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.livemint.com/news/world/ai-predicts-how-last-selfies-of-earth-before-it-dies-will-look-like-see-photos/amp-11659166142718.html",
-      "cdnAmpWebUrl": "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/news/world/ai-predicts-how-last-selfies-of-earth-before-it-dies-will-look-like-see-photos/amp-11659166142718.html",
-      "publishedDateTime": "2022-07-30T01:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mint",
-        "domain": "livemint.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-indigenous-voice-campaigners-say-ample-detail-already-available-in-wake-of-pms-stirring-speech.md",
-      "title": "Indigenous voice campaigners say ample detail already available in wake of PM’s stirring speech",
-      "excerpt": "Albanese reveals wording of referendum question on Indigenous voice – video Leeser ... the 2018 joint select committee on constitutional recognition with the Western Australian Labor senator ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theguardian.com/australia-news/2022/jul/30/indigenous-voice-campaigners-say-ample-detail-already-available-in-wake-of-pms-stirring-speech",
-      "originalUrl": "https://www.theguardian.com/australia-news/2022/jul/30/indigenous-voice-campaigners-say-ample-detail-already-available-in-wake-of-pms-stirring-speech",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.guim.co.uk/img/media/f21b8344f39eaac44f8627ff2468da44eef23473/0_0_3877_2580/master/3877.jpg?width=620&quality=85&auto=format&fit=max&s=161191fdb468d9b343e97f9a356678d5",
-          "width": 620,
-          "height": 413,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theguardian.com/australia-news/2022/jul/30/indigenous-voice-campaigners-say-ample-detail-already-available-in-wake-of-pms-stirring-speech",
-      "cdnAmpWebUrl": "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/australia-news/2022/jul/30/indigenous-voice-campaigners-say-ample-detail-already-available-in-wake-of-pms-stirring-speech",
-      "publishedDateTime": "2022-07-30T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Guardian",
-        "domain": "theguardian.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theguardian.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-30-robots-and-machines-making-work-inclusive.md",
-      "title": "Robots And Machines Making Work Inclusive",
-      "excerpt": "Machines and robots in the workplace are often described as harbingers of automation. However, machines can also improve accessibility into the workplace for those with disabilities. This article prov",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/tomokoyokoi/2022/07/30/some-machines-are-making-work-more-accessible/",
-      "originalUrl": "https://www.forbes.com/sites/tomokoyokoi/2022/07/30/some-machines-are-making-work-more-accessible/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62e4bf99d052bd56be5398d2/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/tomokoyokoi/2022/07/30/some-machines-are-making-work-more-accessible/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tomokoyokoi/2022/07/30/some-machines-are-making-work-more-accessible/amp/",
-      "publishedDateTime": "2022-07-29T22:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

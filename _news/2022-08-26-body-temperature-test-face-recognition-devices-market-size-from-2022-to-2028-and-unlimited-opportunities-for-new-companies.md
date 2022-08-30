@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Face Recognition Access Locks Market 2022 To 2028, Top Companies Booming Strategies, Progression Status, and Business Trends."
-    excerpt: "This “Face Recognition Access Locks market research report” offers an all-inclusive analysis of regional and global markets based on growth prospects. The worldwide Face Recognition Access Locks market report offers a geographic analysis of regions like North America: United States,"
-    publishedDateTime: 2022-08-25T23:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-access-locks-market-2022-to-2028-top-companies-booming-strategies-progression-status-and-business-trends-2022-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 42
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "cWNHRB5c0GVwNwrTuQoZbHAbu2FtqWTLvi5Oru/FAEwxd9QeQeK8IY1MpvFsWa96d8gjyXB9MbxMUNR+BkFQf0lSkLmKjdJRSb90+drMejm+j/FnkIPu2ksbtvS1+mgsxFoIzoXt7GREsCbPlhm4tWQ9Zm7Q2w3qKGfVZlOwCCXBAv5GtkM+8vw00GgYhprGEjpoo5XQjEhCNsoxLm5kBdbKfyEOENKJ6pW21ImiW5FUocT6WZFFbzIiYQSEJsxKcdbbBg+b8UJFLzRVh4ORy+nvNrrs76HuN2Ku8+44i4lUyKrp4UEQneH6n41EzII82dK3jbLl5I9ZYAIIHy2baWMqrLceLnvuJIaGh5CXyUQ=;5XShDLGYaw3C4Zm9HiF2ug=="
 ---

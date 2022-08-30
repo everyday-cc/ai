@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-30T14:51:00Z
 originalUrl: "https://www.law.com/thelegalintelligencer/2022/08/30/as-the-machine-learns-continuing-ai-ip-and-privacy-considerations/"
 webUrl: "https://www.law.com/thelegalintelligencer/2022/08/30/as-the-machine-learns-continuing-ai-ip-and-privacy-considerations/"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - Machine Learning
   - AI
+  - AI in Finance
 
 images:
   - url: "https://images.law.com/contrib/content/uploads/sites/402/2022/08/Halt-Glabicki-767x633.jpg"
@@ -42,6 +43,6 @@ related:
         height: 256
         isCached: true
 
-secured: "MeBjlC5sGX5ffA/YFzUFMzzqzkLL62wMOgkz24RGo8mCxVTISVUbK22PUH+UZ/l4js2JwOtwNVJ7McHe2hIsnt3aadV0sNaquzbb6Xp1Ow29lqX/w4m8gfI6q6ThLci9BJbTk5b6RBBYJjIyW1BJEeB9DpI011qpSeAPelGwp3F5KjPcbYMsj70Qq9ZrVsQALy5vD3tqhxuQd5jz/8pcHwIlFnN5N919BKSqoy2XkiFp3RLmwGA4dnqODX3tGath0456iabppjDXh7r8yN8Pa4+DX1/J/RL0BTMwDo9yzHhiPl/XuroSV3TvGIcYIU22nj+KbWbc7orDwvyPLNFvrieoUjOLCxvrfNYDhTjKKug=;xWPU/H6yxjxXN98zQsDtbg=="
+secured: "RyzOKnZEBH7xp/n6Q8APMdEuQ/o0iza3UbM0iEFGfn1Ki90NFWdYg+WNRi2NaaUIJvzVCz1TxMqQPAKE387IG0ppWEkLOzpKJgQ/bZu76YIPUE45L3enXjogetijHL8fCsvqviL7z51S7RD0O6i19xq9jz5PzihtDFu/z7p9viIZfPaDJ4y3livZ6P9O37ISbyZeZOnd8FoWZCdHpLvmtYsTLttrH1ZjgWrBb4+q61lrbGSrFUvmeh6yp32wMdcY9sLgx4C6qcZIOpaXhrUOs4LtDdOuCjm1eduu3hUimabp83uX1umgM1jSFoc74VZ8Mw3mn01Q7ke3EDI6l1EkreGQU6CLOrjbpfkGuyZmHq5cpFesp9OIRJElY1+0CxyPlOHqYnD3MgpcCyJmt2uzGd3e4KaEJAjXlZwS0hEKKhhGKkWC7YNZZkot3qBTOs4zrDPj3INhWaExyWkFn+RNvbs+JNSuJndfUsA/ZH7Lcwt7modD+7nn41O9z6NW6Plaxb5OnWHHTEH7JLkbLJ2ZXg==;z4q0Z6srecy7s9CfNAHbbA=="
 ---
 

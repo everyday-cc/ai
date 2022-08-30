@@ -43,6 +43,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Far-field Speech Recognition Market 2022 [18% CAGR] Structure With Top Industry Players, Region Wise Analysis and Complete Forecast Till 2028"
+    excerpt: "Pages Report] According to 360ResearchReports provides you with historical and forecast data of Far-field Speech Recognition market was valued at USD 1721.3 million in 2022 and is expected to reach USD 5599."
+    publishedDateTime: 2022-08-29T11:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-recognition-market-2022-18-cagr-structure-with-top-industry-players-region-wise-analysis-and-complete-forecast-till-2028-2022-08-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
 
 secured: "9QumBWb7/CiyoyHs+1iMw65VG/xqDPJ3vE/wAVQJAeK3vAWX80qxDpaTiBMrmYaJD4cIPgdF+o90mAZ9/BJ5MbMn+bwzsWe3g8uhUwzS63GqdWktcms1ZYL60D1VEiiA3TemE4EXH1dOo3bk9D/P3ftv45P7ZEGPPZexQjTjSJx+Vfp51PWdp5zExVoOM1VZoypc4/9xqstPRBABNqlp9SgGVWSgl5uXA+cHZ4RMkEJ+qQpPiDvon30Wp47cJWSbT5hZryIIxUrK0ccdCIwwjwaKcs511WOETCw3ErUDozq+z8xDatMv+OydBcL584ol9fCi0WMq1Z/XhmoCpMmz0Lv0fJDvrHxYyGqTqjq64o8=;UGW2VtrftQDa6YKXi7cDMA=="
 ---

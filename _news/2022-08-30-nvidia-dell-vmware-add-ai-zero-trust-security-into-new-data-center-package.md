@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-dell-vmware-add-ai-z
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/"
 type: article
 quality: 101
-heat: 111
+heat: 121
 published: true
 
 provider:
@@ -31,6 +31,20 @@ images:
     isCached: true
 
 related:
+  - title: "NVIDIA and Dell Technologies Launch Data Center Solution for Zero-Trust Security and AI"
+    excerpt: "NVIDIA today announced a data center solution with Dell Technologies designed for the era of AI, bringing state-of-the-art AI training, AI inference, data processing, data science and zero-trust security capabilities to enterprises worldwide."
+    publishedDateTime: 2022-08-30T17:32:00Z
+    webUrl: "https://insidehpc.com/2022/08/nvidia-and-dell-technologies-launch-data-center-solution-for-zero-trust-security-and-ai/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 48
+    images:
+      - url: "https://insidehpc.com/wp-content/uploads/2022/08/generic-bits-bytes-data-shutterstock_1091146922.png"
+        width: 600
+        height: 300
+        isCached: true
   - title: "NVIDIA and Dell Technologies Announce Data Center Offering for Zero-Trust Security and AI"
     excerpt: "NVIDIA today announced a data center offering with Dell Technologies designed for the era of AI, bringing AI training, AI inference, data processing, data science and zero-trust security capabilities to enterprises worldwide."
     publishedDateTime: 2022-08-30T12:58:00Z
@@ -41,6 +55,6 @@ related:
       domain: insidehpc.com
     quality: 27
 
-secured: "CpVu9JS/8Vt+owq0Wbl+8PA5vtMGe8qYwHzWe8R275ASdQmHz2YwMkTFxrQR90eULl0UeIRK1CTwsRzkKWBKWlDCF/ylOxpfxUz4m9rTMnKzSjpCS/LjNsYq1K2rpSJrY8PT1gjK4hiahXp0t7/OaeI2R6aH+bqf6qwpPsXz169KRxNMdpI3lYES6e9vrhrky5Lhu7lWBFsK7kHv1zbSG1J6hG0PZ/k6KcaiG8gkJR53HPtvQlyR8M0dfiLB/+TpJrLTuVF1BGn7VRmtbTYhSdlosrHFrthUHCm16WooanyH38fs2ZKS5D5KLXjQP79e8pcFYfKUe5hryz6fFuYl+vvNwW5m077zmNGkl3Jt5F8=;NDfpxihIMmfv89YSCdQKgA=="
+secured: "60Vt0OSm23y+JTTdfREPj4KrlYfBBWL3iZHSibG8tMYSaPUghPxAxTy40dw6GsXUL6+AcCI7T2OsO7BUhhtINuN5vo3Etd41jEWCpYNzqxSgtxkjBUtO6y85mQQVKRMJQQ+GAhn8nG+tMylywJqa9SmjnzHeWxbrUnf+CcBUPHCTKsCXea3VlT56yjRZM6DzvGSSLE+UdGhC0XbXA467UlspvVNShMXVpLx3AzooRGHwPpiaI6o9OAe+Z/E7+X/SsEeqTfmGdrj02EnpbQ8eKcTPF+xbjSXVTFuc3PhWc+kPXZhgBcVUYvdsHoHwYbtKjwPxLV2CEMGJ7vQX7rYMAhmz3rxrx6weAI7D8vrMbJXKUBR/jUM4BBeSOYsMx5qtyidWpPt2V+ZN573YKeIPLp36Bxnzb7SQjH5T8xO2nS11t4VOKw2MID51lJWR9f8+Z+T9yDaxRBXrWuorsH1auqwpIl5DEJaKYfvyKUCkVE8f+UBYsALbsUHGdvckYxi9cwfObrEm+qIHNmhJzPIYLA==;XjG18N7yC1Eo0OIBbSRjUQ=="
 ---
 

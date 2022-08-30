@@ -46,6 +46,20 @@ related:
         width: 1024
         height: 576
         isCached: true
+  - title: "France reveals hidden swimming pools with AI, taxes them"
+    excerpt: "Using an artificial intelligence computer vision system developed by French IT firm Capgemini, the French tax office (often called \"Le Fisc\") has identified 20,356 residential swimming pools that had previously gone undeclared."
+    publishedDateTime: 2022-08-30T16:02:00Z
+    webUrl: "https://arstechnica.com/information-technology/2022/08/france-reveals-hidden-swimming-pools-with-ai-taxes-them/"
+    type: article
+    provider:
+      name: Ars Technica
+      domain: arstechnica.com
+    quality: 67
+    images:
+      - url: "https://cdn.arstechnica.net/wp-content/uploads/2022/08/french-pool-760x380.jpg"
+        width: 760
+        height: 380
+        isCached: true
   - title: "France Deploys Artificial Intelligence To Spot Hidden Swimming Pools"
     excerpt: "France's tax authority said Monday that a new artificial intelligence system had found thousands of undeclared swimming pools, allowing it to collect millions of euros from homeowners who failed to report the facilities."
     publishedDateTime: 2022-08-29T14:27:00Z
@@ -77,6 +91,20 @@ related:
       - url: "https://i.guim.co.uk/img/media/b2e09692384a075af04aed6c188ac7353e0a7837/0_739_2577_1546/master/2577.jpg?width=620&quality=85&auto=format&fit=max&s=20aa812b23c81f8aba8eb2ff0f1f0104"
         width: 620
         height: 372
+        isCached: true
+  - title: "France uses AI to spot (and tax) undeclared swimming pools"
+    excerpt: "The program found more than 20,000 undisclosed pools, brought in $10 million in extra tax revenue and will be rolled out across France during a record drought."
+    publishedDateTime: 2022-08-30T02:37:00Z
+    webUrl: "https://www.washingtonpost.com/world/2022/08/30/france-undeclared-swimming-pools-artificial-intelligence/"
+    type: article
+    provider:
+      name: Washington Post
+      domain: washingtonpost.com
+    quality: 37
+    images:
+      - url: "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/PV6ZGQG7IEI6XIT7RMUUSMHJLM.jpg&w=1440"
+        width: 1440
+        height: 961
         isCached: true
   - title: "Google AI spots 20,000 undeclared pools in $14 million tax windfall for French government"
     excerpt: "AI software developed by Google has found thousands of undeclared swimming pools in French backyards, resulting in a hefty tax bill for the owners."

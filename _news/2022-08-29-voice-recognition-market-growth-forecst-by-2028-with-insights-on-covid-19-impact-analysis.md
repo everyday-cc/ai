@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Far-field Speech Recognition Market 2022 [18% CAGR] Structure With Top Industry Players, Region Wise Analysis and Complete Forecast Till 2028"
+    excerpt: "Pages Report] According to 360ResearchReports provides you with historical and forecast data of Far-field Speech Recognition market was valued at USD 1721.3 million in 2022 and is expected to reach USD 5599."
+    publishedDateTime: 2022-08-29T11:34:00Z
+    webUrl: "https://www.marketwatch.com/press-release/far-field-speech-recognition-market-2022-18-cagr-structure-with-top-industry-players-region-wise-analysis-and-complete-forecast-till-2028-2022-08-29"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 34
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "Face Recognition Turnstile Market size with concentrate on Top most Key Players, Future Analysis and Market Trends till the forecast period-2028"
     excerpt: "The Global Face Recognition Turnstile Market Report provides a basic overview of the industry including definitions, classifications, applications and industry chain structure. The Face Recognition Turnstile market analysis is provided for the international markets including development trends,"
     publishedDateTime: 2022-08-26T18:36:00Z
