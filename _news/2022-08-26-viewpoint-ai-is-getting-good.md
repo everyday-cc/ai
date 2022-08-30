@@ -33,22 +33,6 @@ related:
         width: 1280
         height: 640
         isCached: true
-  - title: "Quantum computing is an even bigger threat than artificial intelligence – here’s why"
-    excerpt: "Given the potential scope and capabilities of quantum technology, it is absolutely crucial not to repeat the mistakes made with AI—where regulatory failure has given the world algorithmic bias that hypercharges human prejudices,"
-    publishedDateTime: 2022-08-25T11:14:00Z
-    webUrl: "https://wraltechwire.com/2022/08/25/quantum-computing-is-an-even-bigger-threat-than-artificial-intelligence-heres-why/"
-    ampWebUrl: "https://wraltechwire.com/2022/08/25/quantum-computing-is-an-even-bigger-threat-than-artificial-intelligence-heres-why/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/25/quantum-computing-is-an-even-bigger-threat-than-artificial-intelligence-heres-why/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 50
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
-        width: 772
-        height: 434
-        isCached: true
 
 secured: "d2W1VN8J0H+W8pjK6vIGY7IwuPsqsTyX4+2ICSzTqa8MhwZ480IoeKm6nlW6U2gjYr4AvICC8HeevLuyj8tUnhqhbv1Z5rg/iNskGeaKwCwCNM9f10IO8/jjXSkg/pQMQy71KXS+Bqoc4He+9GIO5p0ooL5uLbBqSs5aOloT4FZIPn7THuEgochArE0250BQsEHXLHIIBqw3rI+5kIj4zyUI25tOH+VWn1y/+41BtyKmGPgUpMAwpXQSFjaLHkoXynWCnPiInhT96Iqf65qjgegmSkm6Q8wy1ovGG//pSJsXKrToOajCMijm62EcmggTvhcaJBfEafSDhMdlCjpJ5PtkjQW5m/onQVjyakwIa/g=;Zi4l5Xod6/Cp6PgBwKHVdA=="
 ---

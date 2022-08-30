@@ -7,7 +7,7 @@ originalUrl: "https://www.rcrwireless.com/20220829/telco-cloud/microsoft-applyin
 webUrl: "https://www.rcrwireless.com/20220829/telco-cloud/microsoft-applying-cloud-security-principles-to-open-ran-networks"
 type: article
 quality: 56
-heat: -1
+heat: 56
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     width: 720
     height: 480
     isCached: true
-
-related:
-  - title: "ArtsBerry Interviews Microsoft Designer Ms. Su He"
-    excerpt: "ArtsBerry Interviews Microsoft Designer Ms. Su He Aug 25, 2022 (PRNewswire via COMTEX) -- PR Newswire NEW YORK, NEW YORK, Aug. 25,"
-    publishedDateTime: 2022-08-25T12:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artsberry-interviews-microsoft-designer-ms-su-he-2022-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "2qtdQNiCS5XtSr1ExeJlZALr6Q5CK/wWAa6h2XK4Y2UqccdjM7I+gCQJPTgEKn7/YIIIIBweP9If2reoPWp4JZ0RTKyjhHcSQgK4in5ile115+AVmwuTi1PvSBL6wRfgFGpMawXxQPYzfujQeVhTJAhC1NkN1/CboINETTMtchTZv7ZxVLrZRr6rbmvr11h4sWK2jSmp+aJr3WtFslMzvd4CF7bHzzs2BTX+764Yhnph0p+73aPgVudfafkARYohllKahxsLSXMvfvX8kWrgr9a4Q0GOCkjgKZK1G3Lu+dsADL6jLm2WasPGPGvny5I8MXQh7P57Ql3nIBm4XS/rVz8lnFkD55CSD/7TJ+GIdPotDq3PRZM50HdWRGSCCFcTv+W/ItqpyJpvboKsRjEwWvQQKcce4AjKfuC9dgcrglP4ylx0f+glv2kZb+L4XUyOdIXcCZdZBDJxuJKHE9OOG1PSgONXYhxwgqM0U5pb8/87RAKadkJSi/9UY0sj2t5V07uNy/RJkLI0ZXCSReHs3Q==;X9ObQ7bI1Ly9pMcnIuDoLQ=="
 ---

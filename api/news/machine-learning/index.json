@@ -2,6 +2,50 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-08-30-making-machine-learning-available-to-everyone-story-of-bigml.md",
+      "title": "Making Machine Learning Available to Everyone: Story of BigML",
+      "excerpt": "BigML allows you to build machine learning and deep learning models without the need for any coding. In an exclusive conversation with Analytics India Magazine, Atakan Cetinsoy, vice president, Predictive Applications at BigML, explained, “Our mission ...",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/making-machine-learning-available-to-everyone-story-of-bigml/",
+      "originalUrl": "https://analyticsindiamag.com/making-machine-learning-available-to-everyone-story-of-bigml/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/export-BIGML_USERNAMEmy_name-export-BIGML_API_KEY123456789-export-BIGML_AUTHusernameBIGML_USERNAMEapi_keyBIGML_API_KEY.jpg",
+          "width": 2240,
+          "height": 1260,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T21:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Computer Vision"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-why-artificial-general-intelligence-isnt-further-along.md",
       "title": "Why Artificial General Intelligence Isn’t Further Along",
       "excerpt": "For all the devastation it has caused, the Covid-19 pandemic could rightfully claim responsibility for accelerating the adaptation of artificial intelligence (AI) in the business world. Harris Poll, working with Appen, found that 55% of surveyed companies ...",
@@ -691,34 +735,34 @@
     {
       "path": "_news/2022-08-24-deep-learning-algorithm-may-streamline-lung-cancer-radiotherapy-treatment.md",
       "title": "Deep learning algorithm may streamline lung cancer radiotherapy treatment",
-      "excerpt": "Clinical validation of deep learning algorithms for radiotherapy targeting of non-small-cell lung cancer: an observational study. The Lancet Digital Health , 2022; 4 (9): e657 DOI: 10.1016/S2589 ...",
+      "excerpt": "More information: Hosny A et al. Clinical Validation of Deep Learning Algorithms for Lung Cancer Radiotherapy Targeting, The Lancet Digital Health (2022). DOI: 10.1016/S2589-7500(22)00129-7",
       "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220824152208.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220824152208.htm",
+      "webUrl": "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/lung-scan.jpg",
+          "width": 2880,
+          "height": 1966,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T16:59:00-07:00",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp",
+      "publishedDateTime": "2022-08-23T15:32:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1402,52 +1446,6 @@
         "Microsoft AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-18-artificial-intelligence-teaches-microrobots-how-to-swim.md",
-      "title": "Artificial Intelligence Teaches Microrobots how to Swim",
-      "excerpt": "In a recent study published in Communications Physics, a collaborative team of researchers from Santa Clara University, New Jersey Institute of Technology, | Technology",
-      "sourceUrl": null,
-      "webUrl": "https://www.labroots.com/trending/technology/23380/artificial-intelligence-teaches-microrobots-swim-2",
-      "originalUrl": "https://www.labroots.com/trending/technology/23380/artificial-intelligence-teaches-microrobots-swim-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.labroots.com/_public/_files/system/ck/trending/FEATURED%20IMAGE_e0ee8c1743ad40b40477db0302e5f1e7.png",
-          "width": 1280,
-          "height": 853,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.labroots.com/trending/technology/23380/artificial-intelligence-teaches-microrobots-swim-2/amp",
-      "cdnAmpWebUrl": "https://www-labroots-com.cdn.ampproject.org/c/s/www.labroots.com/trending/technology/23380/artificial-intelligence-teaches-microrobots-swim-2/amp",
-      "publishedDateTime": "2022-08-17T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Labroots",
-        "domain": "labroots.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Robotics",
-        "AI in Healthcare",
-        "AI in Autos"
       ]
     }
   ],

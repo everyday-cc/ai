@@ -7,7 +7,7 @@ originalUrl: "https://thenextweb.com/news/counterpoint-ai-far-more-dangerous-tha
 webUrl: "https://thenextweb.com/news/counterpoint-ai-far-more-dangerous-than-quantum-computing"
 type: article
 quality: 67
-heat: 87
+heat: 77
 published: true
 
 provider:
@@ -28,22 +28,6 @@ images:
     isCached: true
 
 related:
-  - title: "Quantum computing is an even bigger threat than artificial intelligence – here’s why"
-    excerpt: "Given the potential scope and capabilities of quantum technology, it is absolutely crucial not to repeat the mistakes made with AI—where regulatory failure has given the world algorithmic bias that hypercharges human prejudices,"
-    publishedDateTime: 2022-08-25T11:14:00Z
-    webUrl: "https://wraltechwire.com/2022/08/25/quantum-computing-is-an-even-bigger-threat-than-artificial-intelligence-heres-why/"
-    ampWebUrl: "https://wraltechwire.com/2022/08/25/quantum-computing-is-an-even-bigger-threat-than-artificial-intelligence-heres-why/?amp=1"
-    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/25/quantum-computing-is-an-even-bigger-threat-than-artificial-intelligence-heres-why/?amp=1"
-    type: article
-    provider:
-      name: WRAL TechWire
-      domain: wraltechwire.com
-    quality: 50
-    images:
-      - url: "https://wraltechwire.com/wp-content/uploads/2019/05/cyber-artificial-intelligence-information-technology-high-tech-digital-e1583233761533.jpg"
-        width: 772
-        height: 434
-        isCached: true
   - title: "Viewpoint: AI is getting good"
     excerpt: "Five years ago, the top AI story was how a machine learning tool from Google's DeepMind could defeat the top-performing humans at the board game Go, Mr. Roose wrote. This summer, however, another DeepMind AI system predicted the 3-D structures of most of the 200 million proteins known to scientists,"
     publishedDateTime: 2022-08-25T21:43:00Z

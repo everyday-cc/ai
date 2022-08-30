@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-25-the-next-technological-time-warp.md",
+      "title": "The Next Technological Time Warp",
+      "excerpt": "Even if you look at other modalities, like early image generation models and their ability to generate faces—not to mention today’s image generation capabilities with models such as DALL-E 2—telling the difference between human-generated and AI-generated content has been difficult for quite some time now.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/",
+      "originalUrl": "https://www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6306c01dd2c11b73cd7d1fdb/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 801,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/servicenow/2022/08/24/the-next-technological-time-warp/amp/",
+      "publishedDateTime": "2022-08-24T17:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-advancing-conservation-with-ai-based-facial-recognition-of-turtles.md",
       "title": "Advancing conservation with AI-based facial recognition of turtles",
       "excerpt": "We came across Zindi – a dedicated partner with complementary goals – who are the largest community of African data scientists and host competitions that focus on solving Africa’s most pressing problems. Our Science team’s Diversity, Equity, and Inclusion (DE&I) team worked with Zindi to identify a scientific",
@@ -543,6 +595,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-humans-have-a-natural-defense-against-facial-recognition-aging.md",
+      "title": "Humans Have a Natural Defense Against Facial Recognition: Aging",
+      "excerpt": "Facial recognition systems have become very adept at identifying people in a crowd, but it turns out they don't cope very well with us getting older. As New Scientist reports, the algorithms used ...",
+      "sourceUrl": null,
+      "webUrl": "https://au.pcmag.com/security/95825/humans-have-a-natural-defense-against-facial-recognition-aging",
+      "originalUrl": "https://au.pcmag.com/security/95825/humans-have-a-natural-defense-against-facial-recognition-aging",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_au/news/h/humans-hav/humans-have-a-natural-defense-against-facial-recognition-agi_1daf.1200.jpg",
+          "width": 1200,
+          "height": 674,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T08:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
         "AI"
       ]
     },
@@ -1132,110 +1236,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages.md",
-      "title": "Restaurants Send More Customer Calls to Voice Bots Amid Staffing Shortages",
-      "excerpt": "Some executives say automating phone lines will ease pressure on stretched hospitality staff—but others question whether hungry customers are ready to order from a nonhuman voice.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
-      "originalUrl": "https://www.wsj.com/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-609305/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
-      "publishedDateTime": "2022-08-24T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-24-ai-in-computer-vision-market-key-players-overview-applications-and-analysis-2029.md",
-      "title": "AI in Computer Vision Market Key Players Overview Applications and Analysis 2029",
-      "excerpt": "Pune, India-Research Report on Global AI in Computer Vision Market 2022-2029 Report Demand develops Rapidly as Our",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-key-players-overview-applications-and-analysis-2029-2022-08-24",
-      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-key-players-overview-applications-and-analysis-2029-2022-08-24",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-24T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

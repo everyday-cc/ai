@@ -9,7 +9,7 @@ ampWebUrl: "https://health.economictimes.indiatimes.com/amp/news/health-it/artif
 cdnAmpWebUrl: "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886"
 type: article
 quality: 71
-heat: 91
+heat: 101
 published: true
 
 provider:
@@ -57,6 +57,17 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Chinook Indian Nation members rally for federal recognition"
+    excerpt: "Members of the Chinook Indian Nation rallied Monday on the steps of a federal building in Seattle to raise awareness for their long fight to get federal recognition."
+    publishedDateTime: 2022-08-30T02:55:00Z
+    webUrl: "https://www.q13fox.com/news/chinook-indian-nation-members-rally-for-federal-recognition"
+    ampWebUrl: "https://www.q13fox.com/news/chinook-indian-nation-members-rally-for-federal-recognition.amp"
+    cdnAmpWebUrl: "https://www-q13fox-com.cdn.ampproject.org/c/s/www.q13fox.com/news/chinook-indian-nation-members-rally-for-federal-recognition.amp"
+    type: article
+    provider:
+      name: Q13 FOX News
+      domain: q13fox.com
+    quality: 24
 
 secured: "08q7SGndKAtl8x4Z5up+KK1lobnguGxRqjqiZU/W/ncodqtMitAJt7k9LYgE1UlWWUmCIq+KsTgXKYwDa8TridtnWVc2SQ7mwTqpEKqPmIMYz3U4IZ/+aCUDaaI4yHVmj6rvaEdjqTQFjQ+rSmWkDdVktc6cM3V45IgxjKMEL2bSe704O6WsmNc7wdsaTKv6MoxhODOmQh4l2w/96g+rVEMztUQxQHzwjO/XCbH3fCNK0drDbNKu5hbaQcxBLNUdKvbnz1Y5yOokD9WFgNmKtWxFUJaNFR3ZjDp1pU8wMYhz2QPcbzgQq5KaUW8QD9RfqK4xXRXpQw++gUqmlAG3o5Psby+jeTDsFmCYe/ua5UFi5AwSdl0BX6HzXyB6opt+AwGAdZYTGaZMVVLyZmbmcDduR9mVeVr2N9/vh666Uu2UhPgXCclRTTn6eXySUWeJOKVNyHeBn1PIxju1uZy3wB+6fEwlX6pWgkGcwJxY3zjMD3KMDz8CA4uPqdRAGO6HD4aC+Lt4TsmOCsZhNrf37A==;Ba4240H9Gmsxd6VF0XD2Mg=="
 ---

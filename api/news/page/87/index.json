@@ -2,6 +2,135 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2022-06-20-5g-and-ai-use-cases-how-5g-lifts-artificial-intelligence.md",
+      "title": "5G and AI use cases – how 5G lifts artificial intelligence",
+      "excerpt": "G and AI use cases. Next-generation cellular network will accelerate artificial intelligence but which business sectors will it affect most?",
+      "sourceUrl": null,
+      "webUrl": "https://www.information-age.com/5g-and-ai-use-cases-how-5g-lifts-artificial-intelligence-123499595/",
+      "originalUrl": "https://www.information-age.com/5g-and-ai-use-cases-how-5g-lifts-artificial-intelligence-123499595/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2022/06/5G-AI.jpeg.optimal.jpeg",
+          "width": 1080,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-20-could-low-latency-5g-boost-your-business.md",
+      "title": "Could low latency 5G boost your business?",
+      "excerpt": "Hypothetically, instant responses – those approaching the hallowed single millisecond mark, for example – would increase the effectiveness and dependability of driverless cars ... use cases – how 5G lifts artificial intelligence – 5G will unleash ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.information-age.com/could-low-latency-5g-boost-your-business-123499599/",
+      "originalUrl": "https://www.information-age.com/could-low-latency-5g-boost-your-business-123499599/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s27389.pcdn.co/wp-content/uploads/2022/06/low-latency.jpeg.optimal.jpeg",
+          "width": 1022,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-20T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Information Age",
+        "domain": "information-age.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-20-robotics-ai-innovation-is-the-way-forward.md",
+      "title": "Robotics & AI – Innovation is the way forward",
+      "excerpt": "The latest edition of ET UNWIRED in association with NTT DATA included Thomas Normark, Global Head of AI & Robotics, NTT DATA Business Solutions, Denmark, Vikas Desai, Chief Technology Off - Mediawire",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/tech/information-tech/robotics-ai-innovation-is-the-way-forward/articleshow/92332665.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/tech/information-tech/robotics-ai-innovation-is-the-way-forward/articleshow/92332665.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/msid-92332662,width-640,height-480,resizemode-7/unwired-ntt-28th-april-800-x-600.jpg",
+          "width": 640,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/tech/information-tech/robotics-ai-innovation-is-the-way-forward/amp_articleshow/92332665.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/tech/information-tech/robotics-ai-innovation-is-the-way-forward/amp_articleshow/92332665.cms",
+      "publishedDateTime": "2022-06-20T00:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-20-serial-entrepreneur-anoop-ambika-is-new-ceo-of-kerala-startup-mission.md",
       "title": "Serial entrepreneur Anoop Ambika is new CEO of Kerala Startup Mission",
       "excerpt": "Artificial Intelligence, and Machine Learning, Life Sciences, ideation, and entrepreneurship. The Government issued the notification appointing Anoop in the position for a period of three years.",
@@ -1013,135 +1142,6 @@
       "topics": [
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-18-self-driving-big-rigs-are-coming-is-america-ready.md",
-      "title": "Self-Driving Big Rigs Are Coming. Is America Ready?",
-      "excerpt": "The goal is better-than-human, but not perfect, autonomous driving; jobs are probably on the line. Every day, millions of sailors, truck drivers, longshoremen, warehouse workers and delivery drivers keep mountains of goods moving into stores and homes to ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/self-driving-big-rigs-are-coming-is-america-ready-11655524823",
-      "originalUrl": "https://www.wsj.com/articles/self-driving-big-rigs-are-coming-is-america-ready-11655524823",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-566755/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wsj.com/amp/articles/self-driving-big-rigs-are-coming-is-america-ready-11655524823",
-      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/self-driving-big-rigs-are-coming-is-america-ready-11655524823",
-      "publishedDateTime": "2022-06-17T21:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-18-financial-planning-perspective-on-life-milestones-money-matters.md",
-      "title": "Financial planning perspective on life milestones | Money Matters",
-      "excerpt": "The trip got me reflecting on planning, how my daughter planned for it, and the importance of planning in successfully achieving milestones in life. For a person graduating from any program of learning,",
-      "sourceUrl": null,
-      "webUrl": "https://www.redmond-reporter.com/business/financial-planning-perspective-on-life-milestones-money-matters/",
-      "originalUrl": "https://www.redmond-reporter.com/business/financial-planning-perspective-on-life-milestones-money-matters/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-17T13:54:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Redmond Reporter",
-        "domain": "redmond-reporter.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-18-this-simple-cognitive-bias-can-have-serious-consequences.md",
-      "title": "This Simple Cognitive Bias Can Have Serious Consequences",
-      "excerpt": "Recently, I became acutely aware and impacted by left-digit bias. At first, it seemed benign—a few letters and a freebie from the AARP—but then the discriminatory communications began to roll ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/standing-strong/202206/simple-cognitive-bias-can-have-serious-consequences",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/standing-strong/202206/simple-cognitive-bias-can-have-serious-consequences",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-06/shutterstock_76962058.jpg?itok=H-th-Vwo",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/standing-strong/202206/simple-cognitive-bias-can-have-serious-consequences?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/standing-strong/202206/simple-cognitive-bias-can-have-serious-consequences?amp",
-      "publishedDateTime": "2022-06-17T11:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
       ]
     }
   ],

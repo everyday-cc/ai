@@ -33,17 +33,6 @@ related:
         width: 1440
         height: 960
         isCached: true
-  - title: "Safety concerns over driverless and self-driving cars"
-    excerpt: "Just one in 20 drivers – some 6% - say they would feel safe travelling in a driverless car and almost a third (31%) would only trust a driverless car if they could take over the controls ..."
-    publishedDateTime: 2022-08-26T10:36:00Z
-    webUrl: "https://www.fleetnews.co.uk/news/fleet-industry-news/2022/08/26/safety-concerns-over-driverless-and-self-driving-cars"
-    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/fleet-industry-news/2022/08/26/safety-concerns-over-driverless-and-self-driving-cars"
-    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/fleet-industry-news/2022/08/26/safety-concerns-over-driverless-and-self-driving-cars"
-    type: article
-    provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
-    quality: 39
 
 secured: "U7bIQN31ME4daevGLLBg0WzfPRO60mj83gxC6uUpQOhnDFZOunpqjMaKBPS3SYNEMSRfbDPmizcR4861PQK02TKGas+YEgB1xpNT11KybWxYSvnX9cYMohalcl/sQ/5uesUHOVgOjOMVfM25b8NPfDkHY0gKegBLoEh2CKf0RTcBdfLIP5p3IWzWHSjAG+gQlwnFmfhjUzkQRH3agzWKqyIfbiLQ41NbRIjQgmRF1+yYBjeo9i2ASb5lSl8yklUktTqeN4D17pSXJTiM1uplhtS8MZBRkyhHkM+6/g/gFOjWGgpqkKsMqUceChlBmSUQcV4aoUKjbre+SmTT6+i/E+sAu4s9ZtA0C/6v2NPofAY=;zeNAILnTj6hhAr7PufQZIw=="
 ---

@@ -17,6 +17,17 @@ provider:
 topics:
   - AI
 
+related:
+  - title: "Artificial Intelligence in Fashion Design"
+    excerpt: "The industries are flourishing and expanding and the technological advancements in the Fashion Industry are growing exponentially."
+    publishedDateTime: 2022-08-28T18:47:00Z
+    webUrl: "https://www.thehansindia.com/hans/young-hans/artificial-intelligence-in-fashion-design-759586"
+    type: article
+    provider:
+      name: The Hans India
+      domain: thehansindia.com
+    quality: 17
+
 secured: "kH/BrTL3/dW/UwGeAcMNe+px3CN/wzGeOd3J6z1bflT4PdbKPsz8R2dwrKFH6Av/OYojeb1d9NJRNCceRkeTLHXPAdR6CMpNwvAwThcmmocXB9mrbFhs2VP+ssX+fduiqU8kI8VBNnYZAc1yIxWp06utfhNxxvENWBtnfuHYd+dOKsjzRP0O0322/42pHz3+GZNKgBARkYNJMlukHZd+4brQywqrx4+ePzY5bsJVHaQKr0HGA+RyQ8VMTJ8WHWW+og5IOgVHWlRRUkqRMAQcE7hJo3iWqJIK1FJIEH1FmNimUes6yiWWpTc/LpaMgLHHi0EOGVghXADvJPgEpZ5qkLjH/FWh1DfAavsIocjZZ+BcozoK6asUP6upf+8Hz6Vy7qJiBd2yVUa2XBDzXy1iHlHH38xdoXKkktOv07HkxIPaSwnEqsGYJlmMTesnJYXmHcYDW6UUU9ILcSNQT+cscks2kOag9G59VWsKaodi5koYYFiDTY5TABNvzRQgd7U6u9VtzPyCkTd/vBOMijCjPw==;5IHMDYS0bW7WOYVW4ZPOww=="
 ---
 

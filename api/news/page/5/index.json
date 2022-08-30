@@ -2,6 +2,110 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-08-24-restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages.md",
+      "title": "Restaurants Send More Customer Calls to Voice Bots Amid Staffing Shortages",
+      "excerpt": "Some executives say automating phone lines will ease pressure on stretched hospitality staff—but others question whether hungry customers are ready to order from a nonhuman voice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
+      "originalUrl": "https://www.wsj.com/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-609305/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
+      "publishedDateTime": "2022-08-24T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-ai-in-computer-vision-market-key-players-overview-applications-and-analysis-2029.md",
+      "title": "AI in Computer Vision Market Key Players Overview Applications and Analysis 2029",
+      "excerpt": "Pune, India-Research Report on Global AI in Computer Vision Market 2022-2029 Report Demand develops Rapidly as Our",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-key-players-overview-applications-and-analysis-2029-2022-08-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-key-players-overview-applications-and-analysis-2029-2022-08-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T01:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-saas-solutions-provider-revsureai-raises-35-mn-in-seed-funding.md",
       "title": "SaaS solutions provider RevSure.AI raises $3.5 mn in seed funding",
       "excerpt": "RevSure.AI announced on Wednesday that it has raised $3.5 million in seed funding and has launched out of stealth mode. The investment was led by Innovation Endeavors, with participation from angel investors Katrin Ribant,",
@@ -318,49 +422,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-24-deep-learning-algorithm-may-streamline-lung-cancer-radiotherapy-treatment.md",
-      "title": "Deep learning algorithm may streamline lung cancer radiotherapy treatment",
-      "excerpt": "Clinical validation of deep learning algorithms for radiotherapy targeting of non-small-cell lung cancer: an observational study. The Lancet Digital Health , 2022; 4 (9): e657 DOI: 10.1016/S2589 ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.sciencedaily.com/releases/2022/08/220824152208.htm",
-      "originalUrl": "https://www.sciencedaily.com/releases/2022/08/220824152208.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T16:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Science Daily",
-        "domain": "sciencedaily.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-24-pilot-travel-centers-explores-accommodating-self-driving-trucks.md",
       "title": "Pilot Travel Centers Explores Accommodating Self-Driving Trucks",
       "excerpt": "Pilot Travel Centers LLC, one of the largest operators of roadside travel centers in North America, said it made an equity investment in self-driving trucking startup Kodiak Robotics Inc. and is partnering with the company to incorporate services for ...",
@@ -409,6 +470,49 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-deep-learning-algorithm-may-streamline-lung-cancer-radiotherapy-treatment.md",
+      "title": "Deep learning algorithm may streamline lung cancer radiotherapy treatment",
+      "excerpt": "More information: Hosny A et al. Clinical Validation of Deep Learning Algorithms for Lung Cancer Radiotherapy Targeting, The Lancet Digital Health (2022). DOI: 10.1016/S2589-7500(22)00129-7",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/lung-scan.jpg",
+          "width": 2880,
+          "height": 1966,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp",
+      "publishedDateTime": "2022-08-23T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
         "AI"
       ]
     },
@@ -1059,100 +1163,6 @@
         "AI Hardware",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-florida-holds-primary-elections-that-will-decide-who-will-face-off-against-superstar-gop-gov-ron-desantis-in-november.md",
-      "title": "Florida holds primary elections that will decide who will face off against superstar GOP Gov. Ron DeSantis in November",
-      "excerpt": "The Democratic nomination for US Senate is expected to go to Rep. Val Demings, a former Orlando police chief who'd face off against GOP Sen. Marco Rubio.",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8",
-      "originalUrl": "https://www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 75,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.insider.com/6303e6c2c9a2da00180920c2?width=1200&format=jpeg",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8?amp",
-      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/florida-primaries-for-senate-and-governors-race-results-2022-8?amp",
-      "publishedDateTime": "2022-08-23T08:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word.md",
-      "title": "Capitol Records blasted for promoting AI rapper FN Meka using n word",
-      "excerpt": "Capitol Records blasted for promoting an AI rapper named FN Meka that was created by a white man and uses the n word",
-      "sourceUrl": null,
-      "webUrl": "https://bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/",
-      "originalUrl": "https://bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 137,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bossip.com/wp-content/uploads/sites/28/2022/08/16612612898745.jpg?w=560&h=320&crop=1&strip=all&quality=80",
-          "width": 560,
-          "height": 320,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/amp/",
-      "cdnAmpWebUrl": "https://bossip-com.cdn.ampproject.org/c/s/bossip.com/2154626/capitol-records-blasted-for-promoting-ai-rapper-fn-meka-using-n-word/amp/",
-      "publishedDateTime": "2022-08-23T08:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Bossip",
-        "domain": "bossip.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],
