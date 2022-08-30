@@ -7,7 +7,7 @@ originalUrl: "https://occipitals.net/series-a-investment-round-led-by-chi-ming/"
 webUrl: "https://occipitals.net/series-a-investment-round-led-by-chi-ming/"
 type: article
 quality: 24
-heat: -1
+heat: 24
 published: false
 
 provider:
@@ -23,50 +23,6 @@ images:
     width: 2000
     height: 800
     isCached: true
-
-related:
-  - title: "North America Deep Learning Chip Market Segmentation, Future Trends, Growth Overview, Key Companies and Forecast by 2027"
-    excerpt: "Driving factor such as the rising investments in deep learning chip start-ups is propelling the growth of the deep learning chip market. Further, the increasing adoption of cloud-based computing across several industries is anticipated to boost the deep learning chip market growth in the near future."
-    publishedDateTime: 2022-08-25T14:35:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-deep-learning-chip-market-segmentation-future-trends-growth-overview-key-companies-and-forecast-by-2027-2022-08-25"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 61
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "GPU as a Service Market Growth Opportunities, Analytical Overview And Revenue Forecast To 2030"
-    excerpt: "The increasing penetration of the Industrial Internet of Things (IIoT) across various industrial sectors is a prominent factor for the GPU as a service (GPUaaS) market expansion. With the greater need for scaling and speeding up business processes,"
-    publishedDateTime: 2022-08-26T06:28:00Z
-    webUrl: "https://www.marketwatch.com/press-release/gpu-as-a-service-market-growth-opportunities-analytical-overview-and-revenue-forecast-to-2030-2022-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 57
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Turnstile Market size with concentrate on Top most Key Players, Future Analysis and Market Trends till the forecast period-2028"
-    excerpt: "The Global Face Recognition Turnstile Market Report provides a basic overview of the industry including definitions, classifications, applications and industry chain structure. The Face Recognition Turnstile market analysis is provided for the international markets including development trends,"
-    publishedDateTime: 2022-08-26T18:36:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-turnstile-market-size-with-concentrate-on-top-most-key-players-future-analysis-and-market-trends-till-the-forecast-period-2028-2022-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 32
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "N5XItxMLFVnibACetUdrFqCSUgS/YkX48IUM+xJU6DguN19KrlLEtt0wVQnkzKFqsJZepFD+Ndw2OCynrM11xY+WvK5i2JnHz+5v64cFiMpuNVq0aGtH2D7QfHjZVCpURJkb722K2qM//o1AJxY4KCb9gI8sqNholHzo4yZcxQ/+5LQ+9LpyKtdPf09T+GwMCXHuVAOrYdtZyAs7krZHPB73F21e3SjpJIIc+xEkaYUDzsXIh70moDGqEnQGLmgtLpdk2lqVu0WjWcxxt0OBRM+RlZ11pb1vHYGXTQ8AAmrJ++Nc5B//jFoDvIPSRy5bzmOFfHteQ+NlIAAVq5ek7AQyE28wNLOei85TMp7R2u4=;eWRH5w125TnNpoJBjDCGog=="
 ---

@@ -1,28 +1,24 @@
 ---
 category: news
 title: "Deep learning algorithm may streamline lung cancer radiotherapy treatment"
-excerpt: "More information: Hosny A et al. Clinical Validation of Deep Learning Algorithms for Lung Cancer Radiotherapy Targeting, The Lancet Digital Health (2022). DOI: 10.1016/S2589-7500(22)00129-7"
-publishedDateTime: 2022-08-23T22:32:00Z
-originalUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html"
-webUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html"
-ampWebUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp"
-cdnAmpWebUrl: "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.amp"
+excerpt: "Clinical validation of deep learning algorithms for radiotherapy targeting of non-small-cell lung cancer: an observational study. The Lancet Digital Health , 2022; 4 (9): e657 DOI: 10.1016/S2589 ..."
+publishedDateTime: 2022-08-23T23:59:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/08/220824152208.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/08/220824152208.htm"
 type: article
 
 provider:
-  name: Medical Xpress
-  domain: medicalxpress.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Machine Learning
   - AI
 
-images:
-  - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/lung-scan.jpg"
-    width: 2880
-    height: 1966
-    isCached: true
-
-secured: "2VxpG0PNmYPV3QXUeV6oF0GZrVGUfLwhc43Xw4ThnmbTzeK1lI96B7hqOh6hN/+/oQcxwzH3pu4m5t6vp+w5sEJq8yr9GXehRFzV41lWPRBbjeaPNOeqMp1HRqs8H8wJr3ts/w14RXnS98JU+WTKIAw+JAeyouDagu3yPWt0fbUeCRNF3nx9dhFWtKl3qRWKMB82l4ce3qzjZrgsB9NkIyAT5U/TME3LpiEUQs6NXXTyQiEtlzof4PuPBZvR1LY0UAQq3AEQTK5iAtWANwxhJUz5QZGJZUOKFTQI3BUpB3nEvQG3W7uYZHnB/Z2vnCzTqR/FMTBf/Jduu/dP+GO2rBi/I1T8s4DkaVB7wY+v5Uc=;smSACcXQtd+hz6zRkOsTOA=="
+secured: "NB1QXmIZrC4M8znm9ou42yRMnyJB97LtWrpkDeKuJDYBDExqKMoCEPsZWWFGhw6oAEJRI/LlN3ssrItIvnkNQHhQkNAjea95gU6ZIRRxtk50sljflkDwREJjd9fUftuokERSm+L7G38MaPugXOKrG0NpstzR7fOmalprCzYBbAqLn+6JC4PR0ihmhkp24otoVeMaFY/hWGb/g0BJnRPdWWwUv+saGbuejOu4iERGZ5YroRspIPWscK8FCAiX6DvoOAF7qVbBN2f4JdxTgquB9l4r4DFD4UvFB0oRkfCjJH+DbIyvMNxI6apMI8FJ7TWyTQZrjXtkIMgbi5KmN2h7hoyYL2cXlfndspk/KN+hVnc=;HYNnrHuGt31vRYIRTJJAFQ=="
 ---
 

@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-accounting-market-share-size-financial-summaries-analysis-from-2022-2030-by--microsoft-aws-xero-2022-08-26"
 type: article
 quality: 72
-heat: 92
+heat: 82
 published: true
 
 provider:
@@ -39,20 +39,6 @@ related:
       name: GeekWire
       domain: geekwire.com
     quality: 53
-  - title: "Cloud Augmented Intelligence Market Report Covers Future Trends with Research 2022-2029 | AWS, Microsoft, Salesforce"
-    excerpt: "New Jersey NJ Aug 25 2022 - The Cloud Augmented Intelligence Market research report provides all the information related to the industry It gives the outlook of the market by giving authentic data to"
-    publishedDateTime: 2022-08-25T13:46:00Z
-    webUrl: "https://www.bignewsnetwork.com/news/272666360/cloud-augmented-intelligence-market-report-covers-future-trends-with-research-2022-2029--aws-microsoft-salesforce"
-    type: article
-    provider:
-      name: Big News Network.com
-      domain: bignewsnetwork.com
-    quality: 33
-    images:
-      - url: "https://cdn.bignewsnetwork.com/cus1661542547031.jpg"
-        width: 630
-        height: 420
-        isCached: true
 
 secured: "FpJuOpqa+r3yrRzGsN0Pi2QxliD4OZcveErgz5YE0AEtsZ7ZpU+toJOfsrf+7zZl2P4sDlsCHsSJ4FuslM0fNEVKZQXaxuRYQBoL9/+dgyespbE7eo/htQgAPF541s6LXyuPbb3q72FUVvC8uHy+HFQIQRysK2DbQbAjOUdT/wo9TYH3DpiDFl3f3KPJu1+ldXaNw/J0Sea9QHsyrmguhUcDkIGepzbJIsRa0ngyxmm0djeLw6Jnpx5QUT8qxaHl9MCy+yI68TVkwEPI1wck0/e4YYLgT+fxCoBYikMwqAvAGclhWBpUNYiOdHwYj/mmB2y4VkcNjAtOgOHqs5MhIgRen+Xbjnt4kwWLmvxoJvs=;NRjF6T56dsh0wYYPnWcvfw=="
 ---

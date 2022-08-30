@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-29T00:00:00Z
 originalUrl: "https://tdwi.org/Articles/2022/08/29/PPM-ALL-How-Democratization-of-AI-Could-Prevent-the-Great-Resignation.aspx"
 webUrl: "https://tdwi.org/Articles/2022/08/29/PPM-ALL-How-Democratization-of-AI-Could-Prevent-the-Great-Resignation.aspx"
 type: article
-quality: 39
+quality: 41
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AWS AI
   - AI
+  - Machine Learning
 
 images:
   - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/peoplewalking.jpg"
@@ -42,6 +43,6 @@ related:
         height: 1080
         isCached: true
 
-secured: "7IOYzPVcHup0gKLp8BAqXFkLhektQ++zc+AXHbTCltPJ/aGOI4E4JhrWMIo1DytsqXzRth3XbQJiAkYZhUe3IJgFGxsmPN6YEUklkQW1MdtV4hMBFBO8o+kQPSpyPFPCtBqu0iCq6q0dSN1HulWp73aewicAbZseZhgIrVd8GBTG9S53D8fqq6fCWpDc9t3AVMGVRefjDMOxfVzV48UDr3yKLrpW0+b9U1obR0LN7NN39fZgBxh7P2JHChXr9ko50BXyrHHKodZLS7Ti39MnMXzqIK0baUGsN4V+JnjZkS/MFhxxhx/cuVK8oiZki5klPKi+oVhbB/R8wxiG8jUfZA/blovWvnf4QtCc+vsRD8U=;+28sORcUi7Be/EBUtp+I9Q=="
+secured: "MN+byb54Ug+Lon0/62M5ozvdsH4kM3Br5SUD9T3rsFq+JzPzUaU6DtjXtlSpHs2bwM3/q8QFrNjM9PKwxnSvCD0Ykx+O9pw8qR+HZiJMWGtHFQP7V/KqLClyrJ9lPqk/0kSfvcI88LgqGvBv4yfpi5tNVb7EjQjTZSpkuzMB1DY/1cHxmJrPR9HBxyh+VfY9wOJ8DgH3EE/Or5YDmfCxKSYqheNaUav41U06WW55vPqotLv3PmLBDHa3nXLGxxiTz8E4ETo6NMyYHD+z/7ZCHIP5Ew6yTTHS4v4ssV8BGnOk7ecdDHmMIzq1y/A4csfYrmEMGUlKfbnJng06xTCwpjawU9NFOW52dJ34cYxoEq7pcKdt3JtnZqaLVtbkwaGKOoJdjHhJ12q9ILwK+9qCv8GhB+xGDqxkBifPwTxE0WKpsUJXXj3TCNikB4H7FBj4Od5Pd9KXMP800D45ZZggmm2Nbnn50J15gcC0b1oaCCWlf3svPeSfUslsUn5pa7L0ZoPZoMWnD13nAXAP47bjtw==;eWMExGFPfSDZPsdWID4VGA=="
 ---
 

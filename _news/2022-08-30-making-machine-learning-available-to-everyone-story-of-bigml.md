@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/making-machine-learning-available-to
 webUrl: "https://analyticsindiamag.com/making-machine-learning-available-to-everyone-story-of-bigml/"
 type: article
 quality: 71
-heat: 71
+heat: 72
 published: true
 
 provider:
@@ -25,6 +25,6 @@ images:
     height: 1260
     isCached: true
 
-secured: "1GoAUjxmPWJOT3Xz6Zr0FrRnkjT0KldTOvIr14N36aYPq5OKmm47bkdcRdEbZi2evS1BinPrurat3ikMIE40/BuSxqqrd+r8cHak7pbdMDuctZptJXgGvqP0auxx4ELi4RBhYlEMtCOxl8BTJ4hAsS4hCaKy/nNmm8xqmhB9QH4h5EnR8g1dUjn3KT8mRsG+ZyY94tLFTUVqxLXiSzp4qCOEnMop1frqACMCZ55x4C05RoVztsm8bSu4iARLcYWJmkbCg9MitAll2gYiZC3W3TCT2L9AssDi3OboL3PqAY1EnqXQ4Av+1/wO6Nj0xWOWFWy7HZ4OcSuma/Y788hz/QmrXV/Ni9wSdsuAxxa2cTI=;8KO9xWNhkQU7AXxdfEidRQ=="
+secured: "48yuLHfHA4UIyAnrsRLEbqLtoq3lSLMjNREMfSsUEtcJMqNgUynY17A8DwwXy0dAjZIa9l8lY2apxkh/kn2p4Q9c6GOwSziPOPNamoe9bZSa1yeW2evveqxZTy5qPqa6JQggRHAJziLx2TwbrbeTB2wCIbSyW1oyUlExNac+7v/N829MVLdT8SbWjm3kFNadp/q4aYX3jwllHe31RzXi0nOE9oBOTPwCZrKVOftAzHtre0qNqztxp5QegqIVg/TLUQscNF2PGhIcjODgOJ3fSWwGfVM296Qrvtt/ztclpvCDYBlwQcS/JrdYm1CgN9XeF4FmtifUCEE6Lb0a88bquH31ZvfYZVSFukEmJqDSrSVG5TXSQzKUgxSQaVIpcAuei9vkZvzl4h6ndGrIwPNwzbBZneB0oMf7c8PSTJz8dWWcgShHItOKf0bQPHuD0n6KMZH3ZgOFF2h7Nqg/9fN3c9zes6gf0xANyM0TpRdgOxE3bFSsYeutUk4Me5WxA643XeDJs0CiJ34hKL64/Al3Jw==;jLG433qQk7mKNV9Q2rDM2g=="
 ---
 

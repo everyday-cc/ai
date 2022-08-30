@@ -9,7 +9,7 @@ ampWebUrl: "https://www.livemint.com/technology/tech-news/with-absent-laws-face-
 cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/technology/tech-news/with-absent-laws-face-tracking-proliferates/amp-11661453943678.html"
 type: article
 quality: 59
-heat: 89
+heat: 79
 published: true
 
 provider:
@@ -56,20 +56,6 @@ related:
       - url: "https://d1sr9z1pdl3mb7.cloudfront.net/wp-content/uploads/2022/08/25160459/niqab-scaled.jpg"
         width: 2048
         height: 1367
-        isCached: true
-  - title: "Rising Murder Rate Prompts Reversal, Revision of Facial Recognition Bans"
-    excerpt: "A number of cities and states have reversed or altered their facial recognition bans after recognizing a need for the technology."
-    publishedDateTime: 2022-08-25T14:42:00Z
-    webUrl: "https://www.campussafetymagazine.com/news/rising-murder-rate-prompts-reversal-revision-of-facial-recognition-bans/"
-    type: article
-    provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
-    quality: 38
-    images:
-      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2022/08/New-Orleans-Adobe-SeanPavonePhoto.jpeg"
-        width: 500
-        height: 300
         isCached: true
 
 secured: "E1JgzxGNYQynHlJ64NmsO3xPkqWqVIhWVFyW4/cCXroiPxKOrqN7JZySt/ymnSAMCbGua+5QUhycedL5aLl38MY/JJWPN3VTnk9+GKwFynhk4SFnCZKnt308mka5zrB9nsW/9DbltYfQvbLmH8ZItCT6cf4qnxLrZrCiZxDmNlO8R4IdfyW869oxyzS9PsZeQnDNyichbOuOo3nJb3+/ORSigsRTr12HExU3E/2nqHu7tQR2Balu11e9RCCrb8QJtXc9mhYgL3EbBW7JHSlODvP9Bk+Z+q+qVE+rCvC4qUI+U02LQ2cLOIvunZkqxbPm05ir2Ee/TGaWbmp3bE9MoQW+NS3HmPui/tWQOObFtd83VrEkllLsXhC+MTzPHtX22FOPTwD5zP2lgkcLMkajYvN506jBO7mgL6AXO4B/9tmV7gCL1/yWH3frVZM6VQPsx0IG/M1SUJGNz8kCoqEby9y7scUKQotvlthfY/If6NP0EHxFK2qBPmEiMVhkTid0UdYijOL49e2uf8znixk1SQ==;lkWG/ZaKJJRyEe7U5yf7xQ=="

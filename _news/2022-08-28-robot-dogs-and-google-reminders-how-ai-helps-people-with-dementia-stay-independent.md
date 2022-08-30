@@ -2,19 +2,19 @@
 category: news
 title: "Robot dogs and Google reminders: How AI helps people with dementia stay independent"
 excerpt: "Bobby Redman, who lives with dementia, uses movement sensors, a virtual assistant and recorded messages on her smartphone to stay living independently."
-publishedDateTime: 2022-08-28T13:55:00Z
-originalUrl: "https://www.theage.com.au/lifestyle/health-and-wellness/robot-dogs-and-google-reminders-how-ai-helps-dementia-patients-stay-independent-20220828-p5bdar.html"
-webUrl: "https://www.theage.com.au/lifestyle/health-and-wellness/robot-dogs-and-google-reminders-how-ai-helps-dementia-patients-stay-independent-20220828-p5bdar.html"
-ampWebUrl: "https://amp.theage.com.au/lifestyle/health-and-wellness/robot-dogs-and-google-reminders-how-ai-helps-dementia-patients-stay-independent-20220828-p5bdar.html"
-cdnAmpWebUrl: "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/lifestyle/health-and-wellness/robot-dogs-and-google-reminders-how-ai-helps-dementia-patients-stay-independent-20220828-p5bdar.html"
+publishedDateTime: 2022-08-28T14:25:00Z
+originalUrl: "https://www.smh.com.au/lifestyle/health-and-wellness/robot-dogs-and-google-reminders-how-ai-helps-dementia-patients-stay-independent-20220828-p5bdar.html"
+webUrl: "https://www.smh.com.au/lifestyle/health-and-wellness/robot-dogs-and-google-reminders-how-ai-helps-dementia-patients-stay-independent-20220828-p5bdar.html"
+ampWebUrl: "https://amp.smh.com.au/lifestyle/health-and-wellness/robot-dogs-and-google-reminders-how-ai-helps-dementia-patients-stay-independent-20220828-p5bdar.html"
+cdnAmpWebUrl: "https://amp-smh-com-au.cdn.ampproject.org/c/s/amp.smh.com.au/lifestyle/health-and-wellness/robot-dogs-and-google-reminders-how-ai-helps-dementia-patients-stay-independent-20220828-p5bdar.html"
 type: article
 quality: 48
 heat: -1
 published: false
 
 provider:
-  name: The Age
-  domain: theage.com.au
+  name: Sydney Morning Herald
+  domain: smh.com.au
 
 topics:
   - AI in Robotics
@@ -36,6 +36,6 @@ related:
         height: 628
         isCached: true
 
-secured: "aRvtwzMqWxxmIlhCkrLbXKgQavdY5GJ2CPeN/ZRdUtO/CbNZ8OWLYGXymYTxCLErpvbSjfUFMsGvNIB9IH7FnfBj3DPw3dGvogVPSVihThsnL0t5nIhexIqsdrjkJwqSo/SeEfXLnXqp2QHJpeAODqoFO4PQ2+JySvAP251+RQ9Y0VRR5yzvynsYqWKyyvdty4mtuD0pjHljC6tXB1ddRlPoc0epk3l9co7F1DjxUok6rSKZC7OhAHzyIAUgNVlRXQsBXlTXamqQklU23mp3BTT7CFKaoXJWhbtZeUBHwjarloo4m/FXWopbirwDw00yhRV2Axs9gnxY3IIztuyLoehY5YpCdOpZNTPVA3ONd0VNugfW+ocJdDh8aPnJcaW53PCoyW3TmFe16nhBii+K73duKxjsEzvoAl3nyqvWl5mXUGDJ4vL7b6scogPcmqhg/jtnbMiKprj26wpnZHMx4BLBZrEJzYj6/yd/yM2XCJtc8TSb5LzrUfiTTyOewKD96tEcQ2WM90NQ7NSxJruELw==;ThRdfTHtOH4ts0RWI1MXSA=="
+secured: "07ZpEYCo+gfKdI/u5b29US42+QaiRXEl4QClBLTFCSlgZwRamjXPpkdwrg+e6ds4kyTpjhw7xXT3sogds54SlsB2W4iohfAS8dynIHYuQYJiXjF1X8O+qVYr5JUFIdCAVDQA3dsHbRe1s4sLUUot4ZPSIDa9ecVWKUoj95/OwtypNmg0SD3PDwIj3pwRXKnCXlqcQlU9HcbJeu1P9ihGErcJFbq0QAhEBGXoCPgyqvMb0yXV5cVI56W66Nv0auNFZyNc2umIIK6a/wF5GpJekjB16w4aFgAl20+JaSv8Jee7QqUZIYqvU5XU9+d50kHKmRd6AQZw3xiJZOvEjT3CP2/30Ao20IqKLf+1z5Nttc3kFUuO581pX/01Zxz4/E5878cf/P4x0qiMdvCwnG+misiRYkZIWdmyXywKM8u7+masWqX92nXZr/2pFUGm4MuSXRjHs36MDXXX14MCpO4Sz+IjVT8zvi9hlUzhA91ZSKKf26R17AmENVR+odtlqBE8S/9sxy0jXGRN2x/yFfkQ3w==;mSbO3NzwhgOvDZL5bT9q3A=="
 ---
 

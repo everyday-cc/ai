@@ -7,7 +7,7 @@ originalUrl: "https://www.electronicsweekly.com/news/products/micros/imagination
 webUrl: "https://www.electronicsweekly.com/news/products/micros/imaginations-gpu-and-neural-processor-in-alibaba-risc-v-chip-2022-08/"
 type: article
 quality: 56
-heat: 66
+heat: 56
 published: false
 
 provider:
@@ -24,17 +24,6 @@ images:
     width: 512
     height: 512
     isCached: true
-
-related:
-  - title: "Alibaba Cloud Unveils Chip Development Platform to Support Developers with RISC-V based High-performance SoCs"
-    excerpt: "Alibaba Cloud has unveiled its latest chip development platform, named Wujian 600. It has been created to help global developers in the design of high-performance Systems-on-Chip (SoCs) for edge-AI computing leveraging the RISC-V instruction-set architecture in an efficient and cost-effective way."
-    publishedDateTime: 2022-08-25T13:38:00Z
-    webUrl: "https://www.design-reuse.com/news/52536/alibaba-cloud-risc-v-chip-development-platform.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 0
 
 secured: "s4m5gnUYMXj8+Gx8xqC2lHcXyJbkp/WyCiaSyVBt9LD9pGju6NBwdruI0fGFpnSo9lee4ScwubiE3CslWQTk88nSwL8b3/u178fqA2fVYHh2khDlOxv/BDuS8Qy8aV59vlmrRJF4YPakMf2/oAXPrnOS0Oo+qC4bQmc13pvCFTtRyhU1LJlJgGoz07M3I2hHOUEZVIoMv+nmQlSxjMASCHQT4Ro8+qnH5IpJFz1VPKdV96hwZj3w23YsQsENnlo2CGwnSs77gRW+3i4TgGdBiwiH9yBxp7q0YIj+UgM0BgNUWpUECaVBEKylHj9fA4+eY3lPErpDSQhgXnwBp2mRFozBifGaT/Jh+4RLSayGzp+a8CnbVIe0WRNpTMdRiE0rvCciAv6Kikgpa5vYctepl+a8+ajBeM0VEgxahV+ixUaghmuC3Ur/VxlhkfZpEK1NLLyNZGsDxu7N+UhPdV4oBHyKrUk2ByI53rl7UVNEp5rCKqDclvgZ/4e+N4X00H4hwO/nxzrZ+EcDlLj0u+4VWg==;7uyZQwSuyrvm8igSysc6mg=="
 ---

@@ -9,8 +9,8 @@ ampWebUrl: "https://www.thestar.com/amp/opinion/contributors/2022/08/29/the-futu
 cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/opinion/contributors/2022/08/29/the-future-of-malicious-artificial-intelligence-applications-is-here.html"
 type: article
 quality: 59
-heat: 79
-published: true
+heat: 69
+published: false
 
 provider:
   name: The Star
@@ -27,20 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Imagination's GPU and AI Accelerator Licensed for the latest AIoT RISC-V-based applications"
-    excerpt: "Imagination Technologies announces that its IMG B-Series GPU and PowerVR Series3NX NNA cores have been licensed for the latest RISC-V-based SoCs of Alibaba Group’s T-Head Semiconductor for AIoT (Artificial Intelligence of Things) applications."
-    publishedDateTime: 2022-08-25T14:56:00Z
-    webUrl: "https://www.design-reuse.com/news/52537/imagination-gpu-ai-accelerator-alibaba-t-head-aiot-risc-v.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 44
-    images:
-      - url: "https://www.design-reuse.com/news_img2/homepage52537/Imagination_technologies_logo.png"
-        width: 900
-        height: 500
-        isCached: true
   - title: "New App Uses AI To Classify Skin Conditions With the Snap of a Picture"
     excerpt: "Piction Health, founded by Susan Conover SM ’15, uses machine learning to help physicians identify and manage skin disease. When Susan Conover wanted to get a strange-looking mole checked out at the age of 22,"
     publishedDateTime: 2022-08-26T10:15:00Z

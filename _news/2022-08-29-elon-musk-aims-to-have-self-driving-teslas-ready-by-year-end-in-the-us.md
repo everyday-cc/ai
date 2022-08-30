@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/elon-musk-aims-have-self-drivin
 webUrl: "https://www.reuters.com/technology/elon-musk-aims-have-self-driving-teslas-ready-by-year-end-us-2022-08-29/"
 type: article
 quality: 83
-heat: 143
+heat: 153
 published: true
 
 provider:
@@ -86,6 +86,20 @@ related:
       - url: "https://www.irishtimes.com/resizer/dQciVMXz2ezmJUenHg1Yvu-uFNI=/1200x630/filters:format(jpg):quality(70)/d2j5ip5u6h2g6o.cloudfront.net/08-29-2022/t_86da0a683d634600b0da60f7b90f85c2_name_1242798333"
         width: 1200
         height: 630
+        isCached: true
+  - title: "Elon Musk: aims to have self-driving Teslas ready by year-end in the U.S"
+    excerpt: "Tesla founder Elon Musk said on Monday he aimed to get self-driving Teslas ready by year-end and hopes they could be in wide release in the United States and possibly in Europe, depending on regulatory approval."
+    publishedDateTime: 2022-08-30T07:53:00Z
+    webUrl: "https://business-reporter.co.uk/technology/elon-musk-aims-to-have-self-driving-teslas-ready-by-year-end-in-the-us-7072"
+    type: article
+    provider:
+      name: business-reporter.co.uk
+      domain: business-reporter.co.uk
+    quality: 53
+    images:
+      - url: "https://d3nwecxvwq3b5n.cloudfront.net/AcuCustom/Sitename/DAM/018/2022-08-29T114020Z_2_LYNXMPEI7S0AM_RTROPTP_4_NORWAY-ENERGY.JPG"
+        width: 1200
+        height: 799
         isCached: true
   - title: "Elon Musk Hits Out At Beta Tester For “Complaining” About Full Self-Driving Beta"
     excerpt: "Musk quickly clapped back at Locke on Twitter, telling him that he shouldn’t complain having previously asked to be included in early releases of Tesla’s Full Self-Driving beta software. “10.69 is in limited release for a reason."

@@ -57,20 +57,6 @@ related:
         width: 2048
         height: 1367
         isCached: true
-  - title: "Rising Murder Rate Prompts Reversal, Revision of Facial Recognition Bans"
-    excerpt: "A number of cities and states have reversed or altered their facial recognition bans after recognizing a need for the technology."
-    publishedDateTime: 2022-08-25T14:42:00Z
-    webUrl: "https://www.campussafetymagazine.com/news/rising-murder-rate-prompts-reversal-revision-of-facial-recognition-bans/"
-    type: article
-    provider:
-      name: Campus Safety Magazine
-      domain: campussafetymagazine.com
-    quality: 38
-    images:
-      - url: "https://www.campussafetymagazine.com/wp-content/uploads/2022/08/New-Orleans-Adobe-SeanPavonePhoto.jpeg"
-        width: 500
-        height: 300
-        isCached: true
 
 secured: "3Hf2Z/IqHc1tohXGASyyPKQ0HWmGSS4fxTuaeeoW5dUeolXvulEGShNa248Vt0zrNn7BTJwI/BltmRUWI5oqLix+5215Zbv+urb3B4NOyViiXizfBNQzJBjlBfB9u68dQnoo9Iu2cb3ZJxOyjsRt7UndrzXPsRE0CRMCLPRsOXR7nJd0Cd5+f2YHMYJ2dHOms+kB/UIwjLQmaBmxJuQM162xZJkcLtljYuWIS5qbZe8TVzYgpNoafzGS1PbDFZ6ggUtTcc1FanZP/keWHnWx5QdFM5t4SksSgyKTrDL9GA2VKaI+Q4elkrKstSb6LMV6CiTl2RIazD4b8ls70fGGrLyUwbWKjX0zDZ7LpYX46j6l5h717j248oYg0+xyEyGYIc9Bv7R2v8LkfxKUXrqNds65US8d5fNgpg0phazi+x6Uvluplggzk6x9X7B/ciqqRIO3UnJ0onXOK+1ddZj9yRnXUicRTdyOg/ZUpJ2Wr/zJ7Uu2ruMq3HAvui6vHBdQn9G6eET36UiOSSZzXWlUPg==;5dVezp56t/Y/XUuMQP7O3A=="
 ---

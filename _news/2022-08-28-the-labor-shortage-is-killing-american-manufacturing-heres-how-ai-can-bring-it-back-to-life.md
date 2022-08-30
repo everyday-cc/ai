@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/amp/"
 type: article
 quality: 75
-heat: 95
+heat: 85
 published: true
 
 provider:
@@ -30,22 +30,6 @@ images:
     isCached: true
 
 related:
-  - title: "A startup is using AI to make call center workers sound ‘American’"
-    excerpt: "Sanas says its aim is to cut through some Americans' biases towards minorities. Critics argue their services may make things worse."
-    publishedDateTime: 2022-08-25T14:00:00Z
-    webUrl: "https://www.popsci.com/technology/startup-call-center-voices-ai-american-accent/"
-    ampWebUrl: "https://www.popsci.com/technology/startup-call-center-voices-ai-american-accent/?amp"
-    cdnAmpWebUrl: "https://www-popsci-com.cdn.ampproject.org/c/s/www.popsci.com/technology/startup-call-center-voices-ai-american-accent/?amp"
-    type: article
-    provider:
-      name: Popular Science
-      domain: popsci.com
-    quality: 57
-    images:
-      - url: "https://www.popsci.com/uploads/2022/08/24/Depositphotos_156054790_XL.jpg?auto=webp"
-        width: 2000
-        height: 1500
-        isCached: true
   - title: "Protecting AI Data in Manufacturing Is a New Frontier"
     excerpt: "Big data and AI have revolutionized the manufacturing industry, making factories autonomous as well as smart. With the advent of novel sensors and the Internet of Things, current manufacturing facilities are collecting trillions of bytes of data from ..."
     publishedDateTime: 2022-08-25T21:24:00Z

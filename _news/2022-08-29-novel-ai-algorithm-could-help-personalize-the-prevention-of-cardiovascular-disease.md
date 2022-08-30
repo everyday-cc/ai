@@ -35,7 +35,7 @@ related:
     provider:
       name: TDWI
       domain: tdwi.org
-    quality: 39
+    quality: 41
     images:
       - url: "https://tdwi.org/-/media/TDWI/TDWI/BITW/peoplewalking.jpg"
         width: 976
