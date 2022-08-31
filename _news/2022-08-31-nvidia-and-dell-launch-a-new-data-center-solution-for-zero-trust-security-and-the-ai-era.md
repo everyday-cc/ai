@@ -1,18 +1,18 @@
 ---
 category: news
-title: "NVIDIA and Dell Technologies Announce Data Center Offering for Zero-Trust Security and AI"
-excerpt: "NVIDIA today announced a data center offering with Dell Technologies designed for the era of AI, bringing AI training, AI inference, data processing, data science and zero-trust security capabilities to enterprises worldwide."
-publishedDateTime: 2022-08-30T12:58:00Z
-originalUrl: "https://insidehpc.com/2022/08/nvidia-and-dell-technologies-announce-data-center-offering-for-zero-trust-security-and-ai/"
-webUrl: "https://insidehpc.com/2022/08/nvidia-and-dell-technologies-announce-data-center-offering-for-zero-trust-security-and-ai/"
+title: "NVIDIA and Dell Launch a New Data Center Solution for Zero-Trust Security and the AI Era"
+excerpt: "The solution combines Dell PowerEdge servers with NVIDIA BlueField DPUs, NVIDIA GPUs and AI Enterprise software. The combination increases performance and efficiency, simplifies operations and boosts"
+publishedDateTime: 2022-08-31T07:03:00Z
+originalUrl: "https://www.guru3d.com/news-story/nvidia-and-dell-launch-a-new-data-center-solution-for-zero-trust-security-and-the-ai-era.html"
+webUrl: "https://www.guru3d.com/news-story/nvidia-and-dell-launch-a-new-data-center-solution-for-zero-trust-security-and-the-ai-era.html"
 type: article
 quality: 27
 heat: -1
 published: false
 
 provider:
-  name: insideHPC
-  domain: insidehpc.com
+  name: Guru3D.com
+  domain: guru3d.com
 
 topics:
   - AI Hardware
@@ -50,16 +50,16 @@ related:
         width: 600
         height: 300
         isCached: true
-  - title: "NVIDIA and Dell Launch a New Data Center Solution for Zero-Trust Security and the AI Era"
-    excerpt: "The solution combines Dell PowerEdge servers with NVIDIA BlueField DPUs, NVIDIA GPUs and AI Enterprise software. The combination increases performance and efficiency, simplifies operations and boosts"
-    publishedDateTime: 2022-08-31T07:03:00Z
-    webUrl: "https://www.guru3d.com/news-story/nvidia-and-dell-launch-a-new-data-center-solution-for-zero-trust-security-and-the-ai-era.html"
+  - title: "NVIDIA and Dell Technologies Announce Data Center Offering for Zero-Trust Security and AI"
+    excerpt: "NVIDIA today announced a data center offering with Dell Technologies designed for the era of AI, bringing AI training, AI inference, data processing, data science and zero-trust security capabilities to enterprises worldwide."
+    publishedDateTime: 2022-08-30T12:58:00Z
+    webUrl: "https://insidehpc.com/2022/08/nvidia-and-dell-technologies-announce-data-center-offering-for-zero-trust-security-and-ai/"
     type: article
     provider:
-      name: Guru3D.com
-      domain: guru3d.com
+      name: insideHPC
+      domain: insidehpc.com
     quality: 27
 
-secured: "9XMI8w7EpcD746vQnKTj4UaY1dHCE/OcOxAbsIcnd+qg9enPBYNQBk6mPpozfu6cMNrO8GpqXkkfO42CxHwDtggbqPVkffDTdm2K9oYVmedDaqsptaH3nG5AQRUTA2C8mdkLV7fZLhMySfN5JGmJKyRh/bTVtXoRc7J2KqYunihnJllNT9nr82Pi1GyErllPvi/j8jdI1QASWl6nunedLNNCr7ghuTvorjgE9JIuDmiwMl84d62jVxLxnsoVmkd7wLtras+ZqTl4J7UGScObqQldVz8Kw05aHgKz7kmyivWOwH82rti2Dp+fk5w/LQN77+442t49QNepk8HtsMHswpqVj5wNeXkEYH2P9Y68aZwSuaLADIeCSGBZSRwlS7G28ZXFQHZGvQsBbEuQQXuHIwEAKu4M13KJQfBwDR3KsEM+FpWwHYSzIdz2MgJadsvxtf5nZ5gB4TfLtQ7Cp85bsqFxMHjCFCsaEfMG8t6FvGTHm+GgeR+3Xx84KZEWQ2HekSs51GjygV1FM9+iYNTLUQ==;SDqjEEgo2+3dMZhnOEMQEw=="
+secured: "WMy2SNzv4nfgms5tEgdO/7CCjHYe+iLK65EXqM3ABojXkIbJzsC7t7h5Xp3K3n85ULGVFRup0Cky3V4lL1Tg8mB5fazpFk++niya95sgOVl7Ax5PaOXMqqZf3LyZkNu54oAcJjN1n9FL2O8zlb8XCCFoMq0QJsa7gTxjWEMnutoFLDzGWIX5HeKRcBtXSM9RmGPpugXCpwDHXZSka40AIyj4g8ucKxnZxQbJ/Su7QzU0hLwBjcnVlPOwJ3pJSbvDiATk6ax2duECUTOh+BGl2Gd/Lk6LmVv/dpeN5yua9NCPYxdbj14p9vqIZ1eN36gQskewYr8qx5GItRRAshz0WsxXBG/unVlwynNrASuW/s0=;t3KAPcZ2uvPIapAq5grY3Q=="
 ---
 

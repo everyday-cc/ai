@@ -1,26 +1,20 @@
 ---
 category: news
 title: "AI-powered service Vidby translates Zelenskyy’s speeches into 50 languages – Denys Krasnikov"
-excerpt: "Now, thanks to Vidby, this information is made available in your first language. If you think that an AI-powered translation tool is not something you can afford, you are in for a surprise."
-publishedDateTime: 2022-08-23T18:25:00Z
-originalUrl: "https://www.digitaljournal.com/pr/ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov"
-webUrl: "https://www.digitaljournal.com/pr/ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov"
+excerpt: "Meet Alexander Konovalov, Eugen von Rubenberg and Denys Krasnikov - the creators behind the unique machine video translation service called Vidby. Their online translation tool offers an unprecedented 99% translation accuracy - a result that as of now remains unmatched."
+publishedDateTime: 2022-08-23T20:18:00Z
+originalUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-8-23-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov"
+webUrl: "https://markets.buffalonews.com/buffnews/article/abnewswire-2022-8-23-ai-powered-service-vidby-translates-zelenskyys-speeches-into-50-languages-denys-krasnikov"
 type: article
 
 provider:
-  name: Digital Journal
-  domain: digitaljournal.com
+  name: Buffalo News
+  domain: buffalonews.com
 
 topics:
   - Natural Language Processing
   - AI
 
-images:
-  - url: "https://www.abnewswire.com/uploads/1661205013.jpeg"
-    width: 1024
-    height: 768
-    isCached: true
-
-secured: "0NHQiSnbaZNYQlRuDf8cfrxTKSGWe90D3UzQnRozBLSYkOSweeammMLy5938IqyYUc7qe6SMhnWzvWdFNdM/C2jC760MM1rIui3Kw+9GVNm3ZQ4mhrWWInLUk83aPQP1tg4RXbKnt+YtdTewLIqlxZZwuMi+zGRVM2tqumWV6yfN97MrOaqP0573N8YKUICrVXgbhcWIkVyPp9E+iiwrizUZ+Z5HzoGv3hQcz0yXHC48bKryKd1ShFK5ZP45K3JyeRGpIKd6NfXaCmiJXEbiltTlj0BRirt3vgoaLQAmpJ5wEQGjGr7rB0DNLaRQSrVxJBJH7oZTqszOMnmv/1H1Z++wdPVIkmrQyRndWrT2dJo=;dVCRArmQUNdOYU6Za1q3TA=="
+secured: "NnuJbdtopGFOOBp8BKT8oioBCr+7Vpk0fo6iDIL6EwpJnNs6QiH65kxeN/XpNohQs9gxP5f+BADj+w7qswoNWhnKprhDi6Ub/HbZfXZuOVQK5UAS+oAIqzXfEtnck61o9VIp8oc+GeDuUGEQIc/QACKiqoW2iSFoQW+b+MBqN+te9ATfocw3Whn3Tp3CAf8VQ4ZmLoKzuUr3nYGLFT8H6M2BqPd3890Sqx7YjjZX5zaQjdm3SSEoOqZkeb5WP+wOymQe8LhD2sO8cDgYBvoRrJzwE7AB6893aPmFVI5IenU2/zNlWM4qmf2edKZMTf8yq2UMIU5nZxmoqg66xi8JQD4dsg0xW9T5acdZ8ARBIHjFhAf8seWtI5XUtlTZhCus3hsbm79aPoQIy7exwA8TMRxX9IsLz1IEno7QwciR/XtZRr9/RbdfRnwzbwDps4pJG2pKHN3pKuZIDy0NzaQLcmAwa39LLN3zPMfnynNrecEiZddrqp1dyzbqVW4NbDXNLeN1Az7/bcHzEMGzzOIzMA==;0z41VC3yL3ZVYzcWpMDLJQ=="
 ---
 

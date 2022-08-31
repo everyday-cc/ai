@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-dell-vmware-add-ai-z
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/"
 type: article
 quality: 101
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -53,6 +53,15 @@ related:
     provider:
       name: insideHPC
       domain: insidehpc.com
+    quality: 27
+  - title: "NVIDIA and Dell Launch a New Data Center Solution for Zero-Trust Security and the AI Era"
+    excerpt: "The solution combines Dell PowerEdge servers with NVIDIA BlueField DPUs, NVIDIA GPUs and AI Enterprise software. The combination increases performance and efficiency, simplifies operations and boosts"
+    publishedDateTime: 2022-08-31T07:03:00Z
+    webUrl: "https://www.guru3d.com/news-story/nvidia-and-dell-launch-a-new-data-center-solution-for-zero-trust-security-and-the-ai-era.html"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
     quality: 27
 
 secured: "60Vt0OSm23y+JTTdfREPj4KrlYfBBWL3iZHSibG8tMYSaPUghPxAxTy40dw6GsXUL6+AcCI7T2OsO7BUhhtINuN5vo3Etd41jEWCpYNzqxSgtxkjBUtO6y85mQQVKRMJQQ+GAhn8nG+tMylywJqa9SmjnzHeWxbrUnf+CcBUPHCTKsCXea3VlT56yjRZM6DzvGSSLE+UdGhC0XbXA467UlspvVNShMXVpLx3AzooRGHwPpiaI6o9OAe+Z/E7+X/SsEeqTfmGdrj02EnpbQ8eKcTPF+xbjSXVTFuc3PhWc+kPXZhgBcVUYvdsHoHwYbtKjwPxLV2CEMGJ7vQX7rYMAhmz3rxrx6weAI7D8vrMbJXKUBR/jUM4BBeSOYsMx5qtyidWpPt2V+ZN573YKeIPLp36Bxnzb7SQjH5T8xO2nS11t4VOKw2MID51lJWR9f8+Z+T9yDaxRBXrWuorsH1auqwpIl5DEJaKYfvyKUCkVE8f+UBYsALbsUHGdvckYxi9cwfObrEm+qIHNmhJzPIYLA==;XjG18N7yC1Eo0OIBbSRjUQ=="

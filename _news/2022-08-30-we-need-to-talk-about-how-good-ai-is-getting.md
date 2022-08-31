@@ -28,19 +28,21 @@ images:
     isCached: true
 
 related:
-  - title: "Google's Test Kitchen App Asks You Talk to AI About Dogs"
-    excerpt: "LaMDA is a prototype AI system capable of deciphering a conversation's intent, and Google needs your help testing it out via the Test Kitchen app."
-    publishedDateTime: 2022-08-26T13:30:00Z
-    webUrl: "https://www.pcmag.com/news/googles-test-kitchen-app-asks-you-talk-to-ai-about-dogs"
+  - title: "Artificial Intelligence is getting good: Why you need to pay attention"
+    excerpt: "AI chatbots struggled even with rudimentary conversations — to say nothing of more difficult language-based tasks. But now, large language models like OpenAI’s GPT-3 are being used to write screenplays,"
+    publishedDateTime: 2022-08-30T16:19:00Z
+    webUrl: "https://www.firstpost.com/world/artificial-intelligence-is-getting-good-why-you-need-to-pay-attention-11149141.html"
+    ampWebUrl: "https://www.firstpost.com/world/artificial-intelligence-is-getting-good-why-you-need-to-pay-attention-11149141.html/amp"
+    cdnAmpWebUrl: "https://www-firstpost-com.cdn.ampproject.org/c/s/www.firstpost.com/world/artificial-intelligence-is-getting-good-why-you-need-to-pay-attention-11149141.html/amp"
     type: article
     provider:
-      name: PC Magazine
-      domain: pcmag.com
-    quality: 67
+      name: Firstpost
+      domain: firstpost.com
+    quality: 61
     images:
-      - url: "https://i.pcmag.com/imagery/articles/02aFSmyk24iY6AKYmO4LH89-2.fit_lim.size_1200x630.v1661520065.png"
-        width: 830
-        height: 467
+      - url: "https://images.firstpost.com/wp-content/uploads/2022/08/ROOSE-COLUMN-3.jpg"
+        width: 640
+        height: 363
         isCached: true
 
 secured: "cgcHMHyC7Qsbzl0ewJnpnrBP4ghqZikKGNpXd9P8dZ/o6edYxB8G82x1Nn0bJ806TcqZnGtzdfhhnhn0+zVutYdTWkT6D//dltwzGNkDE9bGCon6+8VFFo8avaQE92rFccjrMW49CTMv3AdI3F+M2yNpE/b5eDPX0xutRN1q2ttUq+Q4Hxxs9A2560Q/XypYZ86a8bKAt1rOYscOgZcnBtrnAiNaFQOPw5buK2QIVH4G3FoKUgEHEpj40/am8899kLrMjQzfecdEG53YDTMSubfdfLBE58WnGHHgmlRjutbPhqR5/j4UL104Z0jxleQquT3VMzDKd+b/OC1kH2qH6JZxbHScUC0/DsJ2Xj3tHcA=;xTflB/gKJyUipGZ+tDL1RQ=="
