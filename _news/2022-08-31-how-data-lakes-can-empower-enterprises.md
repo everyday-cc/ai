@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-31T13:28:00Z
 originalUrl: "https://timesofindia.indiatimes.com/readersblog/blogger-park/how-data-lakes-can-empower-enterprises-44645/"
 webUrl: "https://timesofindia.indiatimes.com/readersblog/blogger-park/how-data-lakes-can-empower-enterprises-44645/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: India Times

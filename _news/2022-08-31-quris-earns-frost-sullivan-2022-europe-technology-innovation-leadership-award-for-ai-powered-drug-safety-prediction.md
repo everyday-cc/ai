@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-31T12:07:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/quris-earns-frost-sullivan-2022-europe-technology-innovation-leadership-award-for-ai-powered-drug-safety-prediction-1031715941"
 webUrl: "https://markets.businessinsider.com/news/stocks/quris-earns-frost-sullivan-2022-europe-technology-innovation-leadership-award-for-ai-powered-drug-safety-prediction-1031715941"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: Business Insider

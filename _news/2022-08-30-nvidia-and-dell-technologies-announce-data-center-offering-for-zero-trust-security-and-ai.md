@@ -59,6 +59,15 @@ related:
       name: Guru3D.com
       domain: guru3d.com
     quality: 27
+  - title: "NVIDIA and Dell Technologies Deliver New Data Center Solution for Zero-Trust Security and the Era of AI"
+    excerpt: "NVIDIA today announced a new data center solution with Dell Technologies designed for the era of AI, bringing state-of-the-art AI training, AI inference, data processing, data science and zero-trust security capabilities to enterprises worldwide."
+    publishedDateTime: 2022-08-30T12:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-software-6e797862730839bf98859f82f7032219"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
 
 secured: "9XMI8w7EpcD746vQnKTj4UaY1dHCE/OcOxAbsIcnd+qg9enPBYNQBk6mPpozfu6cMNrO8GpqXkkfO42CxHwDtggbqPVkffDTdm2K9oYVmedDaqsptaH3nG5AQRUTA2C8mdkLV7fZLhMySfN5JGmJKyRh/bTVtXoRc7J2KqYunihnJllNT9nr82Pi1GyErllPvi/j8jdI1QASWl6nunedLNNCr7ghuTvorjgE9JIuDmiwMl84d62jVxLxnsoVmkd7wLtras+ZqTl4J7UGScObqQldVz8Kw05aHgKz7kmyivWOwH82rti2Dp+fk5w/LQN77+442t49QNepk8HtsMHswpqVj5wNeXkEYH2P9Y68aZwSuaLADIeCSGBZSRwlS7G28ZXFQHZGvQsBbEuQQXuHIwEAKu4M13KJQfBwDR3KsEM+FpWwHYSzIdz2MgJadsvxtf5nZ5gB4TfLtQ7Cp85bsqFxMHjCFCsaEfMG8t6FvGTHm+GgeR+3Xx84KZEWQ2HekSs51GjygV1FM9+iYNTLUQ==;SDqjEEgo2+3dMZhnOEMQEw=="
 ---

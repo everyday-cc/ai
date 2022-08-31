@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-31T13:34:00Z
 originalUrl: "https://www.nbcnewyork.com/news/business/money-report/fintech-firm-klarnas-losses-triple-after-aggressive-u-s-expansion-and-mass-layoffs/3845937/"
 webUrl: "https://www.nbcnewyork.com/news/business/money-report/fintech-firm-klarnas-losses-triple-after-aggressive-u-s-expansion-and-mass-layoffs/3845937/"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: NBC New York

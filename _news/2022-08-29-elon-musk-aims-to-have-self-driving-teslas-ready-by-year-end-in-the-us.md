@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/elon-musk-aims-have-self-drivin
 webUrl: "https://www.reuters.com/technology/elon-musk-aims-have-self-driving-teslas-ready-by-year-end-us-2022-08-29/"
 type: article
 quality: 83
-heat: 263
+heat: 273
 published: true
 
 provider:
@@ -240,6 +240,15 @@ related:
       name: Autoblog
       domain: autoblog.com
     quality: 15
+  - title: "Skoda Vision 7S Concept, VW Tavendor For China, And Musk Wants Self-Driving Teslas By End Of Year: Your Morning Brief"
+    excerpt: "Skoda offers a glimpse of its upcoming flagship SUV with the Vision 7S Concept. With three rows of seats and an electric drivetrain, the production version of the Vision 7S concept will replace the Kodiaq,"
+    publishedDateTime: 2022-08-31T12:35:00Z
+    webUrl: "https://www.carscoops.com/2022/08/skoda-vision-7s-concept-vw-tavendor-for-china-and-musk-wants-self-driving-teslas-by-end-of-year-your-morning-brief/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 0
 
 secured: "ZmZ+DSNOaagqwwD/uhSIwp8R2kw1g+jwfVwLizsVRIQ0cJCzVFlCiKf1cCh8Of3NaAkMVp5d+bb+dGEPzi+XqprA/ZQRdBbbC7gDOg2VkOi4Wyffaaeuge0seHIqVTIoiUAZCmU6xZJwDTZvetMxjhDGmKYamcVKcb/0rtwPOxnJINy48yXNjNf5QZ5ePAIvRTaCyOsd8bAkkZMGjsse7t4RvTlVpQkATcLwdM98D3ku4XEEiVeMRi+dMbwqBY3iwG0USuBY7q03PYPNZcP3mQ/3/QbRRvlSEOLU4TspG2spuOugi6T8I8pM8mSkVSI/kIC6KL0NDsWqK9cX9aJpOjsY44tonTkL2Qimr7mXnk2dkDUMmVc2nKryq7Dbop/OS5NJdGPYlRlUja60GSsYBcnIigoKlcMmeacYV6v8PZA5xxVkVwmushGKjFX7RS4jaNw6JLSj1Wn/C0hPwnGypPl7+rQlcZAk29vrJsq5rPtk+WJAFMnyAydnG1uLDfz3mPrO4BiomVnjNp8nXtbSZg==;g7TRenFR14YtwwKscaU4cg=="
 ---

@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Jio Haptik collaborates with Microsoft Azure to enhance Hindi chatbots"
+    excerpt: "The company claims that it has facilitated over 2 million conversations on Jio Mobility with an 80 per cent reduction in human interventions and a 2.5 times increase in localised queries. Jio Haptik at present supports conversation in 130 languages."
+    publishedDateTime: 2022-08-31T10:23:00Z
+    webUrl: "https://www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/"
+    ampWebUrl: "https://www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/amp/"
+    cdnAmpWebUrl: "https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/amp/"
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 74
+    images:
+      - url: "https://www.pcquest.com/wp-content/uploads/2018/04/chatbots.jpg"
+        width: 750
+        height: 400
+        isCached: true
   - title: "Jio Haptik collaborates with Microsoft to use Azure for improving Hindi chatbots"
     excerpt: "The company claims to have facilitated over 2 million conversations on Jio Mobility with 80 per cent reduction in human interventions and 2.5 times increase in localised queries."
     publishedDateTime: 2022-08-30T16:47:00Z
@@ -117,6 +133,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "IGM Financial Announces New Collaboration with Microsoft to Deliver Next-Generation Financial Services to Canadians"
+    excerpt: "IGM has chosen Microsoft Azure as a key provider of public cloud services to enable its digital infrastructure strategy, empower the creation of innovative solutions, and provide"
+    publishedDateTime: 2022-08-31T13:31:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-igm-financial-announces-new-collaboration-with-microsoft-deliver-/2022/08/31/9664960.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "Jsgl5n08QAv758IrQQBKWpKzYIeuq8rb9E555iFxQAu54PE+qQX48Fx4stQhm03tvNTbTx3vSwVTR/z3bNF6FLNtm3YzDruepNAbe9/9v/dJlDxrXmabVgL+B/Exy9gfPxCoSCmiUUenGsVlLjMu5qYgz/bnxoxLryttijzUJX1VoTOwJtDAlTE2qUM40mmG2Lv+EHeFM4vSZDprnA4urMEpDYR4IKKTLh3bunRkP23ZZdIiCDnAxicHyN6lNq4BOos+31CVvhCb6LAYRxY3E4EwvqYLe75ipcI71PePOmZDT7yyR6O718FI8Xo9QGS2v6VsJ0dfohmshqDK6xFIm3dT9oUFGqSM3JSUeRIuqY7x2iMouzBfXkev8gisc/JdEYKLkGiWzCjdVDgG+8fH9byRy8HozqQ03G4BtolST1BS0+Gf8RL+C7ufQbogK6aOourybxE8Iq4GFUKSplG1DG3zdVCA/0xs+jT62u667/1qsLbiAzci5N9HyaDHbkwhSJ3RI0DVe5776UGXB2Gdeg==;iecq7NiwpTw/NHmcL0t2NQ=="
 ---

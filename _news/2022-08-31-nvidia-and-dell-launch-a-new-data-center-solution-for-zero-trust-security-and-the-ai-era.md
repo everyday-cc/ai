@@ -59,6 +59,15 @@ related:
       name: insideHPC
       domain: insidehpc.com
     quality: 27
+  - title: "NVIDIA and Dell Technologies Deliver New Data Center Solution for Zero-Trust Security and the Era of AI"
+    excerpt: "NVIDIA today announced a new data center solution with Dell Technologies designed for the era of AI, bringing state-of-the-art AI training, AI inference, data processing, data science and zero-trust security capabilities to enterprises worldwide."
+    publishedDateTime: 2022-08-30T12:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-software-6e797862730839bf98859f82f7032219"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
 
 secured: "WMy2SNzv4nfgms5tEgdO/7CCjHYe+iLK65EXqM3ABojXkIbJzsC7t7h5Xp3K3n85ULGVFRup0Cky3V4lL1Tg8mB5fazpFk++niya95sgOVl7Ax5PaOXMqqZf3LyZkNu54oAcJjN1n9FL2O8zlb8XCCFoMq0QJsa7gTxjWEMnutoFLDzGWIX5HeKRcBtXSM9RmGPpugXCpwDHXZSka40AIyj4g8ucKxnZxQbJ/Su7QzU0hLwBjcnVlPOwJ3pJSbvDiATk6ax2duECUTOh+BGl2Gd/Lk6LmVv/dpeN5yua9NCPYxdbj14p9vqIZ1eN36gQskewYr8qx5GItRRAshz0WsxXBG/unVlwynNrASuW/s0=;t3KAPcZ2uvPIapAq5grY3Q=="
 ---

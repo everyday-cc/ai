@@ -39,6 +39,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "AI in Fintech Market Size, Key Developmental Strategies, Future Scope, Technological Innovation And Forecasts To 2028"
+    excerpt: "The latest AI in Fintech Market Analysis is designed to help clients improve their market position, and in line"
+    publishedDateTime: 2022-08-28T07:46:00Z
+    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-key-developmental-strategies-future-scope-technological-innovation-and-forecasts-to-2028-2022-08-28"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 26
 
 secured: "zKaMkeid31fpBdH94ITU5QlY0gWAGUv1N3XbfGLGLyjhvQgssm33RkpX3sVnOWvHdGl54PuQjNyb5JdXVD3jjlEWzUTNmnLgpuR9mFdLluMmqbaQqnBMA56F58fX7Ogj+uhDH9ldpN0MhY322+gJJ0NR8PjpK42cjPlL0SgwHYgBAYAeIwm2EiNITcXvfLlxC+hinD8aiqjuqHvN10GEA7+xAjrkJ6FCzXpI26jm+qJXPPH1b7c3mfCQ/Tb9BDMSZE/6pBhCgSAhUYpFUzf2p4t07mgNhWmTwmGgY0h5GSX58/60owXNPPgpIRrNF4z24HdyVnOiOcqD+fatAapOlwAYX4IkHdVuWHZ9HJ9xo/0=;EioOOwgxi7mm8pkFOoPIew=="
 ---

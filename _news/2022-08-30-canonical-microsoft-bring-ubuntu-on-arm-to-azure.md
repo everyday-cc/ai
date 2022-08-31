@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "Jio Haptik collaborates with Microsoft Azure to enhance Hindi chatbots"
+    excerpt: "The company claims that it has facilitated over 2 million conversations on Jio Mobility with an 80 per cent reduction in human interventions and a 2.5 times increase in localised queries. Jio Haptik at present supports conversation in 130 languages."
+    publishedDateTime: 2022-08-31T10:23:00Z
+    webUrl: "https://www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/"
+    ampWebUrl: "https://www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/amp/"
+    cdnAmpWebUrl: "https://www-pcquest-com.cdn.ampproject.org/c/s/www.pcquest.com/jio-haptik-collaborates-with-microsoft-azure-to-enhance-hindi-chatbots/amp/"
+    type: article
+    provider:
+      name: PCQuest
+      domain: pcquest.com
+    quality: 74
+    images:
+      - url: "https://www.pcquest.com/wp-content/uploads/2018/04/chatbots.jpg"
+        width: 750
+        height: 400
+        isCached: true
   - title: "Jio Haptik signs 1-year deal with Microsoft Azure to improve its Hindi chatbots"
     excerpt: "Jio Haptik has signed a one-year deal with Microsoft's cloud computing service Azure to improve its existing Hindi language chatbots. Jio Haptik, the AI platform, s"
     publishedDateTime: 2022-08-30T16:47:00Z
@@ -117,6 +133,15 @@ related:
         width: 700
         height: 450
         isCached: true
+  - title: "IGM Financial Announces New Collaboration with Microsoft to Deliver Next-Generation Financial Services to Canadians"
+    excerpt: "IGM has chosen Microsoft Azure as a key provider of public cloud services to enable its digital infrastructure strategy, empower the creation of innovative solutions, and provide"
+    publishedDateTime: 2022-08-31T13:31:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-igm-financial-announces-new-collaboration-with-microsoft-deliver-/2022/08/31/9664960.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
 
 secured: "pFLLqg8kLr9+w9+mciRR6ljqPzhHpk1rnN+8fygxFo8wGGTVosvyCQDu6Y2Z+/t8MHbJmEDo366e7BIawICk3cl7YanImvVYnokGRpnwMYuy4Sco1ttCEGZyeirZt3N03txcRaDNR4eWxNsfmNEoE2quehe4HFpjabO9yr0DZqZomaIQ/DNXxgF7ziqquGSUcIs8mDIhKLphVdYSL0uhodoH7XENpKpNG13/9tWc0a98T+lR4OklNYtKFxHhYk/E58EA0NjRq/REcMVxESxSnjgRjecHs7jnmthYFsBaAWXqx4Kx1P/JImUfK8a+PCmBiw0Clvi6pOhqGiqJHAaNX/lZDbqxU9UgnEmb06OlVEyLMiERaJHIFjps1z/GF3O95PRTjTlF8lbTQa8/1hXuqjNQqvoho0qM7bjBXYDC/hgNEnKpdyJmPdwKlCG7bYl/br9SswYuVyVy2InZsLvy0EWaRje9FzJ+6qY1PKwpzfR86jSqnlHi79E+QbemTqHYvV//BGweCtQWf8bF0txmMw==;iuM4iNqZ5y1fMwY+yYW1ow=="
 ---

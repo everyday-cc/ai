@@ -9,7 +9,7 @@ ampWebUrl: "https://www.bbc.com/news/world-europe-62717599.amp"
 cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-62717599.amp"
 type: article
 quality: 87
-heat: 147
+heat: 157
 published: true
 
 provider:
@@ -120,6 +120,15 @@ related:
         width: 681
         height: 336
         isCached: true
+  - title: "Google AI helps France tax over 20,000 undeclared pools"
+    excerpt: "An unusual experiment allowed French tax officials to discover thousands of undeclared swimming pools by using artificial intelligence."
+    publishedDateTime: 2022-08-31T13:49:00Z
+    webUrl: "https://nypost.com/2022/08/31/google-ai-helps-france-tax-over-20000-undeclared-pools/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 17
 
 secured: "F9gc9wJQvjM+3ME38k4Z9Bs8Yugdjluh/yuYiJxa+/uR+0w84bGwGcL24k7V6qI35XJTJsAMOrJD5Mn0zrgmuPxJOY+rQhBG/QBJA0sairj5/S3yRY9ttK/AwRvH65B50Q7yJDj00UtTAES3DRSjuO3qEH6YxOAEZ8tAr9/kQetvlM8aMt7K7UP+6DPkiLp1/b6J1r3fMRT6/ZwwSZFoknAvXsxyVbHFIcB5WSyYQKQTKYn3jdQmf7HRiVpkAeKwgOM4x5NdJ/QP+1nzuFSmQ2MDk7sU+MJeadk5KtUnzqpvcGtyNjYaWjlUcVWO92iIxAvc2/wrs9ugXoLDt1lI/QWXSvr+0F4wwVXZB8I5OEzr8YQGY6RapxJHG8pk3pZDb43gDyDFiOu9jrRRTfJHsNGfEh74CTHz2TwiqjlxNzZaAj63B12OO1dL1zb+l+pH4zwn7rJIjcMW/hDBTbAOmwP5HpY+lGtVChWQrUy64QMVVaKG8oaV+DbSaAdZ2gnidz0FgLjGG9JzJGXbpnUujw==;Glo2ygIzquHNro+Gy3yhqQ=="
 ---

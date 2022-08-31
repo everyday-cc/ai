@@ -236,6 +236,15 @@ related:
       name: Autoblog
       domain: autoblog.com
     quality: 15
+  - title: "Skoda Vision 7S Concept, VW Tavendor For China, And Musk Wants Self-Driving Teslas By End Of Year: Your Morning Brief"
+    excerpt: "Skoda offers a glimpse of its upcoming flagship SUV with the Vision 7S Concept. With three rows of seats and an electric drivetrain, the production version of the Vision 7S concept will replace the Kodiaq,"
+    publishedDateTime: 2022-08-31T12:35:00Z
+    webUrl: "https://www.carscoops.com/2022/08/skoda-vision-7s-concept-vw-tavendor-for-china-and-musk-wants-self-driving-teslas-by-end-of-year-your-morning-brief/"
+    type: article
+    provider:
+      name: Carscoops
+      domain: carscoops.com
+    quality: 0
 
 secured: "rv5GHIkcU6Us/wYHd7gyTInhZyGBRZLPN4c2w+kwar53AMPujCHq7iD9Al3XE6t/I9oer2ufmGi2spo2PIX1u5HmmAb9hZr4Y0bgqJ539brUW6aGSnijR6sGmTTGA4lBTrwO1hm+bQFEDvhTF20ievOUEBzkcpQOxSCirM6T9Y/6qfDFM23TnCMr5jRw+YqzN8NXTbpBP18Dic5A9uVjCDqBjPiQstpp7TkKp+35EsHMvyYaxE/y7THtRX92Gf6LKLLW38cltK6YVgfijhrvBvKZVsWYcpCLszhiUwpVdM+aBEolB7N+EYP9qX0OcmifjH4ljz2i5nerorWTt7mAMvOvDcPVZmbSuqBNQOEQOp9N3XQSJmqluydt3fDhA5WDfxVV+fZfFDqv11PDg5MrB9Dp6WtLMvQD5pIrvUVDBsF35s4bV4vIc8VFTI5DSNzRGoDO5ynS6Kn6WjMim6ub6HJeGSnU7jto1BF+B3uHnXyA6a26m1P00vE9iGPA0fzgA0ky8N94IVD5cxtlc3mzIw==;hXDuVLpkmfcW+aSa1gtGZw=="
 ---

@@ -87,14 +87,14 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "SiMa.ai Develops the Industry's First Purpose-Built Machine Learning System-on-Chip with TSMC's Power Efficient Technology"
-    excerpt: "SiMa.ai, the machine learning company enabling effortless deployment and scaling at the embedded edge, today announced it has delivered a software-centric MLSoC Platform that enables quick and Effortless ML experiences for the embedded edge,"
-    publishedDateTime: 2022-08-30T13:35:00Z
-    webUrl: "https://www.design-reuse.com/news/52562/sima-ai-machine-learning-system-on-chip-tsmc.html"
+  - title: "SiMa.ai Develops the Industry’s First Purpose-Built Machine Learning System-on-Chip with TSMC’s Power Efficient Technology"
+    excerpt: "The SiMa.ai MLSoC, which is shipping to customers now, addresses any computer vision application and delivers a 10x better performance/watt solution – operating at the most efficient frames per second/watt."
+    publishedDateTime: 2022-08-30T13:05:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-30-simaai-develops-the-industrys-first-purpose-built-machine-learning-system-on-chip-with-tsmcs-power-efficient-technology"
     type: article
     provider:
-      name: Design-Reuse
-      domain: design-reuse.com
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 25
   - title: "SiMa.ai Ships Purpose-built Machine Learning SoC Platform to Customers for Embedded Edge Applications"
     excerpt: "SiMa.ai, the machine learning company enabling effortless deployment and scaling at the embedded edge, announced that it has begun shipping the industry’s first purpose-built software-centric Machine Learning System-on-Chip platform for the embedded edge – the MLSoC."

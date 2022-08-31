@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-31T13:00:00Z
 originalUrl: "https://laist.com/news/education/dyslexia-california-teacher-preparation-training-structured-literacy"
 webUrl: "https://laist.com/news/education/dyslexia-california-teacher-preparation-training-structured-literacy"
 type: article
+quality: 7
+heat: 7
+published: false
 
 provider:
   name: LAist

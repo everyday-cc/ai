@@ -9,7 +9,7 @@ ampWebUrl: "https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-
 cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/amp/"
 type: article
 quality: 95
-heat: 95
+heat: 105
 published: true
 
 provider:
@@ -30,6 +30,17 @@ images:
     width: 768
     height: 480
     isCached: true
+
+related:
+  - title: "How AI is accelerating front-end innovation"
+    excerpt: "Artificial intelligence (AI) is emerging as a valuable tool for food and beverage makers looking to bolster front-end innovation. Manufacturers, restaurants, ingredient suppliers, flavor houses and more are leveraging insights from machine learning to get closer to consumer trends and market more nuanced propositions."
+    publishedDateTime: 2022-08-31T12:12:00Z
+    webUrl: "https://www.foodbusinessnews.net/articles/22103-how-ai-is-accelerating-front-end-innovation"
+    type: article
+    provider:
+      name: FoodBusinessNews
+      domain: foodbusinessnews.net
+    quality: 17
 
 secured: "F+SBvW/YU6y8ALxBEokfVHIA57zFExaf8WmIdM+9kWRu05l5eoss4RPhy7GAMM8lqThvMadXk6fq9AiAV96V1FWItSV0t8G5dciu1VY0MmRQzZmT5SaRmvv6Agy8Khe1RcjCMesoZamD91qIeKxZLOmQ6TqPUY/yJTz5DZJJPGpGwM9oJ/AGe+wsGjT/+F07Db7tbCobnviVuLeUfHKtn/w1Qfp8ZT8uFZmEEI/ATGfvK2zbe1pLvW78kWNcGt6S2w3lVMmVGVEOySfzdNlzfSwUH1ga4rQhc/H6//PY5EdUGc7LVac+aBoWJi/asqj3c9pXUPRbUA0Skf+4ih6m6glvFQ6aWo3oxMkkpYhXaElKVoLXQXP4R2PkN4NpDrVP7l8wIeJ+skqNUkDe7RRoyCkloBISpmp/EhVjJQquDcbI2Fal2LTpYFFukTOYUcLfBUtmr1rRZ2y3dOV2WPtIgNSjD3mnMPbrr9Lah1lfl8Y1NvBDAuTpZQudkFtrUFL3cxOdKg8YYwdkCPtx1xMgPA==;yVrLDgdJVd2PvonR8H10dw=="
 ---

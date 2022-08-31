@@ -120,6 +120,15 @@ related:
         width: 681
         height: 336
         isCached: true
+  - title: "Google AI helps France tax over 20,000 undeclared pools"
+    excerpt: "An unusual experiment allowed French tax officials to discover thousands of undeclared swimming pools by using artificial intelligence."
+    publishedDateTime: 2022-08-31T13:49:00Z
+    webUrl: "https://nypost.com/2022/08/31/google-ai-helps-france-tax-over-20000-undeclared-pools/"
+    type: article
+    provider:
+      name: New York Post
+      domain: nypost.com
+    quality: 17
 
 secured: "7TFIsO7GgLrugESEzMyD595zg6jVP4RZjkowJmpHs3UqlgRA6i+g+uzZtVU4z1+jF8/N1ndgmdCMgaMJTCLJ4rug4lWEPesvHkM5CeycFpiJiXmGd1AaY+BFnLnPrW0ifDWrJEsltVyBNsM1TqCAfFvdzyTMH5n4zAwZAzsP058JizVsX9/Z8kfNqmCDpDXgh/pOcn/DjNa8ltxrDUhCwar3hJSmlKRTR8vL2zADrjpXagSOt0zW9A2Nn7HdtHzmUFCG5L0WHWbn3sgNhYO39NBKjHyUAjDHr+s7unYpv/KrDlCkpEPxGCed00q2pvLeWff2VgFRv/EYzEBoyN0Ms0kRhUU/s+Vx60aGSq2wXW5qKnfQ9TQ2H2AnQwEQf1zBDJE0Yg/otKGdM9akOuNOPPckFYB8sizDs9FZnc7ZN+g0cNhcRmvXVcZRvtdgakANEndB3QBrEuukwX15LNeWtkpyYe+9f1pkmxkWcUjfbKehUPsE3dIDc7jSQM4NN1F1dxMBhEtvR3wlb4j97Xoy/Q==;0LRIbnVmTF2XyupXE/+p0w=="
 ---

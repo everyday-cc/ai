@@ -37,15 +37,6 @@ related:
         width: 1532
         height: 764
         isCached: true
-  - title: "Run image segmentation with Amazon SageMaker JumpStart"
-    excerpt: "In December 2020, AWS announced the general availability of Amazon SageMaker JumpStart, a capability of Amazon SageMaker that helps you quickly and easily get started with machine learning (ML). JumpStart provides one-click fine-tuning and deployment of a wide variety of pre-trained models across popular"
-    publishedDateTime: 2022-08-26T19:32:18Z
-    webUrl: "https://aws.amazon.com/blogs/machine-learning/run-image-segmentation-with-amazon-sagemaker-jumpstart/"
-    type: article
-    provider:
-      name: AWS
-      domain: aws.amazon.com
-    quality: 69
 
 secured: "P6bsU/A4CcjTWsPqjxapYKB7FrYnYr/DpSa9/8DfcM8grOGPEFrfDE22edcEJ6YxoDCOJvQiJY8JhCHvaIPcP9v0rlVYqnF7pzd3muXgHN/awe+5SnGJJgrInfD6lqCrZS9OpII0BYfUWiMOmWJ7JwCvwznK3261Ad1XmmVtWDClFi+pAj+vXb31wnjrLy5mbjoaK94uE1Hm/G8/dxqRvmMDzm6trVw8Zg0BF0EhSv/LWTD3SkrxayEYhyT/C3c/bgcDHPhZ4eF0loilk4vexZ58Fw8n190N7gcMwCcC0j7JtKZEsrS85yRZ5t8OFutYkk01qp7qKQ+Vw8PpXX3KuUexWgqBzPaInjvIhUj7gpw=;TqoZ5Qh4q8poIZegl4J1wQ=="
 ---

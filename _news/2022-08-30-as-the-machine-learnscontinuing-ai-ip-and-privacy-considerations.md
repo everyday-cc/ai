@@ -26,21 +26,37 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial intelligence and machine learning now integral to smart power solutions"
-    excerpt: "They help to improve efficiency and profitability for utilities. The utilities’ space is rapidly transforming today. It’s shifting from the conventional and a highly-regulated environment to a tech-driven market at a fast clip."
-    publishedDateTime: 2022-08-30T10:21:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/artificial-intelligence-and-machine-learning-now-integral-to-smart-power-solutions/"
+  - title: "Gaining Insights From Private Data Using Federated Learning"
+    excerpt: "Sid Roy is Manager of Machine Learning Engineering at Devron, a federated machine learning platform dedicated to unlocking the innovation and insight of data while preserving privacy. Learn more about this growing discipline and why it matters for the future of AI."
+    publishedDateTime: 2022-08-31T15:21:00Z
+    webUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/08/31/gaining-insights-from-private-data-using-federated-learning/"
+    ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/08/31/gaining-insights-from-private-data-using-federated-learning/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/08/31/gaining-insights-from-private-data-using-federated-learning/amp/"
     type: article
     provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 70
+      name: Forbes
+      domain: forbes.com
+    quality: 89
     images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Raj.png"
-        width: 295
-        height: 256
+      - url: "https://imageio.forbes.com/specials-images/imageserve/630f794541acf1330e6047f6/0x0.jpg?format=jpg&width=1200"
+        width: 956
+        height: 561
+        isCached: true
+  - title: "Chemical-free re-staining of tissue using deep learning"
+    excerpt: "This makes acquiring paired images of different stain types very challenging, which is an essential part of deep learning-based image translation methods. To alleviate this problem, the UCLA team ..."
+    publishedDateTime: 2022-08-29T16:24:00Z
+    webUrl: "https://phys.org/news/2022-08-chemical-free-re-staining-tissue-deep.html"
+    ampWebUrl: "https://phys.org/news/2022-08-chemical-free-re-staining-tissue-deep.amp"
+    cdnAmpWebUrl: "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-chemical-free-re-staining-tissue-deep.amp"
+    type: article
+    provider:
+      name: Phys.org
+      domain: phys.org
+    quality: 74
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/chemical-free-re-stain.jpg"
+        width: 2500
+        height: 992
         isCached: true
 
 secured: "RyzOKnZEBH7xp/n6Q8APMdEuQ/o0iza3UbM0iEFGfn1Ki90NFWdYg+WNRi2NaaUIJvzVCz1TxMqQPAKE387IG0ppWEkLOzpKJgQ/bZu76YIPUE45L3enXjogetijHL8fCsvqviL7z51S7RD0O6i19xq9jz5PzihtDFu/z7p9viIZfPaDJ4y3livZ6P9O37ISbyZeZOnd8FoWZCdHpLvmtYsTLttrH1ZjgWrBb4+q61lrbGSrFUvmeh6yp32wMdcY9sLgx4C6qcZIOpaXhrUOs4LtDdOuCjm1eduu3hUimabp83uX1umgM1jSFoc74VZ8Mw3mn01Q7ke3EDI6l1EkreGQU6CLOrjbpfkGuyZmHq5cpFesp9OIRJElY1+0CxyPlOHqYnD3MgpcCyJmt2uzGd3e4KaEJAjXlZwS0hEKKhhGKkWC7YNZZkot3qBTOs4zrDPj3INhWaExyWkFn+RNvbs+JNSuJndfUsA/ZH7Lcwt7modD+7nn41O9z6NW6Plaxb5OnWHHTEH7JLkbLJ2ZXg==;z4q0Z6srecy7s9CfNAHbbA=="

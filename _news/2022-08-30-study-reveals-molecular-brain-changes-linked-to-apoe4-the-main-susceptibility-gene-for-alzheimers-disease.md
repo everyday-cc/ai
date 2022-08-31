@@ -25,22 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "AI Predicts Alzheimer’s Disease from a Single Brain Scan"
-    excerpt: "There are 47 million people living with Alzheimer’s disease globally, and by 2030 this number is expected to increase to 76 million according to the Alzheimer’s Association. I"
-    publishedDateTime: 2022-08-26T20:36:00Z
-    webUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/ai-predicts-alzheimer-s-disease-single-brain-scan"
-    ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/ai-predicts-alzheimer-s-disease-single-brain-scan?amp"
-    cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202208/ai-predicts-alzheimer-s-disease-single-brain-scan?amp"
-    type: article
-    provider:
-      name: Psychology Today
-      domain: psychologytoday.com
-    quality: 57
-    images:
-      - url: "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-08/pic23411.gif.jpg?itok=bHKh85Xs"
-        width: 1528
-        height: 800
-        isCached: true
   - title: "Molecular brain changes linked to APOE4, the main susceptibility gene for Alzheimer's disease"
     excerpt: "Recent breakthroughs have revealed a great deal about Alzheimer's disease, but researchers have yet to paint a complete picture of how genetic risk for the illness causes the brain damage that ultimately leads to memory loss and cognitive decline."
     publishedDateTime: 2022-08-30T14:00:00Z
@@ -56,6 +40,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/study-reveals-molecula.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Using AI To Quickly Diagnose Alzheimer’s Disease and Dementia From Voice Recordings"
+    excerpt: "Scientists develop an artificial intelligence program that detects cognitive impairment accurately and efficiently from voice recordings. A lot of time—and money—is required to diagnose Alzheimer’s disease."
+    publishedDateTime: 2022-08-31T14:07:00Z
+    webUrl: "https://scitechdaily.com/using-ai-to-quickly-diagnose-alzheimers-disease-and-dementia-from-voice-recordings/"
+    type: article
+    provider:
+      name: SciTech Daily
+      domain: scitechdaily.com
+    quality: 33
+    images:
+      - url: "https://scitechdaily.com/images/Digital-Brain-Scan-AI-Analysis.gif"
+        width: 777
+        height: 437
         isCached: true
   - title: "Study uncovers molecular changes in the brain’s blood vessels caused by Alzheimer’s susceptibility gene"
     excerpt: "Recent breakthroughs have revealed a great deal about Alzheimer's disease, but researchers have yet to paint a complete picture of how genetic risk for the illness causes the brain damage that ultimately leads to memory loss and cognitive decline."

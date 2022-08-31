@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-dell-vmware-add-ai-z
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/"
 type: article
 quality: 101
-heat: 131
+heat: 141
 published: true
 
 provider:
@@ -63,6 +63,15 @@ related:
       name: Guru3D.com
       domain: guru3d.com
     quality: 27
+  - title: "NVIDIA and Dell Technologies Deliver New Data Center Solution for Zero-Trust Security and the Era of AI"
+    excerpt: "NVIDIA today announced a new data center solution with Dell Technologies designed for the era of AI, bringing state-of-the-art AI training, AI inference, data processing, data science and zero-trust security capabilities to enterprises worldwide."
+    publishedDateTime: 2022-08-30T12:02:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-science-software-6e797862730839bf98859f82f7032219"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 20
 
 secured: "60Vt0OSm23y+JTTdfREPj4KrlYfBBWL3iZHSibG8tMYSaPUghPxAxTy40dw6GsXUL6+AcCI7T2OsO7BUhhtINuN5vo3Etd41jEWCpYNzqxSgtxkjBUtO6y85mQQVKRMJQQ+GAhn8nG+tMylywJqa9SmjnzHeWxbrUnf+CcBUPHCTKsCXea3VlT56yjRZM6DzvGSSLE+UdGhC0XbXA467UlspvVNShMXVpLx3AzooRGHwPpiaI6o9OAe+Z/E7+X/SsEeqTfmGdrj02EnpbQ8eKcTPF+xbjSXVTFuc3PhWc+kPXZhgBcVUYvdsHoHwYbtKjwPxLV2CEMGJ7vQX7rYMAhmz3rxrx6weAI7D8vrMbJXKUBR/jUM4BBeSOYsMx5qtyidWpPt2V+ZN573YKeIPLp36Bxnzb7SQjH5T8xO2nS11t4VOKw2MID51lJWR9f8+Z+T9yDaxRBXrWuorsH1auqwpIl5DEJaKYfvyKUCkVE8f+UBYsALbsUHGdvckYxi9cwfObrEm+qIHNmhJzPIYLA==;XjG18N7yC1Eo0OIBbSRjUQ=="
 ---
