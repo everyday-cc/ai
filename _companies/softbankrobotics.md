@@ -16,7 +16,7 @@ crunchbase:
 twitter:
   username: "sbreurope"
   url: "https://twitter.com/sbreurope"
-  followers: 16618
+  followers: 4
 
 locations:
   - Tokyo, Tokyo
@@ -26,7 +26,7 @@ topics:
   - AI in Robotics
 
 images:
-  - url: "https://pbs.twimg.com/profile_images/1407644568405917696/WeCkT4jo_400x400.jpg"
+  - url: "https://pbs.twimg.com/profile_images/1512478838831386627/m81tVr0j_400x400.jpg"
     width: 400
     height: 400
     isCached: true
