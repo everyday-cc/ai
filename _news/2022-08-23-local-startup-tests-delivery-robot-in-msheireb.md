@@ -1,26 +1,20 @@
 ---
 category: news
-title: "Local Startup Tests Delivery Robot In Msheireb"
+title: "Local startup tests delivery robot in Msheireb"
 excerpt: "A local startup Pass ... This robot weighs about 50 kg and has a length of 1 m and a width of 45 cm. With advanced machine learning and artificial intelligence technology, the device is more ..."
-publishedDateTime: 2022-08-22T18:47:00Z
-originalUrl: "https://menafn.com/1104736564/Local-Startup-Tests-Delivery-Robot-In-Msheireb"
-webUrl: "https://menafn.com/1104736564/Local-Startup-Tests-Delivery-Robot-In-Msheireb"
+publishedDateTime: 2022-08-22T20:13:00Z
+originalUrl: "https://thepeninsulaqatar.com/article/22/08/2022/local-startup-tests-delivery-robot-in-msheireb"
+webUrl: "https://thepeninsulaqatar.com/article/22/08/2022/local-startup-tests-delivery-robot-in-msheireb"
 type: article
 
 provider:
-  name: MENAFN
-  domain: menafn.com
+  name: The Peninsula
+  domain: thepeninsulaqatar.com
 
 topics:
   - AI in Robotics
   - AI
 
-images:
-  - url: "https://menafn.com/updates/pr/2022-08/22/TP_6ff9dimage_story.jpg"
-    width: 600
-    height: 400
-    isCached: true
-
-secured: "UTLV/dL7v/U8tGxxpLfpTqdY0bgVzIQDcI1p942E/u5YjibGD0jXjbJgllMENza3tYGfFXBRVEWv/oeR8hgxKSrTohn5ykKHu70KPJT278rNEwdrMjxig9Gh1IaNb9EpJ0Z0gVLQz8ugbFOHD29YdFikmN6i5hM7YETYwb/sBUhtU7dlSPG1oaKMPWeki1AcLximTL3Y54qR3XHqoilmiRNu9A4zxRsol8iIUUakxg3SCWfz8QO1+B5N4lma7vCZx4i9i5KyKoabLvjVMkpfk8T44ySBv1U0TKFleWyvjqoHz94UcAxPaZvQ7wYBtBSDUNPyW+KHWJAQKtbJvmXCq3bKa4r3Pgm7LfvUhqv5d2Y=;3C4WXxDqv0mU/nvy/EjLuA=="
+secured: "Yx6i2DfZHp+HcI1cJ05z3wId6LMohGaGtPVmYQl5LU4O/9wfHRs3izhqZX87zLIVI4gjY6yEbiSjh8r+q7hJ0PT7N0ffAjFB3Hgo0cGcE1Soqj7m+sWHOefDa0ZOsfGNekIOZ3BtlHXwUb0yTr3zaVSyZuLTvhrxAIGxS0HrETUBSKXQAv9+zQ4VVYhdWxlDopmEcWUP4qaRSvX2ifDMsNNJC9UIL+rkubB+Wg3721pXoLbe4SDuXH1PJKlgRSEWMscp+GSr82pCYGfBwV7YhBJ75gtH8hEMP3pXjHMX3RgSQeEBCcf6+NGG+XZ5ePUUGPlHP/RfDeH5cAZlq58JA3rrhbPSoFqn6t7q4SPzoC4=;1zoOiG1rDe62lZbGHVHR1Q=="
 ---
 
