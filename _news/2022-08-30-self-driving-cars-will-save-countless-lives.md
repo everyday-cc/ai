@@ -35,6 +35,20 @@ related:
         width: 1280
         height: 855
         isCached: true
+  - title: "Self-driving cars have nothing on Japan’s self-captaining ships"
+    excerpt: "It was grimy from nautical toil and decidedly ugly on the eye, but there are few more thrilling ships out on the seas. And if you like your gadgetry game-changing but also attractive to barnacles and a challenge to the idea that Silicon Valley has a pre-eminent right to define “tech”,"
+    publishedDateTime: 2022-08-31T04:00:00Z
+    webUrl: "https://www.ft.com/content/e767201d-5287-4ffd-9995-e495d4a6a69b"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "Self-Driving Car Tech Forgotten by Automakers Is Still Kept Alive by Federal Agency"
     excerpt: "There was a time when the answer to how to make self-driving cars work was to design a singular technology that would allow every vehicle on the road to communicate with everything — other cars, pieces of infrastructure,"
     publishedDateTime: 2022-08-30T22:30:00Z
@@ -47,9 +61,9 @@ related:
       domain: jalopnik.com
     quality: 18
   - title: "Don't trust self-driving cars? NC State researchers trying to change that"
-    excerpt: "If the idea of a self-driving car zooming down Interstate 40 and trying to reach the offramp at rush hour scares you, you’re not alone. But research happening at N.C. State may change your mind."
-    publishedDateTime: 2022-08-30T11:00:00Z
-    webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
+    excerpt: "If the idea of a self-driving vehicle zooming down Interstate 40 and trying to reach the offramp at rush hour scares you, you’re not alone. The autonomous vehicle market is projected to eclipse $724 billion by 2027, according to a report from Emergen ..."
+    publishedDateTime: 2022-08-30T12:00:00Z
+    webUrl: "https://www.bizjournals.com/triad/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
     type: article
     provider:
       name: The Business Journals

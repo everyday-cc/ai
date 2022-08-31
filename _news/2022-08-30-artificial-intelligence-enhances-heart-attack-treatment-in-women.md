@@ -35,6 +35,22 @@ related:
         width: 1000
         height: 666
         isCached: true
+  - title: "Study finds Artificial Intelligence helps in treating Women with heart attacks"
+    excerpt: "Researchers from Switzerland and the United Kingdom analyzed data from 420,781 patients across Europe who had suffered the most common type of heart a.."
+    publishedDateTime: 2022-08-31T04:04:00Z
+    webUrl: "https://cio.economictimes.indiatimes.com/news/next-gen-technologies/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/93894432"
+    ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/93894432"
+    cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/next-gen-technologies/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks/93894432"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 55
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-93894432,imgsize-40566,width-1200,height-628,overlay-etcio/study-finds-artificial-intelligence-helps-in-treating-women-with-heart-attacks.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "Artificial Intelligence can help in treatment of heart attacks among women: Study"
     excerpt: "The issue begins with the symptoms: unlike males, who typically experience chest pain spreading to the left arm, a heart attack in women frequently appears as abdomen discomfort radiating to the back or nausea and vomiting."
     publishedDateTime: 2022-08-30T08:49:00Z

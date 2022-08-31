@@ -2,6 +2,57 @@
   "page": 63,
   "value": [
     {
+      "path": "_news/2022-07-08-ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring.md",
+      "title": "Ford, VW-backed Argo AI lays off 150 workers, slows hiring",
+      "excerpt": "Argo AI, the autonomous vehicle technology startup backed by Ford and Volkswagen, has laid off about 150 people and slowed the pace of hiring, making it the latest tech company to reduce its workforce as recession fears grow.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/",
+      "originalUrl": "https://techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 227,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/Argo-Driverless.gif?w=480",
+          "width": 480,
+          "height": 270,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/07/ford-vw-backed-argo-ai-lays-off-150-workers-slows-hiring/amp/",
+      "publishedDateTime": "2022-07-07T19:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-08-artificial-intelligence-based-cybersecurity-market-rapid-increase-in-the-use-of-mobile-and-other-connected-devices-to-boost-growth-technavio.md",
       "title": "Artificial Intelligence-based Cybersecurity Market| Rapid increase in the use of mobile and other connected devices to Boost Growth | Technavio",
       "excerpt": "Do you know the Artificial Intelligence-Based Cybersecurity Market size is expected to grow by USD 18.94 billion at a CAGR of 22.27% during the forecast period? Technavio's latest report on the artificial intelligence-based cybersecurity market is segmented by End-user and Geography is curated by covering all market trends,",
@@ -1073,58 +1124,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-07-07-covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics.md",
-      "title": "Covariant, MassRobotics and The Engine discuss the road from lab to market at TC Sessions: Robotics",
-      "excerpt": "It’s a long road taking an idea from the R&D stage in a lab to successful commercialization, especially when you’re talking about technologies as complex and costly as robotics and artificial intelligence.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/",
-      "originalUrl": "https://techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/Robotics22_cage_to_stage-1.jpg?w=1024",
-          "width": 1024,
-          "height": 535,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/07/covariant-massrobotics-and-the-engine-discuss-the-road-from-lab-to-market-at-tc-sessions-robotics/amp/",
-      "publishedDateTime": "2022-07-07T09:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

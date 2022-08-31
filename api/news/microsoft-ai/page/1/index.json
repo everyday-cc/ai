@@ -54,21 +54,21 @@
       ]
     },
     {
-      "path": "_news/2022-08-30-jio-haptik-signs-1-year-deal-with-microsoft-azure-to-improve-its-hindi-chatbots.md",
-      "title": "Jio Haptik signs 1-year deal with Microsoft Azure to improve its Hindi chatbots",
-      "excerpt": "Jio Haptik has signed a one-year deal with Microsoft's cloud computing service Azure to improve its existing Hindi language chatbots. Jio Haptik, the AI platform, s",
+      "path": "_news/2022-08-30-jio-haptik-collaborates-with-microsoft-azure-cognitive-services-to-improve-existing-hindi-conversational-ai-models.md",
+      "title": "Jio Haptik collaborates with Microsoft Azure Cognitive Services to improve existing Hindi conversational AI models",
+      "excerpt": "The translation model will enable organizations to offer seamlessly localized and multilingual customer experiences. Jio Mobility is set to address 2M..",
       "sourceUrl": null,
-      "webUrl": "https://www.hindustantimes.com/technology/jio-haptik-signs-1-year-deal-with-microsoft-azure-to-improve-its-hindi-chatbots-101661873878526.html",
-      "originalUrl": "https://www.hindustantimes.com/technology/jio-haptik-signs-1-year-deal-with-microsoft-azure-to-improve-its-hindi-chatbots-101661873878526.html",
+      "webUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/jio-haptik-collaborates-with-microsoft-azure-cognitive-services-to-improve-existing-hindi-conversational-ai-models/93877868",
+      "originalUrl": "https://cio.economictimes.indiatimes.com/news/corporate-news/jio-haptik-collaborates-with-microsoft-azure-cognitive-services-to-improve-existing-hindi-conversational-ai-models/93877868",
       "featuredContent": null,
       "highlight": null,
-      "heat": 90,
+      "heat": 144,
       "tags": null,
       "images": [
         {
-          "url": "https://images.hindustantimes.com/img/2022/08/30/1600x900/information-conversation-intelligence-smartphone-technology-artificial-interface_d20457ca-6f1f-11ea-ad54-628e87a77846_1661876427298_1661876427298.jpg",
-          "width": 1600,
-          "height": 899,
+          "url": "https://etimg.etb2bimg.com/thumb/msid-93877868,imgsize-21916,width-1200,height-628,overlay-etcio/jio-haptik-collaborates-with-microsoft-azure-cognitive-services-to-improve-existing-hindi-conversational-ai-models.jpg",
+          "width": 1200,
+          "height": 628,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -76,13 +76,13 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.hindustantimes.com/technology/jio-haptik-signs-1-year-deal-with-microsoft-azure-to-improve-its-hindi-chatbots-101661873878526-amp.html",
-      "cdnAmpWebUrl": "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/jio-haptik-signs-1-year-deal-with-microsoft-azure-to-improve-its-hindi-chatbots-101661873878526-amp.html",
-      "publishedDateTime": "2022-08-30T09:47:00-07:00",
+      "ampWebUrl": "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/jio-haptik-collaborates-with-microsoft-azure-cognitive-services-to-improve-existing-hindi-conversational-ai-models/93877868",
+      "cdnAmpWebUrl": "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/jio-haptik-collaborates-with-microsoft-azure-cognitive-services-to-improve-existing-hindi-conversational-ai-models/93877868",
+      "publishedDateTime": "2022-08-30T03:21:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Hindustan Times",
-        "domain": "hindustantimes.com",
+        "name": "India Times",
+        "domain": "indiatimes.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -93,7 +93,8 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {

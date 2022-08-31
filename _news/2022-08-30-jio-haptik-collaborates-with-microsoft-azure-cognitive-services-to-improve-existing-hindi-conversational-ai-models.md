@@ -9,8 +9,8 @@ ampWebUrl: "https://cio.economictimes.indiatimes.com/amp/news/corporate-news/jio
 cdnAmpWebUrl: "https://cio-economictimes-indiatimes-com.cdn.ampproject.org/c/s/cio.economictimes.indiatimes.com/amp/news/corporate-news/jio-haptik-collaborates-with-microsoft-azure-cognitive-services-to-improve-existing-hindi-conversational-ai-models/93877868"
 type: article
 quality: 84
-heat: -1
-published: false
+heat: 144
+published: true
 
 provider:
   name: India Times
@@ -28,21 +28,53 @@ images:
     isCached: true
 
 related:
-  - title: "Microsoft and ByteDance are collaborating on a big AI project, even as US-China rivalry heats up"
-    excerpt: "Microsoft and TikTok parent ByteDance are working together on a software project intended to help companies more efficiently run AI apps."
-    publishedDateTime: 2022-08-26T12:00:00Z
-    webUrl: "https://www.cnbc.com/2022/08/26/microsoft-tiktok-parent-bytedance-collaborate-on-ai-project-kuberay.html"
-    ampWebUrl: "https://www.cnbc.com/amp/2022/08/26/microsoft-tiktok-parent-bytedance-collaborate-on-ai-project-kuberay.html"
-    cdnAmpWebUrl: "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/08/26/microsoft-tiktok-parent-bytedance-collaborate-on-ai-project-kuberay.html"
+  - title: "Jio Haptik signs 1-year deal with Microsoft Azure to improve its Hindi chatbots"
+    excerpt: "Jio Haptik has signed a one-year deal with Microsoft's cloud computing service Azure to improve its existing Hindi language chatbots. Jio Haptik, the AI platform, s"
+    publishedDateTime: 2022-08-30T16:47:00Z
+    webUrl: "https://www.hindustantimes.com/technology/jio-haptik-signs-1-year-deal-with-microsoft-azure-to-improve-its-hindi-chatbots-101661873878526.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/jio-haptik-signs-1-year-deal-with-microsoft-azure-to-improve-its-hindi-chatbots-101661873878526-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/jio-haptik-signs-1-year-deal-with-microsoft-azure-to-improve-its-hindi-chatbots-101661873878526-amp.html"
     type: article
     provider:
-      name: CNBC
-      domain: cnbc.com
-    quality: 91
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 70
     images:
-      - url: "https://image.cnbcfm.com/api/v1/image/106712070-16007759162020-09-22t013536z_1430815479_rc2d3j9nics6_rtrmadp_0_usa-tiktok-china.jpeg?v=1600775963"
-        width: 3500
-        height: 2333
+      - url: "https://images.hindustantimes.com/img/2022/08/30/1600x900/information-conversation-intelligence-smartphone-technology-artificial-interface_d20457ca-6f1f-11ea-ad54-628e87a77846_1661876427298_1661876427298.jpg"
+        width: 1600
+        height: 899
+        isCached: true
+  - title: "Jio Haptik collaborates with Microsoft to use Azure for improving Hindi chatbots"
+    excerpt: "The company claims to have facilitated over 2 million conversations on Jio Mobility with 80 per cent reduction in human interventions and 2.5 times increase in localised queries."
+    publishedDateTime: 2022-08-30T16:47:00Z
+    webUrl: "https://www.hindustantimes.com/technology/jio-haptik-collaborates-with-microsoft-to-use-azure-for-improving-hindi-chatbots-101661873878526.html"
+    ampWebUrl: "https://www.hindustantimes.com/technology/jio-haptik-collaborates-with-microsoft-to-use-azure-for-improving-hindi-chatbots-101661873878526-amp.html"
+    cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/jio-haptik-collaborates-with-microsoft-to-use-azure-for-improving-hindi-chatbots-101661873878526-amp.html"
+    type: article
+    provider:
+      name: Hindustan Times
+      domain: hindustantimes.com
+    quality: 69
+    images:
+      - url: "https://images.hindustantimes.com/img/2022/08/30/1600x900/information-conversation-intelligence-smartphone-technology-artificial-interface_d20457ca-6f1f-11ea-ad54-628e87a77846_1661876427298_1661876427298.jpg"
+        width: 1600
+        height: 899
+        isCached: true
+  - title: "Jio Haptik collaborates with Microsoft to use Azure for improving Hindi chatbots"
+    excerpt: "Conversational AI platform Jio Haptik has tied up with Microsoft Azure to improve its existing hindi language chatbots, a joint statement said on Tuesday"
+    publishedDateTime: 2022-08-31T05:43:00Z
+    webUrl: "https://www.thehindu.com/sci-tech/technology/jio-haptik-collaborates-with-microsoft-to-use-azure-for-improving-hindi-chatbots/article65833091.ece"
+    ampWebUrl: "https://www.thehindu.com/sci-tech/technology/jio-haptik-collaborates-with-microsoft-to-use-azure-for-improving-hindi-chatbots/article65833091.ece/amp/"
+    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/sci-tech/technology/jio-haptik-collaborates-with-microsoft-to-use-azure-for-improving-hindi-chatbots/article65833091.ece/amp/"
+    type: article
+    provider:
+      name: The Hindu
+      domain: thehindu.com
+    quality: 69
+    images:
+      - url: "https://th-i.thgim.com/public/incoming/vl3ctm/article65833106.ece/alternates/LANDSCAPE_615/IMG_BL04_FlightInvite_2_1_089LQLRQ.jpg"
+        width: 615
+        height: 383
         isCached: true
   - title: "Canonical, Microsoft Bring Ubuntu on Arm to Azure"
     excerpt: "“These images provide the familiar Ubuntu experience, with an Azure-optimized kernel and configurations ... application servers, Machine Learning (ML), open-source databases, and in-memory caches.” Ampere Altra is also well suited for new use ..."
@@ -72,19 +104,19 @@ related:
         width: 620
         height: 464
         isCached: true
-  - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
-    excerpt: "New Jersey, NJ -- (SBWIRE) -- 08/26/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
-    publishedDateTime: 2022-08-27T06:09:00Z
-    webUrl: "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-44"
+  - title: "Innovative Payment Solutions Introduces Voice Command Function for IPSIPay App Through Collaboration with Conversational AI Technology Provider DRUID"
+    excerpt: "William Corbett, IPSI’s Chairman and Chief Executive Officer, commented, “We believe our new collaboration with DRUID will dramatically enhance the functionality of our IPSIPay App, enabling users to execute remittances and other transactions,"
+    publishedDateTime: 2022-08-30T13:17:00Z
+    webUrl: "https://apnews.com/press-release/globe-newswire/technology-43dd32330de56b40d4b503cdbbed5410"
     type: article
     provider:
-      name: Insurancenewsnet.com
-      domain: insurancenewsnet.com
-    quality: 50
+      name: Associated Press
+      domain: apnews.com
+    quality: 4
     images:
-      - url: "https://insurancenewsnet.com/wp-content/themes/inn-2/img/inn-social-default.jpg"
-        width: 1200
-        height: 630
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
         isCached: true
 
 secured: "3eFvzRJugQ4mVzUOBXX0S2zOWYw/OClnmZE7QQOC47fWa27bTWPidNfTw+CHEoo2BUvouQcENM0uY2Q2TB6YJxXAclBPWGRYw5+H8ZG/UC2B80leSRBhFGfSoqQmcr0hKn4Rm1v6EA2jJVi52PIQHm8opmNqPYJ/s04s1ZD8lb2RzMuXHdLziB1J9hmg7XYoNy8kXNnrUMoKNvz3GTxyIEu4rf+vKXo6CObuUePFDFwnp1a2zQFihLiESrP/wrtFSpJq+Q4Dd7AR6wCMma7SMNkNCjmZbHZCcRCseoGK5q5f18X/ANGHvn0QMNfdwkevcIqP81vGrM559c24ZA/x/MjIgideOHjkPkQH+6UXLYl0myh4tdeuTGx7vwn0TKHM9Hh5ol0GDDbMBQB7xgtdaPglcpGYcRY9CjfCUcAMrdPDOSEHZ4q95vhJYYEOPUNnawoqvHRjYz2pp128bnAilhY52crSKi5Mns0UPvGOwibRv/lsDZEtl56HfS0kvNEy1W2qJbJU7uQhYhMeFZHdLQ==;hzX+vUHDgxmSGDmSglynrg=="

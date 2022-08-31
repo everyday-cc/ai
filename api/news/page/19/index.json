@@ -2,6 +2,50 @@
   "page": 19,
   "value": [
     {
+      "path": "_news/2022-08-13-why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance.md",
+      "title": "Why data ethics leadership needs to become the new normal in finance",
+      "excerpt": "By David Sweenor, Senior Director of Product Marketing at Alteryx. In June, one of the largest banking groups in the world – Lloyds Bank – announced it was joining the ranks of Google, KPMG and Uber with the creation of a new",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance/",
+      "originalUrl": "https://www.globalbankingandfinance.com/why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/08/iStock-1212832689.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/why-data-ethics-leadership-needs-to-become-the-new-normal-in-finance/",
+      "publishedDateTime": "2022-08-12T10:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
       "path": "_news/2022-08-13-robotic-surgery-minimises-risks-and-recovery-time.md",
       "title": "Robotic surgery minimises risks and recovery time",
       "excerpt": "robotic surgery doesn’t mean a robot will operate on the patient. In a RAS, expert surgeons control mechanical arms placed over the patient on the operating table. The surgeon controls these ...",
@@ -1127,48 +1171,6 @@
       "topics": [
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-metas-new-ai-powered-chatbot-takes-unexpected-digs-at-ceo-mark-zuckerberg.md",
-      "title": "Meta's New AI-Powered Chatbot Takes Unexpected Digs At CEO Mark Zuckerberg",
-      "excerpt": "Tech giant Meta has recently launched its most advanced conversational artificial intelligence (AI) chatbot named BlenderBot 3.",
-      "sourceUrl": null,
-      "webUrl": "https://www.ndtv.com/offbeat/metas-new-ai-powered-chatbot-takes-unexpected-digs-at-ceo-mark-zuckerberg-3247868",
-      "originalUrl": "https://www.ndtv.com/offbeat/metas-new-ai-powered-chatbot-takes-unexpected-digs-at-ceo-mark-zuckerberg-3247868",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 95,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.ndtvimg.com/i/2018-04/mark-zuckerberg-reuters_650x400_71522815002.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.ndtv.com/offbeat/metas-new-ai-powered-chatbot-takes-unexpected-digs-at-ceo-mark-zuckerberg-3247868/amp/1",
-      "cdnAmpWebUrl": "https://www-ndtv-com.cdn.ampproject.org/c/s/www.ndtv.com/offbeat/metas-new-ai-powered-chatbot-takes-unexpected-digs-at-ceo-mark-zuckerberg-3247868/amp/1",
-      "publishedDateTime": "2022-08-11T22:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "NDTV",
-        "domain": "ndtv.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

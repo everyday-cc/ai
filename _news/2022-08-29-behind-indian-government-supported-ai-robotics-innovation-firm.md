@@ -44,19 +44,19 @@ related:
         isCached: true
   - title: "Chinook Indian Nation members rally for federal recognition"
     excerpt: "Federal recognition would mean access to federal dollars for healthcare and housing for this group of tribes, which are based in Southwestern Washington."
-    publishedDateTime: 2022-08-30T22:10:00Z
-    webUrl: "https://www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
-    ampWebUrl: "https://www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
-    cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
+    publishedDateTime: 2022-08-30T17:16:00Z
+    webUrl: "https://www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
+    ampWebUrl: "https://www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
+    cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
     type: article
     provider:
-      name: MLive
-      domain: mlive.com
+      name: Oregonian
+      domain: oregonlive.com
     quality: 44
     images:
-      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LMMPTFFNCBH4FLHLG5BPF5DKTI.JPG"
-        width: 5184
-        height: 3456
+      - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BDPWLIXENRFN5FMNDB6TY6JQTM.jpg"
+        width: 3000
+        height: 2000
         isCached: true
   - title: "Chinook Indian Nation members rally for federal recognition"
     excerpt: "Members of the Chinook Indian Nation rallied Monday on the steps of a federal building in Seattle to raise awareness for their long fight to get federal recognition."

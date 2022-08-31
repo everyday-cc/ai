@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/why-artifi
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/29/why-artificial-general-intelligence-isnt-further-along/amp/"
 type: article
 quality: 76
-heat: 86
+heat: 76
 published: true
 
 provider:
@@ -30,19 +30,6 @@ images:
     width: 1200
     height: 800
     isCached: true
-
-related:
-  - title: "The era of the Artificial-Intelligence fashion designer is getting closer"
-    excerpt: "The industries are flourishing and expanding and the technological advancements in the fashion industry are growing exponentially. With passing time, personalization has gotten much attention and has become one of the biggest trends,"
-    publishedDateTime: 2022-08-26T11:22:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-era-of-the-artificial-intelligence-fashion-designer-is-getting-closer/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/the-era-of-the-artificial-intelligence-fashion-designer-is-getting-closer/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/the-era-of-the-artificial-intelligence-fashion-designer-is-getting-closer/"
-    type: article
-    provider:
-      name: India Times
-      domain: indiatimes.com
-    quality: 21
 
 secured: "Tjp3ajHkhicphmZ47KsrSOFvkJRVXmaP5YWBgotsGoUTBbCVRilZ5b1eqEC+RVvN/UiZ4mxsR1wuJJJz9UkXO/EXjnTzCx51Zcp7YzV/kl2jY4DwKf+gXcl3BWcWLojNz7qn6lz28/nGlM66DKC7fG7Fa3CVkRP4kBcXgm11ekJNow9lcCLHp+BdSECT3Gy+5k6zVuSXIqj+OCFBQRNPcR7TRtot7yxSD0CJnPi0HyD5/2eCBT+NocibMhD7ir6rBh1lLtZErERiRFSqxFZVpVgJgzgcQSDg8QIjae7+pC/eDhxcidTAqIv0Fziq5QcY/gjXcyfSWt77f7uThhaoRqyRsg44HW3UWbIH8Qr0UqmYLKHSxpb9GQvvWyTNixw7gPc6xB0tLAlUg1QuTk+NqfhdUQokoRiW5xq6E6pp0oNKYHQGXCeChPTWxuuCdMqywCpjVEwxHc8ow93Adt/vbN5Cot7247fJBs2XxOYFNxYeRf7HgIP0iGsNJHGCnKq42D/E2cpFdZJn2RaLRiEyrQ==;xzYbxt9mUxl/6mRws3IEVA=="
 ---

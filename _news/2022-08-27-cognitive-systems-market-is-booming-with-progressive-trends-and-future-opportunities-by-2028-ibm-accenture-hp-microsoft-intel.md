@@ -37,20 +37,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Devices Market Size and Share 2022 Analysis Report by Key Players, Geographical Regions, Future Development and Forecast to 2028"
-    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Facial Recognition Devices"
-    publishedDateTime: 2022-08-26T12:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-size-and-share-2022-analysis-report-by-key-players-geographical-regions-future-development-and-forecast-to-2028-2022-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "United States DoD Artificial Intelligence Market Analysis 2022: Programs Listed from the FY2022 DoD Budget Request and Contract Activity for FY2021"
     excerpt: "The \"United States DoD Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This research service focuses on US"
     publishedDateTime: 2022-08-30T20:15:00Z

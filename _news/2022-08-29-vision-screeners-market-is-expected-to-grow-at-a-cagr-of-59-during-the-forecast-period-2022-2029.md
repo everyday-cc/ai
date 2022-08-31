@@ -26,32 +26,18 @@ images:
 
 related:
   - title: "Neural Network Software Market By New Business Developments, Innovations, Forecast To 2022-2031"
-    excerpt: "Increasing demand for predicting solutions and analytical tools is expected to drive the neural network software market” MarketsandMarkets forecasts the global neural network software market to expand from USD 7."
+    excerpt: "\"Increasing demand for predicting solutions and analytical tools is expected to drive the neural network software market\" MarketsandMarkets forecasts the global neural network software market to expand from USD 7."
     publishedDateTime: 2022-08-28T17:32:00Z
-    webUrl: "https://menafn.com/1104770214/Neural-Network-Software-Market-By-New-Business-Developments-Innovations-Forecast-To-2022-2031"
+    webUrl: "https://www.marketwatch.com/press-release/neural-network-software-market-by-new-business-developments-innovations-forecast-to-2022-2031-2022-08-28"
     type: article
     provider:
-      name: Middle East North Africa Financial Network
-      domain: menafn.com
-    quality: 27
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 57
     images:
-      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?432518"
-        width: 343
-        height: 250
-        isCached: true
-  - title: "Emotion Detection and Recognition Market Latest Advancements and Business Opportunities 2031"
-    excerpt: "Emotion detection and recognition market is set to witness steady growth during 2021-2031. One of the major growth drivers for the emotion detection and recognition market happens to be the rising adoption of Internet of Things,"
-    publishedDateTime: 2022-08-30T13:26:00Z
-    webUrl: "https://www.fmiblog.com/2022/08/30/emotion-detection-and-recognition-market-latest-advancements-and-business-opportunities-2031/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 13
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2022/08/Stringer-Pallets-Market-420x300.jpg"
-        width: 420
-        height: 300
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
         isCached: true
 
 secured: "zKaMkeid31fpBdH94ITU5QlY0gWAGUv1N3XbfGLGLyjhvQgssm33RkpX3sVnOWvHdGl54PuQjNyb5JdXVD3jjlEWzUTNmnLgpuR9mFdLluMmqbaQqnBMA56F58fX7Ogj+uhDH9ldpN0MhY322+gJJ0NR8PjpK42cjPlL0SgwHYgBAYAeIwm2EiNITcXvfLlxC+hinD8aiqjuqHvN10GEA7+xAjrkJ6FCzXpI26jm+qJXPPH1b7c3mfCQ/Tb9BDMSZE/6pBhCgSAhUYpFUzf2p4t07mgNhWmTwmGgY0h5GSX58/60owXNPPgpIRrNF4z24HdyVnOiOcqD+fatAapOlwAYX4IkHdVuWHZ9HJ9xo/0=;EioOOwgxi7mm8pkFOoPIew=="

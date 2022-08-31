@@ -2,6 +2,49 @@
   "page": 120,
   "value": [
     {
+      "path": "_news/2022-05-28-this-tiny-robotic-crab-is-the-worlds-smallest-remote-controlled-walking-robot.md",
+      "title": "This Tiny Robotic Crab Is the World’s Smallest Remote-Controlled Walking Robot",
+      "excerpt": "Engineers at Northwestern University have unveiled a tiny robotic crab that they claim is the smallest ever remote-controlled walking robot. According to the team’s new paper published Wednesday ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailybeast.com/this-tiny-robotic-crab-is-the-worlds-smallest-remote-controlled-walking-robot",
+      "originalUrl": "https://www.thedailybeast.com/this-tiny-robotic-crab-is-the-worlds-smallest-remote-controlled-walking-robot",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_295,w_525,x_0,y_154/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1653663548/Low-Res_Fig._1D-1.jpg_yevk1y",
+          "width": 525,
+          "height": 295,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-27T11:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Beast",
+        "domain": "thedailybeast.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-28-grai-matter-labs-brain-inspired-ai-for-the-edge.md",
       "title": "GrAI Matter Labs: Brain-Inspired AI For The Edge",
       "excerpt": "We recently tweeted about the startup GrAI Matter Labs (GML) and received a lot of questions about the company’s products and strategy. As one of the first startups to launch a neuromorphic AI platform for edge AI,",
@@ -1033,49 +1076,6 @@
       ],
       "topics": [
         "AI Ethics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-27-fortinet-introduces-self-learning-ai-capabilities-in-new-network-detection-and-response-offering.md",
-      "title": "Fortinet Introduces Self-Learning AI Capabilities In New Network Detection And Response Offering",
-      "excerpt": "FortiNDR leverages machine learning and deep neural networks – the next-generation ... and response offering that leverages powerful artificial intelligence and pragmatic analytics to enable ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104279520/Fortinet-Introduces-Self-Learning-AI-Capabilities-In-New-Network-Detection-And-Response-Offering",
-      "originalUrl": "https://menafn.com/1104279520/Fortinet-Introduces-Self-Learning-AI-Capabilities-In-New-Network-Detection-And-Response-Offering",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-05/26/M_ae5e7image_story.jpg",
-          "width": 500,
-          "height": 500,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-26T22:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

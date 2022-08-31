@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Don't trust self-driving cars? NC State researchers trying to change that"
-excerpt: "If the idea of a self-driving car zooming down Interstate 40 and trying to reach the offramp at rush hour scares you, you’re not alone. But research happening at N.C. State may change your mind."
-publishedDateTime: 2022-08-30T11:00:00Z
-originalUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
-webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
+excerpt: "If the idea of a self-driving vehicle zooming down Interstate 40 and trying to reach the offramp at rush hour scares you, you’re not alone. The autonomous vehicle market is projected to eclipse $724 billion by 2027, according to a report from Emergen ..."
+publishedDateTime: 2022-08-30T12:00:00Z
+originalUrl: "https://www.bizjournals.com/triad/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
+webUrl: "https://www.bizjournals.com/triad/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
 type: article
 quality: 3
 heat: -1
@@ -35,6 +35,20 @@ related:
         width: 1280
         height: 855
         isCached: true
+  - title: "Self-driving cars have nothing on Japan’s self-captaining ships"
+    excerpt: "It was grimy from nautical toil and decidedly ugly on the eye, but there are few more thrilling ships out on the seas. And if you like your gadgetry game-changing but also attractive to barnacles and a challenge to the idea that Silicon Valley has a pre-eminent right to define “tech”,"
+    publishedDateTime: 2022-08-31T04:00:00Z
+    webUrl: "https://www.ft.com/content/e767201d-5287-4ffd-9995-e495d4a6a69b"
+    type: article
+    provider:
+      name: The Financial Times
+      domain: ft.com
+    quality: 39
+    images:
+      - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/comment.jpg"
+        width: 619
+        height: 377
+        isCached: true
   - title: "Self-Driving Car Tech Forgotten by Automakers Is Still Kept Alive by Federal Agency"
     excerpt: "There was a time when the answer to how to make self-driving cars work was to design a singular technology that would allow every vehicle on the road to communicate with everything — other cars, pieces of infrastructure,"
     publishedDateTime: 2022-08-30T22:30:00Z
@@ -56,6 +70,6 @@ related:
       domain: manhattan-institute.org
     quality: 4
 
-secured: "PhO/SYmXEKm1khHaRnbVp0b56nXezS1D3xAh6cK7tCBpO4RABaTVGRw6eA2Y/K5K6pbmSayZ9Gl3FnWHlcePdZl8YKiblDVWkfL4+YHBfNZga0zTPmlkHfR7s/n4jsFr6vAljYmb4EN9rJjFepi4F3EOzK1OTPIogtdbfQe4aKCliJAbWolL1xHMrCNapopEaS22pQ5MJu//sXbZ0B0ZLyppFGnfWTpwKOGy7XLHEfMeCcRric1DltYVPArLGzW4TqGnK4sYdtG6Ji3Dn1LPstmbOu73SuJFXTLU1qzcO+L5fVG1MNVIXmBRU/sqLoFOZuMJD2PB1BzxIMcrw5GKpt/4AHy3OQrqp+ACPXrArGlcN9EEQDBM6NblcMjYnpyW5llMyT3nXrRXb+Guw+wwOvGZ3vEbQjTrN8x7ZB5Y8ROdbGPXMPH+GoJ3sNN//Sl+tGR2VR2VuI/Juzdx3o9b4Ud0+DC+WGo6w/1CxsqR1NouifIlDT2h/aSXawgNvg3sTxqN9ia++kH8WTjQkum7xg==;uCGLJhx8ei9mwnHu5B4O+g=="
+secured: "S8fPEEiKcvN8o4GALl5kI23eaj+Choap0qgyJ+sJ+QYcuTyvMkWiuHR2obvZW9GLHBfZRE1gn3QIQBxI0d0s+F85r/DJa/MCd9zEfcY66unmF4GDdn9uhfq/Umwrdrvc70GmtKH37rdVb6TUonlTplQeniBVUmzuJ4XAON9aG07DMHN3UjKjiZAQ1rt9HsOfbGojx7nL2+QgxHBgCeSnvyKLC09QQkshp790GoZkdHFhLTua13ranekcqnTVzTXc5wH44k19fRfE2Q3E9sIAHpG/OCOJoM5/qLfZka2SIW4lC+8IW5djc1fx9rNYn06BHAeoK9Ddkhu6E7d/y4XmUiBwHo2LUeSoBEb/SMCawQGnCGKlllzv+SDiUPk7OdKyETFn142YUCjusQrCUAhjbQPnvRwHtKhDTN36pdGiv0Bnx0lt87SriMIL16a6LdaiH6ADBvBNvMFy/6G2er9R6PtyKcPf4pskRpeVl0r++24LZXmxv4XLL/HfSN08foaNUui0fk6RCStyQfxfkUm7AA==;WIvyqvxH8kEwMhyBWQcEgw=="
 ---
 

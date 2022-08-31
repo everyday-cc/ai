@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-08-23-robots-could-help-reduce-chemical-use-in-farming.md",
+      "title": "Robots could help reduce chemical use in farming",
+      "excerpt": "A robotics manufacturer is looking at the possibility of developing machines that will remove weeds and tend farmland without the need for so many chemicals.",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktnv.com/news/national/robots-could-help-reduce-chemical-use-in-farming",
+      "originalUrl": "https://www.ktnv.com/news/national/robots-could-help-reduce-chemical-use-in-farming",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ewscripps.brightspotcdn.com/dims4/default/cb84d0e/2147483647/strip/true/crop/3666x2062+61+0/resize/1280x720!/quality/90/?url=https%3A%2F%2Fewscripps.brightspotcdn.com%2F07%2F00%2Fe618017b4f60acd3ac6f7b3020e4%2Fscreen-shot-2022-08-22-at-10.50.57%20PM.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ktnv.com/news/national/robots-could-help-reduce-chemical-use-in-farming?_amp=true",
+      "cdnAmpWebUrl": "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/news/national/robots-could-help-reduce-chemical-use-in-farming?_amp=true",
+      "publishedDateTime": "2022-08-22T18:51:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTNV Las Vegas",
+        "domain": "ktnv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-ai-detects-parkinsons-disease-by-tracking-your-breathing-patterns.md",
       "title": "AI detects Parkinson’s disease by tracking your breathing patterns",
       "excerpt": "A compelling new study indicates Parkinson’s disease (PD) could be diagnosed by remotely tracking a person’s breathing patterns. Led by researchers from MIT, the study presents an AI system that uses radio waves to monitor breathing while a person sleeps.",
@@ -1139,50 +1182,6 @@
       "topics": [
         "Natural Language Processing",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-artificial-intelligence-now-available-to-detect-weapons-as-they-approach-schools.md",
-      "title": "Artificial Intelligence now available to detect weapons as they approach schools",
-      "excerpt": "The newest trend in school security, is artificial intelligence. Iterate.ai is applying the same kind tech that helps track down criminals with license plate and face recognition, to detect weapons on people who are approaching a school. Iterate founder ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kfvs12.com/2022/08/22/artificial-intelligence-now-available-detect-weapons-they-approach-schools/",
-      "originalUrl": "https://www.kfvs12.com/2022/08/22/artificial-intelligence-now-available-detect-weapons-they-approach-schools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kfvs12-prod.cdn.arcpublishing.com/resizer/GIVFL0VDB5wGVpa1JRApvm0TfeI=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/QTQ2H3I44ZADXJIKETRNIYTKPM.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kfvs12.com/2022/08/22/artificial-intelligence-now-available-detect-weapons-they-approach-schools/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-kfvs12-com.cdn.ampproject.org/c/s/www.kfvs12.com/2022/08/22/artificial-intelligence-now-available-detect-weapons-they-approach-schools/?outputType=amp",
-      "publishedDateTime": "2022-08-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KFVS12",
-        "domain": "kfvs12.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

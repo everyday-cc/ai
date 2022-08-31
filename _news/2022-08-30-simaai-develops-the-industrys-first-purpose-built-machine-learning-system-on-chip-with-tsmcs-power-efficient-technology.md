@@ -66,6 +66,34 @@ related:
         width: 1000
         height: 665
         isCached: true
+  - title: "SiMa.ai Develops the Industry’s First Purpose-Built Machine Learning System-on-Chipwith TSMC’s Power Efficient Technology"
+    excerpt: "SiMa.ai Develops the Industry’s First Purpose-Built Machine Learning System-on-Chipwith TSMC’s Power Efficient Technology"
+    publishedDateTime: 2022-08-31T04:49:00Z
+    webUrl: "https://www.businesswireindia.com/simaai-develops-the-industrys-first-purpose-built-machine-learning-system-on-chipwith-tsmcs-power-efficient-technology-80438.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 29
+    images:
+      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_80438.jpg"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "SiMa.ai Ships First Industry Leading Purpose-built Machine Learning SoC Platform to Customers for Embedded Edge Applications"
+    excerpt: "SiMa.ai Ships First Industry Leading Purpose-built Machine Learning SoC Platform to Customers for Embedded Edge Applications"
+    publishedDateTime: 2022-08-31T05:27:00Z
+    webUrl: "https://www.businesswireindia.com/simaai-ships-first-industry-leading-purpose-built-machine-learning-soc-platform-to-customers-for-embedded-edge-applications-80442.html"
+    type: article
+    provider:
+      name: Business Wire
+      domain: businesswireindia.com
+    quality: 27
+    images:
+      - url: "https://cms.businesswireindia.com/Uploads/OGTag/OG_NewsReleaseCompanyLogo_80442.jpg"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "SiMa.ai Ships Purpose-built Machine Learning SoC Platform to Customers for Embedded Edge Applications"
     excerpt: "SiMa.ai, the machine learning company enabling effortless deployment and scaling at the embedded edge, announced that it has begun shipping the industry’s first purpose-built software-centric Machine Learning System-on-Chip platform for the embedded edge – the MLSoC."
     publishedDateTime: 2022-08-30T17:23:00Z

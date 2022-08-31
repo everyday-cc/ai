@@ -35,20 +35,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Facial Recognition Devices Market Size and Share 2022 Analysis Report by Key Players, Geographical Regions, Future Development and Forecast to 2028"
-    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Facial Recognition Devices"
-    publishedDateTime: 2022-08-26T12:11:00Z
-    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-size-and-share-2022-analysis-report-by-key-players-geographical-regions-future-development-and-forecast-to-2028-2022-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cognitive Systems Market Is Booming with Progressive Trends and Future Opportunities by 2028| IBM, Accenture, HP, Microsoft, Intel"
     excerpt: "Aug 26, 2022 (Market Insight Reports) -- New Jersey, United States-The Cognitive Systems Market research examines ... revenue, innovative services, the actual status of demand and supply, and pricing strategy. In addition to this, this report also delivers ..."
     publishedDateTime: 2022-08-26T18:56:00Z

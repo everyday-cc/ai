@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestar.com/amp/opinion/contributors/2022/08/29/the-futu
 cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/opinion/contributors/2022/08/29/the-future-of-malicious-artificial-intelligence-applications-is-here.html"
 type: article
 quality: 59
-heat: 59
+heat: 69
 published: false
 
 provider:
@@ -25,6 +25,22 @@ images:
     width: 640
     height: 360
     isCached: true
+
+related:
+  - title: "How AI Is Shaping the Future of Customer Interactions"
+    excerpt: "Artificial intelligence isn’t going anywhere. In fact, it’s beginning to take the lead on customer interactions — but not without challenges."
+    publishedDateTime: 2022-08-30T11:02:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/how-ai-is-shaping-the-future-of-customer-interactions/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/5fa25dc1474f429fac7153892ff8d022.ashx"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "sJ+QQdxh/8UnP0UZMy+BL8XnzD6GggKzm2VywFaFgBIEgdEwSK97CcmfOH8uN1BC9FaUmfz2X5XrOeGlVGmWRnlnI5DGUYQiR9Fcwfd1vqMBnmXCGVQn2Dtt/WMMU7wUTg/YXkZ/wrP0HXqdBHQsBOiRStwO8oSrd0n4J1pEXnFVHbwLlDxwWl4K6Qi9rbJXEek9aTZuWqSeRSMKFjYBpb1Gw4I+/fsH5BsVFBwfXmdaZCKMdAZ04mpDHI/nTkDV6xyoR25khunGF+CcL1pthZowxowdXOHQCw0skPYh+5Ma5SahGwmuBCa5DfBkMAR8xgR51d8VCOZMdCDmEOo261tH7+gdMgSvQACplngCKBY=;RKYyaWTTPaTdoIiX+6wgwA=="
 ---

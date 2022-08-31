@@ -2,6 +2,59 @@
   "page": 98,
   "value": [
     {
+      "path": "_news/2022-06-14-your-microsoft-teams-video-calls-will-soon-be-powered-by-ai-and-machine-learning.md",
+      "title": "Your Microsoft Teams video calls will soon be powered by AI and machine learning",
+      "excerpt": "Microsoft has announced several new AI- and machine learning-based features for Teams that are intended to improve voice and video quality for a number of common areas, such as schools and workplaces. Microsoft shared details about the updates on a blog ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/",
+      "originalUrl": "https://www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 186,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaltrends.com/wp-content/uploads/2022/06/Microsoft-Teams-Crisp-smooth-1536x864-1.jpg?p=1",
+          "width": 650,
+          "height": 366,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/?amp",
+      "cdnAmpWebUrl": "https://www-digitaltrends-com.cdn.ampproject.org/c/s/www.digitaltrends.com/computing/microsoft-teams-calls-powered-by-ai/?amp",
+      "publishedDateTime": "2022-06-13T13:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Trends",
+        "domain": "digitaltrends.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/digitaltrends.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-14-churn-it-down-how-media-companies-can-use-ai-to-keep-and-win-subscribers.md",
       "title": "Churn It Down: How Media Companies Can Use AI To Keep And Win Subscribers",
       "excerpt": "With new challenges for streamers, and longstanding headwinds for many others in media, combatting churn has become more important than ever.",
@@ -1097,50 +1150,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-mit-built-a-new-reconfigurable-ai-chip-that-can-reduce-electronic-waste.md",
-      "title": "MIT built a new reconfigurable AI chip that can reduce electronic waste",
-      "excerpt": "Is this the end of e-waste? MIT engineers have designed a LEGO-like stackable, reconfigurable AI chip that can be snapped onto a device's internal chip.",
-      "sourceUrl": null,
-      "webUrl": "https://interestingengineering.com/mit-reconfigurable-ai-chip",
-      "originalUrl": "https://interestingengineering.com/mit-reconfigurable-ai-chip",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 106,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://inteng-storage.s3.amazonaws.com/img/iea/r1OrrxbEOn/sizes/untitled-1-26_resize_md.jpg",
-          "width": 744,
-          "height": 419,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.interestingengineering.com/mit-reconfigurable-ai-chip",
-      "cdnAmpWebUrl": "https://amp-interestingengineering-com.cdn.ampproject.org/c/s/amp.interestingengineering.com/mit-reconfigurable-ai-chip",
-      "publishedDateTime": "2022-06-13T08:02:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Interesting Engineering",
-        "domain": "interestingengineering.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

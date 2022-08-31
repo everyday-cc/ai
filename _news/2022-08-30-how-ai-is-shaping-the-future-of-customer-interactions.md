@@ -25,31 +25,22 @@ images:
     isCached: true
 
 related:
-  - title: "How To Prepare For AI-Driven Next-Generation Customer Service"
-    excerpt: "For companies that are eager but new to next-generation customer service, conversational AI can present challenges. However, we are"
-    publishedDateTime: 2022-08-26T12:30:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/26/how-to-prepare-for-ai-driven-next-generation-customer-service/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/26/how-to-prepare-for-ai-driven-next-generation-customer-service/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/26/how-to-prepare-for-ai-driven-next-generation-customer-service/amp/"
+  - title: "The future of malicious artificial intelligence applications is here"
+    excerpt: "But it also opened a Pandora’s box of malicious AI applications. Text-generating AIs — or “language models” — can now be used to massively augment online influence campaigns. They can craft complex and compelling arguments,"
+    publishedDateTime: 2022-08-29T11:00:00Z
+    webUrl: "https://www.thestar.com/opinion/contributors/2022/08/29/the-future-of-malicious-artificial-intelligence-applications-is-here.html"
+    ampWebUrl: "https://www.thestar.com/amp/opinion/contributors/2022/08/29/the-future-of-malicious-artificial-intelligence-applications-is-here.html"
+    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/opinion/contributors/2022/08/29/the-future-of-malicious-artificial-intelligence-applications-is-here.html"
     type: article
     provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 87
+      name: The Star
+      domain: thestar.com
+    quality: 59
     images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/60f579a2d027e9987faa1ed1/0x0.jpg?format=jpg&crop=2433,1369,x0,y175,safe&width=1200"
-        width: 1200
-        height: 675
+      - url: "https://www.thestar.com/content/dam/thestar/opinion/contributors/2022/08/29/stratfords-hamlet-teaches-us-lessons-on-modern-day-survellience/hamlet.jpg.size.custom.crop.640x360.jpg"
+        width: 640
+        height: 360
         isCached: true
-  - title: "How an award-winning AI film was brought to life by text-to-video generation"
-    excerpt: "Text-to-video generators are already creating award-winning short films. Are AI-generated blockbusters coming next?"
-    publishedDateTime: 2022-08-26T17:49:00Z
-    webUrl: "https://thenextweb.com/news/text-to-image-generator-creates-award-winning-ai-film-the-crow"
-    type: article
-    provider:
-      name: The Next Web
-      domain: thenextweb.com
-    quality: 44
 
 secured: "Ea2SwjXOsNXmKiv3tri1yBojGhsNmmRYaIEHc4rBUpGAO/5+7gw2wONGvj/id5NspRrOrVtIfi3aSiswRRdR9mUDfBdX4leDl5RYhxcjD3oLj3lXFbyuM0AS7AO4YWktJgHlLSUwFIwP+iM0CVa34G3WC6ZHARIXfECO3L/LFvQpPtURcNI3fBhaRDdJsL4jWC4OyxAXFsUOIFvemCE4E66xWnh7quBhudHbs8jF+L7kzPoBztcMJdfRKPxeP++MdNj4WZjxyEPkEVI4J0tfJD7oLplwbnKYQ8KAHiyNSIf004OAigXH9SJWiUtwijQp18Qt6f6Z68h3wClPDqFRvQ60rDpCAIr7oHScnSktIiI6VrIjqQg9nPXp2LPgpdJWKtCZnf2Y3/nbLRiUE5HJ0yA3t2e6Z2FfD3M5SRkGSwlzpUAM2cOTh7TigW/J2TRMagiR2b9OKdgsVEl3B4452RAa2iFKO2ogcdWUlaLyrhzN7iHlSn49HVfcdIa2ZYGf4vVD9FV/anaE2iWhzSNzKQ==;wwmlBcV45ZsY5I9uNaFibg=="
 ---
