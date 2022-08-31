@@ -7,7 +7,7 @@ originalUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-
 webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-growing-demand-industry-synopsis-opportunities-and-analysis-2022-to-2028-2022-08-28"
 type: article
 quality: 58
-heat: 78
+heat: 88
 published: true
 
 provider:
@@ -42,6 +42,15 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Cognitive Systems Market Is Booming with Progressive Trends and Future Opportunities by 2028| IBM, Accenture, HP, Microsoft, Intel"
+    excerpt: "Aug 26, 2022 (Market Insight Reports) -- New Jersey, United States-The Cognitive Systems Market research examines ... revenue, innovative services, the actual status of demand and supply, and pricing strategy. In addition to this, this report also delivers ..."
+    publishedDateTime: 2022-08-26T18:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-systems-market-is-booming-with-progressive-trends-and-future-opportunities-by-2028-ibm-accenture-hp-microsoft-intel-2022-08-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 19
   - title: "United States DoD Artificial Intelligence Market Analysis 2022: Programs Listed from the FY2022 DoD Budget Request and Contract Activity for FY2021"
     excerpt: "The \"United States DoD Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This research service focuses on US"
     publishedDateTime: 2022-08-30T20:15:00Z

@@ -43,20 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Edge Computing AI Chips Market Trend From 2022 To 2028 And Unlimited Opportunities for New Companies"
-    excerpt: "Pre and Post Covid is covered and Report Customization is available. In the forecast period of 2022-2028, the Global"
-    publishedDateTime: 2022-08-26T07:37:00Z
-    webUrl: "https://www.marketwatch.com/press-release/edge-computing-ai-chips-market-trend-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-2022-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 69
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing For Healthcare And Life Sciences Market 2022 Disclosing Latest Trends and Advancement Outlook 2028 by Key Players"
     excerpt: "The “Global Natural Language Processing For Healthcare And Life Sciences Market Research Report 2022 to 2027”,"
     publishedDateTime: 2022-08-27T21:25:00Z
@@ -80,20 +66,6 @@ related:
       name: MarketWatch
       domain: marketwatch.com
     quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Automotive Artificial Intelligence Market Analysis with Industry Trends and Growth Rate by Manufacturers, Future Plans and Size Forecast 2022-2031"
-    excerpt: "Trending Automotive Artificial Intelligence Market: The latest competent intelligence report published by QMI with the"
-    publishedDateTime: 2022-08-26T08:05:00Z
-    webUrl: "https://www.marketwatch.com/press-release/automotive-artificial-intelligence-market-analysis-with-industry-trends-and-growth-rate-by-manufacturers-future-plans-and-size-forecast-2022-2031-2022-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

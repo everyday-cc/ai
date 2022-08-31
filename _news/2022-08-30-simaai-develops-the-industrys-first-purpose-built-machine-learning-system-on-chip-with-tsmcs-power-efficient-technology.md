@@ -1,23 +1,23 @@
 ---
 category: news
-title: "SiMa.ai Develops the Industry's First Purpose-Built Machine Learning System-on-Chip with TSMC's Power Efficient Technology"
-excerpt: "SiMa.ai, the machine learning company enabling effortless deployment and scaling at the embedded edge, today announced it has delivered a software-centric MLSoC Platform that enables quick and Effortless ML experiences for the embedded edge,"
-publishedDateTime: 2022-08-30T13:35:00Z
-originalUrl: "https://www.design-reuse.com/news/52562/sima-ai-machine-learning-system-on-chip-tsmc.html"
-webUrl: "https://www.design-reuse.com/news/52562/sima-ai-machine-learning-system-on-chip-tsmc.html"
+title: "SiMa.ai Develops the Industry’s First Purpose-Built Machine Learning System-on-Chip with TSMC’s Power Efficient Technology"
+excerpt: "The SiMa.ai MLSoC, which is shipping to customers now, addresses any computer vision application and delivers a 10x better performance/watt solution – operating at the most efficient frames per second/watt."
+publishedDateTime: 2022-08-30T13:05:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-30-simaai-develops-the-industrys-first-purpose-built-machine-learning-system-on-chip-with-tsmcs-power-efficient-technology"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-30-simaai-develops-the-industrys-first-purpose-built-machine-learning-system-on-chip-with-tsmcs-power-efficient-technology"
 type: article
 quality: 25
 heat: -1
 published: false
 
 provider:
-  name: Design-Reuse
-  domain: design-reuse.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
-  - AI Hardware
-  - AI
   - Machine Learning
+  - AI
+  - AI Hardware
 
 related:
   - title: "AI startup SiMa.ai debuts 'purpose-built' AI chip for edge computing"
@@ -30,7 +30,7 @@ related:
     provider:
       name: ZDNet
       domain: zdnet.com
-    quality: 104
+    quality: 106
     images:
       - url: "https://www.zdnet.com/a/img/resize/880f030bba7a4480fe84f79f48a479e12de7a17e/2022/08/30/9a7626ba-c727-4205-8109-e0d5caf30154/sima-mlsoc-evaluation-board.png?width=1200&fit=bounds&format=pjpg&auto=webp"
         width: 1200
@@ -85,6 +85,6 @@ related:
       domain: design-reuse.com
     quality: 9
 
-secured: "VA4MBm/vGt+/YhHnMihILSwIelQI/HpCq0brqhcIwdnKxIymRo0CQosx6L11XkzT+RI9/mt8MofHxHNUiLfaRlCDRWZrnQgl0o99FINye3sMDs5omqN26cCWKGepG259x6T6JyV46zyq856acITqJ/xaP1oUYqGA6E4pclZUfVKUG0Dj8LeyW2O3gJGjI+HpEYe7jG+7UWcADzJ8vySAfS5Sf7E+b7YNuJ3mc6yuoSfOCERfEfkW325K4JDEO58w+7vzQDvh0EmkGKac9iQnii2jiMrp20TET473KoGta13OsoJOOiDNIXkOPUt2bZLz0beG9XBCHczMF4msnKrmXItK+RL+3RHq+mJTSVizRpc=;Lt4S67emWRPeqnKmfFOWLw=="
+secured: "uAg9qkjlRL+EJi5p2KinDU0Kj3aBqwej7NZbn9F5TbgKN58XU49DGnHryizv0XGMcEMS/E8vQFjVJCuz+I03qJ26Qlw2cOYis5V9vWu4tbuz0LTFAujgOvWjvdur3TcztBXTY+avm9qGoIJAJKYq1D8Hfuvc9dtaZX4A2dHgodIHcJHi9T9r7wCj2bW58WNThBOimictyZI3dfy+WpibYC/JC07YLG/SxOe9iRbXWF1HlIhyFE/hPkuVbL2+uBeJ4UlNDZ67+RzT9rtx2DWd5eLs8hccTDZe8Rt0lvS1J6qjx7B9tXcobLecrb30MfVpDZ+lTL7fVM5d7RDEXkRFszMIEkIfYids5PknIqPM4do=;m4esbeyEdJLjmC3NuhdXkw=="
 ---
 

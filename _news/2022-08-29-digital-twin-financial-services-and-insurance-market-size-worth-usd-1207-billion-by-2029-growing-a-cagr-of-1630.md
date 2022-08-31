@@ -25,6 +25,15 @@ images:
     isCached: true
 
 related:
+  - title: "Edge Computing Market Size Worth $132.11 Billion by 2028 at 21.6% CAGR | The Insight Partners"
+    excerpt: "The Insight Partners published latest research study on \"Edge Computing Market Forecast to 2028 - COVID-19 Impact and Global Analysis By Co"
+    publishedDateTime: 2022-08-29T11:56:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/-edge-computing-market-size-worth-13211-billion-2028-/2022/08/29/9663269.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 0
   - title: "Geospatial Analytics Market: Growing At A CAGR Of 12.1% : Will Hit 134.23 Billion By 2028 : Says Emergen Research"
     excerpt: "Emergen Research Logo Rising use of AI and ML in geospatial analytics, increasing number of government projects, & rapid urbanization som"
     publishedDateTime: 2022-08-30T12:17:00Z

@@ -8,8 +8,8 @@ webUrl: "https://www.zdnet.com/article/ai-startup-sima-debuts-purpose-built-ai-c
 ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/"
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/"
 type: article
-quality: 104
-heat: 154
+quality: 106
+heat: 156
 published: true
 
 provider:
@@ -23,6 +23,7 @@ provider:
 topics:
   - AI
   - AI Hardware
+  - Machine Learning
 
 images:
   - url: "https://www.zdnet.com/a/img/resize/880f030bba7a4480fe84f79f48a479e12de7a17e/2022/08/30/9a7626ba-c727-4205-8109-e0d5caf30154/sima-mlsoc-evaluation-board.png?width=1200&fit=bounds&format=pjpg&auto=webp"
@@ -61,14 +62,14 @@ related:
         width: 1000
         height: 665
         isCached: true
-  - title: "SiMa.ai Develops the Industry's First Purpose-Built Machine Learning System-on-Chip with TSMC's Power Efficient Technology"
-    excerpt: "SiMa.ai, the machine learning company enabling effortless deployment and scaling at the embedded edge, today announced it has delivered a software-centric MLSoC Platform that enables quick and Effortless ML experiences for the embedded edge,"
-    publishedDateTime: 2022-08-30T13:35:00Z
-    webUrl: "https://www.design-reuse.com/news/52562/sima-ai-machine-learning-system-on-chip-tsmc.html"
+  - title: "SiMa.ai Develops the Industry’s First Purpose-Built Machine Learning System-on-Chip with TSMC’s Power Efficient Technology"
+    excerpt: "The SiMa.ai MLSoC, which is shipping to customers now, addresses any computer vision application and delivers a 10x better performance/watt solution – operating at the most efficient frames per second/watt."
+    publishedDateTime: 2022-08-30T13:05:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-30-simaai-develops-the-industrys-first-purpose-built-machine-learning-system-on-chip-with-tsmcs-power-efficient-technology"
     type: article
     provider:
-      name: Design-Reuse
-      domain: design-reuse.com
+      name: Daily Herald
+      domain: dailyherald.com
     quality: 25
   - title: "SiMa.ai Ships Purpose-built Machine Learning SoC Platform to Customers for Embedded Edge Applications"
     excerpt: "SiMa.ai, the machine learning company enabling effortless deployment and scaling at the embedded edge, announced that it has begun shipping the industry’s first purpose-built software-centric Machine Learning System-on-Chip platform for the embedded edge – the MLSoC."
@@ -89,6 +90,6 @@ related:
       domain: design-reuse.com
     quality: 9
 
-secured: "Zsa4mdhil1lhZiwbsfA70JPwini+gBcWq1PX+3+vTAEgZsrr1OMPeBTCrLgWx7LoYcz5lkpDkaYM5/0kmTqz3iSTTiudCugVikP6w7wPRXP7Va3Jn5j6q2mgH02uG6mN7NnZ3HGE1fJvmgiy2EhRRvM1KXvlMUtSKDTn2G3h68ksOWoNMF6TE3RCJ6PX7XufbKC827biFbM9xP9PA2/VkeWhwu8LIUALsdlcu3fssuGRf7/5d2p2U+1FnAln8aXbTimsk8N5gAp/KRQcXXBCnWwRKzIOeggMZW9CDaraEQUTsxXC7HP4h273MEisdcBa5W3I7jN28FqNJKjzW6/dvftsKp58opY1a3rwyGtGbaA=;JXd4gikXJczFsLDKWI+07A=="
+secured: "g4u9pmCJ6kAEzH1FNP8MRqbuHR7ng27YuLx9ppIBpotOfYMo6QcVqVgvufPivp9i7qfSpP4XBRVE4uJWkzIuA7hS1ejYtxY5zOqfZYuNXtiazlSyNFlEPy1BwBNpp/EBdDruWElvUzoAo7lSkRegEhiPJdiifSytoxHRi2ZJsu3H8Zr61B4pl3VbnbGZaWchxPmjNPU2vYNaUd5v7/r9NqxXpuVEBDGLncflzud2b3H4iKNKR9sAd75wcqD1RLSZ7XGQoU3fW85LOp9/oI07l0Yr7+Lv74jZMLrdOc7AxCaFVN0vxyDy8geQbHkuKfRM6QpaSYExZQ1dP1XPmiI7wH9yRxhy4JeCvAVy97MCSqXpWlIAZ8bgb++ZoaPpq80kJbiwYB6Q4vbU8jG2cS+eOENsAXFmJZdBoczgTyka5CFLRX2JwwD3zEGmSKMob4GFdu2x1L6FFwz5dOmd/eot0UxE8Bw0bsYg8J6gePyGCK0iWgjPoclNEzkcIBZwgCv/SxeKTaS8XRJCSAoLKH3ygQ==;00W/3Eo6TH7/t6RpALCL2A=="
 ---
 

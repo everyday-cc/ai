@@ -23,20 +23,45 @@ topics:
   - AI
 
 related:
-  - title: "Artificial Intelligence Supply Chain Market Worldwide Demand, Development Growth and Business Attractions 2028 | IBM, Microsoft, Google, Amazon"
-    excerpt: "The Artificial Intelligence Supply Chain report offers in-depth assessment of the growth and other aspects of the Artificial Intelligence Supply Chain market in important regions. Key regions covered in the report are North America,"
-    publishedDateTime: 2022-08-26T08:16:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-supply-chain-market-worldwide-demand-development-growth-and-business-attractions-2028-ibm-microsoft-google-amazon-2022-08-26"
+  - title: "Artificial Intelligence (AI) Chipset Market Growing Demand, Industry Synopsis, Opportunities and Analysis 2022 to 2028"
+    excerpt: "This report studies the Global Artificial Intelligence (AI) Chipset Market size, industry status and forecast, competition landscape, and growth opportunity. This research report categorizes the global Artificial Intelligence (AI) Chipset market by companies,"
+    publishedDateTime: 2022-08-28T20:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-growing-demand-industry-synopsis-opportunities-and-analysis-2022-to-2028-2022-08-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 63
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
+  - title: "Body Temperature Test Face Recognition Devices Market Size From 2022 To 2028 And Unlimited Opportunities for New Companies"
+    excerpt: "This report shows market strategic analysis, micro and macro market trend and scenarios, pricing analysis, and a holistic review of the \" Body Temperature Test Face Recognition Devices market\" in the forecast period 2022 to 2028,"
+    publishedDateTime: 2022-08-26T10:31:00Z
+    webUrl: "https://www.marketwatch.com/press-release/body-temperature-test-face-recognition-devices-market-size-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-2022-08-26"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 43
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "United States DoD Artificial Intelligence Market Analysis 2022: Programs Listed from the FY2022 DoD Budget Request and Contract Activity for FY2021"
+    excerpt: "The \"United States DoD Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This research service focuses on US"
+    publishedDateTime: 2022-08-30T20:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28692864/united-states-dod-artificial-intelligence-market-analysis-2022-programs-listed-from-the-fy2022-dod"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28692864"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28692864"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
 
 secured: "Ip8/+Kl8fb7Y84AvJ0YPy7fQzcNpnxnuvOqg6HAYIKKkmfglzBhGXOVyLV4SSpnS3KCTRcRFfUA8/JZsWP7buIcKGPEHkBV0AvYDcQnQYPnRYCEZsc+HcwtLhIeV/UqUGBCo4uq8dNrZ2ytKDrrCbWUca2iwhJo+R9Dme/wzH9kzSDP19FZrtvN5AjTep0vjbRi+YJH1VaAig6mPg64+A9NecieWxJ5FLmHtaieNeB4pNozkL5t1bAG2RDDHfsJHLUGXcb9Woxf4CQhQk4UOiJoPKKHyi3h/JngjlcJ1sclpakYQ42jR7oLgGzP7fBaZUuD43feC4vECS4TWZvewni6e9umeq28yJuuRPNNRF8I=;jDo1Y07PXaYk3B7eTM4C7Q=="
 ---

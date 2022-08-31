@@ -148,20 +148,6 @@ related:
       name: ZDNet
       domain: zdnet.com
     quality: 44
-  - title: "Tesla defends self-driving software"
-    excerpt: "Tesla has defended its self-driving software after videos of cars running over child-size mannequins hit the internet. Added14 minutes ago A Los Angeles police officer has saved a baby's life using CPR,"
-    publishedDateTime: 2022-08-26T08:53:00Z
-    webUrl: "https://www.9news.com.au/videos/world/tesla-defends-self-driving-software/cl7a80lxi000s0jo457zvemxd"
-    type: article
-    provider:
-      name: Nine News Australia
-      domain: 9news.com.au
-    quality: 39
-    images:
-      - url: "https://vms-network-images-prod.s3-ap-southeast-2.amazonaws.com/2022/08/450137/pickerimage.jpg"
-        width: 1024
-        height: 576
-        isCached: true
   - title: "Musk says he wants to get Tesla's self-driving tech in wide release by year-end"
     excerpt: "Elon Musk hopes Tesla’s self-driving technology could be in wide release in the U.S. by the end of the year, and possibly also in Europe, depending on regulatory approval."
     publishedDateTime: 2022-08-29T13:24:00Z
