@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-31T17:49:00Z
 originalUrl: "https://www.massdevice.com/endoquest-robotics-surgical-robot-brigham-womens-hospital/"
 webUrl: "https://www.massdevice.com/endoquest-robotics-surgical-robot-brigham-womens-hospital/"
 type: article
+quality: 28
+heat: 28
+published: false
 
 provider:
   name: MassDevice

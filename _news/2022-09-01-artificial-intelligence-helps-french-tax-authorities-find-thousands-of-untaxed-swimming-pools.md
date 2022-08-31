@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-31T18:40:00Z
 originalUrl: "https://reason.com/2022/08/31/artificial-intelligence-helps-french-tax-officials-find-thousands-of-untaxed-swimming-pools/"
 webUrl: "https://reason.com/2022/08/31/artificial-intelligence-helps-french-tax-officials-find-thousands-of-untaxed-swimming-pools/"
 type: article
+quality: 6
+heat: 6
+published: false
 
 provider:
   name: Reason

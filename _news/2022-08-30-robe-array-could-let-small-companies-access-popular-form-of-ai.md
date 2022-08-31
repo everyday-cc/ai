@@ -1,23 +1,27 @@
 ---
 category: news
 title: "ROBE Array could let small companies access popular form of AI"
-excerpt: "A breakthrough low-memory technique by Rice University computer scientists could put one of the most resource-intensive forms of artificial intelligence—deep-learning recommendation models (DLRM)—within reach of small companies."
-publishedDateTime: 2022-08-29T19:48:00Z
-originalUrl: "https://techxplore.com/news/2022-08-robe-array-small-companies-access.html"
-webUrl: "https://techxplore.com/news/2022-08-robe-array-small-companies-access.html"
+excerpt: "ROBE Array, a breakthrough low-memory training technique for deep-learning recommendation models, could put one of the most resource-intensive forms of artificial intelligence within reach of ..."
+publishedDateTime: 2022-08-29T19:53:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/08/220829143936.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/08/220829143936.htm"
 type: article
-quality: 19
-heat: 19
+quality: 49
+heat: 49
 published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
+  - Machine Learning
   - AI
 
-secured: "ZAokgtyTpA4fKnWGxu+wJga1w9zueUE+ejwUdai2It2O32As70tMNIM0RBmedyTqgvVhrr/eS4YUtQS/4rKk1s+NcYqsTVMqM/1+oK+lf/zfWgf6rCsj+Czj+S60lO0aY+AlKj7HdfFEzn8zpsYlp5RUcK+6Bij8S881n3EzaCcnii4oDDXLyz9X16bYT37wIV9gmHT9/6tg1yd09aIGhGEWc4ucnkj3W3DREcAVXhZHIbS3xdPaXcm2tYYvcfyNYyO3qaWf04scXEeD0Z7aIiPiCC76Fd7VAQGkDkcIo+yIVHd9u5pSghJUxODln5AbQhuD8yCXzY/ltlz7XiqYn+mCeg7RbGxBq2WcGm2KCPNqx8D5LezrwAtdErpCHC65agFHKgCDdrfxLrQ+5Gt6RYsMmH2JSszvQyKfHW0/LQ7+xZVHTFtBzQe1RUtcIuZUJQeqxFvsEUYTo5sNovVVJcy4GdmgSvLcX4P+Yfws7KGPHQlGZv+CN5ufido2N0WmmrYI3RlMpDQQMz9Mjunicg==;jLPSVG70KnLywPLZYAOBBw=="
+secured: "Qj9SGgwDNDno4x/XBm9+NApO7Zimd4HqCslL0HZdO94qeqfVLr9SjiWSJpePxHqLjrEPLoNFXsRZ/491f58R836FIWFEbJg5kHxcP8/3yiauuY/oa0uU0P3VTASspWbtJI9tQwJJYXRweZwSijxB+R00YruhpkavbgL+xDCiLxPgyEq3kR9uU3v4Aw0ItoCzkcKLTruuzTQqaAPHqew7DnGQtXpCrop5hr5+69/UcjZ83VQycRAlfhp1bCp21M6i6Fa4Y3ZDWlWD2WDkZarjSL9pqss/khOxz4lPtqw++q+ZmUTVzcqRaBlDpNT6Pt569WQOx2do3WqNzvPkaBeneNBbiGhZP6MrqSVNbKBnbeA=;q1Y9C4o3euPkjJFRKfdr2g=="
 ---
 

@@ -33,6 +33,15 @@ related:
         width: 400
         height: 239
         isCached: true
+  - title: "Bridgestone hopes AWS cloud system accelerates digital growth"
+    excerpt: "Bridgestone Corp. has begun using Amazon Web Services as its cloud provider to accelerate the creation of digital platforms, launch new solutions for its customers, improve data analysis and streamline IT operations."
+    publishedDateTime: 2022-08-31T18:47:00Z
+    webUrl: "https://www.tirebusiness.com/news/bridgestone-hopes-amazon-cloud-system-accelerates-growth"
+    type: article
+    provider:
+      name: Tire Business
+      domain: tirebusiness.com
+    quality: 19
   - title: "Bridgestone and AWS partner for platform development and customer solutions"
     excerpt: "Corporation (Bridgestone) announced that the company is using Amazon Web Services, Inc. (AWS) as its strategic cloud provider in support of the company’s sustainable mobility solutions. Using AWS Internet of Things (IoT),"
     publishedDateTime: 2022-08-31T09:24:00Z

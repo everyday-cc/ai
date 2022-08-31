@@ -7,7 +7,7 @@ originalUrl: "https://www.rcrwireless.com/20220829/telco-cloud/microsoft-applyin
 webUrl: "https://www.rcrwireless.com/20220829/telco-cloud/microsoft-applying-cloud-security-principles-to-open-ran-networks"
 type: article
 quality: 56
-heat: 56
+heat: 66
 published: false
 
 provider:
@@ -24,6 +24,22 @@ images:
     width: 720
     height: 480
     isCached: true
+
+related:
+  - title: "Microsoft opens first global datacenter region in Qatar, bringing new opportunities for a cloud-first economy"
+    excerpt: "Microsoft announced the launch of its new datacenter region in Qatar, marking a major milestone for Microsoft as the first hyperscale cloud provider to deliver enterprise-grade services in the country."
+    publishedDateTime: 2022-08-31T21:02:00Z
+    webUrl: "https://news.microsoft.com/en-xm/2022/08/31/microsoft-opens-first-global-datacenter-region-in-qatar-bringing-new-opportunities-for-a-cloud-first-economy/"
+    type: article
+    provider:
+      name: Microsoft
+      domain: microsoft.com
+    quality: 20
+    images:
+      - url: "https://news.microsoft.com/wp-content/uploads/prod/sites/133/2022/08/20210289MicrosoftPitchDataCenterLinkedIn300X250ENG29820229289.png"
+        width: 300
+        height: 250
+        isCached: true
 
 secured: "2qtdQNiCS5XtSr1ExeJlZALr6Q5CK/wWAa6h2XK4Y2UqccdjM7I+gCQJPTgEKn7/YIIIIBweP9If2reoPWp4JZ0RTKyjhHcSQgK4in5ile115+AVmwuTi1PvSBL6wRfgFGpMawXxQPYzfujQeVhTJAhC1NkN1/CboINETTMtchTZv7ZxVLrZRr6rbmvr11h4sWK2jSmp+aJr3WtFslMzvd4CF7bHzzs2BTX+764Yhnph0p+73aPgVudfafkARYohllKahxsLSXMvfvX8kWrgr9a4Q0GOCkjgKZK1G3Lu+dsADL6jLm2WasPGPGvny5I8MXQh7P57Ql3nIBm4XS/rVz8lnFkD55CSD/7TJ+GIdPotDq3PRZM50HdWRGSCCFcTv+W/ItqpyJpvboKsRjEwWvQQKcce4AjKfuC9dgcrglP4ylx0f+glv2kZb+L4XUyOdIXcCZdZBDJxuJKHE9OOG1PSgONXYhxwgqM0U5pb8/87RAKadkJSi/9UY0sj2t5V07uNy/RJkLI0ZXCSReHs3Q==;X9ObQ7bI1Ly9pMcnIuDoLQ=="
 ---

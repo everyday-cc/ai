@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-31T18:09:00Z
 originalUrl: "https://phys.org/news/2022-08-angry-customers-social-media-de-escalate.html"
 webUrl: "https://phys.org/news/2022-08-angry-customers-social-media-de-escalate.html"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Phys.org

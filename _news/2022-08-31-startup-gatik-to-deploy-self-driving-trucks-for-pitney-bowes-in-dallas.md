@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-31T11:20:00Z
 originalUrl: "https://money.usnews.com/investing/news/articles/2022-08-31/startup-gatik-to-deploy-self-driving-trucks-for-pitney-bowes-in-dallas"
 webUrl: "https://money.usnews.com/investing/news/articles/2022-08-31/startup-gatik-to-deploy-self-driving-trucks-for-pitney-bowes-in-dallas"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: U.S. News & World Report

@@ -43,20 +43,6 @@ related:
         width: 615
         height: 383
         isCached: true
-  - title: "Who will establish metaverse ethics?"
-    excerpt: "The metaverse is not a new concept. The term was coined by science fiction novelist Neal Stephenson in his 1992 book Snow Crash, which depicts a hyper-capitalist dystopia in which humanity has collectively opted into life in virtual environments."
-    publishedDateTime: 2022-08-27T03:40:00Z
-    webUrl: "https://global.chinadaily.com.cn/a/202208/27/WS6309699da310fd2b29e74891.html"
-    type: article
-    provider:
-      name: 中国日报网
-      domain: chinadaily.com.cn
-    quality: 39
-    images:
-      - url: "https://img2.chinadaily.com.cn/images/202208/27/6309699da310fd2bec9e80f9.jpeg"
-        width: 669
-        height: 840
-        isCached: true
 
 secured: "hrgYlez3X2DGFXuRO0jX1XAURK39XX52UPmurSIhxGv4Kgi1iZoWThCMvm5bFfejDE6jlG6PFtrVnFql+iF0/PE4Q0Q5SjuzMJQ0vCaTifTufy5WLFDSQUyVXiG1MB/7zwnIpE74GW1w1eCwLU7ufg8O6PMoRReKz1AAmfqNIys7AxdeSVWnjm9UKCfgzIeb9IqYLFlzTmaZS2e9GG7GhdLMVIoFYgI3eoURE4vueedvGVSkTVwSDDDKBnc2zFlTq1tgmh7hM/Rcxf2X18P9OMYE81ysUIc3fzJS/pN9g3AHP2ZjAL/ipsuqPKHgI7JZL5OCTzDkiFFbCnBuJ1fjp65hr+bHw7aK2WXDt1dzMaQ=;RbKlawirvh2PypCLCgBa4g=="
 ---

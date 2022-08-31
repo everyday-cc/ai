@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-31T00:00:00Z
 originalUrl: "https://www.deepmind.com/blog/from-motor-control-to-embodied-intelligence"
 webUrl: "https://www.deepmind.com/blog/from-motor-control-to-embodied-intelligence"
 type: article
+quality: 54
+heat: 54
+published: false
 
 provider:
   name: DeepMind

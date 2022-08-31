@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/globe-newswire/technology-978f454
 webUrl: "https://apnews.com/press-release/globe-newswire/technology-978f454585b2f74ebd0d4a06ca278e96"
 type: article
 quality: 29
-heat: 29
+heat: -1
 published: false
 
 provider:
@@ -26,6 +26,15 @@ images:
     isCached: true
 
 related:
+  - title: "SiMa.ai Ships ML SoC Platform for Embedded Edge Applications"
+    excerpt: "Edge machine learning company SiMa.ai today announced it has begun shipping what the company said is the industry’s first purpose-built software-centric machine learning system-on-chip platform for the embedded edge – the MLSoC."
+    publishedDateTime: 2022-08-31T19:01:00Z
+    webUrl: "https://insidehpc.com/2022/08/sima-ai-ships-ml-soc-platform-for-embedded-edge-applications/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 36
   - title: "SiMa.ai Achieves First Silicon Success with Synopsys Solutions, Launching the Industry’s Most Power-Efficient MLSoC Platform for the Embedded Edge"
     excerpt: "SiMa.ai, the machine learning (ML) company enabling effortless deployment and scaling at the embedded edge, today announced it has achieved first silicon success for its new Machine Learning System-on-Chip (MLSoC) Platform using Synopsys’ design,"
     publishedDateTime: 2022-08-30T13:06:00Z

@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-31T18:56:00Z
 originalUrl: "https://ca.investing.com/news/stock-market-news/california-passes-bill-targeting-teslas-full-selfdriving-program-432SI-2760776"
 webUrl: "https://ca.investing.com/news/stock-market-news/california-passes-bill-targeting-teslas-full-selfdriving-program-432SI-2760776"
 type: article
+quality: 19
+heat: 19
+published: false
 
 provider:
   name: Investing.com

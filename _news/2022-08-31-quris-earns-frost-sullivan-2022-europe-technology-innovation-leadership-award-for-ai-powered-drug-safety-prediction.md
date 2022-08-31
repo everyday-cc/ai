@@ -29,6 +29,17 @@ images:
     height: 366
     isCached: true
 
+related:
+  - title: "Quris Earns Frost & Sullivan 2022 European Technology Innovation Leadership Award For AI-Powered Drug Safety Prediction"
+    excerpt: "Quris Earns Frost & Sullivan 2022 European Technology Innovation Leadership Award for AI-Powered Drug Safety Prediction Analysts found that the Q"
+    publishedDateTime: 2022-08-31T19:19:00Z
+    webUrl: "https://menafn.com/1104789064/Quris-Earns-Frost-Sullivan-2022-European-Technology-Innovation-Leadership-Award-For-AI-Powered-Drug-Safety-Prediction"
+    type: article
+    provider:
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 0
+
 secured: "ljKIyho9aNvn3DkY7e6qXAgAlAnaUJm+HZaQwrMbyvKLueSU8E0QjIW6T1NajKRCItEuprLfLc/TtusYVezvw6qyIX+LEERVRXa9ieiklXJoqtr2kzHcRx3sYIJJs27awL5VIMz67zRomRp3C/etXYGowCFY8axk4FH4TGfGg1hqaKtsBBCSVtckf7JEYtHZZjBsCaQ1eoHoTQjN2LfQtHuHL1rUxTkQtgCSznhWZY//Myu/6kGZZfQD+sobKXpYHdYbbHP88cLddsKeTPakf7xxgFcpWgm82oei2w5fPjz18b3lbrQwM7uVzYhkS9GvUFmqoYVk84eZqr23TJSDHKA9G7msnkmfbAMvblJhnzqjq6l+aIOuJE61zwenobpQvXhzhsfiC4T5Sj4jEotYaK1dkl0x21XcFCzr633aJ+Ru6H5R+7YWPfY1Et7XacQ/flerMSRm6hV//7PLZpK3DZvKiucB7UsFltSG9SYs1byMKYB7Oo02IvLFRqjbJCn4ZeYXFu1WenpvU+bMXTezoQ==;U5PIrZb2S0gwNnkn4acgCg=="
 ---
 

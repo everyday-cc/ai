@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-z
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/amp/"
 type: article
 quality: 91
-heat: 121
+heat: 131
 published: true
 
 provider:
@@ -63,6 +63,22 @@ related:
       - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/Vishal-Soni-Co-Founder-Lightbulb.ai_.jpeg"
         width: 350
         height: 470
+        isCached: true
+  - title: "Soaking up the sun with artificial intelligence"
+    excerpt: "The sun continuously transmits trillions of watts of energy to the Earth. It will be doing so for billions more years. Yet, we have only just begun tapping into that abundant, renewable source of energy at affordable cost."
+    publishedDateTime: 2022-08-31T20:39:00Z
+    webUrl: "https://techxplore.com/news/2022-08-sun-artificial-intelligence.html"
+    ampWebUrl: "https://techxplore.com/news/2022-08-sun-artificial-intelligence.amp"
+    cdnAmpWebUrl: "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-sun-artificial-intelligence.amp"
+    type: article
+    provider:
+      name: techxplore
+      domain: techxplore.com
+    quality: 57
+    images:
+      - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/soaking-up-the-sun-wit.jpg"
+        width: 1600
+        height: 900
         isCached: true
   - title: "Yellow.ai named to Constellation ShortList for Conversational AI for Q3 2022"
     excerpt: "Powered by Dynamic AI agents, Yellow.ai enables businesses to offer enriching, delightful, and personalized interactions with their customers and employees across their preferred choice of channel, language,"

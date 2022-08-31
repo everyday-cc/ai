@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-31T18:55:00Z
 originalUrl: "https://www.forbes.com/sites/cindygordon/2022/08/31/customer-intelligence-growth-only-accelerates-with-happiness-intelligence-foundations/"
 webUrl: "https://www.forbes.com/sites/cindygordon/2022/08/31/customer-intelligence-growth-only-accelerates-with-happiness-intelligence-foundations/"
 type: article
+quality: 25
+heat: 25
+published: false
 
 provider:
   name: Forbes

@@ -3,25 +3,25 @@ category: news
 title: "Self-driving cars: A primer"
 excerpt: "Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won’t drive at all."
 publishedDateTime: 2022-08-28T19:02:00Z
-originalUrl: "https://whnt.com/automotive/self-driving-cars-a-primer/"
-webUrl: "https://whnt.com/automotive/self-driving-cars-a-primer/"
-ampWebUrl: "https://whnt.com/automotive/self-driving-cars-a-primer/amp/"
-cdnAmpWebUrl: "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/automotive/self-driving-cars-a-primer/amp/"
+originalUrl: "https://www.wivb.com/automotive/self-driving-cars-a-primer/"
+webUrl: "https://www.wivb.com/automotive/self-driving-cars-a-primer/"
+ampWebUrl: "https://www.wivb.com/automotive/self-driving-cars-a-primer/amp/"
+cdnAmpWebUrl: "https://www-wivb-com.cdn.ampproject.org/c/s/www.wivb.com/automotive/self-driving-cars-a-primer/amp/"
 type: article
 quality: 44
 heat: 44
 published: false
 
 provider:
-  name: WHNT
-  domain: whnt.com
+  name: WIVB-TV
+  domain: wivb.com
 
 topics:
   - AI in Autos
   - AI
 
 images:
-  - url: "https://whnt.com/wp-content/uploads/sites/20/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280"
+  - url: "https://www.wivb.com/wp-content/uploads/sites/97/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280"
     width: 1280
     height: 855
     isCached: true
@@ -85,6 +85,6 @@ related:
       domain: bizjournals.com
     quality: 3
 
-secured: "oGjQC9Q//CYlwd5PgOaapCOz2mTrJPQVBWvowFJ2zcBm9ak5LcGJFU+xYQX3M2EIlyVfFxFIIjhoKFVunbGc58q9yMT0wdJ9GwfIuTsCIKox8m8zURCkjNkC3+Osp3O4eemTvG6BeWtc8SNTqvo5QdQtu0dxtV7hVLNjUwMUrHuICVCvw2XGFMnjNOfyYFGENJZxkWfdlGOpXOTxde7cFZVT5JXfMQo+3FCft3bfqbdCi+06GjeeLJXPVkFBz6eu7f3zKbSMwPaS7WLHtsouG/ZfmFwZP+j1hca+J9IuWTssf0K0kzttwFdaWs1upB9B8MHnCk4bjdvrUUSCREEPNzvMY7J58Om12zvlqbQGL11g3SaRkxNXWo8QxwUkQadkzIzRXQM44c7Zvis876xx2ID23sywrCUZXDXodKES4Y82Ma9nJ7Zi1w28BGRDuE+x9p6qfeIM47wO5iXydNDh+DRPzvYCHec10GRUcPwWD+S5yL8qLPgwHhWj0XLekOTRfvCsawtOets9B7936mwAkg==;4znOUfdQnialQG9H3wJ5jA=="
+secured: "dtR1qEYqCrtHz0DE/hoSF9G9RcdxhNDQGQYdouUgvu+QqSiADqSfYrm2zI24Bd1A6FJxKwvHkCta6rL6738dXaiH/KXHzXxpls8lI+XvApIiRxY+++4SFlnntVMpSV86CHK8cwoHEhGdL6cwv0DgmD9n9RXVWt3qUZyRJiIgE0XdR6Fvm12qzKTpfpksZGWSmxJnGp8w1AvConCq91tGnzX02ETdDBj2Zto+NfPH2++9tERFE/svcTTTKodQocrGFB0KheLMJHHwQFKSJ0DffZ5bQWy5jCNMjxK8GX52zFvi7zYDjeqoNp5HSppnNso6G4JCscaVjh0Z5VKqu9SE/EVNo/O1nKTgJ11vHYK2rUQ=;jhugY6F4ImYwF27KV/HZCg=="
 ---
 

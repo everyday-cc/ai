@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-31T17:00:00Z
 originalUrl: "https://www.entrepreneur.com/article/432993"
 webUrl: "https://www.entrepreneur.com/article/432993"
 type: article
+quality: 47
+heat: 47
+published: false
 
 provider:
   name: Entrepreneur

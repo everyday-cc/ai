@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-31T18:03:00Z
 originalUrl: "https://techxplore.com/news/2022-08-recognition-drivers-hard-soft-intentions.html"
 webUrl: "https://techxplore.com/news/2022-08-recognition-drivers-hard-soft-intentions.html"
 type: article
+quality: 5
+heat: 5
+published: false
 
 provider:
   name: techxplore

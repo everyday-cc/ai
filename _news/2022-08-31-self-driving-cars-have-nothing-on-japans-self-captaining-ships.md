@@ -28,16 +28,16 @@ related:
   - title: "Self-driving cars: A primer"
     excerpt: "Self-driving cars are part of an uncertain future, but automakers have signaled they are constantly moving to a day when at least some of us won’t drive at all."
     publishedDateTime: 2022-08-28T19:02:00Z
-    webUrl: "https://whnt.com/automotive/self-driving-cars-a-primer/"
-    ampWebUrl: "https://whnt.com/automotive/self-driving-cars-a-primer/amp/"
-    cdnAmpWebUrl: "https://whnt-com.cdn.ampproject.org/c/s/whnt.com/automotive/self-driving-cars-a-primer/amp/"
+    webUrl: "https://www.wivb.com/automotive/self-driving-cars-a-primer/"
+    ampWebUrl: "https://www.wivb.com/automotive/self-driving-cars-a-primer/amp/"
+    cdnAmpWebUrl: "https://www-wivb-com.cdn.ampproject.org/c/s/www.wivb.com/automotive/self-driving-cars-a-primer/amp/"
     type: article
     provider:
-      name: WHNT
-      domain: whnt.com
+      name: WIVB-TV
+      domain: wivb.com
     quality: 44
     images:
-      - url: "https://whnt.com/wp-content/uploads/sites/20/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280"
+      - url: "https://www.wivb.com/wp-content/uploads/sites/97/2022/08/chevrolet-bolt-ev-cruise-automation-test-mule-in-san-francisco_100565635_h.jpg?w=1280"
         width: 1280
         height: 855
         isCached: true

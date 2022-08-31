@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-31T18:36:00Z
 originalUrl: "https://www.givemesport.com/88054639-world-cup-kits-artificial-intelligence-creates-a-shirt-for-all-32-teams"
 webUrl: "https://www.givemesport.com/88054639-world-cup-kits-artificial-intelligence-creates-a-shirt-for-all-32-teams"
 type: article
+quality: 16
+heat: 16
+published: false
 
 provider:
   name: GiveMeSport

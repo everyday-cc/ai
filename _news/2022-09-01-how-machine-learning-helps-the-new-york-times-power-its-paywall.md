@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-31T19:40:00Z
 originalUrl: "https://venturebeat.com/ai/how-machine-learning-helps-the-new-york-times-power-its-paywall/"
 webUrl: "https://venturebeat.com/ai/how-machine-learning-helps-the-new-york-times-power-its-paywall/"
 type: article
+quality: 49
+heat: 49
+published: false
 
 provider:
   name: VentureBeat

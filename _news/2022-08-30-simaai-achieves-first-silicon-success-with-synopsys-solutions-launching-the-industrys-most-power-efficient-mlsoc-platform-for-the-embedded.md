@@ -19,6 +19,15 @@ topics:
   - AI
 
 related:
+  - title: "SiMa.ai Ships ML SoC Platform for Embedded Edge Applications"
+    excerpt: "Edge machine learning company SiMa.ai today announced it has begun shipping what the company said is the industry’s first purpose-built software-centric machine learning system-on-chip platform for the embedded edge – the MLSoC."
+    publishedDateTime: 2022-08-31T19:01:00Z
+    webUrl: "https://insidehpc.com/2022/08/sima-ai-ships-ml-soc-platform-for-embedded-edge-applications/"
+    type: article
+    provider:
+      name: insideHPC
+      domain: insidehpc.com
+    quality: 36
   - title: "Arteris Collaborates with SiMa.ai to Optimize ML Implementation With Efficient Topology Interconnect IP for the Embedded Edge"
     excerpt: "Arteris interconnect IP capabilities enable SiMa.ai’s SoC and ML accelerator IPs to connect seamlessly and efficiently, which is critical to delivering a push-button experience that SiMa.ai customers need."
     publishedDateTime: 2022-08-30T12:02:00Z
