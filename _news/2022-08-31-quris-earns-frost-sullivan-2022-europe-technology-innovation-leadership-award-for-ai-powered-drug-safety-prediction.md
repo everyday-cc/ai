@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-31T12:07:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/quris-earns-frost-sullivan-2022-europe-technology-innovation-leadership-award-for-ai-powered-drug-safety-prediction-1031715941"
 webUrl: "https://markets.businessinsider.com/news/stocks/quris-earns-frost-sullivan-2022-europe-technology-innovation-leadership-award-for-ai-powered-drug-safety-prediction-1031715941"
 type: article
-quality: 26
-heat: 26
+quality: 48
+heat: 48
 published: false
 
 provider:
@@ -21,7 +21,14 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - Facebook AI
 
-secured: "khtkYplnCd2qS+uv85VM9M9lQEZrwQVW0/7uaFlGhIgcrI46Xeg0fhui3XGWlBCv5BkKNl9+nC288BZmO/0P1Gy11YGAn2Oa0coGc1Ij6gMaTmX/Okxn3PygQbRRTt30YCDGj86pbUChDFgAMERzUChW2Eu7eifnrWMB3h8YarTcko7DVXgFVvOQjy+vxrwK551Riql7WeRqPmUEyZVMtYgpWLqLHqMYIHrccDyoEhTMBJDH8BtAWHIeyvRz1RlDlH2svKsi4S9Nzb6abUEFq2YvHhythQaZ46aOAuCUKmVZqgrs8SckTg8yF18mnfm+jSQcHXN8KtnKgb3IgSaMDNQSN/wAyl3Dm45CMpopXMAKbuWDVqt79u9ZeeaBhagXrlrlR00u9NHVx2EjbFm//xaZoezxQkaZ4dzp+sWNrrlxS7O3SjrlvmoI2Wzya29g0UQ9vNl4kOT27MhtGllH7dt1gZOrKTT2m7AKrJBNlsXsLgbNRLICNbQwZlZs8utES4SAtmYK7iU3t24Wi0BHxA==;iW9qsjo3/o4hjhFejuGlog=="
+images:
+  - url: "https://mma.prnewswire.com/media/1887364/Quris_Technologies_Award_Logo.jpg"
+    width: 400
+    height: 366
+    isCached: true
+
+secured: "Wyi7pOccEGGkkBc7q5QKhadPXWp8T/RU4fumQXAFdOZmqELUezalR6P/emVZjcqA/B3QV0+b5dgBlxpqvqQ+2eevpXLoz0t2/XjCVWq1WolMHUXQoOTjEMewXits769I2rHANrtaYywQmA0IUhT5xkbrWUPhqlowJwTk1geCiRLpX+8cqiH5R2X4QKAl/fIvS3RlJHyzJDHbCm6XIgRLwVJ6cQq4iYooro3YwwSEtIcZzhLrv4QIni2/lLSUpqgctSgrCwU0HwqRBm+HCGq8Hp+St3ab4F0pWzji5U2AES3cTD0ZRuA/YKMGRIZ0GKNTblvdnwbXnlYfzvePfV8wTJbVwKl+KfDmCo6KP00npB8=;1aheM7iC5nEIUR7jRKGMTg=="
 ---
 

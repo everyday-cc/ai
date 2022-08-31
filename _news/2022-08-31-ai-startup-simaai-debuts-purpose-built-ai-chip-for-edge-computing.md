@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purp
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/"
 type: article
 quality: 106
-heat: 176
+heat: 186
 published: true
 
 provider:
@@ -117,6 +117,15 @@ related:
       name: Design-Reuse
       domain: design-reuse.com
     quality: 9
+  - title: "Allegro DVT Partners with SiMa.ai to Optimize Power Efficiency for Embedded Edge Applications"
+    excerpt: "Seamless power optimization is critical for computer vision applications at the edge. With Allegro DVT's Encoder and Decoder IPs, SiMa.ai's customers can achieve high performance with low power without compromising efficiency or ease of use across markets such as smart vision,"
+    publishedDateTime: 2022-08-31T16:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/08/31/9665078.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
 
 secured: "g4u9pmCJ6kAEzH1FNP8MRqbuHR7ng27YuLx9ppIBpotOfYMo6QcVqVgvufPivp9i7qfSpP4XBRVE4uJWkzIuA7hS1ejYtxY5zOqfZYuNXtiazlSyNFlEPy1BwBNpp/EBdDruWElvUzoAo7lSkRegEhiPJdiifSytoxHRi2ZJsu3H8Zr61B4pl3VbnbGZaWchxPmjNPU2vYNaUd5v7/r9NqxXpuVEBDGLncflzud2b3H4iKNKR9sAd75wcqD1RLSZ7XGQoU3fW85LOp9/oI07l0Yr7+Lv74jZMLrdOc7AxCaFVN0vxyDy8geQbHkuKfRM6QpaSYExZQ1dP1XPmiI7wH9yRxhy4JeCvAVy97MCSqXpWlIAZ8bgb++ZoaPpq80kJbiwYB6Q4vbU8jG2cS+eOENsAXFmJZdBoczgTyka5CFLRX2JwwD3zEGmSKMob4GFdu2x1L6FFwz5dOmd/eot0UxE8Bw0bsYg8J6gePyGCK0iWgjPoclNEzkcIBZwgCv/SxeKTaS8XRJCSAoLKH3ygQ==;00W/3Eo6TH7/t6RpALCL2A=="
 ---

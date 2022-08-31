@@ -112,6 +112,15 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 21
+  - title: "Allegro DVT Partners with SiMa.ai to Optimize Power Efficiency for Embedded Edge Applications"
+    excerpt: "Seamless power optimization is critical for computer vision applications at the edge. With Allegro DVT's Encoder and Decoder IPs, SiMa.ai's customers can achieve high performance with low power without compromising efficiency or ease of use across markets such as smart vision,"
+    publishedDateTime: 2022-08-31T16:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/08/31/9665078.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
 
 secured: "+pJ/kI5jWcotrLxLuKCt5/gnuSMJ4DR/C2In6IKyPYu+XlvlpRimAFcP3votXSr3MKmRJAJpSIfEfpjV4n04zArbtvM5QJ5W2JRydH7H8L+lWx2FYanVr8DbFAxGtaZkPi5kgEvUpxwR9xX3ndGscCI/eHVLWfOne5xJoxVwD+ZL3vNxCZ83Ur9uggm2E7aoYWaewQIH8Rqq/n635tyvpWSThkcOtez3Sz6HPdrJZnt9t9vx7OV/wrgLFgGs9jNKNLHLA6s+J8YAauGGJDJ5QKtqho2peE1RZ4X5Tp4GsYJYfWdpPxkajhjF6iXhEZXncjQyuEJ+Jq4limVLybV9yunwaKjyhBu0VEz/P54m7ww=;JxEcR4EOg56SKRLBl1S2NQ=="
 ---

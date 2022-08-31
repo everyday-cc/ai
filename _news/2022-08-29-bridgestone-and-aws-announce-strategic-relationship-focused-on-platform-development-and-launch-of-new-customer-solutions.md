@@ -38,6 +38,15 @@ related:
       name: freightwaves.com
       domain: freightwaves.com
     quality: 19
+  - title: "Bridgestone and AWS partner for platform development and customer solutions"
+    excerpt: "Corporation (Bridgestone) announced that the company is using Amazon Web Services, Inc. (AWS) as its strategic cloud provider in support of the company’s sustainable mobility solutions. Using AWS Internet of Things (IoT),"
+    publishedDateTime: 2022-08-31T09:24:00Z
+    webUrl: "https://rubberworld.com/bridgestone-and-aws-partner-for-platform-development-and-customer-solutions/"
+    type: article
+    provider:
+      name: Rubber World
+      domain: rubberworld.com
+    quality: 17
 
 secured: "7WnUJdtEtpQVyN4TO7SNL31QOtp7U2wSjEhbsCGOsUr8Dgj/FNPHfApj8WKvosmbTq0bGOmOQ0Mxi5Hg0aB2IWrJmDXGOiZAk+i0JI2n8T1dTms8ztmR7OwYNwzQNUCJwmh+u4mNwHK+R3guL4UAROgvN9Sirui987bF6AIlDynjqlkxwdelYNKIfnxcb+Z6DSA+/7EcTILUsINKD4m7EMJ0/kkctjfu/wmcoiWO/job19Y2q+Xj8qW3nJ5jKpLvgxeUvyhBoOsm40sTLM6iXyHLqsJNmnUIeypyCciXOTXJpnkyh8AUVSRc9HhqCjTzDvvgKdAeLkrQno64KDGKgOrTmKhzdjtEqnBwyo3+WL8=;4kVrEezGaav0UhaM9JIAxQ=="
 ---

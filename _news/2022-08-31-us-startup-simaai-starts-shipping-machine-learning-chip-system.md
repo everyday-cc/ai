@@ -114,6 +114,15 @@ related:
       name: Design-Reuse
       domain: design-reuse.com
     quality: 9
+  - title: "Allegro DVT Partners with SiMa.ai to Optimize Power Efficiency for Embedded Edge Applications"
+    excerpt: "Seamless power optimization is critical for computer vision applications at the edge. With Allegro DVT's Encoder and Decoder IPs, SiMa.ai's customers can achieve high performance with low power without compromising efficiency or ease of use across markets such as smart vision,"
+    publishedDateTime: 2022-08-31T16:04:00Z
+    webUrl: "https://www.tmcnet.com/usubmit/2022/08/31/9665078.htm"
+    type: article
+    provider:
+      name: TMCnet
+      domain: tmcnet.com
+    quality: 8
 
 secured: "q0+u0SjTo0A3zGBaJjAZ/R5PRph+UHdtJFjlBO/lk9789kQra4yKcntoQuRlx7v+YfMMuHT3KE+wpbW6q7KitmvymALtmy9ENN0k8+6vYQ/vl8aYgGxShciDnXXAkAQfhx2rA3oJxKMLZ+59ue2AKW+EWh9iZG5h6WyrI1Of5dqn3MTIEt/BSfOGPOkHZAuzgrj8Q+cxsQigoM/Id4Jg98JncCc06bJbq9apB9SAhruTvFV+pUQcLb19W0s0imzh/Vmw/1VXP2QV8pUKDfreYKhEowzzjHKHf3adY56dpbAp17f2pVsGLTP8fbjl4W1z8f0OagulkDcyzRmulupyqj5pRhzt7vP2lEfBsMztQm0fZziqNtqloRT3fx8IythFS0Uu0G7GVKBdFjZe+fgKM5PQfVc8O79/kg3zAS3L2adRq1p6XzJYaqDiSPWt28npDYVEqA4lcr/3OM8D2giWGdcYsxRh5nVb86r83UD3nHn0ETqAsC42z0mgoghEyXpzeBw6t9QHJaPx2y3gygnGyw==;8y4aBHgSiH1BiBQLB3t2Lw=="
 ---

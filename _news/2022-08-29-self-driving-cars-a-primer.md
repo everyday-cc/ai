@@ -41,6 +41,20 @@ related:
         width: 619
         height: 377
         isCached: true
+  - title: "More People Want Electric Cars Than Self-Driving Ones"
+    excerpt: "Ipsos' latest Mobility Navigator Study shows that while almost half of drivers (49%) say they're interested in an electric vehicle for their next car, only 31% would be interested in a fully autonomous,"
+    publishedDateTime: 2022-08-31T17:21:00Z
+    webUrl: "https://www.timesunion.com/news/article/More-People-Want-Electric-Cars-Than-Self-Driving-17410270.php?IPID=Times-Union-cars-headlines"
+    type: article
+    provider:
+      name: Times Union
+      domain: timesunion.com
+    quality: 24
+    images:
+      - url: "https://s.hdnux.com/photos/01/27/20/67/22875641/3/rawImage.jpg"
+        width: 1404
+        height: 1112
+        isCached: true
   - title: "Self-Driving Car Tech Forgotten by Automakers Is Still Kept Alive by Federal Agency"
     excerpt: "There was a time when the answer to how to make self-driving cars work was to design a singular technology that would allow every vehicle on the road to communicate with everything — other cars, pieces of infrastructure,"
     publishedDateTime: 2022-08-30T22:30:00Z

@@ -24,6 +24,22 @@ images:
     height: 205
     isCached: true
 
+related:
+  - title: "AIM Consulting Announces Databricks Partnership, Accelerating Its Ability to Offer Expert Implementation in Data and Artificial Intelligence (AI)"
+    excerpt: "AIM Consulting, an Addison Group Company, an industry award-winning technology consulting firm, today announced that they have added Databricks, data & AI leader and pioneer of the data lakehouse paradigm,"
+    publishedDateTime: 2022-08-31T16:08:00Z
+    webUrl: "https://apnews.com/press-release/newswire/technology-artificial-intelligence-99bc568f6ddf5b2266ad6e9719551d98"
+    type: article
+    provider:
+      name: Associated Press
+      domain: apnews.com
+    quality: 15
+    images:
+      - url: "https://apnews.com/images/PaidContent3.png"
+        width: 700
+        height: 450
+        isCached: true
+
 secured: "poI+/yPzlr8zsxPfP1NMy/VkPa3mg5qsm40d3QDsghq1CWGUT2z9BSMjwsZmnYud3gJPVTNIIN0Bl9zlE0cAbtDqpIAgnjxS/aoJ90sc/NTvFqPRInNAP0oP4Pqu+xohkCnuyGNcS8tos9fboboeE21xL0L3DHkrzn/0BwuvN9FpdILJ7r7/NycaZO4zpGQVK3YiGYKs91DoRqCKMrffEkuIakgzKDDLTiGmHTrStGEDjLkMV+wlN+iBT1EADrKOWXoMyOXvin46DSkTp51PDeltibdt416+SB/dvUT29uuu50+cAJOesh4sDPZsdpelEoHr5ecceI2lyY+j23qtqJOzKtmcEHGSuO0siifwaptPLfVdy8D7xt7YHKm0FLyRWza09iYthxndx3IwRvyCXe2tazNLcbCM0CRqYT8QsaLm/XQ7at8NgaFxEE7SXCtUZhIT8Dmy0dmlWj327a8m20mU2ht49zQpWAfiGfh+0kgWZFo1UjFFL+XX984Kam8p6JLW0rZYOT7SmiQz5lwTlg==;w08IAh9qUmzqcvQijDGvog=="
 ---
 

@@ -3,20 +3,18 @@ category: news
 title: "Amazon testing TikTok-style feed on its app, AI firm says"
 excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform"
 publishedDateTime: 2022-08-17T23:16:00Z
-originalUrl: "https://abcnews.go.com/Technology/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88514952"
-webUrl: "https://abcnews.go.com/Technology/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88514952"
-ampWebUrl: "https://abcnews.go.com/amp/Technology/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88514952"
-cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Technology/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88514952"
+originalUrl: "https://abcnews.go.com/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
+webUrl: "https://abcnews.go.com/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
+ampWebUrl: "https://abcnews.go.com/amp/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
+cdnAmpWebUrl: "https://abcnews-go-com.cdn.ampproject.org/c/s/abcnews.go.com/amp/Business/wireStory/amazon-testing-tiktok-style-feed-app-ai-firm-88517916"
 type: article
-quality: 57
-heat: -1
-published: false
 
 provider:
   name: ABC
   domain: abcnews.go.com
 
 topics:
+  - Facebook AI
   - AI
 
 images:
@@ -25,71 +23,6 @@ images:
     height: 558
     isCached: true
 
-related:
-  - title: "Amazon testing new TikTok-style feature on its app, AI firm says"
-    excerpt: "The feature, called Inspire, allows customers to like, save and share posts of products, and purchase items directly from the feed."
-    publishedDateTime: 2022-08-18T03:40:00Z
-    webUrl: "https://www.whas11.com/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
-    ampWebUrl: "https://www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
-    cdnAmpWebUrl: "https://www-whas11-com.cdn.ampproject.org/c/s/www.whas11.com/amp/article/news/nation-world/amazon-tests-new-tiktok-style-feature-on-feed/507-e76791a9-5da8-4b98-8918-2c3e19fa6049"
-    type: article
-    provider:
-      name: WHAS11 News
-      domain: whas11.com
-    quality: 59
-    images:
-      - url: "https://media.whas11.com/assets/CCT/images/e3e15506-7b16-49cb-8cc1-aff6d305ea71/e3e15506-7b16-49cb-8cc1-aff6d305ea71_1140x641.jpg"
-        width: 1140
-        height: 641
-        isCached: true
-  - title: "Amazon testing TikTok-style feed on its app, AI firm says"
-    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform.The"
-    publishedDateTime: 2022-08-21T17:14:00Z
-    webUrl: "https://whdh.com/entertainment/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says-2/"
-    ampWebUrl: "https://whdh.com/entertainment/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says-2/amp/"
-    cdnAmpWebUrl: "https://whdh-com.cdn.ampproject.org/c/s/whdh.com/entertainment/amazon-testing-tiktok-style-feed-on-its-app-ai-firm-says-2/amp/"
-    type: article
-    provider:
-      name: WHDH
-      domain: whdh.com
-    quality: 59
-    images:
-      - url: "https://whdh.com/wp-content/uploads/sites/3/2022/04/pexels-photo-3766218.jpeg?quality=60&strip=color&w=1024"
-        width: 1024
-        height: 682
-        isCached: true
-  - title: "Amazon testing TikTok-style feed on its app, AI firm says"
-    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."
-    publishedDateTime: 2022-08-19T23:05:00Z
-    webUrl: "https://www.star-telegram.com/news/nation-world/national/article264624466.html"
-    ampWebUrl: "https://amp.star-telegram.com/news/nation-world/national/article264624466.html"
-    cdnAmpWebUrl: "https://amp-star--telegram-com.cdn.ampproject.org/c/s/amp.star-telegram.com/news/nation-world/national/article264624466.html"
-    type: article
-    provider:
-      name: Fort Worth Star-Telegram
-      domain: star-telegram.com
-    quality: 39
-  - title: "Amazon testing TikTok-style feed on its app, AI firm says"
-    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."
-    publishedDateTime: 2022-08-21T04:42:00Z
-    webUrl: "https://www.myrtlebeachonline.com/news/business/national-business/article264624466.html"
-    ampWebUrl: "https://amp.myrtlebeachonline.com/news/business/national-business/article264624466.html"
-    cdnAmpWebUrl: "https://amp-myrtlebeachonline-com.cdn.ampproject.org/c/s/amp.myrtlebeachonline.com/news/business/national-business/article264624466.html"
-    type: article
-    provider:
-      name: The Sun News
-      domain: myrtlebeachonline.com
-    quality: 37
-  - title: "Amazon Testing TikTok-Style Feed On Its App, AI Firm Says"
-    excerpt: "Amazon appears to be getting the TikTok bug, joining other companies seeking to hold consumers’ attention by introducing replicas of the popular social platform."
-    publishedDateTime: 2022-08-19T16:19:00Z
-    webUrl: "https://www.news9.com/story/62ffb82b525191072cda0b1a/amazon-testing-tiktokstyle-feed-on-its-app-ai-firm-says"
-    type: article
-    provider:
-      name: News9
-      domain: news9.com
-    quality: 19
-
-secured: "JUv7FIyeVhxLaPitM8yQHq97rVe+foRITWhxaXj8SgGQ5vVE3mqJjZTGelJlBvY86lvk0lk0ZwBUt297hQFQI1gNvHyNBz7HUnea7iKB11aqE3t6KV+yRm+uEhmUMvmZe6vm8mp+8zAvz33upfeDEhrJ/ZukZEiWJwa138EDgwQOk+WKfsVBjaRG5o3C8xX1bYtRrd+WIs5wRzVqHoxZ8rT+dUyz23s8zMWpj3QUd91miWYHugDTOzoSpKxHkM/jkoSeTZKNxkClYjq0ca8/7nRtKqGPfwglxhpC954f9JSSViCDzLCmaWNP4plJgBrUgUhJ7gwYSsFab3I+3XxWUNRaJXyzUE1SyhUaKT9JzR6o3QwDJWrN1PRcMf5iESvzGif/JjnZtWhiXYhDq0WvZPdSn42vrA0ENv0gIgjCss0StNDimlxWUVadZtpXwJzm2Obrq8e4qoadAMo4m4OOxai3mvePWZI/kOnK/D0hujubu7ZQphcWcDrPEt1gFDojMa/S67X9FgoHO8JaU0kQ2w==;fC7572IxyXxyVqucsmahig=="
+secured: "Ib2tJQTRob/VsKH2wwbyKAlfvGE+GaXv5Rwh8b4W4V9InGOlMBmMkNI07vyuLqOOQETZ3t09bXlsafkryiaU4r3A7bqq9Y/60c/9UmH+IXq0WHM2UpPZU5kj7+ik0RN1X19UtVg6ikzVzNQdYxcNMIhVogpGDD893fm0Eh29L0LqWmtfHYZJSWRLX3QfzLeZwYtu0BI2JkqSrAnl+FnOaQ/JlKWgnhgiDHcjzVNs4CjVMRN49YgNAnPh/yBYC9TUFws7AcSrcA9YYXz+l4bpui1h3WYXLCn5xoW5GrtoQFfiU6YdrGNgtT7ZTnwy0cPidLk9xsYutrVP1aY+L8BEvTlYQQ+hq6Yxh9tB7jFhkaw=;YdIWo8+Y4SsiVg5FZhWA6g=="
 ---
 

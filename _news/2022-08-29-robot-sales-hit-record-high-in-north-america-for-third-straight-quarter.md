@@ -1,29 +1,23 @@
 ---
 category: news
 title: "Robot Sales Hit Record High in North America for Third-Straight Quarter"
-excerpt: "Association for Advancing Automation latest stats show the most robots sold in any quarter; automotive industry returns to historic norms, while food & consumer goods continues interest in automation to handle e-commerce logistics boom."
-publishedDateTime: 2022-08-29T15:16:00Z
-originalUrl: "https://www.automation.com/en-us/articles/august-2022/robot-sales-hit-record-high-north-america"
-webUrl: "https://www.automation.com/en-us/articles/august-2022/robot-sales-hit-record-high-north-america"
+excerpt: "For the third-straight quarter, robot sales in North America hit a record high, driven by a resurgence in sales to automotive companies and an ongoing need to manage increasing demand to automate logistics for e-commerce."
+publishedDateTime: 2022-08-29T13:18:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-robot-sales-hit-record-high-in-north-america-for-third-straight-quarter"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-robot-sales-hit-record-high-in-north-america-for-third-straight-quarter"
 type: article
-quality: 71
-heat: 81
-published: true
+quality: 51
+heat: -1
+published: false
 
 provider:
-  name: Automation
-  domain: automation.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Robotics
   - AI
   - AI in Sales
-
-images:
-  - url: "https://www.automation.com/getmedia/78715b12-b6e5-4559-9d38-61e4938d9b6f/Robots-news-Aug-29-2022-web.png?width=500&height=313&ext=.png"
-    width: 500
-    height: 313
-    isCached: true
 
 related:
   - title: "Robot Sales Surge Across North America, Q2 Sales up 25% to $585M"
@@ -41,6 +35,6 @@ related:
         height: 500
         isCached: true
 
-secured: "fc3W8i2INxF6x34u7uj/i/yU3rQdpRXEkjrzugfoMR3KQnUiLhUhJfi/ZiTywUxltAVD7tmqiX1ltCFF8Ggb7WxLpjJrHqVcfw3ngo38le/St0BcsaJsYEGZnPft1yGukVzgXQlSUPYeVCaxw273P0wNsAiz8P6kCXZ4SYpTjAlmf/PafDhNR6pla4gJQvaV9f5ef+zdHwwAixoOWhyEvz88fW7R3O1Tmd/nkB1jbXe6lH/L9RJ/UjFAp8lEuH9hitatRA0i5xxWSITdrobLAbsPi83XXz7ktyeLDdwgkbHhGa1LrrEgKzJCP863xuJeXU0bq9URWBR5G5xo9bq4h+kJyZPcukEStuf/BDJ/NFY=;v2J2hb1E8qEpMPx70BXgXQ=="
+secured: "SA0acrvg2dJ4yzb7AevoVUFTHk4/M9sKPnLl6+e/vwcn9ZBybUS7QJuctxyR0YoR8zZ5sKAr5m468UpOvruQLoEWg1kWdY1Sx+ttvYP6Swk/GB37jnxYirSRsZFUK2gXR2Rrwi21IaAjdz/q0oAWVVm3WlUrZtjdZ16famATC0IfjywxQRIuviLYo7+ZZ4bteN9IBb8kQqxDJZBieltMtff64hJFnqvsTJ1avtI0XswFzApvwmwLcYYnflPyOOlPn/tvRWtUv0kK6vC3QhbbmJmbpGeIVfsrD+vihRi7FDZzmOWJrBQJv062dcm81PueTwVk1CSwXQUk1nkZWZBi2dhwGVkgoLH0n/rb4Nd/jejLR7UU4uawLsTQk6s7Yjroib2lc9KgQLhnirmqm0d3mmUHjzPLZT3rfs0m02Hnn/o+VOw6Mi/YOiRB3eyh4pN2bl+/niHEWlUl8OSFC7lWsHMTjX1MafvP+CzfT7Xb/fRbUvlxkP20LbPV1+ho17UyzMLCYY+XrWGx8IDof/RhNw==;Chf95s1aI6gQcf8z5tp28Q=="
 ---
 
