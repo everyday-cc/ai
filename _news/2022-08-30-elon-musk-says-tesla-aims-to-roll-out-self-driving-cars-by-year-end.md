@@ -170,17 +170,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Elon Musk Hits Out At Beta Tester For “Complaining” About Full Self-Driving Beta"
-    excerpt: "Musk quickly clapped back at Locke on Twitter, telling him that he shouldn’t complain having previously asked to be included in early releases of Tesla’s Full Self-Driving beta software. “10.69 is in limited release for a reason."
-    publishedDateTime: 2022-08-26T16:00:00Z
-    webUrl: "https://www.carscoops.com/2022/08/elon-musk-hits-out-at-beta-tester-for-complaining-about-full-self-driving-beta/"
-    ampWebUrl: "https://www.carscoops.com/2022/08/elon-musk-hits-out-at-beta-tester-for-complaining-about-full-self-driving-beta/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/elon-musk-hits-out-at-beta-tester-for-complaining-about-full-self-driving-beta/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 34
   - title: "Elon Musk Says Full Self-Driving Will Be ‘Self-Driving’ This Year, Maybe"
     excerpt: "Elon Musk is sure that this is the year Tesla’s Full Self-Driving system finally learns to self-drive, Honda is investing $4.5 billion in a U.S. battery plant, and France will offer EV leasing for as little as $100 a month."
     publishedDateTime: 2022-08-29T14:30:00Z

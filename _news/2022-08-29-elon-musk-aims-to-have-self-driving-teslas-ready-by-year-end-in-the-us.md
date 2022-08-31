@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/technology/elon-musk-aims-have-self-drivin
 webUrl: "https://www.reuters.com/technology/elon-musk-aims-have-self-driving-teslas-ready-by-year-end-us-2022-08-29/"
 type: article
 quality: 83
-heat: 273
+heat: 263
 published: true
 
 provider:
@@ -166,17 +166,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Elon Musk Hits Out At Beta Tester For “Complaining” About Full Self-Driving Beta"
-    excerpt: "Musk quickly clapped back at Locke on Twitter, telling him that he shouldn’t complain having previously asked to be included in early releases of Tesla’s Full Self-Driving beta software. “10.69 is in limited release for a reason."
-    publishedDateTime: 2022-08-26T16:00:00Z
-    webUrl: "https://www.carscoops.com/2022/08/elon-musk-hits-out-at-beta-tester-for-complaining-about-full-self-driving-beta/"
-    ampWebUrl: "https://www.carscoops.com/2022/08/elon-musk-hits-out-at-beta-tester-for-complaining-about-full-self-driving-beta/amp/"
-    cdnAmpWebUrl: "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/elon-musk-hits-out-at-beta-tester-for-complaining-about-full-self-driving-beta/amp/"
-    type: article
-    provider:
-      name: Carscoops
-      domain: carscoops.com
-    quality: 34
   - title: "Elon Musk says Tesla aims to roll out self-driving cars by year end"
     excerpt: "Tesla is aiming to have its self-driving technology ready and widely available by the end of 2022, CEO Elon Musk announced Monday. Musk made the comments during an energy conference in Norway, saying the vehicles will not need human drivers."
     publishedDateTime: 2022-08-29T19:13:00Z

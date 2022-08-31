@@ -9,7 +9,7 @@ ampWebUrl: "https://www.nasdaq.com/articles/jack-henry-jkhy-to-unveil-financial-
 cdnAmpWebUrl: "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/jack-henry-jkhy-to-unveil-financial-crimes-defender-platform?amp"
 type: article
 quality: 54
-heat: 64
+heat: 54
 published: false
 
 provider:
@@ -19,24 +19,6 @@ provider:
 topics:
   - AI in Finance
   - AI
-
-related:
-  - title: "Jack Henry Announces Plan for Financial Crimes Platform"
-    excerpt: "Jack Henry™ (Nasdaq:JKHY) announced the development of Jack Henry Financial Crimes Defender™, the company's financial crimes platform."
-    publishedDateTime: 2022-08-26T16:47:00Z
-    webUrl: "https://www.crowdfundinsider.com/2022/08/195215-jack-henry-announces-plan-for-financial-crimes-platform/"
-    ampWebUrl: "https://www.crowdfundinsider.com/2022/08/195215-jack-henry-announces-plan-for-financial-crimes-platform/amp/"
-    cdnAmpWebUrl: "https://www-crowdfundinsider-com.cdn.ampproject.org/c/s/www.crowdfundinsider.com/2022/08/195215-jack-henry-announces-plan-for-financial-crimes-platform/amp/"
-    type: article
-    provider:
-      name: Crowdfund Insider
-      domain: crowdfundinsider.com
-    quality: 44
-    images:
-      - url: "https://www.crowdfundinsider.com/wp-content/uploads/2018/12/Handcuffs-Incarceration-Crime-Punishment.jpg"
-        width: 1280
-        height: 1100
-        isCached: true
 
 secured: "+SgHfsdUzIvsUfm9vIX2PnzhzqM2+0S6NzZuwBOsr9a4mzLtNkxn5MAH3B5TC/Cbv/hajk3+rtrO/w83zron/9/ihcCK9zJGthmnpZgrAS3DPWO5yeitU43XORw+Sm9yMbKvg04wRv1cFNA4/abxmEck/VADXWKn9B+jCCF85aWyVNgSaCa3lsH/k8QqX8Y+ze3AjwBnNlHbvcG/2vlaGgaFqXmTVELFb7kOLXsHusWPQb4VK/c1K1I7A0a/t1+0FxIjP9T8EEk9RlQRWRdVE+YMdozT5Q3TBg+h/DCZ/PK7XM6w33ZHh9CW8oCPPKfwufgt91cNpUrbtt5SNkp/KUMUv98v7BHDmR20L764MEI=;b6ul3XBDoUpVfghaUjrvEA=="
 ---

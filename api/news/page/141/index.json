@@ -2,6 +2,90 @@
   "page": 141,
   "value": [
     {
+      "path": "_news/2022-05-12-evisort-embeds-ai-into-contract-management-software-raises-100m.md",
+      "title": "Evisort embeds AI into contract management software, raises $100M",
+      "excerpt": "Join AI and data leaders for insightful talks and exciting networking opportunities. Register today! For lawyers and the organizations that employ them, time is quite literally money. The business of contract management software is all about helping to optimize that process,",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/05/11/evisort-embeds-ai-into-contract-management-software-raises-100m/",
+      "originalUrl": "https://venturebeat.com/2022/05/11/evisort-embeds-ai-into-contract-management-software-raises-100m/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/05/GettyImages-1185188027-e1651849778407.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/05/11/evisort-embeds-ai-into-contract-management-software-raises-100m/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/05/11/evisort-embeds-ai-into-contract-management-software-raises-100m/amp/",
+      "publishedDateTime": "2022-05-11T20:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-12-the-startup-scouting-platform-championing-corporate-innovation-with-ai.md",
+      "title": "The Startup Scouting Platform Championing Corporate Innovation with AI",
+      "excerpt": "Novable has developed an AI-powered platform that is able to directly access the best innovations no matter where it is happening in the world. The",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/the-startup-scouting-platform-championing-corporate-innovation-with-ai",
+      "originalUrl": "https://www.digitaljournal.com/pr/the-startup-scouting-platform-championing-corporate-innovation-with-ai",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-11T19:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-12-ai-philosophy-and-religion-what-machine-learning-can-tell-us-about-the-bhagavad-gita.md",
       "title": "AI, philosophy and religion: what machine learning can tell us about the Bhagavad Gita",
       "excerpt": "Using machine learning, we analysed meaning and feeling in different translations of an ancient Hindu holy text.",
@@ -1069,83 +1153,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-interrogating-the-perpetual-foreigner-ideology-in-the-language-of-the-dignity-act.md",
-      "title": "Interrogating the perpetual foreigner ideology in the language of the Dignity Act",
-      "excerpt": "The bill includes several other negative provisions: detaining families seeking asylum in processing centers on the border for up to 150 days; making “fraudulent representation concerning asylum” a federal crime punishable for up to 10 years ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.peoplesworld.org/article/interrogating-the-perpetual-foreigner-ideology-in-the-language-of-the-dignity-act/",
-      "originalUrl": "https://www.peoplesworld.org/article/interrogating-the-perpetual-foreigner-ideology-in-the-language-of-the-dignity-act/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.peoplesworld.org/wp-content/uploads/2022/05/citizenship960.jpg",
-          "width": 960,
-          "height": 556,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T09:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "People's World",
-        "domain": "peoplesworld.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-sas-viya-on-microsoft-azure-can-deliver-204-roi-according-to-independent-study.md",
-      "title": "SAS Viya on Microsoft Azure can deliver 204% ROI according to independent study",
-      "excerpt": "Organisations deploying SAS® Viya®, SAS’ cloud-native AI, analytic and data management platform, on Microsoft Azure can see",
-      "sourceUrl": null,
-      "webUrl": "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study",
-      "originalUrl": "https://www.businessghana.com/site/news/technology/262320/SAS-Viya-on-Microsoft-Azure-can-deliver-204%25-ROI-according-to-independent-study",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-11T09:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "BusinessGhana",
-        "domain": "businessghana.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI"
       ]
     }
