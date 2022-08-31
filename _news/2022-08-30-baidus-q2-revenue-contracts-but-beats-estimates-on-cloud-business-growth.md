@@ -38,6 +38,20 @@ related:
       name: U.S. News & World Report
       domain: usnews.com
     quality: 69
+  - title: "Baidu Swings Back to Profit Even as Revenue Slips"
+    excerpt: "In the three months through June, Baidu reported a net profit of 3.6 billion yuan ($526.9 million), compared with a 583 million yuan loss a year ago, according to its earnings report released on Tuesday."
+    publishedDateTime: 2022-08-31T11:47:00Z
+    webUrl: "https://www.caixinglobal.com/2022-08-31/baidu-swings-back-to-profit-even-as-revenue-slips-101933809.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
+    images:
+      - url: "https://img.caixin.com/2022-08-31/166194633088141_560_373.jpg"
+        width: 560
+        height: 373
+        isCached: true
 
 secured: "HDgjIFmbYLHTbOHm6A7if7uhEXA4UgELoS1nTIHkm1yhJdmR7Qdivunj5UaxN4zy85QHqVe7n8m4zP+7dU1d0Q+GnowKAFeS8FKsZwjMvnSwDb3ME2pX0NccllbIiCVRjAl5VM+34HfRR/Z8nqhTn3gtYllsDw0V2gORQ0uxcjYeG4DcfGOPH0j39QquSXfE7nasi4yK5S5pg4topEiO1IXlCqr56R/1UgEYNadT6N2B7CCiTM6/VWTDSeo56E91FJM3v6eK+1RLuQN8jmfjiP2JnF/VAuEtFT78cPS5JFiDzMrjpy1ELHW6Cjl7Z4388ev9JC3Lzp48p98xWEU/VCEbTwMpCBIvPAEHCV56KEtgvzi1GGhUwwHv6IF8KWedhmLuJ6k0It08Wgc+ShT6ZAoHPrCjrHleLmlaaVIvQa/pGm/r+Wsnx3f3CFUCRRUvRiXGrXWqjf1tWu37ZI3LzI4QfLrHcEmRQ+lvh67jzrH386En0paE4y9ew+hOwDB6EU0kdR2/X9TE3GvS/cB0Vw==;E6eSJ7WKDAers8GmUk6C8g=="
 ---

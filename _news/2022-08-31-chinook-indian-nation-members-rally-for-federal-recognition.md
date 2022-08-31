@@ -2,28 +2,28 @@
 category: news
 title: "Chinook Indian Nation members rally for federal recognition"
 excerpt: "Federal recognition would mean access to federal dollars for healthcare and housing for this group of tribes, which are based in Southwestern Washington."
-publishedDateTime: 2022-08-30T17:16:00Z
-originalUrl: "https://www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
-webUrl: "https://www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
-ampWebUrl: "https://www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
-cdnAmpWebUrl: "https://www-oregonlive-com.cdn.ampproject.org/c/s/www.oregonlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
+publishedDateTime: 2022-08-30T22:10:00Z
+originalUrl: "https://www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
+webUrl: "https://www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
+ampWebUrl: "https://www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
+cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: Oregonian
-  domain: oregonlive.com
+  name: MLive
+  domain: mlive.com
 
 topics:
   - Natural Language Processing
   - AI
 
 images:
-  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/BDPWLIXENRFN5FMNDB6TY6JQTM.jpg"
-    width: 3000
-    height: 2000
+  - url: "https://cloudfront-us-east-1.images.arcpublishing.com/advancelocal/LMMPTFFNCBH4FLHLG5BPF5DKTI.JPG"
+    width: 5184
+    height: 3456
     isCached: true
 
 related:
@@ -69,6 +69,6 @@ related:
       domain: q13fox.com
     quality: 24
 
-secured: "P52xYEWditjkZMWESInofUuWE+cE7cEUp0Eq91f9eWzpvzeqCQcml33huDkSM6k/2t8G3S7+TkTniEhAK6GPc14lnUcBSazM32HtbFMRWUU42bXC01fb08s4FAbbL1n6HujuD0lN27vqSi2H/XZFJVmHTTyH5uRFJt68Lq6ROAGSVK5lhKl9KhFsRftOKyTTBfUW8ZNEp2udAs7LMzGtV2q4geqKcLKupk8PGywab/w0rAZxL8mAqsk6I+VRGQu+mwRCTcvVOeGO7s6bPiJD9NJH4LaqYBuJSTXe3KG1DEy6TFciF9stb7d3LsQl8tI0DOYMF98R1SQ2Kd3s5qCE/ezzTkLDGeN41qGsdn1zq/A=;haV3kPSauDzV9n6QhybSDQ=="
+secured: "Eo8Y8AArBHM9XbBQUwyi1DMxFxx+LrsGaLTenz3K1fAIoSigzBlxkd950rnPF2QjlnYlhqdi20adDAGeI1yrAJnQRHLgbVUtkEGNV19Lv3sJlysp2SPll3kQ6re8msqTspvkaYeCyOWc7+fkV8n8iwAT4mMFoFbzJAmOdEWsTHt164Gk8Cz/yt0tlbcAle8U+uVq5u3KiSHHGu5GLWcN1N9mr4pELTBEomFgDGYORXeDxHlciFzaJeRnWz/q6WpvSmONEhhgKvxZJc3PX0Epo0/DdVakxanYwjoW0TkjbJsTmvqdALlKEt7duO8Hf0tWTZyQSKgJeEJYeYj4V9zAQn6HokeINKOqpIR1yFNDUZw=;ida2qyMmDy2VcmojZihZ1A=="
 ---
 

@@ -26,6 +26,17 @@ images:
     height: 664
     isCached: true
 
+related:
+  - title: "LPA partners with OpenRisk to enhance documentation digitization in markets"
+    excerpt: "\"With Contract Navigator, we can now offer advanced analytics, fully automated loan booking, data integration with REST APIs, a clause library to ease and speed up the negotiation and generation of trading agreements or any other type of financial markets documents."
+    publishedDateTime: 2022-08-31T10:10:00Z
+    webUrl: "https://financefeeds.com/lpa-partners-with-openrisk-to-enhance-documentation-digitization-in-markets/"
+    type: article
+    provider:
+      name: financefeeds
+      domain: financefeeds.com
+    quality: 2
+
 secured: "2yKC4L+HU39Ur8friyGDZuKZd1k/xQFfgZUOIJzzvYLaxGafz+h/L/A+MWmVCRSyHysnDPxFMo+wLi3aFT8/UmzYL7duwRB1cT95xeV2nc2BP3aFD2lI/VUwzHOsslieAfuI6FkcMFqehpyf8/B+k3kWV1cdMquGmXZ6AFkhw0nS4VEn8nqYxNfZmuAReF3pyoGcT6YTKJ6YmL6CmtDMsb1oOEPy331hpTGCQ3hiuyFs9pveCNGdtNQxYgbi1Zu744/4whyfJA/QfZuIwFYr2T4PvgFsWoX9Oeu92hw8uFgxXfR5f6gw8lbTqfDIYwXvfjSmNJi8RxKhC5x3sbTRnHQen0me5rjy9xbcWrgpsqI=;PxNLMfNnqMr/x3GtMH7p9g=="
 ---
 

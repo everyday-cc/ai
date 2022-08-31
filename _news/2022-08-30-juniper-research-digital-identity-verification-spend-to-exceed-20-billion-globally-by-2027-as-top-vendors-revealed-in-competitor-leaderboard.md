@@ -44,6 +44,15 @@ related:
       name: IT-Online
       domain: it-online.co.za
     quality: 4
+  - title: "Digital identity verification spend to exceed $20bn globally by 2027"
+    excerpt: "A new study from Juniper Research has found spend on digital identity verification checks will reach $20.8 billion (R351bn) globally in 2027; up from $11.6bn in 2022."
+    publishedDateTime: 2022-08-31T10:00:00Z
+    webUrl: "https://www.iol.co.za/business-report/economy/digital-identity-verification-spend-to-exceed-20bn-globally-by-2027-fcbb3f33-de24-4990-8f95-c72077836f6d"
+    type: article
+    provider:
+      name: IOL News
+      domain: iol.co.za
+    quality: 4
 
 secured: "WsmthZOcPU2US3Nqv+9ZHbjeZlqzTIai/NPpIceL5q/DvmTWUubAnn+F9ioRTkboveLPD2ThGilrRSYpQ4KjTKzIFIYSpBURBS7ANPmlFyOnLoZdbQYZo/waEF097hhVnwO0BiFxEY86I2WCO70rAWzXCKSBXZN0/zJpkXsgucSb8tttmiOnRHdipJjUSwDFPGdQR0NKDxEPRWTJeWIv3gyY5hwrbNKAj203A612jtAWl1P7cJAKxl4F7BqEvKTz2Q/40ho2oDHRjUvr6aKlLwlgLVUpcVtphnngdJqZ6wzmbFgPbJ6d7f29B0iSSu3LJ9lfxsupuXgSCS9HUSp0xcj8xPVAkICM7NlOr3Ec6QXYnLQ6a5lOhGk+1p0wtcVHzUFInKnUGAgm6wvjBNRaDsLKQOLmWCcZBlQz91Fbih4L5a0rdV10aWMyLYCGEkkGf41pqu4bvoW+l1/f4KW6eYAvzJexLVosX+9w6zw/Q2qVI6djo2ji7WysoDf3sujA6Tt9NXtIMv81I3sHg0TMvA==;x8gMVOGiFeGw1WhmfTPGmQ=="
 ---

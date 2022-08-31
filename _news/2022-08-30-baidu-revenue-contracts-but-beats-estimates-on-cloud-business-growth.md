@@ -9,7 +9,7 @@ ampWebUrl: "https://www.usnews.com/news/technology/articles/2022-08-30/baidu-bea
 cdnAmpWebUrl: "https://www-usnews-com.cdn.ampproject.org/c/s/www.usnews.com/news/technology/articles/2022-08-30/baidu-beats-quarterly-revenue-estimates?context=amp"
 type: article
 quality: 69
-heat: 79
+heat: 89
 published: true
 
 provider:
@@ -40,6 +40,20 @@ related:
       - url: "https://bsmedia.business-standard.com/_media/bs/img/article/2018-03/02/full/1519964042-5025.jpg"
         width: 620
         height: 464
+        isCached: true
+  - title: "Baidu Swings Back to Profit Even as Revenue Slips"
+    excerpt: "In the three months through June, Baidu reported a net profit of 3.6 billion yuan ($526.9 million), compared with a 583 million yuan loss a year ago, according to its earnings report released on Tuesday."
+    publishedDateTime: 2022-08-31T11:47:00Z
+    webUrl: "https://www.caixinglobal.com/2022-08-31/baidu-swings-back-to-profit-even-as-revenue-slips-101933809.html"
+    type: article
+    provider:
+      name: Caixin Global
+      domain: caixinglobal.com
+    quality: 39
+    images:
+      - url: "https://img.caixin.com/2022-08-31/166194633088141_560_373.jpg"
+        width: 560
+        height: 373
         isCached: true
 
 secured: "EjL7lzASIvdBobkqRYtUlOF0zhSHZSQAyl6iUrO0tVEfXaVKnMJ+AZOZyKQl3Fpt0D4crls/spbPPo7aWfp9tsuqVbbKZfzw05ap2l4l9/gYORnmeZhcuFQXc1xXYGYH6UxYSoby7Ctx2UA8ftWqyVi04JQR9+G4Xunzrwdvi4Wed7W19Vq8xG+kNuAzsKSseaqiHHeQJERn32YFZUWWdsvKME77TpraQ2NJECLTjcSvHKmk5/rry/PXdTBmUCVlOetCBq6zAao3nmlJ0Aqsoo/noVykAgVhbHX3aJc9K686dOToXH+17i4bQ1fGEV0m+6HBe5pgPd+alkvA97Qbhg5grlFZrN41xedNDm6EpELhsawfzYMYk2SPczvgfmxBgP07rNH1yetytiTZS3ZYP0CUHTlaWRki3+DfA39BCWLXAs5x4d6NNbA05mn/gdzbm2MJpRhT1Jsqhwq9iL3QLaALdi0gkBmHJLbhnoMmIddV91wGyI0k5Pt1ETCdyiV8m8q9JenMojeIUFh9lEbKuA==;8Tjzze1Nhq6fBjQYzBCdvg=="

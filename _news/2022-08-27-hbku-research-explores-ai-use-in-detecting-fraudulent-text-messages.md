@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-27T05:35:00Z
 originalUrl: "https://thepeninsulaqatar.com/article/27/08/2022/hbku-research-explores-ai-use-in-detecting-fraudulent-text-messages"
 webUrl: "https://thepeninsulaqatar.com/article/27/08/2022/hbku-research-explores-ai-use-in-detecting-fraudulent-text-messages"
 type: article
-quality: 41
-heat: 41
+quality: 43
+heat: 43
 published: false
 
 provider:
@@ -18,6 +18,7 @@ topics:
   - AI Ethics
   - AI
   - Natural Language Processing
+  - IBM AI
 
 images:
   - url: "https://thepeninsulaqatar.com/get/maximage/20220827_1661578994-203.jpg?1661578994"

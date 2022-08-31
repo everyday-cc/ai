@@ -39,7 +39,21 @@ related:
         width: 390
         height: 280
         isCached: true
+  - title: "Renesas to acquire Steradian for ADAS radar expertise"
+    excerpt: "Renesas Electronics Corporation has announced that it has entered into a definitive agreement to acquire Steradian Semiconductors Private Limited, a fabless semiconductor company based in Bengaluru, India,"
+    publishedDateTime: 2022-08-31T10:27:00Z
+    webUrl: "https://www.just-auto.com/dashboard/deals-dashboards/renesas-to-acquire-steradian-for-adas-radar-expertise/"
+    type: article
+    provider:
+      name: Just Auto
+      domain: just-auto.com
+    quality: 24
+    images:
+      - url: "https://www.just-auto.com/wp-content/uploads/sites/30/2022/07/renesas-chip-on-board1.jpg"
+        width: 1000
+        height: 700
+        isCached: true
 
-secured: "6ZUP4TB8t2Tt1/5f6N1Xrha5RUbu0d+EHct+yjdc+Pqmz5eqVYBD0oCgU4sHTlGC+8Ix3VCN1h0Y8xKFpVEGfNndH99CEDZvZxNxRQQWeHD/F94kn+WKrgeHqcY8GSuYIQ6xoh5IZI6IVyiwCYrQUAOwwNjPuXbIjlClWV/vRpNJrAlvovgj806B6PC27/d9BExHStM3pOf8bcZnSbia25HwdPz9K5HhhEl2r/+2C46zhnliBQyRUu1QBI8jgd7gxavClIbHc4r4SyBAl8W26dq3IKONFKh71vFhv+Kf2Xbe4CVm8xoZQWuf/ToX/TuBzPYtMLjNEuC6mXklu//Qbmg/kR+YxULBGQ/swXlqSb8=;J8Twsus1ztrPoUH34dX5NA=="
+secured: "C4YuIjcSVcNzsnu2MgwF+6OUfFD6XNS8EDMEFaJQ5TfXF7OQYyj3AAMxjHbe7vbmokrys5E/lLhUk55btGE1q/fu3x26fwpwJjvT5Wj9mLsElY90ZTN2NrnCESiA8Mnvc6Ug1qjc+tNuQcTUaP7OoVl/0QTAxW1e5diEZTJP6SmbaJMxdJVTzY9vjT77Yp9NYxQkFvm1cmd2fE4i0JxIb+cyA19Y3l4dRx+nAMekQgdnpFt/9SVgqFwXod3OMa8GU2VB5RPzicLrk11xhcBPU7fWTd+HzNGKPoXmmlZ4J99XwVHztC8u9tzueSUG+OBEAgD19y3T2hNEUF7yBbVMqnoHZSlr7ZUIIFNutCE0V+s+yErExeYhAi4aAxJNgOlJ3W/beymYhvROvkCiMGnQidiga4vfZk1uQUkYKWfaB2BYhgzw0TQ9U5mCrl6DOLqgYRb3B2hNXb7zzEXDOS4WA3wAQTjDzj+Ur2vqhH932NTeHWOQcRQBXww98wNchveu+qWkr+az3Ylt9UgojHiSmQ==;3SG2o6qxbPL0rDCfotdeRA=="
 ---
 
