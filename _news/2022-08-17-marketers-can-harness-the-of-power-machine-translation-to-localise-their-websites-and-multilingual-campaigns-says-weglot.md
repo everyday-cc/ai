@@ -1,22 +1,24 @@
 ---
 category: news
 title: "MARKETERS CAN HARNESS THE OF POWER MACHINE TRANSLATION TO LOCALISE THEIR WEBSITES AND MULTILINGUAL CAMPAIGNS SAYS WEGLOT"
-excerpt: "with Meta recently announcing its own AI translator tool for more than 200 languages. But there is still a reticence to use MT for marketing content because of often unproven prejudices that have ..."
-publishedDateTime: 2022-08-17T14:49:00Z
-originalUrl: "https://www.benzinga.com/pressreleases/22/08/n28536127/marketers-can-harness-the-of-power-machine-translation-to-localise-their-websites-and-multilingual"
-webUrl: "https://www.benzinga.com/pressreleases/22/08/n28536127/marketers-can-harness-the-of-power-machine-translation-to-localise-their-websites-and-multilingual"
-ampWebUrl: "https://www.benzinga.com/amp/content/28536127"
-cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28536127"
+excerpt: "MARKETERS CAN HARNESS THE OF POWER MACHINE TRANSLATION TO LOCALISE THEIR WEBSITES AND MULTILINGUAL CAMPAIGNS SAYS WEGLOT Aug (PRNewswire via"
+publishedDateTime: 2022-08-17T14:29:00Z
+originalUrl: "https://www.marketwatch.com/press-release/marketers-can-harness-the-of-power-machine-translation-to-localise-their-websites-and-multilingual-campaigns-says-weglot-2022-08-17"
+webUrl: "https://www.marketwatch.com/press-release/marketers-can-harness-the-of-power-machine-translation-to-localise-their-websites-and-multilingual-campaigns-says-weglot-2022-08-17"
 type: article
 
 provider:
-  name: Benzinga.com
-  domain: benzinga.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Natural Language Processing
   - AI
 
-secured: "bhOcHXRQFt1olhGpvPKIbwAKvPdbOibUNU2btyX2XFOKVc/rq0xgmWdSPM8+gH8aMZdjZ/3bxgD8S9JYTCiLuzlBxajgHjV2h/kjpYEUVDFIEVUfC9KRWZg0AMpNk0irCJbIlxJAUFehqiAqMuty1XsZsgaFhFyyKsa/HcxF9E2DC5uHXUTwArNIDaTphh687IVur30O+eF9cdn492Tu2E17rm9lbn2EyM3ep1JZxnnpPdOsnWUtEU3OftLK/rpdLDdqDcJmiD4F2wHE9ihPQXvNFylVooAq03Z5OFx2NPig3W0v2/eSnhqt1OBkyvoVpqQCuTYnERrQA/oEmTENgTOPm/zZ1Cnhqezyj49HyMY=;GfTQsmGsq3UckktFv5DVzw=="
+secured: "9uDXRIItfxxqUCLVcGXTG/l38dRgqy5DebvTvpspHEBQMrJq61LxF18vjGyJjOc5qPhwai6YTb2645hhLR6GVvwKAmVySv0gwHuk/7mXL/GPFN8DgGkS0jFMy/7w5T2cOZcI1hNlllp+0sHmfdodmE1mbnull5I45ScT4H+/VlHpaz9uLy+3k3WvF6pJgjlu539nr7WgRgFBnlsx0nB5DIWNV0uwP4wgyGZnBnxpLNjXLwtgy6q/jjSyxXtryuE45VXr73GjCsIEy0G6UHLi4hLBhR1eYVhNnvSiucvTN4v+8X/RqvIm0pafUmroWQzVBsVJG1g89bF3A1Q77N26/Bj0FD88YaXhK8PxHIRDfdU=;qaTclWpBxgQ45wVHxVwzGg=="
 ---
 

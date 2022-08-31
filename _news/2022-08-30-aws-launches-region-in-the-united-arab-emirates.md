@@ -1,29 +1,20 @@
 ---
 category: news
 title: "AWS Launches Region in the United Arab Emirates"
-excerpt: "AWS is committed to helping customers in the UAE deploy the most advanced cloud technologies and achieve the highest levels of security, availability, and resiliency,” said Prasad Kalyanaraman, vice president of Infrastructure Services at AWS."
-publishedDateTime: 2022-08-30T06:27:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
-webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
+excerpt: "(NASDAQ: AMZN), today announced the launch of its second Region in the Middle East, the AWS Middle East (UAE) Region. Starting today, developers, startups, entrepreneurs, and enterprises, as well as government,"
+publishedDateTime: 2022-08-30T07:42:00Z
+originalUrl: "https://www.tmcnet.com/usubmit/2022/08/30/9663810.htm"
+webUrl: "https://www.tmcnet.com/usubmit/2022/08/30/9663810.htm"
 type: article
-quality: 39
-heat: 39
-published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: TMCnet
+  domain: tmcnet.com
 
 topics:
   - AWS AI
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "oe+ZFUyDc1OjPsU9MtdLn+m4MCZOAaxZpjYiBVI6RjbZk6wPHSNJJF1WplI54mtz572svSws6ho+nwCLfGfvvqI7ArjKOEBmuvmjMkd7RuXYpzs/OQO2SCZFVslVmdE/UZwxmzzy06Nzsj9LyihmKJAavrJi29Aag8w7vikSi9n9/p2E/Kpohi02MmnT/KP+SuDFp1VDTUmZzzf0Ga7pxflDM20v+5kSv9PNrKNG+vdKy8vkN3KG/MnLBO1/ThGEhRDTLq5juzZdu0ZI2Priag0P0RDasE26p2jO6pcu6roqM+8TDTpZuIfEC/1VC9sBCk686F/F+ohZrjJd6b6UFWq/7FlG19n66gBjiCHmgVA=;ZNaY4sckfJh4Dfs9Z44EJQ=="
+secured: "Pn9LLHZ5SKMbt4r1BeVjraU5vH1HoTqNGR9LubGgXIEuGD6q+l+lgPd1mUm8TXLj7rzTrrhaZoIcU+p/crbua+xOHE121Am28HW8Q2GtdE3uhcY2df6ULtN75rk2PFBSKx4vtqCOl1jO0WUqHMFR4f4twM1nOQcNAHnhX2MqG6/9pyIcsenMqFUeWpeREPvkxz8xYqkrfX4y0kAVEcO1TFbEGYQiJftRO5YPef+PT+mZ4ys7wH9o0vWvy/9enU6H7Mv18wXG5NfuR9eyVh1OfleKy+qfZWNGR0/VJpYZ8gAp9wzMwAVQAc97O/ZqO5GlY9hk9r+wv7Wz+OS/rR+KzpxBPDiMYfhhDFM7BlJCbMU=;xxWN2AhB9wVAL+eIXiPzFA=="
 ---
 

@@ -3,14 +3,9 @@ category: news
 title: "Woman builds AI system to monitor her cats’ poop"
 excerpt: "Did I make an AI whose only purpose in life is to watch my cat’s poop?’ asks Estefanni in the video. ‘Will it come after me when the machines rise?’ The engineer spent two years designing a machine learning system to log her cats’ pooping habits,"
 publishedDateTime: 2022-08-31T09:42:00Z
-originalUrl: "https://metro.co.uk/2022/08/31/woman-builds-ai-system-to-monitor-her-cats-poop-17272501/"
-webUrl: "https://metro.co.uk/2022/08/31/woman-builds-ai-system-to-monitor-her-cats-poop-17272501/"
-ampWebUrl: "https://metro.co.uk/2022/08/31/woman-builds-ai-system-to-monitor-her-cats-poop-17272501/amp/"
-cdnAmpWebUrl: "https://metro-co-uk.cdn.ampproject.org/c/s/metro.co.uk/2022/08/31/woman-builds-ai-system-to-monitor-her-cats-poop-17272501/amp/"
+originalUrl: "https://metro.co.uk/2022/08/31/woman-builds-ai-system-to-monitor-her-cats-poop-17272501/?ico=tag-post-strip_item_3_news"
+webUrl: "https://metro.co.uk/2022/08/31/woman-builds-ai-system-to-monitor-her-cats-poop-17272501/?ico=tag-post-strip_item_3_news"
 type: article
-quality: 59
-heat: -1
-published: false
 
 provider:
   name: Metro
@@ -20,25 +15,6 @@ topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://metro.co.uk/wp-content/uploads/2022/08/cat-88fe.png?quality=90&strip=all&zoom=1&resize=600%2C338"
-    width: 600
-    height: 338
-    isCached: true
-
-related:
-  - title: "This Woman Created An AI System to Monitor Her Cat's Poop"
-    excerpt: "She then took thousands of pictures of her cats pooping, and fed the pictures to a machine learning system so that it could differentiate between Teddy and Luna."
-    publishedDateTime: 2022-08-30T21:03:00Z
-    webUrl: "https://gizmodo.com/cat-litter-robot-machine-learning-ai-raspberry-pi-poop-1849475626"
-    ampWebUrl: "https://gizmodo.com/cat-litter-robot-machine-learning-ai-raspberry-pi-poop-1849475626/amp"
-    cdnAmpWebUrl: "https://gizmodo-com.cdn.ampproject.org/c/s/gizmodo.com/cat-litter-robot-machine-learning-ai-raspberry-pi-poop-1849475626/amp"
-    type: article
-    provider:
-      name: Gizmodo
-      domain: gizmodo.com
-    quality: 67
-
-secured: "5185aPuFPVqBya8CV4dZwWFlIY9EQ/w2ZpRvr7CmZ1wjH8ByFosdZv80dHRDwvj15y/wp3I3PTg4SGfhS/XsiBBrw/OBqaBG7/pMgMPYXGLeCzMWzNm9CP7GKleFgR6azTfdORlFzeFGmOO5IH0aOMuK2j3trQvqNB2n7bYXZoSJc9VF0mv2wDpWpf1dYn/faMrw/PRFe6xaG26FFIZ5LLt4XyJlFsq3a1S4NW/OcaEPIcZ9R6ldLOPTDS+CDEe8zZ/3ODjM/odYHza75Hzq9FoH2+xL2ppIBz9YK7sCjd3OrTBVvq/gaKao2K15MiZ4RpDfdRiXS0UwnudnrD3yPGiXN6lCZHRrQ7qoK+bMVdM=;ag/LXvKZvjpBNM5CUmmzWg=="
+secured: "0i5Z0+UUWQVE5OadG6PWD8M2VxrT60PtBgWmMcu+bRQGargnFzFJEa7nVZt+cq05Hqab5rusjddSIC2XXAfBTwiNjJ1B5pr9amq3KQHmiPrlYPRuUy1US5pbnyYjTmx6e30ODErr49j/AppBI10eccQ07+Imi2Nfd9fIqZ0zCXjAN7r4qbT14pUeF4/MUzmseDibPBqRaCV3hY8ag2jahfYlJ/AeaEak+Td+XYzNvbBjtrzvNRkxRxAsgl+c/3/2g2ZBnfQhCYqRn9gtvRwc2PcuRYFjUDNT6nJVmRHi7zp7IZzNrZQI5XqLNacwTL6Mn/P3k4vWs6WQEKId8+8TzRnvUa4waDGUBSqT2m2wwQP9u369mBg2qUdbIHE/MfUa/YZHZZQ4C2q2Vm03st6kogo4g7OjG2psZGbD9uhALk2Na61OUAb+FLXySFzIbWCuPTrkcZV4gcafuLlJFxsiA+gEmlJckeAvylmTMMl+pQoNjWu5gi2E5w4YldgTct340j1KPbhnDROQ3iDZ7LFK/g==;Fbb/LpXM5vhaLqRPV2MGFg=="
 ---
 

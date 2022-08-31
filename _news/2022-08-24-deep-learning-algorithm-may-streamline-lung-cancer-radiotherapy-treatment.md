@@ -1,24 +1,20 @@
 ---
 category: news
 title: "Deep learning algorithm may streamline lung cancer radiotherapy treatment"
-excerpt: "Clinical validation of deep learning algorithms for radiotherapy targeting of non-small-cell lung cancer: an observational study. The Lancet Digital Health , 2022; 4 (9): e657 DOI: 10.1016/S2589 ..."
-publishedDateTime: 2022-08-23T23:59:00Z
-originalUrl: "https://www.sciencedaily.com/releases/2022/08/220824152208.htm"
-webUrl: "https://www.sciencedaily.com/releases/2022/08/220824152208.htm"
+excerpt: "More information: Hosny A et al. Clinical Validation of Deep Learning Algorithms for Lung Cancer Radiotherapy Targeting, The Lancet Digital Health (2022). DOI: 10.1016/S2589-7500(22)00129-7"
+publishedDateTime: 2022-08-23T22:32:00Z
+originalUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html"
+webUrl: "https://medicalxpress.com/news/2022-08-deep-algorithm-lung-cancer-radiotherapy.html"
 type: article
 
 provider:
-  name: Science Daily
-  domain: sciencedaily.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
-      width: 50
-      height: 50
+  name: Medical Xpress
+  domain: medicalxpress.com
 
 topics:
   - Machine Learning
   - AI
 
-secured: "IV1fAl4djIkV2BdTu67Hg5Q9T1Lbs4v8USmjL2ofAAF7Acrx4kqlDuhofRxLDuiXw+c6sG8odVWzcQI2kp8EQTjcCJkrHqWp0OKh1yiArBdulR4gu/XO1m2ohzaJGEB6Z7jOqd9qH6A4s9Ps4eqSM1NU2mtf+MrdJyp4yrog1ahETj94u7t/z6k03Tt2DQjzR87Zoe2Xbygu85z7krtgYlnafRiNHipvk+H8qbH3X/Dv6CYpBeQKRllP67Z0cIE1UVExQJBEhnkfgw+gTFHGFzup6SK19LPfXWPQFOO5stVSlK9PdnVqIaStYgwDvR7dTl00sKmJ9bVznECH92czOzUppi2QgaJgWu/pol5IGlQ=;9DHaHTwjGXvK4OH4W14jAA=="
+secured: "UgqF+WqHDRRoS+hXORbvZYU5iRyUGLZbHQqkDYrqg3vKDgpri48FFnaOTRgC7H65foUIswlq8kaCXJ8BDJuOyOb2WSVpZce5QV6NRIHkHY8s7VlnwCvBAeetVGzHcQ1okAISGRJhT+RuBrBt39qCeC1woIbrve13ErsCanDXibnvkk+E+A1aEdZPZCC9yXet+n34oofeeOj5dhIn78kWnuA0M05HaccLFrYyNnxurFSBBEr8KCQhJlwOeW4+KxygdnRql5whHmgLLwtawS+9YzZELxDRrD0BqER8RbzJgjszuzTAQSkyyzCdK1aAE3ewRxvMxSRJSbCHgQlpLRXzhG2AiQ6XbiYGRv6PV1d4bbw=;CogjLzyIL+LvfI11z1ynzQ=="
 ---
 
