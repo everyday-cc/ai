@@ -38,6 +38,17 @@ related:
       name: Fleet News
       domain: fleetnews.co.uk
     quality: 39
+  - title: "Self-Driving Car Tech Forgotten by Automakers Is Still Kept Alive by Federal Agency"
+    excerpt: "There was a time when the answer to how to make self-driving cars work was to design a singular technology that would allow every vehicle on the road to communicate with everything — other cars, pieces of infrastructure,"
+    publishedDateTime: 2022-08-30T22:30:00Z
+    webUrl: "https://jalopnik.com/self-driving-car-tech-forgotten-by-automakers-is-still-1849475361"
+    ampWebUrl: "https://jalopnik.com/self-driving-car-tech-forgotten-by-automakers-is-still-1849475361/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/self-driving-car-tech-forgotten-by-automakers-is-still-1849475361/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 18
   - title: "Self-Driving Cars Will Save Countless Lives"
     excerpt: "Policy-makers must keep up with technological developments in automobiles so that better cars can save lives.The black Mercedes-Benz sped south on L.A.’s La Brea Avenue at, allegedly, more than 90 miles per hour."
     publishedDateTime: 2022-08-30T13:21:00Z
@@ -48,23 +59,14 @@ related:
       domain: manhattan-institute.org
     quality: 4
   - title: "Don't trust self-driving cars? NC State researchers trying to change that"
-    excerpt: "If the idea of a self-driving car zooming down Interstate 40 and trying to reach the offramp at rush hour scares you, you’re not alone. But research happening at N.C. State may change your mind."
-    publishedDateTime: 2022-08-30T11:00:00Z
-    webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
+    excerpt: "If the idea of a self-driving vehicle zooming down Interstate 40 and trying to reach the offramp at rush hour scares you, you’re not alone. The autonomous vehicle market is projected to eclipse $724 billion by 2027, according to a report from Emergen ..."
+    publishedDateTime: 2022-08-30T12:00:00Z
+    webUrl: "https://www.bizjournals.com/triad/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
     type: article
     provider:
       name: The Business Journals
       domain: bizjournals.com
     quality: 3
-  - title: "Former Apple employer admits stealing trade secrets for self-driving car project"
-    excerpt: "An engineer who had access to information about Apple’s self-driving car project has pleaded guilty to stealing trade secrets about the project"
-    publishedDateTime: 2022-08-26T06:42:00Z
-    webUrl: "https://www.pulse.ng/business/local/former-apple-employee-admits-stealing-trade-secrets-for-self-driving-car-project/3cd8yyj"
-    type: article
-    provider:
-      name: Naija Gist - Latest
-      domain: pulse.ng
-    quality: 0
 
 secured: "oGjQC9Q//CYlwd5PgOaapCOz2mTrJPQVBWvowFJ2zcBm9ak5LcGJFU+xYQX3M2EIlyVfFxFIIjhoKFVunbGc58q9yMT0wdJ9GwfIuTsCIKox8m8zURCkjNkC3+Osp3O4eemTvG6BeWtc8SNTqvo5QdQtu0dxtV7hVLNjUwMUrHuICVCvw2XGFMnjNOfyYFGENJZxkWfdlGOpXOTxde7cFZVT5JXfMQo+3FCft3bfqbdCi+06GjeeLJXPVkFBz6eu7f3zKbSMwPaS7WLHtsouG/ZfmFwZP+j1hca+J9IuWTssf0K0kzttwFdaWs1upB9B8MHnCk4bjdvrUUSCREEPNzvMY7J58Om12zvlqbQGL11g3SaRkxNXWo8QxwUkQadkzIzRXQM44c7Zvis876xx2ID23sywrCUZXDXodKES4Y82Ma9nJ7Zi1w28BGRDuE+x9p6qfeIM47wO5iXydNDh+DRPzvYCHec10GRUcPwWD+S5yL8qLPgwHhWj0XLekOTRfvCsawtOets9B7936mwAkg==;4znOUfdQnialQG9H3wJ5jA=="
 ---

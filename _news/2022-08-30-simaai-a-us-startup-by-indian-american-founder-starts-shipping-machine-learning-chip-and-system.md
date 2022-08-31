@@ -27,45 +27,22 @@ images:
     isCached: true
 
 related:
-  - title: "US startup SiMa.ai starts shipping machine learning chips and systems"
-    excerpt: "Silicon Valley-based SiMa.ai, a machine learning startup backed by Fidelity Management & Research Company, said on Tuesday it started shipping chips and systems to customers that are testing them, an important step for mass production."
-    publishedDateTime: 2022-08-30T16:19:00Z
-    webUrl: "https://www.gadgetsnow.com/tech-news/us-startup-sima-ai-starts-shipping-machine-learning-chips-and-systems/articleshow/93886418.cms"
-    ampWebUrl: "https://www.gadgetsnow.com/tech-news/us-startup-sima-ai-starts-shipping-machine-learning-chips-and-systems/amp_articleshow/93886418.cms"
-    cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/us-startup-sima-ai-starts-shipping-machine-learning-chips-and-systems/amp_articleshow/93886418.cms"
+  - title: "The Labor Shortage Is Killing American Manufacturing. Here’s How AI Can Bring It Back To Life."
+    excerpt: "The manufacturing labor shortage has paved the way for widespread deployment of some very exciting innovations in Artificial Intelligence for manufacturing."
+    publishedDateTime: 2022-08-28T10:00:00Z
+    webUrl: "https://www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/"
+    ampWebUrl: "https://www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/amp/"
     type: article
     provider:
-      name: Gadgets Now
-      domain: gadgetsnow.com
-    quality: 91
+      name: Forbes
+      domain: forbes.com
+    quality: 75
     images:
-      - url: "https://static.toiimg.com/thumb/resizemode-4,msid-93886418,imgsize-93072,width-800/93886418.jpg"
-        width: 800
-        height: 532
+      - url: "https://imageio.forbes.com/specials-images/imageserve/630a2dd5ded4dcda937d1fd9/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
-  - title: "US startup SiMa.ai starts shipping machine learning chip, system"
-    excerpt: "The product, called MLSoC (machine learning system on chip), is designed to process video and images using machine learning and traditional computing on a single platform. It is designed for industrial robotics,"
-    publishedDateTime: 2022-08-30T20:25:00Z
-    webUrl: "https://www.itnews.com.au/news/us-startup-simaai-starts-shipping-machine-learning-chip-system-584645"
-    type: article
-    provider:
-      name: IT News For Australia Business
-      domain: itnews.com.au
-    quality: 71
-    images:
-      - url: "https://i.nextmedia.com.au/News/2022-08-30T130839Z_1_LYNXMPEI7T0IS_RTROPTP_4_CHIPS-SIMA.JPG"
-        width: 1000
-        height: 665
-        isCached: true
-  - title: "SiMa.ai Ships Purpose-built Machine Learning SoC Platform to Customers for Embedded Edge Applications"
-    excerpt: "SiMa.ai, the machine learning company enabling effortless deployment and scaling at the embedded edge, announced that it has begun shipping the industry’s first purpose-built software-centric Machine Learning System-on-Chip platform for the embedded edge – the MLSoC."
-    publishedDateTime: 2022-08-30T17:23:00Z
-    webUrl: "https://insidebigdata.com/2022/08/30/sima-ai-ships-purpose-built-machine-learning-soc-platform-to-customers-for-embedded-edge-applications/"
-    type: article
-    provider:
-      name: insidebigdata.com
-      domain: insidebigdata.com
-    quality: 21
 
 secured: "4qVKCA8U1UwYKX1RcM/EhWP8vu60YID9zqbhZfLgouxkhXu6zJYdg5xWo4WiNVbz6EVdrRaU7o0ZmYKAYtKCxq8tgVbTKzj6mgyQeic0H9p/Vbts39QKJjfsM0hrDdok2KEfchQgjgOaq2uuk5qzoWNvCLo32yD7S6fA4SjbQjIrZNjVDIuZbuVyw8cT/uRsfuyKwCumb2eTlvE3WYNqVsg+q0Pa3jbwejbUNSobJWAE+YK1aDqmmvP4eqyZofUT3tlgHPKRewcPvTWU1OM/WmJ2pR1k66x+rB8f8ecD6CkD6C1NJnQQB9Xyf3t3FyzdVqlOQgey9Z3ZJeNPsklKE8pbtcjvLzzKVjOnfjlmT+JVmwadppGaiAnjxVKPFAJzXdbxzpfdm4RknoiAn0awrGBjca96X3DMj6qgg+Ewxkhi5bW2QaT9jF/CQidYkNx5g7DvfE4Idq9kOZcUWIjlYQJwbrpOtj9n0hHb12e0+Qalwrg5ZYBLoC6f1uGkGZw2MYJpJUB/WgolwMaw2sVUAg==;NbztC/GF2oYoISl4Yy8jmg=="
 ---

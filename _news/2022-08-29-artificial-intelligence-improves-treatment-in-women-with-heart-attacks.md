@@ -37,7 +37,7 @@ related:
     provider:
       name: WNDU
       domain: wndu.com
-    quality: 61
+    quality: 63
     images:
       - url: "https://gray-wndu-prod.cdn.arcpublishing.com/resizer/Zjrp52IWw1kfNqZiri7HqgaeAvY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/T5PZWRAKHRDDNBCFVXCYT3H66Q.jpg"
         width: 800

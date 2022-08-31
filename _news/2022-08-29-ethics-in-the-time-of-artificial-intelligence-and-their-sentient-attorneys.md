@@ -9,7 +9,7 @@ ampWebUrl: "https://www.globalbankingandfinance.com/ethics-in-the-time-of-artifi
 cdnAmpWebUrl: "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/ethics-in-the-time-of-artificial-intelligence-and-their-sentient-attorneys/"
 type: article
 quality: 71
-heat: 72
+heat: 71
 published: true
 
 provider:

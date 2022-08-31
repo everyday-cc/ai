@@ -9,8 +9,8 @@ ampWebUrl: "https://www.gadgetsnow.com/tech-news/us-startup-sima-ai-starts-shipp
 cdnAmpWebUrl: "https://www-gadgetsnow-com.cdn.ampproject.org/c/s/www.gadgetsnow.com/tech-news/us-startup-sima-ai-starts-shipping-machine-learning-chips-and-systems/amp_articleshow/93886418.cms"
 type: article
 quality: 91
-heat: 121
-published: true
+heat: -1
+published: false
 
 provider:
   name: Gadgets Now
@@ -28,6 +28,22 @@ images:
     isCached: true
 
 related:
+  - title: "AI startup SiMa.ai debuts 'purpose-built' AI chip for edge computing"
+    excerpt: "The chip company places special emphasis on software innovations such as compiler optimization to improve performance."
+    publishedDateTime: 2022-08-30T22:31:00Z
+    webUrl: "https://www.zdnet.com/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/"
+    ampWebUrl: "https://www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/"
+    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/"
+    type: article
+    provider:
+      name: ZDNet
+      domain: zdnet.com
+    quality: 104
+    images:
+      - url: "https://www.zdnet.com/a/img/resize/880f030bba7a4480fe84f79f48a479e12de7a17e/2022/08/30/9a7626ba-c727-4205-8109-e0d5caf30154/sima-mlsoc-evaluation-board.png?width=1200&fit=bounds&format=pjpg&auto=webp"
+        width: 1200
+        height: 749
+        isCached: true
   - title: "US startup SiMa.ai starts shipping machine learning chip, system"
     excerpt: "The product, called MLSoC (machine learning system on chip), is designed to process video and images using machine learning and traditional computing on a single platform. It is designed for industrial robotics,"
     publishedDateTime: 2022-08-30T20:25:00Z
@@ -36,26 +52,21 @@ related:
     provider:
       name: IT News For Australia Business
       domain: itnews.com.au
-    quality: 71
+    quality: 73
     images:
       - url: "https://i.nextmedia.com.au/News/2022-08-30T130839Z_1_LYNXMPEI7T0IS_RTROPTP_4_CHIPS-SIMA.JPG"
         width: 1000
         height: 665
         isCached: true
-  - title: "SiMa.ai, a U.S. startup by Indian-American founder, starts shipping machine learning chip and system"
-    excerpt: "Silicon Valley-based SiMa.ai, a machine learning startup founded by Indian American, Krishna Rangasayee, and backed by Fidelity Management & Research Company, said on Tuesday, August 30, 2022, it started shipping chips and systems to customers that are testing them,"
-    publishedDateTime: 2022-08-30T14:18:00Z
-    webUrl: "https://www.newsindiatimes.com/sima-ai-a-u-s-startup-by-indian-american-founder-starts-shipping-machine-learning-chip-and-system/"
+  - title: "SiMa.ai Develops the Industry's First Purpose-Built Machine Learning System-on-Chip with TSMC's Power Efficient Technology"
+    excerpt: "SiMa.ai, the machine learning company enabling effortless deployment and scaling at the embedded edge, today announced it has delivered a software-centric MLSoC Platform that enables quick and Effortless ML experiences for the embedded edge,"
+    publishedDateTime: 2022-08-30T13:35:00Z
+    webUrl: "https://www.design-reuse.com/news/52562/sima-ai-machine-learning-system-on-chip-tsmc.html"
     type: article
     provider:
-      name: News India Times
-      domain: newsindiatimes.com
-    quality: 58
-    images:
-      - url: "https://www.newsindiatimes.com/wp-content/uploads/2022/08/2022-08-30T130839Z_1_LYNXMPEI7T0IS_RTROPTP_4_CHIPS-SIMA.jpg"
-        width: 6048
-        height: 4024
-        isCached: true
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 25
   - title: "SiMa.ai Ships Purpose-built Machine Learning SoC Platform to Customers for Embedded Edge Applications"
     excerpt: "SiMa.ai, the machine learning company enabling effortless deployment and scaling at the embedded edge, announced that it has begun shipping the industry’s first purpose-built software-centric Machine Learning System-on-Chip platform for the embedded edge – the MLSoC."
     publishedDateTime: 2022-08-30T17:23:00Z
@@ -65,6 +76,15 @@ related:
       name: insidebigdata.com
       domain: insidebigdata.com
     quality: 21
+  - title: "SiMa.ai Ships First Industry Leading Purpose-built Machine Learning SoC Platform to Customers for Embedded Edge Applications"
+    excerpt: "SiMa.ai, the machine learning company enabling effortless deployment and scaling at the embedded edge, today announced that it has begun shipping the industry’s first purpose-built software-centric Machine Learning System-on-Chip platform for the embedded edge – the MLSoC."
+    publishedDateTime: 2022-08-30T13:40:00Z
+    webUrl: "https://www.design-reuse.com/news/52563/sima-machine-learning-soc-platform.html"
+    type: article
+    provider:
+      name: Design-Reuse
+      domain: design-reuse.com
+    quality: 9
 
 secured: "RdKOT/WLdxN5NJLhcvXApqEvAUbgZu8WmPYcIHaZEm/V8K45pGp2J/NUFnD63VNUfQjjkfFR+1+aUg1q6/wLyf8gM8kSjkCRVppbgnEQpn5bIBy3cm0FFEKWzqf7zhhll6PXLeCHf5FMTl9aexzh5/mebSF4VDORcKUpcFiVlz1AG+9GbuAqM/Byd251E7oZ9my3IyfyT7SPTNhaLWGDLAQSZo2aJqYyJW6T51NET9odP0IUu6dkaH+/ZA8UTEUi/WnPEJ/kgsnfsyDPYvuziEWbO6hf6ckgii15uTDHMcwSiopCZbaqWiauiAWuS+nNQ8w+KoXtQjqQpwgIkWWV6uoHWW93Yq3CFToQKhWmTL/k7qg8kZb0uh4TvM0yEpMl1tpSvC7+04+wzGv5Ojd/mkGRmnTUo7pSJbbBb8aW9aQy86uIaC6CnkV2tLOzL3A0R8azFYuf6V7+T1odaCeu77CsWOiGLuQ+zzDPjkHau/p9Tol7gsP5Wu+nw5n6wxDLKiKyQ+eyQ2RBTtW4rYmpMw==;+kZ3SeLmaCzLPnmkR4b5Fw=="
 ---

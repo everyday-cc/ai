@@ -25,19 +25,19 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence for Edge Devices Market Is Projected To Thriving At A CAGR of 26.9% During 2022-2026 | 90 Report Pages"
-    excerpt: "Artificial Intelligence for Edge Devices Market gives a top to bottom and investigation-based organization. The report offers data about the overall business perspectives that imp"
-    publishedDateTime: 2022-08-26T05:14:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-for-edge-devices-market-is-projected-to-thriving-at-a-cagr-of-269-during-2022-2026-90-report-pages-2022-08-26"
+  - title: "Neural Network Software Market By New Business Developments, Innovations, Forecast To 2022-2031"
+    excerpt: "Increasing demand for predicting solutions and analytical tools is expected to drive the neural network software market” MarketsandMarkets forecasts the global neural network software market to expand from USD 7."
+    publishedDateTime: 2022-08-28T17:32:00Z
+    webUrl: "https://menafn.com/1104770214/Neural-Network-Software-Market-By-New-Business-Developments-Innovations-Forecast-To-2022-2031"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 41
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 27
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?432518"
+        width: 343
+        height: 250
         isCached: true
   - title: "Vision Screeners Market is expected to grow at a CAGR of 5.9% during the forecast period 2022-2029"
     excerpt: "Global vision screener sales are likely to near US$ 500 Mn by the end of 2022. According to a new research intelligence study presented by Future Market Insights (FMI), the Vision Screeners Market will continue to witness an average 5."
@@ -52,20 +52,6 @@ related:
       - url: "https://cdn.pharmiweb.com/media/1024/1200x448-pwjobs.png"
         width: 1200
         height: 448
-        isCached: true
-  - title: "Vision Screeners Market is expected to grow at a CAGR of 5.9% during the forecast period 2022-2029"
-    excerpt: "Global vision screener sales are likely to near US$ 500 Mn by the end of 2022. According to a new research intelligence study presented by Future Market Insights (FMI), the Vision Screeners Market will continue to witness an average 5."
-    publishedDateTime: 2022-08-30T08:46:00Z
-    webUrl: "https://www.fmiblog.com/2022/08/30/vision-screeners-market-is-expected-to-grow-at-a-cagr-of-5-9-during-the-forecast-period-2022-2029-9/"
-    type: article
-    provider:
-      name: Future Market Insights
-      domain: fmiblog.com
-    quality: 10
-    images:
-      - url: "https://www.fmiblog.com/wp-content/uploads/2022/08/Pet-Furniture-420x300.jpg"
-        width: 420
-        height: 300
         isCached: true
 
 secured: "x2YE2x9bspd7vZzqP7DK0QqID1DCBXtjriYHXKhHYP60patn8VQP/S2PDgvaB/+rbBUYIKrsRwb3pbx2JygP0JRQWrXTAt+H7w+ekmFddiV+DcsZIca/c0KXS6VwOc+dWrjGAYzz1VmtlDRAWYM2PjwjW3zmIzpfxJhsi34GwB9qNVp1RLWJhdIqMtuGqRihF2Mn90t9iVduMlOUTAwFCH1vaIJpSl2ZMBpjHAHN3iyKDMjAsfPVpWDZHwNPP3usgwlwGm9YyMbZhGlwV7BHFiSHN9yvt0g5X3I1mqszGuaIHcD2nreXkt65WrVz3x4raUC2sCvVV8x4gzGMrpA/eg7T0rUo4syS8sKc9l+o5lQ=;rSD4BKn0mBPnQ60WilLXjw=="

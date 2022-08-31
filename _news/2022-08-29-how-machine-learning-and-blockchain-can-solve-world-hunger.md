@@ -9,7 +9,7 @@ ampWebUrl: "https://www.freepressjournal.in/amp/education/how-machine-learning-a
 cdnAmpWebUrl: "https://www-freepressjournal-in.cdn.ampproject.org/c/s/www.freepressjournal.in/amp/education/how-machine-learning-and-blockchain-can-solve-world-hunger"
 type: article
 quality: 76
-heat: 79
+heat: 76
 published: true
 
 provider:

@@ -58,34 +58,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine learning Market Latest Trends, Size, Key Players, Revenue and Forecast 2022-2031"
-    excerpt: "A report on Machine learning Market was recently added by Kenneth Research into its database, which is aimed at"
-    publishedDateTime: 2022-08-26T05:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-latest-trends-size-key-players-revenue-and-forecast-2022-2031-2022-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Image Software Market Overview by Top Players, Segments, Demand and Forecast till 2028"
-    excerpt: "The Global Computer Vision Image Software Market 2022 that centers around Computer Vision Image Software market examines the significant components with a top to bottom methodology and empowers the client to survey the drawn-out based interest additionally predicts explicit executions."
-    publishedDateTime: 2022-08-26T05:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-image-software-market-overview-by-top-players-segments-demand-and-forecast-till-2028-2022-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Cloud Natural Language Processing Market 2022 historical, projected revenue figures, growth rate throughout the forecast period 2028"
     excerpt: "Global “ Cloud Natural Language Processing Market ” 2022 on sales, trends, outlook, current and future market overview and detailed search, value chain optimization, trade regulation, regional and national levels,"
     publishedDateTime: 2022-08-28T17:17:00Z

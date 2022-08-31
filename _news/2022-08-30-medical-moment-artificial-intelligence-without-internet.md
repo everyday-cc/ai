@@ -8,8 +8,8 @@ webUrl: "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-
 ampWebUrl: "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/?outputType=amp"
 cdnAmpWebUrl: "https://www-wndu-com.cdn.ampproject.org/c/s/www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/?outputType=amp"
 type: article
-quality: 61
-heat: 71
+quality: 63
+heat: 73
 published: true
 
 provider:
@@ -20,6 +20,7 @@ topics:
   - AI
   - AI in Autos
   - Facebook AI
+  - AI in Robotics
 
 images:
   - url: "https://gray-wndu-prod.cdn.arcpublishing.com/resizer/Zjrp52IWw1kfNqZiri7HqgaeAvY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/T5PZWRAKHRDDNBCFVXCYT3H66Q.jpg"

@@ -7,7 +7,7 @@ originalUrl: "https://apnews.com/press-release/business-wire/technology-c3498fdb
 webUrl: "https://apnews.com/press-release/business-wire/technology-c3498fdb031e45d4b5688eeb767c7567"
 type: article
 quality: 0
-heat: -1
+heat: 0
 published: false
 
 provider:
@@ -17,26 +17,6 @@ provider:
 topics:
   - AI Hardware
   - AI
-
-related:
-  - title: "SiMa.ai Develops the Industry’s First Purpose-Built Machine Learning System-on-Chip with TSMC’s Power Efficient Technology"
-    excerpt: "The SiMa.ai MLSoC, which is shipping to customers now, addresses any computer vision application and delivers a 10x better performance/watt solution – operating at the most efficient frames per second/watt."
-    publishedDateTime: 2022-08-30T13:05:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-30-simaai-develops-the-industrys-first-purpose-built-machine-learning-system-on-chip-with-tsmcs-power-efficient-technology"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 25
-  - title: "SiMa.ai Ships First Industry Leading Purpose-built Machine Learning SoC Platform to Customers for Embedded Edge Applications"
-    excerpt: "SiMa.ai, the machine learning company enabling effortless deployment and scaling at the embedded edge, today announced that it has begun shipping the industry’s first purpose-built software-centric Machine Learning System-on-Chip platform for the embedded edge – the MLSoC."
-    publishedDateTime: 2022-08-30T13:40:00Z
-    webUrl: "https://www.design-reuse.com/news/52563/sima-machine-learning-soc-platform.html"
-    type: article
-    provider:
-      name: Design-Reuse
-      domain: design-reuse.com
-    quality: 9
 
 secured: "kpenP9/0GkkHD58zYx4q18uW03/HMkrNoAZB9WWh/9XUYoEVhY+omGcS9uTTVvCF92F+M0gWwFzdwhPSUm20IuZWc1aBo2KznqImxK4zWauqO6Y8g8LechzS6wRzKEoaKEUlSC+qLDCEXCCuvlGRpK7jQqgHxo/cKwW62fhMaTL9aoTLp0cSbUk5sYE1TJ2AqF09HLtSRrF3MqYOxa6705x2JN/di1UcZV8Gp9MEe4SBhImsPTP+Kml6YuUykJYT63+lH7Q7Wy/YqANkx93tYK1SQy/KW3v7EvNEcJ3hAB0q3M93ebRm2R8w5WqNfsm9YkXtt7CqEyKsToTK4AO0cD9UNC/vMyoRxYppWTGxjfs=;bYkWr+30yZ/371i4oR6Jtw=="
 ---

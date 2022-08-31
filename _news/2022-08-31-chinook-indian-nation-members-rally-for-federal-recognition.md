@@ -2,19 +2,19 @@
 category: news
 title: "Chinook Indian Nation members rally for federal recognition"
 excerpt: "Federal recognition would mean access to federal dollars for healthcare and housing for this group of tribes, which are based in Southwestern Washington."
-publishedDateTime: 2022-08-30T21:14:00Z
-originalUrl: "https://www.al.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
-webUrl: "https://www.al.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
-ampWebUrl: "https://www.al.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
-cdnAmpWebUrl: "https://www-al-com.cdn.ampproject.org/c/s/www.al.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
+publishedDateTime: 2022-08-30T22:10:00Z
+originalUrl: "https://www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
+webUrl: "https://www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html"
+ampWebUrl: "https://www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
+cdnAmpWebUrl: "https://www-mlive-com.cdn.ampproject.org/c/s/www.mlive.com/native-american-news/2022/08/chinook-indian-nation-members-rally-for-federal-recognition.html?outputType=amp"
 type: article
 quality: 44
 heat: -1
 published: false
 
 provider:
-  name: al.com
-  domain: al.com
+  name: MLive
+  domain: mlive.com
 
 topics:
   - Natural Language Processing
@@ -69,6 +69,6 @@ related:
       domain: q13fox.com
     quality: 24
 
-secured: "ftol+Zzgql/GetfKylVf0FJyyTznN9mYddl/Ofa6LlMcbQg+sntRSFi3lY8Mp+/jRnECrTbDqk8cT7eLUTz5gQzuE/+adFc/Q4rYd858f3Klbz/qQGYTHLSkYWCiiIOTk6JyYdq3TeeiYVG02o1j311J27g5uAeUgBtiKcsogDjd497bhgc2ydgnz98yxU6RbM8fPCyW4ux/fT0K1afJD6ynOKy4qia/f4h2ToC471QRyqa+q2eyKxMGjyFJ/ULpsITm2VpM5UTGMEsUScVoaY526NKy2gBoqTQ+9d6An1qF4o4RtPar3iA/cV5g7T1lusvTQXGIk9XIqu882R56sY7aB9Yo2tAJV4ThuRDSDGA=;QebClT51xCv4hGC+ii+w+Q=="
+secured: "M0tYcsAo1iHy0LxksFkEN8hAPAQTpzIPR/igbtAqrwLbosKPa7Pf9R4yPXINjKafCEtbmaJOVZHeRCPcXau1KJW5FY+U1wd+DnCa/pnr64LXErBl3Vcw7V2OZhaUXaLSWy6F4XzbwhhFa/Wp3bkahBUa0/lBmXa5WNV31QeyfHyXPvZ05JHe8jXGwQJmaSoj21ackpkUkI4q+N8WK9iliBEMOFEZBMb13OtnlfsMJ1hi/Oe6xhAj+YnfAtktWuoW4hkPjrDvBy2L4pQds1JOQaZTUngOD7r5dSbn5xlenISVLj6AmOwVWNRekmZWtC+g6PPH4ALxqWgswhZHIjGjbFWqN6mpzRhU216y/slWU0c=;Nn/su4vONVfg54XFYMVdlA=="
 ---
 

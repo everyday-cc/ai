@@ -6,7 +6,7 @@ publishedDateTime: 2022-08-30T15:18:00Z
 originalUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Ghana-India-Kofi-Annan-Centre-of-Excellence-in-ICT-engages-industry-players-on-Artificial-Intelligence-1613327"
 webUrl: "https://www.ghanaweb.com/GhanaHomePage/NewsArchive/Ghana-India-Kofi-Annan-Centre-of-Excellence-in-ICT-engages-industry-players-on-Artificial-Intelligence-1613327"
 type: article
-quality: 23
+quality: 25
 heat: -1
 published: false
 
@@ -17,6 +17,7 @@ provider:
 topics:
   - AI in Healthcare
   - AI
+  - AI in Robotics
 
 images:
   - url: "https://cdn.ghanaweb.com/imagelib/pics/889/88956782.jpg"

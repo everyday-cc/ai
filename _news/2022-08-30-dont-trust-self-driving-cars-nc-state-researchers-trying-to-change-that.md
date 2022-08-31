@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Don't trust self-driving cars? NC State researchers trying to change that"
-excerpt: "If the idea of a self-driving car zooming down Interstate 40 and trying to reach the offramp at rush hour scares you, you’re not alone. But research happening at N.C. State may change your mind."
-publishedDateTime: 2022-08-30T11:00:00Z
-originalUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
-webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
+excerpt: "If the idea of a self-driving vehicle zooming down Interstate 40 and trying to reach the offramp at rush hour scares you, you’re not alone. The autonomous vehicle market is projected to eclipse $724 billion by 2027, according to a report from Emergen ..."
+publishedDateTime: 2022-08-30T12:00:00Z
+originalUrl: "https://www.bizjournals.com/triad/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
+webUrl: "https://www.bizjournals.com/triad/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
 type: article
 quality: 3
 heat: -1
@@ -46,6 +46,17 @@ related:
       name: Fleet News
       domain: fleetnews.co.uk
     quality: 39
+  - title: "Self-Driving Car Tech Forgotten by Automakers Is Still Kept Alive by Federal Agency"
+    excerpt: "There was a time when the answer to how to make self-driving cars work was to design a singular technology that would allow every vehicle on the road to communicate with everything — other cars, pieces of infrastructure,"
+    publishedDateTime: 2022-08-30T22:30:00Z
+    webUrl: "https://jalopnik.com/self-driving-car-tech-forgotten-by-automakers-is-still-1849475361"
+    ampWebUrl: "https://jalopnik.com/self-driving-car-tech-forgotten-by-automakers-is-still-1849475361/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/self-driving-car-tech-forgotten-by-automakers-is-still-1849475361/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 18
   - title: "Self-Driving Cars Will Save Countless Lives"
     excerpt: "Policy-makers must keep up with technological developments in automobiles so that better cars can save lives.The black Mercedes-Benz sped south on L.A.’s La Brea Avenue at, allegedly, more than 90 miles per hour."
     publishedDateTime: 2022-08-30T13:21:00Z
@@ -55,16 +66,7 @@ related:
       name: Manhattan Institute
       domain: manhattan-institute.org
     quality: 4
-  - title: "Former Apple employer admits stealing trade secrets for self-driving car project"
-    excerpt: "An engineer who had access to information about Apple’s self-driving car project has pleaded guilty to stealing trade secrets about the project"
-    publishedDateTime: 2022-08-26T06:42:00Z
-    webUrl: "https://www.pulse.ng/business/local/former-apple-employee-admits-stealing-trade-secrets-for-self-driving-car-project/3cd8yyj"
-    type: article
-    provider:
-      name: Naija Gist - Latest
-      domain: pulse.ng
-    quality: 0
 
-secured: "+U7oLADZb9pYREbgUKdn8n/9XkeR7ul9mIOPNjSL0zBiacsYb/2Upts0t/3jy3Xpi9CrsHINOfqTkCVeYc7HXocB2j8/uHqrt0iH4VT9jUWDRC2nOs2y7SNCYnt2T3g7mEvWhl7TIHFhLgOAnOzgXqXcFdxLDfzIoC4y39U0OgT+5veEn3DCf6wkpkyEDdQrRlaqlv8ZQ5Sn1N06jqLRclDS7+E+GbCostaZQVSftdLX9Ov64dF225NUrwG/rrd8s+A2a0pW3LgKGwyZCUPKapX0O0/9nt8Fj3O3S+oz6b+29Kb2EZahIQzb090jKcst0Wp+AlEKBslwQyZySXtdxEabbfV+HtlFZuzJYCXLmmsd+m/8CRmUKWy5KWND7bbx+Vh2C9MbugT1CQ3gBmp9LPXlcUAv2vlZEBsRuT0PDoFvoE6sZKzbVEWCbXZEQljg3IXtqCmHty2yjHcs7jElFjGCoGJajmcOzEYR5V2hAGg4RXGRDdImya/TBVEbx2BURA8oPq7S+FZ+mLrLOO4JRA==;MMBgxl7EeXfc1hTaM62qjA=="
+secured: "Z04pZSGzpnA2jaJaumEqQDDpDWcJmXzf2Py5jKlBDsYtB8P09MVa+JDvDmDNg+HnUEkjNKMq+njaJzSLuCW/0LaSI33kdeeOA9OihuE3sNud5GAUJ75FDBfgGfZagOTv50eoN6ueMPOZm7g5TWKu3eUXadIxwtx+AO+TqbkFLJYGVrfl8wmd+8978v/CU4KBFsWtgIjqsREiPh6JDGbmYnUM6/bcdBy0QNZK9woU8P9UlYD2P/L6PN/S34npGShlYuJWEhSlQ2gNfBN++6bO4bejsM18+Ck/6oz2w88KnytMS2/7o0pqcfOSNHAgOGo2KhOyB8q7KHWRJXLNdSqjxaNwpidV0xk93vKNq28k5pSTvktlok1VIeh7oaiTXuVWkX2BoYmjHo0cd8XULVUziUxC17Zg+8Vy1Ot/0LZm/bY4FcrS9tfCysvMvafK6gvb5hpCnHwOWpQrhMGm/GYUjyayyuZ8v72/6UbScVjis3VMGNJMrXJ9sx6j7fKj8paN3/Xz3mFbti9g8iLHRcaYFQ==;KwTHtBm7VoVGOzzk64erKA=="
 ---
 

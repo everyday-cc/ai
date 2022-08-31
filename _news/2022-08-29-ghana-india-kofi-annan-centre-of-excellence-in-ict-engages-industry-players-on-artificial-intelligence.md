@@ -35,7 +35,7 @@ related:
     provider:
       name: Ghanaweb.com
       domain: ghanaweb.com
-    quality: 23
+    quality: 25
     images:
       - url: "https://cdn.ghanaweb.com/imagelib/pics/889/88956782.jpg"
         width: 600

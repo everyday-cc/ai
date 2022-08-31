@@ -46,24 +46,26 @@ related:
       name: Fleet News
       domain: fleetnews.co.uk
     quality: 39
+  - title: "Self-Driving Car Tech Forgotten by Automakers Is Still Kept Alive by Federal Agency"
+    excerpt: "There was a time when the answer to how to make self-driving cars work was to design a singular technology that would allow every vehicle on the road to communicate with everything — other cars, pieces of infrastructure,"
+    publishedDateTime: 2022-08-30T22:30:00Z
+    webUrl: "https://jalopnik.com/self-driving-car-tech-forgotten-by-automakers-is-still-1849475361"
+    ampWebUrl: "https://jalopnik.com/self-driving-car-tech-forgotten-by-automakers-is-still-1849475361/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/self-driving-car-tech-forgotten-by-automakers-is-still-1849475361/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 18
   - title: "Don't trust self-driving cars? NC State researchers trying to change that"
-    excerpt: "If the idea of a self-driving car zooming down Interstate 40 and trying to reach the offramp at rush hour scares you, you’re not alone. But research happening at N.C. State may change your mind."
-    publishedDateTime: 2022-08-30T11:00:00Z
-    webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
+    excerpt: "If the idea of a self-driving vehicle zooming down Interstate 40 and trying to reach the offramp at rush hour scares you, you’re not alone. The autonomous vehicle market is projected to eclipse $724 billion by 2027, according to a report from Emergen ..."
+    publishedDateTime: 2022-08-30T12:00:00Z
+    webUrl: "https://www.bizjournals.com/triad/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
     type: article
     provider:
       name: The Business Journals
       domain: bizjournals.com
     quality: 3
-  - title: "Former Apple employer admits stealing trade secrets for self-driving car project"
-    excerpt: "An engineer who had access to information about Apple’s self-driving car project has pleaded guilty to stealing trade secrets about the project"
-    publishedDateTime: 2022-08-26T06:42:00Z
-    webUrl: "https://www.pulse.ng/business/local/former-apple-employee-admits-stealing-trade-secrets-for-self-driving-car-project/3cd8yyj"
-    type: article
-    provider:
-      name: Naija Gist - Latest
-      domain: pulse.ng
-    quality: 0
 
 secured: "SFELIQm43TeIgZfEYnk+iTtbwbDIPuyL/DXNW7/HRLARVttxn3msAlGLmidwQNl18PQljENJx5VEfvoHDEb2etUGgLbgkwTDcEE9eNAPCpgl78FpNfvfWtj9KhTz/srM8JKON4Xt7pJ5qmfw6/gywn2r1F144GZ2kidsUfi1ASvEhNVsh7EuIK5gtE3mJIgwXJQqGTUPODwXdsb7Y5fWnG7BP17JLf+rN9+9HRcB/KrI4hNPBIO2qcvq45Jp5jKGbRQvkl5H7E8+Vm0aeAAA+3rFLaz7BiPCgQ5hVimot3gqHU1MYImXF4mfAmZgLaBhBZQdwNMS39QZbl2UgEEmDkB/MHuFfAnTd8ntvbWGN9ex62DvUesBy+YKTc+9xbuzGbXOLa/Cs1iWKkv3eOLcUZ+0hGQuxjkELy6ryNPStVvqaUiaGC5xxU5SID0qlI9WiBthWxkbvmhaYEuK8FtVcbRSAn2t0UK4TbnJpEvTLOTXuBEwIplImphhF1LO/tvti69mcGZQDEORSGSy8y/mHg==;NBlLVki6A2LiB0xBOmulxA=="
 ---

@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/create-a-batch-recom
 webUrl: "https://aws.amazon.com/blogs/machine-learning/create-a-batch-recommendation-pipeline-using-amazon-personalize-with-no-code/"
 type: article
 quality: 86
-heat: 87
+heat: 97
 published: true
 
 provider:
@@ -27,6 +27,22 @@ images:
     width: 1533
     height: 766
     isCached: true
+
+related:
+  - title: "Avenda Health scores $10M to personalize prostate cancer care"
+    excerpt: "Avenda Health, an AI company focused on personalized prostate cancer care, recently closed a $10 million Series B funding round. The company's platform seeks to personalize treatment to the patient and their specific case to preserve quality of life and prevent cancer recurrence."
+    publishedDateTime: 2022-08-30T22:01:00Z
+    webUrl: "https://medcitynews.com/2022/08/avenda-health-scores-10m-to-personalize-prostate-cancer-care/"
+    type: article
+    provider:
+      name: MedCity News
+      domain: medcitynews.com
+    quality: 24
+    images:
+      - url: "https://medcitynews.com/uploads/2021/06/nci-vol-2720-150.jpg"
+        width: 1350
+        height: 900
+        isCached: true
 
 secured: "uoJxAn68OoByRV7mnGuyDZVfLQyRGnOMqS2OjDpuC5xa/pmud5fBYFnuIHO7ZlUEyeAOAXrcsrm8BTZxsfZl5PZIy3pgekbY24SUYSgDf/zPl5qp1mUJHvdUI+vbPiY9Pg/4c4dUpLzbOD9OrsRo3jONdP9nwsc+nYzsXUK0epb9mLsvnzA0TU7ajfL3ONWxCJ21TU1V4nUw6Q1jIGtoi3clt/rZcobulJnNcYeDAvkDjiXWPA8Y44eeD5aWVUNOqHv6aFjrt9Si1bbiOECMkNVAUMIXzGM8hQfa2MTXvzqEBy73+NxiHjyjHpGrIc5xe7mKpcLmrltvrA7X/OdKPBoyMV3tvLnmdsYyRyeAius=;9YF/PK3i+unpXNM0BUb58g=="
 ---

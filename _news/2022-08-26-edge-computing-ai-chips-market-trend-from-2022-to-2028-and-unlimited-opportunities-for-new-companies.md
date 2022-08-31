@@ -43,34 +43,6 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Machine learning Market Latest Trends, Size, Key Players, Revenue and Forecast 2022-2031"
-    excerpt: "A report on Machine learning Market was recently added by Kenneth Research into its database, which is aimed at"
-    publishedDateTime: 2022-08-26T05:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/machine-learning-market-latest-trends-size-key-players-revenue-and-forecast-2022-2031-2022-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 60
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Computer Vision Image Software Market Overview by Top Players, Segments, Demand and Forecast till 2028"
-    excerpt: "The Global Computer Vision Image Software Market 2022 that centers around Computer Vision Image Software market examines the significant components with a top to bottom methodology and empowers the client to survey the drawn-out based interest additionally predicts explicit executions."
-    publishedDateTime: 2022-08-26T05:50:00Z
-    webUrl: "https://www.marketwatch.com/press-release/computer-vision-image-software-market-overview-by-top-players-segments-demand-and-forecast-till-2028-2022-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 53
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Natural Language Processing For Healthcare And Life Sciences Market 2022 Disclosing Latest Trends and Advancement Outlook 2028 by Key Players"
     excerpt: "The “Global Natural Language Processing For Healthcare And Life Sciences Market Research Report 2022 to 2027”,"
     publishedDateTime: 2022-08-27T21:25:00Z

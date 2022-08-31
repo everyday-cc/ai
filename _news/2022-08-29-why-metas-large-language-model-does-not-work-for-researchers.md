@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/why-metas-large-language-model-does-not-w
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-metas-large-language-model-does-not-work-for-researchers/amp/"
 type: article
 quality: 74
-heat: 76
+heat: 74
 published: true
 
 provider:

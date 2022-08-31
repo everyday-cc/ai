@@ -1,45 +1,25 @@
 ---
 category: news
 title: "Robot Sales Hit Record High in North America for Third-Straight Quarter"
-excerpt: "Association for Advancing Automation latest stats show the most robots sold in any quarter; automotive industry returns to historic norms, while food & consumer goods continues interest in automation to handle e-commerce logistics boom."
-publishedDateTime: 2022-08-29T15:16:00Z
-originalUrl: "https://www.automation.com/en-us/articles/august-2022/robot-sales-hit-record-high-north-america"
-webUrl: "https://www.automation.com/en-us/articles/august-2022/robot-sales-hit-record-high-north-america"
+excerpt: "For the third-straight quarter, robot sales in North America hit a record high, driven by a resurgence in sales to automotive companies and an ongoing need to manage increasing demand to automate logistics for e-commerce."
+publishedDateTime: 2022-08-29T13:18:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-robot-sales-hit-record-high-in-north-america-for-third-straight-quarter"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-robot-sales-hit-record-high-in-north-america-for-third-straight-quarter"
 type: article
-quality: 71
-heat: 95
-published: true
+quality: 51
+heat: -1
+published: false
 
 provider:
-  name: Automation
-  domain: automation.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Robotics
   - AI
   - AI in Sales
 
-images:
-  - url: "https://www.automation.com/getmedia/78715b12-b6e5-4559-9d38-61e4938d9b6f/Robots-news-Aug-29-2022-web.png?width=500&height=313&ext=.png"
-    width: 500
-    height: 313
-    isCached: true
-
 related:
-  - title: "North America Machine Learning Market Size Outlook, Share, Revenue, Regions & Forecast 2022-2031"
-    excerpt: "A report on North America Machine Learning Market was recently added by Kenneth Research into its database, which is"
-    publishedDateTime: 2022-08-26T05:06:00Z
-    webUrl: "https://www.marketwatch.com/press-release/north-america-machine-learning-market-size-outlook-share-revenue-regions-forecast-2022-2031-2022-08-26"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 56
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
   - title: "Robot Sales Surge Across North America, Q2 Sales up 25% to $585M"
     excerpt: "For the third-straight quarter, robot sales in North America hit a record high, driven by a resurgence in sales to automotive companies."
     publishedDateTime: 2022-08-30T16:20:00Z
@@ -55,6 +35,6 @@ related:
         height: 500
         isCached: true
 
-secured: "1MTLY3zXvXhod8SKfoI9O3UstyuHnX9mEk6MYAuId7nF7/FDOSuJa3qkViYZUIoWxQ1ltFbllws9E4KO9vkiXsZ0CYgypq1Yvz3i2A1qNn5t2nTWCvIwunGnk4BmtGZASDD7CRqmPIDkwT3KmphEYu+wuIr0/OXpgN5YezsES9PXPmXMEsAdmYqNxExDvI9OQzPZ0xEtJaBPKr4hNRngb6Kh5kbX3jpfGGLdsRWnTSknrobhPQoEqoFEOfw0t20QDsd6dcxxgr5UD7L+L0vFL5GDOFrz5P2s7ZLRifAwAyLlteS6b5MzfMHWgOB9RBYdE7VXyfptbgGO/pquL/gN4jV+W5glbmvB1w4P0YMhWRI=;KegYFik89cznzC2flngw8g=="
+secured: "Jiat8RTbP/SHdX16VCDj6Is2skd6QYXDGoVD8PJ1SfmggtwY51VAc12w3eCo2p2CnxQ+Keoe6iPJ2w7JHmuS+QTPBhHVgLfCp6/cqhecnpQBtsP7QHQm6aF0slK9khRVxUvbWOslKuPJfpPzLjWNRsIw0hpfnwrmXUP11xLcsrZwCgIQdqkh7WyXgYxg/vrz3KdHl04HS0NaL/OIW+MsFchzRmoW43BS+zzoDRfr+Ln/OpAZg8lohW+cS/U7wz6sCyOoeXyDZe/TvmlegQ7ig/lPYWvBm0F5kMPRbB9wbCRvk2Kwbb9zPVDCH8T9VQ5OcX6YJzn3D/vo0MwE1hTzMJSa3a05IZys38cBB5dl2XdW8j76Bl3ETw48zjyybt04UOED7E/8U4XX9Lc6xP6SRBheZY0yrOlqQ2otVMOJ+/eJ81elt3xgsDdj8ZCWCufCOW+midpx4nmkQWIQ4MDYhG+FQv2nN123D7dr1w0KYfEal5te442lnSegFwQY7Y5/Q3ENSeZeJuyN8WHqnUw49Q==;jM476n+cZ0tLl/jhReKdrg=="
 ---
 
