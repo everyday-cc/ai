@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/stevenaquino/2022/08/30/ai-startup-re
 webUrl: "https://www.forbes.com/sites/stevenaquino/2022/08/30/ai-startup-replicant-is-transforming-customer-service-centers-by-making-them-more-automated-and-more-accessible/"
 type: article
 quality: 27
-heat: -1
+heat: 27
 published: false
 
 provider:
@@ -20,24 +20,6 @@ provider:
 
 topics:
   - AI
-
-related:
-  - title: "Why Automating Financial Services Without Risk Management Can Be Reckless, And How To Automate Responsibly"
-    excerpt: "Every company is unique, as is every fraudster. This is why companies can’t use a one-size-fits-all solution when it comes to managing risk or automating processes."
-    publishedDateTime: 2022-08-26T10:45:00Z
-    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/26/why-automating-financial-services-without-risk-management-can-be-reckless-and-how-to-automate-responsibly/"
-    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/08/26/why-automating-financial-services-without-risk-management-can-be-reckless-and-how-to-automate-responsibly/amp/"
-    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/26/why-automating-financial-services-without-risk-management-can-be-reckless-and-how-to-automate-responsibly/amp/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 56
-    images:
-      - url: "https://imageio.forbes.com/specials-images/imageserve/618928e7c8662a887f582562/0x0.jpg?format=jpg&width=1200"
-        width: 1200
-        height: 800
-        isCached: true
 
 secured: "58NEP3/NhiV05VC3JUQaJmazMdDg4ysdlaOOHVr8jjlftax56CqKyAPvhgszDx+yyfm+fqlipwmcWOW8PRJkn4IRqj7t6gELLMDXHXTuW3hIDm6QgIWlaYB4YpUTpNT5KZP1rJYoCah0RMR8+i9DQz+ym9Aisw0pgp2hYR11g49oOB+JCsfvLsK46LvrvGqRfQKihRxDIQNOl+Q5uV7j8ozRVH1iTnGvz1nhHvtLOMAkEp3W1WcRHVZv7QXGSrtUyG3MgZeAcZdvra7Q5I/LoCcq92nyly8uGsvkHsu+xSSVNy7vuOq33j2LigGTewNfqerjxIaxLBmiMFZ+z2KpHI7OTyBmMZkLGo8AS++PxGDWae4wKS1SIlVV0q3r7lyXdeT9CnUyOUBDuRgUdw/lfJQydbkkKuDZRQOFNaKA/2JXaBdySRRy48rKmK2gt0qQV2xktW/CGH+AAXWHEzy9OyYDqTiEA33g/uuh56HIyk+C1Den6xTdpAQZoWkiZ6ttzWgMvNjpHotzHEoRzz+kvA==;ymoPPc4ug22xH2mLs78mOQ=="
 ---

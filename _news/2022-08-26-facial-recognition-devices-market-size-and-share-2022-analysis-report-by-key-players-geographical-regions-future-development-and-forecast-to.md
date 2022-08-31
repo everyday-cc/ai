@@ -29,48 +29,40 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence In Healthcare Sector Market 2022 Size, Share, Sales, Growth, Dynamics, Top Vendors, and Forecast to 2028"
-    excerpt: "Global “Artificial Intelligence In Healthcare Sector Market” research report provides technological trends and new"
-    publishedDateTime: 2022-08-26T09:47:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-in-healthcare-sector-market-2022-size-share-sales-growth-dynamics-top-vendors-and-forecast-to-2028-2022-08-26"
+  - title: "Artificial Intelligence (AI) Chipset Market Growing Demand, Industry Synopsis, Opportunities and Analysis 2022 to 2028"
+    excerpt: "This report studies the Global Artificial Intelligence (AI) Chipset Market size, industry status and forecast, competition landscape, and growth opportunity. This research report categorizes the global Artificial Intelligence (AI) Chipset market by companies,"
+    publishedDateTime: 2022-08-28T20:21:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-growing-demand-industry-synopsis-opportunities-and-analysis-2022-to-2028-2022-08-28"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 72
+    quality: 58
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Natural Language Processing For Healthcare And Life Sciences Market 2022 Disclosing Latest Trends and Advancement Outlook 2028 by Key Players"
-    excerpt: "The “Global Natural Language Processing For Healthcare And Life Sciences Market Research Report 2022 to 2027”,"
-    publishedDateTime: 2022-08-27T21:25:00Z
-    webUrl: "https://www.marketwatch.com/press-release/natural-language-processing-for-healthcare-and-life-sciences-market-2022-disclosing-latest-trends-and-advancement-outlook-2028-by-key-players-2022-08-27"
+  - title: "Cognitive Systems Market Is Booming with Progressive Trends and Future Opportunities by 2028| IBM, Accenture, HP, Microsoft, Intel"
+    excerpt: "Aug 26, 2022 (Market Insight Reports) -- New Jersey, United States-The Cognitive Systems Market research examines ... revenue, innovative services, the actual status of demand and supply, and pricing strategy. In addition to this, this report also delivers ..."
+    publishedDateTime: 2022-08-26T18:56:00Z
+    webUrl: "https://www.marketwatch.com/press-release/cognitive-systems-market-is-booming-with-progressive-trends-and-future-opportunities-by-2028-ibm-accenture-hp-microsoft-intel-2022-08-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 51
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Cloud Natural Language Processing Market 2022 historical, projected revenue figures, growth rate throughout the forecast period 2028"
-    excerpt: "Global “ Cloud Natural Language Processing Market ” 2022 on sales, trends, outlook, current and future market overview and detailed search, value chain optimization, trade regulation, regional and national levels,"
-    publishedDateTime: 2022-08-28T17:17:00Z
-    webUrl: "https://www.marketwatch.com/press-release/cloud-natural-language-processing-market-2022-historical-projected-revenue-figures-growth-rate-throughout-the-forecast-period-2028-2022-08-28"
+    quality: 19
+  - title: "United States DoD Artificial Intelligence Market Analysis 2022: Programs Listed from the FY2022 DoD Budget Request and Contract Activity for FY2021"
+    excerpt: "The \"United States DoD Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This research service focuses on US"
+    publishedDateTime: 2022-08-30T20:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28692864/united-states-dod-artificial-intelligence-market-analysis-2022-programs-listed-from-the-fy2022-dod"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28692864"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28692864"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 38
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 1
 
 secured: "z6ZeAP7K+UFJqWL6UIzXlYiutp8lBdZQGyq5ojWBkTZQ18qnfT+CzFht6YCzobZ8r9V13VH61cbbQPVoVJKVAfu+Z+K/jNJ5lOnPbWN0Mq8cJOr2aE7Q8ieyq4dMhAMAKweLnEqSHkPatUPyBKtt4Spz3+IIxmCdcgI9DIsr94Fc3/gAa81hSlRt/PbcecArllz4LUsRv0lK2BgivxBmxwUs34VY/XX/LsmL4k+usvwdiD/HVOwjYRlklprpVwisI8Kc6CQWhGIyrxCGkNjz0KJ2m4zG7KFoOpeB8Dnv+Mm4c6xF8sqzkvi37gQWynWbWtnUFyANqKXNrbaPryx339CEKbygoeXMU1jZz58uy0I=;87xK8e/t46c9O2WcpDxkXA=="
 ---

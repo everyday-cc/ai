@@ -9,7 +9,7 @@ ampWebUrl: "https://www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_de
 cdnAmpWebUrl: "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns.amp"
 type: article
 quality: 59
-heat: 89
+heat: 99
 published: true
 
 provider:
@@ -65,6 +65,15 @@ related:
     provider:
       name: unite
       domain: unite.ai
+    quality: 19
+  - title: "AI can now detect Parkinson’s disease as we sleep"
+    excerpt: "Artificial intelligence analyses the respiratory patterns ... either from radio signals that bounce off their body or from a breathing belt they wear while sleeping. A neural network, ie, a series of algorithms, is able to deduce whether or not the person ..."
+    publishedDateTime: 2022-08-31T03:35:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/health/2022/08/31/ai-can-now-detect-parkinsons-disease-as-we-sleep/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
     quality: 19
 
 secured: "TUzhoxPavuCTeBQS7DaPZ/dZdBti7pD4b6zdP1BZi4DqlCnKCgURDhDzJvXRwJ083LJHnfCYsqMj7TfDvQWgLhOaE61do8kfxzAFNOJ8mbO1rMxZecJGgi7jjE9muYx8bAQciRkosxZCybQmPnmOXgfRMOqsp4nyIvcGzRX2/PXQWJE4QyE7kmIdxQpqjQtFgNibx8qeGUcYlonB9RxpL6OlWjabtQqtqnaurtTmWgzkqFUxSIkaXOFvqvbkOStTNLKV4fGb+IHq1wL4/6bnQCzUiUbbwIJzDe7BxJ0wIi01CVJrdiu6EmEAX50b76bSVJWTepQ9sIPS2gmDqRFud94wk6ff0xFqtCBFc7DyN5WeJ9U3lqNbuIHxl3dOEIsK69ujrWC9s/vNdsT2bWFsoI9prxaSv1Ez6FtdHviVsAGjNJFdSYl6ZytPZZezsV6IWdIOPOllBBdDQWxes7v4ZjldAfyzYaTRH+N1V4Z3j5VCBhbN+YU1ddLvRsN7jRTusJIlGEcn2qper9Q7tnmOHg==;bQfm7a2tqXIZoKsBcElqLA=="

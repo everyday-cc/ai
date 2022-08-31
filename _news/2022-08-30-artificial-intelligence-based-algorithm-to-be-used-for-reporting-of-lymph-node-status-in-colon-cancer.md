@@ -1,13 +1,13 @@
 ---
 category: news
 title: "Artificial intelligence-based algorithm to be used for reporting of lymph node status in colon cancer"
-excerpt: "A collaboration between Indica Labs and iCAIRD is looking at the development of an AI-based digital tool to detect cancer within lymph nodes."
-publishedDateTime: 2022-08-30T13:38:00Z
-originalUrl: "https://www.labiotech.eu/trends-news/indica-labs-partners-with-icaird-on-ai-based-digital-pathology-solution/"
-webUrl: "https://www.labiotech.eu/trends-news/indica-labs-partners-with-icaird-on-ai-based-digital-pathology-solution/"
+excerpt: "A collaboration is looking at the development of an AI-based digital pathology solution to detect cancer from colorectal surgery cases."
+publishedDateTime: 2022-08-30T11:06:00Z
+originalUrl: "https://www.labiotech.eu/trends-news/collaboration-looks-development-ai-based-digital-pathology-solution-detect-cancer-colorectal-surgery-cases/"
+webUrl: "https://www.labiotech.eu/trends-news/collaboration-looks-development-ai-based-digital-pathology-solution-detect-cancer-colorectal-surgery-cases/"
 type: article
-quality: 4
-heat: 4
+quality: 24
+heat: 24
 published: false
 
 provider:
@@ -18,6 +18,12 @@ topics:
   - AI in Healthcare
   - AI
 
-secured: "r9kJoZ731H/5sCFli0NNyaLLyaS2Re3PxchJczwaPkWeYKBKB3r25ZQd16zoG4R8Mywt1ZNSHBdSVvKR005z+FN9+AhfQFt2ryRfcOdmhhtQnylnU3orZaviDRjzaTeBtofweigopTzKyfxdsmNnG8pq9AK+Yu+O7wxhKQTtr/jB7LyvQsLezTXPO9hKMsJCxUgUMhOmnGj++xLsBShuJmJTrr5gCWu2uaL+apXmy+VwBwTlKsG1PlQkx3Y/wB9nA48FcnDvrRlpIMwm4EQEM3MGsI4M6jO30IAFDUB1TJUWN4NoKMRumVLweSljPbcCaQx7NWOYd8tHvgSq6XubxhRgxRz3izc2KeG9aAgoe61sMEJNjerTN+H84y5yZ6Ptu0DCjbypULnwbzXD0HnjA/1+V5fsJLCuF0q47ur4SdxVqv5DmUTsIcDPDKWHtDh8aw+WwSKBXiVuyrk/kwakpRft1h4s6BoeTg9rLJvXMTKkqEju6GRm/OykOwkmL8wjMumoDHqTASy1VMAor63YaQ==;gIzLN+taPExKCHWTykVQtg=="
+images:
+  - url: "https://www.labiotech.eu/wp-content/uploads/2022/06/shutterstock-artificial-intelligence-.jpg"
+    width: 1024
+    height: 683
+    isCached: true
+
+secured: "Z9mh/nr3bGmmwjXKfqkk92BmKcavRqWtGYFNtxsrDrwvvwnO/YEFqBnr+HvCJ4xX0kEipdPyAXR1vkk4aGE4a60EAAIby5IG7HmkPiNf/xIXC+0uKDMRcF3MXDlbdSpksKZ0iORYbdLoRI6mRypFPDznZ4IfU6NdHcRppURY/yv22TPFefK+4yYRey0wNL5Aia8WjnN/CxxswuacqvxibxNTRg3QfOsJTar9JCviDU71sCGfXxjeWsr7bhRU3aKTqgQ3M9BZYzMIB0w5TMAuBKSwA3OCxW3r4NaTCirEyzgS3ZA0GBVcMXQXma9JsxXEe10jB4YHJ0XU4Du7f+7mN2pOX1hMg314i84AYe90TUw=;l7BuFnnbKbU8a6W3J1XU2g=="
 ---
 

@@ -55,6 +55,20 @@ related:
         width: 1200
         height: 1200
         isCached: true
+  - title: "Baidu’s Apollo Go robotaxi business surpasses 1M rides in China"
+    excerpt: "With Geely’s automotive expertise and Baidu’s advanced software, JIDU, the self-driving EV startup, was born in March 2021. Since its foundation, JIDU has unveiled several EV concepts, starting with the ROBO-01. State-of-the-art Nvidia Drive Orin ..."
+    publishedDateTime: 2022-08-31T02:57:00Z
+    webUrl: "https://techstory.in/baidus-apollo-go-robotaxi-business-surpasses-1m-rides-in-china/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/08/Baidu-Apollo-RT6.jpg"
+        width: 2000
+        height: 1333
+        isCached: true
 
 secured: "EcJ9PqG0vI3Q+/DbrAY9Rs/9It/iDcJiZ3zBBGkdqif5Wf4uXRcRPtXyPhGMmv+Dk0H3ZosLjXKGYx8LCIDZeCBkrCrn2q/2gjjWzfEJHBrCI1KURDLAN0YEWTGKgXc68NjJFucgaCYRm8b7qlPv2XymZTWhYkIjN/+sh9RWcCpon70kvFzDSWNL1DmEq2iQgHL/apwpthoand5EUsCtoSCZe8x1m/6oPSOao0kUMU9xa+n/1PhrvCNI8fZJA7wnfz8i/bs0Sv9dYGsGll+olVFBvymXzW/DDT46oKPL8sHRi2PJRoDqJZThpk7Ib16EIKbDwCF6nbiZ8IIee/E+xagZNAZyDVooZbnqDKzUbNtUWRJKpS8wazj2jA2HJwfD0Q6si7UVW/9ag/wNnWdwQOQSO/1x7weuzvxJy+1nLCpTyfi/YBfNYoLJigvvn6yUCK1dQ8gFYfylipizeJJD3tXAccS5Y8ki0oJeIOzQKY5btLCnNaENK4/iEofZ0KM5LPPHRYeVu+lXa4KUPpiOsg==;XQ0xquGldWtPA+vdo1Apww=="
 ---

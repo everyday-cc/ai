@@ -2,40 +2,6 @@
   "page": 4,
   "value": [
     {
-      "path": "_news/2022-08-26-microsoft-cloud-services-are-vulnerable-to-nefarious-cozy-bear-mfa-hacking-campaign.md",
-      "title": "Microsoft Cloud Services Are Vulnerable To Nefarious Cozy Bear MFA Hacking Campaign",
-      "excerpt": "A new report by cybersecurity firm Mandiant details an ongoing hacking campaign targeting Microsoft 365. The threat actor behind this campaign is an advanced persistent threat (APT) known as “Co ...",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/microsoft-cloud-services-vulnerable-cozy-bear-mfa-hacking-campaign",
-      "originalUrl": "https://hothardware.com/news/microsoft-cloud-services-vulnerable-cozy-bear-mfa-hacking-campaign",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "hothardware.com",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-26-tesla-full-self-driving-debate-escalates-with-legal-threats-banned-videos.md",
       "title": "Tesla ‘full self-driving’ debate escalates with legal threats, banned videos",
       "excerpt": "Tesla fans rushed to defend the automaker after a prominent critic released a video showing one of the company's cars with the feature it calls \"full self-driving\" plowing into child-size mannequins.",
@@ -1208,6 +1174,50 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-25-hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics.md",
+      "title": "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics",
+      "excerpt": "Hyundai Motor Group (the Group) today announced the launch of Boston Dynamics AI Institute (the Institute), with the goal of making fundamental advances",
+      "sourceUrl": null,
+      "webUrl": "https://www.albawaba.com/business/pr/hyundai-motor-group-launches-boston-dynamics-ai-institute-spearhead-advancements",
+      "originalUrl": "https://www.albawaba.com/business/pr/hyundai-motor-group-launches-boston-dynamics-ai-institute-spearhead-advancements",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.albawaba.com/sites/default/files/styles/default/public/2022-08/40039-Large370072020KonaElectric.jpg?itok=k2Z28teN",
+          "width": 595,
+          "height": 394,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.albawaba.com/amp/business/pr/hyundai-motor-group-launches-boston-dynamics-ai-institute-spearhead-advancements",
+      "cdnAmpWebUrl": "https://www-albawaba-com.cdn.ampproject.org/c/s/www.albawaba.com/amp/business/pr/hyundai-motor-group-launches-boston-dynamics-ai-institute-spearhead-advancements",
+      "publishedDateTime": "2022-08-24T22:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Al Bawaba News",
+        "domain": "albawaba.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Robotics"
       ]
     }
   ],

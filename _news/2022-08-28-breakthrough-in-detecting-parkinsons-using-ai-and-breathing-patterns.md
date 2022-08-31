@@ -66,6 +66,15 @@ related:
       name: unite
       domain: unite.ai
     quality: 19
+  - title: "AI can now detect Parkinson’s disease as we sleep"
+    excerpt: "Artificial intelligence analyses the respiratory patterns ... either from radio signals that bounce off their body or from a breathing belt they wear while sleeping. A neural network, ie, a series of algorithms, is able to deduce whether or not the person ..."
+    publishedDateTime: 2022-08-31T03:35:00Z
+    webUrl: "https://www.freemalaysiatoday.com/category/leisure/health/2022/08/31/ai-can-now-detect-parkinsons-disease-as-we-sleep/"
+    type: article
+    provider:
+      name: Free Malaysia Today
+      domain: freemalaysiatoday.com
+    quality: 19
 
 secured: "bk8B+0drb7Lk4p2j2MqXv3Owncjedpv+4Yq2ernjwsVJzvGD4S+6uBvu31LrrT5WGAak8kduSg+9itSydvXzsuMwtw0ZxMkrs/isR0+bsmkRLEqmghAjY7HRXvIdWN+HUzk8dwLcDt1pJBHQCYD6Hl3SVZ04REWaP5deppHel63nSViygl1DbV6qeeiH++c5mGCud1yk6ZWd9NkVCTV75nPag/dpUjY/CafCQkU6A2b/KyKoRZ/wHPHhr8x6geV4PLv+CVtqTh0jR+KWpoYnPmzhldCu/nMAF/G/9KqToto37JY8/R2zRsFoTCr6jJXCHA3U7Fcv82mKhY/AUOW1A7G2rUUfJnFBEn9VJx1IAleWoIgPzLw01u8OnSYF1S/g4hAHlhSLSPDO7y38XhOEO1A5mIxNXLcouyfaDTyS+qexlVZgKNGr0RWB1/zJjs5H6lajjXqP/rK4ZiNUa9/y2sgD/W17C+nPskOaWDaRttO50dP7fspM9p7ZogcapIQ+Knq3oz+RggDFBCxx/plwaQ==;+YUAEjbY0Z+sj5Cews77KA=="
 ---

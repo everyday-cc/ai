@@ -9,7 +9,7 @@ ampWebUrl: "https://electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-mi
 cdnAmpWebUrl: "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/amp/"
 type: article
 quality: 80
-heat: 100
+heat: 110
 published: true
 
 provider:
@@ -58,6 +58,20 @@ related:
       - url: "https://static.seekingalpha.com/assets/og_image_1200-29b2bfe1a595477db6826bd2126c63ac2091efb7ec76347a8e7f81ba17e3de6c.png"
         width: 1200
         height: 1200
+        isCached: true
+  - title: "Baidu’s Apollo Go robotaxi business surpasses 1M rides in China"
+    excerpt: "With Geely’s automotive expertise and Baidu’s advanced software, JIDU, the self-driving EV startup, was born in March 2021. Since its foundation, JIDU has unveiled several EV concepts, starting with the ROBO-01. State-of-the-art Nvidia Drive Orin ..."
+    publishedDateTime: 2022-08-31T02:57:00Z
+    webUrl: "https://techstory.in/baidus-apollo-go-robotaxi-business-surpasses-1m-rides-in-china/"
+    type: article
+    provider:
+      name: tech
+      domain: techstory.in
+    quality: 39
+    images:
+      - url: "https://techstory.in/wp-content/uploads/2022/08/Baidu-Apollo-RT6.jpg"
+        width: 2000
+        height: 1333
         isCached: true
 
 secured: "Mf/u8Yoeugxg2R31kVIM30h3AAO6+svw6OHt1KkZ7uwJ90sxGyfNJez9pzXfyvgayEYQ2QZGNiA0F4/7JNYWvEUpZP57eVCZDbWSm8o/sU3lrqUWrezxArplhHwOLAUxHMjLzZxy+KxM0mBvjQgJQBXdfQGTjTgQDejMEN/QE4it0lT8tRr/QfxepnSgQZBicvS6IKJ4s9QH62w1zSIxuDwJqyi7D85P2vHrTUkyzN+/sOF4OlsurBz+iYekkh7MNhnOI06A9ZRZOWbOJAF1egWkMgBQ1XtJF5+L2+rMRkju6oy8TLybvifUjmj8HY425FDP8jQfIrZoUBFV6qmYTbDJvAOb6/VrhvU37AOqbfPXrIkFjhY6+KIPxOKY6oV3T2/wxqk3x0YoS2Aj+PBhugT2pNOMAdOg+X8YzsvrNVz560hfx4wHa/58G1WNjMpyoIR1zVjWihRM0dqiwMTAJCZfl4E7qUkLGWh9FQ/nAX1np5P5zvC2suUxZRRtASjXgelZKJG0YCY/g3PP7whnvQ==;46gOVCrj+GImNcFrL0SAUA=="

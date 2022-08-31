@@ -7,7 +7,7 @@ originalUrl: "https://www.tribuneindia.com/news/science-technology/google-wants-
 webUrl: "https://www.tribuneindia.com/news/science-technology/google-wants-you-to-chat-with-its-ai-chatbot-at-your-own-risk-425943"
 type: article
 quality: 37
-heat: -1
+heat: 37
 published: false
 
 provider:
@@ -24,22 +24,6 @@ images:
     isCached: true
 
 related:
-  - title: "Google opens up its experimental AI chatbot for public testing"
-    excerpt: "Google opens up LaMDA to the public, but it's launching with guardrails that aim to prevent it generating offensive responses."
-    publishedDateTime: 2022-08-26T10:19:00Z
-    webUrl: "https://www.zdnet.com/article/google-opens-up-its-experimental-ai-chatbot-for-public-testing/"
-    ampWebUrl: "https://www.zdnet.com/google-amp/article/google-opens-up-its-experimental-ai-chatbot-for-public-testing/"
-    cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-opens-up-its-experimental-ai-chatbot-for-public-testing/"
-    type: article
-    provider:
-      name: ZDNet
-      domain: zdnet.com
-    quality: 87
-    images:
-      - url: "https://www.zdnet.com/a/img/resize/9db5279cbc1c42989bbbf8be317fe71a59939735/2022/05/11/ffccbbc5-133e-4e08-87ac-25f7ad58c947/ai-test-kitchen.jpg?width=1200&fit=bounds&auto=webp"
-        width: 1200
-        height: 670
-        isCached: true
   - title: "Google wants you to use its AI chatbot at your own risk"
     excerpt: "Google has opened its experimental artificial intelligence (AI) chatbot for the public and you can now register to chat with the AI-driven bot trained on the company`s controversial language model."
     publishedDateTime: 2022-08-27T12:27:00Z

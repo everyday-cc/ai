@@ -35,6 +35,15 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Driving simulations that look more life-like"
+    excerpt: "This is especially important when testing how humans react when they are in driverless vehicles ... But, using artificial intelligence, GAN can be trained to generate realistic backgrounds and ..."
+    publishedDateTime: 2022-08-29T18:52:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/08/220829130002.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
 
 secured: "dVGsq0hIIGz/ODEocjqpx8JsgfCIj6/JUW/8iVl071cy41uBSaaPYhvvy7rMgHXa1IULEKBjlhLguOVUfW016TonErTmq/Ohhxs2Kb4+hzl17q4Ez+qzqKP9Rtt7H5WqgPJYQYrk8wAX5x13dhN/uXArd8oM1OF9Fo9WKoAUaD4d54oZVQyoURerPRGUTK/JDg6H/xD1AFeZm8aI5wIdwMXwQeSuQpCvVAooZR8GMpPRO6/5JvG++jiq3/Jbh6YJgy4Po+UicfZ6qMbcfcPqMaUpijkUWItaD0sHurD96IDtqhAAc1og7QHHdN10haHGcLcbDjNuqD3hjueby+xKz2hEEi+Wsw/EP6U3xBBqFME=;IooSZhO6qRGEOs7dgXFX1w=="
 ---

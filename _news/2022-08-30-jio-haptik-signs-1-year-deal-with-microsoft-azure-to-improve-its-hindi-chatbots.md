@@ -9,7 +9,7 @@ ampWebUrl: "https://www.hindustantimes.com/technology/jio-haptik-signs-1-year-de
 cdnAmpWebUrl: "https://www-hindustantimes-com.cdn.ampproject.org/c/s/www.hindustantimes.com/technology/jio-haptik-signs-1-year-deal-with-microsoft-azure-to-improve-its-hindi-chatbots-101661873878526-amp.html"
 type: article
 quality: 70
-heat: 80
+heat: 90
 published: true
 
 provider:
@@ -42,6 +42,22 @@ related:
       - url: "https://images.hindustantimes.com/img/2022/08/30/1600x900/information-conversation-intelligence-smartphone-technology-artificial-interface_d20457ca-6f1f-11ea-ad54-628e87a77846_1661876427298_1661876427298.jpg"
         width: 1600
         height: 899
+        isCached: true
+  - title: "Jio Haptik collaborates with Microsoft to use Azure for improving Hindi chatbots"
+    excerpt: "The company claims to have facilitated over 2 million conversations on Jio Mobility with 80 per cent reduction in human interventions and 2.5 times in.."
+    publishedDateTime: 2022-08-31T02:06:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/jio-haptik-collaborates-with-microsoft-to-use-azure-for-improving-hindi-chatbots/93892161"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/jio-haptik-collaborates-with-microsoft-to-use-azure-for-improving-hindi-chatbots/93892161"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/jio-haptik-collaborates-with-microsoft-to-use-azure-for-improving-hindi-chatbots/93892161"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 69
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-93892161,imgsize-29900,width-1200,height-628,overlay-ettelecom/jio-haptik-collaborates-with-microsoft-to-use-azure-for-improving-hindi-chatbots.jpg"
+        width: 1200
+        height: 628
         isCached: true
 
 secured: "Jsgl5n08QAv758IrQQBKWpKzYIeuq8rb9E555iFxQAu54PE+qQX48Fx4stQhm03tvNTbTx3vSwVTR/z3bNF6FLNtm3YzDruepNAbe9/9v/dJlDxrXmabVgL+B/Exy9gfPxCoSCmiUUenGsVlLjMu5qYgz/bnxoxLryttijzUJX1VoTOwJtDAlTE2qUM40mmG2Lv+EHeFM4vSZDprnA4urMEpDYR4IKKTLh3bunRkP23ZZdIiCDnAxicHyN6lNq4BOos+31CVvhCb6LAYRxY3E4EwvqYLe75ipcI71PePOmZDT7yyR6O718FI8Xo9QGS2v6VsJ0dfohmshqDK6xFIm3dT9oUFGqSM3JSUeRIuqY7x2iMouzBfXkev8gisc/JdEYKLkGiWzCjdVDgG+8fH9byRy8HozqQ03G4BtolST1BS0+Gf8RL+C7ufQbogK6aOourybxE8Iq4GFUKSplG1DG3zdVCA/0xs+jT62u667/1qsLbiAzci5N9HyaDHbkwhSJ3RI0DVe5776UGXB2Gdeg==;iecq7NiwpTw/NHmcL0t2NQ=="

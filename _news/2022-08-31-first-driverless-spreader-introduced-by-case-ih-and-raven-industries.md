@@ -1,0 +1,54 @@
+---
+category: news
+title: "First Driverless Spreader Introduced by Case IH and Raven Industries"
+excerpt: "A new driverless spreader has been introduced this week by CNH Industrial. The Case IH Trident(TM) 5550 applicator with Raven Autonomy(TM) can be operated with or without a driver. CNH Industrial, which owns both Case IH and Raven Industries,"
+publishedDateTime: 2022-08-31T03:25:00Z
+originalUrl: "https://1010wcsi.com/hoosier-ag-today/first-driverless-spreader-introduced-by-case-ih-and-raven-industries/"
+webUrl: "https://1010wcsi.com/hoosier-ag-today/first-driverless-spreader-introduced-by-case-ih-and-raven-industries/"
+type: article
+quality: 39
+heat: 39
+published: false
+
+provider:
+  name: WCSI
+  domain: 1010wcsi.com
+
+topics:
+  - AI in Autos
+  - AI
+
+images:
+  - url: "https://mediaassets.theindychannel.com/weatherimages/WEB_Planner_Scripps.jpg"
+    width: 1920
+    height: 1080
+    isCached: true
+
+related:
+  - title: "First Driverless Spreader Introduced by Case IH and Raven"
+    excerpt: "A new driverless spreader has been introduced this week by CNH Industrial. The Case IH Trident™ 5550 applicator with Raven Autonomy™ can be"
+    publishedDateTime: 2022-08-30T21:30:00Z
+    webUrl: "https://hoosieragtoday.com/first-driverless-spreader-introduced-by-case-ih-and-raven/"
+    type: article
+    provider:
+      name: Hoosier AG Today
+      domain: hoosieragtoday.com
+    quality: 39
+    images:
+      - url: "https://d30hko96l9xirl.cloudfront.net/media/2022/08/The-Case-IH-Trident%E2%84%A2-5550-applicator-with-Raven-Autonomy%E2%84%A2-allows-for-one-or-more-driverless-machines-in-the-field_622498.jpg"
+        width: 1920
+        height: 1280
+        isCached: true
+  - title: "Case IH Trident 5550 Applies Raven Autonomy for Driverless Spreading"
+    excerpt: "The Case IH Trident 5550 is built to be a combination applicator—both liquid and dry applications—but now equipped with Raven Autonomy, the machine can also be run in either autonomous mode or manual mode."
+    publishedDateTime: 2022-08-30T15:29:00Z
+    webUrl: "https://www.agweb.com/news/machinery/new-machinery/case-ih-trident-5550-applies-raven-autonomy-driverless-spreading"
+    type: article
+    provider:
+      name: AgWeb
+      domain: agweb.com
+    quality: 19
+
+secured: "jRVjGVu1dxDrNMH4F9sSGHnC8UBOcW5qaK/6pYhkKnlqINgacDxSzG9vfe9L6VOYKUYyu/mZJbmFHJyImE3I+6S/WjHTSR8F5gl3y+40nGWrvuSSeUfpx1sAfecZIpWrUO8iC0LWWXBw9GHcuxHXRVdS8TVEzpeaCDTfFHmgrlUaW3W1wJfmK0ITIPAZL1hyw8eeuvmxdPdyj9qmuU1r+zagIE7a+3PC5AhrAAOfFF7nYyIrbDs1MnWLdRFD/7phd9/v8qVWGclRv8Hz0KwwJxtYCPbo4gQj29/VevImwlrMTUSXjNG6LN2KfsQAqkxfT/SjLWivoKh7VWyT9sira+uG9Fi6FQBiM1p0+8wnHCY=;TlfXgMHGzMwp8THIMxPAFg=="
+---
+

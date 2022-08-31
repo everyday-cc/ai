@@ -28,6 +28,15 @@ images:
 
 related:
   - title: "Driving simulations that look more life-like"
+    excerpt: "This is especially important when testing how humans react when they are in driverless vehicles ... But, using artificial intelligence, GAN can be trained to generate realistic backgrounds and ..."
+    publishedDateTime: 2022-08-29T18:52:00Z
+    webUrl: "https://www.sciencedaily.com/releases/2022/08/220829130002.htm"
+    type: article
+    provider:
+      name: Science Daily
+      domain: sciencedaily.com
+    quality: 34
+  - title: "Driving simulations that look more life-like"
     excerpt: "They don’t look realistic enough, particularly background objects, such as trees, and road markings. But researchers have developed a new way to create photorealistic images for simulators, paving the way for better testing of driverless cars."
     publishedDateTime: 2022-08-29T00:00:00Z
     webUrl: "https://www.eurekalert.org/news-releases/963184"

@@ -43,6 +43,22 @@ related:
         width: 1600
         height: 899
         isCached: true
+  - title: "Jio Haptik collaborates with Microsoft to use Azure for improving Hindi chatbots"
+    excerpt: "The company claims to have facilitated over 2 million conversations on Jio Mobility with 80 per cent reduction in human interventions and 2.5 times in.."
+    publishedDateTime: 2022-08-31T02:06:00Z
+    webUrl: "https://telecom.economictimes.indiatimes.com/news/jio-haptik-collaborates-with-microsoft-to-use-azure-for-improving-hindi-chatbots/93892161"
+    ampWebUrl: "https://telecom.economictimes.indiatimes.com/amp/news/jio-haptik-collaborates-with-microsoft-to-use-azure-for-improving-hindi-chatbots/93892161"
+    cdnAmpWebUrl: "https://telecom-economictimes-indiatimes-com.cdn.ampproject.org/c/s/telecom.economictimes.indiatimes.com/amp/news/jio-haptik-collaborates-with-microsoft-to-use-azure-for-improving-hindi-chatbots/93892161"
+    type: article
+    provider:
+      name: India Times
+      domain: indiatimes.com
+    quality: 69
+    images:
+      - url: "https://etimg.etb2bimg.com/thumb/msid-93892161,imgsize-29900,width-1200,height-628,overlay-ettelecom/jio-haptik-collaborates-with-microsoft-to-use-azure-for-improving-hindi-chatbots.jpg"
+        width: 1200
+        height: 628
+        isCached: true
 
 secured: "+AGO5QB0K9WuoIxuX9wCz8M33LKmuGA/ilsSZT2+/D2TvoyC/wAKHcb8/bwcthBMuNe98ssLyOKiqpT/rKfdZJpNjdS77KqdqA8DaDN2PdqxwK/AzBBtrUivrB6HItpZlcIcZrj/7y/zAmCvDjgob1MiFTZwv/b2RTOj/WgmT8JHr5fCmRbo09XirsZMmhe0lCExkYJicDjN5w8vYk6RULDciq/BKWDEVr6LQmnwhroc52KsslmiarwUphDwvwt168DXPKqRL1fXx8yPRm2n/IiXE0FY0y1T/B+8Z+nxLpiiC+ndizfR2qtaE2ae2jFXcKIlnng036wkhE+mbkYS1sucUjDtP8HveGR5lFbtmqKfvy/yEYeTSgYnkvHl/E3UnxSK+h3BDw9aheNu53s9s3R1REGADD5iNc5r+JsPrS6oDM0k7wIOuKITu2y1GDg1vbgqdlDjSzVQn+wAwYJh0jeJ1VRucZEwKrLJSIDbGWxx4IZYi9qlst7V/SxC8XwdnovcCbpRVB6r5Xl6ucvZ9w==;0jc48+8v3ZRDD5kO6j2KcQ=="
 ---

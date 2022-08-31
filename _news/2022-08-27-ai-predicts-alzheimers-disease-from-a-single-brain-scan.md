@@ -9,7 +9,7 @@ ampWebUrl: "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/ai
 cdnAmpWebUrl: "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202208/ai-predicts-alzheimer-s-disease-single-brain-scan?amp"
 type: article
 quality: 57
-heat: 77
+heat: 87
 published: true
 
 provider:
@@ -41,6 +41,20 @@ related:
       - url: "https://scx2.b-cdn.net/gfx/news/hires/2022/study-reveals-molecula.jpg"
         width: 2000
         height: 1333
+        isCached: true
+  - title: "Study uncovers molecular changes in the brain’s blood vessels caused by Alzheimer’s susceptibility gene"
+    excerpt: "Recent breakthroughs have revealed a great deal about Alzheimer's disease, but researchers have yet to paint a complete picture of how genetic risk for the illness causes the brain damage that ultimately leads to memory loss and cognitive decline."
+    publishedDateTime: 2022-08-31T02:42:00Z
+    webUrl: "https://www.news-medical.net/news/20220830/Study-uncovers-molecular-changes-in-the-braine28099s-blood-vessels-caused-by-Alzheimere28099s-susceptibility-gene.aspx"
+    type: article
+    provider:
+      name: News Medical
+      domain: news-medical.net
+    quality: 23
+    images:
+      - url: "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2016/3/Artificially_Colored_MRI_Scan_Of_Human_Brain-Daisy_Daisy_a8c5d8bbbf824bc8932308e30187510f-620x480.jpg"
+        width: 620
+        height: 480
         isCached: true
   - title: "Study reveals molecular brain changes linked to APOE4, the main susceptibility gene for Alzheimer’s disease"
     excerpt: "A new USC study documents, in real time, that APOE4, the main susceptibility gene for Alzheimer’s disease, leads to molecular changes in the brain’s blood vessels, which are then followed by changes in the synapses that connect brain cells."

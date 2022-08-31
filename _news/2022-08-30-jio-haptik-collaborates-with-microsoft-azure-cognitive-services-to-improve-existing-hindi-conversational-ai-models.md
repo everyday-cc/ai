@@ -58,6 +58,20 @@ related:
         width: 1066
         height: 600
         isCached: true
+  - title: "Microsoft releases virtual machines on Azure"
+    excerpt: "Uses its Arm-based Ampere Altra Microsoft announced the general availability of virtual machines (VMs) on Azure featuring the Ampere Altra, a processor based on the Arm architecture.  Vole said that the fhe first Azure VMs powered by Arm chips are accessible in 10 Azure regions today and"
+    publishedDateTime: 2022-08-30T10:03:00Z
+    webUrl: "https://www.fudzilla.com/news/memory-and-storage/55404-microsoft-releases-virtual-machines-on-azure"
+    type: article
+    provider:
+      name: Fudzilla
+      domain: fudzilla.com
+    quality: 54
+    images:
+      - url: "https://www.fudzilla.com/media/k2/items/cache/89c4601bdb56d5a35560438101ed5cac_L.jpg"
+        width: 620
+        height: 464
+        isCached: true
   - title: "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story"
     excerpt: "New Jersey, NJ -- (SBWIRE) -- 08/26/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ..."
     publishedDateTime: 2022-08-27T06:09:00Z

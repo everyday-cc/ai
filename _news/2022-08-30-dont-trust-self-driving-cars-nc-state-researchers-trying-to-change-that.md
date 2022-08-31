@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Don't trust self-driving cars? NC State researchers trying to change that"
-excerpt: "If the idea of a self-driving vehicle zooming down Interstate 40 and trying to reach the offramp at rush hour scares you, you’re not alone. The autonomous vehicle market is projected to eclipse $724 billion by 2027, according to a report from Emergen ..."
-publishedDateTime: 2022-08-30T12:00:00Z
-originalUrl: "https://www.bizjournals.com/triad/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
-webUrl: "https://www.bizjournals.com/triad/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
+excerpt: "If the idea of a self-driving car zooming down Interstate 40 and trying to reach the offramp at rush hour scares you, you’re not alone. But research happening at N.C. State may change your mind."
+publishedDateTime: 2022-08-30T11:00:00Z
+originalUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
+webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
 type: article
 quality: 3
 heat: -1
@@ -35,17 +35,6 @@ related:
         width: 1280
         height: 855
         isCached: true
-  - title: "Safety concerns over driverless and self-driving cars"
-    excerpt: "Just one in 20 drivers – some 6% - say they would feel safe travelling in a driverless car and almost a third (31%) would only trust a driverless car if they could take over the controls ..."
-    publishedDateTime: 2022-08-26T10:36:00Z
-    webUrl: "https://www.fleetnews.co.uk/news/fleet-industry-news/2022/08/26/safety-concerns-over-driverless-and-self-driving-cars"
-    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/fleet-industry-news/2022/08/26/safety-concerns-over-driverless-and-self-driving-cars"
-    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/fleet-industry-news/2022/08/26/safety-concerns-over-driverless-and-self-driving-cars"
-    type: article
-    provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
-    quality: 39
   - title: "Self-Driving Car Tech Forgotten by Automakers Is Still Kept Alive by Federal Agency"
     excerpt: "There was a time when the answer to how to make self-driving cars work was to design a singular technology that would allow every vehicle on the road to communicate with everything — other cars, pieces of infrastructure,"
     publishedDateTime: 2022-08-30T22:30:00Z
@@ -67,6 +56,6 @@ related:
       domain: manhattan-institute.org
     quality: 4
 
-secured: "Z04pZSGzpnA2jaJaumEqQDDpDWcJmXzf2Py5jKlBDsYtB8P09MVa+JDvDmDNg+HnUEkjNKMq+njaJzSLuCW/0LaSI33kdeeOA9OihuE3sNud5GAUJ75FDBfgGfZagOTv50eoN6ueMPOZm7g5TWKu3eUXadIxwtx+AO+TqbkFLJYGVrfl8wmd+8978v/CU4KBFsWtgIjqsREiPh6JDGbmYnUM6/bcdBy0QNZK9woU8P9UlYD2P/L6PN/S34npGShlYuJWEhSlQ2gNfBN++6bO4bejsM18+Ck/6oz2w88KnytMS2/7o0pqcfOSNHAgOGo2KhOyB8q7KHWRJXLNdSqjxaNwpidV0xk93vKNq28k5pSTvktlok1VIeh7oaiTXuVWkX2BoYmjHo0cd8XULVUziUxC17Zg+8Vy1Ot/0LZm/bY4FcrS9tfCysvMvafK6gvb5hpCnHwOWpQrhMGm/GYUjyayyuZ8v72/6UbScVjis3VMGNJMrXJ9sx6j7fKj8paN3/Xz3mFbti9g8iLHRcaYFQ==;KwTHtBm7VoVGOzzk64erKA=="
+secured: "PhO/SYmXEKm1khHaRnbVp0b56nXezS1D3xAh6cK7tCBpO4RABaTVGRw6eA2Y/K5K6pbmSayZ9Gl3FnWHlcePdZl8YKiblDVWkfL4+YHBfNZga0zTPmlkHfR7s/n4jsFr6vAljYmb4EN9rJjFepi4F3EOzK1OTPIogtdbfQe4aKCliJAbWolL1xHMrCNapopEaS22pQ5MJu//sXbZ0B0ZLyppFGnfWTpwKOGy7XLHEfMeCcRric1DltYVPArLGzW4TqGnK4sYdtG6Ji3Dn1LPstmbOu73SuJFXTLU1qzcO+L5fVG1MNVIXmBRU/sqLoFOZuMJD2PB1BzxIMcrw5GKpt/4AHy3OQrqp+ACPXrArGlcN9EEQDBM6NblcMjYnpyW5llMyT3nXrRXb+Guw+wwOvGZ3vEbQjTrN8x7ZB5Y8ROdbGPXMPH+GoJ3sNN//Sl+tGR2VR2VuI/Juzdx3o9b4Ud0+DC+WGo6w/1CxsqR1NouifIlDT2h/aSXawgNvg3sTxqN9ia++kH8WTjQkum7xg==;uCGLJhx8ei9mwnHu5B4O+g=="
 ---
 

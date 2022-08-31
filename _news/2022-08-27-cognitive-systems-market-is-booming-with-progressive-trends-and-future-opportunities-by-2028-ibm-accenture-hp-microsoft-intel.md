@@ -37,15 +37,15 @@ related:
         width: 1200
         height: 630
         isCached: true
-  - title: "Body Temperature Test Face Recognition Devices Market Size From 2022 To 2028 And Unlimited Opportunities for New Companies"
-    excerpt: "This report shows market strategic analysis, micro and macro market trend and scenarios, pricing analysis, and a holistic review of the \" Body Temperature Test Face Recognition Devices market\" in the forecast period 2022 to 2028,"
-    publishedDateTime: 2022-08-26T10:31:00Z
-    webUrl: "https://www.marketwatch.com/press-release/body-temperature-test-face-recognition-devices-market-size-from-2022-to-2028-and-unlimited-opportunities-for-new-companies-2022-08-26"
+  - title: "Facial Recognition Devices Market Size and Share 2022 Analysis Report by Key Players, Geographical Regions, Future Development and Forecast to 2028"
+    excerpt: "Aug (The Expresswire) -- \"Final Report will add the analysis of the impact of COVID-19 on this industry.\" Global “Facial Recognition Devices"
+    publishedDateTime: 2022-08-26T12:11:00Z
+    webUrl: "https://www.marketwatch.com/press-release/facial-recognition-devices-market-size-and-share-2022-analysis-report-by-key-players-geographical-regions-future-development-and-forecast-to-2028-2022-08-26"
     type: article
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 43
+    quality: 31
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200

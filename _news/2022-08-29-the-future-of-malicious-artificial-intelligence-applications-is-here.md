@@ -9,7 +9,7 @@ ampWebUrl: "https://www.thestar.com/amp/opinion/contributors/2022/08/29/the-futu
 cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/opinion/contributors/2022/08/29/the-future-of-malicious-artificial-intelligence-applications-is-here.html"
 type: article
 quality: 59
-heat: 69
+heat: 59
 published: false
 
 provider:
@@ -25,22 +25,6 @@ images:
     width: 640
     height: 360
     isCached: true
-
-related:
-  - title: "New App Uses AI To Classify Skin Conditions With the Snap of a Picture"
-    excerpt: "Piction Health, founded by Susan Conover SM ’15, uses machine learning to help physicians identify and manage skin disease. When Susan Conover wanted to get a strange-looking mole checked out at the age of 22,"
-    publishedDateTime: 2022-08-26T10:15:00Z
-    webUrl: "https://scitechdaily.com/new-app-uses-ai-to-classify-skin-conditions-with-the-snap-of-a-picture/"
-    type: article
-    provider:
-      name: SciTech Daily
-      domain: scitechdaily.com
-    quality: 37
-    images:
-      - url: "https://scitechdaily.com/images/Piction-Health-AI-Powered-App-scaled.jpg"
-        width: 2560
-        height: 1707
-        isCached: true
 
 secured: "sJ+QQdxh/8UnP0UZMy+BL8XnzD6GggKzm2VywFaFgBIEgdEwSK97CcmfOH8uN1BC9FaUmfz2X5XrOeGlVGmWRnlnI5DGUYQiR9Fcwfd1vqMBnmXCGVQn2Dtt/WMMU7wUTg/YXkZ/wrP0HXqdBHQsBOiRStwO8oSrd0n4J1pEXnFVHbwLlDxwWl4K6Qi9rbJXEek9aTZuWqSeRSMKFjYBpb1Gw4I+/fsH5BsVFBwfXmdaZCKMdAZ04mpDHI/nTkDV6xyoR25khunGF+CcL1pthZowxowdXOHQCw0skPYh+5Ma5SahGwmuBCa5DfBkMAR8xgR51d8VCOZMdCDmEOo261tH7+gdMgSvQACplngCKBY=;RKYyaWTTPaTdoIiX+6wgwA=="
 ---

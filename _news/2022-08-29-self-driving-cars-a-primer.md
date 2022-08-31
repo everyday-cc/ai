@@ -27,17 +27,6 @@ images:
     isCached: true
 
 related:
-  - title: "Safety concerns over driverless and self-driving cars"
-    excerpt: "Just one in 20 drivers – some 6% - say they would feel safe travelling in a driverless car and almost a third (31%) would only trust a driverless car if they could take over the controls ..."
-    publishedDateTime: 2022-08-26T10:36:00Z
-    webUrl: "https://www.fleetnews.co.uk/news/fleet-industry-news/2022/08/26/safety-concerns-over-driverless-and-self-driving-cars"
-    ampWebUrl: "https://www.fleetnews.co.uk/amp/news/fleet-industry-news/2022/08/26/safety-concerns-over-driverless-and-self-driving-cars"
-    cdnAmpWebUrl: "https://www-fleetnews-co-uk.cdn.ampproject.org/c/s/www.fleetnews.co.uk/amp/news/fleet-industry-news/2022/08/26/safety-concerns-over-driverless-and-self-driving-cars"
-    type: article
-    provider:
-      name: Fleet News
-      domain: fleetnews.co.uk
-    quality: 39
   - title: "Self-Driving Car Tech Forgotten by Automakers Is Still Kept Alive by Federal Agency"
     excerpt: "There was a time when the answer to how to make self-driving cars work was to design a singular technology that would allow every vehicle on the road to communicate with everything — other cars, pieces of infrastructure,"
     publishedDateTime: 2022-08-30T22:30:00Z
@@ -59,9 +48,9 @@ related:
       domain: manhattan-institute.org
     quality: 4
   - title: "Don't trust self-driving cars? NC State researchers trying to change that"
-    excerpt: "If the idea of a self-driving vehicle zooming down Interstate 40 and trying to reach the offramp at rush hour scares you, you’re not alone. The autonomous vehicle market is projected to eclipse $724 billion by 2027, according to a report from Emergen ..."
-    publishedDateTime: 2022-08-30T12:00:00Z
-    webUrl: "https://www.bizjournals.com/triad/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
+    excerpt: "If the idea of a self-driving car zooming down Interstate 40 and trying to reach the offramp at rush hour scares you, you’re not alone. But research happening at N.C. State may change your mind."
+    publishedDateTime: 2022-08-30T11:00:00Z
+    webUrl: "https://www.bizjournals.com/triangle/inno/stories/news/2022/08/30/nc-state-research-driverless-cars-public-trust.html"
     type: article
     provider:
       name: The Business Journals
