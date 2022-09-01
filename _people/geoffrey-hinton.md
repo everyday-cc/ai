@@ -2,7 +2,7 @@
 name: "Geoffrey Hinton"
 bio: "Geoffrey Everest Hinton CC FRS FRSC is an English Canadian cognitive psychologist and computer scientist, most noted for his work on artificial neural networks. Since 2013 he divides his time working for Google and the University of Toronto."
 type: "profile"
-heat: 175
+heat: 229
 
 affiliation:
   name: toronto.edu
@@ -11,7 +11,7 @@ affiliation:
 twitter:
   username: geoffreyhinton
   url: https://twitter.com/geoffreyhinton
-  followers: 149341
+  followers: 149343
 
 googleScholar:
   url: https://scholar.google.com/citations?user=JicYPdAAAAAJ
@@ -31,6 +31,6 @@ images:
     isCached: true
     title: "Geoffrey Hinton"
 
-secured: "FGtSvRj39PiRE5SOQseSDo6cDLDu8wVo+isZytXPA9R4cfTiBzJilqYvl1gT0FdGPbVLoCfqeQTBDQojtPUmcunpkO0iUaXgbB1wObw5aBq9IuOLkVgno8nVZtL+bgaZO3UkTkBhJeUkV4MmfzHTdxuSWlF6IjA+Y8b4RgXt6kai7BbmKX7FRpKCn+UxM6ZpFIfPXBrcTEbNpWa2BbZV6G5Xh+MMNeBxWWn3K9SKfifBOS/vbna01ncZhgLOfyWxN7cqPGReksXmNoGARR4W7Ggf71fJfNbJBD5q9i2Z7NPti3WAnflcaAtadVFk9IBem2I/JNZ+pqqeMyboMST2XfelsJKr2w5NtavsAIasUNmELHIkvLIQV7BojmwLA1IIziYnSoJlxvpUXsUB2ODnHrjBqwgR0ScfvNNpyLJVOzM=;JHQwgQ6bfS4U05+0uPHdPQ=="
+secured: "RcV2E+QhO8BcX2+TRl4dE6/hDZaYAowqGZmT5q3vTJCs/269G0/ZyOsgEklpv84Oi7eKTrajbmQgCLRVrQnC0zpV7NMNT3dNwRrEf5eTyDdX2Hp4zcXkDgVSKbhbpXzZSs0QLwCuSDhgHU0TxdkC/lhdvvWYWAnDptXn5rAi69jftHGLMJe8d/UTwpb7ihPqpf1Vgz5uMlECnt+9t+010UjxD8VOVwDktdesHmV0XNgf2gLzv6aa5OsQeUYrJIOd0m+0JPtgQKAwUWPkDKOeUci9G1lhLdz1/piAKn/AFfeJwrgjAf9A39K1jYj1TkC0IB2t0ZQ9xjYzklyok7hkFCmKAaD2SqQeeppgcVdBm/AkeWHUrLMfR6XjjzY9cpq8VQMrOJKCho94mLzL+oTLkLFNfkpbLrm65d4089g9gII=;h0KQe7+wnqR4RJEWzj7JZw=="
 ---
 
