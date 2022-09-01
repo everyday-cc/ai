@@ -83,6 +83,22 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "NVIDIA reveals new US government rule restricting export of AI chips to China and Russia"
+    excerpt: "As The New York Times notes, AI and machine learning are used for various applications that include weapons development and surveillance. A US Department of Commerce spokesperson told Reuters: \"While we are not in a position to outline specific policy ..."
+    publishedDateTime: 2022-09-01T07:02:00Z
+    webUrl: "https://www.engadget.com/nvidia-government-rule-restricting-export-ai-chips-china-russia-061846437.html"
+    ampWebUrl: "https://www.engadget.com/amp/nvidia-government-rule-restricting-export-ai-chips-china-russia-061846437.html"
+    cdnAmpWebUrl: "https://www-engadget-com.cdn.ampproject.org/c/s/www.engadget.com/amp/nvidia-government-rule-restricting-export-ai-chips-china-russia-061846437.html"
+    type: article
+    provider:
+      name: Engadget
+      domain: engadget.com
+    quality: 78
+    images:
+      - url: "https://s.yimg.com/os/creatr-uploaded-images/2022-08/9b3ca8c0-2479-11ed-bfbd-99225c168e56"
+        width: 6000
+        height: 4000
+        isCached: true
   - title: "Machine learning at the edge: The AI chip company challenging Nvidia and Qualcomm"
     excerpt: "Sima AI's machine learning system-on-chip (MLSoC) platform that enables ML deployment and scaling at the edge has started shipping."
     publishedDateTime: 2022-08-30T13:00:00Z
@@ -92,6 +108,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 76
+  - title: "Nvidia and AMD impacted as US restricts GPU sales to China"
+    excerpt: "The US has once gain tightened the loop around China's semiconductor industry, and this time it is specifically targeting China's high-performance computing, especially machine learning infrastructure."
+    publishedDateTime: 2022-09-01T06:10:00Z
+    webUrl: "https://www.digitimes.com/news/a20220901VL204/amd-gpu-nvidia-us-china-trade-war.html"
+    type: article
+    provider:
+      name: Digi Times
+      domain: digitimes.com
+    quality: 56
+    images:
+      - url: "https://img.digitimes.com/newsshow/20220901vl204_files/2_2b.jpg"
+        width: 1280
+        height: 854
+        isCached: true
   - title: "Nvidia, AMD warned of new US export restrictions on AI chips"
     excerpt: "The U.S. government has issued new export licensing requirements to Nvidia and AMD for export to China and Russia of the advanced GPUs used for AI."
     publishedDateTime: 2022-08-31T23:06:00Z
@@ -106,6 +136,29 @@ related:
         width: 1200
         height: 600
         isCached: true
+  - title: "Nvidia and AMD ordered to cease selling AI chips to China by US"
+    excerpt: "Regulatory filing by chipmakers indicates the new licensing requirements arise out of concerns that the chips could be used for military purposes"
+    publishedDateTime: 2022-09-01T07:34:00Z
+    webUrl: "https://www.proactiveinvestors.com/companies/news/991523/nvidia-and-amd-ordered-to-cease-selling-ai-chips-to-china-by-us-991523.html"
+    type: article
+    provider:
+      name: Proactiveinvestors
+      domain: proactiveinvestors.com
+    quality: 54
+    images:
+      - url: "https://cdn.proactiveinvestors.com/eyJidWNrZXQiOiJwYS1jZG4iLCJrZXkiOiJ1cGxvYWRcL05ld3NcL0ltYWdlXC8yMDIyXzA5XC8yMDIyLTA5LTAxLTA3LTMzLTQ2LWUwOWViNDVhMDlkYzZkOGZlYzBiNmYzNWJjMWIwNTgwLmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6MTIwMCwiaGVpZ2h0Ijo2MzAsImZpdCI6ImNvdmVyIn19fQ=="
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nvidia and AMD are warning about new US export limits to Russia and China on AI chips"
+    excerpt: "The U.S. has begun to impose fresh restrictions on exports of advanced chips necessary for AI-related applications to Russia and China. Sales of the semiconductors that power systems sold by AMD and Nvidia without a license are affected. The controls ..."
+    publishedDateTime: 2022-09-01T07:13:00Z
+    webUrl: "https://www.guru3d.com/news-story/nvidia-and-amd-are-warning-about-new-us-export-limits-to-russia-and-china-on-ai-chips.html"
+    type: article
+    provider:
+      name: Guru3D.com
+      domain: guru3d.com
+    quality: 27
 
 secured: "5SPW2xZc4SeoWyT77cBEGOJx6b6bGAZ0xn1bzsPQtpfWSw/7Td3s4dS3XRPfM4NswTkc3MZy9gv+CZroeFhbN3y6GQPL/59HqBOTZy3bvVHr6a9unq0B7tjx/L+VDgXzHREaQGcPobioF7MVGWLxia/Ug+GfxNcHgiJuao69yjXO+s0ybneFPun2Dh1dn41BerBYpzExQKE8u0pJTOwCJgkAdmZl9kYSaBBU9mIgcN119ldMhDvumrSovHiHysw+kP37YRaiOz3ph1J7Jda7MFU1nfUcKbuD8Z4xl7glWi0iaTEI0VKGtgVajOxH+jsjXX/mXKI+Rr5B059s3fi+fH4zVJOoc0K2MrmsKFNhiWY=;gBoAejWbFVOg5uZjhiZumw=="
 ---

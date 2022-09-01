@@ -65,15 +65,6 @@ related:
         width: 889
         height: 593
         isCached: true
-  - title: "AI Model Detects Parkinson’s From Breathing Patterns"
-    excerpt: "A team of researchers at MIT has developed an artificial intelligence (AI) model that can detect Parkinson’s from reading a person’s breathing patterns.  The neural network is able to assess a person’s nocturnal breathing,"
-    publishedDateTime: 2022-08-27T13:52:00Z
-    webUrl: "https://www.unite.ai/ai-model-detects-parkinsons-from-breathing-patterns/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 19
 
 secured: "j+2svM1rXWeteoGD/gclSUWV3EDgiTIYjw7aSGU0aJZ/yrK/mtVcEIprGhCOr5Hjq2uv7hs4/VZjYV0iW+6RfpF+hZgzhsxYe6eo95v7XXQnRYjxlm+94xWvWFf+BWl+xY2RQEv3YyOLzndze80k1tnzXOfoLTnW0uU+fvAaADqilCQzehWra+xEPC0ZoVoByKpBv+uVv47WB97vF5yNviQcrgF6l7/AHHJRqUlt6LTBJT7IbPrFke4ehyGXfsHbUyLfMnr4CLmqLVi/y+3pYPcz3CbJehUf/XIduY6/Pyezl+MZCD5ZhOP5aUl/yA7XyAek6n+QS9N+VaFZyyDmfOC/eRS3Dq3RO9MAbjK8B/Aa2IbdvqTfHchMXgS2jevSsUS7DBFBoMtwQrzPI4UHStm98ouUP1Cj1JJVoVjgpAKHTcJ7v96ZIJbZ/GIUqqNm8abgVaiIQ5qCiOfgnwsECi5INqaDjnb8heQFGUJGmzLa7sEfUpYGDUkWFfq9gJ0A8j9CbpNZ6zQnw+vhOT063g==;tk6GXJmTRZg0QrCpVIALTg=="
 ---

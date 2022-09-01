@@ -91,58 +91,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-30-googles-100-million-settlement-theres-still-time-to-see-if-youre-eligible-for-a-check.md",
-      "title": "Google's $100 Million Settlement: There's Still Time to See if You're Eligible for a Check",
-      "excerpt": "Google Photos' Face Grouping tool lets users organize images of the same person via facial recognition algorithms ... The deadline to opt out of or object to the settlement was Aug. 10. A final approval hearing for the settlement is scheduled for Sept.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/personal-finance/googles-100-million-settlement-theres-still-time-to-see-if-your-eligible-for-a-check/",
-      "originalUrl": "https://www.cnet.com/personal-finance/googles-100-million-settlement-theres-still-time-to-see-if-your-eligible-for-a-check/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/95ce5ca58f4c78b55da7303cc63a9f06721a1e3d/2022/08/25/f0a2866b-e71b-40d6-9c3d-2d0c873b3407/gettyimages-1242657903.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-100-million-settlement-theres-still-time-to-see-if-your-eligible-for-a-check/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-100-million-settlement-theres-still-time-to-see-if-your-eligible-for-a-check/",
-      "publishedDateTime": "2022-08-29T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-26-ai-eye-podcast-and-video-gbts-ceo-discusses-apollo-and-ai-in-image-recognition.md",
       "title": "AI Eye Podcast and Video - GBT's CEO Discusses Apollo and AI in Image Recognition",
       "excerpt": "Investorideas.com ( a global investor news source covering Artificial Intelligence(AI) stocks releases an exclusive podcast with AI innovator GBT Technologies Inc. (OTC Pink: GTCH). and sector snapshot looking at the growing AI tech implementation in the autonomous vehicles market via image recognition and computer vision.",
@@ -1396,6 +1344,59 @@
       "topics": [
         "Computer Vision",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-announcing-the-launch-of-the-model-copy-feature-for-amazon-rekognition-custom-labels.md",
+      "title": "Announcing the launch of the model copy feature for Amazon Rekognition Custom Labels",
+      "excerpt": "Amazon Rekognition Custom Labels is a fully managed computer vision service that allows developers to build custom models to classify and identify objects in images that are specific and unique to your business. Rekognition Custom Labels doesn’t require you to have any prior computer vision expertise.",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-launch-of-the-model-copy-feature-for-amazon-rekognition-custom-labels/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/announcing-the-launch-of-the-model-copy-feature-for-amazon-rekognition-custom-labels/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/08/16/model-copy-feature.jpg",
+          "width": 1329,
+          "height": 664,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T15:42:33-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Computer Vision"
       ]
     }
   ],

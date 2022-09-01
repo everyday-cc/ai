@@ -63,7 +63,7 @@
       "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/08/31/gaining-insights-from-private-data-using-federated-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -264,7 +264,7 @@
       "originalUrl": "https://www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -968,6 +968,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-25-dell-technologies-deep-learning-model-to-help-protect-the-great-barrier-reef.md",
+      "title": "Dell Technologies Deep Learning Model To Help Protect The Great Barrier Reef",
+      "excerpt": "Dell Technologies has announced a new deep learning technology model, launched in partnership with Australia-based conservation organisation Citizens of The Great Barrier Reef. The model will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessworld.in/article/Dell-Technologies-Deep-Learning-To-Help-Volunteers-Protect-The-Great-Barrier-Reef/25-08-2022-443811/",
+      "originalUrl": "https://www.businessworld.in/article/Dell-Technologies-Deep-Learning-To-Help-Volunteers-Protect-The-Great-Barrier-Reef/25-08-2022-443811/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static.businessworld.in/article/article_extra_large_image/1661435711_GzAgWy_dell_grc.jpg",
+          "width": 639,
+          "height": 369,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T07:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Businessworld",
+        "domain": "businessworld.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-financial-companies-look-at-ai-and-machine-learning-to-reduce-cost-kpmg.md",
       "title": "Financial companies look at AI and machine learning to reduce cost: KPMG",
       "excerpt": "Banks would need to develop the skill set inhouse or bring in external experts. External subject matter experts can help them benchmark themselves with peer banks around risk management, controls and governance framework enhancements.",
@@ -1402,51 +1445,6 @@
       "topics": [
         "Machine Learning",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-how-is-machine-learning-affecting-advertising-and-marketing.md",
-      "title": "How is Machine Learning Affecting Advertising and Marketing?",
-      "excerpt": "Machine learning is transforming the dynamics of the advertising and marketing industry by segmenting and targeting specific audiences with relevant messages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/how-is-machine-learning-affecting-advertising-and-marketing",
-      "originalUrl": "https://www.bbntimes.com/technology/how-is-machine-learning-affecting-advertising-and-marketing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/How_is_Machine_Learning_Affecting_Advertising_and_Marketing_.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Marketing"
       ]
     }
   ],

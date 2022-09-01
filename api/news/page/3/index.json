@@ -2,110 +2,6 @@
   "page": 3,
   "value": [
     {
-      "path": "_news/2022-08-29-amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare.md",
-      "title": "Amazon Vs. Apple: Only One Will Rewrite The Rules Of Healthcare",
-      "excerpt": "One company is dutifully abiding by an old, unwritten rule of health technology. The other is poised to rewrite the healthcare rulebook altogether.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robertpearl/2022/08/29/amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare/",
-      "originalUrl": "https://www.forbes.com/sites/robertpearl/2022/08/29/amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6308d893ea15b506f9653b4f/0x0.jpg?format=jpg&crop=3887,2591,x0,y0,safe&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robertpearl/2022/08/29/amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2022/08/29/amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare/amp/",
-      "publishedDateTime": "2022-08-29T01:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-why-metas-large-language-model-does-not-work-for-researchers.md",
-      "title": "Why Meta’s large language model does not work for researchers",
-      "excerpt": "Language models can revolutionize how scientific researchers study and approach different disciplines — thus spurring scientific innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/why-metas-large-language-model-does-not-work-for-researchers/",
-      "originalUrl": "https://venturebeat.com/ai/why-metas-large-language-model-does-not-work-for-researchers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1206801125-ipopba.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 608,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/why-metas-large-language-model-does-not-work-for-researchers/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-metas-large-language-model-does-not-work-for-researchers/amp/",
-      "publishedDateTime": "2022-08-28T17:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-29-how-machine-learning-and-blockchain-can-solve-world-hunger.md",
       "title": "How Machine Learning and Blockchain can solve world hunger",
       "excerpt": "However, we live in an era of the digital age where advancements in technologies such as machine learning and blockchain have been catapulted by the progress of the fourth industrial revolution. With such advancements in technologies,",
@@ -841,6 +737,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-27-comment-warren-buffetts-interest-a-boost-for-driverless-trucks.md",
+      "title": "Comment: Warren Buffett’s interest a boost for driverless trucks",
+      "excerpt": "Warren Buffett’s Berkshire Hathaway didn’t gain fame for investing in startups. The venerated investor has a predilection for buying time-tested businesses like an oil company, a railroad or ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.heraldnet.com/opinion/comment-warren-buffetts-interest-a-boost-for-driverless-trucks/",
+      "originalUrl": "https://www.heraldnet.com/opinion/comment-warren-buffetts-interest-a-boost-for-driverless-trucks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png",
+          "width": 400,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-27T01:33:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "HeraldNet",
+        "domain": "heraldnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-27-artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system.md",
       "title": "Artificial Intelligence: Path-breaking revolution in Indian Healthcare System",
       "excerpt": "In the form of machine learning, AI has the capability for the development of precision medicine, which is the future of advanced care. Although early..",
@@ -880,6 +819,49 @@
       ],
       "topics": [
         "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-fintech-and-msmes-are-together-changing-the-face-of-digitalisation.md",
+      "title": "Fintech and MSMEs are together changing the face of digitalisation",
+      "excerpt": "Fintech companies are betting on the power of AI, machine learning, and big data to drive growth and innovation in the MSME sector. The fintech space has witnessed enormous success in the Asia ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
+      "originalUrl": "https://yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/21/0a385fc03e6011e999df3d1594bbde2c/Imageybe01574423681172jpg ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
+      "publishedDateTime": "2022-08-26T19:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YourStory",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
         "AI"
       ]
     },
@@ -924,6 +906,50 @@
       "topics": [
         "AI in Healthcare",
         "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-warren-buffett-bullish-on-driverless-trucks-after-purchasing-stake-in-kodiak-robotics.md",
+      "title": "Warren Buffett bullish on driverless trucks after purchasing stake in Kodiak Robotics",
+      "excerpt": "This investment is a significant validation by Berkshire Hathaway, through Pilot, that driverless trucks are on the cusp of being a reality. It may be hard and even scary to imagine an 18-wheeler ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/mobility-report/why-warren-buffett-bullish-driverless-trucks",
+      "originalUrl": "https://www.autonews.com/mobility-report/why-warren-buffett-bullish-driverless-trucks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/buffett_0.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-26T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
       ]
     },
     {
@@ -1167,58 +1193,6 @@
         "AI",
         "AWS AI",
         "Natural Language Processing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-first-trust-exchange-traded-fund-vi-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaq-robt.md",
-      "title": "First Trust Exchange-Traded Fund VI - First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ: ROBT)",
-      "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 08/26/2022. Discounted offers are only available to new ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/quote/nasdaq/robt/",
-      "originalUrl": "https://www.fool.com/quote/nasdaq/robt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png",
-          "width": 843,
-          "height": 342,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T09:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

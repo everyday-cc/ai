@@ -6,8 +6,8 @@ publishedDateTime: 2022-08-31T14:11:00Z
 originalUrl: "https://hbr.org/2022/08/when-and-why-you-should-explain-how-your-ai-works"
 webUrl: "https://hbr.org/2022/08/when-and-why-you-should-explain-how-your-ai-works"
 type: article
-quality: 37
-heat: 37
+quality: 39
+heat: 39
 published: false
 
 provider:
@@ -16,6 +16,7 @@ provider:
 
 topics:
   - AI
+  - IBM AI
 
 images:
   - url: "https://hbr.org/resources/images/article_assets/2022/08/Aug22_31_1308454794.jpg"

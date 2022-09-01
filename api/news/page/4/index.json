@@ -2,6 +2,58 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-26-first-trust-exchange-traded-fund-vi-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaq-robt.md",
+      "title": "First Trust Exchange-Traded Fund VI - First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ: ROBT)",
+      "excerpt": "Calculated by average return of all stock recommendations since inception of the Stock Advisor service in February of 2002. Returns as of 08/26/2022. Discounted offers are only available to new ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/quote/nasdaq/robt/",
+      "originalUrl": "https://www.fool.com/quote/nasdaq/robt/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://g.foolcdn.com/misc-assets/hp-sa-cumulative-growth-chart.png",
+          "width": 843,
+          "height": 342,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-26T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-26-lg-ultragear-oled-gaming-monitor-and-ultrafine-display-ergo-ai-with-4k-resolution-launched.md",
       "title": "LG UltraGear OLED gaming monitor and Ultrafine Display Ergo AI with 4K resolution launched",
       "excerpt": "LG has unveiled UltraGear 240Hz curved OLED gaming monitor and UltraFine Display Ergo AI. The devices have model numbers 45GR95QE and 32UQ890. The company also confirmed its presence at the upcoming event after a two-year break due to the pandemic.",
@@ -1170,59 +1222,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-nvidia-grace-and-hopper-superchips-are-poised-to-be-ai-and-hpc-powerhouses.md",
-      "title": "NVIDIA Grace And Hopper Superchips Are Poised To Be AI And HPC Powerhouses",
-      "excerpt": "NVIDIA’s Grace Superchips will become part of a building inertia with respect to the highly scalable ArmV9 architecture in the data center, and give legacy x86 a run for its money.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/davealtavilla/2022/08/25/nvidia-grace-and-hopper-superchips-are-poised-to-be-ai-and-hpc-powerhouses/",
-      "originalUrl": "https://www.forbes.com/sites/davealtavilla/2022/08/25/nvidia-grace-and-hopper-superchips-are-poised-to-be-ai-and-hpc-powerhouses/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 104,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/6307aa901bf7e61eb9653b4d/0x0.jpg?format=jpg&width=1200",
-          "width": 1000,
-          "height": 598,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/davealtavilla/2022/08/25/nvidia-grace-and-hopper-superchips-are-poised-to-be-ai-and-hpc-powerhouses/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/davealtavilla/2022/08/25/nvidia-grace-and-hopper-superchips-are-poised-to-be-ai-and-hpc-powerhouses/amp/",
-      "publishedDateTime": "2022-08-25T10:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

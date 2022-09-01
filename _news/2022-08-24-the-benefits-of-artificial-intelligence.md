@@ -17,6 +17,7 @@ provider:
 
 topics:
   - AI
+  - AI in Autos
 
 images:
   - url: "https://www.eweek.com/wp-content/uploads/2022/01/BMC-Database-05-1088x725-1.jpg"

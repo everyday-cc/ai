@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/aparnadhinakaran/2022/08/31/gaining-ins
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/aparnadhinakaran/2022/08/31/gaining-insights-from-private-data-using-federated-learning/amp/"
 type: article
 quality: 89
-heat: 109
+heat: 119
 published: true
 
 provider:
@@ -60,6 +60,20 @@ related:
       - url: "https://images.law.com/contrib/content/uploads/sites/402/2022/08/Halt-Glabicki-767x633.jpg"
         width: 767
         height: 633
+        isCached: true
+  - title: "The Democratization of Machine Learning: Here’s how Applied Machine Learning Days (AMLD) Africa impacted (almost) the whole continent"
+    excerpt: "AMLD Africa ( a free Machine Learning conference, makes it possible for anyone in Africa to learn about AI with world-class speakers and entities.  15.7 trillion US$. This is the expected contribution of Artificial Intelligence to the global economy by 2030 according to PwC’s report “Sizing the Price” ( Here’s how Applied Machine Learning Days (AMLD) Africa is offering free access to high-quality education around AI to democratize AI in Africa,"
+    publishedDateTime: 2022-09-01T06:04:00Z
+    webUrl: "https://www.zawya.com/en/press-release/africa-press-releases/the-democratization-of-machine-learning-heres-how-applied-machine-learning-days-amld-africa-impacted-almost-bai0nowi"
+    type: article
+    provider:
+      name: Zawya
+      domain: zawya.com
+    quality: 23
+    images:
+      - url: "https://static.zawya.com/version/c:ODFkNTRmMzgtZDAwMC00:YWRmOWVk/fpr_3946_2022_03_01.jpg?f=1%3A1&q=0.75&w=3840"
+        width: 337
+        height: 337
         isCached: true
 
 secured: "V9uS/4aHsEgIFnFlrKLyBx2YmWSK3acJG3R8/t64TqAGO2ORkVMJSKUWBh357wZagCaWeyozcbLenlt7OabQWj5YoCviu/YymI+8bDbMvAmB6waTa+YCHPKNvmlThlo1+g78wGl7I+aseRfJjiar2FSt/7XdvTtVjV/C1Ukju9xfRqhbXb9AF+UaPQv61DyCvI/qwpXuybsnD/UwwMzD5/FEKsjq28ICPMF6JcprRNvM2m9dFuB+pveMS4QLH9Q6+QaCnc3f/02QlVaeRw5lDAimdTyVDLoK4w6Xn9mmayeqjKr03fsyxOEM77UNa3GOpWG6UpoTR9hJWXzG4cZLztLXa+TXxy+V3eo/TJrmIv8iNyR5Vcv7tQVZW15TPggaDMgIPYBB8RTylHGX2/3u8gQju1ECJUzIgmFgSsRJOoCj9oMsWx6/mDir6eP6Y3g/50kAUkMML9IthvqdKpBiv3g7cnRHpQZv5RE+QiwBI+c+flcQyDJLYIn/S47vPUTm34Mzn+j3rNbw+WxuzCi35w==;QQxopSSPC9qwdmIIYvzMcg=="

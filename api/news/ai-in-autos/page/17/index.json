@@ -2,6 +2,146 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-05-17-argo-ai-begins-driverless-testing-in-austin-and-miami.md",
+      "title": "Argo AI Begins Driverless Testing In Austin And Miami",
+      "excerpt": "Argo AI, the Pittsburgh, Pennsylvania-based automated driving company majority owned by Ford and Volkswagen has just begun its first driverless testing on public roads in Miami and Austin. This milestone comes about five and a half years after the company ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/",
+      "originalUrl": "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 244,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62839ea0171c859a3a9cfd95/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/samabuelsamid/2022/05/17/argo-ai-begins-driverless-testing-in-austin-and-miami/amp/",
+      "publishedDateTime": "2022-05-17T08:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-17-tesla-to-host-second-artificial-intelligence-day-in-august.md",
+      "title": "Tesla to host second artificial intelligence day in August",
+      "excerpt": "Tesla Inc top boss Elon Musk said https://twitter.com/elonmusk/status/1526685434910212102 on Tuesday the electric-car maker will host its second artificial ...",
+      "sourceUrl": null,
+      "webUrl": "https://financialpost.com/pmn/business-pmn/tesla-to-host-second-artificial-intelligence-day-in-august",
+      "originalUrl": "https://financialpost.com/pmn/business-pmn/tesla-to-host-second-artificial-intelligence-day-in-august",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-16T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Financial Post",
+        "domain": "financialpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-16-ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars.md",
+      "title": "AI Ethics Tempted But Hesitant To Use AI Adversarial Attacks Against The Evils Of Machine Learning, Including For Self-Driving Cars",
+      "excerpt": "The net result would seem to be an outcome of good. Not everyone agrees with that sentiment. From an AI Ethics perspective, there is a lot of handwringing going on about this meaty topic. Some would argue that by leveraging adversarial attacks, even when ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 133,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//62814aa647441d8a952568f8/0x0.jpg?format=jpg&crop=2715,1528,x279,y50,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/05/16/ai-ethics-tempted-but-hesitant-to-use-ai-adversarial-attacks-against-the-evils-of-machine-learning-including-for-self-driving-cars/amp/",
+      "publishedDateTime": "2022-05-16T08:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-05-16-asia-pacific-self-driving-car-market-2022-recent-developments-competitive-landscape-and-regional-forecast-to-2030.md",
       "title": "Asia-Pacific Self-driving Car Market 2022 : Recent Developments, Competitive Landscape and Regional Forecast to 2030",
       "excerpt": "Self-driving or autonomous car will act as a driving factor to minimize accidents and improve vehicle safety. Autonomous cars have gained enough hype in Asia-Pacific. Large tech companies like Alibaba, Baidu, Didi Chuxing and Softbank are investing on the ...",

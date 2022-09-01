@@ -10,7 +10,7 @@
       "originalUrl": "https://www.forbes.com/sites/ganeskesari/2022/08/31/how-ai-is-helping-anonymize-clinical-trial-submissions/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 87,
+      "heat": 89,
       "tags": null,
       "images": [
         {
@@ -49,7 +49,8 @@
         "news"
       ],
       "topics": [
-        "AI"
+        "AI",
+        "Natural Language Processing"
       ]
     },
     {
@@ -157,7 +158,7 @@
       "originalUrl": "https://www.cnet.com/tech/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 181,
+      "heat": 221,
       "tags": null,
       "images": [
         {
@@ -313,7 +314,7 @@
       "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/08/31/gaining-insights-from-private-data-using-federated-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -1197,7 +1198,7 @@
       "originalUrl": "https://www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 99,
+      "heat": 89,
       "tags": null,
       "images": [
         {

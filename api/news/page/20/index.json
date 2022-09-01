@@ -2,6 +2,135 @@
   "page": 20,
   "value": [
     {
+      "path": "_news/2022-08-13-ai-ethics-flummoxed-by-those-salting-ai-ethicists-that-instigate-ethical-ai-practices.md",
+      "title": "AI Ethics Flummoxed By Those Salting AI Ethicists That “Instigate” Ethical AI Practices",
+      "excerpt": "Is it okay or is it questionable for those salting AI Ethicists that seek to get hired by firms just to from-within stoke Ethical AI adherence? Here's the look at impacts on AI autonomous systems by such practices.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/08/13/ai-ethics-flummoxed-by-those-salting-ai-ethicists-that-instigate-ethical-ai-practices/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/08/13/ai-ethics-flummoxed-by-those-salting-ai-ethicists-that-instigate-ethical-ai-practices/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-13T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-13-a-startup-leveraging-aiml-to-help-businesses-gauge-users-mood.md",
+      "title": "A startup leveraging AI/ML to help businesses gauge users’ mood",
+      "excerpt": "She partnered with Vishal Soni, who is her husband, and co-founder Yogesh Sachdeva to launch ﻿Lightbulb.ai﻿. Founded in 2020, the startup is the trio's second entrepreneurial stint ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/2022/08/lightbulb-startup-leverages-ai-ml-help-mood-emotions/amp",
+      "originalUrl": "https://yourstory.com/2022/08/lightbulb-startup-leverages-ai-ml-help-mood-emotions/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/2/31ee0510ca7c11eba975c529dced399e/MalvikaImageTaggingnoframesEditorialTeamMaster41-1660300191556.png ",
+          "width": 1600,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/2022/08/lightbulb-startup-leverages-ai-ml-help-mood-emotions/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/2022/08/lightbulb-startup-leverages-ai-ml-help-mood-emotions/amp",
+      "publishedDateTime": "2022-08-12T18:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YourStory",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-08-13-driverless-trucks-can-be-safe-and-efficient.md",
+      "title": "Driverless Trucks Can Be Safe and Efficient",
+      "excerpt": "Higher pay has also put upward pressure on rates. There is an obvious long-term solution to both these problems: driverless trucks. But only if the industry gets off on the right foot with maximum ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.washingtonpost.com/business/driverless-trucks-canbe-safe-and-efficient/2022/08/12/e2d42ca8-1a47-11ed-b998-b2ab68f58468_story.html",
+      "originalUrl": "https://www.washingtonpost.com/business/driverless-trucks-canbe-safe-and-efficient/2022/08/12/e2d42ca8-1a47-11ed-b998-b2ab68f58468_story.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.washingtonpost.com/resizer/2CjPNwqvXHPS_2RpuRTKY-p3eVo=/1484x0/www.washingtonpost.com/pb/resources/img/twp-social-share.png",
+          "width": 1484,
+          "height": 779,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-12T14:56:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Washington Post",
+        "domain": "washingtonpost.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-13-the-role-of-motion-control-in-medical-robotics.md",
       "title": "The Role of Motion Control in Medical Robotics",
       "excerpt": "Finding the right motion control solution can support robotic advances for minimally invasive procedures. Motion control is a critical component of almost all of today’s robotic applications, explains Aleksandar Nacev,",
@@ -1030,145 +1159,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-computer-vision-in-healthcare-market-size-revenue-key-players-latest-trends-and-forecast-2028.md",
-      "title": "Computer Vision in Healthcare Market Size, Revenue, Key Players, Latest Trends, and Forecast 2028",
-      "excerpt": "The Global Computer Vision in Healthcare Market is forecasted to register a CAGR of over 47.2% during the forecast",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-size-revenue-key-players-latest-trends-and-forecast-2028-2022-08-12",
-      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-in-healthcare-market-size-revenue-key-players-latest-trends-and-forecast-2028-2022-08-12",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-12T03:29:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-microsofts-new-azure-fluid-relay-service-now-generally-available.md",
-      "title": "Microsoft’s New Azure Fluid Relay Service Now Generally Available",
-      "excerpt": "The Ballerina “Table” data structure can be more effective than maps in representing indexed data collections In this annual report, the InfoQ editors discuss the current state of AI ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/08/azure-fluid-relay-service/?amp;amp;amp",
-      "originalUrl": "https://www.infoq.com/news/2022/08/azure-fluid-relay-service/?amp;amp;amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.infoq.com/news/2022/08/azure-fluid-relay-service/en/headerimage/generatedHeaderImage-1659899905932.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-12T03:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "InfoQ",
-        "domain": "infoq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-12-hyundai-motor-group-launches-boston-dynamics-ai-institute-to-spearhead-advancements-in-artificial-intelligence-robotics.md",
-      "title": "Hyundai Motor Group Launches Boston Dynamics AI Institute to Spearhead Advancements in Artificial Intelligence & Robotics",
-      "excerpt": "Hyundai Motor Group and Boston Dynamics to invest over $400 million to establish the new institute The Institute, led by founder of Boston Dynamics Marc Raibert, to invest resources across the technical areas of cognitive AI,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70",
-      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-boston-robotics-artificial-intelligence-ade08b45674a297c618f6ec6ef204a70",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-12T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
         "AI"
       ]
     }

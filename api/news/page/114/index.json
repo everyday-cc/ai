@@ -2,6 +2,136 @@
   "page": 114,
   "value": [
     {
+      "path": "_news/2022-06-03-traffic-noise-may-impair-childrens-cognitive-development-study.md",
+      "title": "Traffic noise may impair children’s cognitive development: study",
+      "excerpt": "“Our study supports the hypothesis that childhood is a vulnerable period during which external stimuli such as noise can affect the rapid process of cognitive development that takes place before ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/policy/equilibrium-sustainability/3509834-traffic-noise-may-impair-childrens-cognitive-development-study/",
+      "originalUrl": "https://thehill.com/policy/equilibrium-sustainability/3509834-traffic-noise-may-impair-childrens-cognitive-development-study/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/04/traffic_infrastructure_033017gn3_lead.jpg?w=1280",
+          "width": 980,
+          "height": 551,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/policy/equilibrium-sustainability/3509834-traffic-noise-may-impair-childrens-cognitive-development-study/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/policy/equilibrium-sustainability/3509834-traffic-noise-may-impair-childrens-cognitive-development-study/amp/",
+      "publishedDateTime": "2022-06-02T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-03-midlife-insomnia-tied-to-later-cognitive-problems.md",
+      "title": "Midlife Insomnia Tied to Later Cognitive Problems",
+      "excerpt": "THURSDAY, June 2, 2022 (HealthDay News) -- Severe insomnia symptoms in midlife are associated with worse cognitive function in retired individuals, according to a study published online April 28 ...",
+      "sourceUrl": null,
+      "webUrl": "https://siouxcityjournal.com/lifestyles/health-med-fit/midlife-insomnia-tied-to-later-cognitive-problems/article_44e4bc1d-b6ff-5f2f-8215-aa9764537acf.html",
+      "originalUrl": "https://siouxcityjournal.com/lifestyles/health-med-fit/midlife-insomnia-tied-to-later-cognitive-problems/article_44e4bc1d-b6ff-5f2f-8215-aa9764537acf.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.chicago2.vip.townnews.com/siouxcityjournal.com/content/tncms/assets/v3/editorial/2/c5/2c5952d1-d27a-5df3-bfeb-9e3d6971678c/629901ee7d3de.image.jpg?crop=600%2C315%2C0%2C11&resize=600%2C315&order=crop%2Cresize",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T11:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Sioux City Journal",
+        "domain": "siouxcityjournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-02-merge-cells-and-column-headers-in-amazon-textract-tables.md",
+      "title": "Merge cells and column headers in Amazon Textract tables",
+      "excerpt": "Financial documents such as bank, loan, or mortgage statements are often formatted to be visually appealing and easy to read for the human eye. These same features can also make automated processing challenging at times. For instance, in the following sample statement, merging rows or columns in a table",
+      "sourceUrl": null,
+      "webUrl": "https://aws.amazon.com/blogs/machine-learning/merge-cells-and-column-headers-in-amazon-textract-tables/",
+      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/merge-cells-and-column-headers-in-amazon-textract-tables/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 86,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-02T11:37:37-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AWS",
+        "domain": "aws.amazon.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AWS AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
       "path": "_news/2022-06-03-oregon-dropping-ai-tool-used-in-child-abuse-cases.md",
       "title": "Oregon dropping AI tool used in child abuse cases",
       "excerpt": "Child welfare officials in Oregon will stop using an algorithm to help decide which families are investigated by social workers, opting instead for a new process that officials say will make better, more racially equitable decisions.",
@@ -973,138 +1103,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-why-ai-and-ml-is-reshaping-the-fintech-industry.md",
-      "title": "Why AI and ML is Reshaping the Fintech Industry",
-      "excerpt": "Andreas Braun, Director of Artificial Intelligence & Data Science at PwC Luxembourg, discusses data, AI and Machine Learning in fintech innovation",
-      "sourceUrl": null,
-      "webUrl": "https://fintechmagazine.com/financial-services-finserv/why-ai-and-ml-is-reshaping-the-fintech-industry",
-      "originalUrl": "https://fintechmagazine.com/financial-services-finserv/why-ai-and-ml-is-reshaping-the-fintech-industry",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 118,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.bizclikmedia.net/1800/35a93d254ade38e315333635bcc6b5f8:aa22f25fa98df3173136a75d085c2ce9/andreas-braun-3.JPG.jpg",
-          "width": 1800,
-          "height": 1011,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-02T01:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "fintechmagazine",
-        "domain": "fintechmagazine.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-ai-and-ml-key-combatants-in-the-cyber-security-conflict.md",
-      "title": "AI and ML: Key combatants in the cyber security conflict",
-      "excerpt": "Artificial intelligence and its subset machine learning are now key technology partners in the search for improved and faster cyber security processes.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itweb.co.za/content/kYbe9MXb61YvAWpG",
-      "originalUrl": "https://www.itweb.co.za/content/kYbe9MXb61YvAWpG",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://lh3.googleusercontent.com/vYkpjEzwFxX7WoWvv6pXqSmM-0Vy0whE8WTdxfaPH6QwmIIkCRCvWMwPnRKSXbjPfGVTQY5Ls6G5BZ5S9raS7ZY=w816-h428",
-          "width": 761,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itweb.co.za/amp/content/kYbe9MXb61YvAWpG",
-      "cdnAmpWebUrl": "https://www-itweb-co-za.cdn.ampproject.org/c/s/www.itweb.co.za/amp/content/kYbe9MXb61YvAWpG",
-      "publishedDateTime": "2022-06-02T00:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ITWeb",
-        "domain": "itweb.co.za",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Machine Learning",
-        "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-role-of-conversational-ai-in-healthcare-and-pharma-industry.md",
-      "title": "Role of Conversational AI in Healthcare and Pharma industry",
-      "excerpt": "Artificial intelligence (AI) techniques that allow machines to learn with minimal human supervision have emerged due to the exponential rise in comput..",
-      "sourceUrl": null,
-      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736",
-      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-91957736,imgsize-65798,width-1200,height-628,overlay-ethealthworld/role-of-conversational-ai-in-healthcare-and-pharma-industry.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736",
-      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/role-of-conversational-ai-in-healthcare-and-pharma-industry/91957736",
-      "publishedDateTime": "2022-06-02T00:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

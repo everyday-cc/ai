@@ -2,6 +2,146 @@
   "page": 78,
   "value": [
     {
+      "path": "_news/2022-06-28-adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.md",
+      "title": "Adversarial machine learning explained: How attackers disrupt AI and ML systems",
+      "excerpt": "Threat actors have several ways to fool or exploit artificial intelligence and machine learning systems and models, but you can defend against their tactics.",
+      "sourceUrl": null,
+      "webUrl": "https://www.csoonline.com/article/3664748/adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.html",
+      "originalUrl": "https://www.csoonline.com/article/3664748/adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/01/binary_neural_network_artificial_intelligence_machine_learning_thinkstock_636754212_tinted-100747913-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.csoonline.com/article/3664748/adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.amp.html",
+      "cdnAmpWebUrl": "https://www-csoonline-com.cdn.ampproject.org/c/s/www.csoonline.com/article/3664748/adversarial-machine-learning-explained-how-attackers-disrupt-ai-and-ml-systems.amp.html",
+      "publishedDateTime": "2022-06-28T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "CSOonline",
+        "domain": "csoonline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-australian-retailer-pauses-facial-recognition-trial-over-privacy-complaint.md",
+      "title": "Australian retailer pauses facial recognition trial over privacy complaint",
+      "excerpt": "The logos of Australian electronic goods retailers JB Hi-Fi and the privately-held 100-store rival The Good Guys are displayed at a shopping center in Sydney, Australia, May 19, 2016.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/news/picture/australian-retailer-pauses-facial-recogn-idUSKBN2O9075",
+      "originalUrl": "https://www.reuters.com/news/picture/australian-retailer-pauses-facial-recogn-idUSKBN2O9075",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 112,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s2.reutersmedia.net/resources/r/?m=02&d=20220628&t=2&i=1602869101&w=&fh=545&fw=810&ll=&pl=&sq=&r=LYNXMPEI5R04C",
+          "width": 810,
+          "height": 522,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T01:25:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-28-a-reporter-tried-the-ai-instagram-wants-to-use-to-verify-age-heres-what-it-found.md",
+      "title": "A reporter tried the AI Instagram wants to use to verify age. Here’s what it found",
+      "excerpt": "It comes less than a year after disclosures from a Facebook whistleblower raised ... and director of the school’s Face Aging Group Research Lab, thinks Yoti’s technology is a good application of AI. “It’s a worthwhile endeavor to try and protect ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.egyptindependent.com/a-reporter-tried-the-ai-instagram-wants-to-use-to-verify-age-heres-what-it-found/",
+      "originalUrl": "https://www.egyptindependent.com/a-reporter-tried-the-ai-instagram-wants-to-use-to-verify-age-heres-what-it-found/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://amayei.nyc3.digitaloceanspaces.com/2022/06/220624020303-01-instagram-ai-age-estimation-face-scan-restricted-exlarge-169.jpg",
+          "width": 780,
+          "height": 438,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-28T01:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Egypt Independent",
+        "domain": "egyptindependent.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-28-instagrams-new-ai-tool-for-age-verification.md",
       "title": "Instagram’s New AI Tool for Age-Verification",
       "excerpt": "Instagram is testing various new ways for age verification of its youngest users. Yoti’s AI tool is one of them.",
@@ -1006,153 +1146,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-weights-biases-and-runai-announce-partnership-to-accelerate-ml-developer-workflow.md",
-      "title": "Weights & Biases and Run:ai Announce Partnership to Accelerate ML Developer Workflow",
-      "excerpt": "Partnership provides ML practitioners with a complete solution for the full ML lifecycle, from MLOps and experiment tracking, to resource management at scale",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_business/weights-biases-and-run-ai-announce-partnership-to-accelerate-ml-developer-workflow/article_a684b77b-2e37-55d6-b4d9-ffa0456cb90e.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.newyork1.vip.townnews.com/wfmz.com/content/tncms/custom/image/b9818ac0-ee9a-11e9-8e9f-a3b831b71481.jpg?resize=600%2C338",
-          "width": 600,
-          "height": 338,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T11:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-openai-taught-a-neural-network-how-to-play-minecraft.md",
-      "title": "OpenAI Taught a Neural Network How to Play Minecraft",
-      "excerpt": "OpenAI has detailed its efforts to teach a neural network how to play Minecraft. The organization says(Opens in a new window) it used a \"massive unlabeled video dataset of human Minecraft play,\" along with \"a small amount of labeled contractor data,\" with ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcmag.com/news/openai-taught-a-neural-network-how-to-play-minecraft",
-      "originalUrl": "https://www.pcmag.com/news/openai-taught-a-neural-network-how-to-play-minecraft",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.pcmag.com/imagery/articles/01zNt7tEzKua4wNiI5aBF6U-1.fit_lim.size_1200x630.v1656350088.jpg",
-          "width": 1120,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.pcmag.com/news/openai-taught-a-neural-network-how-to-play-minecraft?amp=true",
-      "cdnAmpWebUrl": "https://www-pcmag-com.cdn.ampproject.org/c/s/www.pcmag.com/news/openai-taught-a-neural-network-how-to-play-minecraft?amp=true",
-      "publishedDateTime": "2022-06-27T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Magazine",
-        "domain": "pcmag.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-28-googles-powerful-ai-spotlights-a-human-cognitive-glitch.md",
-      "title": "Google’s powerful AI spotlights a human cognitive glitch",
-      "excerpt": "Because of a persistent tendency to associate fluent expression with fluent thought, it is natural – but potentially misleading – to think that if an AI model can express itself fluently ...",
-      "sourceUrl": null,
-      "webUrl": "https://arstechnica.com/science/2022/06/googles-powerful-ai-spotlights-a-human-cognitive-glitch/",
-      "originalUrl": "https://arstechnica.com/science/2022/06/googles-powerful-ai-spotlights-a-human-cognitive-glitch/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.arstechnica.net/wp-content/uploads/2022/06/typewriter-760x380.jpg",
-          "width": 760,
-          "height": 380,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-27T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Ars Technica",
-        "domain": "arstechnica.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/arstechnica.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }

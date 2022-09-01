@@ -2,6 +2,74 @@
   "page": 17,
   "value": [
     {
+      "path": "_news/2022-08-16-featurespace-and-vital4-partner-to-provide-enhanced-watchlist-screening.md",
+      "title": "Featurespace and Vital4 Partner to Provide Enhanced Watchlist Screening",
+      "excerpt": "With a mission to make the world a safer place to transact, Featurespace helps banks and financial institutions protect consumers, and reduce risk and operating costs by providing industry-leading machine learning, financial crime prevention solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.01net.it/featurespace-and-vital4-partner-to-provide-enhanced-watchlist-screening/",
+      "originalUrl": "https://www.01net.it/featurespace-and-vital4-partner-to-provide-enhanced-watchlist-screening/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T09:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "01Net",
+        "domain": "01net.it",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-16-lyft-motional-continue-working-towards-fully-driverless-robotaxi-service-in-las-vegas.md",
+      "title": "Lyft, Motional continue working towards fully driverless robotaxi service in Las Vegas",
+      "excerpt": "LAS VEGAS, Nev. (FOX5) - Lyft and Motional are continuing their work towards launching a fully driverless robotaxi service in Las Vegas. According to a news release, starting Tuesday, as part of a ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fox5vegas.com/2022/08/16/riders-can-now-request-driverless-robotaxi-through-lyft-las-vegas/",
+      "originalUrl": "https://www.fox5vegas.com/2022/08/16/riders-can-now-request-driverless-robotaxi-through-lyft-las-vegas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "FOX5 Las Vegas",
+        "domain": "fox5vegas.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-16-community-financial-institutions-gain-access-to-ai-powered-personalization-through-combined-deeptarget-cognitivescale-technologies.md",
       "title": "Community Financial Institutions Gain Access to AI-Powered Personalization Through Combined DeepTarget & CognitiveScale Technologies",
       "excerpt": "For the first time, CFIs will be able to identify predictable revenue opportunities across all 15+ lending and fee based products and services ... M12 (Microsoft Ventures), Anthem and USAA.",
@@ -1068,92 +1136,6 @@
       ],
       "topics": [
         "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-global-artificial-intelligence-ai-in-operating-room-market-analysis-and-forecast-technologies-demand-growth-research-and-development.md",
-      "title": "Global Artificial Intelligence (AI) in Operating Room Market Analysis And Forecast | Technologies, Demand, Growth, Research And Development",
-      "excerpt": "Key Companies Covered in the Global Artificial Intelligence (AI) in Operating Room Research are Activ Surgical Inc., Brainomix Limited, Caresyntax Corp, DeepOR S.A.S, ExplORer Surgical Corp., Hanson Meditec Co.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-operating-room-market-analysis-and-forecast-technologies-demand-growth-research-and-development-2022-08-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/global-artificial-intelligence-ai-in-operating-room-market-analysis-and-forecast-technologies-demand-growth-research-and-development-2022-08-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-16T01:12:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-16-delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again.md",
-      "title": "Delhi Police’s facial recognition tech at 80% accuracy, stokes privacy concerns again!",
-      "excerpt": "The accuracy rates of facial-recognition software can go as high as 99.97% in ideal conditions. In 2019, Delhi Police had reported accuracy levels of 2%. While 80% may seem like a drastic improvement,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/articleshow/93587861.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/articleshow/93587861.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 96,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-211252,msid-93588009/delhi-police-personnel.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/amp_articleshow/93587861.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/news/india/delhi-polices-facial-recognition-tech-at-80-accuracy-stokes-privacy-concerns-again/amp_articleshow/93587861.cms",
-      "publishedDateTime": "2022-08-16T01:03:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
         "AI"
       ]
     }

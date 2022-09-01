@@ -9,7 +9,7 @@ ampWebUrl: "https://www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_de
 cdnAmpWebUrl: "https://www-poandpo-com.cdn.ampproject.org/c/s/www.poandpo.com/in-sickness-and-health/mit_s_ai_model_can_detect_parkinson_s_by_tracking_breathing_patterns.amp"
 type: article
 quality: 59
-heat: 99
+heat: 89
 published: true
 
 provider:
@@ -57,15 +57,6 @@ related:
         width: 889
         height: 593
         isCached: true
-  - title: "AI Model Detects Parkinson’s From Breathing Patterns"
-    excerpt: "A team of researchers at MIT has developed an artificial intelligence (AI) model that can detect Parkinson’s from reading a person’s breathing patterns.  The neural network is able to assess a person’s nocturnal breathing,"
-    publishedDateTime: 2022-08-27T13:52:00Z
-    webUrl: "https://www.unite.ai/ai-model-detects-parkinsons-from-breathing-patterns/"
-    type: article
-    provider:
-      name: unite
-      domain: unite.ai
-    quality: 19
   - title: "AI can now detect Parkinson’s disease as we sleep"
     excerpt: "Artificial intelligence analyses the respiratory patterns ... either from radio signals that bounce off their body or from a breathing belt they wear while sleeping. A neural network, ie, a series of algorithms, is able to deduce whether or not the person ..."
     publishedDateTime: 2022-08-31T03:35:00Z

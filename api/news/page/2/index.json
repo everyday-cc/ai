@@ -617,58 +617,6 @@
       ]
     },
     {
-      "path": "_news/2022-08-30-googles-100-million-settlement-theres-still-time-to-see-if-youre-eligible-for-a-check.md",
-      "title": "Google's $100 Million Settlement: There's Still Time to See if You're Eligible for a Check",
-      "excerpt": "Google Photos' Face Grouping tool lets users organize images of the same person via facial recognition algorithms ... The deadline to opt out of or object to the settlement was Aug. 10. A final approval hearing for the settlement is scheduled for Sept.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/personal-finance/googles-100-million-settlement-theres-still-time-to-see-if-your-eligible-for-a-check/",
-      "originalUrl": "https://www.cnet.com/personal-finance/googles-100-million-settlement-theres-still-time-to-see-if-your-eligible-for-a-check/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/95ce5ca58f4c78b55da7303cc63a9f06721a1e3d/2022/08/25/f0a2866b-e71b-40d6-9c3d-2d0c873b3407/gettyimages-1242657903.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-100-million-settlement-theres-still-time-to-see-if-your-eligible-for-a-check/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-100-million-settlement-theres-still-time-to-see-if-your-eligible-for-a-check/",
-      "publishedDateTime": "2022-08-29T13:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
       "path": "_news/2022-08-30-coauthor-stanford-experiments-with-human-ai-collaborative-writing.md",
       "title": "CoAuthor: Stanford experiments with human-AI collaborative writing",
       "excerpt": "Researchers at Stanford have been studying how humans and AI can write together by designing large interaction datasets.",
@@ -717,50 +665,6 @@
       ],
       "topics": [
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-robot-sales-hit-record-high-in-north-america-for-third-straight-quarter.md",
-      "title": "Robot Sales Hit Record High in North America for Third-Straight Quarter",
-      "excerpt": "Association for Advancing Automation latest stats show the most robots sold in any quarter; automotive industry returns to historic norms, while food & consumer goods continues interest in automation to handle e-commerce logistics boom.",
-      "sourceUrl": null,
-      "webUrl": "https://www.automation.com/en-us/articles/august-2022/robot-sales-hit-record-high-north-america",
-      "originalUrl": "https://www.automation.com/en-us/articles/august-2022/robot-sales-hit-record-high-north-america",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.automation.com/getmedia/78715b12-b6e5-4559-9d38-61e4938d9b6f/Robots-news-Aug-29-2022-web.png?width=500&height=313&ext=.png",
-          "width": 500,
-          "height": 313,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-29T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automation",
-        "domain": "automation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Sales"
       ]
     },
     {
@@ -1198,6 +1102,110 @@
       ],
       "topics": [
         "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare.md",
+      "title": "Amazon Vs. Apple: Only One Will Rewrite The Rules Of Healthcare",
+      "excerpt": "One company is dutifully abiding by an old, unwritten rule of health technology. The other is poised to rewrite the healthcare rulebook altogether.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robertpearl/2022/08/29/amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/robertpearl/2022/08/29/amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6308d893ea15b506f9653b4f/0x0.jpg?format=jpg&crop=3887,2591,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robertpearl/2022/08/29/amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2022/08/29/amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare/amp/",
+      "publishedDateTime": "2022-08-29T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-why-metas-large-language-model-does-not-work-for-researchers.md",
+      "title": "Why Meta’s large language model does not work for researchers",
+      "excerpt": "Language models can revolutionize how scientific researchers study and approach different disciplines — thus spurring scientific innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-metas-large-language-model-does-not-work-for-researchers/",
+      "originalUrl": "https://venturebeat.com/ai/why-metas-large-language-model-does-not-work-for-researchers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1206801125-ipopba.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-metas-large-language-model-does-not-work-for-researchers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-metas-large-language-model-does-not-work-for-researchers/amp/",
+      "publishedDateTime": "2022-08-28T17:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
         "AI"
       ]
     }

@@ -265,6 +265,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-27-fintech-and-msmes-are-together-changing-the-face-of-digitalisation.md",
+      "title": "Fintech and MSMEs are together changing the face of digitalisation",
+      "excerpt": "Fintech companies are betting on the power of AI, machine learning, and big data to drive growth and innovation in the MSME sector. The fintech space has witnessed enormous success in the Asia ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
+      "originalUrl": "https://yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/21/0a385fc03e6011e999df3d1594bbde2c/Imageybe01574423681172jpg ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
+      "publishedDateTime": "2022-08-26T19:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YourStory",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-25-financial-companies-look-at-ai-and-machine-learning-to-reduce-cost-kpmg.md",
       "title": "Financial companies look at AI and machine learning to reduce cost: KPMG",
       "excerpt": "Banks would need to develop the skill set inhouse or bring in external experts. External subject matter experts can help them benchmark themselves with peer banks around risk management, controls and governance framework enhancements.",
@@ -454,22 +497,31 @@
       "title": "BitOoda Partners with CoreWeave to Deliver High Performance Compute Solutions for Financial Markets",
       "excerpt": "BitOoda, a pioneering Digital Asset investment Bank, announced a partnership with CoreWeave, the leading specialized cloud provider of high-performance compute solutions. The partnership will accelerate the penetration of CoreWeave’s services for compute-heavy workloads in financial applications.",
       "sourceUrl": null,
-      "webUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-19-bitooda-partners-with-coreweave-to-deliver-high-performance-compute-solutions-for-financial-markets",
-      "originalUrl": "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-19-bitooda-partners-with-coreweave-to-deliver-high-performance-compute-solutions-for-financial-markets",
+      "webUrl": "https://apnews.com/press-release/business-wire/technology-4be82c565d7c4bb5876d514f0fc3386a",
+      "originalUrl": "https://apnews.com/press-release/business-wire/technology-4be82c565d7c4bb5876d514f0fc3386a",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
       "tags": null,
-      "images": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
       "content": "\r\n",
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T15:08:00-07:00",
+      "publishedDateTime": "2022-08-19T13:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Daily Herald",
-        "domain": "dailyherald.com",
+        "name": "Associated Press",
+        "domain": "apnews.com",
         "images": null,
         "publishers": null,
         "authors": null
@@ -1263,41 +1315,6 @@
       "topics": [
         "AI in Finance",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-02-symphonyai-appoints-vice-president-of-artificial-intelligence-and-machine-learning.md",
-      "title": "SymphonyAI Appoints Vice President of Artificial Intelligence and Machine Learning",
-      "excerpt": "SymphonyAI, a leader in high-value enterprise AI SaaS for strategic industries, announced today that Pushpraj (Raj) Shukla has joined the company as vice president of artificial intelligence and machine learning (AI/ML) and head of incubation.",
-      "sourceUrl": null,
-      "webUrl": "https://www.tmcnet.com/usubmit/-symphonyai-appoints-vice-president-artificial-intelligence-machine-learning-/2022/08/02/9648606.htm",
-      "originalUrl": "https://www.tmcnet.com/usubmit/-symphonyai-appoints-vice-president-artificial-intelligence-machine-learning-/2022/08/02/9648606.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-02T04:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TMCnet",
-        "domain": "tmcnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],
