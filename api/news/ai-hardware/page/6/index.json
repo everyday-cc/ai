@@ -2,6 +2,58 @@
   "page": 6,
   "value": [
     {
+      "path": "_news/2022-06-16-edge-artificial-intelligence-ai-chip-market-size-share-to-expand-at-151-cagr-through-2028.md",
+      "title": "Edge Artificial Intelligence (AI) Chip Market Size, Share to Expand At 15.1% CAGR Through 2028",
+      "excerpt": "Jun 16, 2022 (Market Insight Reports) -- The Edge Artificial Intelligence (AI) Chip market size study provides a detailed analysis to identify important growth drivers, challenges, and ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-size-share-to-expand-at-151-cagr-through-2028-2022-06-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/edge-artificial-intelligence-ai-chip-market-size-share-to-expand-at-151-cagr-through-2028-2022-06-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T04:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-massachusetts-institute-of-technology-engineers-build-lego-like-artificial-intelligence-chip.md",
       "title": "Massachusetts Institute of Technology: Engineers build LEGO-like artificial intelligence chip",
       "excerpt": "Imagine a more sustainable future, where cellphones, smartwatches, and other wearable devices don’t have to be shelved or discarded for a newer model. Instead, they could be upgraded with the latest s",
@@ -1318,40 +1370,6 @@
         "AI",
         "AI in Robotics",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-06-02-the-battle-of-ai-processors-begins-in-2018.md",
-      "title": "The Battle of AI Processors Begins in 2018",
-      "excerpt": "Are GPU's Destined for AI? Which brings us to GPUs. Call it a happy accident or serendipity. But GPU makers have found themselves holding the technology that could be at the forefront of the AI revolution. Once thought of as a complementary unit to CPUs ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.designnews.com/electronics-test/battle-ai-processors-begins-2018",
-      "originalUrl": "https://www.designnews.com/electronics-test/battle-ai-processors-begins-2018",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-01T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Design News",
-        "domain": "designnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
       ]
     }
   ],

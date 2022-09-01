@@ -2,6 +2,49 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-05-27-fortinet-introduces-self-learning-ai-capabilities-in-new-network-detection-and-response-offering.md",
+      "title": "Fortinet Introduces Self-Learning AI Capabilities In New Network Detection And Response Offering",
+      "excerpt": "FortiNDR leverages machine learning and deep neural networks – the next-generation ... and response offering that leverages powerful artificial intelligence and pragmatic analytics to enable ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104279520/Fortinet-Introduces-Self-Learning-AI-Capabilities-In-New-Network-Detection-And-Response-Offering",
+      "originalUrl": "https://menafn.com/1104279520/Fortinet-Introduces-Self-Learning-AI-Capabilities-In-New-Network-Detection-And-Response-Offering",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/updates/pr/2022-05/26/M_ae5e7image_story.jpg",
+          "width": 500,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-26T22:38:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-27-tigergraph-launches-workbench-for-graph-neural-network-mlai-modeling.md",
       "title": "TigerGraph launches Workbench for graph neural network ML/AI modeling",
       "excerpt": "TigerGraph's ML Workbench should enable data scientists to build deep-learning AI models using connected data directly from the business.",
@@ -1309,59 +1352,6 @@
         "Machine Learning",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-23-delphia-review-portfolio-management-meets-machine-learning.md",
-      "title": "Delphia Review: Portfolio Management Meets Machine Learning",
-      "excerpt": "Users can sign up for the full-service broker for free but must agree ... Delphia allows users to invest in portfolios driven by machine-learning algorithms. As these algorithms receive metadata ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.fool.com/the-ascent/buying-stocks/delphia-review/",
-      "originalUrl": "https://www.fool.com/the-ascent/buying-stocks/delphia-review/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.foolcdn.com/media/affiliates/images/Delphia_Review_WBiWR0A.original.png?width=1200&crop=2:1,offset-y0",
-          "width": 1200,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-22T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Motley Fool",
-        "domain": "fool.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

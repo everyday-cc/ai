@@ -2,6 +2,228 @@
   "page": 75,
   "value": [
     {
+      "path": "_news/2022-06-29-reducing-gender-based-harms-in-ai-with-sunipa-dev.md",
+      "title": "Reducing gender-based harms in AI with Sunipa Dev",
+      "excerpt": "Natural language processing (NLP) is a form of artificial intelligence that teaches computer programs how to take in, interpret, and produce language from large data sets. For example, grammar checkers use NLP to come up with grammar suggestions that help people write grammatically correct phrases. But",
+      "sourceUrl": null,
+      "webUrl": "https://blog.google/technology/ai/reducing-gender-based-harms-in-ai-with-sunipa-dev/",
+      "originalUrl": "https://blog.google/technology/ai/reducing-gender-based-harms-in-ai-with-sunipa-dev/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 109,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sunipa_hero_joSBUvE.max-1300x1300.png",
+          "width": 1300,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://blog.google/technology/ai/reducing-gender-based-harms-in-ai-with-sunipa-dev/amp/",
+      "cdnAmpWebUrl": "https://blog-google.cdn.ampproject.org/c/s/blog.google/technology/ai/reducing-gender-based-harms-in-ai-with-sunipa-dev/amp/",
+      "publishedDateTime": "2022-06-29T09:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Google",
+        "domain": "blog.google",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/blog.google-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-david-zubler-irs-using-artificial-intelligence.md",
+      "title": "David Zubler — IRS using artificial intelligence",
+      "excerpt": "The IRS revealed a new artificial intelligence system to reduce wait times to resolve simple tasks, and improve customer service.",
+      "sourceUrl": null,
+      "webUrl": "https://www.themountainpress.com/lifestyles/lifestyles_columnists/david-zubler-irs-using-artificial-intelligence/article_fc1128bf-1fbd-51a9-b1e6-9f6c0043c84c.html",
+      "originalUrl": "https://www.themountainpress.com/lifestyles/lifestyles_columnists/david-zubler-irs-using-artificial-intelligence/article_fc1128bf-1fbd-51a9-b1e6-9f6c0043c84c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bloximages.newyork1.vip.townnews.com/themountainpress.com/content/tncms/custom/image/02ffe7d8-0d98-11eb-9099-b76c6aee61a3.png?resize=600%2C315",
+          "width": 600,
+          "height": 315,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T08:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Mountain Press",
+        "domain": "themountainpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-artificial-intelligence-techniques-used-to-obtain-antibiotic-resistance-patterns.md",
+      "title": "Artificial intelligence techniques used to obtain antibiotic resistance patterns",
+      "excerpt": "The Universidad Carlos III de Madrid (UC3M) is conducting research that analyzes antibiotic resistance patterns with the aim of finding trends that can help decide which treatment to apply to each type of patient and stop the spread of bacteria.",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-06-artificial-intelligence-techniques-antibiotic-resistance.html",
+      "originalUrl": "https://phys.org/news/2022-06-artificial-intelligence-techniques-antibiotic-resistance.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/artificial-intelligenc-44.jpg",
+          "width": 1996,
+          "height": 1599,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-06-artificial-intelligence-techniques-antibiotic-resistance.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-artificial-intelligence-techniques-antibiotic-resistance.amp",
+      "publishedDateTime": "2022-06-29T08:27:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-the-robot-handbook-has-arrived-for-the-traveller-rpg.md",
+      "title": "The Robot Handbook has Arrived for the Traveller RPG",
+      "excerpt": "The Robot Handbook is designed to be both quick and easy to use, and configurable to customise all aspects of a robot’s functions, capabilities and skills; a standard robot can be built in just a few minutes.",
+      "sourceUrl": null,
+      "webUrl": "https://thegaminggang.com/game-news/the-robot-handbook-has-arrived-for-the-traveller-rpg/",
+      "originalUrl": "https://thegaminggang.com/game-news/the-robot-handbook-has-arrived-for-the-traveller-rpg/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-29T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Gaming Gang",
+        "domain": "thegaminggang.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-29-ai-ethics-skeptical-about-establishing-so-called-red-flag-ai-laws-for-calling-out-biased-algorithms-in-autonomous-ai-systems.md",
+      "title": "AI Ethics Skeptical About Establishing So-Called Red Flag AI Laws For Calling Out Biased Algorithms In Autonomous AI Systems",
+      "excerpt": "AI Ethics is questioning whether having Red Flag AI Laws would be viable as to coping with biases in AI, including amid the advent of autonomous AI systems.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/29/ai-ethics-skeptical-about-establishing-so-called-red-flag-ai-laws-for-calling-out-biased-algorithms-in-autonomous-ai-systems/",
+      "originalUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/29/ai-ethics-skeptical-about-establishing-so-called-red-flag-ai-laws-for-calling-out-biased-algorithms-in-autonomous-ai-systems/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//623cf233e9cd7e6052c8524d/0x0.jpg?format=jpg&crop=1788,1192,x34,y0,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/lanceeliot/2022/06/29/ai-ethics-skeptical-about-establishing-so-called-red-flag-ai-laws-for-calling-out-biased-algorithms-in-autonomous-ai-systems/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/06/29/ai-ethics-skeptical-about-establishing-so-called-red-flag-ai-laws-for-calling-out-biased-algorithms-in-autonomous-ai-systems/amp/",
+      "publishedDateTime": "2022-06-29T08:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Ethics"
+      ]
+    },
+    {
       "path": "_news/2022-06-29-tesla-reportedly-lays-off-200-autopilot-employees.md",
       "title": "Tesla Reportedly Lays Off 200 Autopilot Employees",
       "excerpt": "In early June, Tesla CEO Elon Musk reportedly told executives that Tesla needed to cut 10% of its staff, based on a \"super bad feeling\" about the economy. Now, as Tesla pares back its workforce, new reports are highlighting where some of those cuts are taking place.",
@@ -894,237 +1116,6 @@
       ],
       "topics": [
         "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store.md",
-      "title": "The Role Of AI And Edge Computing In Building The Checkout-Free Store",
-      "excerpt": "The foundation of a seamless, checkout-free shopping experience is a set of sophisticated, compute-intensive AI models that map a customer's journey through a store.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//6183e5d5ee59e3b06ef1404b/0x0.jpg?format=jpg&width=1200",
-          "width": 1028,
-          "height": 685,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/29/the-role-of-ai-and-edge-computing-in-building-the-checkout-free-store/amp/",
-      "publishedDateTime": "2022-06-29T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-cognitive-immobility-when-youre-mentally-trapped-in-a-place-from-your-past.md",
-      "title": "‘Cognitive immobility’ – when you’re mentally trapped in a place from your past",
-      "excerpt": "This describes what I have dubbed “cognitive immobility”, outlined in my new research article, published in Culture & Psychology. The study used autoethnography, a research method in which the ...",
-      "sourceUrl": null,
-      "webUrl": "https://theconversation.com/cognitive-immobility-when-youre-mentally-trapped-in-a-place-from-your-past-185913",
-      "originalUrl": "https://theconversation.com/cognitive-immobility-when-youre-mentally-trapped-in-a-place-from-your-past-185913",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.theconversation.com/files/471584/original/file-20220629-26-d4f8yo.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop",
-          "width": 320,
-          "height": 213,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://theconversation.com/amp/cognitive-immobility-when-youre-mentally-trapped-in-a-place-from-your-past-185913",
-      "cdnAmpWebUrl": "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/cognitive-immobility-when-youre-mentally-trapped-in-a-place-from-your-past-185913",
-      "publishedDateTime": "2022-06-29T03:28:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Conversation",
-        "domain": "theconversation.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-7-key-microsoft-azure-analytics-services-plus-one-extra.md",
-      "title": "7 key Microsoft Azure analytics services (plus one extra)",
-      "excerpt": "Microsoft offers an array of options for data analytics in its cloud that are meant to operate together as a full analytics stack. Here is an overview of the core services and where each fits.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cio.com/article/402086/7-key-microsoft-azure-analytics-services-plus-one-extra.html",
-      "originalUrl": "https://www.cio.com/article/402086/7-key-microsoft-azure-analytics-services-plus-one-extra.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 84,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cio.com/wp-content/uploads/2022/06/cso_budgets_data_analytics_charts_money_finance_thinkstock_475775688_2400x1600-100808344-orig.jpg?quality=50&strip=all&w=1024",
-          "width": 1024,
-          "height": 682,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cio.com/article/402086/7-key-microsoft-azure-analytics-services-plus-one-extra.html/amp",
-      "cdnAmpWebUrl": "https://www-cio-com.cdn.ampproject.org/c/s/www.cio.com/article/402086/7-key-microsoft-azure-analytics-services-plus-one-extra.html/amp",
-      "publishedDateTime": "2022-06-29T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CIO",
-        "domain": "cio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-ai-startup-rolls-out-effort-to-autonomously-detect-mass-shooters.md",
-      "title": "AI Startup Rolls Out Effort to Autonomously Detect Mass Shooters",
-      "excerpt": "Kogniz Inc., a startup that says its artificial intelligence ... based company has focused its AI on offering clients the ability to use their on-premises cameras to detect things like defective ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wsj.com/articles/ai-startup-rolls-out-effort-to-autonomously-detect-mass-shooters-11656496800",
-      "originalUrl": "https://www.wsj.com/articles/ai-startup-rolls-out-effort-to-autonomously-detect-mass-shooters-11656496800",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.wsj.net/im-573411/social",
-          "width": 1225,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-29T03:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wall Street Journal",
-        "domain": "wsj.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system.md",
-      "title": "AI disrupting the healthcare sector: What’s missing in the Indian Healthcare system?",
-      "excerpt": "In healthcare, artificial intelligence is becoming increasingly sophisticated at performing what humans do, but more cost-effectively and time-efficiently. AI’s potential in healthcare is enormous, becoming an increasingly important element of the healthcare ecosystem.",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75433510.cms",
-          "width": 330,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/ai-disrupting-the-healthcare-sector-whats-missing-in-the-indian-healthcare-system/",
-      "publishedDateTime": "2022-06-29T02:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

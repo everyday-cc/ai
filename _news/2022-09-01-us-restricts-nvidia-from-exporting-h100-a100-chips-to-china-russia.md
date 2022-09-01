@@ -51,6 +51,38 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "US blocks sales of some AI chips to China as tech crackdown intensifies"
+    excerpt: "Move marks a major escalation of US efforts to restrict China’s military technology capabilities as tensions bubble over Taiwan"
+    publishedDateTime: 2022-09-01T03:46:00Z
+    webUrl: "https://www.theguardian.com/world/2022/sep/01/us-blocks-sales-of-some-ai-chips-to-china-as-tech-crackdown-intensifies"
+    ampWebUrl: "https://amp.theguardian.com/world/2022/sep/01/us-blocks-sales-of-some-ai-chips-to-china-as-tech-crackdown-intensifies"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/sep/01/us-blocks-sales-of-some-ai-chips-to-china-as-tech-crackdown-intensifies"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 91
+    images:
+      - url: "https://i.guim.co.uk/img/media/81f12dadd0e98b3ca222064b416434feaceac722/0_233_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=9ac201c8344dd822183b398db114dee2"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "US orders Nvidia and AMD to stop selling AI chips to China"
+    excerpt: "Two of America's top chipmakers have been ordered to stop selling some of their technology to China that can be used for artificial intelligence."
+    publishedDateTime: 2022-09-01T04:28:00Z
+    webUrl: "https://www.cnn.com/2022/09/01/tech/us-nvidia-amd-chips-china-sales-block-intl-hnk/index.html"
+    ampWebUrl: "https://amp.cnn.com/cnn/2022/09/01/tech/us-nvidia-amd-chips-china-sales-block-intl-hnk/index.html"
+    cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/01/tech/us-nvidia-amd-chips-china-sales-block-intl-hnk/index.html"
+    type: article
+    provider:
+      name: CNN
+      domain: cnn.com
+    quality: 87
+    images:
+      - url: "https://cdn.cnn.com/cnnnext/dam/assets/220831223536-01-nvidia-amd-chips-super-tease.jpg"
+        width: 1100
+        height: 619
+        isCached: true
   - title: "Machine learning at the edge: The AI chip company challenging Nvidia and Qualcomm"
     excerpt: "Sima AI's machine learning system-on-chip (MLSoC) platform that enables ML deployment and scaling at the edge has started shipping."
     publishedDateTime: 2022-08-30T13:00:00Z

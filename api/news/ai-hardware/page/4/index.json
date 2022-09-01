@@ -2,6 +2,49 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-12-furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps.md",
+      "title": "FuriosaAI forays into North American AI chip market, welcomes former Intel and Western Digital VPs",
+      "excerpt": "The company targets the NA market with its first generation chip “WARBOY”, set to begin volume production in Q1 2023. FuriosaAI is already sampling WARBOY with customers in South Korea. Bill Leszinske,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-software-south-korea-north-america-abed018084c6a57fe9e5eba4877cec50",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-software-south-korea-north-america-abed018084c6a57fe9e5eba4877cec50",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T08:47:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-11-gpu-as-a-service-market-to-value-usd-65-billion-by-2030-says-global-market-insights-inc.md",
       "title": "GPU As A Service Market To Value USD 65 Billion By 2030, Says Global Market Insights Inc.'",
       "excerpt": "GPU as a Service (GPUaaS ... as a service market share by 2030 led by growing adoption of cloud computing and AI technologies across various industries. Various enterprises are adopting cloud ...",
@@ -1374,58 +1417,6 @@
         "Natural Language Processing",
         "AI Hardware",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-29-how-ai-can-help-solve-cybersecuritys-predicament.md",
-      "title": "How AI Can Help Solve Cybersecurity’s Predicament",
-      "excerpt": "As thought leaders search for a failsafe cybersecurity standard, they’ve realized that a hard shift away from software and toward a hardware solution is critical.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/",
-      "originalUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62bb116946bce888db123430/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 799,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinesscouncil/2022/06/29/how-ai-can-help-solve-cybersecuritys-predicament/amp/",
-      "publishedDateTime": "2022-06-29T04:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

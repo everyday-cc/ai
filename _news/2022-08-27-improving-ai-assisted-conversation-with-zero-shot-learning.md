@@ -9,7 +9,7 @@ ampWebUrl: "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-z
 cdnAmpWebUrl: "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/amp/"
 type: article
 quality: 91
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -108,6 +108,15 @@ related:
         width: 810
         height: 540
         isCached: true
+  - title: "How AI is accelerating front-end innovation"
+    excerpt: "Artificial intelligence (AI) is emerging as a valuable tool for food and beverage makers looking to bolster front-end innovation. Manufacturers, restaurants, ingredient suppliers, flavor houses and more are leveraging insights from machine learning to get closer to consumer trends and market more nuanced propositions."
+    publishedDateTime: 2022-08-31T12:12:00Z
+    webUrl: "https://www.foodbusinessnews.net/articles/22103-how-ai-is-accelerating-front-end-innovation"
+    type: article
+    provider:
+      name: FoodBusinessNews
+      domain: foodbusinessnews.net
+    quality: 17
 
 secured: "arQpOQIbY58/WmoCbrh7+k1PmEn1gPoIbFjbFlgIMyQ5XY0FHPOSbpqzyjlPvBSlw0ZExhta+T9Q1NntC+v/5rZDWRWTljBbhi749KIe0btYsqs+0N6c0TaPbVSzsL7VLcfIXM+YQcUe0Lni0OSS2zzlXhoVbYmv+8blWuUtXGqqQ76Uyxz18wuc/OFbMcc2kkv8Ivk9zxPBA428GqGg3RIhuXSq5mBizI8ajae12wtEYXZxoGVAa0fyW74qwY11mOEiPA6HmkNhXIOLeDQ94D1sugDdv1HD9L7IszT45OPfMqAAgId2vugymUK3kR7/dHVO2mABJu0SV33NGvMuf9tdkCGpYT6oXH9lqxSU84Q18z/b7IfI4Bk24YLcOCirCT9T0dCZjpLCHrz59z4SnNAQ1fW0biPZ5ecW/GGELZGx9txw6eQXNt9ZGKUlwzcsKGRiug+w5/ukLH5ojg5jEFyU5UUIJd5HUR6iV4byDieZchlHdXV7jpqHFSuMnF2K3HfPPN7jas58tia24jU+HA==;wtGTFy7G2FmTWJZ3Mi1qRw=="
 ---

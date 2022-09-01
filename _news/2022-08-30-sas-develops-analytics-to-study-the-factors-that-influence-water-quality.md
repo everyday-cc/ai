@@ -25,54 +25,6 @@ images:
     isCached: true
 
 related:
-  - title: "Analytics, AI and robotics help MLB teams get a step closer to a perfect pitching machine"
-    excerpt: "Advances in AI, stat tracking, advanced metrics and robotics could fit together nicely for a proper 21st-century twist on a pitching machine."
-    publishedDateTime: 2022-08-27T11:05:00Z
-    webUrl: "https://techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/"
-    ampWebUrl: "https://techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 110
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/08/2527842396.2022-08-26-16_13_02.gif"
-        width: 800
-        height: 494
-        isCached: true
-  - title: "How advanced analytics and machine learning are transforming the role of ‘Finance Controllers’"
-    excerpt: "Equipping Financial Controllers with predictive capabilities, advanced analytics and ML will help them elevate their role from providing back-office support to business partnering. The role of a finance controller is changing. It is expected that ..."
-    publishedDateTime: 2022-08-30T14:39:00Z
-    webUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers/"
-    ampWebUrl: "https://timesofindia.indiatimes.com/blogs/voices/how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers/"
-    cdnAmpWebUrl: "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers/"
-    type: article
-    provider:
-      name: Indiatimes
-      domain: indiatimes.com
-    quality: 64
-    images:
-      - url: "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/anshuman.jpg"
-        width: 400
-        height: 400
-        isCached: true
-  - title: "Conference on healthcare data analytics"
-    excerpt: "A two-day conference on healthcare data analytics was organised by The Sankara Nethralaya Academy in hybrid mode. The conference was inaugurated by Girish Shiva Rao, president of Medical Research Foundation,"
-    publishedDateTime: 2022-08-28T14:49:00Z
-    webUrl: "https://www.thehindu.com/news/national/tamil-nadu/conference-on-healthcare-data-analytics/article65822543.ece"
-    ampWebUrl: "https://www.thehindu.com/news/national/tamil-nadu/conference-on-healthcare-data-analytics/article65822543.ece/amp/"
-    cdnAmpWebUrl: "https://www-thehindu-com.cdn.ampproject.org/c/s/www.thehindu.com/news/national/tamil-nadu/conference-on-healthcare-data-analytics/article65822543.ece/amp/"
-    type: article
-    provider:
-      name: The Hindu
-      domain: thehindu.com
-    quality: 59
-    images:
-      - url: "https://www.thehindu.com/theme/images/amp-og-image.jpg"
-        width: 1200
-        height: 1200
-        isCached: true
   - title: "Cloudera’s New ‘CDP One’ Removing Obstacles To Adopt Industrial-Grade Analytics And ML"
     excerpt: "Ranked Industry Analyst Patrick Moorhead dives in as Cloudera is a company that hopes to remove challenges and obstacles to AI deployment by recently launching a new software-as-a-service-based (SaaS)"
     publishedDateTime: 2022-08-29T19:12:00Z
@@ -82,24 +34,29 @@ related:
       name: Forbes
       domain: forbes.com
     quality: 43
-  - title: "UF Partners with SAS to Tackle Water Quality Challenges with Analytics"
-    excerpt: "The project will evaluate the connections between water quality and key economic sectors in the region. As part of the yearlong project, SAS and CCS will use SAS Viya on Microsoft Azure to develop a web-based water analytics platform to integrate a diversity of data streams to facilitate scientific research,"
-    publishedDateTime: 2022-08-30T14:18:00Z
-    webUrl: "https://www.datanami.com/this-just-in/uf-partners-with-sas-to-tackle-water-quality-challenges-with-analytics/"
+  - title: "Teradata launches VantageCloud Lake for ad-hoc analytics"
+    excerpt: "VantageCloud Lake edition comes with expanded ClearScape Analytics suite that supports in-database analytics for artificial intelligence and machine learning operations."
+    publishedDateTime: 2022-08-29T13:30:00Z
+    webUrl: "https://www.infoworld.com/article/3671135/teradata-launches-vantagecloud-lake-for-ad-hoc-analytics.html"
     type: article
     provider:
-      name: datanami.com
-      domain: datanami.com
-    quality: 4
-  - title: "Teradata Announces ClearScape Analytics: The Most Powerful, Open, and Connected Cloud Analytics Available in the Industry"
-    excerpt: "ClearScape Analytics – which encompasses the same high-performing analytics that Teradata is known for but with 50+ new analytic functions – is available as part of Teradata VantageCloud and the new Teradata VantageCloud Lake,"
-    publishedDateTime: 2022-08-29T10:55:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-teradata-announces-clearscape-analytics-the-most-powerful-open-and-connected-cloud-analytics-available-in-the-industry"
+      name: InfoWorld
+      domain: infoworld.com
+    quality: 34
+  - title: "Teradata launches VantageCloud Lake for ad-hoc analytics"
+    excerpt: "VantageCloud Lake edition comes with expanded ClearScape Analytics suite that supports in-database analytics for artificial intelligence and machine learning operations."
+    publishedDateTime: 2022-08-30T00:51:00Z
+    webUrl: "https://www.arnnet.com.au/article/701076/teradata-launches-vantagecloud-lake-ad-hoc-analytics/"
     type: article
     provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 0
+      name: ARN
+      domain: arnnet.com.au
+    quality: 24
+    images:
+      - url: "https://d2bs8hqp6qvsw6.cloudfront.net/article/images/600x315/promoted_content/promo/clouds-06_49_3_1.jpg"
+        width: 473
+        height: 315
+        isCached: true
 
 secured: "VqapgEREHxOcGxCo7ju3qRWKBtVq+TITT5kwoH4y6JXkThrAOSRVC2NDXRRw0ztgZRpg0RKFT0oqqQhebRUyqaaU4ueE8tVkVP1tSu4T+4+rygFLBvku7CcfwU5WlleU7wgox6t3HJtZKcFNMZaOoniipP22nwKgZXP1ZHpGUBi9YciNxXVKGvj9vNA+QtVxIKIKdmoWgNifmCrVH6K7c9RyDv1PkS/6cT/pWYPqklUE4dda3tEOG/diByLUhtfITWfpmJfPpDf5O/mJE2JZSqyExzTh0xpz63a3SYqkozvxPsp498x0adLPXU5zXhSgeSsbnSAENlp1A/C/OlcLtMDrDOrBqKbRgTNBTZBjnEDgVaxqcfXbWAs0JVZXgmiDq8wtSZ2L7TM+CnrM372KA3RLpTE709znckxQ/gYDtZC8k6GW4ph0eWvFgQJF3IsIj5T70N/N7u/qWOL5mLFMYxrQz8Co3xfwlX/b7r12cVcbAiLbPH4K5gRllRz0kkCurqmJRyd4jfpRxY2VLr+tLA==;5KilsAxLAYXbVCYIaKv2tw=="
 ---

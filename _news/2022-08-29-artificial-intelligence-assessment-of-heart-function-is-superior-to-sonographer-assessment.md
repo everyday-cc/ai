@@ -40,15 +40,6 @@ related:
         width: 400
         height: 217
         isCached: true
-  - title: "EchoNet AI Algorithm Beats Sonographers for Estimating LV Function"
-    excerpt: "In what investigators say is the first randomized, controlled trial of AI in cardiology, big data boosted accuracy and efficiency."
-    publishedDateTime: 2022-08-27T12:50:00Z
-    webUrl: "https://www.tctmd.com/news/echonet-ai-algorithm-beats-sonographers-estimating-lv-function"
-    type: article
-    provider:
-      name: TCTMD
-      domain: tctmd.com
-    quality: 19
 
 secured: "uoamnXlT3QODyW0TAdxu2+iTju2KK0Mur5/Zp39SZWQtFenaD+R0QE2eVIvpAHZ637SthZ7nW56eFV+naqdQj7RDKpyHffY/qZpwzkI99B5HLhnp/KRj31PIcaxHExMesvtkSx9LM1PC7JkEa257fTxSiHTN8y2k1IQ8bSWq7xNNN2HG+NCcPB3/T+OGAp6Pyv3kudhw+z/C1oM3TDE3mlRQD9EMGhHe2VXNQhf1AxhPHQCRjBkKBYro1Wi63fDn2CYAseBnTPmnsk8KcehPEkMe7Vif8ORaMiGjk44yaBDaHqFiwJmA9R1C+nrTB0ETlZqzmHlrd7JJIdnJj/chmuBljxBUl7Fpvjy4a6wVR4YXJg9TzPrMW7e2HbidC3j9+sGP2nYperc84dxlMD9bkk7sYbfo3hx957IvVkwWeY4IuOc/A0GMh0i7ZYxaGAFC4HNJrFfxnYOLHs4VlNnIkVG+ofulAB7TvWYSQAL4HZD/oHDrN9nS9edg+uhU9EilDPk6ICAWYgu9DVV4iN6w7w==;izGkPL2r5lMfTrbGh0QVYw=="
 ---

@@ -107,6 +107,17 @@ related:
         width: 630
         height: 420
         isCached: true
+  - title: "University of Zurich: Artificial Intelligence Improves Treatment in Women with Heart Attacks"
+    excerpt: "Researchers at the University of Zurich have now developed a novel artificial-intelligence-based risk score ... These symptoms are unfortunately often misinterpreted by the patients and healthcare personnel – with disastrous consequences."
+    publishedDateTime: 2022-08-31T23:04:00Z
+    webUrl: "https://indiaeducationdiary.in/university-of-zurich-artificial-intelligence-improves-treatment-in-women-with-heart-attacks/"
+    ampWebUrl: "https://indiaeducationdiary.in/university-of-zurich-artificial-intelligence-improves-treatment-in-women-with-heart-attacks/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/university-of-zurich-artificial-intelligence-improves-treatment-in-women-with-heart-attacks/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 28
   - title: "Artificial Intelligence Enhances Heart Attack Treatment In Women"
     excerpt: "The use of artificial intelligence for the management of heart attacks both in male and female patients will improve the survival of patients."
     publishedDateTime: 2022-08-29T18:13:00Z

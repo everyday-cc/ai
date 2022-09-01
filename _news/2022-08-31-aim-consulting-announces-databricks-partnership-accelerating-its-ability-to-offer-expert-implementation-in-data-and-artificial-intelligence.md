@@ -2,26 +2,20 @@
 category: news
 title: "AIM Consulting Announces Databricks Partnership, Accelerating Its Ability to Offer Expert Implementation in Data and Artificial Intelligence (AI)"
 excerpt: "AIM Consulting, an Addison Group Company, an industry award-winning technology consulting firm, today announced that they have added Databricks, data & AI leader and pioneer of the data lakehouse paradigm,"
-publishedDateTime: 2022-08-31T16:08:00Z
-originalUrl: "https://apnews.com/press-release/newswire/technology-artificial-intelligence-99bc568f6ddf5b2266ad6e9719551d98"
-webUrl: "https://apnews.com/press-release/newswire/technology-artificial-intelligence-99bc568f6ddf5b2266ad6e9719551d98"
+publishedDateTime: 2022-08-31T16:00:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-31-aim-consulting-announces-databricks-partnership-accelerating-its-ability-to-offer-expert-implementation-in-data-and-artificial-intelligence-ai"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/newswire-2022-8-31-aim-consulting-announces-databricks-partnership-accelerating-its-ability-to-offer-expert-implementation-in-data-and-artificial-intelligence-ai"
 type: article
-quality: 15
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "Accelerating the Modern Data Center – Gear Up for AI"
@@ -39,6 +33,6 @@ related:
         height: 205
         isCached: true
 
-secured: "lEj4sQRthIfUuiK0Dx+nJrI7cx9FVc71PD9chklQdsIoN9BRsxRDircjuUAZAcdtvyKcX5QwvwM6SN8PosEbnODtf1rWalpTPvhs/LeRwa7fgtYMn+E2SnYlRL8z2psgCEhkxuzmXrF0tiOG1+RvUSGqYvo2of1yOfCdb5zrLssgiCxYOzB6thQqVENujWR/Z4EoI70qssDyM64qmCYv+qVo7Tzeouz6DnSvLojPwWVZWrTFo6PM9NymLjPt7AUlXCi8PlCL9mP1tUsMkDrcnFG8ItCUiyGIRlEp8dg1rCJG6FlBZ/RMRsO0iBnVJfv845T/7Qzl+zdHMlvaUZcjEc2IDIHmrFUR2Qqdwjd0ljs=;2QLuzn+ku6YdvzUjcPfYEw=="
+secured: "HzFCF//xpXTSzwddPmDLSs54Byj976e7SNc72tnKyzrudzIaniKbvWYaQch5vmxXv++3fGk8ILME1KQN5o8C/LXOu0mRHgHUtJdL2CMjUBiF+Nh3eyNAQMejTGBEAeIhXiAtRvLgxfmYCfP8EXDSGqnXxWVwzXY80I3JgIXJFKCyG16juxC2n1FNshYmbgVu31X+J/NLRFLm9SFge9mCR+RcHQFOVYwOCIdx1tr6uaNDDYWQeItbJCmQk6Ezi49Lvf97Ev1fDHZ290ATZrRfuhB0yjO6ichNK7fi9LzWcJrhJcbs+f6k/w4d7dBSF2y7Jq1oqB6kXVjftj1N89nEFbu2y03giz29IXBKWUgGMZ4iGR/xgLPHSFtryZJqjUflwodztLzVCkZQpMmrL6B7DmZER0ejSjkk9zwJrsaMawV2urgd9yZIsXI5KH/GBHq3/FlzFiRS/TANXqF7r11h3vS9dEIqrzlv0X3HzJTqONtdCiywRbVAhBXiQG7GNdAFYJhSn32o2kCSPfVXL20DmA==;/RqIsEbk/GO9V9wY6pHMdQ=="
 ---
 

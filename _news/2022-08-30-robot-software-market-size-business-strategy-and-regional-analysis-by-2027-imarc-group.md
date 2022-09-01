@@ -43,6 +43,15 @@ related:
         width: 750
         height: 500
         isCached: true
+  - title: "How to Use ML and AI in the Fintech Industry?"
+    excerpt: "From appearing as frequent tech buzzwords less than a decade ago, they have become integral to how AI and ML tech innovations are shaped across the digital landscape. Driving innovations in certain industries,"
+    publishedDateTime: 2022-09-01T05:49:00Z
+    webUrl: "https://www.finextra.com/blogposting/22835/how-to-use-ml-and-ai-in-the-fintech-industry"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 36
   - title: "29/08 – Weekly Fintech Recap"
     excerpt: "Partnerships Wearable Tech Pioneer DIGISEQ Partners with AdornPay to Bring Passive Wearable Payments to the Netherlands DIGISEQ, the wearable payments tech pioneer, announced its partnership with Dutch wearable fashion brand,"
     publishedDateTime: 2022-08-29T08:04:00Z

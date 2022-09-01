@@ -57,6 +57,15 @@ related:
         width: 474
         height: 279
         isCached: true
+  - title: "How to Use ML and AI in the Fintech Industry?"
+    excerpt: "From appearing as frequent tech buzzwords less than a decade ago, they have become integral to how AI and ML tech innovations are shaped across the digital landscape. Driving innovations in certain industries,"
+    publishedDateTime: 2022-09-01T05:49:00Z
+    webUrl: "https://www.finextra.com/blogposting/22835/how-to-use-ml-and-ai-in-the-fintech-industry"
+    type: article
+    provider:
+      name: Finextra
+      domain: finextra.com
+    quality: 36
 
 secured: "rggTW+dhrryzCV4S8pOqkWhfSIN4BCQS7xvazy2PcyVbVRzL2+VdqIBQLzT48KG338fclZu4DD8fH23fv5pGj1xPNRT3CSDQSgS/yiTU35FKWIimf6WC1m+/ybaOdM1+2KrJOXvjQJ7Z6ndeCJHkgesyKCJIxevn8mvpOZcj/WTYgknRpAwqzjSfcgYzqCPGdsKHLXfGj4XxCAVFVssgwnNakvFbmZmLF03A+kcZjIMzHTWsqpnCpbbxUmgqKLTfDoEApJ3zvr+BULjTP8uUfMQ/YH3Cr6IkecQFvKNdxP+KfKVzVwKD5LTNnjCs8ZERl4IG0c0Aeessxat7KWOC4LPByXFW+RaY0E2y8WiZz0PWVSe4HKC0qAiSCgml5bEPFanglw9F6K/lrq4IiQCtl6jCnHxvtCcAHyaEHPFuPg9b3oVabQWSfb6zbzjN2aE7iNiOAG8IqLZOhPM5itOCHLWmQqm6ZOmEfr8jQyVjR00Jyc7uuVJUSv9ddK3n1n/BvEMPzLyJdp8ujkGX85WdBw==;0nOaBeSLgsY1xjxa/QAI7Q=="
 ---

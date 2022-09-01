@@ -675,10 +675,10 @@
     {
       "path": "_news/2022-08-12-microsofts-new-azure-fluid-relay-service-now-generally-available.md",
       "title": "Microsoft’s New Azure Fluid Relay Service Now Generally Available",
-      "excerpt": "Currently, the Azure Fluid Relay service is available in around 10 Azure regions – half of which are in the US – on a pay-as-you-go basis. More details on pricing are available on the pricing ...",
+      "excerpt": "The Ballerina “Table” data structure can be more effective than maps in representing indexed data collections In this annual report, the InfoQ editors discuss the current state of AI ...",
       "sourceUrl": null,
-      "webUrl": "https://www.infoq.com/news/2022/08/azure-fluid-relay-service/",
-      "originalUrl": "https://www.infoq.com/news/2022/08/azure-fluid-relay-service/",
+      "webUrl": "https://www.infoq.com/news/2022/08/azure-fluid-relay-service/?amp;amp;amp",
+      "originalUrl": "https://www.infoq.com/news/2022/08/azure-fluid-relay-service/?amp;amp;amp",
       "featuredContent": null,
       "highlight": null,
       "heat": null,
@@ -697,7 +697,7 @@
       "type": "article",
       "ampWebUrl": null,
       "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T17:00:00-07:00",
+      "publishedDateTime": "2022-08-12T03:08:00-07:00",
       "updatedDateTime": null,
       "provider": {
         "name": "InfoQ",
@@ -1058,6 +1058,50 @@
       ]
     },
     {
+      "path": "_news/2022-08-10-a-security-pros-primer-on-azure-identity-and-access-management.md",
+      "title": "A security pro’s primer on Azure identity and access management",
+      "excerpt": "Azure Attack Paths are more difficult to secure ... There's a lot of worry about \"fakes\" especially in a world rapidly adopting AI/ML, so it's time for solutions. \"Solid\" is the W3C open standard ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmagazine.com/perspective/identity-and-access/a-security-pros-primer-on-azure-identity-and-access-management",
+      "originalUrl": "https://www.scmagazine.com/perspective/identity-and-access/a-security-pros-primer-on-azure-identity-and-access-management",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://files.scmagazine.com/wp-content/uploads/2022/08/AndyRobbinsCol-1-e1659901360381.jpg",
+          "width": 1280,
+          "height": 768,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-10T02:06:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "SC Magazine",
+        "domain": "scmagazine.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
       "path": "_news/2022-08-10-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
       "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
       "excerpt": "New Jersey, NJ -- (SBWIRE) -- 08/10/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
@@ -1335,59 +1379,6 @@
       "topics": [
         "AI",
         "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-09-us-20991-billion-global-machine-learning-market-during-2022-2029.md",
-      "title": "US $ 209.91 billion Global Machine Learning Market During 2022-2029",
-      "excerpt": "Fortune Business Insights says that the market value stood at US $ 15.44 billion in 2021. The market is expected to grow at a CAGR of 38.8% in the forecast period (2022-2029). The growth rate of the Global Machine Learning Market is 38.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/us-20991-billion-global-machine-learning-market-during-2022-2029-2022-08-09",
-      "originalUrl": "https://www.marketwatch.com/press-release/us-20991-billion-global-machine-learning-market-during-2022-2029-2022-08-09",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-09T01:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Machine Learning"
       ]
     }
   ],

@@ -34,6 +34,15 @@ related:
       name: Analytics
       domain: healthitanalytics.com
     quality: 32
+  - title: "Using AI to predict COVID surges"
+    excerpt: "A team of researchers recently developed an artificial intelligence model that can predict which coronavirus variants will likely dominate and cause surges. The work was led by Jacob Lemieux, an assistant professor of medicine at Harvard Medical School and Massachusetts General Hospital,"
+    publishedDateTime: 2022-08-30T13:45:00Z
+    webUrl: "https://medicalxpress.com/news/2022-08-ai-covid-surges.html"
+    type: article
+    provider:
+      name: Medical Xpress
+      domain: medicalxpress.com
+    quality: 17
 
 secured: "7b7o4Nj6il5t1hcvEn7nzOzJHIBcnHIKckHGlAcCpzw0FCgnDrcUfgkJwESOdqOvt2jWc1Bc4+9k3MqwFto+NupiEFUD0N/80wqi3q338IGZHVHAK0ty61rldM1YOokkpHa41WvTLK0dnTkyC4Cf8CdF9mrds51dvgpHBJdsHaS/kF9xRexa3PtLkYofdVDb/SnrEzDLtPZZHusg7qOgM3rqVCyYQUOS+CzzY1CzlpId5r5k1wTh1kragOMEy2M6pvl3/WCeG4QNCgtqad2WLri4nN6DpHjgcG6dsCvjHV++2P/6kJxaSZQWwWITnh6zTM3ZezyfFI2YN8O7wCA6OGGiURUDFkXF+Ca1brT1mzaVGVIWwnYuden69az9Cb+M0Vq5oxj5FPSYZzxFQLdjimKOzZjXTNvhA/7FVfjyiKDomUU8dBF18v1n9CiskwZfZWC4YLSj48tNFzAXeKWJgh/q05UIiAceFd0XLh25BH9bWIGUOK4MnzLHF2/DEY9W3Gb8fGzp/skJnEy+qGZuww==;kruTH/Sf67irpDxQnkEpMg=="
 ---

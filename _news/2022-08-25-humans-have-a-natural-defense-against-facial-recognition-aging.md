@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Humans Have a Natural Defense Against Facial Recognition: Aging"
-excerpt: "Facial recognition systems have become very adept at identifying people in a crowd, but it turns out they don't cope very well with us getting older. As New Scientist reports, the algorithms used ..."
-publishedDateTime: 2022-08-25T02:26:00Z
-originalUrl: "https://uk.pcmag.com/security/142247/humans-have-a-natural-defense-against-facial-recognition-aging"
-webUrl: "https://uk.pcmag.com/security/142247/humans-have-a-natural-defense-against-facial-recognition-aging"
+excerpt: "After just 5 years, facial recognition systems start struggling to identify us, and after 20 years they have no chance. I've been working at PCMag since November 2016, covering all areas of ..."
+publishedDateTime: 2022-08-24T18:16:00Z
+originalUrl: "https://www.pcmag.com/news/humans-have-a-natural-defense-against-facial-recognition-aging"
+webUrl: "https://www.pcmag.com/news/humans-have-a-natural-defense-against-facial-recognition-aging"
 type: article
 
 provider:
@@ -20,11 +20,11 @@ topics:
   - AI
 
 images:
-  - url: "https://sm.pcmag.com/t/pcmag_uk/news/h/humans-hav/humans-have-a-natural-defense-against-facial-recognition-agi_wtcf.1200.jpg"
-    width: 1200
-    height: 674
+  - url: "https://i.pcmag.com/imagery/articles/05Pz8HRnBQxyCwqrSeEy3it-1.fit_lim.size_1200x630.v1661351863.jpg"
+    width: 1121
+    height: 630
     isCached: true
 
-secured: "ML/2mxLbFfjraEoAB0IFh9cHXXd8yreXQagO2M+YdyWDATNXjzwpHODENp/C6WjBuVSPbe9oT/6LvA9yuEO/if1cAKrItzbTWpZ86//LdWmMD+Mcn3H0LBFLd7ydP6/e+85QPgOPRKYzo+TLrkYWqzQpX/LHB51L8CmzrMFk1kZZ99LqyhWyBZ43A4m/WWe5QWi9VT7zUsX9dJK5WBDaOHr3ClzAeQ79WYS4S4Tz0yUUNeTgSVYHoJxSXlrGjluiHJbVULY+rm1YW5qwLzUGqIeseYGlBtM1fcv18HA7Py6xbC+5hB6Raj/Vl1Iv/CjPaUEOx9fwKMUN7Eb9HHhNADdTCqjQuLssno6OZ2XG3P4=;KbOgHoSSncT+oK7XO7cYpw=="
+secured: "2X0JquKtCu1ONRwPaiCz+OLdL10fVQFZJM8E6sqbbxRJ7k4uzohjPZSd+BAQWTH6phcBdR7zlp4okXlOl8FzAx6Whb26bwm2UPJ1c0A3n59uXrf3DGiV1WrqU2VeW+xxv9TB/XdudCCEeAPcEL9zTqWoB40KDA7f+WX20u5jamx8F8lKJ6Ph+uauCG39IQc3AiA8wUW5+s4pk11oi2wnnFhTRUjynLL3xBHTto5MusUTAPU/JhsJL3OBo6NnDaNo70BoLGGM2P/87XNI0huBZ/ALNVNOi22rDAHMj2LW/JPDImMhkfEweB+mqnMazMas1aoTOoofLjsk70N1YE7kaJLlq0sYdcodwSGKW0/1goQ=;hTXOlUse4jhxiyOzzyEuHg=="
 ---
 

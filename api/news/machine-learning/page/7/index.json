@@ -2,6 +2,41 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-07-02-tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning.md",
+      "title": "TickerWin Releases Report on 'How Blockchain is Improving the Efficiency of AI and Machine Learning'",
+      "excerpt": "HONG KONG, CHINA / ACCESSWIRE / July 2, 2022 / TickerWin, one of the leading market research companies, has released a report on 'How Blockchain Improving the Efficiency of AI and Machine Learning'. AI,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theglobeandmail.com/investing/markets/markets-news/accesswire/8993668/tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning/",
+      "originalUrl": "https://www.theglobeandmail.com/investing/markets/markets-news/accesswire/8993668/tickerwin-releases-report-on-how-blockchain-is-improving-the-efficiency-of-ai-and-machine-learning/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-02T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Globe and Mail",
+        "domain": "theglobeandmail.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-01-can-machine-learning-help-diagnose-alcohol-associated-hepatitis.md",
       "title": "Can Machine Learning Help Diagnose Alcohol-associated Hepatitis",
       "excerpt": "Machine learning algorithms using a few simple variables can help patients with alcohol-associated hepatitis. Acute cholangitis is a potentially life-threatening bacterial infection often associated with gallstones.",
@@ -1308,50 +1343,6 @@
       ],
       "topics": [
         "AI in Healthcare",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-24-how-machine-learning-ai-is-going-to-change-gaming-forever.md",
-      "title": "How machine learning AI is going to change gaming forever",
-      "excerpt": "Services like Craiyon that automatically generate rough AI images based on virtually any input prompt have produced a range of wild and wacky collages across the net, which you ca",
-      "sourceUrl": null,
-      "webUrl": "https://www.windowscentral.com/gaming/xbox/how-machine-learning-ai-is-going-to-change-gaming-forever",
-      "originalUrl": "https://www.windowscentral.com/gaming/xbox/how-machine-learning-ai-is-going-to-change-gaming-forever",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/YgRKrmyt2cCFtKFtsxCGmd-1200-80.jpg",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-23T10:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Windows Central",
-        "domain": "windowscentral.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
         "AI",
         "Machine Learning"
       ]

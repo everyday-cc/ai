@@ -2,6 +2,162 @@
   "page": 7,
   "value": [
     {
+      "path": "_news/2022-08-24-deep-learning-in-machine-vision-market-2022-global-industry-analysis-by-trends-size-share-company-overview-growth-and-forecast-by-2029.md",
+      "title": "Deep Learning in Machine Vision Market 2022 Global Industry Analysis by Trends, Size, Share, Company Overview, Growth and Forecast by 2029",
+      "excerpt": "Pune, India Reportsweb report Global Deep Learning in Machine Vision Market Research and Forecast Report 2022-2028",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-2022-global-industry-analysis-by-trends-size-share-company-overview-growth-and-forecast-by-2029-2022-08-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/deep-learning-in-machine-vision-market-2022-global-industry-analysis-by-trends-size-share-company-overview-growth-and-forecast-by-2029-2022-08-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T02:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages.md",
+      "title": "Restaurants Send More Customer Calls to Voice Bots Amid Staffing Shortages",
+      "excerpt": "Some executives say automating phone lines will ease pressure on stretched hospitality staff—but others question whether hungry customers are ready to order from a nonhuman voice.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wsj.com/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
+      "originalUrl": "https://www.wsj.com/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 72,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.wsj.net/im-609305/social",
+          "width": 1280,
+          "height": 640,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wsj.com/amp/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
+      "cdnAmpWebUrl": "https://www-wsj-com.cdn.ampproject.org/c/s/www.wsj.com/amp/articles/restaurants-send-more-customer-calls-to-voice-bots-amid-staffing-shortages-11661335202",
+      "publishedDateTime": "2022-08-24T02:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wall Street Journal",
+        "domain": "wsj.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wsj.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-ai-in-computer-vision-market-key-players-overview-applications-and-analysis-2029.md",
+      "title": "AI in Computer Vision Market Key Players Overview Applications and Analysis 2029",
+      "excerpt": "Pune, India-Research Report on Global AI in Computer Vision Market 2022-2029 Report Demand develops Rapidly as Our",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-key-players-overview-applications-and-analysis-2029-2022-08-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/ai-in-computer-vision-market-key-players-overview-applications-and-analysis-2029-2022-08-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T01:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-saas-solutions-provider-revsureai-raises-35-mn-in-seed-funding.md",
       "title": "SaaS solutions provider RevSure.AI raises $3.5 mn in seed funding",
       "excerpt": "RevSure.AI announced on Wednesday that it has raised $3.5 million in seed funding and has launched out of stealth mode. The investment was led by Innovation Endeavors, with participation from angel investors Katrin Ribant,",
@@ -314,6 +470,58 @@
         "news"
       ],
       "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-artificial-intelligence-ai-robots-market-research-report-forecast-2022-to-2028-latest-industry-news-top-company-analysis-research-methodology.md",
+      "title": "Artificial Intelligence (AI) Robots Market Research report forecast 2022 To 2028, Latest Industry News, Top Company Analysis, Research Methodology.",
+      "excerpt": "According to our recent \"Artificial Intelligence (AI) Robots market research report\", the Artificial Intelligence (AI) Robots market with a compound annual growth rate (CAGR) of a percent 2022-2028.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-research-report-forecast-2022-to-2028-latest-industry-news-top-company-analysis-research-methodology-2022-08-24",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-robots-market-research-report-forecast-2022-to-2028-latest-industry-news-top-company-analysis-research-methodology-2022-08-24",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T16:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
         "AI"
       ]
     },
@@ -969,188 +1177,6 @@
       ],
       "topics": [
         "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-oppo-unveils-its-latest-ai-technology-for-creating-animated-digital-avatar.md",
-      "title": "OPPO unveils its latest AI technology for creating Animated Digital Avatar",
-      "excerpt": "This marks a breakthrough in OPPO AI technology. It is an AI-driven technology that can create animated digital avatars using a few phones. The new OPPO AI technology is adept at loose clothes appearance learning and skeleton motion modeling. The new OPPO ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/",
-      "originalUrl": "https://www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 85,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/08/OPPO-Digital-Avatar-Technology-2.jpg",
-          "width": 1024,
-          "height": 574,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/23/oppo-ai-technology-creating-animated-digital-avatar/?amp=1",
-      "publishedDateTime": "2022-08-23T08:45:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-machine-learning-algorithm-predicts-how-to-get-the-most-out-of-electric-vehicle-batteries.md",
-      "title": "Machine learning algorithm predicts how to get the most out of electric vehicle batteries",
-      "excerpt": "Researchers have developed a machine learning algorithm that could help reduce charging times and prolong battery life in electric vehicles by predicting how different driving patterns affect battery performance,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-08-machine-algorithm-electric-vehicle-batteries.html",
-      "originalUrl": "https://techxplore.com/news/2022-08-machine-algorithm-electric-vehicle-batteries.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/electric-car.jpg",
-          "width": 1920,
-          "height": 1275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-08-machine-algorithm-electric-vehicle-batteries.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-machine-algorithm-electric-vehicle-batteries.amp",
-      "publishedDateTime": "2022-08-23T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-how-is-machine-learning-affecting-advertising-and-marketing.md",
-      "title": "How is Machine Learning Affecting Advertising and Marketing?",
-      "excerpt": "Machine learning is transforming the dynamics of the advertising and marketing industry by segmenting and targeting specific audiences with relevant messages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/how-is-machine-learning-affecting-advertising-and-marketing",
-      "originalUrl": "https://www.bbntimes.com/technology/how-is-machine-learning-affecting-advertising-and-marketing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/How_is_Machine_Learning_Affecting_Advertising_and_Marketing_.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-untether-ai-unveils-its-second-generation-at-memory-compute-architecture-at-hot-chips-2022.md",
-      "title": "Untether AI Unveils Its Second-Generation At-Memory Compute Architecture at HOT CHIPS 2022",
-      "excerpt": "Untether AITM, the leader in at-memory computation for artificial intelligence (AI) workloads, today announced at the HOT CHIPS 2022 conference its next-generation architecture for accelerating AI inference workloads called speedAI devices,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

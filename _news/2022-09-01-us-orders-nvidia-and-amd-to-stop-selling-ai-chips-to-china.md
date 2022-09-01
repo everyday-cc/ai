@@ -1,0 +1,116 @@
+---
+category: news
+title: "US orders Nvidia and AMD to stop selling AI chips to China"
+excerpt: "Two of America's top chipmakers have been ordered to stop selling some of their technology to China that can be used for artificial intelligence."
+publishedDateTime: 2022-09-01T04:28:00Z
+originalUrl: "https://www.cnn.com/2022/09/01/tech/us-nvidia-amd-chips-china-sales-block-intl-hnk/index.html"
+webUrl: "https://www.cnn.com/2022/09/01/tech/us-nvidia-amd-chips-china-sales-block-intl-hnk/index.html"
+ampWebUrl: "https://amp.cnn.com/cnn/2022/09/01/tech/us-nvidia-amd-chips-china-sales-block-intl-hnk/index.html"
+cdnAmpWebUrl: "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/09/01/tech/us-nvidia-amd-chips-china-sales-block-intl-hnk/index.html"
+type: article
+quality: 87
+heat: -1
+published: false
+
+provider:
+  name: CNN
+  domain: cnn.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg"
+      width: 50
+      height: 50
+
+topics:
+  - AI
+
+images:
+  - url: "https://cdn.cnn.com/cnnnext/dam/assets/220831223536-01-nvidia-amd-chips-super-tease.jpg"
+    width: 1100
+    height: 619
+    isCached: true
+
+related:
+  - title: "Nvidia Says US Order Restricts Sales of AI Chips to China"
+    excerpt: "New licensing requirements come amid concern that the chips could be put to military use, the chipmaker says in a regulatory filing."
+    publishedDateTime: 2022-08-31T23:19:00Z
+    webUrl: "https://www.cnet.com/tech/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 121
+    images:
+      - url: "https://www.cnet.com/a/img/resize/621e8aff0309eba6ed29be58ac6ed33c53072f63/2021/07/19/376c0f07-cc4b-4ef1-8be1-a3d0145c8b33/gettyimages-1231345685.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "Nvidia Says US Ordered It to Stop Sales of AI Chips to China"
+    excerpt: "Ban is out of concern the chips could be used in or diverted to military use, the chipmaker says in a regulatory filing."
+    publishedDateTime: 2022-08-31T23:19:00Z
+    webUrl: "https://www.cnet.com/tech/nvidia-says-us-ordered-it-to-stop-sales-of-ai-chips-to-china/"
+    ampWebUrl: "https://www.cnet.com/google-amp/news/nvidia-says-us-ordered-it-to-stop-sales-of-ai-chips-to-china/"
+    cdnAmpWebUrl: "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/nvidia-says-us-ordered-it-to-stop-sales-of-ai-chips-to-china/"
+    type: article
+    provider:
+      name: CNET
+      domain: cnet.com
+    quality: 121
+    images:
+      - url: "https://www.cnet.com/a/img/resize/621e8aff0309eba6ed29be58ac6ed33c53072f63/2021/07/19/376c0f07-cc4b-4ef1-8be1-a3d0145c8b33/gettyimages-1231345685.jpg?auto=webp&fit=crop&height=630&width=1200"
+        width: 1200
+        height: 630
+        isCached: true
+  - title: "US blocks sales of some AI chips to China as tech crackdown intensifies"
+    excerpt: "Move marks a major escalation of US efforts to restrict China’s military technology capabilities as tensions bubble over Taiwan"
+    publishedDateTime: 2022-09-01T03:46:00Z
+    webUrl: "https://www.theguardian.com/world/2022/sep/01/us-blocks-sales-of-some-ai-chips-to-china-as-tech-crackdown-intensifies"
+    ampWebUrl: "https://amp.theguardian.com/world/2022/sep/01/us-blocks-sales-of-some-ai-chips-to-china-as-tech-crackdown-intensifies"
+    cdnAmpWebUrl: "https://amp-theguardian-com.cdn.ampproject.org/c/s/amp.theguardian.com/world/2022/sep/01/us-blocks-sales-of-some-ai-chips-to-china-as-tech-crackdown-intensifies"
+    type: article
+    provider:
+      name: The Guardian
+      domain: theguardian.com
+    quality: 91
+    images:
+      - url: "https://i.guim.co.uk/img/media/81f12dadd0e98b3ca222064b416434feaceac722/0_233_3500_2101/master/3500.jpg?width=620&quality=85&auto=format&fit=max&s=9ac201c8344dd822183b398db114dee2"
+        width: 620
+        height: 372
+        isCached: true
+  - title: "Machine learning at the edge: The AI chip company challenging Nvidia and Qualcomm"
+    excerpt: "Sima AI's machine learning system-on-chip (MLSoC) platform that enables ML deployment and scaling at the edge has started shipping."
+    publishedDateTime: 2022-08-30T13:00:00Z
+    webUrl: "https://venturebeat.com/ai/machine-learning-at-the-edge-the-ai-chip-company-challenging-nvidia-and-qualcomm/"
+    type: article
+    provider:
+      name: VentureBeat
+      domain: venturebeat.com
+    quality: 76
+  - title: "Nvidia, AMD warned of new US export restrictions on AI chips"
+    excerpt: "The U.S. government has issued new export licensing requirements to Nvidia and AMD for export to China and Russia of the advanced GPUs used for AI."
+    publishedDateTime: 2022-08-31T23:06:00Z
+    webUrl: "https://www.protocol.com/bulletins/nvidia-amd-ai-chips"
+    type: article
+    provider:
+      name: Protocol
+      domain: protocol.com
+    quality: 54
+    images:
+      - url: "https://www.protocol.com/media-library/flag-of-china-on-a-computer-binary-codes-falling-from-the-top-and-fading-away.jpg?id=30842540&width=1200&height=600&coordinates=0%2C114%2C0%2C114"
+        width: 1200
+        height: 600
+        isCached: true
+  - title: "US restricts NVIDIA from exporting H100, A100 chips to China, Russia"
+    excerpt: "US government informs NVIDIA it has restricted the GeForce RTX giant from exporting A100 and H100 server chips to both China and Russia."
+    publishedDateTime: 2022-09-01T01:43:00Z
+    webUrl: "https://www.tweaktown.com/news/88232/us-restricts-nvidia-from-exporting-h100-a100-chips-to-china-russia/index.html"
+    type: article
+    provider:
+      name: TweakTown
+      domain: tweaktown.com
+    quality: 19
+
+secured: "8RslG1qUFWl+5RoRCbBWUGYnyL7AlVizuoD0tMBnMgsdqYExmy+cLvV58tW0EajaqP2Lx/NbyMTSrzUMLKLx0ZgA0LZc9Gg8cX4DwKE8VUyjnvGG/a3kiqV4IPg8VboyK+iTzyExgtcNxl351AYggJx+cORWw6bo20DEzMnEJFtEgEE/knEZuXHcvYX9gl9vF/2vbr0MKsveEDPGFA1UBGYtin5z3Zo2BglfT1fBNp8sxxQ4y7ALZZnra5r4yODHrJj4fXu3kOZMDbo365ukPCEJVfiIfW2u3giVdXe/bzicPVo/0oXCWLgmIdHbWiTYr3fqvhLYblVgwmFWsKGaGFfiAcJiIKxy4wvAO3XxV54=;QZXFsvUDkir8ibz4H0FKcQ=="
+---
+

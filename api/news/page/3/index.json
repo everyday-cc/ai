@@ -2,6 +2,110 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-29-amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare.md",
+      "title": "Amazon Vs. Apple: Only One Will Rewrite The Rules Of Healthcare",
+      "excerpt": "One company is dutifully abiding by an old, unwritten rule of health technology. The other is poised to rewrite the healthcare rulebook altogether.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/robertpearl/2022/08/29/amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare/",
+      "originalUrl": "https://www.forbes.com/sites/robertpearl/2022/08/29/amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/6308d893ea15b506f9653b4f/0x0.jpg?format=jpg&crop=3887,2591,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/robertpearl/2022/08/29/amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robertpearl/2022/08/29/amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare/amp/",
+      "publishedDateTime": "2022-08-29T01:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-why-metas-large-language-model-does-not-work-for-researchers.md",
+      "title": "Why Meta’s large language model does not work for researchers",
+      "excerpt": "Language models can revolutionize how scientific researchers study and approach different disciplines — thus spurring scientific innovation.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/why-metas-large-language-model-does-not-work-for-researchers/",
+      "originalUrl": "https://venturebeat.com/ai/why-metas-large-language-model-does-not-work-for-researchers/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/07/GettyImages-1206801125-ipopba.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 608,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/why-metas-large-language-model-does-not-work-for-researchers/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/why-metas-large-language-model-does-not-work-for-researchers/amp/",
+      "publishedDateTime": "2022-08-28T17:10:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-how-machine-learning-and-blockchain-can-solve-world-hunger.md",
       "title": "How Machine Learning and Blockchain can solve world hunger",
       "excerpt": "However, we live in an era of the digital age where advancements in technologies such as machine learning and blockchain have been catapulted by the progress of the fourth industrial revolution. With such advancements in technologies,",
@@ -544,7 +648,7 @@
       "originalUrl": "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 141,
+      "heat": 151,
       "tags": null,
       "images": [
         {
@@ -1115,101 +1219,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-lg-ultragear-oled-gaming-monitor-and-ultrafine-display-ergo-ai-with-4k-resolution-launched.md",
-      "title": "LG UltraGear OLED gaming monitor and Ultrafine Display Ergo AI with 4K resolution launched",
-      "excerpt": "LG has unveiled UltraGear 240Hz curved OLED gaming monitor and UltraFine Display Ergo AI. The devices have model numbers 45GR95QE and 32UQ890. The company also confirmed its presence at the upcoming event after a two-year break due to the pandemic.",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/08/26/lg-ultragear-oled-gaming-monitor-and-ultrafine-display-ergo-ai-with-4k-resolution-launched/",
-      "originalUrl": "https://www.gizmochina.com/2022/08/26/lg-ultragear-oled-gaming-monitor-and-ultrafine-display-ergo-ai-with-4k-resolution-launched/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/08/LG-UltraGear-OLED-monitor-and-Ultrafine-Display.png",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/08/26/lg-ultragear-oled-gaming-monitor-and-ultrafine-display-ergo-ai-with-4k-resolution-launched/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/08/26/lg-ultragear-oled-gaming-monitor-and-ultrafine-display-ergo-ai-with-4k-resolution-launched/?amp=1",
-      "publishedDateTime": "2022-08-26T07:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-deep-learning-chip-market-worth-us-2131-bn-globally-by-2027-at-300-cagr-exclusive-report-by-the-insight-partners.md",
-      "title": "Deep Learning Chip Market Worth US$ 21.31 Bn, Globally, by 2027 at 30.0% CAGR – Exclusive Report by The Insight Partners",
-      "excerpt": "Deep Learning Chip Market to 2027 – Global Analysis and Forecasts By Chip Type (GPU, ASIC, FPGA, CPU, Others); Technology (System-on-Chip, System-in-Package, Multi-chip Module, Others); Industry ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/deep-learning-chip-market-worth-us-21-31-bn-globally-by-2027-at-30-0-cagr-exclusive-report-by-the-insight-partners-2",
-      "originalUrl": "https://www.digitaljournal.com/pr/deep-learning-chip-market-worth-us-21-31-bn-globally-by-2027-at-30-0-cagr-exclusive-report-by-the-insight-partners-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/vio-onut-weavesphere-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T07:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI Hardware"
       ]
     }
   ],

@@ -2,6 +2,58 @@
   "page": 5,
   "value": [
     {
+      "path": "_news/2022-07-20-transform-2022-how-enterprises-crawl-walk-then-run-into-their-aiml-deployments.md",
+      "title": "Transform 2022: How enterprises crawl, walk, then run into their AI/ML deployments",
+      "excerpt": "Deploying AI is not easy or simple, but it’s becoming necessary in this third decade of the 21st century. Companies are learning to crawl, walk and run when it comes to utilizing their data in order to give them deeper insight into their protected business data.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/",
+      "originalUrl": "https://venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1394403496-BlackSalmon.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 604,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/07/19/transform-2022-how-enterprises-crawl-walk-then-run-into-their-ai-ml-deployments/amp/",
+      "publishedDateTime": "2022-07-19T18:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-07-20-microsoft-accelerator-programme-bets-on-ai-and-machine-learning-selects-14-startups-for-tenth-cohort.md",
       "title": "Microsoft Accelerator Programme Bets On AI And Machine Learning; Selects 14 Startups For Tenth Cohort",
       "excerpt": "The startups will also adopt Microsoft Azure, to make use of its advanced cloud services in areas such as – big data, IoT, advanced analytics and cognitive services to scale their products.This ...",
@@ -1350,49 +1402,6 @@
       ],
       "topics": [
         "Google AI",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-07-13-top-10-causes-of-stalled-aiml-projects.md",
-      "title": "Top 10 causes of stalled AI/ML projects",
-      "excerpt": "Discussing the ten most common causes of AI/ML projects stalling (and eventually being cancelled), and how CIOs can formulate a plan to accelerate project process.",
-      "sourceUrl": null,
-      "webUrl": "https://www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883",
-      "originalUrl": "https://www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i.itworldcanada.com/wp-content/uploads/2022/01/GettyImages-1244482898.jpg",
-          "width": 797,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883?amp=1",
-      "cdnAmpWebUrl": "https://www-itworldcanada-com.cdn.ampproject.org/c/s/www.itworldcanada.com/blog/top-10-causes-of-stalled-ai-ml-projects/491883?amp=1",
-      "publishedDateTime": "2022-07-12T14:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT World Canada",
-        "domain": "itworldcanada.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI",
         "Machine Learning"
       ]

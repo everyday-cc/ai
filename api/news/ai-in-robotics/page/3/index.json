@@ -2,6 +2,93 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-12-global-educational-robot-market-to-hit-3-billion-by-2030.md",
+      "title": "Global Educational Robot Market to Hit $3 Billion by 2030",
+      "excerpt": "Global Industry Trends, Share, Size, Growth, Opportunity and Forecast 2022-2027\" report has been added to ResearchAndMarkets.com's",
+      "sourceUrl": null,
+      "webUrl": "https://www.benzinga.com/pressreleases/22/08/n28475655/global-educational-robot-market-to-hit-3-billion-by-2030",
+      "originalUrl": "https://www.benzinga.com/pressreleases/22/08/n28475655/global-educational-robot-market-to-hit-3-billion-by-2030",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 99,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media3.giphy.com/media/bxg7wC26fV2ISV1F7D/giphy.gif?cid=790b7611467e0ec94bfa730c90c0a9101f7549875da4ca3a&rid=giphy.gif&ct=g",
+          "width": 300,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.benzinga.com/amp/content/28475655",
+      "cdnAmpWebUrl": "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28475655",
+      "publishedDateTime": "2022-08-12T08:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Benzinga.com",
+        "domain": "benzinga.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-12-restocking-robots-deployed-in-300-japanese-convenience-stores.md",
+      "title": "Restocking robots deployed in 300 Japanese convenience stores",
+      "excerpt": "The robots work around-the-clock, restocking shelves at a rate of up to 1,000 bottles and cans per day, and depending almost entirely on its artificial intelligence (AI) system, known as “GORDON,” to determine when and where products should be stocked.",
+      "sourceUrl": null,
+      "webUrl": "https://www.therobotreport.com/restocking-robots-deployed-in-300-japanese-convenience-stores/",
+      "originalUrl": "https://www.therobotreport.com/restocking-robots-deployed-in-300-japanese-convenience-stores/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.therobotreport.com/wp-content/uploads/2022/08/Telexistence-convenience-featured.jpg",
+          "width": 770,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-12T08:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Robot Report",
+        "domain": "therobotreport.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-12-hyundai-announces-400m-ai-robotics-institute-powered-by-boston-dynamics.md",
       "title": "Hyundai announces $400M AI, robotics institute powered by Boston Dynamics",
       "excerpt": "When Hyundai acquired Boston Dynamics at the end of 2020, there were plenty of open questions. Chief among them was why we should assume this acquisition would be any different than the past few? The 30-year-old bleeding edge robotics form had been an uncomfortable fit for its last two owners,",
@@ -1321,83 +1408,6 @@
         "AI",
         "AI in Autos",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-cybersecurity-cloud-and-ai-robotics-the-new-digital-utilities.md",
-      "title": "Cybersecurity, Cloud and AI & Robotics: The New Digital Utilities",
-      "excerpt": "With a greater digital surface area for most enterprises and consumers alike, the cyberspace vulnerability landscape has expanded significantly in the last few years alongside an evolution in the type,",
-      "sourceUrl": null,
-      "webUrl": "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities",
-      "originalUrl": "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 119,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities?amp",
-      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities?amp",
-      "publishedDateTime": "2022-08-05T07:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Nasdaq",
-        "domain": "nasdaq.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-05-meet-russias-new-killer-robot.md",
-      "title": "Meet Russia’s New Killer Robot",
-      "excerpt": "The robot’s targeting mechanism works automatically ... Moscow is also planning to introduce mind-controlled dual-use exoskeletons within the next five years (see: “Will Russia Field Robo ...",
-      "sourceUrl": null,
-      "webUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
-      "originalUrl": "https://thediplomat.com/2015/07/meet-russias-new-killer-robot/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://thediplomat.com/wp-content/uploads/2015/07/sizes/td-story-s-2/thediplomat_2015-07-20_15-05-18.jpg",
-          "width": 600,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Diplomat",
-        "domain": "thediplomat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

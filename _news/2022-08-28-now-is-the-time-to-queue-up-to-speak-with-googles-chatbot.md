@@ -19,29 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Google wants you to chat with its AI chatbot at your own risk"
-    excerpt: "Google has opened its experimental artificial intelligence (AI) chatbot for the public and you can now register to chat with the AI-driven bot trained on the company's controversial language model."
-    publishedDateTime: 2022-08-27T11:07:00Z
-    webUrl: "https://www.tribuneindia.com/news/science-technology/google-wants-you-to-chat-with-its-ai-chatbot-at-your-own-risk-425943"
-    type: article
-    provider:
-      name: The Tribune
-      domain: tribuneindia.com
-    quality: 37
-    images:
-      - url: "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/8/2022_8$largeimg_521464923.jpg"
-        width: 627
-        height: 418
-        isCached: true
-  - title: "Google wants you to use its AI chatbot at your own risk"
-    excerpt: "Google has opened its experimental artificial intelligence (AI) chatbot for the public and you can now register to chat with the AI-driven bot trained on the company`s controversial language model."
-    publishedDateTime: 2022-08-27T12:27:00Z
-    webUrl: "https://www.dnaindia.com/india/report-google-wants-you-to-use-its-ai-chatbot-at-your-own-risk-2980085"
-    type: article
-    provider:
-      name: DNA India
-      domain: dnaindia.com
-    quality: 17
   - title: "Google AI Chatbot Now Open for Public Testing"
     excerpt: "Registrations are open for early access, with AI Test Kitchen serving rotating demos centered around cutting-edge AI technologies"
     publishedDateTime: 2022-08-29T13:06:00Z
@@ -51,15 +28,6 @@ related:
       name: Analytics India Magazine
       domain: analyticsindiamag.com
     quality: 17
-  - title: "Google wants you to chat with its experimental AI chatbot at your own risk"
-    excerpt: "Google has already warned that early previews of its LaMDA (Language Model for Dialogue Applications) model \"may display inaccurate or inappropriate content\"."
-    publishedDateTime: 2022-08-27T12:04:00Z
-    webUrl: "https://www.business-standard.com/article/international/google-wants-you-to-chat-with-its-experimental-ai-chatbot-at-your-own-risk-122082700599_1.html"
-    type: article
-    provider:
-      name: Business Standard
-      domain: business-standard.com
-    quality: 15
   - title: "Meta Open-Sources 175B Parameter Chatbot BlenderBot 3"
     excerpt: "Meta AI Research open-sourced BlenderBot 3, a 175B parameter chatbot that can learn from live interactions with users \"in the wild.\" In evaluations by human judges, BlenderBot 3 achieves a 31% rating increase compared to the previous BlenderBot version."
     publishedDateTime: 2022-08-30T13:35:00Z

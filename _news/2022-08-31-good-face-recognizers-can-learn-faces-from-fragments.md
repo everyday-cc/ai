@@ -2,22 +2,26 @@
 category: news
 title: "Good face recognizers can learn faces from fragments"
 excerpt: "Good with faces? New research suggests that your ability might be more akin to piecing together a jigsaw puzzle than taking a photograph."
-publishedDateTime: 2022-08-31T15:10:00Z
-originalUrl: "https://www.eurekalert.org/news-releases/963261"
-webUrl: "https://www.eurekalert.org/news-releases/963261"
+publishedDateTime: 2022-08-31T00:00:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/08/220831113609.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/08/220831113609.htm"
 type: article
-quality: 4
-heat: 4
+quality: 34
+heat: 34
 published: false
 
 provider:
-  name: EurekAlert!
-  domain: eurekalert.org
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-secured: "lgb0tpJbR8rR9p3rt1Ruf/ax4BGijbDpL4rwcdLvDNVQDsEIybXS5fRXLVb3Z6U2TLjWc5EnqcSzAqOdF4XwJwp0DDODBgnFQGIWQDgpB2/emyx2DkdQm3ZgRcSWhSZpmL7bg+Zz3soGefcQqCRRI32MO97Ar0j+WJ+bMTMxtYT1En2kU0D79RwDtEutxfoao+BqFkmSHDCJZpvuQS2Q2rhQ+eH5D7B212U8PhTMjuZueqhHFXJ+vj3b8swjMxCpKAqVCGWZKZ5G6i9OKIs8mprTpxkjqOrQX7WnnqZCIJK/lkQlfBoV+TZvRlrvLWKyLofhph/1DLgg/vSPQHz/4hlcAaDHPZBEK7bf1zGQkkw=;l0ufXDgtB5eUAUnhhN/eyA=="
+secured: "7cVwXXS7oujA2QN4gWIZUi7qn2Jcrr6VBYto7uGTiRBiBe50GiZ9CkhwYeiqUVd28X4zjfsxDflCXXRZpmyeFfgWKuWq2f4R82phlsMsgOw8lP2vdGnBgq2ooPeXA5Id+6QPrw4LX+VksOaN1xocsSfvQPLdL48/aoDXl+/X+ouKM8rGSoLCh35visWKJGquSVHl9DqHpZLHDx7rhZNxj3PGIXL91pvoP4ieEYnxW4kuDbiEsdyX1cZs1l1SFJoZXlfrvO6cvjJarIGYYBh8wV9zuvcR/0vVTCA/9zNRmQydYgYTmltfgvW0VzlBUEt7gExZgyQ1swaKoSDDTbH12ns+m394zFK1chiLjP4LwLQ=;FqqEsgsMFrcOcfph5ULYfw=="
 ---
 

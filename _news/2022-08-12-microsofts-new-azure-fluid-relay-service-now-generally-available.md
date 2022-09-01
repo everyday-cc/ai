@@ -1,10 +1,10 @@
 ---
 category: news
 title: "Microsoft’s New Azure Fluid Relay Service Now Generally Available"
-excerpt: "Currently, the Azure Fluid Relay service is available in around 10 Azure regions – half of which are in the US – on a pay-as-you-go basis. More details on pricing are available on the pricing ..."
-publishedDateTime: 2022-08-12T00:00:00Z
-originalUrl: "https://www.infoq.com/news/2022/08/azure-fluid-relay-service/"
-webUrl: "https://www.infoq.com/news/2022/08/azure-fluid-relay-service/"
+excerpt: "The Ballerina “Table” data structure can be more effective than maps in representing indexed data collections In this annual report, the InfoQ editors discuss the current state of AI ..."
+publishedDateTime: 2022-08-12T10:08:00Z
+originalUrl: "https://www.infoq.com/news/2022/08/azure-fluid-relay-service/?amp;amp;amp"
+webUrl: "https://www.infoq.com/news/2022/08/azure-fluid-relay-service/?amp;amp;amp"
 type: article
 
 provider:
@@ -21,6 +21,6 @@ images:
     height: 630
     isCached: true
 
-secured: "7gew3xtJvxZj4HrVQPQCbII+JtCN+F09HLMpZPL9jOuJ3aBGADBir9o+0l+RX0Rvjwr7TMpP8IPb0AmW1zb46fvhffUrrizUrTzwK1htRFcSTbf4PTpr+p712bowcOsnNmwm+xGVYWue5+e8d9c3Bk5Qgp/r363oEgk1dK6f0XORjXXf7dGIJ7CbRBESCSNuJGFpmI/JPJFtO/WEK4MyGfS3zMuGGTXRkEgSnKkds+LsZRCVeSr5CKjSX4qzxgvjf/6fEwUQlioAruN9Lu3NJRN9lXER4ZTqZ4gKFPJgSzErSfaI6rcSIFhtWtDt2KlmcdVA42+ilWEp99xLdst5MVw8ZbM0ZWXWfM9q2/s73Mo=;Of5quqWHVwYuKyMMUt2qGw=="
+secured: "RgydGw7HUJif61WfLzyykcHI7PrNmILbr2VlEbB6rhIuhvUvZg0IiJ5q4Evm2tOJzdOOcJmIEA/34U8dbOJhwsANuORIsNiBUfmWEOrESGKcoT+ZlYdBW9o62wiueFvBTDTuPU72VpX0+6LegR5VDOZFRdPfT1X/owtwgTmzNnmmeyR31KrZ/jCTWKLzSSnldy4Ua3v2we1ecfeM++fj/lYxKpvZrecSjG1IGCDF6KwcBctzD7Htm3bss0KAfy+Pn6JNbtLlXYySa/BtaQTeeFL38pLDYX4AwZdRRWQDhjGUhxFhCSuufeRvODXAEWCiaNgrsnh6N7X2LVr+KSZNjHVjhw8gcztYUSdeRHbd4IY=;QbRc4y5cO5sEkzDTALEw2A=="
 ---
 

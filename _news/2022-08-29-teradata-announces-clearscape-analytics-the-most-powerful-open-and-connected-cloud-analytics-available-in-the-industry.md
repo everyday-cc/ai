@@ -19,22 +19,6 @@ topics:
   - AI
 
 related:
-  - title: "Analytics, AI and robotics help MLB teams get a step closer to a perfect pitching machine"
-    excerpt: "Advances in AI, stat tracking, advanced metrics and robotics could fit together nicely for a proper 21st-century twist on a pitching machine."
-    publishedDateTime: 2022-08-27T11:05:00Z
-    webUrl: "https://techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/"
-    ampWebUrl: "https://techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/amp/"
-    cdnAmpWebUrl: "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/amp/"
-    type: article
-    provider:
-      name: TechCrunch
-      domain: techcrunch.com
-    quality: 110
-    images:
-      - url: "https://techcrunch.com/wp-content/uploads/2022/08/2527842396.2022-08-26-16_13_02.gif"
-        width: 800
-        height: 494
-        isCached: true
   - title: "How advanced analytics and machine learning are transforming the role of ‘Finance Controllers’"
     excerpt: "Equipping Financial Controllers with predictive capabilities, advanced analytics and ML will help them elevate their role from providing back-office support to business partnering. The role of a finance controller is changing. It is expected that ..."
     publishedDateTime: 2022-08-30T14:39:00Z
@@ -67,33 +51,10 @@ related:
         width: 1200
         height: 1200
         isCached: true
-  - title: "Cloudera’s New ‘CDP One’ Removing Obstacles To Adopt Industrial-Grade Analytics And ML"
-    excerpt: "Ranked Industry Analyst Patrick Moorhead dives in as Cloudera is a company that hopes to remove challenges and obstacles to AI deployment by recently launching a new software-as-a-service-based (SaaS)"
-    publishedDateTime: 2022-08-29T19:12:00Z
-    webUrl: "https://www.forbes.com/sites/patrickmoorhead/2022/08/29/clouderas-new-cdp-one-removing-obstacles-to-adopt-industrial-grade-analytics-and-ml/"
-    type: article
-    provider:
-      name: Forbes
-      domain: forbes.com
-    quality: 43
-  - title: "SAS Develops Analytics to Study the Factors that Influence Water Quality"
-    excerpt: "The University of Florida's Center for Coastal Solutions (CCS) is partnering with analytics company SAS to study the factors that influence water quality in Charlotte Harbor."
-    publishedDateTime: 2022-08-29T21:29:00Z
-    webUrl: "https://www.environmentalleader.com/2022/08/sas-develops-analytics-to-study-the-factors-that-influence-water-quality/"
-    type: article
-    provider:
-      name: Environmental Leader
-      domain: environmentalleader.com
-    quality: 23
-    images:
-      - url: "http://ads.environmentalleader.com/www/delivery/avw.php?zoneid=97&cb=&n=abab4b2c"
-        width: 300
-        height: 250
-        isCached: true
-  - title: "UF Partners with SAS to Tackle Water Quality Challenges with Analytics"
-    excerpt: "The project will evaluate the connections between water quality and key economic sectors in the region. As part of the yearlong project, SAS and CCS will use SAS Viya on Microsoft Azure to develop a web-based water analytics platform to integrate a diversity of data streams to facilitate scientific research,"
-    publishedDateTime: 2022-08-30T14:18:00Z
-    webUrl: "https://www.datanami.com/this-just-in/uf-partners-with-sas-to-tackle-water-quality-challenges-with-analytics/"
+  - title: "Teradata Unveils New Data Lake, Advanced Analytics Offerings"
+    excerpt: "Teradata today rolled out a pair of new products designed to broaden its appeal to a new generation of users, including a new data lake called"
+    publishedDateTime: 2022-08-29T10:55:00Z
+    webUrl: "https://www.datanami.com/2022/08/29/teradata-unveils-new-data-lake-advanced-analytics-offerings/"
     type: article
     provider:
       name: datanami.com
