@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-30T23:00:00Z
 originalUrl: "https://www.genengnews.com/topics/bioprocessing/connectivity-is-key-in-modular-bioprocesses-for-new-product-modalities/"
 webUrl: "https://www.genengnews.com/topics/bioprocessing/connectivity-is-key-in-modular-bioprocesses-for-new-product-modalities/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: GEN

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-01T12:52:00Z
 originalUrl: "https://www.bizjournals.com/sanjose/news/2022/09/01/how-data-is-reframing-the-global-health-care-conve.html"
 webUrl: "https://www.bizjournals.com/sanjose/news/2022/09/01/how-data-is-reframing-the-global-health-care-conve.html"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: The Business Journals

@@ -2,6 +2,59 @@
   "page": 15,
   "value": [
     {
+      "path": "_news/2022-05-19-from-lego-competitions-to-deepminds-robotics-lab.md",
+      "title": "From LEGO competitions to DeepMind's robotics lab",
+      "excerpt": "If you want to be at DeepMind, go for it. Apply, interview, and just try. You might not get it the first time but that doesn’t mean you can’t try again. I never thought DeepMind would accept me, and when they did, I thought it was a mistake. Everyone doubts themselves – I’ve never felt like the smartest",
+      "sourceUrl": null,
+      "webUrl": "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-robotics-lab",
+      "originalUrl": "https://www.deepmind.com/blog/from-lego-competitions-to-deepminds-robotics-lab",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 181,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://assets-global.website-files.com/621e749a546b7592125f38ed/62863b2de650d13aae1b5176_Akhil_Raju__Blog__16x9.jpg",
+          "width": 1920,
+          "height": 1080,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-18T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "DeepMind",
+        "domain": "deepmind.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/deepmind.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Google AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-05-19-plus-one-robotics-to-present-parcel-sortation-robot-workflow-at-automate-conference-2022.md",
       "title": "Plus One Robotics to Present Parcel Sortation Robot Workflow at Automate Conference 2022",
       "excerpt": "Plus One Robotics, the leading 3D and AI-powered software maker for logistics robotics, will showcase live demonstrations of their revolutionary PickOne technology, which features Yonder, the company’s award-winning remote supervision product,",
@@ -1283,49 +1336,6 @@
         "AI in Finance",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-05-11-robots-students-to-compete-in-dallas.md",
-      "title": "Robots students to compete in Dallas",
-      "excerpt": "A robotics team from Portland East Middle School has qualified to compete in the IQ challenge level of the Vex Robotics World Competition in Dallas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.lebanondemocrat.com/portland/news/robots-students-to-compete-in-dallas/article_58d70360-9fd2-55c1-9811-eb95214f66ff.html",
-      "originalUrl": "https://www.lebanondemocrat.com/portland/news/robots-students-to-compete-in-dallas/article_58d70360-9fd2-55c1-9811-eb95214f66ff.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://bloximages.chicago2.vip.townnews.com/lebanondemocrat.com/content/tncms/assets/v3/editorial/7/5d/75d6f60d-ceb2-5125-a646-c54e8b0a7549/62797123a98b5.image.jpg?crop=1662%2C873%2C0%2C187&resize=1200%2C630&order=crop%2Cresize",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-10T22:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Lebanon Democrat",
-        "domain": "lebanondemocrat.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

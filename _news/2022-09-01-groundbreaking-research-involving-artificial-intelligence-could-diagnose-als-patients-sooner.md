@@ -2,17 +2,17 @@
 category: news
 title: "Groundbreaking research involving artificial intelligence could diagnose ALS patients sooner"
 excerpt: "Five thousand people in the U.S. are diagnosed with a neurological disease called ALS every year. Medical experts say it typically takes an average of two years to diagnose, but new research will likely make that timetable a lot shorter."
-publishedDateTime: 2022-08-31T19:52:00Z
-originalUrl: "https://www.wtkr.com/news/national/groundbreaking-research-involving-artificial-intelligence-could-diagnose-als-patients-sooner"
-webUrl: "https://www.wtkr.com/news/national/groundbreaking-research-involving-artificial-intelligence-could-diagnose-als-patients-sooner"
+publishedDateTime: 2022-08-31T19:48:00Z
+originalUrl: "https://www.katc.com/news/national/groundbreaking-research-involving-artificial-intelligence-could-diagnose-als-patients-sooner"
+webUrl: "https://www.katc.com/news/national/groundbreaking-research-involving-artificial-intelligence-could-diagnose-als-patients-sooner"
 type: article
 quality: 26
 heat: 26
 published: false
 
 provider:
-  name: WTKR.com
-  domain: wtkr.com
+  name: KATC
+  domain: katc.com
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "ctP7K+PzEsCC2+LDUK0qRWdXj1NVIih1IUfWUQA3ve5D6LEK5/wSW5SavibOvufifeu80hoF9sPHAzmVr0ku/8Zsti8NUBjcGV2DSJs8q9lU0wivZmSl4bVY5ytctEsKcRZu0uk8P9pLiOzGhWnhfci+u3vOSZHR0R5amdg1lY5WRFFbNsSmECN66vHzbzZGqsBV6G1mV0yv2PjV/KzBHwqegNhpVylPZXRJuIG2jcGm2/gJBJIW43dbJB55ElnZCamu2/DVvc2Q/MRlQ2YA+bMiOhdkUtkTtnEtkSy2u80SNWib6aRPkm2YPfcsnmL11v1ZW6r6wBCLFeA8rLPDohxrQ8xtL8l8aiWb4WNp9zc=;+FQxv94d7HePL6VIDk5/nw=="
+secured: "vTMBci7xYAQSCrcEkBZt/Bl60wb/a4HvAK9BPNd1ddje1F4IdcePNgir+NS2fnbQLXUxOhJV4rB25sOOG/vGvzo2cSqM6tprsAimkI0zjG47JNp18v0M9cMhHzjqVeVXo4PzXFe0AhqVePy/ZHT+hkm8xqzaGcbJeQ/EwXGbHjXo5ojDktDIip+wS5r1JPhoaOaidJr5X2z6Gw+XdaBWzkAnaMA+TelCImYDXaJKqD2p0u1I9+xLmiIH2Gi3Ghnp3rS7VaZFK0zFy/1rBoCxHuDT7q9Snc4+3l8r1AdUNduhBPRmUhyK55nGyQ92ZN0BZjPdUDaVhOPSUgMQZ5k9gKKQz381ifo/b+Q43eJmrGo=;MZYsMNOmAcOAL/AibLOVCQ=="
 ---
 

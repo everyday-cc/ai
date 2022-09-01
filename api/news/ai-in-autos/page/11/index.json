@@ -2,6 +2,252 @@
   "page": 11,
   "value": [
     {
+      "path": "_news/2022-06-22-researchers-release-open-source-photorealistic-simulator-for-autonomous-driving.md",
+      "title": "Researchers release open-source photorealistic simulator for autonomous driving",
+      "excerpt": "Hyper-realistic virtual worlds have been heralded as the best driving schools for autonomous vehicles (AVs), since they've proven fruitful test beds for safely trying out dangerous driving scenarios.",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.html",
+      "originalUrl": "https://techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/researchers-release-op.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-06-open-source-photorealistic-simulator-autonomous.amp",
+      "publishedDateTime": "2022-06-21T12:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-artificial-intelligence-ai-chipset-market-size-worldwide-opportunities-driving-forces-future-potential-2028.md",
+      "title": "Artificial Intelligence (AI) Chipset Market Size, Worldwide Opportunities, Driving Forces, Future Potential 2028",
+      "excerpt": "Jun 21, 2022 (Market Insight Reports) -- Latest Report Artificial Intelligence (AI) Chipset Market by Type (Deep Learning, Neural networks, Natural language processing, Others), By Application ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-worldwide-opportunities-driving-forces-future-potential-2028-2022-06-21",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-size-worldwide-opportunities-driving-forces-future-potential-2028-2022-06-21",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T12:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-are-future-humans-doomed-to-be-replaced-by-artificial-intelligence.md",
+      "title": "Are Future Humans Doomed To Be Replaced By Artificial Intelligence?",
+      "excerpt": "Are we just wetware, natural computers doomed to obsolescence by tomorrow’s ultra-powerful artificial intelligence? A pioneer in computing intelligence says “no way.” Robert J. Marks, II newest book,",
+      "sourceUrl": null,
+      "webUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
+      "originalUrl": "https://apnews.com/press-release/pr-newswire/technology-artificial-intelligence-c23440f01a223c0f005241e6af9c6ca4",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://apnews.com/images/PaidContent3.png",
+          "width": 700,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T10:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Associated Press",
+        "domain": "apnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos",
+        "Machine Learning"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-googles-ai-is-something-even-stranger-than-conscious.md",
+      "title": "Google’s AI Is Something Even Stranger Than Conscious",
+      "excerpt": "LaMDA is no more conscious than a pocket calculator. More importantly, the silly fantasy of machine sentience has once again been allowed to dominate the artificial-intelligence conversation when much stranger and richer,",
+      "sourceUrl": null,
+      "webUrl": "https://www.theatlantic.com/technology/archive/2022/06/google-palm-ai-artificial-consciousness/661329/",
+      "originalUrl": "https://www.theatlantic.com/technology/archive/2022/06/google-palm-ai-artificial-consciousness/661329/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 79,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.theatlantic.com/thumbor/1RcywjNbiaw9JpLVBsnfMv2osqs=/0x51:2396x1299/1200x625/media/img/mt/2022/06/GettyImages_515342070/original.jpg",
+          "width": 1200,
+          "height": 625,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-21T10:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Atlantic",
+        "domain": "theatlantic.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theatlantic.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-21-artificial-intelligence-will-help-autodesk-expand-in-the-metaverse.md",
+      "title": "Artificial intelligence will help Autodesk expand in the metaverse",
+      "excerpt": "“A common theme is helping the designer,” said Tonya Custis, director of artificial intelligence research at Autodesk, whose team includes fifteen AI research scientists based in San ...",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/2022/06/21/artificial-intelligence-will-help-autodesk-expand-in-the-metaverse/",
+      "originalUrl": "https://venturebeat.com/2022/06/21/artificial-intelligence-will-help-autodesk-expand-in-the-metaverse/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2022/06/GettyImages-1371918162.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 937,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/2022/06/21/artificial-intelligence-will-help-autodesk-expand-in-the-metaverse/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/21/artificial-intelligence-will-help-autodesk-expand-in-the-metaverse/amp/",
+      "publishedDateTime": "2022-06-21T07:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-06-21-accurate-diagnosis-of-brain-tumors-using-artificial-intelligence.md",
       "title": "Accurate diagnosis of brain tumors using artificial intelligence",
       "excerpt": "Artificial intelligence was found to be superior in the areas of accuracy, precision and misclassification, among others, while professionals performed better in sensitivity and specificity.",
@@ -1109,222 +1355,6 @@
             "isCached": false
           }
         ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-why-artificial-intelligence-remains-a-distant-dream.md",
-      "title": "Why Artificial Intelligence remains a distant dream?",
-      "excerpt": "Many AI initiatives to emulate the human brain -- from driving a car to writing text -- have failed in the ever changing real world",
-      "sourceUrl": null,
-      "webUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/",
-      "originalUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 76,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.americanbazaaronline.com/wp-content/uploads/2021/01/Communication.jpg",
-          "width": 1100,
-          "height": 692,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/?amp",
-      "cdnAmpWebUrl": "https://www-americanbazaaronline-com.cdn.ampproject.org/c/s/www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/?amp",
-      "publishedDateTime": "2022-06-16T09:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "americanbazaaronline.com",
-        "domain": "americanbazaaronline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-baidu-again-reported-to-be-considering-selling-iqiyi-stake.md",
-      "title": "Baidu again reported to be considering selling iQiyi stake",
-      "excerpt": "Every Wednesday and Friday, TechNode’s Briefing newsletter delivers a roundup of the most important news in China tech, straight to your inbox.",
-      "sourceUrl": null,
-      "webUrl": "https://technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
-      "originalUrl": "https://technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
-          "width": 540,
-          "height": 540,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
-      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
-      "publishedDateTime": "2022-06-16T06:42:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechNode",
-        "domain": "technode.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-driverless-car-market-size-report-2022-analysis-report-by-industry-segmentation-region-manufactures-cost-structure.md",
-      "title": "Driverless Car Market Size Report 2022 Analysis Report by Industry Segmentation, Region, Manufactures, Cost Structure",
-      "excerpt": "Jun 16, 2022 (The Expresswire) -- Driverless Car Market report gives inside and out investigation of the Driverless Car market, market size and total yearly development rate CAGR for the figure ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/driverless-car-market-size-report-2022-analysis-report-by-industry-segmentation-region-manufactures-cost-structure-2022-06-16",
-      "originalUrl": "https://www.marketwatch.com/press-release/driverless-car-market-size-report-2022-analysis-report-by-industry-segmentation-region-manufactures-cost-structure-2022-06-16",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T05:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-baidu-tipped-to-roll-credits-on-iqiyi-stake.md",
-      "title": "Baidu tipped to roll credits on iQIYI stake",
-      "excerpt": "Chinese internet giant Baidu reportedly entered talks on selling a majority stake in iQIYI, a deal which could value the video streaming platform at about $7 billion and help fund the company’s development of emerging technologies. Reuters reported Baidu ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake",
-      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.mobileworldlive.com/wp-content/uploads/2022/06/iQIYI_SS_generic.jpg",
-          "width": 650,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake/amp",
-      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake/amp",
-      "publishedDateTime": "2022-06-16T04:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Mobile World Live",
-        "domain": "mobileworldlive.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-16-teslas-driverless-cars-saw-most-crashes-in-past-year.md",
-      "title": "Tesla’s driverless cars saw most crashes in past year",
-      "excerpt": "US senators have raised the alarm about the high number of Tesla crashes. (AP pic) WASHINGTON: Tesla Inc reported 273 vehicle crashes since July involving advanced driving assistance systems, more ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.freemalaysiatoday.com/category/business/2022/06/16/teslas-driverless-cars-saw-most-crashes-in-past-year/",
-      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2022/06/16/teslas-driverless-cars-saw-most-crashes-in-past-year/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-16T03:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Free Malaysia Today",
-        "domain": "freemalaysiatoday.com",
-        "images": null,
         "publishers": null,
         "authors": null
       },

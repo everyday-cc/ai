@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-31T10:39:00Z
 originalUrl: "https://www.khou.com/article/news/self-driving-lyft-rides-to-start-soon-in-austin/269-8d0016f8-ddc4-4ba3-bc25-6a2940b15179"
 webUrl: "https://www.khou.com/article/news/self-driving-lyft-rides-to-start-soon-in-austin/269-8d0016f8-ddc4-4ba3-bc25-6a2940b15179"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: KHOU 11

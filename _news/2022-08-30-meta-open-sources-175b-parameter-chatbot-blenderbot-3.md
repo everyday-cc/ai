@@ -7,7 +7,7 @@ originalUrl: "https://www.infoq.com/news/2022/08/meta-blenderbot3-chatbot/"
 webUrl: "https://www.infoq.com/news/2022/08/meta-blenderbot3-chatbot/"
 type: article
 quality: 4
-heat: -1
+heat: 4
 published: false
 
 provider:
@@ -17,17 +17,6 @@ provider:
 topics:
   - Machine Learning
   - AI
-
-related:
-  - title: "Google AI Chatbot Now Open for Public Testing"
-    excerpt: "Registrations are open for early access, with AI Test Kitchen serving rotating demos centered around cutting-edge AI technologies"
-    publishedDateTime: 2022-08-29T13:06:00Z
-    webUrl: "https://analyticsindiamag.com/google-ai-chatbot-now-open-for-public-testing/"
-    type: article
-    provider:
-      name: Analytics India Magazine
-      domain: analyticsindiamag.com
-    quality: 17
 
 secured: "LK3eTIZgz61QRC78zCsJXn4yDEK5v6goE6LeEbgEBELKFXcCip2khlc3I4tHL5pJcCD5DY+RrDskPG4FhHaEt1nm+3k+CHZlxTw7ES0SGgWNDzDcJns9jTeJ4/A1QJqaAu8dhQ3eQHZBSPmrspjQkYzjTXHqUKhup8+Q3Yt2HG5tX/+c33tWH60pywIT8KQOxcKzyT2Gp/rSjmQ2ut12fymxJQVjbDMgorx6U6VhOS8DItGnihzTm+5a7nOGkgYUq97mNVaGgGSzA6XWcZvggA4KaYl36H18NV306rE/R/faNOR68+yBsKm981e79O9FYWyfwcRJMY/CLcUnJYjZ8nPPbcQbPrpzcrLkLUV1BF12TL8y6YoqIgl2CXDSxYky0w3vjgPtJTSmP2lutLnBV5qKPXGSh9d/x7yFhRKdkeuhhuhymSq7KKGfPVRhXNlFer+n1dGcZCmzca/TXv1vkHvhIprfPo32R96nRtsCW/N0JyS46p1IYxgXkpEkX9nvXTboc39rYqKGU54vnQWjjA==;RBa1xcl1UdH6p8OV8WFiyg=="
 ---

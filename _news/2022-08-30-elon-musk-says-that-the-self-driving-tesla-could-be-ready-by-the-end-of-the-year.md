@@ -109,6 +109,17 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "California Has a Bill to Go After Tesla’s Self-Driving Claims"
+    excerpt: "Lawmakers in California are targeting Tesla’s self-driving claims with a new false advertising bill, VW’s next boss says the firm must speed up its switch to electric vehicles, and GM recalls its autonomous Cruise cars."
+    publishedDateTime: 2022-09-01T14:43:00Z
+    webUrl: "https://jalopnik.com/california-has-a-bill-to-go-after-tesla-s-self-driving-1849484108"
+    ampWebUrl: "https://jalopnik.com/california-has-a-bill-to-go-after-tesla-s-self-driving-1849484108/amp"
+    cdnAmpWebUrl: "https://jalopnik-com.cdn.ampproject.org/c/s/jalopnik.com/california-has-a-bill-to-go-after-tesla-s-self-driving-1849484108/amp"
+    type: article
+    provider:
+      name: Jalopnik
+      domain: jalopnik.com
+    quality: 54
   - title: "Musk aiming for widespread release of self-driving Teslas by end of year"
     excerpt: "Elon Musk says that he aims to get Tesla's self-driving technology ready for wide release in the US, and possibly Europe, by the end of the year. Nasa has postponed for at least four days the launch of its colossal next-generation rocket, Artemis I ..."
     publishedDateTime: 2022-08-29T15:34:00Z

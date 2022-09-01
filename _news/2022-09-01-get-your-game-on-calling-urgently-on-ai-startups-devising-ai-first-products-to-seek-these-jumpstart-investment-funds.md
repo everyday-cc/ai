@@ -5,7 +5,12 @@ excerpt: "AI startups need to be aware of these key insights if they want to gar
 publishedDateTime: 2022-09-01T12:00:00Z
 originalUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/01/get-your-game-on-calling-urgently-on-ai-startups-devising-ai-first-products-to-seek-these-jumpstart-investment-funds/"
 webUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/01/get-your-game-on-calling-urgently-on-ai-startups-devising-ai-first-products-to-seek-these-jumpstart-investment-funds/"
+ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/01/get-your-game-on-calling-urgently-on-ai-startups-devising-ai-first-products-to-seek-these-jumpstart-investment-funds/amp/"
+cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/09/01/get-your-game-on-calling-urgently-on-ai-startups-devising-ai-first-products-to-seek-these-jumpstart-investment-funds/amp/"
 type: article
+quality: 66
+heat: -1
+published: false
 
 provider:
   name: Forbes
@@ -17,7 +22,55 @@ provider:
 
 topics:
   - AI
+  - Microsoft AI
 
-secured: "+meyOd91ROX8HdRXINEv7ZleuGWzxWFtl9AHLtVX7pWJ2/O9jOP0YP9nqdB7DtTHYzUKaEszqxkjWYHwuSmXEcfgfKc8yukRX/pXbwLr9KgHOzBgNKseQ4xA9dG+yRTFQH1GsD5zuXtK0XiDT2GSVvtZerGKldExjgWdyrWvce2ELaTeSNUA3ANjoYaq6u1DXCq+033MD89MlEtebrt/sTIpvZG6mfpDJ/LAx9qoF/a148mvxQUtFk+EP7JG5mFIgVrnA/Y7K8Bz98JTHyKlhoRO6qhyBI/7DDDY40U7R6ajCWBy/3wPPhhboa76rWbrS6xZLD3fm1hg5FkI1PcsPeMTajXdFhtfhflM//Hvj9bVsDzclEzbkb6TAE6mAeQI8XtBYHV/YOQmRW/6uj8S8oUZWvMMZqUYwApML42WrAwN50JKm3vrORn/u83lzOtZFHjNqeXQao8R63AA3bDU+PVhD+YNGdEF7HjcSK0na/bpHvhxd0VdjB1BTnJpTzUBhmxvHkSlZS1BNWkHWxu6Jg==;tLxUKN4XL8SqfgjJ0nLtZw=="
+images:
+  - url: "https://imageio.forbes.com/specials-images/imageserve/631028f6b8a74560cf6398a9/0x0.jpg?format=jpg&crop=1703,958,x161,y64,safe&width=1200"
+    width: 1200
+    height: 675
+    isCached: true
+
+related:
+  - title: "In The Face Of Recession, Investing In AI Is A Smarter Strategy Than Ever"
+    excerpt: "By making a few smart investments today, businesses can emerge from any oncoming recession, more effective and efficient than they were before."
+    publishedDateTime: 2022-09-01T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5fc7e538b6f0e3645ec8ff41/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How AI Is Shaping the Future of Customer Interactions"
+    excerpt: "Artificial intelligence isn’t going anywhere. In fact, it’s beginning to take the lead on customer interactions — but not without challenges."
+    publishedDateTime: 2022-08-30T11:02:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/how-ai-is-shaping-the-future-of-customer-interactions/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/5fa25dc1474f429fac7153892ff8d022.ashx"
+        width: 640
+        height: 480
+        isCached: true
+  - title: "AI Startup Replicant Is Transforming Customer Service Centers By Making Them More Automated—And More Accessible"
+    excerpt: "The company is harnessing artificial intelligence and machine learning technology in an effort to remake call centers everywhere."
+    publishedDateTime: 2022-08-30T18:19:00Z
+    webUrl: "https://www.forbes.com/sites/stevenaquino/2022/08/30/ai-startup-replicant-is-transforming-customer-service-centers-by-making-them-more-automated-and-more-accessible/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 27
+
+secured: "at3p4EEBft/22Tt3eM+lhUIZ46Cm1GdKeTMMg89ZOIAJUk3QBzDoLh4qArWdcrUURQXM1rVBhcKwKBGDU2atEfdZpriW9RqYQmYWnvzxks7XBzbWfErWWl+vgd5wfcOHfu2hbnZ1oYD36NkKs3CnNKnc4S0AoE8+WrFUaB9LRTWSDdpTNTBKeo9hLWmGDGihTrzvJNvjjWahGg4qR6Il9+GmVKSH6KLJskURGYviqZBw8eUq6jj16le8S8jINtQiaOuO0u6m5/HZNsgPoi3Hxd1TSJdCnFMtUDX1SiKVBTX6+OVrQpBTSokeUdcITKWX4KbwviG+TZgv6wm6kwYl9/pn9gtX5+PTzlT+8XdMzac=;l6ypd5dFhqselsUtqBjgJg=="
 ---
 

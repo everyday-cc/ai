@@ -2,6 +2,239 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-17-whats-happening-with-baidu-stock.md",
+      "title": "What’s Happening With Baidu Stock?",
+      "excerpt": "Baidu is also making solid progress with its AI developments such as autonomous driving. Last week, the company became the first robo taxi operator in China to receive permits for offering rides ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/greatspeculations/2022/08/17/whats-happening-with-baidu-stock/",
+      "originalUrl": "https://www.forbes.com/sites/greatspeculations/2022/08/17/whats-happening-with-baidu-stock/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61b4a97d18c00d162ce1cfc2/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/greatspeculations/2022/08/17/whats-happening-with-baidu-stock/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/greatspeculations/2022/08/17/whats-happening-with-baidu-stock/amp/",
+      "publishedDateTime": "2022-08-17T05:16:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-the-journey-to-cx-personalization-building-on-a-foundation-of-intelligent-automation.md",
+      "title": "The Journey To CX Personalization: Building On A Foundation Of Intelligent Automation",
+      "excerpt": "Global marketing leader at HGS, CX professional, product promoter, outsourcing innovation fan – with a focus on what’s next. Personalization is a key aspect of providing a tailored customer experience (CX),",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-journey-to-cx-personalization-building-on-a-foundation-of-intelligent-automation/",
+      "originalUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-journey-to-cx-personalization-building-on-a-foundation-of-intelligent-automation/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/61f030570018a072dc46d1ec/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-journey-to-cx-personalization-building-on-a-foundation-of-intelligent-automation/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbescommunicationscouncil/2022/08/17/the-journey-to-cx-personalization-building-on-a-foundation-of-intelligent-automation/amp/",
+      "publishedDateTime": "2022-08-17T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-lyft-to-offer-driverless-robotaxis-in-las-vegas.md",
+      "title": "Lyft to offer driverless robotaxis in Las Vegas",
+      "excerpt": "LAS VEGAS (KTNV) — Driverless robotic taxis right here in the valley! People on the Las Vegas Strip can now request a robotaxi. This could be \"the future of transportation!\" The rideshare app ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.ktnv.com/traffic/lyft-to-offer-driverless-robotaxis-in-las-vegas",
+      "originalUrl": "https://www.ktnv.com/traffic/lyft-to-offer-driverless-robotaxis-in-las-vegas",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://x-default-stgec.uplynk.com/ausw/slices/194/b9cd621bb5cc43d8b6bdc641d1acdca8/19496f57e2094d34845fbe5aea18c001/poster_c04e269902e24bdba76b048409b602a5.png",
+          "width": 1165,
+          "height": 538,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.ktnv.com/traffic/lyft-to-offer-driverless-robotaxis-in-las-vegas?_amp=true",
+      "cdnAmpWebUrl": "https://www-ktnv-com.cdn.ampproject.org/c/s/www.ktnv.com/traffic/lyft-to-offer-driverless-robotaxis-in-las-vegas?_amp=true",
+      "publishedDateTime": "2022-08-16T18:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KTNV Las Vegas",
+        "domain": "ktnv.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-lyft-motional-roll-out-new-fleet-of-driverless-electric-vehicles-in-las-vegas.md",
+      "title": "Lyft, Motional roll out new fleet of driverless electric vehicles in Las Vegas",
+      "excerpt": "This week’s launch is the initial phase in the lead-up to a fully driverless service Motional and Lyft hope to expand to multiple cities using the IONIQ 5 AV. Ride-hailing service Lyft is ...",
+      "sourceUrl": null,
+      "webUrl": "https://thehill.com/changing-america/resilience/smart-cities/3604194-lyft-motional-roll-out-new-fleet-of-driverless-electric-vehicles-in-las-vegas/",
+      "originalUrl": "https://thehill.com/changing-america/resilience/smart-cities/3604194-lyft-motional-roll-out-new-fleet-of-driverless-electric-vehicles-in-las-vegas/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://thehill.com/wp-content/uploads/sites/2/2022/08/CA_lyftmotional_081622Motional.jpg?w=1280",
+          "width": 1280,
+          "height": 782,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://thehill.com/changing-america/resilience/smart-cities/3604194-lyft-motional-roll-out-new-fleet-of-driverless-electric-vehicles-in-las-vegas/amp/",
+      "cdnAmpWebUrl": "https://thehill-com.cdn.ampproject.org/c/s/thehill.com/changing-america/resilience/smart-cities/3604194-lyft-motional-roll-out-new-fleet-of-driverless-electric-vehicles-in-las-vegas/amp/",
+      "publishedDateTime": "2022-08-16T13:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Hill",
+        "domain": "thehill.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-17-watch-out-tesla-and-waymo-lyft-debuts-self-driving-vehicle-in-las-vegas.md",
+      "title": "Watch Out Tesla And Waymo! Lyft Debuts Self-Driving Vehicle In Las Vegas",
+      "excerpt": "Ride-hailing service Lyft Inc. (NASDAQ: LYFT) has teamed up with Motional to bring self-driving taxis to cities around the nation, starting with Las Vegas.",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/watch-out-tesla-and-waymo-lyft-debuts-self-driving-vehicle-in-las-vegas-1031688162",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/watch-out-tesla-and-waymo-lyft-debuts-self-driving-vehicle-in-las-vegas-1031688162",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 113,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-16T12:28:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-17-lyft-rolls-out-its-first-driverless-evs-in-the-united-states.md",
       "title": "Lyft Rolls Out Its First Driverless EVs in the United States",
       "excerpt": "The new robotaxi will be joining the company’s fleet of cars, marking its foray into driverless rides. The autonomous car will launch first in Las Vegas, Nevada in 2022, with plans to expand to ...",
@@ -1153,228 +1386,6 @@
       "topics": [
         "AI in Healthcare",
         "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-xiaomi-ceo-says-it-has-140-vehicles-across-china-testing-autonomous-driving.md",
-      "title": "Xiaomi CEO says it has 140 vehicles across China testing autonomous driving",
-      "excerpt": "Xiaomi Corp is currently running tests on 140 vehicles across China for autonomous driving, CEO Lei Jun said on Thursday. The news marks the latest benchmark for the smartphone maker, which announced last year it would enter the competitive EV sector and challenge established brands and younger tech companies.",
-      "sourceUrl": null,
-      "webUrl": "https://www.investing.com/news/stock-market-news/xiaomi-ceo-says-company-has-140-vehicles-across-china-testing-autonomous-driving-2870418",
-      "originalUrl": "https://www.investing.com/news/stock-market-news/xiaomi-ceo-says-company-has-140-vehicles-across-china-testing-autonomous-driving-2870418",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-11T07:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Investing.com",
-        "domain": "investing.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row.md",
-      "title": "Tesla's self-driving tech's 'failure' to detect kids on road sparks row",
-      "excerpt": "The Guardian reported that a professional test driver found that the FSD software \"failed to detect the child-sized figure at an average speed of 25mph and the car then hit the mannequin\". Now, Electrek reports that there was a real problem with the test,",
-      "sourceUrl": null,
-      "webUrl": "https://economictimes.indiatimes.com/industry/renewables/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row/articleshow/93497474.cms",
-      "originalUrl": "https://economictimes.indiatimes.com/industry/renewables/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row/articleshow/93497474.cms",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-34974,msid-93497493/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row.jpg",
-          "width": 600,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://m.economictimes.com/industry/renewables/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row/amp_articleshow/93497474.cms",
-      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/industry/renewables/teslas-self-driving-techs-failure-to-detect-kids-on-road-sparks-row/amp_articleshow/93497474.cms",
-      "publishedDateTime": "2022-08-11T01:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-tesla-full-self-driving-technology-under-fire-as-video-seems-to-show-it-failing-to-detect-child-sized-object.md",
-      "title": "Tesla full self-driving technology under fire as video seems to show it failing to detect child-sized object",
-      "excerpt": "A pair of testing videos have been released in recent days, showing Tesla vehicles failing to stop for child-sized objects",
-      "sourceUrl": null,
-      "webUrl": "https://www.whichcar.com.au/news/tesla-full-self-driving-technology-under-fire-as-video-seems-to-show-it-failing-to-detect-child-sized-object",
-      "originalUrl": "https://www.whichcar.com.au/news/tesla-full-self-driving-technology-under-fire-as-video-seems-to-show-it-failing-to-detect-child-sized-object",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://assets.whichcar.com.au/image/private/s--4xsgqGIQ--/ar_1.9047619047619047,c_fill,f_auto,g_xy_center,q_auto:good,x_817,y_328/c_scale,w_1200/Tesla_Model_3_FSD_pedestrian_The_Dawn_Project.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-10T17:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "whichcar",
-        "domain": "whichcar.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-11-10-top-artificial-intelligence-ai-solutions-in-2022.md",
-      "title": "10 top artificial intelligence (AI) solutions in 2022",
-      "excerpt": "As AI-powered technologies continue to advance and more organizations adopt them, IT leaders must be sure to ask themselves how the solutions they choose fit into their goals as a business.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/",
-      "originalUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 122,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1131331897-e1655419471228.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 611,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/10-top-artificial-intelligence-solutions-in-2022/amp/",
-      "publishedDateTime": "2022-08-10T11:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "IBM AI",
-        "AI in Healthcare",
-        "Microsoft AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-10-the-importance-of-international-norms-in-artificial-intelligence-ethics.md",
-      "title": "The Importance of International Norms in Artificial Intelligence Ethics",
-      "excerpt": "Artificial intelligence has arrived as a multi-purpose tool. The United States and its allies need to do more to establish norms and ensure AI is used in a way that does not harm human rights.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics",
-      "originalUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 90,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cfr.org/sites/default/files/styles/open_graph_article/public/image/2022/08/G7leaders.jpg",
-          "width": 1600,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp",
-      "cdnAmpWebUrl": "https://www-cfr-org.cdn.ampproject.org/c/s/www.cfr.org/blog/importance-international-norms-artificial-intelligence-ethics?amp",
-      "publishedDateTime": "2022-08-10T09:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Cfr.org",
-        "domain": "cfr.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI Ethics",
-        "AI in Healthcare",
-        "AWS AI",
         "AI in Autos"
       ]
     }

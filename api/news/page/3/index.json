@@ -2,6 +2,281 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-30-undeclared-pools-in-france-uncovered-by-ai-technology.md",
+      "title": "Undeclared pools in France uncovered by AI technology",
+      "excerpt": "The discovery of thousands of undeclared private swimming pools in France has provided an unexpected windfall for French tax authorities. Following an experiment using artificial intelligence (AI), more than 20,",
+      "sourceUrl": null,
+      "webUrl": "https://www.bbc.com/news/world-europe-62717599",
+      "originalUrl": "https://www.bbc.com/news/world-europe-62717599",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 157,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://ichef.bbci.co.uk/news/1024/branded_news/4B27/production/_126493291_gettyimages-178924445.jpg",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.bbc.com/news/world-europe-62717599.amp",
+      "cdnAmpWebUrl": "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/world-europe-62717599.amp",
+      "publishedDateTime": "2022-08-29T14:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "BBC",
+        "domain": "bbc.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-coauthor-stanford-experiments-with-human-ai-collaborative-writing.md",
+      "title": "CoAuthor: Stanford experiments with human-AI collaborative writing",
+      "excerpt": "Researchers at Stanford have been studying how humans and AI can write together by designing large interaction datasets.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/coauthor-stanford-experiments-with-human-ai-collaborative-writing/",
+      "originalUrl": "https://venturebeat.com/ai/coauthor-stanford-experiments-with-human-ai-collaborative-writing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2016/11/robot-keyboard.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 725,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/coauthor-stanford-experiments-with-human-ai-collaborative-writing/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/coauthor-stanford-experiments-with-human-ai-collaborative-writing/amp/",
+      "publishedDateTime": "2022-08-29T13:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-microsoft-applying-cloud-security-principles-to-open-ran-networks.md",
+      "title": "Microsoft applying cloud security principles to Open RAN networks",
+      "excerpt": "As 5G become smore cloudified, Microsoft is leveraging its cloud expertise to bring a zero-trust approach to Open RAN and other networks.",
+      "sourceUrl": null,
+      "webUrl": "https://www.rcrwireless.com/20220829/telco-cloud/microsoft-applying-cloud-security-principles-to-open-ran-networks",
+      "originalUrl": "https://www.rcrwireless.com/20220829/telco-cloud/microsoft-applying-cloud-security-principles-to-open-ran-networks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.rcrwireless.com/wp-content/uploads/2016/11/microsoft-big-logo-altered.jpg",
+          "width": 720,
+          "height": 480,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T08:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RCR Wireless News",
+        "domain": "rcrwireless.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Security"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-ethics-in-the-time-of-artificial-intelligence-and-their-sentient-attorneys.md",
+      "title": "Ethics In The Time of Artificial Intelligence (and their sentient attorneys)",
+      "excerpt": "By Matt Heisie, co-founder and head of product marketing of Ferret, an AI platform that provides critical intelligence to empower companies and individuals. A Google engineer stated earlier this year that the company’s AI bot known as LaMDA not only had achieved sentience but perhaps in the most obvious sign of modern human intelligence,",
+      "sourceUrl": null,
+      "webUrl": "https://www.globalbankingandfinance.com/ethics-in-the-time-of-artificial-intelligence-and-their-sentient-attorneys/",
+      "originalUrl": "https://www.globalbankingandfinance.com/ethics-in-the-time-of-artificial-intelligence-and-their-sentient-attorneys/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 71,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.globalbankingandfinance.com/wp-content/uploads/2022/08/iStock-1049226620.jpg",
+          "width": 750,
+          "height": 500,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.globalbankingandfinance.com/ethics-in-the-time-of-artificial-intelligence-and-their-sentient-attorneys/",
+      "cdnAmpWebUrl": "https://www-globalbankingandfinance-com.cdn.ampproject.org/c/s/www.globalbankingandfinance.com/ethics-in-the-time-of-artificial-intelligence-and-their-sentient-attorneys/",
+      "publishedDateTime": "2022-08-29T08:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "List of Banks in Belarus",
+        "domain": "globalbankingandfinance.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-lets-talk-about-robotics-ai-not-about-the-length-of-womens-dress.md",
+      "title": "\"Let’s talk about robotics, AI, not about the length of women’s dress\"",
+      "excerpt": "Education Minister Dr Dipu Moni today (August 29, 2022) said now is not the time to talk about the length of women’s dress.",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedailystar.net/youth/education/news/lets-talk-about-robotics-ai-not-about-the-length-womens-dress-3106051",
+      "originalUrl": "https://www.thedailystar.net/youth/education/news/lets-talk-about-robotics-ai-not-about-the-length-womens-dress-3106051",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.thedailystar.net/sites/default/files/styles/social_share/public/feature/images/dipu_moni_2.jpg",
+          "width": 750,
+          "height": 393,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.thedailystar.net/youth/education/news/lets-talk-about-robotics-ai-not-about-the-length-womens-dress-3106051?amp",
+      "cdnAmpWebUrl": "https://www-thedailystar-net.cdn.ampproject.org/c/s/www.thedailystar.net/youth/education/news/lets-talk-about-robotics-ai-not-about-the-length-womens-dress-3106051?amp",
+      "publishedDateTime": "2022-08-29T07:44:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Daily Star",
+        "domain": "thedailystar.net",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-ai-illuminates-permanently-shadowed-regions-on-the-moon.md",
+      "title": "AI illuminates permanently shadowed regions on the moon",
+      "excerpt": "The study's findings could have direct implications for future missions, including Intuitive Machines Mission 2, which will be conducted on a commercial basis by a start-up. This robotic mission in the spring of 2023 aims to collect and analyze the first ...",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-08-ai-illuminates-permanently-shadowed-regions.html",
+      "originalUrl": "https://phys.org/news/2022-08-ai-illuminates-permanently-shadowed-regions.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/where-to-land-on-the-m.jpg",
+          "width": 1286,
+          "height": 643,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-08-ai-illuminates-permanently-shadowed-regions.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-ai-illuminates-permanently-shadowed-regions.amp",
+      "publishedDateTime": "2022-08-29T07:08:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-why-artificial-general-intelligence-isnt-further-along.md",
       "title": "Why Artificial General Intelligence Isn’t Further Along",
       "excerpt": "For all the devastation it has caused, the Covid-19 pandemic could rightfully claim responsibility for accelerating the adaptation of artificial intelligence (AI) in the business world. Harris Poll, working with Appen, found that 55% of surveyed companies ...",
@@ -267,7 +542,7 @@
       "originalUrl": "https://www.reuters.com/technology/elon-musk-aims-have-self-driving-teslas-ready-by-year-end-us-2022-08-29/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 273,
+      "heat": 283,
       "tags": null,
       "images": [
         {
@@ -499,57 +774,6 @@
         "AI in Finance",
         "AI",
         "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-08-29-artificial-intelligence-ai-chipset-market-growing-demand-industry-synopsis-opportunities-and-analysis-2022-to-2028.md",
-      "title": "Artificial Intelligence (AI) Chipset Market Growing Demand, Industry Synopsis, Opportunities and Analysis 2022 to 2028",
-      "excerpt": "This report studies the Global Artificial Intelligence (AI) Chipset Market size, industry status and forecast, competition landscape, and growth opportunity. This research report categorizes the global Artificial Intelligence (AI) Chipset market by companies,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-growing-demand-industry-synopsis-opportunities-and-analysis-2022-to-2028-2022-08-28",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-growing-demand-industry-synopsis-opportunities-and-analysis-2022-to-2028-2022-08-28",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-28T13:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     },
     {
@@ -854,6 +1078,84 @@
       ]
     },
     {
+      "path": "_news/2022-08-28-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
+      "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
+      "excerpt": "New Jersey, NJ -- (SBWIRE) -- 08/27/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-45",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-45",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-27T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-28-national-jobs-summit-a-chance-for-australia-to-hit-reset-on-artificial-intelligence-say-business-leaders.md",
+      "title": "National jobs summit a chance for Australia to hit reset on artificial intelligence, say business leaders",
+      "excerpt": "Earlier this week an artificial intelligence-powered rapper was dropped from its label (yes, it had a label) after its algorithm learned to use racial slurs in its lyrics. Artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc.net.au/news/2022-08-28/artificial-intelligence-policy-australia-jobs-summit/101366726",
+      "originalUrl": "https://www.abc.net.au/news/2022-08-28/artificial-intelligence-policy-australia-jobs-summit/101366726",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://live-production.wcms.abc-cdn.net.au/4720965b409b32025766819103817e98?impolicy=wcms_crop_resize&cropH=381&cropW=572&xPos=0&yPos=83&width=862&height=575",
+          "width": 572,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.abc.net.au/article/101366726",
+      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101366726",
+      "publishedDateTime": "2022-08-27T14:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-28-solve-the-problem-of-unstructured-data-with-machine-learning.md",
       "title": "Solve the problem of unstructured data with machine learning",
       "excerpt": "As unstructured data is used in more business decisions and ops, ML-based quality controls help ensure your data is accurate and useful.",
@@ -902,335 +1204,6 @@
       ],
       "topics": [
         "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree.md",
-      "title": "Founder of collapsed AI start-up Metigy in $18m property buying spree",
-      "excerpt": "Administrators are now urging the sale of the properties - a mansion in Mosman and a luxury estate in Kangaroo Valley with a private rainforest waterfall - to claw back funds for creditors.",
-      "sourceUrl": null,
-      "webUrl": "https://www.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
-      "originalUrl": "https://www.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.ffx.io/image/upload/v1600232233/google-amp/placeholder.png",
-          "width": 300,
-          "height": 300,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
-      "cdnAmpWebUrl": "https://amp-theage-com-au.cdn.ampproject.org/c/s/amp.theage.com.au/business/companies/founder-of-collapsed-ai-start-up-metigy-in-18m-property-buying-spree-20220828-p5bdbc.html",
-      "publishedDateTime": "2022-08-27T09:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Age",
-        "domain": "theage.com.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-improving-ai-assisted-conversation-with-zero-shot-learning.md",
-      "title": "Improving AI-assisted conversation with zero-shot learning",
-      "excerpt": "Zero-shot learning can improve conversation AI — bolstering everything from human interaction, to sales, to training and career coaching.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/",
-      "originalUrl": "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 151,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/03/GettyImages-1169246375.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 652,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/improving-ai-assisted-conversation-with-zero-shot-learning/amp/",
-      "publishedDateTime": "2022-08-27T08:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators.md",
-      "title": "Perceptron: Face-tracking ‘earables,’ analog AI chips, and accelerating particle accelerators",
-      "excerpt": "In this week's edition of Perceptron, TechCrunch's semiregular AI research roundup, we highlight an 'earable' that uses sonar to record facial expressions and a superfast processor for AI training.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/",
-      "originalUrl": "https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/resized_brain_cover.png",
-          "width": 768,
-          "height": 480,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/27/perceptron-face-tracking-earables-analog-ai-chips-and-accelerating-particle-accelerators/amp/",
-      "publishedDateTime": "2022-08-27T05:15:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine.md",
-      "title": "Analytics, AI and robotics help MLB teams get a step closer to a perfect pitching machine",
-      "excerpt": "Advances in AI, stat tracking, advanced metrics and robotics could fit together nicely for a proper 21st-century twist on a pitching machine.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/",
-      "originalUrl": "https://techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 170,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/08/2527842396.2022-08-26-16_13_02.gif",
-          "width": 800,
-          "height": 494,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/08/27/analytics-ai-and-robotics-help-mlb-teams-get-a-step-closer-to-a-perfect-pitching-machine/amp/",
-      "publishedDateTime": "2022-08-27T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-shaquille-oneal-to-help-australian-indigenous-voice-campaign.md",
-      "title": "Shaquille O'Neal to help Australian Indigenous 'Voice' campaign",
-      "excerpt": "Hailed as the greatest basketball player and center of all time, American basketballer Shaquille O'Neal announces his support behind the",
-      "sourceUrl": null,
-      "webUrl": "https://www.dailysabah.com/sports/basketball/shaquille-oneal-to-help-australian-indigenous-voice-campaign",
-      "originalUrl": "https://www.dailysabah.com/sports/basketball/shaquille-oneal-to-help-australian-indigenous-voice-campaign",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2022/08/27/thumbs/800x531/227323.jpg",
-          "width": 1600,
-          "height": 1062,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.dailysabah.com/sports/basketball/shaquille-oneal-to-help-australian-indigenous-voice-campaign/amp",
-      "cdnAmpWebUrl": "https://www-dailysabah-com.cdn.ampproject.org/c/s/www.dailysabah.com/sports/basketball/shaquille-oneal-to-help-australian-indigenous-voice-campaign/amp",
-      "publishedDateTime": "2022-08-27T02:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Daily Sabah",
-        "domain": "dailysabah.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-comment-warren-buffetts-interest-a-boost-for-driverless-trucks.md",
-      "title": "Comment: Warren Buffett’s interest a boost for driverless trucks",
-      "excerpt": "Warren Buffett’s Berkshire Hathaway didn’t gain fame for investing in startups. The venerated investor has a predilection for buying time-tested businesses like an oil company, a railroad or ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.heraldnet.com/opinion/comment-warren-buffetts-interest-a-boost-for-driverless-trucks/",
-      "originalUrl": "https://www.heraldnet.com/opinion/comment-warren-buffetts-interest-a-boost-for-driverless-trucks/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://www.heraldnet.com/wp-content/uploads/2017/04/heraldnet_logo.png",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-27T01:33:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HeraldNet",
-        "domain": "heraldnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system.md",
-      "title": "Artificial Intelligence: Path-breaking revolution in Indian Healthcare System",
-      "excerpt": "In the form of machine learning, AI has the capability for the development of precision medicine, which is the future of advanced care. Although early..",
-      "sourceUrl": null,
-      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886",
-      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 101,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://etimg.etb2bimg.com/thumb/msid-93813886,imgsize-159690,width-1200,height-628,overlay-ethealthworld/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886",
-      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886",
-      "publishedDateTime": "2022-08-27T00:37:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
         "AI"
       ]
     }

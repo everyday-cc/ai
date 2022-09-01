@@ -2,6 +2,222 @@
   "page": 12,
   "value": [
     {
+      "path": "_news/2022-06-16-why-artificial-intelligence-remains-a-distant-dream.md",
+      "title": "Why Artificial Intelligence remains a distant dream?",
+      "excerpt": "Many AI initiatives to emulate the human brain -- from driving a car to writing text -- have failed in the ever changing real world",
+      "sourceUrl": null,
+      "webUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/",
+      "originalUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.americanbazaaronline.com/wp-content/uploads/2021/01/Communication.jpg",
+          "width": 1100,
+          "height": 692,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/?amp",
+      "cdnAmpWebUrl": "https://www-americanbazaaronline-com.cdn.ampproject.org/c/s/www.americanbazaaronline.com/2022/06/16/why-artificial-intelligence-remains-a-distant-dream-449958/?amp",
+      "publishedDateTime": "2022-06-16T09:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "americanbazaaronline.com",
+        "domain": "americanbazaaronline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-baidu-again-reported-to-be-considering-selling-iqiyi-stake.md",
+      "title": "Baidu again reported to be considering selling iQiyi stake",
+      "excerpt": "Every Wednesday and Friday, TechNode’s Briefing newsletter delivers a roundup of the most important news in China tech, straight to your inbox.",
+      "sourceUrl": null,
+      "webUrl": "https://technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
+      "originalUrl": "https://technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/technode.com/wp-content/uploads/2021/08/technode-news-feed-1-1.png?fit=540%2C540&ssl=1",
+          "width": 540,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
+      "cdnAmpWebUrl": "https://technode-com.cdn.ampproject.org/c/s/technode.com/2022/06/16/baidu-again-reported-to-be-considering-selling-iqiyi-stake/",
+      "publishedDateTime": "2022-06-16T06:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNode",
+        "domain": "technode.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-driverless-car-market-size-report-2022-analysis-report-by-industry-segmentation-region-manufactures-cost-structure.md",
+      "title": "Driverless Car Market Size Report 2022 Analysis Report by Industry Segmentation, Region, Manufactures, Cost Structure",
+      "excerpt": "Jun 16, 2022 (The Expresswire) -- Driverless Car Market report gives inside and out investigation of the Driverless Car market, market size and total yearly development rate CAGR for the figure ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/driverless-car-market-size-report-2022-analysis-report-by-industry-segmentation-region-manufactures-cost-structure-2022-06-16",
+      "originalUrl": "https://www.marketwatch.com/press-release/driverless-car-market-size-report-2022-analysis-report-by-industry-segmentation-region-manufactures-cost-structure-2022-06-16",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T05:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-baidu-tipped-to-roll-credits-on-iqiyi-stake.md",
+      "title": "Baidu tipped to roll credits on iQIYI stake",
+      "excerpt": "Chinese internet giant Baidu reportedly entered talks on selling a majority stake in iQIYI, a deal which could value the video streaming platform at about $7 billion and help fund the company’s development of emerging technologies. Reuters reported Baidu ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake",
+      "originalUrl": "https://www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mobileworldlive.com/wp-content/uploads/2022/06/iQIYI_SS_generic.jpg",
+          "width": 650,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake/amp",
+      "cdnAmpWebUrl": "https://www-mobileworldlive-com.cdn.ampproject.org/c/s/www.mobileworldlive.com/featured-content/top-three/baidu-tipped-to-roll-credits-on-iqiyi-stake/amp",
+      "publishedDateTime": "2022-06-16T04:04:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Mobile World Live",
+        "domain": "mobileworldlive.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-16-teslas-driverless-cars-saw-most-crashes-in-past-year.md",
+      "title": "Tesla’s driverless cars saw most crashes in past year",
+      "excerpt": "US senators have raised the alarm about the high number of Tesla crashes. (AP pic) WASHINGTON: Tesla Inc reported 273 vehicle crashes since July involving advanced driving assistance systems, more ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.freemalaysiatoday.com/category/business/2022/06/16/teslas-driverless-cars-saw-most-crashes-in-past-year/",
+      "originalUrl": "https://www.freemalaysiatoday.com/category/business/2022/06/16/teslas-driverless-cars-saw-most-crashes-in-past-year/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-16T03:20:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Free Malaysia Today",
+        "domain": "freemalaysiatoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-16-tesla-autopilot-and-other-driver-assist-systems-linked-to-hundreds-of-crashes.md",
       "title": "Tesla Autopilot and Other Driver-Assist Systems Linked to Hundreds of Crashes",
       "excerpt": "Teslas operating with Autopilot, the more ambitious Full Self Driving mode or any of their associated component features were in 273 crashes. Five of those Tesla crashes were fatal. The data was ...",
@@ -1081,246 +1297,6 @@
       "topics": [
         "AI in Autos",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-what-ai-developers-need-to-know-about-artificial-intelligence-ethics.md",
-      "title": "What AI developers need to know about artificial intelligence ethics",
-      "excerpt": "Some tools and platforms promise fair and balanced AI, but tools and platforms alone won't deliver ethical AI solutions.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/",
-      "originalUrl": "https://www.zdnet.com/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 135,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/",
-      "publishedDateTime": "2022-06-13T06:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Ethics",
-        "AI",
-        "AI in Healthcare",
-        "AI in Autos",
-        "Google AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-artificial-intelligence-in-the-transportation-market-to-reflect-a-holistic-expansion-during-the-assessment-period-2022-2030.md",
-      "title": "Artificial Intelligence in the Transportation Market to Reflect a Holistic Expansion during the Assessment Period 2022-2030",
-      "excerpt": "The global artificial intelligence in the transportation market would gain traction, owing to the growing demand for traffic management and increasing deployment of self-driving vehicles among the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-to-reflect-a-holistic-expansion-during-the-assessment-period-2022-2030-2022-06-13",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-to-reflect-a-holistic-expansion-during-the-assessment-period-2022-2030-2022-06-13",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-13T05:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-chinese-automakers-want-to-bring-assisted-driving-to-the-masses.md",
-      "title": "Chinese automakers want to bring assisted driving to the masses",
-      "excerpt": "While regulators have yet to allow full self-driving cars on most roads en masse, companies like DeepRoute.ai, Baidu and others are building data records through their robotaxi operations. Liu said such data can help improve algorithms for self-driving ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/2022/06/13/chinese-automakers-want-to-bring-assisted-driving-to-the-masses.html",
-      "originalUrl": "https://www.cnbc.com/2022/06/13/chinese-automakers-want-to-bring-assisted-driving-to-the-masses.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://image.cnbcfm.com/api/v1/image/107073288-1654767192766-4047ba3f7h82a5b1ecd9ff0bacfe7ff1.JPG?v=1654767276",
-          "width": 5232,
-          "height": 2632,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnbc.com/amp/2022/06/13/chinese-automakers-want-to-bring-assisted-driving-to-the-masses.html",
-      "cdnAmpWebUrl": "https://www-cnbc-com.cdn.ampproject.org/c/s/www.cnbc.com/amp/2022/06/13/chinese-automakers-want-to-bring-assisted-driving-to-the-masses.html",
-      "publishedDateTime": "2022-06-12T18:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-join-amazing-developments-in-artificial-intelligence.md",
-      "title": "Join amazing developments in artificial intelligence",
-      "excerpt": "Since then, artificial intelligence (AI), particularly the ... than-human intelligence in a diverse range of systems, such as driverless cars and industry automation. Ultimately, deep ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.theborneopost.com/2022/06/13/join-amazing-developments-in-artificial-intelligence/?amp",
-      "originalUrl": "https://www.theborneopost.com/2022/06/13/join-amazing-developments-in-artificial-intelligence/?amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.theborneopost.com/newsimages/2022/06/p3.jpeg",
-          "width": 1080,
-          "height": 607,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.theborneopost.com/2022/06/13/join-amazing-developments-in-artificial-intelligence/?amp",
-      "cdnAmpWebUrl": "https://www-theborneopost-com.cdn.ampproject.org/c/s/www.theborneopost.com/2022/06/13/join-amazing-developments-in-artificial-intelligence/?amp",
-      "publishedDateTime": "2022-06-12T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Borneo Post",
-        "domain": "theborneopost.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-13-synthetic-data-is-about-to-transform-artificial-intelligence.md",
-      "title": "Synthetic Data Is About To Transform Artificial Intelligence",
-      "excerpt": "It is called synthetic data. Synthetic data is not a new idea, but it is now approaching a critical inflection point in terms of real-world impact. It is poised to upend the entire value chain and technology stack for artificial intelligence,",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/",
-      "originalUrl": "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 107,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62a4eb9e1b700cd6fb81230c/0x0.jpg?format=jpg&crop=1820,1024,x86,y0,safe&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/robtoews/2022/06/12/synthetic-data-is-about-to-transform-artificial-intelligence/amp/",
-      "publishedDateTime": "2022-06-12T16:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos",
-        "Natural Language Processing",
-        "Machine Learning",
-        "Google AI"
       ]
     }
   ],

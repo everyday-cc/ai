@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-01T13:53:00Z
 originalUrl: "https://www.aviationpros.com/ground-handling/ground-handlers-service-providers/passenger-services/news/21279458/selfdriving-pods-tested-at-hartsfieldjackson-for-mobility-assistance"
 webUrl: "https://www.aviationpros.com/ground-handling/ground-handlers-service-providers/passenger-services/news/21279458/selfdriving-pods-tested-at-hartsfieldjackson-for-mobility-assistance"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: AviationPros

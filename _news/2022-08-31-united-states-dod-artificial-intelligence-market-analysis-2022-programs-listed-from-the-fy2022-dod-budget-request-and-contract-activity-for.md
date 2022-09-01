@@ -9,7 +9,7 @@ ampWebUrl: "https://www.benzinga.com/amp/content/28692864"
 cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28692864"
 type: article
 quality: 1
-heat: -1
+heat: 1
 published: false
 
 provider:
@@ -19,36 +19,6 @@ provider:
 topics:
   - AI in Healthcare
   - AI
-
-related:
-  - title: "Artificial Intelligence (AI) Chipset Market Growing Demand, Industry Synopsis, Opportunities and Analysis 2022 to 2028"
-    excerpt: "This report studies the Global Artificial Intelligence (AI) Chipset Market size, industry status and forecast, competition landscape, and growth opportunity. This research report categorizes the global Artificial Intelligence (AI) Chipset market by companies,"
-    publishedDateTime: 2022-08-28T20:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-growing-demand-industry-synopsis-opportunities-and-analysis-2022-to-2028-2022-08-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "Face Recognition Systems Market 2022 – Future Developments, Key Vendors, Regional Analysis, and Industry Scope by 2028"
-    excerpt: "Moreover, the inflation rate, industrial performance, GDP, per capita income, and other factors all play a role in addressing these regions & global Face Recognition Systems market. The study covers a complete analysis of the different industrial growth strategies that assist in determining the predominant segments and knowing about various factors."
-    publishedDateTime: 2022-08-30T06:04:00Z
-    webUrl: "https://www.marketwatch.com/press-release/face-recognition-systems-market-2022-future-developments-key-vendors-regional-analysis-and-industry-scope-by-2028-2022-08-30"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 45
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
 
 secured: "QtD/4PI4OcJHt90E42iC8nsmnQHZJZ2eOdVI5Sc6ID3KqGEU6spt3lRT2kHes/x92uHn4bogEFBISF+dsarIbZXMGVUM74y9c+PSYV4OuRTiRBu7ec3NexWcinWm5R+t3UYykWVBVWBx2Js8OA1cnDPOs9Cxlmrg0NqeCQcmWF9um5rlxabD+qV0EPmZN6sgWqW5GD6TEvibXjgprXlBUE18Lwq0G8cK0tDESHAtNXEnH8+Nrs0AqKx8tlwK37RfoDucza1DyL572EkfWwrPIRopaRiwBqULhShOCgcCKt1CR0asOjMS7Nh+gwvzhA7sVDszl6MlLTaMuFkIrmmj//9N7axPmHqZKWeP6RMzjjg=;s0ebqd30SExzVvYJd+8IVQ=="
 ---

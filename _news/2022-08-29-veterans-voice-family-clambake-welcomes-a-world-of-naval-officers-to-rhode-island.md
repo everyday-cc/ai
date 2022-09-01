@@ -19,22 +19,15 @@ topics:
   - AI
 
 related:
-  - title: "Voice Of The World"
-    excerpt: "Thousands of people living in the many invisible Indias are helping tech companies build a database that will change their future"
-    publishedDateTime: 2022-08-27T22:20:00Z
-    webUrl: "https://www.telegraphindia.com/culture/thousands-of-people-living-in-the-many-invisible-indias-are-helping-tech-companies-build-a-database-that-will-change-their-future/cid/1882958"
-    ampWebUrl: "https://www.telegraphindia.com/amp/culture/thousands-of-people-living-in-the-many-invisible-indias-are-helping-tech-companies-build-a-database-that-will-change-their-future/cid/1882958"
-    cdnAmpWebUrl: "https://www-telegraphindia-com.cdn.ampproject.org/c/s/www.telegraphindia.com/amp/culture/thousands-of-people-living-in-the-many-invisible-indias-are-helping-tech-companies-build-a-database-that-will-change-their-future/cid/1882958"
+  - title: "Voters are very confused over Indigenous Voice: survey"
+    excerpt: "Anthony Albanese’s proposed referendum to adopt an Indigenous Voice to Parliament faces a severe lack of understanding of what it is about, a new survey indicates."
+    publishedDateTime: 2022-08-28T19:00:00Z
+    webUrl: "https://www.afr.com/politics/federal/voters-are-very-confused-over-indigenous-voice-survey-20220827-p5bd96"
     type: article
     provider:
-      name: The Telegraph
-      domain: telegraphindia.com
-    quality: 44
-    images:
-      - url: "https://assets.telegraphindia.com/telegraph/2022/Aug/1661638113_new-project-4-2-80.jpg"
-        width: 900
-        height: 506
-        isCached: true
+      name: The Australian Financial Review
+      domain: afr.com
+    quality: 4
 
 secured: "xM5rCCBop2RxYts3AqOA5JiB7cb2BIFgPxesTzZMHf5vniT4okKT/5B8WZ2krFlbHostIMyn5vlyZnlTleIadi9Ag6NuOtS48qb67F34QH39XjlGNUyl1h/yXtzVLjcoXSsFnw6Ce4ohtgO2J9TgvIVHfmLmSvBXoAUSfSunZ0rs9eFo4neVYkBoUi2sq9p0zKg2X8KzrgiuDrEnLA6udgG3rHKz+Or0okXBbdtkzBnmx4DStzyTDeEflWrh1/NzeI0lcJrZvhmVfL4FZ1Bc0Wr1wh/+OcRnmnHrl7O1MLN/rpelAvU0s/aYKGQyxUUmeXaUdQyDALrRT4Sw4DlFfxmOC8i8z3aWKDmjrBXd3M/GSl20Q/N5QtJdvVpYFy9ss0IhoS5FO5GiqaoBqr+oIxiNk/qxWUqx2ZT9ZPJgVnrvz8fYSUws0ndw7jbWudjxb9wRb1dR+risOPhBgA6w4P9YyvcjceWW3hFyWkdz5iUT6EW6G7qo66EmMFWpz79ZeLHMXELY3td7xthQPavlRw==;oIOjvq2SxOanIdO4VSqzRA=="
 ---

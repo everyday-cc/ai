@@ -41,6 +41,22 @@ related:
         width: 1200
         height: 800
         isCached: true
+  - title: "Get Your Game On: Calling Urgently On AI Startups Devising AI-First Products To Seek These Jumpstart Investment Funds"
+    excerpt: "AI startups need to be aware of these key insights if they want to garner investor interest. Indeed, there is an open call for AI-first startups that budding AI entrepreneurs should be seriously aiming to get as a means of jumpstarting their efforts and aspirations."
+    publishedDateTime: 2022-09-01T12:00:00Z
+    webUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/01/get-your-game-on-calling-urgently-on-ai-startups-devising-ai-first-products-to-seek-these-jumpstart-investment-funds/"
+    ampWebUrl: "https://www.forbes.com/sites/lanceeliot/2022/09/01/get-your-game-on-calling-urgently-on-ai-startups-devising-ai-first-products-to-seek-these-jumpstart-investment-funds/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/lanceeliot/2022/09/01/get-your-game-on-calling-urgently-on-ai-startups-devising-ai-first-products-to-seek-these-jumpstart-investment-funds/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 66
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/631028f6b8a74560cf6398a9/0x0.jpg?format=jpg&crop=1703,958,x161,y64,safe&width=1200"
+        width: 1200
+        height: 675
+        isCached: true
   - title: "AI Startup Replicant Is Transforming Customer Service Centers By Making Them More Automated—And More Accessible"
     excerpt: "The company is harnessing artificial intelligence and machine learning technology in an effort to remake call centers everywhere."
     publishedDateTime: 2022-08-30T18:19:00Z

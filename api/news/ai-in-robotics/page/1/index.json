@@ -2,21 +2,21 @@
   "page": 1,
   "value": [
     {
-      "path": "_news/2022-09-01-robots-that-stock-drinks-at-convenience-stores-aim-to-automate-all-boring-jobs-done-by-humans.md",
-      "title": "Robots that stock drinks at convenience stores aim to automate all 'boring jobs done by humans'",
-      "excerpt": "Telexistence, a robot company that operates out of Tokyo, is looking to use a robot, named TX SCARA, to replace 'repetitive' and 'boring' jobs currently done by humans.",
+      "path": "_news/2022-09-01-meet-the-japanese-robot-who-stocks-drinks-at-the-corner-store.md",
+      "title": "Meet the Japanese Robot Who Stocks Drinks at the Corner Store",
+      "excerpt": "A robot in Tokyo named TX SCARA is helping stock drinks at FamilyMart convenience stores following a worker shortage.",
       "sourceUrl": null,
-      "webUrl": "https://www.foxbusiness.com/technology/robots-that-stock-drinks-convenience-stores-aim-automate-all-boring-jobs-done-humans",
-      "originalUrl": "https://www.foxbusiness.com/technology/robots-that-stock-drinks-convenience-stores-aim-automate-all-boring-jobs-done-humans",
+      "webUrl": "https://www.entrepreneur.com/article/434550",
+      "originalUrl": "https://www.entrepreneur.com/article/434550",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 89,
       "tags": null,
       "images": [
         {
-          "url": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/854081161001/9359a89b-97a9-4b0a-afd5-2125fa888aee/22643dbc-e676-4908-a992-1ae138af5871/1280x720/match/image.jpg",
-          "width": 1280,
-          "height": 720,
+          "url": "https://assets.entrepreneur.com/content/3x2/2000/1662046330-robot-convience-stores-japan-getty.jpg",
+          "width": 2000,
+          "height": 1333,
           "title": null,
           "attribution": null,
           "isCached": true
@@ -24,14 +24,23 @@
       ],
       "content": "\r\n",
       "type": "article",
-      "ampWebUrl": "https://www.foxbusiness.com/technology/robots-that-stock-drinks-convenience-stores-aim-automate-all-boring-jobs-done-humans.amp",
-      "cdnAmpWebUrl": "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/robots-that-stock-drinks-convenience-stores-aim-automate-all-boring-jobs-done-humans.amp",
-      "publishedDateTime": "2022-08-31T22:15:00-07:00",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T08:09:00-07:00",
       "updatedDateTime": null,
       "provider": {
-        "name": "Fox Business",
-        "domain": "foxbusiness.com",
-        "images": null,
+        "name": "Entrepreneur",
+        "domain": "entrepreneur.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/entrepreneur.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
         "publishers": null,
         "authors": null
       },
@@ -1027,6 +1036,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-24-uk-controlled-robot-ship-surveys-pacific-ocean-volcano.md",
+      "title": "UK-controlled robot ship surveys Pacific Ocean volcano",
+      "excerpt": "STORY: This robotic boat is gathering data on an underwater ... So we can actually hand over the control the vessel from this office to anywhere else in the world to control that vessel, which ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.aol.com/news/uk-controlled-robot-ship-surveys-223917368.html",
+      "originalUrl": "https://www.aol.com/news/uk-controlled-robot-ship-surveys-223917368.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s.yimg.com/uu/api/res/1.2/Te1aUOdi2bR3iSWL67UfeA--~B/aD01NDA7dz05NjA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/video.reutersnews.com/1de53623ef7800652c9baa31b6a9fd65",
+          "width": 960,
+          "height": 540,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-23T16:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AOL",
+        "domain": "aol.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-23-robotics-artificial-intelligence-competition-to-spur-production-underway.md",
       "title": "Robotics, Artificial Intelligence : Competition to Spur Production Underway",
       "excerpt": "Some 60 students, start-upers, researchers from across the country that were preselected have begun competing for prizes.",
@@ -1345,49 +1397,6 @@
         "Natural Language Processing",
         "AI",
         "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-graymatter-robotics-raises-20m-in-series-a-funding.md",
-      "title": "GrayMatter Robotics Raises $20M in Series A Funding",
-      "excerpt": "GrayMatter Robotics, an artificial intelligence robotics solutions company, announced last week it raised $20 million in Series A investment led by Bow Capital and joined by B Capital Group, Calibrate Ventures,",
-      "sourceUrl": null,
-      "webUrl": "https://labusinessjournal.com/technology/graymatter-robotics-raises-20m-in-series-a-funding/",
-      "originalUrl": "https://labusinessjournal.com/technology/graymatter-robotics-raises-20m-in-series-a-funding/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 99,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d3evu7qlt2vui6.cloudfront.net/wp-content/uploads/2022/08/PG04_GRAYMATTER_0822_scansand-scaled-e1660932740192.jpeg",
-          "width": 1162,
-          "height": 1200,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-22T00:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Los Angeles Business Journal",
-        "domain": "labusinessjournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
       ]
     }
   ],

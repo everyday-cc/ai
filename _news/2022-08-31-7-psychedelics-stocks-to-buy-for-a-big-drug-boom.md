@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-30T19:02:00Z
 originalUrl: "https://www.nasdaq.com/articles/7-psychedelics-stocks-to-buy-for-a-big-drug-boom"
 webUrl: "https://www.nasdaq.com/articles/7-psychedelics-stocks-to-buy-for-a-big-drug-boom"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Nasdaq

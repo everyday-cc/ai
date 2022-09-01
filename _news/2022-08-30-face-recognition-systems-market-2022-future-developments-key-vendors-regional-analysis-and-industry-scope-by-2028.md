@@ -29,31 +29,22 @@ images:
     isCached: true
 
 related:
-  - title: "Artificial Intelligence (AI) Chipset Market Growing Demand, Industry Synopsis, Opportunities and Analysis 2022 to 2028"
-    excerpt: "This report studies the Global Artificial Intelligence (AI) Chipset Market size, industry status and forecast, competition landscape, and growth opportunity. This research report categorizes the global Artificial Intelligence (AI) Chipset market by companies,"
-    publishedDateTime: 2022-08-28T20:21:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-ai-chipset-market-growing-demand-industry-synopsis-opportunities-and-analysis-2022-to-2028-2022-08-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 58
-    images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
-        isCached: true
-  - title: "United States DoD Artificial Intelligence Market Analysis 2022: Programs Listed from the FY2022 DoD Budget Request and Contract Activity for FY2021"
-    excerpt: "The \"United States DoD Artificial Intelligence Growth Opportunities\" report has been added to ResearchAndMarkets.com's offering. This research service focuses on US"
-    publishedDateTime: 2022-08-30T20:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28692864/united-states-dod-artificial-intelligence-market-analysis-2022-programs-listed-from-the-fy2022-dod"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28692864"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28692864"
+  - title: "Robot Software Market Size, Business Strategy and Regional Analysis by 2027 | IMARC Group"
+    excerpt: "Looking forward, IMARC Group expects the market to reach a value of US$ 40.1 Billion by 2027 exhibiting a CAGR of 21.50% during 2022-2027.The latest report published by IMARC Group, titled “Robot Soft"
+    publishedDateTime: 2022-08-30T00:05:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/ab28678753/robot-software-market-size-business-strategy-and-regional-analysis-by-2027-imarc-group"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28678753"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28678753"
     type: article
     provider:
       name: Benzinga.com
       domain: benzinga.com
-    quality: 1
+    quality: 50
+    images:
+      - url: "https://www.abnewswire.com/uploads/1661793945.jpeg"
+        width: 474
+        height: 279
+        isCached: true
 
 secured: "QWTJxvrZaX0MRsT2o3202WddEyYlyOMtnndX6mWkGp/S/UFmFQ0SipI0NAWrbqE5zFEjoXmsP6LyzSwCT9PXP0MBA6qV9Ig/iGdu5Mrz3nBzhkS8/wV1HwLQIADvwQfBIlXrfwHFWzIAslxaAdkoc/l9PkSvnT4l21cPbXMSmWIb2/JgEsqNpKVX4Y1HTkH4OOsQel45SUG3eR+KYhCka+LYufiNUBCApr2zcx0hFQNzciJqbgSatOMVRVobryBjm55obkY5CIcE0g+YyUBOUQytH8GqHk8z0tCX3hPv5XMAu0PYOd3hhT8DaMMYk38BpYmDJ8QrzJAukYUwtvyT2dlO3vlEnI4rpj3jDFP8qAY=;KuWvKPspcNE7QZc01ElZEQ=="
 ---

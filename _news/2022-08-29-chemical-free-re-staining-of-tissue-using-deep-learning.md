@@ -57,6 +57,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "As the Machine Learns—Continuing AI IP and Privacy Considerations"
+    excerpt: "AI frequently automates routine tasks that were previously performed by people, eliminating tedious work, making business processes more efficient, and creating new capabilities and opportunities. Every business in the future will be using AI to some extent."
+    publishedDateTime: 2022-08-30T17:06:00Z
+    webUrl: "https://www.law.com/legaltechnews/2022/08/30/as-the-machine-learns-continuing-ai-ip-and-privacy-considerations/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/402/2022/08/Halt-Glabicki-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
   - title: "How AI is accelerating front-end innovation"
     excerpt: "Artificial intelligence (AI) is emerging as a valuable tool for food and beverage makers looking to bolster front-end innovation. Manufacturers, restaurants, ingredient suppliers, flavor houses and more are leveraging insights from machine learning to get closer to consumer trends and market more nuanced propositions."
     publishedDateTime: 2022-08-31T12:12:00Z

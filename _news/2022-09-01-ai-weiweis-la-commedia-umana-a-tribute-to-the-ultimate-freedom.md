@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-01T11:48:00Z
 originalUrl: "https://www.ft.com/content/1e8d6945-06c1-4a6e-8b1b-c82b4345e426"
 webUrl: "https://www.ft.com/content/1e8d6945-06c1-4a6e-8b1b-c82b4345e426"
 type: article
+quality: 17
+heat: 17
+published: false
 
 provider:
   name: The Financial Times

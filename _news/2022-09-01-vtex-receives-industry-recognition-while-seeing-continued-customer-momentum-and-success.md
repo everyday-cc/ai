@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-01T13:45:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/vtex-receives-industry-recognition-while-seeing-continued-customer-momentum-and-success-1031719435"
 webUrl: "https://markets.businessinsider.com/news/stocks/vtex-receives-industry-recognition-while-seeing-continued-customer-momentum-and-success-1031719435"
 type: article
+quality: 26
+heat: 26
+published: false
 
 provider:
   name: Business Insider

@@ -2,6 +2,58 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-01-gms-cruise-recalls-revises-self-driving-software-after-crash.md",
+      "title": "GM's Cruise recalls, revises self-driving software after crash",
+      "excerpt": "General Motors startup unit Cruise LLC said Thursday it had recalled 80 self-driving vehicles and updated their software after a June crash in San Francisco left two people injured.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/business/autos-transportation/gms-cruise-recalls-revises-self-driving-software-after-crash-2022-09-01/",
+      "originalUrl": "https://www.reuters.com/business/autos-transportation/gms-cruise-recalls-revises-self-driving-software-after-crash-2022-09-01/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/JOqAhF2tr6Sz-OwrSoBK8ivT_To=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/V2MG2V6VQJNHPIAI2U6QYPO2XA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T02:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-mary-barra-confident-in-gms-self-driving-vehicle-tech-and-goal-to-beat-tesla-in-evs.md",
       "title": "Mary Barra confident in GM’s self-driving vehicle tech and goal to beat Tesla in EVs",
       "excerpt": "As we roll along in the third quarter of 2022, GM’s long-promised EV lineup is beginning to materialize and gain some serious momentum. The American automaker now has several EVs on the market and has even more in its production pipeline.",
@@ -307,7 +359,7 @@
       "originalUrl": "https://www.reuters.com/technology/elon-musk-aims-have-self-driving-teslas-ready-by-year-end-us-2022-08-29/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 273,
+      "heat": 283,
       "tags": null,
       "images": [
         {
@@ -338,6 +390,84 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-28-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
+      "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
+      "excerpt": "New Jersey, NJ -- (SBWIRE) -- 08/27/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
+      "sourceUrl": null,
+      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-45",
+      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-45",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-27T15:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Insurancenewsnet.com",
+        "domain": "insurancenewsnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "Microsoft AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-28-national-jobs-summit-a-chance-for-australia-to-hit-reset-on-artificial-intelligence-say-business-leaders.md",
+      "title": "National jobs summit a chance for Australia to hit reset on artificial intelligence, say business leaders",
+      "excerpt": "Earlier this week an artificial intelligence-powered rapper was dropped from its label (yes, it had a label) after its algorithm learned to use racial slurs in its lyrics. Artificial intelligence ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.abc.net.au/news/2022-08-28/artificial-intelligence-policy-australia-jobs-summit/101366726",
+      "originalUrl": "https://www.abc.net.au/news/2022-08-28/artificial-intelligence-policy-australia-jobs-summit/101366726",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://live-production.wcms.abc-cdn.net.au/4720965b409b32025766819103817e98?impolicy=wcms_crop_resize&cropH=381&cropW=572&xPos=0&yPos=83&width=862&height=575",
+          "width": 572,
+          "height": 381,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://amp.abc.net.au/article/101366726",
+      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101366726",
+      "publishedDateTime": "2022-08-27T14:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Australian Broadcasting Corporation",
+        "domain": "abc.net.au",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -447,6 +577,50 @@
       ]
     },
     {
+      "path": "_news/2022-08-27-artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system.md",
+      "title": "Artificial Intelligence: Path-breaking revolution in Indian Healthcare System",
+      "excerpt": "In the form of machine learning, AI has the capability for the development of precision medicine, which is the future of advanced care. Although early..",
+      "sourceUrl": null,
+      "webUrl": "https://health.economictimes.indiatimes.com/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886",
+      "originalUrl": "https://health.economictimes.indiatimes.com/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://etimg.etb2bimg.com/thumb/msid-93813886,imgsize-159690,width-1200,height-628,overlay-ethealthworld/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886",
+      "cdnAmpWebUrl": "https://health-economictimes-indiatimes-com.cdn.ampproject.org/c/s/health.economictimes.indiatimes.com/amp/news/health-it/artificial-intelligence-path-breaking-revolution-in-indian-healthcare-system/93813886",
+      "publishedDateTime": "2022-08-27T00:37:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI",
+        "AI in Autos"
+      ]
+    },
+    {
       "path": "_news/2022-08-27-warren-buffett-bullish-on-driverless-trucks-after-purchasing-stake-in-kodiak-robotics.md",
       "title": "Warren Buffett bullish on driverless trucks after purchasing stake in Kodiak Robotics",
       "excerpt": "This investment is a significant validation by Berkshire Hathaway, through Pilot, that driverless trucks are on the cusp of being a reality. It may be hard and even scary to imagine an 18-wheeler ...",
@@ -541,6 +715,40 @@
         "AI in Autos",
         "AI",
         "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-08-26-impacts-of-artificial-intelligence-on-gambling.md",
+      "title": "Impacts of Artificial Intelligence on Gambling",
+      "excerpt": "There are many implications of artificial intelligence (AI) in the gambling industry, and this article will discuss some of these impacts. AI can be used to improve player experiences and identify problem gamblers. It can also help online casinos manage ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.techzone360.com/topics/techzone/articles/2022/08/26/453315-impacts-artificial-intelligence-gambling.htm",
+      "originalUrl": "https://www.techzone360.com/topics/techzone/articles/2022/08/26/453315-impacts-artificial-intelligence-gambling.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T17:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Tech Zone 360",
+        "domain": "techzone360.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
       ]
     },
     {
@@ -1212,258 +1420,6 @@
         "images": [
           {
             "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-artificial-intelligence-now-available-to-detect-weapons-as-they-approach-schools.md",
-      "title": "Artificial Intelligence now available to detect weapons as they approach schools",
-      "excerpt": "The newest trend in school security, is artificial intelligence. Iterate.ai is applying the same kind tech that helps track down criminals with license plate and face recognition, to detect weapons on people who are approaching a school. Iterate founder ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.kfvs12.com/2022/08/22/artificial-intelligence-now-available-detect-weapons-they-approach-schools/",
-      "originalUrl": "https://www.kfvs12.com/2022/08/22/artificial-intelligence-now-available-detect-weapons-they-approach-schools/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 81,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-kfvs12-prod.cdn.arcpublishing.com/resizer/GIVFL0VDB5wGVpa1JRApvm0TfeI=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/QTQ2H3I44ZADXJIKETRNIYTKPM.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.kfvs12.com/2022/08/22/artificial-intelligence-now-available-detect-weapons-they-approach-schools/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-kfvs12-com.cdn.ampproject.org/c/s/www.kfvs12.com/2022/08/22/artificial-intelligence-now-available-detect-weapons-they-approach-schools/?outputType=amp",
-      "publishedDateTime": "2022-08-21T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KFVS12",
-        "domain": "kfvs12.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
-      ]
-    },
-    {
-      "path": "_news/2022-08-22-tesla-raising-price-of-full-self-driving-feature-to-15000-next-month.md",
-      "title": "Tesla raising price of ‘Full Self-Driving’ feature to $15,000 next month",
-      "excerpt": "Elon Musk on Sunday announced the price of Tesla Inc.'s \"Full Self-Driving\" feature will rise by 25% next month, to from $12,000 to $15,000.",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442?mod=mw_latestnews",
-      "originalUrl": "https://www.marketwatch.com/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442?mod=mw_latestnews",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 393,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.mktw.net/im-528682/social",
-          "width": 1280,
-          "height": 640,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442",
-      "cdnAmpWebUrl": "https://www-marketwatch-com.cdn.ampproject.org/c/s/www.marketwatch.com/amp/story/tesla-raising-price-of-full-self-driving-feature-to-15-000-next-month-11661109442",
-      "publishedDateTime": "2022-08-21T12:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-21-people-are-now-testing-teslas-full-self-driving-on-real-kids.md",
-      "title": "People are now testing Tesla's 'full self-driving' on real kids",
-      "excerpt": "The North Carolina resident set out to refute a widely circulated video of a Tesla with the company's \"full self-driving\" beta software -- which allows the car to steer, brake and accelerate ...",
-      "sourceUrl": null,
-      "webUrl": "https://edition.cnn.com/2022/08/21/business/tesla-fsd-tests-kids",
-      "originalUrl": "https://edition.cnn.com/2022/08/21/business/tesla-fsd-tests-kids",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220819141817-tesla-autopilot-steering-wheel-file-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/21/business/tesla-fsd-tests-kids/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/21/business/tesla-fsd-tests-kids/index.html",
-      "publishedDateTime": "2022-08-21T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-21-anthony-levandowski-is-the-messiah-of-his-new-ai-god.md",
-      "title": "Anthony Levandowski is the Messiah of his new AI God",
-      "excerpt": "It then reveals some of his innovative projects, like the robot he made in 2001 that could count Monopoly money, and the driverless ... potential of artificial intelligence is something that ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.neowin.net/news/anthony-levandowski-is-the-messiah-of-his-new-ai-god/",
-      "originalUrl": "https://www.neowin.net/news/anthony-levandowski-is-the-messiah-of-his-new-ai-god/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.neow.in/news/images/uploaded/2017/09/1506594532_ai_god_story.jpg",
-          "width": 760,
-          "height": 428,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.neowin.net/amp/anthony-levandowski-is-the-messiah-of-his-new-ai-god/",
-      "cdnAmpWebUrl": "https://www-neowin-net.cdn.ampproject.org/c/s/www.neowin.net/amp/anthony-levandowski-is-the-messiah-of-his-new-ai-god/",
-      "publishedDateTime": "2022-08-21T00:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Neowin",
-        "domain": "neowin.net",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/neowin.net-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-britain-sets-out-roadmap-for-self-driving-vehicle-usage-by-2025.md",
-      "title": "Britain sets out roadmap for self driving vehicle usage by 2025",
-      "excerpt": "Britain said on Friday it wanted a widespread rollout of self-driving vehicles on roads by 2025, announcing plans for new laws and 100 million pounds ($119.09 million) of funding.",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/business/autos-transportation/britain-sets-out-roadmap-self-driving-vehicle-usage-by-2025-2022-08-19/",
-      "originalUrl": "https://www.reuters.com/business/autos-transportation/britain-sets-out-roadmap-self-driving-vehicle-usage-by-2025-2022-08-19/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 154,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/-bD145K776yCk-35pfGOxAdMuxA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LAUS5LTOURJXXD3N5LFTSFEYMA.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-19T15:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
             "width": 50,
             "height": 50,
             "title": null,

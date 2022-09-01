@@ -61,6 +61,20 @@ related:
         width: 606
         height: 318
         isCached: true
+  - title: "Raven introduces first autonomous spreader"
+    excerpt: "Autonomous equipment can perform a consistent job each time, which is very important to me, as we’ve built our farm’s reputation on being flawless and doing high-quality work.”"
+    publishedDateTime: 2022-08-31T16:34:00Z
+    webUrl: "https://www.agupdate.com/midwestmessenger/news/state-and-regional/raven-introduces-first-autonomous-spreader/article_bfb24874-294a-11ed-8ade-175f2fc79fb2.html"
+    type: article
+    provider:
+      name: agupdate
+      domain: agupdate.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/agupdate.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
+        width: 256
+        height: 256
+        isCached: true
 
 secured: "Gg+pjBBjEdeKOY1K2g5+Bsy9LFXMjiFgSl9+Fycou0zn7dMRUwfE56fuYPAhEePR1lVGR6kg46GiVdOeNp3ymyjhftZ8zhHsJs0Gp3pcqWAdu/wNlbBQiwMylw/lY1T6CEwicFOVIbe8xe2AkjhJxjem4FjWZFYsG+u0f9BFFBxSq2txctopHFu9MK4bz1EDYJd1jvRCtZPoe+l9QZi8kG2+VE9ij1M/UU+PV6dgatZLlGdcpX78w1qd/F6G57BAIA/fZOuUwc7ClHC1izuto9syIFccRRBR/a20NPSCWxIOmx+gIcdqVNNq7pdv4P4Y+cl6hRNLyzC7JEESpE5nm31yvHTBDljyYmkbVCNRvquLczF6EVf4gKIDQhH8HpU/LIMpwqZr4TACeYKbjyTmj12fc4Q2m0oWx+TfxcI9UTZbxKAWvP/a4luHuiO/tcibgodhbb/HV+TXuDREk74/aUjsmsxgElG31PUI3Wvn3wNGjObkRLvgieghKSKBJpcnXLdwBbCEuMogDGq1I4Ra/w==;rDxDkv7kK91SdgbhOlIJEA=="
 ---

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-01T12:10:00Z
 originalUrl: "https://www.technologyreview.com/2022/09/01/1058915/download-gene-therapy-ai-chip-wars-russia-china/"
 webUrl: "https://www.technologyreview.com/2022/09/01/1058915/download-gene-therapy-ai-chip-wars-russia-china/"
 type: article
+quality: 51
+heat: 51
+published: false
 
 provider:
   name: MIT Technology Review

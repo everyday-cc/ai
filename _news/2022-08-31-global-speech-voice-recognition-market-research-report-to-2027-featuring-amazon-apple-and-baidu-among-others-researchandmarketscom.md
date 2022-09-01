@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-31T11:33:00Z
 originalUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-8-31-global-speech-and-voice-recognition-market-research-report-to-2027-featuring-amazon-apple-and-baidu-among-others-researchandmarketscom"
 webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-8-31-global-speech-and-voice-recognition-market-research-report-to-2027-featuring-amazon-apple-and-baidu-among-others-researchandmarketscom"
 type: article
+quality: 0
+heat: -1
+published: false
 
 provider:
   name: Buffalo News
@@ -14,6 +17,19 @@ provider:
 topics:
   - Natural Language Processing
   - AI
+
+related:
+  - title: "Investigation And Security Services Global Market to Reach $527.64 Billion by 2026"
+    excerpt: "The \"Investigation And Security Services Global Market Report 2022 by Type, Deployment Type, Application\" report has been added to ResearchAndMarkets.com's offering. The"
+    publishedDateTime: 2022-08-30T16:15:00Z
+    webUrl: "https://www.benzinga.com/pressreleases/22/08/n28689098/investigation-and-security-services-global-market-to-reach-527-64-billion-by-2026"
+    ampWebUrl: "https://www.benzinga.com/amp/content/28689098"
+    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28689098"
+    type: article
+    provider:
+      name: Benzinga.com
+      domain: benzinga.com
+    quality: 35
 
 secured: "hxIylI9hNhkggyLjAkqYKK38lVhKAMv5vSlTAmbujnWWO2Fc0GKRzEC4XnkByQEO+8Sb47igCgtT8gqEDXBdjprZYF9//vIEWVuIwMm/npL93VOXZH1KVX/J+hWQG2UZM/K9IdCx/mjqfOlEYV+I8jD74GMS7MR+YEQqf0g4h3mFSUIxoX637s5g4Xe2IyQeR1hX04I+bB7tSiGYlFRLr/ACwXYwgQ3oDV7zMWfWxD91Vk5JvCnrwyfEV5FaON2Z8yxehSbmteXyoxMcXiuC+mEAoEwULV2E0sMMh5r8ZBMsonYdLBMGrPjFwwy4lR1nPztQ7yxiJ/+gHH+YfYwT2K1vCHaSlAK5a1maOtkOcOI=;5ZJpc30vPZmlYDL8btO5xg=="
 ---

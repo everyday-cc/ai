@@ -2,6 +2,49 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-06-24-cognitive-skills-for-engineering-success.md",
+      "title": "Cognitive Skills for Engineering Success",
+      "excerpt": "What follows will outline what I have found to be the most essential cognitive skills that contribute to engineering success. The primacy of critical thinking is such a worn-out aphorism that most ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.technewsworld.com/story/cognitive-skills-for-engineering-success-176867.html",
+      "originalUrl": "https://www.technewsworld.com/story/cognitive-skills-for-engineering-success-176867.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.technewsworld.com/wp-content/uploads/sites/3/2022/03/digital-identity.jpg",
+          "width": 1000,
+          "height": 520,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-23T22:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechNewsWorld",
+        "domain": "technewsworld.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-24-b5-prospective-cohort-analysis-of-normal-versus-mild-cognitive-impairment-for-quality-of-life-outcome-following-dbs-for-parkinsons-disease.md",
       "title": "B.5 Prospective cohort analysis of normal versus mild cognitive impairment for quality of life outcome following DBS for Parkinson’s disease",
       "excerpt": "It is unclear where this cut-off should occur and if patients with mild cognitive impairment (MCI) do not do as well. This prospective cohort analysis assessed if pre-operative cognition affected post-operative quality of life. Methods: PD patients ...",
@@ -1285,40 +1328,6 @@
       "provider": {
         "name": "Psychology Today",
         "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-17-microsofts-masterclass-explains-key-ai-concepts-and-using-innovative-ai-solutions-effectively-to-power-growth.md",
-      "title": "Microsoft’s masterclass explains key AI concepts and using innovative AI solutions effectively to power growth",
-      "excerpt": "Whether it's to leverage pre-built models, build custom models with code-first or code-free experiences, or do advanced machine learning, Azure is a great place to get started with AI. Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/2022/06/microsoft-masterclass-explains-ai-concepts-innovative-ai-solutions/amp",
-      "originalUrl": "https://yourstory.com/2022/06/microsoft-masterclass-explains-ai-concepts-innovative-ai-solutions/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-17T05:35:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Your Story",
-        "domain": "yourstory.com",
         "images": null,
         "publishers": null,
         "authors": null

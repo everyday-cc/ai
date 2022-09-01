@@ -6,6 +6,9 @@ publishedDateTime: 2022-08-29T14:22:00Z
 originalUrl: "https://www.massdevice.com/data-abbott-heartmate3-heart-pump-survival/"
 webUrl: "https://www.massdevice.com/data-abbott-heartmate3-heart-pump-survival/"
 type: article
+quality: 4
+heat: 4
+published: false
 
 provider:
   name: MassDevice

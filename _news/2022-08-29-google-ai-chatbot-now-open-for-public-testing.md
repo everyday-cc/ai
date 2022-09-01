@@ -7,7 +7,7 @@ originalUrl: "https://analyticsindiamag.com/google-ai-chatbot-now-open-for-publi
 webUrl: "https://analyticsindiamag.com/google-ai-chatbot-now-open-for-public-testing/"
 type: article
 quality: 17
-heat: 17
+heat: -1
 published: false
 
 provider:
@@ -18,15 +18,22 @@ topics:
   - AI
 
 related:
-  - title: "Meta Open-Sources 175B Parameter Chatbot BlenderBot 3"
-    excerpt: "Meta AI Research open-sourced BlenderBot 3, a 175B parameter chatbot that can learn from live interactions with users \"in the wild.\" In evaluations by human judges, BlenderBot 3 achieves a 31% rating increase compared to the previous BlenderBot version."
-    publishedDateTime: 2022-08-30T13:35:00Z
-    webUrl: "https://www.infoq.com/news/2022/08/meta-blenderbot3-chatbot/"
+  - title: "Meta’s AI chatbot hates Mark Zuckerberg – but why is it less bothered about racism?"
+    excerpt: "Meta, Facebook’s parent company, released the latest version of its groundbreaking AI chatbot in August 2022. Immediately, journalists around the world began peppering the system, called BlenderBot3,"
+    publishedDateTime: 2022-09-01T15:42:00Z
+    webUrl: "https://theconversation.com/metas-ai-chatbot-hates-mark-zuckerberg-but-why-is-it-less-bothered-about-racism-189657"
+    ampWebUrl: "https://theconversation.com/amp/metas-ai-chatbot-hates-mark-zuckerberg-but-why-is-it-less-bothered-about-racism-189657"
+    cdnAmpWebUrl: "https://theconversation-com.cdn.ampproject.org/c/s/theconversation.com/amp/metas-ai-chatbot-hates-mark-zuckerberg-but-why-is-it-less-bothered-about-racism-189657"
     type: article
     provider:
-      name: InfoQ
-      domain: infoq.com
-    quality: 4
+      name: The Conversation
+      domain: theconversation.com
+    quality: 53
+    images:
+      - url: "https://images.theconversation.com/files/481845/original/file-20220830-8728-w1icdt.jpeg?ixlib=rb-1.1.0&q=45&auto=format&w=320&h=213&fit=crop"
+        width: 320
+        height: 213
+        isCached: true
 
 secured: "5LUPvufugDPsp6SsqapYZTNHG9uwjuo8CaD4q6HK13VSFMnEygauhLbRt7Q/J227ssECWshCp9r3+Mudluv/3zywJGvo6j2XgAjW8gRvKd4bckwCfkzYeP8rwIC4WnypqM/K+6Ke94nx2qbFPQjfGcqMZlBmFrxTSz5cpx8ZnDq/2qjY2fjBXGI4bQntqMVdGHo/cVtpFlM1RDPViBU0+nZRsnmQNfjs9DPW3ExrGqc49jTCfCxA9/O8uc3/RhO3Jg2Iesjz7sdlRx2+Xn4JTAQP2wEpcAEUcT/nsGZDsOlGhiGVeFmRl2sTOIhaqskaTTX+iKAO43BjbMrXOu2rqsmk/DPBWgv/XPVRbmb/dzdTOvPwYFsjAagDuUtFTJf2lQ7YPKgFWoOlR+LeoZj3We4Tg69xPAIp6s0YHW0+XehplyM6dMKj5U728wh25fMdGK9Guyfnznrz2TkqQ0V81HdqXZOSMvttf20KHzTXoUx2b2yqIofnaGqKYP4fbQx+YHMDaY7RIB6ML5dyudrSbA==;eZGwgatnr06BqW73W6+yTQ=="
 ---

@@ -1,20 +1,61 @@
 ---
 category: news
 title: "ROBE Array could let small companies access popular form of AI"
-excerpt: "A breakthrough low-memory technique by Rice University computer scientists could put one of the most resource-intensive forms of artificial intelligence—deep-learning recommendation models (DLRM)—within reach of small companies."
-publishedDateTime: 2022-08-29T19:48:00Z
-originalUrl: "https://techxplore.com/news/2022-08-robe-array-small-companies-access.html"
-webUrl: "https://techxplore.com/news/2022-08-robe-array-small-companies-access.html"
+excerpt: "ROBE Array, a breakthrough low-memory training technique for deep-learning recommendation models, could put one of the most resource-intensive forms of artificial intelligence within reach of ..."
+publishedDateTime: 2022-08-29T19:53:00Z
+originalUrl: "https://www.sciencedaily.com/releases/2022/08/220829143936.htm"
+webUrl: "https://www.sciencedaily.com/releases/2022/08/220829143936.htm"
 type: article
+quality: 49
+heat: -1
+published: false
 
 provider:
-  name: techxplore
-  domain: techxplore.com
+  name: Science Daily
+  domain: sciencedaily.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/sciencedaily.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
-  - AI Hardware
+  - Machine Learning
   - AI
 
-secured: "oju5eeV8V8IR8riH324R2FaVmIAeWwnFO++KruL5M3FH5zDYuuiCOSJJ4s9/lQ/rqp0xtwdti35XRnU4+8xf+VQFZSYNjpmXQJWKzTSlJK/bq26bkgZyAo4TVusVMm/q0C2ZXAtWakbyF7IpIH/OLKJkDIBCrSAFErebT81M0Ay/t007QbD8uBciTWWX0+5k7p4oXxhv8aSRAh4mL+OdMPcZdaFLbUvC+DG8hZnpQCdK7wXE/NjTRQ8s6kO70U7Xqh6PWxu3OHDfpiVIiMm7Ass5mUCT72KvgFQicDiq0cymnkr2GOrvi32vi0uscfKZdo1lw5tfSyXFMmDCjdOAXi8rkYA+D41h1fI5+QwDtuIEXGxi/3jAIY4+hy7BEyvYHNSsMa5Xe/bwW29+PgjICDq7n35ttfqUnn7QlQNcf+JO++GRY7b8l0oU8j2CeieYICqs7r7zt6dhgO/XDXdIbn0HBBXqYmEaYYcP5jNnlVVJ3BbOZrgE+/5fCKTqgVH+ttlIT0HuzQam77XO4roPSQ==;lpAFm1wT593sSh5LwyyY2w=="
+related:
+  - title: "Rice University: ROBE Array could let small companies access popular form of AI"
+    excerpt: "A breakthrough low-memory technique by Rice University computer scientists could put one of the most resource-intensive forms of artificial intelligence — deep-learning recommendation models (DLRM) — within reach of small companies."
+    publishedDateTime: 2022-09-01T00:57:00Z
+    webUrl: "https://indiaeducationdiary.in/rice-university-robe-array-could-let-small-companies-access-popular-form-of-ai/"
+    ampWebUrl: "https://indiaeducationdiary.in/rice-university-robe-array-could-let-small-companies-access-popular-form-of-ai/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/rice-university-robe-array-could-let-small-companies-access-popular-form-of-ai/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 55
+    images:
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/02/lovett-backdrop-crop-1.jpg?fit=1024%2C576&ssl=1"
+        width: 1024
+        height: 576
+        isCached: true
+  - title: "Ohio State University: Driving simulations that look more life-like"
+    excerpt: "They don’t look realistic enough, particularly background objects, such as trees, and road markings. But researchers have developed a new way to create photorealistic images for simulators, paving the"
+    publishedDateTime: 2022-09-01T02:51:00Z
+    webUrl: "https://indiaeducationdiary.in/ohio-state-university-driving-simulations-that-look-more-life-like/"
+    ampWebUrl: "https://indiaeducationdiary.in/ohio-state-university-driving-simulations-that-look-more-life-like/"
+    cdnAmpWebUrl: "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/ohio-state-university-driving-simulations-that-look-more-life-like/"
+    type: article
+    provider:
+      name: India Education Diary
+      domain: indiaeducationdiary.in
+    quality: 44
+    images:
+      - url: "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/03/ohio.jpg?fit=1024%2C683&ssl=1"
+        width: 1024
+        height: 683
+        isCached: true
+
+secured: "sFElE66ynMMYt/lrtbL08A1v+MUSDwnnfuLHuLqHh/9lV+M78DWwnHgaZu2kAAz7NwoYSU0rl+SVhkCESLpQanTTwRkDgJebVC+aHDNLFIqpdKde+7RnlxBvk1Mll1WqEqqGO82ijPdR2tL019LpOeVmhWysVAZgnxmfFdxBOCdYo9Wk67ny7E7UdeWE6gKSq0jQZpKOiHw+9tiiFylV7XcQMwemoqrNJjvHpFGYex/QNAkhQPpUojbSHh+yQqrfddBmWcGBNjbdaBK6Di6XQd1qj1tR/biZINVjzIddlVq2zD66fcLXirxb/ccu1HijNq/ezpRBQk5yLCGbclFZTPacQeNH5HDlDt5Nqp+mtuc=;qFFJ6ClysaV7rvfGFSn0Ew=="
 ---
 

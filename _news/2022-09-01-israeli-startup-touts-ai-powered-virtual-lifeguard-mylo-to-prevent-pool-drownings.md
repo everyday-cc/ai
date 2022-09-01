@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-01T13:30:00Z
 originalUrl: "https://www.timesofisrael.com/israeli-startup-touts-ai-powered-virtual-lifeguard-mylo-to-prevent-pool-drownings/"
 webUrl: "https://www.timesofisrael.com/israeli-startup-touts-ai-powered-virtual-lifeguard-mylo-to-prevent-pool-drownings/"
 type: article
+quality: 11
+heat: 11
+published: false
 
 provider:
   name: The Times of Israel

@@ -68,6 +68,15 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 20
+  - title: "Dell debuts new infrastructure solutions engineered with VMware"
+    excerpt: "Dell Technologies has launched new infrastructure solutions, co-engineered with VMware, that deliver greater automation and performance for organisations embracing multi-cloud and edge strategies. “Customers tell us they want help simplifying their multi-cloud and edge strategies as they look to drive more efficiency and performance from their IT,"
+    publishedDateTime: 2022-08-30T15:21:00Z
+    webUrl: "https://it-online.co.za/2022/08/30/dell-debuts-new-infrastructure-solutions-engineered-with-vmware/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 4
 
 secured: "WMy2SNzv4nfgms5tEgdO/7CCjHYe+iLK65EXqM3ABojXkIbJzsC7t7h5Xp3K3n85ULGVFRup0Cky3V4lL1Tg8mB5fazpFk++niya95sgOVl7Ax5PaOXMqqZf3LyZkNu54oAcJjN1n9FL2O8zlb8XCCFoMq0QJsa7gTxjWEMnutoFLDzGWIX5HeKRcBtXSM9RmGPpugXCpwDHXZSka40AIyj4g8ucKxnZxQbJ/Su7QzU0hLwBjcnVlPOwJ3pJSbvDiATk6ax2duECUTOh+BGl2Gd/Lk6LmVv/dpeN5yua9NCPYxdbj14p9vqIZ1eN36gQskewYr8qx5GItRRAshz0WsxXBG/unVlwynNrASuW/s0=;t3KAPcZ2uvPIapAq5grY3Q=="
 ---

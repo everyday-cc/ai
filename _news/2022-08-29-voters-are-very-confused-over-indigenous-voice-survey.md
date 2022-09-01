@@ -18,6 +18,17 @@ topics:
   - Natural Language Processing
   - AI
 
+related:
+  - title: "Veterans Voice: Family clambake welcomes a world of naval officers to Rhode Island"
+    excerpt: "Since 1956, the Kempenaar family has introduced incoming officers at the Naval War College to a New England tradition."
+    publishedDateTime: 2022-08-29T09:01:00Z
+    webUrl: "https://www.providencejournal.com/story/news/local/2022/08/29/veterans-voice-naval-officers-welcomed-ri-kempenaar-clambake/7903156001/"
+    type: article
+    provider:
+      name: Providence Journal
+      domain: providencejournal.com
+    quality: 0
+
 secured: "zlatiVf33XoS/f6pzCT43yWlXcMolkj734zljLWL9BbBFu+Vqnlre/LqQnMLysrlVMDg/w4xi41mKIgEmfvpBm68xY8/NXLrkf+oFatvN89ubIQaGz+GTe18d6Thn2boMIesydfcICjoAkM7M6R7AcuEXlK7SjE5CFWVkiTrowliQRdbg0lVKzS5VA5SxorTOWm/6ypNmOa3icShnTycKF+WePHZWcFZvHv+n3d3GDeUMXNQcBlyTpxvrHiKiOfN6BKOpKLSE7JTFc8EHgVwINxEElNHSFWFsxwy2ydCNvJTNuon4CJaOvzkiYK8dc5/z7giKSFpIL6Uw22RmPXNY/3T0uYM+6ayvxVrmKKsEgn/2cuZHCfyMtRzHH4WmblJDaYakOTNjjUtqQZP0QNz9oacHIVP3rVL46FCO5FGj/nNW0NqnHwAIVnbylLzzsqtQ4Ew+rfPEdTxXmAblEaXTsjV3MjxQx4g/BgGckygB/D150wJ4Fr8+3+P/7LXGQOIQgbNM5Wpaq3gi1jZ74dqTA==;X5/N3cjIyX2kELfmXFAd6g=="
 ---
 

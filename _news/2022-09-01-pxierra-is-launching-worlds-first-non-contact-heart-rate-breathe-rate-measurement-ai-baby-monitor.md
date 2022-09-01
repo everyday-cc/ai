@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-01T13:18:00Z
 originalUrl: "https://markets.businessinsider.com/news/stocks/pxierra-is-launching-world-s-first-non-contact-heart-rate-breathe-rate-measurement-ai-baby-monitor-1031719303"
 webUrl: "https://markets.businessinsider.com/news/stocks/pxierra-is-launching-world-s-first-non-contact-heart-rate-breathe-rate-measurement-ai-baby-monitor-1031719303"
 type: article
+quality: 34
+heat: 34
+published: false
 
 provider:
   name: Business Insider

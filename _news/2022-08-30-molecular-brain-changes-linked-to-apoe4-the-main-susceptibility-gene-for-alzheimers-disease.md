@@ -69,6 +69,15 @@ related:
         width: 700
         height: 467
         isCached: true
+  - title: "AI Diagnoses Alzheimer And Dementia From Voice Recordings"
+    excerpt: "Researchers develop an artificial intelligence system that detects cognitive impairment accurately and efficiently from voice recording."
+    publishedDateTime: 2022-09-01T11:53:00Z
+    webUrl: "https://www.electronicsforu.com/news/whats-new/ai-diagnoses-alzheimer-and-dementia-from-voice-recordings"
+    type: article
+    provider:
+      name: Electronics For You
+      domain: electronicsforu.com
+    quality: 19
 
 secured: "M4eSgcEw8jBMZRs44AhgWz/VHlUu6wGdJxxjazcWVo8yIt9kv1YJNQkrz9+T0wN9RupCcUeIBfNiArGNW/xBNakSWhMvLzEHDbechJW5MZoPlQ1N/HA5up9YK6jBOCJIIV70YIM3Bw6hokMePERCHjxcJVMqygUOMJJLhSPBKOS6VIvYr2YS+AGG8ydqtW8kb/TEsJLuY+w2UQ0b/qYo1h92tK77l2nUgKHaB4/v4avJmxGaZgJW0HL1YhOVQsxXaaIEqUP/1wMiBL2iVyBH22lLZJw9nYJCCHpYg/Y+89AMkKQe1OZ30zOyjdKl06ZHfUi5FoAe+DIGloA28o/YhOePp4iCy0RKue7wYODoqGlE3o5Txi2RfNu2f0yVrftoM28Z7ZXp4O6Ybz+EgJCxHcJo431wKbILzkv8/eKWlrZg9RrVBraunYmHNFuX5kf57UO98QzvP6PQoTymQ4epH9p26ts1fH0oI8EGYD5TGAHd3a5bfMUqZErf7c4A+XP0B49tU2Ch5SJBpMizkafMhw==;Uk/GOOHg2SlPVZ2eV3Ljqw=="
 ---

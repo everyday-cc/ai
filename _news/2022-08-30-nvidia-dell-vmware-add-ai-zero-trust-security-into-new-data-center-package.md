@@ -9,7 +9,7 @@ ampWebUrl: "https://www.zdnet.com/google-amp/article/nvidia-dell-vmware-add-ai-z
 cdnAmpWebUrl: "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/"
 type: article
 quality: 101
-heat: 141
+heat: 151
 published: true
 
 provider:
@@ -72,6 +72,15 @@ related:
       name: Associated Press
       domain: apnews.com
     quality: 20
+  - title: "Dell debuts new infrastructure solutions engineered with VMware"
+    excerpt: "Dell Technologies has launched new infrastructure solutions, co-engineered with VMware, that deliver greater automation and performance for organisations embracing multi-cloud and edge strategies. “Customers tell us they want help simplifying their multi-cloud and edge strategies as they look to drive more efficiency and performance from their IT,"
+    publishedDateTime: 2022-08-30T15:21:00Z
+    webUrl: "https://it-online.co.za/2022/08/30/dell-debuts-new-infrastructure-solutions-engineered-with-vmware/"
+    type: article
+    provider:
+      name: IT-Online
+      domain: it-online.co.za
+    quality: 4
 
 secured: "60Vt0OSm23y+JTTdfREPj4KrlYfBBWL3iZHSibG8tMYSaPUghPxAxTy40dw6GsXUL6+AcCI7T2OsO7BUhhtINuN5vo3Etd41jEWCpYNzqxSgtxkjBUtO6y85mQQVKRMJQQ+GAhn8nG+tMylywJqa9SmjnzHeWxbrUnf+CcBUPHCTKsCXea3VlT56yjRZM6DzvGSSLE+UdGhC0XbXA467UlspvVNShMXVpLx3AzooRGHwPpiaI6o9OAe+Z/E7+X/SsEeqTfmGdrj02EnpbQ8eKcTPF+xbjSXVTFuc3PhWc+kPXZhgBcVUYvdsHoHwYbtKjwPxLV2CEMGJ7vQX7rYMAhmz3rxrx6weAI7D8vrMbJXKUBR/jUM4BBeSOYsMx5qtyidWpPt2V+ZN573YKeIPLp36Bxnzb7SQjH5T8xO2nS11t4VOKw2MID51lJWR9f8+Z+T9yDaxRBXrWuorsH1auqwpIl5DEJaKYfvyKUCkVE8f+UBYsALbsUHGdvckYxi9cwfObrEm+qIHNmhJzPIYLA==;XjG18N7yC1Eo0OIBbSRjUQ=="
 ---

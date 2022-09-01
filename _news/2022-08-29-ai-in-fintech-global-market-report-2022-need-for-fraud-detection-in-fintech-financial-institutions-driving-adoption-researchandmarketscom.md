@@ -1,22 +1,28 @@
 ---
 category: news
 title: "AI in FinTech Global Market Report 2022: Need for Fraud Detection in Fintech & Financial Institutions Driving Adoption - ResearchAndMarkets.com"
-excerpt: "The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25.9%. The AI in fintech market is expected to grow to $24."
-publishedDateTime: 2022-08-29T10:25:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-and-financial-institutions-driving-adoption-researchandmarketscom"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-and-financial-institutions-driving-adoption-researchandmarketscom"
+excerpt: "The “AI in FinTech Global Market Report 2022” report has been added to ResearchAndMarkets.com’s offering. The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25."
+publishedDateTime: 2022-08-29T10:26:00Z
+originalUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795"
+webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795"
 type: article
-quality: 0
+quality: 3
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Associated Press
+  domain: apnews.com
 
 topics:
   - AI in Finance
   - AI
+
+images:
+  - url: "https://apnews.com/images/PaidContent3.png"
+    width: 700
+    height: 450
+    isCached: true
 
 related:
   - title: "AI In Fintech Market Will Reach More Than $61 Billion, By 2031"
@@ -51,22 +57,6 @@ related:
         width: 2560
         height: 1706
         isCached: true
-  - title: "AI in Fintech Market Report 2022-27: Size, Share, Growth, Trends And Forecast"
-    excerpt: "The global AI in fintech market reached a value of US$ 9.4 Billion in 2021. Looking forward, IMARC Group expects the market to reach US$ 36.1 Billion by 2027, exhibiting at a CAGR of 26.1% during 2022-2027."
-    publishedDateTime: 2022-09-01T00:15:00Z
-    webUrl: "https://www.benzinga.com/pressreleases/22/08/ab28710855/ai-in-fintech-market-report-2022-27-size-share-growth-trends-and-forecast"
-    ampWebUrl: "https://www.benzinga.com/amp/content/28710855"
-    cdnAmpWebUrl: "https://www-benzinga-com.cdn.ampproject.org/c/s/www.benzinga.com/amp/content/28710855"
-    type: article
-    provider:
-      name: Benzinga.com
-      domain: benzinga.com
-    quality: 56
-    images:
-      - url: "https://www.abnewswire.com/uploads/1661925524.jpeg"
-        width: 750
-        height: 500
-        isCached: true
   - title: "How to Use ML and AI in the Fintech Industry?"
     excerpt: "From appearing as frequent tech buzzwords less than a decade ago, they have become integral to how AI and ML tech innovations are shaped across the digital landscape. Driving innovations in certain industries,"
     publishedDateTime: 2022-09-01T05:49:00Z
@@ -76,15 +66,6 @@ related:
       name: Finextra
       domain: finextra.com
     quality: 36
-  - title: "AI in Fintech Market Size, Key Developmental Strategies, Future Scope, Technological Innovation And Forecasts To 2028"
-    excerpt: "The latest AI in Fintech Market Analysis is designed to help clients improve their market position, and in line"
-    publishedDateTime: 2022-08-28T07:46:00Z
-    webUrl: "https://www.marketwatch.com/press-release/ai-in-fintech-market-size-key-developmental-strategies-future-scope-technological-innovation-and-forecasts-to-2028-2022-08-28"
-    type: article
-    provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 26
   - title: "29/08 – Weekly Fintech Recap"
     excerpt: "Partnerships Wearable Tech Pioneer DIGISEQ Partners with AdornPay to Bring Passive Wearable Payments to the Netherlands DIGISEQ, the wearable payments tech pioneer, announced its partnership with Dutch wearable fashion brand,"
     publishedDateTime: 2022-08-29T08:04:00Z
@@ -100,6 +81,6 @@ related:
         height: 720
         isCached: true
 
-secured: "lbw0a5HEAR83d+YvhRSsWfHhsI2OoANs4LmIhkDwcd1GEYNuBDzGLU4sBaDJZNezdGC8B0VqULeM+cZRmq1wPDKUwU2UG4g8r47t5NHjDrqGMUrO07A7gJRG5zO3v2iFqTy5moSl4LdAyav9XjKdpd1DSxpZBtf5FXUwBBefC/7ioacr/HK8p7ClvBQfAYbcko8lqX2wRV6tuS0wpHG1PwJvOo+6YDJdmQrpLqJWLOzLGhUxaNfSr8wZk/H5bQDJjfIF3opsUP2nB9xKe+grqo3JfdnhnLDgvR+ZL/E/yP6xQMXdnzBkYrAHyGey73g+rm/VHArEMw+08p3kXUStF5TKYIHlYd83eBeLpWMV/pU=;4otqK3OAldbq2XTUUxp0yg=="
+secured: "bNJTcGK+TbrUimfDUl++L9gBcGdGknV/7JNXeS8+4wO8ew0Ge2KBxTv1o+3XHd22P0/adnBx2YAF5+doV6kbvHeoBEQsWVBV3838L+aX4mxg9EhcKfj4seH5QhOmGg8pwrpu3wqL58CFFld04PKTnA/fp7N6uCOd0uHON5jxrwNZBBExDqOWaJ+hw8d5eBJbSX9SXBhUbYoozEesMXDA4xGrjfo/J0NrBRgX0Km4znjn7i549a8jxr7UiJyLgeVAfVNrh8Ly/W5UWRkzUJGYFzbxsgyrQ347ByIPs06d7M49v5EGM94hCKgPT+LP2X0/aq3PD6EFEi5bLQf/XDe4av76HQ6XP1fU+YIxvKls23U=;uKDygLGAGj9AOybKAbuVoA=="
 ---
 

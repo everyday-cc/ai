@@ -53,6 +53,20 @@ related:
         width: 606
         height: 318
         isCached: true
+  - title: "Raven introduces first autonomous spreader"
+    excerpt: "Autonomous equipment can perform a consistent job each time, which is very important to me, as we’ve built our farm’s reputation on being flawless and doing high-quality work.”"
+    publishedDateTime: 2022-08-31T16:34:00Z
+    webUrl: "https://www.agupdate.com/midwestmessenger/news/state-and-regional/raven-introduces-first-autonomous-spreader/article_bfb24874-294a-11ed-8ade-175f2fc79fb2.html"
+    type: article
+    provider:
+      name: agupdate
+      domain: agupdate.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/agupdate.com/shared-content/art/tncms/templates/libraries/flex/components/themes/resources/images/user_no_avatar.82c8fc38eb25dca10493a994ca1bfb90.png"
+        width: 256
+        height: 256
+        isCached: true
   - title: "Case IH Trident 5550 Applies Raven Autonomy for Driverless Spreading"
     excerpt: "The Case IH Trident 5550 is built to be a combination applicator—both liquid and dry applications—but now equipped with Raven Autonomy, the machine can also be run in either autonomous mode or manual mode."
     publishedDateTime: 2022-08-30T15:29:00Z

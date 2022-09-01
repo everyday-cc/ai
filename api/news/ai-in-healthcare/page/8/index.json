@@ -2,6 +2,127 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-06-08-verilys-new-collaboration-to-change-prostate-cancer-digital-pathology.md",
+      "title": "Verily’s New Collaboration to Change Prostate Cancer Digital Pathology",
+      "excerpt": "The agreement between the two companies will bring together Verily’s artificial intelligence algorithms with Lumea ... and guide prostate cancer therapy selection with improved objectivity and efficiency. Currently, pathologists use the Gleason grading ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.mddionline.com/digital-health/verilys-new-collaboration-change-prostate-cancer-digital-pathology",
+      "originalUrl": "https://www.mddionline.com/digital-health/verilys-new-collaboration-change-prostate-cancer-digital-pathology",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.mddionline.com/sites/mddionline.com/files/IMG_2022-3-17-154850.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-07T17:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MD&M East",
+        "domain": "mddionline.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-cognitive-therapy-relaxation-training-both-beneficial-for-migraine.md",
+      "title": "Cognitive therapy, relaxation training both beneficial for migraine",
+      "excerpt": "For adults with migraine, migraine-specific, integrative cognitive behavioral therapy (miCBT) and relaxation training (RLX) are both beneficial, with no significant between-group difference seen ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-06-cognitive-therapy-beneficial-migraine.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-06-cognitive-therapy-beneficial-migraine.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/cognitive-therapy-rela.jpg",
+          "width": 800,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-06-cognitive-therapy-beneficial-migraine.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-cognitive-therapy-beneficial-migraine.amp",
+      "publishedDateTime": "2022-06-07T09:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
+      "path": "_news/2022-06-07-deepsig-named-to-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups-for-2022.md",
+      "title": "DeepSig Named to CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups for 2022",
+      "excerpt": "DeepSig, a leader in artificial intelligence (AI) and machine-learning (ML) innovation in wireless communications, today announced that it has ranked on CB Insights annual AI 100 list. The AI 100 ranking recognizes the 100 most promising private artificial intelligence companies in the world.",
+      "sourceUrl": null,
+      "webUrl": "https://www.tmcnet.com/usubmit/-deepsig-named-cb-insights-ai-100-list-most-/2022/06/06/9615837.htm",
+      "originalUrl": "https://www.tmcnet.com/usubmit/-deepsig-named-cb-insights-ai-100-list-most-/2022/06/06/9615837.htm",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-06T13:09:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TMCnet",
+        "domain": "tmcnet.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-06-thermo-fisher-scientific-showcases-solutions-for-accelerating-next-generation-vaccine-and-therapy-research.md",
       "title": "Thermo Fisher Scientific Showcases Solutions for Accelerating Next Generation Vaccine and Therapy Research",
       "excerpt": "Thermo Fisher Scientific Inc. is showcasing new instruments, workflows, software and industry collaborations that enable customers to generate new analytical insights and accelerate next generation vaccine and therapy development.",
@@ -1175,126 +1296,6 @@
         "AI in Robotics",
         "AI in Healthcare",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-etna-device-from-the-leading-digital-health-ai-company-innodem-neurosciences-receives-fda-breakthrough-designation-for-multiple-sclerosis.md",
-      "title": "ETNA™ DEVICE FROM THE LEADING DIGITAL HEALTH & AI COMPANY INNODEM NEUROSCIENCES RECEIVES FDA \"BREAKTHROUGH\" DESIGNATION FOR MULTIPLE SCLEROSIS",
-      "excerpt": "PRNewswire/ - Innodem Neurosciences, a leading provider of innovation and technology for the convergence of neurosciences, digital health, pharmaceutical and artificial intelligence, is proud to announce that its novel mobile eye tracking technology for people living with multiple sclerosis has been granted \"Breakthrough Device\" designation by the U.",
-      "sourceUrl": null,
-      "webUrl": "https://www.mystateline.com/business/press-releases/cision/20220531MO73100/etna-device-from-the-leading-digital-health-ai-company-innodem-neurosciences-receives-fda-breakthrough-designation-for-multiple-sclerosis/",
-      "originalUrl": "https://www.mystateline.com/business/press-releases/cision/20220531MO73100/etna-device-from-the-leading-digital-health-ai-company-innodem-neurosciences-receives-fda-breakthrough-designation-for-multiple-sclerosis/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T04:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WTVO",
-        "domain": "mystateline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-31-cutting-edge-gene-therapy-arrive-in-hungary-too-interview-with-the-ceo-of-novartis-hungaria.md",
-      "title": "Cutting-edge gene therapy arrive in Hungary too - Interview with the CEO of Novartis Hungária",
-      "excerpt": "Although gene therapy falls into the category of science fiction for many, gene therapy is already present and can have an extraordinary effect in patient treatment, said Matt Zeller, CEO of Novartis Hungária,",
-      "sourceUrl": null,
-      "webUrl": "https://www.portfolio.hu/en/economy/20220531/cutting-edge-gene-therapy-arrive-in-hungary-too-interview-with-the-ceo-of-novartis-hungaria-547965",
-      "originalUrl": "https://www.portfolio.hu/en/economy/20220531/cutting-edge-gene-therapy-arrive-in-hungary-too-interview-with-the-ceo-of-novartis-hungaria-547965",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.portfolio.hu/articles/images-xl/m/a/t/matt-zeller-novartis-533893.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-31T03:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Portfolio",
-        "domain": "portfolio.hu",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-30-reply-automation-and-artificial-intelligence-are-the-strategic-keys-for-an-effective-defense-against-growing-threats-in-the-digital-world.md",
-      "title": "Reply: Automation and Artificial Intelligence Are the Strategic Keys for an Effective Defense Against Growing Threats in the Digital World",
-      "excerpt": "Smart Homes, Connected Cars, Delivery Robots: this evolution will not stop and so, in tandem, it will be necessary to develop automated and AI-based solutions to combat the growing number of security threats.",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-politics-data-privacy-artificial-intelligence-96cf59f99ee348e386831b699eb560aa",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-politics-data-privacy-artificial-intelligence-96cf59f99ee348e386831b699eb560aa",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-30T02:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
       ]
     }
   ],

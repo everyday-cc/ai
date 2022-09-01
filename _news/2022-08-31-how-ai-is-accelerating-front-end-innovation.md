@@ -64,6 +64,20 @@ related:
         width: 767
         height: 633
         isCached: true
+  - title: "As the Machine Learns—Continuing AI IP and Privacy Considerations"
+    excerpt: "AI frequently automates routine tasks that were previously performed by people, eliminating tedious work, making business processes more efficient, and creating new capabilities and opportunities. Every business in the future will be using AI to some extent."
+    publishedDateTime: 2022-08-30T17:06:00Z
+    webUrl: "https://www.law.com/legaltechnews/2022/08/30/as-the-machine-learns-continuing-ai-ip-and-privacy-considerations/"
+    type: article
+    provider:
+      name: Law
+      domain: law.com
+    quality: 39
+    images:
+      - url: "https://images.law.com/contrib/content/uploads/sites/402/2022/08/Halt-Glabicki-767x633.jpg"
+        width: 767
+        height: 633
+        isCached: true
 
 secured: "JWaIihbbQ37k9S+5xC3dBFtYwG9PT8YvoH1GiQPPXKuuugOua3usZA6UpBdqUoM53qH3kZANwz59l3zWqYOmuZtlI+uq7/RvEFZdrqyPMslCVIVaQXQyfPcAnmWmVHnEb5EzHnWA/KPpuY/TvjErmKO0Zsg02gennSElMxjARC1eoS5N95YTESRjYG2vq5HjDfBC9EJ9gCRqxb9ymq5WhWgtIfbJz8GHww5NCcvavXVVQDHwTlD+oxb82pnnsR7wGXBUkVxB1yZnoxjYOsLjQScQXzjfvqFrcJ71zCi8NANPYW1I5GCpqzAcsedOZUIk/kAiBiniqI5PJsrwnetSqon2Xcz9Kx+EoLpqeVnEqyu/DAT0RleFHL6FLK0+TZN8ad7bHj/Wis0FkJhu8D6/Dq5zh7O7dfKTU4uznRwK/j+g3R0CPl9/QlpTtNuP6C3MXGAMQ3zcJzzF1HAG+sCPCP9wbgHSxhK90lkEVkTcVqPE16NvGmh5NeuOzfhRBfqkYwI9AxaGmt0K3wFb1g1Hrg==;20G7sJt2+cAhmyaPWuVPPg=="
 ---

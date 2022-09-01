@@ -21,6 +21,17 @@ topics:
   - AI
   - AI in Security
 
+related:
+  - title: "Global Speech & Voice Recognition Market Research Report to 2027 - Featuring Amazon, Apple and Baidu Among Others - ResearchAndMarkets.com"
+    excerpt: "The \"Speech & Voice Recognition Market Research Report by Delivery Method, Technology, Deployment Mode, Vertical, Region - Global Forecast to 2027 - Cumulative Impact of COVID-19\" report has been added to ResearchAndMarkets."
+    publishedDateTime: 2022-08-31T11:33:00Z
+    webUrl: "https://markets.buffalonews.com/buffnews/article/bizwire-2022-8-31-global-speech-and-voice-recognition-market-research-report-to-2027-featuring-amazon-apple-and-baidu-among-others-researchandmarketscom"
+    type: article
+    provider:
+      name: Buffalo News
+      domain: buffalonews.com
+    quality: 0
+
 secured: "lKvQ2NrpEF4IGZ1ZybIk3BItU8lU9+n2kjzJSZuAgg5nnhly+E70RgmIx/nluI/64Pj8NDkBNd0PmyxvfRQjZhxEYkup0j3XwHo97GWJ+RJCEZvHcd1yYIhxwMn/iAMZ9ZV/X6ut847MnN7/HlRsuhMFBbk237XOMsBIZD9v0wWLcpeUTqCmu3WL891jS5xfTDiX2LrMY0nA28hPwEdx228aKfnbLnlxB4IqC8ERb/TenuoE/0o1U0Ew6f3j+a9MAmFbYaznA1oNqXn8ZEf7KwFnbuEpiVSroS5SbGwdbaw9WocUi77mBEDxzhFiWIIVYtST2cFIqBtCuEXSeSa9DHUFmQ67vTepqsZGAGBAdu8=;frbzKGEaDmtuCi9x55r/Xw=="
 ---
 

@@ -6,6 +6,9 @@ publishedDateTime: 2022-09-01T12:28:00Z
 originalUrl: "https://www.benzinga.com/pressreleases/22/09/g28716172/north-american-automotive-human-machine-interface-hmi-growth-opportunities-voice-support-creates-n"
 webUrl: "https://www.benzinga.com/pressreleases/22/09/g28716172/north-american-automotive-human-machine-interface-hmi-growth-opportunities-voice-support-creates-n"
 type: article
+quality: 0
+heat: 0
+published: false
 
 provider:
   name: Benzinga.com
