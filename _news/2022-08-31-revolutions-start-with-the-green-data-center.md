@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/0
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/31/revolutions-start-with-the-green-data-center/amp/"
 type: article
 quality: 72
-heat: 73
+heat: 74
 published: true
 
 provider:

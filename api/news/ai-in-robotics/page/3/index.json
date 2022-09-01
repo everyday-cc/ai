@@ -2,6 +2,92 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-13-the-role-of-motion-control-in-medical-robotics.md",
+      "title": "The Role of Motion Control in Medical Robotics",
+      "excerpt": "Finding the right motion control solution can support robotic advances for minimally invasive procedures. Motion control is a critical component of almost all of today’s robotic applications, explains Aleksandar Nacev,",
+      "sourceUrl": null,
+      "webUrl": "https://www.designnews.com/motion-control/role-motion-control-medical-robotics",
+      "originalUrl": "https://www.designnews.com/motion-control/role-motion-control-medical-robotics",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.designnews.com/sites/designnews.com/files/motion%20control%20webinar%20DT613X.jpg",
+          "width": 770,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-12T14:43:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Design News",
+        "domain": "designnews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-13-hello-human-do-you-want-to-talk-to-me.md",
+      "title": "Hello human, do you want to talk to me?",
+      "excerpt": "related to various disciplines including human-computer interaction (HCI), robotics, artificial intelligence, design, and philosophy. HRI is a unique discipline, concerned with building a concept ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.rte.ie/brainstorm/2022/0811/1315076-history-human-robot-interaction-ethics/",
+      "originalUrl": "https://www.rte.ie/brainstorm/2022/0811/1315076-history-human-robot-interaction-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://img.rasset.ie/001c3b72-1600.jpg",
+          "width": 1600,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-12T11:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "RTE Online",
+        "domain": "www.rte.ie",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-13-robotic-surgery-minimises-risks-and-recovery-time.md",
       "title": "Robotic surgery minimises risks and recovery time",
       "excerpt": "robotic surgery doesn’t mean a robot will operate on the patient. In a RAS, expert surgeons control mechanical arms placed over the patient on the operating table. The surgeon controls these ...",
@@ -1319,92 +1405,6 @@
       "provider": {
         "name": "Singularity Hub",
         "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt.md",
-      "title": "Prospera Financial Services Inc Takes $68,000 Position in First Trust Nasdaq Artificial Intelligence and Robotics ETF (NASDAQ:ROBT)",
-      "excerpt": "First Trust Nasdaq Artificial Intelligence and Robotics ETF has a 1 year low of $35.92 and a 1 year high of $58.00. The firm’s fifty day simple moving average is $39.17 and its 200 day simple ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.etfdailynews.com/2022/08/08/prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt/",
-      "originalUrl": "https://www.etfdailynews.com/2022/08/08/prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.marketbeat.com/logos/generic-stocks14.jpg",
-          "width": 1024,
-          "height": 528,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.etfdailynews.com/2022/08/08/prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt/amp/",
-      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/08/08/prospera-financial-services-inc-takes-68000-position-in-first-trust-nasdaq-artificial-intelligence-and-robotics-etf-nasdaqrobt/amp/",
-      "publishedDateTime": "2022-08-08T02:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ETF Daily News",
-        "domain": "etfdailynews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-08-artificial-intelligence-robots-market-growth-holds-strong-softbank-group-corp-nvidia-corporation-intel-corporation.md",
-      "title": "Artificial Intelligence Robots Market Growth Holds Strong | SoftBank Group Corp., Nvidia Corporation, Intel Corporation",
-      "excerpt": "Global Artificial Intelligence (AI) Robots Market is valued approximately USD 6.90 billion in 2021 and is anticipated to grow with a healthy growth rate of more than 38.6% over the forecast period ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robots-market-growth-holds-strong-softbank-group-corp-nvidia-corporation-intel-corporation",
-      "originalUrl": "https://www.digitaljournal.com/pr/artificial-intelligence-robots-market-growth-holds-strong-softbank-group-corp-nvidia-corporation-intel-corporation",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/05/Business8-600x337.jpg",
-          "width": 600,
-          "height": 337,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-07T22:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
         "images": null,
         "publishers": null,
         "authors": null

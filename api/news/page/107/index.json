@@ -2,6 +2,420 @@
   "page": 107,
   "value": [
     {
+      "path": "_news/2022-06-08-neurologist-discusses-mild-cognitive-impairment.md",
+      "title": "Neurologist discusses mild cognitive impairment",
+      "excerpt": "These are normal signs of aging. But, if such events begin to happen more frequently or escalate, then it could be something called mild cognitive impairment, often called MCI. Mild cognitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://medicalxpress.com/news/2022-06-neurologist-discusses-mild-cognitive-impairment.html",
+      "originalUrl": "https://medicalxpress.com/news/2022-06-neurologist-discusses-mild-cognitive-impairment.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/dementia-2.jpg",
+          "width": 1600,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://medicalxpress.com/news/2022-06-neurologist-discusses-mild-cognitive-impairment.amp",
+      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-neurologist-discusses-mild-cognitive-impairment.amp",
+      "publishedDateTime": "2022-06-08T07:54:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Medical Xpress",
+        "domain": "medicalxpress.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-baidus-jidu-auto-releases-virtual-concept-robocar-as-intelligent-ev-unit-moves-towards-mass-production-in-2023.md",
+      "title": "Baidu’s Jidu Auto releases virtual concept robocar as intelligent EV unit moves towards mass production in 2023",
+      "excerpt": "Baidu-backed EV firm WM applies to list in ... Tesla’s founder Elon Musk recently said that Tesla aims to have self-driving cars, without the need for human intervention, by May 2023.",
+      "sourceUrl": null,
+      "webUrl": "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit?module=more_top_stories_int&pgtype=homepage",
+      "originalUrl": "https://www.scmp.com/tech/big-tech/article/3180921/baidus-jidu-auto-releases-virtual-concept-robocar-intelligent-ev-unit?module=more_top_stories_int&pgtype=homepage",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/06/08/a7880824-98af-4131-80cb-aeb9f88421db_36043c23.jpg?itok=OKP7ptvz&v=1654696184",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "South China Morning Post",
+        "domain": "scmp.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-chinas-jidu-robo-1-looks-like-its-from-the-future-maybe-it-is.md",
+      "title": "China’s Jidu Robo-1 Looks Like It’s From the Future. Maybe It Is",
+      "excerpt": "The autonomous driving technology for Jidu’s car will be a custom version of Apollo, an open platform developed by Baidu and several partners that dozens of carmakers use in China. Jidu says its ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/",
+      "originalUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 104,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.wired.com/photos/629ff1ed853b24d07fae362d/master/pass/JiDU-ROBO-1-Baidu-First-Car-Business.jpg",
+          "width": 2400,
+          "height": 1350,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wired.com/story/baidu-jidu-robo-1-autonomous-car/amp",
+      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/baidu-jidu-robo-1-autonomous-car/amp",
+      "publishedDateTime": "2022-06-08T06:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wired",
+        "domain": "wired.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-investing-in-ai-stocks.md",
+      "title": "Investing in AI Stocks",
+      "excerpt": "Artificial intelligence (AI), including its offshoots ... including its autonomous vehicle start-up Waymo. It also owns DeepMind, a deep learning platform that can diagnose eye diseases, predict ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "originalUrl": "https://www.fool.com/investing/stock-market/market-sectors/information-technology/ai-stocks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.foolcdn.com/media/dubs/images/3-depiction_of_cloud_computing_connections.width-400.jpg",
+          "width": 400,
+          "height": 239,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T06:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Motley Fool",
+        "domain": "fool.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fool.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-ai-in-fintech-market-to-be-worth-4116-billion-by-2030-grand-view-research-inc.md",
+      "title": "AI In Fintech Market to be Worth $41.16 Billion by 2030: Grand View Research, Inc.",
+      "excerpt": "The global artificial intelligence in fintech market size is expected to reach USD 41.16 billion by 2030, growing at a CAGR of 16.5% from",
+      "sourceUrl": null,
+      "webUrl": "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-be-worth-41-16-billion-by-2030-grand-view-research-inc--820001389.html",
+      "originalUrl": "https://www.prnewswire.co.uk/news-releases/ai-in-fintech-market-to-be-worth-41-16-billion-by-2030-grand-view-research-inc--820001389.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mma.prnewswire.com/media/661327/Grand_View_Research_Logo.jpg?p=facebook",
+          "width": 1400,
+          "height": 733,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T06:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PR Newswire",
+        "domain": "prnewswire.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-better-therapeutics-announces-issuance-of-us-patent-covering-key-features-of-their-prescription-digital-therapeutics-platform.md",
+      "title": "Better Therapeutics Announces Issuance of U.S. Patent Covering Key Features of Their Prescription Digital Therapeutics Platform",
+      "excerpt": "Better Therapeutics, Inc. (NASDAQ: BTTX), a prescription digital therapeutics (PDT) company developing nutritional cognitive behavioral therapy (nCBT) to address the root causes of cardiometabolic diseases,",
+      "sourceUrl": null,
+      "webUrl": "https://www.valdostadailytimes.com/news/business/better-therapeutics-announces-issuance-of-u-s-patent-covering-key-features-of-their-prescription-digital/article_1b1a3b59-7cf6-53d5-b989-9b8f4b5f977c.html",
+      "originalUrl": "https://www.valdostadailytimes.com/news/business/better-therapeutics-announces-issuance-of-u-s-patent-covering-key-features-of-their-prescription-digital/article_1b1a3b59-7cf6-53d5-b989-9b8f4b5f977c.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T04:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Valdosta Daily Times",
+        "domain": "valdostadailytimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-five-ways-marketers-are-using-ai-to-elevate-their-content-marketing-strategy.md",
+      "title": "Five Ways Marketers Are Using AI To Elevate Their Content Marketing Strategy",
+      "excerpt": "AI is proving to be a valuable asset in many different areas, one area being content creation. It is no secret that content has become an integral part of business marketing strategies in 2022, and due to the ever-present demand to produce high-quality content on a regular basis,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/08/five-ways-marketers-are-using-ai-to-elevate-their-content-marketing-strategy/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/08/five-ways-marketers-are-using-ai-to-elevate-their-content-marketing-strategy/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 121,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve//629f75674916d75720516f17/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 652,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/06/08/five-ways-marketers-are-using-ai-to-elevate-their-content-marketing-strategy/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/06/08/five-ways-marketers-are-using-ai-to-elevate-their-content-marketing-strategy/amp/",
+      "publishedDateTime": "2022-06-08T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-015-monthly-dividend.md",
+      "title": "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO) Plans $0.15 Monthly Dividend",
+      "excerpt": "Virtus AllianzGI Artificial Intelligence & Technology Opportunities Fund (NYSE:AIO – Get Rating) declared a monthly dividend on Thursday, March 10th, Wall Street Journal reports. Stockholders of record on Monday, June 13th will be paid a dividend of 0.15 ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.etfdailynews.com/2022/06/08/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-0-15-monthly-dividend/",
+      "originalUrl": "https://www.etfdailynews.com/2022/06/08/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-0-15-monthly-dividend/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.marketbeat.com/scripts/DividendChart.ashx?Prefix=NYSE&Symbol=AIO",
+          "width": 650,
+          "height": 325,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.etfdailynews.com/2022/06/08/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-0-15-monthly-dividend/amp/",
+      "cdnAmpWebUrl": "https://www-etfdailynews-com.cdn.ampproject.org/c/s/www.etfdailynews.com/2022/06/08/virtus-allianzgi-artificial-intelligence-technology-opportunities-fund-nyseaio-plans-0-15-monthly-dividend/amp/",
+      "publishedDateTime": "2022-06-08T04:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ETF Daily News",
+        "domain": "etfdailynews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-08-north-america-artificial-intelligence-ai-chip-market-is-expected-to-grow-us-3062-bn-by-the-year-2027-by-business-market-insights.md",
+      "title": "North America Artificial Intelligence (AI) Chip Market Is Expected to Grow US$ 30.62 Bn by the year 2027 By Business Market Insights",
+      "excerpt": "AI Chip market in North America is expected to grow from US$ 2.50 Bn in 2018 to US$ 30.62 Bn by the year 2027 with a CAGR of 32.0% from the year 2019 to 2027. The Business Market Insights provides ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/north-america-artificial-intelligence-ai-chip-market-is-expected-to-grow-us-30-62-bn-by-the-year-2027-by-business-market-insights",
+      "originalUrl": "https://www.digitaljournal.com/pr/north-america-artificial-intelligence-ai-chip-market-is-expected-to-grow-us-30-62-bn-by-the-year-2027-by-business-market-insights",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/06/Juneteenth-CC-BY-2.0-Wiki-600x337.jpeg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-08T03:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-08-this-ai-brought-11-of-my-worst-seinfeld-nightmares-to-life.md",
       "title": "This AI Brought 11 of My Worst 'Seinfeld' Nightmares to Life",
       "excerpt": "The Dall-E Mini is supposed to be a tool for realizing artistic visions. What happens when it gets its hands on a beloved 90's sitcom?",
@@ -703,404 +1117,6 @@
       "topics": [
         "Computer Vision",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-video-sleep-depression-age-can-predict-future-cognitive-impairment.md",
-      "title": "VIDEO: Sleep, depression, age can predict future cognitive impairment",
-      "excerpt": "Keil S, et al. Longitudinal sleep instability contributes to cognitive decline and Alzheimer’s pathology: findings from the Seattle Longitudinal Study.",
-      "sourceUrl": null,
-      "webUrl": "https://www.healio.com/news/neurology/20220607/video-sleep-depression-age-can-predict-future-cognitive-impairment",
-      "originalUrl": "https://www.healio.com/news/neurology/20220607/video-sleep-depression-age-can-predict-future-cognitive-impairment",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T13:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Healio",
-        "domain": "healio.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-uber-and-waymo-fought-in-court-over-self-driving-trucks-now-theyre-teaming-up.md",
-      "title": "Uber and Waymo fought in court over self-driving trucks. Now they're teaming up",
-      "excerpt": "Uber and Alphabet's Waymo, which were once embroiled in a lawsuit over self-driving technology, are now working together on fully autonomous trucks.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html",
-      "originalUrl": "https://www.cnn.com/2022/06/07/tech/uber-waymo-self-driving-deal/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220607121312-02-uber-waymo-self-driving-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/06/07/tech/uber-waymo-self-driving-deal/index.html",
-      "publishedDateTime": "2022-06-07T13:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-theres-still-time-to-join-leading-ai-and-data-thought-leaders-on-stage-at-transform-2022.md",
-      "title": "There’s still time to join leading AI and data thought leaders on stage at Transform 2022",
-      "excerpt": "Does your org have an AI and data solution case study to share? There's still time for sponsors to apply to get on stage at Transform 2022.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/07/theres-still-time-to-join-leading-ai-and-data-thought-leaders-on-stage-at-transform-2022/",
-      "originalUrl": "https://venturebeat.com/2022/06/07/theres-still-time-to-join-leading-ai-and-data-thought-leaders-on-stage-at-transform-2022/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 80,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2022/06/transform-2022-call-for-sponsors.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 683,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/07/theres-still-time-to-join-leading-ai-and-data-thought-leaders-on-stage-at-transform-2022/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/07/theres-still-time-to-join-leading-ai-and-data-thought-leaders-on-stage-at-transform-2022/amp/",
-      "publishedDateTime": "2022-06-07T13:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-trai-looking-at-ai-machine-learning-to-curb-pesky-communications.md",
-      "title": "Trai looking at AI, machine learning to curb pesky communications",
-      "excerpt": "The Telecom Regulatory Authority of India (Trai) is looking at utilising technologies like artificial intelligence (AI) and machine learning (ML) to tackle the menace of spam communications.",
-      "sourceUrl": null,
-      "webUrl": "https://www.financialexpress.com/industry/trai-looking-at-ai-machine-learning-to-curb-pesky-communications/2552112/",
-      "originalUrl": "https://www.financialexpress.com/industry/trai-looking-at-ai-machine-learning-to-curb-pesky-communications/2552112/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.financialexpress.com/wp-content/uploads/2022/06/1-148.jpg",
-          "width": 1200,
-          "height": 667,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.financialexpress.com/industry/trai-looking-at-ai-machine-learning-to-curb-pesky-communications/2552112/lite/",
-      "cdnAmpWebUrl": "https://www-financialexpress-com.cdn.ampproject.org/c/s/www.financialexpress.com/industry/trai-looking-at-ai-machine-learning-to-curb-pesky-communications/2552112/lite/",
-      "publishedDateTime": "2022-06-07T11:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The Financial Express",
-        "domain": "financialexpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-artificial-neural-networks-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2028.md",
-      "title": "Artificial Neural Networks Market Overview with Detailed Analysis, Competitive landscape, Forecast to 2028",
-      "excerpt": "Jun 07, 2022 (Market Insight Reports) -- According to our latest study, due to COVID-19 pandemic, the global Artificial Neural Networks market size is estimated to be worth US$ 174.2 million in ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2028-2022-06-07",
-      "originalUrl": "https://www.marketwatch.com/press-release/artificial-neural-networks-market-overview-with-detailed-analysis-competitive-landscape-forecast-to-2028-2022-06-07",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T11:38:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-researchers-use-overcooked-to-train-ai-to-be-a-better-gaming-buddy.md",
-      "title": "Researchers use Overcooked to train AI to be a better gaming buddy",
-      "excerpt": "DeepMind researchers have been using the chaotic cooking game Overcooked (opens in new tab) to teach AI to better collaborate with humans. MIT researchers have followed suit, gifting their AI the ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.pcgamer.com/researchers-use-overcooked-to-train-ai-to-be-a-better-gaming-buddy/",
-      "originalUrl": "https://www.pcgamer.com/researchers-use-overcooked-to-train-ai-to-be-a-better-gaming-buddy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.mos.cms.futurecdn.net/tUcevsbtcUnZmavWQqLFrB-1200-80.jpg",
-          "width": 1200,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T10:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "PC Gamer",
-        "domain": "pcgamer.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Google AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services.md",
-      "title": "Lilt Included in 2022 Gartner® Market Guide for AI-Enabled Translation Services",
-      "excerpt": "\"Lilt enables businesses to create personalized experiences for their customers and prospects in the language that ... and availability of translation services. AI can be used to automate and ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services/article_a9b03129-80e1-5238-b1f0-f19e3ed61c5d.html",
-      "originalUrl": "https://www.wfmz.com/news/pr_newswire/pr_newswire_entertainment/lilt-included-in-2022-gartner-market-guide-for-ai-enabled-translation-services/article_a9b03129-80e1-5238-b1f0-f19e3ed61c5d.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-07T10:23:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WFMZ-TV",
-        "domain": "wfmz.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-08-alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks.md",
-      "title": "Alphabet's Waymo, Uber Freight in deal for future self-driving trucks",
-      "excerpt": "Waymo Via, the self-driving trucking unit of Alphabet Inc (GOOGL.O), and Uber Technology Inc's (UBER.N) Freight business on Tuesday said they signed a long-term strategic partnership that would ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.moneycontrol.com/news/business/companies/alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks-8656351.html",
-      "originalUrl": "https://www.moneycontrol.com/news/business/companies/alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks-8656351.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.moneycontrol.com/static-mcnews/2018/01/Diesel-trucks.jpg",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.moneycontrol.com/news/business/companies/alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks-8656351.html/amp",
-      "cdnAmpWebUrl": "https://www-moneycontrol-com.cdn.ampproject.org/c/s/www.moneycontrol.com/news/business/companies/alphabets-waymo-uber-freight-in-deal-for-future-self-driving-trucks-8656351.html/amp",
-      "publishedDateTime": "2022-06-07T10:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "moneycontrol.com",
-        "domain": "moneycontrol.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-07-cognitive-therapy-relaxation-training-both-beneficial-for-migraine.md",
-      "title": "Cognitive therapy, relaxation training both beneficial for migraine",
-      "excerpt": "For adults with migraine, migraine-specific, integrative cognitive behavioral therapy (miCBT) and relaxation training (RLX) are both beneficial, with no significant between-group difference seen ...",
-      "sourceUrl": null,
-      "webUrl": "https://medicalxpress.com/news/2022-06-cognitive-therapy-beneficial-migraine.html",
-      "originalUrl": "https://medicalxpress.com/news/2022-06-cognitive-therapy-beneficial-migraine.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/2022/cognitive-therapy-rela.jpg",
-          "width": 800,
-          "height": 600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://medicalxpress.com/news/2022-06-cognitive-therapy-beneficial-migraine.amp",
-      "cdnAmpWebUrl": "https://medicalxpress-com.cdn.ampproject.org/c/s/medicalxpress.com/news/2022-06-cognitive-therapy-beneficial-migraine.amp",
-      "publishedDateTime": "2022-06-07T09:59:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medical Xpress",
-        "domain": "medicalxpress.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

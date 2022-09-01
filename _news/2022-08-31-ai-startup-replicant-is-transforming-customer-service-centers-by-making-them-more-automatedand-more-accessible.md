@@ -7,7 +7,7 @@ originalUrl: "https://www.forbes.com/sites/stevenaquino/2022/08/30/ai-startup-re
 webUrl: "https://www.forbes.com/sites/stevenaquino/2022/08/30/ai-startup-replicant-is-transforming-customer-service-centers-by-making-them-more-automated-and-more-accessible/"
 type: article
 quality: 27
-heat: 27
+heat: -1
 published: false
 
 provider:
@@ -20,6 +20,38 @@ provider:
 
 topics:
   - AI
+
+related:
+  - title: "In The Face Of Recession, Investing In AI Is A Smarter Strategy Than Ever"
+    excerpt: "By making a few smart investments today, businesses can emerge from any oncoming recession, more effective and efficient than they were before."
+    publishedDateTime: 2022-09-01T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/amp/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 86
+    images:
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5fc7e538b6f0e3645ec8ff41/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
+        isCached: true
+  - title: "How AI Is Shaping the Future of Customer Interactions"
+    excerpt: "Artificial intelligence isn’t going anywhere. In fact, it’s beginning to take the lead on customer interactions — but not without challenges."
+    publishedDateTime: 2022-08-30T11:02:00Z
+    webUrl: "https://www.cmswire.com/customer-experience/how-ai-is-shaping-the-future-of-customer-interactions/"
+    type: article
+    provider:
+      name: CMS Wire
+      domain: cmswire.com
+    quality: 39
+    images:
+      - url: "https://www.cmswire.com/-/media/5fa25dc1474f429fac7153892ff8d022.ashx"
+        width: 640
+        height: 480
+        isCached: true
 
 secured: "58NEP3/NhiV05VC3JUQaJmazMdDg4ysdlaOOHVr8jjlftax56CqKyAPvhgszDx+yyfm+fqlipwmcWOW8PRJkn4IRqj7t6gELLMDXHXTuW3hIDm6QgIWlaYB4YpUTpNT5KZP1rJYoCah0RMR8+i9DQz+ym9Aisw0pgp2hYR11g49oOB+JCsfvLsK46LvrvGqRfQKihRxDIQNOl+Q5uV7j8ozRVH1iTnGvz1nhHvtLOMAkEp3W1WcRHVZv7QXGSrtUyG3MgZeAcZdvra7Q5I/LoCcq92nyly8uGsvkHsu+xSSVNy7vuOq33j2LigGTewNfqerjxIaxLBmiMFZ+z2KpHI7OTyBmMZkLGo8AS++PxGDWae4wKS1SIlVV0q3r7lyXdeT9CnUyOUBDuRgUdw/lfJQydbkkKuDZRQOFNaKA/2JXaBdySRRy48rKmK2gt0qQV2xktW/CGH+AAXWHEzy9OyYDqTiEA33g/uuh56HIyk+C1Den6xTdpAQZoWkiZ6ttzWgMvNjpHotzHEoRzz+kvA==;ymoPPc4ug22xH2mLs78mOQ=="
 ---

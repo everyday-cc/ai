@@ -1,29 +1,33 @@
 ---
 category: news
 title: "AWS Launches Region in the United Arab Emirates"
-excerpt: "AWS is committed to helping customers in the UAE deploy the most advanced cloud technologies and achieve the highest levels of security, availability, and resiliency,” said Prasad Kalyanaraman, vice president of Infrastructure Services at AWS."
-publishedDateTime: 2022-08-30T06:27:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
-webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-economy-amazoncom-inc-d9b9452aac444bf3821796b7f621f354"
+excerpt: "SEATTLE, (BUSINESS WIRE) -- Amazon Web Services, Inc. (AWS), an Amazon.com, Inc. company (NASDAQ: AMZN), today announced the launch of its second Region in..."
+publishedDateTime: 2022-08-30T06:42:00Z
+originalUrl: "https://www.marketwatch.com/press-release/aws-launches-region-in-the-united-arab-emirates-2022-08-30"
+webUrl: "https://www.marketwatch.com/press-release/aws-launches-region-in-the-united-arab-emirates-2022-08-30"
 type: article
-quality: 39
-heat: 39
+quality: 69
+heat: 69
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: MarketWatch
+  domain: marketwatch.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - AWS AI
   - AI
 
 images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
+  - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+    width: 1200
+    height: 630
     isCached: true
 
-secured: "T3SoXpiXcrSnYujXEuct1tSIE137yhSDc5oPS3NwZolUP5ZBxTUFUo6qZBoT4mJyjQ96veUzp991eFImaMKUMFdi2vtb/cho8jp2oAQxMkwIwMljxkawm19iIItn5yINLuTxkVH0WRNdTTeKArxOb6Ua5VRSH9yT3rQrBFZla25s4Eq0AMXRk5jj/7z4/iRBcYm93nMiQFrnUTnLAFKTjKsG8C7o/8JxdebF3rup4O8fHmgcHnGuxrDsGSGSaevhdp6k6MxF5hWMRJXKojoSBuPCDiQmp4n7i8Pwmgkpn/YwQ9Ln1X8EMyYVZvn5bGQRsadJRHIV6Wbghb4bZzahVHmqA/qsk4a/HJd2jE2tFu4=;3Lln5mMKrh2gZ7b2v3vRpQ=="
+secured: "odpqw2tAeusWlQKh14mQBAhBTFctaJzBc0aNk5w0SsngQ4ZBNn0o36vd6APoewPrpH+3AJMPtUik5lEzfWTz+dVKqG4X5C9BNXeLJstwtuY7/7jxO7m6KFZZPeCH4QWf56Nkamm/RVBfGMWA4pgShGWI1YS/KNVEiZE1KMhwZXzEHV88QgJDl10kjPYbzmJ7fB3uA7qIA85wOikuBZnHaBhSiiXzPNtzL84sl+vSjcGmlLSXkI+/b4hd+JbU9ToGRCxroity4vojiteESA6J8SkGjyPNan0hjtgYGVyLlci8ZXF8Lb51NaoDeGbr6CPRY5cQQwsLu084KA/aUP4fe/xeviHF5g7UafLuxBlq2Jw=;AnSzqsJ9CTS55fh7qG8dPQ=="
 ---
 

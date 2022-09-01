@@ -2,6 +2,385 @@
   "page": 30,
   "value": [
     {
+      "path": "_news/2022-08-05-tesla-teases-optimus-humanoid-robot-prototype-for-septembers-ai-day.md",
+      "title": "Tesla Teases “Optimus” Humanoid Robot Prototype For September’s AI Day",
+      "excerpt": "Annual Meeting of Stockholders, the company showed a new teaser image of the humanoid robot that was first shown off at AI Day in 2021. The image, part of a promotional campaign for AI Day: Part II that’s set to be held on September 30,",
+      "sourceUrl": null,
+      "webUrl": "https://www.carscoops.com/2022/08/tesla-teases-optimus-humanoid-robot-prototype-for-septembers-ai-day/",
+      "originalUrl": "https://www.carscoops.com/2022/08/tesla-teases-optimus-humanoid-robot-prototype-for-septembers-ai-day/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.carscoops.com/2022/08/tesla-teases-optimus-humanoid-robot-prototype-for-septembers-ai-day/amp/",
+      "cdnAmpWebUrl": "https://www-carscoops-com.cdn.ampproject.org/c/s/www.carscoops.com/2022/08/tesla-teases-optimus-humanoid-robot-prototype-for-septembers-ai-day/amp/",
+      "publishedDateTime": "2022-08-05T07:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Carscoops",
+        "domain": "carscoops.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-veritone-extends-partnership-with-aws.md",
+      "title": "Veritone Extends Partnership with AWS",
+      "excerpt": "Veritone, creator of aiWARE, a hyper-expansive enterprise artificial intelligence (AI) platform, has extended its work with Amazon and Amazon Web Services (AWS) to support its media and entertainment customers. Last year, Veritone joined the AWS for Media ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154274",
+      "originalUrl": "https://www.destinationcrm.com/Articles/ReadArticle.aspx?ArticleID=154274",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://dzceab466r34n.cloudfront.net/Images/IssueImages/147142-0822_SCS_UJET_480x610-ORG.png",
+          "width": 480,
+          "height": 610,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-05T07:14:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Destination CRM",
+        "domain": "destinationcrm.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AWS AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-cybersecurity-cloud-and-ai-robotics-the-new-digital-utilities.md",
+      "title": "Cybersecurity, Cloud and AI & Robotics: The New Digital Utilities",
+      "excerpt": "With a greater digital surface area for most enterprises and consumers alike, the cyberspace vulnerability landscape has expanded significantly in the last few years alongside an evolution in the type,",
+      "sourceUrl": null,
+      "webUrl": "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities",
+      "originalUrl": "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 119,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities?amp",
+      "cdnAmpWebUrl": "https://www-nasdaq-com.cdn.ampproject.org/c/s/www.nasdaq.com/articles/cybersecurity-cloud-and-ai-robotics%3A-the-new-digital-utilities?amp",
+      "publishedDateTime": "2022-08-05T07:13:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Nasdaq",
+        "domain": "nasdaq.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-new-smart-glasses-add-subtitles-to-any-conversation.md",
+      "title": "New smart glasses add subtitles to any conversation",
+      "excerpt": "The software’s sophisticated voice recognition capabilities can identify who’s speaking and will soon have the power to translate languages, voice tones, accents, and pitch. The glasses will ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.walesonline.co.uk/whats-on/shopping/smart-glasses-subtitles-text-conversation-24681962",
+      "originalUrl": "https://www.walesonline.co.uk/whats-on/shopping/smart-glasses-subtitles-text-conversation-24681962",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i2-prod.walesonline.co.uk/news/uk-news/article24681950.ece/ALTERNATES/s1200/1_image001-70.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.walesonline.co.uk/whats-on/shopping/smart-glasses-subtitles-text-conversation-24681962.amp",
+      "cdnAmpWebUrl": "https://www-walesonline-co-uk.cdn.ampproject.org/c/s/www.walesonline.co.uk/whats-on/shopping/smart-glasses-subtitles-text-conversation-24681962.amp",
+      "publishedDateTime": "2022-08-05T06:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Wales Online",
+        "domain": "walesonline.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Natural Language Processing",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-ibm-is-continuing-to-hire-senior-exec-says-despite-economic-turbulence.md",
+      "title": "IBM is ‘continuing to hire,’ senior exec says despite economic turbulence",
+      "excerpt": "In our industry, areas around cloud, AI [artificial intelligence] and security continue to be in high demand.” IBM and Red Hat both have job openings in the Triangle, as reported in WRAL ...",
+      "sourceUrl": null,
+      "webUrl": "https://wraltechwire.com/2022/08/05/ibm-is-continuing-to-hire-senior-exec-says-despite-economic-turbulence/",
+      "originalUrl": "https://wraltechwire.com/2022/08/05/ibm-is-continuing-to-hire-senior-exec-says-despite-economic-turbulence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://wraltechwire.com/wp-content/uploads/2021/09/happyfourth-1-5.jpg",
+          "width": 6000,
+          "height": 4000,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wraltechwire.com/2022/08/05/ibm-is-continuing-to-hire-senior-exec-says-despite-economic-turbulence/?amp=1",
+      "cdnAmpWebUrl": "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/08/05/ibm-is-continuing-to-hire-senior-exec-says-despite-economic-turbulence/?amp=1",
+      "publishedDateTime": "2022-08-05T05:50:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WRAL TechWire",
+        "domain": "wraltechwire.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "IBM AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-first-they-banned-facial-recognition-now-theyre-not-so-sure.md",
+      "title": "First, they banned facial recognition. Now they're not so sure",
+      "excerpt": "Over the past few years, a number of cities and some states enacted rules banning or restricting local police use of facial-recognition software. Now, in a handful of locations around the country ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.kake.com/story/47040949/first-they-banned-facial-recognition-now-theyre-not-so-sure",
+      "originalUrl": "https://www.kake.com/story/47040949/first-they-banned-facial-recognition-now-theyre-not-so-sure",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-05T05:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "KAKE.com",
+        "domain": "kake.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-smart-microrobots-learn-how-to-swim-and-navigate-with-artificial-intelligence.md",
+      "title": "Smart microrobots learn how to swim and navigate with artificial intelligence",
+      "excerpt": "Researchers from Santa Clara University, New Jersey Institute of Technology and the University of Hong Kong have been able to successfully teach microrobots how to swim via deep reinforcement learning,",
+      "sourceUrl": null,
+      "webUrl": "https://techxplore.com/news/2022-08-smart-microrobots-artificial-intelligence.html",
+      "originalUrl": "https://techxplore.com/news/2022-08-smart-microrobots-artificial-intelligence.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/2022/smart-microrobots-lear.jpg",
+          "width": 1140,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techxplore.com/news/2022-08-smart-microrobots-artificial-intelligence.amp",
+      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-smart-microrobots-artificial-intelligence.amp",
+      "publishedDateTime": "2022-08-05T04:48:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "techxplore",
+        "domain": "techxplore.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-5-moral-dilemmas-that-self-driving-cars-face-today.md",
+      "title": "5 Moral Dilemmas That Self-Driving Cars Face Today",
+      "excerpt": "The ethics of self-driving cars have been questioned for a long time for accident-related instances. Even today, self-driving cars face several dilemmas that need to be addressed urgently.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/",
+      "originalUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 114,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62e8dc41e31cb7d5797b70bd/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 1200,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/naveenjoshi/2022/08/05/5-moral-dilemmas-that-self-driving-cars-face-today/amp/",
+      "publishedDateTime": "2022-08-05T04:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-05-meta-is-putting-its-latest-ai-chatbot-on-the-web-for-the-public-to-talk-to.md",
+      "title": "Meta is putting its latest AI chatbot on the web for the public to talk to",
+      "excerpt": "Crucially, says Mary Williamson, a research engineering manager at Facebook AI Research (FAIR), while Tay was designed to learn in real time from user interactions, BlenderBot is a static model.",
+      "sourceUrl": null,
+      "webUrl": "https://www.theverge.com/2022/8/5/23293281/meta-ai-chatbot-blenderbot-3-web-access-research-safety",
+      "originalUrl": "https://www.theverge.com/2022/8/5/23293281/meta-ai-chatbot-blenderbot-3-web-access-research-safety",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn.vox-cdn.com/thumbor/_wZV6QhjvS43T94AxGKXf0cp5i4=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22977156/acastro_211101_1777_meta_0002.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-05T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Verge",
+        "domain": "theverge.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/theverge.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-05-mit-creates-artificial-neuron-1-million-times-faster-than-in-human-brain.md",
       "title": "MIT creates artificial neuron 1 million times faster than in human brain",
       "excerpt": "The increase in potential processing speed, researcher Murat Onen said, is not comparable to a \"faster car\", but to a “spacecraft.”",
@@ -698,430 +1077,6 @@
         "AI",
         "Machine Learning",
         "AI in Security"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence.md",
-      "title": "Aragon Research Announces the 2022 Hot Vendors in Computer Vision, Intelligent Contact Centers, and Conversational Artificial Intelligence",
-      "excerpt": "Aragon Research Announces the 2022 Hot Vendors in Computer Vision, Intelligent Contact Centers, and Conversational Artificial Intelligence Aug 04,",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence-2022-08-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/aragon-research-announces-the-2022-hot-vendors-in-computer-vision-intelligent-contact-centers-and-conversational-artificial-intelligence-2022-08-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T08:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-proteins-and-natural-language-artificial-intelligence-enables-the-design-of-novel-proteins.md",
-      "title": "Proteins and natural language: Artificial intelligence enables the design of novel proteins",
-      "excerpt": "Artificial intelligence (AI) has created new possibilities for designing tailor-made proteins to solve everything from medical to ecological problems. A research team at the University of Bayreuth led by Prof.",
-      "sourceUrl": null,
-      "webUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.html",
-      "originalUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/proteins-and-natural-l.jpg",
-          "width": 2835,
-          "height": 1929,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.amp",
-      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-08-proteins-natural-language-artificial-intelligence.amp",
-      "publishedDateTime": "2022-08-04T07:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Phys.org",
-        "domain": "phys.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-speech-and-voice-recognition-technology-market-insights-and-in-depth-analysis-2022-2028-with-types-products-and-key-players.md",
-      "title": "Speech and Voice Recognition Technology Market Insights and In-Depth Analysis 2022-2028 with Types, Products and Key Players",
-      "excerpt": "Aug 04, 2022 (Market Insight Reports) -- The research report on Speech and Voice Recognition Technology market report provides a granular assessment of this industry vertical The report provides a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-insights-and-in-depth-analysis-2022-2028-with-types-products-and-key-players-2022-08-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/speech-and-voice-recognition-technology-market-insights-and-in-depth-analysis-2022-2028-with-types-products-and-key-players-2022-08-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T07:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-veritone-creates-ai-driven-revenue-opportunities-for-enterprise-media-entertainment-companies-on-aws-morningstar.md",
-      "title": "Veritone Creates AI-Driven Revenue Opportunities for Enterprise Media & Entertainment Companies on AWS | Morningstar",
-      "excerpt": "Get 7 Days Free Sign In Sign In Topics",
-      "sourceUrl": null,
-      "webUrl": "https://www.morningstar.com/news/business-wire/20220804005271/veritone-creates-ai-driven-revenue-opportunities-for-enterprise-media-entertainment-companies-on-aws",
-      "originalUrl": "https://www.morningstar.com/news/business-wire/20220804005271/veritone-creates-ai-driven-revenue-opportunities-for-enterprise-media-entertainment-companies-on-aws",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T05:26:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Morningstar%2c Inc.",
-        "domain": "morningstar.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-cognitive-solution-market-by-latest-trend-growing-demand-and-technology-advancement-2022-2031.md",
-      "title": "Cognitive Solution Market By Latest Trend, Growing Demand And Technology Advancement 2022-2031",
-      "excerpt": "Restraints and opportunity analysis is a tool used in assessing the potential for new products and services ... World's Biggest Cognitive Solution Market Specific manufacturing Microsoft ...",
-      "sourceUrl": null,
-      "webUrl": "https://menafn.com/1104645277/Cognitive-Solution-Market-By-Latest-Trend-Growing-Demand-And-Technology-Advancement-2022-2031",
-      "originalUrl": "https://menafn.com/1104645277/Cognitive-Solution-Market-By-Latest-Trend-Growing-Demand-And-Technology-Advancement-2022-2031",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://menafn.com/updates/pr/2022-08/04/EP_0a768image_story.jpeg",
-          "width": 286,
-          "height": 286,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T04:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Middle East North Africa Financial Network",
-        "domain": "menafn.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-microsoft-becomes-australian-space-hubs-first-constellation-partner.md",
-      "title": "Microsoft becomes Australian space hub's first 'Constellation Partner'",
-      "excerpt": "As part of the agreement, the tech giant will provide hub members with Microsoft Azure Space engineers as they build products for commercial use",
-      "sourceUrl": null,
-      "webUrl": "https://www.itpro.co.uk/cloud/368734/microsoft-becomes-first-constellation-partner-at-australia-space-hub",
-      "originalUrl": "https://www.itpro.co.uk/cloud/368734/microsoft-becomes-first-constellation-partner-at-australia-space-hub",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.itpro.co.uk/image/upload/s--X-WVjvBW--/f_auto,t_content-image-full-desktop@1/v1570816538/itpro/2018/12/musktomarsshutterstock_1047890749.jpg",
-          "width": 1260,
-          "height": 710,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T04:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "IT Pro",
-        "domain": "itpro.co.uk",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/itpro.co.uk-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-veritone-creates-ai-driven-revenue-opportunities-for-enterprise-media-entertainment-companies-on-aws.md",
-      "title": "Veritone Creates AI-Driven Revenue Opportunities for Enterprise Media & Entertainment Companies on AWS",
-      "excerpt": "a hyper-expansive enterprise artificial intelligence (AI) platform, has announced an extension of its work with Amazon (NASDAQ: AMZN) and Amazon Web Services (AWS) to support its Media ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.marketwatch.com/press-release/veritone-creates-ai-driven-revenue-opportunities-for-enterprise-media-entertainment-companies-on-aws-2022-08-04",
-      "originalUrl": "https://www.marketwatch.com/press-release/veritone-creates-ai-driven-revenue-opportunities-for-enterprise-media-entertainment-companies-on-aws-2022-08-04",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T04:05:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MarketWatch",
-        "domain": "marketwatch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-demand-for-inspection-robots-expected-to-spike-by-2023.md",
-      "title": "Demand for Inspection Robots Expected to Spike by 2023",
-      "excerpt": "Shenhao speculates that inspection robots will gain popularity in three major application fields: energy, rail and power stations.",
-      "sourceUrl": null,
-      "webUrl": "https://railway-news.com/demand-for-inspection-robots-expected-to-spike-by-2023/",
-      "originalUrl": "https://railway-news.com/demand-for-inspection-robots-expected-to-spike-by-2023/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://railway-news.com/wp-content/uploads/2022/08/Shenhao-Inspection-Robots.png",
-          "width": 1200,
-          "height": 900,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-04T03:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "railway-news",
-        "domain": "railway-news.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-04-cutting-through-the-web3-hype-ai-in-the-decentralized-web.md",
-      "title": "Cutting Through The Web3 Hype: AI In The Decentralized Web",
-      "excerpt": "Web3 is a high-level concept that describes a future version of the internet in which power and benefits are more equitably shared by the virtue of decentralization. The co",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/04/cutting-through-the-web3-hype-ai-in-the-decentralized-web/",
-      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/04/cutting-through-the-web3-hype-ai-in-the-decentralized-web/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve/62b9d358b54b5849577a1f0b/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/04/cutting-through-the-web3-hype-ai-in-the-decentralized-web/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/04/cutting-through-the-web3-hype-ai-in-the-decentralized-web/amp/",
-      "publishedDateTime": "2022-08-04T03:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

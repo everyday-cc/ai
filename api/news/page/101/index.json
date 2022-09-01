@@ -2,6 +2,404 @@
   "page": 101,
   "value": [
     {
+      "path": "_news/2022-06-13-ai-system-facilitates-plant-imaging-from-germination-to-root-development.md",
+      "title": "AI system facilitates plant imaging from germination to root development",
+      "excerpt": "For plant biologists, understanding how plants grow and interact with soil is vital for selecting resilient crops that can efficiently take up water and nutrients. But how do you monitor what is happening underground?",
+      "sourceUrl": null,
+      "webUrl": "https://phys.org/news/2022-06-ai-imaging-germination-root.html",
+      "originalUrl": "https://phys.org/news/2022-06-ai-imaging-germination-root.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://scx2.b-cdn.net/gfx/news/hires/2022/ai-system-facilitates.jpg",
+          "width": 2826,
+          "height": 1373,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://phys.org/news/2022-06-ai-imaging-germination-root.amp",
+      "cdnAmpWebUrl": "https://phys-org.cdn.ampproject.org/c/s/phys.org/news/2022-06-ai-imaging-germination-root.amp",
+      "publishedDateTime": "2022-06-13T07:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Phys.org",
+        "domain": "phys.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-artificial-intelligence-in-accounting-market-opportunities-analysis-and-forecasts-report-2027.md",
+      "title": "Artificial Intelligence in Accounting Market Opportunities, Analysis and Forecasts Report 2027",
+      "excerpt": "Global Artificial Intelligence in Accounting Market to reach USD 15.66 billion by 2027. Global Artificial Intelligence in Accounting Market is valued approximately USD 0.988 billion in 2020 and is anticipated to grow with a healthy growth rate of more than 48.",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-opportunities-analysis-and-forecasts-report-2027-2022-06-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-accounting-market-opportunities-analysis-and-forecasts-report-2027-2022-06-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 95,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T07:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-what-ai-developers-need-to-know-about-artificial-intelligence-ethics.md",
+      "title": "What AI developers need to know about artificial intelligence ethics",
+      "excerpt": "Some tools and platforms promise fair and balanced AI, but tools and platforms alone won't deliver ethical AI solutions.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/",
+      "originalUrl": "https://www.zdnet.com/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 135,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/what-ai-developers-need-to-know-about-artificial-intelligence-ethics/",
+      "publishedDateTime": "2022-06-13T06:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Ethics",
+        "AI",
+        "AI in Healthcare",
+        "AI in Autos",
+        "Google AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-philly-researchers-are-using-the-latest-in-ai-to-improve-cancer-care.md",
+      "title": "Philly Researchers Are Using the Latest in AI to Improve Cancer Care",
+      "excerpt": "A Fox Chase Cancer Center team is using AlphaFold AI to evolve our understanding of biology by accurately predicting protein structures.",
+      "sourceUrl": null,
+      "webUrl": "https://www.phillymag.com/sponsor-content/philly-researchers-alphafold/",
+      "originalUrl": "https://www.phillymag.com/sponsor-content/philly-researchers-alphafold/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn10.phillymag.com/wp-content/uploads/sites/3/2022/06/drdunbrack.jpg",
+          "width": 900,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T06:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Philadelphia Mag",
+        "domain": "phillymag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-cognitive-behavioral-cbt-therapists-in-sammamish-wa.md",
+      "title": "Cognitive Behavioral (CBT) Therapists in Sammamish, WA",
+      "excerpt": "My therapeutic style is warm, engaging, empathic and collaborative, and is rooted in evidence-based approaches like Cognitive behavioral Therapy,Family Systems and Acceptance and Commitment therapy.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/us/therapists/wa/sammamish?category=cognitive-behavioral-cbt",
+      "originalUrl": "https://www.psychologytoday.com/us/therapists/wa/sammamish?category=cognitive-behavioral-cbt",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T06:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-a-worrying-phone-call-adds-to-concerns-about-sen-dianne-feinsteins-cognitive-health.md",
+      "title": "A worrying phone call adds to concerns about Sen. Dianne Feinstein's cognitive health",
+      "excerpt": "And while Traister's feature piece does center on Feinstein's long and storied career, it also evokes questions about the senator's cognitive health. NPR's All Things Considered spoke with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.npr.org/2022/06/13/1104843151/senator-dianne-feinstein-cognitive-health-continues-to-raise-concerns-traister",
+      "originalUrl": "https://www.npr.org/2022/06/13/1104843151/senator-dianne-feinstein-cognitive-health-continues-to-raise-concerns-traister",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.npr.org/assets/img/2022/06/13/gettyimages-1240601779_wide-3616d7a7c5252ab0382618dd132f940c65b86c60.jpg?s=1400",
+          "width": 1400,
+          "height": 787,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T06:12:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "NPR",
+        "domain": "npr.org",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-artificial-intelligence-in-the-transportation-market-to-reflect-a-holistic-expansion-during-the-assessment-period-2022-2030.md",
+      "title": "Artificial Intelligence in the Transportation Market to Reflect a Holistic Expansion during the Assessment Period 2022-2030",
+      "excerpt": "The global artificial intelligence in the transportation market would gain traction, owing to the growing demand for traffic management and increasing deployment of self-driving vehicles among the ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-to-reflect-a-holistic-expansion-during-the-assessment-period-2022-2030-2022-06-13",
+      "originalUrl": "https://www.marketwatch.com/press-release/artificial-intelligence-in-the-transportation-market-to-reflect-a-holistic-expansion-during-the-assessment-period-2022-2030-2022-06-13",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T05:46:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-the-data-science-and-ai-market-may-be-out-for-a-recalibration.md",
+      "title": "The data science and AI market may be out for a recalibration",
+      "excerpt": "Being a data scientist was supposed to be \"the sexiest job of the 21st century\". Whether the famous Harvard Business Review aphorism of 2012 holds water is somewhat subjective, depending on how you interpret \"sexy\".",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/",
+      "originalUrl": "https://www.zdnet.com/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 101,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/a9504caf2ddfb0b7c19917de3dbf34532f282eac/2021/07/16/95711752-ec77-44fc-8dc0-70aa6204d707/data-science-shutterstock-1081970570.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 802,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/the-data-science-and-ai-market-may-be-out-for-a-recalibration/",
+      "publishedDateTime": "2022-06-13T05:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-06-13-the-worldwide-artificial-intelligence-ai-robots-industry-is-expected-to-reach-383-billion-by-2027.md",
+      "title": "The Worldwide Artificial Intelligence (AI) Robots Industry Is Expected To Reach $38.3 Billion By 2027",
+      "excerpt": "Dublin, June 13, 2022 (GLOBE NEWSWIRE) -- The 'Global Artificial Intelligence (AI) Robots Market (2022-2027) by Offering, Robot, Technology, Deployment Mode, Application, Geography, Competitive ...",
+      "sourceUrl": null,
+      "webUrl": "https://menafn.com/1104365563/The-Worldwide-Artificial-Intelligence-AI-Robots-Industry-Is-Expected-To-Reach-383-Billion-By-2027",
+      "originalUrl": "https://menafn.com/1104365563/The-Worldwide-Artificial-Intelligence-AI-Robots-Industry-Is-Expected-To-Reach-383-Billion-By-2027",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://menafn.com/Updates/index/HTML_Images/NewsEn_MoreStories_img_1.jpg?388942",
+          "width": 443,
+          "height": 250,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-13T05:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Middle East North Africa Financial Network",
+        "domain": "menafn.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-13-thrive-instead-of-just-surviving-your-hr-career-with-the-13th-batch-of-iim-calcuttas-hr-management-programme.md",
       "title": "Thrive instead of just surviving your HR career with the 13th batch of IIM Calcutta's HR Management Programme",
       "excerpt": "As part of the programme, participants will also receive exclusive access to Emeritus Career Services ... Many Emeritus alumni work at Microsoft, ICICI Bank, Infosys, HDFC, Airbnb, TCS, Ola ...",
@@ -729,421 +1127,6 @@
       "topics": [
         "AI",
         "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact.md",
-      "title": "Putting the ‘S’ in ESG: How AI and automation can drive social impact",
-      "excerpt": "Rather than taking the traditional training approach, we believe that AI and automation technologies have the potential to help companies reduce biases in processes at scale. Organizations can ...",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/",
-      "originalUrl": "https://venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2020/09/GettyImages-1204589722.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 556,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/2022/06/12/putting-the-s-in-esg-how-ai-and-automation-can-drive-social-impact/amp/",
-      "publishedDateTime": "2022-06-12T09:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-google-engineer-on-leave-after-he-claims-ai-program-has-gone-sentient.md",
-      "title": "Google Engineer On Leave After He Claims AI Program Has Gone Sentient",
-      "excerpt": "Artificially intelligent chatbot generator LaMDA wants “to be acknowledged as an employee of Google rather than as property,\" says engineer Blake Lemoine.",
-      "sourceUrl": null,
-      "webUrl": "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?ncid=engmodushpmg00000004",
-      "originalUrl": "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e?ncid=engmodushpmg00000004",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 679,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.huffingtonpost.com/asset/62a56658250000461b473745.jpeg?cache=IyXMvacHho&ops=1778_1000",
-          "width": 1778,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp",
-      "cdnAmpWebUrl": "https://www-huffpost-com.cdn.ampproject.org/c/s/www.huffpost.com/entry/blake-lemoine-lamda-sentient-artificial-intelligence-google_n_62a5613ee4b06169ca8c0a2e/amp",
-      "publishedDateTime": "2022-06-12T08:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "HuffPost",
-        "domain": "huffpost.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/huffpost.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-amazon-halts-police-use-of-its-facial-recognition-technology.md",
-      "title": "Amazon Halts Police Use Of Its Facial Recognition Technology",
-      "excerpt": "In its statement, Amazon officials say the company supports federal regulation for its algorithm-driven facial recognition software, known as Rekognition. \"We hope this one-year moratorium might ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.wbur.org/npr/874418013/amazon-halts-police-use-of-its-facial-recognition-technology",
-      "originalUrl": "https://www.wbur.org/npr/874418013/amazon-halts-police-use-of-its-facial-recognition-technology",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "http://media.npr.org/assets/img/2020/06/10/ap_17047619531765_custom-5b1d8cc94223de6bff2dd1703307b51eb5f3c953.jpg?s=6",
-          "width": 948,
-          "height": 631,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-12T05:55:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WBUR",
-        "domain": "wbur.org",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AWS AI",
-        "AI",
-        "Computer Vision"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-how-can-artificial-intelligence-be-the-next-big-thing-in-marketing.md",
-      "title": "How can artificial intelligence be the next big thing in marketing?",
-      "excerpt": "We all know that without a planned marketing strategy, a business cannot thrive. But, the marketing industry is going through a disruption, and as a result of this, we",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/readersblog/faisal-abidi-writes/how-can-artificial-intelligence-be-the-next-big-thing-in-marketing-43326/",
-      "originalUrl": "https://timesofindia.indiatimes.com/readersblog/faisal-abidi-writes/how-can-artificial-intelligence-be-the-next-big-thing-in-marketing-43326/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 86,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/photo/75476733.cms",
-          "width": 640,
-          "height": 360,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-12T01:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "India Times",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system.md",
-      "title": "Dubai to boost public bus ridership, cut journey times using new Artificial Intelligence system",
-      "excerpt": "High-level RTA meeting discusses ‘City Brain’ project, recently-opened bus stations Dubai: The use of advanced technology and artificial intelligence (AI) has contributed to improving the public bus service and its operational efficiency in Dubai,",
-      "sourceUrl": null,
-      "webUrl": "https://gulfnews.com/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772",
-      "originalUrl": "https://gulfnews.com/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imagevars.gulfnews.com/2022/06/12/------_----_---_-------_-----_---------_-------1655020936624_18156ef5dbd_medium.jpg",
-          "width": 540,
-          "height": 405,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://gulfnews.com/amp/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772",
-      "cdnAmpWebUrl": "https://gulfnews-com.cdn.ampproject.org/c/s/gulfnews.com/amp/uae/dubai-to-boost-public-bus-ridership-cut-journey-times-using-new-artificial-intelligence-system-1.88534772",
-      "publishedDateTime": "2022-06-12T01:13:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gulf News",
-        "domain": "gulfnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-long-term-respiratory-cognitive-and-mental-health-issues-tied-to-vaping-study-says.md",
-      "title": "Long-term respiratory, cognitive and mental health issues tied to vaping, study says",
-      "excerpt": "SALT LAKE CITY — Lung injuries from e-cigarettes or vaping can lead to long-term issues including respiratory problems, cognitive impairment and mental health issues, according to an ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.ksl.com/article/50418868/long-term-respiratory-cognitive-and-mental-health-issues-tied-to-vaping-study-says",
-      "originalUrl": "https://www.ksl.com/article/50418868/long-term-respiratory-cognitive-and-mental-health-issues-tied-to-vaping-study-says",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://img.ksl.com/slc/2654/265403/26540377.jpg?filter=kslv2/responsive_story_lg",
-          "width": 1228,
-          "height": 690,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-12T00:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "KSL",
-        "domain": "ksl.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-hyundai-launches-driverless-ride-hailing-service-in-seoul-south-korea.md",
-      "title": "Hyundai launches driverless ride-hailing service in Seoul, South Korea",
-      "excerpt": "Automaker Hyundai has introduced its Level 4 autonomous RoboRide service in the Gangnam district of Seoul, South Korea. The Hyundai Ioniq 5 is at the heart of the deployment and will see a safety ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.gizmochina.com/2022/06/12/hyundai-launches-driverless-ride-hailing-service-in-seoul-south-korea/",
-      "originalUrl": "https://www.gizmochina.com/2022/06/12/hyundai-launches-driverless-ride-hailing-service-in-seoul-south-korea/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.gizmochina.com/wp-content/uploads/2022/06/hyundai-roboride.jpg",
-          "width": 1920,
-          "height": 1080,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.gizmochina.com/2022/06/12/hyundai-launches-driverless-ride-hailing-service-in-seoul-south-korea/?amp=1",
-      "cdnAmpWebUrl": "https://www-gizmochina-com.cdn.ampproject.org/c/s/www.gizmochina.com/2022/06/12/hyundai-launches-driverless-ride-hailing-service-in-seoul-south-korea/?amp=1",
-      "publishedDateTime": "2022-06-11T21:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Gizmochina",
-        "domain": "gizmochina.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/gizmochina.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-12-artificial-intelligence-is-shaping-the-future-of-healthcare-industry.md",
-      "title": "Artificial intelligence is shaping the Future of Healthcare Industry",
-      "excerpt": "The healthcare industry is under constant pressure to improve diagnosis and treatment while containing costs. As a result, there is significant interest in using artificial intelligence (AI) to address these challenges.",
-      "sourceUrl": null,
-      "webUrl": "https://techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/",
-      "originalUrl": "https://techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techbullion.com/wp-content/uploads/2022/06/Artificial-intelligence-in-healthcare.jpg",
-          "width": 800,
-          "height": 350,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/amp/",
-      "cdnAmpWebUrl": "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/artificial-intelligence-is-shaping-the-future-of-healthcare-industry/amp/",
-      "publishedDateTime": "2022-06-11T10:20:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Impacts",
-        "domain": "techbullion.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-11-artificial-intelligence-helps-identify-benign-thyroid-nodules.md",
-      "title": "Artificial Intelligence Helps Identify Benign Thyroid Nodules",
-      "excerpt": "Artificial intelligence (AI) pinpoints thyroid nodules noticed on thyroid ultrasound that are unlikely to be cancerous.",
-      "sourceUrl": null,
-      "webUrl": "https://www.medindia.net/news/artificial-intelligence-helps-identify-benign-thyroid-nodules-207537-1.htm",
-      "originalUrl": "https://www.medindia.net/news/artificial-intelligence-helps-identify-benign-thyroid-nodules-207537-1.htm",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 71,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.medindia.net/amp-images/health-images/thyroid6.jpg",
-          "width": 1200,
-          "height": 1000,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.medindia.net/amp/news/artificial-intelligence-helps-identify-benign-thyroid-nodules-207537-1.htm",
-      "cdnAmpWebUrl": "https://www-medindia-net.cdn.ampproject.org/c/s/www.medindia.net/amp/news/artificial-intelligence-helps-identify-benign-thyroid-nodules-207537-1.htm",
-      "publishedDateTime": "2022-06-11T09:50:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Medindia",
-        "domain": "medindia.net",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI",
-        "AI in Autos"
       ]
     }
   ],

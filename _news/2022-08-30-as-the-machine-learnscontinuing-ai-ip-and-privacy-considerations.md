@@ -58,20 +58,6 @@ related:
         width: 2500
         height: 992
         isCached: true
-  - title: "The Democratization of Machine Learning: Here’s how Applied Machine Learning Days (AMLD) Africa impacted (almost) the whole continent"
-    excerpt: "AMLD Africa ( a free Machine Learning conference, makes it possible for anyone in Africa to learn about AI with world-class speakers and entities.  15.7 trillion US$. This is the expected contribution of Artificial Intelligence to the global economy by 2030 according to PwC’s report “Sizing the Price” ( Here’s how Applied Machine Learning Days (AMLD) Africa is offering free access to high-quality education around AI to democratize AI in Africa,"
-    publishedDateTime: 2022-09-01T06:04:00Z
-    webUrl: "https://www.zawya.com/en/press-release/africa-press-releases/the-democratization-of-machine-learning-heres-how-applied-machine-learning-days-amld-africa-impacted-almost-bai0nowi"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 23
-    images:
-      - url: "https://static.zawya.com/version/c:ODFkNTRmMzgtZDAwMC00:YWRmOWVk/fpr_3946_2022_03_01.jpg?f=1%3A1&q=0.75&w=3840"
-        width: 337
-        height: 337
-        isCached: true
   - title: "How AI is accelerating front-end innovation"
     excerpt: "Artificial intelligence (AI) is emerging as a valuable tool for food and beverage makers looking to bolster front-end innovation. Manufacturers, restaurants, ingredient suppliers, flavor houses and more are leveraging insights from machine learning to get closer to consumer trends and market more nuanced propositions."
     publishedDateTime: 2022-08-31T12:12:00Z

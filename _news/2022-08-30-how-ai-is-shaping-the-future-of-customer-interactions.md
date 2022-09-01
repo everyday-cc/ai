@@ -25,22 +25,31 @@ images:
     isCached: true
 
 related:
-  - title: "The future of malicious artificial intelligence applications is here"
-    excerpt: "But it also opened a Pandora’s box of malicious AI applications. Text-generating AIs — or “language models” — can now be used to massively augment online influence campaigns. They can craft complex and compelling arguments,"
-    publishedDateTime: 2022-08-29T11:00:00Z
-    webUrl: "https://www.thestar.com/opinion/contributors/2022/08/29/the-future-of-malicious-artificial-intelligence-applications-is-here.html"
-    ampWebUrl: "https://www.thestar.com/amp/opinion/contributors/2022/08/29/the-future-of-malicious-artificial-intelligence-applications-is-here.html"
-    cdnAmpWebUrl: "https://www-thestar-com.cdn.ampproject.org/c/s/www.thestar.com/amp/opinion/contributors/2022/08/29/the-future-of-malicious-artificial-intelligence-applications-is-here.html"
+  - title: "In The Face Of Recession, Investing In AI Is A Smarter Strategy Than Ever"
+    excerpt: "By making a few smart investments today, businesses can emerge from any oncoming recession, more effective and efficient than they were before."
+    publishedDateTime: 2022-09-01T11:15:00Z
+    webUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/"
+    ampWebUrl: "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/amp/"
+    cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/amp/"
     type: article
     provider:
-      name: The Star
-      domain: thestar.com
-    quality: 59
+      name: Forbes
+      domain: forbes.com
+    quality: 86
     images:
-      - url: "https://www.thestar.com/content/dam/thestar/opinion/contributors/2022/08/29/stratfords-hamlet-teaches-us-lessons-on-modern-day-survellience/hamlet.jpg.size.custom.crop.640x360.jpg"
-        width: 640
-        height: 360
+      - url: "https://imageio.forbes.com/specials-images/imageserve/5fc7e538b6f0e3645ec8ff41/0x0.jpg?format=jpg&width=1200"
+        width: 1200
+        height: 800
         isCached: true
+  - title: "AI Startup Replicant Is Transforming Customer Service Centers By Making Them More Automated—And More Accessible"
+    excerpt: "The company is harnessing artificial intelligence and machine learning technology in an effort to remake call centers everywhere."
+    publishedDateTime: 2022-08-30T18:19:00Z
+    webUrl: "https://www.forbes.com/sites/stevenaquino/2022/08/30/ai-startup-replicant-is-transforming-customer-service-centers-by-making-them-more-automated-and-more-accessible/"
+    type: article
+    provider:
+      name: Forbes
+      domain: forbes.com
+    quality: 27
 
 secured: "Ea2SwjXOsNXmKiv3tri1yBojGhsNmmRYaIEHc4rBUpGAO/5+7gw2wONGvj/id5NspRrOrVtIfi3aSiswRRdR9mUDfBdX4leDl5RYhxcjD3oLj3lXFbyuM0AS7AO4YWktJgHlLSUwFIwP+iM0CVa34G3WC6ZHARIXfECO3L/LFvQpPtURcNI3fBhaRDdJsL4jWC4OyxAXFsUOIFvemCE4E66xWnh7quBhudHbs8jF+L7kzPoBztcMJdfRKPxeP++MdNj4WZjxyEPkEVI4J0tfJD7oLplwbnKYQ8KAHiyNSIf004OAigXH9SJWiUtwijQp18Qt6f6Z68h3wClPDqFRvQ60rDpCAIr7oHScnSktIiI6VrIjqQg9nPXp2LPgpdJWKtCZnf2Y3/nbLRiUE5HJ0yA3t2e6Z2FfD3M5SRkGSwlzpUAM2cOTh7TigW/J2TRMagiR2b9OKdgsVEl3B4452RAa2iFKO2ogcdWUlaLyrhzN7iHlSn49HVfcdIa2ZYGf4vVD9FV/anaE2iWhzSNzKQ==;wwmlBcV45ZsY5I9uNaFibg=="
 ---

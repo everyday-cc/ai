@@ -2,6 +2,402 @@
   "page": 132,
   "value": [
     {
+      "path": "_news/2022-05-21-trifo-lucy-robot-vacuum-review.md",
+      "title": "Trifo Lucy Robot Vacuum review",
+      "excerpt": "Security is becoming a more and more prevalent issue and being able to monitor your home is the only way to have peace of mind ... from the robot’s camera, and with the ability to control ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.androidguys.com/reviews/accessory-reviews/trifo-lucy-robot-vacuum/",
+      "originalUrl": "https://www.androidguys.com/reviews/accessory-reviews/trifo-lucy-robot-vacuum/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.androidguys.com/wp-content/uploads/2022/05/trifo_hero.png",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.androidguys.com/reviews/accessory-reviews/trifo-lucy-robot-vacuum/amp/",
+      "cdnAmpWebUrl": "https://www-androidguys-com.cdn.ampproject.org/c/s/www.androidguys.com/reviews/accessory-reviews/trifo-lucy-robot-vacuum/amp/",
+      "publishedDateTime": "2022-05-21T03:07:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "AndroidGuys",
+        "domain": "androidguys.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-baidu-after-65-plunge-its-time-to-buy-this-chinese-tech-giant.md",
+      "title": "Baidu: After 65% Plunge, It's Time To Buy This Chinese Tech Giant",
+      "excerpt": "Against this backdrop, Baidu (NASDAQ:BIDU) emerges as a solid buy as investors assess receding risks and uncertainty related to the regulatory crackdown. Shares in the Chinese language internet ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.investing.com/analysis/baidu-after-65-plunge-its-time-to-buy-this-chinese-tech-giant-200624588",
+      "originalUrl": "https://www.investing.com/analysis/baidu-after-65-plunge-its-time-to-buy-this-chinese-tech-giant-200624588",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i-invdn-com.investing.com/redesign/images/seo/investingcom_analysis_og.jpg",
+          "width": 500,
+          "height": 328,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-21T01:23:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Investing.com",
+        "domain": "investing.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-computer-vision-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2030.md",
+      "title": "Computer Vision Market overview by recent opportunities, growth size, regional analysis and forecasts to 2030",
+      "excerpt": "May 20, 2022 (Alliance News via COMTEX) -- The report covers the analysis and forecast of a Computer Vision on global as well as regional level. The study provides historic data of 2016 along with ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.marketwatch.com/press-release/computer-vision-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2030-2022-05-20?mod=search_headline",
+      "originalUrl": "https://www.marketwatch.com/press-release/computer-vision-market-overview-by-recent-opportunities-growth-size-regional-analysis-and-forecasts-to-2030-2022-05-20?mod=search_headline",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-20T19:02:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "MarketWatch",
+        "domain": "marketwatch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/marketwatch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-can-ai-identify-patients-with-long-covid.md",
+      "title": "Can AI Identify Patients With Long COVID?",
+      "excerpt": "Long COVID refers to the condition where people experience long-term effects from their infection with the SARS CoV-2 virus that is responsible for the COVID-19 disease (Coronavirus disease 2019) pandemic according to the U.",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid",
+      "originalUrl": "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-05/pic0827814.jpg?itok=6-v41JVn",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/ca/blog/the-future-brain/202205/can-ai-identify-patients-long-covid?amp",
+      "publishedDateTime": "2022-05-20T14:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-trust-stamp-which-sells-facial-recognition-tools-to-ice-had-dozens-of-peoples-data-exposed-in-breach.md",
+      "title": "Trust Stamp, which sells facial recognition tools to ICE, had dozens of peoples' data exposed in breach",
+      "excerpt": "Dozens of names, addresses, and driver's license data were exposed in the breach, though it doesn't appear to include the data of migrants.",
+      "sourceUrl": null,
+      "webUrl": "https://www.businessinsider.com/trust-stamp-ice-data-breach-facial-recognition-contractor-demo-app-2022-5",
+      "originalUrl": "https://www.businessinsider.com/trust-stamp-ice-data-breach-facial-recognition-contractor-demo-app-2022-5",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 83,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i.insider.com/6286a4f8577b8a001827a928?width=1200&format=jpeg",
+          "width": 1200,
+          "height": 600,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.businessinsider.com/trust-stamp-ice-data-breach-facial-recognition-contractor-demo-app-2022-5?amp",
+      "cdnAmpWebUrl": "https://www-businessinsider-com.cdn.ampproject.org/c/s/www.businessinsider.com/trust-stamp-ice-data-breach-facial-recognition-contractor-demo-app-2022-5?amp",
+      "publishedDateTime": "2022-05-20T13:24:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-digital-biomarkers-are-healthcares-next-frontier.md",
+      "title": "Digital biomarkers are healthcare’s next frontier",
+      "excerpt": "Sunny Kumar, MD, MBA is a partner at GSR Ventures, an early-stage venture capital firm focused on healthcare technology ... the sensor data is analyzed with artificial intelligence (AI) and ...",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/05/20/digital-biomarkers-are-healthcares-next-frontier/",
+      "originalUrl": "https://techcrunch.com/2022/05/20/digital-biomarkers-are-healthcares-next-frontier/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 89,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-560115497.jpg?w=600",
+          "width": 600,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-20T13:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-litigation-capital-to-finance-claim-against-google-deepmind-for-unlawful-use-of-medical-records.md",
+      "title": "Litigation Capital to finance claim against Google, DeepMind for unlawful use of medical records",
+      "excerpt": "said it has entered into a litigation finance agreement for a new High Court claim on behalf of up to 1.6mln individuals against Google and DeepMind Technologies for the unlawful use of ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.proactiveinvestors.co.uk/companies/news/982280",
+      "originalUrl": "https://www.proactiveinvestors.co.uk/companies/news/982280",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-20T11:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Proactive Investors",
+        "domain": "proactiveinvestors.co.uk",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Google AI",
+        "AI",
+        "AI in Finance"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-could-brands-like-tesla-lure-you-into-buying-a-driverless-car.md",
+      "title": "Could Brands Like Tesla Lure You Into Buying a Driverless Car?",
+      "excerpt": "Established and emerging manufacturers have embarked on a journey to produce the most reliable driverless cars to compete in a growing market. But people still don’t trust AVs are safe, despite potential benefits of fuel efficiency,",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/",
+      "originalUrl": "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 154,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizmodo.com.au/wp-content/uploads/sites/2/2022/05/19/GettyImages-174038219.jpg?quality=80&resize=1280,720",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/amp/",
+      "cdnAmpWebUrl": "https://www-gizmodo-com-au.cdn.ampproject.org/c/s/www.gizmodo.com.au/2022/05/could-brands-like-tesla-lure-you-into-buying-a-driverless-car/amp/",
+      "publishedDateTime": "2022-05-20T11:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Gizmodo Australia",
+        "domain": "gizmodo.com.au",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-05-21-netflixs-love-death-robots-season-3-review-every-short-ranked-from-worst-to-best.md",
+      "title": "Netflix’s Love, Death & Robots Season 3 Review – Every Short Ranked From Worst To Best",
+      "excerpt": "Shaun Munro reviews season 3 of Love, Death & Robots… Netflix’s acclaimed animated anthology series Love, Death & Robots is back for its third season, and while this collection of nine episodes is likely the weakest of the bunch to date,",
+      "sourceUrl": null,
+      "webUrl": "https://www.flickeringmyth.com/2022/05/netflixs-love-death-robots-season-3-review-every-short-ranked-from-worst-to-best/",
+      "originalUrl": "https://www.flickeringmyth.com/2022/05/netflixs-love-death-robots-season-3-review-every-short-ranked-from-worst-to-best/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-05-20T10:41:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Flickeringmyth",
+        "domain": "flickeringmyth.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-05-21-ethics-in-the-ai-technology-and-information-age.md",
       "title": "Ethics in the AI, Technology, and Information Age",
       "excerpt": "Increasingly, technology, the Internet and social media are playing a major part in our lives. What should we think about the ethical issues that arise, such as the changing role of intelligent machines in this Information Age?",
@@ -700,418 +1096,6 @@
         "AI in Robotics",
         "AI",
         "AI Hardware"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-computer-chip-giant-asml-places-big-bets-on-a-tiny-future.md",
-      "title": "Computer chip giant ASML places big bets on a tiny future",
-      "excerpt": "ASML , a semiconductor industry and stock market giant, has to think smaller. Or maybe bigger. It is building machines the size of doubl",
-      "sourceUrl": null,
-      "webUrl": "https://www.reuters.com/technology/computer-chip-giant-asml-places-big-bets-tiny-future-2022-05-20/",
-      "originalUrl": "https://www.reuters.com/technology/computer-chip-giant-asml-places-big-bets-tiny-future-2022-05-20/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.reuters.com/resizer/SZxbVKNg5ab42dF-SY1sIlrnkEg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/P75Z23REDRJF7KMT5BBLFLHLAQ.jpg",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T02:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Reuters",
-        "domain": "reuters.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-china-robot-unicorn-hai-robotics-eyes-international-expansion-as-market-for-warehouse-automation-cranks-up.md",
-      "title": "China robot unicorn Hai Robotics eyes international expansion as market for warehouse automation cranks up",
-      "excerpt": "Hai Robotics makes robots for moving and sorting boxes in warehouses, a market estimated to reach US$41 billion globally by 2027.",
-      "sourceUrl": null,
-      "webUrl": "https://www.scmp.com/tech/tech-trends/article/3178385/china-robot-unicorn-hai-robotics-eyes-international-expansion?module=live&pgtype=homepage",
-      "originalUrl": "https://www.scmp.com/tech/tech-trends/article/3178385/china-robot-unicorn-hai-robotics-eyes-international-expansion?module=live&pgtype=homepage",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 131,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.i-scmp.com/sites/default/files/styles/og_image_scmp_generic/public/d8/images/canvas/2022/05/19/5020fad2-9d36-402d-a4c2-acacef0bb0f6_a484de56.jpg?itok=BWP9j4IV&v=1652960037",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.scmp.com/tech/tech-trends/article/3178385/china-robot-unicorn-hai-robotics-eyes-international-expansion",
-      "cdnAmpWebUrl": "https://amp-scmp-com.cdn.ampproject.org/c/s/amp.scmp.com/tech/tech-trends/article/3178385/china-robot-unicorn-hai-robotics-eyes-international-expansion",
-      "publishedDateTime": "2022-05-20T02:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "South China Morning Post",
-        "domain": "scmp.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/scmp.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-ai-in-computer-vision-market-growth-to-be-stimulated-by-brisk-technological-expansions-during-2021-2030.md",
-      "title": "AI in Computer Vision Market Growth To Be Stimulated By Brisk Technological Expansions During 2021 – 2030",
-      "excerpt": "The market study incorporates an in-depth analysis of the AI in Computer Vision Market based on the key parameters that take in the drives, sales inquiry, market extents & share. Moreover ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-growth-to-be-stimulated-by-brisk-technological-expansions-during-2021-2030-2",
-      "originalUrl": "https://www.digitaljournal.com/pr/ai-in-computer-vision-market-growth-to-be-stimulated-by-brisk-technological-expansions-during-2021-2030-2",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://amarketplaceresearch.com/wp-content/uploads/2022/05/AI-in-Computer-Vision-Market-1.jpeg",
-          "width": 790,
-          "height": 466,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-20T00:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Digital Journal",
-        "domain": "digitaljournal.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-10-skills-robots-cant-replace-in-the-workplace-yet.md",
-      "title": "10 Skills Robots Can’t Replace In The Workplace (Yet)",
-      "excerpt": "Machines have made great strides, but there are still plenty of workplace skills only humans have. Ensure your success by cultivating these top 10 skills.",
-      "sourceUrl": null,
-      "webUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/20/10-skills-robots-cant-replace-in-the-workplace-yet/",
-      "originalUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/20/10-skills-robots-cant-replace-in-the-workplace-yet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://imageio.forbes.com/specials-images/imageserve//62872d26ae4897dfa63b4a56/0x0.jpg?format=jpg&width=1200",
-          "width": 1200,
-          "height": 675,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.forbes.com/sites/bernardmarr/2022/05/20/10-skills-robots-cant-replace-in-the-workplace-yet/amp/",
-      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/bernardmarr/2022/05/20/10-skills-robots-cant-replace-in-the-workplace-yet/amp/",
-      "publishedDateTime": "2022-05-19T22:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Forbes",
-        "domain": "forbes.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-c3ai-meteoric-growth-with-artificial-intelligence-tailwinds.md",
-      "title": "C3.ai: Meteoric Growth With Artificial Intelligence Tailwinds",
-      "excerpt": "C3.ai provides AI services to enterprises & has grown revenues at 40% over the past few years, with a GM of 75%. Click to know why I rate it as a BUY.",
-      "sourceUrl": null,
-      "webUrl": "https://seekingalpha.com/article/4513309-c3ai-meteoric-growth-artificial-intelligence-tailwinds",
-      "originalUrl": "https://seekingalpha.com/article/4513309-c3ai-meteoric-growth-artificial-intelligence-tailwinds",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 72,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/1345658982/image_1345658982.jpg?io=getty-c-w750",
-          "width": 750,
-          "height": 422,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://seekingalpha.com/amp/article/4513309-c3ai-meteoric-growth-artificial-intelligence-tailwinds",
-      "cdnAmpWebUrl": "https://seekingalpha-com.cdn.ampproject.org/c/s/seekingalpha.com/amp/article/4513309-c3ai-meteoric-growth-artificial-intelligence-tailwinds",
-      "publishedDateTime": "2022-05-19T20:27:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Seeking Alpha",
-        "domain": "seekingalpha.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-love-death-robots-netflix-drops-surprise-season-3-episode-rosario-dawson-joel-mchale-among-voice-cast-watch-trailer-update.md",
-      "title": "‘Love, Death & Robots’: Netflix Drops Surprise Season 3 Episode, Rosario Dawson, Joel McHale Among Voice Cast, Watch Trailer — Update",
-      "excerpt": "Rosario Dawson, Joel McHale, Joe Manganiello, Christian Serratos, Elodie Young and more are among the stellar voice cast for Season 3 of Love, Death & Robots, announced",
-      "sourceUrl": null,
-      "webUrl": "https://deadline.com/2022/05/love-death-robots-netflix-surprise-season-3-episode-voice-cast-trailer-1235027669/",
-      "originalUrl": "https://deadline.com/2022/05/love-death-robots-netflix-surprise-season-3-episode-voice-cast-trailer-1235027669/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://deadline.com/wp-content/uploads/2022/05/Love-Death-and-Robots-Volume-3.jpg?w=983",
-          "width": 983,
-          "height": 518,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://deadline.com/2022/05/love-death-robots-netflix-surprise-season-3-episode-voice-cast-trailer-1235027669/amp/",
-      "cdnAmpWebUrl": "https://deadline-com.cdn.ampproject.org/c/s/deadline.com/2022/05/love-death-robots-netflix-surprise-season-3-episode-voice-cast-trailer-1235027669/amp/",
-      "publishedDateTime": "2022-05-19T19:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Deadline.com",
-        "domain": "deadline.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-elementary-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups.md",
-      "title": "Elementary Named to the 2022 CB Insights AI 100 List of Most Innovative Artificial Intelligence Startups",
-      "excerpt": "CB Insights today named Elementary to its annual AI 100 ranking, showcasing the 100 most promising private artificial intelligence companies in the world. \"This is the sixth year that CB Insights has recognized the most promising private artificial intelligence companies with the AI 100.",
-      "sourceUrl": null,
-      "webUrl": "https://fox40.com/business/press-releases/cision/20220519NY64233/elementary-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/",
-      "originalUrl": "https://fox40.com/business/press-releases/cision/20220519NY64233/elementary-named-to-the-2022-cb-insights-ai-100-list-of-most-innovative-artificial-intelligence-startups/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://fox40.com/wp-content/uploads/sites/13/2021/05/FOX40_Logo_Horizontal_GENERIC_Color.png",
-          "width": 800,
-          "height": 328,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-19T18:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "FOX40",
-        "domain": "fox40.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-fishangler-announces-fishial-recognition-artificial-intelligence-to-help-users-identify-species.md",
-      "title": "FishAngler Announces Fishial Recognition™ Artificial Intelligence to Help Users Identify Species",
-      "excerpt": "Fishial Artificial Intelligence is positioned to ... organizations and the private sector, to build a deep neural network to teach machines how to identify over 33,000 species of fish to help ...",
-      "sourceUrl": null,
-      "webUrl": "https://markets.businessinsider.com/news/stocks/fishangler-announces-fishial-recognition-artificial-intelligence-to-help-users-identify-species-1031477306",
-      "originalUrl": "https://markets.businessinsider.com/news/stocks/fishangler-announces-fishial-recognition-artificial-intelligence-to-help-users-identify-species-1031477306",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-05-19T17:49:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business Insider",
-        "domain": "businessinsider.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-05-20-reperformance-uses-ai-to-personalize-physical-education.md",
-      "title": "REPerformance Uses AI to Personalize Physical Education",
-      "excerpt": "A software company in Canada is bringing its web-based application to the U.S. that uses personal fitness data to create individualized workout programs and feedback geared toward their progress rather than ability.",
-      "sourceUrl": null,
-      "webUrl": "https://www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education",
-      "originalUrl": "https://www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://erepublic.brightspotcdn.com/dims4/default/8aed749/2147483647/strip/true/crop/1000x521+0+89/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2F8b%2Fe1%2Fd1af45fd4441996fa546b5a6f9dd%2Fphysical-education.jpg",
-          "width": 840,
-          "height": 438,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education?_amp=true",
-      "cdnAmpWebUrl": "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/education/k-12/reperformance-uses-ai-to-personalize-physical-education?_amp=true",
-      "publishedDateTime": "2022-05-19T16:25:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Government Technology",
-        "domain": "govtech.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Education"
       ]
     }
   ],

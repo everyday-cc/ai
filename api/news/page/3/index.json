@@ -2,6 +2,315 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-29-why-artificial-general-intelligence-isnt-further-along.md",
+      "title": "Why Artificial General Intelligence Isn’t Further Along",
+      "excerpt": "For all the devastation it has caused, the Covid-19 pandemic could rightfully claim responsibility for accelerating the adaptation of artificial intelligence (AI) in the business world. Harris Poll, working with Appen, found that 55% of surveyed companies ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/why-artificial-general-intelligence-isnt-further-along/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/why-artificial-general-intelligence-isnt-further-along/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 76,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/62c83cadb3da67a5ff548ecf/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/why-artificial-general-intelligence-isnt-further-along/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/29/why-artificial-general-intelligence-isnt-further-along/amp/",
+      "publishedDateTime": "2022-08-29T06:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Autos"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-will-untether-ais-speedai240-boqueria-inferencing-chip-be-the-one.md",
+      "title": "Will Untether AI’s SpeedAI240 “Boqueria” Inferencing Chip Be “The One”?",
+      "excerpt": "One of the latest AI/ML chips to appear was revealed at last week’s Hot Chips 34 conference. Untether AI’s founder Martin Snelgrove and VP of Product Bob Beachler rolled out their company’s speedAI chip family,",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/",
+      "originalUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 108,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630c2f17dc25910550390ffe/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 798,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/tiriasresearch/2022/08/29/is-untether-ais-speedai240-boqueria-inferencing-chip-the-one/amp/",
+      "publishedDateTime": "2022-08-29T05:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "AI Hardware",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-new-ai-cryptographic-technology-can-help-combat-counterfeiting.md",
+      "title": "New AI Cryptographic Technology Can Help Combat Counterfeiting",
+      "excerpt": "The ability to implement an invisible cryptographic seal into existing packaging without changes to existing manufacturing and supply chain processes could transform the ability of companies to stop counterfeiting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/new-ai-cryptographic-technology-can-help-combat-counterfeiting/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/new-ai-cryptographic-technology-can-help-combat-counterfeiting/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/913017298/0x0.jpg?format=jpg&crop=8000,4500,x0,y0,safe&width=1200",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/08/29/new-ai-cryptographic-technology-can-help-combat-counterfeiting/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/08/29/new-ai-cryptographic-technology-can-help-combat-counterfeiting/amp/",
+      "publishedDateTime": "2022-08-29T04:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-behind-indian-government-supported-ai-robotics-innovation-firm.md",
+      "title": "Behind Indian Government Supported AI & Robotics Innovation Firm",
+      "excerpt": "If we can get self-driving cars to work on Silk Board in Bengaluru, it will work in the US, it will work in Europe, it will work in Elon Musk’s backyard as well.",
+      "sourceUrl": null,
+      "webUrl": "https://analyticsindiamag.com/behind-indian-government-supported-ai-robotics-innovation-firm/",
+      "originalUrl": "https://analyticsindiamag.com/behind-indian-government-supported-ai-robotics-innovation-firm/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 91,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://149695847.v2.pressablecdn.com/wp-content/uploads/2022/08/ARTPARK.jpeg",
+          "width": 1766,
+          "height": 993,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T03:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Analytics India Magazine",
+        "domain": "analyticsindiamag.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI",
+        "Natural Language Processing"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.md",
+      "title": "TensorFlow, PyTorch, and JAX: Choosing a deep learning framework",
+      "excerpt": "Three widely used frameworks are leading the way in deep learning research and production today. One is celebrated for ease of use, one for features and maturity, and one for immense scalability. Which one should you use?",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3670114/tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.html",
+      "originalUrl": "https://www.infoworld.com/article/3670114/tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 140,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2021/12/artificial-intelligence-concept-picture-id1160995648-100855293-large-100912931-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3670114/tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3670114/tensorflow-pytorch-and-jax-choosing-a-deep-learning-framework.amp.html",
+      "publishedDateTime": "2022-08-29T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Machine Learning",
+        "AI",
+        "Google AI",
+        "Facebook AI",
+        "TensorFlow"
+      ]
+    },
+    {
+      "path": "_news/2022-08-29-elon-musk-aims-to-have-self-driving-teslas-ready-by-year-end-in-the-us.md",
+      "title": "Elon Musk: aims to have self-driving Teslas ready by year-end in the U.S.",
+      "excerpt": "Tesla founder Elon Musk said on Monday he aimed to get self-driving Teslas ready by year-end and hopes they could be in wide release in the United States and possibly in Europe, depending on regulatory approval.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/elon-musk-aims-have-self-driving-teslas-ready-by-year-end-us-2022-08-29/",
+      "originalUrl": "https://www.reuters.com/technology/elon-musk-aims-have-self-driving-teslas-ready-by-year-end-us-2022-08-29/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 273,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/R4cQPqkeAFIqFa7vRkbVIZLmGzE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/RNKFK5ENWZLSBKGNTC4P5OADEE.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-29T02:26:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-29-amazon-vs-apple-only-one-will-rewrite-the-rules-of-healthcare.md",
       "title": "Amazon Vs. Apple: Only One Will Rewrite The Rules Of Healthcare",
       "excerpt": "One company is dutifully abiding by an old, unwritten rule of health technology. The other is poised to rewrite the healthcare rulebook altogether.",
@@ -923,274 +1232,6 @@
       "topics": [
         "AI in Healthcare",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-fintech-and-msmes-are-together-changing-the-face-of-digitalisation.md",
-      "title": "Fintech and MSMEs are together changing the face of digitalisation",
-      "excerpt": "Fintech companies are betting on the power of AI, machine learning, and big data to drive growth and innovation in the MSME sector. The fintech space has witnessed enormous success in the Asia ...",
-      "sourceUrl": null,
-      "webUrl": "https://yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
-      "originalUrl": "https://yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.yourstory.com/cs/21/0a385fc03e6011e999df3d1594bbde2c/Imageybe01574423681172jpg ",
-          "width": 800,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
-      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
-      "publishedDateTime": "2022-08-26T19:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "YourStory",
-        "domain": "yourstory.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-how-artificial-intelligence-is-finding-critical-heart-failure-patients.md",
-      "title": "How artificial intelligence is finding critical heart failure patients",
-      "excerpt": "Over 6 million American adults suffer from heart failure. But now, doctors are harnessing AI technology to catch the problem before it's fatal.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wqad.com/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
-      "originalUrl": "https://www.wqad.com/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 74,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.tegna-media.com/assets/WQAD/images/995c409e-08a4-4d28-9233-f96e3239ae90/995c409e-08a4-4d28-9233-f96e3239ae90_1140x641.jpg",
-          "width": 1140,
-          "height": 641,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wqad.com/amp/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
-      "cdnAmpWebUrl": "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
-      "publishedDateTime": "2022-08-26T16:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WQAD",
-        "domain": "wqad.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-warren-buffett-bullish-on-driverless-trucks-after-purchasing-stake-in-kodiak-robotics.md",
-      "title": "Warren Buffett bullish on driverless trucks after purchasing stake in Kodiak Robotics",
-      "excerpt": "This investment is a significant validation by Berkshire Hathaway, through Pilot, that driverless trucks are on the cusp of being a reality. It may be hard and even scary to imagine an 18-wheeler ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.autonews.com/mobility-report/why-warren-buffett-bullish-driverless-trucks",
-      "originalUrl": "https://www.autonews.com/mobility-report/why-warren-buffett-bullish-driverless-trucks",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/buffett_0.jpg",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-26T16:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Automotive News",
-        "domain": "autonews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-artist-ai-weiwei-warns-against-hubris-in-troublesome-times.md",
-      "title": "Artist Ai Weiwei warns against hubris in 'troublesome times'",
-      "excerpt": "Chinese dissident and artist Ai Weiwei lampoons the surveillance state and social media with his first glass sculpture, made on the Venetian island of Murano.",
-      "sourceUrl": null,
-      "webUrl": "https://www.local10.com/entertainment/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/",
-      "originalUrl": "https://www.local10.com/entertainment/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/QV54AUTTBVAWLF2YBJMD6IRINQ.jpg?_a=ATAK9fe0",
-          "width": 700,
-          "height": 467,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.local10.com/entertainment/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-local10-com.cdn.ampproject.org/c/s/www.local10.com/entertainment/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/?outputType=amp",
-      "publishedDateTime": "2022-08-26T14:30:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WPLG",
-        "domain": "local10.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Facebook AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-ai-predicts-alzheimers-disease-from-a-single-brain-scan.md",
-      "title": "AI Predicts Alzheimer’s Disease from a Single Brain Scan",
-      "excerpt": "There are 47 million people living with Alzheimer’s disease globally, and by 2030 this number is expected to increase to 76 million according to the Alzheimer’s Association. I",
-      "sourceUrl": null,
-      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/ai-predicts-alzheimer-s-disease-single-brain-scan",
-      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/ai-predicts-alzheimer-s-disease-single-brain-scan",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-08/pic23411.gif.jpg?itok=bHKh85Xs",
-          "width": 1528,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/ai-predicts-alzheimer-s-disease-single-brain-scan?amp",
-      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202208/ai-predicts-alzheimer-s-disease-single-brain-scan?amp",
-      "publishedDateTime": "2022-08-26T13:36:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Psychology Today",
-        "domain": "psychologytoday.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-27-artificial-intelligence-5-innovative-applications-that-could-change-everything.md",
-      "title": "Artificial intelligence: 5 innovative applications that could change everything",
-      "excerpt": "In a new report, McKinsey identifies innovative ways industries can benefit from applying AI. Some may surprise you.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/5-exciting-applications-for-artificial-intelligence/",
-      "originalUrl": "https://www.zdnet.com/article/5-exciting-applications-for-artificial-intelligence/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/68716ea71e49a4f803ff4c87db10cb98a74f1d1c/2022/08/26/ab2058b7-690d-41d1-b96b-ad7db04fd805/ai-assistant-smarttphone-iot-innovation.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 800,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/5-exciting-applications-for-artificial-intelligence/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-exciting-applications-for-artificial-intelligence/",
-      "publishedDateTime": "2022-08-26T12:01:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "AI in Healthcare"
       ]
     }
   ],

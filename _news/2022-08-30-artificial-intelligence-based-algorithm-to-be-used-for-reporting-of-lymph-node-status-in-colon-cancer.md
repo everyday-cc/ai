@@ -24,6 +24,17 @@ images:
     height: 683
     isCached: true
 
+related:
+  - title: "Indica Labs, iCAIRD to Develop Digital Pathology Algorithm for Colon Cancer"
+    excerpt: "H&E slides from NHS Greater Glasgow and Clyde's digital pathology archive will be used to train, validate, and test the algorithm."
+    publishedDateTime: 2022-08-30T14:28:00Z
+    webUrl: "https://www.360dx.com/business-news/indica-labs-icaird-develop-digital-pathology-algorithm-colon-cancer"
+    type: article
+    provider:
+      name: 360dx
+      domain: 360dx.com
+    quality: 17
+
 secured: "xBRTNsTOBpXsB6Z5lAlhH58LkVPlEmB0Rs4F/mpzC2xrIG563RtHExWkA/EE8GL3oR09TkFUoth1/bEoZK75xDPA8+laNgrcX/CFfxpe9rMmfCqI8oqy3t2QA5VZdlNzAv1BI6gxCJC/EmALmczvhn+RpKuVmICPIB2aYdh5ibNqVO3kueSySUzt9mvt9hTwm2BuOfP3brcVe7ctq5eCwuesBobq6EU76QkVPJ3JGpX3Z7kAdZQcYAte1woxGhQDuPj+LpcCBrMFcS5gycGExUlLEVsQU0Z0RCRZe5EgUOjo3r4urzcSQ2Y7FQ/1DufZFqwpFJ0rKmgD8aRAHJf6tUMc0AbK9dQE0LdbpGJGeA5bnQk8vK6jlvon9KSRPPApkIbg9Ei/I2ODhPWOo7bR0G72rbOeX0QBJTEXyH3lEcCvqwMd3IzFHtD4IMoU3L2ysXBiGjtyJ+CxtvSmX27XrixcvOIYr0eRgyrvEfygimMOsFGHc8NFycR22SBMu8Kn9sWTPMCCCmx1rIvuY053nQ==;oJXmMyj98Q87sB3ldkT/Zg=="
 ---
 

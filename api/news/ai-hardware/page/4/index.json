@@ -2,6 +2,101 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-07-13-deci-lands-25m-for-tech-that-makes-ai-models-more-efficient.md",
+      "title": "Deci lands $25M for tech that makes AI models more efficient",
+      "excerpt": "Deci has raised $25 million in fresh capital to further develop its platform and technology that make AI models more efficient -- and less costly to run.",
+      "sourceUrl": null,
+      "webUrl": "https://techcrunch.com/2022/07/13/deci-lands-25m-for-tech-that-makes-ai-models-more-efficient/",
+      "originalUrl": "https://techcrunch.com/2022/07/13/deci-lands-25m-for-tech-that-makes-ai-models-more-efficient/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 149,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://techcrunch.com/wp-content/uploads/2022/01/GettyImages-1314979456.jpg?w=1024",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://techcrunch.com/2022/07/13/deci-lands-25m-for-tech-that-makes-ai-models-more-efficient/amp/",
+      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/07/13/deci-lands-25m-for-tech-that-makes-ai-models-more-efficient/amp/",
+      "publishedDateTime": "2022-07-13T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "TechCrunch",
+        "domain": "techcrunch.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-07-13-furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps.md",
+      "title": "FuriosaAI forays into North American AI chip market, welcomes former Intel and Western Digital VPs",
+      "excerpt": "FuriosaAI develops high performance AI accelerators targeted at data centers and enterprise customers. The company offers efficient AI hardware",
+      "sourceUrl": null,
+      "webUrl": "https://markets.businessinsider.com/news/stocks/furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps-1031581751",
+      "originalUrl": "https://markets.businessinsider.com/news/stocks/furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps-1031581751",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 70,
+      "tags": null,
+      "images": null,
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-07-12T10:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Insider",
+        "domain": "businessinsider.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-07-12-furiosaai-forays-into-north-american-ai-chip-market-welcomes-former-intel-and-western-digital-vps.md",
       "title": "FuriosaAI forays into North American AI chip market, welcomes former Intel and Western Digital VPs",
       "excerpt": "The company targets the NA market with its first generation chip “WARBOY”, set to begin volume production in Q1 2023. FuriosaAI is already sampling WARBOY with customers in South Korea. Bill Leszinske,",
@@ -1318,105 +1413,6 @@
       "topics": [
         "AI Hardware",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-tensor-core-equivalent-likely-to-get-embedded-in-amd-rdna3.md",
-      "title": "Tensor Core equivalent Likely to Get Embedded in AMD rDNA3",
-      "excerpt": "NVIDIA A100 is the first elastic, multi-instance GPU tha... TYAN Launches AI-Optimized Server Platforms Powered by NVIDIA V100S Tensor Core GPUs - 05/08/2020 08:23 AM TYAN launched the latest GPU ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.guru3d.com/news-story/tensor-core-equivalent-likely-to-get-embedded-in-amd-rdna3,9.html",
-      "originalUrl": "https://www.guru3d.com/news-story/tensor-core-equivalent-likely-to-get-embedded-in-amd-rdna3,9.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://images.nvidia.com/aem-dam/Solutions/Data-Center/tensorcore/Volta-Tensor-Core_30fps_FINAL_994x559.gif",
-          "width": 994,
-          "height": 559,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-30T03:11:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Guru3D.com",
-        "domain": "guru3d.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-30-google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark.md",
-      "title": "Google, Nvidia split top marks in MLPerf AI training benchmark",
-      "excerpt": "Also: AI industry, obsessed with speed, is loathe to consider the energy cost in latest MLPerf benchmark Microsoft's Azure cloud unit took second place in the image segmentation competition, fourth place in the object detection competition with high ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/",
-      "originalUrl": "https://www.zdnet.com/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 125,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/5d7aa0d3ffb09fd5719e8d55e7c6fe80d313c72e/2022/06/29/8988600a-5dc6-4aac-a4d0-69713f67fe07/d1097b1f-1af9-49a6-98b7-9a32308f9f1c.jpg?width=1200&fit=bounds&auto=webp",
-          "width": 1200,
-          "height": 688,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/google-nvidia-split-top-marks-in-mlperf-ai-training-benchmark/",
-      "publishedDateTime": "2022-06-29T11:06:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI",
-        "Computer Vision",
-        "Natural Language Processing",
-        "AI Hardware",
-        "Machine Learning"
       ]
     }
   ],

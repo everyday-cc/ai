@@ -10,7 +10,7 @@
       "originalUrl": "https://www.foxbusiness.com/technology/robots-that-stock-drinks-convenience-stores-aim-automate-all-boring-jobs-done-humans",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -889,6 +889,49 @@
       ]
     },
     {
+      "path": "_news/2022-08-24-google-robots-are-more-human-like-can-perform-complex-tasks.md",
+      "title": "Google robots are more human-like – can perform complex tasks",
+      "excerpt": "While the Google robot won’t be a smart cook anytime soon, it represents a major breakthrough that Google claims. Using recently developed artificial intelligence (AI) software known as large ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.gizchina.com/2022/08/24/google-robots-are-more-human-like-can-perform-complex-tasks/",
+      "originalUrl": "https://www.gizchina.com/2022/08/24/google-robots-are-more-human-like-can-perform-complex-tasks/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.gizchina.com/wp-content/uploads/images/2022/08/Google-Robot.png",
+          "width": 916,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.gizchina.com/2022/08/24/google-robots-are-more-human-like-can-perform-complex-tasks/amp/",
+      "cdnAmpWebUrl": "https://www-gizchina-com.cdn.ampproject.org/c/s/www.gizchina.com/2022/08/24/google-robots-are-more-human-like-can-perform-complex-tasks/amp/",
+      "publishedDateTime": "2022-08-23T21:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "GizChina",
+        "domain": "gizchina.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-disney-collaborates-with-miko-a-historic-first-for-the-consumer-robotics-space.md",
       "title": "Disney Collaborates with Miko: A Historic First For The Consumer Robotics Space",
       "excerpt": "The magical worlds of Disney and Pixar have arrived on the Miko 3 robot. The collaboration is a historic “first” for the consumer robotics space and the latest indication that AI will play a growing role in the future of kid’s entertainment.",
@@ -1066,6 +1109,49 @@
             "isCached": false
           }
         ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-23-google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans.md",
+      "title": "Google Gave Its Helper Robots AI Language Skills to Better Work With Humans",
+      "excerpt": "it could be one way to start grounding AI’s language skills in the real world. So whether or not this line of research ever leads to robotic butlers becoming a reality, it seems likely to push the fields of both robotics and AI towards new and powerful ...",
+      "sourceUrl": null,
+      "webUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
+      "originalUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://singularityhub.com/wp-content/uploads/2022/08/Google-everyday-robots.jpg",
+          "width": 1068,
+          "height": 601,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
+      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/08/22/google-gave-its-helper-robots-ai-language-skills-to-better-work-with-humans/?amp=1",
+      "publishedDateTime": "2022-08-22T20:18:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Singularity Hub",
+        "domain": "singularityhub.com",
+        "images": null,
         "publishers": null,
         "authors": null
       },
@@ -1302,93 +1388,6 @@
       "topics": [
         "AI in Robotics",
         "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-best-bitcoin-robot-2022-cheapest-robots-revealed.md",
-      "title": "Best Bitcoin Robot 2022 – Cheapest Robots Revealed",
-      "excerpt": "In terms of how Bitcoin Prime functions, the platform claims that the robot is governed by artificial intelligence (AI) and machine learning. Finally, Bitcoin Prime does not charge any fees.",
-      "sourceUrl": null,
-      "webUrl": "https://www.business2community.com/cryptocurrency/bitcoin-robots",
-      "originalUrl": "https://www.business2community.com/cryptocurrency/bitcoin-robots",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.business2community.com/B2C_FB.png",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-20T01:08:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Business 2 Community",
-        "domain": "business2community.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-20-hyundai-motor-group-launches-new-ai-institute-to-build-better-robots-for-the-future.md",
-      "title": "Hyundai Motor Group Launches New AI Institute to Build Better Robots for the Future",
-      "excerpt": "Hyundai Motor Group announced the launch of Boston Dynamics AI Institute (the Institute), which will work toward making strides in artificial intelligence (AI), robotics, and intelligent machines. The",
-      "sourceUrl": null,
-      "webUrl": "https://www.natlawreview.com/article/hyundai-motor-group-launches-new-ai-institute-to-build-better-robots-future",
-      "originalUrl": "https://www.natlawreview.com/article/hyundai-motor-group-launches-new-ai-institute-to-build-better-robots-future",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 100,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.natlawreview.com/sites/all/themes/nationallaw/WBE_Seal_RGB.png",
-          "width": 1426,
-          "height": 808,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.natlawreview.com/article/hyundai-motor-group-launches-new-ai-institute-to-build-better-robots-future?amp",
-      "cdnAmpWebUrl": "https://www-natlawreview-com.cdn.ampproject.org/c/s/www.natlawreview.com/article/hyundai-motor-group-launches-new-ai-institute-to-build-better-robots-future?amp",
-      "publishedDateTime": "2022-08-19T15:21:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "The National Law Review",
-        "domain": "natlawreview.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI",
-        "AI Ethics"
       ]
     }
   ],

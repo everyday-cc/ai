@@ -43,6 +43,22 @@ related:
         width: 1920
         height: 1080
         isCached: true
+  - title: "Fintech Market Plays A Vital Role In Mobile Banking – Reports and Data"
+    excerpt: "The size of the global fintech market was USD 100.09 billion in 2020, and it is anticipated to grow in value at an 8.5% CAGR. Rising demand for smartphones, growing private investor involvement in fintech firms,"
+    publishedDateTime: 2022-09-01T10:29:00Z
+    webUrl: "https://techbullion.com/fintech-market-plays-a-vital-role-in-mobile-banking-reports-and-data/"
+    ampWebUrl: "https://techbullion.com/fintech-market-plays-a-vital-role-in-mobile-banking-reports-and-data/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/fintech-market-plays-a-vital-role-in-mobile-banking-reports-and-data/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 59
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/08/Fintech.jpg"
+        width: 2560
+        height: 1706
+        isCached: true
   - title: "How to Use ML and AI in the Fintech Industry?"
     excerpt: "From appearing as frequent tech buzzwords less than a decade ago, they have become integral to how AI and ML tech innovations are shaped across the digital landscape. Driving innovations in certain industries,"
     publishedDateTime: 2022-09-01T05:49:00Z
@@ -76,19 +92,14 @@ related:
         height: 720
         isCached: true
   - title: "AI in FinTech Global Market Report 2022: Need for Fraud Detection in Fintech & Financial Institutions Driving Adoption - ResearchAndMarkets.com"
-    excerpt: "The “AI in FinTech Global Market Report 2022” report has been added to ResearchAndMarkets.com’s offering. The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25."
-    publishedDateTime: 2022-08-29T10:26:00Z
-    webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795"
+    excerpt: "The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25.9%. The AI in fintech market is expected to grow to $24."
+    publishedDateTime: 2022-08-29T10:25:00Z
+    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-and-financial-institutions-driving-adoption-researchandmarketscom"
     type: article
     provider:
-      name: Associated Press
-      domain: apnews.com
-    quality: 3
-    images:
-      - url: "https://apnews.com/images/PaidContent3.png"
-        width: 700
-        height: 450
-        isCached: true
+      name: Daily Herald
+      domain: dailyherald.com
+    quality: 0
 
 secured: "jm1LCWqy+WbLnEnuNG8V7bZAG4S+KXGS6dZSP4J+snzVBytS9OhdiK2PQEo6uLNV7OtkU/eHozXh9/srfqb6ERiJGytXCad0Ak/+aODpvnkSIGFJ7n8Vw5mbnZmoS275NS//TBvj3SStSmhf/MblQzy0GFG46BMxVVaijSygeYtOzsF+wj4L3/UBn12w2HeLxirs0ei3TRvmGqe4T9rnj/2lFRmSGC/YQ1F2hg++o+ZAjiZcu8bmwvZgsLCc1sfx0HRpAUr1WzjEtSzR7HWGnyI0M89XOuNrmKmVBlbLJKYu2K39zdGOPjUlRXWRtt6IqbjWwycljoqdPvP5u7jLTJrAPbeZz/V2vVuvXrXDipA1PGprE1XbLTsD/BQYLazFNqg19l70rFo/AFQcbzgIdKPE/1jd1xcsG5cOwInaGxndxdlFN/Jq1Mzw/kAthYwa7ijuaQv06Waqhw12kdLPeYT7Kac0ialgv0VB9zJ0juQBFI7ooLMN2PqOTnqHoYBkawIIbP22eijMdVtrJxAD/A==;8Nhu0NAr4vx/09watU9hyg=="
 ---

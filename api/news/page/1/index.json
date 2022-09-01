@@ -2,6 +2,262 @@
   "page": 1,
   "value": [
     {
+      "path": "_news/2022-09-01-report-conversational-ai-reduces-barriers-to-mental-health-treatment.md",
+      "title": "Report: Conversational AI reduces barriers to mental health treatment",
+      "excerpt": "In a study by Botco AI, 100% of respondents said they expanded virtual behavioral support, including conversational AI, during the pandemic.",
+      "sourceUrl": null,
+      "webUrl": "https://venturebeat.com/ai/report-conversational-ai-reduces-barriers-to-mental-health-treatment/",
+      "originalUrl": "https://venturebeat.com/ai/report-conversational-ai-reduces-barriers-to-mental-health-treatment/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://venturebeat.com/wp-content/uploads/2017/11/shutterstock_734436697-e1510716853185.jpg?w=1200&strip=all",
+          "width": 1200,
+          "height": 900,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://venturebeat.com/ai/report-conversational-ai-reduces-barriers-to-mental-health-treatment/amp/",
+      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/ai/report-conversational-ai-reduces-barriers-to-mental-health-treatment/amp/",
+      "publishedDateTime": "2022-09-01T04:40:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "VentureBeat",
+        "domain": "venturebeat.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever.md",
+      "title": "In The Face Of Recession, Investing In AI Is A Smarter Strategy Than Ever",
+      "excerpt": "By making a few smart investments today, businesses can emerge from any oncoming recession, more effective and efficient than they were before.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 106,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/5fc7e538b6f0e3645ec8ff41/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/01/in-the-face-of-recession-investing-in-ai-is-a-smarter-strategy-than-ever/amp/",
+      "publishedDateTime": "2022-09-01T04:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-do-conversational-ai-systems-understand-humor.md",
+      "title": "Do Conversational AI Systems Understand Humor?",
+      "excerpt": "Can you do something?” I asked a conversational AI system. “I’m happy to do what I can, in any way that I can,” replied the machine. Over the whole of human history, many researchers and scientists have been investigating humor as a human phenomenon.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/do-conversational-ai-systems-understand-humor/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/do-conversational-ai-systems-understand-humor/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 97,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630f5fcdea3acb1b4f6f8744/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/do-conversational-ai-systems-understand-humor/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/01/do-conversational-ai-systems-understand-humor/amp/",
+      "publishedDateTime": "2022-09-01T04:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense.md",
+      "title": "How To Prepare Faster For Looming AI Regulation: Turn Defense Into Offense",
+      "excerpt": "With AI, the same elements of an effective culture of compliance can also spark innovation, collaboration and agility with data science.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense/",
+      "originalUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630f5e5918c93764f06047ca/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/forbestechcouncil/2022/09/01/how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/forbestechcouncil/2022/09/01/how-to-prepare-faster-for-looming-ai-regulation-turn-defense-into-offense/amp/",
+      "publishedDateTime": "2022-09-01T03:15:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-09-01-us-export-ban-on-some-advanced-ai-chips-to-hit-china-tech-majors.md",
+      "title": "U.S. export ban on some advanced AI chips to hit China tech majors",
+      "excerpt": "A U.S. order to ban exports of some advanced chips to China is likely to hit almost any major tech company running public clouds or advanced artificial intelligence training modules in the country, experts said.",
+      "sourceUrl": null,
+      "webUrl": "https://www.reuters.com/technology/us-export-ban-some-advanced-ai-chips-hit-almost-all-china-tech-majors-analysts-2022-09-01/",
+      "originalUrl": "https://www.reuters.com/technology/us-export-ban-some-advanced-ai-chips-hit-almost-all-china-tech-majors-analysts-2022-09-01/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 84,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.reuters.com/resizer/-52JtMZ5ltCjOvdIznDRdpNeJUU=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/5ULYQLPGWJKG3E22NO3SWMBKWA.jpg",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-09-01T01:59:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Reuters",
+        "domain": "reuters.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/reuters.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-ai-in-fintech-market-will-reach-more-than-61-billion-by-2031.md",
       "title": "AI In Fintech Market Will Reach More Than $61 Billion, By 2031",
       "excerpt": "Artificial Intelligence has been growing its influence in Fintech, and is projected to hit $61 billion in under 10 years. We tell you how.",
@@ -10,7 +266,7 @@
       "originalUrl": "https://www.investingcube.com/ai-in-fintech-market-will-reach-more-than-61-billion-by-2031/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 109,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -53,7 +309,7 @@
       "originalUrl": "https://www.foxbusiness.com/technology/robots-that-stock-drinks-convenience-stores-aim-automate-all-boring-jobs-done-humans",
       "featuredContent": null,
       "highlight": null,
-      "heat": 72,
+      "heat": 73,
       "tags": null,
       "images": [
         {
@@ -193,6 +449,49 @@
       ]
     },
     {
+      "path": "_news/2022-09-01-rice-university-robe-array-could-let-small-companies-access-popular-form-of-ai.md",
+      "title": "Rice University: ROBE Array could let small companies access popular form of AI",
+      "excerpt": "A breakthrough low-memory technique by Rice University computer scientists could put one of the most resource-intensive forms of artificial intelligence — deep-learning recommendation models (DLRM) — within reach of small companies.",
+      "sourceUrl": null,
+      "webUrl": "https://indiaeducationdiary.in/rice-university-robe-array-could-let-small-companies-access-popular-form-of-ai/",
+      "originalUrl": "https://indiaeducationdiary.in/rice-university-robe-array-could-let-small-companies-access-popular-form-of-ai/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 75,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/indiaeducationdiary.in/wp-content/uploads/2021/02/lovett-backdrop-crop-1.jpg?fit=1024%2C576&ssl=1",
+          "width": 1024,
+          "height": 576,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://indiaeducationdiary.in/rice-university-robe-array-could-let-small-companies-access-popular-form-of-ai/",
+      "cdnAmpWebUrl": "https://indiaeducationdiary-in.cdn.ampproject.org/c/s/indiaeducationdiary.in/rice-university-robe-array-could-let-small-companies-access-popular-form-of-ai/",
+      "publishedDateTime": "2022-08-31T17:57:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Education Diary",
+        "domain": "indiaeducationdiary.in",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI Hardware",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-09-01-nvidia-says-us-order-restricts-sales-of-ai-chips-to-china.md",
       "title": "Nvidia Says US Order Restricts Sales of AI Chips to China",
       "excerpt": "New licensing requirements come amid concern that the chips could be put to military use, the chipmaker says in a regulatory filing.",
@@ -201,7 +500,7 @@
       "originalUrl": "https://www.cnet.com/tech/nvidia-says-us-order-restricts-sales-of-ai-chips-to-china/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 241,
+      "heat": 261,
       "tags": null,
       "images": [
         {
@@ -357,7 +656,7 @@
       "originalUrl": "https://www.forbes.com/sites/aparnadhinakaran/2022/08/31/gaining-insights-from-private-data-using-federated-learning/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 129,
+      "heat": 119,
       "tags": null,
       "images": [
         {
@@ -409,7 +708,7 @@
       "originalUrl": "https://www.forbes.com/sites/forbesbusinessdevelopmentcouncil/2022/08/31/revolutions-start-with-the-green-data-center/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 73,
+      "heat": 74,
       "tags": null,
       "images": [
         {
@@ -944,292 +1243,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-baidus-bidu-apollo-go-service-strikes-1-million-ev-autonomous-ride-milestone-in-china.md",
-      "title": "Baidu’s (BIDU) Apollo Go service strikes 1 million EV autonomous ride milestone in China",
-      "excerpt": "Chinese tech giant Baidu (BIDU) beat Wall Street’s Q2 earnings estimates on Tuesday despite several headwinds in China’s economy. Baidu’s Apollo Go, its robotaxi business, unveiled its next-gen autonomous EV,",
-      "sourceUrl": null,
-      "webUrl": "https://electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/",
-      "originalUrl": "https://electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 110,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/Baidu-Apollo-Go.jpeg?resize=1200%2C628&quality=82&strip=all&ssl=1",
-          "width": 1200,
-          "height": 628,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/amp/",
-      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/30/baidus-apollo-go-service-strikes-1-million-ev-autonomous-rides/amp/",
-      "publishedDateTime": "2022-08-30T07:56:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Electrek",
-        "domain": "electrek.co",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-ai-to-treat-women-with-heart-problems.md",
-      "title": "AI to Treat Women with Heart Problems",
-      "excerpt": "Women are more likely than men to die from heart attacks. The causes are age disparities and the burdens of comorbidities, which makes risk assessment in women difficult.",
-      "sourceUrl": null,
-      "webUrl": "https://www.azorobotics.com/News.aspx?newsID=13195",
-      "originalUrl": "https://www.azorobotics.com/News.aspx?newsID=13195",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 139,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://dp9eps5gd5xd0.cloudfront.net/images/news/ImageForNews_13195_16618709843685787.jpg",
-          "width": 1000,
-          "height": 666,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.azorobotics.com/amp/news.aspx?newsID=13195",
-      "cdnAmpWebUrl": "https://www-azorobotics-com.cdn.ampproject.org/c/s/www.azorobotics.com/amp/news.aspx?newsID=13195",
-      "publishedDateTime": "2022-08-30T07:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Azorobotics",
-        "domain": "azorobotics.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-how-tech-can-accelerate-the-future-of-healthcare-and-social-good.md",
-      "title": "How tech can accelerate the future of healthcare and social good",
-      "excerpt": "Tech companies are teaming with independent innovators to solve pressing problems. A study released in the fall of 2020 suggested that the first nine months of the Covid-19 pandemic’s grip on the world spurred a decade’s worth of technological innovation.",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/sponsor/oppo/how-tech-can-accelerate-the-future-of-healthcare-and-social-good/",
-      "originalUrl": "https://techcrunch.com/sponsor/oppo/how-tech-can-accelerate-the-future-of-healthcare-and-social-good/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 79,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/04/GettyImages-543351810.jpg?w=599",
-          "width": 599,
-          "height": 399,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-30T07:46:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Healthcare",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers.md",
-      "title": "How advanced analytics and machine learning are transforming the role of ‘Finance Controllers’",
-      "excerpt": "Equipping Financial Controllers with predictive capabilities, advanced analytics and ML will help them elevate their role from providing back-office support to business partnering. The role of a finance controller is changing. It is expected that ...",
-      "sourceUrl": null,
-      "webUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers/",
-      "originalUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 94,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://static.toiimg.com/imagenext/toiblogs/photo/blogs/wp-content/uploads/2022/08/anshuman.jpg",
-          "width": 400,
-          "height": 400,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://timesofindia.indiatimes.com/blogs/voices/how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers/",
-      "cdnAmpWebUrl": "https://timesofindia-indiatimes-com.cdn.ampproject.org/c/s/timesofindia.indiatimes.com/blogs/voices/how-advanced-analytics-and-machine-learning-are-transforming-the-role-of-finance-controllers/",
-      "publishedDateTime": "2022-08-30T07:39:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Indiatimes",
-        "domain": "indiatimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI",
-        "AI in Finance"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-this-mighty-brain-chip-is-so-efficient-it-could-bring-advanced-ai-to-your-phone.md",
-      "title": "This Mighty Brain Chip Is So Efficient It Could Bring Advanced AI to Your Phone",
-      "excerpt": "The NeuRRAM chip is a powerful neuromorphic computing behemoth with 48 parallel cores and 3 million memory cells.",
-      "sourceUrl": null,
-      "webUrl": "https://singularityhub.com/2022/08/30/this-brain-inspired-chip-ups-ai-computing-efficiency-while-using-less-energy/",
-      "originalUrl": "https://singularityhub.com/2022/08/30/this-brain-inspired-chip-ups-ai-computing-efficiency-while-using-less-energy/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://singularityhub.com/wp-content/uploads/2022/08/UCSD-JacobsSchool-20220815-Cauwenberghs-NeuRRam-00571-e-8MP.jpg",
-          "width": 1068,
-          "height": 601,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://singularityhub.com/2022/08/30/this-brain-inspired-chip-ups-ai-computing-efficiency-while-using-less-energy/?amp=1",
-      "cdnAmpWebUrl": "https://singularityhub-com.cdn.ampproject.org/c/s/singularityhub.com/2022/08/30/this-brain-inspired-chip-ups-ai-computing-efficiency-while-using-less-energy/?amp=1",
-      "publishedDateTime": "2022-08-30T07:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Singularity Hub",
-        "domain": "singularityhub.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package.md",
-      "title": "Nvidia, Dell, VMware add AI, zero-trust security into new data center package",
-      "excerpt": "Dell servers containing Nvidia DPUs, GPUs, and VMware vSphere 8 use multiple firewalls to improve security for cloud-based workloads.",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/",
-      "originalUrl": "https://www.zdnet.com/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 141,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.zdnet.com/a/img/resize/31ca8a86b0b988f06219255b37675f4373f61dcd/2021/06/09/9a678cf1-16a0-46b5-b168-4a1cf67d1a6c/data-center.png?width=1200&fit=bounds&format=pjpg&auto=webp",
-          "width": 1200,
-          "height": 802,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.zdnet.com/google-amp/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/",
-      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/nvidia-dell-vmware-add-ai-zero-trust-security-into-new-data-center-package/",
-      "publishedDateTime": "2022-08-30T06:04:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Security"
       ]
     }
   ],

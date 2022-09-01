@@ -114,6 +114,20 @@ related:
       name: VentureBeat
       domain: venturebeat.com
     quality: 76
+  - title: "Nvidia and AMD ordered to stop sales of their top AI chips to China"
+    excerpt: "However, it did not specify what additional standards it had set for AI chips that can no longer be exported to China. \"While we are not in a position to outline specific policy changes at this time, we are taking a comprehensive approach to implement ..."
+    publishedDateTime: 2022-09-01T11:58:00Z
+    webUrl: "https://www.computing.co.uk/news/4055616/nvidia-amd-stop-sales-ai-chips-china"
+    type: article
+    provider:
+      name: Computing
+      domain: computing.co.uk
+    quality: 71
+    images:
+      - url: "https://image.chitra.live/api/v1/wps/5e446fb/1899bbc4-69cf-482f-a854-4609915ff94c/3/chip-370x229.jpg"
+        width: 370
+        height: 229
+        isCached: true
   - title: "Nvidia and AMD impacted as US restricts GPU sales to China"
     excerpt: "The US has once gain tightened the loop around China's semiconductor industry, and this time it is specifically targeting China's high-performance computing, especially machine learning infrastructure."
     publishedDateTime: 2022-09-01T06:10:00Z
@@ -127,6 +141,22 @@ related:
       - url: "https://img.digitimes.com/newsshow/20220901vl204_files/2_2b.jpg"
         width: 1280
         height: 854
+        isCached: true
+  - title: "Nvidia, AMD told to stop selling some artificial intelligence tech to China"
+    excerpt: "Two of America's top chipmakers have been ordered to stop selling some of their technology to China that can be used for artificial intelligence."
+    publishedDateTime: 2022-09-01T11:38:00Z
+    webUrl: "https://wraltechwire.com/2022/09/01/nvidia-amd-told-to-stop-selling-some-artificial-intelligence-tech-to-china/"
+    ampWebUrl: "https://wraltechwire.com/2022/09/01/nvidia-amd-told-to-stop-selling-some-artificial-intelligence-tech-to-china/?amp=1"
+    cdnAmpWebUrl: "https://wraltechwire-com.cdn.ampproject.org/c/s/wraltechwire.com/2022/09/01/nvidia-amd-told-to-stop-selling-some-artificial-intelligence-tech-to-china/?amp=1"
+    type: article
+    provider:
+      name: WRAL TechWire
+      domain: wraltechwire.com
+    quality: 55
+    images:
+      - url: "https://wraltechwire.com/wp-content/uploads/2018/03/mother-board-581597_960_720.jpg"
+        width: 960
+        height: 720
         isCached: true
   - title: "Nvidia, AMD warned of new US export restrictions on AI chips"
     excerpt: "The U.S. government has issued new export licensing requirements to Nvidia and AMD for export to China and Russia of the advanced GPUs used for AI."
@@ -189,6 +219,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "0xrKGdYfQFSqMxVFVVfPseFWZxf6MD1jDxolBmeQmp/Ncm1SAmBb/v3v1rKKQxHmkRtiwK9ADIUniqM+y5CG4I+WL/7OMx6x8PtEc+hZBqD1K5R8RH09LS7l1Fh3npMQ9Rk0GHPA6NZ+jYvhkyF/qhPmq9sP6RKzyzDv0fUgwT0ZYbjW31boqXeopO9DZE++vGHtpX//QLMImZVsDt914HGbVdID/io+jfl7gNER7lAgvmfZYz4qc4BjvTcKjz3BxkvhlMvbFfPZZnfk1T2i06r2p/bjl0awrkSw2oRfDX9hLdEBBO9ufRh1Q1xQ+nIUlts4hn+zD/3IIaCpspz+H9TIEpFfI1YwUjhMXlUXQnU=;vMhJpHsEnFJn/HhSUGrCuA=="
+secured: "xajsplNglnMqp3t0eZcngD7TdYTPZcaLRNbH++ZQKu+/D46B5jaUEWRFlLZ+rA3yV3AV+68EVUm/zdQuVpJXdUVd4vGQFlxSU6OU6bk7ZoWTQAPSD0Gd98j1/fsfJXgh0kQNWIbXy+VtTrzt1H8bH+d/Y3aUTYHIXTN2YAGo0jCe7gpUHqa4sxH9JX2DXgDzeFgMUC3VhR7a6d2KyFb/vcSgwPB/gUKAiFDdkldMN9YPunu8SWc3ql+uhosxRCk4QxvqZdnjWswjVUK/0zkswWpg+SzdgUjQ9wrq9TuIodfT8kOnoviVdCGDUDAWWmgkWmwBvSIlk9qjvtBwdJ4SwmGAE5+sD/E73JjJ8QJLuLdttLbEJihRMiNqahBdnVVdMD39qIUyc7qmTC+v8rDGFPGpbxjlJHAzKx7Yn0dwSYJ0Wq/pCOE3CCuHkFvUlMQK5tcHP0NMpvsHXB3Ym5AayhBISlVJHPuTvEKIWKH4YD2qXOyIGPjqJmcLqoxwyRxQZTKmbXUZjk+8PFSlONOijg==;CEH8eZGFWf5EOZsqXOsI7g=="
 ---
 

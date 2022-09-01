@@ -39,6 +39,20 @@ related:
         width: 1920
         height: 1280
         isCached: true
+  - title: "Industry’s first autonomous spreader debuts at Farm Progress Show"
+    excerpt: "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident ™ 5550 applicator with Raven Autonomy ™. Unveiled at Farm Progress Show 2022, this innovative solution delivers on customers’ demands for autonomous equipment to help solve labor challenges and increase productivity on their operations."
+    publishedDateTime: 2022-08-30T14:32:00Z
+    webUrl: "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html"
+    type: article
+    provider:
+      name: Eagle-Tribune
+      domain: eagletribune.com
+    quality: 24
+    images:
+      - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/f7/6f732a6f-663d-5699-9263-ff52f4203a6d/630e214bf2e79.image.jpg?crop=606%2C318%2C522%2C0&resize=606%2C318&order=crop%2Cresize"
+        width: 606
+        height: 318
+        isCached: true
   - title: "Case IH Trident 5550 Applies Raven Autonomy for Driverless Spreading"
     excerpt: "The Case IH Trident 5550 is built to be a combination applicator—both liquid and dry applications—but now equipped with Raven Autonomy, the machine can also be run in either autonomous mode or manual mode."
     publishedDateTime: 2022-08-30T15:29:00Z
@@ -48,15 +62,6 @@ related:
       name: AgWeb
       domain: agweb.com
     quality: 19
-  - title: "Industry’s first autonomous spreader debuts at Farm Progress Show"
-    excerpt: "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident ™ 5550 applicator with Raven Autonomy ™. Unveiled at Farm Progress Show 2022, this innovative solution delivers on customers’ demands for autonomous equipment to help solve labor challenges and increase productivity on their operations."
-    publishedDateTime: 2022-08-30T14:30:00Z
-    webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-30-industrys-first-autonomous-spreader-debuts-at-farm-progress-show"
-    type: article
-    provider:
-      name: Daily Herald
-      domain: dailyherald.com
-    quality: 4
 
 secured: "jRVjGVu1dxDrNMH4F9sSGHnC8UBOcW5qaK/6pYhkKnlqINgacDxSzG9vfe9L6VOYKUYyu/mZJbmFHJyImE3I+6S/WjHTSR8F5gl3y+40nGWrvuSSeUfpx1sAfecZIpWrUO8iC0LWWXBw9GHcuxHXRVdS8TVEzpeaCDTfFHmgrlUaW3W1wJfmK0ITIPAZL1hyw8eeuvmxdPdyj9qmuU1r+zagIE7a+3PC5AhrAAOfFF7nYyIrbDs1MnWLdRFD/7phd9/v8qVWGclRv8Hz0KwwJxtYCPbo4gQj29/VevImwlrMTUSXjNG6LN2KfsQAqkxfT/SjLWivoKh7VWyT9sira+uG9Fi6FQBiM1p0+8wnHCY=;TlfXgMHGzMwp8THIMxPAFg=="
 ---

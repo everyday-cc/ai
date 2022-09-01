@@ -64,20 +64,6 @@ related:
         width: 767
         height: 633
         isCached: true
-  - title: "The Democratization of Machine Learning: Here’s how Applied Machine Learning Days (AMLD) Africa impacted (almost) the whole continent"
-    excerpt: "AMLD Africa ( a free Machine Learning conference, makes it possible for anyone in Africa to learn about AI with world-class speakers and entities.  15.7 trillion US$. This is the expected contribution of Artificial Intelligence to the global economy by 2030 according to PwC’s report “Sizing the Price” ( Here’s how Applied Machine Learning Days (AMLD) Africa is offering free access to high-quality education around AI to democratize AI in Africa,"
-    publishedDateTime: 2022-09-01T06:04:00Z
-    webUrl: "https://www.zawya.com/en/press-release/africa-press-releases/the-democratization-of-machine-learning-heres-how-applied-machine-learning-days-amld-africa-impacted-almost-bai0nowi"
-    type: article
-    provider:
-      name: Zawya
-      domain: zawya.com
-    quality: 23
-    images:
-      - url: "https://static.zawya.com/version/c:ODFkNTRmMzgtZDAwMC00:YWRmOWVk/fpr_3946_2022_03_01.jpg?f=1%3A1&q=0.75&w=3840"
-        width: 337
-        height: 337
-        isCached: true
 
 secured: "JWaIihbbQ37k9S+5xC3dBFtYwG9PT8YvoH1GiQPPXKuuugOua3usZA6UpBdqUoM53qH3kZANwz59l3zWqYOmuZtlI+uq7/RvEFZdrqyPMslCVIVaQXQyfPcAnmWmVHnEb5EzHnWA/KPpuY/TvjErmKO0Zsg02gennSElMxjARC1eoS5N95YTESRjYG2vq5HjDfBC9EJ9gCRqxb9ymq5WhWgtIfbJz8GHww5NCcvavXVVQDHwTlD+oxb82pnnsR7wGXBUkVxB1yZnoxjYOsLjQScQXzjfvqFrcJ71zCi8NANPYW1I5GCpqzAcsedOZUIk/kAiBiniqI5PJsrwnetSqon2Xcz9Kx+EoLpqeVnEqyu/DAT0RleFHL6FLK0+TZN8ad7bHj/Wis0FkJhu8D6/Dq5zh7O7dfKTU4uznRwK/j+g3R0CPl9/QlpTtNuP6C3MXGAMQ3zcJzzF1HAG+sCPCP9wbgHSxhK90lkEVkTcVqPE16NvGmh5NeuOzfhRBfqkYwI9AxaGmt0K3wFb1g1Hrg==;20G7sJt2+cAhmyaPWuVPPg=="
 ---

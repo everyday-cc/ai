@@ -18,15 +18,6 @@ topics:
   - AI
 
 related:
-  - title: "Now is the time to queue up to speak with Google’s chatbot"
-    excerpt: "After all, LaMDA 2 is Google’s baby, and AI was given its own track at Google I/O 2022. Google revealed during the event that anyone may now contribute to the development of conversational AI. Beta users will be able to engage with the NLP model in a restricted fashion using the AI Test Kitchen app."
-    publishedDateTime: 2022-08-27T18:00:00Z
-    webUrl: "https://bestgamingpro.com/now-is-the-time-to-queue-up-to-speak-with-googles-chatbot/"
-    type: article
-    provider:
-      name: Bestgamingpro
-      domain: bestgamingpro.com
-    quality: 4
   - title: "Meta Open-Sources 175B Parameter Chatbot BlenderBot 3"
     excerpt: "Meta AI Research open-sourced BlenderBot 3, a 175B parameter chatbot that can learn from live interactions with users \"in the wild.\" In evaluations by human judges, BlenderBot 3 achieves a 31% rating increase compared to the previous BlenderBot version."
     publishedDateTime: 2022-08-30T13:35:00Z

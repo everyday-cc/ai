@@ -9,7 +9,7 @@ ampWebUrl: "https://www.foxbusiness.com/technology/robots-that-stock-drinks-conv
 cdnAmpWebUrl: "https://www-foxbusiness-com.cdn.ampproject.org/c/s/www.foxbusiness.com/technology/robots-that-stock-drinks-convenience-stores-aim-automate-all-boring-jobs-done-humans.amp"
 type: article
 quality: 62
-heat: 72
+heat: 73
 published: true
 
 provider:

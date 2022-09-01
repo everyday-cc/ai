@@ -2,21 +2,27 @@
 category: news
 title: "Industry’s first autonomous spreader debuts at Farm Progress Show"
 excerpt: "Case IH and Raven Industries introduce the agriculture industry’s first autonomous spreader: the Case IH Trident ™ 5550 applicator with Raven Autonomy ™. Unveiled at Farm Progress Show 2022, this innovative solution delivers on customers’ demands for autonomous equipment to help solve labor challenges and increase productivity on their operations."
-publishedDateTime: 2022-08-30T14:30:00Z
-originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-30-industrys-first-autonomous-spreader-debuts-at-farm-progress-show"
-webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-30-industrys-first-autonomous-spreader-debuts-at-farm-progress-show"
+publishedDateTime: 2022-08-30T14:32:00Z
+originalUrl: "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html"
+webUrl: "https://www.eagletribune.com/region/industry-s-first-autonomous-spreader-debuts-at-farm-progress-show/article_bd0c3b06-7889-504f-b01b-c4540ac61a68.html"
 type: article
-quality: 4
+quality: 24
 heat: -1
 published: false
 
 provider:
-  name: Daily Herald
-  domain: dailyherald.com
+  name: Eagle-Tribune
+  domain: eagletribune.com
 
 topics:
   - AI in Autos
   - AI
+
+images:
+  - url: "https://bloximages.chicago2.vip.townnews.com/eagletribune.com/content/tncms/assets/v3/editorial/6/f7/6f732a6f-663d-5699-9263-ff52f4203a6d/630e214bf2e79.image.jpg?crop=606%2C318%2C522%2C0&resize=606%2C318&order=crop%2Cresize"
+    width: 606
+    height: 318
+    isCached: true
 
 related:
   - title: "First Driverless Spreader Introduced by Case IH and Raven Industries"
@@ -57,6 +63,6 @@ related:
       domain: agweb.com
     quality: 19
 
-secured: "xod7SOxkpQRxrRzITCvFzLcy/0+rkZoFB8MCTgwwa4JyuVnlbKMHbeSjwm71eCzj9cAdUBNvNUKb4KaRZYiwsc8CAwxVbQK2bWg87cge40pAgBL4uyFpcieCZzV+BoOlSuvy5GcXfPP6FsnO8FfwVhqn8pl5sMnHMgmoXuUvbRiUrRUexjuYCdPIGbJAlTm1COe6jZTk6sOB9AjH801yiid6fNslN6Gw/lMquI+JicmJ4XE8eFod1i/5BP/FFIyNhRsCqiatBUy+YPxFsEqXRhq3eMQx26uNG6gFF1fDGtZjXAnC3YXEBvvpIiVzUjwdhFK4gqCJs3ZRSCStdCfGtRGO0ZxxyID8t31St/v3Ll0RxRFm1/mO3p8ahlaOsaN3fZWZbS0bqIwKzg8WkS4ktDaY1g57Wkd4yUfgl3N/YldZitspE+OBlXza/ByH5cSKI5sjeirUgW+ex/WtLV9yG8fg2KumdDpG3xovv9+LdUse5awXaa3tjRuhVF4uKqse31BfbQGpKJk9Z3MA7HGrYA==;3AmCUdHFkooH1ehT5r5scA=="
+secured: "AQuSWyOMkmiy/Sf5FBfoqFWkxPA18xFxKMVI5mZKpKY/WLrYsHV39DJuj3MthipuoxsimYLWVV4BERSJbm+rd32COohpk9hgH7/eSuh5W64t9rmVCNhsIcxoo2uB719HvfZ9UfItj4IlxbUNPbbHUN8QU1pdd2Z5qnq5FU4T1seU2x6BX2cVdroNkll0cgtLQ8cJXtElJbUmXG4jE764zBu2EYH1VtYlIXHeRQlaSzwzgyc3ov+ZjEDL/qduPQP2KDNBw0mnT3qpkkbf/1Q4OI0LsTmnlo26RYhw/7E4UMQcVBKv/iHHCOrSdjDABGArSN6qsw8LrIT1rwX3EuDiWJh+98rFR68vjs9pPyBBRwE=;yHQAezNzJNammWvAsji8XA=="
 ---
 

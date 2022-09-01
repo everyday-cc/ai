@@ -1,28 +1,22 @@
 ---
 category: news
 title: "AI in FinTech Global Market Report 2022: Need for Fraud Detection in Fintech & Financial Institutions Driving Adoption - ResearchAndMarkets.com"
-excerpt: "The “AI in FinTech Global Market Report 2022” report has been added to ResearchAndMarkets.com’s offering. The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25."
-publishedDateTime: 2022-08-29T10:26:00Z
-originalUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795"
-webUrl: "https://apnews.com/press-release/business-wire/technology-middle-east-asia-south-america-0232c251b16047f18c094cc48e26a795"
+excerpt: "The global AI in fintech market is expected to grow from $7.25 billion in 2021 to $9.13 billion in 2022 at a compound annual growth rate (CAGR) of 25.9%. The AI in fintech market is expected to grow to $24."
+publishedDateTime: 2022-08-29T10:25:00Z
+originalUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-and-financial-institutions-driving-adoption-researchandmarketscom"
+webUrl: "https://finance.dailyherald.com/dailyherald/article/bizwire-2022-8-29-ai-in-fintech-global-market-report-2022-need-for-fraud-detection-in-fintech-and-financial-institutions-driving-adoption-researchandmarketscom"
 type: article
-quality: 3
+quality: 0
 heat: -1
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Daily Herald
+  domain: dailyherald.com
 
 topics:
   - AI in Finance
   - AI
-
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
 
 related:
   - title: "AI In Fintech Market Will Reach More Than $61 Billion, By 2031"
@@ -40,6 +34,22 @@ related:
       - url: "https://www.investingcube.com/wp-content/uploads/2022/06/Crypto-wallet.jpg"
         width: 1920
         height: 1080
+        isCached: true
+  - title: "Fintech Market Plays A Vital Role In Mobile Banking – Reports and Data"
+    excerpt: "The size of the global fintech market was USD 100.09 billion in 2020, and it is anticipated to grow in value at an 8.5% CAGR. Rising demand for smartphones, growing private investor involvement in fintech firms,"
+    publishedDateTime: 2022-09-01T10:29:00Z
+    webUrl: "https://techbullion.com/fintech-market-plays-a-vital-role-in-mobile-banking-reports-and-data/"
+    ampWebUrl: "https://techbullion.com/fintech-market-plays-a-vital-role-in-mobile-banking-reports-and-data/amp/"
+    cdnAmpWebUrl: "https://techbullion-com.cdn.ampproject.org/c/s/techbullion.com/fintech-market-plays-a-vital-role-in-mobile-banking-reports-and-data/amp/"
+    type: article
+    provider:
+      name: Impacts
+      domain: techbullion.com
+    quality: 59
+    images:
+      - url: "https://techbullion.com/wp-content/uploads/2022/08/Fintech.jpg"
+        width: 2560
+        height: 1706
         isCached: true
   - title: "AI in Fintech Market Report 2022-27: Size, Share, Growth, Trends And Forecast"
     excerpt: "The global AI in fintech market reached a value of US$ 9.4 Billion in 2021. Looking forward, IMARC Group expects the market to reach US$ 36.1 Billion by 2027, exhibiting at a CAGR of 26.1% during 2022-2027."
@@ -90,6 +100,6 @@ related:
         height: 720
         isCached: true
 
-secured: "O63mCRbXmRnEi8vp/2L0jgenr4TDCXSNdfEnprnDFLyZdXUIep84TypWkSdC2vzHMX5pyMbO5ey1CeFG1WNg3S58QBxZLs70fGyI4uDULue6M9M8fPfOTxHzaEZmefyg1fDvg7bcwNmo8IWyTMfGbo8lhhFIgBaanHB7q9aRsdnsYZ0E1dd2schIoAHdNuvoT0uK6ikL4WKkjNvBZMaN/33aDxoBGmSQur5zRWQH7oqYOiZu0fKzhT5Yn3pN4HwCBnoFnaAzfn+3tlRkwTeCrkLtQJwMdab4WxXhUYYZpZ0BkDlYZ+RtVtDFZzL5APanKb6C373T71ZsvNHYVk4kjs4C69ZYvaQa/Kh7RfBL4Gw=;hx4TKd8EbmXFavaSOQdRRw=="
+secured: "lbw0a5HEAR83d+YvhRSsWfHhsI2OoANs4LmIhkDwcd1GEYNuBDzGLU4sBaDJZNezdGC8B0VqULeM+cZRmq1wPDKUwU2UG4g8r47t5NHjDrqGMUrO07A7gJRG5zO3v2iFqTy5moSl4LdAyav9XjKdpd1DSxpZBtf5FXUwBBefC/7ioacr/HK8p7ClvBQfAYbcko8lqX2wRV6tuS0wpHG1PwJvOo+6YDJdmQrpLqJWLOzLGhUxaNfSr8wZk/H5bQDJjfIF3opsUP2nB9xKe+grqo3JfdnhnLDgvR+ZL/E/yP6xQMXdnzBkYrAHyGey73g+rm/VHArEMw+08p3kXUStF5TKYIHlYd83eBeLpWMV/pU=;4otqK3OAldbq2XTUUxp0yg=="
 ---
 

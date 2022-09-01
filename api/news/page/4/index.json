@@ -2,6 +2,274 @@
   "page": 4,
   "value": [
     {
+      "path": "_news/2022-08-27-fintech-and-msmes-are-together-changing-the-face-of-digitalisation.md",
+      "title": "Fintech and MSMEs are together changing the face of digitalisation",
+      "excerpt": "Fintech companies are betting on the power of AI, machine learning, and big data to drive growth and innovation in the MSME sector. The fintech space has witnessed enormous success in the Asia ...",
+      "sourceUrl": null,
+      "webUrl": "https://yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
+      "originalUrl": "https://yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.yourstory.com/cs/21/0a385fc03e6011e999df3d1594bbde2c/Imageybe01574423681172jpg ",
+          "width": 800,
+          "height": 400,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
+      "cdnAmpWebUrl": "https://yourstory-com.cdn.ampproject.org/c/s/yourstory.com/smbstory/fintech-startups-msme-sector-small-businesses-changing-face-of-digitalisation-india/amp",
+      "publishedDateTime": "2022-08-26T19:32:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "YourStory",
+        "domain": "yourstory.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Finance",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-how-artificial-intelligence-is-finding-critical-heart-failure-patients.md",
+      "title": "How artificial intelligence is finding critical heart failure patients",
+      "excerpt": "Over 6 million American adults suffer from heart failure. But now, doctors are harnessing AI technology to catch the problem before it's fatal.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wqad.com/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
+      "originalUrl": "https://www.wqad.com/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media.tegna-media.com/assets/WQAD/images/995c409e-08a4-4d28-9233-f96e3239ae90/995c409e-08a4-4d28-9233-f96e3239ae90_1140x641.jpg",
+          "width": 1140,
+          "height": 641,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wqad.com/amp/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
+      "cdnAmpWebUrl": "https://www-wqad-com.cdn.ampproject.org/c/s/www.wqad.com/amp/article/news/health/your-health/artificial-intelligence-critical-heart-failure-ai/526-a95d8163-6ee4-4819-81d4-42448018834f",
+      "publishedDateTime": "2022-08-26T16:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WQAD",
+        "domain": "wqad.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Healthcare",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-warren-buffett-bullish-on-driverless-trucks-after-purchasing-stake-in-kodiak-robotics.md",
+      "title": "Warren Buffett bullish on driverless trucks after purchasing stake in Kodiak Robotics",
+      "excerpt": "This investment is a significant validation by Berkshire Hathaway, through Pilot, that driverless trucks are on the cusp of being a reality. It may be hard and even scary to imagine an 18-wheeler ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.autonews.com/mobility-report/why-warren-buffett-bullish-driverless-trucks",
+      "originalUrl": "https://www.autonews.com/mobility-report/why-warren-buffett-bullish-driverless-trucks",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://s3-prod.autonews.com/s3fs-public/styles/1200x630/public/buffett_0.jpg",
+          "width": 1200,
+          "height": 630,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-26T16:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Automotive News",
+        "domain": "autonews.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-artist-ai-weiwei-warns-against-hubris-in-troublesome-times.md",
+      "title": "Artist Ai Weiwei warns against hubris in 'troublesome times'",
+      "excerpt": "Chinese dissident and artist Ai Weiwei lampoons the surveillance state and social media with his first glass sculpture, made on the Venetian island of Murano.",
+      "sourceUrl": null,
+      "webUrl": "https://www.local10.com/entertainment/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/",
+      "originalUrl": "https://www.local10.com/entertainment/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://res.cloudinary.com/graham-media-group/image/upload/f_auto/q_auto/c_thumb,w_700/v1/media/gmg/QV54AUTTBVAWLF2YBJMD6IRINQ.jpg?_a=ATAK9fe0",
+          "width": 700,
+          "height": 467,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.local10.com/entertainment/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-local10-com.cdn.ampproject.org/c/s/www.local10.com/entertainment/2022/08/26/artist-ai-weiwei-warns-against-hubris-in-troublesome-times/?outputType=amp",
+      "publishedDateTime": "2022-08-26T14:30:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WPLG",
+        "domain": "local10.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Facebook AI",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-ai-predicts-alzheimers-disease-from-a-single-brain-scan.md",
+      "title": "AI Predicts Alzheimer’s Disease from a Single Brain Scan",
+      "excerpt": "There are 47 million people living with Alzheimer’s disease globally, and by 2030 this number is expected to increase to 76 million according to the Alzheimer’s Association. I",
+      "sourceUrl": null,
+      "webUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/ai-predicts-alzheimer-s-disease-single-brain-scan",
+      "originalUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/ai-predicts-alzheimer-s-disease-single-brain-scan",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://cdn2.psychologytoday.com/assets/styles/manual_crop_1_91_1_1528x800/public/field_blog_entry_teaser_image/2022-08/pic23411.gif.jpg?itok=bHKh85Xs",
+          "width": 1528,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.psychologytoday.com/intl/blog/the-future-brain/202208/ai-predicts-alzheimer-s-disease-single-brain-scan?amp",
+      "cdnAmpWebUrl": "https://www-psychologytoday-com.cdn.ampproject.org/c/s/www.psychologytoday.com/intl/blog/the-future-brain/202208/ai-predicts-alzheimer-s-disease-single-brain-scan?amp",
+      "publishedDateTime": "2022-08-26T13:36:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Psychology Today",
+        "domain": "psychologytoday.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-27-artificial-intelligence-5-innovative-applications-that-could-change-everything.md",
+      "title": "Artificial intelligence: 5 innovative applications that could change everything",
+      "excerpt": "In a new report, McKinsey identifies innovative ways industries can benefit from applying AI. Some may surprise you.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/5-exciting-applications-for-artificial-intelligence/",
+      "originalUrl": "https://www.zdnet.com/article/5-exciting-applications-for-artificial-intelligence/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/68716ea71e49a4f803ff4c87db10cb98a74f1d1c/2022/08/26/ab2058b7-690d-41d1-b96b-ad7db04fd805/ai-assistant-smarttphone-iot-innovation.jpg?width=1200&fit=bounds&auto=webp",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/5-exciting-applications-for-artificial-intelligence/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/5-exciting-applications-for-artificial-intelligence/",
+      "publishedDateTime": "2022-08-26T12:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI",
+        "AI in Healthcare"
+      ]
+    },
+    {
       "path": "_news/2022-08-27-the-uses-of-ethical-ai-in-hiring-opaque-vs-transparent-ai.md",
       "title": "The uses of ethical AI in hiring: Opaque vs. transparent AI",
       "excerpt": "Ethical AI enables organizations to understand the technology’s processes and audit them to make sure the AI remains unbiased.",
@@ -797,6 +1065,57 @@
       ]
     },
     {
+      "path": "_news/2022-08-26-ai-startup-wants-to-make-foreign-call-center-employees-sound-white.md",
+      "title": "AI Startup Wants to Make Foreign Call Center Employees Sound White",
+      "excerpt": "Is it helpful or dystopian? A Silicon Valley startup is using AI-powered algorithms to make foreign call center employees sound white and American during phone conversations. The technology ...",
+      "sourceUrl": null,
+      "webUrl": "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white",
+      "originalUrl": "https://uk.pcmag.com/news/142293/ai-startup-wants-to-make-foreign-call-center-employees-sound-white",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://sm.pcmag.com/t/pcmag_uk/news/a/ai-startup/ai-startup-wants-to-make-foreign-call-center-employees-sound_3ra4.1200.jpg",
+          "width": 1200,
+          "height": 675,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-25T20:39:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "PC Magazine",
+        "domain": "pcmag.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/pcmag.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-26-nvidia-to-announce-next-gen-gpu-architecture-in-september-amid-rtx-4090-rumors.md",
       "title": "Nvidia to announce next-gen GPU architecture in September amid RTX 4090 rumors",
       "excerpt": "A new GPU architecture announce doesn’t mean we ... where we will share new advances of RTX reinventing 3D graphics in gaming, AI’s continuing breakthroughs, and building the metaverse ...",
@@ -897,332 +1216,6 @@
       ],
       "topics": [
         "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-lg-introduces-240hz-curved-oled-ultragear-monitor-monitor-with-ai-tracking.md",
-      "title": "LG Introduces 240Hz Curved OLED UltraGear Monitor, Monitor with AI Tracking",
-      "excerpt": "LG also launched a quirky-sounding 32-inch UltraFine Display Ergo AI (32UQ890). It uses a camera to analyze your posture, adjusting the height and tilt of the monitor to keep you from \"remaining in a single position for too long or from falling into poor ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/tech/computing/lg-introduces-240hz-curved-oled-ultragear-monitor-monitor-with-ai-tracking/",
-      "originalUrl": "https://www.cnet.com/tech/computing/lg-introduces-240hz-curved-oled-ultragear-monitor-monitor-with-ai-tracking/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 105,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/0252c1b9404973e60017e041d1ae811fb5d1c144/2022/08/25/dcd3bbb6-ba5b-4931-8bfe-d77391823502/lg-ultragear-oled-gaming-monitor45gr95qe-01-kv.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/lg-introduces-240hz-curved-oled-ultragear-monitor-monitor-with-ai-tracking/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/lg-introduces-240hz-curved-oled-ultragear-monitor-monitor-with-ai-tracking/",
-      "publishedDateTime": "2022-08-25T18:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-ishares-robotics-and-artificial-intelligence-multisector-etf.md",
-      "title": "iShares Robotics and Artificial Intelligence Multisector ETF",
-      "excerpt": "There is no recent news for this security. There is no recent news for this security. Got a confidential news tip? We want to hear from you. Sign up for free newsletters and get more CNBC ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnbc.com/quotes/IRBO",
-      "originalUrl": "https://www.cnbc.com/quotes/IRBO",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://sc.cnbcfm.com/applications/cnbc.com/staticcontent/img/cnbc_logo.gif",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T17:00:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNBC",
-        "domain": "cnbc.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnbc.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-microsoft-continues-its-push-to-get-more-of-its-own-services-hosted-on-azure-and-kubernetes-is-key.md",
-      "title": "Microsoft continues its push to get more of its own services hosted on Azure. And Kubernetes is key",
-      "excerpt": "Microsoft still has not completed its 10-year-plus goal of moving all of its Microsoft 365 services to run on Azure. But a company-produced case study published earlier this month provided a ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.zdnet.com/article/microsoft-continues-its-push-to-get-more-of-its-own-services-hosted-on-azure-and-kubernetes-is-key/",
-      "originalUrl": "https://www.zdnet.com/article/microsoft-continues-its-push-to-get-more-of-its-own-services-hosted-on-azure-and-kubernetes-is-key/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T15:18:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "ZDNet",
-        "domain": "zdnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement.md",
-      "title": "Google's $100 Million Facial Recognition Lawsuit: Who Can Claim Money From the Settlement?",
-      "excerpt": "Dan is a writer on CNET's How-To team. His byline has appeared in Newsweek, NBC News, The New York Times, Architectural Digest, The Daily Mail and elsewhere. He is a crossword junkie and is interested in the intersection of tech and marginalized communities.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnet.com/personal-finance/googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement/",
-      "originalUrl": "https://www.cnet.com/personal-finance/googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 114,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.cnet.com/a/img/resize/95ce5ca58f4c78b55da7303cc63a9f06721a1e3d/2022/08/25/f0a2866b-e71b-40d6-9c3d-2d0c873b3407/gettyimages-1242657903.jpg?auto=webp&fit=crop&height=630&width=1200",
-          "width": 1200,
-          "height": 630,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.cnet.com/google-amp/news/googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement/",
-      "cdnAmpWebUrl": "https://www-cnet-com.cdn.ampproject.org/c/s/www.cnet.com/google-amp/news/googles-100-million-facial-recognition-lawsuit-who-can-claim-money-from-the-settlement/",
-      "publishedDateTime": "2022-08-25T14:40:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNET",
-        "domain": "cnet.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnet.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Computer Vision",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-microsoft-cloud-services-are-vulnerable-to-nefarious-cozy-bear-mfa-hacking-campaign.md",
-      "title": "Microsoft Cloud Services Are Vulnerable To Nefarious Cozy Bear MFA Hacking Campaign",
-      "excerpt": "A new report by cybersecurity firm Mandiant details an ongoing hacking campaign targeting Microsoft 365. The threat actor behind this campaign is an advanced persistent threat (APT) known as “Co ...",
-      "sourceUrl": null,
-      "webUrl": "https://hothardware.com/news/microsoft-cloud-services-vulnerable-cozy-bear-mfa-hacking-campaign",
-      "originalUrl": "https://hothardware.com/news/microsoft-cloud-services-vulnerable-cozy-bear-mfa-hacking-campaign",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-25T13:52:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "hothardware.com",
-        "domain": "hothardware.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Microsoft AI",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-tesla-full-self-driving-debate-escalates-with-legal-threats-banned-videos.md",
-      "title": "Tesla ‘full self-driving’ debate escalates with legal threats, banned videos",
-      "excerpt": "Tesla fans rushed to defend the automaker after a prominent critic released a video showing one of the company's cars with the feature it calls \"full self-driving\" plowing into child-size mannequins.",
-      "sourceUrl": null,
-      "webUrl": "https://www.cnn.com/2022/08/25/business/tesla-dan-odowd-videos/index.html",
-      "originalUrl": "https://www.cnn.com/2022/08/25/business/tesla-dan-odowd-videos/index.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 206,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://cdn.cnn.com/cnnnext/dam/assets/220825123609-03-tesla-autopilot-file-restricted-super-tease.jpg",
-          "width": 1100,
-          "height": 619,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.cnn.com/cnn/2022/08/25/business/tesla-dan-odowd-videos/index.html",
-      "cdnAmpWebUrl": "https://amp-cnn-com.cdn.ampproject.org/c/s/amp.cnn.com/cnn/2022/08/25/business/tesla-dan-odowd-videos/index.html",
-      "publishedDateTime": "2022-08-25T13:41:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "CNN",
-        "domain": "cnn.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/cnn.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-26-fn-meka-the-racist-ai-rapper-is-a-symptom-of-a-bigger-problem.md",
-      "title": "FN Meka, the racist AI 'rapper,' is a symptom of a bigger problem",
-      "excerpt": "Capitol Records ended its record deal with a stereotypical 'rapper' that rhymes in the digital world. The controversy showed a major pitfall of AI.",
-      "sourceUrl": null,
-      "webUrl": "https://www.msnbc.com/the-reidout/reidout-blog/fn-meka-capitol-records-ai-rapper-rcna44785",
-      "originalUrl": "https://www.msnbc.com/the-reidout/reidout-blog/fn-meka-capitol-records-ai-rapper-rcna44785",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 77,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media-cldnry.s-nbcnews.com/image/upload/rockcms/2022-08/220825-ROB-Ai-rapper-an-b434e7.jpg",
-          "width": 2500,
-          "height": 1250,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna44785",
-      "cdnAmpWebUrl": "https://www-msnbc-com.cdn.ampproject.org/c/s/www.msnbc.com/msnbc/amp/shows/reidout/blog/rcna44785",
-      "publishedDateTime": "2022-08-25T13:07:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "MSNBC",
-        "domain": "msnbc.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
         "AI"
       ]
     }
