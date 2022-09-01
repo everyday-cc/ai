@@ -2,9 +2,9 @@
 category: news
 title: "US blocks Nvidia AI chip exports to China"
 excerpt: "China has condemned a US move to end its access to high-end processors made by chipmaker Nvidia, after Washington stepped up its efforts to restrict exports of cutting-edge technology to its trade and military rival."
-publishedDateTime: 2022-09-01T13:43:00Z
-originalUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90?curator=upstract.com"
-webUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90?curator=upstract.com"
+publishedDateTime: 2022-09-01T09:37:00Z
+originalUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90"
+webUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90"
 type: article
 quality: 54
 heat: -1
@@ -15,8 +15,8 @@ provider:
   domain: ft.com
 
 topics:
-  - AI
   - AI Hardware
+  - AI
 
 images:
   - url: "https://www.ft.com/__assets/creatives/product/dynamic-barriers/global-trade.jpg"
@@ -119,6 +119,34 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "U.S. allows Nvidia to do exports, transfers needed to develop its AI chip"
+    excerpt: "Nvidia Corp said on Thursday that the U.S. government has allowed exports and in-country transfers needed to develop the company's H100 artificial intelligence chip."
+    publishedDateTime: 2022-09-01T10:43:00Z
+    webUrl: "https://www.reuters.com/technology/us-allows-nvidia-do-exports-transfers-needed-develop-its-ai-chip-2022-09-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 85
+    images:
+      - url: "https://www.reuters.com/resizer/qkwow85lqROrYmQSCg3MurxYbWg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YHNENNNI3JN4ZJXKIUWO7ZIX5U.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "U.S. allows Nvidia exports needed to develop flagship AI chip"
+    excerpt: "Nvidia Corp said on Thursday the U.S. government has allowed exports needed to complete the development of its flagship artificial intelligence chip, a day after it disclosed that Washington had restricted shipments of two chips to China."
+    publishedDateTime: 2022-09-01T13:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-china-chips-nvidia/update-3-u-s-allows-nvidia-exports-needed-to-develop-flagship-ai-chip-idUSL4N3082PW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/qkwow85lqROrYmQSCg3MurxYbWg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YHNENNNI3JN4ZJXKIUWO7ZIX5U.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "US Tells AMD, Nvidia to Stop Selling Advanced AI Chips to China"
     excerpt: "AMD and Nvida are facing new license requirements imposed by the US government that restrict sales of advanced chips used for artificial intelligence to China. As Protocol reports, the restrictions will block China's access to high-end Nvidia and AMD GPUs."
     publishedDateTime: 2022-09-01T12:37:00Z
@@ -132,20 +160,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/0428h4RvpfRvCDQ6E4Ps6W4-1.fit_lim.size_1200x630.v1662024102.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "U.S. allows Nvidia to do exports, transfers needed to develop its AI chip"
-    excerpt: "Nvidia Corp said on Thursday that the U.S. government has allowed exports and in-country transfers needed to develop the company's H100 artificial intelligence chip."
-    publishedDateTime: 2022-09-01T10:43:00Z
-    webUrl: "https://www.reuters.com/technology/us-allows-nvidia-do-exports-transfers-needed-develop-its-ai-chip-2022-09-01/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 83
-    images:
-      - url: "https://www.reuters.com/resizer/qkwow85lqROrYmQSCg3MurxYbWg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YHNENNNI3JN4ZJXKIUWO7ZIX5U.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Machine learning at the edge: The AI chip company challenging Nvidia and Qualcomm"
     excerpt: "Sima AI's machine learning system-on-chip (MLSoC) platform that enables ML deployment and scaling at the edge has started shipping."
@@ -309,6 +323,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "iyikF8rdEh/ydKrRM8VvNpun4rU5IrGV9rrVeP5ciQYwbaURWU1rXoCKutRIamYOqiN9WMD8scJQ+1BxnEvRrctgyd3pQutdri84j2taxUdDFrfVp5yuhLWvXyHXq7quVnwlu1vH8goNWJjxzCYvnuLcjfK+CajdS9cuOyWcE2YvhczOUvdx6igYl4EVS1NxQuvM82sJKLU/co1VErjDMLM3HRIp0CC2alSeFbFemRtX/fvEinzrQ2X6OvgMMXt1ic4Q1MZdC+xuuxKkKzWMw3a+aGLjSzE19soYJVhX7IcnB96Jr4egBSszRZ1obrsMSyQ7vpPqW5tbwvBhp2SXiQGCtGIW30zOZ/3frsTQcvc=;Xy6CqwLS6ji/hsAcUfuPFw=="
+secured: "p7SP6ahx1F7wSPMpVkOGU2VNTdjAPQk7shDNHGYm2DIRrvJEHWdjv8vntSSzvvSYuyCUNE/vg6i533voPUQ7jhBYJegNqM+JDF2gXjC0QGri7zDIU5BIdAJQuXAhFrteJfwA8JRvGL+X2dg6k3YdiekJ2HpnQ0K/6qnGSkVwANoudE1XS0RqHQ/m9fXlL2RWXd9cMaFnC4AaJ8Wyuqq7XC28Iv/6m7vDcjZ+wB1MQzALzAHIZ86+nQDh/dzDBl+8dOVPpSSMizByev27nme5UDUGMGkkynrZHPcMGWKztLQgDrKvfmXeOnQ4FZXZOs9wuevYS9baWr7EtmMcd5wbBknbSwqxa/Y8atCrvi24mmY=;RJJVcWOG5CWGCUQdi3cRwA=="
 ---
 

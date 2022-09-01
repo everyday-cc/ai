@@ -75,6 +75,20 @@ related:
         width: 256
         height: 256
         isCached: true
+  - title: "Case IH and Raven Debut Industry's First Autonomous Spreader at Farm Progress Show"
+    excerpt: "Two of CNH Industrial’s brands, Case IH and Raven Industries, introduce the agriculture industry’s first autonomous spreader: the Case IH Trident™ 5550 applicator with Raven Autonomy™."
+    publishedDateTime: 2022-09-01T17:42:00Z
+    webUrl: "https://www.csrwire.com/press_releases/753861-case-ih-and-raven-debut-industrys-first-autonomous-spreader-farm-progress"
+    type: article
+    provider:
+      name: CSR Wire
+      domain: csrwire.com
+    quality: 18
+    images:
+      - url: "https://back.3blmedia.com/sites/default/files/inline-images/CASEIHSPREADER_CNHINDUSTRIAL_2022.jpeg"
+        width: 1280
+        height: 720
+        isCached: true
 
 secured: "Gg+pjBBjEdeKOY1K2g5+Bsy9LFXMjiFgSl9+Fycou0zn7dMRUwfE56fuYPAhEePR1lVGR6kg46GiVdOeNp3ymyjhftZ8zhHsJs0Gp3pcqWAdu/wNlbBQiwMylw/lY1T6CEwicFOVIbe8xe2AkjhJxjem4FjWZFYsG+u0f9BFFBxSq2txctopHFu9MK4bz1EDYJd1jvRCtZPoe+l9QZi8kG2+VE9ij1M/UU+PV6dgatZLlGdcpX78w1qd/F6G57BAIA/fZOuUwc7ClHC1izuto9syIFccRRBR/a20NPSCWxIOmx+gIcdqVNNq7pdv4P4Y+cl6hRNLyzC7JEESpE5nm31yvHTBDljyYmkbVCNRvquLczF6EVf4gKIDQhH8HpU/LIMpwqZr4TACeYKbjyTmj12fc4Q2m0oWx+TfxcI9UTZbxKAWvP/a4luHuiO/tcibgodhbb/HV+TXuDREk74/aUjsmsxgElG31PUI3Wvn3wNGjObkRLvgieghKSKBJpcnXLdwBbCEuMogDGq1I4Ra/w==;rDxDkv7kK91SdgbhOlIJEA=="
 ---

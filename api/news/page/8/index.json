@@ -2,6 +2,133 @@
   "page": 8,
   "value": [
     {
+      "path": "_news/2022-08-24-saas-solutions-provider-revsureai-raises-35-mn-in-seed-funding.md",
+      "title": "SaaS solutions provider RevSure.AI raises $3.5 mn in seed funding",
+      "excerpt": "RevSure.AI announced on Wednesday that it has raised $3.5 million in seed funding and has launched out of stealth mode. The investment was led by Innovation Endeavors, with participation from angel investors Katrin Ribant,",
+      "sourceUrl": null,
+      "webUrl": "https://www.business-standard.com/article/companies/saas-solutions-provider-revsure-ai-raises-3-5-mn-in-seed-funding-122082400584_1.html",
+      "originalUrl": "https://www.business-standard.com/article/companies/saas-solutions-provider-revsure-ai-raises-3-5-mn-in-seed-funding-122082400584_1.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 77,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-08/24/full/1661329340-8151.jpg",
+          "width": 620,
+          "height": 464,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://wap.business-standard.com/article-amp/companies/saas-solutions-provider-revsure-ai-raises-3-5-mn-in-seed-funding-122082400584_1.html",
+      "cdnAmpWebUrl": "https://wap-business--standard-com.cdn.ampproject.org/c/s/wap.business-standard.com/article-amp/companies/saas-solutions-provider-revsure-ai-raises-3-5-mn-in-seed-funding-122082400584_1.html",
+      "publishedDateTime": "2022-08-24T01:34:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Business Standard",
+        "domain": "business-standard.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-computer-vision-development-market-size-cagr-status-key-dynamics-share-size-top-key-manufacturers-regional-segmentation-and-forecast-to.md",
+      "title": "Computer Vision Development Market Size, CAGR Status, Key Dynamics, Share, Size, Top Key Manufacturers, Regional Segmentation and Forecast to 2029",
+      "excerpt": "Computer Vision Development Market Report 2022 presents strategic analysis of growth predictions, future trends analysis, sales-revenue, sales patterns, production, consumption and highlighted key ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.digitaljournal.com/pr/computer-vision-development-market-size-cagr-status-key-dynamics-share-size-top-key-manufacturers-regional-segmentation-and-forecast-to-2029",
+      "originalUrl": "https://www.digitaljournal.com/pr/computer-vision-development-market-size-cagr-status-key-dynamics-share-size-top-key-manufacturers-regional-segmentation-and-forecast-to-2029",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": null,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.digitaljournal.com/wp-content/uploads/2022/08/Artemis1-NASA-Moon-AFP-1K-04-600x337.jpg",
+          "width": 600,
+          "height": 337,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-08-24T00:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Digital Journal",
+        "domain": "digitaljournal.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-24-now-ai-can-detect-parkinsons-disease-while-you-are-sleeping.md",
+      "title": "Now AI can detect Parkinson's disease while you are sleeping",
+      "excerpt": "Parkinson's disease, a central nervous system disorder that affects movement, sometimes causing tremors, doesn't come with a warning. It is the world's second-most common neurolog",
+      "sourceUrl": null,
+      "webUrl": "https://economictimes.indiatimes.com/magazines/panache/now-ai-can-detect-parkinsons-disease-while-you-are-sleeping/articleshow/93747223.cms",
+      "originalUrl": "https://economictimes.indiatimes.com/magazines/panache/now-ai-can-detect-parkinsons-disease-while-you-are-sleeping/articleshow/93747223.cms",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 137,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://m.economictimes.com/thumb/height-450,width-600,imgsize-42184,msid-93747444/robot-ai-brain_istock.jpg",
+          "width": 600,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://m.economictimes.com/magazines/panache/now-ai-can-detect-parkinsons-disease-while-you-are-sleeping/amp_articleshow/93747223.cms",
+      "cdnAmpWebUrl": "https://m-economictimes-com.cdn.ampproject.org/c/s/m.economictimes.com/magazines/panache/now-ai-can-detect-parkinsons-disease-while-you-are-sleeping/amp_articleshow/93747223.cms",
+      "publishedDateTime": "2022-08-23T23:45:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "India Times",
+        "domain": "indiatimes.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-24-google-robots-are-more-human-like-can-perform-complex-tasks.md",
       "title": "Google robots are more human-like – can perform complex tasks",
       "excerpt": "While the Google robot won’t be a smart cook anytime soon, it represents a major breakthrough that Google claims. Using recently developed artificial intelligence (AI) software known as large ...",
@@ -1033,137 +1160,6 @@
         "news"
       ],
       "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-machine-learning-algorithm-predicts-how-to-get-the-most-out-of-electric-vehicle-batteries.md",
-      "title": "Machine learning algorithm predicts how to get the most out of electric vehicle batteries",
-      "excerpt": "Researchers have developed a machine learning algorithm that could help reduce charging times and prolong battery life in electric vehicles by predicting how different driving patterns affect battery performance,",
-      "sourceUrl": null,
-      "webUrl": "https://techxplore.com/news/2022-08-machine-algorithm-electric-vehicle-batteries.html",
-      "originalUrl": "https://techxplore.com/news/2022-08-machine-algorithm-electric-vehicle-batteries.html",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 70,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://scx2.b-cdn.net/gfx/news/hires/2021/electric-car.jpg",
-          "width": 1920,
-          "height": 1275,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techxplore.com/news/2022-08-machine-algorithm-electric-vehicle-batteries.amp",
-      "cdnAmpWebUrl": "https://techxplore-com.cdn.ampproject.org/c/s/techxplore.com/news/2022-08-machine-algorithm-electric-vehicle-batteries.amp",
-      "publishedDateTime": "2022-08-23T08:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "techxplore",
-        "domain": "techxplore.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-how-is-machine-learning-affecting-advertising-and-marketing.md",
-      "title": "How is Machine Learning Affecting Advertising and Marketing?",
-      "excerpt": "Machine learning is transforming the dynamics of the advertising and marketing industry by segmenting and targeting specific audiences with relevant messages.",
-      "sourceUrl": null,
-      "webUrl": "https://www.bbntimes.com/technology/how-is-machine-learning-affecting-advertising-and-marketing",
-      "originalUrl": "https://www.bbntimes.com/technology/how-is-machine-learning-affecting-advertising-and-marketing",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 78,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://www.bbntimes.com/images/articles/global-economy/How_is_Machine_Learning_Affecting_Advertising_and_Marketing_.jpg",
-          "width": 1000,
-          "height": 563,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T08:31:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "bbntimes",
-        "domain": "bbntimes.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Finance",
-        "AI",
-        "Machine Learning",
-        "AI in Marketing"
-      ]
-    },
-    {
-      "path": "_news/2022-08-23-untether-ai-unveils-its-second-generation-at-memory-compute-architecture-at-hot-chips-2022.md",
-      "title": "Untether AI Unveils Its Second-Generation At-Memory Compute Architecture at HOT CHIPS 2022",
-      "excerpt": "Untether AITM, the leader in at-memory computation for artificial intelligence (AI) workloads, today announced at the HOT CHIPS 2022 conference its next-generation architecture for accelerating AI inference workloads called speedAI devices,",
-      "sourceUrl": null,
-      "webUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c",
-      "originalUrl": "https://apnews.com/press-release/business-wire/technology-artificial-intelligence-palo-alto-climate-and-environment-5798dcbf47da4517b54a0db9143c109c",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://apnews.com/images/PaidContent3.png",
-          "width": 700,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-23T08:16:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Associated Press",
-        "domain": "apnews.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI Hardware",
         "AI"
       ]
     }

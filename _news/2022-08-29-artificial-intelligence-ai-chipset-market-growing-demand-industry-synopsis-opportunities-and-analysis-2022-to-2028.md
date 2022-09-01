@@ -42,6 +42,20 @@ related:
         width: 1200
         height: 630
         isCached: true
+  - title: "Artificial Intelligence Robots Market Share, Size, Growth, Future Trends, Key Players and Industry Analysis 2022-2028"
+    excerpt: "Robots Market is expected to exceed more than US$ 12 Billion by 2024 at a CAGR of 29% in the given forecast period. Browse the full report here:  The Artificial Intelligence (AI) Robots Market is segmented on the Basis of Offering Type,"
+    publishedDateTime: 2022-09-01T14:01:00Z
+    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-share-size-growth-future-trends-key-players-and-industry-analysis-2022-2028-2022-09-01"
+    type: article
+    provider:
+      name: MarketWatch
+      domain: marketwatch.com
+    quality: 63
+    images:
+      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
+        width: 1200
+        height: 630
+        isCached: true
   - title: "AI in Fintech Market Report 2022-27: Size, Share, Growth, Trends And Forecast"
     excerpt: "The global AI in fintech market reached a value of US$ 9.4 Billion in 2021. Looking forward, IMARC Group expects the market to reach US$ 36.1 Billion by 2027, exhibiting at a CAGR of 26.1% during 2022-2027."
     publishedDateTime: 2022-09-01T00:15:00Z
@@ -66,25 +80,25 @@ related:
     provider:
       name: MarketWatch
       domain: marketwatch.com
-    quality: 49
+    quality: 51
     images:
       - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
         width: 1200
         height: 630
         isCached: true
-  - title: "Artificial Intelligence Robots Market Share, Size, Growth, Future Trends, Key Players and Industry Analysis 2022-2028"
-    excerpt: "Robots Market is expected to exceed more than US$ 12 Billion by 2024 at a CAGR of 29% in the given forecast period. Browse the full report here:  The Artificial Intelligence (AI) Robots Market is segmented on the Basis of Offering Type,"
-    publishedDateTime: 2022-09-01T14:01:00Z
-    webUrl: "https://www.marketwatch.com/press-release/artificial-intelligence-robots-market-share-size-growth-future-trends-key-players-and-industry-analysis-2022-2028-2022-09-01"
+  - title: "Computer Vision Market Share | Trend Analysis, Production Scenario And Supply Forecast By 2031"
+    excerpt: "Computer Vision Market Size Computer Vision Market size was valued at USD 11.22 billion in 2021 and is expected to expand at a compound a"
+    publishedDateTime: 2022-09-01T17:56:00Z
+    webUrl: "https://menafn.com/1104795560/Computer-Vision-Market-Share-Trend-Analysis-Production-Scenario-And-Supply-Forecast-By-2031"
     type: article
     provider:
-      name: MarketWatch
-      domain: marketwatch.com
-    quality: 46
+      name: Middle East North Africa Financial Network
+      domain: menafn.com
+    quality: 27
     images:
-      - url: "https://mw3.wsj.net/mw5/content/logos/mw_logo_social.png"
-        width: 1200
-        height: 630
+      - url: "https://menafn.com/updates/pr/2022-09/01/EP_ec4a4image_story.jpeg"
+        width: 1173
+        height: 614
         isCached: true
   - title: "AI in Fintech Market Size, Key Developmental Strategies, Future Scope, Technological Innovation And Forecasts To 2028"
     excerpt: "The latest AI in Fintech Market Analysis is designed to help clients improve their market position, and in line"

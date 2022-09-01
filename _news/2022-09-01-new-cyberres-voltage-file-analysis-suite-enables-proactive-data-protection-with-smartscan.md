@@ -1,29 +1,27 @@
 ---
 category: news
 title: "New CyberRes Voltage File Analysis Suite Enables Proactive Data Protection with SmartScan"
-excerpt: "CyberRes, a Micro Focus (LSE: MCRO; NYSE: MFGP) line of business, today announced a new version of Voltage File Analysis Suite (FAS), a cloud platform that combines the latest in data discovery and data protection."
-publishedDateTime: 2022-09-01T11:07:00Z
-originalUrl: "https://apnews.com/press-release/pr-newswire/technology-data-privacy-ece759ae538c51076dd32d2263520b93"
-webUrl: "https://apnews.com/press-release/pr-newswire/technology-data-privacy-ece759ae538c51076dd32d2263520b93"
+excerpt: "Powerful platform provides heightened global security awareness via software-as-a-service and is available as an MSSP offeringSANTA CLARA,"
+publishedDateTime: 2022-09-01T11:12:00Z
+originalUrl: "https://markets.businessinsider.com/news/stocks/new-cyberres-voltage-file-analysis-suite-enables-proactive-data-protection-with-smartscan-1031718774"
+webUrl: "https://markets.businessinsider.com/news/stocks/new-cyberres-voltage-file-analysis-suite-enables-proactive-data-protection-with-smartscan-1031718774"
 type: article
-quality: 15
-heat: 15
+quality: 25
+heat: 25
 published: false
 
 provider:
-  name: Associated Press
-  domain: apnews.com
+  name: Business Insider
+  domain: businessinsider.com
+  images:
+    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/businessinsider.com-50x50.jpg"
+      width: 50
+      height: 50
 
 topics:
   - Computer Vision
   - AI
 
-images:
-  - url: "https://apnews.com/images/PaidContent3.png"
-    width: 700
-    height: 450
-    isCached: true
-
-secured: "yrj4qEWD81xiEtn+1DOqv2bBTMinBVyC7pi62MODNsnmbYk+sRMT80sPpy4UQm/Mew+9juxf0axFscYoZR6hBFcj2f+VwjLJfxJvrlgdSpZBCu+WFsNrZbgoxhlIiuJAxU7Pd3sGKGL2ECr8Wf7/H6Jk7gm7G8Q1x2PWFG/fkDPwQjyvkznUoOYEn8IXlThBWDT7krqlw5tNI52VpBVOsMAUSu+i5CExw5NwX5nRt0JlGlM0aBNe7UAOvBJKaoZUPvcc9xueuVU7gnEhuZxxH4JYCPb9DaKWGbJFc3R0mKnYvfuwbxLPgWCcn4kIKCsUSLZcXsppr2/+oxaC2E5wJx507Mmakyk6UA0rvszEOmg=;3pam7ugqdhGTyTOBRAdJ1g=="
+secured: "j3BAZew67r/6EuQ4H/iKt2mY1K7rEJP6zqXq8VxZYvR1wVsiH/vVI0oevaXeSFnslcCWCZ9OJtX1R/66rBEn1NAaVhwn4+bVicbHiNC2E2S66DYBL4LnCdFzXdxREBWE9ZlR2rE7/buWSMRd56MgWr+lrYIfi9QyM5+jBT3qLQEBJ5qNPMbfH+gH1PvuapZ335/QmITnCBYjkhHPoTyvUzWEDNvcjyBMZQqD0aD5QQv9iKluPG3v1/rxJcJFLVTRvFFG86cvVRl4fPLbvC3xXjQtk7mPAftGe5zjwiekHMYETmbj3ExA9nwMQhBNH1zMF5w4dFkOSTk39oarrlCpqkDlGHiFss2KUI0WxrrYrUc=;GdW9yyUO0ZpE5AjvpVOxhw=="
 ---
 

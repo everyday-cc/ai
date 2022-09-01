@@ -6,7 +6,7 @@ publishedDateTime: 2022-09-01T10:43:00Z
 originalUrl: "https://www.reuters.com/technology/us-allows-nvidia-do-exports-transfers-needed-develop-its-ai-chip-2022-09-01/"
 webUrl: "https://www.reuters.com/technology/us-allows-nvidia-do-exports-transfers-needed-develop-its-ai-chip-2022-09-01/"
 type: article
-quality: 83
+quality: 85
 heat: -1
 published: false
 
@@ -21,6 +21,7 @@ provider:
 topics:
   - AI Hardware
   - AI
+  - AI in Sales
 
 images:
   - url: "https://www.reuters.com/resizer/qkwow85lqROrYmQSCg3MurxYbWg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YHNENNNI3JN4ZJXKIUWO7ZIX5U.jpg"
@@ -122,6 +123,20 @@ related:
       - url: "https://cdn.cnn.com/cnnnext/dam/assets/220831223536-01-nvidia-amd-chips-super-tease.jpg"
         width: 1100
         height: 619
+        isCached: true
+  - title: "U.S. allows Nvidia exports needed to develop flagship AI chip"
+    excerpt: "Nvidia Corp said on Thursday the U.S. government has allowed exports needed to complete the development of its flagship artificial intelligence chip, a day after it disclosed that Washington had restricted shipments of two chips to China."
+    publishedDateTime: 2022-09-01T13:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-china-chips-nvidia/update-3-u-s-allows-nvidia-exports-needed-to-develop-flagship-ai-chip-idUSL4N3082PW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/qkwow85lqROrYmQSCg3MurxYbWg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YHNENNNI3JN4ZJXKIUWO7ZIX5U.jpg"
+        width: 1200
+        height: 628
         isCached: true
   - title: "US Tells AMD, Nvidia to Stop Selling Advanced AI Chips to China"
     excerpt: "AMD and Nvida are facing new license requirements imposed by the US government that restrict sales of advanced chips used for artificial intelligence to China. As Protocol reports, the restrictions will block China's access to high-end Nvidia and AMD GPUs."
@@ -264,8 +279,8 @@ related:
         isCached: true
   - title: "US blocks Nvidia AI chip exports to China"
     excerpt: "China has condemned a US move to end its access to high-end processors made by chipmaker Nvidia, after Washington stepped up its efforts to restrict exports of cutting-edge technology to its trade and military rival."
-    publishedDateTime: 2022-09-01T13:43:00Z
-    webUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90?curator=upstract.com"
+    publishedDateTime: 2022-09-01T09:37:00Z
+    webUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90"
     type: article
     provider:
       name: The Financial Times
@@ -313,6 +328,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "hfM33o1Jb1xRPYBplUsesEHCCtwuccyx2AQQxw7+v3wGT1ObL0NNQvmVT5JGrXu9BBlBZIwOkBT8A1PVlzy3GtFktxTg6wZpDDwewZFVSTYRaI9YFhevqp2HiPiZjqaXlvY5eoSp1vfm6BAYMhHTCz9Xx4jkPJKjTuM2ztnPI5RqNz432XYjcU3Pjgy+LM7gFh/KFqC660NUETYsWB3hoRoL2/Zd/wm0OM2OT7lJVhoJTCUcsaFIAfxogCdzUEbLKhAvCPaLRt1N7QWoirb0JkYHjPN46IFKvIiMMOwBt9ddiT47Y/a4pK1D+xQ5FlDYZwvL1eeJWy+O8eZNdNi+z4YScIf0LZd7ph/7NThwGo0=;nuqhc2ToiE7GB7PZaPyqKw=="
+secured: "X2LIqUJniOCzx08o0M4SvcwZuRIp5Nna/danhFoEmZUF/jHQwmTRZf51xZ3IUVmXtaQfC4AuxcHqBj8crR3S9e3iF75nrQQ2p0KyeBxBjDi9hhiK0JwfVM1XMPQ0QeKjtTj/R5RB6lAfUxE+UPpAvwx0sNYGh3WVRKdH9XaF6lv0pztcQakkZx75fNXdc9LtWHifQ9rwtcYTTwPsMi59Uej2gy0LJMVZHvzcRuY3WQqh0mBSvttMrPUevS+qwVGChEMTetxUWXdDATB1R48uvKZXBcuyMywKj5Yw/hc6zDEPAL8Xa8Ze3n1+OaD5siT58AW3hh83n+hnAwc7GAAYpSYGFNfT+nzjklzmryCvAAbyRyGoOJhSj9mnO4zaC5+MAppX5PM2tr6/z7IUq3q+tgG0r7Aiq8xgouuI4BExArHz2lsLyOKO58dpxmpqYSHvxwubIf0jjf2aOUO/GTfEEK6DvvyjicGkyAI91VkpmroEszQuXnjPL5J/JX84YJdTT9UMawt4eMEOpC5bE7uPrg==;KI8nXo8+ucRCfYSVr05FpQ=="
 ---
 

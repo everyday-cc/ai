@@ -2,6 +2,111 @@
   "page": 2,
   "value": [
     {
+      "path": "_news/2022-08-31-mary-barra-confident-in-gms-self-driving-vehicle-tech-and-goal-to-beat-tesla-in-evs.md",
+      "title": "Mary Barra confident in GM’s self-driving vehicle tech and goal to beat Tesla in EVs",
+      "excerpt": "As we roll along in the third quarter of 2022, GM’s long-promised EV lineup is beginning to materialize and gain some serious momentum. The American automaker now has several EVs on the market and has even more in its production pipeline.",
+      "sourceUrl": null,
+      "webUrl": "https://electrek.co/2022/08/30/mary-barra-gm-self-driving-tech-beat-tesla-evs/",
+      "originalUrl": "https://electrek.co/2022/08/30/mary-barra-gm-self-driving-tech-beat-tesla-evs/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 82,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://i0.wp.com/electrek.co/wp-content/uploads/sites/3/2022/08/GM-Telsla-Mary-Barra.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+          "width": 1200,
+          "height": 628,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://electrek.co/2022/08/30/mary-barra-gm-self-driving-tech-beat-tesla-evs/amp/",
+      "cdnAmpWebUrl": "https://electrek-co.cdn.ampproject.org/c/s/electrek.co/2022/08/30/mary-barra-gm-self-driving-tech-beat-tesla-evs/amp/",
+      "publishedDateTime": "2022-08-30T15:42:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Electrek",
+        "domain": "electrek.co",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/electrek.co-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI in Autos",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-31-ai-startup-simaai-debuts-purpose-built-ai-chip-for-edge-computing.md",
+      "title": "AI startup SiMa.ai debuts 'purpose-built' AI chip for edge computing",
+      "excerpt": "The chip company places special emphasis on software innovations such as compiler optimization to improve performance.",
+      "sourceUrl": null,
+      "webUrl": "https://www.zdnet.com/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
+      "originalUrl": "https://www.zdnet.com/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 187,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://www.zdnet.com/a/img/resize/880f030bba7a4480fe84f79f48a479e12de7a17e/2022/08/30/9a7626ba-c727-4205-8109-e0d5caf30154/sima-mlsoc-evaluation-board.png?width=1200&fit=bounds&format=pjpg&auto=webp",
+          "width": 1200,
+          "height": 749,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
+      "cdnAmpWebUrl": "https://www-zdnet-com.cdn.ampproject.org/c/s/www.zdnet.com/google-amp/article/ai-startup-sima-debuts-purpose-built-ai-chip-for-edge-computing/",
+      "publishedDateTime": "2022-08-30T15:31:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "ZDNet",
+        "domain": "zdnet.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/zdnet.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI Hardware",
+        "Machine Learning"
+      ]
+    },
+    {
       "path": "_news/2022-08-31-this-woman-created-an-ai-system-to-monitor-her-cats-poop.md",
       "title": "This Woman Created An AI System to Monitor Her Cat's Poop",
       "excerpt": "She then took thousands of pictures of her cats pooping, and fed the pictures to a machine learning system so that it could differentiate between Teddy and Luna.",
@@ -1049,7 +1154,7 @@
       "originalUrl": "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-pipeline-sharing-to-view-or-manage-pipelines-across-aws-accounts/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 107,
+      "heat": 117,
       "tags": null,
       "images": [
         {
@@ -1090,102 +1195,6 @@
       "topics": [
         "AI",
         "AWS AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-medical-moment-artificial-intelligence-without-internet.md",
-      "title": "Medical Moment: Artificial intelligence without internet",
-      "excerpt": "Researchers at the University of Central Florida are developing devices that won’t rely on internet connections to work in remote areas.",
-      "sourceUrl": null,
-      "webUrl": "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/",
-      "originalUrl": "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 73,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://gray-wndu-prod.cdn.arcpublishing.com/resizer/Zjrp52IWw1kfNqZiri7HqgaeAvY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/T5PZWRAKHRDDNBCFVXCYT3H66Q.jpg",
-          "width": 800,
-          "height": 450,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/?outputType=amp",
-      "cdnAmpWebUrl": "https://www-wndu-com.cdn.ampproject.org/c/s/www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/?outputType=amp",
-      "publishedDateTime": "2022-08-29T14:58:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "WNDU",
-        "domain": "wndu.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AI in Autos",
-        "Facebook AI",
-        "AI in Robotics"
-      ]
-    },
-    {
-      "path": "_news/2022-08-30-edison-international-ceo-ai-tools-are-transforming-utilities.md",
-      "title": "Edison International CEO: AI Tools are Transforming Utilities",
-      "excerpt": "CEO Pedro Pizarro says “We are doing things today we didn’t imagine five years ago”",
-      "sourceUrl": null,
-      "webUrl": "https://fortune.com/videos/watch/Edison-International-CEO-AI-Tools-are-Transforming-Utilities/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160",
-      "originalUrl": "https://fortune.com/videos/watch/Edison-International-CEO-AI-Tools-are-Transforming-Utilities/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 87,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2byebo1j9i40c.cloudfront.net/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160/Images/posterImage-ver1-1280x720.png",
-          "width": 1280,
-          "height": 720,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://fortune.com/videos/watch/edison-international-ceo%3A-ai-tools-are-transforming-utilities/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160/amp",
-      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/edison-international-ceo%3A-ai-tools-are-transforming-utilities/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160/amp",
-      "publishedDateTime": "2022-08-29T14:19:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Fortune",
-        "domain": "fortune.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
       ]
     }
   ],

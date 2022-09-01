@@ -72,7 +72,7 @@ related:
     provider:
       name: Law
       domain: law.com
-    quality: 39
+    quality: 41
     images:
       - url: "https://images.law.com/contrib/content/uploads/sites/402/2022/08/Halt-Glabicki-767x633.jpg"
         width: 767

@@ -2,17 +2,17 @@
 category: news
 title: "Groundbreaking research involving artificial intelligence could diagnose ALS patients sooner"
 excerpt: "Five thousand people in the U.S. are diagnosed with a neurological disease called ALS every year. Medical experts say it typically takes an average of two years to diagnose, but new research will likely make that timetable a lot shorter."
-publishedDateTime: 2022-08-31T19:48:00Z
-originalUrl: "https://www.katc.com/news/national/groundbreaking-research-involving-artificial-intelligence-could-diagnose-als-patients-sooner"
-webUrl: "https://www.katc.com/news/national/groundbreaking-research-involving-artificial-intelligence-could-diagnose-als-patients-sooner"
+publishedDateTime: 2022-08-31T19:52:00Z
+originalUrl: "https://www.wtkr.com/news/national/groundbreaking-research-involving-artificial-intelligence-could-diagnose-als-patients-sooner"
+webUrl: "https://www.wtkr.com/news/national/groundbreaking-research-involving-artificial-intelligence-could-diagnose-als-patients-sooner"
 type: article
 quality: 26
 heat: 26
 published: false
 
 provider:
-  name: KATC
-  domain: katc.com
+  name: WTKR.com
+  domain: wtkr.com
 
 topics:
   - AI
@@ -23,6 +23,6 @@ images:
     height: 630
     isCached: true
 
-secured: "vTMBci7xYAQSCrcEkBZt/Bl60wb/a4HvAK9BPNd1ddje1F4IdcePNgir+NS2fnbQLXUxOhJV4rB25sOOG/vGvzo2cSqM6tprsAimkI0zjG47JNp18v0M9cMhHzjqVeVXo4PzXFe0AhqVePy/ZHT+hkm8xqzaGcbJeQ/EwXGbHjXo5ojDktDIip+wS5r1JPhoaOaidJr5X2z6Gw+XdaBWzkAnaMA+TelCImYDXaJKqD2p0u1I9+xLmiIH2Gi3Ghnp3rS7VaZFK0zFy/1rBoCxHuDT7q9Snc4+3l8r1AdUNduhBPRmUhyK55nGyQ92ZN0BZjPdUDaVhOPSUgMQZ5k9gKKQz381ifo/b+Q43eJmrGo=;MZYsMNOmAcOAL/AibLOVCQ=="
+secured: "doEGc3VU4Pl7pB3t3iMExH5wzVahPUU+FZRH6K2SF2kDI0PiVAwyZPtGagLgJXxC4tiQUd6wFmzZjcSFZ26Qaknj3Ivuw5nwauCgrv++4+JLy7/EYNrtGmpzoQz0EqQgmCZ0Zfs9BT5I/yKsRl40CTIEKSbd9JLkOnGTddfAGGXt7pZqFX+zGb4wj9agKSXtkP3ia+vYzWI6q+l3m0EjD0vwZooOT97T3SUrVGJyKuw6cnG02IUryl72Xlu5qEd4+dVyi+X986HVZW83+YlGs/AIOJ1J4ZkaUnC6+6CZhhEzpw7x8algIHkwWLVJO1UeqPyQ4YCU8DYFntyDYKIhPW18rO3voQNYd2IJn+h/nlo=;Em4FdwynBp01f3VAmvJkmA=="
 ---
 

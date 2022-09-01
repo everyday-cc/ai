@@ -7,7 +7,7 @@ originalUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker
 webUrl: "https://aws.amazon.com/blogs/machine-learning/use-amazon-sagemaker-pipeline-sharing-to-view-or-manage-pipelines-across-aws-accounts/"
 type: article
 quality: 97
-heat: 107
+heat: 117
 published: true
 
 provider:
@@ -29,6 +29,20 @@ images:
     isCached: true
 
 related:
+  - title: "Learn How Amazon SageMaker Clarify Helps Detect Bias"
+    excerpt: "Bias detection in data and model outcomes is a fundamental requirement for building responsible artificial intelligence (AI) and machine learning (ML) models. Unfortunately, detecting bias isn’t an easy task for the vast majority of practitioners due to the large number of ways in which it can be measured"
+    publishedDateTime: 2022-09-01T16:06:15Z
+    webUrl: "https://aws.amazon.com/blogs/machine-learning/learn-how-amazon-sagemaker-clarify-helps-detect-bias/"
+    type: article
+    provider:
+      name: AWS
+      domain: aws.amazon.com
+    quality: 89
+    images:
+      - url: "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/09/01/Featured-images-for-ML-9368.jpg"
+        width: 800
+        height: 400
+        isCached: true
   - title: "Explore Amazon SageMaker Data Wrangler capabilities with sample datasets"
     excerpt: "Data preparation is the process of collecting, cleaning, and transforming raw data to make it suitable for insight extraction through machine learning (ML) and analytics. Data preparation is crucial for ML and analytics pipelines. Your model and insights will only be as reliable as the data you use for"
     publishedDateTime: 2022-08-29T18:30:04Z

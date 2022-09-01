@@ -7,7 +7,7 @@ originalUrl: "https://www.reuters.com/business/autos-transportation/gms-cruise-r
 webUrl: "https://www.reuters.com/business/autos-transportation/gms-cruise-recalls-revises-self-driving-software-after-crash-2022-09-01/"
 type: article
 quality: 54
-heat: 74
+heat: 94
 published: true
 
 provider:
@@ -43,6 +43,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "GM’s Cruise Recalls 80 Self-Driving Cars Due to Risk of Crash"
+    excerpt: "General Motors Co.’s Cruise self-driving car unit has recalled an older version of software used by its robotaxis at the time of a crash in San Francisco in June, according to federal transportation regulators."
+    publishedDateTime: 2022-09-01T17:04:00Z
+    webUrl: "https://www.bnnbloomberg.ca/gm-s-cruise-recalls-80-self-driving-cars-due-to-risk-of-crash-1.1813507"
+    ampWebUrl: "https://www.bnnbloomberg.ca/gm-s-cruise-recalls-80-self-driving-cars-due-to-risk-of-crash-1.1813507.amp.html"
+    cdnAmpWebUrl: "https://www-bnnbloomberg-ca.cdn.ampproject.org/c/s/www.bnnbloomberg.ca/gm-s-cruise-recalls-80-self-driving-cars-due-to-risk-of-crash-1.1813507.amp.html"
+    type: article
+    provider:
+      name: bnnbloomberg
+      domain: bnnbloomberg.ca
+    quality: 44
+    images:
+      - url: "http://www.bnnbloomberg.ca/polopoly_fs/1.1813508!/fileimage/httpImage/image.jpg_gen/derivatives/landscape_620/a-cruise-vehicle-in-san-francisco-california-photographer-david-paul-morris-bloomberg.jpg"
+        width: 620
+        height: 349
+        isCached: true
   - title: "General Motors Recalls and Updates 80 Self-Driving Vehicles"
     excerpt: "General Motors' (NYSE:GM) startup unit, Cruise LLC, announced Thursday that it had recalled and updated software in 80 self-driving vehicles after a June crash in San Francisco left two people injured."
     publishedDateTime: 2022-09-01T15:26:00Z
@@ -56,6 +72,20 @@ related:
       - url: "https://i-invdn-com.investing.com/news/LYNXNPEC9O0PR_L.jpg"
         width: 800
         height: 499
+        isCached: true
+  - title: "Cruise updates its fleet's self-driving software after crash"
+    excerpt: "Autonomous vehicle upstart Cruise has recalled and updated software in 80 self-driving robotaxis, according to a regulatory filing. Read more."
+    publishedDateTime: 2022-09-01T17:30:00Z
+    webUrl: "https://seekingalpha.com/news/3879474-cruise-updates-its-fleets-self-driving-software-after-crash"
+    type: article
+    provider:
+      name: Seeking Alpha
+      domain: seekingalpha.com
+    quality: 24
+    images:
+      - url: "https://static.seekingalpha.com/cdn/s3/uploads/getty_images/971998294/image_971998294.jpg?io=getty-c-w750"
+        width: 750
+        height: 503
         isCached: true
 
 secured: "0vZMCY0Xe48ypY86Dzd/jz46+UmjJb5vAtHS+PWiPeF9slDaE+745wxt4gUNFarOUD9kPHOZr3gg4fKwbjCz9gLs3yd4Txlyq3zGFy/1cTUYt8O2CgjDUidCctGOhv2m2vSRlxeO5vvwETjHKFa6WN+hE6k5bb0JINnjh2jdmUin9Kc1lK3dzejHyZ2IHMmC0lKTfaiHwCz3479yMSqOEf4tc1m5jOsahJVcfAgJD7UbV/hOCZvQXSZdKCc1uPPbxtQE8pa0NJ8qikoWYnWATOk3GWgYB5p7cmaQU4gbh+C5cZpIE/mhvakYL2ymG7ST+In8RTqqmjaud7lGJSE5sXMq+j/H+GnbGe7lfSsztMQ+GZUdv8toXA8Bc/VEze+iNUhpTPtNjUrkq7GZC30TDikrR0edQ+lS+1pI5OLxhCvUZt88+9dv1vlVMSomYuuL/e7NpX8+Dv/JOA5SLHeFlVDs5xLVTQPqZ+5Rsp4Yu23BSlSDx756MrV/j3l48ycAK0Y0cu1VAtuVMUWT6HEsyQ==;+n0u8CIDe28YJ93jZGtm/g=="

@@ -33,6 +33,22 @@ related:
         width: 1200
         height: 628
         isCached: true
+  - title: "California Passes Bill Targeting Tesla’s Self-Driving Claims"
+    excerpt: "The California Department of Motor Vehicles has rules banning the advertisement of cars as self-driving when they are not, but it has not enforced them. Now, the Legislature is making it a state law."
+    publishedDateTime: 2022-09-01T16:27:00Z
+    webUrl: "https://www.govtech.com/policy/california-passes-bill-targeting-teslas-self-driving-claims"
+    ampWebUrl: "https://www.govtech.com/policy/california-passes-bill-targeting-teslas-self-driving-claims?_amp=true"
+    cdnAmpWebUrl: "https://www-govtech-com.cdn.ampproject.org/c/s/www.govtech.com/policy/california-passes-bill-targeting-teslas-self-driving-claims?_amp=true"
+    type: article
+    provider:
+      name: Government Technology
+      domain: govtech.com
+    quality: 74
+    images:
+      - url: "https://erepublic.brightspotcdn.com/dims4/default/b0d6788/2147483647/strip/true/crop/1170x610+0+85/resize/840x438!/quality/90/?url=http%3A%2F%2Ferepublic-brightspot.s3.amazonaws.com%2Faf%2F77%2Ffd83a96ca726f6eeeac47c572fba%2Fsacramento-dkidd.jpg"
+        width: 840
+        height: 438
+        isCached: true
   - title: "Elon Musk: focused on getting self-driving Teslas in wide release by year-end"
     excerpt: "The world must continue to extract oil and gas in order to sustain civilisation, while continuing to also develop sustainable sources of energy, Tesla founder Elon Musk told reporters at a conference in Norway on Monday."
     publishedDateTime: 2022-08-29T16:23:00Z

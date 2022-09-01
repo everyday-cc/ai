@@ -38,6 +38,36 @@ related:
         width: 1120
         height: 630
         isCached: true
+  - title: "An AI-generated artwork won a state competition, and people don’t know what to think"
+    excerpt: "Jason Allen entered the artwork titled “Theatre d’Opera Spatial” in the “ Digital Arts / Digitally-Manipulated Photography ” category of the Colorado State Fair fine arts competition but created the piece using a popular text-to-image AI generator named Midjourney."
+    publishedDateTime: 2022-09-01T16:23:00Z
+    webUrl: "https://www.theverge.com/2022/9/1/23332684/ai-generated-artwork-wins-state-fair-competition-colorado"
+    type: article
+    provider:
+      name: The Verge
+      domain: theverge.com
+    quality: 60
+    images:
+      - url: "https://cdn.vox-cdn.com/thumbor/PXIITnGyOi4R_r8kCgV7y9yfhBI=/0x79:4032x2190/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23988389/20220825_174538.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "A fascination with breathing life into AI creations can mislead us"
+    excerpt: "AI legend Douglas Hofstadter debunked Lemoine’s pronouncement by asking LaMDA and similar models nonsense questions like, “How many pieces of sound are there in a typical cumulonimbus cloud?\" and “What do fried eggs (sunny side up) eat for breakfast?"
+    publishedDateTime: 2022-09-01T16:47:00Z
+    webUrl: "https://www.livemint.com/opinion/columns/a-fascination-with-breathing-life-into-ai-creations-can-mislead-us-11662050548176.html"
+    ampWebUrl: "https://www.livemint.com/opinion/columns/a-fascination-with-breathing-life-into-ai-creations-can-mislead-us/amp-11662050548176.html"
+    cdnAmpWebUrl: "https://www-livemint-com.cdn.ampproject.org/c/s/www.livemint.com/opinion/columns/a-fascination-with-breathing-life-into-ai-creations-can-mislead-us/amp-11662050548176.html"
+    type: article
+    provider:
+      name: Mint
+      domain: livemint.com
+    quality: 59
+    images:
+      - url: "https://images.livemint.com/img/2022/09/01/600x338/AI_1662050666776_1662050666924_1662050666924.jpg"
+        width: 600
+        height: 337
+        isCached: true
 
 secured: "48jDMmU+ITY3aA+u4DKrzCAXzR4BXBG4dYQPPplX+AdbfJThbKU6NJfzaLXMLACB8W4bbuMAAD7AIg60OSuHH08eAU6Ht/gppUiEf+7vNLgddX+8blbUEAaJN9l89foLsgidlgRjg8DG1EJmxLMGfskjmMD0c/ScoihP+isp4edDhs1H50SG4pdEYCu44fnikJ5RIzl5p1P7KV8Dqns2DRjujOU6h4FApGNiJbl2dz3UBzzVsfcRn8L3xVA+uQvPPu3DsqRP65Oj0Ex+NO0US9561qOyO2DDe1FD6OhPq/WssF1mwu6QvHJWwTk0EXM9TTUCoOL+4clQ9JrVX0Jeht5ahaF6Ds2mx7fA8Uhea5xI09xoVHziGPM+G1bNue+wCBQIjY9aaWbaluZf/AlgvKteggbFymnQONeqrHZlMPA0iJt7BEXeMf5FuZLswcp7iFAAgz+5e1qjU/xZqENW2uoVAWwoB/JgI9Ov/s0ifFlrnFw5QF+PigMk4EKLZ8v1nRwhgvyKyJTyJ2s4Qf789A==;uNSsxQGkXhaX8PJYkxP07A=="
 ---

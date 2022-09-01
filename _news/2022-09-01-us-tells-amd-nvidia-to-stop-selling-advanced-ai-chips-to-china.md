@@ -131,7 +131,21 @@ related:
     provider:
       name: Reuters
       domain: reuters.com
-    quality: 83
+    quality: 85
+    images:
+      - url: "https://www.reuters.com/resizer/qkwow85lqROrYmQSCg3MurxYbWg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YHNENNNI3JN4ZJXKIUWO7ZIX5U.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "U.S. allows Nvidia exports needed to develop flagship AI chip"
+    excerpt: "Nvidia Corp said on Thursday the U.S. government has allowed exports needed to complete the development of its flagship artificial intelligence chip, a day after it disclosed that Washington had restricted shipments of two chips to China."
+    publishedDateTime: 2022-09-01T13:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-china-chips-nvidia/update-3-u-s-allows-nvidia-exports-needed-to-develop-flagship-ai-chip-idUSL4N3082PW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
     images:
       - url: "https://www.reuters.com/resizer/qkwow85lqROrYmQSCg3MurxYbWg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YHNENNNI3JN4ZJXKIUWO7ZIX5U.jpg"
         width: 1200
@@ -264,8 +278,8 @@ related:
         isCached: true
   - title: "US blocks Nvidia AI chip exports to China"
     excerpt: "China has condemned a US move to end its access to high-end processors made by chipmaker Nvidia, after Washington stepped up its efforts to restrict exports of cutting-edge technology to its trade and military rival."
-    publishedDateTime: 2022-09-01T13:43:00Z
-    webUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90?curator=upstract.com"
+    publishedDateTime: 2022-09-01T09:37:00Z
+    webUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90"
     type: article
     provider:
       name: The Financial Times
@@ -313,6 +327,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "j1f7C/FG1kqEg6iDAUzsu0It19ZVUM+/VluER8wOemGEhpY3OLL+jg1MkcLzvqWsiFbmXlSbmgWHoPLhwYXUnXQoiP3jUaIxS2Oy1G7mAdqcA6L/uzrhc7WSbn9WZp9btOWvnXB6fu7OYjXebqNfIkCpFFiLwb8kT72JPEFb7CAKc9teTxA0pW8fKGzp8no1/aRlsOBYuKizq9asXlnUQ69BmTdhYM2RZtm/VYYcHkU3Bhdo6H/rv21f/0sssK9Pw5Fe/I/Me7ua6vKyuU1G3KuxsRYbvRy1Izi3Mx/B0Z+jgTME3VkI8gRk6U7X4po3RQV2V4Jt9MosBzFRMq9GCAvvP7IpOxcIS790yWmhRVs=;lujM0BmRBmX/tFKe/YHZNg=="
+secured: "uLveLCRPd8r7utwiedVuj5UwpxBk/bS1mfcbedoqHtz10/224fAH6Q059WsLikvd+w7zO+RyU1yB2O2qWlOUU3zHxNenVtGTz8z0SV69dKq7QV7nUPsc22ATjSJQARzaUFAUefivweBC0fs1nvA8EIKuzVYUHtVYmh4UQY+6No05D5IOVZ8IyuxjVsQHRSH9hMI9CU9RRgMai1bvhzTnTPXyyH9gbjSilRvxlbVXVDpon1Q9Q827VjqUm8QYINsHuO4f9ytj0PL6tP8fKvUfsChC+IXHCkH9aEUKRbXIPa1OJfoVwlE0j3cm3/BpZNDfN5D5ycGs4FEFCc2uCCCCA0LCtegQ2uBJTdGNbdEmteNAz612Hu5aEDuTmDCLL9IqYTly2Q1oGCSzCHOXiKCmRJ4VGGcjSfzWqnNvjRiZzeHfo9P60dGH40TpD9ESxSQ0YPHAAp066oB9IRHS3MIH6L96avJq/ZUAsxAT+D4j2UKsGW0L1XEVWNALqiAhcCmOZxaZZS+t1G2+t4ZHhLg8GA==;lAgJ+R1HYaRIEA6VOCmnUw=="
 ---
 

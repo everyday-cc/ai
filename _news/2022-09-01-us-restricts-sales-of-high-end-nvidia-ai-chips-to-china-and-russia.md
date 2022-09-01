@@ -110,6 +110,34 @@ related:
         width: 1100
         height: 619
         isCached: true
+  - title: "U.S. allows Nvidia to do exports, transfers needed to develop its AI chip"
+    excerpt: "Nvidia Corp said on Thursday that the U.S. government has allowed exports and in-country transfers needed to develop the company's H100 artificial intelligence chip."
+    publishedDateTime: 2022-09-01T10:43:00Z
+    webUrl: "https://www.reuters.com/technology/us-allows-nvidia-do-exports-transfers-needed-develop-its-ai-chip-2022-09-01/"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 85
+    images:
+      - url: "https://www.reuters.com/resizer/qkwow85lqROrYmQSCg3MurxYbWg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YHNENNNI3JN4ZJXKIUWO7ZIX5U.jpg"
+        width: 1200
+        height: 628
+        isCached: true
+  - title: "U.S. allows Nvidia exports needed to develop flagship AI chip"
+    excerpt: "Nvidia Corp said on Thursday the U.S. government has allowed exports needed to complete the development of its flagship artificial intelligence chip, a day after it disclosed that Washington had restricted shipments of two chips to China."
+    publishedDateTime: 2022-09-01T13:44:00Z
+    webUrl: "https://www.reuters.com/article/usa-china-chips-nvidia/update-3-u-s-allows-nvidia-exports-needed-to-develop-flagship-ai-chip-idUSL4N3082PW"
+    type: article
+    provider:
+      name: Reuters
+      domain: reuters.com
+    quality: 84
+    images:
+      - url: "https://www.reuters.com/resizer/qkwow85lqROrYmQSCg3MurxYbWg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YHNENNNI3JN4ZJXKIUWO7ZIX5U.jpg"
+        width: 1200
+        height: 628
+        isCached: true
   - title: "US Tells AMD, Nvidia to Stop Selling Advanced AI Chips to China"
     excerpt: "AMD and Nvida are facing new license requirements imposed by the US government that restrict sales of advanced chips used for artificial intelligence to China. As Protocol reports, the restrictions will block China's access to high-end Nvidia and AMD GPUs."
     publishedDateTime: 2022-09-01T12:37:00Z
@@ -123,20 +151,6 @@ related:
       - url: "https://i.pcmag.com/imagery/articles/0428h4RvpfRvCDQ6E4Ps6W4-1.fit_lim.size_1200x630.v1662024102.jpg"
         width: 1120
         height: 630
-        isCached: true
-  - title: "U.S. allows Nvidia to do exports, transfers needed to develop its AI chip"
-    excerpt: "Nvidia Corp said on Thursday that the U.S. government has allowed exports and in-country transfers needed to develop the company's H100 artificial intelligence chip."
-    publishedDateTime: 2022-09-01T10:43:00Z
-    webUrl: "https://www.reuters.com/technology/us-allows-nvidia-do-exports-transfers-needed-develop-its-ai-chip-2022-09-01/"
-    type: article
-    provider:
-      name: Reuters
-      domain: reuters.com
-    quality: 83
-    images:
-      - url: "https://www.reuters.com/resizer/qkwow85lqROrYmQSCg3MurxYbWg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/YHNENNNI3JN4ZJXKIUWO7ZIX5U.jpg"
-        width: 1200
-        height: 628
         isCached: true
   - title: "Machine learning at the edge: The AI chip company challenging Nvidia and Qualcomm"
     excerpt: "Sima AI's machine learning system-on-chip (MLSoC) platform that enables ML deployment and scaling at the edge has started shipping."
@@ -265,8 +279,8 @@ related:
         isCached: true
   - title: "US blocks Nvidia AI chip exports to China"
     excerpt: "China has condemned a US move to end its access to high-end processors made by chipmaker Nvidia, after Washington stepped up its efforts to restrict exports of cutting-edge technology to its trade and military rival."
-    publishedDateTime: 2022-09-01T13:43:00Z
-    webUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90?curator=upstract.com"
+    publishedDateTime: 2022-09-01T09:37:00Z
+    webUrl: "https://www.ft.com/content/7005d5d2-b02f-4092-a35c-8b44889a5f90"
     type: article
     provider:
       name: The Financial Times
@@ -314,6 +328,6 @@ related:
       domain: tweaktown.com
     quality: 19
 
-secured: "EvSOr5QwbLh16UU/vC/gl5/UMm1cnN/Rddfb0mQvKVog9lC/vXRRxDch5iknTfjIdxqCaYbTbn7eNP5RVQiQBixY0cUbZLmxenUoAvHFnHfzNNj2F27O/zYIP1AI7ahzRk+rgFHi81aP1A0zllWtOrMMbAaFvtVw0KyGQh3Q1A0yghdICDG5OIanUv0U3bxqY0FSgtor4QziOkc0MGe6Y6PDYmIQp68n4hrTC/h+n6s3JhYN6QO9EWDcPExqTe5NR2bMit/Z1A9821I66PjdSBxfHWcIHPZTQJkbe+8TSXKTfLsHtNSU7xN71kybJR2i9bskmLGanR9hIEO8aVD3EMrzv+Iy2K+5BVH9ojkxw7c=;1MqLTz6i0M542IcPfn/sxw=="
+secured: "T7G8N8kVxORwKeVe+prcRLsS1liFkoog2ORGoE/OrsKfTmppBd9M4zofLjAV4NCyfSqwOCbUGV9DVJ/FecSZi14iYqy2qDeFhCozknBR1lFD/59deHkr6i3sFe4jKFzew++LrwP2DaIICJAmfvd2qt6Xm1g7v0adVwdb4JJzbyvD22ChkTQXj277DqXDRhZ5c3Y8hxvMXuU/rTxlq2SMIQ1US6q6hCJ3O7ywwUl/pmC0W2QVUbpJ4BNAVsgR9lIv7Sylr6Z/qv/8kC+zlTs1BuZfTlCWk4Oo+2nu3rQUkN8PNXBif6H3enf8wRDsgjD8OnQYTOHm6xVGPpwVDPZ+R/K4flfIv1CjLNdBsAF2/0AL/BjcONmeebiRR8FEwOfkMy9u9xLfLEtTLbtZGN+RI/pZoKBBwNvCokLXGBxJer+twEkH/4BXP3HkkO/3H+VQVdaA2DXELV/OiHwMy9gnEyH7YgxB8LnSfp3jMYsyuSVo3yXIUH1rswuj369Z+5fC5b/I3phvfQSGdiUz7P4zNQ==;o0Ca+l1Lu4f4XrkVQR3RGg=="
 ---
 

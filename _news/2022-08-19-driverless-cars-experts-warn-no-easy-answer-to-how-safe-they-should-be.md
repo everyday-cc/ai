@@ -1,21 +1,17 @@
 ---
 category: news
 title: "Driverless cars: Experts warn no easy answer to how safe they should be"
-excerpt: "It says the public may have little tolerance for driverless car crashes - even if they are safer on average. It comes as the government sets out its plans for self-driving cars. No self-driving cars are currently allowed on UK roads,"
+excerpt: "There is no easy answer as to how safe self-driving cars should be, an adviser to a new government-backed report has told the BBC. The Centre for Data Ethics and Innovation (CDEI) report warns that it might not be enough for self-driving cars to be safer than human drivers."
 publishedDateTime: 2022-08-18T23:17:00Z
-originalUrl: "https://www.bbc.com/news/technology-62598618?at_custom4=21AF8ED2-1F4C-11ED-98A9-84BF4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7"
-webUrl: "https://www.bbc.com/news/technology-62598618?at_custom4=21AF8ED2-1F4C-11ED-98A9-84BF4744363C&at_custom1=%5Bpost+type%5D&at_campaign=64&at_custom2=twitter&at_medium=custom7"
-ampWebUrl: "https://www.bbc.com/news/technology-62598618.amp"
-cdnAmpWebUrl: "https://www-bbc-com.cdn.ampproject.org/c/s/www.bbc.com/news/technology-62598618.amp"
+originalUrl: "https://www.bbc.co.uk/news/technology-62598618"
+webUrl: "https://www.bbc.co.uk/news/technology-62598618"
+ampWebUrl: "https://www.bbc.co.uk/news/technology-62598618.amp"
+cdnAmpWebUrl: "https://www-bbc-co-uk.cdn.ampproject.org/c/s/www.bbc.co.uk/news/technology-62598618.amp"
 type: article
 
 provider:
   name: BBC
-  domain: bbc.com
-  images:
-    - url: "https://everyday-cc.github.io/ai/assets/images/organizations/bbc.com-50x50.jpg"
-      width: 50
-      height: 50
+  domain: bbc.co.uk
 
 topics:
   - AI in Autos
@@ -27,6 +23,6 @@ images:
     height: 576
     isCached: true
 
-secured: "Rw/WTqrkTL2QwaGAoz1dKcuCj5XngePvUe6aph5rnIDo8Jvu2MwNLAYPLEZuaNcKhdqd/KYKrf5mILGnVVKLFJo1sPFDcJm3FHh7ZBjhWV1GeNqEGC0Ey4cuGSYHsZgcKusQof5zT4ztVHPhMzrTWMehuZI5XGMHYmHNlyVfu5EX/u2d4vJBUpD5mM67UQcQMd4Ay7XulwEawyBVMxqsSuILGp1t4gaEOXrmio4uQJJb0cnuNP41EeS+x+FzxTEcguDGr/ZlLQO2ZAWfRB7zOllAvHZkxWn7JRUhmKdoKZMRBssGo80uJ8kQGDl+6Ej81cAjrU98tysjByUZlsxrLhkP3fLhYBcDC/yjcseoPm0=;OuTK9Wlurb+93VFjpifPfg=="
+secured: "0JryaKK1GRi7U778EOqk8dXUPDHdVXzjs0R4pj5Zcs5NpM2hz72gRuXncTkVvWeLJdXly/FMSQwfXCw+QawHmAhcsOz/j1EacU3Vl4aGepXZmNiNP5XQh1h/rOlJx4e+GhDPF2Oi+MhKHeVNQ6H7qV0F3cC22K/8UfHvwewltRThrH6ksyTMlXyA5+DF3DNuwkWVzB6ZRmfyKmci+Jn98hBHnDsRxXSR18+X+kYW2CbMW0t/9qwe66GOcBjCq0LP6ATHmJWxy3oeGLZIKMEkc6DSb3BktYtLqIdE4bqWKmvFhezNcPSst2VKbi1hIH8LgPSol4NBmZ870aMu6k1J1TK4FzyGc3SIXVWPAwz60jk=;urV7EEI4OLjsosNe9kLOgg=="
 ---
 

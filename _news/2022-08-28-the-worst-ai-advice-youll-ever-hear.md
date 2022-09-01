@@ -9,7 +9,7 @@ ampWebUrl: "https://www.forbes.com/sites/cognitiveworld/2022/08/28/the-worst-ai-
 cdnAmpWebUrl: "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/cognitiveworld/2022/08/28/the-worst-ai-advice-youll-ever-hear/amp/"
 type: article
 quality: 87
-heat: 97
+heat: 107
 published: true
 
 provider:
@@ -45,6 +45,20 @@ related:
       - url: "https://imageio.forbes.com/specials-images/imageserve/630b918fcb977a8c76af1c4d/0x0.jpg?format=jpg&crop=2382,1339,x479,y165,safe&width=1200"
         width: 1200
         height: 675
+        isCached: true
+  - title: "Meta AI can tell which words you hear by reading your brainwaves"
+    excerpt: "The company behind Facebook has created an AI that could one day be used to help nonverbal people better communicate"
+    publishedDateTime: 2022-09-01T17:00:00Z
+    webUrl: "https://www.newscientist.com/article/2335961-meta-ai-can-tell-which-words-you-hear-by-reading-your-brainwaves/"
+    type: article
+    provider:
+      name: New Scientist
+      domain: newscientist.com
+    quality: 39
+    images:
+      - url: "https://images.newscientist.com/wp-content/uploads/2022/09/01160256/SEI_122402626.jpg"
+        width: 1200
+        height: 799
         isCached: true
 
 secured: "3ZhjWCJINGdGJLX5pD0FcgONwHLJKVpTsILHiC9NNzR5MDRcSLOoJs9uIxd2MvDKpGag/HYdLYcq2dUMrAHKPv2lKJEdGLhbKTC1x5g/9QTH6TkWM+Hda6KYZLecI1NE9810dmv2I4Hhd0ZHVTuPsvwRo2tBxikIqymtg+JE61dlgKzty+LxcignF41Za8ljvMd/LBGBCv8OPs7LxLE3Rie5RpBRNVP2qd52yWUS0XIzWuZH6YWgf/Lx0Y19uwoNZt8uteqCsUxFaXBv3WhLeYCHU5OqhtCeXNYjjynQNzsV366AT9Ixjze+a3jCsN/AbUi4y45rH/Ms9oKYnF9lEZaki7SYgd2KTQUxu1QjtberE1Bt3tGwiFq1KUx156tE7Wm5c2BsYo3sN1dkzXayPDUbWWO6ldg4VN1Jg1JoHHLajWKRxMxKT+mgQmloXmDF/BgWSBSfCopGjTdu6OiTcmHOGKCcx4aamLS0WC9dy3Q2pJYWlQYfvitkyxCTgBhBWCIP6dAqkhToEIBykb6J/w==;NqzVvFuSGX/VL4NwFVgE2Q=="

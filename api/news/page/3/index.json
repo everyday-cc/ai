@@ -2,6 +2,102 @@
   "page": 3,
   "value": [
     {
+      "path": "_news/2022-08-30-medical-moment-artificial-intelligence-without-internet.md",
+      "title": "Medical Moment: Artificial intelligence without internet",
+      "excerpt": "Researchers at the University of Central Florida are developing devices that won’t rely on internet connections to work in remote areas.",
+      "sourceUrl": null,
+      "webUrl": "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/",
+      "originalUrl": "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 73,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://gray-wndu-prod.cdn.arcpublishing.com/resizer/Zjrp52IWw1kfNqZiri7HqgaeAvY=/800x450/smart/filters:quality(70)/cloudfront-us-east-1.images.arcpublishing.com/gray/T5PZWRAKHRDDNBCFVXCYT3H66Q.jpg",
+          "width": 800,
+          "height": 450,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/?outputType=amp",
+      "cdnAmpWebUrl": "https://www-wndu-com.cdn.ampproject.org/c/s/www.wndu.com/2022/08/29/medical-moment-artificial-intelligence-without-internet/?outputType=amp",
+      "publishedDateTime": "2022-08-29T14:58:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "WNDU",
+        "domain": "wndu.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "AI in Autos",
+        "Facebook AI",
+        "AI in Robotics"
+      ]
+    },
+    {
+      "path": "_news/2022-08-30-edison-international-ceo-ai-tools-are-transforming-utilities.md",
+      "title": "Edison International CEO: AI Tools are Transforming Utilities",
+      "excerpt": "CEO Pedro Pizarro says “We are doing things today we didn’t imagine five years ago”",
+      "sourceUrl": null,
+      "webUrl": "https://fortune.com/videos/watch/Edison-International-CEO-AI-Tools-are-Transforming-Utilities/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160",
+      "originalUrl": "https://fortune.com/videos/watch/Edison-International-CEO-AI-Tools-are-Transforming-Utilities/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 87,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://d2byebo1j9i40c.cloudfront.net/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160/Images/posterImage-ver1-1280x720.png",
+          "width": 1280,
+          "height": 720,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://fortune.com/videos/watch/edison-international-ceo%3A-ai-tools-are-transforming-utilities/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160/amp",
+      "cdnAmpWebUrl": "https://fortune-com.cdn.ampproject.org/c/s/fortune.com/videos/watch/edison-international-ceo%3A-ai-tools-are-transforming-utilities/a354e744-d4ee-4f2a-8c9a-ae9cecbbd160/amp",
+      "publishedDateTime": "2022-08-29T14:19:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Fortune",
+        "domain": "fortune.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/fortune.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-08-30-undeclared-pools-in-france-uncovered-by-ai-technology.md",
       "title": "Undeclared pools in France uncovered by AI technology",
       "excerpt": "The discovery of thousands of undeclared private swimming pools in France has provided an unexpected windfall for French tax authorities. Following an experiment using artificial intelligence (AI), more than 20,",
@@ -542,7 +638,7 @@
       "originalUrl": "https://www.reuters.com/technology/elon-musk-aims-have-self-driving-teslas-ready-by-year-end-us-2022-08-29/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 283,
+      "heat": 293,
       "tags": null,
       "images": [
         {
@@ -836,7 +932,7 @@
       "originalUrl": "https://www.forbes.com/sites/cognitiveworld/2022/08/28/the-worst-ai-advice-youll-ever-hear/",
       "featuredContent": null,
       "highlight": null,
-      "heat": 97,
+      "heat": 107,
       "tags": null,
       "images": [
         {
@@ -927,6 +1023,57 @@
       ],
       "topics": [
         "AI in Robotics",
+        "AI"
+      ]
+    },
+    {
+      "path": "_news/2022-08-28-the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life.md",
+      "title": "The Labor Shortage Is Killing American Manufacturing. Here’s How AI Can Bring It Back To Life.",
+      "excerpt": "The manufacturing labor shortage has paved the way for widespread deployment of some very exciting innovations in Artificial Intelligence for manufacturing.",
+      "sourceUrl": null,
+      "webUrl": "https://www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/",
+      "originalUrl": "https://www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 85,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://imageio.forbes.com/specials-images/imageserve/630a2dd5ded4dcda937d1fd9/0x0.jpg?format=jpg&width=1200",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/amp/",
+      "cdnAmpWebUrl": "https://www-forbes-com.cdn.ampproject.org/c/s/www.forbes.com/sites/glenngow/2022/08/28/the-labor-shortage-is-killing-american-manufacturing-heres-how-ai-can-bring-it-back-to-life/amp/",
+      "publishedDateTime": "2022-08-28T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "Forbes",
+        "domain": "forbes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/forbes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
         "AI"
       ]
     },
@@ -1074,136 +1221,6 @@
       ],
       "topics": [
         "AI in Robotics",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story.md",
-      "title": "Artificial Intelligence (AI) in Insurance Market May See a Big Move : Google, Microsoft , IBM: Long Term Growth Story",
-      "excerpt": "New Jersey, NJ -- (SBWIRE) -- 08/27/2022-- The Global Artificial Intelligence (AI) in Insurance Market Report assesses developments relevant to the insurance industry and identifies key risks and ...",
-      "sourceUrl": null,
-      "webUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-45",
-      "originalUrl": "https://insurancenewsnet.com/oarticle/artificial-intelligence-ai-in-insurance-market-may-see-a-big-move-google-microsoft-ibm-long-term-growth-story-45",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": null,
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-08-27T15:32:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Insurancenewsnet.com",
-        "domain": "insurancenewsnet.com",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI",
-        "Microsoft AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-national-jobs-summit-a-chance-for-australia-to-hit-reset-on-artificial-intelligence-say-business-leaders.md",
-      "title": "National jobs summit a chance for Australia to hit reset on artificial intelligence, say business leaders",
-      "excerpt": "Earlier this week an artificial intelligence-powered rapper was dropped from its label (yes, it had a label) after its algorithm learned to use racial slurs in its lyrics. Artificial intelligence ...",
-      "sourceUrl": null,
-      "webUrl": "https://www.abc.net.au/news/2022-08-28/artificial-intelligence-policy-australia-jobs-summit/101366726",
-      "originalUrl": "https://www.abc.net.au/news/2022-08-28/artificial-intelligence-policy-australia-jobs-summit/101366726",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": null,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://live-production.wcms.abc-cdn.net.au/4720965b409b32025766819103817e98?impolicy=wcms_crop_resize&cropH=381&cropW=572&xPos=0&yPos=83&width=862&height=575",
-          "width": 572,
-          "height": 381,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://amp.abc.net.au/article/101366726",
-      "cdnAmpWebUrl": "https://amp-abc-net-au.cdn.ampproject.org/c/s/amp.abc.net.au/article/101366726",
-      "publishedDateTime": "2022-08-27T14:43:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Australian Broadcasting Corporation",
-        "domain": "abc.net.au",
-        "images": null,
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI in Autos",
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-08-28-solve-the-problem-of-unstructured-data-with-machine-learning.md",
-      "title": "Solve the problem of unstructured data with machine learning",
-      "excerpt": "As unstructured data is used in more business decisions and ops, ML-based quality controls help ensure your data is accurate and useful.",
-      "sourceUrl": null,
-      "webUrl": "https://venturebeat.com/data-infrastructure/solve-the-problem-of-unstructured-data-with-machine-learning/",
-      "originalUrl": "https://venturebeat.com/data-infrastructure/solve-the-problem-of-unstructured-data-with-machine-learning/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 89,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://venturebeat.com/wp-content/uploads/2021/08/GettyImages-1269967057.jpg?w=1200&strip=all",
-          "width": 1200,
-          "height": 648,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://venturebeat.com/data-infrastructure/solve-the-problem-of-unstructured-data-with-machine-learning/amp/",
-      "cdnAmpWebUrl": "https://venturebeat-com.cdn.ampproject.org/c/s/venturebeat.com/data-infrastructure/solve-the-problem-of-unstructured-data-with-machine-learning/amp/",
-      "publishedDateTime": "2022-08-27T10:10:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "VentureBeat",
-        "domain": "venturebeat.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/venturebeat.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Machine Learning",
         "AI"
       ]
     }

@@ -2,6 +2,156 @@
   "page": 87,
   "value": [
     {
+      "path": "_news/2022-06-22-whats-new-in-microsoft-azures-nlp-ai-services.md",
+      "title": "What’s new in Microsoft Azure’s NLP AI services",
+      "excerpt": "Microsoft is finally close to delivering its long-promised natural user interfaces. Here’s how you can build them into your code.",
+      "sourceUrl": null,
+      "webUrl": "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.html",
+      "originalUrl": "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 398,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://images.idgesg.net/images/article/2018/02/artificial_intelligence_ai_virtual_assistant_robot_chatbot_machine_learning_assistive_technology_thinkstock_162685804-100749923-large.jpg?auto=webp&quality=85,70",
+          "width": 1200,
+          "height": 800,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.amp.html",
+      "cdnAmpWebUrl": "https://www-infoworld-com.cdn.ampproject.org/c/s/www.infoworld.com/article/3664074/updating-the-azure-cognitive-service-for-language.amp.html",
+      "publishedDateTime": "2022-06-22T03:00:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "InfoWorld",
+        "domain": "infoworld.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/infoworld.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Microsoft AI",
+        "AI",
+        "Natural Language Processing",
+        "Computer Vision"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-why-data-driven-marketing-needs-artificial-intelligence-and-machine-learning.md",
+      "title": "Why data-driven marketing needs artificial intelligence and machine learning",
+      "excerpt": "Bobby Gray, head of analytics and data marketing at Artefact, looks at how organizations can tackle the resulting data loss with a first-party data mindset – and the adoption of artificial intelligence and machine learning. No one needs reminding that ...",
+      "sourceUrl": null,
+      "webUrl": "https://www.thedrum.com/opinion/2022/06/22/why-data-driven-marketing-needs-artificial-intelligence-and-machine-learning",
+      "originalUrl": "https://www.thedrum.com/opinion/2022/06/22/why-data-driven-marketing-needs-artificial-intelligence-and-machine-learning",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 78,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://media-assets-03.thedrum.com/cache/images/thedrum-prod/s3-news-tmp-247257-alina-grubnyak-ziqkhi7417a-unsplash--default--1280.jpg",
+          "width": 1280,
+          "height": 853,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": null,
+      "cdnAmpWebUrl": null,
+      "publishedDateTime": "2022-06-22T02:21:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "The Drum",
+        "domain": "thedrum.com",
+        "images": null,
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "AI",
+        "Machine Learning",
+        "AI in Marketing"
+      ]
+    },
+    {
+      "path": "_news/2022-06-22-the-25-most-significant-new-york-city-novels-from-the-last-100-years.md",
+      "title": "The 25 Most Significant New York City Novels From the Last 100 Years",
+      "excerpt": "Four writers and one bookseller gathered over Zoom to make a list devoted to fiction in which the city is more than mere setting.",
+      "sourceUrl": null,
+      "webUrl": "https://www.nytimes.com/2022/06/22/t-magazine/new-york-city-novels-books.html",
+      "originalUrl": "https://www.nytimes.com/2022/06/22/t-magazine/new-york-city-novels-books.html",
+      "featuredContent": null,
+      "highlight": null,
+      "heat": 74,
+      "tags": null,
+      "images": [
+        {
+          "url": "https://static01.nyt.com/images/2022/06/22/t-magazine/entertainment/22tmag-t25novels-slide-GHUM-copy/22tmag-t25novels-slide-GHUM-facebookJumbo.jpg",
+          "width": 1050,
+          "height": 550,
+          "title": null,
+          "attribution": null,
+          "isCached": true
+        }
+      ],
+      "content": "\r\n",
+      "type": "article",
+      "ampWebUrl": "https://www.nytimes.com/2022/06/22/t-magazine/new-york-city-novels-books.amp.html",
+      "cdnAmpWebUrl": "https://www-nytimes-com.cdn.ampproject.org/c/s/www.nytimes.com/2022/06/22/t-magazine/new-york-city-novels-books.amp.html",
+      "publishedDateTime": "2022-06-22T02:01:00-07:00",
+      "updatedDateTime": null,
+      "provider": {
+        "name": "New York Times",
+        "domain": "nytimes.com",
+        "images": [
+          {
+            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/nytimes.com-50x50.jpg",
+            "width": 50,
+            "height": 50,
+            "title": null,
+            "attribution": null,
+            "isCached": false
+          }
+        ],
+        "publishers": null,
+        "authors": null
+      },
+      "locale": "en-us",
+      "categories": [
+        "news"
+      ],
+      "topics": [
+        "Computer Vision",
+        "AI"
+      ]
+    },
+    {
       "path": "_news/2022-06-22-natural-language-processing-nlp-in-healthcare-and-life-sciences-market-is-expected-to-reach-usd-798-billion-by-2028-fior-markets.md",
       "title": "Natural Language Processing (NLP) In Healthcare And Life Sciences Market is Expected to Reach USD 7.98 Billion by 2028 : Fior Markets",
       "excerpt": "As per the report published by Fior Markets, the global natural language processing (NLP) in healthcare and life sciences market is expected to grow from USD 1.84 billion in 2020 and to reach USD ...",
@@ -948,163 +1098,6 @@
         "AI in Healthcare",
         "AI",
         "AI in Autos"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-this-ukrainian-deep-tech-startup-has-trained-an-ai-to-paint-war-art.md",
-      "title": "This Ukrainian deep tech startup has trained an AI to paint war art",
-      "excerpt": "A Ukrainian deep tech startup is launching a charity NFT project to sell AI-generated artworks with the twin goal of raising money to support people affected by Russia’s war of aggression and also — it hopes — keep attention locked on the conflict as it approaches its fourth",
-      "sourceUrl": null,
-      "webUrl": "https://techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/",
-      "originalUrl": "https://techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 97,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://techcrunch.com/wp-content/uploads/2022/06/5.1.3.jpg?w=1024",
-          "width": 1024,
-          "height": 568,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/amp/",
-      "cdnAmpWebUrl": "https://techcrunch-com.cdn.ampproject.org/c/s/techcrunch.com/2022/06/21/ukraine-sirens-gallery-nft-ai-war-art/amp/",
-      "publishedDateTime": "2022-06-21T13:17:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "TechCrunch",
-        "domain": "techcrunch.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/techcrunch.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-22-the-power-and-pitfalls-of-ai-for-us-intelligence.md",
-      "title": "The Power and Pitfalls of AI for US Intelligence",
-      "excerpt": "From cyber operations to disinformation, artificial intelligence extends the reach of national security threats that can target individuals and whole societies with precision, speed, and scale. As the US competes to stay ahead,",
-      "sourceUrl": null,
-      "webUrl": "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/",
-      "originalUrl": "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 109,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://media.wired.com/photos/62b225d8e0a13316321d22ea/master/pass/Artificial-Intelligence-Communities-Security-GettyImages-1293344881.jpg",
-          "width": 2400,
-          "height": 1600,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": "https://www.wired.com/story/ai-machine-learning-us-intelligence-community/amp",
-      "cdnAmpWebUrl": "https://www-wired-com.cdn.ampproject.org/c/s/www.wired.com/story/ai-machine-learning-us-intelligence-community/amp",
-      "publishedDateTime": "2022-06-21T13:14:00-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "Wired",
-        "domain": "wired.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/wired.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "Natural Language Processing",
-        "AI",
-        "Facebook AI"
-      ]
-    },
-    {
-      "path": "_news/2022-06-21-accelerate-your-career-with-ml-skills-through-the-aws-machine-learning-engineer-scholarship.md",
-      "title": "Accelerate your career with ML skills through the AWS Machine Learning Engineer Scholarship",
-      "excerpt": "Amazon Web Services and Udacity are partnering to offer free services to educate developers of all skill levels on machine learning (ML) concepts with the AWS Machine Learning Engineer Scholarship program. The program offers free enrollment to the AWS Machine Learning Foundations course and 325 scholarships",
-      "sourceUrl": null,
-      "webUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-career-with-ml-skills-through-the-aws-machine-learning-engineer-scholarship/",
-      "originalUrl": "https://aws.amazon.com/blogs/machine-learning/accelerate-your-career-with-ml-skills-through-the-aws-machine-learning-engineer-scholarship/",
-      "featuredContent": null,
-      "highlight": null,
-      "heat": 111,
-      "tags": null,
-      "images": [
-        {
-          "url": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2022/06/21/accelerate-your-career.jpg",
-          "width": 1247,
-          "height": 622,
-          "title": null,
-          "attribution": null,
-          "isCached": true
-        }
-      ],
-      "content": "\r\n",
-      "type": "article",
-      "ampWebUrl": null,
-      "cdnAmpWebUrl": null,
-      "publishedDateTime": "2022-06-21T13:11:45-07:00",
-      "updatedDateTime": null,
-      "provider": {
-        "name": "AWS",
-        "domain": "aws.amazon.com",
-        "images": [
-          {
-            "url": "https://everyday-cc.github.io/ai/assets/images/organizations/aws.amazon.com-50x50.jpg",
-            "width": 50,
-            "height": 50,
-            "title": null,
-            "attribution": null,
-            "isCached": false
-          }
-        ],
-        "publishers": null,
-        "authors": null
-      },
-      "locale": "en-us",
-      "categories": [
-        "news"
-      ],
-      "topics": [
-        "AI",
-        "AWS AI",
-        "Machine Learning"
       ]
     }
   ],
